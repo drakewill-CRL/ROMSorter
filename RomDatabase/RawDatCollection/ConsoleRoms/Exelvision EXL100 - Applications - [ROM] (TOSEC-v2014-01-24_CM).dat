@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Exelvision EXL100 - Applications - [ROM]</name>
+		<description>Exelvision EXL100 - Applications - [ROM] (TOSEC-v2014-01-24)</description>
+		<category>TOSEC</category>
+		<version>2014-01-24</version>
+		<author>TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="ExelBASIC (198x)(Exelvision)(FR)">
+		<description>ExelBASIC (198x)(Exelvision)(FR)</description>
+		<rom name="ExelBASIC (198x)(Exelvision)(FR).rom" size="32256" crc="1e92fe55" md5="505d099f2a121cc8b1367cc486c62af6" sha1="96b02b357f647be250603367091055ae7b8b5cc0"/>
+	</game>
+	<game name="ExelBASIC+ (198x)(Exelvision)(FR)">
+		<description>ExelBASIC+ (198x)(Exelvision)(FR)</description>
+		<rom name="ExelBASIC+ (198x)(Exelvision)(FR).rom" size="32256" crc="a0300b3c" md5="334bc213f12c874f579b2e736571541f" sha1="4f6769ab44e79bb579bbdf6cd90a9fe4aedb464a"/>
+	</game>
+	<game name="Exeldrums (198x)(Exelvision)(FR)">
+		<description>Exeldrums (198x)(Exelvision)(FR)</description>
+		<rom name="Exeldrums (198x)(Exelvision)(FR).rom" size="16384" crc="8f757196" md5="d195e32d3d3d5faf1d9e4727d59b308e" sha1="9d7c60fc7734f15f26e94ba95a77c5123538831f"/>
+	</game>
+	<game name="Exelmax v1.6 (1986)(Exelvision)(FR)(en)">
+		<description>Exelmax v1.6 (1986)(Exelvision)(FR)(en)</description>
+		<rom name="Exelmax v1.6 (1986)(Exelvision)(FR)(en).rom" size="32256" crc="5e031175" md5="0980df595ff3122e387f023e697c3655" sha1="4299cde83cf6bd6a85cf99788cd8a77f79489c29"/>
+	</game>
+	<game name="Exelmodem (198x)(Exelvision)(FR)">
+		<description>Exelmodem (198x)(Exelvision)(FR)</description>
+		<rom name="Exelmodem (198x)(Exelvision)(FR).rom" size="32256" crc="884ce574" md5="d17f2c37cd87668274b3bac2fac14f4f" sha1="e5f06ef7e839abbdb2bd2691749791c21730fb46"/>
+	</game>
+	<game name="Exelogo v1.0 (1985)(Exelvision)(FR)">
+		<description>Exelogo v1.0 (1985)(Exelvision)(FR)</description>
+		<rom name="Exelogo v1.0 (1985)(Exelvision)(FR).rom" size="32256" crc="2f7e8074" md5="321db1a924266b66ccd367b14b452e84" sha1="6277961f4c755ffa0c1a094a9edb3b2f77f1d9f3"/>
+	</game>
+	<game name="Exelpaint v1.0 (198x)(Exelvision)(FR)">
+		<description>Exelpaint v1.0 (198x)(Exelvision)(FR)</description>
+		<rom name="Exelpaint v1.0 (198x)(Exelvision)(FR).rom" size="32768" crc="9f0e6866" md5="20704ce8b44ed042cf77d1fd7d4d6bd9" sha1="929d9406a38d5c8e0d3389adecaae46ca165f053"/>
+	</game>
+	<game name="Exeltexte (1985)(Exelvision)(FR)">
+		<description>Exeltexte (1985)(Exelvision)(FR)</description>
+		<rom name="Exeltexte (1985)(Exelvision)(FR).rom" size="32768" crc="165b6003" md5="9dff5d6842cc5df1c601e8fe8b128b45" sha1="40a20ef4fa11ab3b735e5aa7e928f875bb64d67e"/>
+	</game>
+</datafile>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Visual Pinball [VP9] Original Tables [FullScreen spanned]</name>
+		<description>Visual Pinball [VP9] Original Tables [FullScreen spanned]</description>
+		<category>Visual Pinball [VP9] Original Tables [FullScreen spanned]</category>
+		<version>1.0</version>
+		<date>2020-01-01</date>
+		<author>Yori Yoshizuki</author>
+		<email>-insert email-</email>
+		<homepage>Yori Yoshizuki</homepage>
+		<url>https://yoshizuki.webs.com</url>
+		<comment>-insert comment-</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Avro Arrow (Bob5453, Kruge99)(1.01)[VP9][16-9 Destruk]">
+		<description>Avro Arrow (Bob5453, Kruge99)(1.01)[VP9][16-9 Destruk]</description>
+		<rom name="16-9 Avro Arrow.vpt" size="10754560" crc="75bd74ba" sha1="a53b3399dccd64d3f483f9d42453e0d2b3827fba"/>
+		<rom name="Avro Arrow screenshot.jpg" size="1194303" crc="74bc2a82" sha1="c7a2456c315b102e2896b8ad8bb8813fe6497267"/>
+	</machine>
+	<machine name="Card Sharks Deluxe">
+		<description>Card Sharks Deluxe</description>
+		<rom name="Card Sharks Deluxe (Destruk) screenshot.jpg" size="1405747" crc="191dfade" sha1="aea224fe6f2ff5d742b0ecc231a7611b168565f9"/>
+		<rom name="Card Sharks Deluxe (Eala Dubh Sidhe)(1.0)[VP9][16-9 Destruk].vpt" size="8660480" crc="fd8a2f99" sha1="1e8bff306217dc069d969a5fd02cc009471da01f"/>
+	</machine>
+</datafile>

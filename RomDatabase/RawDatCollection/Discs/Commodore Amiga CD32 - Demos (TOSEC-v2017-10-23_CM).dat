@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore Amiga CD32 - Demos</name>
+		<description>Commodore Amiga CD32 - Demos (TOSEC-v2017-10-23)</description>
+		<category>TOSEC-ISO</category>
+		<version>2017-10-23</version>
+		<author>Tomse - TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+		<clrmamepro/>
+	</header>
+	<game name="4 Decades of Amiga Demos (2017-04-30)(AmigaJay)">
+		<description>4 Decades of Amiga Demos (2017-04-30)(AmigaJay)</description>
+		<rom name="4 Decades of Amiga Demos (2017-04-30)(AmigaJay).iso" size="225773568" crc="32f470d9" md5="1eed2ba36b24abaa78f992bc9e69cf2f" sha1="640d56a95ed977eab56403254890915dd9f27c66"/>
+	</game>
+	<game name="Press Play on Pad - Demo Scene Disc Amiga CD32 (2016-12-20)(Cobe)">
+		<description>Press Play on Pad - Demo Scene Disc Amiga CD32 (2016-12-20)(Cobe)</description>
+		<rom name="Press Play on Pad - Demo Scene Disc Amiga CD32 (2016-12-20)(Cobe).iso" size="92397568" crc="f6b69c6f" md5="04217e47030ddc1d8821248fe9d15045" sha1="ef5745b82977d3865e0bd1740e5eb0a0912f7f9a"/>
+	</game>
+</datafile>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>SNK - Neo Geo Pocket (Echoj2's 1G1R)</name>
+		<description>SNK - Neo Geo Pocket (Echoj2's 1G1R)</description>
+		<category>Standard DatFile</category>
+		<version>20180623-100000</version>
+		<date>-insert date-</date>
+		<author>Eckaji</author>
+		<email>-insert email-</email>
+		<homepage>r/SBCGaming</homepage>
+		<url>https://discord.gg/JdXc6nx</url>
+		<comment>-insert comment-</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Baseball Stars (Japan, Europe) (En,Ja)">
+		<description>Baseball Stars (Japan, Europe) (En,Ja)</description>
+		<rom name="Baseball Stars (Japan, Europe) (En,Ja).ngp" size="1048576" crc="4781ae84" md5="9150a58f7094a48b980c1ac71b9cfab9" sha1="8ece00f21ae49ed4777a9c990b2782465ef95380"/>
+	</machine>
+	<machine name="King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja)">
+		<description>King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja)</description>
+		<rom name="King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja).ngp" size="2097152" crc="dceb7e11" md5="347d0ef33c889cc826d214caf8475ae0" sha1="4a7adbcccb05b6047a38bb861523cbae7d956bfa"/>
+	</machine>
+	<machine name="Neo Cherry Master - Real Casino Series (Japan, Europe) (En,Ja)">
+		<description>Neo Cherry Master - Real Casino Series (Japan, Europe) (En,Ja)</description>
+		<rom name="Neo Cherry Master - Real Casino Series (Japan, Europe) (En,Ja).ngp" size="1048576" crc="5c067579" md5="006afe2dec77d73a2c592aeb1b3f694c" sha1="c171d8d22d667d713bfc73c2b1c04bc77aacbb5c"/>
+	</machine>
+	<machine name="Neo Geo Cup '98 (Japan, Europe) (En,Ja)">
+		<description>Neo Geo Cup '98 (Japan, Europe) (En,Ja)</description>
+		<rom name="Neo Geo Cup '98 (Japan, Europe) (En,Ja).ngp" size="1048576" crc="33add5bd" md5="30efe4f72d4678ffb97b885b1b7c3da1" sha1="445743119c65a6765a0bdc849a12e9038192840c"/>
+	</machine>
+	<machine name="Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja)">
+		<description>Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja)</description>
+		<rom name="Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja).ngp" size="524288" crc="89410850" md5="6523c679a90573b09b4f70532cdff09c" sha1="59602e44c631a00b2db53196204a4bc22ccd7025"/>
+	</machine>
+	<machine name="Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja)">
+		<description>Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja)</description>
+		<rom name="Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja).ngp" size="2097152" crc="32e4696a" md5="d13f954b2f1c703bdf857837c24e332e" sha1="2c6adfa69e7aeada7d4198b373436eee35b70d01"/>
+	</machine>
+</datafile>

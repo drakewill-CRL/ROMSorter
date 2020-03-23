@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Dragon Data Dragon - Applications - [DGN]</name>
+		<description>Dragon Data Dragon - Applications - [DGN] (TOSEC-v2014-01-23)</description>
+		<category>TOSEC</category>
+		<version>2014-01-23</version>
+		<author>Eldio - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="6809 Editor Assembler (1983)(Kerry, M.J.)">
+		<description>6809 Editor Assembler (1983)(Kerry, M.J.)</description>
+		<rom name="6809 Editor Assembler (1983)(Kerry, M.J.).dgn" size="8208" crc="864c799b" md5="bb37203f6484490e0fb9e6db40f9391a" sha1="e0b553cf91c93506cd16c76f01b31cb547bf887a"/>
+	</game>
+	<game name="Delta System (1983)(Premier Microsystems)">
+		<description>Delta System (1983)(Premier Microsystems)</description>
+		<rom name="Delta System (1983)(Premier Microsystems).dgn" size="8208" crc="ee9e9448" md5="edbb190e55867134daa950b8ffab74dc" sha1="ee3384996426239c382548e41d053143cc441eac"/>
+	</game>
+	<game name="Edit Plus v2.0.1 (1983)(Compusense)">
+		<description>Edit Plus v2.0.1 (1983)(Compusense)</description>
+		<rom name="Edit Plus v2.0.1 (1983)(Compusense).dgn" size="8208" crc="51b7f83c" md5="336896e1e513163f32a27c0d5dfafb66" sha1="eb68bc3f15d134e1c30fd8a5df48b2b83c968f03"/>
+	</game>
+</datafile>

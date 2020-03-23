@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Otrona Attache - Operating Systems</name>
+		<description>Otrona Attache - Operating Systems (TOSEC-v2018-03-08)</description>
+		<category>TOSEC</category>
+		<version>2018-03-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="CPM v2.2.5 (198x)(Digital Research)">
+		<description>CPM v2.2.5 (198x)(Digital Research)</description>
+		<rom name="CPM v2.2.5 (198x)(Digital Research).imd" size="306361" crc="e34241ad" md5="7b052ead7a74e69f8e8b5d3755d0693f" sha1="b35261c8644b285902eda4a102630d0aab67d211"/>
+	</game>
+</datafile>

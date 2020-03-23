@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>DEC PDP-1 - Demos - [RIM]</name>
+		<description>DEC PDP-1 - Demos - [RIM] (TOSEC-v2014-01-13)</description>
+		<category>TOSEC</category>
+		<version>2014-01-13</version>
+		<author>TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Display Hacks (19xx)(Samson, Peter)(US)">
+		<description>Display Hacks (19xx)(Samson, Peter)(US)</description>
+		<rom name="Display Hacks (19xx)(Samson, Peter)(US).rim" size="1417" crc="33a69104" md5="4b2dd5e93b27cbe9443b1fa43eda3daa" sha1="67e0c682df3aa9da00a715e9bded1f60cd66da89"/>
+	</game>
+	<game name="Lives (2006-06-14)(Samson, Peter)(US)">
+		<description>Lives (2006-06-14)(Samson, Peter)(US)</description>
+		<rom name="Lives (2006-06-14)(Samson, Peter)(US).rim" size="784" crc="15032490" md5="d4e6fdcac21d6cf5268dd499320ee222" sha1="c0675a4398b663cb2f1f717733db1380fe2322ea"/>
+	</game>
+	<game name="Munching Squares (19xx)(Smith, Daniel)">
+		<description>Munching Squares (19xx)(Smith, Daniel)</description>
+		<rom name="Munching Squares (19xx)(Smith, Daniel).rim" size="51" crc="21f67b24" md5="7d56f342c63a8e2ec8dd568c8bfa11d4" sha1="0ebfff14062cd4034939d2f1d1995e55e580c169"/>
+	</game>
+	<game name="Music 13 (19xx)(Samson, Peter)(US)">
+		<description>Music 13 (19xx)(Samson, Peter)(US)</description>
+		<rom name="Music 13 (19xx)(Samson, Peter)(US).rim" size="3326" crc="ea8ab9f7" md5="18d3b83ae0a19d93ba939d7b7af72250" sha1="2bcec94fb298119ef6ef96ba8bb91350aeb3f634"/>
+	</game>
+</datafile>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Acorn BBC - Compilations - [UEF]</name>
+		<description>Acorn BBC - Compilations - [UEF] (TOSEC-v2013-10-16)</description>
+		<category>TOSEC</category>
+		<version>2013-10-16</version>
+		<author>CRSV - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="10 of the Best Games (19xx)(Database)">
+		<description>10 of the Best Games (19xx)(Database)</description>
+		<rom name="10 of the Best Games (19xx)(Database).uef" size="44861" crc="b91766da" md5="b02579488aba9d172fbff31e6c2fc81a" sha1="ec4b7901bcd42e79a0e36ab8d4ce010b80429dd5"/>
+	</game>
+	<game name="Best of Acorn User, The (19xx)(Acorn User)">
+		<description>Best of Acorn User, The (19xx)(Acorn User)</description>
+		<rom name="Best of Acorn User, The (19xx)(Acorn User).uef" size="39886" crc="9fa31048" md5="ffb57cf25d95bdb85b34bc3e1a07f9fc" sha1="b44ee05e8da828890e4cc869e3025ca1df0ebaaa"/>
+	</game>
+</datafile>

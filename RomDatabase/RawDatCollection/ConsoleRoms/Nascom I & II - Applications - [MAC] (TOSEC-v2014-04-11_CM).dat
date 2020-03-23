@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nascom I &amp; II - Applications - [MAC]</name>
+		<description>Nascom I &amp; II - Applications - [MAC] (TOSEC-v2014-04-11)</description>
+		<category>TOSEC</category>
+		<version>2014-04-11</version>
+		<author>Grendel - Cid - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Monitor Nasbug T2 (1978)(Nascom)">
+		<description>Monitor Nasbug T2 (1978)(Nascom)</description>
+		<rom name="Monitor Nasbug T2 (1978)(Nascom).mac" size="10080" crc="7e81900b" md5="2ffcbc45a33e22e90b2d0dba9ac8e6b4" sha1="7211418fe293481a84e0ca1be7193e1ca951c787"/>
+	</game>
+	<game name="NAS-Sys 3 (198x)(Beal, Richard)">
+		<description>NAS-Sys 3 (198x)(Beal, Richard)</description>
+		<rom name="NAS-Sys 3 (198x)(Beal, Richard).mac" size="25934" crc="5a8f50a0" md5="29fbd2163424fd8d5d8099db5544e576" sha1="839722e4fdf001c266117ca40482e42ddcd82f74"/>
+	</game>
+</datafile>

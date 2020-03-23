@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>NEC PC-Engine CD &amp; TurboGrafx-16 CD - Educational</name>
+		<description>NEC PC-Engine CD &amp; TurboGrafx-16 CD - Educational (TOSEC-v2018-05-28)</description>
+		<category>TOSEC-ISO</category>
+		<version>2018-05-28</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Magical Dinosaur Tour (1990)(NEC)(US)">
+		<description>Magical Dinosaur Tour (1990)(NEC)(US)</description>
+		<rom name="Magical Dinosaur Tour (1990)(NEC)(US).ccd" size="1247" crc="795e21bb" md5="70096b9fb98ca7ca97dc494c9af8422f" sha1="4c93b77acb4a2abe00bd50b966f56922dfc86144"/>
+		<rom name="Magical Dinosaur Tour (1990)(NEC)(US).cue" size="2608" crc="40b9ab0e" md5="2c9a7dc1a31eac70eb2632b87663ce13" sha1="ed665f0fb0d4179a006868a4c2a2287d1e5808ee"/>
+		<rom name="Magical Dinosaur Tour (1990)(NEC)(US).img" size="338048256" crc="06709d8c" md5="8922dace321dae2971e8f3506b2f5b05" sha1="9c01a059e3d914e1e5128c54873c195437d3b595"/>
+		<rom name="Magical Dinosaur Tour (1990)(NEC)(US).sub" size="13797888" crc="2cd98628" md5="e5b6b150b8a40c6dc0c5fdedbb6997b8" sha1="aade72a467fa242886a2f184651c8c289988f90c"/>
+	</game>
+	<game name="Magical Saurus Tour - Saishin Kyouryuu Zukai Dai Jiten (1990)(Victor)(JP)">
+		<description>Magical Saurus Tour - Saishin Kyouryuu Zukai Dai Jiten (1990)(Victor)(JP)</description>
+		<rom name="Magical Saurus Tour - Saishin Kyouryuu Zukai Dai Jiten (1990)(Victor)(JP).ccd" size="1245" crc="9e352cd1" md5="711f94a258ccc7ac1a37ff9193abd3c2" sha1="538074f2699d5eb5fb718c513013423d5cf2452d"/>
+		<rom name="Magical Saurus Tour - Saishin Kyouryuu Zukai Dai Jiten (1990)(Victor)(JP).img" size="340579008" crc="bd9e26a9" md5="c503f221989dec33103c8ebaa70b74ec" sha1="937d9665d759350e200da88d71daf10de70bb56a"/>
+		<rom name="Magical Saurus Tour - Saishin Kyouryuu Zukai Dai Jiten (1990)(Victor)(JP).sub" size="13901184" crc="2b7609be" md5="b7309870b1e8aabcf2c8adbbc97c1259" sha1="0e2b929d70fa0cf32053b6717ccf80b20dd169ce"/>
+		<rom name="Magical Saurus Tour - Saishin Kyouryuu Zukai Dai Jiten (1990)(Victor)(JP)[b].cue" size="2644" crc="16f58768" md5="91793da97aa5177178b1bb9cb0672015" sha1="22d8abb1e299e88ba5640c84f5697346bba41e0c"/>
+		<rom name="Magical Saurus Tour - Saishin Kyouryuu Zukai Dai Jiten (1990)(Victor)(JP)[f correct LBA].cue" size="2644" crc="87ff4243" md5="cd49e7d4acefb31a37c90bde7fd0a55b" sha1="b8e1cb1f4c06016240d24bdaf2aa782e038b451b"/>
+	</game>
+</datafile>

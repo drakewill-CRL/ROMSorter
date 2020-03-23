@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Atari Jaguar - Applications - [ROM]</name>
+		<description>Atari Jaguar - Applications - [ROM] (TOSEC-v2018-07-01)</description>
+		<category>TOSEC</category>
+		<version>2018-07-01</version>
+		<author>Cid - Cassiel - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Atari Jaguar Behind Jaggi Lines v1.06.0 (199x)(-)(PD)">
+		<description>Atari Jaguar Behind Jaggi Lines v1.06.0 (199x)(-)(PD)</description>
+		<rom name="Atari Jaguar Behind Jaggi Lines v1.06.0 (199x)(-)(PD).rom" size="121698" crc="83d4fb0b" md5="bbba721934e01dc23bfc383efbcd2501" sha1="36c1e20fa836f03cf461e6902cc835682a8022a8"/>
+	</game>
+	<game name="JagOS 2000 (2000)(Favard Laurent)(PD)">
+		<description>JagOS 2000 (2000)(Favard Laurent)(PD)</description>
+		<rom name="JagOS 2000 (2000)(Favard Laurent)(PD).rom" size="36910" crc="c276b819" md5="db3e4c0fed52edda20df5ac1fa8c2033" sha1="089b4d487701b0da6675da3d45691c2a478c5e25"/>
+	</game>
+	<game name="JagReplay v1.0a (1995)(Phoby Creative)(PD)">
+		<description>JagReplay v1.0a (1995)(Phoby Creative)(PD)</description>
+		<rom name="JagReplay v1.0a (1995)(Phoby Creative)(PD).rom" size="131056" crc="53af0874" md5="d5d2c6eeda651ee401093a59a355cab5" sha1="eed1ccf3c7086d05244e19f137d8cc45ea57c1b5"/>
+	</game>
+</datafile>

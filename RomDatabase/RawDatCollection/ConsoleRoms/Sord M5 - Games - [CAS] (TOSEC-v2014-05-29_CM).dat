@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sord M5 - Games - [CAS]</name>
+		<description>Sord M5 - Games - [CAS] (TOSEC-v2014-05-29)</description>
+		<category>TOSEC</category>
+		<version>2014-05-29</version>
+		<author>Cid - mek1</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Barricade (19xx)(-)[chain]">
+		<description>Barricade (19xx)(-)[chain]</description>
+		<rom name="Barricade (19xx)(-)[chain].cas" size="3840" crc="453b03b7" md5="cbced71a67f0924b8aaa7b0d0d17dfab" sha1="4bd1fd674ecc1348de82705df65c9968d17f4371"/>
+	</game>
+	<game name="Barrier Attack (19xx)(-)[chain]">
+		<description>Barrier Attack (19xx)(-)[chain]</description>
+		<rom name="Barrier Attack (19xx)(-)[chain].cas" size="3386" crc="f84b6cf6" md5="0db188101cc18847b2540bc914b7ec7e" sha1="58007c3f59591717ea15f89c7cf0501a956d0e03"/>
+	</game>
+	<game name="Baseball (19xx)(-)[tape]">
+		<description>Baseball (19xx)(-)[tape]</description>
+		<rom name="Baseball (19xx)(-)[tape].cas" size="11221" crc="91ba7884" md5="f74e4dd7a630df562a844cc5dc8a3fe0" sha1="5b15b6f9d1ec625c5fd12dbaa1108c0645a3c543"/>
+	</game>
+	<game name="Blackjack (19xx)(-)[chain]">
+		<description>Blackjack (19xx)(-)[chain]</description>
+		<rom name="Blackjack (19xx)(-)[chain].cas" size="16980" crc="0ba87b33" md5="4b80107c7b779a9f3e31cf1b0fa0345c" sha1="5fb0f2d186a3c1c32738e5162f32bf0831681367"/>
+	</game>
+	<game name="Cowboy (19xx)(-)[chain]">
+		<description>Cowboy (19xx)(-)[chain]</description>
+		<rom name="Cowboy (19xx)(-)[chain].cas" size="3767" crc="f4cc6900" md5="6b21cd1b3e0de1de3357b4a18431bdf8" sha1="52bbfa6aed885c6c2d818a331423217971806dfa"/>
+	</game>
+	<game name="Jogging (19xx)(-)[chain]">
+		<description>Jogging (19xx)(-)[chain]</description>
+		<rom name="Jogging (19xx)(-)[chain].cas" size="8537" crc="ee87bee5" md5="a14c39c77d3d8e21d562aaed07009095" sha1="4e7a3a4a436aac78272384a160bd1118421efbd6"/>
+	</game>
+	<game name="Last Day Of The Earth, The (19xx)(-)[chain]">
+		<description>Last Day Of The Earth, The (19xx)(-)[chain]</description>
+		<rom name="Last Day Of The Earth, The (19xx)(-)[chain].cas" size="19184" crc="d8b699da" md5="2b910e83e806a8b92876fbb96b7113c0" sha1="7e33a89c3bfcb5f73ef117a992dc67f74a3640d9"/>
+	</game>
+	<game name="Mini Star Trek (19xx)(-)[chain]">
+		<description>Mini Star Trek (19xx)(-)[chain]</description>
+		<rom name="Mini Star Trek (19xx)(-)[chain].cas" size="4744" crc="bbc88a19" md5="a2accf5f28f5990a07d32b84aeb52fdf" sha1="d066e9baf5576e338ba7122ecca497e01e451071"/>
+	</game>
+	<game name="Number Search (19xx)(-)[chain]">
+		<description>Number Search (19xx)(-)[chain]</description>
+		<rom name="Number Search (19xx)(-)[chain].cas" size="3244" crc="5ac28495" md5="3d9931f846fba6ce4f4270bb043cc8f8" sha1="052e3696c2342df39cb35f4cef781cfce8d159c7"/>
+	</game>
+	<game name="Sidewinder (19xx)(-)[chain]">
+		<description>Sidewinder (19xx)(-)[chain]</description>
+		<rom name="Sidewinder (19xx)(-)[chain].cas" size="3628" crc="a4405fe0" md5="566df568231c79221708c578eb967f67" sha1="679969f20907cb4bd2fe62340b868316d2c3aaba"/>
+	</game>
+	<game name="Slot Machine (19xx)(-)[chain]">
+		<description>Slot Machine (19xx)(-)[chain]</description>
+		<rom name="Slot Machine (19xx)(-)[chain].cas" size="5207" crc="60f5678b" md5="a5f6e35eb9b7f2b71dbf1abc8315fd9c" sha1="4f11ddac8909af685f67c30c47ae472101f94c1e"/>
+	</game>
+	<game name="Snaky (19xx)(-)[chain]">
+		<description>Snaky (19xx)(-)[chain]</description>
+		<rom name="Snaky (19xx)(-)[chain].cas" size="3213" crc="6f66a0b3" md5="c1fd06649cc4e3f5df3895f3526effb2" sha1="731fb6c43b240eb701ac10ed4c73103f11af0414"/>
+	</game>
+	<game name="Solitaire (19xx)(-)[chain]">
+		<description>Solitaire (19xx)(-)[chain]</description>
+		<rom name="Solitaire (19xx)(-)[chain].cas" size="3278" crc="c7d4f0af" md5="36b38ac9907b4e46c887b48c82f16f59" sha1="58938d626ee291e79783f9656d1e26701662808d"/>
+	</game>
+	<game name="Three Circles (19xx)(-)[chain]">
+		<description>Three Circles (19xx)(-)[chain]</description>
+		<rom name="Three Circles (19xx)(-)[chain].cas" size="3568" crc="c8436fcc" md5="35287a759f602435fa6d615a410fdc22" sha1="3c03ee9ee6ac3b51d0ca990f72fc83816d747ba1"/>
+	</game>
+	<game name="Tower of Hanoi (19xx)(-)[chain]">
+		<description>Tower of Hanoi (19xx)(-)[chain]</description>
+		<rom name="Tower of Hanoi (19xx)(-)[chain].cas" size="4108" crc="a91c50be" md5="a73d62ff41f766f38ab8ddd24668e4ee" sha1="b81e42cabf4b7d0d8389a4e4cae1ea8a49f628f2"/>
+	</game>
+	<game name="Zac Banic (19xx)(-)[tape]">
+		<description>Zac Banic (19xx)(-)[tape]</description>
+		<rom name="Zac Banic (19xx)(-)[tape].cas" size="4746" crc="05026a99" md5="e602a1032b6a0acef38ccd243a4dace1" sha1="463bdea30de9e67db98f7c2a2c5bb7e3799ef96d"/>
+	</game>
+</datafile>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>APF M-1000 - Applications</name>
+		<description>APF M-1000 - Applications (TOSEC-v2018-03-08)</description>
+		<category>TOSEC</category>
+		<version>2018-03-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="APF Basic (1979)(APF)[AL100A]">
+		<description>APF Basic (1979)(APF)[AL100A]</description>
+		<rom name="basic_68.bin" size="4096" crc="5f30370b" md5="bcc0dabbb749f8fdc3bf78d8ac8c3280" sha1="cf11bd975749b88df4d82cd460035cb92563ceff"/>
+		<rom name="basic_80.bin" size="8192" crc="a4c69fae" md5="65f01d4716454b004d39396f23d95c94" sha1="7f98aa482589bf7c5a26d338fec105e797ba43f6"/>
+	</game>
+	<game name="Character Dump (2010)(Trionfo, Adam)">
+		<description>Character Dump (2010)(Trionfo, Adam)</description>
+		<rom name="Character Dump (2010)(Trionfo, Adam).bin" size="4096" crc="27bd1c3c" md5="aa25cef1265bfcd4f68e71830a195dbf" sha1="826b608b6c33798942bd716928eef70cc8e83bda"/>
+	</game>
+	<game name="Extended Basic (1983)(Recker, R.L.)">
+		<description>Extended Basic (1983)(Recker, R.L.)</description>
+		<rom name="basic_68.bin" size="4096" crc="e99b5102" md5="857d971a2e0da857dfe909a23879e525" sha1="62a79dc5f25a60d9007c90adf778fba432dfb900"/>
+		<rom name="basic_78.bin" size="2048" crc="fdcf7782" md5="3bfcea0dd67115a3344c324a8d595105" sha1="aa0b94182920a232c1e2fb7e3a4d9042511572c4"/>
+		<rom name="basic_80.bin" size="8192" crc="3fefbd81" md5="b3af1d79b7ce9e342b08a0b6fcfbd547" sha1="d8c3ea8a152da50f71b98c464f47919e16743d29"/>
+	</game>
+	<game name="Read PIA (2010)(Trionfo, Adam)">
+		<description>Read PIA (2010)(Trionfo, Adam)</description>
+		<rom name="Read PIA (2010)(Trionfo, Adam).bin" size="4096" crc="700c1e39" md5="e7423ae5fd0baf08e614520b73f59c67" sha1="701c4f8a9fc20c8f28a5c0562592ed873d9d9ab4"/>
+	</game>
+</datafile>

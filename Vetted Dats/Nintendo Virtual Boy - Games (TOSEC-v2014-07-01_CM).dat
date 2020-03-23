@@ -1,0 +1,647 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo Virtual Boy - Games</name>
+		<description>Nintendo Virtual Boy - Games (TOSEC-v2014-07-01)</description>
+		<category>TOSEC</category>
+		<version>2014-07-01</version>
+		<author>Cassiel - Yori Yoshizuki - Eldio</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="3-D Tetris (1996)(Nintendo - T&amp;E Soft)(US)">
+		<description>3-D Tetris (1996)(Nintendo - T&amp;E Soft)(US)</description>
+		<rom name="3-D Tetris (1996)(Nintendo - T&amp;E Soft)(US).bin" size="1048576" crc="bb71b522" md5="ecf1218706e9b547eab9e4be58d54e21" sha1="5177015a91442e56bd76af39447bca365e06c272"/>
+	</game>
+	<game name="BLOX v1.0 (2003)(Radke, Christian)(PD)">
+		<description>BLOX v1.0 (2003)(Radke, Christian)(PD)</description>
+		<rom name="BLOX v1.0 (2003)(Radke, Christian)(PD).bin" size="1048576" crc="7baf43b0" md5="231145f89792e8399a730612e97ae4df" sha1="e7b28cafb0950969c8f0ea0df2288e0f8d418cc8"/>
+	</game>
+	<game name="BLOX v1.1 (2003)(Radke, Christian)(PD)">
+		<description>BLOX v1.1 (2003)(Radke, Christian)(PD)</description>
+		<rom name="BLOX v1.1 (2003)(Radke, Christian)(PD).bin" size="1048576" crc="450feab5" md5="f82d4c9fdd81518537d88f70c6602bb5" sha1="f2105349dff09bdc00e4548460991dde9ac7c2af"/>
+	</game>
+	<game name="Bound High! (1996)(Japan System Supply)(JP-US)(en-ja)(proto)">
+		<description>Bound High! (1996)(Japan System Supply)(JP-US)(en-ja)(proto)</description>
+		<rom name="Bound High! (1996)(Japan System Supply)(JP-US)(en-ja)(proto).bin" size="2097152" crc="e81a3703" md5="a460e2660fa951e9d4e3b05aee9f5018" sha1="1196ef8b9a96a0ff2f3634f8eb1c4865c0fb6b01"/>
+	</game>
+	<game name="Galactic Pinball (1995)(Nintendo)(JP-US)(en)">
+		<description>Galactic Pinball (1995)(Nintendo)(JP-US)(en)</description>
+		<rom name="Galactic Pinball (1995)(Nintendo)(JP-US)(en).bin" size="1048576" crc="c9710a36" md5="85260599fdada2e137053a8647aa0d06" sha1="93a25abf4f86e71a49c1c3a470140bb40cb693d6"/>
+	</game>
+	<game name="Galactic Pinball (1995)(Nintendo)(JP-US)(en)(beta)">
+		<description>Galactic Pinball (1995)(Nintendo)(JP-US)(en)(beta)</description>
+		<rom name="Galactic Pinball (1995)(Nintendo)(JP-US)(en)(beta).bin" size="2097152" crc="44c2b723" md5="31073126fad41777357391ecc36d6f7f" sha1="dc182360c7c8d26323db8921f09db76638e81ced"/>
+	</game>
+	<game name="GameHero (2012)(thunderstruck)[p]">
+		<description>GameHero (2012)(thunderstruck)[p]</description>
+		<rom name="GameHero (2012)(thunderstruck)[p].bin" size="2097152" crc="47f2a964" md5="25f14997133e6e0ddf4d7b2ad847090e" sha1="381ddd501d8fdcbbc5e4ccaf980e1207be0e797f"/>
+	</game>
+	<game name="GameHero (2012)(thunderstruck)[p][a]">
+		<description>GameHero (2012)(thunderstruck)[p][a]</description>
+		<rom name="GameHero (2012)(thunderstruck)[p][a].bin" size="131072" crc="e29ed6d1" md5="0742577eef9c7263da3d523e4fd79be6" sha1="a1dd46247d45dfc80097ce788c45faea29e3cc4f"/>
+	</game>
+	<game name="Golf (1995)(T&amp;E Soft)(US)">
+		<description>Golf (1995)(T&amp;E Soft)(US)</description>
+		<rom name="Golf (1995)(T&amp;E Soft)(US).bin" size="2097152" crc="2199af41" md5="977c4da800dacfac1a1402781670f872" sha1="23ce3c174789cdd306497d86cb2c4e76ba8b06e5"/>
+	</game>
+	<game name="GoSub (2009)(Read, Chris)(PD)">
+		<description>GoSub (2009)(Read, Chris)(PD)</description>
+		<rom name="GoSub (2009)(Read, Chris)(PD).bin" size="524288" crc="f9360e8b" md5="907c7f10093cfcab371754efae8ed279" sha1="c357f6fb487570cd741c32babb452dd634cda0f4"/>
+	</game>
+	<game name="GoSub 3D (2010)(Read, Chris)(PD)">
+		<description>GoSub 3D (2010)(Read, Chris)(PD)</description>
+		<rom name="GoSub 3D (2010)(Read, Chris)(PD).bin" size="524288" crc="a646a392" md5="a5a3d14326bc8dc197a2088abcabfdfb" sha1="cc60aa0ac04ce97db79ea1af7ff72ecd860fd147"/>
+	</game>
+	<game name="GoSub 3D Rev 20100922 (2010)(Read, Chris)(PD)(beta)">
+		<description>GoSub 3D Rev 20100922 (2010)(Read, Chris)(PD)(beta)</description>
+		<rom name="GoSub 3D Rev 20100922 (2010)(Read, Chris)(PD)(beta).bin" size="524288" crc="06637e51" md5="712627fcab3058e4dfd78b245f395de6" sha1="2d839aa2943d171a9217ab0ad65a8a598854dd7a"/>
+	</game>
+	<game name="GoSub 3D Rev 20100923 (2010)(Read, Chris)(PD)(beta)">
+		<description>GoSub 3D Rev 20100923 (2010)(Read, Chris)(PD)(beta)</description>
+		<rom name="GoSub 3D Rev 20100923 (2010)(Read, Chris)(PD)(beta).bin" size="524288" crc="08f0f88d" md5="59e00a964dd1d21aba5771ae5eb542f5" sha1="63ba1b22de462857d062181089fc8504679b3946"/>
+	</game>
+	<game name="GoSub Rev 20090410 (2009)(Read, Chris)(PD)(beta)">
+		<description>GoSub Rev 20090410 (2009)(Read, Chris)(PD)(beta)</description>
+		<rom name="GoSub Rev 20090410 (2009)(Read, Chris)(PD)(beta).bin" size="65536" crc="b0170ff7" md5="48568cf0edfd68b04d2b42ff082a59c6" sha1="8a9bd07985bb25e9af0047645ba9502483cecf92"/>
+	</game>
+	<game name="GoSub Rev 20090411-1 (2009)(Read, Chris)(PD)(beta)">
+		<description>GoSub Rev 20090411-1 (2009)(Read, Chris)(PD)(beta)</description>
+		<rom name="GoSub Rev 20090411-1 (2009)(Read, Chris)(PD)(beta).bin" size="65536" crc="ff102d33" md5="1b290c2e7c2a16e58bf75059351d3bdd" sha1="293dc4116f9e1848184c31d21b5b00aa98b7fefb"/>
+	</game>
+	<game name="GoSub Rev 20090411-2 (2009)(Read, Chris)(PD)(beta)">
+		<description>GoSub Rev 20090411-2 (2009)(Read, Chris)(PD)(beta)</description>
+		<rom name="GoSub Rev 20090411-2 (2009)(Read, Chris)(PD)(beta).bin" size="65536" crc="598f602c" md5="5c7e2c644c9542560f5d5da40f7921d7" sha1="660f3a0ebe0766158cff0ece06655f1b3a548a70"/>
+	</game>
+	<game name="GoSub Rev 20090411-3 (2009)(Read, Chris)(PD)(beta)">
+		<description>GoSub Rev 20090411-3 (2009)(Read, Chris)(PD)(beta)</description>
+		<rom name="GoSub Rev 20090411-3 (2009)(Read, Chris)(PD)(beta).bin" size="65536" crc="42673630" md5="fdb5defb3c8c9f83bfd933b15e55f34c" sha1="5406becad07b28824a795b1e9b1b8e7352650d9a"/>
+	</game>
+	<game name="GoSub Rev 20090411-d (2009)(Read, Chris)(PD)(beta)">
+		<description>GoSub Rev 20090411-d (2009)(Read, Chris)(PD)(beta)</description>
+		<rom name="GoSub Rev 20090411-d (2009)(Read, Chris)(PD)(beta).bin" size="65536" crc="f8180fb8" md5="cd3eb985c9a6792df62220eb9948c8bd" sha1="044c8c2f9287eb0fe83cafd934eb05033f6bfef3"/>
+	</game>
+	<game name="GoSub Rev 20090412-1 (2009)(Read, Chris)(PD)(beta)">
+		<description>GoSub Rev 20090412-1 (2009)(Read, Chris)(PD)(beta)</description>
+		<rom name="GoSub Rev 20090412-1 (2009)(Read, Chris)(PD)(beta).bin" size="65536" crc="751f1821" md5="c1f1da861c52b95628ea4bddcdd3c585" sha1="6df09c11cd1f9c19139e177bcf66078c2554194a"/>
+	</game>
+	<game name="GoSub Rev 20090412-2 (2009)(Read, Chris)(PD)(beta)">
+		<description>GoSub Rev 20090412-2 (2009)(Read, Chris)(PD)(beta)</description>
+		<rom name="GoSub Rev 20090412-2 (2009)(Read, Chris)(PD)(beta).bin" size="65536" crc="18e60d05" md5="2ab85887ce9714efa8332baa4dabc59a" sha1="13073d47fb9a25a141558923a249c7dfdb275b25"/>
+	</game>
+	<game name="GoSub Rev 20090413 (2009)(Read, Chris)(PD)(beta)">
+		<description>GoSub Rev 20090413 (2009)(Read, Chris)(PD)(beta)</description>
+		<rom name="GoSub Rev 20090413 (2009)(Read, Chris)(PD)(beta).bin" size="65536" crc="06e63c9e" md5="02f5943ae4aa57a979dcc4b9b37357b3" sha1="788881159b93bd9989727b76310f378487e615e3"/>
+	</game>
+	<game name="GoSub Rev 20090414-1 (2009)(Read, Chris)(PD)(beta)">
+		<description>GoSub Rev 20090414-1 (2009)(Read, Chris)(PD)(beta)</description>
+		<rom name="GoSub Rev 20090414-1 (2009)(Read, Chris)(PD)(beta).bin" size="131072" crc="9e89ad4b" md5="d520a146ec75ce16409732442701ec3b" sha1="aa4a843eeaf2bb67ed23e48ccbf9e43849a763d1"/>
+	</game>
+	<game name="GoSub Rev 20090414-2 (2009)(Read, Chris)(PD)(beta)">
+		<description>GoSub Rev 20090414-2 (2009)(Read, Chris)(PD)(beta)</description>
+		<rom name="GoSub Rev 20090414-2 (2009)(Read, Chris)(PD)(beta).bin" size="131072" crc="943ad6b6" md5="5bfca25adde826e324c8bf19aea3cde1" sha1="e98f840e8bd15bcbf01c904aff7a0b68b6016b6c"/>
+	</game>
+	<game name="GoSub Rev 20090414-3 (2009)(Read, Chris)(PD)(beta)">
+		<description>GoSub Rev 20090414-3 (2009)(Read, Chris)(PD)(beta)</description>
+		<rom name="GoSub Rev 20090414-3 (2009)(Read, Chris)(PD)(beta).bin" size="131072" crc="b8c16592" md5="e7b9e1b63a0278b3f63bf49f96cd59ab" sha1="3ee9b7de524fdfeaba0c03823181d5850736b0d0"/>
+	</game>
+	<game name="GoSub Rev 20090415-1 (2009)(Read, Chris)(PD)(beta)">
+		<description>GoSub Rev 20090415-1 (2009)(Read, Chris)(PD)(beta)</description>
+		<rom name="GoSub Rev 20090415-1 (2009)(Read, Chris)(PD)(beta).bin" size="131072" crc="f0a3ce5a" md5="9fe2fc89e27e6ad65e957ea655268003" sha1="abb4117a0f0b4a9ade251d72da58dacbfadc03f1"/>
+	</game>
+	<game name="GoSub Rev 20090415-2 (2009)(Read, Chris)(PD)(beta)">
+		<description>GoSub Rev 20090415-2 (2009)(Read, Chris)(PD)(beta)</description>
+		<rom name="GoSub Rev 20090415-2 (2009)(Read, Chris)(PD)(beta).bin" size="131072" crc="de2931d9" md5="f7116ddb05bb89cf654608edd9abbd4a" sha1="aea8add779bd5c3fa392b6f4c9e24d940709ba39"/>
+	</game>
+	<game name="GoSub Rev 20090416 (2009)(Read, Chris)(PD)(beta)">
+		<description>GoSub Rev 20090416 (2009)(Read, Chris)(PD)(beta)</description>
+		<rom name="GoSub Rev 20090416 (2009)(Read, Chris)(PD)(beta).bin" size="131072" crc="985ae109" md5="0d4cac2c1f7369225f8521dd8397daa0" sha1="13bfc76c8b071eaf5318caaf80f20929421e9bf1"/>
+	</game>
+	<game name="GoSub Rev 20090417 (2009)(Read, Chris)(PD)(beta)">
+		<description>GoSub Rev 20090417 (2009)(Read, Chris)(PD)(beta)</description>
+		<rom name="GoSub Rev 20090417 (2009)(Read, Chris)(PD)(beta).bin" size="131072" crc="efbf2206" md5="2b0cf812dc2bfec89896e93127863236" sha1="38dc25e852079ed39c8a952959d83295a334241b"/>
+	</game>
+	<game name="GoSub Rev 20090417-i (2009)(Read, Chris)(PD)(beta)">
+		<description>GoSub Rev 20090417-i (2009)(Read, Chris)(PD)(beta)</description>
+		<rom name="GoSub Rev 20090417-i (2009)(Read, Chris)(PD)(beta).bin" size="262144" crc="20a0b9b8" md5="e7b2291b6ea14e54c8508d53ea368868" sha1="d9e010841f9e7930af4e3f216f55fe7c86d185d0"/>
+	</game>
+	<game name="GoSub Rev 20090418 (2009)(Read, Chris)(PD)(beta)">
+		<description>GoSub Rev 20090418 (2009)(Read, Chris)(PD)(beta)</description>
+		<rom name="GoSub Rev 20090418 (2009)(Read, Chris)(PD)(beta).bin" size="262144" crc="91c10611" md5="d74e1330794ecdec8a768a8575d15b0d" sha1="534c5db7e3fe8d99f70d4746be3648ed8e496553"/>
+	</game>
+	<game name="GoSub Rev 20090419 (2009)(Read, Chris)(PD)(beta)">
+		<description>GoSub Rev 20090419 (2009)(Read, Chris)(PD)(beta)</description>
+		<rom name="GoSub Rev 20090419 (2009)(Read, Chris)(PD)(beta).bin" size="262144" crc="6072a3bc" md5="59f2d8c48f39bddf44af03e9bb339101" sha1="b292403cba6407d0859cc559391a8ce07238583e"/>
+	</game>
+	<game name="GoSub Rev 20090420 (2009)(Read, Chris)(PD)(beta)">
+		<description>GoSub Rev 20090420 (2009)(Read, Chris)(PD)(beta)</description>
+		<rom name="GoSub Rev 20090420 (2009)(Read, Chris)(PD)(beta).bin" size="262144" crc="ebae5701" md5="d90396278c091acae568400cc9514509" sha1="62ab0a1f40ed961549b42d1454173125251f3b75"/>
+	</game>
+	<game name="GoSub Rev 20090422 (2009)(Read, Chris)(PD)(beta)">
+		<description>GoSub Rev 20090422 (2009)(Read, Chris)(PD)(beta)</description>
+		<rom name="GoSub Rev 20090422 (2009)(Read, Chris)(PD)(beta).bin" size="262144" crc="d8e859b9" md5="07cb5870d8f03731a0a96fb11afc80c3" sha1="af7c4b00a5f5376a0da8399e748e36787002a9dd"/>
+	</game>
+	<game name="GoSub Rev 20090423 (2009)(Read, Chris)(PD)(beta)">
+		<description>GoSub Rev 20090423 (2009)(Read, Chris)(PD)(beta)</description>
+		<rom name="GoSub Rev 20090423 (2009)(Read, Chris)(PD)(beta).bin" size="262144" crc="3496e349" md5="6bb183178a8f3d72066222418d6798d1" sha1="30e6446975d4472cb021c6c25c0beaef0fbb9d6b"/>
+	</game>
+	<game name="GoSub Rev 20090424 (2009)(Read, Chris)(PD)(beta)">
+		<description>GoSub Rev 20090424 (2009)(Read, Chris)(PD)(beta)</description>
+		<rom name="GoSub Rev 20090424 (2009)(Read, Chris)(PD)(beta).bin" size="262144" crc="8c253e40" md5="148c68d4e8b0d46b054bfc7e75b7e864" sha1="d2d097f8f4cd1817f59f687bb07c60e5437a828d"/>
+	</game>
+	<game name="GoSub Rev 20090427 (2009)(Read, Chris)(PD)(beta)">
+		<description>GoSub Rev 20090427 (2009)(Read, Chris)(PD)(beta)</description>
+		<rom name="GoSub Rev 20090427 (2009)(Read, Chris)(PD)(beta).bin" size="262144" crc="5cd4666d" md5="21968b82d5be4c154c32a07a73ea781e" sha1="489af4c59ed889b191aab80ba170ac0b0cc300c7"/>
+	</game>
+	<game name="GoSub Rev 20090429 (2009)(Read, Chris)(PD)(beta)">
+		<description>GoSub Rev 20090429 (2009)(Read, Chris)(PD)(beta)</description>
+		<rom name="GoSub Rev 20090429 (2009)(Read, Chris)(PD)(beta).bin" size="262144" crc="c3351f66" md5="dbcedbeae4feb88780e387ff126a4dd7" sha1="ac2c5aa4131f5d076634438835b7e7eb33c1b4a5"/>
+	</game>
+	<game name="GoSub Rev 20090502 (2009)(Read, Chris)(PD)(beta)">
+		<description>GoSub Rev 20090502 (2009)(Read, Chris)(PD)(beta)</description>
+		<rom name="GoSub Rev 20090502 (2009)(Read, Chris)(PD)(beta).bin" size="262144" crc="88a0105e" md5="539ab5eaada0ee99ed451260d7e48fa6" sha1="caeb5a1c416c440a78f266bdb12674bfb6037eb5"/>
+	</game>
+	<game name="GoSub Rev 20090505 (2009)(Read, Chris)(PD)(beta)">
+		<description>GoSub Rev 20090505 (2009)(Read, Chris)(PD)(beta)</description>
+		<rom name="GoSub Rev 20090505 (2009)(Read, Chris)(PD)(beta).bin" size="524288" crc="ec22fc81" md5="67dfef13667c8713f4ccb9d9f64653ea" sha1="9326b1fdfc77914d90f4b55d4061373edd9585ea"/>
+	</game>
+	<game name="GoSub Rev 20090715 (2009)(Read, Chris)(PD)(beta)">
+		<description>GoSub Rev 20090715 (2009)(Read, Chris)(PD)(beta)</description>
+		<rom name="GoSub Rev 20090715 (2009)(Read, Chris)(PD)(beta).bin" size="524288" crc="066a2225" md5="cb3b4804afaac7911a1154db136aedc3" sha1="8a9364788e0e02d9018cd160a235cab1ad32f388"/>
+	</game>
+	<game name="GoSub Rev 20090718 (2009)(Read, Chris)(PD)(beta)">
+		<description>GoSub Rev 20090718 (2009)(Read, Chris)(PD)(beta)</description>
+		<rom name="GoSub Rev 20090718 (2009)(Read, Chris)(PD)(beta).bin" size="524288" crc="23a11661" md5="28f41241ddc4de5fef19a1890e85d040" sha1="92f93201c0ec4dc09cf7bef7c73ce4b653a36eef"/>
+	</game>
+	<game name="GoSub Rev 20090725 (2009)(Read, Chris)(PD)(beta)">
+		<description>GoSub Rev 20090725 (2009)(Read, Chris)(PD)(beta)</description>
+		<rom name="GoSub Rev 20090725 (2009)(Read, Chris)(PD)(beta).bin" size="524288" crc="bbd011db" md5="a802f40fdaa7c5701df53d4217a6dd2c" sha1="4ce4f1dace358f251025d3027aa50752f64fd73f"/>
+	</game>
+	<game name="GoSub Rev 20090726 (2009)(Read, Chris)(PD)(beta)">
+		<description>GoSub Rev 20090726 (2009)(Read, Chris)(PD)(beta)</description>
+		<rom name="GoSub Rev 20090726 (2009)(Read, Chris)(PD)(beta).bin" size="524288" crc="331be8a8" md5="795f9cd4d7ecf771fb240b3888522fe3" sha1="2045336c16e9f068c7838ad2814f6acb1d3e40c7"/>
+	</game>
+	<game name="GoSub Rev 20090727 (2009)(Read, Chris)(PD)(beta)">
+		<description>GoSub Rev 20090727 (2009)(Read, Chris)(PD)(beta)</description>
+		<rom name="GoSub Rev 20090727 (2009)(Read, Chris)(PD)(beta).bin" size="524288" crc="4e184995" md5="ff787c5049fbb2752e8a7c9fd7e9492c" sha1="524e49d8f91dc37b26c261ed7b949f2ad294d9b1"/>
+	</game>
+	<game name="GoSub Rev 20090728 (2009)(Read, Chris)(PD)(beta)">
+		<description>GoSub Rev 20090728 (2009)(Read, Chris)(PD)(beta)</description>
+		<rom name="GoSub Rev 20090728 (2009)(Read, Chris)(PD)(beta).bin" size="524288" crc="c23b7909" md5="901f7222dda133f718c1f6b8465b27a4" sha1="b4e812c826210bc0b0fcafdc21bf44ed4345ba88"/>
+	</game>
+	<game name="GoSub Rev 20090731 (2009)(Read, Chris)(PD)(beta)">
+		<description>GoSub Rev 20090731 (2009)(Read, Chris)(PD)(beta)</description>
+		<rom name="GoSub Rev 20090731 (2009)(Read, Chris)(PD)(beta).bin" size="524288" crc="cc3166ff" md5="ac0216da6d4735e7ed6dd6ca93fb53d0" sha1="1b827d2c2255bbfd89b5c80fbfd57fe87dbe8eaa"/>
+	</game>
+	<game name="GoSub Rev 20090805 (2009)(Read, Chris)(PD)(beta)">
+		<description>GoSub Rev 20090805 (2009)(Read, Chris)(PD)(beta)</description>
+		<rom name="GoSub Rev 20090805 (2009)(Read, Chris)(PD)(beta).bin" size="524288" crc="8ebae726" md5="7c87497c0baa08433b5d250bf27d6423" sha1="d3c18ac325cc1ddebb1a788f22b69e3068929679"/>
+	</game>
+	<game name="GoSub Rev 20090806 (2009)(Read, Chris)(PD)(beta)">
+		<description>GoSub Rev 20090806 (2009)(Read, Chris)(PD)(beta)</description>
+		<rom name="GoSub Rev 20090806 (2009)(Read, Chris)(PD)(beta).bin" size="524288" crc="ca338f51" md5="111a4ea01a44d7a0300e3ce8e9a5b8cf" sha1="7dc2124fed92cc81610265de670c25f6ecd0b689"/>
+	</game>
+	<game name="GoSub Rev 20090827 (2009)(Read, Chris)(PD)(beta)">
+		<description>GoSub Rev 20090827 (2009)(Read, Chris)(PD)(beta)</description>
+		<rom name="GoSub Rev 20090827 (2009)(Read, Chris)(PD)(beta).bin" size="524288" crc="d2e7782b" md5="b92610ea85cb9af02af5761551726870" sha1="443bebee620ae5551057f622818e240db9252502"/>
+	</game>
+	<game name="GoSub Rev 20091005 (2009)(Read, Chris)(PD)(beta)">
+		<description>GoSub Rev 20091005 (2009)(Read, Chris)(PD)(beta)</description>
+		<rom name="GoSub Rev 20091005 (2009)(Read, Chris)(PD)(beta).bin" size="524288" crc="44456ea4" md5="ff3a46f0c4a64c2d10746eb7a9393e20" sha1="70556b171647c77d4366bbc98da848dbea4537d7"/>
+	</game>
+	<game name="GoSub Rev 20091006-1 (2009)(Read, Chris)(PD)(beta)">
+		<description>GoSub Rev 20091006-1 (2009)(Read, Chris)(PD)(beta)</description>
+		<rom name="GoSub Rev 20091006-1 (2009)(Read, Chris)(PD)(beta).bin" size="524288" crc="86f3cad1" md5="728fd539c94a0ca2c9180b5a6b8981c4" sha1="8ad80e9a985113dc8cf19ad5a28c5001a3f0b397"/>
+	</game>
+	<game name="GoSub Rev 20091006-2 (2009)(Read, Chris)(PD)(beta)">
+		<description>GoSub Rev 20091006-2 (2009)(Read, Chris)(PD)(beta)</description>
+		<rom name="GoSub Rev 20091006-2 (2009)(Read, Chris)(PD)(beta).bin" size="524288" crc="cf6f73d7" md5="bff14da460389937a86dbc3bc1db5ee7" sha1="ec2d05de0ee7652fe5421c12e5e0ea0d98f508d3"/>
+	</game>
+	<game name="GoSub Rev 20091009 (2009)(Read, Chris)(PD)(beta)">
+		<description>GoSub Rev 20091009 (2009)(Read, Chris)(PD)(beta)</description>
+		<rom name="GoSub Rev 20091009 (2009)(Read, Chris)(PD)(beta).bin" size="524288" crc="7beaab09" md5="8ddfae2b660903456ec05b01abe1e58f" sha1="274c4bb37aa33335d2d69c95801bac831c27c3c1"/>
+	</game>
+	<game name="GoSub Rev 20091018 (2009)(Read, Chris)(PD)(beta)">
+		<description>GoSub Rev 20091018 (2009)(Read, Chris)(PD)(beta)</description>
+		<rom name="GoSub Rev 20091018 (2009)(Read, Chris)(PD)(beta).bin" size="524288" crc="14167425" md5="8c8684ba31d6d4054b47dee4f52c1b03" sha1="33cd9d3b8705f0f9f88d3a2aeea9bbfb884ef453"/>
+	</game>
+	<game name="GoSub Rev 20091019 (2009)(Read, Chris)(PD)(beta)">
+		<description>GoSub Rev 20091019 (2009)(Read, Chris)(PD)(beta)</description>
+		<rom name="GoSub Rev 20091019 (2009)(Read, Chris)(PD)(beta).bin" size="524288" crc="9b556537" md5="9f16d2e16fdf90ab4de640233ebc5091" sha1="1ffb603f620335a92a18a4b76d97d4d1c44b423a"/>
+	</game>
+	<game name="GoSub Rev 20091023 (2009)(Read, Chris)(PD)(beta)">
+		<description>GoSub Rev 20091023 (2009)(Read, Chris)(PD)(beta)</description>
+		<rom name="GoSub Rev 20091023 (2009)(Read, Chris)(PD)(beta).bin" size="524288" crc="985cf7fa" md5="e6831820ab3ded42c304052a833cf9dd" sha1="626663d38507d2fd0f006696f3100f4bdd7dfded"/>
+	</game>
+	<game name="GoSub Rev 20091028 (2009)(Read, Chris)(PD)(beta)">
+		<description>GoSub Rev 20091028 (2009)(Read, Chris)(PD)(beta)</description>
+		<rom name="GoSub Rev 20091028 (2009)(Read, Chris)(PD)(beta).bin" size="524288" crc="28f210b1" md5="e861d3ce172265ea048f793fea4b4176" sha1="61de40292eb549fe13e98fc5a8ea7a032a87634b"/>
+	</game>
+	<game name="GoSub Rev 20091101 (2009)(Read, Chris)(PD)(beta)">
+		<description>GoSub Rev 20091101 (2009)(Read, Chris)(PD)(beta)</description>
+		<rom name="GoSub Rev 20091101 (2009)(Read, Chris)(PD)(beta).bin" size="524288" crc="bccda404" md5="d0579c44eeb261ab6f3926b3e52497b0" sha1="cf2bb451316408da8b02eabff85549869412cbaf"/>
+	</game>
+	<game name="GoSub Rev 20091102 (2009)(Read, Chris)(PD)(beta)">
+		<description>GoSub Rev 20091102 (2009)(Read, Chris)(PD)(beta)</description>
+		<rom name="GoSub Rev 20091102 (2009)(Read, Chris)(PD)(beta).bin" size="524288" crc="c585315f" md5="ff452cfcf1a11ea748ea417a17cfda49" sha1="907a2ffacb122749b7118364306fed107cf608ed"/>
+	</game>
+	<game name="GoSub Rev 20091106 (2009)(Read, Chris)(PD)(beta)">
+		<description>GoSub Rev 20091106 (2009)(Read, Chris)(PD)(beta)</description>
+		<rom name="GoSub Rev 20091106 (2009)(Read, Chris)(PD)(beta).bin" size="524288" crc="6d8a03f8" md5="a4ef0c5bef1a26ad75ab559337fa2258" sha1="789de3169911430fb79c92ab843717318b0d1d07"/>
+	</game>
+	<game name="GoSub Rev 20091106-1 (2009)(Read, Chris)(PD)(beta)">
+		<description>GoSub Rev 20091106-1 (2009)(Read, Chris)(PD)(beta)</description>
+		<rom name="GoSub Rev 20091106-1 (2009)(Read, Chris)(PD)(beta).bin" size="524288" crc="5466531b" md5="c25f4eef4e716a886155810ad06590bf" sha1="daad9d40cbed6c608f80126b75fab6c1bd429eba"/>
+	</game>
+	<game name="GoSub Rev 20091107 (2009)(Read, Chris)(PD)(beta)">
+		<description>GoSub Rev 20091107 (2009)(Read, Chris)(PD)(beta)</description>
+		<rom name="GoSub Rev 20091107 (2009)(Read, Chris)(PD)(beta).bin" size="524288" crc="dd3aa5af" md5="0c0955c6d749f9044893a7aca935c926" sha1="8e03fe6dde15f3bb155dbde89a53b360186c4545"/>
+	</game>
+	<game name="GoSub Rev 20091116 (2009)(Read, Chris)(PD)(beta)">
+		<description>GoSub Rev 20091116 (2009)(Read, Chris)(PD)(beta)</description>
+		<rom name="GoSub Rev 20091116 (2009)(Read, Chris)(PD)(beta).bin" size="524288" crc="ae96ac9e" md5="563518764a597c964cf010204cc3a095" sha1="e109d9982087e11785c65e761884da246d91a7e2"/>
+	</game>
+	<game name="GoSub Rev 20091118 (2009)(Read, Chris)(PD)(beta)">
+		<description>GoSub Rev 20091118 (2009)(Read, Chris)(PD)(beta)</description>
+		<rom name="GoSub Rev 20091118 (2009)(Read, Chris)(PD)(beta).bin" size="524288" crc="96564974" md5="7917cf3ade4fd802325754b77add6c8f" sha1="0e91fbf915d91fe8d1deecb2253598be3e826386"/>
+	</game>
+	<game name="Hunter (2010)(DanB)(PD)">
+		<description>Hunter (2010)(DanB)(PD)</description>
+		<rom name="Hunter (2010)(DanB)(PD).bin" size="524288" crc="a59a6ee1" md5="2555cca2f7d8dd253f2cd5612a8ae373" sha1="b5237ece496e55520828ea2fdcfb3d8334fc4e8f"/>
+	</game>
+	<game name="Insecticide (2014)(Read, Chris)(PD)">
+		<description>Insecticide (2014)(Read, Chris)(PD)</description>
+		<rom name="Insecticide (2014)(Read, Chris)(PD).bin" size="1048576" crc="b4b41396" md5="f5d04734365222e35fbee337e9c37a12" sha1="d2e24003f3b8ab5f73dba0f3fabb683c506abb30"/>
+	</game>
+	<game name="Insmouse no Yakata (1995)(I'Max)(JP)(en-ja)[b]">
+		<description>Insmouse no Yakata (1995)(I'Max)(JP)(en-ja)[b]</description>
+		<rom name="Insmouse no Yakata (1995)(I'Max)(JP)(en-ja)[b].bin" size="1048576" crc="efd0ac36" md5="e0fcf74c0548023c67bee73cec9f33fe" sha1="8bb91e681959207be068796d540120565c174d37"/>
+	</game>
+	<game name="Jack Bros. (1995)(Atlus)(US)">
+		<description>Jack Bros. (1995)(Atlus)(US)</description>
+		<rom name="Jack Bros. (1995)(Atlus)(US).bin" size="1048576" crc="a44de03c" md5="ee873c9969c15e92ca9a0f689c4ce5ea" sha1="0e086d7ef2bd8b97315196943fd0b71da07aa8f1"/>
+	</game>
+	<game name="Jack Bros. (1995)(Atlus)(US)[b2]">
+		<description>Jack Bros. (1995)(Atlus)(US)[b2]</description>
+		<rom name="Jack Bros. (1995)(Atlus)(US)[b2].bin" size="1048576" crc="81af4d6d" md5="9f2bc8748b541b75053cf68968f3dd5f" sha1="6f0bc4b57a63921ff8e88dba9ea66d57b0333187"/>
+	</game>
+	<game name="Jack Bros. (1995)(Atlus)(US)[b]">
+		<description>Jack Bros. (1995)(Atlus)(US)[b]</description>
+		<rom name="Jack Bros. (1995)(Atlus)(US)[b].bin" size="1048576" crc="94bfdd3f" md5="d15a95e94334118d1243a1b0d9f59ef3" sha1="404f8184a3b8f8cab2750881594641b9cffc375a"/>
+	</game>
+	<game name="Jack Bros. (1995)(Atlus)(US)[h2]">
+		<description>Jack Bros. (1995)(Atlus)(US)[h2]</description>
+		<rom name="Jack Bros. (1995)(Atlus)(US)[h2].bin" size="2097152" crc="b8f226d8" md5="2fdd657f9029a076b08e81aabe75681c" sha1="eafc5d737d741f1a93a87ba7bd80d087e31ddad6"/>
+	</game>
+	<game name="Jack Bros. (1995)(Atlus)(US)[h]">
+		<description>Jack Bros. (1995)(Atlus)(US)[h]</description>
+		<rom name="Jack Bros. (1995)(Atlus)(US)[h].bin" size="1048576" crc="b15d706e" md5="c3d028f7d2463eaf36f0d6ef9b28ebd5" sha1="ea590a221e3ae85ef3490557465d84cfc1f10b3c"/>
+	</game>
+	<game name="Jack Bros. (1995)(Atlus)(US)[tr de]">
+		<description>Jack Bros. (1995)(Atlus)(US)[tr de]</description>
+		<rom name="Jack Bros. (1995)(Atlus)(US)[tr de].bin" size="1048576" crc="79a99f3c" md5="8f24a89af3c522c52265366ab9480fea" sha1="8662d41cba9ef508fdc96ed5d3d530f00cc4dbb1"/>
+	</game>
+	<game name="Jack Bros. no Meiro de Hiihoo! (1995)(Atlus)(JP)(en-ja)">
+		<description>Jack Bros. no Meiro de Hiihoo! (1995)(Atlus)(JP)(en-ja)</description>
+		<rom name="Jack Bros. no Meiro de Hiihoo! (1995)(Atlus)(JP)(en-ja).bin" size="1048576" crc="cab61e8b" md5="1b177fe2dd12ec1d67f6a43502f8d391" sha1="a973406590382ee503037271330d68d2834b79db"/>
+	</game>
+	<game name="Mario Clash (1995)(Nintendo)(JP-US)(en-ja)">
+		<description>Mario Clash (1995)(Nintendo)(JP-US)(en-ja)</description>
+		<rom name="Mario Clash (1995)(Nintendo)(JP-US)(en-ja).bin" size="1048576" crc="a47de78c" md5="b1b3a25ce8fb4f406bf82b8765d307d0" sha1="7556a778b60490bdb81774bcbaa7413fc84cb985"/>
+	</game>
+	<game name="Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[b]">
+		<description>Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[b]</description>
+		<rom name="Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[b].bin" size="1048576" crc="bf0d0ab0" md5="b53abcea059c1c18c5fdbc9c49e1683b" sha1="e952331e9b53e4156e588d6a7d148d0d82d25894"/>
+	</game>
+	<game name="Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[h2]">
+		<description>Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[h2]</description>
+		<rom name="Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[h2].bin" size="2097152" crc="fa5877cd" md5="bf3859019b06180fa8bd6824fce214db" sha1="5b212286dd6352331434854a7203a6d0c0b9961b"/>
+	</game>
+	<game name="Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[h]">
+		<description>Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[h]</description>
+		<rom name="Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[h].bin" size="1048576" crc="f572d25c" md5="76f9f6919058aec4ddada0f07d107c5e" sha1="58429aefe1343de166884d977bed9406f6da0097"/>
+	</game>
+	<game name="Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[t2]">
+		<description>Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[t2]</description>
+		<rom name="Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[t2].bin" size="2097152" crc="f2d5167e" md5="aa833e4391db075b8435380769dade51" sha1="24054a4ea59ea8a3b008c74d16aef4153b59c780"/>
+	</game>
+	<game name="Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[t]">
+		<description>Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[t]</description>
+		<rom name="Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[t].bin" size="1048576" crc="fdffb3ef" md5="d67a16d2c19b8ee9e4f3b058b4f3835f" sha1="5ac6b2a9b923dd0051debb07285d2347e77c2309"/>
+	</game>
+	<game name="Mario Kart - Virtual Cup (2008)(DogP)[p]">
+		<description>Mario Kart - Virtual Cup (2008)(DogP)[p]</description>
+		<rom name="Mario Kart - Virtual Cup (2008)(DogP)[p].bin" size="1048576" crc="27988ab9" md5="4b8c8b6a7711a005dd896b3ee9b8d0f1" sha1="7743978a58a27b8e05e36d353439a8b11ead5235"/>
+	</game>
+	<game name="Mario's Tennis (1995)(Nintendo)(JP-US)(en-ja)">
+		<description>Mario's Tennis (1995)(Nintendo)(JP-US)(en-ja)</description>
+		<rom name="Mario's Tennis (1995)(Nintendo)(JP-US)(en-ja).bin" size="524288" crc="5ac0d8bb" md5="b8c36e768bdd1f1a984876d953eaf6c4" sha1="c67b3be7386f06eeed755e2d6b0570da79e4d176"/>
+	</game>
+	<game name="Mario's Tennis (1995)(Nintendo)(JP-US)(en-ja)[a]">
+		<description>Mario's Tennis (1995)(Nintendo)(JP-US)(en-ja)[a]</description>
+		<rom name="Mario's Tennis (1995)(Nintendo)(JP-US)(en-ja)[a].bin" size="524288" crc="7ce7460d" md5="38ecc2c5a745a80d32eb9e8e413358c4" sha1="5162f7fa9e3eae4338c53ccba641ba080c768754"/>
+	</game>
+	<game name="Nester's Funky Bowling (1996)(Nintendo)(US)">
+		<description>Nester's Funky Bowling (1996)(Nintendo)(US)</description>
+		<rom name="Nester's Funky Bowling (1996)(Nintendo)(US).bin" size="2097152" crc="2f76eca9" md5="7767375a2bc47cd3aa131e4b7165f103" sha1="b0e0fb665b863532d4adef427d38e46aa78c60a2"/>
+	</game>
+	<game name="Nester's Funky Bowling (1996)(Nintendo)(US)[a]">
+		<description>Nester's Funky Bowling (1996)(Nintendo)(US)[a]</description>
+		<rom name="Nester's Funky Bowling (1996)(Nintendo)(US)[a].bin" size="2097152" crc="df4d56b4" md5="0285dc41d75be8419d12472f20025305" sha1="f4a4c7928f15102cf14c90c5f044e5f7cc7c32f9"/>
+	</game>
+	<game name="Nester's Funky Bowling (1996)(Nintendo)(US)[b2]">
+		<description>Nester's Funky Bowling (1996)(Nintendo)(US)[b2]</description>
+		<rom name="Nester's Funky Bowling (1996)(Nintendo)(US)[b2].bin" size="2097124" crc="9c092bce" md5="f9a5759263647205554941ba525ebc01" sha1="b95f81d333ddcb13447b0357238f0e7d20294010"/>
+	</game>
+	<game name="Nester's Funky Bowling (1996)(Nintendo)(US)[b3]">
+		<description>Nester's Funky Bowling (1996)(Nintendo)(US)[b3]</description>
+		<rom name="Nester's Funky Bowling (1996)(Nintendo)(US)[b3].bin" size="2097152" crc="efb3e174" md5="0c1230b4cc347229c917820510bc0bab" sha1="9bd0db06a4b7c4475059d9ed86469b1eaba47512"/>
+	</game>
+	<game name="Nester's Funky Bowling (1996)(Nintendo)(US)[b]">
+		<description>Nester's Funky Bowling (1996)(Nintendo)(US)[b]</description>
+		<rom name="Nester's Funky Bowling (1996)(Nintendo)(US)[b].bin" size="2097154" crc="63a181af" md5="766498bb058c7d75aae58b296a7bbd31" sha1="00a24322a6b3e590ec3b422c489e685f3300996b"/>
+	</game>
+	<game name="Panic Bomber (1995)(Hudson)(US)">
+		<description>Panic Bomber (1995)(Hudson)(US)</description>
+		<rom name="Panic Bomber (1995)(Hudson)(US).bin" size="524288" crc="19bb2dfb" md5="467247d5e3383d066005565bf8218436" sha1="80216b2874cf162f301d571bb8aebc98d80b4f3e"/>
+	</game>
+	<game name="Panic Bomber (1995)(Hudson)(US)[b]">
+		<description>Panic Bomber (1995)(Hudson)(US)[b]</description>
+		<rom name="Panic Bomber (1995)(Hudson)(US)[b].bin" size="524288" crc="25fb89bb" md5="923b859812d6f2c0a52ade7c8f6cece3" sha1="df5e63d3a55d0f58d797c723a021cf18195d4e58"/>
+	</game>
+	<game name="Panic Bomber (1995)(Hudson)(US)[h2]">
+		<description>Panic Bomber (1995)(Hudson)(US)[h2]</description>
+		<rom name="Panic Bomber (1995)(Hudson)(US)[h2].bin" size="524288" crc="c767fe4b" md5="6d04372b62d352af7e9662b1646b8488" sha1="2f63b4b3e7d7cf7be9be1ef67c9ff1ac479c2b21"/>
+	</game>
+	<game name="Panic Bomber (1995)(Hudson)(US)[h3]">
+		<description>Panic Bomber (1995)(Hudson)(US)[h3]</description>
+		<rom name="Panic Bomber (1995)(Hudson)(US)[h3].bin" size="2097152" crc="10348289" md5="1adecd66030c8b8e7d18e48a45c3c6e5" sha1="fd748c201181578f0ac8ec63d984d9a81fc72939"/>
+	</game>
+	<game name="Panic Bomber (1995)(Hudson)(US)[h4]">
+		<description>Panic Bomber (1995)(Hudson)(US)[h4]</description>
+		<rom name="Panic Bomber (1995)(Hudson)(US)[h4].bin" size="2097152" crc="8c4b7930" md5="cf33dd5d47ae06f0bc2269cf3d3d4d3d" sha1="a1309b082a2e064e3e8e66aef3be7315aa621424"/>
+	</game>
+	<game name="Panic Bomber (1995)(Hudson)(US)[h]">
+		<description>Panic Bomber (1995)(Hudson)(US)[h]</description>
+		<rom name="Panic Bomber (1995)(Hudson)(US)[h].bin" size="524288" crc="21d224af" md5="52d956171edf0c91a4d7fb05963a8162" sha1="705f45fd596d56cb74f2672a72df86d71fc2faa0"/>
+	</game>
+	<game name="PongInvaders (2012)(usch)(PD)">
+		<description>PongInvaders (2012)(usch)(PD)</description>
+		<rom name="PongInvaders (2012)(usch)(PD).bin" size="65536" crc="f6e78b5b" md5="37d35e412ba8db20d3e760d1a31fd392" sha1="cb4b9a0bb6af5a4b1224bfb926bca24e3430bdbc"/>
+	</game>
+	<game name="Red Alarm (1995)(T&amp;E Soft)(JP)(en-ja)">
+		<description>Red Alarm (1995)(T&amp;E Soft)(JP)(en-ja)</description>
+		<rom name="Red Alarm (1995)(T&amp;E Soft)(JP)(en-ja).bin" size="1048576" crc="7e85c45d" md5="bc469bf797f4774bbb1678c7f500853b" sha1="f5057fa9bfd9d60b9dcfc004cfdd12aa8eb1cb4a"/>
+	</game>
+	<game name="Red Alarm (1995)(T&amp;E Soft)(US)">
+		<description>Red Alarm (1995)(T&amp;E Soft)(US)</description>
+		<rom name="Red Alarm (1995)(T&amp;E Soft)(US).bin" size="1048576" crc="aa10a7b4" md5="e56e85761f52a613b34079d5322088ce" sha1="494fa60cb8997880b4e8cd3270b21d6c2768a48a"/>
+	</game>
+	<game name="Red Alarm (1995)(T&amp;E Soft)(US)[b]">
+		<description>Red Alarm (1995)(T&amp;E Soft)(US)[b]</description>
+		<rom name="Red Alarm (1995)(T&amp;E Soft)(US)[b].bin" size="318330" crc="3ceaa631" md5="f4b7c632f9a8e943e4402d16c79c370f" sha1="19cb9b7704f8a6a1b3c3303d46ad33150352e473"/>
+	</game>
+	<game name="Retro Gathering Masken (2009)(Radke, Christian)(sv)(PD)">
+		<description>Retro Gathering Masken (2009)(Radke, Christian)(sv)(PD)</description>
+		<rom name="Retro Gathering Masken (2009)(Radke, Christian)(sv)(PD).bin" size="262144" crc="65f9bd70" md5="1a74e7fbb856835422a88347f4a2dbcf" sha1="3315b3e0fd1ff5ad71a6f8db6201c415765718bf"/>
+	</game>
+	<game name="SD Gundam - Dimension War (1995)(Bandai)(JP)(en-ja)">
+		<description>SD Gundam - Dimension War (1995)(Bandai)(JP)(en-ja)</description>
+		<rom name="SD Gundam - Dimension War (1995)(Bandai)(JP)(en-ja).bin" size="1048576" crc="44788197" md5="1cf8c69d8a740d6ef3aab54deced31c4" sha1="1a67f6bdb45db46e22b8aadea754a68ad379ae29"/>
+	</game>
+	<game name="Simon! (2003)(Daderko, Pat)(PD)">
+		<description>Simon! (2003)(Daderko, Pat)(PD)</description>
+		<rom name="Simon! (2003)(Daderko, Pat)(PD).bin" size="65536" crc="0df2fca5" md5="e3dbc8fd44a12cadb43670fd8747c520" sha1="46b65dde65c135901619b6a10f6ffa8e49e66e46"/>
+	</game>
+	<game name="Snowball Wars Rev 20070726 (2007)(Jorgeche)(PD)">
+		<description>Snowball Wars Rev 20070726 (2007)(Jorgeche)(PD)</description>
+		<rom name="Snowball Wars Rev 20070726 (2007)(Jorgeche)(PD).bin" size="262144" crc="91ce8852" md5="d693a18192cbc1bd4aa678af9a3ae0d1" sha1="5f2fa60d35327bf07847f00617181af2645c3b2b"/>
+	</game>
+	<game name="Snowball Wars Rev 20070803 (2007)(Jorgeche)(PD)">
+		<description>Snowball Wars Rev 20070803 (2007)(Jorgeche)(PD)</description>
+		<rom name="Snowball Wars Rev 20070803 (2007)(Jorgeche)(PD).bin" size="1048576" crc="10848ef3" md5="ccb7a50d7fc23ec2890db7771a077392" sha1="f29c06afb49930b06c81f2e5432bf2df3e4e752d"/>
+	</game>
+	<game name="Snowball Wars Rev 20070809 (2007)(Jorgeche)(PD)">
+		<description>Snowball Wars Rev 20070809 (2007)(Jorgeche)(PD)</description>
+		<rom name="Snowball Wars Rev 20070809 (2007)(Jorgeche)(PD).bin" size="1048576" crc="a19cf939" md5="39f4ded02b9a58c1958f521d27d841af" sha1="54e6d1d3400e0fd850366fb56a9d065ba9d810e5"/>
+	</game>
+	<game name="Soviet Union 2010 (2010)(Horvat, Matej)(PD)">
+		<description>Soviet Union 2010 (2010)(Horvat, Matej)(PD)</description>
+		<rom name="Soviet Union 2010 (2010)(Horvat, Matej)(PD).bin" size="2097152" crc="447ba0c0" md5="90ef8d48eb3178f32e9ef45ac83ef7e1" sha1="328ea332004d6150b4ac8d9bdc4f0e16534907f9"/>
+	</game>
+	<game name="Soviet Union 2011 Rev 20111101 (2011)(Horvat, Matej)(PD)(beta)">
+		<description>Soviet Union 2011 Rev 20111101 (2011)(Horvat, Matej)(PD)(beta)</description>
+		<rom name="Soviet Union 2011 Rev 20111101 (2011)(Horvat, Matej)(PD)(beta).bin" size="2097152" crc="8f013627" md5="83c6752eecfdf94f576f3fcda272b91e" sha1="9c84f75182f372891d2d41f75a32326e1b17ebeb"/>
+	</game>
+	<game name="Soviet Union 2011 Rev 20111104 (2011)(Horvat, Matej)(PD)(beta)">
+		<description>Soviet Union 2011 Rev 20111104 (2011)(Horvat, Matej)(PD)(beta)</description>
+		<rom name="Soviet Union 2011 Rev 20111104 (2011)(Horvat, Matej)(PD)(beta).bin" size="2097152" crc="13660731" md5="46434bfb8eccbe7540a4d2a79d471f40" sha1="dc7b74dbb1b4ff185acf086d5bed87560675745f"/>
+	</game>
+	<game name="Soviet Union 2011 v1.0 (2011)(Horvat, Matej)(PD)">
+		<description>Soviet Union 2011 v1.0 (2011)(Horvat, Matej)(PD)</description>
+		<rom name="Soviet Union 2011 v1.0 (2011)(Horvat, Matej)(PD).bin" size="2097152" crc="5cde2c56" md5="fad62e87fc51f44d75d17d5f3ffd4e0f" sha1="3c55fc50972fd39105da3fd2bf2df033a5b7c1c3"/>
+	</game>
+	<game name="Soviet Union 2011 v1.1 (2012)(Horvat, Matej)(PD)">
+		<description>Soviet Union 2011 v1.1 (2012)(Horvat, Matej)(PD)</description>
+		<rom name="Soviet Union 2011 v1.1 (2012)(Horvat, Matej)(PD).bin" size="2097152" crc="0cd7390b" md5="9ac4a0beaccd30fc39f34a494e64a8f4" sha1="82067d7326c217d3b5bbb09031a1d51fc5811e56"/>
+	</game>
+	<game name="Space Invaders - Virtual Collection (1995)(Taito)(JP)(en-ja)">
+		<description>Space Invaders - Virtual Collection (1995)(Taito)(JP)(en-ja)</description>
+		<rom name="Space Invaders - Virtual Collection (1995)(Taito)(JP)(en-ja).bin" size="524288" crc="fa44402d" md5="7607f6f918615263512b17e56797c9aa" sha1="16ad904faafd24642dfd056d10a768e81f0d9bfa"/>
+	</game>
+	<game name="Space Squash (1995)(Coconuts Japan Entertainment)(JP)(en-ja)">
+		<description>Space Squash (1995)(Coconuts Japan Entertainment)(JP)(en-ja)</description>
+		<rom name="Space Squash (1995)(Coconuts Japan Entertainment)(JP)(en-ja).bin" size="524288" crc="60895693" md5="09c5f3143c25d1d30a3470e571653e48" sha1="3f08cae2b6f9e386529949ff954220860db1af64"/>
+	</game>
+	<game name="Space Squash (1995)(Coconuts Japan Entertainment)(JP)(en-ja)[b]">
+		<description>Space Squash (1995)(Coconuts Japan Entertainment)(JP)(en-ja)[b]</description>
+		<rom name="Space Squash (1995)(Coconuts Japan Entertainment)(JP)(en-ja)[b].bin" size="2097152" crc="c2211fcc" md5="57471e4cc5b8bb3f630ec8a7343651dd" sha1="f7863608228b2ee89e67c67d4e4b1275efe97ed0"/>
+	</game>
+	<game name="Space Squash (1995)(Coconuts Japan Entertainment)(JP)(en-ja)[tr en]">
+		<description>Space Squash (1995)(Coconuts Japan Entertainment)(JP)(en-ja)[tr en]</description>
+		<rom name="Space Squash (1995)(Coconuts Japan Entertainment)(JP)(en-ja)[tr en].bin" size="524288" crc="7cb69b3a" md5="eb6a7158a99123b1f17a63d8e6425d83" sha1="d98efbc0724ad4fa617150be613a4fe075eb5c07"/>
+	</game>
+	<game name="Space Squash (1995)(Coconuts Japan Entertainment)(JP)(en-ja)[tr en][a]">
+		<description>Space Squash (1995)(Coconuts Japan Entertainment)(JP)(en-ja)[tr en][a]</description>
+		<rom name="Space Squash (1995)(Coconuts Japan Entertainment)(JP)(en-ja)[tr en][a].bin" size="2097152" crc="25da0daf" md5="b487a12ef45f1cb5c66d51964dfbd886" sha1="099e618289ab1f0d4a413adb80c813980c2c9b81"/>
+	</game>
+	<game name="Super Bounce (2010)(DogP)(PD)">
+		<description>Super Bounce (2010)(DogP)(PD)</description>
+		<rom name="Super Bounce (2010)(DogP)(PD).bin" size="1048576" crc="552aafb0" md5="46e910ba8dc15a06fa8dd8b32d0318d0" sha1="94e897227852d76a316d756d1007e07886ede04f"/>
+	</game>
+	<game name="Super Mario Rev 20080905 (2008)(Jorgeche)(en-ja)[p]">
+		<description>Super Mario Rev 20080905 (2008)(Jorgeche)(en-ja)[p]</description>
+		<rom name="Super Mario Rev 20080905 (2008)(Jorgeche)(en-ja)[p].bin" size="524288" crc="43d81237" md5="3c69df00a15849f67968c02b650dde6f" sha1="e4b283e2a59bd54091845259e9d340cd87ce7bc3"/>
+	</game>
+	<game name="Super Mario Rev 20080913-1 (2008)(Jorgeche)(en-ja)[p]">
+		<description>Super Mario Rev 20080913-1 (2008)(Jorgeche)(en-ja)[p]</description>
+		<rom name="Super Mario Rev 20080913-1 (2008)(Jorgeche)(en-ja)[p].bin" size="524288" crc="7d7da5f7" md5="30ad852eafae74fcd9ffaad34bfb19aa" sha1="b55aa67ec782fea3c4315a4ab0d5b107e61ee9d8"/>
+	</game>
+	<game name="Super Mario Rev 20080913-2 (2008)(Jorgeche)[p]">
+		<description>Super Mario Rev 20080913-2 (2008)(Jorgeche)[p]</description>
+		<rom name="Super Mario Rev 20080913-2 (2008)(Jorgeche)[p].bin" size="524288" crc="1fb48372" md5="b2c88b0741f571e2172f0ccd1ad30457" sha1="73474d43c6b5ff7cc2d6b838d21c44fc1b10b66b"/>
+	</game>
+	<game name="Super Mario Rev 20080922 (2008)(Jorgeche)[p]">
+		<description>Super Mario Rev 20080922 (2008)(Jorgeche)[p]</description>
+		<rom name="Super Mario Rev 20080922 (2008)(Jorgeche)[p].bin" size="524288" crc="9b94f9ea" md5="7332d1f3efec49095da28e192777d9b6" sha1="4326e27aa8ba3c9644324936fa0ab353ce6b1bff"/>
+	</game>
+	<game name="Super Mario Rev 20080930 (2008)(Jorgeche)[p]">
+		<description>Super Mario Rev 20080930 (2008)(Jorgeche)[p]</description>
+		<rom name="Super Mario Rev 20080930 (2008)(Jorgeche)[p].bin" size="524288" crc="6280839a" md5="ab9034dc9158ba4af9e547dbfcf2aae6" sha1="cd9fa7f51e232187c2b3c15048bbc4bcb69615dd"/>
+	</game>
+	<game name="Super Mario Rev 20081001 (2008)(Jorgeche)(en-ja)[p]">
+		<description>Super Mario Rev 20081001 (2008)(Jorgeche)(en-ja)[p]</description>
+		<rom name="Super Mario Rev 20081001 (2008)(Jorgeche)(en-ja)[p].bin" size="524288" crc="dd63d32d" md5="03f72468609897a17028823691fc1c56" sha1="ccdc23e4f866e771d15fa480706669003afbde5b"/>
+	</game>
+	<game name="Super Mario Rev 20081027 (2008)(Jorgeche)(en-ja)[p]">
+		<description>Super Mario Rev 20081027 (2008)(Jorgeche)(en-ja)[p]</description>
+		<rom name="Super Mario Rev 20081027 (2008)(Jorgeche)(en-ja)[p].bin" size="524288" crc="eb4a2bd6" md5="7474130d8a2c31a6df237d56c1099c6a" sha1="1b01d8ca6f8422255697a40e46c341963634778c"/>
+	</game>
+	<game name="T&amp;E Virtual Golf (1995)(T&amp;E Soft)(JP)(en-ja)">
+		<description>T&amp;E Virtual Golf (1995)(T&amp;E Soft)(JP)(en-ja)</description>
+		<rom name="T&amp;E Virtual Golf (1995)(T&amp;E Soft)(JP)(en-ja).bin" size="2097152" crc="6ba07915" md5="c1dc0852af217146f93d701e1da233d4" sha1="c595285d42c69f14b2b418c1edfbe4a7f9a624b6"/>
+	</game>
+	<game name="T&amp;E Virtual Golf (1995)(T&amp;E Soft)(JP)(en-ja)[b]">
+		<description>T&amp;E Virtual Golf (1995)(T&amp;E Soft)(JP)(en-ja)[b]</description>
+		<rom name="T&amp;E Virtual Golf (1995)(T&amp;E Soft)(JP)(en-ja)[b].bin" size="2097152" crc="41fb63bf" md5="9a01d9535fef4aac3f1a07c54972cf16" sha1="5ee29050aedc1dd91f5c166ce2078987101fee97"/>
+	</game>
+	<game name="Teleroboxer (1995)(Nintendo)(JP-US)(en-ja)">
+		<description>Teleroboxer (1995)(Nintendo)(JP-US)(en-ja)</description>
+		<rom name="Teleroboxer (1995)(Nintendo)(JP-US)(en-ja).bin" size="1048576" crc="36103000" md5="0742a861a599fe3361aac6ebef6745a7" sha1="c59e020f9674774c5cbc022317ebba0eb1d744f7"/>
+	</game>
+	<game name="Teleroboxer (1995)(Nintendo)(JP-US)(en-ja)[tr de]">
+		<description>Teleroboxer (1995)(Nintendo)(JP-US)(en-ja)[tr de]</description>
+		<rom name="Teleroboxer (1995)(Nintendo)(JP-US)(en-ja)[tr de].bin" size="1048576" crc="a6e0d6db" md5="990e1a64fc283adc68e695b5e8215488" sha1="04183f89fbf9051bbce4307333367ee617ec583b"/>
+	</game>
+	<game name="Teleroboxer (1995)(Nintendo)(JP-US)(en-ja)[tr de][a]">
+		<description>Teleroboxer (1995)(Nintendo)(JP-US)(en-ja)[tr de][a]</description>
+		<rom name="Teleroboxer (1995)(Nintendo)(JP-US)(en-ja)[tr de][a].bin" size="1048576" crc="126123ad" md5="b918f194466e9777d0fcd0f611ac2eb9" sha1="42b9557226a726b98c4841ba56c5a9bce5464174"/>
+	</game>
+	<game name="Tic Tac Toe (2003)(Daderko, Pat)(PD)">
+		<description>Tic Tac Toe (2003)(Daderko, Pat)(PD)</description>
+		<rom name="Tic Tac Toe (2003)(Daderko, Pat)(PD).bin" size="65536" crc="6d7cc2e7" md5="9f4246f9400c9f2fb9cdf4b4987b4cfe" sha1="71df97a4dfb282bfeb6e29fa5b9c70c7f604e06d"/>
+	</game>
+	<game name="Tobidase! Panibomb (1995)(Hudson)(JP)(en-ja)">
+		<description>Tobidase! Panibomb (1995)(Hudson)(JP)(en-ja)</description>
+		<rom name="Tobidase! Panibomb (1995)(Hudson)(JP)(en-ja).bin" size="524288" crc="40498f5e" md5="44039dfaa0f8fcf8ece03b8cda267e4a" sha1="b8a12a9677afa5cbce6ed43eb0effb5a02875534"/>
+	</game>
+	<game name="Tron Rev 20080501 (2008)(Covarrubias, Alberto)[p]">
+		<description>Tron Rev 20080501 (2008)(Covarrubias, Alberto)[p]</description>
+		<rom name="Tron Rev 20080501 (2008)(Covarrubias, Alberto)[p].bin" size="2097152" crc="b74655b5" md5="a5f4cf98d09ec388f62a7df046de934b" sha1="7d71edae3bb198959eaf28c739ce80669c4ca3d7"/>
+	</game>
+	<game name="Tron Rev 20080927 (2008)(Covarrubias, Alberto)[p]">
+		<description>Tron Rev 20080927 (2008)(Covarrubias, Alberto)[p]</description>
+		<rom name="Tron Rev 20080927 (2008)(Covarrubias, Alberto)[p].bin" size="2097152" crc="d7f1727c" md5="5e097e4db196e56ec361f1eb04468cdb" sha1="ccbe19dae8dd9fafbd06118881e33e374a6861ed"/>
+	</game>
+	<game name="Tron VB (2003)(Daderko, Pat)(PD)">
+		<description>Tron VB (2003)(Daderko, Pat)(PD)</description>
+		<rom name="Tron VB (2003)(Daderko, Pat)(PD).bin" size="65536" crc="33c3e3a7" md5="b8cac4425d1a01b949801d81eb268ffb" sha1="43fa6a2c1caf17c3ad0141f8b2c3e6250068695b"/>
+	</game>
+	<game name="V-Tetris (1995)(Bullet-Proof Software)(JP)(en-ja)">
+		<description>V-Tetris (1995)(Bullet-Proof Software)(JP)(en-ja)</description>
+		<rom name="V-Tetris (1995)(Bullet-Proof Software)(JP)(en-ja).bin" size="524288" crc="3ccb67ae" md5="262bbae465f851ded3bb7cf46e375224" sha1="ff7d4dfc467e6e0d3fe8517102132a65a9d17589"/>
+	</game>
+	<game name="Vertical Force (1995)(Hudson)(JP)(en-ja)">
+		<description>Vertical Force (1995)(Hudson)(JP)(en-ja)</description>
+		<rom name="Vertical Force (1995)(Hudson)(JP)(en-ja).bin" size="1048576" crc="9e9b8b92" md5="fa50ce1effb4ce1d66438f723be5c788" sha1="c7204ba5cfe7d26394b5e22badc580c8ed8c0b37"/>
+	</game>
+	<game name="Vertical Force (1995)(Hudson)(JP)(en-ja)[b]">
+		<description>Vertical Force (1995)(Hudson)(JP)(en-ja)[b]</description>
+		<rom name="Vertical Force (1995)(Hudson)(JP)(en-ja)[b].bin" size="1048576" crc="05d06377" md5="b2cf015225254f54cbe5e8b917bd4632" sha1="a15b2676e8fbcfd9aa13de5fc949227994d3cd39"/>
+	</game>
+	<game name="Vertical Force (1995)(Hudson)(US)">
+		<description>Vertical Force (1995)(Hudson)(US)</description>
+		<rom name="Vertical Force (1995)(Hudson)(US).bin" size="1048576" crc="4c32ba5e" md5="87c38f66d5b9ead72af22f515a3a5f51" sha1="38f9008f60b09deef1151d46b905b090a0338200"/>
+	</game>
+	<game name="Vertical Force (1995)(Hudson)(US)[h2]">
+		<description>Vertical Force (1995)(Hudson)(US)[h2]</description>
+		<rom name="Vertical Force (1995)(Hudson)(US)[h2].bin" size="2097152" crc="48238dc1" md5="a3db912151c6285569694155777bcdb3" sha1="a1642a31a6cc5f3373c5d8bbf714e9da27d28b11"/>
+	</game>
+	<game name="Vertical Force (1995)(Hudson)(US)[h]">
+		<description>Vertical Force (1995)(Hudson)(US)[h]</description>
+		<rom name="Vertical Force (1995)(Hudson)(US)[h].bin" size="1048576" crc="dc8c0bf4" md5="c1f23aa9a6b5130a4971b4566dc19289" sha1="a9c95f87f31268e54a88e6abd1c8c5d937a2c983"/>
+	</game>
+	<game name="Virtual Bowling (1995)(Athena)(JP)(en-ja)">
+		<description>Virtual Bowling (1995)(Athena)(JP)(en-ja)</description>
+		<rom name="Virtual Bowling (1995)(Athena)(JP)(en-ja).bin" size="1048576" crc="20688279" md5="5b11d402f7e322c71a7d4fa6503631fa" sha1="a5be7654037050f0a781e70efea0191f43d26f06"/>
+	</game>
+	<game name="Virtual Bowling (1995)(Athena)(JP)(en-ja)[h2]">
+		<description>Virtual Bowling (1995)(Athena)(JP)(en-ja)[h2]</description>
+		<rom name="Virtual Bowling (1995)(Athena)(JP)(en-ja)[h2].bin" size="2097152" crc="d2d30e71" md5="591fde79167a6e5b246d6c6df87a2db8" sha1="d21ca5228fd1d8862b837c66a53adf203d988757"/>
+	</game>
+	<game name="Virtual Bowling (1995)(Athena)(JP)(en-ja)[h]">
+		<description>Virtual Bowling (1995)(Athena)(JP)(en-ja)[h]</description>
+		<rom name="Virtual Bowling (1995)(Athena)(JP)(en-ja)[h].bin" size="1048576" crc="ddf9abe0" md5="a0d8fd562ab203f35056819208a5b3f4" sha1="ed804b27d87c8329a7b9185ae8e4b1ea3f5d5b77"/>
+	</game>
+	<game name="Virtual Boy Wario Land (1995)(Nintendo)(JP-US)(en-ja)">
+		<description>Virtual Boy Wario Land (1995)(Nintendo)(JP-US)(en-ja)</description>
+		<rom name="Virtual Boy Wario Land (1995)(Nintendo)(JP-US)(en-ja).bin" size="2097152" crc="133e9372" md5="fb4dc9f4ebd506702eb49e99a62bd803" sha1="274c328fbd904f20e69172ab826bf8f94ced1bdb"/>
+	</game>
+	<game name="Virtual Fishing (1995)(Pack-In-Video)(JP)(en-ja)">
+		<description>Virtual Fishing (1995)(Pack-In-Video)(JP)(en-ja)</description>
+		<rom name="Virtual Fishing (1995)(Pack-In-Video)(JP)(en-ja).bin" size="1048576" crc="526cc969" md5="c03e792d8628c3c5729fdcae1620fb9a" sha1="583b409b7215159219d08e789db46140062095f2"/>
+	</game>
+	<game name="Virtual Fishing (1995)(Pack-In-Video)(JP)(en-ja)[b]">
+		<description>Virtual Fishing (1995)(Pack-In-Video)(JP)(en-ja)[b]</description>
+		<rom name="Virtual Fishing (1995)(Pack-In-Video)(JP)(en-ja)[b].bin" size="1048576" crc="45471e40" md5="2fba0ca950f564fc68ebdbb2c35023e8" sha1="134ce1480c927ae2b44716b8c576e7f441f0b6ed"/>
+	</game>
+	<game name="Virtual Lab (1995)(J-Wing - Nacoty)(JP)(en-ja)">
+		<description>Virtual Lab (1995)(J-Wing - Nacoty)(JP)(en-ja)</description>
+		<rom name="Virtual Lab (1995)(J-Wing - Nacoty)(JP)(en-ja).bin" size="1048576" crc="8989fe0a" md5="1cec316aca8827fdf99c685a1ee49dbc" sha1="d96c9f8aac5b4ea012a8fe659bb68fb1159a9c6d"/>
+	</game>
+	<game name="Virtual League Baseball (1995)(Kemco)(US)">
+		<description>Virtual League Baseball (1995)(Kemco)(US)</description>
+		<rom name="Virtual League Baseball (1995)(Kemco)(US).bin" size="1048576" crc="736b40d6" md5="2ba914c8aa16f2f9230b3c5b7e17e67b" sha1="266fe615ee3df1160a20b456824699f16810fa28"/>
+	</game>
+	<game name="Virtual League Baseball (1995)(Kemco)(US)[a]">
+		<description>Virtual League Baseball (1995)(Kemco)(US)[a]</description>
+		<rom name="Virtual League Baseball (1995)(Kemco)(US)[a].bin" size="1048576" crc="2e20b6e7" md5="06f112d4868033c9b4399957eef7b78b" sha1="6bc2818fb6504aab20333c507c793a90c0732c4b"/>
+	</game>
+	<game name="Virtual League Baseball (1995)(Kemco)(US)[b]">
+		<description>Virtual League Baseball (1995)(Kemco)(US)[b]</description>
+		<rom name="Virtual League Baseball (1995)(Kemco)(US)[b].bin" size="1048576" crc="cc62ab38" md5="19b78efd2f27067409f4393586b321fe" sha1="b887adfff23d53c7fb738679ec042981468b570c"/>
+	</game>
+	<game name="Virtual League Baseball (1995)(Kemco)(US)[t2]">
+		<description>Virtual League Baseball (1995)(Kemco)(US)[t2]</description>
+		<rom name="Virtual League Baseball (1995)(Kemco)(US)[t2].bin" size="2097152" crc="24adef36" md5="75ab83d493d9afc9eef49af071a32692" sha1="f2e122a99098ede24a33fe7c79d11324518f56cf"/>
+	</game>
+	<game name="Virtual League Baseball (1995)(Kemco)(US)[t]">
+		<description>Virtual League Baseball (1995)(Kemco)(US)[t]</description>
+		<rom name="Virtual League Baseball (1995)(Kemco)(US)[t].bin" size="1048576" crc="a54225b0" md5="a484d1d5bbde2bce358d59c61e3545e3" sha1="eae32e4c1472827b06d705dccbcfc77f613f4bde"/>
+	</game>
+	<game name="Virtual Pong (1999)(Covarrubias, Alberto)(PD)">
+		<description>Virtual Pong (1999)(Covarrubias, Alberto)(PD)</description>
+		<rom name="Virtual Pong (1999)(Covarrubias, Alberto)(PD).bin" size="65536" crc="42e17e38" md5="5060dc253b8f9eba7067657f2e6b3d63" sha1="2ad3981192e79412f962dc76139f0b2071ac49bf"/>
+	</game>
+	<game name="Virtual Pro Yakyuu '95 (1995)(Kemco)(JP)(en-ja)">
+		<description>Virtual Pro Yakyuu '95 (1995)(Kemco)(JP)(en-ja)</description>
+		<rom name="Virtual Pro Yakyuu '95 (1995)(Kemco)(JP)(en-ja).bin" size="1048576" crc="9ba8bb5e" md5="154b76be987a604ff8aafa4d438928f5" sha1="ab8fa82b79512eefefccdccea6768078a374c4aa"/>
+	</game>
+	<game name="Virtual Pro Yakyuu '95 (1995)(Kemco)(JP)(en-ja)[t2]">
+		<description>Virtual Pro Yakyuu '95 (1995)(Kemco)(JP)(en-ja)[t2]</description>
+		<rom name="Virtual Pro Yakyuu '95 (1995)(Kemco)(JP)(en-ja)[t2].bin" size="2097152" crc="2a075bdc" md5="1c2f8fcfa5165de8a515cc5c529a4f0f" sha1="d04db03cc9587c3fdaf061e6c7493c96bce8ee75"/>
+	</game>
+	<game name="Virtual Pro Yakyuu '95 (1995)(Kemco)(JP)(en-ja)[t]">
+		<description>Virtual Pro Yakyuu '95 (1995)(Kemco)(JP)(en-ja)[t]</description>
+		<rom name="Virtual Pro Yakyuu '95 (1995)(Kemco)(JP)(en-ja)[t].bin" size="1048576" crc="8f618fbe" md5="0cb66278fc809252530044f7db9d8fcb" sha1="140e6aa8f2619a0cb668f94d985c96c2b444848c"/>
+	</game>
+	<game name="VUE Snake v1.0 (2009)(Radke, Christian)(PD)">
+		<description>VUE Snake v1.0 (2009)(Radke, Christian)(PD)</description>
+		<rom name="VUE Snake v1.0 (2009)(Radke, Christian)(PD).bin" size="262144" crc="2375f24c" md5="9b2d1a08790b5d9177462a4227c06ff3" sha1="d3b04a8dcc088a1ab2ddb7aed64601c6b753738a"/>
+	</game>
+	<game name="VUE Snake v1.1 (2009)(Radke, Christian)(PD)">
+		<description>VUE Snake v1.1 (2009)(Radke, Christian)(PD)</description>
+		<rom name="VUE Snake v1.1 (2009)(Radke, Christian)(PD).bin" size="262144" crc="ad054747" md5="ccfa400a0ff3d717dad36a3f736fd34d" sha1="77ebaf5dbe667d8347d098b6749b6f3be09f5814"/>
+	</game>
+	<game name="Waterworld (1995)(Ocean)(US)(en-ja)">
+		<description>Waterworld (1995)(Ocean)(US)(en-ja)</description>
+		<rom name="Waterworld (1995)(Ocean)(US)(en-ja).bin" size="2097152" crc="82a95e51" md5="110a83bc070559c5cc5634a8b5cae274" sha1="dcc46484bd0acab0ac1ea178f425a0f5ccfb8dc2"/>
+	</game>
+	<game name="Waterworld (1995)(Ocean)(US)(en-ja)[b]">
+		<description>Waterworld (1995)(Ocean)(US)(en-ja)[b]</description>
+		<rom name="Waterworld (1995)(Ocean)(US)(en-ja)[b].bin" size="2097152" crc="742298d1" md5="9303817961e4333d6ae1c116ad7546d5" sha1="f94aeb9c62e5951c37c5720e4ccca063317fd059"/>
+	</game>
+</datafile>

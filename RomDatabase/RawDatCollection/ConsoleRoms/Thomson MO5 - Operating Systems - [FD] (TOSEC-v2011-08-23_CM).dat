@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Thomson MO5 - Operating Systems - [FD]</name>
+		<description>Thomson MO5 - Operating Systems - [FD] (TOSEC-v2011-08-23)</description>
+		<category>TOSEC</category>
+		<version>2011-08-23</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="3'5 Disk BASIC v1.0 (1985)(Microsoft)[3.5'']">
+		<description>3'5 Disk BASIC v1.0 (1985)(Microsoft)[3.5'']</description>
+		<rom name="3'5 Disk BASIC v1.0 (1985)(Microsoft)[3.5''].fd" size="327680" crc="d3bdc693" md5="de99e30637a736447852ddcfc1a1c5e3" sha1="927d33041c18cdca720be7d0449519ea4f288d4e"/>
+	</game>
+	<game name="MO5 Disk BASIC v1.0 (1985)(Microsoft)[5.25'' SD]">
+		<description>MO5 Disk BASIC v1.0 (1985)(Microsoft)[5.25'' SD]</description>
+		<rom name="MO5 Disk BASIC v1.0 (1985)(Microsoft)[5.25'' SD].fd" size="81920" crc="a51bf32b" md5="a5ee7e4f87c13f015635964939f50d88" sha1="02150026a8ae4c0fbe7edd540d159719f2652b75"/>
+	</game>
+	<game name="MO5 Disk BASIC v1.1 (1985)(Microsoft)[5.25'' DD]">
+		<description>MO5 Disk BASIC v1.1 (1985)(Microsoft)[5.25'' DD]</description>
+		<rom name="MO5 Disk BASIC v1.1 (1985)(Microsoft)[5.25'' DD].fd" size="163840" crc="ba22a699" md5="ac0f69bd05ad16786eeb4c98466c9aef" sha1="654ece163199e12219007ba946ffc020c36c4a42"/>
+	</game>
+</datafile>

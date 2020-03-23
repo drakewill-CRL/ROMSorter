@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>DEC PDP-11 - Collections - MainDEC</name>
+		<description>DEC PDP-11 - Collections - MainDEC (TOSEC-v2014-01-23)</description>
+		<category>TOSEC</category>
+		<version>2014-01-23</version>
+		<author>TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="MainDEC-11-DZQDD-A-UB1 (1972-10-01)(Diagnostic Group)(US)(Tape 1 of 4)[DECtape Diagnostic Package #1]">
+		<description>MainDEC-11-DZQDD-A-UB1 (1972-10-01)(Diagnostic Group)(US)(Tape 1 of 4)[DECtape Diagnostic Package #1]</description>
+		<rom name="MainDEC-11-DZQDD-A-UB1 (1972-10-01)(Diagnostic Group)(US)(Tape 1 of 4)[DECtape Diagnostic Package #1].dta" size="295936" crc="a1448d79" md5="38190f13afabf97eabf5a99d8a0533da" sha1="39b3ba8f075061f0e3ca8adab2c4d60a0dbbcbc9"/>
+	</game>
+	<game name="MainDEC-11-DZQDD-A-UB2 (1972-10-01)(Diagnostic Group)(US)(Tape 2 of 4)[DECtape Diagnostic Package #2]">
+		<description>MainDEC-11-DZQDD-A-UB2 (1972-10-01)(Diagnostic Group)(US)(Tape 2 of 4)[DECtape Diagnostic Package #2]</description>
+		<rom name="MainDEC-11-DZQDD-A-UB2 (1972-10-01)(Diagnostic Group)(US)(Tape 2 of 4)[DECtape Diagnostic Package #2].dta" size="295936" crc="41ebf4e1" md5="3ddd07ce035fed36c37c927a657b8215" sha1="cb17a532d1e956f6515b875cb7d811a544dd329d"/>
+	</game>
+	<game name="MainDEC-11-DZQDD-A-UB3 (1972-10-01)(Diagnostic Group)(US)(Tape 3 of 4)[DECtape Diagnostic Package #3]">
+		<description>MainDEC-11-DZQDD-A-UB3 (1972-10-01)(Diagnostic Group)(US)(Tape 3 of 4)[DECtape Diagnostic Package #3]</description>
+		<rom name="MainDEC-11-DZQDD-A-UB3 (1972-10-01)(Diagnostic Group)(US)(Tape 3 of 4)[DECtape Diagnostic Package #3].dta" size="295936" crc="f0ce81d3" md5="429b5f5a4a89aa9d2265f26ecd1eae07" sha1="c32ae50ebdbabab93cc4bc37592dc061d329b163"/>
+	</game>
+	<game name="MainDEC-11-DZQDD-A-UB4 (1972-10-01)(Diagnostic Group)(US)(Tape 4 of 4)[DECtape Diagnostic Package #4]">
+		<description>MainDEC-11-DZQDD-A-UB4 (1972-10-01)(Diagnostic Group)(US)(Tape 4 of 4)[DECtape Diagnostic Package #4]</description>
+		<rom name="MainDEC-11-DZQDD-A-UB4 (1972-10-01)(Diagnostic Group)(US)(Tape 4 of 4)[DECtape Diagnostic Package #4].dta" size="295936" crc="8a88cbf3" md5="23aec969ea9641303a6a5e3d44b7530b" sha1="09ae80c186508834eceaf9ecb1c7a3f9052043b2"/>
+	</game>
+</datafile>

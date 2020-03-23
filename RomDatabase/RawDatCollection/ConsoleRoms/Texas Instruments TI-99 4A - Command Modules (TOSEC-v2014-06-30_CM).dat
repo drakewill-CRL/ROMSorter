@@ -1,0 +1,1432 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Texas Instruments TI-99 4A - Command Modules</name>
+		<description>Texas Instruments TI-99 4A - Command Modules (TOSEC-v2014-06-30)</description>
+		<category>TOSEC</category>
+		<version>2014-06-30</version>
+		<author>Dpainter - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="4A Flyer (1986)(John Phillips)">
+		<description>4A Flyer (1986)(John Phillips)</description>
+		<rom name="4A Flyer (1986)(John Phillips).c" size="8192" crc="fad327d1" md5="3bf9716a9327de2a91d19289a12c27e6" sha1="beb68b40f359225a62a94941395543b28e38127b"/>
+	</game>
+	<game name="99 Home Sentry (1986)(Corcomp)">
+		<description>99 Home Sentry (1986)(Corcomp)</description>
+		<rom name="99 Home Sentry (1986)(Corcomp).c" size="8192" crc="64f42900" md5="ea0a019379d1de72c5a098a2d9ed5c10" sha1="5fa3e4a2130c594610b79a71170fe7d49a473cdc"/>
+	</game>
+	<game name="A-Maze-Ing (1980)(Texas Instruments)[PHM 3030]">
+		<description>A-Maze-Ing (1980)(Texas Instruments)[PHM 3030]</description>
+		<rom name="A-Maze-Ing (1980)(Texas Instruments)[PHM 3030].g" size="8192" crc="b890076f" md5="c2d794ef646e5b1f8af07cd4f4d196dd" sha1="b4df72d960f2abc009a302581fd094112456ecb4"/>
+	</game>
+	<game name="Accounting Assistant (1981)(Scott, Foresman)">
+		<description>Accounting Assistant (1981)(Scott, Foresman)</description>
+		<rom name="Accounting Assistant (1981)(Scott, Foresman).g" size="40960" crc="2ad92b71" md5="552ea24eeb30eef8250ebe9d5478457e" sha1="ca1e8d3a6d82fa4eb9901f7be65b2b68ef20565f"/>
+	</game>
+	<game name="Activity Accountant (1981)(Scott, Foresman)">
+		<description>Activity Accountant (1981)(Scott, Foresman)</description>
+		<rom name="Activity Accountant (1981)(Scott, Foresman).g" size="24576" crc="f40406f4" md5="35adc15a30099120ba61f9c87bd37123" sha1="af152a8887a42693823e68493aaeb7f7533299ae"/>
+	</game>
+	<game name="Addition And Subtraction 1 (1981)(Scott, Foresman)[PHM 3027]">
+		<description>Addition And Subtraction 1 (1981)(Scott, Foresman)[PHM 3027]</description>
+		<rom name="Addition And Subtraction 1 (1981)(Scott, Foresman)[PHM 3027].g" size="24576" crc="872738d4" md5="7e60f198be86db0527127eb0b08b44db" sha1="7aedcdce07a027455732f2660ad58ac8cdfe2130"/>
+	</game>
+	<game name="Addition And Subtraction 2 (1981)(Scott, Foresman)[PHM 3028]">
+		<description>Addition And Subtraction 2 (1981)(Scott, Foresman)[PHM 3028]</description>
+		<rom name="Addition And Subtraction 2 (1981)(Scott, Foresman)[PHM 3028].g" size="24576" crc="bae92e8f" md5="cc6907c50eec00a6d95b801c7f282072" sha1="b7bc545601c44f146a7836f296259b7a35c1c194"/>
+	</game>
+	<game name="Adventure (1981)(Adventure International)[PHM 3041]">
+		<description>Adventure (1981)(Adventure International)[PHM 3041]</description>
+		<rom name="Adventure (1981)(Adventure International)[PHM 3041].g" size="8192" crc="fb186f7b" md5="f82724292af3855bfbe3976cdbade08b" sha1="faaee8ae49ca97ab7b8efb35d8a3a52f101b2acd"/>
+	</game>
+	<game name="Alien Addition (1982)(DLM - Texas Instruments)[PHM 3115]">
+		<description>Alien Addition (1982)(DLM - Texas Instruments)[PHM 3115]</description>
+		<rom name="Alien Addition (1982)(DLM - Texas Instruments)[PHM 3115].g" size="16384" crc="a3bd770f" md5="7c813505f70df00292e0cf98907d17dd" sha1="173504d5a59c9b5e35da8110fa1557a1ecf33111"/>
+	</game>
+	<game name="Alligator Mix (1982)(DLM - Texas Instruments)[PHM 3114]">
+		<description>Alligator Mix (1982)(DLM - Texas Instruments)[PHM 3114]</description>
+		<rom name="Alligator Mix (1982)(DLM - Texas Instruments)[PHM 3114].g" size="40960" crc="612aaeb1" md5="6e27efb44e2207c76c30605b58878d14" sha1="be72023788b91398247d8158a094c21e90e631b5"/>
+	</game>
+	<game name="Alpiner (1982)(Texas Instruments)(Part 1 of 2)[PHM 3056]">
+		<description>Alpiner (1982)(Texas Instruments)(Part 1 of 2)[PHM 3056]</description>
+		<rom name="Alpiner (1982)(Texas Instruments)(Part 1 of 2)[PHM 3056].g" size="32768" crc="ed5c818a" md5="367185cb9fb5fa45d7d2d1357b27a1a7" sha1="d59c0453bc5cdd1c1116e9ea860234c33ad89ec1"/>
+	</game>
+	<game name="Alpiner (1982)(Texas Instruments)(Part 2 of 2)[PHM 3056]">
+		<description>Alpiner (1982)(Texas Instruments)(Part 2 of 2)[PHM 3056]</description>
+		<rom name="Alpiner (1982)(Texas Instruments)(Part 2 of 2)[PHM 3056].c" size="8192" crc="1917fb23" md5="6965f521f366fe312f31d1f88fd49214" sha1="412486c1f373ed123b30aa5f947a24a4c6525809"/>
+	</game>
+	<game name="Ambulance (1983)(Funware)">
+		<description>Ambulance (1983)(Funware)</description>
+		<rom name="Ambulance (1983)(Funware).c" size="8192" crc="94bdc45c" md5="f8c10b88b72843ae151588cc1b89daba" sha1="a1b2f8535c39ad70ea65a388c4ad77b2d5df007f"/>
+	</game>
+	<game name="An Introduction to Plant Genetics (1984)(Texas Instruments)(proto)(Part 1 of 2)">
+		<description>An Introduction to Plant Genetics (1984)(Texas Instruments)(proto)(Part 1 of 2)</description>
+		<rom name="An Introduction to Plant Genetics (1984)(Texas Instruments)(proto)(Part 1 of 2).g" size="30720" crc="19affdb3" md5="c6fe19f41b144c19c489d2b562fe88ea" sha1="e6d8686132283d95708f2cf175544b9803511cbd"/>
+	</game>
+	<game name="An Introduction to Plant Genetics (1984)(Texas Instruments)(proto)(Part 2 of 2)">
+		<description>An Introduction to Plant Genetics (1984)(Texas Instruments)(proto)(Part 2 of 2)</description>
+		<rom name="An Introduction to Plant Genetics (1984)(Texas Instruments)(proto)(Part 2 of 2).c" size="8192" crc="2c6a88a7" md5="e180802421b97ed86758aa5f83253d5e" sha1="2b4628d36cfc8ad805fd8bb873467156df0a7882"/>
+	</game>
+	<game name="Ant-eater (1983)(Romox)">
+		<description>Ant-eater (1983)(Romox)</description>
+		<rom name="Ant-eater (1983)(Romox).c" size="8192" crc="1b5a541e" md5="998e402e518d83e0f2067ce15b947916" sha1="ad9d28109ab7263b49e2ccb511e6e8587d859ab9"/>
+	</game>
+	<game name="Attack, The (1980)(Texas Instruments)[PHM 3031]">
+		<description>Attack, The (1980)(Texas Instruments)[PHM 3031]</description>
+		<rom name="Attack, The (1980)(Texas Instruments)[PHM 3031].g" size="8192" crc="46a115d4" md5="6180d0b110827daae139b460d7f4bcfd" sha1="442f8cc4c0ca87fe7123af35fa023bc36ceb4078"/>
+	</game>
+	<game name="Attendance Recorder (1982)(Scott, Foresman)">
+		<description>Attendance Recorder (1982)(Scott, Foresman)</description>
+		<rom name="Attendance Recorder (1982)(Scott, Foresman).g" size="40960" crc="9422492f" md5="df40263c4086df0e2958d3ca6b8c955c" sha1="1cd445aeaef361faf84617106730d717962e59cf"/>
+	</game>
+	<game name="Barrage (1983)(Sofmachine)(Part 1 of 2)">
+		<description>Barrage (1983)(Sofmachine)(Part 1 of 2)</description>
+		<rom name="Barrage (1983)(Sofmachine)(Part 1 of 2).d" size="8192" crc="10ba17ee" md5="a3c0a75f74fe90ecaa2d4cdf9c632f46" sha1="2222f9c8e204d56c18331512d48360808c25191a"/>
+	</game>
+	<game name="Barrage (1983)(Sofmachine)(Part 2 of 2)">
+		<description>Barrage (1983)(Sofmachine)(Part 2 of 2)</description>
+		<rom name="Barrage (1983)(Sofmachine)(Part 2 of 2).c" size="8192" crc="39aef623" md5="a0e40f9217dd71aaee6ebbd21ffb88cb" sha1="691670bc8cc8427951711b8289b57adff3ee242f"/>
+	</game>
+	<game name="Beginning Grammar (1978)(Texas Instruments)[PHM 3003]">
+		<description>Beginning Grammar (1978)(Texas Instruments)[PHM 3003]</description>
+		<rom name="Beginning Grammar (1978)(Texas Instruments)[PHM 3003].g" size="24576" crc="9d4df330" md5="678e951f4423c5255b317b864a052fa8" sha1="426f8f53c0e7dd32a8f60367a7f221b36bc59697"/>
+	</game>
+	<game name="Berlin (19xx)(Iain Johnson)(Part 1 of 2)">
+		<description>Berlin (19xx)(Iain Johnson)(Part 1 of 2)</description>
+		<rom name="Berlin (19xx)(Iain Johnson)(Part 1 of 2).g" size="40960" crc="46bfb55e" md5="3b768e4cb0c17f29c8d41e430fbd958d" sha1="15fcad7a7ca427f12b4f92fc31feaf25ac1ff92f"/>
+	</game>
+	<game name="Berlin (19xx)(Iain Johnson)(Part 2 of 2)">
+		<description>Berlin (19xx)(Iain Johnson)(Part 2 of 2)</description>
+		<rom name="Berlin (19xx)(Iain Johnson)(Part 2 of 2).c" size="8192" crc="f135be05" md5="f6dc014997ce323c74c9afc867cff47a" sha1="7f58480eb9506707c6b09b989bcca6540e7ea7d9"/>
+	</game>
+	<game name="Beyond Parsec (1988)(John Phillips)(Part 1 of 2)">
+		<description>Beyond Parsec (1988)(John Phillips)(Part 1 of 2)</description>
+		<rom name="Beyond Parsec (1988)(John Phillips)(Part 1 of 2).c" size="8192" crc="bc483e69" md5="4f04edb03cb6752eb7faca4ad9d47525" sha1="fee745babe5b3a0ca80c26e6b3b3ea02a217a11e"/>
+	</game>
+	<game name="Beyond Parsec (1988)(John Phillips)(Part 2 of 2)">
+		<description>Beyond Parsec (1988)(John Phillips)(Part 2 of 2)</description>
+		<rom name="Beyond Parsec (1988)(John Phillips)(Part 2 of 2).d" size="8192" crc="511ed035" md5="f4e7a8f74170f0310772b975d27b103b" sha1="5e68d737ee0fba2d85c3a45840c22156e8eede86"/>
+	</game>
+	<game name="Black Hole (1983)(DaTaBioTics)">
+		<description>Black Hole (1983)(DaTaBioTics)</description>
+		<rom name="Black Hole (1983)(DaTaBioTics).c" size="8192" crc="fc46c765" md5="3b5ef6eaa60f1210e42632e3833e4676" sha1="40a88d537fb87073bbd60183a47edd438457e15e"/>
+	</game>
+	<game name="Blackjack and Poker (1980)(Texas Instruments)[PHM 3033]">
+		<description>Blackjack and Poker (1980)(Texas Instruments)[PHM 3033]</description>
+		<rom name="Blackjack and Poker (1980)(Texas Instruments)[PHM 3033].g" size="8192" crc="285954b4" md5="e9c799237f043db6908ff836d877188e" sha1="90184daddf23f778309bf5b44bd06fe93ebd1148"/>
+	</game>
+	<game name="Blasto (1980)(Milton Bradley)[PHM 3032]">
+		<description>Blasto (1980)(Milton Bradley)[PHM 3032]</description>
+		<rom name="Blasto (1980)(Milton Bradley)[PHM 3032].g" size="8192" crc="2a5882d7" md5="0b551828bb983db71d2642513266b69a" sha1="7baafca039d5b585c68c38d5518eb8cffb41dc20"/>
+	</game>
+	<game name="Boxer (1989)(DaTaBioTics)">
+		<description>Boxer (1989)(DaTaBioTics)</description>
+		<rom name="Boxer (1989)(DaTaBioTics).c" size="8192" crc="48aa0e48" md5="d8bf28741f3bac64ca95e75ea06cab36" sha1="c0aa268d1818c3dac756c93ecf26a944df262434"/>
+	</game>
+	<game name="Break Thru!! (1989)(DaTaBioTics)">
+		<description>Break Thru!! (1989)(DaTaBioTics)</description>
+		<rom name="Break Thru!! (1989)(DaTaBioTics).c" size="8192" crc="deb96260" md5="e9daf2d607353bf1b60b64cd55748638" sha1="604ef77992002c3ec29dd3f75ac771c8d66448bc"/>
+	</game>
+	<game name="Buck Rogers - Planet of Zoom (1983)(Sega Enterprises)(Part 1 of 2)[PHM 3226]">
+		<description>Buck Rogers - Planet of Zoom (1983)(Sega Enterprises)(Part 1 of 2)[PHM 3226]</description>
+		<rom name="Buck Rogers - Planet of Zoom (1983)(Sega Enterprises)(Part 1 of 2)[PHM 3226].g" size="16384" crc="663b0c3d" md5="944063a3055eae9b6bf762e7f3db424f" sha1="9898acc48d44a78ba6ddf0d0dd3c831d89b33a3c"/>
+	</game>
+	<game name="Buck Rogers - Planet of Zoom (1983)(Sega Enterprises)(Part 2 of 2)[PHM 3226]">
+		<description>Buck Rogers - Planet of Zoom (1983)(Sega Enterprises)(Part 2 of 2)[PHM 3226]</description>
+		<rom name="Buck Rogers - Planet of Zoom (1983)(Sega Enterprises)(Part 2 of 2)[PHM 3226].c" size="8192" crc="0b9ad832" md5="32a8bde1a79f4d217f6601af75d1dd64" sha1="b5861843738c357459b3156a872a9904d2d1e31c"/>
+	</game>
+	<game name="Burger Builder (1983)(DaTaBioTics)">
+		<description>Burger Builder (1983)(DaTaBioTics)</description>
+		<rom name="Burger Builder (1983)(DaTaBioTics).c" size="8192" crc="1ecc49a5" md5="8e59aef80b12b87f38611879a8e25311" sha1="f9fc32fae1a549dec05359e07c0a35c5aee10dd7"/>
+	</game>
+	<game name="Burgertime (1983)(Data East USA)(Part 1 of 2)[PHM 3233]">
+		<description>Burgertime (1983)(Data East USA)(Part 1 of 2)[PHM 3233]</description>
+		<rom name="Burgertime (1983)(Data East USA)(Part 1 of 2)[PHM 3233].g" size="16384" crc="8c1e3030" md5="5fbaef8dba48c24bc39a041a4be30482" sha1="5f6e4e3c57374fcf5eba30974003566892fb530d"/>
+	</game>
+	<game name="Burgertime (1983)(Data East USA)(Part 2 of 2)[PHM 3233]">
+		<description>Burgertime (1983)(Data East USA)(Part 2 of 2)[PHM 3233]</description>
+		<rom name="Burgertime (1983)(Data East USA)(Part 2 of 2)[PHM 3233].c" size="8192" crc="ed7ef022" md5="7906d46eae8f26f9802b84e06033bda5" sha1="8959a44c9ca8aaf15da5ba49d4d26656e8175554"/>
+	</game>
+	<game name="Car Wars (1981)(Texas Instruments)[PHM 3054]">
+		<description>Car Wars (1981)(Texas Instruments)[PHM 3054]</description>
+		<rom name="Car Wars (1981)(Texas Instruments)[PHM 3054].g" size="8192" crc="a19f5140" md5="e03acd21098738a9a4ffaedf11fdd36f" sha1="9e757a895e55ee5e4dbbbecc67e7b4c8b54dcabe"/>
+	</game>
+	<game name="Card Sharp (198x)(Milton Bradley)(proto)">
+		<description>Card Sharp (198x)(Milton Bradley)(proto)</description>
+		<rom name="Card Sharp (198x)(Milton Bradley)(proto).g" size="8192" crc="241604fa" md5="8d550230f6ea2bb8f3fc7831c3c95e1b" sha1="906958e9c0c6b575489881a27e2f5aee7b8c7f38"/>
+	</game>
+	<game name="Centipede (1983)(Atari)">
+		<description>Centipede (1983)(Atari)</description>
+		<rom name="Centipede (1983)(Atari).c" size="8192" crc="60dca323" md5="d0d821908661a85a67e70d89ebe7ed05" sha1="ffbc9ad53f675f39a975ba2f7c59fca747591315"/>
+	</game>
+	<game name="Championship Baseball (1983)(Milton Bradley)(Part 1 of 2)[MBX][PHM 3148]">
+		<description>Championship Baseball (1983)(Milton Bradley)(Part 1 of 2)[MBX][PHM 3148]</description>
+		<rom name="Championship Baseball (1983)(Milton Bradley)(Part 1 of 2)[MBX][PHM 3148].g" size="24576" crc="83c08f7b" md5="8b031e63f7a325c45e9d40d844cc2b9a" sha1="7c17aa467a0933cda91c113df60544a5d264ee6d"/>
+	</game>
+	<game name="Championship Baseball (1983)(Milton Bradley)(Part 2 of 2)[MBX][PHM 3148]">
+		<description>Championship Baseball (1983)(Milton Bradley)(Part 2 of 2)[MBX][PHM 3148]</description>
+		<rom name="Championship Baseball (1983)(Milton Bradley)(Part 2 of 2)[MBX][PHM 3148].c" size="8192" crc="63a5574a" md5="4a8b1ed3ef3855ed2d51fe66d96c0340" sha1="450b67cf38d56c98e927537d0ad6d061b45f00e7"/>
+	</game>
+	<game name="Chicken Coop (1986)(Navarone)">
+		<description>Chicken Coop (1986)(Navarone)</description>
+		<rom name="Chicken Coop (1986)(Navarone).c" size="8192" crc="041c34fa" md5="43b3bed72a95bed9480cdf30f0c92a1f" sha1="82b38e070b5b2d78ef12dae6ac1304bce450b3a9"/>
+	</game>
+	<game name="Chisholm Trail (1982)(Texas Instruments)(Part 1 of 2)[PHM 3110]">
+		<description>Chisholm Trail (1982)(Texas Instruments)(Part 1 of 2)[PHM 3110]</description>
+		<rom name="Chisholm Trail (1982)(Texas Instruments)(Part 1 of 2)[PHM 3110].g" size="8192" crc="b259f38d" md5="9672bf5f4cdf57ab9da33d06cc7c2597" sha1="34e3e0b1971bf780499e424006689ecb092d9793"/>
+	</game>
+	<game name="Chisholm Trail (1982)(Texas Instruments)(Part 2 of 2)[PHM 3110]">
+		<description>Chisholm Trail (1982)(Texas Instruments)(Part 2 of 2)[PHM 3110]</description>
+		<rom name="Chisholm Trail (1982)(Texas Instruments)(Part 2 of 2)[PHM 3110].c" size="8192" crc="6fd908cf" md5="67787495427145fbcb2231fea35a199f" sha1="ae5e1b50e7ac54709e5b0e2d674d9bc53fff3eda"/>
+	</game>
+	<game name="Class Data Recorder (1981)(Scott, Foresman)">
+		<description>Class Data Recorder (1981)(Scott, Foresman)</description>
+		<rom name="Class Data Recorder (1981)(Scott, Foresman).g" size="38912" crc="f5273127" md5="a698a23d8c193178dc2f947b644ade18" sha1="4704db70cb040a86b4e84324e6fbe77095d2e5c3"/>
+	</game>
+	<game name="Computer Math Games I (1983)(Texas Instruments)(Part 1 of 2)[PHM 3084]">
+		<description>Computer Math Games I (1983)(Texas Instruments)(Part 1 of 2)[PHM 3084]</description>
+		<rom name="Computer Math Games I (1983)(Texas Instruments)(Part 1 of 2)[PHM 3084].g" size="30720" crc="f6af5fc8" md5="7e4a0959c48535a090d66f9bc6bf169b" sha1="abff864abf0580590c3de71a05541f88da20d618"/>
+	</game>
+	<game name="Computer Math Games I (1983)(Texas Instruments)(Part 2 of 2)[PHM 3084]">
+		<description>Computer Math Games I (1983)(Texas Instruments)(Part 2 of 2)[PHM 3084]</description>
+		<rom name="Computer Math Games I (1983)(Texas Instruments)(Part 2 of 2)[PHM 3084].g" size="8192" crc="04bb7ce9" md5="8d3eead891316b8602bc080c67ba395f" sha1="0b36b09377222c73bda1b9cda608d949ba00d812"/>
+	</game>
+	<game name="Computer Math Games II (1982)(Texas Instruments)[PHM 3083]">
+		<description>Computer Math Games II (1982)(Texas Instruments)[PHM 3083]</description>
+		<rom name="Computer Math Games II (1982)(Texas Instruments)[PHM 3083].g" size="24576" crc="96c804df" md5="161f9e74c16513ff60b621372891ff8b" sha1="283e73a20c343c424c3d447663f0e6b6e50454d9"/>
+	</game>
+	<game name="Computer Math Games III (1983)(Texas Instruments)[PHM 3085]">
+		<description>Computer Math Games III (1983)(Texas Instruments)[PHM 3085]</description>
+		<rom name="Computer Math Games III (1983)(Texas Instruments)[PHM 3085].g" size="30720" crc="babb5aeb" md5="3f1f6da30d81a5e3b2f329e280cedc2b" sha1="4d554eafc9ab540251856485d25cd3b7e5fb6e29"/>
+	</game>
+	<game name="Computer Math Games IV (1983)(Texas Instruments)[a][PHM 3086]">
+		<description>Computer Math Games IV (1983)(Texas Instruments)[a][PHM 3086]</description>
+		<rom name="Computer Math Games IV (1983)(Texas Instruments)[a][PHM 3086].g" size="30720" crc="d4b43669" md5="f91163e45db864612c00344b48e72cb1" sha1="2df846ebdbc28ad4c1dcab78bb2c4dad92d47a3c"/>
+	</game>
+	<game name="Computer Math Games IV (1983)(Texas Instruments)[PHM 3086]">
+		<description>Computer Math Games IV (1983)(Texas Instruments)[PHM 3086]</description>
+		<rom name="Computer Math Games IV (1983)(Texas Instruments)[PHM 3086].g" size="30720" crc="f25d0799" md5="37464b8ea136b2d8ccd1ce8fc9667a18" sha1="ff8f7080a8f185dd1b8d7ecbcfca64dcb4acc8ca"/>
+	</game>
+	<game name="Computer Math Games VI (1982)(Texas Instruments)[PHM 3088]">
+		<description>Computer Math Games VI (1982)(Texas Instruments)[PHM 3088]</description>
+		<rom name="Computer Math Games VI (1982)(Texas Instruments)[PHM 3088].g" size="16384" crc="a46a4eb0" md5="f8e2f26a9cce06a52614451f367c8a5b" sha1="266293e6a8c1291262e321c96319fd0e3bad6cb3"/>
+	</game>
+	<game name="Computer War (1983)(Thorn EMI Video)(Part 1 of 2)">
+		<description>Computer War (1983)(Thorn EMI Video)(Part 1 of 2)</description>
+		<rom name="Computer War (1983)(Thorn EMI Video)(Part 1 of 2).c" size="8192" crc="a85efdb3" md5="db6bae76b56bad0a873e773cd4f92bdf" sha1="8f1163e0365b44156678096fbe58bbe169c3b057"/>
+	</game>
+	<game name="Computer War (1983)(Thorn EMI Video)(Part 2 of 2)">
+		<description>Computer War (1983)(Thorn EMI Video)(Part 2 of 2)</description>
+		<rom name="Computer War (1983)(Thorn EMI Video)(Part 2 of 2).d" size="8192" crc="922751c3" md5="f9948dfcefdc8beb85c9a1cc01b4467c" sha1="ac7a4aa830511ce50cdcd62a4ca10bda00df7710"/>
+	</game>
+	<game name="Congo Bongo (1983)(Sega Enterprises)(Part 1 of 2)[PHM 3227]">
+		<description>Congo Bongo (1983)(Sega Enterprises)(Part 1 of 2)[PHM 3227]</description>
+		<rom name="Congo Bongo (1983)(Sega Enterprises)(Part 1 of 2)[PHM 3227].g" size="16384" crc="0cb4b327" md5="440f67e4c71028bd337c66f03b1c5f0b" sha1="aa63318a4d3c61c88fbf34080bcdd3d0acf642ca"/>
+	</game>
+	<game name="Congo Bongo (1983)(Sega Enterprises)(Part 2 of 2)[PHM 3227]">
+		<description>Congo Bongo (1983)(Sega Enterprises)(Part 2 of 2)[PHM 3227]</description>
+		<rom name="Congo Bongo (1983)(Sega Enterprises)(Part 2 of 2)[PHM 3227].c" size="8192" crc="478d9835" md5="d652f5208ef61dc9505dcc903520161f" sha1="b0700b43199c55da986125628c2763b90a351eb8"/>
+	</game>
+	<game name="Connect Four (1980)(Milton Bradley)[PHM 3038]">
+		<description>Connect Four (1980)(Milton Bradley)[PHM 3038]</description>
+		<rom name="Connect Four (1980)(Milton Bradley)[PHM 3038].g" size="16384" crc="12ede291" md5="247b7f10ba0ccb2405bb27f4ded2cf57" sha1="10aa560a6ec231f6742700532e356cbeb03331bb"/>
+	</game>
+	<game name="Course Manager (1981)(Scott, Foresman)">
+		<description>Course Manager (1981)(Scott, Foresman)</description>
+		<rom name="Course Manager (1981)(Scott, Foresman).g" size="40960" crc="73df377d" md5="3c49613ceb2274c35776159327fc1c63" sha1="956f3f83bb3028ea1615f50d25f4c121a2ab1aa3"/>
+	</game>
+	<game name="Crossfire (1983)(Sierra On-Line)(Part 1 of 2)[PHM 3207]">
+		<description>Crossfire (1983)(Sierra On-Line)(Part 1 of 2)[PHM 3207]</description>
+		<rom name="Crossfire (1983)(Sierra On-Line)(Part 1 of 2)[PHM 3207].g" size="8192" crc="54d93919" md5="3463fc628d6f869d5f6b078d686b64e3" sha1="734ebd4ebc9ae131f66596dd6fd5de2f0baf4d38"/>
+	</game>
+	<game name="Crossfire (1983)(Sierra On-Line)(Part 2 of 2)[PHM 3207]">
+		<description>Crossfire (1983)(Sierra On-Line)(Part 2 of 2)[PHM 3207]</description>
+		<rom name="Crossfire (1983)(Sierra On-Line)(Part 2 of 2)[PHM 3207].c" size="8192" crc="c40449d6" md5="fd4d1de3c874990ffa7534ac11cc09ef" sha1="c5043ddbe82b9848ae57fad3b6b14bfc4c6425a5"/>
+	</game>
+	<game name="D-Station (1988)(DaTaBioTics)">
+		<description>D-Station (1988)(DaTaBioTics)</description>
+		<rom name="D-Station (1988)(DaTaBioTics).c" size="8192" crc="4d4a28d3" md5="32e55e93669eaf0f6518df07f82d1626" sha1="3db30a4e80c858b4d946657b17f2631a7fe72915"/>
+	</game>
+	<game name="D-Station II - The Conflict Continues! (1988)(DaTaBioTics)">
+		<description>D-Station II - The Conflict Continues! (1988)(DaTaBioTics)</description>
+		<rom name="D-Station II - The Conflict Continues! (1988)(DaTaBioTics).c" size="8192" crc="5e59e1da" md5="6b8b87d86acf2b8b625b67927951ce55" sha1="b9046e8737b53305be9f0c63d37872c7c533fe3c"/>
+	</game>
+	<game name="DBM System v2.0 (1984)(Navarone)">
+		<description>DBM System v2.0 (1984)(Navarone)</description>
+		<rom name="DBM System v2.0 (1984)(Navarone).c" size="8192" crc="2f0e6ded" md5="c2844478b72546674351d10d240b7abf" sha1="28dc6d6eb1369e9c5e73e2c56f5436800ac71e04"/>
+	</game>
+	<game name="Decimals 2 - Decimal Deli 2 (1983)(Scott, Foresman)">
+		<description>Decimals 2 - Decimal Deli 2 (1983)(Scott, Foresman)</description>
+		<rom name="Decimals 2 - Decimal Deli 2 (1983)(Scott, Foresman).g" size="30720" crc="b3c75bba" md5="362eb32044ac9674fd0281668276f4ef" sha1="0074c33acf88b565edadd4ce7761aa7b68103e24"/>
+	</game>
+	<game name="Defender (1983)(Atari)">
+		<description>Defender (1983)(Atari)</description>
+		<rom name="Defender (1983)(Atari).c" size="8192" crc="c51b0a8b" md5="532e459b83862f7e28d4c49f1b19ad24" sha1="df4c3dd9ee5195a768a11721d86f6a164faa87a5"/>
+	</game>
+	<game name="Demolition Division (1982)(DLM - Texas Instruments)[PHM 3116]">
+		<description>Demolition Division (1982)(DLM - Texas Instruments)[PHM 3116]</description>
+		<rom name="Demolition Division (1982)(DLM - Texas Instruments)[PHM 3116].g" size="14336" crc="1159710c" md5="04c8a83c4c79e6c8fcf4caa71cbf7c80" sha1="5d784fab8adba8a343ad8fc4b1db11fec0ed3e80"/>
+	</game>
+	<game name="Demon Attack (1983)(Imagic)(Part 1 of 2)[PHM 3219]">
+		<description>Demon Attack (1983)(Imagic)(Part 1 of 2)[PHM 3219]</description>
+		<rom name="Demon Attack (1983)(Imagic)(Part 1 of 2)[PHM 3219].g" size="24576" crc="0a80afc7" md5="83a0524f1fdbf882898c90ed6e09e155" sha1="6d41e1e2178b346a540f66068e3aeb5731a58d42"/>
+	</game>
+	<game name="Demon Attack (1983)(Imagic)(Part 2 of 2)[PHM 3219]">
+		<description>Demon Attack (1983)(Imagic)(Part 2 of 2)[PHM 3219]</description>
+		<rom name="Demon Attack (1983)(Imagic)(Part 2 of 2)[PHM 3219].g" size="8192" crc="cadb08a6" md5="e77327a7231aed5f0d9fbe279c56be60" sha1="09f8c02baf570cfec232dac9bae07ecc0908ca74"/>
+	</game>
+	<game name="Demonstration (1979)(Texas Instruments)[PHM 3001]">
+		<description>Demonstration (1979)(Texas Instruments)[PHM 3001]</description>
+		<rom name="Demonstration (1979)(Texas Instruments)[PHM 3001].g" size="33024" crc="1e8fecb7" md5="a01a87e959f38c2bd01e8247b2c5abc2" sha1="191b01ee7e9173b95d4805f18e4d53f7a320d10b"/>
+	</game>
+	<game name="Demonstration (198x)(Texas Instruments)(de)">
+		<description>Demonstration (198x)(Texas Instruments)(de)</description>
+		<rom name="Demonstration (198x)(Texas Instruments)(de).g" size="30720" crc="a529a215" md5="a77c109097647929b49e46bcd1a74a96" sha1="8bdc098ed368615067ea2ccf4ce11eebd9d67b4d"/>
+	</game>
+	<game name="Diagnostic Tests (1979)(Texas Instruments)(fr)">
+		<description>Diagnostic Tests (1979)(Texas Instruments)(fr)</description>
+		<rom name="Diagnostic Tests (1979)(Texas Instruments)(fr).g" size="16384" crc="a46dd40a" md5="2ecc77a00d7766cebda35a08c60864bc" sha1="b61a88e931cf5a8957740e767f8224418b1ab53d"/>
+	</game>
+	<game name="Diagnostic Tests (1979)(Texas Instruments)[PHM 3000]">
+		<description>Diagnostic Tests (1979)(Texas Instruments)[PHM 3000]</description>
+		<rom name="Diagnostic Tests (1979)(Texas Instruments)[PHM 3000].g" size="8192" crc="e3ce581e" md5="d7d49a4fe65f2062ff23ced44b333e98" sha1="fd6fa7301a1127392efae5300975da5cf9a189cf"/>
+	</game>
+	<game name="Dig Dug (1983)(Namco &amp; Atari)(Part 1 of 2)">
+		<description>Dig Dug (1983)(Namco &amp; Atari)(Part 1 of 2)</description>
+		<rom name="Dig Dug (1983)(Namco &amp; Atari)(Part 1 of 2).c" size="8192" crc="27a453ad" md5="1d6cbb033d77cb53837a909a7e6d8c60" sha1="011d2a011c2bca56ad3cab158ad9af2a7de7c2b2"/>
+	</game>
+	<game name="Dig Dug (1983)(Namco &amp; Atari)(Part 2 of 2)">
+		<description>Dig Dug (1983)(Namco &amp; Atari)(Part 2 of 2)</description>
+		<rom name="Dig Dug (1983)(Namco &amp; Atari)(Part 2 of 2).d" size="8192" crc="782dad02" md5="fc9f26b5c4bb9be52516f263c1281554" sha1="4c39c0d4de49d7c745d1efc6c05d1425ff938393"/>
+	</game>
+	<game name="Disk Fixer v2.0 (1984)(Navarone)">
+		<description>Disk Fixer v2.0 (1984)(Navarone)</description>
+		<rom name="Disk Fixer v2.0 (1984)(Navarone).c" size="8192" crc="26734df3" md5="1afd727c9d959df8e7085fde990486f5" sha1="b685fd43e1e20103b4d783f1116868e82bce2b33"/>
+	</game>
+	<game name="Disk Manager v1.0 (1980)(Texas Instruments)[PHM 3019]">
+		<description>Disk Manager v1.0 (1980)(Texas Instruments)[PHM 3019]</description>
+		<rom name="Disk Manager v1.0 (1980)(Texas Instruments)[PHM 3019].g" size="16384" crc="05697f12" md5="d7ac80d48144b9a38d2b1512b2c5ba75" sha1="7efafd13011535b4176ceee04242d5a0a7d9ecd2"/>
+	</game>
+	<game name="Disk Manager v2.0 (1982)(Texas Instruments)[PHM 3089]">
+		<description>Disk Manager v2.0 (1982)(Texas Instruments)[PHM 3089]</description>
+		<rom name="Disk Manager v2.0 (1982)(Texas Instruments)[PHM 3089].g" size="16384" crc="3ebc8398" md5="24375587f50b8e105408536f453abcaa" sha1="445b2ee2eb83485440e9243881c9fc25c9b52b46"/>
+	</game>
+	<game name="Disk Manager v3.0 (198x)(Texas Instruments)(proto)">
+		<description>Disk Manager v3.0 (198x)(Texas Instruments)(proto)</description>
+		<rom name="Disk Manager v3.0 (198x)(Texas Instruments)(proto).g" size="14336" crc="a24617e6" md5="7fc2a3d28b76bc0ba87b315c6bb93877" sha1="ab25fae02413b31fc5b8195d1d8af2b93c23a3ae"/>
+	</game>
+	<game name="Disk Utilities v4.2 (19xx)(John Birdwell)(PD)">
+		<description>Disk Utilities v4.2 (19xx)(John Birdwell)(PD)</description>
+		<rom name="Disk Utilities v4.2 (19xx)(John Birdwell)(PD).g" size="32768" crc="efa80d98" md5="1742195b85998df295fe46e911789486" sha1="9fd4efb966beb34d2cecf05904b74dc5101a8587"/>
+	</game>
+	<game name="Division 1 (1982)(Scott, Foresman)[o][PHM 3049]">
+		<description>Division 1 (1982)(Scott, Foresman)[o][PHM 3049]</description>
+		<rom name="Division 1 (1982)(Scott, Foresman)[o][PHM 3049].g" size="32768" crc="67aaf792" md5="fa992e15853ecf6fce2ab21c0a4cd501" sha1="099e793323b1de633a1a00fa4aa8bb14cd5c3c5e"/>
+	</game>
+	<game name="Division 1 (1982)(Scott, Foresman)[PHM 3049]">
+		<description>Division 1 (1982)(Scott, Foresman)[PHM 3049]</description>
+		<rom name="Division 1 (1982)(Scott, Foresman)[PHM 3049].g" size="30720" crc="4a5e824b" md5="e9304db9b6e48481d26c2a5989cb4c7f" sha1="50c19d7f93dce548e568668da1e6e08bfeeae916"/>
+	</game>
+	<game name="Donkey Kong (1983)(Nintendo)(Part 1 of 2)">
+		<description>Donkey Kong (1983)(Nintendo)(Part 1 of 2)</description>
+		<rom name="Donkey Kong (1983)(Nintendo)(Part 1 of 2).c" size="8192" crc="924353d1" md5="e7917d25bd71ea15bb3c8de4be5aeb17" sha1="9dcca770c327b7795ae85e02805c6fb141ef99d3"/>
+	</game>
+	<game name="Donkey Kong (1983)(Nintendo)(Part 2 of 2)">
+		<description>Donkey Kong (1983)(Nintendo)(Part 2 of 2)</description>
+		<rom name="Donkey Kong (1983)(Nintendo)(Part 2 of 2).d" size="8192" crc="5f305760" md5="8dbb00ada548e24183b2ad9611ada98e" sha1="87df2ac848f470718a2b7bde18be61401a11cd63"/>
+	</game>
+	<game name="Dragon Mix (1982)(DLM - Texas Instruments)(Part 1 of 2)[PHM 3117]">
+		<description>Dragon Mix (1982)(DLM - Texas Instruments)(Part 1 of 2)[PHM 3117]</description>
+		<rom name="Dragon Mix (1982)(DLM - Texas Instruments)(Part 1 of 2)[PHM 3117].g" size="14336" crc="5ac4de31" md5="465b71f7bf73809e3e5f977e7da0cc11" sha1="8e862e6e967acf128cf03b451e02be14d813d6d2"/>
+	</game>
+	<game name="Dragon Mix (1982)(DLM - Texas Instruments)(Part 2 of 2)[PHM 3117]">
+		<description>Dragon Mix (1982)(DLM - Texas Instruments)(Part 2 of 2)[PHM 3117]</description>
+		<rom name="Dragon Mix (1982)(DLM - Texas Instruments)(Part 2 of 2)[PHM 3117].c" size="8192" crc="97941d83" md5="27cc3d9849a8f4718ac3fcbd1f272b3a" sha1="d56aaff2ff008b198cb59dda11077f8dfe8e12cc"/>
+	</game>
+	<game name="Driving Demon (1983)(Funware)">
+		<description>Driving Demon (1983)(Funware)</description>
+		<rom name="Driving Demon (1983)(Funware).c" size="8192" crc="e5f31cc0" md5="6c58a8d41afda9cff018b1b19b17e1f8" sha1="c4ef09b554ff3661d9c39158f85cb1c1563ea657"/>
+	</game>
+	<game name="E.T. (1982)(Texas Instruments)(proto)(Part 1 of 3)[PHM 3125]">
+		<description>E.T. (1982)(Texas Instruments)(proto)(Part 1 of 3)[PHM 3125]</description>
+		<rom name="E.T. (1982)(Texas Instruments)(proto)(Part 1 of 3)[PHM 3125].g" size="16384" crc="fd33bbe7" md5="b70f62dd411126c882b5f55485537f6c" sha1="69884a66a1ef9054c017f7891e167168751441b4"/>
+	</game>
+	<game name="E.T. (1982)(Texas Instruments)(proto)(Part 2 of 3)[PHM 3125]">
+		<description>E.T. (1982)(Texas Instruments)(proto)(Part 2 of 3)[PHM 3125]</description>
+		<rom name="E.T. (1982)(Texas Instruments)(proto)(Part 2 of 3)[PHM 3125].d" size="8192" crc="31a83f3c" md5="f406d138c3dda1507fa34fdac0e8f417" sha1="60a350dcb9fdf21ce3057d909268f68a70f091c4"/>
+	</game>
+	<game name="E.T. (1982)(Texas Instruments)(proto)(Part 3 of 3)[PHM 3125]">
+		<description>E.T. (1982)(Texas Instruments)(proto)(Part 3 of 3)[PHM 3125]</description>
+		<rom name="E.T. (1982)(Texas Instruments)(proto)(Part 3 of 3)[PHM 3125].c" size="8192" crc="16fe7b6d" md5="a84eb37266151ad725a8d21f1e0bd1fb" sha1="142df70bc339c929675583eb71a533a32654edf8"/>
+	</game>
+	<game name="E.T. In His Adventure at Sea (1983)(Texas Instruments)(proto)(Part 1 of 2)">
+		<description>E.T. In His Adventure at Sea (1983)(Texas Instruments)(proto)(Part 1 of 2)</description>
+		<rom name="E.T. In His Adventure at Sea (1983)(Texas Instruments)(proto)(Part 1 of 2).g" size="40960" crc="4b2f1c3e" md5="596022f74fe30258ecbc4b9a2043cded" sha1="d1ccbd5f91d3b48e860015a66f7132477da4c66a"/>
+	</game>
+	<game name="E.T. In His Adventure at Sea (1983)(Texas Instruments)(proto)(Part 2 of 2)">
+		<description>E.T. In His Adventure at Sea (1983)(Texas Instruments)(proto)(Part 2 of 2)</description>
+		<rom name="E.T. In His Adventure at Sea (1983)(Texas Instruments)(proto)(Part 2 of 2).c" size="8192" crc="3e70d0e4" md5="bb6deb4fcf2df3a87cf5137e5a6846f5" sha1="338f97815a140ddab67cc547dc8a10b401158baf"/>
+	</game>
+	<game name="Early Learning Fun (1982)(Texas Instruments)[PHM 3002]">
+		<description>Early Learning Fun (1982)(Texas Instruments)[PHM 3002]</description>
+		<rom name="Early Learning Fun (1982)(Texas Instruments)[PHM 3002].g" size="16384" crc="b1ba3c6c" md5="f36a56c403b82274880a1e4f9401e3cc" sha1="e587cc8db114933bb599d3acf51f22c3b9e5d229"/>
+	</game>
+	<game name="Early Logo Learning Fun (1982)(Texas Instruments)[PHM 3144]">
+		<description>Early Logo Learning Fun (1982)(Texas Instruments)[PHM 3144]</description>
+		<rom name="Early Logo Learning Fun (1982)(Texas Instruments)(File 1 of 2)[PHM 3144].bin" size="8192" crc="17cf25dd" md5="b2464b5913f38c61a70a8338b74aba7f" sha1="ba3eec5fe584206d0ca5044729093e6bf110c114"/>
+		<rom name="Early Logo Learning Fun (1982)(Texas Instruments)(File 2 of 2)[PHM 3144].bin" size="8192" crc="b99bebd4" md5="090155f8403b08b519b8365ee530ea5b" sha1="bfeca0c26a562f74589df523406cf6e4a49485ed"/>
+	</game>
+	<game name="Early Reading (1980)(Scott, Foresman)[b][PHM 3015]">
+		<description>Early Reading (1980)(Scott, Foresman)[b][PHM 3015]</description>
+		<rom name="Early Reading (1980)(Scott, Foresman)[b][PHM 3015].g" size="38912" crc="f4198175" md5="d9ba907c0e6d14c2b71e626197177ecc" sha1="bfd90786f3f43638c7167ab5fe27960f21291f39"/>
+	</game>
+	<game name="Editor-Assembler &amp; TI-Writer &amp; Super Disk Manager (1984)(99-4A Users Group)(Part 1 of 3)">
+		<description>Editor-Assembler &amp; TI-Writer &amp; Super Disk Manager (1984)(99-4A Users Group)(Part 1 of 3)</description>
+		<rom name="Editor-Assembler &amp; TI-Writer &amp; Super Disk Manager (1984)(99-4A Users Group)(Part 1 of 3).g" size="22528" crc="f40b19c2" md5="8781a2026464c765af1eb9622e8a0537" sha1="f0adfed6be5eac9069225240150e395883586b2a"/>
+	</game>
+	<game name="Editor-Assembler &amp; TI-Writer &amp; Super Disk Manager (1984)(99-4A Users Group)(Part 2 of 3)">
+		<description>Editor-Assembler &amp; TI-Writer &amp; Super Disk Manager (1984)(99-4A Users Group)(Part 2 of 3)</description>
+		<rom name="Editor-Assembler &amp; TI-Writer &amp; Super Disk Manager (1984)(99-4A Users Group)(Part 2 of 3).d" size="8192" crc="ddc6c365" md5="d44c885e99b781fffafb5a6d537e8cd9" sha1="92f904dcd96363ba738ac2a418b7dc6438392649"/>
+	</game>
+	<game name="Editor-Assembler &amp; TI-Writer &amp; Super Disk Manager (1984)(99-4A Users Group)(Part 3 of 3)">
+		<description>Editor-Assembler &amp; TI-Writer &amp; Super Disk Manager (1984)(99-4A Users Group)(Part 3 of 3)</description>
+		<rom name="Editor-Assembler &amp; TI-Writer &amp; Super Disk Manager (1984)(99-4A Users Group)(Part 3 of 3).c" size="8192" crc="27af9686" md5="a0c68aef6896a301af5fda8acdde5b24" sha1="a74bf8005b32e27fd26d03104b6e98500fbeb459"/>
+	</game>
+	<game name="Editor-Assembler (1981)(Texas Instruments)(Part 1 of 2)[PHM 3055]">
+		<description>Editor-Assembler (1981)(Texas Instruments)(Part 1 of 2)[PHM 3055]</description>
+		<rom name="Editor-Assembler (1981)(Texas Instruments)(Part 1 of 2)[PHM 3055].g" size="8192" crc="de8deb4d" md5="5a61839c9f14a782126434a501c1d83f" sha1="49ff490a2ceeff70dd4d3513e548c4b672e34f8f"/>
+	</game>
+	<game name="Editor-Assembler (1981)(Texas Instruments)(Part 2 of 2)[PHM 3055]">
+		<description>Editor-Assembler (1981)(Texas Instruments)(Part 2 of 2)[PHM 3055]</description>
+		<rom name="Editor-Assembler (1981)(Texas Instruments)(Part 2 of 2)[PHM 3055].c" size="8192" crc="d2e63192" md5="034342bd90fc8c1ce4fc6cf69f4da681" sha1="d03d7b8648e5fc819ee3d432879f36893d5f5844"/>
+	</game>
+	<game name="Edu-Pack (1990)(Asgard)">
+		<description>Edu-Pack (1990)(Asgard)</description>
+		<rom name="Edu-Pack (1990)(Asgard).c" size="8192" crc="75ea58c0" md5="44605012ff9c57f8753516b5dec2966f" sha1="29f389b72dc1e4b5c322d18af18cdb1eef611364"/>
+	</game>
+	<game name="Escape! (1984)(Cydex)">
+		<description>Escape! (1984)(Cydex)</description>
+		<rom name="Escape! (1984)(Cydex).c" size="8192" crc="6d5c7744" md5="9bc5658e38e768b70abfb4867af97c63" sha1="272f6e9b8ee4dfb86ea8e4ff4e6dab87ee98c04f"/>
+	</game>
+	<game name="Extended Basic v100 (1982)(Texas Instruments)[PHM 3026]">
+		<description>Extended Basic v100 (1982)(Texas Instruments)[PHM 3026]</description>
+		<rom name="Extended Basic v100 (1982)(Texas Instruments)(File 1 of 3)[PHM 3026].g" size="30720" crc="6ff89d9e" md5="c3b897882ec9af3089fc6d77b152762f" sha1="6eed94cf92fe36891bc0f0f04f983fe452408453"/>
+		<rom name="Extended Basic v100 (1982)(Texas Instruments)(File 2 of 3)[PHM 3026].d" size="8192" crc="31d9bf70" md5="d71d47cba10fa57ae95942a391bba30c" sha1="c0a9f0d7c479435470b0aac4183bd626dbd88aa1"/>
+		<rom name="Extended Basic v100 (1982)(Texas Instruments)(File 3 of 3)[PHM 3026].c" size="8192" crc="2e65925b" md5="47d06a352c458baf709f4d86de7d1f86" sha1="523d166f6a23b4ca82156d5a2378490d6a192aff"/>
+	</game>
+	<game name="Extended Basic v110 (1981)(Texas Instruments)[PHM 3026]">
+		<description>Extended Basic v110 (1981)(Texas Instruments)[PHM 3026]</description>
+		<rom name="Extended Basic v110 (1981)(Texas Instruments)(File 1 of 3)[PHM 3026].c" size="8192" crc="bd8addb9" md5="cbba4b9c66981f69c6f4f588d394e233" sha1="d0be337b61552f7ac49d52872f66eb6ef549a774"/>
+		<rom name="Extended Basic v110 (1981)(Texas Instruments)(File 2 of 3)[PHM 3026].d" size="8192" crc="44c4d8a8" md5="952770d3772331f441079fe8b01c5676" sha1="db2850db78431d89de85dd573e6df76151b25aba"/>
+		<rom name="Extended Basic v110 (1981)(Texas Instruments)(File 3 of 3)[PHM 3026].g" size="32768" crc="1a977b8c" md5="6cbbb03904e985747fb75f8155263afb" sha1="ac30cc0ba075661b9c853b3fda47b4f4accbe25c"/>
+		<rom name="Extended Basic v110 (1981)(Texas Instruments)(File 3 of 3)[PHM 3026][h].g" size="32768" crc="7143e5f4" md5="10ec9c7294a499c4001f8e00998a4c9b" sha1="54797c04af5f7ec28551064a72bcec642f50df71"/>
+	</game>
+	<game name="Extended Basic v2.5 (198x)(Tony Knerr)(PD)">
+		<description>Extended Basic v2.5 (198x)(Tony Knerr)(PD)</description>
+		<rom name="Extended Basic v2.5 (198x)(Tony Knerr)(File 1 of 3)(PD).c" size="8192" crc="bd8addb9" md5="cbba4b9c66981f69c6f4f588d394e233" sha1="d0be337b61552f7ac49d52872f66eb6ef549a774"/>
+		<rom name="Extended Basic v2.5 (198x)(Tony Knerr)(File 2 of 3)(PD).d" size="8192" crc="d5a91251" md5="09de45506bbf08692beeb5cb49d03b7b" sha1="dfa33094b67c31691b0396ea116c9da8d134bbc2"/>
+		<rom name="Extended Basic v2.5 (198x)(Tony Knerr)(File 3 of 3)(PD).g" size="40960" crc="80b33ca1" md5="90061f14de6ccc209bf654cd699c5338" sha1="664ae7f2810df6942480634288df31b9567df72c"/>
+	</game>
+	<game name="Face Maker (1983)(Spinnaker)(Part 1 of 2)[PHM 3177]">
+		<description>Face Maker (1983)(Spinnaker)(Part 1 of 2)[PHM 3177]</description>
+		<rom name="Face Maker (1983)(Spinnaker)(Part 1 of 2)[PHM 3177].g" size="16384" crc="b8eebb05" md5="0ad0ac7c570c6d2cd8a1e416fcf70020" sha1="290a6485e948107d114ad4a460a5048f48246e08"/>
+	</game>
+	<game name="Face Maker (1983)(Spinnaker)(Part 2 of 2)[PHM 3177]">
+		<description>Face Maker (1983)(Spinnaker)(Part 2 of 2)[PHM 3177]</description>
+		<rom name="Face Maker (1983)(Spinnaker)(Part 2 of 2)[PHM 3177].c" size="8192" crc="7969b265" md5="e83a636d96fc06be4ac507e969c71ce0" sha1="471136f40d60e317c6bd1c2a97e8cceb1a1b0f2a"/>
+	</game>
+	<game name="Fantasy (1983)(Texas Instruments)(proto)(Part 1 of 2)">
+		<description>Fantasy (1983)(Texas Instruments)(proto)(Part 1 of 2)</description>
+		<rom name="Fantasy (1983)(Texas Instruments)(proto)(Part 1 of 2).g" size="40960" crc="80955e64" md5="09b3a166ad8465221d980e4c09b709f1" sha1="cbdca5653d56cdd1a5159862947b903bfabbb6eb"/>
+	</game>
+	<game name="Fantasy (1983)(Texas Instruments)(proto)(Part 2 of 2)">
+		<description>Fantasy (1983)(Texas Instruments)(proto)(Part 2 of 2)</description>
+		<rom name="Fantasy (1983)(Texas Instruments)(proto)(Part 2 of 2).c" size="8192" crc="6b365095" md5="7921ea5f20571d50c695f32ec17bf477" sha1="ca4abe8a4137330cc2d2236ec822d735a9cf222c"/>
+	</game>
+	<game name="Fathom (1983)(Imagic)(Part 1 of 2)[PHM 3222]">
+		<description>Fathom (1983)(Imagic)(Part 1 of 2)[PHM 3222]</description>
+		<rom name="Fathom (1983)(Imagic)(Part 1 of 2)[PHM 3222].g" size="24576" crc="b893af9a" md5="123a80bd07ac695b3a707b7162da87da" sha1="bd1f4b1f332f2c0dc899185a3d1fef098046e3a4"/>
+	</game>
+	<game name="Fathom (1983)(Imagic)(Part 2 of 2)[PHM 3222]">
+		<description>Fathom (1983)(Imagic)(Part 2 of 2)[PHM 3222]</description>
+		<rom name="Fathom (1983)(Imagic)(Part 2 of 2)[PHM 3222].c" size="8192" crc="ddb86aa1" md5="409f4fc182f8a0bcbead411ff534e6cd" sha1="6aec673aef66013bb71ed1f67048853d0a9d28bd"/>
+	</game>
+	<game name="Football (1979)(Texas Instruments)[PHM 3009]">
+		<description>Football (1979)(Texas Instruments)[PHM 3009]</description>
+		<rom name="Football (1979)(Texas Instruments)[PHM 3009].g" size="16384" crc="e423f735" md5="2c7ebd8c892c64e4df781a156c80d2cb" sha1="cf9d982a9a97417b3dc6ff8735ee47fcc7f75b27"/>
+	</game>
+	<game name="Fractions 1 - Fantastic Fractions (1982)(Scott, Foresman)">
+		<description>Fractions 1 - Fantastic Fractions (1982)(Scott, Foresman)</description>
+		<rom name="Fractions 1 - Fantastic Fractions (1982)(Scott, Foresman).g" size="38912" crc="0f7fbdae" md5="7136c7618fa2c9696ed151e54ad898bb" sha1="a910affdd80535d55bd05e4e75f83d726a337ee6"/>
+	</game>
+	<game name="Frog Jump (1982)(Scott, Foresman)">
+		<description>Frog Jump (1982)(Scott, Foresman)</description>
+		<rom name="Frog Jump (1982)(Scott, Foresman).g" size="16384" crc="f4c7beb0" md5="ea08214baff250b63516339910741e1d" sha1="2cd5ad0a726703c0d316e8673832703c13028618"/>
+	</game>
+	<game name="Frogger (1984)(Parker Brothers)(Part 1 of 2)">
+		<description>Frogger (1984)(Parker Brothers)(Part 1 of 2)</description>
+		<rom name="Frogger (1984)(Parker Brothers)(Part 1 of 2).g" size="38912" crc="5f053fea" md5="a967c7a928da0e4df2391fa9ae81b678" sha1="680adacf5bc305fb7c8b5266bd3fd63aed5f9fe7"/>
+	</game>
+	<game name="Frogger (1984)(Parker Brothers)(Part 2 of 2)">
+		<description>Frogger (1984)(Parker Brothers)(Part 2 of 2)</description>
+		<rom name="Frogger (1984)(Parker Brothers)(Part 2 of 2).c" size="8192" crc="b2d6a6f1" md5="411fb78e6e0f0cee77eb0be91d6fccfb" sha1="3f4f3c39b81222ebd881f1d6bdc8f9764078d040"/>
+	</game>
+	<game name="Germ Patrol (1983)(Texas Instruments)(proto)(Part 1 of 2)">
+		<description>Germ Patrol (1983)(Texas Instruments)(proto)(Part 1 of 2)</description>
+		<rom name="Germ Patrol (1983)(Texas Instruments)(proto)(Part 1 of 2).g" size="40960" crc="7cb317e2" md5="964e8834bd2231f17acb6fa81454dc90" sha1="117acd840527b033f0ef415874c23ea2ff56ef72"/>
+	</game>
+	<game name="Germ Patrol (1983)(Texas Instruments)(proto)(Part 2 of 2)">
+		<description>Germ Patrol (1983)(Texas Instruments)(proto)(Part 2 of 2)</description>
+		<rom name="Germ Patrol (1983)(Texas Instruments)(proto)(Part 2 of 2).c" size="8192" crc="0a37b9b6" md5="c3047d21b50b417fd0a9fd05024f5162" sha1="9e92451482807407e31da183e93448e88f4183df"/>
+	</game>
+	<game name="Gestion Privee (1983)(Texas Instruments)(fr)">
+		<description>Gestion Privee (1983)(Texas Instruments)(fr)</description>
+		<rom name="Gestion Privee (1983)(Texas Instruments)(fr).g" size="22528" crc="3111a9e9" md5="2b15ac788475ac5f1528b9502e4e800f" sha1="399612c29fccac18e7f977d5bbbdacb5c8d3ad6a"/>
+	</game>
+	<game name="Hangman (1981)(Milton Bradley)[PHM 3037]">
+		<description>Hangman (1981)(Milton Bradley)[PHM 3037]</description>
+		<rom name="Hangman (1981)(Milton Bradley)[PHM 3037].g" size="40960" crc="7a5ac86f" md5="cefb724a27914ac5c5afcf2f88375457" sha1="b444981e83792877949c8505a8dd41cb97430914"/>
+	</game>
+	<game name="Hen Pecked (1983)(Romox)">
+		<description>Hen Pecked (1983)(Romox)</description>
+		<rom name="Hen Pecked (1983)(Romox).c" size="8192" crc="4925b1d9" md5="5477186df5eed71ea78bea7ff9b42be6" sha1="5923c8e8b3e4c0331385b5b92c6a387deab9ac20"/>
+	</game>
+	<game name="Home Financial Decisions (1978)(Texas Instruments)[PHM 3006]">
+		<description>Home Financial Decisions (1978)(Texas Instruments)[PHM 3006]</description>
+		<rom name="Home Financial Decisions (1978)(Texas Instruments)[PHM 3006].g" size="16384" crc="15b29e69" md5="81133219023769f51e39686d90516535" sha1="6c157c69e6679a4b668c599e3ee2abde57e6d9e6"/>
+	</game>
+	<game name="Homework Helper+ (1984)(Navarone)">
+		<description>Homework Helper+ (1984)(Navarone)</description>
+		<rom name="Homework Helper+ (1984)(Navarone).c" size="8192" crc="11179fe9" md5="a97c72514918baa7839b68d4c2df89d5" sha1="1cb5e7a61da47711d54194e13712a563eaf1367a"/>
+	</game>
+	<game name="Hopper (1983)(Texas Instruments)[PHM 3229]">
+		<description>Hopper (1983)(Texas Instruments)[PHM 3229]</description>
+		<rom name="Hopper (1983)(Texas Instruments)(File 1 of 2)[PHM 3229].bin" size="8192" crc="17cf25dd" md5="b2464b5913f38c61a70a8338b74aba7f" sha1="ba3eec5fe584206d0ca5044729093e6bf110c114"/>
+		<rom name="Hopper (1983)(Texas Instruments)(File 2 of 2)[PHM 3229].bin" size="8192" crc="94710cfb" md5="270d7bceb44f2ab1317092a1b15daa88" sha1="82e396b96b5b7538f77249e9881ae4fcd7ac6b46"/>
+	</game>
+	<game name="Household Budget Management (1979)(Texas Instruments)[PHM 3007]">
+		<description>Household Budget Management (1979)(Texas Instruments)[PHM 3007]</description>
+		<rom name="Household Budget Management (1979)(Texas Instruments)[PHM 3007].g" size="16384" crc="4f06f1b8" md5="d45dbe982d4fc9f2dd09a523b73700bf" sha1="90a24c834dbd05f3de98ac72421b05c670ad8c98"/>
+	</game>
+	<game name="Hunt The Wumpus (1980)(Texas Instruments)[PHM 3023]">
+		<description>Hunt The Wumpus (1980)(Texas Instruments)[PHM 3023]</description>
+		<rom name="Hunt The Wumpus (1980)(Texas Instruments)[PHM 3023].g" size="8192" crc="6a5a3f97" md5="dd47336e814ab0a33f017e400a7dc273" sha1="4569d2f1eaba7b1736b1146c3863bd8c3d231040"/>
+	</game>
+	<game name="Hustle (1980)(Texas Instruments)[PHM 3034]">
+		<description>Hustle (1980)(Texas Instruments)[PHM 3034]</description>
+		<rom name="Hustle (1980)(Texas Instruments)[PHM 3034].g" size="8192" crc="8e7d5b68" md5="2e41ca7fd26dcc07eeb1823630a42ba3" sha1="7ec86dd2150d25d26b4ed4ecd696097a2730e5af"/>
+	</game>
+	<game name="I'm Hiding (1983)(Milton Bradley)(Part 1 of 2)[MBX]">
+		<description>I'm Hiding (1983)(Milton Bradley)(Part 1 of 2)[MBX]</description>
+		<rom name="I'm Hiding (1983)(Milton Bradley)(Part 1 of 2)[MBX].g" size="16384" crc="0579968f" md5="717a1c2ee26340ec9f540e06320407b9" sha1="18def018c6373641f9d1c543728365bc114fbeb6"/>
+	</game>
+	<game name="I'm Hiding (1983)(Milton Bradley)(Part 2 of 2)[MBX]">
+		<description>I'm Hiding (1983)(Milton Bradley)(Part 2 of 2)[MBX]</description>
+		<rom name="I'm Hiding (1983)(Milton Bradley)(Part 2 of 2)[MBX].c" size="8192" crc="72dfc2c2" md5="a852e0b046b0e0e061d5d1100f27c756" sha1="ee653ee56684729301816889bdd2b89b7d3bed10"/>
+	</game>
+	<game name="Indoor Soccer (1980)(Texas Instruments)[a][PHM 3024]">
+		<description>Indoor Soccer (1980)(Texas Instruments)[a][PHM 3024]</description>
+		<rom name="Indoor Soccer (1980)(Texas Instruments)[a][PHM 3024].g" size="14336" crc="973d11d2" md5="1d8f97ff0818fc0bc6be2611e2e7ef83" sha1="d0f367da3bb487d066496bd77ef3d5b079968342"/>
+	</game>
+	<game name="Indoor Soccer (1980)(Texas Instruments)[PHM 3024]">
+		<description>Indoor Soccer (1980)(Texas Instruments)[PHM 3024]</description>
+		<rom name="Indoor Soccer (1980)(Texas Instruments)[PHM 3024].g" size="16384" crc="d9ba4b60" md5="67340326ae06a4ae17a1fbbf373132f2" sha1="f2c27a537459bd37e6a7ba56dcc864f042769f28"/>
+	</game>
+	<game name="Jawbreaker II (1983)(Sierra On-Line)(Part 1 of 2)[PHM 3194]">
+		<description>Jawbreaker II (1983)(Sierra On-Line)(Part 1 of 2)[PHM 3194]</description>
+		<rom name="Jawbreaker II (1983)(Sierra On-Line)(Part 1 of 2)[PHM 3194].g" size="6144" crc="11d8694b" md5="dc62230799f254e08b75d567aebc7aaf" sha1="b816c9b4b96d64c1239df7cd4a02fd9609cabf28"/>
+	</game>
+	<game name="Jawbreaker II (1983)(Sierra On-Line)(Part 2 of 2)[PHM 3194]">
+		<description>Jawbreaker II (1983)(Sierra On-Line)(Part 2 of 2)[PHM 3194]</description>
+		<rom name="Jawbreaker II (1983)(Sierra On-Line)(Part 2 of 2)[PHM 3194].c" size="8192" crc="c54858cc" md5="6a607a5651541139ca2fcdcde638da02" sha1="3ec721efcb2d264907e85e1bed89c28bff1bc2e6"/>
+	</game>
+	<game name="Jumpy (1983)(Sofmachine)(Part 1 of 2)">
+		<description>Jumpy (1983)(Sofmachine)(Part 1 of 2)</description>
+		<rom name="Jumpy (1983)(Sofmachine)(Part 1 of 2).c" size="8192" crc="d98c0581" md5="f0fb42cd39676860c91cf1de834e7b8f" sha1="64bacb174fafe9989452b8a87b51af62abc05f03"/>
+	</game>
+	<game name="Jumpy (1983)(Sofmachine)(Part 2 of 2)">
+		<description>Jumpy (1983)(Sofmachine)(Part 2 of 2)</description>
+		<rom name="Jumpy (1983)(Sofmachine)(Part 2 of 2).d" size="8192" crc="70733313" md5="9d8bea48ae2d2aa70762977da26677c7" sha1="f364eadc0ba0e99173bc4f6348925eba06c7bc99"/>
+	</game>
+	<game name="Jungle Hunt (1983)(Taito &amp; Atari)(Part 1 of 2)">
+		<description>Jungle Hunt (1983)(Taito &amp; Atari)(Part 1 of 2)</description>
+		<rom name="Jungle Hunt (1983)(Taito &amp; Atari)(Part 1 of 2).c" size="8192" crc="182d4f33" md5="48dc56d7734c8d93dc86c3b8abf08109" sha1="3090db9b6b9f7420b84412d1461fb0e82b1aee0a"/>
+	</game>
+	<game name="Jungle Hunt (1983)(Taito &amp; Atari)(Part 2 of 2)">
+		<description>Jungle Hunt (1983)(Taito &amp; Atari)(Part 2 of 2)</description>
+		<rom name="Jungle Hunt (1983)(Taito &amp; Atari)(Part 2 of 2).d" size="8192" crc="61c2166f" md5="697d94197815a806d4994694c6504538" sha1="496337d3bf12729585b019b862b847dd85142bd5"/>
+	</game>
+	<game name="Junkman Junior (1986)(DBT)(Part 1 of 2)">
+		<description>Junkman Junior (1986)(DBT)(Part 1 of 2)</description>
+		<rom name="Junkman Junior (1986)(DBT)(Part 1 of 2).c" size="8192" crc="6d3a2da8" md5="942781380dcb0245b866df5fbd6c5fc7" sha1="59c79194ba2363471f0fdfb32782c2f66fa82e37"/>
+	</game>
+	<game name="Junkman Junior (1986)(DBT)(Part 2 of 2)">
+		<description>Junkman Junior (1986)(DBT)(Part 2 of 2)</description>
+		<rom name="Junkman Junior (1986)(DBT)(Part 2 of 2).d" size="8192" crc="17ab7e62" md5="9a31598a20d32fac2b1d3398c191eda6" sha1="3cec5cafad4f5b3359f9cc69db339e711174a8e8"/>
+	</game>
+	<game name="Key to Spanish 1 (1983)(Texas Instruments)[PHM 3126]">
+		<description>Key to Spanish 1 (1983)(Texas Instruments)[PHM 3126]</description>
+		<rom name="Key to Spanish 1 (1983)(Texas Instruments)(File 1 of 2)[PHM 3126].bin" size="40960" crc="4098684a" md5="a966d55c6d617a9ca179bc6b4fc151b3" sha1="712a1b9fff27e6527ca88dd745971c359b49b8c0"/>
+		<rom name="Key to Spanish 1 (1983)(Texas Instruments)(File 2 of 2)[PHM 3126].bin" size="8192" crc="28f15b33" md5="faf9120511614722bde9c267575c20df" sha1="c04a2cceb8dbe9166f965d012b3758192f1a6162"/>
+	</game>
+	<game name="Key to Spanish 3 (1983)(Texas Instruments)">
+		<description>Key to Spanish 3 (1983)(Texas Instruments)</description>
+		<rom name="Key to Spanish 3 (1983)(Texas Instruments)(File 1 of 2).bin" size="40960" crc="4a6f8439" md5="83fd626ee3afd9f973ee429cead9cdbd" sha1="c119e86ed8bb3917b8f5c8de28a5018c1bccd141"/>
+		<rom name="Key to Spanish 3 (1983)(Texas Instruments)(File 2 of 2).bin" size="8192" crc="28f15b33" md5="faf9120511614722bde9c267575c20df" sha1="c04a2cceb8dbe9166f965d012b3758192f1a6162"/>
+	</game>
+	<game name="Key to Spanish 4 (1983)(Texas Instruments)">
+		<description>Key to Spanish 4 (1983)(Texas Instruments)</description>
+		<rom name="Key to Spanish 4 (1983)(Texas Instruments)(File 1 of 2).bin" size="40960" crc="98f48f1c" md5="9b0965a4918bb1b9570b8f8552fac53c" sha1="bd8f902690b8c5f0cd52982f712bc6351d675408"/>
+		<rom name="Key to Spanish 4 (1983)(Texas Instruments)(File 2 of 2).bin" size="8192" crc="28f15b33" md5="faf9120511614722bde9c267575c20df" sha1="c04a2cceb8dbe9166f965d012b3758192f1a6162"/>
+	</game>
+	<game name="King of the Castle (1984)(Cydex)">
+		<description>King of the Castle (1984)(Cydex)</description>
+		<rom name="King of the Castle (1984)(Cydex).c" size="8192" crc="2aa544ad" md5="186c8a0b70918d456ae35ed6e890742d" sha1="9b2025db5381801d604fc660f4112c2e9ca05041"/>
+	</game>
+	<game name="Link v0.99 (1992)(Asgard)">
+		<description>Link v0.99 (1992)(Asgard)</description>
+		<rom name="Link v0.99 (1992)(Asgard).c" size="8192" crc="fdd70eb3" md5="eb63977e8f28eeb356481d41c41907f0" sha1="a0c5f2eeef5f434db32508a1264f62876c19b33c"/>
+	</game>
+	<game name="M.A.S.H (1983)(20th Century Fox)(Part 1 of 2)[PHM 3158]">
+		<description>M.A.S.H (1983)(20th Century Fox)(Part 1 of 2)[PHM 3158]</description>
+		<rom name="M.A.S.H (1983)(20th Century Fox)(Part 1 of 2)[PHM 3158].g" size="22528" crc="9aec130d" md5="af530b75d37e5c33de3daf7fd3d41dab" sha1="4a5edc043127ecb9508863d7fb244eee0a765bd3"/>
+	</game>
+	<game name="M.A.S.H (1983)(20th Century Fox)(Part 2 of 2)[PHM 3158]">
+		<description>M.A.S.H (1983)(20th Century Fox)(Part 2 of 2)[PHM 3158]</description>
+		<rom name="M.A.S.H (1983)(20th Century Fox)(Part 2 of 2)[PHM 3158].c" size="8192" crc="f3d1eec4" md5="16e13a882175e9a7a19bb1e8d3eb9813" sha1="59d19f4e3514f73d4cb2d4c28c946dc654539951"/>
+	</game>
+	<game name="Mancala (1983)(DaTaBioTics)(Part 1 of 2)">
+		<description>Mancala (1983)(DaTaBioTics)(Part 1 of 2)</description>
+		<rom name="Mancala (1983)(DaTaBioTics)(Part 1 of 2).g" size="40960" crc="7e64b353" md5="ab6110871499e2564af0a5c206556977" sha1="c3d4866c218e87a31b4dceff53083fa39f60822c"/>
+	</game>
+	<game name="Mancala (1983)(DaTaBioTics)(Part 2 of 2)">
+		<description>Mancala (1983)(DaTaBioTics)(Part 2 of 2)</description>
+		<rom name="Mancala (1983)(DaTaBioTics)(Part 2 of 2).c" size="8192" crc="52735266" md5="31aecc0323f1bad4ca8d555d1ce31747" sha1="79150a6c5beb3ea1bb1872c6fc7b6c43ec411a76"/>
+	</game>
+	<game name="Meteor Multiplication (1982)(DLM - Texas Instruments)[PHM 3119]">
+		<description>Meteor Multiplication (1982)(DLM - Texas Instruments)[PHM 3119]</description>
+		<rom name="Meteor Multiplication (1982)(DLM - Texas Instruments)[PHM 3119].g" size="16384" crc="0b917275" md5="1069d865a4335704e43a261f568a7397" sha1="c2f64c224df3772234dac4ba9fae2289a303a720"/>
+	</game>
+	<game name="Micro Pinball II (1984)(DaTaBioTics)(Part 1 of 2)">
+		<description>Micro Pinball II (1984)(DaTaBioTics)(Part 1 of 2)</description>
+		<rom name="Micro Pinball II (1984)(DaTaBioTics)(Part 1 of 2).c" size="8192" crc="5b8a61af" md5="aa0db9baaefa2cdd8ab3e3bd5b0b2484" sha1="d77f95a2e7eb68ac1d98e618a7c2da3310cfd1df"/>
+	</game>
+	<game name="Micro Pinball II (1984)(DaTaBioTics)(Part 2 of 2)">
+		<description>Micro Pinball II (1984)(DaTaBioTics)(Part 2 of 2)</description>
+		<rom name="Micro Pinball II (1984)(DaTaBioTics)(Part 2 of 2).d" size="8192" crc="b9144e38" md5="3d6e7ec837029081efdf430cac4abaea" sha1="88e12565761a9145d9855da94e6ebb69848a2924"/>
+	</game>
+	<game name="Micro Tennis (1983)(DaTaBioTics)(Part 1 of 2)">
+		<description>Micro Tennis (1983)(DaTaBioTics)(Part 1 of 2)</description>
+		<rom name="Micro Tennis (1983)(DaTaBioTics)(Part 1 of 2).c" size="8192" crc="b4a1e499" md5="52154f4548447a89e5994e184f8cddac" sha1="4cdca6f9e045f023d8ae057411fa920b7b31c979"/>
+	</game>
+	<game name="Micro Tennis (1983)(DaTaBioTics)(Part 2 of 2)">
+		<description>Micro Tennis (1983)(DaTaBioTics)(Part 2 of 2)</description>
+		<rom name="Micro Tennis (1983)(DaTaBioTics)(Part 2 of 2).d" size="8192" crc="88c10112" md5="804dce32581ed0f35b1c18518f4561c0" sha1="d1acebdad81189f3badc191de29e86ee8b5bcc82"/>
+	</game>
+	<game name="Microsoft Multiplan v1.04 (1981)(Microsoft)[PHM 3113]">
+		<description>Microsoft Multiplan v1.04 (1981)(Microsoft)[PHM 3113]</description>
+		<rom name="Microsoft Multiplan v1.04 (1981)(Microsoft)[PHM 3113].g" size="40960" crc="7318f573" md5="f521481901568911ae432dfab0c1505b" sha1="da69e12124c701dcd967e13ac655176d4ec6bb55"/>
+	</game>
+	<game name="Microsurgeon (1983)(Imagic)(Part 1 of 2)[PHM 3220]">
+		<description>Microsurgeon (1983)(Imagic)(Part 1 of 2)[PHM 3220]</description>
+		<rom name="Microsurgeon (1983)(Imagic)(Part 1 of 2)[PHM 3220].g" size="24576" crc="a123c577" md5="eb146415edefd12bb81293d76b162ab1" sha1="2936c6b3c6abc393bb53ef7167cd881891bbfb09"/>
+	</game>
+	<game name="Microsurgeon (1983)(Imagic)(Part 2 of 2)[PHM 3220]">
+		<description>Microsurgeon (1983)(Imagic)(Part 2 of 2)[PHM 3220]</description>
+		<rom name="Microsurgeon (1983)(Imagic)(Part 2 of 2)[PHM 3220].c" size="8192" crc="51b2a37f" md5="aa2adf82a33972f18fbeb1a9a7f44902" sha1="df90b30f241c317d579f7f843b6e9b9ec8c1d3c1"/>
+	</game>
+	<game name="Midnite Mason (1982)(Software Specialties)">
+		<description>Midnite Mason (1982)(Software Specialties)</description>
+		<rom name="Midnite Mason (1982)(Software Specialties).c" size="8192" crc="1dcb4615" md5="808a7816635817f4bf98730a86601c9f" sha1="1ddd518afcf5cff58e261c75ee1462bb55dc69bc"/>
+	</game>
+	<game name="Mighty Multiplication 2 (1983)(Scott, Foresman)">
+		<description>Mighty Multiplication 2 (1983)(Scott, Foresman)</description>
+		<rom name="Mighty Multiplication 2 (1983)(Scott, Foresman).g" size="32768" crc="9d7d72f6" md5="9730fb07a0a73c352b8f6e84289d9f1c" sha1="486d91ac994dab64cf5a4aaf1daf940904c1c968"/>
+	</game>
+	<game name="Milliken Manager (19xx)(Milliken &amp; Texas Instruments)">
+		<description>Milliken Manager (19xx)(Milliken &amp; Texas Instruments)</description>
+		<rom name="Milliken Manager (19xx)(Milliken &amp; Texas Instruments).g" size="40960" crc="0ea9770f" md5="1a8411b3b6bcf743cc7b239e5ba57c1f" sha1="e4e46638a4315e8e008974e26b4c432314fca2f4"/>
+	</game>
+	<game name="Milliken Math Sequences - Addition (1982)(Texas Instruments)[PHM 3090]">
+		<description>Milliken Math Sequences - Addition (1982)(Texas Instruments)[PHM 3090]</description>
+		<rom name="Milliken Math Sequences - Addition (1982)(Texas Instruments)[PHM 3090].g" size="24576" crc="9e2f66e3" md5="a36bcde25b6bc55811fade564b97a1af" sha1="94871826c0d4ee80f371e62883b06d84b6bc23d5"/>
+	</game>
+	<game name="Milliken Math Sequences - Decimals (1982)(Texas Instruments)[PHM 3096]">
+		<description>Milliken Math Sequences - Decimals (1982)(Texas Instruments)[PHM 3096]</description>
+		<rom name="Milliken Math Sequences - Decimals (1982)(Texas Instruments)[PHM 3096].g" size="24576" crc="5d055113" md5="a50665a108141f34466f5df099c74b8f" sha1="112b153b09ec10a50b0b109ed553d807c022f241"/>
+	</game>
+	<game name="Milliken Math Sequences - Division (1982)(Texas Instruments)[PHM 3093]">
+		<description>Milliken Math Sequences - Division (1982)(Texas Instruments)[PHM 3093]</description>
+		<rom name="Milliken Math Sequences - Division (1982)(Texas Instruments)[PHM 3093].g" size="16384" crc="b05871e9" md5="869312013c021a4955488570e8cd6d95" sha1="8a421c33af71292f4bf7e22fbc8d95a37f975fbf"/>
+	</game>
+	<game name="Milliken Math Sequences - Equations (1982)(Texas Instruments)[PHM 3100]">
+		<description>Milliken Math Sequences - Equations (1982)(Texas Instruments)[PHM 3100]</description>
+		<rom name="Milliken Math Sequences - Equations (1982)(Texas Instruments)[PHM 3100].g" size="16384" crc="5a20abda" md5="4f961582bfc4a84d55d82546a60b17d4" sha1="7844d9ce0d95975c5f9dc2069917dfe6e93382e0"/>
+	</game>
+	<game name="Milliken Math Sequences - Fractional Numbers (1982)(Texas Instruments)[PHM 3095]">
+		<description>Milliken Math Sequences - Fractional Numbers (1982)(Texas Instruments)[PHM 3095]</description>
+		<rom name="Milliken Math Sequences - Fractional Numbers (1982)(Texas Instruments)[PHM 3095].g" size="32768" crc="2863ea6e" md5="be09d859a755c5119b41e0dea8d9fae7" sha1="d53d5882d150df673487b65068ebdeaac8dd2961"/>
+	</game>
+	<game name="Milliken Math Sequences - Integers (1982)(Texas Instruments)[PHM 3094]">
+		<description>Milliken Math Sequences - Integers (1982)(Texas Instruments)[PHM 3094]</description>
+		<rom name="Milliken Math Sequences - Integers (1982)(Texas Instruments)[PHM 3094].g" size="14336" crc="997fedf6" md5="a0fb1baa599e7aef17740fe7e7eecfb6" sha1="586566fac5ea121bc9732bafaa678b4679061cd6"/>
+	</game>
+	<game name="Milliken Math Sequences - Laws of Arithmetic (1982)(Texas Instruments)[PHM 3099]">
+		<description>Milliken Math Sequences - Laws of Arithmetic (1982)(Texas Instruments)[PHM 3099]</description>
+		<rom name="Milliken Math Sequences - Laws of Arithmetic (1982)(Texas Instruments)[PHM 3099].g" size="24576" crc="fa310e85" md5="ee5f462ba9619bf24ff7a1d7c4374694" sha1="0d296f0b5b62c66e2331033791175dfa3c96bb85"/>
+	</game>
+	<game name="Milliken Math Sequences - Measurement Formulas (1982)(Texas Instruments)(Part 1 of 2)[PHM 3101]">
+		<description>Milliken Math Sequences - Measurement Formulas (1982)(Texas Instruments)(Part 1 of 2)[PHM 3101]</description>
+		<rom name="Milliken Math Sequences - Measurement Formulas (1982)(Texas Instruments)(Part 1 of 2)[PHM 3101].g" size="40960" crc="ef8b915a" md5="d94e5726d34223b90242382d8556977a" sha1="a1737e05cee01385d15ee039bed2acab12e13cf1"/>
+	</game>
+	<game name="Milliken Math Sequences - Measurement Formulas (1982)(Texas Instruments)(Part 2 of 2)[PHM 3101]">
+		<description>Milliken Math Sequences - Measurement Formulas (1982)(Texas Instruments)(Part 2 of 2)[PHM 3101]</description>
+		<rom name="Milliken Math Sequences - Measurement Formulas (1982)(Texas Instruments)(Part 2 of 2)[PHM 3101].c" size="8192" crc="7a503b69" md5="e5086188a0b880875ee22bc3fb2cfe57" sha1="63e88c598bad3d452cb98d47affaf18ce1607c4c"/>
+	</game>
+	<game name="Milliken Math Sequences - Multiplication (1982)(Texas Instruments)[PHM 3092]">
+		<description>Milliken Math Sequences - Multiplication (1982)(Texas Instruments)[PHM 3092]</description>
+		<rom name="Milliken Math Sequences - Multiplication (1982)(Texas Instruments)[PHM 3092].g" size="24576" crc="a40fa3b7" md5="acf008267df7d3bc9fded3cb0a62c07b" sha1="00d89fd8cf19b1be0663a67a49c6884db4b4bad9"/>
+	</game>
+	<game name="Milliken Math Sequences - Number Readiness &amp; Addition (1982)(Texas Instruments)">
+		<description>Milliken Math Sequences - Number Readiness &amp; Addition (1982)(Texas Instruments)</description>
+		<rom name="Milliken Math Sequences - Number Readiness &amp; Addition (1982)(Texas Instruments).g" size="24576" crc="da6d46f9" md5="2117699c7ea51f34686be8163b671c37" sha1="d2dff5d0a9e1817d1f94d0d53c97aed328dfcdf7"/>
+	</game>
+	<game name="Milliken Math Sequences - Number Readiness (1984)(Texas Instruments)[PHM 3098]">
+		<description>Milliken Math Sequences - Number Readiness (1984)(Texas Instruments)[PHM 3098]</description>
+		<rom name="Milliken Math Sequences - Number Readiness (1984)(Texas Instruments)[PHM 3098].g" size="14336" crc="91a2a7f5" md5="69e4b8f500643efac5cf28f863484869" sha1="9840fc543ae8602e3b1046dbceb3a57f6d072cea"/>
+	</game>
+	<game name="Milliken Math Sequences - Percents (1982)(Texas Instruments)[PHM 3097]">
+		<description>Milliken Math Sequences - Percents (1982)(Texas Instruments)[PHM 3097]</description>
+		<rom name="Milliken Math Sequences - Percents (1982)(Texas Instruments)[PHM 3097].g" size="40960" crc="ed1901a1" md5="4880041f4d372e5eae010401648e8817" sha1="4849ae2fb026cb2eacb438f0f68dbfc6a8a28d3f"/>
+	</game>
+	<game name="Milliken Math Sequences - Subtraction (1982)(Texas Instruments)[PHM 3091]">
+		<description>Milliken Math Sequences - Subtraction (1982)(Texas Instruments)[PHM 3091]</description>
+		<rom name="Milliken Math Sequences - Subtraction (1982)(Texas Instruments)[PHM 3091].g" size="16384" crc="7a24106a" md5="265c26fee6039fce81e2061afb12eb78" sha1="cda1aa1d2f5ec7f5a2e7858eb98da3829ad02d43"/>
+	</game>
+	<game name="Milton Bradley Game Vision (198x)(Milton Bradley)(proto)">
+		<description>Milton Bradley Game Vision (198x)(Milton Bradley)(proto)</description>
+		<rom name="Milton Bradley Game Vision (198x)(Milton Bradley)(proto).g" size="38912" crc="77e444d3" md5="aed88d1c902a96ce269c3333618a1ce8" sha1="126e87e52ea7ea7655da4fe08472e2610f5927f1"/>
+	</game>
+	<game name="Mind Challengers (1980)(Texas Instruments)[h][PHM 3025]">
+		<description>Mind Challengers (1980)(Texas Instruments)[h][PHM 3025]</description>
+		<rom name="Mind Challengers (1980)(Texas Instruments)[h][PHM 3025].g" size="8192" crc="a8e6b0f7" md5="981ac07b0bf0ff60772e5317b4b2d8c5" sha1="22213629efec9101f1f1073a92dcbdbe10f27f01"/>
+	</game>
+	<game name="Mind Challengers (1980)(Texas Instruments)[PHM 3025]">
+		<description>Mind Challengers (1980)(Texas Instruments)[PHM 3025]</description>
+		<rom name="Mind Challengers (1980)(Texas Instruments)[PHM 3025].g" size="8192" crc="50400a10" md5="65f68b272c6a7ec4be3cf22931a9940c" sha1="85b635a89f85fc66a3513ad35944f77eb76d5bba"/>
+	</game>
+	<game name="Mini Memory (1981)(Texas Instruments)(Part 1 of 2)[PHM 3058]">
+		<description>Mini Memory (1981)(Texas Instruments)(Part 1 of 2)[PHM 3058]</description>
+		<rom name="Mini Memory (1981)(Texas Instruments)(Part 1 of 2)[PHM 3058].g" size="8192" crc="3e13163c" md5="f062365e75430dc731175cb7ccf4f0a6" sha1="9d6a413358aedc65c19a2331c8800afdadc25806"/>
+	</game>
+	<game name="Mini Memory (1981)(Texas Instruments)(Part 2 of 2)[PHM 3058]">
+		<description>Mini Memory (1981)(Texas Instruments)(Part 2 of 2)[PHM 3058]</description>
+		<rom name="Mini Memory (1981)(Texas Instruments)(Part 2 of 2)[PHM 3058].c" size="8192" crc="e0bc224d" md5="e0285324d3292a3d18ca2b0e9fcb1514" sha1="03d2fbf2e29aee9d82943795b0c61b7bd82df8d2"/>
+	</game>
+	<game name="Miniwriter II - Eof v1.6 (1986)(DaTaBioTics)">
+		<description>Miniwriter II - Eof v1.6 (1986)(DaTaBioTics)</description>
+		<rom name="Miniwriter II - Eof v1.6 (1986)(DaTaBioTics).c" size="8192" crc="421130b4" md5="08fccfe5ead285c9e9d93ed1927c69e5" sha1="d68093bce61801f50dd91ba847d145942886c44b"/>
+	</game>
+	<game name="Minus Mission (1982)(DLM - Texas Instruments)[PHM 3118]">
+		<description>Minus Mission (1982)(DLM - Texas Instruments)[PHM 3118]</description>
+		<rom name="Minus Mission (1982)(DLM - Texas Instruments)[PHM 3118].g" size="16384" crc="b6ed3371" md5="ae10d7ab01a78c9075bd8ab78f5711aa" sha1="f288bfc9e4caea3a954cfebcb82146ecaf40399f"/>
+	</game>
+	<game name="Moon Mine (1983)(Texas Instruments)(Part 1 of 2)[PHM 3131]">
+		<description>Moon Mine (1983)(Texas Instruments)(Part 1 of 2)[PHM 3131]</description>
+		<rom name="Moon Mine (1983)(Texas Instruments)(Part 1 of 2)[PHM 3131].g" size="40960" crc="07adddb3" md5="7f0410f0ec20ccdf371bcd871e26dd3f" sha1="36047452fddf5a4558375c092294762819188de7"/>
+	</game>
+	<game name="Moon Mine (1983)(Texas Instruments)(Part 2 of 2)[PHM 3131]">
+		<description>Moon Mine (1983)(Texas Instruments)(Part 2 of 2)[PHM 3131]</description>
+		<rom name="Moon Mine (1983)(Texas Instruments)(Part 2 of 2)[PHM 3131].c" size="8192" crc="e91dbbb2" md5="faecfac225f9a064342ff9d49aac68c9" sha1="86ed6167a2f342636cf3ada09a8d6fde1378be6e"/>
+	</game>
+	<game name="Moon Patrol (1983)(Williams &amp; Atari)(Part 1 of 2)">
+		<description>Moon Patrol (1983)(Williams &amp; Atari)(Part 1 of 2)</description>
+		<rom name="Moon Patrol (1983)(Williams &amp; Atari)(Part 1 of 2).c" size="8192" crc="036052c9" md5="aa7c9ab589664490c22338508d0e4eae" sha1="3f8b7566b79dfb4f2155f02d9584700cd2947194"/>
+	</game>
+	<game name="Moon Patrol (1983)(Williams &amp; Atari)(Part 2 of 2)">
+		<description>Moon Patrol (1983)(Williams &amp; Atari)(Part 2 of 2)</description>
+		<rom name="Moon Patrol (1983)(Williams &amp; Atari)(Part 2 of 2).d" size="8192" crc="fba58be2" md5="d82d7013d4e65625e1e6ede633d24203" sha1="3faece9120c9ac8710f9acd8d532b22e2c56dcb3"/>
+	</game>
+	<game name="Moonsweeper (1983)(Imagic)(Part 1 of 2)[PHM 3224]">
+		<description>Moonsweeper (1983)(Imagic)(Part 1 of 2)[PHM 3224]</description>
+		<rom name="Moonsweeper (1983)(Imagic)(Part 1 of 2)[PHM 3224].g" size="40960" crc="17cbbf7b" md5="8eac460d4824f09680cff8377e2b8f98" sha1="442a3b7c46a48992065c9afe1c5afa90cdc4c631"/>
+	</game>
+	<game name="Moonsweeper (1983)(Imagic)(Part 2 of 2)[PHM 3224]">
+		<description>Moonsweeper (1983)(Imagic)(Part 2 of 2)[PHM 3224]</description>
+		<rom name="Moonsweeper (1983)(Imagic)(Part 2 of 2)[PHM 3224].c" size="8192" crc="abdaf510" md5="ac6a3aceefec4793db65273070dffe6c" sha1="4f02bfa71f47943b0313eba8e5662e9effdabbf8"/>
+	</game>
+	<game name="Mousk-Attack (1983)(Sierra On-Line)(proto)(Part 1 of 2)">
+		<description>Mousk-Attack (1983)(Sierra On-Line)(proto)(Part 1 of 2)</description>
+		<rom name="Mousk-Attack (1983)(Sierra On-Line)(proto)(Part 1 of 2).g" size="32768" crc="2fbf9896" md5="701663e71f397de1055e4a08c6e1abaa" sha1="849937384bf10887e45901f6effbf7826e9b4fa6"/>
+	</game>
+	<game name="Mousk-Attack (1983)(Sierra On-Line)(proto)(Part 2 of 2)">
+		<description>Mousk-Attack (1983)(Sierra On-Line)(proto)(Part 2 of 2)</description>
+		<rom name="Mousk-Attack (1983)(Sierra On-Line)(proto)(Part 2 of 2).c" size="8192" crc="adb49f5d" md5="726013056ab0b757aefc989fc3fcad06" sha1="bf33c497775a9afd64131f0f2343491b2bd522f5"/>
+	</game>
+	<game name="Ms. Pac-Man (1983)(Atari)(Part 1 of 2)">
+		<description>Ms. Pac-Man (1983)(Atari)(Part 1 of 2)</description>
+		<rom name="Ms. Pac-Man (1983)(Atari)(Part 1 of 2).c" size="8192" crc="ec99c8dc" md5="b94a489ce770a250b7cd46c0e4d20a44" sha1="5dd53bd140288c8fdcfdc9738fe903f6fdc2cece"/>
+	</game>
+	<game name="Ms. Pac-Man (1983)(Atari)(Part 2 of 2)">
+		<description>Ms. Pac-Man (1983)(Atari)(Part 2 of 2)</description>
+		<rom name="Ms. Pac-Man (1983)(Atari)(Part 2 of 2).d" size="8192" crc="4210ae10" md5="9ec0667a10306adf54588bead2eac096" sha1="00862a9ae42a302aae939e2baf1495d568f60ef2"/>
+	</game>
+	<game name="Multiplication 1 (1981)(Scott, Foresman)[o][PHM 3029]">
+		<description>Multiplication 1 (1981)(Scott, Foresman)[o][PHM 3029]</description>
+		<rom name="Multiplication 1 (1981)(Scott, Foresman)[o][PHM 3029].g" size="24576" crc="6ba9d602" md5="f4ae9ccd067920827755ba997d9d885c" sha1="53e48c5728d5b90e29ba746d34dec38746b79b6d"/>
+	</game>
+	<game name="Multiplication 1 (1981)(Scott, Foresman)[PHM 3029]">
+		<description>Multiplication 1 (1981)(Scott, Foresman)[PHM 3029]</description>
+		<rom name="Multiplication 1 (1981)(Scott, Foresman)[PHM 3029].g" size="22528" crc="2fa5f0b8" md5="1c7f369abda24e6b0df98cff2f8fb4a6" sha1="389218ce5e062694162b7ef8b5e696ca4ecbe2fa"/>
+	</game>
+	<game name="Munch Man II - The Monster is Back! (1987)(John Phillips)">
+		<description>Munch Man II - The Monster is Back! (1987)(John Phillips)</description>
+		<rom name="Munch Man II - The Monster is Back! (1987)(John Phillips).c" size="8192" crc="20121eec" md5="99be552849108181b02bede4eb34311d" sha1="2ff6b8504fac59e295afe5d34e229815478f50f2"/>
+	</game>
+	<game name="Munch Mobile (1983)(SNK Electronics)(Part 1 of 2)[PHM 3146]">
+		<description>Munch Mobile (1983)(SNK Electronics)(Part 1 of 2)[PHM 3146]</description>
+		<rom name="Munch Mobile (1983)(SNK Electronics)(Part 1 of 2)[PHM 3146].g" size="24576" crc="eacf398c" md5="0e34466fde4a7ad3b8d34329597825dd" sha1="68a1bffbc58a7ff9310db23fed47b4cfb06270e7"/>
+	</game>
+	<game name="Munch Mobile (1983)(SNK Electronics)(Part 2 of 2)[PHM 3146]">
+		<description>Munch Mobile (1983)(SNK Electronics)(Part 2 of 2)[PHM 3146]</description>
+		<rom name="Munch Mobile (1983)(SNK Electronics)(Part 2 of 2)[PHM 3146].c" size="8192" crc="2aba3240" md5="2a20adfd12fce9b7a1b908dfdb9ef744" sha1="c958001956097801914215ba8d7390c68b1d5ea1"/>
+	</game>
+	<game name="Munchman (1982)(Texas Instruments)(Part 1 of 2)[PHM 3057]">
+		<description>Munchman (1982)(Texas Instruments)(Part 1 of 2)[PHM 3057]</description>
+		<rom name="Munchman (1982)(Texas Instruments)(Part 1 of 2)[PHM 3057].g" size="8192" crc="4890758f" md5="d89f9b5de0001652274b43491bbec325" sha1="e0620c5642bf234649703624b161ec390086f7fc"/>
+	</game>
+	<game name="Munchman (1982)(Texas Instruments)(Part 2 of 2)[PHM 3057]">
+		<description>Munchman (1982)(Texas Instruments)(Part 2 of 2)[PHM 3057]</description>
+		<rom name="Munchman (1982)(Texas Instruments)(Part 2 of 2)[PHM 3057].c" size="8192" crc="b60b0301" md5="e1971b8089c1aa26b7ca0042aa079f7a" sha1="d97e4c8fd32846cd887f6761b14126c29b9e1ccb"/>
+	</game>
+	<game name="Music Maker (1980)(Texas Instruments)[PHM 3020]">
+		<description>Music Maker (1980)(Texas Instruments)[PHM 3020]</description>
+		<rom name="Music Maker (1980)(Texas Instruments)[PHM 3020].g" size="24576" crc="f362f861" md5="d21716c08521549fd4053e5eef576358" sha1="aa05d233894d02344cceb5782761a98f26cd4780"/>
+	</game>
+	<game name="Music SDA (1980)(Texas Instruments)">
+		<description>Music SDA (1980)(Texas Instruments)</description>
+		<rom name="Music SDA (1980)(Texas Instruments).g" size="38912" crc="56bd5a35" md5="7ea25e3a5ee611508f6b4090dee0c3d4" sha1="654e2cae7545746efbac94ce55dd84816ce6ca04"/>
+	</game>
+	<game name="Number Bowling (1983)(Scott, Foresman)">
+		<description>Number Bowling (1983)(Scott, Foresman)</description>
+		<rom name="Number Bowling (1983)(Scott, Foresman).g" size="16384" crc="b374a166" md5="cd3dbae4aeefa6d4a3a4bd5226c5d7f5" sha1="577d9b9dbc521ddd1d7680d0dcb58696c37b2660"/>
+	</game>
+	<game name="Number Magic (1979)(Texas Instruments)[PHM 3004]">
+		<description>Number Magic (1979)(Texas Instruments)[PHM 3004]</description>
+		<rom name="Number Magic (1979)(Texas Instruments)[PHM 3004].g" size="8192" crc="8910b4df" md5="aabdd35023d47ac31eb8f847541020cb" sha1="674f92100ad6877281238c836a5ce7881225a93b"/>
+	</game>
+	<game name="Numeration 1 (1983)(Scott, Foresman)[PHM 3050]">
+		<description>Numeration 1 (1983)(Scott, Foresman)[PHM 3050]</description>
+		<rom name="Numeration 1 (1983)(Scott, Foresman)[PHM 3050].g" size="30720" crc="9a810966" md5="8eca2131d388223ad5f95a7d180246fd" sha1="0755d1fe5301a76285c2f1d73643ea7d64c3a6e4"/>
+	</game>
+	<game name="Numeration 2 (1983)(Scott, Foresman)[PHM 3051]">
+		<description>Numeration 2 (1983)(Scott, Foresman)[PHM 3051]</description>
+		<rom name="Numeration 2 (1983)(Scott, Foresman)[PHM 3051].g" size="24576" crc="c37e0373" md5="bf8c5938255d954ca028fdba9fa3dd86" sha1="75e245be1d383a797109d721a457fbcbb9facccd"/>
+	</game>
+	<game name="Othello (1982)(CBS Video)(Part 1 of 2)[PHM 3067]">
+		<description>Othello (1982)(CBS Video)(Part 1 of 2)[PHM 3067]</description>
+		<rom name="Othello (1982)(CBS Video)(Part 1 of 2)[PHM 3067].g" size="6144" crc="63bbea59" md5="ac91a3e293d8009890c6df88dff49845" sha1="ddc821d461871e33515eafe799140fc483dbcad5"/>
+	</game>
+	<game name="Othello (1982)(CBS Video)(Part 2 of 2)[PHM 3067]">
+		<description>Othello (1982)(CBS Video)(Part 2 of 2)[PHM 3067]</description>
+		<rom name="Othello (1982)(CBS Video)(Part 2 of 2)[PHM 3067].c" size="8192" crc="b23a1193" md5="e15926b33ed43e3cafe2e1343f9a4e64" sha1="2380f163bb5b0c4b6e085cafa6fa0795e9028c8f"/>
+	</game>
+	<game name="Pac-Man (1983)(Atari)(Part 1 of 2)">
+		<description>Pac-Man (1983)(Atari)(Part 1 of 2)</description>
+		<rom name="Pac-Man (1983)(Atari)(Part 1 of 2).c" size="8192" crc="558d5c72" md5="a88f8069aed122b029e392827cabe91e" sha1="f20ee2594990aba9a9bc3428a3c5fe2ebbadf81f"/>
+	</game>
+	<game name="Pac-Man (1983)(Atari)(Part 2 of 2)">
+		<description>Pac-Man (1983)(Atari)(Part 2 of 2)</description>
+		<rom name="Pac-Man (1983)(Atari)(Part 2 of 2).d" size="8192" crc="1460afd9" md5="eb71f10225ccdae4e7201dbee0fadd2d" sha1="5992cb1c909a5e70b4aa6aec1e42c99a7ecfeab6"/>
+	</game>
+	<game name="Paint n Print (1985)(Navarone)[Axiom GP100-700]">
+		<description>Paint n Print (1985)(Navarone)[Axiom GP100-700]</description>
+		<rom name="Paint n Print (1985)(Navarone)[Axiom GP100-700].c" size="8192" crc="9cf8aca3" md5="c00f3682c8cb312eaab197d878f374f7" sha1="816a64db004ae9dab53c61d3ef1bed2a7545d19f"/>
+	</game>
+	<game name="Parsec (1982)(Texas Instruments)(Part 1 of 2)[PHM 3112]">
+		<description>Parsec (1982)(Texas Instruments)(Part 1 of 2)[PHM 3112]</description>
+		<rom name="Parsec (1982)(Texas Instruments)(Part 1 of 2)[PHM 3112].g" size="24576" crc="6913f1e4" md5="23edb4d99f53c7fa3d351e3175512266" sha1="b349bc7345a3f3dbc0d0eabde1a254fa1609fd66"/>
+	</game>
+	<game name="Parsec (1982)(Texas Instruments)(Part 2 of 2)[PHM 3112]">
+		<description>Parsec (1982)(Texas Instruments)(Part 2 of 2)[PHM 3112]</description>
+		<rom name="Parsec (1982)(Texas Instruments)(Part 2 of 2)[PHM 3112].c" size="8192" crc="d1309fbe" md5="5799bdf54bb1d4ee323a8c0329604f53" sha1="adf70cd8894e7cba1de862dc2fb9e35eb7e4a5b3"/>
+	</game>
+	<game name="Payroll Assistant (1982)(Scott, Foresman)">
+		<description>Payroll Assistant (1982)(Scott, Foresman)</description>
+		<rom name="Payroll Assistant (1982)(Scott, Foresman).bin" size="40960" crc="ef4fe4d1" md5="7ab1653147fcaabbe5c1b3d9ebf6794a" sha1="cdb20888c06c98a2982099af6e2bef82fd4cea6b"/>
+	</game>
+	<game name="Peripheral Diagnostic Module (1985)(Corcomp)">
+		<description>Peripheral Diagnostic Module (1985)(Corcomp)</description>
+		<rom name="Peripheral Diagnostic Module (1985)(Corcomp).c" size="8192" crc="2050904e" md5="60ad714513fbaa4c1080d12071dd21f8" sha1="0511fb72fd13ce1e005fc3066f4498d98686f8ac"/>
+	</game>
+	<game name="Personal Real Estate (1980)(Texas Instruments)[PHM 3022]">
+		<description>Personal Real Estate (1980)(Texas Instruments)[PHM 3022]</description>
+		<rom name="Personal Real Estate (1980)(Texas Instruments)[PHM 3022].g" size="32768" crc="4868b7d1" md5="6995fa67f89f0a3c74fb88a578d32f21" sha1="eed78bc10535086d1fd8d2e6262c2fc2f6651367"/>
+	</game>
+	<game name="Personal Record Keeping (1979)(Texas Instruments)[PHM 3013]">
+		<description>Personal Record Keeping (1979)(Texas Instruments)[PHM 3013]</description>
+		<rom name="Personal Record Keeping (1979)(Texas Instruments)[PHM 3013].g" size="32768" crc="d16853ee" md5="e83d15653a02d3ef2307ee41390a9777" sha1="997f68ced3017d4ce064bc3fd5636ed0353a0786"/>
+	</game>
+	<game name="Personal Record Keeping (1981)(Texas Instruments)(de)">
+		<description>Personal Record Keeping (1981)(Texas Instruments)(de)</description>
+		<rom name="Personal Record Keeping (1981)(Texas Instruments)(de).g" size="40960" crc="29f377e8" md5="72fd38e772759c45c6f9dfdb07ff54ab" sha1="776929975577671617a42b23a569cebe2f3c84d9"/>
+	</game>
+	<game name="Personal Report Generator (1980)(Texas Instruments)(en-de)[PHM 3044]">
+		<description>Personal Report Generator (1980)(Texas Instruments)(en-de)[PHM 3044]</description>
+		<rom name="Personal Report Generator (1980)(Texas Instruments)(en-de)[PHM 3044].g" size="16384" crc="631ab007" md5="0f1e6bae223e533758174f4b07e1ae18" sha1="ebfdfb4eba7eee6b8182fd1cda2707fc56249aa6"/>
+	</game>
+	<game name="Peter Pan's Space Odyssey (1984)(Walt Disney)(proto)(Part 1 of 2)">
+		<description>Peter Pan's Space Odyssey (1984)(Walt Disney)(proto)(Part 1 of 2)</description>
+		<rom name="Peter Pan's Space Odyssey (1984)(Walt Disney)(proto)(Part 1 of 2).g" size="38912" crc="768ee8f6" md5="3beba029f966372a6a331624ce3982a3" sha1="00f64fb640141d76cf9e4d8b0aa63750e1c2520e"/>
+	</game>
+	<game name="Peter Pan's Space Odyssey (1984)(Walt Disney)(proto)(Part 1 of 2)[a]">
+		<description>Peter Pan's Space Odyssey (1984)(Walt Disney)(proto)(Part 1 of 2)[a]</description>
+		<rom name="Peter Pan's Space Odyssey (1984)(Walt Disney)(proto)(Part 1 of 2)[a].g" size="38912" crc="4ca1891a" md5="41f008b2c9a08a7c0928296adc65c04e" sha1="2c4fa69fec16c8b054e92fc1606cde3a07f08948"/>
+	</game>
+	<game name="Peter Pan's Space Odyssey (1984)(Walt Disney)(proto)(Part 2 of 2)">
+		<description>Peter Pan's Space Odyssey (1984)(Walt Disney)(proto)(Part 2 of 2)</description>
+		<rom name="Peter Pan's Space Odyssey (1984)(Walt Disney)(proto)(Part 2 of 2).c" size="8192" crc="9d68f114" md5="d70181c2fc39b4da730b31c0ed714ef5" sha1="8ffbc20c39c9d8e5b50eb8fe13e9a35faff1d5f9"/>
+	</game>
+	<game name="Physical Fitness (1978)(Texas Instruments)[a][PHM 3010]">
+		<description>Physical Fitness (1978)(Texas Instruments)[a][PHM 3010]</description>
+		<rom name="Physical Fitness (1978)(Texas Instruments)[a][PHM 3010].g" size="14336" crc="191087b4" md5="c3d5a00c3d22c8b5a086d92f4a6a8899" sha1="010acde8f28ccaf19d541dbf0507b399ce321a29"/>
+	</game>
+	<game name="Physical Fitness (1978)(Texas Instruments)[PHM 3010]">
+		<description>Physical Fitness (1978)(Texas Instruments)[PHM 3010]</description>
+		<rom name="Physical Fitness (1978)(Texas Instruments)[PHM 3010].g" size="14336" crc="e64d5412" md5="ec380a2e608ff4c1e897a922a47778f1" sha1="11f7ef857cc90ca53ef2c0d7946f84461650b796"/>
+	</game>
+	<game name="Picnic Paranoia (1983)(Atari)(Part 1 of 2)">
+		<description>Picnic Paranoia (1983)(Atari)(Part 1 of 2)</description>
+		<rom name="Picnic Paranoia (1983)(Atari)(Part 1 of 2).c" size="8192" crc="ced82140" md5="bf8ddaf924aa0b5191871d23993c3986" sha1="1f00d548133efa224c75a545f1d2b4ba8a8c204e"/>
+	</game>
+	<game name="Picnic Paranoia (1983)(Atari)(Part 2 of 2)">
+		<description>Picnic Paranoia (1983)(Atari)(Part 2 of 2)</description>
+		<rom name="Picnic Paranoia (1983)(Atari)(Part 2 of 2).d" size="8192" crc="1994aac4" md5="27cd895506441c04984c71cafdadba19" sha1="8361fbedd95e6aab5ab8517801f73ecb29b403c4"/>
+	</game>
+	<game name="Picture Parts (1983)(Scott, Foresman)">
+		<description>Picture Parts (1983)(Scott, Foresman)</description>
+		<rom name="Picture Parts (1983)(Scott, Foresman).g" size="38912" crc="15f35001" md5="b39bc360c0a49bd5cd70035907f4d54f" sha1="0f4c454b24090587d982a7d64c18eb850d859109"/>
+	</game>
+	<game name="Pinocchio's Great Escape (1984)(Walt Disney)(proto)(Part 1 of 2)">
+		<description>Pinocchio's Great Escape (1984)(Walt Disney)(proto)(Part 1 of 2)</description>
+		<rom name="Pinocchio's Great Escape (1984)(Walt Disney)(proto)(Part 1 of 2).g" size="38912" crc="8e3a7dd0" md5="762649e1983e7ae65afdfb1bbd8a594a" sha1="c712cded8fee7851749558db79ac2c85155fbe84"/>
+	</game>
+	<game name="Pinocchio's Great Escape (1984)(Walt Disney)(proto)(Part 1 of 2)[a]">
+		<description>Pinocchio's Great Escape (1984)(Walt Disney)(proto)(Part 1 of 2)[a]</description>
+		<rom name="Pinocchio's Great Escape (1984)(Walt Disney)(proto)(Part 1 of 2)[a].g" size="38912" crc="2dfdd9b6" md5="a5f46f34b77a5d8b0708707c8c665fc7" sha1="86585237c5b9986461cadb142a6bcf962735b465"/>
+	</game>
+	<game name="Pinocchio's Great Escape (1984)(Walt Disney)(proto)(Part 2 of 2)">
+		<description>Pinocchio's Great Escape (1984)(Walt Disney)(proto)(Part 2 of 2)</description>
+		<rom name="Pinocchio's Great Escape (1984)(Walt Disney)(proto)(Part 2 of 2).c" size="8192" crc="ce16e333" md5="b7f0c151c1750c8e5a760059b640c910" sha1="381f6f344a1708e4dd64916b105574f1d5dc4a7a"/>
+	</game>
+	<game name="Plato Interpreter (1982)(Control Data)(Part 1 of 2)[PHM 3122]">
+		<description>Plato Interpreter (1982)(Control Data)(Part 1 of 2)[PHM 3122]</description>
+		<rom name="Plato Interpreter (1982)(Control Data)(Part 1 of 2)[PHM 3122].g" size="30720" crc="3c9819cd" md5="ffa5371e015ddbe4d5594beed8b788d2" sha1="2dbbadb059fd8e3c30e9467f3e2f679502bcdb9c"/>
+	</game>
+	<game name="Plato Interpreter (1982)(Control Data)(Part 2 of 2)[PHM 3122]">
+		<description>Plato Interpreter (1982)(Control Data)(Part 2 of 2)[PHM 3122]</description>
+		<rom name="Plato Interpreter (1982)(Control Data)(Part 2 of 2)[PHM 3122].c" size="8192" crc="653258dc" md5="3799c427f8ed71793d0d6c7ffbc83877" sha1="e95b81b30f21d0a7d8e41fac9f2f76b53c427bf2"/>
+	</game>
+	<game name="Pole Position (1983)(Namco &amp; Atari)(Part 1 of 2)">
+		<description>Pole Position (1983)(Namco &amp; Atari)(Part 1 of 2)</description>
+		<rom name="Pole Position (1983)(Namco &amp; Atari)(Part 1 of 2).c" size="8192" crc="c95ffd9b" md5="923a223adebe871353712c334ee3d286" sha1="6b6a2ea214c45b53ba9f1874dd4b8440482cb2ca"/>
+	</game>
+	<game name="Pole Position (1983)(Namco &amp; Atari)(Part 2 of 2)">
+		<description>Pole Position (1983)(Namco &amp; Atari)(Part 2 of 2)</description>
+		<rom name="Pole Position (1983)(Namco &amp; Atari)(Part 2 of 2).d" size="8192" crc="41a163c2" md5="5f90f7b979f35eb9475f973d9fc5a587" sha1="9470f6d79b929ebe5e8c26f54f422a0d9c91193a"/>
+	</game>
+	<game name="Popeye (1984)(Parker Brothers)(Part 1 of 2)">
+		<description>Popeye (1984)(Parker Brothers)(Part 1 of 2)</description>
+		<rom name="Popeye (1984)(Parker Brothers)(Part 1 of 2).g" size="38912" crc="85acb508" md5="4d19366fb087aa0a28747dd13b6c8f7a" sha1="db07839c9e4ce838ee377210aebb4630b978c070"/>
+	</game>
+	<game name="Popeye (1984)(Parker Brothers)(Part 2 of 2)">
+		<description>Popeye (1984)(Parker Brothers)(Part 2 of 2)</description>
+		<rom name="Popeye (1984)(Parker Brothers)(Part 2 of 2).c" size="8192" crc="028a1813" md5="6382c3cb552793ea1bcb5c5b04c3eb7d" sha1="d0fe518ee32daa6b7ff83e0e2b6d009c0566740e"/>
+	</game>
+	<game name="Princess and the Frog (1982)(Romox)">
+		<description>Princess and the Frog (1982)(Romox)</description>
+		<rom name="Princess and the Frog (1982)(Romox).c" size="8192" crc="c230b531" md5="d4ab8809fda1f3d1fab30081857e5d55" sha1="d8c7f7edbe2e8172bf25e77b63d0791d1d1f83bb"/>
+	</game>
+	<game name="Pro Typer (1987)(DaTaBioTics)">
+		<description>Pro Typer (1987)(DaTaBioTics)</description>
+		<rom name="Pro Typer (1987)(DaTaBioTics).c" size="8192" crc="238d5bbe" md5="ed5674d2fa4dcd919d4feb8c38c0f89a" sha1="bba12601a5d945df13beb35f5f99a10b33b32c57"/>
+	</game>
+	<game name="Protector II (1983)(Atari)(Part 1 of 2)">
+		<description>Protector II (1983)(Atari)(Part 1 of 2)</description>
+		<rom name="Protector II (1983)(Atari)(Part 1 of 2).c" size="8192" crc="800ce949" md5="2100e36c0e7d392291c88e6adf9b8b42" sha1="0e157340e414b5d951802f6dbb268c22e6ad1b11"/>
+	</game>
+	<game name="Protector II (1983)(Atari)(Part 2 of 2)">
+		<description>Protector II (1983)(Atari)(Part 2 of 2)</description>
+		<rom name="Protector II (1983)(Atari)(Part 2 of 2).d" size="8192" crc="8cb3c9ae" md5="5d4eb0af51610877ec0576173df4da8d" sha1="17f811ae2d12252594d155d158e561e73ca4c7d9"/>
+	</game>
+	<game name="Pyramid Puzzler (1983)(Scott, Foresman)">
+		<description>Pyramid Puzzler (1983)(Scott, Foresman)</description>
+		<rom name="Pyramid Puzzler (1983)(Scott, Foresman).g" size="38912" crc="2b9e394a" md5="a87ae1d236401280f8f35ceb7f1c4327" sha1="ba10cfb488edad9fa53cbae679ba1069a3cae0a7"/>
+	</game>
+	<game name="Q-Bert (1984)(Parker Brothers)(Part 1 of 2)">
+		<description>Q-Bert (1984)(Parker Brothers)(Part 1 of 2)</description>
+		<rom name="Q-Bert (1984)(Parker Brothers)(Part 1 of 2).g" size="38912" crc="8192e78a" md5="cefd501087fb9434f4b591c2e6ec4761" sha1="3f82a8a6ec742b49d8cac2698a2cf85468a3b39e"/>
+	</game>
+	<game name="Q-Bert (1984)(Parker Brothers)(Part 2 of 2)">
+		<description>Q-Bert (1984)(Parker Brothers)(Part 2 of 2)</description>
+		<rom name="Q-Bert (1984)(Parker Brothers)(Part 2 of 2).c" size="8192" crc="f939439d" md5="30c841de638c9e976b1e5fe495d6b722" sha1="db7fa093fde7b465e0eb75682c645b1678174acf"/>
+	</game>
+	<game name="Rabbit Trail (1983)(Funware)">
+		<description>Rabbit Trail (1983)(Funware)</description>
+		<rom name="Rabbit Trail (1983)(Funware).c" size="8192" crc="f5ad228b" md5="4e737039958bd283995e56ae3c5798d7" sha1="b5c72aa4a61d36fc6aa80ae41c0f2b4b34fcdbe7"/>
+	</game>
+	<game name="Reading Adventures (1983)(Scott, Foresman)">
+		<description>Reading Adventures (1983)(Scott, Foresman)</description>
+		<rom name="Reading Adventures (1983)(Scott, Foresman).g" size="38912" crc="e7068e26" md5="ba41d6564e44a5b2dc564e541d42fd54" sha1="669dcb40d2d9c975755a99e59054f731973d37f8"/>
+	</game>
+	<game name="Reading Cheers (1983)(Scott, Foresman)">
+		<description>Reading Cheers (1983)(Scott, Foresman)</description>
+		<rom name="Reading Cheers (1983)(Scott, Foresman).g" size="38912" crc="e458be8e" md5="b9c358f01e8044f3b528667c3b8b6327" sha1="96e793169d14e50c25261715d140862b637e51f0"/>
+	</game>
+	<game name="Reading Flight (1982)(Scott, Foresman)[PHM 3082]">
+		<description>Reading Flight (1982)(Scott, Foresman)[PHM 3082]</description>
+		<rom name="Reading Flight (1982)(Scott, Foresman)[PHM 3082].g" size="38912" crc="32beb7fa" md5="f990ae5877b48e9dc5cbae6dc2a9743e" sha1="9e854f6cb4f4e0f0735ff742d0056a988a15dd68"/>
+	</game>
+	<game name="Reading Fun (1982)(Scott, Foresman)[PHM 3043]">
+		<description>Reading Fun (1982)(Scott, Foresman)[PHM 3043]</description>
+		<rom name="Reading Fun (1982)(Scott, Foresman)[PHM 3043].g" size="40960" crc="b8951ba5" md5="ebd7acf17226ecbb34ce07ff0142b394" sha1="28bc82c278c5975aab30090ac24d53c395806f7e"/>
+	</game>
+	<game name="Reading On (1982)(Scott, Foresman)[PHM 3046]">
+		<description>Reading On (1982)(Scott, Foresman)[PHM 3046]</description>
+		<rom name="Reading On (1982)(Scott, Foresman)[PHM 3046].g" size="40960" crc="30fd86e2" md5="ac9923765b2002e0890dd1096c0e441e" sha1="c5c29028ecbc9573614276938ff5f5f481d01b79"/>
+	</game>
+	<game name="Reading Power (1983)(Scott, Foresman)">
+		<description>Reading Power (1983)(Scott, Foresman)</description>
+		<rom name="Reading Power (1983)(Scott, Foresman).g" size="38912" crc="b839f8ff" md5="a789cd11650103036e5bd6566eead384" sha1="ada5d1e59792108f9de9a56718e246eee36ea86c"/>
+	</game>
+	<game name="Reading Rally (1982)(Scott, Foresman)[PHM 3048]">
+		<description>Reading Rally (1982)(Scott, Foresman)[PHM 3048]</description>
+		<rom name="Reading Rally (1982)(Scott, Foresman)[PHM 3048].g" size="38912" crc="174fcdd3" md5="ec90c5e4376f495655e317126c60ed41" sha1="76c6e58703a96712cffd32d44512dc53dd7cdd2c"/>
+	</game>
+	<game name="Reading Roundup (1982)(Scott, Foresman)[PHM 3047]">
+		<description>Reading Roundup (1982)(Scott, Foresman)[PHM 3047]</description>
+		<rom name="Reading Roundup (1982)(Scott, Foresman)[PHM 3047].g" size="38912" crc="c971fb28" md5="1bb11a48d54488421ffe85256d278d48" sha1="77a687c05211b4ed4e2a12737c24adaa8ca64fb4"/>
+	</game>
+	<game name="Reading Trail (1983)(Scott, Foresman)">
+		<description>Reading Trail (1983)(Scott, Foresman)</description>
+		<rom name="Reading Trail (1983)(Scott, Foresman).g" size="38912" crc="6ab268eb" md5="6376b9239722b3541e4df05c501e9556" sha1="06576bce7b5b2994c8ab65bb5c1493378e60c755"/>
+	</game>
+	<game name="Reading Wonder (1983)(Scott, Foresman)">
+		<description>Reading Wonder (1983)(Scott, Foresman)</description>
+		<rom name="Reading Wonder (1983)(Scott, Foresman).g" size="38912" crc="0e716875" md5="5899b08b328f91db760bd8fa223733fb" sha1="ff0d17c6588c5ca1978ed9675745278d97443573"/>
+	</game>
+	<game name="Return to Pirate's Isle (1983)(Texas Instruments &amp; Adventure International)(Part 1 of 2)[PHM 3189]">
+		<description>Return to Pirate's Isle (1983)(Texas Instruments &amp; Adventure International)(Part 1 of 2)[PHM 3189]</description>
+		<rom name="Return to Pirate's Isle (1983)(Texas Instruments &amp; Adventure International)(Part 1 of 2)[PHM 3189].g" size="40960" crc="852d79fd" md5="64720d9d014c8ca9515210657cb43205" sha1="9c610db21aa1061410475831230421a0586dd308"/>
+	</game>
+	<game name="Return to Pirate's Isle (1983)(Texas Instruments &amp; Adventure International)(Part 2 of 2)[PHM 3189]">
+		<description>Return to Pirate's Isle (1983)(Texas Instruments &amp; Adventure International)(Part 2 of 2)[PHM 3189]</description>
+		<rom name="Return to Pirate's Isle (1983)(Texas Instruments &amp; Adventure International)(Part 2 of 2)[PHM 3189].c" size="8192" crc="8eadb535" md5="6b3c0a62cd9e81636021e19a72c88e75" sha1="f50c6de9474b353305fda5941088cb1e57737cea"/>
+	</game>
+	<game name="Romox Video Game Library (demo) (198x)(Romox)">
+		<description>Romox Video Game Library (demo) (198x)(Romox)</description>
+		<rom name="Romox Video Game Library (demo) (198x)(Romox).c" size="8192" crc="0d6eab2a" md5="394d3eaf3cf33d5da219097e78b2ea60" sha1="a24504ec6ad649c18567a30be1e7fa9d322278d4"/>
+	</game>
+	<game name="Rotor Raiders (1983)(Romox)">
+		<description>Rotor Raiders (1983)(Romox)</description>
+		<rom name="Rotor Raiders (1983)(Romox).c" size="8192" crc="8bb54122" md5="8ac348bdd7b7d21cd326414c5bedbfde" sha1="6f6a704935edb6482270182c2db22e6d1b2ddaed"/>
+	</game>
+	<game name="Salary Planner (1980)(Scott, Foresman)">
+		<description>Salary Planner (1980)(Scott, Foresman)</description>
+		<rom name="Salary Planner (1980)(Scott, Foresman).g" size="32768" crc="9b49bcfe" md5="21ccc953b26b685b15ae7629d8abf1a0" sha1="082b3337f46fd8b7c2810c140b9dee7b0b641e1b"/>
+	</game>
+	<game name="Schachmeister (198x)(Texas Instruments)(de)">
+		<description>Schachmeister (198x)(Texas Instruments)(de)</description>
+		<rom name="Schachmeister (198x)(Texas Instruments)(de).g" size="30720" crc="69c729fa" md5="4986a8b636ab3df46417289e08be954d" sha1="02aa75dc95445e54b77329b80473cba961413a90"/>
+	</game>
+	<game name="Schnoz-ola (1983)(Funware)">
+		<description>Schnoz-ola (1983)(Funware)</description>
+		<rom name="Schnoz-ola (1983)(Funware).c" size="8192" crc="a7cf7660" md5="4f124d22e0b5b4434dd945f96ee7fa39" sha1="dbb30a41d687bd2345f528c91b95325cf66ae4c2"/>
+	</game>
+	<game name="Scholastic Spelling - Level 3 (1982)(Texas Instruments)[PHM 3059]">
+		<description>Scholastic Spelling - Level 3 (1982)(Texas Instruments)[PHM 3059]</description>
+		<rom name="Scholastic Spelling - Level 3 (1982)(Texas Instruments)[PHM 3059].g" size="40960" crc="cf96b1ea" md5="21cc853b176ea8cf5ef8970d442ae968" sha1="d50374028d9a16c93c1dc55c436026d51fb424c0"/>
+	</game>
+	<game name="Scholastic Spelling - Level 4 (1982)(Texas Instruments)[PHM 3060]">
+		<description>Scholastic Spelling - Level 4 (1982)(Texas Instruments)[PHM 3060]</description>
+		<rom name="Scholastic Spelling - Level 4 (1982)(Texas Instruments)[PHM 3060].g" size="40960" crc="7c2c247e" md5="724e22fbeadfc160d9b957ee7cdfe25c" sha1="d4c3b68fad8ef3bc668f76249dd46bd3fc81b55d"/>
+	</game>
+	<game name="Scholastic Spelling - Level 5 (1982)(Texas Instruments)[PHM 3061]">
+		<description>Scholastic Spelling - Level 5 (1982)(Texas Instruments)[PHM 3061]</description>
+		<rom name="Scholastic Spelling - Level 5 (1982)(Texas Instruments)[PHM 3061].g" size="40960" crc="5f814f20" md5="0ea2d57f73cf895c71541f428ab199ec" sha1="36dbe3304168dcd85aa0b93d7d2973856458b6b4"/>
+	</game>
+	<game name="Scholastic Spelling - Level 6 (1982)(Texas Instruments)[PHM 3062]">
+		<description>Scholastic Spelling - Level 6 (1982)(Texas Instruments)[PHM 3062]</description>
+		<rom name="Scholastic Spelling - Level 6 (1982)(Texas Instruments)[PHM 3062].g" size="40960" crc="2ab917cf" md5="30239de19138f9b89e8ccdf23244b6aa" sha1="304850c9b47af87c353b6de256dceacd6df34a47"/>
+	</game>
+	<game name="School Mailer (1981)(Scott, Foresman)">
+		<description>School Mailer (1981)(Scott, Foresman)</description>
+		<rom name="School Mailer (1981)(Scott, Foresman).g" size="32768" crc="3ab421c6" md5="02fb7f457142f0fb58186b01f7aaf7b7" sha1="12d03f39f10d445a811447af934422de60738668"/>
+	</game>
+	<game name="Securities Analysis (1979)(Texas Instruments)[PHM 3012]">
+		<description>Securities Analysis (1979)(Texas Instruments)[PHM 3012]</description>
+		<rom name="Securities Analysis (1979)(Texas Instruments)[PHM 3012].g" size="32768" crc="09c36fb6" md5="821743aa8e6a2d12349c7b7f9454198a" sha1="d1f4fffebe04b2e57ff848e1d71dbe24226721a8"/>
+	</game>
+	<game name="Sewermania (1983)(Milton Bradley)(Part 1 of 2)[MBX][PHM 3150]">
+		<description>Sewermania (1983)(Milton Bradley)(Part 1 of 2)[MBX][PHM 3150]</description>
+		<rom name="Sewermania (1983)(Milton Bradley)(Part 1 of 2)[MBX][PHM 3150].g" size="16384" crc="3153398c" md5="5e6aa7374178318ddd438f880c194b2f" sha1="62fa185be551ed1a8394eb557f10f697c6317e3a"/>
+	</game>
+	<game name="Sewermania (1983)(Milton Bradley)(Part 2 of 2)[MBX][PHM 3150]">
+		<description>Sewermania (1983)(Milton Bradley)(Part 2 of 2)[MBX][PHM 3150]</description>
+		<rom name="Sewermania (1983)(Milton Bradley)(Part 2 of 2)[MBX][PHM 3150].c" size="8192" crc="34b5a7bb" md5="d1d13c100a5c0b0d25010d47ef470413" sha1="79b91b8ff561683a7149ad74abe4a92ab6151405"/>
+	</game>
+	<game name="Shamus (1983)(Atari)(Part 1 of 2)">
+		<description>Shamus (1983)(Atari)(Part 1 of 2)</description>
+		<rom name="Shamus (1983)(Atari)(Part 1 of 2).c" size="8192" crc="1bd63686" md5="f4cc23997e89c20e1973d8b064899610" sha1="b2e9ee83dbd6f40e543e22d549f897110c915a91"/>
+	</game>
+	<game name="Shamus (1983)(Atari)(Part 2 of 2)">
+		<description>Shamus (1983)(Atari)(Part 2 of 2)</description>
+		<rom name="Shamus (1983)(Atari)(Part 2 of 2).d" size="8192" crc="aaeb7e53" md5="5492448c511778a0ed523ab722b63168" sha1="f9471fd1dcc64c2bac0ebd38344470f32214672f"/>
+	</game>
+	<game name="Simon Says! (198x)(Texas Instruments)(proto)">
+		<description>Simon Says! (198x)(Texas Instruments)(proto)</description>
+		<rom name="Simon Says! (198x)(Texas Instruments)(proto).g" size="6144" crc="2fdf1df9" md5="80b5a2bbec83ba160aade1773b0ea241" sha1="2a3df9392b62a1d036a46a7aa06d11262c453659"/>
+	</game>
+	<game name="Slymoids (1983)(Texas Instruments)(Part 1 of 2)[PHM 3197]">
+		<description>Slymoids (1983)(Texas Instruments)(Part 1 of 2)[PHM 3197]</description>
+		<rom name="Slymoids (1983)(Texas Instruments)(Part 1 of 2)[PHM 3197].g" size="8192" crc="52012adf" md5="a1d92daaabb5df37b1a6b6c884740dbc" sha1="ef4980e92b28e5b707e0566a5d77ac167d112b55"/>
+	</game>
+	<game name="Slymoids (1983)(Texas Instruments)(Part 2 of 2)[PHM 3197]">
+		<description>Slymoids (1983)(Texas Instruments)(Part 2 of 2)[PHM 3197]</description>
+		<rom name="Slymoids (1983)(Texas Instruments)(Part 2 of 2)[PHM 3197].c" size="8192" crc="3013b0dc" md5="191930b03d36c89eafee1a8d972d287b" sha1="922afeade8b456e279749a9846ed4f546b38dd07"/>
+	</game>
+	<game name="SMU Electrical Engineering Library (198x)(Texas Instruments)[PHM 3045]">
+		<description>SMU Electrical Engineering Library (198x)(Texas Instruments)[PHM 3045]</description>
+		<rom name="SMU Electrical Engineering Library (198x)(Texas Instruments)[PHM 3045].g" size="14336" crc="3d8486dd" md5="121148b994925e56aa2934674a3a85a7" sha1="1a8130c226e81729a68e8758c5db7d730ca026b5"/>
+	</game>
+	<game name="Sneggit (1982)(Texas Instruments)[PHM 3145]">
+		<description>Sneggit (1982)(Texas Instruments)[PHM 3145]</description>
+		<rom name="Sneggit (1982)(Texas Instruments)(File 1 of 2)[PHM 3145].bin" size="8192" crc="17cf25dd" md5="b2464b5913f38c61a70a8338b74aba7f" sha1="ba3eec5fe584206d0ca5044729093e6bf110c114"/>
+		<rom name="Sneggit (1982)(Texas Instruments)(File 2 of 2)[PHM 3145].bin" size="8192" crc="01d36619" md5="77fe9fa8691af02c167e7fbe1f50443c" sha1="c3cf4315ea7d56357c9ec29bdbdc2312b04f5869"/>
+	</game>
+	<game name="Sorgan II (198x)(DaTaBioTics)(Part 1 of 2)">
+		<description>Sorgan II (198x)(DaTaBioTics)(Part 1 of 2)</description>
+		<rom name="Sorgan II (198x)(DaTaBioTics)(Part 1 of 2).c" size="8192" crc="6c719224" md5="0005a5ca62af7a4bfc649249f7f7bca4" sha1="ad82c1cc353bbc1e24be9c3ffffcfbb8c2e9960c"/>
+	</game>
+	<game name="Sorgan II (198x)(DaTaBioTics)(Part 2 of 2)">
+		<description>Sorgan II (198x)(DaTaBioTics)(Part 2 of 2)</description>
+		<rom name="Sorgan II (198x)(DaTaBioTics)(Part 2 of 2).d" size="8192" crc="3d621c24" md5="a96764ded8580756948a4e221b3b0774" sha1="d9689759b59c2264de7b7497cffcc79b71e2fa0d"/>
+	</game>
+	<game name="Space Bandits (1984)(Milton Bradley)(Part 1 of 2)[MBX][PHM 3149]">
+		<description>Space Bandits (1984)(Milton Bradley)(Part 1 of 2)[MBX][PHM 3149]</description>
+		<rom name="Space Bandits (1984)(Milton Bradley)(Part 1 of 2)[MBX][PHM 3149].g" size="16384" crc="f82c8551" md5="e2644da6852c357eac1b7038e17cdddb" sha1="1e8a2c4d674afedcc4bac10600f00b9719355d8c"/>
+	</game>
+	<game name="Space Bandits (1984)(Milton Bradley)(Part 2 of 2)[MBX][PHM 3149]">
+		<description>Space Bandits (1984)(Milton Bradley)(Part 2 of 2)[MBX][PHM 3149]</description>
+		<rom name="Space Bandits (1984)(Milton Bradley)(Part 2 of 2)[MBX][PHM 3149].c" size="8192" crc="990f38e5" md5="a26296e493b563d0aebc6b11a6f79bcd" sha1="5ffe257ad8d391fd5769fe4c50d5411152c0d7b7"/>
+	</game>
+	<game name="Space Journey (1983)(Scott, Foresman)">
+		<description>Space Journey (1983)(Scott, Foresman)</description>
+		<rom name="Space Journey (1983)(Scott, Foresman).g" size="30720" crc="50bbdfab" md5="86fef87e7d77e1b2674c77cfe9d9b9d0" sha1="9da98477c453a389556f1259b11dedd70db605a5"/>
+	</game>
+	<game name="Space Journey (1983)(Scott, Foresman)[a]">
+		<description>Space Journey (1983)(Scott, Foresman)[a]</description>
+		<rom name="Space Journey (1983)(Scott, Foresman)[a].g" size="30720" crc="0c3519a4" md5="8116a8e7c786a16ed497677204791935" sha1="4a3ec2081a22712cf4cd6bc60e201bd7138b3607"/>
+	</game>
+	<game name="Speech Editor (1980)(Texas Instruments)[PHM 3011]">
+		<description>Speech Editor (1980)(Texas Instruments)[PHM 3011]</description>
+		<rom name="Speech Editor (1980)(Texas Instruments)[PHM 3011].g" size="8192" crc="6a24d715" md5="83eb575825b1e558ab80bf4fbf7b5c91" sha1="4559bff96f7d7711289eee104575aff50ee91edd"/>
+	</game>
+	<game name="Speed Reader (1984)(Navarone)">
+		<description>Speed Reader (1984)(Navarone)</description>
+		<rom name="Speed Reader (1984)(Navarone).c" size="8192" crc="a595b6f5" md5="49af889dedecefc87c1a678aaca948f0" sha1="d1a59be5b53b70994ab47a04a3072b86a1b148f2"/>
+	</game>
+	<game name="Spy's Demise (1987)(CSI Design Group)">
+		<description>Spy's Demise (1987)(CSI Design Group)</description>
+		<rom name="Spy's Demise (1987)(CSI Design Group).c" size="8192" crc="82875c2d" md5="ecfba5554790b2c24911cd0b762f1696" sha1="924108b1c56fe07b2a442bfff075010a48fb0bea"/>
+	</game>
+	<game name="St. Nick (1983)(Funware)(Part 1 of 2)">
+		<description>St. Nick (1983)(Funware)(Part 1 of 2)</description>
+		<rom name="St. Nick (1983)(Funware)(Part 1 of 2).g" size="8192" crc="f16b9f55" md5="4057a6c7dee39792291613f912086078" sha1="62c45071961dd1950f7c2cdb3ea6f3ab714ffef4"/>
+	</game>
+	<game name="St. Nick (1983)(Funware)(Part 2 of 2)">
+		<description>St. Nick (1983)(Funware)(Part 2 of 2)</description>
+		<rom name="St. Nick (1983)(Funware)(Part 2 of 2).c" size="8192" crc="615b272d" md5="fc978cf0f9fbfcbff2368d469cb1cf6b" sha1="3b3df5038b7d42a839a4230dd5b2354dc96cd205"/>
+	</game>
+	<game name="Star Gazer (1984)(Video Magic)">
+		<description>Star Gazer (1984)(Video Magic)</description>
+		<rom name="Star Gazer (1984)(Video Magic).c" size="8192" crc="48d3ddef" md5="38a0031433790823f17854b41aabfaa9" sha1="58d020095dceb99d566e7d604fb300ad0aec5c38"/>
+	</game>
+	<game name="Star Gazer II (1984)(Video Magic)">
+		<description>Star Gazer II (1984)(Video Magic)</description>
+		<rom name="Star Gazer II (1984)(Video Magic).c" size="8192" crc="4b18899c" md5="471c29d94a7cc80fd312f10f4eb2ab8b" sha1="d942f03d9bcb4095ed4a797e4eaaedb09271a725"/>
+	</game>
+	<game name="Star Gazer III (1984)(Video Magic)">
+		<description>Star Gazer III (1984)(Video Magic)</description>
+		<rom name="Star Gazer III (1984)(Video Magic).c" size="8192" crc="b0e63f6f" md5="fa596c6b5fcd69c57525e7b751afc3b1" sha1="91d6441477459048f8d5d6056e0df64e29dffcee"/>
+	</game>
+	<game name="Star Maze (1983)(Tronics &amp; Scott, Foresman)">
+		<description>Star Maze (1983)(Tronics &amp; Scott, Foresman)</description>
+		<rom name="Star Maze (1983)(Tronics &amp; Scott, Foresman).g" size="30720" crc="b2dd0d77" md5="f185a6ed870c3bccc2df6ebb495f87cf" sha1="be9b2dd774ad4705d70b40bb4613d0359a06e976"/>
+	</game>
+	<game name="Star Runner (1987)(DaTaBioTics)(Part 1 of 2)">
+		<description>Star Runner (1987)(DaTaBioTics)(Part 1 of 2)</description>
+		<rom name="Star Runner (1987)(DaTaBioTics)(Part 1 of 2).c" size="8192" crc="c04f6634" md5="284ebcacc90f069c435fb718282dc03b" sha1="fd9756d962c576cef225f8c6c1bf60ad86539724"/>
+	</game>
+	<game name="Star Runner (1987)(DaTaBioTics)(Part 2 of 2)">
+		<description>Star Runner (1987)(DaTaBioTics)(Part 2 of 2)</description>
+		<rom name="Star Runner (1987)(DaTaBioTics)(Part 2 of 2).d" size="8192" crc="453189d8" md5="079c863364a30d2fe42f6c5183af8f7a" sha1="d5894d350bd559c17cebf3daf45c08be7f8348ce"/>
+	</game>
+	<game name="Star Trek Strategic Operations Simulator (1983)(Sega Enterprises)(Part 1 of 2)[PHM 3225]">
+		<description>Star Trek Strategic Operations Simulator (1983)(Sega Enterprises)(Part 1 of 2)[PHM 3225]</description>
+		<rom name="Star Trek Strategic Operations Simulator (1983)(Sega Enterprises)(Part 1 of 2)[PHM 3225].g" size="16384" crc="402166e8" md5="38ea7f0ad4b4aec2b0b89ca3452f8ac1" sha1="989601a50750e2f131e8c67f17add9e4af00cb43"/>
+	</game>
+	<game name="Star Trek Strategic Operations Simulator (1983)(Sega Enterprises)(Part 2 of 2)[PHM 3225]">
+		<description>Star Trek Strategic Operations Simulator (1983)(Sega Enterprises)(Part 2 of 2)[PHM 3225]</description>
+		<rom name="Star Trek Strategic Operations Simulator (1983)(Sega Enterprises)(Part 2 of 2)[PHM 3225].c" size="8192" crc="742f88ce" md5="b8d94e4a56014012c7152b4010689c77" sha1="b12d2c8e4efd86bcbe619e16bcaf58d7ace18cff"/>
+	</game>
+	<game name="Starship Pegasus (1983)(Milton Bradley)(proto)(Part 1 of 2)">
+		<description>Starship Pegasus (1983)(Milton Bradley)(proto)(Part 1 of 2)</description>
+		<rom name="Starship Pegasus (1983)(Milton Bradley)(proto)(Part 1 of 2).g" size="16384" crc="3ad80563" md5="ca5a0984183afdf325c73e3fa6a41836" sha1="14b1b0b27b0507dc127f797e7d8c3a41c5a589dc"/>
+	</game>
+	<game name="Starship Pegasus (1983)(Milton Bradley)(proto)(Part 2 of 2)">
+		<description>Starship Pegasus (1983)(Milton Bradley)(proto)(Part 2 of 2)</description>
+		<rom name="Starship Pegasus (1983)(Milton Bradley)(proto)(Part 2 of 2).c" size="8192" crc="0813e7dc" md5="6308dd61542e2b6a62ab54da92768c52" sha1="9597ba9f9b551f486b7195de804cc22280909dfa"/>
+	</game>
+	<game name="Statistics (1979)(Texas Instruments)[PHM 3014]">
+		<description>Statistics (1979)(Texas Instruments)[PHM 3014]</description>
+		<rom name="Statistics (1979)(Texas Instruments)[PHM 3014].g" size="40960" crc="16369f1f" md5="b0aa080fca0a92011441b39dbffe33ea" sha1="e7fe0e8b1f47aa8d5db060856477499d6b05d502"/>
+	</game>
+	<game name="Statistik (1980)(Texas Instruments)(de)">
+		<description>Statistik (1980)(Texas Instruments)(de)</description>
+		<rom name="Statistik (1980)(Texas Instruments)(de).g" size="38912" crc="c3751773" md5="ad72b63e8711d98eb1e4fb3775fbb16a" sha1="0aca6113d13b404da5810488f6db3c8cc90ea4bf"/>
+	</game>
+	<game name="Statistik (1980)(Texas Instruments)(de)[a]">
+		<description>Statistik (1980)(Texas Instruments)(de)[a]</description>
+		<rom name="Statistik (1980)(Texas Instruments)(de)[a].g" size="38912" crc="7c015cbd" md5="955f6913bac7d988da2a00378c95073a" sha1="15309475219b5a418c9a079ae9b81830f6efa954"/>
+	</game>
+	<game name="Story Machine v1.4 (1983)(Spinnaker)(Part 1 of 2)[PHM 3178]">
+		<description>Story Machine v1.4 (1983)(Spinnaker)(Part 1 of 2)[PHM 3178]</description>
+		<rom name="Story Machine v1.4 (1983)(Spinnaker)(Part 1 of 2)[PHM 3178].g" size="24576" crc="3d6b030f" md5="c565df525b7fe7582ef545d65ccf64e7" sha1="d502e8ec591feb0773eb98f9f07b18a7f0705224"/>
+	</game>
+	<game name="Story Machine v1.4 (1983)(Spinnaker)(Part 2 of 2)[PHM 3178]">
+		<description>Story Machine v1.4 (1983)(Spinnaker)(Part 2 of 2)[PHM 3178]</description>
+		<rom name="Story Machine v1.4 (1983)(Spinnaker)(Part 2 of 2)[PHM 3178].c" size="8192" crc="d9addba8" md5="c2ae6333eb047d8c9331d7027d861e38" sha1="2768d01ebea41ebae56234587b784cbc8da79baf"/>
+	</game>
+	<game name="Strike Three (1988)(John Phillips)(Part 1 of 2)">
+		<description>Strike Three (1988)(John Phillips)(Part 1 of 2)</description>
+		<rom name="Strike Three (1988)(John Phillips)(Part 1 of 2).c" size="8192" crc="2096414c" md5="a4587e9882bcafddf50955093b03a14d" sha1="df37c00f415eb10821ec689a68dbefc660167a4a"/>
+		<rom name="Strike Three (1988)(John Phillips)(Part 1 of 2).d" size="8192" crc="abda506c" md5="2ea9594a4af15dbf6818d5d9f09bc8a0" sha1="5728a247f90cc846aa7fc6589de6abba4ca13560"/>
+	</game>
+	<game name="Super Disk Manager v4.0 (1984)(99-4A Users Group)">
+		<description>Super Disk Manager v4.0 (1984)(99-4A Users Group)</description>
+		<rom name="Super Disk Manager v4.0 (1984)(99-4A Users Group).g" size="16384" crc="dcd3433d" md5="52c4f56fbc7b3f7314b649fe4e5b1b7f" sha1="21fcba8e662786def43c94350459d2233377feb1"/>
+	</game>
+	<game name="Super Duper v1.1 (1984)(Navarone)">
+		<description>Super Duper v1.1 (1984)(Navarone)</description>
+		<rom name="Super Duper v1.1 (1984)(Navarone).c" size="8192" crc="56ec84e3" md5="ec482805e3c0d5ee34569497be6ddf54" sha1="ad868398d78e9648536815ae28431505553590bc"/>
+	</game>
+	<game name="Super Extended Basic (1987)(Triton)">
+		<description>Super Extended Basic (1987)(Triton)</description>
+		<rom name="Super Extended Basic (1987)(Triton)(File 1 of 3).bin" size="40960" crc="06a8cd52" md5="b657beb390b03bfa15ef5175c638263d" sha1="660292ea09b831e655db4b046e8ee9bdc6bd84e9"/>
+		<rom name="Super Extended Basic (1987)(Triton)(File 2 of 3).bin" size="8192" crc="bd8addb9" md5="cbba4b9c66981f69c6f4f588d394e233" sha1="d0be337b61552f7ac49d52872f66eb6ef549a774"/>
+		<rom name="Super Extended Basic (1987)(Triton)(File 3 of 3).bin" size="8192" crc="d5a91251" md5="09de45506bbf08692beeb5cb49d03b7b" sha1="dfa33094b67c31691b0396ea116c9da8d134bbc2"/>
+	</game>
+	<game name="Super Storm (1983)(Atari)(Part 1 of 2)">
+		<description>Super Storm (1983)(Atari)(Part 1 of 2)</description>
+		<rom name="Super Storm (1983)(Atari)(Part 1 of 2).c" size="8192" crc="e14a871f" md5="a46c2ba4424e1056e31f86e061cbba31" sha1="bc5fdae75761d92684f935bb628543cc93f3b85c"/>
+	</game>
+	<game name="Super Storm (1983)(Atari)(Part 2 of 2)">
+		<description>Super Storm (1983)(Atari)(Part 2 of 2)</description>
+		<rom name="Super Storm (1983)(Atari)(Part 2 of 2).d" size="8192" crc="c15298ea" md5="038049c89b931b964440133b0046ed0b" sha1="5ddd12ffd9537c0be6fb930038cba9a0248c2bfb"/>
+	</game>
+	<game name="T.I. Toad (1982)(Software Specialties)">
+		<description>T.I. Toad (1982)(Software Specialties)</description>
+		<rom name="T.I. Toad (1982)(Software Specialties).c" size="8192" crc="c480b973" md5="bfd35afc0a3c9ff1b3631d0e63b5cac7" sha1="ad7f3a0f2f6eab27377c5097d90ea2a6cd01d4a1"/>
+	</game>
+	<game name="Tax Investment Record Keeping (1980)(Texas Instruments)(Part 1 of 2)[PHM 3016]">
+		<description>Tax Investment Record Keeping (1980)(Texas Instruments)(Part 1 of 2)[PHM 3016]</description>
+		<rom name="Tax Investment Record Keeping (1980)(Texas Instruments)(Part 1 of 2)[PHM 3016].g" size="40960" crc="2ab99064" md5="8b5e4b9716a39f5a893722bac19f1bb5" sha1="0d013a86d826b9044b1544b2a91dbaed4a24748a"/>
+	</game>
+	<game name="Tax Investment Record Keeping (1980)(Texas Instruments)(Part 2 of 2)[PHM 3016]">
+		<description>Tax Investment Record Keeping (1980)(Texas Instruments)(Part 2 of 2)[PHM 3016]</description>
+		<rom name="Tax Investment Record Keeping (1980)(Texas Instruments)(Part 2 of 2)[PHM 3016].c" size="8192" crc="2c1a7a01" md5="1e7aef9c2f82c2c15714744dac82c269" sha1="0de73430edf5ec00d08d29876b624ac8c5c7d0de"/>
+	</game>
+	<game name="Terminal Emulator I (1980)(Texas Instruments)[PHM 3017]">
+		<description>Terminal Emulator I (1980)(Texas Instruments)[PHM 3017]</description>
+		<rom name="Terminal Emulator I (1980)(Texas Instruments)[PHM 3017].g" size="14336" crc="3c1a3f90" md5="38b99984baf1f1dcc7e85a7cd276a297" sha1="72923009a9bbae62dbd2698ce7ccbe5b480512aa"/>
+	</game>
+	<game name="Terminal Emulator II (1980)(Texas Instruments)(Part 1 of 2)[PHM 3035]">
+		<description>Terminal Emulator II (1980)(Texas Instruments)(Part 1 of 2)[PHM 3035]</description>
+		<rom name="Terminal Emulator II (1980)(Texas Instruments)(Part 1 of 2)[PHM 3035].g" size="40960" crc="96c61e19" md5="0a364b8f01d729ac9bc97cc190a5af0a" sha1="92cda19ba15d6644a68739a35d23cb223ee56924"/>
+	</game>
+	<game name="Terminal Emulator II (1980)(Texas Instruments)(Part 2 of 2)[PHM 3035]">
+		<description>Terminal Emulator II (1980)(Texas Instruments)(Part 2 of 2)[PHM 3035]</description>
+		<rom name="Terminal Emulator II (1980)(Texas Instruments)(Part 2 of 2)[PHM 3035].c" size="8192" crc="d2008761" md5="9b5c4ba24a4fa53e0cfb3959e96632a8" sha1="05d4bf80e9299f0f9af6442b61a2779935604762"/>
+	</game>
+	<game name="TI Calc (1983)(Texas Instruments)[PHM 3213][requires HSGPL or Mechatronic Gram Card]">
+		<description>TI Calc (1983)(Texas Instruments)[PHM 3213][requires HSGPL or Mechatronic Gram Card]</description>
+		<rom name="TI Calc (1983)(Texas Instruments)[PHM 3213][requires HSGPL or Mechatronic Gram Card].g" size="6144" crc="d68df037" md5="5a3a41f0372f5f9e8e132650ff20b819" sha1="fce2fb8928018492d30256588d3040ef5c654faa"/>
+	</game>
+	<game name="TI Invaders (1981)(Texas Instruments)(Part 1 of 2)[PHM 3053]">
+		<description>TI Invaders (1981)(Texas Instruments)(Part 1 of 2)[PHM 3053]</description>
+		<rom name="TI Invaders (1981)(Texas Instruments)(Part 1 of 2)[PHM 3053].g" size="8192" crc="9d1d9eaa" md5="33d3a1bfa70853f1a0212669b812f502" sha1="afb31bd69eed1e7e5e08a6fed98c8babed509fa9"/>
+	</game>
+	<game name="TI Invaders (1981)(Texas Instruments)(Part 2 of 2)[PHM 3053]">
+		<description>TI Invaders (1981)(Texas Instruments)(Part 2 of 2)[PHM 3053]</description>
+		<rom name="TI Invaders (1981)(Texas Instruments)(Part 2 of 2)[PHM 3053].c" size="8192" crc="e7463430" md5="f7f34bbb893d84a2643944bbba914f75" sha1="b1cc3454aa5437447edb1fc1f48ec7da20e87377"/>
+	</game>
+	<game name="TI LOGO (1981)(Texas Instruments)[PHM 3040]">
+		<description>TI LOGO (1981)(Texas Instruments)[PHM 3040]</description>
+		<rom name="TI LOGO (1981)(Texas Instruments)[PHM 3040].g" size="32768" crc="0a7cdd26" md5="9f978bb68f2468d8f2e5da90c5620ff8" sha1="c9f0db656cfedec0a25805e498e622b77f0fdfd6"/>
+	</game>
+	<game name="TI LOGO II (1984)(Texas Instruments)(Part 1 of 2)[PHM 3109]">
+		<description>TI LOGO II (1984)(Texas Instruments)(Part 1 of 2)[PHM 3109]</description>
+		<rom name="TI LOGO II (1984)(Texas Instruments)(Part 1 of 2)[PHM 3109].g" size="24576" crc="72ed8f7a" md5="070b6e348e0d6dea1f6096a4e7eaaf7b" sha1="6823d8a3f3166aca89ddf5ecc24ee1ca34e36fc2"/>
+	</game>
+	<game name="TI LOGO II (1984)(Texas Instruments)(Part 2 of 2)[PHM 3109]">
+		<description>TI LOGO II (1984)(Texas Instruments)(Part 2 of 2)[PHM 3109]</description>
+		<rom name="TI LOGO II (1984)(Texas Instruments)(Part 2 of 2)[PHM 3109].c" size="8192" crc="5a9d8f24" md5="cdd830f51196bce0c69b08e9744ab88f" sha1="4df7bf9fa6ff44bab560e22234746ef4276f6636"/>
+	</game>
+	<game name="TI Logo II (198x)(Texas Instruments)(it)">
+		<description>TI Logo II (198x)(Texas Instruments)(it)</description>
+		<rom name="TI Logo II (198x)(Texas Instruments)(it)(File 1 of 2).bin" size="38912" crc="fcda9f87" md5="fc0d4e810643cbc33c88080968a28239" sha1="97539fd33a176bab0c0f57ca40168c088a95b950"/>
+		<rom name="TI Logo II (198x)(Texas Instruments)(it)(File 2 of 2).bin" size="8192" crc="5a9d8f24" md5="cdd830f51196bce0c69b08e9744ab88f" sha1="4df7bf9fa6ff44bab560e22234746ef4276f6636"/>
+	</game>
+	<game name="TI Planner (1987)(DaTaBioTics)">
+		<description>TI Planner (1987)(DaTaBioTics)</description>
+		<rom name="TI Planner (1987)(DaTaBioTics).c" size="8192" crc="a47ce52e" md5="07fba6dcdf9144ff00f25481d549dd01" sha1="21d08d141f38086f33198df2683bcac5a9207f4c"/>
+	</game>
+	<game name="TI-Writer Word Processor (1982)(Texas Instruments)[PHM 3111]">
+		<description>TI-Writer Word Processor (1982)(Texas Instruments)[PHM 3111]</description>
+		<rom name="TI-Writer Word Processor (1982)(Texas Instruments)[PHM 3111].g" size="8192" crc="9b07778d" md5="6fb3ad836853ea2a38bd124265ebad6f" sha1="6e750106659f40c91f19d6b27c463ddaad13f9d4"/>
+	</game>
+	<game name="Tombstone City - 21st Century (1981)(Texas Instruments)(Part 1 of 2)[PHM 3052]">
+		<description>Tombstone City - 21st Century (1981)(Texas Instruments)(Part 1 of 2)[PHM 3052]</description>
+		<rom name="Tombstone City - 21st Century (1981)(Texas Instruments)(Part 1 of 2)[PHM 3052].g" size="8192" crc="922b5817" md5="54de685943949e8353c098961fef7f90" sha1="78aff0e51ae41e255d2aef371529f84684ab6a90"/>
+	</game>
+	<game name="Tombstone City - 21st Century (1981)(Texas Instruments)(Part 2 of 2)[PHM 3052]">
+		<description>Tombstone City - 21st Century (1981)(Texas Instruments)(Part 2 of 2)[PHM 3052]</description>
+		<rom name="Tombstone City - 21st Century (1981)(Texas Instruments)(Part 2 of 2)[PHM 3052].c" size="8192" crc="e8a48284" md5="74f5fd9aa12b3f9272747c27895828ba" sha1="6609ce17556fe3f202e86b9a80136d6fddef3a11"/>
+	</game>
+	<game name="Topper (1986)(Navarone)">
+		<description>Topper (1986)(Navarone)</description>
+		<rom name="Topper (1986)(Navarone).c" size="8192" crc="0c0d3375" md5="3d6260ad7025077902954563b30fc601" sha1="26c3d00c6fb0106625fae4d980f405a1d2d87962"/>
+	</game>
+	<game name="Touch Typing Tutor (1982)(Texas Instruments)[PHM 3064]">
+		<description>Touch Typing Tutor (1982)(Texas Instruments)[PHM 3064]</description>
+		<rom name="Touch Typing Tutor (1982)(Texas Instruments)[PHM 3064].g" size="24576" crc="4b94743b" md5="cc0594cf81964d5c7480a72b574bfa61" sha1="f2096aafac564a2a454c60ad7186f4f9265ac30b"/>
+	</game>
+	<game name="Treasure Island (1983)(Data East USA)(Part 1 of 2)[o][PHM 3168]">
+		<description>Treasure Island (1983)(Data East USA)(Part 1 of 2)[o][PHM 3168]</description>
+		<rom name="Treasure Island (1983)(Data East USA)(Part 1 of 2)[o][PHM 3168].g" size="40960" crc="9bf01b1d" md5="1179ecc41442cff8b946802033c856f4" sha1="c6a2f631db137f6be9fe6ea101d5dc3d19d27d69"/>
+	</game>
+	<game name="Treasure Island (1983)(Data East USA)(Part 1 of 2)[PHM 3168]">
+		<description>Treasure Island (1983)(Data East USA)(Part 1 of 2)[PHM 3168]</description>
+		<rom name="Treasure Island (1983)(Data East USA)(Part 1 of 2)[PHM 3168].g" size="22528" crc="d7f58843" md5="769a9c6f88953a1a2ab69aec5aba070d" sha1="70af21bd1cdb782a95fd3e8d41b85398b3362732"/>
+	</game>
+	<game name="Treasure Island (1983)(Data East USA)(Part 2 of 2)[PHM 3168]">
+		<description>Treasure Island (1983)(Data East USA)(Part 2 of 2)[PHM 3168]</description>
+		<rom name="Treasure Island (1983)(Data East USA)(Part 2 of 2)[PHM 3168].c" size="8192" crc="4a8d6272" md5="9b18657fa51604b5653b000d94f03e32" sha1="7ef9641d8344e703ae5561a198506d378a01612f"/>
+	</game>
+	<game name="Tunnels of Doom (1982)(Texas Instruments)">
+		<description>Tunnels of Doom (1982)(Texas Instruments)</description>
+		<rom name="Tunnels of Doom (1982)(Texas Instruments).g" size="40960" crc="163caf9b" md5="5cc86176fafa45a1ec0cd2e57303ae1f" sha1="8e7fd331fc0390262482c572ce03bfff2abcbfc4"/>
+	</game>
+	<game name="Typo II (1983)(Romox)">
+		<description>Typo II (1983)(Romox)</description>
+		<rom name="Typo II (1983)(Romox).g" size="8192" crc="2b669918" md5="7940ea1ee9af275c3a7c046f430ec705" sha1="d57d2cfe6a4c22e92228cebd742b3b652f85b1ff"/>
+	</game>
+	<game name="Typoman (1987)(Navarone)">
+		<description>Typoman (1987)(Navarone)</description>
+		<rom name="Typoman (1987)(Navarone).c" size="8192" crc="20fd0e2a" md5="7b35104a24f5f255ddc1f9174f2fadd2" sha1="db6928f35555474a80e0a12729678d45f09bfd5b"/>
+	</game>
+	<game name="U-Boat Jagd (1984)(Saurus)(de)(Part 1 of 2)">
+		<description>U-Boat Jagd (1984)(Saurus)(de)(Part 1 of 2)</description>
+		<rom name="U-Boat Jagd (1984)(Saurus)(de)(Part 1 of 2).g" size="40960" crc="c4309c0d" md5="e97df1b9190e744f2f95f45aa709d09d" sha1="e0374fbe36ebf3ed44ef6e0f5963096cd321b178"/>
+	</game>
+	<game name="U-Boat Jagd (1984)(Saurus)(de)(Part 2 of 2)">
+		<description>U-Boat Jagd (1984)(Saurus)(de)(Part 2 of 2)</description>
+		<rom name="U-Boat Jagd (1984)(Saurus)(de)(Part 2 of 2).c" size="8192" crc="7f39ca4f" md5="a8225fa938b63f1778feb8223e67a4f1" sha1="f1d4ecf341d215f3102d273c24281664ac6f077d"/>
+	</game>
+	<game name="VAT Accounting (1980)(Texas Instruments)(en-de)">
+		<description>VAT Accounting (1980)(Texas Instruments)(en-de)</description>
+		<rom name="VAT Accounting (1980)(Texas Instruments)(en-de).g" size="30720" crc="7d7d9f1d" md5="0de3be714dedec2fab7e3dc28b46ac97" sha1="605e2ed33936cc6fe693e380304251bb7c4b412e"/>
+	</game>
+	<game name="Verb Viper (1982)(DLM - Texas Instruments)(proto)">
+		<description>Verb Viper (1982)(DLM - Texas Instruments)(proto)</description>
+		<rom name="Verb Viper (1982)(DLM - Texas Instruments)(proto).g" size="14336" crc="f4825259" md5="973bda82f0cae9eb65e26e766017e3de" sha1="ff4f3e4e45f762fe2e9f87b5f1ace735e09745b0"/>
+	</game>
+	<game name="Video Chess (1979)(Texas Instruments)[PHM 3008]">
+		<description>Video Chess (1979)(Texas Instruments)[PHM 3008]</description>
+		<rom name="Video Chess (1979)(Texas Instruments)[PHM 3008].g" size="32768" crc="ca051402" md5="49e763ad2edfa19ca1fbc441d70232b3" sha1="9479890dff577da244a2bd33a469cbd4b2898ed8"/>
+	</game>
+	<game name="Video Games 1 (1979)(Texas Instruments)[PHM 3018]">
+		<description>Video Games 1 (1979)(Texas Instruments)[PHM 3018]</description>
+		<rom name="Video Games 1 (1979)(Texas Instruments)[PHM 3018].g" size="16384" crc="8489b5c7" md5="eff902f9dea5eedb7b7baddb66071af0" sha1="15fecf13a83fd4081a20073f4506106d638594cf"/>
+	</game>
+	<game name="Video Graphs (1979)(Texas Instruments)[a][PHM 3005]">
+		<description>Video Graphs (1979)(Texas Instruments)[a][PHM 3005]</description>
+		<rom name="Video Graphs (1979)(Texas Instruments)[a][PHM 3005].g" size="6144" crc="5ad4198e" md5="124337c19e49962dbb03b07fae26e73d" sha1="5ded2b45d3e8f38a4ef11184e922e56280feecc7"/>
+	</game>
+	<game name="Video Graphs (1979)(Texas Instruments)[PHM 3005]">
+		<description>Video Graphs (1979)(Texas Instruments)[PHM 3005]</description>
+		<rom name="Video Graphs (1979)(Texas Instruments)[PHM 3005].g" size="8192" crc="d974cd5a" md5="572d9101ac3bf55ea5e06ed889104dfb" sha1="ffc1f73bb114b7f7d4756f7bee10e40ebd92a2d8"/>
+	</game>
+	<game name="Video Vegas (1982)(Funware)(Part 1 of 2)">
+		<description>Video Vegas (1982)(Funware)(Part 1 of 2)</description>
+		<rom name="Video Vegas (1982)(Funware)(Part 1 of 2).g" size="40960" crc="2b4740fd" md5="b5dc2c48334684ea08dad1cc13319271" sha1="c00f83226df854d79514848ab6db26b8f241da45"/>
+	</game>
+	<game name="Video Vegas (1982)(Funware)(Part 2 of 2)">
+		<description>Video Vegas (1982)(Funware)(Part 2 of 2)</description>
+		<rom name="Video Vegas (1982)(Funware)(Part 2 of 2).c" size="8192" crc="767f471d" md5="afbd995578dc21ac7800deec2459b82c" sha1="598ac883dfaa2c6954d0c99201d400d8bc622ff3"/>
+	</game>
+	<game name="Von Drake's Molecular Mission (1984)(Walt Disney)(proto)(Part 1 of 2)">
+		<description>Von Drake's Molecular Mission (1984)(Walt Disney)(proto)(Part 1 of 2)</description>
+		<rom name="Von Drake's Molecular Mission (1984)(Walt Disney)(proto)(Part 1 of 2).g" size="38912" crc="3e79bf73" md5="aad5f5e179a03b06fe40b4495c6c4d5e" sha1="d8d249c4f27a21a936f63d39145025b200ea5056"/>
+	</game>
+	<game name="Von Drake's Molecular Mission (1984)(Walt Disney)(proto)(Part 2 of 2)">
+		<description>Von Drake's Molecular Mission (1984)(Walt Disney)(proto)(Part 2 of 2)</description>
+		<rom name="Von Drake's Molecular Mission (1984)(Walt Disney)(proto)(Part 2 of 2).c" size="8192" crc="abdeceaf" md5="7f573b566c0b62900af69f460e8a6007" sha1="7d9e593939d4c575b56c0c25aa0ca685d082239a"/>
+	</game>
+	<game name="Weight Control &amp; Nutrition (1980)(Texas Instruments)(Part 1 of 2)[PHM 3021]">
+		<description>Weight Control &amp; Nutrition (1980)(Texas Instruments)(Part 1 of 2)[PHM 3021]</description>
+		<rom name="Weight Control &amp; Nutrition (1980)(Texas Instruments)(Part 1 of 2)[PHM 3021].g" size="40960" crc="d9c4d7a1" md5="500987ba647dbbd9fdf01b9cc5a3d077" sha1="c01ae2ff8b9fa0d14901907902ef44e245300539"/>
+	</game>
+	<game name="Weight Control &amp; Nutrition (1980)(Texas Instruments)(Part 2 of 2)[PHM 3021]">
+		<description>Weight Control &amp; Nutrition (1980)(Texas Instruments)(Part 2 of 2)[PHM 3021]</description>
+		<rom name="Weight Control &amp; Nutrition (1980)(Texas Instruments)(Part 2 of 2)[PHM 3021].c" size="8192" crc="05dff099" md5="6dd29cf68440bf09193861adbd43b9d9" sha1="ee05ef9bdc3dd04e0919ad14c09c270011d5775b"/>
+	</game>
+	<game name="Wing War (1983)(Imagic)(proto)(Part 1 of 2)">
+		<description>Wing War (1983)(Imagic)(proto)(Part 1 of 2)</description>
+		<rom name="Wing War (1983)(Imagic)(proto)(Part 1 of 2).g" size="22528" crc="4d7ef6f3" md5="135d6909963023902893b108f2898eaa" sha1="48b03bb75e1c9d6aa18052da71f06baf44a868d1"/>
+	</game>
+	<game name="Wing War (1983)(Imagic)(proto)(Part 2 of 2)">
+		<description>Wing War (1983)(Imagic)(proto)(Part 2 of 2)</description>
+		<rom name="Wing War (1983)(Imagic)(proto)(Part 2 of 2).c" size="8192" crc="179a6759" md5="0094074b14a9009bf483d51d8265a601" sha1="2dd3ac18f70d2ca97391e3e239152ff0db20a5a0"/>
+	</game>
+	<game name="Word Invasion (1982)(DLM - Texas Instruments)[a][PHM 3169]">
+		<description>Word Invasion (1982)(DLM - Texas Instruments)[a][PHM 3169]</description>
+		<rom name="Word Invasion (1982)(DLM - Texas Instruments)[a][PHM 3169].g" size="14336" crc="90ba7d7a" md5="303d35d2285838140cfa9f1eff06844a" sha1="ad293509968b6d011a714f7cb8afc3914baca569"/>
+	</game>
+	<game name="Word Invasion (1982)(DLM - Texas Instruments)[PHM 3169]">
+		<description>Word Invasion (1982)(DLM - Texas Instruments)[PHM 3169]</description>
+		<rom name="Word Invasion (1982)(DLM - Texas Instruments)[PHM 3169].g" size="40960" crc="d11e5cc7" md5="0911499d10cac4e7c5a4adf0f2e244a7" sha1="b7e80221c4c394a406ca7576429ba5ad593bb32c"/>
+	</game>
+	<game name="Word Radar (1982)(DLM - Texas Instruments)(Part 1 of 2)[PHM 3185]">
+		<description>Word Radar (1982)(DLM - Texas Instruments)(Part 1 of 2)[PHM 3185]</description>
+		<rom name="Word Radar (1982)(DLM - Texas Instruments)(Part 1 of 2)[PHM 3185].g" size="6144" crc="3dee496c" md5="1b304bef8060a1c1b0c7cf84af500c3d" sha1="bb1c892a2d75a1eed6cb7cff1602d53a8a62307a"/>
+	</game>
+	<game name="Word Radar (1982)(DLM - Texas Instruments)(Part 2 of 2)[PHM 3185]">
+		<description>Word Radar (1982)(DLM - Texas Instruments)(Part 2 of 2)[PHM 3185]</description>
+		<rom name="Word Radar (1982)(DLM - Texas Instruments)(Part 2 of 2)[PHM 3185].c" size="8192" crc="1bdc7349" md5="c9e3b55b877610b3f4f7462ca3a18064" sha1="33d75181e460375cec0f9e31aee296dc0d2e409c"/>
+	</game>
+	<game name="Yahtzee (1980)(Milton Bradley)[PHM 3039]">
+		<description>Yahtzee (1980)(Milton Bradley)[PHM 3039]</description>
+		<rom name="Yahtzee (1980)(Milton Bradley)[PHM 3039].g" size="40960" crc="09d3aa61" md5="53172f0319ed701190d39d0341c984af" sha1="36ef5515b6ce8b306993fca72a578af6382cf954"/>
+	</game>
+	<game name="ZeroZap (1981)(Milton Bradley)[PHM 3036]">
+		<description>ZeroZap (1981)(Milton Bradley)[PHM 3036]</description>
+		<rom name="ZeroZap (1981)(Milton Bradley)[PHM 3036].g" size="40960" crc="1e0cb9b2" md5="7a3c12d2e9274215128e3f4b21e71dd2" sha1="69bfc517923717e895875c5115c2b4de27995c7d"/>
+	</game>
+</datafile>

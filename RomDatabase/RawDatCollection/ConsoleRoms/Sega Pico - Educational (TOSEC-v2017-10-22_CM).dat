@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega Pico - Educational</name>
+		<description>Sega Pico - Educational (TOSEC-v2017-10-22)</description>
+		<category>TOSEC</category>
+		<version>2017-10-22</version>
+		<author>Cassiel - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="101-piki Wan-chan - Wan-chan Daikoushin! (1997)(Appaloosa Interactive - Disney - Sega)(JP)">
+		<description>101-piki Wan-chan - Wan-chan Daikoushin! (1997)(Appaloosa Interactive - Disney - Sega)(JP)</description>
+		<rom name="101-piki Wan-chan - Wan-chan Daikoushin! (1997)(Appaloosa Interactive - Disney - Sega)(JP).bin" size="1048576" crc="27bb0b0a" md5="d44ae5430b809b6380fe5f28e6311e77" sha1="f9e2bde5351f34cd565c03a1cad3d1baedd8c7c3"/>
+	</game>
+	<game name="101-piki Wan-chan - Wan-chan Daikoushin! Rev 19960817 (1996)(Appaloosa Interactive - Disney - Sega)(JP)(beta)">
+		<description>101-piki Wan-chan - Wan-chan Daikoushin! Rev 19960817 (1996)(Appaloosa Interactive - Disney - Sega)(JP)(beta)</description>
+		<rom name="101-piki Wan-chan - Wan-chan Daikoushin! Rev 19960817 (1996)(Appaloosa Interactive - Disney - Sega)(JP)(beta).bin" size="1048576" crc="cdc4dba2" md5="ce536d7609a2c51e03056fa63ffc1354" sha1="ee1b794f03ee02124e22c4050f686f4f7b6e06df"/>
+	</game>
+	<game name="Annee en Compagnie de Winnie l'Ourson, Une (1994)(Disney - Sega)(FR)">
+		<description>Annee en Compagnie de Winnie l'Ourson, Une (1994)(Disney - Sega)(FR)</description>
+		<rom name="Annee en Compagnie de Winnie l'Ourson, Une (1994)(Disney - Sega)(FR).bin" size="524288" crc="4e4c17bc" md5="73922db11a14d272658312a380e4a3b5" sha1="e07a568f90a5db13bae314bfd310488320122439"/>
+	</game>
+	<game name="Berenstain Bears', The - A School Day (1995)(RealTime Associates - Sega)(US)">
+		<description>Berenstain Bears', The - A School Day (1995)(RealTime Associates - Sega)(US)</description>
+		<rom name="Berenstain Bears', The - A School Day (1995)(RealTime Associates - Sega)(US).bin" size="1048576" crc="e92af9f1" md5="d84c7f5ebdb96e282dca16731b1b852b" sha1="f4ae09a8a0e11cd8bec95ec3ac3908ce6da7a30f"/>
+	</game>
+	<game name="Berenstain Bears', The - A School Day Rev 19941220 (1995)(RealTime Associates - Sega)(beta)">
+		<description>Berenstain Bears', The - A School Day Rev 19941220 (1995)(RealTime Associates - Sega)(beta)</description>
+		<rom name="Berenstain Bears', The - A School Day Rev 19941220 (1995)(RealTime Associates - Sega)(beta).bin" size="1048576" crc="2994dcee" md5="73e02a081c315b63debc7a901a09efa4" sha1="6019bf5829925389b44414697e7329f8c2056437"/>
+	</game>
+	<game name="Berenstain Bears', The - A School Day Rev 19950106 (1995)(RealTime Associates - Sega)(beta)">
+		<description>Berenstain Bears', The - A School Day Rev 19950106 (1995)(RealTime Associates - Sega)(beta)</description>
+		<rom name="Berenstain Bears', The - A School Day Rev 19950106 (1995)(RealTime Associates - Sega)(beta).bin" size="1048576" crc="5dac3ecf" md5="3dcc811ed97130453bfb9caccd547f9a" sha1="246e18fcbc271798f531944a6291ac6c9bb5840c"/>
+	</game>
+	<game name="Berenstain Bears', The - A School Day Rev 19950113 (1995)(RealTime Associates - Sega)(beta)">
+		<description>Berenstain Bears', The - A School Day Rev 19950113 (1995)(RealTime Associates - Sega)(beta)</description>
+		<rom name="Berenstain Bears', The - A School Day Rev 19950113 (1995)(RealTime Associates - Sega)(beta).bin" size="1048564" crc="291aa0bd" md5="2f4980673025febd72433e2fa6189fe2" sha1="5677d64a2fd2ffa2baa1fd434f419407b5d47b5e"/>
+	</game>
+	<game name="Berenstain Bears', The - A School Day Rev 19950116 (1995)(RealTime Associates - Sega)(beta)">
+		<description>Berenstain Bears', The - A School Day Rev 19950116 (1995)(RealTime Associates - Sega)(beta)</description>
+		<rom name="Berenstain Bears', The - A School Day Rev 19950116 (1995)(RealTime Associates - Sega)(beta).bin" size="1048564" crc="56173be7" md5="35b722de0cc174127963c07bd47c35c1" sha1="ccce25815ccff4468b42f8317025b5b66916645e"/>
+	</game>
+	<game name="Berenstain Bears', The - A School Day Rev 19950126 (1995)(RealTime Associates - Sega)(beta)">
+		<description>Berenstain Bears', The - A School Day Rev 19950126 (1995)(RealTime Associates - Sega)(beta)</description>
+		<rom name="Berenstain Bears', The - A School Day Rev 19950126 (1995)(RealTime Associates - Sega)(beta).bin" size="1048564" crc="098c3510" md5="e6083180a5f73d3fd486ca402341a2d9" sha1="ab20a8063cd3650158a20572ae08048dc979a3e1"/>
+	</game>
+	<game name="Berenstain Bears', The - A School Day Rev 19950127 (1995)(RealTime Associates - Sega)(beta)">
+		<description>Berenstain Bears', The - A School Day Rev 19950127 (1995)(RealTime Associates - Sega)(beta)</description>
+		<rom name="Berenstain Bears', The - A School Day Rev 19950127 (1995)(RealTime Associates - Sega)(beta).bin" size="1048564" crc="4709d1cf" md5="40dd066909be198b2222b1fcc497b0af" sha1="a6c0f0df6bb69aafcbdb49fd0ff5ef3ca7585cd9"/>
+	</game>
+	<game name="Berenstain Bears', The - A School Day Rev 19950130 (1995)(RealTime Associates - Sega)(beta)">
+		<description>Berenstain Bears', The - A School Day Rev 19950130 (1995)(RealTime Associates - Sega)(beta)</description>
+		<rom name="Berenstain Bears', The - A School Day Rev 19950130 (1995)(RealTime Associates - Sega)(beta).bin" size="1048564" crc="7b53784f" md5="a40dc667075383e3a40e8c616bd60fc1" sha1="7128cea20f0695b69d552d5220097f4f4993ebef"/>
+	</game>
+	<game name="Bishoujo Senshi Sailor Moon Sailor Stars - Tokimeki Party (1996)(Bandai)(JP)">
+		<description>Bishoujo Senshi Sailor Moon Sailor Stars - Tokimeki Party (1996)(Bandai)(JP)</description>
+		<rom name="Bishoujo Senshi Sailor Moon Sailor Stars - Tokimeki Party (1996)(Bandai)(JP).bin" size="524288" crc="a503503d" md5="017ad0dde768a4a377a25b1c440e5e68" sha1="6737ba2590e6dc48b125ff9725a55430465f707c"/>
+	</game>
+	<game name="Chibi Maruko-chan - Issho ni Asobou Yo (1995)(Takara)(JP)">
+		<description>Chibi Maruko-chan - Issho ni Asobou Yo (1995)(Takara)(JP)</description>
+		<rom name="Chibi Maruko-chan - Issho ni Asobou Yo (1995)(Takara)(JP).bin" size="524288" crc="c81acb46" md5="6620043bcc0672eb8e0b6e2511980da5" sha1="d4a51f8894157dc8ef845931366d2ab482d43839"/>
+	</game>
+	<game name="Crayola Crayons - Create a World Rev 19940614 (1994)(Sega)(beta)">
+		<description>Crayola Crayons - Create a World Rev 19940614 (1994)(Sega)(beta)</description>
+		<rom name="Crayola Crayons - Create a World Rev 19940614 (1994)(Sega)(beta).bin" size="514778" crc="8d4c66f4" md5="a55d94ec9dcd9a44216ce064e2f56b39" sha1="f9f8a87a19ba36e2852f9f5c8a062345f2a4d7a6"/>
+	</game>
+	<game name="Crayola Crayons - Create a World Rev 19940623 (1994)(Sega)(beta)">
+		<description>Crayola Crayons - Create a World Rev 19940623 (1994)(Sega)(beta)</description>
+		<rom name="Crayola Crayons - Create a World Rev 19940623 (1994)(Sega)(beta).bin" size="515290" crc="d4604e6e" md5="687fec622a48404faaeca8f3343121dc" sha1="ea7f41f2e6f0a24c6c06531cb20e40139ae0efb8"/>
+	</game>
+	<game name="Crayola Crayons - Create a World Rev 19940630 (1994)(Sega)(beta)">
+		<description>Crayola Crayons - Create a World Rev 19940630 (1994)(Sega)(beta)</description>
+		<rom name="Crayola Crayons - Create a World Rev 19940630 (1994)(Sega)(beta).bin" size="524288" crc="51a06b4e" md5="8174c7f46075028c45e0942bf6c9580b" sha1="402cedcc402a72222f2e718493e38bf9a206df84"/>
+	</game>
+	<game name="Crayola Crayons - Create a World Rev 19940926 (1994)(Sega)(beta)">
+		<description>Crayola Crayons - Create a World Rev 19940926 (1994)(Sega)(beta)</description>
+		<rom name="Crayola Crayons - Create a World Rev 19940926 (1994)(Sega)(beta).bin" size="515222" crc="579ca72b" md5="c6487892c79ff7efc5d5480d87ef7343" sha1="eb755371b32e5c83bb347942e84b3f9e5fb8fd4c"/>
+	</game>
+	<game name="Crayola Crayons - Create a World Rev 19941006 (1994)(Sega)(beta)">
+		<description>Crayola Crayons - Create a World Rev 19941006 (1994)(Sega)(beta)</description>
+		<rom name="Crayola Crayons - Create a World Rev 19941006 (1994)(Sega)(beta).bin" size="515222" crc="864d2c7c" md5="8bdfc63e2d676793a725daa987caa1c1" sha1="718975648c1184954ed2aa6fbefc724fb99b98a5"/>
+	</game>
+	<game name="Crayola Crayons - Create a World Rev 19941011 (1994)(Sega)(beta)">
+		<description>Crayola Crayons - Create a World Rev 19941011 (1994)(Sega)(beta)</description>
+		<rom name="Crayola Crayons - Create a World Rev 19941011 (1994)(Sega)(beta).bin" size="524288" crc="f9d086fd" md5="1bd121dcc326a44b516128deb7fff2ba" sha1="8e22b5d6153da0f5458a5cd38c5169baa82df540"/>
+	</game>
+	<game name="Crayola Crayons - Create a World Rev 19941012 (1994)(Sega)(beta)">
+		<description>Crayola Crayons - Create a World Rev 19941012 (1994)(Sega)(beta)</description>
+		<rom name="Crayola Crayons - Create a World Rev 19941012 (1994)(Sega)(beta).bin" size="524288" crc="efa0da47" md5="9399e3ae64065f0072aa34f65c68dbaf" sha1="5b234db6399a72c718bc60ff8fa6e39b88420322"/>
+	</game>
+	<game name="Crayon Shinchan Oekaki Note (1995)(Bandai)(JP)(beta)">
+		<description>Crayon Shinchan Oekaki Note (1995)(Bandai)(JP)(beta)</description>
+		<rom name="Crayon Shinchan Oekaki Note (1995)(Bandai)(JP)(beta).bin" size="1048576" crc="60656906" md5="56b53fda89fd0f790efe6d8d316ff1a3" sha1="1e816a3f775b2bb5a5ae9b432ee026e65dad54d6"/>
+	</game>
+	<game name="Crayon Shinchan Oekaki Note (1995)(Bandai)(JP)(beta)[a2]">
+		<description>Crayon Shinchan Oekaki Note (1995)(Bandai)(JP)(beta)[a2]</description>
+		<rom name="Crayon Shinchan Oekaki Note (1995)(Bandai)(JP)(beta)[a2].bin" size="524288" crc="39d4c64b" md5="7ce748a87f3d26be8c71697f4b4feb01" sha1="52e115feb9d303993ca46aa36aa94a427f0ee141"/>
+	</game>
+	<game name="Crayon Shinchan Oekaki Note (1995)(Bandai)(JP)(beta)[a]">
+		<description>Crayon Shinchan Oekaki Note (1995)(Bandai)(JP)(beta)[a]</description>
+		<rom name="Crayon Shinchan Oekaki Note (1995)(Bandai)(JP)(beta)[a].bin" size="524288" crc="843c3af4" md5="c91c1f60ca33ab70342bf635aa299879" sha1="878733ffb5b0464f82f102f8500650bfe0b4add4"/>
+	</game>
+	<game name="Dolucky no Oekaki House (1995)(-)(JP)(beta)">
+		<description>Dolucky no Oekaki House (1995)(-)(JP)(beta)</description>
+		<rom name="Dolucky no Oekaki House (1995)(-)(JP)(beta).bin" size="524288" crc="4ce7b75d" md5="a684d9ffa1db7e3a788e70cd6779d912" sha1="aa906392c97cb12792a8cd026fdcb12d61490cf8"/>
+	</game>
+	<game name="Donalds Gespensterjagd (1995-02)(Sega)(DE)(proto)">
+		<description>Donalds Gespensterjagd (1995-02)(Sega)(DE)(proto)</description>
+		<rom name="Donalds Gespensterjagd (1995-02)(Sega)(DE)(proto).bin" size="524288" crc="45c2177a" md5="9869ae7aff96491b0491636c891e3774" sha1="2d8591fc2e1e90033faebc0c0670e981c695daf9"/>
+	</game>
+	<game name="Ecco Jr. et la Chasse au Tresor Sous-Marine! (1994)(Sega)(FR)">
+		<description>Ecco Jr. et la Chasse au Tresor Sous-Marine! (1994)(Sega)(FR)</description>
+		<rom name="Ecco Jr. et la Chasse au Tresor Sous-Marine! (1994)(Sega)(FR).bin" size="524288" crc="1b7b3825" md5="1c4163aef7aec0d2289aa996e97ce0f2" sha1="64706b5f1240941a4989db96dab432aed6009e0a"/>
+	</game>
+	<game name="Ecco Jr. und die Grosse Schatzsuche im Ozean! (1994)(Sega)(DE)">
+		<description>Ecco Jr. und die Grosse Schatzsuche im Ozean! (1994)(Sega)(DE)</description>
+		<rom name="Ecco Jr. und die Grosse Schatzsuche im Ozean! (1994)(Sega)(DE).bin" size="524288" crc="470af94e" md5="1642ebacc49c792ab9a469bd56b9508f" sha1="f57b18e13d44eb1a1dc85701757e5cdafcf43faa"/>
+	</game>
+	<game name="Gakken no O-benkyou Soft Tasizan Hikizan (1995)(Chips - Gakken)(JP)(beta)">
+		<description>Gakken no O-benkyou Soft Tasizan Hikizan (1995)(Chips - Gakken)(JP)(beta)</description>
+		<rom name="Gakken no O-benkyou Soft Tasizan Hikizan (1995)(Chips - Gakken)(JP)(beta).bin" size="524288" crc="25639a73" md5="a8a6e60096955d31b8badc2e4526ce1b" sha1="d0a768236e21d05ea1734691ab9031ea7a4b3e47"/>
+	</game>
+	<game name="Giornata Indaffaratissima di Sandrino e Zigo-Zago, La (1995)(RealTime Associates - Sega)(IT)">
+		<description>Giornata Indaffaratissima di Sandrino e Zigo-Zago, La (1995)(RealTime Associates - Sega)(IT)</description>
+		<rom name="Giornata Indaffaratissima di Sandrino e Zigo-Zago, La (1995)(RealTime Associates - Sega)(IT).bin" size="1048576" crc="2573131a" md5="eac009b6b92ff2c3d4befe236424820d" sha1="0e5c14fe1fd3360b9269fdf219decb7ef4480304"/>
+	</game>
+	<game name="Giorno di Scuola degli Orsi Berenstain, Un (1995)(RealTime Associates - Sega)(IT)">
+		<description>Giorno di Scuola degli Orsi Berenstain, Un (1995)(RealTime Associates - Sega)(IT)</description>
+		<rom name="Giorno di Scuola degli Orsi Berenstain, Un (1995)(RealTime Associates - Sega)(IT).bin" size="1048576" crc="61b889a2" md5="ee89111ff9a585b277135270a49dff19" sha1="64b537616207b3e98dfb700f98b63e61284ced13"/>
+	</game>
+	<game name="Heisei Kyouiku Iinkai Jr. (1995)(-)(JP)(beta)">
+		<description>Heisei Kyouiku Iinkai Jr. (1995)(-)(JP)(beta)</description>
+		<rom name="Heisei Kyouiku Iinkai Jr. (1995)(-)(JP)(beta).bin" size="524288" crc="6e3e29b9" md5="1015f2d1f07b55ae53f1aacac7f7059a" sha1="93c46585343e48e089ede74896f66b0006896c66"/>
+	</game>
+	<game name="Heisei Ten Sai Baka Bon Minna de Famiri-Restutoranni-Kun (1995)(-)(JP)(beta)">
+		<description>Heisei Ten Sai Baka Bon Minna de Famiri-Restutoranni-Kun (1995)(-)(JP)(beta)</description>
+		<rom name="Heisei Ten Sai Baka Bon Minna de Famiri-Restutoranni-Kun (1995)(-)(JP)(beta).bin" size="524288" crc="3656af85" md5="901c10d53bc5a3880f19dd5597b7fc98" sha1="708cd58d6182a4f2448be3d2db97943c063a04f9"/>
+	</game>
+	<game name="Huckle and Lowly's Busiest Day Ever (1994)(RealTime Associates - Sega)(US)">
+		<description>Huckle and Lowly's Busiest Day Ever (1994)(RealTime Associates - Sega)(US)</description>
+		<rom name="Huckle and Lowly's Busiest Day Ever (1994)(RealTime Associates - Sega)(US).bin" size="1048576" crc="42007e92" md5="e1ca483d74cb58edf1882f690b6ad711" sha1="ce0b387427226baa4067d6eacebe90cef760a18e"/>
+	</game>
+	<game name="Huckle and Lowly's Busiest Day Ever Rev 19940422 (1994)(RealTime Associates - Sega)(beta)">
+		<description>Huckle and Lowly's Busiest Day Ever Rev 19940422 (1994)(RealTime Associates - Sega)(beta)</description>
+		<rom name="Huckle and Lowly's Busiest Day Ever Rev 19940422 (1994)(RealTime Associates - Sega)(beta).bin" size="1048576" crc="2bfb25ac" md5="db4e23975de5fe76ec2fba40c27866f7" sha1="227a2b1c36044ea4141d49eba006e927ecdd3337"/>
+	</game>
+	<game name="Huckle and Lowly's Busiest Day Ever Rev 19940424 (1994)(RealTime Associates - Sega)(beta)">
+		<description>Huckle and Lowly's Busiest Day Ever Rev 19940424 (1994)(RealTime Associates - Sega)(beta)</description>
+		<rom name="Huckle and Lowly's Busiest Day Ever Rev 19940424 (1994)(RealTime Associates - Sega)(beta).bin" size="1048472" crc="4e032111" md5="7269a425546e3693cf17050ebae63a9c" sha1="7e0966ef8dfd19102a8682f1d8f6ebd41a6903f0"/>
+	</game>
+	<game name="Huckle and Lowly's Busiest Day Ever Rev 19940426-A (1994)(RealTime Associates - Sega)(beta)">
+		<description>Huckle and Lowly's Busiest Day Ever Rev 19940426-A (1994)(RealTime Associates - Sega)(beta)</description>
+		<rom name="Huckle and Lowly's Busiest Day Ever Rev 19940426-A (1994)(RealTime Associates - Sega)(beta).bin" size="1048576" crc="f325ab55" md5="1df5fb500454dffc9182b2dfb4abe490" sha1="efaab9cb359acb46034b5e21ce8f5a4c2f8450e5"/>
+	</game>
+	<game name="Huckle and Lowly's Busiest Day Ever Rev 19940426-B (1994)(RealTime Associates - Sega)(beta)">
+		<description>Huckle and Lowly's Busiest Day Ever Rev 19940426-B (1994)(RealTime Associates - Sega)(beta)</description>
+		<rom name="Huckle and Lowly's Busiest Day Ever Rev 19940426-B (1994)(RealTime Associates - Sega)(beta).bin" size="1048576" crc="f20535c5" md5="9a1c775e35dbb550744b8e9cc89f189a" sha1="f2dc08c8b0e4be40fec865e6530ffca7a474b6db"/>
+	</game>
+	<game name="Huckle and Lowly's Busiest Day Ever Rev 19940426-D (1994)(RealTime Associates - Sega)(beta)">
+		<description>Huckle and Lowly's Busiest Day Ever Rev 19940426-D (1994)(RealTime Associates - Sega)(beta)</description>
+		<rom name="Huckle and Lowly's Busiest Day Ever Rev 19940426-D (1994)(RealTime Associates - Sega)(beta).bin" size="524288" crc="5ea4c99c" md5="29596ee1fdc288ce960ad9f6e808a3c3" sha1="86971ce70727fd3d8b52ba37fa9b7fe2d462037d"/>
+	</game>
+	<game name="Huckle and Lowly's Busiest Day Ever Rev 19940426-E (1994)(RealTime Associates - Sega)(beta)">
+		<description>Huckle and Lowly's Busiest Day Ever Rev 19940426-E (1994)(RealTime Associates - Sega)(beta)</description>
+		<rom name="Huckle and Lowly's Busiest Day Ever Rev 19940426-E (1994)(RealTime Associates - Sega)(beta).bin" size="1048576" crc="fbc61621" md5="9db96bd79400572506b188b6db2c2dd7" sha1="c6392ccd79f1140739c42e476fd0c878a3680f75"/>
+	</game>
+	<game name="Huckle and Lowly's Busiest Day Ever Rev 19940427 (1994)(RealTime Associates - Sega)(beta)">
+		<description>Huckle and Lowly's Busiest Day Ever Rev 19940427 (1994)(RealTime Associates - Sega)(beta)</description>
+		<rom name="Huckle and Lowly's Busiest Day Ever Rev 19940427 (1994)(RealTime Associates - Sega)(beta).bin" size="1048576" crc="11f32054" md5="672f75b70379a72291070d97ba0acbfe" sha1="310683305721f63cd2a50db9464b5cf27fd877ad"/>
+	</game>
+	<game name="Huckle and Lowly's Busiest Day Ever Rev 19940502 (1994)(RealTime Associates - Sega)(beta)">
+		<description>Huckle and Lowly's Busiest Day Ever Rev 19940502 (1994)(RealTime Associates - Sega)(beta)</description>
+		<rom name="Huckle and Lowly's Busiest Day Ever Rev 19940502 (1994)(RealTime Associates - Sega)(beta).bin" size="667784" crc="265ad2d0" md5="743f9c5e81002a73be04deb20232c8ae" sha1="de457d6e1c6037a2c165c0f65037aadd9c73042c"/>
+	</game>
+	<game name="Huckle and Lowly's Busiest Day Ever Rev 19940503-A (1994)(RealTime Associates - Sega)(beta)">
+		<description>Huckle and Lowly's Busiest Day Ever Rev 19940503-A (1994)(RealTime Associates - Sega)(beta)</description>
+		<rom name="Huckle and Lowly's Busiest Day Ever Rev 19940503-A (1994)(RealTime Associates - Sega)(beta).bin" size="1048576" crc="61b37530" md5="886ea0048e93b85e6b9ebfc8018788d0" sha1="10ce4256b5843c0323835a760f91d1f176e7db24"/>
+	</game>
+	<game name="Huckle and Lowly's Busiest Day Ever Rev 19940503-B (1994)(RealTime Associates - Sega)(beta)">
+		<description>Huckle and Lowly's Busiest Day Ever Rev 19940503-B (1994)(RealTime Associates - Sega)(beta)</description>
+		<rom name="Huckle and Lowly's Busiest Day Ever Rev 19940503-B (1994)(RealTime Associates - Sega)(beta).bin" size="1048576" crc="a79e8c5a" md5="b6c344c9d3092db4025bb3b2d8326799" sha1="baf0ec378647144948db072d32f926f188bf69e7"/>
+	</game>
+	<game name="Huckle and Lowly's Busiest Day Ever Rev 19940503-C (1994)(RealTime Associates - Sega)(beta)">
+		<description>Huckle and Lowly's Busiest Day Ever Rev 19940503-C (1994)(RealTime Associates - Sega)(beta)</description>
+		<rom name="Huckle and Lowly's Busiest Day Ever Rev 19940503-C (1994)(RealTime Associates - Sega)(beta).bin" size="1048576" crc="828c773f" md5="04dce046b15b49b337d964e4a68b92f9" sha1="9c99abeac92bb7a536ea9c12c4f061ad13201261"/>
+	</game>
+	<game name="Huckle and Lowly's Busiest Day Ever Rev 19940503-D (1994)(RealTime Associates - Sega)(beta)">
+		<description>Huckle and Lowly's Busiest Day Ever Rev 19940503-D (1994)(RealTime Associates - Sega)(beta)</description>
+		<rom name="Huckle and Lowly's Busiest Day Ever Rev 19940503-D (1994)(RealTime Associates - Sega)(beta).bin" size="1048576" crc="3491bda7" md5="d68da95258b933ad40c31dcf9170fd96" sha1="a8ba90e9f5071e7191c334ba1ce968fcef9d8ff8"/>
+	</game>
+	<game name="Huckle and Lowly's Busiest Day Ever Rev 19940506-A (1994)(RealTime Associates - Sega)(beta)">
+		<description>Huckle and Lowly's Busiest Day Ever Rev 19940506-A (1994)(RealTime Associates - Sega)(beta)</description>
+		<rom name="Huckle and Lowly's Busiest Day Ever Rev 19940506-A (1994)(RealTime Associates - Sega)(beta).bin" size="1048576" crc="a271864c" md5="325ab81f996bc13b8dfae9a92c29908d" sha1="8acead7e6af488b320d4abb7fce51d2fa0fd49b6"/>
+	</game>
+	<game name="Huckle and Lowly's Busiest Day Ever Rev 19940506-B (1994)(RealTime Associates - Sega)(beta)">
+		<description>Huckle and Lowly's Busiest Day Ever Rev 19940506-B (1994)(RealTime Associates - Sega)(beta)</description>
+		<rom name="Huckle and Lowly's Busiest Day Ever Rev 19940506-B (1994)(RealTime Associates - Sega)(beta).bin" size="1048576" crc="98840154" md5="fb21059732173ba44981507602a4e0b2" sha1="73df6e4fbf2f40efd73fa2268833c9a59e9398a1"/>
+	</game>
+	<game name="Huckle and Lowly's Busiest Day Ever Rev 19940509 (1994)(RealTime Associates - Sega)(beta)">
+		<description>Huckle and Lowly's Busiest Day Ever Rev 19940509 (1994)(RealTime Associates - Sega)(beta)</description>
+		<rom name="Huckle and Lowly's Busiest Day Ever Rev 19940509 (1994)(RealTime Associates - Sega)(beta).bin" size="1048576" crc="a6bf6009" md5="d9dd80ac7e8b28817ecacdd3e725e577" sha1="930cebb1af06fff37f0b03a1f5eb695f2581ffa5"/>
+	</game>
+	<game name="Huckle and Lowly's Busiest Day Ever Rev 19940509-B (1994)(RealTime Associates - Sega)(beta)">
+		<description>Huckle and Lowly's Busiest Day Ever Rev 19940509-B (1994)(RealTime Associates - Sega)(beta)</description>
+		<rom name="Huckle and Lowly's Busiest Day Ever Rev 19940509-B (1994)(RealTime Associates - Sega)(beta).bin" size="1048576" crc="782ea694" md5="7d606cbaf3960db5de3b4b7db5d633b5" sha1="0f17bdd2747faf6a2c3bfe7846279b6ec02b8f60"/>
+	</game>
+	<game name="Huckle and Lowly's Busiest Day Ever Rev 19940509-C (1994)(RealTime Associates - Sega)(beta)">
+		<description>Huckle and Lowly's Busiest Day Ever Rev 19940509-C (1994)(RealTime Associates - Sega)(beta)</description>
+		<rom name="Huckle and Lowly's Busiest Day Ever Rev 19940509-C (1994)(RealTime Associates - Sega)(beta).bin" size="1048576" crc="bdd9c8fb" md5="e8f5cdb236cfab17abfb42acf92c3a4a" sha1="99223589cb5117cd8a82d780033545dcf0e53c8a"/>
+	</game>
+	<game name="Huckle and Lowly's Busiest Day Ever Rev 19940509-D (1994)(RealTime Associates - Sega)(beta)">
+		<description>Huckle and Lowly's Busiest Day Ever Rev 19940509-D (1994)(RealTime Associates - Sega)(beta)</description>
+		<rom name="Huckle and Lowly's Busiest Day Ever Rev 19940509-D (1994)(RealTime Associates - Sega)(beta).bin" size="1048576" crc="9a128886" md5="86fa663629d62e6572a4a42b3d2abf52" sha1="c28b84f3ea1ada7accbc777683b55c3831c4ec9b"/>
+	</game>
+	<game name="Huckle and Lowly's Busiest Day Ever Rev 19940919 (1994)(RealTime Associates - Sega)(beta)">
+		<description>Huckle and Lowly's Busiest Day Ever Rev 19940919 (1994)(RealTime Associates - Sega)(beta)</description>
+		<rom name="Huckle and Lowly's Busiest Day Ever Rev 19940919 (1994)(RealTime Associates - Sega)(beta).bin" size="1048472" crc="74cadb40" md5="864f35729bc4033c12901177eab13dea" sha1="7a87c09d5827df096ad8572da3a67a3913762589"/>
+	</game>
+	<game name="Huckle and Lowly's Busiest Day Ever Rev 19941004 (1994)(RealTime Associates - Sega)(beta)">
+		<description>Huckle and Lowly's Busiest Day Ever Rev 19941004 (1994)(RealTime Associates - Sega)(beta)</description>
+		<rom name="Huckle and Lowly's Busiest Day Ever Rev 19941004 (1994)(RealTime Associates - Sega)(beta).bin" size="1048472" crc="f0d08ce0" md5="a50105b4cae8edc0bf6277be5b6c68c7" sha1="46213ef731dc66325e824b620e05577b1b4a9718"/>
+	</game>
+	<game name="Jahr in Winnie Puuhs Leben, Ein (1994)(Disney - Sega)(DE)">
+		<description>Jahr in Winnie Puuhs Leben, Ein (1994)(Disney - Sega)(DE)</description>
+		<rom name="Jahr in Winnie Puuhs Leben, Ein (1994)(Disney - Sega)(DE).bin" size="524288" crc="b4120752" md5="f3c1fc7d6511f30707f2152ae5f999c6" sha1="3c3af9d643060e5a5477210c67528923ff107751"/>
+	</game>
+	<game name="Journee Bien Remplie pour Cassis et Asticot, Une (1995)(RealTime Associates - Sega)(FR)">
+		<description>Journee Bien Remplie pour Cassis et Asticot, Une (1995)(RealTime Associates - Sega)(FR)</description>
+		<rom name="Journee Bien Remplie pour Cassis et Asticot, Une (1995)(RealTime Associates - Sega)(FR).bin" size="1048576" crc="53f94256" md5="d45b9955cb3ae27cc312d3d716981012" sha1="9d9cdd8281e7dadb6668f35692e42fbde74d6349"/>
+	</game>
+	<game name="Journee Bien Remplie pour Cassis et Asticot, Une Rev 19940721 (1994)(RealTime Associates - Sega)(FR)(beta)">
+		<description>Journee Bien Remplie pour Cassis et Asticot, Une Rev 19940721 (1994)(RealTime Associates - Sega)(FR)(beta)</description>
+		<rom name="Journee Bien Remplie pour Cassis et Asticot, Une Rev 19940721 (1994)(RealTime Associates - Sega)(FR)(beta).bin" size="1023740" crc="026ca6f0" md5="4ee1129ad155b72e7b3c3373a897a6ff" sha1="0e2898a56cf47576e68db772639c23a7efcaf026"/>
+	</game>
+	<game name="Kikansha Thomas Ni Notte (1995)(Bandai)(JP)(beta)">
+		<description>Kikansha Thomas Ni Notte (1995)(Bandai)(JP)(beta)</description>
+		<rom name="Kikansha Thomas Ni Notte (1995)(Bandai)(JP)(beta).bin" size="524288" crc="32f926ac" md5="be5f328df2427cc826b7c27dd0220787" sha1="cf7cce404c013c57bfb0e80c5da3213af64dd505"/>
+	</game>
+	<game name="Kouchuu Ouja Mushiking - Atsumete Asobou Kouchuu Zukan (2005)(Sega)(JP)">
+		<description>Kouchuu Ouja Mushiking - Atsumete Asobou Kouchuu Zukan (2005)(Sega)(JP)</description>
+		<rom name="Kouchuu Ouja Mushiking - Atsumete Asobou Kouchuu Zukan (2005)(Sega)(JP).bin" size="2097152" crc="37c59a71" md5="8ca445c4099a5e6148722bef9218ed32" sha1="2ba57037e9155d3537c2d204de5f873f67a8a3a6"/>
+	</game>
+	<game name="Kuma no Pooh-san - Christopher Robin wo Sagase! (1999)(Disney - Sega)(JP)">
+		<description>Kuma no Pooh-san - Christopher Robin wo Sagase! (1999)(Disney - Sega)(JP)</description>
+		<rom name="Kuma no Pooh-san - Christopher Robin wo Sagase! (1999)(Disney - Sega)(JP).bin" size="1048576" crc="40e2cdfc" md5="97b56626bf23b5eec0457d5f0c8b108e" sha1="14f757263f138cbe02e03c48748935224805edf1"/>
+	</game>
+	<game name="Lion King, The - Adventures at Pride Rock (1995)(Disney - RealTime Associates - Sega)(GB)">
+		<description>Lion King, The - Adventures at Pride Rock (1995)(Disney - RealTime Associates - Sega)(GB)</description>
+		<rom name="Lion King, The - Adventures at Pride Rock (1995)(Disney - RealTime Associates - Sega)(GB).bin" size="1048576" crc="a7b92dc1" md5="62d5bb17c1fdfccc9e8692a189da109f" sha1="7f20cd3bec73624f93c8235887ad82f33a78077e"/>
+	</game>
+	<game name="Lion King, The - Adventures at Pride Rock Rev 19950419 (1995)(Disney - RealTime Associates - Sega)(beta)">
+		<description>Lion King, The - Adventures at Pride Rock Rev 19950419 (1995)(Disney - RealTime Associates - Sega)(beta)</description>
+		<rom name="Lion King, The - Adventures at Pride Rock Rev 19950419 (1995)(Disney - RealTime Associates - Sega)(beta).bin" size="1048576" crc="97effc7b" md5="0d99e468bb126419da282503e53ae55c" sha1="9df5d484be194516604b901349dee19fa30ee2f7"/>
+	</game>
+	<game name="Lion King, The - Adventures at Pride Rock Rev 19950425 (1995)(Disney - RealTime Associates - Sega)(beta)">
+		<description>Lion King, The - Adventures at Pride Rock Rev 19950425 (1995)(Disney - RealTime Associates - Sega)(beta)</description>
+		<rom name="Lion King, The - Adventures at Pride Rock Rev 19950425 (1995)(Disney - RealTime Associates - Sega)(beta).bin" size="1048576" crc="b948be65" md5="c19ebc844a5e9fc372f5ba454a00ac12" sha1="0a7a95ef14997bc617b137e4e7da5cc3762bc516"/>
+	</game>
+	<game name="Lion King, The - Adventures at Pride Rock Rev 19950501 (1995)(Disney - RealTime Associates - Sega)(beta)">
+		<description>Lion King, The - Adventures at Pride Rock Rev 19950501 (1995)(Disney - RealTime Associates - Sega)(beta)</description>
+		<rom name="Lion King, The - Adventures at Pride Rock Rev 19950501 (1995)(Disney - RealTime Associates - Sega)(beta).bin" size="1042622" crc="d5ecd5fd" md5="f8fb1d46ac3ce4906549f80ca586c390" sha1="29f505bb944cec4b09e6a2baf7dd72427f9d1574"/>
+	</game>
+	<game name="Lion King, The - Adventures at Pride Rock Rev 19950516 (1995)(Disney - RealTime Associates - Sega)(beta)">
+		<description>Lion King, The - Adventures at Pride Rock Rev 19950516 (1995)(Disney - RealTime Associates - Sega)(beta)</description>
+		<rom name="Lion King, The - Adventures at Pride Rock Rev 19950516 (1995)(Disney - RealTime Associates - Sega)(beta).bin" size="1036340" crc="6fbfd61b" md5="909d06c4e02e48214669df1d7e48dc89" sha1="35b1ff9b842271055fea434406eb6d0d2dafcb0f"/>
+	</game>
+	<game name="Lion King, The - Adventures at Pride Rock Rev 19950517 (1995)(Disney - RealTime Associates - Sega)(beta)">
+		<description>Lion King, The - Adventures at Pride Rock Rev 19950517 (1995)(Disney - RealTime Associates - Sega)(beta)</description>
+		<rom name="Lion King, The - Adventures at Pride Rock Rev 19950517 (1995)(Disney - RealTime Associates - Sega)(beta).bin" size="1036340" crc="f943083f" md5="cb581dfde551cada0e19fc8cc85e01cb" sha1="fc2bb183b0aed8ad6134fd345d83d43fef924a27"/>
+	</game>
+	<game name="Lion King, The - Adventures at Pride Rock Rev 19950522 (1995)(Disney - RealTime Associates - Sega)(beta)">
+		<description>Lion King, The - Adventures at Pride Rock Rev 19950522 (1995)(Disney - RealTime Associates - Sega)(beta)</description>
+		<rom name="Lion King, The - Adventures at Pride Rock Rev 19950522 (1995)(Disney - RealTime Associates - Sega)(beta).bin" size="1048576" crc="3ad71894" md5="13fdd436efd4494bb14b8431c7501955" sha1="92f6f45a4f635d42824fb6fb23b34854d47cf82d"/>
+	</game>
+	<game name="Lion King, The - Adventures at Pride Rock Rev 19950615 (1995)(Disney - RealTime Associates - Sega)(beta)">
+		<description>Lion King, The - Adventures at Pride Rock Rev 19950615 (1995)(Disney - RealTime Associates - Sega)(beta)</description>
+		<rom name="Lion King, The - Adventures at Pride Rock Rev 19950615 (1995)(Disney - RealTime Associates - Sega)(beta).bin" size="1036340" crc="0588d13c" md5="af4526a1256269831a2cb90ae8b3c843" sha1="0814754b867eb61f1e546910c4fd063960a85e62"/>
+	</game>
+	<game name="Lion King, The - Adventures at Pride Rock Rev 19950616 (1995)(Disney - RealTime Associates - Sega)(beta)">
+		<description>Lion King, The - Adventures at Pride Rock Rev 19950616 (1995)(Disney - RealTime Associates - Sega)(beta)</description>
+		<rom name="Lion King, The - Adventures at Pride Rock Rev 19950616 (1995)(Disney - RealTime Associates - Sega)(beta).bin" size="1048576" crc="66d90805" md5="f5b3cfe2f599c725cc7b91492a1c77de" sha1="6f571135acf76fa540b25c1670410d5d9fe016d8"/>
+	</game>
+	<game name="Magic Crayons Rev 0601-19940603-0900 (1994)(Sega)(beta)">
+		<description>Magic Crayons Rev 0601-19940603-0900 (1994)(Sega)(beta)</description>
+		<rom name="Magic Crayons Rev 0601-19940603-0900 (1994)(Sega)(beta).bin" size="524288" crc="f4ba1e9b" md5="633579cf6a98ef272704bc76260f11e6" sha1="8d77011f2349eb14b51e76c08474817a0f318f99"/>
+	</game>
+	<game name="Math Antics with Disney's 101 Dalmatians (1996)(Appaloosa Interactive - Disney - Sega)(US)">
+		<description>Math Antics with Disney's 101 Dalmatians (1996)(Appaloosa Interactive - Disney - Sega)(US)</description>
+		<rom name="Math Antics with Disney's 101 Dalmatians (1996)(Appaloosa Interactive - Disney - Sega)(US).bin" size="1048576" crc="d271f727" md5="cede845f6088bcaf3af3448529e6fdb6" sha1="bbbb351396ae9c636092efc6780dd1f80f4ca854"/>
+	</game>
+	<game name="Math Antics with Disney's 101 Dalmatians Rev 19960522 (1996)(Disney - Novotrade - Sega)(beta)">
+		<description>Math Antics with Disney's 101 Dalmatians Rev 19960522 (1996)(Disney - Novotrade - Sega)(beta)</description>
+		<rom name="Math Antics with Disney's 101 Dalmatians Rev 19960522 (1996)(Disney - Novotrade - Sega)(beta).bin" size="1048576" crc="2c5eee07" md5="6df8f78ecc351ade69e79111d1315f31" sha1="1a909fb832d2b04d062f5c35f7ab1ed106573a5a"/>
+	</game>
+	<game name="Math Antics with Disney's 101 Dalmatians Rev 19960531 (1996)(Disney - Novotrade - Sega)(beta)">
+		<description>Math Antics with Disney's 101 Dalmatians Rev 19960531 (1996)(Disney - Novotrade - Sega)(beta)</description>
+		<rom name="Math Antics with Disney's 101 Dalmatians Rev 19960531 (1996)(Disney - Novotrade - Sega)(beta).bin" size="1048576" crc="ea6fe243" md5="d3cfe75e87dc7fc5a79427e45283fa6d" sha1="15d9a25c6350640aae1a65b41d293bde436252d9"/>
+	</game>
+	<game name="Math Antics with Disney's 101 Dalmatians Rev 19960703 (1996)(Disney - Novotrade - Sega)(beta)">
+		<description>Math Antics with Disney's 101 Dalmatians Rev 19960703 (1996)(Disney - Novotrade - Sega)(beta)</description>
+		<rom name="Math Antics with Disney's 101 Dalmatians Rev 19960703 (1996)(Disney - Novotrade - Sega)(beta).bin" size="1048576" crc="29d31f1e" md5="b50909913e9cd653ede3f977b39802c6" sha1="7f8cfd2778876dd7ca03fa0a89a0da66bd7cf483"/>
+	</game>
+	<game name="Math Antics with Disney's 101 Dalmatians Rev 19960705 (1996)(Disney - Novotrade - Sega)(beta)">
+		<description>Math Antics with Disney's 101 Dalmatians Rev 19960705 (1996)(Disney - Novotrade - Sega)(beta)</description>
+		<rom name="Math Antics with Disney's 101 Dalmatians Rev 19960705 (1996)(Disney - Novotrade - Sega)(beta).bin" size="1048576" crc="3d17bfdc" md5="b3e31dd9af9fd87ed8c403ad83429343" sha1="8aef447eb11567ba3663d89ad417987a6d5b8cbf"/>
+	</game>
+	<game name="Math Antics with Disney's 101 Dalmatians Rev 19960718 (1996)(Disney - Novotrade - Sega)(beta)">
+		<description>Math Antics with Disney's 101 Dalmatians Rev 19960718 (1996)(Disney - Novotrade - Sega)(beta)</description>
+		<rom name="Math Antics with Disney's 101 Dalmatians Rev 19960718 (1996)(Disney - Novotrade - Sega)(beta).bin" size="1048576" crc="849abcb2" md5="e45869ec63c1939a9b73f7784f9b98e2" sha1="950888fd46a956c93baa3e938ee264b2de58055e"/>
+	</game>
+	<game name="Math Antics with Disney's 101 Dalmatians Rev 19960814 (1996)(Appaloosa Interactive - Disney - Sega)(beta)">
+		<description>Math Antics with Disney's 101 Dalmatians Rev 19960814 (1996)(Appaloosa Interactive - Disney - Sega)(beta)</description>
+		<rom name="Math Antics with Disney's 101 Dalmatians Rev 19960814 (1996)(Appaloosa Interactive - Disney - Sega)(beta).bin" size="1048576" crc="16d9431c" md5="aeb3eb7d9d9320368af53450c26112b6" sha1="e37c7b85b9c57301a9223507457ca0a78f7e4b24"/>
+	</game>
+	<game name="Math Antics with Disney's 101 Dalmatians Rev 19960816 (1996)(Appaloosa Interactive - Disney - Sega)(beta)">
+		<description>Math Antics with Disney's 101 Dalmatians Rev 19960816 (1996)(Appaloosa Interactive - Disney - Sega)(beta)</description>
+		<rom name="Math Antics with Disney's 101 Dalmatians Rev 19960816 (1996)(Appaloosa Interactive - Disney - Sega)(beta).bin" size="1048576" crc="f0269662" md5="d4ae5a29854863ad6a15b426de696d03" sha1="7f7186de1a79427078a682aeca222e7df9994ffc"/>
+	</game>
+	<game name="Math Antics with Disney's 101 Dalmatians Rev 19960817-U (1996)(Appaloosa Interactive - Disney - Sega)(beta)">
+		<description>Math Antics with Disney's 101 Dalmatians Rev 19960817-U (1996)(Appaloosa Interactive - Disney - Sega)(beta)</description>
+		<rom name="Math Antics with Disney's 101 Dalmatians Rev 19960817-U (1996)(Appaloosa Interactive - Disney - Sega)(beta).bin" size="1048576" crc="602e237a" md5="c5a437630b4b475ce6cd1005d432a903" sha1="915d44cbc0d0f04be485609c1367a1d47f140942"/>
+	</game>
+	<game name="Mickey - Ausflug in die Vergangenheit (1994)(Disney - Sega)(DE)">
+		<description>Mickey - Ausflug in die Vergangenheit (1994)(Disney - Sega)(DE)</description>
+		<rom name="Mickey - Ausflug in die Vergangenheit (1994)(Disney - Sega)(DE).bin" size="524288" crc="627ea96c" md5="5f5bf9fe9a77abbe34a53760f69a70ff" sha1="eab3c41aef6c30adc82e92e143ffc0360118b99e"/>
+	</game>
+	<game name="Mickey - Fait un Voyage Eclair Dans le Passe (1994)(Disney - Sega)(FR)">
+		<description>Mickey - Fait un Voyage Eclair Dans le Passe (1994)(Disney - Sega)(FR)</description>
+		<rom name="Mickey - Fait un Voyage Eclair Dans le Passe (1994)(Disney - Sega)(FR).bin" size="524288" crc="fafee898" md5="69c37997757f6ea8edcebf3b99fc47e7" sha1="6cacd57339ad8dcdbc40f08abffb6fa0f00b5ae5"/>
+	</game>
+	<game name="Mickey's Blast Into the Past (1994)(Disney - Sega)(US)">
+		<description>Mickey's Blast Into the Past (1994)(Disney - Sega)(US)</description>
+		<rom name="Mickey's Blast Into the Past (1994)(Disney - Sega)(US).bin" size="524288" crc="2628f6ef" md5="f9e23f3b23d4653c8914906265c571a3" sha1="1d04a40d353f71061b206d893d2d8e7864a2faee"/>
+	</game>
+	<game name="Mickey's Blast Into the Past Rev 19940608 (1994)(Disney - Sega)(beta)">
+		<description>Mickey's Blast Into the Past Rev 19940608 (1994)(Disney - Sega)(beta)</description>
+		<rom name="Mickey's Blast Into the Past Rev 19940608 (1994)(Disney - Sega)(beta).bin" size="1048576" crc="a9dbf978" md5="29c4d9529813b3fbf19238916c0755df" sha1="f6fba5c1992a4b5f7109845706f02a76184bf3ba"/>
+	</game>
+	<game name="Mickey's Blast Into the Past Rev 19940721 (1994)(Disney - Sega)(beta)">
+		<description>Mickey's Blast Into the Past Rev 19940721 (1994)(Disney - Sega)(beta)</description>
+		<rom name="Mickey's Blast Into the Past Rev 19940721 (1994)(Disney - Sega)(beta).bin" size="1048576" crc="a0ae9860" md5="a779fcfa96bc437e3f59fc44041b48b8" sha1="595c464b9aa104db104a58f9b5d73f006e438c9f"/>
+	</game>
+	<game name="Mickey's Blast Into the Past Rev 19940723 (1994)(Disney - Sega)(beta)">
+		<description>Mickey's Blast Into the Past Rev 19940723 (1994)(Disney - Sega)(beta)</description>
+		<rom name="Mickey's Blast Into the Past Rev 19940723 (1994)(Disney - Sega)(beta).bin" size="1048576" crc="d78baabc" md5="5b1d86e7c085d8516721d5dc34a84e7b" sha1="baf6ccf28557b148f984ed58cafca1c55496e245"/>
+	</game>
+	<game name="Mickey's Blast Into the Past Rev 19940725 (1994)(Disney - Sega)(beta)">
+		<description>Mickey's Blast Into the Past Rev 19940725 (1994)(Disney - Sega)(beta)</description>
+		<rom name="Mickey's Blast Into the Past Rev 19940725 (1994)(Disney - Sega)(beta).bin" size="524288" crc="1a2760fe" md5="8d30bbe2b1aef4a86dbd4b712d29bc4f" sha1="d19812e54b2a0c6b086bea861c4209841eb0adac"/>
+	</game>
+	<game name="Mickey's Blast Into the Past Rev 19940801 (1994)(Disney - Sega)(beta)">
+		<description>Mickey's Blast Into the Past Rev 19940801 (1994)(Disney - Sega)(beta)</description>
+		<rom name="Mickey's Blast Into the Past Rev 19940801 (1994)(Disney - Sega)(beta).bin" size="524288" crc="90b047f6" md5="0e676d9c58cb837be9f79c900a51e8dc" sha1="8596cdb62ff03a2f602344a16b61a1f487fa7c96"/>
+	</game>
+	<game name="Mickey's Blast Into the Past Rev 19940809 (1994)(Disney - Sega)(beta)">
+		<description>Mickey's Blast Into the Past Rev 19940809 (1994)(Disney - Sega)(beta)</description>
+		<rom name="Mickey's Blast Into the Past Rev 19940809 (1994)(Disney - Sega)(beta).bin" size="524288" crc="08f46903" md5="4e1e615ecb2714661a6d6a45184eca98" sha1="c0414c1524567fef2ddbff1762b8cce9803b81a0"/>
+	</game>
+	<game name="Mickys Lustiges Abenteuer (1995-02)(Sega)(DE)(proto)">
+		<description>Mickys Lustiges Abenteuer (1995-02)(Sega)(DE)(proto)</description>
+		<rom name="Mickys Lustiges Abenteuer (1995-02)(Sega)(DE)(proto).bin" size="524288" crc="c301a37f" md5="04c4335a95238ddd0e393b94548843f4" sha1="7ba83b5b8cd085989e0be0c773e0699e278fe47e"/>
+	</game>
+	<game name="Muppets, The - On the Go! (1996-03-01)(Sega)(US)(proto)">
+		<description>Muppets, The - On the Go! (1996-03-01)(Sega)(US)(proto)</description>
+		<rom name="Muppets, The - On the Go! (1996-03-01)(Sega)(US)(proto).bin" size="512310" crc="40c166a8" md5="7aa13705e7786d14fff42ea126828e73" sha1="4cba6235d7313dd6e29baca19d3da12254543f65"/>
+	</game>
+	<game name="Muppets, The - On the Go! (1996-03-13)(Sega)(US)(proto)">
+		<description>Muppets, The - On the Go! (1996-03-13)(Sega)(US)(proto)</description>
+		<rom name="Muppets, The - On the Go! (1996-03-13)(Sega)(US)(proto).bin" size="520855" crc="78c4ca77" md5="855bbbbd08feb8accd1e278506b48554" sha1="1dee90992fc6bb3107320ae8b5c3049d6282cd28"/>
+	</game>
+	<game name="Muppets, The - On the Go! (1996-03-22)(Sega)(US)(proto)">
+		<description>Muppets, The - On the Go! (1996-03-22)(Sega)(US)(proto)</description>
+		<rom name="Muppets, The - On the Go! (1996-03-22)(Sega)(US)(proto).bin" size="522092" crc="46424c1e" md5="cfd459a47da08f85bf3768ed0b5ee8c1" sha1="026af855e55ce53c351798375d8c8cb38f756b6c"/>
+	</game>
+	<game name="Muppets, The - On the Go! (1996-03-22)(Sega)(US)(proto)[13.37]">
+		<description>Muppets, The - On the Go! (1996-03-22)(Sega)(US)(proto)[13.37]</description>
+		<rom name="Muppets, The - On the Go! (1996-03-22)(Sega)(US)(proto)[13.37].bin" size="522092" crc="5ccc16bb" md5="46144c977f84c98b2dca83d03c622a4d" sha1="76aa37de7502e09c1aaeb94d2cae9877abd574fd"/>
+	</game>
+	<game name="Muppets, The - On the Go! (1996-03-29)(Sega)(US)(proto)">
+		<description>Muppets, The - On the Go! (1996-03-29)(Sega)(US)(proto)</description>
+		<rom name="Muppets, The - On the Go! (1996-03-29)(Sega)(US)(proto).bin" size="520292" crc="f40d01d1" md5="9d095fef23aa028532a71fdbfe9e157d" sha1="205adadb250a5d448b87f1826961bfd40b960d42"/>
+	</game>
+	<game name="Muppets, The - On the Go! (1996-03-30)(Sega)(US)(proto)">
+		<description>Muppets, The - On the Go! (1996-03-30)(Sega)(US)(proto)</description>
+		<rom name="Muppets, The - On the Go! (1996-03-30)(Sega)(US)(proto).bin" size="520362" crc="9abda6e4" md5="953e0c1a097e89fdcfa6953c47ca3481" sha1="cbf212d45b92dca2042b9c71231acfaae0992dbc"/>
+	</game>
+	<game name="Muppets, The - On the Go! (1996-03-30)(Sega)(US)(proto)[02.19]">
+		<description>Muppets, The - On the Go! (1996-03-30)(Sega)(US)(proto)[02.19]</description>
+		<rom name="Muppets, The - On the Go! (1996-03-30)(Sega)(US)(proto)[02.19].bin" size="520340" crc="bfc3bbf0" md5="73769da54e6cce8da934028fe66d1e30" sha1="9454341cd62bc9366a9f798cdeed66baf809048c"/>
+	</game>
+	<game name="Musical Zoo (1995)(Sega)(US)">
+		<description>Musical Zoo (1995)(Sega)(US)</description>
+		<rom name="Musical Zoo (1995)(Sega)(US).bin" size="524288" crc="35add3d0" md5="f055c868587aec072ac33fe4a52a3c7f" sha1="a9f0f50c0631c4be34b6e71f76d67ef156ac2552"/>
+	</game>
+	<game name="Musical Zoo Rev 19941220 (1995)(Sega)(beta)">
+		<description>Musical Zoo Rev 19941220 (1995)(Sega)(beta)</description>
+		<rom name="Musical Zoo Rev 19941220 (1995)(Sega)(beta).bin" size="524238" crc="f3f402a1" md5="7415c45585e27d34bfc97617045d7502" sha1="7be6d664097d8608a3ebb0513d83e6c55692b5f8"/>
+	</game>
+	<game name="Musical Zoo Rev 19950104 (1995)(Sega)(beta)">
+		<description>Musical Zoo Rev 19950104 (1995)(Sega)(beta)</description>
+		<rom name="Musical Zoo Rev 19950104 (1995)(Sega)(beta).bin" size="519992" crc="1c5ddba2" md5="d8a3675cba9e691338b16ba72a71feb5" sha1="e1cdf0b23c09b3ebe74032d533aeb4be4c495a2a"/>
+	</game>
+	<game name="Musical Zoo Rev 19950105 (1995)(Sega)(beta)">
+		<description>Musical Zoo Rev 19950105 (1995)(Sega)(beta)</description>
+		<rom name="Musical Zoo Rev 19950105 (1995)(Sega)(beta).bin" size="519992" crc="5591682a" md5="3eaf611750cea076161c3180b1f5db43" sha1="9573036713284a579e3df4506b70f03e9cf224e8"/>
+	</game>
+	<game name="Musical Zoo Rev 19950208 (1995)(Sega)(beta)">
+		<description>Musical Zoo Rev 19950208 (1995)(Sega)(beta)</description>
+		<rom name="Musical Zoo Rev 19950208 (1995)(Sega)(beta).bin" size="524288" crc="7bb5a2a0" md5="9fc28df83c11de2a7599bd11b814c57b" sha1="a0f69509ac85a761b1f52b752608c9ac1806dea8"/>
+	</game>
+	<game name="Musical Zoo Rev 19950209 (1995)(Sega)(beta)">
+		<description>Musical Zoo Rev 19950209 (1995)(Sega)(beta)</description>
+		<rom name="Musical Zoo Rev 19950209 (1995)(Sega)(beta).bin" size="519992" crc="7fda0399" md5="55f74071888497eeda2282ce39f01367" sha1="62e5e5d86d6e9854c9498af44235f4d205c66f14"/>
+	</game>
+	<game name="Musical Zoo Rev 19950217 (1995)(Sega)(beta)">
+		<description>Musical Zoo Rev 19950217 (1995)(Sega)(beta)</description>
+		<rom name="Musical Zoo Rev 19950217 (1995)(Sega)(beta).bin" size="519992" crc="6159cbe2" md5="e4d885de496bec2288fd71cb9d892f3d" sha1="16650fa84e5fcb4ffaf9a8ae4abbeb5920ef41c4"/>
+	</game>
+	<game name="Nippon no Mukasi Banasi (1994)(-)(JP)(beta)">
+		<description>Nippon no Mukasi Banasi (1994)(-)(JP)(beta)</description>
+		<rom name="Nippon no Mukasi Banasi (1994)(-)(JP)(beta).bin" size="524288" crc="b62514d0" md5="f19cb547b092702b7233d08c5892de15" sha1="5c128fcc3ce49434e1e3c834a9fcec7b28c5480e"/>
+	</game>
+	<game name="Oshare Pico - Suteki ni Henshin! Runa-chan no Oshare Hair Salon (2000)(Sega)(JP)">
+		<description>Oshare Pico - Suteki ni Henshin! Runa-chan no Oshare Hair Salon (2000)(Sega)(JP)</description>
+		<rom name="Oshare Pico - Suteki ni Henshin! Runa-chan no Oshare Hair Salon (2000)(Sega)(JP).bin" size="2097152" crc="376cfa05" md5="67a43e2b6a090a2d49810ca82fc8cfdb" sha1="ff7b03a62620ea668ab41fe731af07b78db984fc"/>
+	</game>
+	<game name="Pengin Ukiuki Bi Kkurisuizokukan Meiropazuru Rev 19950210 (1994)(Sega)(JP)(beta)">
+		<description>Pengin Ukiuki Bi Kkurisuizokukan Meiropazuru Rev 19950210 (1994)(Sega)(JP)(beta)</description>
+		<rom name="Pengin Ukiuki Bi Kkurisuizokukan Meiropazuru Rev 19950210 (1994)(Sega)(JP)(beta).bin" size="1048576" crc="a4a143cb" md5="ef31e4eff81bf2127f3bb45a97c2fc23" sha1="a17a6524f382b771f4f7ac1f46d7e45836300dda"/>
+	</game>
+	<game name="Pengin Ukiuki Bi Kkurisuizokukan Meiropazuru Rev 19950218 (1995)(Sega)(JP)(beta)">
+		<description>Pengin Ukiuki Bi Kkurisuizokukan Meiropazuru Rev 19950218 (1995)(Sega)(JP)(beta)</description>
+		<rom name="Pengin Ukiuki Bi Kkurisuizokukan Meiropazuru Rev 19950218 (1995)(Sega)(JP)(beta).bin" size="603388" crc="f32f45e5" md5="28384227359604e8a892ae2117dad6f1" sha1="26900e4f0a7b7c25b6acdc33a1a7c819fe1a543a"/>
+	</game>
+	<game name="Pepe's Puzzles Rev 19950220 (1995)(Sega)(beta)">
+		<description>Pepe's Puzzles Rev 19950220 (1995)(Sega)(beta)</description>
+		<rom name="Pepe's Puzzles Rev 19950220 (1995)(Sega)(beta).bin" size="544254" crc="e0618f30" md5="9c6ac70f54c84ace7805df3673603884" sha1="493e165f8bcf98f98039b9c56d4a8dcf744cb178"/>
+	</game>
+	<game name="Pepe's Puzzles Rev 19950224 (1995)(Sega)(beta)">
+		<description>Pepe's Puzzles Rev 19950224 (1995)(Sega)(beta)</description>
+		<rom name="Pepe's Puzzles Rev 19950224 (1995)(Sega)(beta).bin" size="523930" crc="e72d9d76" md5="3fe0106fca12ec27198cc84149ef06bb" sha1="4f91ed645a177d41ff145a9b4b4a7024ea9025e5"/>
+	</game>
+	<game name="Pico Baseball (1994)(Sega)(JP)(beta)">
+		<description>Pico Baseball (1994)(Sega)(JP)(beta)</description>
+		<rom name="Pico Baseball (1994)(Sega)(JP)(beta).bin" size="1048576" crc="a9802c1e" md5="641cb6ae1e7e94e4aea3321dfed37abe" sha1="e966e16409bfeaa369362625c59aab216b65b6c6"/>
+	</game>
+	<game name="Pico Soccer Mezase Soccer Senshu (1995)(Sega)(JP)(beta)">
+		<description>Pico Soccer Mezase Soccer Senshu (1995)(Sega)(JP)(beta)</description>
+		<rom name="Pico Soccer Mezase Soccer Senshu (1995)(Sega)(JP)(beta).bin" size="524288" crc="d9849eb8" md5="9a83b36f402d2ada3a0465151b5d8180" sha1="ba61a1c98aa5d03958ba745282086637680b13b2"/>
+	</game>
+	<game name="Pocahontas (1995)(Disney - RealTime Associates - Sega)(GB)">
+		<description>Pocahontas (1995)(Disney - RealTime Associates - Sega)(GB)</description>
+		<rom name="Pocahontas (1995)(Disney - RealTime Associates - Sega)(GB).bin" size="1048576" crc="deefbfd9" md5="99b591162383355a437d589e03380528" sha1="8376f01619def050fa7a2f53d48aa32ab0e860cd"/>
+	</game>
+	<game name="Professeur Pico et la Machine a Couleurs (1995)(Sega)(FR)">
+		<description>Professeur Pico et la Machine a Couleurs (1995)(Sega)(FR)</description>
+		<rom name="Professeur Pico et la Machine a Couleurs (1995)(Sega)(FR).bin" size="524288" crc="2870805c" md5="1060c923cd687bb5293a81ab3c268959" sha1="cec40575c1ddbb9c73241346b9e6510820c28b7a"/>
+	</game>
+	<game name="Professor Pico e l'Enigma della Scatola di Pastelli (1995)(Sega)(IT)">
+		<description>Professor Pico e l'Enigma della Scatola di Pastelli (1995)(Sega)(IT)</description>
+		<rom name="Professor Pico e l'Enigma della Scatola di Pastelli (1995)(Sega)(IT).bin" size="524288" crc="8aa99b73" md5="16544bafa6b2ec6d21359d83a718ffbf" sha1="831816248c39133f5251b0a4bf5d92515932d536"/>
+	</game>
+	<game name="Professor Pico und das Malkasten-Puzzle (1995)(Sega)(DE)">
+		<description>Professor Pico und das Malkasten-Puzzle (1995)(Sega)(DE)</description>
+		<rom name="Professor Pico und das Malkasten-Puzzle (1995)(Sega)(DE).bin" size="524288" crc="d2b063ed" md5="df117c7d7d35d90748ea21283477636f" sha1="429777d4b1204e3341bb83d72e0eb361a9f3623e"/>
+	</game>
+	<game name="Snoopy no Gakugeikai (1995)(Sega)(JP)(beta)">
+		<description>Snoopy no Gakugeikai (1995)(Sega)(JP)(beta)</description>
+		<rom name="Snoopy no Gakugeikai (1995)(Sega)(JP)(beta).bin" size="524288" crc="b76cd97c" md5="70690fe656da25e38a071103fab451f9" sha1="6d6b49249cd4513d59e1c863fed5f273113d7e9b"/>
+	</game>
+	<game name="Sonic the Hedgehog's Gameworld (1996)(Sega)(US)">
+		<description>Sonic the Hedgehog's Gameworld (1996)(Sega)(US)</description>
+		<rom name="Sonic the Hedgehog's Gameworld (1996)(Sega)(US).bin" size="524288" crc="e472a795" md5="825674b726b2545019c4b7bdee05d6b7" sha1="839d8be99eabf371bb992166471c877db6f6e265"/>
+	</game>
+	<game name="Sonic the Hedgehog's Gameworld Rev 19960701-1105 (1996)(Sega)(beta)">
+		<description>Sonic the Hedgehog's Gameworld Rev 19960701-1105 (1996)(Sega)(beta)</description>
+		<rom name="Sonic the Hedgehog's Gameworld Rev 19960701-1105 (1996)(Sega)(beta).bin" size="524288" crc="ddcdf94b" md5="944e36ac397c6e2d096dc320c925820f" sha1="7ebab6cd9fc42a598082f2ab442700b414e41d9b"/>
+	</game>
+	<game name="Sonic the Hedgehog's Gameworld Rev 19960719-0127 (1996)(Sega)(beta)">
+		<description>Sonic the Hedgehog's Gameworld Rev 19960719-0127 (1996)(Sega)(beta)</description>
+		<rom name="Sonic the Hedgehog's Gameworld Rev 19960719-0127 (1996)(Sega)(beta).bin" size="524288" crc="ef774132" md5="e2280dd5d3762c3b9758102f59c35711" sha1="3a6dc10517df2d037f716e59c13675bebf0e4246"/>
+	</game>
+	<game name="Sonic the Hedgehog's Gameworld Rev 19960802-0808 (1996)(Sega)(beta)">
+		<description>Sonic the Hedgehog's Gameworld Rev 19960802-0808 (1996)(Sega)(beta)</description>
+		<rom name="Sonic the Hedgehog's Gameworld Rev 19960802-0808 (1996)(Sega)(beta).bin" size="524288" crc="c2cbfe99" md5="b525474e3b715c41a4de07a1985f4d82" sha1="c0d0eb5db0d34aa75f9be68d75f3b99d0aa2e193"/>
+	</game>
+	<game name="Sonic the Hedgehog's Gameworld Rev 19960808-0746 (1996)(Sega)(beta)">
+		<description>Sonic the Hedgehog's Gameworld Rev 19960808-0746 (1996)(Sega)(beta)</description>
+		<rom name="Sonic the Hedgehog's Gameworld Rev 19960808-0746 (1996)(Sega)(beta).bin" size="524288" crc="4363a1e2" md5="648fb1b125d5d09949778caa8dce2410" sha1="935b925c7a6ed36519b756f33aa2ce2240610471"/>
+	</game>
+	<game name="Soreike! Anpanman - Anpanman to Kotoba Asobi (1999)(Sega)(JP)">
+		<description>Soreike! Anpanman - Anpanman to Kotoba Asobi (1999)(Sega)(JP)</description>
+		<rom name="Soreike! Anpanman - Anpanman to Kotoba Asobi (1999)(Sega)(JP).bin" size="2097152" crc="9ccd5cae" md5="765287399babb2fe7ba2dccbb3561e0b" sha1="99bcf3eb0ca4671629739bd575e2356634cee466"/>
+	</game>
+	<game name="Soreike! Anpanman - Anpanman to Tanoshii Drive! (1998)(Sega)(JP)">
+		<description>Soreike! Anpanman - Anpanman to Tanoshii Drive! (1998)(Sega)(JP)</description>
+		<rom name="Soreike! Anpanman - Anpanman to Tanoshii Drive! (1998)(Sega)(JP).bin" size="1048576" crc="ad3ef418" md5="e15af18c62a7a2669922bed2959ed506" sha1="000808ad7fa7120976f2d579c23ce8662e721b92"/>
+	</game>
+	<game name="Soreike! Anpanman no Game de Asobou Anpanman (1994)(Bandai)(JP)">
+		<description>Soreike! Anpanman no Game de Asobou Anpanman (1994)(Bandai)(JP)</description>
+		<rom name="Soreike! Anpanman no Game de Asobou Anpanman (1994)(Bandai)(JP).bin" size="524288" crc="75bd0685" md5="746d1fb5466b1605cbe95f9ddbcfb840" sha1="bd721f6aa96d1c258019b93cf041354887cae389"/>
+	</game>
+	<game name="Tails and the Music Maker (1994)(Sega)(US)">
+		<description>Tails and the Music Maker (1994)(Sega)(US)</description>
+		<rom name="Tails and the Music Maker (1994)(Sega)(US).bin" size="524288" crc="982154ab" md5="3ca902dbeb56a28362fbbfcdcec02d50" sha1="807ee1ed88ffdd780754043d836a848864155844"/>
+	</game>
+	<game name="Tails and the Music Maker Rev 0608-19940608-1655 (1994)(Sega)(beta)">
+		<description>Tails and the Music Maker Rev 0608-19940608-1655 (1994)(Sega)(beta)</description>
+		<rom name="Tails and the Music Maker Rev 0608-19940608-1655 (1994)(Sega)(beta).bin" size="524288" crc="f83ec5e8" md5="05a1fe5658ccec518061e5d060184aa1" sha1="39914965a38350b1bef720d39576d20943e8e4a4"/>
+	</game>
+	<game name="Tails and the Music Maker Rev 0623-19940624-0755 (1994)(Sega)(beta)">
+		<description>Tails and the Music Maker Rev 0623-19940624-0755 (1994)(Sega)(beta)</description>
+		<rom name="Tails and the Music Maker Rev 0623-19940624-0755 (1994)(Sega)(beta).bin" size="524288" crc="17a8af59" md5="71b38838161d6f5cef54d118c85a317e" sha1="e7e69600262eda55a9be6bde248c6f9401d5833f"/>
+	</game>
+	<game name="Tails and the Music Maker Rev 0722-19940722-2149 (1994)(Sega)(beta)">
+		<description>Tails and the Music Maker Rev 0722-19940722-2149 (1994)(Sega)(beta)</description>
+		<rom name="Tails and the Music Maker Rev 0722-19940722-2149 (1994)(Sega)(beta).bin" size="524288" crc="f8246157" md5="3b9d21b77b1f5b53af4ff8eee210ae0d" sha1="4f011b6055e484ddfe81acd03da8fff436b824f2"/>
+	</game>
+	<game name="Tails and the Music Maker Rev 0725-19940626-1044 (1994)(Sega)(beta)">
+		<description>Tails and the Music Maker Rev 0725-19940626-1044 (1994)(Sega)(beta)</description>
+		<rom name="Tails and the Music Maker Rev 0725-19940626-1044 (1994)(Sega)(beta).bin" size="495126" crc="ebbae9ce" md5="deb8314f65ea6cd37cd19fad4e304e10" sha1="02dbbf88a190f6c068d3f4e39488010cd2a2601a"/>
+	</game>
+	<game name="Tails and the Music Maker Rev 0927-19940927-1420 (1994)(Sega)(beta)">
+		<description>Tails and the Music Maker Rev 0927-19940927-1420 (1994)(Sega)(beta)</description>
+		<rom name="Tails and the Music Maker Rev 0927-19940927-1420 (1994)(Sega)(beta).bin" size="495190" crc="beb97cf3" md5="eaacfbcc9a8c30bee908dbf3c65e521d" sha1="3b6b392f5845a61f018d8edb5121b293ab1f32c9"/>
+	</game>
+	<game name="Tails and the Music Maker Rev 1004-19941005-1255 (1994)(Sega)(beta)">
+		<description>Tails and the Music Maker Rev 1004-19941005-1255 (1994)(Sega)(beta)</description>
+		<rom name="Tails and the Music Maker Rev 1004-19941005-1255 (1994)(Sega)(beta).bin" size="495190" crc="57714ba7" md5="108eabc54f2081f995e4d6e48493c3e3" sha1="3dfb122ab384847712dbd3fd41c6509f7d19c363"/>
+	</game>
+	<game name="Tails et le Faiseur de Musique (1994)(Sega)(FR)">
+		<description>Tails et le Faiseur de Musique (1994)(Sega)(FR)</description>
+		<rom name="Tails et le Faiseur de Musique (1994)(Sega)(FR).bin" size="524288" crc="8cec50fa" md5="6e59224ffde6f3078443602aef46141c" sha1="3f1ec0e7e55c7b1c1e4577f516c24ab1068d77ef"/>
+	</game>
+	<game name="Tails und der Musikant (1994)(Sega)(DE)">
+		<description>Tails und der Musikant (1994)(Sega)(DE)</description>
+		<rom name="Tails und der Musikant (1994)(Sega)(DE).bin" size="524288" crc="8edf7d4c" md5="90f099df5e8e7fe32da3cf51f9a7afdd" sha1="0b477e485a143b5bab7d26925bd587b0f3da2695"/>
+	</game>
+	<game name="Tokyo DisneySea - Mickey to Asobou! (2002)(Disney - Sega)(JP)">
+		<description>Tokyo DisneySea - Mickey to Asobou! (2002)(Disney - Sega)(JP)</description>
+		<rom name="Tokyo DisneySea - Mickey to Asobou! (2002)(Disney - Sega)(JP).bin" size="2097152" crc="38b713b3" md5="da9a5815bf9fb7b4f0d389c26c15a2ef" sha1="ad29728e7421d4b7505159dc69ba5978964c6c35"/>
+	</game>
+	<game name="Year at Pooh Corner, A (1995)(Disney - Sega)(JP)(beta)">
+		<description>Year at Pooh Corner, A (1995)(Disney - Sega)(JP)(beta)</description>
+		<rom name="Year at Pooh Corner, A (1995)(Disney - Sega)(JP)(beta).bin" size="524288" crc="a47878a1" md5="74157d52be9b4bf3a813257cf6a04aa2" sha1="16ab6f13bc8da6161f20600434db4111a16044d2"/>
+	</game>
+	<game name="Year at Pooh Corner, A Rev 19940608 (1994)(Disney - Sega)(beta)">
+		<description>Year at Pooh Corner, A Rev 19940608 (1994)(Disney - Sega)(beta)</description>
+		<rom name="Year at Pooh Corner, A Rev 19940608 (1994)(Disney - Sega)(beta).bin" size="1048576" crc="d4881455" md5="cf3919bb394beb8a11f77e37557e4bdd" sha1="48f104073567c96ccf8451dc5fc9c85bcbebf0ec"/>
+	</game>
+	<game name="Year at Pooh Corner, A Rev 19940711 (1994)(Disney - Sega)(beta)">
+		<description>Year at Pooh Corner, A Rev 19940711 (1994)(Disney - Sega)(beta)</description>
+		<rom name="Year at Pooh Corner, A Rev 19940711 (1994)(Disney - Sega)(beta).bin" size="524288" crc="640feed2" md5="0f229b637a9d634354db155ddfa7abff" sha1="0eacbc0dcb43de09aaa18764988056a839a3577e"/>
+	</game>
+	<game name="Year at Pooh Corner, A Rev 19940721 (1994)(Disney - Sega)(beta)">
+		<description>Year at Pooh Corner, A Rev 19940721 (1994)(Disney - Sega)(beta)</description>
+		<rom name="Year at Pooh Corner, A Rev 19940721 (1994)(Disney - Sega)(beta).bin" size="524288" crc="eb81b2d3" md5="b94c4817f7a847e639845469257c9146" sha1="0bec28cd6215c77e389c8d4214ab32255b26aeff"/>
+	</game>
+	<game name="Year at Pooh Corner, A Rev 19940723 (1994)(Disney - Sega)(beta)">
+		<description>Year at Pooh Corner, A Rev 19940723 (1994)(Disney - Sega)(beta)</description>
+		<rom name="Year at Pooh Corner, A Rev 19940723 (1994)(Disney - Sega)(beta).bin" size="524288" crc="6379c899" md5="90d29df10cd02dea9b12262150a9d8af" sha1="819bfe1214b0ef9897380b657d264558792c4a43"/>
+	</game>
+	<game name="Year at Pooh Corner, A Rev 19940725 (1994)(Disney - Sega)(beta)">
+		<description>Year at Pooh Corner, A Rev 19940725 (1994)(Disney - Sega)(beta)</description>
+		<rom name="Year at Pooh Corner, A Rev 19940725 (1994)(Disney - Sega)(beta).bin" size="514644" crc="93915a98" md5="135be9453e21bbcef5503456bb185642" sha1="d76c9d3ded9e7374c128569470f9744a9a76e308"/>
+	</game>
+	<game name="Year at Pooh Corner, A Rev 19940809 (1994)(Disney - Sega)(beta)">
+		<description>Year at Pooh Corner, A Rev 19940809 (1994)(Disney - Sega)(beta)</description>
+		<rom name="Year at Pooh Corner, A Rev 19940809 (1994)(Disney - Sega)(beta).bin" size="524288" crc="56ad7b29" md5="e6c6c653bf3885ae864d6d1a5384a6bd" sha1="0cdfb0a8b07c9d0169aa70f1f9fa3520d6bd65f7"/>
+	</game>
+	<game name="Zauberbuntstifte (1994)(Sega)(DE)">
+		<description>Zauberbuntstifte (1994)(Sega)(DE)</description>
+		<rom name="Zauberbuntstifte (1994)(Sega)(DE).bin" size="524288" crc="3218ba97" md5="7bb5be910e569b629e80c01c18c3f4d5" sha1="40f6585ea1a79ce96097388115c639cf8c4ccdc3"/>
+	</game>
+</datafile>

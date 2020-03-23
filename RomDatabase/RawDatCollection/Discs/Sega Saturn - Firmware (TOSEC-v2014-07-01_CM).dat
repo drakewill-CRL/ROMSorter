@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega Saturn - Firmware</name>
+		<description>Sega Saturn - Firmware (TOSEC-v2014-07-01)</description>
+		<category>TOSEC-ISO</category>
+		<version>2014-07-01</version>
+		<author>Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Hitachi Hi-Saturn BIOS v1.01 (1995)(Hitachi - Sega)(JP)(M6)">
+		<description>Hitachi Hi-Saturn BIOS v1.01 (1995)(Hitachi - Sega)(JP)(M6)</description>
+		<rom name="Hitachi Hi-Saturn BIOS v1.01 (1995)(Hitachi - Sega)(JP)(M6).bin" size="524288" crc="721e1b60" md5="3ea3202e2634cb47cb90f3a05c015010" sha1="49d8493008fa715ca0c94d99817a5439d6f2c796"/>
+	</game>
+	<game name="Hitachi Hi-Saturn BIOS v1.02 (1995)(Hitachi - Sega)(JP)(M6)">
+		<description>Hitachi Hi-Saturn BIOS v1.02 (1995)(Hitachi - Sega)(JP)(M6)</description>
+		<rom name="Hitachi Hi-Saturn BIOS v1.02 (1995)(Hitachi - Sega)(JP)(M6).bin" size="524288" crc="3408dbf4" md5="cb2cebc1b6e573b7c44523d037edcd45" sha1="8a22710e09ce75f39625894366cafe503ed1942d"/>
+	</game>
+	<game name="Hitachi Hi-Saturn BIOS v1.02 (1995)(Hitachi - Sega)(JP)(M6)[h]">
+		<description>Hitachi Hi-Saturn BIOS v1.02 (1995)(Hitachi - Sega)(JP)(M6)[h]</description>
+		<rom name="Hitachi Hi-Saturn BIOS v1.02 (1995)(Hitachi - Sega)(JP)(M6)[h].bin" size="524288" crc="a06c7c00" md5="7ae047df81cd8e2eb86063164a93621c" sha1="735494ba1b8b9be4930c1c3d62dcc93fb52c71ae"/>
+	</game>
+	<game name="Sega Saturn BIOS v1.00 (1994)(Sega)(JP)(M6)">
+		<description>Sega Saturn BIOS v1.00 (1994)(Sega)(JP)(M6)</description>
+		<rom name="Sega Saturn BIOS v1.00 (1994)(Sega)(JP)(M6).bin" size="524288" crc="2aba43c2" md5="af5828fdff51384f99b3c4926be27762" sha1="2b8cb4f87580683eb4d760e4ed210813d667f0a2"/>
+	</game>
+	<game name="Sega Saturn BIOS v1.003 (1994)(Sega)(JP)(M6)">
+		<description>Sega Saturn BIOS v1.003 (1994)(Sega)(JP)(M6)</description>
+		<rom name="Sega Saturn BIOS v1.003 (1994)(Sega)(JP)(M6).bin" size="524288" crc="b3c63c25" md5="74570fed4d44b2682b560c8cd44b8b6a" sha1="7b23b53d62de0f29a23e423d0fe751dfb469c2fa"/>
+	</game>
+	<game name="Sega Saturn BIOS v1.00a (1995)(Sega)(US)(M6)">
+		<description>Sega Saturn BIOS v1.00a (1995)(Sega)(US)(M6)</description>
+		<rom name="Sega Saturn BIOS v1.00a (1995)(Sega)(US)(M6).bin" size="524288" crc="f90f0089" md5="f273555d7d91e8a5a6bfd9bcf066331c" sha1="3bb41feb82838ab9a35601ac666de5aacfd17a58"/>
+	</game>
+	<game name="Sega Saturn BIOS v1.01 (1995)(Sega)(JP)(M6)">
+		<description>Sega Saturn BIOS v1.01 (1995)(Sega)(JP)(M6)</description>
+		<rom name="Sega Saturn BIOS v1.01 (1995)(Sega)(JP)(M6).bin" size="524288" crc="224b752c" md5="85ec9ca47d8f6807718151cbcca8b964" sha1="df94c5b4d47eb3cc404d88b33a8fda237eaf4720"/>
+	</game>
+	<game name="Sega Saturn BIOS v1.01 (1995)(Sega)(JP)(M6)[h]">
+		<description>Sega Saturn BIOS v1.01 (1995)(Sega)(JP)(M6)[h]</description>
+		<rom name="Sega Saturn BIOS v1.01 (1995)(Sega)(JP)(M6)[h].bin" size="524288" crc="814c84fb" md5="cb37ed680c55ed4a0cb3c7eb41497d4a" sha1="52d06f72aa979d67a2a96c6b860ba47d0c2dd444"/>
+	</game>
+	<game name="Sega Saturn BIOS v1.01a (1995)(Sega)(EU)(M6)">
+		<description>Sega Saturn BIOS v1.01a (1995)(Sega)(EU)(M6)</description>
+		<rom name="Sega Saturn BIOS v1.01a (1995)(Sega)(EU)(M6).bin" size="524288" crc="4afcf0fa" md5="3240872c70984b6cbfda1586cab68dbe" sha1="faa8ea183a6d7bbe5d4e03bb1332519800d3fbc3"/>
+	</game>
+	<game name="Victor V-Saturn BIOS v1.01 (1995)(JVC - Sega)(JP)(M6)">
+		<description>Victor V-Saturn BIOS v1.01 (1995)(JVC - Sega)(JP)(M6)</description>
+		<rom name="Victor V-Saturn BIOS v1.01 (1995)(JVC - Sega)(JP)(M6).bin" size="524288" crc="e4d61811" md5="ac4e4b6522e200c0d23d371a8cecbfd3" sha1="4154e11959f3d5639b11d7902b3a393a99fb5776"/>
+	</game>
+</datafile>

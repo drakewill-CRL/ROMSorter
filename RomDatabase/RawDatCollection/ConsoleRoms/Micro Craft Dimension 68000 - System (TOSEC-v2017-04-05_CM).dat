@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Micro Craft Dimension 68000 - System</name>
+		<description>Micro Craft Dimension 68000 - System (TOSEC-v2017-04-05)</description>
+		<category>TOSEC</category>
+		<version>2017-04-05</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<url>http://www.tosecdev.org</url>
+		<clrmamepro/>
+	</header>
+	<game name="System Disk #1 - User Master v1.24 (1984-09-27)(Micro Craft)[1015-1004-004016]">
+		<description>System Disk #1 - User Master v1.24 (1984-09-27)(Micro Craft)[1015-1004-004016]</description>
+		<rom name="System Disk #1 - User Master v1.24 (1984-09-27)(Micro Craft)[1015-1004-004016].imd" size="365718" crc="302a26f0" md5="e6c1a3ec33d2a94b43b9d705bbd544e4" sha1="e480f90206fc24b9d74681633a90f4d575c380ca"/>
+	</game>
+	<game name="System Disk #2 - Utilities v1.24 (1984-09-27)(Micro Craft)[1015-1004-004016]">
+		<description>System Disk #2 - Utilities v1.24 (1984-09-27)(Micro Craft)[1015-1004-004016]</description>
+		<rom name="System Disk #2 - Utilities v1.24 (1984-09-27)(Micro Craft)[1015-1004-004016].imd" size="343743" crc="c3bbf1f0" md5="3085ede5471a79da1f3e3b3935f55399" sha1="332771861b8a27deb307f2a758ce741406c3da36"/>
+	</game>
+	<game name="System Disk #3 - Assembler v1.24 (1984-09-27)(Micro Craft)[1015-1004-004016]">
+		<description>System Disk #3 - Assembler v1.24 (1984-09-27)(Micro Craft)[1015-1004-004016]</description>
+		<rom name="System Disk #3 - Assembler v1.24 (1984-09-27)(Micro Craft)[1015-1004-004016].imd" size="381558" crc="d0a9ced3" md5="ea328c6591a2a83d22b7e4f95430dac6" sha1="11ba67ffa495eb81b76eab72cfff30e77a604d00"/>
+	</game>
+	<game name="System Disk #4 - C Language-Linker v1.24 (1984-09-27)(Micro Craft)[1015-1004-004016]">
+		<description>System Disk #4 - C Language-Linker v1.24 (1984-09-27)(Micro Craft)[1015-1004-004016]</description>
+		<rom name="System Disk #4 - C Language-Linker v1.24 (1984-09-27)(Micro Craft)[1015-1004-004016].imd" size="318713" crc="a0d6748d" md5="a53f17b01f31dc57f93e4ebeefceeeca" sha1="080adfd1f435895bac511231e654beeb59e7657d"/>
+	</game>
+</datafile>

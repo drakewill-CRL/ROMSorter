@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation - Applications</name>
+		<description>Sony PlayStation - Applications (TOSEC-v2014-10-30)</description>
+		<category>TOSEC-ISO</category>
+		<version>2014-10-30</version>
+		<author>TOSEC-ISO: Trurip</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="GameShark Lite (2000)(Datel - InterAct)(US)">
+		<description>GameShark Lite (2000)(Datel - InterAct)(US)</description>
+		<rom name="GameShark Lite (2000)(Datel - InterAct)(US).ccd" size="754" crc="9bf52341" md5="85a0e8e00b3c569f43eb262e3338e735" sha1="3eb30136ee316ea28c8dc23a54b7182264f2fe42"/>
+		<rom name="GameShark Lite (2000)(Datel - InterAct)(US).img" size="194331648" crc="07f69b1a" md5="6358b19c6f29de1d5bc55c22a1186896" sha1="80b4b311cc81c9b320f7c6a245cb59571e7985d0"/>
+		<rom name="GameShark Lite (2000)(Datel - InterAct)(US).sub" size="7931904" crc="c562d7de" md5="022ef9540f5f18edb1f27ecae8f8e760" sha1="a1b242f03f2d13bb8a8be4da33ec91230c6d8893"/>
+	</game>
+</datafile>

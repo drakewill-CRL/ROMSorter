@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomSorter", "RomSorter\RomSorter.csproj", "{455CAEC2-2ABB-4480-8E45-AADBA0AB11A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomDatabase", "RomDatabase\RomDatabase.csproj", "{B223FA25-92BA-408E-B367-9E0B8E16743B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{455CAEC2-2ABB-4480-8E45-AADBA0AB11A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{455CAEC2-2ABB-4480-8E45-AADBA0AB11A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{455CAEC2-2ABB-4480-8E45-AADBA0AB11A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{455CAEC2-2ABB-4480-8E45-AADBA0AB11A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B223FA25-92BA-408E-B367-9E0B8E16743B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B223FA25-92BA-408E-B367-9E0B8E16743B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B223FA25-92BA-408E-B367-9E0B8E16743B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B223FA25-92BA-408E-B367-9E0B8E16743B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CAD0F4B-58D2-4835-A42C-A04DE966EB2D}
+	EndGlobalSection
+EndGlobal

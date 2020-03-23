@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation - Samplers - [BIN]</name>
+		<description>Sony PlayStation - Samplers - [BIN] (TOSEC-v2012-09-08)</description>
+		<category>TOSEC-ISO</category>
+		<version>2012-09-08</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Dino Crisis (demo) (1999)(Capcom)(US)">
+		<description>Dino Crisis (demo) (1999)(Capcom)(US)</description>
+		<rom name="Dino Crisis (demo) (1999)(Capcom)(US).bin" size="27638352" crc="a247c98b" md5="5344138d4701dcbfcc23a5eab078965a" sha1="c426d1edd161b328bce63de77e2a5176b4023e10"/>
+		<rom name="Dino Crisis (demo) (1999)(Capcom)(US).cue" size="103" crc="c4f9cb87" md5="8df64436498631b2fc1eaabcc7cb6ed4" sha1="b76e7e6fe634f7cb7a9b7b9e0402c330f3334943"/>
+	</game>
+	<game name="Resident Evil 2 (demo) (1997)(Capcom)(US)">
+		<description>Resident Evil 2 (demo) (1997)(Capcom)(US)</description>
+		<rom name="Resident Evil 2 (demo) (1997)(Capcom)(US).bin" size="162836016" crc="b3b611d5" md5="6769096538121d2249152805252ee2af" sha1="48ede47de5d1e10ed0ed09d385a09c914d663f1a"/>
+		<rom name="Resident Evil 2 (demo) (1997)(Capcom)(US).cue" size="107" crc="0c9251a8" md5="17b078bdd78863e8029430dcd15059da" sha1="de4f1cfb5bf7d932b7cfd5a7cd6cbd88b9ace625"/>
+	</game>
+	<game name="Resident Evil 3 - Nemesis (demo) (1999)(Capcom)(US)">
+		<description>Resident Evil 3 - Nemesis (demo) (1999)(Capcom)(US)</description>
+		<rom name="Resident Evil 3 - Nemesis (demo) (1999)(Capcom)(US).bin" size="247446864" crc="7b70af82" md5="afe63f79ac85f6033505be1ea104107e" sha1="709e347add5f311081a2f399bbe32d5234ad5d02"/>
+		<rom name="Resident Evil 3 - Nemesis (demo) (1999)(Capcom)(US).cue" size="117" crc="9a370c28" md5="797afcc369e885742c58ad9c22f88f92" sha1="6e0ce7c5ad813e5cf994eba05aeaf0992a851313"/>
+	</game>
+</datafile>

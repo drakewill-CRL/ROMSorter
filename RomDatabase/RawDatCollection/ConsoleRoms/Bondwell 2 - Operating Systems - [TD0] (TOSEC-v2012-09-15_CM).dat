@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Bondwell 2 - Operating Systems - [TD0]</name>
+		<description>Bondwell 2 - Operating Systems - [TD0] (TOSEC-v2012-09-15)</description>
+		<category>TOSEC</category>
+		<version>2012-09-15</version>
+		<author>Cid - Grendel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="CPM v2.2 (1986)(Digital Research)">
+		<description>CPM v2.2 (1986)(Digital Research)</description>
+		<rom name="CPM v2.2 (1986)(Digital Research).td0" size="211050" crc="11c17560" md5="fb23c20a44dfad00e8f9c830c1951e6d" sha1="2316269f8a079dfd011bcd12d326a061743f143c"/>
+	</game>
+</datafile>

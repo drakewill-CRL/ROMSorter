@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Galaksija Galaksija Plus - Games</name>
+		<description>Galaksija Galaksija Plus - Games (TOSEC-v2014-01-24)</description>
+		<category>TOSEC</category>
+		<version>2014-01-24</version>
+		<author>TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Pac Man Plus (19xx)(Perusanec, Josip)(YU)(en)">
+		<description>Pac Man Plus (19xx)(Perusanec, Josip)(YU)(en)</description>
+		<rom name="Pac Man Plus (19xx)(Perusanec, Josip)(YU)(en).gtp" size="12572" crc="cbb8af07" md5="19da067fe41da15a1a5ee3ecf543df8d" sha1="e3f048454c4a9d62835f80256fdfebbfaef5561b"/>
+	</game>
+	<game name="Svetleci Bicikli Plus (1986)(Balint, Nenad)(YU)">
+		<description>Svetleci Bicikli Plus (1986)(Balint, Nenad)(YU)</description>
+		<rom name="Svetleci Bicikli Plus (1986)(Balint, Nenad)(YU).gtp" size="2583" crc="2d4000fe" md5="18ab44062534a04f04b62f53cc02a93f" sha1="de2b47c73c3a324a223147e41c327a52c372875e"/>
+	</game>
+	<game name="Tetris (1988-07-21)(Obradovic, Dragoljub)(YU)(en)">
+		<description>Tetris (1988-07-21)(Obradovic, Dragoljub)(YU)(en)</description>
+		<rom name="Tetris (1988-07-21)(Obradovic, Dragoljub)(YU)(en).gtp" size="2706" crc="64015b12" md5="581e1c5d169f9f59c63e179d149b659a" sha1="1d062b4abd1bfdc977568378a61f2bbdf65e2602"/>
+	</game>
+</datafile>

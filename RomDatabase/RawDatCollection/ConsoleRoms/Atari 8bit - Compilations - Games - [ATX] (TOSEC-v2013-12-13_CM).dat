@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Atari 8bit - Compilations - Games - [ATX]</name>
+		<description>Atari 8bit - Compilations - Games - [ATX] (TOSEC-v2013-12-13)</description>
+		<category>TOSEC</category>
+		<version>2013-12-13</version>
+		<author>TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Arcade Classics - Seawolf II and Gun Fight (1983)(Epyx)(US)">
+		<description>Arcade Classics - Seawolf II and Gun Fight (1983)(Epyx)(US)</description>
+		<rom name="Arcade Classics - Seawolf II and Gun Fight (1983)(Epyx)(US).atx" size="87840" crc="43c79ce3" md5="646808be2651805244362672116d5ed4" sha1="234fb5ebef3e0ce951872c7cf2e54a0fab1e6efd"/>
+	</game>
+	<game name="Atari Smash Hits - Volume 1 (1985)(English Software)(GB)">
+		<description>Atari Smash Hits - Volume 1 (1985)(English Software)(GB)</description>
+		<rom name="Atari Smash Hits - Volume 1 (1985)(English Software)(GB).atx" size="100256" crc="86f80949" md5="315535e617deea0c2c4c3aa21c3d3416" sha1="95c4fe04017754b83916a855ad186eeadcf9f0e3"/>
+	</game>
+	<game name="Deluxe Space Games (1982)(Alpha Systems)(US)">
+		<description>Deluxe Space Games (1982)(Alpha Systems)(US)</description>
+		<rom name="Deluxe Space Games (1982)(Alpha Systems)(US).atx" size="97808" crc="fbf1d67c" md5="49ce63c74c8ce21407aeb3917e058010" sha1="8eb499b35e86a66284870b992666eccfbd795c0d"/>
+	</game>
+	<game name="Temple of Apshai Trilogy (1985)(Epyx)(US)">
+		<description>Temple of Apshai Trilogy (1985)(Epyx)(US)</description>
+		<rom name="Temple of Apshai Trilogy (1985)(Epyx)(US).atx" size="100616" crc="97bc6b20" md5="a8353de1ed48553181f4dfe5c6dac29e" sha1="e1f9fb45e63ef4e72a9c6cb156d22164813a1d57"/>
+	</game>
+</datafile>

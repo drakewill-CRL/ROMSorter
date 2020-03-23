@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>MITS Altair 8800 - Boot Loader</name>
+		<description>MITS Altair 8800 - Boot Loader (TOSEC-v2014-04-11)</description>
+		<category>TOSEC</category>
+		<version>2014-04-11</version>
+		<author>TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="4k Basic Cassette Loader (19xx)(MITS)">
+		<description>4k Basic Cassette Loader (19xx)(MITS)</description>
+		<rom name="4k Basic Cassette Loader (19xx)(MITS).hex" size="115" crc="952e7fef" md5="9f8feccf052fb24c57354b8a3068f48d" sha1="8da6d9de3b7040e66fea87e881face5c8f952127"/>
+	</game>
+	<game name="4k Basic Papertape Loader (19xx)(MITS)">
+		<description>4k Basic Papertape Loader (19xx)(MITS)</description>
+		<rom name="4k Basic Papertape Loader (19xx)(MITS).hex" size="66" crc="4b3a6944" md5="9bfa445eeb36c813d909bf602f0ae526" sha1="69e6c4c6f864e28e2e00f37da1f5d02d98a0f39f"/>
+	</game>
+	<game name="8k Basic Cassette Loader (19xx)(MITS)">
+		<description>8k Basic Cassette Loader (19xx)(MITS)</description>
+		<rom name="8k Basic Cassette Loader (19xx)(MITS).hex" size="115" crc="eb580def" md5="44e7f9b0601850b14df1c479eb1e0026" sha1="6e6da770fa794602b19ccb084840d3b574a82a6f"/>
+	</game>
+	<game name="8k Basic Papertape Loader (19xx)(MITS)">
+		<description>8k Basic Papertape Loader (19xx)(MITS)</description>
+		<rom name="8k Basic Papertape Loader (19xx)(MITS).hex" size="66" crc="10910cab" md5="07a632ada9a2019419f889e6f67c446a" sha1="576c562012c693bd419be54374460fa9b0e4bea1"/>
+	</game>
+</datafile>

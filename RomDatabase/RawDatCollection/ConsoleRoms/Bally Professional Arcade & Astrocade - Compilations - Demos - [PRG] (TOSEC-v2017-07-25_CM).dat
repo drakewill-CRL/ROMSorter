@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Bally Professional Arcade &amp; Astrocade - Compilations - Demos - [PRG]</name>
+		<description>Bally Professional Arcade &amp; Astrocade - Compilations - Demos - [PRG] (TOSEC-v2017-07-25)</description>
+		<category>TOSEC</category>
+		<version>2017-07-25</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Video Art I (1979)(Stocker, David)[300 baud]">
+		<description>Video Art I (1979)(Stocker, David)[300 baud]</description>
+		<rom name="Video Art I (1979)(Stocker, David)[300 baud].prg" size="2204" crc="8f60e17c" md5="158f62e13d51327dc8ce6dfe00984205" sha1="b90a7441d0e621725450fe22d8a721792753f441"/>
+	</game>
+	<game name="Video Art II (1979)(Stocker, David)[300 baud]">
+		<description>Video Art II (1979)(Stocker, David)[300 baud]</description>
+		<rom name="Video Art II (1979)(Stocker, David)[300 baud].prg" size="2215" crc="a1521a6e" md5="b94c5eb8ec4d561026acac38a104b03e" sha1="2f91a51512bdaa363b1d21d87c5170c57cb9432b"/>
+	</game>
+</datafile>

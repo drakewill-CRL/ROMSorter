@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple III - Applications</name>
+		<description>Apple III - Applications (TOSEC-v2012-08-27)</description>
+		<category>TOSEC</category>
+		<version>2012-08-27</version>
+		<author>TKaos - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="512K Memory Test v2.1 (198x)(-)">
+		<description>512K Memory Test v2.1 (198x)(-)</description>
+		<rom name="512K Memory Test v2.1 (198x)(-).dsk" size="143360" crc="40a69a50" md5="55fbf82422f34485bafc8ecc9b036c67" sha1="e8174fd28598ba1776d03a6e358ca50b58f61865"/>
+	</game>
+	<game name="Apple 3 Apple 2 Emulation Disk (19xx)(Apple)">
+		<description>Apple 3 Apple 2 Emulation Disk (19xx)(Apple)</description>
+		<rom name="Apple 3 Apple 2 Emulation Disk (19xx)(Apple).dsk" size="143360" crc="ff4f68d3" md5="d6b9cc1d787e3f9d627a0dee4ac3817e" sha1="7d3495d6795b85776cbc22a90dd3d41801ee58dc"/>
+	</game>
+	<game name="Apple Business BASIC v1.1 (1981)(Apple Computer)">
+		<description>Apple Business BASIC v1.1 (1981)(Apple Computer)</description>
+		<rom name="Apple Business BASIC v1.1 (1981)(Apple Computer).dsk" size="143360" crc="e826032e" md5="6960e8c0b17333083d1d835b3dc1627c" sha1="3a88a3bf8bb1e6948010203ea7e64ce557031184"/>
+	</game>
+	<game name="Apple III Confidence Program v1.1 (1981)(Apple Computer)">
+		<description>Apple III Confidence Program v1.1 (1981)(Apple Computer)</description>
+		<rom name="Apple III Confidence Program v1.1 (1981)(Apple Computer).dsk" size="143360" crc="cbf10a5a" md5="990aad6ffc6d6f290164d78371c6ad97" sha1="8be26f2ec7f0b8425dc4f0c44a48dcda105f8c9a"/>
+	</game>
+	<game name="Apple III Pascal v1.1 (1983-04)(Apple Computer)(Disk 1 of 3)">
+		<description>Apple III Pascal v1.1 (1983-04)(Apple Computer)(Disk 1 of 3)</description>
+		<rom name="Apple III Pascal v1.1 (1983-04)(Apple Computer)(Disk 1 of 3).dsk" size="143360" crc="82a2a887" md5="6ceb471da35b1b3077cf3f5357806435" sha1="1d7f3bba9646c010462b18246649a029aad9b425"/>
+	</game>
+	<game name="Apple III Pascal v1.1 (1983-04)(Apple Computer)(Disk 2 of 3)">
+		<description>Apple III Pascal v1.1 (1983-04)(Apple Computer)(Disk 2 of 3)</description>
+		<rom name="Apple III Pascal v1.1 (1983-04)(Apple Computer)(Disk 2 of 3).dsk" size="143360" crc="cda241a2" md5="3a1d731ed420ef20b53c4d6b2c87f990" sha1="df08271d6a5086c92172db9cd1bcffd4c6690edd"/>
+	</game>
+	<game name="Apple III Pascal v1.1 (1983-04)(Apple Computer)(Disk 3 of 3)">
+		<description>Apple III Pascal v1.1 (1983-04)(Apple Computer)(Disk 3 of 3)</description>
+		<rom name="Apple III Pascal v1.1 (1983-04)(Apple Computer)(Disk 3 of 3).dsk" size="143360" crc="2f9e2245" md5="87ef5376f2d81c0bc64533c05da4fadf" sha1="8714321f70cb2c34b32f475b80d175f9c6bdd5da"/>
+	</game>
+	<game name="Apple III Software Revision Utility vA01 (1983-02-01)(Apple Computer)">
+		<description>Apple III Software Revision Utility vA01 (1983-02-01)(Apple Computer)</description>
+		<rom name="Apple III Software Revision Utility vA01 (1983-02-01)(Apple Computer).dsk" size="143360" crc="aaafe293" md5="3581ec07e75eb38d336c9d7386310542" sha1="31e617dcc0a6d6797dd955cbf65fce7fa2ef28db"/>
+	</game>
+	<game name="Easy Pieces v1.0 (1984)(Haba Systems)(Disk 1 of 2)">
+		<description>Easy Pieces v1.0 (1984)(Haba Systems)(Disk 1 of 2)</description>
+		<rom name="Easy Pieces v1.0 (1984)(Haba Systems)(Disk 1 of 2).dsk" size="143360" crc="ff98cb24" md5="fd303d6ab431811f9e5756740b5fc37c" sha1="d7f099abf9718161cee046753ae60021f80d432f"/>
+	</game>
+	<game name="Easy Pieces v1.0 (1984)(Haba Systems)(Disk 2 of 2)">
+		<description>Easy Pieces v1.0 (1984)(Haba Systems)(Disk 2 of 2)</description>
+		<rom name="Easy Pieces v1.0 (1984)(Haba Systems)(Disk 2 of 2).dsk" size="143360" crc="1ff5c4be" md5="4620088391a7d87fe0c8f93944deb899" sha1="0f3188ec2a447cf4154a76ab7a749719987b23f9"/>
+	</game>
+	<game name="Titan III Plus IIe Startup Disk (1985)(Titan Technologies)">
+		<description>Titan III Plus IIe Startup Disk (1985)(Titan Technologies)</description>
+		<rom name="Titan III Plus IIe Startup Disk (1985)(Titan Technologies).dsk" size="143360" crc="b6f3d59b" md5="64c545fb41662e3572bee2e3d63024bb" sha1="d354c4678a08a2da426271c25299255aa0699509"/>
+	</game>
+</datafile>

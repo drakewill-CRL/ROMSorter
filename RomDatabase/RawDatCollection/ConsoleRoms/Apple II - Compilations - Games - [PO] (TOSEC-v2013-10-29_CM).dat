@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple II - Compilations - Games - [PO]</name>
+		<description>Apple II - Compilations - Games - [PO] (TOSEC-v2013-10-29)</description>
+		<category>TOSEC</category>
+		<version>2013-10-29</version>
+		<author>TKaos - Cassiel - jjs</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="ZZZ-UNK-games10">
+		<description>ZZZ-UNK-games10</description>
+		<rom name="ZZZ-UNK-games10.po" size="143360" crc="a76aae75" md5="bfdd261d23841db1e314a7ddeff2741d" sha1="081e06ed843aa7ffa0bc2102d0acf95d0a04176a"/>
+	</game>
+	<game name="ZZZ-UNK-games11">
+		<description>ZZZ-UNK-games11</description>
+		<rom name="ZZZ-UNK-games11.po" size="143360" crc="f524b917" md5="435d163cebb169df0f86fa57e82dfcdf" sha1="c60cb405c4e5f8d912db07a265996b82edfdeb9c"/>
+	</game>
+	<game name="ZZZ-UNK-games4">
+		<description>ZZZ-UNK-games4</description>
+		<rom name="ZZZ-UNK-games4.po" size="143360" crc="fc71415d" md5="58b13c1539498c4b291e64d8543acf4d" sha1="304f93fc58a7d328a4df0be93717a6dc66fd3542"/>
+	</game>
+	<game name="ZZZ-UNK-games8">
+		<description>ZZZ-UNK-games8</description>
+		<rom name="ZZZ-UNK-games8.po" size="143360" crc="4e2a9e0d" md5="75d51fdd7f83f8be054be69e7b5a8ca8" sha1="f2c0672efeadb8b785c98ea07863cf09d08ca3f9"/>
+	</game>
+	<game name="ZZZ-UNK-games9">
+		<description>ZZZ-UNK-games9</description>
+		<rom name="ZZZ-UNK-games9.po" size="143360" crc="dfa931fb" md5="27f78ece8ef0ccce4f88727ad8a1990e" sha1="18b2bb4b4bd06130bcbbbfa0dc01348a35df1f3b"/>
+	</game>
+	<game name="ZZZ-UNK-Jeux (19xx)(-)">
+		<description>ZZZ-UNK-Jeux (19xx)(-)</description>
+		<rom name="ZZZ-UNK-Jeux (19xx)(-).po" size="143360" crc="f1e17365" md5="9f4592ec375715daf2ae362ce9998ec3" sha1="9bb31133717a236c14bb286efecfd8ad04ecb725"/>
+	</game>
+	<game name="ZZZ-UNK-Main Hall &amp; Beginners Cave (-)">
+		<description>ZZZ-UNK-Main Hall &amp; Beginners Cave (-)</description>
+		<rom name="ZZZ-UNK-Main Hall &amp; Beginners Cave (-).po" size="143360" crc="f9fd2b95" md5="017500aba03e2145275fba9dcb24e554" sha1="d8d30398a32b5046b1e568a030be64e0d5b401e2"/>
+	</game>
+</datafile>

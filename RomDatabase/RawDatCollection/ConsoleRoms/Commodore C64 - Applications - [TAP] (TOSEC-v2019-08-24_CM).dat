@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Applications - [TAP]</name>
+		<description>Commodore C64 - Applications - [TAP] (TOSEC-v2019-08-24)</description>
+		<category>TOSEC</category>
+		<version>2019-08-24</version>
+		<author>Duncan Twain - DesertWolf - Apache</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="3D Construction Kit (1991)(Domark)[Condition Editor]">
+		<description>3D Construction Kit (1991)(Domark)[Condition Editor]</description>
+		<rom name="3D Construction Kit (1991)(Domark)[Condition Editor].tap" size="436340" crc="81e7abc3" md5="3841432571e7dd7709dbecfd7b5cc38b" sha1="f8d4fcb96d555aa4e091593f47a322ca983836a1"/>
+	</game>
+	<game name="3D Construction Kit (1991)(Domark)[Data]">
+		<description>3D Construction Kit (1991)(Domark)[Data]</description>
+		<rom name="3D Construction Kit (1991)(Domark)[Data].tap" size="1150546" crc="761e7ce3" md5="b77fba9a7cbadf203a92ec8208673613" sha1="ca21723a8d6ae8521143a5b1782468389414f4b7"/>
+	</game>
+	<game name="3D Construction Kit (1991)(Domark)[Environment Editor]">
+		<description>3D Construction Kit (1991)(Domark)[Environment Editor]</description>
+		<rom name="3D Construction Kit (1991)(Domark)[Environment Editor].tap" size="436340" crc="ff100d45" md5="10072d0a63806195aca13ec0093277d1" sha1="a4d9bebdf25c9f7fe758f58f29e0a890615b555e"/>
+	</game>
+	<game name="3D Construction Kit (1991)(Domark)[Freescape Compiler]">
+		<description>3D Construction Kit (1991)(Domark)[Freescape Compiler]</description>
+		<rom name="3D Construction Kit (1991)(Domark)[Freescape Compiler].tap" size="387188" crc="1b688a23" md5="9686fa659c91f10b6865f92ce6e7cdce" sha1="aa7960063e9db4b97a9312a0c16439c237c7f63d"/>
+	</game>
+	<game name="Azimuth 3000 (1984)(Interceptor)">
+		<description>Azimuth 3000 (1984)(Interceptor)</description>
+		<rom name="Azimuth 3000 (1984)(Interceptor).tap" size="588179" crc="5a9013c4" md5="5d641f68099597ee7574c9256187d32f" sha1="b4f2fd3fa284ac9b1f64cd72ab8ef4807893c29a"/>
+	</game>
+	<game name="C128 Emulator (2005)(Bayliss, Richard)">
+		<description>C128 Emulator (2005)(Bayliss, Richard)</description>
+		<rom name="C128 Emulator (2005)(Bayliss, Richard).tap" size="118728" crc="6d5b8cfa" md5="374356a2db1794d7b3d4bcefe4fe4bd4" sha1="39283b22aa1cd2abb692f68a39803eabe9cb9966"/>
+	</game>
+	<game name="C64 Music Editor V1.0 (1992)(-)">
+		<description>C64 Music Editor V1.0 (1992)(-)</description>
+		<rom name="C64 Music Editor V1.0 (1992)(-).tap" size="150592" crc="42b4d55c" md5="8f92b77ee3394d0e5900811c44811e9c" sha1="5b46e7fb15a96507ac283042f7bea97440f4d004"/>
+	</game>
+	<game name="Commodore Sound Sampler (19xx)(Commodore)">
+		<description>Commodore Sound Sampler (19xx)(Commodore)</description>
+		<rom name="Commodore Sound Sampler (19xx)(Commodore).tap" size="1393067" crc="d28e195e" md5="94af1fd5fbee14e5a360be2b36a7eb5d" sha1="1da69917d358822fc9217e204c7a41214e0962bc"/>
+	</game>
+	<game name="DataBasis 2.0 (1984)(Radarsoft)(nl)">
+		<description>DataBasis 2.0 (1984)(Radarsoft)(nl)</description>
+		<rom name="DataBasis 2.0 (1984)(Radarsoft)(nl).tap" size="312750" crc="de22e118" md5="5382222a8da1601ae1e2f2cdebb2fb33" sha1="21511833e93aa44f71c30d49ab58e03c05bff434"/>
+	</game>
+	<game name="Designer&apos;s Pencil, The (1984)(Activision)">
+		<description>Designer&apos;s Pencil, The (1984)(Activision)</description>
+		<rom name="Designer&apos;s Pencil, The (1984)(Activision).tap" size="990584" crc="57982e04" md5="0f785d77223f4450230cc727ad5c6b28" sha1="bf3f389d277318033038ae0ae15ec3dab600f276"/>
+	</game>
+	<game name="Designer&apos;s Pencil, The (1984)(Activision)[a]">
+		<description>Designer&apos;s Pencil, The (1984)(Activision)[a]</description>
+		<rom name="Designer&apos;s Pencil, The (1984)(Activision)[a].tap" size="990584" crc="6b90dee6" md5="9537957aef88f28eb7d893fd33658a5d" sha1="922664aa331a10660ab54711272d0337713a0e2d"/>
+	</game>
+	<game name="Doubler (1985)(Walltone Software)">
+		<description>Doubler (1985)(Walltone Software)</description>
+		<rom name="Doubler (1985)(Walltone Software).tap" size="165102" crc="526ff5a1" md5="af83c0c4159b7e81995493ef9a459796" sha1="c405495e7d8f9d889af6428cc66a665d8b5d3d14"/>
+	</game>
+	<game name="Frost (19xx)(Commodore Format)">
+		<description>Frost (19xx)(Commodore Format)</description>
+		<rom name="Frost (19xx)(Commodore Format).tap" size="243254" crc="d5fff74f" md5="a43d2c02cde1623ebc97b409863fbf1b" sha1="d0eb6ffc9c6979a8a9dc5db1732b9fa6c3f63501"/>
+	</game>
+	<game name="Graphic Editor (19xx)(Firebird)">
+		<description>Graphic Editor (19xx)(Firebird)</description>
+		<rom name="Graphic Editor (19xx)(Firebird).tap" size="487129" crc="524249dd" md5="fb5c2741caaf02bb0fbc83d2e4ad4b13" sha1="205140360d813e85455c1ee7cee9b18caf64e15e"/>
+	</game>
+	<game name="Graphic Editor (19xx)(Firebird)[a]">
+		<description>Graphic Editor (19xx)(Firebird)[a]</description>
+		<rom name="Graphic Editor (19xx)(Firebird)[a].tap" size="487126" crc="c3855ff9" md5="ec18d3cd9f89a5d214877aed7cec7b61" sha1="2bd6b49ceeb36d2452358e0af164ecc69d4c88c9"/>
+	</game>
+	<game name="Graphics Editor (1983)(Rabbit Software)">
+		<description>Graphics Editor (1983)(Rabbit Software)</description>
+		<rom name="Graphics Editor (1983)(Rabbit Software).tap" size="535583" crc="dea8f04a" md5="ca83315a8aa7b59990e1bbfed3183d75" sha1="c28b957675d0f6e9b0b80e6a9d28747e42a08344"/>
+	</game>
+	<game name="Horoscoop (1985)(MCN)(Side A)">
+		<description>Horoscoop (1985)(MCN)(Side A)</description>
+		<rom name="Horoscoop (1985)(MCN)(Side A).tap" size="322848" crc="1e801dbd" md5="86465305648c45171ecad3af246a5b34" sha1="0dd725e271b714d527b245c122d0a4e230e244cc"/>
+	</game>
+	<game name="Horoscoop (1985)(MCN)(Side B)">
+		<description>Horoscoop (1985)(MCN)(Side B)</description>
+		<rom name="Horoscoop (1985)(MCN)(Side B).tap" size="326976" crc="a2935217" md5="99b90198627b01d17a432dd57703d7e3" sha1="e53681d70f868366c1563913cdf07f423ec337f6"/>
+	</game>
+	<game name="Hulppro2 (1984)(Majestic)">
+		<description>Hulppro2 (1984)(Majestic)</description>
+		<rom name="Hulppro2 (1984)(Majestic).tap" size="814076" crc="25d50d9a" md5="7ffd821ab37d6882f094f87f93cf956e" sha1="2476ce5346fee368ea77060429ed2cc0e6db0f58"/>
+	</game>
+	<game name="Hulppro2 (1984)(Majestic)[!]">
+		<description>Hulppro2 (1984)(Majestic)[!]</description>
+		<rom name="Hulppro2 (1984)(Majestic)[!].tap" size="813500" crc="6a5fb9a0" md5="ad1dacdb05fba5b3382736d566986f09" sha1="73cd29d41af081dd0157e2fe4084572aa40205f0"/>
+	</game>
+	<game name="Image System, The (1986)(CRL)">
+		<description>Image System, The (1986)(CRL)</description>
+		<rom name="Image System, The (1986)(CRL).tap" size="511506" crc="a897db3d" md5="1b61594621653d7a1b88d7837084034f" sha1="ded4ff68d723851d135e01fe3b2866c2a9c76ac1"/>
+	</game>
+	<game name="Image System, The (1986)(CRL)[a]">
+		<description>Image System, The (1986)(CRL)[a]</description>
+		<rom name="Image System, The (1986)(CRL)[a].tap" size="511440" crc="4416ac68" md5="50e9b910f6c56c32434992509117e8c3" sha1="c007d29bd0432987e7a95d8c7be4a88bb5f67089"/>
+	</game>
+	<game name="Image System, The (1986)(CRL)[a2]">
+		<description>Image System, The (1986)(CRL)[a2]</description>
+		<rom name="Image System, The (1986)(CRL)[a2].tap" size="511364" crc="b5f941a2" md5="2a72c6c66264a697a2f0192ea093877b" sha1="c566e5d07252543b3f7160855a9de8872f0a8b96"/>
+	</game>
+	<game name="Junior Maths (1983)(Commodore)(Side A)">
+		<description>Junior Maths (1983)(Commodore)(Side A)</description>
+		<rom name="Junior Maths (1983)(Commodore)(Side A).tap" size="710492" crc="08b56f5d" md5="830c0430dd05afb5342ba68de96594e4" sha1="2b9f31367e306383b452dc1998f30a88bc208d18"/>
+	</game>
+	<game name="Junior Maths (1983)(Commodore)(Side B)">
+		<description>Junior Maths (1983)(Commodore)(Side B)</description>
+		<rom name="Junior Maths (1983)(Commodore)(Side B).tap" size="720967" crc="fd70a2fe" md5="fc027a94477894be94063c1a3b38a3d0" sha1="4aaec1116de73e393f7506111a9e09d384120c14"/>
+	</game>
+	<game name="Kaartenbak (1985)(Koninklijke PBNA)">
+		<description>Kaartenbak (1985)(Koninklijke PBNA)</description>
+		<rom name="Kaartenbak (1985)(Koninklijke PBNA).tap" size="355943" crc="712cc7ac" md5="9d089f00f3dfa5b10f41469dc1abb2dd" sha1="ac0eee8875045b690d1a28fd1b27c089cf3b325a"/>
+	</game>
+	<game name="Kawasaki Synthesizer Performer (1984)(Kawasaki, Ryo)">
+		<description>Kawasaki Synthesizer Performer (1984)(Kawasaki, Ryo)</description>
+		<rom name="Kawasaki Synthesizer Performer (1984)(Kawasaki, Ryo).tap" size="1618744" crc="d7e34067" md5="06c9ef2398e1065e5a48fb9945280872" sha1="0953f862b3560df28be196a92b39b394cdf94c23"/>
+	</game>
+	<game name="Kawasaki Synthesizer Performer (1984)(Kawasaki, Ryo)[a]">
+		<description>Kawasaki Synthesizer Performer (1984)(Kawasaki, Ryo)[a]</description>
+		<rom name="Kawasaki Synthesizer Performer (1984)(Kawasaki, Ryo)[a].tap" size="1597739" crc="cb3dd8c7" md5="9d4df45f848234b2713036971ff96425" sha1="60ee9ea4a62ed4bdc8077e858b81141f31377e76"/>
+	</game>
+	<game name="Kikstart II - The Construction Set (1987)(Mastertronic)">
+		<description>Kikstart II - The Construction Set (1987)(Mastertronic)</description>
+		<rom name="Kikstart II - The Construction Set (1987)(Mastertronic).tap" size="723650" crc="f1c74c20" md5="78fc2d9c7a5caca75d9f40a172054262" sha1="0843ff878b44fe36631981b020946fc9588fb55e"/>
+	</game>
+	<game name="Kikstart II - The Construction Set (1987)(Mastertronic)[a]">
+		<description>Kikstart II - The Construction Set (1987)(Mastertronic)[a]</description>
+		<rom name="Kikstart II - The Construction Set (1987)(Mastertronic)[a].tap" size="759403" crc="04e6d835" md5="eb32ebf6818e22f23696def0352e4f6e" sha1="edd28436d078e4afc1ff33f3281ce774b7ddcca2"/>
+	</game>
+	<game name="Kikstart II - The Construction Set (1987)(Mastertronic)[a2]">
+		<description>Kikstart II - The Construction Set (1987)(Mastertronic)[a2]</description>
+		<rom name="Kikstart II - The Construction Set (1987)(Mastertronic)[a2].tap" size="718820" crc="9112c43e" md5="35d1ee63599c11f916a55b53b4e4fd77" sha1="fccf09140e1688bd2836902df654f6d9037f0d2b"/>
+	</game>
+	<game name="Kikstart II - The Construction Set (1987)(Mastertronic)[a3]">
+		<description>Kikstart II - The Construction Set (1987)(Mastertronic)[a3]</description>
+		<rom name="Kikstart II - The Construction Set (1987)(Mastertronic)[a3].tap" size="718820" crc="a6348dbd" md5="dad6e5f9d0568c41e68744a9beb0bcdd" sha1="fab8356bdebf85a147217d95ebc69e905bc14fca"/>
+	</game>
+	<game name="Kikstart II - The Construction Set (1987)(Mastertronic)[a4]">
+		<description>Kikstart II - The Construction Set (1987)(Mastertronic)[a4]</description>
+		<rom name="Kikstart II - The Construction Set (1987)(Mastertronic)[a4].tap" size="718812" crc="c934881f" md5="ce29743a4aff31c1bb87b0c689f0515a" sha1="58fda1a68b4e86a78e34cda1819fa118bccdb8fa"/>
+	</game>
+	<game name="Kikstart II - The Construction Set (1987)(Mastertronic)[a5]">
+		<description>Kikstart II - The Construction Set (1987)(Mastertronic)[a5]</description>
+		<rom name="Kikstart II - The Construction Set (1987)(Mastertronic)[a5].tap" size="759395" crc="837a7b97" md5="6b88c33c5d896d97a5c8f1f7d9dbb78e" sha1="c834743d93acf777ba45c5af902203c8802b78cc"/>
+	</game>
+	<game name="Kikstart II - The Construction Set (1987)(Mastertronic)[a6]">
+		<description>Kikstart II - The Construction Set (1987)(Mastertronic)[a6]</description>
+		<rom name="Kikstart II - The Construction Set (1987)(Mastertronic)[a6].tap" size="720820" crc="88a566d8" md5="07878fb18a7f69a51c0670181c7ee377" sha1="945cb05c850556d319bec2756921e5667c73bd6f"/>
+	</game>
+	<game name="Kikstart II - The Construction Set (1987)(Mastertronic)[a7]">
+		<description>Kikstart II - The Construction Set (1987)(Mastertronic)[a7]</description>
+		<rom name="Kikstart II - The Construction Set (1987)(Mastertronic)[a7].tap" size="718821" crc="088ac4ef" md5="39d0ebf847770cffc587e44731ae2e24" sha1="686239171f0770bba83fdc50e52d811ca923c9c6"/>
+	</game>
+	<game name="Kikstart II - The Construction Set (1987)(Mastertronic)[o]">
+		<description>Kikstart II - The Construction Set (1987)(Mastertronic)[o]</description>
+		<rom name="Kikstart II - The Construction Set (1987)(Mastertronic)[o].tap" size="720155" crc="3a361d88" md5="75364df8218b6dfce58e239c76c30cc6" sha1="534699bc711ba8000130ab28342a9e5f5abed2d3"/>
+	</game>
+	<game name="Kikstart II - The Construction Set (1987)(Mastertronic)[o][a]">
+		<description>Kikstart II - The Construction Set (1987)(Mastertronic)[o][a]</description>
+		<rom name="Kikstart II - The Construction Set (1987)(Mastertronic)[o][a].tap" size="759701" crc="f3b85e6d" md5="a482ae42052e119d795bdbf3e9152c4e" sha1="6717086f700ce1bddb1be604889d7a7dba6689e5"/>
+	</game>
+	<game name="Kikstart II - The Construction Set (1987)(Mastertronic)[o][a2]">
+		<description>Kikstart II - The Construction Set (1987)(Mastertronic)[o][a2]</description>
+		<rom name="Kikstart II - The Construction Set (1987)(Mastertronic)[o][a2].tap" size="761753" crc="c6f41cde" md5="80cd02d254e031e375ad30c2c5c7fe18" sha1="68fa848b37fca97342333c9ee04ead183f7e3764"/>
+	</game>
+	<game name="Kikstart II - The Construction Set (1987)(Mastertronic)[u]">
+		<description>Kikstart II - The Construction Set (1987)(Mastertronic)[u]</description>
+		<rom name="Kikstart II - The Construction Set (1987)(Mastertronic)[u].tap" size="65536" crc="6c5bd84b" md5="2df5074bfa71f4f7576db250b09e44ce" sha1="a7cbd7c29d8f58dcd2a5f1f04345e461cc254f37"/>
+	</game>
+	<game name="Kikstart II - The Construction Set (1987)(Mastertronic)[u][a]">
+		<description>Kikstart II - The Construction Set (1987)(Mastertronic)[u][a]</description>
+		<rom name="Kikstart II - The Construction Set (1987)(Mastertronic)[u][a].tap" size="65536" crc="4c4a4193" md5="177d3f59af9a814c6f1a3883d91235d0" sha1="a2ead9ee0b8e5215e9c8cbcfab3337c51182565b"/>
+	</game>
+	<game name="Light Pen (19xx)(Trojan Products)">
+		<description>Light Pen (19xx)(Trojan Products)</description>
+		<rom name="Light Pen (19xx)(Trojan Products).tap" size="358842" crc="9d80c63a" md5="ce4763085c7518b60ef550c23018fe30" sha1="994625c646ba0aff1ccc9b514df2570326103575"/>
+	</game>
+	<game name="Make Music with Mistertronic (19xx)(Mastertronic)(Side 1)">
+		<description>Make Music with Mistertronic (19xx)(Mastertronic)(Side 1)</description>
+		<rom name="Make Music with Mistertronic (19xx)(Mastertronic)(Side 1).tap" size="224328" crc="d037a4fc" md5="d76fec6bc53e2eef2244360a1bec445d" sha1="44446feed8cb2d29f7bcfb62d649e1b8f66e5e3a"/>
+	</game>
+	<game name="Make Music with Mistertronic (19xx)(Mastertronic)(Side 2)">
+		<description>Make Music with Mistertronic (19xx)(Mastertronic)(Side 2)</description>
+		<rom name="Make Music with Mistertronic (19xx)(Mastertronic)(Side 2).tap" size="154701" crc="c9a2c103" md5="08eb14375d6e338fc91bfdf9eb43b43a" sha1="af2e99625ec267e25dff9a7bce4c6cd352e8c6ff"/>
+	</game>
+	<game name="Micro Rhythm - Microdisco (1986)(Pick, Simon)">
+		<description>Micro Rhythm - Microdisco (1986)(Pick, Simon)</description>
+		<rom name="Micro Rhythm - Microdisco (1986)(Pick, Simon).tap" size="364426" crc="ab9ab002" md5="db7cb4012f4388f2800f67ba72f26ced" sha1="b80364fbd01b6081eaac00638beb32cb9f732b4c"/>
+	</game>
+	<game name="Micro Rhythm - Microlatin (1986)(Pick, Simon)">
+		<description>Micro Rhythm - Microlatin (1986)(Pick, Simon)</description>
+		<rom name="Micro Rhythm - Microlatin (1986)(Pick, Simon).tap" size="364426" crc="cbff8bfe" md5="3364623a4c5128b3712e4eea0a638d51" sha1="df9c6b72e461eb272b84d66d0d00a57c4d710cf4"/>
+	</game>
+	<game name="Micro Rhythm - Microtuned (1986)(Pick, Simon)">
+		<description>Micro Rhythm - Microtuned (1986)(Pick, Simon)</description>
+		<rom name="Micro Rhythm - Microtuned (1986)(Pick, Simon).tap" size="364426" crc="e6daf260" md5="82bc86b441e196ac3a26ec00a314059d" sha1="0d464c074f3559d149365158bba4c2ae0c4bae44"/>
+	</game>
+	<game name="Micro Rhythm - Microvocals (1986)(Pick, Simon)">
+		<description>Micro Rhythm - Microvocals (1986)(Pick, Simon)</description>
+		<rom name="Micro Rhythm - Microvocals (1986)(Pick, Simon).tap" size="364426" crc="63626ee6" md5="98b84bea3849267b25bd31b3209b8a95" sha1="5dfe437b7d61df73cade9737ef2440b099c60f8a"/>
+	</game>
+	<game name="Micro Rhythm (1986)(Firebird)">
+		<description>Micro Rhythm (1986)(Firebird)</description>
+		<rom name="Micro Rhythm (1986)(Firebird).tap" size="614726" crc="bf4ab66b" md5="2cf10ad1676f7add3b2a2992f11573f9" sha1="41282600fc1413a3bebefa5ba615993eb75dedd4"/>
+	</game>
+	<game name="Micro Rhythm (1986)(Firebird)[a]">
+		<description>Micro Rhythm (1986)(Firebird)[a]</description>
+		<rom name="Micro Rhythm (1986)(Firebird)[a].tap" size="613605" crc="decbd02e" md5="ebc5649e15015112020a528dcec2b4c8" sha1="5a661a5d1c920724be1dd71b20ac0871c0f7cf55"/>
+	</game>
+	<game name="Micro Rhythm (1986)(Firebird)[a2]">
+		<description>Micro Rhythm (1986)(Firebird)[a2]</description>
+		<rom name="Micro Rhythm (1986)(Firebird)[a2].tap" size="613576" crc="8ecf2e2e" md5="4995ae3f9f6e8056fe4e56d930524d91" sha1="338708a7e0009ee87b3a38a5e5e0f12e09fbeade"/>
+	</game>
+	<game name="Micro Rhythm (1986)(Firebird)[a3]">
+		<description>Micro Rhythm (1986)(Firebird)[a3]</description>
+		<rom name="Micro Rhythm (1986)(Firebird)[a3].tap" size="616648" crc="52c0d2ae" md5="c6e4338d43157136ad2c12510123ebb9" sha1="2c6374a2f9147ec8f80167d961f398ed7b5f6d3e"/>
+	</game>
+	<game name="Micro Rhythm (1986)(Firebird)[a4]">
+		<description>Micro Rhythm (1986)(Firebird)[a4]</description>
+		<rom name="Micro Rhythm (1986)(Firebird)[a4].tap" size="614048" crc="0182437c" md5="db5634fc5f22f61711bbf3b067cc3371" sha1="f58afd5009d8ff8274c68b016900396715aa000e"/>
+	</game>
+	<game name="Micro Rhythm (1986)(Firebird)[u]">
+		<description>Micro Rhythm (1986)(Firebird)[u]</description>
+		<rom name="Micro Rhythm (1986)(Firebird)[u].tap" size="163840" crc="2ab07fb0" md5="752492d1a22bd159397272d46fc70515" sha1="12ce73ede1f6ac3ff7793a589fc592d171506b8f"/>
+	</game>
+	<game name="Micro Tuned (1986)(Firebird)">
+		<description>Micro Tuned (1986)(Firebird)</description>
+		<rom name="Micro Tuned (1986)(Firebird).tap" size="710299" crc="a683785c" md5="b25cbe716bb95b99ac087179bf799a41" sha1="b34854fa01fed7669250035a392727a8ec398f1b"/>
+	</game>
+	<game name="Micro Tuned (1986)(Firebird)[a]">
+		<description>Micro Tuned (1986)(Firebird)[a]</description>
+		<rom name="Micro Tuned (1986)(Firebird)[a].tap" size="720432" crc="108fe55e" md5="5281d92d1fdeef767122e42bcc7d7e85" sha1="b677728f566ec3800a315cd559ba450688083db8"/>
+	</game>
+	<game name="Micro Vocals (1986)(Firebird)">
+		<description>Micro Vocals (1986)(Firebird)</description>
+		<rom name="Micro Vocals (1986)(Firebird).tap" size="707876" crc="8f8216e4" md5="6c2bda876a814e938bcea39a8ea71a5f" sha1="0012007e4ef6f17c27ff9db098361b591d04e409"/>
+	</game>
+	<game name="Mini Office (1985)(Summit Software)">
+		<description>Mini Office (1985)(Summit Software)</description>
+		<rom name="Mini Office (1985)(Summit Software).tap" size="407150" crc="664fd43e" md5="1d27eb212575d504c38bcde1cfbe8c4f" sha1="5466365cfc857606937f29c4f97f74918cb3c24a"/>
+	</game>
+	<game name="Mini Office (1985)(Summit Software)[a]">
+		<description>Mini Office (1985)(Summit Software)[a]</description>
+		<rom name="Mini Office (1985)(Summit Software)[a].tap" size="407150" crc="44d7449d" md5="2b9417aaa957264792839476aa6264e2" sha1="b83c62143d65f01fa197fafdf92fe90578e01114"/>
+	</game>
+	<game name="Music Maker (1984)(Commodore)">
+		<description>Music Maker (1984)(Commodore)</description>
+		<rom name="Music Maker (1984)(Commodore).tap" size="293970" crc="d69225fc" md5="8db21a5832975a2b8cd96eb98d094b24" sha1="3e793ceae449f14d94931dd19076bc427cbee98f"/>
+	</game>
+	<game name="Music Maker (1984)(Commodore)[a]">
+		<description>Music Maker (1984)(Commodore)[a]</description>
+		<rom name="Music Maker (1984)(Commodore)[a].tap" size="904109" crc="3ea9d2ec" md5="ca3073ec34856c0186fa499e5e8f9d8d" sha1="914695d54322f754384c14033b0103e9e51aaf61"/>
+	</game>
+	<game name="Music Maker (1984)(Commodore)[a2]">
+		<description>Music Maker (1984)(Commodore)[a2]</description>
+		<rom name="Music Maker (1984)(Commodore)[a2].tap" size="904024" crc="61a57401" md5="070277c0dd35783efe3bbeb6211ce629" sha1="b29bb8f2e143bc2ecb031aaefc2ae69498f0276c"/>
+	</game>
+	<game name="Music Maker (1984)(Commodore)[a3]">
+		<description>Music Maker (1984)(Commodore)[a3]</description>
+		<rom name="Music Maker (1984)(Commodore)[a3].tap" size="293970" crc="231f5378" md5="622e0e89171922530b4c3da11f13e20c" sha1="4d1d4e3fe35a1350fe1aa8da8ee5f41fafe4caf5"/>
+	</game>
+	<game name="Music Maker (1984)(Commodore)[u]">
+		<description>Music Maker (1984)(Commodore)[u]</description>
+		<rom name="Music Maker (1984)(Commodore)[u].tap" size="32768" crc="04ed459e" md5="46a6062963cca6a74e393c371475793f" sha1="dee59387ecb94648d57959980686c419c27bf494"/>
+	</game>
+	<game name="Music Maker (1984)(Commodore)[u][a]">
+		<description>Music Maker (1984)(Commodore)[u][a]</description>
+		<rom name="Music Maker (1984)(Commodore)[u][a].tap" size="32768" crc="3373d251" md5="7ebe9b6f604429146f934f639b0c0713" sha1="81e339dbd1701ff40f77d83d78af79c3e28a10dc"/>
+	</game>
+	<game name="Music System, The (1985)(Firebird)">
+		<description>Music System, The (1985)(Firebird)</description>
+		<rom name="Music System, The (1985)(Firebird).tap" size="1059606" crc="390e2112" md5="3eb57659f3053f71291dc45e3f263944" sha1="b1b62ab1517a71ea881ebdaba57c5d3273b35b99"/>
+	</game>
+	<game name="OCP Art Studio, The (1987)(Rainbird)(Side 1)">
+		<description>OCP Art Studio, The (1987)(Rainbird)(Side 1)</description>
+		<rom name="OCP Art Studio, The (1987)(Rainbird)(Side 1).tap" size="556111" crc="981397ae" md5="a71f869e012f1456662744f49704033a" sha1="a67f069aeff23ac6a53f875f14fc0ae871bb5097"/>
+	</game>
+	<game name="OCP Art Studio, The (1987)(Rainbird)(Side 2)">
+		<description>OCP Art Studio, The (1987)(Rainbird)(Side 2)</description>
+		<rom name="OCP Art Studio, The (1987)(Rainbird)(Side 2).tap" size="1347228" crc="59cace3d" md5="2b54b76afd88de572f25a96248379c07" sha1="2b2ad0bce4730e1e52fc9041049fd186c8fc1d5f"/>
+	</game>
+	<game name="Quill, The - Adventure Writing System (1984)(Gilsoft)">
+		<description>Quill, The - Adventure Writing System (1984)(Gilsoft)</description>
+		<rom name="Quill, The - Adventure Writing System (1984)(Gilsoft).tap" size="1030441" crc="12e0dc4f" md5="c8fb012c5fdf004394a480cf9653297e" sha1="399e5858150278c778cd931235e6195cefd4cf94"/>
+	</game>
+	<game name="Rekenblad (1985)(Koninklijke PBNA)">
+		<description>Rekenblad (1985)(Koninklijke PBNA)</description>
+		<rom name="Rekenblad (1985)(Koninklijke PBNA).tap" size="355908" crc="4bf45e91" md5="f813fac12235ea101200a15c5d4d4c18" sha1="cb6993edb6a573e5f2033c234b64b7fb5f99a361"/>
+	</game>
+	<game name="SEUCK - Shoot &apos;em-Up Construction Kit (1988)(Palace)(Side A)">
+		<description>SEUCK - Shoot &apos;em-Up Construction Kit (1988)(Palace)(Side A)</description>
+		<rom name="SEUCK - Shoot &apos;em-Up Construction Kit (1988)(Palace)(Side A).tap" size="1013722" crc="4efaf201" md5="d873e425596ef898c94ed6bcc9a3fc55" sha1="35a9c7fdee0b38c6cada6b635767ad6662d530fe"/>
+	</game>
+	<game name="SEUCK - Shoot &apos;em-Up Construction Kit (1988)(Palace)(Side A)[a]">
+		<description>SEUCK - Shoot &apos;em-Up Construction Kit (1988)(Palace)(Side A)[a]</description>
+		<rom name="SEUCK - Shoot &apos;em-Up Construction Kit (1988)(Palace)(Side A)[a].tap" size="1013488" crc="c59b24ee" md5="1c9c730926f73c60fbe82190bf3cbf1c" sha1="c299878f75cdbf55eba7ff1df32e11d73bdf088d"/>
+	</game>
+	<game name="SEUCK - Shoot &apos;em-Up Construction Kit (1988)(Palace)(Side B)">
+		<description>SEUCK - Shoot &apos;em-Up Construction Kit (1988)(Palace)(Side B)</description>
+		<rom name="SEUCK - Shoot &apos;em-Up Construction Kit (1988)(Palace)(Side B).tap" size="1229420" crc="4687d41b" md5="ce87df2a8f406044bfd9e972d221fc7e" sha1="623108e21818e6b15e2bce285ac18088134c157c"/>
+	</game>
+	<game name="SEUCK - Shoot &apos;em-Up Construction Kit (1988)(Palace)(Side B)[a]">
+		<description>SEUCK - Shoot &apos;em-Up Construction Kit (1988)(Palace)(Side B)[a]</description>
+		<rom name="SEUCK - Shoot &apos;em-Up Construction Kit (1988)(Palace)(Side B)[a].tap" size="1229188" crc="878c33a6" md5="6d4b794c401ee7af90e9472179a18275" sha1="14885b42ce748563fa90b68f5289935731b101e9"/>
+	</game>
+	<game name="Shoot Em Up Construction Kit (1987)(Outlaw Productions)[b]">
+		<description>Shoot Em Up Construction Kit (1987)(Outlaw Productions)[b]</description>
+		<rom name="Shoot Em Up Construction Kit (1987)(Outlaw Productions)[b].tap" size="478785" crc="c8447114" md5="abf609846dbf271872cde0660093464a" sha1="bf37fc08fd7ed499157b5c4954952513c836c0ca"/>
+	</game>
+	<game name="Shoot &apos;Em-Up Construction Kit (1987)(Sensible Software)(Disk 1 of 6)">
+		<description>Shoot &apos;Em-Up Construction Kit (1987)(Sensible Software)(Disk 1 of 6)</description>
+		<rom name="Shoot &apos;Em-Up Construction Kit (1987)(Sensible Software)(Disk 1 of 6).tap" size="60879" crc="081388d1" md5="4c37b9fef9ab2d775b498dd6d55d71d3" sha1="b64dbcc5638e0abe4e5c67f2a1539c8a1688c27d"/>
+	</game>
+	<game name="Shoot &apos;Em-Up Construction Kit (1987)(Sensible Software)(Disk 2 of 6)">
+		<description>Shoot &apos;Em-Up Construction Kit (1987)(Sensible Software)(Disk 2 of 6)</description>
+		<rom name="Shoot &apos;Em-Up Construction Kit (1987)(Sensible Software)(Disk 2 of 6).tap" size="486225" crc="d761bf72" md5="41ec6b0fbc179a198258e40e22037d5b" sha1="a88bc328fb16186260d47b3bc71d1a9892b9a995"/>
+	</game>
+	<game name="Shoot &apos;Em-Up Construction Kit (1987)(Sensible Software)(Disk 3 of 6)">
+		<description>Shoot &apos;Em-Up Construction Kit (1987)(Sensible Software)(Disk 3 of 6)</description>
+		<rom name="Shoot &apos;Em-Up Construction Kit (1987)(Sensible Software)(Disk 3 of 6).tap" size="471338" crc="c16b29c2" md5="f5c139eb59bf6bb67861b0347734f456" sha1="992cafc6fc081f5178ec60a3cd2b853f302d2608"/>
+	</game>
+	<game name="Shoot &apos;Em-Up Construction Kit (1987)(Sensible Software)(Disk 4 of 6)">
+		<description>Shoot &apos;Em-Up Construction Kit (1987)(Sensible Software)(Disk 4 of 6)</description>
+		<rom name="Shoot &apos;Em-Up Construction Kit (1987)(Sensible Software)(Disk 4 of 6).tap" size="342074" crc="592cd8ed" md5="9c6b045f6672178284fd6422b086448e" sha1="1a5810363284286cb66e706cbc44341c89b4fc1d"/>
+	</game>
+	<game name="Shoot &apos;Em-Up Construction Kit (1987)(Sensible Software)(Disk 5 of 6)">
+		<description>Shoot &apos;Em-Up Construction Kit (1987)(Sensible Software)(Disk 5 of 6)</description>
+		<rom name="Shoot &apos;Em-Up Construction Kit (1987)(Sensible Software)(Disk 5 of 6).tap" size="450514" crc="73085144" md5="1174f7f99ec0e30e8bc0d80c7861a885" sha1="490ca6e6a6fc7165468a0108ad7c09c43a52d6bb"/>
+	</game>
+	<game name="Shoot &apos;Em-Up Construction Kit (1987)(Sensible Software)(Disk 6 of 6)">
+		<description>Shoot &apos;Em-Up Construction Kit (1987)(Sensible Software)(Disk 6 of 6)</description>
+		<rom name="Shoot &apos;Em-Up Construction Kit (1987)(Sensible Software)(Disk 6 of 6).tap" size="442688" crc="7b3b2082" md5="348f6a4b3a40eb86cd46ba94bced820b" sha1="6bfbc86c325985272881852c89e18122a2e75a02"/>
+	</game>
+	<game name="Shoot &apos;Em-Up Construction Kit (1988)(Palace)">
+		<description>Shoot &apos;Em-Up Construction Kit (1988)(Palace)</description>
+		<rom name="Shoot &apos;Em-Up Construction Kit (1988)(Palace).tap" size="478785" crc="3da431a1" md5="8d6ad35242b20c18efb94b312049fa94" sha1="f464f9bc48bcd36f64b1a3518de709cb4c922d14"/>
+	</game>
+	<game name="Tony Hart&apos;s Art Master (19xx)(Commodore)">
+		<description>Tony Hart&apos;s Art Master (19xx)(Commodore)</description>
+		<rom name="Tony Hart&apos;s Art Master (19xx)(Commodore).tap" size="854101" crc="d1f84a5f" md5="3eea46a31de138e911a8d3d331485dc3" sha1="41f75f9c0c050c218de24a07e18b78ef7b96af23"/>
+	</game>
+	<game name="Turbo Extended Basic (19xx)(Aztec Software)">
+		<description>Turbo Extended Basic (19xx)(Aztec Software)</description>
+		<rom name="Turbo Extended Basic (19xx)(Aztec Software).tap" size="253744" crc="dd194996" md5="e623c1a7eae29d63c1d0418b51cd2d16" sha1="e8cbf0266749652daa71df85be56c3ce2661ed8f"/>
+	</game>
+	<game name="Turbo Tape (19xx)(Supersoft)">
+		<description>Turbo Tape (19xx)(Supersoft)</description>
+		<rom name="Turbo Tape (19xx)(Supersoft).tap" size="75142" crc="0de2253e" md5="398815e366e12290adc6bcda3d950bfb" sha1="6eb82c2ac40781a495781a2a3e3926823a7cc3ed"/>
+	</game>
+	<game name="Turbo Tape (19xx)(Supersoft)[a]">
+		<description>Turbo Tape (19xx)(Supersoft)[a]</description>
+		<rom name="Turbo Tape (19xx)(Supersoft)[a].tap" size="75142" crc="a19187a7" md5="3e614ba77e191ddee983028f8e4ec31b" sha1="3f03ae9e50046bae3444fd473feaf414472ca6b2"/>
+	</game>
+	<game name="Ubik s Musik (19xx)(Firebird)">
+		<description>Ubik s Musik (19xx)(Firebird)</description>
+		<rom name="Ubik s Musik (19xx)(Firebird).tap" size="504455" crc="3d26baf7" md5="9bd52f323682ff5966fc9c6b8004d0e0" sha1="d3138c362af465d5f78dcee0528518776e1fc0bb"/>
+	</game>
+	<game name="Ultisynth 64 (1983)(Quicksilva)">
+		<description>Ultisynth 64 (1983)(Quicksilva)</description>
+		<rom name="Ultisynth 64 (1983)(Quicksilva).tap" size="872445" crc="7640137c" md5="5aa7d2d0bb0176e4c9e8ad0c13050dd2" sha1="d443ce74a89f96268c30260c2a250064e9989b4c"/>
+	</game>
+</datafile>

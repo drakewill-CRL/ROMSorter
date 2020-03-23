@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Fairchild VES &amp; Channel F - Demos</name>
+		<description>Fairchild VES &amp; Channel F - Demos (TOSEC-v2018-03-08)</description>
+		<category>TOSEC</category>
+		<version>2018-03-08</version>
+		<author>Cid - Grendel - Cassiel - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Channel F Multi-Cart - Menu (2004)(Riddle, Sean)">
+		<description>Channel F Multi-Cart - Menu (2004)(Riddle, Sean)</description>
+		<rom name="Channel F Multi-Cart - Menu (2004)(Riddle, Sean).bin" size="2048" crc="0d06a1dd" md5="02b4a4f523b972c63fef21bf2e51ae58" sha1="758422b7e0c03c00935373500053042cbac915e5"/>
+	</game>
+	<game name="Channel F Multi-Cart - Menu (2004)(Riddle, Sean)[a]">
+		<description>Channel F Multi-Cart - Menu (2004)(Riddle, Sean)[a]</description>
+		<rom name="Channel F Multi-Cart - Menu (2004)(Riddle, Sean)[a].bin" size="2048" crc="846183a5" md5="4b3657594cd1000d08704f4f0fb53c75" sha1="1840255ae91bd02b246c31c268c3a7bfd7bd4dcd"/>
+	</game>
+	<game name="Color Organ (19xx)(-)">
+		<description>Color Organ (19xx)(-)</description>
+		<rom name="Color Organ (19xx)(-).bin" size="2048" crc="3fa2d4eb" md5="94530113a22ae27af6ed87b98d9af62a" sha1="1ccc13a2f4aeb4538379d77d08ac7bf425bc4780"/>
+	</game>
+	<game name="Color Organ (19xx)(-)[b]">
+		<description>Color Organ (19xx)(-)[b]</description>
+		<rom name="Color Organ (19xx)(-)[b].bin" size="2048" crc="577cfee5" md5="c8d5ce90cb1c76c9589711b5029d3421" sha1="1f20a5500b51dfa275049f9b0e3ae14d864cbcfa"/>
+	</game>
+	<game name="Colortest Demo (200x)(Riddle, Sean)">
+		<description>Colortest Demo (200x)(Riddle, Sean)</description>
+		<rom name="Colortest Demo (200x)(Riddle, Sean).bin" size="2048" crc="6a33def5" md5="c44be208013b82041d01d2bc1834060b" sha1="5e70dda9fed1ac70abf98e22d82cafc34a7b9533"/>
+	</game>
+	<game name="Democart (demo) (1977)(Fairchild)">
+		<description>Democart (demo) (1977)(Fairchild)</description>
+		<rom name="Democart (demo) (1977)(Fairchild).bin" size="2048" crc="42727ad5" md5="54cf17c48707467295749490d458eafb" sha1="e462e594c14cdb10ddc4c263b74e753316c3b358"/>
+	</game>
+	<game name="Democart (demo) (1977)(Fairchild)[b]">
+		<description>Democart (demo) (1977)(Fairchild)[b]</description>
+		<rom name="Democart (demo) (1977)(Fairchild)[b].bin" size="2048" crc="8b63306f" md5="3ef873268f8fc428da225cadabb4703f" sha1="cd9204737fdc340dccb6f2af341442e8bb4712c1"/>
+	</game>
+	<game name="Democart 2 (demo) (197x)(Fairchild)">
+		<description>Democart 2 (demo) (197x)(Fairchild)</description>
+		<rom name="Democart 2 (demo) (197x)(Fairchild).bin" size="2048" crc="44cf1d89" md5="f6916b665893aa8138cde57c37e50ada" sha1="13a5ca0471e6f4a7a5a2fc4d2b8f881516a28ec4"/>
+	</game>
+	<game name="Full Screen Picture Demo (200x)(e5frog)(PD)">
+		<description>Full Screen Picture Demo (200x)(e5frog)(PD)</description>
+		<rom name="Full Screen Picture Demo (200x)(e5frog)(PD).bin" size="5120" crc="49ec7866" md5="cc445080caa95ea4a48cc013a04f9808" sha1="e858e4db47017bfac62443e3163da8f7516b5c25"/>
+	</game>
+	<game name="Full Screen Picture Demo (200x)(e5frog)(PD)[a]">
+		<description>Full Screen Picture Demo (200x)(e5frog)(PD)[a]</description>
+		<rom name="Full Screen Picture Demo (200x)(e5frog)(PD)[a].bin" size="4096" crc="338d2c8c" md5="4b109aaf9c6896df4ee4c5a37852dab2" sha1="5dac0cd323eedb1f5153db0b7f8e256f6bfba9ff"/>
+	</game>
+	<game name="International Karate Demo (200x)(-)(PD)">
+		<description>International Karate Demo (200x)(-)(PD)</description>
+		<rom name="International Karate Demo (200x)(-)(PD).bin" size="8192" crc="b0e3393f" md5="73eef0f56736e2d8153d6f489dd0bead" sha1="d61841bddf436c0e44b74c4e4fcc03f7ffc2e468"/>
+	</game>
+	<game name="International Karate Demo Test 2 (200x)(-)(PD)">
+		<description>International Karate Demo Test 2 (200x)(-)(PD)</description>
+		<rom name="International Karate Demo Test 2 (200x)(-)(PD).bin" size="8192" crc="16485cc7" md5="d337be6e8f348fb329fbaf44d3c2fa17" sha1="e8c2a8c960579b8cd128e5c68ab98959f4af8139"/>
+	</game>
+	<game name="International Karate Demo Test 3 (200x)(-)(PD)">
+		<description>International Karate Demo Test 3 (200x)(-)(PD)</description>
+		<rom name="International Karate Demo Test 3 (200x)(-)(PD).bin" size="8192" crc="ae5da587" md5="a6607b7c30cc4a7695d3112b3271d4e8" sha1="78c355ff55bc446fb7811a704767b3b1ceaa494c"/>
+	</game>
+	<game name="International Karate Demo Test 5 (200x)(-)(PD)">
+		<description>International Karate Demo Test 5 (200x)(-)(PD)</description>
+		<rom name="International Karate Demo Test 5 (200x)(-)(PD).bin" size="8192" crc="d79ea8bf" md5="7dd3f1040c774fe147fc1d825b353524" sha1="124c9477e330c71c1b94c7559dfa97ec1cc7c2c3"/>
+	</game>
+	<game name="Scrolling Mountains (200x)(Curtdawg)">
+		<description>Scrolling Mountains (200x)(Curtdawg)</description>
+		<rom name="Scrolling Mountains (200x)(Curtdawg).bin" size="2048" crc="8b9815d8" md5="442e362a39018f2d117f43fe013d1d8b" sha1="cbe610b2bd3878e181321fc6ffb2335ae63471e2"/>
+	</game>
+	<game name="Werbetextcassette (198x)(Electronic-Partner)(DE)">
+		<description>Werbetextcassette (198x)(Electronic-Partner)(DE)</description>
+		<rom name="Werbetextcassette (198x)(Electronic-Partner)(DE).bin" size="4096" crc="da351c39" md5="c3c7b3246e50117bd5cddb2b53e6fbae" sha1="e6d7bfc727d0d2f04788550360e09d1f4fc0e466"/>
+	</game>
+</datafile>

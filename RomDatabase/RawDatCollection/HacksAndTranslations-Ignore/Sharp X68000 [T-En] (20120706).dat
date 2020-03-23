@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sharp X68000 [T-En]</name>
+		<description>Sharp X68000 [T-En]</description>
+		<category>English Translations</category>
+		<version>20120706</version>
+		<date>20120706</date>
+		<author>Powerpuff</author>
+		<email>-insert email-</email>
+		<homepage>Maybe-Intro</homepage>
+		<url>http://maybeintro.wordpress.com/</url>
+		<comment>Maybe-Intro</comment>
+		<clrmamepro/>
+	</header>
+	<game name="_Sharp X68000 [T-En] Docs">
+		<description>_Sharp X68000 [T-En] Docs</description>
+		<rom name="Die Bahnwelt (Japan) [T-En by Radical R v20060322] [i].txt" size="2407" crc="478ed3c9" md5="d62d893db688db21d1a4c5b8f415a66e" sha1="f8170894bc8e9bf87abc12a44ea02bf3e40459ef"/>
+		<rom name="Lunatic Fantasy (Japan) [T-En by Stardust Crusaders v1.01].txt" size="4683" crc="71222062" md5="3b9a7bd0896a2c12e08ac16b0d594bbf" sha1="eb4dcdf054a87507a722b754fe574bc9d58476ea"/>
+		<rom name="Red Riding Hood Cha Cha Cha (Japan) [T-En by MIJET v20071108] [n].txt" size="5874" crc="3e1e8454" md5="9447b12682b8ab002cefd91239eea568" sha1="f2bc0171f299e4a207d4a7f54560fe346affe062"/>
+		<rom name="Undeadline - Genjuuki (Japan) [T-En by MIJET v20071031].txt" size="4062" crc="f42c9570" md5="2d00cd94c90c7268792f9374f446c538" sha1="0872cb5d62239574d99a7816a6b66f95dd687b03"/>
+		<rom name="Valis II - The Fantasm Soldier (Japan) [T-En by MIJET v20091011] [n].txt" size="11961" crc="802f9297" md5="0d42e9122b4e68dbbef166fc04aae67a" sha1="690cd7cf2182c2e4a985dfe414199a4a3c2beee2"/>
+		<rom name="ZugyA (Japan) [T-En by MIJET v20071108].txt" size="4188" crc="a4958179" md5="48306b012c327b0b0a497031cd65de85" sha1="8b2d5d09c61cf263d12f23f6e5245125bb011f8e"/>
+	</game>
+	<game name="Die Bahnwelt (Japan) [T-En by Radical R v20060322] [i]">
+		<description>Die Bahnwelt (Japan) [T-En by Radical R v20060322] [i]</description>
+		<rom name="Die Bahnwelt (Japan) (Data Disk A) [T-En by Radical R v20060322].xdf" size="1261568" crc="5e41b7f0" md5="4c1bf391eb1ee7334e9ae8d7d01826e1" sha1="a3b27a1fd96b09b28b96344182186454782f5c13"/>
+		<rom name="Die Bahnwelt (Japan) (Data Disk B).xdf" size="1261568" crc="50dbf715" md5="f209dc1ac660981075d07b04bdd61178" sha1="01f4239ac709f552dafb1657e7f81df8b75fbe4e"/>
+		<rom name="Die Bahnwelt (Japan) (Data Disk C).xdf" size="1261568" crc="63f130a9" md5="097cbffc74c0aa10877d75301b9bb0fe" sha1="04665c7eccb6038fa01ce17b0e0a5f5aba780353"/>
+		<rom name="Die Bahnwelt (Japan) (Ending Disk) [T-En by Radical R v20060322].xdf" size="1261568" crc="0e92b5d6" md5="a4af66ecfe9bddbd8cd74eef75914551" sha1="c7f873e53b722316916a4552b22675c8bad57657"/>
+		<rom name="Die Bahnwelt (Japan) (Opening Disk) [T-En by Radical R v20060322].xdf" size="1261568" crc="47b7e415" md5="5675622fd3072cbb825c256296abf0b6" sha1="d79b026497f8c6d5025290b777b458aebb38a3be"/>
+		<rom name="Die Bahnwelt (Japan) (System Disk) [T-En by Radical R v20060322].xdf" size="1261568" crc="f17f8597" md5="8bc209afe0cc1e9691634e02a331edc6" sha1="f8d9b6e5dca84e37d4c1e0fe7690a2ac7e5e0cca"/>
+		<rom name="Die Bahnwelt (Japan) (User Disk).xdf" size="1261568" crc="341bcc98" md5="978274df3093f0d5e4dc7985f831e739" sha1="c3be664846a04e04d788dd6746658fe544006262"/>
+	</game>
+	<game name="Lunatic Fantasy (Japan) [T-En by Stardust Crusaders v1.01]">
+		<description>Lunatic Fantasy (Japan) [T-En by Stardust Crusaders v1.01]</description>
+		<rom name="Lunatic Fantasy (Japan) [T-En by Stardust Crusaders v1.01].xdf" size="1261568" crc="48689ca0" md5="9f0f0e93c5799181d6bc99d0eca856c1" sha1="33d29269311c38be63018ad57afa1eb4ddcb1eb3"/>
+	</game>
+	<game name="Red Riding Hood Cha Cha Cha (Japan) [T-En by MIJET v20071108] [n]">
+		<description>Red Riding Hood Cha Cha Cha (Japan) [T-En by MIJET v20071108] [n]</description>
+		<rom name="Akazukin Cha Cha Cha (Japan) [T-En by MIJET v20071108].xdf" size="1261568" crc="29d732b0" md5="6c4c65af44bf3cd70cb7f8e1cf991f7e" sha1="d76b11598eb50529d11bfe2bfcd8ed742d1a7cb7"/>
+	</game>
+	<game name="Undeadline - Genjuuki (Japan) [T-En by MIJET v20071031]">
+		<description>Undeadline - Genjuuki (Japan) [T-En by MIJET v20071031]</description>
+		<rom name="Undeadline - Genjuuki (Japan) (Data Disk A).xdf" size="1261568" crc="0e7739e8" md5="c622e4612b5dcba379e76465f2164bfa" sha1="69fe1eebfd256e1938f2388ee333f819a5300686"/>
+		<rom name="Undeadline - Genjuuki (Japan) (Data Disk B).xdf" size="1261568" crc="b3080b5e" md5="283b3b6c8edd95145c5276b77b450389" sha1="e77066ce2ff95ab50e3214f5276f1197b5e87213"/>
+		<rom name="Undeadline - Genjuuki (Japan) (System Disk) [T-En by MIJET v20071031].xdf" size="1261568" crc="e0a13e4a" md5="1e85449cf2f043e2a128d2222c7b5213" sha1="aebccd8091ee0c0bdb229f213eaf38eddf45ed27"/>
+	</game>
+	<game name="Valis II - The Fantasm Soldier (Japan) [T-En by MIJET v20091011] [n]">
+		<description>Valis II - The Fantasm Soldier (Japan) [T-En by MIJET v20091011] [n]</description>
+		<rom name="Mugen Senshi Valis II (Japan) (Disk A) [T-En by MIJET v20091011].xdf" size="1261568" crc="e57b34c6" md5="a5016371e1b94686194be8a1c848b0e4" sha1="b2188685b7874fcaaa350526d3cbd3cc418d530b"/>
+		<rom name="Mugen Senshi Valis II (Japan) (Disk B).xdf" size="1261568" crc="6989c2d0" md5="bec0ede3cbbfa00118c7f373bae839f4" sha1="033a957d9b9c8fb04820728df7ed298b4a1563d3"/>
+		<rom name="Mugen Senshi Valis II (Japan) (Disk C).xdf" size="1261568" crc="0ce35497" md5="2f25e0b45d7b1159b06e2863c83c2bbd" sha1="e9747c51e10dd010d1b6baeb8a57a8641f4be0e4"/>
+		<rom name="Mugen Senshi Valis II (Japan) (Disk D).xdf" size="1261568" crc="e5136be2" md5="d12a6c958dc4ed2c26cc1e4b0599b656" sha1="d929ae33107073b6fbf87b5182e3fb2674d70edd"/>
+		<rom name="Mugen Senshi Valis II (Japan) (Disk E).xdf" size="1261568" crc="abb4d063" md5="233e3ee8f687d68a7771bbd0e671ff86" sha1="185ad41e6ded92b5702c5d12802071d7688718d2"/>
+	</game>
+	<game name="ZugyA (Japan) [T-En by MIJET v20071108]">
+		<description>ZugyA (Japan) [T-En by MIJET v20071108]</description>
+		<rom name="ZugyA (Japan) [T-En by MIJET v20071108].xdf" size="1261568" crc="7cf23655" md5="a35efb840a573185d037cf98a65632ed" sha1="56c59d276183e71b3202bf6505709a64d228a89f"/>
+	</game>
+</datafile>

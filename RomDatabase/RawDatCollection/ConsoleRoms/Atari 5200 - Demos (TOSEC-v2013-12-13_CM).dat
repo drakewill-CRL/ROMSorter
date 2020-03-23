@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Atari 5200 - Demos</name>
+		<description>Atari 5200 - Demos (TOSEC-v2013-12-13)</description>
+		<category>TOSEC</category>
+		<version>2013-12-13</version>
+		<author>Belgarath - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Hello World (200x)(Boris, Dan)(PD)">
+		<description>Hello World (200x)(Boris, Dan)(PD)</description>
+		<rom name="Hello World (200x)(Boris, Dan)(PD).bin" size="32768" crc="71db5b70" md5="3e337715257dc9a3b35881b3c0a0ea26" sha1="d6c6ad373b150c1f752cbecb8b94ab2640af3de9"/>
+	</game>
+	<game name="Player &amp; Missle Graphics Demo (200x)(Boris, Dan)(PD)">
+		<description>Player &amp; Missle Graphics Demo (200x)(Boris, Dan)(PD)</description>
+		<rom name="Player &amp; Missle Graphics Demo (200x)(Boris, Dan)(PD).bin" size="32768" crc="06a35db7" md5="38b679e7699a9a5a14b13970d28ec55a" sha1="adfcdaa185c4ace8924f5906683857840188b808"/>
+	</game>
+</datafile>

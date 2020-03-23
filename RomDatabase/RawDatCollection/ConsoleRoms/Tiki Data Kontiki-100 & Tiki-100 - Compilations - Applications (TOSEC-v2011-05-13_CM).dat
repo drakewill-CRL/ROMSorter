@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tiki Data Kontiki-100 &amp; Tiki-100 - Compilations - Applications</name>
+		<description>Tiki Data Kontiki-100 &amp; Tiki-100 - Compilations - Applications (TOSEC-v2011-05-13)</description>
+		<category>TOSEC</category>
+		<version>2011-05-13</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="KUD Programmepakke (19xx)(-)(Disk 1 of 3)(NO)">
+		<description>KUD Programmepakke (19xx)(-)(Disk 1 of 3)(NO)</description>
+		<rom name="KUD Programmepakke (19xx)(-)(Disk 1 of 3)(NO).dsk" size="409600" crc="fec1b3f7" md5="7dd7bfd5644c951d988ce8279d1c16de" sha1="ce32200182bc79ad973a546b5d12f52fc922ed29"/>
+	</game>
+	<game name="KUD Programmepakke (19xx)(-)(Disk 2 of 3)(NO)">
+		<description>KUD Programmepakke (19xx)(-)(Disk 2 of 3)(NO)</description>
+		<rom name="KUD Programmepakke (19xx)(-)(Disk 2 of 3)(NO).dsk" size="409600" crc="0fceb4d0" md5="c2d2acc6f1cd7622d32ad55e6783975b" sha1="24feff6c1d3291846bf1352e1bca8fe33a179c76"/>
+	</game>
+	<game name="KUD Programmepakke (19xx)(-)(Disk 3 of 3)(NO)">
+		<description>KUD Programmepakke (19xx)(-)(Disk 3 of 3)(NO)</description>
+		<rom name="KUD Programmepakke (19xx)(-)(Disk 3 of 3)(NO).dsk" size="409600" crc="f7adeb75" md5="bd4b9acf1d9584ade39dc62adf78da21" sha1="12486da7fddf9bd2c012795eda09da11c8fd8bec"/>
+	</game>
+</datafile>

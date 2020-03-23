@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega Mark III &amp; Master System - Educational</name>
+		<description>Sega Mark III &amp; Master System - Educational (TOSEC-v2010-12-22)</description>
+		<category>TOSEC</category>
+		<version>2010-12-22</version>
+		<author>Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Sonic's Edusoft (1991)(Tiertex Design Studio)(proto)">
+		<description>Sonic's Edusoft (1991)(Tiertex Design Studio)(proto)</description>
+		<rom name="Sonic's Edusoft (1991)(Tiertex Design Studio)(proto).bin" size="262144" crc="d9096263" md5="5919b101624d4710a10825c34e753ba2" sha1="f1357505cbcebfab52327a5fc9c3437f54d8da40"/>
+	</game>
+	<game name="Sonic's Edusoft (1991)(Tiertex Design Studio)(proto)[h]">
+		<description>Sonic's Edusoft (1991)(Tiertex Design Studio)(proto)[h]</description>
+		<rom name="Sonic's Edusoft (1991)(Tiertex Design Studio)(proto)[h].bin" size="262144" crc="9cc4ae7c" md5="4a81afc9260f57148a2b24ca58af3177" sha1="c1dab46c2f1b71cefba67045f04ec561e348ad21"/>
+	</game>
+	<game name="Where in the World Is Carmen Sandiego (1988)(Parker Brothers)(US)">
+		<description>Where in the World Is Carmen Sandiego (1988)(Parker Brothers)(US)</description>
+		<rom name="Where in the World Is Carmen Sandiego (1988)(Parker Brothers)(US).bin" size="131072" crc="428b1e7c" md5="29dcfcf773ceb9ef29b524183ad89d8c" sha1="683317c8d7d8b974066d7ddb3ed64f99801aa9de"/>
+	</game>
+	<game name="Where in the World Is Carmen Sandiego (1994)(Broderbund - Parker Brothers - Tec Toy)(BR)">
+		<description>Where in the World Is Carmen Sandiego (1994)(Broderbund - Parker Brothers - Tec Toy)(BR)</description>
+		<rom name="Where in the World Is Carmen Sandiego (1994)(Broderbund - Parker Brothers - Tec Toy)(BR).bin" size="131072" crc="88aa8ca6" md5="551e85dc05f12557a56a6528aab6421a" sha1="c848e92899dc9b6f664e98ad247fed86c0e46a41"/>
+	</game>
+</datafile>

@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Videoton TV-Computer - Games - [Multipart]</name>
+		<description>Videoton TV-Computer - Games - [Multipart] (TOSEC-v2014-07-30)</description>
+		<category>TOSEC</category>
+		<version>2014-07-30</version>
+		<author>Teoy - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Alien 8 (1985)(A.C.G. - 'a' Studio Software)">
+		<description>Alien 8 (1985)(A.C.G. - 'a' Studio Software)</description>
+		<rom name="alien8.c" size="520" crc="4389ef35" md5="1d0ae9361ad9d0bd7f66a7a66356cbc3" sha1="f963e25d1d052422ccc98a65f2d759e624ed89f4"/>
+		<rom name="alien8.cas" size="418" crc="e688f6d0" md5="5556c7ab95d3be5ff01e61d8cf0eb723" sha1="0aac220558d57cb0334109d3918e7163d7ef856e"/>
+		<rom name="alien81" size="40960" crc="8af6262a" md5="92aa5118ab9f0097c1fe754639d5c2a2" sha1="f245fcefaa4c20be3943667561729c0f57980a35"/>
+		<rom name="alien82" size="16384" crc="6bd16678" md5="c8580e7506c58e283f17b3a4434d76be" sha1="bc63ad3a9cc4fe3efe3af2d6dbdd8e1eb04bd3e1"/>
+	</game>
+	<game name="Bob (198x)(Mamut Soft)">
+		<description>Bob (198x)(Mamut Soft)</description>
+		<rom name="bob.cas" size="2455" crc="d09277f2" md5="cc7b4362a9ac5dac876af3d9cbd836f7" sha1="dad0f4b4f8a72f13bbab1f4a84d7303afd2a05b3"/>
+		<rom name="bobcode.cas" size="25697" crc="1870cf3a" md5="32c8a85a3842c1f32edcb14abaf296ea" sha1="d78dc132df8e9cd490913a7e35a7a43b25fcb288"/>
+		<rom name="timer.cas" size="372" crc="b69567f4" md5="3f531dff43d8fcd9ee933a20b4f1d350" sha1="a0bd0455bce8cc103ca9c19ef48d86c679a012d8"/>
+	</game>
+	<game name="Buvos negyzetek (1987)(Novotrade)(hu)">
+		<description>Buvos negyzetek (1987)(Novotrade)(hu)</description>
+		<rom name="buvos.cas" size="30848" crc="b8f13d53" md5="cc7e49d3543f0b3030e056d70ca01c2d" sha1="4d23084e0efca751203f7f3afa0e0c261e0f7f3a"/>
+		<rom name="buvos1.cas" size="384" crc="4d86555a" md5="4ac45b881af9aaaf92063507ed84a5c8" sha1="1d5667d9d2771f801cfcd56de63f826fa6afadcc"/>
+	</game>
+	<game name="Buvos negyzetek (1987)(Novotrade)(hu)[a]">
+		<description>Buvos negyzetek (1987)(Novotrade)(hu)[a]</description>
+		<rom name="buvos.cas" size="7808" crc="8de46876" md5="a86bdfe1493abc8883e9ce5932bb4718" sha1="4ee33d59c94345e2151c259d3e043e4722b6bf23"/>
+		<rom name="buvos1.cas" size="288" crc="81780968" md5="3ac9c2c9cbf660a7a6fba66372abe97e" sha1="87baa950ebe57c47c95222fc0139305d94745bbe"/>
+	</game>
+	<game name="Crak (198x)(-)">
+		<description>Crak (198x)(-)</description>
+		<rom name="crak.cas" size="7040" crc="7b478677" md5="8c170121a5fb050685e70fceea15aae3" sha1="6dc52334016c3beebfa40aa2b923982408308aa5"/>
+		<rom name="ed99100.dat" size="612" crc="ae51841f" md5="38cd2b49dd89f23f90e48512cd8b442a" sha1="5ed47a283db64460bffa884b1e660b04ad978ebb"/>
+		<rom name="edt5152.dat" size="612" crc="f37fdd1f" md5="6a873a6e04b24ce6f09258397b804629" sha1="037a5f7cdc1492fdb4ddb3c777a79d7f84eae662"/>
+		<rom name="edt5354.dat" size="612" crc="ebb5e433" md5="6841a847b560d1a1483bdbd28d212ad7" sha1="2492203ee8031ad1124efc5471688474490cd5ab"/>
+		<rom name="edt5556.dat" size="612" crc="ebb5e433" md5="6841a847b560d1a1483bdbd28d212ad7" sha1="2492203ee8031ad1124efc5471688474490cd5ab"/>
+		<rom name="edt5758.dat" size="612" crc="ebb5e433" md5="6841a847b560d1a1483bdbd28d212ad7" sha1="2492203ee8031ad1124efc5471688474490cd5ab"/>
+		<rom name="edt5960.dat" size="612" crc="782ea0de" md5="661f053a5e030c18f7c07c5384f548cb" sha1="4be2f3c1924b6f512c97509db6eeebfe10fe5ee0"/>
+		<rom name="edt6162.dat" size="612" crc="3ca546ee" md5="cc2a88985187e767f639c0d61bfe58b9" sha1="4bf78c7e520c58fd32c605b40a4306926024aede"/>
+		<rom name="edt6364.dat" size="612" crc="ebb5e433" md5="6841a847b560d1a1483bdbd28d212ad7" sha1="2492203ee8031ad1124efc5471688474490cd5ab"/>
+		<rom name="edt6566.dat" size="612" crc="155c2223" md5="160939c041212aee7cbf659f30ebfffb" sha1="0175c67a6c60712a60fb06a0500afb74579fbbcd"/>
+		<rom name="edt6768.dat" size="612" crc="6c0db548" md5="ec654252034bf3b27e21673a714d25fd" sha1="03e8583084a536f0d02da2bd0683a328fa836ad4"/>
+		<rom name="edt6970.dat" size="612" crc="ebb5e433" md5="6841a847b560d1a1483bdbd28d212ad7" sha1="2492203ee8031ad1124efc5471688474490cd5ab"/>
+		<rom name="edt7172.dat" size="612" crc="ebb5e433" md5="6841a847b560d1a1483bdbd28d212ad7" sha1="2492203ee8031ad1124efc5471688474490cd5ab"/>
+		<rom name="edt7374.dat" size="612" crc="ebb5e433" md5="6841a847b560d1a1483bdbd28d212ad7" sha1="2492203ee8031ad1124efc5471688474490cd5ab"/>
+		<rom name="edt7576.dat" size="612" crc="ebb5e433" md5="6841a847b560d1a1483bdbd28d212ad7" sha1="2492203ee8031ad1124efc5471688474490cd5ab"/>
+		<rom name="edt7778.dat" size="612" crc="ebb5e433" md5="6841a847b560d1a1483bdbd28d212ad7" sha1="2492203ee8031ad1124efc5471688474490cd5ab"/>
+		<rom name="edt7980.dat" size="612" crc="ebb5e433" md5="6841a847b560d1a1483bdbd28d212ad7" sha1="2492203ee8031ad1124efc5471688474490cd5ab"/>
+		<rom name="edt8182.dat" size="612" crc="ebb5e433" md5="6841a847b560d1a1483bdbd28d212ad7" sha1="2492203ee8031ad1124efc5471688474490cd5ab"/>
+		<rom name="edt8384.dat" size="612" crc="ebb5e433" md5="6841a847b560d1a1483bdbd28d212ad7" sha1="2492203ee8031ad1124efc5471688474490cd5ab"/>
+		<rom name="edt8586.dat" size="612" crc="ebb5e433" md5="6841a847b560d1a1483bdbd28d212ad7" sha1="2492203ee8031ad1124efc5471688474490cd5ab"/>
+		<rom name="edt8788.dat" size="612" crc="34a0d149" md5="5fffbe13617761f70820de431510c6c8" sha1="fb07456c143b169e5f2b742ccd58460b4b5a6e93"/>
+		<rom name="edt8990.dat" size="612" crc="ebb5e433" md5="6841a847b560d1a1483bdbd28d212ad7" sha1="2492203ee8031ad1124efc5471688474490cd5ab"/>
+		<rom name="edt9192.dat" size="612" crc="ebb5e433" md5="6841a847b560d1a1483bdbd28d212ad7" sha1="2492203ee8031ad1124efc5471688474490cd5ab"/>
+		<rom name="edt9394.dat" size="612" crc="ebb5e433" md5="6841a847b560d1a1483bdbd28d212ad7" sha1="2492203ee8031ad1124efc5471688474490cd5ab"/>
+		<rom name="edt9596.dat" size="612" crc="ebb5e433" md5="6841a847b560d1a1483bdbd28d212ad7" sha1="2492203ee8031ad1124efc5471688474490cd5ab"/>
+		<rom name="edt9798.dat" size="612" crc="ebb5e433" md5="6841a847b560d1a1483bdbd28d212ad7" sha1="2492203ee8031ad1124efc5471688474490cd5ab"/>
+		<rom name="edtstat.dat" size="49" crc="196d91dd" md5="abcc40ca2fc20214f405f42414b7a58f" sha1="aaa28f1ba49cc810bccbcdbc7e994b9ca05229cb"/>
+		<rom name="rakdat.dat" size="15301" crc="7b565c98" md5="2f7404b745ceeaa9d7257de2165e53f7" sha1="c0a0efe6d91a1bb1a9feb6b749ecb59635f6ceef"/>
+	</game>
+	<game name="Csavargas a gombak birodalmaban (1988)(Novotrade)(hu)">
+		<description>Csavargas a gombak birodalmaban (1988)(Novotrade)(hu)</description>
+		<rom name="gomba.cas" size="512" crc="713acab9" md5="9510bb839629e5f9f0d5e89b67ad2d32" sha1="dbdc82a5b244b59eb5b9efbe704c5bb1dbc91080"/>
+		<rom name="gombakep.cas" size="21504" crc="680d233a" md5="94e8725d1adc614c5dd87eb25c14c47c" sha1="af2ded7a5774a31255fe160f0f244e8f1ed0702b"/>
+		<rom name="gombcod1.cas" size="42752" crc="0d827b2f" md5="acfcceb5f486710b5247ffcce4c12dd4" sha1="763d90c17543dfba2c3b320d4487ac07728c3194"/>
+		<rom name="gombcod2.cas" size="11136" crc="1e2fd159" md5="f3eae3478681dc345b2affae4251fffc" sha1="84fbf3642c17fdeb46aa56e83e2b3b6192bd40a8"/>
+	</game>
+	<game name="Csavargas a gombak birodalmaban (1988)(Novotrade)(hu)[a]">
+		<description>Csavargas a gombak birodalmaban (1988)(Novotrade)(hu)[a]</description>
+		<rom name="gomba.cas" size="471" crc="1331e7cf" md5="de0106393ce7cecdc3fbaa87a47e651d" sha1="af102e57a9f7f054d69d7b0c3f6a59a91fed3803"/>
+		<rom name="gombakep.cas" size="21376" crc="41a6b67d" md5="969b8d919776773efda34a006ed15dcb" sha1="fb60b8b665dcb75b2d6950a44dd16ace58d232a7"/>
+		<rom name="gombcod1.cas" size="42640" crc="9c7d77aa" md5="3d16e91ae9649771b2ffc5b61daa8577" sha1="a6f9f18062cf976d40c3f23b4d775fe3a34218fd"/>
+		<rom name="gombcod2.cas" size="11128" crc="e8a78c31" md5="39236ca663db67bfd62ad551033a1151" sha1="ad5256be2c6e2a11f9ce2509ccdff28f095d1c83"/>
+	</game>
+	<game name="Digi-pok (1987)(Novotrade)(hu)">
+		<description>Digi-pok (1987)(Novotrade)(hu)</description>
+		<rom name="digi-pok.cas" size="512" crc="30eaf489" md5="4627bac3b711c9805223ea39206866ef" sha1="46822e75bf7ecd4a0fb6872be34c5fa95da09fa3"/>
+		<rom name="digipok.cas" size="28928" crc="8e94fb3e" md5="6a670f71868ebd9a5fad895653b78e8a" sha1="4f8e5be131b9e039dd5d86fedb00c3f08fc75475"/>
+	</game>
+	<game name="Donkey Kong (198x)(Windflax Software)(hu)">
+		<description>Donkey Kong (198x)(Windflax Software)(hu)</description>
+		<rom name="doncode.cas" size="25488" crc="87194cf2" md5="d91c5e0c92663e3f617aa7c8d192f958" sha1="10f01d8c71d442b9875eaf41b4d3a759604e333e"/>
+		<rom name="donkey.cas" size="3019" crc="a12bc0a2" md5="b248fa81f910b15d558c0f974bdf9359" sha1="1e66502a705b346de4fcbe6e03c3d688fc0d5ad9"/>
+	</game>
+	<game name="Elite (19xx)(-)">
+		<description>Elite (19xx)(-)</description>
+		<rom name="elite.cas" size="287" crc="01a48c5f" md5="fbc0876d97b8ea39f98e4dfb985b127b" sha1="5322f739919b1740206deef350dd0d66c047192a"/>
+		<rom name="elite1.prg" size="25872" crc="83e91948" md5="1f21a7976369c7714d1be1bb7f914bff" sha1="7c8e1da83b0c6a4d82bf59827723075757fc4d3b"/>
+		<rom name="elite2.cas" size="24225" crc="8e3d4032" md5="39c39bf0d89b5ba2f80fc7ea3bf093e3" sha1="e5a6e791ec28e785929d8f8bd7c455d230407dec"/>
+		<rom name="elite2.prg" size="24097" crc="eab9ee81" md5="77e47f9220ba09dec18c231d35c488e8" sha1="ca52a485815a1e781a1445266d66dfc59833ce4a"/>
+	</game>
+	<game name="Farao (1988)(Balazs Gyenge)(hu)">
+		<description>Farao (1988)(Balazs Gyenge)(hu)</description>
+		<rom name="farao.cas" size="18289" crc="9ddf20cf" md5="a5fb72ab781f7586e4240133959ca096" sha1="2cc99c4b62f79f7a29ea7b07d8f6b726934df1e7"/>
+		<rom name="farao2.cas" size="2255" crc="07c60de3" md5="675431cc844b543c00c2993562d891ac" sha1="8d35e312a2abb635b41138482841a9391d0bb2df"/>
+	</game>
+	<game name="Felderito (198x)(SIL Softvare)(hu)">
+		<description>Felderito (198x)(SIL Softvare)(hu)</description>
+		<rom name="fel.cas" size="12945" crc="a2d66fc0" md5="5d580b9d79b8d34b9181d9495a6673ec" sha1="a3f5c542b30317ab560b2fe5467f22ce9c820352"/>
+		<rom name="felderit.cas" size="3752" crc="1917fb13" md5="43eac624e707fa07ca67db61abc4f645" sha1="25312330c612929faa6c340163cde489b2f4feae"/>
+	</game>
+	<game name="Felderito (198x)(SIL Softvare)(hu)[a]">
+		<description>Felderito (198x)(SIL Softvare)(hu)[a]</description>
+		<rom name="fel.cas" size="12944" crc="59c16305" md5="415da1f77f1dc39ac1ada942f86c854a" sha1="417b82b21ccafd27ed6679f0478f10c92ff6aaad"/>
+		<rom name="felderit.cas" size="3752" crc="1917fb13" md5="43eac624e707fa07ca67db61abc4f645" sha1="25312330c612929faa6c340163cde489b2f4feae"/>
+	</game>
+	<game name="Firebow - The Planet of Death (1989)('a' Studio Software)(hu)">
+		<description>Firebow - The Planet of Death (1989)('a' Studio Software)(hu)</description>
+		<rom name="fbdoc.cas" size="16607" crc="d4b02730" md5="11d563d6e456a97498505b7a7a5ee8fd" sha1="9adf424a2630d769aad61f0d30ddaff99acc9b57"/>
+		<rom name="fbleiras.cas" size="5580" crc="d2e51519" md5="1c12cfe46221e8d984906aeded5488e9" sha1="2902ace4a01938add4f4828093cd3939c7ec9754"/>
+		<rom name="firebow.1" size="16384" crc="b9772c98" md5="4a5e7bb060cbccba6fbe6b870864d505" sha1="f97680a08efbcfccb3ced3144f71fdb71425b2b5"/>
+		<rom name="firebow.2" size="37792" crc="b7416bca" md5="7c569be1972489c03a0a44211f5b3005" sha1="fc2df029ad32441d9cb7d198e3d745bd21c3f715"/>
+		<rom name="firebow.cas" size="16607" crc="9a637e4a" md5="940fe164d0e5a8a1ee82b41d2c04e8a4" sha1="1aa218969303f0f9bc62e53a90a5cf28069ec4a6"/>
+		<rom name="firebow.cod" size="307" crc="21550bd7" md5="3b2000e85ff6616334d9d1b58393109a" sha1="acfdd344d5b0db33e0b7391aef3353c7a23056b0"/>
+	</game>
+	<game name="Flipper (198x)(Novotrade)">
+		<description>Flipper (198x)(Novotrade)</description>
+		<rom name="flipkod.cas" size="14592" crc="3ba8694c" md5="f7a552f12cacc66f634cec7b138b7d62" sha1="f61679328c9a36cab87053f851314d568c44d6fc"/>
+		<rom name="flipper.cas" size="768" crc="b04fdb01" md5="78af9f8802d8072a17eaf1c64db97acb" sha1="baed0bcf63c345913ea497b1661c39d38b0d618f"/>
+		<rom name="fliprajz.cas" size="15616" crc="3a263a47" md5="6e4078f14f967a7969a5d8d42f3ff0e2" sha1="48928ab666348bc4bbf3b5e795feb8bb873d7037"/>
+	</game>
+	<game name="Golf (198x)(-)(hu)">
+		<description>Golf (198x)(-)(hu)</description>
+		<rom name="berygolf.cas" size="26138" crc="5a822c93" md5="425c326c5395acea470c31ff1ae07918" sha1="c9739ed3e9b7fe4c5122e8451e54e2c50cdd15dd"/>
+		<rom name="golf.cas" size="1644" crc="fbf2117a" md5="9fbc674be887823e9766f33d4d54345b" sha1="dfdb6e98d0ee64ac15f6da4f8b6ee0c58eae58bf"/>
+	</game>
+	<game name="Heartland (1990)(Jeffrey)(hu)">
+		<description>Heartland (1990)(Jeffrey)(hu)</description>
+		<rom name="clc.dat" size="1537" crc="bc499a2e" md5="a55407ef82f2f3e5e30a251d1cd0ed5d" sha1="bca6610dc7f2a7013badf14f4487510e7d6eb73f"/>
+		<rom name="heartdoc.cas" size="8866" crc="a7feb99e" md5="82c51255c537334430203bddf165c7d4" sha1="c0d30b2b5fa59201b07bb6c542f47340da9b638a"/>
+		<rom name="heartlan.cas" size="7494" crc="386497f9" md5="45fb11d97f1a7a28a92dbd2c7ced8b58" sha1="c6e946a122f4b852d513787639b85b0b35d8bdd2"/>
+		<rom name="main.prg" size="33432" crc="db071c18" md5="b254f9173be13ca1cc374a2418009468" sha1="45a98c77193a39ed44e83c3780da715a59ffa68b"/>
+		<rom name="scr.dat" size="12305" crc="605156e6" md5="d98ce9373fa73d85ef10b2876bdcd956" sha1="f7582350b4f817b8878a98cad46ac694d307203c"/>
+	</game>
+	<game name="Kisertetkastely (1989)(Novotrade)(hu)">
+		<description>Kisertetkastely (1989)(Novotrade)(hu)</description>
+		<rom name="kastely1.cas" size="15488" crc="735cef7c" md5="4c4f7ddc82392368cd08f1da211a6f7a" sha1="b0c15b7674a9c712d84aa2e324924ba84cc05469"/>
+		<rom name="kastely2.cas" size="16512" crc="881f3b30" md5="fb379f164edd6d96dfb17dcb152e400e" sha1="f446fa825dddc3c9a922b5e9a0a3b555cfead327"/>
+		<rom name="kastely3.cas" size="41728" crc="6c7c54f8" md5="3c352942617c8174fcc641fe94de4dc0" sha1="6450f12080dc2f6fdf456470a55190c717639e6b"/>
+		<rom name="kisertet.cas" size="672" crc="a3472dbb" md5="7c341c9f52c8c1e5ca49e886032bb5e4" sha1="a314d1ecf51195e5e8e204f193b70987442a0fc6"/>
+	</game>
+	<game name="Knight Lore (1985)(A.C.G. &amp; 'a' Studio Software)">
+		<description>Knight Lore (1985)(A.C.G. &amp; 'a' Studio Software)</description>
+		<rom name="knight.c" size="520" crc="fad26011" md5="6dd3dde07dc2ec52587e239e6927ecef" sha1="f52d0a68337a7ea966207db951fb5a3c0fa7a228"/>
+		<rom name="knight.cas" size="418" crc="9b4bc466" md5="ecfcae009a8ab120f20898401535f50a" sha1="71630737c30ed5e3baf0b999350cf09d7e183d53"/>
+		<rom name="knight1" size="40960" crc="137b11ea" md5="a0a0dd96a761a9c9ca4030ba3445ae0b" sha1="028db9bf2482f2f01ddf9e6b1f8a60869020ef1b"/>
+		<rom name="knight2" size="16384" crc="d678039e" md5="38afc6d91517f2bd3c2af212e3894542" sha1="7e17e446772ec72670b49b486677f1c1099ad404"/>
+	</game>
+	<game name="Ladder Man (1989)(Novotrade)(hu)">
+		<description>Ladder Man (1989)(Novotrade)(hu)</description>
+		<rom name="ladder.cas" size="418" crc="ce8d274d" md5="cd0e409df6ced528e1818003ba3f5d92" sha1="3a00b0348627e3677a42967a01fd27da400a651e"/>
+		<rom name="MAN.cas" size="13457" crc="c00fb8f2" md5="1e594baf1e37a7299e71d05ca6a2baf9" sha1="5a77bd2235713a50fd2f13ca1036e668c51fd228"/>
+	</game>
+	<game name="Magic Ball (198x)(-)[b]">
+		<description>Magic Ball (198x)(-)[b]</description>
+		<rom name="ball.prg" size="32784" crc="511e2ca4" md5="81d19c3ad7562632ae26a3435b39c2bf" sha1="a7ba7e9dc7b83507d800cb2bcfce18ddbf39ac5f"/>
+		<rom name="ball.scr" size="2577" crc="84218f9e" md5="0740cb8aec7173322717c3c3ac9839c7" sha1="0f4ecfc9141a8ac3bbc19d513f37df37f21d08cd"/>
+		<rom name="magic_b.cas" size="287" crc="e356f7af" md5="7ea777acf7773ae909350be56bcb3f60" sha1="28e00417eace304cc9b443f9be69b3f1431d1a52"/>
+	</game>
+	<game name="Minotaurusz (198x)(Novotrade)">
+		<description>Minotaurusz (198x)(Novotrade)</description>
+		<rom name="minotaur.cas" size="418" crc="f3b90dce" md5="dcc0c9f338f67eea9ef4c190c2df259e" sha1="04aea39153493c292029011b303adc7b7b9127d3"/>
+		<rom name="mt.cas" size="18057" crc="b5a8f088" md5="a4a5d8d4c931b63579da6eec6d18b475" sha1="4fc497659e7765beba0095fed4fcff6924e5c542"/>
+	</game>
+	<game name="Nautilus (198x)(-)">
+		<description>Nautilus (198x)(-)</description>
+		<rom name="nautilus.cas" size="381" crc="526562c6" md5="e90dbf3590ce4d3475451809ccf2f857" sha1="4acc98959dc69fe6988588cd2879fa9cfdb00cba"/>
+		<rom name="nd.cas" size="16783" crc="69b79d3e" md5="d394798d8a36d2fbde6d24581da06e27" sha1="f4be3f79b4742de38d8fc8e0f23164da5c4c0494"/>
+		<rom name="nk.cas" size="16144" crc="17fb7cc2" md5="c8ee10e6cb13abcc9378a873f3b55d1f" sha1="6ecd3b9b943ff72f08880f59b52987911da1d0d4"/>
+		<rom name="np.cas" size="27465" crc="24128610" md5="776fc0fc27a3f61d8bbec9e24b6130cc" sha1="887d9e0393c179c94778de6f9071f6cee5dfead0"/>
+	</game>
+	<game name="Nightshade (1985)(A.C.G. &amp; 'a' Studio Software)">
+		<description>Nightshade (1985)(A.C.G. &amp; 'a' Studio Software)</description>
+		<rom name="night.cas" size="498" crc="1a8f9025" md5="421d9bb2f7666f182c2cbeddad80d811" sha1="10d8b07cf5e3c9f04ad8c0cb32bc913592280e75"/>
+		<rom name="night.ch" size="520" crc="fad26011" md5="6dd3dde07dc2ec52587e239e6927ecef" sha1="f52d0a68337a7ea966207db951fb5a3c0fa7a228"/>
+		<rom name="night.sc" size="5040" crc="9eae1047" md5="80ac34b8b5d2e91072012b53a716ae93" sha1="1deaf380246be5be1f2fd84270f9c806c11de626"/>
+		<rom name="shade1.p" size="40960" crc="1cdb6811" md5="59ad43a4480304badb664afa69d9fb20" sha1="00ef7ffd73be15d80305e6e476507541743d520b"/>
+		<rom name="shade2.p" size="16384" crc="e30c40f9" md5="76b7d91edefa185c65799da9753b1688" sha1="f5de4561bd91d2d69338a8cd818c4ccdbc14808f"/>
+	</game>
+	<game name="Nim (198x)(L.S.)(hu)">
+		<description>Nim (198x)(L.S.)(hu)</description>
+		<rom name="nim.cas" size="1486" crc="acc441c7" md5="1091705deb22baa862cce67959645418" sha1="2540f1502b3cb9eb6056f6e89e383145d0f5d043"/>
+		<rom name="nimcode.cas" size="22178" crc="5ae30549" md5="bc30b12cba99db358f515bfaefd96eac" sha1="bc02d1213146de0ff99fb5da9cfcb8aff7b9e74d"/>
+	</game>
+	<game name="Othello (1988)(Novotrade)(hu)">
+		<description>Othello (1988)(Novotrade)(hu)</description>
+		<rom name="othelcod.cas" size="16832" crc="a64eaeda" md5="a751b77e1cc0190db04722d1788d0b0b" sha1="a6d94f9df206418144aced8ed951cb688180c7a6"/>
+		<rom name="othelkep.cas" size="16512" crc="d3596267" md5="1639564ecd722b420fe4a1c5fa0f61e4" sha1="d2e5c58caaa08c5ce94b805ab4a7dc1a6b21eaed"/>
+		<rom name="othello.cas" size="388" crc="22e995aa" md5="fa30a624c7f12007b09dba9b6328c84b" sha1="f725bb51f01d55e0211c2b9e6ead9c009cf16fb4"/>
+	</game>
+	<game name="PentomINO (198x)(-)(hu)">
+		<description>PentomINO (198x)(-)(hu)</description>
+		<rom name="pento.cas" size="10880" crc="ec7101d9" md5="ec54a9e2a8cebd4daaff4efd97a5f28f" sha1="d2eb313b696ff17eb555a1b129c0d0645a20650e"/>
+		<rom name="pentodoc.cas" size="1920" crc="2ac0a8e8" md5="b3e5065d4efbfbad9359c4d91a3ae97d" sha1="9dfb9c789170565e21f9ef69078f8ab32988b8b8"/>
+	</game>
+	<game name="Poszeidon kincse (198x)(Novotrade)(hu)">
+		<description>Poszeidon kincse (198x)(Novotrade)(hu)</description>
+		<rom name="poseido1.cas" size="15488" crc="5db27665" md5="1c2e6ccda9e66be52118a522720311e1" sha1="3c1e15023fc982abcbec98521f277dcd9ec7b6a0"/>
+		<rom name="poseido2.cas" size="16512" crc="3f7c80ce" md5="0ea3337938652907b211c3989a4a6bcc" sha1="f8ba2cae4cd0c450a474b0fe26c25d4921939c5f"/>
+		<rom name="poseido3.cas" size="36992" crc="263721d5" md5="8f6e561b4af2767e7ee8a27eec8dbee2" sha1="aa19661049ebb515b16e2b78635cf579b92cc1db"/>
+		<rom name="poseidon.cas" size="458" crc="4fd10b3b" md5="e79fc1ee755254ecc7b9205f44fc9d7e" sha1="ae3b901a717565b951531b2be16b0160c4ed2fca"/>
+	</game>
+	<game name="Pottom Peti (1988)(Tom)(hu)">
+		<description>Pottom Peti (1988)(Tom)(hu)</description>
+		<rom name="p.cas" size="9554" crc="1ac627ee" md5="6b6d196ef9aef8e6a9b278b51d19799d" sha1="f09662dfbcac3875ed8e820bc54a40f9d77a9d82"/>
+		<rom name="pottomp.cas" size="1238" crc="2a30db93" md5="5a8fde9fe269fe367f014190d18ac9d9" sha1="358368a73810ee475329a5fe15514655179a8517"/>
+	</game>
+	<game name="Race Ace (1990)(Jeffrey)">
+		<description>Race Ace (1990)(Jeffrey)</description>
+		<rom name="raceace.cas" size="451" crc="10d6d192" md5="95267d7333367cef10e65997a199f83e" sha1="5b204f9fa26a185aca33fd231496862638eac6d9"/>
+		<rom name="rc0.cas" size="33936" crc="96c9ff24" md5="25861eeab6a3c6abd8fe195a99d7ef7e" sha1="ddf19bd91a32986b705a2d70fb714b37a8aa5202"/>
+		<rom name="rc1.cas" size="390" crc="449bf84d" md5="481c74fd7fd1515b23b3119e70bb6351" sha1="015fac41eb48272d7c74dbb8c760b27d2f1f9cc6"/>
+	</game>
+	<game name="Soko-ban (1990)(Spectrum Holobyte &amp; Ubul)(hu)">
+		<description>Soko-ban (1990)(Spectrum Holobyte &amp; Ubul)(hu)</description>
+		<rom name="bigblock.cas" size="37848" crc="b8c80684" md5="2e4d18a3606a13891c07e2321384eb6f" sha1="8cdd7f2fd3e29eb588b4da8a3c629c68b191f2d1"/>
+		<rom name="house.cas" size="15493" crc="68a51ad9" md5="71eb7ef51b8d5d5e8cd7add5d505d8cd" sha1="eb5e40a68fd3201588faa1420638d2553f548557"/>
+		<rom name="liftkep.cas" size="15493" crc="f91a2c8e" md5="2d7ba98c55049abad212673b395719ce" sha1="5ca185c76bbe5862772b54138d8e5b6117d6d7a7"/>
+		<rom name="soko-ban.cas" size="362" crc="cb75e775" md5="7df6d773c51ff25adcb7cdf0868886f4" sha1="14010bc6b7a1941336e35ee1a8cd62f19404ce54"/>
+	</game>
+	<game name="Space Sapper (1987)(Novotrade)(hu)">
+		<description>Space Sapper (1987)(Novotrade)(hu)</description>
+		<rom name="sapper.cas" size="6400" crc="0df8d625" md5="904c620ce28977fa88b4e71c76baf510" sha1="777b08688788087080108a702eac78de4eac8b6b"/>
+		<rom name="sp.cas" size="9984" crc="d7b9a5f4" md5="f359f739a790dd622cd23b4ed7cc6cfd" sha1="d6d14802e78599842a9cdd488450b27edecfab73"/>
+	</game>
+	<game name="Torpe (1987)(Novotrade)(hu)">
+		<description>Torpe (1987)(Novotrade)(hu)</description>
+		<rom name="torpe ismerteto.cas" size="4993" crc="fcca796c" md5="e7c305946a7f7599d5d00af49c8824f5" sha1="d50405689cb288402d2d0c44f7306b156fa337bb"/>
+		<rom name="torpe.cas" size="20736" crc="ebe079ff" md5="cf5af6f83b18e20300c5db4dd663b599" sha1="4630d92533a2aef1a76d654eee348307de0c3e23"/>
+	</game>
+	<game name="War in 2100 (1992)(TVCM)(hu)">
+		<description>War in 2100 (1992)(TVCM)(hu)</description>
+		<rom name="war2.cas" size="28539" crc="08d950ea" md5="9b4881e858456783fbe67168e754c431" sha1="1a0eacde5278210386b16ac10f5d5d0857d9dbe9"/>
+		<rom name="war2100.cas" size="8867" crc="af10c7f0" md5="feabfcaababe2415bba36038382a9837" sha1="c0bca3cb4dfd5cc13fc4d0a4af75a783bb1a6d2a"/>
+	</game>
+</datafile>

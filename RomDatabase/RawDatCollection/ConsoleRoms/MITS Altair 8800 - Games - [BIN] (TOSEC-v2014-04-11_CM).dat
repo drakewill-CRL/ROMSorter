@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>MITS Altair 8800 - Games - [BIN]</name>
+		<description>MITS Altair 8800 - Games - [BIN] (TOSEC-v2014-04-11)</description>
+		<category>TOSEC</category>
+		<version>2014-04-11</version>
+		<author>TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="4D Tic-Tac-Toe (19xx)(-)[dazzler output][$0000]">
+		<description>4D Tic-Tac-Toe (19xx)(-)[dazzler output][$0000]</description>
+		<rom name="4D Tic-Tac-Toe (19xx)(-)[dazzler output][$0000].bin" size="2048" crc="d85f5707" md5="908815f11408d0cd34bc5030202815f7" sha1="fc84839777cef0852c094ba116670af44bff93e1"/>
+	</game>
+	<game name="Cross &amp; Circle v1.0 (1976-08-30)(-)[dazzler output][$0000]">
+		<description>Cross &amp; Circle v1.0 (1976-08-30)(-)[dazzler output][$0000]</description>
+		<rom name="Cross &amp; Circle v1.0 (1976-08-30)(-)[dazzler output][$0000].bin" size="2780" crc="f341ed03" md5="e6b2fdfb2139bc570a54d98e5371d6ba" sha1="728d586b1f01bb7c5d71d28d6540a8762dafd9ac"/>
+	</game>
+	<game name="Gotcha (19xx)(-)[dazzler output][$0000]">
+		<description>Gotcha (19xx)(-)[dazzler output][$0000]</description>
+		<rom name="Gotcha (19xx)(-)[dazzler output][$0000].bin" size="865" crc="db6e0962" md5="622e1767ab55f3d512ac80797ab172e7" sha1="95938bbada9bedbca33784e2f984c9d3f120f1cf"/>
+	</game>
+	<game name="Spacewar (19xx)(-)[dazzler output][$0000]">
+		<description>Spacewar (19xx)(-)[dazzler output][$0000]</description>
+		<rom name="Spacewar (19xx)(-)[dazzler output][$0000].bin" size="3841" crc="4f1c583e" md5="af72d6daf0930df0f970745b6efd24b4" sha1="54c68155f0898de6813316d103089f7974e5484b"/>
+	</game>
+	<game name="Track (19xx)(-)[dazzler output][$0000]">
+		<description>Track (19xx)(-)[dazzler output][$0000]</description>
+		<rom name="Track (19xx)(-)[dazzler output][$0000].bin" size="916" crc="c14aeaf5" md5="f6e0ae4fbb3df54e9c6934a83b4ca3ba" sha1="af5f075c80e9ee53dbd64b634142a9d6bf9a752c"/>
+	</game>
+</datafile>

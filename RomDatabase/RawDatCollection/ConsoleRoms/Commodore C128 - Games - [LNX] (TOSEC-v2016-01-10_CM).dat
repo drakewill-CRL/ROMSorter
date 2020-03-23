@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C128 - Games - [LNX]</name>
+		<description>Commodore C128 - Games - [LNX] (TOSEC-v2016-01-10)</description>
+		<category>TOSEC</category>
+		<version>2016-01-10</version>
+		<author>Duncan Twain - DesertWolf - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Chess 128 (19xx)(-)[b]">
+		<description>Chess 128 (19xx)(-)[b]</description>
+		<rom name="Chess 128 (19xx)(-)[b].lnx" size="14080" crc="535be52e" md5="790908e1fb1a0551f2e7733424c49721" sha1="328b10bceb7a28dce48538f777a1b427e89712b4"/>
+	</game>
+	<game name="Mah-Jong (19xx)(-)[SDA]">
+		<description>Mah-Jong (19xx)(-)[SDA]</description>
+		<rom name="Mah-Jong (19xx)(-)[SDA].lnx" size="19584" crc="0d4193a9" md5="97beb73c3d8c575ffdb9f2f5ba421d19" sha1="7451e36abe2272922c12126590fbe90ea2afb2b3"/>
+	</game>
+	<game name="Prince&apos;s Quest (19xx)(-)[b]">
+		<description>Prince&apos;s Quest (19xx)(-)[b]</description>
+		<rom name="Prince&apos;s Quest (19xx)(-)[b].lnx" size="123520" crc="0a5b1baf" md5="7713d25fd3542b767aee367d60fb3ab1" sha1="dfe64e14386ad705b0a4969f60d0492603a3250c"/>
+	</game>
+</datafile>

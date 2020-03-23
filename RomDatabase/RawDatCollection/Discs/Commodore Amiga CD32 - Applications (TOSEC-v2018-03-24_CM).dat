@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore Amiga CD32 - Applications</name>
+		<description>Commodore Amiga CD32 - Applications (TOSEC-v2018-03-24)</description>
+		<category>TOSEC-ISO</category>
+		<version>2018-03-24</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Amiga Workbench CD - 32 3.0 (1993)(Commodore)(DE)(en)[!]">
+		<description>Amiga Workbench CD - 32 3.0 (1993)(Commodore)(DE)(en)[!]</description>
+		<rom name="Amiga Workbench CD - 32 3.0 (1993)(Commodore)(DE)(en)[!].cue" size="145" crc="8460835a" md5="30a2c963e0e9423a6632b27df77c94ba" sha1="1f0747ad240147ad575b89cefc38f9b9196c1f9e"/>
+		<rom name="Amiga Workbench CD - 32 3.0 (1993)(Commodore)(DE)(en)[!].iso" size="1634304" crc="844c763c" md5="e84c5c63b08a54175aa917a10e23647a" sha1="cbe8017a3ec655205ec7b65f24529c2cd9111249"/>
+	</game>
+	<game name="CD Micro French (1994)(LCL)">
+		<description>CD Micro French (1994)(LCL)</description>
+		<rom name="CD Micro French (1994)(LCL)(Track 1 of 7).iso" size="6277488" crc="b52bc676" md5="9964895dec22c3a6e47cb761ffa2e2bd" sha1="613dc0ba3c35512b4b3d0dccfde7050a3ed1bbbc"/>
+		<rom name="CD Micro French (1994)(LCL)(Track 2 of 7).wav" size="6733834" crc="aef8ba46" md5="a01437db64d6804ace1949ed6299d668" sha1="6003463eebb512bfc4c4ad6a5f8f8b4124fc6cd6"/>
+		<rom name="CD Micro French (1994)(LCL)(Track 3 of 7).wav" size="6075274" crc="d44e8e3f" md5="ac37a7a4b0adda81d8bcc334dca0a20b" sha1="3846c9d6bf69d3e224f82cccb46ed26d2f1e6172"/>
+		<rom name="CD Micro French (1994)(LCL)(Track 4 of 7).wav" size="6378682" crc="0295d271" md5="b7f4868d839627462404e4cb4674b376" sha1="97dde9931cd3fdaebe96c2972bdbc320a0fbbae6"/>
+		<rom name="CD Micro French (1994)(LCL)(Track 5 of 7).wav" size="6228154" crc="9d98fa61" md5="fb43bc6682b2d535c9c9cb71e7221a30" sha1="9d705d7330365a402a1618e35809904d2ce5b685"/>
+		<rom name="CD Micro French (1994)(LCL)(Track 6 of 7).wav" size="7133674" crc="2ea8b0a6" md5="1d92e0f3fc4f826171679a36dc449ebf" sha1="09d28269ef1961f7c8da46a482565617160de7e3"/>
+		<rom name="CD Micro French (1994)(LCL)(Track 7 of 7).wav" size="6604474" crc="87d4421c" md5="0595599eb945cbb9f8cea3c6d9d78497" sha1="9a223528065c52663a91b3c797ae3eccbe8eba1e"/>
+		<rom name="CD Micro French (1994)(LCL).cue" size="888" crc="e61e9e1c" md5="0bd32b309135b5509969b014b1309f8c" sha1="3da134671edfafc9a89ccace6ded547224821734"/>
+	</game>
+	<game name="Communicator II (1994)(Eureka)">
+		<description>Communicator II (1994)(Eureka)</description>
+		<rom name="Communicator II (1994)(Eureka).cue" size="119" crc="f3a3b4cb" md5="15fdaade632f57be6f9816f397e5c706" sha1="9412afb23d24acc5eb8d161c811998bd08690502"/>
+		<rom name="Communicator II (1994)(Eureka).iso" size="9054208" crc="76e53e5e" md5="c071ce18506bf317ca40996eb2fd2233" sha1="95cd99100c5e1a36dde658cef6e0e9b97525673b"/>
+	</game>
+	<game name="Communicator III (1994)(Eureka)(M3)[!]">
+		<description>Communicator III (1994)(Eureka)(M3)[!]</description>
+		<rom name="Communicator III (1994)(Eureka)(M3)[!].cue" size="127" crc="926cf966" md5="5b09000293e8b4dc67d52a005a4e90da" sha1="66465cb0e62ddd635286a32c0f0cd462cd4bd970"/>
+		<rom name="Communicator III (1994)(Eureka)(M3)[!].iso" size="48044032" crc="7eb8b58b" md5="ed02e5074b7ec923afef24ab16c57b73" sha1="2cea5dc40a8ab1883d50f4c1e82ff7d9ff22f50b"/>
+	</game>
+	<game name="FolioworX Player v1.34f (1995)(COME)[!][Amiga-CD32]">
+		<description>FolioworX Player v1.34f (1995)(COME)[!][Amiga-CD32]</description>
+		<rom name="FolioworX Player v1.34f (1995)(COME)[!][Amiga-CD32].cue" size="140" crc="52567d98" md5="d6fc5c90ab6a9fc2b1492de074cc1b2f" sha1="798de98096e868dbf9869f92ed856563842c317e"/>
+		<rom name="FolioworX Player v1.34f (1995)(COME)[!][Amiga-CD32].iso" size="1437696" crc="6d912b19" md5="a0ff8bf85fca2e4fae3d85bd520f79f5" sha1="650bc64432a330afdb9ea5871b4d084e41be6277"/>
+	</game>
+	<game name="Network CD Volume 2 (1995)(Weird Science)[!]">
+		<description>Network CD Volume 2 (1995)(Weird Science)[!]</description>
+		<rom name="Network CD Volume 2 (1995)(Weird Science)[!].cue" size="133" crc="014ad67c" md5="c9abd5b3057209dfc2e92cd9a3808fa7" sha1="b0a3052acad8781ee3f37aa1c6e55b85e80f325a"/>
+		<rom name="Network CD Volume 2 (1995)(Weird Science)[!].iso" size="659419136" crc="9d9ddf23" md5="150febdf82894474df1bcf1cf823c7dc" sha1="86208437e9b9663f4e0c5f59130b638dbe7ebd65"/>
+	</game>
+	<game name="PhotoLite (1994)(Eureka)(de-en)[!]">
+		<description>PhotoLite (1994)(Eureka)(de-en)[!]</description>
+		<rom name="PhotoLite (1994)(Eureka)(de-en)[!].cue" size="123" crc="1f6500ba" md5="e0e6c4117c05e7fe755b46d9233ad3c1" sha1="10b3c2abb8aa4917bf25fd3dc290ec3ecc127838"/>
+		<rom name="PhotoLite (1994)(Eureka)(de-en)[!].iso" size="1001472" crc="3a8f81a8" md5="c44aa4f6bc94dd6f11a3d2ee6f46ca06" sha1="ac30eb0d3cd51c524c704980ce6b2fdf451f1c1d"/>
+	</game>
+	<game name="Video Creator v1.1 (1994)(Almathera)[!][FMV enhanced]">
+		<description>Video Creator v1.1 (1994)(Almathera)[!][FMV enhanced]</description>
+		<rom name="Video Creator v1.1 (1994)(Almathera)(Track 1 of 2)[!][FMV enhanced].iso" size="121792512" crc="4b438965" md5="b5f7a1b93dd529dc62e8a5d198e6522b" sha1="7b44974534b0d03c4a098452feec465d40691e96"/>
+		<rom name="Video Creator v1.1 (1994)(Almathera)(Track 2 of 2)[!][FMV enhanced].wav" size="5202668" crc="89ef7e2a" md5="e9030c189538dd9fe035189e1a8482d1" sha1="3c9880777591da28d49fee19e7e5323841f163dd"/>
+		<rom name="Video Creator v1.1 (1994)(Almathera)[!][FMV enhanced].cue" size="303" crc="40e28a54" md5="ee4f9203b507f9b073b6638681d8bf55" sha1="7e7e195aacd7593d44f4164731320eb7e42c4b13"/>
+	</game>
+</datafile>

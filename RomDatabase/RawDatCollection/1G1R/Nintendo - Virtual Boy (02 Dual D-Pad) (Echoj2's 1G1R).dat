@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo - Virtual Boy (02 Dual D-Pad) (Echoj2's 1G1R)</name>
+		<description>Nintendo - Virtual Boy (02 Dual D-Pad) (Echoj2's 1G1R)</description>
+		<category>Standard DatFile</category>
+		<version>20180623-100000</version>
+		<date>-insert date-</date>
+		<author>Eckaji</author>
+		<email>-insert email-</email>
+		<homepage>r/SBCGaming</homepage>
+		<url>https://discord.gg/JdXc6nx</url>
+		<comment>-insert comment-</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="3-D Tetris (USA)">
+		<description>3-D Tetris (USA)</description>
+		<rom name="3-D Tetris (USA).vb" size="1048576" crc="bb71b522" md5="ecf1218706e9b547eab9e4be58d54e21" sha1="5177015a91442e56bd76af39447bca365e06c272"/>
+	</machine>
+	<machine name="Red Alarm (USA)">
+		<description>Red Alarm (USA)</description>
+		<rom name="Red Alarm (USA).vb" size="1048576" crc="aa10a7b4" md5="e56e85761f52a613b34079d5322088ce" sha1="494fa60cb8997880b4e8cd3270b21d6c2768a48a"/>
+	</machine>
+	<machine name="Teleroboxer (Japan, USA)">
+		<description>Teleroboxer (Japan, USA)</description>
+		<rom name="Teleroboxer (Japan, USA).vb" size="1048576" crc="36103000" md5="0742a861a599fe3361aac6ebef6745a7" sha1="c59e020f9674774c5cbc022317ebba0eb1d744f7"/>
+	</machine>
+	<machine name="Vertical Force (USA)">
+		<description>Vertical Force (USA)</description>
+		<rom name="Vertical Force (USA).vb" size="1048576" crc="4c32ba5e" md5="87c38f66d5b9ead72af22f515a3a5f51" sha1="38f9008f60b09deef1151d46b905b090a0338200"/>
+	</machine>
+</datafile>

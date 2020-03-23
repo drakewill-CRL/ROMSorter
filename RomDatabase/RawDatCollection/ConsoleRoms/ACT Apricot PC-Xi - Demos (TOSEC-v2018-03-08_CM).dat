@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>ACT Apricot PC-Xi - Demos</name>
+		<description>ACT Apricot PC-Xi - Demos (TOSEC-v2018-03-08)</description>
+		<category>TOSEC</category>
+		<version>2018-03-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Demonstration Pictures (1984)(ACT)">
+		<description>Demonstration Pictures (1984)(ACT)</description>
+		<rom name="Demonstration Pictures (1984)(ACT).dsk" size="307631" crc="7db75019" md5="03fb7e9de18c643f924db327f97edbbc" sha1="2b8f002588304c5ef23c13c9be9c167a7ceed0c9"/>
+	</game>
+</datafile>

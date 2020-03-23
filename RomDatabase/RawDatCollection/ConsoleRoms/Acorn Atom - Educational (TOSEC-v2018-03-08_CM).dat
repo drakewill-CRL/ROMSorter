@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Acorn Atom - Educational</name>
+		<description>Acorn Atom - Educational (TOSEC-v2018-03-08)</description>
+		<category>TOSEC</category>
+		<version>2018-03-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Peeko-Computer (1981)(Acornsoft)">
+		<description>Peeko-Computer (1981)(Acornsoft)</description>
+		<rom name="Peeko-Computer (1981)(Acornsoft).uef" size="4483" crc="0c74b9c7" md5="e962b14af4b22cb330e660badbe75723" sha1="bf804a058a5012b12d3b4c9dbc44d885c42e1c8c"/>
+	</game>
+</datafile>

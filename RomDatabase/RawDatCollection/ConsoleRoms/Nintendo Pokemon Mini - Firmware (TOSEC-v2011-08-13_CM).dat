@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo Pokemon Mini - Firmware</name>
+		<description>Nintendo Pokemon Mini - Firmware (TOSEC-v2011-08-13)</description>
+		<category>TOSEC</category>
+		<version>2011-08-13</version>
+		<author>Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Nintendo Pokemon Mini BIOS (2001)(Nintendo)">
+		<description>Nintendo Pokemon Mini BIOS (2001)(Nintendo)</description>
+		<rom name="Nintendo Pokemon Mini BIOS (2001)(Nintendo).bin" size="4096" crc="aed3c14d" md5="1e4fb124a3a886865acb574f388c803d" sha1="daad4113713ed776fbd47727762bca81ba74915f"/>
+	</game>
+</datafile>

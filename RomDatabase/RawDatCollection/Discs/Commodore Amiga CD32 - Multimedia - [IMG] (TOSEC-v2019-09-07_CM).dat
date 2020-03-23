@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore Amiga CD32 - Multimedia - [IMG]</name>
+		<description>Commodore Amiga CD32 - Multimedia - [IMG] (TOSEC-v2019-09-07)</description>
+		<category>TOSEC</category>
+		<version>2019-09-07</version>
+		<author>Tomse - TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Demo Disc, The - Commodore Amiga CD32 Demonstration Disc 1.1 r72 (1993)(Commodore)">
+		<description>Demo Disc, The - Commodore Amiga CD32 Demonstration Disc 1.1 r72 (1993)(Commodore)</description>
+		<rom name="Demo Disc, The - Commodore Amiga CD32 Demonstration Disc 1.1 r72 (1993)(Commodore).ccd" size="1536" crc="36c81431" md5="42397d5028c6955a0e04a85de2977f24" sha1="f2de33b64a0306de2ab9e95477a8cfd8e87eb8e9"/>
+		<rom name="Demo Disc, The - Commodore Amiga CD32 Demonstration Disc 1.1 r72 (1993)(Commodore).cue" size="302" crc="72526c51" md5="acb553767323f48c9848c3dedaa9c8ab" sha1="296bd4317788bc832d44c73b21b4b0413be2b764"/>
+		<rom name="Demo Disc, The - Commodore Amiga CD32 Demonstration Disc 1.1 r72 (1993)(Commodore).img" size="417294192" crc="4118d2a2" md5="2368952de8e18ffe573f5ea214e2708d" sha1="c9c066644b6966b9176372d9c09a8ebd2d23cc80"/>
+		<rom name="Demo Disc, The - Commodore Amiga CD32 Demonstration Disc 1.1 r72 (1993)(Commodore).sub" size="17032416" crc="3df0615d" md5="5e260dcddd3f503b42803d16349d017f" sha1="04b9f42fa2568ff5b3fbecdb0288c0eca340810e"/>
+	</game>
+	<game name="Demo Disc, The - Commodore Amiga CD32 Demonstration Disc 2.0 (1994)(Commodore)">
+		<description>Demo Disc, The - Commodore Amiga CD32 Demonstration Disc 2.0 (1994)(Commodore)</description>
+		<rom name="Demo Disc, The - Commodore Amiga CD32 Demonstration Disc 2.0 (1994)(Commodore).ccd" size="1726" crc="a1ccf094" md5="5c88c06250b166e7571146202ae6846e" sha1="a36df6e69af1ead9ddeba4f9d2bc0b8abe9eb3e7"/>
+		<rom name="Demo Disc, The - Commodore Amiga CD32 Demonstration Disc 2.0 (1994)(Commodore).cue" size="352" crc="b76eb7d4" md5="5e650a42f7b359d6336d6239f62075b8" sha1="f5f717b52f77c161549d599bf06573081eac8bfa"/>
+		<rom name="Demo Disc, The - Commodore Amiga CD32 Demonstration Disc 2.0 (1994)(Commodore).img" size="648512256" crc="54bbefe0" md5="efe2a520af9261940c17b5fa1e66f74b" sha1="c0923ad4354f226bd414194b3ca15f13116a1d75"/>
+		<rom name="Demo Disc, The - Commodore Amiga CD32 Demonstration Disc 2.0 (1994)(Commodore).sub" size="26469888" crc="7e16b047" md5="e6222ba9105a2531065fa3f6ffebb7f3" sha1="1a1938518a95735bd21e8034465426820343d22a"/>
+	</game>
+	<game name="Enciclopedia Elettronica Multimediale Grolier - Edizione 1994 (1994)(Grolier Hachette International)(IT)">
+		<description>Enciclopedia Elettronica Multimediale Grolier - Edizione 1994 (1994)(Grolier Hachette International)(IT)</description>
+		<rom name="Enciclopedia Elettronica Multimediale Grolier - Edizione 1994 (1994)(Grolier Hachette I.ccd" size="792" crc="e0be80da" md5="4dac743e034804f361566200c4f65ffe" sha1="e2f0221d17694cc070a398e0b35e716409a28cdb"/>
+		<rom name="Enciclopedia Elettronica Multimediale Grolier - Edizione 1994 (1994)(Grolier Hachette I.cue" size="168" crc="9ab2b6cd" md5="583d956b8024c3066b827deb5cb9b5d9" sha1="3bbab854b61c612120046e67f833bec8ef4eaf3d"/>
+		<rom name="Enciclopedia Elettronica Multimediale Grolier - Edizione 1994 (1994)(Grolier Hachette I.img" size="736716960" crc="eb9c292d" md5="77188db7e6026795607cb72efad82ebf" sha1="feecedf5e18b9e55e236542e869a2e508c8b61ea"/>
+		<rom name="Enciclopedia Elettronica Multimediale Grolier - Edizione 1994 (1994)(Grolier Hachette I.sub" size="30070080" crc="8c5d0177" md5="9ea765a4e9750dc89db04af78e5da0e9" sha1="4dff67c5a50439703c11e32a121ff8904dba9a49"/>
+	</game>
+	<game name="Guinness Disc of Records, The - Second Edition (1993)(Commodore)[CDRM-1142100 2]">
+		<description>Guinness Disc of Records, The - Second Edition (1993)(Commodore)[CDRM-1142100 2]</description>
+		<rom name="Guinness Disc of Records, The - Second Edition (1993)(Commodore)[CDRM-1142100 2].ccd" size="792" crc="7d457496" md5="23c0976e066ac52d7f4056041d7e6e87" sha1="e021a37fd33588ac55bdc5a0f8a460ae87dd3d2f"/>
+		<rom name="Guinness Disc of Records, The - Second Edition (1993)(Commodore)[CDRM-1142100 2].cue" size="144" crc="f7f80dfd" md5="5f6038726b18dfaeeb20c2e421272c4e" sha1="569f5ecd9850c3d9804a49547b06f688e2fc6f4b"/>
+		<rom name="Guinness Disc of Records, The - Second Edition (1993)(Commodore)[CDRM-1142100 2].img" size="609057456" crc="864ff824" md5="16193c2b346d25d0a3cf8d594aebf32e" sha1="1fdfad51914360defa923ce72255017897f7481a"/>
+		<rom name="Guinness Disc of Records, The - Second Edition (1993)(Commodore)[CDRM-1142100 2].sub" size="24859488" crc="5507fad2" md5="03cbd2b861034e80a1dd6e4f819df46e" sha1="8e7f3e191ef3213c157d17d48e6a115c243dd7c2"/>
+	</game>
+</datafile>

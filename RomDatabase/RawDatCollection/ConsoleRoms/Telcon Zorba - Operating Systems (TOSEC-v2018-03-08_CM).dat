@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Telcon Zorba - Operating Systems</name>
+		<description>Telcon Zorba - Operating Systems (TOSEC-v2018-03-08)</description>
+		<category>TOSEC</category>
+		<version>2018-03-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="CPM-80 v2.2 - Zorba BIOS v1.6 (1983-01-01)(Telcon)(Disk 1 of 3)(System Disk 1)">
+		<description>CPM-80 v2.2 - Zorba BIOS v1.6 (1983-01-01)(Telcon)(Disk 1 of 3)(System Disk 1)</description>
+		<rom name="CPM-80 v2.2 - Zorba BIOS v1.6 (1983-01-01)(Telcon)(Disk 1 of 3)(System Disk 1).td0" size="193670" crc="a4530528" md5="fced706ba9a27ce917328b00dbc56bd4" sha1="ff29f06c57485e8ff41f2217daac63598bdaa74e"/>
+	</game>
+	<game name="CPM-80 v2.2 - Zorba BIOS v1.6 (1983-01-01)(Telcon)(Disk 2 of 3)(System Disk 2)">
+		<description>CPM-80 v2.2 - Zorba BIOS v1.6 (1983-01-01)(Telcon)(Disk 2 of 3)(System Disk 2)</description>
+		<rom name="CPM-80 v2.2 - Zorba BIOS v1.6 (1983-01-01)(Telcon)(Disk 2 of 3)(System Disk 2).td0" size="171990" crc="993b96ce" md5="2b825de7dbe50892a89418e212f055da" sha1="ac3bcd735244d3a6405dd02efbb37f944174ad3a"/>
+	</game>
+	<game name="CPM-80 v2.2 - Zorba BIOS v1.6 (1983-01-01)(Telcon)(Disk 3 of 3)(Utility Disk)">
+		<description>CPM-80 v2.2 - Zorba BIOS v1.6 (1983-01-01)(Telcon)(Disk 3 of 3)(Utility Disk)</description>
+		<rom name="CPM-80 v2.2 - Zorba BIOS v1.6 (1983-01-01)(Telcon)(Disk 3 of 3)(Utility Disk).td0" size="226552" crc="b65c0436" md5="f5c64d0e7207e264cdfd1348cacf3a2b" sha1="9f8ed5dd2167f5b9f0abd27fa6d4ed1f50646d2f"/>
+	</game>
+	<game name="CPM-80 v2.2 - Zorba BIOS v1.6 (1983-01-01)(Telcon)(System Disk)[96TPI]">
+		<description>CPM-80 v2.2 - Zorba BIOS v1.6 (1983-01-01)(Telcon)(System Disk)[96TPI]</description>
+		<rom name="CPM-80 v2.2 - Zorba BIOS v1.6 (1983-01-01)(Telcon)(System Disk)[96TPI].td0" size="171898" crc="6df3c58e" md5="703b26bbe855ec5b37090e704701b9ad" sha1="3a15e3b927f88fa34e6e6cdfffc272ff83b2a061"/>
+	</game>
+	<game name="CPM-80 v2.2 - Zorba BIOS v1.7 (1984-01-01)(Telcon)(Source Disk)">
+		<description>CPM-80 v2.2 - Zorba BIOS v1.7 (1984-01-01)(Telcon)(Source Disk)</description>
+		<rom name="CPM-80 v2.2 - Zorba BIOS v1.7 (1984-01-01)(Telcon)(Source Disk).td0" size="139002" crc="1c549210" md5="4c87936f375a9b92f16262bb34056b4a" sha1="0ceff17dca1e9cfb7306d9e04d6c323cf434d2f2"/>
+	</game>
+	<game name="CPM-80 v2.2 - Zorba BIOS v1.7 (1984-01-01)(Telcon)(Utility Disk)">
+		<description>CPM-80 v2.2 - Zorba BIOS v1.7 (1984-01-01)(Telcon)(Utility Disk)</description>
+		<rom name="CPM-80 v2.2 - Zorba BIOS v1.7 (1984-01-01)(Telcon)(Utility Disk).td0" size="109526" crc="da09bdd8" md5="d4a47a1984e3ea09f18781874c8e5b71" sha1="6d78efec8441833498025a2852504489dade9d94"/>
+	</game>
+	<game name="Digital Research CPM-86 v1.1 (1983-01-01)(SWP)(Zorba System Disk)[req Co-Power-88 expansion]">
+		<description>Digital Research CPM-86 v1.1 (1983-01-01)(SWP)(Zorba System Disk)[req Co-Power-88 expansion]</description>
+		<rom name="Digital Research CPM-86 v1.1 (1983-01-01)(SWP)(Zorba System Disk)[req Co-Power-88 expansion].td0" size="247616" crc="d6137dca" md5="9c199d7720cb15eb0300e19865ff7cd6" sha1="0feba6c3c36f28be5aec57ec877ea57e67d1754a"/>
+	</game>
+	<game name="PC-DOS v2.11 (1983-03-01)(SWP)(Disk 1 of 2)(System Disk 1)[req Co-Power-88 expansion]">
+		<description>PC-DOS v2.11 (1983-03-01)(SWP)(Disk 1 of 2)(System Disk 1)[req Co-Power-88 expansion]</description>
+		<rom name="PC-DOS v2.11 (1983-03-01)(SWP)(Disk 1 of 2)(System Disk 1)[req Co-Power-88 expansion].td0" size="227363" crc="c6291464" md5="81d8adabf331b83c8687bb999861c76c" sha1="68b7ccd7ffac98f76bca48ae4cae2fccd70f8a51"/>
+	</game>
+	<game name="PC-DOS v2.11 (1983-03-01)(SWP)(Disk 2 of 2)(System Disk 2)[req Co-Power-88 expansion]">
+		<description>PC-DOS v2.11 (1983-03-01)(SWP)(Disk 2 of 2)(System Disk 2)[req Co-Power-88 expansion]</description>
+		<rom name="PC-DOS v2.11 (1983-03-01)(SWP)(Disk 2 of 2)(System Disk 2)[req Co-Power-88 expansion].td0" size="228103" crc="3f898887" md5="7d004d3281d67f37b881e691220468f3" sha1="0071c716f1c6d5be153c5013f29819869f449209"/>
+	</game>
+	<game name="PC-DOS v3.30 (1987-04-01)(SWP)(System Disk)[req Co-Power-88 expansion]">
+		<description>PC-DOS v3.30 (1987-04-01)(SWP)(System Disk)[req Co-Power-88 expansion]</description>
+		<rom name="PC-DOS v3.30 (1987-04-01)(SWP)(System Disk)[req Co-Power-88 expansion].td0" size="322343" crc="ca6260df" md5="c1602e36073c7425c7b8847eddc037f8" sha1="2a0d4988ee2562a98b7af1d345d4899ce55aa8d2"/>
+	</game>
+	<game name="SWP Co-Power-88 for Telcon Zorba (1985-08-01)(SWP)[req Co-Power-88 expansion]">
+		<description>SWP Co-Power-88 for Telcon Zorba (1985-08-01)(SWP)[req Co-Power-88 expansion]</description>
+		<rom name="SWP Co-Power-88 for Telcon Zorba (1985-08-01)(SWP)[req Co-Power-88 expansion].td0" size="39433" crc="f4134db7" md5="9ec447272a3b8f63d5d8b9627129619c" sha1="fc270abad2f715b86138d192ccc7f9ab173e77c9"/>
+	</game>
+</datafile>

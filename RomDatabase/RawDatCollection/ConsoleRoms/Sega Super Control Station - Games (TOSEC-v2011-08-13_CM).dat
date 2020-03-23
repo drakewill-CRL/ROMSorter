@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega Super Control Station - Games</name>
+		<description>Sega Super Control Station - Games (TOSEC-v2011-08-13)</description>
+		<category>TOSEC</category>
+		<version>2011-08-13</version>
+		<author>Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Board Games Collection (19xx)(Le Douarain, Marc)(fr)">
+		<description>Board Games Collection (19xx)(Le Douarain, Marc)(fr)</description>
+		<rom name="Board Games Collection (19xx)(Le Douarain, Marc)(fr).bin" size="163840" crc="a93df954" md5="39371f51abe1c3d52bdcb0507dff07e3" sha1="c335412db8ed6b4c9a25efcf7f21d54eaff13080"/>
+	</game>
+	<game name="Complete Arcade Pack Collection, The (19xx)(-)[p]">
+		<description>Complete Arcade Pack Collection, The (19xx)(-)[p]</description>
+		<rom name="Complete Arcade Pack Collection, The (19xx)(-)[p].bin" size="163840" crc="ad19c0a0" md5="94bc20eabd0674e4f7b30762359c66c1" sha1="e12dd5f93df9f536ce4e6f7c445467358c31145a"/>
+	</game>
+	<game name="Crocky (19xx)(Le Douarain, Marc)[p]">
+		<description>Crocky (19xx)(Le Douarain, Marc)[p]</description>
+		<rom name="Crocky (19xx)(Le Douarain, Marc)[p].bin" size="163840" crc="c98e8e96" md5="a865ffe2cb2c5aa95cc1a2da8ce2a518" sha1="115040e3d548220ca6270054822dcff6b137b7de"/>
+	</game>
+	<game name="Froggy + Cube It (198x)(Scorpion)">
+		<description>Froggy + Cube It (198x)(Scorpion)</description>
+		<rom name="Froggy + Cube It (198x)(Scorpion).bin" size="163840" crc="67d2f298" md5="c5758334f1e455c7819110fe74239f21" sha1="55625ec47e9be66ff632361823c233d7cae0c839"/>
+	</game>
+	<game name="Grandstand Tape Compilation - Games (19xx)(-)[p]">
+		<description>Grandstand Tape Compilation - Games (19xx)(-)[p]</description>
+		<rom name="Grandstand Tape Compilation - Games (19xx)(-)[p].bin" size="163840" crc="a200b487" md5="1de43d3b1147f5291856e3d61152f463" sha1="1bd76012d273df2ecf4a0c9c49514b7d91646004"/>
+	</game>
+	<game name="Jeux Collection 1 (19xx)(Le Douarain, Marc)(fr)">
+		<description>Jeux Collection 1 (19xx)(Le Douarain, Marc)(fr)</description>
+		<rom name="Jeux Collection 1 (19xx)(Le Douarain, Marc)(fr).bin" size="163840" crc="1d1a96ef" md5="9778545434ca8c4e1d55997a96c4c023" sha1="a855f9604ffdb14c3437b16a67f56d643c61d7bc"/>
+	</game>
+	<game name="Jeux Collection 2 (19xx)(Le Douarain, Marc)(fr)">
+		<description>Jeux Collection 2 (19xx)(Le Douarain, Marc)(fr)</description>
+		<rom name="Jeux Collection 2 (19xx)(Le Douarain, Marc)(fr).bin" size="163840" crc="06fc874e" md5="f0a7216f348e2d76f6be2693acdabd3b" sha1="c4341db107c02c314466661ae39be8b2a9ff8a57"/>
+	</game>
+	<game name="Kamikaze (19xx)(Le Douarain, Marc)(fr)[p]">
+		<description>Kamikaze (19xx)(Le Douarain, Marc)(fr)[p]</description>
+		<rom name="Kamikaze (19xx)(Le Douarain, Marc)(fr)[p].bin" size="163840" crc="7654e077" md5="91b5846daac5dffc5f1b72c0378e98d7" sha1="8995356ea9dcca2fbbbf33dc730e391b29b138a4"/>
+	</game>
+	<game name="Olympiades (19xx)(Le Douarain, Marc)(fr)(PD)">
+		<description>Olympiades (19xx)(Le Douarain, Marc)(fr)(PD)</description>
+		<rom name="Olympiades (19xx)(Le Douarain, Marc)(fr)(PD).bin" size="163840" crc="95d917dd" md5="40cfa8259360266d4144c624ca80cf54" sha1="41f24aa32ee30263221176da281562c6d83fb51e"/>
+	</game>
+	<game name="Poseidon Wars + Space Panic + Rambo (1991)(Le Douarain, Marc)(fr)(PD)">
+		<description>Poseidon Wars + Space Panic + Rambo (1991)(Le Douarain, Marc)(fr)(PD)</description>
+		<rom name="Poseidon Wars + Space Panic + Rambo (1991)(Le Douarain, Marc)(fr)(PD).bin" size="163840" crc="5ca7b5c4" md5="180fee8dc10c0949d86ae2eec20751f0" sha1="909d6335034cf9e241d7fc4c8074a280b5c4112f"/>
+	</game>
+</datafile>

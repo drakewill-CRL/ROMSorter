@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Coleco ColecoVision ADAM - Applications - [BAS]</name>
+		<description>Coleco ColecoVision ADAM - Applications - [BAS] (TOSEC-v2011-08-31)</description>
+		<category>TOSEC</category>
+		<version>2011-08-31</version>
+		<author>Grendel - Cid - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Access Starter (1985)(Vincent, Fred)">
+		<description>Access Starter (1985)(Vincent, Fred)</description>
+		<rom name="Access Starter (1985)(Vincent, Fred).bas" size="1951" crc="b2e78e67" md5="697c0d3677b418e6a19bb4046735fdc8" sha1="64df081d51a391335df30ceb28f503b50df3f6f9"/>
+	</game>
+	<game name="ADAM Chat v2.0 (198x)(Neeley, Alan)(PD)">
+		<description>ADAM Chat v2.0 (198x)(Neeley, Alan)(PD)</description>
+		<rom name="ADAM Chat v2.0 (198x)(Neeley, Alan)(PD).bas" size="6272" crc="67cf68e8" md5="18164221af2a4900920ed395ccda71d5" sha1="f417e894cffeb16999312e0bd9eace2745c71e9f"/>
+	</game>
+	<game name="ADAM Z80 Hexadecimal Disassembler (1985)(Havach, George A.)">
+		<description>ADAM Z80 Hexadecimal Disassembler (1985)(Havach, George A.)</description>
+		<rom name="ADAM Z80 Hexadecimal Disassembler (1985)(Havach, George A.).bas" size="22913" crc="4b84d9f9" md5="8cc9e186900dcc7833630e97c295ff91" sha1="5e12f8a16dacb066d531a813276b3047885b1370"/>
+	</game>
+	<game name="ADAMRLE (19xx)(Allen, Louis)">
+		<description>ADAMRLE (19xx)(Allen, Louis)</description>
+		<rom name="ADAMRLE (19xx)(Allen, Louis).bas" size="1934" crc="3b00d796" md5="687fc235426e7696bddda5304e612774" sha1="36573b0c3ca1bfb0589ae411ab678d5d44882812"/>
+	</game>
+	<game name="Address Filing Program (19xx)(Neely, Alan)">
+		<description>Address Filing Program (19xx)(Neely, Alan)</description>
+		<rom name="Address Filing Program (19xx)(Neely, Alan).bas" size="7168" crc="06bb4d9f" md5="061c6635c4f5dbff7755a12c89ac99d7" sha1="3b31b03f79266cb3b3b58680ce3d3f31e7383079"/>
+	</game>
+	<game name="Basic Calculator (1986)(Lennes, Bon)">
+		<description>Basic Calculator (1986)(Lennes, Bon)</description>
+		<rom name="Basic Calculator (1986)(Lennes, Bon).bas" size="2826" crc="53b526ed" md5="a07dbc10b6626c299d2c3ab2d9f76c7a" sha1="7d1ddd98134b78830a23a177cbffb319b0d25aca"/>
+	</game>
+	<game name="BASIC Cross Reference Program (1989)(Braymen, Chris)">
+		<description>BASIC Cross Reference Program (1989)(Braymen, Chris)</description>
+		<rom name="BASIC Cross Reference Program (1989)(Braymen, Chris).bas" size="3327" crc="64256d81" md5="d20fdbe247d57630e11eac931a12f5e8" sha1="baa46936efedd51aa6eec89362009998543d3ea6"/>
+	</game>
+	<game name="Basic Source Editor (1987)(Clary, Thomas E.)">
+		<description>Basic Source Editor (1987)(Clary, Thomas E.)</description>
+		<rom name="Basic Source Editor (1987)(Clary, Thomas E.).bas" size="2560" crc="ae8d91e4" md5="bed0ed634cdf8136e73d24472f33ffe5" sha1="b16388d7879b07155f6375cfc9a94de16ca3ac7d"/>
+	</game>
+	<game name="BBS Helper (19xx)(Fromm, R.)">
+		<description>BBS Helper (19xx)(Fromm, R.)</description>
+		<rom name="BBS Helper (19xx)(Fromm, R.).bas" size="2316" crc="0a8c0a7f" md5="ad45ed5647788139181dc648f07f333b" sha1="06b23f01df359783c51d19efeb2d487e8ec63738"/>
+	</game>
+	<game name="BinHex (1985)(L.O.F. Communications)">
+		<description>BinHex (1985)(L.O.F. Communications)</description>
+		<rom name="BinHex (1985)(L.O.F. Communications).bas" size="1938" crc="86b4ff32" md5="03b838904ceb762394ad09aca298020a" sha1="467cfe8220d3151e129b4406f962e6676097f716"/>
+	</game>
+	<game name="Catch (19xx)(Thibeault, Rick)">
+		<description>Catch (19xx)(Thibeault, Rick)</description>
+		<rom name="Catch (19xx)(Thibeault, Rick).bas" size="2284" crc="253dce88" md5="25affcac01322a4c8a9d69c50d318fde" sha1="029fe170be129decba3a96688e26a64d960a875f"/>
+	</game>
+	<game name="Color Calculator (19xx)(Sheppard, Joseph)(PD)">
+		<description>Color Calculator (19xx)(Sheppard, Joseph)(PD)</description>
+		<rom name="Color Calculator (19xx)(Sheppard, Joseph)(PD).bas" size="894" crc="984c64e5" md5="9d51e6baa0215c5f77e8993d926de6ba" sha1="07f0a7818395aa368a208a70a56f47876b8e24aa"/>
+	</game>
+	<game name="Conversions (1984)(Court, Jonathan)">
+		<description>Conversions (1984)(Court, Jonathan)</description>
+		<rom name="Conversions (1984)(Court, Jonathan).bas" size="7993" crc="165d53d0" md5="40b113ae8268216f1ce96959bdf71dfe" sha1="46fc3dfb2e6f24843f269e8f29f9145813dec70b"/>
+	</game>
+	<game name="CPM-Smartwriter Filter Utility (1985)(Chesware)">
+		<description>CPM-Smartwriter Filter Utility (1985)(Chesware)</description>
+		<rom name="CPM-Smartwriter Filter Utility (1985)(Chesware).bas" size="2708" crc="d350b893" md5="55fa7e5ffec2f221fbe363ec6a5ae57b" sha1="0c19ce237832216040859fa2431adb69186ccf15"/>
+	</game>
+	<game name="Dialer (1990)(Allen, Jr., Louis)">
+		<description>Dialer (1990)(Allen, Jr., Louis)</description>
+		<rom name="Dialer (1990)(Allen, Jr., Louis).bas" size="2319" crc="d396268b" md5="2e09e5bcdf7748e19b5ae93ccf216687" sha1="8c8506b15224706059492d8e1a97382ebb036f8b"/>
+	</game>
+	<game name="DNS-Link v1.0 (1985)(TAB Books - DNS Software)">
+		<description>DNS-Link v1.0 (1985)(TAB Books - DNS Software)</description>
+		<rom name="DNS-Link v1.0 (1985)(TAB Books - DNS Software).bas" size="10497" crc="78353f71" md5="262eb4ab2bb073fb29adfbf016aeb92c" sha1="187c12d80d0b620d5e4440aeb052b6a67f7a729f"/>
+	</game>
+	<game name="Dvorak Demonstrator!, The (19xx)(Goebel, Jim)">
+		<description>Dvorak Demonstrator!, The (19xx)(Goebel, Jim)</description>
+		<rom name="Dvorak Demonstrator!, The (19xx)(Goebel, Jim).bas" size="2848" crc="2ccea347" md5="3358c5a8d37d9800066816ac3112d84a" sha1="fd1f179bf2ed0367fe6f919deb98de6e23f02395"/>
+	</game>
+	<game name="EPSON Printer Control Program (19xx)(Wester, M.L.)">
+		<description>EPSON Printer Control Program (19xx)(Wester, M.L.)</description>
+		<rom name="EPSON Printer Control Program (19xx)(Wester, M.L.).bas" size="6731" crc="3f0c725c" md5="8998ed6bad5365157175aa699e419977" sha1="6d4dedf4cc1fd8f9ae0f929da214d9cc6cca2afe"/>
+	</game>
+	<game name="FileLock (198x)(Jones, Bob)(PD)">
+		<description>FileLock (198x)(Jones, Bob)(PD)</description>
+		<rom name="FileLock (198x)(Jones, Bob)(PD).bas" size="1252" crc="63cb9850" md5="57a948a5e9bdd3b5b782e7cf931aacee" sha1="b2faf1cfd585d088c24043cc88effe768c72c16d"/>
+	</game>
+	<game name="Flying Line (1987)(Braymen, Chris)">
+		<description>Flying Line (1987)(Braymen, Chris)</description>
+		<rom name="Flying Line (1987)(Braymen, Chris).bas" size="3251" crc="8041bf9c" md5="7ec2d73158ea462dda1ca372bf18ef9c" sha1="dafd429aac2345fd1c0e686c0d0a9564f3988501"/>
+	</game>
+	<game name="Graphcon - The Graphic Conversion Program (1987)(Pitman, Steve)">
+		<description>Graphcon - The Graphic Conversion Program (1987)(Pitman, Steve)</description>
+		<rom name="Graphcon - The Graphic Conversion Program (1987)(Pitman, Steve).bas" size="8500" crc="7de03442" md5="ae364349ebd6a889c667148343f429fd" sha1="e69401bb02042601ebb9ff2e9605b4fbd19fc53a"/>
+	</game>
+	<game name="Hexbin (1985)(L.O.F. Communications)">
+		<description>Hexbin (1985)(L.O.F. Communications)</description>
+		<rom name="Hexbin (1985)(L.O.F. Communications).bas" size="3036" crc="92911397" md5="468557b66257a85820a5b5389edfdac4" sha1="b8237b66221bb59bbe2d96140c560097d99dc14e"/>
+	</game>
+	<game name="HPLOT Drawing System (198x)(Mesiavech, John)">
+		<description>HPLOT Drawing System (198x)(Mesiavech, John)</description>
+		<rom name="HPLOT Drawing System (198x)(Mesiavech, John).bas" size="7583" crc="a70ed493" md5="6e8545219fe80fbf734821f65f2cf030" sha1="612ad460f432c171cbafa370c7a8f6a07ad1e62e"/>
+	</game>
+	<game name="OSpeek (19xx)(-)">
+		<description>OSpeek (19xx)(-)</description>
+		<rom name="OSpeek (19xx)(-).bas" size="4353" crc="a61a90bd" md5="d7aed800083b8f6361bcffbc6a1f7c28" sha1="90bd1169731f9137f3bd30cc5063dbe38fdcdf82"/>
+	</game>
+	<game name="Password Entry Program (1985)(Eve Electronic Systems)">
+		<description>Password Entry Program (1985)(Eve Electronic Systems)</description>
+		<rom name="Password Entry Program (1985)(Eve Electronic Systems).bas" size="4511" crc="60e0f9ce" md5="56aa1244c678fe374933b856285900ac" sha1="ada7455e6579c741f881fa2adcab7a0607149c03"/>
+	</game>
+	<game name="PowerPAINT Patch (1988)(Digital Express)(PD)">
+		<description>PowerPAINT Patch (1988)(Digital Express)(PD)</description>
+		<rom name="PowerPAINT Patch (1988)(Digital Express)(PD).bas" size="1478" crc="4c841982" md5="9a2925a427d548f191c5a57dfa313592" sha1="fde9461de50aa11808e448155d1a51b100be57cd"/>
+	</game>
+	<game name="Renumber (1986)(Dowgewicz, Paul)">
+		<description>Renumber (1986)(Dowgewicz, Paul)</description>
+		<rom name="Renumber (1986)(Dowgewicz, Paul).bas" size="4514" crc="d0c74969" md5="14d3dc214304d0734fd23d274a651b6a" sha1="8f7fa4121cd1f6166edb5f4a95c0207e2c82fe3e"/>
+	</game>
+	<game name="RLE Viewer (198x)(-)">
+		<description>RLE Viewer (198x)(-)</description>
+		<rom name="RLE Viewer (198x)(-).bas" size="6396" crc="56c51120" md5="e7221d065b83f3d1f033e4a86cc76dff" sha1="ffb36a6f291faa82b6a4080706329dca9af9f148"/>
+	</game>
+	<game name="SmartFILER (1989)(Braymen, Chris)">
+		<description>SmartFILER (1989)(Braymen, Chris)</description>
+		<rom name="SmartFILER (1989)(Braymen, Chris).bas" size="9388" crc="364ed88e" md5="f79cea158332f613b150b5beb90fedb8" sha1="8452772a5431c8b2bd65b5f82f8551de81bb96dd"/>
+	</game>
+	<game name="Squeeze Program v1.0 (198x)(Neeley, Alan - Morhen, Tony)">
+		<description>Squeeze Program v1.0 (198x)(Neeley, Alan - Morhen, Tony)</description>
+		<rom name="Squeeze Program v1.0 (198x)(Neeley, Alan - Morhen, Tony).bas" size="6495" crc="fabb329d" md5="7c34a2c2e638ef15cff970128b0ae229" sha1="34838b84750db350472f59b249fdcef0d56206ee"/>
+	</game>
+	<game name="SydModem v3.0 (19xx)(Neely, Alan)(PD)">
+		<description>SydModem v3.0 (19xx)(Neely, Alan)(PD)</description>
+		<rom name="SydModem v3.0 (19xx)(Neely, Alan)(PD).bas" size="5631" crc="7dbcef87" md5="43d1554b85cd942b4d0d6a4bc4a94afa" sha1="54340123ca715d08577586cfcbe905dea3c1f9bd"/>
+	</game>
+	<game name="Tape Editor (19xx)(Hinkle, B.)">
+		<description>Tape Editor (19xx)(Hinkle, B.)</description>
+		<rom name="Tape Editor (19xx)(Hinkle, B.).bas" size="2684" crc="737de274" md5="197a2041bff63d8b62cef60e29215fdf" sha1="3bca0d1fb7ebfc675a6a9a0fb8f6341f048175dd"/>
+	</game>
+	<game name="Text Filter (198x)(-)">
+		<description>Text Filter (198x)(-)</description>
+		<rom name="Text Filter (198x)(-).bas" size="2358" crc="96fe51cb" md5="69d77fd33d8d205e354ff4b0b8cc44aa" sha1="41ab3162d9652f95679620d8ea5a2bf91f601dd5"/>
+	</game>
+	<game name="Utility Copy (198x)(-)">
+		<description>Utility Copy (198x)(-)</description>
+		<rom name="Utility Copy (198x)(-).bas" size="5656" crc="e6746d20" md5="ba8ff7d228753e203eb5894f599a90e1" sha1="f9e0866035e1a61cfb04d2b7cfe5d8001c6f052d"/>
+	</game>
+	<game name="Video Cassette Filer (198x)(Matz, Phillip D.)">
+		<description>Video Cassette Filer (198x)(Matz, Phillip D.)</description>
+		<rom name="Video Cassette Filer (198x)(Matz, Phillip D.).bas" size="8234" crc="8cf133bb" md5="e40ad8b9f02693ac2c1ace773bac22c6" sha1="2af677232ecfa013c03b7731735922eadf9e989e"/>
+	</game>
+	<game name="Video Cassette Filer 2 (198x)(Matz, Phillip D.)">
+		<description>Video Cassette Filer 2 (198x)(Matz, Phillip D.)</description>
+		<rom name="Video Cassette Filer 2 (198x)(Matz, Phillip D.).bas" size="9493" crc="572bd058" md5="cf12c6579542b4c35edfc7a7a49a995d" sha1="c3ef48f09bf5de3aed62c9f86fe83690784628d1"/>
+	</game>
+	<game name="Video Mode Selection Program v1.0 (1989)(Lingrel, John - Neeley, Alan - Sol Swift)">
+		<description>Video Mode Selection Program v1.0 (1989)(Lingrel, John - Neeley, Alan - Sol Swift)</description>
+		<rom name="Video Mode Selection Program v1.0 (1989)(Lingrel, John - Neeley, Alan - Sol Swift).bas" size="6271" crc="2ddda8d4" md5="616f0516c80cd7c2e73f4a354a92c99e" sha1="5e4b5f08afce31d7027de197bae1c18bbb07f742"/>
+	</game>
+</datafile>

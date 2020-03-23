@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>MITS Altair 8800 - Demos - [BIN]</name>
+		<description>MITS Altair 8800 - Demos - [BIN] (TOSEC-v2014-04-11)</description>
+		<category>TOSEC</category>
+		<version>2014-04-11</version>
+		<author>TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Writer (19xx)(-)[dazzler output][$5000]">
+		<description>Writer (19xx)(-)[dazzler output][$5000]</description>
+		<rom name="Writer (19xx)(-)[dazzler output][$5000].bin" size="1297" crc="fd9844ca" md5="0689fcdd5a120197bdf814e3fc37061c" sha1="2e0932907249e2054b352a2e66900e3bdbc99510"/>
+	</game>
+</datafile>

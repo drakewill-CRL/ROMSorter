@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Visual Pinball [VP8] Recreated Tables</name>
+		<description>Visual Pinball [VP8] Recreated Tables</description>
+		<category>Visual Pinball [VP8] Recreated Tables</category>
+		<version>1.0</version>
+		<date>2020-01-01</date>
+		<author>Yori Yoshizuki</author>
+		<email>-insert email-</email>
+		<homepage>Yori Yoshizuki</homepage>
+		<url>https://yoshizuki.webs.com</url>
+		<comment>-insert comment-</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="100 Yards, The (EM Marchant)(1952)">
+		<description>100 Yards, The (EM Marchant)(1952)</description>
+		<rom name="100 Yards, The (EM Marchant)(1952)(Patrick, tiltjlp)(1.0)[VP8].vpt" size="1500672" crc="5295e4ae" sha1="32d07930ad8e7215c57efec4474288b8de0d8a5a"/>
+		<rom name="100 Yards, The (VP8) screenshot.jpg" size="168804" crc="db68b036" sha1="4f47f3f9194c88f121632c10fc12374870418bc6"/>
+	</machine>
+	<machine name="2001 (Gottlieb)(1971)(pbecker1946)(1.0)[VP8]">
+		<description>2001 (Gottlieb)(1971)(pbecker1946)(1.0)[VP8]</description>
+		<rom name="2001 screenshot.jpg" size="1187703" crc="a5624b84" sha1="27efc2d2f4e0f3e6c82e455564aec3056ad2cff7"/>
+		<rom name="2001(PLB)V1.vpt" size="30515712" crc="ea4c5026" sha1="fc6cb5c159f03747992e949a879a56927f055a25"/>
+		<rom name="Commentary.txt" size="3363" crc="6f5a894f" sha1="22b12ca20063d5f379b612330f53a02139c5b045"/>
+		<rom name="Flyer.jpg" size="1576992" crc="e1ac03ff" sha1="2338186acd4c24e12d236ab223b56429d5467199"/>
+	</machine>
+	<machine name="3 Coins (Williams)(1962)(pbecker1946)(1.0)[VP8]">
+		<description>3 Coins (Williams)(1962)(pbecker1946)(1.0)[VP8]</description>
+		<rom name="3 Coins Commentary.txt" size="4395" crc="2757d2f6" sha1="ab77c6fc496919da57b49f9b34c217a514099ca3"/>
+		<rom name="3 Coins flyer.jpg" size="1303591" crc="62ff092a" sha1="d3b37b9112038dfb040f880ca9cbc0df6efd046f"/>
+		<rom name="3 Coins screenshot.jpg" size="1422488" crc="2d4d7790" sha1="baf82fb66d2f11db81163036db0f898dc19dae65"/>
+		<rom name="3Coins(PLB)V1.vpt" size="28961280" crc="3fb8d621" sha1="6128ea369e585f7dc4af9b8025ca23f993fcb681"/>
+	</machine>
+	<machine name="4 Square (Gottlieb)(1971)(pbecker1946)(1.0)[VP8]">
+		<description>4 Square (Gottlieb)(1971)(pbecker1946)(1.0)[VP8]</description>
+		<rom name="4-square-flyer.jpg" size="366068" crc="2914f286" sha1="a802e8a58a495e8cff2bc651e54a9c6596d5481c"/>
+		<rom name="4Square(PLB)V1.vpt" size="20178432" crc="a6011461" sha1="9556898e4a9cc9a7192a95b2fc5561212f7fa450"/>
+		<rom name="4SquareSS.jpg" size="1379012" crc="a8f4f639" sha1="0acbeff66dd0e43baf55475a83e50593d9c4614b"/>
+		<rom name="4squaress_09Y.jpg" size="1379012" crc="a8f4f639" sha1="0acbeff66dd0e43baf55475a83e50593d9c4614b"/>
+		<rom name="arrowheadss_Zlb.jpg" size="1361358" crc="bec68fb5" sha1="fd92f6b121e554c30f5a8ecfcb47bd96b35e0805"/>
+		<rom name="Commentary.txt" size="3536" crc="4fd887dc" sha1="f3b760704709dceac4aedbcd5688bd2f7e45971a"/>
+	</machine>
+	<machine name="Ace High (Gottlieb)(1957)(Furio)(1.3)[VP8]">
+		<description>Ace High (Gottlieb)(1957)(Furio)(1.3)[VP8]</description>
+		<rom name="Ace High (Gottlieb 1957) 1.3.vpt" size="3606016" crc="4e457134" sha1="b40905dea53e098ac3c8f9aba6f96f025144d432"/>
+		<rom name="Ace high Flyer.jpg" size="360023" crc="a16355a6" sha1="b6de10cc102391131299a2ee98cf6552645f16e2"/>
+		<rom name="Ace High screenshot.jpg" size="131035" crc="15ad3af5" sha1="31ae3172e6e0662a7e9a0e86199a63182088e058"/>
+		<rom name="rules.jpg" size="80176" crc="b83202c4" sha1="79a7bdb982b051044966e35ba314ebcc82445adb"/>
+	</machine>
+	<machine name="Ace High (Gottlieb)(1957)(pbecker1946)(2.0)[VP8]">
+		<description>Ace High (Gottlieb)(1957)(pbecker1946)(2.0)[VP8]</description>
+		<rom name="1.0\Ace High (1.0) screenshot.jpg" size="1215782" crc="89d4b2bd" sha1="3925a768a4409b0f5ae69dc955c28976ae0401ee"/>
+		<rom name="1.0\AceHigh(PLB)V1.vpt" size="23048704" crc="15029174" sha1="7364742ac40cce2e6ae69df48b4c20b4d40a90cb"/>
+		<rom name="1.0\Commentary.txt" size="5412" crc="ca5a13b2" sha1="aaeb8d9327727e94fc43322df4242163446769ba"/>
+		<rom name="2.0\Ace High (2.0) screenshot.jpg" size="1475327" crc="0d806588" sha1="97ea5aa63889bf311cb5a4d561d0eaab763e21da"/>
+		<rom name="2.0\AceHigh(PLB)V2.vpt" size="20807680" crc="6549f589" sha1="5a885cf1153d7193a9e0bf526b14b7c0e0344093"/>
+		<rom name="2.0\Commentary.txt" size="4468" crc="21bea2ad" sha1="b272d6751ae1396c5e8fe35ae4df5da27b10c55c"/>
+		<rom name="AceHighFlyer.jpg" size="818718" crc="3df5d78e" sha1="df3b15270f194fabec89038133866c82acdf06fc"/>
+	</machine>
+	<machine name="American Pinball (Tomy)(1991)">
+		<description>American Pinball (Tomy)(1991)</description>
+		<rom name="American Pinball (Tomy)(1991)(elo_rey)(1.0)[VP8].vpt" size="6684160" crc="df33fe06" sha1="f2dcf0595da919d12025070cd2fc03c5e2b9df50"/>
+		<rom name="American Pinball screenshot.jpg" size="422590" crc="fd9adb9d" sha1="ce5593dda8b9a01afe1460c58c84f6e0271889ed"/>
+	</machine>
+	<machine name="Arrow Head (Williams)(1957)(pbecker1946)(1.0)[VP8]">
+		<description>Arrow Head (Williams)(1957)(pbecker1946)(1.0)[VP8]</description>
+		<rom name="ArrowHead(PLB)V1.vpt" size="22019584" crc="9141c5ac" sha1="67e405194cbe987d5f98c616e50f43192e753885"/>
+		<rom name="ArrowHeadSS.jpg" size="1361358" crc="bec68fb5" sha1="fd92f6b121e554c30f5a8ecfcb47bd96b35e0805"/>
+		<rom name="Commentary.txt" size="3884" crc="d9a79cb5" sha1="1e5e7e5c4b3f878c95f01333e150184b2293c683"/>
+		<rom name="george_petty06_alt_a.jpg" size="38988" crc="4a23a6a1" sha1="73136e3bc380e73f0d1060affeaeba6d98c4347f"/>
+	</machine>
+	<machine name="Atlantis (Gottlieb)(1975)(pbecker1946)(1.0)[VP8]">
+		<description>Atlantis (Gottlieb)(1975)(pbecker1946)(1.0)[VP8]</description>
+		<rom name="Atlantis (Gottlieb)(1975)(pbecker1946)(1.0)[VP8]\Atlantis (Gottlieb)(1975)(pbecker1946)(1.0)[VP8].vpt" size="20447744" crc="3a58bdea" sha1="c05c1b013cd127fd1d44d08b66978b3495c13877"/>
+		<rom name="Atlantis (Gottlieb)(1975)(pbecker1946)(1.0)[VP8]\Atlantis screenshot.jpg" size="1379787" crc="37d63168" sha1="cdc1d84ef70f4f9c4cd50532e84038ba5f124b86"/>
+		<rom name="Atlantis (Gottlieb)(1975)(pbecker1946)(1.0)[VP8]\Commentary.txt" size="4271" crc="3e25f609" sha1="fe292eb39ff6ca0cad1f2cd5d14a6ea1614d44e1"/>
+		<rom name="Atlantis (Gottlieb)(1975)(pbecker1946)(1.0)[VP8]\Flyer.jpg" size="491215" crc="cbb730ee" sha1="da0d5057e9ccf7919966488622af28e5fc01025c"/>
+	</machine>
+	<machine name="Auto Race (Gottlieb)(1956)">
+		<description>Auto Race (Gottlieb)(1956)</description>
+		<rom name="2.0\Auto Race (2.0) screenshot.jpg" size="148973" crc="a6d1d815" sha1="821dc685906134b6abf563addd8a8b2570e82740"/>
+		<rom name="2.0\Auto Race (Gottlieb)(1956)(Furio)(2.0)[VP8].vpt" size="3479040" crc="0df3e62f" sha1="c5b831272094ab535450e1fc463c0718b11e2bbc"/>
+		<rom name="2.1\Auto Race (2.1) screenshot.jpg" size="147768" crc="6c904113" sha1="4247b2eb09fbd63a33603acc4b008ebe24a65b55"/>
+		<rom name="2.1\Auto Race (Gottlieb)(1956)(Furio)(2.1)[VP8].vpt" size="6170112" crc="6ad147a7" sha1="0cb172669a21c59867b3ceb580492c4fc5d1a4bb"/>
+	</machine>
+	<machine name="Bank Shot (Gottlieb)(1976)(pbecker1946)(1.0)[VP8]">
+		<description>Bank Shot (Gottlieb)(1976)(pbecker1946)(1.0)[VP8]</description>
+		<rom name="BankShot(PLB)V1.vpt" size="18616832" crc="8a27b636" sha1="31a756ce0da493f91ca4cf3077a60e7ee711d686"/>
+		<rom name="BankShotSS.jpg" size="1250387" crc="8b196b40" sha1="b87aab9d0acb1e5195165fccb4f61458603906eb"/>
+		<rom name="Commentary.txt" size="4925" crc="f6a99168" sha1="2118175e15c714284694b916da17dab9caa3f64c"/>
+		<rom name="Flyer.jpg" size="276893" crc="91adebf7" sha1="4c28dd0d3dd9c75332a16981c5b573c9c439bda3"/>
+		<rom name="original-roger-sharpe-1976.png" size="326417" crc="4600e2ca" sha1="b0c9407ed6858656cad58cd812be0b1d1f7be2a6"/>
+	</machine>
+	<machine name="Big Casino (Gottlieb)(1961)(pbecker1946)(1.0)[VP8]">
+		<description>Big Casino (Gottlieb)(1961)(pbecker1946)(1.0)[VP8]</description>
+		<rom name="Big Casino (Gottlieb)(1961)(pbecker1946)(1.0)[VP8]\Big Casino (Gottlieb)(1961)(pbecker1946)(1.0)[VP8].vpt" size="21849600" crc="e99ccdf0" sha1="4121c5a32343f360a857d40298e9abd8af9107cb"/>
+		<rom name="Big Casino (Gottlieb)(1961)(pbecker1946)(1.0)[VP8]\Big Casino commentary.txt" size="3972" crc="338e8e5f" sha1="c72c077b85bc70642ef941f6861ee41496e0cc4a"/>
+		<rom name="Big Casino (Gottlieb)(1961)(pbecker1946)(1.0)[VP8]\Big Casino screenshot.jpg" size="854507" crc="913d96b5" sha1="48da2fc162ddb46ca1b1a65c6efe4cb267d4b2fc"/>
+	</machine>
+	<machine name="Big Top (Gottlieb)(1964)(Duglis, JPSalas)(2.0)[VP8]">
+		<description>Big Top (Gottlieb)(1964)(Duglis, JPSalas)(2.0)[VP8]</description>
+		<rom name="Big Top (Gottlieb)(1964)(Duglis, JPSalas)(2.0)[VP8]\Big Top (Duglis, JPSalas) screenshot.jpg" size="253484" crc="d5aee065" sha1="4fbfb87e3de9867d6d33234d808c479bb8ab900e"/>
+		<rom name="Big Top (Gottlieb)(1964)(Duglis, JPSalas)(2.0)[VP8]\Big Top (Gottlieb)(1964)(Duglis, JPSalas)(2.0)[VP8].vpt" size="9558016" crc="fb065193" sha1="b9f92598c2f0ce77d2a20656d95ec3cdfb4cea0a"/>
+	</machine>
+	<machine name="Big Valley (Bally)(1970)(pbecker1946)(1.0)[VP8]">
+		<description>Big Valley (Bally)(1970)(pbecker1946)(1.0)[VP8]</description>
+		<rom name="Big Valley (Bally)(1970)(pbecker1946)(1.0)[VP8]\Big Valley (Bally)(1970)(pbecker1946)(1.0)[VP8].vpt" size="20530688" crc="02694c30" sha1="c1d14b8ba4ad7ea58dcb9343b336b457250785d3"/>
+		<rom name="Big Valley (Bally)(1970)(pbecker1946)(1.0)[VP8]\Big Valley screenshot.jpg" size="1064232" crc="b9b827a6" sha1="618f85d3d6b42fd23a3efb1f77b75a251c908451"/>
+		<rom name="Big Valley (Bally)(1970)(pbecker1946)(1.0)[VP8]\Commentary.txt" size="5417" crc="56d0c11d" sha1="cc55097c00aee472fdbdd99edb9a45e698ed736b"/>
+		<rom name="Big Valley (Bally)(1970)(pbecker1946)(1.0)[VP8]\Flyer.jpg" size="219799" crc="8ac49e5e" sha1="e1a1f462aa84f241a3cd676c3dae8ab988f564b9"/>
+	</machine>
+	<machine name="Bowling Champ (Gottlieb)(1949)(pbecker1946)(1.0)[VP8]">
+		<description>Bowling Champ (Gottlieb)(1949)(pbecker1946)(1.0)[VP8]</description>
+		<rom name="Bowling Champ (Gottlieb)(1949)(pbecker1946)(1.0)[VP8]\Bowling Champ (Gottlieb)(1949)(pbecker1946)(1.0)[VP8].vpt" size="25827840" crc="8871ccc3" sha1="2548d13531c127c31b6288edf099db4eef305874"/>
+		<rom name="Bowling Champ (Gottlieb)(1949)(pbecker1946)(1.0)[VP8]\Bowling Champ flyer.jpg" size="323003" crc="a93c9f1e" sha1="151c95d3cca46b7e232e9e77e9924724c66eaf10"/>
+		<rom name="Bowling Champ (Gottlieb)(1949)(pbecker1946)(1.0)[VP8]\Bowling Champ screenshot.jpg" size="1296992" crc="ec2a19fb" sha1="34ceaf6caa56f3ddc6029dbd86802d0225e05c62"/>
+		<rom name="Bowling Champ (Gottlieb)(1949)(pbecker1946)(1.0)[VP8]\Commentary.txt" size="4168" crc="8f9c48df" sha1="2a1fde90de1d7262fbb3062a47e12934f06d4536"/>
+	</machine>
+	<machine name="Bronco (Chicago Coin)(1963)(pbecker1946)(1.0)[VP8]">
+		<description>Bronco (Chicago Coin)(1963)(pbecker1946)(1.0)[VP8]</description>
+		<rom name="Bronco (Chicago Coin)(1963)(pbecker1946)(1.0)[VP8]\Bronco (Chicago Coin)(1963)(pbecker1946)(1.0)[VP8].vpt" size="23033344" crc="12b477df" sha1="5db80c6bd7c794d7485cfe864e4526e1a9427930"/>
+		<rom name="Bronco (Chicago Coin)(1963)(pbecker1946)(1.0)[VP8]\Bronco commentary.txt" size="3734" crc="f5db1c66" sha1="4c1d7bae271a3bb134231888b933ec42f5e45fb4"/>
+		<rom name="Bronco (Chicago Coin)(1963)(pbecker1946)(1.0)[VP8]\Bronco screenshot.jpg" size="864992" crc="a25c8613" sha1="0b9571237c366876cd9d834f14444f05dbb93c51"/>
+	</machine>
+	<machine name="Buccaneer (Gottlieb)(1948)(pbecker1946)(1.0)[VP8]">
+		<description>Buccaneer (Gottlieb)(1948)(pbecker1946)(1.0)[VP8]</description>
+		<rom name="Buccaneer (Gottlieb)(1948)(pbecker1946)(1.0)[VP8]\Buccaneer (Gottlieb)(1948)(pbecker1946)(1.0)[VP8].vpt" size="29982208" crc="3d2cbe17" sha1="0d5bf5b436a7bc1e4d906ba46ce2cc9fcdf3b875"/>
+		<rom name="Buccaneer (Gottlieb)(1948)(pbecker1946)(1.0)[VP8]\Buccaneer flyer.jpg" size="339082" crc="0c848772" sha1="809a504340b6cb2f962aaa7b019e675b9d5fdcbb"/>
+		<rom name="Buccaneer (Gottlieb)(1948)(pbecker1946)(1.0)[VP8]\Buccaneer screenshot.jpg" size="1381469" crc="fdb2ae0f" sha1="aeff4f1c18a418c9ef265d81aeee3eb76e863480"/>
+		<rom name="Buccaneer (Gottlieb)(1948)(pbecker1946)(1.0)[VP8]\Commentary.txt" size="4105" crc="99af95b2" sha1="ee53a477ce54b9931885d73734edc5398a5299cb"/>
+	</machine>
+	<machine name="Buckaroo (Gottlieb)(1965)(pbecker1946)(1.0)[VP8]">
+		<description>Buckaroo (Gottlieb)(1965)(pbecker1946)(1.0)[VP8]</description>
+		<rom name="Buckaroo (Gottlieb)(1965)(pbecker1946)(1.0)[VP8]\Buckaroo (Gottlieb)(1965)(pbecker1946)(1.0)[VP8].vpt" size="31620608" crc="ae206050" sha1="0572f90afe2d34b5b74e5d863b8d81df91a824e2"/>
+		<rom name="Buckaroo (Gottlieb)(1965)(pbecker1946)(1.0)[VP8]\Buckaroo screenshot.jpg" size="953749" crc="5c8e6d71" sha1="1b9c174a6fb106be098d89aa64a9daa133e29266"/>
+		<rom name="Buckaroo (Gottlieb)(1965)(pbecker1946)(1.0)[VP8]\Commentary.txt" size="3317" crc="5b57ee85" sha1="575280de4165b9185a11525f9476ad4b190ae8f1"/>
+	</machine>
+	<machine name="Buffalo Bill (Gottlieb)(1950)(Romolo)(1.0)[VP811]">
+		<description>Buffalo Bill (Gottlieb)(1950)(Romolo)(1.0)[VP811]</description>
+		<rom name="Buffalo Bill (Gottlieb)(1950)(Romolo)(1.0)[VP811]\Buffalo Bill (Gottlieb)(1950)(Romolo)(1.0)[VP811].vpt" size="3078144" crc="d31785a1" sha1="51b7b71ac7594f9b7e7d40b2ffcbdc0cb66c6f18"/>
+		<rom name="Buffalo Bill (Gottlieb)(1950)(Romolo)(1.0)[VP811]\Buffalo Bill screenshot.jpg" size="123241" crc="a042632f" sha1="bfffecc2df8d6c2d9c677cb2956a31d1f0a7a8c5"/>
+	</machine>
+	<machine name="Casino (Williams)(1958)(pbecker1946)(1.0)[VP8]">
+		<description>Casino (Williams)(1958)(pbecker1946)(1.0)[VP8]</description>
+		<rom name="Casino (Williams)(1958)(pbecker1946)(1.0)[VP8]\Casino (Williams)(1958)(pbecker1946)(1.0)[VP8].vpt" size="23124480" crc="45a8c9b9" sha1="2e1ce76a0ecfd5f217d8d404983e1a87006e02a8"/>
+		<rom name="Casino (Williams)(1958)(pbecker1946)(1.0)[VP8]\Casino Commentary.txt" size="3795" crc="0671e1ee" sha1="5d203283283f865620ec8144ab3e4a1319851c98"/>
+		<rom name="Casino (Williams)(1958)(pbecker1946)(1.0)[VP8]\Casino flyer 1.jpg" size="836422" crc="0c673246" sha1="6a0d02a73f1c2667b057622ccf41dcad5e52cec2"/>
+		<rom name="Casino (Williams)(1958)(pbecker1946)(1.0)[VP8]\Casino flyer 2.jpg" size="141416" crc="e3e5958c" sha1="9e356a085453583edaa04b12d583bc4eb5ae02b1"/>
+		<rom name="Casino (Williams)(1958)(pbecker1946)(1.0)[VP8]\Casino screenshot.jpg" size="1239052" crc="889cf2e5" sha1="90acc00115433b312a2c3487777534264cca1dd1"/>
+	</machine>
+	<machine name="Continental Cafe (Gottlieb)(1957)(pbecker)(1.0)[VP8]">
+		<description>Continental Cafe (Gottlieb)(1957)(pbecker)(1.0)[VP8]</description>
+		<rom name="Continental Cafe (Gottlieb)(1957)(pbecker)(1.0)[VP8]\Commentary.txt" size="3721" crc="5b7014de" sha1="c5bdabdabed5f6e4bf9fb7f97defade4fbca26e6"/>
+		<rom name="Continental Cafe (Gottlieb)(1957)(pbecker)(1.0)[VP8]\Continental Cafe (Gottlieb)(1957)(pbecker)(1.0)[VP8].vpt" size="27459584" crc="53b46480" sha1="b1402eb02fd2de8b213ae1e56f45142d09cac252"/>
+		<rom name="Continental Cafe (Gottlieb)(1957)(pbecker)(1.0)[VP8]\Continental Cafe (pbecker1946) screenshot.jpg" size="722329" crc="a81cd3a7" sha1="5fe7db327c48d189d4c1208f09628ecabc555aa1"/>
+	</machine>
+	<machine name="Cow Poke (Gottlieb)(1965)">
+		<description>Cow Poke (Gottlieb)(1965)</description>
+		<rom name="Cow Poke (Fernando) screenshot.jpg" size="396218" crc="1a0f5411" sha1="25979e6e4e180458e46aecc58ab14ddfd56f0ebf"/>
+		<rom name="Cow Poke (Gottlieb)(1965)(Fernando)(020309)[VP8].vpt" size="5394944" crc="b9c25253" sha1="4456668f6ddbb66655d1c8039d4d56699107191a"/>
+		<rom name="Fonts\annifont.ttf" size="37552" crc="97cd3db4" sha1="b8c3aa7ce4fd927626cb8aa2fa4c985bbef81604"/>
+		<rom name="Fonts\gottlieb score.ttf" size="2508" crc="65115886" sha1="76f6eede4bd05a0d2418640e3a6224b6ac1aaab9"/>
+	</machine>
+	<machine name="Cross Country (Bally)(1963)(pbecker1946)(1.0)[VP8]">
+		<description>Cross Country (Bally)(1963)(pbecker1946)(1.0)[VP8]</description>
+		<rom name="Cross Country (Bally)(1963)(pbecker1946)(1.0)[VP8]\Commentary.txt" size="3697" crc="86fb22e6" sha1="b957b170601036cf15eb92544f234b93f02a8b62"/>
+		<rom name="Cross Country (Bally)(1963)(pbecker1946)(1.0)[VP8]\Cross Country (Bally)(1963)(pbecker1946)(1.0)[VP8].vpt" size="24513024" crc="bedfd6be" sha1="2ce009183cd2cfea04e236989f12ee4d4bb7bfdb"/>
+		<rom name="Cross Country (Bally)(1963)(pbecker1946)(1.0)[VP8]\Cross Country screenshot.jpg" size="1275847" crc="538eaf25" sha1="c15f5e638f2a23a559b6d0c5a7fe8233b4e137c5"/>
+		<rom name="Cross Country (Bally)(1963)(pbecker1946)(1.0)[VP8]\Flyer.jpg" size="293107" crc="f22342cd" sha1="540f762aff4ee2bf2cd10ee7373c6d868d9354c0"/>
+	</machine>
+	<machine name="Cross Town (Gottlieb)(1966)(pbecker1946)(1.0)[VP8]">
+		<description>Cross Town (Gottlieb)(1966)(pbecker1946)(1.0)[VP8]</description>
+		<rom name="Cross Town (Gottlieb)(1966)(pbecker1946)(1.0)[VP8]\Commentary.txt" size="4125" crc="118cf1a0" sha1="daf8a46861dbcb5330ad49f33ff7661059ff62cf"/>
+		<rom name="Cross Town (Gottlieb)(1966)(pbecker1946)(1.0)[VP8]\Cross Town (Gottlieb)(1966)(pbecker1946)(1.0)[VP8].vpt" size="30255104" crc="26e3e13f" sha1="c6dbe0cd7272bf02b5863c693855139836aa0bd3"/>
+		<rom name="Cross Town (Gottlieb)(1966)(pbecker1946)(1.0)[VP8]\Cross Towns screenshot.jpg" size="977737" crc="60b168f2" sha1="b75540e6ae6d5bc61386cdc5f35764636c305ddf"/>
+	</machine>
+	<machine name="Cyclone (Gottlieb)(1951)(pbecker1946)(1.0)[VP8]">
+		<description>Cyclone (Gottlieb)(1951)(pbecker1946)(1.0)[VP8]</description>
+		<rom name="Cyclone (Gottlieb)(1951)(pbecker1946)(1.0)[VP8]\Commentary.txt" size="3891" crc="c4840d6d" sha1="42e56a13c5097e5b4be16eaa59064070340b6061"/>
+		<rom name="Cyclone (Gottlieb)(1951)(pbecker1946)(1.0)[VP8]\Cyclone (Gottlieb)(1951)(pbecker1946)(1.0)[VP8].vpt" size="23514624" crc="88d1dec8" sha1="83e4de98b26bd1fc927df0845eaca674b38eaade"/>
+		<rom name="Cyclone (Gottlieb)(1951)(pbecker1946)(1.0)[VP8]\Cyclone flyer.jpg" size="2193276" crc="5dab78b7" sha1="356717e253eb9854572042590d4ed9cb9761ef45"/>
+		<rom name="Cyclone (Gottlieb)(1951)(pbecker1946)(1.0)[VP8]\Cyclone screenshot.jpg" size="1250006" crc="dd261ef2" sha1="828918938a819e046e9bb8912e9dcab7397889e6"/>
+	</machine>
+	<machine name="Cyclopes (GamePlan)(1985)">
+		<description>Cyclopes (GamePlan)(1985)</description>
+		<rom name="Cyclopes (GamePlan)(1985)(Eala Dubh Sidhe)(RC1)[VP8].vpt" size="7562240" crc="5d56be1b" sha1="7085f61b08aba182324504f5291bf88c5d2f9e52"/>
+		<rom name="Cyclopes (VP8) table notes.txt" size="2936" crc="8e33de09" sha1="d5af9a8c18c30c6aba1184f202d477e7a4fee976"/>
+		<rom name="Fonts\african.ttf" size="47596" crc="97a10b6c" sha1="725a39f334fec0f4f175572e3635fa62196519a8"/>
+		<rom name="Fonts\impact.ttf" size="136048" crc="638a4ccc" sha1="807b5e24d402fcdac6f9e9d97be071285ad27958"/>
+		<rom name="Fonts\trana___.ttf" size="58232" crc="a65607b4" sha1="f89519a6452ebc2bcaf130fd136bcfcc59b28fa6"/>
+	</machine>
+	<machine name="De-Icer (Williams)(1949)(pbecker1946)(1.0)[VP8]">
+		<description>De-Icer (Williams)(1949)(pbecker1946)(1.0)[VP8]</description>
+		<rom name="De-Icer (Williams)(1949)(pbecker1946)(1.0)[VP8]\Commentary.txt" size="4396" crc="6a57e5ce" sha1="6e68d4a46e0cfb0061ddba2e94d32271422a7f4b"/>
+		<rom name="De-Icer (Williams)(1949)(pbecker1946)(1.0)[VP8]\De-Icer (Williams)(1949)(pbecker1946)(1.0)[VP8].vpt" size="22743040" crc="f61d8639" sha1="d9086ce8146fe3a44b6f0d31b3ff3a443ed8566d"/>
+		<rom name="De-Icer (Williams)(1949)(pbecker1946)(1.0)[VP8]\De-Icer Playfield Design Drawing.jpg" size="275948" crc="f1f99dfd" sha1="c1bee576f04d23c847b41e20000db0b9fc7834b3"/>
+		<rom name="De-Icer (Williams)(1949)(pbecker1946)(1.0)[VP8]\De-Icer screenshot.jpg" size="1270721" crc="b55e438d" sha1="52f13ad1825ac03b49953ae68a0969a9208a0fdf"/>
+		<rom name="De-Icer (Williams)(1949)(pbecker1946)(1.0)[VP8]\Flyer.jpg" size="488309" crc="14855fb1" sha1="b8a6c23d69d731acb29d3924c10849073c2d856e"/>
+	</machine>
+	<machine name="Derby Day (Gottlieb)(1956)(pbecker1946)(1.0)[VP8]">
+		<description>Derby Day (Gottlieb)(1956)(pbecker1946)(1.0)[VP8]</description>
+		<rom name="Derby Day (Gottlieb)(1956)(pbecker1946)(1.0)[VP8]\Commentary.txt" size="4566" crc="362dcff6" sha1="0e917008bfbea01470809cc0e5258b52d4311304"/>
+		<rom name="Derby Day (Gottlieb)(1956)(pbecker1946)(1.0)[VP8]\Derby Day screenshot.jpg" size="1478698" crc="57cabcea" sha1="b94f445e62ab697240cc266a3c9f69e1159edc7e"/>
+		<rom name="Derby Day (Gottlieb)(1956)(pbecker1946)(1.0)[VP8]\derby_day-1956-flyer.jpg" size="3740104" crc="619078d1" sha1="3b422b1ba4bc5071754dd7ec9781cdefdf907458"/>
+		<rom name="Derby Day (Gottlieb)(1956)(pbecker1946)(1.0)[VP8]\DerbyDay(PLB)V1.vpt" size="21663232" crc="5bbfb4ca" sha1="7516f147ac334aa579e892a2dca96bc98c01d302"/>
+	</machine>
+	<machine name="Diamond Lill (Gottlieb)(1954)(pbecker1946)(1.0)[VP8]">
+		<description>Diamond Lill (Gottlieb)(1954)(pbecker1946)(1.0)[VP8]</description>
+		<rom name="Diamond Lill (Gottlieb)(1954)(pbecker1946)(1.0)[VP8]\Diamond Lill (Gottlieb)(1954)(pbecker1946)(1.0)[VP8].vpt" size="28365824" crc="bae79cc1" sha1="9dd4265ba5c7accb433016896241c546c7e8410a"/>
+		<rom name="Diamond Lill (Gottlieb)(1954)(pbecker1946)(1.0)[VP8]\Diamond Lill Commentary.txt" size="3723" crc="538ca637" sha1="4dcdd4422afe28ff7e8769ea7ff6b4e964346380"/>
+		<rom name="Diamond Lill (Gottlieb)(1954)(pbecker1946)(1.0)[VP8]\Diamond Lill Flyer.jpg" size="496701" crc="bd300f4a" sha1="94c03a17e805c06d34e6d9e1dea26cc3e54ba3c0"/>
+		<rom name="Diamond Lill (Gottlieb)(1954)(pbecker1946)(1.0)[VP8]\Diamond Lill screenshot.jpg" size="1487173" crc="b82276db" sha1="135bc8dc8a9dc1e0ae232eb0d41277e62ca15e2a"/>
+		<rom name="Diamond Lill (Gottlieb)(1954)(pbecker1946)(1.0)[VP8]\Elvis Playing Diamond Lill.jpg" size="37395" crc="83d4f42f" sha1="10d576f46ef7c3123e1771e53343400604072682"/>
+	</machine>
+	<machine name="Double Action (Gottlieb)(1958)(pbecker1946)(1.0)[VP8]">
+		<description>Double Action (Gottlieb)(1958)(pbecker1946)(1.0)[VP8]</description>
+		<rom name="Double Action (Gottlieb)(1958)(pbecker1946)(1.0)[VP8]\Commentary.txt" size="4348" crc="9b9d0b8e" sha1="f475e3fc83abe86edb51579ae0fe14476544c730"/>
+		<rom name="Double Action (Gottlieb)(1958)(pbecker1946)(1.0)[VP8]\Double Action (Gottlieb)(1958)(pbecker1946)(1.0)[VP8].vpt" size="24025600" crc="3689bdaf" sha1="6b6efe6c9addee9d4e2e5f7bd893c38e4dea35fc"/>
+		<rom name="Double Action (Gottlieb)(1958)(pbecker1946)(1.0)[VP8]\Double Action flyer.jpg" size="1635981" crc="1cca4ede" sha1="70fa2720384483069849f8a4263d7dbcc9c450ab"/>
+		<rom name="Double Action (Gottlieb)(1958)(pbecker1946)(1.0)[VP8]\Double Action screenshot.jpg" size="1232847" crc="29801c56" sha1="e2f21aa9b1db151bc3520d1a6772f59e1b9091d0"/>
+	</machine>
+	<machine name="Double Barrel (Williams)(1961)(pbecker1946)(1.0)[VP8]">
+		<description>Double Barrel (Williams)(1961)(pbecker1946)(1.0)[VP8]</description>
+		<rom name="Double Barrel (Williams)(1961)(pbecker1946)(1.0)[VP8]\Commentary.txt" size="4427" crc="c90ddacd" sha1="17b7acf4a39c3f48fe3395d2b886d677888de12d"/>
+		<rom name="Double Barrel (Williams)(1961)(pbecker1946)(1.0)[VP8]\Double Barrel (Williams)(1961)(pbecker1946)(1.0)[VP8].vpt" size="23990272" crc="f42f3449" sha1="4de94c22aaa7ca073b83f6513aafb8e2cd137817"/>
+		<rom name="Double Barrel (Williams)(1961)(pbecker1946)(1.0)[VP8]\Double Barrel flyer.jpg" size="1358270" crc="497f3882" sha1="9e4e906f2c6db69d3df6c3cf025074c0866293f9"/>
+		<rom name="Double Barrel (Williams)(1961)(pbecker1946)(1.0)[VP8]\Double Barrel screenshot.jpg" size="1431876" crc="6c21f697" sha1="a37b435b2cb330cae9d132dcbc7f0dcee5ad2a8c"/>
+	</machine>
+	<machine name="El Dorado (Gottlieb)(1975)">
+		<description>El Dorado (Gottlieb)(1975)</description>
+		<rom name="El Dorado flyer.jpg" size="1845128" crc="7e3479fa" sha1="547ee98b2be0932db9ba2bdca78cb190feeac5ff"/>
+		<rom name="Juaney, Patch\El Dorado (Gottlieb)(Juaney, Patch)(2.0)[VP8].vpt" size="1663488" crc="80117f43" sha1="ca0c9dcbae116da9d15dd94e34ab164934daaefb"/>
+		<rom name="Juaney, Patch\El Dorado (Juaney, Patch) screenshot.jpg" size="92325" crc="cfcdd417" sha1="ff28b00c0f4f1bb720b7e70839184a934c00e306"/>
+		<rom name="Juaney\El Dorado (Gottlieb)(1975)(Juaney)(1.0)[VP8].vpt" size="1780736" crc="bcdd0621" sha1="b5a7a1e0e4380a1ae632f39a71293c311545a023"/>
+		<rom name="Juaney\El Dorado (Gottlieb)(1975)(Juaney)(WIP)[VP8].vpt" size="971776" crc="11bb5fd0" sha1="c7aa806809dfc5bbfa73627cf80573860d1a2b3a"/>
+		<rom name="Juaney\El Dorado (Juaney) screenshot.jpg" size="69435" crc="0bdb4c61" sha1="40fc3e58895b4659bdea5e8d11ac30244cefc75d"/>
+		<rom name="Patch\El Dorado (Gottlieb)(1975)(Patch)(3.05)[VP8].vpt" size="2954240" crc="288e4805" sha1="60c30ee8f9b68053ef43642d1736f9965b3fdb43"/>
+		<rom name="Patch\El Dorado (Patch) screenshot.jpg" size="386249" crc="7a684c68" sha1="522b64ce6441e027d9623e4020ab590b071ee86a"/>
+	</machine>
+	<machine name="F1 Grand Prix (Nuova Bell Games)(1987)">
+		<description>F1 Grand Prix (Nuova Bell Games)(1987)</description>
+		<rom name="F1 Grand Prix (Nuova Bell Games)(1987)(Eala Dubh Sidhe)(RC1)[VP8].vpt" size="12787712" crc="a3ae1332" sha1="61f0155eae8516af855a885265ccc4e1bad123ba"/>
+		<rom name="F1 Grand Prix (RC1) screenshot.jpg" size="482016" crc="79c035a5" sha1="b50f20c5b46cc669dc11410b559ac250d32b49b5"/>
+		<rom name="F1 Grand Prix table notes.txt" size="2085" crc="77bdf19e" sha1="d38275b066528407930c91653e95b94caadb7d12"/>
+		<rom name="Fonts\eras000.ttf" size="32580" crc="2ecbbb53" sha1="26fd69d155e133fb70fb12a948a2aca0dfd1cdf0"/>
+		<rom name="Fonts\erasbd.ttf" size="51432" crc="b9317677" sha1="43ca141e68b2dc0967fc1f751e298f0c7e58f4d1"/>
+		<rom name="Fonts\trana___.ttf" size="58232" crc="a65607b4" sha1="f89519a6452ebc2bcaf130fd136bcfcc59b28fa6"/>
+	</machine>
+	<machine name="Falstaff (Gottlieb)(1957)">
+		<description>Falstaff (Gottlieb)(1957)</description>
+		<rom name="Falstaff (Deluxe) screenshot.jpg" size="129045" crc="8b5e708d" sha1="169cfdc6beec8724c48a2c89d9115e3d05d41d86"/>
+		<rom name="Falstaff (Gottlieb)(1957)(Duglis, Furio)(1.0 Deluxe)[VP8].vpt" size="4619264" crc="b75d396e" sha1="10d4e9f8126bbdacf5bd00ce6c720a02e007b108"/>
+		<rom name="Fonts\fonts___.ttf" size="43156" crc="fb7a253c" sha1="1a06e69889c164de71675ddede2a7442a1328fa2"/>
+		<rom name="Fonts\gottlieb.ttf" size="2508" crc="65115886" sha1="76f6eede4bd05a0d2418640e3a6224b6ac1aaab9"/>
+		<rom name="Fonts\victorian.ttf" size="51446" crc="d1d1737c" sha1="1cbd17bb3d98b6c6839bda631f193d564e4556c0"/>
+		<rom name="Permesso Duglis.doc" size="23552" crc="03e4a512" sha1="dc3b67e69aacbabeb580398dfdbea0a1079d2aa3"/>
+		<rom name="Risposta Duglis.doc" size="24064" crc="56396104" sha1="64e3e133472347f79ac05323de7215617d23a106"/>
+	</machine>
+	<machine name="Flipper Clown (Gottlieb)(1962)">
+		<description>Flipper Clown (Gottlieb)(1962)</description>
+		<rom name="Flipper Clown (Furio)(1.1) screenshot.jpg" size="185991" crc="4e74a29d" sha1="e34d24e23a1af9b0f1f28ab5fcb93f885b3ccf2d"/>
+		<rom name="Flipper Clown (Gottlieb)(1962)(Furio)(1.1 Deluxe)[VP8].vpt" size="4713472" crc="33ade682" sha1="dc6ac1eabf719ab62a93e31b441498e501b194af"/>
+		<rom name="Fonts\fonts___.ttf" size="43156" crc="fb7a253c" sha1="1a06e69889c164de71675ddede2a7442a1328fa2"/>
+		<rom name="Fonts\gottlieb.ttf" size="2508" crc="65115886" sha1="76f6eede4bd05a0d2418640e3a6224b6ac1aaab9"/>
+	</machine>
+	<machine name="Flipper Fair (Gottlieb)(1961)">
+		<description>Flipper Fair (Gottlieb)(1961)</description>
+		<rom name="Flipper Fair (3.0) screenshot.jpg" size="127201" crc="a66be60e" sha1="e951882a53beee1894b48b85a706c2da0cda8b96"/>
+		<rom name="Flipper Fair (Gottlieb)(1961)(Robair, Furio)(3.0 deluxe)[VP8].vpt" size="2774016" crc="0c47a198" sha1="2c2fa790024c778ff0600951c20409cd2a7d64cd"/>
+	</machine>
+	<machine name="Foto Finish (Gottlieb)(1961)">
+		<description>Foto Finish (Gottlieb)(1961)</description>
+		<rom name="Commentary.txt" size="4034" crc="8ace0f15" sha1="03c1f856b56210142f13dda1378e2c44ddc1f1cc"/>
+		<rom name="Foto Finish (Gottlieb)(1961)(pbecker1946)(1.0)[VP8].vpt" size="20631552" crc="22c3e4a1" sha1="ecab204a86d2645043a9c5115a6945188aaaf7bb"/>
+		<rom name="Foto Finish flyer.jpg" size="2022279" crc="45ee6c4a" sha1="80f828f5500156f752cce13880e7a22193a665a8"/>
+		<rom name="Foto Finish screenshot.jpg" size="1395786" crc="c69ff569" sha1="a848aeb2611e259da716e99d19e84b8117ff3bf7"/>
+	</machine>
+	<machine name="Fun Land (Gottlieb)(1968)">
+		<description>Fun Land (Gottlieb)(1968)</description>
+		<rom name="Commentary.txt" size="4179" crc="f368f3d7" sha1="e99d00682ba43de2feab00e6c112318fcc62634d"/>
+		<rom name="Fun Land (Gottlieb)(1968)(pbecker1946)(1.0)[VP8].vpt" size="24443392" crc="be420294" sha1="9aeedd638de369961a21fa553f736ebc75baa1be"/>
+		<rom name="Fun Land screenshot.jpg" size="923258" crc="dfbc280a" sha1="733c7e2f4dccdb634dfbdb2a37986441f975bfd3"/>
+	</machine>
+	<machine name="Fun Park (Gottlieb)(1968)">
+		<description>Fun Park (Gottlieb)(1968)</description>
+		<rom name="Fun Park (2.0) rules.txt" size="2910" crc="8e362ac4" sha1="014f223e5985b7d6a0efa42b27cfc0d72d07b258"/>
+		<rom name="Fun Park (2.0) screenshot.jpg" size="247748" crc="d7002025" sha1="b544a3f7f867c784470aeffeb9da83df758b8a03"/>
+		<rom name="Fun Park (Gottlieb)(1968)(Duglis, JPSalas)(2.0)[VP8].vpt" size="5606912" crc="26c46153" sha1="495741ebef2c309889163ebd1fd2086ccaf7bee1"/>
+		<rom name="Fun Park (Gottlieb)(1968)(Duglis, JPSalas)(2.01)[VP8].vpt" size="5734400" crc="ef3a485c" sha1="a60ec8c26ae8fb94def567daaf84de649cd10b0f"/>
+	</machine>
+	<machine name="Gigi (Gottlieb)(1963)">
+		<description>Gigi (Gottlieb)(1963)</description>
+		<rom name="Fonts\annifont.ttf" size="37552" crc="97cd3db4" sha1="b8c3aa7ce4fd927626cb8aa2fa4c985bbef81604"/>
+		<rom name="Fonts\gottlieb score.ttf" size="2508" crc="65115886" sha1="76f6eede4bd05a0d2418640e3a6224b6ac1aaab9"/>
+		<rom name="Gigi (Gottlieb)(1963)(Victor, Fernando)(1.0)[VP8].vpt" size="11450368" crc="bffaeeb7" sha1="8c05ef9045ac82820072aa52ae47ce1264e8ced8"/>
+		<rom name="Gigi (Victor, Fernando)[VP8] screenshot.jpg" size="436626" crc="254031a8" sha1="31a84c00deff41e374f0ff22ccfeae423ade5b48"/>
+	</machine>
+	<machine name="Gold Star (Gottlieb)(1954)(pbecker1946)(1.0)[VP8]">
+		<description>Gold Star (Gottlieb)(1954)(pbecker1946)(1.0)[VP8]</description>
+		<rom name="Gold Star (Gottlieb)(1954)(pbecker1946)(1.0)[VP8]\Commentary.txt" size="5248" crc="f69c918c" sha1="f96c4f662be9576dde4b7615a965dcab2fb0ecbc"/>
+		<rom name="Gold Star (Gottlieb)(1954)(pbecker1946)(1.0)[VP8]\Flyer.jpg" size="372808" crc="670d5197" sha1="131986a628d2e49b315361cb8064692502590da1"/>
+		<rom name="Gold Star (Gottlieb)(1954)(pbecker1946)(1.0)[VP8]\Gold Star screenshot.jpg" size="1130508" crc="ffc8fbb3" sha1="104a2064fb500422626530210d4d6adf4f6501fe"/>
+		<rom name="Gold Star (Gottlieb)(1954)(pbecker1946)(1.0)[VP8]\Gold Star(PLB)V1.vpt" size="20351488" crc="acd6965c" sha1="4d8b2c20af3ac6b53dcc502820726625f79bc616"/>
+	</machine>
+	<machine name="Grand Tour (Bally)(1964)">
+		<description>Grand Tour (Bally)(1964)</description>
+		<rom name="Commentary.txt" size="5387" crc="d73c4790" sha1="a779468692e9abf78373e81030c3482f7d61f502"/>
+		<rom name="Flyer.jpg" size="243592" crc="dc9604f5" sha1="c58426b9f2e593999d46690ead5386a2d3e8fcd9"/>
+		<rom name="Grand Tour (Bally)(1964)(Pbecker1946)(1.0)[VP8].vpt" size="22916608" crc="0c231b73" sha1="3c6793c92760ef48b886dee00747ef7184a2439f"/>
+		<rom name="Grand Tour screenshot.jpg" size="1403116" crc="469ebe9d" sha1="407e7a7c03b566216c021cda1cdd8bb18ce689e1"/>
+	</machine>
+	<machine name="Gusher (Williams)(1958)">
+		<description>Gusher (Williams)(1958)</description>
+		<rom name="Commentary.txt" size="4303" crc="8ddc3f88" sha1="3d32f6f79544ba890177d7b95c3924e3cccdf511"/>
+		<rom name="Gusher (Williams)(1958)(pbecker1946)(1.0)[VP8].vpt" size="25457664" crc="cf22fe55" sha1="e64b29be32440c308ca1622bbb8dd917e1d685e5"/>
+		<rom name="Gusher screenshot.jpg" size="1487554" crc="81343602" sha1="856f2832582403a9bae320fb4ad01b2988a12db5"/>
+	</machine>
+	<machine name="Gypsy Queen (Gottlieb)(1955)">
+		<description>Gypsy Queen (Gottlieb)(1955)</description>
+		<rom name="Gypsy Queen (Gottlieb)(1955)(Robair, Furio)(2.6)[VP8].vpt" size="2378752" crc="a90d17b1" sha1="dffe691b400ddc757bc3c0e2d643f00836d3f129"/>
+		<rom name="Gypsy Queen (Gottlieb)(1955)(Robair, Furio)(2.7)[VP8].vpt" size="2391040" crc="57f7816e" sha1="1ac9d88559eaf300744b6b3d6002affcdca332fd"/>
+		<rom name="Gypsy Queen (Gottlieb)(1955)(Robair, Furio)(2.8)[VP8].vpt" size="2734080" crc="63be0662" sha1="81f792f02f3c54f94ec60eb0896edd9d403dc186"/>
+		<rom name="Gypsy Queen screenshot.jpg" size="156907" crc="45c98fb1" sha1="144af8ea9064a87127a658c9e0ea0e9bf684b71e"/>
+	</machine>
+	<machine name="Happy Days (Gottlieb)(1952)">
+		<description>Happy Days (Gottlieb)(1952)</description>
+		<rom name="Commentary.txt" size="3906" crc="9233ce16" sha1="fbc404ff24ca964fd00880e3cf5fec830f0b3c15"/>
+		<rom name="Happy Days (Gottlieb)(1952)(pbecker1946)(1.0)[VP8].vpt" size="35462656" crc="2130dc66" sha1="31385f5a9bbc1517a5718660372fba52e1a717ea"/>
+		<rom name="Happy Days screenshot.jpg" size="1343313" crc="d791ab91" sha1="e4e268223642191cb1c016ef642b9679a51783b7"/>
+	</machine>
+	<machine name="Hi-Lo (Gottlieb)(1969)">
+		<description>Hi-Lo (Gottlieb)(1969)</description>
+		<rom name="Hi-Lo (Gottlieb)(1969)(Robair, Furio)(4.1)[VP8].vpt" size="2594304" crc="573280a2" sha1="9db7120f8080c34fe9e3c6d60cfc2469fd5b0488"/>
+	</machine>
+	<machine name="Hokus Pokus (Bally)(1976)">
+		<description>Hokus Pokus (Bally)(1976)</description>
+		<rom name="Fonts\annifont.ttf" size="37552" crc="97cd3db4" sha1="b8c3aa7ce4fd927626cb8aa2fa4c985bbef81604"/>
+		<rom name="Fonts\fonts___.ttf" size="43156" crc="fb7a253c" sha1="1a06e69889c164de71675ddede2a7442a1328fa2"/>
+		<rom name="Hokus Pokus (Bally)(1976)(Bendigo)(2.0)[VP8](MOD Bruno RC4).vpt" size="4253184" crc="6a65d6e8" sha1="0031b872b2a06028c2d79c797cf9e59b9571724e"/>
+		<rom name="Hokus Pokus (Bruno) screenshot.jpg" size="188905" crc="d199560e" sha1="c93031cc795388edf65b3cf017a63b41aa5d5c28"/>
+	</machine>
+	<machine name="Jalopy (Williams)(1951)">
+		<description>Jalopy (Williams)(1951)</description>
+		<rom name="1280853665249118823.jpg" size="768305" crc="b286187f" sha1="6dd96be3816ed9d784711981101ddd101ad9b5e5"/>
+		<rom name="1281f1.jpg" size="194332" crc="49ba4c3e" sha1="cea9c75e1ee8447c377f941c7588ad83c59d6a8e"/>
+		<rom name="1281f2.jpg" size="164475" crc="a297fb42" sha1="fa23cbaa3fc79971f9572cfc433ae4e1678be8c3"/>
+		<rom name="Duglis screenshot.jpg" size="461156" crc="4b561538" sha1="996c111a80a9ac3c73ae1688e0857b7c28774c0f"/>
+		<rom name="image-3.jpg" size="95429" crc="e1396995" sha1="c9b7f40363e8e901781df8d4f7a7ee99fe155e94"/>
+		<rom name="image-4.jpg" size="57436" crc="b9a7f481" sha1="7becd93f233df6c89f871b9c6a66d7cf5937b874"/>
+		<rom name="Jalopy (Williams)(1951)(Duglis)(1.0)[VP8].vpt" size="19800576" crc="ca106105" sha1="f5de14931e067371d482244ec6281b4f398d9464"/>
+		<rom name="Jalopy (Williams)(1951)(Duglis)(1.1)[VP8].vpt" size="19800064" crc="1bb52dd8" sha1="57eb406694be86548180d09540d3e2f7b4b00843"/>
+		<rom name="Jalopy-rules.txt" size="5034" crc="cef916fc" sha1="e7adfa65b07df3afca9b7eb12b845b692fbd5a77"/>
+	</machine>
+	<machine name="K.C. Jones (Gottlieb)(1949)">
+		<description>K.C. Jones (Gottlieb)(1949)</description>
+		<rom name="Commentary.txt" size="4562" crc="14863c63" sha1="1a6ad467c78405e45bda7fc62bcfec3875da659f"/>
+		<rom name="K.C. Jones (Gottlieb)(1949)(pbecker1946)(1.0)[VP8].vpt" size="27905024" crc="6201f2b7" sha1="44c2826efdce9f46359d7c4b6e1fb3a64270504c"/>
+		<rom name="K.C. Jones screenshot.jpg" size="1330169" crc="32af91cd" sha1="065cff61a96f95912759d3f83b3581bf37e34223"/>
+		<rom name="only known casey jones in train photo.jpg" size="316622" crc="f58f556f" sha1="551285a3e29d3964e36ee2f76bb85f7c71777f8e"/>
+	</machine>
+	<machine name="Kewpie Doll (Gottlieb)(1960)">
+		<description>Kewpie Doll (Gottlieb)(1960)</description>
+		<rom name="Commentary.txt" size="4859" crc="92eea29f" sha1="b7bc60d93975d00763f28e094b1331d3d69fb2b7"/>
+		<rom name="Flyer.jpg" size="741691" crc="86a2f39b" sha1="8a13b4e47a954b3c3f8a0d42624877cfad66fb8c"/>
+		<rom name="Kewpie Doll (Gottlieb)(1960)(pbecker1946)(1.0)[VP8].vpt" size="25300992" crc="cd75b83b" sha1="99a09960cbb7991d22344a1b3c90a0e55f08d3a1"/>
+		<rom name="Kewpie Doll screenshot.jpg" size="1337390" crc="c21832c3" sha1="a8a311bfeecd2d1b6127dccb7a7b3cf06069974f"/>
+	</machine>
+	<machine name="King Pin (Williams)(1962)">
+		<description>King Pin (Williams)(1962)</description>
+		<rom name="Commentary.txt" size="4135" crc="5462735a" sha1="2b2a7c1b7787e7811193bd054d8291877a1844fc"/>
+		<rom name="King Pin (Williams)(1962)(pbecker1946)(1.0)[VP8].vpt" size="20579840" crc="585a0a42" sha1="607c1d42c86b0088c761c712ffa9ccfcf511200e"/>
+		<rom name="King Pin flyer.jpg" size="1544924" crc="9de5124f" sha1="af3843a516699fe544210aa3488a9587bae08996"/>
+		<rom name="King Pin screenshot.jpg" size="1234200" crc="960ed84e" sha1="a02f4c08f65fb1cf7d03d31e7c026ea15e9075fe"/>
+	</machine>
+	<machine name="Kings (Williams)(1957)">
+		<description>Kings (Williams)(1957)</description>
+		<rom name="Approvazione Duglis.txt" size="42" crc="c5888884" sha1="a90ac16068141e59b9a2239cc99542cfa1232db1"/>
+		<rom name="Kings (Furio) screenshot.jpg" size="135286" crc="ac6a2e8c" sha1="7207eb78310fe2bafde4dc840344bbd9bf069acf"/>
+		<rom name="Kings (Williams)(1957)(Duglis, Furio)(1.0 Deluxe)[VP8].vpt" size="4558848" crc="b6b5da24" sha1="2b6b700b0840b8cd23c3bd3e6f4e64aeecbf626a"/>
+		<rom name="Kings (Williams)(1957)(Duglis, Furio)(1.1 Deluxe)[VP8].vpt" size="4699136" crc="ceba953d" sha1="d88f092db9284eba68a739e0d65d44eda1e08d77"/>
+	</machine>
+	<machine name="Lady Luck (Gottlieb)(1954)">
+		<description>Lady Luck (Gottlieb)(1954)</description>
+		<rom name="Commentary.txt" size="4192" crc="8f3a1821" sha1="66622b1f2bd362ed86bcca6912bafa7f80ad29d9"/>
+		<rom name="Lady Luck (Gottlieb)(1954)(pbecker1946)(1.0)[VP8].vpt" size="25866240" crc="a6fac789" sha1="2105c772c74cabeb6265819be6983ee641378db7"/>
+		<rom name="Lady Luck flyer.jpg" size="608287" crc="6ebfff4e" sha1="c1d14efdb800fec884f5e443ba047e0166663ce8"/>
+		<rom name="Lady Luck screenshot.jpg" size="1325313" crc="744f8bf5" sha1="25f45c2a05cf7c49aa5b257f4dbd94668d4d68be"/>
+	</machine>
+	<machine name="Lady Luck (Recel s.a)(1976)">
+		<description>Lady Luck (Recel s.a)(1976)</description>
+		<rom name="Fonts\gothic.ttf" size="61280" crc="f54af41b" sha1="035669a8e8a5b486c3300eb9ea7a6672bb7ac331"/>
+		<rom name="Fonts\gottlieb.ttf" size="2508" crc="65115886" sha1="76f6eede4bd05a0d2418640e3a6224b6ac1aaab9"/>
+		<rom name="Fonts\impact.ttf" size="136048" crc="638a4ccc" sha1="807b5e24d402fcdac6f9e9d97be071285ad27958"/>
+		<rom name="Lady Luck (Recel S.A. (Petaco))(1976)(Eala Dubh Sidhe)(RC1)[VP8].vpt" size="3231232" crc="96d62c7e" sha1="463cebba5853c26a93efefcb35021116ea75dec5"/>
+		<rom name="Lady Luck screenshot.jpg" size="505531" crc="2984ef77" sha1="9168fa86cf17e6c7248ce19e4cc0743177cf5c12"/>
+	</machine>
+	<machine name="Lightning Ball (Gottlieb)(1959)(pbecker1946)(1.0)[VP8]">
+		<description>Lightning Ball (Gottlieb)(1959)(pbecker1946)(1.0)[VP8]</description>
+		<rom name="Commentary.txt" size="5099" crc="1f16dccd" sha1="bda006781c393d633f809028cd0fb6f56945de8b"/>
+		<rom name="Flyer.jpg" size="268501" crc="fd02549c" sha1="03be6c1b67e8eb6ff987f0c6afa9a0e74bf56524"/>
+		<rom name="LBallss.jpg" size="872171" crc="c519f41d" sha1="3e72e19ea1b8f9926dd367c35d16bea4b9f0f45a"/>
+		<rom name="LightningBall(PLB)V1.vpt" size="32096768" crc="86c6f57e" sha1="aadc9b303e61e0921cc14ce160068d7aa3452f62"/>
+	</machine>
+	<machine name="Little Chief (Williams)(1975)">
+		<description>Little Chief (Williams)(1975)</description>
+		<rom name="Little Chief (Williams)(1975)(pbecker1946)(1.0)[VP8].vpt" size="20234752" crc="bf8a3c3c" sha1="b8bd7247c32246f2d1d46c9811a1284129b2b0e7"/>
+		<rom name="Little Chief Commentary.txt" size="3643" crc="b49d3894" sha1="88513fccbc75f756e597129e27c008fff4e90bf0"/>
+		<rom name="Little Chief flyer.jpg" size="2023778" crc="a51531f8" sha1="f133c358a3ccdc7a11dbd4395c7f85e85a36029e"/>
+		<rom name="Little Chief screenshot.jpg" size="508657" crc="0cecbf07" sha1="9d2316194452ecb689b8ae72470054a7b1aff062"/>
+	</machine>
+	<machine name="Magic (Stern Electronics)(1979)">
+		<description>Magic (Stern Electronics)(1979)</description>
+		<rom name="Magic (1.0) screenshot.jpg" size="866077" crc="bc0c002e" sha1="d0fdf8ce9d74ad31dc296bf696c08135edf70b61"/>
+		<rom name="Magic (Stern Electronics)(1979)(Eala Dubh Sidhe)(1.0)[VP8].vpt" size="6001152" crc="292a38d0" sha1="62b0e639f29db75e31ae7091ee0ed98f2563bcf7"/>
+	</machine>
+	<machine name="Magic City (Williams)(1967)(pbecker1946)(2.0a)[VP8]">
+		<description>Magic City (Williams)(1967)(pbecker1946)(2.0a)[VP8]</description>
+		<rom name="Magic City (Williams 1967) V2a.vpt" size="7287808" crc="1f4153d9" sha1="9372020aeecab48349fcaa3de4d8f4e244e14225"/>
+	</machine>
+	<machine name="Magic Clock (Williams)(1960)(pbecker1946)(1.0)[VP8]">
+		<description>Magic Clock (Williams)(1960)(pbecker1946)(1.0)[VP8]</description>
+		<rom name="Magic Clock (Williams)(1960)(pbecker1946)(1.0)[VP8]\Commentary.txt" size="4416" crc="94757dd0" sha1="cdc24df40faebfc04edcf585dcdf68c0312ba0b8"/>
+		<rom name="Magic Clock (Williams)(1960)(pbecker1946)(1.0)[VP8]\Flyer.jpg" size="268775" crc="d6fe8b03" sha1="8dc23c9185b99c34c2ad8e370274e5824cabcdb3"/>
+		<rom name="Magic Clock (Williams)(1960)(pbecker1946)(1.0)[VP8]\Magic Clock screenshot.jpg" size="1318044" crc="66f3c949" sha1="37f258cb805e2bd9062c8a7f1f424841ae9577e3"/>
+		<rom name="Magic Clock (Williams)(1960)(pbecker1946)(1.0)[VP8]\MagicClock60(PLB)V1.vpt" size="21705728" crc="7faaa302" sha1="1e612245005fc75a2cc9942573a65f5643ba7467"/>
+	</machine>
+	<machine name="Masquerade (Gottlieb)(1966)">
+		<description>Masquerade (Gottlieb)(1966)</description>
+		<rom name="Commentary.txt" size="4782" crc="7df58b55" sha1="54ba72bf51e55f221713b50de9742767d6a6691e"/>
+		<rom name="Masquerade (Gottlieb)(1966)(pbecker1946)(1.0)[VP8].vpt" size="22767616" crc="b41092ea" sha1="dbba0e4d8199a0fd34b58dc32a1a6e4f18baf33f"/>
+		<rom name="Masquerade flyer.jpg" size="2343255" crc="e21d6478" sha1="336debb93b2dd89d1ded6fba794a99d1ce9affbf"/>
+		<rom name="Masquerade screenshot.jpg" size="947019" crc="c1211b91" sha1="2a7d033eef50409e4cf46e3792f3ad3fe111bf2e"/>
+	</machine>
+	<machine name="Mermaid (Gottlieb)(1951)(pbecker1946)(1.0)[VP8]">
+		<description>Mermaid (Gottlieb)(1951)(pbecker1946)(1.0)[VP8]</description>
+		<rom name="Commentary.txt" size="3959" crc="d5d8f54a" sha1="f4a629d5fda095b6628a064fed319f36890ba504"/>
+		<rom name="Flyer.jpg" size="369250" crc="cb06f5c3" sha1="98fe72007abc4312536d5cb4d9a76e32cef01cab"/>
+		<rom name="MerMaid(PLB)V1.vpt" size="27371008" crc="b58368ce" sha1="fa8b52adf7e6d0a58936e2bd024a5ba93759b4dc"/>
+		<rom name="MermaidSS.jpg" size="1607939" crc="5b7bb73f" sha1="5220616e8e26c82682ea08ab8da2b85fedb2132c"/>
+	</machine>
+	<machine name="Moulin Rouge (Gottlieb)(1965)">
+		<description>Moulin Rouge (Gottlieb)(1965)</description>
+		<rom name="Commentary.txt" size="4010" crc="d68dfddb" sha1="1577555743a58a699eda4cc2f511919e194812ea"/>
+		<rom name="Moulin Rouge (Gottlieb)(1965)(pbecker1946)(1.0)[VP8].vpt" size="23135744" crc="56749899" sha1="b50ed870dca0b6c31020194f61e14f91c32746e1"/>
+		<rom name="Moulin Rouge flyer.jpg" size="1789212" crc="5b81c255" sha1="1d9772c07437475702aae44914ca32c269ee8120"/>
+		<rom name="Moulin Rouge screenshot.jpg" size="1307735" crc="7e7b2042" sha1="401d13b89176dcae67e3543d010d817a48845c03"/>
+	</machine>
+	<machine name="Mystic Marvel (Gottlieb)(1954)(pbecker1946)(1.0)[VP8]">
+		<description>Mystic Marvel (Gottlieb)(1954)(pbecker1946)(1.0)[VP8]</description>
+		<rom name="Commentary.txt" size="4408" crc="d5b7ca79" sha1="ae2e61107318697807aa6c40ef8444ad71c8332e"/>
+		<rom name="Flyer.jpg" size="1381731" crc="fb8f2d02" sha1="57202649143b3611d09b91a3cd67faf39337748a"/>
+		<rom name="MysticMarvel(PLB)V1.vpt" size="24139264" crc="ccbda75b" sha1="811720a13a0c73990b7a4aa40683a1e39d594136"/>
+		<rom name="MysticSS.jpg" size="1521114" crc="b6f2de0d" sha1="32e44c85a8e5a8540b12e10157363f9c2617f375"/>
+	</machine>
+	<machine name="New World (Playmatic)(1976)">
+		<description>New World (Playmatic)(1976)</description>
+		<rom name="New World (Playmatic)(1976)(Eala Dubh Sidhe)(RC1)[VP8].vpt" size="7264256" crc="f89bce51" sha1="e5bea020328c1a007459c063b04214a12e1621d4"/>
+		<rom name="New World (RC1) screenshot.jpg" size="504939" crc="c9f39fa0" sha1="4b7389d8b150611be9ae0dc0b0e5c80814466194"/>
+	</machine>
+	<machine name="Niagara (Gottlieb)(1951)">
+		<description>Niagara (Gottlieb)(1951)</description>
+		<rom name="2.0\Niagara (2.0) screenshot.jpg" size="152355" crc="e6636628" sha1="626438d10f1c0582ae3b6d8791b1f009c8d30448"/>
+		<rom name="2.0\Niagara (Gottlieb)(1951)(Furio)(2.0)[VP8].vpt" size="5196288" crc="ca4bbcec" sha1="ca01297f768a4c661113963ffb729239d0ecf3df"/>
+		<rom name="2.1\Niagara (2.1) screenshot.jpg" size="176055" crc="48d38bf4" sha1="44969310fdd0f764cf1ef55ba1b48ebd3145e0be"/>
+		<rom name="2.1\Niagara (Gottlieb)(1951)(Furio)(2.1)[VP8].vpt" size="5195776" crc="e568c20d" sha1="a2f61215437d8fb3a37aa757fbc8a9b6abf61b68"/>
+	</machine>
+	<machine name="North Star (Gottlieb)(1964)(pbecker1946)(1.0)[VP8]">
+		<description>North Star (Gottlieb)(1964)(pbecker1946)(1.0)[VP8]</description>
+		<rom name="Commentary.txt" size="3745" crc="ef36f447" sha1="2d8eea8e5c71254645419affe68a02da43c4f076"/>
+		<rom name="NorthStar(PLB)V1.vpt" size="26058752" crc="c08e30b1" sha1="7680f3c1046782a228906c38b6fff03ba25065db"/>
+		<rom name="nstarss_C21.jpg" size="1020566" crc="99fb700b" sha1="ccc77422601bde4d75c4fb91e786a68f6604e67b"/>
+	</machine>
+	<machine name="Out of Sight (Gottlieb)(1974)">
+		<description>Out of Sight (Gottlieb)(1974)</description>
+		<rom name="Fonts\arial.ttf" size="273020" crc="2164d13d" sha1="54409697aa6122190669cac73b49866f5210b184"/>
+		<rom name="Fonts\gottlieb score.ttf" size="2508" crc="65115886" sha1="76f6eede4bd05a0d2418640e3a6224b6ac1aaab9"/>
+		<rom name="Fonts\led.ttf" size="32368" crc="8bb9cccf" sha1="5de776ed3038467bc45ed06040dc30fa9b3b4e8c"/>
+		<rom name="Fonts\times.ttf" size="322824" crc="4b7e20b0" sha1="5af74eae397a38d825573c17e2426f41047df142"/>
+		<rom name="mod notes.txt" size="1512" crc="55da25d2" sha1="73b774e7f305cb19bbbdf999f3e0838eb77167bb"/>
+		<rom name="Out of Sight (Gottlieb)(1974)(Redswal)(1.0)[VP8](Mod 1 King Clam).vpt" size="3801600" crc="4298f89b" sha1="31ad2b6a289769aa3e91e90500b2cb53cfdbcad3"/>
+		<rom name="Out of Sight (mod 1) screenshot.jpg" size="175965" crc="49a63400" sha1="82fac25e231cfdc3bc3dbf95708c4e32d020b0b0"/>
+		<rom name="Out of Sight Rules.txt" size="2033" crc="6c799001" sha1="4f5fe64d2a334dc98f88b88ef485cb92521d94b2"/>
+		<rom name="permission.txt" size="469" crc="1aa7e8cf" sha1="edf73ae2acc137d64d6fc5adcd8dd29e7c55b0c0"/>
+	</machine>
+	<machine name="Palisades (Williams)(1953)">
+		<description>Palisades (Williams)(1953)</description>
+		<rom name="Commentary.txt" size="4615" crc="483789ca" sha1="50519098a3d941b9614fbbe92471d45d8008b6e6"/>
+		<rom name="Palisades (Williams)(1953)(pbecker1946)(1.0)[VP8].vpt" size="18131456" crc="13c60ae8" sha1="c8a1ffa8f31079c88721c9d1a7a8482923f9c50e"/>
+		<rom name="Palisades screenshot.jpg" size="1349079" crc="ba72122b" sha1="de0b607e6b62cb232b01ffbaad6032f428e81dc0"/>
+	</machine>
+	<machine name="Paradise (Gottlieb)(1965)">
+		<description>Paradise (Gottlieb)(1965)</description>
+		<rom name="Paradise (Gottlieb)(1965)(Bendigo, Furio)(1.0)[VP8].vpt" size="2404352" crc="bf13d00e" sha1="2263004069640e552a8d8d9b03e288a1f1b5b1b0"/>
+		<rom name="Paradise screenshot.jpg" size="237832" crc="34db8697" sha1="9ff5f858b43270e877368053bc8cdde88413c389"/>
+	</machine>
+	<machine name="Peter Pan (Williams)(1955)(pbecker1946)(1.0)[VP8]">
+		<description>Peter Pan (Williams)(1955)(pbecker1946)(1.0)[VP8]</description>
+		<rom name="Commentary.txt" size="3783" crc="e237b853" sha1="4da968f446e22461157bc2e97ac7b0e66dd92393"/>
+		<rom name="Flyer.jpg" size="400892" crc="57771e71" sha1="717dcbd64908745276133931d654c11ea97b5fe3"/>
+		<rom name="PeterPan(PLB)V1.vpt" size="25471488" crc="ca891d30" sha1="853e1ac0718f9f10e42bde2ee9a3b2467b3c3f7b"/>
+		<rom name="PeterPanSS.jpg" size="1354708" crc="a2450c13" sha1="b90e9a8077f25aff8827b37f0cdddce06a937db4"/>
+	</machine>
+	<machine name="Pioneer (Gottlieb)(1976)(AndyPandy)(1.0)[VP8]">
+		<description>Pioneer (Gottlieb)(1976)(AndyPandy)(1.0)[VP8]</description>
+		<rom name="Pioneer.vpt" size="30338560" crc="52753dfa" sha1="03ffc2b9553eaa3cb8d98d8d7c73ade0fdf3c203"/>
+		<rom name="pioneer_ME9.jpg" size="1055388" crc="fb1b4f9b" sha1="4f624a1e335795e5aff1c244a083fc8a73a49a30"/>
+	</machine>
+	<machine name="Preview (Gottlieb)(1962)">
+		<description>Preview (Gottlieb)(1962)</description>
+		<rom name="Commentary.txt" size="3646" crc="d7b5dd0e" sha1="1760b60bf21bd97a21007a0a77de83ce0e5e9abf"/>
+		<rom name="Preview (Gottlieb)(1962)(pbecker1946)(1.0)[VP8].vpt" size="21631488" crc="b3435020" sha1="eb7902fb8a0f9fb2bd4feddc03401622eacd2b8f"/>
+		<rom name="Preview screenshot.jpg" size="1427631" crc="52d5ff13" sha1="94b53a1a355cd6d9d10cc21dec3593792c352c74"/>
+	</machine>
+	<machine name="Quartette (Gottlieb)(1952)">
+		<description>Quartette (Gottlieb)(1952)</description>
+		<rom name="2.0\Quartette (2.0) screenshot.jpg" size="136924" crc="c4fbc740" sha1="d46311efb7ad4635e97255b76f0fbe891486f515"/>
+		<rom name="2.0\Quartette (Gottlieb)(1952)(Furio)(2.0)[VP8].vpt" size="4783104" crc="4293fb50" sha1="5639b29af60ff6a8bee6f2054bd72169780547d6"/>
+		<rom name="2.1\Quartette (2.1) screenshot.jpg" size="197965" crc="9f28b3df" sha1="803d7ed93db6a2cf17b0ece3fd8bc2be2bbff749"/>
+		<rom name="2.1\Quartette (Gottlieb)(1952)(Furio)(2.1)[VP8].vpt" size="5079040" crc="96e4de31" sha1="7c1d059f7d1f847e8132cc456b6b0e053eaca8ec"/>
+	</machine>
+	<machine name="Queen of Hearts (Gottlieb)(1952)">
+		<description>Queen of Hearts (Gottlieb)(1952)</description>
+		<rom name="Commentary.txt" size="4107" crc="ec39bf1c" sha1="9cd327e6d59392d61176ecb8159b26b59ba57397"/>
+		<rom name="Queen of Hearts (Gottlieb)(1952)(pbecker1946)(1.0)[VP8].vpt" size="31059456" crc="2b6e07ec" sha1="559d3dbad8477105fe87ee0889259eb990f528d9"/>
+		<rom name="Queen of Hearts screenshot.jpg" size="1464582" crc="ceeb1a39" sha1="f4c6fb22e07e32144acd282286b70d7cc51e46c9"/>
+	</machine>
+	<machine name="Race-Way (Midway)(1963)(Romolo2002)(1.0)[VP811]">
+		<description>Race-Way (Midway)(1963)(Romolo2002)(1.0)[VP811]</description>
+		<rom name="Race-Way (1963 Midway) VP 811.jpg" size="137345" crc="a918dbc1" sha1="b97a8be09c2555319becbc785a6a8491664a6d5c"/>
+		<rom name="Race-Way (1963 Midway) VP 811.vpt" size="4816896" crc="5c607859" sha1="cd23a8f55083b9bc169f33ccf90fb64b61e09b88"/>
+	</machine>
+	<machine name="Reno (Williams)(1957)(pbecker1946)(1.0)[VP8]">
+		<description>Reno (Williams)(1957)(pbecker1946)(1.0)[VP8]</description>
+		<rom name="Commentary.txt" size="4887" crc="19f0a99d" sha1="95343443615a8e35d2a521d9ed9ff55cbeeb707e"/>
+		<rom name="Flyer.jpg" size="858066" crc="d85c08dc" sha1="1e5bc4b1abfa99d291982950b9941644a4c3b1a0"/>
+		<rom name="Reno(PLB)V1.vpt" size="26377216" crc="943fa4ac" sha1="7dedc3219dd7e75070f22d265807032633ed0de6"/>
+		<rom name="RenoSS.jpg" size="1191273" crc="210c828c" sha1="5aa0775dfa9f9ec5aad9362bfe8e334d94b86b02"/>
+	</machine>
+	<machine name="Reserve (Williams)(1961)">
+		<description>Reserve (Williams)(1961)</description>
+		<rom name="Commentary.txt" size="5250" crc="fd4858f1" sha1="fa03594570c9cf72e6f002750b6418db42773435"/>
+		<rom name="Flyer.jpg" size="1594522" crc="82c13f50" sha1="5c71a5bd77a02cf9095786376a7c3aeca8c943f7"/>
+		<rom name="Reserve (Williams)(1961)(Pbecker1946)(1.0)[VP8].vpt" size="27644928" crc="66c70580" sha1="eba54a8ae52c358831e3895af974dfd9ec289108"/>
+		<rom name="Reserve screenshot.jpg" size="1350594" crc="05c21408" sha1="e4ff0608533f7e0fca8f6dccffe37c17ae3515d4"/>
+	</machine>
+	<machine name="Rocket (Williams)(1959)">
+		<description>Rocket (Williams)(1959)</description>
+		<rom name="Commentary.txt" size="3521" crc="b002f8e2" sha1="761afc01e53ae0cc4aa8d5f3455f59bc13feeeb3"/>
+		<rom name="Flyer.jpg" size="3312662" crc="970acca0" sha1="664318a86f22e857a2a2734e4d97cc1f8e5ffa95"/>
+		<rom name="Rocket (Williams)(1959)(pbecker1946)(1.0)[VP8].vpt" size="21519360" crc="a69c6ec3" sha1="ef621c030f9f76bce3f8026e2f9ad83f50b3bf2e"/>
+		<rom name="Rocket screenshot.jpg" size="1388494" crc="bfa0a65f" sha1="54eddd448026ce62340edf3695b5b08a5fcc76db"/>
+	</machine>
+	<machine name="Rocket Ship (Gottlieb)(1958)pbecker1946)(1.0)[VP8]">
+		<description>Rocket Ship (Gottlieb)(1958)pbecker1946)(1.0)[VP8]</description>
+		<rom name="Commentary.txt" size="3978" crc="4d5b8fe8" sha1="e1be746971a3f17b25d1b20f1953660993024927"/>
+		<rom name="Flyer.jpg" size="1475627" crc="a516f53c" sha1="816b52f990e150ed8c006a0d06f6c5a99a7d87b7"/>
+		<rom name="RocketShip58(PLB)V1.vpt" size="21003264" crc="ce240bac" sha1="135affd13fab39a86c953a6c31607ad4172efb00"/>
+		<rom name="RocketShipSS.jpg" size="1441945" crc="2d688508" sha1="ba256e85906fcb3959af1d7d57c882d1d6ce6d00"/>
+	</machine>
+	<machine name="Rockettes (Gottlieb)(1950)(pbecker1946)(1.0)[VP8]">
+		<description>Rockettes (Gottlieb)(1950)(pbecker1946)(1.0)[VP8]</description>
+		<rom name="Commentary.txt" size="3729" crc="ff3dd06b" sha1="3405783178f80bf360467dc1519180e9aff23efd"/>
+		<rom name="Flyer.jpg" size="1907643" crc="cddafad0" sha1="ab72423e7f0aef75bcfb0688a3d63554bfe3a712"/>
+		<rom name="Rockettes(PLB)V1.vpt" size="18322432" crc="94aac912" sha1="eb3ad58f1c0bf53407f0bed3b8c930222a4c36cb"/>
+		<rom name="RockettesSS.jpg" size="1331829" crc="fd6437f6" sha1="e7ae162475a0f9f145c054eecfb67bff0ffa0b4b"/>
+	</machine>
+	<machine name="Rocky Girl (Giuliano Lodola)(1979)">
+		<description>Rocky Girl (Giuliano Lodola)(1979)</description>
+		<rom name="permission.txt" size="349" crc="d125fda3" sha1="511c5ed85946c2dbdb33c08f07dcc56aa1b146c4"/>
+		<rom name="Rocky Girl (Giuliano Lodola)(1979)(Redswal)(1.0)[VP8](Mod 1 King Clam).vpt" size="7773696" crc="115eae40" sha1="626667acf2ad1036f641944380be515ff26b3a2a"/>
+		<rom name="Rocky Girl (Mod) screenshot.jpg" size="187459" crc="f3d49492" sha1="bfa4d12fff91ea817fd956dddced96303515b9f5"/>
+	</machine>
+	<machine name="Royal Flush (Gottlieb)(1957)">
+		<description>Royal Flush (Gottlieb)(1957)</description>
+		<rom name="Royal Flush (Gottlieb)(1957)(Furio)(1.0)[VP8].vpt" size="4017152" crc="21365833" sha1="644d3706e099e90a4b345b67c62450a0833fee6f"/>
+		<rom name="Royal Flush (Gottlieb)(1957)(Furio)(1.1)[VP8].vpt" size="4131328" crc="8c06b1b3" sha1="30bcc01ed1bff1c9985fa80a20ff6df0d8d75251"/>
+		<rom name="Royal Flush (Gottlieb)(1957)(Furio)(1.2)[VP8].vpt" size="3921408" crc="6a10724e" sha1="edfe0584e4814661b95f083d9e1bc98f9a52e633"/>
+		<rom name="Royal Flush flyer.jpg" size="1727347" crc="1d329e0e" sha1="40579f64dd9fbe4eb4b4807aa62df3fcb667a6df"/>
+		<rom name="Royal Flush screenshot.jpg" size="134626" crc="dabe8e82" sha1="f5dbc04c6eb05b238b802e75c38c5581e2c1ed85"/>
+	</machine>
+	<machine name="SeaWolf (Williams)(1959)(pbecker1946)(1.0)[VP8]">
+		<description>SeaWolf (Williams)(1959)(pbecker1946)(1.0)[VP8]</description>
+		<rom name="Commentary.txt" size="4568" crc="449e58ec" sha1="f0fbd4ee97616fe8f2c5c54e2cc3c10650676213"/>
+		<rom name="Seawolf Flyer.jpg" size="311069" crc="144bf343" sha1="b3ee360817276fa23fed09bcac7f42c0054365c1"/>
+		<rom name="SeaWolf(PLB)V1.vpt" size="29871616" crc="7a66bb73" sha1="7373a4037aab6d3781e6973bb5456d75131b7c9e"/>
+		<rom name="SeaWolfss.jpg" size="703342" crc="0a63f81d" sha1="00ce37405ee10467a13e8fb0b00509bc04124952"/>
+	</machine>
+	<machine name="Shamrock (Inder)(1977)">
+		<description>Shamrock (Inder)(1977)</description>
+		<rom name="Shamrock (Inder)(1977)(Shamrock)(1.0)[VP8].vpt" size="4770304" crc="b2ec1f7a" sha1="920eada3ff178f56c165375c82f97c6dbe7cfbd4"/>
+		<rom name="Shamrock (Inder)(1977)(Shamrock)(1.1)[VP8].vpt" size="4770304" crc="a45d647d" sha1="8303503769b6b80499d6c8576d58886cb359e5de"/>
+		<rom name="Shamrock (Inder)(1977)(Shamrock)(1.2)[VP8].vpt" size="4770304" crc="87842cdd" sha1="3e39395749890e085481cae754e2a3e5f4ed5f4f"/>
+		<rom name="Shamrock flyer 1.jpg" size="1040408" crc="4156c0e3" sha1="cd94668210711181a1dbdb0bddb6b0c8edfc429a"/>
+		<rom name="Shamrock flyer 2.jpg" size="1077239" crc="64c61d52" sha1="c7a807446b823397341f61e6a240e5d9bd2da748"/>
+		<rom name="Shamrock screenshot.jpg" size="191011" crc="8af32170" sha1="bea1340dc114efb6a5c4ebe1bfebce7a60dcca0f"/>
+	</machine>
+	<machine name="Sharpshooter (Gottlieb)(1949)(pbecker1946)(1.0)[VP8]">
+		<description>Sharpshooter (Gottlieb)(1949)(pbecker1946)(1.0)[VP8]</description>
+		<rom name="Commentary.txt" size="4668" crc="4befee92" sha1="b0d0e11b261c01f2ee63c3e99c36805f7ca6d4da"/>
+		<rom name="sharpshooter-1949-f-1.jpg" size="1505715" crc="8c3e199f" sha1="8bdc0fcd31becb4e712752f750965b074d50e681"/>
+		<rom name="SharpShooter49(PLB)V1.vpt" size="25354240" crc="f95db09d" sha1="0ed4f6d429d72f5f0d885fa85acf286fdaed93d4"/>
+		<rom name="SharpShooterSS.jpg" size="1363026" crc="ad4763f8" sha1="8e63b720a8bc55e94d88458f1b2e8c50df599646"/>
+	</machine>
+	<machine name="Ship-Mates (Gottlieb)(1964)">
+		<description>Ship-Mates (Gottlieb)(1964)</description>
+		<rom name="Ship-Mates (Gottlieb)(1964)(Furio)(1.8 Deluxe)[VP8].vpt" size="4062208" crc="df8fb523" sha1="908155ba6ae138fe81eb9a958bb0decfd4773da8"/>
+		<rom name="Ship-Mates (Gottlieb)(1964)(Furio)(1.81 Deluxe)[VP8].vpt" size="4063232" crc="cd18956c" sha1="4ca5e678532736e2d4ba199f7cfc0416f6863ad3"/>
+	</machine>
+	<machine name="Show Boat (Genco)(1957)">
+		<description>Show Boat (Genco)(1957)</description>
+		<rom name="Show Boat (Genco)(1957)(Furio)(1.1)[VP8].vpt" size="4062208" crc="aae9eadb" sha1="7bd57513dafd9ae1c18a96521e9ca33c47119365"/>
+		<rom name="Show Boat (Genco)(1957)(Furio)(1.2)[VP8].vpt" size="4057600" crc="9f6df6e3" sha1="fac5356f3512cd02c9e66cdadb705d7c81a4f0f9"/>
+		<rom name="Show Boat (Genco)(1957)(Furio)(1.3)[VP8].vpt" size="4057600" crc="cfe84437" sha1="4d4767038017b8834ffbc97e509fcf875fee4eee"/>
+		<rom name="Show Boat (Genco)(1957)(Furio)(1.4)[VP8].vpt" size="3930112" crc="840e5ef3" sha1="cfbba64286e4f842d92234186222671886870ed1"/>
+		<rom name="Show Boat flyer.jpg" size="1082007" crc="143c6513" sha1="f1e224937e1c3850a222d6a02c4bd54fc96a559c"/>
+		<rom name="Show Boat screenshot.jpg" size="127537" crc="37f80e41" sha1="7d9702fbc437216ef871483a1632f2c64463a2c2"/>
+	</machine>
+	<machine name="Silver (Gottlieb)(1957)(Furio)(1.1)[VP8]">
+		<description>Silver (Gottlieb)(1957)(Furio)(1.1)[VP8]</description>
+		<rom name="Silver (Furio) screenshot.jpg" size="130014" crc="43cda5aa" sha1="7716962483f0d9bb028faab6b1a18b6effb2a669"/>
+		<rom name="Silver (Gottlieb 1957) 1.0.vpt" size="3552768" crc="fc03b372" sha1="b69bed0197070095463705dbef04e5cfb8425aac"/>
+		<rom name="Silver (Gottlieb 1957) 1.1.vpt" size="3562496" crc="7230f997" sha1="6a27959677f814d40ab19b2dba8630813895c3dc"/>
+	</machine>
+	<machine name="Silver (Gottlieb)(1957)(pbecker1946)(1.0)[VP8]">
+		<description>Silver (Gottlieb)(1957)(pbecker1946)(1.0)[VP8]</description>
+		<rom name="Commentary.txt" size="3890" crc="2cda4fca" sha1="a86c1e60ebe627771d61726fa3f17a4dc513bafd"/>
+		<rom name="Flyer.jpg" size="210203" crc="1c475d97" sha1="2c819c6592c06c14c26d625027b411935f4f36f4"/>
+		<rom name="Silver(PLB)V1.vpt" size="31646208" crc="8cb2199a" sha1="5ed9e4fb7a224b77ad1a387345f08805164e370f"/>
+		<rom name="SilverSS.jpg" size="971911" crc="e5a119e9" sha1="e726adbcdf38293ee01c25cdd092e11e1f45fbd9"/>
+	</machine>
+	<machine name="Sky-Line (Gottlieb)(1965)(pbecker1946)(1.1)[VP8]">
+		<description>Sky-Line (Gottlieb)(1965)(pbecker1946)(1.1)[VP8]</description>
+		<rom name="Commentary.txt" size="3527" crc="44b2b028" sha1="9f33720f3af08598958493e934a98f76bf7504c6"/>
+		<rom name="Sky-Line(PLB)V1.vpt" size="23345664" crc="33f50521" sha1="e1ad6daac7c545b29f8863d0148944331f4f4edb"/>
+		<rom name="SKYLss.jpg" size="951707" crc="42b776fc" sha1="31750ea92ac3e95c837e3bfaf7ad6a933f2048f2"/>
+	</machine>
+	<machine name="Skyway (Williams)(1954)">
+		<description>Skyway (Williams)(1954)</description>
+		<rom name="Commentary.txt" size="5597" crc="4adac536" sha1="7587037083ede46b7bc1bcbbd46eac482eee4cea"/>
+		<rom name="Skyway (Williams)(1954)(pbecker1946)(1.0)[VP8].vpt" size="25549824" crc="80c1d3c4" sha1="38953c25ab7ea88b6eb6644e1976a1d7a9dc1ad6"/>
+		<rom name="Skyway screenshot.jpg" size="866192" crc="57fe5e83" sha1="c4d14c381faab091b7366fce23fc22f273807df1"/>
+	</machine>
+	<machine name="Soccer Kings (Zaccaria)(1982)">
+		<description>Soccer Kings (Zaccaria)(1982)</description>
+		<rom name="Soccer Kings (Zaccaria)(1982)(Eala Dubh Sidhe)(RC1)[VP8].vpt" size="6731776" crc="f525c64a" sha1="6cfada69134b0f9b87b52e69ce0f9ba1ed863908"/>
+		<rom name="Soccer Kings (Zaccaria)(1982)(Eala Dubh Sidhe)(RC2)[VP8].vpt" size="6731264" crc="2432353f" sha1="127000c4ba6a65ce367affe94a42e4acf57e1282"/>
+	</machine>
+	<machine name="Solar Ride (Gottlieb)(1979)">
+		<description>Solar Ride (Gottlieb)(1979)</description>
+		<rom name="Fonts\williamspinball.ttf" size="23548" crc="02e83ad1" sha1="a3285aedc5d4d42e7bf6a06713562bc94a165f97"/>
+		<rom name="Solar Ride (Gottlieb)(1979)(Robair)[Mod by OWJ (1.0 mod by Satch)][VP8].vpt" size="2765824" crc="bac89ecf" sha1="f0ead89462ff37f3390cfe453c7ac2504bcb22bf"/>
+		<rom name="Solar Ride (Gottlieb)(1979)(Robair)[Mod by OWJ fixed 1 (1.0 mod by Satch)][VP8].vpt" size="2834432" crc="ece6e24d" sha1="ed1fdaf50d10ed9e534ebe504d09de74a7bbafae"/>
+		<rom name="Solar Ride (Gottlieb)(1979)(Robair)[Mod by OWJ fixed 2 (1.0 mod by Satch)][VP8].vpt" size="2834432" crc="129ae521" sha1="5e394f48071889a1775e2a1c9318aa207a37892e"/>
+		<rom name="Solar Ride (OWJ) screenshot.jpg" size="286062" crc="8b0cfc8b" sha1="17ce2340dce3895aeb1e8a4f676a0fbf1e128a72"/>
+	</machine>
+	<machine name="Space Mission (Williams)(1976)">
+		<description>Space Mission (Williams)(1976)</description>
+		<rom name="Commentary.txt" size="3659" crc="267f8010" sha1="811ef9e467ad0c301cf8623955eea52cb65055fd"/>
+		<rom name="McCall Painting.jpg" size="167997" crc="9febe38e" sha1="1624009f42bf440978a2671714f5234a8dc22e06"/>
+		<rom name="Space Mission (Williams)(1976)(pbecker1946)(1.0)[VP8].vpt" size="21900800" crc="3898a2e4" sha1="e51cc1fc44f4226acdfe371d36de083887b013cd"/>
+		<rom name="Space Mission screenshot.jpg" size="982008" crc="3dbe401a" sha1="c4f4953eaebaffa7c620a5102f4ea115a4e89a8c"/>
+	</machine>
+	<machine name="Space Ship (Williams)(1961)(pbecker1946)(1.0)[VP8]">
+		<description>Space Ship (Williams)(1961)(pbecker1946)(1.0)[VP8]</description>
+		<rom name="Commentary.txt" size="3486" crc="837aef1d" sha1="69487a32222973a0ef5648f9cf3a667e6bfd87f8"/>
+		<rom name="space_ship-1961-f-1.jpg" size="1563230" crc="34b04359" sha1="a0b8293081c9321594b9535cec31680ebdf7c3a2"/>
+		<rom name="SpaceShip(PLB)V1.vpt" size="22189568" crc="b7718ed3" sha1="131ed174e1e5cd7a157362dcb70d451783b50fb9"/>
+		<rom name="SpaceShipSS.jpg" size="1449418" crc="d603ccbe" sha1="3e7c7c5b43a45e22affe8ccb37fa9c200a8894ab"/>
+	</machine>
+	<machine name="Spitfire (Williams)(1954)">
+		<description>Spitfire (Williams)(1954)</description>
+		<rom name="Commentary.txt" size="3989" crc="581ddfef" sha1="a1a8c11798370b5d5c91a541186202b7684a2c3a"/>
+		<rom name="Spitfire (Williams)(1954)(pbecker1946)(1.0)[VP8].vpt" size="26031104" crc="07667de9" sha1="4df818971f10de2ef06db580714264f43adcfa93"/>
+		<rom name="Spitfire screenshot.jpg" size="1330080" crc="63c86dc0" sha1="aaf27a0c6c8658495999af40c01ed6cc5c7526a5"/>
+	</machine>
+	<machine name="Spot Bowler (Gottlieb)(1950)">
+		<description>Spot Bowler (Gottlieb)(1950)</description>
+		<rom name="Commentary.txt" size="4721" crc="f4e1e71a" sha1="483df5551b3c06187cd584552b9638217576eea0"/>
+		<rom name="Flyer.jpg" size="260330" crc="5b079c45" sha1="49e1fe24b5f888c639cc1ecffded57b18bda4531"/>
+		<rom name="Spot Bowler (Gottlieb)(1950)(Pbecker1946)(1.0)[VP8].vpt" size="29371392" crc="04550570" sha1="d88fb1492c7a642a830c99ebb84966592fcf8575"/>
+		<rom name="Spot Bowler screenshot.jpg" size="1306598" crc="5387f793" sha1="d9390ae9f8fb42a31bb80e64f0b7812868e1773f"/>
+	</machine>
+	<machine name="Strato-Flite (Williams)(1974)(pbecker1946)(1.0)[VP8]">
+		<description>Strato-Flite (Williams)(1974)(pbecker1946)(1.0)[VP8]</description>
+		<rom name="Commentary.txt" size="4376" crc="ca6b3f8c" sha1="40e002a3f15abb59b489951f3298788e5a761c45"/>
+		<rom name="Flyer.jpg" size="528159" crc="b7d90b3e" sha1="28dee3d4196dae78eae067d15043fef432df8eec"/>
+		<rom name="StratoFlite(PLB)V1.vpt" size="20045824" crc="35a2606d" sha1="b38c9ccf17be7aee9f0274caae32de58230e3326"/>
+		<rom name="Stratoss.jpg" size="1215250" crc="80e5cd5e" sha1="0fc7105aad55cca659ca64cd21174bc88d2e3552"/>
+	</machine>
+	<machine name="Struggle Buggies (Williams)(1953)">
+		<description>Struggle Buggies (Williams)(1953)</description>
+		<rom name="Struggle Buggies (Williams)(1953)(Duglis, Furio)(1.11)(Deluxe edition)[VP8].vpt" size="2958848" crc="44ff802b" sha1="49b49e953dea4cf9430b228f88645e41b0c37874"/>
+		<rom name="Struggle Buggies (Williams)(1953)(Duglis, Furio)(1.21)(Deluxe edition)[VP8].vpt" size="2820096" crc="6aaf5c8a" sha1="b13ce9d01481ea7db889d7f43ff1b624a97660a1"/>
+	</machine>
+	<machine name="Student Prince (Williams)(1968)">
+		<description>Student Prince (Williams)(1968)</description>
+		<rom name="Commentary.txt" size="3293" crc="67fcf1e0" sha1="0d82550ff5f15d70d8da5db315981ccf0319f109"/>
+		<rom name="Student Prince (Williams)(1968)(pbecker1946)(1.0)[VP8].vpt" size="19597824" crc="a89e7e3c" sha1="6ddd4840f354fada03a45c7638742dc98ea04546"/>
+		<rom name="Student Prince flyer.jpg" size="471026" crc="327caf30" sha1="29d37077d957065ea334ebfbef0bd764bfe0cf6b"/>
+		<rom name="Student Prince screenshot.jpg" size="1071375" crc="8e7282b0" sha1="e9f791f116eb45dae5f7aa4c8a78c65006cef3d8"/>
+	</machine>
+	<machine name="Sunny (Williams)(1947)">
+		<description>Sunny (Williams)(1947)</description>
+		<rom name="Commentary.txt" size="5944" crc="b777c08e" sha1="180ae11c5cfbb7172dd1894858051b55ac14cedf"/>
+		<rom name="Flyer.jpg" size="81558" crc="32a96b8e" sha1="c44b4ecae868925f3eee555a4436fb6381513803"/>
+		<rom name="Sunny (Williams)(1947)(Pbecker1946)(1.0)[VP8].vpt" size="24967168" crc="5e77c883" sha1="b59b797ed249bfdf3bc539d010869617056d0d19"/>
+		<rom name="Sunny Drawing.jpg" size="475345" crc="1c57b6a8" sha1="4ec97da664cf4426ae03509e4104266c88806772"/>
+		<rom name="Sunny screenshot.jpg" size="1299519" crc="c2989baf" sha1="32808681204edd038cf7bb0ecfd9b4ccd11ba764"/>
+	</machine>
+	<machine name="Sweet Hearts (Gottlieb)(1963)(pbecker1946)(1.0)[VP8]">
+		<description>Sweet Hearts (Gottlieb)(1963)(pbecker1946)(1.0)[VP8]</description>
+		<rom name="Commentary.txt" size="3409" crc="c6f10d04" sha1="a8ae43a2ee047d244fc328bef40e4fd43f188ec2"/>
+		<rom name="Flyer.jpg" size="234133" crc="a674314d" sha1="2c86a16e7dad467ab42090e3e92aac5ee4c9d38c"/>
+		<rom name="SweetHearts(PLB)V1.vpt" size="20036608" crc="d922085a" sha1="a2fdb3d0c355dc56067bfb3efb190d470dbd5fe2"/>
+		<rom name="SweetHeartsSS.jpg" size="1516923" crc="f92a4f76" sha1="caf040e1c97c360894b2372120696994f5b604f4"/>
+	</machine>
+	<machine name="Swing Along (Gottlieb)(1963)">
+		<description>Swing Along (Gottlieb)(1963)</description>
+		<rom name="Swing Along (Gottlieb)(1963)(Bruno)(1.0)[VP8].vpt" size="6004736" crc="3f3ba86a" sha1="7171baabc311385e842dcd8673683739edbed382"/>
+		<rom name="Swing Along flyer.jpg" size="1589290" crc="f1d18bb0" sha1="6b77b5a1ee6a0a8799e7856b6f5b5734ac0effbf"/>
+		<rom name="Swing Along screenshot.jpg" size="561125" crc="1c5eaee3" sha1="691fc4824ff4c2c872eb542d93f7502994ca78b9"/>
+	</machine>
+	<machine name="Swing Along (Gottlieb)(1963)(Bruno)(1.00)[VP8]">
+		<description>Swing Along (Gottlieb)(1963)(Bruno)(1.00)[VP8]</description>
+		<rom name="Swing Along flyer.jpg" size="1589290" crc="f1d18bb0" sha1="6b77b5a1ee6a0a8799e7856b6f5b5734ac0effbf"/>
+		<rom name="Swing Along-Gottlieb-1963-vp8-R1.0.0.jpg" size="561125" crc="1c5eaee3" sha1="691fc4824ff4c2c872eb542d93f7502994ca78b9"/>
+		<rom name="SWING ALONG-GOTTLIEB-1963-VP8-R1.00.vpt" size="6004736" crc="3f3ba86a" sha1="7171baabc311385e842dcd8673683739edbed382"/>
+	</machine>
+	<machine name="T.K.O. (Gottlieb)(1979)">
+		<description>T.K.O. (Gottlieb)(1979)</description>
+		<rom name="Commentary.txt" size="4446" crc="c3bcc7be" sha1="be145532bf1e07287e52e34b66016d256183f4ca"/>
+		<rom name="T.K.O. (Gottlieb)(1979)(pbecker1946)(1.0)[VP8].vpt" size="21683712" crc="da8d0941" sha1="b7cca559e2e00e948b9e756c4b611e6658b798a8"/>
+		<rom name="T.K.O. screenshot.jpg" size="1189550" crc="87ba3f54" sha1="2c1dfdc97ba2075d97e65bd8757045a05fbb3617"/>
+	</machine>
+	<machine name="Teacher's Pet (Williams)(1965)(pbecker1946)(1.0)[VP8]">
+		<description>Teacher's Pet (Williams)(1965)(pbecker1946)(1.0)[VP8]</description>
+		<rom name="Commentary.txt" size="4604" crc="efd0a08f" sha1="01f152a4856a997b5ca38612ef888fd6f404b5cf"/>
+		<rom name="Flyer.jpg" size="277549" crc="955afbcd" sha1="8a4adbe92f6b27f56910ecc40f911d5d3fbc06d8"/>
+		<rom name="TeachersPet(PLB)V1.vpt" size="19918848" crc="4337094f" sha1="275ec7618d8ddbbb21b790232468ac4ad1f35e18"/>
+		<rom name="TeachersPetSS.jpg" size="1186267" crc="1c2f9527" sha1="2f436be589d4c2d9c66cd668229b105895b2c17e"/>
+	</machine>
+	<machine name="Three Deuces (Williams)(1955)">
+		<description>Three Deuces (Williams)(1955)</description>
+		<rom name="Commentary.txt" size="3821" crc="bf23244f" sha1="e78febbb926780cbbc3a5a403692799c9ae7a5ef"/>
+		<rom name="Three Deuces (Williams)(1955)(pbecker1946)(1.0)[VP8].vpt" size="20801536" crc="78f0d24e" sha1="53f4bd84ec51159c028de2bcf675fbda55f8c868"/>
+		<rom name="Three Deuces flyer.jpg" size="693748" crc="42ead1a2" sha1="ed1405dfe743362ee9a3751ecdb9eae107f0621d"/>
+		<rom name="Three Deuces screenshot.jpg" size="905662" crc="4e307963" sha1="46d0f845505384df7d9b13875c6835e035b5959e"/>
+	</machine>
+	<machine name="Thunderbird (Williams)(1954)">
+		<description>Thunderbird (Williams)(1954)</description>
+		<rom name="Commentary.txt" size="4338" crc="f58fb2f9" sha1="42478d94aec92a607130b003807408fcd70130c7"/>
+		<rom name="Thunderbird (Williams)(1954)(pbecker1946)(1.0)[VP8].vpt" size="24116224" crc="b177e59e" sha1="3607700919715cfee7ab4a5f8017be54110cb3a8"/>
+		<rom name="Thunderbird flyer.jpg" size="717996" crc="65327623" sha1="cc9990e8acbb21b9ea3d142cf6743d5cc8980c2f"/>
+		<rom name="Thunderbird screenshot.jpg" size="950752" crc="ff695f0e" sha1="a0c3cd5a0952f9a79b8d6d22db705f12b6cb8653"/>
+	</machine>
+	<machine name="Trade Winds (Williams)(1962)">
+		<description>Trade Winds (Williams)(1962)</description>
+		<rom name="Trade Winds (Williams)(1962)(pbecker1946)(1.0)[VP8].vpt" size="17945600" crc="4fc1f4c1" sha1="46f956a1f16528d3ba42a404135eb20f6bc4f378"/>
+		<rom name="Trade Winds Commentary.txt" size="3751" crc="a87e5535" sha1="44b111d15848602a9e28a0cce50495467dca6330"/>
+		<rom name="Trade Winds flyer.jpg" size="1694479" crc="3dc94e4f" sha1="39cadd7a009c5af908905e27ac763c2fb742c95f"/>
+		<rom name="Trade Winds screenshot.jpg" size="848467" crc="054b1c61" sha1="2315a73fbc84326d1cc3a1161a7ccf6dbc05e2b8"/>
+	</machine>
+	<machine name="Tri-Score (Genco)(1951)">
+		<description>Tri-Score (Genco)(1951)</description>
+		<rom name="Commentary.txt" size="5063" crc="c4944c42" sha1="d0143e9da98c587607bffc3d704efe9f1f7ee7d5"/>
+		<rom name="Flyer.jpg" size="323493" crc="a545e15a" sha1="7ce92b3abd6897ed14c9c6c7669fce2645139b46"/>
+		<rom name="Tri-Score (Genco)(1951)(Pbecker1946)(1.0)[VP8].vpt" size="18237440" crc="b0dad5bc" sha1="c597d7d32143a40c7700a12fff5a971a5298635b"/>
+		<rom name="Tri-Score screenshot.jpg" size="1066236" crc="0588afb8" sha1="95f6c1bb584f16c6139e22bd033039f931e39f2e"/>
+	</machine>
+	<machine name="Universe (Gottlieb)(1959)">
+		<description>Universe (Gottlieb)(1959)</description>
+		<rom name="Commentary.txt" size="5497" crc="7dbae24b" sha1="f3940b63730c0b0d0e08e11d4ac35e9c4128abb7"/>
+		<rom name="Flyer.jpg" size="226242" crc="be6240a3" sha1="9d1e6e104880416e553ac855c4a326da10c5ae7e"/>
+		<rom name="Universe (Gottlieb)(1959)(pbecker1946)(1.0)[VP8].vpt" size="32588288" crc="0e0c1816" sha1="a414249c47b33498ef2370440a87a1acee3725c5"/>
+		<rom name="Universe screenshot.jpg" size="1029354" crc="b1191eb1" sha1="036f5deb62d2b8f4f83fec2415febce2c6444712"/>
+	</machine>
+	<machine name="Vampire (Bally)(1971)">
+		<description>Vampire (Bally)(1971)</description>
+		<rom name="Vampire (Bally)(1971)(CompuFox)(1.0)[VP8].vpt" size="5073408" crc="9d48ea71" sha1="af9889c37a76972538fb1d0925802ebaf2954138"/>
+		<rom name="Vampire (CompuFox) screenshot.jpg" size="199554" crc="12a7674a" sha1="8d6f6560a29db863c47c5b3449cb95a77e3c556c"/>
+	</machine>
+	<machine name="War (Fascination)(1978)">
+		<description>War (Fascination)(1978)</description>
+		<rom name="War (Fascination)(1978)(TAB, Destruk)(1.0)[VP8].vpt" size="1919488" crc="f74c7bed" sha1="ef617acb09cd2825ff957681be941f0a40bd9bbf"/>
+		<rom name="War flyer.jpg" size="643661" crc="3ec95eef" sha1="66a413d76275a316612c77e75abb2f2286231836"/>
+		<rom name="War screenshot.jpg" size="142118" crc="2fb54ce6" sha1="324082c523fc00fac148d780069cd2f2f80f21d3"/>
+	</machine>
+	<machine name="Wild Card (Williams)(1977)">
+		<description>Wild Card (Williams)(1977)</description>
+		<rom name="Commentary.txt" size="3748" crc="701f5844" sha1="5c1b2959cb575ac80655365a8aa5e7d2f4bbecb9"/>
+		<rom name="Wild Card (Williams)(1977)(pbecker1946)(1.0)[VP8].vpt" size="21750784" crc="cb79fcc7" sha1="0f48d321f93f0ace70caf0e9d731274867e25879"/>
+		<rom name="Wild Card screenshot.jpg" size="1441289" crc="7216f8c4" sha1="e0fe20ef60bdf5354285387bb02a9bee786d4724"/>
+	</machine>
+	<machine name="WonderLand (Williams)(1955)">
+		<description>WonderLand (Williams)(1955)</description>
+		<rom name="Commentary.txt" size="3840" crc="8c47f9b2" sha1="47710a5ea635fd0bfd76b3cd8ed4e0442f61b7ad"/>
+		<rom name="WonderLand (Williams)(1955)(pbecker1946)(1.0)[VP8].vpt" size="17506816" crc="825dad11" sha1="3dace1eee72ebe8949bb3da075d4ec34e56f57d3"/>
+		<rom name="Wonderland screenshot.jpg" size="1531569" crc="fce9e802" sha1="835a63800e1a8034a7ecc6589946f4fbcc976258"/>
+	</machine>
+</datafile>

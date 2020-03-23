@@ -1,0 +1,1102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega - Game Gear (Echoj2's 1G1R)</name>
+		<description>Sega - Game Gear (Echoj2's 1G1R)</description>
+		<category>Standard DatFile</category>
+		<version>20180623-100000</version>
+		<date>-insert date-</date>
+		<author>Eckaji</author>
+		<email>-insert email-</email>
+		<homepage>r/SBCGaming</homepage>
+		<url>https://discord.gg/JdXc6nx</url>
+		<comment>-insert comment-</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="5 in 1 Funpak (USA)">
+		<description>5 in 1 Funpak (USA)</description>
+		<rom name="5 in 1 Funpak (USA).gg" size="262144" crc="f85a8ce8" md5="4e3dfe079044737f26153615e5155214" sha1="dc8f5848fede37a914dbf1c104c3efb5a804ccbd"/>
+	</machine>
+	<machine name="Addams Family, The (World)">
+		<description>Addams Family, The (World)</description>
+		<rom name="Addams Family, The (World).gg" size="262144" crc="1d01f999" md5="f4f3211738002369b9ada7a099e33a45" sha1="3231d574e5eb0ac3a77b1d65d74f3a581819a9c7"/>
+	</machine>
+	<machine name="Adventures of Batman &amp; Robin, The (USA, Europe)">
+		<description>Adventures of Batman &amp; Robin, The (USA, Europe)</description>
+		<rom name="Adventures of Batman &amp; Robin, The (USA, Europe).gg" size="524288" crc="bb4f23ff" md5="a684cba5f11c4e4e3e6cb71a0d73c702" sha1="50e8726be1b26d066ea9e2e2b5cd7407c356187e"/>
+	</machine>
+	<machine name="Aerial Assault (World)">
+		<description>Aerial Assault (World)</description>
+		<rom name="Aerial Assault (World).gg" size="131072" crc="3e549b7a" md5="b6fb54e60f8992daaa35e98a712ff2cb" sha1="cbdbaaeb62a8483d9d5a8757b0f19233dfb9b416"/>
+	</machine>
+	<machine name="Aladdin (USA, Europe)">
+		<description>Aladdin (USA, Europe)</description>
+		<rom name="Aladdin (USA, Europe).gg" size="524288" crc="7a41c1dc" md5="1ab3a94109af90a333a68479a02a5643" sha1="20ba7f5e5c801fbe48a537d2551a3d4525eb63e7"/>
+	</machine>
+	<machine name="Alien 3 (USA, Europe)">
+		<description>Alien 3 (USA, Europe)</description>
+		<rom name="Alien 3 (USA, Europe).gg" size="262144" crc="11a68c08" md5="653310b476cab68eeb8d3520c26b9755" sha1="f3b976fefc331f37c3e4d883791eba68890279a5"/>
+	</machine>
+	<machine name="Alien Syndrome (USA, Europe)">
+		<description>Alien Syndrome (USA, Europe)</description>
+		<rom name="Alien Syndrome (USA, Europe).gg" size="131072" crc="bb5e10e0" md5="6c29fc1bae1051774e9a83098f55bd4e" sha1="112c7fba070eb7b6bdd41675d49caf934c17dc17"/>
+	</machine>
+	<machine name="Andre Agassi Tennis (USA)">
+		<description>Andre Agassi Tennis (USA)</description>
+		<rom name="Andre Agassi Tennis (USA).gg" size="262144" crc="46c9fa3e" md5="d06841cb70d06aa9801390a280fa44c0" sha1="9bd46e137723795a62cca429effcdd51f3b71257"/>
+	</machine>
+	<machine name="Arcade Classics (USA)">
+		<description>Arcade Classics (USA)</description>
+		<rom name="Arcade Classics (USA).gg" size="262144" crc="3deca813" md5="647847fe498841762625ae9d604b9018" sha1="fde19f418f4f13bbe43e6610f411065db9a6f550"/>
+	</machine>
+	<machine name="Arch Rivals (USA)">
+		<description>Arch Rivals (USA)</description>
+		<rom name="Arch Rivals (USA).gg" size="262144" crc="f0204191" md5="6ae0a492cc0427d4097a7b4336caedd2" sha1="9a2260a9cb9564a18f50edc8149a9e1e517bf649"/>
+	</machine>
+	<machine name="Arena (USA, Europe)">
+		<description>Arena (USA, Europe)</description>
+		<rom name="Arena (USA, Europe).gg" size="524288" crc="7cb3facf" md5="ce3e5094025b10c3885ff1da53a46d2f" sha1="91e411d979789f2e31dcfe94fb7f757815f60680"/>
+	</machine>
+	<machine name="Ariel the Little Mermaid (USA, Europe)">
+		<description>Ariel the Little Mermaid (USA, Europe)</description>
+		<rom name="Ariel the Little Mermaid (USA, Europe).gg" size="262144" crc="97e3a18c" md5="e786fb76fb3808a7b4906aa3ba9ff1a7" sha1="d2f1b95a6d0a2cacd93ed307a5a6576f954a7d56"/>
+	</machine>
+	<machine name="Asterix and the Great Rescue (USA)">
+		<description>Asterix and the Great Rescue (USA)</description>
+		<rom name="Asterix and the Great Rescue (USA).gg" size="524288" crc="78208b40" md5="21d000eba49fa3528eac46a2f9adc3a7" sha1="821a0f9087001831fb9828fe2ef193877f960db6"/>
+	</machine>
+	<machine name="Asterix and the Secret Mission (Europe) (En,Fr,De)">
+		<description>Asterix and the Secret Mission (Europe) (En,Fr,De)</description>
+		<rom name="Asterix and the Secret Mission (Europe) (En,Fr,De).gg" size="524288" crc="c01a8051" md5="2fd39f40bb06026f414e0cc9ff549aca" sha1="8ab4ea406a0503b09c1bd89e3217c5735b36ebed"/>
+	</machine>
+	<machine name="Ax Battler - A Legend of Golden Axe (USA, Europe)">
+		<description>Ax Battler - A Legend of Golden Axe (USA, Europe)</description>
+		<rom name="Ax Battler - A Legend of Golden Axe (USA, Europe).gg" size="262144" crc="663bcf8a" md5="71e87c98e849c71dfd9a21a4a9ff56b4" sha1="9f5bf2973225b8ee337fcec460829724a0c63d9e"/>
+	</machine>
+	<machine name="Ayrton Senna's Super Monaco GP II (USA, Europe)">
+		<description>Ayrton Senna's Super Monaco GP II (USA, Europe)</description>
+		<rom name="Ayrton Senna's Super Monaco GP II (USA, Europe).gg" size="262144" crc="1d1b1dd3" md5="1539563613ae8cdb08bbfe372b3ae1f4" sha1="e6a86010a4dad0a6102783d3c00ad126e8221597"/>
+	</machine>
+	<machine name="Baku Baku Animal (USA)">
+		<description>Baku Baku Animal (USA)</description>
+		<rom name="Baku Baku Animal (USA).gg" size="262144" crc="8d8bfdc4" md5="3ff5a4888076e7a5905bc565563c3692" sha1="f4f31d08e17b9936dea621fef9b38e1cd067bef2"/>
+	</machine>
+	<machine name="Bare Knuckle II ~ Streets of Rage 2 ~ Streets of Rage II (World)">
+		<description>Bare Knuckle II ~ Streets of Rage 2 ~ Streets of Rage II (World)</description>
+		<rom name="Bare Knuckle II ~ Streets of Rage 2 ~ Streets of Rage II (World).gg" size="524288" crc="0b618409" md5="5566e332f860dc0f9da1507fd7feb1cd" sha1="2804b355347bda6e2903078ba30ed6b3a289ebba"/>
+	</machine>
+	<machine name="Bare Knuckle ~ Streets of Rage (World)">
+		<description>Bare Knuckle ~ Streets of Rage (World)</description>
+		<rom name="Bare Knuckle ~ Streets of Rage (World).gg" size="262144" crc="3d8bcf1d" md5="1ece7480d21fb862a65233ba126282d3" sha1="ca8c8a00ee838e994b2fa17e595ddd40d898cf42"/>
+	</machine>
+	<machine name="Bartman Meets Radioactive Man (USA)">
+		<description>Bartman Meets Radioactive Man (USA)</description>
+		<rom name="Bartman Meets Radioactive Man (USA).gg" size="262144" crc="ffa447a9" md5="5f263de21f316a2a318dd6d5f732b2c8" sha1="9dd99ca1b28dbb16f5f118e2729613d1452aba73"/>
+	</machine>
+	<machine name="Batman Forever (World)">
+		<description>Batman Forever (World)</description>
+		<rom name="Batman Forever (World).gg" size="524288" crc="618b19e2" md5="6e8f14a7ab173cac90317d390ff8d63b" sha1="775ecf7ba87345c2f89f0e9d6e55544db8878786"/>
+	</machine>
+	<machine name="Batman Returns (World)">
+		<description>Batman Returns (World)</description>
+		<rom name="Batman Returns (World).gg" size="262144" crc="7ac4a3ca" md5="1e8cfd2f30e9ad733f602cf2de696ba9" sha1="85994b2f506c7bded0b02a59d96b1d949e48d518"/>
+	</machine>
+	<machine name="Batter Up (USA, Europe)">
+		<description>Batter Up (USA, Europe)</description>
+		<rom name="Batter Up (USA, Europe).gg" size="131072" crc="16448209" md5="3190da5093d53b220bf15229b5299d42" sha1="107496f1afff8bcebcd507226e953871fc4d80e4"/>
+	</machine>
+	<machine name="Battleship (USA, Europe)">
+		<description>Battleship (USA, Europe)</description>
+		<rom name="Battleship (USA, Europe).gg" size="65536" crc="fddd8cd9" md5="ba836ae19e88f6354d746a86582beff8" sha1="eae1ebec2c1be522924f669a2dc884f9f4a68cf3"/>
+	</machine>
+	<machine name="Battletoads (USA)">
+		<description>Battletoads (USA)</description>
+		<rom name="Battletoads (USA).gg" size="262144" crc="817cc0ca" md5="643536bfaf945e8fa8a22de8d4653d83" sha1="f566a19d1cfd5c20d5b91b396f29323be2209911"/>
+	</machine>
+	<machine name="Beavis and Butt-Head (USA, Europe)">
+		<description>Beavis and Butt-Head (USA, Europe)</description>
+		<rom name="Beavis and Butt-Head (USA, Europe).gg" size="524288" crc="a6bf865e" md5="116ea358051e46f4829bad566e14b28b" sha1="dd2ea76c05d933b91f1b03140f6a04bf02f746d1"/>
+	</machine>
+	<machine name="Berenstain Bears' Camping Adventure, The (USA)">
+		<description>Berenstain Bears' Camping Adventure, The (USA)</description>
+		<rom name="Berenstain Bears' Camping Adventure, The (USA).gg" size="262144" crc="a4bb9ffb" md5="0063255819682649ed682a50a0e8a440" sha1="a35bef59a59df2a6d3dc4b8d3fe2e4cc79464537"/>
+	</machine>
+	<machine name="Bonkers Wax Up! (USA, Europe)">
+		<description>Bonkers Wax Up! (USA, Europe)</description>
+		<rom name="Bonkers Wax Up! (USA, Europe).gg" size="524288" crc="bfceba5f" md5="3608e04a697b3c6b5857b5d3f3a58cca" sha1="b98bd9467fe8bf782989172b576c7844f3666ae9"/>
+	</machine>
+	<machine name="Bram Stoker's Dracula (USA)">
+		<description>Bram Stoker's Dracula (USA)</description>
+		<rom name="Bram Stoker's Dracula (USA).gg" size="262144" crc="d966ec47" md5="ebe94e98fd693b69f323e31ad8131163" sha1="bde7280d4feab1c27dda228ef821c7a1c63a9e07"/>
+	</machine>
+	<machine name="Bubble Bobble (USA, Europe)">
+		<description>Bubble Bobble (USA, Europe)</description>
+		<rom name="Bubble Bobble (USA, Europe).gg" size="262144" crc="fba338c5" md5="4f08cab3e252c2e3979ef33e9e59f294" sha1="c2c99d798bd0d4960021743a55e74644ad9020c6"/>
+	</machine>
+	<machine name="Bugs Bunny in Double Trouble (USA, Europe)">
+		<description>Bugs Bunny in Double Trouble (USA, Europe)</description>
+		<rom name="Bugs Bunny in Double Trouble (USA, Europe).gg" size="524288" crc="5c34d9cd" md5="04770c2c01095a6e3fde211a125d8964" sha1="a29dabb90532ff6114437f28970203e16003c11e"/>
+	</machine>
+	<machine name="Bust-A-Move (USA, Europe)">
+		<description>Bust-A-Move (USA, Europe)</description>
+		<rom name="Bust-A-Move (USA, Europe).gg" size="262144" crc="c90f29ef" md5="50a41b6b8062095c142acd186b6118c9" sha1="e6bb5f72cffb11c8dd44ac3e378088b04cec1297"/>
+	</machine>
+	<machine name="Caesars Palace (USA)">
+		<description>Caesars Palace (USA)</description>
+		<rom name="Caesars Palace (USA).gg" size="262144" crc="c53b60b8" md5="bae2d6eb22802a56c17f9bd67e3c892e" sha1="ce3f7d6f2df8509764f0ad06a05801ca76d6fb0a"/>
+	</machine>
+	<machine name="Captain America and the Avengers (USA, Europe)">
+		<description>Captain America and the Avengers (USA, Europe)</description>
+		<rom name="Captain America and the Avengers (USA, Europe).gg" size="262144" crc="5675dfdd" md5="dfb20211ef127b605849abfd85300afc" sha1="4b859174d57cc4a5a575f8aa9547a83d08e6c117"/>
+	</machine>
+	<machine name="Casino Funpak (USA)">
+		<description>Casino Funpak (USA)</description>
+		<rom name="Casino Funpak (USA).gg" size="262144" crc="2b732056" md5="3072b95caff526a8a7a7b7f9a23f9383" sha1="5b512d5c3ea92498831b40cd740b99107c369b56"/>
+	</machine>
+	<machine name="Castle of Illusion Starring Mickey Mouse (USA, Europe)">
+		<description>Castle of Illusion Starring Mickey Mouse (USA, Europe)</description>
+		<rom name="Castle of Illusion Starring Mickey Mouse (USA, Europe).sms" size="262144" crc="59840fd6" md5="16b6ea96908c17d4389a5907710a0f4e" sha1="06bbeb784f913b37f58c2581c66d4ecb099deace"/>
+	</machine>
+	<machine name="Chakan (USA, Europe)">
+		<description>Chakan (USA, Europe)</description>
+		<rom name="Chakan (USA, Europe).gg" size="262144" crc="dfc7adc8" md5="096e525c29af9f5a0a0ddd8b67dd8fbf" sha1="bdb82464147ef20792162cff7922824d4dee0dc1"/>
+	</machine>
+	<machine name="Championship Hockey (Europe)">
+		<description>Championship Hockey (Europe)</description>
+		<rom name="Championship Hockey (Europe).gg" size="262144" crc="e21d2a88" md5="4e50ab4ace12827b73ac23c47aaf9b85" sha1="4b0bd83ee4fefc40c420413d044b91525b494f6b"/>
+	</machine>
+	<machine name="Cheese Cat-Astrophe Starring Speedy Gonzales (Europe) (En,Fr,De,Es)">
+		<description>Cheese Cat-Astrophe Starring Speedy Gonzales (Europe) (En,Fr,De,Es)</description>
+		<rom name="Cheese Cat-Astrophe Starring Speedy Gonzales (Europe) (En,Fr,De,Es).gg" size="524288" crc="4e78fd36" md5="63af90497bdac40ce4217c5133037a51" sha1="8897ba5aa76d0e17251b2765fafbdb0df41030a6"/>
+	</machine>
+	<machine name="Chessmaster, The (USA, Europe)">
+		<description>Chessmaster, The (USA, Europe)</description>
+		<rom name="Chessmaster, The (USA, Europe).gg" size="131072" crc="da811ba6" md5="b24d5c5548acb3b35aaf02802b3bb7d5" sha1="daea9a76dedc080b9965cfa32e2ddb1eaaaab0b4"/>
+	</machine>
+	<machine name="Chicago Syndicate (USA, Europe)">
+		<description>Chicago Syndicate (USA, Europe)</description>
+		<rom name="Chicago Syndicate (USA, Europe).gg" size="524288" crc="6b0fcec3" md5="a51438e3ba8c78df665df05b6310a38a" sha1="d7746e4c78aa86bc698fc25a52a791ba27a71add"/>
+	</machine>
+	<machine name="Choplifter III (USA)">
+		<description>Choplifter III (USA)</description>
+		<rom name="Choplifter III (USA).gg" size="262144" crc="c2e8a692" md5="e7b6f5acb7d5683384934e00c2c7fa09" sha1="c0152f5b07b6ff47dfedda5258eda1d4e335cdbf"/>
+	</machine>
+	<machine name="Chuck Rock (World)">
+		<description>Chuck Rock (World)</description>
+		<rom name="Chuck Rock (World).gg" size="262144" crc="191b1ed8" md5="86a3221d3d74133c84f658939fd6e928" sha1="2b08a3231c0504d86caca74c8508d85c8ef6a86a"/>
+	</machine>
+	<machine name="Chuck Rock II - Son of Chuck (USA)">
+		<description>Chuck Rock II - Son of Chuck (USA)</description>
+		<rom name="Chuck Rock II - Son of Chuck (USA).gg" size="262144" crc="3fcc28c9" md5="bb6558532d5eda87c93d7fe8eb8ee24c" sha1="f6aa6a9a641b3a588a8091cf44e8b0a55ebbd613"/>
+	</machine>
+	<machine name="CJ Elephant Fugitive (Europe)">
+		<description>CJ Elephant Fugitive (Europe)</description>
+		<rom name="CJ Elephant Fugitive (Europe).gg" size="262144" crc="72981057" md5="30d140cba0604578382cff96aca09f78" sha1="a60815aa0c6ec2bc5ad7f817668b74a42bb64026"/>
+	</machine>
+	<machine name="Cliffhanger (USA)">
+		<description>Cliffhanger (USA)</description>
+		<rom name="Cliffhanger (USA).gg" size="262144" crc="bf75b153" md5="f03ad48294c095032909b6ba8f0e365f" sha1="7aaf4f7afc2af8dfbf9cc84c7db48788ab1b2d83"/>
+	</machine>
+	<machine name="Clutch Hitter (USA)">
+		<description>Clutch Hitter (USA)</description>
+		<rom name="Clutch Hitter (USA).gg" size="131072" crc="d228a467" md5="daba20a2e2acc99cd7824ca9de42af46" sha1="df7af6588652c3163ea6f445fa21ef76b9764cd0"/>
+	</machine>
+	<machine name="Columns (USA, Europe)">
+		<description>Columns (USA, Europe)</description>
+		<rom name="Columns (USA, Europe).gg" size="32768" crc="83fa26d9" md5="90bd4681e3e4b07445eaf35e83b223db" sha1="05b73f39a90fd59e01262cbd3f4e7a21575d468a"/>
+	</machine>
+	<machine name="Cool Spot (USA)">
+		<description>Cool Spot (USA)</description>
+		<rom name="Cool Spot (USA).gg" size="262144" crc="2c758fc8" md5="7f55c7e4696a9ad316e57c3f14a77f39" sha1="c5f39a81c33327dc86b41d6f416efe09b131e14d"/>
+	</machine>
+	<machine name="Cosmic Spacehead (Europe)">
+		<description>Cosmic Spacehead (Europe)</description>
+		<rom name="Cosmic Spacehead (Europe).gg" size="262144" crc="6caa625b" md5="0ad508b2a076990b49ae2bcda0f1e9e7" sha1="c24f48ca3fb7df3b50b4353095c7a070653f3539"/>
+	</machine>
+	<machine name="Crystal Warriors (USA, Europe)">
+		<description>Crystal Warriors (USA, Europe)</description>
+		<rom name="Crystal Warriors (USA, Europe).gg" size="262144" crc="529c864e" md5="35d3fc09fcf22e35db4bac8cee9967f3" sha1="6b03183b7183de17ad6fbc9938599d3d18badc1a"/>
+	</machine>
+	<machine name="CutThroat Island (USA, Europe)">
+		<description>CutThroat Island (USA, Europe)</description>
+		<rom name="CutThroat Island (USA, Europe).gg" size="524288" crc="6a24e47e" md5="ab8c20389abe4ee0026d63b9294bfcc0" sha1="95d2012c4027228fda50ef434b53ae5633a7eb8c"/>
+	</machine>
+	<machine name="Daffy Duck in Hollywood (Europe) (En,Fr,De,Es,It)">
+		<description>Daffy Duck in Hollywood (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Daffy Duck in Hollywood (Europe) (En,Fr,De,Es,It).gg" size="524288" crc="aae268fc" md5="1b079ded7729472b4f4039612c3112f2" sha1="2d058f3885bee45b04b74cbe16f3974d4eb2bfcf"/>
+	</machine>
+	<machine name="Deep Duck Trouble Starring Donald Duck (USA, Europe)">
+		<description>Deep Duck Trouble Starring Donald Duck (USA, Europe)</description>
+		<rom name="Deep Duck Trouble Starring Donald Duck (USA, Europe).gg" size="524288" crc="5a136d7e" md5="cd792cf0d4e8ebb6f77a906ac0744b66" sha1="24485549001bc57b5cffee1449ad0af80e862773"/>
+	</machine>
+	<machine name="Defenders of Oasis (USA, Europe)">
+		<description>Defenders of Oasis (USA, Europe)</description>
+		<rom name="Defenders of Oasis (USA, Europe).gg" size="524288" crc="e2791cc1" md5="8430050c60db46b3887cf7d7cf2f206f" sha1="07c1167c3b6eea294a73272c256934406f48f9d5"/>
+	</machine>
+	<machine name="Desert Speedtrap Starring Road Runner and Wile E. Coyote (USA)">
+		<description>Desert Speedtrap Starring Road Runner and Wile E. Coyote (USA)</description>
+		<rom name="Desert Speedtrap Starring Road Runner and Wile E. Coyote (USA).gg" size="262144" crc="c2e111ac" md5="5c6c0fd3d95f74b03d084dded29c6bcb" sha1="6b88fb212f0556ea57e01a3a1cd5123db5631e28"/>
+	</machine>
+	<machine name="Desert Strike - Return to the Gulf (USA)">
+		<description>Desert Strike - Return to the Gulf (USA)</description>
+		<rom name="Desert Strike - Return to the Gulf (USA).gg" size="524288" crc="f6c400da" md5="ecfcb1f193ab20547e3dc1f4304ef21e" sha1="80b91bdf20605d940401738202c473df632d0765"/>
+	</machine>
+	<machine name="Devilish (USA)">
+		<description>Devilish (USA)</description>
+		<rom name="Devilish (USA).gg" size="131072" crc="c01293b0" md5="f0ceed28d0e83bc4adc688d06d12bf2e" sha1="421a416c71dd245d80b362af57d01c80547cf042"/>
+	</machine>
+	<machine name="Donald no Magical World (Japan) (En,Ja)">
+		<description>Donald no Magical World (Japan) (En,Ja)</description>
+		<rom name="Donald no Magical World (Japan) (En,Ja).gg" size="524288" crc="87b8b612" md5="34e9b284e61fb9a2cad4878451579295" sha1="5f9afdd5720f88f7cc18715f8e50fc5635b15323"/>
+	</machine>
+	<machine name="Double Dragon (USA, Europe)">
+		<description>Double Dragon (USA, Europe)</description>
+		<rom name="Double Dragon (USA, Europe).gg" size="262144" crc="1307a290" md5="b45d73e40ce8f6e76dced24ee921871a" sha1="baebe28fc7549cbb06c94fcb36a3c40231933c01"/>
+	</machine>
+	<machine name="Dr. Robotnik's Mean Bean Machine (USA, Europe)">
+		<description>Dr. Robotnik's Mean Bean Machine (USA, Europe)</description>
+		<rom name="Dr. Robotnik's Mean Bean Machine (USA, Europe).gg" size="262144" crc="3c2d4f48" md5="6565ddcb2e41bf9ce5771a62d30aa700" sha1="c36bda8a86994d430506b196922ec1365622e560"/>
+	</machine>
+	<machine name="Dragon - The Bruce Lee Story (USA)">
+		<description>Dragon - The Bruce Lee Story (USA)</description>
+		<rom name="Dragon - The Bruce Lee Story (USA).gg" size="262144" crc="17f588e8" md5="81e7bea1c445540544002a5ccf91fe3c" sha1="60c7cbe782c3df094452835076b9425c329c82ee"/>
+	</machine>
+	<machine name="Dragon Crystal (USA, Europe)">
+		<description>Dragon Crystal (USA, Europe)</description>
+		<rom name="Dragon Crystal (USA, Europe).gg" size="131072" crc="0ef2ed93" md5="8431baccd169025f79c9cbc44e31622d" sha1="6d53f32001d419a5b5e9c16cb62e07e548d2f44a"/>
+	</machine>
+	<machine name="Dropzone (Europe)">
+		<description>Dropzone (Europe)</description>
+		<rom name="Dropzone (Europe).gg" size="131072" crc="152f0dcc" md5="65df09530f9c8f02ab11982228d7d18e" sha1="b78bc3fe6bfbc7d6f5e85d59d79be19bf7372bcc"/>
+	</machine>
+	<machine name="Dynamite Headdy (USA, Europe)">
+		<description>Dynamite Headdy (USA, Europe)</description>
+		<rom name="Dynamite Headdy (USA, Europe).gg" size="524288" crc="610ff95c" md5="2da61f019f30eb0795cfd6eb9d5b54c6" sha1="a8c8b5252a885d466e044e6055336513d988e661"/>
+	</machine>
+	<machine name="Earthworm Jim (USA)">
+		<description>Earthworm Jim (USA)</description>
+		<rom name="Earthworm Jim (USA).gg" size="524288" crc="5d3f23a9" md5="c25af3925fd6973af62bdd6d0c5f61ca" sha1="dbb149da0b0373f23750ed954dbb5e08bc634615"/>
+	</machine>
+	<machine name="Ecco - The Tides of Time (USA, Europe)">
+		<description>Ecco - The Tides of Time (USA, Europe)</description>
+		<rom name="Ecco - The Tides of Time (USA, Europe).gg" size="524288" crc="e2f3b203" md5="8f8cbaef1a8e1becfcc7f07b134a3d83" sha1="61913f6803977bb54fda7c3d969dc2c0f7c6da62"/>
+	</machine>
+	<machine name="Ecco the Dolphin (USA, Europe)">
+		<description>Ecco the Dolphin (USA, Europe)</description>
+		<rom name="Ecco the Dolphin (USA, Europe).gg" size="524288" crc="866c7113" md5="ccd970b22303887734fafb8e45b1e43f" sha1="7c6c8f44d5aa799726adc3a9e21c9f35cacea87f"/>
+	</machine>
+	<machine name="Ernie Els Golf (Europe) (En,Fr,De,Es,It)">
+		<description>Ernie Els Golf (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Ernie Els Golf (Europe) (En,Fr,De,Es,It).gg" size="262144" crc="5e53c7f7" md5="e97c20b86ea73248cc7aed602d46c3a4" sha1="a8d75c2af514dc81ba4dc66a508384d730a77ce4"/>
+	</machine>
+	<machine name="Evander Holyfield's 'Real Deal' Boxing (USA, Europe)">
+		<description>Evander Holyfield's 'Real Deal' Boxing (USA, Europe)</description>
+		<rom name="Evander Holyfield's 'Real Deal' Boxing (USA, Europe).gg" size="262144" crc="36aaf536" md5="4e63abb36be8d86b94b34846b16d9fa3" sha1="3093d6e6e332c864da8473ac2eab7d17eb65b523"/>
+	</machine>
+	<machine name="Excellent Dizzy Collection, The (Europe)">
+		<description>Excellent Dizzy Collection, The (Europe)</description>
+		<rom name="Excellent Dizzy Collection, The (Europe).sms" size="524288" crc="aa140c9c" md5="613376b7b53e43ba17ae1b62da3c9251" sha1="db3c0686715373242911f8471a1e91673811d62a"/>
+	</machine>
+	<machine name="F-15 Strike Eagle (USA, Europe)">
+		<description>F-15 Strike Eagle (USA, Europe)</description>
+		<rom name="F-15 Strike Eagle (USA, Europe).gg" size="262144" crc="8bdb0806" md5="69cc38014650bdd0af0a2b7d7e9c46ec" sha1="4bfdafa848223598ca16699ad44fe4a19a1c2ba2"/>
+	</machine>
+	<machine name="F1 (USA, Europe)">
+		<description>F1 (USA, Europe)</description>
+		<rom name="F1 (USA, Europe).gg" size="262144" crc="d0a93e00" md5="93b3e1b682474ffd9985c0a5688d45bf" sha1="b5a1985d671e8b9e0eed7922e6db695011071e99"/>
+	</machine>
+	<machine name="F1 - World Championship Edition (Europe)">
+		<description>F1 - World Championship Edition (Europe)</description>
+		<rom name="F1 - World Championship Edition (Europe).gg" size="262144" crc="107092d0" md5="309abe6822c52df971856912c77a57cc" sha1="a42a647923a5af940ef63ab27d3100c3da53e30b"/>
+	</machine>
+	<machine name="Factory Panic (Europe)">
+		<description>Factory Panic (Europe)</description>
+		<rom name="Factory Panic (Europe).gg" size="131072" crc="59e3be92" md5="784f3ff02e544e3a9cf18b3b1da1f062" sha1="94beb8b6334bb9dc104ffdb0ad2bdd4964ed91a5"/>
+	</machine>
+	<machine name="Fantastic Dizzy (Europe) (En,Fr,De,Es,It)">
+		<description>Fantastic Dizzy (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Fantastic Dizzy (Europe) (En,Fr,De,Es,It).sms" size="262144" crc="c888222b" md5="66a8e3133a047fa7d44968efd3c30720" sha1="b6a13d51c72b576738f0d7e8e328db2ffeb0b38c"/>
+	</machine>
+	<machine name="Fantasy Zone (USA)">
+		<description>Fantasy Zone (USA)</description>
+		<rom name="Fantasy Zone (USA).gg" size="131072" crc="fad007df" md5="9c314c791ad0a98cda6bd7d39c0a2774" sha1="57563b00eeffe678b2eebeafa790015f3c164262"/>
+	</machine>
+	<machine name="Fatal Fury Special (USA)">
+		<description>Fatal Fury Special (USA)</description>
+		<rom name="Fatal Fury Special (USA).gg" size="524288" crc="449787e2" md5="4292c099f98cc0c6d03025f0729f64df" sha1="7ce20ca34b7bc91ba7e73f830b40830ad6bafbc8"/>
+	</machine>
+	<machine name="FIFA International Soccer (USA, Europe)">
+		<description>FIFA International Soccer (USA, Europe)</description>
+		<rom name="FIFA International Soccer (USA, Europe).gg" size="524288" crc="e632a3a2" md5="9a70ade3cc8647ee1a926ae71bb7fe52" sha1="0725626fc9988b690fc1fc77b294d31b78cbfb5a"/>
+	</machine>
+	<machine name="FIFA Soccer 96 (USA, Europe) (En,Fr,De,Es)">
+		<description>FIFA Soccer 96 (USA, Europe) (En,Fr,De,Es)</description>
+		<rom name="FIFA Soccer 96 (USA, Europe) (En,Fr,De,Es).gg" size="524288" crc="c379de95" md5="4338306d35219da89e1f6cc4550fd8a3" sha1="f928c32acba90ed5ebca131af03e76a0efb38797"/>
+	</machine>
+	<machine name="Foreman for Real (World)">
+		<description>Foreman for Real (World)</description>
+		<rom name="Foreman for Real (World).gg" size="524288" crc="d46d5685" md5="50d9e83b34b960d296f59cf08f8170c6" sha1="d7109dc1db52bb4828a01b433a4b2993ac2e59e1"/>
+	</machine>
+	<machine name="Frank Thomas Big Hurt Baseball (USA)">
+		<description>Frank Thomas Big Hurt Baseball (USA)</description>
+		<rom name="Frank Thomas Big Hurt Baseball (USA).gg" size="524288" crc="c443c35c" md5="b3af97a5b1621af61c633f1ccb23f90e" sha1="aab42351d96e32d46631c540bdfa43a621ab0e76"/>
+	</machine>
+	<machine name="Fred Couples' Golf (USA)">
+		<description>Fred Couples' Golf (USA)</description>
+		<rom name="Fred Couples' Golf (USA).gg" size="524288" crc="46f40b9f" md5="fb2f22baffdbe79cd255d8ec9cb133ad" sha1="fc160122f14772fd1c4476effae5a4010a6c012d"/>
+	</machine>
+	<machine name="G-LOC - Air Battle (USA, Europe)">
+		<description>G-LOC - Air Battle (USA, Europe)</description>
+		<rom name="G-LOC - Air Battle (USA, Europe).gg" size="131072" crc="18de59ed" md5="ec61986c03b1bb9c1862bddd6432bf26" sha1="407da6e4d0916d3f54ad1ba8d45face04dad5657"/>
+	</machine>
+	<machine name="G-Sonic ~ Sonic Blast (World)">
+		<description>G-Sonic ~ Sonic Blast (World)</description>
+		<rom name="G-Sonic ~ Sonic Blast (World).gg" size="1048576" crc="031b9da9" md5="56e1561d981a9a7c240cdd8d5580ccf0" sha1="11241be4082f6f9d057488ae75ccdd482f623f8c"/>
+	</machine>
+	<machine name="Galaga 2 (Europe)">
+		<description>Galaga 2 (Europe)</description>
+		<rom name="Galaga 2 (Europe).gg" size="131072" crc="95ecece2" md5="7f3a990141b86a8b66cc9e761f1c1ba0" sha1="33b552eb21ef4bf5cf10ab18afa9f2fbcd6635cd"/>
+	</machine>
+	<machine name="Garfield - Caught in the Act (USA, Europe)">
+		<description>Garfield - Caught in the Act (USA, Europe)</description>
+		<rom name="Garfield - Caught in the Act (USA, Europe).gg" size="1048576" crc="cd53f3af" md5="8766ad6ab161ffc7796a543325a82fb6" sha1="dc65f458cad3c165d0963b9b6da258d438da2ef7"/>
+	</machine>
+	<machine name="Gear Works (USA)">
+		<description>Gear Works (USA)</description>
+		<rom name="Gear Works (USA).gg" size="131072" crc="e9a2efb4" md5="da9d059d844104d2a4d05f01aa4ff9fc" sha1="dc71c749c4a78e28922e10df645d23cc8289531f"/>
+	</machine>
+	<machine name="George Foreman's KO Boxing (USA, Europe)">
+		<description>George Foreman's KO Boxing (USA, Europe)</description>
+		<rom name="George Foreman's KO Boxing (USA, Europe).gg" size="131072" crc="58b44585" md5="c5d2aadb57d9827a24c69a80014b4ecf" sha1="5b3e3e3b88079108a4379c2428e70007d62c7b51"/>
+	</machine>
+	<machine name="GG Aleste II ~ Power Strike II (Japan, Europe)">
+		<description>GG Aleste II ~ Power Strike II (Japan, Europe)</description>
+		<rom name="GG Aleste II ~ Power Strike II (Japan, Europe).gg" size="262144" crc="09de1528" md5="d5836ec389ec2c81bd54728b96b87152" sha1="e4db2140761b43426024bd08c4372bb9b8979d3d"/>
+	</machine>
+	<machine name="GP Rider (USA, Europe)">
+		<description>GP Rider (USA, Europe)</description>
+		<rom name="GP Rider (USA, Europe).gg" size="524288" crc="876e9b72" md5="6fa101fb69da89a922b1b99f36e515bc" sha1="7777f091c8b540d3248fd7c0fb21e742af6f0ede"/>
+	</machine>
+	<machine name="Greendog - The Beached Surfer Dude! (USA, Europe)">
+		<description>Greendog - The Beached Surfer Dude! (USA, Europe)</description>
+		<rom name="Greendog - The Beached Surfer Dude! (USA, Europe).gg" size="262144" crc="f27925b0" md5="e6c364fce0f71a9eb9e5474cd84c2067" sha1="b5bf962000636bb1cbdf134759baa1e25b25d097"/>
+	</machine>
+	<machine name="Halley Wars (USA, Europe)">
+		<description>Halley Wars (USA, Europe)</description>
+		<rom name="Halley Wars (USA, Europe).gg" size="131072" crc="7e9dea46" md5="1ef93397c3c6d2049b0701d69255a22b" sha1="77637e9916a774529d971370c1509eec0b7e1651"/>
+	</machine>
+	<machine name="Home Alone (USA, Europe)">
+		<description>Home Alone (USA, Europe)</description>
+		<rom name="Home Alone (USA, Europe).gg" size="262144" crc="dde29f74" md5="8747c4cc07059d97bc597c5eb757cbd9" sha1="abad566f587affcb35102ed5b45c4e3a8ee22dc9"/>
+	</machine>
+	<machine name="Hook (USA)">
+		<description>Hook (USA)</description>
+		<rom name="Hook (USA).gg" size="262144" crc="f53ced2e" md5="5b0659fc95d81f10400bc449c2da251b" sha1="b9bd292fa4f3ef7dd86ebae9e1b5364ce6653c45"/>
+	</machine>
+	<machine name="Hurricanes (Europe)">
+		<description>Hurricanes (Europe)</description>
+		<rom name="Hurricanes (Europe).gg" size="524288" crc="0a25eec5" md5="2f36c3cea09a1d394273b9607ccd8c60" sha1="d4f0a691f11de7d91ede6ff95d26343a50840eb1"/>
+	</machine>
+	<machine name="Incredible Crash Dummies, The (World)">
+		<description>Incredible Crash Dummies, The (World)</description>
+		<rom name="Incredible Crash Dummies, The (World).gg" size="262144" crc="087fc247" md5="4d7fafe13d1aa4c9ea893bd4ec2f8332" sha1="6858554fc26f2382a262736854496e11f0925d40"/>
+	</machine>
+	<machine name="Incredible Hulk, The (USA, Europe)">
+		<description>Incredible Hulk, The (USA, Europe)</description>
+		<rom name="Incredible Hulk, The (USA, Europe).gg" size="524288" crc="d7055f88" md5="7b239c8ae257cb78c46a8affa9bc8226" sha1="0410dafce21e5f40263ccb39871188ca84f7dd22"/>
+	</machine>
+	<machine name="Indiana Jones and the Last Crusade (USA, Europe)">
+		<description>Indiana Jones and the Last Crusade (USA, Europe)</description>
+		<rom name="Indiana Jones and the Last Crusade (USA, Europe).gg" size="262144" crc="b875226b" md5="9d396418be6587bed4867070d049ce98" sha1="2607f99263c8dd732d199b2357400638e08402ec"/>
+	</machine>
+	<machine name="Iron Man X-O Manowar in Heavy Metal (USA, Europe)">
+		<description>Iron Man X-O Manowar in Heavy Metal (USA, Europe)</description>
+		<rom name="Iron Man X-O Manowar in Heavy Metal (USA, Europe).gg" size="524288" crc="8927b69b" md5="f9221499b42b1b04d5c9f9814fd1efcd" sha1="3da4166c88ee24ab86a18554ae7c5ee7bce42f11"/>
+	</machine>
+	<machine name="Itchy &amp; Scratchy Game, The (USA, Europe)">
+		<description>Itchy &amp; Scratchy Game, The (USA, Europe)</description>
+		<rom name="Itchy &amp; Scratchy Game, The (USA, Europe).gg" size="262144" crc="44e7e2da" md5="63bb5a1a959cdc79bfbe05b022f64ebf" sha1="2d0c2be09b977cc68a7e8f0fc415d8783ad7f8ae"/>
+	</machine>
+	<machine name="James Bond 007 - The Duel (Europe)">
+		<description>James Bond 007 - The Duel (Europe)</description>
+		<rom name="James Bond 007 - The Duel (Europe).gg" size="262144" crc="881a4524" md5="4190790937a1efaf2418917402b06e75" sha1="6e2124b40db7d1fc22b4f1e41565710500611d8e"/>
+	</machine>
+	<machine name="James Pond 3 - Operation Starfi5h (Europe)">
+		<description>James Pond 3 - Operation Starfi5h (Europe)</description>
+		<rom name="James Pond 3 - Operation Starfi5h (Europe).gg" size="524288" crc="68bb7f71" md5="1c88d6f7784efb05d2548f9f903889f3" sha1="53790edee813a0a444b0369fd15672bb2a343780"/>
+	</machine>
+	<machine name="James Pond II - Codename RoboCod (USA)">
+		<description>James Pond II - Codename RoboCod (USA)</description>
+		<rom name="James Pond II - Codename RoboCod (USA).gg" size="524288" crc="9fb5c155" md5="13f37a4434aef5140752f1717a1cc936" sha1="6c4a9c1613bc436033b54914acaf951c62593972"/>
+	</machine>
+	<machine name="Jeopardy! (USA)">
+		<description>Jeopardy! (USA)</description>
+		<rom name="Jeopardy! (USA).gg" size="262144" crc="d7820c21" md5="6e87d0107228ae1b5c582f8595992152" sha1="28ef5cc2689a1f3bc3bd1b24c3e4132a423fc274"/>
+	</machine>
+	<machine name="Jeopardy! - Sports Edition (USA, Europe)">
+		<description>Jeopardy! - Sports Edition (USA, Europe)</description>
+		<rom name="Jeopardy! - Sports Edition (USA, Europe).gg" size="262144" crc="2dd850b7" md5="5d1351b4f7579d36a1250f5b5f5a507f" sha1="55cb5cb3c37e8403ebf4a47560f0ece416323c56"/>
+	</machine>
+	<machine name="Joe Montana Football (USA, Europe)">
+		<description>Joe Montana Football (USA, Europe)</description>
+		<rom name="Joe Montana Football (USA, Europe).gg" size="262144" crc="2e01ba6c" md5="c74f379a93e9f667c375a316f8021afc" sha1="24c3b2cd18967b7141850d4f63b4992c3dad3ad4"/>
+	</machine>
+	<machine name="Journey from Darkness - Strider Returns (USA, Europe)">
+		<description>Journey from Darkness - Strider Returns (USA, Europe)</description>
+		<rom name="Journey from Darkness - Strider Returns (USA, Europe).gg" size="262144" crc="1ebfa5ca" md5="d9393afce9cc368eb1b0217cff994c8e" sha1="ed5d1fc5ba8a47992551b0d577c1a6a06d0f7ac2"/>
+	</machine>
+	<machine name="Judge Dredd (USA, Europe)">
+		<description>Judge Dredd (USA, Europe)</description>
+		<rom name="Judge Dredd (USA, Europe).gg" size="524288" crc="04d23fc4" md5="cfda45de60237ee360d4c40a1404cfca" sha1="4c9d00faeb4454a8f538b5ccc6453b3464930afa"/>
+	</machine>
+	<machine name="Junction (USA)">
+		<description>Junction (USA)</description>
+		<rom name="Junction (USA).gg" size="131072" crc="32abaa02" md5="7b089a66acc807a71adc58c9bd679ecc" sha1="d2b536dd1cdd72c66faf179d6ab2f6cf420a5682"/>
+	</machine>
+	<machine name="Jungle Book, The (USA)">
+		<description>Jungle Book, The (USA)</description>
+		<rom name="Jungle Book, The (USA).gg" size="262144" crc="30c09f31" md5="9212dda9031449afffa6903921286bea" sha1="f9da97db661f8ef7e7af87a83d23100c2fed4fb0"/>
+	</machine>
+	<machine name="Jungle Strike (USA)">
+		<description>Jungle Strike (USA)</description>
+		<rom name="Jungle Strike (USA).gg" size="524288" crc="d51642b0" md5="f678a27147f02b86d409e9317bab46b1" sha1="f4a6cf19814a2b0046257f8dd1feeaf22fa6fd73"/>
+	</machine>
+	<machine name="Jurassic Park (USA, Europe)">
+		<description>Jurassic Park (USA, Europe)</description>
+		<rom name="Jurassic Park (USA, Europe).gg" size="524288" crc="bd6f2321" md5="a3158baab261c5ddbcd4328d01e33a94" sha1="0425dc09465a4b7be78ab7aa46107987ba61e82a"/>
+	</machine>
+	<machine name="Kawasaki Superbike Challenge (USA, Europe)">
+		<description>Kawasaki Superbike Challenge (USA, Europe)</description>
+		<rom name="Kawasaki Superbike Challenge (USA, Europe).gg" size="262144" crc="23f9150a" md5="6d8c0f7f54a59c87fc5a8f279b72a922" sha1="7b0801c4ad6c15546f61decf2620f198b990425d"/>
+	</machine>
+	<machine name="Klax (USA, Europe)">
+		<description>Klax (USA, Europe)</description>
+		<rom name="Klax (USA, Europe).gg" size="131072" crc="9b40fc8e" md5="b8969ba5f8dc60823da59aa511a593c9" sha1="4705bbc862169cdfeb3b30dba6f274b094ab99b3"/>
+	</machine>
+	<machine name="Krusty's Fun House (USA, Europe)">
+		<description>Krusty's Fun House (USA, Europe)</description>
+		<rom name="Krusty's Fun House (USA, Europe).gg" size="262144" crc="d01e784f" md5="46be87d97e42dceef816dd7a6ad4d018" sha1="a24fd153669e0c38d55ff939e1ea52b6a316ad0d"/>
+	</machine>
+	<machine name="Land of Illusion Starring Mickey Mouse (USA, Europe)">
+		<description>Land of Illusion Starring Mickey Mouse (USA, Europe)</description>
+		<rom name="Land of Illusion Starring Mickey Mouse (USA, Europe).gg" size="524288" crc="52dbf3e1" md5="4f423e63523bafdc7311d790850ace58" sha1="5975bf7d01c84b9433c2859e6d38d26545fd3bc9"/>
+	</machine>
+	<machine name="Last Action Hero (USA)">
+		<description>Last Action Hero (USA)</description>
+		<rom name="Last Action Hero (USA).gg" size="262144" crc="2d367c43" md5="153243555c10f79ccfc854945472e5ed" sha1="340e0e8ab5b4e89f6d56bc30cabf8322e79b2347"/>
+	</machine>
+	<machine name="Legend of Illusion Starring Mickey Mouse (USA, Europe)">
+		<description>Legend of Illusion Starring Mickey Mouse (USA, Europe)</description>
+		<rom name="Legend of Illusion Starring Mickey Mouse (USA, Europe).gg" size="524288" crc="ce5ad8b7" md5="6d106d9c80b9d0cdc4f555be3c3677d3" sha1="fa1200fd34a81796222eae97175c2fb72a77e970"/>
+	</machine>
+	<machine name="Lemmings (World)">
+		<description>Lemmings (World)</description>
+		<rom name="Lemmings (World).gg" size="262144" crc="0fde7baa" md5="49d07d8b68d59535d9b51ae5efdbbdac" sha1="5a79b6fa15b7085fc7062945f0e6d469d49871e1"/>
+	</machine>
+	<machine name="Lion King, The (USA)">
+		<description>Lion King, The (USA)</description>
+		<rom name="Lion King, The (USA).gg" size="524288" crc="9808d7b3" md5="62328f27bcda54d1882a265bf8378688" sha1="e21025b2f6d5bbc18107905ad6c0c58d061d9c17"/>
+	</machine>
+	<machine name="Lost World, The - Jurassic Park (USA)">
+		<description>Lost World, The - Jurassic Park (USA)</description>
+		<rom name="Lost World, The - Jurassic Park (USA).gg" size="1048576" crc="8d1597f5" md5="68d9f394bf0dd0382a8052e60b3b8a1b" sha1="1730b85fac5478da92b0905c6525e715bb4470d4"/>
+	</machine>
+	<machine name="Lucky Dime Caper Starring Donald Duck, The (USA, Europe)">
+		<description>Lucky Dime Caper Starring Donald Duck, The (USA, Europe)</description>
+		<rom name="Lucky Dime Caper Starring Donald Duck, The (USA, Europe).gg" size="262144" crc="07a7815a" md5="78a7964b341ccc4379a837ee998805c7" sha1="5cc5caa887a63c580c1e3ff344a4b0ade643f24b"/>
+	</machine>
+	<machine name="Madden 96 (USA, Europe)">
+		<description>Madden 96 (USA, Europe)</description>
+		<rom name="Madden 96 (USA, Europe).gg" size="524288" crc="9f59d302" md5="d2b82f0a23b10168e47d62d708002d53" sha1="49412ebef31558afd8cb534c6914f5612eaa25b1"/>
+	</machine>
+	<machine name="Madden NFL 95 (USA)">
+		<description>Madden NFL 95 (USA)</description>
+		<rom name="Madden NFL 95 (USA).gg" size="524288" crc="75c71ebf" md5="0d93a14542072de41a616ce639437565" sha1="69d900be52502a4630ebcf9073175d8af45b655d"/>
+	</machine>
+	<machine name="Magical Puzzle Popils (World) (En,Ja)">
+		<description>Magical Puzzle Popils (World) (En,Ja)</description>
+		<rom name="Magical Puzzle Popils (World) (En,Ja).gg" size="131072" crc="cf6d7bc5" md5="e496ff2196c372f4d6111538950d25ca" sha1="fb939f0810d0763b9abaeec1a2bfbabacaad5441"/>
+	</machine>
+	<machine name="Majors Pro Baseball, The (USA)">
+		<description>Majors Pro Baseball, The (USA)</description>
+		<rom name="Majors Pro Baseball, The (USA).gg" size="262144" crc="36ebcd6d" md5="b0c35bc53ab7c184d34e5624f69aad24" sha1="76f3c504d717067134a88f7f1d0ef38bd6698e50"/>
+	</machine>
+	<machine name="Marble Madness (USA, Europe)">
+		<description>Marble Madness (USA, Europe)</description>
+		<rom name="Marble Madness (USA, Europe).gg" size="262144" crc="9559e339" md5="b83f36fd113a8f75f1a29652acb641fc" sha1="42c5cd5afebbf860a8ad80ea684f9b216762109e"/>
+	</machine>
+	<machine name="Marko's Magic Football (Europe) (En,Fr,De,Es)">
+		<description>Marko's Magic Football (Europe) (En,Fr,De,Es)</description>
+		<rom name="Marko's Magic Football (Europe) (En,Fr,De,Es).gg" size="524288" crc="22c418bf" md5="ba846684a66e90372c3c234955ee28bc" sha1="f255d7ea194d88a1588a2bf3ff34926de17c7ff1"/>
+	</machine>
+	<machine name="Mega Man (USA)">
+		<description>Mega Man (USA)</description>
+		<rom name="Mega Man (USA).gg" size="524288" crc="1ace93af" md5="8583950be61ffbaf0f63dde8dded2ab3" sha1="085517c4ac940b937d0e0a900e4735a2247ca4dd"/>
+	</machine>
+	<machine name="Mick &amp; Mack as the Global Gladiators (USA, Europe)">
+		<description>Mick &amp; Mack as the Global Gladiators (USA, Europe)</description>
+		<rom name="Mick &amp; Mack as the Global Gladiators (USA, Europe).gg" size="262144" crc="d2b6021e" md5="d3a436b1fb64fd6295a30cc12ba6bed9" sha1="ddad863406d429acb218c75042d5e5c511bdad4f"/>
+	</machine>
+	<machine name="Mickey's Ultimate Challenge (USA)">
+		<description>Mickey's Ultimate Challenge (USA)</description>
+		<rom name="Mickey's Ultimate Challenge (USA).gg" size="262144" crc="eccf7a4f" md5="66e41e9f596eeec8127d12426f928791" sha1="f62c129b5142d3dac66392b521003111b9291b3e"/>
+	</machine>
+	<machine name="Micro Machines (Europe)">
+		<description>Micro Machines (Europe)</description>
+		<rom name="Micro Machines (Europe).gg" size="262144" crc="f7c524f6" md5="c08b950e8ab836a737b07374f8235955" sha1="7b2d39b68622e18eac6c27fd961133b1d002342b"/>
+	</machine>
+	<machine name="Micro Machines 2 - Turbo Tournament (Europe)">
+		<description>Micro Machines 2 - Turbo Tournament (Europe)</description>
+		<rom name="Micro Machines 2 - Turbo Tournament (Europe).gg" size="524288" crc="dbe8895c" md5="4ed897e5e2bd76cbe92cbbbd76ac8817" sha1="53ad6546462638ab246b4fdd7ca4b8966dde0d96"/>
+	</machine>
+	<machine name="Mighty Morphin Power Rangers (USA, Europe)">
+		<description>Mighty Morphin Power Rangers (USA, Europe)</description>
+		<rom name="Mighty Morphin Power Rangers (USA, Europe).gg" size="524288" crc="9289dfcc" md5="7fcb774aa2b207cf16d2ddfe618351c0" sha1="86c4d12257faf355623f47f8fa22da23a3b36cd9"/>
+	</machine>
+	<machine name="Mighty Morphin Power Rangers - The Movie (USA, Europe)">
+		<description>Mighty Morphin Power Rangers - The Movie (USA, Europe)</description>
+		<rom name="Mighty Morphin Power Rangers - The Movie (USA, Europe).gg" size="524288" crc="b47c19e5" md5="f9acd8f01caa8d11150a53b37b435aa2" sha1="dfe7dc7b2df143da4f4eeb32051a6d373dddba5d"/>
+	</machine>
+	<machine name="MLBPA Baseball (USA)">
+		<description>MLBPA Baseball (USA)</description>
+		<rom name="MLBPA Baseball (USA).gg" size="524288" crc="1ecf07b4" md5="465eab01ab08a68a37c9c240dca8a36c" sha1="74c7433ae9807a0042741d1945472eafd88b48cd"/>
+	</machine>
+	<machine name="Monster Truck Wars (USA, Europe)">
+		<description>Monster Truck Wars (USA, Europe)</description>
+		<rom name="Monster Truck Wars (USA, Europe).gg" size="262144" crc="453c5cec" md5="aa768d95b27ccb2a796379f7f01f1ce7" sha1="f493d5aebef88b44cadcb3459d214a6c3ba155c8"/>
+	</machine>
+	<machine name="Mortal Kombat (USA, Europe)">
+		<description>Mortal Kombat (USA, Europe)</description>
+		<rom name="Mortal Kombat (USA, Europe).gg" size="524288" crc="07494f2a" md5="f9971dc9d78214f94856f6e886b1c8c2" sha1="ef634649b846b3f49d2c68739b36019e4fae0464"/>
+	</machine>
+	<machine name="Mortal Kombat 3 (Europe)">
+		<description>Mortal Kombat 3 (Europe)</description>
+		<rom name="Mortal Kombat 3 (Europe).gg" size="524288" crc="c2be62bb" md5="034cc8983558b3e42a4b9c2217d1bb68" sha1="034ecd615609efb4d96669dda7f32f546d5782f8"/>
+	</machine>
+	<machine name="Mortal Kombat II (World)">
+		<description>Mortal Kombat II (World)</description>
+		<rom name="Mortal Kombat II (World).gg" size="524288" crc="4b304e0f" md5="159256f5a372f2e409ecb343a3946001" sha1="320d2b8b62ef0109621bbe609b02bd8b0769a0b9"/>
+	</machine>
+	<machine name="Ms. Pac-Man (USA)">
+		<description>Ms. Pac-Man (USA)</description>
+		<rom name="Ms. Pac-Man (USA).gg" size="131072" crc="5ee88bd5" md5="d65e3350cba32a42d54130c356feb2a8" sha1="dbba762b62e786be2c1df30a595cf3bc11b106c5"/>
+	</machine>
+	<machine name="NBA Action Starring David Robinson (USA)">
+		<description>NBA Action Starring David Robinson (USA)</description>
+		<rom name="NBA Action Starring David Robinson (USA).gg" size="262144" crc="19030108" md5="14528b0fc34f707b2171aa36a62eeacf" sha1="b81b3740e6dbc931dc4a867a8aabdb971492e2b1"/>
+	</machine>
+	<machine name="NBA Jam (USA) (Rev 1)">
+		<description>NBA Jam (USA) (Rev 1)</description>
+		<rom name="NBA Jam (USA) (Rev 1).gg" size="524288" crc="820fa4ab" md5="51ee14347b3f3633299511fa5e637164" sha1="30bdf6edfb1772054e15edefd69fbe16efd1797a"/>
+	</machine>
+	<machine name="NBA Jam - Tournament Edition (World)">
+		<description>NBA Jam - Tournament Edition (World)</description>
+		<rom name="NBA Jam - Tournament Edition (World).gg" size="524288" crc="86c32e5b" md5="cfb2427a59cf67223e25ab2c46abca3e" sha1="c34e318852ca6f52e980c7a63721a145cd167843"/>
+	</machine>
+	<machine name="NFL '95 (USA)">
+		<description>NFL '95 (USA)</description>
+		<rom name="NFL '95 (USA).gg" size="524288" crc="dc5b0407" md5="c2cb9ba471c5ca56acc4224b3efe535d" sha1="d5f2b7b495794f11a9a67e2b34a44d59003f5960"/>
+	</machine>
+	<machine name="NFL Quarterback Club '96 (USA, Europe)">
+		<description>NFL Quarterback Club '96 (USA, Europe)</description>
+		<rom name="NFL Quarterback Club '96 (USA, Europe).gg" size="524288" crc="c348e53a" md5="b64ee38b829390dfc13cadfd1321f22e" sha1="fd4167dbc780ff402ba1df2671982ab722c0b3f3"/>
+	</machine>
+	<machine name="NFL Quarterback Club (World)">
+		<description>NFL Quarterback Club (World)</description>
+		<rom name="NFL Quarterback Club (World).gg" size="524288" crc="61785ed5" md5="c2d0ee20ea58f5bfcfe7ddff05722a2d" sha1="ea42bb90eea90a159f8c662743aa59d6dd6f7250"/>
+	</machine>
+	<machine name="NHL All-Star Hockey (USA)">
+		<description>NHL All-Star Hockey (USA)</description>
+		<rom name="NHL All-Star Hockey (USA).gg" size="524288" crc="4680c7aa" md5="c9c0089d8d210afeceb20acbd55afef4" sha1="9556d7a49372ebc8cfe3ab43704ceade86d5fef5"/>
+	</machine>
+	<machine name="NHL Hockey (USA, Europe)">
+		<description>NHL Hockey (USA, Europe)</description>
+		<rom name="NHL Hockey (USA, Europe).gg" size="524288" crc="658713a5" md5="a898b1d38cd6379090ef54a2f1d37fa2" sha1="8f243a6011f769538349c968929a500aff7d3e6d"/>
+	</machine>
+	<machine name="Ninja Gaiden (USA, Europe)">
+		<description>Ninja Gaiden (USA, Europe)</description>
+		<rom name="Ninja Gaiden (USA, Europe).gg" size="131072" crc="c578756b" md5="764388b8b5dc2e762fab9badd0eca6ba" sha1="1a5c44e76a0e913d76f590affae3b2e24fbd0f59"/>
+	</machine>
+	<machine name="Olympic Gold (Japan, USA) (En,Fr,De,Es,It,Nl,Pt,Sv)">
+		<description>Olympic Gold (Japan, USA) (En,Fr,De,Es,It,Nl,Pt,Sv)</description>
+		<rom name="Olympic Gold (Japan, USA) (En,Fr,De,Es,It,Nl,Pt,Sv).sms" size="262144" crc="a2f9c7af" md5="d52c5db48882c0c126572a0cdeb5f472" sha1="b7e5ae436ccaa9984297b0c14969922d189cb10c"/>
+	</machine>
+	<machine name="Ottifants, The (Europe) (En,Fr,De,Es,It)">
+		<description>Ottifants, The (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Ottifants, The (Europe) (En,Fr,De,Es,It).gg" size="262144" crc="1e673168" md5="985cca80d9837bdeb6c5f593b541d025" sha1="e66185d8f389ea2c48842f2623349c5cc8b1463d"/>
+	</machine>
+	<machine name="Out Run (Europe)">
+		<description>Out Run (Europe)</description>
+		<rom name="Out Run (Europe).gg" size="131072" crc="9014b322" md5="31ba1de018853ead9b43b522df540c0c" sha1="41d5f3f95ca8cd288842bad7bb5f7940c2baa86d"/>
+	</machine>
+	<machine name="Out Run Europa (USA)">
+		<description>Out Run Europa (USA)</description>
+		<rom name="Out Run Europa (USA).sms" size="262144" crc="f037ec00" md5="2a3bdd1a6c35eeedbf1a794abfb57b87" sha1="dd842a7294eee7badf4353fbe3e5d87dd570c671"/>
+	</machine>
+	<machine name="Pac-Attack (USA, Europe)">
+		<description>Pac-Attack (USA, Europe)</description>
+		<rom name="Pac-Attack (USA, Europe).gg" size="131072" crc="9273ee2c" md5="948ad3bc6014caf8c52c3c626dd70cee" sha1="e9e3d7c116e82e7fe696ac3e043d14ece51e9f8e"/>
+	</machine>
+	<machine name="Pac-Man (USA)">
+		<description>Pac-Man (USA)</description>
+		<rom name="Pac-Man (USA).gg" size="131072" crc="b318dd37" md5="8b8663cf7ef0a0bd595306fe28957441" sha1="ed27bae791e2b24966c282ad307a1b8d2140f55c"/>
+	</machine>
+	<machine name="Paperboy (USA, Europe)">
+		<description>Paperboy (USA, Europe)</description>
+		<rom name="Paperboy (USA, Europe).gg" size="131072" crc="f54b6803" md5="60e9482350815e3be5adc2a59234f05a" sha1="b1f81f9e2b7197b2fa1475b9cd422479780ef7f2"/>
+	</machine>
+	<machine name="Paperboy 2 (USA, Europe)">
+		<description>Paperboy 2 (USA, Europe)</description>
+		<rom name="Paperboy 2 (USA, Europe).gg" size="262144" crc="8b2c454b" md5="16899b0262f77cbbdf3dae252ec7fe29" sha1="2fa97c21bfd9d3968c473b6fa4fb7485b6dfb35d"/>
+	</machine>
+	<machine name="Pengo (USA, Europe)">
+		<description>Pengo (USA, Europe)</description>
+		<rom name="Pengo (USA, Europe).gg" size="32768" crc="0da23cc1" md5="f431bc2798fa03d51a9c45d107c66bcf" sha1="e42f85feb631712b8615a0b19bfbf6432633ba00"/>
+	</machine>
+	<machine name="Pete Sampras Tennis (Europe)">
+		<description>Pete Sampras Tennis (Europe)</description>
+		<rom name="Pete Sampras Tennis (Europe).gg" size="262144" crc="c1756bee" md5="8a033a243a35fef96e6ea99584fe1755" sha1="ab9b4c833207824efb14b712b4ec82721c8436bc"/>
+	</machine>
+	<machine name="PGA Tour 96 (USA, Europe)">
+		<description>PGA Tour 96 (USA, Europe)</description>
+		<rom name="PGA Tour 96 (USA, Europe).gg" size="524288" crc="542b6d8e" md5="ea4a78f2d68e63d129598a225c02684b" sha1="dc71616c742f23979c5eb27aafa27961170e0ae8"/>
+	</machine>
+	<machine name="PGA Tour Golf (USA) (Rev 1)">
+		<description>PGA Tour Golf (USA) (Rev 1)</description>
+		<rom name="PGA Tour Golf (USA) (Rev 1).gg" size="262144" crc="1c77d996" md5="f8b93a57b35353fed3d5e5151e520609" sha1="cddc04025a10e4351a4c63d118a74bc8b7d2b257"/>
+	</machine>
+	<machine name="PGA Tour Golf II (USA, Europe)">
+		<description>PGA Tour Golf II (USA, Europe)</description>
+		<rom name="PGA Tour Golf II (USA, Europe).gg" size="524288" crc="4a8ac851" md5="4efd19d797aaa235a397b286debb7a5a" sha1="871b94f1ff63e2a89bc165382110d4f79df53fa3"/>
+	</machine>
+	<machine name="Phantom 2040 (USA, Europe)">
+		<description>Phantom 2040 (USA, Europe)</description>
+		<rom name="Phantom 2040 (USA, Europe).gg" size="524288" crc="281b1c3a" md5="28f08375a5cdb864564c7d5a3207d0f3" sha1="0e054455d99b6d1732abbe9d0ca1b25825b70b87"/>
+	</machine>
+	<machine name="Pinball Dreams (USA)">
+		<description>Pinball Dreams (USA)</description>
+		<rom name="Pinball Dreams (USA).gg" size="131072" crc="635c483a" md5="d3e43d2779b93393d7d1d4485a1907aa" sha1="1734288c1ca2d83b28b5e266998fbbba76f665f6"/>
+	</machine>
+	<machine name="Poker Face Paul's Blackjack (USA)">
+		<description>Poker Face Paul's Blackjack (USA)</description>
+		<rom name="Poker Face Paul's Blackjack (USA).gg" size="131072" crc="89d34067" md5="1148f0cbddb95b61a9e3366649ceccd0" sha1="010560dee1eafae3266eb9720e2f802c0deccf40"/>
+	</machine>
+	<machine name="Poker Face Paul's Gin (USA)">
+		<description>Poker Face Paul's Gin (USA)</description>
+		<rom name="Poker Face Paul's Gin (USA).gg" size="131072" crc="afd61b89" md5="c2c37127003087a7c5eebd63dce219c6" sha1="e21d29b2864b6eed3a4eb4dcf7443f1114e92bd4"/>
+	</machine>
+	<machine name="Poker Face Paul's Poker (USA)">
+		<description>Poker Face Paul's Poker (USA)</description>
+		<rom name="Poker Face Paul's Poker (USA).gg" size="131072" crc="e783daf8" md5="6b8c35bfe5ca0b83d529be9012c6bc3a" sha1="c21b3a14bd560261c01eccb413b27fecf231495b"/>
+	</machine>
+	<machine name="Poker Face Paul's Solitaire (USA)">
+		<description>Poker Face Paul's Solitaire (USA)</description>
+		<rom name="Poker Face Paul's Solitaire (USA).gg" size="131072" crc="0e9b0c0a" md5="42a994671913ebab1dec1fc68494dbb3" sha1="141b53c7f85b50626c6619094f4f8f7bec3676d2"/>
+	</machine>
+	<machine name="Power Drive (Europe)">
+		<description>Power Drive (Europe)</description>
+		<rom name="Power Drive (Europe).gg" size="524288" crc="ac369ae3" md5="920f469a6e365e7ea288a7ef8dc8536a" sha1="c523db9fcf30d7f8af5e5a298ba01f59d124ff72"/>
+	</machine>
+	<machine name="Predator 2 (USA, Europe)">
+		<description>Predator 2 (USA, Europe)</description>
+		<rom name="Predator 2 (USA, Europe).sms" size="262144" crc="e5f789b9" md5="886649dc63aca898ce30a32348192cd5" sha1="76464809826a0ceed7cfd68a8fe5e06c06bd96fc"/>
+	</machine>
+	<machine name="Primal Rage (USA, Europe)">
+		<description>Primal Rage (USA, Europe)</description>
+		<rom name="Primal Rage (USA, Europe).gg" size="524288" crc="2a34b5c7" md5="1ce6a2d5b50098cbcc9f166f2cc44fba" sha1="6d193840463722ed141ed503c2cfc7ae0077ce35"/>
+	</machine>
+	<machine name="Prince of Persia (USA, Europe)">
+		<description>Prince of Persia (USA, Europe)</description>
+		<rom name="Prince of Persia (USA, Europe).sms" size="262144" crc="311d2863" md5="0d636c8d86dafd4f2c337e34e94b1e41" sha1="7820699ee6b214f3f02f724f4d7891184caf93f8"/>
+	</machine>
+	<machine name="Psychic World (USA, Europe) (Rev 1)">
+		<description>Psychic World (USA, Europe) (Rev 1)</description>
+		<rom name="Psychic World (USA, Europe) (Rev 1).gg" size="131072" crc="73779b22" md5="52cfddc12af6a3a64030f62ccf6aca83" sha1="3be13f79eeb26b82343afab3e740b3a1d35978eb"/>
+	</machine>
+	<machine name="Putt &amp; Putter (USA, Europe)">
+		<description>Putt &amp; Putter (USA, Europe)</description>
+		<rom name="Putt &amp; Putter (USA, Europe).gg" size="131072" crc="ecc301dd" md5="61c0b40329f89007ab44cc5eb29addfd" sha1="7038a6e60106eba19e0aff56c14749c2dbb5de5f"/>
+	</machine>
+	<machine name="Quest for the Shaven Yak Starring Ren Hoek &amp; Stimpy (USA, Europe)">
+		<description>Quest for the Shaven Yak Starring Ren Hoek &amp; Stimpy (USA, Europe)</description>
+		<rom name="Quest for the Shaven Yak Starring Ren Hoek &amp; Stimpy (USA, Europe).gg" size="524288" crc="6c451ee1" md5="42854dd79bf57019a26ddd73e12b68ac" sha1="83bc52f669183f99accb078a454f786b5e320e40"/>
+	</machine>
+	<machine name="R.B.I. Baseball '94 (USA)">
+		<description>R.B.I. Baseball '94 (USA)</description>
+		<rom name="R.B.I. Baseball '94 (USA).gg" size="524288" crc="6dc3295e" md5="81e2a14c52eb079ca58e5704652c199d" sha1="21e3800ecfb6c8210cfc1213a6cbf0bb63519633"/>
+	</machine>
+	<machine name="R.C. Grand Prix (USA, Europe)">
+		<description>R.C. Grand Prix (USA, Europe)</description>
+		<rom name="R.C. Grand Prix (USA, Europe).sms" size="262144" crc="56201996" md5="d087b25d96f3f3e9338b0b5ec4fc2aa5" sha1="c789e7f9450c8eaa08be1bf6c39e877973216431"/>
+	</machine>
+	<machine name="Revenge of Drancon (USA)">
+		<description>Revenge of Drancon (USA)</description>
+		<rom name="Revenge of Drancon (USA).gg" size="131072" crc="03e9c607" md5="c985b4316d8d58e48e2dc61264ab0071" sha1="286f673b11739d624899479216e30b58efd049be"/>
+	</machine>
+	<machine name="Riddick Bowe Boxing (USA)">
+		<description>Riddick Bowe Boxing (USA)</description>
+		<rom name="Riddick Bowe Boxing (USA).gg" size="262144" crc="38d8ec56" md5="e63ff3a1086c16f7e3b2c4c63371e551" sha1="b8487bdb0a6167753fc6de82714793181d7718db"/>
+	</machine>
+	<machine name="Rise of the Robots (USA, Europe)">
+		<description>Rise of the Robots (USA, Europe)</description>
+		<rom name="Rise of the Robots (USA, Europe).gg" size="524288" crc="100b77b2" md5="ebcedb0b611788408d1b27171b77ad6b" sha1="9ba2f734eccf5b2ceefaa69cebdf7399bc9032d8"/>
+	</machine>
+	<machine name="Ristar - The Shooting Star (World)">
+		<description>Ristar - The Shooting Star (World)</description>
+		<rom name="Ristar - The Shooting Star (World).gg" size="524288" crc="efe65b3b" md5="06f0a495fbb70fad50246da715f8add7" sha1="d0d950097471553b6a96dc9cf0fb14ddb3a7dda2"/>
+	</machine>
+	<machine name="Road Rash (USA)">
+		<description>Road Rash (USA)</description>
+		<rom name="Road Rash (USA).gg" size="524288" crc="96045f76" md5="18090d451dc27f8d3edcbdbef86a30d8" sha1="2cf136b5feb786770322e1a03e7e3577a1a9eec0"/>
+	</machine>
+	<machine name="RoboCop 3 (World)">
+		<description>RoboCop 3 (World)</description>
+		<rom name="RoboCop 3 (World).gg" size="262144" crc="069a0704" md5="ae7121e6ce2831e1b700515b6060acaf" sha1="8de7c9ac95b734af9e3fbe5700ac4c6599799702"/>
+	</machine>
+	<machine name="RoboCop versus The Terminator (USA, Europe)">
+		<description>RoboCop versus The Terminator (USA, Europe)</description>
+		<rom name="RoboCop versus The Terminator (USA, Europe).gg" size="524288" crc="4ab7fa4e" md5="d19dc027e7aff95a1abfd0db074e1cf2" sha1="13286df11fc66a8974a73a82e8478fa382fa2b43"/>
+	</machine>
+	<machine name="S.S. Lucifer - Man Overboard! (Europe)">
+		<description>S.S. Lucifer - Man Overboard! (Europe)</description>
+		<rom name="S.S. Lucifer - Man Overboard! (Europe).gg" size="262144" crc="d9a7f170" md5="d369dcc7c7317b88d401cd7dd54ad951" sha1="b167fda9f0e7a6a47027f782a08149e8d4f46e0c"/>
+	</machine>
+	<machine name="Samurai Shodown (USA)">
+		<description>Samurai Shodown (USA)</description>
+		<rom name="Samurai Shodown (USA).gg" size="524288" crc="98171deb" md5="4898db4b63c7024842e748fb81c95a55" sha1="d7330f5abcadb5c199299b24c22334be0072ec80"/>
+	</machine>
+	<machine name="Scratch Golf (USA)">
+		<description>Scratch Golf (USA)</description>
+		<rom name="Scratch Golf (USA).gg" size="262144" crc="c10df4ce" md5="a469a38397a5d530313beb549182558d" sha1="263033b62101a4bca2a4311695cef8b7dfbbcc4b"/>
+	</machine>
+	<machine name="Sega Game Pack 4 in 1 (Europe)">
+		<description>Sega Game Pack 4 in 1 (Europe)</description>
+		<rom name="Sega Game Pack 4 in 1 (Europe).gg" size="262144" crc="0924d2ec" md5="32139ab4462c6bd3fa0861bb72276ddf" sha1="02fa5c6c6f81f5f4e1d78eced5a37617888404d3"/>
+	</machine>
+	<machine name="Sensible Soccer (Europe)">
+		<description>Sensible Soccer (Europe)</description>
+		<rom name="Sensible Soccer (Europe).gg" size="131072" crc="5b68da75" md5="13261fbd215f50b8d0e85f2b7ae148dd" sha1="c02830156779a27b79435ec0cbf7a03cbbfda920"/>
+	</machine>
+	<machine name="Shaq Fu (USA, Europe)">
+		<description>Shaq Fu (USA, Europe)</description>
+		<rom name="Shaq Fu (USA, Europe).gg" size="524288" crc="6fcb8ab0" md5="ea608a53121d0c905dcfe6544248c275" sha1="bc9d0b0dc2b22b9530660f0a04b865492766c9d0"/>
+	</machine>
+	<machine name="Shining Force II - The Sword of Hajya (USA)">
+		<description>Shining Force II - The Sword of Hajya (USA)</description>
+		<rom name="Shining Force II - The Sword of Hajya (USA).gg" size="524288" crc="a6ca6fa9" md5="0a0fa9cbcc3db467191e907794c8c02b" sha1="789734c4a837dffd2ad3e2c8de22cbd83836580d"/>
+	</machine>
+	<machine name="Shinobi (USA, Europe)">
+		<description>Shinobi (USA, Europe)</description>
+		<rom name="Shinobi (USA, Europe).gg" size="262144" crc="30f1c984" md5="8fa7438dec1403f2e9d7b1ca60b29f1a" sha1="2e7303f82d885cb84fa557e211954808c8ebe779"/>
+	</machine>
+	<machine name="Shinobi II - The Silent Fury (World) (Ja)">
+		<description>Shinobi II - The Silent Fury (World) (Ja)</description>
+		<rom name="Shinobi II - The Silent Fury (World) (Ja).gg" size="262144" crc="6201c694" md5="48d741774004eab9c19c1dd43758bf2b" sha1="cd57301d16202ea02d9f97bd8b17d71772782c94"/>
+	</machine>
+	<machine name="Side Pocket (USA)">
+		<description>Side Pocket (USA)</description>
+		<rom name="Side Pocket (USA).gg" size="262144" crc="6a603eed" md5="4f270030dd6bb1d72eba33f1ef054b20" sha1="794775a858ff04c9da1c897b51eede4677a35c21"/>
+	</machine>
+	<machine name="Simpsons, The - Bart vs. the Space Mutants (USA, Europe)">
+		<description>Simpsons, The - Bart vs. the Space Mutants (USA, Europe)</description>
+		<rom name="Simpsons, The - Bart vs. the Space Mutants (USA, Europe).gg" size="262144" crc="c0009274" md5="a9dac5c7f2dc324232c3b5a3263b761a" sha1="c8bbc1ea5b9b60ebcd15efc2dc850e0ffd20dae0"/>
+	</machine>
+	<machine name="Simpsons, The - Bart vs. the World (World)">
+		<description>Simpsons, The - Bart vs. the World (World)</description>
+		<rom name="Simpsons, The - Bart vs. the World (World).gg" size="262144" crc="da7bd5c7" md5="b71c156bb1fcfa6c3c48924a7b3747ff" sha1="256672261c9a2d35e10eb06e990e8ebc46fb35c1"/>
+	</machine>
+	<machine name="Slider (USA, Europe)">
+		<description>Slider (USA, Europe)</description>
+		<rom name="Slider (USA, Europe).gg" size="131072" crc="4dc6f555" md5="634a3ef93d9e93b79f194559541adeb8" sha1="ab37b26ca62339720d1cefcb152a0aca545359aa"/>
+	</machine>
+	<machine name="Smurfs Travel the World, The (Europe) (En,Fr,De,Es)">
+		<description>Smurfs Travel the World, The (Europe) (En,Fr,De,Es)</description>
+		<rom name="Smurfs Travel the World, The (Europe) (En,Fr,De,Es).gg" size="262144" crc="3eb337df" md5="348ca8eaa37d5f468915b0cb5a558d21" sha1="33eb8c0fde81d258ceec4c74abb20c10f6953a9d"/>
+	</machine>
+	<machine name="Smurfs, The (Europe) (En,Fr,De,Es)">
+		<description>Smurfs, The (Europe) (En,Fr,De,Es)</description>
+		<rom name="Smurfs, The (Europe) (En,Fr,De,Es).gg" size="262144" crc="354e1cbd" md5="c8337c47ed211075b9acf4867d8c0e18" sha1="faa80f644ece06b10b8e5ad035cbf518f80d609b"/>
+	</machine>
+	<machine name="Solitaire FunPak (USA)">
+		<description>Solitaire FunPak (USA)</description>
+		<rom name="Solitaire FunPak (USA).gg" size="262144" crc="f6f24b75" md5="ce368041fa0ebe6ecd7ffcc6b404c593" sha1="f1d31d734f3ef590b0aefd1b89a455e9040d102e"/>
+	</machine>
+	<machine name="Solitaire Poker (USA, Europe)">
+		<description>Solitaire Poker (USA, Europe)</description>
+		<rom name="Solitaire Poker (USA, Europe).gg" size="131072" crc="06f2fc46" md5="d76a2cf1ba1565c4ec6494ea4ee4075b" sha1="7478a2f641fa371999f2c9f0a1efd9917615be5f"/>
+	</machine>
+	<machine name="Sonic Chaos (USA, Europe)">
+		<description>Sonic Chaos (USA, Europe)</description>
+		<rom name="Sonic Chaos (USA, Europe).gg" size="524288" crc="663f2abb" md5="895ca34f733c445341e5ca1642527690" sha1="5b5b7d9cd8adf0f8e1ee15fd4557828f91dfdca1"/>
+	</machine>
+	<machine name="Sonic Drift (Japan) (En)">
+		<description>Sonic Drift (Japan) (En)</description>
+		<rom name="Sonic Drift (Japan) (En).gg" size="524288" crc="68f0a776" md5="8093ef0eeb147f2a938fae3e5a26d8b3" sha1="fef5d69093df2d774ed274a4079790f8778577fc"/>
+	</machine>
+	<machine name="Sonic Drift 2 (Japan, USA)">
+		<description>Sonic Drift 2 (Japan, USA)</description>
+		<rom name="Sonic Drift 2 (Japan, USA).gg" size="524288" crc="d6e8a305" md5="b39d1e9a40dfd3508ee4003cd28da452" sha1="fe597c5cfbbc31e54f2484eb5b33c21c66cf0290"/>
+	</machine>
+	<machine name="Sonic Labyrinth (World)">
+		<description>Sonic Labyrinth (World)</description>
+		<rom name="Sonic Labyrinth (World).gg" size="524288" crc="5550173b" md5="aa6598585b2cdb92a14476beeb34991b" sha1="e24bf33d8d5a79f371485f20f207b6b26f5b341e"/>
+	</machine>
+	<machine name="Sonic Spinball (USA, Europe)">
+		<description>Sonic Spinball (USA, Europe)</description>
+		<rom name="Sonic Spinball (USA, Europe).gg" size="524288" crc="a9210434" md5="8e3b44fda375ad9748b678e9c6b45502" sha1="df21d42b55b1b4a25704957fe323728b775eb84d"/>
+	</machine>
+	<machine name="Sonic The Hedgehog (World) (Rev 1)">
+		<description>Sonic The Hedgehog (World) (Rev 1)</description>
+		<rom name="Sonic The Hedgehog (World) (Rev 1).gg" size="262144" crc="d163356e" md5="b1de7027824c434ce8de59782705f5c9" sha1="7dbbbca2229e74fcb8f90ec794aa6e5cb168e489"/>
+	</machine>
+	<machine name="Sonic The Hedgehog - Triple Trouble (USA, Europe)">
+		<description>Sonic The Hedgehog - Triple Trouble (USA, Europe)</description>
+		<rom name="Sonic The Hedgehog - Triple Trouble (USA, Europe).gg" size="524288" crc="d23a2a93" md5="f0f7e4dfe2908f0030e64fd9ed843422" sha1="4965af7ffe60382ffa805710b7c8006419cc4ac4"/>
+	</machine>
+	<machine name="Sonic The Hedgehog 2 (World)">
+		<description>Sonic The Hedgehog 2 (World)</description>
+		<rom name="Sonic The Hedgehog 2 (World).gg" size="524288" crc="95a18ec7" md5="9c64846563d8b9a24400471322e53fb5" sha1="dabb452e416b4fa9cb83d8ddd307c2a32c3a1a7f"/>
+	</machine>
+	<machine name="Space Harrier (World)">
+		<description>Space Harrier (World)</description>
+		<rom name="Space Harrier (World).gg" size="131072" crc="600c15b3" md5="cd3809b8d6d32144c45de8e102623aa0" sha1="d00b8ff195d4423f2a344490eb34156017f4ee64"/>
+	</machine>
+	<machine name="Spider-Man - Return of the Sinister Six (USA, Europe)">
+		<description>Spider-Man - Return of the Sinister Six (USA, Europe)</description>
+		<rom name="Spider-Man - Return of the Sinister Six (USA, Europe).gg" size="262144" crc="bc240779" md5="aba3b030ca9c78288f74ddd02c7ab5ab" sha1="37e2b3fd35138e9e939d5152d86e307f7ac06f7e"/>
+	</machine>
+	<machine name="Spider-Man - X-Men - Arcade's Revenge (USA)">
+		<description>Spider-Man - X-Men - Arcade's Revenge (USA)</description>
+		<rom name="Spider-Man - X-Men - Arcade's Revenge (USA).gg" size="524288" crc="742a372b" md5="912075356cc3bb5bbab641e61d3904d7" sha1="4006a23571f194e1fcb3563557decd5d11e7b5c2"/>
+	</machine>
+	<machine name="Spider-Man vs. The Kingpin (USA, Europe)">
+		<description>Spider-Man vs. The Kingpin (USA, Europe)</description>
+		<rom name="Spider-Man vs. The Kingpin (USA, Europe).gg" size="262144" crc="2651024e" md5="13e2e27559b0ae898306506219dcc68b" sha1="46b064b4b5a6444ce0e64e16a7e5cec2087fb4d3"/>
+	</machine>
+	<machine name="Sports Illustrated Championship Football &amp; Baseball (USA, Europe)">
+		<description>Sports Illustrated Championship Football &amp; Baseball (USA, Europe)</description>
+		<rom name="Sports Illustrated Championship Football &amp; Baseball (USA, Europe).gg" size="524288" crc="de25e2d8" md5="a437bf2802d078cde35dbbf2657fa0c8" sha1="781bc3ef9fbbbfcb5452dad99633b65c172b62fa"/>
+	</machine>
+	<machine name="Sports Trivia (USA)">
+		<description>Sports Trivia (USA)</description>
+		<rom name="Sports Trivia (USA).gg" size="131072" crc="a7af7ca9" md5="6db7b0c91e4a4e0f7ec2a0ce6108e344" sha1="7787c8f0178829fc2ce25930ad91f0b712fa3625"/>
+	</machine>
+	<machine name="Sports Trivia - Championship Edition (USA, Europe)">
+		<description>Sports Trivia - Championship Edition (USA, Europe)</description>
+		<rom name="Sports Trivia - Championship Edition (USA, Europe).gg" size="262144" crc="5b5de94d" md5="d0ee122f47fb032d4ec15d78daf1accf" sha1="f2542d122570fad8d2f91aae8ef074e58487ede0"/>
+	</machine>
+	<machine name="Star Trek - The Next Generation - The Advanced Holodeck Tutorial (USA)">
+		<description>Star Trek - The Next Generation - The Advanced Holodeck Tutorial (USA)</description>
+		<rom name="Star Trek - The Next Generation - The Advanced Holodeck Tutorial (USA).gg" size="262144" crc="80156323" md5="b8d1dafa4077b7afcb8989c23246bbcb" sha1="a508ff0ea93390e42e2440ed4aca531047281c23"/>
+	</machine>
+	<machine name="Star Trek Generations - Beyond the Nexus (USA, Europe)">
+		<description>Star Trek Generations - Beyond the Nexus (USA, Europe)</description>
+		<rom name="Star Trek Generations - Beyond the Nexus (USA, Europe).gg" size="262144" crc="087fc5f0" md5="d59270a8ecfd465ca6bf929ca14ae2e3" sha1="307e4956fd0d50f3732215574957b040937bbfca"/>
+	</machine>
+	<machine name="Star Wars (USA)">
+		<description>Star Wars (USA)</description>
+		<rom name="Star Wars (USA).gg" size="524288" crc="0228769c" md5="5330216b69cfd046abcc209cbc22d07e" sha1="48c14c0c2b4e38ac122d9ccdcdc8b194e15ef032"/>
+	</machine>
+	<machine name="Stargate (World)">
+		<description>Stargate (World)</description>
+		<rom name="Stargate (World).gg" size="262144" crc="fc7c64e4" md5="b24361360667c2730ae9cbe9004b54d0" sha1="011fd49600eaef8be7cbe35ab6eeb4e1554d836c"/>
+	</machine>
+	<machine name="Striker (Europe) (En,Fr,De,Es,It)">
+		<description>Striker (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Striker (Europe) (En,Fr,De,Es,It).gg" size="524288" crc="b421c057" md5="bea0f43795028285e34738c15c5ddba9" sha1="dc51ed36b12d1a943bcf79d9ab246505a190f795"/>
+	</machine>
+	<machine name="Super Battletank (USA)">
+		<description>Super Battletank (USA)</description>
+		<rom name="Super Battletank (USA).gg" size="262144" crc="73d6745a" md5="f2b15e50ef16b3257c5d08ca0bd17e3b" sha1="f827545cccd5360552e839a377c1b886e6c80176"/>
+	</machine>
+	<machine name="Super Columns (USA, Europe)">
+		<description>Super Columns (USA, Europe)</description>
+		<rom name="Super Columns (USA, Europe).gg" size="131072" crc="8ba43af3" md5="8f1de0caa864beed2a61f391795b0a10" sha1="ce59845e973b7fb7b3b2121b35a95fba5727df62"/>
+	</machine>
+	<machine name="Super Golf (USA)">
+		<description>Super Golf (USA)</description>
+		<rom name="Super Golf (USA).gg" size="131072" crc="e9570f36" md5="6073a1adbbbc637b661e2f77a49d50df" sha1="ed9b5e1264b4ed6d8969ba1c4e3f2d9446c3c9ca"/>
+	</machine>
+	<machine name="Super Monaco GP (USA, Europe)">
+		<description>Super Monaco GP (USA, Europe)</description>
+		<rom name="Super Monaco GP (USA, Europe).gg" size="131072" crc="fcf12547" md5="91558564f8c32117d7f05e1fef3b8c17" sha1="d834e43d7ec6dbadf2e367afd45b7e1e4362035b"/>
+	</machine>
+	<machine name="Super Off Road (USA, Europe)">
+		<description>Super Off Road (USA, Europe)</description>
+		<rom name="Super Off Road (USA, Europe).gg" size="131072" crc="e8b42b1f" md5="ce6809a18fb430a2863231b2dac51db2" sha1="c5ee89f785c44784867c3b33fd6466fc72e9042c"/>
+	</machine>
+	<machine name="Super Return of the Jedi (USA, Europe)">
+		<description>Super Return of the Jedi (USA, Europe)</description>
+		<rom name="Super Return of the Jedi (USA, Europe).gg" size="524288" crc="4a38b6b6" md5="fc8d04e6975267cdc6bd49a0dea33c41" sha1="a37858100903ad1e0224c870fe12419c25df90e0"/>
+	</machine>
+	<machine name="Super Smash T.V. (World)">
+		<description>Super Smash T.V. (World)</description>
+		<rom name="Super Smash T.V. (World).gg" size="262144" crc="1006e4e3" md5="d378d5784b82154bdc7b36976a7c7737" sha1="85189e29f3f6b94f95723bc75571e9424df119f9"/>
+	</machine>
+	<machine name="Super Space Invaders (USA, Europe)">
+		<description>Super Space Invaders (USA, Europe)</description>
+		<rom name="Super Space Invaders (USA, Europe).gg" size="262144" crc="dfe38e24" md5="6367666402c51229d283ac0cf5bf3ffb" sha1="3864c399f76e67ae4ff40d32a60c36ad16578988"/>
+	</machine>
+	<machine name="Superman - The Man of Steel (Europe)">
+		<description>Superman - The Man of Steel (Europe)</description>
+		<rom name="Superman - The Man of Steel (Europe).gg" size="262144" crc="73df5a15" md5="1adf05e9ac786d9b46bb8d2b8043669d" sha1="8e0d837cf285d8669d30ef1328453949cea70a6a"/>
+	</machine>
+	<machine name="Surf Ninjas (USA)">
+		<description>Surf Ninjas (USA)</description>
+		<rom name="Surf Ninjas (USA).gg" size="524288" crc="284482a8" md5="63f72877317fd3c17b0d867ea3169f56" sha1="23e493f7c19ffb17e67392289c5a72dc9d0d6d9e"/>
+	</machine>
+	<machine name="T2 - The Arcade Game (USA, Europe)">
+		<description>T2 - The Arcade Game (USA, Europe)</description>
+		<rom name="T2 - The Arcade Game (USA, Europe).gg" size="524288" crc="9479c83a" md5="d459d14baddfa9f8a69e91f79be71b9b" sha1="12b6f5542b6cebfe872096eab2a885d297eefa2f"/>
+	</machine>
+	<machine name="Tails Adventures (World) (En,Ja)">
+		<description>Tails Adventures (World) (En,Ja)</description>
+		<rom name="Tails Adventures (World) (En,Ja).gg" size="524288" crc="5bb6e5d6" md5="a8bdb1beed088ff83c725c5af6b85e1f" sha1="da3df145b8e9f2a2e680d2c92939084d4530ed90"/>
+	</machine>
+	<machine name="Taito Chase H.Q. (USA)">
+		<description>Taito Chase H.Q. (USA)</description>
+		<rom name="Taito Chase H.Q. (USA).gg" size="131072" crc="c8381def" md5="c72556c76d431b545dd56bdcc536a89f" sha1="6d6209c642b854eaa43da81b311c04a7579d9a17"/>
+	</machine>
+	<machine name="TaleSpin (USA, Europe)">
+		<description>TaleSpin (USA, Europe)</description>
+		<rom name="TaleSpin (USA, Europe).gg" size="262144" crc="f1732ffe" md5="0c03df9b73f191c27755c3816343827f" sha1="60e5c27a07a69969ea1ba830cc82df33a5fbf227"/>
+	</machine>
+	<machine name="Tarzan - Lord of the Jungle (Europe)">
+		<description>Tarzan - Lord of the Jungle (Europe)</description>
+		<rom name="Tarzan - Lord of the Jungle (Europe).gg" size="262144" crc="ef3afe8b" md5="d4a4bfd64544c362cc0212ce5e404331" sha1="a787db71f221c71a89f39c6c3a153c43d6d5555a"/>
+	</machine>
+	<machine name="Taz in Escape from Mars (USA, Europe)">
+		<description>Taz in Escape from Mars (USA, Europe)</description>
+		<rom name="Taz in Escape from Mars (USA, Europe).gg" size="524288" crc="eebad66b" md5="6db88ab8c4ddcf3caf5424a993a79521" sha1="1d19306b7dbcb37fd1ab62021b5054efd2d04889"/>
+	</machine>
+	<machine name="Taz-Mania - The Search for the Lost Seabirds (USA, Europe)">
+		<description>Taz-Mania - The Search for the Lost Seabirds (USA, Europe)</description>
+		<rom name="Taz-Mania - The Search for the Lost Seabirds (USA, Europe).gg" size="262144" crc="36040c24" md5="70220f584b2d4f69e5efa9a3268a4a88" sha1="0d0285bc5350146f365dae1f271ed0828971cf4d"/>
+	</machine>
+	<machine name="Tempo Jr. (World)">
+		<description>Tempo Jr. (World)</description>
+		<rom name="Tempo Jr. (World).gg" size="524288" crc="de466796" md5="d5d52e216698b34a3dbe95d5990c52c8" sha1="a2d800d2836a03f81dd8f3dda23cd2d8bfff18a5"/>
+	</machine>
+	<machine name="Tengen World Cup Soccer (USA, Europe)">
+		<description>Tengen World Cup Soccer (USA, Europe)</description>
+		<rom name="Tengen World Cup Soccer (USA, Europe).gg" size="262144" crc="dd6d2e34" md5="c7570d82d91dc353d7df445453fc0646" sha1="8e1beab60e120924656d8a741a38b112abd7ef97"/>
+	</machine>
+	<machine name="Terminator 2 - Judgment Day (World)">
+		<description>Terminator 2 - Judgment Day (World)</description>
+		<rom name="Terminator 2 - Judgment Day (World).gg" size="262144" crc="1bd15773" md5="67388b1c9758e7f0c0957eb9a788611a" sha1="833c94ea65a7c36349b2bb0b2b637116f54a6762"/>
+	</machine>
+	<machine name="Terminator, The (USA, Europe)">
+		<description>Terminator, The (USA, Europe)</description>
+		<rom name="Terminator, The (USA, Europe).gg" size="262144" crc="c029a5fd" md5="b9190f130f728ba8c05d82d5f01fde21" sha1="1889d019bd9f5919517805a2e02a9691de5ef634"/>
+	</machine>
+	<machine name="Tesserae (USA, Europe)">
+		<description>Tesserae (USA, Europe)</description>
+		<rom name="Tesserae (USA, Europe).gg" size="131072" crc="ca0e11cc" md5="5e203cd85b4bc7d81b54d8b407e0f307" sha1="2b2652c7e03218b212e4d6a6246bd70e925e7ee1"/>
+	</machine>
+	<machine name="Tintin in Tibet (Europe) (En,Fr,De,Es,Nl,Sv)">
+		<description>Tintin in Tibet (Europe) (En,Fr,De,Es,Nl,Sv)</description>
+		<rom name="Tintin in Tibet (Europe) (En,Fr,De,Es,Nl,Sv).gg" size="524288" crc="969cf389" md5="082dbe19bcfb1a9d16423bc79e940826" sha1="2fdf4a953b53578befd69e9477ac6148cfa1c67c"/>
+	</machine>
+	<machine name="Tom and Jerry - The Movie (USA, Europe)">
+		<description>Tom and Jerry - The Movie (USA, Europe)</description>
+		<rom name="Tom and Jerry - The Movie (USA, Europe).gg" size="262144" crc="5cd33ff2" md5="c0246eed0c11ebe7a9b144a00ed61df1" sha1="514f8bc2e9306f4005d5a8aa2dc49304d48bfc82"/>
+	</machine>
+	<machine name="True Lies (World)">
+		<description>True Lies (World)</description>
+		<rom name="True Lies (World).gg" size="524288" crc="5173b02a" md5="758bfe2baba5d8b518c6f746864bb8d5" sha1="7ee525e68b9f3bca2a5bdd6de14711108dcbc288"/>
+	</machine>
+	<machine name="Ultimate Soccer (Japan, Europe) (En,Fr,De,Es,It)">
+		<description>Ultimate Soccer (Japan, Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Ultimate Soccer (Japan, Europe) (En,Fr,De,Es,It).gg" size="262144" crc="820965a3" md5="23ed27ebb1ed0f22610e132a3668f06b" sha1="7994621926628d2376a75e8d90cd066d48a4d502"/>
+	</machine>
+	<machine name="Urban Strike (USA, Europe)">
+		<description>Urban Strike (USA, Europe)</description>
+		<rom name="Urban Strike (USA, Europe).gg" size="524288" crc="185e9fc1" md5="e6bc90f958617e9bde26367b5348518c" sha1="2d33d049a7f3dcde8c4f294cca5597ca590bb407"/>
+	</machine>
+	<machine name="Vampire - Master of Darkness (USA)">
+		<description>Vampire - Master of Darkness (USA)</description>
+		<rom name="Vampire - Master of Darkness (USA).gg" size="262144" crc="7ec64025" md5="1e068538747f6d4d99888221a50b7e06" sha1="14e6b1e886355d902b34acdf503eced8df88afe4"/>
+	</machine>
+	<machine name="Virtua Fighter Animation (USA, Europe)">
+		<description>Virtua Fighter Animation (USA, Europe)</description>
+		<rom name="Virtua Fighter Animation (USA, Europe).gg" size="1048576" crc="d431c452" md5="db315b11c28f8be4ecdac77759e889de" sha1="222f3e49f595ceb4263af329c4021d64fc4772e6"/>
+	</machine>
+	<machine name="VR Troopers (USA, Europe)">
+		<description>VR Troopers (USA, Europe)</description>
+		<rom name="VR Troopers (USA, Europe).gg" size="524288" crc="b0f22745" md5="1093dbdc69a36330973cfb76c292c0ef" sha1="0986935cee44541c1e24bcd4dc3d9f87f324bbbe"/>
+	</machine>
+	<machine name="Wheel of Fortune (USA)">
+		<description>Wheel of Fortune (USA)</description>
+		<rom name="Wheel of Fortune (USA).gg" size="131072" crc="e91cdb2a" md5="398d52a8d7fc8f984205d78cbfa47baa" sha1="5d3ce8b008e81bdda2e12b8036b4efb6dff69b9f"/>
+	</machine>
+	<machine name="Wimbledon (World)">
+		<description>Wimbledon (World)</description>
+		<rom name="Wimbledon (World).gg" size="131072" crc="ce1108fd" md5="05e39eb8dc19c023f4a4fed36c058675" sha1="6aa588e0aa93c5c74c80f7044de49933291af4e9"/>
+	</machine>
+	<machine name="Winter Olympics - Lillehammer '94 (USA, Europe) (En,Fr,De,Es,It,Pt,Sv,No)">
+		<description>Winter Olympics - Lillehammer '94 (USA, Europe) (En,Fr,De,Es,It,Pt,Sv,No)</description>
+		<rom name="Winter Olympics - Lillehammer '94 (USA, Europe) (En,Fr,De,Es,It,Pt,Sv,No).gg" size="524288" crc="d15d335b" md5="6af2738b6b12780a017fa743485fc396" sha1="6f9942792072626f1322e11835dbc5e2e94aa718"/>
+	</machine>
+	<machine name="Wizard Pinball (Europe)">
+		<description>Wizard Pinball (Europe)</description>
+		<rom name="Wizard Pinball (Europe).gg" size="262144" crc="9e03f96c" md5="b0a6edc1d506d034d3770a3707c3e201" sha1="22c4165f41066d9a525543d716162bd70a39e9fb"/>
+	</machine>
+	<machine name="Wolfchild (Europe)">
+		<description>Wolfchild (Europe)</description>
+		<rom name="Wolfchild (Europe).gg" size="262144" crc="840a8f8e" md5="eba13e76d02e0a051a36d54a8bb55f33" sha1="7889b67ee0e5c884fa267688aad4b6c23849268c"/>
+	</machine>
+	<machine name="Wonder Boy - The Dragon's Trap (Europe)">
+		<description>Wonder Boy - The Dragon's Trap (Europe)</description>
+		<rom name="Wonder Boy - The Dragon's Trap (Europe).gg" size="262144" crc="a74c97a7" md5="0e8146c23d7947b4677b9b2ca12850e0" sha1="d98344a2c644ce9a0184e8f836271c038aa16a23"/>
+	</machine>
+	<machine name="Woody Pop (World) (Rev 1)">
+		<description>Woody Pop (World) (Rev 1)</description>
+		<rom name="Woody Pop (World) (Rev 1).gg" size="32768" crc="b74f3a4f" md5="a23e89266ddad3c856e7401d04a49c6c" sha1="4efbfa1d3234d8f1800a06ab72b2177fba6914cb"/>
+	</machine>
+	<machine name="World Class Leader Board (USA, Europe)">
+		<description>World Class Leader Board (USA, Europe)</description>
+		<rom name="World Class Leader Board (USA, Europe).gg" size="262144" crc="868fe528" md5="13f72acfea47587f9aa9f655bf98653c" sha1="23b28cf137adc947ffd1af649cf3c8d64e6fadc1"/>
+	</machine>
+	<machine name="World Cup USA 94 (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)">
+		<description>World Cup USA 94 (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)</description>
+		<rom name="World Cup USA 94 (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Sv).gg" size="524288" crc="d2bb3690" md5="d95d381c6affb8345ee5457655e393d1" sha1="5596ecb5b7a28027e5c0ad1c8acc73c45e7a1265"/>
+	</machine>
+	<machine name="World Series Baseball '95 (USA)">
+		<description>World Series Baseball '95 (USA)</description>
+		<rom name="World Series Baseball '95 (USA).gg" size="524288" crc="578a8a38" md5="e7eabbfc7a1f1339c4720249aea92a32" sha1="66d31ed6bb6dfedd769bf5e6c5dcbf899f2f2c8c"/>
+	</machine>
+	<machine name="World Series Baseball (USA) (Rev 1)">
+		<description>World Series Baseball (USA) (Rev 1)</description>
+		<rom name="World Series Baseball (USA) (Rev 1).gg" size="262144" crc="bb38cfd7" md5="05cac33029f0caac27774504c1aa8597" sha1="333dd99f11781d6de5720043530a460a409d652b"/>
+	</machine>
+	<machine name="WWF Raw (USA, Europe)">
+		<description>WWF Raw (USA, Europe)</description>
+		<rom name="WWF Raw (USA, Europe).gg" size="524288" crc="8dc68d92" md5="d810e851ad60ed5ba50b6246c2ce12f2" sha1="585e147026bd998062e64ed3c0aaa0a07e6ee734"/>
+	</machine>
+	<machine name="WWF Wrestlemania Steel Cage Challenge (Europe)">
+		<description>WWF Wrestlemania Steel Cage Challenge (Europe)</description>
+		<rom name="WWF Wrestlemania Steel Cage Challenge (Europe).sms" size="262144" crc="da8e95a9" md5="93e08b96e19eb89c6ba7e2bf3824c990" sha1="59e2fab18a0244efcc9cb9ad1e4ed3a1c777948d"/>
+	</machine>
+	<machine name="X-Men (USA)">
+		<description>X-Men (USA)</description>
+		<rom name="X-Men (USA).gg" size="524288" crc="567a5ee6" md5="21d75ed09b6f73037544894580933a0b" sha1="215e5f761475ca17a091371e39f636718f213403"/>
+	</machine>
+	<machine name="X-Men - Gamemaster's Legacy (USA, Europe)">
+		<description>X-Men - Gamemaster's Legacy (USA, Europe)</description>
+		<rom name="X-Men - Gamemaster's Legacy (USA, Europe).gg" size="524288" crc="c169c344" md5="571ac03b80e3075c699cd583bf8651fd" sha1="872596d40aae1755c9dda99180cb165166267904"/>
+	</machine>
+	<machine name="X-Men - Mojo World (USA, Europe)">
+		<description>X-Men - Mojo World (USA, Europe)</description>
+		<rom name="X-Men - Mojo World (USA, Europe).gg" size="524288" crc="c2cba9d7" md5="ca15f2ba2507ebd836c42d9d10231eb1" sha1="cff15c4a3e555c2868af93c55386b5ab3d3db4e3"/>
+	</machine>
+	<machine name="Zool - Ninja of the 'Nth' Dimension (USA)">
+		<description>Zool - Ninja of the 'Nth' Dimension (USA)</description>
+		<rom name="Zool - Ninja of the 'Nth' Dimension (USA).gg" size="262144" crc="b287c695" md5="db7dc3e8f0d46f0396af99a87ff0489f" sha1="8143c1d5e6c677ae5dd8143620b9fd02be8873f6"/>
+	</machine>
+	<machine name="Zoop (USA)">
+		<description>Zoop (USA)</description>
+		<rom name="Zoop (USA).gg" size="131072" crc="3247ff8b" md5="1516a213225c93bb6d411651ba5a5be1" sha1="f58359ffa7bc3ec82913be128d141e5d41926b88"/>
+	</machine>
+</datafile>

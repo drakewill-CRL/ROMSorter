@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sharp X68000 - Firmware</name>
+		<description>Sharp X68000 - Firmware (TOSEC-v2014-05-13)</description>
+		<category>TOSEC</category>
+		<version>2014-05-13</version>
+		<author>Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Sharp X68000 Boot ROM (1987)(Sharp)">
+		<description>Sharp X68000 Boot ROM (1987)(Sharp)</description>
+		<rom name="Sharp X68000 Boot ROM (1987)(Sharp).bin" size="131072" crc="72bdf532" md5="7fd4caabac1d9169e289f0f7bbf71d8e" sha1="0ed038ed2133b9f78c6e37256807424e0d927560"/>
+	</game>
+	<game name="Sharp X68000 CG ROM (1987)(Sharp)">
+		<description>Sharp X68000 CG ROM (1987)(Sharp)</description>
+		<rom name="Sharp X68000 CG ROM (1987)(Sharp).bin" size="786432" crc="9f3195f1" md5="cb0a5cfcf7247a7eab74bb2716260269" sha1="8d72c5b4d63bb14c5dbdac495244d659aa1498b6"/>
+	</game>
+</datafile>

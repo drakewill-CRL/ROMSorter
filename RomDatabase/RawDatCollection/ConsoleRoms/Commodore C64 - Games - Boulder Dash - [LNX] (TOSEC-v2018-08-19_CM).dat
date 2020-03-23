@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Games - Boulder Dash - [LNX]</name>
+		<description>Commodore C64 - Games - Boulder Dash - [LNX] (TOSEC-v2018-08-19)</description>
+		<category>TOSEC</category>
+		<version>2018-08-19</version>
+		<author>Duncan Twain - DesertWolf</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Boulder Dash 01 (1984)(First Star)">
+		<description>Boulder Dash 01 (1984)(First Star)</description>
+		<rom name="Boulder Dash 01 (1984)(First Star).lnx" size="16511" crc="98235ff8" md5="6e79cbb2fdb754e84012ef16b3d60899" sha1="c9b8576d6e67f609d29f32598b8e3e2638894a09"/>
+	</game>
+	<game name="Boulder Dash II - Rockford&apos;s Revenge (1985)(First Star)[cr SWAT]">
+		<description>Boulder Dash II - Rockford&apos;s Revenge (1985)(First Star)[cr SWAT]</description>
+		<rom name="Boulder Dash II - Rockford&apos;s Revenge (1985)(First Star)[cr SWAT].lnx" size="24750" crc="7989283d" md5="844d02da1f8aa5f3edf960d7946d1759" sha1="a83561e12baec25641435b65f87e34fd0ba58ac6"/>
+	</game>
+	<game name="Boulder Dash Professional (1985)(First Star)">
+		<description>Boulder Dash Professional (1985)(First Star)</description>
+		<rom name="Boulder Dash Professional (1985)(First Star).lnx" size="16895" crc="7ab07445" md5="8cbe1cee73771008f12f039a848e8185" sha1="73d70cec12f0275d7b6b537703225892a9a4f7ba"/>
+	</game>
+	<game name="Gods Boulder Dash (1984)(Liepa, Peter &amp; Gods)[h Gods]">
+		<description>Gods Boulder Dash (1984)(Liepa, Peter &amp; Gods)[h Gods]</description>
+		<rom name="Gods Boulder Dash (1984)(Liepa, Peter &amp; Gods)[h Gods].lnx" size="19085" crc="f8dad125" md5="f9b4e34918785590d01e51a1bf03859d" sha1="b9c912d9dc8aa2e10a5c00148d6f4baece77bb97"/>
+	</game>
+</datafile>

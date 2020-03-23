@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>DEC PDP-8 - Games - [BIN]</name>
+		<description>DEC PDP-8 - Games - [BIN] (TOSEC-v2014-01-23)</description>
+		<category>TOSEC</category>
+		<version>2014-01-23</version>
+		<author>TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Spacewar (19xx)(-)">
+		<description>Spacewar (19xx)(-)</description>
+		<rom name="Spacewar (19xx)(-).bin" size="3507" crc="c73a6c62" md5="2ae41b0ac9daff8dc279ee53d1efa2a6" sha1="eb14aa2e32a8b31ad99daec9df44a4c65839dd68"/>
+	</game>
+</datafile>

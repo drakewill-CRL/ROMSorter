@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Visual Pinball [VP91x] VpinMame Tables</name>
+		<description>Visual Pinball [VP91x] VpinMame Tables</description>
+		<category>Visual Pinball [VP91x] VpinMame Tables</category>
+		<version>1.0</version>
+		<date>2020-01-01</date>
+		<author>Yori Yoshizuki</author>
+		<email>-insert email-</email>
+		<homepage>Yori Yoshizuki</homepage>
+		<url>https://yoshizuki.webs.com</url>
+		<comment>-insert comment-</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="AC-DC (Francesco Pinball)(1.0)[VP912]">
+		<description>AC-DC (Francesco Pinball)(1.0)[VP912]</description>
+		<rom name="AC-DC.png" size="954616" crc="c1d68fed" sha1="a39168776078deaf94daf330d04e357ab245d056"/>
+		<rom name="AC-DC.vpt" size="55328768" crc="13bdd4b7" sha1="b5a5cb95be65aa00beb71c8c822882a1ed33a963"/>
+		<rom name="Francesco v1.0.jpg" size="234807" crc="6cc9dc3d" sha1="c8e51d226da1f46f4b169cffc46dc5a6b455bd55"/>
+		<rom name="INSTRUCTION.txt" size="248" crc="4883c100" sha1="87346147c851ccc77e06d96f12e2d908121f9b7e"/>
+		<rom name="vpfonts.zip" size="6873235" crc="28a2dac8" sha1="25b72c347e5344c0ba6685b27613a1c66b5eae3b"/>
+	</machine>
+	<machine name="Attack and Revenge from Mars">
+		<description>Attack and Revenge from Mars</description>
+		<rom name="Attack and Revenge from Mars (JPSalas)(2.3.0)[VP91x][FullScreen JPSalas]\ARFM_VP91x_v2.3FS.vpt" size="20627456" crc="5d9752a3" sha1="3bd3701b9b88cb053115c75ebd2389cd605c040a"/>
+		<rom name="Attack and Revenge from Mars (JPSalas)(2.3.0)[VP91x][FullScreen JPSalas]\Attack and Revenge from Mars screenshot.jpg" size="712648" crc="d016bac1" sha1="b79125cca7e9f75317d7c84856be13761c5d9cf5"/>
+	</machine>
+	<machine name="Avro Arrow Redux">
+		<description>Avro Arrow Redux</description>
+		<rom name="Avro Arrow Redux (Desktop)\Avro Arrow Redux (Desktop) screenshot.jpg" size="981823" crc="97f1c9ae" sha1="f87e74ca745bb4479e8496df61210c3098a0ab3e"/>
+		<rom name="Avro Arrow Redux (Desktop)\Avro Arrow Redux (kruge99)(1.01)[VP912][Fly High TAB table].vpt" size="17674240" crc="fab7c5e5" sha1="4b0a6a124cd6c3c0ab9896feddc86406b4f633dc"/>
+		<rom name="Avro Arrow Redux (FullScreen)\Avro Arrow Redux (FullScreen) screenshot.jpg" size="1380042" crc="ad66c6e6" sha1="d85547204ac1e230e2552bb16719ad07701f4519"/>
+		<rom name="Avro Arrow Redux (FullScreen)\Avro Arrow Redux (kruge99)(1.01)[VP912][Fly High TAB table][FullScreen kruge99].vpt" size="17674240" crc="09c77182" sha1="4e26842b9cc11cef4625a298b9c964a922d75f10"/>
+		<rom name="sst.zip" size="4489" crc="5a0f448a" sha1="d99bc044726d32b458322ebfddce764041a9a083"/>
+	</machine>
+	<machine name="Cactus Canyon (sheltermke)(1.31[VP916][FullScreen][High Noon MOD]">
+		<description>Cactus Canyon (sheltermke)(1.31[VP916][FullScreen][High Noon MOD]</description>
+		<rom name="Cactus Canyon (High Noon MOD).png" size="3260946" crc="9d486f7b" sha1="cff6f774f4bdfd272652c145675f43b87a2bfc9b"/>
+		<rom name="Cactus Canyon(High Noon MOD)FS_1.31.vpt" size="61706240" crc="11b1b348" sha1="daeede08d76a997a8e26c01b1889b820582f63cf"/>
+	</machine>
+	<machine name="Pirates of the Carribean on Stranger Tides">
+		<description>Pirates of the Carribean on Stranger Tides</description>
+		<rom name="INSTRUCTION.txt" size="248" crc="4883c100" sha1="87346147c851ccc77e06d96f12e2d908121f9b7e"/>
+		<rom name="Pirates of the Carribean on Stranger Tides (Francesco Pinball)(1.0)[VP912].vpt" size="59252736" crc="204da62a" sha1="7fb44e75146456347aaf8587aefada7f5796d8a0"/>
+		<rom name="Pirates of the Carribean on Stranger Tides (Francesco Pinball)(1.01)[VP912].vpt" size="59322368" crc="7f4f0efb" sha1="abe2df2ce73e5870a5524c9be4ff27b16ad8f5ba"/>
+		<rom name="Pirates of the Carribean on Stranger Tides screenshot.jpg" size="296331" crc="829851f8" sha1="b07c91f263e2be04bf7da2db2f0d6f34f5f4ac97"/>
+		<rom name="Pirates of the Carribean on Stranger Tides.png" size="1836298" crc="28a45659" sha1="99902fbee946f720ef4644df3ac9ad792d59c22d"/>
+		<rom name="vpfonts.zip" size="6873235" crc="28a2dac8" sha1="25b72c347e5344c0ba6685b27613a1c66b5eae3b"/>
+	</machine>
+	<machine name="RAVINE (Francesco Pinball)(1.02)[VP912]">
+		<description>RAVINE (Francesco Pinball)(1.02)[VP912]</description>
+		<rom name="1.00\RAVINE.png" size="1779640" crc="d0cc74eb" sha1="66b69ef50d2eb5072088a0538be9dff42b5d381f"/>
+		<rom name="1.00\RAVINE.vpt" size="29777920" crc="8fab47da" sha1="675203e1dce9d92935befde720b3517ead400888"/>
+		<rom name="1.01\RAVINE.png" size="1378751" crc="cf3fe7cd" sha1="2ee931844c613ff65ebd7e39993a1ad72e3d40b0"/>
+		<rom name="1.01\RAVINE.vpt" size="29777920" crc="9b0530c2" sha1="098267ce3ebfb7d708b4cbd320d3ff32bbb13512"/>
+		<rom name="1.02\RAVINE.png" size="1879779" crc="1d251dde" sha1="24cf609af15d2643a290bcfd9d873cde55ca80fb"/>
+		<rom name="1.02\RAVINE.vpt" size="29777920" crc="0d4d629b" sha1="2031e46ad98496c6ef142c7f60d46ceda9152310"/>
+		<rom name="INSTRUCTION.txt" size="248" crc="4883c100" sha1="87346147c851ccc77e06d96f12e2d908121f9b7e"/>
+		<rom name="vpfonts.zip" size="6873235" crc="28a2dac8" sha1="25b72c347e5344c0ba6685b27613a1c66b5eae3b"/>
+	</machine>
+	<machine name="Seahawks Pinball">
+		<description>Seahawks Pinball</description>
+		<rom name="Seahawks Pinball (xenonph)(1.0)[VP916][NFL 2001 Stern's MOD][Desktop]\16-8 NFL LOB DONE6 DT version sounds complete.vpt" size="8028160" crc="1985c039" sha1="5f68d0d1838fdf66367c640b29018ae8621833c8"/>
+		<rom name="Seahawks Pinball (xenonph)(1.0)[VP916][NFL 2001 Stern's MOD][Desktop]\music\0How_'Bout_Them_Seahawks.mp3" size="10120000" crc="4332baf0" sha1="d52d2c322c7aee746b401f8e12fbb4ab4b77f904"/>
+		<rom name="Seahawks Pinball (xenonph)(1.0)[VP916][NFL 2001 Stern's MOD][Desktop]\music\hawktown_funk.mp3" size="138515" crc="e8cf8864" sha1="1ab04fdca0b06cc486eb349b0eabead1314318ad"/>
+		<rom name="Seahawks Pinball (xenonph)(1.0)[VP916][NFL 2001 Stern's MOD][Desktop]\music\Seahawks Reign.mp3" size="1467539" crc="a9646298" sha1="64725b59d204d811812dc7120f1947b0a9ceff18"/>
+		<rom name="Seahawks Pinball (xenonph)(1.0)[VP916][NFL 2001 Stern's MOD][Desktop]\music\touchdown_seahawks.mp3" size="43048" crc="450f9b36" sha1="ca220e26d195f100258f965c405f54976f2a6f6e"/>
+		<rom name="Seahawks Pinball (xenonph)(1.0)[VP916][NFL 2001 Stern's MOD][Desktop]\nfl.nv" size="8238" crc="46fe0d51" sha1="acbdc759102490f42bad0667b2dbf8318f9509ce"/>
+		<rom name="Seahawks Pinball (xenonph)(1.0)[VP916][NFL 2001 Stern's MOD][Desktop]\Seahawks Pinball.txt" size="2358" crc="1228c6a1" sha1="b21f069e86d0fd3dfd3661d1cbf6f8802e1617c3"/>
+		<rom name="Seahawks Pinball (xenonph)(1.0)[VP916][NFL 2001 Stern's MOD][FullScreen]\16-8 NFL LOB DONE6 FS version sounds complete.vpt" size="7061504" crc="c810d73a" sha1="174a2b6e4a269e3de36b84b8d8b91dfe68e25387"/>
+		<rom name="Seahawks Pinball (xenonph)(1.0)[VP916][NFL 2001 Stern's MOD][FullScreen]\music\0How_'Bout_Them_Seahawks.mp3" size="10120000" crc="4332baf0" sha1="d52d2c322c7aee746b401f8e12fbb4ab4b77f904"/>
+		<rom name="Seahawks Pinball (xenonph)(1.0)[VP916][NFL 2001 Stern's MOD][FullScreen]\music\hawktown_funk.mp3" size="138515" crc="e8cf8864" sha1="1ab04fdca0b06cc486eb349b0eabead1314318ad"/>
+		<rom name="Seahawks Pinball (xenonph)(1.0)[VP916][NFL 2001 Stern's MOD][FullScreen]\music\Seahawks Reign.mp3" size="1467539" crc="a9646298" sha1="64725b59d204d811812dc7120f1947b0a9ceff18"/>
+		<rom name="Seahawks Pinball (xenonph)(1.0)[VP916][NFL 2001 Stern's MOD][FullScreen]\music\touchdown_seahawks.mp3" size="43048" crc="450f9b36" sha1="ca220e26d195f100258f965c405f54976f2a6f6e"/>
+		<rom name="Seahawks Pinball (xenonph)(1.0)[VP916][NFL 2001 Stern's MOD][FullScreen]\nfl.nv" size="8238" crc="46fe0d51" sha1="acbdc759102490f42bad0667b2dbf8318f9509ce"/>
+		<rom name="Seahawks Pinball (xenonph)(1.0)[VP916][NFL 2001 Stern's MOD][FullScreen]\Seahawks Pinball.txt" size="2358" crc="1228c6a1" sha1="b21f069e86d0fd3dfd3661d1cbf6f8802e1617c3"/>
+		<rom name="Seahawks Pinball (xenonph)(1.1)[VP916][NFL 2001 Stern's Night MOD][Desktop]\music\0How_'Bout_Them_Seahawks.mp3" size="10120000" crc="4332baf0" sha1="d52d2c322c7aee746b401f8e12fbb4ab4b77f904"/>
+		<rom name="Seahawks Pinball (xenonph)(1.1)[VP916][NFL 2001 Stern's Night MOD][Desktop]\music\hawktown_funk.mp3" size="134291" crc="a24067b8" sha1="50b50f305709b6bf88242c7f4ef877989d8ece0f"/>
+		<rom name="Seahawks Pinball (xenonph)(1.1)[VP916][NFL 2001 Stern's Night MOD][Desktop]\music\Seahawks Reign.mp3" size="1467539" crc="a9646298" sha1="64725b59d204d811812dc7120f1947b0a9ceff18"/>
+		<rom name="Seahawks Pinball (xenonph)(1.1)[VP916][NFL 2001 Stern's Night MOD][Desktop]\music\touchdown_seahawks.mp3" size="43048" crc="450f9b36" sha1="ca220e26d195f100258f965c405f54976f2a6f6e"/>
+		<rom name="Seahawks Pinball (xenonph)(1.1)[VP916][NFL 2001 Stern's Night MOD][Desktop]\nvram\nfl.nv" size="8238" crc="46fe0d51" sha1="acbdc759102490f42bad0667b2dbf8318f9509ce"/>
+		<rom name="Seahawks Pinball (xenonph)(1.1)[VP916][NFL 2001 Stern's Night MOD][Desktop]\rom\nfl.zip" size="3444202" crc="1d842025" sha1="7753cd7af31e47e858ba635373898800c84f7bed"/>
+		<rom name="Seahawks Pinball (xenonph)(1.1)[VP916][NFL 2001 Stern's Night MOD][Desktop]\Seahawks Pinball VPM9 DT NFL MOD v1.1.vpt" size="7643136" crc="98b2b5b3" sha1="e196b886a8c28905332f7abefaf6b055bb553f4e"/>
+		<rom name="Seahawks Pinball (xenonph)(1.1)[VP916][NFL 2001 Stern's Night MOD][Desktop]\Seahawks Pinball.txt" size="3324" crc="9f6f0dd7" sha1="05165850d583f393e8140d32a5a42177ac833458"/>
+		<rom name="Seahawks Pinball (xenonph)(1.1)[VP916][NFL 2001 Stern's Night MOD][FullScreen]\music\0How_'Bout_Them_Seahawks.mp3" size="10120000" crc="4332baf0" sha1="d52d2c322c7aee746b401f8e12fbb4ab4b77f904"/>
+		<rom name="Seahawks Pinball (xenonph)(1.1)[VP916][NFL 2001 Stern's Night MOD][FullScreen]\music\hawktown_funk.mp3" size="134291" crc="a24067b8" sha1="50b50f305709b6bf88242c7f4ef877989d8ece0f"/>
+		<rom name="Seahawks Pinball (xenonph)(1.1)[VP916][NFL 2001 Stern's Night MOD][FullScreen]\music\Seahawks Reign.mp3" size="1467539" crc="a9646298" sha1="64725b59d204d811812dc7120f1947b0a9ceff18"/>
+		<rom name="Seahawks Pinball (xenonph)(1.1)[VP916][NFL 2001 Stern's Night MOD][FullScreen]\music\touchdown_seahawks.mp3" size="43048" crc="450f9b36" sha1="ca220e26d195f100258f965c405f54976f2a6f6e"/>
+		<rom name="Seahawks Pinball (xenonph)(1.1)[VP916][NFL 2001 Stern's Night MOD][FullScreen]\nvram\nfl.nv" size="8238" crc="46fe0d51" sha1="acbdc759102490f42bad0667b2dbf8318f9509ce"/>
+		<rom name="Seahawks Pinball (xenonph)(1.1)[VP916][NFL 2001 Stern's Night MOD][FullScreen]\rom\nfl.zip" size="3444202" crc="1d842025" sha1="7753cd7af31e47e858ba635373898800c84f7bed"/>
+		<rom name="Seahawks Pinball (xenonph)(1.1)[VP916][NFL 2001 Stern's Night MOD][FullScreen]\Seahawks Pinball (1.1)(FullScreen) screenshot.jpg" size="231026" crc="e75561e1" sha1="8acab9feb6646f6be3fefe26a4e376b1ccc03580"/>
+		<rom name="Seahawks Pinball (xenonph)(1.1)[VP916][NFL 2001 Stern's Night MOD][FullScreen]\Seahawks Pinball VPM9 FS NFL (Stern 2001) MOD v1.1.vpt" size="7155712" crc="290646ff" sha1="76f71502dfb128d42c061c1d21730e420b9a4849"/>
+		<rom name="Seahawks Pinball (xenonph)(1.1)[VP916][NFL 2001 Stern's Night MOD][FullScreen]\Seahawks Pinball.txt" size="2358" crc="1228c6a1" sha1="b21f069e86d0fd3dfd3661d1cbf6f8802e1617c3"/>
+		<rom name="Seahawks Pinball (xenonph)(1.2)[VP916][NFL 2001 Stern's Night MOD][Desktop]\music\0How_'Bout_Them_Seahawks.mp3" size="10120000" crc="4332baf0" sha1="d52d2c322c7aee746b401f8e12fbb4ab4b77f904"/>
+		<rom name="Seahawks Pinball (xenonph)(1.2)[VP916][NFL 2001 Stern's Night MOD][Desktop]\music\hawktown_funk.mp3" size="134291" crc="a24067b8" sha1="50b50f305709b6bf88242c7f4ef877989d8ece0f"/>
+		<rom name="Seahawks Pinball (xenonph)(1.2)[VP916][NFL 2001 Stern's Night MOD][Desktop]\music\Seahawks Reign.mp3" size="1467539" crc="a9646298" sha1="64725b59d204d811812dc7120f1947b0a9ceff18"/>
+		<rom name="Seahawks Pinball (xenonph)(1.2)[VP916][NFL 2001 Stern's Night MOD][Desktop]\music\touchdown_seahawks.mp3" size="43048" crc="450f9b36" sha1="ca220e26d195f100258f965c405f54976f2a6f6e"/>
+		<rom name="Seahawks Pinball (xenonph)(1.2)[VP916][NFL 2001 Stern's Night MOD][Desktop]\nvram\nfl.nv" size="8238" crc="46fe0d51" sha1="acbdc759102490f42bad0667b2dbf8318f9509ce"/>
+		<rom name="Seahawks Pinball (xenonph)(1.2)[VP916][NFL 2001 Stern's Night MOD][Desktop]\rom\nfl.zip" size="3444202" crc="1d842025" sha1="7753cd7af31e47e858ba635373898800c84f7bed"/>
+		<rom name="Seahawks Pinball (xenonph)(1.2)[VP916][NFL 2001 Stern's Night MOD][Desktop]\Seahawks Pinball (1.2)(Desktop) screenshot.jpg" size="216434" crc="862a58a2" sha1="4cd5b04168693a8325b3d99d52c660fd32d3c957"/>
+		<rom name="Seahawks Pinball (xenonph)(1.2)[VP916][NFL 2001 Stern's Night MOD][Desktop]\Seahawks Pinball VPM9 DT NFL MOD v1.2.vpt" size="7757824" crc="a1322645" sha1="6d502276ab1942fb2632c60d885c1105da5675ef"/>
+		<rom name="Seahawks Pinball (xenonph)(1.2)[VP916][NFL 2001 Stern's Night MOD][Desktop]\Seahawks Pinball.txt" size="3324" crc="9f6f0dd7" sha1="05165850d583f393e8140d32a5a42177ac833458"/>
+	</machine>
+	<machine name="TIGRA">
+		<description>TIGRA</description>
+		<rom name="INSTALL AND PLAY INSTRUCTION.txt" size="1212" crc="473dce5c" sha1="612745d1f1232983505375a93a9d92149ac30ca9"/>
+		<rom name="TIGRA (Francesco Pinball)(1.0)[VP915][FullScreen Francesco Pinball].vpt" size="30875648" crc="68383547" sha1="70213ebb72dd435accf103b047a1896ea89d3806"/>
+		<rom name="Tigra screenshot.jpg" size="774698" crc="3a7fd1aa" sha1="629fd97938875db1e1590563ccb28e37de3fbe01"/>
+		<rom name="TIGRA.png" size="1384191" crc="76226dca" sha1="b52b003191ce22ec6b371a66698b4e6d74fd0508"/>
+		<rom name="vpfonts.zip" size="6873235" crc="28a2dac8" sha1="25b72c347e5344c0ba6685b27613a1c66b5eae3b"/>
+	</machine>
+	<machine name="X-MEN">
+		<description>X-MEN</description>
+		<rom name="1.0\INSTALL INSTRUCTION.txt" size="248" crc="4883c100" sha1="87346147c851ccc77e06d96f12e2d908121f9b7e"/>
+		<rom name="1.0\PLAY INSTRUCTION.txt" size="441" crc="11acc9c8" sha1="55732dee54c920798c93119b2b551f224dd34e59"/>
+		<rom name="1.0\X-Men (1.0)(FS) screenshot.jpg" size="293103" crc="cf5c1931" sha1="7c2706b592612ad9c07b06a9a9bfdb7b065660ad"/>
+		<rom name="1.0\X-MEN (Francesco Pinball)(1.0)[VP914][FullScreen Francesco Pinball].vpt" size="39542784" crc="6c93a42c" sha1="df67eed2303ebead7435bbdbeb81d9404f1c6e2b"/>
+		<rom name="2.0\INSTALL AND PLAY INSTRUCTION.txt" size="689" crc="889ebae3" sha1="f341cf450a252152848aa24439363f4c44e3d266"/>
+		<rom name="2.0\X-Men (2.0)(FS) screenshot.jpg" size="634190" crc="c590fe88" sha1="ef29bf1c770308d1f281a56c7c398bd6098b901a"/>
+		<rom name="2.0\X-MEN (Francesco Pinball)(2.0)[VP914][FullScreen Francesco Pinball].vpt" size="36102144" crc="d45c3b05" sha1="5b69bfdddfcae834d7eeb274c13bd501fa5cdedc"/>
+		<rom name="vpfonts.zip" size="6873235" crc="28a2dac8" sha1="25b72c347e5344c0ba6685b27613a1c66b5eae3b"/>
+		<rom name="X-MEN.png" size="1576046" crc="5520fe52" sha1="ea602f7314d9671376bf1c771c97289d633fce87"/>
+	</machine>
+</datafile>

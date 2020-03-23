@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Motorola EXORciser - System</name>
+		<description>Motorola EXORciser - System (TOSEC-v2017-04-05)</description>
+		<category>TOSEC</category>
+		<version>2017-04-05</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<url>http://www.tosecdev.org</url>
+		<clrmamepro/>
+	</header>
+	<game name="6809 Operating System (19xx)(-)">
+		<description>6809 Operating System (19xx)(-)</description>
+		<rom name="6809 Operating System (19xx)(-).imd" size="204706" crc="3c5dc1ca" md5="3d7410475601a250eb66c3d545d851fe" sha1="283692d4faa060354c89e41c12c7a372d16b5223"/>
+	</game>
+	<game name="6809 Operating System (19xx)(-)[b bad sector]">
+		<description>6809 Operating System (19xx)(-)[b bad sector]</description>
+		<rom name="6809 Operating System (19xx)(-)[b bad sector].imd" size="204692" crc="54ab4513" md5="c602d5a7b2487a6e5efa6e999de6921f" sha1="3808e5aca356f3db08a41bea195e9ce46fa27f70"/>
+	</game>
+	<game name="8200 System E M6800 System Software v3.05 (19xx)(-)">
+		<description>8200 System E M6800 System Software v3.05 (19xx)(-)</description>
+		<rom name="8200 System E M6800 System Software v3.05 (19xx)(-).imd" size="177590" crc="e2d570a1" md5="b892fdc2a0898a1180da60ab1ab128fe" sha1="0aeb02cb802a29d14ca4d7dfb4e0606bb4b42c82"/>
+	</game>
+	<game name="Copy OS9 Kernels (19xx)(-)">
+		<description>Copy OS9 Kernels (19xx)(-)</description>
+		<rom name="Copy OS9 Kernels (19xx)(-).imd" size="166207" crc="c3948e91" md5="5d7a4f88d61e83939192644582c1edea" sha1="bbcebf89195905d316c1ada1742ff34b0d85172c"/>
+	</game>
+	<game name="M6800 Software M68SMDOS100 - MDOS Operating System v3.0 (19xx)(-)">
+		<description>M6800 Software M68SMDOS100 - MDOS Operating System v3.0 (19xx)(-)</description>
+		<rom name="M6800 Software M68SMDOS100 - MDOS Operating System v3.0 (19xx)(-).imd" size="121286" crc="ba3ccb10" md5="2443527f6ad4c0dc50742ac74b169085" sha1="97ddfc3b30990d33f172991f5b9c758c6585a07c"/>
+	</game>
+	<game name="MDOS 09 Operating System (19xx)(-)">
+		<description>MDOS 09 Operating System (19xx)(-)</description>
+		<rom name="MDOS 09 Operating System (19xx)(-).imd" size="170208" crc="36c1121f" md5="9647d84a16db32f259299ff4b7b6e6fb" sha1="b68c982541f98d9f55fd01e800e17eb14a2b1822"/>
+	</game>
+	<game name="MDOS 6800 (19xx)(-)">
+		<description>MDOS 6800 (19xx)(-)</description>
+		<rom name="MDOS 6800 (19xx)(-).imd" size="206332" crc="997a3f61" md5="73747eb59a013eeaf9961a618b75fe38" sha1="f6eca0349e042490af68708d1df3f912430b3737"/>
+	</game>
+	<game name="MDOS v3.02 Format OS9 Kernels 58K 56K 48K (19xx)(-)">
+		<description>MDOS v3.02 Format OS9 Kernels 58K 56K 48K (19xx)(-)</description>
+		<rom name="MDOS v3.02 Format OS9 Kernels 58K 56K 48K (19xx)(-).imd" size="166232" crc="4e070730" md5="dba2f0395397c4529ab845797a93e293" sha1="18f6b7afd452c7594fa78d468d2acb76ebbb965d"/>
+	</game>
+	<game name="OS9 (19xx)(-)">
+		<description>OS9 (19xx)(-)</description>
+		<rom name="OS9 (19xx)(-).imd" size="312923" crc="0e3173f1" md5="81200c900e03879b4b9c287075b2e71e" sha1="117ac490fe9cbe2a4279f434c16ae2434629e051"/>
+	</game>
+	<game name="OS9 v1.1 for Excorcisor Shell Pascal (19xx)(-)">
+		<description>OS9 v1.1 for Excorcisor Shell Pascal (19xx)(-)</description>
+		<rom name="OS9 v1.1 for Excorcisor Shell Pascal (19xx)(-).imd" size="312957" crc="9b941121" md5="32c4a1fcca76e5409523a207bba0d176" sha1="c6579dd21aa9edc202fce60f15213ef953bfee30"/>
+	</game>
+</datafile>

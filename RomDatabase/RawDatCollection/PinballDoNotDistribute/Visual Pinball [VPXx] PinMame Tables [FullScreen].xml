@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Visual Pinball [VPXx] PinMame Tables [FullScreen]</name>
+		<description>Visual Pinball [VPXx] PinMame Tables [FullScreen]</description>
+		<category>Visual Pinball [VPXx] PinMame Tables [FullScreen]</category>
+		<version>1.0</version>
+		<date>2020-01-01</date>
+		<author>Yori Yoshizuki</author>
+		<email>-insert email-</email>
+		<homepage>Yori Yoshizuki</homepage>
+		<url>https://yoshizuki.webs.com</url>
+		<comment>-insert comment-</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Breakshot (Capcom)(1996)(Krobar74)(Beta9)[VPX05][FullScreen Krobar74]">
+		<description>Breakshot (Capcom)(1996)(Krobar74)(Beta9)[VPX05][FullScreen Krobar74]</description>
+		<rom name="Breakshot (Capcom)(1996)(Krobar74)(Beta9)[VPX05][FullScreen Krobar74]\Breakshot (Capcom 1996)1.0.vpx" size="119169024" crc="97217166" sha1="28611d0edf03e72a99635729a597cd3360a1e683"/>
+		<rom name="Breakshot (Capcom)(1996)(Krobar74)(Beta9)[VPX05][FullScreen Krobar74]\Breakshot (FullScreen) screenshot.png" size="2824448" crc="2dd4b247" sha1="12cfbb45ea06ad154d996e78ac0855b634595c74"/>
+	</machine>
+	<machine name="Circus Voltaire (Bally)(1997)(JPSalas)[VPX][FullScreen Dozer316 v2.0_REDUX_FINAL]">
+		<description>Circus Voltaire (Bally)(1997)(JPSalas)[VPX][FullScreen Dozer316 v2.0_REDUX_FINAL]</description>
+		<rom name="CV_2.0_REDUX_FINAL.rar 2.0.jpg" size="553348" crc="e502f4ec" sha1="3af90e7d43aaf12e8643bda0bad15db6a541c66f"/>
+		<rom name="CV_2.0_REDUX_FINAL.rar 2.0.txt" size="1379" crc="43c98e5b" sha1="1e20cf156537efe4b46f55bc5c3e1a331938f112"/>
+		<rom name="CV_2.0_REDUX_FINAL.vpx" size="84074496" crc="70c79026" sha1="aef34ffe31de716ccf2941af36b7285ee19f38d6"/>
+	</machine>
+	<machine name="Counterforce (Gottlieb)(1980)(balater)(1.00)[VPX06][FullScreen]">
+		<description>Counterforce (Gottlieb)(1980)(balater)(1.00)[VPX06][FullScreen]</description>
+		<rom name="counterforce (Gottlieb 1980) V1.00.vpx" size="58613760" crc="feb1e4b0" sha1="1b8c384c211d12feeec35530766772152eb338c2"/>
+		<rom name="counterforce--gottlieb-1980--v100.png" size="3885132" crc="208a52e7" sha1="a834906475934b578ed36d999ae4da59d449fd86"/>
+	</machine>
+	<machine name="Cyclone (Williams)(1988)(Sliderpoint)(1.0)[VPX04] ">
+		<description>Cyclone (Williams)(1988)(Sliderpoint)(1.0)[VPX04] </description>
+		<rom name="Cyclone (Williams 1988).directB2S" size="13198058" crc="06c1ab47" sha1="5bd77d16c23da2510844fd5fb37c0d3595648a7f"/>
+		<rom name="Cyclone (Williams 1988).vpx" size="40677376" crc="3888ce76" sha1="ab3e8fe03b955a24bd59dda28b96ed75ec8eb9a2"/>
+		<rom name="Cyclone landscape POV.xml" size="1095" crc="7fd4a4c0" sha1="16249fb38bc5c5d9ac8e529d918f236a764c8acb"/>
+		<rom name="CycloneFS-1038x1845.png" size="2895287" crc="56c9afa1" sha1="e470497366e5eac954c8bc601052ad4a7484c7ca"/>
+	</machine>
+	<machine name="Family Guy (Stern 2007)(Wildman)(1.1.1)[VPX05]">
+		<description>Family Guy (Stern 2007)(Wildman)(1.1.1)[VPX05]</description>
+		<rom name="Family Guy (Stern 2007)1.1.1.vpx" size="40579072" crc="02b4e5d2" sha1="c897197432d42777809d9be41e28aaf14f28faff"/>
+		<rom name="familyguy.png" size="1664496" crc="2590b8cc" sha1="5a0a652e0d52e68b118d3b4b3490d0cfb506cbc7"/>
+	</machine>
+	<machine name="Flintstones, The (Williams)(1994)(gk5)(1.25)[VPX06][FS+dB2S][DOF arngrim]">
+		<description>Flintstones, The (Williams)(1994)(gk5)(1.25)[VPX06][FS+dB2S][DOF arngrim]</description>
+		<rom name="Backglasses\The Flintstones (Williams 1994) CARTOON.directb2s" size="45551673" crc="14acf29d" sha1="51f07642bbf4fe6c93f56d48f0b0c3d58357b2aa"/>
+		<rom name="Backglasses\The Flintstones (Williams 1994).directb2s" size="46740243" crc="378964d6" sha1="1af52be18016f88261ed96450e08d608869a92cc"/>
+		<rom name="fs_pin2dmd_1.0_vpin\fs_lx5\pin2dmd.pal" size="18606" crc="724c9e05" sha1="f59d9c43f3657b116ddf4f0ac205520056b68b0c"/>
+		<rom name="fs_pin2dmd_1.0_vpin\fs_lx5\pin2dmd.vni" size="8933249" crc="2a5c95fb" sha1="52b7dd6cea56d7b3d20472af8458336e396b3f3b"/>
+		<rom name="The Flintstones (Williams 1994) v1.25.vpx" size="197754880" crc="4f80899f" sha1="338ed84fd7eab6e47aa4e8b2d3769402b8ad00f9"/>
+		<rom name="The-Flintstones-Williams-1994-v1.0-1-1038x1845.png" size="3714968" crc="26c4f09f" sha1="4efd32c57c73ea22fa72882b92199636bcc641f9"/>
+	</machine>
+	<machine name="Four Million B.C. (Bally)(1971)(Scottacus)(1.1)[VPX04][FullScreen]">
+		<description>Four Million B.C. (Bally)(1971)(Scottacus)(1.1)[VPX04][FullScreen]</description>
+		<rom name="Four Million B.C. (Bally)(1971)(Scottacus)(1.1)[VPX04][FullScreen]\Four Million B.C. screenshot.png" size="2624100" crc="b6f2707d" sha1="a4f749ab7b6f996e2a245874e26e632590b8de25"/>
+		<rom name="Four Million B.C. (Bally)(1971)(Scottacus)(1.1)[VPX04][FullScreen]\Four Million BC (Bally 1971) v1.1.vpx" size="59830272" crc="c624955a" sha1="398af4dd241dee7c521e53458dc0d0d13e3c106f"/>
+		<rom name="Four Million B.C. (Bally)(1971)(Scottacus)(1.1)[VPX04][FullScreen]\Four Million BC (Bally 1971).directb2s" size="17753998" crc="965bb516" sha1="ad97999241eb88d037796c74d3de1c5b04f60338"/>
+	</machine>
+	<machine name="Games, The (Gottlieb)(1984)(balater)(1.03)[VPX06][FullScreen]">
+		<description>Games, The (Gottlieb)(1984)(balater)(1.03)[VPX06][FullScreen]</description>
+		<rom name="The Games (Gottlieb 1984) V1.00.directb2s" size="4086570" crc="723541a4" sha1="58701b8a87931454e5635eb220745eac9d4f6ce6"/>
+		<rom name="The Games (Gottlieb 1984) V1.01.vpx" size="29204480" crc="0a806467" sha1="973a9f7b4dac5629ddf856d72ffe324544b8dce5"/>
+		<rom name="The Games (Gottlieb 1984) V1.02.vpx" size="29204480" crc="6f6fca10" sha1="02e502f1bde8852ef19a08fae2d6c94113a29ccb"/>
+		<rom name="The Games (Gottlieb 1984) V1.03.vpx" size="29179904" crc="596ad8f8" sha1="f96b1e7cffcfe24d0c4588da949eedb8e3ca4e25"/>
+		<rom name="The Games (Gottlieb 1984) w.png" size="124735" crc="ec6e46e4" sha1="d320a85292ed07bf0754645e0222b39d51c3f3c9"/>
+		<rom name="the-games--gottlieb-1984--bg.jpg" size="691963" crc="226788ab" sha1="0ca0dae65670dc94eed5995a06e30437059f8086"/>
+		<rom name="the-games--gottlieb-1984--pf.jpg" size="1429183" crc="a817726d" sha1="876181b27ef7ee21e23d0bca58d89e7327d3d6f2"/>
+	</machine>
+	<machine name="Hook (Data East)(1992)(javier1515)(1.01)[VPX][FullScreen]">
+		<description>Hook (Data East)(1992)(javier1515)(1.01)[VPX][FullScreen]</description>
+		<rom name="Hook (Data East)(1992)(javier1515)(1.01)[VPX][FullScreen]\Hook 1.01.vpx" size="62078976" crc="4b434274" sha1="39319d533cdb2f64f7804468745d86f5703a840c"/>
+		<rom name="Hook (Data East)(1992)(javier1515)(1.01)[VPX][FullScreen]\Hook screenshot.png" size="1436498" crc="ea6f2d95" sha1="5142ba6fe7aacfdda165779acb76fed44e7133dd"/>
+	</machine>
+	<machine name="Jack-Bot (Williams)(1995)(Bord)(1.1)[VPX06]">
+		<description>Jack-Bot (Williams)(1995)(Bord)(1.1)[VPX06]</description>
+		<rom name="Jack-Bot (Williams 1995).vpx" size="115421184" crc="61ae7540" sha1="ec16901d1f62e012dea0c045edbcf909a32bf11b"/>
+		<rom name="jackbot-1038x1336.jpg" size="185909" crc="7bb7abeb" sha1="b2b2fa81bb15e701ef42bd1666af1f41662fa8f1"/>
+	</machine>
+	<machine name="Miss World (Geiger)(1982)(Tom)(1.2)[VPX06][FullScreen]">
+		<description>Miss World (Geiger)(1982)(Tom)(1.2)[VPX06][FullScreen]</description>
+		<rom name="Miss World (Geiger 1982).vpx" size="34783232" crc="976d7427" sha1="5455a034241b7a3720c2992c087131a5b2c9d8b7"/>
+		<rom name="Untitled-3-571x1024-1038x1862.png" size="2514508" crc="32be8242" sha1="c2307adc5dcece1b986ff59912b3920d62494e2c"/>
+	</machine>
+	<machine name="Mousin Around (Bally)(1989)(Herweh)(1.1)[VPX05][FullScreen]">
+		<description>Mousin Around (Bally)(1989)(Herweh)(1.1)[VPX05][FullScreen]</description>
+		<rom name="Mousin' Around! (Bally 1989).vpx" size="62210048" crc="1c7e1ad0" sha1="343db2c2f188eced2dd8182165928552237ef97c"/>
+		<rom name="MousinAround_4K_FS_FinalS-1-1038x1845.png" size="3213763" crc="0cd6e10b" sha1="fa5309b1928802a7292eff73a13490e628464c54"/>
+	</machine>
+	<machine name="Pinball Magic (Capcom)(1985)(rothbauerw, unclewilly)(2.0.8)[VPX04][FullScreen]">
+		<description>Pinball Magic (Capcom)(1985)(rothbauerw, unclewilly)(2.0.8)[VPX04][FullScreen]</description>
+		<rom name="Pinball Magic (Capcom)(1985)(rothbauerw, unclewilly)(2.0.8)[VPX04][FullScreen]\Pinball Magic (Capcom 1995) 2.0.8.vpx" size="126586880" crc="59118479" sha1="36e0e1c5f0272cc5a660e0a3fe599809e621640c"/>
+		<rom name="Pinball Magic (Capcom)(1985)(rothbauerw, unclewilly)(2.0.8)[VPX04][FullScreen]\Pinball Magic screenshot.png" size="2937160" crc="fcb3eb67" sha1="667f53945e08d5c358acb1dac003222e66ac30d2"/>
+	</machine>
+	<machine name="Robo War (Gottlieb)(1988)(baslater)(1.00)[VPX06][FullScreen]">
+		<description>Robo War (Gottlieb)(1988)(baslater)(1.00)[VPX06][FullScreen]</description>
+		<rom name="robo war (Gottlieb 1988) v1.00.png" size="3055687" crc="b3d6452a" sha1="b1e4d8cd4125163ca78d3ceb567fa542e69954f5"/>
+		<rom name="robo war (Gottlieb 1988) v1.00.vpx" size="19718144" crc="f8d6146e" sha1="8841c96e7d5ef9c3d7f3810a114eef18008c4d91"/>
+	</machine>
+	<machine name="Royal Flush Deluxe (Gottlieb)(1983)(Balater)(1.00)[VPX06]">
+		<description>Royal Flush Deluxe (Gottlieb)(1983)(Balater)(1.00)[VPX06]</description>
+		<rom name="Royal-Flush-Deluxe (Gottlieb 1989) V1.00.vpx" size="25776128" crc="c056d8a1" sha1="948df0274a605287adf971b0259feb39fcc30b01"/>
+		<rom name="royal-flush-deluxe--gottlieb-1989--v100.png" size="2106917" crc="ae296d68" sha1="a02f4997e8266b1c7dc0a78e6b560973538e99ad"/>
+	</machine>
+	<machine name="Six Million Dollar Man, The (Bally)(1978)(32assassin)[VPX][FullScreen + dB2S allknowing2012 v2.0]">
+		<description>Six Million Dollar Man, The (Bally)(1978)(32assassin)[VPX][FullScreen + dB2S allknowing2012 v2.0]</description>
+		<rom name="Six Million Dollar Man, The (Bally)(1978)(32assassin)[VPX][FullScreen + dB2S allknowing2012 v2.0]\Six Million Dollar Man, The (Bally 1978).vpx" size="29147136" crc="a1cea138" sha1="60c140f787dcb11f224a18f4fdaabc2b45fbe712"/>
+		<rom name="Six Million Dollar Man, The (Bally)(1978)(32assassin)[VPX][FullScreen + dB2S allknowing2012 v2.0]\Six Million Dollar Man, The screenshot.jpg" size="116695" crc="df24217d" sha1="c11d8f7387abc9758b439ac2150d8b3254dc5b54"/>
+	</machine>
+	<machine name="Spring Break (Gottlieb)(1987)(balater)(1.02)[VPX06][FullScreen balater]">
+		<description>Spring Break (Gottlieb)(1987)(balater)(1.02)[VPX06][FullScreen balater]</description>
+		<rom name="Spring Break (Gottlieb 1987) v1.02.vpx" size="42999808" crc="e6092b85" sha1="90a59eda19587ceaad807afd351122dde544fd19"/>
+		<rom name="spring-break--gottlieb-1987--v100.png" size="3015025" crc="665f10aa" sha1="d770b9ccad888ec395b4c379bb6cd8741ede12f3"/>
+	</machine>
+	<machine name="Star Gazer (Stern)(1980)(allknowing2012)(1.1)[VPX][FullScreen]">
+		<description>Star Gazer (Stern)(1980)(allknowing2012)(1.1)[VPX][FullScreen]</description>
+		<rom name="image.jpg" size="203908" crc="24192e3f" sha1="3cb78d80333dd7a3e76b4becf7490bc088259963"/>
+		<rom name="Star Gazer(Stern 1980) v1.1.vpx" size="31322112" crc="a9fb3ad9" sha1="a1192c4944c583df69e7431eb82224ff4f841322"/>
+	</machine>
+	<machine name="Striker Extreme (Stern)(2000)(Kalavera)(1.1)[VPX05][FullScreen]">
+		<description>Striker Extreme (Stern)(2000)(Kalavera)(1.1)[VPX05][FullScreen]</description>
+		<rom name="Striker Extreme (Stern)(2000)(Kalavera)(1.1)[VPX05][FullScreen]\Striker Xtreme (Stern 2000).vpx" size="43753472" crc="d8639614" sha1="488b3ba830d59322e7f4decb935e9314b7a023d1"/>
+		<rom name="Striker Extreme (Stern)(2000)(Kalavera)(1.1)[VPX05][FullScreen]\Striker Xtreme screenshot.jpg" size="496820" crc="8234fab2" sha1="7c0be75f961109fb0b75f1e5e760147cdac01dc6"/>
+	</machine>
+	<machine name="Tag-Team Pinball (Premiere)(1985)(roccodimarco)(2.1)[VPX05][FullScreen]">
+		<description>Tag-Team Pinball (Premiere)(1985)(roccodimarco)(2.1)[VPX05][FullScreen]</description>
+		<rom name="Tag-Team Pinball (Premiere)(1985)(roccodimarco)(2.1)[VPX05][FullScreen]\tag team 2.1.vpx" size="33767424" crc="7957029b" sha1="5e3778a0958f9ff7a650cdce19aba59fbf6e4197"/>
+		<rom name="Tag-Team Pinball (Premiere)(1985)(roccodimarco)(2.1)[VPX05][FullScreen]\Tag-Team Pinball screenshot.png" size="2098942" crc="755a84b4" sha1="0223bd9f1966b965e03743382abac6c8ddf87a60"/>
+	</machine>
+	<machine name="Tee'd Off (Gottlieb)(1993)(rothbauerw)(1.2.5)[VPX04][FullScreen + dB2S]">
+		<description>Tee'd Off (Gottlieb)(1993)(rothbauerw)(1.2.5)[VPX04][FullScreen + dB2S]</description>
+		<rom name="Tee'd Off (Gottlieb)(1993)(rothbauerw)(1.2.5)[VPX04][FullScreen + db2S]\Tee'd Off (FullScreen) screenshot.jpg" size="417162" crc="e0e59e72" sha1="29928ea75fe1d4219c3a18c4dcbad34e99cb703a"/>
+		<rom name="Tee'd Off (Gottlieb)(1993)(rothbauerw)(1.2.5)[VPX04][FullScreen + db2S]\Tee'd Off (Gottlieb 1993).vpx" size="101142528" crc="b7d3419c" sha1="bd1dd8320000bf0da1f10a812c72d6d2e1589fc8"/>
+		<rom name="Tee'd Off (Gottlieb)(1993)(rothbauerw)(1.2.5)[VPX04][FullScreen + db2S]\Tee'd Off (Gottlieb)(1993)(rothbauerw)(2.0)[db2S]\Tee'd Off (db2S) screenshot.png" size="1515349" crc="00060b06" sha1="3866391b1ebab4826e46161eedaac48c00646c85"/>
+		<rom name="Tee'd Off (Gottlieb)(1993)(rothbauerw)(1.2.5)[VPX04][FullScreen + db2S]\Tee'd Off (Gottlieb)(1993)(rothbauerw)(2.0)[db2S]\Tee'd Off (Gottlieb 1993).directb2s" size="64489743" crc="67df9310" sha1="9a3c1c56200f15227acf92f99e88c08e7c4813ee"/>
+	</machine>
+	<machine name="TX-Sector (Gottlieb)(1988)(balater)(1.21)[VPX06][FullScreen+dB2S]">
+		<description>TX-Sector (Gottlieb)(1988)(balater)(1.21)[VPX06][FullScreen+dB2S]</description>
+		<rom name="tx-sector (Gottlieb 1988) v1.00.directb2s" size="10994707" crc="f27de32c" sha1="87241ba0a8c094fb39115b59029abba1c54c96ce"/>
+		<rom name="tx-sector (Gottlieb 1988) v1.21.vpx" size="36196352" crc="c310d18c" sha1="c29f09dbfd4cf5b9adbe30d70bea8abae980cf48"/>
+		<rom name="tx-sector--gottlieb-1988 v100.png" size="2887143" crc="d451cda6" sha1="86950e365980cb7619325c1b489af48810b78b5e"/>
+	</machine>
+	<machine name="Victory (Gottlieb)(1987)(Sindbad)(2.0)[VPX05][FullScreen]">
+		<description>Victory (Gottlieb)(1987)(Sindbad)(2.0)[VPX05][FullScreen]</description>
+		<rom name="Victory (Gottlieb)(1987)(Sindbad)(2.0)[VPX05][FullScreen]\Victory (Gottlieb 1987) 2.0.vpx" size="78262272" crc="a472b776" sha1="0315f13f6dd707c4d9a39e20886b70c0f9f8ffd9"/>
+		<rom name="Victory (Gottlieb)(1987)(Sindbad)(2.0)[VPX05][FullScreen]\Victory screenshot.png" size="2548944" crc="9182203d" sha1="303a86f2c8cddeca68aca5c03633a36ec5e3ce33"/>
+	</machine>
+</datafile>

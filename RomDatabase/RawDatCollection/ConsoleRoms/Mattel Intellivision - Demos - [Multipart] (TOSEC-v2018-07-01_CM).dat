@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Mattel Intellivision - Demos - [Multipart]</name>
+		<description>Mattel Intellivision - Demos - [Multipart] (TOSEC-v2018-07-01)</description>
+		<category>TOSEC</category>
+		<version>2018-07-01</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Demonstration Cartridge - Green (1982)(Mattel Electronics)[5823-0210]">
+		<description>Demonstration Cartridge - Green (1982)(Mattel Electronics)[5823-0210]</description>
+		<rom name="Demonstration Cartridge - Green (1982)(Mattel Electronics)[5823-0210].50" size="16384" crc="52609fec" md5="4c337b5a44e068286cb7fa4b44e5f6e0" sha1="780183183d4d1fc1a23a9a0435788c3b750003d1"/>
+		<rom name="Demonstration Cartridge - Green (1982)(Mattel Electronics)[5823-0210].d0" size="16384" crc="9b37afbe" md5="ee53d518cfdb952c3e9c626b0de2e2c7" sha1="ad5d06b040f2ddea2b4ab9f0e98d77ee7c310498"/>
+	</game>
+	<game name="International Demonstration Cartridge (1982)(Mattel Electronics)">
+		<description>International Demonstration Cartridge (1982)(Mattel Electronics)</description>
+		<rom name="International Demonstration Cartridge (1982)(Mattel Electronics).50" size="16384" crc="5d575728" md5="1685d05da9575ee7698bdb3e915eebfe" sha1="b663031fff53ff36942c5f325d25e913dd8367f1"/>
+		<rom name="International Demonstration Cartridge (1982)(Mattel Electronics).d0" size="8192" crc="7a837bc9" md5="2753147fb11d0d1e469851c39594b1f7" sha1="dcc708901b391fc62bf799fa2e9db4551f93ba8f"/>
+	</game>
+</datafile>

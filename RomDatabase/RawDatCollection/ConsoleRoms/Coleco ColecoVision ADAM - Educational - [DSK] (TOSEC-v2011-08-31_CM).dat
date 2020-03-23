@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Coleco ColecoVision ADAM - Educational - [DSK]</name>
+		<description>Coleco ColecoVision ADAM - Educational - [DSK] (TOSEC-v2011-08-31)</description>
+		<category>TOSEC</category>
+		<version>2011-08-31</version>
+		<author>Grendel - Cid - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Richard Scarry's Best Electronic Word Book Ever! (1984)(Coleco)">
+		<description>Richard Scarry's Best Electronic Word Book Ever! (1984)(Coleco)</description>
+		<rom name="Richard Scarry's Best Electronic Word Book Ever! (1984)(Coleco).dsk" size="163840" crc="2a24d3c0" md5="5ced4ef84b24fb0d3843468ca4eb5f2e" sha1="77fdaae2cf28bd398101dc2ca1fb569a3fe0d206"/>
+	</game>
+</datafile>

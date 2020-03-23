@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Bandai WonderSwan Color [T-En]</name>
+		<description>Bandai WonderSwan Color [T-En]</description>
+		<category>English Translations</category>
+		<version>20121007</version>
+		<date>20121007</date>
+		<author>Powerpuff</author>
+		<email>-insert email-</email>
+		<homepage>Maybe-Intro</homepage>
+		<url>http://maybeintro.wordpress.com/</url>
+		<comment>Maybe-Intro</comment>
+		<clrmamepro/>
+	</header>
+	<game name="_Bandai WonderSwan Color [T-En] Docs">
+		<description>_Bandai WonderSwan Color [T-En] Docs</description>
+		<rom name="Dicing Knight. (Japan) [T-En by Aeon Genesis v1.00].txt" size="2303" crc="766645db" md5="8888e5fe10af0aef016877c1bf4521b3" sha1="851560da711980e521e961eb075f711baa1d6e1b"/>
+		<rom name="Final Fantasy (Japan) [T-En by Kalas v0.91] [i].txt" size="6573" crc="080cba41" md5="f173c3224376e088bafdf0670401524f" sha1="c6af0de3fc097e9b6dcaafb509770fc0186bba45"/>
+		<rom name="Final Fantasy II (Japan) [T-En by RPGOne v0.97].txt" size="8030" crc="914cf20e" md5="b5d51c9fd05da632e3f8103154c1a9e3" sha1="50f365aa1ce7b52972aff8bdff97f3faf71f09f9"/>
+		<rom name="Makai Toushi Sa-Ga (Japan) [T-En by Tower Reversed v1.0].txt" size="366" crc="8b9ede70" md5="1c7fd4a69369ef5f57af08fd3d106c82" sha1="ff65be2205888c1f45bb958022e4feb0d97bc540"/>
+		<rom name="Mega Man Battle Network WS (Japan) [T-En by Boco+Greiga Master+Megarockexe v1.0] [n] - Logo.png" size="316209" crc="7c43e77f" md5="ca476074891b71c7d4e2004e01029081" sha1="b4e7e380cc8a1e6abb7f76af1cda088d2a7f6e0e"/>
+		<rom name="Mega Man Battle Network WS (Japan) [T-En by Boco+Greiga Master+Megarockexe v1.0] [n].txt" size="1390" crc="cf094eda" md5="4ed10e1847d823c8f9141cfe3fbfa63c" sha1="fe71cded43bca3fa846151f87bc37e6d79a5615f"/>
+	</game>
+	<game name="Dicing Knight. (Japan) [T-En by Aeon Genesis v1.00]">
+		<description>Dicing Knight. (Japan) [T-En by Aeon Genesis v1.00]</description>
+		<rom name="Dicing Knight. (Japan) [T-En by Aeon Genesis v1.00].wsc" size="2097152" crc="56f4e554" md5="6e8848993a51e0226ba4be18e7bb6b73" sha1="106dca0fd84ba59dd98f13ee5ab6e4832105b8b3"/>
+	</game>
+	<game name="Final Fantasy (Japan) [T-En by Kalas v0.91] [i]">
+		<description>Final Fantasy (Japan) [T-En by Kalas v0.91] [i]</description>
+		<rom name="Final Fantasy (Japan) [T-En by Kalas v0.91] [i].wsc" size="4194304" crc="df94a149" md5="0d5c239eb1b99b4ab756acda11992ce3" sha1="08e70b98918df5e5cf2fe057908ce5e8a69e05fe"/>
+	</game>
+	<game name="Final Fantasy II (Japan) [T-En by RPGOne v0.97]">
+		<description>Final Fantasy II (Japan) [T-En by RPGOne v0.97]</description>
+		<rom name="Final Fantasy II (Japan) [T-En by RPGOne v0.97].wsc" size="4194304" crc="15ec0525" md5="ac5e0c9be878c8c287e92dd821969e9d" sha1="18f8fd447ff10e2c43b0a649dcd039b7d0f53f0d"/>
+	</game>
+	<game name="Makai Toushi Sa-Ga (Japan) [T-En by Tower Reversed v1.0]">
+		<description>Makai Toushi Sa-Ga (Japan) [T-En by Tower Reversed v1.0]</description>
+		<rom name="Makai Toushi Sa-Ga (Japan) [T-En by Tower Reversed v1.0].wsc" size="4194304" crc="2f43f929" md5="de1724fdb63248a2729fdd60939656bf" sha1="92c06eebbe04765d6babf371a8154b21502156b0"/>
+	</game>
+	<game name="Mega Man Battle Network WS (Japan) [T-En by Boco+Greiga Master+Megarockexe v1.0] [n]">
+		<description>Mega Man Battle Network WS (Japan) [T-En by Boco+Greiga Master+Megarockexe v1.0] [n]</description>
+		<rom name="Rockman EXE WS (Japan) [T-En by Boco+Greiga Master+Megarockexe v1.0].wsc" size="4194304" crc="a8c02e74" md5="20379c41873b0d99a2baaf2ef959e1e6" sha1="79f7821791d99a4e6a912ff60bb10eb8ccb0bcd0"/>
+	</game>
+</datafile>

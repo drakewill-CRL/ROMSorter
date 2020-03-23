@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Luxor Video Entertainment System - Games</name>
+		<description>Luxor Video Entertainment System - Games (TOSEC-v2014-04-11)</description>
+		<category>TOSEC</category>
+		<version>2014-04-11</version>
+		<author>Cid - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Ordtaevling (197x)(-)(SE)">
+		<description>Ordtaevling (197x)(-)(SE)</description>
+		<rom name="Ordtaevling (197x)(-)(SE).bin" size="3072" crc="3a386e79" md5="c2a44d22d3865b036479e9311c74d3ad" sha1="62509545b8eef641c432705ff82cd8264c3e1d82"/>
+	</game>
+</datafile>

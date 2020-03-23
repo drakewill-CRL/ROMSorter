@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>NCR Decision Mate V - Games</name>
+		<description>NCR Decision Mate V - Games (TOSEC-v2014-04-11)</description>
+		<category>TOSEC</category>
+		<version>2014-04-11</version>
+		<author>Grendel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Ladder (1982)(Yahoo Software)">
+		<description>Ladder (1982)(Yahoo Software)</description>
+		<rom name="Ladder (1982)(Yahoo Software).com" size="40448" crc="8f5d1160" md5="34ad4a97b1dffeae8a24146543d022f5" sha1="c4d7605d45568a8bec3e9c93499f9bde09f47e3f"/>
+	</game>
+</datafile>

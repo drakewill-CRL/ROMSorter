@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Atari 8bit - Games - [XFD]</name>
+		<description>Atari 8bit - Games - [XFD] (TOSEC-v2018-03-08)</description>
+		<category>TOSEC</category>
+		<version>2018-03-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Elektra Glide (1986)(Mastertronic)[C64 version on side A]">
+		<description>Elektra Glide (1986)(Mastertronic)[C64 version on side A]</description>
+		<rom name="Elektra Glide (1986)(Mastertronic)[C64 version on side A].xfd" size="92160" crc="96185b1c" md5="0ac4e99bc0dac2d4fbfd24c315727548" sha1="fb9825a432b83a2a7e623a2f617d0fa11de08158"/>
+	</game>
+</datafile>

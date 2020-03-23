@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C128 - Demos - [D81]</name>
+		<description>Commodore C128 - Demos - [D81] (TOSEC-v2017-10-23)</description>
+		<category>TOSEC</category>
+		<version>2017-10-23</version>
+		<author>Tomse - Duncan Twain - DesertWolf</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+		<clrmamepro/>
+	</header>
+	<game name="Particles BBS (2017-09-25)(particles.org)[80 column]">
+		<description>Particles BBS (2017-09-25)(particles.org)[80 column]</description>
+		<rom name="Particles BBS (2017-09-25)(particles.org)[80 column].D81" size="819200" crc="13add16f" md5="9bca4789b453efbc0751c1f714dcf86c" sha1="182ee591d4ec309b331e11b0872a8866d4aa99ef"/>
+	</game>
+</datafile>

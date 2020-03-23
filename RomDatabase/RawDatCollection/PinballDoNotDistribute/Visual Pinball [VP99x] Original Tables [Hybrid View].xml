@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Visual Pinball [VP99x] Original Tables [Hybrid View]</name>
+		<description>Visual Pinball [VP99x] Original Tables [Hybrid View]</description>
+		<category>Visual Pinball [VP99x] Original Tables [Hybrid View]</category>
+		<version>1.0</version>
+		<date>2020-01-01</date>
+		<author>Yori Yoshizuki</author>
+		<email>-insert email-</email>
+		<homepage>Yori Yoshizuki</homepage>
+		<url>https://yoshizuki.webs.com</url>
+		<comment>-insert comment-</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Teenage Mutant Ninja Turtles">
+		<description>Teenage Mutant Ninja Turtles</description>
+		<rom name="Teenage Mutant Ninja Turtles (2011) (Original) (StevOz) (Rascal) (1.0) (HV) (VP9.9.0 only).png" size="2669952" crc="a0ae810d" sha1="f5925fdb542d9604b2ff73482079d92cd1073700"/>
+		<rom name="Teenage Mutant Ninja Turtles (2011) (Original) (StevOz) (Rascal) (1.0) (HV) (VP9.9.0 only).vpt" size="42909696" crc="0f391fba" sha1="f592d6f8727f2405750f88813443e61b50079057"/>
+	</machine>
+</datafile>

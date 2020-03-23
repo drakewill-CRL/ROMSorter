@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C128 - Games - [SFX]</name>
+		<description>Commodore C128 - Games - [SFX] (TOSEC-v2018-12-19)</description>
+		<category>TOSEC</category>
+		<version>2018-12-19</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Burgerwhop (19xx)(Copeland, Brian L.)(PD)[80 column][autoboot]">
+		<description>Burgerwhop (19xx)(Copeland, Brian L.)(PD)[80 column][autoboot]</description>
+		<rom name="Burgerwhop (19xx)(Copeland, Brian L.)(PD)[80 column][autoboot].sfx" size="21074" crc="cdbc216a" md5="d72d226276878057d4c4514185183b2b" sha1="98f3771f5e8d580e3d21dd3818d7272f3fd302cd"/>
+	</game>
+	<game name="Das Ding (1988)(N÷th, Christian)(de)[80 column]">
+		<description>Das Ding (1988)(N÷th, Christian)(de)[80 column]</description>
+		<rom name="Das Ding (1988)(N÷th, Christian)(de)[80 column].sfx" size="15659" crc="13c9bac2" md5="a9693f1932eb052896c4c882929c4a09" sha1="e4ecbc4a99a990621ee43481d03daceea40e04c1"/>
+	</game>
+	<game name="Hearts-128 (19xx)(Zielinsky, John)(PD)[80 column]">
+		<description>Hearts-128 (19xx)(Zielinsky, John)(PD)[80 column]</description>
+		<rom name="Hearts-128 (19xx)(Zielinsky, John)(PD)[80 column].sfx" size="7534" crc="e204cf07" md5="344c2f05835d2135f09cf32b9be723be" sha1="a0ca7aefc34beb192dbc5eed81641d01a68f2907"/>
+	</game>
+	<game name="Mah-Jongg Solitaire v2.0 (1989-07-29)(Tappe, Kurt)[autoboot]">
+		<description>Mah-Jongg Solitaire v2.0 (1989-07-29)(Tappe, Kurt)[autoboot]</description>
+		<rom name="Mah-Jongg Solitaire v2.0 (1989-07-29)(Tappe, Kurt)[autoboot].sfx" size="16101" crc="acc28338" md5="c67ec8b4ec8e8e80a15d933f3ee79acd" sha1="be62d7ea64735ea9007f46760af39b1136657744"/>
+	</game>
+	<game name="Millifoot 80 (1988)(Snyder, L.K.)">
+		<description>Millifoot 80 (1988)(Snyder, L.K.)</description>
+		<rom name="Millifoot 80 (1988)(Snyder, L.K.).sfx" size="13815" crc="a16e3d36" md5="7080f7baae228898919dbbe660cb2536" sha1="f8d7fd7e83e24770ee2d7a22dffc71ef2c748dc8"/>
+	</game>
+	<game name="Oh! Thello (1990)(Digital Daze Electronics)(SW)[80 column][autoboot]">
+		<description>Oh! Thello (1990)(Digital Daze Electronics)(SW)[80 column][autoboot]</description>
+		<rom name="Oh! Thello (1990)(Digital Daze Electronics)(SW)[80 column][autoboot].sfx" size="15221" crc="9d0f8241" md5="d878ba1fab3e86e022392971d23503da" sha1="178384c015eb080936afff2135e0a3e9a7b07cab"/>
+	</game>
+	<game name="Solitaire-80 (1992-08)(Peromsik, Aaron)[80 column]">
+		<description>Solitaire-80 (1992-08)(Peromsik, Aaron)[80 column]</description>
+		<rom name="Solitaire-80 (1992-08)(Peromsik, Aaron)[80 column].sfx" size="17101" crc="a0671216" md5="295013694e82dc593c5f254bba671f7c" sha1="a102f0f523eb6c4ae4713cbd230df33f1c82320f"/>
+	</game>
+	<game name="Tetris80 (1991)(Echo Magnetic Media)(PD)[80 column]">
+		<description>Tetris80 (1991)(Echo Magnetic Media)(PD)[80 column]</description>
+		<rom name="Tetris80 (1991)(Echo Magnetic Media)(PD)[80 column].sfx" size="8889" crc="035922e3" md5="25090f3579cd858e80ee457f401b38d0" sha1="d6879443ab146b7dd3e3d63743e92f82d3fd16bc"/>
+	</game>
+	<game name="Trader v2.2 (1990-11)(Tradersoft)(PD)[80 column]">
+		<description>Trader v2.2 (1990-11)(Tradersoft)(PD)[80 column]</description>
+		<rom name="Trader v2.2 (1990-11)(Tradersoft)(PD)[80 column].sfx" size="16418" crc="37f2bf9e" md5="1f7274d31311a366dd000e1f245872f8" sha1="2aaf573953b8821d342cefddb26b9a20094b6938"/>
+	</game>
+	<game name="Wumpus 2.0 (1996)(Kratzberg, Reinhard)(de)[80 column][autoboot]">
+		<description>Wumpus 2.0 (1996)(Kratzberg, Reinhard)(de)[80 column][autoboot]</description>
+		<rom name="Wumpus 2.0 (1996)(Kratzberg, Reinhard)(de)[80 column][autoboot].sfx" size="15032" crc="64aa7909" md5="507fc0989bbe02d183475c6b0eea88e3" sha1="f14256591a4a2d6a1bef74e71b3458efd8623c4a"/>
+	</game>
+	<game name="Wumpus 2.0 (1996)(Kratzberg, Reinhard)(de)[a][80 column][autoboot]">
+		<description>Wumpus 2.0 (1996)(Kratzberg, Reinhard)(de)[a][80 column][autoboot]</description>
+		<rom name="Wumpus 2.0 (1996)(Kratzberg, Reinhard)(de)[a][80 column][autoboot].sfx" size="15032" crc="c3cd869c" md5="1e92ebacf03a88563908900f9b403fea" sha1="54b86103dce0aa0a5f9565c8085e85162cec14c6"/>
+	</game>
+</datafile>

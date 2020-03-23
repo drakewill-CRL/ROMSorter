@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>IBM PC Compatibles - Games - [MFM]</name>
+		<description>IBM PC Compatibles - Games - [MFM] (TOSEC-v2018-11-15)</description>
+		<category>TOSEC</category>
+		<version>2018-11-15</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Space Quest II - Chapter II - Vohaul's Revenge v2.0F (1989)(Sierra On-Line)(Disk 1 of 2)[3.5''][cp][Interp. 2.936][sn 3129289101202698]">
+		<description>Space Quest II - Chapter II - Vohaul's Revenge v2.0F (1989)(Sierra On-Line)(Disk 1 of 2)[3.5''][cp][Interp. 2.936][sn 3129289101202698]</description>
+		<rom name="Space Quest II - Chapter II - Vohaul's Revenge v2.0F (1989)(Sierra On-Line)(Disk 1 of 2)[3.5''][cp][Interp. 2.936][sn 3129289101202698].mfm" size="2229387" crc="aa32aaab" md5="3f360a8aee8f5e69002ee729c1c781a6" sha1="c58cd7462aea635197d7e138ac8cb2b3b7596b43"/>
+	</game>
+	<game name="Space Quest II - Chapter II - Vohaul's Revenge v2.0F (1989)(Sierra On-Line)(Disk 1 of 3)[5.25''][cp][Interp. 2.936][sn 3129289100100732]">
+		<description>Space Quest II - Chapter II - Vohaul's Revenge v2.0F (1989)(Sierra On-Line)(Disk 1 of 3)[5.25''][cp][Interp. 2.936][sn 3129289100100732]</description>
+		<rom name="Space Quest II - Chapter II - Vohaul's Revenge v2.0F (1989)(Sierra On-Line)(Disk 1 of 3)[5.25''][cp][Interp. 2.936][sn 3129289100100732].mfm" size="2882752" crc="7da46c43" md5="11b106d9c4d4a7b4770c0fe38ea37b69" sha1="931fa509a3a4f5627777f571a298065c024ba6b4"/>
+	</game>
+</datafile>

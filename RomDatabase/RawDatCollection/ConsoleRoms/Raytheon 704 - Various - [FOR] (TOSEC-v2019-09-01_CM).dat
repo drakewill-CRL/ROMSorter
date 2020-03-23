@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Raytheon 704 - Various - [FOR]</name>
+		<description>Raytheon 704 - Various - [FOR] (TOSEC-v2019-09-01)</description>
+		<category>TOSEC</category>
+		<version>2019-09-01</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Der Persoenliche Kleinkredit (1988-02-03)(-)(de)[CFOR - SYM]">
+		<description>Der Persoenliche Kleinkredit (1988-02-03)(-)(de)[CFOR - SYM]</description>
+		<rom name="Der Persoenliche Kleinkredit (1988-02-03)(-)(de)[CFOR - SYM].for" size="1729" crc="61d239fb" md5="c132ecb9f147e7f4caaba342909e7e58" sha1="c24fa577d196ccfafb3d72bd88baec407f8f79db"/>
+	</game>
+	<game name="Heizkurve - Hydrotherm (1988-02-29)(-)(de)[CFOR - SYM]">
+		<description>Heizkurve - Hydrotherm (1988-02-29)(-)(de)[CFOR - SYM]</description>
+		<rom name="Heizkurve - Hydrotherm (1988-02-29)(-)(de)[CFOR - SYM].for" size="1436" crc="fc64c064" md5="51eeacc2712e695c6c42ab1c4c6f1624" sha1="191879d75c2eff4d7422df5a1ac147f74aec0a1d"/>
+	</game>
+</datafile>

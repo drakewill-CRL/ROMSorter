@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Bally Professional Arcade &amp; Astrocade - Compilations - Games - [PRG]</name>
+		<description>Bally Professional Arcade &amp; Astrocade - Compilations - Games - [PRG] (TOSEC-v2017-07-25)</description>
+		<category>TOSEC</category>
+		<version>2017-07-25</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Games &amp; Fun - Load 1 - Games &amp; Fun I (1979)(Stocker, David)[300 baud]">
+		<description>Games &amp; Fun - Load 1 - Games &amp; Fun I (1979)(Stocker, David)[300 baud]</description>
+		<rom name="Games &amp; Fun - Load 1 - Games &amp; Fun I (1979)(Stocker, David)[300 baud].prg" size="2203" crc="d050dbd3" md5="336a35e3b4dbab0ad1e687b75bb61a73" sha1="049bf16c32461448bc1f6ea3e4934e9c5888abe6"/>
+	</game>
+	<game name="Games &amp; Fun - Load 2 - Games II (1979)(Stocker, David)[300 baud]">
+		<description>Games &amp; Fun - Load 2 - Games II (1979)(Stocker, David)[300 baud]</description>
+		<rom name="Games &amp; Fun - Load 2 - Games II (1979)(Stocker, David)[300 baud].prg" size="2167" crc="d9d8baa9" md5="942c83d353c440e55eb97c3e8e94903f" sha1="e07a5e6fc3584f0d7590e905a1e484db28fc0ab5"/>
+	</game>
+	<game name="Games &amp; Fun - Load 3 - Games &amp; Fun III (1979)(Stocker, David)[300 baud]">
+		<description>Games &amp; Fun - Load 3 - Games &amp; Fun III (1979)(Stocker, David)[300 baud]</description>
+		<rom name="Games &amp; Fun - Load 3 - Games &amp; Fun III (1979)(Stocker, David)[300 baud].prg" size="2019" crc="64521638" md5="dcc2a9b018f8753cac96384473853414" sha1="10b72f05359017fec6a71e291fb87d748661a2f9"/>
+	</game>
+	<game name="Maze Race &amp; Obstacle Course (1980)(WaveMakers)(PD)[300 baud]">
+		<description>Maze Race &amp; Obstacle Course (1980)(WaveMakers)(PD)[300 baud]</description>
+		<rom name="Maze Race &amp; Obstacle Course (1980)(WaveMakers)(PD)[300 baud].prg" size="2592" crc="4c87f1b2" md5="5535b6cca948b35f2144b4ea0256581d" sha1="f499dccec0761252dd1106f4326da11290473659"/>
+	</game>
+	<game name="Othello &amp; Boggle (19xx)(Perkins, John)[300 baud - authorship uncertain]">
+		<description>Othello &amp; Boggle (19xx)(Perkins, John)[300 baud - authorship uncertain]</description>
+		<rom name="Othello &amp; Boggle (19xx)(Perkins, John)[300 baud - authorship uncertain].prg" size="1688" crc="91690d23" md5="dfe3db2c300fa7ee005971635eeea24e" sha1="4072de1805febbe83eb3c2e17c1382b26957baa6"/>
+	</game>
+	<game name="Phaser Phun &amp; Number Match - Mic Mac Version (19xx)(Ainsworth, Dick - McKeown-McNamara, K.J. - McKeown-McNamara, M.)[300 baud]">
+		<description>Phaser Phun &amp; Number Match - Mic Mac Version (19xx)(Ainsworth, Dick - McKeown-McNamara, K.J. - McKeown-McNamara, M.)[300 baud]</description>
+		<rom name="Phaser Phun &amp; Number Match - Mic Mac Version (19xx)(Ainsworth, Dick - McKeown-McNamara, K.J. - McKeown-McNamara, M.)[300 baud].prg" size="1934" crc="8dc7ac0f" md5="048780ee1ca5f675aca85e041a9d9779" sha1="48beebe68aacd4c2fa3b987683fc08a1d3b351e7"/>
+	</game>
+	<game name="Speed Math &amp; Note Match (1980)(WaveMakers)(PD)[300 baud]">
+		<description>Speed Math &amp; Note Match (1980)(WaveMakers)(PD)[300 baud]</description>
+		<rom name="Speed Math &amp; Note Match (1980)(WaveMakers)(PD)[300 baud].prg" size="2659" crc="0cfe9863" md5="25b9d4f8429330d75d99a7f5e3fca471" sha1="60be8df6c2b3b3a48b848c94ae8bae04d2de9cde"/>
+	</game>
+	<game name="Starship &amp; Finders Keepers (198x)(Lill, Ken)(proto)[300 baud]">
+		<description>Starship &amp; Finders Keepers (198x)(Lill, Ken)(proto)[300 baud]</description>
+		<rom name="Starship &amp; Finders Keepers (198x)(Lill, Ken)(proto)[300 baud].prg" size="7132" crc="333ffc5f" md5="aea506c7f2d98454cc059eaaf6b8ead1" sha1="c5c701550b8d03b06839bf5abaaec14975e9c2f3"/>
+	</game>
+	<game name="Target - Trio of Games (1980)(L&amp;M Software)[300 baud]">
+		<description>Target - Trio of Games (1980)(L&amp;M Software)[300 baud]</description>
+		<rom name="Target - Trio of Games (1980)(L&amp;M Software)[300 baud].prg" size="1933" crc="cc48ee27" md5="3f29455695f5205b81c5150f1303f391" sha1="087ebbab26f6b2da21f66445ac0fcd2958c76b1d"/>
+	</game>
+</datafile>

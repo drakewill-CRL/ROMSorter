@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Applications - [BIN]</name>
+		<description>Commodore C64 - Applications - [BIN] (TOSEC-v2018-11-11)</description>
+		<category>TOSEC</category>
+		<version>2018-11-11</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="128er Quickload (19xx)(Conrad Electronics)">
+		<description>128er Quickload (19xx)(Conrad Electronics)</description>
+		<rom name="128er Quickload (19xx)(Conrad Electronics).bin" size="8192" crc="25e3e811" md5="970df3b102827aceec2d4e2b8591b468" sha1="7a3ab3f8f00cf2c82f31bdce264f9384ce4dfd8d"/>
+	</game>
+	<game name="256K Copyer (19xx)(Datel Electronics)[b]">
+		<description>256K Copyer (19xx)(Datel Electronics)[b]</description>
+		<rom name="256K Copyer (19xx)(Datel Electronics)[b].bin" size="32768" crc="db145c61" md5="d397d90546c6df5b1f9b366b79c4a373" sha1="e6f30726271d80754966b4a9ea241554faef06f4"/>
+	</game>
+	<game name="256k Eprom System Rev 5 (19xx)(Dela Elektronik)(de)">
+		<description>256k Eprom System Rev 5 (19xx)(Dela Elektronik)(de)</description>
+		<rom name="256k Eprom System Rev 5 (19xx)(Dela Elektronik)(de).bin" size="8192" crc="0a3c1ab6" md5="0e6c5e601524808531f5bb421dc09e8c" sha1="4f7c10b284f78a3af502460a84b3fcfbe7ef92fe"/>
+	</game>
+	<game name="64 Doctor (1988)(Trilogic)">
+		<description>64 Doctor (1988)(Trilogic)</description>
+		<rom name="64 Doctor (1988)(Trilogic).bin" size="8192" crc="c17c2ee6" md5="4df0b3c51124528cfdc1ac7562595cbd" sha1="17d1b82b8dbdcf6b9e599ab1113f767dd4f39bf7"/>
+	</game>
+	<game name="64-Diary (19xx)(Handic Software)">
+		<description>64-Diary (19xx)(Handic Software)</description>
+		<rom name="64-Diary (19xx)(Handic Software).bin" size="8192" crc="5ab59be4" md5="25d6df68c5c0a7fe544b111de3b1033f" sha1="010f9a3f43eb15eea1ed325a16756378b55aec69"/>
+	</game>
+	<game name="64&apos;er Packer (1987)(-)">
+		<description>64&apos;er Packer (1987)(-)</description>
+		<rom name="64&apos;er Packer (1987)(-).bin" size="8192" crc="96325305" md5="cdf300dd863bf712da8617c8f93b4e10" sha1="a5697d71c864d647f73e2ea4ab089c2254e87f72"/>
+	</game>
+	<game name="64Forth v1.2 (1983)(HesWAre)">
+		<description>64Forth v1.2 (1983)(HesWAre)</description>
+		<rom name="64Forth v1.2 (1983)(HesWAre).bin" size="16384" crc="2a529b6d" md5="3fcf7f95dd48aa1acd0aed72ac4e1204" sha1="8bac0271e6743de3d8726c7395cad876ea0c9630"/>
+	</game>
+	<game name="Action Cartridge Plus MK v7.0 (1990-04)(Datel Electronics)[h Derko][Action Replay Professional v4.2]">
+		<description>Action Cartridge Plus MK v7.0 (1990-04)(Datel Electronics)[h Derko][Action Replay Professional v4.2]</description>
+		<rom name="Action Cartridge Plus MK v7.0 (1990-04)(Datel Electronics)[h Derko][Action Replay Professional v4.2].bin" size="32768" crc="2939b479" md5="b73edbe5b7a760c1f76f1ec7a218ceba" sha1="81a939c6e26e07fc6dd65080415d91fb9017bc6e"/>
+	</game>
+	<game name="Action Cartridge Plus MK v7.0 (1990-04)(Datel Electronics)[h Triumwyrat][Action Replay Professional v5.0]">
+		<description>Action Cartridge Plus MK v7.0 (1990-04)(Datel Electronics)[h Triumwyrat][Action Replay Professional v5.0]</description>
+		<rom name="Action Cartridge Plus MK v7.0 (1990-04)(Datel Electronics)[h Triumwyrat][Action Replay Professional v5.0].bin" size="32768" crc="9103b894" md5="3f75c3aa73c254b171185aa293d56dcb" sha1="3a778f256197cc0450357e2c5c11f90854515572"/>
+	</game>
+	<game name="Action Cartridge Plus v6.0 (1988)(Datel Electronics)">
+		<description>Action Cartridge Plus v6.0 (1988)(Datel Electronics)</description>
+		<rom name="Action Cartridge Plus v6.0 (1988)(Datel Electronics).bin" size="32768" crc="5a0d146d" md5="8bd4bf75cf8a32a151c171fc36131380" sha1="c9c037f630b7ec74f2b36c1e23396b0e1e14ecd4"/>
+	</game>
+	<game name="Action Replay Professional v4.2 (1988)(Datel Electronics)">
+		<description>Action Replay Professional v4.2 (1988)(Datel Electronics)</description>
+		<rom name="Action Replay Professional v4.2 (1988)(Datel Electronics).bin" size="32768" crc="4b2e7d3a" md5="ac256778463b66d13067005813ba4f6c" sha1="6c384308290febf5ca4eedaf326d646f15a13c51"/>
+	</game>
+	<game name="Action Replay Professional v5.0 (1988)(Datel Electronics)">
+		<description>Action Replay Professional v5.0 (1988)(Datel Electronics)</description>
+		<rom name="Action Replay Professional v5.0 (1988)(Datel Electronics).bin" size="32768" crc="b08bed2a" md5="b112d03ffd66f5be219605bde12239e5" sha1="894ab49f13e70203987e54b87f60b047ef910845"/>
+	</game>
+	<game name="Action Replay Professional v6.0 (1989)(Datel Electronics)[h Triad]">
+		<description>Action Replay Professional v6.0 (1989)(Datel Electronics)[h Triad]</description>
+		<rom name="Action Replay Professional v6.0 (1989)(Datel Electronics)[h Triad].bin" size="32768" crc="795b50c4" md5="5e8d8d88929de9cc7724a73a3228bbeb" sha1="4541bc60c04930c9de53ffb99e355c5cf0dbc5cb"/>
+	</game>
+	<game name="Action Replay Professional v7.3 (1989-1991)(Datel Electronics)[h Atrax]">
+		<description>Action Replay Professional v7.3 (1989-1991)(Datel Electronics)[h Atrax]</description>
+		<rom name="Action Replay Professional v7.3 (1989-1991)(Datel Electronics)[h Atrax].bin" size="32768" crc="4d59d964" md5="962119c9e4656f673acf75826311da9e" sha1="662c4d579907b0ebc4123910537be600ad50dc08"/>
+	</game>
+	<game name="Action Replay Professional v7.5 (1989)(Datel Electronics)[h Triumwyrat][Action Cartridge Plus MK v7.0]">
+		<description>Action Replay Professional v7.5 (1989)(Datel Electronics)[h Triumwyrat][Action Cartridge Plus MK v7.0]</description>
+		<rom name="Action Replay Professional v7.5 (1989)(Datel Electronics)[h Triumwyrat][Action Cartridge Plus MK v7.0].bin" size="32768" crc="2fdc011f" md5="ad43263a8a2b75d2309cee48487e9090" sha1="564952475b92f0a452c5b58acd6a03ae85342297"/>
+	</game>
+	<game name="Action Replay v4.2 Professional (1988)(Datel Electronics)[b]">
+		<description>Action Replay v4.2 Professional (1988)(Datel Electronics)[b]</description>
+		<rom name="Action Replay v4.2 Professional (1988)(Datel Electronics)[b].bin" size="32768" crc="befdaf75" md5="6c08df7a05bbdbe7177fc4f3a6e9e627" sha1="477f5eebe4f3313256649bfc20c5cd52e5c6b059"/>
+	</game>
+	<game name="Action Replay v5.0 Professional (1988)(Datel Electronics)[b]">
+		<description>Action Replay v5.0 Professional (1988)(Datel Electronics)[b]</description>
+		<rom name="Action Replay v5.0 Professional (1988)(Datel Electronics)[b].bin" size="32768" crc="6c916f80" md5="38b4f2bfc07995c2753f7da2340fee27" sha1="7ef39f320987d4bfddb499708795dfe8aebbce3b"/>
+	</game>
+	<game name="Action Replay v6.0 Professional (1989)(Datel Electronics)[b]">
+		<description>Action Replay v6.0 Professional (1989)(Datel Electronics)[b]</description>
+		<rom name="Action Replay v6.0 Professional (1989)(Datel Electronics)[b].bin" size="32768" crc="44a30413" md5="427869da3bd5eabf036cae04325c03da" sha1="fca6f0c4c164c67a01abc4a58fc83814a9b15e96"/>
+	</game>
+	<game name="Adventure Creator (1984)(Spinnaker Software)">
+		<description>Adventure Creator (1984)(Spinnaker Software)</description>
+		<rom name="Adventure Creator (1984)(Spinnaker Software).bin" size="16384" crc="6d61e6ab" md5="9a2fc487904fb44a153e6cd415726ede" sha1="2971ff05b42471c9e9f430e8349183a5fd8e9fd8"/>
+	</game>
+	<game name="Assembler 64 &amp; Monitor (19xx)(-)">
+		<description>Assembler 64 &amp; Monitor (19xx)(-)</description>
+		<rom name="Assembler 64 &amp; Monitor (19xx)(-).bin" size="8192" crc="6a3749d6" md5="271f251f557763f98e4a5e9d8b931782" sha1="df8f2e4912db243ea65dd48dcc07939a8cfbba37"/>
+	</game>
+	<game name="Atomic Power Cartridge v1.1 (1990)(Frank &amp; Joe)[sys32768]">
+		<description>Atomic Power Cartridge v1.1 (1990)(Frank &amp; Joe)[sys32768]</description>
+		<rom name="Atomic Power Cartridge v1.1 (1990)(Frank &amp; Joe)[sys32768].bin" size="32768" crc="174c7c48" md5="3c3b349243613bff8c273ce6ad27daa8" sha1="2c6f5d22e279f1f197d4cc9607a1f9fca3223774"/>
+	</game>
+	<game name="Bitimploder V2.0 (1987)(Third Wave)">
+		<description>Bitimploder V2.0 (1987)(Third Wave)</description>
+		<rom name="Bitimploder V2.0 (1987)(Third Wave).bin" size="8192" crc="1a2517ab" md5="c7332546735a4664f888ed68544d781a" sha1="15ab6777f25d2d087c7c11ea69d3a5214c9163df"/>
+	</game>
+	<game name="Bitimploder V3.71 (1989)(Altobrows)">
+		<description>Bitimploder V3.71 (1989)(Altobrows)</description>
+		<rom name="Bitimploder V3.71 (1989)(Altobrows).bin" size="8192" crc="6cab23d8" md5="1ea57db9d3260f67373b2de1fe624b7f" sha1="30d5122f6c10d3813fb1d0c4e011e221b99bf9a5"/>
+	</game>
+	<game name="Black Copy Box (19xx)(-)">
+		<description>Black Copy Box (19xx)(-)</description>
+		<rom name="Black Copy Box (19xx)(-).bin" size="8192" crc="aa553d3f" md5="1de6b881f7be5e47846248ccdb86e6a1" sha1="d90dd6e7a0eb19f5026b6956518cac8395f16cd1"/>
+	</game>
+	<game name="C.C.S. Mon (1986)(Sundell, H.)">
+		<description>C.C.S. Mon (1986)(Sundell, H.)</description>
+		<rom name="C.C.S. Mon (1986)(Sundell, H.).bin" size="8192" crc="16c3a0cd" md5="1b3b5e0db9a4468e72e62dd57aaf4750" sha1="c27eb2b111f96752af6ca8d13a2124db259a08fe"/>
+	</game>
+	<game name="C64 Diagnostic (19xx)(Commodore Max Machine)">
+		<description>C64 Diagnostic (19xx)(Commodore Max Machine)</description>
+		<rom name="C64 Diagnostic (19xx)(Commodore Max Machine).bin" size="8192" crc="7f4db81f" md5="671379c1baf8e06564afc3bd913e6255" sha1="9961fc09b8452bfc8288991b47852b9fde1f9c46"/>
+	</game>
+	<game name="C64 Diagnostic (19xx)(Commodore Max Machine)[a]">
+		<description>C64 Diagnostic (19xx)(Commodore Max Machine)[a]</description>
+		<rom name="C64 Diagnostic (19xx)(Commodore Max Machine)[a].bin" size="8192" crc="717eb48b" md5="9208b94a9db98000f7c240ad38314416" sha1="b5fc7135d687ac48bd875dff4be86a5f11d24c38"/>
+	</game>
+	<game name="C64 Diagnostic rev 586220 (19xx)(Commodore Max Machine)">
+		<description>C64 Diagnostic rev 586220 (19xx)(Commodore Max Machine)</description>
+		<rom name="C64 Diagnostic rev 586220 (19xx)(Commodore Max Machine).bin" size="8192" crc="9d22776e" md5="7bcbb61f1e0ba2ada40f4faadc216112" sha1="b166bf4bfb82bfba5b2f9f5a1c38ee3ae40e2bf6"/>
+	</game>
+	<game name="C64 Forth v1 (1983)(Datatronic)">
+		<description>C64 Forth v1 (1983)(Datatronic)</description>
+		<rom name="C64 Forth v1 (1983)(Datatronic).bin" size="12288" crc="94fb8ced" md5="13c56869827ed5a91701ebbf9c31cf7b" sha1="49863d2eafa053b5a72e24dac6158e7a35ea33d7"/>
+	</game>
+	<game name="Calc Result (1983)(Handic Software)">
+		<description>Calc Result (1983)(Handic Software)</description>
+		<rom name="Calc Result (1983)(Handic Software).bin" size="8192" crc="18fb50c0" md5="a38cf4286b56488dc6339b2391e6229e" sha1="d5a1c81357d4867e5179dec617a8eaff8f8dc38b"/>
+	</game>
+	<game name="Cardcruncher (1987)(1001 Crew)[h Defiers]">
+		<description>Cardcruncher (1987)(1001 Crew)[h Defiers]</description>
+		<rom name="Cardcruncher (1987)(1001 Crew)[h Defiers].bin" size="8192" crc="78949122" md5="e6dc2137016703b373b35f162fb1f9f7" sha1="f13d55ae8999ae82ea6a1df0603dc3358d41dcb7"/>
+	</game>
+	<game name="Cardcruncher v4.0 (19xx)(1001)">
+		<description>Cardcruncher v4.0 (19xx)(1001)</description>
+		<rom name="Cardcruncher v4.0 (19xx)(1001).bin" size="8192" crc="e534b8ef" md5="460106fa7ea593d0653dd0dfc0dc5e87" sha1="db5dbd9ab651e0c270b543bf7cd16bdda7ae5bdd"/>
+	</game>
+	<game name="Cartridge Maker (19xx)(Datel Electronics)">
+		<description>Cartridge Maker (19xx)(Datel Electronics)</description>
+		<rom name="Cartridge Maker (19xx)(Datel Electronics).bin" size="32768" crc="3822ff93" md5="9643a063cf7748f7814d9370d45b5158" sha1="45201e54e4a3c04a19360eea83096aa841211e86"/>
+	</game>
+	<game name="CBM 64 Stat (1982)(Handic Software)">
+		<description>CBM 64 Stat (1982)(Handic Software)</description>
+		<rom name="CBM 64 Stat (1982)(Handic Software).bin" size="8192" crc="6f3cdd2e" md5="e60fa7139c15dc93fba44fee1214a454" sha1="c8083baea27d0c2afb00fe682aae1d736ff7751e"/>
+	</game>
+	<game name="CBM 64 Stat (1982)(Handic Software)(de)">
+		<description>CBM 64 Stat (1982)(Handic Software)(de)</description>
+		<rom name="CBM 64 Stat (1982)(Handic Software)(de).bin" size="8192" crc="4e32d607" md5="abcb22262f05ea8016e8cc65abff81ba" sha1="e253ee39446125af87a0e85fa70ae709cee2a12e"/>
+	</game>
+	<game name="Charger Floader (19xx)(-)">
+		<description>Charger Floader (19xx)(-)</description>
+		<rom name="Charger Floader (19xx)(-).bin" size="8192" crc="b0a89de0" md5="f68d55dee917bd067dec333f12d5adde" sha1="f6f87024d37dfc0c1c6f4bf5947b9e8f2c905d6e"/>
+	</game>
+	<game name="Conrad Disk Booster (19xx)(-)">
+		<description>Conrad Disk Booster (19xx)(-)</description>
+		<rom name="Conrad Disk Booster (19xx)(-).bin" size="8192" crc="942d703e" md5="241dd8fd809f4b7d2d5099446b5e56a9" sha1="707b0b121eaf249b9fa5d778bf5e6b254d2608e1"/>
+	</game>
+	<game name="Copy Card (1988)(Puma-Sharks)">
+		<description>Copy Card (1988)(Puma-Sharks)</description>
+		<rom name="Copy Card (1988)(Puma-Sharks).bin" size="8192" crc="a2df70e1" md5="82a0fc42ebae369edbce733bb485c776" sha1="cbe987a48a9c288cb1384e17a9faabe851ba8416"/>
+	</game>
+	<game name="Crack Module v3.0 (19xx)(-)">
+		<description>Crack Module v3.0 (19xx)(-)</description>
+		<rom name="Crack Module v3.0 (19xx)(-).bin" size="8192" crc="8b46b4d2" md5="4fb8e3ed81f0f8c53f91d0f3032e8199" sha1="ff25dd93dc584a3fff0299228a7e7c85e7cf70e1"/>
+	</game>
+	<game name="Cyberpunx Retro Replay Alpha 3.8 64kb (2002-06-23)(Count Zero)(NTSC)">
+		<description>Cyberpunx Retro Replay Alpha 3.8 64kb (2002-06-23)(Count Zero)(NTSC)</description>
+		<rom name="Cyberpunx Retro Replay Alpha 3.8 64kb (2002-06-23)(Count Zero)(NTSC).bin" size="65536" crc="9e49ff29" md5="ae89abc25af814c7ebd4d47892fffec7" sha1="e7445585952d3fba1110534581698c9364d3ce26"/>
+	</game>
+	<game name="Cyberpunx Retro Replay Alpha 3.8 64kb (2002-06-23)(Count Zero)(PAL)">
+		<description>Cyberpunx Retro Replay Alpha 3.8 64kb (2002-06-23)(Count Zero)(PAL)</description>
+		<rom name="Cyberpunx Retro Replay Alpha 3.8 64kb (2002-06-23)(Count Zero)(PAL).bin" size="65536" crc="3e2d7af1" md5="4424abf3ba7c9ec228ef2536298d95db" sha1="c473a88aed983ab84e959a93b84e2dbe500c4b17"/>
+	</game>
+	<game name="Cyberpunx Retro Replay Beta 2 (2000-06-30)(Count Zero)(NTSC)">
+		<description>Cyberpunx Retro Replay Beta 2 (2000-06-30)(Count Zero)(NTSC)</description>
+		<rom name="Cyberpunx Retro Replay Beta 2 (2000-06-30)(Count Zero)(NTSC).bin" size="32768" crc="622fc3a6" md5="bbe209fe6103612e32b347508375d4bf" sha1="c99ba30c80f8a25d301a77a36b6e83966845b3f7"/>
+	</game>
+	<game name="Cyberpunx Retro Replay Beta 2 (2000-06-30)(Count Zero)(PAL)">
+		<description>Cyberpunx Retro Replay Beta 2 (2000-06-30)(Count Zero)(PAL)</description>
+		<rom name="Cyberpunx Retro Replay Beta 2 (2000-06-30)(Count Zero)(PAL).bin" size="32768" crc="37637684" md5="999e552888b983e6b3244ca169d32a12" sha1="57a76871560d9225e4349cd133f3c06cb54cc524"/>
+	</game>
+	<game name="Cyberpunx Retro Replay Beta 3 32kb (2000-10-13)(Count Zero)(NTSC)">
+		<description>Cyberpunx Retro Replay Beta 3 32kb (2000-10-13)(Count Zero)(NTSC)</description>
+		<rom name="Cyberpunx Retro Replay Beta 3 32kb (2000-10-13)(Count Zero)(NTSC).bin" size="32768" crc="8cebba3d" md5="e9516cb432bf8cbb4aa16b4e27ecdb6e" sha1="74e31afccf27d731314f7791721574100af1756c"/>
+	</game>
+	<game name="Cyberpunx Retro Replay Beta 3 32kb (2000-10-13)(Count Zero)(PAL)">
+		<description>Cyberpunx Retro Replay Beta 3 32kb (2000-10-13)(Count Zero)(PAL)</description>
+		<rom name="Cyberpunx Retro Replay Beta 3 32kb (2000-10-13)(Count Zero)(PAL).bin" size="32768" crc="65525aa5" md5="2eaa996781225c5ae9b9acc61d4f9c54" sha1="0a0092a7cd95d32ab4af6db6933be507a3e17faa"/>
+	</game>
+	<game name="Cyberpunx Retro Replay Beta 3 64kb (2000-10-13)(Count Zero)(NTSC)">
+		<description>Cyberpunx Retro Replay Beta 3 64kb (2000-10-13)(Count Zero)(NTSC)</description>
+		<rom name="Cyberpunx Retro Replay Beta 3 64kb (2000-10-13)(Count Zero)(NTSC).bin" size="65536" crc="cf85c573" md5="a9efe588977cbd6825c3fbce12164f36" sha1="200a571293f13d67c22c3b8718bf9d277967152e"/>
+	</game>
+	<game name="Cyberpunx Retro Replay Beta 3 64kb (2000-10-13)(Count Zero)(PAL)">
+		<description>Cyberpunx Retro Replay Beta 3 64kb (2000-10-13)(Count Zero)(PAL)</description>
+		<rom name="Cyberpunx Retro Replay Beta 3 64kb (2000-10-13)(Count Zero)(PAL).bin" size="65536" crc="36dac6ab" md5="c2f1e2caf94fe39969802ec2cb045ff2" sha1="0c3647c4de656d19d7945e42d153f99ef1a3f1ac"/>
+	</game>
+	<game name="Cyberpunx Retro Replay Beta 3.1 32kb (2000-10-17)(Count Zero)(NTSC)[bugfix]">
+		<description>Cyberpunx Retro Replay Beta 3.1 32kb (2000-10-17)(Count Zero)(NTSC)[bugfix]</description>
+		<rom name="Cyberpunx Retro Replay Beta 3.1 32kb (2000-10-17)(Count Zero)(NTSC)[bugfix].bin" size="32768" crc="2286197c" md5="b1a2fe2df20cd626f61691b1b0242a70" sha1="a4ea4b43de1da358e0591733afba5775bdda381c"/>
+	</game>
+	<game name="Cyberpunx Retro Replay Beta 3.1 32kb (2000-10-17)(Count Zero)(PAL)[bugfix]">
+		<description>Cyberpunx Retro Replay Beta 3.1 32kb (2000-10-17)(Count Zero)(PAL)[bugfix]</description>
+		<rom name="Cyberpunx Retro Replay Beta 3.1 32kb (2000-10-17)(Count Zero)(PAL)[bugfix].bin" size="32768" crc="cb3ff9e4" md5="325fe4e03800550828bfdbb5a4f08d3c" sha1="7c0ddcc0697df1b599fcf44cd5655cc8f929c680"/>
+	</game>
+	<game name="Cyberpunx Retro Replay Beta 3.1 64kb (2000-10-17)(Count Zero)(NTSC)[bugfix]">
+		<description>Cyberpunx Retro Replay Beta 3.1 64kb (2000-10-17)(Count Zero)(NTSC)[bugfix]</description>
+		<rom name="Cyberpunx Retro Replay Beta 3.1 64kb (2000-10-17)(Count Zero)(NTSC)[bugfix].bin" size="65536" crc="6bf87198" md5="53fa2efdc9cd6563cdddcec0b130d416" sha1="ca102da736b35c76cf299ebbc9c120fde6309786"/>
+	</game>
+	<game name="Cyberpunx Retro Replay Beta 3.1 64kb (2000-10-17)(Count Zero)(PAL)[bugfix]">
+		<description>Cyberpunx Retro Replay Beta 3.1 64kb (2000-10-17)(Count Zero)(PAL)[bugfix]</description>
+		<rom name="Cyberpunx Retro Replay Beta 3.1 64kb (2000-10-17)(Count Zero)(PAL)[bugfix].bin" size="65536" crc="92a77240" md5="d81b765b8f51e9975b78aa730b85f9c1" sha1="3c67187b2e77a56371b7e2aaa24efb6cc634c3a0"/>
+	</game>
+	<game name="Dela S4 Modul (19xx)(Dela Elektronik)">
+		<description>Dela S4 Modul (19xx)(Dela Elektronik)</description>
+		<rom name="Dela S4 Modul (19xx)(Dela Elektronik).bin" size="8192" crc="cdb7f492" md5="d62310744f52879252788152c1f53dbd" sha1="14569b5adeccd7487542d5c5f9770c9b7f97196f"/>
+	</game>
+	<game name="Delta Drawing v3.23 (1983)(Spinnaker Software)">
+		<description>Delta Drawing v3.23 (1983)(Spinnaker Software)</description>
+		<rom name="Delta Drawing v3.23 (1983)(Spinnaker Software).bin" size="16384" crc="2b3224a8" md5="80e1440a2ebdf0e527ece81170577390" sha1="b8e1186d1b01e98836adb458cca929079db07c98"/>
+	</game>
+	<game name="Designer&apos;s Pencil, The (1984)(Activision)">
+		<description>Designer&apos;s Pencil, The (1984)(Activision)</description>
+		<rom name="Designer&apos;s Pencil, The (1984)(Activision).bin" size="16384" crc="0814b3ca" md5="f2e49c78ce3221747f2fe64f97b09288" sha1="aefc9809610d9eda9827a05f9a5c5882d2000e03"/>
+	</game>
+	<game name="Dismon (19xx)(Twiddy, J.)[Start with SYS32768]">
+		<description>Dismon (19xx)(Twiddy, J.)[Start with SYS32768]</description>
+		<rom name="Dismon (19xx)(Twiddy, J.)[Start with SYS32768].bin" size="8192" crc="dda312ed" md5="b5a00ed89bf2791a501a130d6799d96a" sha1="f8727d3e1cecc5b5b72d94721278fafcc7251f5c"/>
+	</game>
+	<game name="Doc 64 v2.2 (19xx)(Heusler, N.)">
+		<description>Doc 64 v2.2 (19xx)(Heusler, N.)</description>
+		<rom name="Doc 64 v2.2 (19xx)(Heusler, N.).bin" size="8192" crc="1bbe5b72" md5="3147bab1d009ff3d276ed5dcf3727bdb" sha1="236685bc5c6c8a9e427c32a0685007c2b491f12f"/>
+	</game>
+	<game name="Dolphin Dos Copy Rom (19xx)(-)">
+		<description>Dolphin Dos Copy Rom (19xx)(-)</description>
+		<rom name="Dolphin Dos Copy Rom (19xx)(-).bin" size="8192" crc="75e72060" md5="2623cef0ec8f4b3de6ab4f3f280244fa" sha1="e21fbfc079a46027b9cd492fd2c7f0af2747da56"/>
+	</game>
+	<game name="Electronic Mailbox-64 (1984)(Eastern House Software)[b]">
+		<description>Electronic Mailbox-64 (1984)(Eastern House Software)[b]</description>
+		<rom name="Electronic Mailbox-64 (1984)(Eastern House Software)[b].bin" size="8192" crc="449dcb06" md5="061c6e45c0140a0d65daea57acc990bb" sha1="956ab17b1432823ac7ab7e49e77a6ce463c89ed5"/>
+	</game>
+	<game name="Emon v2.3 (1988)(CIA)">
+		<description>Emon v2.3 (1988)(CIA)</description>
+		<rom name="Emon v2.3 (1988)(CIA).bin" size="8192" crc="b45511f4" md5="752ca0effb698c9c4a442f9f12c72a50" sha1="bcee8a9c78f3b94174ed1c047a59e12b1a959250"/>
+	</game>
+	<game name="Exbasic Level II v64.1 (1988)(Markt &amp; Technik)">
+		<description>Exbasic Level II v64.1 (1988)(Markt &amp; Technik)</description>
+		<rom name="Exbasic Level II v64.1 (1988)(Markt &amp; Technik).bin" size="8192" crc="8962dd6e" md5="588736a067f2ad7811d4a1db09b2701e" sha1="4112b98795c02c4db93741bc6546a823eec5bed5"/>
+	</game>
+	<game name="Fastload (1984)(Epyx)">
+		<description>Fastload (1984)(Epyx)</description>
+		<rom name="Fastload (1984)(Epyx).bin" size="8192" crc="116ee31f" md5="db785653b41772342d48cb919b7dcbe0" sha1="d1dd56a4e682c4726333f1bb7a7e783af617a750"/>
+	</game>
+	<game name="Final Cartridge (19xx)(Riska H&amp;P)">
+		<description>Final Cartridge (19xx)(Riska H&amp;P)</description>
+		<rom name="Final Cartridge (19xx)(Riska H&amp;P).bin" size="16384" crc="30081860" md5="eb2424c55a3358e4bbf22ca4e3ab76d6" sha1="28af9c1641301d9be02d589d3084e6ff551371ec"/>
+	</game>
+	<game name="Final Coder, The (19xx)(-)">
+		<description>Final Coder, The (19xx)(-)</description>
+		<rom name="Final Coder, The (19xx)(-).bin" size="8192" crc="2ae572b1" md5="6f8590c83c757e2b73b53f5fe91fbb93" sha1="1f3c0b8825090805febe3c4449690a02b6c77244"/>
+	</game>
+	<game name="Financial Advisor (1983)(Commodore)">
+		<description>Financial Advisor (1983)(Commodore)</description>
+		<rom name="Financial Advisor (1983)(Commodore).bin" size="4096" crc="c90517e5" md5="c1b79ab6024cd79c4e42e4db0b5b6b25" sha1="6e32bb458bf8238ade4200f222f8079f2af2588f"/>
+	</game>
+	<game name="Financial Advisor (1983)(Commodore)[a]">
+		<description>Financial Advisor (1983)(Commodore)[a]</description>
+		<rom name="Financial Advisor (1983)(Commodore)[a].bin" size="8192" crc="cb1e6a4a" md5="d22e7d5b50e2d3ee0f2ebb1a1d34a27b" sha1="2da69234b4d60ae41453f8f6dcc118539f715267"/>
+	</game>
+	<game name="Format Und Hardcopy Module (19xx)(Rex-Datentechnik)(de)">
+		<description>Format Und Hardcopy Module (19xx)(Rex-Datentechnik)(de)</description>
+		<rom name="Format Und Hardcopy Module (19xx)(Rex-Datentechnik)(de).bin" size="8192" crc="f8951609" md5="ec655f079e5c6ed4effccd6be42b72f3" sha1="17333af5e48ca3e76c0f151270d4b6d8f7623683"/>
+	</game>
+	<game name="Graf 64 (19xx)(Handic Software)[b]">
+		<description>Graf 64 (19xx)(Handic Software)[b]</description>
+		<rom name="Graf 64 (19xx)(Handic Software)[b].bin" size="8192" crc="55d50bb8" md5="b05ad64ee98ecd88281bc1a120c6e44b" sha1="aa480962cc486e2d6270005df6ca06b1514707f0"/>
+	</game>
+	<game name="Happy Packer (1987)(Arndt, Peter)">
+		<description>Happy Packer (1987)(Arndt, Peter)</description>
+		<rom name="Happy Packer (1987)(Arndt, Peter).bin" size="8192" crc="246959a4" md5="47909b7994b51961c9dc36645cd9c7ec" sha1="c4f111d84f5d0bae1fb7163a393c97b2cc039f09"/>
+	</game>
+	<game name="Happy Packer (1987)(Arndt, Peter)[a]">
+		<description>Happy Packer (1987)(Arndt, Peter)[a]</description>
+		<rom name="Happy Packer (1987)(Arndt, Peter)[a].bin" size="8192" crc="e8fcea90" md5="cab93283ce0aa69140d47e41e183ff3f" sha1="f10c040eb787324ecab3550879ab15570721887a"/>
+	</game>
+	<game name="Hes Writer (19xx)(HesWare)[b]">
+		<description>Hes Writer (19xx)(HesWare)[b]</description>
+		<rom name="Hes Writer (19xx)(HesWare)[b].bin" size="8192" crc="8195c52c" md5="4017b4d38fa78e2a0df215ff6aba1f03" sha1="ff6943367fb3f96d97ea83f7d8551cf76640c6e8"/>
+	</game>
+	<game name="HESMon 64 (1983)(HesWare)">
+		<description>HESMon 64 (1983)(HesWare)</description>
+		<rom name="HESMon 64 (1983)(HesWare).bin" size="8192" crc="fdcdc0a4" md5="719d248dd8cb25f45e8a14c49dad0d27" sha1="1055bd169c0de0b5ff0f351eaad0a0d6a159bd31"/>
+	</game>
+	<game name="Hesmon Proto (1983)(HesWare)">
+		<description>Hesmon Proto (1983)(HesWare)</description>
+		<rom name="Hesmon Proto (1983)(HesWare).bin" size="8192" crc="cf901afb" md5="bc238de871f4607220cb05eaae6bd73b" sha1="ebe57c03a53e46ece7e5210328c50e7c16a116b5"/>
+	</game>
+	<game name="High Speed Sektor Backup v3.0 (1987)(Rossmoeller)">
+		<description>High Speed Sektor Backup v3.0 (1987)(Rossmoeller)</description>
+		<rom name="High Speed Sektor Backup v3.0 (1987)(Rossmoeller).bin" size="8192" crc="b7fbc466" md5="189d3c4b1324526e2e98769f08a1598e" sha1="a2618a93fa0fdc234acedad9cfff42531662c69e"/>
+	</game>
+	<game name="Hires Ripper v1.1 (19xx)(-)">
+		<description>Hires Ripper v1.1 (19xx)(-)</description>
+		<rom name="Hires Ripper v1.1 (19xx)(-).bin" size="8192" crc="836c73ca" md5="ea494be5d8771131f4e70d235fc17049" sha1="f24fc1fa9fe18a6f35818e8bb1e57eb5246d51de"/>
+	</game>
+	<game name="Hypra Disk II Modul v3.0 (19xx)(Rex-Datentechnik)">
+		<description>Hypra Disk II Modul v3.0 (19xx)(Rex-Datentechnik)</description>
+		<rom name="Hypra Disk II Modul v3.0 (19xx)(Rex-Datentechnik).bin" size="8192" crc="0910929e" md5="620eebbd79abb2cd9910ebe9623d74ad" sha1="da15682ab8922888110780d7bf377e94ac66b9d0"/>
+	</game>
+	<game name="Kickstart Amiga Look C64 Modul (1994)(Ihde, Gero)">
+		<description>Kickstart Amiga Look C64 Modul (1994)(Ihde, Gero)</description>
+		<rom name="Kickstart Amiga Look C64 Modul (1994)(Ihde, Gero).bin" size="8192" crc="dcdb2e91" md5="139d3d9963ecce037229836ee63bce4b" sha1="d4ddce629e8a22efa53e82e863515f2dc248a37f"/>
+	</game>
+	<game name="Killer Cartridge (19xx)(-)">
+		<description>Killer Cartridge (19xx)(-)</description>
+		<rom name="Killer Cartridge (19xx)(-).bin" size="16384" crc="1dcb6380" md5="af858dc49159e9f4d8748f51ab5e0795" sha1="c7815de1277a864e03307e7d5138c7167da46bd4"/>
+	</game>
+	<game name="Kompressmaster 4.1 (1988)(-)">
+		<description>Kompressmaster 4.1 (1988)(-)</description>
+		<rom name="Kompressmaster 4.1 (1988)(-).bin" size="8192" crc="af2c5249" md5="e01bfddfab712428dc2b9d533046e0c6" sha1="1ce2e1506a71f68803b3a2a11f3664c71e76072c"/>
+	</game>
+	<game name="Kompressmaster 4.3 (1988)(-)">
+		<description>Kompressmaster 4.3 (1988)(-)</description>
+		<rom name="Kompressmaster 4.3 (1988)(-).bin" size="8192" crc="715da721" md5="35669cc4f5ab6bcceeae252c7db3489b" sha1="21616f5228b49336a939c2ea78b2f8b8719a0378"/>
+	</game>
+	<game name="Magic Monitor (19xx)(Champ-Rocky)">
+		<description>Magic Monitor (19xx)(Champ-Rocky)</description>
+		<rom name="Magic Monitor (19xx)(Champ-Rocky).bin" size="8192" crc="6c0d872d" md5="ec5a45d570f37e3d884630798ed20e9c" sha1="585d7ff316eeda9854631ea85be98429f5fc8a30"/>
+	</game>
+	<game name="Magic Voice (19xx)(Commodore)">
+		<description>Magic Voice (19xx)(Commodore)</description>
+		<rom name="Magic Voice (19xx)(Commodore).bin" size="8192" crc="5dfccfa4" md5="04c68e28b89e8ed15cdda49d5d168879" sha1="52128178ee61852484db07bd58c1f9b99ab396d1"/>
+	</game>
+	<game name="Magic Voice (19xx)(Commodore)[a]">
+		<description>Magic Voice (19xx)(Commodore)[a]</description>
+		<rom name="Magic Voice (19xx)(Commodore)[a].bin" size="8192" crc="3af7f90c" md5="2015bf688096b6e1a52f8022074fe751" sha1="f436a5510a064a77339dd61c405e4cb6e7c803ce"/>
+	</game>
+	<game name="Monitor v1.03 (1983)(Handic)">
+		<description>Monitor v1.03 (1983)(Handic)</description>
+		<rom name="Monitor v1.03 (1983)(Handic).bin" size="8192" crc="548a5f53" md5="5170a94b43aafa747bfcbbdc64fd48c8" sha1="1b626cc055e5c59e852cb89ab3d6eefb57f78efd"/>
+	</game>
+	<game name="Music Machine (1982)(Commodore)">
+		<description>Music Machine (1982)(Commodore)</description>
+		<rom name="Music Machine (1982)(Commodore).bin" size="8192" crc="bd141596" md5="dba0372c0842bad5ba471cd319a72c1c" sha1="bd66b022eda41579460a57b5ef3e968332687ec7"/>
+	</game>
+	<game name="Nordic Power v1.0 (1989)(D&amp;E-Venlo)">
+		<description>Nordic Power v1.0 (1989)(D&amp;E-Venlo)</description>
+		<rom name="Nordic Power v1.0 (1989)(D&amp;E-Venlo).bin" size="32768" crc="ed6c1631" md5="4ca8f87987314a4d16c7b603a19d94b9" sha1="a539664dbc82094417ab44ae8afaf1de61a8b552"/>
+	</game>
+	<game name="P003 Speedsaver Combi (1984)(KCS)">
+		<description>P003 Speedsaver Combi (1984)(KCS)</description>
+		<rom name="P003 Speedsaver Combi (1984)(KCS).bin" size="8192" crc="0b38c59f" md5="aa185fb020d2fde61d7dbe4fd337e719" sha1="71c4424e3221f3e2762316adaa93526043d3bccb"/>
+	</game>
+	<game name="Paintbrush (1983)(HesWare)">
+		<description>Paintbrush (1983)(HesWare)</description>
+		<rom name="Paintbrush (1983)(HesWare).bin" size="16384" crc="4c880095" md5="923c18fb6fbaac80cc147ab32e25a0f9" sha1="88c0faff4617270d3d6ff0e8084b796abe94f31b"/>
+	</game>
+	<game name="Ram Floppy (1988)(Rex-Datentechnik)">
+		<description>Ram Floppy (1988)(Rex-Datentechnik)</description>
+		<rom name="Ram Floppy (1988)(Rex-Datentechnik).bin" size="8192" crc="92709ded" md5="642403e94aaa1eb11ab361f4d4e60fdd" sha1="0db25a8400a755c552f5e74ab1d4b921d1b3b660"/>
+	</game>
+	<game name="Song Maker (1985)(Fisher Price)">
+		<description>Song Maker (1985)(Fisher Price)</description>
+		<rom name="Song Maker (1985)(Fisher Price).bin" size="8192" crc="29e8e748" md5="c9b0cbb4fe2719d5a8491d4d3017288f" sha1="d7124d576e035119d1a2c7d36e19170ba4790d4a"/>
+	</game>
+	<game name="Speeddos Copy Rom (19xx)(-)">
+		<description>Speeddos Copy Rom (19xx)(-)</description>
+		<rom name="Speeddos Copy Rom (19xx)(-).bin" size="8192" crc="76f8669a" md5="41a2758aa8909f23e1d442b9d1804dbd" sha1="17292650b6d98b713b009357f92de94d8f0439dd"/>
+	</game>
+	<game name="Super Expander Chip 64 (1983)(Commodore)">
+		<description>Super Expander Chip 64 (1983)(Commodore)</description>
+		<rom name="Super Expander Chip 64 (1983)(Commodore).bin" size="8192" crc="41aa1b1e" md5="074c80fd0eeed1a120f3bbbfd3f225db" sha1="67c36dec74154838f0a029785fbaa5ee22d4a1f1"/>
+	</game>
+	<game name="Super Hardcopy Modul (19xx)(-)">
+		<description>Super Hardcopy Modul (19xx)(-)</description>
+		<rom name="Super Hardcopy Modul (19xx)(-).bin" size="8192" crc="b09bb812" md5="ee32251ac33813521968692a30536dd0" sha1="7e4a143b767088cd03e22c346d6ce00c669bc8bb"/>
+	</game>
+	<game name="Super Sketch (1984)(Personal Peripherals)">
+		<description>Super Sketch (1984)(Personal Peripherals)</description>
+		<rom name="Super Sketch (1984)(Personal Peripherals).bin" size="8192" crc="831f8238" md5="3994b261b486a6a0f7aaf52f7fc6a8c4" sha1="b9f792431b58a7a85f6db4324b1c20f53c033a8a"/>
+	</game>
+	<game name="Super Snapshot 5 NTSC (1989)(LMS Tech)">
+		<description>Super Snapshot 5 NTSC (1989)(LMS Tech)</description>
+		<rom name="Super Snapshot 5 NTSC (1989)(LMS Tech).bin" size="65536" crc="8d281cf8" md5="8b3370cee57e5e55dc4bc15302c91eda" sha1="2420ad183577371d323fb9efa81adc513acbd682"/>
+	</game>
+	<game name="Super Snapshot 5 PAL (1989)(LMS Tech)">
+		<description>Super Snapshot 5 PAL (1989)(LMS Tech)</description>
+		<rom name="Super Snapshot 5 PAL (1989)(LMS Tech).bin" size="65536" crc="ed5cb065" md5="87b79f5849d3d9d6858452682d492062" sha1="10c34bd6d4651c2549e62cc448412e6d2b193609"/>
+	</game>
+	<game name="System-M1.0 (19xx)(Mousesoft)">
+		<description>System-M1.0 (19xx)(Mousesoft)</description>
+		<rom name="System-M1.0 (19xx)(Mousesoft).bin" size="8192" crc="3a218fef" md5="3ad331ce5e2d51c21dbc704d98944f84" sha1="4fd2b2ef5a88e3423fae6da0eff4aeef27f19d6e"/>
+	</game>
+	<game name="TFG Module (1986)(The Fall Guy)">
+		<description>TFG Module (1986)(The Fall Guy)</description>
+		<rom name="TFG Module (1986)(The Fall Guy).bin" size="8192" crc="19c9cc58" md5="c18a63f09b3c51f84101167a24c9cfa4" sha1="8e32db328bccbd03c614a16e81c26cea3b5d5c94"/>
+	</game>
+	<game name="TSI-Eprom Module (19xx)(-)">
+		<description>TSI-Eprom Module (19xx)(-)</description>
+		<rom name="TSI-Eprom Module (19xx)(-).bin" size="8192" crc="7c7d67a4" md5="e787a08394cbcb81cc22e655ea57eaf2" sha1="a7378a793f8293b071bd2a0b13e2eeedc9bae98c"/>
+	</game>
+	<game name="Tysim 64 (1987)(Kaudelka O.)(de)">
+		<description>Tysim 64 (1987)(Kaudelka O.)(de)</description>
+		<rom name="Tysim 64 (1987)(Kaudelka O.)(de).bin" size="8192" crc="8b73a429" md5="e53c4b39dadd6ee385d0bdabaee47af3" sha1="f6a7f1fffc75a6e74a5630e97a477d36ba54666d"/>
+	</game>
+	<game name="Videotext (1984)(Handic Software)">
+		<description>Videotext (1984)(Handic Software)</description>
+		<rom name="Videotext (1984)(Handic Software).bin" size="8192" crc="618e8643" md5="d0486b47093012432864a6c73002e8c0" sha1="48a33d43ff6ce039278af6aa02bebaca02475f60"/>
+	</game>
+	<game name="Write Now! 64 (1983)(Computer Applications)">
+		<description>Write Now! 64 (1983)(Computer Applications)</description>
+		<rom name="Write Now! 64 (1983)(Computer Applications).bin" size="16384" crc="9a35343d" md5="3848a07536fe4d78f078d8a49f9a106f" sha1="b5ad016343635b17f3f8ffdb37ad6bd7cf682702"/>
+	</game>
+</datafile>

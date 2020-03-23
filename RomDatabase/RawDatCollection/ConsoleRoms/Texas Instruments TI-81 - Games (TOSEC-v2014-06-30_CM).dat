@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Texas Instruments TI-81 - Games</name>
+		<description>Texas Instruments TI-81 - Games (TOSEC-v2014-06-30)</description>
+		<category>TOSEC</category>
+		<version>2014-06-30</version>
+		<author>Diaboł</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Basketball (1997)(Gardner, Robert)">
+		<description>Basketball (1997)(Gardner, Robert)</description>
+		<rom name="basket.81" size="2436" crc="506b1e48" md5="87971ee0ca441cf530ae6ba5fcdbe525" sha1="024180471da669bde872c9705f4bf00ee7682a81"/>
+	</game>
+	<game name="Black-Jack (2001)(Wersten, Bengt - Jefa)">
+		<description>Black-Jack (2001)(Wersten, Bengt - Jefa)</description>
+		<rom name="blackjack.81" size="487" crc="8d4ddb8c" md5="42ff474a940fe02d2ed732a2d79c9c55" sha1="bd2180017482609884089be584dfb13fdb5d5b99"/>
+	</game>
+	<game name="BlackJack (1997)(-)">
+		<description>BlackJack (1997)(-)</description>
+		<rom name="bjack.81" size="4233" crc="a2ddeb44" md5="8156ee269fea4ce7cf6ba802170d20f8" sha1="4fc4a3a6146a4c2f96150e5eedb1efebc650458b"/>
+	</game>
+	<game name="BlackJack (1998)(Veach, Ricky)">
+		<description>BlackJack (1998)(Veach, Ricky)</description>
+		<rom name="blckjack.81" size="2068" crc="424dc40f" md5="d118f78cd511a7e02bfebe02fd33b7cf" sha1="55331845868867fc442f91584b76a7648db21837"/>
+	</game>
+	<game name="BlackJack v1.0 (1997)(Peterson, Daniel)">
+		<description>BlackJack v1.0 (1997)(Peterson, Daniel)</description>
+		<rom name="blakjack.81" size="3622" crc="d02d80f9" md5="08e4781c0ea077808c31d40136ed9eb4" sha1="b366082cc5830556a4b266485c1d5de7f7b7f1a8"/>
+	</game>
+	<game name="Cannons (2000)(Merritt, Devon)">
+		<description>Cannons (2000)(Merritt, Devon)</description>
+		<rom name="CANNONS.DOC" size="27136" crc="bf769a41" md5="6511ed917e034cbf56cf06bc9ad81186" sha1="a7724687d4b1dba0a63810a2bb50bb7b55be9c79"/>
+	</game>
+	<game name="Casino Craps (1998)(Mettler, Adrian)">
+		<description>Casino Craps (1998)(Mettler, Adrian)</description>
+		<rom name="craps2.81" size="2694" crc="e3742519" md5="fc90be79d480052ce88323c85450f3c5" sha1="b86313fa2b2cb0be5b29b8911ac4d5cf10c47e72"/>
+	</game>
+	<game name="D. JacKaL's Craps (1998)(Jaklitsch, Dave)">
+		<description>D. JacKaL's Craps (1998)(Jaklitsch, Dave)</description>
+		<rom name="craps.81" size="1711" crc="41dd1f87" md5="e14ee05da4234a09e8687d98102a5c70" sha1="f03e227ae47dcc8b3fdcff0e31a98f88d53a83a4"/>
+	</game>
+	<game name="Dice (2000)(Wersten, Bengt - Jefa)">
+		<description>Dice (2000)(Wersten, Bengt - Jefa)</description>
+		<rom name="dice.81" size="1274" crc="18c17dc9" md5="8332b40ef164d4db3fe2955d121f9f15" sha1="361dc64091986bb956b43a9b04631e66c01291d3"/>
+	</game>
+	<game name="DND Dice v1.00 (1998)(J-SHAMAN)">
+		<description>DND Dice v1.00 (1998)(J-SHAMAN)</description>
+		<rom name="dnddice.81" size="1099" crc="e0ad7633" md5="384cc3befd52eef5d9e083a8b6ff15b2" sha1="849b730f19ca6235459b971c0b51f4631b071969"/>
+	</game>
+	<game name="Dodge the Projectiles (1998)(Josh)">
+		<description>Dodge the Projectiles (1998)(Josh)</description>
+		<rom name="dodge.81" size="1398" crc="d38e0155" md5="08bd79157b042a12747ff97a0bb304b1" sha1="ac6088bedf9d1939d89a7521f9df1ab9b585d603"/>
+	</game>
+	<game name="DragonWorld Ultra (1998)(Brown, Nick)">
+		<description>DragonWorld Ultra (1998)(Brown, Nick)</description>
+		<rom name="dragonultra.81" size="1792" crc="f50de8c0" md5="45a97c4fa25b27d12492b3d1a63b1ea9" sha1="63da8c8f271b8b6741b1f084420f5fe746ff8482"/>
+	</game>
+	<game name="Fantasy Wars v2.0 (2001)(Nerzig, Daniel)">
+		<description>Fantasy Wars v2.0 (2001)(Nerzig, Daniel)</description>
+		<rom name="fANTASY WARS V2.doc" size="35328" crc="da44a9b8" md5="72f81cc03c748867e3d8d8b00a7c7b2a" sha1="7aa7a066190106b89a3c534779f9ffe59ecdc98a"/>
+		<rom name="shop help.doc" size="19968" crc="15955fa7" md5="93d6891967323e746eaa443dd0e18e26" sha1="e6f4e126fa67d4d8ac121e8d4c6c2dab208dbd7c"/>
+	</game>
+	<game name="Find the Thief Packet (2003)(White, William)">
+		<description>Find the Thief Packet (2003)(White, William)</description>
+		<rom name="thief89\help_4_you.html" size="1716" crc="3acae65e" md5="e58330fcb1cf7587ea6c62b5ae3a458c" sha1="c16654159cc7820e3e2cdac771ad0bef1e5ad538"/>
+		<rom name="thief89\pic68k.GIF" size="2037" crc="64fc6808" md5="0257c33306b115a75d13dbd632dba26a" sha1="fc2b432b3c000075d1ddafd60d04474d8ad7e824"/>
+		<rom name="thief89\picz80.GIF" size="1174" crc="8f3d2253" md5="bdc3ce74504c0c08964381eee8d8f326" sha1="7ef1803da1b720ece6aaf93e98f8709d6948ae20"/>
+		<rom name="thief89\THEIF73.73P" size="1057" crc="8a8aa99d" md5="3f1df023b65014690008bf5546303cac" sha1="0730a9da665b33d2452a7c8c583e8aba2826c0df"/>
+		<rom name="thief89\THIEF82.82P" size="1040" crc="61f3f984" md5="ebca9c612786dc9aa5178a187876a49a" sha1="6c5d6b9f918a4deb8184f6f2f6f4d16137fe8414"/>
+		<rom name="thief89\THIEF83.83P" size="1045" crc="1e95b7cf" md5="10cda0e34c77523788fe3237cfbae544" sha1="2968ca7fa6d129d19db7530baefff24e8e9c7d46"/>
+		<rom name="thief89\THIEF83P.8XP" size="1054" crc="39b6755b" md5="fa963a425f6dcef3854028ffa085ebe0" sha1="56d3fb634e5e3ea29c6f6279661889a7f291ee76"/>
+		<rom name="thief89\THIEF85.85P" size="1308" crc="4116ba1c" md5="75da7980e76c51ac57b6a586929ecc2c" sha1="a8b6c1a552bfd44f60607907abd88a3dc5c9ca06"/>
+		<rom name="thief89\Thief86.86p" size="1360" crc="43f2a480" md5="70bf3b579bbf2b296310e2312ffb3f84" sha1="8431c7f857f13b8d0c43765543a122b7619d9dd4"/>
+		<rom name="thief89\THIEF89.89P" size="1552" crc="1f415a9e" md5="c538b86b72b8b6d84782d22c4362365f" sha1="0dd1fdebe6a90c499493f7b8963491b7ca338065"/>
+		<rom name="thief89\THIEF92.92P" size="1551" crc="9bb9ef73" md5="fca7ee004c38494f5ade8af0edfc633b" sha1="8f1923dfdf8014394b69243e81bd253f170a6067"/>
+		<rom name="thief89\thief92p.9xp" size="1551" crc="4e7fbdb8" md5="f446c1ccb6c8c3a4c16e092d2fd64c70" sha1="182dec32037397014a62f4f3269f5b1470c6b891"/>
+		<rom name="thief89\thief_80_81.txt" size="1513" crc="e83f371d" md5="685a75c36da111fa7b427e908a426b38" sha1="2e3464dcb8ae4fd09fb5fe428a3e5cc3f49f46c9"/>
+	</game>
+	<game name="Five Card Draw Video Poker (1998)(Mettler, Adrian)">
+		<description>Five Card Draw Video Poker (1998)(Mettler, Adrian)</description>
+		<rom name="poker.81" size="5849" crc="8ba90052" md5="dd25c8e7f831431e7a095ae3e2cfc462" sha1="cb07fbaa3ea6aa574ad33a0ef52d2c860f464b3a"/>
+	</game>
+	<game name="Flag Capture-TI (1992)(Ace Technologies)">
+		<description>Flag Capture-TI (1992)(Ace Technologies)</description>
+		<rom name="flag-ti.81" size="4193" crc="2a88d5b5" md5="cf16cce07c5cfd430869ab45d25fb358" sha1="5de7bcefc199705b9ae77c8567460d1c0c1a47c0"/>
+	</game>
+	<game name="Formel 1 Racing (2000)(Wersten, Bengt - Jefa)">
+		<description>Formel 1 Racing (2000)(Wersten, Bengt - Jefa)</description>
+		<rom name="formel1.81" size="1962" crc="c693ea88" md5="09de1d84a71f7cac190271eaedde211a" sha1="6bb337b8099b22d518dbc0e0e278f373dcc223d7"/>
+	</game>
+	<game name="Greyhound Racing (2000)(Wersten, Bengt - Jefa)">
+		<description>Greyhound Racing (2000)(Wersten, Bengt - Jefa)</description>
+		<rom name="ghound.81" size="1390" crc="1a1ea4ae" md5="38d5f08abe28f68d56cd86606b13f538" sha1="feba20104be25d0dd1c08bbccdcc9ec5ff8c0110"/>
+	</game>
+	<game name="Guessing 81 (2000)(Wersten, Bengt - Jefa)">
+		<description>Guessing 81 (2000)(Wersten, Bengt - Jefa)</description>
+		<rom name="guess81.81" size="621" crc="7941b8e6" md5="b90ce30171c61729eb87a085f2ce629b" sha1="4a0a28ac3597c4badf995e3baf32d8ca51bec012"/>
+	</game>
+	<game name="Guessing Game (1998)(Brecht, Dan)">
+		<description>Guessing Game (1998)(Brecht, Dan)</description>
+		<rom name="guessing.81" size="638" crc="d40038f0" md5="47d52733fcba532b291b288e0abc57e1" sha1="9ea08814ed1cff723ced2fad737761643677ba68"/>
+	</game>
+	<game name="GunFire v2.1 (1997)(Liljenberg, Peter)">
+		<description>GunFire v2.1 (1997)(Liljenberg, Peter)</description>
+		<rom name="gunfire.81" size="4254" crc="b2498067" md5="2c6965159455c9b20b484dbc782dfe48" sha1="e1b20ac66d7f4aafbc87a20bb2f854b99b50aa98"/>
+	</game>
+	<game name="Illusiat TI-81 Remake (2008)(Omnimaga)">
+		<description>Illusiat TI-81 Remake (2008)(Omnimaga)</description>
+		<rom name="illusiat81.gif" size="1188" crc="7ed677fd" md5="da1fdb26b5a7c14e1a390919be21009a" sha1="32ec9c4ea4c7cd092d412f706f77e99ac2984b92"/>
+		<rom name="illusiat81battle.gif" size="1185" crc="58babdce" md5="c65ecfd4cc9465ded3c178371be5fcfc" sha1="24a79529119af144fec0ec51b184096e4e805abb"/>
+		<rom name="illusiat81title.gif" size="1502" crc="4de81cc8" md5="26b728eb56e0cb0a131573df3b2831ba" sha1="7837d8ecfd38fb9414f0e1b8dbae535b92d7f919"/>
+		<rom name="readme.txt" size="15962" crc="2e53a845" md5="4d6859274b74221b3baf390cd3328a1c" sha1="f947bb26f01125d2a999bfeb4b7c7a45ce4d04e3"/>
+		<rom name="Source_Code.txt" size="6756" crc="c47cf92c" md5="2e9c732ed428ee9728f44a8ba5aa28de" sha1="c99ee93f18e06532743de6589006399cd5b34632"/>
+	</game>
+	<game name="Jack v1.0 (2002)(Rini, Paul)">
+		<description>Jack v1.0 (2002)(Rini, Paul)</description>
+		<rom name="jack81.81" size="813" crc="01a6d80f" md5="280cd15106ccd291278d12b4b48ff341" sha1="746551a6be26c0cb4e67113b6374d080fbe6b76f"/>
+	</game>
+	<game name="Lottery (1997)(-)">
+		<description>Lottery (1997)(-)</description>
+		<rom name="lottery.81" size="1719" crc="772d6f1f" md5="e7905059e00232f9079d47a6f4fecce1" sha1="3f449206cc523789830f926fb4052e8a28dab87f"/>
+	</game>
+	<game name="Mega Man 81 (1998)(Jaklitsch, Dave)">
+		<description>Mega Man 81 (1998)(Jaklitsch, Dave)</description>
+		<rom name="mm81.81" size="5363" crc="3783ddc2" md5="af9dbcf8c3fe28bf992b3cc207112d89" sha1="837f580d18eb5896d38e1ef05f77f3624858107e"/>
+	</game>
+	<game name="Miniature Golf (1997)(Gardner, Robert)">
+		<description>Miniature Golf (1997)(Gardner, Robert)</description>
+		<rom name="mini.81" size="2198" crc="806badfd" md5="0b48c6d8d8ea77bd58a887dac9225cdb" sha1="aa07b3af8d29bca96646f5342116e9e07004e42d"/>
+	</game>
+	<game name="Nick Games! (1998)(Brown, Nick)">
+		<description>Nick Games! (1998)(Brown, Nick)</description>
+		<rom name="nickgames.81" size="1900" crc="d91788f7" md5="6f7cfca4b2c73cadaec96c324078869d" sha1="20475185b82b36eea239ba39e78c22f49d97d3c3"/>
+	</game>
+	<game name="No Cash (1998)(Peterson, Daniel)">
+		<description>No Cash (1998)(Peterson, Daniel)</description>
+		<rom name="nocash.81" size="2966" crc="b4acc767" md5="baa109a04fba4709ee3b65d41a1faa70" sha1="8a0e78d898315f570d85a78899dc3eb23b0a4752"/>
+	</game>
+	<game name="Number Guessing Game (1997)(-)">
+		<description>Number Guessing Game (1997)(-)</description>
+		<rom name="guess.81" size="407" crc="a0b37fac" md5="91eb61133084f65fe7b3195a4324fabc" sha1="33a8bd0ceacb655bc5b81be1f9cf4f40957ee8fe"/>
+	</game>
+	<game name="Number Guessing Game (1999)(O'Gorman, James)">
+		<description>Number Guessing Game (1999)(O'Gorman, James)</description>
+		<rom name="size.81" size="732" crc="41614f80" md5="fa0bc66ee93b556efb1777fc7dcb1763" sha1="cc76ae9c6d295606b9f6c6df848f2ea725b68cba"/>
+	</game>
+	<game name="One Armed Bandit v2.18 (1998)(Peterson, Daniel)">
+		<description>One Armed Bandit v2.18 (1998)(Peterson, Daniel)</description>
+		<rom name="bandit.81" size="2211" crc="166e518d" md5="9d096182e85ac80151a3bfa082496aec" sha1="ac54f6559d2dd2b60cac0146e0285056570b2e0e"/>
+	</game>
+	<game name="Pay Up (1998)(-)">
+		<description>Pay Up (1998)(-)</description>
+		<rom name="payup.81" size="835" crc="8b872272" md5="558c2e3c165776ed0ad63fd6af62d5ab" sha1="1a7385ff194dd30362524af386206d2b39c7893c"/>
+	</game>
+	<game name="Poker v1.4 (1997)(-)">
+		<description>Poker v1.4 (1997)(-)</description>
+		<rom name="poker14.81" size="4042" crc="62a6bc72" md5="e59d0057d89146832d4373d1aeac6801" sha1="1979a3827e6640c4cdd68a2bf509f5fc21edb8ac"/>
+	</game>
+	<game name="Quest (1998)(Steinmetz, Nicki)">
+		<description>Quest (1998)(Steinmetz, Nicki)</description>
+		<rom name="quest.81" size="4467" crc="3bbed52c" md5="3e80f034f943b03ac11f9b35aad3300f" sha1="58ff96609050c9366a1605761283d7645d9c2988"/>
+	</game>
+	<game name="Randomize Game v2.0 (1998)(MegaC)">
+		<description>Randomize Game v2.0 (1998)(MegaC)</description>
+		<rom name="rand2.81" size="3350" crc="e33e0728" md5="a0b41ebc59e0c42cc87724f0d1cffff2" sha1="d9d4aa7eac80b7ed7abe50d264bb9b56ddb5287a"/>
+	</game>
+	<game name="Roulette (1997)(Matt)">
+		<description>Roulette (1997)(Matt)</description>
+		<rom name="roulette.81" size="2549" crc="f3e9a72d" md5="ee26d99c12a35df6519aa8663b2403fa" sha1="ae96e20ddadab3071059c55275aae5a21256365d"/>
+	</game>
+	<game name="Simburb (2000)(van der Kolk, Michael)">
+		<description>Simburb (2000)(van der Kolk, Michael)</description>
+		<rom name="addit.txt" size="768" crc="a0f5bf9f" md5="d6c0a201c15d4c539c79e80c3a8fd590" sha1="b4ebe2b1f424fd0a4230713332232fb183528dcf"/>
+		<rom name="drawit.txt" size="1152" crc="805dce97" md5="7597ab33dbe9c2ec85393ab507a77acf" sha1="244e9e6327d0d9aa6b3b2b9cc96eca1eb3083dde"/>
+		<rom name="drawmap.txt" size="768" crc="7112c40a" md5="4bf5acaba7edc4741ab303aa92053c81" sha1="c138d7c3cddedfe73287e777d78d3685ca07f9d5"/>
+		<rom name="findit.txt" size="1024" crc="e681270c" md5="6cf2bdedc0ed1eb0a21677b71bf23631" sha1="ccea5d209bf471451b3cd7554e5415c98266e675"/>
+		<rom name="README.txt" size="2048" crc="35984c03" md5="eb5cb3689d7414f9fb21e126766de533" sha1="7c18db325b561aa3c45c5aac3424bea9dea1d7d5"/>
+		<rom name="simburb.txt" size="1408" crc="3dcc05d2" md5="6f0b2c2161ff111c2561a1f5569adef4" sha1="47477f7768b6649f9af916d73fc37b700927d020"/>
+		<rom name="simulate.txt" size="1536" crc="3a2872a7" md5="9a38910f607e00bb093b7412602ce22a" sha1="9b222bece56f315f3c93d1677f505439455c038b"/>
+		<rom name="stats.txt" size="768" crc="c836d164" md5="e7078648083d2ed6c6b749a3fcbd3802" sha1="8498739a0ed8506af4091b1d4b0fcce290e3b57f"/>
+		<rom name="work.txt" size="1024" crc="4669e3c4" md5="8a5c9095ee21eb3ae59d0a99d8768bc2" sha1="677dc523df1b8ed773ae8c53c3ac74d5e2304b20"/>
+	</game>
+	<game name="Skeetball v1.7 (1997)(Gardner, Robert)">
+		<description>Skeetball v1.7 (1997)(Gardner, Robert)</description>
+		<rom name="skeetbal.81" size="2805" crc="ed80263a" md5="c0bf0ee50bf6c1b3263dba09f7c93ee0" sha1="f50e701fb214813e7975a659ffd0673be37c5b4b"/>
+	</game>
+	<game name="Slot Machine v2.0 (1997)(Cybriwsky, Adrian)">
+		<description>Slot Machine v2.0 (1997)(Cybriwsky, Adrian)</description>
+		<rom name="slots.81" size="9153" crc="a8c2b47c" md5="42cf58acf8d6f50ad488dc056f5e5019" sha1="5443e5a52861874b4c01fa755249479596ae2c0c"/>
+	</game>
+	<game name="Soccer 81 (2000)(Wersten, Bengt - Jefa)">
+		<description>Soccer 81 (2000)(Wersten, Bengt - Jefa)</description>
+		<rom name="soccer.81" size="765" crc="74dce665" md5="1541a1dca462cd2c002d15ad78266e70" sha1="229ac9ac703787f8061120a4c0b17fd93ad3c687"/>
+	</game>
+	<game name="Stone, Scissor and Bag (2000)(Wersten, Bengt - Jefa)">
+		<description>Stone, Scissor and Bag (2000)(Wersten, Bengt - Jefa)</description>
+		<rom name="stone.81" size="941" crc="e6a6a6e1" md5="e3cbaefcca32505a40d2cbee579a2b28" sha1="66688bf9e54cbd1905499040315461b60b6c0bc5"/>
+	</game>
+	<game name="Sub Hunt (1997)(-)">
+		<description>Sub Hunt (1997)(-)</description>
+		<rom name="sub.81" size="4118" crc="0c36a241" md5="41399279837e517a8f2a45a7960bc432" sha1="17b8077f94c2c71e31a456021e2c3bd6290f647e"/>
+	</game>
+	<game name="Super Medieval Fighter (1997)(Gardner, Robert)">
+		<description>Super Medieval Fighter (1997)(Gardner, Robert)</description>
+		<rom name="fight.81" size="5151" crc="991339a3" md5="f308517719acde33a2587df7c3d3fb88" sha1="bf6a5f77bd4b886105536f737963befb43bc781b"/>
+	</game>
+	<game name="Three's a Match! v1.1 (1998)(TI Software)">
+		<description>Three's a Match! v1.1 (1998)(TI Software)</description>
+		<rom name="match3.81" size="3008" crc="23c0f289" md5="392171d986c79602d2a69143bd420369" sha1="a1da92d4b6830ac5192bc62404e41029cd345f9f"/>
+	</game>
+	<game name="TIC-TAC-TOE (2000)(Wersten, Bengt - Jefa)">
+		<description>TIC-TAC-TOE (2000)(Wersten, Bengt - Jefa)</description>
+		<rom name="tictactoe.81" size="1747" crc="611bc85c" md5="6acb8a27cff404fa1c363ec5ef1854d1" sha1="40f9d207d0db53aa4ee6eee3787f2ee85f435018"/>
+	</game>
+	<game name="Tic-Tac-Toe 81 v2.1 (1998)(Kuboviak, Chad)">
+		<description>Tic-Tac-Toe 81 v2.1 (1998)(Kuboviak, Chad)</description>
+		<rom name="tic.81" size="4712" crc="55224a8d" md5="8ea0166edcdb350f2bd44c2aa6fdb7ca" sha1="b40e08e05d4c5fefa7f3b0ac40de50d444c2ab52"/>
+	</game>
+	<game name="Tmando2 (1997)(-)">
+		<description>Tmando2 (1997)(-)</description>
+		<rom name="tmando2.81" size="3534" crc="05579b9f" md5="d4bfe0848647de35e33e0e318bb2d7f6" sha1="fdde361dbde1f25b643489295bc9e40315199c97"/>
+	</game>
+</datafile>

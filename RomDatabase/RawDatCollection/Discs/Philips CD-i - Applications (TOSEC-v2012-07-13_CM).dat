@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Philips CD-i - Applications</name>
+		<description>Philips CD-i - Applications (TOSEC-v2012-07-13)</description>
+		<category>TOSEC-ISO</category>
+		<version>2012-07-13</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="CDI 450 - Tutorial Disc (1994)(Philips)(EU)(M6)[!]">
+		<description>CDI 450 - Tutorial Disc (1994)(Philips)(EU)(M6)[!]</description>
+		<rom name="CDI 450 - Tutorial Disc (1994)(Philips)(EU)(M6)[!].cue" size="139" crc="44181152" md5="89449714345864cc89ff688e221422c8" sha1="4becf3b0ad3b9de43967651950a16761f35d23c8"/>
+		<rom name="CDI 450 - Tutorial Disc (1994)(Philips)(EU)(M6)[!].iso" size="532904400" crc="59163833" md5="b706cb7d4ccb69fb479f8cd9c4fa4c90" sha1="71b9e82245ce904a6da7522c5b41163fce954aed"/>
+	</game>
+	<game name="CDI 470 - Tutorial Disc (1995)(Philips)(EU)(M11)">
+		<description>CDI 470 - Tutorial Disc (1995)(Philips)(EU)(M11)</description>
+		<rom name="CDI 470 - Tutorial Disc (1995)(Philips)(EU)(M11).cue" size="137" crc="4f24043a" md5="94e10da59ab1ad2940ec629a1ae34903" sha1="d4ba2fff06ae0d4e1448874582be45a1324559e1"/>
+		<rom name="CDI 470 - Tutorial Disc (1995)(Philips)(EU)(M11).iso" size="564127200" crc="732d62cc" md5="9019a1367b916ace7338fc8e04ff0223" sha1="f32555c5feb7a3bcd15be8c23f4f925d09d27aed"/>
+	</game>
+	<game name="Getting Ahead - Making Time (1994)(Temple Millar Multimedia - Xdra)(EU)[!][CD-i-PC]">
+		<description>Getting Ahead - Making Time (1994)(Temple Millar Multimedia - Xdra)(EU)[!][CD-i-PC]</description>
+		<rom name="Getting Ahead - Making Time (1994)(Temple Millar Multimedia - Xdra)(EU)(Track 1 of 2)[!][CD-i-PC].iso" size="261958704" crc="1e4655d5" md5="006657c613ddce75dcb58ea540c8645e" sha1="17e9bbbcafb1ad6b0f3936889ce16518fd147257"/>
+		<rom name="Getting Ahead - Making Time (1994)(Temple Millar Multimedia - Xdra)(EU)(Track 2 of 2)[!][CD-i-PC].wav" size="376795148" crc="3576d879" md5="d2fa76c544f819f5ddbe7e742603b746" sha1="1dee9a9ded9c2657c3acd56c5bf4f5902e8ba0e8"/>
+		<rom name="Getting Ahead - Making Time (1994)(Temple Millar Multimedia - Xdra)(EU)[!][CD-i-PC].cue" size="363" crc="3a4f2123" md5="3ed5329375d9ae86b331b9b4bab4d81a" sha1="d84882e4e5eecde8d180a4bdc9126a8d662484e1"/>
+	</game>
+	<game name="Help! Opleiding Bedrijfshulpverlener voor de supermarkt (1996)(-)(NL)(Disc 1 of 3)[Inleiding EHBO2 Toets]">
+		<description>Help! Opleiding Bedrijfshulpverlener voor de supermarkt (1996)(-)(NL)(Disc 1 of 3)[Inleiding EHBO2 Toets]</description>
+		<rom name="Help! Opleiding Bedrijfshulpverlener voor de supermarkt (1996)(-)(NL)(Disc 1 of 3)[Inleiding EHBO2 Toets].cue" size="194" crc="7782318a" md5="40af00b69ea1e7de7a32b12fb6e06b1a" sha1="fa8234efb3732cdf995a1f3f2267b2bf827f3e69"/>
+		<rom name="Help! Opleiding Bedrijfshulpverlener voor de supermarkt (1996)(-)(NL)(Disc 1 of 3)[Inleiding EHBO2 Toets].iso" size="505919904" crc="0991cbf6" md5="15289b75adf5b32ce41d0bfd4de6f869" sha1="dd5f4ddaec8385516818b373c921e9726a7979fe"/>
+	</game>
+	<game name="Help! Opleiding Bedrijfshulpverlener voor de supermarkt (1996)(-)(NL)(Disc 2 of 3)[EHBO1]">
+		<description>Help! Opleiding Bedrijfshulpverlener voor de supermarkt (1996)(-)(NL)(Disc 2 of 3)[EHBO1]</description>
+		<rom name="Help! Opleiding Bedrijfshulpverlener voor de supermarkt (1996)(-)(NL)(Disc 2 of 3)[EHBO1].cue" size="178" crc="d75c8364" md5="f674573dc7a50858ca4e30496cc114d8" sha1="0f12715a57b4e519bcbd81f71bc3730f184a7d1c"/>
+		<rom name="Help! Opleiding Bedrijfshulpverlener voor de supermarkt (1996)(-)(NL)(Disc 2 of 3)[EHBO1].iso" size="536084304" crc="27738f17" md5="a18690a61933ef83d05a305648abaa06" sha1="b295bb6ce86d9f37d1905874ca80e05a48e02963"/>
+	</game>
+	<game name="Help! Opleiding Bedrijfshulpverlener voor de supermarkt (1996)(-)(NL)(Disc 3 of 3)[Brand Ontruiming]">
+		<description>Help! Opleiding Bedrijfshulpverlener voor de supermarkt (1996)(-)(NL)(Disc 3 of 3)[Brand Ontruiming]</description>
+		<rom name="Help! Opleiding Bedrijfshulpverlener voor de supermarkt (1996)(-)(NL)(Disc 3 of 3)[Brand Ontruiming].cue" size="189" crc="98e5ae6b" md5="7d630584aec4226d954a817b0b1e21f1" sha1="42add5d5de1cf79814349049c3da1529c6ac9efc"/>
+		<rom name="Help! Opleiding Bedrijfshulpverlener voor de supermarkt (1996)(-)(NL)(Disc 3 of 3)[Brand Ontruiming].iso" size="540670704" crc="3ab4fb4d" md5="f0a890cc316654e6341b7b8df1685325" sha1="29131f3eff2df9e7ce14301fdae99d6a285f3f8b"/>
+	</game>
+	<game name="WEB-i (1996)(Philips)(US)">
+		<description>WEB-i (1996)(Philips)(US)</description>
+		<rom name="WEB-i (1996)(Philips)(US).cue" size="114" crc="b743e207" md5="30c30320cace03209bfe940367ce2ce6" sha1="ef58ae8638a534dbc8822ae5ebfd81c0b527467b"/>
+		<rom name="WEB-i (1996)(Philips)(US).iso" size="597643200" crc="3b548b9e" md5="86adbd92fc7563f522d40fee65ccf8c8" sha1="82e472c81b4a949c8269fc1905f2c94f2a830576"/>
+	</game>
+</datafile>

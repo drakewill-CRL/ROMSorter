@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Atari ST - Collections - Bitz</name>
+		<description>Atari ST - Collections - Bitz (TOSEC-v2013-12-13)</description>
+		<category>TOSEC</category>
+		<version>2013-12-13</version>
+		<author>Keili</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Bitz PD Disk 143 (19xx)(Bitz Computers)">
+		<description>Bitz PD Disk 143 (19xx)(Bitz Computers)</description>
+		<rom name="Bitz PD Disk 143 (19xx)(Bitz Computers).st" size="737280" crc="65bf6afa" md5="903ee49d58664dd64fd978a73b1ec4a0" sha1="f1500ce69d421187e2a4bddbb78096e5a04ddac4"/>
+	</game>
+	<game name="Bitz PD Disk 247 (19xx)(Bitz Computers)">
+		<description>Bitz PD Disk 247 (19xx)(Bitz Computers)</description>
+		<rom name="Bitz PD Disk 247 (19xx)(Bitz Computers).st" size="839680" crc="f4fcfbbd" md5="21d134a092d27c9e625dac6045d55840" sha1="1b849a9d3c9175c79d6c2489b58e3a9c78eaedea"/>
+	</game>
+	<game name="Bitz PD Disk 303 (19xx)(Bitz Computers)">
+		<description>Bitz PD Disk 303 (19xx)(Bitz Computers)</description>
+		<rom name="Bitz PD Disk 303 (19xx)(Bitz Computers).st" size="819200" crc="ac6b36c1" md5="154d4ecec819f55eb26d0e7b19cb46fc" sha1="9be4615d6b1d96daa2a761b3ae1cb9a2d05ad599"/>
+	</game>
+	<game name="Bitz PD Disk 307 (19xx)(Bitz Computers)">
+		<description>Bitz PD Disk 307 (19xx)(Bitz Computers)</description>
+		<rom name="Bitz PD Disk 307 (19xx)(Bitz Computers).st" size="737280" crc="da6a6149" md5="7fd5e782233039c7c0c53ce6cd365abe" sha1="e1a526af246bc52d8a47337ed1764ef7eac74b39"/>
+	</game>
+	<game name="Bitz PD Disk 315 (19xx)(Bitz Computers)">
+		<description>Bitz PD Disk 315 (19xx)(Bitz Computers)</description>
+		<rom name="Bitz PD Disk 315 (19xx)(Bitz Computers).st" size="737280" crc="7dc61d18" md5="7637f5efb24e0210cef79a1c95309123" sha1="2b61658aadfbdf8c4ed3dd993e44882dab8d7a47"/>
+	</game>
+</datafile>

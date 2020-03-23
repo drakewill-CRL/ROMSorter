@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>SNK Neo-Geo CD - Samplers - [Multipart]</name>
+		<description>SNK Neo-Geo CD - Samplers - [Multipart] (TOSEC-v2012-09-08)</description>
+		<category>TOSEC-ISO</category>
+		<version>2012-09-08</version>
+		<author>Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Frog Feast (demo) (2005-04-24)(RasterSoft)(PD)">
+		<description>Frog Feast (demo) (2005-04-24)(RasterSoft)(PD)</description>
+		<rom name="063_FROG.FIX" size="131072" crc="cdb8046b" md5="d311dd9a8312e801a1d583d7c7b41172" sha1="7e00b3ccae32073cbaf938ff6aeaeb2490ce1a08"/>
+		<rom name="063_FROG.PCM" size="1048576" crc="ec001618" md5="3104634784537096a5bba4ed66a2ee99" sha1="359e831a7aa4913dd13be727b1bf3c86352d2b19"/>
+		<rom name="063_FROG.PRG" size="524288" crc="9437635c" md5="1e655e6d1f720015e1b7c9e59d4b34de" sha1="4c7a42038c6e96305ba40a25df1e65c4d7ed8f17"/>
+		<rom name="063_FROG.SPR" size="1048576" crc="075018b0" md5="bd28731505f6ef40a078617c0f50b191" sha1="195f3c8aa4f1332fc1132d2b0dde8f2c8b909a02"/>
+		<rom name="063_FROG.Z80" size="65536" crc="51c4ea52" md5="8539492d40c96cc71fb5762e6c41ab46" sha1="c09ac8a49d792f022b406370d025b2fb9386947d"/>
+		<rom name="ABS.TXT" size="30" crc="c4ad414a" md5="f0d91ae03492c0531a9f960c45588112" sha1="ba0101f87b7bb7455a093e8456f8b7b18a961d70"/>
+		<rom name="BIB.TXT" size="35" crc="c7a66a0b" md5="0c6df774d70673ea8e3f29edf674e413" sha1="71a22c0052bb08124949f6f4cadd83a0f6ddf906"/>
+		<rom name="CPY.TXT" size="29" crc="20d6116b" md5="4ff22328fe4b77ad20e302dba0bf46ad" sha1="ee9f35d7452860827b01a0f93e59bd78ab9e157e"/>
+		<rom name="IPL.TXT" size="91" crc="0ce0fd0e" md5="df5d6a6bd9b6db7942d55e2dab64e4b9" sha1="725471a2b4e8e494c8521dbe5bf3caee9f9b0d1a"/>
+	</game>
+</datafile>

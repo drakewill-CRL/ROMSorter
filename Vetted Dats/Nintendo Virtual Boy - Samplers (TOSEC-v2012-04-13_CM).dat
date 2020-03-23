@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo Virtual Boy - Samplers</name>
+		<description>Nintendo Virtual Boy - Samplers (TOSEC-v2012-04-13)</description>
+		<category>TOSEC</category>
+		<version>2012-04-13</version>
+		<author>Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="BLOX 2 (demo) (2008)(Radke, Christian)(M6)(PD)">
+		<description>BLOX 2 (demo) (2008)(Radke, Christian)(M6)(PD)</description>
+		<rom name="BLOX 2 (demo) (2008)(Radke, Christian)(M6)(PD).bin" size="2097152" crc="1ef24679" md5="23aefdd2f8f3da5d15feaf240cff0eac" sha1="567b8b9e9527e205fcedb59e917c82a773d5282a"/>
+	</game>
+	<game name="Capitan Sevilla II (demo) (2010)(Garcera, Ruben - RunnerPack - Skiles, Collin)(PD)">
+		<description>Capitan Sevilla II (demo) (2010)(Garcera, Ruben - RunnerPack - Skiles, Collin)(PD)</description>
+		<rom name="Capitan Sevilla II (demo) (2010)(Garcera, Ruben - RunnerPack - Skiles, Collin)(PD).bin" size="524288" crc="06ed52da" md5="b3311b03dea2b9a9d7c651cfdcb5bef4" sha1="3392f7fd8d932292e6ddc87b31fc8e4d4bdaeb63"/>
+	</game>
+</datafile>

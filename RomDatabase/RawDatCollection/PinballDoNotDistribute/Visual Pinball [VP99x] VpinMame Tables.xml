@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Visual Pinball [VP99x] VpinMame Tables</name>
+		<description>Visual Pinball [VP99x] VpinMame Tables</description>
+		<category>Visual Pinball [VP99x] VpinMame Tables</category>
+		<version>1.0</version>
+		<date>2020-01-01</date>
+		<author>Yori Yoshizuki</author>
+		<email>-insert email-</email>
+		<homepage>Yori Yoshizuki</homepage>
+		<url>https://yoshizuki.webs.com</url>
+		<comment>-insert comment-</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Conan (Batch)(1.0)[VP99x][DT WS Batch MOD][Rolling Stones v1.01's JPSalas VP9 conversion]">
+		<description>Conan (Batch)(1.0)[VP99x][DT WS Batch MOD][Rolling Stones v1.01's JPSalas VP9 conversion]</description>
+		<rom name="Conan DT Batch_MOD 1.0.vpt" size="13455360" crc="b1743bbf" sha1="fc60e6630bcc66f537986a15a6002e1f1e5abaf4"/>
+		<rom name="conan-vp9-ws.jpg" size="786857" crc="a321585c" sha1="56e6e71909d167b6bbe406123ee206e3252422c1"/>
+	</machine>
+	<machine name="Conan (Batch)(1.0)[VP99x][FS Batch MOD][Rolling Stones v1.01's JPSalas VP9 conversion]">
+		<description>Conan (Batch)(1.0)[VP99x][FS Batch MOD][Rolling Stones v1.01's JPSalas VP9 conversion]</description>
+		<rom name="Conan FS Batch_MOD 1.0.vpt" size="13463552" crc="ac13aa6b" sha1="d9a2c614c3016ce074e81d63d4bf2aa38c0f8fc0"/>
+		<rom name="conan-vp9-fs.jpg" size="1561871" crc="3d979901" sha1="918a142c2c8547b748ccc918b64ab7857d3ce8df"/>
+	</machine>
+	<machine name="Devil's Advocate, The (Simpson Saga) (Masalaja)(1.0)[VP99x]">
+		<description>Devil's Advocate, The (Simpson Saga) (Masalaja)(1.0)[VP99x]</description>
+		<rom name="devil advocate.vpt" size="45408256" crc="055e2947" sha1="68a440beaf05a1bb6c3edaf3684c09dd076026ce"/>
+		<rom name="Devil's Advocate, The (Simpson Saga) screenshot.png" size="1509517" crc="020ef219" sha1="81778b02d48a8a8b96c349b1dee549b34abce4ce"/>
+		<rom name="dvlsdre.zip" size="12112" crc="dd240efe" sha1="3c13814c2eb6575dc176b6b6161fe7b084a86f9f"/>
+	</machine>
+	<machine name="Funhouse Slappy version (masalaja)(1.0)[VP99x]">
+		<description>Funhouse Slappy version (masalaja)(1.0)[VP99x]</description>
+		<rom name="fh_905h.zip" size="443097" crc="3cf6175e" sha1="649c92318f6bfc6b060c7c21e4dd7be4badbc33d"/>
+		<rom name="Slappy version.vpt" size="46018560" crc="7e275c83" sha1="bc2ed1f4423ff0128a9925739b3db4c5aa9d0859"/>
+		<rom name="subvbbb.png" size="1441222" crc="ce09a5aa" sha1="6e7a4276b6d6ebf1826d387035fec75fdf4f4527"/>
+	</machine>
+	<machine name="Mafia, The (Masalaja)(1.2)[VP99x][Mode Classic]">
+		<description>Mafia, The (Masalaja)(1.2)[VP99x][Mode Classic]</description>
+		<rom name="Mafia, The (Masalaja)(1.0)[VP99x]\The Mafia.vpt" size="44969984" crc="9cbc58f4" sha1="1c3379e99c2653dab83ea1a28920ecd51be547d2"/>
+		<rom name="Mafia, The (Masalaja)(1.1)[VP99x]\The Mafia.vpt" size="44916736" crc="1c753634" sha1="416ea11632bd3fccc39071033ef79ac792466832"/>
+		<rom name="Mafia, The (Masalaja)(1.2)[VP99x]\The Mafia.vpt" size="41201664" crc="88a3d40c" sha1="9ef6db5b3ef365e2af7cc0928ebdd3995fd79a1b"/>
+		<rom name="Mafia, The screenshot.png" size="1406266" crc="b37627a5" sha1="5ae6522deb1520958c623a2e18c0c0409b99f5a0"/>
+		<rom name="rom\superman.zip" size="5938" crc="7b4aa20d" sha1="74869c658f718de447b4dbd005131924bba1f701"/>
+	</machine>
+	<machine name="Pajares, Esteso &amp; Compania (Masalaja)(1.0)[VP99x]">
+		<description>Pajares, Esteso &amp; Compania (Masalaja)(1.0)[VP99x]</description>
+		<rom name="Pajares, Esteso &amp; Compania (Masalaja)(1.0)[VP99x]\corsario.zip" size="207649" crc="56ab10d9" sha1="64391abb7bfb1519f00bbe630ab7ee7447ae6708"/>
+		<rom name="Pajares, Esteso &amp; Compania (Masalaja)(1.0)[VP99x]\Pajares,Esteso &amp; Compañia screenshot.png" size="2091737" crc="3a445ae0" sha1="e6aab3a528799f8461174060f87f1aa6952f3694"/>
+		<rom name="Pajares, Esteso &amp; Compania (Masalaja)(1.0)[VP99x]\Pajares,Esteso &amp; Compañia.vpt" size="142114816" crc="5bdeef83" sha1="f1edce27759cf686ccc92d9a4a445817ee183a83"/>
+	</machine>
+	<machine name="Paperboy (Masalaja)(1.0)[VP99x]">
+		<description>Paperboy (Masalaja)(1.0)[VP99x]</description>
+		<rom name="Paperboy (Masalaja)(1.0)[VP99x]\Paperboy screenshot.png" size="1577520" crc="da11e3d2" sha1="bde33213d5228a746e32ad1fc2de4cf4f4acc698"/>
+		<rom name="Paperboy (Masalaja)(1.0)[VP99x]\Paperboy.vpt" size="81358848" crc="0dc62fdc" sha1="c2cb9a73919543e0493721c0af1e2a039703e10d"/>
+		<rom name="Paperboy (Masalaja)(1.0)[VP99x]\superman  paperboy.zip" size="5938" crc="7b4aa20d" sha1="74869c658f718de447b4dbd005131924bba1f701"/>
+	</machine>
+	<machine name="Power Blade (Masalaja)(1.0)[VP99x]">
+		<description>Power Blade (Masalaja)(1.0)[VP99x]</description>
+		<rom name="Power Blade (Masalaja)(1.0)[VP99x]\comet_l5.zip" size="42993" crc="b3648dac" sha1="2c015243dc09e659a1bb3663ccd3a86044ce5559"/>
+		<rom name="Power Blade (Masalaja)(1.0)[VP99x]\Power Blade screenshot.png" size="2293368" crc="58911954" sha1="3a5bfc546a76858b01fdee231b55e120d9640593"/>
+		<rom name="Power Blade (Masalaja)(1.0)[VP99x]\Power Blade.vpt" size="78417920" crc="1b450a7b" sha1="16ede522bbb8a177fa2c9578f3cabe7e8ee29954"/>
+	</machine>
+	<machine name="Sly Cooper (JPSalas, Masalaja)(1.0b)[VP99x][FullScreen + dB2S]">
+		<description>Sly Cooper (JPSalas, Masalaja)(1.0b)[VP99x][FullScreen + dB2S]</description>
+		<rom name="Music\dir.txt" size="32" crc="5b32e324" sha1="4a2dae3cc8079626692716e377f2d99247ed0a81"/>
+		<rom name="Music\SC_1.mp3" size="8829390" crc="f264a96a" sha1="e0d3210581eb75d45f2990e0d118874a79588978"/>
+		<rom name="Sly Cooper (JPSalas, Masalaja)(1.0b)[VP99x][FullScreen masalaja + dB2S]\Backglass.png" size="1157758" crc="4c66f8ee" sha1="75a79cc4af7da7a16c7b1fe138e98bf23a536454"/>
+		<rom name="Sly Cooper (JPSalas, Masalaja)(1.0b)[VP99x][FullScreen masalaja + dB2S]\sly cooper db2s screenshot.png" size="2114975" crc="a4d73d21" sha1="efe2069b9a494363f13e392098b642754d63d0ac"/>
+		<rom name="Sly Cooper (JPSalas, Masalaja)(1.0b)[VP99x][FullScreen masalaja + dB2S]\Sly_Cooper.vpt" size="10797056" crc="1331dd22" sha1="cb0e913a99d09ab3090dd5f4ac8baf5b9aec4a2f"/>
+		<rom name="Sly Cooper (JPSalas, Masalaja)(1.0b)[VP99x]\dollyptb.zip" size="5425" crc="6ac30937" sha1="3ef8146e62bd0d8e7a0d376839aca2ee2fd6d015"/>
+		<rom name="Sly Cooper (JPSalas, Masalaja)(1.0b)[VP99x]\Sly Cooper (JPSalas, masalaja)(1.0b)[VP99x].vpt" size="10797056" crc="19903dc2" sha1="43d11c8917bfc0952c7c6b0e6204403b5e8e6677"/>
+		<rom name="Sly Cooper (JPSalas, Masalaja)(1.0b)[VP99x]\sly cooper screenshot.png" size="1970448" crc="6b1304f4" sha1="5164aefa92fc9e0dea795f2dc39d11e34cd0efa5"/>
+	</machine>
+	<machine name="World of Hanna-Barbera, The (JPsalas, Masalaja)(1.0)[VP99x][Mode Desktop]">
+		<description>World of Hanna-Barbera, The (JPsalas, Masalaja)(1.0)[VP99x][Mode Desktop]</description>
+		<rom name="World of Hanna-Barbera, The (JPsalas, Masalaja)(1.0)[VP99x][Mode Desktop]\Music\H-B.mp3" size="2235562" crc="c3b852dd" sha1="59a26c3d95efce9de18907b393679043c6f6ec68"/>
+		<rom name="World of Hanna-Barbera, The (JPsalas, Masalaja)(1.0)[VP99x][Mode Desktop]\The World Of Hanna Barbera (Mode Deskop).vpt" size="40624128" crc="6b1597da" sha1="e67859dee9100ec3addf7fdb0c7695fc885cd00d"/>
+		<rom name="World of Hanna-Barbera, The (JPsalas, Masalaja)(1.0)[VP99x][Mode Desktop]\the-world-of-hanna-barbera-mode-deskop.png" size="1910194" crc="d9a18faa" sha1="731559c3722a1375a9cd70f8e9a3329808ef6853"/>
+	</machine>
+	<machine name="World of Hanna-Barbera, The (JPsalas, Masalaja)(1.0)[VP99x][Mode Gabinet][dB2S]">
+		<description>World of Hanna-Barbera, The (JPsalas, Masalaja)(1.0)[VP99x][Mode Gabinet][dB2S]</description>
+		<rom name="World of Hanna-Barbera, The (JPsalas, Masalaja)(1.0)[VP99x][Mode Gabinet][dB2S]\Music\H-B.mp3" size="2235562" crc="c3b852dd" sha1="59a26c3d95efce9de18907b393679043c6f6ec68"/>
+		<rom name="World of Hanna-Barbera, The (JPsalas, Masalaja)(1.0)[VP99x][Mode Gabinet][dB2S]\The World Of Hanna Barbera (Mode Gabinet).directb2s" size="1955978" crc="a9382cb7" sha1="1a5a6734c71bd119571b5d5b900c4cbb1c2f844c"/>
+		<rom name="World of Hanna-Barbera, The (JPsalas, Masalaja)(1.0)[VP99x][Mode Gabinet][dB2S]\The World Of Hanna Barbera (Mode Gabinet).vpt" size="40624128" crc="6b1597da" sha1="e67859dee9100ec3addf7fdb0c7695fc885cd00d"/>
+		<rom name="World of Hanna-Barbera, The (JPsalas, Masalaja)(1.0)[VP99x][Mode Gabinet][dB2S]\The World Of Hanna Barbera [Cabinet FS B2S] txt.txt" size="646" crc="fb5f67d7" sha1="13d4d886513e09068f1f34daba4d5b51c74de0cf"/>
+		<rom name="World of Hanna-Barbera, The (JPsalas, Masalaja)(1.0)[VP99x][Mode Gabinet][dB2S]\the-world-of-hanna-barbera-mode-gabinet.png" size="1485548" crc="73e6fdc2" sha1="e7a49b43035f770dab492cfc8d8c5a74a5325a63"/>
+	</machine>
+</datafile>

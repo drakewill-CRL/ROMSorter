@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>VTech Genius Leader Color - Educational</name>
+		<description>VTech Genius Leader Color - Educational (TOSEC-v2018-07-01)</description>
+		<category>TOSEC</category>
+		<version>2018-07-01</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Carlchen Clever - Wort- und Zahlenlabyrinth (199x)(Video Technology)(DE)">
+		<description>Carlchen Clever - Wort- und Zahlenlabyrinth (199x)(Video Technology)(DE)</description>
+		<rom name="Carlchen Clever - Wort- und Zahlenlabyrinth (199x)(Video Technology)(DE)" size="262144" crc="8ccf640b" md5="95dc37dc009fdefb1c2430a0e4dfdc76" sha1="0f327ad08f79c00dbd1865084f55f205d8da27de"/>
+	</game>
+	<game name="Fling - Die Buchstaben-Schleuder (199x)(Video Technology)(DE)">
+		<description>Fling - Die Buchstaben-Schleuder (199x)(Video Technology)(DE)</description>
+		<rom name="Fling - Die Buchstaben-Schleuder (199x)(Video Technology)(DE)" size="262144" crc="5288ce4b" md5="07b52950a984a7ce2d227b7bfbf2f8d6" sha1="1b0ed6df8e589a48579508b2df4bf1475d08aedb"/>
+	</game>
+	<game name="Tatort Umwelt (199x)(Video Technology)(DE)">
+		<description>Tatort Umwelt (199x)(Video Technology)(DE)</description>
+		<rom name="Tatort Umwelt (199x)(Video Technology)(DE)" size="262144" crc="8d811939" md5="39e13705175b274671f6bffb364a66ef" sha1="3b1aacfbebc84598daaae1d06c103ee3e1bd6db6"/>
+	</game>
+	<game name="Zahlenknacker (199x)(Video Technology)(DE)">
+		<description>Zahlenknacker (199x)(Video Technology)(DE)</description>
+		<rom name="Zahlenknacker (199x)(Video Technology)(DE)" size="262144" crc="7f4c1f2d" md5="00d31916b1b22d632d847fbcd65125fd" sha1="f275dc590927137d51576aae398bcb395d79f6c3"/>
+	</game>
+</datafile>

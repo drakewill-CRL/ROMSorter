@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega Mega-CD &amp; Sega CD - CD - Educational - [IMG]</name>
+		<description>Sega Mega-CD &amp; Sega CD - CD - Educational - [IMG] (TOSEC-v2013-04-10)</description>
+		<category>TOSEC-ISO</category>
+		<version>2013-04-10</version>
+		<author>TOSEC-ISO: Trurip</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Compton's Interactive Encyclopedia Rev 19941003 (1994)(Sega)(US)">
+		<description>Compton's Interactive Encyclopedia Rev 19941003 (1994)(Sega)(US)</description>
+		<rom name="Compton's Interactive Encyclopedia Rev 19941003 (1994)(Sega)(US).ccd" size="935" crc="8c8ca8a1" md5="3899ab2ec79815bf011d8a30f15680f1" sha1="22c59cd9172051fad10f0e2e513b0fe555adf450"/>
+		<rom name="Compton's Interactive Encyclopedia Rev 19941003 (1994)(Sega)(US).img" size="383027904" crc="5cd91998" md5="198640dd4c321b52677c735db76b35eb" sha1="721486a4c1696bcdabf72325df84df2e894724c8"/>
+		<rom name="Compton's Interactive Encyclopedia Rev 19941003 (1994)(Sega)(US).sub" size="15633792" crc="edba134c" md5="796221a9066c8d86cc5474a64ff5e3a4" sha1="6a6e449c5a378807bb40c71cac6ee3967e59b1a3"/>
+	</game>
+	<game name="San Diego Zoo Presents The Animals!, The - A Multimedia Experience (1994)(Mindscape)(EU)(en)">
+		<description>San Diego Zoo Presents The Animals!, The - A Multimedia Experience (1994)(Mindscape)(EU)(en)</description>
+		<rom name="San Diego Zoo Presents The Animals!, The - A Multimedia Experience (1994)(Mindscape)(EU)(en).ccd" size="935" crc="79f8ed98" md5="1ddd8bca5ad69f0b609ed224882d0730" sha1="d5cd1f57f474191c72e8898dde9a3675a7a753c9"/>
+		<rom name="San Diego Zoo Presents The Animals!, The - A Multimedia Experience (1994)(Mindscape)(EU)(en).img" size="697746672" crc="55cfeb6e" md5="aab8223fb97f948ca312badec338a9b9" sha1="7d6ab8006fd76c86167a1f5c53c3d582b4e51f6c"/>
+		<rom name="San Diego Zoo Presents The Animals!, The - A Multimedia Experience (1994)(Mindscape)(EU)(en).sub" size="28479456" crc="fc2e633f" md5="3018471b101f6d776215274f2d24e472" sha1="81dd3ce5963683fc98db4d37ce30cce4968f4174"/>
+	</game>
+	<game name="San Diego Zoo Presents The Animals!, The - A True Multimedia Experience (1994)(Software Toolworks)(US)">
+		<description>San Diego Zoo Presents The Animals!, The - A True Multimedia Experience (1994)(Software Toolworks)(US)</description>
+		<rom name="San Diego Zoo Presents The Animals!, The - A True Multimedia Experience (1994)(Software Toolworks)(US).ccd" size="912" crc="72f33114" md5="231017e9c88c4414ad738809e1b06544" sha1="0ea5e2bcc134d422473716e8a9ab5fb2eb06b3b1"/>
+		<rom name="San Diego Zoo Presents The Animals!, The - A True Multimedia Experience (1994)(Software Toolworks)(US).img" size="697208064" crc="87e3402b" md5="89294a408064a113bc75a940da51b1ee" sha1="c80d00e924bf854f4cf6b6a407f1b78fa1a4f398"/>
+		<rom name="San Diego Zoo Presents The Animals!, The - A True Multimedia Experience (1994)(Software Toolworks)(US).sub" size="28457472" crc="6cf78196" md5="b83090c8a47d5ee131eb78f06c5de43f" sha1="cc66b43027cf5e52b19ae05bb3af546fff4c4900"/>
+	</game>
+</datafile>

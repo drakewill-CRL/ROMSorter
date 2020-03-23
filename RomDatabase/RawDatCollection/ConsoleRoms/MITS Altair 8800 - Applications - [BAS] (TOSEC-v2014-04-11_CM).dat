@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>MITS Altair 8800 - Applications - [BAS]</name>
+		<description>MITS Altair 8800 - Applications - [BAS] (TOSEC-v2014-04-11)</description>
+		<category>TOSEC</category>
+		<version>2014-04-11</version>
+		<author>TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="QD 8080 Assembler v1.7 (1999-01-24)(Durda, Frank)">
+		<description>QD 8080 Assembler v1.7 (1999-01-24)(Durda, Frank)</description>
+		<rom name="QD 8080 Assembler v1.7 (1999-01-24)(Durda, Frank).bas" size="15082" crc="35985fe9" md5="84fe8cf6fbda2abcb91d445a719574c0" sha1="0af4bc0ae4121da1bc9beb3259163c73b72913d0"/>
+	</game>
+	<game name="Recursive Budgeting Model (19xx)(Foster, Connie)">
+		<description>Recursive Budgeting Model (19xx)(Foster, Connie)</description>
+		<rom name="Recursive Budgeting Model (19xx)(Foster, Connie).bas" size="9600" crc="02435572" md5="33a0e0bbb92a4b56079a85909f24858b" sha1="5eed9be0a945b9034c8036041a110bcf29a4d1d7"/>
+	</game>
+</datafile>

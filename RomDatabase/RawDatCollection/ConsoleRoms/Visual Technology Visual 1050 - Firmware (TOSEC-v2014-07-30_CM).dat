@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Visual Technology Visual 1050 - Firmware</name>
+		<description>Visual Technology Visual 1050 - Firmware (TOSEC-v2014-07-30)</description>
+		<category>TOSEC</category>
+		<version>2014-07-30</version>
+		<author>Diaboł - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Cold Boot Loader v1.2 (1984)(Visual Technology)">
+		<description>Cold Boot Loader v1.2 (1984)(Visual Technology)</description>
+		<rom name="Cold Boot Loader v1.2 (1984)(Visual Technology).bin" size="8192" crc="46f847a7" md5="ac74d5a8dfb5e26362a4b9dfd57a90fc" sha1="374db7a38a9e9230834ce015006e2f1996b9609a"/>
+	</game>
+	<game name="Graphics Firmware v1.1 (1984)(Visual Technology)">
+		<description>Graphics Firmware v1.1 (1984)(Visual Technology)</description>
+		<rom name="Graphics Firmware v1.1 (1984)(Visual Technology).bin" size="8192" crc="c0502b66" md5="a4f311231cc03651e9aa4072d7561f23" sha1="bc0015f5b14f98110e652eef9f7c57c614683be5"/>
+	</game>
+</datafile>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Toshiba Pasopia - Games - [BIN]</name>
+		<description>Toshiba Pasopia - Games - [BIN] (TOSEC-v2019-12-18)</description>
+		<category>TOSEC</category>
+		<version>2019-12-18</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Golf, The (1982-07-28)(Micro Cabin Soft)(JP)[T-201]">
+		<description>Golf, The (1982-07-28)(Micro Cabin Soft)(JP)[T-201]</description>
+		<rom name="Golf, The (1982-07-28)(Micro Cabin Soft)(JP)[T-201].bin" size="32768" crc="1e4f5136" md5="011f496af5de6ade864eb2b7618581bb" sha1="05411e08f10d8e39749bd7f46fcca4c5f8c38244"/>
+	</game>
+	<game name="Pasopia Derby (1982)(Hudson Soft)(JP)[T-1030]">
+		<description>Pasopia Derby (1982)(Hudson Soft)(JP)[T-1030]</description>
+		<rom name="Pasopia Derby (1982)(Hudson Soft)(JP)[T-1030].bin" size="32768" crc="a1e356f7" md5="1369dc8252ab2e0143db63a908a0741a" sha1="5f80b5adc2ceb069949095a59de8e885bcf2749c"/>
+	</game>
+</datafile>

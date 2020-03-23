@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo Famicom &amp; Entertainment System - Firmware</name>
+		<description>Nintendo Famicom &amp; Entertainment System - Firmware (TOSEC-v2011-02-22)</description>
+		<category>TOSEC</category>
+		<version>2011-02-22</version>
+		<author>etabeta - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Game Genie v1.5A (19xx)(Galoob)(US)">
+		<description>Game Genie v1.5A (19xx)(Galoob)(US)</description>
+		<rom name="Game Genie v1.5A (19xx)(Galoob)(US).nes" size="24592" crc="4c514089" md5="7f98d77d7a094ad7d069b74bd553ec98" sha1="f430a0d752a9fa0c7032db8131f9090d18f71779"/>
+	</game>
+	<game name="Game Genie v1.5A (19xx)(Galoob)(US)[h2]">
+		<description>Game Genie v1.5A (19xx)(Galoob)(US)[h2]</description>
+		<rom name="Game Genie v1.5A (19xx)(Galoob)(US)[h2].nes" size="286880" crc="ea36c36d" md5="eb185373952939821900c03b970dcf7f" sha1="be7a14dc1475282de940ae1a791462928c3f5c14"/>
+	</game>
+	<game name="Game Genie v1.5A (19xx)(Galoob)(US)[h]">
+		<description>Game Genie v1.5A (19xx)(Galoob)(US)[h]</description>
+		<rom name="Game Genie v1.5A (19xx)(Galoob)(US)[h].nes" size="286736" crc="1454b0b9" md5="7b27cbee8c86427716d6b936ee65022d" sha1="d0f0527ec1d37921433e18b59e053a9eeec01d39"/>
+	</game>
+	<game name="Game Genie v1.5A (19xx)(Galoob)(US)[o]">
+		<description>Game Genie v1.5A (19xx)(Galoob)(US)[o]</description>
+		<rom name="Game Genie v1.5A (19xx)(Galoob)(US)[o].nes" size="40976" crc="b845a3f1" md5="daf91565851b71f14d058e82e0fa3699" sha1="1ec8b947a87d0163aca2bc947923e396aea4aea6"/>
+	</game>
+	<game name="Nintendo Demo Boy II (199x)(Nintendo)(US)[h][also known as Demo Vision, hacked to iNES]">
+		<description>Nintendo Demo Boy II (199x)(Nintendo)(US)[h][also known as Demo Vision, hacked to iNES]</description>
+		<rom name="Nintendo Demo Boy II (199x)(Nintendo)(US)[h][also known as Demo Vision, hacked to iNES].nes" size="24592" crc="b720624e" md5="fb629c4d20b105ab9a5dfdd031dc7b2d" sha1="4a90ce0a48b05edb5920590a6cc3a80c579803b8"/>
+	</game>
+	<game name="Nintendo Famicom Disk System BIOS (1984)(Nintendo)(JP)[h][b][hacked to iNES]">
+		<description>Nintendo Famicom Disk System BIOS (1984)(Nintendo)(JP)[h][b][hacked to iNES]</description>
+		<rom name="Nintendo Famicom Disk System BIOS (1984)(Nintendo)(JP)[h][b][hacked to iNES].nes" size="40976" crc="80cacdfb" md5="07e4d231b1d6c32c845372b75a415184" sha1="e63b1590dd2423c86b5b6b101e28ec1eefb7feb5"/>
+	</game>
+	<game name="Nintendo Famicom Disk System BIOS (1984)(Nintendo)(JP)[h][hacked to iNES]">
+		<description>Nintendo Famicom Disk System BIOS (1984)(Nintendo)(JP)[h][hacked to iNES]</description>
+		<rom name="Nintendo Famicom Disk System BIOS (1984)(Nintendo)(JP)[h][hacked to iNES].nes" size="40976" crc="5abc66f6" md5="694dbfdd196d3471ae3f2a6d8169a2a7" sha1="cd74242950148968c8b2fdd799bb674c8233fade"/>
+	</game>
+	<game name="Nintendo M82 BIOS (19xx)(Nintendo)(EU)[h][hacked to iNES]">
+		<description>Nintendo M82 BIOS (19xx)(Nintendo)(EU)[h][hacked to iNES]</description>
+		<rom name="Nintendo M82 BIOS (19xx)(Nintendo)(EU)[h][hacked to iNES].nes" size="24592" crc="9ef64390" md5="c9f3d5d6e24c02c3930afc7a3c72778c" sha1="4d7786106e6e550d993f20319428f27cae6ba998"/>
+	</game>
+	<game name="Pro Action Replay RevA (199x)(Datel)">
+		<description>Pro Action Replay RevA (199x)(Datel)</description>
+		<rom name="Pro Action Replay RevA (199x)(Datel).nes" size="40976" crc="f0ffa0a6" md5="69cb11aeebec785b3b6812977281684b" sha1="72957984d4cac4375e1067872bb7381afa307af8"/>
+	</game>
+	<game name="Pro Action Replay RevB v1.2 (199x)(Datel)">
+		<description>Pro Action Replay RevB v1.2 (199x)(Datel)</description>
+		<rom name="Pro Action Replay RevB v1.2 (199x)(Datel).nes" size="40976" crc="f2821cef" md5="f57bf338f7cac28f02ec10ed77c9a71d" sha1="fd4af441cff02d74f9282819c22f4ac140e6fa1c"/>
+	</game>
+	<game name="Pro Action Replay RevB v1.2 (199x)(Datel)[a][no cart present]">
+		<description>Pro Action Replay RevB v1.2 (199x)(Datel)[a][no cart present]</description>
+		<rom name="Pro Action Replay RevB v1.2 (199x)(Datel)[a][no cart present].nes" size="40976" crc="aa0f93b2" md5="fe61f6e250919be9ce5e2bf95e7401fd" sha1="bf0569a140c40835cc38598845816d6cae2784fe"/>
+	</game>
+	<game name="WideBoy Rev B (199x)(-)(US)[h][hacked to iNES]">
+		<description>WideBoy Rev B (199x)(-)(US)[h][hacked to iNES]</description>
+		<rom name="WideBoy Rev B (199x)(-)(US)[h][hacked to iNES].nes" size="16400" crc="0d6df209" md5="98fdb20e9ae1ee8e8c51a61f24958bae" sha1="d7bbe384bac009324e15e193a4fa4d66bddc04b1"/>
+	</game>
+</datafile>

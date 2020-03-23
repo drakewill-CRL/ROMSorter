@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Games - PCS - [LNX]</name>
+		<description>Commodore C64 - Games - PCS - [LNX] (TOSEC-v2019-11-23)</description>
+		<category>TOSEC</category>
+		<version>2019-11-23</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="AC - DC Pinball (19xx)(-)[cr TBT]">
+		<description>AC - DC Pinball (19xx)(-)[cr TBT]</description>
+		<rom name="AC - DC Pinball (19xx)(-)[cr TBT].lnx" size="22445" crc="36eea8b3" md5="6214abe7f9d23801b3dac63a920ef790" sha1="f4b79b3b909cb1ab10691d315f174d614f79bd52"/>
+	</game>
+	<game name="AC - DC Pinball (19xx)(-)[cr TBT][a]">
+		<description>AC - DC Pinball (19xx)(-)[cr TBT][a]</description>
+		<rom name="AC - DC Pinball (19xx)(-)[cr TBT][a].lnx" size="22587" crc="ef0e4d94" md5="05ef9b5787d2793f450edf755ac632b5" sha1="10ed83398610f2aa01aae548999395b39ff3006f"/>
+	</game>
+	<game name="Demo-8 Pinball (19xx)(-)[cr TBT]">
+		<description>Demo-8 Pinball (19xx)(-)[cr TBT]</description>
+		<rom name="Demo-8 Pinball (19xx)(-)[cr TBT].lnx" size="21826" crc="4d9929c1" md5="32a8a3e949cde4a1752bd244972b837f" sha1="8a465638667926de558a479985a3beafd3b5745d"/>
+	</game>
+	<game name="Demo-8 Pinball (19xx)(-)[cr TBT][a]">
+		<description>Demo-8 Pinball (19xx)(-)[cr TBT][a]</description>
+		<rom name="Demo-8 Pinball (19xx)(-)[cr TBT][a].lnx" size="21826" crc="ac872cd3" md5="5a58656df05ebbd9d11ab574961b9a54" sha1="c883ed2d7e52f8d70b0946c434b0d52c498a5654"/>
+	</game>
+	<game name="Demo-8 Pinball (19xx)(-)[cr TBT][a2]">
+		<description>Demo-8 Pinball (19xx)(-)[cr TBT][a2]</description>
+		<rom name="Demo-8 Pinball (19xx)(-)[cr TBT][a2].lnx" size="21972" crc="8fa828fc" md5="2b821f1fe5a2636e2fb57bdd8a090046" sha1="73b673c860f2f068a0b9e7bb19bc88236315c2b3"/>
+	</game>
+	<game name="Election &amp; Filppers Pinball (19xx)(-)[cr TBT]">
+		<description>Election &amp; Filppers Pinball (19xx)(-)[cr TBT]</description>
+		<rom name="Election &amp; Filppers Pinball (19xx)(-)[cr TBT].lnx" size="41587" crc="e2ee5efe" md5="188e0e28dd4adc342ff0361f34311498" sha1="93e08c2a9d041a97fe1d59ceff83dee3a826b02a"/>
+	</game>
+	<game name="Ghost Bumpers (1984)(Cassigi Software)[cr TBT]">
+		<description>Ghost Bumpers (1984)(Cassigi Software)[cr TBT]</description>
+		<rom name="Ghost Bumpers (1984)(Cassigi Software)[cr TBT].lnx" size="21473" crc="3052c94f" md5="2e579023c2298e6910b0bb840ad42adc" sha1="bfff6502a265fe915ebf03bf2462b40f27ff6935"/>
+	</game>
+	<game name="Ghost Bumpers (1984)(Cassigi Software)[cr TBT][a]">
+		<description>Ghost Bumpers (1984)(Cassigi Software)[cr TBT][a]</description>
+		<rom name="Ghost Bumpers (1984)(Cassigi Software)[cr TBT][a].lnx" size="21604" crc="8ce5422d" md5="566a3a60751e3d68439918e82caa7f52" sha1="65613160e5584b2318f26526b9247e2bfb2f17b6"/>
+	</game>
+	<game name="Izoid Pinball (1987)(CRL)[cr TBA]">
+		<description>Izoid Pinball (1987)(CRL)[cr TBA]</description>
+		<rom name="Izoid Pinball (1987)(CRL)[cr TBA].lnx" size="25084" crc="8ea4209f" md5="57c79ceaffae5cf58dc86accb93bd2b7" sha1="6db7b52f59f33711afb5f603389243b2cb238573"/>
+	</game>
+	<game name="Izoid Pinball (1987)(CRL)[cr TBA][a]">
+		<description>Izoid Pinball (1987)(CRL)[cr TBA][a]</description>
+		<rom name="Izoid Pinball (1987)(CRL)[cr TBA][a].lnx" size="25246" crc="df01dcd7" md5="03b586b9c8df2e115cd592f3b39801cd" sha1="30c123912f71b5dd21fc352393612cacb4c28e33"/>
+	</game>
+	<game name="Mad Ball (19xx)(-)[cr TBT]">
+		<description>Mad Ball (19xx)(-)[cr TBT]</description>
+		<rom name="Mad Ball (19xx)(-)[cr TBT].lnx" size="23724" crc="f2615a5d" md5="ca0e6b93e988f6c1cb14dab049f4934b" sha1="d41c7224fad82fa8d9d86e1555151269b150ce09"/>
+	</game>
+	<game name="Mad Ball (19xx)(-)[cr TBT][a]">
+		<description>Mad Ball (19xx)(-)[cr TBT][a]</description>
+		<rom name="Mad Ball (19xx)(-)[cr TBT][a].lnx" size="23880" crc="6c2b3a71" md5="265f117e588c307936cb7c582ad93723" sha1="b3a49d4a7e003193a1263163b4aafed0d05c054a"/>
+	</game>
+	<game name="Mad Ball (19xx)(-)[cr TBT][a2]">
+		<description>Mad Ball (19xx)(-)[cr TBT][a2]</description>
+		<rom name="Mad Ball (19xx)(-)[cr TBT][a2].lnx" size="23724" crc="77fcee8b" md5="242daabebb029f193c046adcbeccdb04" sha1="7e526bc873eef0c2a4fec8c72adfc0d4773647cd"/>
+	</game>
+	<game name="Prototype II (19xx)(J.J. Jr.)[cr Gods]">
+		<description>Prototype II (19xx)(J.J. Jr.)[cr Gods]</description>
+		<rom name="Prototype II (19xx)(J.J. Jr.)[cr Gods].lnx" size="26106" crc="4f7b61c8" md5="bf67d3439f019336a0ee0ba31bb790ef" sha1="c46842b19b5e37556aad1ac2378cd3dea965a5da"/>
+	</game>
+	<game name="Roller (19xx)(-)[cr Power Force]">
+		<description>Roller (19xx)(-)[cr Power Force]</description>
+		<rom name="Roller (19xx)(-)[cr Power Force].lnx" size="27363" crc="a975c133" md5="ed8a31e43e9a692f5c96a6a0cdce98fb" sha1="759157789d648513881e78096a0007c4d6090705"/>
+	</game>
+	<game name="Roller (19xx)(-)[cr Power Force][a]">
+		<description>Roller (19xx)(-)[cr Power Force][a]</description>
+		<rom name="Roller (19xx)(-)[cr Power Force][a].lnx" size="27588" crc="614ea70f" md5="b0d1dfedaacbe83de7700084b1a88683" sha1="1d549327acd295e9ee5970f03bbcc44049a6bd1e"/>
+	</game>
+	<game name="Snake Bite Pinball (1987)(SJF)[cr TBT]">
+		<description>Snake Bite Pinball (1987)(SJF)[cr TBT]</description>
+		<rom name="Snake Bite Pinball (1987)(SJF)[cr TBT].lnx" size="23303" crc="01423560" md5="5b311efcab3c7be06e7ed0d87812d7cf" sha1="2aa708df2b2f3e2f53d52d5d036614d4d6c54d95"/>
+	</game>
+	<game name="Snake Bite Pinball (1987)(SJF)[cr TBT][a]">
+		<description>Snake Bite Pinball (1987)(SJF)[cr TBT][a]</description>
+		<rom name="Snake Bite Pinball (1987)(SJF)[cr TBT][a].lnx" size="23460" crc="9a6b10cf" md5="1ac153eb7fda32ecb7baed12f3415769" sha1="1fa7bbdb718bcc54eed6f83ff24c4fd6a2a0a247"/>
+	</game>
+	<game name="Super Ball II (1986)(-)[cr Gods]">
+		<description>Super Ball II (1986)(-)[cr Gods]</description>
+		<rom name="Super Ball II (1986)(-)[cr Gods].lnx" size="26876" crc="2b818ca3" md5="5a0c0573d2a3bf819c24de2e0ecf6ba5" sha1="73be83b55265e26f4fa425b354a9a50e9cd63277"/>
+	</game>
+	<game name="Super Ball II (1986)(-)[cr Gods][a]">
+		<description>Super Ball II (1986)(-)[cr Gods][a]</description>
+		<rom name="Super Ball II (1986)(-)[cr Gods][a].lnx" size="26694" crc="6b30e331" md5="e91985745b58d96ea7211d0d4628faac" sha1="2d7e4a162fa8226c4962a1cc5ea9d8296b5b1a77"/>
+	</game>
+</datafile>

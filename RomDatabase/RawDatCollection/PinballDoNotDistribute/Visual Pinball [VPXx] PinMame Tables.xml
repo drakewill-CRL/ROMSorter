@@ -1,0 +1,1876 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Visual Pinball [VPXx] PinMame Tables</name>
+		<description>Visual Pinball [VPXx] PinMame Tables</description>
+		<category>Visual Pinball [VPXx] PinMame Tables</category>
+		<version>1.0</version>
+		<date>2020-01-01</date>
+		<author>Yori Yoshizuki</author>
+		<email>-insert email-</email>
+		<homepage>Yori Yoshizuki</homepage>
+		<url>https://yoshizuki.webs.com</url>
+		<comment>-insert comment-</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="24 (Stern)(2009)(freneticamnesic, 32assassin)(2.0.1)[VPX05][VP9 conversion to VPX]">
+		<description>24 (Stern)(2009)(freneticamnesic, 32assassin)(2.0.1)[VPX05][VP9 conversion to VPX]</description>
+		<rom name="24 (Stern)(2009)(freneticamnesic, 32assassin)(1.0)[VPX04]\24 1.0.vpx" size="62156800" crc="1a8f57ac" sha1="17862f9c41c7bd14032249c11ae3aed156bc61ac"/>
+		<rom name="24 (Stern)(2009)(freneticamnesic, 32assassin)(1.0)[VPX04]\24 screenshot.png" size="742977" crc="88d043c1" sha1="cce3ec3a8b979d7f6f6af0696799eaa6b26feed2"/>
+		<rom name="24 (Stern)(2009)(freneticamnesic, 32assassin)(2.0)[VPX05][Desktop]\24 (Stern 2009).vpx" size="61915136" crc="a713b9b8" sha1="bd61137d7c19d12d8a5c42342de3b85898360a20"/>
+		<rom name="24 (Stern)(2009)(freneticamnesic, 32assassin)(2.0)[VPX05][Desktop]\24 screenshot.png" size="742977" crc="88d043c1" sha1="cce3ec3a8b979d7f6f6af0696799eaa6b26feed2"/>
+		<rom name="24 (Stern)(2009)(freneticamnesic, 32assassin)(2.0.1)[VPX05]\24 (Stern 2009).vpx" size="61915136" crc="606a4014" sha1="a9ffc962af1866f528fb7d0e19c0714e53b885b2"/>
+		<rom name="24 (Stern)(2009)(freneticamnesic, 32assassin)(2.0.1)[VPX05]\24-screenshot.png" size="742977" crc="88d043c1" sha1="cce3ec3a8b979d7f6f6af0696799eaa6b26feed2"/>
+	</machine>
+	<machine name="250cc (Inder)(1982)(JPSalas)(1.0.0)[VPX05][DT+FS+dB2S+DOF]">
+		<description>250cc (Inder)(1982)(JPSalas)(1.0.0)[VPX05][DT+FS+dB2S+DOF]</description>
+		<rom name="250cc (Inder - 1992).vpx" size="14884864" crc="f2f0ea35" sha1="918d290dc65c8df6fae7e01bd5d8f37c9184a601"/>
+		<rom name="250cc--inder---1992-.jpg" size="1409133" crc="47c46bb3" sha1="6b54e6fa857edfbffce9d7ec0ec0d5bf62a21a18"/>
+		<rom name="250cc--inder---1992-fs.jpg" size="1485168" crc="8110d697" sha1="e4ac4a075eacdaee19dd602a3d35d12b8b22a94a"/>
+	</machine>
+	<machine name="Addams Family, The (Bally)(1992)(Sliderpoint, g5K, 3rdAxis)(2.1)[VPX06][DT+FS+dB2S]">
+		<description>Addams Family, The (Bally)(1992)(Sliderpoint, g5K, 3rdAxis)(2.1)[VPX06][DT+FS+dB2S]</description>
+		<rom name="DTTAFV2-1038x936.png" size="1349278" crc="7be82d69" sha1="a16f8602d9f93734f3bd5faf82224b62621a1670"/>
+		<rom name="TAF_1.16_colorization.zip" size="340134" crc="b6b24118" sha1="eea57b4f3bb1640f4f9c1b0f880e3f33502ab093"/>
+		<rom name="The Addams Family (Bally 1992) (flupper).pov" size="1093" crc="108d3c4e" sha1="f269a8248bfe16233b5d88f1676950a3b35e3b57"/>
+		<rom name="The Addams Family (Bally 1992) v2.1.vpx" size="135680000" crc="cd71b6d4" sha1="594398f749a060f25b4b24b9febbcf138a68abed"/>
+	</machine>
+	<machine name="Adventures of Rocky and Bullwinkle and Fiends (Data East)(1993)(cyberpez)(1.0)[VPX06][DT+FS]">
+		<description>Adventures of Rocky and Bullwinkle and Fiends (Data East)(1993)(cyberpez)(1.0)[VPX06][DT+FS]</description>
+		<rom name="rab_dt.png" size="2098482" crc="e91995d1" sha1="0d1fc8089fef584baee9f5ef6c5176fe40d1592e"/>
+		<rom name="rab_fs1.png" size="3822652" crc="dba38977" sha1="021c2912f61946bf6e235e954ed5d2ef67e61867"/>
+		<rom name="rab_fs2.png" size="3866969" crc="fe36013b" sha1="728c0470824742c5c97fa9b067b33a0f5a4a9164"/>
+		<rom name="The Adventures of Rocky and Bullwinkle and Fiends (Data East 1993) 1.0.vpx" size="85962752" crc="1394c962" sha1="075618de9c399661cbd1b155598e08ce2b7d6f86"/>
+	</machine>
+	<machine name="Agents 777 (Game Plan)(1984)(hmueck)(1.0)[VPX]">
+		<description>Agents 777 (Game Plan)(1984)(hmueck)(1.0)[VPX]</description>
+		<rom name="Agents 777 (Game Plan).vpx" size="17719296" crc="8aeb5f50" sha1="c9cc6f20fb851ffd85af84d235d55ed59ed1d934"/>
+		<rom name="Agents 777 screenshot.jpg" size="122850" crc="7f621e57" sha1="2ec51f7a4924ddfb42cfea573ecf09fa52b810e8"/>
+	</machine>
+	<machine name="Airborne Avenger (Atari)(1977)(DarthMarino)(1.3)[VPX05][DT+FS]">
+		<description>Airborne Avenger (Atari)(1977)(DarthMarino)(1.3)[VPX05][DT+FS]</description>
+		<rom name="Airborne Avenger (Atari 1977) 1.3.vpx" size="37359616" crc="25ff8f61" sha1="82842284155ccf1d91ffee7f0b8bf0cea45725d2"/>
+		<rom name="Airborne Avenger (Atari)(1977)(STAT, DarthMarino)(2.1)[directB2S]\Airborne Avenger (Atari 1977).directb2s" size="9474736" crc="0568f481" sha1="fe74e70fcee72aa6e89c192e6dd55a4e1e46c797"/>
+		<rom name="Airborne Avenger (Atari)(1977)(STAT, DarthMarino)(2.1)[directB2S]\screenshot.png" size="1372711" crc="c5a1fcb6" sha1="61c8078867fb8c426c11fb5e0b45452ddca96097"/>
+		<rom name="Airborne Avenger (Desktop) screenshot.jpg" size="767750" crc="005bf0f6" sha1="889b878949b14a1b9ce31419ff29b3a1d6a34e5d"/>
+		<rom name="Airborne Avenger (FullScreen) screenshot.jpg" size="735221" crc="04b4af4d" sha1="ee1a0ddc5e34301eb4708cf50ef57bd7188ef35b"/>
+	</machine>
+	<machine name="Al Capone (LTD do Brasil)(1984)(mfuegemann)(1.0)[VPX06][DT+FS+dB2S]">
+		<description>Al Capone (LTD do Brasil)(1984)(mfuegemann)(1.0)[VPX06][DT+FS+dB2S]</description>
+		<rom name="Al Capone (LTD do Brasil 1984) dB2S 1.0 mfuegemann\AlCapone_16_9.directb2s" size="15617961" crc="c80b261a" sha1="7d9fbc8e972077bd76f917c20de5970fc912b558"/>
+		<rom name="Al Capone (LTD do Brasil 1984) dB2S 1.0 mfuegemann\AlCapone_4_3.directb2s" size="21705336" crc="b0d1d9f3" sha1="e5a6af8598bb53b0da471b78718c7065e8077051"/>
+		<rom name="Al Capone (LTD do Brasil 1984) dB2S 1.0 mfuegemann\b2s.jpg" size="227024" crc="0d52510b" sha1="c940570d009d93fe8097749c4371e39f930d2b23"/>
+		<rom name="Al Capone (LTD do Brasil 1984) dB2S 1.0 mfuegemann\b2s_wide.jpg" size="266159" crc="c342074c" sha1="58c2dc1b617aa0cc925389dc088cad5a5177a1fb"/>
+		<rom name="AlCapone_PF.png" size="3732080" crc="5c6dd877" sha1="fb9b5fcf04c3123f12a171d26ea3a9f62c6d17cf"/>
+		<rom name="screen_dt.jpg" size="330209" crc="7e9f71ff" sha1="f28c2edb2f2e078f314dbaee68f05a46b16483a1"/>
+		<rom name="screen_fs.jpg" size="671025" crc="1b5e6304" sha1="1482d8669037d1ea2e3bc4c3eef1c49aaddde06d"/>
+		<rom name="VPX_Al_Capone_1_0.vpx" size="31096832" crc="e0f045aa" sha1="76969528fc75f964edcda2002728b18902f9315c"/>
+	</machine>
+	<machine name="Algar (Williams)(1980)(Thalamus, Kalavera)(1.2.2)[VPX05][DT+FS]">
+		<description>Algar (Williams)(1980)(Thalamus, Kalavera)(1.2.2)[VPX05][DT+FS]</description>
+		<rom name="Algar (Williams 1980).vpx" size="26337280" crc="353f5de2" sha1="c2e6b33dac77702a563242cc909efdf3e17d0af3"/>
+		<rom name="algar-screenshot-1-338x600.png" size="4301978" crc="b8b7287b" sha1="68b127eedf40ecf9e3a73e46221c92e412629006"/>
+	</machine>
+	<machine name="Alien Poker (Williams)(1980)(JPSalas)(1.0.1)[VPX04][DT+FS]">
+		<description>Alien Poker (Williams)(1980)(JPSalas)(1.0.1)[VPX04][DT+FS]</description>
+		<rom name="Alien Poker (Desktop) screenshot.jpg" size="667190" crc="2e22915b" sha1="8505c8a41136d72bb218aefbfda455af6f73df79"/>
+		<rom name="Alien Poker (FullScreen) screenshot.jpg" size="679827" crc="8c19386a" sha1="6d6e787433bdd7f9bffb76a6ca3041b1f23eb930"/>
+		<rom name="Alien Poker 1.0.1.txt" size="381" crc="a9807350" sha1="9984f0d03558240590b1558b74a73b2cbbc16872"/>
+		<rom name="Alien Poker 1.0.1.vpx" size="16093184" crc="3a290e7f" sha1="a0c3b7e3c840ceddaaa390dc360edb7672cc3324"/>
+		<rom name="Alien Poker 1.0.1_Multiball.vpx" size="16613376" crc="0d78074e" sha1="216efc94de4dded54823f78b386afc63da251f1c"/>
+		<rom name="alpok_b6.zip" size="19802" crc="dfb2364e" sha1="1deea13e0859a404d2acd6956d1fb943ac7b5baa"/>
+	</machine>
+	<machine name="Amazon Hunt (Gottlieb)(1983)(JPSalas, 32assassin, batch)(1.6)[VPX05][DT+FS]">
+		<description>Amazon Hunt (Gottlieb)(1983)(JPSalas, 32assassin, batch)(1.6)[VPX05][DT+FS]</description>
+		<rom name="Amazon Hunt (Desktop) screenshot.jpg" size="716915" crc="e0eb2a4f" sha1="e3a400ea502d4fe594a84e2cae0d4234fc3aebcb"/>
+		<rom name="Amazon Hunt (FullScreen) screenshot.jpg" size="354039" crc="59319626" sha1="a7c672e2a2810c1495db6377f43cb6c9655ad19d"/>
+		<rom name="Amazon Hunt VPX 1.6.vpx" size="22392832" crc="69c02aa3" sha1="6e44bcf3af8d14943949eadf44cb509643f0caf8"/>
+	</machine>
+	<machine name="Aqualand (Juegos Populares)(1986)(hmueck)(1.0)[VPX]">
+		<description>Aqualand (Juegos Populares)(1986)(hmueck)(1.0)[VPX]</description>
+		<rom name="Aqualand screenshot.jpg" size="276120" crc="206c8807" sha1="4fcd0364e46628202595b0a3b8f5ea372c03e694"/>
+		<rom name="Aqualand.vpx" size="30412800" crc="f3eecf7b" sha1="33b205567e285622b1939dad6f5bc835f5882db5"/>
+	</machine>
+	<machine name="Atlantis (Bally)(1989)(Herweh)(1.1)[VPX06][DT+FS]">
+		<description>Atlantis (Bally)(1989)(Herweh)(1.1)[VPX06][DT+FS]</description>
+		<rom name="Atlantis (Bally 1989).vpx" size="63713280" crc="e7ebb04f" sha1="e76192f7955e1f0f74631621847efbaf485297f1"/>
+		<rom name="AtlantisHD5-1038x1845.png" size="843047" crc="402c929b" sha1="e84231eb8510935cfaeb9ce63fd99afd2cad4d8a"/>
+	</machine>
+	<machine name="Atleta (Inder)(1991)(hmueck)(1.0)[VPX][DT+FS+dB2S]">
+		<description>Atleta (Inder)(1991)(hmueck)(1.0)[VPX][DT+FS+dB2S]</description>
+		<rom name="Atleta (Inder)(1991)(hmueck)(1.0)[dB2S]\Atleta (dB2S) screenshot.png" size="3510571" crc="f413af98" sha1="15433f9a19cc8021f469228233ec6eeac5c0d539"/>
+		<rom name="Atleta (Inder)(1991)(hmueck)(1.0)[dB2S]\Atleta.directb2s" size="9205649" crc="b02f6141" sha1="31067ea26cbe39527b87cd70cadbbea45d9b920f"/>
+		<rom name="Atleta (Inder)(1991)(hmueck)(1.0)[VPX][DT+FS+dB2S]\Atleta screenshot.jpg" size="234355" crc="ecc261fe" sha1="3bebf2a36c15862a274593562bede2bbda978abf"/>
+		<rom name="Atleta (Inder)(1991)(hmueck)(1.0)[VPX][DT+FS+dB2S]\Atleta.vpx" size="22863872" crc="fcd4351d" sha1="0cbe22f9b2a7183bbd45405f3931d9c0139902fa"/>
+	</machine>
+	<machine name="Attack from Mars (Williams)(1995)(JPSalas)(1.3.0)[VPX05][DOF arngrim]">
+		<description>Attack from Mars (Williams)(1995)(JPSalas)(1.3.0)[VPX05][DOF arngrim]</description>
+		<rom name="AFM_1.3.0.vpx" size="15077376" crc="20f45286" sha1="277a1fdaa591a450cdb4dd96330673b3f876427d"/>
+		<rom name="afm_130.jpg" size="1259781" crc="1e186f21" sha1="ed900ffc88bb6f9707c522ef7564dc341ad6eb3e"/>
+		<rom name="afm_130fs.jpg" size="1343707" crc="5779bc66" sha1="a5529f4c4917d456e1c86ab313f1c800b748950f"/>
+		<rom name="VPX02\AFM_1.2.0.vpx" size="20779008" crc="e2e168e3" sha1="c17c2799ea765387e6daf5de9a72743a9a3fcd13"/>
+		<rom name="VPX\AFM_1.1.0.vpx" size="21159936" crc="6ca94307" sha1="0dfea8b566f69e39f5e06c04a65fd38ac6b0c406"/>
+	</machine>
+	<machine name="Attila The Hun (Game Plan)(1984)(1.0a)[VPX05][dB2S]">
+		<description>Attila The Hun (Game Plan)(1984)(1.0a)[VPX05][dB2S]</description>
+		<rom name="Attila The Hun (Game Plan 1984).vpx" size="23793664" crc="0a2a3e3c" sha1="119eccd8d373405d37a0778335cc4092af0a71e5"/>
+		<rom name="Attila The Hun (Gameplan 1984).directb2s" size="4024463" crc="aa819175" sha1="527475f4e6c46265bbfd9291602c3c0b529652b3"/>
+		<rom name="attila-bg.png" size="1623082" crc="95acdfc1" sha1="55cea625d455aebe0c8b7f896bf24752de3563d7"/>
+		<rom name="attila-dt.png" size="1779552" crc="dcacd9bd" sha1="7b47d27d0d7b972dfd0af04053ac2c4462142872"/>
+	</machine>
+	<machine name="Avengers (Pro), The (Stern)(2012)(32assassin)(0.9.1)[VPX06]">
+		<description>Avengers (Pro), The (Stern)(2012)(32assassin)(0.9.1)[VPX06]</description>
+		<rom name="Avengers (Pro), The (Stern 2012).vpx" size="81530880" crc="4f865612" sha1="e7961bbc7f4d17778b0858249e6e13ea56a7b8b4"/>
+		<rom name="Avengers-600x338-1038x584.png" size="1061339" crc="4ee62b4d" sha1="a9da71060920e50a4b45cb25dcc62bfc4c86c18e"/>
+	</machine>
+	<machine name="Avengers (Stern)(2012)(Stout, Neofr45, Frenetic, Gtxjoe, Diemonik)(1.0)[VPX04]">
+		<description>Avengers (Stern)(2012)(Stout, Neofr45, Frenetic, Gtxjoe, Diemonik)(1.0)[VPX04]</description>
+		<rom name="Avengers (Stern 2012)-WIP HD neo Hulk rascalV2.vpx" size="88035328" crc="e8c4d6a4" sha1="c46bd23f7e8a6a487dcce03c9edcd32e2dbb01dc"/>
+		<rom name="Avengers-Stern-2012-WIP-HD-neo-Hulk-rascalV2db2s\Avengers (Stern 2012)-WIP HD neo Hulk rascalV2db2s.directB2S" size="14851704" crc="599c145a" sha1="df30c17ebec6ea3268e2a6926bd213adb5bb116b"/>
+		<rom name="Avengers-Stern-2012-WIP-HD-neo-Hulk-rascalV2db2s\avengersbackglassimage.png" size="4830839" crc="4ea7ba17" sha1="e3624ac7b25f1691dfe59ac6c0c9f1028d5545e4"/>
+		<rom name="avengers-wip-hulk-ajusted-1.jpg" size="303436" crc="ed0100da" sha1="ab8b1c30b9f3ba0127c51286221870a7d842c19c"/>
+	</machine>
+	<machine name="Avengers LE (Stern)(2012)(JPSalas)(1.0.2)[VPX06][DT+FS]">
+		<description>Avengers LE (Stern)(2012)(JPSalas)(1.0.2)[VPX06][DT+FS]</description>
+		<rom name="JP's Avengers LE (Stern - 2012)1.0.2.vpx" size="16629760" crc="6a741049" sha1="89b0d8e6d018300a0c06a4c16d58636cbc3cf855"/>
+		<rom name="jps-avengers-le--stern---2012-100.jpg" size="2586382" crc="b4b19bef" sha1="bfbe09ba91bb6b3240d5453a0e35814882ba39d6"/>
+		<rom name="jps-avengers-le--stern---2012-100fs.jpg" size="2546431" crc="17f8b794" sha1="ef02274803a83ed73f431a3d61c083185eca72bc"/>
+	</machine>
+	<machine name="Back To The Future (Data East)(1990)(cyberpez)(1.4)[VPX05][DT+FS]">
+		<description>Back To The Future (Data East)(1990)(cyberpez)(1.4)[VPX05][DT+FS]</description>
+		<rom name="Back To The Future (Data East 1990) 1.4.vpx" size="106766336" crc="a8bedab5" sha1="72697ba723d1b5bd2b40ab9e974ecc975f9e96d3"/>
+		<rom name="Back To The Future (Desktop) screenshot.png" size="5290339" crc="a756f3ec" sha1="55bd087f2fcd3afd18d4bbda4834746534e36ea5"/>
+		<rom name="Back To The Future (FullScreen) screenshot.png" size="2932684" crc="61c7902f" sha1="7988b7dea0f6825353429758e621dccdb2348b94"/>
+	</machine>
+	<machine name="Bad Cats (Williams)(1989)(unclewilly)(1.2.1a)[VPX05][DT+FS]">
+		<description>Bad Cats (Williams)(1989)(unclewilly)(1.2.1a)[VPX05][DT+FS]</description>
+		<rom name="Bad Cats VPX 1.2.1a.vpx" size="49922048" crc="2435e14a" sha1="ccdf5e12e43ee5c4bb5800445aede96e10f8665d"/>
+		<rom name="finaldt.png" size="1531560" crc="0c732749" sha1="d8db56bcf6d55da80634be4b990c77178a21f453"/>
+		<rom name="finalfs.png" size="2459600" crc="e1c9dd5d" sha1="4b5b7300d8fbe727613cad815ca06e57104c0848"/>
+	</machine>
+	<machine name="Bad Girls (Gottlieb)(1988)(Bodydump, 32assassin)(1.0.2)[VPX05]">
+		<description>Bad Girls (Gottlieb)(1988)(Bodydump, 32assassin)(1.0.2)[VPX05]</description>
+		<rom name="Bad Girls (Gottlieb)(1988)(Bodydump, 32assassin)(1.0.2)[VPX05]\Bad Girls (Gottlieb 1988).vpx" size="34807808" crc="ba80fe0a" sha1="ef4c8513f2d7265e03c2e2929c5473c48f0f9847"/>
+		<rom name="Bad Girls (Gottlieb)(1988)(Bodydump, 32assassin)(1.0.2)[VPX05]\Bad Girls screenshot.png" size="864456" crc="fd5787f3" sha1="448d45ce9d5d60fc6427e3e0081c9d43460b7dfd"/>
+	</machine>
+	<machine name="Bally Game Show, The (Bally)(1990)(32assassin)(0.91)[VPX05]">
+		<description>Bally Game Show, The (Bally)(1990)(32assassin)(0.91)[VPX05]</description>
+		<rom name="Bally Game Show, The (Bally 1990).txt" size="884" crc="3aea9506" sha1="8b9167089b570d8ed2fb5885d5a9aebc206912ff"/>
+		<rom name="Bally Game Show, The (Bally 1990).vpx" size="46886912" crc="6e0d0a91" sha1="835e0868e279fd40ae638567b56d08ef9bdb6a09"/>
+		<rom name="Game-SHow-600x338-1038x584.png" size="1210059" crc="36bc7879" sha1="5805394d89ba93ad0bfcc4a90d048c7ba39980e8"/>
+	</machine>
+	<machine name="Barb Wire (Gottlieb)(1996)(Bigus1)(1.0)[VPX06]">
+		<description>Barb Wire (Gottlieb)(1996)(Bigus1)(1.0)[VPX06]</description>
+		<rom name="Barb Wire (Gottlieb 1996)1.0.vpx" size="36220928" crc="8eea5a66" sha1="d275eb0bc5e1ea125ac10a71464ace45900d5b92"/>
+		<rom name="clip_35.jpg" size="599427" crc="74deaa1e" sha1="4ad69100650a56655e9219ab3a58abffe94b2ef6"/>
+	</machine>
+	<machine name="Barb Wire (Gottlieb)(1996)(rascal)(1.4)[VPX05][DT+FS+DOF][VP9 destruk, TAB table conversion]">
+		<description>Barb Wire (Gottlieb)(1996)(rascal)(1.4)[VPX05][DT+FS+DOF][VP9 destruk, TAB table conversion]</description>
+		<rom name="Barb Wire (Gottlieb 1996) Flyer - 1.jpg" size="433828" crc="fee0c82a" sha1="b6f8120d043fbd7459485a592b2efb013cba61ac"/>
+		<rom name="Barb Wire (Gottlieb 1996) Flyer - 2.jpg" size="535585" crc="6b0f5f3f" sha1="c0d96cb1789452348a4dc085ce635db0c5425cca"/>
+		<rom name="Barb Wire (Gottlieb 1996)1.4.vpx" size="19402752" crc="d291efd2" sha1="093cd7d643f90c32feae2eb5339823ab989ce16d"/>
+		<rom name="Barb-Wire-Gottlieb-1996-Backglass-DMD-Kit-Hirez00\Barb Wire (Gottlieb 1996) 2-3 Screen.directB2S" size="23345483" crc="0e3d102d" sha1="fb4675a90dd099e6b4274acbff16ab373fde4d33"/>
+		<rom name="Barb-Wire-Gottlieb-1996-Backglass-DMD-Kit-Hirez00\Barb Wire (Gottlieb 1996) Backglass+Grill.png" size="1316105" crc="76b5e29c" sha1="1a230314234c41bff19baa222a70ade862afae0a"/>
+		<rom name="Barb-Wire-Gottlieb-1996-Backglass-DMD-Kit-Hirez00\Barb Wire (Gottlieb 1996) Backglass-Image.png" size="3258834" crc="440d086a" sha1="2a0cc98a7736bda956b97ebcdf2523459084293b"/>
+		<rom name="Barb-Wire-Gottlieb-1996-Backglass-DMD-Kit-Hirez00\Barb Wire (Gottlieb 1996) Instruction Card.png" size="118001" crc="8615b311" sha1="0cdfa05c06f8ab77f40a302d460200867a12bb8d"/>
+		<rom name="Barb-Wire-Gottlieb-1996-Backglass-DMD-Kit-Hirez00\Barb Wire (Gottlieb 1996) Rules Sheet.pdf" size="60370" crc="fc8e32be" sha1="362e77553a6a92a9718d16ddceb69b1e5eee6158"/>
+		<rom name="Barb-Wire-Gottlieb-1996-Backglass-DMD-Kit-Hirez00\Barb Wire (Gottlieb 1996) SPECIAL-Real-Color-DMD.mp4" size="1322015" crc="d577cde3" sha1="bd27eb9a650128734ee432c13488e2702a1fdf50"/>
+		<rom name="Barb-Wire-Gottlieb-1996-Backglass-DMD-Kit-Hirez00\Barb Wire (Gottlieb 1996) Wheel.png" size="1126176" crc="5d0434bd" sha1="976099e0df797a4224858099867e79f7acdc53fc"/>
+		<rom name="Barb-Wire-Gottlieb-1996-Backglass-DMD-Kit-Hirez00\PinballX - Gun - Word Up [Barb Wire Soundtrack].mp3" size="4792108" crc="ff7bacad" sha1="40d9e7482ae324ea3b6e2f08377f402b10a8f99a"/>
+		<rom name="barbwiress16-9.png" size="1757356" crc="15f29659" sha1="398bd76893ca3952497b77d06752c8e8f3d551ba"/>
+		<rom name="barbwiress16-9fs.png" size="2393534" crc="09c3dd54" sha1="57c328e2e128141b97407196e36f8ed30f5499c3"/>
+	</machine>
+	<machine name="Barracora (Williams)(1981)(Dids666)(1.2)[VPX04]">
+		<description>Barracora (Williams)(1981)(Dids666)(1.2)[VPX04]</description>
+		<rom name="Barracora (Desktop) screenshot.png" size="2085194" crc="4ffb98b5" sha1="76c0ec9104bc3809bd5121dba80220ca1fae1dae"/>
+		<rom name="Barracora (Williams 1981) [VPX] v1.2.vpx" size="51494912" crc="4760f8ef" sha1="87b99d7a221236571263fb5afef39c953972c648"/>
+	</machine>
+	<machine name="Batman Dark Knight (Stern)(2008)(TomTower, Ninuzzu)(1.2)[VPX05]">
+		<description>Batman Dark Knight (Stern)(2008)(TomTower, Ninuzzu)(1.2)[VPX05]</description>
+		<rom name="Batman Dark Knight tt&amp;NZ 1.2.vpx" size="65298432" crc="535fee17" sha1="7b249eff08f5fcc73a78bb61bfaa746f37469c52"/>
+		<rom name="batman.png" size="1713668" crc="9fc5c6a9" sha1="4b4a071158086fd451665e79ec080e7b41a487ad"/>
+	</machine>
+	<machine name="Big Buck Hunter Pro (Stern)(2010)(32assassin, 85vette)(2.0.1)[VPX05]">
+		<description>Big Buck Hunter Pro (Stern)(2010)(32assassin, 85vette)(2.0.1)[VPX05]</description>
+		<rom name="bbhpc.png" size="897487" crc="cc3a4eb3" sha1="eb7e82a06eb3bce32c0c28ab4c3602cc50cb00af"/>
+		<rom name="Big Buck Hunter Pro (Stern 2010).vpx" size="101171200" crc="e32ca91b" sha1="87aae5cd76a9d90df902e3216e2e9daf98a6dcec"/>
+	</machine>
+	<machine name="Big Game (Stern)(1980)(JPSalas)(1.0.4)[VPX04]">
+		<description>Big Game (Stern)(1980)(JPSalas)(1.0.4)[VPX04]</description>
+		<rom name="Big Game screenshot.jpg" size="881451" crc="2d3d70c5" sha1="9d9d0c4fc1222a79e60ad17648407459ddf6539c"/>
+		<rom name="Big Game v1.0.4.vpx" size="5513216" crc="3c5e7029" sha1="3827f827fc911400cd85a25d988125b4b9490e66"/>
+	</machine>
+	<machine name="Big House (Gottlieb)(1989)(rascal)(1.1)[VPX05][VP9 mfuegemann table to VPX conversion]">
+		<description>Big House (Gottlieb)(1989)(rascal)(1.1)[VPX05][VP9 mfuegemann table to VPX conversion]</description>
+		<rom name="Big House (Gottlieb 1989).vpx" size="32231424" crc="e1808a88" sha1="6b1ad3b64cd62424d1e982c1ed4a9b2e7b29f8a9"/>
+		<rom name="bighousess16-9.png" size="2041687" crc="1969bb93" sha1="b5cd7e431b32670134885007e66c9c7956234fe5"/>
+		<rom name="bighousess16-9fs.png" size="2039236" crc="1b8aef9e" sha1="ca169e486be818bd2fde8fea8cf85169ce8b17d0"/>
+	</machine>
+	<machine name="Black Jack (Bally)(1976)(Bigus1)(1.2)[VPX05][DOF arngrim]">
+		<description>Black Jack (Bally)(1976)(Bigus1)(1.2)[VPX05][DOF arngrim]</description>
+		<rom name="Black Jack (Bally 1976).vpx" size="34623488" crc="4ecd440e" sha1="496e3e586932ceff9b39170314ed81040f12d4ae"/>
+		<rom name="clip_9.jpg" size="579664" crc="6e90830f" sha1="1e80a379b7e657bc3d338eda42f6da269310bce0"/>
+	</machine>
+	<machine name="Black Knight (Williams)(1980)(bord)(1.0.2)[VPX05]">
+		<description>Black Knight (Williams)(1980)(bord)(1.0.2)[VPX05]</description>
+		<rom name="bk_dt.jpg" size="154001" crc="de3563ce" sha1="5294ef71acfa8752a8ec796ca668628495410550"/>
+		<rom name="Black Knight (Williams 1980).vpx" size="56422400" crc="8d9bd888" sha1="96143794e249d9b9d5523a4491260dc4d80afabf"/>
+	</machine>
+	<machine name="Black Rose (Bally)(1992)(Coindropper, HauntFreaks, Dozer, GTXJoe, JayFoxRox, Draifet)(0.1.0)[VPX05]">
+		<description>Black Rose (Bally)(1992)(Coindropper, HauntFreaks, Dozer, GTXJoe, JayFoxRox, Draifet)(0.1.0)[VPX05]</description>
+		<rom name="Black Rose (Bally 1992).vpx" size="117374976" crc="904eeeac" sha1="8f159a20f3de6c4db8d00cb49c3c68e090093f11"/>
+		<rom name="black-rose.png" size="2186817" crc="9ea18e42" sha1="b08996ad5efea1700abc13a83b321009886dd7d6"/>
+	</machine>
+	<machine name="Bone Busters Inc. (Gottlieb)(1989)(hmueck)(1.0)[VPX]">
+		<description>Bone Busters Inc. (Gottlieb)(1989)(hmueck)(1.0)[VPX]</description>
+		<rom name="Bone Busters Inc. screenshot.jpg" size="219797" crc="e1817564" sha1="921ba50e51cb94f18e0e81d9eccee01c99cc994f"/>
+		<rom name="BoneBusters.vpx" size="37380096" crc="ef015fdd" sha1="59451fefebdcd1996fe0c2d03f7072620536fe42"/>
+	</machine>
+	<machine name="Bounty Hunter (Gottlieb)(1985)(Destruk, Kristian, DesAngel, Inkochnito, Luvthatapex)(1.1)[VPX05][VP8toVPX rascal]">
+		<description>Bounty Hunter (Gottlieb)(1985)(Destruk, Kristian, DesAngel, Inkochnito, Luvthatapex)(1.1)[VPX05][VP8toVPX rascal]</description>
+		<rom name="Bounty Hunter (Gottlieb 1985).vpx" size="13332480" crc="aa14d7db" sha1="2474bae458807c007f7ddbdcba2f4a15643f3ff7"/>
+		<rom name="bountyhunterss16-9.png" size="2197698" crc="ddc99b20" sha1="a539bfb11d1495bace047f99fc958852c02c8276"/>
+		<rom name="bountyhunterss16-9fs.png" size="2911847" crc="4a72e9ed" sha1="84c50e4be2825cd991679c18d142a98003b6f252"/>
+	</machine>
+	<machine name="Bugs Bunny's Birthday Ball (Bally)(1991)(wrd1972)(2.1)[VPX05][DT+FS]">
+		<description>Bugs Bunny's Birthday Ball (Bally)(1991)(wrd1972)(2.1)[VPX05][DT+FS]</description>
+		<rom name="Bugs Bunny's Birthday Ball  (Bally 1991)2.1.vpx" size="83804160" crc="588e02ee" sha1="2bb7cd3a7559d6a25208df39cc3a195ab1d7c29c"/>
+		<rom name="dt.jpg" size="629790" crc="c1369af2" sha1="064943a38a14d4546a5e978d5f54b840171fe315"/>
+		<rom name="fs.png" size="3012903" crc="045ced23" sha1="cf553a3b4a24305aed7c2e4666343b6df5070d7f"/>
+	</machine>
+	<machine name="Cactus Jacks (Gottlieb)(1991)(BorgDog)(0.95)[VPX06]">
+		<description>Cactus Jacks (Gottlieb)(1991)(BorgDog)(0.95)[VPX06]</description>
+		<rom name="Cactus Jacks (Gottlieb 1991)v.95.vpx" size="128086016" crc="710a6045" sha1="199cc860478bdfa6a83e2aaadc00170ba089dfa4"/>
+		<rom name="Cactus Jacks LandscapePOV.pov" size="1091" crc="f3cfaaed" sha1="e201d92bf45c0dffda2daae4796db34897673877"/>
+		<rom name="Cactus Jacks PortraitPOV.pov" size="1091" crc="ef84139e" sha1="8cf8fc55b7193e7c3d8890cfebebfac015e0e0c2"/>
+		<rom name="CactusJacksDTpreview-1038x584.jpg" size="155540" crc="397b9d34" sha1="f1113350dcbe407e09d4c0f3727431cb1f925118"/>
+	</machine>
+	<machine name="Cactus Jacks (Gottlieb)(1991)(PacDude)(1.1)[VPX05][VP8 to VPX conversion by rascal]">
+		<description>Cactus Jacks (Gottlieb)(1991)(PacDude)(1.1)[VPX05][VP8 to VPX conversion by rascal]</description>
+		<rom name="Cactus Jack's (Gottlieb 1991).vpx" size="11321344" crc="c69acded" sha1="403b1881a72437dfde748db9ab05689a181d731a"/>
+		<rom name="cactusjacksss16-9.png" size="2499076" crc="38a0ea05" sha1="b1e3c04d0de44d705d05908734bb657bfaf447a9"/>
+		<rom name="cactusjacksss16-9fs.png" size="2457094" crc="490e9379" sha1="bb22070e7c9b6a4f6e2f5ab3b23cf6f74cb25814"/>
+	</machine>
+	<machine name="Canasta 86 (Inder)(1986)(JPSalas)(1.0.4)[VPX05][DT+FS]">
+		<description>Canasta 86 (Inder)(1986)(JPSalas)(1.0.4)[VPX05][DT+FS]</description>
+		<rom name="Canasta 86 (Inder)(1986)(JPSalas)(1.0.4)[VPX05][DT+FS]\Canasta 86 (Desktop) screenshot.jpg" size="1308470" crc="1fc0fe11" sha1="13bbed8d278ab26cf515f74d713ae249df802795"/>
+		<rom name="Canasta 86 (Inder)(1986)(JPSalas)(1.0.4)[VPX05][DT+FS]\Canasta 86 (FullScreen) screenshot.jpg" size="1326529" crc="fb7c15e0" sha1="8792f506d6320e4817aca09cfc61a357295e8128"/>
+		<rom name="Canasta 86 (Inder)(1986)(JPSalas)(1.0.4)[VPX05][DT+FS]\Canasta 86 (Inder 1986) 1.0.4.vpx" size="8855552" crc="97ca8be5" sha1="78e17dfaa61a5d36f5ab71569ec9d3ee37e167a9"/>
+	</machine>
+	<machine name="Catacomb (Stern)(1981)(32assassin)(0.9.1)[VPX05][VP9 to VPX conversion]">
+		<description>Catacomb (Stern)(1981)(32assassin)(0.9.1)[VPX05][VP9 to VPX conversion]</description>
+		<rom name="Catacomb (Stern 1981).png" size="187646" crc="a9c37ebd" sha1="b51361e709edef23cb232bff51d4d05b61792533"/>
+		<rom name="Catacomb (Stern 1981).vpx" size="31170560" crc="6682b4c5" sha1="c3aa3736a3626880a3833dd8b3d6aef9bca2d866"/>
+		<rom name="catacomb.png" size="761587" crc="bf44dddd" sha1="03f6c05dbbac84d91e122322b8f77c9910a79e5f"/>
+	</machine>
+	<machine name="Cavaleiro Negro (Taito do Brasil)(1981)(JPSalas)(2.0.0)[VPX06][DT+FS+dB2S]">
+		<description>Cavaleiro Negro (Taito do Brasil)(1981)(JPSalas)(2.0.0)[VPX06][DT+FS+dB2S]</description>
+		<rom name="Cavaleiro Negro  (Taito do Brasil - 1980) 2.0.0.vpx" size="13914112" crc="1f36153e" sha1="36e3347c33db17359eaee392276dfc75d2f3391b"/>
+		<rom name="Cavaleiro Negro (Desktop) screenshot.jpg" size="871774" crc="004a122e" sha1="16c7a43a8ef424e963def8b3151224699ff5b5e2"/>
+		<rom name="Cavaleiro Negro (FullScreen) screenshot.jpg" size="906599" crc="b02a6598" sha1="bbfb97c0f31daa1492ea102e37282dc95ceb2c67"/>
+		<rom name="Cavaleiro Negro v1.0.3.vpx" size="12840960" crc="dd204d08" sha1="e9554b920c79911cfe9ea3f469334c6112ab62ca"/>
+	</machine>
+	<machine name="Caveman (Gottlieb)(1982)(rascal)(1.1)[VPX05][VP9 to VPX conversion]">
+		<description>Caveman (Gottlieb)(1982)(rascal)(1.1)[VPX05][VP9 to VPX conversion]</description>
+		<rom name="Caveman (Gottlieb 1982).vpx" size="9080832" crc="89d09089" sha1="8722944cbd413cf30cadeabbb54a36aaf16c18b1"/>
+		<rom name="cavemanss16-9.png" size="1855541" crc="75e5af9c" sha1="133635063f176d477b369ad0f744149aafa6dad7"/>
+		<rom name="cavemanss16-9fs.png" size="2404809" crc="0c57f561" sha1="fa410e74b88052fe19da608652260e362b67fae0"/>
+	</machine>
+	<machine name="Charlie's Angels (Gottlieb)(1978)(JPSalas)(1.0.2)[VPX05][DT+FS]">
+		<description>Charlie's Angels (Gottlieb)(1978)(JPSalas)(1.0.2)[VPX05][DT+FS]</description>
+		<rom name="Charlie's Angels 1.0.2.vpx" size="12320768" crc="a48f6df9" sha1="1e61e69051d0bf5502518c8deaf82c5cca703dba"/>
+		<rom name="charlie--39-s-angels-100.jpg" size="1056081" crc="19147817" sha1="925a8cc9b090a654805f2172c3f2817d7c4979a4"/>
+		<rom name="charlie--39-s-angels-100fs.jpg" size="1118549" crc="6bbaf5e1" sha1="d804ee4eff0f13f1733bafa790f417539590d727"/>
+	</machine>
+	<machine name="Circus (Gottlieb)(1980)(rascal)(1.1)[VPX05][VP9 to VPX conversion]">
+		<description>Circus (Gottlieb)(1980)(rascal)(1.1)[VPX05][VP9 to VPX conversion]</description>
+		<rom name="Circus (Gottlieb 1980).vpx" size="24215552" crc="0fc12051" sha1="121f6c9f5c790bd431aaf85cb51d4e38f5dfade9"/>
+		<rom name="circusss16-9.png" size="2310460" crc="876bd117" sha1="355514c3a378a614c5c7a3382727b6c03cc43ec4"/>
+		<rom name="circusss16-9fs.png" size="2532308" crc="b1e2da74" sha1="24726d26b96e9697012974d8de41973e40b37d1c"/>
+	</machine>
+	<machine name="Cirqus Voltaire (Bally)(1997)(Knorr, Clark Kent, Randr, Dark)(1.1)[VPX06]">
+		<description>Cirqus Voltaire (Bally)(1997)(Knorr, Clark Kent, Randr, Dark)(1.1)[VPX06]</description>
+		<rom name="Bildschirmfoto-2019-04-24-um-13.23.02-1038x1845.png" size="3643780" crc="15f56bb9" sha1="2cf8dfbd0ee733e609373615ab27505059a4c5d8"/>
+		<rom name="CirqusVoltaire (Bally1997).vpx" size="273190912" crc="d2d04806" sha1="18b2eec692e41a848e55e55f1f7a88cbf4da8bbe"/>
+	</machine>
+	<machine name="Columbia (LTD do Brasil)(1983)(mfuegemann)(1.0)[VPX06][DT+FS+dB2S]">
+		<description>Columbia (LTD do Brasil)(1983)(mfuegemann)(1.0)[VPX06][DT+FS+dB2S]</description>
+		<rom name="Columbia (LTD do Brasil 1983) dB2S 1.0 mfuegemann\Columbia.directb2s" size="9363356" crc="736d7fc9" sha1="dfc1d50a512fe3eef38aa59dc3d7116887bdaac4"/>
+		<rom name="Columbia (LTD do Brasil 1983) dB2S 1.0 mfuegemann\columbia_b2s.png" size="1355433" crc="1bd8f1ef" sha1="9edb36476ee4233b267b71a1a0d557d05e053fb8"/>
+		<rom name="Columbia_PF.png" size="3751921" crc="4e300c22" sha1="d1ca3230f9894af82b1080ef998360884dda13fb"/>
+		<rom name="columbia_screen.jpg" size="351179" crc="52ae3b18" sha1="ab3ad6035a37920910c636b066f7d8a78de80d90"/>
+		<rom name="columbia_screen_dt.jpg" size="286081" crc="16df0c3e" sha1="f62c79e211cfd4097aa6e91eb044ef8794065fc8"/>
+		<rom name="VPX_Columbia_1_0.vpx" size="35627008" crc="153bf7cb" sha1="8bd165cfdba91dabb7a71bc08135cec0621413bb"/>
+	</machine>
+	<machine name="Contact (Williams)(1978)(Kalavera)(1.2)[VPX05][DT+FS]">
+		<description>Contact (Williams)(1978)(Kalavera)(1.2)[VPX05][DT+FS]</description>
+		<rom name="Contact (Williams 1978).vpx" size="48041984" crc="23b56258" sha1="be1812f51cfd7841fb2f1ff2fe784c107281efad"/>
+		<rom name="contact--williams-1978--dt.png" size="1630302" crc="c0731c4a" sha1="9cd54861c88e1ee2b95fd4c95bb0aa867752c25d"/>
+		<rom name="contact--williams-1978--fs.png" size="1646625" crc="1d3f4949" sha1="e09c3838b6f99bb6fae4f54c100d0f9f06a4a10c"/>
+	</machine>
+	<machine name="Cosmic (Taito do Brasil)(1980)(JPSalas)(2.0.0)[VPX06][DT+FS+dB2S]">
+		<description>Cosmic (Taito do Brasil)(1980)(JPSalas)(2.0.0)[VPX06][DT+FS+dB2S]</description>
+		<rom name="Cosmic (Taito do Brasil - 1980) 2.0.0.vpx" size="11624448" crc="949b50e3" sha1="dea3dbbea322e3be8fae61238226e9806d38a512"/>
+		<rom name="cosmic--taito-do-brasil---1980--200.jpg" size="2746177" crc="fd7dddb3" sha1="443e49ebc80af18df86334a691699c9c1c9b9174"/>
+		<rom name="cosmic--taito-do-brasil---1980--200fs.jpg" size="2525029" crc="0c336fd9" sha1="946d8ca8075870543b01fe0cda4c2c676949172b"/>
+	</machine>
+	<machine name="Cosmic Princess (Stern)(1979)(JPSalas)(1.0.3)[VPX05][DT+FS][DOF arngrim]">
+		<description>Cosmic Princess (Stern)(1979)(JPSalas)(1.0.3)[VPX05][DT+FS][DOF arngrim]</description>
+		<rom name="Cosmic Princess (Stern - 1979).vpx" size="10895360" crc="bb3375a3" sha1="be23ed65436f3229b470ab7fe95e255ae2c9f90d"/>
+		<rom name="cosmic-princess--stern---1979-dt.jpg" size="1309531" crc="304685aa" sha1="71ebff6aa16e5f4d3a9a691a6fba7a4dfae792ea"/>
+		<rom name="cosmic-princess--stern---1979-fs.jpg" size="1366005" crc="9de1e9be" sha1="2b34c87924c241a3004734530705ced7a65e0f5e"/>
+	</machine>
+	<machine name="Counterforce (Gottlieb)(1980)(Rascal)(1.1)[VPX05][VP9 to VPX conversion]">
+		<description>Counterforce (Gottlieb)(1980)(Rascal)(1.1)[VPX05][VP9 to VPX conversion]</description>
+		<rom name="Counterforce (Gottlieb 1980).vpx" size="23752704" crc="9340be40" sha1="d6bf6030129cc3d1aad7cf85d1b1da895dcf73f1"/>
+		<rom name="counterforcess16-9.png" size="2516834" crc="ee6d53d3" sha1="410a59de5f14f2a95cbb5d9d3f9cbf30e9ec4701"/>
+		<rom name="counterforcess16-9fs.png" size="2347104" crc="93dda44f" sha1="b54fee51965fc40bf500ec66675d5f320164bdb7"/>
+	</machine>
+	<machine name="Creature from the Black Lagoon (Bally)(1992)(fuzzel, flupper1, rothbauerw)(1.3)[VPX04]">
+		<description>Creature from the Black Lagoon (Bally)(1992)(fuzzel, flupper1, rothbauerw)(1.3)[VPX04]</description>
+		<rom name="Creature From The Black Lagoon (Bally 1992)_1.3.vpx" size="58167296" crc="fd251dea" sha1="ce00bdd13e8f79ddf8730dabbc30dbddc91b142c"/>
+		<rom name="screenshot-4-1038x1845.jpg" size="404129" crc="a003f002" sha1="ce74a1903ee7c2028e300c1977e9752a31961ede"/>
+	</machine>
+	<machine name="Cue Ball Wizard (Premier)(1992)(rascal)(1.2)[VPX05][VP9 to VPX conversion]">
+		<description>Cue Ball Wizard (Premier)(1992)(rascal)(1.2)[VPX05][VP9 to VPX conversion]</description>
+		<rom name="Cueball Wizard (Premier 1992 ).vpx" size="39862272" crc="492bb2ff" sha1="f42522e48f2b7ccfbcebe3922e85b61e9e0eae5d"/>
+		<rom name="cueballwizardss16-9.png" size="2203615" crc="810f2bbe" sha1="76f4fbf85064d7a9ed13cac66a358d4183a67e5d"/>
+		<rom name="cueballwizardss16-9fs.png" size="2163843" crc="69142466" sha1="29e9c4db93a72ee1cade34652bf3a5c43d932d16"/>
+	</machine>
+	<machine name="Cybernaut (Bally)(1985)(mistermixer, schreibi34)(1.0)[VPX06][original+darkmod+direct B2S+dof config line]">
+		<description>Cybernaut (Bally)(1985)(mistermixer, schreibi34)(1.0)[VPX06][original+darkmod+direct B2S+dof config line]</description>
+		<rom name="change image ramp and or apron.png" size="121246" crc="e6a2c8fc" sha1="ee218b7acd44f84feb8a50e427091b0f90673826"/>
+		<rom name="change z value droptarget.png" size="81401" crc="6492ad66" sha1="817921b7920faa80772da6fc789696dc59d51c06"/>
+		<rom name="cybernaut cabinet.png" size="2499294" crc="868e9da5" sha1="fb646e1d2c21e63263113737923830953b36ce5e"/>
+		<rom name="cybernaut dark cabinet.png" size="1950650" crc="9ab36ab0" sha1="d83f5a8624a0c8669c6a25901d2dd3da9c399ab7"/>
+		<rom name="cybernaut dark desktop.png" size="2404726" crc="8435b93a" sha1="b192a26cc2b581d548b35f55d8182e43ea4a320e"/>
+		<rom name="Cybernaut darkmod.directb2s" size="8820634" crc="4f028bfd" sha1="2a59979d16dd1420f273cd446c7c60c96b237c90"/>
+		<rom name="Cybernaut darkmod.vpx" size="60149760" crc="18ed8d7b" sha1="348fac9ff8bbc04d43d1a9d3b114c5aebcb2023a"/>
+		<rom name="cybernaut desktop.png" size="2973848" crc="fd38d431" sha1="4c08d79231f957babaa7c6dab1c0a14986b80659"/>
+		<rom name="Cybernaut.directb2s" size="9297745" crc="b65ee4ef" sha1="0e5b8259fc341cefb4e8fb97a790607bf6613b1d"/>
+		<rom name="Cybernaut.vpx" size="55898112" crc="465eee3f" sha1="43134e5061d1259115889307806822a0a81593b0"/>
+		<rom name="cybglass.png" size="4073301" crc="340bf10b" sha1="19d52dde556cd19d6b8f24b7731b8e87f01482e6"/>
+		<rom name="cybglassdark.png" size="3861269" crc="78214e29" sha1="cf5367b18f0efbf7c6fdf096c9fec0e7bf3a9075"/>
+		<rom name="dof config.txt" size="748" crc="61e73d10" sha1="0a60984f3379d7f8ccccf012a849a17f1969dbaa"/>
+		<rom name="read me.txt" size="1319" crc="caa931db" sha1="800f6d87f81a059970c8be685c66b78e7d03aedc"/>
+	</machine>
+	<machine name="Deadly Weapon (Gottlieb)(1990)(32assassin)(1.0)[VPX02]">
+		<description>Deadly Weapon (Gottlieb)(1990)(32assassin)(1.0)[VPX02]</description>
+		<rom name="Deadly Weapon (Gottlieb 1990) 1.0.png" size="3426398" crc="803dcf75" sha1="587558bfde21db105c2ca52447c66fc896c630b4"/>
+		<rom name="Deadly Weapon (Gottlieb 1990).vpx" size="29626368" crc="81cba288" sha1="317bd8a49552caff7ae44dc373ddb0a928973070"/>
+	</machine>
+	<machine name="Deadly Weapon (Gottlieb)(1990)(Schreibi34)(1.0.2)[VPX06]">
+		<description>Deadly Weapon (Gottlieb)(1990)(Schreibi34)(1.0.2)[VPX06]</description>
+		<rom name="Deadly Weapon (Gottlieb 1990) v1.0.2.vpx" size="96006144" crc="1037bdb5" sha1="a0c3dee2496cda97b0b189f834265a03353f15d5"/>
+		<rom name="dw-dt.png" size="4130705" crc="e19a70df" sha1="d92bd8e35e3d85bee021d38aa80b518ce1d78531"/>
+		<rom name="dw-fs.png" size="4161603" crc="62b57ecc" sha1="3d3da455b9eded578d93c9cb93537e4b1452ec42"/>
+	</machine>
+	<machine name="Defender (Williams)(1982)(32assassin)(1.0)[VPX04]">
+		<description>Defender (Williams)(1982)(32assassin)(1.0)[VPX04]</description>
+		<rom name="Defender (Williams 1982) 1.0 dt.png" size="3103844" crc="fa8c138d" sha1="40d57aa146ee5e7b2ffe4e6ebbfb5da53d4ee69d"/>
+		<rom name="Defender (Williams 1982).vpx" size="34181120" crc="e303a6a0" sha1="f4c0d9d79b81b62d0d1aeff4e16c452068b9bd28"/>
+	</machine>
+	<machine name="Defender (Williams)(1982)(takut)(1.0)[VPX04]">
+		<description>Defender (Williams)(1982)(takut)(1.0)[VPX04]</description>
+		<rom name="Defender (Williams 1982) 1.0.vpx" size="42803200" crc="ae179df3" sha1="46e86962b15ac94d8518c8e2c35551d988cbe06b"/>
+		<rom name="DT_View-2-600x338-1038x585.png" size="921436" crc="52cc528c" sha1="3e6f43256104f5a2cb0388de0f7b543a792d90a9"/>
+	</machine>
+	<machine name="Demolition Man (Williams)(1994)(Knorr-Kiwi)(1.3.1)[VPX05][DT]">
+		<description>Demolition Man (Williams)(1994)(Knorr-Kiwi)(1.3.1)[VPX05][DT]</description>
+		<rom name="Demolition Man (Williams)(1994)(Knorr-Kiwi)(1.3.1)[VPX05][DT]\Demolition Man (Knorr-Kiwi) 1.3.1.vpx" size="112349184" crc="c76d3a21" sha1="befd912da8df72145f62eb3cdfa89c9508040953"/>
+		<rom name="Demolition Man (Williams)(1994)(Knorr-Kiwi)(1.3.1)[VPX05][DT]\Demolition Man screenshot.png" size="917888" crc="1ab23d90" sha1="33bc185e41dc70dc23a7936aacc4a50b40b24504"/>
+	</machine>
+	<machine name="Diner (Williams)(1990)(Flupper)(1.2)[VPX02]">
+		<description>Diner (Williams)(1990)(Flupper)(1.2)[VPX02]</description>
+		<rom name="Diner VPX 1.2.vpx" size="61460480" crc="3d42a880" sha1="1e9c515bbc5d4f3009d414de16d1d55c0e7a98a6"/>
+		<rom name="screenshot1.jpg" size="1932870" crc="71097e93" sha1="ca6de06f76d6faae47fa742dc05ebcfe1308bc86"/>
+		<rom name="screenshot2.jpg" size="1860759" crc="d32737af" sha1="4858087ead58b95186ab610f223f783f6e29da40"/>
+		<rom name="screenshot3.jpg" size="1499726" crc="d5a066a0" sha1="5013128880c0b298e372dacc43bf5ed2adc0a17e"/>
+		<rom name="screenshot4.jpg" size="1568338" crc="b5905aa7" sha1="2faf383249246043659331375ebd96750741a98a"/>
+	</machine>
+	<machine name="Dirty Harry (Williams)(1995)(Knorr)(1.9)[VPX][FS+DT]">
+		<description>Dirty Harry (Williams)(1995)(Knorr)(1.9)[VPX][FS+DT]</description>
+		<rom name="Dirty Harry (Williams)(1995)(Knorr)(FS-DT)(VP10) 1.9.png" size="1346571" crc="530bc2c2" sha1="a3a6af4e7f92fcfa38e8b28c24116941c73bed7e"/>
+		<rom name="Dirty Harry 1.9 (Williams1995).vpx" size="72306688" crc="a3ea5f5f" sha1="010ad4b5d94e60524fa5e95532c82972b4c6d486"/>
+	</machine>
+	<machine name="Dolly Parton (Bally)(1978)(JPSalas)(1.0.2)[VPX05][DT+FS]">
+		<description>Dolly Parton (Bally)(1978)(JPSalas)(1.0.2)[VPX05][DT+FS]</description>
+		<rom name="Dolly Parton v1.0.2.vpx" size="11714560" crc="04fabe3e" sha1="e52b86b7d1b11414508c5f72e40d5b2bc8c56c20"/>
+		<rom name="dolly-parton-v102.jpg" size="1040647" crc="0d798ef9" sha1="d80baf1af3a82e41816520e212842ff482eead97"/>
+		<rom name="dolly-parton-v102fs.jpg" size="1329776" crc="31387eac" sha1="394b81f80046ef1fd28f1c8dba397f7d94d44362"/>
+	</machine>
+	<machine name="Dr. Dude (Bally)(1990)(wrd1972)(2.2)[VPX06][DT+FS]">
+		<description>Dr. Dude (Bally)(1990)(wrd1972)(2.2)[VPX06][DT+FS]</description>
+		<rom name="Dr Dude (Bally 1990)2.2.vpx" size="82141184" crc="73e0cc69" sha1="5233f007ebe5e70bb73e67b76c5f3cdcb43e5ba2"/>
+		<rom name="dt.png" size="3891137" crc="72d379dc" sha1="73034bc98e3319b913f7294fde943deb2a36a326"/>
+		<rom name="fs.png" size="3769159" crc="39717304" sha1="cbfba10bb2a1d5fa1494c441b7493a1d5e1d51d3"/>
+	</machine>
+	<machine name="Dracula (Stern)(1979)(Bord)(2.0)[VPX06][DT+FS+dB2S]">
+		<description>Dracula (Stern)(1979)(Bord)(2.0)[VPX06][DT+FS+dB2S]</description>
+		<rom name="drac2DT-1038x1282.jpg" size="270343" crc="c91e9298" sha1="ccbfaff9fcb7a836fe5862b8921afce7131364de"/>
+		<rom name="Dracula (Stern 1979).directb2s" size="11572376" crc="de34da2e" sha1="2f29f40ad163ed6dbff0b0ccd58675ae32d6762c"/>
+		<rom name="Dracula (Stern 1979).vpx" size="70782976" crc="20456baa" sha1="9b8b91d7c8cfe790a3d531cdc525aa3d1ce5f13b"/>
+	</machine>
+	<machine name="Dragon (Gottlieb)(1978)(BorgDog)(1.01)[VPX05][DT+FS]">
+		<description>Dragon (Gottlieb)(1978)(BorgDog)(1.01)[VPX05][DT+FS]</description>
+		<rom name="Dragon (Gottlieb 1978).directb2s" size="11311296" crc="5f9cd85e" sha1="635715b28b02c2841fa54fe1fcf8835f08498b7d"/>
+		<rom name="Dragon (Gottlieb 1978).vpx" size="49004544" crc="606db28c" sha1="3074fb96c514c3ab60d2ed46d34f17526ee0773f"/>
+		<rom name="Dragon screenshot.jpg" size="105585" crc="591a06bb" sha1="f82c1fafd52dcdc7d2fa8d28e0418534d14a5c64"/>
+		<rom name="DragonLandscapePOV.pov" size="1092" crc="15d75d0b" sha1="00f62d9914210e0c060feeae7a8b4e5e7a0c2c84"/>
+		<rom name="DragonPortraitPOV.pov" size="1093" crc="b282e056" sha1="2029b382850474e60b5b1529ff037368578a0002"/>
+	</machine>
+	<machine name="Drakor (Taito do Brasil)(1979)(JPSalas)[VPX06][DT+FS+dB2S]">
+		<description>Drakor (Taito do Brasil)(1979)(JPSalas)[VPX06][DT+FS+dB2S]</description>
+		<rom name="Drakor (Taito do Brasil - 1979) 2.0.0.vpx" size="13918208" crc="b36c1f6f" sha1="412e02047f1a30bfc63d588caa77ad0c6fad1012"/>
+		<rom name="drakor--taito-do-brasil---1979--200.jpg" size="3030531" crc="79cd2c76" sha1="d706d56f8f70ee8c031aed459169b2c3dc6e7e2e"/>
+		<rom name="drakor--taito-do-brasil---1979--200fs.jpg" size="3026264" crc="bbe2f8aa" sha1="7157fb1086261e493fbdb208f238886a4395bee7"/>
+	</machine>
+	<machine name="Dungeons and Dragons (Bally)(1987)(agentEighty6)(1.0.1)[VPX06]">
+		<description>Dungeons and Dragons (Bally)(1987)(agentEighty6)(1.0.1)[VPX06]</description>
+		<rom name="Bally_1987_Dungeons_Dragons_Manual.pdf" size="7096234" crc="22f84f87" sha1="820ee3169b376b1090d98d92085cefbc8387cbd0"/>
+		<rom name="dungdrag.nv" size="2094" crc="ea7aef86" sha1="e02782d8b9a7b288d3931f0a52254176fa7135ae"/>
+		<rom name="dungdrag.zip" size="220040" crc="850af1b1" sha1="abb28ab5852fbd9851835cc7b681d6c5f4eacd9a"/>
+		<rom name="Dungeons&amp;Dragons (Bally 1987) v1.0.1.vpx" size="38760448" crc="e1870e0b" sha1="57546063851cf324250b9500b59e870511cceb61"/>
+	</machine>
+	<machine name="Earthshaker (Williams)(1989)(32assassin)(0.9)[VPX06]">
+		<description>Earthshaker (Williams)(1989)(32assassin)(0.9)[VPX06]</description>
+		<rom name="Earthshaker (Williams 1989).vpx" size="122294272" crc="c8d3103d" sha1="9a1dddf46a34de1c64b22cd418ae8fa76226ed9e"/>
+		<rom name="ES.png" size="267897" crc="b89ef1b2" sha1="d3574ab6caf63d0cc8a8cf90d570d1428d35c2a7"/>
+	</machine>
+	<machine name="Eclipse (Gottlieb)(1982)(BordDog)(1.0)[VPX06][DT+FS+dB2S]">
+		<description>Eclipse (Gottlieb)(1982)(BordDog)(1.0)[VPX06][DT+FS+dB2S]</description>
+		<rom name="Eclipse (Gottlieb 1982).directb2s" size="17171574" crc="09c77ce4" sha1="3d45bb49accf284f1eb2790f17c4eb2359b073d9"/>
+		<rom name="Eclipse (Gottlieb 1982).vpx" size="76115968" crc="e39aae65" sha1="dbca6b2a1bf03aa232793010f850e5ddf2513987"/>
+		<rom name="EclipseDTpreview-1038x584.jpg" size="116624" crc="5e18ec19" sha1="101457b5d0a5d3c369eb8d1972d45155b36eede9"/>
+	</machine>
+	<machine name="Eight Ball (Bally)(1977)(JPSalas)(1.0.1)[VPX05][DT+FS]">
+		<description>Eight Ball (Bally)(1977)(JPSalas)(1.0.1)[VPX05][DT+FS]</description>
+		<rom name="Eight Ball (Bally 1977).vpx" size="12570624" crc="439ab49f" sha1="15aceb62bbbcc7a5b9b4c4994054acd6dc46801d"/>
+		<rom name="eight-ball--bally-1977-dt.jpg" size="1402681" crc="b93d44a1" sha1="080e87023006c9b1ca9697137bd5cf41b730de24"/>
+		<rom name="eight-ball--bally-1977-fs.jpg" size="1322947" crc="a9bc04e0" sha1="05397cc95e59c813a5fdacc9036e1f80dbfbc02c"/>
+	</machine>
+	<machine name="Eight Ball Deluxe (Bally)(1981)(chefkoch)(1.0.2)[VPX05][DT]">
+		<description>Eight Ball Deluxe (Bally)(1981)(chefkoch)(1.0.2)[VPX05][DT]</description>
+		<rom name="EB_Deluxe_VP_Edition1.0.2.vpx" size="11759616" crc="1dadd4b9" sha1="d044879b110b633aee906916f6bc9332c0b9acc7"/>
+		<rom name="TableImage-600x338-1038x584.jpg" size="163187" crc="75aa24a0" sha1="bd9f75c26497c9949b6f14d7fb66b2576b91fa2b"/>
+	</machine>
+	<machine name="Eight Ball Deluxe (Bally)(1984)(chefkoch)(1.02)[VPX05][Desktop Edition]">
+		<description>Eight Ball Deluxe (Bally)(1984)(chefkoch)(1.02)[VPX05][Desktop Edition]</description>
+		<rom name="EB_Deluxe_VP_Edition1.0.2.vpx" size="11759616" crc="1dadd4b9" sha1="d044879b110b633aee906916f6bc9332c0b9acc7"/>
+		<rom name="TableImage-600x338-1038x584.jpg" size="163187" crc="75aa24a0" sha1="bd9f75c26497c9949b6f14d7fb66b2576b91fa2b"/>
+	</machine>
+	<machine name="Elektra (Bally)(1981)(32assassin)(1.1)[VPX01][DT+FS]">
+		<description>Elektra (Bally)(1981)(32assassin)(1.1)[VPX01][DT+FS]</description>
+		<rom name="Elektra (Bally 1981).vpx" size="35991552" crc="0d8a25dc" sha1="d892957b466bcceb1891162d9d6188f9a9171e0a"/>
+		<rom name="Elektra screenshot.png" size="3925380" crc="bfd054f0" sha1="d09575c51b099fa01484329b0e7c78cda9857ed1"/>
+	</machine>
+	<machine name="Elvira and the Party Monsters (Bally)(1989)(32assassin)(2.3)[VPX05]">
+		<description>Elvira and the Party Monsters (Bally)(1989)(32assassin)(2.3)[VPX05]</description>
+		<rom name="Elvira and the Party Monsters (Bally 1989).vpx" size="61136896" crc="769633b7" sha1="97fdf7d0cf5d514da6b83781c58db9cc6716cec9"/>
+		<rom name="elvira.png" size="906416" crc="d86381d8" sha1="70a2edd169aa5b351b3d7cb50867d5952b7239ca"/>
+	</machine>
+	<machine name="Elvis (Stern)(2004)(JPSalas)(1.1.0)[VPX04][DT+FS]">
+		<description>Elvis (Stern)(2004)(JPSalas)(1.1.0)[VPX04][DT+FS]</description>
+		<rom name="Elvis v1.0.2 White suit.zip" size="72572" crc="e8b4760c" sha1="c757997c50e147b8e195cf843a622fa9c43e6fa6"/>
+		<rom name="Elvis v1.1.0.vpx" size="12869632" crc="21651a58" sha1="4f917c48da6ed4b11431f9e96e041e43778e2630"/>
+		<rom name="elvis-v110.jpg" size="1213515" crc="d59b0113" sha1="1d53d811a0a3e42d8af0ee07a64efd10ca6b940e"/>
+		<rom name="elvis-v110fs.jpg" size="1516496" crc="74958df8" sha1="477016ea66f188e39819c4ab2b25e0e8be1aa74b"/>
+	</machine>
+	<machine name="Excalibur (Gottlieb)(1988)(Rascal)(1.2)[VPX05][VP9 to VPX conversion]">
+		<description>Excalibur (Gottlieb)(1988)(Rascal)(1.2)[VPX05][VP9 to VPX conversion]</description>
+		<rom name="Excalibur (Gottlieb 1988) v1.2.vpx" size="26714112" crc="7a7f37cc" sha1="37a3a89ca4c470f9cc723b7721b6fb8268167236"/>
+		<rom name="excaliburss16-9.png" size="1842153" crc="fae3ee37" sha1="82fb24ab4e33acc2ae66209c9de8d58db643d58a"/>
+		<rom name="excaliburss16-9fs.png" size="2145491" crc="8ab37eec" sha1="7b7e2aa7eeefc01c47d43103bbbabf8ac3e7212f"/>
+	</machine>
+	<machine name="Faeton (Juegos Populares)(1985)(JPSalas)(1.0.3)[VPX05][DT+FS]">
+		<description>Faeton (Juegos Populares)(1985)(JPSalas)(1.0.3)[VPX05][DT+FS]</description>
+		<rom name="Faeton (Juegos Populares 1985) 1.0.3.vpx" size="19161088" crc="9f669063" sha1="390a5754ab77fcacb49c9a251749bfd5517d4aa5"/>
+		<rom name="Faeton (Lighthouse, Wildman)(1.1)[dB2S]\Faeton (Juegos Populares 1985).directb2s" size="21116633" crc="0dc098b1" sha1="763dc212824d57eb94cbfd413eecdb5f40442eb2"/>
+		<rom name="Faeton (Lighthouse, Wildman)(1.1)[dB2S]\Faeton screenshot.jpg" size="508183" crc="e195e38f" sha1="a3206e25877ab35509707ba5fae81b5b4e35a786"/>
+		<rom name="faeton--juegos-populares---1986--100-fs.jpg" size="1020309" crc="77dbf313" sha1="5a138dded92384140c50362d09e2396b872b9da3"/>
+		<rom name="faeton--juegos-populares---1986--100.jpg" size="1054674" crc="d8bffc4e" sha1="93f3e55d964aa8fcfb592f1e0fca8a764c91b56b"/>
+	</machine>
+	<machine name="Farfalla (Zaccaria)(1983)(32assassin)(1.0)[VPX05]">
+		<description>Farfalla (Zaccaria)(1983)(32assassin)(1.0)[VPX05]</description>
+		<rom name="Farfalla (Zaccaria 1983).vpx" size="28078080" crc="8ababd51" sha1="4ce8b8fc6e1ddf365f5eba0e1bc265930bfae5bd"/>
+		<rom name="farfalla.png" size="1019115" crc="81d41f69" sha1="78bcb49beb8d4d92904fc1eb2095deb778908c4d"/>
+	</machine>
+	<machine name="Farfalla (Zaccaria)(1983)(kiwi)(1.0.0)[VPX05][DT+FS+FSS kiwi][DOF arngrim]">
+		<description>Farfalla (Zaccaria)(1983)(kiwi)(1.0.0)[VPX05][DT+FS+FSS kiwi][DOF arngrim]</description>
+		<rom name="Farfalla (Zaccaria 1983) 1.0.0.vpx" size="43188224" crc="3e599f5f" sha1="e49d1767ade919c0c91af806f1a752be7581a0e9"/>
+		<rom name="farfalladt.png" size="3909926" crc="61c3134f" sha1="9099ebd9f516962034b17d1a68d7e609c12df7a4"/>
+		<rom name="farfallafs.png" size="2964898" crc="2aeab81f" sha1="58296a1d56c9176dc6c08a60255ae47bc7bc36a6"/>
+		<rom name="farfallafss.png" size="3466285" crc="45786752" sha1="04ad8d1d177df9735a78c5c5d04562fb31df334b"/>
+	</machine>
+	<machine name="Fire Action (Taito do Brasil)(1980)(JPSalas)(2.0.0)[VPX06][DT+FS+dB2S]">
+		<description>Fire Action (Taito do Brasil)(1980)(JPSalas)(2.0.0)[VPX06][DT+FS+dB2S]</description>
+		<rom name="Fire Action (Taito do Brasil - 1980) 2.0.0.vpx" size="18587648" crc="81d1da97" sha1="3a7c53d1fa69e3173aade0d563b109bfe642d5d7"/>
+		<rom name="fire-action--taito-do-brasil---1980--200.jpg" size="2648007" crc="d98700d6" sha1="230c57a65e7c2ea2a32f6946515de491efa4050b"/>
+		<rom name="fire-action--taito-do-brasil---1980--200fs.jpg" size="2549378" crc="1d105357" sha1="f04f713aa542cd5eee2f4d9cbed2c680cda6bddc"/>
+	</machine>
+	<machine name="Fire Action De Luxe (Taito do Brasil)(1983)(JPSalas)(2.0.0)[VPX06][DT+FS]">
+		<description>Fire Action De Luxe (Taito do Brasil)(1983)(JPSalas)(2.0.0)[VPX06][DT+FS]</description>
+		<rom name="Fire Action de Luxe (Taito do Brasil - 1983) 2.0.0.vpx" size="17952768" crc="66be546f" sha1="cecd9d0bd031628a2273f103bb2e64bd4df46da2"/>
+		<rom name="Fire Action de Luxe v1.0.1.vpx" size="16044032" crc="33ba8c2e" sha1="288ea02fab23e4756b2214b72af97eea7631fab3"/>
+		<rom name="fire-action--100.jpg" size="1173232" crc="c0736317" sha1="6b18ca0a561f9cbbcaf0f231c8fb21d7c578a8d2"/>
+		<rom name="fire-action-de-luxe--taito-do-brasil---1983--200.jpg" size="2601604" crc="6ca87691" sha1="4c637b1156d9675d25411b91552dcd2aba846cc4"/>
+		<rom name="fire-action-de-luxe--taito-do-brasil---1983--200fs.jpg" size="2753831" crc="fe3f0ba1" sha1="3dcc2f83d084259925781c34f7e7885385a6046d"/>
+		<rom name="fire-action-fs--100.jpg" size="1288669" crc="a8506280" sha1="0dc8091b78f5fa5c246ece405835e7ad500092ea"/>
+	</machine>
+	<machine name="Firepower (Williams)(1980)(3rdaxis)(1.0.2)[VPX06][1 Player only mode]">
+		<description>Firepower (Williams)(1980)(3rdaxis)(1.0.2)[VPX06][1 Player only mode]</description>
+		<rom name="FirePower(1Player)V1.0.2.vpx" size="225984512" crc="f7ec3aa8" sha1="db70c397ad567013de636a1e8b747803da92079f"/>
+		<rom name="firepower-1player-.jpg" size="561608" crc="7ca8c398" sha1="7a64673e95e5cbcc1697559a26cd627e4c0c8072"/>
+	</machine>
+	<machine name="Firepower (Williams)(1980)(3rdaxis, Slydog43, G5K Collaboration)(1.0.1)[VPX05][DT+FS]">
+		<description>Firepower (Williams)(1980)(3rdaxis, Slydog43, G5K Collaboration)(1.0.1)[VPX05][DT+FS]</description>
+		<rom name="FirepowerV1.0.1.vpx" size="141099008" crc="c2a0b961" sha1="4b25650485c98b211c9e20102f0155b70b9ac341"/>
+		<rom name="fpss1.png" size="2297985" crc="6713c62c" sha1="df94ee68c707b6210370da668a9acc03bebd0fb1"/>
+		<rom name="fpss2.png" size="3271684" crc="8f4e5a7b" sha1="344718807f1093397212bc9e4c6026c22a9b2bf8"/>
+		<rom name="fpss3.png" size="2879018" crc="6475cce5" sha1="617d632ed4a3ef78227dd2729dffcc6063a3b465"/>
+	</machine>
+	<machine name="Flight 2000 (Stern)(1980)(bord)(2.0)[VPX05][DT+FS]">
+		<description>Flight 2000 (Stern)(1980)(bord)(2.0)[VPX05][DT+FS]</description>
+		<rom name="Flight 2000 (Stern)(1980)(bord)(2.0)[VPX05][DT+FS]\Flight 2000 (Stern 1980).vpx" size="39407616" crc="6f721754" sha1="54d01bcaf96e83a663b8e46c26aa91eaf0101773"/>
+		<rom name="Flight 2000 (Stern)(1980)(bord)(2.0)[VPX05][DT+FS]\Flight 2000 screenshot.jpg" size="172075" crc="9fd3ae39" sha1="a4cf88b8f7da0aadbc5ce1fd7794b9e514553547"/>
+	</machine>
+	<machine name="Flight 2000 (Stern)(1980)(HSM)(1.00b)[VPX05]">
+		<description>Flight 2000 (Stern)(1980)(HSM)(1.00b)[VPX05]</description>
+		<rom name="Flight 2000 (Stern)(1980)(HSM)(1.00b)[VPX05]\Flight 2000 (Stern 1980).vpx" size="39215104" crc="969dcf27" sha1="e1c23ae78a09a83d887b2fcc369536cc4669f81c"/>
+		<rom name="Flight 2000 (Stern)(1980)(HSM)(1.00b)[VPX05]\Flight 2000 screenshot.png" size="3228130" crc="14bc619f" sha1="18a913be134c2b79aaa9aafafe1d74a64205e8e5"/>
+	</machine>
+	<machine name="Flintstones, The  (Williams)(1994)(G5k,3rdaxis,DJRobx)(1.25.3)[VPX06][DT+FS+dB2S]">
+		<description>Flintstones, The  (Williams)(1994)(G5k,3rdaxis,DJRobx)(1.25.3)[VPX06][DT+FS+dB2S]</description>
+		<rom name="Backglasses\The Flintstones (Williams 1994) CARTOON.directb2s" size="45551673" crc="14acf29d" sha1="51f07642bbf4fe6c93f56d48f0b0c3d58357b2aa"/>
+		<rom name="Backglasses\The Flintstones (Williams 1994).directb2s" size="46740243" crc="378964d6" sha1="1af52be18016f88261ed96450e08d608869a92cc"/>
+		<rom name="fs_screenshotcab2.png" size="4975255" crc="2edc45e6" sha1="1b50a321e2354d82e4701b8a67f984f6654e1651"/>
+		<rom name="fs_screenshotdt2.png" size="4871624" crc="eb46ad49" sha1="0af0399fbb19200aa4085ed353d322f475418d85"/>
+		<rom name="The Flintstones (Williams 1994) v1.25.3.vpx" size="201650176" crc="a05adb96" sha1="ff3e1b30833f5c583500c3d1d8a80ccc036aa2d1"/>
+	</machine>
+	<machine name="Flintstones, The (Williams)(1994)(G5k, 3rdaxis, DJRobX)(1.25.3)[VPX06][DT+FS+dB2S+SSF]">
+		<description>Flintstones, The (Williams)(1994)(G5k, 3rdaxis, DJRobX)(1.25.3)[VPX06][DT+FS+dB2S+SSF]</description>
+		<rom name="Backglasses\The Flintstones (Williams 1994) CARTOON.directb2s" size="45551673" crc="14acf29d" sha1="51f07642bbf4fe6c93f56d48f0b0c3d58357b2aa"/>
+		<rom name="Backglasses\The Flintstones (Williams 1994).directb2s" size="46740243" crc="378964d6" sha1="1af52be18016f88261ed96450e08d608869a92cc"/>
+		<rom name="fs_screenshotcab.png" size="3878632" crc="32e96490" sha1="bf4e6f1c10a2f1ba92e7ed6b9cd61c1ce7ac88db"/>
+		<rom name="fs_screenshotcab2.png" size="3874782" crc="51e9c30e" sha1="9d6405716fcd67515a9192ff34ceb409f6c7988a"/>
+		<rom name="fs_screenshotdt.png" size="4885802" crc="347bceda" sha1="0ac295cfbf3a55f7a3c8a6f6fef71fff5719bfb2"/>
+		<rom name="fs_screenshotdt2.png" size="4871624" crc="eb46ad49" sha1="0af0399fbb19200aa4085ed353d322f475418d85"/>
+		<rom name="The Flintstones (Williams 1994) v1.25.3.vpx" size="201650176" crc="a05adb96" sha1="ff3e1b30833f5c583500c3d1d8a80ccc036aa2d1"/>
+	</machine>
+	<machine name="Flipper Football (Capcom)(1996)(32assassin)(0.99)[VPX05]">
+		<description>Flipper Football (Capcom)(1996)(32assassin)(0.99)[VPX05]</description>
+		<rom name="Flipper Football (Capcom 1996).vpx" size="18993152" crc="9543d084" sha1="82c2550810cc66a1a7eab84d46beced8b0a98d9d"/>
+		<rom name="Flipper Football - DMD in playfield MOD.vpx" size="18993152" crc="3208d76e" sha1="faa8d7bb097b4853de71181feb510fceaa2c9d2a"/>
+		<rom name="Flipper-Pinball-600x338-1038x584.png" size="844396" crc="f9a05897" sha1="0a0bd3b3a1bd3027cf00f97fbc5b40031c77659d"/>
+	</machine>
+	<machine name="Football (Taito do Brasil)(1979)(JPSalas)(1.0.2)[VPX06][DT+FS]">
+		<description>Football (Taito do Brasil)(1979)(JPSalas)(1.0.2)[VPX06][DT+FS]</description>
+		<rom name="(Editoy, Culik)(dB2S)(1.1)\Football (Taito 1979).directb2s" size="20949993" crc="96a5ecad" sha1="8cd56b0e8658c077437475038e4b50bab90ebdbf"/>
+		<rom name="(Editoy, Culik)(dB2S)(1.1)\football--taito-1979--illuminated.png" size="9130347" crc="f8b86c79" sha1="c2e950aab51d54cb1c940e095a251d445c57baa7"/>
+		<rom name="Football (Taito 1979) 1.0.2.vpx" size="11603968" crc="817d795d" sha1="ab53e7688e6dce0230f3555e98fb014375cc8bc6"/>
+		<rom name="football--taito-1979--100.jpg" size="1113695" crc="0e5b4874" sha1="8c21b98c075003334562ff4288989947c3a062a8"/>
+		<rom name="football--taito-1979--100fs.jpg" size="1043024" crc="3b1a6209" sha1="e4759c18a06da0595e8f2b1377f7572fe09ad3af"/>
+	</machine>
+	<machine name="Force II (Gottlieb)(1981)(Rascal)(1.1)[VPX05][VP8 to VPX conversion]">
+		<description>Force II (Gottlieb)(1981)(Rascal)(1.1)[VPX05][VP8 to VPX conversion]</description>
+		<rom name="Force II (Gottlieb 1981).vpx" size="39026688" crc="89a4d10a" sha1="816cc520386b76a759f7afc78d30869445809d28"/>
+		<rom name="forceiiss16-9.png" size="1427309" crc="57179eba" sha1="bfc8c61cecee95b119f6a9ea6d3d50e29d17e23c"/>
+		<rom name="forceiiss16-9fs.png" size="2149597" crc="fbf001e1" sha1="25b5bedbea4efabef60e18f3a4dcba10475c6961"/>
+	</machine>
+	<machine name="Freddy A Nightmare on Elm Street (Gottlieb)(1994)(JPJ-Team-PP)(1.1b)[VPX05][DT+FS][DOF arngrim][PM5toVPX]">
+		<description>Freddy A Nightmare on Elm Street (Gottlieb)(1994)(JPJ-Team-PP)(1.1b)[VPX05][DT+FS][DOF arngrim][PM5toVPX]</description>
+		<rom name="Freddy A Nightmare On Elm Street (Gottlieb 1994) 1.1b JPJ - Team PP - Hauntfreaks Mod.vpx" size="99577856" crc="d9e67161" sha1="28469f1c1f4bb605597d60b1ed08c269c0dea706"/>
+		<rom name="screenshot.png" size="1151389" crc="0fe2d25e" sha1="0780dd74379349b8d1112256926681a428031912"/>
+	</machine>
+	<machine name="Funhouse (Williams)(1990)(wrd1972)(2.0b)[VPX06][DT+FS wrd1972][DOF arngrim][req ROM FH_906H]">
+		<description>Funhouse (Williams)(1990)(wrd1972)(2.0b)[VPX06][DT+FS wrd1972][DOF arngrim][req ROM FH_906H]</description>
+		<rom name="FHFS-338x600-1038x1845.png" size="2915090" crc="bbae6fd4" sha1="4dc7851643e0e5663ef04a78b8e8c2ba9d8c2065"/>
+		<rom name="Funhouse (Williams 1990)2.0b.vpx" size="189440000" crc="c9b9ef2c" sha1="8614ebfe6b027493a90d7a6445e52e9f102eaeca"/>
+	</machine>
+	<machine name="Future Spa (Bally)(1979)(JPSalas)(1.0.1)[VPX04]">
+		<description>Future Spa (Bally)(1979)(JPSalas)(1.0.1)[VPX04]</description>
+		<rom name="Future Spa (Bally)(1979)(JPSalas)(1.0.1)[VPX04]\Future Spa screenshot.jpg" size="1374286" crc="6a7cd7c4" sha1="33355395ebe152a995850ab1f3738bfe9bd41f79"/>
+		<rom name="Future Spa (Bally)(1979)(JPSalas)(1.0.1)[VPX04]\Future Spa VPX v1.0.1.vpx" size="11218944" crc="860bd92d" sha1="c297a52283bd33a8c0c90bfd9abf74ab21f8114e"/>
+	</machine>
+	<machine name="Galaxy Play (CIC Play)(1986)(mfuegemann)(1.2)[VPX04][DT+FS]">
+		<description>Galaxy Play (CIC Play)(1986)(mfuegemann)(1.2)[VPX04][DT+FS]</description>
+		<rom name="GalaxyPlay_1_2.vpx" size="56025088" crc="2f12e2f9" sha1="8f1daab95fd5473e1158277e9b34278ac837d39f"/>
+		<rom name="GalaxyPlay_PF.png" size="2568269" crc="f70f705e" sha1="07d5ac66f495dd1854e92f4c9ceedf29ceeff827"/>
+		<rom name="GalaxyPlay_SCoreCard.png" size="41645" crc="914856df" sha1="f84e39e4e2157a7e292fe555a6b9728cd7524109"/>
+		<rom name="glxplay.zip" size="5915" crc="d366ec2a" sha1="827530a5b64281a3caf333a90ac7dcc1716f3939"/>
+		<rom name="screen_dt.jpg" size="407229" crc="91c540b2" sha1="329efdf5cee141b111da81646946708108d639a7"/>
+		<rom name="screen_fs.jpg" size="359497" crc="33e92ffc" sha1="85737f3b35a4af7f57dbd9b38beb22208a3d84b5"/>
+	</machine>
+	<machine name="Gemini 2000 (Taito do Brasil)(1982)(JPSalas)(2.0.0)[VPX06][DT+FS+dB2S]">
+		<description>Gemini 2000 (Taito do Brasil)(1982)(JPSalas)(2.0.0)[VPX06][DT+FS+dB2S]</description>
+		<rom name="(1.0.2)[VPX05][DT+FS]\Gemini 2000 (Desktop) screenshot.jpg" size="1388981" crc="f42a690c" sha1="8a004c97a5307f90a83954b345b792124bfcbf9e"/>
+		<rom name="(1.0.2)[VPX05][DT+FS]\Gemini 2000 (FullScreen) screenshot.jpg" size="1385971" crc="5d8785c3" sha1="24afbd4fffecd33ec81b2756de9477eefcba6fa5"/>
+		<rom name="(1.0.2)[VPX05][DT+FS]\Gemini 2000 (Taito-1982) 1.0.2.vpx" size="11251712" crc="51f943b6" sha1="010f859890ad4d51b1a27326331a5264f6416be9"/>
+		<rom name="(2.0.0)[VPX06][DT+FS]\Gemini 2000 (Taito do Brasil - 1982) 2.0.0.vpx" size="11530240" crc="1696a2ae" sha1="9fc752b5f306ede0c40542e6264b465571d4f345"/>
+		<rom name="(2.0.0)[VPX06][DT+FS]\gemini-2000--taito-do-brasil---1982--200.jpg" size="2756164" crc="52062bc5" sha1="cfabc34af899d0b08bf7b380d7db721f8fc01732"/>
+		<rom name="(2.0.0)[VPX06][DT+FS]\gemini-2000--taito-do-brasil---1982--200fs.jpg" size="2674086" crc="fba73be4" sha1="eaba5df7794d1afa4e6d28921330341d30a6503b"/>
+	</machine>
+	<machine name="Genie (Gottlieb)(1979)(bord)(1.0a)[VPX06][DT+FS+dB2S+FSS][DOF]">
+		<description>Genie (Gottlieb)(1979)(bord)(1.0a)[VPX06][DT+FS+dB2S+FSS][DOF]</description>
+		<rom name="Genie (Gottlieb 1979).vpx" size="74944512" crc="36fe2536" sha1="bab3ddf0939fd28f058ac093b1994b66ac241582"/>
+		<rom name="Genie_DT-1038x590.jpg" size="128445" crc="1dea29af" sha1="ad9fa6a2c4ad737ad0be92a5de7b66e21a8cab0c"/>
+	</machine>
+	<machine name="Getaway, The - High Speed II (Williams)(1992)(32assassin, flupper1, ganjafarmer)(1.1)[VPX04][DT+FS]">
+		<description>Getaway, The - High Speed II (Williams)(1992)(32assassin, flupper1, ganjafarmer)(1.1)[VPX04][DT+FS]</description>
+		<rom name="flyerBACK-1.jpg" size="293076" crc="4439aea0" sha1="a0752bd9482d10d061d694ad3282ca6be9cd3306"/>
+		<rom name="flyerFRONT-1.jpg" size="192705" crc="4804021f" sha1="3e61e1df58583850f7192e61baf34667f7aa8ba4"/>
+		<rom name="Getaway, The - High Speed II v1.1.directb2s" size="15890634" crc="a8eba9b8" sha1="b61d739db5b1ed8f636267260dc224295af529b5"/>
+		<rom name="Getaway, The - High Speed II v1.1.vpx" size="61120512" crc="6c7dda3b" sha1="bfd33d22eea02d8bd75937dcc5680f491dadfd43"/>
+		<rom name="hs2_bg.png" size="2677183" crc="177678f1" sha1="2a6773c4c8ea0679cd94076f3b83f88b691c2e6f"/>
+		<rom name="hs2_dt.jpg" size="2018799" crc="e4d48cf3" sha1="42b35141eb85e5fa9dac95991d784fea97af2931"/>
+		<rom name="hs2_fs.jpg" size="1882705" crc="b60c9c35" sha1="c63648cf20933048f50caa1f157dc677e41de071"/>
+	</machine>
+	<machine name="Gilligan's Island (Bally)(1991)(dark)(1.3)[VPX]">
+		<description>Gilligan's Island (Bally)(1991)(dark)(1.3)[VPX]</description>
+		<rom name="Gilligan's Island  (Bally 1991)_Modulated Flashers.vpx" size="73588736" crc="16d78d27" sha1="e6051a3bab8543acd66f0e78e2f0f60f54706667"/>
+		<rom name="Gilligan's Island (Bally 1991) VPX_Classic Flashers.vpx" size="74493952" crc="dab2fe0f" sha1="f6aed9c9d5159df03bc70a814a6060806cd0c2db"/>
+		<rom name="Read-Me.txt" size="418" crc="79665c2b" sha1="584f452ed62666911a767190f9aa5abc10a408a2"/>
+	</machine>
+	<machine name="Gilligan's Island (Bally)(1991)(dark)[VPX06][PhysicsUpdate1.0]">
+		<description>Gilligan's Island (Bally)(1991)(dark)[VPX06][PhysicsUpdate1.0]</description>
+		<rom name="Gilligan's Island (Bally 1991) VPX_PhysicsUpdate1.0.vpx" size="79548416" crc="cdee718e" sha1="2dfacca440a9979005f06e952c4914102e85c824"/>
+		<rom name="Progress18-1038x1844.jpg" size="358221" crc="3f3fda53" sha1="a5c4ae761e60244a33c26ebc6155b2ba88ccc055"/>
+	</machine>
+	<machine name="Gladiators (Gottlieb)(1993)(Kiwi)(1.0)[VPX05][DT+FS+FSS]">
+		<description>Gladiators (Gottlieb)(1993)(Kiwi)(1.0)[VPX05][DT+FS+FSS]</description>
+		<rom name="Gladiators (Premier 1993) v1.0.0.vpx" size="31272960" crc="4c85a169" sha1="8d8d475d1017799aeecc07e4941c9bacbdd87414"/>
+		<rom name="gladiatorsdtx.png" size="3672150" crc="8889856c" sha1="d97394f38dd83dc5745d676df1fd22518d828a88"/>
+		<rom name="gladiatorsfssx.png" size="3017900" crc="174d9a79" sha1="de6ae440865bee35b941b29aaa81c1f5312da1f7"/>
+		<rom name="gladiatorsfsx.png" size="2367455" crc="c0997fdf" sha1="e0255441d2b8010b6baa56975b66b7ce18c779bf"/>
+	</machine>
+	<machine name="Goin' Nuts (Gottlieb)(1983)(bord)(1.0)[VPX05]">
+		<description>Goin' Nuts (Gottlieb)(1983)(bord)(1.0)[VPX05]</description>
+		<rom name="gn-1038x986.jpg" size="176206" crc="60827766" sha1="ff2ce71c70389fa7c605469009b77084f044eaf9"/>
+		<rom name="Goin' Nuts (Gottlieb 1983).vpx" size="57364480" crc="e4b9a601" sha1="24e1b4de4ce8000e20c1851e779b021c5c4cd2c7"/>
+		<rom name="Goin'-Nuts-Gottlieb-1983 3.1 STAT, Wildman, chucky87\Goin%u2019-Nuts-Gottlieb-1983-3.1-1-600x476.png" size="1395163" crc="7746eaf4" sha1="9cb0b78b30b15cbb3629583f4f2c4db3fd1a892a"/>
+		<rom name="Goin'-Nuts-Gottlieb-1983 3.1 STAT, Wildman, chucky87\Goin’ Nuts (Gottlieb 1983).directb2s" size="3340809" crc="6b1f7331" sha1="24a8a3a6b04ec58d003c8d7c98a5b2a1c675f50e"/>
+	</machine>
+	<machine name="Gold Ball (Bally)(1983)(Kalavera3)(1.0)[VPX05][DT+FS]">
+		<description>Gold Ball (Bally)(1983)(Kalavera3)(1.0)[VPX05][DT+FS]</description>
+		<rom name="Gold Ball (Bally 1983).vpx" size="42147840" crc="dab060c1" sha1="bc9f32df13c025e02c3fcaf6df8c452eb422c896"/>
+		<rom name="Gold Ball (Desktop) screenshot.png" size="1351729" crc="aee3efc8" sha1="256366cd43d016116de1595ee908a120c73addf0"/>
+		<rom name="Gold Ball (FullScreen) screenshot.png" size="1521779" crc="f50caf13" sha1="cab170913cb7b3076d68618f03f954e50617b9fd"/>
+	</machine>
+	<machine name="Gork (Taito do Brasil)(1984)(JPSalas)(2.0.0)[VPX06][DT+FS]">
+		<description>Gork (Taito do Brasil)(1984)(JPSalas)(2.0.0)[VPX06][DT+FS]</description>
+		<rom name="(1.0.3)[VPX04][DT+FS]\Gork (Desktop) screenshot.jpg" size="707351" crc="60d6ba3d" sha1="eec0dafab841206d1b53a01c72171cb46f095a01"/>
+		<rom name="(1.0.3)[VPX04][DT+FS]\Gork (FullScreen) screenshot.jpg" size="704123" crc="ab437ad4" sha1="9dda3390e1608945afe0c987bff0e0cceb2caf1b"/>
+		<rom name="(1.0.3)[VPX04][DT+FS]\Gork 1.0.3.vpx" size="11223040" crc="f14f0285" sha1="395de692ec1d720c4d721cc49ce244d5ccc536c6"/>
+		<rom name="(1.0.3)[VPX04][DT+FS]\plastics_eng.zip" size="1144531" crc="80b58d73" sha1="5fc485336b2d68efe7d8da5d90bb75c7e9526be5"/>
+		<rom name="(2.0.0)[VPX06][DT+FS]\Gork (Taito do Brasil - 1982) 2.0.0.vpx" size="12283904" crc="2b19ffc0" sha1="a496f5c60c5df2bd80d24dadedf9f893ce6a61a6"/>
+		<rom name="(2.0.0)[VPX06][DT+FS]\gork--taito-do-brasil---1982--200.jpg" size="2775476" crc="65b151aa" sha1="a0f350c7bc1195afb7101bc1e468145500fb9bc0"/>
+		<rom name="(2.0.0)[VPX06][DT+FS]\gork--taito-do-brasil---1982--200fs.jpg" size="2860839" crc="cafbe89e" sha1="f759577fc77cd912d016ff5cd4ef22d02f61979d"/>
+		<rom name="Gork (Taito)(1983)(STAT)(2.3)(directb2s)\Gork (dB2S) screenshot.png" size="2198878" crc="410f18d9" sha1="2988dfa562a3f2fd7cbf08b827b21b23951147d5"/>
+		<rom name="Gork (Taito)(1983)(STAT)(2.3)(directb2s)\Gork (Taito 1983).directb2s" size="22755540" crc="635f71a7" sha1="bfd25ceb624c9ba11c94300c4a0d51438afbaa54"/>
+	</machine>
+	<machine name="Grand Lizard (Williams)(1986)(3rdaxis, Slydog43)(1.5)[VPX06][DT+FS]">
+		<description>Grand Lizard (Williams)(1986)(3rdaxis, Slydog43)(1.5)[VPX06][DT+FS]</description>
+		<rom name="gl_ss4.png" size="3181349" crc="f6315c2a" sha1="9fa048c9ea00a257cbf518fdd2c5b5fa48e45db6"/>
+		<rom name="GrandLizardV1.5.vpx" size="216805376" crc="899a0a82" sha1="b7e1857cc622c04f7ae941923131e7ab8cbe0d10"/>
+		<rom name="screanshot3.jpg" size="674957" crc="8559e1cb" sha1="2d1d866f08c2a3d5335b3f69ed1470a22f7a3eae"/>
+	</machine>
+	<machine name="Granny and the Gators (Bally)(1984)(LoadedWeapon, DartMarino)(1.1a)[VPX05][DT+FS][VP9 LW table conversion]">
+		<description>Granny and the Gators (Bally)(1984)(LoadedWeapon, DartMarino)(1.1a)[VPX05][DT+FS][VP9 LW table conversion]</description>
+		<rom name="Granny and the Gators (Bally 1984) 1.1.vpx" size="19046400" crc="26ecc5ad" sha1="d75a81937bb56c3c7392170f48c6048a84be14b3"/>
+		<rom name="Granny-and-the-Gators-Bally-1984-directb2s-2.0-STAT,lazzlo,DarthMarino\Granny and the Gators (Bally 1984).directb2s" size="1388151" crc="84b04c14" sha1="23d4a0ccaebef4996eb087f4faf0d9b6d6279d12"/>
+		<rom name="Granny-and-the-Gators-Bally-1984-directb2s-2.0-STAT,lazzlo,DarthMarino\Granny-and-the-Gators-Bally-1984-BG-571x600.png" size="549192" crc="70e8ec13" sha1="31f0baf22ad2764133f623691e045b9874381deb"/>
+		<rom name="Granny-desktop-1038x584.png" size="853286" crc="b00d8261" sha1="8594619527a0aa8a1d6bf89a0fba05d5ffc3fab5"/>
+	</machine>
+	<machine name="Hardbody (Bally)(1987)(Tom, Mlager8)(1.1)[VPX06][DT+FS]">
+		<description>Hardbody (Bally)(1987)(Tom, Mlager8)(1.1)[VPX06][DT+FS]</description>
+		<rom name="Hardbody (Bally 1987).vpx" size="182501376" crc="db7fa15e" sha1="79487dd394126bb687bcdf8861ec6a10a0979cc6"/>
+		<rom name="Hardbody-Bally-1987.png" size="2810272" crc="e60c606f" sha1="b3bcbab46a0a5c90ac2d412e6a12c36794c1b37b"/>
+		<rom name="hardbody.nv" size="2094" crc="85e1435e" sha1="62009da73158b502bdeeb71cc255634909a7f2b3"/>
+	</machine>
+	<machine name="Harley Davidson (Bally)(1991)(JPSalas)(1.0.2)[VPX05][DT+FS]">
+		<description>Harley Davidson (Bally)(1991)(JPSalas)(1.0.2)[VPX05][DT+FS]</description>
+		<rom name="Harley Davidson (Bally)(1991)(JPSalas)(1.0.2)[VPX05][DT+FS]\Harley Davidson (Bally - 1991) v1.0.2.vpx" size="18415616" crc="5c05153a" sha1="06ebd6fa52f6becc62e7013d0fe66bcb2d4cccbc"/>
+		<rom name="Harley Davidson (Bally)(1991)(JPSalas)(1.0.2)[VPX05][DT+FS]\Harley Davidson (Desktop) screenshot.jpg" size="1108055" crc="38067ad6" sha1="ffa27699ce91a267f513896b9489acdd843504bb"/>
+		<rom name="Harley Davidson (Bally)(1991)(JPSalas)(1.0.2)[VPX05][DT+FS]\Harley Davidson (FullScreen) screenshot.jpg" size="1589242" crc="60b51a9e" sha1="2e475a184c40097e8fdd4d7e94a312927a06f294"/>
+	</machine>
+	<machine name="Haunted House (Gottlieb)(1982)(cyberpez)(1.0)[VPX05][DT+FS]">
+		<description>Haunted House (Gottlieb)(1982)(cyberpez)(1.0)[VPX05][DT+FS]</description>
+		<rom name="Haunted House (Gottlieb 1982) 1.0.vpx" size="117477376" crc="74021a31" sha1="015cd9c36b2213515688ad88d098015ed0fd98df"/>
+		<rom name="hhdt1.png" size="1893929" crc="a5ee8137" sha1="be72d4b863decba0ad91d7544efabe12b745de80"/>
+		<rom name="hhfs1.png" size="2047170" crc="7426c279" sha1="8b9a98c72c41d89747173978a9153c202064f4b1"/>
+		<rom name="hhfs2.png" size="2081068" crc="ba2a14ce" sha1="4a98b9fd432f53693f7af43f7ad5db1731c6480e"/>
+		<rom name="hhfss1.png" size="1156594" crc="3dd164d0" sha1="6b3ee4e5824191f9b47060e92f0b076a4d05fe50"/>
+	</machine>
+	<machine name="Hawkman (Taito do Brasil)(1983)(JPSalas)(2.0.0)[VPX06][DT+FS+dB2S]">
+		<description>Hawkman (Taito do Brasil)(1983)(JPSalas)(2.0.0)[VPX06][DT+FS+dB2S]</description>
+		<rom name="Hawkman (Taito do Brasil - 1983) 2.0.0.vpx" size="17989632" crc="5e193f15" sha1="1ecd08aa2767f35e64d690842a205c1658786b22"/>
+		<rom name="hawkman--taito-do-brasil---1983--200.jpg" size="2822559" crc="74dc6de3" sha1="a2c045776bea6a85f16e2c0c9108b1443717927d"/>
+		<rom name="hawkman--taito-do-brasil---1983--200fs.jpg" size="2919384" crc="ed86df2d" sha1="4a8f46c882b503a110df4268acf57238d635a6a0"/>
+	</machine>
+	<machine name="Hercules (Atari)(1976)(randr)(wip1.6)[VPX06][DT+FS]">
+		<description>Hercules (Atari)(1976)(randr)(wip1.6)[VPX06][DT+FS]</description>
+		<rom name="Hercules_wip1_6.vpx" size="21577728" crc="442aff81" sha1="b2e77d0c46d8923b5b71d4205f28d4d839c1149e"/>
+		<rom name="Screen-Shot.png" size="2199854" crc="f7ca8c74" sha1="b36cb06e47467ca66b97b1339f5f125a6fad2759"/>
+	</machine>
+	<machine name="High Speed (Williams)(1986)(32assassin)(2.0)[VPX03][DT Krugger99, Flupper1, Nfozzy contribution]">
+		<description>High Speed (Williams)(1986)(32assassin)(2.0)[VPX03][DT Krugger99, Flupper1, Nfozzy contribution]</description>
+		<rom name="High Speed (Williams 1986) 2.0 dt.png" size="3467277" crc="1a1e1cb9" sha1="4bad614e23aa7d131c4ebf099c496c1b52f47b70"/>
+		<rom name="High Speed (Williams 1986).vpx" size="34930688" crc="5f34b93a" sha1="ecc1aebadea84c653f4c2e3d10ce0b008f3667d9"/>
+	</machine>
+	<machine name="Hoops (Gottlieb)(1991)(Kalavera)(1.03)[VPX05][DT+FS]">
+		<description>Hoops (Gottlieb)(1991)(Kalavera)(1.03)[VPX05][DT+FS]</description>
+		<rom name="Hoops (Gottlieb)(1991)(Kalavera)(1.0)[VPX05][DT+FS]\Hoops (Desktop) screenshot.png" size="1227105" crc="7c83810b" sha1="2cd7a86193ab03c9b3f6a40198f12bde37dc010c"/>
+		<rom name="Hoops (Gottlieb)(1991)(Kalavera)(1.0)[VPX05][DT+FS]\Hoops (Gottlieb 1991).vpx" size="33464320" crc="96c44ce0" sha1="7ffd2f3cca748553939a2c85229f3bddbecbecc6"/>
+		<rom name="Hoops (Gottlieb)(1991)(Kalavera)(1.03)[VPX05][DT+FS]\Hoops (Desktop) screenshot.png" size="1779919" crc="a2041a99" sha1="f9b67b99d07ef8beb3a0fc888f66beac24e0f189"/>
+		<rom name="Hoops (Gottlieb)(1991)(Kalavera)(1.03)[VPX05][DT+FS]\Hoops (FullScreen) screenshot.png" size="1750387" crc="24b510dc" sha1="566e0f0453bdd903af47265296c1a9c799963ef6"/>
+		<rom name="Hoops (Gottlieb)(1991)(Kalavera)(1.03)[VPX05][DT+FS]\Hoops (Gottlieb 1991).vpx" size="33972224" crc="8e896eff" sha1="c3ddf0fdcdf4994e877e5b88196dad138959b73e"/>
+	</machine>
+	<machine name="Hot Ball (Taito do Brasil)(1979)(JPSalas)(2.0.0)[VPX06][DT+FS+dB2S]">
+		<description>Hot Ball (Taito do Brasil)(1979)(JPSalas)(2.0.0)[VPX06][DT+FS+dB2S]</description>
+		<rom name="Hot Ball (Taito do Brasil 1979)  2.0.0.vpx" size="15253504" crc="879510bd" sha1="1fc0cdc652bcb967ae90f10600b02c687af60bef"/>
+		<rom name="hot-ball--taito-do-brasil-1979---200.jpg" size="2336695" crc="93d499b7" sha1="32b725f6d1370d0bfa47b2e59d348cd7ea95ed8b"/>
+		<rom name="hot-ball--taito-do-brasil-1979---200fs.jpg" size="2241309" crc="b4d41c7e" sha1="7f75dc24ef2f52b447f09d72d3fdb362b8ae0330"/>
+	</machine>
+	<machine name="Hot Shots (Gottlieb)(1989)(Shannon, Randr)(1.0[VPX05][DT+FS+dB2S]">
+		<description>Hot Shots (Gottlieb)(1989)(Shannon, Randr)(1.0[VPX05][DT+FS+dB2S]</description>
+		<rom name="Hot Shots (Gottlieb 1989).directb2s" size="51348922" crc="0e21920a" sha1="259270fb59fdb1f4435720558ca28d6176dbad84"/>
+		<rom name="Hot Shots (Gottlieb 1989).vpx" size="93302784" crc="615f2411" sha1="543d0b8be83ae42acd8a2e20d54833b45262bb94"/>
+		<rom name="HS-1-1024x576-1038x584.png" size="989861" crc="6445cf77" sha1="8402619542641849a20685fe10e6775518d047e2"/>
+	</machine>
+	<machine name="Hot Shots (Premier)(1989)(Rascal)(1.1)[VPX05][Destruk, MNPG VP8 to VPX conversion]">
+		<description>Hot Shots (Premier)(1989)(Rascal)(1.1)[VPX05][Destruk, MNPG VP8 to VPX conversion]</description>
+		<rom name="Hot Shots (Premier 1989).vpx" size="23556096" crc="2bc3b023" sha1="d0bd1116f31a76b7ff6c238116b7764ef4525960"/>
+		<rom name="hotshotsss16-9.png" size="2321267" crc="5bb4ce0e" sha1="4c95db5c731755bc5dbd75704b965de2ec54b8b3"/>
+		<rom name="hotshotsss16-9fs.png" size="2536301" crc="5c5dcbf8" sha1="2cf9f2d49a244efe2a602a71644269f89a00c932"/>
+	</machine>
+	<machine name="Hot Tip (Williams)(1977)">
+		<description>Hot Tip (Williams)(1977)</description>
+		<rom name="Hot Tip (Williams)(1977)(32assassin)(3.3)[Desktop][VP-X].vpx" size="19378176" crc="02254265" sha1="902081ac6a980a1d7a19302f5fb119c3b852c9a8"/>
+		<rom name="Hot Tip readme.txt" size="453" crc="bf5b2e50" sha1="fc810dd87d0f14a194f9ecfae0bafb8c1b4dce7e"/>
+		<rom name="Hot Tip screenshot.png" size="2977717" crc="23d6fcda" sha1="62d9a137924e95b7108be31eb9040b4e44fa09fe"/>
+	</machine>
+	<machine name="Hot Tip (Williams)(1977)(Schreibi34, Herweh)(1.0)[VPX06]">
+		<description>Hot Tip (Williams)(1977)(Schreibi34, Herweh)(1.0)[VPX06]</description>
+		<rom name="Hot Tip (Williams 1977) - v1.0.vpx" size="71528448" crc="333d6077" sha1="d4f29067dfcc571c6893483dd21b6f84b3f03dff"/>
+		<rom name="HT-DT.png" size="260360" crc="077d841a" sha1="e89dd27817d8b01461de912a85b725a7a9a5881e"/>
+	</machine>
+	<machine name="House of Diamonds (Zaccaria)(1978)(LuvThatApex, Destruk, HSM)(1.0)[VPX06]">
+		<description>House of Diamonds (Zaccaria)(1978)(LuvThatApex, Destruk, HSM)(1.0)[VPX06]</description>
+		<rom name="hod.png" size="5295358" crc="96b61691" sha1="3f98b7186ea2368cfb5c5ceb60c57914e3bc578c"/>
+		<rom name="House of Diamonds (Zaccaria 1978).vpx" size="27066368" crc="cefac267" sha1="4433c91ae8a3b1cad6bed1f44ac8754cb38636fd"/>
+	</machine>
+	<machine name="Hurricane (Williams)(1991)(Herweh)(1.0.1)[VPX05][DT+FS+dB2S]">
+		<description>Hurricane (Williams)(1991)(Herweh)(1.0.1)[VPX05][DT+FS+dB2S]</description>
+		<rom name="Hurricane (Williams 1991).vpx" size="68182016" crc="e5b991c9" sha1="6c73e0599fbcb73f03c8add892edd0c32326d21d"/>
+		<rom name="hurricanehd8.png" size="4083083" crc="c851a164" sha1="d97c34d53d38f6835dd8582a831bd58e03687625"/>
+		<rom name="hurricanehd9.png" size="4178586" crc="6e200f80" sha1="718b1bb6e18cfd65496d013f04553f1833f7aef6"/>
+		<rom name="hurricanews.png" size="2992995" crc="9e14ff05" sha1="87bd547de46a146f96ed02c662f71b507d0fd0f1"/>
+	</machine>
+	<machine name="Ice Fever (Gottlieb)(1985)(Rascal)(1.1)[VPX05][Conversion from lolo's VP9 to VPX]">
+		<description>Ice Fever (Gottlieb)(1985)(Rascal)(1.1)[VPX05][Conversion from lolo's VP9 to VPX]</description>
+		<rom name="Ice Fever (Gottliieb 1985).vpx" size="26271744" crc="9ca78ed8" sha1="4820d0d6a8e8b4965835e373bb616adef0ca30f0"/>
+		<rom name="icefeverss16-9.png" size="2221575" crc="069a28cb" sha1="2b049e621b0d0a7755c2e88fdae2cfa140ec2ad3"/>
+		<rom name="icefeverss16-9fs.png" size="2085668" crc="6525e763" sha1="e51b3082cb6193800aa8bab3f70c5b8b87d9f0d8"/>
+	</machine>
+	<machine name="Ice Fever (Gottlieb)(1985)(Tom, Borgdog, Bord, Thalamus, Arngrim,Wildman)(1.1)[VPX05][DT+FS][dB2S][SSF][DOF]">
+		<description>Ice Fever (Gottlieb)(1985)(Tom, Borgdog, Bord, Thalamus, Arngrim,Wildman)(1.1)[VPX05][DT+FS][dB2S][SSF][DOF]</description>
+		<rom name="Ice Fever (Gottlieb 1985).directb2s" size="4682155" crc="c2909efd" sha1="823a6583330950ede29a8ae30a01ca5902189685"/>
+		<rom name="Ice Fever (Gottlieb 1985).vpx" size="44781568" crc="2b34a386" sha1="34ba0160a0a1d9a2d4e461da8688a7095147cab9"/>
+		<rom name="Ice Fever (Gottlieb 1985)color score.directb2s" size="4613272" crc="a3d2301b" sha1="9c21f111d19b7f25707a8b5af68f1d0935db50b5"/>
+		<rom name="Ice Fever (Gottlieb 1985)Original GI.vpx" size="40882176" crc="81bb78f1" sha1="34fa2d831a021c5c96c7ba9f2f5c9fac0a52b66c"/>
+		<rom name="Ice Fever Media\Ice Fever (Gottlieb 1985)BG.f4v" size="388875" crc="65839351" sha1="13356bf1b485d64648f53c268f4a6dff93c18c00"/>
+		<rom name="Ice Fever Media\Ice Fever (Gottlieb 1985)PF.f4v" size="1113736" crc="7116a0aa" sha1="79464f7de5df5e41e39f7fea5fcca78a8b7fff97"/>
+		<rom name="Ice Fever Media\Ice Fever (Gottliieb 1985).png" size="65704" crc="092532f3" sha1="e8a34e0c32b25265058ce870e58b56356bf263ee"/>
+		<rom name="pfup-1-1038x1841.png" size="2911120" crc="0050f5f6" sha1="fa6c7fdc1cc83a7b5a78b332367f92a80c988796"/>
+	</machine>
+	<machine name="Incredible Hulk, The (Gottlieb)(1979)(BorgDog, Hauntfreaks, 32assassin)(2.0)[VPX05][DT+FS+dB2S]">
+		<description>Incredible Hulk, The (Gottlieb)(1979)(BorgDog, Hauntfreaks, 32assassin)(2.0)[VPX05][DT+FS+dB2S]</description>
+		<rom name="Hulk2.0-preview-1038x584.jpg" size="131637" crc="89728af5" sha1="3ad635aab61d9286ef2f71d08c3361ad2879b101"/>
+		<rom name="Incredible Hulk, The (Gottlieb 1979).directb2s" size="37567113" crc="77088dc7" sha1="b269fa83f344c02ba87faccc2aaa5b718dd82422"/>
+		<rom name="Incredible Hulk, The (Gottlieb 1979).vpx" size="61091840" crc="174ffdc5" sha1="207b97fbb428006623bfc1a47c7a39846cd34c60"/>
+	</machine>
+	<machine name="Iron Maiden (Stern)(1982)(JPSalas)(1.0.2)[VPX05][DT+FS]">
+		<description>Iron Maiden (Stern)(1982)(JPSalas)(1.0.2)[VPX05][DT+FS]</description>
+		<rom name="Iron Maiden (Stern 1982).vpx" size="22380544" crc="7d6b31c8" sha1="29f9ff2f1ab7588985302d1cbe06bf73695d2f38"/>
+		<rom name="iron-maiden--stern-1982-.jpg" size="2492245" crc="b481bfde" sha1="4d86b580468d02d90e254d0cac142255e58926d9"/>
+		<rom name="iron-maiden--stern-1982-fs.jpg" size="2471846" crc="685631f1" sha1="8af80b43bd67b463ccd30127b45b2de8e057ec56"/>
+	</machine>
+	<machine name="Iron Man (Stern)(2010)">
+		<description>Iron Man (Stern)(2010)</description>
+		<rom name="Iron Man (Stern)(2010)(freneticamnesic, 32assassin)(1.0)[VP-X04]\Iron Man (Stern 2010).vpx" size="30584832" crc="56e4ebd3" sha1="d905983dbe2c0b4c15abf236fbf76f6888f95ffc"/>
+		<rom name="Iron Man (Stern)(2010)(freneticamnesic, 32assassin)(1.0)[VP-X04]\Iron Man screenshot.png" size="912833" crc="8f17c13c" sha1="be0dba7844c4c379e639f53617f3bfd8030fb4b7"/>
+		<rom name="Iron Man (Stern)(2010)(freneticamnesic, Diemonik)(2.0.6)[VP-X]\Iron Man (Stern)(2010)(Freneticamnesic, Diemonik)(2.0.6).vpx" size="58155008" crc="8f10c413" sha1="4af30942d5f4a0a8a4c7536e695729f767e36ffb"/>
+		<rom name="Iron Man (Stern)(2010)(freneticamnesic, Diemonik)(2.0.6)[VP-X]\Iron Man screensot.png" size="757948" crc="06873c20" sha1="cb014bf92daecebf4a665e1d4301055d2fab32ca"/>
+	</machine>
+	<machine name="Jacks to Open (Mylstar)(1984)(Rascal)(1.1)[VPX05][Destruk, MNPG VP8 to VPX conversion]">
+		<description>Jacks to Open (Mylstar)(1984)(Rascal)(1.1)[VPX05][Destruk, MNPG VP8 to VPX conversion]</description>
+		<rom name="Jacks to Open (Mylstar 1984).vpx" size="21659648" crc="9df27c7d" sha1="6c89619d0a6356b05e4d832e2a0dd49f72c092aa"/>
+		<rom name="jackstoopenss16-9.png" size="1983406" crc="97dd07ce" sha1="4edbf2929b50aa7164b1ddb034fc8646dac6936e"/>
+		<rom name="jackstoopenss16-9fs.png" size="2355070" crc="f4bf618c" sha1="aa7cf84da4c1fd7e15b10cc4a3bb57471eccf286"/>
+	</machine>
+	<machine name="James Cameron's Avatar (Stern)(2010)(Thalamus)(1.14)[VPX05][FP Freneticamnesic table to VP conversion MOD]">
+		<description>James Cameron's Avatar (Stern)(2010)(Thalamus)(1.14)[VPX05][FP Freneticamnesic table to VP conversion MOD]</description>
+		<rom name="avatar 080116a mod 1.14.vpx" size="50315264" crc="3058dfc6" sha1="8aa8f793937d4adc33a6f7b9fb54d1ee1a5e3f51"/>
+		<rom name="avatar-576x1024.png" size="1893113" crc="85f0c95e" sha1="530707f2af553688a6a2c19933551ef6335c9a18"/>
+	</machine>
+	<machine name="Jokerz! (Williams)(1988)(JPSalas)(1.0.2)[VPX04][DT+FS]">
+		<description>Jokerz! (Williams)(1988)(JPSalas)(1.0.2)[VPX04][DT+FS]</description>
+		<rom name="Jokerz! (Williams)(1988)(JPSalas)(1.0.2)[VPX04][DT+FS]\Jokerz! (Desktop) screenshot.jpg" size="464579" crc="aa1fce60" sha1="4e286ccabad9c85e7aad7f5df609c7adad8f8651"/>
+		<rom name="Jokerz! (Williams)(1988)(JPSalas)(1.0.2)[VPX04][DT+FS]\Jokerz! (FullScreen) screenshot.jpg" size="519247" crc="7f1a0df3" sha1="25f1242d47f06cdbd43b84614d5ab52235ba0460"/>
+		<rom name="Jokerz! (Williams)(1988)(JPSalas)(1.0.2)[VPX04][DT+FS]\JP's Jokerz!_v1.0.2.vpx" size="10543104" crc="bb25e770" sha1="2f32a906b898fab582fca74cb40d956b33af6baf"/>
+	</machine>
+	<machine name="Jolly Park (Spinball)(1996)(JPSalas)(1.0.5)[VPX05][DT+FS][DOF][req. vpinmame 3.2]">
+		<description>Jolly Park (Spinball)(1996)(JPSalas)(1.0.5)[VPX05][DT+FS][DOF][req. vpinmame 3.2]</description>
+		<rom name="Jolly Park (Spinball - 1996) 1.0.5.vpx" size="29085696" crc="0f6d2ec1" sha1="b93d9bee8fea8245a1b9d2dc1fca30790e4c63bb"/>
+		<rom name="Jolly Park (Spinball)(1996)(roccodimarco)(1.0)[FS + 2S backglass]\2screens.jpg" size="163648" crc="d87a4c33" sha1="b19d1e690af9cb0eccda2d43d6b0c1ee5cfb4fc3"/>
+		<rom name="Jolly Park (Spinball)(1996)(roccodimarco)(1.0)[FS + 2S backglass]\full.jpg" size="157546" crc="ca65a32e" sha1="61fd7c65c3b96ac4cf1aaaf2e6e3bdc159d58835"/>
+		<rom name="Jolly Park (Spinball)(1996)(roccodimarco)(1.0)[FS + 2S backglass]\Jolly Park (Spinball 1996).directb2s" size="7785284" crc="0d944638" sha1="79f9e54a5ebda6477238bad46b786e622100eeb4"/>
+		<rom name="Jolly Park (Spinball)(1996)(roccodimarco)(1.0)[FS + 2S backglass]\Jolly Park (Spinball 1996)full .directb2s" size="8029504" crc="21ebcd5e" sha1="ef8539b80e688eda6f82ff7ba6bb525191215fec"/>
+		<rom name="jolly-park--spinball---1996--100.jpg" size="1366085" crc="7dfd857a" sha1="c6d532202d7fb0b6f1ee165f3424380c14a82f10"/>
+		<rom name="jolly-park--spinball---1996--100fs.jpg" size="1555136" crc="4acdf0c0" sha1="87518c82101057d5fba63504c98242004bb256b6"/>
+	</machine>
+	<machine name="Kidnap (CIC Play)(1986)">
+		<description>Kidnap (CIC Play)(1986)</description>
+		<rom name="Kidnap (CIC Play)(1986)(mfuegemann)(1.0)[dB2S]\dB2S_akiles_screenshot.png" size="1957672" crc="7283c3c2" sha1="1ef49e09f3c9d5db7dd01fb7c512d12ab8481865"/>
+		<rom name="Kidnap (CIC Play)(1986)(mfuegemann)(1.0)[dB2S]\dB2S_mf_screen.png" size="2106961" crc="66fe0b42" sha1="262e5c2ee4d8594f518f646e1dd8e784551cfc9e"/>
+		<rom name="Kidnap (CIC Play)(1986)(mfuegemann)(1.0)[dB2S]\Kidnap_B2S_1_0_Akiles_16_9.directb2s" size="8608904" crc="797d0996" sha1="9a839c3d1002073f62856526fe4e79a39248a852"/>
+		<rom name="Kidnap (CIC Play)(1986)(mfuegemann)(1.0)[dB2S]\Kidnap_B2S_1_0_MF_4_3.directb2s" size="5512709" crc="383932da" sha1="a9830a686319421dee65948f5e315c15b35c5fc3"/>
+		<rom name="Kidnap (CIC Play)(1986)(mfuegemann)(1.0)[VPX-04][FS&amp;Dt]\Kidnap (Desktop) screenshot.jpg" size="452330" crc="efb40b0e" sha1="05ec6df5125a50a1fec18ebde8c37fcbcd331c4f"/>
+		<rom name="Kidnap (CIC Play)(1986)(mfuegemann)(1.0)[VPX-04][FS&amp;Dt]\Kidnap (FullScreen) screenshot.jpg" size="428265" crc="efb03b5a" sha1="dd16ab263c03331c85c9561f5e8607b134bde3ce"/>
+		<rom name="Kidnap (CIC Play)(1986)(mfuegemann)(1.0)[VPX-04][FS&amp;Dt]\kidnap.zip" size="7517" crc="120cc911" sha1="563a3af0c938a5f8806ae5162067ff76829a96c0"/>
+		<rom name="Kidnap (CIC Play)(1986)(mfuegemann)(1.0)[VPX-04][FS&amp;Dt]\Kidnap_PF.png" size="2763562" crc="a9bd3655" sha1="83e7687056ccddada6737ec8de2f73922e2bdb91"/>
+		<rom name="Kidnap (CIC Play)(1986)(mfuegemann)(1.0)[VPX-04][FS&amp;Dt]\Kidnap_scorecard.doc" size="24064" crc="275b1b68" sha1="f228969ebdb18d2e97554e0495da5019a21fcabc"/>
+		<rom name="Kidnap (CIC Play)(1986)(mfuegemann)(1.0)[VPX-04][FS&amp;Dt]\Kidnap_VPX_1_0.vpx" size="63696896" crc="a2481301" sha1="c5dc3290d5a5279bf90c24d4c4d9db8c4b34484e"/>
+	</machine>
+	<machine name="Killzone - Be a Helghast Trooper (TBA 2019)(Ivantba)(1.0)[VPX05][Source Table JPSalas FreeFall v1.1]">
+		<description>Killzone - Be a Helghast Trooper (TBA 2019)(Ivantba)(1.0)[VPX05][Source Table JPSalas FreeFall v1.1]</description>
+		<rom name="freefall.zip" size="11068" crc="392ba3ed" sha1="d4c7d534f3cba4e8ca0c1c31793a4af9de5d875e"/>
+		<rom name="Killzone (TBA 2019).directb2s" size="5734670" crc="7657d630" sha1="2810d58388913778dd07fb9eb7e3c74f2c55548c"/>
+		<rom name="Killzone (TBA 2019).vpx" size="173621248" crc="0ffda863" sha1="1f83687ced02408bafb3c59a1ece80fbc2d48ffe"/>
+		<rom name="killzone--tba-2019-.png" size="4650902" crc="ad827072" sha1="c6af23cfd019baffa4221b85170a5abd0cd3b41e"/>
+		<rom name="Media pack (for PinballX)\Flyer Images\Back\Killzone (TBA 2019).jpg" size="3567889" crc="971a30fc" sha1="31a1ae97b13b876756e6c7fb7f68708c643a0edf"/>
+		<rom name="Media pack (for PinballX)\Flyer Images\Front\Killzone (TBA 2019).jpg" size="2732396" crc="50bb4fc1" sha1="b9d8a96ace788fbdfa2527a18254c8ebce9b767c"/>
+		<rom name="Media pack (for PinballX)\Flyer Images\Inside1\Killzone (TBA 2019).jpg" size="174466" crc="82f91f9e" sha1="eaed4c7ec8d63e80e103e6dba0db4ccd03945ece"/>
+		<rom name="Media pack (for PinballX)\Flyer Images\Inside2\Killzone (TBA 2019).jpg" size="795446" crc="c34f4571" sha1="94ef0fd57cde948082b7b2a50611c6f8fa2ee46a"/>
+		<rom name="Media pack (for PinballX)\Flyer Images\Inside3\Killzone (TBA 2019).jpg" size="187297" crc="65709789" sha1="a0038ac73814b8eb0ac5bf5a14ddfc5d7439a598"/>
+		<rom name="Media pack (for PinballX)\Flyer Images\Inside4\Killzone (TBA 2019).jpg" size="184019" crc="f91370ec" sha1="37c047b7fc214a96d41d60a498fc9cdc08b9c2bd"/>
+		<rom name="Media pack (for PinballX)\Flyer Images\Inside5\Killzone (TBA 2019).png" size="6197426" crc="682859b8" sha1="ced0cc89ec635a9efd4aa84d31b6d1df3ab5e2e8"/>
+		<rom name="Media pack (for PinballX)\Flyer Images\Inside6\Killzone (TBA 2019).jpg" size="302625" crc="3715ef67" sha1="dd39085f8b6846d1b2f6c368fd68d8141d857be6"/>
+		<rom name="Media pack (for PinballX)\Instruction Cards\Killzone (TBA 2019).png" size="394486" crc="2f484847" sha1="5eeedd0d82bcbab86b1b5f2025e7c8f546310d96"/>
+		<rom name="Media pack (for PinballX)\Visual Pinball\Launch Audio\Killzone (TBA 2019).mp3" size="167040" crc="3da43236" sha1="24d7e423ed080d93d690ae5b3e318bfbcc565e6c"/>
+		<rom name="Media pack (for PinballX)\Visual Pinball\Table Audio\Killzone (TBA 2019).mp3" size="3719972" crc="dba4f6ee" sha1="92f98969a08c649c9878d32688a0139821f15cf8"/>
+		<rom name="Media pack (for PinballX)\Visual Pinball\Table Images Desktop\Killzone (TBA 2019).png" size="4650902" crc="ad827072" sha1="c6af23cfd019baffa4221b85170a5abd0cd3b41e"/>
+		<rom name="Media pack (for PinballX)\Visual Pinball\Table Images\Killzone (TBA 2019).png" size="2206470" crc="14acd269" sha1="ef7c7b6f454d016418173d9f5772f31b7e84c016"/>
+		<rom name="Media pack (for PinballX)\Visual Pinball\Wheel Images\Killzone (TBA 2019).png" size="24246" crc="86a3a95f" sha1="2742b261ab2eec1b5776feb97ba0f8475f33799c"/>
+	</machine>
+	<machine name="KISS (Bally)(1979)(jbg4208, JPSalas, 32assassin, Borgdog, Popotte)(2.3)[VPX05][DT+FS][DOF arngrim]">
+		<description>KISS (Bally)(1979)(jbg4208, JPSalas, 32assassin, Borgdog, Popotte)(2.3)[VPX05][DT+FS][DOF arngrim]</description>
+		<rom name="DesktopKISS-1024x576.jpg" size="590631" crc="4e9aa346" sha1="da25eb4a11bf7785374921f6d07e68c46c54368b"/>
+		<rom name="Kiss (Bally 1979)2.2.vpx" size="34103296" crc="11623042" sha1="f3edb7aa365c7d5cdb8b750ddd125706e3050769"/>
+		<rom name="Kiss (Bally 1979)2.3.vpx" size="34041856" crc="997f1ce8" sha1="e40208f683c89d37e373a997d8c8cbbe2cca38e9"/>
+	</machine>
+	<machine name="Kiss (Bally)(1979)(Tom)(1.3)[VPX06]">
+		<description>Kiss (Bally)(1979)(Tom)(1.3)[VPX06]</description>
+		<rom name="Kiss (Bally 1979).vpx" size="33173504" crc="5c155a40" sha1="c530653d7faf209b344e5a75cbffc8b8181ccb23"/>
+		<rom name="Kiss-1-1038x1825.png" size="2774056" crc="6b8627af" sha1="5fda173e744851f2f4f1e8fcf1b91d57648808b0"/>
+	</machine>
+	<machine name="Krull (Gottlieb)(1983)(Rascal)(1.2)[VPX05][Conversion mfuegemann's VP9 to VPX]">
+		<description>Krull (Gottlieb)(1983)(Rascal)(1.2)[VPX05][Conversion mfuegemann's VP9 to VPX]</description>
+		<rom name="Krull (Gottlieb 1983).vpx" size="19714048" crc="771d1f55" sha1="ce9e48afa578880082fbc324ac1a3037532e39a4"/>
+		<rom name="krullss16-9.png" size="1792083" crc="ee65c21e" sha1="015850647155fa6151ed3ea8e32b7e6d57dd9823"/>
+		<rom name="krullss16-9fs.png" size="1687165" crc="02477ab8" sha1="d3724f1b7752d4179b4f84fbd821b97af41a5809"/>
+	</machine>
+	<machine name="Lady Death (Geiger)(1983)(Siggi)(1.0)[VPX05][FS mod kit Mata Hari Bally table]">
+		<description>Lady Death (Geiger)(1983)(Siggi)(1.0)[VPX05][FS mod kit Mata Hari Bally table]</description>
+		<rom name="Lady Death (Geiger 1983)\Lady Dead (Geiger 1983)1.0.vpx" size="43720704" crc="e1a20b0e" sha1="360988937d90d5e2ebf3523017c395012212701b"/>
+		<rom name="Lady Death (Geiger 1983)\vampirella_wheel.png" size="575324" crc="ef13f97f" sha1="3186295c948c8df8cc0443c02d31fa5082d10525"/>
+		<rom name="LD_Vamp_PF-338x600-1038x1845.png" size="2816021" crc="50f15481" sha1="0a0366413bdab40f78016d8e99efa1fb19afb8c5"/>
+	</machine>
+	<machine name="Lady Luck (Bally)(1986)(Kalavera)(1.1)[VPX05][DT+FS]">
+		<description>Lady Luck (Bally)(1986)(Kalavera)(1.1)[VPX05][DT+FS]</description>
+		<rom name="Lady Luck (Bally 1986).vpx" size="56496128" crc="965dddd6" sha1="1eb9e0cccc04de0774448def1c8b52b04a51ffdf"/>
+		<rom name="lady-luck--bally-1986-dt.png" size="1590681" crc="b3d37d4b" sha1="2b55065c08e19927923ce24812da75348d298191"/>
+		<rom name="lady-luck--bally-1986-fs.png" size="1503167" crc="11f6c4b0" sha1="4a3cdde6e96f0b2e0981cb97ff0be2597108a2a4"/>
+	</machine>
+	<machine name="Lady Luck (Taito do Brasil)(1978)(JPSalas)(2.0.0)[VPX06][DT+FS]">
+		<description>Lady Luck (Taito do Brasil)(1978)(JPSalas)(2.0.0)[VPX06][DT+FS]</description>
+		<rom name="1.0.1\Lady Luck (Desktop) screenshot.jpg" size="1234708" crc="33cea0cc" sha1="0bd31b61a04157d111c41d919e39c95c4f3164b6"/>
+		<rom name="1.0.1\Lady Luck (FullScreen) screenshot.jpg" size="1152666" crc="e5770272" sha1="a1b5002718a0af52b6723b3e31029f2b76b2027b"/>
+		<rom name="1.0.1\Lady Luck 1.0.1.vpx" size="11046912" crc="95b21501" sha1="509fd47aef512ff707ba3d089a4133505f8402d1"/>
+		<rom name="2.0.0\Lady Luck (Taito do Brasil - 1978) 2.0.0.vpx" size="11988992" crc="dba8e9b2" sha1="ac5984dc78708c2eaad5fb470822e9ff8a2f83ce"/>
+		<rom name="2.0.0\lady-luck--taito-do-brasil---1978--200.jpg" size="2657694" crc="7e97545a" sha1="9a2dcb02173f3dcfb12d99a93e3e80e739fbd2f4"/>
+		<rom name="2.0.0\lady-luck--taito-do-brasil---1978--200fs.jpg" size="2637003" crc="0e7654be" sha1="c442482ef05c7def6dac2aa220d17009736a3992"/>
+	</machine>
+	<machine name="Laser Ball (Williams)(1979)(Allknowing2012)(1.0d)[VPX02]">
+		<description>Laser Ball (Williams)(1979)(Allknowing2012)(1.0d)[VPX02]</description>
+		<rom name="Laser Ball (Williams 1979) 1.0d.vpx" size="50470912" crc="6efadd63" sha1="a4d07b09b459672e90523df9bef2cfb808d43f0e"/>
+		<rom name="laser-ball---ss.jpg" size="317271" crc="c410a067" sha1="db5644dbf2a3c011ba5577e1b21aa8abb064370d"/>
+	</machine>
+	<machine name="Laser Ball (Williams)(1979)(Javier1515)(1.00)[VPX05][DT+FS]">
+		<description>Laser Ball (Williams)(1979)(Javier1515)(1.00)[VPX05][DT+FS]</description>
+		<rom name="dt.jpg" size="273753" crc="ff28523f" sha1="a18b9a618753a0eb39a93c3e4b4162381d63ec9c"/>
+		<rom name="fs.jpg" size="397093" crc="34f307bc" sha1="3f4084c6a354b64ca880abaf6046548d977bf881"/>
+		<rom name="Laser Ball (Williams 1979) 1.00.vpx" size="21700608" crc="7f6ceb4c" sha1="1d511dabebbb07812fe6a50eeea4c1a54d253690"/>
+		<rom name="PF_2019_4k.jpg" size="3408615" crc="c8ab6fde" sha1="438747873ad8b1277c729b65fcf66feb9940f374"/>
+		<rom name="Plasticos_2019_4k.png" size="7184507" crc="44dffacb" sha1="ce36d5ba22b130598f616656ad873214f1d00c88"/>
+	</machine>
+	<machine name="Last Lap (Playmatic)(1978)(mfuegemann)(1.0)[VPX06][DT+FS]">
+		<description>Last Lap (Playmatic)(1978)(mfuegemann)(1.0)[VPX06][DT+FS]</description>
+		<rom name="Last_Lap_alternative_VPX_1_0.vpx" size="23412736" crc="3009b445" sha1="ca5f78f3c55c550838865890a4f3b800280a3363"/>
+		<rom name="Last_Lap_VPX_1_0.vpx" size="23220224" crc="d212f79e" sha1="eab14af24b463b4d795ae47c56e647ed3d605947"/>
+		<rom name="lastlap_alt_dt_screenshot.jpg" size="307944" crc="e50061da" sha1="0b81db80b4a63e462c5147f575b69280a038b66e"/>
+		<rom name="LastLap_alt_PF.png" size="3071966" crc="c4149b88" sha1="b849afbada71656289ab15e372e2d9589a6b34a0"/>
+		<rom name="lastlap_alt_screenshot.jpg" size="214068" crc="5a593e45" sha1="746955f1a033f3e50bfe86e9a6586882c8e11de6"/>
+		<rom name="lastlap_dt_screenshot.jpg" size="305753" crc="d320de67" sha1="a3deba32bce4ef0f05e7d9907d9c476be253bfde"/>
+		<rom name="LastLap_PF.png" size="3070371" crc="9bbd5418" sha1="eba4cdeb6a43ca00b65a6cbedac635bd7ebcd108"/>
+		<rom name="lastlap_screenshot.jpg" size="205100" crc="a1c2e161" sha1="85f4425ffabb7c90ba7bb759ecc4cf1e2a2b7892"/>
+	</machine>
+	<machine name="Last Lap (Playmatic)(1978)(mfuegemann, akiles5000)(1.0)[VPX06][DT+FS+dB2S]">
+		<description>Last Lap (Playmatic)(1978)(mfuegemann, akiles5000)(1.0)[VPX06][DT+FS+dB2S]</description>
+		<rom name="Last_Lap_alternative_VPX_1_0.vpx" size="23412736" crc="3009b445" sha1="ca5f78f3c55c550838865890a4f3b800280a3363"/>
+		<rom name="Last_Lap_VPX_1_0.vpx" size="23220224" crc="d212f79e" sha1="eab14af24b463b4d795ae47c56e647ed3d605947"/>
+		<rom name="lastlap_alt_dt_screenshot.jpg" size="307944" crc="e50061da" sha1="0b81db80b4a63e462c5147f575b69280a038b66e"/>
+		<rom name="LastLap_alt_PF.png" size="3071966" crc="c4149b88" sha1="b849afbada71656289ab15e372e2d9589a6b34a0"/>
+		<rom name="lastlap_alt_screenshot.jpg" size="214068" crc="5a593e45" sha1="746955f1a033f3e50bfe86e9a6586882c8e11de6"/>
+		<rom name="LastLap_B2S_1_0_mfuegemann\LastLap.directb2s" size="3766906" crc="ec0be153" sha1="b7b0985295dbdcc4ed82af37207311766942cde2"/>
+		<rom name="LastLap_B2S_1_0_mfuegemann\lastlap_b2s.png" size="1579406" crc="5213e986" sha1="fc32b39d00685721c5522eece5762a680a0e40b3"/>
+		<rom name="lastlap_dt_screenshot.jpg" size="305753" crc="d320de67" sha1="a3deba32bce4ef0f05e7d9907d9c476be253bfde"/>
+		<rom name="LastLap_PF.png" size="3070371" crc="9bbd5418" sha1="eba4cdeb6a43ca00b65a6cbedac635bd7ebcd108"/>
+		<rom name="lastlap_screenshot.jpg" size="205100" crc="a1c2e161" sha1="85f4425ffabb7c90ba7bb759ecc4cf1e2a2b7892"/>
+	</machine>
+	<machine name="Lectronamo (Stern)(1978)(32assassin)(0.9.0.1)[VPX06]">
+		<description>Lectronamo (Stern)(1978)(32assassin)(0.9.0.1)[VPX06]</description>
+		<rom name="Lectronamo (Stern 1978).vpx" size="19582976" crc="8121e0ea" sha1="54cc023df7b57c49fd7688a9f4598c25ba46a780"/>
+		<rom name="Lectronamo-600x338-1038x584.png" size="912936" crc="67e4ed1e" sha1="c7251ae0c2f76ead70f1184cd78a11173c9b5f7b"/>
+	</machine>
+	<machine name="Lightning (Stern)(1981)(JPSalas)(1.0.0)[VPX03][DT+FS]">
+		<description>Lightning (Stern)(1981)(JPSalas)(1.0.0)[VPX03][DT+FS]</description>
+		<rom name="Lightning (Stern)(1981)(JPSalas)(1.0.0)[VPX03][DT+FS]\Lightning (Desktop) screenshot.jpg" size="919031" crc="60bd711a" sha1="27eae1a9590d3c810512218cb0f73dab8a845047"/>
+		<rom name="Lightning (Stern)(1981)(JPSalas)(1.0.0)[VPX03][DT+FS]\Lightning v1.0.0.vpx" size="14282752" crc="cd0b29fb" sha1="c4b76e37f2fdb038009ba55b6e3f67c9e452e6ec"/>
+		<rom name="Lightning (Stern)(1981)(JPSalas)(1.0.0)[VPX03][DT+FS]\Lightning( FullScreen) screenshot.jpg" size="1023149" crc="baf0bb99" sha1="d366a6c84ae623c4266443f921450659554d94c7"/>
+	</machine>
+	<machine name="Lord of the Rings (Stern)(2003)(JPSalas)(1.1.2)[VPX05][DT+FS][DOF arngrim]">
+		<description>Lord of the Rings (Stern)(2003)(JPSalas)(1.1.2)[VPX05][DT+FS][DOF arngrim]</description>
+		<rom name="-jp-lotr_v10.jpg" size="604290" crc="2b08df7e" sha1="3744b9dd198b4e8b61c628cd48bfaeef2a371353"/>
+		<rom name="JP's Lord of the Rings_v1.1.2.vpx" size="15851520" crc="2699d0b9" sha1="3d26324a8542d7c5716a8dd4051a7dd53b02a31e"/>
+		<rom name="jps-lord-of-the-rings_v110.jpg" size="1203651" crc="9ce8d4e6" sha1="0fba40f01850b38146ce27b88ecda642f83b766c"/>
+		<rom name="jps-lord-of-the-rings_v110fs.jpg" size="1540450" crc="7aa1eaba" sha1="d0a79d98d2ee1f7beb4ed0557e2f51b8c44da33a"/>
+	</machine>
+	<machine name="Lortium (Juegos Populares)(1987)(mfugemann, akiles5000)(1.0)[VPX05][DT+FS][dB2S]">
+		<description>Lortium (Juegos Populares)(1987)(mfugemann, akiles5000)(1.0)[VPX05][DT+FS][dB2S]</description>
+		<rom name="lortium.zip" size="6249" crc="b042b7b8" sha1="1fcb5d75fafe4d24b1c4209c6abf64a870189581"/>
+		<rom name="Lortium_B2S_1_0_mfuegemann_akiles5000\Lortium.directb2s" size="13590237" crc="09ee4d39" sha1="c2d7d632787423aaa23f0030f8af75b9bcd7c4b4"/>
+		<rom name="Lortium_B2S_1_0_mfuegemann_akiles5000\Lortium_B2S_screenshot.jpg" size="374673" crc="ec2a08da" sha1="e6f7751f048a6fa598681381aa85056154c84fb4"/>
+		<rom name="Lortium_PF.png" size="3926049" crc="35ddaf86" sha1="702c05f5e7d0a173b04960eb3822e52de3cbd986"/>
+		<rom name="lortium_screenshot.jpg" size="593668" crc="f0cbacd0" sha1="12cd1feaa3aa10040b1f3024052da0d2ff78d0e7"/>
+		<rom name="lortium_screenshot_dt.jpg" size="537250" crc="c2cc044c" sha1="ba5238b15da8c4393ad22607b8f4231c0b704cf5"/>
+		<rom name="Lortium_VPX_1_0.vpx" size="44351488" crc="10bc1e4f" sha1="a495b2b24bc65f601b92652aa8aeaca6286855b5"/>
+	</machine>
+	<machine name="Lucky Seven (Williams)(1978)(kiwi)(1.2.1)[VPX05][DT+FS+FSS kiwi]">
+		<description>Lucky Seven (Williams)(1978)(kiwi)(1.2.1)[VPX05][DT+FS+FSS kiwi]</description>
+		<rom name="Lucky Seven1.2.1.vpx" size="22589440" crc="ccded6bb" sha1="2087fa6bcb9a70f9b4d631c9a6dcaa9a133f6676"/>
+		<rom name="luckysevendt.png" size="2810836" crc="030fdad3" sha1="c3091cddc538ea19ad37e14730d6de594a373475"/>
+		<rom name="luckysevenfs.png" size="1535228" crc="e654656a" sha1="c3748af9e3d6a1597d6f94dfaf951b51101dff60"/>
+		<rom name="luckysevenfss.png" size="2227317" crc="818c0911" sha1="62a8bf51493240d643f4f35690d839c7dc6da268"/>
+	</machine>
+	<machine name="Lunelle (Taito do Brasil)(1982)(JPSalas)(2.0.0)[VPX06][DT+FS+dB2S]">
+		<description>Lunelle (Taito do Brasil)(1982)(JPSalas)(2.0.0)[VPX06][DT+FS+dB2S]</description>
+		<rom name="Lunelle (Taito do Brasil - 1982) 2.0.0.vpx" size="17776640" crc="989a6c4d" sha1="59d0045cb89464b6f53d9dab1e7e71df29043e1e"/>
+		<rom name="lunelle--taito-do-brasil---1982--200.jpg" size="2762345" crc="fed32c45" sha1="632d0d18e8a2c86b41ea4a27511bf98e9447bf37"/>
+		<rom name="lunelle--taito-do-brasil---1982--200fs.jpg" size="2554758" crc="1f389dfe" sha1="6b2f4d8a6e51ba74957b59d07891f122c5cd1bd0"/>
+	</machine>
+	<machine name="Mac Jungle (MAC)(1987)(mfuegemann)(1.1)[VPX05][DT+FS]">
+		<description>Mac Jungle (MAC)(1987)(mfuegemann)(1.1)[VPX05][DT+FS]</description>
+		<rom name="Mac Jungle B2S_1_0_mfuegemann\Mac Jungle.directb2s" size="11252945" crc="41f932d1" sha1="232f3e1f36ba9f5929eb8364a4446a3002332b87"/>
+		<rom name="Mac Jungle B2S_1_0_mfuegemann\macjungle_backglass.jpg" size="287482" crc="8111579f" sha1="da370972a9b4f7da74e64f03af8a353835b9ae3f"/>
+		<rom name="Mac Jungle_VPX_1_1.vpx" size="58003456" crc="264bb4c2" sha1="c6b87030a5b192d6453d540b44c987a690e8c76f"/>
+		<rom name="MacJungle_PF.png" size="2931796" crc="0009ccb0" sha1="2425ad0702652f6b8dd0b29e202e738d1f73b2ef"/>
+		<rom name="MacJungle_Rules.txt" size="500" crc="00be757d" sha1="9200208a313745a6e42079fa7dd72f3e85f72387"/>
+	</machine>
+	<machine name="Mac's Galaxy (MAC)(1986)">
+		<description>Mac's Galaxy (MAC)(1986)</description>
+		<rom name="Mac's Galaxy (Desktop) screenshot.jpg" size="667991" crc="fc7264a1" sha1="cdb5b4d782acda18dfedffc6238001947bd59043"/>
+		<rom name="Mac's Galaxy (FullScreen) screenshot.jpg" size="365258" crc="bc066407" sha1="4e883a54d0ebc0f33da9583f8b03f907793eac36"/>
+		<rom name="Mac's Galaxy (MAC)(1986)(mfuegemann)(1.3)[VPX04][Desktop+FullScreen].vpx" size="59404288" crc="361e25ca" sha1="2b2d60879ceaaacc4f3d2c681264294d2100571d"/>
+	</machine>
+	<machine name="Machine, The - Bride of Pinbot (Williams)(1991)(wrd1972)(2.1)[VPX05][DT+FS]">
+		<description>Machine, The - Bride of Pinbot (Williams)(1991)(wrd1972)(2.1)[VPX05][DT+FS]</description>
+		<rom name="dt.png" size="3343403" crc="4583758b" sha1="ed8dff5ee8234543a815238106c823970b79513f"/>
+		<rom name="fs.jpg" size="557845" crc="0a9b1253" sha1="e40e66103405ab5f52378aebe59f014c5f5ec132"/>
+		<rom name="The Machine - Bride Of Pinbot (Williams 1991)2.1.vpx" size="52125696" crc="e7a5fc68" sha1="27c6ebeaf39218312e0adac95b84498222850371"/>
+	</machine>
+	<machine name="Mad Race (Playmatic)(1985)(JPSalas, akiles50000)(1.0.2)[VPX05]">
+		<description>Mad Race (Playmatic)(1985)(JPSalas, akiles50000)(1.0.2)[VPX05]</description>
+		<rom name="Mad Race (Playmatic 1985) 1.0.2.vpx" size="9281536" crc="bc0b9bb6" sha1="ada6500c7a90133271e39a7eb9f1ff815ecb87bc"/>
+		<rom name="mad-race--playmatic-1985--100.jpg" size="1447064" crc="30411150" sha1="2fa5ae265475c512d09693cbf1f49683a38592b6"/>
+		<rom name="mad-race--playmatic-1985--100fs.jpg" size="1391289" crc="9705ae1d" sha1="45ebe082f721db1f16c1005dafdf99cc160997aa"/>
+	</machine>
+	<machine name="Magic Castle (Zaccaria)(1984)">
+		<description>Magic Castle (Zaccaria)(1984)</description>
+		<rom name="1.0\Magic Castle (Zaccaria)(1984)(32assassin)(1.0)[VPX].vpx" size="33411072" crc="306479b1" sha1="6fdd2060757ecce18aeb9987e8efc4b441404cfb"/>
+		<rom name="1.0\Magic Castle screenshot.png" size="3363494" crc="7eae3d49" sha1="1c48ef733051b2f0a53332991671582486750ea3"/>
+		<rom name="2.0\Magic Castle (Zaccaria)(1984)(32assassin)(2.0)[VP-X].vpx" size="35323904" crc="1213c10f" sha1="018f073bd3c3092f6ab2378c0dd27d08f8999f9d"/>
+		<rom name="2.0\Magic Castle screenshot.png" size="3389582" crc="d9f7b43c" sha1="545d38856c1ba9f439f811b0e452ac6f2c5ba723"/>
+	</machine>
+	<machine name="Mario Andretti (Gottlieb)(1995)(Steely, Rascal)(1.4)[VPX05][DT+FS][VP8 Conversion]">
+		<description>Mario Andretti (Gottlieb)(1995)(Steely, Rascal)(1.4)[VPX05][DT+FS][VP8 Conversion]</description>
+		<rom name="Mario Andretti (Gottlieb 1995).directb2s" size="14768599" crc="0e9cb564" sha1="414b7a11481df4970573504ea86718cfa1ed29d2"/>
+		<rom name="Mario Andretti (Gottlieb 1995).vpx" size="56496128" crc="a29b1cb8" sha1="01ce1adbdbd94f2de2fa3bf62eeac540ae030c86"/>
+		<rom name="Mario-Andretti-Gottlieb-1995RoccodiMarco-dB2S.png" size="1853732" crc="adeaa48f" sha1="c277321936acb4444cfc018963e7a976cba2a256"/>
+		<rom name="marioandrettiss16-9.png" size="4472952" crc="c07648a7" sha1="2fcaa31a52755962674062a2936a3277d62b266b"/>
+		<rom name="marioandrettiss16-9fs.png" size="4568044" crc="0215864d" sha1="8d1fe8853f9319040344c51a73c54df1beb18dfa"/>
+	</machine>
+	<machine name="Mars - God of War (Gottlieb)(1981)(cyberpez)(1.0)[VPX02][DT+FS]">
+		<description>Mars - God of War (Gottlieb)(1981)(cyberpez)(1.0)[VPX02][DT+FS]</description>
+		<rom name="Mars God Of War (Gottlieb 1981) cyberpez vpx 1.0 dt.png" size="1449806" crc="09dc599c" sha1="86685330c01e9f9ba6b406c4cb1f8e228a63edd2"/>
+		<rom name="Mars God Of War (Gottlieb 1981) cyberpez vpx 1.0 fs.png" size="1689823" crc="bab504f1" sha1="5a7ab8d9f6bec303b6ef509997db470921f6b97c"/>
+		<rom name="Mars God Of War (Gottlieb 1981) cyberpez vpx 1.0.vpx" size="45858816" crc="fd508193" sha1="7967710a50281fe2fa5e481b93908531f40df295"/>
+	</machine>
+	<machine name="Martain Queen (LTD do Brasil)(1981)(mfuegemann)(1.2)[VPX06][DT+FS]">
+		<description>Martain Queen (LTD do Brasil)(1981)(mfuegemann)(1.2)[VPX06][DT+FS]</description>
+		<rom name="MartianQueen_BG.png" size="1211027" crc="9829ee70" sha1="c809be9d73b76a030508a0d485c38a574011f4c2"/>
+		<rom name="MartianQueen_PF.png" size="3599991" crc="ff654598" sha1="bfbb07deb6e5cd571d9f10b44f593cd697dae312"/>
+		<rom name="MartianQueen_Wheel.png" size="198580" crc="542c5dda" sha1="a94f490e085d479eb7a055373167886bd8f4f482"/>
+		<rom name="screen_dt.png" size="1495828" crc="b98a8e05" sha1="ffcbbd969b383a9766d7c8ff8a8e5b18f9c464f5"/>
+		<rom name="screen_fs.png" size="1107922" crc="ff73135c" sha1="6f2c4460e2531a78e85b2c428cd5417c1ab09acb"/>
+		<rom name="VPX_Martian Queen_1_2.vpx" size="50167808" crc="5b45f209" sha1="2bede962f1ea5642b2012e8748c69aef73b5d9d1"/>
+	</machine>
+	<machine name="Medusa (Bally)(1981)(JPSalas)(1.0.4)[VPX03]">
+		<description>Medusa (Bally)(1981)(JPSalas)(1.0.4)[VPX03]</description>
+		<rom name="Medusa (Bally)(1981)(JPSalas)(1.0.4)[VPX03]\Medusa screenshot.jpg" size="1015306" crc="fa1d415a" sha1="45ee94f452333a77c0922f8deed7c4cd20058aff"/>
+		<rom name="Medusa (Bally)(1981)(JPSalas)(1.0.4)[VPX03]\Medusa v1.0.4.vpx" size="5894144" crc="6d7a877b" sha1="540ba6450f8ebddee8766f6559fece0d21089cf7"/>
+	</machine>
+	<machine name="Meteor (Taito do Brasil)(1979)(JPSalas)(2.0.0)[VPX06][DT+FS]">
+		<description>Meteor (Taito do Brasil)(1979)(JPSalas)(2.0.0)[VPX06][DT+FS]</description>
+		<rom name="1.1.0\Meteor (Desktop) screenshot.jpg" size="1218406" crc="65128791" sha1="0bea136a60e9e94c10d37caaa529fd10d58aaf20"/>
+		<rom name="1.1.0\Meteor (FullScreen) screenshot.jpg" size="1218370" crc="5067bb6b" sha1="ca48c2a06a4cd5a073f8385cabaad24aad0c8bd4"/>
+		<rom name="1.1.0\Meteor -Taito v1.1.0.vpx" size="15663104" crc="f5fd7bdd" sha1="752ed6f4e1dbd575f1dbe13a6476f0b67e90fa33"/>
+		<rom name="2.0.0\Meteor (Taito do Brasil - 1979) 2.0.0.vpx" size="16826368" crc="efed9ebd" sha1="34b99b171f51a6322e8298a91b6313708d943342"/>
+		<rom name="2.0.0\meteor--taito-do-brasil---1979--200.jpg" size="2639484" crc="87a81147" sha1="a64257df4b38de4a49542953d1212750e991df5e"/>
+		<rom name="2.0.0\meteor--taito-do-brasil---1979--200fs.jpg" size="2640628" crc="66f3b7c3" sha1="09061ebffcfbbd6d8984bf5a7a74c8b9f150490c"/>
+	</machine>
+	<machine name="Miss World (Geiger)(1982)(Tom)(1.3)[VPX06][DT+FS][Conv. Kit KISS table]">
+		<description>Miss World (Geiger)(1982)(Tom)(1.3)[VPX06][DT+FS][Conv. Kit KISS table]</description>
+		<rom name="Miss World (Geiger 1982).vpx" size="29487104" crc="6a2c16b6" sha1="e7703faec464ad3315cf3a36e64e864aca0b8838"/>
+		<rom name="miss world.png" size="2514508" crc="32be8242" sha1="c2307adc5dcece1b986ff59912b3920d62494e2c"/>
+	</machine>
+	<machine name="Monopoly (Stern)(2001)(PacDude, JPSalas, ckpin)(1.2)[VPX02][DT+FS]">
+		<description>Monopoly (Stern)(2001)(PacDude, JPSalas, ckpin)(1.2)[VPX02][DT+FS]</description>
+		<rom name="Monopoly (Stern 2001).vpx" size="25026560" crc="1624183a" sha1="ddbca47ecec620716ba55486487d77c6e5d8e51b"/>
+		<rom name="monopoly--stern-2001-.png" size="3466825" crc="d0133d17" sha1="1acd76a03e49483c5b8d4f11ee4c841385b992fc"/>
+		<rom name="Monopoly_POV.xml" size="744" crc="addd4853" sha1="55e0c1d30db58dc2f3967d95306a9e3ca10351f8"/>
+	</machine>
+	<machine name="Monte Carlo (Premier)(1987)(Destruk, Lander, TAB, XtremeMame, Rascal)(1.4)[VPX05]">
+		<description>Monte Carlo (Premier)(1987)(Destruk, Lander, TAB, XtremeMame, Rascal)(1.4)[VPX05]</description>
+		<rom name="Monte Carlo (Premier 1987)1.4.vpx" size="43679744" crc="beab20b0" sha1="70b90858418f5fa310c378da7ee2fdfc56a590f8"/>
+		<rom name="Monte-Carlo-Backglass_roccodimarco_1.0\Monte Carlo (Premier 1987).directb2s" size="3214760" crc="ef9c351d" sha1="9a2a34b750b70507dd813fdfbce89df1a3835124"/>
+		<rom name="Monte-Carlo-Backglass_roccodimarco_1.0\Monte-Carlo-Dark.png" size="2128462" crc="105b1da1" sha1="ffd63f7db986183c8c0a70ffa66cb17828c5230f"/>
+		<rom name="montecarlo16-9.png" size="2731977" crc="5dab6ebf" sha1="0e218702ad5066281ca2959827c63a1b4294a298"/>
+		<rom name="montecarloss16-9fs.png" size="3083667" crc="622de984" sha1="89166171cf97e797fb93fa6a2b3c4e9a270d8484"/>
+	</machine>
+	<machine name="Mr. Black (Taito do Brasil)(1982)(JPSalas)(2.0.0)[VPX06][DT+FS]">
+		<description>Mr. Black (Taito do Brasil)(1982)(JPSalas)(2.0.0)[VPX06][DT+FS]</description>
+		<rom name="Mr Black (Taito do Brasil - 1982) 1.1.0.vpx" size="20590592" crc="4cf79040" sha1="4cd698e3365c981453b7e9772c6603fc27b15f67"/>
+		<rom name="Mr Black (Taito do Brasil - 1984) 2.0.0.vpx" size="21626880" crc="b75b8d53" sha1="b42eeaac13141493d2ec0eb0aec31f1ec0caf0c7"/>
+		<rom name="mr-black--taito-do-brasil---1984--200.jpg" size="2917291" crc="d5a8be2b" sha1="5777dd00bc7f5dc2a33f24248dcb0541f1fd8c0c"/>
+		<rom name="mr-black--taito-do-brasil---1984--200fs.jpg" size="2867450" crc="4b4872cc" sha1="2d55f769c1fe28bd4523f7f6c2573740dee907f0"/>
+		<rom name="mr-black-100.jpg" size="858831" crc="c0b17ae8" sha1="732f36d2357b6e9a61506e998ca89990ccb9e188"/>
+		<rom name="mr-black-100fs.jpg" size="804532" crc="1802b447" sha1="66c8320655ee11f9c5aaa00c85c3c03335cf435a"/>
+	</machine>
+	<machine name="New Wave (Bell Games)(1985)(Scotty VH)(0.72)[VPX06]">
+		<description>New Wave (Bell Games)(1985)(Scotty VH)(0.72)[VPX06]</description>
+		<rom name="New Wave 72.vpx" size="11157504" crc="1eaafefd" sha1="61366e2963c6acded65fa5b36cb10fd7ce950613"/>
+		<rom name="Screen-Shot-10-29-19-at-06.06-PM-1024x580-1038x588.png" size="1029688" crc="6c245e8d" sha1="e450ec93c68cadd3aeaf302d0c67044f1ad11568"/>
+	</machine>
+	<machine name="Nitro Ground Shaker (Bally)(1980)(JPSalas)(1.0.0)[VPX05][DT+FS]">
+		<description>Nitro Ground Shaker (Bally)(1980)(JPSalas)(1.0.0)[VPX05][DT+FS]</description>
+		<rom name="Nitro Ground Shaker (Bally)(1980)(JPSalas)(1.0.0)[VPX05][DT+FS]\Nitro Ground Shaker (Desktop) screenshot.jpg" size="1345039" crc="6d7ade07" sha1="35469544ea61a3f9e5e77982fd9e871ec63c2bef"/>
+		<rom name="Nitro Ground Shaker (Bally)(1980)(JPSalas)(1.0.0)[VPX05][DT+FS]\Nitro Ground Shaker (FullScreen) screenshot.jpg" size="1250639" crc="42e866d8" sha1="3b198d6cca7be1278e9207be21bf7127c3961e86"/>
+		<rom name="Nitro Ground Shaker (Bally)(1980)(JPSalas)(1.0.0)[VPX05][DT+FS]\Nitro Ground Shaker 1.0.0.vpx" size="13373440" crc="12b91a36" sha1="ea2b797a2d0a555c4cf19dcfd2789d057383c22e"/>
+	</machine>
+	<machine name="Oba Oba (Taito do Brasil)(1979)(JPSalas)(2.0.0)[VPX06]">
+		<description>Oba Oba (Taito do Brasil)(1979)(JPSalas)(2.0.0)[VPX06]</description>
+		<rom name="Oba Oba (Taito do Brasil - 1979) 2.0.0.vpx" size="15544320" crc="dbcee939" sha1="3818d54019a741b7e71c1c46caaaf9e23d6c8def"/>
+		<rom name="oba-oba--taito-do-brasil---1979--200.jpg" size="2359332" crc="2d0c17f3" sha1="b754a7061f8ffa738635ef5e8ca6cd055570cd75"/>
+		<rom name="oba-oba--taito-do-brasil---1979--200fs.jpg" size="2286247" crc="4695281b" sha1="84da1acf5c6a2c6650a3d6562c0fff7f9577803d"/>
+	</machine>
+	<machine name="Operation Thunder (Gottlieb)(1992)(rascal)(1.1)[VPX05][DT+FS][VP9 mfuegemann tablee to VPX]">
+		<description>Operation Thunder (Gottlieb)(1992)(rascal)(1.1)[VPX05][DT+FS][VP9 mfuegemann tablee to VPX]</description>
+		<rom name="Operation Thunder (Gottlieb 1992).vpx" size="31952896" crc="ea299245" sha1="474c2aa92a3f1a0d4d8240de9ade459b5223997d"/>
+		<rom name="operationthunder16-9.png" size="3825088" crc="bdaf190c" sha1="e16d21cbc9388f574b815c0a13eab996e907d39a"/>
+		<rom name="operationthunder16-9fs.png" size="3132442" crc="13995c5c" sha1="99cf6f045144c388ee1347f483c4a6da00923a8a"/>
+	</machine>
+	<machine name="Panthera (Gottlieb)(1980)(JPSalas)(1.0.1)[VPX04][DT+FS]">
+		<description>Panthera (Gottlieb)(1980)(JPSalas)(1.0.1)[VPX04][DT+FS]</description>
+		<rom name="Panthera (Gottlieb)(1980)(JPSalas)(1.0.1)[VPX04][DT+FS]\Panthera (Desktop) screenshot.jpg" size="1180100" crc="98df117f" sha1="3b51a4352051e27c667e879cfe3a0f30733a0d63"/>
+		<rom name="Panthera (Gottlieb)(1980)(JPSalas)(1.0.1)[VPX04][DT+FS]\Panthera (FullScreen) screenshot.jpg" size="1126727" crc="22e0bdc1" sha1="c3223fb65fcdbd3f3ba7f937089112b5e17bcdbb"/>
+		<rom name="Panthera (Gottlieb)(1980)(JPSalas)(1.0.1)[VPX04][DT+FS]\Panthera VPX v1.0.1.vpx" size="10616832" crc="9e60c75d" sha1="c2db787fad0b060f717ec8da8d5131c765e978bb"/>
+	</machine>
+	<machine name="Paragon (Bally)(1978)(bord)(2.2)[VPX05][DT+FS]">
+		<description>Paragon (Bally)(1978)(bord)(2.2)[VPX05][DT+FS]</description>
+		<rom name="Paragon (Bally 1978).vpx" size="64671744" crc="160b6f35" sha1="272ee961c0af305eac18adba50721f5343c8751f"/>
+		<rom name="Paragon_(Desktop) screenshot.png" size="1758734" crc="a7881174" sha1="d19652a9289b98da325afde89430e9c2062e15ab"/>
+	</machine>
+	<machine name="Party Animal (Bally)(1987)(Tom, Mlager8)(1.0)[VPX06]">
+		<description>Party Animal (Bally)(1987)(Tom, Mlager8)(1.0)[VPX06]</description>
+		<rom name="Party Animal (Bally 1987).vpx" size="114360320" crc="3a96d6b0" sha1="46ff1b69d02a6aae4835e3baa48e5194cbeaa19c"/>
+		<rom name="prtyanim.zip" size="376" crc="33c40cc3" sha1="e7faca60081a8db532825be1a5264e1237ffa61c"/>
+		<rom name="Untitled-361x600-1038x1724.png" size="3256295" crc="add47f64" sha1="98c104921b5a46677b545b9ffe7346bf90bb82d7"/>
+	</machine>
+	<machine name="Party Zone (Bally)(1991)(JPSalas)(1.0.5)[VPX05][DT+FS]">
+		<description>Party Zone (Bally)(1991)(JPSalas)(1.0.5)[VPX05][DT+FS]</description>
+		<rom name="monthly_10_2018_70292025c4a8673e0c8da9e6b0d9963a-party-zone-v104.jpg" size="1366439" crc="8153b089" sha1="ae44b6474a8dffd08db87819eb5d19e828ba81ba"/>
+		<rom name="monthly_10_2018_90936b89c3fd7ac239975cea87815c73-party-zone-v104fs.jpg" size="1387139" crc="547ff453" sha1="fb40261378ab2123a950a71ef42ae1891620d9c5"/>
+		<rom name="Party Zone v1.0.5.vpx" size="39956480" crc="1c603234" sha1="b95c77dec36fa8c89cc2541a1c78fceb050384e4"/>
+	</machine>
+	<machine name="Penthouse (Pinball-Dreams)(2008)(batch)(1.4)[VPX05][Harlem Globetrotters VPX JPSalas Source Table]">
+		<description>Penthouse (Pinball-Dreams)(2008)(batch)(1.4)[VPX05][Harlem Globetrotters VPX JPSalas Source Table]</description>
+		<rom name="Music.zip" size="34382067" crc="82a3f887" sha1="d9bf814d74ed4df2a286ea1f691a0b7f59560925"/>
+		<rom name="penthouse.jpg" size="1420768" crc="37582fbd" sha1="d11f3b55e884f2be5ba8da9798a716db6ae207db"/>
+		<rom name="Penthouse_VPX_1.4.vpx" size="27045888" crc="27f9b2c0" sha1="1a233efec1b4d08c7f1e86c6d503f21fc1c1b034"/>
+		<rom name="pethouse-vpx-mw.jpg" size="638131" crc="95d2986a" sha1="383e5718339209fedb54028db4eef3814bc1cbdc"/>
+	</machine>
+	<machine name="Pharaoh (Williams)(1981)">
+		<description>Pharaoh (Williams)(1981)</description>
+		<rom name="Pharaoh (Williams)(1981)(32assassin)(1.01)[Desktop][VPX].vpx" size="33091584" crc="57f87e7d" sha1="990a87071bf6ba50a376c5c6f24eb736d0f41f7d"/>
+		<rom name="Pharaoh readme.txt" size="309" crc="d7e58196" sha1="92b740e6b76f7fd3ca6b394c79b5923cd640b085"/>
+		<rom name="Pharaoh screenshot.png" size="3771143" crc="7c34b706" sha1="69a419e734960dda9e83a9e36562bb849d9b0b94"/>
+	</machine>
+	<machine name="Pinball Champ 82 (Zaccaria)(1982)">
+		<description>Pinball Champ 82 (Zaccaria)(1982)</description>
+		<rom name="Pinball Champ 82 (Desktop) screenshot.png" size="3346760" crc="487ed2a7" sha1="45169c5ece1266ab112077276b6457522d28d468"/>
+		<rom name="Pinball Champ 82 (Zaccaria)(1982)(mfuegemann, 32assassin)(1.1)[VPX04].vpx" size="35405824" crc="e2b93898" sha1="d085e28c0d155ed0c70c0d09befed834e8a9faa9"/>
+	</machine>
+	<machine name="Pinball Magic (Capcom)(1995)">
+		<description>Pinball Magic (Capcom)(1995)</description>
+		<rom name="Pinball Magic (Capcom)(1995)(unclewilly)(1.3.1)[VPX][DT-FS].vpx" size="121692160" crc="b3b61bc3" sha1="8b801925486e08c9e7d52c5778ef48f641d64b3e"/>
+		<rom name="Pinball Magic (Desktop) screenshot.jpg" size="658394" crc="b1bd18f6" sha1="49d43bca144f8d18fc8b469938d214064424a5c0"/>
+		<rom name="Pinball Magic (FullScreen) screenshot.png" size="2719062" crc="ea7f23f2" sha1="b3d7da9750f1902677f96c52e02b5a3db5108144"/>
+	</machine>
+	<machine name="Pinball Pool (Gottlieb)(1979)">
+		<description>Pinball Pool (Gottlieb)(1979)</description>
+		<rom name="Pinball Pool (Gottlieb)(1979)(32assassin)(4.1)[Desktop][VPX].vpx" size="27959296" crc="76d00476" sha1="759bfd47683ff3edcc3a1fb252c657b73d9d0843"/>
+		<rom name="Pinball Pool readme.txt" size="485" crc="6b3cbc0b" sha1="b7bd6cdd2eefae357d4685c678c37bd67903cfa4"/>
+		<rom name="Pinball Pool screenshot.png" size="3400931" crc="a21d200f" sha1="2c2cd2122eff0c745e068b84800d9f9168a8de2b"/>
+	</machine>
+	<machine name="PinBot (Williams)(1986)(bord)(1.1)[VPX06][DT+FS][dB2S Blacksad]">
+		<description>PinBot (Williams)(1986)(bord)(1.1)[VPX06][DT+FS][dB2S Blacksad]</description>
+		<rom name="image.jpg" size="178531" crc="ea7a4637" sha1="31d1299deafc8d3bdc2d3add135c035aaf880cb8"/>
+		<rom name="PinBot (Williams 1986) B2S Blacksad.zip" size="32067198" crc="1c3ea24e" sha1="a8759071c216e354640b52a2e2462daf79554bb7"/>
+		<rom name="Pinbot (Williams 1986) wheel Blacksad.zip" size="538943" crc="2f695af3" sha1="3ac69e3418a54854db6a493e423e29625eca7e60"/>
+		<rom name="PinBot (Williams 1986).vpx" size="140660736" crc="0f599a81" sha1="5418806affacabdd44bceb029740fd0bb7067666"/>
+	</machine>
+	<machine name="Pirates of the Caribbean (Stern)(2006)(32assassin)(1.0)[VPX04][DeskTop]">
+		<description>Pirates of the Caribbean (Stern)(2006)(32assassin)(1.0)[VPX04][DeskTop]</description>
+		<rom name="Pirates of the Caribbean (Stern 2006).vpx" size="59068416" crc="2442eef9" sha1="b231d633a814b708e44b0a0c3d93d70ea88a9bdb"/>
+		<rom name="Potc-600x338-1038x584.png" size="872459" crc="7ecad84f" sha1="aca3dfad3e203d327c08c558ab20d80bfa292199"/>
+	</machine>
+	<machine name="Pirates of the Caribbean (Stern)(2006)(SliderPoint)(1.1)[VPX05][DT+FS]">
+		<description>Pirates of the Caribbean (Stern)(2006)(SliderPoint)(1.1)[VPX05][DT+FS]</description>
+		<rom name="Pirates of the Caribbean (Stern 2006) - SP 1.1.vpx" size="63815680" crc="ed13d1ee" sha1="7c26de3f8ba8e8417ff15fc2ae00e3cdc35059fe"/>
+		<rom name="Pirates of the Caribbean (Stern 2006).pov" size="1096" crc="efc78709" sha1="06e3c049d9de2e530afebe81447bf7f977eee3c2"/>
+		<rom name="Pirates-of-the-Caribbean-Stern-2006-directb2s_Wildman,Hauntfreaks,STAT_2.0.1\Pirates of the Caribbean (Stern 2006).directb2s" size="10196964" crc="da2c7328" sha1="3c4419db2c8c72bcf8aeed141fd1b73d51f03af2"/>
+		<rom name="Pirates-of-the-Caribbean-Stern-2006-directb2s_Wildman,Hauntfreaks,STAT_2.0.1\Pirates-of-the-Caribbean-Stern-2006-600x550.png" size="1606585" crc="9619c8e8" sha1="7cfec70229c8fdc6e4b784a1950a118e35e6c9ba"/>
+		<rom name="POTCDT-2-1038x854.png" size="1407449" crc="fe15005d" sha1="0069e8dd436a2d2635205182943c8e210efc3724"/>
+	</machine>
+	<machine name="Polar Explorer (Taito do Brasil)(1980)(JPSalas)(2.0.0)[VPX06][DT+FS]">
+		<description>Polar Explorer (Taito do Brasil)(1980)(JPSalas)(2.0.0)[VPX06][DT+FS]</description>
+		<rom name="1.0.2\Polar Explorer (Desktop) screenshot.jpg" size="1400082" crc="340d891f" sha1="e4504e7c5a84389e546e86a76ea6b1c91a8034ce"/>
+		<rom name="1.0.2\Polar Explorer (FullScreen) screenshot.jpg" size="1304307" crc="e9890352" sha1="e54599cc176418f05cae45226b32792c6568feb7"/>
+		<rom name="1.0.2\Polar Explorer (taito 1980) v1.0.2.vpx" size="15290368" crc="dfa7b820" sha1="153c8481bfa111698ba1c6bb79a15b240fc60919"/>
+		<rom name="2.0.0\Polar Explorer (Taito 1983) v2.0.0.vpx" size="16211968" crc="4a1a37d1" sha1="e85638fbafca96edb53d7ed7dc84f791adc21ef3"/>
+		<rom name="2.0.0\polar-explorer--taito-1983--v200.jpg" size="2762321" crc="46ae63e0" sha1="b30d0cd678b4d6e6e0043da594dc61c7511604d2"/>
+		<rom name="2.0.0\polar-explorer--taito-1983--v200fs.jpg" size="2625503" crc="a33754c2" sha1="319665b74e6a21d9bfdb8af452e03a7319791ec9"/>
+		<rom name="plastics_en.zip" size="1497604" crc="f4d14380" sha1="2570e2814033ccd39ba558380ff613377d6c1249"/>
+	</machine>
+	<machine name="Pool Sharks (Midway)(1990)(JPSalas)(1.0.1)[VPX05][DT+FS]">
+		<description>Pool Sharks (Midway)(1990)(JPSalas)(1.0.1)[VPX05][DT+FS]</description>
+		<rom name="Pool Sharks (Desktop) screenshot.jpg" size="1233010" crc="5056cec4" sha1="243c7dcf1f24e6a87689d81ca4b8023aada00662"/>
+		<rom name="Pool Sharks (FullScreen) screenshot.jpg" size="1293465" crc="f062732d" sha1="c23a13ff8861f5e215ea57427b33d7324eb6a42d"/>
+		<rom name="Pool Sharks (Midway 1990) 1.0.1.vpx" size="15630336" crc="59c5eeda" sha1="320d2e2608c68c492c2edf71e6a66fd32dddbe16"/>
+	</machine>
+	<machine name="Popeye saves the Earth (Bally)(1994)(JPJ)(1.1)[VPX05][Conversion mfuegemann's VP9 version to VPX]">
+		<description>Popeye saves the Earth (Bally)(1994)(JPJ)(1.1)[VPX05][Conversion mfuegemann's VP9 version to VPX]</description>
+		<rom name="Popeye saves the Earth (Bally 1994) 1.1 JPJ - Mfuegemann - Team PP.vpx" size="54874112" crc="fc8cd29f" sha1="a96423e8b74a65bda99b28583bda65d841bbb593"/>
+		<rom name="Popeye saves the Earth (Bally)(1994)(STAT)(1.0)[dB2S]\Popeye Saves the Earth (Bally 1994).directb2s" size="7212916" crc="25a900d9" sha1="874a938231c89a23a859198955135f9f84301c25"/>
+		<rom name="Popeye saves the Earth (Bally)(1994)(STAT)(1.0)[dB2S]\Popeye-Saves-the-Earth-Bally-1994-600x449.png" size="1246251" crc="dea1ad30" sha1="f876261e63870195cbc723e624958d766bf11745"/>
+		<rom name="Sans-titre-49-Final-playfield-1-577x1024.png" size="3749116" crc="59bdec4b" sha1="e7ef43bddefab0b7d9188a2b3e775212b28bd9b0"/>
+	</machine>
+	<machine name="Punk (Gottlieb)(1982)(balater)(1.22)[VPX06][FS]">
+		<description>Punk (Gottlieb)(1982)(balater)(1.22)[VPX06][FS]</description>
+		<rom name="Punk (Gottlieb 1982) v1.22.vpx" size="16703488" crc="ca56daa7" sha1="b6e661218753afe554f55cc79558abe09d7d1c13"/>
+		<rom name="punk--gottlieb-1982-.png" size="3099788" crc="fb8b7933" sha1="96a6a6959fe1f4686f4d610acde74691419ec053"/>
+		<rom name="Punk-Gottlieb-1982_B2S-v1.0.1_Blacksad\Punk! ( Gottlieb 1982).directb2s" size="28380072" crc="2b13afbd" sha1="8d1d197dbbfb8e01d9d726a044df37f88792cde2"/>
+		<rom name="Punk-Gottlieb-1982_B2S-v1.0.1_Blacksad\Punk! ( Gottlieb 1982).png" size="248647" crc="c5dd6e69" sha1="56de531ef2545b0896dbe8c13b536b4ed4fc8ad3"/>
+		<rom name="Punk-Gottlieb-1982_B2S-v1.0.1_Blacksad\Punk-Gottlieb-1982-Illuminated-600x480-1038x830.png" size="1524025" crc="9bf0a9bb" sha1="1f4145982b154272573298908f1e90230406510d"/>
+	</machine>
+	<machine name="Punk (Gottlieb)(1982)(Scotty VH)(WIP12)[VPX05]">
+		<description>Punk (Gottlieb)(1982)(Scotty VH)(WIP12)[VPX05]</description>
+		<rom name="Punk wip 12.vpx" size="26529792" crc="57b8f81f" sha1="ec72501e597e4a3a79d6160e3a5acdf0a421fd3c"/>
+		<rom name="ScreenShot.png" size="1043068" crc="37833a44" sha1="e900f6d87e94b042174dcf6bc9c3350341179b81"/>
+	</machine>
+	<machine name="QBerts Quest (Gottlieb)(1983)">
+		<description>QBerts Quest (Gottlieb)(1983)</description>
+		<rom name="QBerts Quest (Gottlieb)(1983)(bord)(1.0.1)[VP-X].vpx" size="73424896" crc="d8f4a942" sha1="6a61678737357c53919727b517b0923fb200becc"/>
+		<rom name="QBerts Quest screenshot.png" size="481833" crc="cfa57070" sha1="df2d0dee204e46443bcd90341decc8afb268b542"/>
+	</machine>
+	<machine name="Rack Em Up (Gottlieb)(1983)(Kalavera)(1.02)[VPX05][DT+FS]">
+		<description>Rack Em Up (Gottlieb)(1983)(Kalavera)(1.02)[VPX05][DT+FS]</description>
+		<rom name="Rack Em Up (Desktop) screenshot.png" size="1533022" crc="d1a5743a" sha1="02341c4c4cb16528bb58cf204a00f220564cf059"/>
+		<rom name="Rack Em Up (FullScreen) screenshot.png" size="1374224" crc="f5fa1b52" sha1="77c790c34a6468823cbdd06646b73766759f925f"/>
+		<rom name="Rack Em Up (Gottlieb 1983).vpx" size="39243776" crc="625b6b0e" sha1="398f24646f0155e0e8d8315e22e0fab20686d86e"/>
+	</machine>
+	<machine name="Radical (Bally)(1990)(JPSalas)(1.0.0)[VPX05][DT+FS]">
+		<description>Radical (Bally)(1990)(JPSalas)(1.0.0)[VPX05][DT+FS]</description>
+		<rom name="Radical (Bally 1990) v1.0.0.vpx" size="17969152" crc="f328c172" sha1="51f30b99d8a334c4c732933d0caa94b5e8c54072"/>
+		<rom name="radical--bally-1990--v100.jpg" size="1365298" crc="7e61b9a9" sha1="0093527849d023c138d65f03a5a7559fd890d026"/>
+		<rom name="radical--bally-1990--v100_fs.jpg" size="1387895" crc="fc2a897f" sha1="4718f145a37abcff1870ed6bd616913140f0404b"/>
+	</machine>
+	<machine name="Radical (Bally)(1990)(JPSalas)(1.1.1)[VPX05][DT+FS][Prototype]">
+		<description>Radical (Bally)(1990)(JPSalas)(1.1.1)[VPX05][DT+FS][Prototype]</description>
+		<rom name="monthly_10_2018_72e2339c39c017382426d6dd7b67cd76-radical--bally-1990--prototype-v100_fs.jpg" size="1402774" crc="59615248" sha1="f4304eeef9a535f27672b1a5cb5d3202268e8320"/>
+		<rom name="monthly_10_2018_c992973851d152d5a7e89e76143f1619-radical--bally-1990--prototype-v110.jpg" size="1351750" crc="0cd030ff" sha1="caa70b1b6974394e14ddb02ce54f7ecaac82be42"/>
+		<rom name="Radical (Bally 1990) Prototype 1.1.1.vpx" size="46084096" crc="c343ff41" sha1="7559f745b9da1b2c6da9df20318ddfb5237f106a"/>
+	</machine>
+	<machine name="Rally (Taito do Brasil)(1980)(JPSalas)(2.0.0)[VPX06][DT+FS+dB2S]">
+		<description>Rally (Taito do Brasil)(1980)(JPSalas)(2.0.0)[VPX06][DT+FS+dB2S]</description>
+		<rom name="Rally (Taito do Brasil - 1980) 2.0.0.vpx" size="19525632" crc="61bccb6c" sha1="da5a14adbbe7d30ca43a3cfdb13dd32ac9a48abb"/>
+		<rom name="rally--taito-do-brasil---1980--200.jpg" size="2876718" crc="fb72e6f1" sha1="ecc188e7fd5a40934a0fededec6bb5644efb7d4d"/>
+		<rom name="rally--taito-do-brasil---1980--200fs.jpg" size="3012287" crc="e4a8a2b9" sha1="b7d83a84bfac2100ad7f2c1ca5196abea6a9ea01"/>
+	</machine>
+	<machine name="Raven (Gottlieb)(1986)(Rascal)(1.3)[VPX05][DT+FS][VPX conversion]">
+		<description>Raven (Gottlieb)(1986)(Rascal)(1.3)[VPX05][DT+FS][VPX conversion]</description>
+		<rom name="Raven (Gottlieb 1986).vpx" size="66080768" crc="b9be4d0e" sha1="05a26751b25958c450ed7419ffbedefb383b38d5"/>
+		<rom name="ravenss16-9.png" size="4138877" crc="8463b394" sha1="cff5af8c39fca0a3f4bf9241578eb3a98baf5d88"/>
+		<rom name="ravenss16-9fs.png" size="3891834" crc="2cecb4cb" sha1="2cee5cde56572b4644b8fadcd726586c64d30019"/>
+	</machine>
+	<machine name="Ready Aim Fire (Gottlieb)(1983)(rascal)(1.1)[VPX05][DT+FS+DOF][VP9 table conversion]">
+		<description>Ready Aim Fire (Gottlieb)(1983)(rascal)(1.1)[VPX05][DT+FS+DOF][VP9 table conversion]</description>
+		<rom name="Ready Aim Fire (Gottlieb 1983).vpx" size="31903744" crc="5e73bcba" sha1="0e9969f8f33437eb4cc6ef9d2deb10b1d8bdfc69"/>
+		<rom name="readyaimfiredtss.png" size="4464605" crc="17a329a9" sha1="5fb38715dce5f34623fbdcaa9084e7b0778347c2"/>
+		<rom name="readyaimfirefsss.png" size="4151881" crc="5365c912" sha1="409ec0a0c2127706d24ad72febb9a7716836a24a"/>
+	</machine>
+	<machine name="Rider's Surf (Jocmatic)(1986)(mfuegemann)(1.0)[VPX05][DT+FS]">
+		<description>Rider's Surf (Jocmatic)(1986)(mfuegemann)(1.0)[VPX05][DT+FS]</description>
+		<rom name="ironballs.vbs" size="3637" crc="09bfbec3" sha1="c30fcce97b33fef033416e96f912cf5d01c7a1f4"/>
+		<rom name="Riders_Rules.txt" size="525" crc="199eecc9" sha1="cf7cd7f520ea823856fbfc0233974d45ffda2941"/>
+		<rom name="Riders_Surf_PF.png" size="1780677" crc="02add14c" sha1="724d8e30ccc8a7e8294a0bbdd500fec5d45e0be4"/>
+		<rom name="screen_dt.jpg" size="368996" crc="9c96e508" sha1="4a6b1a9de7e055339597181a514df6ca3c9cf1c2"/>
+		<rom name="screen_fs.jpg" size="509823" crc="b5482310" sha1="32d987291e6bdd278c764c08950c3dce3eba2ca1"/>
+		<rom name="VPX_RidersSurf_1_0.vpx" size="17780736" crc="beae0420" sha1="454a138982bc173e4fad34a919b139961782bc83"/>
+	</machine>
+	<machine name="Road Runner (Atari)(1979)(Kalavera3)(2.0)[VPX05][DT+FS]">
+		<description>Road Runner (Atari)(1979)(Kalavera3)(2.0)[VPX05][DT+FS]</description>
+		<rom name="Road Runner (Atari 1979).vpx" size="52465664" crc="4d3d8eb4" sha1="559e9e34806d3ec37bf2efe9e438686e907dcd2b"/>
+		<rom name="Road Runner (Desktop) screenshot.png" size="1222007" crc="aa2d0c21" sha1="a667d44e8ef148695612aeef7fee0dc75faee05c"/>
+	</machine>
+	<machine name="Rocky (Gottlieb)(1982)(Tom)(1.2)[VPX05][DT+FS]">
+		<description>Rocky (Gottlieb)(1982)(Tom)(1.2)[VPX05][DT+FS]</description>
+		<rom name="Rocky (Gottlieb 1982)1.2.vpx" size="21192704" crc="c1a3367d" sha1="55b2936ecb374a123dfecb3d448812d878cb7f84"/>
+		<rom name="rocpf-1038x1845.png" size="3537499" crc="1a5cd5c1" sha1="7309bd634c5d6d5affb8d1b1006009c0da0c9577"/>
+	</machine>
+	<machine name="Rollercoaster Tycoon (Stern)(2002)(JPSalas)(1.0.3)[VPX05][DT+FS]">
+		<description>Rollercoaster Tycoon (Stern)(2002)(JPSalas)(1.0.3)[VPX05][DT+FS]</description>
+		<rom name="Rollercoaster Tycoon (Stern 2002) 1.0.3.vpx" size="33570816" crc="2982eb58" sha1="d26e4e6c5dee686602f05f6ab2e70d6545f75578"/>
+		<rom name="rollercoaster-tycoon--stern-2002--100.jpg" size="1257161" crc="bf0666b0" sha1="eeebc9fcd8c454c3ed1723c39c147b57122748a6"/>
+		<rom name="rollercoaster-tycoon--stern-2002--100fs.jpg" size="1316722" crc="16caf9d8" sha1="c538d18e9d4de73553ec1a619b4bee8cebeefae7"/>
+	</machine>
+	<machine name="RollerGames (Williams)(1990)">
+		<description>RollerGames (Williams)(1990)</description>
+		<rom name="RollerGames (Williams)(1990)(Javier1515)(1.01a)[VP-X].vpx" size="78987264" crc="aa18669b" sha1="41a8118c8e031a0daa5d829f6fced7bbfe952acd"/>
+		<rom name="RollerGames screenshot.png" size="2569319" crc="ff6e6eb5" sha1="7bd771be95e5123f79970e853b657f1e0626bd64"/>
+	</machine>
+	<machine name="Rolling Stones (Alvin G)(1979)(JPSalas)(1.0.2)[VPX04]">
+		<description>Rolling Stones (Alvin G)(1979)(JPSalas)(1.0.2)[VPX04]</description>
+		<rom name="Rolling Stones (Alvin G)(1979)(JPSalas)(1.0.2)[VPX04]\Rolling Stones screenshot.jpg" size="799109" crc="1d545b79" sha1="151233042e1ef5536fffa785fbfc5b223b072cf4"/>
+		<rom name="Rolling Stones (Alvin G)(1979)(JPSalas)(1.0.2)[VPX04]\Rolling Stones-v1.0.2.vpx" size="4603904" crc="17cd5b85" sha1="95d823dd46f403890989a71e684d52bc6345e5a4"/>
+	</machine>
+	<machine name="Scorpion (Williams)(1980)(Allknowing2012)(2.1b)[VPX04]">
+		<description>Scorpion (Williams)(1980)(Allknowing2012)(2.1b)[VPX04]</description>
+		<rom name="Scorpion (Williams 1980) 2.1b.vpx" size="52580352" crc="b8448e79" sha1="d2ec1d8710e7c8f8d3f2ee8cc972a9e0207cd765"/>
+		<rom name="scorpion--ss.png" size="2236557" crc="91c70c69" sha1="6b21caca48901df27ce6aa10749b3b7e179d7a5e"/>
+		<rom name="scrpn_l1.zip" size="6688" crc="3c9c9f03" sha1="d28de6f4c59f9b4c07a5247f51ec576a04b68999"/>
+	</machine>
+	<machine name="Secret Service (DataEast)(1988)(Derek Crosby)(1.3)[VPX06]">
+		<description>Secret Service (DataEast)(1988)(Derek Crosby)(1.3)[VPX06]</description>
+		<rom name="Secret Service (DataEast 1988)v1.3.vpx" size="48484352" crc="bcd96155" sha1="5c3dba4d1025a9eb2b2ca099eb357d52e4913fe3"/>
+		<rom name="SecretService_v1.3.jpg" size="431985" crc="95100a75" sha1="3a80272a84e79e6e369b13ec295174a10cdb581a"/>
+		<rom name="SecretService_v1.3_Table.jpg" size="586834" crc="f41583d7" sha1="2ee45829df4359c70916232b4ede21d97675e75c"/>
+	</machine>
+	<machine name="Sexy Girl (Arkon)(1980)(Lizard)(1.0)[VPX][DT][Bally's Playboy Conversion Kit]">
+		<description>Sexy Girl (Arkon)(1980)(Lizard)(1.0)[VPX][DT][Bally's Playboy Conversion Kit]</description>
+		<rom name="Sexy Girl (Arkon 1980).vpx" size="69554176" crc="4d815c6d" sha1="86bbef3ad62772e09d8749b509f88cb0911ec369"/>
+		<rom name="sexy-girl.png" size="688214" crc="c85e645a" sha1="d01e20ecac0a90b99d3a65999a611127ee6880df"/>
+	</machine>
+	<machine name="Shadow, The (Bally)(1994)(Alessio)(1.2)[VPX04][DT+FS]">
+		<description>Shadow, The (Bally)(1994)(Alessio)(1.2)[VPX04][DT+FS]</description>
+		<rom name="Shadow_DT1.png" size="3352651" crc="64caa0d3" sha1="64be12fb5cd154ed6f0fb669c9a5c87852f3fe82"/>
+		<rom name="Shadow_FS1.png" size="3086268" crc="890d8f52" sha1="a56a62f6ac910478ec2b1b6c70772df88e0d5779"/>
+		<rom name="The_Shadow_1.2.vpx" size="34590720" crc="13b745f4" sha1="32da1e15401a6d9cbd4de376c6c0f7fd849047e7"/>
+	</machine>
+	<machine name="Shark (Taito do Brasil)(1982)(JPSalas)(2.0.0)[VPX06][DT+FS]">
+		<description>Shark (Taito do Brasil)(1982)(JPSalas)(2.0.0)[VPX06][DT+FS]</description>
+		<rom name="1.1.0\Shark (Taito do Brasil - 1982) 1.1.0.vpx" size="16019456" crc="04f6e2b5" sha1="9e036ede65463849d682349122fc611d43dfca0c"/>
+		<rom name="1.1.0\shark-100.jpg" size="798494" crc="7c57e732" sha1="2a89da520cb64c638eacb15904ef48adf22a5cbe"/>
+		<rom name="1.1.0\shark-100fs.jpg" size="847157" crc="98d13afd" sha1="f33f66619d5a233c84b595e88b92af3c4814052f"/>
+		<rom name="2.0.0\Shark (Taito do Brasil - 1982) 2.0.0.vpx" size="16863232" crc="c1c8ecce" sha1="9bcf66c9abbb7d8b12e3f543a6572a0db9b5a130"/>
+		<rom name="2.0.0\shark--taito-do-brasil---1982--200.jpg" size="2815271" crc="08ce16c7" sha1="d701f3ddc6a26a59aa49a29a49862fbe549e4e74"/>
+		<rom name="2.0.0\shark--taito-do-brasil---1982--200fs.jpg" size="3007929" crc="ed9b5805" sha1="a78a454f41c47c24305e7f7738d1a1e333764ad3"/>
+		<rom name="plastics_eng.zip" size="3761645" crc="36a08d9b" sha1="5ab1a3d1a1b490568cbf7feb0d811a252bdff547"/>
+	</machine>
+	<machine name="Sharpshooter II (Gameplan)(1983)(Kalavera)(1.2.2)[VPX05]">
+		<description>Sharpshooter II (Gameplan)(1983)(Kalavera)(1.2.2)[VPX05]</description>
+		<rom name="Sharpshooter II (Desktop) screenshot.png" size="1043592" crc="86673518" sha1="95ca1f435908030850da24bf7d76c2f81201fbaa"/>
+		<rom name="Sharpshooter II (Gameplan 1983).vpx" size="99373056" crc="ad059220" sha1="e564af887fd53348e1b4948b25b912190eec4760"/>
+	</machine>
+	<machine name="Shock (Taito do Brasil)(1979)(JPSalas)(2.0.0)[VPX06][DT+FS+dB2S]">
+		<description>Shock (Taito do Brasil)(1979)(JPSalas)(2.0.0)[VPX06][DT+FS+dB2S]</description>
+		<rom name="Shock (Taito do Brasil - 1979) 2.0.0.vpx" size="13156352" crc="a4d165ab" sha1="c968b2f467b4f9f7b6cffcc41fc9058849991a12"/>
+		<rom name="shock--taito-do-brasil---1979--200.jpg" size="2765311" crc="be832487" sha1="d16ccfdcd9aad4d984c4948edee464147ba2add6"/>
+		<rom name="shock--taito-do-brasil---1979--200fs.jpg" size="2739324" crc="022306e4" sha1="aaa15a651255ec3a6f9fef8389a2a55497557a61"/>
+	</machine>
+	<machine name="Shrek (Stern)(2008)(ninuzzu, tomtower)(1.0)[VPX][DT+FS]">
+		<description>Shrek (Stern)(2008)(ninuzzu, tomtower)(1.0)[VPX][DT+FS]</description>
+		<rom name="Shrek(stern 2008).directB2S" size="13955378" crc="9dc5f1a6" sha1="d437fb6ed3951750b7926da20156ae4ff01a1852"/>
+		<rom name="Shrek-VPX-NZTT-1.0-DT.jpg" size="236650" crc="b7bc4549" sha1="9a90a8a8da9db55ac8c1ace5b3ee995f4718ba39"/>
+		<rom name="Shrek-VPX-NZTT-1.0-FS.jpg" size="437565" crc="43b4eba7" sha1="cfd5be69012eade31dc264821a84ddeeeb54f54b"/>
+		<rom name="Shrek_VPX 1.0 NZ&amp;TT.vpx" size="48414720" crc="207b0e12" sha1="d36301a3b4dd3643d28da6c72e7cbde9950db082"/>
+	</machine>
+	<machine name="SilverBall Mania (Bally)(1978)(32assassin)(2.0)[VPX]">
+		<description>SilverBall Mania (Bally)(1978)(32assassin)(2.0)[VPX]</description>
+		<rom name="SilverBall Mania (Bally 1978) 2.0.png" size="3262744" crc="396f39b4" sha1="a83796e4398eeb84f1c8a752f21f4ec476d49a0e"/>
+		<rom name="SilverBall Mania (Bally 1978).vpx" size="19542016" crc="da44a254" sha1="90a48b9d7accfef7bc9119b5ed1233f28245b959"/>
+	</machine>
+	<machine name="Simpsons, The (Data East)(1990)(32assassin)(0.91)[VPX05]">
+		<description>Simpsons, The (Data East)(1990)(32assassin)(0.91)[VPX05]</description>
+		<rom name="Simpsons, The (Data East)(1990)(32assassin)(0.91)[VPX05]\Simpsons, The (Data East 1990).vpx" size="53248000" crc="11b73c6d" sha1="13b8fd564434fad9fd6577c9e5a2eced75114800"/>
+		<rom name="Simpsons, The (Data East)(1990)(32assassin)(0.91)[VPX05]\Simpsons, The screenshot.png" size="1016112" crc="ce8b56ee" sha1="500ccae22bec022dcbfcfc8e9708954a2681f4b2"/>
+	</machine>
+	<machine name="Six Million Dollar Man (Bally)(1978)(Allknowing2012)[VPX05][MOD Gfx Bigus1 v2.2][DOF arngrim]">
+		<description>Six Million Dollar Man (Bally)(1978)(Allknowing2012)[VPX05][MOD Gfx Bigus1 v2.2][DOF arngrim]</description>
+		<rom name="clip_29.jpg" size="772297" crc="834737ad" sha1="599609300c949b7e0ac57492285b362a7e437758"/>
+		<rom name="Six Million Dollar Man(Bally 1978)_Bigus(MOD)2.2.vpx" size="32284672" crc="31217c26" sha1="a08b263a44082dcc77072e01a8fa1150819de1d4"/>
+	</machine>
+	<machine name="Skateball (Bally)(1980)(JPSalas)(1.0.3)[VPX04][DT+FS]">
+		<description>Skateball (Bally)(1980)(JPSalas)(1.0.3)[VPX04][DT+FS]</description>
+		<rom name="Skateball 1.0.3.vpx" size="13312000" crc="062cf84f" sha1="bf5bd401ac5c13ed4aaddf03d61b0e828e5fe4fb"/>
+		<rom name="skateball-100.jpg" size="1299449" crc="833895a5" sha1="b52092e325af731c8890ed435ddd8c017a107b8b"/>
+		<rom name="skateball-100fs.jpg" size="1341885" crc="15e8615f" sha1="551ef9d3e883ae5edafeed7aa0fd68cee23c2bf2"/>
+	</machine>
+	<machine name="Snake Machine (Taito do Brasil)(1981)(JPSalas)(2.0.0)[VPX06][DT+FS+dB2S]">
+		<description>Snake Machine (Taito do Brasil)(1981)(JPSalas)(2.0.0)[VPX06][DT+FS+dB2S]</description>
+		<rom name="Snake Machine (Taito do Brasil - 1981) 2.0.0.vpx" size="24162304" crc="d417e599" sha1="03903265d95667537e761ba6d11108e4a021cd0b"/>
+		<rom name="snake-machine--taito-do-brasil---1981--200.jpg" size="2795401" crc="189e3f99" sha1="a56843504c8b2d92c2b66826e8fe0aa5f7f3fc15"/>
+		<rom name="snake-machine--taito-do-brasil---1981--200fs.jpg" size="2821615" crc="9103974a" sha1="1cf8b0a98c3c7f41272eea07337b0cefbba371dd"/>
+	</machine>
+	<machine name="Sorcerer (Williams)(1985)(JPSalas)(1.0.0)[VPX05][DT+FS]">
+		<description>Sorcerer (Williams)(1985)(JPSalas)(1.0.0)[VPX05][DT+FS]</description>
+		<rom name="Sorcerer (Williams)(1985)(JPSalas)(1.0.0)[VPX05][DT+FS]\Sorcerer (Desktop) screenshot.jpg" size="1344989" crc="26619662" sha1="df847afef45bc507b2d4365d05af39e7adec224b"/>
+		<rom name="Sorcerer (Williams)(1985)(JPSalas)(1.0.0)[VPX05][DT+FS]\Sorcerer (FullScreen) screenshot.jpg" size="1357220" crc="27a777e2" sha1="a1f20811affe1cb7860f28c4446577212891b454"/>
+		<rom name="Sorcerer (Williams)(1985)(JPSalas)(1.0.0)[VPX05][DT+FS]\Sorcerer 1.0.0.vpx" size="10756096" crc="d1d4f3e1" sha1="4b6494536be09c76e7d032c00095f48fa92a175a"/>
+	</machine>
+	<machine name="South Park (SEGA)(1999)(Knorr)(1.1)[VPX][FS]">
+		<description>South Park (SEGA)(1999)(Knorr)(1.1)[VPX][FS]</description>
+		<rom name="South Park 1.1.vpx" size="85422080" crc="4e0789d8" sha1="cbe1d545549cea69bdeb8c258d301f777af10713"/>
+		<rom name="South-park-visual-pinball-x-playfield.png" size="3342281" crc="80de2d8a" sha1="4d12e72a0afd3c29819d0238140e6a19a41be812"/>
+		<rom name="South-ParkSega1999_Wildman\Readme.txt" size="1662" crc="7d732aa3" sha1="88ac3753df16a66cc61914ad83678576d56e2e6c"/>
+		<rom name="South-ParkSega1999_Wildman\South Park(Sega)(1999).directb2s" size="6643679" crc="cfc7027f" sha1="78114bdbff7c407a56b1e73e59b5334cc8b7819e"/>
+		<rom name="South-ParkSega1999_Wildman\south-park-backglass.png" size="3598355" crc="087d83d6" sha1="416eefb98d8546cd462a8bb5b03019e93fc7e7e0"/>
+	</machine>
+	<machine name="Space Invaders (Bally)(1980)(JPSalas)(1.0.1)[VPX05][DT+FS]">
+		<description>Space Invaders (Bally)(1980)(JPSalas)(1.0.1)[VPX05][DT+FS]</description>
+		<rom name="Space Invaders (Bally 1980) v1.0.1.vpx" size="20918272" crc="583246b4" sha1="77c784e858a26dc424ee6aa6a15a95a7ae5b2513"/>
+		<rom name="space-invaders--bally-1980--v100.jpg" size="2460381" crc="726c7b03" sha1="5369782197e468928cce33498768696ec1ba3e66"/>
+		<rom name="space-invaders--bally-1980--v100fs.jpg" size="2736170" crc="86719527" sha1="8b582eea3543774f78d8857b88dce2af07619d56"/>
+	</machine>
+	<machine name="Space Shuttle (Taito do Brasil)(1982)(JPSalas)(2.0.0)[VPX06][DT+FS]">
+		<description>Space Shuttle (Taito do Brasil)(1982)(JPSalas)(2.0.0)[VPX06][DT+FS]</description>
+		<rom name="1.0.0\Space Shuttle (Desktop) screenshot.jpg" size="1219732" crc="815cc6a6" sha1="aafb355f489b84ab1a5a692e7e94899870b6cb80"/>
+		<rom name="1.0.0\Space Shuttle (FullScreen) screenshot.jpg" size="1295791" crc="ac639a9b" sha1="75000aea4bf3c6ab2115cb4c26facb25c0161d9f"/>
+		<rom name="1.0.0\Space Shuttle (Taito - 1982) 1.0.0.vpx" size="9977856" crc="735ea638" sha1="e59bb10bc0cef233fed35cbe267af427c29f1f7b"/>
+		<rom name="2.0.0\Space Shuttle (Taito do Brasil - 1982) 2.0.0.vpx" size="11194368" crc="23e39bcc" sha1="93127583e19093d313b88962d8cb6dad8ae4a577"/>
+		<rom name="2.0.0\space-shuttle--taito-do-brasil---1982--200.jpg" size="2585887" crc="ee56200f" sha1="44301379931d7d84b9465194956a418c7cda2ff7"/>
+		<rom name="2.0.0\space-shuttle--taito-do-brasil---1982--200fs.jpg" size="2620556" crc="8a1604d7" sha1="045761553f57a0a0a10b8f1ec92a5a6a71a34157"/>
+	</machine>
+	<machine name="Space Shuttle (Williams)(1984)(bord)(1.0c)[VPX06][DT+FS]">
+		<description>Space Shuttle (Williams)(1984)(bord)(1.0c)[VPX06][DT+FS]</description>
+		<rom name="Space Shuttle (Williams 1984).vpx" size="108371968" crc="ff39c23f" sha1="158dbed9533a12c94c59aab6ea94d42c0b824f31"/>
+		<rom name="SS_dt1-1038x848.jpg" size="108528" crc="7a833a93" sha1="3285388d550f7a056d974edfd0f46003a22226ac"/>
+	</machine>
+	<machine name="Space Shuttle (Williams)(1984)(pinball58)(1.1)[VPX][DT+FS]">
+		<description>Space Shuttle (Williams)(1984)(pinball58)(1.1)[VPX][DT+FS]</description>
+		<rom name="Space Shuttle VPX v1.1 - pinball58.vpx" size="46432256" crc="90270a0e" sha1="f598e257322fbd06897039f6ef79433c6aa99b24"/>
+		<rom name="Space-Shuttle-VPX-v1.0-pinball58-DT.png" size="2135669" crc="343cb186" sha1="b1d319b6f5342e669dba02e89a611a14251df2f2"/>
+		<rom name="Space-Shuttle-VPX-v1.0-pinball58-FS.png" size="2935198" crc="0c171297" sha1="ea9277042d217daa2e74b3f187c8d6be9abc9d8f"/>
+		<rom name="Space-Shuttle-williams-1984_Hauntfreaks\Space Shuttle (williams 1984).directb2s" size="8680316" crc="fa7c428c" sha1="384fce93ae1c0bfbdb6d5b29a9f8afbb699ae779"/>
+	</machine>
+	<machine name="Space Station (Williams)(1987)">
+		<description>Space Station (Williams)(1987)</description>
+		<rom name="Space Station (Williams)(1987)(Hmueck[VP9], nFozzy)(1.01)[VPX.2.1].vpx" size="68923392" crc="3938074f" sha1="af401acb4b1bea7a1dffe560acf2370a26bc2e23"/>
+		<rom name="spacestationdt.jpg" size="931618" crc="ead1ae36" sha1="652fb6e09f4290d3f36a5ebd32fc278a7f363eb1"/>
+		<rom name="spacestationfs.jpg" size="1202713" crc="2b6b634e" sha1="db542b0a6b6bd4c7a25525bca89fcca891451504"/>
+	</machine>
+	<machine name="Space Walk (Gottlieb)(1979)(BorgDog)(1.0)[VPX]">
+		<description>Space Walk (Gottlieb)(1979)(BorgDog)(1.0)[VPX]</description>
+		<rom name="356_21_09_15_8_02_14_0.jpg" size="118870" crc="7cdee054" sha1="f63334ea875a2a4f9dc246c4e2411bc5d57120ad"/>
+		<rom name="Space Walk (Gottlieb 1979).directb2s" size="11802189" crc="74851d0e" sha1="7c7247d551c4c62cf70e2b04b9c8f532060eabd3"/>
+		<rom name="Space Walk (Gottlieb 1979).vpx" size="13590528" crc="a7c54db9" sha1="98627fa1799f37ca475e42d8f6ae29e26ea3548a"/>
+		<rom name="Space Walk wheel.png" size="507344" crc="dff0413c" sha1="7bd95c7d89d89c64c42a3709a35536526b768e90"/>
+	</machine>
+	<machine name="Speed Test (Taito do Brasil)(1982)(JPSalas)(2.0.0)[VPX06][DT+FS+dB2S]">
+		<description>Speed Test (Taito do Brasil)(1982)(JPSalas)(2.0.0)[VPX06][DT+FS+dB2S]</description>
+		<rom name="Speed Test (Taito do Brasil - 1982) 2.0.0.vpx" size="15716352" crc="4501187e" sha1="a3747924b8a149c6d3c93f7a7ac678fe0efb2993"/>
+		<rom name="speed-test--taito-do-brasil---1982--200.jpg" size="2477656" crc="7fe33b64" sha1="3c121b2190c36ebb650e83fe07bbdfe05b45e46d"/>
+		<rom name="speed-test--taito-do-brasil---1982--200fs.jpg" size="2374532" crc="b29e9012" sha1="b75e6cd340441bda5db3c338bfe4e3e1d88294c6"/>
+	</machine>
+	<machine name="Spider-Man (Stern)(2007)(ninuzzu)(1.1)[VPX]">
+		<description>Spider-Man (Stern)(2007)(ninuzzu)(1.1)[VPX]</description>
+		<rom name="Spider-Man_VPX_1.1.vpx" size="27193344" crc="95b669da" sha1="32061ec7ed3a8057825ba4431830e0b9ffe91157"/>
+		<rom name="Spiderman-stern-2007\Spiderman (stern 2007).directb2s" size="10308335" crc="f8c4f265" sha1="131f5d3245508c2d3a3a2d4ad7a2a58b45320cb2"/>
+		<rom name="Spiderman-stern-2007\spiderman-backglass.png" size="4053261" crc="29acc2d9" sha1="d10bde00818183ac4c23574e03cf2703e1282cce"/>
+	</machine>
+	<machine name="Spider-Man Vault Edition (Stern)(2016)(Alessio)(2.2)[VPX04]">
+		<description>Spider-Man Vault Edition (Stern)(2016)(Alessio)(2.2)[VPX04]</description>
+		<rom name="flyerBACK-1.jpg" size="790217" crc="d4fb9371" sha1="09f2f8a5a1f7a2d9b75d8fb56745e1be05a95af4"/>
+		<rom name="flyerFRONT-1.jpg" size="586583" crc="af0f672e" sha1="38d77a30a607a59654bb6ba5dc35ee1bb4f8aa4a"/>
+		<rom name="smanve_101.zip" size="53531882" crc="08e78530" sha1="ca13905bf893a0a3ac6b3a01a358b4e216aea5b5"/>
+		<rom name="Spider-Man_VE_2.2.vpx" size="85819392" crc="c528eaad" sha1="5f1fdd8f581b721e3a30202f887478be46724898"/>
+		<rom name="Spiderman-Vault-Edition-stern-20161.1_HauntFreaks\Spiderman Vault Edition (stern 2016)1.1.directb2s" size="36974803" crc="beeb04f0" sha1="8dd7e7b98ae2adb4784d80709270852a694a6dcc"/>
+		<rom name="Spiderman-Vault-Edition-stern-20161.1_HauntFreaks\spiderman_vault.png" size="8424404" crc="ccc0e3b5" sha1="19e23342069eac885e6f1b7eed160a4576f53745"/>
+		<rom name="VE_DESKTOP-1.png" size="3780911" crc="f5a7c2cb" sha1="54988cfa59c65bb26edb6761474fd54e8eb0634a"/>
+		<rom name="VE_FULL-1.png" size="4751648" crc="37a626bf" sha1="58703e623d2401337435bf6463ff0298706dc8ca"/>
+	</machine>
+	<machine name="Spy Hunter (Bally)(1984)">
+		<description>Spy Hunter (Bally)(1984)</description>
+		<rom name="Spy Hunter (Bally)(1984)(32assassin)(1.0)[VP-X].vpx" size="28332032" crc="2517ba58" sha1="fac7c7cae417a5ee32129259aa2c113fe69c8e96"/>
+		<rom name="Spy Hunter (Bally)(1984)(32assassin)(1.4)[VP-X].vpx" size="27754496" crc="d25b15dc" sha1="cab18b433af456eaf1a2678a7fda387864fe6ade"/>
+		<rom name="Spy Hunter screenshot.png" size="3030319" crc="eff41e66" sha1="a708bcd425a06000a11026d414dc7b35b72d4ec8"/>
+	</machine>
+	<machine name="Star Trek - The Next Generation (Williams)(1993)(Knorr, Clark Kent)(1.4.1)[VPX06][DT+FS][DOF arngrim]">
+		<description>Star Trek - The Next Generation (Williams)(1993)(Knorr, Clark Kent)(1.4.1)[VPX06][DT+FS][DOF arngrim]</description>
+		<rom name="Bildschirmfoto-2019-07-07-um-14.46.23-1038x1845.png" size="3583755" crc="c0bd198c" sha1="8d4130a96762ff3293435c23ed82f52bfb011a10"/>
+		<rom name="STTNG (Williams 1993) 1.4.1.vpx" size="137089024" crc="9762e56d" sha1="fffb9ba3e517f4dae1d8f62b66f6616427d3aef9"/>
+	</machine>
+	<machine name="Star Trek 25th Anniversary (Data East)(1991)(32assassin)(1.0.5)[VPX05]">
+		<description>Star Trek 25th Anniversary (Data East)(1991)(32assassin)(1.0.5)[VPX05]</description>
+		<rom name="beta\need replacements\2.png" size="1465920" crc="186c2f69" sha1="87cc2626401d94d19e007e6fbc5bcd1726d186ce"/>
+		<rom name="beta\need replacements\doomsday.png" size="686875" crc="43c5cbbc" sha1="f9d5adb68bb40cbedbde9d307a2b50c8197fd3e1"/>
+		<rom name="beta\need replacements\guardian.png" size="125403" crc="cd4b0fc5" sha1="2f8c64ba2085bf9b5f5761c6da88ea1e7806968c"/>
+		<rom name="beta\need replacements\image-30.jpg" size="177025" crc="25317f4e" sha1="af3c70eb6b0d48bb6ca41b95f9f08fa956bdc715"/>
+		<rom name="beta\need replacements\image-32.jpg" size="179679" crc="bcf7a889" sha1="f53e4a2d3eb414d81ba81dc162011f43ea1afdfe"/>
+		<rom name="beta\need replacements\spock.png" size="671025" crc="4703824e" sha1="87fb4af4bff9a7b13e548b5f80438d8c5d0deaec"/>
+		<rom name="beta\need replacements\transporter.png" size="2888412" crc="f74c175c" sha1="91080e90fb7c142b15ec68a7e56fcf1a935d26bc"/>
+		<rom name="beta\need replacements\vp9 version\crystal_a.png" size="56980" crc="d8613048" sha1="f2ea67e04e8484e98fd491b4fff684043e3a2da0"/>
+		<rom name="beta\need replacements\vp9 version\crystal_b.png" size="56840" crc="72d87bff" sha1="ea8b4419f187fb3c3ae704f3215edcb3cf655586"/>
+		<rom name="beta\need replacements\vp9 version\crystal_on.png" size="52577" crc="94cec59c" sha1="016e57f72979c84198c1e334f07d6032ba187159"/>
+		<rom name="beta\need replacements\vp9 version\crystaly_a.png" size="60348" crc="8c1de479" sha1="c0577c84c72ba521ee5197226d44d3e2d60b6f3e"/>
+		<rom name="beta\need replacements\vp9 version\crystaly_b.png" size="57316" crc="cac59c2e" sha1="cd2989b43a0abc168cfaf4a473a73de8d133ee85"/>
+		<rom name="beta\need replacements\vp9 version\crystaly_on.png" size="57406" crc="1a2011ea" sha1="38abc3704c9c129362054290cda2b879acd70c9d"/>
+		<rom name="beta\need replacements\vp9 version\DILITHIUM (2).png" size="3954652" crc="24c6a55d" sha1="c9d7128b25c678f733c0bf68441a03ec0f283312"/>
+		<rom name="beta\need replacements\vp9 version\DILITHIUM.png" size="299715" crc="a0a607a0" sha1="4c666e915da1d4a8e8fbc0693c47d150a7c9942f"/>
+		<rom name="beta\readme.txt" size="340" crc="6a20bd92" sha1="7e77c9c144682e794c78f6a317f46885a2c20870"/>
+		<rom name="beta\screenshot.png" size="739970" crc="cb97949a" sha1="8ea72d72914ea6b89eac401f4695069148e67c23"/>
+		<rom name="beta\Star Trek 25th Anniversary (Data East 1991).vpx" size="57245696" crc="531ed3d4" sha1="ef461fff021be4d8cb5ca815f36fd7c60e6dca00"/>
+		<rom name="st25th-600x338-1038x584.png" size="739970" crc="cb97949a" sha1="8ea72d72914ea6b89eac401f4695069148e67c23"/>
+		<rom name="Star Trek 25th Anniversary (Data East 1991).vpx" size="57696256" crc="8cc0fef0" sha1="fd03bb2a11baf8eef5096eb292b4ef7e0370664e"/>
+	</machine>
+	<machine name="Star Wars (Data East)(1992)(Dids666, DJRobX)(1.5.1)[VPX05][DT+FS]">
+		<description>Star Wars (Data East)(1992)(Dids666, DJRobX)(1.5.1)[VPX05][DT+FS]</description>
+		<rom name="CAb-Star-Wars-Data-East.png" size="4360280" crc="74521a94" sha1="b075704222174aede3edf2e4ac6478fc76740b1a"/>
+		<rom name="DT-Star-Wars-Data-East.png" size="2819641" crc="7dc169fe" sha1="2764b08321decd2cf5ca827460cfa2dfdfb6995a"/>
+		<rom name="flyerBACK.jpg" size="252307" crc="43ac0464" sha1="c5c53691053c34661a92b5e08a7e01932d07c43e"/>
+		<rom name="flyerFRONT.jpg" size="294935" crc="42b8cba8" sha1="6e8f7d796b3b69e41464c4f1f520e32a1bbeabdc"/>
+		<rom name="star wars - data east (1992) v1.5.1.vpx" size="88739840" crc="3e3d8d8f" sha1="01e4570e200a0dcbb45ff81acf5643065b4b6a77"/>
+		<rom name="Star_Wars_Data_East_1992_2.5_Alistarcg-Wildman\B2S-Screenshot.png" size="3230187" crc="702e9c1d" sha1="c317d624dc3d6bfd98ed24e1d1aaf57586b40903"/>
+		<rom name="Star_Wars_Data_East_1992_2.5_Alistarcg-Wildman\Star Wars (Data East 1992) .directb2s" size="25498988" crc="de638035" sha1="476c6865411846c5e7a0dc3b5ef58ead2a05ac6f"/>
+	</machine>
+	<machine name="Star Wars (Segasa d.b.a. Sonic)(1987)">
+		<description>Star Wars (Segasa d.b.a. Sonic)(1987)</description>
+		<rom name="SSW playfield.png" size="2795091" crc="14123e07" sha1="6085a4fdafbd8fff50feecb67724ab45edd8748a"/>
+		<rom name="Star Wars (Desktop) screenshot.jpg" size="402483" crc="d4cf5776" sha1="d06182649f411213d45aea1735b986490eafad00"/>
+		<rom name="Star Wars (FullScreen) screenshot.jpg" size="372040" crc="72448990" sha1="cc4fb7d91bf0721da6d5710540c7342239d3c633"/>
+		<rom name="Star Wars (Sonic)(1987)(mfuegemann)(1.1)[VPX04][DT+FS].vpx" size="45666304" crc="bda57455" sha1="7f1ce7497a3cc905f74689f8fc2e53d98e617130"/>
+		<rom name="Star Wars Rules.txt" size="1514" crc="1a558775" sha1="8ba3ea8d50a7870c7f1e8fb80d64c01cb424da8f"/>
+	</machine>
+	<machine name="Star Wars - Empire Strikes Back, The (Hankin)(1980)">
+		<description>Star Wars - Empire Strikes Back, The (Hankin)(1980)</description>
+		<rom name="Star Wars - Empire Strikes Back, The (Hankin)(1980)(32assassin)(1.1)[VPX].vpx" size="29487104" crc="c80443ca" sha1="4d2de7ea5b4811eb1e4a57f9e15f350a73e69804"/>
+		<rom name="Star Wars - Empire Strikes Back, The screenshot.png" size="2291470" crc="cddf932e" sha1="3ac7e784848ab9e98f2bd3349db0e6c17c88535f"/>
+	</machine>
+	<machine name="Star Wars Trilogy (SEGA)(1997)(32assassin)(0.999)[VPX05]">
+		<description>Star Wars Trilogy (SEGA)(1997)(32assassin)(0.999)[VPX05]</description>
+		<rom name="Star Wars Trilogy (Sega 1997).vpx" size="46239744" crc="9dd533ff" sha1="946bbf5a38af2106d48a6760772edf4478216bd2"/>
+		<rom name="SWT-600x338-1038x584.png" size="886306" crc="fac15ecc" sha1="d4ae05c4d852d8553cf88b8e9c5299f368cb67e4"/>
+	</machine>
+	<machine name="Stars (Stern)(1978)(32assassin)(0.9.0.3)[VPX06]">
+		<description>Stars (Stern)(1978)(32assassin)(0.9.0.3)[VPX06]</description>
+		<rom name="Stars (Stern 1978).vpx" size="21372928" crc="70544398" sha1="e736a806cfa27cd75c217839f5cb1d649d56c013"/>
+		<rom name="Stars-600x338-1038x584.png" size="925583" crc="aa31e1d1" sha1="aad2dcd5593215c545ed553a40f13c45ac84a936"/>
+	</machine>
+	<machine name="Still Crazy (Williams)(1984)(mfuegemann)(1.1[VPX06][DT+VT]">
+		<description>Still Crazy (Williams)(1984)(mfuegemann)(1.1[VPX06][DT+VT]</description>
+		<rom name="s8_StillCrazy.vbs" size="5019" crc="0318403a" sha1="58c1aac2c02cd26a6c780023e80da7a9082556a4"/>
+		<rom name="screen-vt.png" size="3558516" crc="b42964a8" sha1="46bf255ea045042771fa74f435acdc9faaf6db08"/>
+		<rom name="screen_dt.png" size="3071017" crc="9ae25856" sha1="9b1b6821c4e49eaa121b4a44f5ed5c5e458ccd2e"/>
+		<rom name="scrzy_l1.zip" size="11059" crc="51b86577" sha1="8b7aa48dc45ad88a72f305c104dfc17e748a3bfd"/>
+		<rom name="Still_Crazy_VPX_1_1.directb2s" size="3659612" crc="845851e8" sha1="54df7169b73bc903641883c8d34895dfd52885f2"/>
+		<rom name="Still_Crazy_VPX_1_1.vpx" size="42749952" crc="c943e985" sha1="cba1d70d49ed5a941e3d3ec8f8e79395edaed473"/>
+		<rom name="StillCrazy_PF.png" size="3685205" crc="ed84fc5c" sha1="abbb705bd99f0b750ad8296125567618d44f5dd7"/>
+	</machine>
+	<machine name="Stingray (Stern)(1977)(32assassin)(0.9)[VPX05]">
+		<description>Stingray (Stern)(1977)(32assassin)(0.9)[VPX05]</description>
+		<rom name="Stingray (Stern 1977).vpx" size="34668544" crc="378f1a9e" sha1="e698951b3360d1145d730c87c3b9b41f275fe0ab"/>
+		<rom name="stingray-600x338-1038x584.png" size="892417" crc="f4e4a4a0" sha1="19ce9ed7c6e86a172a069337ce62a1339f2c650c"/>
+	</machine>
+	<machine name="Street Fighter II (Gottlieb)(1993)(roccodimarco)(1.2)[VPX05][DT+FS]">
+		<description>Street Fighter II (Gottlieb)(1993)(roccodimarco)(1.2)[VPX05][DT+FS]</description>
+		<rom name="sfiisc.jpg" size="1731643" crc="f101f4c7" sha1="a9a2dae2204a223da5ed3bb9f363e9d7965cef4c"/>
+		<rom name="sfiisc.png" size="1566556" crc="1bbcb9ba" sha1="72b3f8f97cc652276540dd7da637aca593e56f06"/>
+		<rom name="Street Fighter II (Gottlieb 1993).vpx" size="19021824" crc="522a2159" sha1="13d420de6f14e2579112e646ed5f889fa6566a64"/>
+	</machine>
+	<machine name="Striker (Gottlieb)(1982)(Kalavera3, 32assassin)(1.0.3)[VPX05][DT+FS]">
+		<description>Striker (Gottlieb)(1982)(Kalavera3, 32assassin)(1.0.3)[VPX05][DT+FS]</description>
+		<rom name="Striker (Desktop) screenshot.png" size="1222411" crc="4b3a8007" sha1="2e93d7dd4bd4a219f59ff3d2d6bfadce9e0b5643"/>
+		<rom name="Striker (FullScreen) screenshot.png" size="1570181" crc="6fade4c7" sha1="02777c54c8da45a1c188c303942263243c4d83f0"/>
+		<rom name="Striker (Gottlieb 1982).vpx" size="45051904" crc="6508c19d" sha1="7b9a4847f18bac4dc869613d1a39c294dfb9f0ca"/>
+	</machine>
+	<machine name="Striker Xtreme (Stern)(2000)(32assassin)(beta)[VPX05]">
+		<description>Striker Xtreme (Stern)(2000)(32assassin)(beta)[VPX05]</description>
+		<rom name="st missing.jpg" size="99687" crc="8b7731ca" sha1="150e91a18067ecf08e6de30f226b7e53725e83eb"/>
+		<rom name="Striker Xtreme (Stern 2000).vpx" size="36438016" crc="acd9f8f5" sha1="e9e12a2ae5774bb53076fa493d3e00ab60295a88"/>
+		<rom name="striker-xtreme-600x338-1038x584.png" size="895715" crc="f7f9c2f4" sha1="519f78ca253b2b528f610001f119aebbc1e3d312"/>
+	</machine>
+	<machine name="Striker Xtreme (Stern)(2000)(Kalavera)(2.0)[VPX06]">
+		<description>Striker Xtreme (Stern)(2000)(Kalavera)(2.0)[VPX06]</description>
+		<rom name="Striker Xtreme (Stern 2000).vpx" size="40509440" crc="9010bf58" sha1="cafd92b0c7435879c9a9acb052b7e04218f1dd74"/>
+		<rom name="xtreme--stern-2000-.jpg" size="496820" crc="8234fab2" sha1="7c0be75f961109fb0b75f1e5e760147cdac01dc6"/>
+	</machine>
+	<machine name="Strikes and Spares (Bally)(1978)(32assassin)(1.2)[VPX05]">
+		<description>Strikes and Spares (Bally)(1978)(32assassin)(1.2)[VPX05]</description>
+		<rom name="Strikes and Spares (Bally 1978).vpx" size="18436096" crc="96564028" sha1="ac374469b7865f3826d057c8686d77b02f0d7dbd"/>
+		<rom name="Strikes and Spares screenshot.png" size="908433" crc="f1cd5eaf" sha1="a1b160237449237b98aabdd3315578ce894306ba"/>
+	</machine>
+	<machine name="Sultan (Taito do Brasil)(1979)(JPSalas)(2.0.0)[VPX06][DT+FS]">
+		<description>Sultan (Taito do Brasil)(1979)(JPSalas)(2.0.0)[VPX06][DT+FS]</description>
+		<rom name="1.0.0\Sultan (Taito-1979) 1.0.0.vpx" size="15396864" crc="2c4c8a8d" sha1="3d1a0dcead6b49421176dc22dcc589a887ecb7d7"/>
+		<rom name="1.0.0\sultan--taito-1979--100.jpg" size="1328491" crc="ebb8ece9" sha1="0acb00b7491b7635d2960dfec1ce7d0bbe5ee547"/>
+		<rom name="1.0.0\sultan--taito-1979--100fs.jpg" size="1355950" crc="3fabfe84" sha1="cab76f0443486a7212aac00712a2e5c4bd8d75af"/>
+		<rom name="2.0.0\Sultan (Taito do Brasil - 1979) 2.0.0.vpx" size="16654336" crc="6a5631a8" sha1="6fbd52d755877b97cb74e8ace4075f711b722405"/>
+		<rom name="2.0.0\sultan--taito-do-brasil---1979--200.jpg" size="2506519" crc="f5f326ac" sha1="e0d85ab34b62c308ecc04ec74cdeb43c0ac74a8f"/>
+		<rom name="2.0.0\sultan--taito-do-brasil---1979--200fs.jpg" size="2498439" crc="afe2be26" sha1="2efe3ae2930af77ce6b1f71898c3d6856f2083ac"/>
+	</machine>
+	<machine name="Super Mario Bros. (Gottlieb)(1992)(Ninuzzu, TomTower)(1.3)[VPX][DT+FS]">
+		<description>Super Mario Bros. (Gottlieb)(1992)(Ninuzzu, TomTower)(1.3)[VPX][DT+FS]</description>
+		<rom name="ReadMe.txt" size="350" crc="c35db0a2" sha1="3b80bad86f9c01fb8544f0c654bafdf431e59e0e"/>
+		<rom name="SMB-TT-NZ_1.3.vpx" size="32473088" crc="a9c21e4b" sha1="dd8348145098f91b585e1e47b1000b659a7e936d"/>
+		<rom name="SMB1.1_DT.png" size="1535271" crc="8cc55645" sha1="6e3506496c684b6fffdb305f50257d5410c6e3dd"/>
+		<rom name="SMB1.1_FS.png" size="2574737" crc="f533fb7c" sha1="79259289131be67e0c630f2b3e1692570f6c0340"/>
+		<rom name="Super-Mario-Bros-Premier1992\mario-bros-backglass.png" size="1385505" crc="956ae8c3" sha1="fc09f36baba0a2a4e5ac86853843212e64fd74ad"/>
+		<rom name="Super-Mario-Bros-Premier1992\Super Mario Bros (Premier1992).directb2s" size="7199847" crc="ca82f3fc" sha1="01141418a5bfd064d25f8011a6599dcde9b0b4a7"/>
+	</machine>
+	<machine name="Sure Shot (Taito do Brasil)(1981)(JPSalas)(2.0.0)[VPX06][DT+FS+dB2S][DOF arngrim]">
+		<description>Sure Shot (Taito do Brasil)(1981)(JPSalas)(2.0.0)[VPX06][DT+FS+dB2S][DOF arngrim]</description>
+		<rom name="Sure Shot (Taito do Brasil - 1981) 2.0.0.vpx" size="18481152" crc="70119f8b" sha1="4383146326227306b43862aedbd1d5780b9d4e39"/>
+		<rom name="sure-shot--taito-do-brasil---1981--200.jpg" size="2907151" crc="2f86fa99" sha1="caad1d0bf8499f1ceeb7168d4effe894c5737092"/>
+		<rom name="sure-shot--taito-do-brasil---1981--200fs.jpg" size="2682471" crc="0a12e73e" sha1="5da3eba493b98241b2a206c7bf095450ace0933c"/>
+	</machine>
+	<machine name="Surf'n Safari (Gottlieb)(1991)(Kiwi)(1.2.0)[VPX05][DT+FS+FSS]">
+		<description>Surf'n Safari (Gottlieb)(1991)(Kiwi)(1.2.0)[VPX05][DT+FS+FSS]</description>
+		<rom name="(1.1.1)[VPX01][DT+FS]\Surf'n Safari (Desktop) screenshot.png" size="3698108" crc="9248f7fa" sha1="797519f9963df6897011e117b77ffd123e1f57dc"/>
+		<rom name="(1.1.1)[VPX01][DT+FS]\Surf'n Safari (FullScreen) screenshot.png" size="2679969" crc="94590249" sha1="d3c70489b8b3d41c3fc4f964171c5188f04841e0"/>
+		<rom name="(1.1.1)[VPX01][DT+FS]\Surf'n Safari v1.1.1.vpx" size="28205056" crc="5867844a" sha1="1de3b012a46a3eec64640da8c14b39eb066b001f"/>
+		<rom name="(1.2.0)[VPX05][DT+FS+FSS]\Surf'n Safari v1.2.0.vpx" size="36659200" crc="294c4b61" sha1="7baf6f012e3f12411d3236afecfe9765c7f302a5"/>
+		<rom name="(1.2.0)[VPX05][DT+FS+FSS]\surf-nsafaridt.png" size="3556753" crc="0d7c8a46" sha1="829a59da877d694a33f53a33cb30cab45bfcc708"/>
+		<rom name="(1.2.0)[VPX05][DT+FS+FSS]\surf-nsafarifs.png" size="2562305" crc="8ab85a5b" sha1="d80f2a6ceff0de09a85ba51704f8481755716cd7"/>
+		<rom name="(1.2.0)[VPX05][DT+FS+FSS]\surf-nsafarifss.png" size="3053504" crc="fa4a56ea" sha1="7e0fdec44c9b3f3652c94eba50e142a292753e1a"/>
+	</machine>
+	<machine name="Swords of Fury (Williams)(1988)(Takut)(1.3)[VPX][DT+FS]">
+		<description>Swords of Fury (Williams)(1988)(Takut)(1.3)[VPX][DT+FS]</description>
+		<rom name="Playfield_DT.png" size="2137407" crc="6502c927" sha1="7825167a90f509513bde1f78bc1123c61af9afd2"/>
+		<rom name="Playfield_FS.jpg" size="506449" crc="ee444f57" sha1="1a60abf8a018b862a5250fa1d6f53d6898ec04b0"/>
+		<rom name="Sword-of-Fury-Williams-19882scr-WILDMAN\Sword of Fury (Williams 1988)2scr.directb2s" size="17911104" crc="c41b6a40" sha1="0b241bec53efc03cb5ff176d078d5ad61ec69a66"/>
+		<rom name="Sword-of-Fury-Williams-19883scr-WILDMAN\Sword of Fury (Williams 1988)3scr.directb2s" size="17741510" crc="88b7dca7" sha1="b9f1295bce07c9e4f689f5f9a03d93b8aba69843"/>
+		<rom name="Swords of Fury (Williams 1988) 1.3.vpx" size="30638080" crc="8ec887b9" sha1="84efbb53527e7ccd79b6386062df7dfb3cf75e68"/>
+	</machine>
+	<machine name="T.K.O. (Gottlieb)(1979)(BorgDog)(1.0)[VPX]">
+		<description>T.K.O. (Gottlieb)(1979)(BorgDog)(1.0)[VPX]</description>
+		<rom name="356_27_10_15_12_23_47_0.jpg" size="116114" crc="1a8ba555" sha1="3a6457d4304cc387b30c75ecba22db27938fff26"/>
+		<rom name="TKO (Gottlieb 1979).directb2s" size="15425741" crc="432f14c7" sha1="ce0b31689dd900600be1f3888f159ba6e7bb9c0e"/>
+		<rom name="TKO (Gottlieb 1979).vpx" size="16596992" crc="82fe7b2c" sha1="4c26950fb3ea90186b56520d9e8bdac4f0e3e805"/>
+	</machine>
+	<machine name="Tales from the Crypt (Data East)(1993)(32assassin)(0.9beta)[VPX05]">
+		<description>Tales from the Crypt (Data East)(1993)(32assassin)(0.9beta)[VPX05]</description>
+		<rom name="Tales from the Crypt (Data East 1993).vpx" size="37347328" crc="9bd18798" sha1="b4e9a57ecea14a9e63c0f20bf3a8b1521c3365ef"/>
+		<rom name="Tales-from-the-Crypt-Data-East.png" size="942368" crc="88a4450e" sha1="01638f0cb9df28bc1c5a5456e16e6446e6ddfb8c"/>
+	</machine>
+	<machine name="Tales of the Arabian Nights (Williams)(1996)(Flupper)(1.3)[VPX06][DT+FS+FSS][DOF arngrim][4K edition]">
+		<description>Tales of the Arabian Nights (Williams)(1996)(Flupper)(1.3)[VPX06][DT+FS+FSS][DOF arngrim][4K edition]</description>
+		<rom name="screenshot4k3.jpg" size="4176302" crc="d9344a34" sha1="8a9c6224dbfc33e190e05be8a08bcdfc94179bd1"/>
+		<rom name="screenshot4k4.jpg" size="3553532" crc="711b9c85" sha1="036f35c79086565d3453d768eca7dba6b5a728e2"/>
+		<rom name="screenshot4kfss.jpg" size="3434714" crc="07dda43d" sha1="f397fec58458ac598075f7c119a9431f059fc5a8"/>
+		<rom name="TOTAN4k 1.3.vpx" size="116948992" crc="e7a8d578" sha1="36783ae33f4a128a06841f347f2e5ee60b569e7f"/>
+	</machine>
+	<machine name="Tales of the Arabian Nights (Williams)(1996)(Flupper)(1.3)[VPX06][DT+FS+FSS][DOF arngrim][4K edition][VR mode]">
+		<description>Tales of the Arabian Nights (Williams)(1996)(Flupper)(1.3)[VPX06][DT+FS+FSS][DOF arngrim][4K edition][VR mode]</description>
+		<rom name="screenshot1.jpg" size="2649880" crc="ab4cacd0" sha1="67e6dd227fe1cb09ab15b1bb091fc72cb485f343"/>
+		<rom name="TOTAN4k 1.3 VR.vpx" size="184016896" crc="6c98480a" sha1="1bc47f4c1f2c49c82f2e7606669453ed3e718d1b"/>
+	</machine>
+	<machine name="Tales of the Arabian Nights (Williams)(1996)(JPSalas)(1.3.0)[VPX05][DOF arngrim]">
+		<description>Tales of the Arabian Nights (Williams)(1996)(JPSalas)(1.3.0)[VPX05][DOF arngrim]</description>
+		<rom name="(1.2.0)[VPX02]\Tales of the Arabian Nights 1.2.0 dt.jpg" size="670439" crc="88834895" sha1="a4831fe06f88cc4d8e3ad6697478f92f70bfafcb"/>
+		<rom name="(1.2.0)[VPX02]\TOTAN_1.2.0.vpx" size="19550208" crc="504a3235" sha1="94ae27b6eee45b1f8b62d7d40ac21d4f3467e74d"/>
+		<rom name="totan-130.jpg" size="1516592" crc="ed84e28c" sha1="8910ef5c0837b8b296fdc2d974259c01120e2181"/>
+		<rom name="totan-130fs.jpg" size="1636047" crc="586e2379" sha1="247f671dc04e43611f8b94697a15517151e6c862"/>
+		<rom name="TOTAN_1.3.0.vpx" size="25395200" crc="562817ec" sha1="2cd734dc506cbf5499bcde0d6b38ce175147c3e5"/>
+	</machine>
+	<machine name="Taxi (Williams)(1988)(32assassin)(2.0)[VPX][Drakko FP table source]">
+		<description>Taxi (Williams)(1988)(32assassin)(2.0)[VPX][Drakko FP table source]</description>
+		<rom name="Taxi (Williams 1988) 2.0 dt.png" size="3744938" crc="d07157aa" sha1="3663366488f53786020816b993c7737f3e604784"/>
+		<rom name="Taxi (Williams 1988) 2.0 txt.txt" size="1238" crc="30363723" sha1="50d57843852e27422570c4f28c6b26cbff29c5dc"/>
+		<rom name="Taxi (Williams 1988).vpx" size="32755712" crc="11000a48" sha1="a4746bbe4b51bb1844ecc8d6356569a35e094f62"/>
+	</machine>
+	<machine name="Teenage Mutant Ninja Turtles (Data East)(1991)(cyberpez)(1.1)[VPX05][DT+FS]">
+		<description>Teenage Mutant Ninja Turtles (Data East)(1991)(cyberpez)(1.1)[VPX05][DT+FS]</description>
+		<rom name="Teenage Mutant Ninja Turtles (Data East ) 1.1.vpx" size="58626048" crc="0ca706d1" sha1="095175bdb385aef0905809dc42c127d7ad5ccd83"/>
+		<rom name="Teenage Mutant Ninja Turtles (FullScreen) screenshot.png" size="2891127" crc="401c2b3a" sha1="468cffbf8523ffc92ad2c56984fef028b46b3834"/>
+	</machine>
+	<machine name="Terminator 2 - Judgement Day (Williams)(1991)(32assassin)(2.2.1)[VPX03]">
+		<description>Terminator 2 - Judgement Day (Williams)(1991)(32assassin)(2.2.1)[VPX03]</description>
+		<rom name="screenshot.png" size="3052789" crc="05f18e69" sha1="d643cc4d255f14f63e9337fa974f9a185b35a61c"/>
+		<rom name="Terminator 2 - Judgment Day (Williams 1991).vpx" size="44142592" crc="c4d4a234" sha1="46cf6301e9df613fa7e44e5bcbb90396578d4be1"/>
+	</machine>
+	<machine name="Terminator 2 - Judgement Day (Williams)(1991)(g5k)(1.1a)[VPX05][DT+FS]">
+		<description>Terminator 2 - Judgement Day (Williams)(1991)(g5k)(1.1a)[VPX05][DT+FS]</description>
+		<rom name="flyerBACK-2.jpg" size="551470" crc="418148b9" sha1="c9d8ff09ef7d87c9a9bc3dbf23fea8a098fd9c78"/>
+		<rom name="flyerFRONT-2.jpg" size="380677" crc="27e6d36c" sha1="3a8538d1bbda3f40a546920dc0004d4bb3940ee3"/>
+		<rom name="T2-DT.png" size="2578313" crc="2398b5b1" sha1="1768f7fa96a78e497e3b2aaf7cefe84bbf1702aa"/>
+		<rom name="Terminator 2 (Williams 1991) g5k v1.1a.vpx" size="96514048" crc="38164b26" sha1="9a4d21f15ddf2e978e3a679f8a383b74e661b078"/>
+		<rom name="Terminator-2-Williams-1991-g5k-v1.0.directb2s\Terminator 2 (Williams 1991) g5k v1.0.directb2s" size="64016623" crc="bbea2777" sha1="6fb5953f7f83c851eef79c7a93157cf9ad668bec"/>
+		<rom name="Terminator-2-Williams-1991-g5k-v1.0.directb2s\Terminator-2-Williams-1991-g5k-v1.0db2s.jpg" size="1378349" crc="7d0f5f92" sha1="993b1536a9b8afe981d7192cf390e241d98e6861"/>
+		<rom name="Terminator-2-Williams-1991-g5k-v1.1.png" size="17251690" crc="0a701033" sha1="f4ce12cb9cf79b33db04e14d6b9bade67087bd49"/>
+	</machine>
+	<machine name="Terminator 2 - Judgement Day (Williams)(1991)(NFozzy)(1.12a)[VPX04]">
+		<description>Terminator 2 - Judgement Day (Williams)(1991)(NFozzy)(1.12a)[VPX04]</description>
+		<rom name="Terminator 2 (Williams 1991).vpx" size="35102720" crc="3fc248bc" sha1="2c19599784da15d3aa6b40df9b2104a63d1f8b00"/>
+		<rom name="terminator2_10_dt.png" size="1163862" crc="33e044ae" sha1="6fd15e3d7bd97966f418a6f1f77e2d6a84b90304"/>
+	</machine>
+	<machine name="Terminator 3 (Stern)(2003)">
+		<description>Terminator 3 (Stern)(2003)</description>
+		<rom name="Terminator 3 (Desktop) screenshot.png" size="6713908" crc="c0887019" sha1="524935128ad00e726f650cabcfa746366e2c0aa6"/>
+		<rom name="Terminator 3 (FullScreen) screenshot.png" size="5877808" crc="c04a4a6e" sha1="d1b4aab4438b9f2700d2005010e9a90e3faada9b"/>
+		<rom name="Terminator 3 (Stern)(2003)(DartMarino, STAT, hanibal2001)(1.31)[VPX04][Hanibals 4k Edition][FS+DT].vpx" size="76324864" crc="6e999b71" sha1="37d8ac3655afa58dc93ba0f48295b2bd10336ed5"/>
+	</machine>
+	<machine name="Theatre of Magic (Bally)(1995)(Ninuzzu, TomTower)(1.0.2)[VPX]">
+		<description>Theatre of Magic (Bally)(1995)(Ninuzzu, TomTower)(1.0.2)[VPX]</description>
+		<rom name="Theatre of magic VPX NZ-TT 1.0.vpx" size="68849664" crc="6c21f53b" sha1="79087d739c0d1e5244331be237dc552a4df3e560"/>
+		<rom name="Theatre-of-Magic-Midway-1995-db2s-hauntfreaks\Theatre of Magic (Midway 1995).directb2s" size="24564461" crc="ed359a0e" sha1="6457a4b86d2662e5394dfc069f04f62f46a046d1"/>
+		<rom name="TOM_DT-1.png" size="1715591" crc="27f37ca7" sha1="c5c553da44d49f946c745083304e0ca34f6fdef7"/>
+		<rom name="TOM_FS-1.png" size="3109141" crc="49a0068c" sha1="098d43f24fab619062c5586a2a0aff771b4b2a09"/>
+	</machine>
+	<machine name="Time Line (Gottlieb)(1980)(BorgDog)(1.03)[VPX06]">
+		<description>Time Line (Gottlieb)(1980)(BorgDog)(1.03)[VPX06]</description>
+		<rom name="Time Line (Gottlieb 1980).directb2s" size="44963722" crc="bd03f12a" sha1="6321a7bd4183916335b9777fa65eb49693070f2f"/>
+		<rom name="Time Line (Gottlieb 1980).vpx" size="50917376" crc="606e7567" sha1="9ee56cf412a22658151166b0055bd75c4dd1b29b"/>
+		<rom name="Time_Line-landscape.pov" size="1094" crc="9889be38" sha1="207f9b8f19909e254b5e7b2fbdff5335f4d6e2f1"/>
+		<rom name="Time_Line-portrait.pov" size="1093" crc="9a89fabc" sha1="3a570fe6a3cb9e8023548b6ba5f45441f385f7c9"/>
+		<rom name="timeline.nv" size="302" crc="53230a0a" sha1="66e3495d52d4b0140c564783dda0b31710054cc5"/>
+	</machine>
+	<machine name="Time Warp (Williams)(1979)(bord)(1.0)[VPX06][DT+FS]">
+		<description>Time Warp (Williams)(1979)(bord)(1.0)[VPX06][DT+FS]</description>
+		<rom name="Time Warp (Williams 1979).vpx" size="36507648" crc="02b00c50" sha1="58766c251a2ab33a451df6273d6a2a5a5ba1b9cd"/>
+		<rom name="TW_DT1-1038x988.jpg" size="159859" crc="1e19d3b5" sha1="96d41bd504bdf39e292c66416b7824930d9275cb"/>
+	</machine>
+	<machine name="Titan (Taito do Brasil)(1981)(JPSalas)(2.0.0)[VPX06][DT+FS+dB2S]">
+		<description>Titan (Taito do Brasil)(1981)(JPSalas)(2.0.0)[VPX06][DT+FS+dB2S]</description>
+		<rom name="Titan (Taito do Brasil - 1981) 2.0.0.vpx" size="20099072" crc="ad01d5cf" sha1="1076dc15730de2e6e8948e0cf5c49f21c5d2e8ba"/>
+		<rom name="titan--taito-do-brasil---1981--200.jpg" size="2726531" crc="81867511" sha1="540698a60c27bada63a259bc09ea4c81f6714a37"/>
+		<rom name="titan--taito-do-brasil---1981--200fs.jpg" size="2585463" crc="024e92dc" sha1="e1766bfed12bf06a72d7219fe6b74071c27fb16a"/>
+	</machine>
+	<machine name="Totem (Gottlieb)(1979)(32assassin)(1.1)[VPX'5][DT+FS][MOD 1.2 Tom]">
+		<description>Totem (Gottlieb)(1979)(32assassin)(1.1)[VPX'5][DT+FS][MOD 1.2 Tom]</description>
+		<rom name="Totem (Gottlieb 1979).directb2s" size="28829790" crc="0739130e" sha1="cffe0897748e480fde2d1b7e1cdc907ab2c50866"/>
+		<rom name="Totem (Gottlieb 1979).vpx" size="33005568" crc="8bfc1e0f" sha1="5ed1a9e864f5f99baf983ea90b937d8747bcf229"/>
+		<rom name="Totem BG (Gottlieb 1979).f4v" size="508860" crc="9d34e5e9" sha1="1fb20b543c372f85b245bcd70f03afa125477a02"/>
+		<rom name="Totem PF (Gottlieb 1979).f4v" size="645879" crc="665d9431" sha1="e573e13b4904f842619567fccc70d733595ab821"/>
+		<rom name="totem-4.png" size="2316161" crc="2d2e1fed" sha1="5817846357254fe05d0335c2b07efa51636095fa"/>
+	</machine>
+	<machine name="Transformers (JPSalas)(1.1.0)[VPX05][DT+FS]">
+		<description>Transformers (JPSalas)(1.1.0)[VPX05][DT+FS]</description>
+		<rom name="JP's Transformers 1.1.0.vpx" size="12918784" crc="686387cd" sha1="7cd6122369e7630656ecf36ee4b1cdc0ba67ff05"/>
+		<rom name="JP's Transformers 1.1.0_RampMOD.vpx" size="14565376" crc="8e3ada4a" sha1="56deb977eaa02ebcd276ecb1c33d7a4372678d07"/>
+		<rom name="tf_180.zip" size="30560210" crc="bc67f984" sha1="8537aa4a742a765b8c2c3ceca34fd291e50b2e12"/>
+		<rom name="Transformers (Desktop) screenshot.jpg" size="1065340" crc="a392f377" sha1="956d5add8daf1049c4e1f21355b52501231c92de"/>
+		<rom name="Transformers (FullScreen) screenshot.jpg" size="1435751" crc="0c400a0a" sha1="c2e9b45ba376fee39adda2ffc423804b32fa2442"/>
+	</machine>
+	<machine name="Tri Zone (Williams)(1979)(Kiwi)(1.1.0)[VPX05][DT+FS+FSS+DOF Kiwi][JPSalas Flash source table]">
+		<description>Tri Zone (Williams)(1979)(Kiwi)(1.1.0)[VPX05][DT+FS+FSS+DOF Kiwi][JPSalas Flash source table]</description>
+		<rom name="Tri Zone VPX v1.1.0.vpx" size="24305664" crc="479d9486" sha1="a7161436c6243de2a1c071a8136c0646a162ea5a"/>
+		<rom name="trizonedt.png" size="3126493" crc="a86d7d95" sha1="5d1ebabe87c801a87650d8d1be2380f81b6e8247"/>
+		<rom name="trizonefss.png" size="2665015" crc="e80b2b89" sha1="11520a4bbe29f004ccc96f7cac8afbb91a78c894"/>
+	</machine>
+	<machine name="Tri Zone (Williams)(1979)(Kiwi)(1.1.0)[VPX05][DT+FS+FSS+DOF Kiwi][JPSalas Flash source table][SampleTestGame edition]">
+		<description>Tri Zone (Williams)(1979)(Kiwi)(1.1.0)[VPX05][DT+FS+FSS+DOF Kiwi][JPSalas Flash source table][SampleTestGame edition]</description>
+		<rom name="Tri Zone STG VPX v1.1.0.vpx" size="24399872" crc="2880b3ea" sha1="cdef0b1c3f1fa0c4f63b0f79af05a7442a2e3dad"/>
+		<rom name="trizonestgdt.png" size="3147948" crc="8d636564" sha1="986058acbb27cc977c11772a06ae133516399dd1"/>
+		<rom name="trizonestgfs.png" size="2177659" crc="d838ceac" sha1="79a2eb04080375101d352fe6ae7550888b741aff"/>
+		<rom name="trizonestgfss.png" size="2685753" crc="9aeb14fb" sha1="fb63ef665ed403cabb9a428d12c58d86cba9fa75"/>
+	</machine>
+	<machine name="Tron Legacy LE (Stern)(2011)(G5K)(2.2)[VPX05]">
+		<description>Tron Legacy LE (Stern)(2011)(G5K)(2.2)[VPX05]</description>
+		<rom name="44004002.jpg" size="959588" crc="db0fcd10" sha1="ae9ce6977aa7c48712068a259a7abb7f9bd702dd"/>
+		<rom name="SAMBuild_r4512.zip" size="1701301" crc="077e197e" sha1="ebed48bcaa9b673abafd70cffa75077e3c3bb7a9"/>
+		<rom name="Tron Legacy (Stern 2011) (G5K 2.2).vpx" size="102346752" crc="ed138e3e" sha1="365a28699dd88808ae54628607c5e64dff33d095"/>
+		<rom name="Tron-Legacy-Stern-2011-G5k-2.0db2s\Tron Legacy (Stern 2011) (G5k 2.0).directb2s" size="22892060" crc="61d2a1c3" sha1="3424bdc043b960909166a49b989702a1bd28be0f"/>
+		<rom name="Tron-Legacy-Stern-2011-G5k-2.0db2s\tron_b2s.jpg" size="1582059" crc="cc5bcd8c" sha1="66fb96923b4c1527e559295b70fb700c30bdca82"/>
+		<rom name="Tron-Legacy-Stern-2011-G5k-2.1_FS.jpg" size="3596675" crc="1145a3e6" sha1="ccc2f16e933bbbe998766b89c4bfee597f1afef8"/>
+		<rom name="tron1-600x776.jpg" size="85693" crc="d845103e" sha1="aaa7890a1c1f8fc7875abd24b676c11724537dfa"/>
+		<rom name="TronDT.jpg" size="1978130" crc="c1a7b2b3" sha1="74c02ba17ce8dec2687cc573aaf40cc24b728827"/>
+	</machine>
+	<machine name="Twilight Zone (Bally)(1993)(Ninuzzu)(2.1)[VPX]">
+		<description>Twilight Zone (Bally)(1993)(Ninuzzu)(2.1)[VPX]</description>
+		<rom name="Twilight Zone_VPX_2.1.vpx" size="69476352" crc="f487aba8" sha1="e1811141a64ff6963cb540cd312b5404a9183ad6"/>
+		<rom name="TZ-1.0.1-melon-VP9.2.1-FS\Twilight-zone.png" size="3518251" crc="19a477a7" sha1="48682be82d547366de7b3abd529b0a4dff825fd6"/>
+		<rom name="TZ-1.0.1-melon-VP9.2.1-FS\TZ 1.0.1 -melon- VP9.2.1 FS.directB2S" size="10361527" crc="c091db0b" sha1="5bb8b505e07257ef3ea86a394b4c1757e18db58b"/>
+		<rom name="tz-flyer-back.jpg" size="340118" crc="3dd2708f" sha1="56c8a0aa2355225591b836dce76a9b4063bc5868"/>
+		<rom name="tz-flyer-front.jpg" size="174540" crc="77211cce" sha1="49bba41debc0e82548e83d6a9e1db38629cd3577"/>
+		<rom name="TZ2_DT.png" size="1877037" crc="e110955f" sha1="71d7fa771161a0960f279636ad5942d240d64cc4"/>
+		<rom name="TZ2_FS.png" size="2936821" crc="fde9fa78" sha1="cf86b711dd0aa3ea827c4e8b1885389a6ba8d17d"/>
+	</machine>
+	<machine name="Twister (SEGA)(1996)(32assassin, francisco666)(1.0)[VPX05][DOF arngrim]">
+		<description>Twister (SEGA)(1996)(32assassin, francisco666)(1.0)[VPX05][DOF arngrim]</description>
+		<rom name="twer.jpg" size="500738" crc="3a4ef042" sha1="076ee8ba82f9a95e4278cf0fa0036155c72c9bce"/>
+		<rom name="twister 1.0.vpx" size="39174144" crc="82320e34" sha1="6e0a4fc806e4c332562d72fe655a8125264735f5"/>
+	</machine>
+	<machine name="Vector (Bally)(1982)(Sindbad, Schreibi34)(1.2)[VPX05][DT+FS]">
+		<description>Vector (Bally)(1982)(Sindbad, Schreibi34)(1.2)[VPX05][DT+FS]</description>
+		<rom name="Vector (Bally 1982) basic dmd.directb2s" size="35892866" crc="90960757" sha1="62debfa341edbb6403e736818e33caadc1734e77"/>
+		<rom name="Vector (Bally 1982) v1.2.vpx" size="36786176" crc="e882568a" sha1="b42c260e66f06fee14e56fd0de3632cc0f954451"/>
+		<rom name="Vector screenshot.png" size="803822" crc="66d5c752" sha1="05b0a792c368a9a9c9b13c34d4e902cf9fe68b0e"/>
+		<rom name="Vector-BG.png" size="2734657" crc="09d5d8a7" sha1="c078dc4e86eb7b3d4fd0160e8aa022bd66c0c0c4"/>
+	</machine>
+	<machine name="Vegas (Taito do Brasil)(1978)(JPSalas)(2.0.0)[VPX06][DT+FS]">
+		<description>Vegas (Taito do Brasil)(1978)(JPSalas)(2.0.0)[VPX06][DT+FS]</description>
+		<rom name="1.0.0\Vegas (Desktop) screenshot.jpg" size="1192708" crc="02783841" sha1="52b24dd67cbbbd94a8e8876e8eca77a52b15b413"/>
+		<rom name="1.0.0\Vegas (FullScreen) screenshot.jpg" size="1153221" crc="0379312b" sha1="03db15056da66087cff96038d991f8871cc429e2"/>
+		<rom name="1.0.0\Vegas 1.0.1.vpx" size="10895360" crc="7ce0f01c" sha1="77d3119f26bbf915d75892cb4ae435d02020decb"/>
+		<rom name="2.0.0\Vegas (Taito do Brasil - 1980) 2.0.0.vpx" size="11857920" crc="825a0a01" sha1="1a92caa6d84abf0458d9a07d523061a2a86f418f"/>
+		<rom name="2.0.0\vegas--taito-do-brasil---1980--200.jpg" size="2633259" crc="d1f378b9" sha1="19f7af2240c2e3cf54db4dc9b8ef5fcc642b11a3"/>
+		<rom name="2.0.0\vegas--taito-do-brasil---1980--200fs.jpg" size="2632688" crc="d5c8d9dd" sha1="caac7468c32036d47b04ee384e626d9e585be4e2"/>
+	</machine>
+	<machine name="Victory (Gottlieb)(1987)(Sindbad)(2.0.1)[VPX05][DT+FS]">
+		<description>Victory (Gottlieb)(1987)(Sindbad)(2.0.1)[VPX05][DT+FS]</description>
+		<rom name="Victory (FullScreen) screenshot.png" size="2732198" crc="000bf497" sha1="4b9111bb7b1ea20ececd0a8650a3ce8d7f950a47"/>
+		<rom name="Victory (Gottlieb 1987) 2.0.1.vpx" size="78258176" crc="4c0b2f52" sha1="bf95a6011fad10aba794b96864e89ec30a34e200"/>
+	</machine>
+	<machine name="Viking (Bally)(1980)(bord)(2.0)[VPX06][DT+FS][DOF arngrim]">
+		<description>Viking (Bally)(1980)(bord)(2.0)[VPX06][DT+FS][DOF arngrim]</description>
+		<rom name="Viking (Bally 1980).directB2S" size="13059019" crc="7512c32e" sha1="bdbd033d9b02fb9a7d6a389fe338222718a59603"/>
+		<rom name="Viking (Bally 1980).vpx" size="76791808" crc="032d0e45" sha1="0c8008d513a1de3b36cfa4f434bf1d50bb506a76"/>
+		<rom name="viking2-1038x1177.jpg" size="192265" crc="4f3bbd06" sha1="7929f8c371a04847a7ecabb7634bdbdffa87994b"/>
+	</machine>
+	<machine name="Viking King (LTD do Brasil)(1979)(mfuegemann)(1.0)[VPX06][DT+FS+dB2S]">
+		<description>Viking King (LTD do Brasil)(1979)(mfuegemann)(1.0)[VPX06][DT+FS+dB2S]</description>
+		<rom name="Viking King (LTD do Brasil 1979) dB2S 1.0 mfuegemann\viking_king_b2s.png" size="1506399" crc="ac067f8e" sha1="76a588389176db6594cf2156f4ade401782aea75"/>
+		<rom name="Viking King (LTD do Brasil 1979) dB2S 1.0 mfuegemann\vikngkng.directb2s" size="32738140" crc="6a8ab044" sha1="5d229751fb2e63e459dbce9d7f0112fd5ffdb3cd"/>
+		<rom name="Viking_King_PF.png" size="3175289" crc="2d2466a5" sha1="9d5bf72a14d8087cdb0718aaece90188af93c4ba"/>
+		<rom name="viking_king_screen.jpg" size="321599" crc="88934757" sha1="02213c3f7d007e5290e4f3be533f2c893c46cf56"/>
+		<rom name="viking_king_screen_dt.jpg" size="289327" crc="f6b56bcb" sha1="bcc8e5fec6e14647e4d6c397e3b2cefeab874fb5"/>
+		<rom name="VPX_Viking King_1_0.vpx" size="30924800" crc="e9f472f3" sha1="125701500f093f4eabfa4bb0cee3fc890cd97536"/>
+	</machine>
+	<machine name="Volcano (Gottlieb)(1981)(Bigus1)(1.2)[VPX05][DT+FS+dB2S]">
+		<description>Volcano (Gottlieb)(1981)(Bigus1)(1.2)[VPX05][DT+FS+dB2S]</description>
+		<rom name="Clip_5-1024x640-1038x649.jpg" size="110068" crc="97bed867" sha1="3cc539a7077754077516baa608d0b21165767c91"/>
+		<rom name="Volcano (Gottlieb 1981)_bigus1.vpx" size="40054784" crc="6bf1b929" sha1="d2a99c754d6248acffa99d2f7d88d18da5563272"/>
+	</machine>
+	<machine name="Voltan Escapes Cosmic Doom (Bally)(1978)(Scotty VH)(2.02)[VPX05][DT9+FS]">
+		<description>Voltan Escapes Cosmic Doom (Bally)(1978)(Scotty VH)(2.02)[VPX05][DT9+FS]</description>
+		<rom name="playfield.png" size="1036823" crc="5b6cfb25" sha1="eeec092c498cd9d8f3f9d9f9413d60b6df33dca6"/>
+		<rom name="Voltan Escapes Cosmic Doom (Bally 1978) 2.02.vpx" size="52199424" crc="51ecba27" sha1="c83db37d966c09d69b84bd5e11345c61667a100a"/>
+	</machine>
+	<machine name="Vortex (Taito do Brasil)(1983)(JPSalas)(2.0.0)[VPX06][FS+DT]">
+		<description>Vortex (Taito do Brasil)(1983)(JPSalas)(2.0.0)[VPX06][FS+DT]</description>
+		<rom name="1.0.2\Vortex (Desktop) screenshot.jpg" size="837108" crc="fc5cabaa" sha1="313443ac050811be909f6fd28f81438468a35afa"/>
+		<rom name="1.0.2\Vortex (FullScreen) screenshot.jpg" size="888095" crc="c0c4a557" sha1="e43643ca6b2322879d9baa15fa2bb99134484fb6"/>
+		<rom name="1.0.2\Vortex v1.0.2.vpx" size="12656640" crc="9d2594b4" sha1="29073a87b1c49dbc4f21220ece4b9db60b437dfb"/>
+		<rom name="2.0.0\Vortex (Taito do Brasil - 1981) 2.0.0.vpx" size="15659008" crc="d117b1a7" sha1="cef402867a31e9030a0d996c0d95dca117cedc55"/>
+		<rom name="2.0.0\vortex--taito-do-brasil---1981--200.jpg" size="2669743" crc="742db256" sha1="096f78571de83688f142ad891b7c939acaead4c6"/>
+		<rom name="2.0.0\vortex--taito-do-brasil---1981--200fs.jpg" size="2903072" crc="8b51f03c" sha1="57404f76112b49014358757a7015c35943f2eb5a"/>
+	</machine>
+	<machine name="Walking Dead, The (Stern)(2014)(Freneticamnesic)(060716a BETA)[VPX]">
+		<description>Walking Dead, The (Stern)(2014)(Freneticamnesic)(060716a BETA)[VPX]</description>
+		<rom name="twd 060716a.vpx" size="138735616" crc="4da16997" sha1="4863d160b362a1236d556e45cd161297809a1f86"/>
+	</machine>
+	<machine name="Warlok (Williams)(1982)(JPSalas)(1.0.0)[VPX05][DT+FS]">
+		<description>Warlok (Williams)(1982)(JPSalas)(1.0.0)[VPX05][DT+FS]</description>
+		<rom name="Warlok (Williams 1982).vpx" size="14815232" crc="a45f75fd" sha1="cb7029854d0717349db1b1e1fa0255d4e4260682"/>
+		<rom name="williams-1982-.jpg" size="2057803" crc="21264c1b" sha1="6e75247c7148cc4b022925d3dea9661a62da954f"/>
+		<rom name="williams-1982-fs.jpg" size="1936593" crc="dfe818b4" sha1="70a2598485cce501d8d506f157ccd82edb22d744"/>
+	</machine>
+	<machine name="Wheel of Fortune (Stern)(2007)(DJRob, Ninuzzu, Diemonik, TomTower)(1.0)[VPX04]">
+		<description>Wheel of Fortune (Stern)(2007)(DJRob, Ninuzzu, Diemonik, TomTower)(1.0)[VPX04]</description>
+		<rom name="flyerBACK.jpg" size="242803" crc="b1bac763" sha1="cf5aa2c4594b1c8ba72b19db6c601fc93b717ed2"/>
+		<rom name="flyerFRONT.jpg" size="182341" crc="ef7c0fce" sha1="8e4db04585a40dcb3f319f6b12f661b26483bfe6"/>
+		<rom name="Wheel of Fortune (Stern 2007).vpx" size="57233408" crc="aaf1c28e" sha1="855cb4dcfc1088180f1306dbc1f6eebf0ee6f39a"/>
+		<rom name="wof-DT.png" size="1182594" crc="3173649a" sha1="c83caa9f1b3c26246d7ecdd2fd33af5b54a8d3e0"/>
+		<rom name="wof-FS.png" size="1169044" crc="e63ca835" sha1="e9c9308de6457dd9bb60ba5e163f1bcc5b00ae80"/>
+	</machine>
+	<machine name="Whitewater (Williams)(1993)(Flupper)(1.1)[VPX05][DT+FS]">
+		<description>Whitewater (Williams)(1993)(Flupper)(1.1)[VPX05][DT+FS]</description>
+		<rom name="screenshot 97.jpg" size="3570371" crc="9319e3f1" sha1="39d51f626993bc302b2738605a62fcb794152309"/>
+		<rom name="screenshot 98.jpg" size="3129750" crc="de9ae7e7" sha1="8a790956eb438b1597dd999f35358d4c5db54e1e"/>
+		<rom name="screenshot dt.jpg" size="1983588" crc="d4dd22f4" sha1="d1712010048b363994f8b869820278bbf438623b"/>
+		<rom name="screenshot fs.jpg" size="2317556" crc="55e3bfa2" sha1="48226c92618a009914997dabf916d2847c7f7c28"/>
+		<rom name="Whitewater 1.1.vpx" size="62124032" crc="1dc45653" sha1="f95e69e6ceb2658d2eb774133a2c0143781bc1fe"/>
+	</machine>
+	<machine name="Who's, The - Tommy (Data East)(1994)(Ninuzzu)(1.1)[VPX]">
+		<description>Who's, The - Tommy (Data East)(1994)(Ninuzzu)(1.1)[VPX]</description>
+		<rom name="Tommy-The-Pinball-Wizard-Data-East-1994.directb2s\Tommy The Pinball Wizard (Data East 1994).directb2s" size="22130495" crc="444fd910" sha1="5ffb1361108d84a22e7f1d2af6148571cd5e176d"/>
+		<rom name="Tommy11DT.png" size="2687689" crc="14e40d83" sha1="0c00a57d67260da3124e7b71a455f631111892e5"/>
+		<rom name="Tommy11FS.png" size="2455487" crc="2bcdf064" sha1="188ad7964aa6c94e24b4439cd2f46267e83e252f"/>
+		<rom name="Tommy_VP10_1.1.vpx" size="50855936" crc="bbdd2ec3" sha1="232d4374a58c768093062d7d9ace1624b921aa78"/>
+	</machine>
+	<machine name="Wild Fyre (Stern)(1978)(32assassin)(0.9)[VPX06]">
+		<description>Wild Fyre (Stern)(1978)(32assassin)(0.9)[VPX06]</description>
+		<rom name="Wild Fyre (Stern 1978).vpx" size="21499904" crc="9e84074f" sha1="76bb40832144e391304a79dd44ad23cdc75c843e"/>
+		<rom name="Wild-Fry-600x338-1038x584.png" size="1042331" crc="e570b2c6" sha1="673ad3a787c96555af2acc7a1c8b8a1333a92882"/>
+	</machine>
+	<machine name="Wizard! (Bally)(1975)(pinball58)(1.03)[VPX]">
+		<description>Wizard! (Bally)(1975)(pinball58)(1.03)[VPX]</description>
+		<rom name="wizard beta fonts\BebasNeue.ttf" size="134784" crc="e291eba0" sha1="7d9c24fdeb8f680d83de3617eca0943f28ca1525"/>
+		<rom name="wizard beta fonts\COMPUTER LOVE.ttf" size="39092" crc="bafca27d" sha1="6857ef5ca871dac26572e574dc2eba73e7af2360"/>
+		<rom name="wizard beta fonts\ufonts.com_dom-casual.ttf" size="41280" crc="70f97ed2" sha1="48ea29c5bf55421a654b239bd81abd9fd59c85e6"/>
+		<rom name="Wizard! - Bally (1975).directb2s" size="23044510" crc="ecb88c61" sha1="23bd4da16f1c50117882fc647d5a834979fc7cd7"/>
+		<rom name="Wizard! VPX v1.03 - pinball58.vpx" size="23699456" crc="b21f1789" sha1="a00571111b0afaa9bfd991508e12a7f66d026bdb"/>
+		<rom name="Wizard-VPX-1.0-dt.png" size="2231235" crc="e2697d0d" sha1="f146deeefa581b123b80400bd5a7f6c865c3039b"/>
+		<rom name="Wizard-VPX-v1.0-fs.png" size="2410449" crc="ac01af7f" sha1="88120ede0158c9810461df1f6d174302ddbd346d"/>
+	</machine>
+	<machine name="World Cup Soccer (Bally)(1994)(Alessio)(1.2)[VPX04]">
+		<description>World Cup Soccer (Bally)(1994)(Alessio)(1.2)[VPX04]</description>
+		<rom name="WCS-FLYER-BACK.jpg" size="234973" crc="96ad7346" sha1="961fa1c6ec2d8f7f93f6904189e0b6b72595d01b"/>
+		<rom name="WCS-FLYER-FRONT.jpg" size="231974" crc="dd792fd2" sha1="39f5fd72cde12579c9b3c4f43e39697b80fc4f53"/>
+		<rom name="WCS_DESKTOP.png" size="2585764" crc="38acd951" sha1="21556e2bfddd1416dc37ef186e7723da82587c9f"/>
+		<rom name="WCS_FULL.png" size="3165005" crc="25ec77f5" sha1="d9ee88acba15b667826dda54e2cc339befed2eab"/>
+		<rom name="World_Cup_Soccer_1.2.vpx" size="83116032" crc="a9408098" sha1="acfced112e37ce3fce7be6f5b59a7122b8eea8dd"/>
+	</machine>
+	<machine name="WWF Royal Rumble (Data East)(1994)(32assassin)(2.0)[VPX06][VP9  freneticamnesic table to VPX]">
+		<description>WWF Royal Rumble (Data East)(1994)(32assassin)(2.0)[VPX06][VP9  freneticamnesic table to VPX]</description>
+		<rom name="WWF Royal Rumble (Data East 1994).vpx" size="37785600" crc="0bd51add" sha1="8574b342ab2ff618fc14c8136c7caad3a998aa3f"/>
+		<rom name="wwf-600x338-1038x584.png" size="776108" crc="a2f4f194" sha1="4f720ff977b906835bcb2f248d977cf069cfb6e6"/>
+	</machine>
+	<machine name="X's &amp; O's (Bally)(1984)(32assassin)(2.0)[VPX06]">
+		<description>X's &amp; O's (Bally)(1984)(32assassin)(2.0)[VPX06]</description>
+		<rom name="X's &amp; O's (Bally 1984).vpx" size="26722304" crc="2f66aac5" sha1="405ca70d7d1a1971616f30725daf334de7e82f22"/>
+		<rom name="xsandos-600x338-1038x584.png" size="1121146" crc="80838c7e" sha1="c593358e1f3db8390aefc53f8518e8ed4098cca4"/>
+	</machine>
+	<machine name="Zarza (Taito do Brasil)(1982)(JPSalas)(2.0.0)[VPX06][DT+FS]">
+		<description>Zarza (Taito do Brasil)(1982)(JPSalas)(2.0.0)[VPX06][DT+FS]</description>
+		<rom name="1.0.0\Zarza (Desktop) screenshot.jpg" size="1159663" crc="875112ed" sha1="aee35d7e54335888b4f236328aa5bf9fb0f30670"/>
+		<rom name="1.0.0\Zarza (FullScreen) screenshot.jpg" size="1291020" crc="2a321a97" sha1="143151cf7dc5828fcaa70796006cbd57dc815c8c"/>
+		<rom name="1.0.0\Zarza 1.0.1.vpx" size="11816960" crc="d1a3b528" sha1="d602399e37d0fb7d1b74c022b2ca92fc3c2e3827"/>
+		<rom name="2.0.0\Zarza (Taito do Brasil - 1982) 2.0.0.vpx" size="13414400" crc="fc3df08f" sha1="acf31f070c158a2d30b4ecbd1a789d15426644f7"/>
+		<rom name="2.0.0\zarza--taito-do-brasil---1982--200.jpg" size="2807732" crc="41fc3dee" sha1="4fd22bdd103f612ffa59be63232463b042c0b6fb"/>
+		<rom name="2.0.0\zarza--taito-do-brasil---1982--200fs.jpg" size="2929985" crc="fad8683c" sha1="02507c0daf8b0660304d507f937ea538bb7c8dd0"/>
+	</machine>
+</datafile>

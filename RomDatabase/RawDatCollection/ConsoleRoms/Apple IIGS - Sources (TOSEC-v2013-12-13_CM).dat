@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple IIGS - Sources</name>
+		<description>Apple IIGS - Sources (TOSEC-v2013-12-13)</description>
+		<category>TOSEC</category>
+		<version>2013-12-13</version>
+		<author>TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Merlin 16+ Sources (19xx)(-)">
+		<description>Merlin 16+ Sources (19xx)(-)</description>
+		<rom name="Merlin 16+ Sources (19xx)(-).2mg" size="819264" crc="1f1c282e" md5="9ea158696e990169c6635326e58a41d5" sha1="6723dd026342e87ce699d2ab6cd6442c53671c29"/>
+	</game>
+	<game name="Merlin 16+ Sources for Beginners (19xx)(Hacker CROLL - The Killer)">
+		<description>Merlin 16+ Sources for Beginners (19xx)(Hacker CROLL - The Killer)</description>
+		<rom name="Merlin 16+ Sources for Beginners (19xx)(Hacker CROLL - The Killer).2mg" size="819264" crc="13458716" md5="218ecbb492916ed2007a814915120392" sha1="88f49f915453a81717c49c4563ad09fcb6a97958"/>
+	</game>
+	<game name="Rastan Source Code (1990)(Taito)(US)">
+		<description>Rastan Source Code (1990)(Taito)(US)</description>
+		<rom name="Rastan Source Code (1990)(Taito)(US).2mg" size="819264" crc="30567fa5" md5="bf7dad37aa8c07c5179ade0910d0725c" sha1="e7bccaa0abd17b217ff6b9b5adf5178485358a4e"/>
+	</game>
+</datafile>

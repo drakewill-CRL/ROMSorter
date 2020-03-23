@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega NAOMI - Applications</name>
+		<description>Sega NAOMI - Applications (TOSEC-v2019-07-12)</description>
+		<category>TOSEC-ISO</category>
+		<version>2019-07-12</version>
+		<author>Maddog</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="DIMM Firm Update Version C v2.000 (2002)(Sega)(JP)(en)[!][2.17 Firmware]">
+		<description>DIMM Firm Update Version C v2.000 (2002)(Sega)(JP)(en)[!][2.17 Firmware]</description>
+		<rom name="DIMM Firm Update Version C v2.000 (2002)(Sega)(JP)(en)[!][2.17 Firmware].gdi" size="87" crc="468c1495" sha1="980036e44ad9d694ea1699cd05c86ccd0c894c47" md5="346fea58ab1a55c577138c5b04319157"/>
+		<rom name="track01.bin" size="1058400" crc="4a3b3c80" sha1="4a2810760b08387f35a0246b65669cf540a4a1f7" md5="7c718941982c1a413104a6dc461ded21"/>
+		<rom name="track02.raw" size="5016816" crc="96402c8d" sha1="fbc4fe9504755eabcd7d75ca153b95c8edec3116" md5="190a1969895fc5cd2546e235c2e0aa7a"/>
+		<rom name="track03.bin" size="1185760800" crc="0ef71676" sha1="d9b4dc72e2dc71a5ca8c1a7f36f1ff97ef4badeb" md5="0c587e062f54679609265afefaeeedde"/>
+	</game>
+	<game name="DIMM Firm Update Version E v4.000 (2004)(Sega)(JP)(en)[!][3.17 Firmware]">
+		<description>DIMM Firm Update Version E v4.000 (2004)(Sega)(JP)(en)[!][3.17 Firmware]</description>
+		<rom name="DIMM Firm Update Version E v4.000 (2004)(Sega)(JP)(en)[!][3.17 Firmware].gdi" size="87" crc="468c1495" sha1="980036e44ad9d694ea1699cd05c86ccd0c894c47" md5="346fea58ab1a55c577138c5b04319157"/>
+		<rom name="track01.bin" size="1058400" crc="1239a201" sha1="42acbefa43d2d0cf617d4bd39e5afd6b708a3f94" md5="51adf16c6e695a5fb4fde98a96fa6732"/>
+		<rom name="track02.raw" size="3179904" crc="a57da945" sha1="e86ddc83d771b3ec9e044b3429d25c93d43f047c" md5="7090645592b55babe4b2f159cae1d27c"/>
+		<rom name="track03.bin" size="1185760800" crc="886e154c" sha1="5b993ca3693654cf2ba1782787ff1154e02e4179" md5="7a33e7c8aa242e90569fe9d16fd62b6f"/>
+	</game>
+</datafile>
+

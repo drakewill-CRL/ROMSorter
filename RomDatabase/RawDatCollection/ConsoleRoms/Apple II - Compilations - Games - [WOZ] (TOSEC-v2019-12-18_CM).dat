@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple II - Compilations - Games - [WOZ]</name>
+		<description>Apple II - Compilations - Games - [WOZ] (TOSEC-v2019-12-18)</description>
+		<category>TOSEC</category>
+		<version>2019-12-18</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Apple-Oids &amp; Chip Out v256 (1981-03-15)(California Pacific Computer)[48K]">
+		<description>Apple-Oids &amp; Chip Out v256 (1981-03-15)(California Pacific Computer)[48K]</description>
+		<rom name="Apple-Oids &amp; Chip Out v256 (1981-03-15)(California Pacific Computer)[48K].woz" size="199464" crc="bc3840d1" md5="39cf842d02364620f924f4f4b45afb32" sha1="e704efd1af6cf7d4cffce23087b413e283daf8f2"/>
+	</game>
+	<game name="Arcade Album #1 (1983)(Penguin Software)[48K]">
+		<description>Arcade Album #1 (1983)(Penguin Software)[48K]</description>
+		<rom name="Arcade Album #1 (1983)(Penguin Software)[48K].woz" size="233529" crc="0ef302a9" md5="43da3719b84ae78e7fe2bc825931649f" sha1="7ac2ef26b00afb7f3d5d91e59ad164892d514c0e"/>
+	</game>
+	<game name="Best of MUSE, The (1980)(MUSE Software)(II)[32K][req Integer BASIC]">
+		<description>Best of MUSE, The (1980)(MUSE Software)(II)[32K][req Integer BASIC]</description>
+		<rom name="Best of MUSE, The (1980)(MUSE Software)(II)[32K][req Integer BASIC].woz" size="234802" crc="e62eb84b" md5="930bab653bbef2f83ddf6091cb756d70" sha1="4af09e1386c7bd0c5f32de79d5ed91208a23718f"/>
+	</game>
+	<game name="Blisterball &amp; Mad Bomber (1981)(Creative Computing Software)[48K][req 13-sector drive]">
+		<description>Blisterball &amp; Mad Bomber (1981)(Creative Computing Software)[48K][req 13-sector drive]</description>
+		<rom name="Blisterball &amp; Mad Bomber (1981)(Creative Computing Software)[48K][req 13-sector drive].woz" size="234789" crc="464e6b8d" md5="14270470a98b2c2c61ba8a45dae07cfb" sha1="f4ac813e979ea5c0e9b476a57063b37c25713d46"/>
+	</game>
+	<game name="Double Pack Classics (1982)(Brøderbund)(Side B)(David's Midnight Magic)[48K]">
+		<description>Double Pack Classics (1982)(Brøderbund)(Side B)(David's Midnight Magic)[48K]</description>
+		<rom name="Double Pack Classics (1982)(Brøderbund)(Side B)(David's Midnight Magic)[48K].woz" size="241481" crc="fa2f209f" md5="9ead6a9ebe19dfae4befebf48ab248f1" sha1="a19f1c50796f2f842c87d25c27decb3b12983d20"/>
+	</game>
+	<game name="Laf Pak (1982)(On-Line Systems)[48K]">
+		<description>Laf Pak (1982)(On-Line Systems)[48K]</description>
+		<rom name="Laf Pak (1982)(On-Line Systems)[48K].woz" size="234778" crc="7e5e2002" md5="ae84141ef514c6029df925097fbf86c9" sha1="8fbd21ff8d8b7f6194c0bdfbfa074aa716435e77"/>
+	</game>
+</datafile>

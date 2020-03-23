@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo Virtual Boy - Demos</name>
+		<description>Nintendo Virtual Boy - Demos (TOSEC-v2012-04-13)</description>
+		<category>TOSEC</category>
+		<version>2012-04-13</version>
+		<author>Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Affine Mode Demo 1 v0.9 (2005)(Tucker, David)(PD)">
+		<description>Affine Mode Demo 1 v0.9 (2005)(Tucker, David)(PD)</description>
+		<rom name="Affine Mode Demo 1 v0.9 (2005)(Tucker, David)(PD).bin" size="1048576" crc="1264c3a9" md5="c7f98975f4148c92a3d592c1e09eaa42" sha1="12cc6ed75691fcb598c9afe66835d0a57d821702"/>
+	</game>
+	<game name="Affine Mode Demo 2 v0.9 (2005)(Tucker, David)(PD)">
+		<description>Affine Mode Demo 2 v0.9 (2005)(Tucker, David)(PD)</description>
+		<rom name="Affine Mode Demo 2 v0.9 (2005)(Tucker, David)(PD).bin" size="1048576" crc="09eb2763" md5="90707c71362b5007964f0a45a45d77d6" sha1="3cea1d358b1dba49b2f7d569dd25419d45b22d3a"/>
+	</game>
+	<game name="BitString Demo (2004)(Bergman, Dan)(PD)">
+		<description>BitString Demo (2004)(Bergman, Dan)(PD)</description>
+		<rom name="BitString Demo (2004)(Bergman, Dan)(PD).bin" size="1048576" crc="ff044436" md5="a7f94faa20fa1b231f7b81d02c8fc3da" sha1="4ee91bbec3e56d89c24727e73f17e9cc731d69d0"/>
+	</game>
+	<game name="Chrono Trigger Run Demo 1 (2009)(MrSparkle)(PD)">
+		<description>Chrono Trigger Run Demo 1 (2009)(MrSparkle)(PD)</description>
+		<rom name="Chrono Trigger Run Demo 1 (2009)(MrSparkle)(PD).bin" size="8388608" crc="26e21ea2" md5="b7691b0ad6ce7007efe98d1a393b86c6" sha1="d6351bab5aa73dbb2be68a7b6d52d5f9898f180c"/>
+	</game>
+	<game name="Chrono Trigger Run Demo 2 (2009)(MrSparkle)(PD)">
+		<description>Chrono Trigger Run Demo 2 (2009)(MrSparkle)(PD)</description>
+		<rom name="Chrono Trigger Run Demo 2 (2009)(MrSparkle)(PD).bin" size="8388608" crc="9970cdf3" md5="de22bc234534aa0ef3d6f28d657a78e7" sha1="96e2c68f91ad7cf36477f154bc99e904e5a5f820"/>
+	</game>
+	<game name="Croach, The (1999)(Covarrubias, Alberto)(PD)">
+		<description>Croach, The (1999)(Covarrubias, Alberto)(PD)</description>
+		<rom name="Croach, The (1999)(Covarrubias, Alberto)(PD).bin" size="65536" crc="d8b823be" md5="37b68e1df20bcdf8b77176064bb8bdb7" sha1="562c1cbc38ea7709552470b9ea3897c714ba8ab5"/>
+	</game>
+	<game name="Framebuffer Drawing Demo (2003)(Daderko, Pat)(PD)">
+		<description>Framebuffer Drawing Demo (2003)(Daderko, Pat)(PD)</description>
+		<rom name="Framebuffer Drawing Demo (2003)(Daderko, Pat)(PD).bin" size="65536" crc="afdfa675" md5="adfc7ce60804c20742b977fef382db05" sha1="60addbde9c8211c341c7a93a4afabae338c247a1"/>
+	</game>
+	<game name="Glow Demo v1.0 (2002)(Radke, Christian)(PD)">
+		<description>Glow Demo v1.0 (2002)(Radke, Christian)(PD)</description>
+		<rom name="Glow Demo v1.0 (2002)(Radke, Christian)(PD).bin" size="65536" crc="a5ba31e8" md5="d11a8669a242e9cdd66a24750e0a5501" sha1="511eab876ae0150be210cff47ad8333c1708c6ff"/>
+	</game>
+	<game name="Glow Demo v1.1 (2002)(Radke, Christian)(PD)">
+		<description>Glow Demo v1.1 (2002)(Radke, Christian)(PD)</description>
+		<rom name="Glow Demo v1.1 (2002)(Radke, Christian)(PD).bin" size="65536" crc="0609f412" md5="d2f69f9b97457b16bee10bf2e08b941d" sha1="6761f2a5a9f8c80bfef25e83d3878e0e9fc28d2b"/>
+	</game>
+	<game name="Hello, World! v1.0 (2002)(Bieler, Amos)(PD)">
+		<description>Hello, World! v1.0 (2002)(Bieler, Amos)(PD)</description>
+		<rom name="Hello, World! v1.0 (2002)(Bieler, Amos)(PD).bin" size="65536" crc="0cfc7bfc" md5="581d0e27b9646be3e6f26fed3c7b806b" sha1="940785e07f313f7a5e9bfd9f70f8867b85db60f1"/>
+	</game>
+	<game name="Hello, World! v1.1 (2002)(Bieler, Amos)(PD)">
+		<description>Hello, World! v1.1 (2002)(Bieler, Amos)(PD)</description>
+		<rom name="Hello, World! v1.1 (2002)(Bieler, Amos)(PD).bin" size="65536" crc="86d68156" md5="bc40f08d1a2c51821245087911594125" sha1="bdb31bdceaacc53e021da9fffd1d42e9dfecf11e"/>
+	</game>
+	<game name="Hover Demo v0.1 (2008)(Bieler, Amos)(PD)">
+		<description>Hover Demo v0.1 (2008)(Bieler, Amos)(PD)</description>
+		<rom name="Hover Demo v0.1 (2008)(Bieler, Amos)(PD).bin" size="1048576" crc="0a46ff5f" md5="8e894145356d5f11d611a9ea8cca9851" sha1="be77239ddf4d23c8c3f48f3d0b5d35492433dc13"/>
+	</game>
+	<game name="Hover Demo v0.1a (2008)(Bieler, Amos)(PD)">
+		<description>Hover Demo v0.1a (2008)(Bieler, Amos)(PD)</description>
+		<rom name="Hover Demo v0.1a (2008)(Bieler, Amos)(PD).bin" size="2097152" crc="dbf715da" md5="1d0a8459106a11fb5f2da3ccefb1fd23" sha1="02a868ddffb73e9c134e991072ec3beafda9ca58"/>
+	</game>
+	<game name="Mandelbrot Explorer Rev 20101030 (2010)(Skiles, Collin)(PD)">
+		<description>Mandelbrot Explorer Rev 20101030 (2010)(Skiles, Collin)(PD)</description>
+		<rom name="Mandelbrot Explorer Rev 20101030 (2010)(Skiles, Collin)(PD).bin" size="65536" crc="0f815c1a" md5="a03afb33c5f8b24cc7d0d93a4104e7ba" sha1="adac6d632daab412f5c8138b3754659ee86f6590"/>
+	</game>
+	<game name="Mandelbrot Explorer Rev 20101109 (2010)(Skiles, Collin)(PD)">
+		<description>Mandelbrot Explorer Rev 20101109 (2010)(Skiles, Collin)(PD)</description>
+		<rom name="Mandelbrot Explorer Rev 20101109 (2010)(Skiles, Collin)(PD).bin" size="65536" crc="089ec3e2" md5="639c353e720cf44e033cd5a4453fe366" sha1="e61f642f53c569bfe30994794305fde41c27b80f"/>
+	</game>
+	<game name="Mario Flying Demo (2002)(Frostgiant)">
+		<description>Mario Flying Demo (2002)(Frostgiant)</description>
+		<rom name="Mario Flying Demo (2002)(Frostgiant).bin" size="65536" crc="deabf6af" md5="878443c11a7bdefe1cbfc000f9119ce3" sha1="c533b4dd7826c14ec84f727d9cc54f61f8c72751"/>
+	</game>
+	<game name="Matrix Code Demo, The (2003)(Cooler)(PD)">
+		<description>Matrix Code Demo, The (2003)(Cooler)(PD)</description>
+		<rom name="Matrix Code Demo, The (2003)(Cooler)(PD).bin" size="65536" crc="f3f9e810" md5="a306ea95a699d5611988f081ef31f7e4" sha1="b54d61508265e23b0979ad1ac116b2785eaad905"/>
+	</game>
+	<game name="Metroid April Fools' Day Demo (2009)(Radke, Christian)(PD)">
+		<description>Metroid April Fools' Day Demo (2009)(Radke, Christian)(PD)</description>
+		<rom name="Metroid April Fools' Day Demo (2009)(Radke, Christian)(PD).bin" size="2097152" crc="fc4a6318" md5="17e8e1c66ca4294fc1825953a9d83e0b" sha1="18aa3b44193dd1a0feb529e9926aae7f581bcbec"/>
+	</game>
+	<game name="MIDI Music Player (2008)(Bergman, Dan)(PD)">
+		<description>MIDI Music Player (2008)(Bergman, Dan)(PD)</description>
+		<rom name="MIDI Music Player (2008)(Bergman, Dan)(PD).bin" size="2097152" crc="a3587e34" md5="149d5c1a6ec31fc682a581dd411024ca" sha1="aa800f8d2af59d71f12c55d212cabdd4bec3ec97"/>
+	</game>
+	<game name="Mode7 Demo (2009)(dasi)(PD)">
+		<description>Mode7 Demo (2009)(dasi)(PD)</description>
+		<rom name="Mode7 Demo (2009)(dasi)(PD).bin" size="8192" crc="a2a60535" md5="29ed124e7525c7c89d67647333c80a5a" sha1="824242813fa762f74ed4b9f2161d523b62c83ded"/>
+	</game>
+	<game name="Mode7 Demo (2009)(dasi)(PD)[a]">
+		<description>Mode7 Demo (2009)(dasi)(PD)[a]</description>
+		<rom name="Mode7 Demo (2009)(dasi)(PD)[a].bin" size="8192" crc="d515fecf" md5="578f0d83e6a6a7c0cdbcdbc6f79f1f10" sha1="aadbc9c8826bf5e1ee95084c24d2249c52f50330"/>
+	</game>
+	<game name="OBJ SPT Pointer Demo (2003)(Bergman, Dan)(PD)">
+		<description>OBJ SPT Pointer Demo (2003)(Bergman, Dan)(PD)</description>
+		<rom name="OBJ SPT Pointer Demo (2003)(Bergman, Dan)(PD).bin" size="1048576" crc="0320ce69" md5="c0a8fe852c5a1874e684541af64f4ab6" sha1="866620c7b6b7c259c331df7ec2e37428696746ab"/>
+	</game>
+	<game name="Pac-Man Demo (2002)(-)(PD)">
+		<description>Pac-Man Demo (2002)(-)(PD)</description>
+		<rom name="Pac-Man Demo (2002)(-)(PD).bin" size="65536" crc="fad06b29" md5="fe0e9fbf00b61844da2689bb94e1f700" sha1="0b1abb59297ef244cbc8e9a85a98bbde3d4df9f0"/>
+	</game>
+	<game name="Polygon Engine Demo (2008)(DogP)(PD)">
+		<description>Polygon Engine Demo (2008)(DogP)(PD)</description>
+		<rom name="Polygon Engine Demo (2008)(DogP)(PD).bin" size="1048576" crc="584057c1" md5="b4c48ce2798e9cf17e27141ed30b98bc" sha1="5ddec9e1f92d99194e2c64ce42d8d624bbfdf52e"/>
+	</game>
+	<game name="Reality Boy Demo 1 (2000)(Tucker, David)(PD)">
+		<description>Reality Boy Demo 1 (2000)(Tucker, David)(PD)</description>
+		<rom name="Reality Boy Demo 1 (2000)(Tucker, David)(PD).bin" size="524288" crc="e6d411dc" md5="d902c25d8ed1ba3382dd772457038deb" sha1="0f28b1deafaf6e4b5ad15ff93a9e41efd6661efb"/>
+	</game>
+	<game name="Reality Boy Demo 2 (2000)(Tucker, David)(PD)">
+		<description>Reality Boy Demo 2 (2000)(Tucker, David)(PD)</description>
+		<rom name="Reality Boy Demo 2 (2000)(Tucker, David)(PD).bin" size="524288" crc="dc2ec5b8" md5="131120f401946eef5f430b3b1ea2dc17" sha1="640ce3b7926778a99fb373a55dac15a2418c3ea2"/>
+	</game>
+	<game name="Reality Boy Demo 3 (2000)(Tucker, David)(PD)">
+		<description>Reality Boy Demo 3 (2000)(Tucker, David)(PD)</description>
+		<rom name="Reality Boy Demo 3 (2000)(Tucker, David)(PD).bin" size="1048576" crc="01d7cce6" md5="83e8b499e3f0709b71ee67590c5bb773" sha1="e9cf0f036d1af79c2c823443fb477b5371720edf"/>
+	</game>
+	<game name="Sample Soft for VUE Programming v1.0 (1994)(Nintendo)(JP-US)(en)">
+		<description>Sample Soft for VUE Programming v1.0 (1994)(Nintendo)(JP-US)(en)</description>
+		<rom name="Sample Soft for VUE Programming v1.0 (1994)(Nintendo)(JP-US)(en).bin" size="131072" crc="e3869a0d" md5="0fa7e36d7e9af5f7954d810d8b7ec7c1" sha1="e4aeef6bf87d5b9dcda91428990b5ce1fa124257"/>
+	</game>
+	<game name="Sample Soft for VUE Programming v1.1 (1995)(Nintendo)(JP-US)(en-ja)">
+		<description>Sample Soft for VUE Programming v1.1 (1995)(Nintendo)(JP-US)(en-ja)</description>
+		<rom name="Sample Soft for VUE Programming v1.1 (1995)(Nintendo)(JP-US)(en-ja).bin" size="262144" crc="0e60c273" md5="f061abedd5c6919561d09556b3a91163" sha1="23da3e64b27d9fb371fbce6220fedb2b4e83b717"/>
+	</game>
+	<game name="Sample Soft for VUE Programming v1.1a (1995)(Nintendo)(JP-US)(en-ja)">
+		<description>Sample Soft for VUE Programming v1.1a (1995)(Nintendo)(JP-US)(en-ja)</description>
+		<rom name="Sample Soft for VUE Programming v1.1a (1995)(Nintendo)(JP-US)(en-ja).bin" size="262144" crc="fa58b8d2" md5="770820318300188dc5c83952ae79ced6" sha1="a6284c591049673b3e88f13ae75f1e15e3c8da2e"/>
+	</game>
+	<game name="Sample Soft for VUE Programming v1.2 (1995)(Nintendo)(JP-US)(en-ja)">
+		<description>Sample Soft for VUE Programming v1.2 (1995)(Nintendo)(JP-US)(en-ja)</description>
+		<rom name="Sample Soft for VUE Programming v1.2 (1995)(Nintendo)(JP-US)(en-ja).bin" size="262144" crc="3a236929" md5="e6807c961b740ddefcba710c5d01fcc3" sha1="faa4748e1f68d0190294378fc2ab537f2cc9d4c4"/>
+	</game>
+	<game name="Scaling Demo (2003)(Parasyte)">
+		<description>Scaling Demo (2003)(Parasyte)</description>
+		<rom name="Scaling Demo (2003)(Parasyte).bin" size="524288" crc="a63c6798" md5="5c0f42ab6f66537efc8ff1719c319af4" sha1="131829b92dfe70870356ef2355295e01168809fe"/>
+	</game>
+	<game name="Soviet Union 2011 Sound Engine Demo (2012)(Horvat, Matej)(PD)">
+		<description>Soviet Union 2011 Sound Engine Demo (2012)(Horvat, Matej)(PD)</description>
+		<rom name="Soviet Union 2011 Sound Engine Demo (2012)(Horvat, Matej)(PD).bin" size="2097152" crc="ef31c801" md5="e5bf830c1b52093d12d3c5c114a9c3d1" sha1="11f39336ff0cc415a8ad2c46ad34c54e9ef91b49"/>
+	</game>
+	<game name="Super Fighter Demo (2002)(Radke, Christian)(PD)">
+		<description>Super Fighter Demo (2002)(Radke, Christian)(PD)</description>
+		<rom name="Super Fighter Demo (2002)(Radke, Christian)(PD).bin" size="65536" crc="a3022d2a" md5="b44601f915ec4ea5869f04e5dfaaac52" sha1="814adb42a7abb93ff410981057a6e365b86686be"/>
+	</game>
+	<game name="This Demo Owes ALOT to RunnerPack HelloWorld SpriteExam 1 (20xx)(-)(PD)">
+		<description>This Demo Owes ALOT to RunnerPack HelloWorld SpriteExam 1 (20xx)(-)(PD)</description>
+		<rom name="This Demo Owes ALOT to RunnerPack HelloWorld SpriteExam 1 (20xx)(-)(PD).bin" size="65536" crc="5e10bec7" md5="537bbdac5e6eef849651103752ca051d" sha1="1bc1bdf06373418543bc93fb8737a68e96b278b0"/>
+	</game>
+	<game name="This Demo Owes ALOT to RunnerPack HelloWorld SpriteExam 3 (20xx)(-)(PD)">
+		<description>This Demo Owes ALOT to RunnerPack HelloWorld SpriteExam 3 (20xx)(-)(PD)</description>
+		<rom name="This Demo Owes ALOT to RunnerPack HelloWorld SpriteExam 3 (20xx)(-)(PD).bin" size="65536" crc="93d505e9" md5="c28374da2381fdd759637afee37af89a" sha1="66c0db76ed1a77d8abee4dcd94c958b62b3dc38f"/>
+	</game>
+	<game name="VB Racing (2008)(Kujaczynski, Martin)(PD)">
+		<description>VB Racing (2008)(Kujaczynski, Martin)(PD)</description>
+		<rom name="VB Racing (2008)(Kujaczynski, Martin)(PD).bin" size="524288" crc="d56448ec" md5="819b9dccf1437c3bb126670b171d7c59" sha1="ac6d441370994b3000119afffbd4a200014c5a51"/>
+	</game>
+	<game name="VB Racing (2008)(Kujaczynski, Martin)(PD)[a2]">
+		<description>VB Racing (2008)(Kujaczynski, Martin)(PD)[a2]</description>
+		<rom name="VB Racing (2008)(Kujaczynski, Martin)(PD)[a2].bin" size="524288" crc="26f11298" md5="21bd18c1910c48e16de825cee681fa8c" sha1="e3e82fd42f1ca66f45a30283b4e8d6342c4a0107"/>
+	</game>
+	<game name="VB Racing (2008)(Kujaczynski, Martin)(PD)[a]">
+		<description>VB Racing (2008)(Kujaczynski, Martin)(PD)[a]</description>
+		<rom name="VB Racing (2008)(Kujaczynski, Martin)(PD)[a].bin" size="2097152" crc="ea17034c" md5="f70cdaa3b30d777e4b775269b7c8f196" sha1="c90007589d6bb7f553354d66995bb604064a1d50"/>
+	</game>
+	<game name="VB Rocks! (2002)(Radke, Christian)(PD)">
+		<description>VB Rocks! (2002)(Radke, Christian)(PD)</description>
+		<rom name="VB Rocks! (2002)(Radke, Christian)(PD).bin" size="65536" crc="87f11993" md5="363e031ccef3df6a8799f488b2f68c91" sha1="d463ccaf71f20c4ac00f7d798134d0b6662a30c7"/>
+	</game>
+	<game name="VB Screen Test (200x)(Tucker, David)(PD)">
+		<description>VB Screen Test (200x)(Tucker, David)(PD)</description>
+		<rom name="VB Screen Test (200x)(Tucker, David)(PD).bin" size="1048576" crc="66386aac" md5="1841e72ee7aa666b111d382837ce4526" sha1="3eea4746cc48dd3842841920f6c7a5e9c1657fa7"/>
+	</game>
+	<game name="vbJAEngine Demo 1 (2006)(Jorgeche)(PD)">
+		<description>vbJAEngine Demo 1 (2006)(Jorgeche)(PD)</description>
+		<rom name="vbJAEngine Demo 1 (2006)(Jorgeche)(PD).bin" size="1048576" crc="cee940c6" md5="2fe283435543c5026fcd2c41d5bbe946" sha1="6837d633d9f988a5030209127468a45a834efa09"/>
+	</game>
+	<game name="vbJAEngine Demo 2 (2006)(Jorgeche)(PD)">
+		<description>vbJAEngine Demo 2 (2006)(Jorgeche)(PD)</description>
+		<rom name="vbJAEngine Demo 2 (2006)(Jorgeche)(PD).bin" size="131072" crc="0c347b80" md5="d2442c5dcaab52974eee87efceaddf46" sha1="ff0762a469b1df51008c646d1439cf5462070743"/>
+	</game>
+	<game name="vbJAEngine Demo 3 (2007)(Jorgeche)(PD)">
+		<description>vbJAEngine Demo 3 (2007)(Jorgeche)(PD)</description>
+		<rom name="vbJAEngine Demo 3 (2007)(Jorgeche)(PD).bin" size="262144" crc="03a65fc6" md5="529b4e9f80b35038080054b6db239a62" sha1="f6848cc8a635ae90fd7dcc31fbcf0eab4571891b"/>
+	</game>
+	<game name="vbJAEngine Demo 4 (2007)(Jorgeche)(PD)">
+		<description>vbJAEngine Demo 4 (2007)(Jorgeche)(PD)</description>
+		<rom name="vbJAEngine Demo 4 (2007)(Jorgeche)(PD).bin" size="262144" crc="aee345d5" md5="026d460a4f356c79dff7a9b875adbe0f" sha1="93a1d43dc5c0f045fbe7b9dd9194f29a744e9ca4"/>
+	</game>
+	<game name="vbJAEngine Demo 5 (2007)(Jorgeche)(PD)">
+		<description>vbJAEngine Demo 5 (2007)(Jorgeche)(PD)</description>
+		<rom name="vbJAEngine Demo 5 (2007)(Jorgeche)(PD).bin" size="262144" crc="b4ab705b" md5="31878d835200b69362d7db386d2c202f" sha1="0145570f92c101857bf44ba2cb5612404f6c53d1"/>
+	</game>
+	<game name="vbJAEngine Demo 6 (2007)(Jorgeche)(PD)">
+		<description>vbJAEngine Demo 6 (2007)(Jorgeche)(PD)</description>
+		<rom name="vbJAEngine Demo 6 (2007)(Jorgeche)(PD).bin" size="131072" crc="e2c3645d" md5="82d30f0e48b283489239621864dc7275" sha1="ef0d0f1662130c730b54630bdcb3aa416de9d32f"/>
+	</game>
+	<game name="VeeBee Cursor Demo (2002)(Williamson, David)(PD)">
+		<description>VeeBee Cursor Demo (2002)(Williamson, David)(PD)</description>
+		<rom name="VeeBee Cursor Demo (2002)(Williamson, David)(PD).bin" size="65536" crc="6e5b40a1" md5="6853c7b038c5a6e85642ac9dd38d4632" sha1="5f666e7a1e961dcfc99e9ba58aa37feeeb2b723b"/>
+	</game>
+	<game name="Virtual Boy Programming Introductory Demo (2008)(Radke, Christian)(PD)">
+		<description>Virtual Boy Programming Introductory Demo (2008)(Radke, Christian)(PD)</description>
+		<rom name="Virtual Boy Programming Introductory Demo (2008)(Radke, Christian)(PD).bin" size="65536" crc="48d1839a" md5="b2a39ffae965821d1f9404cbf2c57145" sha1="dd9f38ea9ab73db1e2a5ab15c871b169e6e4b21b"/>
+	</game>
+	<game name="Virtual-E Cursor Demo (1999)(Covarrubias, Alberto)(PD)">
+		<description>Virtual-E Cursor Demo (1999)(Covarrubias, Alberto)(PD)</description>
+		<rom name="Virtual-E Cursor Demo (1999)(Covarrubias, Alberto)(PD).bin" size="8192" crc="c44b6874" md5="7f0ac5913c7a884f80477a312d65526e" sha1="af91db46e0dd383208d0f8d825dc13448059fc43"/>
+	</game>
+	<game name="Virtual-E Cursor Demo (1999)(Covarrubias, Alberto)(PD)[a]">
+		<description>Virtual-E Cursor Demo (1999)(Covarrubias, Alberto)(PD)[a]</description>
+		<rom name="Virtual-E Cursor Demo (1999)(Covarrubias, Alberto)(PD)[a].bin" size="65536" crc="ba7192cb" md5="a126b6f164b0272781d5f8b3e459ec2e" sha1="d04af71081ae56e9afd18b0b5f64be09c2aef21b"/>
+	</game>
+	<game name="Virtual-E GL Demo v0.5 (2008)(Covarrubias, Alberto)(PD)">
+		<description>Virtual-E GL Demo v0.5 (2008)(Covarrubias, Alberto)(PD)</description>
+		<rom name="Virtual-E GL Demo v0.5 (2008)(Covarrubias, Alberto)(PD).bin" size="2097152" crc="8b5fbeb8" md5="477c34505f5e109232db1dc89de458eb" sha1="d8eb3ab8947f06c54fc3dc98d27ca1e7e0c5677e"/>
+	</game>
+	<game name="VUE Debugger Sample (2010)(Williamson, David)(PD)">
+		<description>VUE Debugger Sample (2010)(Williamson, David)(PD)</description>
+		<rom name="VUE Debugger Sample (2010)(Williamson, David)(PD).bin" size="524288" crc="66df5436" md5="60c71be93400931cbb579e6f07932a5f" sha1="04ecfceca3f36b128be118b444fd8e2fe5d869cb"/>
+	</game>
+	<game name="Wario's Gonna Win Demo (2009)(-)(PD)">
+		<description>Wario's Gonna Win Demo (2009)(-)(PD)</description>
+		<rom name="Wario's Gonna Win Demo (2009)(-)(PD).bin" size="1048576" crc="fd93a845" md5="a3e973b47916b729e329e30e8a050ae6" sha1="a51b261369523328d4b2fcc4f9bef094e465c0d4"/>
+	</game>
+	<game name="Water Ripple Demo (2009)(Bieler, Amos)(PD)">
+		<description>Water Ripple Demo (2009)(Bieler, Amos)(PD)</description>
+		<rom name="Water Ripple Demo (2009)(Bieler, Amos)(PD).bin" size="32768" crc="84a71916" md5="317ce1dece392ca0035bae7170188d06" sha1="4dca36c71a91cc2e8313dccfefa1721d6e0a0ee5"/>
+	</game>
+	<game name="Water Ripple Demo (2009)(Bieler, Amos)(PD)[a]">
+		<description>Water Ripple Demo (2009)(Bieler, Amos)(PD)[a]</description>
+		<rom name="Water Ripple Demo (2009)(Bieler, Amos)(PD)[a].bin" size="2097152" crc="1d711a69" md5="c638b477743eaaefcfbff3bb8772718a" sha1="295dbe1a9fc4e29bc3de6c870574a898c14fa8c9"/>
+	</game>
+	<game name="Wavs Demo (2009)(-)(PD)">
+		<description>Wavs Demo (2009)(-)(PD)</description>
+		<rom name="Wavs Demo (2009)(-)(PD).bin" size="1048576" crc="6e8c6d7f" md5="92fa3a49d6f43675d8c8c0ac0f5416b7" sha1="ebb82baf825728ce79d1dd1bf7d6fef53beb0c2a"/>
+	</game>
+	<game name="Yeti3D Demo Rev 20100102 (2010)(Bergman, Dan)(PD)">
+		<description>Yeti3D Demo Rev 20100102 (2010)(Bergman, Dan)(PD)</description>
+		<rom name="Yeti3D Demo Rev 20100102 (2010)(Bergman, Dan)(PD).bin" size="2097152" crc="95af3a83" md5="c52d0193215f1a32bf4c3c5f29cf696c" sha1="820078a574625d3f0c229e427a15a6ca76da9340"/>
+	</game>
+	<game name="Yeti3D Demo Rev 20100113 (2010)(Bergman, Dan)(PD)">
+		<description>Yeti3D Demo Rev 20100113 (2010)(Bergman, Dan)(PD)</description>
+		<rom name="Yeti3D Demo Rev 20100113 (2010)(Bergman, Dan)(PD).bin" size="2097152" crc="11758971" md5="a85b2a0e327f551099ef52e9a60220de" sha1="6be18b85d45cdfced96de9c17545fe24355009d4"/>
+	</game>
+</datafile>

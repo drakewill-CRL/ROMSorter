@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C128 - Operating Systems - GEOS - [D81]</name>
+		<description>Commodore C128 - Operating Systems - GEOS - [D81] (TOSEC-v2017-10-23)</description>
+		<category>TOSEC</category>
+		<version>2017-10-23</version>
+		<author>Tomse</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="GEOS 128 v2.0 (1988)(Berkeley Softworks)[40-80 column]">
+		<description>GEOS 128 v2.0 (1988)(Berkeley Softworks)[40-80 column]</description>
+		<rom name="GEOS 128 v2.0 (1988)(Berkeley Softworks)[40-80 column].D81" size="819200" crc="0520ff04" md5="44450ef4bab31345b8fe3e80b103c44e" sha1="43dc349cc870ee196132705ef865ca3501c88a89"/>
+	</game>
+</datafile>

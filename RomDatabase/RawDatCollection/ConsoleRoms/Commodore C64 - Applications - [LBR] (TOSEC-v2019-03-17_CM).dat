@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Applications - [LBR]</name>
+		<description>Commodore C64 - Applications - [LBR] (TOSEC-v2019-03-17)</description>
+		<category>TOSEC</category>
+		<version>2019-03-17</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="C64 Shotgun (1987)(Kracker Jax)">
+		<description>C64 Shotgun (1987)(Kracker Jax)</description>
+		<rom name="C64 Shotgun (1987)(Kracker Jax).lbr" size="25567" crc="42a11f00" md5="1bcb895ed91a9753ae265dea72d48887" sha1="fce71769887dd766d28d9d96dd9a88b3727384f8"/>
+	</game>
+	<game name="Utilitydisk #1 (1989)(Acid-Crew)(File 1 of 2)">
+		<description>Utilitydisk #1 (1989)(Acid-Crew)(File 1 of 2)</description>
+		<rom name="Utilitydisk #1 (1989)(Acid-Crew)(File 1 of 2).lbr" size="161680" crc="bd975aab" md5="0db228914b82cde10d6b37e264773bd5" sha1="481d0259a5572b115adc30790edf5937f53c65a0"/>
+	</game>
+	<game name="Utilitydisk #1 (1989)(Acid-Crew)(File 2 of 2)">
+		<description>Utilitydisk #1 (1989)(Acid-Crew)(File 2 of 2)</description>
+		<rom name="Utilitydisk #1 (1989)(Acid-Crew)(File 2 of 2).lbr" size="150455" crc="086faf6a" md5="9c604c4c457266784ccd5011bbb3b725" sha1="db6ab7a2b655e1f08ba89e610e6359c1fdc5fbf1"/>
+	</game>
+</datafile>

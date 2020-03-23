@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Exelvision Exeltel - Games - [CRAM]</name>
+		<description>Exelvision Exeltel - Games - [CRAM] (TOSEC-v2014-01-24)</description>
+		<category>TOSEC</category>
+		<version>2014-01-24</version>
+		<author>TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Aigles, Les (198x)(P., Gerard)(FR)">
+		<description>Aigles, Les (198x)(P., Gerard)(FR)</description>
+		<rom name="Aigles, Les (198x)(P., Gerard)(FR).cram" size="16224" crc="716410dd" md5="43698725b24d002b0a70f56dcf0f1b77" sha1="0d23d39fb6c978142c7232622925ec94b9ab22f0"/>
+	</game>
+	<game name="Burgertime (1987)(JMR Diffusion)(FR)">
+		<description>Burgertime (1987)(JMR Diffusion)(FR)</description>
+		<rom name="Burgertime (1987)(JMR Diffusion)(FR).cram" size="16128" crc="cb19f6d2" md5="8e236abc62d856c2ac84fff68aea534e" sha1="e77705b9c67aaf450a208b1c8b079b3a82546695"/>
+	</game>
+	<game name="CB5 (198x)(Exelvision)(FR)">
+		<description>CB5 (198x)(Exelvision)(FR)</description>
+		<rom name="CB5 (198x)(Exelvision)(FR).cram" size="16226" crc="b7d62738" md5="12036bd18ddf05334abc058ad161056f" sha1="7f003a5f5c1530a63b25321e093e03b1d0099c07"/>
+	</game>
+	<game name="Descente (198x)(Paralleles)(FR)">
+		<description>Descente (198x)(Paralleles)(FR)</description>
+		<rom name="Descente (198x)(Paralleles)(FR).cram" size="16128" crc="6faa31fc" md5="28656fc40870124d4b53b457e555749a" sha1="71d773e0f5831669351af7d22ee908babd79852d"/>
+	</game>
+	<game name="Kamicar (1987)(Arosio, Charles)(FR)">
+		<description>Kamicar (1987)(Arosio, Charles)(FR)</description>
+		<rom name="Kamicar (1987)(Arosio, Charles)(FR).cram" size="10755" crc="f8afc23e" md5="bef502ac79c4a3923ac98311bc275f2b" sha1="05cf97f9980078581b6e506155e21c12be8944da"/>
+	</game>
+	<game name="Kong (1987)(JMR Diffusion)(FR)">
+		<description>Kong (1987)(JMR Diffusion)(FR)</description>
+		<rom name="Kong (1987)(JMR Diffusion)(FR).cram" size="14592" crc="6f0e5678" md5="3e40c519a03766e4776f4eff2596eefb" sha1="03827bd30432d09a2f361d5c3f3c8601c4f7ef16"/>
+	</game>
+	<game name="Pindo (198x)(Minipuce)(FR)">
+		<description>Pindo (198x)(Minipuce)(FR)</description>
+		<rom name="Pindo (198x)(Minipuce)(FR).cram" size="14214" crc="3748a99f" md5="c4bb527b58b447a09cc447a5e9e26ec5" sha1="f13a77ae6d649ba00cb7f94d3dc099df9eeee280"/>
+	</game>
+	<game name="Pyrox (198x)(Paralleles)(FR)">
+		<description>Pyrox (198x)(Paralleles)(FR)</description>
+		<rom name="Pyrox (198x)(Paralleles)(FR).cram" size="16227" crc="00d99e00" md5="d7538a945b29e283dac4a323f091322f" sha1="89d4a6a9dffd024048c166f4e6cf06d448916d1e"/>
+	</game>
+	<game name="Slalom Geant (198x)(Paralleles)(FR)">
+		<description>Slalom Geant (198x)(Paralleles)(FR)</description>
+		<rom name="Slalom Geant (198x)(Paralleles)(FR).cram" size="16128" crc="ab850702" md5="162f7efbd80ec8ecebd34bde64a88a2f" sha1="64716fd73872023b5887368dc8fb479ad7db0670"/>
+	</game>
+	<game name="Sphinx d'Or, Le (198x)(Paralleles)(FR)">
+		<description>Sphinx d'Or, Le (198x)(Paralleles)(FR)</description>
+		<rom name="Sphinx d'Or, Le (198x)(Paralleles)(FR).cram" size="14304" crc="aec29668" md5="d98ca53295300eb461ed53088d0cdff1" sha1="21cc41dd613c865cfad042739714b0752392af40"/>
+	</game>
+</datafile>

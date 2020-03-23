@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Atari Jaguar CD - Homebrew - Games - [BIN]</name>
+		<description>Atari Jaguar CD - Homebrew - Games - [BIN] (TOSEC-v2012-07-22)</description>
+		<category>TOSEC-ISO</category>
+		<version>2012-07-22</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Beebris (2009)(Bad Brew Crew - Reboot)">
+		<description>Beebris (2009)(Bad Brew Crew - Reboot)</description>
+		<rom name="Beebris (2009)(Bad Brew Crew - Reboot).bin" size="9106944" crc="b98b517e" md5="f4b1cf7671874a180d0f1a10f2ed67b1" sha1="1a2e5964e21793281747717a394d6700fbb6ea23"/>
+		<rom name="Beebris (2009)(Bad Brew Crew - Reboot).cue" size="263" crc="ce29b484" md5="071743b9ff9f1befd248020d134d270b" sha1="ac5e36afe055f13cf6faf877d188cb9827fc9780"/>
+	</game>
+</datafile>

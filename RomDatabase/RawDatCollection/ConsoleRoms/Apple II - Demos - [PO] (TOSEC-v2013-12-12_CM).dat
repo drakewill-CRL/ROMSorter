@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple II - Demos - [PO]</name>
+		<description>Apple II - Demos - [PO] (TOSEC-v2013-12-12)</description>
+		<category>TOSEC</category>
+		<version>2013-12-12</version>
+		<author>TKaos - jjs</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Elisynch v1.0 (1991-09)(Cult of the Dead Cow)">
+		<description>Elisynch v1.0 (1991-09)(Cult of the Dead Cow)</description>
+		<rom name="Elisynch v1.0 (1991-09)(Cult of the Dead Cow).po" size="143360" crc="81d5b545" md5="12da59924b82115ae971b0a36bd11334" sha1="f98558844ba88f75a697bff65b3ffc83eea0a596"/>
+	</game>
+	<game name="Minipix Disk #1 (1985)(Beagle Bros)(Side A)">
+		<description>Minipix Disk #1 (1985)(Beagle Bros)(Side A)</description>
+		<rom name="Minipix Disk #1 (1985)(Beagle Bros)(Side A).po" size="143360" crc="20a5d41f" md5="c36452756104daf55388595031fa462d" sha1="1de373b9c987d96fd793d1442501aafe2276d1fd"/>
+	</game>
+	<game name="Minipix Disk #1 (1985)(Beagle Bros)(Side B)">
+		<description>Minipix Disk #1 (1985)(Beagle Bros)(Side B)</description>
+		<rom name="Minipix Disk #1 (1985)(Beagle Bros)(Side B).po" size="143360" crc="f88da8db" md5="3c39600623ee5cf83624705d86e7e29a" sha1="6848b566bac54d8630205144324f987d86b7ae38"/>
+	</game>
+	<game name="Minipix Disk #2 (1985)(Beagle Bros)(Side A)">
+		<description>Minipix Disk #2 (1985)(Beagle Bros)(Side A)</description>
+		<rom name="Minipix Disk #2 (1985)(Beagle Bros)(Side A).po" size="143360" crc="78eeb089" md5="56be0ed0ba9cf5a388d73b93e23623f9" sha1="6fa2b5f9ee77124aeb0f8332f958c6b70c9d2df2"/>
+	</game>
+	<game name="Minipix Disk #2 (1985)(Beagle Bros)(Side B)">
+		<description>Minipix Disk #2 (1985)(Beagle Bros)(Side B)</description>
+		<rom name="Minipix Disk #2 (1985)(Beagle Bros)(Side B).po" size="143360" crc="5e9dca26" md5="db3ed42c5250439c2e92a710365f6f41" sha1="369bbc739b3b832c7e3684f06ff2d6035f25cec1"/>
+	</game>
+	<game name="Minipix Disk #3 (1985)(Beagle Bros)(Side A)">
+		<description>Minipix Disk #3 (1985)(Beagle Bros)(Side A)</description>
+		<rom name="Minipix Disk #3 (1985)(Beagle Bros)(Side A).po" size="143360" crc="9bd739d0" md5="84c4d994d5aa2f2f72a42d5ebf445494" sha1="fe2761e72d1fd5b62c67807d08956b3356a2a446"/>
+	</game>
+	<game name="Minipix Disk #3 (1985)(Beagle Bros)(Side B)">
+		<description>Minipix Disk #3 (1985)(Beagle Bros)(Side B)</description>
+		<rom name="Minipix Disk #3 (1985)(Beagle Bros)(Side B).po" size="143360" crc="9f72d918" md5="c55fde0afba4365d7dda24719f7668c4" sha1="022fac73969a700233398500e611360554bec0da"/>
+	</game>
+</datafile>

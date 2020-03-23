@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Pioneer LaserActive - Firmware</name>
+		<description>Pioneer LaserActive - Firmware (TOSEC-v2014-07-01)</description>
+		<category>TOSEC</category>
+		<version>2014-07-01</version>
+		<author>Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Pioneer LaserActive Sega PAC Boot ROM v1.02 (1993)(Pioneer - Sega)(JP)(en-ja)">
+		<description>Pioneer LaserActive Sega PAC Boot ROM v1.02 (1993)(Pioneer - Sega)(JP)(en-ja)</description>
+		<rom name="Pioneer LaserActive Sega PAC Boot ROM v1.02 (1993)(Pioneer - Sega)(JP)(en-ja).bin" size="131072" crc="00eedb3a" md5="a5a2f9aae57d464bc66b80ee79c3da6e" sha1="26237b333db4a4c6770297fa5e655ea95840d5d9"/>
+	</game>
+	<game name="Pioneer LaserActive Sega PAC Boot ROM v1.02 (1993)(Pioneer - Sega)(US)">
+		<description>Pioneer LaserActive Sega PAC Boot ROM v1.02 (1993)(Pioneer - Sega)(US)</description>
+		<rom name="Pioneer LaserActive Sega PAC Boot ROM v1.02 (1993)(Pioneer - Sega)(US).bin" size="131072" crc="3b10cf41" md5="691c3fd368211280d268645c0efd2eff" sha1="8af162223bb12fc19b414f126022910372790103"/>
+	</game>
+	<game name="Pioneer LaserActive Sega PAC Boot ROM v1.04 (1993)(Pioneer - Sega)(US)">
+		<description>Pioneer LaserActive Sega PAC Boot ROM v1.04 (1993)(Pioneer - Sega)(US)</description>
+		<rom name="Pioneer LaserActive Sega PAC Boot ROM v1.04 (1993)(Pioneer - Sega)(US).bin" size="131072" crc="50cd3d23" md5="0e7393cd0951d6dde818fcd4cd819466" sha1="aa811861f8874775075bd3f53008c8aaf59b07db"/>
+	</game>
+	<game name="Pioneer LaserActive Sega PAC Boot ROM v1.05 (1993)(Pioneer - Sega)(JP)(en-ja)">
+		<description>Pioneer LaserActive Sega PAC Boot ROM v1.05 (1993)(Pioneer - Sega)(JP)(en-ja)</description>
+		<rom name="Pioneer LaserActive Sega PAC Boot ROM v1.05 (1993)(Pioneer - Sega)(JP)(en-ja).bin" size="131072" crc="474aaa44" md5="927df773f9a1c7de94a72420b2d538dd" sha1="b3b1d880e288b6dc79eec0ff1b0480c229ec141d"/>
+	</game>
+</datafile>

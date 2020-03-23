@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C128 - Games - [TAP]</name>
+		<description>Commodore C128 - Games - [TAP] (TOSEC-v2019-09-07)</description>
+		<category>TOSEC</category>
+		<version>2019-09-07</version>
+		<author>Tomse</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Rocky Horror Show, The (1986)(CRL)">
+		<description>Rocky Horror Show, The (1986)(CRL)</description>
+		<rom name="Rocky Horror Show, The (1986)(CRL).tap" size="1069596" crc="607901ea" md5="f2e703d28eb8a66ca8821ab24815d6b3" sha1="99ef3450f5ebad5957cc067a77d2b1a3238f0153"/>
+	</game>
+</datafile>

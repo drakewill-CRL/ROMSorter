@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Gould K450 Logic Analyzer - Operating Systems</name>
+		<description>Gould K450 Logic Analyzer - Operating Systems (TOSEC-v2017-04-05)</description>
+		<category>TOSEC</category>
+		<version>2017-04-05</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<url>http://www.tosecdev.org</url>
+		<clrmamepro/>
+	</header>
+	<game name="K450 DOS Software Revision 50 (19xx)(Gould)[PN 0121-0070-10]">
+		<description>K450 DOS Software Revision 50 (19xx)(Gould)[PN 0121-0070-10]</description>
+		<rom name="K450 DOS Software Revision 50 (19xx)(Gould)[PN 0121-0070-10].imd" size="31990" crc="37d7d216" md5="e1e1fb50138feafafeae96e316dc329a" sha1="1d1379bee22a8c20b37286c230d721daa6417634"/>
+	</game>
+</datafile>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore VIC20 - Applications - [D71]</name>
+		<description>Commodore VIC20 - Applications - [D71] (TOSEC-v2017-10-23)</description>
+		<category>TOSEC</category>
+		<version>2017-10-23</version>
+		<author>Tomse</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+		<clrmamepro/>
+	</header>
+	<game name="CBM Filebrowser v1.3 (2012-05-31)(nbla000)">
+		<description>CBM Filebrowser v1.3 (2012-05-31)(nbla000)</description>
+		<rom name="CBM Filebrowser v1.3 (2012-05-31)(nbla000).d71" size="349696" crc="f3b521a2" md5="c78c85ea5d7880d5d4c3d0fb370eae99" sha1="99b86588b92a542ada0cc3de00273751ac7f6a34"/>
+	</game>
+	<game name="CBM Filebrowser v1.4 (2012-07-19)(nbla000)">
+		<description>CBM Filebrowser v1.4 (2012-07-19)(nbla000)</description>
+		<rom name="CBM Filebrowser v1.4 (2012-07-19)(nbla000).d71" size="349696" crc="a614e123" md5="45265139d7df409105798ef5e2844c3c" sha1="3c282837219cd12b62ef19547695b813986fb49f"/>
+	</game>
+	<game name="CBM Filebrowser v1.5 (2013-03-03)(nbla000)">
+		<description>CBM Filebrowser v1.5 (2013-03-03)(nbla000)</description>
+		<rom name="CBM Filebrowser v1.5 (2013-03-03)(nbla000).d71" size="349696" crc="39d64c4d" md5="6201c4a947d7eca2e987b4f7f9ef17d3" sha1="f2bff8190f0d05da078c7c7d1c193f3f94f6798e"/>
+	</game>
+	<game name="CBM Filebrowser v1.6 (2013-08-20)(nbla000)">
+		<description>CBM Filebrowser v1.6 (2013-08-20)(nbla000)</description>
+		<rom name="CBM Filebrowser v1.6 (2013-08-20)(nbla000).d71" size="349696" crc="05ca4691" md5="5cebfb66ab0518bd0af5254b3a55e758" sha1="518f746baf5caf1912c70d2a1f55782c0810051f"/>
+	</game>
+</datafile>

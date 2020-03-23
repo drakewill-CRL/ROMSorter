@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore Amiga CD32 - Homebrew - Compilations - [Multipart]</name>
+		<description>Commodore Amiga CD32 - Homebrew - Compilations - [Multipart] (TOSEC-v2012-07-22)</description>
+		<category>TOSEC-ISO</category>
+		<version>2012-07-22</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Old School Paradize 03 (2002)(Lempkee)">
+		<description>Old School Paradize 03 (2002)(Lempkee)</description>
+		<rom name="Oldschool_Paradize_03.iso" size="33927168" crc="a822d032" md5="753582e5b2235be5d6a6ea971d0cd15f" sha1="3bb817bde15c8d989e63e1d9cd64234497f19823"/>
+		<rom name="Oldschool_paradize_03.raw.cdt" size="25" crc="07e24f28" md5="7a901c6011a4b754d793ce5121891b8e" sha1="ae605e376a4b9e2f6a53c87c813f2758d7e023b1"/>
+		<rom name="track02.mp3" size="3688437" crc="2d6aa6d5" md5="dc0bded17e0e18d28d0cf47af317fb20" sha1="0b5a6a9fa3eec4a956dbb6573487ae36a21f1d9d"/>
+	</game>
+</datafile>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>NEC PC-Engine CD &amp; TurboGrafx-16 CD - Samplers - [BIN]</name>
+		<description>NEC PC-Engine CD &amp; TurboGrafx-16 CD - Samplers - [BIN] (TOSEC-v2018-07-20)</description>
+		<category>TOSEC-ISO</category>
+		<version>2018-07-20</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="World Heroes 2 - Sample (1994)(Hudson)(JP)">
+		<description>World Heroes 2 - Sample (1994)(Hudson)(JP)</description>
+		<rom name="World Heroes 2 - Sample (1994)(Hudson)(JP).bin" size="549025008" crc="da541243" md5="710aed6a906c1c651e1ef0a117f00bce" sha1="e29055b89754d6adc1e05675c3087e7bce85b5b6"/>
+		<rom name="World Heroes 2 - Sample (1994)(Hudson)(JP).cue" size="1816" crc="56b78bde" md5="b5ebd0f0d9a50b153f7e7961408d12e5" sha1="0860b8b6f7555f0fe06e1bd21136da7e47f0a02b"/>
+	</game>
+</datafile>

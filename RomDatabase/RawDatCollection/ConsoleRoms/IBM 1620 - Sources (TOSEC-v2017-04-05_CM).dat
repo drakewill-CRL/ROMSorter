@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>IBM 1620 - Sources</name>
+		<description>IBM 1620 - Sources (TOSEC-v2017-04-05)</description>
+		<category>TOSEC</category>
+		<version>2017-04-05</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<url>http://www.tosecdev.org</url>
+		<clrmamepro/>
+	</header>
+	<game name="3D Tictactoe (1962-02-15)(Louden, Bob)">
+		<description>3D Tictactoe (1962-02-15)(Louden, Bob)</description>
+		<rom name="3D Tictactoe (1962-02-15)(Louden, Bob).crd" size="91040" crc="3b1481a3" md5="385701ef5bd596f5da5c51662986306b" sha1="ce4e00b154865db8c430223cd34c6cce8bc64339"/>
+	</game>
+</datafile>

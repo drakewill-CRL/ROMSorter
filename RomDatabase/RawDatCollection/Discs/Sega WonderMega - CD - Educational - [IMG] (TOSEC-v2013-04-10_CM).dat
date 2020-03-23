@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega WonderMega - CD - Educational - [IMG]</name>
+		<description>Sega WonderMega - CD - Educational - [IMG] (TOSEC-v2013-04-10)</description>
+		<category>TOSEC-ISO</category>
+		<version>2013-04-10</version>
+		<author>TOSEC-ISO: Trurip</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Compton's Interactive Encyclopedia Rev 19940504 (1994)(Sega)(US)">
+		<description>Compton's Interactive Encyclopedia Rev 19940504 (1994)(Sega)(US)</description>
+		<rom name="Compton's Interactive Encyclopedia Rev 19940504 (1994)(Sega)(US).ccd" size="932" crc="bb889eac" md5="f4533ef4fe6e085fb014f7dd699301e1" sha1="1958362b0de44c13f353ef71975d7b4f25fd2b2f"/>
+		<rom name="Compton's Interactive Encyclopedia Rev 19940504 (1994)(Sega)(US).img" size="222993120" crc="9ba98ddd" md5="231f593dd27b48d83f0337f2e3b37332" sha1="1d9c41457269c14ca4e6f5090c1554849adf13bd"/>
+		<rom name="Compton's Interactive Encyclopedia Rev 19940504 (1994)(Sega)(US).sub" size="9101760" crc="e665f137" md5="9eaec9dee3dd0097fecc59ea9f71a23a" sha1="6f21fb451e36064d4310a584688226b10a2c775f"/>
+	</game>
+	<game name="Compton's Interactive Encyclopedia Rev 19940928 (1994)(Sega)(US)">
+		<description>Compton's Interactive Encyclopedia Rev 19940928 (1994)(Sega)(US)</description>
+		<rom name="Compton's Interactive Encyclopedia Rev 19940928 (1994)(Sega)(US).ccd" size="935" crc="92813692" md5="aa1db5f298633b4f90ff51b9990fd8c6" sha1="b52cea8bac0c12d3a5b67167be67103cf24f338a"/>
+		<rom name="Compton's Interactive Encyclopedia Rev 19940928 (1994)(Sega)(US).img" size="383027904" crc="7a6d2f8c" md5="67f0041b34b1b3e61832117d018ec5a0" sha1="ba516163559d1832792a9d8c1db525d2fc518756"/>
+		<rom name="Compton's Interactive Encyclopedia Rev 19940928 (1994)(Sega)(US).sub" size="15633792" crc="75e5333e" md5="eda6e9f02dfc447f89e471e05fafb6e0" sha1="6fa8d35fdb1b272a4e8393afd446501d88270bcd"/>
+	</game>
+</datafile>

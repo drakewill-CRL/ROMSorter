@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tangerine Microtan 65 - Games - [HEX]</name>
+		<description>Tangerine Microtan 65 - Games - [HEX] (TOSEC-v2011-09-24)</description>
+		<category>TOSEC</category>
+		<version>2011-09-24</version>
+		<author>Gnomula - Grendel - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Air Attack (1980)(Brown, David A.)">
+		<description>Air Attack (1980)(Brown, David A.)</description>
+		<rom name="Air Attack (1980)(Brown, David A.).hex" size="6365" crc="62e786f2" md5="bae6a1e68d6fa73c74c855d6532f3ac4" sha1="4a9392a2eb9742690214852cc8b5468e491c819b"/>
+	</game>
+	<game name="Breakout (19xx)(-)">
+		<description>Breakout (19xx)(-)</description>
+		<rom name="Breakout (19xx)(-).hex" size="13710" crc="16b11a37" md5="e180e2add75e47c083a7c1e0fefaf821" sha1="8f4376022e3e95ec249c3a2adb46fde579e9d029"/>
+	</game>
+	<game name="Conways's Game of Life (19xx)(-)">
+		<description>Conways's Game of Life (19xx)(-)</description>
+		<rom name="Conways's Game of Life (19xx)(-).hex" size="4248" crc="6c423cc5" md5="8f6840ee9f29f605be49174faf4ba678" sha1="1a5828ae0eb7e8dd7c545adbd81d5c5d8902cf25"/>
+	</game>
+	<game name="Shootdown (19xx)(-)">
+		<description>Shootdown (19xx)(-)</description>
+		<rom name="Shootdown (19xx)(-).hex" size="3588" crc="7b41b3de" md5="29ec33a9b7ca5832075507b2ede23817" sha1="340c4b72f51a498b632397f61c6f989c44f128ea"/>
+	</game>
+	<game name="Tangerine Face Invaders (1981)(Brown, David A.)">
+		<description>Tangerine Face Invaders (1981)(Brown, David A.)</description>
+		<rom name="Tangerine Face Invaders (1981)(Brown, David A.).hex" size="8438" crc="ba58361d" md5="deae8dc39eee1508ef391ff350fc3ba3" sha1="b8c2f3bff912c1fc1f992246b0372b0a5cd9681d"/>
+	</game>
+</datafile>

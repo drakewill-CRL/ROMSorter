@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Mattel Aquarius - Games - [WAV]</name>
+		<description>Mattel Aquarius - Games - [WAV] (TOSEC-v2014-01-18)</description>
+		<category>TOSEC</category>
+		<version>2014-01-18</version>
+		<author>Sea7 - Cid - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Millypede (1983)(Add On Electronics)(Tape 1 of 2)">
+		<description>Millypede (1983)(Add On Electronics)(Tape 1 of 2)</description>
+		<rom name="Millypede (1983)(Add On Electronics)(Tape 1 of 2).wav" size="162850" crc="8e1e0241" md5="2c85d26f9ed18a0f19a4cc59d74f6ca1" sha1="b6e1c278a5a3da85df76be7362e8f41b6ac34fa9"/>
+	</game>
+	<game name="Millypede (1983)(Add On Electronics)(Tape 2 of 2)">
+		<description>Millypede (1983)(Add On Electronics)(Tape 2 of 2)</description>
+		<rom name="Millypede (1983)(Add On Electronics)(Tape 2 of 2).wav" size="3614386" crc="6da838a5" md5="ecb8abd72c395df43eb07ffb0340f0bc" sha1="b088064b64582726a0ec722268a4fbb233ec87bc"/>
+	</game>
+</datafile>

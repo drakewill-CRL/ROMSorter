@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Altos Computer Systems Series 5 - Firmware</name>
+		<description>Altos Computer Systems Series 5 - Firmware (TOSEC-v2017-04-12)</description>
+		<category>TOSEC</category>
+		<version>2017-04-12</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Altos 5-15 Monitor Version 7.02 (198x)(Altos Computer Systems)">
+		<description>Altos 5-15 Monitor Version 7.02 (198x)(Altos Computer Systems)</description>
+		<rom name="Altos 5-15 Monitor Version 7.02 (198x)(Altos Computer Systems).bin" size="4096" crc="15fdc7eb" md5="acad9900397b58cac2c26072c131e220" sha1="e15bdf5d5414ad56f8c4bb84edc6f967a5f01ba9"/>
+	</game>
+	<game name="NatSemi DM74S474 - Signetics N82S141 TTL PROM (198x)(-)">
+		<description>NatSemi DM74S474 - Signetics N82S141 TTL PROM (198x)(-)</description>
+		<rom name="NatSemi DM74S474 - Signetics N82S141 TTL PROM (198x)(-).bin" size="512" crc="35c8078c" md5="f581bf7a0ecc1f8400915b77f42ff5f4" sha1="dce24374bfcc5d23959e2c03485d82a119c0c3c9"/>
+	</game>
+</datafile>

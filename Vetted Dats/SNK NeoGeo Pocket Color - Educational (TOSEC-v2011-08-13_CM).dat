@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>SNK Neo-Geo Pocket Color - Educational</name>
+		<description>SNK Neo-Geo Pocket Color - Educational (TOSEC-v2011-08-13)</description>
+		<category>TOSEC</category>
+		<version>2011-08-13</version>
+		<author>Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Mezase! Kanji Ou (2000)(SNK)(JP)">
+		<description>Mezase! Kanji Ou (2000)(SNK)(JP)</description>
+		<rom name="Mezase! Kanji Ou (2000)(SNK)(JP).bin" size="2097152" crc="c3c9992e" md5="84c3fc57deb3573b742a495753bb2926" sha1="2e6c314a7915ed2f0e2471814790f257b470a499"/>
+	</game>
+</datafile>

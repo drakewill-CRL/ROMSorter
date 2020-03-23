@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore BX256-80HP - Applications</name>
+		<description>Commodore BX256-80HP - Applications (TOSEC-v2018-03-08)</description>
+		<category>TOSEC</category>
+		<version>2018-03-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="CPM-86 CBASIC (198x)(-)">
+		<description>CPM-86 CBASIC (198x)(-)</description>
+		<rom name="CPM-86 CBASIC (198x)(-).d80" size="533248" crc="4d0097b9" md5="5cb35cbdc9eef4b45ac15af4df718395" sha1="98154042a9b56e0c1db38b76d133d4984909577e"/>
+	</game>
+	<game name="CPM-86 COBOL (198x)(-)">
+		<description>CPM-86 COBOL (198x)(-)</description>
+		<rom name="CPM-86 COBOL (198x)(-).d80" size="533248" crc="16269b4b" md5="add3ddb7c186e012396cca39bbc02882" sha1="9562b1b7ec9be9e4bbe8aa7b26c068379dde5101"/>
+	</game>
+	<game name="CPM-86 COBOL (198x)(-)[a]">
+		<description>CPM-86 COBOL (198x)(-)[a]</description>
+		<rom name="CPM-86 COBOL (198x)(-)[a].d80" size="533248" crc="441948c8" md5="5ad556b6ee98bdfedcb9441963f98a41" sha1="0816bd03a4246570381077bceccefb11347be028"/>
+	</game>
+	<game name="CPM-86 dBASE II (198x)(-)">
+		<description>CPM-86 dBASE II (198x)(-)</description>
+		<rom name="CPM-86 dBASE II (198x)(-).d80" size="533248" crc="f52f4c27" md5="cc55edfdf9cd29d90136c063aec59083" sha1="ee7cc2d05e0dcfd23b9ba8513aba09af84fb14e0"/>
+	</game>
+	<game name="CPM-86 PLI (198x)(-)(Disk 1 of 3)">
+		<description>CPM-86 PLI (198x)(-)(Disk 1 of 3)</description>
+		<rom name="CPM-86 PLI (198x)(-)(Disk 1 of 3).d80" size="533248" crc="c358ad18" md5="8e72f9563c5dab7d6b9bd3ce5a212ba0" sha1="c85964461e234f6ddcee6972a34b832624ab4e63"/>
+	</game>
+	<game name="CPM-86 PLI (198x)(-)(Disk 2 of 3)">
+		<description>CPM-86 PLI (198x)(-)(Disk 2 of 3)</description>
+		<rom name="CPM-86 PLI (198x)(-)(Disk 2 of 3).d80" size="533248" crc="47d3c489" md5="7abf5691e949c43f11d0a1c69256efaf" sha1="dc8bb9390bcb8ee9352aa2f1c7dfb452f9ef621e"/>
+	</game>
+	<game name="CPM-86 PLI (198x)(-)(Disk 2 of 3)[a]">
+		<description>CPM-86 PLI (198x)(-)(Disk 2 of 3)[a]</description>
+		<rom name="CPM-86 PLI (198x)(-)(Disk 2 of 3)[a].d80" size="533248" crc="4fcbbbe6" md5="772c01d1c4386e79c9815ad7bd325bdb" sha1="9b93ce20fc13b3774880a9c95c4d79d347907bc2"/>
+	</game>
+	<game name="CPM-86 PLI (198x)(-)(Disk 3 of 3)">
+		<description>CPM-86 PLI (198x)(-)(Disk 3 of 3)</description>
+		<rom name="CPM-86 PLI (198x)(-)(Disk 3 of 3).d80" size="533248" crc="8187b78c" md5="a81bb7e6a696d6b449986d42a634176f" sha1="23ace2f0b93989ac0afa91153272753e4defc44f"/>
+	</game>
+</datafile>

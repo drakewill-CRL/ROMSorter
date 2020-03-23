@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>PTC Sol Terminal Computer SOL-20 - Various - [COM]</name>
+		<description>PTC Sol Terminal Computer SOL-20 - Various - [COM] (TOSEC-v2011-08-31)</description>
+		<category>TOSEC</category>
+		<version>2011-08-31</version>
+		<author>Cid - Gnomula - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="CPM ASM File Converter (1979)(Digate, Tom)">
+		<description>CPM ASM File Converter (1979)(Digate, Tom)</description>
+		<rom name="CPM ASM File Converter (1979)(Digate, Tom).com" size="1280" crc="d9b432c1" md5="0e74a0b8d44820cbe3970abb67421f72" sha1="ecf359fe4016791a3305b738a76d3f721adceeea"/>
+	</game>
+	<game name="Deflection (19xx)(-)">
+		<description>Deflection (19xx)(-)</description>
+		<rom name="Deflection (19xx)(-).com" size="512" crc="03c6bd7c" md5="9c87c44b8d50cc9371e387d5c497ffb5" sha1="9ab0140a9f9a96446d6b6f523906e08fe3c8bfd9"/>
+	</game>
+	<game name="ED16 (1979)(Digital Research)">
+		<description>ED16 (1979)(Digital Research)</description>
+		<rom name="ED16 (1979)(Digital Research).com" size="6656" crc="037e2bd7" md5="a3938375b634250843b43e4c3ad9e116" sha1="e0886007ce627a7c0982183986fb077b40ee3341"/>
+	</game>
+	<game name="Floating Point Calculator (19xx)(Procesor Technology)">
+		<description>Floating Point Calculator (19xx)(Procesor Technology)</description>
+		<rom name="Floating Point Calculator (19xx)(Procesor Technology).com" size="3200" crc="424ddd45" md5="2c5aaae120bd4ac06efbf519f11e8687" sha1="e791ce37c43da6edaaa4266f50ec7ed6f965f0a7"/>
+	</game>
+	<game name="Game of Chase, The (19xx)(-)">
+		<description>Game of Chase, The (19xx)(-)</description>
+		<rom name="Game of Chase, The (19xx)(-).com" size="1664" crc="8509b37f" md5="d9cd3b960dd04ba58c6b80e11c931c0b" sha1="75403222745dccbeba063a09b9c37aa1b08b9c36"/>
+	</game>
+	<game name="Hampshire Colege 5k BASIC (19xx)(Zurk, Jeff)">
+		<description>Hampshire Colege 5k BASIC (19xx)(Zurk, Jeff)</description>
+		<rom name="Hampshire Colege 5k BASIC (19xx)(Zurk, Jeff).com" size="7552" crc="9222635b" md5="3b1b8688ceebb2d66b1533b391db8010" sha1="72c7e29e25ebeb3cbf6ce8da7c04ad2d0864433d"/>
+	</game>
+	<game name="Life 8 (1979)(-)">
+		<description>Life 8 (1979)(-)</description>
+		<rom name="Life 8 (1979)(-).com" size="3072" crc="567fa46c" md5="18f17727c1c053c9f0f2751b0e425d74" sha1="8a6126111162d2b8c8cf76abacaae4149c17dcb3"/>
+	</game>
+	<game name="Music System (1977)(Software Technology)">
+		<description>Music System (1977)(Software Technology)</description>
+		<rom name="Music System (1977)(Software Technology).com" size="1280" crc="dde3ef78" md5="188a1e9781ed555743a4d37ac102a054" sha1="328383aa1252525c894506bb3bc43f49132cef84"/>
+	</game>
+	<game name="North Star Copy v4.2 (1981)(-)">
+		<description>North Star Copy v4.2 (1981)(-)</description>
+		<rom name="North Star Copy v4.2 (1981)(-).com" size="3328" crc="94138c46" md5="fb61895283e6589b1f1faee643c8bddd" sha1="8395e116d4ee8917a7ffa8480d8b20da0951a017"/>
+	</game>
+	<game name="Pack (19xx)(-)">
+		<description>Pack (19xx)(-)</description>
+		<rom name="Pack (19xx)(-).com" size="8843" crc="4f2d0491" md5="31462fca5ccfbb4aa8f074d0be9ccc3e" sha1="cd660966b56b133869529f7d6b6ea54a3ce15c56"/>
+	</game>
+	<game name="Piranha (19xx)(-)">
+		<description>Piranha (19xx)(-)</description>
+		<rom name="Piranha (19xx)(-).com" size="1920" crc="85566a1c" md5="ccd34a8c45aec160f28707ad472bf076" sha1="71d411458420fc770558a71fbb6d32c1f471e95c"/>
+	</game>
+	<game name="Pong (19xx)(-)">
+		<description>Pong (19xx)(-)</description>
+		<rom name="Pong (19xx)(-).com" size="1024" crc="14f3d568" md5="f0ef94d7446376aa930f9fcb283fc18c" sha1="d4f1c6766eb1b8faf9a8bb56377b262d4e1bfb5f"/>
+	</game>
+	<game name="Robot (1978)(Byte)">
+		<description>Robot (1978)(Byte)</description>
+		<rom name="Robot (1978)(Byte).com" size="384" crc="2d650a9e" md5="42288426725cad4b77d1567919e55f3c" sha1="f036fbfb5a25c334b5d288d2710ce857b273ded3"/>
+	</game>
+	<game name="Spat v1.0 (19xx)(-)">
+		<description>Spat v1.0 (19xx)(-)</description>
+		<rom name="Spat v1.0 (19xx)(-).com" size="1152" crc="4a855d11" md5="387beb2dd41c542b3c3c5168651147da" sha1="0f59260ac17ffdbefebb940791dace839713e930"/>
+	</game>
+	<game name="Target (19xx)(-)">
+		<description>Target (19xx)(-)</description>
+		<rom name="Target (19xx)(-).com" size="384" crc="a2c38b12" md5="8772fb0d7d7712680e13611b22091eb9" sha1="11363c715e3fda1cd50b7652520b20d5a6c338f9"/>
+	</game>
+	<game name="Times Square (19xx)(-)">
+		<description>Times Square (19xx)(-)</description>
+		<rom name="Times Square (19xx)(-).com" size="640" crc="4f87dd11" md5="3e6777de46caf94f4ec2150375f6a0bd" sha1="2c53cd7d983ae9373fbb61e02d837499c0ec613c"/>
+	</game>
+	<game name="Unpack (19xx)(-)">
+		<description>Unpack (19xx)(-)</description>
+		<rom name="Unpack (19xx)(-).com" size="20281" crc="cbd2f7f8" md5="0f4807d2d9690314b17b90d7a44dd415" sha1="24c69e1a611f95bcd818806fe0a7e28aed36e750"/>
+	</game>
+	<game name="VDM Save (19xx)(Christensen, Ward)">
+		<description>VDM Save (19xx)(Christensen, Ward)</description>
+		<rom name="VDM Save (19xx)(Christensen, Ward).com" size="384" crc="6b622a0d" md5="19dfb21e65a60cc29b79cc23653acc43" sha1="396412be6a29eee7818bff209cc31a94458c79b6"/>
+	</game>
+	<game name="Zing (19xx)(-)">
+		<description>Zing (19xx)(-)</description>
+		<rom name="Zing (19xx)(-).com" size="10615" crc="9f0366d5" md5="111e21943fd0b4a97f4aeb067355d91c" sha1="3bcd4565c0a622746a5c43f9fba2f93f31bc4f21"/>
+	</game>
+</datafile>

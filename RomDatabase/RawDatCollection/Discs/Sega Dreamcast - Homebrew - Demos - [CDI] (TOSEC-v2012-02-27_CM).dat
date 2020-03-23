@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega Dreamcast - Homebrew - Demos - [CDI]</name>
+		<description>Sega Dreamcast - Homebrew - Demos - [CDI] (TOSEC-v2012-02-27)</description>
+		<category>TOSEC-ISO</category>
+		<version>2012-02-27</version>
+		<author>Snakemeat - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="DC Particlez v2.0 (2005-08-02)(GyroVorbis)(PD)">
+		<description>DC Particlez v2.0 (2005-08-02)(GyroVorbis)(PD)</description>
+		<rom name="DC Particlez v2.0 (2005-08-02)(GyroVorbis)(PD).cdi" size="2004688" crc="8930e46b" md5="6f767568fc811b729cb11e04b549a8e0" sha1="b379048647b558ff343cac0224cb990c128f2b4a"/>
+	</game>
+	<game name="Delicious (2001-08-05)(Yodel)(PD)">
+		<description>Delicious (2001-08-05)(Yodel)(PD)</description>
+		<rom name="Delicious (2001-08-05)(Yodel)(PD).cdi" size="60993864" crc="ff41a2de" md5="77c1f99381545b9628ce7d6910385b8f" sha1="ce6d143c812015f88e25c9c2afaa3ac76b72af0c"/>
+	</game>
+	<game name="Raytracement Killers (2005-03)(Speckdrumm)(PD)">
+		<description>Raytracement Killers (2005-03)(Speckdrumm)(PD)</description>
+		<rom name="Raytracement Killers (2005-03)(Speckdrumm)(PD).cdi" size="38110948" crc="df4e8d02" md5="71d3530958abf8532d4c88d059fc02ec" sha1="0de03f88e434ece04fb67203feb15260e2d0a439"/>
+	</game>
+	<game name="Reverie (2003-12-27)(Potter, Dan)(PD)">
+		<description>Reverie (2003-12-27)(Potter, Dan)(PD)</description>
+		<rom name="Reverie (2003-12-27)(Potter, Dan)(PD).cdi" size="8389539" crc="d10a306c" md5="417342448cff3ac033f495249f129adb" sha1="6856a9aa2d6a5c2a68b70fb99f208530ec5bbcb9"/>
+	</game>
+	<game name="Sanitized (2004-12-25)(Moonhazard)(PD)">
+		<description>Sanitized (2004-12-25)(Moonhazard)(PD)</description>
+		<rom name="Sanitized (2004-12-25)(Moonhazard)(PD).cdi" size="11648127" crc="105fd1d5" md5="13de87803a91666b64d94225e4f96f05" sha1="2460d086a1180b68d670254ba5e7a70c74fe5efd"/>
+	</game>
+	<game name="Sinus Experiment (2002-08-30)(Flare - Outbreak)(PD)">
+		<description>Sinus Experiment (2002-08-30)(Flare - Outbreak)(PD)</description>
+		<rom name="Sinus Experiment (2002-08-30)(Flare - Outbreak)(PD).cdi" size="2614885" crc="baea9dd3" md5="f4efdc638265caf38431b017c0fa83ef" sha1="17825059d2212203770b47bed1f29d91f3b529ad"/>
+	</game>
+	<game name="We Are Going to KILJU (2005-01)(Jumalauta)(PD)">
+		<description>We Are Going to KILJU (2005-01)(Jumalauta)(PD)</description>
+		<rom name="We Are Going to KILJU (2005-01)(Jumalauta)(PD).cdi" size="9629392" crc="dcbb045f" md5="f528acb94c413fc8d87fc30c28c6f976" sha1="b7278dc1d35b69fcca133cf221a902bdd2e5d028"/>
+	</game>
+</datafile>

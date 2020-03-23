@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Bally Professional Arcade &amp; Astrocade - Firmware</name>
+		<description>Bally Professional Arcade &amp; Astrocade - Firmware (TOSEC-v2017-09-03)</description>
+		<category>TOSEC</category>
+		<version>2017-09-03</version>
+		<author>Grendel - BuckyB - Cassiel - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Astrocade BIOS (1977)(Bally)">
+		<description>Astrocade BIOS (1977)(Bally)</description>
+		<rom name="Astrocade BIOS (1977)(Bally).bin" size="8192" crc="6eb53e79" md5="ddff78b44f8f67626f433f39afab290e" sha1="d84341feec1a0a0e8aa6151b649bc3cf6ef69fbf"/>
+	</game>
+	<game name="Bally Professional Arcade BIOS (1978)(Bally)">
+		<description>Bally Professional Arcade BIOS (1978)(Bally)</description>
+		<rom name="Bally Professional Arcade BIOS (1978)(Bally).bin" size="8192" crc="ebc77f3a" md5="7d25a26e5c4841b364cfe6b1735eaf03" sha1="b902c941997c9d150a560435bf517c6a28137ecc"/>
+	</game>
+	<game name="On-Board '3164' ROM (1977)(Bally)">
+		<description>On-Board '3164' ROM (1977)(Bally)</description>
+		<rom name="On-Board '3164' ROM (1977)(Bally).bin" size="8192" crc="d7c517ba" md5="0f8afdf4d2494e5f271499468a9b1a15" sha1="6b2bef5d970e54ed204549f58ba6d197a8bfd3cc"/>
+	</game>
+</datafile>

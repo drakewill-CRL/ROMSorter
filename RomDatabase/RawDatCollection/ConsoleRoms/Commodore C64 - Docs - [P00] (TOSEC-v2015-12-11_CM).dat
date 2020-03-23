@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Docs - [P00]</name>
+		<description>Commodore C64 - Docs - [P00] (TOSEC-v2015-12-11)</description>
+		<category>TOSEC</category>
+		<version>2015-12-11</version>
+		<author>Duncan Twain - DesertWolf</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Sex an der Haustuer (19xx)(-)(de)">
+		<description>Sex an der Haustuer (19xx)(-)(de)</description>
+		<rom name="Sex an der Haustuer (19xx)(-)(de).p00" size="20213" crc="e9785bec" md5="7bdcf85c253ea389642329d3431e2fa1" sha1="d658ad57ecfa83f39d09864d76294285201d1426"/>
+	</game>
+	<game name="Velnor&apos;s Lair instructions (19xx)(-)">
+		<description>Velnor&apos;s Lair instructions (19xx)(-)</description>
+		<rom name="Velnor&apos;s Lair instructions (19xx)(-).p00" size="11413" crc="100ffd10" md5="fd2ade52d3ca0cb31302aa62e5e631cc" sha1="a91d6ce111d083b7891158881a09b6f1c46ae872"/>
+	</game>
+</datafile>

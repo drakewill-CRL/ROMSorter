@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C128 - Applications - CPM - [D71]</name>
+		<description>Commodore C128 - Applications - CPM - [D71] (TOSEC-v2018-09-22)</description>
+		<category>TOSEC</category>
+		<version>2018-09-22</version>
+		<author>Duncan Twain - Tomse</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="BusyPack 128 ╪konomisystem (1985)(DSC)(Disk 1 of 3)[Opstartsdiskette]">
+		<description>BusyPack 128 ╪konomisystem (1985)(DSC)(Disk 1 of 3)[Opstartsdiskette]</description>
+		<rom name="BusyPack 128 ╪konomisystem (1985)(DSC)(Disk 1 of 3)[Opstartsdiskette].d71" size="349696" crc="9d0c67c8" md5="2079b68ff963a4676a5017e9cefc59e9" sha1="7466711da10fd2dd3ab7e13ccb16ad96feacec05"/>
+	</game>
+	<game name="BusyPack 128 ╪konomisystem (1985)(DSC)(Disk 2 of 3)[Programdiskette]">
+		<description>BusyPack 128 ╪konomisystem (1985)(DSC)(Disk 2 of 3)[Programdiskette]</description>
+		<rom name="BusyPack 128 ╪konomisystem (1985)(DSC)(Disk 2 of 3)[Programdiskette].d71" size="349696" crc="2da235bf" md5="518db7a0212296134091e99fb988c0ba" sha1="39851a6b8ff9efd736d42419274f40df8524a807"/>
+	</game>
+	<game name="BusyPack 128 ╪konomisystem (1985)(DSC)(Disk 3 of 3)[Datadiskette]">
+		<description>BusyPack 128 ╪konomisystem (1985)(DSC)(Disk 3 of 3)[Datadiskette]</description>
+		<rom name="BusyPack 128 ╪konomisystem (1985)(DSC)(Disk 3 of 3)[Datadiskette].d71" size="349696" crc="67c35f39" md5="cf8dda6f576bd447d6dd094c43638045" sha1="ba111f46b5d75d5d1c7686365c702af600dd138a"/>
+	</game>
+	<game name="Summary Disk of PD Software (19xx)(-)(nl)">
+		<description>Summary Disk of PD Software (19xx)(-)(nl)</description>
+		<rom name="Summary Disk of PD Software (19xx)(-)(nl).d71" size="349696" crc="821d50b0" md5="6366a4f40f97017993530fb7952466c5" sha1="551df0a9672a1bf7bd17da360e5d254732abb461"/>
+	</game>
+	<game name="Wordstar r3.00 (1981)(MicroPro)(nl)[80 column][autoboot]">
+		<description>Wordstar r3.00 (1981)(MicroPro)(nl)[80 column][autoboot]</description>
+		<rom name="Wordstar r3.00 (1981)(MicroPro)(nl)[80 column][autoboot].d71" size="349696" crc="996f21d1" md5="ee4bf45b42e4d2eabde7f8356a3efecb" sha1="20166292539a7555986cb44278eec2ab12750f3a"/>
+	</game>
+	<game name="Wordstar r3.00-2 (1981)(MicroPro)(de)[80 column][req cpm]">
+		<description>Wordstar r3.00-2 (1981)(MicroPro)(de)[80 column][req cpm]</description>
+		<rom name="Wordstar r3.00-2 (1981)(MicroPro)(de)[80 column][req cpm].d71" size="349696" crc="217dad8a" md5="c61c3c3a19b11ba1b717dcde71df558d" sha1="38cf9951f41ad9e5bb9cb3a6fed905bfced5ef1b"/>
+	</game>
+</datafile>

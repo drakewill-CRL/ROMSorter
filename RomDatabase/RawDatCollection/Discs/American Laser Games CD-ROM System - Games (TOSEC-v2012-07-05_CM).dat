@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>American Laser Games CD-ROM System - Games</name>
+		<description>American Laser Games CD-ROM System - Games (TOSEC-v2012-07-05)</description>
+		<category>TOSEC-ISO</category>
+		<version>2012-07-05</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Mad Dog II - The Lost Gold (1994)(American Laser Games)(US)">
+		<description>Mad Dog II - The Lost Gold (1994)(American Laser Games)(US)</description>
+		<rom name="Mad Dog II - The Lost Gold (1994)(American Laser Games)(US).cue" size="148" crc="67710acd" md5="9f057807854636c93bce7744b8bc8cb9" sha1="1445efc0197077232f625d61813b617d08d59315"/>
+		<rom name="Mad Dog II - The Lost Gold (1994)(American Laser Games)(US).iso" size="564006912" crc="ca019852" md5="9d65ad666799e63910c2b8277275f454" sha1="10d3fb3b00ef62939da29db1ac5752e89e765833"/>
+	</game>
+	<game name="Shootout at Old Tucson (1994)(American Laser Games)(US)">
+		<description>Shootout at Old Tucson (1994)(American Laser Games)(US)</description>
+		<rom name="Shootout at Old Tucson (1994)(American Laser Games)(US).cue" size="144" crc="56a46a21" md5="e85362738515fd00e08d354f07aebae1" sha1="bd95cf7ddcfe420aca30ae8962bc3ccb05055df9"/>
+		<rom name="Shootout at Old Tucson (1994)(American Laser Games)(US).iso" size="126750720" crc="b9abb2df" md5="cd280073fa5ad0d2c9d5935b4321540b" sha1="c07e99ca896df2e84120daa51e4a710ef422693d"/>
+	</game>
+</datafile>

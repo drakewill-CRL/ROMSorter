@@ -1,0 +1,2031 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Coleco ColecoVision - Games</name>
+		<description>Coleco ColecoVision - Games (TOSEC-v2015-05-07)</description>
+		<category>TOSEC</category>
+		<version>2015-05-07</version>
+		<author>Aral - Grendel - Cid - Cassiel - Ikrananka</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="2010 - The Graphic Action Game (1984)(Coleco)">
+		<description>2010 - The Graphic Action Game (1984)(Coleco)</description>
+		<rom name="2010 - The Graphic Action Game (1984)(Coleco).bin" size="32768" crc="c575a831" md5="0dfb83c1353481d297dfcc6123978533" sha1="b1621d39a2a6d1cda7eceb882a612a4baf3da70c"/>
+	</game>
+	<game name="2010 - The Graphic Action Game v54 (1984-09-11)(Coleco)(beta)">
+		<description>2010 - The Graphic Action Game v54 (1984-09-11)(Coleco)(beta)</description>
+		<rom name="2010 - The Graphic Action Game v54 (1984-09-11)(Coleco)(beta).bin" size="32768" crc="3657f3cd" md5="5a19ede183558b22bba0d3dd3e7b3122" sha1="bebedac4df5348e91122972fcc4259a7d1f7fc0f"/>
+	</game>
+	<game name="Air Battle v0.4 (2000)(Bienvenu, Daniel)(PD)">
+		<description>Air Battle v0.4 (2000)(Bienvenu, Daniel)(PD)</description>
+		<rom name="Air Battle v0.4 (2000)(Bienvenu, Daniel)(PD).bin" size="23808" crc="7c66aba6" md5="69808d9e1879b8bafd729b465b64b701" sha1="b3f191439440e9682183e703f9018f29fd1355f0"/>
+	</game>
+	<game name="Alcazar - The Forgotten Fortress (1985)(Telegames)">
+		<description>Alcazar - The Forgotten Fortress (1985)(Telegames)</description>
+		<rom name="Alcazar - The Forgotten Fortress (1985)(Telegames).bin" size="16384" crc="fce3aa06" md5="803914bbde6822ebf113d5b1d1cf7011" sha1="c3a820e6a73ef42dc88982d835c60c36b4b9505f"/>
+	</game>
+	<game name="Alcazar - The Forgotten Fortress (1985)(Telegames)[b2]">
+		<description>Alcazar - The Forgotten Fortress (1985)(Telegames)[b2]</description>
+		<rom name="Alcazar - The Forgotten Fortress (1985)(Telegames)[b2].bin" size="32768" crc="52b61431" md5="0022f03db208a79f00968e6709d0a150" sha1="5935266be6c77ca977c9e55cf0426da9471ecd90"/>
+	</game>
+	<game name="Alcazar - The Forgotten Fortress (1985)(Telegames)[b]">
+		<description>Alcazar - The Forgotten Fortress (1985)(Telegames)[b]</description>
+		<rom name="Alcazar - The Forgotten Fortress (1985)(Telegames)[b].bin" size="16384" crc="9cc3fabc" md5="48cf5b1ebbad828467eda47f2c5c5046" sha1="1582cbb23eb5464bd6b9dfdbeb0b161ec90af60a"/>
+	</game>
+	<game name="Amazing Snake (2000)(Tremblay, Serge-Eric)(PD)">
+		<description>Amazing Snake (2000)(Tremblay, Serge-Eric)(PD)</description>
+		<rom name="Amazing Snake (2000)(Tremblay, Serge-Eric)(PD).bin" size="19200" crc="7da41b23" md5="0261934725db17b448fda837cb01a224" sha1="c48a3f431a67390dd192fa7fa6a2b1234fc13aae"/>
+	</game>
+	<game name="Amazing Snake v0.4 (2000)(Tremblay, Serge-Eric)(PD)">
+		<description>Amazing Snake v0.4 (2000)(Tremblay, Serge-Eric)(PD)</description>
+		<rom name="Amazing Snake v0.4 (2000)(Tremblay, Serge-Eric)(PD).bin" size="29952" crc="af01e7dd" md5="b6ae584b2ba8135176fcb89e61d837b3" sha1="fb96ff8782af183fd0d02d36386f96a8a26b0411"/>
+	</game>
+	<game name="Amazing Snake v0.5 (2000)(Tremblay, Serge-Eric)(PD)">
+		<description>Amazing Snake v0.5 (2000)(Tremblay, Serge-Eric)(PD)</description>
+		<rom name="Amazing Snake v0.5 (2000)(Tremblay, Serge-Eric)(PD).bin" size="31744" crc="5ba1a6c8" md5="6752856c1228e49b8274a9614c126243" sha1="63c142fe44ad21453740a6fb524c3777704a466b"/>
+	</game>
+	<game name="Antarctic Adventure (1984)(Coleco - Konami)">
+		<description>Antarctic Adventure (1984)(Coleco - Konami)</description>
+		<rom name="Antarctic Adventure (1984)(Coleco - Konami).bin" size="16384" crc="275c800e" md5="1ea45edc04bc4df444a38e50f8a75d5d" sha1="00db7cf9bd66aecac3d9368dd205680781b2e542"/>
+	</game>
+	<game name="Antarctic Adventure (1984)(Coleco - Konami)(beta)">
+		<description>Antarctic Adventure (1984)(Coleco - Konami)(beta)</description>
+		<rom name="Antarctic Adventure (1984)(Coleco - Konami)(beta).bin" size="16384" crc="a66e5ed1" md5="2aa54fb66f8764841be2e59d41fecb2d" sha1="be8a7df4f3e1e1001785eb2326c26b4c301b4dbe"/>
+	</game>
+	<game name="Aquattack (1984)(Interphase)">
+		<description>Aquattack (1984)(Interphase)</description>
+		<rom name="Aquattack (1984)(Interphase).bin" size="16384" crc="947437ec" md5="c152cd482635307598c465dfc3c97c54" sha1="4782f1d6225d9b6501a9ab1ab72f9e66f3ff66d8"/>
+	</game>
+	<game name="Aquattack (1984)(Interphase)[b]">
+		<description>Aquattack (1984)(Interphase)[b]</description>
+		<rom name="Aquattack (1984)(Interphase)[b].bin" size="16384" crc="275a7013" md5="28f9a15d22e302ef1e293f8d9f65c7dd" sha1="76627fe3a0bbeca4f4cafd3427182eb8700e7677"/>
+	</game>
+	<game name="Artillery Duel (1983)(Xonox)">
+		<description>Artillery Duel (1983)(Xonox)</description>
+		<rom name="Artillery Duel (1983)(Xonox).bin" size="16384" crc="6f88fcf0" md5="fabbbf6dfcb0628fa33b476750a492f8" sha1="a2494b1ade772fe45779bd500139ff847dfe7afa"/>
+	</game>
+	<game name="Artillery Duel (1983)(Xonox)[b]">
+		<description>Artillery Duel (1983)(Xonox)[b]</description>
+		<rom name="Artillery Duel (1983)(Xonox)[b].bin" size="16384" crc="adfa09e2" md5="4c0a35ec646d092ffbca54b8dac1e364" sha1="2233e9099561bfd4ece10ff5884782f0e31d0ea1"/>
+	</game>
+	<game name="Bankruptcy Builder v20080515 (2008)(Krause, Philipp Klaus)(PD)">
+		<description>Bankruptcy Builder v20080515 (2008)(Krause, Philipp Klaus)(PD)</description>
+		<rom name="Bankruptcy Builder v20080515 (2008)(Krause, Philipp Klaus)(PD).bin" size="18805" crc="5e2e0227" md5="6243e6678d61528ec551c9b29f6a27e5" sha1="f3a8887709bb8dce98e62c381cfccfc801053362"/>
+	</game>
+	<game name="Bankruptcy Builder v20080517 (2008)(Krause, Philipp Klaus)(PD)">
+		<description>Bankruptcy Builder v20080517 (2008)(Krause, Philipp Klaus)(PD)</description>
+		<rom name="Bankruptcy Builder v20080517 (2008)(Krause, Philipp Klaus)(PD).bin" size="18752" crc="b2d0aaca" md5="b751c4a3a83db819b848db3bad740b34" sha1="9c74c597eac815b0bb16f58b584b916cd736964c"/>
+	</game>
+	<game name="Bankruptcy Builder v20080518 (2008)(Krause, Philipp Klaus)(PD)">
+		<description>Bankruptcy Builder v20080518 (2008)(Krause, Philipp Klaus)(PD)</description>
+		<rom name="Bankruptcy Builder v20080518 (2008)(Krause, Philipp Klaus)(PD).bin" size="18758" crc="2c1ac5a4" md5="68dad1a4e995c6a390dc1c73f063de35" sha1="b749d24bad5afd41b864d57735039aea58c57e15"/>
+	</game>
+	<game name="Bankruptcy Builder v20080520 (2008)(Krause, Philipp Klaus)(PD)">
+		<description>Bankruptcy Builder v20080520 (2008)(Krause, Philipp Klaus)(PD)</description>
+		<rom name="Bankruptcy Builder v20080520 (2008)(Krause, Philipp Klaus)(PD).bin" size="26878" crc="25112f05" md5="1dd24cf3259af5f8fa44ca3a1266b51a" sha1="a797b4b2a7df9562e32c902ab6a1f89b7ffee3c8"/>
+	</game>
+	<game name="BC's Quest for Tires (1983)(Sierra On-Line - Sydney)">
+		<description>BC's Quest for Tires (1983)(Sierra On-Line - Sydney)</description>
+		<rom name="BC's Quest for Tires (1983)(Sierra On-Line - Sydney).bin" size="16384" crc="4359a3e5" md5="737c5247b06a7af4f9c59f46791f3bc2" sha1="683973d7e24cb0383132acf2562d3ebef739018f"/>
+	</game>
+	<game name="BC's Quest for Tires (1983)(Sierra On-Line - Sydney)(CA)">
+		<description>BC's Quest for Tires (1983)(Sierra On-Line - Sydney)(CA)</description>
+		<rom name="BC's Quest for Tires (1983)(Sierra On-Line - Sydney)(CA).bin" size="16384" crc="0ae39f2c" md5="a1fa161de97e6084691f3bc6f5f46f55" sha1="05ffcf0c84381fa26f504cb163b25a8670c6c4ac"/>
+	</game>
+	<game name="BC's Quest for Tires (1983)(Sierra On-Line - Sydney)[b]">
+		<description>BC's Quest for Tires (1983)(Sierra On-Line - Sydney)[b]</description>
+		<rom name="BC's Quest for Tires (1983)(Sierra On-Line - Sydney)[b].bin" size="16384" crc="d07d5e97" md5="b5f00edf8e8f58f9e2f607e013fb4396" sha1="96a24aacd2de6fd3e5553509d341389091830c2f"/>
+	</game>
+	<game name="BC's Quest for Tires II - Grog's Revenge (1984)(Coleco - Sydney)">
+		<description>BC's Quest for Tires II - Grog's Revenge (1984)(Coleco - Sydney)</description>
+		<rom name="BC's Quest for Tires II - Grog's Revenge (1984)(Coleco - Sydney).bin" size="24576" crc="d464e5e4" md5="a67908b20a85451a47154bdbcf0cd4fd" sha1="57b145e2b88e29c6284754d3da16e1cffbab38a5"/>
+	</game>
+	<game name="BC's Quest for Tires II - Grog's Revenge (1984)(Coleco - Sydney)(CA)">
+		<description>BC's Quest for Tires II - Grog's Revenge (1984)(Coleco - Sydney)(CA)</description>
+		<rom name="BC's Quest for Tires II - Grog's Revenge (1984)(Coleco - Sydney)(CA).bin" size="24576" crc="1ca853d5" md5="dcc316df4898d4836c1e430692fd9fd5" sha1="6c7c8cd782eb5a27dc5224679d4563978cb3280c"/>
+	</game>
+	<game name="BC's Quest for Tires II - Grog's Revenge (1984)(Coleco - Sydney)[b2]">
+		<description>BC's Quest for Tires II - Grog's Revenge (1984)(Coleco - Sydney)[b2]</description>
+		<rom name="BC's Quest for Tires II - Grog's Revenge (1984)(Coleco - Sydney)[b2].bin" size="32768" crc="ca7fe4ce" md5="735a95a53777cb2f83a4986feda78d69" sha1="f95e3e05818be44f792d24a93fd27e0a9f542de5"/>
+	</game>
+	<game name="BC's Quest for Tires II - Grog's Revenge (1984)(Coleco - Sydney)[b3]">
+		<description>BC's Quest for Tires II - Grog's Revenge (1984)(Coleco - Sydney)[b3]</description>
+		<rom name="BC's Quest for Tires II - Grog's Revenge (1984)(Coleco - Sydney)[b3].bin" size="24576" crc="9ebe5d98" md5="1451f43a27b7776dbfe7b43516ac6670" sha1="9fdd739a05f496837946f42c3ef08ebe7df142dc"/>
+	</game>
+	<game name="BC's Quest for Tires II - Grog's Revenge (1984)(Coleco - Sydney)[b]">
+		<description>BC's Quest for Tires II - Grog's Revenge (1984)(Coleco - Sydney)[b]</description>
+		<rom name="BC's Quest for Tires II - Grog's Revenge (1984)(Coleco - Sydney)[b].bin" size="32768" crc="0ea6a6fc" md5="511c6eea2b633f03641ba506dd81a732" sha1="8a059d608adf892f3b13e99fb0ab8a10be745380"/>
+	</game>
+	<game name="Beamrider (1983)(Activision)">
+		<description>Beamrider (1983)(Activision)</description>
+		<rom name="Beamrider (1983)(Activision).bin" size="16384" crc="7a93c6e5" md5="b3949ef4ab2b65224d5011c49b755d96" sha1="9e18d51855b721298cc4efad0786df65e8ed6fd7"/>
+	</game>
+	<game name="Beamrider (1983)(Activision)[b]">
+		<description>Beamrider (1983)(Activision)[b]</description>
+		<rom name="Beamrider (1983)(Activision)[b].bin" size="16384" crc="2e8e9d42" md5="05784ff95d122cb28eb8c37ec81a52a1" sha1="a79edccdfb5bae973848003b3905d968d18fae9d"/>
+	</game>
+	<game name="Bejeweled! (2002)(Bienvenu, Daniel)(PD)">
+		<description>Bejeweled! (2002)(Bienvenu, Daniel)(PD)</description>
+		<rom name="Bejeweled! (2002)(Bienvenu, Daniel)(PD).bin" size="25728" crc="39c5a7e9" md5="d4de9cddf1ee32bea6f407ced643cbf7" sha1="c3b69fee94bd036b98c8194efc6178169575a659"/>
+	</game>
+	<game name="Bejeweled! v2001 (2001)(Bienvenu, Daniel)(PD)">
+		<description>Bejeweled! v2001 (2001)(Bienvenu, Daniel)(PD)</description>
+		<rom name="Bejeweled! v2001 (2001)(Bienvenu, Daniel)(PD).bin" size="16640" crc="1ba0688f" md5="2054feade750aab77e45dac93e872c12" sha1="031dc3902f6880e3b6ca043c74de6ba1f306237c"/>
+	</game>
+	<game name="Bejeweled! v20020223 (2002)(Bienvenu, Daniel)(PD)">
+		<description>Bejeweled! v20020223 (2002)(Bienvenu, Daniel)(PD)</description>
+		<rom name="Bejeweled! v20020223 (2002)(Bienvenu, Daniel)(PD).bin" size="17024" crc="2df087f4" md5="53141087e6333d8191d7d2fcd8039df5" sha1="ec3cc0c5fad076d6afac5e5d6fb502d4b0d1ae9d"/>
+	</game>
+	<game name="Bejeweled! v20020315 (2002)(Bienvenu, Daniel)(PD)">
+		<description>Bejeweled! v20020315 (2002)(Bienvenu, Daniel)(PD)</description>
+		<rom name="Bejeweled! v20020315 (2002)(Bienvenu, Daniel)(PD).bin" size="25216" crc="fc8bb7ba" md5="0547376eb6ef6e9ac81b1439ea19cd6c" sha1="f2da85cfe938ef91a886cac560d0d0b77f5298b8"/>
+	</game>
+	<game name="Berenstain Bears, The (1984)(Coleco)(proto)">
+		<description>Berenstain Bears, The (1984)(Coleco)(proto)</description>
+		<rom name="Berenstain Bears, The (1984)(Coleco)(proto).bin" size="8192" crc="18864abc" md5="d13b965a8be5c366e80b8c508f849cc5" sha1="cb68d5a70ca0567060eddfd0b7783cbeeffb399e"/>
+	</game>
+	<game name="Beyond Terra (2007)(Huggins, Scott)(PD)">
+		<description>Beyond Terra (2007)(Huggins, Scott)(PD)</description>
+		<rom name="Beyond Terra (2007)(Huggins, Scott)(PD).bin" size="13952" crc="e7b36107" md5="28ed13aa720eee1e5e37131ef4f45b4a" sha1="36862db51366a97a7b23563f50ec57f09762b313"/>
+	</game>
+	<game name="Black Onyx v001 (2007)(Tomlin, Bruce)(PD)">
+		<description>Black Onyx v001 (2007)(Tomlin, Bruce)(PD)</description>
+		<rom name="Black Onyx v001 (2007)(Tomlin, Bruce)(PD).bin" size="32612" crc="2717bdc0" md5="8130d22eacf15535613d21fae967808c" sha1="751477c5fcf419e206913ec0c91f61287cf6fe0a"/>
+	</game>
+	<game name="Black Onyx v002 (2007)(Tomlin, Bruce)(PD)">
+		<description>Black Onyx v002 (2007)(Tomlin, Bruce)(PD)</description>
+		<rom name="Black Onyx v002 (2007)(Tomlin, Bruce)(PD).bin" size="32725" crc="e438ead2" md5="0d6301521491929334b6bcf27b1493b9" sha1="a711d2e4edea4ddd6eb1edbb5edb42b65820a3f3"/>
+	</game>
+	<game name="Black Onyx v003 (2007)(Tomlin, Bruce)(PD)">
+		<description>Black Onyx v003 (2007)(Tomlin, Bruce)(PD)</description>
+		<rom name="Black Onyx v003 (2007)(Tomlin, Bruce)(PD).bin" size="32633" crc="f60a1c7f" md5="fb4676ead0b5e216f0d8d01a0c593b66" sha1="88f4d23528dfb05e9a06201016360cc495407578"/>
+	</game>
+	<game name="Black Onyx v004 (2007)(Tomlin, Bruce)(PD)">
+		<description>Black Onyx v004 (2007)(Tomlin, Bruce)(PD)</description>
+		<rom name="Black Onyx v004 (2007)(Tomlin, Bruce)(PD).bin" size="32266" crc="d6373e43" md5="50e6fefb6fe9e85d06b6f4d36275626c" sha1="f312f15f1f63167060960604b38d73a605892ff0"/>
+	</game>
+	<game name="Black Onyx v005 (2007)(Tomlin, Bruce)(PD)">
+		<description>Black Onyx v005 (2007)(Tomlin, Bruce)(PD)</description>
+		<rom name="Black Onyx v005 (2007)(Tomlin, Bruce)(PD).bin" size="32256" crc="73894bc6" md5="2a4eeaf3a150c2542ec57a34e5635e70" sha1="f5cad21a2b0f9e4700d2d5d89b0e6fd47daa8d55"/>
+	</game>
+	<game name="Black Onyx v006 (2007)(Tomlin, Bruce)(PD)">
+		<description>Black Onyx v006 (2007)(Tomlin, Bruce)(PD)</description>
+		<rom name="Black Onyx v006 (2007)(Tomlin, Bruce)(PD).bin" size="32240" crc="15196438" md5="c06caf966a417bce1b11ffc46e713548" sha1="fc2b2003bcec3ef388f28f615f8d82e583edf951"/>
+	</game>
+	<game name="Blockade Runner (1984)(Interphase)">
+		<description>Blockade Runner (1984)(Interphase)</description>
+		<rom name="Blockade Runner (1984)(Interphase).bin" size="16384" crc="df65fc87" md5="93d5326c54f1a92a18e843838aee441f" sha1="28fc9bf517bce3d901c61d6fd1e297d2af421c70"/>
+	</game>
+	<game name="Blockade Runner (1984)(Interphase)[b]">
+		<description>Blockade Runner (1984)(Interphase)[b]</description>
+		<rom name="Blockade Runner (1984)(Interphase)[b].bin" size="16384" crc="da29c284" md5="108318eb89a2f11531086270970a5039" sha1="09fc6bd4cfba5664b45cb89e2daa7e3bc3f50c4b"/>
+	</game>
+	<game name="Boulder Dash (1984)(Micro Lab)(beta)">
+		<description>Boulder Dash (1984)(Micro Lab)(beta)</description>
+		<rom name="Boulder Dash (1984)(Micro Lab)(beta).bin" size="16384" crc="1796de5e" md5="ceff12f5d453cc60b6f4441b9042eac0" sha1="ad266ca4d270ea35def306381eaf05d36c811218"/>
+	</game>
+	<game name="Boulder Dash (1984)(Micro Lab)(beta)[h 50 Lives]">
+		<description>Boulder Dash (1984)(Micro Lab)(beta)[h 50 Lives]</description>
+		<rom name="Boulder Dash (1984)(Micro Lab)(beta)[h 50 Lives].bin" size="16384" crc="6e5c4b11" md5="42ea621b2b56f99c25b17e2e6adb00af" sha1="0d10fd3589a87a941d174aa8ce885335aa87a2d6"/>
+	</game>
+	<game name="Boulder Dash (1984)(Micro Lab)(beta)[h 9 Lives]">
+		<description>Boulder Dash (1984)(Micro Lab)(beta)[h 9 Lives]</description>
+		<rom name="Boulder Dash (1984)(Micro Lab)(beta)[h 9 Lives].bin" size="16384" crc="5933ac18" md5="30c06059438828a2a33034f9e110a9cc" sha1="21189984d766d8703934051507d14782aab9b854"/>
+	</game>
+	<game name="Boulder Dash (1987)(Micro Lab - Telegames)">
+		<description>Boulder Dash (1987)(Micro Lab - Telegames)</description>
+		<rom name="Boulder Dash (1987)(Micro Lab - Telegames).bin" size="16384" crc="9b547ba8" md5="ff055f329760980900bbe2f973a9ece6" sha1="bad7a976f37df875f4fa9646e5426c45344ec102"/>
+	</game>
+	<game name="Breakout (1999)(Bienvenu, Daniel)(fr)(PD)">
+		<description>Breakout (1999)(Bienvenu, Daniel)(fr)(PD)</description>
+		<rom name="Breakout (1999)(Bienvenu, Daniel)(fr)(PD).bin" size="13696" crc="b05fb3ec" md5="5556e14cfd72dae9de4e9201d269e1cc" sha1="2b25dc2ea0e2791662209537590886598b7ec85c"/>
+	</game>
+	<game name="Breakout Paddle (2001)(Bienvenu, Daniel)(PD)">
+		<description>Breakout Paddle (2001)(Bienvenu, Daniel)(PD)</description>
+		<rom name="Breakout Paddle (2001)(Bienvenu, Daniel)(PD).bin" size="9600" crc="8fd90a28" md5="175948d25c41d5239eb46cec89df1044" sha1="961ab8b825f4a091fd90d0e8f65e722b139833c9"/>
+	</game>
+	<game name="Buck Rogers - Planet of Zoom (1983)(Coleco)">
+		<description>Buck Rogers - Planet of Zoom (1983)(Coleco)</description>
+		<rom name="Buck Rogers - Planet of Zoom (1983)(Coleco).bin" size="24576" crc="00b37475" md5="d032d6e0a34d427f7885e88d308f8d92" sha1="2e1fa3bc105b0fd8d10a5195fed63b9cb2773444"/>
+	</game>
+	<game name="Buck Rogers - Planet of Zoom (1983)(Coleco)[b2]">
+		<description>Buck Rogers - Planet of Zoom (1983)(Coleco)[b2]</description>
+		<rom name="Buck Rogers - Planet of Zoom (1983)(Coleco)[b2].bin" size="24576" crc="1baf661e" md5="f2065decc9dabc889c6c59d4cc536143" sha1="6f922d5750077efdb14cdcfb0fb6f6f53559e1b9"/>
+	</game>
+	<game name="Buck Rogers - Planet of Zoom (1983)(Coleco)[b]">
+		<description>Buck Rogers - Planet of Zoom (1983)(Coleco)[b]</description>
+		<rom name="Buck Rogers - Planet of Zoom (1983)(Coleco)[b].bin" size="32768" crc="2e63d09e" md5="51148599610f40d9db2c534a72571696" sha1="27402f01f9c558d1c1e2a41d0038416271e0377f"/>
+	</game>
+	<game name="Bump 'n' Jump (1984)(Coleco - Mattel)">
+		<description>Bump 'n' Jump (1984)(Coleco - Mattel)</description>
+		<rom name="Bump 'n' Jump (1984)(Coleco - Mattel).bin" size="20480" crc="9e1fab59" md5="d365cf7b774679842a9f99953b97ab0a" sha1="8df20c9c151b01b0d859c0ab4753d5cce3956224"/>
+	</game>
+	<game name="Bump 'n' Jump (1984)(Coleco - Mattel)(beta)">
+		<description>Bump 'n' Jump (1984)(Coleco - Mattel)(beta)</description>
+		<rom name="Bump 'n' Jump (1984)(Coleco - Mattel)(beta).bin" size="16384" crc="eb498f97" md5="19098349768ea68a2c9f3d711369970a" sha1="158f666aac5cf48c77b62beb77310a45f6c7e2ea"/>
+	</game>
+	<game name="Bump 'n' Jump (1984)(Coleco - Mattel)[b]">
+		<description>Bump 'n' Jump (1984)(Coleco - Mattel)[b]</description>
+		<rom name="Bump 'n' Jump (1984)(Coleco - Mattel)[b].bin" size="24576" crc="002b22d4" md5="45548d960e081445560fa492a675e457" sha1="efeb5031064061e2f02eb442ff0857fa21ee042d"/>
+	</game>
+	<game name="Bunny (2007)(Bienvenu, Daniel)(PD)">
+		<description>Bunny (2007)(Bienvenu, Daniel)(PD)</description>
+		<rom name="Bunny (2007)(Bienvenu, Daniel)(PD).bin" size="4096" crc="fd27e856" md5="a7a0f0c82b04db1cc4315ea89b50ab53" sha1="7cdb1b050f3ef25ab048ee1d64e99f1c5493fbea"/>
+	</game>
+	<game name="Bunny (2007)(Bienvenu, Daniel)(PD)[a]">
+		<description>Bunny (2007)(Bienvenu, Daniel)(PD)[a]</description>
+		<rom name="Bunny (2007)(Bienvenu, Daniel)(PD)[a].bin" size="5888" crc="5c494be5" md5="cb577e4798d1347804e95fdd80a1a2a4" sha1="1e9c583fb812e99fb50875858035b41d8dcb497d"/>
+	</game>
+	<game name="Burgertime (1983)(Coleco - Mattel)(beta)">
+		<description>Burgertime (1983)(Coleco - Mattel)(beta)</description>
+		<rom name="Burgertime (1983)(Coleco - Mattel)(beta).bin" size="16384" crc="e5c5ea20" md5="45295e9ba099c8cae1dd893a1d5a380b" sha1="b455e48f5462c8b27dd693e25113a8a28c28014b"/>
+	</game>
+	<game name="Burgertime (1984)(Coleco - Mattel)">
+		<description>Burgertime (1984)(Coleco - Mattel)</description>
+		<rom name="Burgertime (1984)(Coleco - Mattel).bin" size="16384" crc="91346341" md5="927ce5ba5bf3e0f6c8c5a115db51f264" sha1="6ebf0d23f2d7cf60897ba6fe13b2293421c0a589"/>
+	</game>
+	<game name="BUSTin Out v0 (2000)(Bienvenu, Daniel)(PD)">
+		<description>BUSTin Out v0 (2000)(Bienvenu, Daniel)(PD)</description>
+		<rom name="BUSTin Out v0 (2000)(Bienvenu, Daniel)(PD).bin" size="32768" crc="edca3a1f" md5="49fcfab535485eaff189190d96aa4924" sha1="26237ae073298fb0bf4bdb6e76884c52fdd1f8b5"/>
+	</game>
+	<game name="BUSTin Out v0.5 (2000)(Bienvenu, Daniel)(PD)">
+		<description>BUSTin Out v0.5 (2000)(Bienvenu, Daniel)(PD)</description>
+		<rom name="BUSTin Out v0.5 (2000)(Bienvenu, Daniel)(PD).bin" size="32384" crc="c74766d8" md5="ee4f66f31df68ece487b5a278c210fd7" sha1="a66cd128b784041dafebaf8bc94c768cf573be87"/>
+	</game>
+	<game name="BUSTin Out v1 (2000)(Bienvenu, Daniel)(PD)">
+		<description>BUSTin Out v1 (2000)(Bienvenu, Daniel)(PD)</description>
+		<rom name="BUSTin Out v1 (2000)(Bienvenu, Daniel)(PD).bin" size="32768" crc="97b601a2" md5="f1379a60d0f88df41b080532e86ed4f9" sha1="d12f48fa0352c57deeb4aec9790f6af2ab50afca"/>
+	</game>
+	<game name="BUSTin Out v2 (2000)(Bienvenu, Daniel)(PD)">
+		<description>BUSTin Out v2 (2000)(Bienvenu, Daniel)(PD)</description>
+		<rom name="BUSTin Out v2 (2000)(Bienvenu, Daniel)(PD).bin" size="32640" crc="e12ccc1e" md5="51e907bd461ca44a6aa9e0df6f85c5a4" sha1="de429b3e17d1dd8f3c3172490de669b10a89a3e5"/>
+	</game>
+	<game name="BUSTin Out v3 (2000)(Bienvenu, Daniel)(PD)">
+		<description>BUSTin Out v3 (2000)(Bienvenu, Daniel)(PD)</description>
+		<rom name="BUSTin Out v3 (2000)(Bienvenu, Daniel)(PD).bin" size="32768" crc="c3a925af" md5="387592f78bd62cc6e4351f34145e5580" sha1="b365850d7247d1be9a5ee36da5250a1a577008b2"/>
+	</game>
+	<game name="Cabbage Patch Kids - Adventures in the Park (1984)(Coleco)(beta)">
+		<description>Cabbage Patch Kids - Adventures in the Park (1984)(Coleco)(beta)</description>
+		<rom name="Cabbage Patch Kids - Adventures in the Park (1984)(Coleco)(beta).bin" size="16384" crc="beacbff5" md5="ade704f01e694fb539bd805d9e276c99" sha1="6dcf2f3acc4b221666defc6ebbc09286238e7a1b"/>
+	</game>
+	<game name="Cabbage Patch Kids - Adventures in the Park (1984)(Konami - OAA)">
+		<description>Cabbage Patch Kids - Adventures in the Park (1984)(Konami - OAA)</description>
+		<rom name="Cabbage Patch Kids - Adventures in the Park (1984)(Konami - OAA).bin" size="16384" crc="6af19e75" md5="6f612e24b83a98096b67aaf6bb9083a3" sha1="ca240633ec6ecf732cbc28c9394459a722d6edcb"/>
+	</game>
+	<game name="Cabbage Patch Kids - Adventures in the Park (1984)(Konami - OAA)[b2]">
+		<description>Cabbage Patch Kids - Adventures in the Park (1984)(Konami - OAA)[b2]</description>
+		<rom name="Cabbage Patch Kids - Adventures in the Park (1984)(Konami - OAA)[b2].bin" size="16384" crc="c955a969" md5="3ef9719a6345c1a322ae17836e414c9f" sha1="cbe10b2ac6045e3aeb276e6457a243e0d02c810c"/>
+	</game>
+	<game name="Cabbage Patch Kids - Adventures in the Park (1984)(Konami - OAA)[b3]">
+		<description>Cabbage Patch Kids - Adventures in the Park (1984)(Konami - OAA)[b3]</description>
+		<rom name="Cabbage Patch Kids - Adventures in the Park (1984)(Konami - OAA)[b3].bin" size="16384" crc="5da13dfd" md5="4bf6a6143d8c0596ba4549c66eea9d67" sha1="57b4b045797b1f18ce22759d2ed1acc36a2e2207"/>
+	</game>
+	<game name="Cabbage Patch Kids - Adventures in the Park (1984)(Konami - OAA)[b]">
+		<description>Cabbage Patch Kids - Adventures in the Park (1984)(Konami - OAA)[b]</description>
+		<rom name="Cabbage Patch Kids - Adventures in the Park (1984)(Konami - OAA)[b].bin" size="16384" crc="f9d56307" md5="6d9fd51559988d77421f7fbfa0b692b7" sha1="8ed72bcbeb4858ef8aa3c219234f1865622c1f01"/>
+	</game>
+	<game name="Campaign '84 (1983)(Sunrise Software)">
+		<description>Campaign '84 (1983)(Sunrise Software)</description>
+		<rom name="Campaign '84 (1983)(Sunrise Software).bin" size="16384" crc="5aa22d66" md5="a7f6a6bd45c7ebfc7f8fc0f11eeea000" sha1="2e08245802c4c5aa87774ad3740fd56ac5b25bd1"/>
+	</game>
+	<game name="Campaign '84 (1983)(Sunrise Software)[b]">
+		<description>Campaign '84 (1983)(Sunrise Software)[b]</description>
+		<rom name="Campaign '84 (1983)(Sunrise Software)[b].bin" size="16384" crc="72aceac7" md5="debd9b275689e9e537e916673a9cd2d2" sha1="ac21fb23a4a4dde1d850264572924ac0cf9849b9"/>
+	</game>
+	<game name="Canadian Mini Games 1 (2003)(Bienvenu, Daniel)(PD)">
+		<description>Canadian Mini Games 1 (2003)(Bienvenu, Daniel)(PD)</description>
+		<rom name="Canadian Mini Games 1 (2003)(Bienvenu, Daniel)(PD).bin" size="32768" crc="99f3cbc9" md5="3d24a888b790799d515b17cdfeb37448" sha1="c9ced69ec7df07cf56d9cfe5c0d160e47640e59a"/>
+	</game>
+	<game name="Carnival (1982)(Coleco)">
+		<description>Carnival (1982)(Coleco)</description>
+		<rom name="Carnival (1982)(Coleco).bin" size="16384" crc="70f315c2" md5="f44e87fd71785824ac2ffb9927337886" sha1="d4f34382d43897774101e3620384a402dd3d2ec1"/>
+	</game>
+	<game name="Carnival (1982)(Coleco)[b2]">
+		<description>Carnival (1982)(Coleco)[b2]</description>
+		<rom name="Carnival (1982)(Coleco)[b2].bin" size="16384" crc="d568c4c5" md5="b12e3324df5fd0ecedb79cff3f177183" sha1="41e08352df00d4ea4f8b52ce2a81cd0c1581ce93"/>
+	</game>
+	<game name="Carnival (1982)(Coleco)[b3]">
+		<description>Carnival (1982)(Coleco)[b3]</description>
+		<rom name="Carnival (1982)(Coleco)[b3].bin" size="16384" crc="b8a3728c" md5="a24d3521b0a7ea1ae49223c45efd70c4" sha1="5efd53fb520a86713dc3a4d28e2732e59e93a30d"/>
+	</game>
+	<game name="Carnival (1982)(Coleco)[b]">
+		<description>Carnival (1982)(Coleco)[b]</description>
+		<rom name="Carnival (1982)(Coleco)[b].bin" size="16384" crc="32bff3f3" md5="27cd8d5ffa2259baf007b8b91f15c43d" sha1="b1b84b64d252ef145dd367fd393f477976ce7285"/>
+	</game>
+	<game name="Centipede (1983)(Atari)">
+		<description>Centipede (1983)(Atari)</description>
+		<rom name="Centipede (1983)(Atari).bin" size="16384" crc="17edbfd4" md5="25ef922aa95b246d6894f5c4c5b29c97" sha1="d89c49bbbf002e075c5964ca74d7c94a502740ff"/>
+	</game>
+	<game name="Chateau du Dragon, Le (2001)(Bienvenu, Daniel)(fr)(PD)">
+		<description>Chateau du Dragon, Le (2001)(Bienvenu, Daniel)(fr)(PD)</description>
+		<rom name="Chateau du Dragon, Le (2001)(Bienvenu, Daniel)(fr)(PD).bin" size="9088" crc="43478adf" md5="a668ffaa1bde142126ca58d2118500ea" sha1="0029fe15165165e95db2a5702cb162c770170637"/>
+	</game>
+	<game name="Choplifter! (1984)(Coleco)">
+		<description>Choplifter! (1984)(Coleco)</description>
+		<rom name="Choplifter! (1984)(Coleco).bin" size="16384" crc="030e0d48" md5="b3719118e9cfcc1234cd01c1e3fb84cf" sha1="3a7e5ea50495a666bac8df0b3b2c82b5be65ad18"/>
+	</game>
+	<game name="Choplifter! (1984)(Coleco)[b]">
+		<description>Choplifter! (1984)(Coleco)[b]</description>
+		<rom name="Choplifter! (1984)(Coleco)[b].bin" size="16384" crc="e7a1ff9f" md5="782ddbf40366269591205506f73906a1" sha1="a90bcac7da24b518002971caec342ffdd43b2348"/>
+	</game>
+	<game name="Chuck Norris Superkicks (1983)(Xonox)">
+		<description>Chuck Norris Superkicks (1983)(Xonox)</description>
+		<rom name="Chuck Norris Superkicks (1983)(Xonox).bin" size="16384" crc="5eeb81de" md5="5a539c992ec8040b914098d0a9b23d09" sha1="e9ccabc76be96279b322586f5a569d7fe3b0fa25"/>
+	</game>
+	<game name="Chuck Norris Superkicks (1983)(Xonox)[b]">
+		<description>Chuck Norris Superkicks (1983)(Xonox)[b]</description>
+		<rom name="Chuck Norris Superkicks (1983)(Xonox)[b].bin" size="16384" crc="73e96e53" md5="cb8fd33a7d96c0b50968d354aa9cd8db" sha1="42bfccd2219e595df2711ecc8854b24b803c0cd9"/>
+	</game>
+	<game name="Colored Gravity (2008)(Krause, Philipp Klaus)(PD)">
+		<description>Colored Gravity (2008)(Krause, Philipp Klaus)(PD)</description>
+		<rom name="Colored Gravity (2008)(Krause, Philipp Klaus)(PD).bin" size="22291" crc="449612d5" md5="679a33211f435d98e5a5ffffdbd782ea" sha1="11063680e503fef9fc251475ae3ec5e633611ff3"/>
+	</game>
+	<game name="Colored Gravity (2008)(Krause, Philipp Klaus)(PD)[a2]">
+		<description>Colored Gravity (2008)(Krause, Philipp Klaus)(PD)[a2]</description>
+		<rom name="Colored Gravity (2008)(Krause, Philipp Klaus)(PD)[a2].bin" size="10860" crc="785409e6" md5="e16cdaca0009493b7738a50bcc56a5b2" sha1="b59a00a0cd449cffd4912175e182ca4bdfe44f52"/>
+	</game>
+	<game name="Colored Gravity (2008)(Krause, Philipp Klaus)(PD)[a3]">
+		<description>Colored Gravity (2008)(Krause, Philipp Klaus)(PD)[a3]</description>
+		<rom name="Colored Gravity (2008)(Krause, Philipp Klaus)(PD)[a3].bin" size="11341" crc="839247ee" md5="2312544786bc6c5153f06f4985040e0a" sha1="6ebccb60a5cddc15cc6c293e981da67d653b4e3d"/>
+	</game>
+	<game name="Colored Gravity (2008)(Krause, Philipp Klaus)(PD)[a4]">
+		<description>Colored Gravity (2008)(Krause, Philipp Klaus)(PD)[a4]</description>
+		<rom name="Colored Gravity (2008)(Krause, Philipp Klaus)(PD)[a4].bin" size="12546" crc="cd6f3581" md5="f56e4d17741965a0040e77a11fc4b4ba" sha1="5e6aa842ce998a9caa35d124c230ea6d747e7af8"/>
+	</game>
+	<game name="Colored Gravity (2008)(Krause, Philipp Klaus)(PD)[a5]">
+		<description>Colored Gravity (2008)(Krause, Philipp Klaus)(PD)[a5]</description>
+		<rom name="Colored Gravity (2008)(Krause, Philipp Klaus)(PD)[a5].bin" size="18008" crc="267406c0" md5="085a58758ced53e79bbcbc6cc665267d" sha1="8600619785a23424fc0e4afd945f6846d91f955a"/>
+	</game>
+	<game name="Colored Gravity (2008)(Krause, Philipp Klaus)(PD)[a6]">
+		<description>Colored Gravity (2008)(Krause, Philipp Klaus)(PD)[a6]</description>
+		<rom name="Colored Gravity (2008)(Krause, Philipp Klaus)(PD)[a6].bin" size="19046" crc="8e87c643" md5="4ad3c612af470502155d2c8e340767fb" sha1="1ece86117289156f1fdb89d231df6bb24d50be45"/>
+	</game>
+	<game name="Colored Gravity (2008)(Krause, Philipp Klaus)(PD)[a]">
+		<description>Colored Gravity (2008)(Krause, Philipp Klaus)(PD)[a]</description>
+		<rom name="Colored Gravity (2008)(Krause, Philipp Klaus)(PD)[a].bin" size="22262" crc="5ce38ef6" md5="d97bc384aa242e88d85cb616b91fcdfa" sha1="cc976a53f55c9081dd1934c9e0442f1b6f1962fd"/>
+	</game>
+	<game name="Congo Bongo (1984)(Coleco)">
+		<description>Congo Bongo (1984)(Coleco)</description>
+		<rom name="Congo Bongo (1984)(Coleco).bin" size="24576" crc="4e8b4c1d" md5="1e5dc0f3a8b974b20340bdf8593b309b" sha1="4ad44dbf2651415f68c5e82289ecbc0122c51a19"/>
+	</game>
+	<game name="Congo Bongo (1984)(Coleco)[b]">
+		<description>Congo Bongo (1984)(Coleco)[b]</description>
+		<rom name="Congo Bongo (1984)(Coleco)[b].bin" size="24576" crc="ddafb16f" md5="270a08c7708426722a6469e4bc39473b" sha1="796118b875ceec83fc52aaa951f1f11e15600edc"/>
+	</game>
+	<game name="Cosmic Avenger (1982)(Coleco)">
+		<description>Cosmic Avenger (1982)(Coleco)</description>
+		<rom name="Cosmic Avenger (1982)(Coleco).bin" size="16384" crc="39d4215b" md5="cfbd4a478e7019422c306837444d2e46" sha1="c8c2a70d3eab8a68ab1db04e766a6c70f02f02ca"/>
+	</game>
+	<game name="Cosmic Avenger (1982)(Coleco)[b]">
+		<description>Cosmic Avenger (1982)(Coleco)[b]</description>
+		<rom name="Cosmic Avenger (1982)(Coleco)[b].bin" size="16384" crc="14d6ced6" md5="e2f58bbbe80a1c86a79e3aafabdcbb60" sha1="f31ebcb7429030af0fcb651d172724f392cc6f87"/>
+	</game>
+	<game name="Cosmic Crisis (1983)(Bit Corporation - Coleco)(EU)">
+		<description>Cosmic Crisis (1983)(Bit Corporation - Coleco)(EU)</description>
+		<rom name="Cosmic Crisis (1983)(Bit Corporation - Coleco)(EU).bin" size="16384" crc="7c2c7c41" md5="3ae1ddd596faaced37274dd407d5523c" sha1="081a40414021a51b3219e8957e948163680a9ada"/>
+	</game>
+	<game name="Cosmic Crisis (1983)(Bit Corporation - Coleco)(EU)[b2]">
+		<description>Cosmic Crisis (1983)(Bit Corporation - Coleco)(EU)[b2]</description>
+		<rom name="Cosmic Crisis (1983)(Bit Corporation - Coleco)(EU)[b2].bin" size="16384" crc="ac4c6ab6" md5="1cc8af23770172f2e9eff88fa0269b88" sha1="0475f1eef685579aad2e2e807f8f44f0d49a68a4"/>
+	</game>
+	<game name="Cosmic Crisis (1983)(Bit Corporation - Coleco)(EU)[b]">
+		<description>Cosmic Crisis (1983)(Bit Corporation - Coleco)(EU)[b]</description>
+		<rom name="Cosmic Crisis (1983)(Bit Corporation - Coleco)(EU)[b].bin" size="32768" crc="3a581cae" md5="f41c9e727c33e1e00fa00c599a40e845" sha1="ea9b79ac1b51f4337c2e2e24ad0d765d25e73fde"/>
+	</game>
+	<game name="Cosmo Challenge (1997)(de Kogel, Marcel)(PD)">
+		<description>Cosmo Challenge (1997)(de Kogel, Marcel)(PD)</description>
+		<rom name="Cosmo Challenge (1997)(de Kogel, Marcel)(PD).bin" size="21632" crc="43933306" md5="3ce1d7ddf53632478613d4f4a9bc41f2" sha1="d9adaae3ff8dce384c00790999f2fd1f9b29213e"/>
+	</game>
+	<game name="Cosmo Fighter 2 (1997)(Red Bullet)(PD)">
+		<description>Cosmo Fighter 2 (1997)(Red Bullet)(PD)</description>
+		<rom name="Cosmo Fighter 2 (1997)(Red Bullet)(PD).bin" size="16384" crc="d93a7dc2" md5="cf3139be847e46d5957c4b00a1921db9" sha1="e9f07b63332ea11b03abcee70536a05db93c5942"/>
+	</game>
+	<game name="Cosmo Fighter 3 (2001)(de Kogel, Marcel)(PD)">
+		<description>Cosmo Fighter 3 (2001)(de Kogel, Marcel)(PD)</description>
+		<rom name="Cosmo Fighter 3 (2001)(de Kogel, Marcel)(PD).bin" size="31744" crc="901c8512" md5="d212fbb05b5ebba3b63d7c607cfd71d2" sha1="cae1acd7dc76c2a54b486638288b3059c6ac2754"/>
+	</game>
+	<game name="Cosmo Trainer (1997)(de Kogel, Marcel)(PD)">
+		<description>Cosmo Trainer (1997)(de Kogel, Marcel)(PD)</description>
+		<rom name="Cosmo Trainer (1997)(de Kogel, Marcel)(PD).bin" size="21376" crc="7ba2f186" md5="455f444ff2500727fd181d0195f873ff" sha1="4033ef529fd847627e9928db70365322d0de89da"/>
+	</game>
+	<game name="Cye v0.1 (2007)(Krause, Philipp Klaus)(PD)">
+		<description>Cye v0.1 (2007)(Krause, Philipp Klaus)(PD)</description>
+		<rom name="Cye v0.1 (2007)(Krause, Philipp Klaus)(PD).bin" size="25880" crc="65ffe7cd" md5="810c9ea13783eb1afea296c037b09c5d" sha1="6e5f11826910a60e447b450e7f83c0775afd9d1e"/>
+	</game>
+	<game name="Cye v0.4 (2007)(Krause, Philipp Klaus)(PD)">
+		<description>Cye v0.4 (2007)(Krause, Philipp Klaus)(PD)</description>
+		<rom name="Cye v0.4 (2007)(Krause, Philipp Klaus)(PD).bin" size="27899" crc="1a9be7cd" md5="93476f9db8f98305ca29d5f83efc065f" sha1="8cf4c5b717fc9f808edfe9cb1a5021acb0e987b1"/>
+	</game>
+	<game name="Cye v0.8 (2007)(Krause, Philipp Klaus)(PD)">
+		<description>Cye v0.8 (2007)(Krause, Philipp Klaus)(PD)</description>
+		<rom name="Cye v0.8 (2007)(Krause, Philipp Klaus)(PD).bin" size="32234" crc="3e3a704a" md5="e6bee0dd2adf01ced8f79b7c71639bb9" sha1="22bdea2e5eca03d5fb733be7f18f5c6730b0ac4e"/>
+	</game>
+	<game name="Cye v1.0 (2007)(Krause, Philipp Klaus)(PD)">
+		<description>Cye v1.0 (2007)(Krause, Philipp Klaus)(PD)</description>
+		<rom name="Cye v1.0 (2007)(Krause, Philipp Klaus)(PD).bin" size="27915" crc="a8620258" md5="ef4154fa766ec3e0369e5fa2488f10e0" sha1="b544d650ed3d047e47d69fe8d0106458200b93c8"/>
+	</game>
+	<game name="Cye v1.2 (2013)(Krause, Philipp Klaus)(PD)">
+		<description>Cye v1.2 (2013)(Krause, Philipp Klaus)(PD)</description>
+		<rom name="Cye v1.2 (2013)(Krause, Philipp Klaus)(PD).bin" size="31822" crc="c2023ca7" md5="3b5dc55e4ddb74d0ab61a44d69a3143d" sha1="54cd8b8c0f00ec2a9de9e86df6fe99de8586cf78"/>
+	</game>
+	<game name="Dacman v20000712 (2000)(Bienvenu, Daniel)(PD)">
+		<description>Dacman v20000712 (2000)(Bienvenu, Daniel)(PD)</description>
+		<rom name="Dacman v20000712 (2000)(Bienvenu, Daniel)(PD).bin" size="5504" crc="07c68567" md5="296c2ba3e14a6ca9097152d924a3d52f" sha1="6095655d88a87797e01367edf2f8077c302027e7"/>
+	</game>
+	<game name="Dacman v20000716 (2000)(Bienvenu, Daniel)(PD)">
+		<description>Dacman v20000716 (2000)(Bienvenu, Daniel)(PD)</description>
+		<rom name="Dacman v20000716 (2000)(Bienvenu, Daniel)(PD).bin" size="14208" crc="22f8a86b" md5="74aae0891d5b38b1ac285e60d99f1c3b" sha1="34298434aaf76e22697d9652f8173b4bcdef2b79"/>
+	</game>
+	<game name="Dacman v20000717 (2000)(Bienvenu, Daniel)(PD)">
+		<description>Dacman v20000717 (2000)(Bienvenu, Daniel)(PD)</description>
+		<rom name="Dacman v20000717 (2000)(Bienvenu, Daniel)(PD).bin" size="14080" crc="62cfdb1f" md5="bfc77b665e87cc003c6a3e52951f1347" sha1="c0b207c6f9b8a5431a358a0a1310d19c92a3e190"/>
+	</game>
+	<game name="Dacman v20000718 (2000)(Bienvenu, Daniel)(PD)">
+		<description>Dacman v20000718 (2000)(Bienvenu, Daniel)(PD)</description>
+		<rom name="Dacman v20000718 (2000)(Bienvenu, Daniel)(PD).bin" size="16256" crc="02dd4c68" md5="09224e027fc526dbd2671544f585e6c6" sha1="b783b03c0a3632846a2fbc8f30385930d3deaeb8"/>
+	</game>
+	<game name="Dacman v20000719 (2000)(Bienvenu, Daniel)(PD)">
+		<description>Dacman v20000719 (2000)(Bienvenu, Daniel)(PD)</description>
+		<rom name="Dacman v20000719 (2000)(Bienvenu, Daniel)(PD).bin" size="17664" crc="cdc4a7cc" md5="ce66c173e57626626c0cd52c89850280" sha1="f534befa36c462e1448af1e71ca7f007aba43390"/>
+	</game>
+	<game name="Dacman v20000722 (2000)(Bienvenu, Daniel)(PD)">
+		<description>Dacman v20000722 (2000)(Bienvenu, Daniel)(PD)</description>
+		<rom name="Dacman v20000722 (2000)(Bienvenu, Daniel)(PD).bin" size="22272" crc="c20fbf76" md5="67c46235c0a1a0b15e4127878edf2dab" sha1="6fc2915aba7327188fc46f108bbeba7e003c580a"/>
+	</game>
+	<game name="Dacman v20000727 (2000)(Bienvenu, Daniel)(PD)">
+		<description>Dacman v20000727 (2000)(Bienvenu, Daniel)(PD)</description>
+		<rom name="Dacman v20000727 (2000)(Bienvenu, Daniel)(PD).bin" size="22272" crc="e829ef78" md5="e22357e2ace55f64872ef23741029bb0" sha1="4c29c84bf44f8055f819b123c3cc28f29cfc4e18"/>
+	</game>
+	<game name="Dacman v20000728 (2000)(Bienvenu, Daniel)(PD)">
+		<description>Dacman v20000728 (2000)(Bienvenu, Daniel)(PD)</description>
+		<rom name="Dacman v20000728 (2000)(Bienvenu, Daniel)(PD).bin" size="22272" crc="a67f0339" md5="eaa3cf63e4cc014c585df5ec1122685b" sha1="84d71f224b367eb76435754b3911e3563a38b1c2"/>
+	</game>
+	<game name="Dacman v20000801 (2000)(Bienvenu, Daniel)(PD)">
+		<description>Dacman v20000801 (2000)(Bienvenu, Daniel)(PD)</description>
+		<rom name="Dacman v20000801 (2000)(Bienvenu, Daniel)(PD).bin" size="22400" crc="5e4b3e68" md5="4e3e455b33d907ccd9f8ec83fdfaf2f5" sha1="202b7273046aa0d2b1efb293b31f66aa6b9a991c"/>
+	</game>
+	<game name="Dacman v20000808 (2000)(Bienvenu, Daniel)(PD)">
+		<description>Dacman v20000808 (2000)(Bienvenu, Daniel)(PD)</description>
+		<rom name="Dacman v20000808 (2000)(Bienvenu, Daniel)(PD).bin" size="24576" crc="3ee7a705" md5="ee8e1266396ff6bc7a609f1a72f1b2f9" sha1="5e7a8d067fc7a81089824d73ca66c1fbb29e872c"/>
+	</game>
+	<game name="Dacman v20000816 (2000)(Bienvenu, Daniel)(PD)">
+		<description>Dacman v20000816 (2000)(Bienvenu, Daniel)(PD)</description>
+		<rom name="Dacman v20000816 (2000)(Bienvenu, Daniel)(PD).bin" size="24576" crc="9a46ef8d" md5="121143a01aa0087b03483e2e50c17a15" sha1="5bc984f731766a54355a3f38730c0ba8b98edd7d"/>
+	</game>
+	<game name="Dam Busters, The (1984)(Coleco - Sydney)">
+		<description>Dam Busters, The (1984)(Coleco - Sydney)</description>
+		<rom name="Dam Busters, The (1984)(Coleco - Sydney).bin" size="32768" crc="890682b3" md5="d6e826d832e13c13073dfba3b26d899e" sha1="84b3631078575c5fd490426271b7fc5941d38fc3"/>
+	</game>
+	<game name="Dam Busters, The (1984)(Coleco - Sydney)(CA)">
+		<description>Dam Busters, The (1984)(Coleco - Sydney)(CA)</description>
+		<rom name="Dam Busters, The (1984)(Coleco - Sydney)(CA).bin" size="32768" crc="c75fad5a" md5="dd01108c4b4a62d64b2da39424896b6a" sha1="bcb8c003a5c8acdf62105c15d25163dff017d6c3"/>
+	</game>
+	<game name="Death Race (2004)(Dav)(PD)">
+		<description>Death Race (2004)(Dav)(PD)</description>
+		<rom name="Death Race (2004)(Dav)(PD).bin" size="3936" crc="ff4964b1" md5="0da6db8fad154867e393514e4d88a88a" sha1="9f97a9594b39fdc32e530c18ba14f75852efc61e"/>
+	</game>
+	<game name="Decathlon (1983)(Activision)">
+		<description>Decathlon (1983)(Activision)</description>
+		<rom name="Decathlon (1983)(Activision).bin" size="16384" crc="51fe49c8" md5="db88c443599a57c1f436f146b632caa7" sha1="b011b213bd86317a4a06b565d3c193a562f67c84"/>
+	</game>
+	<game name="Decathlon (1983)(Activision)[b]">
+		<description>Decathlon (1983)(Activision)[b]</description>
+		<rom name="Decathlon (1983)(Activision)[b].bin" size="16384" crc="614bb621" md5="f1fa565352f9bfb760b1d80929955548" sha1="5b35ee46585b2ff07ee8d730b519f12e58bda5e7"/>
+	</game>
+	<game name="Defender (1983)(Atari)">
+		<description>Defender (1983)(Atari)</description>
+		<rom name="Defender (1983)(Atari).bin" size="24576" crc="6cf594e5" md5="00123e08f138b7094601ea8d13d5336d" sha1="12b1fb517d8f7308d18f355e0c54796e4b5225a0"/>
+	</game>
+	<game name="Defender (1983)(Atari)[b]">
+		<description>Defender (1983)(Atari)[b]</description>
+		<rom name="Defender (1983)(Atari)[b].bin" size="24576" crc="ffd16997" md5="a3362bbdfec2858f9a49c898a5003b7f" sha1="b07f4d6747411d3df5819735c7bf051f902cbf0f"/>
+	</game>
+	<game name="Defender (1983)(Atari)[h]">
+		<description>Defender (1983)(Atari)[h]</description>
+		<rom name="Defender (1983)(Atari)[h].bin" size="24576" crc="46a909cc" md5="ad5000952034853819769ce22b9cf788" sha1="6a640c652378950f4f0b95e38cb1e4ba003e3f3a"/>
+	</game>
+	<game name="Demon 2 (2001)(Proulx, Yannick)(PD)">
+		<description>Demon 2 (2001)(Proulx, Yannick)(PD)</description>
+		<rom name="Demon 2 (2001)(Proulx, Yannick)(PD).bin" size="8262" crc="b3b3f3fe" md5="4c2bcb9edac30f8691ddec6cfd710bc6" sha1="bc1814053155d054203dacae0b8158753ab27004"/>
+	</game>
+	<game name="Destructor (1984)(Coleco)">
+		<description>Destructor (1984)(Coleco)</description>
+		<rom name="Destructor (1984)(Coleco).bin" size="32768" crc="56c358a6" md5="ec72a0e3bebe07ba631a8dcb750c1591" sha1="35283c51f448d877625049266c0c4687bf57ab42"/>
+	</game>
+	<game name="Diamond Dash (2004)(Bienvenu, Daniel)(PD)">
+		<description>Diamond Dash (2004)(Bienvenu, Daniel)(PD)</description>
+		<rom name="Diamond Dash (2004)(Bienvenu, Daniel)(PD).bin" size="4096" crc="54fa098a" md5="886280f92cc2855ef76d7aa0176a84d5" sha1="fe20a68bac37e2336c21c92a81ba8b110a7ec0d0"/>
+	</game>
+	<game name="Diamond Dash (2004)(Bienvenu, Daniel)(PD)[a]">
+		<description>Diamond Dash (2004)(Bienvenu, Daniel)(PD)[a]</description>
+		<rom name="Diamond Dash (2004)(Bienvenu, Daniel)(PD)[a].bin" size="8192" crc="836dccaf" md5="aa7be245dd7c8b5768467776b52679bb" sha1="223b74dd9b1fcda30359d072a1a93a5079f72880"/>
+	</game>
+	<game name="Dig Dug (1984)(Atari)(proto)">
+		<description>Dig Dug (1984)(Atari)(proto)</description>
+		<rom name="Dig Dug (1984)(Atari)(proto).bin" size="24576" crc="1038e0a1" md5="03f9c4cbf079385c549c784105bd0c38" sha1="04bce7d5ebd54f094d5f9f9b1880ae6507a5450d"/>
+	</game>
+	<game name="Dig Dug (1984)(Atari)(proto)[b]">
+		<description>Dig Dug (1984)(Atari)(proto)[b]</description>
+		<rom name="Dig Dug (1984)(Atari)(proto)[b].bin" size="25088" crc="1fe02bbc" md5="f1a24066770d7834c11d787a6fdfde50" sha1="c9a07f579c11400ddf988db809a487abe428dfa8"/>
+	</game>
+	<game name="Donkey Kong (1982)(Coleco)">
+		<description>Donkey Kong (1982)(Coleco)</description>
+		<rom name="Donkey Kong (1982)(Coleco).bin" size="16384" crc="3c77198c" md5="613a3e457758e274a0e0819ff6aa2d43" sha1="46b7aa1cedac273f2b96bad4a0768554733972bf"/>
+	</game>
+	<game name="Donkey Kong (1982)(Coleco)(US)">
+		<description>Donkey Kong (1982)(Coleco)(US)</description>
+		<rom name="Donkey Kong (1982)(Coleco)(US).bin" size="24576" crc="94c4cd4a" md5="8c61804e1ad57ef3d415d1ba11395507" sha1="795a63360e71e3a51317f108f504b21f5b11c3c9"/>
+	</game>
+	<game name="Donkey Kong Arcade v20051017 (2005)(Mello, Eduardo)(PD)">
+		<description>Donkey Kong Arcade v20051017 (2005)(Mello, Eduardo)(PD)</description>
+		<rom name="Donkey Kong Arcade v20051017 (2005)(Mello, Eduardo)(PD).bin" size="32768" crc="b42f4e5b" md5="4fbba4261f2bce55ef5d6caa700aa9a4" sha1="073525003507a51dcdfe9f42dcde24b7e069a75d"/>
+	</game>
+	<game name="Donkey Kong Arcade v20051020 (2005)(Mello, Eduardo)(PD)">
+		<description>Donkey Kong Arcade v20051020 (2005)(Mello, Eduardo)(PD)</description>
+		<rom name="Donkey Kong Arcade v20051020 (2005)(Mello, Eduardo)(PD).bin" size="32768" crc="4280e9f1" md5="9b2a45e1480361299d8a32b2be789f0c" sha1="6c92ca2db96f88bc3a74a498b399066b97eceb27"/>
+	</game>
+	<game name="Donkey Kong Arcade v20051021 (2005)(Mello, Eduardo)(PD)">
+		<description>Donkey Kong Arcade v20051021 (2005)(Mello, Eduardo)(PD)</description>
+		<rom name="Donkey Kong Arcade v20051021 (2005)(Mello, Eduardo)(PD).bin" size="32768" crc="54f7f145" md5="151e119c26a1e3ac6925262b82bf86d1" sha1="b05a47ace42f47338ef0e0339089c76faf49cab0"/>
+	</game>
+	<game name="Donkey Kong Arcade v20051022 (2005)(Mello, Eduardo)(PD)">
+		<description>Donkey Kong Arcade v20051022 (2005)(Mello, Eduardo)(PD)</description>
+		<rom name="Donkey Kong Arcade v20051022 (2005)(Mello, Eduardo)(PD).bin" size="32768" crc="d849705b" md5="aebfb1bbcf07dc3453d14b87e2b42c2d" sha1="cd39628b09070ddad383a1cf95edf14e30cd56a1"/>
+	</game>
+	<game name="Donkey Kong Arcade v20051025 (2005)(Mello, Eduardo)(PD)">
+		<description>Donkey Kong Arcade v20051025 (2005)(Mello, Eduardo)(PD)</description>
+		<rom name="Donkey Kong Arcade v20051025 (2005)(Mello, Eduardo)(PD).bin" size="32768" crc="529fbbaf" md5="e602e72072766ec2159cf13469e7ef15" sha1="6a754455ec9f6f9811f2fb947c5ac750474dc8e8"/>
+	</game>
+	<game name="Donkey Kong Junior (1983)(Coleco)">
+		<description>Donkey Kong Junior (1983)(Coleco)</description>
+		<rom name="Donkey Kong Junior (1983)(Coleco).bin" size="16384" crc="fd11508d" md5="1eb2b9c2d1d113f3860f345a07baeb42" sha1="113c1ead67b2679ddad9b99506e801526245af05"/>
+	</game>
+	<game name="Double Breakout v20010317 (2001)(Bienvenu, Daniel)(PD)">
+		<description>Double Breakout v20010317 (2001)(Bienvenu, Daniel)(PD)</description>
+		<rom name="Double Breakout v20010317 (2001)(Bienvenu, Daniel)(PD).bin" size="32768" crc="c52ffa82" md5="4cce98cd5eb829cac64535063e2aa416" sha1="656720d3c08ee72d980d8fcac8348ea66eae266c"/>
+	</game>
+	<game name="Double Breakout v20010323 (2001)(Bienvenu, Daniel)(PD)">
+		<description>Double Breakout v20010323 (2001)(Bienvenu, Daniel)(PD)</description>
+		<rom name="Double Breakout v20010323 (2001)(Bienvenu, Daniel)(PD).bin" size="32768" crc="1229e811" md5="61b24a7bc8239b1147a7a9d5ce83223a" sha1="699915e4158b2c3d127e5924a14146a3c71d6a8e"/>
+	</game>
+	<game name="Dragon's Lair (1984-04-16)(Coleco)(proto)">
+		<description>Dragon's Lair (1984-04-16)(Coleco)(proto)</description>
+		<rom name="Dragon's Lair (1984-04-16)(Coleco)(proto).bin" size="24576" crc="da521d6d" md5="a2e797efc1b754de8e16e6ca427900aa" sha1="e398ec4a225e470afde625945abed8fb264453a1"/>
+	</game>
+	<game name="DragonFire (1984)(Imagic)">
+		<description>DragonFire (1984)(Imagic)</description>
+		<rom name="DragonFire (1984)(Imagic).bin" size="16384" crc="dcb8f9e8" md5="37c56fabd85c91f365bf2f1152f59081" sha1="b623a970164d9739c0135d0cf37f9f0b3c67b17c"/>
+	</game>
+	<game name="Dukes of Hazzard, The (1984)(Coleco)">
+		<description>Dukes of Hazzard, The (1984)(Coleco)</description>
+		<rom name="Dukes of Hazzard, The (1984)(Coleco).bin" size="32768" crc="4025ac94" md5="dbd4f21702be17775e84b2fb6c534c94" sha1="162c7ad3266e02aa88983fa4ece7a77bc1cb9c7a"/>
+	</game>
+	<game name="Escape from the Mind Master (1983)(Epyx)(proto)">
+		<description>Escape from the Mind Master (1983)(Epyx)(proto)</description>
+		<rom name="Escape from the Mind Master (1983)(Epyx)(proto).bin" size="16384" crc="3678ab6f" md5="abe178883b62a738c692a2656a03a77e" sha1="00c157e87a8f85ede84b26bfab018c50678f88e4"/>
+	</game>
+	<game name="Evolution (1983)(Coleco - Sydney)(CA)">
+		<description>Evolution (1983)(Coleco - Sydney)(CA)</description>
+		<rom name="Evolution (1983)(Coleco - Sydney)(CA).bin" size="16384" crc="4cd4e185" md5="627d22dce35311aae18b0c085f1a3b21" sha1="5c775dd65722be72436d0b6dd99bd0143c938b33"/>
+	</game>
+	<game name="Evolution (1983)(Coleco - Sydney)(CA)[b]">
+		<description>Evolution (1983)(Coleco - Sydney)(CA)[b]</description>
+		<rom name="Evolution (1983)(Coleco - Sydney)(CA)[b].bin" size="16384" crc="dff01cf7" md5="74b7a74c714c1be14d58124e6f9797ab" sha1="acc3f1f3a7c129d736c3625667a3c1d942f12bbe"/>
+	</game>
+	<game name="Evolution (198x)(Sydney - Telegames)">
+		<description>Evolution (198x)(Sydney - Telegames)</description>
+		<rom name="Evolution (198x)(Sydney - Telegames).bin" size="16384" crc="4c933007" md5="e0d1ff37974fa017a6c78c174925643a" sha1="809befaad2bb341241d58fcd4e0409d690e4b6ce"/>
+	</game>
+	<game name="Explosion (200x)(Bienvenu, Daniel)(PD)">
+		<description>Explosion (200x)(Bienvenu, Daniel)(PD)</description>
+		<rom name="Explosion (200x)(Bienvenu, Daniel)(PD).bin" size="5760" crc="8d1b3636" md5="b4cf96a461b229bf8a25e4ec434d9e33" sha1="c041361ca2c7b9090e404aa6774e535b3a1aab35"/>
+	</game>
+	<game name="Fall Guy (1983)(Fox Video Games)(proto)">
+		<description>Fall Guy (1983)(Fox Video Games)(proto)</description>
+		<rom name="Fall Guy (1983)(Fox Video Games)(proto).bin" size="16384" crc="8a731b38" md5="bd905555983c05456ab81ea154a570b1" sha1="0e5c84d8fb8a9428aed399f4a9f9309b26bce990"/>
+	</game>
+	<game name="Fall Guy (1983)(Fox Video Games)(proto)[b]">
+		<description>Fall Guy (1983)(Fox Video Games)(proto)[b]</description>
+		<rom name="Fall Guy (1983)(Fox Video Games)(proto)[b].bin" size="28672" crc="1bed9c5b" md5="b223d29c848061867c69399abb3a978e" sha1="4158a3296dcd876b1ea5b1dd8b236a8b6f2f5304"/>
+	</game>
+	<game name="Fathom (1983)(Imagic)">
+		<description>Fathom (1983)(Imagic)</description>
+		<rom name="Fathom (1983)(Imagic).bin" size="16384" crc="b3b767ae" md5="43d37801db445b5411488ac399bbc20c" sha1="145d1758347306e36a8039671a1088841bccaad5"/>
+	</game>
+	<game name="Fathom (1983)(Imagic)[b]">
+		<description>Fathom (1983)(Imagic)[b]</description>
+		<rom name="Fathom (1983)(Imagic)[b].bin" size="16384" crc="9eb58823" md5="1431444f24d188c87e16e307ee56a5d9" sha1="3f5f92dec13860bd1eb56cf77fbe3556246291c4"/>
+	</game>
+	<game name="Flipper Slipper (1983)(Spectravideo)">
+		<description>Flipper Slipper (1983)(Spectravideo)</description>
+		<rom name="Flipper Slipper (1983)(Spectravideo).bin" size="16384" crc="2a49f507" md5="9cd9153748b24d0b5fd877686a3e5c67" sha1="e78e370fc7b3138010606f2eb9db1ea40fc37c5c"/>
+	</game>
+	<game name="Flipper Slipper (1983)(Spectravideo)[b]">
+		<description>Flipper Slipper (1983)(Spectravideo)[b]</description>
+		<rom name="Flipper Slipper (1983)(Spectravideo)[b].bin" size="16384" crc="7e97a22e" md5="677dc48bdaf746d48068d8ad0dff19de" sha1="3b5823bd966e042df81cf42dc07aef990e41fd88"/>
+	</game>
+	<game name="Flipper Slipper (198x)(Spectravideo - Telegames)">
+		<description>Flipper Slipper (198x)(Spectravideo - Telegames)</description>
+		<rom name="Flipper Slipper (198x)(Spectravideo - Telegames).bin" size="16384" crc="9788bca7" md5="92771526eeb3814178c5c36d7babb934" sha1="65b532fe1f0d249e97117580638083731e1ff767"/>
+	</game>
+	<game name="Frantic Freddy (1983)(Spectravideo)">
+		<description>Frantic Freddy (1983)(Spectravideo)</description>
+		<rom name="Frantic Freddy (1983)(Spectravideo).bin" size="16384" crc="8615c6e8" md5="721b56f46c0b5714aebef48049c6ae80" sha1="4f4ef29dbb730583bdf6da75aa7fe7b4f144216a"/>
+	</game>
+	<game name="Frantic v20080404 (2008)(Huggins, Scott)(PD)">
+		<description>Frantic v20080404 (2008)(Huggins, Scott)(PD)</description>
+		<rom name="Frantic v20080404 (2008)(Huggins, Scott)(PD).bin" size="32000" crc="38926ddf" md5="4afbaaa881283e45740b87a8a227f63a" sha1="f0d0a7d96edf77aa11467c426a9b4ec3d692ac8e"/>
+	</game>
+	<game name="Frantic v20080809 (2008)(Huggins, Scott)(PD)">
+		<description>Frantic v20080809 (2008)(Huggins, Scott)(PD)</description>
+		<rom name="Frantic v20080809 (2008)(Huggins, Scott)(PD).bin" size="32640" crc="f43b0b28" md5="3ff8080f344ed52ea819b3a88854947b" sha1="8a81e9b854e7f7fd5d4419cc9716d03ac2cfe023"/>
+	</game>
+	<game name="Frenzy (1983)(Coleco)">
+		<description>Frenzy (1983)(Coleco)</description>
+		<rom name="Frenzy (1983)(Coleco).bin" size="20480" crc="3cacddfb" md5="ec8f7fea2f00df94ded932d49bd8a7f9" sha1="9fae20696149c1dba5203e1600565917c8981d81"/>
+	</game>
+	<game name="Frenzy (1983)(Coleco)[b2]">
+		<description>Frenzy (1983)(Coleco)[b2]</description>
+		<rom name="Frenzy (1983)(Coleco)[b2].bin" size="24576" crc="bf1ccf04" md5="8d5c95b98cdf917ca561b469b791d7d1" sha1="77da39d6fa64e1b3849f61967f148dfe846a32b2"/>
+	</game>
+	<game name="Frenzy (1983)(Coleco)[b3]">
+		<description>Frenzy (1983)(Coleco)[b3]</description>
+		<rom name="Frenzy (1983)(Coleco)[b3].bin" size="24576" crc="0522ebdd" md5="4f463889b5379e75b970f3cdf0a8d435" sha1="f8a7bbff1dfc19b85428206522c0ab73d0d628e2"/>
+	</game>
+	<game name="Frenzy (1983)(Coleco)[b]">
+		<description>Frenzy (1983)(Coleco)[b]</description>
+		<rom name="Frenzy (1983)(Coleco)[b].bin" size="24576" crc="960616af" md5="a0462d9a0a2c99eea1f50a15086bb3ea" sha1="1ec4f4ebdc02c4e03bc9dbc83e34ce49da33942a"/>
+	</game>
+	<game name="Frog Feast v20061021 (2006)(Mark2008)(PD)">
+		<description>Frog Feast v20061021 (2006)(Mark2008)(PD)</description>
+		<rom name="Frog Feast v20061021 (2006)(Mark2008)(PD).bin" size="14592" crc="c4910e63" md5="12e7085ecf92eb0835c407a2dfd4a7dd" sha1="61761d3825d26b8ad8e7b650dee3740ebfc3bdab"/>
+	</game>
+	<game name="Frog Feast v20071205 (2006)(Mark2008)(PD)">
+		<description>Frog Feast v20071205 (2006)(Mark2008)(PD)</description>
+		<rom name="Frog Feast v20071205 (2006)(Mark2008)(PD).bin" size="14976" crc="39bde065" md5="cd08096da41087d76981dc3ddf2aaf37" sha1="b1ccb5f93a6d9d4da7373d7aa258c90981ed2645"/>
+	</game>
+	<game name="Frog Feast v20071213 (2006)(Mark2008)(PD)">
+		<description>Frog Feast v20071213 (2006)(Mark2008)(PD)</description>
+		<rom name="Frog Feast v20071213 (2006)(Mark2008)(PD).bin" size="12800" crc="6f01e6d0" md5="47c7504b1a50ec97f7d17d01d9f787a3" sha1="c5b9e73342eaa04dcc207c0b527abcaa7f5d9954"/>
+	</game>
+	<game name="Frog Feast v20071216 (2006)(Mark2008)(PD)">
+		<description>Frog Feast v20071216 (2006)(Mark2008)(PD)</description>
+		<rom name="Frog Feast v20071216 (2006)(Mark2008)(PD).bin" size="18560" crc="6358ef34" md5="d1f6bad05ce1976478bdbe5fd5f30cd7" sha1="3c858ab0e7de43de0deabd6c6bb39f212df73676"/>
+	</game>
+	<game name="Frog Feast v20071222 (2006)(Mark2008)(PD)">
+		<description>Frog Feast v20071222 (2006)(Mark2008)(PD)</description>
+		<rom name="Frog Feast v20071222 (2006)(Mark2008)(PD).bin" size="20224" crc="a9e1929d" md5="69333d19bdaad7c0af5b1f89a89137bb" sha1="61425b053243a3d72661d149ed536caa054c939e"/>
+	</game>
+	<game name="Frog Feast v20071230 (2006)(Mark2008)(PD)">
+		<description>Frog Feast v20071230 (2006)(Mark2008)(PD)</description>
+		<rom name="Frog Feast v20071230 (2006)(Mark2008)(PD).bin" size="21760" crc="cb941eb4" md5="8a5201c9dec68ed405f2d82287c746ae" sha1="a8b9cbc3675f61f364a762cff87aa8563522c667"/>
+	</game>
+	<game name="Frog Magi (2007)(Wick, Dale)(PD)">
+		<description>Frog Magi (2007)(Wick, Dale)(PD)</description>
+		<rom name="Frog Magi (2007)(Wick, Dale)(PD).bin" size="6528" crc="6e04d664" md5="b4d15dc2a2af2b28d6aa4ee5f600bba2" sha1="5f782368d301327b3ebf00af97c3352289863e44"/>
+	</game>
+	<game name="Frogger (1983)(Parker Brothers)">
+		<description>Frogger (1983)(Parker Brothers)</description>
+		<rom name="Frogger (1983)(Parker Brothers).bin" size="12288" crc="798002a2" md5="ade03210d571409ecb18d5bfaefdad03" sha1="c808284b8a161e8405da093884e861fcde4220e9"/>
+	</game>
+	<game name="Frogger (1983)(Parker Brothers)[b2]">
+		<description>Frogger (1983)(Parker Brothers)[b2]</description>
+		<rom name="Frogger (1983)(Parker Brothers)[b2].bin" size="16384" crc="20502339" md5="6542a61237d7f2cb4364e0068c47fae7" sha1="0afb9b192e87f6d8db504121b163d909c35a7b42"/>
+	</game>
+	<game name="Frogger (1983)(Parker Brothers)[b]">
+		<description>Frogger (1983)(Parker Brothers)[b]</description>
+		<rom name="Frogger (1983)(Parker Brothers)[b].bin" size="16384" crc="32b95be0" md5="677b04037ded07b222d908e82f2ffa3d" sha1="d33dbb600b0a948ad2c5a2df7fc8ca7e86b753c4"/>
+	</game>
+	<game name="Frogger II - Threeedeep! (1984)(Parker Brothers)">
+		<description>Frogger II - Threeedeep! (1984)(Parker Brothers)</description>
+		<rom name="Frogger II - Threeedeep! (1984)(Parker Brothers).bin" size="16384" crc="4229ea5a" md5="48f68ea0446584dc330f8be85f660194" sha1="c899debdda6bfb7e2ed0d1c327ab574b9cbc70ae"/>
+	</game>
+	<game name="Frogger II - Threeedeep! (1984)(Parker Brothers)[b]">
+		<description>Frogger II - Threeedeep! (1984)(Parker Brothers)[b]</description>
+		<rom name="Frogger II - Threeedeep! (1984)(Parker Brothers)[b].bin" size="16384" crc="04405423" md5="cef95fea1868929704d6b39ada5c91c0" sha1="932e0776b861b9d927bc7c86440517ebfa90c8af"/>
+	</game>
+	<game name="Frontline (1983)(Coleco)">
+		<description>Frontline (1983)(Coleco)</description>
+		<rom name="Frontline (1983)(Coleco).bin" size="24576" crc="d0110137" md5="4520ee5d8d0fcf151a3332966f7ebda0" sha1="62ca275776e4184032224e61b6d01d0636d7e846"/>
+	</game>
+	<game name="Frontline (1983)(Coleco)[b2]">
+		<description>Frontline (1983)(Coleco)[b2]</description>
+		<rom name="Frontline (1983)(Coleco)[b2].bin" size="24576" crc="9c551386" md5="7debc2bb5b735e659fcc479c42d0c923" sha1="ca62f469511d30d164adc74859d4c5c77963e218"/>
+	</game>
+	<game name="Frontline (1983)(Coleco)[b3]">
+		<description>Frontline (1983)(Coleco)[b3]</description>
+		<rom name="Frontline (1983)(Coleco)[b3].bin" size="24576" crc="e16e0917" md5="d145de191e3f694c7f0920787ccbda48" sha1="68889d9410be82ce20f1eedfb5861dce4bd270d0"/>
+	</game>
+	<game name="Frontline (1983)(Coleco)[b]">
+		<description>Frontline (1983)(Coleco)[b]</description>
+		<rom name="Frontline (1983)(Coleco)[b].bin" size="32768" crc="08990b8f" md5="8aeba65de11578746f07234cb96cfd34" sha1="a2b35d87f13ceb790a99f20bab43d4548d3c6587"/>
+	</game>
+	<game name="Galaxian (1983)(Atari)">
+		<description>Galaxian (1983)(Atari)</description>
+		<rom name="Galaxian (1983)(Atari).bin" size="20480" crc="6a7a162a" md5="26dff388cd543b79a4d35662064ddaf7" sha1="287013140f2896516acb095157389f681d9c5150"/>
+	</game>
+	<game name="Galaxian (1983)(Atari)[b2]">
+		<description>Galaxian (1983)(Atari)[b2]</description>
+		<rom name="Galaxian (1983)(Atari)[b2].bin" size="24576" crc="3f18ba6c" md5="bf1ceac191875d28ca5b0f319ce9e852" sha1="7564cb4ccd0068473f1e3866fa083ed138947153"/>
+	</game>
+	<game name="Galaxian (1983)(Atari)[b3]">
+		<description>Galaxian (1983)(Atari)[b3]</description>
+		<rom name="Galaxian (1983)(Atari)[b3].bin" size="32768" crc="fe1d0b6a" md5="15ce8221f4abdf721698b7575625c55d" sha1="82052a190b21c73f06a676fad3d2e30a2cc9b952"/>
+	</game>
+	<game name="Galaxian (1983)(Atari)[b4]">
+		<description>Galaxian (1983)(Atari)[b4]</description>
+		<rom name="Galaxian (1983)(Atari)[b4].bin" size="32768" crc="518f84e8" md5="d603ca63c6fa84385a93d285a0da4a52" sha1="2eacb99b0dd9622d2f11fb63349475c474408cdb"/>
+	</game>
+	<game name="Galaxian (1983)(Atari)[b5]">
+		<description>Galaxian (1983)(Atari)[b5]</description>
+		<rom name="Galaxian (1983)(Atari)[b5].bin" size="24576" crc="7c1b394d" md5="4e978177fe178da1ff7bcdb039f4622c" sha1="e285e1fbffba00f1f72b169d3a36a0b3db462ee9"/>
+	</game>
+	<game name="Galaxian (1983)(Atari)[b]">
+		<description>Galaxian (1983)(Atari)[b]</description>
+		<rom name="Galaxian (1983)(Atari)[b].bin" size="32768" crc="987bc7ac" md5="83cd20c0aaa5cfc1993b63f6cca0cc6f" sha1="cb389e5719aba0186f93643e75d5ffb3bf339f9d"/>
+	</game>
+	<game name="Game Pack v20020428 (2002)(Bienvenu, Daniel)(PD)">
+		<description>Game Pack v20020428 (2002)(Bienvenu, Daniel)(PD)</description>
+		<rom name="Game Pack v20020428 (2002)(Bienvenu, Daniel)(PD).bin" size="16384" crc="7831f3d9" md5="ed37a57d2f21f6ed7b8e9bb61ae215ce" sha1="33731751df3cefe7c9ad1f9ba2d4fc6b638fd356"/>
+	</game>
+	<game name="Game Pack v20020520 (2002)(Bienvenu, Daniel)(PD)">
+		<description>Game Pack v20020520 (2002)(Bienvenu, Daniel)(PD)</description>
+		<rom name="Game Pack v20020520 (2002)(Bienvenu, Daniel)(PD).bin" size="16384" crc="b1215c7a" md5="6da05f60c67f8020e876f3077a866076" sha1="6b38dd9bc21a34ad0edc9e7f47e6168835d2a2bd"/>
+	</game>
+	<game name="Game Pack VIC-20 Demo (2003-06-18)(Bienvenu, Daniel)(PD)">
+		<description>Game Pack VIC-20 Demo (2003-06-18)(Bienvenu, Daniel)(PD)</description>
+		<rom name="Game Pack VIC-20 Demo (2003-06-18)(Bienvenu, Daniel)(PD).bin" size="8192" crc="5b4ad168" md5="3f103f934ae174159f2b7dd6f3a12c6a" sha1="e9ce28fd2370d1b6660d5e13682af8fff24f1667"/>
+	</game>
+	<game name="Gateway to Apshai (1984)(Epyx)">
+		<description>Gateway to Apshai (1984)(Epyx)</description>
+		<rom name="Gateway to Apshai (1984)(Epyx).bin" size="12288" crc="fdb75be6" md5="7262176bb5917af526243438f6c8d9e4" sha1="837a192ee27ab78c4ab914b45b9ba55e5847cf37"/>
+	</game>
+	<game name="Gateway to Apshai (1984)(Epyx)[b]">
+		<description>Gateway to Apshai (1984)(Epyx)[b]</description>
+		<rom name="Gateway to Apshai (1984)(Epyx)[b].bin" size="16384" crc="0726b64d" md5="d3772dcffd6a355330c221f7780035c0" sha1="6970f6043adaeae0bf0a1bdf431b12807be87b58"/>
+	</game>
+	<game name="Get Booty (2005)(Wick, Dale)(PD)">
+		<description>Get Booty (2005)(Wick, Dale)(PD)</description>
+		<rom name="Get Booty (2005)(Wick, Dale)(PD).bin" size="3047" crc="cd5d3736" md5="48cd660a5b2461bac7a7ddcb32900808" sha1="f4182b3a690437bb36cdf184ee458634718f2489"/>
+	</game>
+	<game name="Ghost Trap (2009-04-27)(snorlaxnut)[p]">
+		<description>Ghost Trap (2009-04-27)(snorlaxnut)[p]</description>
+		<rom name="Ghost Trap (2009-04-27)(snorlaxnut)[p].bin" size="12288" crc="26269393" md5="71d2604def8b4e8e4601c0a0f2863fce" sha1="8ec5527ba7f81eb8104dc420f08c21ae4fa34c74"/>
+	</game>
+	<game name="Ghost Trap (2009-04-29)(Bienvenu, Daniel)[p]">
+		<description>Ghost Trap (2009-04-29)(Bienvenu, Daniel)[p]</description>
+		<rom name="Ghost Trap (2009-04-29)(Bienvenu, Daniel)[p].bin" size="12288" crc="3028b9b2" md5="b2f7031269769f6c64efc4c43866028e" sha1="cd7067bb92588fa5407ff84353e049f54e27b19b"/>
+	</game>
+	<game name="Gorf (1983)(Coleco)">
+		<description>Gorf (1983)(Coleco)</description>
+		<rom name="Gorf (1983)(Coleco).bin" size="16384" crc="ff46becc" md5="e751e5d60a2259334b80ce63d2b69c3a" sha1="f0406171923072e75d89ae43621ec18bbd9f154c"/>
+	</game>
+	<game name="Gorf (1983)(Coleco)[b]">
+		<description>Gorf (1983)(Coleco)[b]</description>
+		<rom name="Gorf (1983)(Coleco)[b].bin" size="16384" crc="074ea085" md5="9fd1130745753933f3481f465dd2dfad" sha1="f7608765f8099fd4a778ee3d6e6bab9e5a056d2f"/>
+	</game>
+	<game name="Gulkave (2006)(Foster, Guy)(PD)">
+		<description>Gulkave (2006)(Foster, Guy)(PD)</description>
+		<rom name="Gulkave (2006)(Foster, Guy)(PD).bin" size="32112" crc="df6593c2" md5="56275c8b5deb5890d9c794253b386872" sha1="4ca9b0ad2f13f71a127be835b806bb4dd158d7d0"/>
+	</game>
+	<game name="Gust Buster (1983)(Sunrise Software)">
+		<description>Gust Buster (1983)(Sunrise Software)</description>
+		<rom name="Gust Buster (1983)(Sunrise Software).bin" size="16384" crc="29fea563" md5="c1c390a00802e041fbee750a33ac9030" sha1="c6506f48a4f33761d0a39c65f0fd092429756f2b"/>
+	</game>
+	<game name="Gust Buster (1983)(Sunrise Software)[b]">
+		<description>Gust Buster (1983)(Sunrise Software)[b]</description>
+		<rom name="Gust Buster (1983)(Sunrise Software)[b].bin" size="16384" crc="f2cac67c" md5="05c76213b0cabc7a2b6ded94bed25ccc" sha1="550901882d369064779956704b2925e4e9b8be1f"/>
+	</game>
+	<game name="Gyruss (1984)(Parker Brothers)">
+		<description>Gyruss (1984)(Parker Brothers)</description>
+		<rom name="Gyruss (1984)(Parker Brothers).bin" size="16384" crc="27cbf26d" md5="fd499d2d7ed864f81c6f01a9ad4b4442" sha1="9d34b9a55f9b6c8443696114a8e69724e5106b5a"/>
+	</game>
+	<game name="Gyruss (1984)(Parker Brothers)[b]">
+		<description>Gyruss (1984)(Parker Brothers)[b]</description>
+		<rom name="Gyruss (1984)(Parker Brothers)[b].bin" size="16384" crc="b4ef0f1f" md5="ab7bf4c079f2fca42928c0670c994cdd" sha1="d5890e96cdc1ca8a6a27042bc486ecfbb9ddeca7"/>
+	</game>
+	<game name="H.E.R.O. (1984)(Activision)">
+		<description>H.E.R.O. (1984)(Activision)</description>
+		<rom name="H.E.R.O. (1984)(Activision).bin" size="16384" crc="685ab9b5" md5="e39e7552b8681346aa107c1279911750" sha1="1febd0de031402c2d2dc88f0c60d18c35feee6f3"/>
+	</game>
+	<game name="Happy Halloween (2001)(Bienvenu, Daniel)(PD)">
+		<description>Happy Halloween (2001)(Bienvenu, Daniel)(PD)</description>
+		<rom name="Happy Halloween (2001)(Bienvenu, Daniel)(PD).bin" size="13824" crc="527ae3ac" md5="ea2fdd64284179eb03f29c8d6f44d053" sha1="d4e4626c15daf58362998eb805285ae327cf12a7"/>
+	</game>
+	<game name="Happy Halloween (2001)(Bienvenu, Daniel)(PD)[a]">
+		<description>Happy Halloween (2001)(Bienvenu, Daniel)(PD)[a]</description>
+		<rom name="Happy Halloween (2001)(Bienvenu, Daniel)(PD)[a].bin" size="31232" crc="2bf54674" md5="52572f8236cc6f31e15bf91f80b13cdf" sha1="c2f3b952a2013253a7017d79441959767bf8701b"/>
+	</game>
+	<game name="Heist, The (1983)(Micro Fun)">
+		<description>Heist, The (1983)(Micro Fun)</description>
+		<rom name="Heist, The (1983)(Micro Fun).bin" size="24576" crc="987491ce" md5="ad7d739299287f4dd72efb1f000b3352" sha1="55cce8d6a61c1b028555ae0da8cdf629a3b19982"/>
+	</game>
+	<game name="Heist, The (1983)(Micro Fun)[b2]">
+		<description>Heist, The (1983)(Micro Fun)[b2]</description>
+		<rom name="Heist, The (1983)(Micro Fun)[b2].bin" size="24576" crc="6f2e2d84" md5="06e96d4b3f9e2e1cfbc006eead39d0b9" sha1="01092a3afacb7e013c220c1aa6ce3c72ca400b5f"/>
+	</game>
+	<game name="Heist, The (1983)(Micro Fun)[b3]">
+		<description>Heist, The (1983)(Micro Fun)[b3]</description>
+		<rom name="Heist, The (1983)(Micro Fun)[b3].bin" size="24576" crc="c9c27f92" md5="c65f3db2efde3b0a33744909a297b1a6" sha1="583c25a2e2d283fc4125273be6d318b731286845"/>
+	</game>
+	<game name="Heist, The (1983)(Micro Fun)[b]">
+		<description>Heist, The (1983)(Micro Fun)[b]</description>
+		<rom name="Heist, The (1983)(Micro Fun)[b].bin" size="32768" crc="866849d1" md5="bb3b0d6ba95493de01797f2daada1de7" sha1="dd5949e331f70bca313422a527091c2bd30b50a9"/>
+	</game>
+	<game name="Heist, The (1983)(Micro Fun)[h 50 Lives]">
+		<description>Heist, The (1983)(Micro Fun)[h 50 Lives]</description>
+		<rom name="Heist, The (1983)(Micro Fun)[h 50 Lives].bin" size="24576" crc="bc3b9f78" md5="e7a2eb12c4a4ff78361a7551eb52dbf3" sha1="aa0069dbb9bc5c4d0ea04941c51f19587a9c6e40"/>
+	</game>
+	<game name="Heist, The (1983)(Micro Fun)[h 8 Lives]">
+		<description>Heist, The (1983)(Micro Fun)[h 8 Lives]</description>
+		<rom name="Heist, The (1983)(Micro Fun)[h 8 Lives].bin" size="24576" crc="b0f5dcb4" md5="ab7320b4eefe5abb3b599425e4897fa7" sha1="08352200cfae252a69e83b55f1590e5f75739d18"/>
+	</game>
+	<game name="Hustle v01 (2006-11-21)(Tomlin, Bruce)(PD)">
+		<description>Hustle v01 (2006-11-21)(Tomlin, Bruce)(PD)</description>
+		<rom name="Hustle v01 (2006-11-21)(Tomlin, Bruce)(PD).bin" size="3967" crc="33bb57e1" md5="675092072cd70cedf19b1fa7d4fb7cf3" sha1="eda59778b9e5e6a7e69a77679131524a50fc7e54"/>
+	</game>
+	<game name="Hustle v02 (2006-11-21)(Tomlin, Bruce)(PD)">
+		<description>Hustle v02 (2006-11-21)(Tomlin, Bruce)(PD)</description>
+		<rom name="Hustle v02 (2006-11-21)(Tomlin, Bruce)(PD).bin" size="3982" crc="7c2d79ad" md5="1735a0ad71d88e1a64c9148ed0ad3653" sha1="d1a98e9cadebeb800edb51bab9c995884743da8d"/>
+	</game>
+	<game name="Illusions (1984)(Coleco)">
+		<description>Illusions (1984)(Coleco)</description>
+		<rom name="Illusions (1984)(Coleco).bin" size="16384" crc="2787516d" md5="369d9eccc683aaf56afec83a16d32ae3" sha1="314be140b495de538ffdf01c9faee4aeef1ecb83"/>
+	</game>
+	<game name="Illusions (1984)(Coleco)[b]">
+		<description>Illusions (1984)(Coleco)[b]</description>
+		<rom name="Illusions (1984)(Coleco)[b].bin" size="16384" crc="c9893041" md5="fc0230f61994bb21630ffef1df922d11" sha1="e494ba19552444151b233ae50a3801b5c111ca29"/>
+	</game>
+	<game name="Insane Pickin' Sticks VIII (2009-04-27)(Bienvenu, Daniel)(PD)">
+		<description>Insane Pickin' Sticks VIII (2009-04-27)(Bienvenu, Daniel)(PD)</description>
+		<rom name="Insane Pickin' Sticks VIII (2009-04-27)(Bienvenu, Daniel)(PD).bin" size="4005" crc="1ec3d568" md5="04e615b23f5d55aad821cb0adf4bba6e" sha1="9cdc5c63ee8c2d2822e6184dd358e48b2d4731e5"/>
+	</game>
+	<game name="It's Only Rock 'n' Roll (1984)(Xonox)">
+		<description>It's Only Rock 'n' Roll (1984)(Xonox)</description>
+		<rom name="It's Only Rock 'n' Roll (1984)(Xonox).bin" size="16384" crc="cc43ebf7" md5="f127f45209247a1f351eb2dbd2fb24db" sha1="96be6f4a0818a94dfa5ea9cb01928a66f755c278"/>
+	</game>
+	<game name="It's Only Rock 'n' Roll (1984)(Xonox)[b]">
+		<description>It's Only Rock 'n' Roll (1984)(Xonox)[b]</description>
+		<rom name="It's Only Rock 'n' Roll (1984)(Xonox)[b].bin" size="32768" crc="86b3e370" md5="9db30c861524528214186da7fdbaf0da" sha1="781c5eff520418fc9f284314be082c143427cb16"/>
+	</game>
+	<game name="Jack B. Quick (2008-01-12)(Mark2008)(PD)">
+		<description>Jack B. Quick (2008-01-12)(Mark2008)(PD)</description>
+		<rom name="Jack B. Quick (2008-01-12)(Mark2008)(PD).bin" size="13184" crc="83055158" md5="fe445bb2dd1104ccc709b12332fc8332" sha1="7a179f52a58b3f7d9f36183d0e9cf7c0e53d0566"/>
+	</game>
+	<game name="James Bond 007 (1984)(Parker Brothers)">
+		<description>James Bond 007 (1984)(Parker Brothers)</description>
+		<rom name="James Bond 007 (1984)(Parker Brothers).bin" size="16384" crc="a3205f21" md5="d6c263a445bbbd87d156ae40fc4b930b" sha1="23823b4f564cb916ab411d8822531eb3a1a57346"/>
+	</game>
+	<game name="James Bond 007 (1984)(Parker Brothers)[b2]">
+		<description>James Bond 007 (1984)(Parker Brothers)[b2]</description>
+		<rom name="James Bond 007 (1984)(Parker Brothers)[b2].bin" size="12288" crc="561f2530" md5="c7ea91d9ac4d4a104d8e7832f8db3962" sha1="22ee76c680e94fa016263473d0ffdbed1ea5ab7b"/>
+	</game>
+	<game name="James Bond 007 (1984)(Parker Brothers)[b]">
+		<description>James Bond 007 (1984)(Parker Brothers)[b]</description>
+		<rom name="James Bond 007 (1984)(Parker Brothers)[b].bin" size="16384" crc="3004a253" md5="5540feb1d30a22901f881849188d85a4" sha1="b9e66759502856e9341ba0a2f350c94faf29cca1"/>
+	</game>
+	<game name="Jeepers Creepers (2007)(Bienvenu, Daniel)(PD)">
+		<description>Jeepers Creepers (2007)(Bienvenu, Daniel)(PD)</description>
+		<rom name="Jeepers Creepers (2007)(Bienvenu, Daniel)(PD).bin" size="32000" crc="d0d15af1" md5="7eda9a3376d2c4a11b52931db90d2ddf" sha1="317b5e0238b154ac1d7c8bd24a33564ea91e9b69"/>
+	</game>
+	<game name="JetBoat! v30b (2007)(-)(PD)">
+		<description>JetBoat! v30b (2007)(-)(PD)</description>
+		<rom name="JetBoat! v30b (2007)(-)(PD).bin" size="8704" crc="6a836760" md5="0aa540fa3b637ca1093b586a46e506fb" sha1="426caa7dd97d35ebe699a2ebb282b96e05825348"/>
+	</game>
+	<game name="Jetpack v20060828 (2006)(deKleine, Harvey)(PD)">
+		<description>Jetpack v20060828 (2006)(deKleine, Harvey)(PD)</description>
+		<rom name="Jetpack v20060828 (2006)(deKleine, Harvey)(PD).bin" size="3712" crc="2c6ebaa8" md5="2e8febb0d8a5c43c4a3a414dd4ac89af" sha1="7fc882133ea14f084ac7d2928a1483128772783d"/>
+	</game>
+	<game name="Jetpack v20060831 (2006)(deKleine, Harvey)(PD)">
+		<description>Jetpack v20060831 (2006)(deKleine, Harvey)(PD)</description>
+		<rom name="Jetpack v20060831 (2006)(deKleine, Harvey)(PD).bin" size="4096" crc="358c5fd2" md5="b0a6ef607464623d2d71722925346fe8" sha1="45632a2b248d3f893687f63dd6f19b69c250a036"/>
+	</game>
+	<game name="Joust (1983)(Atari)(proto)">
+		<description>Joust (1983)(Atari)(proto)</description>
+		<rom name="Joust (1983)(Atari)(proto).bin" size="24576" crc="52228000" md5="e8acbbcffe3094e57621a75b3e355b37" sha1="551a87b925595e7a465d669e96e11cba0266663a"/>
+	</game>
+	<game name="Jump or Die (2006)(Bienvenu, Daniel)(PD)">
+		<description>Jump or Die (2006)(Bienvenu, Daniel)(PD)</description>
+		<rom name="Jump or Die (2006)(Bienvenu, Daniel)(PD).bin" size="2432" crc="edb051fd" md5="0c94d5be411d7724ec61464461a4fb7b" sha1="7fcaef64fa7fc142a358ce34bfbe04d29085d11b"/>
+	</game>
+	<game name="Jump or Die (2006)(Bienvenu, Daniel)(PD)[a]">
+		<description>Jump or Die (2006)(Bienvenu, Daniel)(PD)[a]</description>
+		<rom name="Jump or Die (2006)(Bienvenu, Daniel)(PD)[a].bin" size="2688" crc="f403fe04" md5="cd318b2a5e3486dc5fa0b47cfe8085de" sha1="aabca82c56bfb2c0587022ea87402fde75a42da9"/>
+	</game>
+	<game name="Jumpman Junior (1984)(Epyx)">
+		<description>Jumpman Junior (1984)(Epyx)</description>
+		<rom name="Jumpman Junior (1984)(Epyx).bin" size="16384" crc="060c69e8" md5="5454538f617f2ccf56cb7e0f5a45d11b" sha1="b79d4312e2d5fc30e37ee46916dc31908c84590e"/>
+	</game>
+	<game name="Jumpman Junior (1984)(Epyx)[b]">
+		<description>Jumpman Junior (1984)(Epyx)[b]</description>
+		<rom name="Jumpman Junior (1984)(Epyx)[b].bin" size="16384" crc="9528949a" md5="3e8b00c91098dc96664ba43c8904d34d" sha1="b9c4b8a6d5921927ba200e1f4efe0caaf82802c5"/>
+	</game>
+	<game name="Jumpman Junior (1984)(Epyx)[h]">
+		<description>Jumpman Junior (1984)(Epyx)[h]</description>
+		<rom name="Jumpman Junior (1984)(Epyx)[h].bin" size="16384" crc="ba0434f1" md5="b36dbdf6ba3eeda601580f4b696958e0" sha1="3a49914c7cb226dbc5b0b9e644f2433099ea6984"/>
+	</game>
+	<game name="Jungle Hunt (1983)(Atari)">
+		<description>Jungle Hunt (1983)(Atari)</description>
+		<rom name="Jungle Hunt (1983)(Atari).bin" size="24576" crc="58e886d2" md5="d6f4df2726159c5aedae9efd21307f09" sha1="8271203fa88e36dbee9423981f580c11b110001a"/>
+	</game>
+	<game name="Jungle Hunt (1983)(Atari)[b]">
+		<description>Jungle Hunt (1983)(Atari)[b]</description>
+		<rom name="Jungle Hunt (1983)(Atari)[b].bin" size="24576" crc="e8858484" md5="e6b4bc4610bd159c4d5ba682d5bf4119" sha1="d41bec8f571f3250668bb1cec5dc0bf7de74bb7d"/>
+	</game>
+	<game name="Ken Uston Blackjack-Poker (1983)(Coleco)">
+		<description>Ken Uston Blackjack-Poker (1983)(Coleco)</description>
+		<rom name="Ken Uston Blackjack-Poker (1983)(Coleco).bin" size="16384" crc="8c7b7803" md5="9266e9fac663332ed330b19a87841f0b" sha1="282c8b5186a7dbbb69b4b7dacd2095e1eaa5b4cd"/>
+	</game>
+	<game name="Ken Uston Blackjack-Poker (1983)(Coleco)[b]">
+		<description>Ken Uston Blackjack-Poker (1983)(Coleco)[b]</description>
+		<rom name="Ken Uston Blackjack-Poker (1983)(Coleco)[b].bin" size="16384" crc="1f5f8571" md5="18580bd730f4a38f695d2d83a08fc1a9" sha1="35030bd17ef2bccfc1d4117650b039d4996e7d18"/>
+	</game>
+	<game name="Kevtris (1996)(CVRS)(PD)">
+		<description>Kevtris (1996)(CVRS)(PD)</description>
+		<rom name="Kevtris (1996)(CVRS)(PD).bin" size="16384" crc="819a06e5" md5="813c90067297a7a2de6568d3092ace99" sha1="5de3bd9b7234a0eea7551ddbedd7f55cd47aa9f7"/>
+	</game>
+	<game name="Kevtris (1996)(CVRS)(PD)[a]">
+		<description>Kevtris (1996)(CVRS)(PD)[a]</description>
+		<rom name="Kevtris (1996)(CVRS)(PD)[a].bin" size="16384" crc="4e8dfc3c" md5="8b86660df35b91a42e6183abc14057ea" sha1="2c9491b998ab3c27dd1191405fd57b4a15de1ab8"/>
+	</game>
+	<game name="Keystone Kapers (1984)(Activision)">
+		<description>Keystone Kapers (1984)(Activision)</description>
+		<rom name="Keystone Kapers (1984)(Activision).bin" size="16384" crc="69fc2966" md5="7fc266ca1e05305c7d0244f663495f7d" sha1="4591c2927131338ff2f602fc8aebb2dda0407a8c"/>
+	</game>
+	<game name="Keystone Kapers (1984)(Activision)[b]">
+		<description>Keystone Kapers (1984)(Activision)[b]</description>
+		<rom name="Keystone Kapers (1984)(Activision)[b].bin" size="16384" crc="fad8d414" md5="3baeb48a8c0c2ff82b7222f3f88c1659" sha1="77cd01e29071dece70d18cf9e7e2d2ce455d001f"/>
+	</game>
+	<game name="Kick Gas! v20080608 (2008)(Dvik - Joyrex)(PD)">
+		<description>Kick Gas! v20080608 (2008)(Dvik - Joyrex)(PD)</description>
+		<rom name="Kick Gas! v20080608 (2008)(Dvik - Joyrex)(PD).bin" size="32768" crc="b31902f1" md5="bccf24f5f47023b6135b71984e5e6a1a" sha1="81f3f0d29458590dc4134c5f2c41c7cede37c1a4"/>
+	</game>
+	<game name="Kick Gas! v20080611 (2008)(Dvik - Joyrex)(PD)">
+		<description>Kick Gas! v20080611 (2008)(Dvik - Joyrex)(PD)</description>
+		<rom name="Kick Gas! v20080611 (2008)(Dvik - Joyrex)(PD).bin" size="32768" crc="f5991d37" md5="efaaaf9076b2dd39acdf55e9d4202d81" sha1="5c2fa8cb7602383e1a901bf44641fd8bb01cb157"/>
+	</game>
+	<game name="Kill Barney in Tokyo (1997)(Bienvenu, Daniel)(PD)">
+		<description>Kill Barney in Tokyo (1997)(Bienvenu, Daniel)(PD)</description>
+		<rom name="Kill Barney in Tokyo (1997)(Bienvenu, Daniel)(PD).bin" size="9494" crc="d905c94b" md5="064852f4e117aae89f485cafbab66401" sha1="50a1be08f8cd5445ee32c1702a3d3607948867b6"/>
+	</game>
+	<game name="Killer Instinct (1997)(Bienvenu, Daniel)(PD)">
+		<description>Killer Instinct (1997)(Bienvenu, Daniel)(PD)</description>
+		<rom name="Killer Instinct (1997)(Bienvenu, Daniel)(PD).bin" size="9494" crc="58f10c63" md5="0a796ee58c1a61dc0b12f94721b997e8" sha1="40324590797f32915021cfd0d6eb4112020939bf"/>
+	</game>
+	<game name="Kobashi (2008)(Dvik - Joyrex)(PD)">
+		<description>Kobashi (2008)(Dvik - Joyrex)(PD)</description>
+		<rom name="Kobashi (2008)(Dvik - Joyrex)(PD).bin" size="16384" crc="4d9e301e" md5="4e1bc38c1cdb7cd26757c993b28cb290" sha1="4ce63f21e6d62220431f486ba75bef1ba127b1b8"/>
+	</game>
+	<game name="Lady Bug (1982)(Coleco)">
+		<description>Lady Bug (1982)(Coleco)</description>
+		<rom name="Lady Bug (1982)(Coleco).bin" size="16384" crc="2c3097b8" md5="013cc5515769b0a099dd38506983f1ab" sha1="afa8e2f119d63463dbdd0c88be6873b0c6a27594"/>
+	</game>
+	<game name="Looping (1983)(Coleco)">
+		<description>Looping (1983)(Coleco)</description>
+		<rom name="Looping (1983)(Coleco).bin" size="16384" crc="6a2d637b" md5="c4b08b67aec8b8835e8f0e6aeb85260c" sha1="83ee624c22dd42650bcd585b9cc8cc87da6811d5"/>
+	</game>
+	<game name="Looping (1983)(Coleco)[b]">
+		<description>Looping (1983)(Coleco)[b]</description>
+		<rom name="Looping (1983)(Coleco)[b].bin" size="16384" crc="472f8cf6" md5="87e0da2aa0cbd406193d364e52f15b80" sha1="c4d1ff3843bf1fe884703b7ee81409b51bf9493a"/>
+	</game>
+	<game name="M.A.S.H. (1983)(Fox Video Games)(proto)">
+		<description>M.A.S.H. (1983)(Fox Video Games)(proto)</description>
+		<rom name="M.A.S.H. (1983)(Fox Video Games)(proto).bin" size="16384" crc="fc95b302" md5="7029bf20f4dee5049b0ddc61390b96e1" sha1="06513b0f49a86784b54dbd8abf8ef8eae934e3c4"/>
+	</game>
+	<game name="Maze Maniac (2005-11)(Boyer, Mathieu)(PD)">
+		<description>Maze Maniac (2005-11)(Boyer, Mathieu)(PD)</description>
+		<rom name="Maze Maniac (2005-11)(Boyer, Mathieu)(PD).bin" size="32640" crc="44bfaf23" md5="5833b958ecf1b72c3b11e75d79b7d875" sha1="bd5aea90f75be39aae4e3bf42f6bee7394578ce4"/>
+	</game>
+	<game name="MazezaM v1.0 (199x)(Tzvetkov, Ventzislav)(PD)">
+		<description>MazezaM v1.0 (199x)(Tzvetkov, Ventzislav)(PD)</description>
+		<rom name="MazezaM v1.0 (199x)(Tzvetkov, Ventzislav)(PD).bin" size="8192" crc="11160793" md5="6cbc06cba388acf43d55572f11d0ed26" sha1="8430022db95ddf5e4befe8254eac06367dce827b"/>
+	</game>
+	<game name="MazezaM v1.1 (199x)(Tzvetkov, Ventzislav)(PD)">
+		<description>MazezaM v1.1 (199x)(Tzvetkov, Ventzislav)(PD)</description>
+		<rom name="MazezaM v1.1 (199x)(Tzvetkov, Ventzislav)(PD).bin" size="16384" crc="150006fc" md5="9820cb1c242257fe7aeba529affd10c1" sha1="5ff0e43757f0d1230ea61de27c4efa5af1cfb2c5"/>
+	</game>
+	<game name="Meteoric Shower (1983)(Bit Corporation)(EU)">
+		<description>Meteoric Shower (1983)(Bit Corporation)(EU)</description>
+		<rom name="Meteoric Shower (1983)(Bit Corporation)(EU).bin" size="12288" crc="e51f464f" md5="8f1f9e8267b51d8b9b29fb62f0c050ec" sha1="36ddc3d1805e1f03ac8a23ede247e33114b0a106"/>
+	</game>
+	<game name="Meteoric Shower (1983)(Bit Corporation)(EU)[b]">
+		<description>Meteoric Shower (1983)(Bit Corporation)(EU)[b]</description>
+		<rom name="Meteoric Shower (1983)(Bit Corporation)(EU)[b].bin" size="16384" crc="3beffc06" md5="7be335b6b964b30ea7310172797005cf" sha1="92cf04a5346a409be51d1f728c4f734e3a5446ef"/>
+	</game>
+	<game name="Miner 2049er (1983)(Micro Fun)">
+		<description>Miner 2049er (1983)(Micro Fun)</description>
+		<rom name="Miner 2049er (1983)(Micro Fun).bin" size="24576" crc="b24f10fd" md5="3a1ef8e754016c87ead2335d7641f27a" sha1="b29cd441e9edebc37abc08c3fd932f1d4185bacd"/>
+	</game>
+	<game name="Miner 2049er (1983)(Micro Fun)[a]">
+		<description>Miner 2049er (1983)(Micro Fun)[a]</description>
+		<rom name="Miner 2049er (1983)(Micro Fun)[a].bin" size="24576" crc="f37af58c" md5="124d464a25dbe7d94a95ffa96b24d7db" sha1="591a08c17bbd716e13770e3b14e57a0c21229fc4"/>
+	</game>
+	<game name="Miner 2049er (1983)(Micro Fun)[b]">
+		<description>Miner 2049er (1983)(Micro Fun)[b]</description>
+		<rom name="Miner 2049er (1983)(Micro Fun)[b].bin" size="24576" crc="71d1bd4d" md5="135582f9d1dd0c8a1691be7abb051033" sha1="f1bbbc8025a744c46e4f3e242f8904d2bc57f175"/>
+	</game>
+	<game name="Miner 2049er (1983)(Micro Fun)[h 50 Lives]">
+		<description>Miner 2049er (1983)(Micro Fun)[h 50 Lives]</description>
+		<rom name="Miner 2049er (1983)(Micro Fun)[h 50 Lives].bin" size="24576" crc="a838c819" md5="27de111eea8975982476727412cc7db2" sha1="f4882ebf4f8a445381b89e8c4680419b8ec8b6b3"/>
+	</game>
+	<game name="Miner 2049er (1983)(Micro Fun)[h 8 Lives]">
+		<description>Miner 2049er (1983)(Micro Fun)[h 8 Lives]</description>
+		<rom name="Miner 2049er (1983)(Micro Fun)[h 8 Lives].bin" size="24576" crc="223c4926" md5="b922232a6e94f4ea6f01b98c8620b554" sha1="b999c22c320c6f3915eca73eada4928e951be62f"/>
+	</game>
+	<game name="Mist Maid v1.0 (2007)(Wick, Dale)(PD)">
+		<description>Mist Maid v1.0 (2007)(Wick, Dale)(PD)</description>
+		<rom name="Mist Maid v1.0 (2007)(Wick, Dale)(PD).bin" size="3562" crc="a7c54759" md5="bde771689e52646d4b774e28a09f9169" sha1="ccd06c8f8056baa3917811cfd36ed89dcfa6a46a"/>
+	</game>
+	<game name="Mist Maid v1.1 (2007)(Wick, Dale)(PD)">
+		<description>Mist Maid v1.1 (2007)(Wick, Dale)(PD)</description>
+		<rom name="Mist Maid v1.1 (2007)(Wick, Dale)(PD).bin" size="3570" crc="2a1ba55c" md5="7b46a7ebb2162aa8db781e91eb98bffb" sha1="3a86a06586264aff59053bb9c11fa73e3b7e305d"/>
+	</game>
+	<game name="Montezuma's Revenge (1984)(Parker Brothers)">
+		<description>Montezuma's Revenge (1984)(Parker Brothers)</description>
+		<rom name="Montezuma's Revenge (1984)(Parker Brothers).bin" size="12288" crc="ced0d16e" md5="f7f5da82e247df6f5097755deffde0ed" sha1="44862334e171bccd80d41a2afbc5d7af46d68d07"/>
+	</game>
+	<game name="Montezuma's Revenge (1984)(Parker Brothers)[b]">
+		<description>Montezuma's Revenge (1984)(Parker Brothers)[b]</description>
+		<rom name="Montezuma's Revenge (1984)(Parker Brothers)[b].bin" size="16384" crc="0bd9d073" md5="fa0b387a588834dd121b3a34da303838" sha1="b0c02e594dd965af5045d4e3de19c61fa5b6d0ca"/>
+	</game>
+	<game name="Moon Patrol (1984)(Atari)(proto)[b]">
+		<description>Moon Patrol (1984)(Atari)(proto)[b]</description>
+		<rom name="Moon Patrol (1984)(Atari)(proto)[b].bin" size="32772" crc="4178f7bd" md5="ed80593326cd4626446b34409f556acb" sha1="a739855468693a1f107e377d171815e2be9f8896"/>
+	</game>
+	<game name="Moon Patrol (1984)(Atari)(proto)[h2]">
+		<description>Moon Patrol (1984)(Atari)(proto)[h2]</description>
+		<rom name="Moon Patrol (1984)(Atari)(proto)[h2].bin" size="32768" crc="90007079" md5="39355f46ada88b0d50523c2f7f5c9362" sha1="8a1e2db621b84e630960b2341ac459af2723a3f6"/>
+	</game>
+	<game name="Moon Patrol (1984)(Atari)(proto)[h]">
+		<description>Moon Patrol (1984)(Atari)(proto)[h]</description>
+		<rom name="Moon Patrol (1984)(Atari)(proto)[h].bin" size="32768" crc="ed20e2a3" md5="0ef79248cab469e2ba4ce29be7a355ee" sha1="dada6846654d8d9b025e3e3d51841ba6d78ea139"/>
+	</game>
+	<game name="Moonsweeper (1983)(Imagic)">
+		<description>Moonsweeper (1983)(Imagic)</description>
+		<rom name="Moonsweeper (1983)(Imagic).bin" size="16384" crc="8a303f5a" md5="42447cf41e7afb267c262e578f0f24b1" sha1="eeccf73225e03ce10f6f6a02a808dc04f5bb0242"/>
+	</game>
+	<game name="Moonsweeper (1983)(Imagic)[b]">
+		<description>Moonsweeper (1983)(Imagic)[b]</description>
+		<rom name="Moonsweeper (1983)(Imagic)[b].bin" size="16384" crc="c521bcad" md5="e12d59dcb2f90e0a1392ef2e42c67064" sha1="f7dbdf62c9db7adb6a98eb02b1a47bd4ede6a4e8"/>
+	</game>
+	<game name="Motocross Racer (1984)(Xonox)">
+		<description>Motocross Racer (1984)(Xonox)</description>
+		<rom name="Motocross Racer (1984)(Xonox).bin" size="16384" crc="0f4d800a" md5="08dbf281e89c73802da5b508960c08f4" sha1="89b6f5f482f8f79c10ef9d3ffdeac1ded47a2362"/>
+	</game>
+	<game name="Motocross Racer (1984)(Xonox)[b]">
+		<description>Motocross Racer (1984)(Xonox)[b]</description>
+		<rom name="Motocross Racer (1984)(Xonox)[b].bin" size="16384" crc="935ebe62" md5="ffc377dd896c93a87c472ae9a594bb56" sha1="2e9a796cb6bc6467f58991c6eaf695d43b16fbda"/>
+	</game>
+	<game name="Mountain King (1984)(Sunrise Software)">
+		<description>Mountain King (1984)(Sunrise Software)</description>
+		<rom name="Mountain King (1984)(Sunrise Software).bin" size="16384" crc="c173bbec" md5="bb79207c51e772fd26276712cc4e6927" sha1="46602df46117513d7166eba81e2e3546246adf94"/>
+	</game>
+	<game name="Mountain King (1984)(Sunrise Software)[b]">
+		<description>Mountain King (1984)(Sunrise Software)[b]</description>
+		<rom name="Mountain King (1984)(Sunrise Software)[b].bin" size="16384" crc="d8d73246" md5="7817973f7c27c850ba27837c109b4e42" sha1="faa3301b9758c5c4a218b7ce1cbb760c26daee10"/>
+	</game>
+	<game name="Mouse Trap (1982)(Coleco)">
+		<description>Mouse Trap (1982)(Coleco)</description>
+		<rom name="Mouse Trap (1982)(Coleco).bin" size="12288" crc="de47c29f" md5="c8f0d1ee5494dab146c82a4ebecaff4a" sha1="36686b5f84c8ecfe9e6468ca0f2402ce0c03150c"/>
+	</game>
+	<game name="Mouse Trap (1982)(Coleco)[b2]">
+		<description>Mouse Trap (1982)(Coleco)[b2]</description>
+		<rom name="Mouse Trap (1982)(Coleco)[b2].bin" size="16384" crc="07e0e4a1" md5="975d4a1c4ade7c9348e89559661b81a1" sha1="ce3632a4acd8c010c591f51bd1849e284fa1f2b8"/>
+	</game>
+	<game name="Mouse Trap (1982)(Coleco)[b]">
+		<description>Mouse Trap (1982)(Coleco)[b]</description>
+		<rom name="Mouse Trap (1982)(Coleco)[b].bin" size="16384" crc="fd8b79b3" md5="12cd8d4268a87d0c94137f596e79b171" sha1="bde8f3e4be86d175b544225b129b9bd41dce0d78"/>
+	</game>
+	<game name="Mr Chin (2008)(CollectorVision)(PD)">
+		<description>Mr Chin (2008)(CollectorVision)(PD)</description>
+		<rom name="Mr Chin (2008)(CollectorVision)(PD).bin" size="22701" crc="66500e28" md5="5c2b1dc98901199371bab47cf42280a6" sha1="5b76096d6a1cd365b89735a9917d0bfcaf9fd31d"/>
+	</game>
+	<game name="Mr. Do! (1983)(Coleco)">
+		<description>Mr. Do! (1983)(Coleco)</description>
+		<rom name="Mr. Do! (1983)(Coleco).bin" size="24576" crc="461ab6ad" md5="de0b1b1ec005bb1765e1ceffdfa3e92e" sha1="d40a69f4d010636de50fdc1d43a0682141286cbd"/>
+	</game>
+	<game name="Mr. Do! (1983)(Coleco)[b]">
+		<description>Mr. Do! (1983)(Coleco)[b]</description>
+		<rom name="Mr. Do! (1983)(Coleco)[b].bin" size="24576" crc="d53e4bdf" md5="1c03c0990893b7a9d17e270d7ee9c368" sha1="ee98a2307e280d1c9b644ae9ce4aaa1ef954189f"/>
+	</game>
+	<game name="Mr. Do!'s Castle (1984)(Parker Brothers)">
+		<description>Mr. Do!'s Castle (1984)(Parker Brothers)</description>
+		<rom name="Mr. Do!'s Castle (1984)(Parker Brothers).bin" size="12288" crc="546f2c54" md5="7eaa827c9976e24e47ef49e2b1e2f0f7" sha1="e94e5d8dd549cae8b70d02170502eca4e90a3c30"/>
+	</game>
+	<game name="Mr. Do!'s Castle (1984)(Parker Brothers)[b]">
+		<description>Mr. Do!'s Castle (1984)(Parker Brothers)[b]</description>
+		<rom name="Mr. Do!'s Castle (1984)(Parker Brothers)[b].bin" size="16384" crc="ef7e9562" md5="60603e9b8740156f1250ca6f52ce8c43" sha1="e2ae664ce84f59cd904de49fed68657e7278d501"/>
+	</game>
+	<game name="Ms. Space Fury (2001)(Digital Press)(PD)">
+		<description>Ms. Space Fury (2001)(Digital Press)(PD)</description>
+		<rom name="Ms. Space Fury (2001)(Digital Press)(PD).bin" size="32768" crc="4e0edb24" md5="b7249fe99ab0c02ff5be36ec425ed766" sha1="6e83b20a1811c8edd0ceb6ab61a67b93d7228ec7"/>
+	</game>
+	<game name="Ms. Space Fury (2001)(Digital Press)(PD)[a]">
+		<description>Ms. Space Fury (2001)(Digital Press)(PD)[a]</description>
+		<rom name="Ms. Space Fury (2001)(Digital Press)(PD)[a].bin" size="32256" crc="dffd8cb4" md5="7de8f21a2f924753ee47d7336b8d6d70" sha1="891444b0f3d311ce09c6553027bdab39a95839dd"/>
+	</game>
+	<game name="New (2000)(Bienvenu, Daniel)(PD)">
+		<description>New (2000)(Bienvenu, Daniel)(PD)</description>
+		<rom name="New (2000)(Bienvenu, Daniel)(PD).bin" size="5504" crc="4ed18375" md5="4baf705ea22449267f94626d9a0a610a" sha1="e64a55af600aa73596a4f14372c02b326a50e4e1"/>
+	</game>
+	<game name="Nim (2000)(Bienvenu, Daniel)(PD)">
+		<description>Nim (2000)(Bienvenu, Daniel)(PD)</description>
+		<rom name="Nim (2000)(Bienvenu, Daniel)(PD).bin" size="6912" crc="9c059a51" md5="956455c6108fa2b009fb5797d0a19b5f" sha1="9ee8bee2b5f4c9f72dc07bba72b2d974473774d9"/>
+	</game>
+	<game name="Nim (2000)(Bienvenu, Daniel)(PD)[b]">
+		<description>Nim (2000)(Bienvenu, Daniel)(PD)[b]</description>
+		<rom name="Nim (2000)(Bienvenu, Daniel)(PD)[b].bin" size="6934" crc="9b8f6dad" md5="a350d6a2461692a76adf3e41b6b5c5d3" sha1="0f79cd544bab92f6a3ceb93de6f4534925126b9f"/>
+	</game>
+	<game name="Nova Blast (1983)(Imagic)">
+		<description>Nova Blast (1983)(Imagic)</description>
+		<rom name="Nova Blast (1983)(Imagic).bin" size="12288" crc="4491a35b" md5="745067096d2dda2c62874b60bab4f625" sha1="2c35f5b2eb5914a14e544e00c67d4cb5582832d8"/>
+	</game>
+	<game name="Nova Blast (1983)(Imagic)[b2]">
+		<description>Nova Blast (1983)(Imagic)[b2]</description>
+		<rom name="Nova Blast (1983)(Imagic)[b2].bin" size="12288" crc="c564456d" md5="9db96b46ded8da28db01946d753830ff" sha1="88cdb8ea518602fad212f0557945e70cea726fdb"/>
+	</game>
+	<game name="Nova Blast (1983)(Imagic)[b3]">
+		<description>Nova Blast (1983)(Imagic)[b3]</description>
+		<rom name="Nova Blast (1983)(Imagic)[b3].bin" size="16384" crc="3af1b5f7" md5="62991e2e81564a310066dd4184bd0401" sha1="5d3857ea3efb74dda8bc7415defefbdf90f58fba"/>
+	</game>
+	<game name="Nova Blast (1983)(Imagic)[b]">
+		<description>Nova Blast (1983)(Imagic)[b]</description>
+		<rom name="Nova Blast (1983)(Imagic)[b].bin" size="16384" crc="ea06f585" md5="daba4037e3034b0ac3ab2ced264370e9" sha1="d42f8620c9c7bc099ed0f4005f989189c766f57f"/>
+	</game>
+	<game name="Number Bumper (1984)(Sunrise)(proto)">
+		<description>Number Bumper (1984)(Sunrise)(proto)</description>
+		<rom name="Number Bumper (1984)(Sunrise)(proto).bin" size="32768" crc="6af8b439" md5="52eab97fc46601595999bdb78ea1630e" sha1="50d40fa769c3b92fe7d4eae23c15c429e020e023"/>
+	</game>
+	<game name="Oil's Well (1984)(Sierra On-Line)">
+		<description>Oil's Well (1984)(Sierra On-Line)</description>
+		<rom name="Oil's Well (1984)(Sierra On-Line).bin" size="16384" crc="add10242" md5="e7d10b763454692ea8a6da95fccdbd87" sha1="779e43f183dbdb692dc26ae41dde6b35891f8f8b"/>
+	</game>
+	<game name="Oil's Well (1984)(Sierra On-Line)[b]">
+		<description>Oil's Well (1984)(Sierra On-Line)[b]</description>
+		<rom name="Oil's Well (1984)(Sierra On-Line)[b].bin" size="16384" crc="d2256b6c" md5="b382fa6186d21132dcc3552de8082f7a" sha1="a081cf337854139e87952a03e463438720330aba"/>
+	</game>
+	<game name="Omega Race (1983)(Coleco)">
+		<description>Omega Race (1983)(Coleco)</description>
+		<rom name="Omega Race (1983)(Coleco).bin" size="16384" crc="0a0511c7" md5="28ed941c2746d50e62dd3acd29c7675e" sha1="d0b00ee7b4368ef3dbd74fbace4f8e061ed632f4"/>
+	</game>
+	<game name="Omega Race (1983)(Coleco)[b]">
+		<description>Omega Race (1983)(Coleco)[b]</description>
+		<rom name="Omega Race (1983)(Coleco)[b].bin" size="16384" crc="9921ecb5" md5="e7af8dc8712a761c418e91598a5eee1c" sha1="84f4b6fa6ab30b6c2e2b79bf61c5bb3421530303"/>
+	</game>
+	<game name="One-on-One (1984)(Micro Fun)">
+		<description>One-on-One (1984)(Micro Fun)</description>
+		<rom name="One-on-One (1984)(Micro Fun).bin" size="24576" crc="ef50e1c5" md5="0b70e3e59f72137a4a017f3761b24ff7" sha1="2c59bcd829c97948b88b45f447c4c57870d6bd77"/>
+	</game>
+	<game name="One-on-One (1984)(Micro Fun)[b]">
+		<description>One-on-One (1984)(Micro Fun)[b]</description>
+		<rom name="One-on-One (1984)(Micro Fun)[b].bin" size="24576" crc="17c77c3a" md5="45fec4406d06893e42856f0386ab3891" sha1="71689ef2af8351bbe70b66dbb89cd252f276e6cc"/>
+	</game>
+	<game name="Orbit (1983)(Parker Bros)(proto)">
+		<description>Orbit (1983)(Parker Bros)(proto)</description>
+		<rom name="Orbit (1983)(Parker Bros)(proto).bin" size="8192" crc="2cc6f4aa" md5="cc236e16f387816ce08d2e8915817c15" sha1="bcb3d6845b09adc1adf842cba1ca12f57aa47d79"/>
+	</game>
+	<game name="Ostrich Farmer v0.1 (2007-11-01)(hardhat)(PD)">
+		<description>Ostrich Farmer v0.1 (2007-11-01)(hardhat)(PD)</description>
+		<rom name="Ostrich Farmer v0.1 (2007-11-01)(hardhat)(PD).bin" size="3072" crc="087fd8ff" md5="9e584590b45ad18c93054de43d3c4440" sha1="90d7d226ebfe7df89cb5109c7a2e5e9d520c9ca3"/>
+	</game>
+	<game name="Ostrich Farmer v0.2 (2007-11-01)(hardhat)(PD)">
+		<description>Ostrich Farmer v0.2 (2007-11-01)(hardhat)(PD)</description>
+		<rom name="Ostrich Farmer v0.2 (2007-11-01)(hardhat)(PD).bin" size="3456" crc="6b988f2a" md5="ba44fdf014a896e22c048cfdeab8efcf" sha1="810d9ff6f1c9c78cd201bc85dd585fd87e02d563"/>
+	</game>
+	<game name="Pac-Man (1983)(Atari)(proto)">
+		<description>Pac-Man (1983)(Atari)(proto)</description>
+		<rom name="Pac-Man (1983)(Atari)(proto).bin" size="16384" crc="a40a07e8" md5="70432c26c3e9ff2be98eff4401923e3c" sha1="4d724d40c389cdb62929aa69bc76466c3bcb5bcd"/>
+	</game>
+	<game name="Pac-Man (1983)(Atari)(proto)[b]">
+		<description>Pac-Man (1983)(Atari)(proto)[b]</description>
+		<rom name="Pac-Man (1983)(Atari)(proto)[b].bin" size="16896" crc="1c7c99d8" md5="b498ba61fdaeb863ab85171c6cd9ec39" sha1="182ef4ab7fbc5f916fef9b9f4dee70b519067a0b"/>
+	</game>
+	<game name="Pac-Man Collection (2006)(Opcode)(PD)">
+		<description>Pac-Man Collection (2006)(Opcode)(PD)</description>
+		<rom name="Pac-Man Collection (2006)(Opcode)(PD).bin" size="32768" crc="3d5b9d88" md5="0021c6f3f52cc6a55a3c14bab8a6339e" sha1="d6b67e8f43afe666cdd79a718ddf808e27d6512d"/>
+	</game>
+	<game name="Pac-Man Collection (2006)(Opcode)(PD)[a]">
+		<description>Pac-Man Collection (2006)(Opcode)(PD)[a]</description>
+		<rom name="Pac-Man Collection (2006)(Opcode)(PD)[a].bin" size="32768" crc="060c6232" md5="31634db6ab12659f426471484a91228b" sha1="4404d063c53e80ad4bce387cc470b2805a15b391"/>
+	</game>
+	<game name="Pepper II (1983)(Coleco)">
+		<description>Pepper II (1983)(Coleco)</description>
+		<rom name="Pepper II (1983)(Coleco).bin" size="16384" crc="53b85e20" md5="679f02b1d1a7d68af42735d67cbccaff" sha1="0983d0a562ccb3d4ac88d8ae26cf29a465075067"/>
+	</game>
+	<game name="Pere Noel (2001)(Bienvenu, Daniel)(PD)">
+		<description>Pere Noel (2001)(Bienvenu, Daniel)(PD)</description>
+		<rom name="Pere Noel (2001)(Bienvenu, Daniel)(PD).bin" size="14464" crc="3f84cc6c" md5="3569f9c05d1f35ecb7daffba5801451c" sha1="5c5bbe98ed31ef305edfb85f764a21b465d5a45a"/>
+	</game>
+	<game name="Pitfall II - Lost Caverns (1984)(Activision)">
+		<description>Pitfall II - Lost Caverns (1984)(Activision)</description>
+		<rom name="Pitfall II - Lost Caverns (1984)(Activision).bin" size="16384" crc="851a455f" md5="9dc247f82da83e03c8d0592825f03d52" sha1="2642c458899c1cafa2f3b9e0959b9ead5829aa68"/>
+	</game>
+	<game name="Pitfall! (1983)(Activision)">
+		<description>Pitfall! (1983)(Activision)</description>
+		<rom name="Pitfall! (1983)(Activision).bin" size="16384" crc="d4f180df" md5="40187a21b1243686c68fa2aa11efba41" sha1="964a3551121cd33ce72624c5414d1406ee75ca35"/>
+	</game>
+	<game name="Pitfall! (1983)(Activision)[b2]">
+		<description>Pitfall! (1983)(Activision)[b2]</description>
+		<rom name="Pitfall! (1983)(Activision)[b2].bin" size="16384" crc="ea9e3a7b" md5="24b741bb9e0d0dca8e70d5a7df185949" sha1="50abbf2b89068c5b3a7d88aba84d206aa44bb60f"/>
+	</game>
+	<game name="Pitfall! (1983)(Activision)[b]">
+		<description>Pitfall! (1983)(Activision)[b]</description>
+		<rom name="Pitfall! (1983)(Activision)[b].bin" size="16384" crc="312ae55a" md5="0cb633e61cc4715f52b6bd1e262687d8" sha1="72daf86d5e8dc20028875942885546b9023bfd2f"/>
+	</game>
+	<game name="Pitstop (1983)(Epyx - CBS Electronics)">
+		<description>Pitstop (1983)(Epyx - CBS Electronics)</description>
+		<rom name="Pitstop (1983)(Epyx - CBS Electronics).bin" size="16384" crc="81be4f55" md5="871bc6498639031d782f84775cb3745c" sha1="bc449bf923cc6b1695598b1ffa7a328618a4ad85"/>
+	</game>
+	<game name="Pitstop (1983)(Epyx)(US)">
+		<description>Pitstop (1983)(Epyx)(US)</description>
+		<rom name="Pitstop (1983)(Epyx)(US).bin" size="16384" crc="e627fcf0" md5="3b5cf3a345abbb2b23c68181953f4710" sha1="f5a649238057fb354512da2f5336bcb4b09216e5"/>
+	</game>
+	<game name="Pitstop (1983)(Epyx)(US)[b]">
+		<description>Pitstop (1983)(Epyx)(US)[b]</description>
+		<rom name="Pitstop (1983)(Epyx)(US)[b].bin" size="16384" crc="1e455299" md5="8d3a442647d8c11361dfb4d0d7e37f5e" sha1="06640a1b83c326d2d5dc94a1e936d5d740ad3174"/>
+	</game>
+	<game name="Pong (2007)(Dioniso)(PD)">
+		<description>Pong (2007)(Dioniso)(PD)</description>
+		<rom name="Pong (2007)(Dioniso)(PD).bin" size="8192" crc="f343a738" md5="f5b08e31316806961e099121dc580942" sha1="ca568485d4c37ffeb55ebed270ca63a6f00d1eb9"/>
+	</game>
+	<game name="Popeye (1983)(Parker Brothers)">
+		<description>Popeye (1983)(Parker Brothers)</description>
+		<rom name="Popeye (1983)(Parker Brothers).bin" size="16384" crc="a095454d" md5="a7773e1265e0089bc8f148527256a20e" sha1="f54f110ba5864bb3418f84e1c2cdc5c856dda771"/>
+	</game>
+	<game name="Popeye (1983)(Parker Brothers)[b]">
+		<description>Popeye (1983)(Parker Brothers)[b]</description>
+		<rom name="Popeye (1983)(Parker Brothers)[b].bin" size="16384" crc="3ef1d0ee" md5="04d94acc4ee8639e8ebc619521f75f34" sha1="8536d0a4d9c6422ab221a7eaa55b9ba7caa5ea4c"/>
+	</game>
+	<game name="Porky's (1983)(Fox Video Games)(proto)">
+		<description>Porky's (1983)(Fox Video Games)(proto)</description>
+		<rom name="Porky's (1983)(Fox Video Games)(proto).bin" size="16384" crc="46fc1c00" md5="708ca6a994218696b1cc0dfbf8b9700c" sha1="4471f402c0cb8be232ece0ea84dcaef9ee002398"/>
+	</game>
+	<game name="Power Lords - Quest for Volcan (1983)(Probe 2000)(proto)">
+		<description>Power Lords - Quest for Volcan (1983)(Probe 2000)(proto)</description>
+		<rom name="Power Lords - Quest for Volcan (1983)(Probe 2000)(proto).bin" size="32768" crc="caa61d8d" md5="8c999d87686cb763875ba6e9dff8db5d" sha1="6712b866fa0d2d57fef1ac292b679fe4aeb69b62"/>
+	</game>
+	<game name="Purple Dinosaur Massacre (1996)(Dondzila, John)(PD)">
+		<description>Purple Dinosaur Massacre (1996)(Dondzila, John)(PD)</description>
+		<rom name="Purple Dinosaur Massacre (1996)(Dondzila, John)(PD).bin" size="9494" crc="137d6c4c" md5="e16ffc89b239a71f61e093dd8a86ce9e" sha1="13b9d251172d3f574c17c2c5ab936f8dda742a49"/>
+	</game>
+	<game name="Puzzle Panic (2001)(Bienvenu, Daniel)(PD)">
+		<description>Puzzle Panic (2001)(Bienvenu, Daniel)(PD)</description>
+		<rom name="Puzzle Panic (2001)(Bienvenu, Daniel)(PD).bin" size="32768" crc="1313c0c7" md5="9e72e4378debddae3ffe9bdc3282d674" sha1="a36c00f32cad6b603bc5525a741cb09064670f34"/>
+	</game>
+	<game name="Qbert (1983)(Parker Brothers)">
+		<description>Qbert (1983)(Parker Brothers)</description>
+		<rom name="Qbert (1983)(Parker Brothers).bin" size="8192" crc="532f61ba" md5="249e88fa4361edea2a98056954371c72" sha1="6243fc5593f40d7285ea6b69c541307d3fc583ac"/>
+	</game>
+	<game name="Qbert (1983)(Parker Brothers)[b]">
+		<description>Qbert (1983)(Parker Brothers)[b]</description>
+		<rom name="Qbert (1983)(Parker Brothers)[b].bin" size="8192" crc="13f06adc" md5="cb421913528847e05d53f60e995d6d0d" sha1="d2322e9aba23bdd3732ff5e631f92667f0c04ae9"/>
+	</game>
+	<game name="Qbert (1983)(Parker Brothers)[h]">
+		<description>Qbert (1983)(Parker Brothers)[h]</description>
+		<rom name="Qbert (1983)(Parker Brothers)[h].bin" size="8192" crc="d3bd33e3" md5="14873ca8a77afe29dc66d06f70b27c9f" sha1="a8487f03416bdbd28d3cc0737d55b90fdd1b45f2"/>
+	</game>
+	<game name="Qbert's QUBES (1984)(Parker Brothers)">
+		<description>Qbert's QUBES (1984)(Parker Brothers)</description>
+		<rom name="Qbert's QUBES (1984)(Parker Brothers).bin" size="12288" crc="79d90d26" md5="d6ef0832f3ff45b6358c445be645dc11" sha1="523fd9fce7047ae76dd4219cdb89a4f298fe14ab"/>
+	</game>
+	<game name="Qbert's QUBES (1984)(Parker Brothers)[b2]">
+		<description>Qbert's QUBES (1984)(Parker Brothers)[b2]</description>
+		<rom name="Qbert's QUBES (1984)(Parker Brothers)[b2].bin" size="16384" crc="4a5a97b4" md5="6eebb876e160a7d4af5d264856c9f609" sha1="77b54047cd3a9c7d15432e0556cf82eed44719eb"/>
+	</game>
+	<game name="Qbert's QUBES (1984)(Parker Brothers)[b]">
+		<description>Qbert's QUBES (1984)(Parker Brothers)[b]</description>
+		<rom name="Qbert's QUBES (1984)(Parker Brothers)[b].bin" size="16384" crc="e45496d3" md5="39e841b8d643dfe9e68f71c3259100fc" sha1="7119f43faf35e0c346446deade468adfcf6c3afc"/>
+	</game>
+	<game name="Quest for Quintana Roo (1983)(Sunrise Software)">
+		<description>Quest for Quintana Roo (1983)(Sunrise Software)</description>
+		<rom name="Quest for Quintana Roo (1983)(Sunrise Software).bin" size="16384" crc="eec81c42" md5="446256285c3b1dcf012d36b26f8fdb6b" sha1="1aef03f7d0bdaa701517a1ad6a75ab8820674f15"/>
+	</game>
+	<game name="Quest for Quintana Roo (1983)(Sunrise Software)[b]">
+		<description>Quest for Quintana Roo (1983)(Sunrise Software)[b]</description>
+		<rom name="Quest for Quintana Roo (1983)(Sunrise Software)[b].bin" size="16384" crc="2d32b1f0" md5="53b59a72662fd7ffa6874816ee401fc2" sha1="a8967b1192fb843598df62adf2c5b44a9e98d9bb"/>
+	</game>
+	<game name="Reversi (2001)(Bienvenu, Daniel)(PD)">
+		<description>Reversi (2001)(Bienvenu, Daniel)(PD)</description>
+		<rom name="Reversi (2001)(Bienvenu, Daniel)(PD).bin" size="23296" crc="7d102fe7" md5="f6416b12174102dd600a9f27b190910c" sha1="878193d602643183dc00df7da9f20eab416b6d9d"/>
+	</game>
+	<game name="Reversi (demo) (2001)(Bienvenu, Daniel)(PD)">
+		<description>Reversi (demo) (2001)(Bienvenu, Daniel)(PD)</description>
+		<rom name="Reversi (demo) (2001)(Bienvenu, Daniel)(PD).bin" size="16512" crc="bbef9e8f" md5="a0b9126957d857fa575e9be7740c91c9" sha1="ca2dded3b5881bafe8bbc4ab3ee7fb57e04e4c0b"/>
+	</game>
+	<game name="River Raid (1984)(Activision)">
+		<description>River Raid (1984)(Activision)</description>
+		<rom name="River Raid (1984)(Activision).bin" size="16384" crc="fe897f9c" md5="aebf917b911086bcf0b818d7b888d87d" sha1="00a5b9dc41e3a684a874b65cf29121984f10f327"/>
+	</game>
+	<game name="Robin Hood (1984)(Xonox)">
+		<description>Robin Hood (1984)(Xonox)</description>
+		<rom name="Robin Hood (1984)(Xonox).bin" size="16384" crc="cdb8d3cf" md5="a3bb14317c4a3f1788d550859d4bbe9d" sha1="f987591f915eb0d3547b85f3767fff2d4fd0540f"/>
+	</game>
+	<game name="Robin Hood (1984)(Xonox)[b]">
+		<description>Robin Hood (1984)(Xonox)[b]</description>
+		<rom name="Robin Hood (1984)(Xonox)[b].bin" size="16384" crc="0eb45d6e" md5="c9103aea67882b3aec97cacd1ca30418" sha1="25b69a19bed03c806188665a348f64be1f4b0e56"/>
+	</game>
+	<game name="Roc 'n Rope (1984)(Coleco)">
+		<description>Roc 'n Rope (1984)(Coleco)</description>
+		<rom name="Roc 'n Rope (1984)(Coleco).bin" size="24576" crc="af885d76" md5="e2c60e37df1e7205eecba716dd3d5f84" sha1="6598592f1f4debccce5bccfff406bf10970ffdac"/>
+	</game>
+	<game name="Roc 'n Rope (1984)(Coleco)[b]">
+		<description>Roc 'n Rope (1984)(Coleco)[b]</description>
+		<rom name="Roc 'n Rope (1984)(Coleco)[b].bin" size="24576" crc="3caca004" md5="acca6a75781bf687350d207b74804739" sha1="70f001572033d93fafce058d271fc875b6d0337b"/>
+	</game>
+	<game name="Rock 'n Bolt (1984)(Telegames)">
+		<description>Rock 'n Bolt (1984)(Telegames)</description>
+		<rom name="Rock 'n Bolt (1984)(Telegames).bin" size="16384" crc="af49a0c3" md5="ce4466aa6bc973c5021577578d881aed" sha1="2b2f337ba597af5eee2b10e70a129638b4679c9e"/>
+	</game>
+	<game name="Rock 'n Bolt (1984)(Telegames)[b]">
+		<description>Rock 'n Bolt (1984)(Telegames)[b]</description>
+		<rom name="Rock 'n Bolt (1984)(Telegames)[b].bin" size="16384" crc="522b59b9" md5="e13ff5dd1d859dc8d1af1c810536aa91" sha1="fda438a9d57bdb5aa178c6748db695627805ce15"/>
+	</game>
+	<game name="Rocky - Super Action Boxing (1983)(Coleco)">
+		<description>Rocky - Super Action Boxing (1983)(Coleco)</description>
+		<rom name="Rocky - Super Action Boxing (1983)(Coleco).bin" size="20480" crc="37f144d3" md5="d35fdb81f4a733925b0a33dfb53d9d78" sha1="11def2adb622bbf62bfd2ac14d8151c8f2f772eb"/>
+	</game>
+	<game name="Rocky - Super Action Boxing (1983)(Coleco)[b2]">
+		<description>Rocky - Super Action Boxing (1983)(Coleco)[b2]</description>
+		<rom name="Rocky - Super Action Boxing (1983)(Coleco)[b2].bin" size="24576" crc="a103d119" md5="d9b2c3dd1b40cca7aa6bd40b0f64fb67" sha1="8f7b39e3fff19d2b4d6e113567c599447ddc4fef"/>
+	</game>
+	<game name="Rocky - Super Action Boxing (1983)(Coleco)[b]">
+		<description>Rocky - Super Action Boxing (1983)(Coleco)[b]</description>
+		<rom name="Rocky - Super Action Boxing (1983)(Coleco)[b].bin" size="24576" crc="046f4b70" md5="4c0391786acb7e7e22cf34f757388b6d" sha1="50af8fb35be989c9addbc0e9a082190eeab70d8d"/>
+	</game>
+	<game name="Rolloverture (1983)(Sunrise Software)">
+		<description>Rolloverture (1983)(Sunrise Software)</description>
+		<rom name="Rolloverture (1983)(Sunrise Software).bin" size="16384" crc="0364fb81" md5="09b1fbd8e7b09d423894c155a24c569f" sha1="5bd7c21d64eee044c88ae438479d22802a510677"/>
+	</game>
+	<game name="Rolloverture (1983)(Sunrise Software)[b]">
+		<description>Rolloverture (1983)(Sunrise Software)[b]</description>
+		<rom name="Rolloverture (1983)(Sunrise Software)[b].bin" size="16384" crc="e4585c0a" md5="3cd028c84f0a5ec849d87bef5516d080" sha1="2943b5d1274864e013b774108ef9c8d0cff25159"/>
+	</game>
+	<game name="Sammy Lightfoot (1983)(Sierra On-Line)">
+		<description>Sammy Lightfoot (1983)(Sierra On-Line)</description>
+		<rom name="Sammy Lightfoot (1983)(Sierra On-Line).bin" size="16384" crc="3563286b" md5="78f37e95058f08c4995cf95598ee2a4f" sha1="b011dc446bb20bcdf5ee8404919d039b690d976b"/>
+	</game>
+	<game name="Sammy Lightfoot (1983)(Sierra On-Line)[b]">
+		<description>Sammy Lightfoot (1983)(Sierra On-Line)[b]</description>
+		<rom name="Sammy Lightfoot (1983)(Sierra On-Line)[b].bin" size="16384" crc="c5f69a1b" md5="7a70637bbc173a9dcefb2f1db6c7dc44" sha1="88fa56b294294110a4cc2c0f109e09e8c1cdeae9"/>
+	</game>
+	<game name="Schlange CV (2006)(Krause, Philipp Klaus)(PD)">
+		<description>Schlange CV (2006)(Krause, Philipp Klaus)(PD)</description>
+		<rom name="Schlange CV (2006)(Krause, Philipp Klaus)(PD).bin" size="32104" crc="a6b8c56e" md5="f2996c825450ba8dccb1660ebdaf3ac2" sha1="4a7cbc9ec211b438040e1664aeccff22882bb93e"/>
+	</game>
+	<game name="Schlange CV (demo) (2006-05-08)(Krause, Philipp Klaus)(PD)">
+		<description>Schlange CV (demo) (2006-05-08)(Krause, Philipp Klaus)(PD)</description>
+		<rom name="Schlange CV (demo) (2006-05-08)(Krause, Philipp Klaus)(PD).bin" size="31681" crc="e10230d3" md5="2f96fac1c891af5f466764f897b665c8" sha1="05e371464c743602829a6422fae2910b2edd7345"/>
+	</game>
+	<game name="Schlange CV (demo) (2006-06-02)(Krause, Philipp Klaus)(PD)">
+		<description>Schlange CV (demo) (2006-06-02)(Krause, Philipp Klaus)(PD)</description>
+		<rom name="Schlange CV (demo) (2006-06-02)(Krause, Philipp Klaus)(PD).bin" size="31681" crc="2cfa0687" md5="75f248d717d812677a79a2d2b5e9eeae" sha1="09c3a505db39754bd0054c6cf3f585329e799fee"/>
+	</game>
+	<game name="Schlange CV v0.10 (demo) (2005)(Krause, Philipp Klaus)(PD)">
+		<description>Schlange CV v0.10 (demo) (2005)(Krause, Philipp Klaus)(PD)</description>
+		<rom name="Schlange CV v0.10 (demo) (2005)(Krause, Philipp Klaus)(PD).bin" size="28372" crc="67a202dc" md5="d66162de5e6776ace21168650a403893" sha1="5d6f0fbf74a97874acd8f3fcdb5900e3f0319b7d"/>
+	</game>
+	<game name="Search for the Stolen Crown Jewels (2006-05-08)(Krause, Philipp Klaus)(PD)">
+		<description>Search for the Stolen Crown Jewels (2006-05-08)(Krause, Philipp Klaus)(PD)</description>
+		<rom name="Search for the Stolen Crown Jewels (2006-05-08)(Krause, Philipp Klaus)(PD).bin" size="28849" crc="ad1ba6ed" md5="36fb7f79a73694e62deb0a9df5725df4" sha1="09e9347706a9077de4dec06466103ff07884b97c"/>
+	</game>
+	<game name="Search for the Stolen Crown Jewels (2006-06-01)(Krause, Philipp Klaus)(PD)">
+		<description>Search for the Stolen Crown Jewels (2006-06-01)(Krause, Philipp Klaus)(PD)</description>
+		<rom name="Search for the Stolen Crown Jewels (2006-06-01)(Krause, Philipp Klaus)(PD).bin" size="28954" crc="5a601d55" md5="b5b0e56a6dcf2b3b73941f52a8364881" sha1="24a209ba6fe8ead416e3991bc361af8b5311187e"/>
+	</game>
+	<game name="Search for the Stolen Crown Jewels (demo) (2005-09-19)(Krause, Philipp Klaus)(PD)">
+		<description>Search for the Stolen Crown Jewels (demo) (2005-09-19)(Krause, Philipp Klaus)(PD)</description>
+		<rom name="Search for the Stolen Crown Jewels (demo) (2005-09-19)(Krause, Philipp Klaus)(PD).bin" size="14298" crc="e38ed9a3" md5="48d484d9713b4fa76c0bf55b965c54a1" sha1="fe6c1753419e8b49f23318758f3ab9cc42a8e0e5"/>
+	</game>
+	<game name="Search for the Stolen Crown Jewels (demo) (2005-09-26)(Krause, Philipp Klaus)(PD)">
+		<description>Search for the Stolen Crown Jewels (demo) (2005-09-26)(Krause, Philipp Klaus)(PD)</description>
+		<rom name="Search for the Stolen Crown Jewels (demo) (2005-09-26)(Krause, Philipp Klaus)(PD).bin" size="31309" crc="baf9eb50" md5="ef3dff73d5b90c64dc4835308deef8ae" sha1="cb00a383e7b53bd4dfd12a2597b7e8f852b33709"/>
+	</game>
+	<game name="Search for the Stolen Crown Jewels 2 (demo) (2007)(Krause, Philipp Klaus)(PD)">
+		<description>Search for the Stolen Crown Jewels 2 (demo) (2007)(Krause, Philipp Klaus)(PD)</description>
+		<rom name="Search for the Stolen Crown Jewels 2 (demo) (2007)(Krause, Philipp Klaus)(PD).bin" size="29260" crc="99d5e2db" md5="d91655e3bb623508e75e3940efe246fe" sha1="bab03754b7e7047d6e32527d53b55c8e60c57924"/>
+	</game>
+	<game name="Search for the Stolen Crown Jewels 3 (demo) (2008)(Krause, Philipp Klaus)(PD)">
+		<description>Search for the Stolen Crown Jewels 3 (demo) (2008)(Krause, Philipp Klaus)(PD)</description>
+		<rom name="Search for the Stolen Crown Jewels 3 (demo) (2008)(Krause, Philipp Klaus)(PD).bin" size="31229" crc="594b1235" md5="95729e45bb11bc2f08b4e2569fafdcad" sha1="7102fd7a776ec16c4dd93b6e4caf729e6db4156f"/>
+	</game>
+	<game name="Search for the stolen Crown Jewels II (demo) (2007)(Krause, Philipp Klaus)(PD)">
+		<description>Search for the stolen Crown Jewels II (demo) (2007)(Krause, Philipp Klaus)(PD)</description>
+		<rom name="Search for the stolen Crown Jewels II (demo) (2007)(Krause, Philipp Klaus)(PD).bin" size="29256" crc="eaf7d6dc" md5="f09d1237396eb8a791b0bfe7652ef488" sha1="0d144f191629570213694fd63b54e651338c89e3"/>
+	</game>
+	<game name="Search for the stolen Crown Jewels II Beta (demo) (2007)(Krause, Philipp Klaus)(PD)">
+		<description>Search for the stolen Crown Jewels II Beta (demo) (2007)(Krause, Philipp Klaus)(PD)</description>
+		<rom name="Search for the stolen Crown Jewels II Beta (demo) (2007)(Krause, Philipp Klaus)(PD).bin" size="31559" crc="22af39c8" md5="27ebfa6562801321c23e637d37588bf7" sha1="8e20a89350277f4d6f2b67e4e84fce21c1c62fa9"/>
+	</game>
+	<game name="Search for the Stolen Crown Jewels II GameConsole (demo) (2007)(Krause, Philipp Klaus)(PD)">
+		<description>Search for the Stolen Crown Jewels II GameConsole (demo) (2007)(Krause, Philipp Klaus)(PD)</description>
+		<rom name="Search for the Stolen Crown Jewels II GameConsole (demo) (2007)(Krause, Philipp Klaus)(PD).bin" size="29339" crc="90feea06" md5="0a66c4f36c0842a38c779dd7d0fcf12a" sha1="3b61b43d42e4e205e502789cbf80384013cbbe5f"/>
+	</game>
+	<game name="Search for the Stolen Crown Jewels v1.0 (demo) (2006)(Krause, Philipp Klaus)(PD)">
+		<description>Search for the Stolen Crown Jewels v1.0 (demo) (2006)(Krause, Philipp Klaus)(PD)</description>
+		<rom name="Search for the Stolen Crown Jewels v1.0 (demo) (2006)(Krause, Philipp Klaus)(PD).bin" size="29013" crc="e339d9cc" md5="debd29830d9dededd646ca969c224c0d" sha1="1e2e883604e3b8559bd36c88313567dabd8444ac"/>
+	</game>
+	<game name="Sector Alpha (1983)(Spectravideo)">
+		<description>Sector Alpha (1983)(Spectravideo)</description>
+		<rom name="Sector Alpha (1983)(Spectravideo).bin" size="20480" crc="0ec63a5c" md5="09bf95c028205bc218bbb67116cdf688" sha1="990967a4ef5795733a29efbacddb23e4d4dd3c15"/>
+	</game>
+	<game name="Sector Alpha (1983)(Spectravideo)[b2]">
+		<description>Sector Alpha (1983)(Spectravideo)[b2]</description>
+		<rom name="Sector Alpha (1983)(Spectravideo)[b2].bin" size="32768" crc="ba14a83a" md5="ef0d530384330b112d6e43ca615f5167" sha1="6a4fbfbdcc8cc530a4dac5225c1d551e812e73ae"/>
+	</game>
+	<game name="Sector Alpha (1983)(Spectravideo)[b3]">
+		<description>Sector Alpha (1983)(Spectravideo)[b3]</description>
+		<rom name="Sector Alpha (1983)(Spectravideo)[b3].bin" size="24576" crc="5e3c66f4" md5="b8d4d493c26d7c61e3851828b4d83746" sha1="4f54d8641bf959ddcb776df7a45e6897bf31656a"/>
+	</game>
+	<game name="Sector Alpha (1983)(Spectravideo)[b4]">
+		<description>Sector Alpha (1983)(Spectravideo)[b4]</description>
+		<rom name="Sector Alpha (1983)(Spectravideo)[b4].bin" size="24576" crc="8a46e5fa" md5="ad1a4547f56b687ffe569f235df40dd9" sha1="2570fcf9d93e46ffce1d3f4a29681c9eac3bbd5f"/>
+	</game>
+	<game name="Sector Alpha (1983)(Spectravideo)[b]">
+		<description>Sector Alpha (1983)(Spectravideo)[b]</description>
+		<rom name="Sector Alpha (1983)(Spectravideo)[b].bin" size="32768" crc="fe5f4602" md5="91068a05030e2eb8a953d983da4d864b" sha1="fb2fea387eed84f0ca0fbf6736060a1612c971b3"/>
+	</game>
+	<game name="Sewer Sam (1984)(Interphase)">
+		<description>Sewer Sam (1984)(Interphase)</description>
+		<rom name="Sewer Sam (1984)(Interphase).bin" size="24576" crc="4591f393" md5="5de08cbdc916708999328e720ea2e703" sha1="407c2a1bef81522dfd88ace7abd7d80c0f7de357"/>
+	</game>
+	<game name="Sewer Sam (1984)(Interphase)[b]">
+		<description>Sewer Sam (1984)(Interphase)[b]</description>
+		<rom name="Sewer Sam (1984)(Interphase)[b].bin" size="24576" crc="74057241" md5="a7036e86e96835af621d1294cfe253e9" sha1="b0cb88d41d9b1b3698a799caacb3a7ddcb5c19ec"/>
+	</game>
+	<game name="Shunting Puzzle (2009-06-08)(Krause, Philipp Klaus)(PD)">
+		<description>Shunting Puzzle (2009-06-08)(Krause, Philipp Klaus)(PD)</description>
+		<rom name="Shunting Puzzle (2009-06-08)(Krause, Philipp Klaus)(PD).bin" size="29772" crc="554d959a" md5="3cf7e73cf264897bb9b8abbee64351be" sha1="042b00c4c7ac1355c7af1a4e5b5601e3003805a6"/>
+	</game>
+	<game name="Sir Lancelot (1983)(Xonox)">
+		<description>Sir Lancelot (1983)(Xonox)</description>
+		<rom name="Sir Lancelot (1983)(Xonox).bin" size="16384" crc="df84ffb5" md5="ae936b4f13874715d5fbebee379febfb" sha1="15e6f8197caee5a500c6ce33952d51beca6a43cc"/>
+	</game>
+	<game name="Sir Lancelot (1983)(Xonox)[b]">
+		<description>Sir Lancelot (1983)(Xonox)[b]</description>
+		<rom name="Sir Lancelot (1983)(Xonox)[b].bin" size="16384" crc="dd76775d" md5="535518cce43a9c0921179b840a704593" sha1="4309865f8a18ee611be95445fcaba000e9e321bd"/>
+	</game>
+	<game name="Skiing (1986)(Telegames)">
+		<description>Skiing (1986)(Telegames)</description>
+		<rom name="Skiing (1986)(Telegames).bin" size="8192" crc="b37d48bd" md5="a9e17aac9858dcc504879e45f50bd3ac" sha1="2cfd62a4b403fc2f5344d0e095d1028cc11e4ecc"/>
+	</game>
+	<game name="Skiing (1986)(Telegames)[b]">
+		<description>Skiing (1986)(Telegames)[b]</description>
+		<rom name="Skiing (1986)(Telegames)[b].bin" size="16384" crc="c5c80fb4" md5="de48635d25e815bc20f770d194fa2ce1" sha1="ae77a13fee7b3828f36736a6ffd1139ec35df6a6"/>
+	</game>
+	<game name="Sky Jaguar (2004)(Konami - Opcode)(PD)">
+		<description>Sky Jaguar (2004)(Konami - Opcode)(PD)</description>
+		<rom name="Sky Jaguar (2004)(Konami - Opcode)(PD).bin" size="32768" crc="54d54968" md5="6e8636b8a57594e12d60c05b70486378" sha1="630b793f81e1d130c1824ae34cd75704e8ed5f6e"/>
+	</game>
+	<game name="Slither (1983)(Coleco)">
+		<description>Slither (1983)(Coleco)</description>
+		<rom name="Slither (1983)(Coleco).bin" size="16384" crc="53d2651c" md5="7cdc148dff40389fa1ad012d4734ceed" sha1="b11de2476f867c7c4efb2977777e12fcb454f10b"/>
+	</game>
+	<game name="Slither (1983)(Coleco)[b]">
+		<description>Slither (1983)(Coleco)[b]</description>
+		<rom name="Slither (1983)(Coleco)[b].bin" size="24576" crc="5cdb00d3" md5="da3b6f9c609285d5e75d38d54ae27555" sha1="5569de038f64eee6ee685c5494e8360b4d029e83"/>
+	</game>
+	<game name="Slurpy (1984)(Xonox)">
+		<description>Slurpy (1984)(Xonox)</description>
+		<rom name="Slurpy (1984)(Xonox).bin" size="16384" crc="8871e9fd" md5="5fac2d8e197b781b65a5a9aa6984d003" sha1="b56ccdd5a6df3ad753b3f552daad70e1d7bd7e4d"/>
+	</game>
+	<game name="Slurpy (1984)(Xonox)[b]">
+		<description>Slurpy (1984)(Xonox)[b]</description>
+		<rom name="Slurpy (1984)(Xonox)[b].bin" size="24576" crc="27f5c0ad" md5="1240edfec95508e1e0400cc5a557ab4b" sha1="ef01edb9f1ec6c01323f81ff03fd077dea50f105"/>
+	</game>
+	<game name="Smash (2004)(Bienvenu, Daniel)(PD)">
+		<description>Smash (2004)(Bienvenu, Daniel)(PD)</description>
+		<rom name="Smash (2004)(Bienvenu, Daniel)(PD).bin" size="3712" crc="db66b53b" md5="0387a577061e159d3e4a721d2128f67f" sha1="0692904ffcb39bb81564819e6925aecd2d4ca9df"/>
+	</game>
+	<game name="Smash (2004)(Bienvenu, Daniel)(PD)[a]">
+		<description>Smash (2004)(Bienvenu, Daniel)(PD)[a]</description>
+		<rom name="Smash (2004)(Bienvenu, Daniel)(PD)[a].bin" size="8192" crc="97640ee1" md5="22d403a4bb63dca5a62811270b6ada92" sha1="9edc314ee0712dfada90fd1bc5454f862846d65e"/>
+	</game>
+	<game name="Smurf Rescue in Gargamel's Castle (1982)(Coleco)">
+		<description>Smurf Rescue in Gargamel's Castle (1982)(Coleco)</description>
+		<rom name="Smurf Rescue in Gargamel's Castle (1982)(Coleco).bin" size="16384" crc="42850379" md5="c29e282c81ce9b40f39f493f51725d3c" sha1="f0740e1916d2351537c6725b37ba3c1b321f15eb"/>
+	</game>
+	<game name="Smurf Rescue in Gargamel's Castle (1982)(Coleco)[b]">
+		<description>Smurf Rescue in Gargamel's Castle (1982)(Coleco)[b]</description>
+		<rom name="Smurf Rescue in Gargamel's Castle (1982)(Coleco)[b].bin" size="16384" crc="d1a1fe0b" md5="b508f1e90544d8da73a09992fc03c973" sha1="bfa12da8a4bfeb7c985c9b5ffc45494efc7fce50"/>
+	</game>
+	<game name="Space Caverns (2004)(Huggins, Scott)(PD)">
+		<description>Space Caverns (2004)(Huggins, Scott)(PD)</description>
+		<rom name="Space Caverns (2004)(Huggins, Scott)(PD).bin" size="20480" crc="9e1bea35" md5="19fc5d292ecda24da34636de744ecfc2" sha1="0278de7c17064ded63e373443fa10cd468b6ea6f"/>
+	</game>
+	<game name="Space Fury (1983)(Sega)">
+		<description>Space Fury (1983)(Sega)</description>
+		<rom name="Space Fury (1983)(Sega).bin" size="16384" crc="df8de30f" md5="f821cf20b7faa5c2cb738cd8aa90dc95" sha1="f400e1e368ae420a97015674a28db91b4bea15a6"/>
+	</game>
+	<game name="Space Fury (1983)(Sega)[b]">
+		<description>Space Fury (1983)(Sega)[b]</description>
+		<rom name="Space Fury (1983)(Sega)[b].bin" size="16384" crc="567be2b0" md5="de25f1be4eb1893e8d0eb3d754b0d084" sha1="68a2532a516873e44c66355097ef15972a5e135f"/>
+	</game>
+	<game name="Space Hunter (2005)(Foster, Guy)(PD)">
+		<description>Space Hunter (2005)(Foster, Guy)(PD)</description>
+		<rom name="Space Hunter (2005)(Foster, Guy)(PD).bin" size="4147" crc="9badaa20" md5="fa366df3891b92e33187656ea9ea32dd" sha1="c03433fed431a5ee655018a405bd401c74cd5088"/>
+	</game>
+	<game name="Space Hunter (2005)(Foster, Guy)(PD)[a]">
+		<description>Space Hunter (2005)(Foster, Guy)(PD)[a]</description>
+		<rom name="Space Hunter (2005)(Foster, Guy)(PD)[a].bin" size="4082" crc="4b19aa5f" md5="9290e66d712afc32125d95d6fd2b22a4" sha1="d5d6930a2605380618c2a0699d4bb106ced3f112"/>
+	</game>
+	<game name="Space Invaders Collection Demo (2002)(Opcode)(PD)">
+		<description>Space Invaders Collection Demo (2002)(Opcode)(PD)</description>
+		<rom name="Space Invaders Collection Demo (2002)(Opcode)(PD).bin" size="32768" crc="b09f48c6" md5="b487163e5a463cee19b484d7afdad772" sha1="5ecd4928cb33843246921bab152e9a99c0cf23d3"/>
+	</game>
+	<game name="Space Invaders Collection Demo (2002)(Opcode)(PD)[a]">
+		<description>Space Invaders Collection Demo (2002)(Opcode)(PD)[a]</description>
+		<rom name="Space Invaders Collection Demo (2002)(Opcode)(PD)[a].bin" size="16384" crc="5191bba9" md5="d424c8234c9d2df4999aed94ce4d81f6" sha1="4ebbfb43878be488bed7e7b4926655be6c5f664f"/>
+	</game>
+	<game name="Space Invasion (1998)(Dondzila, John)(PD)">
+		<description>Space Invasion (1998)(Dondzila, John)(PD)</description>
+		<rom name="Space Invasion (1998)(Dondzila, John)(PD).bin" size="16384" crc="af9b178c" md5="98474d00203e3c3d51fdf9612b98f6a2" sha1="617f7bd6723f47017b7c0b0df68799b87fe6e09d"/>
+	</game>
+	<game name="Space Invasion (demo) (1998)(Dondzila, John)(PD)">
+		<description>Space Invasion (demo) (1998)(Dondzila, John)(PD)</description>
+		<rom name="Space Invasion (demo) (1998)(Dondzila, John)(PD).bin" size="11292" crc="1328d5c4" md5="852fcda255c345c1459b19bfa19a546b" sha1="f828b172ed3b51cc5f65843032bd2f4e2bf5c418"/>
+	</game>
+	<game name="Space Panic (1983)(Coleco)">
+		<description>Space Panic (1983)(Coleco)</description>
+		<rom name="Space Panic (1983)(Coleco).bin" size="16384" crc="5bdf2997" md5="2a1f023ee4798230e59bfa14cf6c497a" sha1="530870501f322f1d72e820a722790d300f43a6de"/>
+	</game>
+	<game name="Space Trainer (2005)(Bienvenu, Daniel)(PD)">
+		<description>Space Trainer (2005)(Bienvenu, Daniel)(PD)</description>
+		<rom name="Space Trainer (2005)(Bienvenu, Daniel)(PD).bin" size="4096" crc="fe521268" md5="cb9688ab785daa2456fa2a50a9e36db1" sha1="5c9f07d3a37ee5b6c3a0788f880313d4841cbaa4"/>
+	</game>
+	<game name="Space Trainer (2005)(Bienvenu, Daniel)(PD)[a]">
+		<description>Space Trainer (2005)(Bienvenu, Daniel)(PD)[a]</description>
+		<rom name="Space Trainer (2005)(Bienvenu, Daniel)(PD)[a].bin" size="4096" crc="1ab5f4e6" md5="399e6fe7e9fa95b73144606e8acc0a3d" sha1="c81037c3d19d8c502fc6f37d8b99bfc640d882be"/>
+	</game>
+	<game name="Spaz Attak (2006)(Uman, Howard)(PD)">
+		<description>Spaz Attak (2006)(Uman, Howard)(PD)</description>
+		<rom name="Spaz Attak (2006)(Uman, Howard)(PD).bin" size="5504" crc="6006c650" md5="70458aedf0daddf60fa0c3b3724e8c4b" sha1="0ccbe626bb22dfe8e245b43bc6d2e3b3d60e6899"/>
+	</game>
+	<game name="Spaz Attak v20090203 (2009)(Uman, Howard)(PD)">
+		<description>Spaz Attak v20090203 (2009)(Uman, Howard)(PD)</description>
+		<rom name="Spaz Attak v20090203 (2009)(Uman, Howard)(PD).bin" size="6656" crc="03879b90" md5="36e07a870f24587999382e5e906fac7b" sha1="9077e6defde16f11f11308091d3cc92a26e542a7"/>
+	</game>
+	<game name="Spaz Attak v20090205 (2009)(Uman, Howard)(PD)">
+		<description>Spaz Attak v20090205 (2009)(Uman, Howard)(PD)</description>
+		<rom name="Spaz Attak v20090205 (2009)(Uman, Howard)(PD).bin" size="8448" crc="2b988f9d" md5="92898edbbf9f99bf4279f7099e6a3329" sha1="0406205cce714dc259891bde8f45dedc45312cc8"/>
+	</game>
+	<game name="Spaz Attak v20090208 (2009)(Uman, Howard)(PD)">
+		<description>Spaz Attak v20090208 (2009)(Uman, Howard)(PD)</description>
+		<rom name="Spaz Attak v20090208 (2009)(Uman, Howard)(PD).bin" size="9088" crc="86c989f6" md5="15355397d73e32a59e47a1fe205ceb01" sha1="9e1f625fb9486fc9dda551c95b74f1ec6dda9eac"/>
+	</game>
+	<game name="Spaz Attak v20090209 (2009)(Uman, Howard)(PD)">
+		<description>Spaz Attak v20090209 (2009)(Uman, Howard)(PD)</description>
+		<rom name="Spaz Attak v20090209 (2009)(Uman, Howard)(PD).bin" size="8960" crc="26d79e17" md5="10ebafe2211e6ed71f169f6b9ee0c8da" sha1="90fec073dafc71dbdc7b1c4ae73221908cf87145"/>
+	</game>
+	<game name="Spaz Attak v20090210 (2009)(Uman, Howard)(PD)">
+		<description>Spaz Attak v20090210 (2009)(Uman, Howard)(PD)</description>
+		<rom name="Spaz Attak v20090210 (2009)(Uman, Howard)(PD).bin" size="9856" crc="7a23a1dd" md5="2b79ad323a09806231d05eca0b7d1022" sha1="491dacbf9880a871eee128befecf07882081bc4d"/>
+	</game>
+	<game name="Spaz Attak v20090222 (2009)(Uman, Howard)(PD)">
+		<description>Spaz Attak v20090222 (2009)(Uman, Howard)(PD)</description>
+		<rom name="Spaz Attak v20090222 (2009)(Uman, Howard)(PD).bin" size="10112" crc="3c70a8ec" md5="576a095bdfae51006da5bea658afe8e9" sha1="08787352a004d1838a865131d4a1df160a438297"/>
+	</game>
+	<game name="Spectank (2000)(Bienvenu, Daniel)(PD)">
+		<description>Spectank (2000)(Bienvenu, Daniel)(PD)</description>
+		<rom name="Spectank (2000)(Bienvenu, Daniel)(PD).bin" size="8704" crc="d5b4c25f" md5="ce19e6dc70a369d2217a1400fc81e36a" sha1="5a1e9e8cfe6d6e1cd685ec4afd0fc159e20a69ff"/>
+	</game>
+	<game name="Spectron (1983)(Spectravideo)">
+		<description>Spectron (1983)(Spectravideo)</description>
+		<rom name="Spectron (1983)(Spectravideo).bin" size="16384" crc="a6401c46" md5="cb7b1a5906a00c6b246de20c21aa646b" sha1="fb092284a0a6cdabd1b10e6c4127125fe74c7b96"/>
+	</game>
+	<game name="Spectron (1983)(Spectravideo)[b]">
+		<description>Spectron (1983)(Spectravideo)[b]</description>
+		<rom name="Spectron (1983)(Spectravideo)[b].bin" size="16384" crc="3564e134" md5="3c019541a005c393e2c949e2dd8de28a" sha1="8c83391f512d20cbbb4f36b0add06a6cf0bd8e65"/>
+	</game>
+	<game name="Spy Hunter (1984)(Coleco)">
+		<description>Spy Hunter (1984)(Coleco)</description>
+		<rom name="Spy Hunter (1984)(Coleco).bin" size="32768" crc="36478923" md5="f96a21f920e889d1e21abbf00f4d381d" sha1="97865d067bd531209857c3c8502c1260e0a30366"/>
+	</game>
+	<game name="Spy Hunter (1984)(Coleco)[b]">
+		<description>Spy Hunter (1984)(Coleco)[b]</description>
+		<rom name="Spy Hunter (1984)(Coleco)[b].bin" size="32768" crc="0b8db61e" md5="f33a4fcc0dc21e89937715309d7fe977" sha1="e9814f694fad5548e9ce7295ddc9f8b9eee29332"/>
+	</game>
+	<game name="Spy Hunter v13 (1984)(Coleco)(beta)">
+		<description>Spy Hunter v13 (1984)(Coleco)(beta)</description>
+		<rom name="Spy Hunter v13 (1984)(Coleco)(beta).bin" size="32768" crc="1969b9b7" md5="7da9f2fda17e1e34a41b180d1ceb0c37" sha1="f95fb554b211bde690a85d1f14ff5501cbcaf8bd"/>
+	</game>
+	<game name="Spy Hunter v22 (1984-11-12)(Coleco)(beta)">
+		<description>Spy Hunter v22 (1984-11-12)(Coleco)(beta)</description>
+		<rom name="Spy Hunter v22 (1984-11-12)(Coleco)(beta).bin" size="32768" crc="5a3c5bdf" md5="b68886ba4d6ee561d4aa8611933401c3" sha1="ff08b9fd67966ea299ee810fb4cde7b0aba98fd3"/>
+	</game>
+	<game name="Squares (2001-04-15)(deKleine, Harvey)(PD)">
+		<description>Squares (2001-04-15)(deKleine, Harvey)(PD)</description>
+		<rom name="Squares (2001-04-15)(deKleine, Harvey)(PD).bin" size="16384" crc="37198a63" md5="6201e47e4a3a87e9158cebb2f92eb276" sha1="42d29a74b6db7e860adb4d00afbe3e82efeb8fbe"/>
+	</game>
+	<game name="Squares! (demo) (2006)(deKleine, Harvey)(PD)">
+		<description>Squares! (demo) (2006)(deKleine, Harvey)(PD)</description>
+		<rom name="Squares! (demo) (2006)(deKleine, Harvey)(PD).bin" size="14976" crc="ef524df4" md5="cd5c3b3ee906b101a857f5260771696c" sha1="0c95083f6c3e33b7598c2890448ef4bb6c4da439"/>
+	</game>
+	<game name="Squares! 4K (2006)(deKleine, Harvey)(PD)">
+		<description>Squares! 4K (2006)(deKleine, Harvey)(PD)</description>
+		<rom name="Squares! 4K (2006)(deKleine, Harvey)(PD).bin" size="4096" crc="5ce4af42" md5="4a7044863d65dee58385bab17712a128" sha1="ba2fa2f8ccca465146c491fd651e91ecf9db97d5"/>
+	</game>
+	<game name="Squares! 4K v01 (2006)(deKleine, Harvey)(PD)">
+		<description>Squares! 4K v01 (2006)(deKleine, Harvey)(PD)</description>
+		<rom name="Squares! 4K v01 (2006)(deKleine, Harvey)(PD).bin" size="3712" crc="296ed204" md5="fb7d5342724ab0662649a67625e48119" sha1="2ca71d9e9c99ace14ce9de44f7f12281570f9d80"/>
+	</game>
+	<game name="Squares! 4K v02 (2006)(deKleine, Harvey)(PD)">
+		<description>Squares! 4K v02 (2006)(deKleine, Harvey)(PD)</description>
+		<rom name="Squares! 4K v02 (2006)(deKleine, Harvey)(PD).bin" size="5120" crc="23a35399" md5="93211d6ca62235846cc3802ba277abd4" sha1="a2cb12a7a4dc2bdcadd940ec16e87054f9e4f4e7"/>
+	</game>
+	<game name="Squish'em Featuring Sam (1984)(Interphase)">
+		<description>Squish'em Featuring Sam (1984)(Interphase)</description>
+		<rom name="Squish'em Featuring Sam (1984)(Interphase).bin" size="16384" crc="ac92862d" md5="90e1b27110a1b89cb1ad3e225db20832" sha1="ae25507b840b15ca3a832ba0bd8e1cbfdf4634a6"/>
+	</game>
+	<game name="Squish'em Featuring Sam (1984)(Interphase)[b]">
+		<description>Squish'em Featuring Sam (1984)(Interphase)[b]</description>
+		<rom name="Squish'em Featuring Sam (1984)(Interphase)[b].bin" size="16384" crc="6c82e0cc" md5="6db4f3854bccfe59dd628bbdd862420d" sha1="d4c1a98a35dc79727b6e8838b1b0815919496601"/>
+	</game>
+	<game name="St. Valentine's Day (2002)(Bienvenu, Daniel)(PD)">
+		<description>St. Valentine's Day (2002)(Bienvenu, Daniel)(PD)</description>
+		<rom name="St. Valentine's Day (2002)(Bienvenu, Daniel)(PD).bin" size="13440" crc="83ec4f49" md5="d8d0e4e528b517639c9190b3b8c63fd0" sha1="870d1a39aa85ac1d0e270348b56944ba47170557"/>
+	</game>
+	<game name="St. Valentine's Day (2002)(Bienvenu, Daniel)(PD)[a]">
+		<description>St. Valentine's Day (2002)(Bienvenu, Daniel)(PD)[a]</description>
+		<rom name="St. Valentine's Day (2002)(Bienvenu, Daniel)(PD)[a].bin" size="9216" crc="52961076" md5="446c0123b32cad57a1fc3ff0f8fa0cc4" sha1="003f07fa755f632348694e7c6e6ac0de10e1b3e7"/>
+	</game>
+	<game name="Star Fortress (1997)(Dondzila, John)(PD)">
+		<description>Star Fortress (1997)(Dondzila, John)(PD)</description>
+		<rom name="Star Fortress (1997)(Dondzila, John)(PD).bin" size="16384" crc="f7f18e6f" md5="01358dd7ad8e8dd6fa46f4dd3af67246" sha1="ca3b145cf148eaa5d7a3dc99718ef853815812db"/>
+	</game>
+	<game name="Star Trek - Strategic Operations Simulator (1984)(Coleco)">
+		<description>Star Trek - Strategic Operations Simulator (1984)(Coleco)</description>
+		<rom name="Star Trek - Strategic Operations Simulator (1984)(Coleco).bin" size="24576" crc="95824f1e" md5="45006eaf52ee16ddcadd1dca68b265c8" sha1="d37140e1abd1a0402af5c9e02ab3e4d0c6afe598"/>
+	</game>
+	<game name="Star Trek - Strategic Operations Simulator (1984)(Coleco)[b2]">
+		<description>Star Trek - Strategic Operations Simulator (1984)(Coleco)[b2]</description>
+		<rom name="Star Trek - Strategic Operations Simulator (1984)(Coleco)[b2].bin" size="24574" crc="b8ea7b19" md5="6769e9f77e3585d90409aaa2a0caa84e" sha1="1a506cd30e06a4af4ff00da00b7b7cf6c22da1a9"/>
+	</game>
+	<game name="Star Trek - Strategic Operations Simulator (1984)(Coleco)[b]">
+		<description>Star Trek - Strategic Operations Simulator (1984)(Coleco)[b]</description>
+		<rom name="Star Trek - Strategic Operations Simulator (1984)(Coleco)[b].bin" size="32768" crc="aff42aa9" md5="4aa070ceb9c6a42571d2aa8a969855fd" sha1="981e7dba3d8231019ecd137bfee97fce84061fdc"/>
+	</game>
+	<game name="Star Wars - The Arcade Game (1984)(Parker Brothers)">
+		<description>Star Wars - The Arcade Game (1984)(Parker Brothers)</description>
+		<rom name="Star Wars - The Arcade Game (1984)(Parker Brothers).bin" size="16384" crc="0e75b3bf" md5="3addc2a93bcb803ac136801ab1b8695a" sha1="da0567bee88bd1991481a755ac8292a115ed15ac"/>
+	</game>
+	<game name="Steamroller (1984)(Activision)(proto)">
+		<description>Steamroller (1984)(Activision)(proto)</description>
+		<rom name="Steamroller (1984)(Activision)(proto).bin" size="16384" crc="153ac4ef" md5="dc6745ff6132a3f646ca8aff7533cdb0" sha1="9b0da21d8e6e9a762c578f989d90dd057fea2b5a"/>
+	</game>
+	<game name="Strike It! (1983)(Telegames)">
+		<description>Strike It! (1983)(Telegames)</description>
+		<rom name="Strike It! (1983)(Telegames).bin" size="16384" crc="d247a1c8" md5="2425b11952e79c247f13e341297f48bf" sha1="a455e93e5ce6e562092d2c0b06070a746296395b"/>
+	</game>
+	<game name="Strike It! (1983)(Telegames)[b]">
+		<description>Strike It! (1983)(Telegames)[b]</description>
+		<rom name="Strike It! (1983)(Telegames)[b].bin" size="10240" crc="1d9082fb" md5="3dd107a4af5b34eae4056e55d69b038e" sha1="459536b106532b213da79662f56a36c1745eda9a"/>
+	</game>
+	<game name="Stubby (2001)(Proulx, Yannick)(PD)">
+		<description>Stubby (2001)(Proulx, Yannick)(PD)</description>
+		<rom name="Stubby (2001)(Proulx, Yannick)(PD).bin" size="5440" crc="26c348df" md5="c8deb659a5c1de178bec97ff0b59ea5b" sha1="22621b6de2f7ecccd51fa0a80132417c7b79cb95"/>
+	</game>
+	<game name="Stubby (2001)(Proulx, Yannick)(PD)[a]">
+		<description>Stubby (2001)(Proulx, Yannick)(PD)[a]</description>
+		<rom name="Stubby (2001)(Proulx, Yannick)(PD)[a].bin" size="8192" crc="2f9debf9" md5="3b72c516005528d24b40c1aecf948048" sha1="997e2e547064717a8e51d7efff6a34b2046aea2a"/>
+	</game>
+	<game name="Subroc (1983)(Coleco)">
+		<description>Subroc (1983)(Coleco)</description>
+		<rom name="Subroc (1983)(Coleco).bin" size="20480" crc="a417f25f" md5="b86bcbbd27f9574d3f0c8dd3cdfba45d" sha1="d3dca3dab60a386156d823bf1905e5542ac1aa21"/>
+	</game>
+	<game name="Subroc (1983)(Coleco)[b2]">
+		<description>Subroc (1983)(Coleco)[b2]</description>
+		<rom name="Subroc (1983)(Coleco)[b2].bin" size="24576" crc="509267f8" md5="d2680483097cbda37e53a61a256bee56" sha1="1a0a939355e024f2118d9b6a62d178ae4b4a7ec6"/>
+	</game>
+	<game name="Subroc (1983)(Coleco)[b3]">
+		<description>Subroc (1983)(Coleco)[b3]</description>
+		<rom name="Subroc (1983)(Coleco)[b3].bin" size="20480" crc="f09d3e26" md5="2abb3bdb3e18199ebad9a517739d03f9" sha1="306fb29c6262ea9cbcf10c99310273f751dcf210"/>
+	</game>
+	<game name="Subroc (1983)(Coleco)[b]">
+		<description>Subroc (1983)(Coleco)[b]</description>
+		<rom name="Subroc (1983)(Coleco)[b].bin" size="32768" crc="2ecc2c3b" md5="bd7978d59d97c3aa19c04779b7c4667f" sha1="5500b8251775d81485249de3c4c36e89411700e1"/>
+	</game>
+	<game name="Sudoku v01 (2008)(Miron, Luc)(PD)">
+		<description>Sudoku v01 (2008)(Miron, Luc)(PD)</description>
+		<rom name="Sudoku v01 (2008)(Miron, Luc)(PD).bin" size="10496" crc="12144312" md5="94476e431aca0f9590964d6797d5dee9" sha1="0124ba683340188c7a9a89122af7a54db07e1edb"/>
+	</game>
+	<game name="Sudoku v02 (2008)(Miron, Luc)(PD)">
+		<description>Sudoku v02 (2008)(Miron, Luc)(PD)</description>
+		<rom name="Sudoku v02 (2008)(Miron, Luc)(PD).bin" size="10496" crc="2aa3abb2" md5="e34e775b40367815197dc4086aab2f89" sha1="499c9746f0dacab59a3fb23f80169df34cfbb91a"/>
+	</game>
+	<game name="Super Action Baseball (1983)(Coleco)">
+		<description>Super Action Baseball (1983)(Coleco)</description>
+		<rom name="Super Action Baseball (1983)(Coleco).bin" size="20480" crc="b3bcf3f9" md5="4c4b25a93301e59b86decb0df7a0ee51" sha1="4829d304cbb752031bf5b4b1d48eed2ad06f222e"/>
+	</game>
+	<game name="Super Action Baseball (1983)(Coleco)[b2]">
+		<description>Super Action Baseball (1983)(Coleco)[b2]</description>
+		<rom name="Super Action Baseball (1983)(Coleco)[b2].bin" size="21504" crc="e1b8eb25" md5="a5ef28ac2f79e95647a4bc5db7e502b2" sha1="9b230aa549448f2589b036673b81eee4d054292b"/>
+	</game>
+	<game name="Super Action Baseball (1983)(Coleco)[b3]">
+		<description>Super Action Baseball (1983)(Coleco)[b3]</description>
+		<rom name="Super Action Baseball (1983)(Coleco)[b3].bin" size="32768" crc="43f03c6f" md5="2e7b67ea29c096191c6645357020d929" sha1="0fb9142261a10444c14c57066f1e6a6181f9b82f"/>
+	</game>
+	<game name="Super Action Baseball (1983)(Coleco)[b]">
+		<description>Super Action Baseball (1983)(Coleco)[b]</description>
+		<rom name="Super Action Baseball (1983)(Coleco)[b].bin" size="24576" crc="97217677" md5="861af62508c73873ca89d3e61f5d04ff" sha1="06bc7c00a253ab27ae2117b65c7508e165c826f1"/>
+	</game>
+	<game name="Super Action Football (1984)(CBS Electronics)(EU)">
+		<description>Super Action Football (1984)(CBS Electronics)(EU)</description>
+		<rom name="Super Action Football (1984)(CBS Electronics)(EU).bin" size="32768" crc="4d6c0458" md5="8aabed060476fde3cc706c6463f02980" sha1="5f43180c243039eecef024ab1f4e70a2e2502fc1"/>
+	</game>
+	<game name="Super Action Football (1984)(Coleco)">
+		<description>Super Action Football (1984)(Coleco)</description>
+		<rom name="Super Action Football (1984)(Coleco).bin" size="32768" crc="62619dc0" md5="bee90a110d14b29d2e64f0ff0f303bc6" sha1="4c16f4e233db50e3d9b3a191f4f408338640ac19"/>
+	</game>
+	<game name="Super Action Football (1984)(Coleco)[b]">
+		<description>Super Action Football (1984)(Coleco)[b]</description>
+		<rom name="Super Action Football (1984)(Coleco)[b].bin" size="32768" crc="b00efd22" md5="9e794af1e39cf12145ec355940aec684" sha1="3edf3b79e2f2d0cf4c8122298026cb7b3bef7836"/>
+	</game>
+	<game name="Super Action Football (1984)(Coleco)[h]">
+		<description>Super Action Football (1984)(Coleco)[h]</description>
+		<rom name="Super Action Football (1984)(Coleco)[h].bin" size="32768" crc="acac69dd" md5="6ded2b98aad9b15c975e85d722a069d4" sha1="71ed4c35f49af9ee3469f604ceb101af69096c36"/>
+	</game>
+	<game name="Super Cobra (1983)(Parker Brothers)">
+		<description>Super Cobra (1983)(Parker Brothers)</description>
+		<rom name="Super Cobra (1983)(Parker Brothers).bin" size="8192" crc="f84622d2" md5="3f79a5be2f84d9856a99b9ae31f36ba1" sha1="3bf730acbfb0404d2e2411169c8fc6a81b907053"/>
+	</game>
+	<game name="Super Cobra (1983)(Parker Brothers)[b]">
+		<description>Super Cobra (1983)(Parker Brothers)[b]</description>
+		<rom name="Super Cobra (1983)(Parker Brothers)[b].bin" size="8192" crc="6cb5cb8f" md5="536a20f7a88b6bfd296e6542b79a2762" sha1="c0ff64668723f5f353ce98d3ee6089ebe0201369"/>
+	</game>
+	<game name="Super Cobra (1983)(Parker Brothers)[h ADAM Fix]">
+		<description>Super Cobra (1983)(Parker Brothers)[h ADAM Fix]</description>
+		<rom name="Super Cobra (1983)(Parker Brothers)[h ADAM Fix].bin" size="8192" crc="653f79e7" md5="0d11de05821c895b9f34425291bbedad" sha1="d5fe20060be49cfbda2742460e64e4cafa07a937"/>
+	</game>
+	<game name="Super Cross Force (1983)(Spectravideo)">
+		<description>Super Cross Force (1983)(Spectravideo)</description>
+		<rom name="Super Cross Force (1983)(Spectravideo).bin" size="12288" crc="84350129" md5="633d8d532b8c2435ec6635be1fff1391" sha1="42a22d2314081450e8cb2a5e8ba4aa0987971063"/>
+	</game>
+	<game name="Super Cross Force (1983)(Spectravideo)[b2]">
+		<description>Super Cross Force (1983)(Spectravideo)[b2]</description>
+		<rom name="Super Cross Force (1983)(Spectravideo)[b2].bin" size="16384" crc="6c4ed807" md5="5c58aa003e92e65195ebfd8043392684" sha1="00c9f22fdf0be33a295514431fab36da92a78ff4"/>
+	</game>
+	<game name="Super Cross Force (1983)(Spectravideo)[b]">
+		<description>Super Cross Force (1983)(Spectravideo)[b]</description>
+		<rom name="Super Cross Force (1983)(Spectravideo)[b].bin" size="16384" crc="8093b672" md5="b929679a7e8a098bd7a2b63e1fd658f6" sha1="efa3b89899839e062e072921148716e8b82923ce"/>
+	</game>
+	<game name="Super DK! (1982)(Nintendo)(proto)">
+		<description>Super DK! (1982)(Nintendo)(proto)</description>
+		<rom name="Super DK! (1982)(Nintendo)(proto).bin" size="32768" crc="ef25af90" md5="c7743e456f5c042ee8aefd4488254ac9" sha1="b1ac18780e36821a8d41fc4410e14ab0ce80ac91"/>
+	</game>
+	<game name="Super DK! Junior (1983)(Nintendo)(proto)">
+		<description>Super DK! Junior (1983)(Nintendo)(proto)</description>
+		<rom name="Super DK! Junior (1983)(Nintendo)(proto).bin" size="32768" crc="c2e7f0e0" md5="7a736286fe72eb60e00b1ba28867cd16" sha1="44a22e508002a069f7953668f2e8a3c901c677d6"/>
+	</game>
+	<game name="Super Sketch (1984)(Roubik, Steve)(PD)">
+		<description>Super Sketch (1984)(Roubik, Steve)(PD)</description>
+		<rom name="Super Sketch (1984)(Roubik, Steve)(PD).bin" size="8192" crc="8627300a" md5="a46d20d65533ed979933fc1cfe6c0ad7" sha1="3acbae2580c38bfea9ce7ec06274edd39607016d"/>
+	</game>
+	<game name="Super Space Acer (2009-12-27)(Ward, Mike)(PD)">
+		<description>Super Space Acer (2009-12-27)(Ward, Mike)(PD)</description>
+		<rom name="Super Space Acer (2009-12-27)(Ward, Mike)(PD).bin" size="32768" crc="6f2f1208" md5="f1c771508b8f6de766d467cdcc480d6d" sha1="e20ac801aca7037a9610af6a8c9c0198e4bce3a7"/>
+	</game>
+	<game name="Superpong (2000)(-)(PD)">
+		<description>Superpong (2000)(-)(PD)</description>
+		<rom name="Superpong (2000)(-)(PD).bin" size="4480" crc="038d4e15" md5="62860823d7b08ab3c72a41ac5b189e5f" sha1="ff8f73f9bf16bb67799bbe8e52c541d727f501f4"/>
+	</game>
+	<game name="Sword and the Sorcer (1983)(Coleco)(proto)">
+		<description>Sword and the Sorcer (1983)(Coleco)(proto)</description>
+		<rom name="Sword and the Sorcer (1983)(Coleco)(proto).bin" size="16384" crc="8bda7c48" md5="975be9f3bd5458443d886af61e8bbc61" sha1="461a3715416a1b9f71b1af1dfc531a8f77862645"/>
+	</game>
+	<game name="Tank Wars (1983)(Bit Corporation)(EU)">
+		<description>Tank Wars (1983)(Bit Corporation)(EU)</description>
+		<rom name="Tank Wars (1983)(Bit Corporation)(EU).bin" size="12288" crc="af6bbc7e" md5="3016b5b55ce162ae47f03af71fbb5c0d" sha1="0a32a17a3e5e6c220de91e4dcf036d7d02ad8e30"/>
+	</game>
+	<game name="Tank Wars (1983)(Bit Corporation)(EU)[b2]">
+		<description>Tank Wars (1983)(Bit Corporation)(EU)[b2]</description>
+		<rom name="Tank Wars (1983)(Bit Corporation)(EU)[b2].bin" size="16384" crc="1edf2e7d" md5="3289fc4df666c3391fc3f220e350449c" sha1="01062d5049231a2bfd6ece924d3f1f17329d7725"/>
+	</game>
+	<game name="Tank Wars (1983)(Bit Corporation)(EU)[b]">
+		<description>Tank Wars (1983)(Bit Corporation)(EU)[b]</description>
+		<rom name="Tank Wars (1983)(Bit Corporation)(EU)[b].bin" size="12288" crc="7f0baa89" md5="414bdc650fe201e47e767914c86605b9" sha1="a79cbe906a6df960f790c3139704f534b09a378b"/>
+	</game>
+	<game name="Tapper (1984)(Coleco)">
+		<description>Tapper (1984)(Coleco)</description>
+		<rom name="Tapper (1984)(Coleco).bin" size="32768" crc="8afd7db2" md5="6cdb3a03f8d66bedbd29899895d83f94" sha1="bbb25e64aefa3adaff9f864713ecabe3b6f0316b"/>
+	</game>
+	<game name="Tapper (1984)(Coleco)[b]">
+		<description>Tapper (1984)(Coleco)[b]</description>
+		<rom name="Tapper (1984)(Coleco)[b].bin" size="32768" crc="6eab5d44" md5="a4cc73b0eb8d9c1d310796466ba9c4f2" sha1="459393f07792ee1b2c878e1257a21c6c351d5c29"/>
+	</game>
+	<game name="Tarzan (1984)(Coleco)">
+		<description>Tarzan (1984)(Coleco)</description>
+		<rom name="Tarzan (1984)(Coleco).bin" size="24576" crc="7cd7a702" md5="61a2cb023a393446d8e8b8b1147bec48" sha1="59cb8dec033c3b1df476c7c93109aba9562ba3d4"/>
+	</game>
+	<game name="Tarzan (1984)(Coleco)[b]">
+		<description>Tarzan (1984)(Coleco)[b]</description>
+		<rom name="Tarzan (1984)(Coleco)[b].bin" size="24576" crc="eff35a70" md5="4517b544c0f645e2083079327a64af47" sha1="2d61d96fd15c614bde450813aa88092cf814e60a"/>
+	</game>
+	<game name="Tennis (2008-01-20)(-)(PD)">
+		<description>Tennis (2008-01-20)(-)(PD)</description>
+		<rom name="Tennis (2008-01-20)(-)(PD).bin" size="5631" crc="743e7b27" md5="f5e10008557adefcaff2037f06ee280e" sha1="54b7effee37d60e5fa9491a31ea23b2c63817ad3"/>
+	</game>
+	<game name="Tennis (2008-01-22)(-)(PD)">
+		<description>Tennis (2008-01-22)(-)(PD)</description>
+		<rom name="Tennis (2008-01-22)(-)(PD).bin" size="5784" crc="03d8cda2" md5="5855b9b09c5339c831a00ab8173850d8" sha1="7fd0645c65208e39eb62f7c38713bd5bd487c99f"/>
+	</game>
+	<game name="Terra Attack (2007-03-10)(Huggins, Scott)(PD)">
+		<description>Terra Attack (2007-03-10)(Huggins, Scott)(PD)</description>
+		<rom name="Terra Attack (2007-03-10)(Huggins, Scott)(PD).bin" size="32768" crc="d195e199" md5="49c9b6fa9e6c24a5b89e2ba46d30f6d1" sha1="6659dd7b9ef8edb2822980007cb37e3c55d4cd7c"/>
+	</game>
+	<game name="Terra Attack (2007-03-17)(Huggins, Scott)(PD)">
+		<description>Terra Attack (2007-03-17)(Huggins, Scott)(PD)</description>
+		<rom name="Terra Attack (2007-03-17)(Huggins, Scott)(PD).bin" size="32128" crc="826020f8" md5="7783607a3ada4b3ad43937b08b19e960" sha1="76712e4e94d55183f361c9101037f708773b7f99"/>
+	</game>
+	<game name="Terra Attack (2007-08-09)(Huggins, Scott)(PD)">
+		<description>Terra Attack (2007-08-09)(Huggins, Scott)(PD)</description>
+		<rom name="Terra Attack (2007-08-09)(Huggins, Scott)(PD).bin" size="32768" crc="44d527e1" md5="764baa392af1bbfd2637f5e2003f2236" sha1="0276f344d63f4f9675c29730d97112b3123e6c18"/>
+	</game>
+	<game name="Threshold (1983)(Sierra On-Line)">
+		<description>Threshold (1983)(Sierra On-Line)</description>
+		<rom name="Threshold (1983)(Sierra On-Line).bin" size="16384" crc="1593f7df" md5="e932f6f176f98f5fe85ced5401c51750" sha1="7f71c024d7d85627b893d28131d284dde25577b8"/>
+	</game>
+	<game name="Tic Tac Toe (1996)(Nithman, Norman)(PD)">
+		<description>Tic Tac Toe (1996)(Nithman, Norman)(PD)</description>
+		<rom name="Tic Tac Toe (1996)(Nithman, Norman)(PD).bin" size="3233" crc="9f22cd12" md5="c542316b4e912f7823db4239bdd9d5e5" sha1="811f35cca75ff3fcd180f8fe3d06f764ab0e1fb6"/>
+	</game>
+	<game name="Tic Tac Toe (1996)(Nithman, Norman)(PD)[a]">
+		<description>Tic Tac Toe (1996)(Nithman, Norman)(PD)[a]</description>
+		<rom name="Tic Tac Toe (1996)(Nithman, Norman)(PD)[a].bin" size="3220" crc="969d77c8" md5="394812ef1bd415895b4caa55c4b1620c" sha1="3fe5477166f1809e50754bd3d153e10764c3ad4e"/>
+	</game>
+	<game name="Time Pilot (1983)(Coleco)">
+		<description>Time Pilot (1983)(Coleco)</description>
+		<rom name="Time Pilot (1983)(Coleco).bin" size="16384" crc="b3a1eacb" md5="91c7b5d4ea94092f6e18da4775656d4b" sha1="3b7cbc5c0d47027ecd5e6f5d1485af436ab02ad1"/>
+	</game>
+	<game name="TOMARC The Barbarian (1984)(Xonox)">
+		<description>TOMARC The Barbarian (1984)(Xonox)</description>
+		<rom name="TOMARC The Barbarian (1984)(Xonox).bin" size="16384" crc="1e14397e" md5="05bb27ab721b0cfd8ce5157102f73e39" sha1="44b285d438854dfa0186c7fe6e21872e2dde13f1"/>
+	</game>
+	<game name="TOMARC The Barbarian (1984)(Xonox)[b]">
+		<description>TOMARC The Barbarian (1984)(Xonox)[b]</description>
+		<rom name="TOMARC The Barbarian (1984)(Xonox)[b].bin" size="16384" crc="3fa0cdcb" md5="2e323730e31229c45412a1a81a734f09" sha1="a92528974f0d9f3606b5044ffe0fa690e34f1ed3"/>
+	</game>
+	<game name="Tournament Tennis (1984)(Imagic)">
+		<description>Tournament Tennis (1984)(Imagic)</description>
+		<rom name="Tournament Tennis (1984)(Imagic).bin" size="16384" crc="c1d5a702" md5="b85e0c632b351c3d42a2be4198cfa663" sha1="0f113cda3b12253d1d42e994896db3f88a5b884d"/>
+	</game>
+	<game name="Tournament Tennis (1984)(Imagic)[b]">
+		<description>Tournament Tennis (1984)(Imagic)[b]</description>
+		<rom name="Tournament Tennis (1984)(Imagic)[b].bin" size="32768" crc="c168fe06" md5="a02d39cbca4e6ca89e0da21b14f63629" sha1="d12bfb15b38e9f008de695b405107c5a431a07d6"/>
+	</game>
+	<game name="Tunnels &amp; Trolls (1983)(Coleco)(beta)">
+		<description>Tunnels &amp; Trolls (1983)(Coleco)(beta)</description>
+		<rom name="Tunnels &amp; Trolls (1983)(Coleco)(beta).bin" size="32768" crc="291a0004" md5="6d306c6551393ba7c0b89db688c9aa0a" sha1="0f5b61f650e26e681d7b8a28fcb9d2db7c3bcddb"/>
+	</game>
+	<game name="Tunnels &amp; Trolls (1983)(Coleco)(beta)[a]">
+		<description>Tunnels &amp; Trolls (1983)(Coleco)(beta)[a]</description>
+		<rom name="Tunnels &amp; Trolls (1983)(Coleco)(beta)[a].bin" size="30049" crc="4cabe52b" md5="391c441c0fdd415c29bba84471efa43f" sha1="50de0d2726b11873607fe776a8161b3f73c18e6d"/>
+	</game>
+	<game name="Tunnels &amp; Trolls (1983)(Coleco)(beta)[b]">
+		<description>Tunnels &amp; Trolls (1983)(Coleco)(beta)[b]</description>
+		<rom name="Tunnels &amp; Trolls (1983)(Coleco)(beta)[b].bin" size="21504" crc="4defcdfa" md5="02d0fe0088d00298b27953b6492f6d94" sha1="19452eb2a020939245dc100d2736c6f479eb518f"/>
+	</game>
+	<game name="Turbo (1982)(Coleco)">
+		<description>Turbo (1982)(Coleco)</description>
+		<rom name="Turbo (1982)(Coleco).bin" size="16384" crc="bd6ab02a" md5="6f146d9bd3f64bbc006a761f59e2a1cf" sha1="27f39b9e42cce0cead88c0d0691d56ce46b97111"/>
+	</game>
+	<game name="Turbo (1982)(Coleco)[b]">
+		<description>Turbo (1982)(Coleco)[b]</description>
+		<rom name="Turbo (1982)(Coleco)[b].bin" size="16384" crc="6ca80b63" md5="f042ba432716b58d2f5858abcce81b9f" sha1="732d1f3b2f24895a1f79d15d830aa989ea12fe5e"/>
+	</game>
+	<game name="Tutankham (1983)(Parker Brothers)">
+		<description>Tutankham (1983)(Parker Brothers)</description>
+		<rom name="Tutankham (1983)(Parker Brothers).bin" size="12288" crc="0408f58c" md5="79db029b4e77bc2752ab97bd4df03428" sha1="a668ff92e6f83e37f44178260618bbc650ca61c9"/>
+	</game>
+	<game name="Tutankham (1983)(Parker Brothers)[b2]">
+		<description>Tutankham (1983)(Parker Brothers)[b2]</description>
+		<rom name="Tutankham (1983)(Parker Brothers)[b2].bin" size="16384" crc="10cc33a3" md5="480e7829ebbcb55e4aea0abfe5782a08" sha1="06f54a91ad57e5487ff733c9f33372d5314a1d74"/>
+	</game>
+	<game name="Tutankham (1983)(Parker Brothers)[b]">
+		<description>Tutankham (1983)(Parker Brothers)[b]</description>
+		<rom name="Tutankham (1983)(Parker Brothers)[b].bin" size="16384" crc="f80d1770" md5="9a66cd7c393517799864a3c36e7d03f2" sha1="880d1a04788befd912415bc2b782e5be52e95420"/>
+	</game>
+	<game name="Up'n Down (1984)(Sega)">
+		<description>Up'n Down (1984)(Sega)</description>
+		<rom name="Up'n Down (1984)(Sega).bin" size="16384" crc="fdd52ca0" md5="90e261510765deecaeac8283aa88d815" sha1="96d83945d041f6f795a3107904a9986de86df8a6"/>
+	</game>
+	<game name="Venture (1982)(Coleco)">
+		<description>Venture (1982)(Coleco)</description>
+		<rom name="Venture (1982)(Coleco).bin" size="16384" crc="8e5a4aa3" md5="ad22023a11a3bcb107610d2af5a6be77" sha1="9cf7e7439d1719152ed28c1123ae8ad68175412f"/>
+	</game>
+	<game name="Venture (1982)(Coleco)[b]">
+		<description>Venture (1982)(Coleco)[b]</description>
+		<rom name="Venture (1982)(Coleco)[b].bin" size="16384" crc="1d7eb7d1" md5="f3ca3882d846f4bc31e6026e510343f0" sha1="88cdf7bb3bc6c82c675d2d3915adaff718dcab2d"/>
+	</game>
+	<game name="Venture (1982)(Coleco)[h]">
+		<description>Venture (1982)(Coleco)[h]</description>
+		<rom name="Venture (1982)(Coleco)[h].bin" size="16384" crc="3da70b52" md5="bff9ad330f06bb9f4a6dfd6f70d5873c" sha1="a3a1cfc9fcce2d963b81a4700f3b4449c328c971"/>
+	</game>
+	<game name="Victory (1983)(CBS Electronics)(EU)">
+		<description>Victory (1983)(CBS Electronics)(EU)</description>
+		<rom name="Victory (1983)(CBS Electronics)(EU).bin" size="20480" crc="b1fda1c5" md5="a31facd8adc1134942d9f4102dd3fa9f" sha1="589b130410faadcb3f6cdb68a58353f4fb3a7e5f"/>
+	</game>
+	<game name="Victory (1983)(Coleco)(US)">
+		<description>Victory (1983)(Coleco)(US)</description>
+		<rom name="Victory (1983)(Coleco)(US).bin" size="20480" crc="70142655" md5="200aa603996bfd2734e353098ebe8dd5" sha1="7144c65cb57eeb846f4771aeb402469494f8f56f"/>
+	</game>
+	<game name="Victory (1983)(Coleco)(US)[b]">
+		<description>Victory (1983)(Coleco)(US)[b]</description>
+		<rom name="Victory (1983)(Coleco)(US)[b].bin" size="24576" crc="5f20bf49" md5="e1522f2701f5f55580866d35e1794e5e" sha1="327727222226d0c95d7557389d79a0c974cebf2a"/>
+	</game>
+	<game name="Video Hustler (1984)(Coleco - Konami)(proto)">
+		<description>Video Hustler (1984)(Coleco - Konami)(proto)</description>
+		<rom name="Video Hustler (1984)(Coleco - Konami)(proto).bin" size="16384" crc="960cbe1e" md5="5c92bb7b55a8b867f0ca666ca848be32" sha1="47f0fddca5a04268d5f9f4c0f55baf80d833deea"/>
+	</game>
+	<game name="Video Hustler (1984)(Coleco - Konami)(proto)[a]">
+		<description>Video Hustler (1984)(Coleco - Konami)(proto)[a]</description>
+		<rom name="Video Hustler (1984)(Coleco - Konami)(proto)[a].bin" size="8192" crc="a9177b20" md5="7f8bbd4a62aedab44e4cc115a6edc637" sha1="08172d85140c004241ab585fc41cdc7841f8290b"/>
+	</game>
+	<game name="Video Hustler (1984-07-27)(Coleco - Konami)(proto)">
+		<description>Video Hustler (1984-07-27)(Coleco - Konami)(proto)</description>
+		<rom name="Video Hustler (1984-07-27)(Coleco - Konami)(proto).bin" size="8192" crc="841d168f" md5="95f8000444fd86ef02ee39ae265bdba0" sha1="5f481ff47762a812c73bb120e60f31ee99fd6b5f"/>
+	</game>
+	<game name="Vision 8 v1.0 (1997)(deKogel, Marcel)(PD)">
+		<description>Vision 8 v1.0 (1997)(deKogel, Marcel)(PD)</description>
+		<rom name="Vision 8 v1.0 (1997)(deKogel, Marcel)(PD).bin" size="2048" crc="74bf0c6b" md5="0ca1e7b0135f669a51b39cea66a98c31" sha1="d04f0283a1f598089a9c3a6296c015ec873e05df"/>
+	</game>
+	<game name="War Games (1984)(Coleco)">
+		<description>War Games (1984)(Coleco)</description>
+		<rom name="War Games (1984)(Coleco).bin" size="24576" crc="fd25adb3" md5="000c7331d4598b0fa414be5fb2a603b5" sha1="1e3b525f2d895105727fee76076dd5ecccbf1778"/>
+	</game>
+	<game name="War Games (1984)(Coleco)[b]">
+		<description>War Games (1984)(Coleco)[b]</description>
+		<rom name="War Games (1984)(Coleco)[b].bin" size="24576" crc="6e0150c1" md5="a2b0ccd7ea648c3e5f3f750e9254f972" sha1="48828f603e65178c0feda275d6b3a11aff688eae"/>
+	</game>
+	<game name="War Room (1983)(Probe 2000)">
+		<description>War Room (1983)(Probe 2000)</description>
+		<rom name="War Room (1983)(Probe 2000).bin" size="24576" crc="261b7d56" md5="0d59da8c315d22f58909c73b851299ee" sha1="031eaec9188105150460ff354fe50e22ce738c53"/>
+	</game>
+	<game name="War Room (1983)(Probe 2000)[b2]">
+		<description>War Room (1983)(Probe 2000)[b2]</description>
+		<rom name="War Room (1983)(Probe 2000)[b2].bin" size="32768" crc="308a949b" md5="2916b15f23f910056cf75142f220a5af" sha1="6a78dc759b3194699b15b00db34abef474ad3583"/>
+	</game>
+	<game name="War Room (1983)(Probe 2000)[b]">
+		<description>War Room (1983)(Probe 2000)[b]</description>
+		<rom name="War Room (1983)(Probe 2000)[b].bin" size="32768" crc="077a8dfa" md5="87b0df17528e35b68fe0d839701132c3" sha1="0834d75cc9cc2758689d333b6958ac3fcd5d7538"/>
+	</game>
+	<game name="Waterville Rescue (2009)(Ward, Mike)(PD)">
+		<description>Waterville Rescue (2009)(Ward, Mike)(PD)</description>
+		<rom name="Waterville Rescue (2009)(Ward, Mike)(PD).bin" size="32768" crc="d642fb9e" md5="62d2ae88b3c012211ff49555d464732b" sha1="3c37eea4207e42a48fc9f311a0a35712e9611a1e"/>
+	</game>
+	<game name="Wild Western (2005)(Mello, Eduardo)(PD)">
+		<description>Wild Western (2005)(Mello, Eduardo)(PD)</description>
+		<rom name="Wild Western (2005)(Mello, Eduardo)(PD).bin" size="32768" crc="7dc4d155" md5="0516b52ffc9a2a0cc12ebdd7cd912697" sha1="e98f90cc5d955c928a69f3a11994e6285e248433"/>
+	</game>
+	<game name="Wing War (1983)(Imagic)">
+		<description>Wing War (1983)(Imagic)</description>
+		<rom name="Wing War (1983)(Imagic).bin" size="16384" crc="29ec00c9" md5="70672a0737c4986d31589b1ed0108cb1" sha1="eb7764ef6f50885e2eaffaff42ab9fcf760a77e1"/>
+	</game>
+	<game name="Wing War (1983)(Imagic)[b]">
+		<description>Wing War (1983)(Imagic)[b]</description>
+		<rom name="Wing War (1983)(Imagic)[b].bin" size="16384" crc="04eeef44" md5="35f537368236774c2e9d05b3048de6ca" sha1="e2b351b83cb85239d4a03b629dfd2f707cc54fd1"/>
+	</game>
+	<game name="Winky Trap (1997)(Dondzila, John)(PD)">
+		<description>Winky Trap (1997)(Dondzila, John)(PD)</description>
+		<rom name="Winky Trap (1997)(Dondzila, John)(PD).bin" size="16384" crc="eaa5f606" md5="de1782f1a2ab91adb5e85b8e015431da" sha1="6da8e9f0adbe6d1f9787bc5364615de36b65133f"/>
+	</game>
+	<game name="Word Feud (1984)(Xonox)">
+		<description>Word Feud (1984)(Xonox)</description>
+		<rom name="Word Feud (1984)(Xonox).bin" size="8192" crc="f7a29c01" md5="8148c6e4ea8e1e38e43a4f9576468ff5" sha1="9a6188511ae54e6886222b84185714d2ead8cfbc"/>
+	</game>
+	<game name="Word Feud (1984)(Xonox)[b]">
+		<description>Word Feud (1984)(Xonox)[b]</description>
+		<rom name="Word Feud (1984)(Xonox)[b].bin" size="16384" crc="9f49bed8" md5="e8e11c2eb60cecbcfcc9547cf85003f7" sha1="28e0113c74f277a52b51dcbf12cde06353db3cee"/>
+	</game>
+	<game name="Wrong Way! v0.25 (2007-09-25)(5-11under)(PD)">
+		<description>Wrong Way! v0.25 (2007-09-25)(5-11under)(PD)</description>
+		<rom name="Wrong Way! v0.25 (2007-09-25)(5-11under)(PD).bin" size="7936" crc="c689c479" md5="352513b25d19fea031182e195311a54b" sha1="7dd17dd71bb349a03147c856745a9a0eb72651fd"/>
+	</game>
+	<game name="Yolks on You, The (1983)(Fox Video Games)(proto)">
+		<description>Yolks on You, The (1983)(Fox Video Games)(proto)</description>
+		<rom name="Yolks on You, The (1983)(Fox Video Games)(proto).bin" size="16384" crc="997ad8de" md5="c10aaca46d063771339d3e5a0582baad" sha1="9b5bfb69d37042d131a5c9576f927e09f44f9666"/>
+	</game>
+	<game name="Zap v0.1 (200x)(-)(PD)">
+		<description>Zap v0.1 (200x)(-)(PD)</description>
+		<rom name="Zap v0.1 (200x)(-)(PD).bin" size="3968" crc="7b855a98" md5="7f55a676bd0a63f74a20bbb46987877a" sha1="e8b8786eb34fbef4a055d285fa39970bdec018dd"/>
+	</game>
+	<game name="Zaxxon (1982)(Coleco)">
+		<description>Zaxxon (1982)(Coleco)</description>
+		<rom name="Zaxxon (1982)(Coleco).bin" size="24576" crc="8cb0891a" md5="7c677f80c4ee957559d7abebd8ee1be1" sha1="1733b3407939f5c37e39d5494abfa4137f500707"/>
+	</game>
+	<game name="Zaxxon (1982)(Coleco)[b]">
+		<description>Zaxxon (1982)(Coleco)[b]</description>
+		<rom name="Zaxxon (1982)(Coleco)[b].bin" size="24576" crc="1f947468" md5="1eeb86935d9b3d2cab58bd98df04ec71" sha1="383d79b34a11e9e8b25b120a264a89f31fcbb866"/>
+	</game>
+	<game name="Zaxxon (19xx)(Taiwan Cooper)">
+		<description>Zaxxon (19xx)(Taiwan Cooper)</description>
+		<rom name="Zaxxon (19xx)(Taiwan Cooper).bin" size="24576" crc="5b0e2adf" md5="1206093901f2cfb36ac5442db264c9f9" sha1="5b6bde9746d7b57291a9acc519962717e2c12aaa"/>
+	</game>
+	<game name="Zenji (1984)(Activision)">
+		<description>Zenji (1984)(Activision)</description>
+		<rom name="Zenji (1984)(Activision).bin" size="16384" crc="6e523e50" md5="5595dc8acc25f51aaed0d72bbb96e68b" sha1="9119f3a485eb4215e7d41c7cf0e412d903458647"/>
+	</game>
+</datafile>

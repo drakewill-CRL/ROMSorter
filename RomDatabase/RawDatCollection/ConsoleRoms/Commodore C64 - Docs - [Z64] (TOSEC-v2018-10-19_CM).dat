@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Docs - [Z64]</name>
+		<description>Commodore C64 - Docs - [Z64] (TOSEC-v2018-10-19)</description>
+		<category>TOSEC</category>
+		<version>2018-10-19</version>
+		<author>Duncan Twain - DesertWolf</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Death Knights of Krynn (19xx)(ATC)">
+		<description>Death Knights of Krynn (19xx)(ATC)</description>
+		<rom name="1!Death Knights of Krynn (19xx)(ATC).z64" size="30970" crc="77bcc912" md5="b7b18d0b3733536c2cba46299d94b230" sha1="e513a712cd4cf0a99b79a8868228fad4d8597a4f"/>
+		<rom name="2!Death Knights of Krynn (19xx)(ATC).z64" size="37911" crc="50cb385e" md5="3bdc3f61e650ea512f7d40704f2684ea" sha1="0edcb023d92e29f8ac9c9012c50dfeee8cf43a01"/>
+		<rom name="3!Death Knights of Krynn (19xx)(ATC).z64" size="30156" crc="69f7fee2" md5="0f33daef61c653f12bff84a23454b839" sha1="07bd383e9ab283f717ff8bdec6e0c1d2740545f1"/>
+		<rom name="4!Death Knights of Krynn (19xx)(ATC).z64" size="21832" crc="5decc702" md5="945f845010c339186da3d0fdb459beac" sha1="04d54eba1fae4f76271d0c80351f30302ef5a3d4"/>
+	</game>
+	<game name="Manik&apos;s Games Collection (1999)(Remember)">
+		<description>Manik&apos;s Games Collection (1999)(Remember)</description>
+		<rom name="1!Manik&apos;s Games Collection (1999)(Remember).z64" size="43348" crc="39579974" md5="47fa810359be1744bb6f3b777452312b" sha1="3f4ac45dfa74a433812909b50ca0b47244630502"/>
+		<rom name="2!Manik&apos;s Games Collection (1999)(Remember).z64" size="43346" crc="ec023f96" md5="65558e14c7f6402b33bd5e2f7b0521ca" sha1="85da8eb68e2e8995ce6ad7f14fb1c490677d96f1"/>
+		<rom name="3!Manik&apos;s Games Collection (1999)(Remember).z64" size="40477" crc="05bd45e0" md5="6ac8437da1531c7bca609961d9236fb8" sha1="f76bab40c6c2c6b47063b68d350405b7d5cd9a12"/>
+		<rom name="4!Manik&apos;s Games Collection (1999)(Remember).z64" size="39131" crc="c1886225" md5="b007219e90afb8322a793515404f2666" sha1="2c2e5357bd1e1c9ae72a3cf13838ddd64cfc4f3e"/>
+	</game>
+	<game name="Original Parameter Cross-Reference, The (1989)(Mallang II, Edward)(Side A)">
+		<description>Original Parameter Cross-Reference, The (1989)(Mallang II, Edward)(Side A)</description>
+		<rom name="1!Original Parameter Cross-Reference, The (1989)(Mallang II, Edward)(Side A).z64" size="43348" crc="15f22f79" md5="7a5ba99f2a12b9ff0ac5ee546a97dc63" sha1="f305a9cbee589eded7c82d84fbe09b6bf943ee2a"/>
+		<rom name="2!Original Parameter Cross-Reference, The (1989)(Mallang II, Edward)(Side A).z64" size="41488" crc="4852e157" md5="f538e7523827906251d37436bc05d47d" sha1="07ab268303f808fbfc52f5115cbf22e942dd3225"/>
+		<rom name="3!Original Parameter Cross-Reference, The (1989)(Mallang II, Edward)(Side A).z64" size="39245" crc="331641af" md5="17d397506697f20ccdbbb2e7361b7991" sha1="ce3aafdca88cc5a5b7dd8b952e0fed40ba2aeedc"/>
+		<rom name="4!Original Parameter Cross-Reference, The (1989)(Mallang II, Edward)(Side A).z64" size="45152" crc="cecaf498" md5="d36458b0897493876fd480b564fdcfc1" sha1="787ec6bfa2260362214033837876f808098c71ca"/>
+	</game>
+	<game name="Original Parameter Cross-Reference, The (1989)(Mallang II, Edward)(Side B)">
+		<description>Original Parameter Cross-Reference, The (1989)(Mallang II, Edward)(Side B)</description>
+		<rom name="1!Original Parameter Cross-Reference, The (1989)(Mallang II, Edward)(Side B).z64" size="43348" crc="aebc7be9" md5="ff824b2e70caf059a0b20f968808804e" sha1="0bae5527b953555656c2fd905c1bea16bf300617"/>
+		<rom name="2!Original Parameter Cross-Reference, The (1989)(Mallang II, Edward)(Side B).z64" size="43346" crc="3ddf8341" md5="170209ff319fb00c9ec915445c723b03" sha1="38bc848e266e922d387fd1346262e7573ec7f346"/>
+		<rom name="3!Original Parameter Cross-Reference, The (1989)(Mallang II, Edward)(Side B).z64" size="40265" crc="1b6bb87e" md5="b9138e03fe57fcdc09f902c4247df252" sha1="89aad3fffb1693ae1f6d99764d60d09ee6ab0a81"/>
+		<rom name="4!Original Parameter Cross-Reference, The (1989)(Mallang II, Edward)(Side B).z64" size="21084" crc="0293b708" md5="701c2e2b700e3da744e952c58b9a4fec" sha1="e52d255587cb6150d04c28b4aad9a977c917f3e8"/>
+	</game>
+	<game name="Ultima V - The Book of Lore (19xx)(Cyberjank)">
+		<description>Ultima V - The Book of Lore (19xx)(Cyberjank)</description>
+		<rom name="1!Ultima V - The Book of Lore (19xx)(Cyberjank).z64" size="42768" crc="ef5ac353" md5="c7bb9b2051003cbe57ae92d30c83f954" sha1="80915c4f9734d562a547d027dd18acc7af5c3add"/>
+		<rom name="2!Ultima V - The Book of Lore (19xx)(Cyberjank).z64" size="29412" crc="fafb5ca9" md5="6facefd1c8400122f6232d7f2a2ef0a5" sha1="98e36fa58ef6f4cecf3ef3de11ff801abf77a148"/>
+		<rom name="3!Ultima V - The Book of Lore (19xx)(Cyberjank).z64" size="38236" crc="200115f1" md5="740b1126a0367b12a746b9efbdcccb40" sha1="b957a20bbc46d420273a9b498e25e7f096843c2a"/>
+		<rom name="4!Ultima V - The Book of Lore (19xx)(Cyberjank).z64" size="36456" crc="f3081032" md5="b881b56efee23635780fd44ec350cbcc" sha1="33cf81d9a4baa095b2a66058b2929f2d7bb80c5b"/>
+	</game>
+</datafile>

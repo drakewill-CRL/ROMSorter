@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo - Virtual Boy (01 D-Pad) (Echoj2's 1G1R)</name>
+		<description>Nintendo - Virtual Boy (01 D-Pad) (Echoj2's 1G1R)</description>
+		<category>Standard DatFile</category>
+		<version>20180623-100000</version>
+		<date>-insert date-</date>
+		<author>Eckaji</author>
+		<email>-insert email-</email>
+		<homepage>r/SBCGaming</homepage>
+		<url>https://discord.gg/JdXc6nx</url>
+		<comment>-insert comment-</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Galactic Pinball (Japan, USA)">
+		<description>Galactic Pinball (Japan, USA)</description>
+		<rom name="Galactic Pinball (Japan, USA).vb" size="1048576" crc="c9710a36" md5="85260599fdada2e137053a8647aa0d06" sha1="93a25abf4f86e71a49c1c3a470140bb40cb693d6"/>
+	</machine>
+	<machine name="Golf (USA)">
+		<description>Golf (USA)</description>
+		<rom name="Golf (USA).vb" size="2097152" crc="2199af41" md5="977c4da800dacfac1a1402781670f872" sha1="23ce3c174789cdd306497d86cb2c4e76ba8b06e5"/>
+	</machine>
+	<machine name="Jack Bros. (USA)">
+		<description>Jack Bros. (USA)</description>
+		<rom name="Jack Bros. (USA).vb" size="1048576" crc="a44de03c" md5="ee873c9969c15e92ca9a0f689c4ce5ea" sha1="0e086d7ef2bd8b97315196943fd0b71da07aa8f1"/>
+	</machine>
+	<machine name="Mario Clash (Japan, USA)">
+		<description>Mario Clash (Japan, USA)</description>
+		<rom name="Mario Clash (Japan, USA).vb" size="1048576" crc="a47de78c" md5="b1b3a25ce8fb4f406bf82b8765d307d0" sha1="7556a778b60490bdb81774bcbaa7413fc84cb985"/>
+	</machine>
+	<machine name="Mario's Tennis (Japan, USA)">
+		<description>Mario's Tennis (Japan, USA)</description>
+		<rom name="Mario's Tennis (Japan, USA).vb" size="524288" crc="7ce7460d" md5="38ecc2c5a745a80d32eb9e8e413358c4" sha1="5162f7fa9e3eae4338c53ccba641ba080c768754"/>
+	</machine>
+	<machine name="Nester's Funky Bowling (USA)">
+		<description>Nester's Funky Bowling (USA)</description>
+		<rom name="Nester's Funky Bowling (USA).vb" size="2097152" crc="df4d56b4" md5="0285dc41d75be8419d12472f20025305" sha1="f4a4c7928f15102cf14c90c5f044e5f7cc7c32f9"/>
+	</machine>
+	<machine name="Panic Bomber (USA)">
+		<description>Panic Bomber (USA)</description>
+		<rom name="Panic Bomber (USA).vb" size="524288" crc="19bb2dfb" md5="467247d5e3383d066005565bf8218436" sha1="80216b2874cf162f301d571bb8aebc98d80b4f3e"/>
+	</machine>
+	<machine name="Virtual Boy Wario Land (Japan, USA)">
+		<description>Virtual Boy Wario Land (Japan, USA)</description>
+		<rom name="Virtual Boy Wario Land (Japan, USA).vb" size="2097152" crc="133e9372" md5="fb4dc9f4ebd506702eb49e99a62bd803" sha1="274c328fbd904f20e69172ab826bf8f94ced1bdb"/>
+	</machine>
+	<machine name="Virtual League Baseball (USA)">
+		<description>Virtual League Baseball (USA)</description>
+		<rom name="Virtual League Baseball (USA).vb" size="1048576" crc="736b40d6" md5="2ba914c8aa16f2f9230b3c5b7e17e67b" sha1="266fe615ee3df1160a20b456824699f16810fa28"/>
+	</machine>
+	<machine name="Waterworld (USA)">
+		<description>Waterworld (USA)</description>
+		<rom name="Waterworld (USA).vb" size="2097152" crc="82a95e51" md5="110a83bc070559c5cc5634a8b5cae274" sha1="dcc46484bd0acab0ac1ea178f425a0f5ccfb8dc2"/>
+	</machine>
+</datafile>

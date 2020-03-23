@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Epson PX-8, HC-88 &amp; Geneva - Compilations - Applications - [HEX]</name>
+		<description>Epson PX-8, HC-88 &amp; Geneva - Compilations - Applications - [HEX] (TOSEC-v2011-11-27)</description>
+		<category>TOSEC</category>
+		<version>2011-11-27</version>
+		<author>TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Manudax Utilities (19xx)(-)">
+		<description>Manudax Utilities (19xx)(-)</description>
+		<rom name="Manudax Utilities (19xx)(-).hex" size="92173" crc="adbb7a83" md5="63b5662e0bfe4ada179e5c218b35a113" sha1="9e0695faf2b02870fe9b879b5117a8b98fc5d20e"/>
+	</game>
+	<game name="Portable Calc &amp; Scheduler (19xx)(-)">
+		<description>Portable Calc &amp; Scheduler (19xx)(-)</description>
+		<rom name="Portable Calc &amp; Scheduler (19xx)(-).hex" size="92173" crc="ae124925" md5="077de50c620ba2c4754a0d1c69d997e8" sha1="a535ce8267c84e5464df735957acd4cd18a5f76d"/>
+	</game>
+	<game name="Utilities 1 (19xx)(-)">
+		<description>Utilities 1 (19xx)(-)</description>
+		<rom name="Utilities 1 (19xx)(-).hex" size="92173" crc="45e52fc5" md5="6285764bdfb177bbcdf531a1ca3dcad5" sha1="0bbff398b0a6da46af3e8ea0b6bf79524faf1389"/>
+	</game>
+	<game name="Utilities 2 (19xx)(-)">
+		<description>Utilities 2 (19xx)(-)</description>
+		<rom name="Utilities 2 (19xx)(-).hex" size="92175" crc="f3775e86" md5="a2e68a1ced0a4656db2a7dbd082102be" sha1="88d378ce6382a57778a22ad5c9ee1a8deaf043c6"/>
+	</game>
+</datafile>

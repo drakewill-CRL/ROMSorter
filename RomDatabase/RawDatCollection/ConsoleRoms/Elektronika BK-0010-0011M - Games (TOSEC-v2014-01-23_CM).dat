@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Elektronika BK-0010-0011M - Games</name>
+		<description>Elektronika BK-0010-0011M - Games (TOSEC-v2014-01-23)</description>
+		<category>TOSEC</category>
+		<version>2014-01-23</version>
+		<author>Grendel - Cid - Xtale</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Pigame (1995)(-)">
+		<description>Pigame (1995)(-)</description>
+		<rom name="Pigamend.exe" size="13312" crc="47312fa6" md5="a7e9c689445a82854d6025f527ac47f3" sha1="e8b15a084089e9d9476450ba91e6b52f32b72761"/>
+		<rom name="Pigamend.mus" size="5288" crc="d9cf6f7d" md5="c047c0cd657d463dab191e6547bc079c" sha1="9bdab811331fa1f25724763679c8de2be09f9852"/>
+		<rom name="Readme.pig" size="1231" crc="632a7240" md5="8c4ffc3c14ebaf6ff716fe82b0822d81" sha1="9747fb73fdd3653c88e1b8e7d0adb452f77e64df"/>
+	</game>
+	<game name="Rescue Ranger (1991)(Screw)">
+		<description>Rescue Ranger (1991)(Screw)</description>
+		<rom name="Mine-0.bin" size="31744" crc="a919cae1" md5="700b45b17cc3e89ccf6cd364ef9e9922" sha1="a280bed2bc99962f9810c6e113762a4342ca00db"/>
+		<rom name="Mine-0.doc" size="4092" crc="5c743f2c" md5="a3461d2f97c544e03309dc2eac414762" sha1="efa2ddefcb6446ff0ed93b382a1a3e8926115be1"/>
+	</game>
+	<game name="ZZZ-UNK-PJANIC">
+		<description>ZZZ-UNK-PJANIC</description>
+		<rom name="pjanic.bas" size="4476" crc="f094ab7d" md5="55d8c186ddd946f5ed85f932838f8f91" sha1="0eb50d5579cc25d85922406575778287e337c23b"/>
+		<rom name="pjanic.cod" size="4374" crc="8624f8d2" md5="ff92bac3df435712d19ffe89eb2cf370" sha1="883b98222b126438399a859ec9625741e33af0a4"/>
+	</game>
+</datafile>

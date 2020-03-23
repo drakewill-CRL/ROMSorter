@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Zilog MCZ-2 - Operating Systems</name>
+		<description>Zilog MCZ-2 - Operating Systems (TOSEC-v2017-04-05)</description>
+		<category>TOSEC</category>
+		<version>2017-04-05</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<url>http://www.tosecdev.org</url>
+		<clrmamepro/>
+	</header>
+	<game name="MCZ-2 RIO v4.2 for FFS (19xx)(-)[Formatted W-C-P option, 13-1118-02, Rev A, ECR# 6030, ECN# 2776, 821013]">
+		<description>MCZ-2 RIO v4.2 for FFS (19xx)(-)[Formatted W-C-P option, 13-1118-02, Rev A, ECR# 6030, ECN# 2776, 821013]</description>
+		<rom name="MCZ-2 RIO v4.2 for FFS (19xx)(-)[Formatted W-C-P option, 13-1118-02, Rev A, ECR# 6030, ECN# 2776, 821013].imd" size="653042" crc="b42985fb" md5="6649e3360fd6872cb9a235be5cc33559" sha1="45c902fe7be1bd6915b8bfb3ae4399c53528b65f"/>
+	</game>
+	<game name="Zilog MCZ-2 CP-M v2.2 (1980)(Digital Research - Zilog)[Serial # 2-384-00089]">
+		<description>Zilog MCZ-2 CP-M v2.2 (1980)(Digital Research - Zilog)[Serial # 2-384-00089]</description>
+		<rom name="Zilog MCZ-2 CP-M v2.2 (1980)(Digital Research - Zilog)[Serial # 2-384-00089].imd" size="239162" crc="4a804c12" md5="1c2d0a3008669535da8b15f0b2a5fbb3" sha1="33f705b7282cc91d8de3a3983d64f175c1e24342"/>
+	</game>
+</datafile>

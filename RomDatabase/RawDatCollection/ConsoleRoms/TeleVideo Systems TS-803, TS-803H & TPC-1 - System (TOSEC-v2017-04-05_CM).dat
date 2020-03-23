@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>TeleVideo Systems TS-803, TS-803H &amp; TPC-1 - System</name>
+		<description>TeleVideo Systems TS-803, TS-803H &amp; TPC-1 - System (TOSEC-v2017-04-05)</description>
+		<category>TOSEC</category>
+		<version>2017-04-05</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<url>http://www.tosecdev.org</url>
+		<clrmamepro/>
+	</header>
+	<game name="CBIOS for TeleVideo System TPC I v1.0 Rev A (1983)(TeleVideo Systems)(TPC-1)">
+		<description>CBIOS for TeleVideo System TPC I v1.0 Rev A (1983)(TeleVideo Systems)(TPC-1)</description>
+		<rom name="CBIOS for TeleVideo System TPC I v1.0 Rev A (1983)(TeleVideo Systems)(TPC-1).imd" size="289360" crc="5fe8ce13" md5="b4d5b54438d7267a70244d2a313dcb67" sha1="5b789b104c19c81ddaece7798a3a7e44312c8001"/>
+	</game>
+	<game name="CP-M v2.2, GSX-80 v1.0 Rev. C (1982)(Digital Research - TeleVideo Systems)(TPC-1)[P-N 183082-01, S-N 326A-15905]">
+		<description>CP-M v2.2, GSX-80 v1.0 Rev. C (1982)(Digital Research - TeleVideo Systems)(TPC-1)[P-N 183082-01, S-N 326A-15905]</description>
+		<rom name="CP-M v2.2, GSX-80 v1.0 Rev. C (1982)(Digital Research - TeleVideo Systems)(TPC-1)[P-N 183082-01, S-N 326A-15905].imd" size="290896" crc="7d1c7b9e" md5="b623c57a318a0e59fcb289ceb7d798fe" sha1="d8c5d31c321fb6e254258125ff5f2f4aecfc8798"/>
+	</game>
+	<game name="TeleVideo TS-803 NZ COM v1.2 ZSDOS (19xx)(-)(TS-803)[autoboot]">
+		<description>TeleVideo TS-803 NZ COM v1.2 ZSDOS (19xx)(-)(TS-803)[autoboot]</description>
+		<rom name="TeleVideo TS-803 NZ COM v1.2 ZSDOS (19xx)(-)(TS-803)[autoboot].imd" size="273839" crc="e63671b9" md5="bd49b814f8aecdc43d98939b4950b1bf" sha1="843295a1e4176697fa9b4356fdb8bc3aafa436e6"/>
+	</game>
+	<game name="TPC-1 System Disk Distribution (19xx)(TeleVideo Systems)">
+		<description>TPC-1 System Disk Distribution (19xx)(TeleVideo Systems)</description>
+		<rom name="TPC-1 System Disk Distribution (19xx)(TeleVideo Systems).imd" size="318945" crc="85d406e7" md5="f0a33da1dc4af0a8247832f78299c567" sha1="61540b62b21b37d8e95efec996a7706a95cbaa16"/>
+	</game>
+	<game name="TS-803 CPM v1.5 (19xx)(-)(TS-803)">
+		<description>TS-803 CPM v1.5 (19xx)(-)(TS-803)</description>
+		<rom name="TS-803 CPM v1.5 (19xx)(-)(TS-803).imd" size="260544" crc="92809d67" md5="d72fbc45f85003219d75d7c94e39cee5" sha1="c42d512732d6097fd5aa98a7a692f2fafe1a68d4"/>
+	</game>
+	<game name="TS-803 v1.1 CP-M v2.2 Rev. B (1982)(Digital Research - TeleVideo Systems)(TS-803)">
+		<description>TS-803 v1.1 CP-M v2.2 Rev. B (1982)(Digital Research - TeleVideo Systems)(TS-803)</description>
+		<rom name="TS-803 v1.1 CP-M v2.2 Rev. B (1982)(Digital Research - TeleVideo Systems)(TS-803).imd" size="227403" crc="98349fda" md5="286dc8c4724a212a34272ec443e721bc" sha1="99f4c27424893d7875fefad318f34a8c83b630d5"/>
+	</game>
+	<game name="TS-803H CP-M v1.1, GSX-80 v1.0 Rev. B (1982)(Digital Research - TeleVideo Systems)(TS-803H)[P-N 183082-01]">
+		<description>TS-803H CP-M v1.1, GSX-80 v1.0 Rev. B (1982)(Digital Research - TeleVideo Systems)(TS-803H)[P-N 183082-01]</description>
+		<rom name="TS-803H CP-M v1.1, GSX-80 v1.0 Rev. B (1982)(Digital Research - TeleVideo Systems)(TS-803H)[P-N 183082-01].imd" size="323576" crc="15e101c4" md5="8f1be049758998690a56dcf086e31cf4" sha1="366c7710dbf23653751cc019e6af26fd8e1d53d2"/>
+	</game>
+	<game name="TurboDOS Make Support Files (19xx)(-)(TS-803)">
+		<description>TurboDOS Make Support Files (19xx)(-)(TS-803)</description>
+		<rom name="TurboDOS Make Support Files (19xx)(-)(TS-803).imd" size="186087" crc="0bedcef9" md5="a955fafac5e4bfb0ade9ce0184645add" sha1="87495a1a4b2aec296bbc211c5e065f8f5d112fd4"/>
+	</game>
+	<game name="TurboDOS TS-803 Work Boot (19xx)(-)(TS-803)">
+		<description>TurboDOS TS-803 Work Boot (19xx)(-)(TS-803)</description>
+		<rom name="TurboDOS TS-803 Work Boot (19xx)(-)(TS-803).imd" size="143499" crc="d59d86bc" md5="870523849ea3c77ee75841f72cad09fa" sha1="86b91f5b6501cbfbee9f294c0ca9fcf4cabbd7bb"/>
+	</game>
+	<game name="TurboDOS v1.3 Work TS-803 Floppy (19xx)(-)">
+		<description>TurboDOS v1.3 Work TS-803 Floppy (19xx)(-)</description>
+		<rom name="TurboDOS v1.3 Work TS-803 Floppy (19xx)(-).imd" size="144015" crc="d2242f8b" md5="7f18dc71c77c2c2873d341c2f8dc3b37" sha1="1469ff705af7f96b872277495d283ddab7e8702f"/>
+	</game>
+</datafile>

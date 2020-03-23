@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Fujitsu FM Towns - CD - Games</name>
+		<description>Fujitsu FM Towns - CD - Games (TOSEC-v2012-07-13)</description>
+		<category>TOSEC-ISO</category>
+		<version>2012-07-13</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="America Oudan Ultra Quiz - King of Quiz (1994)(Fujitsu)(JP)">
+		<description>America Oudan Ultra Quiz - King of Quiz (1994)(Fujitsu)(JP)</description>
+		<rom name="America Oudan Ultra Quiz - King of Quiz (1994)(Fujitsu)(JP).cue" size="148" crc="0970961a" md5="aefc7f11a52815a8c26f3b8bcab1ed74" sha1="8f58e2888dfdf8c87409c81eaaf0f5c8f595f629"/>
+		<rom name="America Oudan Ultra Quiz - King of Quiz (1994)(Fujitsu)(JP).iso" size="42973184" crc="aba3dab3" md5="f5e966f2699d39a7baefca9af47c49d5" sha1="a41ad768b72896f14d2569c03d3f904ef4e0d159"/>
+	</game>
+	<game name="ElFish Lite (1993)(Fujitsu)(JP)">
+		<description>ElFish Lite (1993)(Fujitsu)(JP)</description>
+		<rom name="ElFish Lite (1993)(Fujitsu)(JP).cue" size="120" crc="0cb0a950" md5="42ae3cb15efab5b76225f60935de7e5d" sha1="5cb13da0c6a12f687ec60e049c909c62884c122b"/>
+		<rom name="ElFish Lite (1993)(Fujitsu)(JP).iso" size="110284800" crc="df561821" md5="b3d9ce8729f35a78a076f0cfcd151434" sha1="1594b274621d78dba1f0840a5b24dbac7b0afa77"/>
+	</game>
+	<game name="Galaxy Wars - Regional Power II (1992)(Cosmos)(JP)">
+		<description>Galaxy Wars - Regional Power II (1992)(Cosmos)(JP)</description>
+		<rom name="Galaxy Wars - Regional Power II (1992)(Cosmos)(JP).cue" size="139" crc="6c9f9077" md5="a710abb577502241d3b218ec4d2c0620" sha1="93f32a0c7f32598c26736107e860d9eb20ccad56"/>
+		<rom name="Galaxy Wars - Regional Power II (1992)(Cosmos)(JP).iso" size="8908800" crc="9e518695" md5="ffbdb6d0daf0dfab3bdc569b752570a3" sha1="f3fbb7c43fdd4b9936356d89e9bd574d04405e0c"/>
+	</game>
+	<game name="Kiwame II (1994)(LOG)(JP)">
+		<description>Kiwame II (1994)(LOG)(JP)</description>
+		<rom name="Kiwame II (1994)(LOG)(JP).cue" size="114" crc="827cb480" md5="c23153b4967e38a08ca2a6464d8d143e" sha1="db7c444c7ab0597c1acff6c97d41c2747874eb83"/>
+		<rom name="Kiwame II (1994)(LOG)(JP).iso" size="8908800" crc="092d8ac3" md5="a6d5500fbe8a5c6c3afb562392a7a658" sha1="2844aec8131a806b0c669baef874f0eafaee04ef"/>
+	</game>
+	<game name="Populous &amp; The Promised Lands (1990)(Imagineer)(JP)">
+		<description>Populous &amp; The Promised Lands (1990)(Imagineer)(JP)</description>
+		<rom name="Populous &amp; The Promised Lands (1990)(Imagineer)(JP).cue" size="140" crc="b85b6c75" md5="a22c8db06d0f06623514f49f95e406c3" sha1="f4fd3e17fdaf8f5b445e6527c39126431d3b3546"/>
+		<rom name="Populous &amp; The Promised Lands (1990)(Imagineer)(JP).iso" size="10291200" crc="794d73b8" md5="adda6bb11eaf482cecb732e61da376ce" sha1="4d8204f94c57296a462ea73acf37da45838b64ab"/>
+	</game>
+</datafile>

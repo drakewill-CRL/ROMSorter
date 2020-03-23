@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Texas Instruments CC-40 - Sources</name>
+		<description>Texas Instruments CC-40 - Sources (TOSEC-v2014-06-30)</description>
+		<category>TOSEC</category>
+		<version>2014-06-30</version>
+		<author>Diaboł</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Base Conversion Program (2004)(Maalouli, Walid)">
+		<description>Base Conversion Program (2004)(Maalouli, Walid)</description>
+		<rom name="CONVERT.TXT" size="8014" crc="c1348cd9" md5="f98afbabab4f2783328d2a1d2cbe7335" sha1="68caa138354e818d075f355d2fa1219833bf638a"/>
+	</game>
+	<game name="Base Conversion Program (2004)(Maalouli, Walid)[a]">
+		<description>Base Conversion Program (2004)(Maalouli, Walid)[a]</description>
+		<rom name="CONVERT.TXT" size="8213" crc="1d2e36d1" md5="cee2d457666c5a118643527ece711b44" sha1="6e2cce5632bbfb67ddab6cd206644c058e481529"/>
+	</game>
+	<game name="Blackjack (2001)(Maalouli, Walid)">
+		<description>Blackjack (2001)(Maalouli, Walid)</description>
+		<rom name="Blackjak.txt" size="5539" crc="b3b87fcb" md5="e938ae1b684809b2f4862547adbd412a" sha1="e96da30ea7abda8ae4badda0252f45c2f5a8f5c1"/>
+	</game>
+	<game name="Hangman (1999)(Maalouli, Walid)">
+		<description>Hangman (1999)(Maalouli, Walid)</description>
+		<rom name="Hangman.txt" size="3299" crc="10381f0d" md5="c3ecbd6e690e36720913a86d6ae61e9a" sha1="8bb57d98fc68b59af7cc757c4bf902145490c550"/>
+	</game>
+	<game name="Hangman (1999)(Maalouli, Walid)[a]">
+		<description>Hangman (1999)(Maalouli, Walid)[a]</description>
+		<rom name="Hangman.txt" size="3223" crc="4f5ab56a" md5="930995053677a741f5b29119eb5c9dae" sha1="077ce24c586afb045594a459e3d943fc6e3aadba"/>
+	</game>
+	<game name="Mastermind (1999)(Maalouli, Walid)">
+		<description>Mastermind (1999)(Maalouli, Walid)</description>
+		<rom name="Master.txt" size="2869" crc="9bbfe419" md5="b449f1cfae6acca4f487d8cad0a4642a" sha1="3409545800c1152e03fdf05879961b4dd6071a4a"/>
+	</game>
+</datafile>

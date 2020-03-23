@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Firmware - Kernal</name>
+		<description>Commodore C64 - Firmware - Kernal (TOSEC-v2019-04-20)</description>
+		<category>TOSEC</category>
+		<version>2019-04-20</version>
+		<author>Duncan Twain - Burstnibbler</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Basic V2 901226-01 (198x)(Commodore)[!]">
+		<description>Basic V2 901226-01 (198x)(Commodore)[!]</description>
+		<rom name="Basic V2 901226-01 (198x)(Commodore)[!].rom" size="8192" crc="f833d117" md5="57af4ae21d4b705c2991d98ed5c1f7b8" sha1="79015323128650c742a3694c9429aa91f355905e"/>
+	</game>
+	<game name="Chargen 325018-02 (198x)(Commodore)(SE)">
+		<description>Chargen 325018-02 (198x)(Commodore)(SE)</description>
+		<rom name="Chargen 325018-02 (198x)(Commodore)(SE).rom" size="4096" crc="377a382b" md5="7a1906cd3993ad17a0a0b2b68da9c114" sha1="20df25e0ba1c88f31689c1521397c96968967fac"/>
+	</game>
+	<game name="Chargen 325018-02 (198x)(Commodore)(SE)[C2G007]">
+		<description>Chargen 325018-02 (198x)(Commodore)(SE)[C2G007]</description>
+		<rom name="Chargen 325018-02 (198x)(Commodore)(SE)[C2G007].rom" size="4096" crc="bee9b3fd" md5="5973267e85b7b2b574e780874843180b" sha1="446ae58f7110d74d434301491209299f66798d8a"/>
+	</game>
+	<game name="Chargen 325056-03 (198x)(Commodore)(ES)[64C]">
+		<description>Chargen 325056-03 (198x)(Commodore)(ES)[64C]</description>
+		<rom name="Chargen 325056-03 (198x)(Commodore)(ES)[64C].rom" size="4096" crc="c890c175" md5="81a1a8e6e334caeadd1b8468bb7728d3" sha1="4f57259fff9ef1963a4e87165a6f35ca23864c76"/>
+	</game>
+	<game name="Chargen 901225-01 (198x)(Commodore)(DK)">
+		<description>Chargen 901225-01 (198x)(Commodore)(DK)</description>
+		<rom name="Chargen 901225-01 (198x)(Commodore)(DK).rom" size="4096" crc="f649ec3a" md5="b3ad62b41b5f919fc56c3a40e636ec29" sha1="41b2ee311b022980144cf8abbf74c00494f34265"/>
+	</game>
+	<game name="Chargen 901225-01 (198x)(Commodore)[!]">
+		<description>Chargen 901225-01 (198x)(Commodore)[!]</description>
+		<rom name="Chargen 901225-01 (198x)(Commodore)[!].rom" size="4096" crc="ec4272ee" md5="12a4202f5331d45af846af6c58fba946" sha1="adc7c31e18c7c7413d54802ef2f4193da14711aa"/>
+	</game>
+	<game name="Chargen 906143-02 (198x)(Commodore)(JP)">
+		<description>Chargen 906143-02 (198x)(Commodore)(JP)</description>
+		<rom name="Chargen 906143-02 (198x)(Commodore)(JP).rom" size="4096" crc="1604f6c1" md5="cf32a93c0a693ed359a4f483ef6db53d" sha1="0fad19dbcdb12461c99657b2979dbb5c2e47b527"/>
+	</game>
+	<game name="Kernal 251104-04 (198x)(Commodore)[!][SX-64]">
+		<description>Kernal 251104-04 (198x)(Commodore)[!][SX-64]</description>
+		<rom name="Kernal 251104-04 (198x)(Commodore)[!][SX-64].rom" size="8192" crc="2c5965d4" md5="187b8c713b51931e070872bd390b472a" sha1="aa136e91ecf3c5ac64f696b3dbcbfc5ba0871c98"/>
+	</game>
+	<game name="Kernal 251913-01 (198x)(Commodore)[64C]">
+		<description>Kernal 251913-01 (198x)(Commodore)[64C]</description>
+		<rom name="Kernal 251913-01 (198x)(Commodore)[64C].rom" size="16384" crc="0010ec31" md5="8c37b056c00a44c0725508b8cedbbefb" sha1="765372a0e16cbb0adf23a07b80f6b682b39fbf88"/>
+	</game>
+	<game name="Kernal 325017-02 (198x)(Commodore)(SE)">
+		<description>Kernal 325017-02 (198x)(Commodore)(SE)</description>
+		<rom name="Kernal 325017-02 (198x)(Commodore)(SE).rom" size="8192" crc="8f294c51" md5="b3f80a9d41512ccd0a4288f581385103" sha1="1ec15d62e5f691ed24cc5af637732ec41e576ad8"/>
+	</game>
+	<game name="Kernal 390852-01 (1984)(Commodore)[64GS]">
+		<description>Kernal 390852-01 (1984)(Commodore)[64GS]</description>
+		<rom name="Kernal 390852-01 (1984)(Commodore)[64GS].rom" size="16384" crc="b0a9c2da" md5="049e657afafbdd802e8c6a4f88f3d730" sha1="21940ef5f1bfe67d7537164f7ca130a1095b067a"/>
+	</game>
+	<game name="Kernal 901227-01 (1982)(Commodore)">
+		<description>Kernal 901227-01 (1982)(Commodore)</description>
+		<rom name="Kernal 901227-01 (1982)(Commodore).rom" size="8192" crc="dce782fa" md5="1ae0ea224f2b291dafa2c20b990bb7d4" sha1="87cc04d61fc748b82df09856847bb5c2754a2033"/>
+	</game>
+	<game name="Kernal 901227-02 (1982)(Commodore)">
+		<description>Kernal 901227-02 (1982)(Commodore)</description>
+		<rom name="Kernal 901227-02 (1982)(Commodore).rom" size="8192" crc="a5c687b3" md5="7360b296d64e18b88f6cf52289fd99a1" sha1="0e2e4ee3f2d41f00bed72f9ab588b83e306fdb13"/>
+	</game>
+	<game name="Kernal 901227-03 (1983)(Commodore)[!]">
+		<description>Kernal 901227-03 (1983)(Commodore)[!]</description>
+		<rom name="Kernal 901227-03 (1983)(Commodore)[!].rom" size="8192" crc="dbe3e7c7" md5="39065497630802346bce17963f13c092" sha1="1d503e56df85a62fee696e7618dc5b4e781df1bb"/>
+	</game>
+	<game name="Kernal 901227-03 (198x)(Commodore)(DK)">
+		<description>Kernal 901227-03 (198x)(Commodore)(DK)</description>
+		<rom name="Kernal 901227-03 (198x)(Commodore)(DK).rom" size="8192" crc="1dc8a998" md5="e4aa56240fe13d8ad8d7d1dc8fec2395" sha1="f3fd7bbfd047d81244163bac147ba97429d1fdd0"/>
+	</game>
+	<game name="Kernal 901246-01 (198x)(Commodore)">
+		<description>Kernal 901246-01 (198x)(Commodore)</description>
+		<rom name="Kernal 901246-01 (198x)(Commodore).rom" size="8192" crc="789c8cc5" md5="da92801e3a03b005b746a4dd0b639c7c" sha1="6c4fa9465f6091b174df27dfe679499df447503c"/>
+	</game>
+	<game name="Kernal 906145-02 (198x)(Commodore)(JP)">
+		<description>Kernal 906145-02 (198x)(Commodore)(JP)</description>
+		<rom name="Kernal 906145-02 (198x)(Commodore)(JP).rom" size="8192" crc="3a9ef6f1" md5="479553fd53346ec84054f0b1c6237397" sha1="4ff0f11e80f4b57430d8f0c3799ed0f0e0f4565d"/>
+	</game>
+	<game name="Kernal Degussa (19xx)(-)[SX-64]">
+		<description>Kernal Degussa (19xx)(-)[SX-64]</description>
+		<rom name="Kernal Degussa (19xx)(-)[SX-64].rom" size="8192" crc="f17524dc" md5="61da5c2270fc24d13072f5a3da20c1bf" sha1="a66b908f8f14426028904f0ae1feef1d499b7414"/>
+	</game>
+	<game name="Kernal Dolphin-DOS V1.0 (198x)(Dolphin Software)">
+		<description>Kernal Dolphin-DOS V1.0 (198x)(Dolphin Software)</description>
+		<rom name="Kernal Dolphin-DOS V1.0 (198x)(Dolphin Software).rom" size="8192" crc="c9bb21bc" md5="6b309c76473dcf555c52c598c6a51011" sha1="e305216e50ff8a7acf102be6c6343e3d44a16233"/>
+	</game>
+	<game name="Kernal Dolphin-DOS V2.0-1 (198x)(Dolphin Software)">
+		<description>Kernal Dolphin-DOS V2.0-1 (198x)(Dolphin Software)</description>
+		<rom name="Kernal Dolphin-DOS V2.0-1 (198x)(Dolphin Software).rom" size="8192" crc="c9c4c44e" md5="2a441f4abd272d50f94b43c7ff3cc629" sha1="7f5d8f08c5ed2182ffb415a3d777fdd922496d02"/>
+	</game>
+	<game name="Kernal Dolphin-DOS V2.0-1 (198x)(Dolphin Software)(AU)">
+		<description>Kernal Dolphin-DOS V2.0-1 (198x)(Dolphin Software)(AU)</description>
+		<rom name="Kernal Dolphin-DOS V2.0-1 (198x)(Dolphin Software)(AU).rom" size="8192" crc="7068bbcc" md5="c3c93b9a46f116acbfe7ee147c338c60" sha1="325ce7e32609a8fc704aaa76f5eb4cd7d8099a92"/>
+	</game>
+	<game name="Kernal Dolphin-DOS V2.0-2 (198x)(Dolphin Software)">
+		<description>Kernal Dolphin-DOS V2.0-2 (198x)(Dolphin Software)</description>
+		<rom name="Kernal Dolphin-DOS V2.0-2 (198x)(Dolphin Software).rom" size="8192" crc="ffaeb9bc" md5="c7a175217e67dcb425feca5fcf2a01cc" sha1="5f6c1bad379da16f77bccb58e80910f307dfd5f8"/>
+	</game>
+	<game name="Kernal Dolphin-DOS V2.0-3 (1986)(Dolphin Software)">
+		<description>Kernal Dolphin-DOS V2.0-3 (1986)(Dolphin Software)</description>
+		<rom name="Kernal Dolphin-DOS V2.0-3 (1986)(Dolphin Software).rom" size="8192" crc="4fd511f2" md5="7a9b1040cfbe769525bb9cdc28427be6" sha1="316fba280dcb29496d593c0c4e3ee9a19844054e"/>
+	</game>
+	<game name="Kernal Dolphin-DOS V3.0 (198x)(Dolphin Software)">
+		<description>Kernal Dolphin-DOS V3.0 (198x)(Dolphin Software)</description>
+		<rom name="Kernal Dolphin-DOS V3.0 (198x)(Dolphin Software).rom" size="8192" crc="5402d643" md5="fc8fb5ec89b34ae41c8dc20907447e06" sha1="733acb96fead2fb4df77840c5bb618f08439fc7e"/>
+	</game>
+	<game name="Kernal Grischun System (19xx)(-)">
+		<description>Kernal Grischun System (19xx)(-)</description>
+		<rom name="Kernal Grischun System (19xx)(-).rom" size="8192" crc="e7d24def" md5="8020d24769ce76f6978c27090462e5cc" sha1="450d17b4a2cb7c08db599372ec8255846cadeefe"/>
+	</game>
+	<game name="Kernal Grischun Turbo System (19xx)(-)">
+		<description>Kernal Grischun Turbo System (19xx)(-)</description>
+		<rom name="Kernal Grischun Turbo System (19xx)(-).rom" size="8192" crc="bcdf6dbe" md5="a63517845bd48b74219ef41aa80e204f" sha1="a5478e6a17de902de57fa70a28fe627559ccb616"/>
+	</game>
+	<game name="Kernal Hypra System (19xx)(-)">
+		<description>Kernal Hypra System (19xx)(-)</description>
+		<rom name="Kernal Hypra System (19xx)(-).rom" size="8192" crc="0518fe53" md5="21f2ddc3538c9ba4fbfe3cee36025b31" sha1="687c1d6301fa425a4332e1bb4787218160628761"/>
+	</game>
+	<game name="Kernal JaffyDOS V1.0 Kernal for SD2IEC (2017)(Jani)">
+		<description>Kernal JaffyDOS V1.0 Kernal for SD2IEC (2017)(Jani)</description>
+		<rom name="Kernal JaffyDOS V1.0 Kernal for SD2IEC (2017)(Jani).rom" size="8192" crc="83da52f5" md5="e1c33b14246ca34952efa97d9d5c1ec8" sha1="6131ad0475425b0c17b9a1b0fdfba8990a63b66f"/>
+	</game>
+	<game name="Kernal JaffyDOS V1.2 Kernal for SD2IEC (2017)(Jani)">
+		<description>Kernal JaffyDOS V1.2 Kernal for SD2IEC (2017)(Jani)</description>
+		<rom name="Kernal JaffyDOS V1.2 Kernal for SD2IEC (2017)(Jani).rom" size="8192" crc="869879f8" md5="33303355317fcf7ac039b1d7bb317e38" sha1="e440162718711318fa920c7f5025faa31109665a"/>
+	</game>
+	<game name="Kernal JiffyDOS V5.05 TurboMaster (19xx)(Creative Micro Designs)[outdated]">
+		<description>Kernal JiffyDOS V5.05 TurboMaster (19xx)(Creative Micro Designs)[outdated]</description>
+		<rom name="Kernal JiffyDOS V5.05 TurboMaster (19xx)(Creative Micro Designs)[outdated].rom" size="32768" crc="5b0d6abe" md5="c3d27ed8bef02f6bd9bb51a30d2dd5cb" sha1="ff5723e632b884cd5c10f57d788850be2c519fbe"/>
+	</game>
+	<game name="Kernal JiffyDOS V6.01 (1989)(Creative Micro Designs)">
+		<description>Kernal JiffyDOS V6.01 (1989)(Creative Micro Designs)</description>
+		<rom name="Kernal JiffyDOS V6.01 (1989)(Creative Micro Designs).rom" size="8192" crc="2f79984c" md5="be09394f0576cf81fa8bacf634daf9a2" sha1="31e73e66eccb28732daea8ec3ad1addd9b39a017"/>
+	</game>
+	<game name="Kernal JiffyDOS V6.01 (1989)(Creative Micro Designs)[SX-64]">
+		<description>Kernal JiffyDOS V6.01 (1989)(Creative Micro Designs)[SX-64]</description>
+		<rom name="Kernal JiffyDOS V6.01 (1989)(Creative Micro Designs)[SX-64].rom" size="8192" crc="2b5a88f5" md5="f0d3aa7c5a81d1e1d3e8eeda84e9dbbe" sha1="942c2150123dc30f40b3df6086132ef0a3c43948"/>
+	</game>
+	<game name="Kernal JiffyDOS V6.01 (2015)(Creative Micro Designs)[h DolphinDOS LogicDeLuxe]">
+		<description>Kernal JiffyDOS V6.01 (2015)(Creative Micro Designs)[h DolphinDOS LogicDeLuxe]</description>
+		<rom name="Kernal JiffyDOS V6.01 (2015)(Creative Micro Designs)[h DolphinDOS LogicDeLuxe].rom" size="8192" crc="5b1e2ce1" md5="27f6ca4b70e0481dd5728d1afb68bf27" sha1="79642a304489a52626dfe40a5ec6f9273095e103"/>
+	</game>
+	<game name="Kernal JiffyDOS V6.01 (2015)(Creative Micro Designs)[h DolphinDOS sd2iec LogicDeLuxe]">
+		<description>Kernal JiffyDOS V6.01 (2015)(Creative Micro Designs)[h DolphinDOS sd2iec LogicDeLuxe]</description>
+		<rom name="Kernal JiffyDOS V6.01 (2015)(Creative Micro Designs)[h DolphinDOS sd2iec LogicDeLuxe].rom" size="8192" crc="668944a1" md5="4180959ecc280b451dbab8232080d32f" sha1="d98d41639894e420789f16a5efdd2bb1f0b5a11d"/>
+	</game>
+	<game name="Kernal JiffyDOS V6.01 (2015)(Creative Micro Designs)[h DolphinDOS sd2iec v1.1 LogicDeLuxe]">
+		<description>Kernal JiffyDOS V6.01 (2015)(Creative Micro Designs)[h DolphinDOS sd2iec v1.1 LogicDeLuxe]</description>
+		<rom name="Kernal JiffyDOS V6.01 (2015)(Creative Micro Designs)[h DolphinDOS sd2iec v1.1 LogicDeLuxe].rom" size="8192" crc="98192df6" md5="c9fe23f3273d9beef0bd4c39af86cce9" sha1="01a963586ed6854ab454d6659971d2f6b6b461e5"/>
+	</game>
+	<game name="Kernal SD2IEC Kernal 1.0 (2017)(Claus)">
+		<description>Kernal SD2IEC Kernal 1.0 (2017)(Claus)</description>
+		<rom name="Kernal SD2IEC Kernal 1.0 (2017)(Claus).rom" size="8192" crc="192f673d" md5="3bacdce5908dc4924e3b1c6bf2b09400" sha1="fde88bb663f5d5c2743c61c50229f5f861b6f97b"/>
+	</game>
+	<game name="Kernal SD2IEC Kernal 2.0 (2017)(Claus)">
+		<description>Kernal SD2IEC Kernal 2.0 (2017)(Claus)</description>
+		<rom name="Kernal SD2IEC Kernal 2.0 (2017)(Claus).rom" size="8192" crc="66f35bc4" md5="03ab1c9ec4a8c7104e1eb32d5248bee2" sha1="108fe1f7d3f8a3e5b11ebc64898ebbc1799a3ce7"/>
+	</game>
+	<game name="Kernal SD2IEC Kernal 2.1 (2017)(Claus)">
+		<description>Kernal SD2IEC Kernal 2.1 (2017)(Claus)</description>
+		<rom name="Kernal SD2IEC Kernal 2.1 (2017)(Claus).rom" size="8192" crc="c7327107" md5="5094066be591e3930313b83529effb91" sha1="00f32a1c04e20385db702771d5c04d9def768eb2"/>
+	</game>
+	<game name="Kernal SD2IEC Kernal 2.2 (2017)(Claus)">
+		<description>Kernal SD2IEC Kernal 2.2 (2017)(Claus)</description>
+		<rom name="Kernal SD2IEC Kernal 2.2 (2017)(Claus).rom" size="8192" crc="dac3c09b" md5="6fe87760bdebacf7f6b8a2cfbabef3ff" sha1="8302b4606ba9cd159c01586d29e62e89810b01bb"/>
+	</game>
+	<game name="Kernal SpeedDOS Expert (198x)(Elektronik Service)">
+		<description>Kernal SpeedDOS Expert (198x)(Elektronik Service)</description>
+		<rom name="Kernal SpeedDOS Expert (198x)(Elektronik Service).rom" size="8192" crc="50a5dee1" md5="6f045614b848eb2e5bbbea660e22955b" sha1="a242f1ffc3703145b2ac4c7131ef68b7c13d4a86"/>
+	</game>
+	<game name="Kernal SpeedDOS plus V2.0 (198x)(Elektronik Service)">
+		<description>Kernal SpeedDOS plus V2.0 (198x)(Elektronik Service)</description>
+		<rom name="Kernal SpeedDOS plus V2.0 (198x)(Elektronik Service).rom" size="8192" crc="cb94d4c0" md5="86ac4d6df28e98d913220fdb247d33db" sha1="57f766e726de7ca5063bb233cd146b784e827588"/>
+	</game>
+	<game name="Kernal SpeedDOS plus V2.7 (19xx)(Elektronik Service)[h Mr.Z]">
+		<description>Kernal SpeedDOS plus V2.7 (19xx)(Elektronik Service)[h Mr.Z]</description>
+		<rom name="Kernal SpeedDOS plus V2.7 (19xx)(Elektronik Service)[h Mr.Z].rom" size="8192" crc="9b4b64e6" md5="68e8184a7b51d030dae0ac792969c6f5" sha1="44d85d75cfc54379872b889cf8d0ad66d6a33bc8"/>
+	</game>
+	<game name="Kernal SpeedDOS plus+ V2.0 (198x)(Elektronik Service)">
+		<description>Kernal SpeedDOS plus+ V2.0 (198x)(Elektronik Service)</description>
+		<rom name="Kernal SpeedDOS plus+ V2.0 (198x)(Elektronik Service).rom" size="8192" crc="10aee0ae" md5="59d0291a7855dd4b164802d371ee2130" sha1="6cebd4dc0c5e8c0b073586a3f1c43cc3349b9736"/>
+	</game>
+	<game name="Kernal SpeedDOS plus+ V2.7 (198x)(Elektronik Service)">
+		<description>Kernal SpeedDOS plus+ V2.7 (198x)(Elektronik Service)</description>
+		<rom name="Kernal SpeedDOS plus+ V2.7 (198x)(Elektronik Service).rom" size="8192" crc="ff59995e" md5="02ff8a60ae9e5ad0fce485ba1a576902" sha1="c8d864e5fc7089af8afce97dc0a0224df11df1c3"/>
+	</game>
+	<game name="Kernal SpeedDOS system V1.0 (198x)(Elektronik Service)">
+		<description>Kernal SpeedDOS system V1.0 (198x)(Elektronik Service)</description>
+		<rom name="Kernal SpeedDOS system V1.0 (198x)(Elektronik Service).rom" size="8192" crc="5beb9ac8" md5="5747e1fc1582f0f9a0535f845fd1e644" sha1="8896c8de9e26ef1396eb46020b2de346a3eeab7e"/>
+	</game>
+	<game name="Kernal Turbo Kernal (1988)(Pure-Byte)">
+		<description>Kernal Turbo Kernal (1988)(Pure-Byte)</description>
+		<rom name="Kernal Turbo Kernal (1988)(Pure-Byte).rom" size="8192" crc="711a99bc" md5="15922f9e61516b77d70ae8c32a44fb11" sha1="94b01f4baf9831b80bea200f83046263b5f2cfd5"/>
+	</game>
+	<game name="Kernal Turbo Kernal Both (1988)(Digitize Design Group, Pure-Byte)">
+		<description>Kernal Turbo Kernal Both (1988)(Digitize Design Group, Pure-Byte)</description>
+		<rom name="Kernal Turbo Kernal Both (1988)(Digitize Design Group, Pure-Byte).rom" size="16384" crc="dc717164" md5="8090872eb4761fa44939617252f9ef0d" sha1="1abaa673924a87d0b0c946cdbdab98129fcd7327"/>
+	</game>
+	<game name="Kernal Turbo Kernal Both (1988)(Digitize Design Group, Pure-Byte)[b]">
+		<description>Kernal Turbo Kernal Both (1988)(Digitize Design Group, Pure-Byte)[b]</description>
+		<rom name="Kernal Turbo Kernal Both (1988)(Digitize Design Group, Pure-Byte)[b].rom" size="16384" crc="734ea072" md5="dca26f3e84c0e30a007961eafb203227" sha1="3faf3e6f7c2057d365ec7a121dac503ac07531bc"/>
+	</game>
+	<game name="Kernal Turbo Kernal Normal (1988)(Digitize Design Group, Pure-Byte)">
+		<description>Kernal Turbo Kernal Normal (1988)(Digitize Design Group, Pure-Byte)</description>
+		<rom name="Kernal Turbo Kernal Normal (1988)(Digitize Design Group, Pure-Byte).rom" size="8192" crc="ca6da051" md5="c342dc80f16777e469ce3de2d59cab1c" sha1="f396f9377657403b795d1f5f6f1d4621f0dae15b"/>
+	</game>
+	<game name="Kernal Turbo Kernal Normal (1988)(Digitize Design Group, Pure-Byte)[b]">
+		<description>Kernal Turbo Kernal Normal (1988)(Digitize Design Group, Pure-Byte)[b]</description>
+		<rom name="Kernal Turbo Kernal Normal (1988)(Digitize Design Group, Pure-Byte)[b].rom" size="8192" crc="65527147" md5="64185ecffc3eb333df5b5804780dfcdf" sha1="804b31933b23dfe79930251a1f29ac425ed23753"/>
+	</game>
+	<game name="Kernal Turbo Kernal Turbo (1988)(Digitize Design Group, Pure-Byte)">
+		<description>Kernal Turbo Kernal Turbo (1988)(Digitize Design Group, Pure-Byte)</description>
+		<rom name="Kernal Turbo Kernal Turbo (1988)(Digitize Design Group, Pure-Byte).rom" size="8192" crc="dd19100f" md5="1e0df61b94cb7233a2816c3e81dd4823" sha1="0990655498e6c6efe6860e25a962b8fab1fc87d1"/>
+	</game>
+	<game name="Kernal Turbo Tape Kernal Rom (2007)(Onslaught)">
+		<description>Kernal Turbo Tape Kernal Rom (2007)(Onslaught)</description>
+		<rom name="Kernal Turbo Tape Kernal Rom (2007)(Onslaught).rom" size="8192" crc="9a5abd7e" md5="a409c3e9b3ad4a391e028303d7e74c6b" sha1="3caf262e949d3296c0a04e65577bd78a36d8da40"/>
+	</game>
+	<game name="Kernal unkn (198x)(Commodore)(DK)[SX-64 2564 diff-keyb]">
+		<description>Kernal unkn (198x)(Commodore)(DK)[SX-64 2564 diff-keyb]</description>
+		<rom name="Kernal unkn (198x)(Commodore)(DK)[SX-64 2564 diff-keyb].rom" size="8192" crc="4fe02cdb" md5="776bddf6a139822ef0427fc28f715114" sha1="886db49ee47558c15b168bfb6b0e793a7853b234"/>
+	</game>
+	<game name="Kernal unkn (198x)(Commodore)(DK)[SX-64 2564]">
+		<description>Kernal unkn (198x)(Commodore)(DK)[SX-64 2564]</description>
+		<rom name="Kernal unkn (198x)(Commodore)(DK)[SX-64 2564].rom" size="8192" crc="7858d3d7" md5="3abc938cac3d622e1a7041c15b928707" sha1="097cda60469492a8916c2677b7cce4e12a944bc0"/>
+	</game>
+	<game name="Kernal unkn (198x)(Commodore)(DK)[SX-64]">
+		<description>Kernal unkn (198x)(Commodore)(DK)[SX-64]</description>
+		<rom name="Kernal unkn (198x)(Commodore)(DK)[SX-64].rom" size="8192" crc="f54af737" md5="9326d1b6d845b355c1b5ae0d1b4c00d6" sha1="88a4def035ee3da8e3c0f419a56b3fa6d706d076"/>
+	</game>
+	<game name="Kernal unkn-03 (1985)(Commodore)(SE)[C2D007]">
+		<description>Kernal unkn-03 (1985)(Commodore)(SE)[C2D007]</description>
+		<rom name="Kernal unkn-03 (1985)(Commodore)(SE)[C2D007].rom" size="8192" crc="f10c2c25" md5="27e26dbb267c8ebf1cd47105a6ca71e7" sha1="e4f52d9b36c030eb94524eb49f6f0774c1d02e5e"/>
+	</game>
+</datafile>

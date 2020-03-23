@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64DTV - Demos - [D81]</name>
+		<description>Commodore C64DTV - Demos - [D81] (TOSEC-v2013-03-05)</description>
+		<category>TOSEC</category>
+		<version>2013-03-05</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="22050 HERTZ (2006-11-14)(Tristar &amp; Red Sector Incorporated)">
+		<description>22050 HERTZ (2006-11-14)(Tristar &amp; Red Sector Incorporated)</description>
+		<rom name="22050 HERTZ (2006-11-14)(Tristar &amp; Red Sector Incorporated).d81" size="819200" crc="73812959" md5="c66e13bb388713ee42e902d973fecac3" sha1="356a2dc2b086a9c5bb26ce001bcee79708ed45a6"/>
+	</game>
+	<game name="Bilpartij (2007-11-25)(HeMa!)">
+		<description>Bilpartij (2007-11-25)(HeMa!)</description>
+		<rom name="Bilpartij (2007-11-25)(HeMa!).d81" size="819200" crc="72fbd03b" md5="3c0ffd7a9bc641e3cdcaf77fbe089402" sha1="59ddab3e52d094b4ae9e9f00e043a9b323feaec6"/>
+	</game>
+	<game name="Bilpartij 101% (2007-12-15)(HeMa!)">
+		<description>Bilpartij 101% (2007-12-15)(HeMa!)</description>
+		<rom name="Bilpartij 101% (2007-12-15)(HeMa!).d81" size="819200" crc="5e48b18e" md5="f2930954a3cc83989e411d4c3f456f8a" sha1="7c29e3554ce18e7f1e0cabe199786553602350f7"/>
+	</game>
+	<game name="Ghost in the Machine (2007-05-28)(Tristar &amp; Red Sector Incorporated)">
+		<description>Ghost in the Machine (2007-05-28)(Tristar &amp; Red Sector Incorporated)</description>
+		<rom name="Ghost in the Machine (2007-05-28)(Tristar &amp; Red Sector Incorporated).d81" size="819200" crc="9c718464" md5="bc6049a08c8afb6b95fc5c24953dfc83" sha1="6bcb3ba08908d4e8967a6e089d6f329c5a6de3fe"/>
+	</game>
+	<game name="Newtons Cradle (2006-10-23)(Tristar &amp; Red Sector Incorporated)">
+		<description>Newtons Cradle (2006-10-23)(Tristar &amp; Red Sector Incorporated)</description>
+		<rom name="Newtons Cradle (2006-10-23)(Tristar &amp; Red Sector Incorporated).d81" size="819200" crc="38838fcf" md5="6a3c543790630e8085ede6cc66293888" sha1="d432da2fc7e6105981e780b7f0bd107cbc139884"/>
+	</game>
+	<game name="Spacelane (2006-11-08)(Street Tuff - tlr)">
+		<description>Spacelane (2006-11-08)(Street Tuff - tlr)</description>
+		<rom name="Spacelane (2006-11-08)(Street Tuff - tlr).d81" size="819200" crc="f34b84d2" md5="96cba0aea0900faa4b1f9c3ce6158622" sha1="bf069912b241949eda4df3acd3a2e362b9de2a3c"/>
+	</game>
+</datafile>

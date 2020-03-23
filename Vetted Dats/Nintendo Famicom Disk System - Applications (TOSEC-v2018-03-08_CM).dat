@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo Famicom Disk System - Applications</name>
+		<description>Nintendo Famicom Disk System - Applications (TOSEC-v2018-03-08)</description>
+		<category>TOSEC</category>
+		<version>2018-03-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="FDS Disk Listing Program (2002)(Covell, Chris)(PD)">
+		<description>FDS Disk Listing Program (2002)(Covell, Chris)(PD)</description>
+		<rom name="FDS Disk Listing Program (2002)(Covell, Chris)(PD).fds" size="65500" crc="264de1e0" md5="dea17d91f882877a712f7708733773c4" sha1="893eb2bba729add562d02e8b005dfcf82622e540"/>
+	</game>
+	<game name="I Am A Teacher - Super Mario no Sweater (1986-08-27)(Royal Kougyou)[a][ROY-ISM]">
+		<description>I Am A Teacher - Super Mario no Sweater (1986-08-27)(Royal Kougyou)[a][ROY-ISM]</description>
+		<rom name="I Am A Teacher - Super Mario no Sweater (1986-08-27)(Royal Kougyou)[a][ROY-ISM].fds" size="131000" crc="d5e08b34" md5="ae0e77e9b2a078cc7547eaa1306936e9" sha1="3c9814b78f0dd9d9a193d12158fd74d6c7c63a7b"/>
+	</game>
+	<game name="I Am A Teacher - Super Mario no Sweater (1986-08-27)(Royal Kougyou)[ROY-ISM]">
+		<description>I Am A Teacher - Super Mario no Sweater (1986-08-27)(Royal Kougyou)[ROY-ISM]</description>
+		<rom name="I Am A Teacher - Super Mario no Sweater (1986-08-27)(Royal Kougyou)[ROY-ISM].fds" size="131000" crc="ce7e8631" md5="799b18a61b9a77dc733528dc3cee7569" sha1="0f792b8a6d86d93298ef4964b4b8aee3d8fa5a4d"/>
+	</game>
+	<game name="I Am A Teacher - Teami no Kiso (1986-09-26)(Royal Kougyou)[ROY-ITK]">
+		<description>I Am A Teacher - Teami no Kiso (1986-09-26)(Royal Kougyou)[ROY-ITK]</description>
+		<rom name="I Am A Teacher - Teami no Kiso (1986-09-26)(Royal Kougyou)[ROY-ITK].fds" size="131000" crc="6a14ffaf" md5="28d4321fb3fac801c75bace3da51ea0d" sha1="49ea5ba871497f48bf4ca03f55ce0df39b27b333"/>
+	</game>
+	<game name="Souseiki Fammy - ROM-QD for 256K+64K (19xx)(-)[p]">
+		<description>Souseiki Fammy - ROM-QD for 256K+64K (19xx)(-)[p]</description>
+		<rom name="Souseiki Fammy - ROM-QD for 256K+64K (19xx)(-)[p].fds" size="131000" crc="837a5d11" md5="635355a5d5b4f744b6ba1f6ad01b0041" sha1="072f8a25e5d5309fbcb005a5e79efe43fb033e80"/>
+	</game>
+	<game name="Tarot Uranai (1988-12-23)(Scorpion Soft)[SCO-TAR]">
+		<description>Tarot Uranai (1988-12-23)(Scorpion Soft)[SCO-TAR]</description>
+		<rom name="Tarot Uranai (1988-12-23)(Scorpion Soft)[SCO-TAR].fds" size="131000" crc="e67a149a" md5="bd359fbec09e2542f55962c50329478a" sha1="eea31a2a4af73b41367c2e40b84bbbcedc32f2a1"/>
+	</game>
+	<game name="Tonkachi Editor (19xx)(-)[p]">
+		<description>Tonkachi Editor (19xx)(-)[p]</description>
+		<rom name="Tonkachi Editor (19xx)(-)[p].fds" size="65500" crc="bea8b9a2" md5="e19fcb32ff02b557b55cc39d6a9377e6" sha1="3f8594bdc787944835ce73692d5529ba1230ef7f"/>
+	</game>
+</datafile>

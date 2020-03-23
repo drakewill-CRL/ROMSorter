@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>SNK Neo-Geo Pocket Color - Applications</name>
+		<description>SNK Neo-Geo Pocket Color - Applications (TOSEC-v2011-08-13)</description>
+		<category>TOSEC</category>
+		<version>2011-08-13</version>
+		<author>Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Flavor's NGPC Multi-ROM Menu v1.0 (2001)(Flavor)(PD)">
+		<description>Flavor's NGPC Multi-ROM Menu v1.0 (2001)(Flavor)(PD)</description>
+		<rom name="Flavor's NGPC Multi-ROM Menu v1.0 (2001)(Flavor)(PD).bin" size="1572864" crc="a3a1dc4d" md5="3a4d4af6bb55a47f64ce81200d5fca06" sha1="6867079d78f9ac32ead236c21956ab6e536993fc"/>
+	</game>
+	<game name="Flavor's NGPC Multi-ROM Menu v2.0 (2001)(Flavor)(PD)">
+		<description>Flavor's NGPC Multi-ROM Menu v2.0 (2001)(Flavor)(PD)</description>
+		<rom name="Flavor's NGPC Multi-ROM Menu v2.0 (2001)(Flavor)(PD).bin" size="16384" crc="dce366be" md5="444ba0a13da02552817c4fbffc133c23" sha1="3fc173b88fe00ecea5e2536b4f93a0e0e7f6c1fa"/>
+	</game>
+	<game name="Flavor's NGPC Multi-ROM Menu v2.0 (2001)(Flavor)(PD)[a2]">
+		<description>Flavor's NGPC Multi-ROM Menu v2.0 (2001)(Flavor)(PD)[a2]</description>
+		<rom name="Flavor's NGPC Multi-ROM Menu v2.0 (2001)(Flavor)(PD)[a2].bin" size="16384" crc="0fa6636b" md5="84f94966ffa142bd331eeb73ffcd90d8" sha1="7c1e6b72114f861afeda800e29d3ce7fbd896f0e"/>
+	</game>
+	<game name="Flavor's NGPC Multi-ROM Menu v2.0 (2001)(Flavor)(PD)[a]">
+		<description>Flavor's NGPC Multi-ROM Menu v2.0 (2001)(Flavor)(PD)[a]</description>
+		<rom name="Flavor's NGPC Multi-ROM Menu v2.0 (2001)(Flavor)(PD)[a].bin" size="16384" crc="226c14cb" md5="4d28da3b6c903520599e3060d9a67212" sha1="3de4b4a418f4ffe55037678d62d1c16f5838a560"/>
+	</game>
+	<game name="TPaint v0.7b (2000)(Carvan, Toby)(PD)">
+		<description>TPaint v0.7b (2000)(Carvan, Toby)(PD)</description>
+		<rom name="TPaint v0.7b (2000)(Carvan, Toby)(PD).bin" size="524288" crc="9f3f5261" md5="6de94af216ad802c16ebc9e0d3ed1177" sha1="52ff0cb2e2537042a45a1f5e07f8d6a6aa358392"/>
+	</game>
+</datafile>

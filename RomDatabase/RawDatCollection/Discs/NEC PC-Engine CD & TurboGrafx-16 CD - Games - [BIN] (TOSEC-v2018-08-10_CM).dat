@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>NEC PC-Engine CD &amp; TurboGrafx-16 CD - Games - [BIN]</name>
+		<description>NEC PC-Engine CD &amp; TurboGrafx-16 CD - Games - [BIN] (TOSEC-v2018-08-10)</description>
+		<category>TOSEC-ISO</category>
+		<version>2018-08-10</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Angelus 2 - Holy Night (199x)(Asmik)(JP)(proto)[AKA Angels 2]">
+		<description>Angelus 2 - Holy Night (199x)(Asmik)(JP)(proto)[AKA Angels 2]</description>
+		<rom name="Angelus 2 - Holy Night (199x)(Asmik)(JP)(proto)[AKA Angels 2].bin" size="126852768" crc="269ab588" md5="4436706458b429284b3dde93f83d960b" sha1="68fcc0b2fc635f609579507c19f80168d36cc901"/>
+		<rom name="Angelus 2 - Holy Night (199x)(Asmik)(JP)(proto)[AKA Angels 2].cue" size="379" crc="b8db4d19" md5="19b0fec1c26ea471314ed8a91954a9dd" sha1="2f60d899199a116dd584bf5fd76db42cf0d149fe"/>
+	</game>
+	<game name="Beyond Shadowgate (1993)(Turbo Technologies - Viacom)(US)">
+		<description>Beyond Shadowgate (1993)(Turbo Technologies - Viacom)(US)</description>
+		<rom name="Beyond Shadowgate (1993)(Turbo Technologies - Viacom)(US).bin" size="466469808" crc="7ce6ef62" md5="19f6364f441d48323029c89bb84d1ee5" sha1="d0c44400c9915370c413cb299df5ec5232047527"/>
+		<rom name="Beyond Shadowgate (1993)(Turbo Technologies - Viacom)(US).cue" size="1600" crc="acc022b5" md5="84a849a72050b910ce35e228c17c14a9" sha1="7859d5c94991d8266d2c341de0bbc485681e977b"/>
+	</game>
+	<game name="Bonk 3 - Bonk's Big Adventure CD (1993)(Hudson - Turbo Technologies)(US)">
+		<description>Bonk 3 - Bonk's Big Adventure CD (1993)(Hudson - Turbo Technologies)(US)</description>
+		<rom name="Bonk 3 - Bonk's Big Adventure CD (1993)(Hudson - Turbo Technologies)(US).bin" size="630470064" crc="49198e8a" md5="c1677202433cc78ae1384c76d86dfeea" sha1="fcf03974447a8e93d8b6fc35b866ef86240afd56"/>
+		<rom name="Bonk 3 - Bonk's Big Adventure CD (1993)(Hudson - Turbo Technologies)(US).cue" size="862" crc="4b36e376" md5="aa840547e75dcff8a0a655e286a1fb3b" sha1="9b86db65de703be0afe42ab35f215502e78f4fe8"/>
+	</game>
+	<game name="Fantasy Star Soldier (1992)(Hudson)(US)(proto)">
+		<description>Fantasy Star Soldier (1992)(Hudson)(US)(proto)</description>
+		<rom name="Fantasy Star Soldier (1992)(Hudson)(US)(proto).bin" size="652839936" crc="6fbdce07" md5="3785147c99ef12a7402e54e6dd7fcd74" sha1="15f77b5b1471917ac9e5e1497082f9fdfe0f38aa"/>
+		<rom name="Fantasy Star Soldier (1992)(Hudson)(US)(proto).cue" size="1123" crc="3387340d" md5="9855ca7f4651b1f3aad19709104be612" sha1="25013994805838876d4aac068b34b00f29f97d78"/>
+	</game>
+	<game name="Ginga Fukei Densetsu Sapphire (1995)(Hudson)(JP)">
+		<description>Ginga Fukei Densetsu Sapphire (1995)(Hudson)(JP)</description>
+		<rom name="Ginga Fukei Densetsu Sapphire (1995)(Hudson)(JP).bin" size="406557312" crc="2b32dd6a" md5="596df2b1dcd5ca29771aeb8f03442782" sha1="ced3ff22fa49861276430edf9e964e322b71d480"/>
+		<rom name="Ginga Fukei Densetsu Sapphire (1995)(Hudson)(JP).cue" size="1137" crc="12ac1892" md5="a2cd0b23c9243111463a9d88d6c2d5fb" sha1="4b56aa5cf52602a0dbe234c36d0c7eb73604ddaa"/>
+	</game>
+	<game name="Might and Magic III - Isles of Terra (1993)(Hudson - Turbo Technologies)(US)">
+		<description>Might and Magic III - Isles of Terra (1993)(Hudson - Turbo Technologies)(US)</description>
+		<rom name="Might and Magic III - Isles of Terra (1993)(Hudson - Turbo Technologies)(US).bin" size="301989744" crc="aeab4004" md5="6ef825fec13dda81e390772e7f391127" sha1="53313711fa8535cb3bf85727e3091eab21358594"/>
+		<rom name="Might and Magic III - Isles of Terra (1993)(Hudson - Turbo Technologies)(US).cue" size="825" crc="09c39dcb" md5="cb7ce3c7543dcc18f3b05835321f88d6" sha1="d788860cdd26141c0eeaa30716b9d2994d43f0e6"/>
+	</game>
+</datafile>

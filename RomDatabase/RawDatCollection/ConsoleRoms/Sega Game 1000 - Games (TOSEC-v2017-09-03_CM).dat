@@ -1,0 +1,819 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega Game 1000 - Games</name>
+		<description>Sega Game 1000 - Games (TOSEC-v2017-09-03)</description>
+		<category>TOSEC</category>
+		<version>2017-09-03</version>
+		<author>Cassiel - SkyBaby - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="007 James Bond (1984)(Aaronix)(TW)">
+		<description>007 James Bond (1984)(Aaronix)(TW)</description>
+		<rom name="007 James Bond (1984)(Aaronix)(TW).bin" size="16384" crc="76d6c64d" md5="019ccca4d5ca138719497c510dea926b" sha1="f0b594fa0d371b31bc517afec8e28d4917193f0e"/>
+	</game>
+	<game name="007 James Bond v2.6 (1984)(Tsukuda Original)(JP)[40K]">
+		<description>007 James Bond v2.6 (1984)(Tsukuda Original)(JP)[40K]</description>
+		<rom name="007 James Bond v2.6 (1984)(Tsukuda Original)(JP)[40K].bin" size="40960" crc="a8b5b57f" md5="deaa6e9f7bef3a7af55c6e899967bf79" sha1="c4c947a00155412c4e8b492e19ac229cc61fb401"/>
+	</game>
+	<game name="007 James Bond v2.7 (1984)(Tsukuda Original)(JP)">
+		<description>007 James Bond v2.7 (1984)(Tsukuda Original)(JP)</description>
+		<rom name="007 James Bond v2.7 (1984)(Tsukuda Original)(JP).bin" size="16384" crc="90160849" md5="b2ac0c7755e0d6ba0a737861ee190a53" sha1="88d8c1f56f06ec76be285c29f41322a748f7c4db"/>
+	</game>
+	<game name="Bank Panic (1985)(Sega)">
+		<description>Bank Panic (1985)(Sega)</description>
+		<rom name="Bank Panic (1985)(Sega).bin" size="32768" crc="d8a87095" md5="47cd2d0bbcb879302f83f2f7058f49d4" sha1="8e1dc4d79c5bc45fc6112969ea9a2c68b3c86666"/>
+	</game>
+	<game name="Bi Li Da Dao (1984)(Aaronix)(TW)[AKA Bank Panic]">
+		<description>Bi Li Da Dao (1984)(Aaronix)(TW)[AKA Bank Panic]</description>
+		<rom name="Bi Li Da Dao (1984)(Aaronix)(TW)[AKA Bank Panic].bin" size="32768" crc="bd43fde4" md5="11a5694d472766fed9c6eb1e09a851bf" sha1="18f7ab9fe95aeacceab36297cdf9374dc7e3233f"/>
+	</game>
+	<game name="Black Onyx, The (1987)(Bullet-Proof Software - Sega)(JP)(en-ja)">
+		<description>Black Onyx, The (1987)(Bullet-Proof Software - Sega)(JP)(en-ja)</description>
+		<rom name="Black Onyx, The (1987)(Bullet-Proof Software - Sega)(JP)(en-ja).bin" size="32768" crc="26ecd094" md5="d2b0524a2cf5754c0fa1c900e9ecb06b" sha1="7ecb9ac646346900046a61ff0242d6c90a812eda"/>
+	</game>
+	<game name="Bomb Jack (1985)(Sega - Tehkan)">
+		<description>Bomb Jack (1985)(Sega - Tehkan)</description>
+		<rom name="Bomb Jack (1985)(Sega - Tehkan).bin" size="32768" crc="ea0f2691" md5="0bf5b6959fc1b58d8e37f9647f47a0b3" sha1="7859b9ee5614c595cb57a832ef7a8f1ab473b45b"/>
+	</game>
+	<game name="Bomb Jack (198x)(Boram - Sega - Tehkan)(KR)(en)">
+		<description>Bomb Jack (198x)(Boram - Sega - Tehkan)(KR)(en)</description>
+		<rom name="Bomb Jack (198x)(Boram - Sega - Tehkan)(KR)(en).bin" size="32768" crc="b0c7b310" md5="9cdd1462ddeaef610d15dba01bd926f0" sha1="b6b36a0280344214bdb8d9184244e21e9fb7371f"/>
+	</game>
+	<game name="Bomb Jack (198x)(Boram - Sega - Tehkan)(KR)(en)[a]">
+		<description>Bomb Jack (198x)(Boram - Sega - Tehkan)(KR)(en)[a]</description>
+		<rom name="Bomb Jack (198x)(Boram - Sega - Tehkan)(KR)(en)[a].bin" size="32768" crc="0c69d837" md5="20545caa00c6a8512ccd767e4911575a" sha1="835d0ea1c0cf1723ae95ba60ea0a929780ebaf71"/>
+	</game>
+	<game name="Bomb Jack (198x)(Sega - Tehkan)(TW)(en)">
+		<description>Bomb Jack (198x)(Sega - Tehkan)(TW)(en)</description>
+		<rom name="Bomb Jack (198x)(Sega - Tehkan)(TW)(en).bin" size="32768" crc="deb213fe" md5="a50378abe2636c5c47966b74a14dd127" sha1="ac94ddc1839dcd2ade443da0e8667e643b11f3e7"/>
+	</game>
+	<game name="Bomb Jack (198x)(Sega - Tehkan)(TW)(en)[a]">
+		<description>Bomb Jack (198x)(Sega - Tehkan)(TW)(en)[a]</description>
+		<rom name="Bomb Jack (198x)(Sega - Tehkan)(TW)(en)[a].bin" size="32768" crc="cda3a335" md5="8db486c33c7d688bd5c0e9a81dee2d29" sha1="8d7b786283e5b42e34432ecf1b3744eae00575de"/>
+	</game>
+	<game name="Bomberman Special (1986)(DahJee)(TW)[AKA Baopo Dui]">
+		<description>Bomberman Special (1986)(DahJee)(TW)[AKA Baopo Dui]</description>
+		<rom name="Bomberman Special (1986)(DahJee)(TW)[AKA Baopo Dui].bin" size="49152" crc="69fc1494" md5="25044d56bc18ad8b66a726c2f9d0b26b" sha1="d1d56bcd996df94458f5901dc537a5e30021256b"/>
+	</game>
+	<game name="Borderline (1983)(Sega)">
+		<description>Borderline (1983)(Sega)</description>
+		<rom name="Borderline (1983)(Sega).bin" size="16384" crc="0b4bca74" md5="25c742e43bc9f1329f3f26502fefb10a" sha1="b967340fa91d960f86548f15e6d25a8e7e2c5043"/>
+	</game>
+	<game name="C_So! (1985)(Pony - Sega)(JP)(en)">
+		<description>C_So! (1985)(Pony - Sega)(JP)(en)</description>
+		<rom name="C_So! (1985)(Pony - Sega)(JP)(en).bin" size="32768" crc="be7ed0eb" md5="d87daad7de33105d703b613052ccc2dd" sha1="d45a230b3cbf2d2dcfe7b94691fc7f1a5d747625"/>
+	</game>
+	<game name="C_So! (198x)(Pony - Sega)(TW)(en)">
+		<description>C_So! (198x)(Pony - Sega)(TW)(en)</description>
+		<rom name="C_So! (198x)(Pony - Sega)(TW)(en).bin" size="32768" crc="82c4e3e5" md5="25ac91afc22f7a09ff4543af653cd281" sha1="7101c42289815d7e0d04b523f8f0e833f2f089b3"/>
+	</game>
+	<game name="Cabbage Patch Kids (198x)(-)(TW)(en)[p]">
+		<description>Cabbage Patch Kids (198x)(-)(TW)(en)[p]</description>
+		<rom name="Cabbage Patch Kids (198x)(-)(TW)(en)[p].bin" size="32768" crc="9d91ab78" md5="1c2c5851deb0e9142b5ff19e8dcd8442" sha1="5c011f37f4fcbaa72167293a9917bb6af0e30b55"/>
+	</game>
+	<game name="Castle, The (1986)(ASCII - Sega)(JP)(en)">
+		<description>Castle, The (1986)(ASCII - Sega)(JP)(en)</description>
+		<rom name="Castle, The (1986)(ASCII - Sega)(JP)(en).bin" size="32768" crc="092f29d6" md5="d047c10d6b27cf34ccb66340a089523a" sha1="2681786bffccf58b59410c331865d30a4d027087"/>
+	</game>
+	<game name="Chack'n Pop (1985)(Sega - Taito)">
+		<description>Chack'n Pop (1985)(Sega - Taito)</description>
+		<rom name="Chack'n Pop (1985)(Sega - Taito).bin" size="32768" crc="d37bda49" md5="286ba24b335a1600dfc611a0a9fe7875" sha1="08b5c1135f9678465ece6a886c948ce091637372"/>
+	</game>
+	<game name="Chack'n Pop (198x)(Sega - Taito)(TW)(en)">
+		<description>Chack'n Pop (198x)(Sega - Taito)(TW)(en)</description>
+		<rom name="Chack'n Pop (198x)(Sega - Taito)(TW)(en).bin" size="32768" crc="d81a72ce" md5="64c1a50fb9f0293d7143d53579e2e62f" sha1="75855a3148a57b102c15a436e7e4ffd1ab4808c3"/>
+	</game>
+	<game name="Champion Baseball (1983)(Alpha Denshi - Sega)(JP)[40K]">
+		<description>Champion Baseball (1983)(Alpha Denshi - Sega)(JP)[40K]</description>
+		<rom name="Champion Baseball (1983)(Alpha Denshi - Sega)(JP)[40K].bin" size="40960" crc="c0c16fa7" md5="308e337a863bb9fa952426ef99180aa7" sha1="85e5c2f354b9110e5f7c7dfcc7ab9814598b7956"/>
+	</game>
+	<game name="Champion Baseball (1983)(Sega)">
+		<description>Champion Baseball (1983)(Sega)</description>
+		<rom name="Champion Baseball (1983)(Sega).bin" size="16384" crc="5970a12b" md5="f70d4bcf91d3ad9313f9800f35b49536" sha1="737b9478c4ce6df2afcd36f78011019f5d669226"/>
+	</game>
+	<game name="Champion Baseball (1985)(Aaronix)(TW)[16K][AKA Shijie Bangqiu Sai]">
+		<description>Champion Baseball (1985)(Aaronix)(TW)[16K][AKA Shijie Bangqiu Sai]</description>
+		<rom name="Champion Baseball (1985)(Aaronix)(TW)[16K][AKA Shijie Bangqiu Sai].bin" size="16384" crc="677e6878" md5="ec2d21452b4cbb6b302e9319fdab7e39" sha1="b674ea2ea50f45b20c60d9dec5bf2e88e2b1cba5"/>
+	</game>
+	<game name="Champion Billards (1986)(Sega)">
+		<description>Champion Billards (1986)(Sega)</description>
+		<rom name="Champion Billards (1986)(Sega).bin" size="32768" crc="62b21e31" md5="71c32b1cf1e85d217421068ac8ccc655" sha1="f517e6a6123643a5e7e5fff6b413139afa412d8e"/>
+	</game>
+	<game name="Champion Billards (198x)(Sega)(TW)(en)">
+		<description>Champion Billards (198x)(Sega)(TW)(en)</description>
+		<rom name="Champion Billards (198x)(Sega)(TW)(en).bin" size="32768" crc="56d85bd4" md5="256a6d4bd6dbbe7aa99de513eac6ba2f" sha1="37dc5e7b3ebc3a3b0480b16d27bc394d57aac697"/>
+	</game>
+	<game name="Champion Boxing (1984)(Aaronix)(TW)[cart][AKA Quan Wang Zheng Ba Zhan]">
+		<description>Champion Boxing (1984)(Aaronix)(TW)[cart][AKA Quan Wang Zheng Ba Zhan]</description>
+		<rom name="Champion Boxing (1984)(Aaronix)(TW)[cart][AKA Quan Wang Zheng Ba Zhan].bin" size="32768" crc="15d2ce33" md5="3e346c6137cab263643e42411f64a74d" sha1="e55396be42c6cfbf47ff43d3e8faee1dc8fad807"/>
+	</game>
+	<game name="Champion Boxing (1984)(Sega)(JP)(en)[Card]">
+		<description>Champion Boxing (1984)(Sega)(JP)(en)[Card]</description>
+		<rom name="Champion Boxing (1984)(Sega)(JP)(en)[Card].bin" size="32768" crc="f8b2ac1d" md5="7527098abb9df1db29ba9f495b06998a" sha1="7a7ace132090f11bac4f4aec58bcbf6a2a1c6168"/>
+	</game>
+	<game name="Champion Boxing (1984)(Sega)(JP)(en)[Cartridge]">
+		<description>Champion Boxing (1984)(Sega)(JP)(en)[Cartridge]</description>
+		<rom name="Champion Boxing (1984)(Sega)(JP)(en)[Cartridge].bin" size="32768" crc="26f947d1" md5="3f54756fd73c3fbe33b56d7954d12f31" sha1="8cd55ee1efcab917087b80629ca18b4629edc15d"/>
+	</game>
+	<game name="Champion Golf (1983)(Logitec - Sega)[Card]">
+		<description>Champion Golf (1983)(Logitec - Sega)[Card]</description>
+		<rom name="Champion Golf (1983)(Logitec - Sega)[Card].bin" size="32768" crc="5a904122" md5="3c01bb2a4414989378c252f45a4e5050" sha1="f58f14581919c431ac85da72fd1a39bbe1da5e66"/>
+	</game>
+	<game name="Champion Golf (1983)(Logitec - Sega)[Cartridge]">
+		<description>Champion Golf (1983)(Logitec - Sega)[Cartridge]</description>
+		<rom name="Champion Golf (1983)(Logitec - Sega)[Cartridge].bin" size="32768" crc="868419b5" md5="1d87490269964239b64244fcabd18fe1" sha1="05deb000f24b7d8625c6e9332dcc91416ed3258f"/>
+	</game>
+	<game name="Champion Golf (198x)(Samsung)(KR)[cart]">
+		<description>Champion Golf (198x)(Samsung)(KR)[cart]</description>
+		<rom name="Champion Golf (198x)(Samsung)(KR)[cart].bin" size="32768" crc="35af42ad" md5="6a865bf09faab7fabacb95eb70e3fc9d" sha1="40ac48ef0ba23653d1763cd04774b00abc49f9a4"/>
+	</game>
+	<game name="Champion Ice Hockey (1985)(Sega)(JP)(en)">
+		<description>Champion Ice Hockey (1985)(Sega)(JP)(en)</description>
+		<rom name="Champion Ice Hockey (1985)(Sega)(JP)(en).bin" size="32768" crc="bdc05652" md5="b3af58c60e62bb85522ddc29096cef60" sha1="ff6440fc7e5c5faa0b9868d5cb5110d1d8635284"/>
+	</game>
+	<game name="Champion Ice Hockey (198x)(Samsung)(KR)">
+		<description>Champion Ice Hockey (198x)(Samsung)(KR)</description>
+		<rom name="Champion Ice Hockey (198x)(Samsung)(KR).bin" size="32768" crc="ec0b862c" md5="ac3dd2d12e2bdfc7804cb2ef2c213162" sha1="3efbef93040fffbecb8e1d00b8470ac92f002c9b"/>
+	</game>
+	<game name="Champion Ice Hockey (198x)(Sega)(TW)(en)">
+		<description>Champion Ice Hockey (198x)(Sega)(TW)(en)</description>
+		<rom name="Champion Ice Hockey (198x)(Sega)(TW)(en).bin" size="32768" crc="c6e5192f" md5="1b4badba14b7cca71f159f1ce9fba29e" sha1="a316058604eb47b547986fec8ef18c6017694746"/>
+	</game>
+	<game name="Champion Kendou (1986)(Sega)(JP)(en-ja)">
+		<description>Champion Kendou (1986)(Sega)(JP)(en-ja)</description>
+		<rom name="Champion Kendou (1986)(Sega)(JP)(en-ja).bin" size="32768" crc="10cdebce" md5="ed6e4e8e081b56be488f57abcb51a7e5" sha1="8565fc398d0206100da785d10e008f7f6a3c225e"/>
+	</game>
+	<game name="Champion Kendou (198x)(Sega)(TW)(en-ja)">
+		<description>Champion Kendou (198x)(Sega)(TW)(en-ja)</description>
+		<rom name="Champion Kendou (198x)(Sega)(TW)(en-ja).bin" size="32768" crc="a5f61363" md5="c19ccd8e05e8230d91a8d2c8430d23bc" sha1="621cf09649e9244714fa01652b066cd1a477279e"/>
+	</game>
+	<game name="Champion Pro Wrestling (1985)(Sega)">
+		<description>Champion Pro Wrestling (1985)(Sega)</description>
+		<rom name="Champion Pro Wrestling (1985)(Sega).bin" size="32768" crc="372fe6bc" md5="da9a4589303370e8a751c16b2cbfa628" sha1="3bdb1e9d8b1a04d8fcc242c47be790c427a75403"/>
+	</game>
+	<game name="Champion Soccer (1984)(Aaronix)(TW)[AKA Zuqiu Wang]">
+		<description>Champion Soccer (1984)(Aaronix)(TW)[AKA Zuqiu Wang]</description>
+		<rom name="Champion Soccer (1984)(Aaronix)(TW)[AKA Zuqiu Wang].bin" size="16384" crc="269c1aee" md5="f29b59c3588e3b952e1ad79c1e1dc8a0" sha1="ad2a72dff1959e3e148c48962ab382897bc06627"/>
+	</game>
+	<game name="Champion Soccer (1984)(Sega)(JP)(en)">
+		<description>Champion Soccer (1984)(Sega)(JP)(en)</description>
+		<rom name="Champion Soccer (1984)(Sega)(JP)(en).bin" size="16384" crc="6f39719e" md5="810064687e1614b6a7fb985b82806d31" sha1="0b3cf82f020ac9249ea52766ffbad41515d0b8b4"/>
+	</game>
+	<game name="Champion Tennis (1983)(Sega)">
+		<description>Champion Tennis (1983)(Sega)</description>
+		<rom name="Champion Tennis (1983)(Sega).bin" size="8192" crc="7c663316" md5="79e8f456fae5d3719731e960c9b4c612" sha1="8b90300dcabc2cf8d58ee4800dce3084b739886b"/>
+	</game>
+	<game name="Championship Lode Runner (1985)(Sega)">
+		<description>Championship Lode Runner (1985)(Sega)</description>
+		<rom name="Championship Lode Runner (1985)(Sega).bin" size="32768" crc="11db4b1d" md5="f49d9ea611ccb9289994774406f20d06" sha1="a0dad095489da2bdf8ec03f1acc83f809db2371f"/>
+	</game>
+	<game name="Choplifter (1985)(Sega)">
+		<description>Choplifter (1985)(Sega)</description>
+		<rom name="Choplifter (1985)(Sega).bin" size="32768" crc="732b7180" md5="ee557c7811f03c44965a56b80801a3b9" sha1="e0828517fdc9a5537fda39dbc49942494eb3196d"/>
+	</game>
+	<game name="Choplifter (1985)(Sega)(KR)">
+		<description>Choplifter (1985)(Sega)(KR)</description>
+		<rom name="Choplifter (1985)(Sega)(KR).bin" size="32768" crc="954d8f26" md5="1ef268192df49e92d1f074e1bc3200dd" sha1="ef746a242ffd4d624ea378b6d9f20a6bc206f859"/>
+	</game>
+	<game name="Choplifter (198x)(Sega)(TW)(en)">
+		<description>Choplifter (198x)(Sega)(TW)(en)</description>
+		<rom name="Choplifter (198x)(Sega)(TW)(en).bin" size="32768" crc="746a8d86" md5="ab4105fd66e149e2bfbd5e5566e6aa76" sha1="af6c40febe02fe2b424ea99e666cf3f451eb5a1f"/>
+	</game>
+	<game name="Choplifter (198x)(Sega)(TW)(en)[a2]">
+		<description>Choplifter (198x)(Sega)(TW)(en)[a2]</description>
+		<rom name="Choplifter (198x)(Sega)(TW)(en)[a2].bin" size="32768" crc="825e1aae" md5="3427ae928bce91b314e62be92dbf8446" sha1="daf36c050b0e507d2f2470050299a648716c9158"/>
+	</game>
+	<game name="Choplifter (198x)(Sega)(TW)(en)[a]">
+		<description>Choplifter (198x)(Sega)(TW)(en)[a]</description>
+		<rom name="Choplifter (198x)(Sega)(TW)(en)[a].bin" size="32768" crc="7c603987" md5="dac1f7d97039682793378fdba7ee2d8e" sha1="61d1afe62b2be0da26d8a185828387063dd4b06e"/>
+	</game>
+	<game name="Choplifter v613 (1985)(Sega)(JP)(en)(beta)">
+		<description>Choplifter v613 (1985)(Sega)(JP)(en)(beta)</description>
+		<rom name="Choplifter v613 (1985)(Sega)(JP)(en)(beta).bin" size="32768" crc="ff435469" md5="0500fe7f7cbda7a9ec19be1094aa67dd" sha1="da92459e64ed6cc0ce93b03a60fad049e13a505f"/>
+	</game>
+	<game name="Circus Charlie (198x)(-)(KR)(en)[p]">
+		<description>Circus Charlie (198x)(-)(KR)(en)[p]</description>
+		<rom name="Circus Charlie (198x)(-)(KR)(en)[p].bin" size="32768" crc="7f7f009d" md5="05940e2d44f81e163dab4a5a6f29645e" sha1="34899ad454a56826d53028bef8fed7f5d2c6a78a"/>
+	</game>
+	<game name="Circus Charlie (198x)(-)(TW)(en)[p]">
+		<description>Circus Charlie (198x)(-)(TW)(en)[p]</description>
+		<rom name="Circus Charlie (198x)(-)(TW)(en)[p].bin" size="32768" crc="3404fce4" md5="46b1f9c6693ed7d1d0c5a6d72872398a" sha1="67ec5859d293d9236d21b71e63580b6a53b90244"/>
+	</game>
+	<game name="Congo Bongo (1983)(Sega)">
+		<description>Congo Bongo (1983)(Sega)</description>
+		<rom name="Congo Bongo (1983)(Sega).bin" size="32768" crc="dc4383cc" md5="74fc3c383b59ca0dc12bc299edf0bb22" sha1="96dd55a63bae0abc666fe317d50612116100d7b1"/>
+	</game>
+	<game name="Congo Bongo (1983)(Sega)[a]">
+		<description>Congo Bongo (1983)(Sega)[a]</description>
+		<rom name="Congo Bongo (1983)(Sega)[a].bin" size="32768" crc="b09e2e6d" md5="b9ae730672ade71c6fce5527c2b1b42e" sha1="01b65ecfb5307bff0d8222f266b9d641b6a203db"/>
+	</game>
+	<game name="Congo Bongo v0 (1983)(Sega)(JP)">
+		<description>Congo Bongo v0 (1983)(Sega)(JP)</description>
+		<rom name="Congo Bongo v0 (1983)(Sega)(JP).bin" size="24576" crc="5eb48a20" md5="35aa60be1827402f86065e226888fb44" sha1="9e153c7822a36230e85e9ac0ddc53d6fee810089"/>
+	</game>
+	<game name="Congo Bongo v1 (1983)(Sega)(EU-JP)">
+		<description>Congo Bongo v1 (1983)(Sega)(EU-JP)</description>
+		<rom name="Congo Bongo v1 (1983)(Sega)(EU-JP).bin" size="24576" crc="5a24c7cf" md5="5f4d3c629e37e83794233b3cffc4cc0e" sha1="47aba6a295e5695db4c3aaa1dea8ad8ac961b5f9"/>
+	</game>
+	<game name="Congo Bongo v1 (1983)(Sega)(EU-JP)[40K]">
+		<description>Congo Bongo v1 (1983)(Sega)(EU-JP)[40K]</description>
+		<rom name="Congo Bongo v1 (1983)(Sega)(EU-JP)[40K].bin" size="40960" crc="f1506565" md5="a0620fb61aa7d023ca52c5eee559832f" sha1="4ea22b9a655c4cfe13500beb97e84da451752148"/>
+	</game>
+	<game name="Congo Bongo v1 (19xx)(-)(TW)[AKA Da Jin Gang]">
+		<description>Congo Bongo v1 (19xx)(-)(TW)[AKA Da Jin Gang]</description>
+		<rom name="Congo Bongo v1 (19xx)(-)(TW)[AKA Da Jin Gang].bin" size="24576" crc="f7eb94c5" md5="499fe90988a60a6325465606695e7754" sha1="3fe3272374135e8b5e849bdcd12812a90bb9901c"/>
+	</game>
+	<game name="Da Cike (1986)(DahJee)(TW)[AKA Yie Ar Kung-Fu II]">
+		<description>Da Cike (1986)(DahJee)(TW)[AKA Yie Ar Kung-Fu II]</description>
+		<rom name="Da Cike (1986)(DahJee)(TW)[AKA Yie Ar Kung-Fu II].bin" size="49152" crc="fc87463c" md5="c1f51f5dbfb859b1204a812d9c08ffd3" sha1="44fb2dca3774f859f0ae0ad4d809a67f760cf9ae"/>
+	</game>
+	<game name="Die Dui Die (1985)(Aaronix)(TW)[AKA Elevator Action]">
+		<description>Die Dui Die (1985)(Aaronix)(TW)[AKA Elevator Action]</description>
+		<rom name="Die Dui Die (1985)(Aaronix)(TW)[AKA Elevator Action].bin" size="32768" crc="6846e36d" md5="3787826f22b244b48933f177306706b0" sha1="0c419fdd769371f97c66030c51b21c786b89a105"/>
+	</game>
+	<game name="Doki Doki Penguin Land (1985)(Sega)(JP)(en-ja)">
+		<description>Doki Doki Penguin Land (1985)(Sega)(JP)(en-ja)</description>
+		<rom name="Doki Doki Penguin Land (1985)(Sega)(JP)(en-ja).bin" size="32768" crc="346556b9" md5="79f15598828e697e75c65130262d8d94" sha1="f49c43b1f9a0b19ef5f30d9bf2b222af7aeb9fbf"/>
+	</game>
+	<game name="Doki Doki Penguin Land (1985)(Sega)(JP)(en-ja)[b]">
+		<description>Doki Doki Penguin Land (1985)(Sega)(JP)(en-ja)[b]</description>
+		<rom name="Doki Doki Penguin Land (1985)(Sega)(JP)(en-ja)[b].bin" size="32768" crc="ac7f95b4" md5="1c879b9a70ff317e9ac704a93425e4da" sha1="c1a39ba36afb89ba3c6734d931205826918f2acd"/>
+	</game>
+	<game name="Doki Doki Penguin Land (19xx)(Chia-Ling Corp - Sega)(TW)(en-zh)">
+		<description>Doki Doki Penguin Land (19xx)(Chia-Ling Corp - Sega)(TW)(en-zh)</description>
+		<rom name="Doki Doki Penguin Land (19xx)(Chia-Ling Corp - Sega)(TW)(en-zh).bin" size="32768" crc="fdc095bc" md5="c9412b2aa1de5070734297573dba7132" sha1="176e2d2648b20e6fac823021697138803ef38b27"/>
+	</game>
+	<game name="Dragon Wang (1985)(Sega)(JP)(en)">
+		<description>Dragon Wang (1985)(Sega)(JP)(en)</description>
+		<rom name="Dragon Wang (1985)(Sega)(JP)(en).bin" size="32768" crc="99c3de21" md5="64d3cc8117292f6d5af8e1aad95bcb90" sha1="43807c9f634b8cf85aa5c3b2459885eedbb99955"/>
+	</game>
+	<game name="Dragon Wang (1985)(Sega)(JP)(en)[a]">
+		<description>Dragon Wang (1985)(Sega)(JP)(en)[a]</description>
+		<rom name="Dragon Wang (1985)(Sega)(JP)(en)[a].bin" size="32768" crc="60f30138" md5="0528eed7e7ae46ec8298098f1a22d18f" sha1="78f26d0a1d4f08a6378700b81ab38fc7c0f6bdc0"/>
+	</game>
+	<game name="Drol (1985)(Aaronix)(TW)[AKA Jiunan Xiao Yingxiong]">
+		<description>Drol (1985)(Aaronix)(TW)[AKA Jiunan Xiao Yingxiong]</description>
+		<rom name="Drol (1985)(Aaronix)(TW)[AKA Jiunan Xiao Yingxiong].bin" size="32768" crc="b7fc033d" md5="0423892eefd3d09a7102651f8980cc39" sha1="8bb117df0a86508cf3fc139bd070c0aa8c6487dd"/>
+	</game>
+	<game name="Drol (1985)(Sega)">
+		<description>Drol (1985)(Sega)</description>
+		<rom name="Drol (1985)(Sega).bin" size="32768" crc="288940cb" md5="8eb2ab42d2bc3f3568e85cba2b46a251" sha1="607b2b9a946eaaebb938800bd3b1df7d9342388c"/>
+	</game>
+	<game name="Drol (198x)(Samsung)(KR)">
+		<description>Drol (198x)(Samsung)(KR)</description>
+		<rom name="Drol (198x)(Samsung)(KR).bin" size="32768" crc="1d7c53bb" md5="0facbc1668dedbcb579d08df4e232699" sha1="37baf9aac77436b4939c80d6a575e23a7d5cd76d"/>
+	</game>
+	<game name="Du Du Che (1986)(DahJee)(TW)[AKA Rally-X]">
+		<description>Du Du Che (1986)(DahJee)(TW)[AKA Rally-X]</description>
+		<rom name="Du Du Che (1986)(DahJee)(TW)[AKA Rally-X].bin" size="32768" crc="306d5f78" md5="3071f939aaa0911fc0907aae5daaa160" sha1="21770691191b62bafec9099bbe0f9942f5480f83"/>
+	</game>
+	<game name="Elevator Action (1985)(Sega - Taito)(JP)(en)">
+		<description>Elevator Action (1985)(Sega - Taito)(JP)(en)</description>
+		<rom name="Elevator Action (1985)(Sega - Taito)(JP)(en).bin" size="32768" crc="5af8f69d" md5="23c751fe6bb8bd4f8c0cd9b0d39adecd" sha1="f72b3e44309e7c2e447c46928ce795453102f717"/>
+	</game>
+	<game name="Exerion (1983)(Aaronix)(TW)[AKA Diqiu Baowei Zhan]">
+		<description>Exerion (1983)(Aaronix)(TW)[AKA Diqiu Baowei Zhan]</description>
+		<rom name="Exerion (1983)(Aaronix)(TW)[AKA Diqiu Baowei Zhan].bin" size="16384" crc="b5c84a32" md5="c8519ef63183e8398dde0bd3e7e2641e" sha1="75555c1a05a14401e4136bffb9fb52f88a17ecfc"/>
+	</game>
+	<game name="Exerion (1983)(Sega)">
+		<description>Exerion (1983)(Sega)</description>
+		<rom name="Exerion (1983)(Sega).bin" size="16384" crc="a2c45b61" md5="7f0ae039dd072d825ebfd2d3bf02a2a0" sha1="839e19487b96d02222ff397b047cbc6a0fbc08ff"/>
+	</game>
+	<game name="Exerion (198x)(Samsung)(KR)">
+		<description>Exerion (198x)(Samsung)(KR)</description>
+		<rom name="Exerion (198x)(Samsung)(KR).bin" size="32768" crc="fc628d0d" md5="eb3f8f679f32e6bcc4489280df7be7f3" sha1="3f569c9d95bc83896bc44dba7c469356961d659c"/>
+	</game>
+	<game name="Fa Gui Qibing (1985)(Aaronix)(TW)[AKA Pitfall II][chinese logo]">
+		<description>Fa Gui Qibing (1985)(Aaronix)(TW)[AKA Pitfall II][chinese logo]</description>
+		<rom name="Fa Gui Qibing (1985)(Aaronix)(TW)[AKA Pitfall II][chinese logo].bin" size="32768" crc="476a079b" md5="030363fabd71be3c077168918fcbb51d" sha1="38c25d7730863877fdae5491724a3aed9c6b04d5"/>
+	</game>
+	<game name="Fa Gui Qibing (1985)(Aaronix)(TW)[AKA Pitfall II][english logo]">
+		<description>Fa Gui Qibing (1985)(Aaronix)(TW)[AKA Pitfall II][english logo]</description>
+		<rom name="Fa Gui Qibing (1985)(Aaronix)(TW)[AKA Pitfall II][english logo].bin" size="32768" crc="4e93bc8e" md5="7f2026d17c336942756ffb77ad9942c5" sha1="c98a5bdb2f97e2e85d0a131d58e311544adb416e"/>
+	</game>
+	<game name="Flicky Rev 0 (1984)(Sega)(JP)(en)">
+		<description>Flicky Rev 0 (1984)(Sega)(JP)(en)</description>
+		<rom name="Flicky Rev 0 (1984)(Sega)(JP)(en).bin" size="32768" crc="bd24d27b" md5="b52e308e1c0005bc1dba2ba900ad44d0" sha1="39a91b5ad6b139ca5d8ac60b78520210e84944bd"/>
+	</game>
+	<game name="Flicky Rev 0 (1984)(Sega)(JP)(en)[b]">
+		<description>Flicky Rev 0 (1984)(Sega)(JP)(en)[b]</description>
+		<rom name="Flicky Rev 0 (1984)(Sega)(JP)(en)[b].bin" size="32768" crc="d4c8c6d7" md5="94e154dd79de3f79762a51d03ec49d38" sha1="6c1a77ebec46ec730bbf255dbbd3b9a7e1e00555"/>
+	</game>
+	<game name="Flicky Rev 1 (1984)(Sega)(JP)(en)">
+		<description>Flicky Rev 1 (1984)(Sega)(JP)(en)</description>
+		<rom name="Flicky Rev 1 (1984)(Sega)(JP)(en).bin" size="32768" crc="26d2862c" md5="0bb6d2a43b340f56366edabd7e21fed4" sha1="51947fc0ae2bc3442b0fee2cccf2344b7a94a167"/>
+	</game>
+	<game name="Flicky v1 (1984)(Aaronix)(TW)[AKA E Mao Zhua Xiao Ji]">
+		<description>Flicky v1 (1984)(Aaronix)(TW)[AKA E Mao Zhua Xiao Ji]</description>
+		<rom name="Flicky v1 (1984)(Aaronix)(TW)[AKA E Mao Zhua Xiao Ji].bin" size="32768" crc="cd0666a7" md5="5d4c4c65e668196a3d0eadcd260a0bf6" sha1="a04ce8c70eddfac0adbf9489c0abbaaae613037c"/>
+	</game>
+	<game name="Flipper (1984)(Aaronix)(TW)[AKA Sega Flipper][AKA Pili Dan]">
+		<description>Flipper (1984)(Aaronix)(TW)[AKA Sega Flipper][AKA Pili Dan]</description>
+		<rom name="Flipper (1984)(Aaronix)(TW)[AKA Sega Flipper][AKA Pili Dan].bin" size="16384" crc="042c36ba" md5="3cfec6aa7bfdf81b40b7ee6d630f5c03" sha1="b7eb254a014772a83829e1991dcd32396e8dd9cc"/>
+	</game>
+	<game name="Galaga (1983)(Aaronix)(TW)[AKA Sega-Galaga][AKA Mifeng Er Dai]">
+		<description>Galaga (1983)(Aaronix)(TW)[AKA Sega-Galaga][AKA Mifeng Er Dai]</description>
+		<rom name="Galaga (1983)(Aaronix)(TW)[AKA Sega-Galaga][AKA Mifeng Er Dai].bin" size="16384" crc="845bbb22" md5="7e31ffe1446d6b792d0debf87bcc3f75" sha1="6c049daa08af7b1f08b98d6998ba52d7cf3cc4de"/>
+	</game>
+	<game name="Girl's Garden (1984)(Aaronix)(TW)[AKA Meiren Hui Yingxiong]">
+		<description>Girl's Garden (1984)(Aaronix)(TW)[AKA Meiren Hui Yingxiong]</description>
+		<rom name="Girl's Garden (1984)(Aaronix)(TW)[AKA Meiren Hui Yingxiong].bin" size="32768" crc="b9635ac4" md5="83065f5045611f3d6d7b67382357dcc6" sha1="94089be091af476c5628225e0262396faa5394f1"/>
+	</game>
+	<game name="Girl's Garden (1984)(Sega)(JP)(en)">
+		<description>Girl's Garden (1984)(Sega)(JP)(en)</description>
+		<rom name="Girl's Garden (1984)(Sega)(JP)(en).bin" size="32768" crc="1898f274" md5="ac95c0655360f667e3ad705e2eb7367a" sha1="0e08786587fb76909b3f9806ba1f5d57ea17728c"/>
+	</game>
+	<game name="Golgo 13 (1984)(Saito - Sega)">
+		<description>Golgo 13 (1984)(Saito - Sega)</description>
+		<rom name="Golgo 13 (1984)(Saito - Sega).bin" size="32768" crc="0d159ed0" md5="cb25a12e86c729f6a51ba3dea91c1547" sha1="bf27536c6ae71b333da8b362479da0a838d0715e"/>
+	</game>
+	<game name="GP World Rev 0 (1985)(Sega)(JP)(en)">
+		<description>GP World Rev 0 (1985)(Sega)(JP)(en)</description>
+		<rom name="GP World Rev 0 (1985)(Sega)(JP)(en).bin" size="32768" crc="942adf84" md5="4d9cc3764321b668d1fc238e19794312" sha1="40ae9c24c61188c6f02eba1b83109c5c4d86e64b"/>
+	</game>
+	<game name="GP World Rev 1 (1985)(Sega)(JP)(en)">
+		<description>GP World Rev 1 (1985)(Sega)(JP)(en)</description>
+		<rom name="GP World Rev 1 (1985)(Sega)(JP)(en).bin" size="32768" crc="191ffe0a" md5="19707d73ce1a664cba608e9c72e334c2" sha1="37aa4812d37445c9e86bc4e02f056fb50d19dc6a"/>
+	</game>
+	<game name="GP World v0 (1985)(Aaronix)(TW)[AKA Fengkuang Da Saiche]">
+		<description>GP World v0 (1985)(Aaronix)(TW)[AKA Fengkuang Da Saiche]</description>
+		<rom name="GP World v0 (1985)(Aaronix)(TW)[AKA Fengkuang Da Saiche].bin" size="32768" crc="f19f7548" md5="5a533ddf9c0c72c57376ea151ece1c03" sha1="11773e7eb2dca727ea293b5aa50ed8094df29f41"/>
+	</game>
+	<game name="Gulkave (1986)(Sega)(JP)(en)">
+		<description>Gulkave (1986)(Sega)(JP)(en)</description>
+		<rom name="Gulkave (1986)(Sega)(JP)(en).bin" size="32768" crc="15a754a3" md5="43c23a134aec3ab424405780ff729d54" sha1="3fb197d16b25bc128a2866c4b78b0535ab8dc412"/>
+	</game>
+	<game name="Gulkave (1989)(Samsung - Sega)(KR)(en)">
+		<description>Gulkave (1989)(Samsung - Sega)(KR)(en)</description>
+		<rom name="Gulkave (1989)(Samsung - Sega)(KR)(en).bin" size="32768" crc="ddcb708b" md5="33902566e0070ef7c53f2afa97ec9968" sha1="deabfe970bb450e51909c181430e7de2bd1b1a9e"/>
+	</game>
+	<game name="Guzzler (1983)(Aaronix)(TW)[AKA Shui Jingling]">
+		<description>Guzzler (1983)(Aaronix)(TW)[AKA Shui Jingling]</description>
+		<rom name="Guzzler (1983)(Aaronix)(TW)[AKA Shui Jingling].bin" size="8192" crc="eb808158" md5="36548be02803aa49fe0e918626e240c1" sha1="5c51f9846fb8220ab7dd6db5d6911cf4e985bfe9"/>
+	</game>
+	<game name="Guzzler (1983)(Tehkan - Tsukuda Original)(JP)">
+		<description>Guzzler (1983)(Tehkan - Tsukuda Original)(JP)</description>
+		<rom name="Guzzler (1983)(Tehkan - Tsukuda Original)(JP).bin" size="8192" crc="61fa9ea0" md5="f3f1042745e96e29bfdf920d031b8cd5" sha1="d42b2c5f1da4e0fbd29fcea91bfc092ae46da4b8"/>
+	</game>
+	<game name="H.E.R.O. (1985)(Aaronix)(TW)[english logo]">
+		<description>H.E.R.O. (1985)(Aaronix)(TW)[english logo]</description>
+		<rom name="H.E.R.O. (1985)(Aaronix)(TW)[english logo].bin" size="32768" crc="96f09c6d" md5="89be9de818fa13dca0ececd6575af06a" sha1="82b530feef7c011361e21b62d2c359c626ab8a9c"/>
+	</game>
+	<game name="H.E.R.O. (1985)(Activision - Sega)(JP)(en)">
+		<description>H.E.R.O. (1985)(Activision - Sega)(JP)(en)</description>
+		<rom name="H.E.R.O. (1985)(Activision - Sega)(JP)(en).bin" size="32768" crc="4587de6e" md5="d10f38c614113cb34bbf4a19b487e1fb" sha1="19acb69b7b64da5083349d8bc40a47beacc88c41"/>
+	</game>
+	<game name="H.E.R.O. (198x)(Activision - Sega)(TW)(en)">
+		<description>H.E.R.O. (198x)(Activision - Sega)(TW)(en)</description>
+		<rom name="H.E.R.O. (198x)(Activision - Sega)(TW)(en).bin" size="32768" crc="83958998" md5="6136e2e6dda483cb311c72843c2ee5cd" sha1="3b2d3dfe948a734c3d18b504c89c61b7b1f3d81b"/>
+	</game>
+	<game name="Hang-On II (1985)(Sega)">
+		<description>Hang-On II (1985)(Sega)</description>
+		<rom name="Hang-On II (1985)(Sega).bin" size="32768" crc="9be3c6bd" md5="314c865decbe6f578d9bfa23f27a08e6" sha1="e636e889d4e81c024ee7dae8943c2b8d9d4a5414"/>
+	</game>
+	<game name="Hang-On II (198x)(Sega)(TW)(en)">
+		<description>Hang-On II (198x)(Sega)(TW)(en)</description>
+		<rom name="Hang-On II (198x)(Sega)(TW)(en).bin" size="32768" crc="e98a111e" md5="21b077d68d38be01837d534b0c1be2e9" sha1="154669944d899faa1db1cea3fecce9eb162eb3fd"/>
+	</game>
+	<game name="Hang-On II (198x)(Sega)(TW)(en)[a]">
+		<description>Hang-On II (198x)(Sega)(TW)(en)[a]</description>
+		<rom name="Hang-On II (198x)(Sega)(TW)(en)[a].bin" size="32768" crc="cabd451b" md5="ebe4433a6250abd81be69f15b41c566c" sha1="1e25fc699baa715710f3f6375dbcb107bfc044f5"/>
+	</game>
+	<game name="Hei Bai Qi (1985)(Aaronix)(TW)[AKA Othello]">
+		<description>Hei Bai Qi (1985)(Aaronix)(TW)[AKA Othello]</description>
+		<rom name="Hei Bai Qi (1985)(Aaronix)(TW)[AKA Othello].bin" size="32768" crc="1d1a0ca3" md5="aa741b3264ee312c291b2c8ab0d73a04" sha1="242c29989149b94ff27d59a94f067d0f1c84b4a7"/>
+	</game>
+	<game name="Home Mahjong Rev 0 (1984)(Sega)(JP)">
+		<description>Home Mahjong Rev 0 (1984)(Sega)(JP)</description>
+		<rom name="Home Mahjong Rev 0 (1984)(Sega)(JP).bin" size="49152" crc="c9d1ae7d" md5="d7322428a4fb49ac593f80f30d3c7bd3" sha1="0202c0d86c4b793c58af021edfb3c077ae3169a5"/>
+	</game>
+	<game name="Home Mahjong Rev 1 (1984)(Sega)(JP)">
+		<description>Home Mahjong Rev 1 (1984)(Sega)(JP)</description>
+		<rom name="Home Mahjong Rev 1 (1984)(Sega)(JP).bin" size="49152" crc="e7e0f0e3" md5="33c4b489f61086c10e9f713519ddc7bc" sha1="ac38a279f24e132acf6ac9fd27b53d1b939d2e7e"/>
+	</game>
+	<game name="Hongzha Dui (1986)(DahJee)(TW)[AKA Bomberman Special]">
+		<description>Hongzha Dui (1986)(DahJee)(TW)[AKA Bomberman Special]</description>
+		<rom name="Hongzha Dui (1986)(DahJee)(TW)[AKA Bomberman Special].bin" size="49152" crc="ce5648c3" md5="cd87c1a8cd8bc137673a7fb057e2142e" sha1="455838571dd8287d491431e03269b0ccd292c8b8"/>
+	</game>
+	<game name="Huo Hu Li (1985)(Aaronix)(TW)[AKA Zoom 909]">
+		<description>Huo Hu Li (1985)(Aaronix)(TW)[AKA Zoom 909]</description>
+		<rom name="Huo Hu Li (1985)(Aaronix)(TW)[AKA Zoom 909].bin" size="32768" crc="9943fc2b" md5="d99925f7b3fa1961906f169b61f1a492" sha1="7a998a0da19471f7e3e5bd82a9fbaf82a966ee40"/>
+	</game>
+	<game name="Huojian Che (1986)(Jumbo)(TW)[AKA Road Fighter]">
+		<description>Huojian Che (1986)(Jumbo)(TW)[AKA Road Fighter]</description>
+		<rom name="Huojian Che (1986)(Jumbo)(TW)[AKA Road Fighter].bin" size="32768" crc="29e047cc" md5="e872bbe06fcee32e53fb9e11b61fe762" sha1="4f1a139974e3db27af5973bc9572ed68acd6ea68"/>
+	</game>
+	<game name="Hustle Chumy (1984)(Aaronix)(TW)[AKA Wanpi Shu]">
+		<description>Hustle Chumy (1984)(Aaronix)(TW)[AKA Wanpi Shu]</description>
+		<rom name="Hustle Chumy (1984)(Aaronix)(TW)[AKA Wanpi Shu].bin" size="16384" crc="c4ed1fd9" md5="c06fa11763d119620f6a908516c1e8ad" sha1="e7800d107ef0a7773eea2d482b5db9d866ba74f9"/>
+	</game>
+	<game name="Hustle Chumy (1984)(Compile - Sega)">
+		<description>Hustle Chumy (1984)(Compile - Sega)</description>
+		<rom name="Hustle Chumy (1984)(Compile - Sega).bin" size="16384" crc="a627d440" md5="8be690d357a99abd26ebb5378e9c0153" sha1="1f1bad94b2d869c10a2373ca40d4076d227cc302"/>
+	</game>
+	<game name="Hyper Sports (1985)(Aaronix)(TW)[AKA Aoyun Dasai]">
+		<description>Hyper Sports (1985)(Aaronix)(TW)[AKA Aoyun Dasai]</description>
+		<rom name="Hyper Sports (1985)(Aaronix)(TW)[AKA Aoyun Dasai].bin" size="32768" crc="87619ac2" md5="f72f3def79ffd82fe2224f4732b2b994" sha1="bf4218aebc07aa7179cc52853a55436db985b81e"/>
+	</game>
+	<game name="Hyper Sports (1985)(Konami - Sega)">
+		<description>Hyper Sports (1985)(Konami - Sega)</description>
+		<rom name="Hyper Sports (1985)(Konami - Sega).bin" size="32768" crc="ba09a0fd" md5="d8e6d89d520c91a9ea219291b55284bb" sha1="8a13ee297f861f436b9529a5e2193cb697baa56f"/>
+	</game>
+	<game name="Hyper Sports (198x)(Samsung)(KR)">
+		<description>Hyper Sports (198x)(Samsung)(KR)</description>
+		<rom name="Hyper Sports (198x)(Samsung)(KR).bin" size="32768" crc="3157ef9c" md5="c40aecc0fc766bb26c76b6855bbe4fad" sha1="43d67e8c386012d0694f09a2fe31a46d32d39f17"/>
+	</game>
+	<game name="Hyper Sports 2 (198x)(-)(TW)(en)[p]">
+		<description>Hyper Sports 2 (198x)(-)(TW)(en)[p]</description>
+		<rom name="Hyper Sports 2 (198x)(-)(TW)(en)[p].bin" size="32768" crc="b0234e12" md5="e329ee584187d4b156e26faf3ef1a960" sha1="33072bafc25b83577886e91a75d0b6439a80374c"/>
+	</game>
+	<game name="I.Q. (1985)(-)(KR)[AKA Soukoban]">
+		<description>I.Q. (1985)(-)(KR)[AKA Soukoban]</description>
+		<rom name="I.Q. (1985)(-)(KR)[AKA Soukoban].bin" size="32768" crc="89bafec5" md5="9334ef849d22ae49f1d816ea068bf055" sha1="3a8505aabd165bd9de51369f588ae8c867b7671f"/>
+	</game>
+	<game name="Jing Wu Men (1985)(Aaronix)(TW)[english title][AKA Dragon Wang]">
+		<description>Jing Wu Men (1985)(Aaronix)(TW)[english title][AKA Dragon Wang]</description>
+		<rom name="Jing Wu Men (1985)(Aaronix)(TW)[english title][AKA Dragon Wang].bin" size="32768" crc="6f94e5c0" md5="0dc1cde8eea986eee30c038f18a996d7" sha1="b2a3c886677ba3926cb56a1a781e7926852499c7"/>
+	</game>
+	<game name="Jing wu men (19xx)(Chia-Ling Corp - Sega)(TW)(en-zh)">
+		<description>Jing wu men (19xx)(Chia-Ling Corp - Sega)(TW)(en-zh)</description>
+		<rom name="Jing wu men (19xx)(Chia-Ling Corp - Sega)(TW)(en-zh).bin" size="32768" crc="7c7d4397" md5="ea0c028dabd39961eb2db8f2f17c107d" sha1="57ade81eaa044d69621741d8c5f5c5e8650f6c2b"/>
+	</game>
+	<game name="Jinzita (198x)(Aaronix)(TW)[AKA King's Valley]">
+		<description>Jinzita (198x)(Aaronix)(TW)[AKA King's Valley]</description>
+		<rom name="Jinzita (198x)(Aaronix)(TW)[AKA King's Valley].bin" size="32768" crc="223397a1" md5="ff28e684eb3952ae3f7cf3e3d1c507ef" sha1="922d23895c12707b2fc382ea5cb769c5cb9b5755"/>
+	</game>
+	<game name="Lode Runner (1984)(Aaronix)(TW)[AKA Xun Bao Ji]">
+		<description>Lode Runner (1984)(Aaronix)(TW)[AKA Xun Bao Ji]</description>
+		<rom name="Lode Runner (1984)(Aaronix)(TW)[AKA Xun Bao Ji].bin" size="32768" crc="d953bdb7" md5="2bea9ee88e177a13d7961017dd4f6120" sha1="fb226a489e5a47eb0182a067fa1031ec944ab455"/>
+	</game>
+	<game name="Lode Runner (1984)(Sega)">
+		<description>Lode Runner (1984)(Sega)</description>
+		<rom name="Lode Runner (1984)(Sega).bin" size="32768" crc="00ed3970" md5="4b4f02eb3cf7d5f9dcd1311d72e6d742" sha1="f14f216edfda7dfd113f5cb32375a27be8a6409d"/>
+	</game>
+	<game name="Lode Runner (19xx)(Sega)(TW)(en)">
+		<description>Lode Runner (19xx)(Sega)(TW)(en)</description>
+		<rom name="Lode Runner (19xx)(Sega)(TW)(en).bin" size="32768" crc="e68bc7d6" md5="5146c83814c930be839f123dcd3b591d" sha1="23f22b407df4ae8d7931051eb229efd862bea5f7"/>
+	</game>
+	<game name="Lode Runner II (198x)(Sega)(TW)(en)">
+		<description>Lode Runner II (198x)(Sega)(TW)(en)</description>
+		<rom name="Lode Runner II (198x)(Sega)(TW)(en).bin" size="32768" crc="ec95ebcb" md5="9b1cc0bdbdf3aeffc655a965dec4aa94" sha1="321e2c97645dd9af3e52c66b5db06304250d1bf2"/>
+	</game>
+	<game name="Magical Kid Wiz (198x)(Aaronix)(TW)[AKA Mofa Shi]">
+		<description>Magical Kid Wiz (198x)(Aaronix)(TW)[AKA Mofa Shi]</description>
+		<rom name="Magical Kid Wiz (198x)(Aaronix)(TW)[AKA Mofa Shi].bin" size="49152" crc="ffc4ee3f" md5="c12474e0a2556adb2478bc4d99faba51" sha1="fd24b501046cf811b04386129be0362a1eabf6b3"/>
+	</game>
+	<game name="Magical Tree (198x)(-)(TW)(en)[p]">
+		<description>Magical Tree (198x)(-)(TW)(en)[p]</description>
+		<rom name="Magical Tree (198x)(-)(TW)(en)[p].bin" size="32768" crc="b3a8291a" md5="014f702585a68399afe55ea63ba0f7de" sha1="2aecbc9429060ee3adfc865369f67f53408a5881"/>
+	</game>
+	<game name="Mahjong (1983)(Aaronix)(TW)[AKA Shuangren Maque]">
+		<description>Mahjong (1983)(Aaronix)(TW)[AKA Shuangren Maque]</description>
+		<rom name="Mahjong (1983)(Aaronix)(TW)[AKA Shuangren Maque].bin" size="24576" crc="bc823a89" md5="bb8da563cb6a38611b736c4973b56e1e" sha1="bd5130d36fc0ad008abfc524bb0c37290e7d0189"/>
+	</game>
+	<game name="Mo Tian Da Lou (1985)(Aaronix)(TW)[AKA Rock n' Bolt]">
+		<description>Mo Tian Da Lou (1985)(Aaronix)(TW)[AKA Rock n' Bolt]</description>
+		<rom name="Mo Tian Da Lou (1985)(Aaronix)(TW)[AKA Rock n' Bolt].bin" size="32768" crc="4eacb981" md5="f05b48934a7d29ab2719273cbdc45b28" sha1="18a6b34d071feaad416704d5e6fd7680374dd669"/>
+	</game>
+	<game name="Monaco GP (1983)(Sega)">
+		<description>Monaco GP (1983)(Sega)</description>
+		<rom name="Monaco GP (1983)(Sega).bin" size="40960" crc="8572d73a" md5="943bca1e51476b646f19c17a9d9ab42c" sha1="bea768b27c09bec805f0c70545d2f1435e3a3ddf"/>
+	</game>
+	<game name="Monaco GP (1983)(Sega)[b]">
+		<description>Monaco GP (1983)(Sega)[b]</description>
+		<rom name="Monaco GP (1983)(Sega)[b].bin" size="40960" crc="72542786" md5="236e3f1d2342bac175d68ecdb75234a2" sha1="6476bc0fc1608dd69a1ae62617ea4719bc7eaa50"/>
+	</game>
+	<game name="Monaco GP Rev 1 (1983)(Sega)(JP)(en)">
+		<description>Monaco GP Rev 1 (1983)(Sega)(JP)(en)</description>
+		<rom name="Monaco GP Rev 1 (1983)(Sega)(JP)(en).bin" size="32768" crc="da2d57f3" md5="74121fd6f1024ee3d3f5d1db29956d7d" sha1="4ca8182b8f7c798d7222295978e2556ff115b848"/>
+	</game>
+	<game name="Monaco GP Rev 2 (1983)(Sega)(JP)(en)">
+		<description>Monaco GP Rev 2 (1983)(Sega)(JP)(en)</description>
+		<rom name="Monaco GP Rev 2 (1983)(Sega)(JP)(en).bin" size="32768" crc="02e5d66a" md5="cda3731948a50bb396b380f7fc82ec12" sha1="694228631d09ed06c8850fd164c6d99b12ff173d"/>
+	</game>
+	<game name="Monaco GP v1 (1983)(Aaronix)(TW)[AKA Monage Saiche]">
+		<description>Monaco GP v1 (1983)(Aaronix)(TW)[AKA Monage Saiche]</description>
+		<rom name="Monaco GP v1 (1983)(Aaronix)(TW)[AKA Monage Saiche].bin" size="32768" crc="01cda679" md5="d7ab64f92c3d146565e4f9d771fec7c9" sha1="464ec3c9acfefd0ad244a43033985e88798905f9"/>
+	</game>
+	<game name="Mowan Migong - The Castle (1986)(DahJee)(TW)[MSX port]">
+		<description>Mowan Migong - The Castle (1986)(DahJee)(TW)[MSX port]</description>
+		<rom name="Mowan Migong - The Castle (1986)(DahJee)(TW)[MSX port].bin" size="49152" crc="2e366ccf" md5="a85ec287bb4151875446c245750fb8c0" sha1="5a81d5103487695cabd811aabd9e71f48b9e7996"/>
+	</game>
+	<game name="Moyu Chuanqi (1986)(Jumbo)(TW)[AKA Knightmare]">
+		<description>Moyu Chuanqi (1986)(Jumbo)(TW)[AKA Knightmare]</description>
+		<rom name="Moyu Chuanqi (1986)(Jumbo)(TW)[AKA Knightmare].bin" size="49152" crc="281d2888" md5="e0321cd713ec1b48ff88f7df13e3ce28" sha1="babdb6b109b20e81c28cd892c2042723e9cbff49"/>
+	</game>
+	<game name="N-Sub (1983)(Aaronix)(TW)[AKA Qianshui Dazhan]">
+		<description>N-Sub (1983)(Aaronix)(TW)[AKA Qianshui Dazhan]</description>
+		<rom name="N-Sub (1983)(Aaronix)(TW)[AKA Qianshui Dazhan].bin" size="16384" crc="3e371769" md5="1a800abac4c55948528d2a62771c10a9" sha1="55a36c77cbdf87530611feccf2f1807bdd2ac0ec"/>
+	</game>
+	<game name="N-Sub (1983)(Sega)">
+		<description>N-Sub (1983)(Sega)</description>
+		<rom name="N-Sub (1983)(Sega).bin" size="16384" crc="652bbd1e" md5="56c559d0d82a3e6fb2e87230d39f32f4" sha1="2640e267441bf25463a19273c46f3edb5e459496"/>
+	</game>
+	<game name="N-Sub (1983)(Sega)(JP)(en)">
+		<description>N-Sub (1983)(Sega)(JP)(en)</description>
+		<rom name="N-Sub (1983)(Sega)(JP)(en).bin" size="40960" crc="b377d6e1" md5="cfced1ba39adee6a75dc830ed9c12f73" sha1="aa3eae849553a5a176762466b101f312b8b968e4"/>
+	</game>
+	<game name="N-Sub (1988)(Sega)(EU)(en)">
+		<description>N-Sub (1988)(Sega)(EU)(en)</description>
+		<rom name="N-Sub (1988)(Sega)(EU)(en).bin" size="16384" crc="09196fc5" md5="414196527aa0979e6516f5c55d1bb8c7" sha1="32a263110434288d3720e2370241d1e93b3f07a9"/>
+	</game>
+	<game name="Ninja Princess (1986)(Sega)(JP)(en-ja)">
+		<description>Ninja Princess (1986)(Sega)(JP)(en-ja)</description>
+		<rom name="Ninja Princess (1986)(Sega)(JP)(en-ja).bin" size="32768" crc="3b912408" md5="28d83150c298bcdae6aec51cc2c6975a" sha1="f142bb823cebc4e31488e7a9a94644af24186d99"/>
+	</game>
+	<game name="Ninja Princess (198x)(Sega)(TW)(en-ja)">
+		<description>Ninja Princess (198x)(Sega)(TW)(en-ja)</description>
+		<rom name="Ninja Princess (198x)(Sega)(TW)(en-ja).bin" size="32768" crc="464d144b" md5="96c1dc438a7b4269ee0d5414a6f13dc2" sha1="dac76d52c9d88f7b6bf71fc897669d7e6440d143"/>
+	</game>
+	<game name="Okamoto Ayako no Match Play Golf (19xx)(Chia-Ling Corp - Tsukuda Original)(TW)(ja)">
+		<description>Okamoto Ayako no Match Play Golf (19xx)(Chia-Ling Corp - Tsukuda Original)(TW)(ja)</description>
+		<rom name="Okamoto Ayako no Match Play Golf (19xx)(Chia-Ling Corp - Tsukuda Original)(TW)(ja).bin" size="32768" crc="b60492d5" md5="009a804fb1d28775519312ffdf3c8d70" sha1="543046650e07b10dbd2dca6f20bcafb9dd6dda77"/>
+	</game>
+	<game name="Omikuji (1998)(Maechiko)(ja)(PD)">
+		<description>Omikuji (1998)(Maechiko)(ja)(PD)</description>
+		<rom name="Omikuji (1998)(Maechiko)(ja)(PD).bin" size="16384" crc="56abc493" md5="411ccb871af9c3a5c20323c9f6842d74" sha1="0d6c27af48bd4fb4d1d4ebead0db3da6b4f727f6"/>
+	</game>
+	<game name="Orguss (1984)(Sega)">
+		<description>Orguss (1984)(Sega)</description>
+		<rom name="Orguss (1984)(Sega).bin" size="32768" crc="f4f78b76" md5="0f45fa8e9b985fd5c6545645462b9400" sha1="c50b133dac95718e3a92a7ed45b6c7e83927abb0"/>
+	</game>
+	<game name="Othello (1985)(Sega)(JP)(en)">
+		<description>Othello (1985)(Sega)(JP)(en)</description>
+		<rom name="Othello (1985)(Sega)(JP)(en).bin" size="32768" crc="af4f14bc" md5="3f429704761d34d7793e7123a183d7f6" sha1="d0cd594ddb321f707ddba8a044fa3e9b906e720a"/>
+	</game>
+	<game name="Pacar (1983)(Aaronix)(TW)[AKA Mi Hun Che]">
+		<description>Pacar (1983)(Aaronix)(TW)[AKA Mi Hun Che]</description>
+		<rom name="Pacar (1983)(Aaronix)(TW)[AKA Mi Hun Che].bin" size="16384" crc="dd6817a0" md5="722da0d7454c99ba46d432ee3d003464" sha1="0833be2743608983012cab6e3bdd6fd56453114e"/>
+	</game>
+	<game name="Pacar (1983)(Sega)">
+		<description>Pacar (1983)(Sega)</description>
+		<rom name="Pacar (1983)(Sega).bin" size="16384" crc="30c52e5e" md5="8f46800e6fc7d5a40716045f6d739932" sha1="91fd213308b83bb1bda1dfc7e971e576caace291"/>
+	</game>
+	<game name="Pacar (1983)(Sega)(JP)[40K]">
+		<description>Pacar (1983)(Sega)(JP)[40K]</description>
+		<rom name="Pacar (1983)(Sega)(JP)[40K].bin" size="40960" crc="19949375" md5="c672bc2409443cc5bca35abd041d11e0" sha1="5e89857a374cbf3efa32efb62d26973d46a856ae"/>
+	</game>
+	<game name="Pachinko (1983)(Sega)(JP)(en)">
+		<description>Pachinko (1983)(Sega)(JP)(en)</description>
+		<rom name="Pachinko (1983)(Sega)(JP)(en).bin" size="40960" crc="326587e1" md5="37f5e516d9fbce05052204b67379a6da" sha1="aeaa15155e7d4275880c35c866c45626daa4dab9"/>
+	</game>
+	<game name="Pachinko II (1984)(Aaronix)(TW)[AKA Bin Guo Youxi]">
+		<description>Pachinko II (1984)(Aaronix)(TW)[AKA Bin Guo Youxi]</description>
+		<rom name="Pachinko II (1984)(Aaronix)(TW)[AKA Bin Guo Youxi].bin" size="16384" crc="6ebe81bf" md5="a3409283bf8c808a15095cc005a74975" sha1="ca0c66b4d48d6ade38e7f9093eea74ad090ecdb7"/>
+	</game>
+	<game name="Pachinko II (1984)(Sega)">
+		<description>Pachinko II (1984)(Sega)</description>
+		<rom name="Pachinko II (1984)(Sega).bin" size="16384" crc="fd7cb50a" md5="eadae13ff73047a47f354e258c12619e" sha1="1dbc4babbbb377a1ff59a11e550a9b1b5e742b02"/>
+	</game>
+	<game name="Ping Pong (1985)(Aaronix)(TW)[AKA Pingpang Qiu]">
+		<description>Ping Pong (1985)(Aaronix)(TW)[AKA Pingpang Qiu]</description>
+		<rom name="Ping Pong (1985)(Aaronix)(TW)[AKA Pingpang Qiu].bin" size="32768" crc="4d972a9e" md5="97f8b798ad727563b1ee42cf41697fed" sha1="cba791acd9e0f46bfa6132645bf44027e100c68a"/>
+	</game>
+	<game name="Pitfall II - The Lost Caverns (1985)(Activision - Sega)">
+		<description>Pitfall II - The Lost Caverns (1985)(Activision - Sega)</description>
+		<rom name="Pitfall II - The Lost Caverns (1985)(Activision - Sega).bin" size="32768" crc="37fca2eb" md5="c34260b61c6a45bbdd074df3f3e72c46" sha1="356db6edcd337a06063957bd8cb27edeb7160f6c"/>
+	</game>
+	<game name="Pitfall II - The Lost Caverns (1985)(Activision - Sega)[a]">
+		<description>Pitfall II - The Lost Caverns (1985)(Activision - Sega)[a]</description>
+		<rom name="Pitfall II - The Lost Caverns (1985)(Activision - Sega)[a].bin" size="32768" crc="3db74761" md5="38ae610eb6266d4db8bc6d3dcb8fcd4a" sha1="a14453650b6b2ef85e03b9637f08f691878acff4"/>
+	</game>
+	<game name="Pop Flamer (1983)(Aaronix)(TW)[AKA Jingling Shu]">
+		<description>Pop Flamer (1983)(Aaronix)(TW)[AKA Jingling Shu]</description>
+		<rom name="Pop Flamer (1983)(Aaronix)(TW)[AKA Jingling Shu].bin" size="16384" crc="ab1da8a6" md5="e5082018ff7cbac17db003f159ab2dfb" sha1="25d5cdc7fdd5cba97abbd9d32f61a39aacceb2c0"/>
+	</game>
+	<game name="Pop Flamer (1983)(Jaleco - Sega)">
+		<description>Pop Flamer (1983)(Jaleco - Sega)</description>
+		<rom name="Pop Flamer (1983)(Jaleco - Sega).bin" size="16384" crc="db6404ba" md5="7f841aa0c225662e26ca7a8df20b2eb8" sha1="84b59a9f855ef5e953c43495d7a15dd78386d0a8"/>
+	</game>
+	<game name="Rally-X (1986)(DahJee)(TW)[AKA Wuzei Che]">
+		<description>Rally-X (1986)(DahJee)(TW)[AKA Wuzei Che]</description>
+		<rom name="Rally-X (1986)(DahJee)(TW)[AKA Wuzei Che].bin" size="32768" crc="aaac12cf" md5="42f2844dcc4b3979b7f538ef9f52e4a5" sha1="0c1957a5faae5254c69f3331e79d87499dd7cf48"/>
+	</game>
+	<game name="Road Fighter (1986)(Jumbo)(TW)[AKA Huo Fenghuang]">
+		<description>Road Fighter (1986)(Jumbo)(TW)[AKA Huo Fenghuang]</description>
+		<rom name="Road Fighter (1986)(Jumbo)(TW)[AKA Huo Fenghuang].bin" size="32768" crc="d2edd329" md5="be975a2510125ff4b545bb162826ef26" sha1="2755f74019dc94559fd0c2248e2ecb7f48879b90"/>
+	</game>
+	<game name="Rock n' Bolt (1985)(Aaronix)(TW)[english logo]">
+		<description>Rock n' Bolt (1985)(Aaronix)(TW)[english logo]</description>
+		<rom name="Rock n' Bolt (1985)(Aaronix)(TW)[english logo].bin" size="32768" crc="09a82af7" md5="0cbbd9fafc39cccefd8d0b8fca3b3d33" sha1="e3be08bda8459fc60836abe332e9864e7c596202"/>
+	</game>
+	<game name="Rock n' Bolt (1985)(Activision - Sega)">
+		<description>Rock n' Bolt (1985)(Activision - Sega)</description>
+		<rom name="Rock n' Bolt (1985)(Activision - Sega).bin" size="32768" crc="0ffdd03d" md5="108ffe4ba5c2c8c5e0459cb7f0cfac0e" sha1="d5e8e7ca7623521d4291ae5ab2740816fc674389"/>
+	</game>
+	<game name="S_Sniper (1998)(Maechiko)(ja)(PD)">
+		<description>S_Sniper (1998)(Maechiko)(ja)(PD)</description>
+		<rom name="S_Sniper (1998)(Maechiko)(ja)(PD).bin" size="16384" crc="b1cbec5a" md5="df556281f7936e023d9a0f89c3b2c908" sha1="9561d2970afe8eae5d46e0ff8abd09f49bf5ba7d"/>
+	</game>
+	<game name="Safari Hunting (1983)(Aaronix)(TW)[AKA Conglin Lixian]">
+		<description>Safari Hunting (1983)(Aaronix)(TW)[AKA Conglin Lixian]</description>
+		<rom name="Safari Hunting (1983)(Aaronix)(TW)[AKA Conglin Lixian].bin" size="16384" crc="6dc51c01" md5="48185bc0b8ed743c6a44f2759219b955" sha1="e3aa37f4c9f213a673e369f62561f3f80513e4f3"/>
+	</game>
+	<game name="Safari Hunting (1983)(Sega)">
+		<description>Safari Hunting (1983)(Sega)</description>
+		<rom name="Safari Hunting (1983)(Sega).bin" size="16384" crc="49e9718b" md5="f77826f62d943c4a24f7fb9c3bb4a5f9" sha1="902dbabbfa98d71299adda0638b87152188e1cf1"/>
+	</game>
+	<game name="Safari Race (1984)(Aaronix)(TW)[AKA Feizhou Da Saiche]">
+		<description>Safari Race (1984)(Aaronix)(TW)[AKA Feizhou Da Saiche]</description>
+		<rom name="Safari Race (1984)(Aaronix)(TW)[AKA Feizhou Da Saiche].bin" size="32768" crc="b2724428" md5="eac09096175cbb2fb49468d475fdec88" sha1="06fe09074bef542b590761ba585911d0998af646"/>
+	</game>
+	<game name="Safari Race (1984)(Sega)(JP)">
+		<description>Safari Race (1984)(Sega)(JP)</description>
+		<rom name="Safari Race (1984)(Sega)(JP).bin" size="32768" crc="08707fe3" md5="8384956e456a91ca59f9c5e72f1cb1c4" sha1="ecbba909f2227786e7ba3360d2dd158f6513cfd4"/>
+	</game>
+	<game name="Safari Race (1988)(Sega)">
+		<description>Safari Race (1988)(Sega)</description>
+		<rom name="Safari Race (1988)(Sega).bin" size="32768" crc="619dd066" md5="cac358543f85bc060918638bb594fac9" sha1="1d2ca62c894fc8aab97605e65078e834bbbe3d8b"/>
+	</game>
+	<game name="San-nin Mahjong (1984)(Aaronix)(TW)[AKA San Ren Maque]">
+		<description>San-nin Mahjong (1984)(Aaronix)(TW)[AKA San Ren Maque]</description>
+		<rom name="San-nin Mahjong (1984)(Aaronix)(TW)[AKA San Ren Maque].bin" size="16384" crc="6fd17655" md5="fe641daee46a4f55aa79dcb23114971c" sha1="245e9adf0fdb33849f1e6ef872c1b204cbed5754"/>
+	</game>
+	<game name="Sega Flipper (1983)(Sega)">
+		<description>Sega Flipper (1983)(Sega)</description>
+		<rom name="Sega Flipper (1983)(Sega).bin" size="16384" crc="8efc77bc" md5="3f2acc9de65c8496c3d8470ef12dc210" sha1="e0605e23d80b8b975743d3417f548b28810e0ba3"/>
+	</game>
+	<game name="Sega Flipper (1983)(Sega)(JP)(en)">
+		<description>Sega Flipper (1983)(Sega)(JP)(en)</description>
+		<rom name="Sega Flipper (1983)(Sega)(JP)(en).bin" size="40960" crc="fd76ad99" md5="49c7c14879a437e60730b62a7550cdf6" sha1="d713dcbd79a3db8f1ef2cfb27da31a286fff16d1"/>
+	</game>
+	<game name="Sega Galaga (1983)(Namco - Sega)">
+		<description>Sega Galaga (1983)(Namco - Sega)</description>
+		<rom name="Sega Galaga (1983)(Namco - Sega).bin" size="16384" crc="981e36c1" md5="e2619cf7c307ac1916c534519f6043d9" sha1="32e776b3a17f7c0df0fa9eb49a3e451cfe702bfd"/>
+	</game>
+	<game name="Sega Galaga (1983)(Namco - Sega)(JP)[40K]">
+		<description>Sega Galaga (1983)(Namco - Sega)(JP)[40K]</description>
+		<rom name="Sega Galaga (1983)(Namco - Sega)(JP)[40K].bin" size="40960" crc="31283003" md5="7f7e1d564448fdce96d239ad9ebf37d6" sha1="9b093878f92ce8b918beaa44dcc8a41282f9f267"/>
+	</game>
+	<game name="Sega Mahjong (1983)(Sega)(JP)(en-ja)">
+		<description>Sega Mahjong (1983)(Sega)(JP)(en-ja)</description>
+		<rom name="Sega Mahjong (1983)(Sega)(JP)(en-ja).bin" size="24576" crc="1c137cab" md5="1dbb5c85962c2110ffe35ec536f96329" sha1="81015cea7e5ff08bd7d20953a702d47efdb8c11c"/>
+	</game>
+	<game name="Sega Mahjong (1983)(Sega)(JP)(en-ja)[a]">
+		<description>Sega Mahjong (1983)(Sega)(JP)(en-ja)[a]</description>
+		<rom name="Sega Mahjong (1983)(Sega)(JP)(en-ja)[a].bin" size="24576" crc="6d909857" md5="d9da8a32bd3b18881dfa2b469c85944e" sha1="2e6810c0c0c02c0fdda6fcaeae835cf94ab9bcba"/>
+	</game>
+	<game name="Serizawa Hachidan no Tsumeshogi (1983)(Sega)(JP)">
+		<description>Serizawa Hachidan no Tsumeshogi (1983)(Sega)(JP)</description>
+		<rom name="Serizawa Hachidan no Tsumeshogi (1983)(Sega)(JP).bin" size="16384" crc="545fc9bb" md5="63713feb1c8b8da77bd2e8cf03fe0a4c" sha1="c2d3882874a5a9b79a5dc9fdeb7af750bc52ca21"/>
+	</game>
+	<game name="Shinnyuushain Tooru Kun (1985)(Sega)(JP)(en-ja)">
+		<description>Shinnyuushain Tooru Kun (1985)(Sega)(JP)(en-ja)</description>
+		<rom name="Shinnyuushain Tooru Kun (1985)(Sega)(JP)(en-ja).bin" size="32768" crc="5a917e06" md5="a8094de8e2c72e9490e421f66ba2777b" sha1="83784e8248e2367546115382dac157ca8e6fe3ab"/>
+	</game>
+	<game name="Shinnyushain Tooru Kun (19xx)(-)(TW)[AKA Xin Guo Si Fu]">
+		<description>Shinnyushain Tooru Kun (19xx)(-)(TW)[AKA Xin Guo Si Fu]</description>
+		<rom name="Shinnyushain Tooru Kun (19xx)(-)(TW)[AKA Xin Guo Si Fu].bin" size="32768" crc="33fc5cf6" md5="ff6c07ce43d99b4ef732b5df7e73a5a7" sha1="e47e56be455d46c6cc5334895e54069a85da6c3b"/>
+	</game>
+	<game name="Shuangxiang Pao (1986)(Jumbo)(TW)[AKA TwinBee]">
+		<description>Shuangxiang Pao (1986)(Jumbo)(TW)[AKA TwinBee]</description>
+		<rom name="Shuangxiang Pao (1986)(Jumbo)(TW)[AKA TwinBee].bin" size="49152" crc="c550b4f0" md5="8c2c0d7e8415ae7b0c577cf947e89e78" sha1="a8c30043c145e63f79a3265dde167529f0e08d49"/>
+	</game>
+	<game name="Sindbad Mystery (1983)(Aaronix)(TW)[AKA Tianfang Ye Tan]">
+		<description>Sindbad Mystery (1983)(Aaronix)(TW)[AKA Tianfang Ye Tan]</description>
+		<rom name="Sindbad Mystery (1983)(Aaronix)(TW)[AKA Tianfang Ye Tan].bin" size="32768" crc="945f7847" md5="db6b5ff4d8c8cef6d0c9f2d004f56bf6" sha1="9a4e44ccd3cabd092aae59fcabda8f047609a675"/>
+	</game>
+	<game name="Sindbad Mystery (1983)(Sega)">
+		<description>Sindbad Mystery (1983)(Sega)</description>
+		<rom name="Sindbad Mystery (1983)(Sega).bin" size="32768" crc="01932df9" md5="7b0f2be3588337df59959ababbefe505" sha1="90bb8b8337866339f32b3fd48b4d25d78d682b55"/>
+	</game>
+	<game name="Sindbad Mystery (1983)(Sega)[b]">
+		<description>Sindbad Mystery (1983)(Sega)[b]</description>
+		<rom name="Sindbad Mystery (1983)(Sega)[b].bin" size="32768" crc="54d5bec3" md5="d94dddfbe1dd8fcee7b21ac5381726eb" sha1="a3b3f96685815d6ab0751e6442c7349d5b91d60c"/>
+	</game>
+	<game name="Soukoban (1985)(-)(KR)[AKA Changgo Jigi]">
+		<description>Soukoban (1985)(-)(KR)[AKA Changgo Jigi]</description>
+		<rom name="Soukoban (1985)(-)(KR)[AKA Changgo Jigi].bin" size="32768" crc="148ea752" md5="cbd4d466882ba81d5eb63e849797fd4c" sha1="a9d77c6dee31956bb382abd14245ff581369578d"/>
+	</game>
+	<game name="Soukoban (1985)(Sega - Thinking Rabbit)(JP)(en-ja)">
+		<description>Soukoban (1985)(Sega - Thinking Rabbit)(JP)(en-ja)</description>
+		<rom name="Soukoban (1985)(Sega - Thinking Rabbit)(JP)(en-ja).bin" size="32768" crc="922c5468" md5="6cae3b6286041e742020aeb3cd2bdf52" sha1="94e79b4a8b4a5fb77c837ea0a1e28bc5993d36af"/>
+	</game>
+	<game name="Soukoban (198x)(Sega - Thinking Rabbit)(TW)(en-ja)">
+		<description>Soukoban (198x)(Sega - Thinking Rabbit)(TW)(en-ja)</description>
+		<rom name="Soukoban (198x)(Sega - Thinking Rabbit)(TW)(en-ja).bin" size="32768" crc="a2c3fc97" md5="417368339f45d0ede7df03c9a6f96b27" sha1="4216770efbaf49f832ff7a78fbc9cd2c8300f52c"/>
+	</game>
+	<game name="Space Armor v1.0 (1984)(Tsukuda Original)(JP)[40K]">
+		<description>Space Armor v1.0 (1984)(Tsukuda Original)(JP)[40K]</description>
+		<rom name="Space Armor v1.0 (1984)(Tsukuda Original)(JP)[40K].bin" size="40960" crc="d23b0e3e" md5="49587defd7dd2e6fd87e01e7f48d132f" sha1="bbffe62f8f851e3c4a62981437facb518054a8ab"/>
+	</game>
+	<game name="Space Invaders (1985)(Aaronix)(TW)[AKA Taikong Qinlue Zhan]">
+		<description>Space Invaders (1985)(Aaronix)(TW)[AKA Taikong Qinlue Zhan]</description>
+		<rom name="Space Invaders (1985)(Aaronix)(TW)[AKA Taikong Qinlue Zhan].bin" size="16384" crc="0760ea93" md5="47359548b666e9e1b6287df5688e2fd2" sha1="5a7904697ea8a360066ea8403793227021735969"/>
+	</game>
+	<game name="Space Invaders (1985)(Sega - Taito)">
+		<description>Space Invaders (1985)(Sega - Taito)</description>
+		<rom name="Space Invaders (1985)(Sega - Taito).bin" size="16384" crc="6ad5cb3d" md5="87a97b049ec01b1803b93f06d0407586" sha1="a4e4b0c2967e39c4931fba8bc87428f296e461c5"/>
+	</game>
+	<game name="Space Slalom (1983)(Sega)(JP)(en)">
+		<description>Space Slalom (1983)(Sega)(JP)(en)</description>
+		<rom name="Space Slalom (1983)(Sega)(JP)(en).bin" size="8192" crc="b8b58b30" md5="c04dc7fb9d27629735edb1570ec39f00" sha1="798b5f3742cb3f95fd5977d9a2cb48ba2dc804e6"/>
+	</game>
+	<game name="Star Force (1985)(Aaronix)(TW)[AKA Star Wars - Xingji Dazhan]">
+		<description>Star Force (1985)(Aaronix)(TW)[AKA Star Wars - Xingji Dazhan]</description>
+		<rom name="Star Force (1985)(Aaronix)(TW)[AKA Star Wars - Xingji Dazhan].bin" size="32768" crc="6f9b1ccd" md5="19649d51aee49a9fef103de6b1a7a17b" sha1="ff6e3bdb830e6f74f9997b4d36604fd07d7e6019"/>
+	</game>
+	<game name="Star Force (1985)(Sega - Tenkan)">
+		<description>Star Force (1985)(Sega - Tenkan)</description>
+		<rom name="Star Force (1985)(Sega - Tenkan).bin" size="32768" crc="b846b52a" md5="2cbd1f9f4927f9618390340f56f116a6" sha1="d38875cb08de0ea892e5ef80f93987bbc445ef8f"/>
+	</game>
+	<game name="Star Force (19xx)(Chia-Ling Corp - Sega - Tenkan)(TW)(en)">
+		<description>Star Force (19xx)(Chia-Ling Corp - Sega - Tenkan)(TW)(en)</description>
+		<rom name="Star Force (19xx)(Chia-Ling Corp - Sega - Tenkan)(TW)(en).bin" size="32768" crc="1f736931" md5="3011655195d3a299f3a53255e0d7939a" sha1="f3ddf97ddf0e40289e38d9105300f15ec7eab78c"/>
+	</game>
+	<game name="Star Jacker (1983)(Aaronix)(TW)[AKA Taikong Cheng]">
+		<description>Star Jacker (1983)(Aaronix)(TW)[AKA Taikong Cheng]</description>
+		<rom name="Star Jacker (1983)(Aaronix)(TW)[AKA Taikong Cheng].bin" size="32768" crc="df162201" md5="0104171ade3cfeaf10c92926869e2a52" sha1="2bc990615a6ea7f005e8458c9791f0098c4d4a85"/>
+	</game>
+	<game name="Star Jacker (1983)(Sega)(JP)">
+		<description>Star Jacker (1983)(Sega)(JP)</description>
+		<rom name="Star Jacker (1983)(Sega)(JP).bin" size="32768" crc="1ae94122" md5="eccad04698782862f3785ff9708f73e8" sha1="5d074708edf6c40dc6d80032cd91ff6197aa79c7"/>
+	</game>
+	<game name="Star Jacker Rev 1 (1983)(Sega)">
+		<description>Star Jacker Rev 1 (1983)(Sega)</description>
+		<rom name="Star Jacker Rev 1 (1983)(Sega).bin" size="32768" crc="7f25deca" md5="658ede490eae6af2b0f61dd136761d95" sha1="be078bfa5340f2e1d307b85d3648192972529e46"/>
+	</game>
+	<game name="Star Jacker Rev 1 (1983)(Sega)[h]">
+		<description>Star Jacker Rev 1 (1983)(Sega)[h]</description>
+		<rom name="Star Jacker Rev 1 (1983)(Sega)[h].bin" size="32768" crc="3fe59505" md5="22200ef1461212cacdc58f6636d759fd" sha1="a2a06e7545ca1e0d522d0eb75a72b5b520f42330"/>
+	</game>
+	<game name="Super Tank (1986)(Sega)(JP)(en)">
+		<description>Super Tank (1986)(Sega)(JP)(en)</description>
+		<rom name="Super Tank (1986)(Sega)(JP)(en).bin" size="32768" crc="084cc13e" md5="59d01bf1093a65e9ec08e533cfbbc5ff" sha1="58d7d51b91b763d812376d56643a4f8a331e826b"/>
+	</game>
+	<game name="Super Tank (198x)(Samsung - Sega)(KR)(en)">
+		<description>Super Tank (198x)(Samsung - Sega)(KR)(en)</description>
+		<rom name="Super Tank (198x)(Samsung - Sega)(KR)(en).bin" size="32768" crc="4c48b7ac" md5="e4b0859bd9cb372e41f81e593c67f225" sha1="0a49de909b07b69a24b5c02ad08446e2cd1787d2"/>
+	</game>
+	<game name="Super Tank (198x)(Sega)(TW)(en)">
+		<description>Super Tank (198x)(Sega)(TW)(en)</description>
+		<rom name="Super Tank (198x)(Sega)(TW)(en).bin" size="32768" crc="d0c3df3f" md5="bcb549a442584255601dc7938accd2d6" sha1="0d014fc9db775b62ff55196b85b8e91c5e3249f3"/>
+	</game>
+	<game name="Tanke Dazhan (1986)(DahJee)(TW)[AKA Tank Battalion]">
+		<description>Tanke Dazhan (1986)(DahJee)(TW)[AKA Tank Battalion]</description>
+		<rom name="Tanke Dazhan (1986)(DahJee)(TW)[AKA Tank Battalion].bin" size="32768" crc="5cbd1163" md5="dada9d76f7743089811dcc8ec1543076" sha1="0ca3b740b28266a2a606127ed8967c684b67cb44"/>
+	</game>
+	<game name="Wonder Boy Rev 0 (1986)(Sega)">
+		<description>Wonder Boy Rev 0 (1986)(Sega)</description>
+		<rom name="Wonder Boy Rev 0 (1986)(Sega).bin" size="32768" crc="160535c5" md5="76f29fee0cd3af921e488a276dace636" sha1="4a54933135cdff546fd79cbc61a38355f7335f3f"/>
+	</game>
+	<game name="Wonder Boy Rev 1 (1986)(Sega)">
+		<description>Wonder Boy Rev 1 (1986)(Sega)</description>
+		<rom name="Wonder Boy Rev 1 (1986)(Sega).bin" size="32768" crc="e8f0344d" md5="d26fabfe84ad40ae04a2cd3dc6cf75df" sha1="240600a0dda16809f49b173f731c7fdaf921466a"/>
+	</game>
+	<game name="Wonder Boy Rev 1 (198x)(Sega)(TW)(en)">
+		<description>Wonder Boy Rev 1 (198x)(Sega)(TW)(en)</description>
+		<rom name="Wonder Boy Rev 1 (198x)(Sega)(TW)(en).bin" size="32768" crc="953fc2b2" md5="d6fab98601ade59cf90a500c05446163" sha1="8f261b955162c179fe4c936ece767bbf25c4888c"/>
+	</game>
+	<game name="Yamato (1983)(Aaronix)(TW)[AKA Tai He Jian]">
+		<description>Yamato (1983)(Aaronix)(TW)[AKA Tai He Jian]</description>
+		<rom name="Yamato (1983)(Aaronix)(TW)[AKA Tai He Jian].bin" size="16384" crc="b65a093f" md5="9c751fb92d2280d89ee9c273f3c6785a" sha1="6fbdc967f5c7c39eb1fdea08d2dcabfd64b8e7ee"/>
+	</game>
+	<game name="Yamato (1983)(Sega)">
+		<description>Yamato (1983)(Sega)</description>
+		<rom name="Yamato (1983)(Sega).bin" size="16384" crc="e2fd5201" md5="0dd197a0e1f43c0684f98b52514fce59" sha1="4d746558fb699c5cb480ba26130518105b2e2031"/>
+	</game>
+	<game name="Yamato (1983)(Sega)(EU-JP)[40K]">
+		<description>Yamato (1983)(Sega)(EU-JP)[40K]</description>
+		<rom name="Yamato (1983)(Sega)(EU-JP)[40K].bin" size="40960" crc="9c7497ff" md5="653d415ed202c09c08207c83f9e311eb" sha1="fe86e669f3e4b808236d7b80aeb5a83172edb9ac"/>
+	</game>
+	<game name="Yie Ar Kung-Fu (1985)(Aaronix)(TW)[AKA Gongfu]">
+		<description>Yie Ar Kung-Fu (1985)(Aaronix)(TW)[AKA Gongfu]</description>
+		<rom name="Yie Ar Kung-Fu (1985)(Aaronix)(TW)[AKA Gongfu].bin" size="32768" crc="bb0f1930" md5="b14852ce157619fd60666a6474936d69" sha1="0a6157837af2e5dec2e9b30d475b48fa7c14cc3e"/>
+	</game>
+	<game name="Yingzi Chuansho (1986)(DahJee)(TW)[AKA Kage no Densetsu]">
+		<description>Yingzi Chuansho (1986)(DahJee)(TW)[AKA Kage no Densetsu]</description>
+		<rom name="Yingzi Chuansho (1986)(DahJee)(TW)[AKA Kage no Densetsu].bin" size="49152" crc="2e7166d5" md5="cfc8e61f51388609421ffe87539cad44" sha1="902dbb122bf0efc76604a876c3fae51c074bdc6a"/>
+	</game>
+	<game name="Yon-nin Mahjong v1 (1985)(Aaronix)(TW)[AKA Home Mahjong][AKA Si Ren Maque]">
+		<description>Yon-nin Mahjong v1 (1985)(Aaronix)(TW)[AKA Home Mahjong][AKA Si Ren Maque]</description>
+		<rom name="Yon-nin Mahjong v1 (1985)(Aaronix)(TW)[AKA Home Mahjong][AKA Si Ren Maque].bin" size="49152" crc="0583a9fa" md5="8fab99c3cc9a7a98d8873eaf215a5fa0" sha1="db98d7461e88cef8160089c44fcd432388e3c9df"/>
+	</game>
+	<game name="Zaxxon (1985)(Aaronix)(TW)[AKA Tuji Dabenying]">
+		<description>Zaxxon (1985)(Aaronix)(TW)[AKA Tuji Dabenying]</description>
+		<rom name="Zaxxon (1985)(Aaronix)(TW)[AKA Tuji Dabenying].bin" size="32768" crc="49cae925" md5="bb1c5b1071d5b9224b7733d60465e769" sha1="172a8ff1a574d7920906c5cf60e1d39f31b9b639"/>
+	</game>
+	<game name="Zaxxon (1985)(Sega)">
+		<description>Zaxxon (1985)(Sega)</description>
+		<rom name="Zaxxon (1985)(Sega).bin" size="32768" crc="905467e4" md5="52bbf5336c190610a0fb1ab0bdaca455" sha1="e32f536c3576d41ab485e07809c4404e6b462443"/>
+	</game>
+	<game name="Zippy Race (1983)(Aaronix)(TW)[AKA Motuo Che You Meiguo]">
+		<description>Zippy Race (1983)(Aaronix)(TW)[AKA Motuo Che You Meiguo]</description>
+		<rom name="Zippy Race (1983)(Aaronix)(TW)[AKA Motuo Che You Meiguo].bin" size="32768" crc="bcf441a5" md5="16856425e0bcc3ab475f46f7cfd00402" sha1="f6926d0c3c654a038cd5eec9aaa6876bce86fdaa"/>
+	</game>
+	<game name="Zippy Race (1983)(Irem - Sega)">
+		<description>Zippy Race (1983)(Irem - Sega)</description>
+		<rom name="Zippy Race (1983)(Irem - Sega).bin" size="32768" crc="bc5d20df" md5="0eda34ba313d3bb34558fd5939b19794" sha1="8c48dbe187ff4b26d6244d38075565f284536d0c"/>
+	</game>
+	<game name="Zoom 909 (1985)(Sega)(JP)(en)">
+		<description>Zoom 909 (1985)(Sega)(JP)(en)</description>
+		<rom name="Zoom 909 (1985)(Sega)(JP)(en).bin" size="32768" crc="093830d8" md5="4e457a6c5b4b613f2aac3472f6827a89" sha1="09552aaa7140f9fc780b5f7d541478b534320075"/>
+	</game>
+</datafile>

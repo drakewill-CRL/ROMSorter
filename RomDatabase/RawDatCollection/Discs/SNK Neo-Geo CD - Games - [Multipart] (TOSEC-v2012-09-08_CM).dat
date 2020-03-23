@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>SNK Neo-Geo CD - Games - [Multipart]</name>
+		<description>SNK Neo-Geo CD - Games - [Multipart] (TOSEC-v2012-09-08)</description>
+		<category>TOSEC-ISO</category>
+		<version>2012-09-08</version>
+		<author>Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Joy Joy Kid (2005-02-09)(Neo Geo Conversion Project)(en-ja)[p]">
+		<description>Joy Joy Kid (2005-02-09)(Neo Geo Conversion Project)(en-ja)[p]</description>
+		<rom name="021_C1.SPR" size="1048576" crc="24bc0f0a" md5="83fab8ad2999e7b5d8549fba1a1808a7" sha1="1e0b0411a5b726044838f59b1523eef73cf4ab06"/>
+		<rom name="021_M1.Z80" size="65200" crc="c0311f37" md5="5e146a5a5df8313817a503fac3f99b3b" sha1="2ad84559517784c8b0aa6d5ed15df87f9d70087e"/>
+		<rom name="021_P1.PRG" size="524288" crc="9de9a495" md5="5a42ef5f2a31652737194b37d103531c" sha1="e4afcf457c949f4fd1441d1a80faf690ee424594"/>
+		<rom name="021_PCM.PCM" size="1048576" crc="130ef711" md5="e916939f4e62ae2283e1cad18f727098" sha1="496c50ac0f2c1707b7e7395db7038e79b1454550"/>
+		<rom name="021_S1.FIX" size="131072" crc="6956d778" md5="72896b6439bb00f27c8adb2e3d726e20" sha1="e3757776d60dc07d8e07c9ca61b223b14732f860"/>
+		<rom name="ABS.TXT" size="30" crc="c4ad414a" md5="f0d91ae03492c0531a9f960c45588112" sha1="ba0101f87b7bb7455a093e8456f8b7b18a961d70"/>
+		<rom name="BIB.TXT" size="35" crc="c7a66a0b" md5="0c6df774d70673ea8e3f29edf674e413" sha1="71a22c0052bb08124949f6f4cadd83a0f6ddf906"/>
+		<rom name="CPY.TXT" size="29" crc="20d6116b" md5="4ff22328fe4b77ad20e302dba0bf46ad" sha1="ee9f35d7452860827b01a0f93e59bd78ab9e157e"/>
+		<rom name="IPL.TXT" size="82" crc="700e2b46" md5="f2c53759a7c0a23ce2a93a159723efc3" sha1="614090643320072df916a0ffe7f69a5b89c6e6d3"/>
+	</game>
+</datafile>

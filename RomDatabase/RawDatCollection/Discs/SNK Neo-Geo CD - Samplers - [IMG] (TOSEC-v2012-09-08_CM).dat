@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>SNK Neo-Geo CD - Samplers - [IMG]</name>
+		<description>SNK Neo-Geo CD - Samplers - [IMG] (TOSEC-v2012-09-08)</description>
+		<category>TOSEC-ISO</category>
+		<version>2012-09-08</version>
+		<author>TOSEC-ISO: Trurip</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="ADK World (1995)(ADK - SNK)(JP)">
+		<description>ADK World (1995)(ADK - SNK)(JP)</description>
+		<rom name="ADK World (1995)(ADK - SNK)(JP).ccd" size="7392" crc="a6e34fe3" md5="f99fd2625090e54d7ee7b385cb4cf697" sha1="6a9b96d5ffa5d1fb34a18f860b5d893429b3c682"/>
+		<rom name="ADK World (1995)(ADK - SNK)(JP).img" size="720666912" crc="824e926b" md5="e8bbf462dfcda3914a3667e27d6abb63" sha1="7836bff53c1172ddf2c3e68b483a84e3121428cb"/>
+		<rom name="ADK World (1995)(ADK - SNK)(JP).sub" size="29414976" crc="80f85c2e" md5="739911d692f8f5aeb2aab8ebb8dd8204" sha1="66f6472ad096ba03481290a4aab525fda5a26180"/>
+	</game>
+	<game name="Neo-Geo CD Special (1995)(SNK)(JP)">
+		<description>Neo-Geo CD Special (1995)(SNK)(JP)</description>
+		<rom name="Neo-Geo CD Special (1995)(SNK)(JP).ccd" size="8508" crc="94b0cd27" md5="274fd6813919bf5d95c1a6e3df628075" sha1="0006f3f9ce60a50ae0ad79e5cd8c91f9394fe378"/>
+		<rom name="Neo-Geo CD Special (1995)(SNK)(JP).img" size="765020928" crc="ef6db1d1" md5="d3a7ff85ee24b45c1302e53f9d12de8e" sha1="08d50658b056e6653764b28974e6ceac95204ca3"/>
+		<rom name="Neo-Geo CD Special (1995)(SNK)(JP).sub" size="31225344" crc="e1a7232b" md5="e03a0f44152f456da4871c3668fe2221" sha1="6e5326f13d5b66382e444cf4067bf1ec273b7d01"/>
+	</game>
+</datafile>

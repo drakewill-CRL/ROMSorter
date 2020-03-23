@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C128 - Operating Systems - GEOS - [D64]</name>
+		<description>Commodore C128 - Operating Systems - GEOS - [D64] (TOSEC-v2017-10-23)</description>
+		<category>TOSEC</category>
+		<version>2017-10-23</version>
+		<author>Tomse</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="gateWay 128 (1996)(Creative Micro Designs)[a2][Req GEOS]">
+		<description>gateWay 128 (1996)(Creative Micro Designs)[a2][Req GEOS]</description>
+		<rom name="gateWay 128 (1996)(Creative Micro Designs)[a2][Req GEOS].d64" size="174848" crc="f97611bc" md5="09fa3669f3f8c2791f2a95d72b0252b0" sha1="07100006349f8329cf130f04f0306ed19d57fa15"/>
+	</game>
+	<game name="gateWay 128 (1996)(Creative Micro Designs)[a3][Req GEOS]">
+		<description>gateWay 128 (1996)(Creative Micro Designs)[a3][Req GEOS]</description>
+		<rom name="gateWay 128 (1996)(Creative Micro Designs)[a3][Req GEOS].d64" size="174848" crc="7c68532a" md5="ed635dbdfc85be0a4baaff5485deccdf" sha1="ddb7f4fc9bed354819aafa84be4e7e6324fafdae"/>
+	</game>
+	<game name="gateWay 128 (1996)(Creative Micro Designs)[a4][Req GEOS]">
+		<description>gateWay 128 (1996)(Creative Micro Designs)[a4][Req GEOS]</description>
+		<rom name="gateWay 128 (1996)(Creative Micro Designs)[a4][Req GEOS].d64" size="174848" crc="8b9c790b" md5="e7054a6940ce059828e1cf184aa22daf" sha1="b3ae431521b7197a22ed2c692a89f60fa2761e5f"/>
+	</game>
+	<game name="gateWay 128 (1996)(Creative Micro Designs)[a][Req GEOS]">
+		<description>gateWay 128 (1996)(Creative Micro Designs)[a][Req GEOS]</description>
+		<rom name="gateWay 128 (1996)(Creative Micro Designs)[a][Req GEOS].d64" size="174848" crc="7b7d2cae" md5="33e7e6c91fa287a8ce7bd62f8f219151" sha1="27429ba222ccaa46402dd0cc96b0c107c442299d"/>
+	</game>
+	<game name="gateWay 128 (1996)(Creative Micro Designs)[Req GEOS]">
+		<description>gateWay 128 (1996)(Creative Micro Designs)[Req GEOS]</description>
+		<rom name="gateWay 128 (1996)(Creative Micro Designs)[Req GEOS].d64" size="174848" crc="c55f0a10" md5="f942375c93a93e73d8181ce807cb406e" sha1="95b4d094a6a53c3aa11a56185a5d5a5ae76a3d87"/>
+	</game>
+	<game name="geoMerge 128 v2.1 (1987)(Berkeley Softworks)">
+		<description>geoMerge 128 v2.1 (1987)(Berkeley Softworks)</description>
+		<rom name="geoMerge 128 v2.1 (1987)(Berkeley Softworks).D64" size="174848" crc="5dbf92c8" md5="edd0b4c8fb5201fe4fb6f80af8d33eff" sha1="30527b3ca256b92ee837945b1a4f730988da3a57"/>
+	</game>
+	<game name="GEOS 128 v2.0 (1988)(Berkeley Softworks)[40-80 column]">
+		<description>GEOS 128 v2.0 (1988)(Berkeley Softworks)[40-80 column]</description>
+		<rom name="GEOS 128 v2.0 (1988)(Berkeley Softworks)[40-80 column].D64" size="174848" crc="0ef8b5a7" md5="2bd8dad9b98f969c6c93ce3448c03631" sha1="a232c8d912c8cae5d9096120669c3782b451c408"/>
+	</game>
+	<game name="geoSpell 128 (1988)(Berkeley Softworks)">
+		<description>geoSpell 128 (1988)(Berkeley Softworks)</description>
+		<rom name="geoSpell 128 (1988)(Berkeley Softworks).D64" size="174848" crc="2f3be014" md5="a1946ea0d60699c33f83b0986436046a" sha1="c9a7027f2f48126d85cc930f9cf28dd3b2ffa1c9"/>
+	</game>
+	<game name="geoWrite v2.1 &amp; geoPaint (1987)(Berkeley Softworks)">
+		<description>geoWrite v2.1 &amp; geoPaint (1987)(Berkeley Softworks)</description>
+		<rom name="geoWrite v2.1 &amp; geoPaint (1987)(Berkeley Softworks).D64" size="174848" crc="0e77c5b6" md5="de36b49647e872864f11e8ad08b67570" sha1="72fda59f1a9258e6ee68da2ed1c4a3ccffc95792"/>
+	</game>
+</datafile>

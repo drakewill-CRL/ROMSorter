@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Fujitsu FM Towns [T-En]</name>
+		<description>Fujitsu FM Towns [T-En]</description>
+		<category>English Translations</category>
+		<version>20120724</version>
+		<date>20120724</date>
+		<author>Powerpuff</author>
+		<email>-insert email-</email>
+		<homepage>Maybe-Intro</homepage>
+		<url>http://maybeintro.wordpress.com/</url>
+		<comment>Maybe-Intro</comment>
+		<clrmamepro/>
+	</header>
+	<game name="Lemmings 2 - The Tribes (Japan) [T-En by Leokulcar v1.0]">
+		<description>Lemmings 2 - The Tribes (Japan) [T-En by Leokulcar v1.0]</description>
+		<rom name="Lemmings 2 - The Tribes (Japan) (User Disk).bin" size="655360" crc="32146d0a" md5="ef0b5799a4c97652fcc351884f19e63c" sha1="1713b53da2c419067ba512f01a0253dbacedef8c"/>
+		<rom name="Lemmings 2 - The Tribes (Japan) [T-En by Leokulcar v1.0].mdf" size="324691248" crc="72bfb72d" md5="362212843a252b484120128578778584" sha1="17cbcd5e720a949fe87c433126ab0f90a37a8533"/>
+		<rom name="Lemmings 2 - The Tribes (Japan) [T-En by Leokulcar v1.0].mds" size="1806" crc="4c0dfb47" md5="3d425d4983fba49ba034d20401831bbb" sha1="e74c9dd6fcce3b1d4a063549beb7eeffb5a3cc8d"/>
+	</game>
+	<game name="Mad Paradox (Japan) [T-En by Demoniac v1.0]">
+		<description>Mad Paradox (Japan) [T-En by Demoniac v1.0]</description>
+		<rom name="Mad Paradox (Japan) (User Disk).bin" size="1261568" crc="8259b93e" md5="2da2f42f0b415142fa1767ed5889bd12" sha1="6f232aff7673c55ad1ccd00a16631fa4a20990fb"/>
+		<rom name="Mad Paradox (Japan) [T-En by Demoniac v1.0].mdf" size="432532800" crc="03c7acdc" md5="6a41375e560890cac7dc2a565871a564" sha1="1dd816c820ab4b984eb1a24e1faeb6e65fb686c7"/>
+		<rom name="Mad Paradox (Japan) [T-En by Demoniac v1.0].mds" size="1718" crc="b5831acd" md5="94a4a2979b5c5177b775b5360ce6a7ad" sha1="f91f32c7e4ffb8cba1db7fb6bda4f54b2de5f7c5"/>
+	</game>
+</datafile>

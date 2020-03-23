@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>GCE - Vectrex (Echoj2's 1G1R)</name>
+		<description>GCE - Vectrex (Echoj2's 1G1R)</description>
+		<category>Standard DatFile</category>
+		<version>20180623-100000</version>
+		<date>-insert date-</date>
+		<author>Eckaji</author>
+		<email>-insert email-</email>
+		<homepage>r/SBCGaming</homepage>
+		<url>https://discord.gg/JdXc6nx</url>
+		<comment>-insert comment-</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Armor..Attack (World)">
+		<description>Armor..Attack (World)</description>
+		<rom name="Armor..Attack (World).vec" size="4096" crc="b7510971" md5="9657037a461eee919462eb6a01879685" sha1="eb76f860130f8cc87826fa931350467760511213"/>
+	</machine>
+	<machine name="Bedlam (USA, Europe)">
+		<description>Bedlam (USA, Europe)</description>
+		<rom name="Bedlam (USA, Europe).vec" size="4096" crc="a2fa649b" md5="268e75778f282d853d77acf42c6c8734" sha1="3ff3fa4feda6d562dedff2a10cfa8679d8318044"/>
+	</machine>
+	<machine name="Berzerk (World)">
+		<description>Berzerk (World)</description>
+		<rom name="Berzerk (World).vec" size="4096" crc="eafe2455" md5="640ae7bd4538bad11256999db68de5a0" sha1="e4badd494ed548721328ef869d33ad70e3e522c9"/>
+	</machine>
+	<machine name="Blitz! - Action Football (USA, Europe) (0F11CE0C)">
+		<description>Blitz! - Action Football (USA, Europe) (0F11CE0C)</description>
+		<rom name="Blitz! - Action Football (USA, Europe) (0F11CE0C).vec" size="8192" crc="0f11ce0c" md5="94f144c31fd4563f9473ed0563463e54" sha1="60893dfada42cf50c94083d45ad5bd14d0c031c8"/>
+	</machine>
+	<machine name="Clean Sweep (World)">
+		<description>Clean Sweep (World)</description>
+		<rom name="Clean Sweep (World).vec" size="4096" crc="f1b1de78" md5="a376d5648e08f348e5965c058c631c6d" sha1="67f8513958c04e936b135740ed4ec6e6fa1763d5"/>
+	</machine>
+	<machine name="Cosmic Chasm (World)">
+		<description>Cosmic Chasm (World)</description>
+		<rom name="Cosmic Chasm (World).vec" size="4096" crc="6c1afa52" md5="9b61653ed9dafd4cfb7f9d94404259ac" sha1="56a7f277bf09f94461dda542c04c36266d838b86"/>
+	</machine>
+	<machine name="Fortress of Narzod (USA, Europe)">
+		<description>Fortress of Narzod (USA, Europe)</description>
+		<rom name="Fortress of Narzod (USA, Europe).vec" size="8192" crc="13a35c8a" md5="e65b3262e9447a747d93e0ccb1dbb7df" sha1="286e061331289b031de33725a4966c379c1df47f"/>
+	</machine>
+	<machine name="Heads-Up - Action Soccer (USA)">
+		<description>Heads-Up - Action Soccer (USA)</description>
+		<rom name="Heads-Up - Action Soccer (USA).vec" size="8192" crc="e61a7de3" md5="501dd2845432f10e4b9531240f409b8c" sha1="0406c13952fb0bd6adc68298ae163ebc6160484c"/>
+	</machine>
+	<machine name="HyperChase - Auto Race (World)">
+		<description>HyperChase - Auto Race (World)</description>
+		<rom name="HyperChase - Auto Race (World).vec" size="4096" crc="4bb13472" md5="7580926ee22f06fd2ccde4b65184715f" sha1="a246f1d94a5b062b60784787a1d6d499b21c10cd"/>
+	</machine>
+	<machine name="Mine Storm II (USA) (Rev 2)">
+		<description>Mine Storm II (USA) (Rev 2)</description>
+		<rom name="Mine Storm II (USA) (Rev 2).vec" size="4096" crc="f5b3b374" md5="126fecbf4fb09fdb5a3c9af92abaed7c" sha1="1fdcc6e54ae5177bc9cdc79ce616ae3401e5c229"/>
+	</machine>
+	<machine name="Polar Rescue (USA)">
+		<description>Polar Rescue (USA)</description>
+		<rom name="Polar Rescue (USA).vec" size="8192" crc="a7471784" md5="5c1c413e51aa282015807dc60213fd3d" sha1="87248dcd3db51c1ebf3f8e07e21ec021eec0b9be"/>
+	</machine>
+	<machine name="Pole Position (USA) (A00ED3D6)">
+		<description>Pole Position (USA) (A00ED3D6)</description>
+		<rom name="Pole Position (USA) (A00ED3D6).vec" size="8192" crc="a00ed3d6" md5="f94173910549038d4d8f329413a5aa54" sha1="8454d472435e7a6a4ca5fe129162480ca6e84b87"/>
+	</machine>
+	<machine name="Rip Off (World)">
+		<description>Rip Off (World)</description>
+		<rom name="Rip Off (World).vec" size="4096" crc="34a98132" md5="808e0501990bd01882c102df00f20064" sha1="22f7a490f6f7aaa31e892b03a85178af211f62e3"/>
+	</machine>
+	<machine name="Scramble (USA, Europe)">
+		<description>Scramble (USA, Europe)</description>
+		<rom name="Scramble (USA, Europe).vec" size="4096" crc="707c8ffe" md5="95370908561a782edf138df41ccb8f18" sha1="38e38b5c60466146d4648f8929b5ce3a08dcbe0d"/>
+	</machine>
+	<machine name="Solar Quest (World)">
+		<description>Solar Quest (World)</description>
+		<rom name="Solar Quest (World).vec" size="4096" crc="5c4611c8" md5="11a9bd419cf094de8caa8a44d76b69ab" sha1="38072dc491d5c729c06f4c50bc310d361e0ff62a"/>
+	</machine>
+	<machine name="Space Wars (World)">
+		<description>Space Wars (World)</description>
+		<rom name="Space Wars (World).vec" size="4096" crc="a3be5aff" md5="2decdf9f55df7fb99761b2fe51425e40" sha1="0c229dd12a55044681585f7fdabd37dbc1243b59"/>
+	</machine>
+	<machine name="Spike (USA, Europe)">
+		<description>Spike (USA, Europe)</description>
+		<rom name="Spike (USA, Europe).vec" size="8192" crc="62a61843" md5="5a90ab748f7b220edaf8c1d67e0bfe89" sha1="8bba6705e6f69f55ab6d105eac2fd5b0c0d16d9f"/>
+	</machine>
+	<machine name="Spin ball (USA)">
+		<description>Spin ball (USA)</description>
+		<rom name="Spin ball (USA).vec" size="8192" crc="02f41733" md5="ecc143f87a702af7a1786b58a78ace01" sha1="2e8285061530ccadfa2d8d11c374ae244449ebfa"/>
+	</machine>
+	<machine name="Star Castle (USA)">
+		<description>Star Castle (USA)</description>
+		<rom name="Star Castle (USA).vec" size="4096" crc="c9039623" md5="1224c9beae22ee7354e4220c46237696" sha1="c9b79f1ba30dcbce5a068b606a97775cf863fe0a"/>
+	</machine>
+	<machine name="Star Trek - The Motion Picture (USA)">
+		<description>Star Trek - The Motion Picture (USA)</description>
+		<rom name="Star Trek - The Motion Picture (USA).vec" size="4096" crc="3768d8c3" md5="0b67a6339e9c1d8385e8fdfc48f447bc" sha1="3a2ee61316fb316d9e9efdf5ee405e813475b466"/>
+	</machine>
+	<machine name="StarHawk (World)">
+		<description>StarHawk (World)</description>
+		<rom name="StarHawk (World).vec" size="4096" crc="4de1f06b" md5="add42c10019e88f47dd98791f8de3148" sha1="d6b388b3951e34971c1b00c7fdf8dd00ad52df09"/>
+	</machine>
+	<machine name="WebWars (USA)">
+		<description>WebWars (USA)</description>
+		<rom name="WebWars (USA).vec" size="8192" crc="2ee20103" md5="a398c18b4ce87929471b559b2bc7e79f" sha1="08e2df9f7769c16a4d730adf8d659f8ea4be7f9d"/>
+	</machine>
+</datafile>

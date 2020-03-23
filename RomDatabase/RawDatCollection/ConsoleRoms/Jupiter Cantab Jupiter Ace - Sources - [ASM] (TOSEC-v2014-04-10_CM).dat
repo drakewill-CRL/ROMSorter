@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Jupiter Cantab Jupiter Ace - Sources - [ASM]</name>
+		<description>Jupiter Cantab Jupiter Ace - Sources - [ASM] (TOSEC-v2014-04-10)</description>
+		<category>TOSEC</category>
+		<version>2014-04-10</version>
+		<author>TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Faster Ace (1983)(Your Computer)(GB)[3K]">
+		<description>Faster Ace (1983)(Your Computer)(GB)[3K]</description>
+		<rom name="Faster Ace (1983)(Your Computer)(GB)[3K].asm" size="2850" crc="c4f8a49a" md5="881ad53b9f9762af342666f98bc99bc6" sha1="53de70180b3ba492b948b0eae4784791dbed18a1"/>
+	</game>
+	<game name="Tetris (2009)(Jupiter Ace Archive Team)(GB)(PD)[19K]">
+		<description>Tetris (2009)(Jupiter Ace Archive Team)(GB)(PD)[19K]</description>
+		<rom name="Tetris (2009)(Jupiter Ace Archive Team)(GB)(PD)[19K].asm" size="41946" crc="3dbf2957" md5="880dbfd97b719eafd5f8d6bfd2245639" sha1="b6563311c04f010a80f1e59b8276e5b9604d282e"/>
+	</game>
+</datafile>

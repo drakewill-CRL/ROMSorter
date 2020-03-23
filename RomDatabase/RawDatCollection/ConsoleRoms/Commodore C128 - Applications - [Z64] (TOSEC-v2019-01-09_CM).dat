@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C128 - Applications - [Z64]</name>
+		<description>Commodore C128 - Applications - [Z64] (TOSEC-v2019-01-09)</description>
+		<category>TOSEC</category>
+		<version>2019-01-09</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="1571 Clone (19xx)(-)">
+		<description>1571 Clone (19xx)(-)</description>
+		<rom name="1!1571 Clone (19xx)(-).z64" size="32848" crc="824e604b" md5="3a7a4179c4705e91fd4b0683632afe0a" sha1="6e417c82280e08294d22b135f27dfabfa4cdd99f"/>
+		<rom name="2!1571 Clone (19xx)(-).z64" size="39020" crc="356cc572" md5="7e4988df93d515c17b96b8b7d162e302" sha1="131ee967d9d7fb7ac17a51df5868cf5b5e4a29a0"/>
+		<rom name="3!1571 Clone (19xx)(-).z64" size="36695" crc="10337e62" md5="b1bcc9b73f8eb5b8825844863b26714b" sha1="36c71b491ab179bff0c4cdd5e8d3e6568d07169a"/>
+		<rom name="4!1571 Clone (19xx)(-).z64" size="32949" crc="7416e0f6" md5="9dd2d43ac0cf1190af04b6889051852d" sha1="91e8aa2831fc1ca4caf22240d55a57deec07c255"/>
+	</game>
+	<game name="BBS 128 v6.6c (19xx)(Smith, Nick)">
+		<description>BBS 128 v6.6c (19xx)(Smith, Nick)</description>
+		<rom name="a!BBS 128 v6.6c (19xx)(Smith, Nick).z64" size="41167" crc="fd11bda2" md5="abaa3714d94a07367fd7c0ca7c5785e3" sha1="2cd30113f31eb262d4994003472ca00577b4648b"/>
+		<rom name="b!BBS 128 v6.6c (19xx)(Smith, Nick).z64" size="41457" crc="26034dfa" md5="26b88df31e20046c17590dbd786b9976" sha1="1bc46dccb4dc9e54b5f55f54d030be009d0a94f4"/>
+		<rom name="c!BBS 128 v6.6c (19xx)(Smith, Nick).z64" size="38749" crc="2f192630" md5="ff38f3d1e2f84880fcd4ee11ba66c4cb" sha1="a239bb1d5b28291c5490d2f3e37d911910441a08"/>
+		<rom name="d!BBS 128 v6.6c (19xx)(Smith, Nick).z64" size="36845" crc="b3d8b074" md5="97cfda9d953702e6736ae05a43c5400c" sha1="7071bc42d0e46cdd92c387972a63a24a42a8792b"/>
+		<rom name="x!BBS 128 v6.6c (19xx)(Smith, Nick).z64" size="912" crc="b4342fbd" md5="584f3c6b85e03ace53525f0168e76cba" sha1="14809e85938c633e88df94f16ba7f7d54d0e0a62"/>
+	</game>
+	<game name="Big Blue Reader 128 (1988)(Sogwap Software)">
+		<description>Big Blue Reader 128 (1988)(Sogwap Software)</description>
+		<rom name="1!Big Blue Reader 128 (1988)(Sogwap Software).z64" size="26119" crc="5098a5a1" md5="c24b0e6d1614ec9fda6a73f671551250" sha1="d0687f3860864510df1110a0522836cbdf7c270d"/>
+		<rom name="2!Big Blue Reader 128 (1988)(Sogwap Software).z64" size="40703" crc="8b15de3b" md5="a6215d8c71ef103b95d5adb847187308" sha1="f26189d1cb6e9a98ccae1bb19a2be62e72734701"/>
+		<rom name="3!Big Blue Reader 128 (1988)(Sogwap Software).z64" size="38914" crc="7d4ba219" md5="d7b978f93a46e679ad4c2d2156cd385a" sha1="c0d877101ee9ac0119e94278886152f26f22df7d"/>
+		<rom name="4!Big Blue Reader 128 (1988)(Sogwap Software).z64" size="14695" crc="6f5667c7" md5="cae2fb4a4c987d5d828b311a206c5257" sha1="14499b15b602a16290e5d7bcfeda6bfa6842da36"/>
+	</game>
+	<game name="C128 Cannon, The (1987)(Kracker Jax)(Side A)[autoboot]">
+		<description>C128 Cannon, The (1987)(Kracker Jax)(Side A)[autoboot]</description>
+		<rom name="1!C128 Cannon, The (1987)(Kracker Jax)(Side A)[autoboot].z64" size="42926" crc="d4fe9e14" md5="fb567861cbcca1fd9cac3311c3b93ba7" sha1="6809d250922fa859f1893e6b30d1bfcd6aea21c2"/>
+		<rom name="2!C128 Cannon, The (1987)(Kracker Jax)(Side A)[autoboot].z64" size="42112" crc="763606d0" md5="8f7de0ed10799d5a86c3e3be9c2e393e" sha1="16c8537fc45e48f2daf3ea0aec75da22008ab92a"/>
+		<rom name="3!C128 Cannon, The (1987)(Kracker Jax)(Side A)[autoboot].z64" size="38528" crc="e5bede9d" md5="7257680b242b49d6e159d9473f2bd048" sha1="3f53f93687eef4f2141e7411331cb9f51b7d2290"/>
+		<rom name="4!C128 Cannon, The (1987)(Kracker Jax)(Side A)[autoboot].z64" size="32080" crc="765f8886" md5="c433cb3356cce3111eaa78e1ffbaef11" sha1="19d5242b00066c0de18ebf5c71692274c392cd9c"/>
+	</game>
+	<game name="Fast Hack&apos;em 128 v3.1 (1985)(Henry, Mike J.)">
+		<description>Fast Hack&apos;em 128 v3.1 (1985)(Henry, Mike J.)</description>
+		<rom name="1!Fast Hack&apos;em 128 v3.1 (1985)(Henry, Mike J.).z64" size="508" crc="6315ce7f" md5="195930e6af4584bb5b5c364d730a8b30" sha1="cb50247d1c4601a50fd65716cc11a2e72e769dd3"/>
+		<rom name="2!Fast Hack&apos;em 128 v3.1 (1985)(Henry, Mike J.).z64" size="36713" crc="84e9ff20" md5="1708884d793898b02792609f3ddcf07d" sha1="c42c865f07e7a2ec9e93910e4a0aa13191c8243a"/>
+		<rom name="3!Fast Hack&apos;em 128 v3.1 (1985)(Henry, Mike J.).z64" size="38198" crc="f6ca53b2" md5="0e77caa8c09f4c51f27069cdda26571d" sha1="1f8ebb4d8499280188e99e444b3c7a9e24b460e4"/>
+		<rom name="4!Fast Hack&apos;em 128 v3.1 (1985)(Henry, Mike J.).z64" size="2283" crc="c169af32" md5="1bead581ea475dbc71efd62714738a30" sha1="221d924bf74b0a06368ca1a942f7755909b9ae88"/>
+	</game>
+	<game name="Home Designer, The (1987)(Kendall, James)">
+		<description>Home Designer, The (1987)(Kendall, James)</description>
+		<rom name="1!Home Designer, The (1987)(Kendall, James).z64" size="35840" crc="73abd357" md5="4155160a323cd3c9662203efe1fcc83f" sha1="fb5fde6d076b8db269fba6a2fe1848c74b5a8436"/>
+		<rom name="2!Home Designer, The (1987)(Kendall, James).z64" size="42752" crc="8479b578" md5="d653944354b0757b5ca69f3b00508623" sha1="62baef82c95b0b6764a8e1c9417f20eb10434105"/>
+		<rom name="3!Home Designer, The (1987)(Kendall, James).z64" size="39680" crc="ac59b1b3" md5="6567245c9d03b6c510094fe2875f52f1" sha1="809ce5d3e041d52bdb7433095ac430d713768447"/>
+		<rom name="4!Home Designer, The (1987)(Kendall, James).z64" size="32128" crc="2cf8edc8" md5="d07c038ca09565ec00741b1372b5715a" sha1="09e2af9a446bd7a9835717cb3012df2d5204d53c"/>
+	</game>
+	<game name="Mirror, The (1986)(Compumed)">
+		<description>Mirror, The (1986)(Compumed)</description>
+		<rom name="1!Mirror, The (1986)(Compumed).z64" size="1429" crc="3f31b1fe" md5="a956a2a2b94dc199ac98db85bbe085ef" sha1="8c015c144743cc0e9244deb4aa656fdd1578864d"/>
+		<rom name="2!Mirror, The (1986)(Compumed).z64" size="27071" crc="746d34a2" md5="1e813f59202068094abd4e3e182f68a2" sha1="3e7847f854dde13ba7bc36b81aea27463b8005eb"/>
+		<rom name="3!Mirror, The (1986)(Compumed).z64" size="32444" crc="ef0ed086" md5="e13445a9439248d4c282566f3e2df188" sha1="0dd25a2525ffb10de70953c11533fea99c60ea08"/>
+		<rom name="4!Mirror, The (1986)(Compumed).z64" size="2156" crc="26f70f8e" md5="f89a24c324f8ea6d59573bef6b77b590" sha1="472f5f72653278672d9e98c8cd37f2dc10bbf87f"/>
+	</game>
+	<game name="SidPlayer (19xx)(Compute!)">
+		<description>SidPlayer (19xx)(Compute!)</description>
+		<rom name="1!SidPlayer (19xx)(Compute!).z64" size="24552" crc="13999c1b" md5="2d85da53ac0f5ed0f1264af579dbdae2" sha1="a1c8d8b832720ad2a493ffc954d22b23d945b70c"/>
+		<rom name="2!SidPlayer (19xx)(Compute!).z64" size="41669" crc="7d0d3012" md5="4ffd54cd6b25a1ecff390dd3da65e0b0" sha1="e476b44f5a62fb27bf68e9a51cb8295b84e8e626"/>
+		<rom name="3!SidPlayer (19xx)(Compute!).z64" size="37311" crc="d9102fc0" md5="472034427e86ee26161e4d547da9659e" sha1="67df11e64be91fdd932d60b442cfc50fd1cac4ef"/>
+		<rom name="4!SidPlayer (19xx)(Compute!).z64" size="41314" crc="410fb674" md5="b48fcf862fecf6c2047d396f09c9f582" sha1="a96ae12a5025dab0eb5375cf2f6b663684b15533"/>
+	</game>
+	<game name="Vizastar 128 v1.0 (1985)(Vizastar)">
+		<description>Vizastar 128 v1.0 (1985)(Vizastar)</description>
+		<rom name="1!!Vizastar 128 v1.0 (1985)(Vizastar).z64" size="42615" crc="c70d2870" md5="6eb0478b4ff4d294b8027a38494bbbfc" sha1="17d86113c8bb660f2d8ed49b8fb75897a306513e"/>
+		<rom name="2!!Vizastar 128 v1.0 (1985)(Vizastar).z64" size="42615" crc="ef27c960" md5="181986d98d9aaf389efaaeded8561ebb" sha1="91268ce4a9b2d05ccc13e3634f943b44eee794a3"/>
+		<rom name="3!!Vizastar 128 v1.0 (1985)(Vizastar).z64" size="41963" crc="82112f81" md5="8b16402a0ba50ee5ddcfcba83ffd68a3" sha1="8f3483917dc85089d5ff76c556a041f78d2211a5"/>
+		<rom name="4!!Vizastar 128 v1.0 (1985)(Vizastar).z64" size="44827" crc="6a866afa" md5="a01994829aad7c3229b7a9eb9cb85ed9" sha1="d4a2c143e8e763b94add05d848d995c5ed547ea8"/>
+		<rom name="5!!Vizastar 128 v1.0 (1985)(Vizastar).z64" size="42219" crc="1e7c156d" md5="04eec90845903e61e13885ee7870f05f" sha1="d3ff8f8930099f036aad72d8b0bd7062f3d78c6e"/>
+		<rom name="6!!Vizastar 128 v1.0 (1985)(Vizastar).z64" size="18677" crc="88e0a8a6" md5="b79664a307b3d4a41d84b2949149a7a9" sha1="7c8b3f9dfc55304c404c46973a5644f0f472e1e9"/>
+	</game>
+	<game name="Vizastar 128 v1.1 (1985)(Vizastar)">
+		<description>Vizastar 128 v1.1 (1985)(Vizastar)</description>
+		<rom name="1!!Vizastar 128 v1.1 (1985)(Vizastar).z64" size="42615" crc="e530f95c" md5="937b866ad57ca3b345b3e25b84ec4ad8" sha1="1bb0232b0843f8cdea507af8df6afc246cdfe33e"/>
+		<rom name="2!!Vizastar 128 v1.1 (1985)(Vizastar).z64" size="42615" crc="8e5c59fd" md5="fe8648a103281559c701f30cb48784c6" sha1="7def32627bcc3913c5cdad4094a3b8db86c8ad9e"/>
+		<rom name="3!!Vizastar 128 v1.1 (1985)(Vizastar).z64" size="41963" crc="dad2fd1c" md5="a8aca2a74f1b0e5e3d565e46fafd92fe" sha1="290fd9c65421a075771267bc1818482cc88d1c57"/>
+		<rom name="4!!Vizastar 128 v1.1 (1985)(Vizastar).z64" size="44827" crc="0f68d2c9" md5="8f8e64a6ccc953875838910c5ca0ee7e" sha1="c19f85b38c635c9dddfd7bd88b7b62f52fdee4e6"/>
+		<rom name="5!!Vizastar 128 v1.1 (1985)(Vizastar).z64" size="42219" crc="0e8e8108" md5="695e6f66063309ed0332815eacf66045" sha1="da288a0501f095455f93f59a566e1b6dbfa67f08"/>
+		<rom name="6!!Vizastar 128 v1.1 (1985)(Vizastar).z64" size="18677" crc="75ad1569" md5="bf9b80cb8a8520a876222bc2719a5a9d" sha1="32c9ceae9978db2000fa94186a055f155ae52ba2"/>
+	</game>
+	<game name="Vizastar 128 v1.1u (1985)(Vizastar)">
+		<description>Vizastar 128 v1.1u (1985)(Vizastar)</description>
+		<rom name="1!!Vizastar 128 v1.1u (1985)(Vizastar).z64" size="42615" crc="616ee4dd" md5="d1314a9b99e555dd9538a745090d96e2" sha1="1f5c9e7df82661e0b1c13508766299e2cce8b1d4"/>
+		<rom name="2!!Vizastar 128 v1.1u (1985)(Vizastar).z64" size="42615" crc="c8d99be8" md5="69e6a8b97bcd0a4aa8909eeb143d88e5" sha1="a5d1e7fb599333b4c6e13ae9a30af0d5b19c5bf2"/>
+		<rom name="3!!Vizastar 128 v1.1u (1985)(Vizastar).z64" size="41963" crc="c9ac982d" md5="ca086fc310b21dcb3732eb86264eb005" sha1="5adcd303a05fe20d0c87c815be3a3670068a7ba2"/>
+		<rom name="4!!Vizastar 128 v1.1u (1985)(Vizastar).z64" size="44827" crc="67909974" md5="d812478478b04ecb2ad6e583938952e4" sha1="2ad3e7c2cfde6fe974cd88c07ccdfa0eb74151bb"/>
+		<rom name="5!!Vizastar 128 v1.1u (1985)(Vizastar).z64" size="42219" crc="f9d0daaa" md5="705d328d690cde2890a738a12069042e" sha1="136ca1db2ddecf4f35d0ec14b0418b52f6dec463"/>
+		<rom name="6!!Vizastar 128 v1.1u (1985)(Vizastar).z64" size="18677" crc="931256c9" md5="f773125245071f4a21014738c50b3157" sha1="940c562bfca1f1b8ff756195e5d19cb305b123c8"/>
+	</game>
+</datafile>

@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega NAOMI 2 - Games</name>
+		<description>Sega NAOMI 2 - Games (TOSEC-v2019-11-26)</description>
+		<category>TOSEC-ISO</category>
+		<version>2019-11-26</version>
+		<author>Maddog</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Beach Spikers v1.001 (2001)(Sega)(JP)(en)[!]">
+		<description>Beach Spikers v1.001 (2001)(Sega)(JP)(en)[!]</description>
+		<rom name="Beach Spikers v1.001 (2001)(Sega)(JP)(en)[!].gdi" size="87" crc="d7ab4c6b" sha1="9d50b816d3f69ad192f5986ab487769965c2e082" md5="b3ecdf113fd42344dd84142679e4cb36"/>
+		<rom name="track01.bin" size="705600" crc="854ae0df" sha1="403b1b1af43e3fc07c65caa09a1cd148926535c6" md5="374a57d38a8ae11b8828d1a9e3113589"/>
+		<rom name="track02.raw" size="5049744" crc="f22eecc1" sha1="2a75736becff72aab81853617559e00f0ee17e44" md5="c46ab7160834641d79038c474886b2c8"/>
+		<rom name="track03.bin" size="1185760800" crc="b9dfc329" sha1="fa4a65688399503ad26e10684dc174ff64964965" md5="f3b54f6cf5f0c000f62d8dee5ba9a62f"/>
+	</game>
+	<game name="Initial D v1.000 (2002)(Sega)(JP)(en)[!][Export Version]">
+		<description>Initial D v1.000 (2002)(Sega)(JP)(en)[!][Export Version]</description>
+		<rom name="Initial D v1.000 (2002)(Sega)(JP)(en)[!][Export Version].gdi" size="87" crc="468c1495" sha1="980036e44ad9d694ea1699cd05c86ccd0c894c47" md5="346fea58ab1a55c577138c5b04319157"/>
+		<rom name="track01.bin" size="1058400" crc="bf11eb06" sha1="bf6dcd4f43cf45e494ace4bee7e66311c82f5f0a" md5="b06e50e5532df603aa36b73bb94667b2"/>
+		<rom name="track02.raw" size="5049744" crc="a689533a" sha1="888a9e7154e36ac4d1e87703c1d4c13196170b1e" md5="f047cc8271ce510930578181b826605d"/>
+		<rom name="track03.bin" size="1185760800" crc="167f12fa" sha1="8fa48c0d06c9c6724a876e06a57776a3b9aabd78" md5="803755eb0460540bbcdaab400817ae05"/>
+	</game>
+	<game name="Initial D v2.002 (2003)(Sega)(JP)(en)[!][Export Version]">
+		<description>Initial D v2.002 (2003)(Sega)(JP)(en)[!][Export Version]</description>
+		<rom name="Initial D v2.002 (2003)(Sega)(JP)(en)[!][Export Version].gdi" size="87" crc="468c1495" sha1="980036e44ad9d694ea1699cd05c86ccd0c894c47" md5="346fea58ab1a55c577138c5b04319157"/>
+		<rom name="track01.bin" size="1058400" crc="cc2ce36f" sha1="f99dc908e87be6bfc1648b3e112e9626927e38eb" md5="c88ea16c24e0549ddf4e10e9e39e7488"/>
+		<rom name="track02.raw" size="5049744" crc="ffdd2b75" sha1="c33cc6b3b414ffddb916b2ffce7ab8fb5107159f" md5="77035477a100c13021b3db6587530033"/>
+		<rom name="track03.bin" size="1185760800" crc="750a8b14" sha1="8fedf49ab5015f3ca624007239f157994dd6b6dc" md5="27244821108fd68081e55c5190788faa"/>
+	</game>
+	<game name="Initial D Ver. 2 v1.004 (2003)(Sega)(JP)(en)[!][Export Version]">
+		<description>Initial D Ver. 2 v1.004 (2003)(Sega)(JP)(en)[!][Export Version]</description>
+		<rom name="Initial D Ver. 2 v1.004 (2003)(Sega)(JP)(en)[!][Export Version].gdi" size="87" crc="468c1495" sha1="980036e44ad9d694ea1699cd05c86ccd0c894c47" md5="346fea58ab1a55c577138c5b04319157"/>
+		<rom name="track01.bin" size="1058400" crc="2a588b85" sha1="ac96db512e8f526bd5dacf32ecc5dc44a8973dd7" md5="b3484fd99ce4cf13014167a1e1125fe8"/>
+		<rom name="track02.raw" size="5049744" crc="13af402d" sha1="8cfc013c7068b2c34bf7055be34379cc935badce" md5="635dcbf82a063483aed23efc97234a8d"/>
+		<rom name="track03.bin" size="1185760800" crc="587975a1" sha1="65ef1e76a5d1b8546a445963fa81f568f28eb1ed" md5="c680ac689e1c5d3d9dfcca5fa29b8f21"/>
+	</game>
+	<game name="Initial D Version 3 v2.001 (2004)(Sega)(JP)(en)[!][Export Version]">
+		<description>Initial D Version 3 v2.001 (2004)(Sega)(JP)(en)[!][Export Version]</description>
+		<rom name="Initial D Version 3 v2.001 (2004)(Sega)(JP)(en)[!][Export Version].gdi" size="87" crc="468c1495" sha1="980036e44ad9d694ea1699cd05c86ccd0c894c47" md5="346fea58ab1a55c577138c5b04319157"/>
+		<rom name="track01.bin" size="1058400" crc="ef4d662f" sha1="dab18f9d1bc2293429a5a314bd95a0038e618e12" md5="498fde4ff8c275ef151e5fa503d34494"/>
+		<rom name="track02.raw" size="5049744" crc="f2f08852" sha1="5eb2a764dca874b2d31b4426d7435f450ded4400" md5="f9a00dd5e6aa712433239b926fc615be"/>
+		<rom name="track03.bin" size="1185760800" crc="e9fc51f4" sha1="e813e9401aab3d0af00e8228ec106269f9a2d617" md5="77bc18c15453eb219c946c47d23c7d1a"/>
+	</game>
+	<game name="Virtua Fighter 4 Evolution Version B v3.002 (2002)(Sega)(JP)(en)[!]">
+		<description>Virtua Fighter 4 Evolution Version B v3.002 (2002)(Sega)(JP)(en)[!]</description>
+		<rom name="track01.bin" size="705600" crc="ce30888f" sha1="c76c247afab27b0f6760f49bd82fa2d8cf74a0da" md5="23c76d398459691478742042114b3386"/>
+		<rom name="track02.raw" size="5049744" crc="c8ac3af4" sha1="a7770aeaa27ad48e9e923ffe8c2de7a6c996f67f" md5="02bfb2e46285c9f535916f1f48bac995"/>
+		<rom name="track03.bin" size="1185760800" crc="34dd13eb" sha1="cab3d4d6f1898769615214942523e424ba93cd9b" md5="c32a5009eb11eeb5e48faf23e31a0872"/>
+		<rom name="Virtua Fighter 4 Evolution Version B v3.002 (2002)(Sega)(JP)(en)[!].gdi" size="87" crc="d7ab4c6b" sha1="9d50b816d3f69ad192f5986ab487769965c2e082" md5="b3ecdf113fd42344dd84142679e4cb36"/>
+	</game>
+	<game name="Virtua Fighter 4 Final Tuned v2.001 (2004)(Sega)(JP)(en)[!]">
+		<description>Virtua Fighter 4 Final Tuned v2.001 (2004)(Sega)(JP)(en)[!]</description>
+		<rom name="track01.bin" size="1058400" crc="eb4075b2" sha1="d7a0e3cfd5c35def60582be1e2e7b195c3c91859" md5="6f96e54de652cba047c25a6a33455136"/>
+		<rom name="track02.raw" size="3179904" crc="6defd61c" sha1="ad380b990ac63c360f6e19938560b5632f260dc3" md5="9756a02542993442226d9b2d2364be23"/>
+		<rom name="track03.bin" size="1185760800" crc="e4d4d491" sha1="52c4a4a22ff632db93f87c01fe9edaec01ebd6dd" md5="1883622bfb621146d73e789f2e160bbc"/>
+		<rom name="Virtua Fighter 4 Final Tuned v2.001 (2004)(Sega)(JP)(en)[!].gdi" size="87" crc="468c1495" sha1="980036e44ad9d694ea1699cd05c86ccd0c894c47" md5="346fea58ab1a55c577138c5b04319157"/>
+	</game>
+	<game name="Virtua Fighter 4 Final Tuned Ver. A v5.000 (2004)(Sega)(JP)(en)[!]">
+		<description>Virtua Fighter 4 Final Tuned Ver. A v5.000 (2004)(Sega)(JP)(en)[!]</description>
+		<rom name="track01.bin" size="1058400" crc="3a168cca" sha1="8063a1c4592cd3d932061fb745e6e4b15d12e9b4" md5="c864eedf2bf96c6b94d5f1186680accc"/>
+		<rom name="track02.raw" size="3179904" crc="9b4e388a" sha1="18358615adccd0d33c9ef4763ecd137e40c759f2" md5="1ea5242f110fb1e118947e64272a3414"/>
+		<rom name="track03.bin" size="1185760800" crc="cdb731f6" sha1="c25346eb02016775a47f83bee0f2b8058eceaa28" md5="8665d36c46435dabf060851b909f692f"/>
+		<rom name="Virtua Fighter 4 Final Tuned Ver. A v5.000 (2004)(Sega)(JP)(en)[!].gdi" size="87" crc="468c1495" sha1="980036e44ad9d694ea1699cd05c86ccd0c894c47" md5="346fea58ab1a55c577138c5b04319157"/>
+	</game>
+	<game name="Virtua Fighter 4 v3.000 (2001)(Sega)(JP)(en)[!][AKA Version B]">
+		<description>Virtua Fighter 4 v3.000 (2001)(Sega)(JP)(en)[!][AKA Version B]</description>
+		<rom name="track01.bin" size="705600" crc="0c1d797a" sha1="e5e58ce8f307e75f3fc199b6f6655e6dab5dc5ae" md5="3b83ef44e496b61e359395262c877190"/>
+		<rom name="track02.raw" size="5049744" crc="78a94bdf" sha1="8c16607f5bba5e863137504f6597c3bc95875aa0" md5="d79d0ac8bad2de05ead0f1722e7a89d5"/>
+		<rom name="track03.bin" size="1185760800" crc="e3ece4f3" sha1="ae638866222669c1f67094aa0b3be0f1ac75a0ed" md5="00bc22bdd28f5a1b918b3a725be66ad1"/>
+		<rom name="Virtua Fighter 4 v3.000 (2001)(Sega)(JP)(en)[!][AKA Version B].gdi" size="87" crc="d7ab4c6b" sha1="9d50b816d3f69ad192f5986ab487769965c2e082" md5="b3ecdf113fd42344dd84142679e4cb36"/>
+	</game>
+	<game name="Virtua Fighter 4 Version C v4.000 (2001)(Sega)(JP)(en)[!]">
+		<description>Virtua Fighter 4 Version C v4.000 (2001)(Sega)(JP)(en)[!]</description>
+		<rom name="track01.bin" size="705600" crc="d8750368" sha1="96fbfda4afa65d5f736e90f9c1d843bedc6ce507" md5="c4a4ae729a192530ab77f250f094cf1e"/>
+		<rom name="track02.raw" size="5049744" crc="757ef558" sha1="642da4ac41f9703dc2935c74b2e06abf29d96220" md5="613063510b501a1cebdf4c8ef9160ef6"/>
+		<rom name="track03.bin" size="1185760800" crc="9da675cd" sha1="0097fb60750e61896f7b326eedeffef4c1086ca1" md5="83ec1eaf9c858d9da11c62511b525633"/>
+		<rom name="Virtua Fighter 4 Version C v4.000 (2001)(Sega)(JP)(en)[!].gdi" size="87" crc="d7ab4c6b" sha1="9d50b816d3f69ad192f5986ab487769965c2e082" md5="b3ecdf113fd42344dd84142679e4cb36"/>
+	</game>
+	<game name="Virtua Striker 3 v1.003 (2001)(Sega)(JP)(en)[!]">
+		<description>Virtua Striker 3 v1.003 (2001)(Sega)(JP)(en)[!]</description>
+		<rom name="track01.bin" size="705600" crc="70e06367" sha1="fb912756606e5ca1e4402c8977b3f58f16de43ac" md5="54a9f521b22bdb3fb1f12d7af42240fb"/>
+		<rom name="track02.raw" size="5016816" crc="64b43b25" sha1="8613adfd1f9f06a24bdda02cf7386367ee1fcee8" md5="55af65051652b54156dd0a3957300157"/>
+		<rom name="track03.bin" size="1185760800" crc="8f8adc42" sha1="f166ae11481dc6e343391df7cb67da236fd8ab0b" md5="d337922696f76f21d6b71c31dcc43934"/>
+		<rom name="Virtua Striker 3 v1.003 (2001)(Sega)(JP)(en)[!].gdi" size="87" crc="d7ab4c6b" sha1="9d50b816d3f69ad192f5986ab487769965c2e082" md5="b3ecdf113fd42344dd84142679e4cb36"/>
+	</game>
+</datafile>

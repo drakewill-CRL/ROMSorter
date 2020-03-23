@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Visual Pinball [VP9] PinMame Tables</name>
+		<description>Visual Pinball [VP9] PinMame Tables</description>
+		<category>Visual Pinball [VP9] PinMame Tables</category>
+		<version>1.0</version>
+		<date>2020-01-01</date>
+		<author>Yori Yoshizuki</author>
+		<email>-insert email-</email>
+		<homepage>Yori Yoshizuki</homepage>
+		<url>https://yoshizuki.webs.com</url>
+		<comment>-insert comment-</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Algar (Williams)(1980)">
+		<description>Algar (Williams)(1980)</description>
+		<rom name="Algar (Williams)(1980)(Practicedummy)(1.21)[VP9].vpt" size="17526784" crc="34c3fbbf" sha1="f4166129efbd0e8bfba95718f1316380edacfb10"/>
+		<rom name="Algar screenshot.jpg" size="786477" crc="d99e1424" sha1="2f8aebf67851cb0dc2b8274f7b51902025a30297"/>
+	</machine>
+	<machine name="Atlantis (Bally)(1989)">
+		<description>Atlantis (Bally)(1989)</description>
+		<rom name="Atlantis (Bally)(1989)(MajikBubble)(1.01)[VP9].vpt" size="3162112" crc="74fbb5d2" sha1="24a4ab15385150bc9b55978065cd555664999034"/>
+	</machine>
+	<machine name="Baby Pac-Man (Bally)(1982)">
+		<description>Baby Pac-Man (Bally)(1982)</description>
+		<rom name="Baby Pac-Man (Bally)(1982)(unclwilly)(1.0)[VP9].vpt" size="10100736" crc="afa1f834" sha1="0b3430143bb627d6532916fca47a032b7093b439"/>
+		<rom name="BabyPacman ReadMe.txt" size="821" crc="88921cc7" sha1="735ad3fc27fef72672824481b657bd2ea7c00272"/>
+		<rom name="vpkeycodes.rtf" size="3636" crc="2f41e074" sha1="0ff1634892f1e170be14b53a2b244d92c1b59380"/>
+	</machine>
+	<machine name="Big Town (Playmatic)(1978)">
+		<description>Big Town (Playmatic)(1978)</description>
+		<rom name="Big Town (Playmatic)(1978)(TAB, Destruk)(1.02)[VP9].vpt" size="5656576" crc="4f30a43f" sha1="479bdcd667d861f26c1ca69a3cd8d0544951a1c4"/>
+		<rom name="Big Town screenshot.jpg" size="588435" crc="30b9d1e1" sha1="3b8edaf88a12dd42aca371f2d4faa36c95c5d959"/>
+	</machine>
+	<machine name="Bow and Arrow (Bally)(1974)">
+		<description>Bow and Arrow (Bally)(1974)</description>
+		<rom name="B&amp;A_JP_VP9.hta" size="2890" crc="ee91a72a" sha1="e6edbaaecb733b018f6acbec19d990a8d9872d35"/>
+		<rom name="Bow and Arrow (Bally)(1974)(JPSalas)(1.03)[VP9].vpt" size="11052032" crc="356a79ec" sha1="9822ebb887f9a16d6e8b616bfd0ed1aac20b6f88"/>
+		<rom name="Bow and Arrow screenshot.jpg" size="731480" crc="efd41df8" sha1="43c77917ef977ca64fba25164120ac4523084186"/>
+	</machine>
+	<machine name="Chance (Playmatic)(1978)">
+		<description>Chance (Playmatic)(1978)</description>
+		<rom name="Chance (Playmatic)(1978)(TAB, Destruk)(1.02)[VP9].vpt" size="2539520" crc="67d2047f" sha1="b59f0ed22f2b2068e441096891c9aa7aa19283f1"/>
+		<rom name="Chance screenshot.jpg" size="157149" crc="5526222e" sha1="1ec462a87d2faecb29bf4cb1822056c8061bd50a"/>
+	</machine>
+	<machine name="Circus Voltaire (Bally)(1997)(JPSalas)(1.0)[VP908]">
+		<description>Circus Voltaire (Bally)(1997)(JPSalas)(1.0)[VP908]</description>
+		<rom name="Circus_Voltaire_VP9_1.0.vpt" size="21304832" crc="fa2e7820" sha1="6189801f48c46205d69b083dc272b24f509b927c"/>
+		<rom name="colorballs\blue\MBallBL.bmp" size="12344" crc="91a86576" sha1="66b007e51b9cdfe7e250c5e759ec52f8c899dd7b"/>
+		<rom name="colorballs\blue\MBallBR.bmp" size="12344" crc="fcd757f4" sha1="e3f39ef2ae59aec7ac8fc4ae8aa879c387af1c7c"/>
+		<rom name="colorballs\blue\MBallTL.bmp" size="12344" crc="c546e50c" sha1="123e4435716eaa8a689e0b7059d749c92ed41481"/>
+		<rom name="colorballs\blue\MBallTR.bmp" size="12344" crc="d547b2c6" sha1="9b67586fe6f3da4f28407a22c97b10e9fb9ce71d"/>
+		<rom name="colorballs\color_balls.jpg" size="205811" crc="130e69fd" sha1="a7f56b0ba06707648650e908fd7e7a72f40fa3ec"/>
+		<rom name="colorballs\green\MBallBL.bmp" size="12344" crc="7069d381" sha1="e7ce8318f6aa80cfc5401793c7dee6f76e470f20"/>
+		<rom name="colorballs\green\MBallBR.bmp" size="12344" crc="eaf1c939" sha1="1685b2c5d7f90c432bf5b038a8955f74a5045ff9"/>
+		<rom name="colorballs\green\MBallTL.bmp" size="12344" crc="014c0219" sha1="f03451ffb44c367f35b5074a623b60561c10d4e4"/>
+		<rom name="colorballs\green\MBallTR.bmp" size="12344" crc="5ca057f3" sha1="a98581818a3499845928fdd6d2e5dbc9d297da7e"/>
+		<rom name="colorballs\lilla\MBallBL.bmp" size="12344" crc="ea1a73eb" sha1="b8563a83a67936237c5d21126cd25a723d3612dd"/>
+		<rom name="colorballs\lilla\MBallBR.bmp" size="12344" crc="79cf4a85" sha1="11a22e81796795a5c2a6705468dfabfd3712b917"/>
+		<rom name="colorballs\lilla\MBallTL.bmp" size="12344" crc="66f00183" sha1="325defa13370cb336a61be0f38314317b2df70c7"/>
+		<rom name="colorballs\lilla\MBallTR.bmp" size="12344" crc="e155a23e" sha1="b2ae98e3d8c76266cfdd9874fda497fc9cfc2feb"/>
+		<rom name="colorballs\red\MBallBL.bmp" size="12344" crc="46840965" sha1="8e578da8242f19057fb5dae8fbefb557458083b4"/>
+		<rom name="colorballs\red\MBallBR.bmp" size="12344" crc="ac2867af" sha1="cc9a04c317e067d8be2a11a55619747f7fe9d5f1"/>
+		<rom name="colorballs\red\MBallTL.bmp" size="12344" crc="44cb33b7" sha1="2ce14273c4c1f214c9ce5e37b935c8b6c631cb65"/>
+		<rom name="colorballs\red\MBallTR.bmp" size="12344" crc="f8b17727" sha1="922b16415ac71b64990e46420810f222069841fd"/>
+		<rom name="colorballs\yellow\MBallBL.bmp" size="12344" crc="5d8c38cc" sha1="918b65d060da19ae5e479b081190c9de995ce439"/>
+		<rom name="colorballs\yellow\MBallBR.bmp" size="12344" crc="94bf90a9" sha1="8e7e3a3a0ae184b66b7defdb2b6ccab903ba856f"/>
+		<rom name="colorballs\yellow\MBallTL.bmp" size="12344" crc="11b1bdf7" sha1="fc7f13c5afb27fd7d4e602bafaf24f8e6ac0e778"/>
+		<rom name="colorballs\yellow\MBallTR.bmp" size="12344" crc="d16966e1" sha1="ff59203fd67f45c02f2a3fb4775142e021ad7160"/>
+		<rom name="CV_JP_VP9.hta" size="49747" crc="12e15444" sha1="f1a7d11b55f1bd05ecb1bc3558474ec873744914"/>
+	</machine>
+	<machine name="Close Encounters (Gottlieb)(1978)">
+		<description>Close Encounters (Gottlieb)(1978)</description>
+		<rom name="Close Encounters (Gottlieb)(1978)(Serpiko)(1.0)[VP9].vpt" size="18391040" crc="13e7a342" sha1="18b85f1b3e710d04bb0203552940febbe75c9527"/>
+		<rom name="Close Encounters screenshot.png" size="851549" crc="e9caa955" sha1="89ae5e41e9ea60062efa50e21dbcc0df3074d6f0"/>
+	</machine>
+	<machine name="Cowboy Eight Ball (LTD)(1981)">
+		<description>Cowboy Eight Ball (LTD)(1981)</description>
+		<rom name="Cowboy Eight Ball (LTD)(1981)(TAB, Destruk)(1.1)[VP9].vpt" size="8638464" crc="ec14fa1a" sha1="9cfa431e92732bb8dd2878ef3a2fa6f59794aec4"/>
+		<rom name="Cowboy Eight Ball screenshot.jpg" size="164584" crc="9f004eb0" sha1="d43a435465baff43dd06f3a58adc9da20d563dd0"/>
+		<rom name="LTD.vbs" size="4429" crc="73e0aa3a" sha1="8c687ab67dad0520c857420f74c9bca92185aff3"/>
+	</machine>
+	<machine name="Cueball Wizard (Gottlieb)(1992)(JPSalas)(1.0.1)[VP9]">
+		<description>Cueball Wizard (Gottlieb)(1992)(JPSalas)(1.0.1)[VP9]</description>
+		<rom name="CBW_JP_VP9.hta" size="24819" crc="cb403eb6" sha1="75652012d273f2a1dd0d9ca1908d6728b375e96c"/>
+		<rom name="Cueball_Wizard_VP9_1.01.vpt" size="12809728" crc="aec1ea71" sha1="a0e47d4c992b5e0e8c05a239e72ffc1389c47d48"/>
+	</machine>
+	<machine name="Eight Ball (Bally)(1977)">
+		<description>Eight Ball (Bally)(1977)</description>
+		<rom name="eb-Flyer.exe" size="1534182" crc="e3a016c2" sha1="a1ffb2a08dc23afd11e91afe4f3a2763ddd91045"/>
+		<rom name="eb-Rules.exe" size="903045" crc="f3587522" sha1="2c6cbdced1946324116974fb8115b4525c716872"/>
+		<rom name="Eight Ball (Bally)(1977)(Megapin)(2.0)[VP9].vpt" size="13015552" crc="e3f7bb3b" sha1="615a9c7c5acde8622a876f2468fd59523cdefd27"/>
+		<rom name="Readme.txt" size="1035" crc="6afeb9d5" sha1="e6ad6e1a83487998bce063a20f4f719cadf90dad"/>
+	</machine>
+	<machine name="Firepower (Williams)(1980)">
+		<description>Firepower (Williams)(1980)</description>
+		<rom name="Firepower (Williams)(1980)(UncleReamus, Noah Fentz)(1.0)[VP9].vpt" size="13553664" crc="28283b74" sha1="c797eacdab00f2c7517757913c18eb4e81774965"/>
+		<rom name="Firepower screenshot.jpg" size="1582760" crc="23c57ed4" sha1="7ca4f29c8a10318d0e028fa6f7b774a6deca84f0"/>
+	</machine>
+	<machine name="Fish Tales (Williams)(1992)(melon)(1.02)[VP9]">
+		<description>Fish Tales (Williams)(1992)(melon)(1.02)[VP9]</description>
+		<rom name="Fish Tales VP9 1.02.vpt" size="23788032" crc="b5256200" sha1="3edf04747b47a594702449516a9bf647dc6f281f"/>
+	</machine>
+	<machine name="Getaway, The - High Speed II (Williams)(1992)">
+		<description>Getaway, The - High Speed II (Williams)(1992)</description>
+		<rom name="Getaway, The - High Speed II (Williams)(1992)(Noah Fentz, UncleReamus)(1.03)[VP9].vpt" size="14263808" crc="c85195ad" sha1="078c467fe0211bf55971f8e9fb1fee58ffbe824b"/>
+		<rom name="Getaway, The - High Speed II screenshot.jpg" size="245070" crc="af0b9fa4" sha1="0b04f854eaaae30afb86980901a1c2833addc41e"/>
+	</machine>
+	<machine name="Hexagone, L'  (Christian Automatic)(1986)">
+		<description>Hexagone, L'  (Christian Automatic)(1986)</description>
+		<rom name="Hexagone, L'  (Christian Automatic)(1986)(TAB, Destruk)(1.0)[VP9].vpt" size="10276864" crc="dcd3068e" sha1="da8e2fd0b70bb47540070bf3844e53e1bdf1d887"/>
+		<rom name="Hexagone, L' screenshot.jpg" size="158960" crc="5d54e46b" sha1="9297f7737b1378d6acfb6e3f147627311612a9ae"/>
+	</machine>
+	<machine name="Ice Fever (Gottlieb)(1985)">
+		<description>Ice Fever (Gottlieb)(1985)</description>
+		<rom name="Ice Fever (Gottlieb)(1985)(Itchigo)(1.0)[VP9].vpt" size="11018240" crc="4c38f347" sha1="d1cb5220a4bb14f0576e76b07ba76a63cf6c6909"/>
+		<rom name="Ice Fever screenshot.jpg" size="212615" crc="48235290" sha1="5495354c227ae3d7d4ced188819e2eb479a1feb5"/>
+	</machine>
+	<machine name="Joker Poker (Gottlieb)(1978)">
+		<description>Joker Poker (Gottlieb)(1978)</description>
+		<rom name="Joker Poker (Gottlieb)(1978)(Serpiko)(1.0)[VP9].vpt" size="17072128" crc="e0fc9fc5" sha1="de36e0f453cba095c79d8a9ea5e20f4a1d7d2215"/>
+		<rom name="Joker Poker screenshot.png" size="572012" crc="38af1a7e" sha1="0a3a59662cb6bbae6596f1559c5ab4f9ba470dcf"/>
+	</machine>
+	<machine name="Junk Yard (Williams)(1996)">
+		<description>Junk Yard (Williams)(1996)</description>
+		<rom name="Junk Yard (Williams)(1996)(Destruk, mfuegemann)(1.4)[VP9].vpt" size="11694080" crc="63f8e3b0" sha1="bcfc8e195aef4e837f3d7b6af1c041bb052f41af"/>
+		<rom name="Junk Yard screenshot.jpg" size="566838" crc="e7327694" sha1="f4e45e19d1f7e23d2df5f13213acde1bbb98fd33"/>
+	</machine>
+	<machine name="Last Lap (Playmatic)(1978)">
+		<description>Last Lap (Playmatic)(1978)</description>
+		<rom name="Last Lap (Playmatic)(1978)(TAB, Destruk, Gaston)(2.01)[VP9].vpt" size="2621440" crc="548faf34" sha1="66ef2dad0178ad6f73c91417eb592e52a55a6c57"/>
+		<rom name="Last Lap screenshot.jpg" size="1289893" crc="9280541b" sha1="9291573e1557ef6f21edb499ec116d70f7deae0a"/>
+	</machine>
+	<machine name="Lightning (Stern)(1981)">
+		<description>Lightning (Stern)(1981)</description>
+		<rom name="Lightning (Stern)(1981)(TAB)(1.0)[VP9].vpt" size="4509696" crc="56b43e59" sha1="79bd3b5f4dde458bede583177f717223edce5574"/>
+		<rom name="Lightning screenshot.jpg" size="162781" crc="4fa0d5d9" sha1="976162f8953cbba1ac7bd4319fd558863fdeeb7c"/>
+	</machine>
+	<machine name="Monopoly (Stern)(2001)">
+		<description>Monopoly (Stern)(2001)</description>
+		<rom name="Monopoly (Stern)(2001)(PacDude)(V3)[VP9][MOD eyes0fblue v1.3].vpt" size="8482816" crc="ccb496ba" sha1="dd8673b96c6e8c908281b804e18203f3990a6bde"/>
+		<rom name="Monopoly screenshot.jpg" size="106928" crc="9765c36f" sha1="6c5be887f1aa4a5ce25c83b6df422261ec3109c8"/>
+	</machine>
+	<machine name="Nugent (Stern)(1978)">
+		<description>Nugent (Stern)(1978)</description>
+		<rom name="Nugent (Stern)(1978)(TAB, Destruk, Inkochnito)(1.0)[VP9].vpt" size="1497088" crc="98575827" sha1="8495fdfa92ae073ab04ae16ccebb3eca9fbeb340"/>
+		<rom name="Nugent screenshot.jpg" size="148112" crc="8ed0a06a" sha1="c95ad6154aa6a11e163361a7dd06a2b50fd0674e"/>
+	</machine>
+	<machine name="Phantom of the Opera, The (Data East)(1990)">
+		<description>Phantom of the Opera, The (Data East)(1990)</description>
+		<rom name="Phantom of the Opera, The (Data East)(1990)(Lord Hiryu)(1.0)[VP9].vpt" size="10292736" crc="fd03c5a1" sha1="a375c236667e2d1aaef789d4e68694ab17b05d48"/>
+		<rom name="Phantom of the Opera, The screenshot.jpg" size="415661" crc="55d55cfc" sha1="2514d1df21048808122f5a2be69247bc1eda4648"/>
+	</machine>
+	<machine name="Rescue 911 (Gottlieb)(1994)">
+		<description>Rescue 911 (Gottlieb)(1994)</description>
+		<rom name="Rescue 911 (Gottlieb)(1994)(Zedonius)(1.0)[VP9][Hi-Res].vpt" size="21925888" crc="8a6c792a" sha1="54d6d148a918e1bec36b4226fbdf662271a8e645"/>
+		<rom name="Rescue 911 screenshot.jpg" size="706832" crc="b729ada5" sha1="919572fda54821b4a45cd3fc3ab76342fe344202"/>
+	</machine>
+	<machine name="Ski Jump (Zaccaria)(1977)">
+		<description>Ski Jump (Zaccaria)(1977)</description>
+		<rom name="Ski Jump (Zaccaria)(1977)(Luvthatapex, Destruk)(1.0)[VP9].vpt" size="3424256" crc="629934de" sha1="62cfde197320ff17ce4c384a13bc16f3a2d077ca"/>
+		<rom name="Ski Jump screenshot.jpg" size="393933" crc="55febe93" sha1="b7e9f022e5bed3be96cb647dfc51806c07596f7a"/>
+	</machine>
+	<machine name="Solar Wars (Segasa d.b.a. Sonic)(1986)">
+		<description>Solar Wars (Segasa d.b.a. Sonic)(1986)</description>
+		<rom name="Solar Wars (Sonic)(1986)(Destruk, TAB)(1.2)[VP9].vpt" size="9523200" crc="f59e2cff" sha1="51063f2a2d9fa01bbf3c2c30b87e38df22b901f9"/>
+		<rom name="Solar Wars screenshot.jpg" size="969399" crc="23ffd766" sha1="67fd807b3ad8e9720a5f6221f8dbb31c7ec4cdef"/>
+	</machine>
+	<machine name="Sorcerer (Williams)(1985)">
+		<description>Sorcerer (Williams)(1985)</description>
+		<rom name="Sorcerer (Williams)(1985)(UncleReamus, Noah Fentz)(1.1)[VP9].vpt" size="17784832" crc="5036462d" sha1="30f048ba2b5d68eafb46970ed41ac3e13b4998cf"/>
+		<rom name="Sorcerer screenshot.jpg" size="1544027" crc="1c428d0b" sha1="b401c633e952e13f713bcaeee0ffbc6991b11f9f"/>
+		<rom name="Sorcerer_LargeTextures\FlashersPF.jpg" size="2371355" crc="3f6cffae" sha1="75a3bb23da235bd5b96f81970b7e6b88346e9e77"/>
+		<rom name="Sorcerer_LargeTextures\FlashersPlastics.jpg" size="1173360" crc="d850d1b6" sha1="9ce4c0493f2e19444aba13eadb9c82c71bda0602"/>
+		<rom name="Sorcerer_LargeTextures\GIOff.jpg" size="1827313" crc="4bdde709" sha1="490502b9217053e3aefa99af277ef73ee1c1cbc5"/>
+		<rom name="Sorcerer_LargeTextures\LightsOff(Original).jpg" size="2290942" crc="0c9496f0" sha1="59c7568747c5e5a9d2f70d43f3b03b6a2a58e11f"/>
+		<rom name="Sorcerer_LargeTextures\LightsOn(Original).jpg" size="2417500" crc="a5a6f574" sha1="77c15afe8e2d143ec22d477b780a9b0a67c192b5"/>
+		<rom name="Sorcerer_LargeTextures\LightsOnA(Original).jpg" size="2403957" crc="22602842" sha1="19aeb5146b5c42ccaa9e4356331653584e2d8723"/>
+		<rom name="Sorcerer_LargeTextures\LightsOnB(Original).jpg" size="2387533" crc="b4a1fce1" sha1="c2fc3293028120c31eec8669cca1faa3dc5dc1b4"/>
+		<rom name="Sorcerer_LargeTextures\Metals.jpg" size="117077" crc="3a843e3a" sha1="38e43ab84b7b326d3c64f14638e6629e87825f9c"/>
+		<rom name="Sorcerer_LargeTextures\PlasticsGIOff.jpg" size="978572" crc="b064b910" sha1="013efec9b526d4fdca9ca13cf9cf91ca2a302001"/>
+		<rom name="Sorcerer_LargeTextures\SorcererBackdrop.jpg" size="516202" crc="6fce8313" sha1="d0d144b48d88d75abcca423535fd8b46239f015f"/>
+		<rom name="Sorcerer_LargeTextures\SorcererPlastics.jpg" size="1154048" crc="ca603833" sha1="c1e981eeca68880eaa8587c2faec30b0e6653bd8"/>
+	</machine>
+	<machine name="Space Shuttle (Williams)(1984)">
+		<description>Space Shuttle (Williams)(1984)</description>
+		<rom name="Space Shuttle (Williams)(1984)(melon)(1.01)[VP9].vpt" size="12674560" crc="9c2a2cc7" sha1="a71fea398e53bd1fa34d43c8621aa14e6d8bd5ec"/>
+	</machine>
+	<machine name="Supersonic (Bally)(1979)(serpiko)(1.0)[VP9]">
+		<description>Supersonic (Bally)(1979)(serpiko)(1.0)[VP9]</description>
+		<rom name="BALLY - SUPERSONIC_VP9_1.0.vpt" size="13078528" crc="bd61d61b" sha1="cd2af76195e204d310e408b02f10dacc5083a44d"/>
+		<rom name="BALLY SUPERSONIC 1.0.png" size="797052" crc="eb84c6bd" sha1="f9336fccb330be9b75b0d6cb09c705107e374af9"/>
+	</machine>
+	<machine name="Terminator 3 - Rise of the Machines (Stern)(2003)(MEGAPIN)(1.1)[VP9]">
+		<description>Terminator 3 - Rise of the Machines (Stern)(2003)(MEGAPIN)(1.1)[VP9]</description>
+		<rom name="Rules-T3.exe" size="1139942" crc="49014fde" sha1="5384a3845eeb4e884d2cfd78322336fd5362e6df"/>
+		<rom name="screenshot.jpg" size="435847" crc="5b54731b" sha1="e3cb0821166df141c62245300c183373c5096da3"/>
+		<rom name="STERN - Terminator 3 - Rise of the Machines - MEGAPIN - V1.1 - VP9.vpt" size="15790592" crc="062bc802" sha1="71e7b8d0ad0a3374a2852d3333473708b6bede83"/>
+	</machine>
+	<machine name="Volcano (Gottlieb)(1981)">
+		<description>Volcano (Gottlieb)(1981)</description>
+		<rom name="Volcano (Gottlieb)(1981)(Luvthatapex, Destruk)(1.31)[VP9].vpt" size="3129344" crc="ba33f8d9" sha1="1dadb75da6e61b9e6699c2e08dfdc0814b54e473"/>
+		<rom name="Volcano screenshot.jpg" size="1259331" crc="074c9785" sha1="cf497f779f86ad5453723a3dec24f6dc280623b6"/>
+	</machine>
+	<machine name="Whirlwind (Williams)(1990)(UncleReamus, Noah Fentz)(1.4.8)[VP905]">
+		<description>Whirlwind (Williams)(1990)(UncleReamus, Noah Fentz)(1.4.8)[VP905]</description>
+		<rom name="music\Whirlwind-Fan.zip" size="820600" crc="01ab2d03" sha1="7de9c2ffcbbdd3530b991e05579065872c3a7a6d"/>
+		<rom name="music\Whirlwind-Wind.zip" size="1509850" crc="db7c3e57" sha1="2875ed146dd122830b336d544e0cef82a35eefca"/>
+		<rom name="screenshot.jpg" size="1424656" crc="92ccf260" sha1="b4fa818be4ba2c8a3db0d1db851aae1507da2a46"/>
+		<rom name="Whirlwind_VP9_NF-UR_v1.4.8.vpt" size="18051584" crc="05744d87" sha1="4e3394b352b496b7f6e5aa4fbf0fc5456120a8a4"/>
+	</machine>
+	<machine name="Winter Sports (Zaccaria)(1978)(JPSalas, CompuFox, Greynurse db2s)(1.0a)[VP9]">
+		<description>Winter Sports (Zaccaria)(1978)(JPSalas, CompuFox, Greynurse db2s)(1.0a)[VP9]</description>
+		<rom name="Winter Sports SS VP9.directb2s" size="5708100" crc="9fda4250" sha1="0411204daa6ce4e79c6fb13e4728fe2100645aa3"/>
+		<rom name="Winter Sports SS VP9.vpt" size="2912256" crc="cebcfd42" sha1="544ff4ddfd22e3d7b6b6b650e69ad69f65ee4225"/>
+	</machine>
+	<machine name="Xenon (Bally)(1980)">
+		<description>Xenon (Bally)(1980)</description>
+		<rom name="Xenon (Bally)(1980)(unclewilly, loafer)(1.1)[VP9].vpt" size="15338496" crc="3739ad21" sha1="232cb681a9b2361359ec8072dcd82e14f7bbabc7"/>
+		<rom name="Xenon screenshot.jpg" size="1075824" crc="6b53d260" sha1="43415e7c2e954c418f63e4b0b72af20f9217b6d5"/>
+	</machine>
+</datafile>

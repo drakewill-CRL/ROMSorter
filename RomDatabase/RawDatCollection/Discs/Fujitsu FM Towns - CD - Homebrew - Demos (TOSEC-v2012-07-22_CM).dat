@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Fujitsu FM Towns - CD - Homebrew - Demos</name>
+		<description>Fujitsu FM Towns - CD - Homebrew - Demos (TOSEC-v2012-07-22)</description>
+		<category>TOSEC-ISO</category>
+		<version>2012-07-22</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Mode 7 Demo (2008-01-06)(RasterSoft)">
+		<description>Mode 7 Demo (2008-01-06)(RasterSoft)</description>
+		<rom name="Mode 7 Demo (2008-01-06)(RasterSoft).iso" size="757760" crc="18e17d66" md5="f7da6c42e1ef19a4a3b73145ba157cf0" sha1="d61b351e5b33a0433532c6bb02d3d5c2e180b18e"/>
+	</game>
+</datafile>

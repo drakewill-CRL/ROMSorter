@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sanyo MBC-550 &amp; 555 - Games - [TD0]</name>
+		<description>Sanyo MBC-550 &amp; 555 - Games - [TD0] (TOSEC-v2018-11-15)</description>
+		<category>TOSEC</category>
+		<version>2018-11-15</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Cashman (1984)(Michtron)">
+		<description>Cashman (1984)(Michtron)</description>
+		<rom name="Cashman (1984)(Michtron).td0" size="34844" crc="baecaef3" md5="811983553cd36947c3737c2f43040c2c" sha1="0a17be5ea8864e6bc9074acbea39d28a2828d53d"/>
+	</game>
+	<game name="Demon Seed (1984)(Michtron)">
+		<description>Demon Seed (1984)(Michtron)</description>
+		<rom name="Demon Seed (1984)(Michtron).td0" size="29464" crc="11d9577b" md5="442ed6241ab2f6b67a4f0b9625f9ae96" sha1="15a5927809aa5762a6289386935d1a2c24e8d239"/>
+	</game>
+	<game name="Major Motion (19xx)(Michtron)[cp]">
+		<description>Major Motion (19xx)(Michtron)[cp]</description>
+		<rom name="Major Motion (19xx)(Michtron)[cp].td0" size="66982" crc="f65ac350" md5="e6b38d93ae19088e17aa63662631eea3" sha1="ac468ad5c08014a4363ce95405e885439022f025"/>
+	</game>
+	<game name="Mudpies (19xx)(Michtron)[cp]">
+		<description>Mudpies (19xx)(Michtron)[cp]</description>
+		<rom name="Mudpies (19xx)(Michtron)[cp].td0" size="51811" crc="224b61d2" md5="b36db47ad71ab15d3c7dfa042646b0c6" sha1="f32c2b8b8eb2b6423442d661af1dcfbaa868565e"/>
+	</game>
+	<game name="Time Bandit v1.1 (1984)(Michtron)[cp]">
+		<description>Time Bandit v1.1 (1984)(Michtron)[cp]</description>
+		<rom name="Time Bandit v1.1 (1984)(Michtron)[cp].td0" size="44591" crc="90247820" md5="c680511dbd11d2c97277f24bd337586d" sha1="1993e329b57353c23cc7249efc0dc7a5fd9f0c61"/>
+	</game>
+</datafile>

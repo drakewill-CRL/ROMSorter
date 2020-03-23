@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Visual Pinball [VPXx] Recreated Tables [Flipperless]</name>
+		<description>Visual Pinball [VPXx] Recreated Tables [Flipperless]</description>
+		<category>Visual Pinball [VPXx] Recreated Tables [Flipperless]</category>
+		<version>1.0</version>
+		<date>2020-01-01</date>
+		<author>Yori Yoshizuki</author>
+		<email>-insert email-</email>
+		<homepage>Yori Yoshizuki</homepage>
+		<url>https://yoshizuki.webs.com</url>
+		<comment>-insert comment-</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Alle Neune (NSM)(1969)(STAT, hmueck, bord)(1.1)[VPX06][Table Top Counter]">
+		<description>Alle Neune (NSM)(1969)(STAT, hmueck, bord)(1.1)[VPX06][Table Top Counter]</description>
+		<rom name="1.0\Alle Neune (NSM 1969).vpx" size="32899072" crc="3cfa8275" sha1="4336911f2eb7e7ffba6a52479c76085ef79ee551"/>
+		<rom name="1.1\Alle Neune (NSM 1969).vpx" size="33370112" crc="91079252" sha1="fd63b1cbc7cf688761885e895637a570738f0bac"/>
+		<rom name="Alle Neune (NSM 1969).jpg" size="93886" crc="157c5101" sha1="88d50a9f818b9f95b3ebd2042604a123129ee856"/>
+		<rom name="Alle Neune (NSM 1969).png" size="33592" crc="84a4264e" sha1="a6eeee00f978ef07735c70f268445a2c2efa464d"/>
+		<rom name="Alle-Neune-DT-1-480x600-1038x1297.png" size="1959484" crc="f6e3ccfc" sha1="41cd723640db2f970782d5a85e1e0c4f9befba8a"/>
+		<rom name="Photo.jpg" size="69688" crc="6a2e89ee" sha1="adfb3c7f2901c9ada286893dd4bcfd810a210007"/>
+	</machine>
+	<machine name="Bally Beauty (Bally)(1952)(Druadic)(1.1)[VPX06][Bingo]">
+		<description>Bally Beauty (Bally)(1952)(Druadic)(1.1)[VPX06][Bingo]</description>
+		<rom name="BeautyV1.1VPX.vpx" size="10244096" crc="043bc759" sha1="66fe26b75c80e8474a60d960a3667bc8c434f274"/>
+		<rom name="beautyvpxscreenshot_se9.jpg" size="705249" crc="32f73234" sha1="94dad770878bc74d4bfe3fcf8f9e6dd4d1c31a44"/>
+		<rom name="CenterCard.bmp" size="262158" crc="294a89d9" sha1="96661a456e899953f3308ec579f3bfa0c2bca43d"/>
+		<rom name="LeftSideCard.png" size="232490" crc="b0f35285" sha1="bcadee8675f58e54f032100725eff0d0ffd37caa"/>
+	</machine>
+	<machine name="Bank-A-Ball J.F. Linck Corp)(1932)(Druadic)(1.0[VPX06][Flipperless]">
+		<description>Bank-A-Ball J.F. Linck Corp)(1932)(Druadic)(1.0[VPX06][Flipperless]</description>
+		<rom name="BankABall VPX6.vpx" size="9240576" crc="1e538c42" sha1="a405e65e9874a8f9cbfd72c40143ce9589da6105"/>
+		<rom name="bankaballscreenshot_E0C.jpg" size="374616" crc="cf68da12" sha1="cf076a6aec6ba06b95f188cd2fba8be16ab2e229"/>
+	</machine>
+	<machine name="Bat-Em (In &amp; Outdoor Games Co.)(1932)(Druadic)(1.0)[VPX06][Flipperless]">
+		<description>Bat-Em (In &amp; Outdoor Games Co.)(1932)(Druadic)(1.0)[VPX06][Flipperless]</description>
+		<rom name="batemscreenshot_5Q5.jpg" size="597716" crc="30020880" sha1="c6c67928ceaeedb73f2c775586ebf1de09d92c03"/>
+		<rom name="BatEmVPX.vpx" size="14667776" crc="ae8c6a75" sha1="b301d0ac72812e4b219f53bf07f82684947a527e"/>
+	</machine>
+	<machine name="Bell Ringer (Gottlieb)(1990)(Rascal)(1.1)[VPX06][Skill Machine][VP8 conversion]">
+		<description>Bell Ringer (Gottlieb)(1990)(Rascal)(1.1)[VPX06][Skill Machine][VP8 conversion]</description>
+		<rom name="1.0\Bell Ringer (Gottlieb 1990).vpx" size="2445312" crc="17146ae5" sha1="718aa260b056c4cc30b7a530505f484e7a0372bd"/>
+		<rom name="1.0\bell ringer.png" size="1434523" crc="3b92edcb" sha1="bdba599087ba6531821663ec7516571ec78cebb1"/>
+		<rom name="1.1\Bell Ringer (Gottlieb 1990).vpx" size="2445312" crc="4a0471cd" sha1="a855d4b74069c38708f936e92363166939fdf1d1"/>
+		<rom name="1.1\bellringerss16-9.png" size="1107401" crc="f1f0585f" sha1="261f669da9b36b31334a9086257a074ea07fd15b"/>
+		<rom name="1.1\bellringerss16-9fs.png" size="1884055" crc="69dbb86f" sha1="41095a2bccb521065eb9bbaaaa3d15ee67b4eff4"/>
+	</machine>
+	<machine name="Best Hand (Daval)(1947)(Druadic)(1.0)[VPX06][Skill Machine]">
+		<description>Best Hand (Daval)(1947)(Druadic)(1.0)[VPX06][Skill Machine]</description>
+		<rom name="besthandscreenshot_2Rb.jpg" size="639111" crc="29fe6eea" sha1="45d1a3bc6b52e1d4360e1efd08fd4d45719a3540"/>
+		<rom name="BestHandVPX.vpx" size="6057984" crc="265533d4" sha1="b87e4e5b6f47ee3bd1b26a71a1b9eb537a4c0114"/>
+	</machine>
+	<machine name="Bonanza (Exhibit Supply Co.)(1935)(Druadic)(1.4)[VPX06][Flipperless]">
+		<description>Bonanza (Exhibit Supply Co.)(1935)(Druadic)(1.4)[VPX06][Flipperless]</description>
+		<rom name="1.2\BonanzaVPX.vpx" size="1052672" crc="abb5a942" sha1="b0f6c295940a304ec0f61c06c3a7c4fcfc15d949"/>
+		<rom name="1.2\bonanzavpximage_2yD.png" size="712806" crc="197c0158" sha1="b9f1b16cf1071271287ec0c853e1366970c2793c"/>
+		<rom name="1.4\bonanzav1.4screenshot_oMw.jpg" size="595804" crc="e4a37e74" sha1="1fb43be45be88c0b311c04cd790b25b9f9a38c2f"/>
+		<rom name="1.4\BonanzaV1.4VPX.vpx" size="6385664" crc="95c1366f" sha1="53ca389c11bd9359231e7755e22abba13738a843"/>
+	</machine>
+	<machine name="Bright Lights (Bally)(1951)Druadic)(1.3)[VPX06][Bingo]">
+		<description>Bright Lights (Bally)(1951)Druadic)(1.3)[VPX06][Bingo]</description>
+		<rom name="BrightLightsV1.3VPX.vpx" size="11628544" crc="145fe8b2" sha1="e6ea3200e9286b9d0a21d5d85c54718faffe1b9e"/>
+		<rom name="brightlightsvpxscreenshot_bWy.jpg" size="718539" crc="d9d2b91b" sha1="09396ad987a03e84a500441945a8e4394ff176a4"/>
+	</machine>
+	<machine name="Broadway 51 (Bally)(1951)(Druadic)(1.5)[VPX06][Bingo]">
+		<description>Broadway 51 (Bally)(1951)(Druadic)(1.5)[VPX06][Bingo]</description>
+		<rom name="broadway51screenshot_i87.jpg" size="580922" crc="2ac6db72" sha1="bd533c3754800d1d1f9421c631c8015ee80c6814"/>
+		<rom name="Broadway51v1.0VPX.vpx" size="6103040" crc="5aea7ba2" sha1="7b57bc588aff3c97ae9ca71d676f03484e98df4e"/>
+		<rom name="Broadway51v1.5VPX.vpx" size="10657792" crc="c4963e30" sha1="6ac829140a4576250ff7ea7a14251626ff0774c5"/>
+	</machine>
+	<machine name="Carnival Queen (Bally)(1958)(HSM)(1.0)[VPX06][Bingo]">
+		<description>Carnival Queen (Bally)(1958)(HSM)(1.0)[VPX06][Bingo]</description>
+		<rom name="Carnival Queen (Bally 1958).directb2s" size="5840903" crc="01c7abb1" sha1="d25572fdde0d7cf5f7525de0b02a361bfeabe755"/>
+		<rom name="Carnival Queen (Bally 1958).png" size="365641" crc="e30b6057" sha1="8392e33f627910102d9e6bdd65c19966d86ae2a5"/>
+		<rom name="Carnival Queen (Bally 1958).vpx" size="45498368" crc="2b244e0a" sha1="c4d323ff20987360a7e31b08811c391ea4acbc8e"/>
+		<rom name="carnival-queen--bally-1958-.png" size="365641" crc="e30b6057" sha1="8392e33f627910102d9e6bdd65c19966d86ae2a5"/>
+		<rom name="cqbackglass.png" size="3363287" crc="33d79f1c" sha1="6db9f62beb82cbb07846fbc517951cbc19ec8d24"/>
+		<rom name="cqplayfield.png" size="5279579" crc="edb78fa8" sha1="7bc605fbe2bfe1a716908831dfe8c896c2eae1f0"/>
+	</machine>
+	<machine name="Cloverleaf (Gottlieb)(1932)(Druadic)(1.4)[VPX06][Flipperless]">
+		<description>Cloverleaf (Gottlieb)(1932)(Druadic)(1.4)[VPX06][Flipperless]</description>
+		<rom name="1.2\CloverleafVPX.vpx" size="5988352" crc="9d130178" sha1="d9c4c356752a55c0b524df3a7f58d2d839cdb00f"/>
+		<rom name="1.2\cloverleafvpxscreenshot_OZY.jpg" size="666070" crc="1a4dfc6c" sha1="a3d46da1ec82381e0bfdc3928fefb06bbe95a80b"/>
+		<rom name="1.4\cloverleafscreenshot_8z8.jpg" size="669163" crc="fb32a2cd" sha1="a6fdbad53e8cd5a1303862d0c4d23b7b10a5c7dc"/>
+		<rom name="1.4\CloverleafVPX V1.4.vpx" size="5943296" crc="845245a1" sha1="7c63ec37c4cb2ff06dee10614d265c9be8ed4eeb"/>
+	</machine>
+	<machine name="Daisy (Peo Manufacturing Co.)(1932)(Druadic)(1.1)[VPX06][concave table]">
+		<description>Daisy (Peo Manufacturing Co.)(1932)(Druadic)(1.1)[VPX06][concave table]</description>
+		<rom name="daisyscreenshotvpx_A4L.jpg" size="468790" crc="de08cea6" sha1="5aace694f580bbcfde313823e12858a745f2ec03"/>
+		<rom name="DaisyVPX.vpx" size="5570560" crc="4efb372a" sha1="c206f851db682bba3405e3502061c69bc7c686f0"/>
+	</machine>
+	<machine name="Frolics (Bally)(1952)(Druadic)(1.0)[VPX06][Gambling]">
+		<description>Frolics (Bally)(1952)(Druadic)(1.0)[VPX06][Gambling]</description>
+		<rom name="BallyFrolicsLARGECARD.png" size="1834325" crc="8d9c0918" sha1="c19a147411ced98ee4ce831ebd06876946e89cec"/>
+		<rom name="Frolics Updates VPX.txt" size="503" crc="4b35d741" sha1="353ffa41dc98c664abf258bb7a81884f2d738aab"/>
+		<rom name="FrolicsVPX.vpx" size="12562432" crc="893bde49" sha1="65d92c283d2bb78423e974289f12277bb371b9df"/>
+		<rom name="screenshot.jpg" size="97015" crc="9d32c92c" sha1="ccbc4543db72db737613d6a20b276b789e519d1f"/>
+	</machine>
+	<machine name="Gold Crown (Pierce Tool)(1932)(Druadic)(1.0)[VPX06][Flipperless]">
+		<description>Gold Crown (Pierce Tool)(1932)(Druadic)(1.0)[VPX06][Flipperless]</description>
+		<rom name="Gold Crown VPX.vpx" size="10002432" crc="3124be6b" sha1="644f212249fdd7a63ba0f81eccc1125d4d4bcee7"/>
+		<rom name="screenshot.jpg" size="66644" crc="61463373" sha1="9cb0cfc5128ad7012b5892e798ae19b15ae5734b"/>
+	</machine>
+	<machine name="Good Luck (Genco)(1932)(Druadic)(1.1)[VPX06][Flipperless]">
+		<description>Good Luck (Genco)(1932)(Druadic)(1.1)[VPX06][Flipperless]</description>
+		<rom name="120_02_09_19_2_25_30_0.jpg" size="109241" crc="d0820835" sha1="366885b8992227e016d460b0de884cbff26199a0"/>
+		<rom name="GoodLuckVPX.vpx" size="6733824" crc="41e9deeb" sha1="f408bcbf82f5a9ee354370a98ea224cbc4b66fdb"/>
+	</machine>
+	<machine name="Hi Lo Junior, (Northwest Coin Machine Co.)(1932)(Druadic)(1.2)[VPX06][Flipperless]">
+		<description>Hi Lo Junior, (Northwest Coin Machine Co.)(1932)(Druadic)(1.2)[VPX06][Flipperless]</description>
+		<rom name="HiLoJrVPX.vpx" size="6254592" crc="0137a679" sha1="8532cb02508edc4638103168c81cd107827d1310"/>
+		<rom name="hilojuniorscreenshot_kx4.jpg" size="493453" crc="93c070de" sha1="b542aa3d3d3096dde8b7e28eacd430eab9f0a9dc"/>
+	</machine>
+	<machine name="Hit or Miss (PAMCO)(1935)(Druadic)(1.0)[VPX06][Flipperless]">
+		<description>Hit or Miss (PAMCO)(1935)(Druadic)(1.0)[VPX06][Flipperless]</description>
+		<rom name="hitormissscreenshot.jpg" size="549161" crc="09afbef7" sha1="b33ab583237275440c013c6c83bace786be2eca0"/>
+		<rom name="HitOrMissVPX.vpx" size="8179712" crc="a9f240e8" sha1="393a399c317bdafc714b3dbb4799afd2a0e9696c"/>
+	</machine>
+	<machine name="Hit The Goal (Hercules Novelty Company)(1931)(Druadic)(1.2)[VPX06][Flipperless]">
+		<description>Hit The Goal (Hercules Novelty Company)(1931)(Druadic)(1.2)[VPX06][Flipperless]</description>
+		<rom name="120_17_07_19_12_45_41_0.jpg" size="49155" crc="61282a56" sha1="79c1bf4bb5577328432a4d047b67786c01381965"/>
+		<rom name="HTGoalVPX.vpx" size="864256" crc="02595647" sha1="e9323f25444d459fe4440b1658bafb7a1908060c"/>
+	</machine>
+	<machine name="Ice Cold Beer (Taito)(1983)(mfuegemann (VP9), 32assassin (0.9)[VPX06][Bingo machine]">
+		<description>Ice Cold Beer (Taito)(1983)(mfuegemann (VP9), 32assassin (0.9)[VPX06][Bingo machine]</description>
+		<rom name="Ice Cold Beer (Taito 1983).vpx" size="17391616" crc="622de05c" sha1="f3ff1eba8704cc559aee85119a6e22ae3d9c137e"/>
+		<rom name="Ice-Cold-Beer-600x338-1038x584.png" size="261038" crc="eb773b3e" sha1="3cd724f4555eeb25c326790b4d06b7ab15b8fc9b"/>
+	</machine>
+	<machine name="Joker Wild (Bally)(1970)(updon719, HSM)(1.0)[VPX06][Flipperless]">
+		<description>Joker Wild (Bally)(1970)(updon719, HSM)(1.0)[VPX06][Flipperless]</description>
+		<rom name="Joker Wild (Bally 1970) Wheel.png" size="33374" crc="be43225d" sha1="8755b93ac8d9457da8e8b3e827980ae4476a1784"/>
+		<rom name="Joker Wild (Bally 1970).directb2s" size="3547798" crc="455921f7" sha1="9b2d4285bcdf5c421c53a92af99b83739ec29d1a"/>
+		<rom name="Joker Wild (Bally 1970).png" size="258870" crc="8abcd4e3" sha1="4d81d780fc3f51fede4b3100f070a9595e86e3bf"/>
+		<rom name="Joker Wild (Bally 1970).vpx" size="16584704" crc="c5a756f9" sha1="edbe2985458e8aae4d11bea5733a0d0a02f53a5d"/>
+		<rom name="screenshot.png" size="5289046" crc="19d0fa46" sha1="6747b44e566009ce046065297017f9011770d477"/>
+	</machine>
+	<machine name="Mexican Baseball (Daval)(1947)(Druadic)(1.6)[VPX06][Skill Machine]">
+		<description>Mexican Baseball (Daval)(1947)(Druadic)(1.6)[VPX06][Skill Machine]</description>
+		<rom name="MexBaseballVPX VER 1.6.vpx" size="6230016" crc="d95f8e10" sha1="6d11fc2b0c0b0407daa38a224887a6711dfcade6"/>
+		<rom name="mexicanbaseballscreenshot_g02.jpg" size="427915" crc="9dcc889e" sha1="097de063ee5cece87554ae46f3397c659b8903cc"/>
+	</machine>
+	<machine name="New Century (Genco)(1933)(Druadic)(1.0)[VPX06][Flipperless]">
+		<description>New Century (Genco)(1933)(Druadic)(1.0)[VPX06][Flipperless]</description>
+		<rom name="NewCenturyVPX.vpx" size="16408576" crc="43981f8a" sha1="f5147c35757c9e924659797477f763c5eca23aec"/>
+		<rom name="newcenturyvpxscreenshot_g4Z.jpg" size="539323" crc="9216fd85" sha1="5f6830c889f5cef5f76152b855f4d16eca633455"/>
+	</machine>
+	<machine name="Roller Derby (Bally)(1960)(HSM)(2.0)[VPX06][Bingo machine]">
+		<description>Roller Derby (Bally)(1960)(HSM)(2.0)[VPX06][Bingo machine]</description>
+		<rom name="1.0\Bally Roller Derby 1.0.vpx" size="36974592" crc="71ea5f91" sha1="f09decbe8b1777889dda06e3fdea554e6b717e30"/>
+		<rom name="1.0\Bally Roller Derby.directb2s" size="4413613" crc="d426a4c0" sha1="6fec34c6eefe214226915673c02d452e7ea1f291"/>
+		<rom name="1.0\ss1.png" size="2296203" crc="ff9c2807" sha1="95562fff73e14308a73b27c37d50476cedd3f277"/>
+		<rom name="1.0\ss2.png" size="1399666" crc="2d3fd538" sha1="42d074c30b2cdde6773fe8662627e55301cf81e4"/>
+		<rom name="2.0\Bally Roller Derby 2.0.directb2s" size="7995471" crc="72fe02b8" sha1="2e42d0802936fdf83758216483116f5358c6ce5d"/>
+		<rom name="2.0\Bally Roller Derby 2.0.vpx" size="43991040" crc="e0f7b864" sha1="909fc387a67fd287395bd4a44ec0ab89f4248226"/>
+		<rom name="2.0\rderby-ss1.png" size="2296203" crc="ff9c2807" sha1="95562fff73e14308a73b27c37d50476cedd3f277"/>
+		<rom name="2.0\rderby.png" size="1842119" crc="dfca92c9" sha1="76fcd993ec26d1257f49e54410e31e59a43e4fc9"/>
+	</machine>
+	<machine name="Rollet (The Barok Co.)(1931)(Druadic)(1.0)[VPX06][Flipperless]">
+		<description>Rollet (The Barok Co.)(1931)(Druadic)(1.0)[VPX06][Flipperless]</description>
+		<rom name="rollet screenshot_AF6.jpg" size="607751" crc="9cfa13ce" sha1="5244b76a5c640d681431c61c82091a1ef8034044"/>
+		<rom name="Rollet VPX.vpx" size="8593408" crc="b9b43490" sha1="73722d70f94011a880f22d44e87d858ceae75e41"/>
+	</machine>
+	<machine name="SCRAM! (Hutchison Engineering Co.)(1932)(Druadic)(1.0)[VPX06][Tabletop]">
+		<description>SCRAM! (Hutchison Engineering Co.)(1932)(Druadic)(1.0)[VPX06][Tabletop]</description>
+		<rom name="scramscreenshot_71h.jpg" size="540253" crc="0d305917" sha1="436c7a13b5649c0445955de40fcde3dce1d3aa18"/>
+		<rom name="SCRAMVPX.vpx" size="9732096" crc="cac09525" sha1="701cd9bef37aba951112543ddf7bdf2e4f948875"/>
+	</machine>
+	<machine name="Sharpshooter (Bally)(1961)(Rascal)(1.0)[VPX06][DT+FS+dB2S][Shooting]">
+		<description>Sharpshooter (Bally)(1961)(Rascal)(1.0)[VPX06][DT+FS+dB2S][Shooting]</description>
+		<rom name="Instructions to install.txt" size="1180" crc="4849b92a" sha1="2580a21e26d5bb20e2a8636c0de065048c08705a"/>
+		<rom name="setup.exe" size="607232" crc="4cd14850" sha1="af12ae8dbd71ebeda86c10a684309841c4b9b976"/>
+		<rom name="Sharpshooter - Bally 1961.directb2s" size="1650517" crc="7bc55f52" sha1="acda801be5f1f82ec22e75b05e399dacb3a9f8c2"/>
+		<rom name="Sharpshooter - Bally 1961.vpx" size="45973504" crc="e8553be5" sha1="d6614f47372d9431da39a182f1f0f80dcd4722ed"/>
+		<rom name="sharpshooterlogo.png" size="122822" crc="d713865a" sha1="e777ed91e08e708e1b63b47bdcbda3fc9fd9859d"/>
+		<rom name="sharpshooterssb2s.jpg" size="507040" crc="cb35fb97" sha1="e23b31cd40fd712e95130bab023e4b25a8b61854"/>
+		<rom name="sharpshooterssdt.jpeg" size="425037" crc="d96bbe27" sha1="5d25f55a8dc704e6f24caae932c2b9dba4f13067"/>
+		<rom name="sharpshooterssfs.jpg" size="413941" crc="b35370fd" sha1="5c74a5b44dfad97f96917ed5f5afd26d545b009e"/>
+		<rom name="vpmjinput.vbs" size="5898" crc="f6aab4c0" sha1="221e03776c10059bd764f304a934c24a29bd46bc"/>
+		<rom name="VPMouseJoystickInputSetup.msi" size="673792" crc="734a6650" sha1="2d5b1b965ed528d36e032cb83e849bee01f1d0f8"/>
+	</machine>
+	<machine name="Shooting Star (Daval)(1934)(Druadic)(1.)[VPX06][Flipperless]">
+		<description>Shooting Star (Daval)(1934)(Druadic)(1.)[VPX06][Flipperless]</description>
+		<rom name="screenshot.jpg" size="448689" crc="26887d6a" sha1="a4b605b529806b8d0a67bf33d245364779b7c735"/>
+		<rom name="ShootingStarVPX.vpx" size="9850880" crc="698a72d5" sha1="b3e22ca763275d413e3507f89d84f4a9dc20a019"/>
+	</machine>
+	<machine name="Silver Line (Billport)(197x)(JPSalas)(1.0.1)[VPX05][Game]">
+		<description>Silver Line (Billport)(197x)(JPSalas)(1.0.1)[VPX05][Game]</description>
+		<rom name="Silver_Line_1.0.0.vpx" size="4386816" crc="03feb693" sha1="a7e1ea5e260a6e97897b2096457763241a89dc71"/>
+		<rom name="Silver_Line_1.0.1.vpx" size="4386816" crc="ff42c6b4" sha1="f9ea9925787721b354b08f49b8a750b6971df178"/>
+		<rom name="silver_line_100.jpg" size="789998" crc="2505866e" sha1="1e8646ed7810da3ec3fce3edaecdd7f797939375"/>
+	</machine>
+	<machine name="Silver Streak (Bally)(1935)(Druadic)(1.3][VPX06][Flipperless]">
+		<description>Silver Streak (Bally)(1935)(Druadic)(1.3][VPX06][Flipperless]</description>
+		<rom name="silverstreaksnapshotvpx_910.jpg" size="554502" crc="99ca2646" sha1="33f749dc4d747b3427b318167677dc455a0917d3"/>
+		<rom name="SStreakVPX.vpx" size="8933376" crc="7c8ea4f0" sha1="ea98e5a15add26e04356cc81c3c77b6476b5981a"/>
+	</machine>
+	<machine name="Skill Cards (Giepen)(1952)(Druadic)(1.0)[VPX06][Flipperless]">
+		<description>Skill Cards (Giepen)(1952)(Druadic)(1.0)[VPX06][Flipperless]</description>
+		<rom name="Skill Cards VPX.vpx" size="9904128" crc="3b1e08b2" sha1="5c92a31e42ba6eaa94964131f141a003a71491ff"/>
+		<rom name="skillcardsscreenshot_E44.jpg" size="611135" crc="9cd9f3a0" sha1="653d0c86ef735691fce994057c2bcf428efd0a9b"/>
+	</machine>
+	<machine name="Ten Strike Classic (Benchmark Games Inc.)(2003)(Rascal, Wizards_Hat)(1.1)[VPX06]">
+		<description>Ten Strike Classic (Benchmark Games Inc.)(2003)(Rascal, Wizards_Hat)(1.1)[VPX06]</description>
+		<rom name="1.0\Ten Strike Classic (Benchmark Games, Inc. 2003) v1.directb2s" size="6541449" crc="31c0ca68" sha1="7e94db215de109e3049676242d026e5e3c077572"/>
+		<rom name="1.0\Ten Strike Classic (Benchmark Games, Inc. 2003) v1.vpx" size="43241472" crc="fee34ad3" sha1="019742845ac49f2fdfd01bf093a986ec109f4c94"/>
+		<rom name="1.1\Ten Strike Classic (Benchmark Games, Inc. 2003) v1.1.directb2s" size="6541449" crc="31c0ca68" sha1="7e94db215de109e3049676242d026e5e3c077572"/>
+		<rom name="1.1\Ten Strike Classic (Benchmark Games, Inc. 2003) v1.1.vpx" size="43507712" crc="16b0ed06" sha1="d5fe3ab5205c8723c43fcbb93a010a8a79566983"/>
+		<rom name="ten-strike-classic--benchmark-games--inc-2003--v1.jpg" size="198782" crc="9cd4fac3" sha1="13ef2889bde18af631f3f1b492eed586cf89a040"/>
+		<rom name="tenstrikeclassicssdt.jpg" size="538437" crc="ddd4f80b" sha1="daa79f40f60a2cc1289ab13a244372106222ffa4"/>
+		<rom name="tenstrikeclassicssfs.jpg" size="433668" crc="bd0d3768" sha1="fd86c3c33cd2d3d48f872cff9da156e404363695"/>
+		<rom name="tenstrikeclassicwheel.png" size="167892" crc="801e2c88" sha1="3fb07ef774470b07f1ebc832699c2062847f8efc"/>
+	</machine>
+	<machine name="Zeke's Peak (Taito)(1984)(mfuegemann, 32assassin)(0.9)[VPX06][Flipperless]">
+		<description>Zeke's Peak (Taito)(1984)(mfuegemann, 32assassin)(0.9)[VPX06][Flipperless]</description>
+		<rom name="Zeekes-Peak-600x338-1038x584.png" size="296154" crc="4438dfa3" sha1="79de78c20b357d95346039215ce189f992c97453"/>
+		<rom name="Zeke's Peak (Taito 1984).vpx" size="23040000" crc="5f5580a4" sha1="87f05838bb2b283eabfb0de9a582d989348d7fcb"/>
+	</machine>
+</datafile>

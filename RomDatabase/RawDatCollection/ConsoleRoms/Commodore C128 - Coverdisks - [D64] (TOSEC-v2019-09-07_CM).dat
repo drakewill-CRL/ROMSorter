@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C128 - Coverdisks - [D64]</name>
+		<description>Commodore C128 - Coverdisks - [D64] (TOSEC-v2019-09-07)</description>
+		<category>TOSEC</category>
+		<version>2019-09-07</version>
+		<author>Tomse</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Commodore 128 Book 5 CAD (1985)(Abacus)">
+		<description>Commodore 128 Book 5 CAD (1985)(Abacus)</description>
+		<rom name="Commodore 128 Book 5 CAD (1985)(Abacus).d64" size="174848" crc="d24d2357" md5="1b19591a59ce7c9e74c8def4fcfe9ea0" sha1="c9d037633ded5b2187bb4e3b27e3757d09e39728"/>
+	</game>
+</datafile>

@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Atari 8bit - Operating Systems</name>
+		<description>Atari 8bit - Operating Systems (TOSEC-v2018-03-08)</description>
+		<category>TOSEC</category>
+		<version>2018-03-08</version>
+		<author>TKaos - Gucek - gRzEnIu - Cassiel - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Args OS (19xx)(-)">
+		<description>Args OS (19xx)(-)</description>
+		<rom name="Args OS (19xx)(-).bin" size="16384" crc="5b1eadf3" md5="ddd8b434e57b6bae542a26d4a770c9cd" sha1="5a349041f8eb18f21e3e82034efa8092f75bb3e6"/>
+	</game>
+	<game name="Atari OS Rev 1 (1983)(Atari)[600XL]">
+		<description>Atari OS Rev 1 (1983)(Atari)[600XL]</description>
+		<rom name="Atari OS Rev 1 (1983)(Atari)[600XL].bin" size="16384" crc="643bcc98" md5="9aea45e724d2588fbbeda658c7dc53ee" sha1="881d030656b40bbe48f15a696b28f22c0b752ab0"/>
+	</game>
+	<game name="Atari OS Rev 10 (1982)(Atari)[1200XL]">
+		<description>Atari OS Rev 10 (1982)(Atari)[1200XL]</description>
+		<rom name="Atari OS Rev 10 (1982)(Atari)[1200XL].bin" size="16384" crc="c5c11546" md5="e3e8c74bfe1dcd6b56af50bd9a82dc15" sha1="83c9afee8828a4026c55f10f920c42f76ad9ff65"/>
+	</game>
+	<game name="Atari OS Rev 2 (1983)(Atari)[800XL]">
+		<description>Atari OS Rev 2 (1983)(Atari)[800XL]</description>
+		<rom name="Atari OS Rev 2 (1983)(Atari)[800XL].bin" size="16384" crc="1f9cd270" md5="06daac977823773a3eea3422fd26a703" sha1="ae4f523ba08b6fd59f3cae515a2b2410bbd98f55"/>
+	</game>
+	<game name="Atari OS Rev 3 (1985)(Atari)[800XE-65XE-130XE]">
+		<description>Atari OS Rev 3 (1985)(Atari)[800XE-65XE-130XE]</description>
+		<rom name="Atari OS Rev 3 (1985)(Atari)[800XE-65XE-130XE].bin" size="16384" crc="29f133f7" md5="54e704558a6aedfc45cebf8f8ac9c312" sha1="f03b9b93000ee84abb9cf8d6367241006f172182"/>
+	</game>
+	<game name="Atari OS Rev 4 (1987)(Atari)[XE Game System]">
+		<description>Atari OS Rev 4 (1987)(Atari)[XE Game System]</description>
+		<rom name="Atari OS Rev 4 (1987)(Atari)[XE Game System].bin" size="16384" crc="1eaf4002" md5="b7a2a04677d34f069eeb643d5238bf86" sha1="decde89fbae90adb591ad2fc553d35f49030c129"/>
+	</game>
+	<game name="Atari OS Rev A (19xx)(Atari)(PAL)[400-800]">
+		<description>Atari OS Rev A (19xx)(Atari)(PAL)[400-800]</description>
+		<rom name="Atari OS Rev A (19xx)(Atari)(PAL)[400-800].bin" size="10240" crc="72b3fed4" md5="eb1f32f5d9f382db1bbfb8d7f9cb343a" sha1="6dd53356159a129ed12367beb3b24a771d41adb0"/>
+	</game>
+	<game name="Atari OS Rev B (19xx)(Atari)(NTSC)[400-800]">
+		<description>Atari OS Rev B (19xx)(Atari)(NTSC)[400-800]</description>
+		<rom name="Atari OS Rev B (19xx)(Atari)(NTSC)[400-800].bin" size="10240" crc="0e86d61d" md5="4177f386a3bac989a981d3fe3388cb6c" sha1="db1031585968cfc6ec2ecda5c9a5a52f61444a3b"/>
+	</game>
+	<game name="Atari OS Rev B (19xx)(Atari)(PAL)[400-800]">
+		<description>Atari OS Rev B (19xx)(Atari)(PAL)[400-800]</description>
+		<rom name="Atari OS Rev B (19xx)(Atari)(PAL)[400-800].bin" size="10240" crc="3e28a1fe" md5="a3e8d617c95d08031fe1b20d541434b2" sha1="f1f0741b1d34fb4350cf7cb8ab3b6ea11cdd8174"/>
+	</game>
+	<game name="Diamond v2.0 (1989)(Reeve, Alan)">
+		<description>Diamond v2.0 (1989)(Reeve, Alan)</description>
+		<rom name="Diamond v2.0 (1989)(Reeve, Alan).bin" size="65536" crc="0ead07f8" md5="d65faf87009013ac1a22c66c282f554b" sha1="e9203742580d50aba99bb85d8f04816ac76df730"/>
+	</game>
+	<game name="Diamond Graphic OS v1.0 (1988)(Reeve Software)">
+		<description>Diamond Graphic OS v1.0 (1988)(Reeve Software)</description>
+		<rom name="Diamond Graphic OS v1.0 (1988)(Reeve Software).bin" size="65536" crc="cdeb2c5c" md5="15684a079456a8f9e5154e9d69e74fcb" sha1="d55c0993b963f4031525e411cb1da6e282030bad"/>
+	</game>
+	<game name="Diamond Graphic OS v1.0 (1989)(Reeve Software)">
+		<description>Diamond Graphic OS v1.0 (1989)(Reeve Software)</description>
+		<rom name="Diamond Graphic OS v1.0 (1989)(Reeve Software).bin" size="65536" crc="ff169415" md5="343c359346dfc8472aee19f143bdd1d0" sha1="d8335378562e67c422fab783f11074db8d401161"/>
+	</game>
+	<game name="InstaDOS (2002)(Sunmark)[p]">
+		<description>InstaDOS (2002)(Sunmark)[p]</description>
+		<rom name="InstaDOS (2002)(Sunmark)[p].bin" size="16384" crc="1003538a" md5="5afad68c3176ab5836eaa66f7e7e323b" sha1="01d322f67699f413f1163ce7c9960d9b97959534"/>
+	</game>
+	<game name="MIO OS v1.1 (19xx)(-)">
+		<description>MIO OS v1.1 (19xx)(-)</description>
+		<rom name="MIO OS v1.1 (19xx)(-).bin" size="16384" crc="00694a74" md5="49e6ecbde2dcd4771e9dc48a3f65b4b0" sha1="23a97c4975ec18ef520a1677c0074bb053ca8e55"/>
+	</game>
+	<game name="MyDOS v3.116 (1985)(Wordmark)[p]">
+		<description>MyDOS v3.116 (1985)(Wordmark)[p]</description>
+		<rom name="MyDOS v3.116 (1985)(Wordmark)[p].bin" size="16384" crc="462a3d98" md5="e291c5d5882868933f2f8bf1f73707a4" sha1="8c529acb5a9ba2882196b22c2f553979452dcddd"/>
+	</game>
+	<game name="SmartDOS v6.1D (1984)(Rana Systems)[p]">
+		<description>SmartDOS v6.1D (1984)(Rana Systems)[p]</description>
+		<rom name="SmartDOS v6.1D (1984)(Rana Systems)[p].bin" size="16384" crc="d68915fa" md5="3b6052eb78ee8f3350447d881cdb118a" sha1="f87818a07f1190629c1772b366fa655d26ec2987"/>
+	</game>
+	<game name="SpartaDOS X v4.18 (1988)(ICD)">
+		<description>SpartaDOS X v4.18 (1988)(ICD)</description>
+		<rom name="SpartaDOS X v4.18 (1988)(ICD).bin" size="65536" crc="e825e9ab" md5="3aafd7bbbb13a2d8980c41edd06d133f" sha1="ffdaff6873ccd7641afc46546a5fdc8acb7d5d32"/>
+	</game>
+	<game name="SpartaDOS X v4.19 (1989-01-16)(ICD)(US)">
+		<description>SpartaDOS X v4.19 (1989-01-16)(ICD)(US)</description>
+		<rom name="SpartaDOS X v4.19 (1989-01-16)(ICD)(US).bin" size="65536" crc="6bb5733c" md5="e3baa6d7d7a43d3e3127f3618fd1cae6" sha1="57bcad630e7be290aa5d5436e886bb8fd2cec97a"/>
+	</game>
+	<game name="SpartaDOS X v4.20 (1989-06-02)(ICD)(US)">
+		<description>SpartaDOS X v4.20 (1989-06-02)(ICD)(US)</description>
+		<rom name="SpartaDOS X v4.20 (1989-06-02)(ICD)(US).bin" size="65536" crc="781e045c" md5="baf9cded718a19e04e2c45649a57c1b6" sha1="9c4296cd8b520e75cbe6fa7dfc06b12ef7ca5ce1"/>
+	</game>
+	<game name="SpartaDOS X v4.21 (1989-07-10)(ICD)(US)">
+		<description>SpartaDOS X v4.21 (1989-07-10)(ICD)(US)</description>
+		<rom name="SpartaDOS X v4.21 (1989-07-10)(ICD)(US).bin" size="65536" crc="db0ca1eb" md5="9c05b73626f289cc3084bf9f457853a9" sha1="8b190e7fa5f77a7ccf609af3cbab09b64da7c923"/>
+	</game>
+	<game name="SpartaDOS X v4.21 (1989-07-10)(ICD)(US)[a]">
+		<description>SpartaDOS X v4.21 (1989-07-10)(ICD)(US)[a]</description>
+		<rom name="SpartaDOS X v4.21 (1989-07-10)(ICD)(US)[a].bin" size="65552" crc="8d86ecef" md5="f2f050eb82170af43dc3758a2a601ef2" sha1="57a57522a0134831a07a755bac97cc5f688700cc"/>
+	</game>
+	<game name="SpartaDOS X v4.22 (1995-11-05)(FTe)">
+		<description>SpartaDOS X v4.22 (1995-11-05)(FTe)</description>
+		<rom name="SpartaDOS X v4.22 (1995-11-05)(FTe).bin" size="65552" crc="f1494ea1" md5="227ec9001caf3dcbab061cee9b087ef4" sha1="27e969c82e6d37029b448a8ad3189bbdd3785f26"/>
+	</game>
+	<game name="SpartaDOS X v4.22 (2005)(FTe)">
+		<description>SpartaDOS X v4.22 (2005)(FTe)</description>
+		<rom name="SpartaDOS X v4.22 (2005)(FTe).bin" size="65536" crc="de1ebece" md5="7470286fc278b14f3d0d45ea7cfb439f" sha1="b8170d8d3fda45ba09a3b0f67decd56cf3f9bd76"/>
+	</game>
+	<game name="SpartaDOS X v4.2a (1989)(ICD)">
+		<description>SpartaDOS X v4.2a (1989)(ICD)</description>
+		<rom name="SpartaDOS X v4.2a (1989)(ICD).bin" size="65536" crc="e9f82c76" md5="4d4072772dd4ab61839865f4685946f2" sha1="3ce5bb28e583748b66e2dbcc38ecd30bca6f2aae"/>
+	</game>
+	<game name="SpartaDOS X v4.39rc (2006)(DLT)">
+		<description>SpartaDOS X v4.39rc (2006)(DLT)</description>
+		<rom name="SpartaDOS X v4.39rc (2006)(DLT).bin" size="131072" crc="a3ec2e58" md5="582b0c0eba8dcbf6617877da6170a847" sha1="79ad6acd8a61fdcbf427d098c77d84282110a6ef"/>
+	</game>
+	<game name="SpartaDOS X v4.41 (2008)(DLT)">
+		<description>SpartaDOS X v4.41 (2008)(DLT)</description>
+		<rom name="SpartaDOS X v4.41 (2008)(DLT).bin" size="131072" crc="687c7a15" md5="db04aed40c5eed633279d6fe5c9ec0e7" sha1="12fc71f8437528117079fff777838b7193d38fcc"/>
+	</game>
+	<game name="SpartaDOS X v4.42 (2008)(DLT)">
+		<description>SpartaDOS X v4.42 (2008)(DLT)</description>
+		<rom name="SpartaDOS X v4.42 (2008)(DLT).bin" size="131072" crc="0b4bcfc5" md5="bcb2a3ee47842aa8a37b7963c1367bfb" sha1="663fef048ddd76316dd193023c560631b161257b"/>
+	</game>
+	<game name="SpartaDOS X v4.43 (2011)(DLT)">
+		<description>SpartaDOS X v4.43 (2011)(DLT)</description>
+		<rom name="SpartaDOS X v4.43 (2011)(DLT).bin" size="131072" crc="48be5d1e" md5="3e877b1fa1db8288e59e30e4971fc008" sha1="d0579bc19d0fa8938d1557924c2e1c3b968e02e7"/>
+	</game>
+	<game name="SpartaDOS X v4.44 (2011)(DLT)">
+		<description>SpartaDOS X v4.44 (2011)(DLT)</description>
+		<rom name="SpartaDOS X v4.44 (2011)(DLT).bin" size="131072" crc="337516b0" md5="40c2c778237da3a1e81075d7d879fda3" sha1="99518cab315b564b2f7621d6969709bf7ee7c5af"/>
+	</game>
+	<game name="SpartaDOS X v4.45 (2011)(DLT)">
+		<description>SpartaDOS X v4.45 (2011)(DLT)</description>
+		<rom name="SpartaDOS X v4.45 (2011)(DLT).bin" size="131072" crc="df4520c1" md5="9de500c798821d486274088b768c1ff1" sha1="d7ae9dc6c7a5dbf3890be0a6a66c5cc0501a6ca9"/>
+	</game>
+	<game name="SpartaDOS X v4.46 (2013)(DLT)">
+		<description>SpartaDOS X v4.46 (2013)(DLT)</description>
+		<rom name="SpartaDOS X v4.46 (2013)(DLT).bin" size="131072" crc="3254ee87" md5="055aee87b218417d74d0b006634cc4b3" sha1="0123f640f56ef4be1bdabe3643770b72d4b0f396"/>
+	</game>
+	<game name="SpartaDOS X v4.47 (2015)(DLT)">
+		<description>SpartaDOS X v4.47 (2015)(DLT)</description>
+		<rom name="SpartaDOS X v4.47 (2015)(DLT).bin" size="131072" crc="fb0fa6d7" md5="1d5208c0402407955ed391af1c055ff3" sha1="2bd2ad3ea6c4d5bad6042f42f75edeee555d4fdc"/>
+	</game>
+	<game name="Speeder Plus OS v1.33n (19xx)(-)">
+		<description>Speeder Plus OS v1.33n (19xx)(-)</description>
+		<rom name="Speeder Plus OS v1.33n (19xx)(-).bin" size="16384" crc="a991769b" md5="4f0a7d81085a541d366f0c243dbd24c9" sha1="b5957d5e5e0ee27e27bf37651681256b3f45f657"/>
+	</game>
+</datafile>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Thomson TO8, TO8D, TO9, TO9+ - Games - [QD]</name>
+		<description>Thomson TO8, TO8D, TO9, TO9+ - Games - [QD] (TOSEC-v2017-07-05)</description>
+		<category>TOSEC</category>
+		<version>2017-07-05</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Vampire (1986)(Infogrames)(FR)">
+		<description>Vampire (1986)(Infogrames)(FR)</description>
+		<rom name="Vampire (1986)(Infogrames)(FR).qd" size="51200" crc="2cc62d02" md5="f7a569b9452b38f037644f17441de520" sha1="379d225f6acff33bc2e1bf00e01b1a6713f88f31"/>
+	</game>
+	<game name="Vol Solo (1986)(FIL)(FR)">
+		<description>Vol Solo (1986)(FIL)(FR)</description>
+		<rom name="Vol Solo (1986)(FIL)(FR).qd" size="51200" crc="9fd0ac72" md5="0538276222e9cb9374e07bb5bdf3a33a" sha1="50b2d297d8ad428d9424ab95f9218a42c2549544"/>
+	</game>
+</datafile>

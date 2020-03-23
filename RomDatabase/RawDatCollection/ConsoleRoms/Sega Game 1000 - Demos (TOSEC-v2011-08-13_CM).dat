@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega Game 1000 - Demos</name>
+		<description>Sega Game 1000 - Demos (TOSEC-v2011-08-13)</description>
+		<category>TOSEC</category>
+		<version>2011-08-13</version>
+		<author>Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Music Station v1.6 (2000)(Bittencourt, Ricardo)(PD)">
+		<description>Music Station v1.6 (2000)(Bittencourt, Ricardo)(PD)</description>
+		<rom name="Music Station v1.6 (2000)(Bittencourt, Ricardo)(PD).bin" size="524288" crc="f40fa5d6" md5="09b1723ed5fe15529779058d38452650" sha1="8876e8f16b09b69235c249ecadeeec405f096698"/>
+	</game>
+</datafile>

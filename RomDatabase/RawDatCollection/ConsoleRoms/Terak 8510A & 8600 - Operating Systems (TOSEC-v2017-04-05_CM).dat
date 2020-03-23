@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Terak 8510A &amp; 8600 - Operating Systems</name>
+		<description>Terak 8510A &amp; 8600 - Operating Systems (TOSEC-v2017-04-05)</description>
+		<category>TOSEC</category>
+		<version>2017-04-05</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<url>http://www.tosecdev.org</url>
+		<clrmamepro/>
+	</header>
+	<game name="RT-11-85A V3b System Rev O (1980-05-05)(Terak)(Disk 1 of 4)(Standard Monitors)[Part Number 61-0008-001]">
+		<description>RT-11-85A V3b System Rev O (1980-05-05)(Terak)(Disk 1 of 4)(Standard Monitors)[Part Number 61-0008-001]</description>
+		<rom name="RT-11-85A V3b System Rev O (1980-05-05)(Terak)(Disk 1 of 4)(Standard Monitors)[Part Number 61-0008-001].imd" size="233225" crc="f7b2e1b1" md5="68d2496d62bc0d518fba61d3c1b1c632" sha1="7062c0e184731d34d2570d3726a372d0ec738957"/>
+	</game>
+	<game name="RT-11-85A V3b System Rev O (1980-05-05)(Terak)(Disk 2 of 4)(System Programs)[Part Number 61-0008-002]">
+		<description>RT-11-85A V3b System Rev O (1980-05-05)(Terak)(Disk 2 of 4)(System Programs)[Part Number 61-0008-002]</description>
+		<rom name="RT-11-85A V3b System Rev O (1980-05-05)(Terak)(Disk 2 of 4)(System Programs)[Part Number 61-0008-002].imd" size="230937" crc="cfd86505" md5="af1e318940c9c4c615fc85d085e7e124" sha1="57d4481341cc4afcabcd0c04a3994b842d3be0ca"/>
+	</game>
+	<game name="RT-11-85A V3b System Rev O (1980-05-05)(Terak)(Disk 3 of 4)(Extra Files)[Part Number 61-0008-003]">
+		<description>RT-11-85A V3b System Rev O (1980-05-05)(Terak)(Disk 3 of 4)(Extra Files)[Part Number 61-0008-003]</description>
+		<rom name="RT-11-85A V3b System Rev O (1980-05-05)(Terak)(Disk 3 of 4)(Extra Files)[Part Number 61-0008-003].imd" size="236013" crc="43a46e67" md5="e9ec241ec730eec528d487bc319fa0f5" sha1="0ba1e4d9f2943fef7063e288c8a7c9e9956c7f7d"/>
+	</game>
+	<game name="RT-11-85A V3b System Rev O (1980-05-05)(Terak)(Disk 4 of 4)(Single Drive Monitors)[Part Number 61-0008-004]">
+		<description>RT-11-85A V3b System Rev O (1980-05-05)(Terak)(Disk 4 of 4)(Single Drive Monitors)[Part Number 61-0008-004]</description>
+		<rom name="RT-11-85A V3b System Rev O (1980-05-05)(Terak)(Disk 4 of 4)(Single Drive Monitors)[Part Number 61-0008-004].imd" size="234753" crc="9b76b95f" md5="cae495668cd9c99bcc203282114e64ae" sha1="73f32ff94448a83f824c544503b90396ed004b4c"/>
+	</game>
+	<game name="UCSD Pascal System vII.0 Rev A (1980-11-06)(Terak)(Disk 1 of 6)(System Disk)[Part Number 61-0011-001]">
+		<description>UCSD Pascal System vII.0 Rev A (1980-11-06)(Terak)(Disk 1 of 6)(System Disk)[Part Number 61-0011-001]</description>
+		<rom name="UCSD Pascal System vII.0 Rev A (1980-11-06)(Terak)(Disk 1 of 6)(System Disk)[Part Number 61-0011-001].imd" size="244526" crc="4aa4bac9" md5="56f460a0aca3a6c8a1ffa1114fcc3a0c" sha1="f8649cb7dccbbe9ff47673807487bd9e9fa1e2b4"/>
+	</game>
+	<game name="UCSD Pascal System vII.0 Rev A (1980-11-06)(Terak)(Disk 2 of 6)(Student System)[Part Number 61-0011-002]">
+		<description>UCSD Pascal System vII.0 Rev A (1980-11-06)(Terak)(Disk 2 of 6)(Student System)[Part Number 61-0011-002]</description>
+		<rom name="UCSD Pascal System vII.0 Rev A (1980-11-06)(Terak)(Disk 2 of 6)(Student System)[Part Number 61-0011-002].imd" size="150295" crc="113ec3ad" md5="38f25f911e659f46397071ef7122d0e6" sha1="f6bd40bcd45d41e36d2abdc1b950444c1dbea203"/>
+	</game>
+	<game name="UCSD Pascal System vII.0 Rev A (1980-11-06)(Terak)(Disk 3 of 6)(UCSD Utilities)[Part Number 61-0011-003]">
+		<description>UCSD Pascal System vII.0 Rev A (1980-11-06)(Terak)(Disk 3 of 6)(UCSD Utilities)[Part Number 61-0011-003]</description>
+		<rom name="UCSD Pascal System vII.0 Rev A (1980-11-06)(Terak)(Disk 3 of 6)(UCSD Utilities)[Part Number 61-0011-003].imd" size="247068" crc="76b3d449" md5="4e19114912672864e05288f6d90aef3e" sha1="8935bdd4f76f6c3b91f98011efe94fe444dc382b"/>
+	</game>
+	<game name="UCSD Pascal System vII.0 Rev A (1980-11-06)(Terak)(Disk 4 of 6)(Terak Utilites)[Part Number 61-0011-004]">
+		<description>UCSD Pascal System vII.0 Rev A (1980-11-06)(Terak)(Disk 4 of 6)(Terak Utilites)[Part Number 61-0011-004]</description>
+		<rom name="UCSD Pascal System vII.0 Rev A (1980-11-06)(Terak)(Disk 4 of 6)(Terak Utilites)[Part Number 61-0011-004].imd" size="227258" crc="25c061b1" md5="54b7e7f815f6a32f6d9ecf94d8beb57a" sha1="a87c87e17223fc48f8de4a4274e0df1334b3cb27"/>
+	</game>
+	<game name="UCSD Pascal System vII.0 Rev A (1980-11-06)(Terak)(Disk 5 of 6)(Demo Programs)[Part Number 61-0011-005]">
+		<description>UCSD Pascal System vII.0 Rev A (1980-11-06)(Terak)(Disk 5 of 6)(Demo Programs)[Part Number 61-0011-005]</description>
+		<rom name="UCSD Pascal System vII.0 Rev A (1980-11-06)(Terak)(Disk 5 of 6)(Demo Programs)[Part Number 61-0011-005].imd" size="230558" crc="7df3a978" md5="d96f36ed60ebf119cac6f82fb3335530" sha1="9847f4edf73e659daf4387f8f598035746715e51"/>
+	</game>
+	<game name="UCSD Pascal System vII.0 Rev A (1980-11-06)(Terak)(Disk 6 of 6)(Character Sets)[Part Number 61-0011-006]">
+		<description>UCSD Pascal System vII.0 Rev A (1980-11-06)(Terak)(Disk 6 of 6)(Character Sets)[Part Number 61-0011-006]</description>
+		<rom name="UCSD Pascal System vII.0 Rev A (1980-11-06)(Terak)(Disk 6 of 6)(Character Sets)[Part Number 61-0011-006].imd" size="196269" crc="dfe81cde" md5="e07e2ff13e3c8536583d41e5fcc405e3" sha1="d1bec317d3571e7273db2a194d8f92ebac217794"/>
+	</game>
+</datafile>

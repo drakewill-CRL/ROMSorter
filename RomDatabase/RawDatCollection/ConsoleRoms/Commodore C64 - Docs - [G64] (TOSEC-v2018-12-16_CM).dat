@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Docs - [G64]</name>
+		<description>Commodore C64 - Docs - [G64] (TOSEC-v2018-12-16)</description>
+		<category>TOSEC</category>
+		<version>2018-12-16</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Original Parameter Cross-Reference, The (1989)(Mallang II, Edward)(Side A)">
+		<description>Original Parameter Cross-Reference, The (1989)(Mallang II, Edward)(Side A)</description>
+		<rom name="Original Parameter Cross-Reference, The (1989)(Mallang II, Edward)(Side A).g64" size="333744" crc="da147159" md5="741fa06c7eb263e84d2440b0a52b0174" sha1="dcc716fd384dde723d93a16fd6d8f20c11bb109d"/>
+	</game>
+	<game name="Original Parameter Cross-Reference, The (1989)(Mallang II, Edward)(Side A)[a]">
+		<description>Original Parameter Cross-Reference, The (1989)(Mallang II, Edward)(Side A)[a]</description>
+		<rom name="Original Parameter Cross-Reference, The (1989)(Mallang II, Edward)(Side A)[a].g64" size="278234" crc="4f2feea2" md5="203c7d2edfc275e2d28751c0d7f387e5" sha1="da062beb87e0506de9ba89fe9e0a7cf22cba4472"/>
+	</game>
+</datafile>

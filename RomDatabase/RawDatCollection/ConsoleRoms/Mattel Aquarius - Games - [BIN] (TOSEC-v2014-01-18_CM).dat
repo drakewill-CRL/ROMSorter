@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Mattel Aquarius - Games - [BIN]</name>
+		<description>Mattel Aquarius - Games - [BIN] (TOSEC-v2014-01-18)</description>
+		<category>TOSEC</category>
+		<version>2014-01-18</version>
+		<author>Sea7 - Cid - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Advanced Dungeons &amp; Dragons (1982)(Mattel)">
+		<description>Advanced Dungeons &amp; Dragons (1982)(Mattel)</description>
+		<rom name="Advanced Dungeons &amp; Dragons (1982)(Mattel).bin" size="16384" crc="2fe95594" md5="d0deffb195d1d3fa3a2ba9a301ff671d" sha1="e3e494b9dd9623c92f54cc7d12af29b1103f000f"/>
+	</game>
+	<game name="Astrosmash (1982)(Mattel)">
+		<description>Astrosmash (1982)(Mattel)</description>
+		<rom name="Astrosmash (1982)(Mattel).bin" size="16384" crc="ce76c898" md5="045e9a70b1d62c0a104a9739528dd02a" sha1="f47034bbfacd3042090388f0e459d48a830ab9c6"/>
+	</game>
+	<game name="Burgertime (1982)(Data East)">
+		<description>Burgertime (1982)(Data East)</description>
+		<rom name="Burgertime (1982)(Data East).bin" size="16384" crc="be678f07" md5="a05545857321d096f7b90549a39b2a1f" sha1="8b72793cd9cfdd3bd17412bdaf2411ca06bb1abd"/>
+	</game>
+	<game name="Chess (1982)(Mattel)(proto)">
+		<description>Chess (1982)(Mattel)(proto)</description>
+		<rom name="Chess (1982)(Mattel)(proto).bin" size="16384" crc="0243e59f" md5="4d41df193e455d142bcf264d8360d4a0" sha1="7e7a47071d915c6e1408b3618d172daea889f02b"/>
+	</game>
+	<game name="Melody Chase (1982)(Mattel)">
+		<description>Melody Chase (1982)(Mattel)</description>
+		<rom name="Melody Chase (1982)(Mattel).bin" size="16384" crc="6f99dbaf" md5="d671fa68b189230d41ceb48358c5819c" sha1="8d0742149bf71620b2dd471bd5d05f1156fbd6a6"/>
+	</game>
+	<game name="Night Stalker (1982)(Mattel)">
+		<description>Night Stalker (1982)(Mattel)</description>
+		<rom name="Night Stalker (1982)(Mattel).bin" size="16384" crc="032ae514" md5="aba7a0aebf74c46f3e200b0da9d34dc0" sha1="3183bb81a428ce68c9919d96d91be29fcc1aad3f"/>
+	</game>
+	<game name="Shark! (1983)(Mattel)">
+		<description>Shark! (1983)(Mattel)</description>
+		<rom name="Shark! (1983)(Mattel).bin" size="16384" crc="ee805a79" md5="9daf056e80ab932db1a564bbd77dc0e3" sha1="ddcc085699c3862ad41155e7f1a7b72396129cc5"/>
+	</game>
+	<game name="Snafu (1982)(Mattel)">
+		<description>Snafu (1982)(Mattel)</description>
+		<rom name="Snafu (1982)(Mattel).bin" size="16384" crc="aed0ea34" md5="be9401f863b151ee7400fb466c03be67" sha1="d65b3d4b0e3abdc844ecabbaecc6d095a27aa982"/>
+	</game>
+	<game name="Space Speller (1983)(Mattel)">
+		<description>Space Speller (1983)(Mattel)</description>
+		<rom name="Space Speller (1983)(Mattel).bin" size="16384" crc="49a88710" md5="28db1de2a9e483f767998138af0086c7" sha1="9fc967addeba5280e5e5390eaf81c3fe9ff8ab10"/>
+	</game>
+	<game name="Tron - Deadly Discs (1982)(Mattel)">
+		<description>Tron - Deadly Discs (1982)(Mattel)</description>
+		<rom name="Tron - Deadly Discs (1982)(Mattel).bin" size="16384" crc="6d6ebd1d" md5="1ab15854f4cd5fe275dfbb1250672f82" sha1="8750fea11e97ae754be6134d9849e3b039b78f55"/>
+	</game>
+	<game name="Utopia (1982)(Mattel)">
+		<description>Utopia (1982)(Mattel)</description>
+		<rom name="Utopia (1982)(Mattel).bin" size="16384" crc="1fc3002e" md5="ac9cb55ef156dd19165a67f81c7d4030" sha1="b9244274929cad68afb978e991edde1fc282f172"/>
+	</game>
+	<game name="Zero-In (1983)(Mattel)[16KB]">
+		<description>Zero-In (1983)(Mattel)[16KB]</description>
+		<rom name="Zero-In (1983)(Mattel)[16KB].bin" size="16384" crc="06241b20" md5="8cce3189525386168fa5ddd170f2de38" sha1="7051f35da530db1b86a476b50d9fbcfb044ade04"/>
+	</game>
+	<game name="Zero-In (1983)(Mattel)[8KB]">
+		<description>Zero-In (1983)(Mattel)[8KB]</description>
+		<rom name="Zero-In (1983)(Mattel)[8KB].bin" size="8192" crc="277f1716" md5="2f463530179298af6ce7114ffce9a078" sha1="a256a18d5e9c5d03a8610c5de58cb8725de0247c"/>
+	</game>
+</datafile>

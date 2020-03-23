@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Intec Interact - Games</name>
+		<description>Intec Interact - Games (TOSEC-v2018-07-01)</description>
+		<category>TOSEC</category>
+		<version>2018-07-01</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="32-in-1 (2012)(Intec)">
+		<description>32-in-1 (2012)(Intec)</description>
+		<rom name="32-in-1 (2012)(Intec).bin" size="33554432" crc="ddee4eac" md5="668b6cb9d424e0e6965800a002f180b6" sha1="828c0c18a66bb4872299f9a43d5e3647482c5925"/>
+	</game>
+	<game name="8-in-1 (2012)(Intec)">
+		<description>8-in-1 (2012)(Intec)</description>
+		<rom name="8-in-1 (2012)(Intec).bin" size="33554432" crc="7aee7464" md5="eb454bf064eacd347f98c6027cc5a17b" sha1="7a9cf7f54a350f0853a17459f2dcbef34f4f7c30"/>
+	</game>
+</datafile>

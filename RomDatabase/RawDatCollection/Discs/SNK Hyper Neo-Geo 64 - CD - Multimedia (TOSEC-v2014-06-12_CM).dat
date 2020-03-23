@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>SNK Hyper Neo-Geo 64 - CD - Multimedia</name>
+		<description>SNK Hyper Neo-Geo 64 - CD - Multimedia (TOSEC-v2014-06-12)</description>
+		<category>TOSEC-ISO</category>
+		<version>2014-06-12</version>
+		<author>TOSEC-ISO: Trurip</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Samurai Spirits (1998)(Pony Canyon)(JP)[CD-Audio]">
+		<description>Samurai Spirits (1998)(Pony Canyon)(JP)[CD-Audio]</description>
+		<rom name="Samurai Spirits (1998)(Pony Canyon)(JP)[CD-Audio].ccd" size="8833" crc="f2f1638c" md5="e48a6473ea19d28868336eaac6b2fbfd" sha1="142262c9d7cd9a781f504d09112c5147e0431ca2"/>
+		<rom name="Samurai Spirits (1998)(Pony Canyon)(JP)[CD-Audio].img" size="807022944" crc="4d2fafa3" md5="bfca7c3cc2395c21ce51545589f4a2aa" sha1="ce75f21c28a916c1bc0b21aa3e4c681e88f12341"/>
+		<rom name="Samurai Spirits (1998)(Pony Canyon)(JP)[CD-Audio].sub" size="32939712" crc="6513c45d" md5="ad78e4e968ec87fd6b43c028744c9f17" sha1="808987d3fe788dc73e121eca2124fb36dfcd096e"/>
+	</game>
+</datafile>

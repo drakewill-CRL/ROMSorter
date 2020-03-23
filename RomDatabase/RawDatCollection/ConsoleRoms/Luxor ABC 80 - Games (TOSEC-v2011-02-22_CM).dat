@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Luxor ABC 80 - Games</name>
+		<description>Luxor ABC 80 - Games (TOSEC-v2011-02-22)</description>
+		<category>TOSEC</category>
+		<version>2011-02-22</version>
+		<author>Cid - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Rocket (1986)(Andersson, David - Eriksson, Kristoffer)(SE)">
+		<description>Rocket (1986)(Andersson, David - Eriksson, Kristoffer)(SE)</description>
+		<rom name="Rocket (1986)(Andersson, David - Eriksson, Kristoffer)(SE).bas" size="5303" crc="2a5de3f1" md5="70fecd3f32cedb44d840dda76c87366b" sha1="6d87a507a739ee40e38221f99c086005605b1536"/>
+	</game>
+</datafile>

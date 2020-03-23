@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore Amiga - CD - Homebrew - [IMG]</name>
+		<description>Commodore Amiga - CD - Homebrew - [IMG] (TOSEC-v2018-07-02)</description>
+		<category>TOSEC-ISO</category>
+		<version>2018-07-02</version>
+		<author>Tomse - TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+		<clrmamepro/>
+	</header>
+	<game name="Amiga Doom (1998)(-)">
+		<description>Amiga Doom (1998)(-)</description>
+		<rom name="Amiga Doom (1998)(-).ccd" size="770" crc="276d39d5" md5="1d2f9ac3d049ceb7ceed83dc5b96462a" sha1="8fe65550820ee05e87ac5f9ef55399beafce9605"/>
+		<rom name="Amiga Doom (1998)(-).cue" size="84" crc="ecf383d8" md5="333cfabea49c29cb27d32bfecded0a79" sha1="b382a5e5a5cc21194627f44866d16b303cb6f7d5"/>
+		<rom name="Amiga Doom (1998)(-).img" size="29505840" crc="9332d446" md5="459cf05b8726cf355903ce3908148098" sha1="cf9047f28e71ba0fbaa908a436d58d9bc49276be"/>
+		<rom name="Amiga Doom (1998)(-).sub" size="1204320" crc="d18c7f6c" md5="279c5f0b172f8ae98dc55f6b0dbf6e1b" sha1="d24f56243adfcc001efff8db5ad21478a11ab3e0"/>
+	</game>
+</datafile>

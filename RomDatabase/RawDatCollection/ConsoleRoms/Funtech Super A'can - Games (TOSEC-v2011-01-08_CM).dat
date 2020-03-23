@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Funtech Super A'can - Games</name>
+		<description>Funtech Super A'can - Games (TOSEC-v2011-01-08)</description>
+		<category>TOSEC</category>
+		<version>2011-01-08</version>
+		<author>Aral</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Boom Zoo (1995)(Funtech)(TW)[aka Boomzoo]">
+		<description>Boom Zoo (1995)(Funtech)(TW)[aka Boomzoo]</description>
+		<rom name="Boom Zoo (1995)(Funtech)(TW)[aka Boomzoo].bin" size="524288" crc="6099bb44" md5="62aba0124eec12567f0facd8475d4ef8" sha1="0b5fbe2117bb77a827453c5489b3af691e5c7ade"/>
+	</game>
+	<game name="Journey to the Laugh (1995)(Funtech)(TW)">
+		<description>Journey to the Laugh (1995)(Funtech)(TW)</description>
+		<rom name="Journey to the Laugh (1995)(Funtech)(TW).bin" size="2097152" crc="cee25eea" md5="fb45bfe814878e759ecb413484848db9" sha1="fc82fc3a7d55571494cd62d8807160e22cf437bc"/>
+	</game>
+	<game name="Monopoly - Adventure in Africa (1995)(Funtech)(TW)">
+		<description>Monopoly - Adventure in Africa (1995)(Funtech)(TW)</description>
+		<rom name="Monopoly - Adventure in Africa (1995)(Funtech)(TW).bin" size="1048576" crc="dc3b7b84" md5="2f738d44d74f987be4b96b6ee4097e1e" sha1="6dcbd7923203da7892915595d65ee668afbf0339"/>
+	</game>
+	<game name="Sango Fighter (1995)(Funtech)(TW)">
+		<description>Sango Fighter (1995)(Funtech)(TW)</description>
+		<rom name="Sango Fighter (1995)(Funtech)(TW).bin" size="3145728" crc="a4de6dde" md5="45e297d693cd2308f637f68a2389ace4" sha1="f4bed63775130a75eb9c50b32e0cf50d1a7b8f50"/>
+	</game>
+	<game name="Son of Evil, The (1995)(Funtech)(TW)">
+		<description>Son of Evil, The (1995)(Funtech)(TW)</description>
+		<rom name="Son of Evil, The (1995)(Funtech)(TW).bin" size="2097152" crc="9f6119a7" md5="517316018ed64cd43e225f1dd074eaf2" sha1="67ae9e7f99e1c3054ea54d53dbbba7792ef45134"/>
+	</game>
+	<game name="Speedy Dragon (1995)(Artisan)(TW)[aka Sonic Dragon]">
+		<description>Speedy Dragon (1995)(Artisan)(TW)[aka Sonic Dragon]</description>
+		<rom name="Speedy Dragon (1995)(Artisan)(TW)[aka Sonic Dragon].bin" size="2097152" crc="f631383c" md5="16ff1f3d682d582b696d86ad1a128efd" sha1="fbd62b5d287aa82ef27f400ab2a6b3da0308192a"/>
+	</game>
+	<game name="Super Light Saga - Dragon Force (1996)(Funtech)(TW)[aka Super Dragon Force]">
+		<description>Super Light Saga - Dragon Force (1996)(Funtech)(TW)[aka Super Dragon Force]</description>
+		<rom name="08002.bin" size="1048576" crc="fc79f05f" md5="927f0738d3ebe5f0d9267d05bf96b1da" sha1="7ce2e23ea3fd25764935708be4d47bf1a9843938"/>
+		<rom name="16007.bin" size="2097152" crc="56c1c3fb" md5="7e7e1321ad9e4f3e1a512ab4fe3abb0c" sha1="249e2ad6d8d40ecd31eda5a1bd5e5d0f47174a27"/>
+	</game>
+	<game name="Super Taiwanese Baseball League (1995)(Funtech)(TW)">
+		<description>Super Taiwanese Baseball League (1995)(Funtech)(TW)</description>
+		<rom name="Super Taiwanese Baseball League (1995)(Funtech)(TW).bin" size="2097152" crc="ccf6829b" md5="dc2d01a03d210d2ce937efd6685d6a28" sha1="17a413803d8749fbe9643ca56d703afd64569b9f"/>
+	</game>
+</datafile>

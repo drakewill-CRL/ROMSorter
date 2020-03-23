@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>NEC PC-9801 - Games - [IMG]</name>
+		<description>NEC PC-9801 - Games - [IMG] (TOSEC-v2018-03-08)</description>
+		<category>TOSEC</category>
+		<version>2018-03-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Doom II (1995)(Imagineer)(JP)(Disk P)">
+		<description>Doom II (1995)(Imagineer)(JP)(Disk P)</description>
+		<rom name="Doom II (1995)(Imagineer)(JP)(Disk P).img" size="1261568" crc="44d368e5" md5="11ab332c4a24509876b78a415bfa378b" sha1="21c318a5f40402b1a0ae9acfa9d35009c25a2132"/>
+	</game>
+	<game name="Might and Magic - Clouds of Xeen (1993)(New World Computing)(JP)(Install Disk)">
+		<description>Might and Magic - Clouds of Xeen (1993)(New World Computing)(JP)(Install Disk)</description>
+		<rom name="Might and Magic - Clouds of Xeen (1993)(New World Computing)(JP)(Install Disk).img" size="1261568" crc="e7738b2e" md5="6313ae1f4a1c87f9cfc403faeaf82c3f" sha1="1c58c1ee565f777e931bd301cc535eb27a4b70e6"/>
+	</game>
+</datafile>

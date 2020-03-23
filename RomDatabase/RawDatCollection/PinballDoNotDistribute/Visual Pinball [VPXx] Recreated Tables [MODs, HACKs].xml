@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Visual Pinball [VPXx] Recreated Tables [MODs, HACKs]</name>
+		<description>Visual Pinball [VPXx] Recreated Tables [MODs, HACKs]</description>
+		<category>Visual Pinball [VPXx] Recreated Tables [MODs, HACKs]</category>
+		<version>1.0</version>
+		<date>2020-01-01</date>
+		<author>Yori Yoshizuki</author>
+		<email>-insert email-</email>
+		<homepage>Yori Yoshizuki</homepage>
+		<url>https://yoshizuki.webs.com</url>
+		<comment>-insert comment-</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Capt. Card (Gottlieb)(1973)(Bord)(1.0)[VPX06][MOD Loserman76 v1.0]">
+		<description>Capt. Card (Gottlieb)(1973)(Bord)(1.0)[VPX06][MOD Loserman76 v1.0]</description>
+		<rom name="capcarddt-1038x1261.jpg" size="202329" crc="7b5e37e5" sha1="e4969e2de35a691b2286800d2b538a8fcb977be4"/>
+		<rom name="Capt. Card (Gottlieb 1973).vpx" size="100573184" crc="266a7295" sha1="627eea67b8bed6512bfd6dd14a97a70c2057a2d2"/>
+	</machine>
+	<machine name="Golden Arrow (Gottlieb)(1997)(BorgDog)(1.0)[VPX][FS+dB2S BorgDog][DOF arngrim][MOD 2players BorgDog]">
+		<description>Golden Arrow (Gottlieb)(1997)(BorgDog)(1.0)[VPX][FS+dB2S BorgDog][DOF arngrim][MOD 2players BorgDog]</description>
+		<rom name="356_23_08_15_3_27_52_0.jpeg" size="133413" crc="311ab3fb" sha1="cb24388c266a89be04508dba94778cd4e0aa7216"/>
+		<rom name="Golden Arrow 2pMod (Gottlieb 1977).directb2s" size="7485682" crc="8aaa19d4" sha1="dd5d084e4d154845c0ed6f442f6f7a3070da8543"/>
+		<rom name="Golden Arrow 2pMod (Gottlieb 1977).vpx" size="30261248" crc="73d20063" sha1="b8d234c4e80448ffec7e45e19453cec90b95d2ab"/>
+	</machine>
+	<machine name="Liberty Bell (Williams)(1977)(allknowing2012)(1.01)[VPX][DOF arngrim][MOD Drybonz GFX]">
+		<description>Liberty Bell (Williams)(1977)(allknowing2012)(1.01)[VPX][DOF arngrim][MOD Drybonz GFX]</description>
+		<rom name="Liberty Bell (Williams 1977) V1.01mod.vpx" size="37605376" crc="5bfe465b" sha1="c7fa02e82d22622dfe15173a0e6f21aadf7f0f39"/>
+		<rom name="libertybell-ss.jpg" size="273337" crc="5376cd48" sha1="177d42960af28da2ab3a6f840bbc1ff44a40231f"/>
+	</machine>
+	<machine name="Whoa Nellie! Big Juicy Melons (WhizBang Pinball)(2011)(Editoy)[VPX05][MOD GFX Nude]">
+		<description>Whoa Nellie! Big Juicy Melons (WhizBang Pinball)(2011)(Editoy)[VPX05][MOD GFX Nude]</description>
+		<rom name="media\Backglass Images\Whoa Nellie (Whizbang 2011)nude.png" size="5399688" crc="56a1a0f8" sha1="e496dd0b36a494778e80ac10294de0014d10c20e"/>
+		<rom name="media\Table Images\Whoa Nellie (Whizbang 2011)nude.png" size="3367176" crc="52ec587b" sha1="c5a12d510375f5838f28b1aaf7db10024cbfad0b"/>
+		<rom name="media\Wheel Images\Whoa Nellie (Whizbang 2011)nude.png" size="475672" crc="1ec92e93" sha1="7fca46a9f63e613c60be77de1f9113b5a9588a52"/>
+		<rom name="Whoa Nellie (WhizBang 2011)nude.directb2s" size="18314726" crc="e45a8f85" sha1="ced9e30386a0ae12d052a4310f54bbccc0e2c306"/>
+		<rom name="Whoa Nellie (WhizBang 2011)nude.vpx" size="76742656" crc="9d45e3b8" sha1="c895a611b521b4369a2977ba7b8dd2d83f0f6c5a"/>
+	</machine>
+</datafile>

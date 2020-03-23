@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple Macintosh - CD - Multimedia</name>
+		<description>Apple Macintosh - CD - Multimedia (TOSEC-v2012-07-06)</description>
+		<category>TOSEC-ISO</category>
+		<version>2012-07-06</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="World Atlas &amp; Almanac v6 (1995)(Apple)">
+		<description>World Atlas &amp; Almanac v6 (1995)(Apple)</description>
+		<rom name="World Atlas &amp; Almanac v6 (1995)(Apple).cue" size="127" crc="7c6850a1" md5="2342f1cee619e0010ec48c7a83174931" sha1="145515b3688a31f2af04e7cda10876a2e237b772"/>
+		<rom name="World Atlas &amp; Almanac v6 (1995)(Apple).iso" size="682180608" crc="683da328" md5="f8c1820552e0ef1bc263fabb6a038bf5" sha1="17f84475ffa103befd6c50036c6ee30af5916054"/>
+	</game>
+</datafile>

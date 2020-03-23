@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>NEC PC-Engine CD &amp; TurboGrafx-16 CD - Games - [ISO]</name>
+		<description>NEC PC-Engine CD &amp; TurboGrafx-16 CD - Games - [ISO] (TOSEC-v2018-08-10)</description>
+		<category>TOSEC-ISO</category>
+		<version>2018-08-10</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Space Fantasy Zone (1991)(NEC Avenue)(JP)(proto)">
+		<description>Space Fantasy Zone (1991)(NEC Avenue)(JP)(proto)</description>
+		<rom name="Space Fantasy Zone (1991)(NEC Avenue)(JP)(proto).cue" size="525" crc="49e3f394" md5="0071679777c6a03217c6f649a0393c1c" sha1="8e49f38a8f9bc9c4312bd7f2864bde62c8ee44a0"/>
+		<rom name="Space Fantasy Zone (1991)(NEC Avenue)(JP)(proto).iso" size="179379984" crc="468f14df" md5="22f8f65429be8df8facdfc41ee37ff0d" sha1="ae4e1c654d132fb32c6d7103dac726d701227ef9"/>
+	</game>
+</datafile>

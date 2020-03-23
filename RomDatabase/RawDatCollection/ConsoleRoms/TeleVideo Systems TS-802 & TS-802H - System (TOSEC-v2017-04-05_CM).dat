@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>TeleVideo Systems TS-802 &amp; TS-802H - System</name>
+		<description>TeleVideo Systems TS-802 &amp; TS-802H - System (TOSEC-v2017-04-05)</description>
+		<category>TOSEC</category>
+		<version>2017-04-05</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<url>http://www.tosecdev.org</url>
+		<clrmamepro/>
+	</header>
+	<game name="CBIOS for Televideo TS-802 System v2.0 (1981)(TeleVideo Systems)">
+		<description>CBIOS for Televideo TS-802 System v2.0 (1981)(TeleVideo Systems)</description>
+		<rom name="CBIOS for Televideo TS-802 System v2.0 (1981)(TeleVideo Systems).imd" size="339863" crc="d9aa6f3e" md5="8cb77f5a9d7ea577f3d4ebc02fa18e11" sha1="a53cb5eb5fbb573dead8453b584f3a1201086c80"/>
+	</game>
+	<game name="CBIOS for Televideo TS-802 System v2.1 (1981)(TeleVideo Systems)">
+		<description>CBIOS for Televideo TS-802 System v2.1 (1981)(TeleVideo Systems)</description>
+		<rom name="CBIOS for Televideo TS-802 System v2.1 (1981)(TeleVideo Systems).imd" size="73898" crc="659275f1" md5="2686bad000b5c0a15864cc5b71213e43" sha1="ea7401f5aebdc1db15bfc80970804518b7e4974d"/>
+	</game>
+	<game name="CBIOS for Televideo TS-802 System v2.1 Rev B (1981)(TeleVideo Systems)">
+		<description>CBIOS for Televideo TS-802 System v2.1 Rev B (1981)(TeleVideo Systems)</description>
+		<rom name="CBIOS for Televideo TS-802 System v2.1 Rev B (1981)(TeleVideo Systems).imd" size="73898" crc="acb664c8" md5="4d684e385da66b505b63008dc9a30e1f" sha1="f7da1341e5ba3031da58a14ae6e910a40a30a326"/>
+	</game>
+	<game name="Televideo Systems 802 v2.0 CP-M v2.2 (1980)(Digital Research)[Serial Number 2326-01861]">
+		<description>Televideo Systems 802 v2.0 CP-M v2.2 (1980)(Digital Research)[Serial Number 2326-01861]</description>
+		<rom name="Televideo Systems 802 v2.0 CP-M v2.2 (1980)(Digital Research)[Serial Number 2326-01861].imd" size="154767" crc="39af24f7" md5="71c1100618bd89ba57306f251a2e3c93" sha1="8bd266a6d9617bf7938b42d43e6623b7b996b153"/>
+	</game>
+	<game name="Televideo Systems 802 v2.1 CP-M v2.2 (1980)(Digital Research)[Serial Number 2326-04008]">
+		<description>Televideo Systems 802 v2.1 CP-M v2.2 (1980)(Digital Research)[Serial Number 2326-04008]</description>
+		<rom name="Televideo Systems 802 v2.1 CP-M v2.2 (1980)(Digital Research)[Serial Number 2326-04008].imd" size="128502" crc="88b126b8" md5="c556a93e77517ef66b60a7367bd8d19c" sha1="c482a24f06df21393676a6d5397dcb6233d70d10"/>
+	</game>
+	<game name="Televideo TS802H CP-M v2.3 Rev F (19xx)(-)(TS-802H)">
+		<description>Televideo TS802H CP-M v2.3 Rev F (19xx)(-)(TS-802H)</description>
+		<rom name="Televideo TS802H CP-M v2.3 Rev F (19xx)(-)(TS-802H).imd" size="133818" crc="5d20e586" md5="0bcf65d788c4994ceadba551d646ef3e" sha1="cf839aaa7a52a5aa2eef5b8836521e5edc37765e"/>
+	</game>
+	<game name="Televideo TS802H CP-M v2.4 Rev G (19xx)(-)(TS-802H)">
+		<description>Televideo TS802H CP-M v2.4 Rev G (19xx)(-)(TS-802H)</description>
+		<rom name="Televideo TS802H CP-M v2.4 Rev G (19xx)(-)(TS-802H).imd" size="133818" crc="22a25900" md5="3f4c62ccd8f360a97fd8006068ca473a" sha1="b4a4d286cdbbef5eae0ef9a2df7eadfc96a1446d"/>
+	</game>
+	<game name="TurboDOS (1981-10-03)(Software 2000)">
+		<description>TurboDOS (1981-10-03)(Software 2000)</description>
+		<rom name="TurboDOS (1981-10-03)(Software 2000).imd" size="350300" crc="622048e4" md5="d11600e60b8cf00e7dec853a0bd0ef18" sha1="fd72bf0822631809cc5c21d96fbddaf9fdb6a4d6"/>
+	</game>
+</datafile>

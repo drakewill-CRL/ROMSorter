@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Visual Pinball [VP8] Original Tables</name>
+		<description>Visual Pinball [VP8] Original Tables</description>
+		<category>Visual Pinball [VP8] Original Tables</category>
+		<version>1.0</version>
+		<date>2020-01-01</date>
+		<author>Yori Yoshizuki</author>
+		<email>-insert email-</email>
+		<homepage>Yori Yoshizuki</homepage>
+		<url>https://yoshizuki.webs.com</url>
+		<comment>-insert comment-</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Addams Family, The (TV version) (Bob5453)(1.1)[VP8][2009 Edition]">
+		<description>Addams Family, The (TV version) (Bob5453)(1.1)[VP8][2009 Edition]</description>
+		<rom name="Addams Family, The (TV version) (2009)(1.0) screenshot.jpg" size="422605" crc="8a40e347" sha1="68951bbffa23745f0c1f57dc00fa24ee60c4615e"/>
+		<rom name="Addams Family, The (TV version) (2009)(1.1) screenshot.jpg" size="437275" crc="72398ea3" sha1="b7dab2c3953fb79527165a56422927758c73fa79"/>
+		<rom name="TAF TV 2009 VP8 1.0.vpt" size="11988992" crc="acf96824" sha1="33fe639102db56f9fe81864186b35c6cdcfc8184"/>
+		<rom name="TAF TV 2009 VP8 1.1.vpt" size="11203584" crc="414a6694" sha1="a7d68505d86e933efeef36dbefe0bd52e3a9f2e9"/>
+	</machine>
+	<machine name="Blues Brothers, The (Rockinghorse, Rockit)(1980 version)[VP8]">
+		<description>Blues Brothers, The (Rockinghorse, Rockit)(1980 version)[VP8]</description>
+		<rom name="Blues Brothers, The screenshot.jpg" size="212168" crc="797ed8a8" sha1="761dd7b295ee64a2bbeda16920dd6dc36428d185"/>
+		<rom name="bluesbrothers1980.vpt" size="22251008" crc="0689a0bf" sha1="63387bf3d2b4e774b527fe3a3d08d9054823d62d"/>
+	</machine>
+	<machine name="Bob's Nemesis (tiltjlp)(3.0)[VP8]">
+		<description>Bob's Nemesis (tiltjlp)(3.0)[VP8]</description>
+		<rom name="Bob's Nemesis (3.0) screenshot.jpg" size="380379" crc="ffb0ed53" sha1="da48e10dcc513ee6b68c5973a39211d86c7be58b"/>
+		<rom name="Bob's Nemesis3.vpt" size="752128" crc="bcc52d51" sha1="8a6ac4f3626412388f2090fc7d6050ab52c80764"/>
+	</machine>
+	<machine name="Breakers! (Timelord)">
+		<description>Breakers! (Timelord)</description>
+		<rom name="Breakers! (Timelord)(Alpha 92 release)[VP8].vpt" size="9366016" crc="af3788d7" sha1="08bb0ca0f5a058f6c36d2df96c484bda17985b51"/>
+		<rom name="Breakers! (Timelord)(Alpha 92a release)[VP8].vpt" size="9366016" crc="2736eedc" sha1="c51c9b64ca0296d2c8d755f8d766152e5f8399d2"/>
+		<rom name="Breakers! screenshot.jpg" size="815637" crc="e1d0768b" sha1="de0dc2ce286f482a1ede39dd7e687b4367089e15"/>
+	</machine>
+	<machine name="Charlie and the Chocolate Factory (Rascal)(1.0c)[VP8]">
+		<description>Charlie and the Chocolate Factory (Rascal)(1.0c)[VP8]</description>
+		<rom name="1.0b\Charlie and the Chocolate Factory.vpt" size="10809344" crc="869fac4a" sha1="94a1d53c696684aac098aa1648f274ceb0e5afe1"/>
+		<rom name="1.0c\Charlie and the Chocolate Factory.vpt" size="10809344" crc="044a3423" sha1="8ed7c120beb05d4e9b0b7626031c46cae5fc2c47"/>
+		<rom name="screenshot.jpg" size="311730" crc="f7168ebc" sha1="a10e44e3bab746b83472dd93a7220a220e8cb447"/>
+	</machine>
+	<machine name="Dark Age of Camelot">
+		<description>Dark Age of Camelot</description>
+		<rom name="Dark Age of Camelot (Rockinghorse)(1.0)[VP8].vpt" size="3831808" crc="250303d9" sha1="e83d7932bdbeafe5ef08ced74e30bdf449d1b443"/>
+		<rom name="Dark Age of Camelot (VP8) screenshot.jpg" size="76586" crc="9bc0a097" sha1="2ec6704bb3d84226038a567571a3d6994aa7402e"/>
+	</machine>
+	<machine name="Don't Lose Your Marbles">
+		<description>Don't Lose Your Marbles</description>
+		<rom name="Don't Lose Your Marbles (SheltieMom, tiltjlp)(2.0)[VP8].vpt" size="3036160" crc="95639510" sha1="d15d7df2ee7e09bf16b85feebc9b8155b5fda1ef"/>
+		<rom name="Don't Lose Your Marbles (VP8) screenshot.jpg" size="516254" crc="2447a85c" sha1="86fe66beebcb8cbefdff22133e25ecc17e2a54cb"/>
+	</machine>
+	<machine name="Heavy Metal Hunters">
+		<description>Heavy Metal Hunters</description>
+		<rom name="Heavy Metal Hunters (PinFrancy)(1.0)[VP8].vpt" size="19347968" crc="f0a8aa56" sha1="c77b0961f98162bf8e32be14d3e9df990176fc36"/>
+		<rom name="Heavy Metal Hunters music.txt" size="53" crc="42dd7f13" sha1="4a4beb6a62dd3643fcdf5fbc1f1adf09da1c294a"/>
+		<rom name="Heavy Metal Hunters screenshot.jpg" size="464742" crc="77348b0c" sha1="f0d7c6fcdab70cf4ae1e10f8d2e3ef0d26b9864f"/>
+		<rom name="Music\ACDC.mp3" size="3444373" crc="87c8ff44" sha1="5fe024d4850d82aad66bf6c7d09e59f107ea7a95"/>
+	</machine>
+	<machine name="Inner City Life (Roland Scholz)(2.61)[VP8]">
+		<description>Inner City Life (Roland Scholz)(2.61)[VP8]</description>
+		<rom name="(2.6)[VP8]\Inner City Life V2.6.txt" size="8364" crc="69367811" sha1="69b3be2ed382821dc81957793ac8fc6f39662e6a"/>
+		<rom name="(2.6)[VP8]\Inner City Life V2.6.vpt" size="3529216" crc="63ac6529" sha1="e6b7fca2fc732e1f4b9369a5e9f9e981f8db665f"/>
+		<rom name="(2.61)[VP8]\Inner City Life V2.61.txt" size="8470" crc="4607347c" sha1="ec2282fa69c70ce21f49f479febadb3d0e50e90f"/>
+		<rom name="(2.61)[VP8]\Inner City Life V2.61.vpt" size="3529216" crc="9cca9930" sha1="37b89ebd5f12a2954b56f2057a6e11fcc7af886f"/>
+		<rom name="Inner City Life - Alternative Music Pack.zip" size="6317597" crc="02a2478e" sha1="bfa5751975ad2c1ce04936bba4d3fe185df4bf09"/>
+		<rom name="Inner City Life - Music Pack.zip" size="4654009" crc="30167e18" sha1="8738365652b95d48ef765cd77a010832ddd27c2f"/>
+	</machine>
+	<machine name="Ivy Tech (Al Rubin)(1.0a)[VP8]">
+		<description>Ivy Tech (Al Rubin)(1.0a)[VP8]</description>
+		<rom name="Ivy Tech screenshot.jpg" size="303203" crc="37b45398" sha1="b834a0e29da7002ef823a9a0a14c9e6759cfac62"/>
+		<rom name="Ivy Tech.vpt" size="5033984" crc="d4b1237d" sha1="9674c43faaccf4017a6d8cf704b606213f03ddd4"/>
+	</machine>
+	<machine name="Kingdom Hearts">
+		<description>Kingdom Hearts</description>
+		<rom name="KH_musicpack.zip" size="10636388" crc="d1f7e719" sha1="950bb8813f86394f5ad20ea601ae71785def9a95"/>
+		<rom name="Kingdom Hearts (DesAngel, Eala Dubh Sidhe)(1.0)[VP8].vpt" size="13814784" crc="9e420b14" sha1="90224a67f9cb3667b5e0f3462be7d20ddc0b0038"/>
+		<rom name="Kingdom Hearts (DesAngel, Eala Dubh Sidhe)(1.0a)[VP8].vpt" size="13814784" crc="13e402bd" sha1="76b598ccb3c639df50eec4521633351a1b9b836b"/>
+		<rom name="Kingdom Hearts (VP8) (table notes).txt" size="1979" crc="f09c7b67" sha1="05f7c271aa209e23b26cd0d5e426f0817b65ed9b"/>
+		<rom name="Kingdom Hearts (VP8) screenshot.jpg" size="442395" crc="bcf50d86" sha1="db197e02d69f072290e91f953a3293466554e894"/>
+		<rom name="WIP\Kingdom Hearts (Eala Dubh Sidhe)(v1).vpt" size="9404928" crc="cdb52267" sha1="c6f53fa48fe5591c2d12d27663f4b745bd88d93d"/>
+		<rom name="WIP\Kingdom Hearts (Eala Dubh Sidhe)(v2).vpt" size="12754432" crc="966999a5" sha1="f9a780d7ab35977c27c3fb902f07d8287ddd154c"/>
+		<rom name="WIP\Kingdom Hearts (Eala Dubh Sidhe)(v3).vpt" size="8096768" crc="f91b4e61" sha1="9c2f40c583e038c81fafe5284d3b117a4fa84e0d"/>
+		<rom name="WIP\Kingdom Hearts (Eala Dubh Sidhe)(v4).vpt" size="7265792" crc="c1aaa68d" sha1="bd243054921964551056431e2b41c030b804d04e"/>
+		<rom name="WIP\Kingdom Hearts (Eala Dubh Sidhe)(v5).vpt" size="8256512" crc="f60f8610" sha1="9e64c7360cfa535c1708c2df8ddf6f87e4668d63"/>
+		<rom name="WIP\Kingdom Hearts (Eala Dubh Sidhe)(v6).vpt" size="14326272" crc="4675a4a1" sha1="39fdd5401c19bb71111c40cf0cac574a5807eef4"/>
+		<rom name="WIP\Kingdom Hearts (Eala Dubh Sidhe)(v7).vpt" size="13944832" crc="0315126f" sha1="c20bdaed2324537ac1e5c422ba6f9eb608928c36"/>
+		<rom name="WIP\Kingdom Hearts (v1) screenshot.jpg" size="335858" crc="c84c1ed4" sha1="a7f4125f92409dccd2985c196168f321e7ad06ee"/>
+		<rom name="WIP\Kingdom Hearts (v2) screenshot.jpg" size="336807" crc="93151d3a" sha1="7202a06110a8ba095ff9b0d7db5042f231e5bb39"/>
+		<rom name="WIP\Kingdom Hearts (v3) screenshot.jpg" size="366330" crc="344bcc3c" sha1="9c7ceda562cb7569260af7b3683a732f7fa9a68a"/>
+	</machine>
+	<machine name="Marvel Heroes">
+		<description>Marvel Heroes</description>
+		<rom name="Marvel Heroes (Faralos, Wizards Hat)(1.0)[VP8].vpt" size="5460992" crc="2c5e8b8a" sha1="9aa108b26f1ea230a8b7b53b29292b70c2b05ff2"/>
+		<rom name="Marvel Heroes (VP8) screenshot.jpg" size="164059" crc="4ae2cf61" sha1="e5297da4f8ae7240e1e54945c4ab720b610416e5"/>
+		<rom name="Marvel Heroes docs.rtf" size="1507" crc="4806fef1" sha1="be473f10191c5d20ad734eae100d846c88c2d1f8"/>
+	</machine>
+	<machine name="Moo Moo Buckeroo (Ron Bizzle)(1.0)[VP8]">
+		<description>Moo Moo Buckeroo (Ron Bizzle)(1.0)[VP8]</description>
+		<rom name="CREED.MP3" size="6331988" crc="8f0f7470" sha1="86f2b9f13fca819cd3df04c5e9a0bf9ce0f1a69f"/>
+		<rom name="MooMooBuckeroo.jpg" size="61920" crc="29d8fb64" sha1="8d03d52097e6d94875881d24d7daef146ca8d1ba"/>
+		<rom name="MooMooBuckeroo.vpt" size="1149440" crc="328c4cc7" sha1="7afe63fce641967273ce855f5ca0d7ca3f7aac49"/>
+		<rom name="Readme.txt" size="143" crc="80633c10" sha1="4870d997dbd9bbc6f0b13026efccdd6294515c4c"/>
+		<rom name="vpinmame_25.zip" size="2004337" crc="e3137f71" sha1="1741b8e08e2af34c4223fe49da6c00d6989fd0df"/>
+		<rom name="VPInstaller_1_0_3.zip" size="7760212" crc="8b299eb0" sha1="5493a3d0e81f30bc61301cb48bf4537edfdb4391"/>
+	</machine>
+	<machine name="Party">
+		<description>Party</description>
+		<rom name="Party (The Wizards_Hat)(1.47)[VP8].vpt" size="7940096" crc="4e37da00" sha1="86dc355ad258d0625e143f04f7c38ed161d3a82f"/>
+		<rom name="Party screenshot.jpg" size="73895" crc="05cad4ce" sha1="9891e902c2b40bfd921b0841f5f3d32cbf6f6b87"/>
+	</machine>
+	<machine name="Peanuts">
+		<description>Peanuts</description>
+		<rom name="Peanuts (Faralos, Decidetto)(1.0)[VP8][mod button A play &amp; VP8].vpt" size="10999296" crc="cf515f8e" sha1="8d172a93af88a1e6bfdcafd2e44e4d2c3dfbf57b"/>
+		<rom name="Peanuts screenshot.jpg" size="128304" crc="1fc924fb" sha1="2c0076a97433977ce5181438801a0d11f2b07270"/>
+	</machine>
+	<machine name="Pirates of the Caribbean - Dead Man's Chest">
+		<description>Pirates of the Caribbean - Dead Man's Chest</description>
+		<rom name="Pirates of the Caribbean - Dead Man's Chest (3.0)[VP8] screenshot.jpg" size="91696" crc="630b489b" sha1="9a30ca44e4c7dce8930463ad0298d19b8a88052e"/>
+		<rom name="Pirates of the Caribbean - Dead Man's Chest (3.4)[VP8] screenshot.jpg" size="135866" crc="b50894e2" sha1="312d3fab6e275b1b381727a3665aca2c0db9fb50"/>
+		<rom name="Pirates of the Caribbean - Dead Man's Chest (Faralos)(3.0)[VP8].vpt" size="4056576" crc="0ddb4a33" sha1="fa8bde273bc8d229e51cf8b5fc30f3e2c44fbd7f"/>
+		<rom name="Pirates of the Caribbean - Dead Man's Chest (Faralos, Wizard's Hat)(3.4)[VP8].vpt" size="5124608" crc="13eb8582" sha1="402ed78e4339919a3cd3cf44113909e0b9b5af09"/>
+		<rom name="Pirates of the Caribbean - Dead Man's Chest docs.rtf" size="1498" crc="88fea682" sha1="27379d67c502a54655fe5f52f58474762d6f207c"/>
+	</machine>
+	<machine name="Rube Goldberg">
+		<description>Rube Goldberg</description>
+		<rom name="1.0\Rube Goldberg (1.0) screenshot.jpg" size="91624" crc="56881e30" sha1="90a0de94e0e7f6ce542eab3277fecdfbfa7266e1"/>
+		<rom name="1.0\Rube Goldberg (Itchigo, Faralos)(1.0).vpt" size="8364032" crc="aac24bd1" sha1="7b324a28f511ce29dfadec2a52c2811eeaccf33a"/>
+		<rom name="1.1\Rube Goldberg (1.1 final) screenshot.jpg" size="96980" crc="23b0f2dc" sha1="b1ff768d0556f85e0605921d9d2db6b9dd9502ac"/>
+		<rom name="1.1\Rube Goldberg (Itchigo. Faralos)(1.1).vpt" size="11197440" crc="3fd36c2e" sha1="b343184d1cd0242aef336b0584f5eacadad5461f"/>
+		<rom name="1.2\Rube Goldberg (1.2) screenshot.jpg" size="121619" crc="2120e2a4" sha1="cf48b1a35196723c1c1d6decb86dd51c66ac950a"/>
+		<rom name="1.2\Rube Goldberg (Itchigo, Faralos)(1.2).vpt" size="11195392" crc="5816a306" sha1="9f2ca4e620a77af37afa7682dee1fac45f2b2e7c"/>
+		<rom name="1.2\Rube Goldberg (Itchigo, Faralos)(1.2a).vpt" size="11195392" crc="2380608f" sha1="8e20a376307fa94e636f386a4c42393842e9c4e3"/>
+		<rom name="Alpha\Rube Goldberg (Itchigo)(Alpha).vpt" size="1305088" crc="ac361272" sha1="50d6017a39b94da836ebbfa9d449a207b62d3d9a"/>
+		<rom name="WIP1\Rube Goldberg (Itchigo. Faralos)(WIP1).vpt" size="5512192" crc="397042d9" sha1="fe4aa663084be482685a30b05daa8caa0c4aebdb"/>
+		<rom name="WIP1\Rube Goldberg (WIP1) screenshot.jpg" size="91773" crc="0fff38af" sha1="29dd75f018bec85036651e25c07789c0c5790c94"/>
+		<rom name="WIP2\Rube Goldberg (Itchigo. Faralos)(WIP2).vpt" size="5947904" crc="e662ef60" sha1="5ce9e6552ad9df1cb1f3119206b75601a5317b09"/>
+		<rom name="WIP2\Rube Goldberg (WIP2) screenshot.jpg" size="91773" crc="0fff38af" sha1="29dd75f018bec85036651e25c07789c0c5790c94"/>
+		<rom name="WIP3\Rube Goldberg (Itchigo. Faralos)(WIP3).vpt" size="7910400" crc="1daf721e" sha1="13074b67edcbb056df00204775e7246503efdc6c"/>
+		<rom name="WIP3\Rube Goldberg (WIP3) screenshot.jpg" size="95803" crc="e349571a" sha1="9de0ec27c7b875884fe0346a796209b9cff37a4a"/>
+	</machine>
+	<machine name="Saddle up!">
+		<description>Saddle up!</description>
+		<rom name="Saddle up! (Koral)(1.0)[VP8].vpt" size="70159360" crc="c13a88a1" sha1="cc5aed32bcdaecc318304eed76eb08cb9fe8aec2"/>
+		<rom name="Saddle up! screenshot.jpg" size="309769" crc="01f37356" sha1="9c7ced958d47f33d2995711eb4c6f08f12d69cd8"/>
+	</machine>
+	<machine name="Salvage Quest Sunken Dreams (tiltjlp)(1.0)[VP8]">
+		<description>Salvage Quest Sunken Dreams (tiltjlp)(1.0)[VP8]</description>
+		<rom name="Salvage Quest.jpg" size="499080" crc="f38b4344" sha1="2e280e33bf868ebcf67645ead70b546144b2caf9"/>
+		<rom name="SalvageQuest2Locked.vpt" size="2061824" crc="2da434fd" sha1="56f79181c58973120c20da5721256c0d419baac1"/>
+	</machine>
+	<machine name="Samurai Pizza CAts (Fuhred)(1.0)[VP8]">
+		<description>Samurai Pizza CAts (Fuhred)(1.0)[VP8]</description>
+		<rom name="fonts\bonzai.ttf" size="23004" crc="8e2745ea" sha1="be72d14a4f6f68c6622ea4f5a12a09162b977932"/>
+		<rom name="fonts\Digir___0.ttf" size="37736" crc="7cd2c10e" sha1="dd58a9176b945cd8bb3f27b9e092e50d8a1f0383"/>
+		<rom name="notes for spc pinball.txt" size="2770" crc="3d90e5a8" sha1="b641a35e27ace3d9c449e5cb2b6f4b23558e93ac"/>
+		<rom name="samurai pinball.vpt" size="7479296" crc="77fd79d6" sha1="0ba384ad83ce81ff9533f56969fb9ab2233d28a9"/>
+		<rom name="spc pinball screenshot.jpg" size="602510" crc="3d1a2b22" sha1="57da5235610e06b08aee114d84903ef612700959"/>
+	</machine>
+	<machine name="Serenity (Ron Bizzle)(1.0)[VP8]">
+		<description>Serenity (Ron Bizzle)(1.0)[VP8]</description>
+		<rom name="Serenity (Ron Bizzle)(1.0)[VP8]\Music\Everything.mp3" size="4758184" crc="88f641b2" sha1="88ab7f6687e0438107f26def613eae5d8dc05b91"/>
+		<rom name="Serenity (Ron Bizzle)(1.0)[VP8]\Readme.txt" size="143" crc="80633c10" sha1="4870d997dbd9bbc6f0b13026efccdd6294515c4c"/>
+		<rom name="Serenity (Ron Bizzle)(1.0)[VP8]\Serenity screenshot.jpg" size="79458" crc="67b3c212" sha1="9c337e262e577aafc14af3ffb795626b2c22ac7c"/>
+		<rom name="Serenity (Ron Bizzle)(1.0)[VP8]\Serenity.vpt" size="3236864" crc="e6ebad97" sha1="5417f91c3cc3b0e40d6c8b4d73097c41c6aba93a"/>
+		<rom name="Serenity (Ron Bizzle)(1.0)[VP8]\vpinmame_25.zip" size="2004337" crc="e3137f71" sha1="1741b8e08e2af34c4223fe49da6c00d6989fd0df"/>
+		<rom name="Serenity (Ron Bizzle)(1.0)[VP8]\VPInstaller_1_0_3.zip" size="7760212" crc="8b299eb0" sha1="5493a3d0e81f30bc61301cb48bf4537edfdb4391"/>
+	</machine>
+	<machine name="SnowWhite and the Seven Dwarfs (Rascal)(1.0.1)[VP8]">
+		<description>SnowWhite and the Seven Dwarfs (Rascal)(1.0.1)[VP8]</description>
+		<rom name="SnowWhite and the Seven Dwarfs screenshot.jpg" size="287432" crc="7f5aad85" sha1="19d84515d10afd3d5e0d2468a0883466429e97de"/>
+		<rom name="snowwhite.vpt" size="17959936" crc="19ca15e3" sha1="4ae42a42313d5c13c88f5d42bbcfcfd85cc018b3"/>
+	</machine>
+	<machine name="Snuffy 2">
+		<description>Snuffy 2</description>
+		<rom name="Fonts\scifie.ttf" size="33356" crc="d9b3cb23" sha1="85ba9b92185560ce6a0ad66e1e8c85e04bea31fb"/>
+		<rom name="Snuffy 2 (Tii)(1.0)[VP8].vpt" size="2696704" crc="18799e74" sha1="5583f2bcac2faf6bf0e05121def147d6ee828ec8"/>
+		<rom name="Snuffy 2 (VP8) screenshot.jpg" size="132154" crc="75652c6b" sha1="cc4bada48f1922f00bfc3c7fe0990ba4f456a311"/>
+	</machine>
+	<machine name="Star Wars (Spirod)(1.0)[VP8](MultiBall)">
+		<description>Star Wars (Spirod)(1.0)[VP8](MultiBall)</description>
+		<rom name="Star Wars (MultiBall).vpt" size="3046912" crc="558a9689" sha1="8820ed9875781e4727d68f770da34b46c0b1f4cb"/>
+		<rom name="Star Wars.png" size="1179576" crc="f41f8133" sha1="c0880b41017a53fb39b629c5ce0bed13205cd469"/>
+	</machine>
+	<machine name="TUD">
+		<description>TUD</description>
+		<rom name="BlackoakStd.otf" size="43648" crc="f800819c" sha1="8b9a4707ccd09e50ac12ef14a2d6d5322a0746f2"/>
+		<rom name="TUD (Tii)(1.0)[VP8].vpt" size="4059648" crc="1767f184" sha1="ead723f73c8058893fa070c53bc95ebcd916ff6e"/>
+		<rom name="TUD (Tii)(1.01)[VP8].vpt" size="4059648" crc="aa656ccb" sha1="d47f2465122f69f1e49879aa78671c6430cf1768"/>
+		<rom name="TUD (Tii)(1.1)[VP8].vpt" size="4085760" crc="1d242a6c" sha1="2fe5462039339a0574b9219546943d5483b8022f"/>
+		<rom name="TUD.jpg" size="119966" crc="a0999bb6" sha1="367a9f0ec8b6ac87496c3d68b926eb836c0aae62"/>
+	</machine>
+	<machine name="Ultimate Spider-Man">
+		<description>Ultimate Spider-Man</description>
+		<rom name="Music\USAP1.mp3" size="3434403" crc="8c7a61aa" sha1="09f69c59984dbe399b025e4de3f3d6fbc7731f16"/>
+		<rom name="Music\USAP2.mp3" size="3673476" crc="de001c55" sha1="4ae4b07c5a28d87265db87b19601316324d0dae6"/>
+		<rom name="Music\USAP3.mp3" size="3810566" crc="5aeef4f2" sha1="1d836b4899017cb6c28462d343d08a735a7cd905"/>
+		<rom name="Ultimate Spider-Man (2008) screenshot.jpg" size="255263" crc="769c38b5" sha1="97957f0208f2b9c20d635842cdab7ec046f0cabe"/>
+		<rom name="Ultimate Spider-Man (Bob5453)(2008)[VP8].vpt" size="9583616" crc="8ae6e785" sha1="0278650c96d0c0498e00d14f0ecb55f3517983ae"/>
+	</machine>
+	<machine name="Wallace &amp; Gromit">
+		<description>Wallace &amp; Gromit</description>
+		<rom name="Fonts\trana___.ttf" size="58232" crc="a65607b4" sha1="f89519a6452ebc2bcaf130fd136bcfcc59b28fa6"/>
+		<rom name="W&amp;G-music.zip" size="9384395" crc="539eb876" sha1="048327b9b514f6fa32725441e741f38cc5f377a5"/>
+		<rom name="Wallace &amp; Gromit (Eala Dubh Sidhe)(RC1b)[VP8].vpt" size="13953536" crc="9855799e" sha1="e6dc0522ccb3141b4a0f25e2de12680417466997"/>
+		<rom name="Wallace &amp; Gromit (RC1) screenshot.jpg" size="552214" crc="3c87e756" sha1="43dd7cea603d6e5b4aa28ef191d2501c0f0b336a"/>
+	</machine>
+	<machine name="War of the Worlds, The">
+		<description>War of the Worlds, The</description>
+		<rom name="War of the Worlds, The (AR)(1.0)[VP8][Mod DEADPLANET Tii table].vpt" size="4461568" crc="7f239abd" sha1="ab49c13bbcd4f5b129f5ecf6a38f90e08b9da698"/>
+		<rom name="War of the Worlds, The Mod.txt" size="306" crc="03834348" sha1="a6e2334b59684b8c23dbc6edd5a17b601bd5d835"/>
+		<rom name="War of the Worlds, The readme.txt" size="758" crc="4193e03d" sha1="dc3cebc4098b9d8dbb77e111a1c162589274a048"/>
+		<rom name="War of the Worlds, The screenshot.jpg" size="332304" crc="fbc664e9" sha1="1c47d54e79b43e5b41005917057fa2e3e39b522b"/>
+	</machine>
+	<machine name="World Cup 2010 Hat-Trick (The Wizards Hat)(1.0a)[VP8]">
+		<description>World Cup 2010 Hat-Trick (The Wizards Hat)(1.0a)[VP8]</description>
+		<rom name="2010_World_Cup_-_Hat_Trick_(v1.0).vpt" size="7284736" crc="52161be3" sha1="db3e15fc359e2eedb7dbc40564a1da0fe4fdf961"/>
+		<rom name="2010_World_Cup_-_Hat_Trick_(v1.0a).vpt" size="7284736" crc="bfe9a290" sha1="ae74d9453c570c35784ec0f61b90855d5e073336"/>
+		<rom name="World Cup 2010 Hat-Trick screenshot.jpg" size="263485" crc="f920c70e" sha1="abfaf096093ab72f6e0ff50ccf9540d49328978f"/>
+	</machine>
+	<machine name="World Cup 98 (10 years and more)">
+		<description>World Cup 98 (10 years and more)</description>
+		<rom name="434px-BRA-FRA_1998-07-12.svg.png" size="48511" crc="2ffdf4b6" sha1="65aea07be0c918e0056216026fd4bccb7ca3fe4a"/>
+		<rom name="rules  regles.txt" size="542" crc="2c9a4bdd" sha1="d5f7d43bb76a6beeea1f48bb6b94472c30d843bd"/>
+		<rom name="World Cup 98 (10 years and more) (3dman)(1.0)[VP8].vpt" size="3845120" crc="70b01eb3" sha1="8ebb2c7cc4f97c0c8f1967201543461b1dcdf0c8"/>
+		<rom name="World Cup 98 (10 years and more) screenshot.jpg" size="185336" crc="77f085e8" sha1="f5a4d01834bf70bb3721435eefdce8fda5b3c110"/>
+	</machine>
+	<machine name="World of Warcraft - The Ashbringer">
+		<description>World of Warcraft - The Ashbringer</description>
+		<rom name="World of Warcraft - The Ashbringer (Beta 1.0) screenshot.jpg" size="129550" crc="7e595119" sha1="7aac8961434a4a1d79c34422c9d7dcec1d190a22"/>
+		<rom name="World of Warcraft - The Ashbringer (Beta 2.0) screenshot.jpg" size="171830" crc="3949dfec" sha1="40445567d705ef42f3aa0c7278eb490e53857051"/>
+		<rom name="World of Warcraft - The Ashbringer (MscMaster)(Beta 1.0)[VP8].vpt" size="19823104" crc="2a672ac0" sha1="ce9d4796e101502c0db570ea7cb0e4d3fe0c319e"/>
+		<rom name="World of Warcraft - The Ashbringer (MscMaster)(Beta 2.0)[VP8].vpt" size="29762560" crc="cdc69a99" sha1="34174a6590685266ae18e5d6e19bd8db2afe0bb7"/>
+	</machine>
+	<machine name="World's Fair 1962">
+		<description>World's Fair 1962</description>
+		<rom name="World's Fair 1962 (Itchigo)(1.0)[VP8].vpt" size="7928832" crc="232873c0" sha1="1c61d7ecc7d2953e5c5d2b65f25554999151c689"/>
+		<rom name="World's Fair 1962 screenshot.bmp" size="2359350" crc="da30a9b4" sha1="320121f9458b20b09f717e2d113b8c49edc470f5"/>
+		<rom name="World's Fair 1962 screenshot.jpg" size="390800" crc="8cfab95d" sha1="dfcf6c963e1bbfb603e6f9958ceecb0a0f6c41c0"/>
+	</machine>
+	<machine name="WW2USBomber">
+		<description>WW2USBomber</description>
+		<rom name="WW2USBomber (censored) screenshot.jpg" size="176166" crc="e52f8e9b" sha1="0c847a03bdefda9c1533bbc74ed3beecf4ca8dc7"/>
+		<rom name="WW2USBomber (Kiaininja)(1.0 censored)[VP8].vpt" size="17526272" crc="757c0a49" sha1="31a53ea50c35769d01428bca15801e94bff61759"/>
+		<rom name="WW2USBomber (Kiaininja)(1.0 uncensored)[VP8].vpt" size="17935360" crc="0446ae21" sha1="9188c11daa0fc41440dcd5883fa92fefd4478393"/>
+		<rom name="WW2USBomber (uncensored) screenshot.jpg" size="180498" crc="eca25547" sha1="a934a7aa8ac38585cc66be3c788126267509b647"/>
+	</machine>
+	<machine name="Zen">
+		<description>Zen</description>
+		<rom name="Zen (Faralos)(1.3)[VP8].vpt" size="4932608" crc="fe985133" sha1="f5e77ffc1da3d9714d11caf62235d7afafd79f1d"/>
+		<rom name="Zen (Faralos)(1.4)[VP8].vpt" size="4932608" crc="34665f0a" sha1="ee75a7a208fc07493a7b8a3116199262883b0b74"/>
+		<rom name="Zen screenshot.jpg" size="504980" crc="d9e631e5" sha1="fba6370365d54327209b35547a2ecdff60feecdd"/>
+	</machine>
+</datafile>

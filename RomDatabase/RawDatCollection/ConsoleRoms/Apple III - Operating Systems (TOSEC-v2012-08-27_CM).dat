@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple III - Operating Systems</name>
+		<description>Apple III - Operating Systems (TOSEC-v2012-08-27)</description>
+		<category>TOSEC</category>
+		<version>2012-08-27</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Apple III BOS v1.0 (1993-12-03)(On Three)(Disk 1 of 2)(Side 1)">
+		<description>Apple III BOS v1.0 (1993-12-03)(On Three)(Disk 1 of 2)(Side 1)</description>
+		<rom name="Apple III BOS v1.0 (1993-12-03)(On Three)(Disk 1 of 2)(Side 1).dsk" size="143360" crc="2a80e66f" md5="044f660b0369fb52bf50e81280d28edb" sha1="7246f3446c19de83cfc751cb17ead24458b8bdfe"/>
+	</game>
+	<game name="Apple III BOS v1.0 (1993-12-03)(On Three)(Disk 1 of 2)(Side 2)">
+		<description>Apple III BOS v1.0 (1993-12-03)(On Three)(Disk 1 of 2)(Side 2)</description>
+		<rom name="Apple III BOS v1.0 (1993-12-03)(On Three)(Disk 1 of 2)(Side 2).dsk" size="143360" crc="1c669cab" md5="7c08553259647b9417e68ea973e55a05" sha1="121b7422fadce90cfe233be9b307c9e04fe5d4d4"/>
+	</game>
+	<game name="Apple III BOS v1.0 (1993-12-03)(On Three)(Disk 2 of 2)(Side 1)">
+		<description>Apple III BOS v1.0 (1993-12-03)(On Three)(Disk 2 of 2)(Side 1)</description>
+		<rom name="Apple III BOS v1.0 (1993-12-03)(On Three)(Disk 2 of 2)(Side 1).dsk" size="143360" crc="2a80e66f" md5="044f660b0369fb52bf50e81280d28edb" sha1="7246f3446c19de83cfc751cb17ead24458b8bdfe"/>
+	</game>
+	<game name="Apple III BOS v1.0 (1993-12-03)(On Three)(Disk 2 of 2)(Side 2)">
+		<description>Apple III BOS v1.0 (1993-12-03)(On Three)(Disk 2 of 2)(Side 2)</description>
+		<rom name="Apple III BOS v1.0 (1993-12-03)(On Three)(Disk 2 of 2)(Side 2).dsk" size="143360" crc="1c669cab" md5="7c08553259647b9417e68ea973e55a05" sha1="121b7422fadce90cfe233be9b307c9e04fe5d4d4"/>
+	</game>
+	<game name="Apple Softcard III CP-M 56K v2.20 (1982)(Microsoft)">
+		<description>Apple Softcard III CP-M 56K v2.20 (1982)(Microsoft)</description>
+		<rom name="Apple Softcard III CP-M 56K v2.20 (1982)(Microsoft).dsk" size="143360" crc="18ec5490" md5="41572eb0b58bc07e3ec0e90ded812dbd" sha1="993fe78799d4d24ad4ecfdb455c3bbf7ac527804"/>
+	</game>
+</datafile>

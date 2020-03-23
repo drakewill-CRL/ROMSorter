@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Exidy Sorcerer - Games - [MP3]</name>
+		<description>Exidy Sorcerer - Games - [MP3] (TOSEC-v2014-01-24)</description>
+		<category>TOSEC</category>
+		<version>2014-01-24</version>
+		<author>Cid</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Chomp (1981)(W.S.King)">
+		<description>Chomp (1981)(W.S.King)</description>
+		<rom name="Chomp (1981)(W.S.King).mp3" size="755349" crc="20ef7022" md5="ed1a05a4e9fbdbc1970723706629fd9f" sha1="c9e4269305974ab2b9ac0fc2e17dfb20910d3a0b"/>
+	</game>
+	<game name="Eliza (19xx)(-)">
+		<description>Eliza (19xx)(-)</description>
+		<rom name="Eliza (19xx)(-).mp3" size="410332" crc="e43b9b3c" md5="1a93361eb50740063e0b391852e7166d" sha1="79d9856b1d39d4fa96e85c4dfee9592f1cd365dc"/>
+	</game>
+	<game name="Galaxians (19xx)(-)">
+		<description>Galaxians (19xx)(-)</description>
+		<rom name="Galaxians (19xx)(-).mp3" size="523080" crc="3863ec86" md5="e42dbdea6251961c098e628603f261af" sha1="c26dfe4a70b0644c9c6fe5f55b3f79383c82a9b9"/>
+	</game>
+</datafile>

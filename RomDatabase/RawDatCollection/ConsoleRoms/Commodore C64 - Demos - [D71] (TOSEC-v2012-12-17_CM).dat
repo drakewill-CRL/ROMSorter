@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Demos - [D71]</name>
+		<description>Commodore C64 - Demos - [D71] (TOSEC-v2012-12-17)</description>
+		<category>TOSEC</category>
+		<version>2012-12-17</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Chicken Mc Digis (19xx)(The Ancient Temple)[h]">
+		<description>Chicken Mc Digis (19xx)(The Ancient Temple)[h]</description>
+		<rom name="Chicken Mc Digis (19xx)(The Ancient Temple)[h].d71" size="351062" crc="25c79b54" md5="5cc2bfcc5174a04490fb2ad3a2a7d4f5" sha1="9f2346720450b87a6688a74325396a5f5b4ddd36"/>
+	</game>
+	<game name="Chicken Mc Digis (19xx)(The Ancient Temple)[h][a]">
+		<description>Chicken Mc Digis (19xx)(The Ancient Temple)[h][a]</description>
+		<rom name="Chicken Mc Digis (19xx)(The Ancient Temple)[h][a].d71" size="349696" crc="04c2b349" md5="6c9d72c074d63c4a6f3bd7f74a551070" sha1="54195b851d5567f1e606dea768c028fb5cc11bf8"/>
+	</game>
+	<game name="Hellraiser (1993)(New Dimension Crew)">
+		<description>Hellraiser (1993)(New Dimension Crew)</description>
+		<rom name="Hellraiser (1993)(New Dimension Crew).d71" size="349696" crc="63652c33" md5="0d88a161d7fce3bba46827a047a69909" sha1="01d10215259d0f61fb146370d5eda4dc0fc8faab"/>
+	</game>
+</datafile>

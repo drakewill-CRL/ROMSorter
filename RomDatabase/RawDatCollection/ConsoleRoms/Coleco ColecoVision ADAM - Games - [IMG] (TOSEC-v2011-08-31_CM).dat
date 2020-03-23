@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Coleco ColecoVision ADAM - Games - [IMG]</name>
+		<description>Coleco ColecoVision ADAM - Games - [IMG] (TOSEC-v2011-08-31)</description>
+		<category>TOSEC</category>
+		<version>2011-08-31</version>
+		<author>Grendel - Cid - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Chess (19xx)(-)">
+		<description>Chess (19xx)(-)</description>
+		<rom name="Chess (19xx)(-).img" size="32256" crc="6c6407bc" md5="bf7ca22e2658a5a86e35e144250460fc" sha1="6021a944cb9be596b927595f926f2b4b7bb0f29a"/>
+	</game>
+	<game name="ZZZ-UNK-BACHSAMP">
+		<description>ZZZ-UNK-BACHSAMP</description>
+		<rom name="ZZZ-UNK-BACHSAMP.img" size="66816" crc="8937312d" md5="13c1406c80c808f0be67b0e29ec193c2" sha1="258c37f48ed9b5b79319310c6cd188528aa66c8a"/>
+	</game>
+	<game name="ZZZ-UNK-MTANK">
+		<description>ZZZ-UNK-MTANK</description>
+		<rom name="ZZZ-UNK-MTANK.img" size="38784" crc="d5c29ded" md5="fad6bcd3c700fa96566247887e56ddf6" sha1="73ece8a50555aace267b2c780c4f1e1ba38aae3f"/>
+	</game>
+	<game name="ZZZ-UNK-NEWBOO">
+		<description>ZZZ-UNK-NEWBOO</description>
+		<rom name="ZZZ-UNK-NEWBOO.img" size="6144" crc="ef76d799" md5="61ad1fb975d49adb420b4044f3e916ed" sha1="96471f2842e577f3e26066c75ceafc0118135e35"/>
+	</game>
+</datafile>

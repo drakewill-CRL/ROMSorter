@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Xerox 1186 - System - [IMD]</name>
+		<description>Xerox 1186 - System - [IMD] (TOSEC-v2017-04-05)</description>
+		<category>TOSEC</category>
+		<version>2017-04-05</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<url>http://www.tosecdev.org</url>
+		<clrmamepro/>
+	</header>
+	<game name="Xerox 6085 MS-DOS v3.1 (1985-11-19)(-)">
+		<description>Xerox 6085 MS-DOS v3.1 (1985-11-19)(-)</description>
+		<rom name="Xerox 6085 MS-DOS v3.1 (1985-11-19)(-).imd" size="326580" crc="fedbbab2" md5="d83b225205c7d8b613ad7669b5342dc8" sha1="965937d9ebf978b67150874ddf3bacdae8c0a0d8"/>
+	</game>
+</datafile>

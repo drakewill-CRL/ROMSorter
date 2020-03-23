@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tandy Radio Shack TRS-80 Color Computer - Educational - [ROM]</name>
+		<description>Tandy Radio Shack TRS-80 Color Computer - Educational - [ROM] (TOSEC-v2011-01-01)</description>
+		<category>TOSEC</category>
+		<version>2011-01-01</version>
+		<author>Aral</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Bingo Math (1983)(Tandy)[26-3150]">
+		<description>Bingo Math (1983)(Tandy)[26-3150]</description>
+		<rom name="Bingo Math (1983)(Tandy)[26-3150].rom" size="4096" crc="3be0cf60" md5="09b299894c8271063cc6ddbccbf78f4e" sha1="74444a440545c1375546b30a3160a37f7967ff40"/>
+	</game>
+	<game name="Blackboard (1983)(Tandy)">
+		<description>Blackboard (1983)(Tandy)</description>
+		<rom name="Blackboard (1983)(Tandy).ROM" size="161280" crc="5deb7a51" md5="3df943b2fb13142afec03ef21b906a7c" sha1="c55cb3c6cfb3608e976522df395289531b6bcb19"/>
+	</game>
+	<game name="Doodle Bug 1 (1982)(Computerware)">
+		<description>Doodle Bug 1 (1982)(Computerware)</description>
+		<rom name="Doodle Bug 1 (1982)(Computerware).rom" size="16128" crc="b86830a9" md5="f62a58b18ba8f3ed599da91d42901d78" sha1="9562f400bced999fa5e05b654c3f1eb9f5d085e1"/>
+	</game>
+	<game name="Doodle Bug 2 (1982)(Computerware)">
+		<description>Doodle Bug 2 (1982)(Computerware)</description>
+		<rom name="Doodle Bug 2 (1982)(Computerware).rom" size="8192" crc="c3d41232" md5="dd29460e33e51a8e242abbe88bf8411e" sha1="065d7e16319735888c945d77f3192af1b34e8bd7"/>
+	</game>
+	<game name="Doodle Bug 3 (1982)(Computerware)">
+		<description>Doodle Bug 3 (1982)(Computerware)</description>
+		<rom name="Doodle Bug 3 (1982)(Computerware).rom" size="8192" crc="ea820c39" md5="d08b376b5e2577df5770e5c1d1406f08" sha1="6bd818617d1db6b0a9d4304c84089a7ae1d20dac"/>
+	</game>
+	<game name="Fraction Fever (198x)(Tandy)[25-1103]">
+		<description>Fraction Fever (198x)(Tandy)[25-1103]</description>
+		<rom name="Fraction Fever (198x)(Tandy)[25-1103].rom" size="8192" crc="93153b15" md5="a7768f8cee8df652597748200e6c8cc5" sha1="896e12d5f317338dfff9f18293faa41ee393a737"/>
+	</game>
+	<game name="Kids on Keys (198x)(Tandy)[25-1101]">
+		<description>Kids on Keys (198x)(Tandy)[25-1101]</description>
+		<rom name="Kids on Keys (198x)(Tandy)[25-1101].rom" size="8192" crc="b2e463b6" md5="9080bfe376619c42a7839312fc628cf8" sha1="e6c18226c079a24ecfd1dcf5628f12f3c8d3bb11"/>
+	</game>
+	<game name="Kindercomp (1984)(Tandy)[25-1102]">
+		<description>Kindercomp (1984)(Tandy)[25-1102]</description>
+		<rom name="Kindercomp (1984)(Tandy)[25-1102].rom" size="8192" crc="36eecac4" md5="4d0b58024c4ab15c12d2952f73edb2d3" sha1="182250101a7320d05ef8feac1725e72b37b3dd8f"/>
+	</game>
+</datafile>

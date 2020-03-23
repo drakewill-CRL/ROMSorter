@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>RCA Chip-8 - Games</name>
+		<description>RCA Chip-8 - Games (TOSEC-v2014-04-23)</description>
+		<category>TOSEC</category>
+		<version>2014-04-23</version>
+		<author>Cid - Grendel - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="15 Puzzles (19xx)(-)">
+		<description>15 Puzzles (19xx)(-)</description>
+		<rom name="15 Puzzles (19xx)(-).bin" size="384" crc="4e8693f1" md5="aaf7c09c7f5f952d0f0c326f9e01b5c0" sha1="ea9af3c09b0d9e265fcd92bcc5d51a2939fdf27a"/>
+	</game>
+	<game name="15 Puzzles (19xx)(-)[a]">
+		<description>15 Puzzles (19xx)(-)[a]</description>
+		<rom name="15 Puzzles (19xx)(-)[a].bin" size="264" crc="30ce37b1" md5="45f9c5f9cd88a744b67f368a0c1b925c" sha1="cf3a8c546038c63cd4cc1de8d171b9bf0d57c0ee"/>
+	</game>
+	<game name="Blitz (19xx)(Winter, David)">
+		<description>Blitz (19xx)(Winter, David)</description>
+		<rom name="Blitz (19xx)(Winter, David).bin" size="394" crc="92b85bd2" md5="0c5f8681336e867cf38ad68f4b5f01ec" sha1="77b88bd61ddcc81af28971a9f7ddeaced5d829be"/>
+	</game>
+	<game name="Blitz (19xx)(Winter, David)[a]">
+		<description>Blitz (19xx)(Winter, David)[a]</description>
+		<rom name="Blitz (19xx)(Winter, David)[a].bin" size="391" crc="d106c808" md5="8180b836eeb629ba93583519a5fb7b38" sha1="6f6509f38220e057a7e32ebb22dd353c1078e3e7"/>
+	</game>
+	<game name="Break Out (19xx)(-)">
+		<description>Break Out (19xx)(-)</description>
+		<rom name="Break Out (19xx)(-).bin" size="280" crc="a6bca0f7" md5="3b26819c641e08cce4559aa1c68b09b1" sha1="237756a4014fb3aa82a29246a7cdd534f8dc2dbb"/>
+	</game>
+	<game name="Brix (19xx)(-)">
+		<description>Brix (19xx)(-)</description>
+		<rom name="Brix (19xx)(-).bin" size="280" crc="aaa44d0b" md5="d677c1b9de941484d718799aebafebf3" sha1="f13766c14aeb02ad8d4d103cb5eadd282d20cddc"/>
+	</game>
+	<game name="Connect 4 (19xx)(Winter, David)">
+		<description>Connect 4 (19xx)(Winter, David)</description>
+		<rom name="Connect 4 (19xx)(Winter, David).bin" size="194" crc="9858889b" md5="29c5bf2d8f754dfe923923934513fb2d" sha1="2d10c07b532f4fa7c07a07324ba26ca39fe484fd"/>
+	</game>
+	<game name="Connect 4 (19xx)(Winter, David)[b]">
+		<description>Connect 4 (19xx)(Winter, David)[b]</description>
+		<rom name="Connect 4 (19xx)(Winter, David)[b].bin" size="197" crc="cf0c4f92" md5="7cd5fce868d363a36b6ad78124be6c72" sha1="ad3f975f5ab41bd6066a621d4d2df5006d540a5a"/>
+	</game>
+	<game name="Guess The Number (19xx)(-)">
+		<description>Guess The Number (19xx)(-)</description>
+		<rom name="Guess The Number (19xx)(-).bin" size="150" crc="f25ce7d1" md5="1128f812f5f1d3468a82d3629696e132" sha1="1d598cf6c12ae36d071a98307406beae1424e473"/>
+	</game>
+	<game name="Guess The Number (19xx)(-)[a2]">
+		<description>Guess The Number (19xx)(-)[a2]</description>
+		<rom name="Guess The Number (19xx)(-)[a2].bin" size="150" crc="0501cecb" md5="896831cac662cb5d315f9141d826eb5c" sha1="137cb8397456f53fcab216124458238bc18c0965"/>
+	</game>
+	<game name="Guess The Number (19xx)(-)[a]">
+		<description>Guess The Number (19xx)(-)[a]</description>
+		<rom name="Guess The Number (19xx)(-)[a].bin" size="148" crc="432e2fe1" md5="0e1e9fcffa803d75d81bc42f25e4b95b" sha1="5260f8931e0e9f41e555b382a14a88368e3ed886"/>
+	</game>
+	<game name="Hidden v1.0 (19xx)(Winter, David)">
+		<description>Hidden v1.0 (19xx)(Winter, David)</description>
+		<rom name="Hidden v1.0 (19xx)(Winter, David).bin" size="856" crc="8925e33a" md5="758a9faace9db7e329b565cb8b5ccc4e" sha1="22b75e9809fefaf4c37ac7e8aab5827940f4cd0b"/>
+	</game>
+	<game name="Hidden v1.0 (19xx)(Winter, David)[a]">
+		<description>Hidden v1.0 (19xx)(Winter, David)[a]</description>
+		<rom name="Hidden v1.0 (19xx)(Winter, David)[a].bin" size="850" crc="61861ae5" md5="d3f623110c962a28b86fc63e64bf33f0" sha1="050f07a54371da79f924dd0227b89d07b4f2aed0"/>
+	</game>
+	<game name="Kaleidoscope (19xx)(-)">
+		<description>Kaleidoscope (19xx)(-)</description>
+		<rom name="Kaleidoscope (19xx)(-).bin" size="120" crc="08a93fae" md5="847317965a219266a19d47eb29e72096" sha1="d6fa9dc9005dc0496f39ba52fef56f9fd0a5a158"/>
+	</game>
+	<game name="Magic Square v1.0 (19xx)(Winter, David)">
+		<description>Magic Square v1.0 (19xx)(Winter, David)</description>
+		<rom name="Magic Square v1.0 (19xx)(Winter, David).bin" size="637" crc="1a7f6694" md5="6e307d93b8ecdb7d20360b097bd52d3a" sha1="e4ef6fff9813c43bd7ad2ecaf02d1a3135d68418"/>
+	</game>
+	<game name="Maze (19xx)(-)">
+		<description>Maze (19xx)(-)</description>
+		<rom name="Maze (19xx)(-).bin" size="40" crc="5f3ae0c4" md5="524050e432bf64e2575020544a490069" sha1="e6d910b7c9f9680df462662ce16336ebcb0eab1e"/>
+	</game>
+	<game name="Maze (19xx)(-)[a]">
+		<description>Maze (19xx)(-)[a]</description>
+		<rom name="Maze (19xx)(-)[a].bin" size="38" crc="39199fe2" md5="cfbb22d907dcc760179077726a795192" sha1="8b70080adbac44513ec60005734a816372b845ec"/>
+	</game>
+	<game name="Merlin (19xx)(Winter, David)">
+		<description>Merlin (19xx)(Winter, David)</description>
+		<rom name="Merlin (19xx)(Winter, David).bin" size="354" crc="be6b193d" md5="d4534aedd1bfce00b092fcdacb69138f" sha1="37547accc8cefbe38c46fb0e316c902b61094f01"/>
+	</game>
+	<game name="Merlin (19xx)(Winter, David)[a]">
+		<description>Merlin (19xx)(Winter, David)[a]</description>
+		<rom name="Merlin (19xx)(Winter, David)[a].bin" size="345" crc="1096c3d5" md5="51ca9370c219355e4b61bb13c3e4fb37" sha1="d979858bb9ffd07b48f52f92a8bcac0199f3623e"/>
+	</game>
+	<game name="Mines! v1.0 (19xx)(Winter, David)">
+		<description>Mines! v1.0 (19xx)(Winter, David)</description>
+		<rom name="Mines! v1.0 (19xx)(Winter, David).bin" size="1875" crc="6976c87d" md5="3cca7c0b301256d0930232468a68c378" sha1="6d4514ae3a43c307763648b0bdd485fb77bcf20d"/>
+	</game>
+	<game name="Missile Command (19xx)(Winter, David)">
+		<description>Missile Command (19xx)(Winter, David)</description>
+		<rom name="Missile Command (19xx)(Winter, David).bin" size="181" crc="0beac605" md5="e88f62187bbcda94fb81490cd9de5f23" sha1="b5ab1d73071029e5b2152e1c5a9a78973d757f64"/>
+	</game>
+	<game name="Missile Command (19xx)(Winter, David)[a]">
+		<description>Missile Command (19xx)(Winter, David)[a]</description>
+		<rom name="Missile Command (19xx)(Winter, David)[a].bin" size="180" crc="6e485c29" md5="ccf8de6e6fe799b56e27b6761251b107" sha1="0d0cc129dad3c45ba672f85fec71a668232212cc"/>
+	</game>
+	<game name="Pong (19xx)(-)">
+		<description>Pong (19xx)(-)</description>
+		<rom name="Pong (19xx)(-).bin" size="246" crc="7d75a857" md5="873436fe95dbed9c43c41673e9edfd4f" sha1="b232ef880bd6060fb45fa6effed7edf0ae95670e"/>
+	</game>
+	<game name="Pong (19xx)(-)[a2]">
+		<description>Pong (19xx)(-)[a2]</description>
+		<rom name="Pong (19xx)(-)[a2].bin" size="264" crc="69970ad2" md5="e66b29e565b741710eb6d48a3c6757ad" sha1="a60611339661e3ab2d8af024ad1da5880a6f8665"/>
+	</game>
+	<game name="Pong (19xx)(-)[a3]">
+		<description>Pong (19xx)(-)[a3]</description>
+		<rom name="Pong (19xx)(-)[a3].bin" size="294" crc="ac46b66d" md5="dc0cf425bef93a9ecf09fff4565e7410" sha1="1830eb401ba8789a477dfcf294873a5479ebcfe8"/>
+	</game>
+	<game name="Pong (19xx)(-)[a]">
+		<description>Pong (19xx)(-)[a]</description>
+		<rom name="Pong (19xx)(-)[a].bin" size="247" crc="39b416ae" md5="281befbb4a6ffa910211a1650ae1afac" sha1="6c6cb6463693f6df164d4b88d94d9f03df44ce64"/>
+	</game>
+	<game name="Pong (19xx)(-)[b]">
+		<description>Pong (19xx)(-)[b]</description>
+		<rom name="Pong (19xx)(-)[b].bin" size="265" crc="25e550eb" md5="bcfb47d0db2e8af616f2c085f66e1642" sha1="c8842caffc4cca29f978c3097bfa794a8c81f220"/>
+	</game>
+	<game name="Puzzle (19xx)(-)">
+		<description>Puzzle (19xx)(-)</description>
+		<rom name="Puzzle (19xx)(-).bin" size="186" crc="851b2163" md5="f62d228f4955d0162bf4a4b64ca1ca25" sha1="ff4f32620f94768fe06178c18a8cdb93826c78b0"/>
+	</game>
+	<game name="Puzzle (19xx)(-)[a]">
+		<description>Puzzle (19xx)(-)[a]</description>
+		<rom name="Puzzle (19xx)(-)[a].bin" size="184" crc="040ca946" md5="28a67d7f503fe66b999b189848127678" sha1="1293db0ccccbe7dd3fc5a09a2abc5d7b175e18e0"/>
+	</game>
+	<game name="Random Maze Generator (19xx)(-)">
+		<description>Random Maze Generator (19xx)(-)</description>
+		<rom name="Random Maze Generator (19xx)(-).bin" size="34" crc="37a658a2" md5="ea281bb152c94c22b9855a796ff982bd" sha1="b9272ae1acdaaa79ab649f6b48b72088ca2b1d74"/>
+	</game>
+	<game name="Space Invaders v0.8 (19xx)(Winter, David)">
+		<description>Space Invaders v0.8 (19xx)(Winter, David)</description>
+		<rom name="Space Invaders v0.8 (19xx)(Winter, David).bin" size="1279" crc="465b9713" md5="da7d3bfb53d25a60531748cd39753c96" sha1="69836b68c2d0972df1ac72dcd89b96b1c1ab4243"/>
+	</game>
+	<game name="Space Invaders v0.9 (19xx)(Winter, David)">
+		<description>Space Invaders v0.9 (19xx)(Winter, David)</description>
+		<rom name="Space Invaders v0.9 (19xx)(Winter, David).bin" size="1287" crc="47acb53b" md5="ce117c37cdfb15931b9e9fb98df34978" sha1="18923ca054949ca33d80738c20e229f1dffc8654"/>
+	</game>
+	<game name="Space Invaders v0.9 (19xx)(Winter, David)[a]">
+		<description>Space Invaders v0.9 (19xx)(Winter, David)[a]</description>
+		<rom name="Space Invaders v0.9 (19xx)(Winter, David)[a].bin" size="1283" crc="ead625b8" md5="4fe20b951dbc801d7f682b88e672626c" sha1="f100197f0f2f05b4f3c8c31ab9c2c3930d3e9571"/>
+	</game>
+	<game name="Space Invaders v0.91 (19xx)(Winter, David)">
+		<description>Space Invaders v0.91 (19xx)(Winter, David)</description>
+		<rom name="Space Invaders v0.91 (19xx)(Winter, David).bin" size="1301" crc="6ff0a017" md5="a67f58742cff77702cc64c64413dc37d" sha1="5c28a5f85289c9d859f95fd5eadbdcb1c30bb08b"/>
+	</game>
+	<game name="Syzygy (1990)(RTT)">
+		<description>Syzygy (1990)(RTT)</description>
+		<rom name="Syzygy (1990)(RTT).bin" size="949" crc="eaa9502f" md5="b9382a9dd206da2493c7aed9730a97ff" sha1="1bb81fc56aee26e29efd9e56b5e27cbba7d2794a"/>
+	</game>
+	<game name="Syzygy (1990)(RTT)[a]">
+		<description>Syzygy (1990)(RTT)[a]</description>
+		<rom name="Syzygy (1990)(RTT)[a].bin" size="946" crc="67e4bf9c" md5="9440bf0cda416b3ecf568cfaa349d4fc" sha1="1bdb4ddaa7049266fa3226851f28855a365cfd12"/>
+	</game>
+	<game name="Tank Battle (19xx)(-)">
+		<description>Tank Battle (19xx)(-)</description>
+		<rom name="Tank Battle (19xx)(-).bin" size="560" crc="a929cb73" md5="0ac0fd0d309c21a6cad14bb28217f5e4" sha1="18b9d15f4c159e1f0ed58c2d8ec1d89325d3a3b6"/>
+	</game>
+	<game name="Tank Battle (19xx)(-)[a]">
+		<description>Tank Battle (19xx)(-)[a]</description>
+		<rom name="Tank Battle (19xx)(-)[a].bin" size="759" crc="3162521c" md5="11cb25b13fbdbfabc510ad27aeb68d1a" sha1="cdb86a6a4e0b12afa0bf5cdce73ecae07ffe2982"/>
+	</game>
+	<game name="Tank Battle (19xx)(-)[b]">
+		<description>Tank Battle (19xx)(-)[b]</description>
+		<rom name="Tank Battle (19xx)(-)[b].bin" size="564" crc="f5853530" md5="07eb6e57514898ca8bfe32f426fe3151" sha1="643bd270aefbd8bcf08c16734350666b2c2b5acc"/>
+	</game>
+	<game name="Tetris (19xx)(-)">
+		<description>Tetris (19xx)(-)</description>
+		<rom name="Tetris (19xx)(-).bin" size="494" crc="0ce70772" md5="aef4fc8c2a5e8431f5e0736ab281f2ee" sha1="5f518084744bf3cb8733f6e5454dfd1634320563"/>
+	</game>
+	<game name="Tetris (19xx)(-)[b]">
+		<description>Tetris (19xx)(-)[b]</description>
+		<rom name="Tetris (19xx)(-)[b].bin" size="495" crc="47b16c3a" md5="cc8f2428238f9eeb7da9a9d28acd6c7e" sha1="2dd449b6e2a758ade91b613c7aa55ad7c882f6cc"/>
+	</game>
+	<game name="Tic-Tac-Toe (19xx)(Winter, David)">
+		<description>Tic-Tac-Toe (19xx)(Winter, David)</description>
+		<rom name="Tic-Tac-Toe (19xx)(Winter, David).bin" size="486" crc="3a297a10" md5="4e5b1b1730cfa85e68a43e4766814a98" sha1="429d455a4bc53167942bf6fd934d72b0f648dce3"/>
+	</game>
+	<game name="Tic-Tac-Toe (19xx)(Winter, David)[b]">
+		<description>Tic-Tac-Toe (19xx)(Winter, David)[b]</description>
+		<rom name="Tic-Tac-Toe (19xx)(Winter, David)[b].bin" size="490" crc="12f2f0e5" md5="496908552899ba314a692e1066dbecb4" sha1="69e33b3afe8e446ddb478496302dda1e57a44274"/>
+	</game>
+	<game name="UFO (19xx)(-)">
+		<description>UFO (19xx)(-)</description>
+		<rom name="UFO (19xx)(-).bin" size="224" crc="331413e7" md5="7e35f93c5a788e7e0027c78e8b76c8fb" sha1="bdb92475acfe11bc7814a2f5eade13fcd09b756a"/>
+	</game>
+	<game name="V-Brix (19xx)(-)">
+		<description>V-Brix (19xx)(-)</description>
+		<rom name="V-Brix (19xx)(-).bin" size="507" crc="608c6ab0" md5="9ec0fe6b275220f2c8821889a5a7fcab" sha1="da710f631f8e35534d0b9170bcf892a60f49c43d"/>
+	</game>
+	<game name="V-Brix (19xx)(-)[b]">
+		<description>V-Brix (19xx)(-)[b]</description>
+		<rom name="V-Brix (19xx)(-)[b].bin" size="513" crc="78aa5eea" md5="24284b580485306578fd4f5f556ab650" sha1="67e347668ff95c3e50613f2ab01e765fcc4d942e"/>
+	</game>
+	<game name="Wall (19xx)(-)">
+		<description>Wall (19xx)(-)</description>
+		<rom name="Wall (19xx)(-).bin" size="229" crc="64a9054b" md5="8ef214bf9bcf8d038702af3dccb60a01" sha1="09ce01c54ddddda42ca5cd171f1ffcfd47355d12"/>
+	</game>
+	<game name="Wipe Off (19xx)(-)">
+		<description>Wipe Off (19xx)(-)</description>
+		<rom name="Wipe Off (19xx)(-).bin" size="206" crc="b2696048" md5="41d64f82dc3c457e4f8543e081ae8e85" sha1="d666688a8fce468a7d88b536bc1ef5f35ba12031"/>
+	</game>
+	<game name="Wipe Off (19xx)(-)[b]">
+		<description>Wipe Off (19xx)(-)[b]</description>
+		<rom name="Wipe Off (19xx)(-)[b].bin" size="208" crc="8ebda3bb" md5="506fff3cc6840e87a8bcc29659cf659b" sha1="053dc0d37cfe7bd61db7ea7fe6629467d77c8316"/>
+	</game>
+	<game name="ZZZ-UNK-C8pic">
+		<description>ZZZ-UNK-C8pic</description>
+		<rom name="ZZZ-UNK-C8pic.bin" size="164" crc="9e738d35" md5="d8a0b597809dd34f885544d2b0d9df89" sha1="a82ca5c53e1dcedfab4f65efef02229145771b7d"/>
+	</game>
+	<game name="ZZZ-UNK-Cave">
+		<description>ZZZ-UNK-Cave</description>
+		<rom name="ZZZ-UNK-Cave.bin" size="882" crc="3bc80ce8" md5="bea7fdce1ef1733f9298dbbe2257cb9c" sha1="5c82520906073287a3ef781746c67207ca084d93"/>
+	</game>
+	<game name="ZZZ-UNK-DRAGON1">
+		<description>ZZZ-UNK-DRAGON1</description>
+		<rom name="ZZZ-UNK-DRAGON1.bin" size="2656" crc="1802d315" md5="fe8ceb6f01450079b54936e5e3c6887b" sha1="d6cbd3af85b4c55b83c4e01f3a17c66fcebe9ccc"/>
+	</game>
+	<game name="ZZZ-UNK-DRAGON2">
+		<description>ZZZ-UNK-DRAGON2</description>
+		<rom name="ZZZ-UNK-DRAGON2.bin" size="262" crc="c551af2f" md5="433d7af3ae7ef71ad7cb52038620bff9" sha1="6b6502b03183e492f8170172308df9876c29d1d9"/>
+	</game>
+	<game name="ZZZ-UNK-Filter">
+		<description>ZZZ-UNK-Filter</description>
+		<rom name="ZZZ-UNK-Filter.bin" size="198" crc="fb592cc5" md5="e0d2f1471b860bb99ce3d5a38d6eb2ac" sha1="ae71a7b081a947f1760cdc147759803aea45e751"/>
+	</game>
+	<game name="ZZZ-UNK-Ibm">
+		<description>ZZZ-UNK-Ibm</description>
+		<rom name="ZZZ-UNK-Ibm.bin" size="132" crc="c46ca868" md5="2dbace8066709ac9a264d23281820d32" sha1="1ba58656810b67fd131eb9af3e3987863bf26c90"/>
+	</game>
+	<game name="ZZZ-UNK-Rocket">
+		<description>ZZZ-UNK-Rocket</description>
+		<rom name="ZZZ-UNK-Rocket.bin" size="112" crc="027e5abb" md5="e551a30b32b45451b0b67931744244e1" sha1="e2005db6391f589534dd2d63a95b429338bd667c"/>
+	</game>
+	<game name="ZZZ-UNK-SQUASH">
+		<description>ZZZ-UNK-SQUASH</description>
+		<rom name="ZZZ-UNK-SQUASH.bin" size="211" crc="801843e0" md5="4a1b1a19be22acd4b82b68dd2399fe68" sha1="a58ec7cc63707f9e7274026de27c15ec1d9945bd"/>
+	</game>
+	<game name="ZZZ-UNK-Tapeworm">
+		<description>ZZZ-UNK-Tapeworm</description>
+		<rom name="ZZZ-UNK-Tapeworm.bin" size="284" crc="c77a1852" md5="dadaaf440809732d51485a2bc9410781" sha1="775e82a36c93f1b41b42eca94b55acbc4a48cebe"/>
+	</game>
+	<game name="ZZZ-UNK-X-mirror">
+		<description>ZZZ-UNK-X-mirror</description>
+		<rom name="ZZZ-UNK-X-mirror.bin" size="106" crc="0dc70d2f" md5="ae22ff9a0fcdd4ffd9be340f1ae3c8ed" sha1="46d738c291f1963e94160415e914b75dbf7bd058"/>
+	</game>
+</datafile>

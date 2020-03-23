@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Thomson TO8, TO8D, TO9, TO9+ - Coverdisks</name>
+		<description>Thomson TO8, TO8D, TO9, TO9+ - Coverdisks (TOSEC-v2017-03-17)</description>
+		<category>TOSEC</category>
+		<version>2017-03-17</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<url>http://www.tosecdev.org</url>
+		<clrmamepro/>
+	</header>
+	<game name="ICDV Magazine - Numero 1 (199x)(ICDV)(FR)">
+		<description>ICDV Magazine - Numero 1 (199x)(ICDV)(FR)</description>
+		<rom name="ICDV Magazine - Numero 1 (199x)(ICDV)(FR).fd" size="327680" crc="f3cfc402" md5="841284814ef422c731319f93055e55a4" sha1="91ccd30432f94cdd34025b41f5c091447f30adaa"/>
+	</game>
+	<game name="ICDV Magazine - Numero 2 (1991-05)(ICDV)(FR)">
+		<description>ICDV Magazine - Numero 2 (1991-05)(ICDV)(FR)</description>
+		<rom name="ICDV Magazine - Numero 2 (1991-05)(ICDV)(FR).fd" size="327680" crc="14b2c13d" md5="538b8b9a8a6fa3bce6bba9b5de2da620" sha1="da52c6951f79538139e012f22eeeddca2d46cbd9"/>
+	</game>
+	<game name="ICDV Magazine - Numero 3 (1991-07)(ICDV)(FR)">
+		<description>ICDV Magazine - Numero 3 (1991-07)(ICDV)(FR)</description>
+		<rom name="ICDV Magazine - Numero 3 (1991-07)(ICDV)(FR).fd" size="327680" crc="40f09144" md5="87fdbba456d2ab83f9872988a218a2d0" sha1="725f5fd55de05ad6176e9af189e73bc17aa76f6a"/>
+	</game>
+	<game name="ICDV Magazine - Numero 4 (1991-09)(ICDV)(FR)">
+		<description>ICDV Magazine - Numero 4 (1991-09)(ICDV)(FR)</description>
+		<rom name="ICDV Magazine - Numero 4 (1991-09)(ICDV)(FR).fd" size="327680" crc="241e0d25" md5="a1380cd3619384f3b63a3d40fba7da42" sha1="4e4fdafa2bdae055fb96fca4b8e874aad452114b"/>
+	</game>
+</datafile>

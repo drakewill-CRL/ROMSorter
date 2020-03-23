@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>DEC Rainbow 100 - Applications</name>
+		<description>DEC Rainbow 100 - Applications (TOSEC-v2018-07-01)</description>
+		<category>TOSEC</category>
+		<version>2018-07-01</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Learn Rainbow (1983)(DEC)[BIN RX50-A]">
+		<description>Learn Rainbow (1983)(DEC)[BIN RX50-A]</description>
+		<rom name="Learn Rainbow (1983)(DEC)[BIN RX50-A].imd" size="296219" crc="4c8528b7" md5="77d98f11e677301d2c341377fd48ffe5" sha1="cc8915a15f4e43f6055fd36923fd004e3f896cd2"/>
+	</game>
+	<game name="Learn Rainbow (1983)(DEC)[BIN RX50-B]">
+		<description>Learn Rainbow (1983)(DEC)[BIN RX50-B]</description>
+		<rom name="Learn Rainbow (1983)(DEC)[BIN RX50-B].imd" size="382578" crc="1780d4a0" md5="cc314ca7e2edcd9c6ebc27c291b357f1" sha1="5012c4ba53d20e6996c5e9970f01cbb4dd52d0dd"/>
+	</game>
+	<game name="Winchester Utility-Diag Disk (1983)(DEC)">
+		<description>Winchester Utility-Diag Disk (1983)(DEC)</description>
+		<rom name="Winchester Utility-Diag Disk (1983)(DEC).IMD" size="264541" crc="c002e065" md5="bac2d1026cc5009d7c03c689297afcc0" sha1="ff91f054e6223a78d476f9067f03c4fb610daf72"/>
+	</game>
+	<game name="WPS-PLUS Rainbow v1.2 (1986)(DEC)(Disk 1 of 5)(WPS-PLUS System)[BL-EG30B-XV]">
+		<description>WPS-PLUS Rainbow v1.2 (1986)(DEC)(Disk 1 of 5)(WPS-PLUS System)[BL-EG30B-XV]</description>
+		<rom name="WPS-PLUS Rainbow v1.2 (1986)(DEC)(Disk 1 of 5)(WPS-PLUS System)[BL-EG30B-XV].imd" size="366705" crc="334d742c" md5="41229661ec291edeadf58e379b295ae0" sha1="6641a8297b6fd752adbcc08ca59f77801db501d0"/>
+	</game>
+	<game name="WPS-PLUS Rainbow v1.2 (1986)(DEC)(Disk 2 of 5)(WPS-PLUS Editor, Print)[BL-EG31B-XV]">
+		<description>WPS-PLUS Rainbow v1.2 (1986)(DEC)(Disk 2 of 5)(WPS-PLUS Editor, Print)[BL-EG31B-XV]</description>
+		<rom name="WPS-PLUS Rainbow v1.2 (1986)(DEC)(Disk 2 of 5)(WPS-PLUS Editor, Print)[BL-EG31B-XV].imd" size="282414" crc="81380445" md5="90e1e4c6a020f554d6cf403ab892137d" sha1="ad07c0d31d0c84fce3eaa87082bb8f4f6277fc4c"/>
+	</game>
+	<game name="WPS-PLUS Rainbow v1.2 (1986)(DEC)(Disk 3 of 5)(WPS-PLUS Doc MT Transfer, CNVT)[BL-EG32B-XV]">
+		<description>WPS-PLUS Rainbow v1.2 (1986)(DEC)(Disk 3 of 5)(WPS-PLUS Doc MT Transfer, CNVT)[BL-EG32B-XV]</description>
+		<rom name="WPS-PLUS Rainbow v1.2 (1986)(DEC)(Disk 3 of 5)(WPS-PLUS Doc MT Transfer, CNVT)[BL-EG32B-XV].imd" size="350859" crc="e42bd9ff" md5="9dd373012b229f65186f0bfc5244f0b9" sha1="57ea66fd02f446f6c978d8fb5dc22d6d932e84fb"/>
+	</game>
+	<game name="WPS-PLUS Rainbow v1.2 (1986)(DEC)(Disk 4 of 5)(WPS-PLUS List-Sort Processing)[BL-EG33B-XV]">
+		<description>WPS-PLUS Rainbow v1.2 (1986)(DEC)(Disk 4 of 5)(WPS-PLUS List-Sort Processing)[BL-EG33B-XV]</description>
+		<rom name="WPS-PLUS Rainbow v1.2 (1986)(DEC)(Disk 4 of 5)(WPS-PLUS List-Sort Processing)[BL-EG33B-XV].imd" size="373348" crc="9c1c478c" md5="af495e7a9dccda25d2b87b5e5d3eb214" sha1="c46a6690af4d847775337cb04c7af1e8551a61aa"/>
+	</game>
+	<game name="WPS-PLUS Rainbow v1.2 (1986)(DEC)(Disk 5 of 5)(WPS-PLUS Utility)[BL-HC50B-XV]">
+		<description>WPS-PLUS Rainbow v1.2 (1986)(DEC)(Disk 5 of 5)(WPS-PLUS Utility)[BL-HC50B-XV]</description>
+		<rom name="WPS-PLUS Rainbow v1.2 (1986)(DEC)(Disk 5 of 5)(WPS-PLUS Utility)[BL-HC50B-XV].imd" size="233845" crc="92a9f376" md5="2c8ea91afd9ebef7ab890e53d46a666a" sha1="9a2b23e446c391a2e3cfb9f3610c28468aa28aec"/>
+	</game>
+	<game name="WPS-PLUS WKST v1.2A - Rainbow Patch Files (1987)(DEC)[BIN RX 50][BL-KU39A-BV]">
+		<description>WPS-PLUS WKST v1.2A - Rainbow Patch Files (1987)(DEC)[BIN RX 50][BL-KU39A-BV]</description>
+		<rom name="WPS-PLUS WKST v1.2A - Rainbow Patch Files (1987)(DEC)[BIN RX 50][BL-KU39A-BV].imd" size="304386" crc="63162ace" md5="d40ebb8b105fb163223f465db0e79cb8" sha1="628379f53f5924fa0a6c0d2243b9845b78b37dba"/>
+	</game>
+</datafile>

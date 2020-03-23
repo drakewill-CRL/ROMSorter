@@ -1,0 +1,503 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>EACA EG2000 Colour Genie - Various</name>
+		<description>EACA EG2000 Colour Genie - Various (TOSEC-v2014-01-23)</description>
+		<category>TOSEC</category>
+		<version>2014-01-23</version>
+		<author>|cy[ool - Grendel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Abenteuerland (19xx)(-)(de)">
+		<description>Abenteuerland (19xx)(-)(de)</description>
+		<rom name="Abenteuerland (19xx)(-)(de).cas" size="9205" crc="321710b8" md5="1a688478ef837ce2267408e51c5c349f" sha1="280e5e36cbd578b94d58d152476de1155c282ae3"/>
+	</game>
+	<game name="Adressdatei II (19xx)(Alex D.)(de)">
+		<description>Adressdatei II (19xx)(Alex D.)(de)</description>
+		<rom name="Adressdatei II (19xx)(Alex D.)(de).cas" size="10858" crc="917a2513" md5="b926c6fa807e37e8c88b58e7dc43506f" sha1="032c9f3f84de63af59dff0af6b0cc58296387536"/>
+	</game>
+	<game name="Adressen Verwaltung (19xx)(-)(de)">
+		<description>Adressen Verwaltung (19xx)(-)(de)</description>
+		<rom name="Adressen Verwaltung (19xx)(-)(de).cas" size="11598" crc="ee642294" md5="6602fd994fce19d7ab7d7cf774742734" sha1="2b7e21ed6ccd8a3d7384f6159cdca1ba6072dd00"/>
+	</game>
+	<game name="Africa (1989)(Schneider, Marcus)(de)">
+		<description>Africa (1989)(Schneider, Marcus)(de)</description>
+		<rom name="Africa (1989)(Schneider, Marcus)(de).cas" size="6949" crc="355dd131" md5="64baa4d4f6d08cdf5eaf326a2f35bd47" sha1="c4490c1fb92eb64be62c166f77bfc02610b32cf7"/>
+	</game>
+	<game name="Andromeda (1982)(Buchmueller, Juergen)(de)">
+		<description>Andromeda (1982)(Buchmueller, Juergen)(de)</description>
+		<rom name="Andromeda (1982)(Buchmueller, Juergen)(de).cas" size="12544" crc="cb10616e" md5="9ae00fce385b0baf436bc27202a6a1e9" sha1="65e6679e24bb7e946b90961ba20cb522ae29e601"/>
+	</game>
+	<game name="Andromeda (1982)(Buchmueller, Juergen)(de)[a]">
+		<description>Andromeda (1982)(Buchmueller, Juergen)(de)[a]</description>
+		<rom name="Andromeda (1982)(Buchmueller, Juergen)(de)[a].cas" size="14938" crc="be51a28c" md5="e4f39b35449508230037cedbcf0a4141" sha1="71c474378582f9d522a0047b3d6a83856f5be542"/>
+	</game>
+	<game name="Astronaut (1984)(Taylor, N. A.)">
+		<description>Astronaut (1984)(Taylor, N. A.)</description>
+		<rom name="Astronaut (1984)(Taylor, N. A.).cas" size="9100" crc="7e57ada8" md5="62a5519c4a73e542c76c51b77fb6df84" sha1="d98171f78f2da39ec7ea7c897a78741f1e926bee"/>
+	</game>
+	<game name="Backgammon (1983)(JD Tronics)">
+		<description>Backgammon (1983)(JD Tronics)</description>
+		<rom name="Backgammon (1983)(JD Tronics).cas" size="9344" crc="3520e3d0" md5="6ddd9c6d40f5543a96981c06e0cbefd1" sha1="415d43b0c68472a34994e2a950e4d1fd643c5a57"/>
+	</game>
+	<game name="BASIC Packer v2.13 (1983)(TCS)">
+		<description>BASIC Packer v2.13 (1983)(TCS)</description>
+		<rom name="BASIC Packer v2.13 (1983)(TCS).cas" size="4448" crc="b1074e77" md5="73babcc9e71bf6c81ad1f144cd2475de" sha1="bcff0ab3e60fac4213342f6e5807d047c6e96f8d"/>
+	</game>
+	<game name="BasiCode (1983)(TCS)">
+		<description>BasiCode (1983)(TCS)</description>
+		<rom name="BasiCode (1983)(TCS).cas" size="2199" crc="9da86441" md5="661dc65bc8909bd779e22cde55d1bf3c" sha1="f1b806842c4f0cfa9b4b69c4e45fae2135925712"/>
+	</game>
+	<game name="Benchmark Test (19xx)(-)">
+		<description>Benchmark Test (19xx)(-)</description>
+		<rom name="Benchmark Test (19xx)(-).cas" size="35" crc="0f490f94" md5="903b505b95ed06d7e11663c18c494dd8" sha1="d579a5e298eff5c3ff3e011fe7318fa48220f120"/>
+	</game>
+	<game name="Berliner uhr, Die (19xx)(Toelke, Wilhelm)(de)">
+		<description>Berliner uhr, Die (19xx)(Toelke, Wilhelm)(de)</description>
+		<rom name="Berliner uhr, Die (19xx)(Toelke, Wilhelm)(de).cas" size="6451" crc="382907d8" md5="44d6ac9671720c0d80320fa55c47b97b" sha1="613aea5c65a3ffea2ad5297d3bf80363562b5701"/>
+	</game>
+	<game name="Blues Maker (19xx)(-)">
+		<description>Blues Maker (19xx)(-)</description>
+		<rom name="Blues Maker (19xx)(-).cas" size="948" crc="4a7855e2" md5="f97ca614c8269963582e92983a1eaaa6" sha1="90abf3f8207368d26cba65105685fbb7617395e5"/>
+	</game>
+	<game name="Bumm Bumm (19xx)(-)(de)">
+		<description>Bumm Bumm (19xx)(-)(de)</description>
+		<rom name="Bumm Bumm (19xx)(-)(de).cas" size="3913" crc="f94afe05" md5="f826d529aeab15b89381c678047cc06e" sha1="e7e8b6f1588baaa2c7ba27cb59950fad1fd2387e"/>
+	</game>
+	<game name="Chemie 1 (1981)(-)(de)">
+		<description>Chemie 1 (1981)(-)(de)</description>
+		<rom name="Chemie 1 (1981)(-)(de).cas" size="4839" crc="d478a0bd" md5="0c73371c05b30f207cdcf2461348ff81" sha1="a8b413f5a740e56ae8695518eb13a9320003d8e7"/>
+	</game>
+	<game name="Chemie 2 (1981)(-)(de)">
+		<description>Chemie 2 (1981)(-)(de)</description>
+		<rom name="Chemie 2 (1981)(-)(de).cas" size="3516" crc="9d90dddc" md5="288c52bfc10ca7274e8f2d2ea4f50c95" sha1="e23ad0ee008fde9097d0884f97f713e6c11134eb"/>
+	</game>
+	<game name="Chemie 4 (1981)(-)(de)">
+		<description>Chemie 4 (1981)(-)(de)</description>
+		<rom name="Chemie 4 (1981)(-)(de).cas" size="3581" crc="ab3e1133" md5="3ee00ee84ef4619e1d02c49e8b13766f" sha1="72c7871a671257315a9de8e49a6a6a6410893b07"/>
+	</game>
+	<game name="Chopper (1983)(Buchmueller, Juergen)[Req 16k]">
+		<description>Chopper (1983)(Buchmueller, Juergen)[Req 16k]</description>
+		<rom name="Chopper (1983)(Buchmueller, Juergen)[Req 16k].cas" size="12034" crc="190a67fb" md5="e0cfd60f4f12cdc4e016310ad09eb401" sha1="f8f3d6280561d6af2c14feb206d8a55d08948958"/>
+	</game>
+	<game name="Chopper (19xx)(-)[Req 32k]">
+		<description>Chopper (19xx)(-)[Req 32k]</description>
+		<rom name="Chopper (19xx)(-)[Req 32k].cas" size="27969" crc="5e13a90b" md5="f6aa34cbca83e416d509d7559914a37b" sha1="46e9ce8a093f9735b1a31e874a13b1beb79aadd2"/>
+	</game>
+	<game name="CIA Agent (1985)(Schaffarzik, Sven)(de)">
+		<description>CIA Agent (1985)(Schaffarzik, Sven)(de)</description>
+		<rom name="CIA Agent (1985)(Schaffarzik, Sven)(de).cas" size="16447" crc="9aca41aa" md5="004e9c825e7c7c16942158dc81af1511" sha1="5267a08c72c273aa2920f05cdaa8ec1f3fcd96da"/>
+	</game>
+	<game name="Colour BASIC Compiler v3.05 (1982)(TCS)(de)">
+		<description>Colour BASIC Compiler v3.05 (1982)(TCS)(de)</description>
+		<rom name="Colour BASIC Compiler v3.05 (1982)(TCS)(de).cas" size="15340" crc="2628fe32" md5="87a5874c0ee54a410094fc6c7f61ad6b" sha1="143104b746cd959a0c022bd8a8807ad9875f4d8a"/>
+	</game>
+	<game name="Colour BASIC Plus (1983)(TCS)">
+		<description>Colour BASIC Plus (1983)(TCS)</description>
+		<rom name="Colour BASIC Plus (1983)(TCS).cas" size="5250" crc="870865de" md5="f035800258805684e76f512886a2aebb" sha1="c2b98f33c93fc30a2926fb465d2f21b7ae92d9df"/>
+	</game>
+	<game name="Colour Datei (19xx)(Fischer, Jan)(de)">
+		<description>Colour Datei (19xx)(Fischer, Jan)(de)</description>
+		<rom name="Colour Datei (19xx)(Fischer, Jan)(de).cas" size="7470" crc="021d8dae" md5="97a87d42909d7bc465b4d3ef1433f243" sha1="b7222c62561e61e4001dd9331a49a6a38ff1d735"/>
+	</game>
+	<game name="Colour Design v3.0 (19xx)(-)">
+		<description>Colour Design v3.0 (19xx)(-)</description>
+		<rom name="Colour Design v3.0 (19xx)(-).cas" size="849" crc="3cade933" md5="e345d4ef7e1d50d3df9fe29cccb2c49c" sha1="ad81c5fe7ff6ce162f5a5b51234e2dc41421975b"/>
+	</game>
+	<game name="Colour DOS Interface (1997)(Buchmueller, Juergen)">
+		<description>Colour DOS Interface (1997)(Buchmueller, Juergen)</description>
+		<rom name="Colour DOS Interface (1997)(Buchmueller, Juergen).cas" size="2889" crc="4a8578a2" md5="258e5325d6d8efe50a6d7cc2ef42072f" sha1="d2d707952b695c065c5a7b400d2314bc921bc15f"/>
+	</game>
+	<game name="Colour FORTH v2.0 (1983)(TCS)">
+		<description>Colour FORTH v2.0 (1983)(TCS)</description>
+		<rom name="Colour FORTH v2.0 (1983)(TCS).cas" size="13132" crc="a2f51fc0" md5="48ee175fee3f7eac9484a29d23fdc2a4" sha1="424c3c5be4d1c205499cea371b0f302f40dbdb60"/>
+	</game>
+	<game name="Colour FORTH v2.0 (1983)(TCS)[a]">
+		<description>Colour FORTH v2.0 (1983)(TCS)[a]</description>
+		<rom name="Colour FORTH v2.0 (1983)(TCS)[a].cas" size="7246" crc="628cc3ce" md5="71d87c72476cb5c589537c8c751613c7" sha1="8bdaa980d10c3a579f9a40052880f624f11e0eeb"/>
+	</game>
+	<game name="Colour Genie Demonstration (19xx)(Schmidt, Carsten)(de)">
+		<description>Colour Genie Demonstration (19xx)(Schmidt, Carsten)(de)</description>
+		<rom name="Colour Genie Demonstration (19xx)(Schmidt, Carsten)(de).cas" size="9002" crc="791aedf8" md5="bd6a63d2f7909f2456e760a51c7fb808" sha1="e1f5af14184416b90552b12f8aa3fc8738267829"/>
+	</game>
+	<game name="Colour Genie Demonstration 2 (19xx)(-)">
+		<description>Colour Genie Demonstration 2 (19xx)(-)</description>
+		<rom name="Colour Genie Demonstration 2 (19xx)(-).cas" size="8932" crc="57acc541" md5="7fb6cb8237f74f9bb62932cc66d93053" sha1="9db7c8873f5b1404546cc23305075122b65aee74"/>
+	</game>
+	<game name="Colour Kong (1983)(TCS)[a][Req 16k]">
+		<description>Colour Kong (1983)(TCS)[a][Req 16k]</description>
+		<rom name="Colour Kong (1983)(TCS)[a][Req 16k].cas" size="8742" crc="111deb80" md5="e1bdc7906fdadfea793e366c0e87cb4f" sha1="9a106a73d113851c6a60d401715f96fbbe2d9534"/>
+	</game>
+	<game name="Colour Kong (1983)(TCS)[Req 16k]">
+		<description>Colour Kong (1983)(TCS)[Req 16k]</description>
+		<rom name="Colour Kong (1983)(TCS)[Req 16k].cas" size="8731" crc="f6ae6158" md5="910a3734ad2b767f991a8483ba06b3c3" sha1="319a60dc863eabd05c79a8de261af70b6e5ba74b"/>
+	</game>
+	<game name="Colour Kong (1983)(TCS)[Req 32k]">
+		<description>Colour Kong (1983)(TCS)[Req 32k]</description>
+		<rom name="Colour Kong (1983)(TCS)[Req 32k].cas" size="12335" crc="83fba82e" md5="778592a9ec8718000f55709b0882219f" sha1="1799cde3a3fe308cb987df940ee111ad564936c5"/>
+	</game>
+	<game name="Colour Kopier (19xx)(-)">
+		<description>Colour Kopier (19xx)(-)</description>
+		<rom name="Colour Kopier (19xx)(-).cas" size="3660" crc="d2ee13b0" md5="a4554aae9bf989147f5bcec46a02cf88" sha1="fbd1c47000396036e6a5bd987bb3fb120df5b741"/>
+	</game>
+	<game name="Colour Monitor v2.0 (19xx)(-)">
+		<description>Colour Monitor v2.0 (19xx)(-)</description>
+		<rom name="Colour Monitor v2.0 (19xx)(-).cas" size="4192" crc="ae8b9163" md5="9f5270f7c8ad76801fc52269ba474871" sha1="ac9bd8ca81036482e73742a2fa1b77747500cf70"/>
+	</game>
+	<game name="Colour Monitor v2.0 (19xx)(-)[a]">
+		<description>Colour Monitor v2.0 (19xx)(-)[a]</description>
+		<rom name="Colour Monitor v2.0 (19xx)(-)[a].cas" size="4195" crc="8c96504c" md5="ce5c3668b45fd0f29d8e2abc1763fe6f" sha1="4f84cb5fa31f2a645217092cfc183acdc8b65c8e"/>
+	</game>
+	<game name="Colour Monitor v3.0 (1983)(TCS)">
+		<description>Colour Monitor v3.0 (1983)(TCS)</description>
+		<rom name="Colour Monitor v3.0 (1983)(TCS).cas" size="15091" crc="51f27191" md5="5de2dd835dc33a0e50386fbbdd612343" sha1="bb5dce66adc62cf7d4460fa93331132f66b0266e"/>
+	</game>
+	<game name="Colour Office Tape-Disk Converter v1.11 (19xx)(-)">
+		<description>Colour Office Tape-Disk Converter v1.11 (19xx)(-)</description>
+		<rom name="Colour Office Tape-Disk Converter v1.11 (19xx)(-).cas" size="1452" crc="88fdad97" md5="a0a925f19977eaa60938b7e177ea9a45" sha1="6d66db21fb6bfdd0b339a5e4884a9f014c06eb3a"/>
+	</game>
+	<game name="Colour Pascal v2.0 (19xx)(-)">
+		<description>Colour Pascal v2.0 (19xx)(-)</description>
+		<rom name="Colour Pascal v2.0 (19xx)(-).cas" size="11896" crc="463af74d" md5="c04f696924ce8e45df43abccfe0f7a82" sha1="8756a8f0ba9bb82b9c1a45ed15e8e1d07dedf6c7"/>
+	</game>
+	<game name="Colour ROT (1983)(TCS)(de)">
+		<description>Colour ROT (1983)(TCS)(de)</description>
+		<rom name="Colour ROT (1983)(TCS)(de).cas" size="12132" crc="d95dc066" md5="8dd502fe34048d3f6f5f3a0d9ca6c8e7" sha1="52c112b2e342fcec6faac1a10677e3f1ba2cdc6a"/>
+	</game>
+	<game name="Colour Schach (1983)(-)(de)">
+		<description>Colour Schach (1983)(-)(de)</description>
+		<rom name="Colour Schach (1983)(-)(de).cas" size="10161" crc="b21c8982" md5="04bcdcc9245c0202ebfdf3aa9c4b51f5" sha1="78bb511ac85cc5b996a2fcfe6ebb9dc9e25e2040"/>
+	</game>
+	<game name="Colour Schach (1983)(TCS)(de)">
+		<description>Colour Schach (1983)(TCS)(de)</description>
+		<rom name="Colour Schach (1983)(TCS)(de).cas" size="11127" crc="997f5271" md5="47bbd907ded37845ca372d9dec363c58" sha1="ce040beccae0504b169f693bf6a8c17633bfcfb8"/>
+	</game>
+	<game name="Colour Tune v2.1 (1984)(Baedker, K.)">
+		<description>Colour Tune v2.1 (1984)(Baedker, K.)</description>
+		<rom name="Colour Tune v2.1 (1984)(Baedker, K.).cas" size="10979" crc="741e6dfd" md5="a7535c690a4d977403bc2f7f44debafa" sha1="a5cd7e3e865fc231de751a55c57f432b73679012"/>
+	</game>
+	<game name="Cosmic Attack (19xx)(Kansas Software)">
+		<description>Cosmic Attack (19xx)(Kansas Software)</description>
+		<rom name="Cosmic Attack (19xx)(Kansas Software).cas" size="9775" crc="a0231790" md5="87628936e343ddff035b05bbf9841f38" sha1="5b9fec64e2f46e8240ed1416c2e3a7c12e489251"/>
+	</game>
+	<game name="Crazy Paint (19xx)(-)">
+		<description>Crazy Paint (19xx)(-)</description>
+		<rom name="Crazy Paint (19xx)(-).cas" size="13654" crc="75202477" md5="83320f1a34716bcdba207ad6163a1a2f" sha1="465b440db5c9acc46ef5186a5b1cad0f0938d3d4"/>
+	</game>
+	<game name="Definierbare Zeichen Editor (1983)(TCS)">
+		<description>Definierbare Zeichen Editor (1983)(TCS)</description>
+		<rom name="Definierbare Zeichen Editor (1983)(TCS).cas" size="11131" crc="a21e5f61" md5="6ea77c136951ad4a920d571a07006bec" sha1="57ce7c921e8a773de0f30dde65f2320e114bbe71"/>
+	</game>
+	<game name="Definierbare Zeichen Editor (1983)(TCS)[a]">
+		<description>Definierbare Zeichen Editor (1983)(TCS)[a]</description>
+		<rom name="Definierbare Zeichen Editor (1983)(TCS)[a].cas" size="9233" crc="dff8308e" md5="e92e2c2265da4f0f2b256e85cb7bb730" sha1="b3cb291e5f96141187d19b18edc048aba544d7be"/>
+	</game>
+	<game name="Definierbare Zeichen Editor (19xx)(-)(de)">
+		<description>Definierbare Zeichen Editor (19xx)(-)(de)</description>
+		<rom name="Definierbare Zeichen Editor (19xx)(-)(de).cas" size="7441" crc="d675af8f" md5="27606b1681375bad295d227f9337f306" sha1="7027da67f48f98d1e6fc780b31f9013d61ed262b"/>
+	</game>
+	<game name="Definierbare Zeichen Editor (19xx)(-)(de)[a]">
+		<description>Definierbare Zeichen Editor (19xx)(-)(de)[a]</description>
+		<rom name="Definierbare Zeichen Editor (19xx)(-)(de)[a].cas" size="6852" crc="6e658740" md5="848465c16b2384f20c7ea1717fc22543" sha1="349bc0a5b624fe484904e55c3c41213f3a55b506"/>
+	</game>
+	<game name="Deine Aufgabe (1985)(Schaffarzik, Sven)(de)">
+		<description>Deine Aufgabe (1985)(Schaffarzik, Sven)(de)</description>
+		<rom name="Deine Aufgabe (1985)(Schaffarzik, Sven)(de).cas" size="11130" crc="46431856" md5="4f8dc11f51aaa4507441bc8ebc746c1b" sha1="879a00835e4bae90b04f21228a40e325b46f5487"/>
+	</game>
+	<game name="Dezimal-Hexadezimal Umwandlung (19xx)(-)(de)">
+		<description>Dezimal-Hexadezimal Umwandlung (19xx)(-)(de)</description>
+		<rom name="Dezimal-Hexadezimal Umwandlung (19xx)(-)(de).cas" size="694" crc="419b9810" md5="dcd57e1c6493778ae06138b6d3f3237d" sha1="0c408b9ef2d773a4680f5c4ec5c7f32b0a9d2db2"/>
+	</game>
+	<game name="Disastrous Villa (1985)(Scholz, Stephan)(de)">
+		<description>Disastrous Villa (1985)(Scholz, Stephan)(de)</description>
+		<rom name="Disastrous Villa (1985)(Scholz, Stephan)(de).cas" size="18413" crc="1526d46d" md5="56b8a93fe39d73b88db2e34a5f24bae0" sha1="5d65b4eafca7d6fa301d3b8537f5b7ea6851ae35"/>
+	</game>
+	<game name="Eagle (1983)(TCS)(de)">
+		<description>Eagle (1983)(TCS)(de)</description>
+		<rom name="Eagle (1983)(TCS)(de).cas" size="14910" crc="3453cd15" md5="fbaaa6b6c2ac6de3df372c8fba9c354f" sha1="fb4089ad9dc2df0d5120eae7256b8354cda9696f"/>
+	</game>
+	<game name="Eatman (1983)(Computer Service)">
+		<description>Eatman (1983)(Computer Service)</description>
+		<rom name="Eatman (1983)(Computer Service).cas" size="4003" crc="eaa18750" md5="dccda80d45b41ae7fd6af831dafbf0e0" sha1="641ee74cf5e19dfd69955e153a309030e47b6284"/>
+	</game>
+	<game name="Egg Protect (1983)(Boegeholz, Harald)(de)[b]">
+		<description>Egg Protect (1983)(Boegeholz, Harald)(de)[b]</description>
+		<rom name="Egg Protect (1983)(Boegeholz, Harald)(de)[b].cas" size="978" crc="4baa38a3" md5="f514cce96cb9b40f1c8b21cd2ac92600" sha1="5efc2ab9b44da3d2c3cf743808e7a20b9e8e595c"/>
+	</game>
+	<game name="Eis (1983)(TCS)(de)">
+		<description>Eis (1983)(TCS)(de)</description>
+		<rom name="Eis (1983)(TCS)(de).cas" size="14908" crc="36ae9438" md5="1729c34c92168239efd6c98b0cf40eab" sha1="45046f1ec0b7111179858996d15e3eea6f85f17e"/>
+	</game>
+	<game name="Eliminator (1984)(TCS)">
+		<description>Eliminator (1984)(TCS)</description>
+		<rom name="Eliminator (1984)(TCS).cas" size="12451" crc="e1e5e436" md5="b7e7f0c3ce468b49337a308a6381895c" sha1="86cc1030fc256cd16149003d5b66725ac0f3da5d"/>
+	</game>
+	<game name="Empire (19xx)(-)(de)">
+		<description>Empire (19xx)(-)(de)</description>
+		<rom name="Empire (19xx)(-)(de).cas" size="22076" crc="3e1415bf" md5="c02d842b56cda27378036a5d7de6f82f" sha1="673e48d334dd95b36bc58d89a101998a36db6964"/>
+	</game>
+	<game name="FGR (19xx)(-)">
+		<description>FGR (19xx)(-)</description>
+		<rom name="FGR (19xx)(-).cas" size="17" crc="3a132301" md5="a79a10abe79559509e5031bf78f17881" sha1="d28f49d820906046968d1f0f89c62b1f40ae17b5"/>
+	</game>
+	<game name="Firebird (1983)(Binzinger, Thomas M.)(de)">
+		<description>Firebird (1983)(Binzinger, Thomas M.)(de)</description>
+		<rom name="Firebird (1983)(Binzinger, Thomas M.)(de).cas" size="13899" crc="a102563d" md5="9b008ace7759b2ab8894233a4334a17c" sha1="7006f67ed89269de733997022c5998e402d774fb"/>
+	</game>
+	<game name="Flugsimulator (19xx)(-)(de)">
+		<description>Flugsimulator (19xx)(-)(de)</description>
+		<rom name="Flugsimulator (19xx)(-)(de).cas" size="15755" crc="091cc8bd" md5="6cb0c5c61cef35189b5ea7d5c57f6126" sha1="02ebb664e9335035a68419b92193114da5caacc1"/>
+	</game>
+	<game name="Glueckspilz (1983)(Gronostay, Udo - Kunze, Klaus)(de)">
+		<description>Glueckspilz (1983)(Gronostay, Udo - Kunze, Klaus)(de)</description>
+		<rom name="Glueckspilz (1983)(Gronostay, Udo - Kunze, Klaus)(de).cas" size="14655" crc="92c71078" md5="55bb1527dc0891c767c80084c974d561" sha1="b118e0da5824e55df8268a3bbc10be64f7d7499e"/>
+	</game>
+	<game name="Grafik Editor (1983)(Gerber, Udo)(de)">
+		<description>Grafik Editor (1983)(Gerber, Udo)(de)</description>
+		<rom name="Grafik Editor (1983)(Gerber, Udo)(de).cas" size="41555" crc="7cbf2726" md5="89be835876debc99b0eec3c3745b84d0" sha1="7e0b4e3dd1363a68324f50408f827e685aaab286"/>
+	</game>
+	<game name="Helikopter (1983)(Binzinger, Thomas M.)(de)">
+		<description>Helikopter (1983)(Binzinger, Thomas M.)(de)</description>
+		<rom name="Helikopter (1983)(Binzinger, Thomas M.)(de).cas" size="18148" crc="5c046ce2" md5="fc56460fb412896a62fab7752362e8bc" sha1="606560daa74dd39b06e89881918b730bd19f2442"/>
+	</game>
+	<game name="Horror Castle (19xx)(Scholz, Heiko)">
+		<description>Horror Castle (19xx)(Scholz, Heiko)</description>
+		<rom name="Horror Castle (19xx)(Scholz, Heiko).cas" size="22199" crc="7f01d3a9" md5="2c125b0efb1e9f7c9145cd94056abeb0" sha1="3e54bd6763e9ef4cbf40d714b4fc28936759cf38"/>
+	</game>
+	<game name="House of Death (1985)(Scholz, Heiko - Scholz, Stephan)(de)">
+		<description>House of Death (1985)(Scholz, Heiko - Scholz, Stephan)(de)</description>
+		<rom name="House of Death (1985)(Scholz, Heiko - Scholz, Stephan)(de).cas" size="18218" crc="60b6dc93" md5="823105b402f24b9bc8524b1aeef77be3" sha1="01c40d73536a5ec078f1cc1c2b02143d9b00e785"/>
+	</game>
+	<game name="Im Reich aer Fraggles (19xx)(-)">
+		<description>Im Reich aer Fraggles (19xx)(-)</description>
+		<rom name="Im Reich aer Fraggles (19xx)(-).cas" size="12619" crc="4a107aaf" md5="84df11eed62d890d06a7869f5fc766c0" sha1="4664d6bcf7ae86558b598a576c6249b7612b00c3"/>
+	</game>
+	<game name="Invasion aus dem Weltraum (1982)(Boegeholz, Harald)(de)">
+		<description>Invasion aus dem Weltraum (1982)(Boegeholz, Harald)(de)</description>
+		<rom name="Invasion aus dem Weltraum (1982)(Boegeholz, Harald)(de).cas" size="8450" crc="8fd27759" md5="b38ccda2ac73e67ea2fc312b258ac9b6" sha1="445198d22d8d7b2dafd747006ffd156fede301bc"/>
+	</game>
+	<game name="Jet Set Billy (1984)(Hamilton, R.)(Part 1 of 2)[Req 16k]">
+		<description>Jet Set Billy (1984)(Hamilton, R.)(Part 1 of 2)[Req 16k]</description>
+		<rom name="Jet Set Billy (1984)(Hamilton, R.)(Part 1 of 2)[Req 16k].cas" size="2123" crc="883161e8" md5="600efe7a3b73f2bdf83cd438bc5de957" sha1="6062a05ccde2e8b8165575c902f2109ca83e95f2"/>
+	</game>
+	<game name="Jet Set Billy (1984)(Hamilton, R.)(Part 2 of 2)[Req 16k]">
+		<description>Jet Set Billy (1984)(Hamilton, R.)(Part 2 of 2)[Req 16k]</description>
+		<rom name="Jet Set Billy (1984)(Hamilton, R.)(Part 2 of 2)[Req 16k].cas" size="9197" crc="98c7a0da" md5="04e68eccd89a85bad3aa5629eec184d3" sha1="74d0a79f9a931df03df2b06350521d7d390786c9"/>
+	</game>
+	<game name="Juwelen des Grafen Dracula, Die (19xx)(Schneider, Marcus)(de)(Part 1 of 2)">
+		<description>Juwelen des Grafen Dracula, Die (19xx)(Schneider, Marcus)(de)(Part 1 of 2)</description>
+		<rom name="Juwelen des Grafen Dracula, Die (19xx)(Schneider, Marcus)(de)(Part 1 of 2).cas" size="3364" crc="91699102" md5="7d8eb136609fc70f9a10b9ee1f92d9fe" sha1="0a6f630287c814d89cb3572e5df38a8489b80057"/>
+	</game>
+	<game name="Juwelen des Grafen Dracula, Die (19xx)(Schneider, Marcus)(de)(Part 2 of 2)">
+		<description>Juwelen des Grafen Dracula, Die (19xx)(Schneider, Marcus)(de)(Part 2 of 2)</description>
+		<rom name="Juwelen des Grafen Dracula, Die (19xx)(Schneider, Marcus)(de)(Part 2 of 2).cas" size="13386" crc="1b9f9ac7" md5="d4b13c789f95d42068eecf43b3a4d94d" sha1="4a2b24639f870a1be4606f3a8af0f43da0b7cbaf"/>
+	</game>
+	<game name="King (1983)(Buchmueller, Juergen)(de)">
+		<description>King (1983)(Buchmueller, Juergen)(de)</description>
+		<rom name="King (1983)(Buchmueller, Juergen)(de).cas" size="10864" crc="5c47368d" md5="a24c7c627982fb96cabb0ee0ae7423b5" sha1="3094e999f1ddaa1525f0f2f3f7e0bd1dc96b1319"/>
+	</game>
+	<game name="Kniffel (1985)(Drawe, Alexander)(de)">
+		<description>Kniffel (1985)(Drawe, Alexander)(de)</description>
+		<rom name="Kniffel (1985)(Drawe, Alexander)(de).cas" size="10522" crc="376b6c9d" md5="37ca2edb54b6f17b6ec5f26272f5f3aa" sha1="68615eb116f0b12f38c916b9f2f27aafef4bb519"/>
+	</game>
+	<game name="Las Vegas (19xx)(Stuchlich, Klaus)(de)">
+		<description>Las Vegas (19xx)(Stuchlich, Klaus)(de)</description>
+		<rom name="Las Vegas (19xx)(Stuchlich, Klaus)(de).cas" size="5578" crc="6df6d464" md5="4db4c1782e62bf77fdf046d0bd94e828" sha1="7ab0fb2d98ffdf0ec01322758522990798694e3a"/>
+	</game>
+	<game name="Life (1983)(TCS)(de)">
+		<description>Life (1983)(TCS)(de)</description>
+		<rom name="Life (1983)(TCS)(de).cas" size="5625" crc="18d97fe6" md5="62866ad54b1a492e18a29242a509cde6" sha1="166e8cc82883ebf5afa64db8acb7fbd7121a2175"/>
+	</game>
+	<game name="Lineare Gleichungs Syeteme (19xx)(-)(de)">
+		<description>Lineare Gleichungs Syeteme (19xx)(-)(de)</description>
+		<rom name="Lineare Gleichungs Syeteme (19xx)(-)(de).cas" size="2516" crc="002e74cc" md5="c090ac4337b001bdeeccb9eda46fa932" sha1="12118485405cd4f9ad2c77da612580f24052e6e5"/>
+	</game>
+	<game name="Listing Formatierer (19xx)(-)(de)">
+		<description>Listing Formatierer (19xx)(-)(de)</description>
+		<rom name="Listing Formatierer (19xx)(-)(de).cas" size="633" crc="7441ec01" md5="68fbecb0f4ce254acb69e35561d3ab2e" sha1="851577cb397f6f35c4ee8b0d2d6dd0d32c9e8614"/>
+	</game>
+	<game name="Lunar Lander (1983)(Weber, Klaus)">
+		<description>Lunar Lander (1983)(Weber, Klaus)</description>
+		<rom name="Lunar Lander (1983)(Weber, Klaus).cas" size="15493" crc="916ceeb1" md5="1a83118217b01def74f7a91359a85525" sha1="c1662e927629668e8dbdf1a2b4f955e27894474a"/>
+	</game>
+	<game name="Machime Monitor (19xx)(-)">
+		<description>Machime Monitor (19xx)(-)</description>
+		<rom name="Machime Monitor (19xx)(-).cas" size="3664" crc="72d2610e" md5="fd358517fda9e3f48c127853f3ce592f" sha1="edeff86dd24091bbf08221503554b5013bf56a0c"/>
+	</game>
+	<game name="Mampf Man II (1983)(Weber, Klaus)">
+		<description>Mampf Man II (1983)(Weber, Klaus)</description>
+		<rom name="Mampf Man II (1983)(Weber, Klaus).cas" size="17055" crc="e6ffd933" md5="51c7bdf347072857d66e46629a66c278" sha1="c1952444e8d99e367058ddd0b70ecb0eb3ce8834"/>
+	</game>
+	<game name="Marien Kaefer (1984)(Weber, Klaus)">
+		<description>Marien Kaefer (1984)(Weber, Klaus)</description>
+		<rom name="Marien Kaefer (1984)(Weber, Klaus).cas" size="17118" crc="38422db1" md5="49ccc9095ee34b2c66de5cd33bb0a42f" sha1="a3aabab4aa5166b18846186a5565eca47f4d62e9"/>
+	</game>
+	<game name="Meteor (1983)(TCS)(de)">
+		<description>Meteor (1983)(TCS)(de)</description>
+		<rom name="Meteor (1983)(TCS)(de).cas" size="8628" crc="5683a102" md5="ac6313ad5a857036b256fe301efea4ce" sha1="78ba24d6eda120ede404e3c6fb4fb4d7cb7fd019"/>
+	</game>
+	<game name="Monroe (19xx)(-)">
+		<description>Monroe (19xx)(-)</description>
+		<rom name="Monroe (19xx)(-).cas" size="4198" crc="820b662f" md5="a58c7183c49133665f8f5be00684e407" sha1="0c2ccf61ee673384a05d1012fca09e215fd7880d"/>
+	</game>
+	<game name="Mord im Zeppelin (198x)(Schaffarzik, Sven)(de)">
+		<description>Mord im Zeppelin (198x)(Schaffarzik, Sven)(de)</description>
+		<rom name="Mord im Zeppelin (198x)(Schaffarzik, Sven)(de).cas" size="15973" crc="7eb4a417" md5="49113ef3b7871b1afcf0ca5c262b8002" sha1="7ceff5b23feaef48d2457e503b3a6028302f9463"/>
+	</game>
+	<game name="Motten (1982)(TCS)(de)">
+		<description>Motten (1982)(TCS)(de)</description>
+		<rom name="Motten (1982)(TCS)(de).cas" size="14630" crc="fb5efa13" md5="976118cc00ffda447651308beb1aa06b" sha1="75fe474ec2ab0ebf7d300e95561788b4d91b8637"/>
+	</game>
+	<game name="Musik Demo (1983)(TCS)">
+		<description>Musik Demo (1983)(TCS)</description>
+		<rom name="Musik Demo (1983)(TCS).cas" size="15639" crc="ac9a24d8" md5="075e1595daa62c03b580b2f54cfb05ed" sha1="7d035d6f2b523e87462f41812352634bfee9397e"/>
+	</game>
+	<game name="Mysterious Tavern (198x)(Scholz, Heiko)(de)">
+		<description>Mysterious Tavern (198x)(Scholz, Heiko)(de)</description>
+		<rom name="Mysterious Tavern (198x)(Scholz, Heiko)(de).cas" size="16031" crc="57ebd9ba" md5="bfa2c297eaf5c9eba956e449e5ab0088" sha1="314e75a41a5082e6aa931802ebcfd7a5dfb6b0b2"/>
+	</game>
+	<game name="Netzo (1983)(TCS)(de)">
+		<description>Netzo (1983)(TCS)(de)</description>
+		<rom name="Netzo (1983)(TCS)(de).cas" size="14990" crc="63eac136" md5="5a8d44b9fcab4d29ebddd86d4e417034" sha1="fa35faff66988c94ed7caff0c9f593075d2dcbb0"/>
+	</game>
+	<game name="Pac Boy (1984)(Spectra Games)(de)">
+		<description>Pac Boy (1984)(Spectra Games)(de)</description>
+		<rom name="Pac Boy (1984)(Spectra Games)(de).cas" size="13376" crc="515b36d4" md5="155647b99e7b2a61a6b5ffb6e15983d3" sha1="a3945e5dda04f0964880acacd2778dd99ff200d3"/>
+	</game>
+	<game name="Painter (19xx)(-)">
+		<description>Painter (19xx)(-)</description>
+		<rom name="Painter (19xx)(-).cas" size="12539" crc="4665242c" md5="22ecc91b7809f4342558598af470b1d3" sha1="07bfc1328c12f81cb7bf18c0e3bf8f1d5983222b"/>
+	</game>
+	<game name="Painter 2 (19xx)(-)">
+		<description>Painter 2 (19xx)(-)</description>
+		<rom name="Painter 2 (19xx)(-).cas" size="13583" crc="b5d90e32" md5="e8cbe8a3610e983e0636778da457f342" sha1="734678f6fa49d7f2263b6633bb191dc0c241ec1a"/>
+	</game>
+	<game name="Physik des Transistors, Die (19xx)(-)(de)">
+		<description>Physik des Transistors, Die (19xx)(-)(de)</description>
+		<rom name="Physik des Transistors, Die (19xx)(-)(de).cas" size="17657" crc="b56cc12d" md5="50adc2fcd76f02f32f27f7f5e624518d" sha1="b393a11266b42596e49294ff26198e5dbed431ae"/>
+	</game>
+	<game name="Plotter 2.5 (1983)(TCS)(de)">
+		<description>Plotter 2.5 (1983)(TCS)(de)</description>
+		<rom name="Plotter 2.5 (1983)(TCS)(de).cas" size="7883" crc="6e397435" md5="6b0618bd9de834627ecd2ec4d09be191" sha1="06176658c4b187057ab5c07231e6c007ff3ebc2b"/>
+	</game>
+	<game name="Point Chase (1983)(ROL)">
+		<description>Point Chase (1983)(ROL)</description>
+		<rom name="Point Chase (1983)(ROL).cas" size="4562" crc="f7e91077" md5="50cb041e0759a6769fcd475bc286ddbb" sha1="25fab349053b4b3d1bddb6b371beb894837de1ff"/>
+	</game>
+	<game name="Programm Modifizierer (19xx)(-)(de)">
+		<description>Programm Modifizierer (19xx)(-)(de)</description>
+		<rom name="Programm Modifizierer (19xx)(-)(de).cas" size="633" crc="956a744d" md5="2fbf29269a986bf48070b5d1b6673138" sha1="f5354d4da173447c2ffe19c1a5afca42ca4ad429"/>
+	</game>
+	<game name="Roulette (1982)(Klein, Christian)">
+		<description>Roulette (1982)(Klein, Christian)</description>
+		<rom name="Roulette (1982)(Klein, Christian).cas" size="8739" crc="402bba07" md5="8c911bde5b1ec738647b1065f95165b8" sha1="ffe9f3e721f4dc31d2c2b09c12bb1bec8ff910f6"/>
+	</game>
+	<game name="RS-232 Treiber Programm (19xx)(-)(de)">
+		<description>RS-232 Treiber Programm (19xx)(-)(de)</description>
+		<rom name="RS-232 Treiber Programm (19xx)(-)(de).cas" size="209" crc="53f5b980" md5="ce8fc12149aa3c62029979e4c594c894" sha1="8d192995c5ac6e4a7241ae8200f78ab26647b3c4"/>
+	</game>
+	<game name="Santa Paravia (19xx)(-)(de)">
+		<description>Santa Paravia (19xx)(-)(de)</description>
+		<rom name="Santa Paravia (19xx)(-)(de).cas" size="13824" crc="4d672a70" md5="8b39d44e0fb3851801c8c949f97e36e8" sha1="a7328f0663c5ea2beccd57541e4042c274069f55"/>
+	</game>
+	<game name="Saug (1982)(TCS)">
+		<description>Saug (1982)(TCS)</description>
+		<rom name="Saug (1982)(TCS).cas" size="11885" crc="f477896c" md5="4c8c6003d19c054b0e62a12bb1cc3ac9" sha1="34fa2c2ce143785eb9ebda1b3889f86ee2fa81ab"/>
+	</game>
+	<game name="Schiff des Grauens (198x)(Schaffarzik, Sven - Scholz, Heiko)(de)">
+		<description>Schiff des Grauens (198x)(Schaffarzik, Sven - Scholz, Heiko)(de)</description>
+		<rom name="Schiff des Grauens (198x)(Schaffarzik, Sven - Scholz, Heiko)(de).cas" size="17705" crc="e0f2e0cb" md5="a2ae3f57cdf24fe0bf99da363f630a0e" sha1="2196d66dd0a0209cb513549d5952d13a1f16c24a"/>
+	</game>
+	<game name="Schnick Schnack Schnuck (1986)(Drawe, Alexander)(de)">
+		<description>Schnick Schnack Schnuck (1986)(Drawe, Alexander)(de)</description>
+		<rom name="Schnick Schnack Schnuck (1986)(Drawe, Alexander)(de).cas" size="10630" crc="846841d3" md5="3bdfdbdc4cd65981ae67e669da678779" sha1="3cad2b333f6f55ea4e1af5c1eb2d215ff409ea4f"/>
+	</game>
+	<game name="Screen Editor (19xx)(-)">
+		<description>Screen Editor (19xx)(-)</description>
+		<rom name="Screen Editor (19xx)(-).cas" size="1665" crc="d038dbb6" md5="0938b2735f4e9ec39e94dedaf3843a4f" sha1="8a303ba08801e77f4415227b7b6f6251569f649d"/>
+	</game>
+	<game name="Screen Printer (1983)(TCS)">
+		<description>Screen Printer (1983)(TCS)</description>
+		<rom name="Screen Printer (1983)(TCS).cas" size="12071" crc="ea427be8" md5="410753dea08d83de42ecf061112c00d8" sha1="6a4f8d8858a0a8859d21eb2bab658fbc25526319"/>
+	</game>
+	<game name="Scuttle (1982)(Schwertfeger, T.)(de)">
+		<description>Scuttle (1982)(Schwertfeger, T.)(de)</description>
+		<rom name="Scuttle (1982)(Schwertfeger, T.)(de).cas" size="14906" crc="2fb32641" md5="5ce56f1fa501ac91b6e3e4348a17e97d" sha1="c0bab5873e9ac16e853d98a2eab374afeebb1dd2"/>
+	</game>
+	<game name="Shape Table Editor (1983)(Gerber, Udo)(de)">
+		<description>Shape Table Editor (1983)(Gerber, Udo)(de)</description>
+		<rom name="Shape Table Editor (1983)(Gerber, Udo)(de).cas" size="8767" crc="2d67c6c1" md5="885a9a42ad909dec1e13ea15238583f6" sha1="fee211f58a13a54e2a38e0b1d4db4201df37d117"/>
+	</game>
+	<game name="Skramble (1983)(Sampson, Stuart)">
+		<description>Skramble (1983)(Sampson, Stuart)</description>
+		<rom name="Skramble (1983)(Sampson, Stuart).cas" size="21939" crc="249df317" md5="af571c9f556d9620ae1528a4b00dfca1" sha1="f9ebd7d63ec8d018eef5ac351de75aa615cf70a7"/>
+	</game>
+	<game name="Sound Editor (1984)(-)(de)">
+		<description>Sound Editor (1984)(-)(de)</description>
+		<rom name="Sound Editor (1984)(-)(de).cas" size="3625" crc="bf667ec4" md5="5b632f10a854f7e212400425122cf575" sha1="f7a307272184599bec74249d8ce80197ee942084"/>
+	</game>
+	<game name="Space Attack (1984)(Mueller, A.)">
+		<description>Space Attack (1984)(Mueller, A.)</description>
+		<rom name="Space Attack (1984)(Mueller, A.).cas" size="7606" crc="8f1c0271" md5="3cbafb5c56aa65ef5f1aaa4be0841313" sha1="9230b416d6928cb2616d3e5176589ec6c76d00ca"/>
+	</game>
+	<game name="Spaceman (19xx)(Drawe, Alexander)(de)">
+		<description>Spaceman (19xx)(Drawe, Alexander)(de)</description>
+		<rom name="Spaceman (19xx)(Drawe, Alexander)(de).cas" size="11618" crc="3de8d663" md5="4c1317852f0373ab3c43104223e90ad3" sha1="19da6f30c6f254c2bb01b6ce52a9bad4d7022858"/>
+	</game>
+	<game name="Sprite Editor (1983)(Thomas, Patrick)">
+		<description>Sprite Editor (1983)(Thomas, Patrick)</description>
+		<rom name="Sprite Editor (1983)(Thomas, Patrick).cas" size="2232" crc="97053bbe" md5="570d634ccec8e0a5cec85824b9c4138e" sha1="9f546bd5266dac346eda231c9f70a4b9e2ee5d35"/>
+	</game>
+	<game name="Super BASIC (19xx)(Huebben, Heinz)(de)">
+		<description>Super BASIC (19xx)(Huebben, Heinz)(de)</description>
+		<rom name="Super BASIC (19xx)(Huebben, Heinz)(de).cas" size="7577" crc="1da95676" md5="82724870ee7639ff7c13fc55de3417c9" sha1="ab79434eed8f98bb0336a37c65a19c15af11f660"/>
+	</game>
+	<game name="Super Hirn (1982)(-)">
+		<description>Super Hirn (1982)(-)</description>
+		<rom name="Super Hirn (1982)(-).cas" size="7938" crc="b2fa4ace" md5="99e2b8cc06c599d0a57889c1177d2048" sha1="ec05875e6a5d63faa01778fc51880a2a32920e1d"/>
+	</game>
+	<game name="Super Plot (1984)(Steffenhagen, Ralf)(de)">
+		<description>Super Plot (1984)(Steffenhagen, Ralf)(de)</description>
+		<rom name="Super Plot (1984)(Steffenhagen, Ralf)(de).cas" size="24370" crc="5f49eda1" md5="ed47d4005bd99e9a532cbd7da47d2d88" sha1="733c7b7f0b032cf0e6e6c07831c9fa5227e191d8"/>
+	</game>
+	<game name="Super Star Trek (19xx)(-)(de)">
+		<description>Super Star Trek (19xx)(-)(de)</description>
+		<rom name="Super Star Trek (19xx)(-)(de).cas" size="16437" crc="0a6a362b" md5="723207c7d67db01d43f669d3a9e5c8e7" sha1="1e06a739dcc65d173ebf54e36656c4bbeb7c6486"/>
+	</game>
+	<game name="System Copy (19xx)(-)(de)">
+		<description>System Copy (19xx)(-)(de)</description>
+		<rom name="System Copy (19xx)(-)(de).cas" size="2003" crc="1fa35da3" md5="76d5e2a99625d40bb59df858f7250ca2" sha1="0b7e18b1c1898b047fe867d10a5e0138113510e0"/>
+	</game>
+	<game name="Tausend Fuss (1983)(TCS)(de)">
+		<description>Tausend Fuss (1983)(TCS)(de)</description>
+		<rom name="Tausend Fuss (1983)(TCS)(de).cas" size="3822" crc="41504360" md5="9304d26956c318066f40d96d1922598f" sha1="ea0449594a28ce73df36a7bbf643e89e26abc223"/>
+	</game>
+	<game name="Toad Mania (1983)(Gumboot)">
+		<description>Toad Mania (1983)(Gumboot)</description>
+		<rom name="Toad Mania (1983)(Gumboot).cas" size="9359" crc="e91c4c81" md5="6b0a80cc710672daacd12ebe6f62166c" sha1="c221592c09df5f44284e6ded42df3fcc7e5ff088"/>
+	</game>
+	<game name="TraceMon (1983)(Buchmueller, Juergen)">
+		<description>TraceMon (1983)(Buchmueller, Juergen)</description>
+		<rom name="TraceMon (1983)(Buchmueller, Juergen).cas" size="8382" crc="6b0bf332" md5="64c214ac59edf0d39205d264910f902c" sha1="a2f354850c0b5e6a55273ce726a52010eb33ca4f"/>
+	</game>
+	<game name="Triton Battle (19xx)(Gergeleit, M. - Steinbeck, H.C.)">
+		<description>Triton Battle (19xx)(Gergeleit, M. - Steinbeck, H.C.)</description>
+		<rom name="Triton Battle (19xx)(Gergeleit, M. - Steinbeck, H.C.).cas" size="11743" crc="1bbab68f" md5="1e620098a19c3c2425941c1ec8d81382" sha1="4744ce3b7e2c6912fd9ddfd6dfba4007eebca62c"/>
+	</game>
+	<game name="U Boot JagD (19xx)(-)(de)">
+		<description>U Boot JagD (19xx)(-)(de)</description>
+		<rom name="U Boot JagD (19xx)(-)(de).cas" size="11497" crc="5caa9b13" md5="61a225e4278d91524286cb9b4f401fb9" sha1="e1c10245217b5f8e23a3a966fb40f809e105c1a2"/>
+	</game>
+	<game name="Uhr Copy (19xx)(-)(de)">
+		<description>Uhr Copy (19xx)(-)(de)</description>
+		<rom name="Uhr Copy (19xx)(-)(de).cas" size="1481" crc="27938748" md5="4f692e9020641b78cbbe1dd16e0e0738" sha1="c1e87c3e7aa2842b5b95ce4fbac24d6cb9a287fd"/>
+	</game>
+	<game name="Uhr Zeit (19xx)(-)(de)">
+		<description>Uhr Zeit (19xx)(-)(de)</description>
+		<rom name="Uhr Zeit (19xx)(-)(de).cas" size="201" crc="1fdf77b8" md5="b218ac1f8789729f9219139732aac7eb" sha1="9cf2ce7e3999f0f7449b32b93132ef0ac9671e65"/>
+	</game>
+</datafile>

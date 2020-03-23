@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Philips - Videopac+ (Echoj2's 1G1R)</name>
+		<description>Philips - Videopac+ (Echoj2's 1G1R)</description>
+		<category>Standard DatFile</category>
+		<version>20180623-100000</version>
+		<date>-insert date-</date>
+		<author>Eckaji</author>
+		<email>-insert email-</email>
+		<homepage>r/SBCGaming</homepage>
+		<url>https://discord.gg/JdXc6nx</url>
+		<comment>-insert comment-</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Air Battle (Europe)">
+		<description>Air Battle (Europe)</description>
+		<rom name="Air Battle (Europe).bin" size="12288" crc="d94d4109" md5="1c9d8c8dc69e318ee72f596b1f994682" sha1="66837bbd0b9df12c89215f533a1ec8b5a42d5610"/>
+	</machine>
+	<machine name="Cosmic Conflict (Europe)">
+		<description>Cosmic Conflict (Europe)</description>
+		<rom name="Cosmic Conflict (Europe).bin" size="8192" crc="a8dbed92" md5="9da67f2e5d6c898699cbeeb51738e1fb" sha1="99932be5496a0daa7dffc70c7a3ab85bfa726043"/>
+	</machine>
+	<machine name="Freedom Fighters (Europe)">
+		<description>Freedom Fighters (Europe)</description>
+		<rom name="Freedom Fighters (Europe).bin" size="8192" crc="1931f5c5" md5="a14d88d80f5caa4781245ef2cde27279" sha1="3f8d6cd5bed5244b400c69640065c77ec103a6cd"/>
+	</machine>
+	<machine name="Helicopter Rescue (Europe)">
+		<description>Helicopter Rescue (Europe)</description>
+		<rom name="Helicopter Rescue (Europe).bin" size="16384" crc="c4134df8" md5="b180c452a85a9e8528c2c08d4ad64bc0" sha1="7369a2d3fb81ddc4c8086bbcd245c11ea7aaa331"/>
+	</machine>
+	<machine name="Killer Bees (Europe)">
+		<description>Killer Bees (Europe)</description>
+		<rom name="Killer Bees (Europe).bin" size="8192" crc="dee70b33" md5="d9722861bc5d7f611c21abf26cf8fd5b" sha1="9253586337917bda0b7c43dbb251999b6c974f30"/>
+	</machine>
+	<machine name="Loony Balloon (Europe)">
+		<description>Loony Balloon (Europe)</description>
+		<rom name="Loony Balloon (Europe).bin" size="8192" crc="b932d584" md5="a8d4f8fb88816578582f966977e32360" sha1="8dd1cba7ce6622aaf5e1b432ab8d47e395d211f2"/>
+	</machine>
+	<machine name="Neutron Star (Europe)">
+		<description>Neutron Star (Europe)</description>
+		<rom name="Neutron Star (Europe).bin" size="12288" crc="be11157c" md5="a619ab051d75934fa06f339c61250a00" sha1="fde3e0791b9cbef91a8462764ebf09a457ffe038"/>
+	</machine>
+	<machine name="Nightmare (Europe)">
+		<description>Nightmare (Europe)</description>
+		<rom name="Nightmare (Europe).bin" size="8192" crc="26b0ff5b" md5="161bf3c8571385b96680b1ba21d62076" sha1="c8988f13c2af7632de6ef326ed617279bf6c8221"/>
+	</machine>
+	<machine name="Norseman (Europe)">
+		<description>Norseman (Europe)</description>
+		<rom name="Norseman (Europe).bin" size="8192" crc="a75c42f8" md5="ac84722f73f25a1e648439c1921c08ca" sha1="8e8fe23225631eef673517f3e2970eade15b7a5c"/>
+	</machine>
+	<machine name="Pickaxe Pete (Europe)">
+		<description>Pickaxe Pete (Europe)</description>
+		<rom name="Pickaxe Pete (Europe).bin" size="8192" crc="b2ffb353" md5="6a38ddd9026e1dd756bef1f0995d8106" sha1="182829b4cd5184ab3705d26f75e3d8c497b5abf6"/>
+	</machine>
+	<machine name="Race + Spin-out + Cryptogram (Europe)">
+		<description>Race + Spin-out + Cryptogram (Europe)</description>
+		<rom name="Race + Spin-out + Cryptogram (Europe).bin" size="8192" crc="ee3ee642" md5="cc8cd8d9bf6aadd296b316e1f28ee270" sha1="69a73208c0c0a6d1b879e62d0ccf3a5a534510bd"/>
+	</machine>
+	<machine name="Satellite Attack (Europe)">
+		<description>Satellite Attack (Europe)</description>
+		<rom name="Satellite Attack (Europe).bin" size="8192" crc="b4735e6b" md5="5e7d8fea7993a4630d45042d03b420fd" sha1="8bec213886d026040ed2037f01e8e9f81fa395b9"/>
+	</machine>
+	<machine name="Stone Sling (Europe)">
+		<description>Stone Sling (Europe)</description>
+		<rom name="Stone Sling (Europe).bin" size="8192" crc="2391c2fb" md5="db336a5d86cee7f8ffcc00c8cfd508da" sha1="d358fcc6a0fa6469d7063114aa0dc143af14e3e9"/>
+	</machine>
+	<machine name="Terrahawks (Europe)">
+		<description>Terrahawks (Europe)</description>
+		<rom name="Terrahawks (Europe).bin" size="8192" crc="764894a1" md5="17f8cb93f7071ec4c6f31e9d0b6e5724" sha1="0c01df9799b6d0235fef3c86fec1beac5b0b2d74"/>
+	</machine>
+	<machine name="Trans American Rally (Europe)">
+		<description>Trans American Rally (Europe)</description>
+		<rom name="Trans American Rally (Europe).bin" size="16384" crc="0d2d721d" md5="ed71d5e1644657a4d6123a5855b2862a" sha1="be8a9f2aa66acb4f5e288d1a77afada9565b530a"/>
+	</machine>
+</datafile>

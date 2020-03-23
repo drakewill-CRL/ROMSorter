@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Matra Hachette Alice 32 - Applications - [K7]</name>
+		<description>Matra Hachette Alice 32 - Applications - [K7] (TOSEC-v2018-03-08)</description>
+		<category>TOSEC</category>
+		<version>2018-03-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Alicetel (1985)(Matra Datasysteme)(FR)">
+		<description>Alicetel (1985)(Matra Datasysteme)(FR)</description>
+		<rom name="Alicetel (1985)(Matra Datasysteme)(FR).k7" size="4952" crc="b239548a" md5="717b255351654b8c6352ba8f6c5ec25e" sha1="8bf37ede930d4f2b081ace5dd48e54664e6a3fcc"/>
+	</game>
+	<game name="Budget Familial (1985)(Matra Datasysteme)(FR)">
+		<description>Budget Familial (1985)(Matra Datasysteme)(FR)</description>
+		<rom name="Budget Familial (1985)(Matra Datasysteme)(FR).k7" size="17775" crc="3d8d713e" md5="d76771a05c0263252feabd56acf7b56f" sha1="7d84787bdd274f0f5f7d93075a291b090d89e43c"/>
+	</game>
+	<game name="Calc (1985)(Matra Datasysteme)(FR)">
+		<description>Calc (1985)(Matra Datasysteme)(FR)</description>
+		<rom name="Calc (1985)(Matra Datasysteme)(FR).k7" size="18139" crc="c8842ec8" md5="82123dc30eb5da24eaaf7285af4d758e" sha1="b24754e5ec04e852e270b6f25580215f2d1c95a8"/>
+	</game>
+	<game name="CSAVEM Sauvegarde Memoire (198x)(-)(FR)">
+		<description>CSAVEM Sauvegarde Memoire (198x)(-)(FR)</description>
+		<rom name="CSAVEM Sauvegarde Memoire (198x)(-)(FR).k7" size="1431" crc="e9ab93f2" md5="be5af42afc021a25758e8b3304dda85a" sha1="860d4f00368a4b400de9f833325f2f9003a903f8"/>
+	</game>
+	<game name="Desassembleur (198x)(-)(FR)">
+		<description>Desassembleur (198x)(-)(FR)</description>
+		<rom name="Desassembleur (198x)(-)(FR).k7" size="4890" crc="925aa8aa" md5="bd74774a1cc2915764c09608270fd22e" sha1="8b63262bf79db3e5013a245fd6af25190ef2ecae"/>
+	</game>
+	<game name="Desassembleur (198x)(-)(FR)[80 columns]">
+		<description>Desassembleur (198x)(-)(FR)[80 columns]</description>
+		<rom name="Desassembleur (198x)(-)(FR)[80 columns].k7" size="5015" crc="762450aa" md5="87649596616ae7157bf200c6b245098a" sha1="c94ec25c5cdf13ba7808a765de06397ac5a8ec16"/>
+	</game>
+	<game name="Dessin (198x)(-)(FR)">
+		<description>Dessin (198x)(-)(FR)</description>
+		<rom name="Dessin (198x)(-)(FR).k7" size="936" crc="8786073b" md5="31f2b3ad141d2bda7a2507f5d136bf02" sha1="92dc66e57df1136027fbf700e9ed771bd3965fe3"/>
+	</game>
+	<game name="Dessine-moi (1985)(Matra Datasysteme)(FR)">
+		<description>Dessine-moi (1985)(Matra Datasysteme)(FR)</description>
+		<rom name="Dessine-moi (1985)(Matra Datasysteme)(FR).k7" size="30808" crc="d45d9df8" md5="614dc44b8df269f365a03bb0e10cc8d8" sha1="8f1891c1fd0a973943212df41f65cc2b0090d050"/>
+	</game>
+	<game name="Dessine-moi (1985)(Matra Datasysteme)(FR)[a]">
+		<description>Dessine-moi (1985)(Matra Datasysteme)(FR)[a]</description>
+		<rom name="Dessine-moi (1985)(Matra Datasysteme)(FR)[a].k7" size="30808" crc="4f3fd1ff" md5="229e8c062153800c41aebf8bf4db44d7" sha1="106500922968c7acf1a4b3cbadd8ef012db3b102"/>
+	</game>
+	<game name="Gestion de Compte-Cheques (2005)(Lapierre, Patrice)(FR)[cont bank donnees]">
+		<description>Gestion de Compte-Cheques (2005)(Lapierre, Patrice)(FR)[cont bank donnees]</description>
+		<rom name="Gestion de Compte-Cheques (2005)(Lapierre, Patrice)(FR)[cont bank donnees].k7" size="12327" crc="85a98dea" md5="368c4331743d08a5b059384ddbeb1878" sha1="0e4009616b6dda8854e4d4296ec3892b09e53ea9"/>
+	</game>
+	<game name="Gestion de Compte-Cheques (2005)(Lapierre, Patrice)(FR)[cont bank v320]">
+		<description>Gestion de Compte-Cheques (2005)(Lapierre, Patrice)(FR)[cont bank v320]</description>
+		<rom name="Gestion de Compte-Cheques (2005)(Lapierre, Patrice)(FR)[cont bank v320].k7" size="6890" crc="5f96745d" md5="7a0c3d71f531bcbf07d1953083abb689" sha1="ad1d9c858521bf36d442671ee4f7b897611a9a0f"/>
+	</game>
+	<game name="Gestion de Compte-Cheques (2005)(Lapierre, Patrice)(FR)[ncontbank]">
+		<description>Gestion de Compte-Cheques (2005)(Lapierre, Patrice)(FR)[ncontbank]</description>
+		<rom name="Gestion de Compte-Cheques (2005)(Lapierre, Patrice)(FR)[ncontbank].k7" size="19155" crc="628c4260" md5="9afb1b0cb4708feec87d47688fed4f4f" sha1="687a5e0616d971275effef3ca4d2cf8d96fe0a86"/>
+	</game>
+	<game name="Gestion de Fichiers (1985)(Matra Datasysteme)(FR)">
+		<description>Gestion de Fichiers (1985)(Matra Datasysteme)(FR)</description>
+		<rom name="Gestion de Fichiers (1985)(Matra Datasysteme)(FR).k7" size="15519" crc="b13d2baa" md5="187e45e8c80342b3642279b387716ada" sha1="e177c598c3c3204805661750ba918e1ce235dea9"/>
+	</game>
+	<game name="Ma Cave a Vins (1985)(Matra Datasysteme)(FR)">
+		<description>Ma Cave a Vins (1985)(Matra Datasysteme)(FR)</description>
+		<rom name="Ma Cave a Vins (1985)(Matra Datasysteme)(FR).k7" size="28144" crc="6a80f39d" md5="4926f1c3a713a332d9c80c766546a893" sha1="908dd2224d6f6681f33e8c7edb7a6e65a209763e"/>
+	</game>
+	<game name="T'Extra - Traitement de Texte (1985)(Matra Datasysteme)(FR)">
+		<description>T'Extra - Traitement de Texte (1985)(Matra Datasysteme)(FR)</description>
+		<rom name="T'Extra - Traitement de Texte (1985)(Matra Datasysteme)(FR).k7" size="7769" crc="ef64062d" md5="0e424489445e1d1f11cef9d9c00d6341" sha1="145e763d62d96c716708f946a59559466888da86"/>
+	</game>
+</datafile>

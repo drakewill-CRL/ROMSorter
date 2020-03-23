@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Jupiter Cantab Jupiter Ace - Demos - [ACE]</name>
+		<description>Jupiter Cantab Jupiter Ace - Demos - [ACE] (TOSEC-v2014-04-10)</description>
+		<category>TOSEC</category>
+		<version>2014-04-10</version>
+		<author>TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Graphic Exercises (1983-05-12)(Popular Computing Weekly)(GB)[3K]">
+		<description>Graphic Exercises (1983-05-12)(Popular Computing Weekly)(GB)[3K]</description>
+		<rom name="Graphic Exercises (1983-05-12)(Popular Computing Weekly)(GB)[3K].ace" size="2486" crc="9074ef52" md5="aef9106bd1db32c4f69201640194ccbc" sha1="79af05818dc5053c9dff30937773adca9b98548f"/>
+	</game>
+	<game name="Life (2006)(Skidmore, Julian)(PD)[19K]">
+		<description>Life (2006)(Skidmore, Julian)(PD)[19K]</description>
+		<rom name="Life (2006)(Skidmore, Julian)(PD)[19K].ace" size="7030" crc="e09262e5" md5="21a51e1172ffc7ac9dc2643d9a8c1fe9" sha1="4eccda921c7ff9bb17bb5aa10c7a47121de1981d"/>
+	</game>
+	<game name="Life v3 (1985)(de Lacerda, Dutra)[1K]">
+		<description>Life v3 (1985)(de Lacerda, Dutra)[1K]</description>
+		<rom name="Life v3 (1985)(de Lacerda, Dutra)[1K].ace" size="2673" crc="ec5cf32f" md5="e41858020b7c669fe19733e7ffdd0600" sha1="4033e5f5d0259b6dcab5574ca2eec3b9be7c0192"/>
+	</game>
+	<game name="Sallors' Hornpipe (1982-12-16)(Popular Computing Weekly)(GB)[3K]">
+		<description>Sallors' Hornpipe (1982-12-16)(Popular Computing Weekly)(GB)[3K]</description>
+		<rom name="Sallors' Hornpipe (1982-12-16)(Popular Computing Weekly)(GB)[3K].ace" size="2344" crc="17470d35" md5="c7f085363032a3b39f891bb6c56a9025" sha1="227665164ffc362a91171d5842f8389ead3e5f48"/>
+	</game>
+	<game name="Sine Wave Generator (1984-03)(Personal Computer World)(GB)[3K]">
+		<description>Sine Wave Generator (1984-03)(Personal Computer World)(GB)[3K]</description>
+		<rom name="Sine Wave Generator (1984-03)(Personal Computer World)(GB)[3K].ace" size="1762" crc="3d0a9cb7" md5="cfaf9cbf8451b41be20464caf97ce35f" sha1="6fc33463b59a5476cd8d94ad60a806b2009d7404"/>
+	</game>
+</datafile>

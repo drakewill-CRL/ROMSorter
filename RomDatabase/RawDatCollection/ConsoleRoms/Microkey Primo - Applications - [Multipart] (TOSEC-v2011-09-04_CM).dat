@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Microkey Primo - Applications - [Multipart]</name>
+		<description>Microkey Primo - Applications - [Multipart] (TOSEC-v2011-09-04)</description>
+		<category>TOSEC</category>
+		<version>2011-09-04</version>
+		<author>Gruby</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="BASIC-ontanito (1985)(MTA SZTAKI - COSY)(hu)[req CDOS]">
+		<description>BASIC-ontanito (1985)(MTA SZTAKI - COSY)(hu)[req CDOS]</description>
+		<rom name="1.LECKE.pri" size="13601" crc="e0d7c84d" md5="66ff6727f661dbc8643e4975644a3c9e" sha1="ca333d69b546a33298747666d0d4316fc6337609"/>
+		<rom name="1.pri" size="8764" crc="bb8b7944" md5="ac0b3ba437785fc5244f2f7bce5bf13e" sha1="fff135dae96e2a844019e609a8b55a6683bd8e6c"/>
+		<rom name="1.TESZT.pri" size="7408" crc="2b45e9fd" md5="750bea68aefe529c58cbcf4f7a9a6e34" sha1="169ed4bd2661aa2173ce9974d023979f1d0c6a41"/>
+		<rom name="2.LECKE.pri" size="14209" crc="bd3749fd" md5="ec93c77ce2382557a0bd967adb515182" sha1="f0f9e8f44a58ef2d568a0296f9a7bc57f1daadc5"/>
+		<rom name="2.TESZT.pri" size="7538" crc="329e8495" md5="475ae3f6d23ed61a7e6d55cd7da52900" sha1="5641a758ca338d972fd81e55fee516cb16c99f1e"/>
+		<rom name="3.LECKE.pri" size="15611" crc="849e6f6d" md5="76a0dba0f25d923b7cee95345c064e55" sha1="e7a25eddc20b0d4b860c8b41a102220ccdd022e9"/>
+		<rom name="3.TESZT.pri" size="7258" crc="f615eed9" md5="d27f9c5e352325aaacc7fea1b104f64b" sha1="fc5a53662540b5846fb0c432226c51a933cb4568"/>
+		<rom name="4.LECKE.pri" size="16384" crc="ecbca74b" md5="d359e454bfb3552e35e5e5f6dca8334a" sha1="c0a69986d4137fa8b8085c5a9e0190f69181accc"/>
+		<rom name="4.TESZT.pri" size="6794" crc="9d952a03" md5="de632a736dbfdbfd93be345fe4d161bc" sha1="4224d692a05f1e38eb8bf4ec95824462df79662d"/>
+		<rom name="5.LECKE.pri" size="13873" crc="8173500a" md5="d92672e1ace692ee5dadd276caa52815" sha1="cee835179e532044176dc34fa6e3e1cb3040c373"/>
+		<rom name="5.TESZT.pri" size="6331" crc="559a22c7" md5="05d3ebb6ee156a53b6c13c84641a89ba" sha1="a1e2d1683fc791eb9583e5c9f1c3a50af6221f18"/>
+		<rom name="6.LECKE.pri" size="14623" crc="2f803b8b" md5="b869e85503a8938cb64b8e91ab050eb2" sha1="b9fee8a9e6e63790b538ba89683fdfdf4e02229c"/>
+		<rom name="6.TESZT.pri" size="6438" crc="7f47b619" md5="b7ff7a583570fd27d8cf4cefda712d61" sha1="ab0b505b7b5a9cf334b9ae5d866ca49e4b2ab684"/>
+		<rom name="7.LECKE.pri" size="11979" crc="f126574a" md5="b64474af1858bea5eed48544a61f3b51" sha1="abf32c489424a76506e180e65342506e51dde99d"/>
+		<rom name="7.TESZT.pri" size="6249" crc="32f0cf3d" md5="bfd3f4cbd0528d2dc4d4631f66f152f3" sha1="377195722cb7ebc7facbb57ebc006ae362a90c8d"/>
+		<rom name="8.LECKE.pri" size="13599" crc="51a35714" md5="8c6155adf254be28d936931d294387c3" sha1="68bf7077d088b0f9e3a8223f73ced98a742bee47"/>
+		<rom name="8.TESZT.pri" size="6116" crc="ca894bc0" md5="ffdcf7662d8b8ea6b7694d04834fa74a" sha1="44414180b61050ecde746c6d6e8276085bbf9ddc"/>
+		<rom name="9.LECKE.pri" size="14315" crc="2a30f708" md5="e0570e2c269bc19141283d1a473db740" sha1="89e66bd978a1d0129b8fe3b3d9621dbb24ee60c9"/>
+		<rom name="9.TESZT.pri" size="7063" crc="fe708e4e" md5="80b96302fd624284c33f2e85ee3dcd0b" sha1="97a1cbaa2f0d4e09708594fc80959ef02d0d2ed9"/>
+		<rom name="ZAROTESZT.pri" size="8619" crc="79e7c8cc" md5="a824318a3eea74ba5db89a34938a9a46" sha1="ca3e912bc2df009ef7c5780019a6880fbd0ab6af"/>
+	</game>
+	<game name="Szotar (1985)(Szucs Zoltan)(hu)">
+		<description>Szotar (1985)(Szucs Zoltan)(hu)</description>
+		<rom name="0-Boot.pri" size="5985" crc="88b158ba" md5="fd0f13281e095aafdf6b43f3f8e221b0" sha1="b43ef75d5203506224462a1e6e9531a2da9f8cfc"/>
+		<rom name="Angol.pri" size="3810" crc="42f1f406" md5="62959e3d7d978519a5921da0e7049fcb" sha1="418c60f7fb6a793e3e6e1ae1228890b009613329"/>
+		<rom name="Nemet.pri" size="10609" crc="a95b7e33" md5="fd2bcc402d324e4722e537cccc813061" sha1="341e7782de9d62b5c305acb84f8eb385686f741c"/>
+		<rom name="Spanyol.pri" size="1886" crc="23edece2" md5="4befd0a02d3b9da0d4e455adbc67b8f7" sha1="85ab94cef811101d26f41c08969655c871f08194"/>
+	</game>
+	<game name="Z-80 Szimulator (198x)(Szigma Szoftver)[req CDOS]">
+		<description>Z-80 Szimulator (198x)(Szigma Szoftver)[req CDOS]</description>
+		<rom name="Z80SZIM.pri" size="1160" crc="d53fd339" md5="55f01a903d2ae61b6a654ab8e040f3a3" sha1="4559fe3337ac2500df0b4e969393fa67366f17d1"/>
+		<rom name="Z80SZIMU.pri" size="10001" crc="7a672660" md5="26ce8e2ccc0fe763e80847d289abf80f" sha1="a56b6204ddf000a45c357f95a27502ee03d973f7"/>
+	</game>
+	<game name="Z-80 Szimulator Program (198x)(Szigszoft System)[req CDOS]">
+		<description>Z-80 Szimulator Program (198x)(Szigszoft System)[req CDOS]</description>
+		<rom name="0-Z80.pri" size="23262" crc="9ea00b7a" md5="0197e3d4e810743fbd8c9b4e7f639f24" sha1="4907daf9f8ac6be9e8d8c2b1e27bfb7fa9506984"/>
+		<rom name="Adat z80 szim.pri" size="9805" crc="248116e8" md5="730412e496ec38c5ce63f4ffe394582e" sha1="9197a4e717ac03db1f675cd3bd5338686eacec9c"/>
+	</game>
+</datafile>

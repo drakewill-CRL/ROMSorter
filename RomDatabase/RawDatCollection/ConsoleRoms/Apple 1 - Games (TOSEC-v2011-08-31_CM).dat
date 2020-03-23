@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple 1 - Games</name>
+		<description>Apple 1 - Games (TOSEC-v2011-08-31)</description>
+		<category>TOSEC</category>
+		<version>2011-08-31</version>
+		<author>Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Blackjack (19xx)(-)[Req BASIC][load at 4A.FFR800.FFFR, enter at E2B3]">
+		<description>Blackjack (19xx)(-)[Req BASIC][load at 4A.FFR800.FFFR, enter at E2B3]</description>
+		<rom name="Blackjack (19xx)(-)[Req BASIC][load at 4A.FFR800.FFFR, enter at E2B3].wav" size="5723176" crc="9486b37b" md5="b5891670343df82155b6ea33d0407394" sha1="9de34b03c06a75f59bd5295ecc1a3c69858d61b9"/>
+	</game>
+	<game name="Lunar Lander (1976)(-)[load at 300.A00R, enter at 300]">
+		<description>Lunar Lander (1976)(-)[load at 300.A00R, enter at 300]</description>
+		<rom name="Lunar Lander (1976)(-)[load at 300.A00R, enter at 300].wav" size="3350056" crc="3c87f6cd" md5="95ca2a2be59851ec42f0dc4fbfa26310" sha1="de99cf33433e9b53b74920f3be258a4ce295ca2d"/>
+	</game>
+	<game name="Star Trek (1976)(-)[p][Req BASIC][load at 4A.FFR300.FFFR, enter at E2B3]">
+		<description>Star Trek (1976)(-)[p][Req BASIC][load at 4A.FFR300.FFFR, enter at E2B3]</description>
+		<rom name="Star Trek (1976)(-)[p][Req BASIC][load at 4A.FFR300.FFFR, enter at E2B3].wav" size="6971944" crc="50a23014" md5="16a9b1d6682e8c4c81cbd25fe929b52f" sha1="3011cb26f3803d50a595d1ae572f8b512a6f5610"/>
+	</game>
+</datafile>

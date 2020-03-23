@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Camputers Lynx - Compilations - Games</name>
+		<description>Camputers Lynx - Compilations - Games (TOSEC-v2011-05-17)</description>
+		<category>TOSEC</category>
+		<version>2011-05-17</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Gempack 4 (1983)(Gem Software)(GB)">
+		<description>Gempack 4 (1983)(Gem Software)(GB)</description>
+		<rom name="Gempack 4 (1983)(Gem Software)(GB).tap" size="13432" crc="e2c905c1" md5="4adec50afaf7faddb36f92d730053ddb" sha1="6d9ef67a3a9b210acf855b91ec76673c0c5d4b0d"/>
+	</game>
+</datafile>

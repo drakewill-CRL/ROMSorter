@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Coleco ColecoVision ADAM - Games - [COM]</name>
+		<description>Coleco ColecoVision ADAM - Games - [COM] (TOSEC-v2011-08-31)</description>
+		<category>TOSEC</category>
+		<version>2011-08-31</version>
+		<author>Grendel - Cid - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Game Save (1985)(Munnings, Stephen)">
+		<description>Game Save (1985)(Munnings, Stephen)</description>
+		<rom name="Game Save (1985)(Munnings, Stephen).com" size="640" crc="2ae8d077" md5="a704132dab5fe0f79d1163c0f6e22b78" sha1="f26c2e3313562821cec60dca2bf8fe034a7848ff"/>
+	</game>
+	<game name="Hangman (1985)(Mix Software)">
+		<description>Hangman (1985)(Mix Software)</description>
+		<rom name="Hangman (1985)(Mix Software).com" size="24704" crc="5c3fb283" md5="76bebf5faa7530b8055e84bcdf7561e6" sha1="375ba16f5410b4d975ba5bb8506c8f58a6a0a292"/>
+	</game>
+	<game name="Othello (198x)(-)">
+		<description>Othello (198x)(-)</description>
+		<rom name="Othello (198x)(-).com" size="22784" crc="7923df32" md5="c57a1c8bc7a1c996c016bb6689feaa39" sha1="7ba594e3ff7b664f6bb6e037be153097c9e1f659"/>
+	</game>
+	<game name="Pacman (19xx)(-)">
+		<description>Pacman (19xx)(-)</description>
+		<rom name="Pacman (19xx)(-).com" size="18432" crc="1143529a" md5="befc25ad4cdfc6bacdc8ae23c60ba690" sha1="b8baa59ae4b6162f0d31923cff9a7a21e031c371"/>
+	</game>
+</datafile>

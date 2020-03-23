@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Thomson MO5 - Operating Systems - [QD]</name>
+		<description>Thomson MO5 - Operating Systems - [QD] (TOSEC-v2011-08-23)</description>
+		<category>TOSEC</category>
+		<version>2011-08-23</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="MO5 QDD Disk BASIC v1.0 (1985)(Microsoft)">
+		<description>MO5 QDD Disk BASIC v1.0 (1985)(Microsoft)</description>
+		<rom name="MO5 QDD Disk BASIC v1.0 (1985)(Microsoft).qd" size="51200" crc="b510b9be" md5="ea7d5b3aa4a0235d84a35aedbd8be656" sha1="a583cf9779add76a4488821b8cd9b1c5867b704d"/>
+	</game>
+</datafile>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore Amiga CD32 - Homebrew - Games - [NRG]</name>
+		<description>Commodore Amiga CD32 - Homebrew - Games - [NRG] (TOSEC-v2014-10-28)</description>
+		<category>TOSEC-ISO</category>
+		<version>2014-10-28</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Hybris (1989)(Discovery)[m Stuermer, A.]">
+		<description>Hybris (1989)(Discovery)[m Stuermer, A.]</description>
+		<rom name="Hybris (1989)(Discovery)[m Stuermer, A.].nrg" size="1548444" crc="392e15e7" md5="37c411dc73bd6c73c1d204779e6b1a12" sha1="651e6b0a63d068bd4b0060560a369599337119c4"/>
+	</game>
+	<game name="Phoenix Fighters (1999)(Alive)[RGCD]">
+		<description>Phoenix Fighters (1999)(Alive)[RGCD]</description>
+		<rom name="Phoenix Fighters (1999)(Alive)[RGCD].nrg" size="3457180" crc="f6793163" md5="768d4a9f6315b609cee3501480771c20" sha1="6c1fd6bed659bca0dd6005fae380e71c933816df"/>
+	</game>
+</datafile>

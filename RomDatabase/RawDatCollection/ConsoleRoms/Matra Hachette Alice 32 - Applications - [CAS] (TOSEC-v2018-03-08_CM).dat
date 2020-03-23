@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Matra Hachette Alice 32 - Applications - [CAS]</name>
+		<description>Matra Hachette Alice 32 - Applications - [CAS] (TOSEC-v2018-03-08)</description>
+		<category>TOSEC</category>
+		<version>2018-03-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="ModeCLS (2008)(Lapierre, Patrice)(FR)(Tape 1 of 2)">
+		<description>ModeCLS (2008)(Lapierre, Patrice)(FR)(Tape 1 of 2)</description>
+		<rom name="ModeCLS (2008)(Lapierre, Patrice)(FR)(Tape 1 of 2).cas" size="599" crc="142dfb23" md5="9824e6a6de799f4eb770ccf5f89b8b6f" sha1="0756c4dd6ad36501ff5746cf393dc315454b9017"/>
+	</game>
+	<game name="ModeCLS (2008)(Lapierre, Patrice)(FR)(Tape 2 of 2)">
+		<description>ModeCLS (2008)(Lapierre, Patrice)(FR)(Tape 2 of 2)</description>
+		<rom name="ModeCLS (2008)(Lapierre, Patrice)(FR)(Tape 2 of 2).cas" size="803" crc="9bc5e1b5" md5="b50bdc9990599e9f6c24fb4addbd91f8" sha1="050811c3b66787bf90dd461c998922cde902b998"/>
+	</game>
+</datafile>

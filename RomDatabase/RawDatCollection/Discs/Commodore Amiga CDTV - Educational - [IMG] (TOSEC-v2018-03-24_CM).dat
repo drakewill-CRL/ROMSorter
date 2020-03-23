@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore Amiga CDTV - Educational - [IMG]</name>
+		<description>Commodore Amiga CDTV - Educational - [IMG] (TOSEC-v2018-03-24)</description>
+		<category>TOSEC-ISO</category>
+		<version>2018-03-24</version>
+		<author>Tomse - TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Tale of Benjamin Bunny, The (1991)(Discis)(en-es)">
+		<description>Tale of Benjamin Bunny, The (1991)(Discis)(en-es)</description>
+		<rom name="Tale of Benjamin Bunny, The (1991)(Discis)(en-es).ccd" size="792" crc="b02930e6" md5="5b7b537cb8cb5d2ee1c68d24f7c041f6" sha1="4c4b870b4ec3ebc5354fffc46b42d9138e0fe9d1"/>
+		<rom name="Tale of Benjamin Bunny, The (1991)(Discis)(en-es).cue" size="113" crc="0d3dd879" md5="8d0fab29157cab85a3e0903034716919" sha1="fdbb59476a1195080203bcc487819be5435fac44"/>
+		<rom name="Tale of Benjamin Bunny, The (1991)(Discis)(en-es).img" size="302838816" crc="6f30d19d" md5="9e4a6fa597ba094ddbb4d2a0767c6beb" sha1="b7e11fd0c95087799cffba40ae95294a19fbc93e"/>
+		<rom name="Tale of Benjamin Bunny, The (1991)(Discis)(en-es).sub" size="12360768" crc="471273f0" md5="40f198fbd1b7ad1111d640801021442d" sha1="ff7d8f2fd270fb4e5c85cde1c2f8df5d71cc3654"/>
+	</game>
+</datafile>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Visual Pinball [VP8] PinMame Tables [WideScreen]</name>
+		<description>Visual Pinball [VP8] PinMame Tables [WideScreen]</description>
+		<category>Visual Pinball [VP8] PinMame Tables [WideScreen]</category>
+		<version>1.0</version>
+		<date>2020-01-01</date>
+		<author>Yori Yoshizuki</author>
+		<email>-insert email-</email>
+		<homepage>Yori Yoshizuki</homepage>
+		<url>https://yoshizuki.webs.com</url>
+		<comment>-insert comment-</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Tales from the Crypt (Data East)(1993)(Lander)(1.1)[VP8][Widescreen]">
+		<description>Tales from the Crypt (Data East)(1993)(Lander)(1.1)[VP8][Widescreen]</description>
+		<rom name="screenshot.jpg" size="703613" crc="6abb3258" sha1="4c755a520fdfde3e9eebdffe825ddb2535d604cf"/>
+		<rom name="Tales From the Crypt V1.1 Wide (Lander).vpt" size="3939328" crc="fcc554dd" sha1="4f26158672f16262362fcefad50adc9406de30a1"/>
+	</machine>
+</datafile>

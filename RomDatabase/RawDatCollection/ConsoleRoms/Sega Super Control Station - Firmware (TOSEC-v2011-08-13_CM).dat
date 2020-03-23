@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega Super Control Station - Firmware</name>
+		<description>Sega Super Control Station - Firmware (TOSEC-v2011-08-13)</description>
+		<category>TOSEC</category>
+		<version>2011-08-13</version>
+		<author>Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Sega Super Control Station IPL (198x)(Sega)">
+		<description>Sega Super Control Station IPL (198x)(Sega)</description>
+		<rom name="Sega Super Control Station IPL (198x)(Sega).bin" size="8192" crc="d76810b8" md5="561b362f9aa4cbcb240461abf83c2e0d" sha1="77339a6db2593aadc638bed77b8e9bed5d9d87e3"/>
+	</game>
+</datafile>

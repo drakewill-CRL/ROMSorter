@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation - Coverdiscs</name>
+		<description>Sony PlayStation - Coverdiscs (TOSEC-v2014-10-30)</description>
+		<category>TOSEC-ISO</category>
+		<version>2014-10-30</version>
+		<author>TOSEC-ISO: Trurip</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Official US PlayStation Magazine - Volume 3 Issue 2 (1999-11)(Ziff Davis)(US)[Demo Disc 26]">
+		<description>Official US PlayStation Magazine - Volume 3 Issue 2 (1999-11)(Ziff Davis)(US)[Demo Disc 26]</description>
+		<rom name="Official US PlayStation Magazine - Volume 3 Issue 2 (1999-11)(Ziff Davis)(US)[Demo Disc 26].ccd" size="1230" crc="98540b79" md5="efc2beb2cfe78c1459b05f50237b09ce" sha1="ef5eb6e632ed2cbad13818c19c27d5515204f3cb"/>
+		<rom name="Official US PlayStation Magazine - Volume 3 Issue 2 (1999-11)(Ziff Davis)(US)[Demo Disc 26].img" size="716950752" crc="9a533062" md5="80b952aceed38f1bd1e7d9c48f0bc447" sha1="bac10f2fe1249371480d0a515c62df050c5c51fe"/>
+		<rom name="Official US PlayStation Magazine - Volume 3 Issue 2 (1999-11)(Ziff Davis)(US)[Demo Disc 26].sub" size="29263296" crc="f5f1ddf0" md5="76606944a3166ffd3c5b86ed696018ca" sha1="dc7dfbcd08325466c11b4e0148188788768e2dd8"/>
+	</game>
+</datafile>

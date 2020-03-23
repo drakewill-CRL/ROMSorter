@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega Dreamcast - Homebrew - Demos - [Multipart]</name>
+		<description>Sega Dreamcast - Homebrew - Demos - [Multipart] (TOSEC-v2012-02-27)</description>
+		<category>TOSEC-ISO</category>
+		<version>2012-02-27</version>
+		<author>Snakemeat - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Cellshaded Teapot Demo v1.0 (2005-03-08)(Greay)(PD)[scrambled]">
+		<description>Cellshaded Teapot Demo v1.0 (2005-03-08)(Greay)(PD)[scrambled]</description>
+		<rom name="1ST_READ.BIN" size="676684" crc="37201ed4" md5="906cb16bde78ae2eda8970f16324dd8e" sha1="21615863b0871dfd2fb0a0f9453d36d0b051ddd6"/>
+		<rom name="RTest.BIN" size="676684" crc="1c5dc82f" md5="e7c93550fc47e3690b25eea22e615ab0" sha1="1f3e3227ce8459c3ec39707fb00e996d808ab031"/>
+	</game>
+	<game name="Cheap Shadows Demo - Modifier Tex (19xx)(Tollack, Heinrich)(PD)">
+		<description>Cheap Shadows Demo - Modifier Tex (19xx)(Tollack, Heinrich)(PD)</description>
+		<rom name="modifier_tex.elf" size="267283" crc="bc521014" md5="c6028b3e0a801bf5a95637c15fd19d41" sha1="a8bd02d70b8caadc4fe0666f8e224ce3742e14de"/>
+		<rom name="romdisk.img" size="3072" crc="11d43a0e" md5="23a4f21de39916b2cc008fc5300ceb49" sha1="4eea8f62acedb7ad3358c7b6a86794536fbb3c98"/>
+		<rom name="romdisk\tex1.png" size="274" crc="b46f9400" md5="64afe3679a7ae66a6755d1ae86f42536" sha1="5f544412daabe3a22ac46c406097efbb49754004"/>
+		<rom name="romdisk\tex2.png" size="1880" crc="6ccf889f" md5="f85b0b21b8b8f7f060045a42dee39518" sha1="073250e03e54d9358c74ccccfa9324487711260d"/>
+	</game>
+	<game name="Heightfield (19xx)(-)(PD)">
+		<description>Heightfield (19xx)(-)(PD)</description>
+		<rom name="heightfield.elf" size="93764" crc="18eab059" md5="57c4a824bf4e3d81ed7cf4cbb5ea7d99" sha1="79356349dd048802e87515c547381e66269895c2"/>
+		<rom name="heightfield.xpm" size="66750" crc="a7fa00d4" md5="625b3a030f60276613d4753e74168707" sha1="e350f542a77a9eafccbd27b3fb6cff0c2a670411"/>
+	</game>
+	<game name="NewVoxel (2003-05-03)(Reaper2k2)(PD)[scrambled]">
+		<description>NewVoxel (2003-05-03)(Reaper2k2)(PD)[scrambled]</description>
+		<rom name="1ST_READ.BIN" size="901660" crc="d9b760a3" md5="20f88e5bad23f18767fbd2a3150f0879" sha1="1ae25a04c991c9065e9e15147db45547b6211510"/>
+		<rom name="about.png" size="72014" crc="ba065fee" md5="f1d4514a54d4bb340f83b1ed6d51ed36" sha1="e1602be89edcd668c4c6557599eb861c2d0bab6b"/>
+		<rom name="imr.png" size="77841" crc="8342e771" md5="416512e25e1346e17f6f1ca6ff1fbf8b" sha1="6a6abb7056f6c92087fbdfe8d162dc21f4ea5884"/>
+		<rom name="IP.BIN" size="32768" crc="507a4ec6" md5="9d53e2015bb246641b9d0e9ba2b31e67" sha1="d4a42a20566542975cd908053c5b852e5f125d0b"/>
+		<rom name="man1.png" size="1432" crc="0fb3f6fc" md5="da7d8eed402cbeb9f2f885df743e79c5" sha1="3345672b55a15eaf3b1754985fe901905edfd53e"/>
+		<rom name="man2.png" size="1450" crc="e569d504" md5="5db52fbfd03dd112f23b3ff4b3ef23fd" sha1="985c2c8786ce86af77ed2856568aaace1e91d15c"/>
+		<rom name="man3.png" size="1356" crc="e0ae332a" md5="9ccdb0e62375cabd1829d972a6ad8553" sha1="f066b895cbb52fd5ec402ae8247dc1d5c28c52e9"/>
+		<rom name="man4.png" size="1420" crc="f044517c" md5="5e2350f75dab4655dfaee0fb53d758de" sha1="018b7036d5eb6d40462e7ecdcea01dcc17ac92d4"/>
+		<rom name="sam.ogg" size="307506" crc="3f0b4920" md5="900fb38a312d96fe59f15a340eb29e5a" sha1="5694cf8a42dd4fbe3d883b67dd49d6b01434123a"/>
+		<rom name="stick.png" size="76094" crc="62dc7fa8" md5="88d366758c583a7a8eb93dd1626f235c" sha1="f1d2760f750aff56cb7d8be11aad1ee06d79c471"/>
+		<rom name="tex1.png" size="2074" crc="09bd3fcb" md5="8d14c14dd9cbcae9554fbf29468d8f91" sha1="7fd2d98cc4a90f271b24c0a09e90fe1fb674f53e"/>
+	</game>
+	<game name="SDL Sprite Example (2003-04-05)(Reaper2k2)(PD)[scrambled]">
+		<description>SDL Sprite Example (2003-04-05)(Reaper2k2)(PD)[scrambled]</description>
+		<rom name="1ST_READ.BIN" size="310540" crc="96d18b8c" md5="094de4622c02b682152eaadbddd1ea35" sha1="094cc2eb4bcefa99beb153d80179d4ffbb1f81f4"/>
+		<rom name="IP.BIN" size="32768" crc="507a4ec6" md5="9d53e2015bb246641b9d0e9ba2b31e67" sha1="d4a42a20566542975cd908053c5b852e5f125d0b"/>
+		<rom name="sdlsprite_example2" size="94404" crc="3be049f7" md5="3618152befb642756acd854cf421cc6b" sha1="190a2845e0828e278252bbb3110f9b4f411061ac"/>
+		<rom name="Voiture2.bmp" size="73782" crc="3095fd5d" md5="3272f16c3f34432732e7437560c12a67" sha1="0e7e7be2c16a5cb939c95a0a27f21edae79a8484"/>
+	</game>
+</datafile>

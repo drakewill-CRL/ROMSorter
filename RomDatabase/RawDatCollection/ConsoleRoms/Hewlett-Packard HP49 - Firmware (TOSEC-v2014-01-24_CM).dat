@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Hewlett-Packard HP49 - Firmware</name>
+		<description>Hewlett-Packard HP49 - Firmware (TOSEC-v2014-01-24)</description>
+		<category>TOSEC</category>
+		<version>2014-01-24</version>
+		<author>Leto_II - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Hewlett-Packard HP49-B v1.19-5 (2000)(HP)">
+		<description>Hewlett-Packard HP49-B v1.19-5 (2000)(HP)</description>
+		<rom name="Hewlett-Packard HP49-B v1.19-5 (2000)(HP).bin" size="4194304" crc="23931d57" md5="905f9c2fb399514547ccd1973c9071a0" sha1="fffb95a5486cddaa040528089953a04c08fe0847"/>
+	</game>
+</datafile>

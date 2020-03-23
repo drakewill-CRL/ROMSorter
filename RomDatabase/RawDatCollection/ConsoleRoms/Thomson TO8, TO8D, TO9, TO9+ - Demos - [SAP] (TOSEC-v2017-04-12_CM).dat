@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Thomson TO8, TO8D, TO9, TO9+ - Demos - [SAP]</name>
+		<description>Thomson TO8, TO8D, TO9, TO9+ - Demos - [SAP] (TOSEC-v2017-04-12)</description>
+		<category>TOSEC</category>
+		<version>2017-04-12</version>
+		<author>Leto_II - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="HCL Megademo (1990-10)(HCL)(FR)(PD)">
+		<description>HCL Megademo (1990-10)(HCL)(FR)(PD)</description>
+		<rom name="HCL Megademo (1990-10)(HCL)(FR)(PD).sap" size="335426" crc="da555b80" md5="c48bcb2beae5960d267d52df821790f6" sha1="1424469c154038d6a13f97501d6bd5f6516375fd"/>
+	</game>
+	<game name="TO8 deMODed (2017-03-19)(PULS)(FR)(Side 1 of 2)">
+		<description>TO8 deMODed (2017-03-19)(PULS)(FR)(Side 1 of 2)</description>
+		<rom name="TO8 deMODed (2017-03-19)(PULS)(FR)(Side 1 of 2).sap" size="335426" crc="4453756f" md5="a20eba28243f7afb3a2e2c98f898706d" sha1="459f27c6e1d20169f3730d401909dcdadafc02d3"/>
+	</game>
+	<game name="TO8 deMODed (2017-03-19)(PULS)(FR)(Side 2 of 2)">
+		<description>TO8 deMODed (2017-03-19)(PULS)(FR)(Side 2 of 2)</description>
+		<rom name="TO8 deMODed (2017-03-19)(PULS)(FR)(Side 2 of 2).sap" size="335426" crc="af3b7a4b" md5="4334403f7b5a7783e3bea2d5636042fc" sha1="19e31693c80eca7a8e555053bfd12c780f6858c9"/>
+	</game>
+</datafile>

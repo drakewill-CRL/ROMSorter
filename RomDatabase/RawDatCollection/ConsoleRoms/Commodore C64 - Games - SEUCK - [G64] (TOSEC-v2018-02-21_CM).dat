@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Games - SEUCK - [G64]</name>
+		<description>Commodore C64 - Games - SEUCK - [G64] (TOSEC-v2018-02-21)</description>
+		<category>TOSEC</category>
+		<version>2018-02-21</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Tough Guyz (19xx)(Nieborg, Henk)">
+		<description>Tough Guyz (19xx)(Nieborg, Henk)</description>
+		<rom name="Tough Guyz (19xx)(Nieborg, Henk).g64" size="333744" crc="28cbbd52" md5="02d11a53293965e5764905aa851ba59c" sha1="874512fce51d17ca8377fcdf8548a040976dc273"/>
+	</game>
+</datafile>

@@ -1,0 +1,655 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Radio-86RK Radio-86RK - Various</name>
+		<description>Radio-86RK Radio-86RK - Various (TOSEC-v2014-04-23)</description>
+		<category>TOSEC</category>
+		<version>2014-04-23</version>
+		<author>themabus</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Assembler Mikron (19xx)(-)">
+		<description>Assembler Mikron (19xx)(-)</description>
+		<rom name="Assembler Mikron (19xx)(-).rkr" size="4105" crc="abead7b5" md5="cf65866d8bc27fc83d8cb07efc648aff" sha1="41e92546ed9b644db8ffc41889c929bfdaf86fd0"/>
+	</game>
+	<game name="Assembler Mikron (19xx)(-)[a2]">
+		<description>Assembler Mikron (19xx)(-)[a2]</description>
+		<rom name="Assembler Mikron (19xx)(-)[a2].rkr" size="4105" crc="445e3384" md5="1ed0f854175bc9066bccd89c0c38dd65" sha1="a43746fb214cb91471cd42e5ec10d1d0dd0641cb"/>
+	</game>
+	<game name="Assembler Mikron (19xx)(-)[a]">
+		<description>Assembler Mikron (19xx)(-)[a]</description>
+		<rom name="Assembler Mikron (19xx)(-)[a].rkr" size="4105" crc="660b1760" md5="b6c7ab9ac58afb66ce3f1c6c79d4428d" sha1="13dbd0dc9b5a83ac38ea94c56123592da2648ccc"/>
+	</game>
+	<game name="Assembler Mikron (19xx)(-)[h]">
+		<description>Assembler Mikron (19xx)(-)[h]</description>
+		<rom name="Assembler Mikron (19xx)(-)[h].rkr" size="4105" crc="b4705436" md5="841a38bdbe78858e77ec5df0c901b8d6" sha1="dabec47c025882c74aa0c8b86fdd0981a0304d3b"/>
+	</game>
+	<game name="Assembler Mikrosha (19xx)(-)">
+		<description>Assembler Mikrosha (19xx)(-)</description>
+		<rom name="Assembler Mikrosha (19xx)(-).rkr" size="4185" crc="dcafcdb7" md5="fe924043ae5039490684a41494750ac3" sha1="465cd658b982cd8a9537a282f38d3af75cd67a4f"/>
+	</game>
+	<game name="Barmen v1.5 (1988)(ALG)">
+		<description>Barmen v1.5 (1988)(ALG)</description>
+		<rom name="Barmen v1.5 (1988)(ALG).rkr" size="4105" crc="b339097e" md5="24f88685b6057ad1d7306b6a6cbe5c00" sha1="7680bf2ee66e0bdad1b874857141b0d18c7a49d9"/>
+	</game>
+	<game name="Basic Mikron (1986)(Barsukov V.N., Fadeev E.P.)">
+		<description>Basic Mikron (1986)(Barsukov V.N., Fadeev E.P.)</description>
+		<rom name="Basic Mikron (1986)(Barsukov V.N., Fadeev E.P.).rkr" size="8201" crc="43dc43e3" md5="263022bc6af09253e01afb06574ea42a" sha1="285823b645e96f35d1f1e28278caa0758ef05d13"/>
+	</game>
+	<game name="Basic Mikron (1988)(-)">
+		<description>Basic Mikron (1988)(-)</description>
+		<rom name="Basic Mikron (1988)(-).rkr" size="8201" crc="58b7ac1f" md5="74ef0f0159f13b05a11337fd3fcfa1cb" sha1="e15d2d2331593c561aede7fbbdc35b3b425bf649"/>
+	</game>
+	<game name="Basic Mikron (1988)(-)[a2]">
+		<description>Basic Mikron (1988)(-)[a2]</description>
+		<rom name="Basic Mikron (1988)(-)[a2].rkr" size="8201" crc="aa80db28" md5="65b38bb2e5a544746fb9844b33ca4281" sha1="b1f72dca4d07b3366e626dc388b793241829ab29"/>
+	</game>
+	<game name="Basic Mikron (1988)(-)[a]">
+		<description>Basic Mikron (1988)(-)[a]</description>
+		<rom name="Basic Mikron (1988)(-)[a].rkr" size="8547" crc="77712fff" md5="a7cdf44b409ee78f59cedb47ed215dc3" sha1="cd10b8bbc80bd69ed3ec681391a320acd95a9e0f"/>
+	</game>
+	<game name="Basic Mikron (1988)(-)[h]">
+		<description>Basic Mikron (1988)(-)[h]</description>
+		<rom name="Basic Mikron (1988)(-)[h].rkr" size="8201" crc="348b2a32" md5="a6aa7c2bb78eeb938b9a8102fd8bb529" sha1="953b7815255c878abf469917623633a9ced0780b"/>
+	</game>
+	<game name="Basic Mikron (1988)(-)[o]">
+		<description>Basic Mikron (1988)(-)[o]</description>
+		<rom name="Basic Mikron (1988)(-)[o].rkr" size="8202" crc="3354c039" md5="de75d623d7b138852cf182248c6f05c2" sha1="2c6e309b24e65768e86a79c4bf8156301d243b1a"/>
+	</game>
+	<game name="Basic Radio-86PC (1986)(Barsukov V.N., Fadeev E.P.)">
+		<description>Basic Radio-86PC (1986)(Barsukov V.N., Fadeev E.P.)</description>
+		<rom name="Basic Radio-86PC (1986)(Barsukov V.N., Fadeev E.P.).rkr" size="8201" crc="b8e4ee51" md5="772014aa2d5ba8dd43a692fd0e1f6982" sha1="dfac012a23ce9215ac362f570481c815be22e7f7"/>
+	</game>
+	<game name="Basic-Servis (19xx)(-)">
+		<description>Basic-Servis (19xx)(-)</description>
+		<rom name="Basic-Servis (19xx)(-).rkr" size="7433" crc="9d3e3ff1" md5="9285cc07a72f974f6d87953af3f66414" sha1="d9e046fb6fc08b886bfb59a67facfb5d4a2ac556"/>
+	</game>
+	<game name="Bombardirovtchik (19xx)(-)">
+		<description>Bombardirovtchik (19xx)(-)</description>
+		<rom name="Bombardirovtchik (19xx)(-).rkr" size="4105" crc="742e48a4" md5="d7c1b4be10aeb3292f7481d98173679b" sha1="36b1bd4d219388f935e65223f05894cb6cfbcd9d"/>
+	</game>
+	<game name="Chervyak (1987)(-)">
+		<description>Chervyak (1987)(-)</description>
+		<rom name="Chervyak (1987)(-).rkr" size="2169" crc="509b92fb" md5="59286468bd4ef3717695fb7ec8b04449" sha1="1fa72d5473eb9710b12b608465b4b5e1acd07f98"/>
+	</game>
+	<game name="Chervyak (1987)(-)[a]">
+		<description>Chervyak (1987)(-)[a]</description>
+		<rom name="Chervyak (1987)(-)[a].rkr" size="2313" crc="40279c79" md5="4abcbe9d523a738ee6539c5e73bf8a61" sha1="d24dd1395e36d12bba704c8e5e7fd05c1a98d633"/>
+	</game>
+	<game name="Chervyak (1987)(-)[o]">
+		<description>Chervyak (1987)(-)[o]</description>
+		<rom name="Chervyak (1987)(-)[o].rkr" size="2170" crc="e33cfaf0" md5="5c4f0b75b507710561b758804c04e295" sha1="d559388c30da391fcb4729017da326659494a405"/>
+	</game>
+	<game name="Cirk v1.2 (1986)(Popov S.N.)">
+		<description>Cirk v1.2 (1986)(Popov S.N.)</description>
+		<rom name="Cirk v1.2 (1986)(Popov S.N.).rkr" size="7209" crc="b99beb05" md5="a6076ffa5c81aa74dfb0db6e2519b939" sha1="5f290c98cb66906c3a5f4e1173eaab0c0ae62849"/>
+	</game>
+	<game name="Cross Fire v002 (1988)(Zyryanov A.V.)">
+		<description>Cross Fire v002 (1988)(Zyryanov A.V.)</description>
+		<rom name="Cross Fire v002 (1988)(Zyryanov A.V.).rkr" size="11289" crc="773eed23" md5="7aaa4abc3be67ddf7cb0243014ebfb7b" sha1="189ff1d051a7199092ef6837f23b4f9ba9131d35"/>
+	</game>
+	<game name="Desantnik 1 - SOS v0.1 (1989)(ZD Corp)">
+		<description>Desantnik 1 - SOS v0.1 (1989)(ZD Corp)</description>
+		<rom name="Desantnik 1 - SOS v0.1 (1989)(ZD Corp).rkr" size="4105" crc="75eb4ace" md5="47b2f1fff629a91ec11952a05c451956" sha1="719bba529e015617e28c9582efb6c989b4e55bb2"/>
+	</game>
+	<game name="Disassembler Mikron (19xx)(-)">
+		<description>Disassembler Mikron (19xx)(-)</description>
+		<rom name="Disassembler Mikron (19xx)(-).rkr" size="4105" crc="bf14a0ba" md5="a3ed33879b5d6da5a0d53f6800742188" sha1="9fea35a84e2b848292646704a187a15fe182faca"/>
+	</game>
+	<game name="Disassembler Mikron (19xx)(-)[a]">
+		<description>Disassembler Mikron (19xx)(-)[a]</description>
+		<rom name="Disassembler Mikron (19xx)(-)[a].rkr" size="4105" crc="1e95e642" md5="644f4b73c98c77719ecd1ce5e7048a35" sha1="abb4fdb43d2827d50bbc88bee6aaddb4afad3d0e"/>
+	</game>
+	<game name="Diversant (1989)(-)">
+		<description>Diversant (1989)(-)</description>
+		<rom name="Diversant (1989)(-).rkr" size="5913" crc="3a463879" md5="d65c19a7f807b011da1a108189a7f661" sha1="2cf1486c1530f1c25be363af739033446fa760c3"/>
+	</game>
+	<game name="DP STF v2.0 (19xx)(-)">
+		<description>DP STF v2.0 (19xx)(-)</description>
+		<rom name="DP STF v2.0 (19xx)(-).rkr" size="4873" crc="b32098cb" md5="aa1a498502a4d75d727f2faf5a873b5e" sha1="854df8c9555bf2d8723bdc95d549a54351cdeb06"/>
+	</game>
+	<game name="Dump Editor (19xx)(-)">
+		<description>Dump Editor (19xx)(-)</description>
+		<rom name="Dump Editor (19xx)(-).rkr" size="649" crc="530f4607" md5="71ca90ed5df15120f3e0f1bb4dfe353a" sha1="a93d35f52717b3df9015de5625ea7b17569f7791"/>
+	</game>
+	<game name="Fort-Sistema LS-1 (1988-06)(Lejdi Soft)">
+		<description>Fort-Sistema LS-1 (1988-06)(Lejdi Soft)</description>
+		<rom name="Fort-Sistema LS-1 (1988-06)(Lejdi Soft).rkr" size="17869" crc="9fbda3c8" md5="478078ddc729e6d9e96ac6e8b2ca6b68" sha1="04ffec500aaeb6903f71b70152e6bc42ce93ba78"/>
+	</game>
+	<game name="Fort-Sistema LS-1 (1988-06)(Lejdi Soft)[a]">
+		<description>Fort-Sistema LS-1 (1988-06)(Lejdi Soft)[a]</description>
+		<rom name="Fort-Sistema LS-1 (1988-06)(Lejdi Soft)[a].rkr" size="18185" crc="7bf2a126" md5="cf398df92807d6598e6da79c0c2f0eaa" sha1="650a529f5de980c5a23d34cf068a43a784edbb19"/>
+	</game>
+	<game name="Igry (1988)(SVVI-76-79)">
+		<description>Igry (1988)(SVVI-76-79)</description>
+		<rom name="Igry (1988)(SVVI-76-79).rkr" size="13465" crc="cbc99380" md5="94e4dca2ed4328676b77119ac5dcaa92" sha1="4a9a2895086cea5c62d7e986e9bdbeaaa5d48b5e"/>
+	</game>
+	<game name="Kegelban (19xx)(-)[basic]">
+		<description>Kegelban (19xx)(-)[basic]</description>
+		<rom name="Kegelban (19xx)(-)[basic].rkr" size="3300" crc="125dd53c" md5="bc01b32e9731141146629332d3b74ffb" sha1="d6852bbd55ae668882d498f668d6f2502c0f7a3e"/>
+	</game>
+	<game name="Klad v1.4 (1987)(Pujsis-Pujshe E.I.)">
+		<description>Klad v1.4 (1987)(Pujsis-Pujshe E.I.)</description>
+		<rom name="Klad v1.4 (1987)(Pujsis-Pujshe E.I.).rkr" size="13145" crc="e8c83232" md5="bb610f3529f977cc45b2a8d26ebf254c" sha1="52650060a5b7e69661d518180110c4835b8d5cc6"/>
+	</game>
+	<game name="Kommutator (19xx)(-)">
+		<description>Kommutator (19xx)(-)</description>
+		<rom name="Kommutator (19xx)(-).rkr" size="16075" crc="feeca21a" md5="ec72bf0bafc2d66bc95212148dee998d" sha1="a3391172d6a75bebe33916745fa9be7a1212e0ea"/>
+	</game>
+	<game name="Krestiki-Noliki (19xx)(-)">
+		<description>Krestiki-Noliki (19xx)(-)</description>
+		<rom name="Krestiki-Noliki (19xx)(-).rkr" size="5130" crc="6724a59e" md5="70116d69df093e98c33d8413f414a578" sha1="5d27f8f3438826e28212ac4cc4bb9926ab9432de"/>
+	</game>
+	<game name="Krestiki-Noliki (19xx)(-)[a]">
+		<description>Krestiki-Noliki (19xx)(-)[a]</description>
+		<rom name="Krestiki-Noliki (19xx)(-)[a].rkr" size="1967" crc="60c4bf8c" md5="c925252e0d3196e18ff08a03be925470" sha1="22e1cb1a181f16b2c41b3d1960a09c171310cbfd"/>
+	</game>
+	<game name="Krestiki-Noliki (19xx)(-)[o]">
+		<description>Krestiki-Noliki (19xx)(-)[o]</description>
+		<rom name="Krestiki-Noliki (19xx)(-)[o].rkr" size="5187" crc="cf99a8de" md5="2f3db68134873981c46bd9aa78ddceff" sha1="0dbb5e031ed7bd49dcafee43b1d56ab017ff6735"/>
+	</game>
+	<game name="Krok v1.1 (1988)(MIG)">
+		<description>Krok v1.1 (1988)(MIG)</description>
+		<rom name="Krok v1.1 (1988)(MIG).rkr" size="6921" crc="11d85f4b" md5="f97782262feae3cd7b45ee0ea03bca32" sha1="80579a6609564b9a3f42bc45bae305a53a102b37"/>
+	</game>
+	<game name="Ksoniks (19xx)(-)">
+		<description>Ksoniks (19xx)(-)</description>
+		<rom name="Ksoniks (19xx)(-).rkr" size="1919" crc="24a47696" md5="023e356562af1862c4d3c39fe2610f7d" sha1="8e7323c8dabde6e14b719e2647695ec0506fe448"/>
+	</game>
+	<game name="Ksoniks (19xx)(-)[a]">
+		<description>Ksoniks (19xx)(-)[a]</description>
+		<rom name="Ksoniks (19xx)(-)[a].rkr" size="1919" crc="71a8c423" md5="ea3934083e637c2e04970f8d89752a3a" sha1="3135477e39381b83a009b42168b27d4db7e90194"/>
+	</game>
+	<game name="Lestnica (19xx)(-)">
+		<description>Lestnica (19xx)(-)</description>
+		<rom name="Lestnica (19xx)(-).rkr" size="1641" crc="64d1389c" md5="69bbd91bd623f19e9188d49b95c7857c" sha1="b22130d736627350799df847d5693aa04c35bfdb"/>
+	</game>
+	<game name="Lestnica (19xx)(-)[o]">
+		<description>Lestnica (19xx)(-)[o]</description>
+		<rom name="Lestnica (19xx)(-)[o].rkr" size="1643" crc="6e54b2d3" md5="0fda6a7d9b5f06785b4274bed1d296a6" sha1="5fb86edef9f3d010666a18b033ad66ba2dc5b532"/>
+	</game>
+	<game name="Lestnica-1 (19xx)(Simonov Yu.B.)">
+		<description>Lestnica-1 (19xx)(Simonov Yu.B.)</description>
+		<rom name="Lestnica-1 (19xx)(Simonov Yu.B.).rkr" size="7977" crc="69800ec6" md5="da0ed53818ecb8ed672da85fdb14eb92" sha1="abb01543c809227512237f9ec3ba964329bbb704"/>
+	</game>
+	<game name="Lestnica-1 (19xx)(Simonov Yu.B.)[a]">
+		<description>Lestnica-1 (19xx)(Simonov Yu.B.)[a]</description>
+		<rom name="Lestnica-1 (19xx)(Simonov Yu.B.)[a].rkr" size="7721" crc="b25a21e8" md5="a802be067bfc1cb53aadddd0bf5fa9b7" sha1="1972930b8cf2ea2a0734aae03ff5fba6e1b06199"/>
+	</game>
+	<game name="Life (19xx)(VCP)">
+		<description>Life (19xx)(VCP)</description>
+		<rom name="Life (19xx)(VCP).rkr" size="3946" crc="108b30a7" md5="621f2b2d1e71c59eb421a704177bd4e1" sha1="2ce0d8e01ac6dc7d7c406473d7cb1aefd7256ac4"/>
+	</game>
+	<game name="Lode Runner (19xx)(BSV Corp)">
+		<description>Lode Runner (19xx)(BSV Corp)</description>
+		<rom name="Lode Runner (19xx)(BSV Corp).rkr" size="12553" crc="a184b8c8" md5="d80ab67c81c4bb4c4797caedf76cc683" sha1="9f1ab8050a5ea7c5d84995a2d3d7f4aa34289d2f"/>
+	</game>
+	<game name="Mars (19xx)(-)">
+		<description>Mars (19xx)(-)</description>
+		<rom name="Mars (19xx)(-).rkr" size="5641" crc="2ab4a9c2" md5="b1fcf7aed9f3014a8bb3c57a628511b1" sha1="9ce7e9ba2f3e651dda90eabad942c48d85c7e0b6"/>
+	</game>
+	<game name="Maze v1.05 (1988-01-03)(SC80)">
+		<description>Maze v1.05 (1988-01-03)(SC80)</description>
+		<rom name="Maze v1.05 (1988-01-03)(SC80).rkr" size="7945" crc="2486aec7" md5="eefe3caa29ebfce79285ff2d2efabbca" sha1="7532dc60cdff3c6eb3fafe89f3b12f5e4969f041"/>
+	</game>
+	<game name="Mikrosha Basic (19xx)(-)">
+		<description>Mikrosha Basic (19xx)(-)</description>
+		<rom name="Mikrosha Basic (19xx)(-).rkr" size="6602" crc="599a6e13" md5="59bb85b3c38415baea15f04c172e9f0e" sha1="6b2bfa64b0cd7cb0b5eac9699af286791fb4eb8e"/>
+	</game>
+	<game name="Morskoj Boj (19xx)(-)[basic]">
+		<description>Morskoj Boj (19xx)(-)[basic]</description>
+		<rom name="Morskoj Boj (19xx)(-)[basic].rkr" size="6032" crc="334ab77f" md5="13694ee36ab837238f6193e4f3bd511c" sha1="4a3ad7e3d62190f36057330ff1e1ce81508908f0"/>
+	</game>
+	<game name="Muzykalnaya Sistema MC v3.2 (1987)(ALAN)">
+		<description>Muzykalnaya Sistema MC v3.2 (1987)(ALAN)</description>
+		<rom name="Muzykalnaya Sistema MC v3.2 (1987)(ALAN).rkr" size="4681" crc="3032480a" md5="9b60c82d502336ecffddebab76bcff14" sha1="cfdb679d979fac555c017d55e70998479514bcab"/>
+	</game>
+	<game name="Muzykalnaya Sistema MC v3.2 (1987)(ALAN)[a2]">
+		<description>Muzykalnaya Sistema MC v3.2 (1987)(ALAN)[a2]</description>
+		<rom name="Muzykalnaya Sistema MC v3.2 (1987)(ALAN)[a2].rkr" size="4681" crc="de7a62ad" md5="e0b58c44c93e27cd36ee9cf2b987209c" sha1="eeec6f1b50dc58400f7d2cdaeb8ac0594696a915"/>
+	</game>
+	<game name="Muzykalnaya Sistema MC v3.2 (1987)(ALAN)[a]">
+		<description>Muzykalnaya Sistema MC v3.2 (1987)(ALAN)[a]</description>
+		<rom name="Muzykalnaya Sistema MC v3.2 (1987)(ALAN)[a].rkr" size="4601" crc="7a518126" md5="a838691fcb457e34b87840ea6b066029" sha1="b23e2dcafd01495a079e7dabc85f9805c0ee0aa7"/>
+	</game>
+	<game name="Oregonskaya Tropa (1987-12-25)(-)[a][basic]">
+		<description>Oregonskaya Tropa (1987-12-25)(-)[a][basic]</description>
+		<rom name="Oregonskaya Tropa (1987-12-25)(-)[a][basic].rkr" size="16108" crc="0d33080b" md5="053c45912dee44d0476b6075e530da16" sha1="ba1b1373001553d775b8890e619db9845c71d194"/>
+	</game>
+	<game name="Oregonskaya Tropa (1987-12-25)(-)[basic]">
+		<description>Oregonskaya Tropa (1987-12-25)(-)[basic]</description>
+		<rom name="Oregonskaya Tropa (1987-12-25)(-)[basic].rkr" size="16056" crc="e8b0556d" md5="ac4f68146c671700f6e4c6da36a05b38" sha1="c856fd738c72dc56ba5e1ce0ef97ec4d629bf54d"/>
+	</game>
+	<game name="Otello (19xx)(-)[basic]">
+		<description>Otello (19xx)(-)[basic]</description>
+		<rom name="Otello (19xx)(-)[basic].rkr" size="4444" crc="fc37d253" md5="f19b539e2ac2a8bb7668981a2167da53" sha1="11f8ca174c8dbd7df2f7c99651a93768b1a82cf7"/>
+	</game>
+	<game name="Othello (1987)(Kononov Yu.O.)">
+		<description>Othello (1987)(Kononov Yu.O.)</description>
+		<rom name="Othello (1987)(Kononov Yu.O.).rkr" size="6058" crc="0ad1b91c" md5="3372c362eb9cee84fb1e007a40d03469" sha1="0a3b6787ad815466695ad4ccd8693d01dc41d021"/>
+	</game>
+	<game name="Pacman-87 (19xx)(-)">
+		<description>Pacman-87 (19xx)(-)</description>
+		<rom name="Pacman-87 (19xx)(-).rkr" size="4544" crc="32557b9c" md5="16185d29b069c76fb77df5f6af4581dd" sha1="976aaf6be5a7ecbdad42f0ea50aa2a0b9f59f494"/>
+	</game>
+	<game name="Paket Igrovyh Programm (1987-10-05)(Zonov I.P., Sokolin P.N.)">
+		<description>Paket Igrovyh Programm (1987-10-05)(Zonov I.P., Sokolin P.N.)</description>
+		<rom name="Paket Igrovyh Programm (1987-10-05)(Zonov I.P., Sokolin P.N.).rkr" size="16609" crc="1ac6a5e9" md5="c3a2c4bde4874754398a4a3704a112b2" sha1="bd5e348b4249e00343674ebf85079aa5068f633a"/>
+	</game>
+	<game name="Paket Igrovyh Programm (1987-10-05)(Zonov I.P., Sokolin P.N.)[o]">
+		<description>Paket Igrovyh Programm (1987-10-05)(Zonov I.P., Sokolin P.N.)[o]</description>
+		<rom name="Paket Igrovyh Programm (1987-10-05)(Zonov I.P., Sokolin P.N.)[o].rkr" size="16623" crc="ec0e0bc2" md5="67bcd77675161192a48d35259beee900" sha1="2e08472805a2d32b5ea816e5c3a4fdfb55f01d20"/>
+	</game>
+	<game name="Pascal-MFTI v01 (19xx)(-)">
+		<description>Pascal-MFTI v01 (19xx)(-)</description>
+		<rom name="Pascal-MFTI v01 (19xx)(-).rkr" size="16392" crc="c7be8b88" md5="daf0684ba6c797b06a077c6d6bed8bfa" sha1="9af3eeb483a25151b983f3d423689b05fc65197a"/>
+	</game>
+	<game name="Ping-Pong (19xx)(-)">
+		<description>Ping-Pong (19xx)(-)</description>
+		<rom name="Ping-Pong (19xx)(-).rkr" size="2945" crc="73ce53f7" md5="59f237ffa8f923e244eab27291e3d447" sha1="33014aff55e581a7958472543c8157614a20e799"/>
+	</game>
+	<game name="Piton (19xx)(-)">
+		<description>Piton (19xx)(-)</description>
+		<rom name="Piton (19xx)(-).rkr" size="521" crc="9ac337aa" md5="c27650c088326b1ed15c8228b8362b9b" sha1="a6f637d6019b8e545a77d75b760e1250c86e89f4"/>
+	</game>
+	<game name="Piton (19xx)(-)[a]">
+		<description>Piton (19xx)(-)[a]</description>
+		<rom name="Piton (19xx)(-)[a].rkr" size="402" crc="09300d62" md5="d58de1dc590a4997b3206e6c828babd4" sha1="c18f2be41090dd9f6c5ccbadf14f9bad0f00f845"/>
+	</game>
+	<game name="Pogonya v Labirinte (1989)(Voznyj D.V.)">
+		<description>Pogonya v Labirinte (1989)(Voznyj D.V.)</description>
+		<rom name="Pogonya v Labirinte (1989)(Voznyj D.V.).rkr" size="7966" crc="f9ea5c5e" md5="e2cb4706cf6c3bbf16bcb93b6b8aaac4" sha1="2a49e6365add325a879278504205cdcd54b45530"/>
+	</game>
+	<game name="PSF Basic 32K v3.2 (1987-02-24)(Anashkin A.A.)">
+		<description>PSF Basic 32K v3.2 (1987-02-24)(Anashkin A.A.)</description>
+		<rom name="PSF Basic 32K v3.2 (1987-02-24)(Anashkin A.A.).rkr" size="10741" crc="ef11aef8" md5="182adc2fe172835cda9cdc9e363d68a8" sha1="a5a303b22a718443916e3416611fb36a9ea24efe"/>
+	</game>
+	<game name="PSF Basic 32K v3.2 (1987-02-24)(Anashkin A.A.)[a]">
+		<description>PSF Basic 32K v3.2 (1987-02-24)(Anashkin A.A.)[a]</description>
+		<rom name="PSF Basic 32K v3.2 (1987-02-24)(Anashkin A.A.)[a].rkr" size="6729" crc="4de53d56" md5="5dcc5e76af5f7527e958f4cc663deb71" sha1="bc044c150de1efd6547598036eb42ee2d972ad6e"/>
+	</game>
+	<game name="Pusher v1.0 (1991-05-18)(AYL)">
+		<description>Pusher v1.0 (1991-05-18)(AYL)</description>
+		<rom name="Pusher v1.0 (1991-05-18)(AYL).rkr" size="1199" crc="238bb0a2" md5="bf7f78b0e15b073df5f4f1f659cb3d38" sha1="4c5d0486b8aab8eccc18d1663804fb876d1e5483"/>
+	</game>
+	<game name="Radio-86RK Basic (19xx)(-)">
+		<description>Radio-86RK Basic (19xx)(-)</description>
+		<rom name="Radio-86RK Basic (19xx)(-).rkr" size="7433" crc="84efbd0d" md5="9d8a71b4e1a781e145cd1ce1a6144f95" sha1="34bd7d5fe98a4e3165a1155b604d1d43cbc3c5f6"/>
+	</game>
+	<game name="Radio-86RK Basic (19xx)(-)[a2]">
+		<description>Radio-86RK Basic (19xx)(-)[a2]</description>
+		<rom name="Radio-86RK Basic (19xx)(-)[a2].rkr" size="6665" crc="e124c576" md5="2b13531a582938b8617a473644567ce1" sha1="60299c22f07b046d787b6e5961eb9fa8a74921b7"/>
+	</game>
+	<game name="Radio-86RK Basic (19xx)(-)[a3]">
+		<description>Radio-86RK Basic (19xx)(-)[a3]</description>
+		<rom name="Radio-86RK Basic (19xx)(-)[a3].rkr" size="6847" crc="22563777" md5="0815ec539595068f80a301e6e845fc6b" sha1="d2919a1c057a72e1044c0d93a35e272dbad8a9fa"/>
+	</game>
+	<game name="Radio-86RK Basic (19xx)(-)[a]">
+		<description>Radio-86RK Basic (19xx)(-)[a]</description>
+		<rom name="Radio-86RK Basic (19xx)(-)[a].rkr" size="7433" crc="4aa0ccdf" md5="d76b7e4f11cb98cd81f967caf17d391c" sha1="7f81a30a10f65e1a2d3a6a0da7787b9f54626845"/>
+	</game>
+	<game name="Ramdos v2.01 (19xx)(-)[addr 0x3600]">
+		<description>Ramdos v2.01 (19xx)(-)[addr 0x3600]</description>
+		<rom name="Ramdos v2.01 (19xx)(-)[addr 0x3600].rkr" size="3647" crc="7df070d0" md5="62d6493003eb3e62ab39c48a90d4a153" sha1="a7368096c4220541b011df03abbf9ad5e051bc34"/>
+	</game>
+	<game name="Redaktor Mikron (19xx)(-)">
+		<description>Redaktor Mikron (19xx)(-)</description>
+		<rom name="Redaktor Mikron (19xx)(-).rkr" size="4105" crc="ec1a78ad" md5="b7caa62a1ee8cce895171f5de00fb42a" sha1="5dd4ef42e110a885377cf9cab6249cc8ec3d5124"/>
+	</game>
+	<game name="Redassm v2.M (19xx)(-)">
+		<description>Redassm v2.M (19xx)(-)</description>
+		<rom name="Redassm v2.M (19xx)(-).rkr" size="4024" crc="c0aec5ab" md5="ca713e0299fe3a40301945b66e07d291" sha1="01cc7172c2f073d6719325d33c92e7f28e3314f8"/>
+	</game>
+	<game name="Reversi (19xx)(Handikraft)">
+		<description>Reversi (19xx)(Handikraft)</description>
+		<rom name="Reversi (19xx)(Handikraft).rkr" size="22537" crc="2d38626d" md5="ab977118a48aee4efe156e1a280de724" sha1="b5fc3f079677b2d78cb52857143f1bc3b05d8dab"/>
+	</game>
+	<game name="Sad (19xx)(-)">
+		<description>Sad (19xx)(-)</description>
+		<rom name="Sad (19xx)(-).rkr" size="2778" crc="f0984432" md5="49beae2ea1513fc1f697fcfe0ce056cd" sha1="f7d528e11ec6111d9ec3d058ef846d5909d2ff85"/>
+	</game>
+	<game name="Saratov Best-C Compiler (1989)(Kovalenko D.I.)">
+		<description>Saratov Best-C Compiler (1989)(Kovalenko D.I.)</description>
+		<rom name="Saratov Best-C Compiler (1989)(Kovalenko D.I.).rkr" size="18441" crc="e4a5c5bd" md5="10179a4e462c57efff037e72b16e012b" sha1="b01c32208ec5cbd08730a0cae0c9c584ff15aaf7"/>
+	</game>
+	<game name="Shahmaty (1987)(-)">
+		<description>Shahmaty (1987)(-)</description>
+		<rom name="Shahmaty (1987)(-).rkr" size="28938" crc="872573da" md5="e955f98cf895843af8618fe684d8f072" sha1="9cb5e6f6efa7b893b4ad8f316f57eba5cd6aab54"/>
+	</game>
+	<game name="Shahmaty (1987)(-)[a]">
+		<description>Shahmaty (1987)(-)[a]</description>
+		<rom name="Shahmaty (1987)(-)[a].rkr" size="28938" crc="84f8bbba" md5="c6aaddb480fc54d4c1863cdd479abbab" sha1="d2de4e0329cb1246925079bae4ff82f9a9eb124f"/>
+	</game>
+	<game name="Shahmaty (19xx)(Handikraft)">
+		<description>Shahmaty (19xx)(Handikraft)</description>
+		<rom name="Shahmaty (19xx)(Handikraft).rkr" size="26377" crc="f5acd428" md5="99a691f92e8ffe481384d9d2406e1af7" sha1="bacae294474212c308005d114efe018490736e9a"/>
+	</game>
+	<game name="Skachki (19xx)(-)">
+		<description>Skachki (19xx)(-)</description>
+		<rom name="Skachki (19xx)(-).rkr" size="1289" crc="ed1fef2c" md5="78fb923fc515fa3bb5d322f5c3391ecb" sha1="da7a1dd2bb33d0624b0144d4401f5e971c652473"/>
+	</game>
+	<game name="Sort UT v1.1 (19xx)(-)">
+		<description>Sort UT v1.1 (19xx)(-)</description>
+		<rom name="Sort UT v1.1 (19xx)(-).rkr" size="3743" crc="a236a186" md5="fa6101740774352821c720eb5a228063" sha1="dc6f190efea9dc03039ba4d3354d9462868175fd"/>
+	</game>
+	<game name="SOS (1988)(Sterlikov S.A.)">
+		<description>SOS (1988)(Sterlikov S.A.)</description>
+		<rom name="SOS (1988)(Sterlikov S.A.).rkr" size="3306" crc="f3ece512" md5="30e759800809020840e733fb933e8089" sha1="3488e0eacc0726cba3c9ac360d1f97c4699c9c58"/>
+	</game>
+	<game name="Space Compressor (19xx)(-)">
+		<description>Space Compressor (19xx)(-)</description>
+		<rom name="Space Compressor (19xx)(-).rkr" size="304" crc="ee0d06be" md5="c9589ce6d1333485575f5f9505433846" sha1="cf13f4af38cf54de2c23f8543e61915e65998fae"/>
+	</game>
+	<game name="Space Games v2.1 (1987)(-)">
+		<description>Space Games v2.1 (1987)(-)</description>
+		<rom name="Space Games v2.1 (1987)(-).rkr" size="2057" crc="e4bf6756" md5="d677587cf516b4a18cd049682125f947" sha1="8aae550fc276db3aea9da4674376df0a9f0415c3"/>
+	</game>
+	<game name="Spy's Demise (1990-03)(BSV Corp)">
+		<description>Spy's Demise (1990-03)(BSV Corp)</description>
+		<rom name="Spy's Demise (1990-03)(BSV Corp).rkr" size="6290" crc="0b6311a1" md5="fe8e3a758785c7d38e2dbc4ad3bc76f5" sha1="3298549f66770cc6140d9bd64782c3461a7690c6"/>
+	</game>
+	<game name="Stakan (19xx)(-)">
+		<description>Stakan (19xx)(-)</description>
+		<rom name="Stakan (19xx)(-).rkr" size="2314" crc="99e5d87e" md5="6a102247985d7773622f8bc318ca9f81" sha1="913488e0fb8c1179038a78a9412647acf13edbb0"/>
+	</game>
+	<game name="Stakan v3.1 (1988)(ALG)">
+		<description>Stakan v3.1 (1988)(ALG)</description>
+		<rom name="Stakan v3.1 (1988)(ALG).rkr" size="1545" crc="1a5b17ba" md5="2dae28478beb35b220360299978f2851" sha1="3c547ecf0618f0705f147c05b1608ca2cd660821"/>
+	</game>
+	<game name="Strangers v1.0 (19xx)(Novikov A.V.)">
+		<description>Strangers v1.0 (19xx)(Novikov A.V.)</description>
+		<rom name="Strangers v1.0 (19xx)(Novikov A.V.).rkr" size="4138" crc="4b4c23f7" md5="c503b128b57662df2105fe0e32022a85" sha1="d0c84048281fd5a1058148dc253587e2b61ef719"/>
+	</game>
+	<game name="Strategiya (19xx)(-)[a][basic]">
+		<description>Strategiya (19xx)(-)[a][basic]</description>
+		<rom name="Strategiya (19xx)(-)[a][basic].rkr" size="5527" crc="74caf689" md5="592edfdef9d0bbf620e83a01dee67f7f" sha1="a318c46e6f933f307b413ec9e76c1e3c93817abd"/>
+	</game>
+	<game name="Strategiya (19xx)(-)[basic]">
+		<description>Strategiya (19xx)(-)[basic]</description>
+		<rom name="Strategiya (19xx)(-)[basic].rkr" size="5527" crc="02c55af0" md5="003e9bce82477699087074e6b3906f90" sha1="d4fb700ef9451593e33ed72aa48f481a9765d68a"/>
+	</game>
+	<game name="Super Piton (1988)(Personal Computers)">
+		<description>Super Piton (1988)(Personal Computers)</description>
+		<rom name="Super Piton (1988)(Personal Computers).rkr" size="16153" crc="c7aeb727" md5="f23f7a8374cd8b65d30f42f59d8124b3" sha1="edadf29c9b2c75edac50ee0a4f4ea874e7b10a04"/>
+	</game>
+	<game name="SVVI-76-79 Basic (19xx)(-)">
+		<description>SVVI-76-79 Basic (19xx)(-)</description>
+		<rom name="SVVI-76-79 Basic (19xx)(-).rkr" size="6905" crc="c79c78e3" md5="797fe03d5b964dd601bce7fd0b2cf055" sha1="306b49bc4436ca99a708b025028c8322acb0fc18"/>
+	</game>
+	<game name="Tennis (1987)(VMSH)">
+		<description>Tennis (1987)(VMSH)</description>
+		<rom name="Tennis (1987)(VMSH).rkr" size="2371" crc="647f32bd" md5="1dbfa31ff1942593b3b94b546db670d6" sha1="25099fa0b19ab19729f48ac7ce52c93cb032c511"/>
+	</game>
+	<game name="Tennis (19xx)(-)">
+		<description>Tennis (19xx)(-)</description>
+		<rom name="Tennis (19xx)(-).rkr" size="4950" crc="b19be499" md5="c80179c0e54b895c4631c9a3180c499a" sha1="3a62fabb54f9289035934781c6468802b8412484"/>
+	</game>
+	<game name="Test Reshitelnosti (19xx)(-)[basic]">
+		<description>Test Reshitelnosti (19xx)(-)[basic]</description>
+		<rom name="Test Reshitelnosti (19xx)(-)[basic].rkr" size="4003" crc="e577d803" md5="1feb3556fae05a71356d8c4faae2184b" sha1="9740f3ba6d2de8e62cca3cdfc1fe39cf0ab50522"/>
+	</game>
+	<game name="Tetris (19xx)(-)">
+		<description>Tetris (19xx)(-)</description>
+		<rom name="Tetris (19xx)(-).rkr" size="3179" crc="4f13a3ce" md5="86f13525c72c610d2f50df2cd97958ea" sha1="48fa35908c07cac3f7216215497f7b5506a5595b"/>
+	</game>
+	<game name="Tetris (19xx)(-)[a]">
+		<description>Tetris (19xx)(-)[a]</description>
+		<rom name="Tetris (19xx)(-)[a].rkr" size="1641" crc="a440d65e" md5="8f2945d8694330c8b6e113093b3979df" sha1="2c57e5ea6a66cd77712ffee76fc9999929bd524f"/>
+	</game>
+	<game name="Tetris (19xx)(-)[o]">
+		<description>Tetris (19xx)(-)[o]</description>
+		<rom name="Tetris (19xx)(-)[o].rkr" size="3212" crc="4ccb842a" md5="f0ef88669c6c1a71c7dffcca8e271cfe" sha1="0ca6342a6f3ab85873a956bea574d7cb77aa366c"/>
+	</game>
+	<game name="Tetris (19xx)(-)[o][a]">
+		<description>Tetris (19xx)(-)[o][a]</description>
+		<rom name="Tetris (19xx)(-)[o][a].rkr" size="1644" crc="e9b5eebc" md5="8d041eae03d4ad3819ea9eadc5bc8d07" sha1="c22a380eb0f21b65e1e29b23675358abc9babd6d"/>
+	</game>
+	<game name="Udav (1986)(Popov S.N.)">
+		<description>Udav (1986)(Popov S.N.)</description>
+		<rom name="Udav (1986)(Popov S.N.).rkr" size="2057" crc="0e3df13b" md5="0a45e0c0089f7641c366e48053eb5f9c" sha1="b7e480dd9d59ce3e31b3472b7d73fed034b9cb2a"/>
+	</game>
+	<game name="Udav (1986)(Popov S.N.)[a]">
+		<description>Udav (1986)(Popov S.N.)[a]</description>
+		<rom name="Udav (1986)(Popov S.N.)[a].rkr" size="2057" crc="9cca3e74" md5="1d4a6cc454aad143e247e4729eb5750e" sha1="e38fa41ae356d77cda2438b018b347dd792822f8"/>
+	</game>
+	<game name="Udav (1986)(Popov S.N.)[o]">
+		<description>Udav (1986)(Popov S.N.)[o]</description>
+		<rom name="Udav (1986)(Popov S.N.)[o].rkr" size="2085" crc="8ffc8650" md5="f93c8bd94249e91cf1193c4860eeea35" sha1="8c2223fb6c25a8a8ed76368a51e81727ed4418e3"/>
+	</game>
+	<game name="Urok 2 (19xx)(-)[basic]">
+		<description>Urok 2 (19xx)(-)[basic]</description>
+		<rom name="Urok 2 (19xx)(-)[basic].rkr" size="9355" crc="835dc63b" md5="59041fbfb9dd6ed2891257840d506485" sha1="c44f7f41afc3be14b65f15c644c8101b2b097ffb"/>
+	</game>
+	<game name="Urok 3 (19xx)(-)[basic]">
+		<description>Urok 3 (19xx)(-)[basic]</description>
+		<rom name="Urok 3 (19xx)(-)[basic].rkr" size="5517" crc="9babb2c3" md5="94e41762e67df9c7ec351b9182a6611c" sha1="38044ff8c5d7c9b7d9b6b2caf71cda113fbe3fc4"/>
+	</game>
+	<game name="Urok 4 (19xx)(-)[basic]">
+		<description>Urok 4 (19xx)(-)[basic]</description>
+		<rom name="Urok 4 (19xx)(-)[basic].rkr" size="3764" crc="2d45f995" md5="21c3918eddf8377123851c28f0124e0a" sha1="48230407455d04a3288d98d91400be509c43724d"/>
+	</game>
+	<game name="Urok 5 (19xx)(-)[basic]">
+		<description>Urok 5 (19xx)(-)[basic]</description>
+		<rom name="Urok 5 (19xx)(-)[basic].rkr" size="7070" crc="26249d15" md5="cc56f1bafb221f6e74db656496f48cd4" sha1="e6ce1344fa9cb84a672a32ab1822b320a45fd492"/>
+	</game>
+	<game name="Urok 6 (19xx)(-)[basic]">
+		<description>Urok 6 (19xx)(-)[basic]</description>
+		<rom name="Urok 6 (19xx)(-)[basic].rkr" size="7033" crc="2abe6f0a" md5="a879a72b9d291ecb809a59b450a3ba7e" sha1="ca83bb709e0261cf0bf2636fb14122628cf42654"/>
+	</game>
+	<game name="Urok 7 (19xx)(-)[basic]">
+		<description>Urok 7 (19xx)(-)[basic]</description>
+		<rom name="Urok 7 (19xx)(-)[basic].rkr" size="4069" crc="0a791b90" md5="00723d8f32217747b7243b27423495b3" sha1="8b8e9d51fd7331bacf429288a0e4c3922db78ef7"/>
+	</game>
+	<game name="Utka (19xx)(-)">
+		<description>Utka (19xx)(-)</description>
+		<rom name="Utka (19xx)(-).rkr" size="1850" crc="ad393827" md5="2c5589b2dcc7d9d77d82906a99b6f4d5" sha1="6d7c760ec60ee2b04c74cf4a60207486696976e3"/>
+	</game>
+	<game name="Virtuoz (19xx)(-)">
+		<description>Virtuoz (19xx)(-)</description>
+		<rom name="Virtuoz (19xx)(-).rkr" size="2662" crc="99754402" md5="43a1bd4394e6b01be4b2b0b54d780e9f" sha1="8dbd12dd772169b707b5f856f6524461de9464b1"/>
+	</game>
+	<game name="Virtuoz (19xx)(-)[o]">
+		<description>Virtuoz (19xx)(-)[o]</description>
+		<rom name="Virtuoz (19xx)(-)[o].rkr" size="2670" crc="bfaa11f1" md5="a418eb4fec32fc04a307f0803f33f650" sha1="31a20e0a70b9ff24bbd570310bf90d747b89483c"/>
+	</game>
+	<game name="Volcano v1.0 (1987)(Bony)">
+		<description>Volcano v1.0 (1987)(Bony)</description>
+		<rom name="Volcano v1.0 (1987)(Bony).rkr" size="3849" crc="0ecd4e90" md5="abcf1054ffe828f655350a178fc2ef41" sha1="ba39b9cb46be735a7a8f6d3c59daeadb9cb98913"/>
+	</game>
+	<game name="WEL v2.0 (1992-01-25)(SERG)">
+		<description>WEL v2.0 (1992-01-25)(SERG)</description>
+		<rom name="WEL v2.0 (1992-01-25)(SERG).rkr" size="5641" crc="e06888c8" md5="fc684460f394a1aa1af697c285c2c68a" sha1="4abf2e40348dd4e375dee0afbb476eb5577ff652"/>
+	</game>
+	<game name="Xonix (19xx)(Micron)">
+		<description>Xonix (19xx)(Micron)</description>
+		<rom name="Xonix (19xx)(Micron).rkr" size="2825" crc="53387561" md5="d1431162fbe69a696864e9953b898ec6" sha1="e06df46f35f4ff8b09104fee2d45f113d97eef21"/>
+	</game>
+	<game name="Xonix (19xx)(Micron)[a]">
+		<description>Xonix (19xx)(Micron)[a]</description>
+		<rom name="Xonix (19xx)(Micron)[a].rkr" size="2825" crc="e4069acc" md5="d4dfe6773ea0e24dc6466ee115d2424d" sha1="a303d5ab9ab6f6536f5a421dd10c161f0678373a"/>
+	</game>
+	<game name="Xonix (19xx)(Micron)[o]">
+		<description>Xonix (19xx)(Micron)[o]</description>
+		<rom name="Xonix (19xx)(Micron)[o].rkr" size="2828" crc="b1ff81f8" md5="d5a53d223d6dcd24c5bf3abba4a54aca" sha1="d1a3bb86172ca42ee3f6d5c1e810aee66090c66b"/>
+	</game>
+	<game name="Xonox (1987)(Sedov E.A.)">
+		<description>Xonox (1987)(Sedov E.A.)</description>
+		<rom name="Xonox (1987)(Sedov E.A.).rkr" size="2057" crc="5d04bf82" md5="60caf0b72fca7462a9c9cb844516bb12" sha1="29d6938d1372d7acf73beb23447689c29da640db"/>
+	</game>
+	<game name="Z-Stanciya (1987)(SNP)">
+		<description>Z-Stanciya (1987)(SNP)</description>
+		<rom name="Z-Stanciya (1987)(SNP).rkr" size="2154" crc="b7bffe75" md5="3f201c20ea9b56d696481a45e33f1a8b" sha1="6fb1f86ab61d55144abde74c640050423c5cdc44"/>
+	</game>
+	<game name="Zagibon v1.3 (1987)(Gop Inc.)">
+		<description>Zagibon v1.3 (1987)(Gop Inc.)</description>
+		<rom name="Zagibon v1.3 (1987)(Gop Inc.).rkr" size="1033" crc="16eec6e1" md5="e813210455fd57cb4d82d4f4e6c625c9" sha1="e00d38bbb6576d87cca0eb5310a3323ce7ae2cd7"/>
+	</game>
+	<game name="Zagibon v1.3 (1987)(Gop Inc.)[o]">
+		<description>Zagibon v1.3 (1987)(Gop Inc.)[o]</description>
+		<rom name="Zagibon v1.3 (1987)(Gop Inc.)[o].rkr" size="1035" crc="3948c41b" md5="7fcdae45bda1f03c57937dd4cc2556a6" sha1="95f722845532c639612bd2f56b72111a8424b946"/>
+	</game>
+	<game name="Zhizn s Raznotipnymi Tochkami (19xx)(-)">
+		<description>Zhizn s Raznotipnymi Tochkami (19xx)(-)</description>
+		<rom name="Zhizn s Raznotipnymi Tochkami (19xx)(-).rkr" size="1172" crc="4052a922" md5="96cd028b79b3c5245c715bae92d9b7b5" sha1="350c300b35b393f1068e3ed38e4176f464c8c7af"/>
+	</game>
+	<game name="Zhizn s Raznotipnymi Tochkami (19xx)(-)[o]">
+		<description>Zhizn s Raznotipnymi Tochkami (19xx)(-)[o]</description>
+		<rom name="Zhizn s Raznotipnymi Tochkami (19xx)(-)[o].rkr" size="1185" crc="b9cac08c" md5="2fa325ef4e7493ddf688c268ab1fac0c" sha1="bee4a703a02d1aa6fb1dc0a8ffe3cb42b33fab1f"/>
+	</game>
+	<game name="Zmej-Gorynych (19xx)(-)">
+		<description>Zmej-Gorynych (19xx)(-)</description>
+		<rom name="Zmej-Gorynych (19xx)(-).rkr" size="4250" crc="1c4ffc22" md5="f0352d809c301457f0fa7c850b19403f" sha1="8931c410da5748dc784ea5deefcad2a00d4aa289"/>
+	</game>
+	<game name="ZZZ-UNK-anim [basic]">
+		<description>ZZZ-UNK-anim [basic]</description>
+		<rom name="ZZZ-UNK-anim [basic].rkr" size="536" crc="737b13b0" md5="7bdf324b83e7f17fc3ff7d8188319d65" sha1="02a6e2ec57c124d341b0a4373412ead00844c9b4"/>
+	</game>
+	<game name="ZZZ-UNK-basicok">
+		<description>ZZZ-UNK-basicok</description>
+		<rom name="ZZZ-UNK-basicok.rkr" size="8201" crc="2d0d7e1a" md5="2b2541a5005455cb393e211c6a079a56" sha1="96a88510e8c316ea697c866b760aa3644ef93b6a"/>
+	</game>
+	<game name="ZZZ-UNK-bulnik">
+		<description>ZZZ-UNK-bulnik</description>
+		<rom name="ZZZ-UNK-bulnik.rkr" size="1289" crc="80b1cf00" md5="a715cb55522092b478105f4b9ab86c1f" sha1="ac2af6eb9f6a4c90c2018557ef6fbb031d78dde4"/>
+	</game>
+	<game name="ZZZ-UNK-bulnik [o]">
+		<description>ZZZ-UNK-bulnik [o]</description>
+		<rom name="ZZZ-UNK-bulnik [o].rkr" size="1290" crc="be84cbaf" md5="17fbb1fb9d201cb527d717bd84533a7f" sha1="48ec996cad1f15dd01d785e0dcfa9d022a7d7ff9"/>
+	</game>
+	<game name="ZZZ-UNK-constmag">
+		<description>ZZZ-UNK-constmag</description>
+		<rom name="ZZZ-UNK-constmag.rkr" size="123" crc="c5715cb0" md5="6c98c0616e4715b1b7660af6c8ad2724" sha1="454a76a8d068bcdf7a4ca87a4a7a006335e0bdd5"/>
+	</game>
+	<game name="ZZZ-UNK-cpm">
+		<description>ZZZ-UNK-cpm</description>
+		<rom name="ZZZ-UNK-cpm.rkr" size="687" crc="fea8d517" md5="d21ed1985b080fbcae7525816bab4be9" sha1="b5c11397f5bf5b816bffe0c8e058d16833cf8f92"/>
+	</game>
+	<game name="ZZZ-UNK-drvprn">
+		<description>ZZZ-UNK-drvprn</description>
+		<rom name="ZZZ-UNK-drvprn.rkr" size="297" crc="bbd08321" md5="6d6a1ce6d533e598aeee98dc81e9800b" sha1="c83ec890a7d7f4f72946171088ec0822c075bcc4"/>
+	</game>
+	<game name="ZZZ-UNK-dssmcpm (1980-08-01)(Ward Christensen)">
+		<description>ZZZ-UNK-dssmcpm (1980-08-01)(Ward Christensen)</description>
+		<rom name="ZZZ-UNK-dssmcpm (1980-08-01)(Ward Christensen).rkr" size="5929" crc="8bc936e1" md5="08a89c7067089780b81d483ad9a8da8e" sha1="09d74f88397d02b76efc3d994b82402e9c7db4e9"/>
+	</game>
+	<game name="ZZZ-UNK-hexedit1">
+		<description>ZZZ-UNK-hexedit1</description>
+		<rom name="ZZZ-UNK-hexedit1.rkr" size="3753" crc="19d41bc5" md5="6b80412026f8e99d730aefab4f533a2e" sha1="7878dad260a48e57a135801b39ea7e7165cc3a83"/>
+	</game>
+	<game name="ZZZ-UNK-hexedit2">
+		<description>ZZZ-UNK-hexedit2</description>
+		<rom name="ZZZ-UNK-hexedit2.rkr" size="3753" crc="d1264cd2" md5="8759a7e665c246179f77c5f916533422" sha1="27a510e5207e34f4e48d98e73c5ead2a0c556c04"/>
+	</game>
+	<game name="ZZZ-UNK-kakvas">
+		<description>ZZZ-UNK-kakvas</description>
+		<rom name="ZZZ-UNK-kakvas.rkr" size="197" crc="cb167861" md5="c837ce82d09451d91108e85f7a3331a7" sha1="70b66b5c1716e55bf476be04b1c1ff169c452973"/>
+	</game>
+	<game name="ZZZ-UNK-kalah">
+		<description>ZZZ-UNK-kalah</description>
+		<rom name="ZZZ-UNK-kalah.rkr" size="10250" crc="7f1c82c5" md5="fae8005be576483466a4f0f82938967b" sha1="9018a51deba7e2bc2deb8b191cb67103a8392b43"/>
+	</game>
+	<game name="ZZZ-UNK-kalend [basic]">
+		<description>ZZZ-UNK-kalend [basic]</description>
+		<rom name="ZZZ-UNK-kalend [basic].rkr" size="2477" crc="ce5e59a7" md5="4ba17c8031b4b074ff6d44f730e787b0" sha1="bc04a5e69ddadab383e43d32bd52380b343cf27a"/>
+	</game>
+	<game name="ZZZ-UNK-linkrk">
+		<description>ZZZ-UNK-linkrk</description>
+		<rom name="ZZZ-UNK-linkrk.rkr" size="729" crc="42787e3d" md5="a73930ad8948562e43bf19431f6931f8" sha1="85ed14dccebd3d8cc17ab21bf70a8cdebc3fca96"/>
+	</game>
+	<game name="ZZZ-UNK-morse16">
+		<description>ZZZ-UNK-morse16</description>
+		<rom name="ZZZ-UNK-morse16.rkr" size="745" crc="b6030b3b" md5="80c4fc354230716c3defa469853e9f29" sha1="ad4a1a52b07413c02b71d4cc576e9fa3290f958b"/>
+	</game>
+	<game name="ZZZ-UNK-pacman (1987)(Zaharev A.L.)">
+		<description>ZZZ-UNK-pacman (1987)(Zaharev A.L.)</description>
+		<rom name="ZZZ-UNK-pacman (1987)(Zaharev A.L.).rkr" size="9818" crc="6959c4fc" md5="e26a4dfa64a72d6ea8a0e399434aea82" sha1="b84654e9ed4b2e7a6f6acf7e77e55e4e846306c2"/>
+	</game>
+	<game name="ZZZ-UNK-pacman (1987)(Zaharev A.L.)[o]">
+		<description>ZZZ-UNK-pacman (1987)(Zaharev A.L.)[o]</description>
+		<rom name="ZZZ-UNK-pacman (1987)(Zaharev A.L.)[o].rkr" size="9830" crc="37f17241" md5="cb983be9ee4a43e26160ab0224a46c9d" sha1="52e1a1cfb8ae54fab6846bce8dae40aa9a8b7ed4"/>
+	</game>
+	<game name="ZZZ-UNK-progr1">
+		<description>ZZZ-UNK-progr1</description>
+		<rom name="ZZZ-UNK-progr1.rkr" size="2057" crc="5f1c61fe" md5="c5ad0ad06eb1598e38db88913915098d" sha1="e6b39866f84e918110b38db555e22a13c8c6e78f"/>
+	</game>
+	<game name="ZZZ-UNK-progr2">
+		<description>ZZZ-UNK-progr2</description>
+		<rom name="ZZZ-UNK-progr2.rkr" size="1125" crc="8e9aad2b" md5="45d8610642a46647b669592660588e53" sha1="ff110fe1b0ceab768562998d4c3f976c4f9ccc8f"/>
+	</game>
+	<game name="ZZZ-UNK-progr3">
+		<description>ZZZ-UNK-progr3</description>
+		<rom name="ZZZ-UNK-progr3.rkr" size="1545" crc="d91b6b89" md5="2961dd83450680c935b11d5b733f2213" sha1="9f841e5c01d731c2be88fc169e9948aed7095233"/>
+	</game>
+	<game name="ZZZ-UNK-pvo">
+		<description>ZZZ-UNK-pvo</description>
+		<rom name="ZZZ-UNK-pvo.rkr" size="1290" crc="7e23687b" md5="71d1964cba8f30e6f31d8fe0b08060a3" sha1="dc343a9bfebf6d9c0f8d233adfc8fb659ab26ca1"/>
+	</game>
+	<game name="ZZZ-UNK-pvo [o]">
+		<description>ZZZ-UNK-pvo [o]</description>
+		<rom name="ZZZ-UNK-pvo [o].rkr" size="1291" crc="79adf1bc" md5="7a7fcfd69f5a5685aed0baa79ffb7c24" sha1="11ba30b8adcc45bdf7e6160abac8a8613e424e53"/>
+	</game>
+	<game name="ZZZ-UNK-rdisk1">
+		<description>ZZZ-UNK-rdisk1</description>
+		<rom name="ZZZ-UNK-rdisk1.rkr" size="11899" crc="ed729987" md5="8f5623261c060a563d3ce38cde7304c7" sha1="f0856205c2c18b4b95f575827c9e5a1048b05d49"/>
+	</game>
+	<game name="ZZZ-UNK-rdisk2">
+		<description>ZZZ-UNK-rdisk2</description>
+		<rom name="ZZZ-UNK-rdisk2.rkr" size="13990" crc="eeff8eea" md5="479290844426d9f4f696aaa18bb73e91" sha1="780e7ede4dcef2ff5128e287f24fe34df22fb99c"/>
+	</game>
+	<game name="ZZZ-UNK-rdisk3">
+		<description>ZZZ-UNK-rdisk3</description>
+		<rom name="ZZZ-UNK-rdisk3.rkr" size="13230" crc="fbaac8a1" md5="7ccc5bfda505a6a8eab92410af43c031" sha1="1723add770dbfdce111e920fde42cf3c485247ad"/>
+	</game>
+	<game name="ZZZ-UNK-rdisk4">
+		<description>ZZZ-UNK-rdisk4</description>
+		<rom name="ZZZ-UNK-rdisk4.rkr" size="13230" crc="6a6ce9ba" md5="72e5034e9a8e7318cb28063c2afaab62" sha1="4d6b134327dd3e08a1ac2b22640f49999356639f"/>
+	</game>
+	<game name="ZZZ-UNK-rdisk6">
+		<description>ZZZ-UNK-rdisk6</description>
+		<rom name="ZZZ-UNK-rdisk6.rkr" size="11892" crc="a9d93c55" md5="a179dfaaf26e5224a5526e4c751a77d0" sha1="67cc9fa3ba449c714de742b975fbeb31c4c22635"/>
+	</game>
+	<game name="ZZZ-UNK-rdisk7">
+		<description>ZZZ-UNK-rdisk7</description>
+		<rom name="ZZZ-UNK-rdisk7.rkr" size="4098" crc="29bb4f35" md5="879a2d89c596548e21e83f21d3c15427" sha1="2533cf39218c892fdc2c2024365675b58aad9d3e"/>
+	</game>
+	<game name="ZZZ-UNK-rdisk8">
+		<description>ZZZ-UNK-rdisk8</description>
+		<rom name="ZZZ-UNK-rdisk8.rkr" size="8454" crc="9d7b0fcd" md5="9e4f8ea9c4aa0b2da0b82476dfe2c2fa" sha1="315c2bb3bc26dfd4e1097930f3d00f6ffcbda8a9"/>
+	</game>
+	<game name="ZZZ-UNK-skvotch">
+		<description>ZZZ-UNK-skvotch</description>
+		<rom name="ZZZ-UNK-skvotch.rkr" size="716" crc="e8e94783" md5="c67101c31038a2889d5a9423be5682e6" sha1="d89b3ffa432ad95bd70f357cbe518d1ec736245d"/>
+	</game>
+	<game name="ZZZ-UNK-stakan">
+		<description>ZZZ-UNK-stakan</description>
+		<rom name="ZZZ-UNK-stakan.rkr" size="1546" crc="ba2382a7" md5="02fefdca3c501b149560ddcb59003380" sha1="8c30f40d9808019b2b4c44f3cf6e1b072ecd7689"/>
+	</game>
+	<game name="ZZZ-UNK-tabl [basic]">
+		<description>ZZZ-UNK-tabl [basic]</description>
+		<rom name="ZZZ-UNK-tabl [basic].rkr" size="2372" crc="52216c74" md5="86363c303f16a27ccacf1dc2a56bca67" sha1="96e136d9134be33a80f621112e743c44ae184076"/>
+	</game>
+	<game name="ZZZ-UNK-trans [basic]">
+		<description>ZZZ-UNK-trans [basic]</description>
+		<rom name="ZZZ-UNK-trans [basic].rkr" size="1066" crc="33d33cdc" md5="368157206f9eef4ec8c1f413afb7399e" sha1="39edb70ba486683296e665be81467cf861ae5add"/>
+	</game>
+	<game name="ZZZ-UNK-tstresh [basic]">
+		<description>ZZZ-UNK-tstresh [basic]</description>
+		<rom name="ZZZ-UNK-tstresh [basic].rkr" size="3209" crc="26bc3f21" md5="42a46b862ebb3a55a05ccb11aba89f0d" sha1="ca7678c52e165a5c33e10f8a35bcaecbd72571bd"/>
+	</game>
+	<game name="ZZZ-UNK-urok1 [basic]">
+		<description>ZZZ-UNK-urok1 [basic]</description>
+		<rom name="ZZZ-UNK-urok1 [basic].rkr" size="6863" crc="ea29c86d" md5="e10559a7cb9708e1f9c2e25549de9a7a" sha1="d53f4c84a912a08f50623ad24a8a2adddbc609f8"/>
+	</game>
+	<game name="ZZZ-UNK-urok1 [basic][a]">
+		<description>ZZZ-UNK-urok1 [basic][a]</description>
+		<rom name="ZZZ-UNK-urok1 [basic][a].rkr" size="6865" crc="0435a7be" md5="18d00cd4b264d7bf84f5b4e84dcbe427" sha1="49e1e8d0672600db31765b9e4239052195895d74"/>
+	</game>
+	<game name="ZZZ-UNK-xonixzm">
+		<description>ZZZ-UNK-xonixzm</description>
+		<rom name="ZZZ-UNK-xonixzm.rkr" size="3833" crc="e39be46e" md5="f1ab44ed64f069fcf8d5cd556d25b9f0" sha1="9bf61784bfbcfb8ba1adfdc6f09db73deccc383f"/>
+	</game>
+</datafile>

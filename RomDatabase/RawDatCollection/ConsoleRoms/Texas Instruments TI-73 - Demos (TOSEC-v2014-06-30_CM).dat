@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Texas Instruments TI-73 - Demos</name>
+		<description>Texas Instruments TI-73 - Demos (TOSEC-v2014-06-30)</description>
+		<category>TOSEC</category>
+		<version>2014-06-30</version>
+		<author>Diaboł</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Jet Pack (2004)(Weisz, Pat)[req Sketchy]">
+		<description>Jet Pack (2004)(Weisz, Pat)[req Sketchy]</description>
+		<rom name="Sketch00.8xv" size="12062" crc="79eb3f70" md5="b3c26d7f1b275570d31b42daafcaa6c3" sha1="39906eaf37290762bac918aa260e516957c8d272"/>
+	</game>
+	<game name="Korn (2000)(Budinger, Tom)">
+		<description>Korn (2000)(Budinger, Tom)</description>
+		<rom name="Korn3.73i" size="830" crc="268af47e" md5="0457bc4331461a0cf844b49822af8930" sha1="ef9654c81467c1eb9669f1bb6f65a396fc6f13a7"/>
+		<rom name="KORN3.bmp" size="18774" crc="2cbd6fb5" md5="e0baee02565bae4dee794f53a2dc82a5" sha1="ba97f487eaf849b55a627c5903fbad79eb6918e2"/>
+	</game>
+	<game name="Matrix (2004)(Weisz, Pat)[req Sketchy]">
+		<description>Matrix (2004)(Weisz, Pat)[req Sketchy]</description>
+		<rom name="MATRIX.8xv" size="2257" crc="34af23fe" md5="9d72811b0a76598744fe88a31f2a2973" sha1="4b0441dae67270328923d13179b763c72132a6b0"/>
+	</game>
+	<game name="True Grid Drawer (2003)(White, William)">
+		<description>True Grid Drawer (2003)(White, William)</description>
+		<rom name="grid.GIF" size="1151" crc="5263346c" md5="eff5e8ab7254c5771b0e2e0734ff4d04" sha1="9d819426d670a700d6c5a55db7753250a1d37804"/>
+		<rom name="grid68k.GIF" size="2172" crc="cfc1248b" md5="009c150f48d4ab7f4ee03ff602bf1404" sha1="8e517afc7194c820daccc7727ea9c7388fc835d2"/>
+		<rom name="TRUEGRID.73P" size="141" crc="72cc56f8" md5="0f87ab0d7a050945a91a15c3ee33ad04" sha1="72170cba49efa660cc7d5d0367be011221bc9a9f"/>
+	</game>
+</datafile>

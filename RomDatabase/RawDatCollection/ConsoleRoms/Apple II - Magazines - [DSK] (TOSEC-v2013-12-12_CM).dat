@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple II - Magazines - [DSK]</name>
+		<description>Apple II - Magazines - [DSK] (TOSEC-v2013-12-12)</description>
+		<category>TOSEC</category>
+		<version>2013-12-12</version>
+		<author>TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Peeker Nr. 03 (1985)(Dr. Alfred Huethig Verlag)(DE)[CPM]">
+		<description>Peeker Nr. 03 (1985)(Dr. Alfred Huethig Verlag)(DE)[CPM]</description>
+		<rom name="Peeker Nr. 03 (1985)(Dr. Alfred Huethig Verlag)(DE)[CPM].dsk" size="143360" crc="4b8b43de" md5="13c1c113577a98e9c23b9ebe05c591e9" sha1="0c4b9ac5347eff8b75c1204987587fa3379adb75"/>
+	</game>
+	<game name="Peeker Nr. 09 (1985)(Dr. Alfred Huethig Verlag)(DE)[PASCAL]">
+		<description>Peeker Nr. 09 (1985)(Dr. Alfred Huethig Verlag)(DE)[PASCAL]</description>
+		<rom name="Peeker Nr. 09 (1985)(Dr. Alfred Huethig Verlag)(DE)[PASCAL].dsk" size="143360" crc="b0084186" md5="e8d89db444e0972c81488df204dbf34e" sha1="ff4b1d515068fac61a975748ccf720b06f0919b8"/>
+	</game>
+	<game name="Peeker Nr. 20 (1986)(Dr. Alfred Huethig Verlag)(DE)[PASCAL]">
+		<description>Peeker Nr. 20 (1986)(Dr. Alfred Huethig Verlag)(DE)[PASCAL]</description>
+		<rom name="Peeker Nr. 20 (1986)(Dr. Alfred Huethig Verlag)(DE)[PASCAL].dsk" size="143360" crc="b7aa9ba4" md5="f1bef4042ee9e1f1d2f5622fb5a6479c" sha1="1f9755c62f2ffa4353f9ff9fedb3628288563fb4"/>
+	</game>
+</datafile>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Thomson TO8, TO8D, TO9, TO9+ - System</name>
+		<description>Thomson TO8, TO8D, TO9, TO9+ - System (TOSEC-v2017-03-17)</description>
+		<category>TOSEC</category>
+		<version>2017-03-17</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="MultiDOS TO8D v1.0 (1986)(Thomson)(TO8D)(FR)['B' for Auto-Initiation, '2' for MultiDOS, 'C' for disk creation]">
+		<description>MultiDOS TO8D v1.0 (1986)(Thomson)(TO8D)(FR)['B' for Auto-Initiation, '2' for MultiDOS, 'C' for disk creation]</description>
+		<rom name="MultiDOS TO8D v1.0 (1986)(Thomson)(TO8D)(FR)['B' for Auto-Initiation, '2' for MultiDOS, 'C' for disk creation].fd" size="327680" crc="5249fa66" md5="6f744116333d18cf47ae2619b3ee790e" sha1="ba298cf22fd5e12e44dc144e403d4b7e1d57b26d"/>
+	</game>
+</datafile>

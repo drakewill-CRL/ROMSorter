@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>ACT Apricot PC-Xi - Games</name>
+		<description>ACT Apricot PC-Xi - Games (TOSEC-v2018-03-08)</description>
+		<category>TOSEC</category>
+		<version>2018-03-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="QUEST - The Adventure (1984)(Quest Automation)">
+		<description>QUEST - The Adventure (1984)(Quest Automation)</description>
+		<rom name="QUEST - The Adventure (1984)(Quest Automation).dsk" size="324909" crc="df11c592" md5="072f69a247a8c2853ada52b268ebcd08" sha1="989dc29d1dead78452b5b0afb9591356484c643d"/>
+	</game>
+</datafile>

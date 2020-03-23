@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>DEC PDP-8 - Collections - Digital</name>
+		<description>DEC PDP-8 - Collections - Digital (TOSEC-v2014-01-14)</description>
+		<category>TOSEC</category>
+		<version>2014-01-14</version>
+		<author>TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Digital-8-24-U-ASCII (1966-01-19)(DEC)(US)[Unsigned Decimal Print, Double Precision]">
+		<description>Digital-8-24-U-ASCII (1966-01-19)(DEC)(US)[Unsigned Decimal Print, Double Precision]</description>
+		<rom name="Digital-8-24-U-ASCII (1966-01-19)(DEC)(US)[Unsigned Decimal Print, Double Precision].ptp" size="3347" crc="a05e29ab" md5="a38376d236aa47b59cba22867353c7c8" sha1="d373cc50bf9bfe7afc0009a5b62f19fdd2d1b5c9"/>
+	</game>
+	<game name="Digital-8S-D11A-PB (1966-11-20)(DEC)(US)[PDP-8 Memory Address Test]">
+		<description>Digital-8S-D11A-PB (1966-11-20)(DEC)(US)[PDP-8 Memory Address Test]</description>
+		<rom name="Digital-8S-D11A-PB (1966-11-20)(DEC)(US)[PDP-8 Memory Address Test].ptp" size="1068" crc="2ae629a0" md5="960fcb3fe5e3b314dd2baac06ae509c2" sha1="325a877e446c8bd8d2b90abea4200db396958e3c"/>
+	</game>
+</datafile>

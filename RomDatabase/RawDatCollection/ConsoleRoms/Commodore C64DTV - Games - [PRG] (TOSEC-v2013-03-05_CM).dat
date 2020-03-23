@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64DTV - Games - [PRG]</name>
+		<description>Commodore C64DTV - Games - [PRG] (TOSEC-v2013-03-05)</description>
+		<category>TOSEC</category>
+		<version>2013-03-05</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Blok Copy DTV (2009-03-21)(Cosine)">
+		<description>Blok Copy DTV (2009-03-21)(Cosine)</description>
+		<rom name="Blok Copy DTV (2009-03-21)(Cosine).prg" size="17389" crc="db8faa4f" md5="d0d80163cd0ff76b7064b2fa01e1450d" sha1="a15e88bb92556d7c0df4bb4aa7e3aa09dad0a83a"/>
+	</game>
+	<game name="Boulder Dash DTV (2008)(Liepa, P. &amp; Peiselulli)">
+		<description>Boulder Dash DTV (2008)(Liepa, P. &amp; Peiselulli)</description>
+		<rom name="Boulder Dash DTV (2008)(Liepa, P. &amp; Peiselulli).prg" size="48977" crc="66987ab6" md5="0996ed6ec9c993da4f419899b00f699f" sha1="2b4ed037ee846ae2b6a6224a684fc1bb93e02d48"/>
+	</game>
+	<game name="Boulder Dash DTV (2008-04-07)(Tristar &amp; Red Sector Incorporated)">
+		<description>Boulder Dash DTV (2008-04-07)(Tristar &amp; Red Sector Incorporated)</description>
+		<rom name="Boulder Dash DTV (2008-04-07)(Tristar &amp; Red Sector Incorporated).prg" size="50812" crc="0a4340e2" md5="7a26e2f993caa7506f6a42a1d019f0cb" sha1="569e651c34dffa20389e3f306a6e1a38d317e4a7"/>
+	</game>
+	<game name="Boulder Dash DTV 101% (2008-04-08)(Tristar &amp; Red Sector Incorporated)">
+		<description>Boulder Dash DTV 101% (2008-04-08)(Tristar &amp; Red Sector Incorporated)</description>
+		<rom name="Boulder Dash DTV 101% (2008-04-08)(Tristar &amp; Red Sector Incorporated).prg" size="50813" crc="1bcef596" md5="e6c18ce8c8bb46aa1eae5b8041c60207" sha1="d1d4ebe379e1c6e3b7a9239fe9d91f5001d0dd51"/>
+	</game>
+</datafile>

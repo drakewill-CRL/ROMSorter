@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Microkey Primo - Games - [Multipart]</name>
+		<description>Microkey Primo - Games - [Multipart] (TOSEC-v2011-09-04)</description>
+		<category>TOSEC</category>
+		<version>2011-09-04</version>
+		<author>Gruby</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Chess 1 - Cyruss Chess Primo Version (198x)(-)[req CDOS]">
+		<description>Chess 1 - Cyruss Chess Primo Version (198x)(-)[req CDOS]</description>
+		<rom name="0 chess1.pri" size="2503" crc="59e1f66d" md5="44e08abd2a537fcc1b33803425ab8981" sha1="cdcd9f6e02d181785b4c475814c6bce3f6bab59b"/>
+		<rom name="1 chess.pri" size="10275" crc="05c41e9c" md5="9beaf1eece75a27091b90a97c41ec704" sha1="9adbac54cab9e8d85a395c0c7a74a48db9275960"/>
+	</game>
+	<game name="Hami (19xx)(-)[req unk expansion]">
+		<description>Hami (19xx)(-)[req unk expansion]</description>
+		<rom name="BOOT.pri" size="2558" crc="ff351ebd" md5="b65c13fe2d74ab22d792896b773c692a" sha1="41f8846d85dbe8daf5b2b1427a6af250c5004149"/>
+		<rom name="PIC_HAM.pri" size="4105" crc="8561d116" md5="6252b5ee2bee15482ec765a8ad579ef5" sha1="6769236ba6002e0ae8e48f662b411bd50a5f5f4e"/>
+	</game>
+	<game name="Kaland (1986)(Koncz Ferenc)(hu)">
+		<description>Kaland (1986)(Koncz Ferenc)(hu)</description>
+		<rom name="Boot.pri" size="17598" crc="188b400d" md5="8a0a587ac4a26deb105dfd3b468942aa" sha1="a7747abd38096e1f9f407b8428d4fb3d08996597"/>
+		<rom name="Pic1.pri" size="6265" crc="f2f6f228" md5="3ff9d3ae7c50f907f90ba0af104680fe" sha1="8e744dbfbe6e90cdaacf5f6325068dd54a92b7b2"/>
+		<rom name="Pic2.pri" size="6265" crc="62957cb2" md5="2d1d04e27475042fb23561aa14666d79" sha1="45db2d3ca9aebf38e7445da1f37d24c1f83465b1"/>
+		<rom name="Pic3.pri" size="6265" crc="54fa37e3" md5="76b150a9a7dfa69842046306a2fc6fd5" sha1="d0c5363db163a9b2bade2b5151ec22eadb67b5e5"/>
+		<rom name="Pic4.pri" size="6265" crc="dfa16744" md5="a88dc39946d953940e0c02b39c964463" sha1="8a71775d493c9d648ce359469168ebfb68e535a6"/>
+		<rom name="Pic5.pri" size="6265" crc="19c16439" md5="e0d3e591264115c60db12efd782b0536" sha1="7cf59cfb8bc311790deff28063f27230b67ac5da"/>
+		<rom name="Pic6.pri" size="6265" crc="8d557836" md5="99f2b445b7c4dcd144d1b66d5eb66a21" sha1="6648da6f76c6a73d2e2c39cfb9ee8fc42085ac2f"/>
+		<rom name="Pic7.pri" size="6265" crc="c694bf01" md5="a7f961a602016eeb4cde476b568235a4" sha1="c0931d98f33a86d53cf9733c24cf76ae90cc2c25"/>
+	</game>
+	<game name="Panik (198x)(MTA SZTAKI - COSY)(hu)[req CDOS]">
+		<description>Panik (198x)(MTA SZTAKI - COSY)(hu)[req CDOS]</description>
+		<rom name="boot.pri" size="1951" crc="68304f70" md5="e42158d79df23a9e7e99212c99a5086a" sha1="63c0998f12ccba46f8f7d75035a534ea1405ae3b"/>
+		<rom name="panik 2.pri" size="9989" crc="61d6b270" md5="32f212b743b896f249fba372bd69d24d" sha1="1ccda1068f54f8f3ff7403d357b819eee7246888"/>
+	</game>
+	<game name="Titokzatos zona, A (198x)(Szabo Istvan)[b]">
+		<description>Titokzatos zona, A (198x)(Szabo Istvan)[b]</description>
+		<rom name="zona_1.pri" size="24292" crc="a19c5907" md5="9f2b8566e22c0dce86e9159205379cf1" sha1="0e41863ab532a99bd9be0fd282b01ad9f1430581"/>
+		<rom name="zona_fej.pri" size="846" crc="86c0ff6f" md5="ef6df26030e29d03d3e6f429c400460d" sha1="d25735565262b79cc3884a1667a376b26f2c2024"/>
+		<rom name="zona_scr.pri" size="6273" crc="05481aef" md5="570aa3f92e1fa5eabcfb95d9a88293fd" sha1="caf496912c222dedabfb4fac8a0797b72e3a9ed8"/>
+	</game>
+	<game name="Zene (198x)(Meder Istvan)">
+		<description>Zene (198x)(Meder Istvan)</description>
+		<rom name="0-Boot.pri" size="20760" crc="669467b0" md5="e1a88648636c8f2455623f9d2604b76c" sha1="41750d2272d0e01e31c143ba4772543c06295890"/>
+		<rom name="Angol.pri" size="3167" crc="109b8255" md5="28cdc14287f095b4ee9cda09593a33af" sha1="227d1f3073ddf31f3f227f77ed254fd588fb7ace"/>
+		<rom name="Vegyes.pri" size="1621" crc="12109c7e" md5="f1840ea27d195d4d73d6b5612d264588" sha1="6db34c4db1bc318ec89672ab7c2f52331441e0f2"/>
+	</game>
+</datafile>

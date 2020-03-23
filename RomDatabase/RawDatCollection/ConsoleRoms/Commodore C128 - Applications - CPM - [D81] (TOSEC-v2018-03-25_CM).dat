@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C128 - Applications - CPM - [D81]</name>
+		<description>Commodore C128 - Applications - CPM - [D81] (TOSEC-v2018-03-25)</description>
+		<category>TOSEC</category>
+		<version>2018-03-25</version>
+		<author>Tomse</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+		<clrmamepro/>
+	</header>
+	<game name="SG C Tools Boot v1.8 (2017-01-09)(Goldsmith, Steven P.)">
+		<description>SG C Tools Boot v1.8 (2017-01-09)(Goldsmith, Steven P.)</description>
+		<rom name="SG C Tools Boot v1.8 (2017-01-09)(Goldsmith, Steven P.).d81" size="819200" crc="9ebf0c05" md5="97ed76c4f4c3c94686a16cbe346e94c7" sha1="6ad67cf4744584794e7504e8cfbf73ad9a8f26f6"/>
+	</game>
+	<game name="SG C Tools v1.8 (2017-01-09)(Goldsmith, Steven P.)">
+		<description>SG C Tools v1.8 (2017-01-09)(Goldsmith, Steven P.)</description>
+		<rom name="SG C Tools v1.8 (2017-01-09)(Goldsmith, Steven P.).d81" size="819200" crc="5d5e2de2" md5="58f2443b8f1b1e5f73ac60593a05ed95" sha1="e9039d2aadc8b6989711dda7560f90decdfe0397"/>
+	</game>
+</datafile>

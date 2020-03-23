@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>VTech Laser 200 - Operating Systems</name>
+		<description>VTech Laser 200 - Operating Systems (TOSEC-v2014-01-21)</description>
+		<category>TOSEC</category>
+		<version>2014-01-21</version>
+		<author>Duke - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Dave's DOS v0.01 (19xx)(Dave)">
+		<description>Dave's DOS v0.01 (19xx)(Dave)</description>
+		<rom name="Dave's DOS v0.01 (19xx)(Dave).vz" size="2614" crc="65f06c3d" md5="8f4b859e1d324838c1ea8dc802ed5446" sha1="8a936d7851cda093dd8e8edc14a2d84fc5b82575"/>
+	</game>
+	<game name="Extended DOS v1.3 (1988)(Mitchell, Dave)">
+		<description>Extended DOS v1.3 (1988)(Mitchell, Dave)</description>
+		<rom name="Extended DOS v1.3 (1988)(Mitchell, Dave).vz" size="2613" crc="5a19b410" md5="d494225a99ffba3de4431c6373513dd9" sha1="5ec0c9ec69f99d29c6eec35b7ae27600a8739b19"/>
+	</game>
+</datafile>

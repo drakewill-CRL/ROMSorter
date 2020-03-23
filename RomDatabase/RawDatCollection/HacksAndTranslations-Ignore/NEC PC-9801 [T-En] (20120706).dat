@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>NEC PC-9801 [T-En]</name>
+		<description>NEC PC-9801 [T-En]</description>
+		<category>English Translations</category>
+		<version>20120706</version>
+		<date>20120706</date>
+		<author>Powerpuff</author>
+		<email>-insert email-</email>
+		<homepage>Maybe-Intro</homepage>
+		<url>http://maybeintro.wordpress.com/</url>
+		<comment>Maybe-Intro</comment>
+		<clrmamepro/>
+	</header>
+	<game name="_NEC PC-9801 [T-En] Docs">
+		<description>_NEC PC-9801 [T-En] Docs</description>
+		<rom name="Black Onyx, The (Japan) [T-En by LordKarnov42 v1.0 RC1].txt" size="4664" crc="d34ea3f6" md5="362f7384cf4cf7d8137a08bc68a011e3" sha1="bd2b15c7aabec15ff8b5cbd433aff5f5e1f63ef0"/>
+		<rom name="Farland Story (Japan) [T-En by BTAxis v1.0].txt" size="3139" crc="06fb108b" md5="9d78e01bb67b29a74380b34fb2adea2d" sha1="0ce7172c7ffae0cdceb690287ed28633fb83630a"/>
+		<rom name="Farland Story 2 (Japan) [T-En by BTAxis v1.0].txt" size="2362" crc="6a8eea29" md5="f77a2fe8d67bdfec3c7d08865d989bbb" sha1="8e2fcd7c1cb893842f510abd4ef57c4c6f2540e6"/>
+		<rom name="Farland Story 3 (Japan) [T-En by BTAxis v1.0].txt" size="2670" crc="bc07e9ee" md5="de58437cb924a6f4bc992a7da7d1b4ac" sha1="610f6348af843a4be991cd94d0d10af9f3621141"/>
+		<rom name="Farland Story 4 (Japan) [T-En by BTAxis v1.0].txt" size="4048" crc="7a0927a5" md5="65cc380879cdf14ceb1fc56a336f5a71" sha1="14bfee395cbbd8a907b0c68efb2ee95eb86aae5c"/>
+		<rom name="Farland Story 5 (Japan) [T-En by BTAxis v1.0].txt" size="4284" crc="97653f47" md5="aef3864792b069d88359ce10b620db99" sha1="7269f0818f948e6240fbe9a4c66dd772727347af"/>
+		<rom name="Farland Story 6 (Japan) [T-En by BTAxis v1.0].txt" size="7481" crc="4c1a82f1" md5="b9451bf0b55f8e0ad1d507fe8cceb78c" sha1="20f2880ab12d462039d4cb0c313fd727719e6492"/>
+		<rom name="Marble Cooking (Japan) [T-En by Ryo-Cokey v1.0].txt" size="427" crc="1257cbaf" md5="4b4bb0b7fa01f75c589a86592d505d8d" sha1="7b345fa49320e4fcf5c283c8d9e8bca11afce9a6"/>
+		<rom name="Touhou Reiiden - The Highly Responsive to Prayers (Japan) [T-En by Radical R v20051026].txt" size="1971" crc="7c26e5d1" md5="13287688c816c706598b737a2c83acf2" sha1="34000f033ddf1f6ebe47d2985adf4eb990b86494"/>
+		<rom name="Yugekitai - Saikyoushin Fukkatsu no Maki (Japan) [T-En by Ramkhamhaeng v1.0].txt" size="462" crc="523a376a" md5="ee4504db7c786feb2bf2ae8ec3af1b3d" sha1="5858ac4f518308d29d5ff62f680dd5af9cedabe7"/>
+		<rom name="Yugekitai Kakuto Hen - Saikyou Kami Fukkatsu Yuki Kan (Japan) [T-En by Ramkhamhaeng v1.0].txt" size="5830" crc="be638905" md5="5bef7f2746fd1470abc955fa31bb12c2" sha1="7407d67d24c47643a8dd636054fb31003e5e6c98"/>
+	</game>
+	<game name="Black Onyx, The (Japan) [T-En by LordKarnov42 v1.0 RC1] (FDD)">
+		<description>Black Onyx, The (Japan) [T-En by LordKarnov42 v1.0 RC1] (FDD)</description>
+		<rom name="Black Onyx, The (Japan) (Character Disk) [T-En by LordKarnov42 v1.0 RC1].fdd" size="219132" crc="6d770a63" md5="4983bf40d1172b7b6f06244c20891a37" sha1="c508c2c877ed8216afad89bf486f1e3f558c1987"/>
+		<rom name="Black Onyx, The (Japan) (Game Disk) [T-En by LordKarnov42 v1.0 RC1].fdd" size="219132" crc="b1dc6e46" md5="5068ba41f311663e176bd08c4db6f7be" sha1="c933c2da2e0780c0064ee2590b80ed586bd1fbab"/>
+	</game>
+	<game name="Farland Story (Japan) [T-En by BTAxis v1.0] (FDI)">
+		<description>Farland Story (Japan) [T-En by BTAxis v1.0] (FDI)</description>
+		<rom name="Farland Story (Japan) (Disk A) [T-En by BTAxis v1.0].fdi" size="1265664" crc="be4c6b33" md5="13b2f0b5986a5d2c05ff6195eccc8038" sha1="9da2baa5d38dae617c4c0ddec9bfdb964106def2"/>
+		<rom name="Farland Story (Japan) (Disk B) [T-En by BTAxis v1.0].fdi" size="1265664" crc="1ed4c3ad" md5="29b0d1a3ceb6517aa7568b1b3c574efa" sha1="766baf1eec153a04f9426b9db475f03c114e8324"/>
+		<rom name="Farland Story (Japan) (Disk C) [T-En by BTAxis v1.0].fdi" size="1265664" crc="a7617f0f" md5="5b666ff65d8e2d7689c569726f970fce" sha1="6040c4cca3fa95c9dac5dc77dfc3f7c6b5ec1d6c"/>
+		<rom name="Farland Story (Japan) (Disk D) [T-En by BTAxis v1.0].fdi" size="1265664" crc="2f2ffd5d" md5="2d577d1c7292925ad7112bd60febc6f4" sha1="4b05e5ab39931040ce984949c88f4900269991df"/>
+	</game>
+	<game name="Farland Story 2 (Japan) [T-En by BTAxis v1.0] (HDI)">
+		<description>Farland Story 2 (Japan) [T-En by BTAxis v1.0] (HDI)</description>
+		<rom name="Farland Story 2 (Japan) [T-En by BTAxis v1.0].hdi" size="5174272" crc="d0ba5d50" md5="e0cd50fcb3678b3e6dd49a35005812b5" sha1="1b1aca9699e6dd34b11a2972aac29896cbcd5eac"/>
+	</game>
+	<game name="Farland Story 3 (Japan) [T-En by BTAxis v1.0] (HDI)">
+		<description>Farland Story 3 (Japan) [T-En by BTAxis v1.0] (HDI)</description>
+		<rom name="Farland Story 3 (Japan) [T-En by BTAxis v1.0].hdi" size="10817536" crc="ca680c4a" md5="2984bd9387defce1bb0a8dcd30c55c34" sha1="1977a75edbbe1b652dd72b2da3b75aa05d0e3937"/>
+	</game>
+	<game name="Farland Story 4 (Japan) [T-En by BTAxis v1.0] (HDI)">
+		<description>Farland Story 4 (Japan) [T-En by BTAxis v1.0] (HDI)</description>
+		<rom name="Farland Story 4 (Japan) [T-En by BTAxis v1.0].hdi" size="10817536" crc="5200a8b5" md5="6221fa542f44454dac7544f7d9edc21e" sha1="6872564c85f7ab06c82b4625d3ae360ec482754f"/>
+	</game>
+	<game name="Farland Story 5 (Japan) [T-En by BTAxis v1.0] (HDI)">
+		<description>Farland Story 5 (Japan) [T-En by BTAxis v1.0] (HDI)</description>
+		<rom name="Farland Story 5 (Japan) [T-En by BTAxis v1.0].hdi" size="21415936" crc="6bfa97e0" md5="a4df40e495034aa01aa4d661bf24c088" sha1="cfd226e11f94fadb30f15d334a96c3207b5c8fa7"/>
+	</game>
+	<game name="Farland Story 6 (Japan) [T-En by BTAxis v1.0] (HDI)">
+		<description>Farland Story 6 (Japan) [T-En by BTAxis v1.0] (HDI)</description>
+		<rom name="Farland Story 6 (Japan) [T-En by BTAxis v1.0].hdi" size="10817536" crc="cbb498a9" md5="5c026e9efe940aa0dda8b61568f356ce" sha1="518a73b0bba005b22af321f868a89b546986889a"/>
+	</game>
+	<game name="Marble Cooking (Japan) [T-En by Ryo-Cokey v1.0] (HDI)">
+		<description>Marble Cooking (Japan) [T-En by Ryo-Cokey v1.0] (HDI)</description>
+		<rom name="Marble Cooking (Japan) [T-En by Ryo-Cokey v1.0].hdi" size="5174272" crc="a44bd366" md5="653608d73fc606e70e3e7ca67ace2422" sha1="0d1c51b5920918b59b3ed808ed88e609b31f6f8c"/>
+	</game>
+	<game name="Touhou Reiiden - The Highly Responsive to Prayers (Japan) [T-En by Radical R v20051026] (HDI)">
+		<description>Touhou Reiiden - The Highly Responsive to Prayers (Japan) [T-En by Radical R v20051026] (HDI)</description>
+		<rom name="Touhou Reiiden - The Highly Responsive to Prayers (Japan) [T-En by Radical R v20051026].hdi" size="5174272" crc="c5f9d2ef" md5="3bcfb61d46fed8287022db5b54a3acad" sha1="a9e05440cb91231723d09f97876c15f1060632ca"/>
+	</game>
+	<game name="Yugekitai - Saikyoushin Fukkatsu no Maki (Japan) [T-En by Ramkhamhaeng v1.0] (HDI)">
+		<description>Yugekitai - Saikyoushin Fukkatsu no Maki (Japan) [T-En by Ramkhamhaeng v1.0] (HDI)</description>
+		<rom name="Yugekitai - Saikyoushin Fukkatsu no Maki (Japan) [T-En by Ramkhamhaeng v1.0].hdi" size="5330944" crc="60386674" md5="c4b3182e8a4d1e42dde4703851076e34" sha1="565f087640e003271a7472ad034a70c684dca259"/>
+	</game>
+	<game name="Yugekitai Kakuto Hen - Saikyou Kami Fukkatsu Yuki Kan (Japan) [T-En by Ramkhamhaeng v1.0] (HDI)">
+		<description>Yugekitai Kakuto Hen - Saikyou Kami Fukkatsu Yuki Kan (Japan) [T-En by Ramkhamhaeng v1.0] (HDI)</description>
+		<rom name="Yugekitai Kakuto Hen - Saikyou Kami Fukkatsu Yuki Kan (Japan) [T-En by Ramkhamhaeng v1.0].hdi" size="5330944" crc="74f2330f" md5="07e7c7c1afb5db1691df01ad15c8bfda" sha1="5150be6ef2850b99849335d9aa421ac251da8713"/>
+	</game>
+</datafile>

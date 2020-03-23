@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Elektronika BK-0010-0011M - Operating Systems</name>
+		<description>Elektronika BK-0010-0011M - Operating Systems (TOSEC-v2014-01-23)</description>
+		<category>TOSEC</category>
+		<version>2014-01-23</version>
+		<author>Grendel - Cid - Xtale</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Andos v3.30 (19xx)(-)">
+		<description>Andos v3.30 (19xx)(-)</description>
+		<rom name="Andos v3.30 (19xx)(-).img" size="819200" crc="7fb497a6" md5="3c1da49048ece0dea01d8977e3fd0659" sha1="00a3ca466eeae054c00b99fff9ca7ccfd4f1d9d6"/>
+	</game>
+	<game name="AO-DOS v2.10+ (19xx)(-)">
+		<description>AO-DOS v2.10+ (19xx)(-)</description>
+		<rom name="AO-DOS v2.10+ (19xx)(-).img" size="819200" crc="118637ea" md5="003e05fe158487c666772913acc726fd" sha1="6ff5da0b6fa98c5fae082f6878b1cb291aa96e41"/>
+	</game>
+	<game name="CSIDOS v3.2 (1995)(Carline Software Inc.)">
+		<description>CSIDOS v3.2 (1995)(Carline Software Inc.)</description>
+		<rom name="CSIDOS v3.2 (1995)(Carline Software Inc.).img" size="819200" crc="90e60186" md5="79b91c7aaba04f4b93c0802f85f80b5b" sha1="078f8b0c4b4d5e33fb5638aa4c3aaa8a197de371"/>
+	</game>
+	<game name="CSIDOS v3.2 (1995)(Carline Software Inc.)[a]">
+		<description>CSIDOS v3.2 (1995)(Carline Software Inc.)[a]</description>
+		<rom name="CSIDOS v3.2 (1995)(Carline Software Inc.)[a].img" size="819200" crc="8850b9be" md5="3320b408e8787ebd2809f09c3cf7ef38" sha1="5b8118816ee2a50612f6cd26665025fc4de32166"/>
+	</game>
+	<game name="CSIDOS v3.30 (1994)(Caroline Software Inc.)">
+		<description>CSIDOS v3.30 (1994)(Caroline Software Inc.)</description>
+		<rom name="CSIDOS v3.30 (1994)(Caroline Software Inc.).img" size="819200" crc="b4a3c5b5" md5="facd2ba3063b3111f4d4074040fbf7d0" sha1="24e5083247984e6570fbf73674cd9cfcb21e2489"/>
+	</game>
+	<game name="CSIDOS v3.30 (1994)(Caroline Software Inc.)[a2]">
+		<description>CSIDOS v3.30 (1994)(Caroline Software Inc.)[a2]</description>
+		<rom name="CSIDOS v3.30 (1994)(Caroline Software Inc.)[a2].img" size="819200" crc="ce494552" md5="d0be3c1fd6374eeb60466cc35f69afa4" sha1="65595bf45d2356b91866767373780fd2eeb1b143"/>
+	</game>
+	<game name="CSIDOS v3.30 (1994)(Caroline Software Inc.)[a3]">
+		<description>CSIDOS v3.30 (1994)(Caroline Software Inc.)[a3]</description>
+		<rom name="CSIDOS v3.30 (1994)(Caroline Software Inc.)[a3].img" size="819200" crc="518e5658" md5="a5f8bfde21a121b7a4dd7d95e02ea804" sha1="586b9597db24cf7c9d1d6a1658a5c6b4fd939fe9"/>
+	</game>
+	<game name="CSIDOS v3.30 (1994)(Caroline Software Inc.)[a]">
+		<description>CSIDOS v3.30 (1994)(Caroline Software Inc.)[a]</description>
+		<rom name="CSIDOS v3.30 (1994)(Caroline Software Inc.)[a].img" size="819200" crc="a5b3c925" md5="c63a28d2af7c149115d91e9235495a3d" sha1="f3d23aaca4228a2bec3b84169480b85c217fa321"/>
+	</game>
+	<game name="MKDos v3.15 (1995)(Michael Korolev)">
+		<description>MKDos v3.15 (1995)(Michael Korolev)</description>
+		<rom name="MKDos v3.15 (1995)(Michael Korolev).bkd" size="719872" crc="3a871fa2" md5="bf75294ef463d880b189ba391c58b382" sha1="af990012dcdc2f327e8a160c0ced2012334622ec"/>
+	</game>
+	<game name="OS-B11 v4.1 (19xx)(Alex Savelev)">
+		<description>OS-B11 v4.1 (19xx)(Alex Savelev)</description>
+		<rom name="OS-B11 v4.1 (19xx)(Alex Savelev).img" size="819200" crc="ad8ddab2" md5="1f1bacd2c7a3a956501cb0b771049e3d" sha1="366c1edecc15e50d3317ba479867a5d86aec70bf"/>
+	</game>
+</datafile>

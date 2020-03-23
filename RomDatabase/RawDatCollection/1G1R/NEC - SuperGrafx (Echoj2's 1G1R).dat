@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>NEC - SuperGrafx (Echoj2's 1G1R)</name>
+		<description>NEC - SuperGrafx (Echoj2's 1G1R)</description>
+		<category>Standard DatFile</category>
+		<version>20180623-100000</version>
+		<date>-insert date-</date>
+		<author>Eckaji</author>
+		<email>-insert email-</email>
+		<homepage>r/SBCGaming</homepage>
+		<url>https://discord.gg/JdXc6nx</url>
+		<comment>-insert comment-</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="1941 - Counter Attack (Japan)">
+		<description>1941 - Counter Attack (Japan)</description>
+		<rom name="1941 - Counter Attack (Japan).pce" size="1048576" crc="8c4588e2" md5="30686dba4795521174658de2492e0046" sha1="66873b0e0cc699aa75daf06a3f74c0508037e605"/>
+	</machine>
+	<machine name="Aldynes - The Misson Code for Rage Crisis (Japan)">
+		<description>Aldynes - The Misson Code for Rage Crisis (Japan)</description>
+		<rom name="Aldynes - The Misson Code for Rage Crisis (Japan).pce" size="1048576" crc="4c2126b0" md5="8ce21667658ef9c025ad007f65147c6d" sha1="d876248ee1b80ad11633fd4be8aa21a187b52193"/>
+	</machine>
+	<machine name="Battle Ace (Japan)">
+		<description>Battle Ace (Japan)</description>
+		<rom name="Battle Ace (Japan).pce" size="524288" crc="3b13af61" md5="fc0053c0c050353b87886b1b89349168" sha1="edc8f7d2233c92ebd309ac804527c461851a4b63"/>
+	</machine>
+	<machine name="Daimakaimura (Japan)">
+		<description>Daimakaimura (Japan)</description>
+		<rom name="Daimakaimura (Japan).pce" size="1048576" crc="b486a8ed" md5="6d9ff6f70608166c88fd2553d44ca17a" sha1="cab9e4a1a8b6da07cc2c5cc35949928199a417ee"/>
+	</machine>
+	<machine name="Darius Alpha (Japan)">
+		<description>Darius Alpha (Japan)</description>
+		<rom name="Darius Alpha (Japan).pce" size="393216" crc="b0ba689f" md5="c87135a6af3344c9316fe06fccbcfd97" sha1="f59c538fa632f687c356af70659fb07b37933f78"/>
+	</machine>
+	<machine name="Darius Plus (Japan)">
+		<description>Darius Plus (Japan)</description>
+		<rom name="Darius Plus (Japan).pce" size="786432" crc="bebfe042" md5="3274eee61dae966e15822558940e5d4d" sha1="a362c06e4466b2b3dc7a682f892988189117ef62"/>
+	</machine>
+	<machine name="Madou King Granzort (Japan)">
+		<description>Madou King Granzort (Japan)</description>
+		<rom name="Madou King Granzort (Japan).pce" size="524288" crc="1f041166" md5="7e1e489c50fc6213196e6dbb704f6671" sha1="5ed16565753c902e14da9a0c5361ef01fa74463b"/>
+	</machine>
+</datafile>

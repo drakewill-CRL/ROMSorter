@@ -1,0 +1,563 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Acorn BBC - Applications - [SSD]</name>
+		<description>Acorn BBC - Applications - [SSD] (TOSEC-v2013-10-16)</description>
+		<category>TOSEC</category>
+		<version>2013-10-16</version>
+		<author>CRSV - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="64k Support (19xx)(-)[RUN BAS128]">
+		<description>64k Support (19xx)(-)[RUN BAS128]</description>
+		<rom name="64k Support (19xx)(-)[RUN BAS128].ssd" size="204800" crc="f43bdfa5" md5="60345e0b24017290413cf0178c3ccc5d" sha1="3192f9e6a5e73a7137001c92b64bbde2f0697a97"/>
+	</game>
+	<game name="A&amp;B Art Package (1986)(A&amp;B)[h Dave]">
+		<description>A&amp;B Art Package (1986)(A&amp;B)[h Dave]</description>
+		<rom name="A&amp;B Art Package (1986)(A&amp;B)[h Dave].ssd" size="204800" crc="c1ab97fb" md5="8beb727246e02289fdc02796dd8fe9df" sha1="4591e14a7d6b6d303b2c167346755bfcdda8ac86"/>
+	</game>
+	<game name="Algebraic Manipulation Package (1982)(Acornsoft)">
+		<description>Algebraic Manipulation Package (1982)(Acornsoft)</description>
+		<rom name="Algebraic Manipulation Package (1982)(Acornsoft).ssd" size="14336" crc="73d51ba3" md5="87c2c0822c017ec4eb91ee2bd7746b5c" sha1="8e085cf021b23484273be73c10a0cba2e6445ce2"/>
+	</game>
+	<game name="AMRAC Packet Radio (19xx)(Siskin Electronics)(PD)[h 8-Bit]">
+		<description>AMRAC Packet Radio (19xx)(Siskin Electronics)(PD)[h 8-Bit]</description>
+		<rom name="AMRAC Packet Radio (19xx)(Siskin Electronics)(PD)[h 8-Bit].ssd" size="204800" crc="cec8d61e" md5="906ed223a7fdf1eb7a800ddc0b869696" sha1="8f828d0cb5803ab9d3b78c84c116cd13cb9f7f47"/>
+	</game>
+	<game name="Art Studio, The (1989)(Impact)[h2][ARTLOAD]">
+		<description>Art Studio, The (1989)(Impact)[h2][ARTLOAD]</description>
+		<rom name="Art Studio, The (1989)(Impact)[h2][ARTLOAD].ssd" size="69888" crc="763528dc" md5="ecdb5f6858300e188ec3a1fedfdda6d9" sha1="44d8ae7590356bfbfa7e6f252c62d0adb8dcde3c"/>
+	</game>
+	<game name="Art Studio, The (1989)(Impact)[h][ARTLOAD]">
+		<description>Art Studio, The (1989)(Impact)[h][ARTLOAD]</description>
+		<rom name="Art Studio, The (1989)(Impact)[h][ARTLOAD].ssd" size="69888" crc="fe4ea72b" md5="c439676d14cfec0984896ca1839c7567" sha1="19e5b8e1c17703bfb68c68e09b3a236fd54b7421"/>
+	</game>
+	<game name="Artist (1983)(Bug Byte)[ARTIST]">
+		<description>Artist (1983)(Bug Byte)[ARTIST]</description>
+		<rom name="Artist (1983)(Bug Byte)[ARTIST].ssd" size="17152" crc="87963543" md5="4d32743af1b97ad65dc405e0c58a14a4" sha1="fdccdc0554dd0302815416b4aa0f631977ea7bb8"/>
+	</game>
+	<game name="Artist Graphics Pack (1983)(Bug Byte)[a][GRAPH]">
+		<description>Artist Graphics Pack (1983)(Bug Byte)[a][GRAPH]</description>
+		<rom name="Artist Graphics Pack (1983)(Bug Byte)[a][GRAPH].ssd" size="17152" crc="67fdbea2" md5="89c4657e453018018085c0e69e03a164" sha1="b7fcbc5da5100a76b82f940ed3702231d93e55b5"/>
+	</game>
+	<game name="Artist Graphics Pack (1983)(Bug Byte)[GRAPH]">
+		<description>Artist Graphics Pack (1983)(Bug Byte)[GRAPH]</description>
+		<rom name="Artist Graphics Pack (1983)(Bug Byte)[GRAPH].ssd" size="17152" crc="eed973db" md5="efae84529dc11be05a2e0bad789dc919" sha1="b9bd0e2370348315876a2329b7381268ca7fb3d8"/>
+	</game>
+	<game name="Autofire (19xx)(de Weger, Mark)[CHEAT]">
+		<description>Autofire (19xx)(de Weger, Mark)[CHEAT]</description>
+		<rom name="Autofire (19xx)(de Weger, Mark)[CHEAT].ssd" size="1792" crc="63a8e18a" md5="145e4f908b7557490058d40eed51ac4b" sha1="8174e7f94e0dc1252ed922b471c5c34b7207ebb3"/>
+	</game>
+	<game name="BBC Disk Aligner (19xx)(Cumana)[ALIGNER]">
+		<description>BBC Disk Aligner (19xx)(Cumana)[ALIGNER]</description>
+		<rom name="BBC Disk Aligner (19xx)(Cumana)[ALIGNER].ssd" size="3072" crc="a0435393" md5="552790aea0123ca90ad6a21348eca44c" sha1="c6cac05362f603c7c2ef323166f5c9157f88ed7d"/>
+	</game>
+	<game name="BBC Graphics Kit (19xx)(DSPD)[h 8-Bit]">
+		<description>BBC Graphics Kit (19xx)(DSPD)[h 8-Bit]</description>
+		<rom name="BBC Graphics Kit (19xx)(DSPD)[h 8-Bit].ssd" size="204800" crc="c3979ee8" md5="636726b6d768d77e827ccbcd8b2ae217" sha1="7381fdab5f3d004a3b4073a04e66985ca3181159"/>
+	</game>
+	<game name="BBC Microcomputer Utilities (1982)(BBC)">
+		<description>BBC Microcomputer Utilities (1982)(BBC)</description>
+		<rom name="BBC Microcomputer Utilities (1982)(BBC).ssd" size="78336" crc="03728f14" md5="37367ea8f4c3acf07199657cebacaf55" sha1="d212aa33a14b30dc2ff64920f834fe8c4e6715cc"/>
+	</game>
+	<game name="BBC Monitor Disc (19xx)(-)(Side 0)">
+		<description>BBC Monitor Disc (19xx)(-)(Side 0)</description>
+		<rom name="BBC Monitor Disc (19xx)(-)(Side 0).ssd" size="204800" crc="d0c202d2" md5="261c7a5a4298e9f050928dd770097c77" sha1="0c5a9902f7783420ecc1eff820fa9e5d9f5ba920"/>
+	</game>
+	<game name="BBC Monitor Disc (19xx)(-)(Side 1)">
+		<description>BBC Monitor Disc (19xx)(-)(Side 1)</description>
+		<rom name="BBC Monitor Disc (19xx)(-)(Side 1).ssd" size="204800" crc="7d2aed7b" md5="e80a8ea1dd0458dbfd47a2d0685c0c74" sha1="6869bc366e0c34fb532d487e08d23d568908abd1"/>
+	</game>
+	<game name="Beebug Filer (1987)(Williams, Mike)[MENU]">
+		<description>Beebug Filer (1987)(Williams, Mike)[MENU]</description>
+		<rom name="Beebug Filer (1987)(Williams, Mike)[MENU].ssd" size="204800" crc="f436d468" md5="03f4f18476866c02baf2960861854619" sha1="9627adf0866f9c1a20f79a65ff9fa9339dc7482b"/>
+	</game>
+	<game name="Book Index (19xx)(-)[a][BOOK]">
+		<description>Book Index (19xx)(-)[a][BOOK]</description>
+		<rom name="Book Index (19xx)(-)[a][BOOK].ssd" size="5120" crc="88e57b15" md5="e8713c290c61c2f76993481fe2ca9d72" sha1="3bf3905c75c918be323d5d0107daa5c73d266e1b"/>
+	</game>
+	<game name="Book Index (19xx)(-)[BOOK]">
+		<description>Book Index (19xx)(-)[BOOK]</description>
+		<rom name="Book Index (19xx)(-)[BOOK].ssd" size="5120" crc="ed60b3aa" md5="6eefde509a8b81fca745c99c7ea8304a" sha1="84a89147a74db14e330307c2c1ce2468455ac7c4"/>
+	</game>
+	<game name="Calligraphy (1987)(Redwood Publishing)">
+		<description>Calligraphy (1987)(Redwood Publishing)</description>
+		<rom name="Calligraphy (1987)(Redwood Publishing).ssd" size="204800" crc="13f1e579" md5="bd37e809460a2d75d6710250ab6f1b47" sha1="28a463d6af8e9f6abd6b27f60b34d8188e7f948a"/>
+	</game>
+	<game name="Cheat it Again Joe - Vol. 1 (1988)(Impact Posters)">
+		<description>Cheat it Again Joe - Vol. 1 (1988)(Impact Posters)</description>
+		<rom name="Cheat it Again Joe - Vol. 1 (1988)(Impact Posters).ssd" size="102400" crc="4ccd320f" md5="afc8d2b0cee1770b966945cbf1133d0e" sha1="d400d34da294010fde746bf0ca6cc6f416342145"/>
+	</game>
+	<game name="Cheat it Again Joe - Vol. 1 (1988)(Impact Posters)[h TSTH]">
+		<description>Cheat it Again Joe - Vol. 1 (1988)(Impact Posters)[h TSTH]</description>
+		<rom name="Cheat it Again Joe - Vol. 1 (1988)(Impact Posters)[h TSTH].ssd" size="204800" crc="ac39f5cd" md5="1637ee04caa2edd5a0baacfe7b72afb5" sha1="1eb818c80115392665a8e16bd18ee0fc028fcdb4"/>
+	</game>
+	<game name="Cheat it Again Joe - Vol. 2 (1988)(Impact Posters)">
+		<description>Cheat it Again Joe - Vol. 2 (1988)(Impact Posters)</description>
+		<rom name="Cheat it Again Joe - Vol. 2 (1988)(Impact Posters).ssd" size="102400" crc="63b88117" md5="be7305210f93a3734532d8f60faaae5d" sha1="61de17e50d1fa3b0625facf955f0577a0b32e4e7"/>
+	</game>
+	<game name="Cheat it Again Joe - Vol. 2 (1988)(Impact Posters)[h TSTH]">
+		<description>Cheat it Again Joe - Vol. 2 (1988)(Impact Posters)[h TSTH]</description>
+		<rom name="Cheat it Again Joe - Vol. 2 (1988)(Impact Posters)[h TSTH].ssd" size="204800" crc="117a67eb" md5="d66cde52a7121b184d5fa70744f0f2f1" sha1="20435623d3361709056008323ca421ff54420b72"/>
+	</game>
+	<game name="Cheat it Again Joe - Vol. 3 (1988)(Impact Posters)">
+		<description>Cheat it Again Joe - Vol. 3 (1988)(Impact Posters)</description>
+		<rom name="Cheat it Again Joe - Vol. 3 (1988)(Impact Posters).ssd" size="102400" crc="6348b45f" md5="ae436e4aad66b98503afa689da89fd3c" sha1="80ca1e484439837e4c550e648dfd1bfbd43280c1"/>
+	</game>
+	<game name="Cheat it Again Joe - Vol. 3 (1988)(Impact Posters)[h TSTH]">
+		<description>Cheat it Again Joe - Vol. 3 (1988)(Impact Posters)[h TSTH]</description>
+		<rom name="Cheat it Again Joe - Vol. 3 (1988)(Impact Posters)[h TSTH].ssd" size="204800" crc="44edf138" md5="b7554a452fff4200751f76ebaa672275" sha1="88f987361e12376266738d7ffc8bb7067c945701"/>
+	</game>
+	<game name="Computer Maniacs Diary (1989)(Leisure Electronic Games)[h TSTH]">
+		<description>Computer Maniacs Diary (1989)(Leisure Electronic Games)[h TSTH]</description>
+		<rom name="Computer Maniacs Diary (1989)(Leisure Electronic Games)[h TSTH].ssd" size="43008" crc="d2ded567" md5="a9a9ef3d94f32eefe259d112a7cac346" sha1="4e1e09a6a3834ca6cfcaaa810c16aa79b6ebda86"/>
+	</game>
+	<game name="Copy File II (1983)(Vision)[b2]">
+		<description>Copy File II (1983)(Vision)[b2]</description>
+		<rom name="Copy File II (1983)(Vision)[b2].ssd" size="3584" crc="9b36fc18" md5="e3141d779ded607e4e6178898da68e40" sha1="b7dc5e2c800a713660c73ef0fabfd3287e157276"/>
+	</game>
+	<game name="Copy File II (1983)(Vision)[b3]">
+		<description>Copy File II (1983)(Vision)[b3]</description>
+		<rom name="Copy File II (1983)(Vision)[b3].ssd" size="3584" crc="3f06eee5" md5="a9be87eccf0a24939af90d937158fb2c" sha1="785add1beaf0f6f02d5f7367323a429b01115715"/>
+	</game>
+	<game name="Copy File II (1983)(Vision)[b]">
+		<description>Copy File II (1983)(Vision)[b]</description>
+		<rom name="Copy File II (1983)(Vision)[b].ssd" size="3584" crc="2968b7d0" md5="430844b5cf1298f7cdca87c8dca9fd0d" sha1="f4e48511969b14432e6d152081ed91e2d12af3e7"/>
+	</game>
+	<game name="Data Exchange Diagnostics Disk (1989)(Watford Electronics)">
+		<description>Data Exchange Diagnostics Disk (1989)(Watford Electronics)</description>
+		<rom name="Data Exchange Diagnostics Disk (1989)(Watford Electronics).ssd" size="204802" crc="e7fd82ca" md5="79ddb8aa2b92b76ae5805bf461ccbae3" sha1="aa2c5400da60c0edd35b5389f86b9c59ec1f58b4"/>
+	</game>
+	<game name="Database (1984)(Acornsoft)">
+		<description>Database (1984)(Acornsoft)</description>
+		<rom name="Database (1984)(Acornsoft).ssd" size="35584" crc="bc093645" md5="7c7e309a88f81a556aada259a814b32b" sha1="7683a6999d4753858931f5887fd9237a22a25e8a"/>
+	</game>
+	<game name="Discmaster (19xx)(Beebugsoft)">
+		<description>Discmaster (19xx)(Beebugsoft)</description>
+		<rom name="Discmaster (19xx)(Beebugsoft).ssd" size="204800" crc="4097d576" md5="43783295c214ca62ac760a632f79e98d" sha1="c9c1c0a542f01ac51ba4c68e2abdf733e306defa"/>
+	</game>
+	<game name="Disk Aligner (19xx)(Cumana)[ALIGNER]">
+		<description>Disk Aligner (19xx)(Cumana)[ALIGNER]</description>
+		<rom name="Disk Aligner (19xx)(Cumana)[ALIGNER].ssd" size="3072" crc="9c29f01c" md5="1a8fb10a70cd47d4ad75e2d65d0cebf0" sha1="01eea1957ee96c6564b709383c95c8e14c133129"/>
+	</game>
+	<game name="Disk Cruncher (1985)(Bossert, P.)[a][CRUNCHR]">
+		<description>Disk Cruncher (1985)(Bossert, P.)[a][CRUNCHR]</description>
+		<rom name="Disk Cruncher (1985)(Bossert, P.)[a][CRUNCHR].ssd" size="17408" crc="30b61306" md5="adb39c5ab1900424afb353cc5ca11f40" sha1="5c92150c7f157871b59f5e0192d7223602d5b00f"/>
+	</game>
+	<game name="Disk Cruncher (1985)(Bossert, P.)[CRUNCHR]">
+		<description>Disk Cruncher (1985)(Bossert, P.)[CRUNCHR]</description>
+		<rom name="Disk Cruncher (1985)(Bossert, P.)[CRUNCHR].ssd" size="17408" crc="55cc4245" md5="9e2f0103c34d84e68e82d63ca08788af" sha1="86e5ad0c8d7724f3225da81894c9a0d762797126"/>
+	</game>
+	<game name="Disk Menus (19xx)(-)[a][RUN !BOOT]">
+		<description>Disk Menus (19xx)(-)[a][RUN !BOOT]</description>
+		<rom name="Disk Menus (19xx)(-)[a][RUN !BOOT].ssd" size="10496" crc="617ecaaa" md5="6cad55ffc856019e74dba00198407b80" sha1="a65046166f40b06f0e701864d39a0215206825d4"/>
+	</game>
+	<game name="Disk Menus (19xx)(-)[RUN !BOOT]">
+		<description>Disk Menus (19xx)(-)[RUN !BOOT]</description>
+		<rom name="Disk Menus (19xx)(-)[RUN !BOOT].ssd" size="10496" crc="c53e48fa" md5="32cb18e78fee28a356351cdd703ad784" sha1="5b95d6a800e338ca0a916f515c5362d92dad1f9f"/>
+	</game>
+	<game name="Disk Utility (19xx)(-)[a][MENU]">
+		<description>Disk Utility (19xx)(-)[a][MENU]</description>
+		<rom name="Disk Utility (19xx)(-)[a][MENU].ssd" size="65536" crc="45c0c7b2" md5="258c035556ea046c0a7003102fd80c6b" sha1="7c28a43a85cf13697389256fa607e5e5eff497e7"/>
+	</game>
+	<game name="Disk Utility (19xx)(-)[MENU]">
+		<description>Disk Utility (19xx)(-)[MENU]</description>
+		<rom name="Disk Utility (19xx)(-)[MENU].ssd" size="65536" crc="f724e225" md5="dda50602448b46a761bdb627d1f3f91e" sha1="fb3a7e8cc42f5625be29b82463d1136c6612040f"/>
+	</game>
+	<game name="Dynamic Modelling Systems (19xx)(Longman Micro)[b]">
+		<description>Dynamic Modelling Systems (19xx)(Longman Micro)[b]</description>
+		<rom name="Dynamic Modelling Systems (19xx)(Longman Micro)[b].ssd" size="37376" crc="b65f92ca" md5="cd77e2428cc0121c77cd5a5c91e7e43b" sha1="5f1300cea9c22d90286aa682920ace2e6f25ac64"/>
+	</game>
+	<game name="Easy Poke v3.0 (19xx)(A&amp;B)[h TSTH]">
+		<description>Easy Poke v3.0 (19xx)(A&amp;B)[h TSTH]</description>
+		<rom name="Easy Poke v3.0 (19xx)(A&amp;B)[h TSTH].ssd" size="7936" crc="5ba892a0" md5="40a18b0b502c6299c96ca5a446f024a1" sha1="db887be145faf6399f1c52a007674f330c9e6bc1"/>
+	</game>
+	<game name="Elite - BBC System Menu (1984)(Acornsoft)">
+		<description>Elite - BBC System Menu (1984)(Acornsoft)</description>
+		<rom name="Elite - BBC System Menu (1984)(Acornsoft).ssd" size="204800" crc="97a48bed" md5="c56b7119b190e03b4ca486ee880c6953" sha1="45e6da0677f872e67a3986a455bb8decf2a76986"/>
+	</game>
+	<game name="Elite - BBC System Menu (1984)(Acornsoft)[a]">
+		<description>Elite - BBC System Menu (1984)(Acornsoft)[a]</description>
+		<rom name="Elite - BBC System Menu (1984)(Acornsoft)[a].ssd" size="204800" crc="f10aea60" md5="82a20a917904a245338ad5c4f1331a6d" sha1="cbd40dd9cad231f2f093e64665a69b64ddab5608"/>
+	</game>
+	<game name="Elite - Commander Editor (1986)(Acorn User)[a][EELITE]">
+		<description>Elite - Commander Editor (1986)(Acorn User)[a][EELITE]</description>
+		<rom name="Elite - Commander Editor (1986)(Acorn User)[a][EELITE].ssd" size="9472" crc="7d9cebd8" md5="5d5099ab29a48d3879f3aa6cf3e40a31" sha1="f75ea1bf40f7161a1422067c61dc63519da3ea5a"/>
+	</game>
+	<game name="Elite - Commander Editor (1986)(Acorn User)[EELITE]">
+		<description>Elite - Commander Editor (1986)(Acorn User)[EELITE]</description>
+		<rom name="Elite - Commander Editor (1986)(Acorn User)[EELITE].ssd" size="9472" crc="327b54f2" md5="d0811fccc5cdd61041af7162dab9d5da" sha1="27d1cdba8f3ea4508de6662fc293bc0d4c080858"/>
+	</game>
+	<game name="Elite - Commander Utilities (19xx)(-)">
+		<description>Elite - Commander Utilities (19xx)(-)</description>
+		<rom name="Elite - Commander Utilities (19xx)(-).ssd" size="11776" crc="6959515d" md5="eb94d262556adf96aaa8ada1f00f428e" sha1="0654977f66ec55e5e8e36284af53a83c7b3f7edc"/>
+	</game>
+	<game name="Elite - Commander Utilities (19xx)(-)[a]">
+		<description>Elite - Commander Utilities (19xx)(-)[a]</description>
+		<rom name="Elite - Commander Utilities (19xx)(-)[a].ssd" size="11776" crc="64ba9a6d" md5="1abf9830460e4267c9b3d063972ba33d" sha1="a947b25a5ae60ecfe9b914852706449514090e7d"/>
+	</game>
+	<game name="Etch a Sketch (1982)(Clare, D.)[a][SKETCH]">
+		<description>Etch a Sketch (1982)(Clare, D.)[a][SKETCH]</description>
+		<rom name="Etch a Sketch (1982)(Clare, D.)[a][SKETCH].ssd" size="3584" crc="6537cbe4" md5="b1c84b4ca3957976a8bf78c7c9e56ec8" sha1="82f0b448e09e6b86b18172d3fe3141b802e6b31a"/>
+	</game>
+	<game name="Etch a Sketch (1982)(Clare, D.)[SKETCH]">
+		<description>Etch a Sketch (1982)(Clare, D.)[SKETCH]</description>
+		<rom name="Etch a Sketch (1982)(Clare, D.)[SKETCH].ssd" size="3584" crc="80d29804" md5="4c75c82aa8bad003e310ffa6983b6ea4" sha1="e743223234b9c544a4fd4a5ccaa914b1f8bdf754"/>
+	</game>
+	<game name="Exile - Saved Game Editor (1990)(Rince, J.)[h TSTH]">
+		<description>Exile - Saved Game Editor (1990)(Rince, J.)[h TSTH]</description>
+		<rom name="Exile - Saved Game Editor (1990)(Rince, J.)[h TSTH].ssd" size="9984" crc="889df161" md5="9a4cd8e5d4f7dec683f06035476033d7" sha1="545b396d3488bac803ef2e2ef12604dcbf665c25"/>
+	</game>
+	<game name="Facemaker (19xx)(Acornsoft)">
+		<description>Facemaker (19xx)(Acornsoft)</description>
+		<rom name="Facemaker (19xx)(Acornsoft).ssd" size="20992" crc="5ba08d55" md5="2b440ea37059f037cbd89e04cd6ff991" sha1="a2639e8ec1636226a3ea6381a0aed5ed2110c73a"/>
+	</game>
+	<game name="Fleet Street Editor (1985)(Mirrorsoft)">
+		<description>Fleet Street Editor (1985)(Mirrorsoft)</description>
+		<rom name="Fleet Street Editor (1985)(Mirrorsoft).ssd" size="120832" crc="6135f28d" md5="03f493d7cd2dc56d38ab84f47ee11d8b" sha1="861348bdfe99d4ec22c6baaeeed9fbe3de113afe"/>
+	</game>
+	<game name="Fleet Street Editor (1985)(Mirrorsoft)[a]">
+		<description>Fleet Street Editor (1985)(Mirrorsoft)[a]</description>
+		<rom name="Fleet Street Editor (1985)(Mirrorsoft)[a].ssd" size="120832" crc="8e765545" md5="20ebdfd3dd32e278d347a75f245e229a" sha1="90ff34027bacccc672d847c813910e194173ca92"/>
+	</game>
+	<game name="Fleet Street Editor - Library (19xx)(Mirrorsoft)">
+		<description>Fleet Street Editor - Library (19xx)(Mirrorsoft)</description>
+		<rom name="Fleet Street Editor - Library (19xx)(Mirrorsoft).ssd" size="201216" crc="71958588" md5="fa15eede43d6db990d8d39168b60413a" sha1="a3ea7a83721efb08a64b2deb2d83f85bd54ca585"/>
+	</game>
+	<game name="Fleet Street Editor - Library (19xx)(Mirrorsoft)[a]">
+		<description>Fleet Street Editor - Library (19xx)(Mirrorsoft)[a]</description>
+		<rom name="Fleet Street Editor - Library (19xx)(Mirrorsoft)[a].ssd" size="201216" crc="26e6c96e" md5="2ca9c064fa1899e079bf26a47f7c4d35" sha1="be7d551445015a9ece16307eb90ec4703d3c64fe"/>
+	</game>
+	<game name="Floor Robots - Vol. 1 (1984)(-)">
+		<description>Floor Robots - Vol. 1 (1984)(-)</description>
+		<rom name="Floor Robots - Vol. 1 (1984)(-).ssd" size="44544" crc="88487cb2" md5="911e5fbecc9e1d749f0900128a48f09d" sha1="cd5ab85eebf941aa4a3502165492a40a6d09eb86"/>
+	</game>
+	<game name="Floor Robots - Vol. 2 (1986)(-)">
+		<description>Floor Robots - Vol. 2 (1986)(-)</description>
+		<rom name="Floor Robots - Vol. 2 (1986)(-).ssd" size="34048" crc="24e3f644" md5="68e16facdaac6f59320d1b9beafd1497" sha1="5c9b2d2f6f71b1308f01e7f49e3dc7cac77e547b"/>
+	</game>
+	<game name="Grand Prix Construction Set (1987)(Bradley, A.)[GPCSLOA]">
+		<description>Grand Prix Construction Set (1987)(Bradley, A.)[GPCSLOA]</description>
+		<rom name="Grand Prix Construction Set (1987)(Bradley, A.)[GPCSLOA].ssd" size="46336" crc="6451303e" md5="1c50fbf7dcb700fc4078022be68b2ae7" sha1="a4f755591958e6e407b2ca2a8ebd073e729da1eb"/>
+	</game>
+	<game name="Grand Prix Construction Set (1987)(Bradley, A.)[h2]">
+		<description>Grand Prix Construction Set (1987)(Bradley, A.)[h2]</description>
+		<rom name="Grand Prix Construction Set (1987)(Bradley, A.)[h2].ssd" size="46592" crc="9e99c42b" md5="b2bac62f6e36024e122a38fbcc190e8a" sha1="f5df8e4863daa0ebc30089bc5fb1b2049db40d44"/>
+	</game>
+	<game name="Grand Prix Construction Set (1987)(Bradley, A.)[h3]">
+		<description>Grand Prix Construction Set (1987)(Bradley, A.)[h3]</description>
+		<rom name="Grand Prix Construction Set (1987)(Bradley, A.)[h3].ssd" size="38400" crc="e40d953d" md5="c58b50ada1cb1e99281355aed1ce9c5f" sha1="ef2b79594957a0485d6cc707bae54699c1fadfe4"/>
+	</game>
+	<game name="Grand Prix Construction Set (1987)(Bradley, A.)[h4]">
+		<description>Grand Prix Construction Set (1987)(Bradley, A.)[h4]</description>
+		<rom name="Grand Prix Construction Set (1987)(Bradley, A.)[h4].ssd" size="39424" crc="42418912" md5="c88b4eab434c197b21d7bf6cd926688c" sha1="4d0a587097cb4946dabfd2c1a8513a0cd43b2e3e"/>
+	</game>
+	<game name="Grand Prix Construction Set (1987)(Bradley, A.)[h]">
+		<description>Grand Prix Construction Set (1987)(Bradley, A.)[h]</description>
+		<rom name="Grand Prix Construction Set (1987)(Bradley, A.)[h].ssd" size="46592" crc="e672f6c1" md5="2f426bf43a8ac9a54420d3fb65e3b614" sha1="5faccfebdce76547603e7c89ad891280564e6249"/>
+	</game>
+	<game name="Graphics Adventure Creator (1986)(Incentive)">
+		<description>Graphics Adventure Creator (1986)(Incentive)</description>
+		<rom name="Graphics Adventure Creator (1986)(Incentive).ssd" size="42752" crc="cf34928c" md5="0dfb69ab43e5a7829402252415b5ba98" sha1="fe8de889994164e42f9498b611607e14f88a28aa"/>
+	</game>
+	<game name="Graphics Adventure Creator (1986)(Incentive)[a]">
+		<description>Graphics Adventure Creator (1986)(Incentive)[a]</description>
+		<rom name="Graphics Adventure Creator (1986)(Incentive)[a].ssd" size="42752" crc="685d00d4" md5="35c64c1bb6a3ad42e3210a91887a928f" sha1="97dbd15083e916ba839b1459bd9cd08af07b4fe2"/>
+	</game>
+	<game name="Graphics Adventure Creator (1986)(Incentive)[h TSTH]">
+		<description>Graphics Adventure Creator (1986)(Incentive)[h TSTH]</description>
+		<rom name="Graphics Adventure Creator (1986)(Incentive)[h TSTH].ssd" size="43264" crc="ac05ca5d" md5="2f1f6d964fc3d185fd3d3e1f85215ac9" sha1="689191b6478008c8d05ac291e028b0e26716814b"/>
+	</game>
+	<game name="Ham - Utilities v2.21 (1984)(Alsop, Tim)[a][RUN !BOOT]">
+		<description>Ham - Utilities v2.21 (1984)(Alsop, Tim)[a][RUN !BOOT]</description>
+		<rom name="Ham - Utilities v2.21 (1984)(Alsop, Tim)[a][RUN !BOOT].ssd" size="71168" crc="2f30dcdb" md5="c7d4895306362f997a6947302981ff23" sha1="2f5f0fc2dfaae4781b4c1ae1e8bdade0f71cb4ed"/>
+	</game>
+	<game name="Ham - Utilities v2.21 (1984)(Alsop, Tim)[RUN !BOOT]">
+		<description>Ham - Utilities v2.21 (1984)(Alsop, Tim)[RUN !BOOT]</description>
+		<rom name="Ham - Utilities v2.21 (1984)(Alsop, Tim)[RUN !BOOT].ssd" size="71168" crc="77cadd45" md5="4a144306b59b58e36eab01fbc67373a7" sha1="4f169064475da0b693bb240ec1b3b7cc432a5946"/>
+	</game>
+	<game name="Inside Information v2.0 (1985)(BBC)">
+		<description>Inside Information v2.0 (1985)(BBC)</description>
+		<rom name="Inside Information v2.0 (1985)(BBC).ssd" size="95488" crc="b9cf62cb" md5="87a4c57a1d65fa3d50424369176557f7" sha1="ca3811fdf7dd213b0dff563511b015f4ae216f68"/>
+	</game>
+	<game name="Interbase XMENU ROM (19xx)(-)">
+		<description>Interbase XMENU ROM (19xx)(-)</description>
+		<rom name="Interbase XMENU ROM (19xx)(-).ssd" size="204800" crc="e74d27de" md5="01325360be60090727d65128b2a965e3" sha1="db36f7735ee1117c8c16a286cf3e0aecd5056412"/>
+	</game>
+	<game name="KeyDef v8.0 (19xx)(JBF)">
+		<description>KeyDef v8.0 (19xx)(JBF)</description>
+		<rom name="KeyDef v8.0 (19xx)(JBF).ssd" size="204800" crc="0a834cb6" md5="a4a1b4cd32622e6726f348ee2a0fd7ef" sha1="f782157954a00bd79d938075e70dd405281aebfb"/>
+	</game>
+	<game name="Logotext v1.04 (1987)(Blamires, Mike)">
+		<description>Logotext v1.04 (1987)(Blamires, Mike)</description>
+		<rom name="Logotext v1.04 (1987)(Blamires, Mike).ssd" size="32256" crc="a54f5f35" md5="c34832b746730c144148ce4e1647c3d1" sha1="ca8bc4454c7ee227a295ccde4be95f5e035f07a5"/>
+	</game>
+	<game name="Marvin the Paranoid Disk Copier (19xx)(-)[a][MARVIN1]">
+		<description>Marvin the Paranoid Disk Copier (19xx)(-)[a][MARVIN1]</description>
+		<rom name="Marvin the Paranoid Disk Copier (19xx)(-)[a][MARVIN1].ssd" size="7936" crc="c55b838f" md5="b08cbd6d67f89d067ec6dc56150e7a64" sha1="44aeeae8e9b3e08aa2c11dffcd2b9e4fe1250eb3"/>
+	</game>
+	<game name="Marvin the Paranoid Disk Copier (19xx)(-)[MARVIN1]">
+		<description>Marvin the Paranoid Disk Copier (19xx)(-)[MARVIN1]</description>
+		<rom name="Marvin the Paranoid Disk Copier (19xx)(-)[MARVIN1].ssd" size="7936" crc="59f1616f" md5="dc69363b2293612141fbaceecf4322a7" sha1="0888e3fdb020a3c819c2402ff75211ed62def44c"/>
+	</game>
+	<game name="MASTERcopy (1986)(MB)[b2]">
+		<description>MASTERcopy (1986)(MB)[b2]</description>
+		<rom name="MASTERcopy (1986)(MB)[b2].ssd" size="16640" crc="18834b40" md5="32df868125270a14e5d40adb25c625ea" sha1="dfee5d0c606fbfd2f133ad61a76268b032ed74fe"/>
+	</game>
+	<game name="MASTERcopy (1986)(MB)[b]">
+		<description>MASTERcopy (1986)(MB)[b]</description>
+		<rom name="MASTERcopy (1986)(MB)[b].ssd" size="16640" crc="d93ddee4" md5="c3e2ea36aecf5f69b872cdcd58445de7" sha1="919007efc37c792a6087c9e9cb8318734c3259fb"/>
+	</game>
+	<game name="Merlin Scribe v1.30 (1984)(Bucon)(Side 0)">
+		<description>Merlin Scribe v1.30 (1984)(Bucon)(Side 0)</description>
+		<rom name="Merlin Scribe v1.30 (1984)(Bucon)(Side 0).ssd" size="204800" crc="c5fe9c3e" md5="936f9e118b63c998b260fffd11f2aed4" sha1="92d113a88c2c708f29503a43a7828eb95752b100"/>
+	</game>
+	<game name="Merlin Scribe v1.30 (1984)(Bucon)(Side 1)">
+		<description>Merlin Scribe v1.30 (1984)(Bucon)(Side 1)</description>
+		<rom name="Merlin Scribe v1.30 (1984)(Bucon)(Side 1).ssd" size="204800" crc="f6c293ca" md5="1fc0d9cf872de74b4f937c5a26087634" sha1="7362383b5695f7b30b0182e7c764e8b19865ddfd"/>
+	</game>
+	<game name="Morley Electronics Utilities (1987)(Morley Electronics)">
+		<description>Morley Electronics Utilities (1987)(Morley Electronics)</description>
+		<rom name="Morley Electronics Utilities (1987)(Morley Electronics).ssd" size="25344" crc="4cc3f0d7" md5="9f838ed725e6373f903d46bdf22297ee" sha1="07294a23eef2a117d89384e223e4d172575411cc"/>
+	</game>
+	<game name="Morley Electronics Utilities (1987)(Morley Electronics)[a]">
+		<description>Morley Electronics Utilities (1987)(Morley Electronics)[a]</description>
+		<rom name="Morley Electronics Utilities (1987)(Morley Electronics)[a].ssd" size="25344" crc="1dba26b8" md5="91c7a04ce2c88a2d3659a76fd1232593" sha1="a86f6a49b8bc1ecdf44625f0136ffb625bd3b82b"/>
+	</game>
+	<game name="MRUN Utility (19xx)(-)">
+		<description>MRUN Utility (19xx)(-)</description>
+		<rom name="MRUN Utility (19xx)(-).ssd" size="768" crc="0c6f1855" md5="aa02bad4992005d04f8ced5b169e0530" sha1="123d4b372c64e9ea0bf16a84e45d0972a375f172"/>
+	</game>
+	<game name="Music Player (19xx)(PCW)[a][MUSIC]">
+		<description>Music Player (19xx)(PCW)[a][MUSIC]</description>
+		<rom name="Music Player (19xx)(PCW)[a][MUSIC].ssd" size="2560" crc="17cb8011" md5="bc456c54ddb62679c1a7174b6081f1c2" sha1="6c7bb7c805c6add2894872a8226ae4be1fbd1dc6"/>
+	</game>
+	<game name="Music Player (19xx)(PCW)[MUSIC]">
+		<description>Music Player (19xx)(PCW)[MUSIC]</description>
+		<rom name="Music Player (19xx)(PCW)[MUSIC].ssd" size="2560" crc="0bb9d5cb" md5="811f6aec0bd4dc9d340424f2166b649e" sha1="42b97160a76b596ab5bcd8fe47545b10c7ca5148"/>
+	</game>
+	<game name="Music Processor (19xx)(-)[a][MUPROC]">
+		<description>Music Processor (19xx)(-)[a][MUPROC]</description>
+		<rom name="Music Processor (19xx)(-)[a][MUPROC].ssd" size="7936" crc="ab71b596" md5="2215d6c1f9fa0c2f4ca168e5b985acf7" sha1="b94998f4e1bd9d5658862926dcd0d2951f261c7e"/>
+	</game>
+	<game name="Music Processor (19xx)(-)[MUPROC]">
+		<description>Music Processor (19xx)(-)[MUPROC]</description>
+		<rom name="Music Processor (19xx)(-)[MUPROC].ssd" size="7936" crc="64d529cb" md5="607af38c58f362405a954b10d53d63c3" sha1="0d3a1986aefc3f3ea8f737ae2b26d11564679b79"/>
+	</game>
+	<game name="Music Tracker (1994)(DSPD)[h 8-Bit]">
+		<description>Music Tracker (1994)(DSPD)[h 8-Bit]</description>
+		<rom name="Music Tracker (1994)(DSPD)[h 8-Bit].ssd" size="204800" crc="95588b48" md5="1e624a5510e079a668787448c10b8835" sha1="26bb00ce6e534e24a89a95f9bbf501d1bb26295a"/>
+	</game>
+	<game name="Newspaper (1985)(Blenkhorn, Paul)">
+		<description>Newspaper (1985)(Blenkhorn, Paul)</description>
+		<rom name="Newspaper (1985)(Blenkhorn, Paul).ssd" size="18176" crc="83ab8940" md5="558e3b468fc6ba08fb8da4aad4012df2" sha1="616292c544b08352b68313532eaa4c9f2f8c130f"/>
+	</game>
+	<game name="PASCAL (19xx)(-)[b]">
+		<description>PASCAL (19xx)(-)[b]</description>
+		<rom name="PASCAL (19xx)(-)[b].ssd" size="86528" crc="e43f0695" md5="7957b6e4c474fcb1539ab54cecb69def" sha1="5438f404993e3f65781403f7e66a34bd9ca6bac1"/>
+	</game>
+	<game name="PASCAL Boot Disk (19xx)(Oxford Computer Systems)">
+		<description>PASCAL Boot Disk (19xx)(Oxford Computer Systems)</description>
+		<rom name="PASCAL Boot Disk (19xx)(Oxford Computer Systems).ssd" size="92672" crc="fb618111" md5="6a9cd6d5be375741ec29fd47f735cb02" sha1="2f031ed76eb56676de61e5f379c2fad048c67ed3"/>
+	</game>
+	<game name="PASCAL Boot Disk (19xx)(Oxford Computer Systems)[a]">
+		<description>PASCAL Boot Disk (19xx)(Oxford Computer Systems)[a]</description>
+		<rom name="PASCAL Boot Disk (19xx)(Oxford Computer Systems)[a].ssd" size="92672" crc="7e2df9d2" md5="fc0c3083a5d5a1d7f536e2707a1af429" sha1="0bd65b493ebb0d838090d618f648c1f47182277e"/>
+	</game>
+	<game name="PDTP (1991)(Henley)[h 8-Bit]">
+		<description>PDTP (1991)(Henley)[h 8-Bit]</description>
+		<rom name="PDTP (1991)(Henley)[h 8-Bit].ssd" size="204800" crc="9c63811c" md5="5862663e4138f221a1ae21ef87a42de2" sha1="b78b9d0020bc39a1f21a1fca46080ddb5eeb44ef"/>
+	</game>
+	<game name="Personal Money Management v4.1 (1983)(Acornsoft)">
+		<description>Personal Money Management v4.1 (1983)(Acornsoft)</description>
+		<rom name="Personal Money Management v4.1 (1983)(Acornsoft).ssd" size="19200" crc="d86b3f71" md5="dff5102339cc3ae5fb7d3f608a22f7af" sha1="b26bf37de78eb1336f0b5e4cfb46dd98459a061a"/>
+	</game>
+	<game name="Plotmate (19xx)(-)">
+		<description>Plotmate (19xx)(-)</description>
+		<rom name="Plotmate (19xx)(-).ssd" size="29696" crc="26ad9369" md5="1a1c9bb15af8caa3b73a54f0dd478d50" sha1="ec0657ae9370bcff30fb0f6bd48d1f2d4624ab87"/>
+	</game>
+	<game name="Primary Art (1983)(Alligata)[a][ART]">
+		<description>Primary Art (1983)(Alligata)[a][ART]</description>
+		<rom name="Primary Art (1983)(Alligata)[a][ART].ssd" size="8192" crc="a3cc5bfc" md5="4305488c59bf9b08691050b5e6b9e878" sha1="d9a83638f728b958e58802b1e3df00e71e885275"/>
+	</game>
+	<game name="Primary Art (1983)(Alligata)[ART]">
+		<description>Primary Art (1983)(Alligata)[ART]</description>
+		<rom name="Primary Art (1983)(Alligata)[ART].ssd" size="8192" crc="46bcc251" md5="1c66ff7eaa19bc914bce59017fcbee89" sha1="ef010df4b6dde698aa1006d1016f1a2fd65cc487"/>
+	</game>
+	<game name="Print Wise (1986)(Beebug)">
+		<description>Print Wise (1986)(Beebug)</description>
+		<rom name="Print Wise (1986)(Beebug).ssd" size="204800" crc="cc6cf598" md5="08302400cef4b6b17a40e496069715e7" sha1="167985759031adf123f9276d45ca950772bf9a17"/>
+	</game>
+	<game name="RAM ROM (19xx)(Watford Electronics)">
+		<description>RAM ROM (19xx)(Watford Electronics)</description>
+		<rom name="RAM ROM (19xx)(Watford Electronics).ssd" size="204800" crc="14843f00" md5="58d42ee028548072e242d3cf3d11aa0f" sha1="39fe0b6f2afbc997a1b3ec2c82a54a1a4775c379"/>
+	</game>
+	<game name="Repton 3 Disc (19xx)(8-Bit)">
+		<description>Repton 3 Disc (19xx)(8-Bit)</description>
+		<rom name="Repton 3 Disc (19xx)(8-Bit).ssd" size="204800" crc="26ca046c" md5="ec089813a03397c0d3460f7171139096" sha1="a5f4f33dee13d6bc70a5a8d49138666243e94063"/>
+	</game>
+	<game name="Repton Utilities (19xx)(-)[b]">
+		<description>Repton Utilities (19xx)(-)[b]</description>
+		<rom name="Repton Utilities (19xx)(-)[b].ssd" size="46592" crc="1bafd97a" md5="4d54f74aca15f5fc40acab8ec462814e" sha1="42b2e6bb80082964aea8887a6f2e8aa4bf4de3e6"/>
+	</game>
+	<game name="Rom Manager Rom, The (19xx)(8-Bit)">
+		<description>Rom Manager Rom, The (19xx)(8-Bit)</description>
+		<rom name="Rom Manager Rom, The (19xx)(8-Bit).ssd" size="204800" crc="8ba61dec" md5="c034759f12128eaba6b47ee9ae00fb3a" sha1="d012a4e0f1a8923dced56b899bf0396863c354eb"/>
+	</game>
+	<game name="ROM Utilities (19xx)(-)">
+		<description>ROM Utilities (19xx)(-)</description>
+		<rom name="ROM Utilities (19xx)(-).ssd" size="1280" crc="90b74e7c" md5="ec97c3a0aa76df79ffa7c760160577e1" sha1="765f720360b86d48090ccd890e473a610aa7899f"/>
+	</game>
+	<game name="Runemaker - Codename Druid Editor (19xx)(Ruseman, Chris)[DREDIT]">
+		<description>Runemaker - Codename Druid Editor (19xx)(Ruseman, Chris)[DREDIT]</description>
+		<rom name="Runemaker - Codename Druid Editor (19xx)(Ruseman, Chris)[DREDIT].ssd" size="12800" crc="042f4c11" md5="f0e79514d42f6c4f1514497319aafd03" sha1="80756b57190404ab4a5f636c1c652afc2589c820"/>
+	</game>
+	<game name="Screen Thief v1.6 (19xx)(Allen, R.)[h 8-Bit]">
+		<description>Screen Thief v1.6 (19xx)(Allen, R.)[h 8-Bit]</description>
+		<rom name="Screen Thief v1.6 (19xx)(Allen, R.)[h 8-Bit].ssd" size="204800" crc="be4f0aae" md5="c5fcbdf8ea67fc6fa15b3a0dff594875" sha1="30c2820eb6a832f086eb058d160c9d63dce9d042"/>
+	</game>
+	<game name="Slow Scan Image Terminal (19xx)(Meteosat)[h 8-Bit]">
+		<description>Slow Scan Image Terminal (19xx)(Meteosat)[h 8-Bit]</description>
+		<rom name="Slow Scan Image Terminal (19xx)(Meteosat)[h 8-Bit].ssd" size="204800" crc="be5059a0" md5="e612b48eb5e7a0b1c2662f8856493910" sha1="8d3112285a52bdbf9984a84f5c272e24c631577e"/>
+	</game>
+	<game name="Solidisk STL Hard Drive Formatter (1985)(Acres, K.T.)">
+		<description>Solidisk STL Hard Drive Formatter (1985)(Acres, K.T.)</description>
+		<rom name="Solidisk STL Hard Drive Formatter (1985)(Acres, K.T.).ssd" size="3840" crc="0274160f" md5="426b68c0e6b3ca91496e80867860759f" sha1="a3ac1ac648f1d6be44437d6f889237d641286fdb"/>
+	</game>
+	<game name="Speech! (1985)(Superior)">
+		<description>Speech! (1985)(Superior)</description>
+		<rom name="Speech! (1985)(Superior).ssd" size="32512" crc="074615b1" md5="95f9a4e39e3b2d9664c29a1e347b432d" sha1="14c5138edea5ffc973e3c794359c41032b6b3b95"/>
+	</game>
+	<game name="Speech! (1985)(Superior)[h TSTH]">
+		<description>Speech! (1985)(Superior)[h TSTH]</description>
+		<rom name="Speech! (1985)(Superior)[h TSTH].ssd" size="33280" crc="5c081869" md5="7cf509b75856990bc5c4351d38860fd0" sha1="014dd531dd738362bf7182fb53d088a9a58d71e4"/>
+	</game>
+	<game name="String Tracker v1.00 (1991)(Osterballe, L.)">
+		<description>String Tracker v1.00 (1991)(Osterballe, L.)</description>
+		<rom name="String Tracker v1.00 (1991)(Osterballe, L.).ssd" size="204800" crc="b5979b7f" md5="e14b899364730261e822b2cb2d2facdc" sha1="84e4bbaf58bbe9f91c19ec18a8337e1f2a2c7b6b"/>
+	</game>
+	<game name="Studio 8 (1986)(Beebug)">
+		<description>Studio 8 (1986)(Beebug)</description>
+		<rom name="Studio 8 (1986)(Beebug).ssd" size="204800" crc="2a8e7e2b" md5="b491a833715055fdfffeb8350d80f7dd" sha1="475f2a5c6794bd37dbc966c6e93b67fc737351c1"/>
+	</game>
+	<game name="Super Designer v1.2 (19xx)(Elliot, P.J.)[b]">
+		<description>Super Designer v1.2 (19xx)(Elliot, P.J.)[b]</description>
+		<rom name="Super Designer v1.2 (19xx)(Elliot, P.J.)[b].ssd" size="36608" crc="5b9497fd" md5="8063f4e0be2e544f0b44663d4361e40f" sha1="43b8233993d921b5e1e866926012533cee60a0c3"/>
+	</game>
+	<game name="SWR Utilities (1986)(Acorn User)">
+		<description>SWR Utilities (1986)(Acorn User)</description>
+		<rom name="SWR Utilities (1986)(Acorn User).ssd" size="90368" crc="4db50452" md5="2b04666be412baf634e4e59b9fd911ca" sha1="fae608fae840ed5ec3ca2a3579035170382c51b3"/>
+	</game>
+	<game name="SWR Utilities (1986)(Acorn User)[a]">
+		<description>SWR Utilities (1986)(Acorn User)[a]</description>
+		<rom name="SWR Utilities (1986)(Acorn User)[a].ssd" size="90368" crc="e1d58a29" md5="bfea156750c20a63e5499fd62670c941" sha1="f6dc07c0b2a98de70fde90c32d5917bea7ea67de"/>
+	</game>
+	<game name="Synthesizer (19xx)(-)[a][SYNTH]">
+		<description>Synthesizer (19xx)(-)[a][SYNTH]</description>
+		<rom name="Synthesizer (19xx)(-)[a][SYNTH].ssd" size="6144" crc="c6a73a00" md5="0dca1376c0a0ee6755a9cd67dd2f23f8" sha1="3a273f7c6d7515feaad9ee747726c0fd24081cb0"/>
+	</game>
+	<game name="Synthesizer (19xx)(-)[SYNTH]">
+		<description>Synthesizer (19xx)(-)[SYNTH]</description>
+		<rom name="Synthesizer (19xx)(-)[SYNTH].ssd" size="6144" crc="b3b2921a" md5="79673e237de98b0d0303f07e11de1668" sha1="c879540021dacd6f98ed8e97af3980d678e9f88b"/>
+	</game>
+	<game name="System Delta - The Card Index Application (19xx)(-)(Side 0)[b]">
+		<description>System Delta - The Card Index Application (19xx)(-)(Side 0)[b]</description>
+		<rom name="System Delta - The Card Index Application (19xx)(-)(Side 0)[b].ssd" size="204800" crc="4502b39a" md5="388806c37e20a6ec027b0b6a209aecb3" sha1="1edaec2fc4305678352c807acd2d0714a3b72b53"/>
+	</game>
+	<game name="System Delta - The Card Index Application (19xx)(-)(Side 1)[b]">
+		<description>System Delta - The Card Index Application (19xx)(-)(Side 1)[b]</description>
+		<rom name="System Delta - The Card Index Application (19xx)(-)(Side 1)[b].ssd" size="204800" crc="6a2f4e59" md5="b3c2dd3a591f9febd62e03957bce66c6" sha1="81164371fbb6329390d9f9468c23874eb8d6a45f"/>
+	</game>
+	<game name="Teletext Generator (1983)(Quicksilva)[a][TELLOAD]">
+		<description>Teletext Generator (1983)(Quicksilva)[a][TELLOAD]</description>
+		<rom name="Teletext Generator (1983)(Quicksilva)[a][TELLOAD].ssd" size="19968" crc="19a27ffc" md5="7b25198cc6b8bb32418750dc670ffbc7" sha1="d8f6060e4f42c2d680413c6aff123a6dd9d8fb1f"/>
+	</game>
+	<game name="Teletext Generator (1983)(Quicksilva)[TELLOAD]">
+		<description>Teletext Generator (1983)(Quicksilva)[TELLOAD]</description>
+		<rom name="Teletext Generator (1983)(Quicksilva)[TELLOAD].ssd" size="19968" crc="a4e6be5b" md5="488667e1ebf4e479c8558f9e92b38fcd" sha1="27d045b7df5bcce5b1e9be8573c96fb8173cc0ec"/>
+	</game>
+	<game name="Teletext Screen Editor (19xx)(-)[a][EDIT]">
+		<description>Teletext Screen Editor (19xx)(-)[a][EDIT]</description>
+		<rom name="Teletext Screen Editor (19xx)(-)[a][EDIT].ssd" size="6400" crc="6d8130f5" md5="9d9abe3fc486fa4b3aff75335742546f" sha1="3b3019d6ee7be6a75e94c4053b7c9640ad024a6c"/>
+	</game>
+	<game name="Teletext Screen Editor (19xx)(-)[EDIT]">
+		<description>Teletext Screen Editor (19xx)(-)[EDIT]</description>
+		<rom name="Teletext Screen Editor (19xx)(-)[EDIT].ssd" size="6400" crc="214439d4" md5="b76981de4b76974ff2d2bd7b7a861fd4" sha1="8c9d68e733bb1b970605402f6828d19a784a02d2"/>
+	</game>
+	<game name="Tomcat - Tape Loader Program (1989)(Players)[b]">
+		<description>Tomcat - Tape Loader Program (1989)(Players)[b]</description>
+		<rom name="Tomcat - Tape Loader Program (1989)(Players)[b].ssd" size="38912" crc="e056a903" md5="37eae6b09ae5e0e9bc15f53b5ab35c13" sha1="1ed222663ed568dbc230bb2b7ba03af8d7ccdff2"/>
+	</game>
+	<game name="Twin1 (1989)(Security Soft)[TWIN0]">
+		<description>Twin1 (1989)(Security Soft)[TWIN0]</description>
+		<rom name="Twin1 (1989)(Security Soft)[TWIN0].ssd" size="8192" crc="9fe2b806" md5="ab69d54e0ccaeb72c9b7407301054195" sha1="9fdf1a9716d624a781cd8e7ab74f309226da89c7"/>
+	</game>
+	<game name="Typing Tutor (19xx)(Bazzasoft)[h 8-Bit]">
+		<description>Typing Tutor (19xx)(Bazzasoft)[h 8-Bit]</description>
+		<rom name="Typing Tutor (19xx)(Bazzasoft)[h 8-Bit].ssd" size="204800" crc="6353b02e" md5="4f9e99ff46209bcbd976efcfe40f1776" sha1="ab7c1eb6641e8bc1425a388ade6dc69227e30590"/>
+	</game>
+	<game name="Video Titler II v3.0 40t (1987)(Visioncraft)(Side 0)">
+		<description>Video Titler II v3.0 40t (1987)(Visioncraft)(Side 0)</description>
+		<rom name="Video Titler II v3.0 40t (1987)(Visioncraft)(Side 0).ssd" size="204800" crc="0cb31567" md5="b344e2cc98c067870f998d299dd3ba4c" sha1="4ec953b357a4340f9d138099d7edd88744166524"/>
+	</game>
+	<game name="Video Titler II v3.0 40t (1987)(Visioncraft)(Side 1)">
+		<description>Video Titler II v3.0 40t (1987)(Visioncraft)(Side 1)</description>
+		<rom name="Video Titler II v3.0 40t (1987)(Visioncraft)(Side 1).ssd" size="204800" crc="0b2c8dce" md5="145fdec4164cc8ac5856ce44de0e5f1a" sha1="caa5167417d905594b5881f25176054822de286f"/>
+	</game>
+	<game name="ViewIndex (19xx)(Acornsoft)">
+		<description>ViewIndex (19xx)(Acornsoft)</description>
+		<rom name="ViewIndex (19xx)(Acornsoft).ssd" size="204800" crc="1dde7223" md5="272e34b431a4431f3932461ed23467ef" sha1="217cce43355ada9287fced9cdebe31d126ca324e"/>
+	</game>
+	<game name="VU Calc (19xx)(Psion)">
+		<description>VU Calc (19xx)(Psion)</description>
+		<rom name="VU Calc (19xx)(Psion).ssd" size="204800" crc="f254a7c4" md5="f24ae00c826a6e54bbf8723223736f73" sha1="837e99ea41ea104874e7baf882721ef615146697"/>
+	</game>
+	<game name="VU File (19xx)(Psion)[VUFILE]">
+		<description>VU File (19xx)(Psion)[VUFILE]</description>
+		<rom name="VU File (19xx)(Psion)[VUFILE].ssd" size="204802" crc="cfb1330e" md5="24f3f5190b66e7468d5ca2b63eb3e00d" sha1="1743dfb2c4240d18e6fd811a9511db10d12177d7"/>
+	</game>
+	<game name="Watch Your Weight (1984)(Acornsoft)">
+		<description>Watch Your Weight (1984)(Acornsoft)</description>
+		<rom name="Watch Your Weight (1984)(Acornsoft).ssd" size="22528" crc="11781843" md5="e114c497be5617d608e7efd5465f9819" sha1="c52ea2f5622ca64ab0de43856bd3842b8b6bd38b"/>
+	</game>
+	<game name="Window Font and Procedures (19xx)(DSPD)[h 8-Bit]">
+		<description>Window Font and Procedures (19xx)(DSPD)[h 8-Bit]</description>
+		<rom name="Window Font and Procedures (19xx)(DSPD)[h 8-Bit].ssd" size="204800" crc="f194b1f1" md5="16a2ec00c68f59bc1fb05ff4fccfa64f" sha1="6135e7c61490e87137c48b46a916ade685786585"/>
+	</game>
+	<game name="WIPE for ADFS (19xx)(-)[b]">
+		<description>WIPE for ADFS (19xx)(-)[b]</description>
+		<rom name="WIPE for ADFS (19xx)(-)[b].ssd" size="1536" crc="de8f545f" md5="cf6ab49be6af05681de6b3594621e996" sha1="2563e17bb11278fe8cc7b9a3987ec9c3e99ad241"/>
+	</game>
+	<game name="Word 1 (1982)(IJK)[a][WORD1]">
+		<description>Word 1 (1982)(IJK)[a][WORD1]</description>
+		<rom name="Word 1 (1982)(IJK)[a][WORD1].ssd" size="4864" crc="2e57eee8" md5="5b8db652001d6e375a0475a8e1a83095" sha1="f764f78bebc872ca9f4535f3d3ddb0041613773b"/>
+	</game>
+	<game name="Word 1 (1982)(IJK)[WORD1]">
+		<description>Word 1 (1982)(IJK)[WORD1]</description>
+		<rom name="Word 1 (1982)(IJK)[WORD1].ssd" size="4864" crc="eb3df1e9" md5="eb2fabe24bdb190fe3d46b1beae72cca" sha1="7ca14b463e20ec60ace22cd7e937a0df97dd51b9"/>
+	</game>
+	<game name="Word Processor (19xx)(-)[a][WORDPRO]">
+		<description>Word Processor (19xx)(-)[a][WORDPRO]</description>
+		<rom name="Word Processor (19xx)(-)[a][WORDPRO].ssd" size="6656" crc="f47bf8f9" md5="a3ce85743e8a4c57430b259e43b08ead" sha1="1e56c92ee6b36d978f67ddce4d94069bf7c793c2"/>
+	</game>
+	<game name="Word Processor (19xx)(-)[WORDPRO]">
+		<description>Word Processor (19xx)(-)[WORDPRO]</description>
+		<rom name="Word Processor (19xx)(-)[WORDPRO].ssd" size="6656" crc="9f53c02f" md5="9a9285c847ef6dffa16a09864238ee03" sha1="79984e991510546e99ba54085fbb5e03933a9be5"/>
+	</game>
+	<game name="Wordpower (1986)(Copestake, Ian)[h 8-Bit]">
+		<description>Wordpower (1986)(Copestake, Ian)[h 8-Bit]</description>
+		<rom name="Wordpower (1986)(Copestake, Ian)[h 8-Bit].ssd" size="204800" crc="92396687" md5="09d70b904f3159ae88644cebd0ae5c08" sha1="1978a34938b04c4b39b8274c443cdb2c1c578ad2"/>
+	</game>
+	<game name="XOR Designer (1987)(Astral)">
+		<description>XOR Designer (1987)(Astral)</description>
+		<rom name="XOR Designer (1987)(Astral).ssd" size="76032" crc="4374b5f8" md5="1ff4533f4f865b5b45bebfa5bf014dd4" sha1="f39d9b80b87831a72b866dbb05438ba53f842fe7"/>
+	</game>
+	<game name="XOR Designer (1987)(Astral)[h TSTH]">
+		<description>XOR Designer (1987)(Astral)[h TSTH]</description>
+		<rom name="XOR Designer (1987)(Astral)[h TSTH].ssd" size="76032" crc="98189c33" md5="233512a6c36b1b61455e00f10d7ed65b" sha1="265330a3f30063f19490195c932ec17ec83838ab"/>
+	</game>
+</datafile>

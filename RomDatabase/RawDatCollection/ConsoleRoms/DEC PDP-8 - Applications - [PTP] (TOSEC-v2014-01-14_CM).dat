@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>DEC PDP-8 - Applications - [PTP]</name>
+		<description>DEC PDP-8 - Applications - [PTP] (TOSEC-v2014-01-14)</description>
+		<category>TOSEC</category>
+		<version>2014-01-14</version>
+		<author>TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Focal 68 (1968)(DEC)(US)">
+		<description>Focal 68 (1968)(DEC)(US)</description>
+		<rom name="Focal 68 (1968)(DEC)(US).ptp" size="8546" crc="00fd1d33" md5="40aeae0cda7539186234a75e97ec01d2" sha1="78e08d772ba0d1f8af57410edc1d47c57eb4e89d"/>
+	</game>
+	<game name="Focal 71 (1971)(DEC)(US)">
+		<description>Focal 71 (1971)(DEC)(US)</description>
+		<rom name="Focal 71 (1971)(DEC)(US).ptp" size="8344" crc="d2d5bfda" md5="264fec8b93234c248ba03df96aed6b10" sha1="adc5432f208dfe0c61a6e6a09ab6019a70fb111c"/>
+	</game>
+	<game name="Fortran Sample Program (19xx)(DEC)(US)">
+		<description>Fortran Sample Program (19xx)(DEC)(US)</description>
+		<rom name="Fortran Sample Program (19xx)(DEC)(US).ptp" size="1434" crc="5449e26b" md5="32fcd6b302e0ff6306ff782936dc8921" sha1="2fc4b5622ce6955e640f416df5bc01dacc88ceb1"/>
+	</game>
+	<game name="Sykes Diagnostic Program (1974-10-21)(-)">
+		<description>Sykes Diagnostic Program (1974-10-21)(-)</description>
+		<rom name="Sykes Diagnostic Program (1974-10-21)(-).ptp" size="6385" crc="66555234" md5="69792ae358ef19e86737527dfa5c376a" sha1="e84a8e1ce16ef308fc42c98889151da2c9192a93"/>
+	</game>
+</datafile>

@@ -1,0 +1,895 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Atari ST - Docs</name>
+		<description>Atari ST - Docs (TOSEC-v2011-03-04)</description>
+		<category>TOSEC</category>
+		<version>2011-03-04</version>
+		<author>Keili - dirkpitt - Grendel - Gucek - jjs - Laokoon - steph - Diaboł</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Atari ST Disk List (19xx)(-)">
+		<description>Atari ST Disk List (19xx)(-)</description>
+		<rom name="Atari ST Disk List (19xx)(-).st" size="737280" crc="8fab7381" md5="94a5825126b030428477f16423c4e619" sha1="5206644cec163c1802917febcffdec78dc80ca98"/>
+	</game>
+	<game name="Bald Eagle Document Disk 1, The (19xx)(The Bald Eagle)">
+		<description>Bald Eagle Document Disk 1, The (19xx)(The Bald Eagle)</description>
+		<rom name="Bald Eagle Document Disk 1, The (19xx)(The Bald Eagle).st" size="839680" crc="33bb0c37" md5="67e11ba92103d87fde6f3852ad1c8d2c" sha1="53ce71e562f055df29d591941767fd0a4893ca4b"/>
+	</game>
+	<game name="Bald Eagle Mega Doc Disk, The (19xx)(The Bald Eagle)">
+		<description>Bald Eagle Mega Doc Disk, The (19xx)(The Bald Eagle)</description>
+		<rom name="Bald Eagle Mega Doc Disk, The (19xx)(The Bald Eagle).st" size="737280" crc="a635897c" md5="b6feea3351bce9dc9761269afb1d5ec2" sha1="8f6f3386645bfbabab7a04b1e9cd16cb48a81bab"/>
+	</game>
+	<game name="Bald Eagle Solutions Disk 1, The (19xx)(The Bald Eagle)">
+		<description>Bald Eagle Solutions Disk 1, The (19xx)(The Bald Eagle)</description>
+		<rom name="Bald Eagle Solutions Disk 1, The (19xx)(The Bald Eagle).st" size="737280" crc="ca3119cc" md5="e2a4236b2cca36206c8abe2c9bfdd5c8" sha1="f629a1cef9997613740306a6f76e3185d6e5c0f0"/>
+	</game>
+	<game name="Black Wizards Doc Disk 1 (19xx)(The Black Wizards)">
+		<description>Black Wizards Doc Disk 1 (19xx)(The Black Wizards)</description>
+		<rom name="Black Wizards Doc Disk 1 (19xx)(The Black Wizards).st" size="819200" crc="6463b6da" md5="fdaca966aaaa28544f0e73410f4f9d87" sha1="f65148eb6c7950f3169561bd3ace382540a27c9b"/>
+	</game>
+	<game name="Black Wizards Doc Disk 2 (19xx)(The Black Wizards)">
+		<description>Black Wizards Doc Disk 2 (19xx)(The Black Wizards)</description>
+		<rom name="Black Wizards Doc Disk 2 (19xx)(The Black Wizards).st" size="737280" crc="7d0ad54a" md5="67458428e17db1e420a0b2792bbabac7" sha1="a000ef707ffa3ee0e3d954b26c1c7f05d82d968e"/>
+	</game>
+	<game name="Black Wizards Doc Disk 3 (19xx)(The Black Wizards)">
+		<description>Black Wizards Doc Disk 3 (19xx)(The Black Wizards)</description>
+		<rom name="Black Wizards Doc Disk 3 (19xx)(The Black Wizards).st" size="737280" crc="b7d8e04c" md5="7f2911584d9dd9c9bcdcc4847ea61462" sha1="34ad9576bf046ca84486007eae9306d5d67d16ce"/>
+	</game>
+	<game name="Blue Software Doc Disk 1 (19xx)(Blue Software)">
+		<description>Blue Software Doc Disk 1 (19xx)(Blue Software)</description>
+		<rom name="Blue Software Doc Disk 1 (19xx)(Blue Software).st" size="839680" crc="af889a44" md5="67250c2d8d43ccfd223dbfe77548ac2b" sha1="a32f546deee0578b0c1dc281b0964eff82f26ef7"/>
+	</game>
+	<game name="Blue Software Doc Disk 2 (19xx)(Blue Software)">
+		<description>Blue Software Doc Disk 2 (19xx)(Blue Software)</description>
+		<rom name="Blue Software Doc Disk 2 (19xx)(Blue Software).st" size="839680" crc="597cf02b" md5="676635e4be13024110e726edd5a10350" sha1="15fa76f6da07e821a721d35dfd4b23fa10b8c4b0"/>
+	</game>
+	<game name="Blue Software Doc Disk 4 (19xx)(Blue Software)">
+		<description>Blue Software Doc Disk 4 (19xx)(Blue Software)</description>
+		<rom name="Blue Software Doc Disk 4 (19xx)(Blue Software).st" size="839680" crc="7d861aaf" md5="250e6e5e19d5a6731a72f28d062abce6" sha1="61d789c26ef84af7e20b68a0e1a03f8d5b8e6a4b"/>
+	</game>
+	<game name="Blue Software Doc Disk 5 (19xx)(Blue Software)">
+		<description>Blue Software Doc Disk 5 (19xx)(Blue Software)</description>
+		<rom name="Blue Software Doc Disk 5 (19xx)(Blue Software).st" size="839680" crc="b30f6c13" md5="3904a65d97c1d39fad557aef40d52cb2" sha1="ef38b95017e12dfffbcbf4c7c0d65a2312347556"/>
+	</game>
+	<game name="Blue Software Doc Disk 6 (19xx)(Blue Software)">
+		<description>Blue Software Doc Disk 6 (19xx)(Blue Software)</description>
+		<rom name="Blue Software Doc Disk 6 (19xx)(Blue Software).st" size="839680" crc="ef6a03ef" md5="3569838c920673807b522986c8758cc0" sha1="c5cb4ca19d0cd12ff0d74b5c94062f629229aa62"/>
+	</game>
+	<game name="Bog Brothers Doc Disk 4 (19xx)(The Bog Brothers)">
+		<description>Bog Brothers Doc Disk 4 (19xx)(The Bog Brothers)</description>
+		<rom name="Bog Brothers Doc Disk 4 (19xx)(The Bog Brothers).st" size="819200" crc="cd751072" md5="f7f4913d62de686c8e1d9db7eab69d43" sha1="6130a61b2ee11c186c40457bc2f3e48ab706155c"/>
+	</game>
+	<game name="Deviant Designers Docs Disk 01 (19xx)(Deviant Designers)">
+		<description>Deviant Designers Docs Disk 01 (19xx)(Deviant Designers)</description>
+		<rom name="Deviant Designers Docs Disk 01 (19xx)(Deviant Designers).st" size="839680" crc="56216eb9" md5="1b83cce69ed1b89a3bb6ce78c3511297" sha1="1cb066296c86102779e54f56d8b0ef3a2f973a04"/>
+	</game>
+	<game name="Deviant Designers Docs Disk 01 (19xx)(Deviant Designers)[a]">
+		<description>Deviant Designers Docs Disk 01 (19xx)(Deviant Designers)[a]</description>
+		<rom name="Deviant Designers Docs Disk 01 (19xx)(Deviant Designers)[a].st" size="839680" crc="2b222965" md5="8263821b3f9f7b528481df82ce99ffa5" sha1="89808167e5c80e6c8a9764b17123295ec354baa7"/>
+	</game>
+	<game name="Deviant Designers Docs Disk 02 (19xx)(Deviant Designers)">
+		<description>Deviant Designers Docs Disk 02 (19xx)(Deviant Designers)</description>
+		<rom name="Deviant Designers Docs Disk 02 (19xx)(Deviant Designers).st" size="839680" crc="41a5f5fe" md5="45564b432101beb139a8fe1cb5f31312" sha1="cef3ae2e1d509ac7ea91a68729a02448d399d5f3"/>
+	</game>
+	<game name="Deviant Designers Docs Disk 02 (19xx)(Deviant Designers)[a]">
+		<description>Deviant Designers Docs Disk 02 (19xx)(Deviant Designers)[a]</description>
+		<rom name="Deviant Designers Docs Disk 02 (19xx)(Deviant Designers)[a].st" size="839680" crc="1741c28b" md5="a66c5ab34d37cffc9906833cc0e16ab8" sha1="7d10da50626a79d7ccf0831f92298f1638315ac3"/>
+	</game>
+	<game name="Deviant Designers Docs Disk 03 (19xx)(Deviant Designers)">
+		<description>Deviant Designers Docs Disk 03 (19xx)(Deviant Designers)</description>
+		<rom name="Deviant Designers Docs Disk 03 (19xx)(Deviant Designers).st" size="839680" crc="e4ccbe14" md5="1487bb5589c1decaa1154717d1e95d21" sha1="e54a3754d828bfb20f50bc5dd7c0f90a698fb518"/>
+	</game>
+	<game name="Deviant Designers Docs Disk 03 (19xx)(Deviant Designers)[u][No Menu]">
+		<description>Deviant Designers Docs Disk 03 (19xx)(Deviant Designers)[u][No Menu]</description>
+		<rom name="Deviant Designers Docs Disk 03 (19xx)(Deviant Designers)[u][No Menu].st" size="839680" crc="51f0ff2f" md5="dc80e318bf59b81b6f960f82e9a9059a" sha1="283671c314f9e4442a0bf741236885b65dc736fb"/>
+	</game>
+	<game name="Deviant Designers Docs Disk 04 (19xx)(Deviant Designers)">
+		<description>Deviant Designers Docs Disk 04 (19xx)(Deviant Designers)</description>
+		<rom name="Deviant Designers Docs Disk 04 (19xx)(Deviant Designers).st" size="839680" crc="23aeecab" md5="a37f1bc59ee558a13449bd1c4a9e52f4" sha1="fa14130a0d8c3915d2f8f082b0e02ca42adf2df9"/>
+	</game>
+	<game name="Deviant Designers Docs Disk 04 (19xx)(Deviant Designers)[a2]">
+		<description>Deviant Designers Docs Disk 04 (19xx)(Deviant Designers)[a2]</description>
+		<rom name="Deviant Designers Docs Disk 04 (19xx)(Deviant Designers)[a2].st" size="839680" crc="23f80525" md5="92a0f0f87075aeb74988bc68176f8727" sha1="e8be2f84aa3a90734a96c91dbbeab62c6b91d080"/>
+	</game>
+	<game name="Deviant Designers Docs Disk 04 (19xx)(Deviant Designers)[a3]">
+		<description>Deviant Designers Docs Disk 04 (19xx)(Deviant Designers)[a3]</description>
+		<rom name="Deviant Designers Docs Disk 04 (19xx)(Deviant Designers)[a3].st" size="839680" crc="c9fa89ce" md5="3033f89a03760ac04f225d3a469efb8c" sha1="764df31b0262127ee1144e97cc06200c83dac883"/>
+	</game>
+	<game name="Deviant Designers Docs Disk 04 (19xx)(Deviant Designers)[a]">
+		<description>Deviant Designers Docs Disk 04 (19xx)(Deviant Designers)[a]</description>
+		<rom name="Deviant Designers Docs Disk 04 (19xx)(Deviant Designers)[a].st" size="839680" crc="3f270804" md5="bf502bf6adc4846bc247482aaf3b8dcb" sha1="5b002d89edb60e889c019875ae654e47b69911f8"/>
+	</game>
+	<game name="Deviant Designers Docs Disk 04 and a Bit (19xx)(Deviant Designers)[b]">
+		<description>Deviant Designers Docs Disk 04 and a Bit (19xx)(Deviant Designers)[b]</description>
+		<rom name="Deviant Designers Docs Disk 04 and a Bit (19xx)(Deviant Designers)[b].st" size="839680" crc="1b7198e1" md5="fb7cb730c0b2b72cd451b53fc84394cc" sha1="55e659d9c1ba599bee4e5be6ae085d5d5048932e"/>
+	</game>
+	<game name="Deviant Designers Docs Disk 05 (19xx)(Deviant Designers)">
+		<description>Deviant Designers Docs Disk 05 (19xx)(Deviant Designers)</description>
+		<rom name="Deviant Designers Docs Disk 05 (19xx)(Deviant Designers).st" size="839680" crc="cf0df50f" md5="3035f067b9462a73ee761516c9819b48" sha1="5c1847a56deb762a9e4308f5a047bdd65e1dd365"/>
+	</game>
+	<game name="Deviant Designers Docs Disk 05 (19xx)(Deviant Designers)[a]">
+		<description>Deviant Designers Docs Disk 05 (19xx)(Deviant Designers)[a]</description>
+		<rom name="Deviant Designers Docs Disk 05 (19xx)(Deviant Designers)[a].st" size="839680" crc="f1e6fedf" md5="5bd90862619905f1fb0415476a49361c" sha1="0ca4cc0931c1ad672ada9218a9ea7b1685484b08"/>
+	</game>
+	<game name="Deviant Designers Docs Disk 05 (19xx)(Deviant Designers)[b]">
+		<description>Deviant Designers Docs Disk 05 (19xx)(Deviant Designers)[b]</description>
+		<rom name="Deviant Designers Docs Disk 05 (19xx)(Deviant Designers)[b].st" size="360448" crc="1a268d78" md5="f29d0c56c926cae4d37b4952ee4dd3f8" sha1="dc86ea0fc6886b55641904a21725c703d752b55e"/>
+	</game>
+	<game name="Deviant Designers Docs Disk 06 (19xx)(Deviant Designers)">
+		<description>Deviant Designers Docs Disk 06 (19xx)(Deviant Designers)</description>
+		<rom name="Deviant Designers Docs Disk 06 (19xx)(Deviant Designers).st" size="839680" crc="b7210f9d" md5="438fb560b762e3b2bb987626c79c4603" sha1="edea79189b904bdfa4d0961348265d691fe2dc6a"/>
+	</game>
+	<game name="Deviant Designers Docs Disk 06 (19xx)(Deviant Designers)[a2]">
+		<description>Deviant Designers Docs Disk 06 (19xx)(Deviant Designers)[a2]</description>
+		<rom name="Deviant Designers Docs Disk 06 (19xx)(Deviant Designers)[a2].st" size="839680" crc="f98002ab" md5="956ea66fb5c399b25a232e0f83bf4816" sha1="298340b4c51f61e2388842a7c0665fba5ba7851b"/>
+	</game>
+	<game name="Deviant Designers Docs Disk 06 (19xx)(Deviant Designers)[a]">
+		<description>Deviant Designers Docs Disk 06 (19xx)(Deviant Designers)[a]</description>
+		<rom name="Deviant Designers Docs Disk 06 (19xx)(Deviant Designers)[a].st" size="839680" crc="eef9fc5d" md5="dd217300effae95f27f9eff15bb125f1" sha1="a1403efd99fad851bdded5372a1cc11e13e03cf4"/>
+	</game>
+	<game name="Deviant Designers Docs Disk 07 (19xx)(Deviant Designers)">
+		<description>Deviant Designers Docs Disk 07 (19xx)(Deviant Designers)</description>
+		<rom name="Deviant Designers Docs Disk 07 (19xx)(Deviant Designers).st" size="839680" crc="cb884a1b" md5="a2fedf149da55b311edc1c2623f37b4f" sha1="291d36715bf51fac5014966a143c394c34083ee2"/>
+	</game>
+	<game name="Deviant Designers Docs Disk 07 (19xx)(Deviant Designers)[a2]">
+		<description>Deviant Designers Docs Disk 07 (19xx)(Deviant Designers)[a2]</description>
+		<rom name="Deviant Designers Docs Disk 07 (19xx)(Deviant Designers)[a2].st" size="839680" crc="3606ec11" md5="01f2f41c21517c9ae53a5c916713d962" sha1="0d2d34baac3c257c5f3e86ceda3f3d4580d84256"/>
+	</game>
+	<game name="Deviant Designers Docs Disk 07 (19xx)(Deviant Designers)[a3]">
+		<description>Deviant Designers Docs Disk 07 (19xx)(Deviant Designers)[a3]</description>
+		<rom name="Deviant Designers Docs Disk 07 (19xx)(Deviant Designers)[a3].st" size="839680" crc="337528c6" md5="b7893c6d6bb53a6e22793508e76f4f0a" sha1="7b85f6d4892ff619f79de7c55ced88a2bd140e3a"/>
+	</game>
+	<game name="Deviant Designers Docs Disk 07 (19xx)(Deviant Designers)[a]">
+		<description>Deviant Designers Docs Disk 07 (19xx)(Deviant Designers)[a]</description>
+		<rom name="Deviant Designers Docs Disk 07 (19xx)(Deviant Designers)[a].st" size="839680" crc="d601ac95" md5="59c1c65301b79a0b0cb70fd93500b8cd" sha1="722f64fbd1e4f749956466704192f19e4181e03c"/>
+	</game>
+	<game name="Deviant Designers Docs Disk 08 (19xx)(Deviant Designers)">
+		<description>Deviant Designers Docs Disk 08 (19xx)(Deviant Designers)</description>
+		<rom name="Deviant Designers Docs Disk 08 (19xx)(Deviant Designers).st" size="839680" crc="7825e32b" md5="69800906e9a9343907f3e9805bd3cb4b" sha1="b9a39371cba0b93187269b2d90a6af0724612153"/>
+	</game>
+	<game name="Deviant Designers Docs Disk 08 (19xx)(Deviant Designers)[a2]">
+		<description>Deviant Designers Docs Disk 08 (19xx)(Deviant Designers)[a2]</description>
+		<rom name="Deviant Designers Docs Disk 08 (19xx)(Deviant Designers)[a2].st" size="839680" crc="6962e738" md5="eefb97b60c9505fbc36e8aebdcd2ffa7" sha1="42ca22ff53de28689b0479827acd16993386418d"/>
+	</game>
+	<game name="Deviant Designers Docs Disk 08 (19xx)(Deviant Designers)[a]">
+		<description>Deviant Designers Docs Disk 08 (19xx)(Deviant Designers)[a]</description>
+		<rom name="Deviant Designers Docs Disk 08 (19xx)(Deviant Designers)[a].st" size="839680" crc="4330a816" md5="6eef7069f98a30e8910bfb9fc49d25b8" sha1="b6ef4eba808d3bd62550d55d3cf130ad3fc2d8e1"/>
+	</game>
+	<game name="Deviant Designers Docs Disk 09 (19xx)(Deviant Designers)">
+		<description>Deviant Designers Docs Disk 09 (19xx)(Deviant Designers)</description>
+		<rom name="Deviant Designers Docs Disk 09 (19xx)(Deviant Designers).st" size="839680" crc="65ae7bcd" md5="4adc545906b1305d409f440873c8b94d" sha1="78cc459107d795f40ef7560e718aa657ede23869"/>
+	</game>
+	<game name="Deviant Designers Docs Disk 09 (19xx)(Deviant Designers)[a2]">
+		<description>Deviant Designers Docs Disk 09 (19xx)(Deviant Designers)[a2]</description>
+		<rom name="Deviant Designers Docs Disk 09 (19xx)(Deviant Designers)[a2].st" size="839680" crc="a27e22e2" md5="f39e44e983d11edb813b41b3ffa751c9" sha1="14941ae8e470f928c788db7fc7cf6e9e86be76a4"/>
+	</game>
+	<game name="Deviant Designers Docs Disk 09 (19xx)(Deviant Designers)[a]">
+		<description>Deviant Designers Docs Disk 09 (19xx)(Deviant Designers)[a]</description>
+		<rom name="Deviant Designers Docs Disk 09 (19xx)(Deviant Designers)[a].st" size="839680" crc="b86a0e25" md5="c844eacae63dbafc10f6774af77e1f2c" sha1="ec1a1c8990896fc5d9196281f13e88b11193f3f7"/>
+	</game>
+	<game name="Deviant Designers Docs Disk 10 (19xx)(Deviant Designers)">
+		<description>Deviant Designers Docs Disk 10 (19xx)(Deviant Designers)</description>
+		<rom name="Deviant Designers Docs Disk 10 (19xx)(Deviant Designers).st" size="839680" crc="8d8c81aa" md5="c7984f2c7b417e221ff581aac6f1c6a1" sha1="f4f975f2fe251622a0b09165d4ea780ff6b72f7a"/>
+	</game>
+	<game name="Deviant Designers Docs Disk 10 (19xx)(Deviant Designers)[a]">
+		<description>Deviant Designers Docs Disk 10 (19xx)(Deviant Designers)[a]</description>
+		<rom name="Deviant Designers Docs Disk 10 (19xx)(Deviant Designers)[a].st" size="839680" crc="cad10559" md5="32606badd3bddac5f8217110771b2f14" sha1="a14080bc59b29f57d4c84cc31baf0e9b5d4bd9a8"/>
+	</game>
+	<game name="Deviant Designers Docs Disk 11 (19xx)(Deviant Designers)">
+		<description>Deviant Designers Docs Disk 11 (19xx)(Deviant Designers)</description>
+		<rom name="Deviant Designers Docs Disk 11 (19xx)(Deviant Designers).st" size="839680" crc="8229926a" md5="3dc6a8ad752214e2854992a1a76f92ed" sha1="a507f3d141db94c641597631ed4004c4a0ae6a2c"/>
+	</game>
+	<game name="Deviant Designers Docs Disk 11 (19xx)(Deviant Designers)[a]">
+		<description>Deviant Designers Docs Disk 11 (19xx)(Deviant Designers)[a]</description>
+		<rom name="Deviant Designers Docs Disk 11 (19xx)(Deviant Designers)[a].st" size="839680" crc="c4cfc747" md5="1ed50956bb4c99c4dbb8a3d8a39e623d" sha1="21ca66c1cc105817bab5ff2783b298b216cfa03e"/>
+	</game>
+	<game name="Deviant Designers Docs Disk 12 (19xx)(Deviant Designers)">
+		<description>Deviant Designers Docs Disk 12 (19xx)(Deviant Designers)</description>
+		<rom name="Deviant Designers Docs Disk 12 (19xx)(Deviant Designers).st" size="839680" crc="0b0cc2c4" md5="903379d3ba2e6e7c7369d0e02a234fe5" sha1="694e3f55b30054fb03d82284dcbf38e61f59b9b6"/>
+	</game>
+	<game name="Deviant Designers Docs Disk 13 (19xx)(Deviant Designers)">
+		<description>Deviant Designers Docs Disk 13 (19xx)(Deviant Designers)</description>
+		<rom name="Deviant Designers Docs Disk 13 (19xx)(Deviant Designers).st" size="839680" crc="ba08cc60" md5="89c3a3afad21ab398dfa0ba80a436a77" sha1="b448eded61f5996cbd35f4ed9ac6fac1f1a07531"/>
+	</game>
+	<game name="Deviant Designers Docs Disk 14 (19xx)(Deviant Designers)">
+		<description>Deviant Designers Docs Disk 14 (19xx)(Deviant Designers)</description>
+		<rom name="Deviant Designers Docs Disk 14 (19xx)(Deviant Designers).st" size="839680" crc="0bd16106" md5="e033c6df0c8524ec5de29472051e3ea0" sha1="08aefe2cc9e8865eec9698e8dbee06f7f990e0e8"/>
+	</game>
+	<game name="Electric Mouse Docs Disk (19xx)(Sewer Possum)">
+		<description>Electric Mouse Docs Disk (19xx)(Sewer Possum)</description>
+		<rom name="Electric Mouse Docs Disk (19xx)(Sewer Possum).st" size="829440" crc="2126becb" md5="01e80789e6942cd15ba1a5b63942f6a2" sha1="8437d56eba830afc57b6ca46cdeeb443669a0c7f"/>
+	</game>
+	<game name="Elite Doc Disk 5 (19xx)(Elite)">
+		<description>Elite Doc Disk 5 (19xx)(Elite)</description>
+		<rom name="Elite Doc Disk 5 (19xx)(Elite).st" size="368640" crc="fa2fca1f" md5="7c6fa4728f12fc89b0323956f32b20e5" sha1="d609b8040e7c9ab6ae60092d77f8bb7dcd500688"/>
+	</game>
+	<game name="Little Txt-Compact 1 (19xx)(Jake)">
+		<description>Little Txt-Compact 1 (19xx)(Jake)</description>
+		<rom name="Little Txt-Compact 1 (19xx)(Jake).st" size="839680" crc="9a98df83" md5="e60ed052b27712b5768d670d933792cc" sha1="3d6f2ab4fb3fcc7b7433973c34a58e9a92f1b0db"/>
+	</game>
+	<game name="Little Txt-Compact 2 (19xx)(Jake)">
+		<description>Little Txt-Compact 2 (19xx)(Jake)</description>
+		<rom name="Little Txt-Compact 2 (19xx)(Jake).st" size="839680" crc="f92e87cc" md5="a64104e16017c22e68224628311cd2e9" sha1="3eb22d514676a383f31445c672b336aaa95de4d1"/>
+	</game>
+	<game name="Little Txt-Compact 3 (19xx)(Jake)">
+		<description>Little Txt-Compact 3 (19xx)(Jake)</description>
+		<rom name="Little Txt-Compact 3 (19xx)(Jake).st" size="839680" crc="3a68262d" md5="2f9b119be1c3ab06a466a796f7dbd3b6" sha1="5a406a66b9a880908f50b74fb0b235f934461d80"/>
+	</game>
+	<game name="P.H.F. Menu 01 (19xx)(P.H.F.)">
+		<description>P.H.F. Menu 01 (19xx)(P.H.F.)</description>
+		<rom name="P.H.F. Menu 01 (19xx)(P.H.F.).st" size="839680" crc="d2c7b9dc" md5="73f8b634efa8ce6c37fe3c90d1796c71" sha1="d193f20d7f220747550cc511cf8f117b5eb5c699"/>
+	</game>
+	<game name="P.H.F. Menu 01 (19xx)(P.H.F.)[a]">
+		<description>P.H.F. Menu 01 (19xx)(P.H.F.)[a]</description>
+		<rom name="P.H.F. Menu 01 (19xx)(P.H.F.)[a].st" size="839680" crc="0907f064" md5="30174af213f90f5068e10e8bd1331cf8" sha1="4d0083d86cb4ac56960f505e63c77651710c16ba"/>
+	</game>
+	<game name="P.H.F. Menu 02 (19xx)(P.H.F.)">
+		<description>P.H.F. Menu 02 (19xx)(P.H.F.)</description>
+		<rom name="P.H.F. Menu 02 (19xx)(P.H.F.).st" size="755712" crc="3030fd2c" md5="4361e2d968049e520f0483ccf8dabe24" sha1="a23af9d232b0d0159553f71500a312092fe97b77"/>
+	</game>
+	<game name="P.H.F. Menu 02 (19xx)(P.H.F.)[a]">
+		<description>P.H.F. Menu 02 (19xx)(P.H.F.)[a]</description>
+		<rom name="P.H.F. Menu 02 (19xx)(P.H.F.)[a].st" size="755712" crc="b91733dd" md5="364bf4a0df7fd38df9c75c533682a488" sha1="ea7d715c1bfbf7bb9fefd3a539fd808f20f4bfcb"/>
+	</game>
+	<game name="P.H.F. Menu 03 (19xx)(P.H.F.)">
+		<description>P.H.F. Menu 03 (19xx)(P.H.F.)</description>
+		<rom name="P.H.F. Menu 03 (19xx)(P.H.F.).st" size="839680" crc="ef05b3e7" md5="f037b15bc39ba251613bd5840a041ab7" sha1="875ba90a6f678c60077be5fb40362268b934c06a"/>
+	</game>
+	<game name="P.H.F. Menu 04 (19xx)(P.H.F.)">
+		<description>P.H.F. Menu 04 (19xx)(P.H.F.)</description>
+		<rom name="P.H.F. Menu 04 (19xx)(P.H.F.).st" size="860160" crc="04426f7a" md5="dc4e7c46040b67dd0fbea00fae539d2e" sha1="2b20ff181ddf368a1c09696eeba2596cfdd6ccfa"/>
+	</game>
+	<game name="P.H.F. Menu 05 (19xx)(P.H.F.)">
+		<description>P.H.F. Menu 05 (19xx)(P.H.F.)</description>
+		<rom name="P.H.F. Menu 05 (19xx)(P.H.F.).st" size="839680" crc="29256c34" md5="7a100a60d7d0933234046dc86e4d29b9" sha1="84fcc3e75095d9a22970f0ce540dc857eec8f5f6"/>
+	</game>
+	<game name="P.H.F. Menu 06 (19xx)(P.H.F.)">
+		<description>P.H.F. Menu 06 (19xx)(P.H.F.)</description>
+		<rom name="P.H.F. Menu 06 (19xx)(P.H.F.).st" size="737280" crc="3aa10844" md5="054c1409a4b9110eea5de767be4596ec" sha1="31a4515ecb97691c95ba5a01a6c248401e63ed7b"/>
+	</game>
+	<game name="P.H.F. Menu 07 (19xx)(P.H.F.)">
+		<description>P.H.F. Menu 07 (19xx)(P.H.F.)</description>
+		<rom name="P.H.F. Menu 07 (19xx)(P.H.F.).st" size="839680" crc="299e2704" md5="0246f104a2a14a82b07b52291f6c56bb" sha1="f885b54fa2bfce9d15babc17e6a60eadcbaf0f9c"/>
+	</game>
+	<game name="P.H.F. Menu 08 (19xx)(P.H.F.)">
+		<description>P.H.F. Menu 08 (19xx)(P.H.F.)</description>
+		<rom name="P.H.F. Menu 08 (19xx)(P.H.F.).st" size="829440" crc="6d2d4c2a" md5="49fd8a2ab5f3a7bb409539e0df0dc916" sha1="50c74684e620f29ffe2a9ad7962ee05784f594a3"/>
+	</game>
+	<game name="P.H.F. Menu 09 (19xx)(P.H.F.)">
+		<description>P.H.F. Menu 09 (19xx)(P.H.F.)</description>
+		<rom name="P.H.F. Menu 09 (19xx)(P.H.F.).st" size="839680" crc="68663d35" md5="3372d83dcf8e3990567357be2286aaed" sha1="fb20f81a7d8662cd566ad210b315c35bd5e3cf37"/>
+	</game>
+	<game name="P.H.F. Menu 10 (19xx)(P.H.F.)">
+		<description>P.H.F. Menu 10 (19xx)(P.H.F.)</description>
+		<rom name="P.H.F. Menu 10 (19xx)(P.H.F.).st" size="923648" crc="b3c09983" md5="162594085f77e969fb293282426faf99" sha1="a8f378cb59d21295c1a231ca06c112cddba0ff9f"/>
+	</game>
+	<game name="P.H.F. Menu 11 (19xx)(P.H.F.)">
+		<description>P.H.F. Menu 11 (19xx)(P.H.F.)</description>
+		<rom name="P.H.F. Menu 11 (19xx)(P.H.F.).st" size="839680" crc="4fccca2c" md5="931d139975e7db410929883abf622939" sha1="54b18bf7a31e735952f6264d5c90c0093835d29d"/>
+	</game>
+	<game name="P.H.F. Menu 12 (19xx)(P.H.F.)">
+		<description>P.H.F. Menu 12 (19xx)(P.H.F.)</description>
+		<rom name="P.H.F. Menu 12 (19xx)(P.H.F.).st" size="839680" crc="e9b6b468" md5="57ee1154d3523ffcfbde426e868dc44f" sha1="fdf8c877e09ebd04f044043998db710511de318a"/>
+	</game>
+	<game name="P.H.F. Menu 13 (19xx)(P.H.F.)">
+		<description>P.H.F. Menu 13 (19xx)(P.H.F.)</description>
+		<rom name="P.H.F. Menu 13 (19xx)(P.H.F.).st" size="839680" crc="ef63bb10" md5="9846f6234da4821bc6865dd6f3d768be" sha1="3ecb9c1ff98504004e40a2daaecc082e1b76d088"/>
+	</game>
+	<game name="P.H.F. Menu 14 (19xx)(P.H.F.)">
+		<description>P.H.F. Menu 14 (19xx)(P.H.F.)</description>
+		<rom name="P.H.F. Menu 14 (19xx)(P.H.F.).st" size="839680" crc="713f88ce" md5="2e58edba28a381ea1fae37193b296022" sha1="ac5644ac9163f0b3845df82d635e66cd1fd5ced1"/>
+	</game>
+	<game name="P.H.F. Menu 15 (19xx)(P.H.F.)">
+		<description>P.H.F. Menu 15 (19xx)(P.H.F.)</description>
+		<rom name="P.H.F. Menu 15 (19xx)(P.H.F.).st" size="737280" crc="7b1c0ca2" md5="a66e735e0d1861c14a1dfdd1c4f6354e" sha1="37c307897a62d3a5a7c9a57a16da1ffde7abf9d6"/>
+	</game>
+	<game name="P.H.F. Menu 16 (19xx)(P.H.F.)">
+		<description>P.H.F. Menu 16 (19xx)(P.H.F.)</description>
+		<rom name="P.H.F. Menu 16 (19xx)(P.H.F.).st" size="737280" crc="50e23379" md5="fe0ca039df927f5acfe1f57277d37e4d" sha1="58e8d7115ddfdd720bb42f7d12fde1f595d85043"/>
+	</game>
+	<game name="Sewer Doc Disk 01 (19xx)(Sewersoft)">
+		<description>Sewer Doc Disk 01 (19xx)(Sewersoft)</description>
+		<rom name="Sewer Doc Disk 01 (19xx)(Sewersoft).st" size="737280" crc="8e843f87" md5="361329b3dae54d2403dadbede1ee1ed9" sha1="589569f4f296e1e09cc821d25130c8a7e1a2a0f2"/>
+	</game>
+	<game name="Sewer Doc Disk 01 (19xx)(Sewersoft)[a2]">
+		<description>Sewer Doc Disk 01 (19xx)(Sewersoft)[a2]</description>
+		<rom name="Sewer Doc Disk 01 (19xx)(Sewersoft)[a2].st" size="737280" crc="82a23387" md5="858cd838153b835d42dd1ff7b942aa7a" sha1="4e4bfa1653222d8c2a15d86c46f9b44445287125"/>
+	</game>
+	<game name="Sewer Doc Disk 01 (19xx)(Sewersoft)[a]">
+		<description>Sewer Doc Disk 01 (19xx)(Sewersoft)[a]</description>
+		<rom name="Sewer Doc Disk 01 (19xx)(Sewersoft)[a].st" size="737280" crc="e246e04e" md5="0ffaf9cc065d8c4676777e3e34801108" sha1="76498fcbcd61f4c852d6a1f12ab927f813686228"/>
+	</game>
+	<game name="Sewer Doc Disk 02 (19xx)(Sewersoft)">
+		<description>Sewer Doc Disk 02 (19xx)(Sewersoft)</description>
+		<rom name="Sewer Doc Disk 02 (19xx)(Sewersoft).st" size="737280" crc="ed04ac01" md5="297a8b38fb0dc322dabd6f3191bb5266" sha1="4611b12eebc8ed9e4bfe77165c322edb12e9dfe6"/>
+	</game>
+	<game name="Sewer Doc Disk 02 (19xx)(Sewersoft)[a2]">
+		<description>Sewer Doc Disk 02 (19xx)(Sewersoft)[a2]</description>
+		<rom name="Sewer Doc Disk 02 (19xx)(Sewersoft)[a2].st" size="737280" crc="252c733a" md5="2bf0e56e7a3d94de3e73cf3b0da2af01" sha1="2642688ab326e53e71a2aa41d40a72b9f721156a"/>
+	</game>
+	<game name="Sewer Doc Disk 02 (19xx)(Sewersoft)[a3]">
+		<description>Sewer Doc Disk 02 (19xx)(Sewersoft)[a3]</description>
+		<rom name="Sewer Doc Disk 02 (19xx)(Sewersoft)[a3].st" size="737280" crc="6ead6171" md5="cae128dbc533fce0dae853b07081f3c4" sha1="9c5caf978202e864312a5f6b18c262181644a741"/>
+	</game>
+	<game name="Sewer Doc Disk 02 (19xx)(Sewersoft)[a]">
+		<description>Sewer Doc Disk 02 (19xx)(Sewersoft)[a]</description>
+		<rom name="Sewer Doc Disk 02 (19xx)(Sewersoft)[a].st" size="737280" crc="24a0418d" md5="236c474caeb1425fe65cafabf2b38f97" sha1="8a74e502b0347b53f8b4dda839e813cbefe54285"/>
+	</game>
+	<game name="Sewer Doc Disk 03 (19xx)(Sewersoft)">
+		<description>Sewer Doc Disk 03 (19xx)(Sewersoft)</description>
+		<rom name="Sewer Doc Disk 03 (19xx)(Sewersoft).st" size="737280" crc="fe4b63d8" md5="24d7d52b544047420081fdaf97a77fec" sha1="d75fd5703b50d2253212c8e5b68655c38735dcbc"/>
+	</game>
+	<game name="Sewer Doc Disk 03 (19xx)(Sewersoft)[a2]">
+		<description>Sewer Doc Disk 03 (19xx)(Sewersoft)[a2]</description>
+		<rom name="Sewer Doc Disk 03 (19xx)(Sewersoft)[a2].st" size="839680" crc="612973e8" md5="662dd5acd73c8637b14d4b6b723a6956" sha1="bc4c512f1c4402afe57b2c9cc7179889eb7e17d7"/>
+	</game>
+	<game name="Sewer Doc Disk 03 (19xx)(Sewersoft)[a3]">
+		<description>Sewer Doc Disk 03 (19xx)(Sewersoft)[a3]</description>
+		<rom name="Sewer Doc Disk 03 (19xx)(Sewersoft)[a3].st" size="737280" crc="53f668f7" md5="5cdd4e0a2036bcc972565da38f7d8bbc" sha1="6509312458165b861ab861706ba5bf544b880bcd"/>
+	</game>
+	<game name="Sewer Doc Disk 03 (19xx)(Sewersoft)[a]">
+		<description>Sewer Doc Disk 03 (19xx)(Sewersoft)[a]</description>
+		<rom name="Sewer Doc Disk 03 (19xx)(Sewersoft)[a].st" size="737280" crc="d36c5b2c" md5="b568ccb191c5279c762a42f2df29e6a8" sha1="7d6d51e88ffeb0f4c584a56720f5b5e55f68bce2"/>
+	</game>
+	<game name="Sewer Doc Disk 04 (19xx)(Sewersoft)">
+		<description>Sewer Doc Disk 04 (19xx)(Sewersoft)</description>
+		<rom name="Sewer Doc Disk 04 (19xx)(Sewersoft).st" size="737280" crc="c5ddcf75" md5="07162691ecc5510882283c6755dc2f7e" sha1="80ff2679012f0bcd5216a9ab21e83dc9fcf77846"/>
+	</game>
+	<game name="Sewer Doc Disk 04 (19xx)(Sewersoft)[a2]">
+		<description>Sewer Doc Disk 04 (19xx)(Sewersoft)[a2]</description>
+		<rom name="Sewer Doc Disk 04 (19xx)(Sewersoft)[a2].st" size="737280" crc="0ca5ebe4" md5="972c7e6d6221f71d4612548675a28054" sha1="08f9f16f1df121b9457b5231bd015e512c79d350"/>
+	</game>
+	<game name="Sewer Doc Disk 04 (19xx)(Sewersoft)[a]">
+		<description>Sewer Doc Disk 04 (19xx)(Sewersoft)[a]</description>
+		<rom name="Sewer Doc Disk 04 (19xx)(Sewersoft)[a].st" size="737280" crc="6d500b10" md5="470d623642bd2da7e87f67bd0afd4558" sha1="89913436865e0f227679d23a12aa36d49586abd0"/>
+	</game>
+	<game name="Sewer Doc Disk 05 (19xx)(Sewersoft)">
+		<description>Sewer Doc Disk 05 (19xx)(Sewersoft)</description>
+		<rom name="Sewer Doc Disk 05 (19xx)(Sewersoft).st" size="737280" crc="eadfbb80" md5="447d61aec5270cf35c0a728dd8495590" sha1="c513bbcf4f146f15779d56e0c3f5d23408ef018d"/>
+	</game>
+	<game name="Sewer Doc Disk 05 (19xx)(Sewersoft)[a2]">
+		<description>Sewer Doc Disk 05 (19xx)(Sewersoft)[a2]</description>
+		<rom name="Sewer Doc Disk 05 (19xx)(Sewersoft)[a2].st" size="737280" crc="76bbfea5" md5="0ec123cfa2b471f57069fcbb50def57f" sha1="4ff2526fecd87b51530f09c3d17ce74e8e09c1d4"/>
+	</game>
+	<game name="Sewer Doc Disk 05 (19xx)(Sewersoft)[a3]">
+		<description>Sewer Doc Disk 05 (19xx)(Sewersoft)[a3]</description>
+		<rom name="Sewer Doc Disk 05 (19xx)(Sewersoft)[a3].st" size="737280" crc="403c2c3c" md5="4124690e9f44e200bd8c572804a5e69f" sha1="2a86c5b7b9042fdeb44ad2841fbf86c79c8c5fa4"/>
+	</game>
+	<game name="Sewer Doc Disk 05 (19xx)(Sewersoft)[a]">
+		<description>Sewer Doc Disk 05 (19xx)(Sewersoft)[a]</description>
+		<rom name="Sewer Doc Disk 05 (19xx)(Sewersoft)[a].st" size="737280" crc="524e6ce9" md5="b00d15f62f5a78b44d83a01e20e4a3a2" sha1="00f46acd30008fe483131cef58b73dcd60df6ffb"/>
+	</game>
+	<game name="Sewer Doc Disk 06 (19xx)(Sewersoft)">
+		<description>Sewer Doc Disk 06 (19xx)(Sewersoft)</description>
+		<rom name="Sewer Doc Disk 06 (19xx)(Sewersoft).st" size="737280" crc="c65f94d6" md5="685a197e5fdc6f7989522d6689be31f5" sha1="2a60f4e4098bc9cd5e88588d5b4e9d4458bd2107"/>
+	</game>
+	<game name="Sewer Doc Disk 06 (19xx)(Sewersoft)[a2]">
+		<description>Sewer Doc Disk 06 (19xx)(Sewersoft)[a2]</description>
+		<rom name="Sewer Doc Disk 06 (19xx)(Sewersoft)[a2].st" size="737280" crc="845a0b22" md5="8ef2f3ddd90b0c2835cc61caaf5fa419" sha1="a3a6971f7e3b3052e5cb7ae26084199a89f5ee1c"/>
+	</game>
+	<game name="Sewer Doc Disk 06 (19xx)(Sewersoft)[a3]">
+		<description>Sewer Doc Disk 06 (19xx)(Sewersoft)[a3]</description>
+		<rom name="Sewer Doc Disk 06 (19xx)(Sewersoft)[a3].st" size="737280" crc="49ffcc0a" md5="9b6cca913120919c812934c30ec78d29" sha1="7deb80e1bd8b849eb712f14290189454d95082b0"/>
+	</game>
+	<game name="Sewer Doc Disk 06 (19xx)(Sewersoft)[a]">
+		<description>Sewer Doc Disk 06 (19xx)(Sewersoft)[a]</description>
+		<rom name="Sewer Doc Disk 06 (19xx)(Sewersoft)[a].st" size="737280" crc="928bbdc9" md5="b488dbad57368a392a4db67cf494fc02" sha1="517d90e932fa7c364e4ad4bc8d808726d0d001b2"/>
+	</game>
+	<game name="Sewer Doc Disk 07 (19xx)(Sewersoft)">
+		<description>Sewer Doc Disk 07 (19xx)(Sewersoft)</description>
+		<rom name="Sewer Doc Disk 07 (19xx)(Sewersoft).st" size="737280" crc="21bf000e" md5="bf329b1b3cf5e330e81b6d0f3f13b639" sha1="9f320d1eca5b743f9a150a87b379b03ae02c024b"/>
+	</game>
+	<game name="Sewer Doc Disk 07 (19xx)(Sewersoft)[a2]">
+		<description>Sewer Doc Disk 07 (19xx)(Sewersoft)[a2]</description>
+		<rom name="Sewer Doc Disk 07 (19xx)(Sewersoft)[a2].st" size="737280" crc="77cfd106" md5="5e3a7be1d868d7f6d8f3c58e4221ea49" sha1="e065581f60eaa792a1a57a2ca1b5b75df56bbdaa"/>
+	</game>
+	<game name="Sewer Doc Disk 07 (19xx)(Sewersoft)[a]">
+		<description>Sewer Doc Disk 07 (19xx)(Sewersoft)[a]</description>
+		<rom name="Sewer Doc Disk 07 (19xx)(Sewersoft)[a].st" size="737280" crc="4450428b" md5="87bae147373da6fa075e3ff0489fb00c" sha1="78fce16616d28e4a0167920022e3ad070455e98f"/>
+	</game>
+	<game name="Sewer Doc Disk 08 (19xx)(Sewersoft)">
+		<description>Sewer Doc Disk 08 (19xx)(Sewersoft)</description>
+		<rom name="Sewer Doc Disk 08 (19xx)(Sewersoft).st" size="737280" crc="4b05cd6c" md5="326ebfbae81a31806cf536a3bfaea64e" sha1="9bebe5c08da93fb89e29962cbb093cf073e8628e"/>
+	</game>
+	<game name="Sewer Doc Disk 08 (19xx)(Sewersoft)[a2]">
+		<description>Sewer Doc Disk 08 (19xx)(Sewersoft)[a2]</description>
+		<rom name="Sewer Doc Disk 08 (19xx)(Sewersoft)[a2].st" size="737280" crc="2681bfd2" md5="bf600936e4245eddca3e62c436e3af63" sha1="2db8273dfc2151cab60307f4d7dbbf8fd9803632"/>
+	</game>
+	<game name="Sewer Doc Disk 08 (19xx)(Sewersoft)[a]">
+		<description>Sewer Doc Disk 08 (19xx)(Sewersoft)[a]</description>
+		<rom name="Sewer Doc Disk 08 (19xx)(Sewersoft)[a].st" size="737280" crc="48721e89" md5="a25f5491a9ba0707c5c7bf1f58170fb1" sha1="44887716bc8cf4ecb74137b3e9395046354ce2ef"/>
+	</game>
+	<game name="Sewer Doc Disk 09 (19xx)(Sewersoft)">
+		<description>Sewer Doc Disk 09 (19xx)(Sewersoft)</description>
+		<rom name="Sewer Doc Disk 09 (19xx)(Sewersoft).st" size="737280" crc="00243739" md5="6312726672240cf9119ddcef4ed4da38" sha1="570e034843a63dffed1015773f7fa6bff0de8c3e"/>
+	</game>
+	<game name="Sewer Doc Disk 09 (19xx)(Sewersoft)[a2]">
+		<description>Sewer Doc Disk 09 (19xx)(Sewersoft)[a2]</description>
+		<rom name="Sewer Doc Disk 09 (19xx)(Sewersoft)[a2].st" size="737280" crc="d6350754" md5="2a10d043f6d58ec01dd1074a8d352450" sha1="e4db5d58c0f282f1cadaa7c3ee864c7d21e25663"/>
+	</game>
+	<game name="Sewer Doc Disk 09 (19xx)(Sewersoft)[a]">
+		<description>Sewer Doc Disk 09 (19xx)(Sewersoft)[a]</description>
+		<rom name="Sewer Doc Disk 09 (19xx)(Sewersoft)[a].st" size="737280" crc="fcaee36b" md5="ee8ec7fe04bd92be00ca893b999184f9" sha1="6a2cf1328524ccdba71b182c35115a8a0977d5e0"/>
+	</game>
+	<game name="Sewer Doc Disk 10 (19xx)(Sewersoft)">
+		<description>Sewer Doc Disk 10 (19xx)(Sewersoft)</description>
+		<rom name="Sewer Doc Disk 10 (19xx)(Sewersoft).st" size="737280" crc="40ad43c0" md5="71f119ab3738945843988c8d3569d8aa" sha1="419f65682fe97dd06bc4a82159540c657e1ce92c"/>
+	</game>
+	<game name="Sewer Doc Disk 10 (19xx)(Sewersoft)[a2]">
+		<description>Sewer Doc Disk 10 (19xx)(Sewersoft)[a2]</description>
+		<rom name="Sewer Doc Disk 10 (19xx)(Sewersoft)[a2].st" size="737280" crc="9e3f17fd" md5="2422a3053b990583788602b89104c2c9" sha1="566c993fb12d376ed0c31c2fa0d91791eb04a6d7"/>
+	</game>
+	<game name="Sewer Doc Disk 10 (19xx)(Sewersoft)[a]">
+		<description>Sewer Doc Disk 10 (19xx)(Sewersoft)[a]</description>
+		<rom name="Sewer Doc Disk 10 (19xx)(Sewersoft)[a].st" size="737280" crc="eb9874e4" md5="8eeb9beab08a016af2f7603584a0bcf1" sha1="5407968451f8a4474288c2e899db529502971502"/>
+	</game>
+	<game name="Sewer Doc Disk 11 (19xx)(Sewersoft)">
+		<description>Sewer Doc Disk 11 (19xx)(Sewersoft)</description>
+		<rom name="Sewer Doc Disk 11 (19xx)(Sewersoft).st" size="737280" crc="df476cee" md5="3fa354725b26dd85f1869d722378803e" sha1="f7e6d5dc481068ea62e59a78763801614f83095a"/>
+	</game>
+	<game name="Sewer Doc Disk 11 (19xx)(Sewersoft)[a2]">
+		<description>Sewer Doc Disk 11 (19xx)(Sewersoft)[a2]</description>
+		<rom name="Sewer Doc Disk 11 (19xx)(Sewersoft)[a2].st" size="737280" crc="bce79fc2" md5="f290237a107ef9fa396bd3ff4a25a1a8" sha1="48564a276dc1fa4b908297e5ca6ca9de0e871ff8"/>
+	</game>
+	<game name="Sewer Doc Disk 11 (19xx)(Sewersoft)[a]">
+		<description>Sewer Doc Disk 11 (19xx)(Sewersoft)[a]</description>
+		<rom name="Sewer Doc Disk 11 (19xx)(Sewersoft)[a].st" size="737280" crc="2e0542df" md5="9313450cf445f7f42fa243c38c55db39" sha1="2c21116768ebc446a5c4868570d691e36b0b2ee4"/>
+	</game>
+	<game name="Sewer Doc Disk 12 (19xx)(Sewersoft)">
+		<description>Sewer Doc Disk 12 (19xx)(Sewersoft)</description>
+		<rom name="Sewer Doc Disk 12 (19xx)(Sewersoft).st" size="737280" crc="d498b08e" md5="956bc40c749428d93fb2faf687a7e2fc" sha1="17f7beec35c37c9579cc4ade5d66073be9421c03"/>
+	</game>
+	<game name="Sewer Doc Disk 12 (19xx)(Sewersoft)[a2]">
+		<description>Sewer Doc Disk 12 (19xx)(Sewersoft)[a2]</description>
+		<rom name="Sewer Doc Disk 12 (19xx)(Sewersoft)[a2].st" size="737280" crc="4d24871f" md5="ff7b0905949d2d132945edd047821aa5" sha1="e65f7cec985ba894ad69818bac4cf4d21e07bd98"/>
+	</game>
+	<game name="Sewer Doc Disk 12 (19xx)(Sewersoft)[a]">
+		<description>Sewer Doc Disk 12 (19xx)(Sewersoft)[a]</description>
+		<rom name="Sewer Doc Disk 12 (19xx)(Sewersoft)[a].st" size="737280" crc="a71bc9e0" md5="b0044632625b42857f5efe92efd4f9e0" sha1="3fafce01279d39f86c19bfdb688bc3edccd0b4eb"/>
+	</game>
+	<game name="Sewer Doc Disk 13 (19xx)(Sewersoft)">
+		<description>Sewer Doc Disk 13 (19xx)(Sewersoft)</description>
+		<rom name="Sewer Doc Disk 13 (19xx)(Sewersoft).st" size="737280" crc="38b616c0" md5="9a372414ebecb78696c08a2a12d95a58" sha1="ac8c1068b8901b23c2582cafb1ee6b19b819387f"/>
+	</game>
+	<game name="Sewer Doc Disk 13 (19xx)(Sewersoft)[a2]">
+		<description>Sewer Doc Disk 13 (19xx)(Sewersoft)[a2]</description>
+		<rom name="Sewer Doc Disk 13 (19xx)(Sewersoft)[a2].st" size="737280" crc="71bdf289" md5="06e41d5940faffc21300ac857e6c3552" sha1="ef60318bf1ee739b6f20d0518b869d0d7884c744"/>
+	</game>
+	<game name="Sewer Doc Disk 13 (19xx)(Sewersoft)[a]">
+		<description>Sewer Doc Disk 13 (19xx)(Sewersoft)[a]</description>
+		<rom name="Sewer Doc Disk 13 (19xx)(Sewersoft)[a].st" size="737280" crc="ebc1426a" md5="dc54647ea6ae39cd30d142b9b408ec6b" sha1="a11945d93ac7f8d74fce57c089fb6b2339ad8db3"/>
+	</game>
+	<game name="Sewer Doc Disk 14 (19xx)(Sewersoft)">
+		<description>Sewer Doc Disk 14 (19xx)(Sewersoft)</description>
+		<rom name="Sewer Doc Disk 14 (19xx)(Sewersoft).st" size="737280" crc="10c104b2" md5="b993ce254e56ad75b88c8d3ce8d475b3" sha1="4713c02dfe287bf062829d86119bec574ce5aaa3"/>
+	</game>
+	<game name="Sewer Doc Disk 14 (19xx)(Sewersoft)[a2]">
+		<description>Sewer Doc Disk 14 (19xx)(Sewersoft)[a2]</description>
+		<rom name="Sewer Doc Disk 14 (19xx)(Sewersoft)[a2].st" size="737280" crc="5ad4b74c" md5="1b17e51c1b15af300b740ffa50cbb249" sha1="29b4fbc883534f4c70b9de09293f6a2893fa21ca"/>
+	</game>
+	<game name="Sewer Doc Disk 14 (19xx)(Sewersoft)[a]">
+		<description>Sewer Doc Disk 14 (19xx)(Sewersoft)[a]</description>
+		<rom name="Sewer Doc Disk 14 (19xx)(Sewersoft)[a].st" size="737280" crc="bc94e95b" md5="a64184829a309ad527708b13dc9e98e1" sha1="af702c0b3df02a3dc3042998d6e51e7933f7b06e"/>
+	</game>
+	<game name="Sewer Doc Disk 15 (19xx)(Sewersoft)">
+		<description>Sewer Doc Disk 15 (19xx)(Sewersoft)</description>
+		<rom name="Sewer Doc Disk 15 (19xx)(Sewersoft).st" size="819200" crc="0795e7c5" md5="aae42c17788869b529ca0b290d5a10c9" sha1="28005bec0081686e542b0f78868c7a12ae941c82"/>
+	</game>
+	<game name="Sewer Doc Disk 15 (19xx)(Sewersoft)[a2]">
+		<description>Sewer Doc Disk 15 (19xx)(Sewersoft)[a2]</description>
+		<rom name="Sewer Doc Disk 15 (19xx)(Sewersoft)[a2].st" size="819200" crc="206acd7a" md5="5fafeb814ceff5defc0a68a43b81cac4" sha1="253fac8e2bc544eb9efbfb1d9794c16248f79992"/>
+	</game>
+	<game name="Sewer Doc Disk 15 (19xx)(Sewersoft)[a]">
+		<description>Sewer Doc Disk 15 (19xx)(Sewersoft)[a]</description>
+		<rom name="Sewer Doc Disk 15 (19xx)(Sewersoft)[a].st" size="819200" crc="55a94bf9" md5="3e8c84a0c7be694c58cbb29a96c51a3f" sha1="df7d9be4f07148686a09145258042a4ceb49bb16"/>
+	</game>
+	<game name="Sewer Doc Disk 16 (19xx)(Sewersoft)">
+		<description>Sewer Doc Disk 16 (19xx)(Sewersoft)</description>
+		<rom name="Sewer Doc Disk 16 (19xx)(Sewersoft).st" size="829440" crc="8e8f44ba" md5="fed5df104f43d7a87396950265695f1c" sha1="469da15f1b9dfb6bda4863eb6800498c9dcd9364"/>
+	</game>
+	<game name="Sewer Doc Disk 16 (19xx)(Sewersoft)[a2]">
+		<description>Sewer Doc Disk 16 (19xx)(Sewersoft)[a2]</description>
+		<rom name="Sewer Doc Disk 16 (19xx)(Sewersoft)[a2].st" size="829440" crc="87cde40a" md5="347a0f807eb1d70eb0b7deedb82c51d7" sha1="b36d015f20cd1557083a319944bce6982c1b0e46"/>
+	</game>
+	<game name="Sewer Doc Disk 16 (19xx)(Sewersoft)[a]">
+		<description>Sewer Doc Disk 16 (19xx)(Sewersoft)[a]</description>
+		<rom name="Sewer Doc Disk 16 (19xx)(Sewersoft)[a].st" size="829440" crc="5b1cc6b7" md5="6bcab9affe60b31866c38b511b6a0429" sha1="990a0ce8fd7d02de0a412707f5634b880a210a3a"/>
+	</game>
+	<game name="Sewer Doc Disk 17 (19xx)(Sewersoft)">
+		<description>Sewer Doc Disk 17 (19xx)(Sewersoft)</description>
+		<rom name="Sewer Doc Disk 17 (19xx)(Sewersoft).st" size="829440" crc="ef06c76e" md5="1d04b42641de56c45f2ac6056fc13eba" sha1="8b0a11d4b72979b44a2863006bde3c4d1be999d1"/>
+	</game>
+	<game name="Sewer Doc Disk 17 (19xx)(Sewersoft)[a2]">
+		<description>Sewer Doc Disk 17 (19xx)(Sewersoft)[a2]</description>
+		<rom name="Sewer Doc Disk 17 (19xx)(Sewersoft)[a2].st" size="829440" crc="733edef1" md5="5dae5ef96c0e074608308ef1b3c85583" sha1="677664ef774ee8cf14cc9ea42b04778b1823d7d9"/>
+	</game>
+	<game name="Sewer Doc Disk 17 (19xx)(Sewersoft)[a]">
+		<description>Sewer Doc Disk 17 (19xx)(Sewersoft)[a]</description>
+		<rom name="Sewer Doc Disk 17 (19xx)(Sewersoft)[a].st" size="829440" crc="028da134" md5="27ce14445370260089d08ba1e7d83135" sha1="0e4bb01d358a655b431c505646471523b9c8bfd0"/>
+	</game>
+	<game name="Sewer Doc Disk 18 (19xx)(Sewersoft)">
+		<description>Sewer Doc Disk 18 (19xx)(Sewersoft)</description>
+		<rom name="Sewer Doc Disk 18 (19xx)(Sewersoft).st" size="839680" crc="b16871f2" md5="bde8a6a53b0ce95d7fc1b352ccf2e41b" sha1="41c149e56df18ed10c5b9a5158eaf7bfe8f43f9f"/>
+	</game>
+	<game name="Sewer Doc Disk 18 (19xx)(Sewersoft)[a2]">
+		<description>Sewer Doc Disk 18 (19xx)(Sewersoft)[a2]</description>
+		<rom name="Sewer Doc Disk 18 (19xx)(Sewersoft)[a2].st" size="849920" crc="f958b02c" md5="dc7bb249d38d5ebb043b478199c15b55" sha1="805e54bf7795d47c0f0c0f45568f958e30a35700"/>
+	</game>
+	<game name="Sewer Doc Disk 18 (19xx)(Sewersoft)[a3]">
+		<description>Sewer Doc Disk 18 (19xx)(Sewersoft)[a3]</description>
+		<rom name="Sewer Doc Disk 18 (19xx)(Sewersoft)[a3].st" size="839680" crc="fa7a0226" md5="a870285d41342b5710fdd5c903ccd0c0" sha1="809406d67a7615b17a406018d366775c33451bcb"/>
+	</game>
+	<game name="Sewer Doc Disk 18 (19xx)(Sewersoft)[a]">
+		<description>Sewer Doc Disk 18 (19xx)(Sewersoft)[a]</description>
+		<rom name="Sewer Doc Disk 18 (19xx)(Sewersoft)[a].st" size="839680" crc="52ee9b59" md5="0030ac4b57103be329829786f2fdef56" sha1="231db79399e58494077d9eeba00d550f7364c54f"/>
+	</game>
+	<game name="Sewer Doc Disk 19 (19xx)(Sewersoft)">
+		<description>Sewer Doc Disk 19 (19xx)(Sewersoft)</description>
+		<rom name="Sewer Doc Disk 19 (19xx)(Sewersoft).st" size="839680" crc="510ddd12" md5="0774186a14b3925159548c71db1ce3e7" sha1="dbbc8f877c17d8376616bec5c349b8d542ac6598"/>
+	</game>
+	<game name="Sewer Doc Disk 19 (19xx)(Sewersoft)[a2]">
+		<description>Sewer Doc Disk 19 (19xx)(Sewersoft)[a2]</description>
+		<rom name="Sewer Doc Disk 19 (19xx)(Sewersoft)[a2].st" size="839680" crc="4df9900e" md5="f64b3c4a1572e677ff22c589b84283e3" sha1="dbab4a17e12cf798b9cf1e83b5ecc830bc6e9ac3"/>
+	</game>
+	<game name="Sewer Doc Disk 19 (19xx)(Sewersoft)[a]">
+		<description>Sewer Doc Disk 19 (19xx)(Sewersoft)[a]</description>
+		<rom name="Sewer Doc Disk 19 (19xx)(Sewersoft)[a].st" size="839680" crc="364d6960" md5="63a03179b5d186614f73e5224f55f6f7" sha1="7d161c283765b89521ec1e570666382957963983"/>
+	</game>
+	<game name="Sewer Doc Disk 20 (19xx)(Sewersoft)">
+		<description>Sewer Doc Disk 20 (19xx)(Sewersoft)</description>
+		<rom name="Sewer Doc Disk 20 (19xx)(Sewersoft).st" size="839680" crc="fe2f8df7" md5="0dd5ce367cc9d658d208d8c732145f80" sha1="1772bd7ee41a31e7ccc7d59d0625289bf6265830"/>
+	</game>
+	<game name="Sewer Doc Disk 20 (19xx)(Sewersoft)[a2]">
+		<description>Sewer Doc Disk 20 (19xx)(Sewersoft)[a2]</description>
+		<rom name="Sewer Doc Disk 20 (19xx)(Sewersoft)[a2].st" size="839680" crc="d1a1f747" md5="c5ad024973116dc9bcc0f3e44563b5fd" sha1="d4a20bcae2d9e7afb0439e5213d164286a5c82be"/>
+	</game>
+	<game name="Sewer Doc Disk 20 (19xx)(Sewersoft)[a]">
+		<description>Sewer Doc Disk 20 (19xx)(Sewersoft)[a]</description>
+		<rom name="Sewer Doc Disk 20 (19xx)(Sewersoft)[a].st" size="839680" crc="1c60a2ac" md5="acbe4387360543fa13c389855ec35450" sha1="9891f247926a28c6461e7fd66f9871915acac9f3"/>
+	</game>
+	<game name="Sewer Doc Disk 21 (19xx)(Sewersoft)">
+		<description>Sewer Doc Disk 21 (19xx)(Sewersoft)</description>
+		<rom name="Sewer Doc Disk 21 (19xx)(Sewersoft).st" size="839680" crc="de886431" md5="cc2f2267f2bf5be367af5a77908a1541" sha1="1b7caf0107e81d1df3edb4dedf926ef6310a7309"/>
+	</game>
+	<game name="Sewer Doc Disk 21 (19xx)(Sewersoft)[a2]">
+		<description>Sewer Doc Disk 21 (19xx)(Sewersoft)[a2]</description>
+		<rom name="Sewer Doc Disk 21 (19xx)(Sewersoft)[a2].st" size="839680" crc="4220c88d" md5="c5d6618f3dd27eb60c87bb1ca8dd4641" sha1="7468d1ddc38948125a70aa7033355cf4b4b0bfee"/>
+	</game>
+	<game name="Sewer Doc Disk 21 (19xx)(Sewersoft)[a]">
+		<description>Sewer Doc Disk 21 (19xx)(Sewersoft)[a]</description>
+		<rom name="Sewer Doc Disk 21 (19xx)(Sewersoft)[a].st" size="839680" crc="e8eec215" md5="d2d1d7af109822c5212804ce84be860b" sha1="3300aa303915e618f941ff3ef2c2719140cc5911"/>
+	</game>
+	<game name="Sewer Doc Disk 22 (19xx)(Sewersoft)">
+		<description>Sewer Doc Disk 22 (19xx)(Sewersoft)</description>
+		<rom name="Sewer Doc Disk 22 (19xx)(Sewersoft).st" size="839680" crc="1b641c54" md5="345d78463930e4455e02fa486cb07978" sha1="40fd32f85e3dddf9bbe02e032028e35429a7250e"/>
+	</game>
+	<game name="Sewer Doc Disk 22 (19xx)(Sewersoft)[a2]">
+		<description>Sewer Doc Disk 22 (19xx)(Sewersoft)[a2]</description>
+		<rom name="Sewer Doc Disk 22 (19xx)(Sewersoft)[a2].st" size="839680" crc="0c5938fa" md5="c25623d2a7908172f59eb31f5a8db6a5" sha1="7b58540d3f5d64b297544ee54eec140d88bdad95"/>
+	</game>
+	<game name="Sewer Doc Disk 22 (19xx)(Sewersoft)[a]">
+		<description>Sewer Doc Disk 22 (19xx)(Sewersoft)[a]</description>
+		<rom name="Sewer Doc Disk 22 (19xx)(Sewersoft)[a].st" size="839680" crc="b8916d6c" md5="3e35c42874627000413b9d2f26edd829" sha1="848dcb41d2fadc2eb8faaddb2688cb544d40aada"/>
+	</game>
+	<game name="Sewer Doc Disk 23 (19xx)(Sewersoft)">
+		<description>Sewer Doc Disk 23 (19xx)(Sewersoft)</description>
+		<rom name="Sewer Doc Disk 23 (19xx)(Sewersoft).st" size="839680" crc="180383ba" md5="a8342c66332961114ef08ef2a0a6aa64" sha1="005406c92936183eebf4937361c770684430465f"/>
+	</game>
+	<game name="Sewer Doc Disk 23 (19xx)(Sewersoft)[a2]">
+		<description>Sewer Doc Disk 23 (19xx)(Sewersoft)[a2]</description>
+		<rom name="Sewer Doc Disk 23 (19xx)(Sewersoft)[a2].st" size="839680" crc="778ac5c7" md5="397dabaa2eae83374780e5f004fbd945" sha1="cf8b726c9922823a3ebe7c3d4d77bac09348c07f"/>
+	</game>
+	<game name="Sewer Doc Disk 23 (19xx)(Sewersoft)[a]">
+		<description>Sewer Doc Disk 23 (19xx)(Sewersoft)[a]</description>
+		<rom name="Sewer Doc Disk 23 (19xx)(Sewersoft)[a].st" size="839680" crc="95520703" md5="9ac4ce620c4edafc9cdb633a2976df74" sha1="8424ddb71fa4091d11b290153e39414c5ec50f9d"/>
+	</game>
+	<game name="Sewer Doc Disk 24 (19xx)(Sewersoft)">
+		<description>Sewer Doc Disk 24 (19xx)(Sewersoft)</description>
+		<rom name="Sewer Doc Disk 24 (19xx)(Sewersoft).st" size="839680" crc="b3b3f0c7" md5="08aedbf18936bf582c0f03ba908ea047" sha1="216f87a277f0222392c5f694c7bab7c116972860"/>
+	</game>
+	<game name="Sewer Doc Disk 24 (19xx)(Sewersoft)[a2]">
+		<description>Sewer Doc Disk 24 (19xx)(Sewersoft)[a2]</description>
+		<rom name="Sewer Doc Disk 24 (19xx)(Sewersoft)[a2].st" size="839680" crc="d8cf88ee" md5="2cb2be1a52294dffd93e0ccb5e6a5a51" sha1="3d2b5096569ac84021c38eab497bbebb206ed05b"/>
+	</game>
+	<game name="Sewer Doc Disk 24 (19xx)(Sewersoft)[a]">
+		<description>Sewer Doc Disk 24 (19xx)(Sewersoft)[a]</description>
+		<rom name="Sewer Doc Disk 24 (19xx)(Sewersoft)[a].st" size="839680" crc="23ca9606" md5="3439eab6ef1a4036b740a52db184c595" sha1="25c14cd6bb65779049a1d0bc1a9e45e2181795f0"/>
+	</game>
+	<game name="Sewer Doc Disk 25 (19xx)(Sewersoft)">
+		<description>Sewer Doc Disk 25 (19xx)(Sewersoft)</description>
+		<rom name="Sewer Doc Disk 25 (19xx)(Sewersoft).st" size="839680" crc="30fa0287" md5="9108342171df5a5d6200126f70da9ee6" sha1="d1bfac91c9c714409792df3cd93eb39255dd9a1f"/>
+	</game>
+	<game name="Sewer Doc Disk 25 (19xx)(Sewersoft)[a2]">
+		<description>Sewer Doc Disk 25 (19xx)(Sewersoft)[a2]</description>
+		<rom name="Sewer Doc Disk 25 (19xx)(Sewersoft)[a2].st" size="839680" crc="8f898a20" md5="d6b6df1993e79e98d360fd8fab0fb685" sha1="05db0f25f299efdbf60eb7c456456b0ae95ddff3"/>
+	</game>
+	<game name="Sewer Doc Disk 25 (19xx)(Sewersoft)[a]">
+		<description>Sewer Doc Disk 25 (19xx)(Sewersoft)[a]</description>
+		<rom name="Sewer Doc Disk 25 (19xx)(Sewersoft)[a].st" size="839680" crc="51a9bc4f" md5="fa76f20b50e4ee0ccb70bc116cbf0108" sha1="ac458def9ed77427d8a2ddf3fd2a762c017278ff"/>
+	</game>
+	<game name="Sewer Doc Disk 26 (19xx)(Sewersoft)">
+		<description>Sewer Doc Disk 26 (19xx)(Sewersoft)</description>
+		<rom name="Sewer Doc Disk 26 (19xx)(Sewersoft).st" size="839680" crc="c779f259" md5="93ed18cc7fdc44a6e78e3476efa9989b" sha1="aa513ea9a7fa20b5287dc91c559346697a785d21"/>
+	</game>
+	<game name="Sewer Doc Disk 26 (19xx)(Sewersoft)[a2]">
+		<description>Sewer Doc Disk 26 (19xx)(Sewersoft)[a2]</description>
+		<rom name="Sewer Doc Disk 26 (19xx)(Sewersoft)[a2].st" size="839680" crc="f40e03f8" md5="bc95f98cde21bd3668ed89e1ce6bab50" sha1="6435d14e7a6e830412739e798c577ebe7e3fac09"/>
+	</game>
+	<game name="Sewer Doc Disk 26 (19xx)(Sewersoft)[a]">
+		<description>Sewer Doc Disk 26 (19xx)(Sewersoft)[a]</description>
+		<rom name="Sewer Doc Disk 26 (19xx)(Sewersoft)[a].st" size="839680" crc="eb25867e" md5="22c096c84116fc2f26e492f0f3222145" sha1="3cccc8fe96d0740226f35d0ae995fa706d8c68a3"/>
+	</game>
+	<game name="Sewer Doc Disk 27 (19xx)(Sewersoft)">
+		<description>Sewer Doc Disk 27 (19xx)(Sewersoft)</description>
+		<rom name="Sewer Doc Disk 27 (19xx)(Sewersoft).st" size="839680" crc="2ee591b6" md5="66427f98d79a1fe7426be49fd4886740" sha1="ee4a3ee64a2206b3e91a4bb17f4f456244092dd5"/>
+	</game>
+	<game name="Sewer Doc Disk 27 (19xx)(Sewersoft)[a2]">
+		<description>Sewer Doc Disk 27 (19xx)(Sewersoft)[a2]</description>
+		<rom name="Sewer Doc Disk 27 (19xx)(Sewersoft)[a2].st" size="839680" crc="998abe42" md5="3bb7d6d590224764358e983e7f400034" sha1="35b6ca87faeb75528e3733c401c34602c428fabd"/>
+	</game>
+	<game name="Sewer Doc Disk 27 (19xx)(Sewersoft)[a]">
+		<description>Sewer Doc Disk 27 (19xx)(Sewersoft)[a]</description>
+		<rom name="Sewer Doc Disk 27 (19xx)(Sewersoft)[a].st" size="839680" crc="9d71cd15" md5="047cf6ad082a59ad96ccca8936f08557" sha1="50e3e66c4a2639f1c8f721fa134d67e7c68039fb"/>
+	</game>
+	<game name="Sewer Doc Disk 28 (19xx)(Sewersoft)">
+		<description>Sewer Doc Disk 28 (19xx)(Sewersoft)</description>
+		<rom name="Sewer Doc Disk 28 (19xx)(Sewersoft).st" size="737280" crc="76fa55e4" md5="7b6453cfd5792d441f06545f510ac5b0" sha1="5a47ccada908c7e9070fce85d9196964307404c1"/>
+	</game>
+	<game name="Sewer Doc Disk 28 (19xx)(Sewersoft)[a2]">
+		<description>Sewer Doc Disk 28 (19xx)(Sewersoft)[a2]</description>
+		<rom name="Sewer Doc Disk 28 (19xx)(Sewersoft)[a2].st" size="737280" crc="885821db" md5="43df1e6035921dd66ab33888e6a8a69c" sha1="f10ad4f326cc29004a3fccf397b092a1eff7e110"/>
+	</game>
+	<game name="Sewer Doc Disk 28 (19xx)(Sewersoft)[a]">
+		<description>Sewer Doc Disk 28 (19xx)(Sewersoft)[a]</description>
+		<rom name="Sewer Doc Disk 28 (19xx)(Sewersoft)[a].st" size="755712" crc="eb416b21" md5="f2184e161ebec2569f96e8715420433c" sha1="73b8adc45a20c761941aa9fe30b7011f3559d186"/>
+	</game>
+	<game name="Sewer Doc Disk 29 (19xx)(Sewersoft)">
+		<description>Sewer Doc Disk 29 (19xx)(Sewersoft)</description>
+		<rom name="Sewer Doc Disk 29 (19xx)(Sewersoft).st" size="737280" crc="eace477b" md5="60fb82fc567606888383f4b523396f5d" sha1="4543a85086cfa25abcca5d3c426c1c26684819ab"/>
+	</game>
+	<game name="Sewer Doc Disk 29 (19xx)(Sewersoft)[a2]">
+		<description>Sewer Doc Disk 29 (19xx)(Sewersoft)[a2]</description>
+		<rom name="Sewer Doc Disk 29 (19xx)(Sewersoft)[a2].st" size="737280" crc="e3d02337" md5="aef9127465477db2b6bfa0281abd0f8a" sha1="82f4f1adec2fb76aef4ff48850a57dcbb6a97865"/>
+	</game>
+	<game name="Sewer Doc Disk 29 (19xx)(Sewersoft)[a]">
+		<description>Sewer Doc Disk 29 (19xx)(Sewersoft)[a]</description>
+		<rom name="Sewer Doc Disk 29 (19xx)(Sewersoft)[a].st" size="737280" crc="2d9dc637" md5="0007cb89faf360c0649406d76948ee3e" sha1="103abae9b8842e12277f98ff7d45ac0c4f8df042"/>
+	</game>
+	<game name="Sewer Doc Disk 30 (19xx)(Sewersoft)">
+		<description>Sewer Doc Disk 30 (19xx)(Sewersoft)</description>
+		<rom name="Sewer Doc Disk 30 (19xx)(Sewersoft).st" size="737280" crc="04da351c" md5="f7df3d70384daa95aee127de987fc486" sha1="5551c89fe042d820f2ca1b8c4b18e8ace4e42fd8"/>
+	</game>
+	<game name="Sewer Doc Disk 30 (19xx)(Sewersoft)[a2]">
+		<description>Sewer Doc Disk 30 (19xx)(Sewersoft)[a2]</description>
+		<rom name="Sewer Doc Disk 30 (19xx)(Sewersoft)[a2].st" size="839680" crc="6c26c5f2" md5="8ce4c402946829a1228eb1567e997faf" sha1="8bff52850aa4e55e74743b1a5bef8ca71bc0cad2"/>
+	</game>
+	<game name="Sewer Doc Disk 30 (19xx)(Sewersoft)[a]">
+		<description>Sewer Doc Disk 30 (19xx)(Sewersoft)[a]</description>
+		<rom name="Sewer Doc Disk 30 (19xx)(Sewersoft)[a].st" size="737280" crc="7b0e0029" md5="285d2274518cb1c198786a6807ec8dca" sha1="52b8d7c485e0b1e50cc62411a9b73edeb1805988"/>
+	</game>
+	<game name="Sewer Doc Disk 30 (19xx)(Sewersoft)[b]">
+		<description>Sewer Doc Disk 30 (19xx)(Sewersoft)[b]</description>
+		<rom name="Sewer Doc Disk 30 (19xx)(Sewersoft)[b].st" size="737280" crc="e15aa7c4" md5="fb9fa0a620844768310e8a4780964878" sha1="57aa490ceeb7b7487892a0152092fb95cbc2cb0e"/>
+	</game>
+	<game name="Sewer Doc Disk 31 (19xx)(Sewersoft)">
+		<description>Sewer Doc Disk 31 (19xx)(Sewersoft)</description>
+		<rom name="Sewer Doc Disk 31 (19xx)(Sewersoft).st" size="737280" crc="b15fcb15" md5="b979267a18e8628ff36ad86dcc82a6c2" sha1="30be683435a18ac365e8928655a7c8ff2d4bd144"/>
+	</game>
+	<game name="Sewer Doc Disk 31 (19xx)(Sewersoft)[a2]">
+		<description>Sewer Doc Disk 31 (19xx)(Sewersoft)[a2]</description>
+		<rom name="Sewer Doc Disk 31 (19xx)(Sewersoft)[a2].st" size="839680" crc="ae156885" md5="4b88a1d6642ca2eb56c8bafb82c27bda" sha1="9ddc39db81d1f7916ee8bce03a21603ad1ba466f"/>
+	</game>
+	<game name="Sewer Doc Disk 31 (19xx)(Sewersoft)[a]">
+		<description>Sewer Doc Disk 31 (19xx)(Sewersoft)[a]</description>
+		<rom name="Sewer Doc Disk 31 (19xx)(Sewersoft)[a].st" size="737280" crc="5b8192a0" md5="3033b964dce6960552ae4665a04f4469" sha1="407e64cb355399e6ce79360d2ce7dd698a8760a9"/>
+	</game>
+	<game name="Sewer Doc Disk 32 (19xx)(Sewersoft)">
+		<description>Sewer Doc Disk 32 (19xx)(Sewersoft)</description>
+		<rom name="Sewer Doc Disk 32 (19xx)(Sewersoft).st" size="737280" crc="fc4d4603" md5="9ebe2021395b0864cfac02e5889ef91f" sha1="c993c1aac6b7da70b7d2b4241295fead6801afb8"/>
+	</game>
+	<game name="Sewer Doc Disk 32 (19xx)(Sewersoft)[a]">
+		<description>Sewer Doc Disk 32 (19xx)(Sewersoft)[a]</description>
+		<rom name="Sewer Doc Disk 32 (19xx)(Sewersoft)[a].st" size="737280" crc="93cef452" md5="2e2fbec90e48f2e65c2a494d5a4dbec8" sha1="01c149a247746460c1f9a3d4c1b88fd381133860"/>
+	</game>
+	<game name="Sewer Doc Disk 33 (19xx)(Sewersoft)">
+		<description>Sewer Doc Disk 33 (19xx)(Sewersoft)</description>
+		<rom name="Sewer Doc Disk 33 (19xx)(Sewersoft).st" size="829440" crc="cc0cc578" md5="461967af64103dd3239ff6ea52b1ff12" sha1="37672ede0a531292859334b9a710c01ad2491640"/>
+	</game>
+	<game name="Sewer Doc Disk 33 (19xx)(Sewersoft)[a]">
+		<description>Sewer Doc Disk 33 (19xx)(Sewersoft)[a]</description>
+		<rom name="Sewer Doc Disk 33 (19xx)(Sewersoft)[a].st" size="829440" crc="beb3e52a" md5="e2b6a120ee66e62a150274be8642c78d" sha1="fabbc8a0d2cf9a916cb1e3227f92a771227d48ea"/>
+	</game>
+	<game name="Sewer Doc Disk 34 (19xx)(Sewersoft)">
+		<description>Sewer Doc Disk 34 (19xx)(Sewersoft)</description>
+		<rom name="Sewer Doc Disk 34 (19xx)(Sewersoft).st" size="839680" crc="ebe5b264" md5="5b1d5c11c3e6ce7e17f6132d8abc3133" sha1="3badf489d119fc37f88f69c857365564fdb337ee"/>
+	</game>
+	<game name="Sewer Doc Disk 34 (19xx)(Sewersoft)[a]">
+		<description>Sewer Doc Disk 34 (19xx)(Sewersoft)[a]</description>
+		<rom name="Sewer Doc Disk 34 (19xx)(Sewersoft)[a].st" size="829440" crc="475cb484" md5="6170bd8adf35856e526063b4f10e1692" sha1="76260cc729c573243a918ce3854b3ee51f79de74"/>
+	</game>
+	<game name="Sewer Doc Disk 35 (19xx)(Sewersoft)">
+		<description>Sewer Doc Disk 35 (19xx)(Sewersoft)</description>
+		<rom name="Sewer Doc Disk 35 (19xx)(Sewersoft).st" size="839680" crc="0e4eef20" md5="06f19ace59bbbcf4741c6cd49c204648" sha1="70396aade0d9b0e8623795df58befd8148e1fdb5"/>
+	</game>
+	<game name="Sewer Doc Disk 35 (19xx)(Sewersoft)[a]">
+		<description>Sewer Doc Disk 35 (19xx)(Sewersoft)[a]</description>
+		<rom name="Sewer Doc Disk 35 (19xx)(Sewersoft)[a].st" size="829440" crc="9be2f548" md5="c9075993cd8af14a6ca1ea2cff12539d" sha1="d9949673864d7ea14e6bb02c739ff082f3d80e48"/>
+	</game>
+	<game name="Sewer Doc Disk 36 (19xx)(Sewersoft)">
+		<description>Sewer Doc Disk 36 (19xx)(Sewersoft)</description>
+		<rom name="Sewer Doc Disk 36 (19xx)(Sewersoft).st" size="839680" crc="cc884e88" md5="d351accfae0eaf5d4d708e413c512d51" sha1="b24c628f809d4f7658682a15365ca0b2a10e9f9d"/>
+	</game>
+	<game name="Sewer Doc Disk 36 (19xx)(Sewersoft)[a]">
+		<description>Sewer Doc Disk 36 (19xx)(Sewersoft)[a]</description>
+		<rom name="Sewer Doc Disk 36 (19xx)(Sewersoft)[a].st" size="829440" crc="3efd70c4" md5="d1717daf85aa26364bee9a93a48eb485" sha1="a90ca92bac503cfb8e70fa33cecaed54094254be"/>
+	</game>
+	<game name="Sewer Possums - Spaced Out Docs Disk (19xx)(Sewer Software)">
+		<description>Sewer Possums - Spaced Out Docs Disk (19xx)(Sewer Software)</description>
+		<rom name="Sewer Possums - Spaced Out Docs Disk (19xx)(Sewer Software).st" size="829440" crc="9446c8bc" md5="29ca9d4f38b3033b22ee00f5fcb54923" sha1="86b51e1e4cd54ff332f3cf944026989b96733836"/>
+	</game>
+	<game name="Sewer Possums - Spaced Out Docs Disk (19xx)(Sewer Software)[a2]">
+		<description>Sewer Possums - Spaced Out Docs Disk (19xx)(Sewer Software)[a2]</description>
+		<rom name="Sewer Possums - Spaced Out Docs Disk (19xx)(Sewer Software)[a2].st" size="829440" crc="6cd35d56" md5="a097a3a652c5d4234d95c60a96c1e6d1" sha1="d87f7b67eeff558d0a8356cecd06faf6c2066566"/>
+	</game>
+	<game name="Sewer Possums - Spaced Out Docs Disk (19xx)(Sewer Software)[a]">
+		<description>Sewer Possums - Spaced Out Docs Disk (19xx)(Sewer Software)[a]</description>
+		<rom name="Sewer Possums - Spaced Out Docs Disk (19xx)(Sewer Software)[a].st" size="829440" crc="a3bd3b03" md5="90d746f68fd3c53ee3d0edb340213e21" sha1="79a2b18fe5a1e9c9cc9f63c89938f4ff0e82052d"/>
+	</game>
+	<game name="Sewer Temporary Emergency Replacement Doc Disk 1 (19xx)(Sewer Software)">
+		<description>Sewer Temporary Emergency Replacement Doc Disk 1 (19xx)(Sewer Software)</description>
+		<rom name="Sewer Temporary Emergency Replacement Doc Disk 1 (19xx)(Sewer Software).st" size="839680" crc="4add2ffc" md5="ee91e5f5c97f3b8d149381a977c47d9e" sha1="70badd7d3d4555f299d80b578ed9ba5bffd47942"/>
+	</game>
+	<game name="Sewer Temporary Emergency Replacement Doc Disk 1 (19xx)(Sewer Software)[Docs depacked]">
+		<description>Sewer Temporary Emergency Replacement Doc Disk 1 (19xx)(Sewer Software)[Docs depacked]</description>
+		<rom name="Sewer Temporary Emergency Replacement Doc Disk 1 (19xx)(Sewer Software)[Docs depacked].st" size="1638400" crc="49b1b85d" md5="9e32687f828644bff376dc175be85e7a" sha1="8cd4de8ee9bf5f7a8f9e5338ef5de1473045b645"/>
+	</game>
+	<game name="Sewer Temporary Emergency Replacement Doc Disk 2 (19xx)(Sewer Software)">
+		<description>Sewer Temporary Emergency Replacement Doc Disk 2 (19xx)(Sewer Software)</description>
+		<rom name="Sewer Temporary Emergency Replacement Doc Disk 2 (19xx)(Sewer Software).st" size="839680" crc="bcf4a815" md5="39738b6e27e05045b4f2e405593ea8c6" sha1="9c0dba717618ab6db6b0b84c278755b163862339"/>
+	</game>
+	<game name="Sewer Temporary Emergency Replacement Doc Disk 2 (19xx)(Sewer Software)[a2]">
+		<description>Sewer Temporary Emergency Replacement Doc Disk 2 (19xx)(Sewer Software)[a2]</description>
+		<rom name="Sewer Temporary Emergency Replacement Doc Disk 2 (19xx)(Sewer Software)[a2].st" size="829440" crc="4b5da398" md5="3169f479068d1d4d4d0367319402b72c" sha1="8a5b37588c9cf74b73ae2208f96b88543ca22bf9"/>
+	</game>
+	<game name="Sewer Temporary Emergency Replacement Doc Disk 2 (19xx)(Sewer Software)[a]">
+		<description>Sewer Temporary Emergency Replacement Doc Disk 2 (19xx)(Sewer Software)[a]</description>
+		<rom name="Sewer Temporary Emergency Replacement Doc Disk 2 (19xx)(Sewer Software)[a].st" size="829440" crc="7a3bd955" md5="67c8876a12273065a47ca56541025476" sha1="e6ac3e0e5c1bf330e2ef1451ab154b3d52f0578b"/>
+	</game>
+	<game name="Sewer Temporary Emergency Replacement Doc Disk 2 (19xx)(Sewer Software)[Docs depacked]">
+		<description>Sewer Temporary Emergency Replacement Doc Disk 2 (19xx)(Sewer Software)[Docs depacked]</description>
+		<rom name="Sewer Temporary Emergency Replacement Doc Disk 2 (19xx)(Sewer Software)[Docs depacked].st" size="1474560" crc="851af366" md5="b8f53a42dda40e31dd690b431459db03" sha1="7b63f76767aeda1ef501dfb427916ae911e83a55"/>
+	</game>
+	<game name="Sewer Temporary Emergency Replacement Doc Disk 3 (19xx)(Sewer Software)">
+		<description>Sewer Temporary Emergency Replacement Doc Disk 3 (19xx)(Sewer Software)</description>
+		<rom name="Sewer Temporary Emergency Replacement Doc Disk 3 (19xx)(Sewer Software).st" size="829440" crc="df666cfe" md5="9776ce339eb6232f80b6eb417cd42857" sha1="cca24d637a7394a88a428193701d5708a52fa889"/>
+	</game>
+	<game name="Sewer Temporary Emergency Replacement Doc Disk 3 (19xx)(Sewer Software)[a]">
+		<description>Sewer Temporary Emergency Replacement Doc Disk 3 (19xx)(Sewer Software)[a]</description>
+		<rom name="Sewer Temporary Emergency Replacement Doc Disk 3 (19xx)(Sewer Software)[a].st" size="829440" crc="d6091c26" md5="af33db8119e84266b11f652335558aae" sha1="37f03bc2c8aef48957e8d1501a4c17b225752f28"/>
+	</game>
+	<game name="Sewer Temporary Emergency Replacement Doc Disk 3 (19xx)(Sewer Software)[Docs depacked]">
+		<description>Sewer Temporary Emergency Replacement Doc Disk 3 (19xx)(Sewer Software)[Docs depacked]</description>
+		<rom name="Sewer Temporary Emergency Replacement Doc Disk 3 (19xx)(Sewer Software)[Docs depacked].st" size="1614848" crc="891d9ecb" md5="b66f1e00488b2fd0bad87394afe5d7b1" sha1="f5427e3ca04aa0c5b9d31d0ce1eb3860bc6da7e9"/>
+	</game>
+	<game name="Sewer Temporary Emergency Replacement Doc Disk 4 (19xx)(Sewer Software)">
+		<description>Sewer Temporary Emergency Replacement Doc Disk 4 (19xx)(Sewer Software)</description>
+		<rom name="Sewer Temporary Emergency Replacement Doc Disk 4 (19xx)(Sewer Software).st" size="829440" crc="708626d7" md5="036ce90b255203d11535273cdbcf97c3" sha1="bdd81ffaa5bc0d3e1d31e32bc65562e6f8df322d"/>
+	</game>
+	<game name="Sewer Temporary Emergency Replacement Doc Disk 4 (19xx)(Sewer Software)[a]">
+		<description>Sewer Temporary Emergency Replacement Doc Disk 4 (19xx)(Sewer Software)[a]</description>
+		<rom name="Sewer Temporary Emergency Replacement Doc Disk 4 (19xx)(Sewer Software)[a].st" size="819200" crc="4746e148" md5="92935c8c7d86abb2a0455fa2d4f6628f" sha1="ba583353bc76d34d3606b6e1291af33159982df6"/>
+	</game>
+	<game name="Sewer Temporary Emergency Replacement Doc Disk 5 (19xx)(Sewer Software)">
+		<description>Sewer Temporary Emergency Replacement Doc Disk 5 (19xx)(Sewer Software)</description>
+		<rom name="Sewer Temporary Emergency Replacement Doc Disk 5 (19xx)(Sewer Software).st" size="839680" crc="abd55e06" md5="88c0bd2e5fb96ed6847fac7f770d3960" sha1="271bd9dae97c6cf23f92d73fb6c0639aff5a7812"/>
+	</game>
+	<game name="Sewer Temporary Emergency Replacement Doc Disk 5 (19xx)(Sewer Software)[a]">
+		<description>Sewer Temporary Emergency Replacement Doc Disk 5 (19xx)(Sewer Software)[a]</description>
+		<rom name="Sewer Temporary Emergency Replacement Doc Disk 5 (19xx)(Sewer Software)[a].st" size="829440" crc="21c98e6e" md5="197a38ffd4b803563869bc322424502b" sha1="286471a20654d5240e12051a507a7d59bb33b15c"/>
+	</game>
+	<game name="Special FX Doc Disk 01 (19xx)(Special FX)">
+		<description>Special FX Doc Disk 01 (19xx)(Special FX)</description>
+		<rom name="Special FX Doc Disk 01 (19xx)(Special FX).st" size="839680" crc="1c71762a" md5="9709dd06d7c5e55abd8532652222bce5" sha1="a2435178908afa1a152b56df78a9a0eb86026239"/>
+	</game>
+	<game name="Special FX Doc Disk 02 (19xx)(Special FX)">
+		<description>Special FX Doc Disk 02 (19xx)(Special FX)</description>
+		<rom name="Special FX Doc Disk 02 (19xx)(Special FX).st" size="839680" crc="40408f14" md5="16890cbc733e884c7e8bd5f37a38103e" sha1="eaf32f09b80e45c348b04019acc5e60ad36eb6f4"/>
+	</game>
+	<game name="Special FX Doc Disk 03 (19xx)(Special FX)">
+		<description>Special FX Doc Disk 03 (19xx)(Special FX)</description>
+		<rom name="Special FX Doc Disk 03 (19xx)(Special FX).st" size="839680" crc="42eac37c" md5="cebed1e13dc612dfdfe65d8a8dc27262" sha1="4840c41ca080d60237cdebd649b3dba10f83faf9"/>
+	</game>
+	<game name="Special FX Doc Disk 04 (19xx)(Special FX)">
+		<description>Special FX Doc Disk 04 (19xx)(Special FX)</description>
+		<rom name="Special FX Doc Disk 04 (19xx)(Special FX).st" size="839680" crc="452f4fca" md5="35b70d913b679ad40bc97085ad46b343" sha1="07a430f1c1985a6e19a22431706427601db85d04"/>
+	</game>
+	<game name="Special FX Doc Disk 05 (19xx)(Special FX)">
+		<description>Special FX Doc Disk 05 (19xx)(Special FX)</description>
+		<rom name="Special FX Doc Disk 05 (19xx)(Special FX).st" size="839680" crc="11d9223a" md5="338255a9f8ba5f6ce52512aa152b59a9" sha1="083ae8aa47f17baad57154da07927329a06de5bc"/>
+	</game>
+	<game name="Special FX Doc Disk 06 (19xx)(Special FX)">
+		<description>Special FX Doc Disk 06 (19xx)(Special FX)</description>
+		<rom name="Special FX Doc Disk 06 (19xx)(Special FX).st" size="839680" crc="789d7077" md5="2815acc3454865ec04144c1809a69ffb" sha1="56e6e451944d788f5d763e25de6e33d009b1fe03"/>
+	</game>
+	<game name="Special FX Doc Disk 07 (19xx)(Special FX)">
+		<description>Special FX Doc Disk 07 (19xx)(Special FX)</description>
+		<rom name="Special FX Doc Disk 07 (19xx)(Special FX).st" size="839680" crc="477ea3f3" md5="481749cc433cddffeb9e79e3b7578a8b" sha1="4ec90667f418aa255b47c3dac186e68341318f99"/>
+	</game>
+	<game name="Special FX Doc Disk 08 (19xx)(Special FX)">
+		<description>Special FX Doc Disk 08 (19xx)(Special FX)</description>
+		<rom name="Special FX Doc Disk 08 (19xx)(Special FX).st" size="839680" crc="26c98834" md5="c71c56ea5e6d79922c9ecdd9cb7f8d9e" sha1="711126ea0cef4192341aa76fab88cc95b815b14a"/>
+	</game>
+	<game name="Special FX Doc Disk 09 (19xx)(Special FX)">
+		<description>Special FX Doc Disk 09 (19xx)(Special FX)</description>
+		<rom name="Special FX Doc Disk 09 (19xx)(Special FX).st" size="839680" crc="9e774b4b" md5="576a7c030ce8daf403811c2ecdd782bb" sha1="e67765cfe78063722fab7437df97ca9e401e32f9"/>
+	</game>
+	<game name="Special FX Doc Disk 10 (19xx)(Special FX)">
+		<description>Special FX Doc Disk 10 (19xx)(Special FX)</description>
+		<rom name="Special FX Doc Disk 10 (19xx)(Special FX).st" size="839680" crc="978f91ae" md5="7adb56fba2d831dcb0d5d82b4aaaa002" sha1="6571f04c5385e23b3409ebee9998b71bbcabf2ff"/>
+	</game>
+	<game name="Special FX Doc Disk 11 (19xx)(Special FX)">
+		<description>Special FX Doc Disk 11 (19xx)(Special FX)</description>
+		<rom name="Special FX Doc Disk 11 (19xx)(Special FX).st" size="839680" crc="54638b23" md5="1079f8b75ef88a1ed280cc94e51ade06" sha1="dd3ddf4c5a842b20ee8693c1a570a08d84303cab"/>
+	</game>
+	<game name="Stacc Doc 01 (19xx)(Elite - MCA)">
+		<description>Stacc Doc 01 (19xx)(Elite - MCA)</description>
+		<rom name="Stacc Doc 01 (19xx)(Elite - MCA).st" size="819200" crc="b176fb2c" md5="bbff65a1e7b4b289bd7ba9e2c3cbbed7" sha1="44339364b6dec8a9b39f6978ab8ca614ceb9d910"/>
+	</game>
+	<game name="Stacc Doc 03 (19xx)(Elite - MCA)">
+		<description>Stacc Doc 03 (19xx)(Elite - MCA)</description>
+		<rom name="Stacc Doc 03 (19xx)(Elite - MCA).st" size="819200" crc="c6f13c30" md5="b2d18ea45ef0eeac01e08e4c96a9cdee" sha1="95b49056382ae65bdfed52c0cc61cfc96452f6bb"/>
+	</game>
+	<game name="Supremacy Doc CD 1 (19xx)(Supremacy)">
+		<description>Supremacy Doc CD 1 (19xx)(Supremacy)</description>
+		<rom name="Supremacy Doc CD 1 (19xx)(Supremacy).st" size="839680" crc="63370140" md5="bad1413311a1b8eb93c61ff4de850893" sha1="9ca8788408e2902baa69024c55541d44d041534c"/>
+	</game>
+	<game name="Supremacy Doc CD 2 (19xx)(Supremacy)">
+		<description>Supremacy Doc CD 2 (19xx)(Supremacy)</description>
+		<rom name="Supremacy Doc CD 2 (19xx)(Supremacy).st" size="839680" crc="a16f59d6" md5="5ba788be8eee75470a6076bd5b1477b7" sha1="99405d784df20bbfe6324c9834146c6f898371b2"/>
+	</game>
+	<game name="Supremacy Doc CD 3 (19xx)(Supremacy)">
+		<description>Supremacy Doc CD 3 (19xx)(Supremacy)</description>
+		<rom name="Supremacy Doc CD 3 (19xx)(Supremacy).st" size="839680" crc="6fc1deeb" md5="90e591fafd0aa8ae74d07c1b921c7b90" sha1="fd0248a8e5410d50da63713625a9dbf8c29118f2"/>
+	</game>
+	<game name="Untouchables Joke Disk, The (19xx)(Untouchables)">
+		<description>Untouchables Joke Disk, The (19xx)(Untouchables)</description>
+		<rom name="Untouchables Joke Disk, The (19xx)(Untouchables).st" size="819200" crc="2b9b4563" md5="d29296a96d3f0f4b7f60f542da9c6d7e" sha1="209f5a1c467382904a2beff532d568bf83e3ba29"/>
+	</game>
+	<game name="Wombles Document Disk 1 (19xx)(Wombles)">
+		<description>Wombles Document Disk 1 (19xx)(Wombles)</description>
+		<rom name="Wombles Document Disk 1 (19xx)(Wombles).st" size="737280" crc="192908b0" md5="2c0cdfa2281304bea0d7db4c93568fee" sha1="590bfb5a071151cd0fbce235c2167508165707ef"/>
+	</game>
+	<game name="Wombles Document Disk 2 (19xx)(Wombles)">
+		<description>Wombles Document Disk 2 (19xx)(Wombles)</description>
+		<rom name="Wombles Document Disk 2 (19xx)(Wombles).st" size="755712" crc="e6283c0f" md5="6e35adc5c19125e945110c6d8497b22b" sha1="90fe2019c17f2c8b24de6ba658a1c1984f81d609"/>
+	</game>
+	<game name="Wombles Document Disk 2 (19xx)(Wombles)[a]">
+		<description>Wombles Document Disk 2 (19xx)(Wombles)[a]</description>
+		<rom name="Wombles Document Disk 2 (19xx)(Wombles)[a].st" size="737280" crc="54c1b8dc" md5="f758dce4a6f5141c2daf45a99f3d5cdb" sha1="38bbf587927378d48da204dd1b3a59f009b9aba3"/>
+	</game>
+	<game name="Wombles Document Disk 4 (19xx)(Wombles)">
+		<description>Wombles Document Disk 4 (19xx)(Wombles)</description>
+		<rom name="Wombles Document Disk 4 (19xx)(Wombles).st" size="839680" crc="ed813828" md5="ef79bc6c7de21aec499e66381513f00d" sha1="c63f5ee7ab7193b98151b10bfa72ce4c75000181"/>
+	</game>
+	<game name="Wombles Document Disk 5 (19xx)(Wombles)">
+		<description>Wombles Document Disk 5 (19xx)(Wombles)</description>
+		<rom name="Wombles Document Disk 5 (19xx)(Wombles).st" size="839680" crc="24862be3" md5="61eae4f7e573cc9a6e25969257d7f012" sha1="badaa57cdf975ccd5e85d041c1b401343a9686e5"/>
+	</game>
+	<game name="Wombles Document Disk 6 (19xx)(Wombles)">
+		<description>Wombles Document Disk 6 (19xx)(Wombles)</description>
+		<rom name="Wombles Document Disk 6 (19xx)(Wombles).st" size="755712" crc="3dac7256" md5="e3646d580d472ec1a202e6576db97c36" sha1="3685251243697d1175ffa05262aa15ea6f5b057c"/>
+	</game>
+	<game name="Wombles Document Disk 7 (19xx)(Wombles)">
+		<description>Wombles Document Disk 7 (19xx)(Wombles)</description>
+		<rom name="Wombles Document Disk 7 (19xx)(Wombles).st" size="839680" crc="2ebdc854" md5="92ec2ef7716171921bf52cdeb0417dac" sha1="0b6346667541533708666bfa2505dacf70d479f7"/>
+	</game>
+	<game name="Wombles Document Disk 8 (19xx)(Wombles)">
+		<description>Wombles Document Disk 8 (19xx)(Wombles)</description>
+		<rom name="Wombles Document Disk 8 (19xx)(Wombles).st" size="839680" crc="70c87c6f" md5="85f72b91333f324d21dd93e81063ba68" sha1="b47e7065f16d1c4a4caa75eeffe35fcda55ba2a0"/>
+	</game>
+</datafile>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Convergent Technologies AWS NGEN Workstation - Applications - [RAW]</name>
+		<description>Convergent Technologies AWS NGEN Workstation - Applications - [RAW] (TOSEC-v2017-04-05)</description>
+		<category>TOSEC</category>
+		<version>2017-04-05</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<url>http://www.tosecdev.org</url>
+		<clrmamepro/>
+	</header>
+	<game name="BTOS 8.1 B20 Standalone Utilities (19xx)(Unisys)(Disk 1 of 5)">
+		<description>BTOS 8.1 B20 Standalone Utilities (19xx)(Unisys)(Disk 1 of 5)</description>
+		<rom name="BTOS 8.1 B20 Standalone Utilities (19xx)(Unisys)(Disk 1 of 5).raw" size="630784" crc="fc4ab5af" md5="66f56a7afde15d69158b4086764d89ad" sha1="a2a5a61540baf63aad76f9f19b7f805954a5888a"/>
+	</game>
+	<game name="BTOS 8.1 B20 Standalone Utilities (19xx)(Unisys)(Disk 2 of 5)">
+		<description>BTOS 8.1 B20 Standalone Utilities (19xx)(Unisys)(Disk 2 of 5)</description>
+		<rom name="BTOS 8.1 B20 Standalone Utilities (19xx)(Unisys)(Disk 2 of 5).raw" size="630784" crc="fc8f0e2f" md5="58d5473a0b4d0d7817f940797c6b9300" sha1="4ca099ab1021a1c0e3ddf148552d6e04a2d39179"/>
+	</game>
+	<game name="BTOS 8.1 B20 Standalone Utilities (19xx)(Unisys)(Disk 3 of 5)">
+		<description>BTOS 8.1 B20 Standalone Utilities (19xx)(Unisys)(Disk 3 of 5)</description>
+		<rom name="BTOS 8.1 B20 Standalone Utilities (19xx)(Unisys)(Disk 3 of 5).raw" size="630784" crc="72541328" md5="814f68e57d95d2f5631598435327dad9" sha1="87700777b8ebe23771902f3a63755295049d8bb5"/>
+	</game>
+	<game name="BTOS 8.1 B20 Standalone Utilities (19xx)(Unisys)(Disk 4 of 5)">
+		<description>BTOS 8.1 B20 Standalone Utilities (19xx)(Unisys)(Disk 4 of 5)</description>
+		<rom name="BTOS 8.1 B20 Standalone Utilities (19xx)(Unisys)(Disk 4 of 5).raw" size="630784" crc="eccf2967" md5="4fd1b269fc1cc840b0f30806645ef6b0" sha1="7b2c0da3dd7a3d82e825dac2059261621ebc53a2"/>
+	</game>
+	<game name="BTOS 8.1 B20 Standalone Utilities (19xx)(Unisys)(Disk 5 of 5)">
+		<description>BTOS 8.1 B20 Standalone Utilities (19xx)(Unisys)(Disk 5 of 5)</description>
+		<rom name="BTOS 8.1 B20 Standalone Utilities (19xx)(Unisys)(Disk 5 of 5).raw" size="630784" crc="942ce6ee" md5="370095ecdcee33bddb074cf940b04e49" sha1="f7b00c91beb78b57341aec5dcfff7da8372d5d10"/>
+	</game>
+	<game name="X.25 Network Gateway R05.01.00 (19xx)(-)[B20X55]">
+		<description>X.25 Network Gateway R05.01.00 (19xx)(-)[B20X55]</description>
+		<rom name="X.25 Network Gateway R05.01.00 (19xx)(-)[B20X55].raw" size="630784" crc="e620c5e9" md5="2cb22ae4174d3fcb353d9fcc805e713a" sha1="3c685204aead0084a1d6595f522a42d2e7d99182"/>
+	</game>
+</datafile>

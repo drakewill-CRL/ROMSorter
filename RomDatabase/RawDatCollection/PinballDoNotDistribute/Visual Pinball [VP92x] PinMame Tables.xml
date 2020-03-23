@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Visual Pinball [VP92x] PinMame Tables</name>
+		<description>Visual Pinball [VP92x] PinMame Tables</description>
+		<category>Visual Pinball [VP92x] PinMame Tables</category>
+		<version>1.0</version>
+		<date>2020-01-01</date>
+		<author>Yori Yoshizuki</author>
+		<email>-insert email-</email>
+		<homepage>Yori Yoshizuki</homepage>
+		<url>https://yoshizuki.webs.com</url>
+		<comment>-insert comment-</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Attack from Mars (Bally)(1995)">
+		<description>Attack from Mars (Bally)(1995)</description>
+		<rom name="Attack from Mars (Bally)(1995)(JPSalas)(Beta2)[VP920rev787].vpt" size="33615872" crc="a578a991" sha1="531de49030c68cd0f542ab3a1a834f21d7769fbf"/>
+		<rom name="Attack from Mars (Bally)(1995)(JPSalas)(Beta3)[VP921].vpt" size="29147136" crc="60047396" sha1="2c9336926ba193f3c34c3d8191b83a57693e7eee"/>
+		<rom name="Attack from Mars (Bally)(1995)(JPSalas)(Beta4)[VP921].vpt" size="29167616" crc="7368df95" sha1="3002bfa728ff831a8461ebb652992a8a3733ef71"/>
+		<rom name="Attack from Mars screenshot.jpg" size="846694" crc="39d15209" sha1="43b59f721457eba0f08f9a171353126636b022aa"/>
+	</machine>
+	<machine name="Austin Powers (Stern)(2001)">
+		<description>Austin Powers (Stern)(2001)</description>
+		<rom name="Austin Powers (Stern)(2001)(Javier15)(1.3)[VP921][Desktop version coolball].vpt" size="39067648" crc="a25a1969" sha1="2ff76fec1f937c20ef8288582487a1124b62ebee"/>
+		<rom name="Austin Powers screenshot.jpg" size="604930" crc="d3320f24" sha1="e1dbc257bdaac1e7486c7d81508784a043489af9"/>
+	</machine>
+	<machine name="Barracora (Williams)(1981)(Gtxjoe)(1.0)[VP920][Desktop batch]">
+		<description>Barracora (Williams)(1981)(Gtxjoe)(1.0)[VP920][Desktop batch]</description>
+		<rom name="Barracora (Williams 1981) (VP9.2 DT 1.0).vpt" size="27525120" crc="85679f07" sha1="a8ae2ed16c91d858efc3c215551d9990a03887fa"/>
+		<rom name="barracora-vp9-ws.jpg" size="769799" crc="5cba5e90" sha1="cdcf13d1bd6db37653e75a43c6695d27590a158f"/>
+	</machine>
+	<machine name="Batman Forever (SEGA)(1995)">
+		<description>Batman Forever (SEGA)(1995)</description>
+		<rom name="Batman Forever (SEGA)(1995)(mfuegemann)(1.1a)[VP921].vpt" size="32366592" crc="1c21951d" sha1="318d599701d20e69f395eb2cd03bce9d3d0a0cb3"/>
+		<rom name="Batman Forever screenshot.jpg" size="506798" crc="12cba41c" sha1="ac42e55ef1f6cd259573c92211a02b9dfca745e8"/>
+	</machine>
+	<machine name="Bushido (Inder)(1993)">
+		<description>Bushido (Inder)(1993)</description>
+		<rom name="Bushido (Inder)(1993)(jesvic)(1.0)[VP921].vpt" size="23597056" crc="f3aefcaa" sha1="4053acd7846e1da392df97c7b19b5487f95f9131"/>
+		<rom name="Bushido (Inder)(1993)(jesvic)(1.1)[VP921].vpt" size="24219648" crc="af4f2817" sha1="7e061abb326e35e402613a4edf10aca3a423feff"/>
+		<rom name="Bushido screenshot.jpg" size="433083" crc="4983d096" sha1="062e389ef3822b204b4d7a5c8e0f2486766aec4a"/>
+	</machine>
+	<machine name="Creature from the Black Lagoon (Bally)(1992)">
+		<description>Creature from the Black Lagoon (Bally)(1992)</description>
+		<rom name="Creature from the Black Lagoon (Bally)(1992)(melon)(1.0.1)[VP920].vpt" size="30474240" crc="b3e61100" sha1="11371f007cc4f0f3dce9fbf60d998c8c6bc8c913"/>
+		<rom name="Creature from the Black Lagoon screenshot.jpg" size="891823" crc="fd665fd2" sha1="afed05c6bdf53d38545778ff369a0778dc201075"/>
+	</machine>
+	<machine name="Dungeons &amp; Dragons (Bally)(1987)">
+		<description>Dungeons &amp; Dragons (Bally)(1987)</description>
+		<rom name="Dungeons &amp; Dragons (Bally)(1987)(mfuegemann)(1.2)[VP921].vpt" size="23216128" crc="570ea1c7" sha1="fa0153f7230e90fbbcc2346bc866b9033d92b6e4"/>
+		<rom name="Dungeons &amp; Dragons screenshot.jpg" size="450163" crc="f2fbf4d1" sha1="3766eba489ca3ca49a3fdc5284bee93177028542"/>
+	</machine>
+	<machine name="Fish Tales (Williams)(1992)(melon)(2.0.1)[VP920]">
+		<description>Fish Tales (Williams)(1992)(melon)(2.0.1)[VP920]</description>
+		<rom name="Fish Tales 2.0.1 - melon -  VP92.vpt" size="40091648" crc="71bfe896" sha1="14c333b19b6412b77445feb23e8c237addc666d2"/>
+		<rom name="Fish Tales screenshot.jpg" size="1675096" crc="bd53b941" sha1="8abd8116aadd33f82daba1e930d3562a0487a6be"/>
+	</machine>
+	<machine name="Getaway, The - High Speed II (Williams)(1992)">
+		<description>Getaway, The - High Speed II (Williams)(1992)</description>
+		<rom name="Getaway, The - High Speed II (Williams)(1992)(melon)(1.0.1)[VP920].vpt" size="32071680" crc="615673d8" sha1="5f1e239d47090ae324d0f6a6d29c35a299203144"/>
+		<rom name="Getaway, The - High Speed II screenshot.jpg" size="1737257" crc="856af68b" sha1="819956a401be2785a72a027049c54041ec2a7920"/>
+	</machine>
+	<machine name="Grand Slam 4Player (Bally)(1984)">
+		<description>Grand Slam 4Player (Bally)(1984)</description>
+		<rom name="Grand Slam 4Player (Bally)(1984)(chinzman93)(1.0)(DT)(9.2+).vpt" size="13897728" crc="4f115c1f" sha1="de8fa97dd177d32db543514eba976f4a543972fb"/>
+		<rom name="Grand Slam 4Player (Bally)(1984)(chinzman93)(1.1)(DT)(9.2+).png" size="2716886" crc="bb941323" sha1="32ded95c67b54e42109bbb9f95036db9f3215ddb"/>
+	</machine>
+	<machine name="Monster Bash (Williams)(1998)">
+		<description>Monster Bash (Williams)(1998)</description>
+		<rom name="Full Models\Monster Bash (Williams)(1998)(unclewilly, randr)(1.9)[VP920][Full Polygonal Models edition].vpt" size="95797248" crc="6d0a6e5c" sha1="b489afd1e70886db2af7b6516c437b34c52c38e7"/>
+		<rom name="Full Models\Monster Bash (Williams)(1998)(unclewilly, randr)(2.0)[VP920][Full Polygonal Models edition].vpt" size="113098752" crc="25703839" sha1="2796cf01b81e8ba13d248c31a0ffe630acc79b52"/>
+		<rom name="Full Models\Monster Bash (Williams)(1998)(unclewilly, randr)(2.1)[VP920][Full Polygonal Models edition].vpt" size="104300544" crc="1980c16c" sha1="df4a310c458d936f3ccec9c42bcde5be8d1f4b6f"/>
+		<rom name="Low Profile\Monster Bash (Williams)(1998)(unclewilly, randr)(2.0)[VP920][Low Profile edition].vpt" size="114651136" crc="eed23d4d" sha1="45866683b44b533f2d169923c3cf0859195f3a8b"/>
+		<rom name="Low Profile\Monster Bash (Williams)(1998)(unclewilly, randr)(2.1)[VP920][Low Profile edition].vpt" size="93450240" crc="5697a161" sha1="b82d0084e75661c8a63305e0a17de211698f5f19"/>
+		<rom name="Monster Bash (Full Models) screenshot.png" size="3678836" crc="47780208" sha1="8aa7e32728bf3a6c75776f9d975804966aa3d7ff"/>
+		<rom name="Monster Bash (Low Profile) screenshot.png" size="3661082" crc="7bf6e39e" sha1="ae6d5c1f3b705dfda03319504ce42c5db3dfa5bf"/>
+	</machine>
+	<machine name="Popeye saves the Earth (Bally)(1994)(mfuegemann)(1.3a)[VP921]">
+		<description>Popeye saves the Earth (Bally)(1994)(mfuegemann)(1.3a)[VP921]</description>
+		<rom name="Popeye saves the Earth (Bally)(1994)(mfuegemann)(1.2)[VP921]\Popeye_Desktop_1_2.vpt" size="11698176" crc="b07d07bc" sha1="efaa56507a5c533ada5a5de0de6a6a9a7fc31815"/>
+		<rom name="Popeye saves the Earth (Bally)(1994)(mfuegemann)(1.3a)[VP921]\Popeye_Desktop_1_3a.vpt" size="12513280" crc="58f939f4" sha1="aba78aeaeebf8b393201684e899ea013bf5e5227"/>
+		<rom name="Popeye saves the Earth screenshot.jpg" size="452761" crc="ccfbdd19" sha1="b38dd8c267636a57d1807ac3ef033e89d22fa044"/>
+	</machine>
+	<machine name="Spiderman (Stern)(2007)">
+		<description>Spiderman (Stern)(2007)</description>
+		<rom name="Spiderman (Stern)(2007)(85vett)(1.01)[VP921][Desktop lite vesrion coolball].vpt" size="37392384" crc="45176cff" sha1="79130932ebd46a0893aa3d98c5d050c293172e89"/>
+		<rom name="Spiderman (Stern)(2007)(85vett)(1.01)[VP921][Desktop version coolball].vpt" size="37462016" crc="ad42773d" sha1="626ed49bbdf43c0fa511822c6f064e90cf9c0dfc"/>
+		<rom name="Spiderman screenshot.jpg" size="620445" crc="3eaca5e2" sha1="4dd61d48bf9aeb16267ad205c3f3dbc199758c57"/>
+	</machine>
+	<machine name="Tales of the Arabian Nights (Williams)(1996)">
+		<description>Tales of the Arabian Nights (Williams)(1996)</description>
+		<rom name="Tales of the Arabian Nights (Williams)(1996)(JPSalas)(Beta2)[VP920rev787].vpt" size="32542720" crc="61bb48af" sha1="1a8ea851e7a2bb38cb3493d05f8791145f9332a9"/>
+		<rom name="Tales of the Arabian Nights screenshot.jpg" size="879750" crc="4081beb7" sha1="a48485c2fa269920224d5c58e3e715ac89c2fa23"/>
+	</machine>
+	<machine name="Tron (Stern)(2011)">
+		<description>Tron (Stern)(2011)</description>
+		<rom name="Tron (Stern)(2011)(85vett)(1.04)[VP921][Desktop version coolball].vpt" size="17506304" crc="e0832fca" sha1="3c9036dddf8302339ac0a27c8db97b8222441549"/>
+		<rom name="Tron screenshot.jpg" size="571548" crc="c9ff62f7" sha1="6347c61b900405967847ce432c3eec317efb3882"/>
+	</machine>
+	<machine name="X-Men (Stern)(2012)">
+		<description>X-Men (Stern)(2012)</description>
+		<rom name="X-Men (Stern)(2012)(85vet)(1.02)[VP921][Desktop version coolball].vpt" size="23412736" crc="0aa43bb2" sha1="aaad213526a27d5a26833d7a9ec4ce6eac262bde"/>
+		<rom name="X-Men screenshot.jpg" size="643655" crc="f8c2f29e" sha1="1215e9ad7356bc4f7e304d26837d92e7f715f883"/>
+	</machine>
+</datafile>

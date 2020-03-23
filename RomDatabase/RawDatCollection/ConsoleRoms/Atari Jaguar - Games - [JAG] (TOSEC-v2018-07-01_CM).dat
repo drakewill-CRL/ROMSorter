@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Atari Jaguar - Games - [JAG]</name>
+		<description>Atari Jaguar - Games - [JAG] (TOSEC-v2018-07-01)</description>
+		<category>TOSEC</category>
+		<version>2018-07-01</version>
+		<author>Cid - Cassiel - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Arkanna (199x)(-)(PD)">
+		<description>Arkanna (199x)(-)(PD)</description>
+		<rom name="Arkanna (199x)(-)(PD).jag" size="104924" crc="bc3c8272" md5="51e587596dec63b3c92cb74298acdadb" sha1="8967081069be98b9ee2395c8f8008c6d1dbe4698"/>
+	</game>
+	<game name="Asteroid (2000)(-)(PD)">
+		<description>Asteroid (2000)(-)(PD)</description>
+		<rom name="Asteroid (2000)(-)(PD).jag" size="296862" crc="82629a5b" md5="d3bc404e94b1943a8bee4e98bf57c912" sha1="331ea0431c27ddd96fa344666186924804a3c7ad"/>
+	</game>
+	<game name="Gorf 2000 (19xx)(-)(PD)">
+		<description>Gorf 2000 (19xx)(-)(PD)</description>
+		<rom name="Gorf 2000 (19xx)(-)(PD).jag" size="69296" crc="b4c74036" md5="66fbc3c4829587192828424a73e72993" sha1="40cce38388c0b02cdeacc02a1476a4c70858adcb"/>
+	</game>
+	<game name="Jagfest (2001)(-)(PD)">
+		<description>Jagfest (2001)(-)(PD)</description>
+		<rom name="Jagfest (2001)(-)(PD).jag" size="479952" crc="7dae6472" md5="3e8255afc631710bea69883809c50482" sha1="4c6fecd63cf1cfff41e77ef11d0b56952a8ff994"/>
+	</game>
+	<game name="Jagmarble (1997)(Matthias Domin)(PD)">
+		<description>Jagmarble (1997)(Matthias Domin)(PD)</description>
+		<rom name="Jagmarble (1997)(Matthias Domin)(PD).jag" size="64786" crc="c1d3612c" md5="8081bfbc21e14de4e06c5555b26fccb5" sha1="930d9061067cc46a7df20e60ff25b8808c9ec16c"/>
+	</game>
+	<game name="Jagmarble (1999)(Matthias Domin)(PD)">
+		<description>Jagmarble (1999)(Matthias Domin)(PD)</description>
+		<rom name="Jagmarble (1999)(Matthias Domin)(PD).jag" size="64850" crc="ebafd0de" md5="5ac2fe762ff61d0bba7e1efc1b91fefe" sha1="37f4e86efc9baf466b62ffe04814fbbbb0f51617"/>
+	</game>
+	<game name="Jagmarble (2000)(Matthias Domin)(PD)">
+		<description>Jagmarble (2000)(Matthias Domin)(PD)</description>
+		<rom name="Jagmarble (2000)(Matthias Domin)(PD).jag" size="64804" crc="1b57a623" md5="8d9400eb282a7e9cc9388477d2cf70f1" sha1="f60b001242d2dfb55c41412720bb01c59f7b04b5"/>
+	</game>
+	<game name="Jaguar Tetris (1995)(Bastian Schick)(PD)">
+		<description>Jaguar Tetris (1995)(Bastian Schick)(PD)</description>
+		<rom name="Jaguar Tetris (1995)(Bastian Schick)(PD).jag" size="131042" crc="c539ef03" md5="6da88d193008e7b09c7d59eb060c0eed" sha1="4b4ad37d6b057ae8d59e45c23aad3164bdcbaaf1"/>
+	</game>
+	<game name="Phase Zero (2000)(-)(PD)">
+		<description>Phase Zero (2000)(-)(PD)</description>
+		<rom name="Phase Zero (2000)(-)(PD).jag" size="2097152" crc="4203e23d" md5="2ed52c9166495d57fcc431c07ac0a471" sha1="87821a625222331827ce0ac10b464a25f844912d"/>
+	</game>
+</datafile>

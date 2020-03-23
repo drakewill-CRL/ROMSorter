@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Exelvision EXL100 - Applications - [TD0]</name>
+		<description>Exelvision EXL100 - Applications - [TD0] (TOSEC-v2014-01-24)</description>
+		<category>TOSEC</category>
+		<version>2014-01-24</version>
+		<author>TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="ExelDOS v1.1 (1985)(Exelvision)(FR)">
+		<description>ExelDOS v1.1 (1985)(Exelvision)(FR)</description>
+		<rom name="ExelDOS v1.1 (1985)(Exelvision)(FR).td0" size="69798" crc="5c50eea2" md5="6e58a9ccb24541ce4a0acf49e7b42096" sha1="c6fa76580d455647acf96b5045c1879f368ca102"/>
+	</game>
+	<game name="ExelDOS v1.2 (1985)(Exelvision)(FR)">
+		<description>ExelDOS v1.2 (1985)(Exelvision)(FR)</description>
+		<rom name="ExelDOS v1.2 (1985)(Exelvision)(FR).td0" size="44303" crc="58073293" md5="695452b9d8b632571fde861325bf14f5" sha1="0f63cd094bb0fd9619d6b707125761363559cead"/>
+	</game>
+	<game name="ExelDOS v1.3 (1986)(Exelvision)(FR)">
+		<description>ExelDOS v1.3 (1986)(Exelvision)(FR)</description>
+		<rom name="ExelDOS v1.3 (1986)(Exelvision)(FR).td0" size="151375" crc="a5370457" md5="194f475552f8963b21129c72c466ab63" sha1="9b74b1cac382749ec9c94a09881825439fd58acf"/>
+	</game>
+	<game name="ExelDOS v1.4 (1986)(Exelvision)(FR)">
+		<description>ExelDOS v1.4 (1986)(Exelvision)(FR)</description>
+		<rom name="ExelDOS v1.4 (1986)(Exelvision)(FR).td0" size="94183" crc="e543a0bf" md5="1b5cf66e861bf4f8835bde5650ce5c33" sha1="4abb0b6151c86c38aca78c178f577f62c82788df"/>
+	</game>
+</datafile>

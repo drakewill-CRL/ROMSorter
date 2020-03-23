@@ -1,0 +1,1371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Games - PCS - [T64]</name>
+		<description>Commodore C64 - Games - PCS - [T64] (TOSEC-v2019-12-15)</description>
+		<category>TOSEC</category>
+		<version>2019-12-15</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="1, 2, 3 (19xx)(-)">
+		<description>1, 2, 3 (19xx)(-)</description>
+		<rom name="1, 2, 3 (19xx)(-).t64" size="17389" crc="60ca9392" md5="83745b7f82fc7f877fa090b1d4a1473c" sha1="c7f4f185d9c725a41a2e8af997554064ea6fb57b"/>
+	</game>
+	<game name="3 Wild Balls (1987)(Protocol Productions)[cr Unknown]">
+		<description>3 Wild Balls (1987)(Protocol Productions)[cr Unknown]</description>
+		<rom name="3 Wild Balls (1987)(Protocol Productions)[cr Unknown].t64" size="36176" crc="324047d7" md5="dd799da12f2211405c508cf5eee4519b" sha1="7688d2f51b92ab5dc6f2c389e8d2b3ec3b1bb6bc"/>
+	</game>
+	<game name="3-Ball Deluxe (19xx)(Jim McGue)[cr ASS]">
+		<description>3-Ball Deluxe (19xx)(Jim McGue)[cr ASS]</description>
+		<rom name="3-Ball Deluxe (19xx)(Jim McGue)[cr ASS].t64" size="18981" crc="aafcb68d" md5="70bb6f58f4d32b820790ea9b3b635f28" sha1="9efd2745f5cd525539c613c6959e2bcf22f126e5"/>
+	</game>
+	<game name="4 Aces Pinball (1984)(HS)">
+		<description>4 Aces Pinball (1984)(HS)</description>
+		<rom name="4 Aces Pinball (1984)(HS).t64" size="18389" crc="094674d1" md5="3e33121b8d521a81b8e8078efdea0eb1" sha1="c57543fd6fdd291ef19cf1ed59a3b1b56283a25f"/>
+	</game>
+	<game name="5 Iron (1989)(Duncan, Charles M.)[cr ASS]">
+		<description>5 Iron (1989)(Duncan, Charles M.)[cr ASS]</description>
+		<rom name="5 Iron (1989)(Duncan, Charles M.)[cr ASS].t64" size="18952" crc="b24c61a3" md5="1c57843cc9d9510873ad54d4660ce277" sha1="fdd36bf710bf91047d727f3d8f4acad43040ec42"/>
+	</game>
+	<game name="8-Ball (1991)(-)[cr ASS]">
+		<description>8-Ball (1991)(-)[cr ASS]</description>
+		<rom name="8-Ball (1991)(-)[cr ASS].t64" size="18889" crc="69c16f23" md5="821e1ccef64e28ee1965b56b481a4ef9" sha1="5286f25076fc3eb2bb49525f8166a91cc4ca0441"/>
+	</game>
+	<game name="AC - DC Pinball (19xx)(-)[cr TBT]">
+		<description>AC - DC Pinball (19xx)(-)[cr TBT]</description>
+		<rom name="AC - DC Pinball (19xx)(-)[cr TBT].t64" size="22285" crc="3032a9f4" md5="8e513b0f331a060079ec386d780b023d" sha1="4a824693a5ebe4800b9c2b2db2089338c891c625"/>
+	</game>
+	<game name="AC - DC Pinball (19xx)(-)[cr TBT][a]">
+		<description>AC - DC Pinball (19xx)(-)[cr TBT][a]</description>
+		<rom name="AC - DC Pinball (19xx)(-)[cr TBT][a].t64" size="23214" crc="5f62e979" md5="d58e5e1d89a120703526f06156acd05e" sha1="a7afd2bffc257f61024723e1774776981a8c97bb"/>
+	</game>
+	<game name="AC - DC Pinball (19xx)(-)[cr TBT][a2]">
+		<description>AC - DC Pinball (19xx)(-)[cr TBT][a2]</description>
+		<rom name="AC - DC Pinball (19xx)(-)[cr TBT][a2].t64" size="22285" crc="342e7dfb" md5="6e9067bf6af82c9124dd4bb5508c9b2a" sha1="ac2830aebef8bcd01a55aebb0c46fc6b0d289ec9"/>
+	</game>
+	<game name="AC - DC Pinball (19xx)(-)[cr TBT][a3]">
+		<description>AC - DC Pinball (19xx)(-)[cr TBT][a3]</description>
+		<rom name="AC - DC Pinball (19xx)(-)[cr TBT][a3].t64" size="23213" crc="5ce7a0f4" md5="402b35e59a3d9f15ec472ee27d49fbe9" sha1="428c769b9038fdf88430adf0fb1d7f8fe76a7c2a"/>
+	</game>
+	<game name="AC - DC Pinball (19xx)(-)[cr TBT][a4]">
+		<description>AC - DC Pinball (19xx)(-)[cr TBT][a4]</description>
+		<rom name="AC - DC Pinball (19xx)(-)[cr TBT][a4].t64" size="22285" crc="a65e4036" md5="1f65866b31a301eea70eab3253dea8a5" sha1="756994860335495eab0a959cb412e4b341b97469"/>
+	</game>
+	<game name="AC - DC Pinball (19xx)(-)[cr TBT][a5]">
+		<description>AC - DC Pinball (19xx)(-)[cr TBT][a5]</description>
+		<rom name="AC - DC Pinball (19xx)(-)[cr TBT][a5].t64" size="22286" crc="a6080ac0" md5="b7f051f1ac05e184ee40706259a38ff0" sha1="0b9bf9dee4d02b55ecee4607a2d8616787e77e7d"/>
+	</game>
+	<game name="AC - DC Pinball (19xx)(-)[cr TBT][a6]">
+		<description>AC - DC Pinball (19xx)(-)[cr TBT][a6]</description>
+		<rom name="AC - DC Pinball (19xx)(-)[cr TBT][a6].t64" size="23214" crc="8c9d14c1" md5="8ee52c510b00b074d2bb7ef1d9ed3fe8" sha1="14ad991003472193bf7ab16c6814e20ef13777d6"/>
+	</game>
+	<game name="AC - DC Pinball (19xx)(-)[cr TBT][a7]">
+		<description>AC - DC Pinball (19xx)(-)[cr TBT][a7]</description>
+		<rom name="AC - DC Pinball (19xx)(-)[cr TBT][a7].t64" size="23214" crc="f9b1ff0c" md5="27944c7deb49d8055c0a5e3098ef4093" sha1="444ae6898013728544b162aec68cc1261b78995c"/>
+	</game>
+	<game name="Airwolf (1985)(Elite)[cr Gods]">
+		<description>Airwolf (1985)(Elite)[cr Gods]</description>
+		<rom name="Airwolf (1985)(Elite)[cr Gods].t64" size="26505" crc="dfee1495" md5="fc2bad723aa22d0d0a0fe2d6a0ec3ded" sha1="edb3a31d2ca4bf64195e84939e5624858d57d548"/>
+	</game>
+	<game name="All or Nothing (1991)(Lubeck, Olaf)">
+		<description>All or Nothing (1991)(Lubeck, Olaf)</description>
+		<rom name="All or Nothing (1991)(Lubeck, Olaf).t64" size="19603" crc="b3f0ebca" md5="de528a6f32a70a7da4d9cd1a31b7a4be" sha1="f0bfb276c4aa44080eb852bc6221dd21514f6fc9"/>
+	</game>
+	<game name="Alleyoop (1991)(-)[cr ASS]">
+		<description>Alleyoop (1991)(-)[cr ASS]</description>
+		<rom name="Alleyoop (1991)(-)[cr ASS].t64" size="16370" crc="25361f36" md5="9a8bedd503918591709653908d39f6ba" sha1="773542992a37eab33b5ccf75ef29f7a0616020a1"/>
+	</game>
+	<game name="Amazing (19xx)(-)[cr Gods]">
+		<description>Amazing (19xx)(-)[cr Gods]</description>
+		<rom name="Amazing (19xx)(-)[cr Gods].t64" size="26509" crc="60e58645" md5="6da0bf967754eff7126896ab5f83fd9f" sha1="470a50fe5ef5f28592b9cde649b1cc537255996e"/>
+	</game>
+	<game name="Angle Iron (19xx)(-)">
+		<description>Angle Iron (19xx)(-)</description>
+		<rom name="Angle Iron (19xx)(-).t64" size="17835" crc="aab95ddb" md5="6914233e891e12e569d039ff382b5907" sha1="636d52119ddff3c65e755db56dfaa008b847a152"/>
+	</game>
+	<game name="Arms (1991)(Puma Rock)">
+		<description>Arms (1991)(Puma Rock)</description>
+		<rom name="Arms (1991)(Puma Rock).t64" size="19308" crc="88a6c2d6" md5="4f241efee7b10174b821d7b5ced913ad" sha1="0a5794195cdc486398d08338ab9e35ae0298e33f"/>
+	</game>
+	<game name="Astro Blaster (19xx)(-)">
+		<description>Astro Blaster (19xx)(-)</description>
+		<rom name="Astro Blaster (19xx)(-).t64" size="20812" crc="90204074" md5="c66d6770a5223b525f20c992805361ca" sha1="14a06a5029a354249ae3839e6640f31b560c4f25"/>
+	</game>
+	<game name="Astro Blaster (19xx)(-)[a]">
+		<description>Astro Blaster (19xx)(-)[a]</description>
+		<rom name="Astro Blaster (19xx)(-)[a].t64" size="19884" crc="7cd331e5" md5="99035ad27da80b6e813e53ed55f670d6" sha1="719ace9b72df03196f8d98c162fc993cf670894d"/>
+	</game>
+	<game name="Astro Blaster (19xx)(-)[a2]">
+		<description>Astro Blaster (19xx)(-)[a2]</description>
+		<rom name="Astro Blaster (19xx)(-)[a2].t64" size="18072" crc="8936caae" md5="cd6679b3863eb7e5d29cf9539183f37b" sha1="7d4bb4b4ec2f25bf7886640980f69c6da3846886"/>
+	</game>
+	<game name="Astro Blaster (19xx)(-)[a3]">
+		<description>Astro Blaster (19xx)(-)[a3]</description>
+		<rom name="Astro Blaster (19xx)(-)[a3].t64" size="19884" crc="9f82c6bf" md5="20496613baff724c1ac55ce866a68e55" sha1="78fd82db1330d9010aa516ca042d4fd4c300a5a9"/>
+	</game>
+	<game name="Astro Blaster (19xx)(-)[a4]">
+		<description>Astro Blaster (19xx)(-)[a4]</description>
+		<rom name="Astro Blaster (19xx)(-)[a4].t64" size="17947" crc="7d6d1ce5" md5="aa2215a19521587868d0cd2574c08b76" sha1="88e4dbe85b715f58537f82e3a974a8b777eba8a0"/>
+	</game>
+	<game name="Aw-Somi (1991)(Duncan, Charles M.)[cr ASS]">
+		<description>Aw-Somi (1991)(Duncan, Charles M.)[cr ASS]</description>
+		<rom name="Aw-Somi (1991)(Duncan, Charles M.)[cr ASS].t64" size="19067" crc="54986921" md5="916725d5f5f749bc5d0d40d790346041" sha1="22a7c58fba036ad76f96efad0766f1bb85a71f1e"/>
+	</game>
+	<game name="Bard (199x)(Vector)">
+		<description>Bard (199x)(Vector)</description>
+		<rom name="Bard (199x)(Vector).t64" size="17800" crc="f2917332" md5="db1d81414693aaf68281f9f12139a5a9" sha1="ebc09284e573228686d1129547d4d3d1369c09ed"/>
+	</game>
+	<game name="Basic (1995)(-)">
+		<description>Basic (1995)(-)</description>
+		<rom name="Basic (1995)(-).t64" size="26067" crc="6ffbeaad" md5="b0eae4141acf296bdf8216fa45daea49" sha1="5082f8c264ca0d8beeee6624017b6b59813c751d"/>
+	</game>
+	<game name="Basic (1995)(Lubeck, Olaf)[cr .Mad.][PCS]">
+		<description>Basic (1995)(Lubeck, Olaf)[cr .Mad.][PCS]</description>
+		<rom name="Basic (1995)(Lubeck, Olaf)[cr .Mad.][PCS].t64" size="33661" crc="741b6932" md5="66550cf4feacc833f7b91c805825a949" sha1="a5bf22226a56bbe0b081422ed6bdd6c532b5fdf5"/>
+	</game>
+	<game name="Beastoids (1991)(Duncan, Charles M.)[cr ASS]">
+		<description>Beastoids (1991)(Duncan, Charles M.)[cr ASS]</description>
+		<rom name="Beastoids (1991)(Duncan, Charles M.)[cr ASS].t64" size="19585" crc="89e01b5a" md5="c6c080907f461df4b7cd3f02b1c5aff6" sha1="052e7acd3e0d3d63b62b43f31ea8d445090c1478"/>
+	</game>
+	<game name="Big Fish Tale (1990)(Duncan, Charles M.)[cr ASS]">
+		<description>Big Fish Tale (1990)(Duncan, Charles M.)[cr ASS]</description>
+		<rom name="Big Fish Tale (1990)(Duncan, Charles M.)[cr ASS].t64" size="20186" crc="7a831533" md5="72a29099fc38b00c1245f0a26cf83da8" sha1="0d43ef55d79f574c763a73be44091154c584282d"/>
+	</game>
+	<game name="Bizare (1989)(Duncan, Charles M.)[cr ASS]">
+		<description>Bizare (1989)(Duncan, Charles M.)[cr ASS]</description>
+		<rom name="Bizare (1989)(Duncan, Charles M.)[cr ASS].t64" size="18668" crc="f11af342" md5="fc2b63ee29e9eece05768250279145a4" sha1="84869782c8d4aa94b810ebed2f76f3f88d4272e0"/>
+	</game>
+	<game name="Black Hole (19xx)(-)[cr Gods]">
+		<description>Black Hole (19xx)(-)[cr Gods]</description>
+		<rom name="Black Hole (19xx)(-)[cr Gods].t64" size="27607" crc="946a6479" md5="eb96adcd96ad2b1fdfc341bf134e6d3d" sha1="7ea8c87638d92cbf2031a01cfed8c0290d655bcf"/>
+	</game>
+	<game name="Blast City (1989)(Duncan, Charles M.)[cr ASS]">
+		<description>Blast City (1989)(Duncan, Charles M.)[cr ASS]</description>
+		<rom name="Blast City (1989)(Duncan, Charles M.)[cr ASS].t64" size="19076" crc="249293f3" md5="1f3c71809cf8d7400b6e9f5647c9b79c" sha1="a8d9e455e75188ad6e234336c95acc6fd336941b"/>
+	</game>
+	<game name="Blue Note (19xx)(J. Free)[cr ASS]">
+		<description>Blue Note (19xx)(J. Free)[cr ASS]</description>
+		<rom name="Blue Note (19xx)(J. Free)[cr ASS].t64" size="18162" crc="e8959359" md5="ef2a45079fb45b4f840d43aa6893b2e9" sha1="c72bcf5d079e17d88d005bb02454b4be46934666"/>
+	</game>
+	<game name="Blur, The (1991)(Duncan, Charles M.)[cr ASS]">
+		<description>Blur, The (1991)(Duncan, Charles M.)[cr ASS]</description>
+		<rom name="Blur, The (1991)(Duncan, Charles M.)[cr ASS].t64" size="18705" crc="4109764b" md5="cf286ce174be4bf110d642a765cc2d97" sha1="a3c2ad536a3efb400d8abf3f077c521fd34c4ffc"/>
+	</game>
+	<game name="Bounce Around (19xx)(-)[cr Gods]">
+		<description>Bounce Around (19xx)(-)[cr Gods]</description>
+		<rom name="Bounce Around (19xx)(-)[cr Gods].t64" size="25100" crc="b64de52f" md5="eb7497e09da6db181ca5ed48e187e542" sha1="424a6a768ad92ab0860b43d88fa147e983d595ba"/>
+	</game>
+	<game name="Brick Yard (1991)(Lubeck, Olaf)">
+		<description>Brick Yard (1991)(Lubeck, Olaf)</description>
+		<rom name="Brick Yard (1991)(Lubeck, Olaf).t64" size="18953" crc="82e76251" md5="73c567cf689b5d6635f5e40d76e0e01f" sha1="75aae5e18185b7f58b0c18ab4cdab4c777e735f6"/>
+	</game>
+	<game name="Bullseye (1988)(Duncan, Charles M.)[cr ASS]">
+		<description>Bullseye (1988)(Duncan, Charles M.)[cr ASS]</description>
+		<rom name="Bullseye (1988)(Duncan, Charles M.)[cr ASS].t64" size="19834" crc="d883829a" md5="df074004a2314611a4831870301fe966" sha1="aecc6d0052cf289c0d5b46ad59fa8f8334b5e52c"/>
+	</game>
+	<game name="Bump &apos;em Pinball (19xx)(-)[cr Gods]">
+		<description>Bump &apos;em Pinball (19xx)(-)[cr Gods]</description>
+		<rom name="Bump &apos;em Pinball (19xx)(-)[cr Gods].t64" size="26864" crc="3fd29776" md5="0b18c9e08812d08c7781ac7b42e1dcc6" sha1="e05099dc40808523aa17fb3d709ed8364e9c9eee"/>
+	</game>
+	<game name="Bump &apos;em Pinball (19xx)(-)[cr Gods][a]">
+		<description>Bump &apos;em Pinball (19xx)(-)[cr Gods][a]</description>
+		<rom name="Bump &apos;em Pinball (19xx)(-)[cr Gods][a].t64" size="27792" crc="045ca7d6" md5="60df08be9391608141a110e05befb4ce" sha1="1cc5b42130db3911524f89ecb32ea5765f58b9f4"/>
+	</game>
+	<game name="Bump &apos;em Pinball (19xx)(-)[cr Gods][a2]">
+		<description>Bump &apos;em Pinball (19xx)(-)[cr Gods][a2]</description>
+		<rom name="Bump &apos;em Pinball (19xx)(-)[cr Gods][a2].t64" size="26864" crc="97cad548" md5="6e85feb34e0a8eb5c1438f07d832e7d4" sha1="35ed2343212e7d80f6065de46b314d12e89da098"/>
+	</game>
+	<game name="Bump &apos;em Pinball (19xx)(-)[cr Gods][a3]">
+		<description>Bump &apos;em Pinball (19xx)(-)[cr Gods][a3]</description>
+		<rom name="Bump &apos;em Pinball (19xx)(-)[cr Gods][a3].t64" size="27792" crc="57d15bb2" md5="9309581107024d901c9437c1f340fc09" sha1="9c3e1d7d5ab7f91222021ffd3d6917c48721ee47"/>
+	</game>
+	<game name="Bump &apos;em Pinball (19xx)(-)[cr Gods][a4]">
+		<description>Bump &apos;em Pinball (19xx)(-)[cr Gods][a4]</description>
+		<rom name="Bump &apos;em Pinball (19xx)(-)[cr Gods][a4].t64" size="27792" crc="424858ad" md5="ed404373dc212a0dbc01f9b58b6411fe" sha1="5d47ca9dd73bbeaae118cc6ff459e6949d87c8f9"/>
+	</game>
+	<game name="Bumper Box Pinball (19xx)(-)[cr Gods]">
+		<description>Bumper Box Pinball (19xx)(-)[cr Gods]</description>
+		<rom name="Bumper Box Pinball (19xx)(-)[cr Gods].t64" size="26043" crc="948ae0b4" md5="4301ce9d402e43da5db88f44737306c2" sha1="ddde7332b9b25a1fa6a42e6e4f4e1790e25586a4"/>
+	</game>
+	<game name="Bumper Buster (199x)(Lubeck, Olaf)[cr ASS]">
+		<description>Bumper Buster (199x)(Lubeck, Olaf)[cr ASS]</description>
+		<rom name="Bumper Buster (199x)(Lubeck, Olaf)[cr ASS].t64" size="19439" crc="80e37a3c" md5="768c4c1beb3fa053450eff259f1f2c8b" sha1="adadf183bd18d7e6f68115939c86479999d78a3a"/>
+	</game>
+	<game name="Carnival (19xx)(Bloodsong)[cr ASS]">
+		<description>Carnival (19xx)(Bloodsong)[cr ASS]</description>
+		<rom name="Carnival (19xx)(Bloodsong)[cr ASS].t64" size="20247" crc="cc6ad532" md5="9637afac874f2c33449612e3d54a01a5" sha1="df89ddfee6c0a3175c58b9d9c5b86afc68c78e6c"/>
+	</game>
+	<game name="Carrot Juggler (19xx)(Ronald R.)[cr ASS]">
+		<description>Carrot Juggler (19xx)(Ronald R.)[cr ASS]</description>
+		<rom name="Carrot Juggler (19xx)(Ronald R.)[cr ASS].t64" size="18408" crc="8fea71b9" md5="ba88cbea72144c0be02ee9779088c048" sha1="3e94d8d612e57df2899e93f88bccb6c0b9792662"/>
+	</game>
+	<game name="Catspan (1989)(Duncan, Charles M.)[cr ASS]">
+		<description>Catspan (1989)(Duncan, Charles M.)[cr ASS]</description>
+		<rom name="Catspan (1989)(Duncan, Charles M.)[cr ASS].t64" size="18193" crc="852b0cd2" md5="409c2f1769f93dc0a07066d8324e75b4" sha1="649d2619998b68c96e60727677be8f26246bc855"/>
+	</game>
+	<game name="Catspan II (1989)(Duncan, Charles M.)[cr ASS]">
+		<description>Catspan II (1989)(Duncan, Charles M.)[cr ASS]</description>
+		<rom name="Catspan II (1989)(Duncan, Charles M.)[cr ASS].t64" size="18920" crc="372972f6" md5="5d1951717851d6742e41d18ffb6bc3da" sha1="5652cc2c5fd2ac87f6fe948d593847ec1312b424"/>
+	</game>
+	<game name="Catspan III - Scratch Masters (1990)(Duncan, Charles M.)[cr ASS]">
+		<description>Catspan III - Scratch Masters (1990)(Duncan, Charles M.)[cr ASS]</description>
+		<rom name="Catspan III - Scratch Masters (1990)(Duncan, Charles M.)[cr ASS].t64" size="19955" crc="a643b9ba" md5="9eb59c749f51544389c954dcec9867c3" sha1="44ae2926fc46205d6da3405c01218e5f5aefa189"/>
+	</game>
+	<game name="Catspan IV (1991)(Duncan, Charles M.)[cr ASS]">
+		<description>Catspan IV (1991)(Duncan, Charles M.)[cr ASS]</description>
+		<rom name="Catspan IV (1991)(Duncan, Charles M.)[cr ASS].t64" size="19581" crc="e0e1459c" md5="eecb46703ef285e93e08d92f1f95f901" sha1="72035304b9df10bb173bd6917b429346394039e1"/>
+	</game>
+	<game name="Catspan V (1990)(Duncan, Charles M.)[cr ASS]">
+		<description>Catspan V (1990)(Duncan, Charles M.)[cr ASS]</description>
+		<rom name="Catspan V (1990)(Duncan, Charles M.)[cr ASS].t64" size="20101" crc="9ee3d175" md5="891f578fdb97b9df507933e9d297d266" sha1="94bdf5698cd40d144ccbd4d433a1469bfbe0d9b3"/>
+	</game>
+	<game name="Catspan VII (1991)(Duncan, Charles M.)[cr ASS]">
+		<description>Catspan VII (1991)(Duncan, Charles M.)[cr ASS]</description>
+		<rom name="Catspan VII (1991)(Duncan, Charles M.)[cr ASS].t64" size="20338" crc="044f7f1b" md5="2abaf562123acd7b4a288c7d3d2544a1" sha1="9c4f3cfe077d3fea71b44d73e3b8fdccf2d6b263"/>
+	</game>
+	<game name="Chupacabra Jazz Retro Pin (19xx)(-)[cr ASS]">
+		<description>Chupacabra Jazz Retro Pin (19xx)(-)[cr ASS]</description>
+		<rom name="Chupacabra Jazz Retro Pin (19xx)(-)[cr ASS].t64" size="17870" crc="1905ce49" md5="16d6933ee0fbeabdae3c55463b147288" sha1="3af335d097b591dd014f155dfe1345bb2de751fe"/>
+	</game>
+	<game name="Cities of Gold (199x)(-)[cr ASS]">
+		<description>Cities of Gold (199x)(-)[cr ASS]</description>
+		<rom name="Cities of Gold (199x)(-)[cr ASS].t64" size="18864" crc="fce0a249" md5="27e67cf1c19952a8c4a3a3970eb2cfe0" sha1="1b04e85fe8272acb5694ffc283d9550305468cb9"/>
+	</game>
+	<game name="Cliff Hanger (1989)(Duncan, Charles M.)[cr ASS]">
+		<description>Cliff Hanger (1989)(Duncan, Charles M.)[cr ASS]</description>
+		<rom name="Cliff Hanger (1989)(Duncan, Charles M.)[cr ASS].t64" size="19550" crc="4af35529" md5="07b2fb9a62317b53334c592edbd79e1c" sha1="7cbe993449224bef0686a1a74e65a0c5b207819e"/>
+	</game>
+	<game name="Cliff Hanger II (1990)(Duncan, Charles M.)[cr ASS]">
+		<description>Cliff Hanger II (1990)(Duncan, Charles M.)[cr ASS]</description>
+		<rom name="Cliff Hanger II (1990)(Duncan, Charles M.)[cr ASS].t64" size="19620" crc="78d652f0" md5="bb642bf0ad017e03f2dd870fd88248cb" sha1="96aea26c16eb87c7f2331ef6d81ab3577e95808b"/>
+	</game>
+	<game name="Cliff Hanger III (1990)(Duncan, Charles M.)[cr ASS]">
+		<description>Cliff Hanger III (1990)(Duncan, Charles M.)[cr ASS]</description>
+		<rom name="Cliff Hanger III (1990)(Duncan, Charles M.)[cr ASS].t64" size="19754" crc="8b9b05d1" md5="483aeed8aac46c1946cea7df65005a39" sha1="c1139eacdc1df36e859b94d9e5bd6836a52cde3d"/>
+	</game>
+	<game name="Cliff, The (199x)(CK)[cr ASS]">
+		<description>Cliff, The (199x)(CK)[cr ASS]</description>
+		<rom name="Cliff, The (199x)(CK)[cr ASS].t64" size="18445" crc="c4e96698" md5="62279eb2f15d9abc69d0f4d80ff27177" sha1="402407b035d261747d15e62380d3780662cbdaa4"/>
+	</game>
+	<game name="Cold Shower, The (1990)(Duncan, Charles M.)[cr ASS]">
+		<description>Cold Shower, The (1990)(Duncan, Charles M.)[cr ASS]</description>
+		<rom name="Cold Shower, The (1990)(Duncan, Charles M.)[cr ASS].t64" size="20819" crc="90bea0c3" md5="72e9315667e660bceaf3aefd45b27986" sha1="205d79bf4d8278ef1cb79932bdc63ef49a11a25c"/>
+	</game>
+	<game name="Commodore Force Pinball (19xx)(-)">
+		<description>Commodore Force Pinball (19xx)(-)</description>
+		<rom name="Commodore Force Pinball (19xx)(-).t64" size="23506" crc="26e0ab92" md5="bbf4f6188055dff90b158bfd6c1207df" sha1="cc267dfe5a7faa88182e53c4bd4159b19dab0f87"/>
+	</game>
+	<game name="Crossover Pinball (19xx)(Chocoholic)[cr ASS]">
+		<description>Crossover Pinball (19xx)(Chocoholic)[cr ASS]</description>
+		<rom name="Crossover Pinball (19xx)(Chocoholic)[cr ASS].t64" size="18836" crc="f20dc34a" md5="be1b647bf0e8026c0cf7306601c50a66" sha1="2c2f1e836b1d729c8970d259377e5e92b492209b"/>
+	</game>
+	<game name="C-Sharp (1991)(Duncan, Charles M.)[cr ASS]">
+		<description>C-Sharp (1991)(Duncan, Charles M.)[cr ASS]</description>
+		<rom name="C-Sharp (1991)(Duncan, Charles M.)[cr ASS].t64" size="19083" crc="06bbe853" md5="2a8c76899b24b0067686b0b0f6da7583" sha1="590b06f0db2b4aa13c7c9a9e9ca1b65a0618d31a"/>
+	</game>
+	<game name="Dare You Pinball (19xx)(-)">
+		<description>Dare You Pinball (19xx)(-)</description>
+		<rom name="Dare You Pinball (19xx)(-).t64" size="18897" crc="6fc5d74e" md5="86bca978d461765d07db71c166082066" sha1="13ed5087286c17b06cb778b6ebd99deec0fe9aa8"/>
+	</game>
+	<game name="Demo-8 Pinball (19xx)(-)[cr TBT]">
+		<description>Demo-8 Pinball (19xx)(-)[cr TBT]</description>
+		<rom name="Demo-8 Pinball (19xx)(-)[cr TBT].t64" size="21667" crc="6b40b51b" md5="e8130802229a8d0ac6850e3d622b1ca8" sha1="546cd41f4d315ee1c8b9ac866918eb9218224f6a"/>
+	</game>
+	<game name="Demo-8 Pinball (19xx)(-)[cr TBT][a]">
+		<description>Demo-8 Pinball (19xx)(-)[cr TBT][a]</description>
+		<rom name="Demo-8 Pinball (19xx)(-)[cr TBT][a].t64" size="22594" crc="ee95f698" md5="6e0b23fb1f6ae190a2ac544b5c450bc1" sha1="1121c5a1bf05320d5d50039bd5ad29a912f484dd"/>
+	</game>
+	<game name="Demo-8 Pinball (19xx)(-)[cr TBT][a2]">
+		<description>Demo-8 Pinball (19xx)(-)[cr TBT][a2]</description>
+		<rom name="Demo-8 Pinball (19xx)(-)[cr TBT][a2].t64" size="21666" crc="20f214c6" md5="e7379d202756cde094a958521d889752" sha1="d26292125c27c84ab10f5bdb189cd47c5dc2c562"/>
+	</game>
+	<game name="Demo-8 Pinball (19xx)(-)[cr TBT][a3]">
+		<description>Demo-8 Pinball (19xx)(-)[cr TBT][a3]</description>
+		<rom name="Demo-8 Pinball (19xx)(-)[cr TBT][a3].t64" size="21667" crc="a57a6b41" md5="35e266d30fcebeda2a920efc01357b23" sha1="6fe438fd48fc65f79d7c6c0a277a004bbcbbdf15"/>
+	</game>
+	<game name="Demo-8 Pinball (19xx)(-)[cr TBT][a4]">
+		<description>Demo-8 Pinball (19xx)(-)[cr TBT][a4]</description>
+		<rom name="Demo-8 Pinball (19xx)(-)[cr TBT][a4].t64" size="22594" crc="da31cd99" md5="88eee166370b14b0548098eaf464155b" sha1="a84fc605433b78be28c579d75d012d482207d248"/>
+	</game>
+	<game name="Deth Ball (19xx)(-)[cr ASS]">
+		<description>Deth Ball (19xx)(-)[cr ASS]</description>
+		<rom name="Deth Ball (19xx)(-)[cr ASS].t64" size="18957" crc="510d7959" md5="078e0050eff5eb405e146e2543d75c9a" sha1="bb722632693cc453cbfa6da8303cb7425d1586f7"/>
+	</game>
+	<game name="DieHard 1.1 (1989)(Duncan, Charles M.)[cr ASS]">
+		<description>DieHard 1.1 (1989)(Duncan, Charles M.)[cr ASS]</description>
+		<rom name="DieHard 1.1 (1989)(Duncan, Charles M.)[cr ASS].t64" size="18484" crc="b2cd244d" md5="cd689b9c982765464c405de8c26a665f" sha1="54366bb43a8289c99906667208abaca133e641e8"/>
+	</game>
+	<game name="Dog Ball (1991)(-)[cr ASS]">
+		<description>Dog Ball (1991)(-)[cr ASS]</description>
+		<rom name="Dog Ball (1991)(-)[cr ASS].t64" size="17633" crc="5225b2ca" md5="8ed87dc7f77cc2fff85968785aab570b" sha1="5f144c7b1f3058160eddbe349c105cdd36d1bc5c"/>
+	</game>
+	<game name="Dogbuster (1989)(Duncan, Charles M.)[cr ASS]">
+		<description>Dogbuster (1989)(Duncan, Charles M.)[cr ASS]</description>
+		<rom name="Dogbuster (1989)(Duncan, Charles M.)[cr ASS].t64" size="19092" crc="01191d62" md5="ba19522c303f7c1bf8fc35ef58cb46c3" sha1="8c9e54942018792e773118347a6f1895409b077a"/>
+	</game>
+	<game name="Dogbusters 2 - In the Case of the Cerebusdog (1989)(Duncan, Charles M.)[cr ASS]">
+		<description>Dogbusters 2 - In the Case of the Cerebusdog (1989)(Duncan, Charles M.)[cr ASS]</description>
+		<rom name="Dogbusters 2 - In the Case of the Cerebusdog (1989)(Duncan, Charles M.)[cr ASS].t64" size="19598" crc="3867358b" md5="d91544b1265336e85cb3148acf121d06" sha1="ae545175b09257bf0153c6315b62ced5b1750d89"/>
+	</game>
+	<game name="Dogbusters 3 - The Airdale Papers Case Reopened (1990)(Duncan, Charles M.)[cr ASS]">
+		<description>Dogbusters 3 - The Airdale Papers Case Reopened (1990)(Duncan, Charles M.)[cr ASS]</description>
+		<rom name="Dogbusters 3 - The Airdale Papers Case Reopened (1990)(Duncan, Charles M.)[cr ASS].t64" size="19188" crc="715171a5" md5="2056caf30d0f4cf90911d9200b210295" sha1="cf9373edc56aaef63a7a4e374f2850a6b2f4816d"/>
+	</game>
+	<game name="Dogbusters 4 - The Poodlemaniac Case (1988)(Duncan, Charles M.)[cr ASS]">
+		<description>Dogbusters 4 - The Poodlemaniac Case (1988)(Duncan, Charles M.)[cr ASS]</description>
+		<rom name="Dogbusters 4 - The Poodlemaniac Case (1988)(Duncan, Charles M.)[cr ASS].t64" size="19811" crc="8299ec8a" md5="02162d9e6cd3beed715087fbd5d4445d" sha1="ff22e8c7ef50bbe82ffc9fe2a47dbbeefc8659e3"/>
+	</game>
+	<game name="Dogbusters 5 (1990)(Duncan, Charles M.)[cr ASS]">
+		<description>Dogbusters 5 (1990)(Duncan, Charles M.)[cr ASS]</description>
+		<rom name="Dogbusters 5 (1990)(Duncan, Charles M.)[cr ASS].t64" size="19443" crc="eab9a87c" md5="2b026400b2e0d022501f0b3ebef303ea" sha1="3ee783c35eae3ee06d1173e6f028b32713f7bf4d"/>
+	</game>
+	<game name="Dogbusters VI - The Greater Dane (1990)(Duncan, Charles M.)[cr ASS]">
+		<description>Dogbusters VI - The Greater Dane (1990)(Duncan, Charles M.)[cr ASS]</description>
+		<rom name="Dogbusters VI - The Greater Dane (1990)(Duncan, Charles M.)[cr ASS].t64" size="20243" crc="81d1b452" md5="3dbd944f8ca6a052317f4e374c05599d" sha1="05433934abfff6c3d527e33128a5a7e5780d71e3"/>
+	</game>
+	<game name="Dogbusters VII - The Dausch Day (1991)(Duncan, Charles M.)[cr ASS]">
+		<description>Dogbusters VII - The Dausch Day (1991)(Duncan, Charles M.)[cr ASS]</description>
+		<rom name="Dogbusters VII - The Dausch Day (1991)(Duncan, Charles M.)[cr ASS].t64" size="20282" crc="ce912c4d" md5="bf8b332c376184028aa8e9bf1f48d508" sha1="92a2c5483bad19db0fc9b432a2ea73cf0fed5d9c"/>
+	</game>
+	<game name="Double Fun 1.1 (199x)(-)[cr ASS]">
+		<description>Double Fun 1.1 (199x)(-)[cr ASS]</description>
+		<rom name="Double Fun 1.1 (199x)(-)[cr ASS].t64" size="18182" crc="7ebfa769" md5="bb03f58bd37fa04762074ff8205ea3e1" sha1="e145b44041f16346126656630985083af16616b8"/>
+	</game>
+	<game name="Double Header (19xx)(-)[cr ASS]">
+		<description>Double Header (19xx)(-)[cr ASS]</description>
+		<rom name="Double Header (19xx)(-)[cr ASS].t64" size="18965" crc="64fa55be" md5="ee00dc8c3b77bba4bf455d8414ec29bc" sha1="5d18f60d959480fca0a8e3af48bf7571ef62b890"/>
+	</game>
+	<game name="Double Trouble (1989)(Duncan, Charles M.)">
+		<description>Double Trouble (1989)(Duncan, Charles M.)</description>
+		<rom name="Double Trouble (1989)(Duncan, Charles M.).t64" size="18851" crc="8bafd017" md5="0bf15c0932228c3d8b5dfff4b4aa0f97" sha1="4a87ffda94954f86cd2729c24f8721d362980c32"/>
+	</game>
+	<game name="Double Trouble (19xx)(Lubeck, Olaf)[cr MCG]">
+		<description>Double Trouble (19xx)(Lubeck, Olaf)[cr MCG]</description>
+		<rom name="Double Trouble (19xx)(Lubeck, Olaf)[cr MCG].t64" size="30838" crc="3fe5c93e" md5="3d661df69959c0cb640f3bc6bba87ebe" sha1="0eb073c68b4ba554cc39d75409878fffa40ae111"/>
+	</game>
+	<game name="Double Trouble (19xx)(Lubeck, Olaf)[cr MCG][a]">
+		<description>Double Trouble (19xx)(Lubeck, Olaf)[cr MCG][a]</description>
+		<rom name="Double Trouble (19xx)(Lubeck, Olaf)[cr MCG][a].t64" size="30838" crc="0097fb09" md5="b74bbaac53d8311344d8833411790b69" sha1="cc8d357efd0fed26bae13db9250000ca067f144e"/>
+	</game>
+	<game name="Double Trouble II (1989)(Duncan, Charles M.)">
+		<description>Double Trouble II (1989)(Duncan, Charles M.)</description>
+		<rom name="Double Trouble II (1989)(Duncan, Charles M.).t64" size="19790" crc="534a880c" md5="bc8c004be2cdf2b761c3569ae5fb2de0" sha1="172eec5c20cc96bd8c65a4d69da49d9ce349d3d5"/>
+	</game>
+	<game name="Double Trouble III (1989)(Duncan, Charles M.)">
+		<description>Double Trouble III (1989)(Duncan, Charles M.)</description>
+		<rom name="Double Trouble III (1989)(Duncan, Charles M.).t64" size="19286" crc="603eb316" md5="be8c4a48fed1e3cb18c097e81415f308" sha1="70e665ecd1f5b0116fc7901a868c63645a945da5"/>
+	</game>
+	<game name="Double Trouble IV (1990)(Lubeck, Olaf)[cr ASS]">
+		<description>Double Trouble IV (1990)(Lubeck, Olaf)[cr ASS]</description>
+		<rom name="Double Trouble IV (1990)(Lubeck, Olaf)[cr ASS].t64" size="19190" crc="0af1d870" md5="923f033a2b3304e508dff10fd6dcb8a3" sha1="3fdd87f9df6e6838ea29c5cf16a4f911c8a99e17"/>
+	</game>
+	<game name="Double Trouble Pinball (19xx)(Lubeck, Olaf)[cr Gods]">
+		<description>Double Trouble Pinball (19xx)(Lubeck, Olaf)[cr Gods]</description>
+		<rom name="Double Trouble Pinball (19xx)(Lubeck, Olaf)[cr Gods].t64" size="27269" crc="86296ea1" md5="02c0c6ab70f049723a16ce61b1a3bee8" sha1="fdaeecf7a7287998721a1b42933b3926d7f1b321"/>
+	</game>
+	<game name="Double Trouble Pinball (19xx)(Lubeck, Olaf)[cr Gods][a]">
+		<description>Double Trouble Pinball (19xx)(Lubeck, Olaf)[cr Gods][a]</description>
+		<rom name="Double Trouble Pinball (19xx)(Lubeck, Olaf)[cr Gods][a].t64" size="27269" crc="db121e02" md5="4c875a962731f1aaef30b23b01480d4f" sha1="7b04afebb757fee5e89fe6cfe43b4140dd49d8ea"/>
+	</game>
+	<game name="Double Trouble V (1990)(Duncan, Charles M.)">
+		<description>Double Trouble V (1990)(Duncan, Charles M.)</description>
+		<rom name="Double Trouble V (1990)(Duncan, Charles M.).t64" size="20328" crc="c264388b" md5="26e5a5e62751b1da8dbcccdc65873def" sha1="0fd2ca705cb85f106d179e15c38f4532ece95075"/>
+	</game>
+	<game name="Doubletime (19xx)(-)[cr ASS]">
+		<description>Doubletime (19xx)(-)[cr ASS]</description>
+		<rom name="Doubletime (19xx)(-)[cr ASS].t64" size="19627" crc="a2344102" md5="07c01136b854a3085b954f7ec88fcc42" sha1="9943b9b71c11ac12d12a92540d548e4480e9fbcd"/>
+	</game>
+	<game name="Downwind (1988)(Duncan, Charles M.)[cr ASS]">
+		<description>Downwind (1988)(Duncan, Charles M.)[cr ASS]</description>
+		<rom name="Downwind (1988)(Duncan, Charles M.)[cr ASS].t64" size="18738" crc="7635942e" md5="f885c170fc420e0471773dd0a66319d4" sha1="adbee10c5301baa16c32c4fd85b1196c981d26de"/>
+	</game>
+	<game name="Downwind II (1990)(Lubeck, Olaf)[cr ASS]">
+		<description>Downwind II (1990)(Lubeck, Olaf)[cr ASS]</description>
+		<rom name="Downwind II (1990)(Lubeck, Olaf)[cr ASS].t64" size="18700" crc="e19d88d4" md5="8f2109f1236e7638447263b8508232a1" sha1="94504faa8d23b4c2dfd736f40f7960bcfc428104"/>
+	</game>
+	<game name="Dunder Ball (1990)(Duncan, Charles M.)[cr ASS]">
+		<description>Dunder Ball (1990)(Duncan, Charles M.)[cr ASS]</description>
+		<rom name="Dunder Ball (1990)(Duncan, Charles M.)[cr ASS].t64" size="19391" crc="acf3fa98" md5="08d4779d06d74f262c924cd95fa64b81" sha1="de22ac9949402f68def7633bc66f35fbce20a386"/>
+	</game>
+	<game name="Election &amp; Filppers Pinball (19xx)(-)[cr TBT]">
+		<description>Election &amp; Filppers Pinball (19xx)(-)[cr TBT]</description>
+		<rom name="Election &amp; Filppers Pinball (19xx)(-)[cr TBT].t64" size="42355" crc="0bb75394" md5="5c2a3755e47b5b1eaaebb79a24ddc9aa" sha1="c51d78f730297a195cc3e32cc384ecc9be14da38"/>
+	</game>
+	<game name="Election &amp; Filppers Pinball (19xx)(-)[cr TBT][a]">
+		<description>Election &amp; Filppers Pinball (19xx)(-)[cr TBT][a]</description>
+		<rom name="Election &amp; Filppers Pinball (19xx)(-)[cr TBT][a].t64" size="41428" crc="0906121e" md5="b9ebeaec9cebcbf033a072558f3763cb" sha1="92cd879ba084d05f438c2cb4a4f9bb6698094b9e"/>
+	</game>
+	<game name="Election &amp; Filppers Pinball (19xx)(-)[cr TBT][a2]">
+		<description>Election &amp; Filppers Pinball (19xx)(-)[cr TBT][a2]</description>
+		<rom name="Election &amp; Filppers Pinball (19xx)(-)[cr TBT][a2].t64" size="41428" crc="3481e1e2" md5="9cdf7bc1d4a5485298e5bdff0e3f4771" sha1="3f2c8364909914f7e58d60283b3f74d9e256e8c7"/>
+	</game>
+	<game name="Election &amp; Filppers Pinball (19xx)(-)[cr TBT][a3]">
+		<description>Election &amp; Filppers Pinball (19xx)(-)[cr TBT][a3]</description>
+		<rom name="Election &amp; Filppers Pinball (19xx)(-)[cr TBT][a3].t64" size="42356" crc="fd89a98a" md5="1dba149fdc389ff796bf5eac8dbbc9f3" sha1="f4e3dcea0f487234e9b5407d3817cf8dc2d88ec6"/>
+	</game>
+	<game name="Election &amp; Filppers Pinball (19xx)(-)[cr TBT][a4]">
+		<description>Election &amp; Filppers Pinball (19xx)(-)[cr TBT][a4]</description>
+		<rom name="Election &amp; Filppers Pinball (19xx)(-)[cr TBT][a4].t64" size="41428" crc="6e5627f0" md5="03edb88b8fcce9794578c5cb6a2e7334" sha1="154c264ccc542351026fa46ea69dfd72acf23c47"/>
+	</game>
+	<game name="Electric Avenue (1990)(Duncan, Charles M.)[cr ASS]">
+		<description>Electric Avenue (1990)(Duncan, Charles M.)[cr ASS]</description>
+		<rom name="Electric Avenue (1990)(Duncan, Charles M.)[cr ASS].t64" size="18817" crc="905460b3" md5="037faab6a094d5fa62bfc57f9acf86bf" sha1="f7fa1ddc9fa0b9ae9f35afdc80707a8aa6d9488a"/>
+	</game>
+	<game name="Escape from Center (1991)(-)[cr ASS]">
+		<description>Escape from Center (1991)(-)[cr ASS]</description>
+		<rom name="Escape from Center (1991)(-)[cr ASS].t64" size="19050" crc="3a9809ff" md5="9d8f5e6208c45cae297d105243f8ea22" sha1="80060f32c047696d38fa41db3aadfac22a1851ee"/>
+	</game>
+	<game name="Ese Pinball (1988)(Duncan, Charles M.)[cr ASS]">
+		<description>Ese Pinball (1988)(Duncan, Charles M.)[cr ASS]</description>
+		<rom name="Ese Pinball (1988)(Duncan, Charles M.)[cr ASS].t64" size="19543" crc="741d1762" md5="48d44c027d105882ff962720d5465fca" sha1="5f90df0e2f568ca85f06f22c12acd6ab4ca8c378"/>
+	</game>
+	<game name="Expert Ghostball (19xx)(-)[cr Gods]">
+		<description>Expert Ghostball (19xx)(-)[cr Gods]</description>
+		<rom name="Expert Ghostball (19xx)(-)[cr Gods].t64" size="26623" crc="9cc409fd" md5="48afd384c11f100b5ded05b115eb48e9" sha1="4d6e6dfbca6739277819d688a8d61bc5f968be21"/>
+	</game>
+	<game name="Expert Ghostball (19xx)(-)[cr Gods][a]">
+		<description>Expert Ghostball (19xx)(-)[cr Gods][a]</description>
+		<rom name="Expert Ghostball (19xx)(-)[cr Gods][a].t64" size="26623" crc="35941467" md5="b3e691c1343ff346ec3fb5346257ab30" sha1="f272389611bb5248f03dbee59c89b782e5249f5f"/>
+	</game>
+	<game name="Fancy Free (1991)(Duncan, Charles M.)[cr ASS]">
+		<description>Fancy Free (1991)(Duncan, Charles M.)[cr ASS]</description>
+		<rom name="Fancy Free (1991)(Duncan, Charles M.)[cr ASS].t64" size="18859" crc="c33f0b32" md5="bc6dd5a1fa0fbf8c9de1b16ba691e631" sha1="bd8c4cc29bd79dc1a83e8c30ef2e5ad0ff3a081b"/>
+	</game>
+	<game name="Firgamica (1989)(Duncan, Charles M.)[cr ASS]">
+		<description>Firgamica (1989)(Duncan, Charles M.)[cr ASS]</description>
+		<rom name="Firgamica (1989)(Duncan, Charles M.)[cr ASS].t64" size="19219" crc="d5c0cf22" md5="cb5a0c1ae93f106e25f40abeea2148de" sha1="e3023c1eb72ea11db58d28b035130ca5f572889e"/>
+	</game>
+	<game name="First Ball (1991)(Desperado)[cr ASS]">
+		<description>First Ball (1991)(Desperado)[cr ASS]</description>
+		<rom name="First Ball (1991)(Desperado)[cr ASS].t64" size="18578" crc="c7861f19" md5="f32cae45ca05be6c8a1bd4b8fe542515" sha1="c905bfdc407a75419071a3a8dcca47b065f13774"/>
+	</game>
+	<game name="Flip Flop (19xx)(-)">
+		<description>Flip Flop (19xx)(-)</description>
+		<rom name="Flip Flop (19xx)(-).t64" size="17617" crc="a95d2e86" md5="feb06e4f3da88a6697f37bc2e7c9a831" sha1="e1fdcaa4c252873d94f1193209feb54c5a721c66"/>
+	</game>
+	<game name="Flipper - The Wiz (1991)(JJB)">
+		<description>Flipper - The Wiz (1991)(JJB)</description>
+		<rom name="Flipper - The Wiz (1991)(JJB).t64" size="18388" crc="73ab06ad" md5="4808d3018253a9bf1354bd249c691e4a" sha1="91a2ce41abf17e2f62089101d6461a2cfa3ea3ca"/>
+	</game>
+	<game name="Flipper (1985)(Edigamma)(it)">
+		<description>Flipper (1985)(Edigamma)(it)</description>
+		<rom name="Flipper (1985)(Edigamma)(it).t64" size="33717" crc="f8561d21" md5="8d09571e8c34fcf8164ae9da1a60c942" sha1="cd20c4d618bd3f0a3f1b3b567fae98fce10d3143"/>
+	</game>
+	<game name="Flipper (1985)(Edigamma)(it)[a]">
+		<description>Flipper (1985)(Edigamma)(it)[a]</description>
+		<rom name="Flipper (1985)(Edigamma)(it)[a].t64" size="18070" crc="68b9556b" md5="9a3a3ab5f48d01274dd8d005cb66f574" sha1="ebc7593c87a1032b9aa184b0116cba6cf85a024b"/>
+	</game>
+	<game name="Flipper (198x)(Pubblirome)(it)[cr TAPClean]">
+		<description>Flipper (198x)(Pubblirome)(it)[cr TAPClean]</description>
+		<rom name="Flipper (198x)(Pubblirome)(it)[cr TAPClean].t64" size="73324" crc="28e89c19" md5="f6b2452ed4e72a363e228a5d6e068d16" sha1="0e53f9d84de732ec090c443e7ec6be43d46278a7"/>
+	</game>
+	<game name="Flipper Thing (1988)(CP Verlag)">
+		<description>Flipper Thing (1988)(CP Verlag)</description>
+		<rom name="Flipper Thing (1988)(CP Verlag).t64" size="18145" crc="4bc8ac2b" md5="7b9df0170837e85a865303f7283cc3f4" sha1="b6d3cbb78264e32b988ec4c07167bf5c613acdee"/>
+	</game>
+	<game name="Fox, The (19xx)(-)[cr ASS]">
+		<description>Fox, The (19xx)(-)[cr ASS]</description>
+		<rom name="Fox, The (19xx)(-)[cr ASS].t64" size="17946" crc="d8671dd7" md5="33c4335b8e735564d6acc2e666b73ddd" sha1="26758c3d32ecb1d6af5b0665d27e142ab4c5f249"/>
+	</game>
+	<game name="Freefall (19xx)(-)[cr ASS]">
+		<description>Freefall (19xx)(-)[cr ASS]</description>
+		<rom name="Freefall (19xx)(-)[cr ASS].t64" size="18896" crc="fe4b7eee" md5="a1472f3ff4202af141bc9ba8c13febef" sha1="d66e1e96ec46f464dda3cdfe0d0ccf68b605f290"/>
+	</game>
+	<game name="Fun-Stuff Pinball (19xx)(-)">
+		<description>Fun-Stuff Pinball (19xx)(-)</description>
+		<rom name="Fun-Stuff Pinball (19xx)(-).t64" size="20753" crc="bd248e77" md5="f05475728870e9aca97904d5f4ce997e" sha1="9645052e3db769123591428a2cc214190db8c081"/>
+	</game>
+	<game name="Fun-Stuff Pinball (19xx)(-)[a]">
+		<description>Fun-Stuff Pinball (19xx)(-)[a]</description>
+		<rom name="Fun-Stuff Pinball (19xx)(-)[a].t64" size="20753" crc="f55fa38d" md5="749f7df5f14feaafe46ab61f43df2b18" sha1="a00a7af103d54038c63f4b119c5eb618bf08b762"/>
+	</game>
+	<game name="Garbage (1984)(SMS)[cr ASS]">
+		<description>Garbage (1984)(SMS)[cr ASS]</description>
+		<rom name="Garbage (1984)(SMS)[cr ASS].t64" size="18361" crc="164718eb" md5="634b561035a2369fe05dc92d65f6c0bf" sha1="2b174357a991a7da438a9c3d6ecc44b7bc48430c"/>
+	</game>
+	<game name="Genericball (19xx)(-)[cr ASS]">
+		<description>Genericball (19xx)(-)[cr ASS]</description>
+		<rom name="Genericball (19xx)(-)[cr ASS].t64" size="18672" crc="65a1bd76" md5="b0b5c1a5b7829cee781da3885f0f222d" sha1="703b0f76576fb3cc8edd06017696d55e8bb953bf"/>
+	</game>
+	<game name="G-Force (19xx)(Lubeck, Olaf)[cr ASS][PCS]">
+		<description>G-Force (19xx)(Lubeck, Olaf)[cr ASS][PCS]</description>
+		<rom name="G-Force (19xx)(Lubeck, Olaf)[cr ASS][PCS].t64" size="19233" crc="9c338c85" md5="2965712a837e199f5ef7d1da0ab4ed59" sha1="e5042f5ffc1829eda82f79d2e4cb5612896ee654"/>
+	</game>
+	<game name="G-Force Pinball (19xx)(-)[cr Gods]">
+		<description>G-Force Pinball (19xx)(-)[cr Gods]</description>
+		<rom name="G-Force Pinball (19xx)(-)[cr Gods].t64" size="26893" crc="06cab5bb" md5="424e8e47097522cc280e0c46e933632b" sha1="e6c9c327f5ad14fa474a55b87582d1deed8b3e48"/>
+	</game>
+	<game name="Ghost Bumpers (1984)(Cassigi Software)[cr TBT]">
+		<description>Ghost Bumpers (1984)(Cassigi Software)[cr TBT]</description>
+		<rom name="Ghost Bumpers (1984)(Cassigi Software)[cr TBT].t64" size="21345" crc="a85316d0" md5="51598021465a29d53b2b386df32fd5d9" sha1="3f763e47547b8038ac61abd92a76977b98732b5e"/>
+	</game>
+	<game name="Ghost Bumpers (1984)(Cassigi Software)[cr TBT][a]">
+		<description>Ghost Bumpers (1984)(Cassigi Software)[cr TBT][a]</description>
+		<rom name="Ghost Bumpers (1984)(Cassigi Software)[cr TBT][a].t64" size="22273" crc="cf658347" md5="f0fc5b0e5b39814533389fcc4af7727f" sha1="ce608eb82a77a71fbc76e282488a9b41d6440fa9"/>
+	</game>
+	<game name="Ghost Bumpers (1984)(Cassigi Software)[cr TBT][a2]">
+		<description>Ghost Bumpers (1984)(Cassigi Software)[cr TBT][a2]</description>
+		<rom name="Ghost Bumpers (1984)(Cassigi Software)[cr TBT][a2].t64" size="21313" crc="f04b45d3" md5="d7348a16843a7fc6d3c53c194108f9e1" sha1="96038c73eccf594fcb841e01dc4b5c24b6f8b494"/>
+	</game>
+	<game name="Ghost Bumpers (1984)(Lubeck, Olaf)[cr .Mad.][PCS]">
+		<description>Ghost Bumpers (1984)(Lubeck, Olaf)[cr .Mad.][PCS]</description>
+		<rom name="Ghost Bumpers (1984)(Lubeck, Olaf)[cr .Mad.][PCS].t64" size="29723" crc="eaba67ac" md5="76925cd0871032849238ab2109c6e34b" sha1="c754d2d9fa4cf5243345cd9ec2e515dae576d184"/>
+	</game>
+	<game name="Gravitar (1991)(-)[cr ASS]">
+		<description>Gravitar (1991)(-)[cr ASS]</description>
+		<rom name="Gravitar (1991)(-)[cr ASS].t64" size="18477" crc="0d1afcf1" md5="c9e35f98367483cd10cb6e92decb4e2e" sha1="d1a3533ec3913d16f3afb2fc066901dbff3a8899"/>
+	</game>
+	<game name="Great White (1991)(Lubeck, Olaf)[cr ASS]">
+		<description>Great White (1991)(Lubeck, Olaf)[cr ASS]</description>
+		<rom name="Great White (1991)(Lubeck, Olaf)[cr ASS].t64" size="19278" crc="415aa0d9" md5="04e563979ad10d27a872915eac03868a" sha1="ce792092818e8bfdaff35f589cfedc924e8850f0"/>
+	</game>
+	<game name="Highway (19xx)(-)[cr Gods]">
+		<description>Highway (19xx)(-)[cr Gods]</description>
+		<rom name="Highway (19xx)(-)[cr Gods].t64" size="25824" crc="afc1e9df" md5="ea50e171dea0cc9e369df320bd99de8c" sha1="318146ffae3224c6633a4d0920abf91311f90230"/>
+	</game>
+	<game name="Horror Flip (19xx)(-)">
+		<description>Horror Flip (19xx)(-)</description>
+		<rom name="Horror Flip (19xx)(-).t64" size="18454" crc="5890c3d8" md5="817cb66bb827bf888580a8fca9645b4d" sha1="50ae0972d5af1f74aafbcc5af5fc8a2c6fe1041c"/>
+	</game>
+	<game name="Hotshot (1985)(Mamba)">
+		<description>Hotshot (1985)(Mamba)</description>
+		<rom name="Hotshot (1985)(Mamba).t64" size="19394" crc="f4a155c7" md5="7167b021169e02ae62edf93e56929c6e" sha1="a3a03ad3308226f93977d0e2c356698c46e52bca"/>
+	</game>
+	<game name="Hyper Drive (1990)(Duncan, Charles M.)[cr ASS]">
+		<description>Hyper Drive (1990)(Duncan, Charles M.)[cr ASS]</description>
+		<rom name="Hyper Drive (1990)(Duncan, Charles M.)[cr ASS].t64" size="18909" crc="70de45f3" md5="32f9d8104caa72eb660cec4fe4fc370c" sha1="26d2efd8cc3b6f0a87245998292cbec601283a2d"/>
+	</game>
+	<game name="Imperfect (1990)(Duncan, Charles M.)[h ASS]">
+		<description>Imperfect (1990)(Duncan, Charles M.)[h ASS]</description>
+		<rom name="Imperfect (1990)(Duncan, Charles M.)[h ASS].t64" size="19347" crc="6385ab54" md5="7e664bb98445cb05ea2e427d62119cf2" sha1="21efb46930407bea7170c54a81aa16bd7be8a6a0"/>
+	</game>
+	<game name="Inside Out (1991)(Duncan, Charles M.)[cr ASS]">
+		<description>Inside Out (1991)(Duncan, Charles M.)[cr ASS]</description>
+		<rom name="Inside Out (1991)(Duncan, Charles M.)[cr ASS].t64" size="19732" crc="d9a6e0cf" md5="4ce7caab801dbde59efea6a4d0733935" sha1="7009c714382e0b8b5de6116cad6d4e6a86f17f24"/>
+	</game>
+	<game name="Invisi-Ball (19xx)(-)[cr Gods]">
+		<description>Invisi-Ball (19xx)(-)[cr Gods]</description>
+		<rom name="Invisi-Ball (19xx)(-)[cr Gods].t64" size="26313" crc="ff8e9b54" md5="4a66cecaee2fa893800b5d8977ae13d2" sha1="96a8a5cadcc386d84e165336fc23e2c048ef5a2b"/>
+	</game>
+	<game name="Invision (1993)(Commodore Format)">
+		<description>Invision (1993)(Commodore Format)</description>
+		<rom name="Invision (1993)(Commodore Format).t64" size="17459" crc="2ffb3d42" md5="dcfd0b0075b41f007008db516a93aded" sha1="b8f269d005c53f8c750da97de1a76a61adce51c4"/>
+	</game>
+	<game name="Invision (1993)(Commodore Format)[a]">
+		<description>Invision (1993)(Commodore Format)[a]</description>
+		<rom name="Invision (1993)(Commodore Format)[a].t64" size="17427" crc="3adf98be" md5="f9aed7275e4b2d3b69141af94458022c" sha1="fbe3def80478f430130a23e41dfbf75c7d1c1b4d"/>
+	</game>
+	<game name="Invision (1993)(Commodore Format)[a2]">
+		<description>Invision (1993)(Commodore Format)[a2]</description>
+		<rom name="Invision (1993)(Commodore Format)[a2].t64" size="32220" crc="256f2d44" md5="bc6209167e21b80048cd86d36ce61aa7" sha1="9b333f9184372466b33abf168ba8451aa392a091"/>
+	</game>
+	<game name="Invision (1993)(Commodore Format)[a3]">
+		<description>Invision (1993)(Commodore Format)[a3]</description>
+		<rom name="Invision (1993)(Commodore Format)[a3].t64" size="31292" crc="c5abccd6" md5="352acfc6a7b133ff771f97db6f283d23" sha1="240d631873c08b11c8677a2e88a166de08128789"/>
+	</game>
+	<game name="Izod (19xx)(Lubeck, Olaf)[cr ASS][PCS]">
+		<description>Izod (19xx)(Lubeck, Olaf)[cr ASS][PCS]</description>
+		<rom name="Izod (19xx)(Lubeck, Olaf)[cr ASS][PCS].t64" size="18767" crc="03c6544a" md5="376086f3ba6aae2529e940bef97d3e72" sha1="97cd9105655f6a588638e4a0dbd0fe044ea2ab86"/>
+	</game>
+	<game name="Izoid Pinball (1987)(CRL)[cr TBA]">
+		<description>Izoid Pinball (1987)(CRL)[cr TBA]</description>
+		<rom name="Izoid Pinball (1987)(CRL)[cr TBA].t64" size="24924" crc="eed59211" md5="1e33798f8fb6e027bb1d4a584dad86b3" sha1="3a2fcb2691a8f723de6897ad437a047e0a345ab9"/>
+	</game>
+	<game name="Izoid Pinball (1987)(CRL)[cr TBA][a]">
+		<description>Izoid Pinball (1987)(CRL)[cr TBA][a]</description>
+		<rom name="Izoid Pinball (1987)(CRL)[cr TBA][a].t64" size="24925" crc="be9ef441" md5="2b71f88576c0116f01d3bedf44cc3939" sha1="6c8088559ea34017e5abea15d58d14ae529a9c83"/>
+	</game>
+	<game name="Izoid Pinball (1987)(CRL)[cr TBA][a2]">
+		<description>Izoid Pinball (1987)(CRL)[cr TBA][a2]</description>
+		<rom name="Izoid Pinball (1987)(CRL)[cr TBA][a2].t64" size="25853" crc="c82c917e" md5="2a82f6a58290c5408b6237c703eb0594" sha1="8feb9f0ddfca10e4f91a5bf4487cd2e3216b8702"/>
+	</game>
+	<game name="Izoid Pinball (1987)(CRL)[cr TBT]">
+		<description>Izoid Pinball (1987)(CRL)[cr TBT]</description>
+		<rom name="Izoid Pinball (1987)(CRL)[cr TBT].t64" size="24924" crc="0399ef26" md5="adb6d910c1afb3281b9923126ec07dbf" sha1="0116784f3a79254dcd260a0ef08492a3eade9c5d"/>
+	</game>
+	<game name="Izoid Pinball (1987)(CRL)[cr TBT][a]">
+		<description>Izoid Pinball (1987)(CRL)[cr TBT][a]</description>
+		<rom name="Izoid Pinball (1987)(CRL)[cr TBT][a].t64" size="25853" crc="6df49e38" md5="874645541c343bbf55a7481140d3a73c" sha1="fd72ed5597ce9171ab2bec6e5eb2d3ef7e5afbb3"/>
+	</game>
+	<game name="Joker Flipper (19xx)(Joker Software)">
+		<description>Joker Flipper (19xx)(Joker Software)</description>
+		<rom name="Joker Flipper (19xx)(Joker Software).t64" size="18020" crc="542ae9de" md5="3d47a63e1c03caf32b2e8042b4813ff8" sha1="47ea0f53e364fbbf0cc986072cadd88daaa3741e"/>
+	</game>
+	<game name="Jump to Advance, The (19xx)(Lubeck, Olaf)[cr ASS][PCS]">
+		<description>Jump to Advance, The (19xx)(Lubeck, Olaf)[cr ASS][PCS]</description>
+		<rom name="Jump to Advance, The (19xx)(Lubeck, Olaf)[cr ASS][PCS].t64" size="19286" crc="1a214d57" md5="bf30849a5efdb756bf1c433ab94ba300" sha1="bcd1b7f3640d45dbde8b1bb1ad6390847e17ce58"/>
+	</game>
+	<game name="Kitt 2000 (19xx)(-)">
+		<description>Kitt 2000 (19xx)(-)</description>
+		<rom name="Kitt 2000 (19xx)(-).t64" size="20074" crc="9c0426ab" md5="f827fa57eb4baf690af2d0953eb85b5c" sha1="c0bcec447af3135f63698a989dbed7b66c1921d0"/>
+	</game>
+	<game name="Kleopatra (1992)(Lubeck, Olaf)">
+		<description>Kleopatra (1992)(Lubeck, Olaf)</description>
+		<rom name="Kleopatra (1992)(Lubeck, Olaf).t64" size="18723" crc="1c09df45" md5="bcf5c9424ccf323a3164ce218e293b70" sha1="efc07a17159b3a94fd0abf42b1730ed71727f55b"/>
+	</game>
+	<game name="Lane X (1991)(-)">
+		<description>Lane X (1991)(-)</description>
+		<rom name="Lane X (1991)(-).t64" size="19386" crc="99868670" md5="fc4982cbe285709c2f841264a49ad07f" sha1="1aaee910ebf7fff4c46f74656061d1706ca138f3"/>
+	</game>
+	<game name="Laser Prism (1991)(Lubeck, Olaf)[cr ASS][PCS]">
+		<description>Laser Prism (1991)(Lubeck, Olaf)[cr ASS][PCS]</description>
+		<rom name="Laser Prism (1991)(Lubeck, Olaf)[cr ASS][PCS].t64" size="19507" crc="10b0a3db" md5="53b1dddbed64a5714e7faadfb0ed8edc" sha1="1517494f0c77a8914b8a033d2fbd0097b10e6f5b"/>
+	</game>
+	<game name="Leap of Action Pinball Sim (200x)(TND Games)(FW)">
+		<description>Leap of Action Pinball Sim (200x)(TND Games)(FW)</description>
+		<rom name="Leap of Action Pinball Sim (200x)(TND Games)(FW).t64" size="28188" crc="0d8efc1d" md5="93a93ca6442e00782d2d5978a16bc884" sha1="43690cf4d9bcccab036c8a0c88573d70b77c9ca3"/>
+	</game>
+	<game name="Legs (1991)(Lubeck, Olaf)[cr ASS][PCS]">
+		<description>Legs (1991)(Lubeck, Olaf)[cr ASS][PCS]</description>
+		<rom name="Legs (1991)(Lubeck, Olaf)[cr ASS][PCS].t64" size="19124" crc="55551f39" md5="a9685dfe8fafc95f54b0814d35c59a41" sha1="edc9c97372179af4542137a6d8a7ecf9c8b7109a"/>
+	</game>
+	<game name="Litter! (19xx)(Jam)[cr ASS]">
+		<description>Litter! (19xx)(Jam)[cr ASS]</description>
+		<rom name="Litter! (19xx)(Jam)[cr ASS].t64" size="18687" crc="0d585edc" md5="e36169a68cc145918f17c55e415e006a" sha1="80c19a7367578f3e3b92313568e8dc7c48f264c8"/>
+	</game>
+	<game name="Lone Mangy, The (1989)(Duncan, Charles M.)[cr ASS]">
+		<description>Lone Mangy, The (1989)(Duncan, Charles M.)[cr ASS]</description>
+		<rom name="Lone Mangy, The (1989)(Duncan, Charles M.)[cr ASS].t64" size="20620" crc="2c265981" md5="3054324a8198cafc7406e3f2b3ef9f8c" sha1="7a9f7f1ed2afd9aa5dad8d8754edd059377a9303"/>
+	</game>
+	<game name="Mad Ball (19xx)(-)[cr TBT]">
+		<description>Mad Ball (19xx)(-)[cr TBT]</description>
+		<rom name="Mad Ball (19xx)(-)[cr TBT].t64" size="24492" crc="3a83d60e" md5="a82b33a6bd760f4621792846c4cae08c" sha1="4c6f072b011dbbbdbfbcef503e737ebb1e4ce98f"/>
+	</game>
+	<game name="Mad Ball (19xx)(-)[cr TBT][a]">
+		<description>Mad Ball (19xx)(-)[cr TBT][a]</description>
+		<rom name="Mad Ball (19xx)(-)[cr TBT][a].t64" size="24492" crc="974c5cf3" md5="a1bba861fa780806c1de89cbcd789f51" sha1="b4d2028eeecdb0494d2c144b63b71d42e1a45838"/>
+	</game>
+	<game name="Mad Ball (19xx)(-)[cr TBT][a2]">
+		<description>Mad Ball (19xx)(-)[cr TBT][a2]</description>
+		<rom name="Mad Ball (19xx)(-)[cr TBT][a2].t64" size="23564" crc="7c7cecdd" md5="6a3de479b9e3326bfa4ce1c6f57dc240" sha1="e523686465ad18ce5334e8786c36ae9f3c03c94d"/>
+	</game>
+	<game name="Mad Ball (19xx)(-)[cr TBT][a3]">
+		<description>Mad Ball (19xx)(-)[cr TBT][a3]</description>
+		<rom name="Mad Ball (19xx)(-)[cr TBT][a3].t64" size="23564" crc="a6dde7ad" md5="d7810063d923ffaba563e4ff257a66cb" sha1="d6afbccf6c902afd28afb0fa21e38c7687c9bda6"/>
+	</game>
+	<game name="Mad Ball (19xx)(-)[cr TBT][a4]">
+		<description>Mad Ball (19xx)(-)[cr TBT][a4]</description>
+		<rom name="Mad Ball (19xx)(-)[cr TBT][a4].t64" size="24492" crc="168c7175" md5="0dd365c5f066b5e8db586c969fd5da60" sha1="a0ba59c40eadb712d0bec0d0a4e78d32dc7ae387"/>
+	</game>
+	<game name="Mad Ball (19xx)(-)[cr TBT][a5]">
+		<description>Mad Ball (19xx)(-)[cr TBT][a5]</description>
+		<rom name="Mad Ball (19xx)(-)[cr TBT][a5].t64" size="23564" crc="f63ee686" md5="f35f8d98761baca865f6c21b01d7e8a9" sha1="19891799d7b7da0bbb38ec47e0149765e620cba3"/>
+	</game>
+	<game name="Magic Pin (1989)(Commodore Disc)">
+		<description>Magic Pin (1989)(Commodore Disc)</description>
+		<rom name="Magic Pin (1989)(Commodore Disc).t64" size="21997" crc="a35427cd" md5="581a71c239236420d0d134edbc7fceb7" sha1="7941457af9b610152c585e1d5eada1626c586e65"/>
+	</game>
+	<game name="Magic Pin (1989)(Commodore Disc)[a]">
+		<description>Magic Pin (1989)(Commodore Disc)[a]</description>
+		<rom name="Magic Pin (1989)(Commodore Disc)[a].t64" size="22925" crc="aaa987b6" md5="3b891be3e5d32500924990905fc3fd53" sha1="58bd1deeb55c47cb5726d71e9a62a0a6d292a0c4"/>
+	</game>
+	<game name="Magnetic (1989)(Lubeck, Olaf)[cr ASS]">
+		<description>Magnetic (1989)(Lubeck, Olaf)[cr ASS]</description>
+		<rom name="Magnetic (1989)(Lubeck, Olaf)[cr ASS].t64" size="19538" crc="fcf30153" md5="ff377c87692f67d6a798ae40e5f359f8" sha1="ab0eaedaee42052cdd196f626e06483c1bfa7b03"/>
+	</game>
+	<game name="Magnetic II - Rad Vibes (1989)(Duncan, Charles M.)[h ASS]">
+		<description>Magnetic II - Rad Vibes (1989)(Duncan, Charles M.)[h ASS]</description>
+		<rom name="Magnetic II - Rad Vibes (1989)(Duncan, Charles M.)[h ASS].t64" size="20535" crc="b30fe83f" md5="83012c06e78adb4c96765d331e2a2b63" sha1="5fd02d21e90ccc663c4b552c67677b9bd029bdfb"/>
+	</game>
+	<game name="Magnetic III - The Disk Bust (1990)(Duncan, Charles M.)[h ASS]">
+		<description>Magnetic III - The Disk Bust (1990)(Duncan, Charles M.)[h ASS]</description>
+		<rom name="Magnetic III - The Disk Bust (1990)(Duncan, Charles M.)[h ASS].t64" size="20101" crc="017e3ab7" md5="4b09af389ceea9cb0b9164fd5f730ec7" sha1="16725c2992e37fbeeda4862ab91ff35b74c3c8b1"/>
+	</game>
+	<game name="Master Blaster (19xx)(-)">
+		<description>Master Blaster (19xx)(-)</description>
+		<rom name="Master Blaster (19xx)(-).t64" size="40859" crc="4142f30b" md5="f2c9167ace2a227ba6e5589b9a3b3aba" sha1="8473081dcd040b2f569a38777868d42978aacf21"/>
+	</game>
+	<game name="Master Blaster (19xx)(-)[a]">
+		<description>Master Blaster (19xx)(-)[a]</description>
+		<rom name="Master Blaster (19xx)(-)[a].t64" size="17352" crc="8510b3c6" md5="40775b3b57fb80426429d51b0c83d416" sha1="12561f6a0ad4759dd499de86dbae37d8a4fa0cc2"/>
+	</game>
+	<game name="Mazium (1989)(Duncan, Charles M.)[h ASS]">
+		<description>Mazium (1989)(Duncan, Charles M.)[h ASS]</description>
+		<rom name="Mazium (1989)(Duncan, Charles M.)[h ASS].t64" size="18746" crc="5eedf9d7" md5="83e081d7f2bb0f2f784a9cbbf18497cb" sha1="90637d5671c87b23c2cc5efa74037e961965a4fd"/>
+	</game>
+	<game name="Mazium II - Warp into the Danger Zone (1989)(Duncan, Charles M.)[h ASS]">
+		<description>Mazium II - Warp into the Danger Zone (1989)(Duncan, Charles M.)[h ASS]</description>
+		<rom name="Mazium II - Warp into the Danger Zone (1989)(Duncan, Charles M.)[h ASS].t64" size="19250" crc="f2fc04e7" md5="5ef7412eb36b54c4513fc1c948879128" sha1="45d4c0512487b9f2b218d78dead76f2a85e43ea9"/>
+	</game>
+	<game name="Mazium III - Drugs=Death (1989)(Duncan, Charles M.)[h ASS]">
+		<description>Mazium III - Drugs=Death (1989)(Duncan, Charles M.)[h ASS]</description>
+		<rom name="Mazium III - Drugs=Death (1989)(Duncan, Charles M.)[h ASS].t64" size="19806" crc="c0e4225e" md5="dcd916738587ab4372bf9bbc9d5dbfbb" sha1="4213d37b290f6d1d8cbdfbc24a5c6300fcda6e21"/>
+	</game>
+	<game name="Mazium IV (1990)(Duncan, Charles M.)[h ASS]">
+		<description>Mazium IV (1990)(Duncan, Charles M.)[h ASS]</description>
+		<rom name="Mazium IV (1990)(Duncan, Charles M.)[h ASS].t64" size="20212" crc="d97398ce" md5="4d1fe19638873230209ff2b4cbca5223" sha1="dbf2db0f8382229ad712241b4775acfe1a26efa5"/>
+	</game>
+	<game name="Mega Ball (19xx)(-)[cr Gods]">
+		<description>Mega Ball (19xx)(-)[cr Gods]</description>
+		<rom name="Mega Ball (19xx)(-)[cr Gods].t64" size="26942" crc="1fbf5eb4" md5="e7607e7d71ef60ea81a1167b43de10fc" sha1="ae97a90ce08b332dd7a2631fe764b531e45cf92a"/>
+	</game>
+	<game name="Meganium (1991)(Duncan, Charles M.)[cr ASS]">
+		<description>Meganium (1991)(Duncan, Charles M.)[cr ASS]</description>
+		<rom name="Meganium (1991)(Duncan, Charles M.)[cr ASS].t64" size="19944" crc="fc84d0dd" md5="32afd8593a2036c53e2f466a6184e0ae" sha1="4297544257ff469d5a3f455989a737e6ba442bf3"/>
+	</game>
+	<game name="Meta-Pin (19xx)(-)">
+		<description>Meta-Pin (19xx)(-)</description>
+		<rom name="Meta-Pin (19xx)(-).t64" size="17945" crc="0f75ed6e" md5="d115bf0454778160336db93e77d39b06" sha1="66379d1e91ac635b538dc40092d268023ea2e6bd"/>
+	</game>
+	<game name="Meta-Pin (19xx)(-)[a]">
+		<description>Meta-Pin (19xx)(-)[a]</description>
+		<rom name="Meta-Pin (19xx)(-)[a].t64" size="16897" crc="fc22daa1" md5="1d2e914dd9e71e783034d7f2e93746a6" sha1="b52f11ea89ee8fc4d44d633db460097623ec538f"/>
+	</game>
+	<game name="Microball (1989)(Duncan, Charles M.)[h ASS]">
+		<description>Microball (1989)(Duncan, Charles M.)[h ASS]</description>
+		<rom name="Microball (1989)(Duncan, Charles M.)[h ASS].t64" size="18722" crc="7bac76e3" md5="7e618109293dba858ad75b5eb0630f9c" sha1="f582b8d5594d354e6b86bea50d005ecf221d91bc"/>
+	</game>
+	<game name="Microball 2 (1989)(Duncan, Charles M.)[h ASS]">
+		<description>Microball 2 (1989)(Duncan, Charles M.)[h ASS]</description>
+		<rom name="Microball 2 (1989)(Duncan, Charles M.)[h ASS].t64" size="19770" crc="78ffa795" md5="0e69404d77f4e609a6dd8ba7014c166a" sha1="90313dec84d0339ace60c4ecc1951bc3b97440d2"/>
+	</game>
+	<game name="Microball 4 (1990)(Duncan, Charles M.)[h ASS]">
+		<description>Microball 4 (1990)(Duncan, Charles M.)[h ASS]</description>
+		<rom name="Microball 4 (1990)(Duncan, Charles M.)[h ASS].t64" size="20243" crc="d6426f2f" md5="d808a2461f9d4ec38e55cb70b65554fa" sha1="9592842375658ff1fb987cb2c49df636ae3c91ea"/>
+	</game>
+	<game name="Microball 5 (1990)(Duncan, Charles M.)[h ASS]">
+		<description>Microball 5 (1990)(Duncan, Charles M.)[h ASS]</description>
+		<rom name="Microball 5 (1990)(Duncan, Charles M.)[h ASS].t64" size="19559" crc="766b5ad5" md5="3ec8b42a3ecdd641512ce4f4ed8930ad" sha1="51eb65ebb970d36680f88d50ec03ad018686fa5c"/>
+	</game>
+	<game name="Microball III (1990)(Lubeck, Olaf)[cr ASS][PCS]">
+		<description>Microball III (1990)(Lubeck, Olaf)[cr ASS][PCS]</description>
+		<rom name="Microball III (1990)(Lubeck, Olaf)[cr ASS][PCS].t64" size="19080" crc="848dc085" md5="89d88467e5937d76fb247f50dec06463" sha1="55d9bb214679014812878e66b739412bd50df355"/>
+	</game>
+	<game name="Minute Magic (1986)(Bill Budge)">
+		<description>Minute Magic (1986)(Bill Budge)</description>
+		<rom name="Minute Magic (1986)(Bill Budge).t64" size="18498" crc="83a5daf2" md5="5f2fe3ca44ae6c6743f641b47c222569" sha1="b64b3e1352b9cae21eb833b6aa7736885ec04334"/>
+	</game>
+	<game name="Minute Magic (1986)(Bill Budge)[a]">
+		<description>Minute Magic (1986)(Bill Budge)[a]</description>
+		<rom name="Minute Magic (1986)(Bill Budge)[a].t64" size="18231" crc="624ccb74" md5="8cd4ae9d161195c575b9ccb90d976cb7" sha1="73f33811ff0465942c33feda4d0eb5e99067efde"/>
+	</game>
+	<game name="Minute Magic (19xx)(-)">
+		<description>Minute Magic (19xx)(-)</description>
+		<rom name="Minute Magic (19xx)(-).t64" size="17193" crc="3f3cf7de" md5="34329630b68b7663ea0c753115492ad0" sha1="8c1282dd2608386d1760ebc1afc60dd320aeb525"/>
+	</game>
+	<game name="Mirror Image (1991)(Duncan, Charles M.)[cr ASS]">
+		<description>Mirror Image (1991)(Duncan, Charles M.)[cr ASS]</description>
+		<rom name="Mirror Image (1991)(Duncan, Charles M.)[cr ASS].t64" size="19113" crc="349e64bb" md5="1a6f7b3ba1b223e7e4fefa9b92c2f756" sha1="bb0798a50fba81d9208131d10fa038e5dfdf7fc4"/>
+	</game>
+	<game name="Moonball (1991)(Duncan, Charles M.)[cr ASS]">
+		<description>Moonball (1991)(Duncan, Charles M.)[cr ASS]</description>
+		<rom name="Moonball (1991)(Duncan, Charles M.)[cr ASS].t64" size="18737" crc="2ba8aaf2" md5="badb26bdc7d9af71d957d5c42c8563b9" sha1="037fac48a73958a4d17351d09becbd6c69410313"/>
+	</game>
+	<game name="Mr. C (1991)(JAM)">
+		<description>Mr. C (1991)(JAM)</description>
+		<rom name="Mr. C (1991)(JAM).t64" size="18832" crc="e750d351" md5="5d22688e58ae1d9180a6eaa62134228e" sha1="5299557e26e29e67009ecc51d3843dd9d3c81cf5"/>
+	</game>
+	<game name="Neverest (1990)(Duncan, Charles M.)[h ASS]">
+		<description>Neverest (1990)(Duncan, Charles M.)[h ASS]</description>
+		<rom name="Neverest (1990)(Duncan, Charles M.)[h ASS].t64" size="18808" crc="4792eeb0" md5="7c2b8e0ada8cecdf86d9a1145fd263ab" sha1="8b546393fba673bf0c5944d323f60b02d9e1fdf5"/>
+	</game>
+	<game name="Night (19xx)(-)[cr Gods]">
+		<description>Night (19xx)(-)[cr Gods]</description>
+		<rom name="Night (19xx)(-)[cr Gods].t64" size="25336" crc="5a6f98a7" md5="63fcb3408fe89aaab521bba839ed91ba" sha1="fe6ddc947d8c1753f314c0a405be8d7574f31257"/>
+	</game>
+	<game name="Night (19xx)(-)[cr Gods][a]">
+		<description>Night (19xx)(-)[cr Gods][a]</description>
+		<rom name="Night (19xx)(-)[cr Gods][a].t64" size="26264" crc="1c6392d2" md5="095766c15df80c3f012ad98bb3bcc50c" sha1="cbb57af628498aa177e40f12beded6831c34ef21"/>
+	</game>
+	<game name="Nightmare, The (1987)(SJF)">
+		<description>Nightmare, The (1987)(SJF)</description>
+		<rom name="Nightmare, The (1987)(SJF).t64" size="20880" crc="61dbc478" md5="8cecdb91c4b2243fcc4b8dec2a0071ef" sha1="6e08e2bb984e5010528c0941614b9d470c79a15d"/>
+	</game>
+	<game name="Nightmare, The (1987)(SJF)[a]">
+		<description>Nightmare, The (1987)(SJF)[a]</description>
+		<rom name="Nightmare, The (1987)(SJF)[a].t64" size="20880" crc="1cc52971" md5="bee013222b67500e5de410e718481c5c" sha1="c875821340f5c430cabebafb8b8f4074bbcc3ba8"/>
+	</game>
+	<game name="No Gold (19xx)(-)">
+		<description>No Gold (19xx)(-)</description>
+		<rom name="No Gold (19xx)(-).t64" size="19498" crc="5fac9452" md5="b8b4360e9191c3fa79d544c38e1a7ce5" sha1="6e5672e868ce06c1e9d5d6aa1748f8ea9a57e42e"/>
+	</game>
+	<game name="No Gold (19xx)(-)[a]">
+		<description>No Gold (19xx)(-)[a]</description>
+		<rom name="No Gold (19xx)(-)[a].t64" size="19498" crc="b53108d8" md5="1dd75fc5afb5993d68fead9de2d59a57" sha1="954e89b2c3a40f377fd306c3b5f6ffc87ad43ac5"/>
+	</game>
+	<game name="Numbers (1991)(Lubeck, Olaf)">
+		<description>Numbers (1991)(Lubeck, Olaf)</description>
+		<rom name="Numbers (1991)(Lubeck, Olaf).t64" size="19016" crc="a653ef0d" md5="684fb7392fb18f1f77bf213907e323c6" sha1="94e356d25453d1d264f3514f495d2f049fd5686f"/>
+	</game>
+	<game name="Octagon Pinball (1986)(Bryan Lambert)[cr TBT]">
+		<description>Octagon Pinball (1986)(Bryan Lambert)[cr TBT]</description>
+		<rom name="Octagon Pinball (1986)(Bryan Lambert)[cr TBT].t64" size="21557" crc="c1077eaa" md5="5ea13a2f27fb71d4927399fa42bac99c" sha1="2928e93a0eafed4c867a5b8adfeea78fdd547df7"/>
+	</game>
+	<game name="Octagon Pinball (1986)(Bryan Lambert)[cr TBT][a]">
+		<description>Octagon Pinball (1986)(Bryan Lambert)[cr TBT][a]</description>
+		<rom name="Octagon Pinball (1986)(Bryan Lambert)[cr TBT][a].t64" size="22484" crc="95a97114" md5="6207454d9460bc9017b0d21de45dd192" sha1="30de3449a396d292be247286ec60f2d28adf8942"/>
+	</game>
+	<game name="Octagon Pinball (1986)(Bryan Lambert)[cr TBT][a2]">
+		<description>Octagon Pinball (1986)(Bryan Lambert)[cr TBT][a2]</description>
+		<rom name="Octagon Pinball (1986)(Bryan Lambert)[cr TBT][a2].t64" size="21556" crc="8a2b699c" md5="f383f58b18007af469c628853a678cb4" sha1="7a563c5ea350e3b17070f58ee658a82927323167"/>
+	</game>
+	<game name="Octagon Pinball (1986)(Bryan Lambert)[cr TBT][a3]">
+		<description>Octagon Pinball (1986)(Bryan Lambert)[cr TBT][a3]</description>
+		<rom name="Octagon Pinball (1986)(Bryan Lambert)[cr TBT][a3].t64" size="21557" crc="bfe0198a" md5="8e1837fb478782c567ff70ef60509252" sha1="62c32b615dfd95a1bca24e71f0f6619eff6b2153"/>
+	</game>
+	<game name="Octagon Pinball (1986)(Bryan Lambert)[cr TBT][a4]">
+		<description>Octagon Pinball (1986)(Bryan Lambert)[cr TBT][a4]</description>
+		<rom name="Octagon Pinball (1986)(Bryan Lambert)[cr TBT][a4].t64" size="21556" crc="068f20f4" md5="ea21b786972dc10b4be038c61001d661" sha1="a39ce212da8d5d251b1e12a3cd52a014d6cf4a4c"/>
+	</game>
+	<game name="Octagon Pinball (1986)(Bryan Lambert)[cr TBT][a5]">
+		<description>Octagon Pinball (1986)(Bryan Lambert)[cr TBT][a5]</description>
+		<rom name="Octagon Pinball (1986)(Bryan Lambert)[cr TBT][a5].t64" size="22484" crc="73d0d3b4" md5="55c20f10d07366a70228ed411ee60fa8" sha1="f28469f8ec0d6c3c83df36c43ed93feb6070124e"/>
+	</game>
+	<game name="Octagon Pinball (1986)(Bryan Lambert)[cr TBT][a6]">
+		<description>Octagon Pinball (1986)(Bryan Lambert)[cr TBT][a6]</description>
+		<rom name="Octagon Pinball (1986)(Bryan Lambert)[cr TBT][a6].t64" size="21557" crc="86a40894" md5="b68971ffdf5d5a3e0f252ad47595e1e8" sha1="d8f51162b972d59a07520b52b901af89c635876e"/>
+	</game>
+	<game name="Oddball (1988)(Duncan, Charles M.)[cr ASS]">
+		<description>Oddball (1988)(Duncan, Charles M.)[cr ASS]</description>
+		<rom name="Oddball (1988)(Duncan, Charles M.)[cr ASS].t64" size="18849" crc="20dee85c" md5="19c32d26974e5c65dec0abffc1da3588" sha1="245e74f72cb7b865b36a512d22cb53fe01453544"/>
+	</game>
+	<game name="Oddball II (1990)(Duncan, Charles M.)[cr ASS]">
+		<description>Oddball II (1990)(Duncan, Charles M.)[cr ASS]</description>
+		<rom name="Oddball II (1990)(Duncan, Charles M.)[cr ASS].t64" size="19553" crc="1917c5c0" md5="5a03b3a859e6bc248eaba71114307236" sha1="597ebe923540ddd9f239a91aa92983292aa057f9"/>
+	</game>
+	<game name="Ol&apos; Bean, The (1989)(Duncan, Charles M.)[cr ASS]">
+		<description>Ol&apos; Bean, The (1989)(Duncan, Charles M.)[cr ASS]</description>
+		<rom name="Ol&apos; Bean, The (1989)(Duncan, Charles M.)[cr ASS].t64" size="20158" crc="49019fd6" md5="63ad8fa904aeb999b204c96c4f8903fe" sha1="2cb42640c4da9d2b1a00e4971af12f5a7c5f4081"/>
+	</game>
+	<game name="Outer Reaches, The (1991)(Lubeck, Olaf)[cr ASS][PCS]">
+		<description>Outer Reaches, The (1991)(Lubeck, Olaf)[cr ASS][PCS]</description>
+		<rom name="Outer Reaches, The (1991)(Lubeck, Olaf)[cr ASS][PCS].t64" size="19603" crc="6206f73c" md5="bfa51f0e9e3195780c7a6d75452df0ca" sha1="f02c9187ef390576dfc7f53a376e6e8f64f1c9cb"/>
+	</game>
+	<game name="Pachinko - Chinese Pinball (1991)(Richter, Donald)">
+		<description>Pachinko - Chinese Pinball (1991)(Richter, Donald)</description>
+		<rom name="Pachinko - Chinese Pinball (1991)(Richter, Donald).t64" size="22276" crc="e8ea5a79" md5="a8b12e34d4ffbf2655e587db888853c4" sha1="b7d7cc39581f10685a51d86b796eaddf218371ee"/>
+	</game>
+	<game name="Parromania (1989)(Duncan, Charles M.)[cr ASS]">
+		<description>Parromania (1989)(Duncan, Charles M.)[cr ASS]</description>
+		<rom name="Parromania (1989)(Duncan, Charles M.)[cr ASS].t64" size="18557" crc="ae0f0b83" md5="4c017291b08d54c445a2a2657412e6b9" sha1="4b5afd00e6c1ef021ab354fff5033560ce385e7a"/>
+	</game>
+	<game name="Piranha (1989)(Duncan, Charles M.)[cr ASS]">
+		<description>Piranha (1989)(Duncan, Charles M.)[cr ASS]</description>
+		<rom name="Piranha (1989)(Duncan, Charles M.)[cr ASS].t64" size="18196" crc="4efb1b36" md5="6333b23a2a1b029d4a337c461a96407a" sha1="72644dc5bb98108023d83a93f306eb2dce1d2a28"/>
+	</game>
+	<game name="Pirat Club (19xx)(Dag)">
+		<description>Pirat Club (19xx)(Dag)</description>
+		<rom name="Pirat Club (19xx)(Dag).t64" size="18796" crc="22b570f6" md5="6daf5d499b4433017c2fb9d35096ffe1" sha1="6475bcb6c2d994abf89e12ee61587ac977bffc24"/>
+	</game>
+	<game name="Pirhana II (1991)(Duncan, Charles M.)[cr ASS]">
+		<description>Pirhana II (1991)(Duncan, Charles M.)[cr ASS]</description>
+		<rom name="Pirhana II (1991)(Duncan, Charles M.)[cr ASS].t64" size="19332" crc="fa575a15" md5="a69bf844c15b5c6a94ea34efefac5f46" sha1="5baba80fc84e45b88b1d13e6e93e22435f366b74"/>
+	</game>
+	<game name="Pit Ball, The (1991)(Duncan, Charles M.)[cr ASS]">
+		<description>Pit Ball, The (1991)(Duncan, Charles M.)[cr ASS]</description>
+		<rom name="Pit Ball, The (1991)(Duncan, Charles M.)[cr ASS].t64" size="18982" crc="36cfa5d1" md5="c5c8bd17662a901a9e7bedec51e381cd" sha1="a63d1dd1ae997f450e910f23a5c4e6d7efe60501"/>
+	</game>
+	<game name="Planet X (1984)(R. Bower)[cr Gods]">
+		<description>Planet X (1984)(R. Bower)[cr Gods]</description>
+		<rom name="Planet X (1984)(R. Bower)[cr Gods].t64" size="28119" crc="eab5f008" md5="08befc4dbbc2073fbd65ca22e87d17cf" sha1="bbdd455558a890ecab33a7aa7ec645085c79ba4c"/>
+	</game>
+	<game name="Planet X (19xx)(Lubeck, Olaf)[cr ASS][PCS]">
+		<description>Planet X (19xx)(Lubeck, Olaf)[cr ASS][PCS]</description>
+		<rom name="Planet X (19xx)(Lubeck, Olaf)[cr ASS][PCS].t64" size="19728" crc="5f882f8b" md5="438a33354583838745e4a74d0e2c4fac" sha1="9b470298dd0cd1a3079ff300d2192f676822e1fe"/>
+	</game>
+	<game name="Pool (1992)(Brew Krew)">
+		<description>Pool (1992)(Brew Krew)</description>
+		<rom name="Pool (1992)(Brew Krew).t64" size="18112" crc="ca8aa554" md5="f2a798b78ded605ebb00c41a51783932" sha1="22940f95f9332e617dec44fdec392c8b7ca2bdda"/>
+	</game>
+	<game name="Popeye (1984)(HS)">
+		<description>Popeye (1984)(HS)</description>
+		<rom name="Popeye (1984)(HS).t64" size="32264" crc="66e0380b" md5="fdd6aa04288799f7fb6083151a8a7690" sha1="ed8e0ebc8055cc392a7ee6a9b71a2af3d3f1e44e"/>
+	</game>
+	<game name="Popeye (1984)(HS)[a]">
+		<description>Popeye (1984)(HS)[a]</description>
+		<rom name="Popeye (1984)(HS)[a].t64" size="33192" crc="62f56f77" md5="5407f9b20907571c322998b349a417bd" sha1="bc2a5be14fd835af616303343ea2c2b7d218e266"/>
+	</game>
+	<game name="Precaryus (1990)(Duncan, Charles M.)[cr ASS]">
+		<description>Precaryus (1990)(Duncan, Charles M.)[cr ASS]</description>
+		<rom name="Precaryus (1990)(Duncan, Charles M.)[cr ASS].t64" size="20486" crc="99eeb428" md5="4b0108b7731f34861ac86934f4463258" sha1="5736de7be3dbc11a6e1ca1ed50eb45d989073505"/>
+	</game>
+	<game name="Prototype I (19xx)(J.J. Jr.)[cr Gods]">
+		<description>Prototype I (19xx)(J.J. Jr.)[cr Gods]</description>
+		<rom name="Prototype I (19xx)(J.J. Jr.)[cr Gods].t64" size="27411" crc="73ab10f1" md5="f4137c4056580392e6a83940765f9c80" sha1="aef0c5ccca0eb10fbef705a8bf72ca426b5e5ae6"/>
+	</game>
+	<game name="Prototype II (19xx)(J.J. Jr.)[cr Gods]">
+		<description>Prototype II (19xx)(J.J. Jr.)[cr Gods]</description>
+		<rom name="Prototype II (19xx)(J.J. Jr.)[cr Gods].t64" size="25947" crc="211da698" md5="276f7b28924dfba48ca6eb77f3cfd8db" sha1="a6ca89a2a4a183ab0a18170062af3990baf841c7"/>
+	</game>
+	<game name="Prototype II (19xx)(J.J. Jr.)[cr Gods][a]">
+		<description>Prototype II (19xx)(J.J. Jr.)[cr Gods][a]</description>
+		<rom name="Prototype II (19xx)(J.J. Jr.)[cr Gods][a].t64" size="25947" crc="aecd50cf" md5="c4136e33987239b54bd4027b1e00934a" sha1="5875d7ae4be679a3fb5a2c66f173dc41ed54c3b8"/>
+	</game>
+	<game name="Prototype II (19xx)(J.J. Jr.)[cr Gods][a2]">
+		<description>Prototype II (19xx)(J.J. Jr.)[cr Gods][a2]</description>
+		<rom name="Prototype II (19xx)(J.J. Jr.)[cr Gods][a2].t64" size="26875" crc="9cae4f01" md5="dd4d51b2102cf9a6c64a1a88bc634f7b" sha1="65e5e559ffa1260604787e55a443120b6cb22228"/>
+	</game>
+	<game name="Prototype II (19xx)(J.J. Jr.)[cr Gods][a3]">
+		<description>Prototype II (19xx)(J.J. Jr.)[cr Gods][a3]</description>
+		<rom name="Prototype II (19xx)(J.J. Jr.)[cr Gods][a3].t64" size="26875" crc="5cf4fc9e" md5="168d813620a4def3aef3c78327be3f5d" sha1="4b00b36fd5a0ac74c7411a584b76f9d4abe6d2d7"/>
+	</game>
+	<game name="Prototype II (19xx)(J.J. Jr.)[cr Gods][a4]">
+		<description>Prototype II (19xx)(J.J. Jr.)[cr Gods][a4]</description>
+		<rom name="Prototype II (19xx)(J.J. Jr.)[cr Gods][a4].t64" size="25947" crc="db40a1cd" md5="cadf4062ac77e3a6932eaf899ded7987" sha1="76d452a6cfb3aee594b66666d6e70af4918002c0"/>
+	</game>
+	<game name="Prototype II (19xx)(J.J. Jr.)[cr Gods][a5]">
+		<description>Prototype II (19xx)(J.J. Jr.)[cr Gods][a5]</description>
+		<rom name="Prototype II (19xx)(J.J. Jr.)[cr Gods][a5].t64" size="26875" crc="97bc1bf6" md5="0de69ecf9a5cbc8ab8b71cd2e8c566b0" sha1="040437033490e08528a820d451675944f785b750"/>
+	</game>
+	<game name="Prototype III (19xx)(J.J. Jr.)[cr Gods]">
+		<description>Prototype III (19xx)(J.J. Jr.)[cr Gods]</description>
+		<rom name="Prototype III (19xx)(J.J. Jr.)[cr Gods].t64" size="26026" crc="c6b988fa" md5="bfe9fa8a8976321ef56f0dcccfca6c4c" sha1="4493409a4ea7c3649cd8aac7013d5ba86533749a"/>
+	</game>
+	<game name="Prototype IV (19xx)(J.J. Jr.)[cr Gods]">
+		<description>Prototype IV (19xx)(J.J. Jr.)[cr Gods]</description>
+		<rom name="Prototype IV (19xx)(J.J. Jr.)[cr Gods].t64" size="28263" crc="20b71d55" md5="f1fd6ed7a8dd133096baab8859ef7bfe" sha1="4bbedea03bdefa16be0c141e55dba31a3513d2ee"/>
+	</game>
+	<game name="Puma (1991)(Puma Rock)">
+		<description>Puma (1991)(Puma Rock)</description>
+		<rom name="Puma (1991)(Puma Rock).t64" size="18750" crc="bf8c64cf" md5="a22e9725c1e8fd14fda840260baed7ce" sha1="46959082194cde9a059d88017988cbd6d3e4ffff"/>
+	</game>
+	<game name="Pwappy&apos;s Flippers (19xx)(-)">
+		<description>Pwappy&apos;s Flippers (19xx)(-)</description>
+		<rom name="Pwappy&apos;s Flippers (19xx)(-).t64" size="20108" crc="a4f009cb" md5="673fe3b12357ad560dace521e48c0876" sha1="21d3b8481b67da8478bec1f6b6747359ba66b479"/>
+	</game>
+	<game name="Pwappy&apos;s Flippers (19xx)(-)[a]">
+		<description>Pwappy&apos;s Flippers (19xx)(-)[a]</description>
+		<rom name="Pwappy&apos;s Flippers (19xx)(-)[a].t64" size="20108" crc="b5036f66" md5="449bffbf4cb3166511e61f47aed396d3" sha1="fe7bc15b1435b6343afd3945e44a398248525282"/>
+	</game>
+	<game name="Qazi Pinball Sim (200x)(TND Games)(FW)">
+		<description>Qazi Pinball Sim (200x)(TND Games)(FW)</description>
+		<rom name="Qazi Pinball Sim (200x)(TND Games)(FW).t64" size="25323" crc="28fded60" md5="86d0740e96dda50bac3f4b0bcf2bf8f4" sha1="c6896cd05ace324c97e77293d83610b6bcdd3745"/>
+	</game>
+	<game name="Quickness (1990)(Duncan, Charles M.)[h ASS]">
+		<description>Quickness (1990)(Duncan, Charles M.)[h ASS]</description>
+		<rom name="Quickness (1990)(Duncan, Charles M.)[h ASS].t64" size="18977" crc="6526fe21" md5="9e13113f86d8c42f575062677240ddeb" sha1="b9306d6f7d4fb1fd2644132e933ac1294100356b"/>
+	</game>
+	<game name="Radball (1990)(Duncan, Charles M.)[cr ASS]">
+		<description>Radball (1990)(Duncan, Charles M.)[cr ASS]</description>
+		<rom name="Radball (1990)(Duncan, Charles M.)[cr ASS].t64" size="19827" crc="aa03f41e" md5="ad8ed95aa9b37fbb63a277ac36da9b82" sha1="d8a9b902f67664a421ae4d3c675d71469df5ff5f"/>
+	</game>
+	<game name="Raid on Nietegsorg! (1990)(Duncan, Charles M.)[cr ASS]">
+		<description>Raid on Nietegsorg! (1990)(Duncan, Charles M.)[cr ASS]</description>
+		<rom name="Raid on Nietegsorg! (1990)(Duncan, Charles M.)[cr ASS].t64" size="19469" crc="c8d4ec7d" md5="13613a1e8424d7fe6e26f89d758accb7" sha1="26b1939c7aa59d9f3c228dacec3a577c0ed159a4"/>
+	</game>
+	<game name="Rainbow Pinball (19xx)(-)[cr Gods]">
+		<description>Rainbow Pinball (19xx)(-)[cr Gods]</description>
+		<rom name="Rainbow Pinball (19xx)(-)[cr Gods].t64" size="27911" crc="c23420db" md5="1862e533f2213d317c8e30906135a587" sha1="6f0df0a2dac3be6b830b6fa2e1d60aa29beb09d4"/>
+	</game>
+	<game name="Rat Maze (19xx)(Bloodsong)[cr ASS]">
+		<description>Rat Maze (19xx)(Bloodsong)[cr ASS]</description>
+		<rom name="Rat Maze (19xx)(Bloodsong)[cr ASS].t64" size="19235" crc="fe703252" md5="7827f2a5ce6c507f984010099b16ca50" sha1="0def23aba08f8c4e7b1257d135e8d5cc09693928"/>
+	</game>
+	<game name="Red Dragon (19xx)(Lubeck, Olaf)[cr ASS][PCS]">
+		<description>Red Dragon (19xx)(Lubeck, Olaf)[cr ASS][PCS]</description>
+		<rom name="Red Dragon (19xx)(Lubeck, Olaf)[cr ASS][PCS].t64" size="19014" crc="f1350657" md5="52d46e5358d757df82171e3990562805" sha1="a7fec5c2eb3c672f591619077b2714fe68119854"/>
+	</game>
+	<game name="Return to Firgamica (1990)(Lubeck, Olaf)[cr ASS][PCS]">
+		<description>Return to Firgamica (1990)(Lubeck, Olaf)[cr ASS][PCS]</description>
+		<rom name="Return to Firgamica (1990)(Lubeck, Olaf)[cr ASS][PCS].t64" size="18471" crc="9a1a3653" md5="331c68266b40ae21b0574001af37e654" sha1="1d314c7a070482ae3b657e2a2b56e6c3d606cddb"/>
+	</game>
+	<game name="Revenge 1.1 (19xx)(Lubeck, Olaf)[cr ASS][PCS]">
+		<description>Revenge 1.1 (19xx)(Lubeck, Olaf)[cr ASS][PCS]</description>
+		<rom name="Revenge 1.1 (19xx)(Lubeck, Olaf)[cr ASS][PCS].t64" size="19151" crc="6beb66a3" md5="7520243b223eb05dd453b78c080ca64b" sha1="0b11c9e87493217d05f6fadc3db8a7c7ef2250d5"/>
+	</game>
+	<game name="Ricachet (1991)(-)">
+		<description>Ricachet (1991)(-)</description>
+		<rom name="Ricachet (1991)(-).t64" size="19450" crc="9110e837" md5="2a38e4d3e344c606c0d2353981bebc4e" sha1="151296a6c656075c41d37406bd66fad3504c0d00"/>
+	</game>
+	<game name="Roller (19xx)(-)[cr Power Force]">
+		<description>Roller (19xx)(-)[cr Power Force]</description>
+		<rom name="Roller (19xx)(-)[cr Power Force].t64" size="27204" crc="3da6e9ac" md5="a55e27348c42cdcc1cd3fb8de78bc837" sha1="51a67f815bf36b4d7705d3fc2b22f0947e9342f6"/>
+	</game>
+	<game name="Roller (19xx)(-)[cr Power Force][a]">
+		<description>Roller (19xx)(-)[cr Power Force][a]</description>
+		<rom name="Roller (19xx)(-)[cr Power Force][a].t64" size="27204" crc="ac595e77" md5="78d42044a7dc6e5d5621163970208326" sha1="6cf09fd4d605a50a31de3de0cf3e3d0ff02ced46"/>
+	</game>
+	<game name="Roller (19xx)(-)[cr Power Force][a2]">
+		<description>Roller (19xx)(-)[cr Power Force][a2]</description>
+		<rom name="Roller (19xx)(-)[cr Power Force][a2].t64" size="28132" crc="adaa0b9e" md5="7d4e2594b33cda09db880888a52731fc" sha1="ccaa56c632fec50c31abd5b123fd498bec4c74c1"/>
+	</game>
+	<game name="RoundAbout (1991)(Duncan, Charles M.)[h ASS]">
+		<description>RoundAbout (1991)(Duncan, Charles M.)[h ASS]</description>
+		<rom name="RoundAbout (1991)(Duncan, Charles M.)[h ASS].t64" size="19692" crc="941138df" md5="738812c204d6a5513b41cc5ee2aeda04" sha1="abeda6d629c34c0b94f0baef78007d6954fb4b24"/>
+	</game>
+	<game name="Scorpion (1991)(Duncan, Charles M.)[h ASS]">
+		<description>Scorpion (1991)(Duncan, Charles M.)[h ASS]</description>
+		<rom name="Scorpion (1991)(Duncan, Charles M.)[h ASS].t64" size="19815" crc="fbac6047" md5="e243b1d8d334586f021a162f6fd2c1f5" sha1="7a03a0cb14eed5578dfb07777e1cb06d99a6b248"/>
+	</game>
+	<game name="Sea Hawks (1991)(Dave Costello)[h ASS]">
+		<description>Sea Hawks (1991)(Dave Costello)[h ASS]</description>
+		<rom name="Sea Hawks (1991)(Dave Costello)[h ASS].t64" size="19197" crc="d5a3bfdd" md5="a4e1caa59c094ec88446c77ad0b15b46" sha1="0c163ffa904ef8bd3a4ec20d24566cb9e31aea68"/>
+	</game>
+	<game name="Shooting Star (1986)(GUE)[cr The TZ]">
+		<description>Shooting Star (1986)(GUE)[cr The TZ]</description>
+		<rom name="Shooting Star (1986)(GUE)[cr The TZ].t64" size="35948" crc="3f2c51c7" md5="6ee71ff9acf68d9b516ad2381517ec13" sha1="8c28a9b728abd7039d97314c8e1a04d58a99e1c2"/>
+	</game>
+	<game name="Shooting Star (1986)(GUE)[cr The TZ][a]">
+		<description>Shooting Star (1986)(GUE)[cr The TZ][a]</description>
+		<rom name="Shooting Star (1986)(GUE)[cr The TZ][a].t64" size="36876" crc="144c4b6e" md5="dd86f92b61b5401a8209c7991292e7c2" sha1="3b4ec427fc2c0c8a6d4997b8eaa78e5538bfceaa"/>
+	</game>
+	<game name="Simpsons, The - Help Homer Man (19xx)(Lubeck, Olaf)[cr WDR][PCS]">
+		<description>Simpsons, The - Help Homer Man (19xx)(Lubeck, Olaf)[cr WDR][PCS]</description>
+		<rom name="Simpsons, The - Help Homer Man (19xx)(Lubeck, Olaf)[cr WDR][PCS].t64" size="34541" crc="90a4848a" md5="14368a5880c066fcdc9de8dc91042a2c" sha1="3fc532225c3cc53922422333b3d5e25f3f6d9c1b"/>
+	</game>
+	<game name="Simpsons, The - Help Homer Man (19xx)(Starblazer)[cr GOD Piracy Inc.]">
+		<description>Simpsons, The - Help Homer Man (19xx)(Starblazer)[cr GOD Piracy Inc.]</description>
+		<rom name="Simpsons, The - Help Homer Man (19xx)(Starblazer)[cr GOD Piracy Inc.].t64" size="18797" crc="52841698" md5="34ee6750eb2b83afe4d9d3e14be54114" sha1="41b3356198f45fa71b3a1ff5f51c8710898b0bd5"/>
+	</game>
+	<game name="Sin City (19xx)(-)[cr ASS]">
+		<description>Sin City (19xx)(-)[cr ASS]</description>
+		<rom name="Sin City (19xx)(-)[cr ASS].t64" size="19265" crc="63799ca1" md5="c34323b8d519357d03c8bec2642f1a22" sha1="9ca5818154570becc0d5134cd22f838a8c835217"/>
+	</game>
+	<game name="Slick (1991)(Lubeck, Olaf)[cr ASS][PCS]">
+		<description>Slick (1991)(Lubeck, Olaf)[cr ASS][PCS]</description>
+		<rom name="Slick (1991)(Lubeck, Olaf)[cr ASS][PCS].t64" size="18721" crc="cf806a50" md5="a505cddda6011bab6e859d639dd5be97" sha1="6da81db031ff357a1816af8b14f878daf1f56434"/>
+	</game>
+	<game name="Snake Bite (19xx)(Lubeck, Olaf)[cr ASS][PCS]">
+		<description>Snake Bite (19xx)(Lubeck, Olaf)[cr ASS][PCS]</description>
+		<rom name="Snake Bite (19xx)(Lubeck, Olaf)[cr ASS][PCS].t64" size="19087" crc="71e8a90d" md5="f235c4238d472b5d20cc2d18e235c7d7" sha1="27b6e6f6b90f3b4d39b2230591ba76777ff67a4f"/>
+	</game>
+	<game name="Snake Bite Pinball (1987)(SJF)[cr TBT]">
+		<description>Snake Bite Pinball (1987)(SJF)[cr TBT]</description>
+		<rom name="Snake Bite Pinball (1987)(SJF)[cr TBT].t64" size="23144" crc="154e1614" md5="a7062576809cde26c3a053a30c91d046" sha1="79a864c04190f496ef134cabf32ea946ad6d94f4"/>
+	</game>
+	<game name="Snake Bite Pinball (1987)(SJF)[cr TBT][a]">
+		<description>Snake Bite Pinball (1987)(SJF)[cr TBT][a]</description>
+		<rom name="Snake Bite Pinball (1987)(SJF)[cr TBT][a].t64" size="24072" crc="bc21dc01" md5="34eae042023656f7e42dcc7ce3d6efde" sha1="7c557e7322c60d814bdbb0533ebd595066014343"/>
+	</game>
+	<game name="Snake Bite Pinball (1987)(SJF)[cr TBT][a2]">
+		<description>Snake Bite Pinball (1987)(SJF)[cr TBT][a2]</description>
+		<rom name="Snake Bite Pinball (1987)(SJF)[cr TBT][a2].t64" size="24072" crc="719cd7c5" md5="e9cdd40eb548343556c1dbe93647a211" sha1="ca12240451b3c9d869edc59b3a7d3ea2c735a79c"/>
+	</game>
+	<game name="Snake Bite Pinball (1987)(SJF)[cr TBT][a3]">
+		<description>Snake Bite Pinball (1987)(SJF)[cr TBT][a3]</description>
+		<rom name="Snake Bite Pinball (1987)(SJF)[cr TBT][a3].t64" size="23265" crc="35dfed8c" md5="ad8f416d69604b3bc394c8d4ebef6bbe" sha1="36a179b80c2f98a47203f3bc9eefcaaf0670115a"/>
+	</game>
+	<game name="Snake Bite Pinball (1987)(SJF)[cr TBT][a4]">
+		<description>Snake Bite Pinball (1987)(SJF)[cr TBT][a4]</description>
+		<rom name="Snake Bite Pinball (1987)(SJF)[cr TBT][a4].t64" size="24193" crc="40d8995b" md5="e6ae58a9dbb684b760df3d8034823f72" sha1="7985a69b305a51c4133699be6fc9b640b96ba53b"/>
+	</game>
+	<game name="Snake Bite Pinball (1987)(SJF)[cr TBT][a5]">
+		<description>Snake Bite Pinball (1987)(SJF)[cr TBT][a5]</description>
+		<rom name="Snake Bite Pinball (1987)(SJF)[cr TBT][a5].t64" size="23144" crc="463d6d3b" md5="15c6c2863ccaf65daefe2e7dcd816793" sha1="767280796de29c1f6a3c7674bc06d9fb83a3928f"/>
+	</game>
+	<game name="Snowballs (1987)(Protocol Productions)">
+		<description>Snowballs (1987)(Protocol Productions)</description>
+		<rom name="Snowballs (1987)(Protocol Productions).t64" size="50499" crc="168434b8" md5="8d52350e3f89f632b1554a7e161149c8" sha1="32ed64991d06e1a14b545fe12e09649d5a38c86b"/>
+	</game>
+	<game name="So! (19xx)(Lubeck, Olaf)[cr ASS][PCS]">
+		<description>So! (19xx)(Lubeck, Olaf)[cr ASS][PCS]</description>
+		<rom name="So! (19xx)(Lubeck, Olaf)[cr ASS][PCS].t64" size="19136" crc="bba656ae" md5="110b371fe916e904f155a02b270a4a1f" sha1="baad4d228385f657e407bcff2a107ddabace5cc9"/>
+	</game>
+	<game name="Solar Pinball (19xx)(Lubeck, Olaf)[cr Gods][PCS]">
+		<description>Solar Pinball (19xx)(Lubeck, Olaf)[cr Gods][PCS]</description>
+		<rom name="Solar Pinball (19xx)(Lubeck, Olaf)[cr Gods][PCS].t64" size="25459" crc="03e4b0e2" md5="f46855cddaac722fbd2d4672b469bc39" sha1="642d2eb9b71b4c7928e167edb45cc8c8f4c03593"/>
+	</game>
+	<game name="Spinal Tap (1991)(-)[h ASS]">
+		<description>Spinal Tap (1991)(-)[h ASS]</description>
+		<rom name="Spinal Tap (1991)(-)[h ASS].t64" size="19799" crc="ac831cf1" md5="d0f5611f33548f65d968e26f4eaff4c4" sha1="da7b9022b201081691e10bd64ba4787c0df637bf"/>
+	</game>
+	<game name="Spittin Image (19xx)(Puma Rock)[h ASS]">
+		<description>Spittin Image (19xx)(Puma Rock)[h ASS]</description>
+		<rom name="Spittin Image (19xx)(Puma Rock)[h ASS].t64" size="18074" crc="35863abd" md5="99817eb2110c59cd80437c0ba8620648" sha1="d67965a920542550850a9b72137d6f9eb3a8c1a2"/>
+	</game>
+	<game name="Split Personality (1991)(Lubeck, Olaf)[cr ASS][PCS]">
+		<description>Split Personality (1991)(Lubeck, Olaf)[cr ASS][PCS]</description>
+		<rom name="Split Personality (1991)(Lubeck, Olaf)[cr ASS][PCS].t64" size="18985" crc="adb2a39c" md5="a6738e5aab66af1b8c5cb1dffd032e83" sha1="a56f0cf3d4a4e0c760418eb42ae520c00d1d5798"/>
+	</game>
+	<game name="Spring Break (1991)(Bloodsong)">
+		<description>Spring Break (1991)(Bloodsong)</description>
+		<rom name="Spring Break (1991)(Bloodsong).t64" size="20070" crc="840489d2" md5="c7641b9a15612f3ad73b9c02c01703d7" sha1="f0155e5566a043dd1bc4d6d16f1844ef1dc65b0f"/>
+	</game>
+	<game name="Stack Em Up (19xx)(-)">
+		<description>Stack Em Up (19xx)(-)</description>
+		<rom name="Stack Em Up (19xx)(-).t64" size="17488" crc="a9b237b5" md5="a7758c0830adcba1e7059b83f9ec9475" sha1="a7de4b0464c5d377c8a541a4b1758ee57ad1d99b"/>
+	</game>
+	<game name="Star Blazers (2002)(TND Games)(FW)[h ASS]">
+		<description>Star Blazers (2002)(TND Games)(FW)[h ASS]</description>
+		<rom name="Star Blazers (2002)(TND Games)(FW)[h ASS].t64" size="19445" crc="3427dd73" md5="370febf3da37c41eb0fddd2026d70929" sha1="d79ac639081ed4d05f3f24918488f01ec03c3e99"/>
+	</game>
+	<game name="Star Dust (19xx)(-)[h ASS]">
+		<description>Star Dust (19xx)(-)[h ASS]</description>
+		<rom name="Star Dust (19xx)(-)[h ASS].t64" size="18775" crc="bce094da" md5="d2dedeff2a0aab839e1e59908ef370c5" sha1="b46ffc03ddfbba1c6aef94c38b47c6a3e20935a4"/>
+	</game>
+	<game name="Star Trek Pinball (19xx)(-)">
+		<description>Star Trek Pinball (19xx)(-)</description>
+		<rom name="Star Trek Pinball (19xx)(-).t64" size="19445" crc="0da8a1fc" md5="1cd98d95c503251c01621425db01cd8b" sha1="ec5e05d250e766c76c2b64cfe7b6e52d600e3f50"/>
+	</game>
+	<game name="Star Trek Pinball (19xx)(-)[a]">
+		<description>Star Trek Pinball (19xx)(-)[a]</description>
+		<rom name="Star Trek Pinball (19xx)(-)[a].t64" size="19445" crc="7c69c029" md5="3877ac7c30c4176c85414b538d2018da" sha1="40076e771b680ce3e7ebe382ebc00022479c7fb3"/>
+	</game>
+	<game name="Starball (19xx)(J.J.Jr.)[cr Gods]">
+		<description>Starball (19xx)(J.J.Jr.)[cr Gods]</description>
+		<rom name="Starball (19xx)(J.J.Jr.)[cr Gods].t64" size="28303" crc="4a1f0597" md5="1edecda4a39cf90c1b84e4971d5e1cfc" sha1="1e0449b989b0dc1baa4eb4634265004f830584cb"/>
+	</game>
+	<game name="Stars, The (1991)(JAM)">
+		<description>Stars, The (1991)(JAM)</description>
+		<rom name="Stars, The (1991)(JAM).t64" size="18712" crc="94ca6a7a" md5="af7930af20e5cae623305a9e5c94b889" sha1="507f0e3dbd19a73e9d0b1491cbc6aa416fc18be8"/>
+	</game>
+	<game name="Streaker (1987)(Chocoholic)">
+		<description>Streaker (1987)(Chocoholic)</description>
+		<rom name="Streaker (1987)(Chocoholic).t64" size="18268" crc="c2aa39a9" md5="fec8d8c42225a090254b2e3688d4ac11" sha1="55218bd5c4f3a6f97d225f8161a87bb7de8f06f6"/>
+	</game>
+	<game name="Super Ball (1991)(-)">
+		<description>Super Ball (1991)(-)</description>
+		<rom name="Super Ball (1991)(-).t64" size="18511" crc="ee05f3f5" md5="eeb1310eaa4072c2cf45d4ec6d73ec5a" sha1="ac0b4fb64bec8d76acad0e549cea4a2c8f56047f"/>
+	</game>
+	<game name="Super Ball II (1986)(-)[cr Gods]">
+		<description>Super Ball II (1986)(-)[cr Gods]</description>
+		<rom name="Super Ball II (1986)(-)[cr Gods].t64" size="26535" crc="5caf5fe6" md5="69cf08d8442e7da2cc87316d6bd6a39f" sha1="9fb6e8977d131c8d02fbccd1ebbd686aa33d2aeb"/>
+	</game>
+	<game name="Super Ball II (1986)(-)[cr Gods][a]">
+		<description>Super Ball II (1986)(-)[cr Gods][a]</description>
+		<rom name="Super Ball II (1986)(-)[cr Gods][a].t64" size="27463" crc="c4afa50d" md5="a7c207e54be7bc34448d5f4b7631a983" sha1="534684edac07ba912ce306fcb7cdb298c9c0afce"/>
+	</game>
+	<game name="Super Ball II (1986)(-)[cr Gods][a2]">
+		<description>Super Ball II (1986)(-)[cr Gods][a2]</description>
+		<rom name="Super Ball II (1986)(-)[cr Gods][a2].t64" size="26535" crc="485b016e" md5="ecd2a4acc77679397a45ed6f9e0abad6" sha1="474d73d7837f6eabeaf3ce6c30a8433cf2dd5862"/>
+	</game>
+	<game name="Super Ball II (1986)(-)[cr Gods][a3]">
+		<description>Super Ball II (1986)(-)[cr Gods][a3]</description>
+		<rom name="Super Ball II (1986)(-)[cr Gods][a3].t64" size="27463" crc="9d6d550b" md5="9e5767725849911dc9c98d14eb1f3be8" sha1="9e9b034f3773b671ed7b8e569ba0de276bbc8814"/>
+	</game>
+	<game name="Super Ball II (19xx)(Lubeck, Olaf)[cr ASS][PCS]">
+		<description>Super Ball II (19xx)(Lubeck, Olaf)[cr ASS][PCS]</description>
+		<rom name="Super Ball II (19xx)(Lubeck, Olaf)[cr ASS][PCS].t64" size="18558" crc="3cbc5eca" md5="ee65deccf1815587ac0210e5c7bde1b1" sha1="b17a664fe0c7b4ef60bc141f125221908d7aed6f"/>
+	</game>
+	<game name="Super Flipper II (19xx)(-)[h ASS]">
+		<description>Super Flipper II (19xx)(-)[h ASS]</description>
+		<rom name="Super Flipper II (19xx)(-)[h ASS].t64" size="19368" crc="7aee046a" md5="51cc9187c6c07703220fd1942c41b65e" sha1="a576c510aa865491776467fe17055c0f09850621"/>
+	</game>
+	<game name="Target Ball (19xx)(-)">
+		<description>Target Ball (19xx)(-)</description>
+		<rom name="Target Ball (19xx)(-).t64" size="16993" crc="77a1af03" md5="857fb31c923efe9058756016ef98cc9e" sha1="09d7591949bc7e3884e8f99306b205307a42f87a"/>
+	</game>
+	<game name="Thin Trap (19xx)(-)[cr ASS]">
+		<description>Thin Trap (19xx)(-)[cr ASS]</description>
+		<rom name="Thin Trap (19xx)(-)[cr ASS].t64" size="18737" crc="a2456c88" md5="295a953401767900875335ad2bf419da" sha1="3daa36b5ad4168cfee6102649779e9ef5bf4c8ef"/>
+	</game>
+	<game name="Time Warp (1991)(Brinkman, Mark A.)">
+		<description>Time Warp (1991)(Brinkman, Mark A.)</description>
+		<rom name="Time Warp (1991)(Brinkman, Mark A.).t64" size="19367" crc="40a61f7a" md5="0014e37860d63fd9b8efed6f4b193185" sha1="e65521d6e0165cbb232979cd670a1384f23f082d"/>
+	</game>
+	<game name="Tomb of Set (1995)(Oblivion)">
+		<description>Tomb of Set (1995)(Oblivion)</description>
+		<rom name="Tomb of Set (1995)(Oblivion).t64" size="18453" crc="f057094c" md5="9280f9119e34d037911788152feaabc6" sha1="d2e6bacc53edb0d38d38f92c0125ed7e49e7b7fa"/>
+	</game>
+	<game name="Totally Awesome Pinball!!! (19xx)(-)[cr Gods]">
+		<description>Totally Awesome Pinball!!! (19xx)(-)[cr Gods]</description>
+		<rom name="Totally Awesome Pinball!!! (19xx)(-)[cr Gods].t64" size="28164" crc="66f16587" md5="f45b35e0361844bfb0158be1c85a68a5" sha1="f589e89a46e5e3b79c2235a8e35ba26a4ac126f4"/>
+	</game>
+	<game name="Totally Tubular (1990)(Duncan, Charles M.)[cr ASS]">
+		<description>Totally Tubular (1990)(Duncan, Charles M.)[cr ASS]</description>
+		<rom name="Totally Tubular (1990)(Duncan, Charles M.)[cr ASS].t64" size="19738" crc="3b1584ee" md5="497609daae325a5207a638bbb32f1083" sha1="25aa348ea506a2334ff6b46086494fb400d816ad"/>
+	</game>
+	<game name="Trapdoors (1990)(Duncan, Charles M.)[h ASS]">
+		<description>Trapdoors (1990)(Duncan, Charles M.)[h ASS]</description>
+		<rom name="Trapdoors (1990)(Duncan, Charles M.)[h ASS].t64" size="20152" crc="b212976b" md5="ec2c3c43f1a0d7da42e38df35290e842" sha1="3ddd2dafbccfbd3809216856e02d894b8b5176a3"/>
+	</game>
+	<game name="Tricky Dicky (19xx)(-)">
+		<description>Tricky Dicky (19xx)(-)</description>
+		<rom name="Tricky Dicky (19xx)(-).t64" size="32368" crc="e62d56fd" md5="676759fe561181b817eeff62dd24cc0c" sha1="686c6d5dca5ab0602abf95355f415d0e0fc480bd"/>
+	</game>
+	<game name="Triple Plays (1991)(Duncan, Charles M.)[h ASS]">
+		<description>Triple Plays (1991)(Duncan, Charles M.)[h ASS]</description>
+		<rom name="Triple Plays (1991)(Duncan, Charles M.)[h ASS].t64" size="19331" crc="7872e85c" md5="63b3af469b08df1314c406fddab8aa29" sha1="df1466ea8ec89446bb2dea2077795bd9f0b7082b"/>
+	</game>
+	<game name="True Blue (1991)(Duncan, Charles M.)[cr ASS]">
+		<description>True Blue (1991)(Duncan, Charles M.)[cr ASS]</description>
+		<rom name="True Blue (1991)(Duncan, Charles M.)[cr ASS].t64" size="19771" crc="b73057fa" md5="c3785af07a862b739841c739139c4978" sha1="4fd93b5dc846defdf0aa45070b2f4eb31c073b58"/>
+	</game>
+	<game name="Try Me (19xx)(-)[cr Gods]">
+		<description>Try Me (19xx)(-)[cr Gods]</description>
+		<rom name="Try Me (19xx)(-)[cr Gods].t64" size="24350" crc="d5a6298d" md5="05f7539b880c2560e105b6010387686f" sha1="bed13260b4e127da4b5786c7e0925e65648bc833"/>
+	</game>
+	<game name="Tsunami (1989)(Duncan, Charles M.)[cr ASS]">
+		<description>Tsunami (1989)(Duncan, Charles M.)[cr ASS]</description>
+		<rom name="Tsunami (1989)(Duncan, Charles M.)[cr ASS].t64" size="19463" crc="53958897" md5="5409ed1f4d94f621f3d60d29cad5f068" sha1="80f9f1ba74579427f35558c9974424af54cd2864"/>
+	</game>
+	<game name="Tunnels (19xx)(-)[cr Gods]">
+		<description>Tunnels (19xx)(-)[cr Gods]</description>
+		<rom name="Tunnels (19xx)(-)[cr Gods].t64" size="26678" crc="d4d9d2f1" md5="53da5ebe888df0aee506f087d03d43c0" sha1="14169425bf4f4667cac0b43fdf892cfaa5902ce1"/>
+	</game>
+	<game name="Tunnels Two (19xx)(-)[cr Gods]">
+		<description>Tunnels Two (19xx)(-)[cr Gods]</description>
+		<rom name="Tunnels Two (19xx)(-)[cr Gods].t64" size="26408" crc="a79ec463" md5="dbe057b446764ab608cb22cc2878c161" sha1="28dddfbb8e459a1424406f798478e9024f2e81fe"/>
+	</game>
+	<game name="Turbo Pinball (1996)(-)[cr TBT]">
+		<description>Turbo Pinball (1996)(-)[cr TBT]</description>
+		<rom name="Turbo Pinball (1996)(-)[cr TBT].t64" size="24820" crc="185dc914" md5="92e764afb291ebc00f07d14363f97288" sha1="1936748804a27a6bbaab730535c8505f0352935f"/>
+	</game>
+	<game name="Turbo Pinball (1996)(-)[cr TBT][a]">
+		<description>Turbo Pinball (1996)(-)[cr TBT][a]</description>
+		<rom name="Turbo Pinball (1996)(-)[cr TBT][a].t64" size="24820" crc="0a54d9a4" md5="edbbe34107b715d546270c3ab932fa89" sha1="812fa6575f703c87fabb53fec566b4238c91071b"/>
+	</game>
+	<game name="Turbo Pinball (1996)(-)[cr TBT][f NTSC-PAL]">
+		<description>Turbo Pinball (1996)(-)[cr TBT][f NTSC-PAL]</description>
+		<rom name="Turbo Pinball (1996)(-)[cr TBT][f NTSC-PAL].t64" size="25748" crc="e3b3497b" md5="77d5c66d32600e9d09bb8dd770a949d4" sha1="c4caedc5a82ab69da06d0cb58fa34d600459a092"/>
+	</game>
+	<game name="Turbo Pinball (1996)(-)[cr TBT][f NTSC-PAL][a]">
+		<description>Turbo Pinball (1996)(-)[cr TBT][f NTSC-PAL][a]</description>
+		<rom name="Turbo Pinball (1996)(-)[cr TBT][f NTSC-PAL][a].t64" size="24820" crc="629816a7" md5="91c2b4e3ac1f0305fb4e871d4d223a08" sha1="12ab9db9554786268bb1bd322e91dc0a400ef256"/>
+	</game>
+	<game name="Turbo Pinball (1996)(-)[cr TBT][f NTSC-PAL][a2]">
+		<description>Turbo Pinball (1996)(-)[cr TBT][f NTSC-PAL][a2]</description>
+		<rom name="Turbo Pinball (1996)(-)[cr TBT][f NTSC-PAL][a2].t64" size="24820" crc="3221a42c" md5="88d82438dd7bc3849f6a8863c66df79b" sha1="00fc8a69733627027560ff7c6c5dec75dd97ce90"/>
+	</game>
+	<game name="Turbo Pinball (1996)(-)[cr TBT][f NTSC-PAL][a3]">
+		<description>Turbo Pinball (1996)(-)[cr TBT][f NTSC-PAL][a3]</description>
+		<rom name="Turbo Pinball (1996)(-)[cr TBT][f NTSC-PAL][a3].t64" size="25748" crc="13ccaf69" md5="acdc2b0df5d4b5ca1ccdb090264ec3d7" sha1="80715372ca27c0efddc26f0537628e9f79b97a2b"/>
+	</game>
+	<game name="Turbo Pinball (1996)(-)[cr TBT][f NTSC-PAL][a4]">
+		<description>Turbo Pinball (1996)(-)[cr TBT][f NTSC-PAL][a4]</description>
+		<rom name="Turbo Pinball (1996)(-)[cr TBT][f NTSC-PAL][a4].t64" size="25749" crc="412779fe" md5="e44a4e41bf9d7d2c2c17dfbfc13eb058" sha1="437ff0818e0900fd0bb47be11f86622113914188"/>
+	</game>
+	<game name="Turbo Pinball (1996)(-)[cr TBT][f NTSC-PAL][a5]">
+		<description>Turbo Pinball (1996)(-)[cr TBT][f NTSC-PAL][a5]</description>
+		<rom name="Turbo Pinball (1996)(-)[cr TBT][f NTSC-PAL][a5].t64" size="28323" crc="1a59d77a" md5="bd68dc1216d80597d3e55f5e1a9a7f8c" sha1="362ac85c269d927886f96f45caece713b84bb4c8"/>
+	</game>
+	<game name="Turretial (1990)(Duncan, Charles M.)[h ASS]">
+		<description>Turretial (1990)(Duncan, Charles M.)[h ASS]</description>
+		<rom name="Turretial (1990)(Duncan, Charles M.)[h ASS].t64" size="20001" crc="0677540d" md5="306266d709bab4e465a9f878c2bccd8f" sha1="416d531e410544f19357af22a401a697489b28dc"/>
+	</game>
+	<game name="Twilight Zone (19xx)(Lubeck, Olaf)[cr TWZ][PCS]">
+		<description>Twilight Zone (19xx)(Lubeck, Olaf)[cr TWZ][PCS]</description>
+		<rom name="Twilight Zone (19xx)(Lubeck, Olaf)[cr TWZ][PCS].t64" size="35068" crc="5e43f1ee" md5="914722ca1820eed93e597d86d16ba426" sha1="74e355464d835bc0af113d7d117f461c555262cd"/>
+	</game>
+	<game name="Twister (1990)(Duncan, Charles M.)[h ASS]">
+		<description>Twister (1990)(Duncan, Charles M.)[h ASS]</description>
+		<rom name="Twister (1990)(Duncan, Charles M.)[h ASS].t64" size="19604" crc="bbf1be57" md5="7c74a5ae36a1f0b838beb54a3b1d091e" sha1="f39f041127b036fdbbee043b3499857433f5e154"/>
+	</game>
+	<game name="UHF Mania (1990)(Duncan, Charles M.)[cr ASS]">
+		<description>UHF Mania (1990)(Duncan, Charles M.)[cr ASS]</description>
+		<rom name="UHF Mania (1990)(Duncan, Charles M.)[cr ASS].t64" size="19734" crc="957b2286" md5="af4a1606511c32ebc0d26c29ab7bb32d" sha1="04ce72e561f6d3bebea257f890565c24198e75aa"/>
+	</game>
+	<game name="Ultimate Challenge (19xx)(Chocoholic)[cr ASS]">
+		<description>Ultimate Challenge (19xx)(Chocoholic)[cr ASS]</description>
+		<rom name="Ultimate Challenge (19xx)(Chocoholic)[cr ASS].t64" size="18491" crc="12cfcb42" md5="7d36dee4ba8cc99dcf9d9ff32f795783" sha1="0c9a58a2d438e503b7c862de17a924480c52bbf8"/>
+	</game>
+	<game name="Ultracane (1991)(Duncan, Charles M.)[cr ASS]">
+		<description>Ultracane (1991)(Duncan, Charles M.)[cr ASS]</description>
+		<rom name="Ultracane (1991)(Duncan, Charles M.)[cr ASS].t64" size="19502" crc="4d859c37" md5="3706c0df85616e9decc6355972d91e5f" sha1="4231f880bf844c9b15a7de25ad999bc4b88ba56c"/>
+	</game>
+	<game name="Unnamed (1991)(Ronald R.)[cr ASS]">
+		<description>Unnamed (1991)(Ronald R.)[cr ASS]</description>
+		<rom name="Unnamed (1991)(Ronald R.)[cr ASS].t64" size="19026" crc="fdd88501" md5="a3c0f4c54a7f92099079e38ac645bcba" sha1="ce7b00fa14019e7e31dc2067f83d532424df32f2"/>
+	</game>
+	<game name="USA Pinball (19xx)(-)[cr Gods]">
+		<description>USA Pinball (19xx)(-)[cr Gods]</description>
+		<rom name="USA Pinball (19xx)(-)[cr Gods].t64" size="25604" crc="1b34e183" md5="fe349f6c23bfa1a788cf2eeaf42c196a" sha1="0eea5422418ead64adf330fa73866bf115b24dfa"/>
+	</game>
+	<game name="USS Belleav Wood (1991)(-)[cr ASS]">
+		<description>USS Belleav Wood (1991)(-)[cr ASS]</description>
+		<rom name="USS Belleav Wood (1991)(-)[cr ASS].t64" size="20095" crc="3bdbfc9e" md5="855eb5217003bfa1ba1e4124e9af852a" sha1="7106f18556b03c4fd29fc5b80a5c49c3efb6a683"/>
+	</game>
+	<game name="Waller&apos;s Wobbler (19xx)(Solely Sixty Four)">
+		<description>Waller&apos;s Wobbler (19xx)(Solely Sixty Four)</description>
+		<rom name="Waller&apos;s Wobbler (19xx)(Solely Sixty Four).t64" size="32038" crc="13c2123d" md5="e80a6faf8b7f7b97ef1986b9835de1d3" sha1="324ba2443ca5f4dbc4b37d5d3e22c9c2571780a4"/>
+	</game>
+	<game name="Waller&apos;s Wobbler (19xx)(Solely Sixty Four)[a]">
+		<description>Waller&apos;s Wobbler (19xx)(Solely Sixty Four)[a]</description>
+		<rom name="Waller&apos;s Wobbler (19xx)(Solely Sixty Four)[a].t64" size="32966" crc="5a8906e0" md5="f531d9ee1f28eab18a4855ea0cebad36" sha1="67e39d5f4b12d7c18ad700c07c99d2f2fd4b04a6"/>
+	</game>
+	<game name="Waller&apos;s Wobbler (19xx)(Solely Sixty Four)[a2]">
+		<description>Waller&apos;s Wobbler (19xx)(Solely Sixty Four)[a2]</description>
+		<rom name="Waller&apos;s Wobbler (19xx)(Solely Sixty Four)[a2].t64" size="21139" crc="866938fd" md5="509a5f17863f2a4fdae63fc5c439af27" sha1="85534aacb15d0e47455ed4dfd5d9f0d499449a49"/>
+	</game>
+	<game name="White Knight (1991)(JAM)">
+		<description>White Knight (1991)(JAM)</description>
+		<rom name="White Knight (1991)(JAM).t64" size="18740" crc="139b4cad" md5="4c6082a270b7b1573803682486dc81df" sha1="594ac764b9b874f5b428977cf41290e1dddaf4cc"/>
+	</game>
+	<game name="Whiz (19xx)(-)[cr Gods]">
+		<description>Whiz (19xx)(-)[cr Gods]</description>
+		<rom name="Whiz (19xx)(-)[cr Gods].t64" size="25458" crc="c80ddd7f" md5="6a7caa1616a29d5b1b2e66c650f7cef5" sha1="adc321e9193b112884577917cfdafbba93e214ea"/>
+	</game>
+	<game name="Wild Ball (1991)(-)[h ASS]">
+		<description>Wild Ball (1991)(-)[h ASS]</description>
+		<rom name="Wild Ball (1991)(-)[h ASS].t64" size="19413" crc="67ccf0bb" md5="1b97656ef33d989a1984836420aee290" sha1="eb4e55ec63c663838b3b06a9e45d25fb5907f72c"/>
+	</game>
+	<game name="Wild Ride II Pinball, The (1991)(-)[h ASS]">
+		<description>Wild Ride II Pinball, The (1991)(-)[h ASS]</description>
+		<rom name="Wild Ride II Pinball, The (1991)(-)[h ASS].t64" size="19023" crc="5087b161" md5="a65b8507370bbb7fbb8e50aafedfc51d" sha1="1ee8dcf67eeb66288fc556c99664e2babe3aed75"/>
+	</game>
+	<game name="Wildcats Mass Balls (19xx)(-)[cr Gods]">
+		<description>Wildcats Mass Balls (19xx)(-)[cr Gods]</description>
+		<rom name="Wildcats Mass Balls (19xx)(-)[cr Gods].t64" size="26416" crc="9ab836dd" md5="5df2fdb0f7f6d11107a7228c150c8e7a" sha1="14a0751de52801d0d844222529b1d794763d55ba"/>
+	</game>
+	<game name="Wildcats Mass Balls (19xx)(-)[cr Gods][a]">
+		<description>Wildcats Mass Balls (19xx)(-)[cr Gods][a]</description>
+		<rom name="Wildcats Mass Balls (19xx)(-)[cr Gods][a].t64" size="27344" crc="ec383563" md5="971085cccec05ead765e03f4894c4baf" sha1="0a90df6bc8a80766609f45125e77e9e597e7694b"/>
+	</game>
+	<game name="Wildcats Mass Balls (19xx)(-)[cr Gods][a2]">
+		<description>Wildcats Mass Balls (19xx)(-)[cr Gods][a2]</description>
+		<rom name="Wildcats Mass Balls (19xx)(-)[cr Gods][a2].t64" size="26416" crc="c1122250" md5="ca7989691d62bdf5a156745df26f3e60" sha1="4d0d2b3c9c8561fc7ea4d51e6b1b29c3353d2adf"/>
+	</game>
+	<game name="Wildcats Mass Balls (19xx)(-)[cr Gods][a3]">
+		<description>Wildcats Mass Balls (19xx)(-)[cr Gods][a3]</description>
+		<rom name="Wildcats Mass Balls (19xx)(-)[cr Gods][a3].t64" size="27344" crc="360d93ad" md5="7e62615cd889cd2023434ccbb13740df" sha1="2292ed544262b53d56e69e61de3c03cec78243d9"/>
+	</game>
+	<game name="Wildcats Mass Balls (19xx)(-)[cr Gods][a4]">
+		<description>Wildcats Mass Balls (19xx)(-)[cr Gods][a4]</description>
+		<rom name="Wildcats Mass Balls (19xx)(-)[cr Gods][a4].t64" size="27344" crc="0296f68b" md5="062dc0fee84b53d6e0e2befeaf5098a2" sha1="d6c8e4e9d98a7c9777953d480862f4c3ca360362"/>
+	</game>
+	<game name="Winding Roads (1990)(Duncan, Charles M.)[h ASS]">
+		<description>Winding Roads (1990)(Duncan, Charles M.)[h ASS]</description>
+		<rom name="Winding Roads (1990)(Duncan, Charles M.)[h ASS].t64" size="20123" crc="efdfeac6" md5="7749fe507138b7a31fc5f81254a1718c" sha1="4363ff16591cd209803d8c4b68ade56cf6a519e4"/>
+	</game>
+	<game name="Wipeout (1987)(Mark B14)[h ASS]">
+		<description>Wipeout (1987)(Mark B14)[h ASS]</description>
+		<rom name="Wipeout (1987)(Mark B14)[h ASS].t64" size="19517" crc="6bd4b158" md5="9fb02b31ac1f5da4d56814f5ba8c2afa" sha1="f90a7aa95ec8537b31fe5bbb885470ea7132c0b5"/>
+	</game>
+	<game name="Wizard V (19xx)(-)[cr Gods]">
+		<description>Wizard V (19xx)(-)[cr Gods]</description>
+		<rom name="Wizard V (19xx)(-)[cr Gods].t64" size="27996" crc="cf109c62" md5="5c071ee0c90095901ac025e9b1aed503" sha1="8584387ca57c4a04efc5b62019c3435bf58fd8a3"/>
+	</game>
+	<game name="World Flipper - America (1987)(Lubeck, Olaf)[PCS]">
+		<description>World Flipper - America (1987)(Lubeck, Olaf)[PCS]</description>
+		<rom name="World Flipper - America (1987)(Lubeck, Olaf)[PCS].t64" size="17848" crc="41b83f47" md5="6e8f9f08d2ddb30fdff580873e69603e" sha1="aca6ebf7279b78db4063087f6df019e051dc0197"/>
+	</game>
+	<game name="World Flipper - Egypt (1987)(Lubeck, Olaf)[cr .Mad.][PCS]">
+		<description>World Flipper - Egypt (1987)(Lubeck, Olaf)[cr .Mad.][PCS]</description>
+		<rom name="World Flipper - Egypt (1987)(Lubeck, Olaf)[cr .Mad.][PCS].t64" size="32457" crc="e8608df8" md5="baafbc37d34ce8f2dd1470101e2752f8" sha1="13a6590410e4f3475a296d791ba74c61473f8677"/>
+	</game>
+	<game name="World Flipper - France (1987)(Lubeck, Olaf)[PCS]">
+		<description>World Flipper - France (1987)(Lubeck, Olaf)[PCS]</description>
+		<rom name="World Flipper - France (1987)(Lubeck, Olaf)[PCS].t64" size="17439" crc="9ce98ecd" md5="39b4c1d1e74296ba8120aa22b2c239d0" sha1="d8d5bf9b9aba1177816e0ebc07006ac32ef8951f"/>
+	</game>
+	<game name="World Flipper - Germany (1987)(Lubeck, Olaf)[PCS]">
+		<description>World Flipper - Germany (1987)(Lubeck, Olaf)[PCS]</description>
+		<rom name="World Flipper - Germany (1987)(Lubeck, Olaf)[PCS].t64" size="18085" crc="eb7fa962" md5="99b874b62e65a2b429173048bc59ae57" sha1="34a6f2260a8542536de2bb0f1974049eca6640de"/>
+	</game>
+	<game name="World Flipper - Greece (1987)(Lubeck, Olaf)[PCS]">
+		<description>World Flipper - Greece (1987)(Lubeck, Olaf)[PCS]</description>
+		<rom name="World Flipper - Greece (1987)(Lubeck, Olaf)[PCS].t64" size="18458" crc="d091a36f" md5="90d4e8eb44d92d1b3a088b51aaa7d2a7" sha1="fd2cd287a0167a243a7b56c639befc743f8ddd5d"/>
+	</game>
+	<game name="World Flipper - Russia (1987)(Lubeck, Olaf)[PCS]">
+		<description>World Flipper - Russia (1987)(Lubeck, Olaf)[PCS]</description>
+		<rom name="World Flipper - Russia (1987)(Lubeck, Olaf)[PCS].t64" size="18606" crc="3fa98bc8" md5="231b505c2bd3dd04b74fcf4a5e81d294" sha1="cda4e5d2ff621ef320c166de7786c6fe3b0e1fed"/>
+	</game>
+	<game name="World Flipper - Turkey (1987)(Lubeck, Olaf)[PCS]">
+		<description>World Flipper - Turkey (1987)(Lubeck, Olaf)[PCS]</description>
+		<rom name="World Flipper - Turkey (1987)(Lubeck, Olaf)[PCS].t64" size="17738" crc="edca62ae" md5="b9ba5526a68ec06c71ae0c192b7381d4" sha1="6f3a1ddec30cc90357c8b97fb145e04d8aade292"/>
+	</game>
+	<game name="X Four - The 4 by 4 Machine (19xx)(-)[cr Gods]">
+		<description>X Four - The 4 by 4 Machine (19xx)(-)[cr Gods]</description>
+		<rom name="X Four - The 4 by 4 Machine (19xx)(-)[cr Gods].t64" size="27659" crc="07737192" md5="88fc153f077c2b98f4d4b2b6fecb44d9" sha1="c918ae3aaf5e60b79a0361853565e9166f653dfe"/>
+	</game>
+	<game name="X Three (19xx)(-)[cr Gods]">
+		<description>X Three (19xx)(-)[cr Gods]</description>
+		<rom name="X Three (19xx)(-)[cr Gods].t64" size="27127" crc="158457f5" md5="920c54c13b78c5a2bf92a8d9aa4c3f8a" sha1="2ae6039b4bcdedd19d5512eaf964f24e7ca66281"/>
+	</game>
+	<game name="Yllabi (1991)(Duncan, Charles M.)[h ASS]">
+		<description>Yllabi (1991)(Duncan, Charles M.)[h ASS]</description>
+		<rom name="Yllabi (1991)(Duncan, Charles M.)[h ASS].t64" size="19458" crc="26526140" md5="d006867e0f1d076d4a7f2eae937e19da" sha1="eb553a56fb0097a4be2c92705ba5c1f5b17bc0e5"/>
+	</game>
+	<game name="ZIP (1987)(The Power House)[cr ASS]">
+		<description>ZIP (1987)(The Power House)[cr ASS]</description>
+		<rom name="ZIP (1987)(The Power House)[cr ASS].t64" size="18753" crc="16c4c32b" md5="4190c93a650fb49fdaad5f07c7855b3d" sha1="a4dbdb15d4647ceb176014757754aebc7bcf057b"/>
+	</game>
+	<game name="ZZTop (19xx)(Lubeck, Olaf)[cr ASS][PCS]">
+		<description>ZZTop (19xx)(Lubeck, Olaf)[cr ASS][PCS]</description>
+		<rom name="ZZTop (19xx)(Lubeck, Olaf)[cr ASS][PCS].t64" size="18902" crc="2acf14a5" md5="8b2d21596386549c6c2b2f67c2d938c3" sha1="0bb50747d32975ff4e54f51397d056c520f76139"/>
+	</game>
+</datafile>

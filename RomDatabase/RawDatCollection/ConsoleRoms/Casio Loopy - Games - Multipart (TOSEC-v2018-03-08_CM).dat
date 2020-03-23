@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Casio Loopy - Games - Multipart</name>
+		<description>Casio Loopy - Games - Multipart (TOSEC-v2018-03-08)</description>
+		<category>TOSEC</category>
+		<version>2018-03-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Loopy Town no Oheya ga Hoshii! (1996)(Casio)(JP)[XK-504]">
+		<description>Loopy Town no Oheya ga Hoshii! (1996)(Casio)(JP)[XK-504]</description>
+		<rom name="CHIP1.IC104" size="2097152" crc="bae71d45" md5="50dd884e92bf174329c19a720d4eedee" sha1="79628715ccedd9bc3fd72d21fa9ea6513b88cf51"/>
+		<rom name="CHIP2.IC105" size="1048576" crc="e0514d03" md5="4e871fba7a38856b7e7592f0cd15c300" sha1="4dd02faa1ebf6754da0ade417e488512f3502620"/>
+	</game>
+</datafile>

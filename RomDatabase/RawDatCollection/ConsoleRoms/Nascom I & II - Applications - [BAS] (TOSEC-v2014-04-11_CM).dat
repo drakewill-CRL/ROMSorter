@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nascom I &amp; II - Applications - [BAS]</name>
+		<description>Nascom I &amp; II - Applications - [BAS] (TOSEC-v2014-04-11)</description>
+		<category>TOSEC</category>
+		<version>2014-04-11</version>
+		<author>Grendel - Cid - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Convert a NASCOM (198x)(-)">
+		<description>Convert a NASCOM (198x)(-)</description>
+		<rom name="Convert a NASCOM (198x)(-).bas" size="899" crc="839c52d1" md5="298e256f77b32bd48c7641ad15bdb9f7" sha1="6ed95d5bf60a14fd0693fd609d0835554c146fb2"/>
+	</game>
+	<game name="Converted Nascom Cassete (198x)(-)">
+		<description>Converted Nascom Cassete (198x)(-)</description>
+		<rom name="Converted Nascom Cassete (198x)(-).bas" size="2111" crc="7e6145be" md5="e2bdafff0a59e03e7e1fd0f2a7709947" sha1="87ad036fda72d0f871965194bddeffbbf21ad78f"/>
+	</game>
+	<game name="Nas2Cas Convert (198x)(-)">
+		<description>Nas2Cas Convert (198x)(-)</description>
+		<rom name="Nas2Cas Convert (198x)(-).bas" size="2483" crc="a83db076" md5="1e92a9fafb0337745fe49f0f37d00585" sha1="b50e875c7b04540ba13cc6182caa1b55866bfc24"/>
+	</game>
+	<game name="Nas2Cas Convert (198x)(-)[a]">
+		<description>Nas2Cas Convert (198x)(-)[a]</description>
+		<rom name="Nas2Cas Convert (198x)(-)[a].bas" size="590" crc="602b812c" md5="1af1ee102853f03e8b4fa9db543435af" sha1="b58a761c03b1bbee88c9d2c4a43a5bfa8540c6db"/>
+	</game>
+</datafile>

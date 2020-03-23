@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Visual Pinball [VP9] Original Tables</name>
+		<description>Visual Pinball [VP9] Original Tables</description>
+		<category>Visual Pinball [VP9] Original Tables</category>
+		<version>1.0</version>
+		<date>2020-01-01</date>
+		<author>Yori Yoshizuki</author>
+		<email>-insert email-</email>
+		<homepage>Yori Yoshizuki</homepage>
+		<url>https://yoshizuki.webs.com</url>
+		<comment>-insert comment-</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="$25,000 Pyramid, The">
+		<description>$25,000 Pyramid, The</description>
+		<rom name="$25,000 Pyramid, The (Michael Youngblood)(1.0)[VP9].vpt" size="32776192" crc="cfe59a4c" sha1="459ea1af71819ffebb3b5a93211a20a3215209bc"/>
+		<rom name="$25,000 Pyramid, The screenshot.jpg" size="84718" crc="d800f292" sha1="643c0ba3a8d7a722ec54fcb1b91f9571d3a28cc8"/>
+	</machine>
+	<machine name="$ale of the Century">
+		<description>$ale of the Century</description>
+		<rom name="$ale of the Century (Michael Youngblood)(1.0)[VP9].vpt" size="30736384" crc="cf070eb8" sha1="76a85fa38152fdfc20824624c7e286996ebc558b"/>
+		<rom name="$ale of the Century screenshot.jpg" size="92837" crc="935ab3f1" sha1="68aa8439548156468ca102619bdd8334a5fa0c9c"/>
+	</machine>
+	<machine name="Addams Family, The (TV version)">
+		<description>Addams Family, The (TV version)</description>
+		<rom name="Addams Family, The (TV version) (2009) screenshot.jpg" size="441523" crc="103865a4" sha1="bbd9865a90581ceeae8215b2d63f0820b22441ec"/>
+		<rom name="Addams Family, The (TV version) (Bob5453)(2009)[VP9].vpt" size="17149952" crc="df3ed1ef" sha1="184645c7f4b037bdd527c0f5fdf634ee75d2d14f"/>
+	</machine>
+	<machine name="Arc En Ciel">
+		<description>Arc En Ciel</description>
+		<rom name="Arc En Ciel (Justin Case Kazoo)(1.0)[VP9].vpt" size="2293760" crc="15cbe8ba" sha1="98dd095a138a6b79928be288c380645aaf5294dd"/>
+		<rom name="Arc En Ciel (Justin Case Kazoo)(1.1)[VP9].vpt" size="2367488" crc="bf3ece23" sha1="e3a54bae148dbfc742c297dc89ff35e5599ee91f"/>
+		<rom name="Arc En Ciel screenshot.jpg" size="138165" crc="50950f35" sha1="e9de63b83abd1e14b6f5925492de2a0efdbc1115"/>
+	</machine>
+	<machine name="Astronomer">
+		<description>Astronomer</description>
+		<rom name="Astronomer (kctransplant)(6.2)[VP9].vpt" size="10678272" crc="4662db63" sha1="bcb3ab4ee8b08d6cebb22684248776a794e0b336"/>
+		<rom name="Astronomer screenshot.bmp" size="2359350" crc="b710b1bc" sha1="71bcd84f2257534e3684df7e0622520f2a3316ac"/>
+	</machine>
+	<machine name="Atari Centiped Pinball">
+		<description>Atari Centiped Pinball</description>
+		<rom name="Beta1\Atari Centipede Pinball (Mitchell)(Beta1)[VP9].vpt" size="7014400" crc="74dcb3e3" sha1="de15db8fc1f555a4424a8d5941292ef3c22f0292"/>
+		<rom name="Beta2\Atari Centipede Pinball (Beta2) Notes.txt" size="978" crc="93667d50" sha1="ca21e08fa69580c5279eccfaf011f7c77163de33"/>
+		<rom name="Beta2\Atari Centipede Pinball (Beta2) screenshot.png" size="750097" crc="b7203dce" sha1="dce810853cf37c804efea197c4875033c56690ac"/>
+		<rom name="Beta2\Atari Centipede Pinball (Mitchell)(Beta2)[VP9].vpt" size="7495168" crc="03e44c24" sha1="132b074f4487bf331c2788a1ed5213e5668be87c"/>
+		<rom name="Beta3\Atari Centipede Pinball (Beta3) screenshot.png" size="747572" crc="a9f6c9c5" sha1="afe2f1da01ed04fbd8085fad7d99c04c63816ee6"/>
+		<rom name="Beta3\Atari Centipede Pinball (Mitchell)(Beta3)[VP9].vpt" size="7027200" crc="7d657162" sha1="fa73f9d82a5b2f2484d502881eb7542f4a51f6c6"/>
+		<rom name="Beta4\Atari Centipede Pinball (Beta4) Notes.txt" size="1057" crc="f46d3057" sha1="cb70c64891c26c166faca5d04a446ac01fcde7c7"/>
+		<rom name="Beta4\Atari Centipede Pinball (Mitchell)(Beta4)[VP9].vpt" size="7028224" crc="47949cc1" sha1="8b2a54b1456d05d253e90e63bfd1a320753de619"/>
+		<rom name="Beta6\Atari Centipede Pinball (Beta6) Notes.txt" size="1171" crc="73e00d1e" sha1="511852cfe2002df6a05ae09db4a787b8f7d95866"/>
+		<rom name="Beta6\Atari Centipede Pinball (Beta6) screenshot.png" size="789300" crc="295ff41d" sha1="3346141f2da8d5556727e3a6c857066d472e1c42"/>
+		<rom name="Beta6\Atari Centipede Pinball (Beta6a) Notes.txt" size="1441" crc="4e3d1f53" sha1="b6347b0273602c3113157b0c5ce8514c212ab5a7"/>
+		<rom name="Beta6\Atari Centipede Pinball (Beta6a) screenshot.png" size="770831" crc="ea7ba3f5" sha1="c8d23fb591dc0453f31390e5e4fb71d45e3a6705"/>
+		<rom name="Beta6\Atari Centipede Pinball (Mitchell)(Beta6)[VP9].vpt" size="7208960" crc="8e4471d4" sha1="8b92d99430475aac0d13525df8194a8136d0303f"/>
+		<rom name="Beta6\Atari Centipede Pinball (Mitchell)(Beta6a)[VP9].vpt" size="7091712" crc="e945d8df" sha1="322d8c82ef10d1d9d5a9861e67d52b052e31e2e5"/>
+		<rom name="Beta7\Atari Centipede Pinball (Beta7) Notes.txt" size="1519" crc="2a3ed9cf" sha1="e445c9496adc5056e95d7d35cfa5541f670cf8d9"/>
+		<rom name="Beta7\Atari Centipede Pinball (Beta7) screenshot.png" size="760955" crc="368c062c" sha1="fa07aa3989cfb0deb6797ce0ff9b28963281cdaf"/>
+		<rom name="Beta7\Atari Centipede Pinball (Mitchell)(Beta7)[VP9].vpt" size="6995968" crc="9838af5e" sha1="43703f5ae48b805253cef6b17c611044070526ea"/>
+		<rom name="StencilStd.otf" size="30904" crc="b1ba526d" sha1="52ebfd1efdf907c9b0fe9d9e384920f6f9dd204c"/>
+	</machine>
+	<machine name="Beat This">
+		<description>Beat This</description>
+		<rom name="1.04\Beat This (1.04) screenshot.jpg" size="367775" crc="0db0e3db" sha1="9c45e57d5e0c86876fe1e349c2f8fe12f4c1ad2b"/>
+		<rom name="1.04\Beat This (Bob5453, Wizards_Hat, Pinbotic)(1.04)[VP9].vpt" size="13508608" crc="fdeb6ba1" sha1="95b4d668daa9914942c490d23d58056d871266f8"/>
+		<rom name="1.05x\Beat This (Bob5453, Wizards_Hat, Pinbotic)(1.05)[VP9].vpt" size="13508608" crc="f539e00d" sha1="33f5af16c9bc8150da2b3ea591037fcbe3473ad1"/>
+		<rom name="1.0\Beat This (1.0) screenshot.jpg" size="803822" crc="5d2674a9" sha1="143e188f18af0ef3f6da40706046c465f44ba63b"/>
+		<rom name="1.0\Beat This (Bob5453, Wizards_Hat, Pinbotic)(1.0)[VP9].vpt" size="13502464" crc="5a8b8904" sha1="928272770a8fbe67bb0c2290b17412b8c7fc3224"/>
+	</machine>
+	<machine name="Big Bet">
+		<description>Big Bet</description>
+		<rom name="Big Bet (Justin Case Kazoo)(1.0)[VP9].vpt" size="3481600" crc="6a90bc0f" sha1="b792baca10f49ff1827dc4f2e51dcf6ec0c13340"/>
+		<rom name="Big Bet screenshot.png" size="503465" crc="7a2b5f16" sha1="d2a5e1743b3e6bfc32bba97224aab7e18f0bb046"/>
+	</machine>
+	<machine name="Big Bluff">
+		<description>Big Bluff</description>
+		<rom name="Big Bluff (Justin Case Kazoo)(1.0)[VP9].vpt" size="3907584" crc="967ad7e5" sha1="aa410a7cc02bf43005fe1ded046a1945909ac3c4"/>
+		<rom name="Big Bluff screenshot.png" size="497925" crc="2a2760a7" sha1="1b60ac3e4aac37bb0d9fa2e12118e32c64bea368"/>
+	</machine>
+	<machine name="Breakers! (Timelord)(A.92.9.02)[VP902]">
+		<description>Breakers! (Timelord)(A.92.9.02)[VP902]</description>
+		<rom name="Breakers ! A.92.9.02 vp 9.02.jpg" size="836036" crc="c89d0a1a" sha1="de8d227b11fdf7d4d57263474ae5d302f27ff8d3"/>
+		<rom name="Breakers !(VP9) Alpha 92.vpt" size="9366016" crc="b9ca9e94" sha1="0eb53861d717662d15c7b2bee99ab5c433ae3ab7"/>
+	</machine>
+	<machine name="Brooklyn">
+		<description>Brooklyn</description>
+		<rom name="1.0\Brooklyn (Faralos)(1.0)(2010-10-14)[VP9].vpt" size="35829760" crc="855198e6" sha1="04300d0884778a7cbe6ec56e69d0dd97618d62a3"/>
+		<rom name="2.0\Brooklyn (2.0) screenshot.jpg" size="200283" crc="2cce58d1" sha1="1de8a31aa1b1d37d9a0760a1c55547f6fe313b3c"/>
+		<rom name="2.0\Brooklyn (Faralos)(2.0)(2011-01-07)[VP9].vpt" size="35830784" crc="abbc7667" sha1="439ccf8b19bd7532703f86f9ce62e6a0ee707ec2"/>
+		<rom name="3.0\Brooklyn (3.0) screenshot.jpg" size="210267" crc="ad43e084" sha1="63ac35550e9b0029058774f8db46b7ec6699ba49"/>
+		<rom name="3.0\Brooklyn (Faralos)(3.0)(2011-01-10)[VP9].vpt" size="39045632" crc="45b73e1c" sha1="7e4b7901c5ec125c7d5ea94b4dabbaefa8341f55"/>
+		<rom name="3.1\Brooklyn (3.1) screenshot.jpg" size="117452" crc="4927f5c2" sha1="33214eabd67d076d55e50ea900b1a473548ef84a"/>
+		<rom name="3.1\Brooklyn (Faralos)(3.1)(2011-02-18)[VP9].vpt" size="39209472" crc="f0dff893" sha1="c41fe932270af4e81f92b8bd1acc23f41fe8c025"/>
+		<rom name="brooklyn cheap light demo.jpg" size="133001" crc="4c3a4c3b" sha1="060ee451c150bcf80da49f4d6eaa168b354557a2"/>
+		<rom name="ruleset.wpd" size="3744" crc="dc5e264b" sha1="e9b438a9cebad0328059271c49a46d590ef10969"/>
+	</machine>
+	<machine name="Bubblegum Crisis MegaTokyo 2035">
+		<description>Bubblegum Crisis MegaTokyo 2035</description>
+		<rom name="Bubblegum Crisis MegaTokyo 2035 (1.0)[VP9] Operator Menu System.txt" size="14971" crc="f6cdade8" sha1="2d9e84bbff9e7337dda8949cb6c76e46858c8a41"/>
+		<rom name="Bubblegum Crisis MegaTokyo 2035 (1.0)[VP9] readme.txt" size="2741" crc="ce09ff91" sha1="fe70cfb000ad70828f042c005f758a5a45af6ff2"/>
+		<rom name="Bubblegum Crisis MegaTokyo 2035 (1.0)[VP9] rulesheet.txt" size="21573" crc="e234f748" sha1="1d4440fc4a47f02830f3675e7f389c9500156f5e"/>
+		<rom name="Bubblegum Crisis MegaTokyo 2035 (Neo)(1.0)[VP9].vpt" size="16240640" crc="ea60a34f" sha1="06a9209b9303a6a6f24af5194dce92d9ac08c01b"/>
+		<rom name="Bubblegum Crisis MegaTokyo 2035 screenshot.jpg" size="419966" crc="f114bf5d" sha1="d9b2a7d5778db5935a39e115b82a670358814c6a"/>
+		<rom name="Fonts\Digir___.ttf" size="37736" crc="7cd2c10e" sha1="dd58a9176b945cd8bb3f27b9e092e50d8a1f0383"/>
+		<rom name="Music\vpbgcadpolice.mp3" size="1472679" crc="d867f16b" sha1="64d6fffdf66cf7711bb88748d335791876adb3e7"/>
+		<rom name="Music\vpbgcboomer1.mp3" size="607817" crc="71429a01" sha1="c813a9130bd0affe060a6c59e2daa24457572ba2"/>
+		<rom name="Music\vpbgcboomer2.mp3" size="1384908" crc="4d81d508" sha1="f62aad88e0b8790d12a1d58037fc0dbcd7a35fba"/>
+		<rom name="Music\vpbgcboomer3.mp3" size="1024104" crc="c61b6dcc" sha1="34dfa1022e7161d7cf2f688493e0adfb0b435886"/>
+		<rom name="Music\vpbgcboomer4.mp3" size="1186168" crc="39121b5a" sha1="f22680c1fa93ee983f0f25a6297d072577a25b17"/>
+		<rom name="Music\vpbgcboomer5.mp3" size="1441646" crc="6a756965" sha1="1863107e64c0fa42e7c9203d765d488da3a8002f"/>
+		<rom name="Music\vpbgcboomer6.mp3" size="1004356" crc="e90988d2" sha1="8842a8fc76f9581dd7adb23c78c188c5e6f215a5"/>
+		<rom name="Music\vpbgccombat.mp3" size="1012506" crc="aa1a671d" sha1="2772da112b197cb2635f8c0c2557837e0a9808da"/>
+		<rom name="Music\vpbgcdouble.mp3" size="1944764" crc="86ba8fd4" sha1="c1e166a11bcb2de5d958fa8577783bc1ea18415c"/>
+		<rom name="Music\vpbgcendgame.mp3" size="1011566" crc="352d6f7c" sha1="e0f10614bba0fff08cc42161bc76fcbf5a09eb3d"/>
+		<rom name="Music\vpbgcgamestart.mp3" size="842606" crc="14888d53" sha1="eb50a03d86d882247471fd418cdda20ac10de900"/>
+		<rom name="Music\vpbgchighscore.mp3" size="1649162" crc="8b019374" sha1="59a1a93902016c8fd03c514ca5aa7d10734a4395"/>
+		<rom name="Music\vpbgchotlegs.mp3" size="970815" crc="c7c7d2d5" sha1="b97832e2a97dd53739dc3e262b4791bdcd5b6f9e"/>
+		<rom name="Music\vpbgcintro.mp3" size="1169554" crc="2c397263" sha1="221714b3e54e638d35d17b48f03cf8cc8da2c97f"/>
+		<rom name="Music\vpbgcmain1.mp3" size="937273" crc="63191199" sha1="1ed8701b902e0dd5af28e04a3664ce9e3aadcd0c"/>
+		<rom name="Music\vpbgcmain2.mp3" size="899971" crc="317957e7" sha1="29df0f0eb856dc181f5d8e23a9ebef82c6941eb1"/>
+		<rom name="Music\vpbgcmain3.mp3" size="1306854" crc="d2f441a9" sha1="be72d5e3d681eb4820225bc2b31a5909e3a10ae7"/>
+		<rom name="Music\vpbgcmain4.mp3" size="1353874" crc="3dd93e7f" sha1="7c5ea8dff4aee183947a9700675af2c2e787ac91"/>
+		<rom name="Music\vpbgcmoonlight.mp3" size="1463275" crc="5309a8ae" sha1="2dfac054975d276db1d2849e2795b976449b089f"/>
+		<rom name="Music\vpbgcreplicants.mp3" size="1285851" crc="460a83df" sha1="9215e7531233af6108588fa534557e6b21e562ef"/>
+		<rom name="Music\vpbgcrevenge.mp3" size="762044" crc="706b5d46" sha1="38def70fc67b8ebeb76136883d6ca52f446ea7bc"/>
+		<rom name="Music\vpbgcsignature.mp3" size="2024385" crc="756d994b" sha1="4f20e6e79f502d64cf70b95e647e0abf5706d3e9"/>
+		<rom name="Music\vpbgctinsel.mp3" size="1406851" crc="e1c2d3ca" sha1="0496e911c91ccd00490b77a6c7ecb5aa3406f440"/>
+		<rom name="Music\vpbgcvictory.mp3" size="1104039" crc="2c881f93" sha1="ff796bcbb344674af5a7d949ede6594265ddb7cd"/>
+	</machine>
+	<machine name="Bullseye">
+		<description>Bullseye</description>
+		<rom name="Bullseye (Michael Youngblood)(1.0)[VP9].vpt" size="24096768" crc="dd63b0e2" sha1="f90bb4925bfe9f051245cf419d903440cbb1cea5"/>
+		<rom name="Bullseye screenshot.jpg" size="116119" crc="2601a70c" sha1="161a3146fd11d910e9eb0d16943fc7a91957a25b"/>
+	</machine>
+	<machine name="Card Sharks">
+		<description>Card Sharks</description>
+		<rom name="Eala Dubh Sidhe\Card Sharks (Eala Dubh Sidhe)(remake3)[VP9].vpt" size="18509824" crc="22d557b7" sha1="230d202891b3c1824a7f53e225f48824ab391867"/>
+		<rom name="Eala Dubh Sidhe\Card Sharks (Eala Dubh Sidhe)(remake3a)[VP9].vpt" size="18235392" crc="79c780f3" sha1="66f6fe730a0672ae9ca62321fc5a40d55f206fcb"/>
+		<rom name="Eala Dubh Sidhe\Fonts\bangn___.ttf" size="60220" crc="baf533a6" sha1="d3fff69986db95780f8f5abbae5a98b86953e72a"/>
+		<rom name="Eala Dubh Sidhe\Fonts\gothic.ttf" size="61280" crc="f54af41b" sha1="035669a8e8a5b486c3300eb9ea7a6672bb7ac331"/>
+		<rom name="Eala Dubh Sidhe\Fonts\impact.ttf" size="136048" crc="638a4ccc" sha1="807b5e24d402fcdac6f9e9d97be071285ad27958"/>
+		<rom name="Eala Dubh Sidhe\Fonts\trana___.ttf" size="58232" crc="a65607b4" sha1="f89519a6452ebc2bcaf130fd136bcfcc59b28fa6"/>
+		<rom name="Michael Youngblood\Card Sharks (Michael Youngblood)(1.0) screenshot.jpg" size="87676" crc="d4154463" sha1="548d0b5cf1c8c591f221f56113bba24f55fccfc2"/>
+		<rom name="Michael Youngblood\Card Sharks (Michael Youngblood)(1.0)[VP9].vpt" size="26411008" crc="1e947557" sha1="fa2bca5d94359ad96e16806cf96aced11b3491a0"/>
+		<rom name="Michael Youngblood\Card Sharks (Michael Youngblood)(2.0) screenshot.jpg" size="92566" crc="230d8cc7" sha1="e5f930b1d6e872c19d3a5333bd4e143a3ee8fb66"/>
+		<rom name="Michael Youngblood\Card Sharks (Michael Youngblood)(2.0)[VP9].vpt" size="37773312" crc="7f7cc002" sha1="d40dd23186839d5259a1d98d9d66a7dd95652054"/>
+	</machine>
+	<machine name="Carnival Jackpot">
+		<description>Carnival Jackpot</description>
+		<rom name="Carnival Jackpot (Michael Youngblood)(1.0)[VP9].vpt" size="45977600" crc="9658e7e2" sha1="372d87712fbed1e2faa9af75b3adca21968b4744"/>
+		<rom name="Carnival Jackpot readme.txt" size="750" crc="2a8023ac" sha1="42b936ce7a2b42587e53cc8e32d1a6d695394c15"/>
+		<rom name="Carnival Jackpot screenshot.jpg" size="97927" crc="33368f33" sha1="add71c1d791d444eb1bbda72b38a0d1e2599e2df"/>
+		<rom name="Music\AlbumArtSmall.jpg" size="3041" crc="c18c56f0" sha1="4d14ae48eb3e7474d63d4cf4ec8660ea580fda34"/>
+		<rom name="Music\Bonus Music.mp3" size="104906" crc="2c4e7a24" sha1="2cc516c1a5525d323bc924ee93eb5d19b1d1f3c5"/>
+		<rom name="Music\Caliope Music - Be A Clown.mp3" size="926727" crc="06071aec" sha1="75f3d6c6a040c61c778d88d2060b9091fa9ee651"/>
+		<rom name="Music\Folder.jpg" size="12406" crc="092eb864" sha1="a17c3f775c6c5ed96b5de86b7daf5297eea5f8cd"/>
+		<rom name="Music\Kool &amp; the Gang - Celebration.mp3" size="3585113" crc="a673e570" sha1="a944280508c465e295b9053deba42da8b8172e78"/>
+		<rom name="Music\million.mp3" size="583470" crc="121fb0aa" sha1="119c46fc00903a0b1e89d9ac3691d5ae25f6f3d0"/>
+		<rom name="Music\Ohio Players - Love Rollercoaster.mp3" size="4645331" crc="936dc53d" sha1="a3d8bf9c722693505ca582601cc1b13600badc8b"/>
+		<rom name="Music\Smokey Robinson - The Tears of a  Clown.mp3" size="3006464" crc="a37c3f11" sha1="6bd37bd31888f30d65936c16a7141a621642b449"/>
+		<rom name="Music\Stylistics - Sideshow.mp3" size="3736972" crc="709964ab" sha1="270d0dd3e88df7710299bf02551aaf0703c69948"/>
+	</machine>
+	<machine name="Castle Falmeir">
+		<description>Castle Falmeir</description>
+		<rom name="Castle Falmeir (Faralos)(2k10)(1.0)[VP9].vpt" size="16504832" crc="b6be0706" sha1="1c1eaf7e90b5a00bad50fbd8ae5cdf5ce05560f3"/>
+		<rom name="Castle Falmeir (Faralos)(2k10)(1.1)[VP9].vpt" size="19457536" crc="fb029e02" sha1="e62293103988a023b74df06ff0f11f423a175ee5"/>
+		<rom name="Castle Falmeir screenshot.jpg" size="112622" crc="1e889d73" sha1="5a0d84f6a5638ae85d1381a9507809d94d666795"/>
+	</machine>
+	<machine name="CaveGal">
+		<description>CaveGal</description>
+		<rom name="CaveGal (Faralos)(1.0a)[VP9].vpt" size="12036608" crc="160ac2e4" sha1="d9c5d557f0b2875a11932bbf9dadb38a32c827ad"/>
+		<rom name="CaveGal (Faralos)(1.0b)[VP9].vpt" size="12036608" crc="3c875638" sha1="d9142c622c44f4dff019e4b9786c0593f82f3ba8"/>
+		<rom name="CaveGal (Faralos)(1.1)[VP9].vpt" size="12036608" crc="24b65fba" sha1="4fc28a87cfca931dc4b0749a82b2d076744f5807"/>
+		<rom name="CaveGal screenshot.jpg" size="143716" crc="fde65130" sha1="adff0d0f7b0a26225eb6546604d86649216922b3"/>
+	</machine>
+	<machine name="Chain Reaction">
+		<description>Chain Reaction</description>
+		<rom name="Chain Reaction (Michael Youngblood)(1.0)[VP9].vpt" size="27516928" crc="0e6f2397" sha1="530819220cf78157ecdc5a9f2aa01a1a67052e31"/>
+		<rom name="Chain Reaction screenshot.jpg" size="93954" crc="59daff40" sha1="2d895b8c237b69445a2a41b87ba710de266e2667"/>
+	</machine>
+	<machine name="Chicago">
+		<description>Chicago</description>
+		<rom name="Chicago (Justin Case Kazoo)(1.0)[VP9].vpt" size="2269184" crc="32a0c5a4" sha1="7fc753377045948349cd8da682a2d6d6114d5d8c"/>
+		<rom name="Chicago (Justin Case Kazoo)(2.0)[VP9].vpt" size="3141632" crc="31ce7c2a" sha1="5d56529ab5b7012c9e78f337e87019f676775b02"/>
+		<rom name="Chicago screenshot.jpg" size="98244" crc="e0f1fbdb" sha1="e2de9e4c321ce76193c426a2c0a6e59dbb34d1cf"/>
+	</machine>
+	<machine name="Child's Play">
+		<description>Child's Play</description>
+		<rom name="Child's Play (Faralos)(1.0)[VP9].vpt" size="32198656" crc="c92fc4ce" sha1="a9bc89c3c7c55b1b5e23e3d3bbaaa78ba888c409"/>
+		<rom name="Child's Play (Faralos)(1.1)[VP9].vpt" size="32554496" crc="7a3e49f3" sha1="17ca716184578da548316e9f710f2554d4b4deb8"/>
+		<rom name="Child's Play screenshot.jpg" size="199018" crc="c5e10728" sha1="02666e52f4d7bbf35e43e79ee3f2c79b393a597f"/>
+	</machine>
+	<machine name="Christmas Jackpot">
+		<description>Christmas Jackpot</description>
+		<rom name="Christmas Jackpot (Michael Youngblood)(1.0)[VP9].vpt" size="63541248" crc="f253d126" sha1="05b1f7317cb8578850e4b086535616ff0ed748a5"/>
+		<rom name="Christmas Jackpot screenshot.jpg" size="114021" crc="fb4c0031" sha1="3c3e13e6be303e8d08eea726eaef8800b4c5afa1"/>
+	</machine>
+	<machine name="Christmas Jackpot 2">
+		<description>Christmas Jackpot 2</description>
+		<rom name="Christmas Jackpot 2 (Michael Youngblood)(1.0)[VP9].vpt" size="34635776" crc="3d79bf0d" sha1="b769be2bfbd5b11222071b78786d4a92c75c60a0"/>
+		<rom name="Christmas Jackpot 2 Read Me.txt" size="509" crc="a6ee3aad" sha1="15d26e1bf7481672da13945ee581db10d31721c1"/>
+		<rom name="Christmas Jackpot 2 screenshot.jpg" size="108592" crc="861573ed" sha1="d705050430593251bab7982ac2c51d50e030018d"/>
+		<rom name="Music\It's The Most Wonderful Time of the Year - Andy Williams.mp3" size="5938781" crc="ee0b7611" sha1="119ce59a07f30619d97a34f857ccfb4ecfa33011"/>
+		<rom name="Music\Rudolf the Red Nosed Reindeer.mp3" size="550033" crc="b977a75d" sha1="ae657564eee7a9143bec98808b8f1e1646296369"/>
+		<rom name="Music\Sleighride - The Boston Pops Orchestra.mp3" size="7741857" crc="6df0d4ab" sha1="e884db8ddbab82f8c91f892bc4c6f10080ff596b"/>
+		<rom name="Music\This Christmas - Donny Hathaway.mp3" size="8721135" crc="17e1342a" sha1="8160b638a020d82fbb7a2968e10818587e6c4741"/>
+		<rom name="Music\Vince Guaraldi Trio - Christmas Time is Here.mp3" size="2641083" crc="c9cd616e" sha1="1e49c722cfd242f9024c07d45e951e54c29138eb"/>
+	</machine>
+	<machine name="Cincinnati">
+		<description>Cincinnati</description>
+		<rom name="Cincinnati (Justin Case Kazoo)(1.0)[VP9].vpt" size="3596288" crc="dd1b184d" sha1="14e846b5517d0482b6344a9a81aa59d4dde178d2"/>
+		<rom name="Cincinnati screenshot.png" size="290662" crc="ea043b62" sha1="f64c55154f98f03e7aafe1a695e807ae75e1424f"/>
+	</machine>
+	<machine name="Cloudy">
+		<description>Cloudy</description>
+		<rom name="Cloudy (Justin Case Kazoo)(1.0)[VP9].vpt" size="2002944" crc="65b98c0a" sha1="4b08e89cef87004a41081ecd09c2153374a3b7c0"/>
+		<rom name="Cloudy screenshot.png" size="480344" crc="088ee355" sha1="a61932edc8f47b0d8407cbd82912ce6fb936aa79"/>
+	</machine>
+	<machine name="Daffy Duck">
+		<description>Daffy Duck</description>
+		<rom name="2009\Daffy Duck (2009) screenshot.jpg" size="313521" crc="eff6b17f" sha1="0f85295b82e7775c4dce03851a84cc655f828381"/>
+		<rom name="2009\Daffy Duck (Bob5453)(2009)[VP9].vpt" size="9983488" crc="b440729e" sha1="3dcd4be920e1bdb1595c65fc4a0dd2bc5d439d2d"/>
+		<rom name="2010\Daffy Duck (2010) screenshot.jpg" size="539619" crc="835e2d81" sha1="93523ecc6d79e43addc31d4b524883a32e6cc15a"/>
+		<rom name="2010\Daffy Duck (Bob5453)(2010)[VP9].vpt" size="9631744" crc="ddb99198" sha1="ebc758cbe269777f9a727dc551b15d3607f2425d"/>
+	</machine>
+	<machine name="Deal or No Deal">
+		<description>Deal or No Deal</description>
+		<rom name="Deal or No Deal (Michael Youngblood)(1.0)[VP9].vpt" size="34893824" crc="7d312e70" sha1="d7b42311379f31a0a22df15595babdaf545030b2"/>
+		<rom name="Deal or No Deal screenshot.jpg" size="88978" crc="5b109226" sha1="e2b887d5f3def7f404437c74312ce6e99afb6ff6"/>
+	</machine>
+	<machine name="Death Note">
+		<description>Death Note</description>
+		<rom name="Death Note (Anthias)(1.0)[VP9].vpt" size="6233600" crc="02598f19" sha1="eba05aa8b6ba3cc3441962b865a474b5f0cf8283"/>
+		<rom name="Death Note screenshoot.jpg" size="243050" crc="c71198fd" sha1="da3e15eee3f6f352a67288d980fa07ed27ed5461"/>
+	</machine>
+	<machine name="Deep Sea">
+		<description>Deep Sea</description>
+		<rom name="Deep Sea (Justin Case Kazoo)(1.0)[VP9].vpt" size="2048000" crc="90403ec7" sha1="474aec70b814e63efde83b3cd15255eae51e281c"/>
+		<rom name="Deep Sea screenshot.png" size="474828" crc="54f3eabf" sha1="022d71471666ee384f19f2b916b9868a424090df"/>
+	</machine>
+	<machine name="Donkey Kong Country - Kongo Jungle">
+		<description>Donkey Kong Country - Kongo Jungle</description>
+		<rom name="Donkey Kong Country - Kongo Jungle (Zyborg, Wizard's_hat)(1.0)[VP9].vpt" size="688128" crc="468020ee" sha1="8c3b4d3c928e05607aa0b131480aaf5970e45a5e"/>
+		<rom name="Donkey Kong Country - Kongo Jungle screenshot.png" size="192730" crc="43d16019" sha1="0a869620f43a2d682f98733a397dafab3e71b0aa"/>
+	</machine>
+	<machine name="Dragon">
+		<description>Dragon</description>
+		<rom name="Dragon (Bob5453)(2009)[VP9].vpt" size="7181824" crc="421b04a4" sha1="b82676b56d7cc886268b3b826ac7ad7443329140"/>
+	</machine>
+	<machine name="Dream House">
+		<description>Dream House</description>
+		<rom name="Dream House (Michael Youngblood)(1.0)[VP9].vpt" size="36114432" crc="a651d609" sha1="70bf9f2f2a9587c4daee27cce196e1956b38ce9c"/>
+		<rom name="Dream House screenshot.jpg" size="79701" crc="c6d67a96" sha1="ec54295217b1b0b7fef54adb6c155cccbffad72f"/>
+	</machine>
+	<machine name="Family Feud">
+		<description>Family Feud</description>
+		<rom name="Family Feud (Michael Youngblood)(1.0)[VP9].vpt" size="28147712" crc="a6a2cb06" sha1="80f3b0acf988c6fc36100004c145cdfeff57c087"/>
+		<rom name="Family Feud screenshot.jpg" size="97220" crc="8ac8658a" sha1="61ec0991819a36cfdc2efb419122a7e91f8b613f"/>
+	</machine>
+	<machine name="Flash 2">
+		<description>Flash 2</description>
+		<rom name="Flash 2 (Rascal, Faralos, Itchigo)(1.0)[VP9].vpt" size="8457216" crc="04669707" sha1="96a5ffabd59b49a383922a70c1d1ea0e651894dd"/>
+		<rom name="Flash 2 (Rascal, Faralos, Itchigo)(1.1)[VP9].vpt" size="8536064" crc="f88857da" sha1="2ffe44009ff4c6c94c93c6e7b77c922d70639945"/>
+		<rom name="Flash 2 (Rascal, Faralos, Itchigo)(1.1a)[VP9].vpt" size="8536064" crc="4daaa174" sha1="f7be9cc48769cca3b91106f579ab6fe8410a2cf8"/>
+		<rom name="Flash 2 screenshot.jpg" size="640605" crc="efc558b3" sha1="682a983def252bdcef86c0a364b76eac1013da4d"/>
+	</machine>
+	<machine name="Forbidden Planet">
+		<description>Forbidden Planet</description>
+		<rom name="Fonts\dienasty.ttf" size="39532" crc="abc01ab1" sha1="4545647247007fa9935947b21bb49397fdd1ecc8"/>
+		<rom name="Forbidden Planet (Tii)(1.0)[VP9][FullScreen Tii].vpt" size="4292096" crc="fd627989" sha1="031c0823589320bd4cf10058039841f23003ad49"/>
+		<rom name="Forbidden Planet (VP9) screenshot.jpg" size="718389" crc="53a1e1b8" sha1="7aa27821abaab4415e2f5a3d39b78fb3edb36293"/>
+	</machine>
+	<machine name="Galaxy Pinball">
+		<description>Galaxy Pinball</description>
+		<rom name="Galaxy Pinball (Michael Youngblood)(1.0)[VP9].vpt" size="1925120" crc="29e0277b" sha1="532018cc7282339a9edcfe34815a0baa18b343cd"/>
+		<rom name="Galaxy Pinball screenshot.jpg" size="73524" crc="c39ecbc7" sha1="3771d2bad94609831a5ae6fdcfd698038fd52949"/>
+	</machine>
+	<machine name="Galaxy Pinball 2">
+		<description>Galaxy Pinball 2</description>
+		<rom name="(Reloaded)\Galaxy Pinball 2 (Reloaded) (Michael Youngblood)(2.0)[VP9].vpt" size="47464448" crc="c8b9c6c1" sha1="d2dc293f48c645f2ea0727b06ea0863c8c523dfe"/>
+		<rom name="(Reloaded)\Pinball Galaxy 2 (Reloaded) screenshot.jpg" size="92081" crc="29468985" sha1="b1110491881d09532d67944a4f64f2650680b019"/>
+		<rom name="Normal\Galaxy Pinball 2 (Michael Youngblood)(1.0)[VP9].vpt" size="44367872" crc="bd809a03" sha1="2857d4c09932ea431662b35612c459dcd24e53d1"/>
+		<rom name="Normal\Galaxy Pinball 2 screenshot.jpg" size="91644" crc="3caa2b78" sha1="e37376205d75bc8492768b08c1e5f869c5ee75c9"/>
+	</machine>
+	<machine name="Galaxy Pinball 3 - Star Wars Tribute">
+		<description>Galaxy Pinball 3 - Star Wars Tribute</description>
+		<rom name="Galaxy Pinball 3 - Star Wars Tribute (Michael Youngblood)(1.0)[VP9].vpt" size="55296000" crc="6bdcd7dc" sha1="11a74957055bafea63baaa7105894171c5744161"/>
+		<rom name="Galaxy Pinball 3 - Star Wars Tribute screenshot.jpg" size="95467" crc="d4bd108b" sha1="2553dc3f9ef7617d6c23772ae17f08470e96ab5e"/>
+	</machine>
+	<machine name="Gas Attack">
+		<description>Gas Attack</description>
+		<rom name="Gas Attack (Faralos)(1.0)[VP9].vpt" size="15498752" crc="a6115564" sha1="8ca117aca9db6e9a44892a2bbc53e5d6b7238e6d"/>
+		<rom name="Gas Attack screenshot.jpg" size="111730" crc="54b0bca4" sha1="de0f94cc6628c988bbef46ba8075e706aaefaa1b"/>
+	</machine>
+	<machine name="Harry Potter and the Silverball Dream">
+		<description>Harry Potter and the Silverball Dream</description>
+		<rom name="(1.0.0)\Harry Potter and the Silverball Dream (Neo)(1.0.0)[VP908].vpt" size="21436928" crc="c5a75eb7" sha1="f837b49a0d508456f30dc3e58b0aebc86660ed84"/>
+		<rom name="(1.0.0)\readme.txt" size="3392" crc="5178dee0" sha1="6dd37aa2603af72614fe1fe8901d4ef0a23b1700"/>
+		<rom name="(1.0.1)\Dedication Plaque.bmp" size="1677366" crc="28838077" sha1="037c7fc7ad588468cf5e185e892f9f7bd6fc02a6"/>
+		<rom name="(1.0.1)\Harry Potter - Silverball Dream Scorecard.bmp" size="758454" crc="9a288175" sha1="e83825ca6dd77edee4d023297485d6159d4085c0"/>
+		<rom name="(1.0.1)\Harry Potter and the Silverball Dream (1.01) screenshot.jpg" size="458045" crc="0a9fcebe" sha1="655b5e85fc35ccfca6140cb6912cdf8c0e83bf42"/>
+		<rom name="(1.0.1)\Harry Potter and the Silverball Dream (Neo)(1.0.1)[VP908].vpt" size="21647360" crc="275d502d" sha1="694172b827069999a4fc598cffcc67fd66be128f"/>
+		<rom name="(1.0.1)\Harry Potter and the Silverball Dream Rulesheet.txt" size="10392" crc="2e5d5644" sha1="2ee16ba3347af687b5a1c3c6fb77b14f0fd57fb1"/>
+		<rom name="(1.0.1)\readme.txt" size="3565" crc="3b5f864b" sha1="412635cbd72af5ed92f984ae3928ef1a93a02240"/>
+		<rom name="(1.0.1)\Silverball Dream Rulecard.bmp" size="758454" crc="8e532905" sha1="f8d082c21b29a9dd9079a219d81170d9b0ed59d3"/>
+		<rom name="Game Music.zip" size="20749016" crc="f2427ce1" sha1="6c52440a7ebad053256f33a2fd9adc9c9545ccab"/>
+	</machine>
+	<machine name="High Rollers">
+		<description>High Rollers</description>
+		<rom name="High Rollers (Michael Youngblood)(1.0)[VP9].vpt" size="25686016" crc="35141967" sha1="56b2005802cc6b6428c3c01411ebcd310b911bd2"/>
+		<rom name="High Rollers screenshot.jpg" size="87805" crc="0414a5e2" sha1="5a4f274b7835b0aabf9b26891785245380d79a39"/>
+	</machine>
+	<machine name="Hogan's Heroes">
+		<description>Hogan's Heroes</description>
+		<rom name="Hogan's Heroes (PracticeDummy, Faralos)(1.0)[VP9].vpt" size="53481984" crc="e13c3dd6" sha1="566965134659de00526259f0e22860383af28511"/>
+		<rom name="Hogan's Heroes (PracticeDummy, Faralos)(1.1)[VP9](modded with plastics 6-10-10).vpt" size="53508608" crc="8ab565ac" sha1="03f3f90ed9bd8922efc7e1cda5e8440e0f495793"/>
+		<rom name="Hogan's Heroes (PracticeDummy, Faralos)(1.1.1)[VP9](modded with plastics 6-10-10).vpt" size="53519360" crc="bd67fcf9" sha1="97b25a4e96677b30a332e6234c2b2163220b9f81"/>
+		<rom name="Hogan's Heroes (PracticeDummy, Faralos)(1.1.1a)[VP9](modded with plastics 6-10-10).vpt" size="53519360" crc="1756c2bc" sha1="517ede66bf28c91ee213ca597b25ae42d5421f88"/>
+		<rom name="Hogan's Heroes (PracticeDummy, Faralos)(1.13)[VP9](modded with plastics 6-10-10).vpt" size="56467456" crc="51da996c" sha1="e89ec0b9c14515f8b544e2a1a333f77e7fbd8e9c"/>
+		<rom name="Hogan's Heroes screenshot.jpg" size="659361" crc="d7aadd37" sha1="807d531d65b029d7d7bddd925f025d5dbaa9a875"/>
+	</machine>
+	<machine name="Hollywood Squares, The">
+		<description>Hollywood Squares, The</description>
+		<rom name="Hollywood Squares, The (Michael Youngblood)(1.0)[VP9].vpt" size="21585920" crc="ca629785" sha1="ac44040c8027cee2cc5e00925cb6a436827af13d"/>
+		<rom name="Hollywood Squares, The screenshot.jpg" size="118796" crc="d816a09e" sha1="eae71d5998221253227a46c61b349d8f6345b3c3"/>
+	</machine>
+	<machine name="Hot Sevens">
+		<description>Hot Sevens</description>
+		<rom name="Hot Sevens (Michael Youngblood)(1.0)[VP9].vpt" size="12197888" crc="29a78b02" sha1="1d588032eec169c3334d28be34c6b83495e16f55"/>
+		<rom name="Hot Sevens screenshot.jpg" size="115465" crc="08ecd98b" sha1="1659b68be17d649b5a5b1150024c4606a9f45edb"/>
+		<rom name="Hot Sevens.txt" size="495" crc="1497e202" sha1="cb89035b1d73572824b2251a03adfd20589ae051"/>
+		<rom name="Music\Drain Music.mp3" size="109922" crc="02e08091" sha1="0b5e32057391784bc1d2dc6dde72a4a68e24194b"/>
+		<rom name="Music\Main Music 1.mp3" size="2287489" crc="d4e8634b" sha1="ee0a36c6400877605886f2a338b2f3af7c80a31f"/>
+		<rom name="Music\Main Music 2.mp3" size="2386546" crc="7d8fb298" sha1="0b2acd691fd04c8abbc879bd34f2925ccb952c6b"/>
+		<rom name="Music\The Joker's Wild.mp3" size="2113200" crc="7b2500e0" sha1="7373ea32c20a55d580f4586be96007873ce6bb8c"/>
+	</machine>
+	<machine name="Image">
+		<description>Image</description>
+		<rom name="Image (Furio)(3.0)[VP9].vpt" size="6186496" crc="138d9955" sha1="6ad634c244513f474348284284d7562a0e340ad2"/>
+		<rom name="Image screenshot.jpg" size="212575" crc="0331064c" sha1="2e4c63abdd7d488322ba5aa2d4aea5e803d61693"/>
+	</machine>
+	<machine name="Initial D Pinball Stage">
+		<description>Initial D Pinball Stage</description>
+		<rom name="Fonts\digir___.ttf" size="37736" crc="7cd2c10e" sha1="dd58a9176b945cd8bb3f27b9e092e50d8a1f0383"/>
+		<rom name="Fonts\hemihead.ttf" size="24440" crc="c87c69b8" sha1="bf4b48a0993251bdf290dc2381a847f2f6a55661"/>
+		<rom name="Initial D Pinball Stage (1.0)[VP9] readme.txt" size="6230" crc="d83ce813" sha1="1125ce84f357a111ddfecf77d0c026c11f781564"/>
+		<rom name="Initial D Pinball Stage (1.0)[VP9] rulesheet text.txt" size="9223" crc="5508195b" sha1="096cdc04c9d130885a0f86583feacb9b91cd5895"/>
+		<rom name="Initial D Pinball Stage (1.0)[VP9] screenshot.jpg" size="329912" crc="29c427fa" sha1="36562a365194b5412e481657146593e5b493a869"/>
+		<rom name="Initial D Pinball Stage (Neo)(1.0)[VP9].vpt" size="13590528" crc="86d2a7cf" sha1="c3c97f7ea29f867a6d34355628f351eb3784da90"/>
+		<rom name="Music\DMultiball.mp3" size="1543210" crc="a72802d8" sha1="797310b420eb45ccc2ed7e85ddd4d6679e346154"/>
+		<rom name="Music\DMultiballReady.mp3" size="1218456" crc="808ef2ba" sha1="4f12438de6e50adf901aaf14edfdb79df82741f5"/>
+		<rom name="Music\Initial D Autocross Challenge.mp3" size="1037270" crc="1798559d" sha1="b7e3343c8c7bdfe1b1dadc48e13f671a0805442a"/>
+		<rom name="Music\Initial D Battle FC.mp3" size="1097456" crc="da188905" sha1="c89ec31fd808a0ca0510e0adf5ba0bdc52c5d9e5"/>
+		<rom name="Music\Initial D Battle FD.mp3" size="1294629" crc="58025580" sha1="9da87b7c77b94813806dba7ce2fd4c99e2a518d7"/>
+		<rom name="Music\Initial D Battle R32.mp3" size="1059527" crc="9a80fff2" sha1="21710c7425177cfdf36b3137288b98e8a4707dc3"/>
+		<rom name="Music\Initial D Blazing Beat.mp3" size="1667971" crc="3e44d4ab" sha1="eabad9f78c83833bf01305abe52a38e3dd1abd1b"/>
+		<rom name="Music\Initial D Dancin In My Dreams.mp3" size="1814047" crc="7ebd8c2a" sha1="c2dcb641bbc434ce7c18806ef91e0a5d4918e9ed"/>
+		<rom name="Music\Initial D Don't you wanna be free.mp3" size="1624398" crc="644e3275" sha1="4a053b0a4d36cda10c6d08ef3b70bf50de40727c"/>
+		<rom name="Music\Initial D End of Ball.mp3" size="56323" crc="080fb564" sha1="a8a21109e9684fdbb9772f63b984bbe6a88a20dc"/>
+		<rom name="Music\Initial D End.mp3" size="988682" crc="d9c56a1f" sha1="67f684941db349ec5b21a530fa56aad3a12710d5"/>
+		<rom name="Music\Initial D Gamble Rumble.mp3" size="2028045" crc="f9a43374" sha1="40f37893d674f1e7957966affe6d8933fd269e32"/>
+		<rom name="Music\Initial D Gumtape Deathmatch.mp3" size="1082723" crc="9e28ad4f" sha1="41ad92b16ee3335a5a581b712a9de7d643965f32"/>
+		<rom name="Music\Initial D Intro.mp3" size="1259732" crc="9a1dbfd8" sha1="482a3af3aee926bfdef54d8c6d53032cec322bb3"/>
+		<rom name="Music\Initial D Iroha Challenge.mp3" size="1181780" crc="1fea7555" sha1="eab8f0f96a6b7a22fe36d65117a9f08409a30833"/>
+		<rom name="Music\Initial D Joy.mp3" size="1285123" crc="473c8a2c" sha1="06ff21119c28dee4112b56802ddd98c07b38d303"/>
+		<rom name="Music\Initial D Main Music.mp3" size="1976323" crc="440b92be" sha1="74093d5c9e0b4e532ead7e28bd959edaf7cd050c"/>
+		<rom name="Music\Initial D Myogi Challenge.mp3" size="1091399" crc="daa7ae00" sha1="9e5a8510c1d18d4327dda7733aff6122071ba0e7"/>
+		<rom name="Music\Initial D Sudden Death.mp3" size="1078962" crc="ce0c2615" sha1="de5c2be6c08ba0bcd2ff2bbe0b4f9795097a84bb"/>
+		<rom name="Music\Initial D The Race Is Over.mp3" size="2402429" crc="d962bf99" sha1="a8b8d0a5320ac44ab2210488b38248ab5f71ae2b"/>
+		<rom name="Music\Initial D Tofu Delivery.mp3" size="892447" crc="ac7cdfef" sha1="95dbc2fbad4b6ce6bb2c5df75f0a1ef0824c8b77"/>
+		<rom name="Music\Initial D Tour of Gunma.mp3" size="1345622" crc="ee4e789b" sha1="613d728b0964ef6c2e2d619b51af9296cf5747fa"/>
+	</machine>
+	<machine name="JackPot">
+		<description>JackPot</description>
+		<rom name="JackPot (Michael Youngblood)(1.0)[VP9].vpt" size="30351360" crc="82bb02d9" sha1="85eecff551d7c09251527f71298627c94d01cdc0"/>
+		<rom name="JackPot screenshot.jpg" size="100320" crc="b7753ea7" sha1="702d46f89da08b2b5de89dc957dfa68927fb45d6"/>
+	</machine>
+	<machine name="Joker's Wild 2, The">
+		<description>Joker's Wild 2, The</description>
+		<rom name="(Reloaded)\Joker's Wild 2, The (Reloaded) (Michael Youngblood)(1.0)[VP9].vpt" size="36945920" crc="b445de10" sha1="72fe8fe61c4e44669294b887eeab6c318cda3735"/>
+		<rom name="(Reloaded)\Joker's Wild 2, The (Reloaded) screenshot.jpg" size="96361" crc="38418149" sha1="fd4f36e9194c53220801163f13704fbf40076927"/>
+		<rom name="Joker's Wild 2, The (Michael Youngblood)(1.0)[VP9].vpt" size="30851072" crc="cad61643" sha1="85c3a0d9b91005132ebc070abb21a382b77909cd"/>
+		<rom name="Joker's Wild 2, The screenshot.jpg" size="95778" crc="a322e886" sha1="c6427ea29e6114b931bc8f706aba75d31e0b3615"/>
+	</machine>
+	<machine name="Joker's Wild 3, The">
+		<description>Joker's Wild 3, The</description>
+		<rom name="Joker's Wild 3, The (Michael Youngblood)(1.0)[VP9].vpt" size="24199168" crc="8e00dd15" sha1="93bbe5e214c9d124a083120806c310d2299e6a21"/>
+		<rom name="Joker's Wild 3, The readme.txt" size="505" crc="08e3154b" sha1="2603530d3a539b5b4c39794d9dae2c6ab59bd097"/>
+		<rom name="Joker's Wild 3, The screenshot.jpg" size="108498" crc="13a14acc" sha1="b9380492f9fdb9ef7b7106cfdeb77bc59a89de77"/>
+		<rom name="Music\Drain Music.mp3" size="109922" crc="02e08091" sha1="0b5e32057391784bc1d2dc6dde72a4a68e24194b"/>
+		<rom name="Music\Main Music 1.mp3" size="2287489" crc="d4e8634b" sha1="ee0a36c6400877605886f2a338b2f3af7c80a31f"/>
+		<rom name="Music\Main Music 2.mp3" size="2386546" crc="7d8fb298" sha1="0b2acd691fd04c8abbc879bd34f2925ccb952c6b"/>
+		<rom name="Music\The Joker's Wild (End Music).mp3" size="2767306" crc="524261d0" sha1="62e7775ba59edd1f2cb328d3c98c76d30fb328cb"/>
+		<rom name="Music\The Joker's Wild.mp3" size="2113200" crc="7b2500e0" sha1="7373ea32c20a55d580f4586be96007873ce6bb8c"/>
+	</machine>
+	<machine name="Joker's Wild, The">
+		<description>Joker's Wild, The</description>
+		<rom name="Joker's Wild, The (1.0) screenshot.jpg" size="93347" crc="43ff8b0c" sha1="d824cb69d70ed19c8f09a8f269a4f74097a3cadc"/>
+		<rom name="Joker's Wild, The (Michael Youngblood)(1.0)[VP9].vpt" size="20758528" crc="d58bad33" sha1="a9d1c1ca5a8bae8de4d211073c936ba018ac204a"/>
+	</machine>
+	<machine name="Kingdom Hearts">
+		<description>Kingdom Hearts</description>
+		<rom name="KH_musicpack.zip" size="10636388" crc="d1f7e719" sha1="950bb8813f86394f5ad20ea601ae71785def9a95"/>
+		<rom name="Kingdom Hearts (DesAngel, Eala Dubh Sidhe)(1.0)[VP9].vpt" size="14613504" crc="67c770b6" sha1="af55bcd8cab373d3d58edbccb746edd307a51462"/>
+		<rom name="Kingdom Hearts (DesAngel, Eala Dubh Sidhe)(1.01)[VP9].vpt" size="14663680" crc="256c170e" sha1="1c52d5cca5640f8a3af5373089a2b25e7a7b607c"/>
+		<rom name="Kingdom Hearts (DesAngel, Eala Dubh Sidhe)(1.1)[VP9].vpt" size="14591488" crc="832c5cae" sha1="617184f3ee2ea62d0e02b0134ed64478784b2e1f"/>
+		<rom name="Kingdom Hearts (VP9) (table notes).txt" size="3010" crc="c4bd721f" sha1="5ac0a52f99f61f773faa584551ca664f7621b24f"/>
+		<rom name="Kingdom Hearts (VP9) screenshot.jpg" size="382351" crc="e68fd501" sha1="f5f616dfb1a59504780ca570602aa2e955f8c167"/>
+	</machine>
+	<machine name="Lard Tech 69 - Pinball">
+		<description>Lard Tech 69 - Pinball</description>
+		<rom name="Lard Tech 69 - Pinball (ChrisKoopa)(3.0)[VP9].vpt" size="9474048" crc="627f58a3" sha1="5441716d79fa530e2bae63d697b0ca984935d1a8"/>
+		<rom name="Lard Tech 69 - Pinball screenshot.jpg" size="72445" crc="a687ca06" sha1="3b63628e9adacc7c783d1f4501ecbbc6c3381385"/>
+		<rom name="Read Me!.txt" size="568" crc="2680ea8a" sha1="0f5011bb9a7d2c7516c024e505bd9626fd371168"/>
+		<rom name="Usb Controller\Controller.png" size="40621" crc="2d75ce43" sha1="49028d86ff9bfa5f00287baa2a626cc13d4aa6f8"/>
+		<rom name="Usb Controller\JoyToKey.exe" size="643072" crc="35654b60" sha1="1df574d8fa1320e6b3097a59784afe3111d627ab"/>
+		<rom name="Usb Controller\JoyToKey.ini" size="260" crc="4c833f61" sha1="7d97fb51f186b6b6551db0712094528706a5711a"/>
+		<rom name="Usb Controller\Lard Tech 69 - Pinball.cfg" size="1686" crc="17a6d3e4" sha1="6440a71ec8920d2f6bc794ab9429cdd574e47fbd"/>
+		<rom name="VisualPinball.msi" size="3782144" crc="e0473f6a" sha1="46cabe39b5e90a3903992576ec03a0bb40fc0bcf"/>
+	</machine>
+	<machine name="Left 4 Dead">
+		<description>Left 4 Dead</description>
+		<rom name="2.1\Left 4 Dead (GamingLord, TheGuyOverThere)(2.1)[VP9].vpt" size="17075712" crc="359b7ad1" sha1="20312ac39adae7c286381f4ecc74539fc1d8fe46"/>
+		<rom name="2.2\Left 4 Dead (2.2) screenshot.jpg" size="643512" crc="a7d72f7c" sha1="a23b51b051c5952f04201fd9ebee424dd3ab7e24"/>
+		<rom name="2.2\Left 4 Dead (GamingLord, TheGuyOverThere)(2.2)[VP9].vpt" size="17313792" crc="7534cf9e" sha1="2c532856313761d235f920b7710aa13d76e2895c"/>
+		<rom name="2.3\Alternate graphics\playfieldoff.jpg" size="630435" crc="17097422" sha1="4f8633c104bb40567be8170ab295f32dadc8d3dc"/>
+		<rom name="2.3\Alternate graphics\playfieldon.jpg" size="642242" crc="eafde09e" sha1="91077d0880a993ebd127d67d5729f5003651a5ea"/>
+		<rom name="2.3\Left 4 Dead (GamingLord, TheGuyOverThere)(2.3)[VP9].vpt" size="17350144" crc="d6d01e87" sha1="da0a8b71f55098d679fc5dc8576f74be480997c5"/>
+		<rom name="2.3\Original graphics\playfieldoff.jpg" size="515836" crc="bf4fbea0" sha1="4d2205a2b3f1595c302a7a65093c5f5166d08fa0"/>
+		<rom name="2.4\Left 4 Dead (GamingLord, TheGuyOverThere)(2.4)[VP9].vpt" size="17400320" crc="6bdc5c43" sha1="0d11101eb1d56db22fe07e10cd65d6741eafb6e6"/>
+		<rom name="2.5\Alternate graphics\plaque.jpg" size="34682" crc="220cf327" sha1="4db2ce176746d60eeb5a11a469d3787ba6410dd2"/>
+		<rom name="2.5\Alternate graphics\playfieldoff.jpg" size="631268" crc="87413272" sha1="9a02bb4a18d36ec047e8cf1540b16f65574d9fef"/>
+		<rom name="2.5\Alternate graphics\playfieldon.jpg" size="642635" crc="fe5bd8bb" sha1="0fc5de2ad398e53dcba78f56dce7a866c2ac4426"/>
+		<rom name="2.5\Alternate graphics\spinner hunterleft.jpg" size="50746" crc="7f1aac9b" sha1="d0acbe0ff7c9e41fb3dac82fbf3ea0c22cc5a1d8"/>
+		<rom name="2.5\Alternate graphics\spinner hunterright.jpg" size="50868" crc="beda9e7d" sha1="2c8eea41fbd10f998cf17ac6623ae3899bd28c05"/>
+		<rom name="2.5\Left 4 Dead (2.5) screenshot.jpg" size="667596" crc="b54e5405" sha1="955e48530a7311b3acb29c4abfdf6d22324913df"/>
+		<rom name="2.5\Left 4 Dead (GamingLord, TheGuyOverThere)(2.5)[VP9].vpt" size="17400320" crc="8af316d0" sha1="0a309c2c47434cc3bb5cda731f36764902a279c4"/>
+		<rom name="2.5\Original graphics\plaque.jpg" size="23218" crc="56a49089" sha1="527bb6774ad9d2d6ea147c2a6e01334b01d23b4a"/>
+		<rom name="2.5\Original graphics\playfieldoff.jpg" size="516223" crc="5786e6b1" sha1="04161aa3fc7e7566832d4b39d8a5c7d0a063fa71"/>
+		<rom name="2.5\Original graphics\playfieldon.bmp" size="527456" crc="ead91060" sha1="bb8208770f9437a464dcd5ed3fc78709f98c91c1"/>
+		<rom name="2.5\Original graphics\playfieldon.jpg" size="527923" crc="f563aa5b" sha1="5976c0cb279b835e4733601a307c3a14d776acb4"/>
+		<rom name="2.5\Original graphics\spinner hunterleft.jpg" size="54273" crc="83dbd531" sha1="63c51d4e010ed1e6939aea9a13fdd0d37686ab97"/>
+		<rom name="2.5\Original graphics\spinner hunterright.jpg" size="54785" crc="6b4e1286" sha1="4f71493837183c5e36beb57b2ce1dd0e5a0ae69a"/>
+		<rom name="beta\Left 4 Dead (1.0beta) screenshot.jpg" size="595141" crc="4df3ad7e" sha1="e23525e531b4c04efbb18ecddc7420b704563448"/>
+		<rom name="beta\Left 4 Dead (beta) readme.txt" size="234" crc="1dafd9cd" sha1="2d471ecf99121b041606b56a7bd703033fcbd763"/>
+		<rom name="beta\Left 4 Dead (GamingLord, TheGuyOverThere)[VP9](1.0beta).vpt" size="16306176" crc="2d950a50" sha1="f9664d5cedf0fe5eb55451c8a7c680df9cce8d86"/>
+		<rom name="beta\Left 4 Dead (GamingLord, TheGuyOverThere)[VP9](1.1.2beta).vpt" size="17131008" crc="76aaac27" sha1="427f423a68fa1525d862ceb354dfc191a8a886f3"/>
+		<rom name="beta\Music\Instructions.txt" size="83" crc="5ad391f6" sha1="a651a45c0c0de7eb0ba610926157628ee37b4cdd"/>
+		<rom name="beta\Music\L4DBoomer.mp3" size="168591" crc="62b6b42e" sha1="584e4d8b267e9063023b510a44787683ad7d01aa"/>
+		<rom name="beta\Music\L4DDodgeHunter.mp3" size="358344" crc="aa924c67" sha1="d64ba3a9233697b9d8c0a6e87e50474f1d881f30"/>
+		<rom name="beta\Music\L4DMainTheme.mp3" size="984029" crc="c5bd3b87" sha1="7ebbfbdab6e9fcfd8aead58f7d209757f6d7a782"/>
+		<rom name="beta\Music\L4DRescue.mp3" size="731582" crc="218547d5" sha1="acd3547674484e735635db8472767561986088d5"/>
+		<rom name="beta\Music\L4Dtankattack.mp3" size="1258210" crc="00a3768c" sha1="d53b808d29e26b2ed1798ba9de254271967540d5"/>
+		<rom name="Fonts\ballsont.ttf" size="101072" crc="4e33b384" sha1="817746994f3500c2d6f3801d8117f70f9043dbf9"/>
+		<rom name="Fonts\futurot.ttf" size="14000" crc="3203e7eb" sha1="2e11eaff7b86c507f85067474847a0a07f82a3f8"/>
+		<rom name="Left 4 Dead Credits.txt" size="1045" crc="addf3fda" sha1="270c85f0354566b61e98b9e936a4328b4706efa9"/>
+		<rom name="Left 4 Dead readme.txt" size="423" crc="13cd04b5" sha1="77a4c59821b37a63c26cf9837485156fe505c412"/>
+		<rom name="Music\Instructions.txt" size="83" crc="5ad391f6" sha1="a651a45c0c0de7eb0ba610926157628ee37b4cdd"/>
+		<rom name="Music\L4Dbeforegame.mp3" size="1285667" crc="c4f8ff46" sha1="8cc941b761c1715acb344dd5f48c53faadf7a695"/>
+		<rom name="Music\L4DBoomer.mp3" size="362396" crc="571c24e8" sha1="f1c259eb02d8d11ac24c2f159c322a913b467bb6"/>
+		<rom name="Music\L4DDodgeHunter.mp3" size="1012868" crc="17950fc9" sha1="afef1103bb4c1a6b1bac41e7ae79bad4b649820d"/>
+		<rom name="Music\L4DMainTheme.mp3" size="984029" crc="c5bd3b87" sha1="7ebbfbdab6e9fcfd8aead58f7d209757f6d7a782"/>
+		<rom name="Music\L4DRescue.mp3" size="731582" crc="218547d5" sha1="acd3547674484e735635db8472767561986088d5"/>
+		<rom name="Music\L4Dtankattack.mp3" size="1258210" crc="00a3768c" sha1="d53b808d29e26b2ed1798ba9de254271967540d5"/>
+	</machine>
+	<machine name="Lost In Space">
+		<description>Lost In Space</description>
+		<rom name="Lost In Space (Faralos)(1.0)[VP9].vpt" size="20019200" crc="8634f780" sha1="172130bc121c685ac7282a4b125b2d2dd1d241e3"/>
+		<rom name="Lost In Space screenshot.jpg" size="133752" crc="2e687999" sha1="66cbdbd11becb79bcb533fd6c51cad3054ca08bb"/>
+	</machine>
+	<machine name="Lucky Horseshoe">
+		<description>Lucky Horseshoe</description>
+		<rom name="Lucky Horseshoe (Justin Case Kazoo)(1.0)[VP9].vpt" size="2306048" crc="ed5a2abd" sha1="4460b923d2d7bc89fe9f0dc3fbd068f820c2fec6"/>
+		<rom name="Lucky Horseshoe screenshot.png" size="473899" crc="1b1a2be6" sha1="ebf694fcf98f305e1f9f7b2dab5d295fb407c4e6"/>
+	</machine>
+	<machine name="Mars Attacks">
+		<description>Mars Attacks</description>
+		<rom name="Mars Attacks (2009) screenshot.jpg" size="470086" crc="9a7c887f" sha1="4d684699b49caa87bdec6165e500ce6dd2991059"/>
+		<rom name="Mars Attacks (Bob5453)(2009)[VP9].vpt" size="15769600" crc="28038ee7" sha1="e82876252e3e812545a92b71fa1bfe98b8164fe0"/>
+	</machine>
+	<machine name="Marvel Heroes">
+		<description>Marvel Heroes</description>
+		<rom name="Marvel Heroes (Faralos, Wizards Hat)(1.2)[VP9].vpt" size="6773760" crc="6b078ca2" sha1="c3c59fbe4a287c688035881519656d1f50ace6d8"/>
+		<rom name="Marvel Heroes (VP9) screenshot.jpg" size="139851" crc="5df6b6aa" sha1="2423f12ff9981b8e1f6880013b2efc3c12a34f54"/>
+	</machine>
+	<machine name="Match Game">
+		<description>Match Game</description>
+		<rom name="1.0\Match Game (1.0) screenshot.jpg" size="80160" crc="84608958" sha1="42a1569f1e9249641448a3f2a4eca35e94dd9058"/>
+		<rom name="1.0\Match Game (Michael Youngblood)(1.0)[VP9].vpt" size="25026560" crc="446b3ca4" sha1="0d52d0cfcab243319e11651cde44f40e6e78b24e"/>
+		<rom name="2.0\Match Game (2.0) screenshot.jpg" size="84984" crc="c67d728e" sha1="935b5a427af6112b7268dcca694684b1ad6e804d"/>
+		<rom name="2.0\Match Game (Michael Youngblood)(2.0)[VP9].vpt" size="35176448" crc="737a674f" sha1="37c7c227c1adf1b4d1b8944f7e06591a0210813a"/>
+	</machine>
+	<machine name="Medieval">
+		<description>Medieval</description>
+		<rom name="Medieval (Rascal, Faralos)(1.0)[VP9].vpt" size="29250048" crc="6eb67cc9" sha1="43243eb21ba451de9402be207a8041dac99c32eb"/>
+		<rom name="Medieval screenshot.jpg" size="235867" crc="e39298ae" sha1="e5930e786b50a30c1512af8a7298a2643e9c4aab"/>
+	</machine>
+	<machine name="Mike Vegas (Michael Youngblood)(1.0)[VP9]">
+		<description>Mike Vegas (Michael Youngblood)(1.0)[VP9]</description>
+		<rom name="Mike Vegas screenshot.jpg" size="106635" crc="1ccb3e78" sha1="a4cd0dd3a1959cd2184c7c76ccd6e0b7dc3163ca"/>
+		<rom name="Mike Vegas.vpt" size="26877952" crc="910c4991" sha1="c804520a77f3d28991dbac197f7437a459ae9205"/>
+	</machine>
+	<machine name="Mike Vegas 2, Casino Slots (Michael Youngblood)(1.0)[VP9]">
+		<description>Mike Vegas 2, Casino Slots (Michael Youngblood)(1.0)[VP9]</description>
+		<rom name="Mike Vegas 2, Casino Slots screenshot.jpg" size="110117" crc="92703cbf" sha1="e1ffe99e4089477e9813176de168ea42ab33d5d9"/>
+		<rom name="Mike Vegas 2, Casino Slots.vpt" size="35876864" crc="b533348b" sha1="815498b5200b87aa828e3b7877e6668e135247b3"/>
+	</machine>
+	<machine name="Mike Vegas 2, Casino Slots (Reloaded) (Michael Youngblood)(2.1)[VP9]">
+		<description>Mike Vegas 2, Casino Slots (Reloaded) (Michael Youngblood)(2.1)[VP9]</description>
+		<rom name="Mike Vegas 2, Casino Slots (Reloaded) screenshot.jpg" size="111948" crc="72b8c57e" sha1="8bc85948f7ff8499a6a0883bc18fc6152b68d461"/>
+		<rom name="Mike Vegas 2, Casino Slots (reloaded).vpt" size="38084608" crc="c310d62d" sha1="c8734eb29848fd6b3b98a72b10e07e6dc54203cc"/>
+	</machine>
+	<machine name="Mike's Pinball (Michael Youngblood)(1.0)[VP9]">
+		<description>Mike's Pinball (Michael Youngblood)(1.0)[VP9]</description>
+		<rom name="Mike's Pinball.jpg" size="7876" crc="4650d056" sha1="e36fc031b0d3b456997d4ff2b0ffda9a91077d00"/>
+		<rom name="Mike's Pinball.vpt" size="7716864" crc="50b70b6b" sha1="a708cec8a6bda71bb0fc170eac113d6045c31da0"/>
+	</machine>
+	<machine name="Mike's Pinball 2 (Michael Youngblood)(2.0)[VP9]">
+		<description>Mike's Pinball 2 (Michael Youngblood)(2.0)[VP9]</description>
+		<rom name="Mike's Pinball 2.jpg" size="122063" crc="221c9bdc" sha1="be6aa9c88992d41ab034dbe05e87698960d654cf"/>
+		<rom name="Mike's Pinball 2.vpt" size="21069824" crc="acaf18e7" sha1="ed6cd88d2141c4a4c848a1ac09e642e439f3be0d"/>
+	</machine>
+	<machine name="Mike's Pinball 2 (Reloaded) (Michael Youngblood)(2.1)[VP9]">
+		<description>Mike's Pinball 2 (Reloaded) (Michael Youngblood)(2.1)[VP9]</description>
+		<rom name="Mike's Pinball 2 (Reloaded) screenshot.jpg" size="122174" crc="6e033873" sha1="33e2e5ec33021454bf533699925e3b64a3ede88f"/>
+		<rom name="Mike's Pinball 2 (Reloaded).vpt" size="38096896" crc="f3b2058c" sha1="ce9c81eb8c8f482e5a13c7e8dd6554c382f02014"/>
+	</machine>
+	<machine name="Mike's Pinball 3 (Michael Youngblood)(3.0)[VP9]">
+		<description>Mike's Pinball 3 (Michael Youngblood)(3.0)[VP9]</description>
+		<rom name="Mike's Pinball 3 screenshot.jpg" size="102483" crc="c695c4aa" sha1="dc44376d63a12ea6c5a0587b2cb32c0986005bfd"/>
+		<rom name="Mike's Pinball 3.vpt" size="34095104" crc="07f5d81e" sha1="a4688f4cb5f3fce8c5c47f27c930b13c2d52440a"/>
+	</machine>
+	<machine name="Mike's Pinball 3, Part 2 (Michael Youngblood)(3.1)[VP9]">
+		<description>Mike's Pinball 3, Part 2 (Michael Youngblood)(3.1)[VP9]</description>
+		<rom name="Mike's Pinball 3, Part 2 screenshot.jpg" size="107352" crc="0ac0c301" sha1="0ac26f6a7a28d2068f4da6ca9aaad60d1ba2416a"/>
+		<rom name="Mike's Pinball 3, Part 2.vpt" size="34414592" crc="71d02d3d" sha1="8c5a1d826216a8459a7ea35145536d88782e5a43"/>
+	</machine>
+	<machine name="Money $hot (Michael Youngblood)(1.0)[VP9]">
+		<description>Money $hot (Michael Youngblood)(1.0)[VP9]</description>
+		<rom name="Money $hot screenshot.jpg" size="86646" crc="47882b81" sha1="9e21e09ebe134ff87419d20a2e4960adaa99f9a6"/>
+		<rom name="Money $hot.vpt" size="24174592" crc="a4c9c65c" sha1="36d0d48b9fa1313bd635b5d56b550486d0e267f4"/>
+	</machine>
+	<machine name="Money $hot 2 (Michael Youngblood)(1.0)[VP9]">
+		<description>Money $hot 2 (Michael Youngblood)(1.0)[VP9]</description>
+		<rom name="Money $hot 2 screenshot.jpg" size="108496" crc="de0419e5" sha1="7cc31de83c66a5b5a673f5e1bcff679c4ed52c98"/>
+		<rom name="Money $hot 2.vpt" size="43597824" crc="74882afc" sha1="7b4896ba55ea0e7aafe9f8dc92415aac6dd8ea73"/>
+	</machine>
+	<machine name="Moonrise">
+		<description>Moonrise</description>
+		<rom name="Moonrise (Justin Case Kazoo)(1.0)[VP9].vpt" size="2248704" crc="46112fa8" sha1="5cc38f46018bef020a62c8b46285358537270473"/>
+		<rom name="Moonrise (Justin Case Kazoo)(1.1][VP9].vpt" size="2248704" crc="3031c995" sha1="85eefe77c6f6bece2e4f3d53eaa5d84be64c1855"/>
+		<rom name="Moonrise screenshot.png" size="508036" crc="025d40f2" sha1="72fc7cb261296476b4c6b38ea8c527e3a102be81"/>
+	</machine>
+	<machine name="Nascar Jackpot (Michael Youngblood)(1.0)[VP9]">
+		<description>Nascar Jackpot (Michael Youngblood)(1.0)[VP9]</description>
+		<rom name="Nascar Jackpot screenshot.jpg" size="114295" crc="a654ee88" sha1="69b99457e4430e99762bd5236ea51c8c12a597a0"/>
+		<rom name="Nascar Jackpot.vpt" size="52441088" crc="5ba763a0" sha1="54c28cd6139b841ee9a89d51111d1891fbe34ffb"/>
+	</machine>
+	<machine name="Nascar Jackpot 2 - Tony Stewart's Championship Run (Michael Youngblood)(1.0)[VP9]">
+		<description>Nascar Jackpot 2 - Tony Stewart's Championship Run (Michael Youngblood)(1.0)[VP9]</description>
+		<rom name="Nascar Jackpot 2 - Tony Stewart's Championship Run screenshot.jpg" size="105739" crc="42d2184b" sha1="8783b121f6153371a00e4748b1c9bc2f846f876b"/>
+		<rom name="Nascar Jackpot 2, Tony Stewart's Championship Run.vpt" size="81989632" crc="d99ec36a" sha1="ee082659df23143343d1724c1c8424c755f46d6f"/>
+	</machine>
+	<machine name="Peanuts">
+		<description>Peanuts</description>
+		<rom name="Peanuts (Faralos)(1.0)[VP905].vpt" size="10437632" crc="a084db40" sha1="8844844fd75dfc238106405dff4268d0b6c15f53"/>
+		<rom name="Peanuts screenshot.jpg" size="104669" crc="5df59eb4" sha1="f60d16eab48baf905b8cd2a49879cb7b678733e7"/>
+	</machine>
+	<machine name="Picnic">
+		<description>Picnic</description>
+		<rom name="Picnic (Faralos, Itchigo, PracticeDummy, PinballWizard)(1.0)[VP9].vpt" size="34309632" crc="67c391e6" sha1="c71794ff1e72911ed69224571a1c8a7ed307d589"/>
+		<rom name="Picnic screenshot.jpg" size="707687" crc="69bd9152" sha1="c1d53c4fec9b3b8b050a86c3eb721ac0cbdb7f6e"/>
+	</machine>
+	<machine name="Pirates and Privateers">
+		<description>Pirates and Privateers</description>
+		<rom name="Pirates and Privateers (DizziDi, Anthias, druadic)(1.0)[VP9].vpt" size="5241856" crc="56f92693" sha1="a16765763a560ade0aa60c156bb163d9eed28bb3"/>
+	</machine>
+	<machine name="Pirates of the Caribbean - Dead Man's Chest">
+		<description>Pirates of the Caribbean - Dead Man's Chest</description>
+		<rom name="Pirates of the Caribbean - Dead Man's Chest (1.1)[VP9] screenshot.jpg" size="89735" crc="d4ab69a6" sha1="3e138e373e7a6df9e678814982d6345ddb27999a"/>
+		<rom name="Pirates of the Caribbean - Dead Man's Chest (Faralos)(1.1)[VP9].vpt" size="7278080" crc="a7538821" sha1="43e22a925282541987551a048b8a2363e608d1cd"/>
+	</machine>
+	<machine name="Planet Jackpot">
+		<description>Planet Jackpot</description>
+		<rom name="Planet Jackpot (Michael Youngblood)(1.0)[VP9].vpt" size="16818176" crc="bc980935" sha1="7ac95bc9067006e83374a7cd6bf4cbad2e724cde"/>
+		<rom name="Planet Jackpot screenshot.jpg" size="100255" crc="c471ff82" sha1="d6f454000aee35349e3a1a5bc546e966d35cb6b0"/>
+	</machine>
+	<machine name="Planet Pluto">
+		<description>Planet Pluto</description>
+		<rom name="Fonts\arial.ttf" size="367112" crc="34bad949" sha1="056d20ac56be76d076480c2cab53811fefb91b73"/>
+		<rom name="Fonts\lsansuni.ttf" size="304932" crc="796df05a" sha1="8aae6e177d3dbf683732d23f8fc2f6383c5c1dae"/>
+		<rom name="Planet Pluto (Mark1)(1.0)[VP9].vpt" size="12498944" crc="0487fb65" sha1="5826244d160547fc599f498a8f7dc9726fb8ae36"/>
+		<rom name="Planet Pluto readme.txt" size="1258" crc="d6597567" sha1="ba379ab64d1ca33c7393b5d066287ce2d7a15088"/>
+		<rom name="Planet Pluto screenshot.jpg" size="163735" crc="67d6e9c7" sha1="d32cf551c92637228646f2e1b667a5a881881a35"/>
+	</machine>
+	<machine name="Press Your Luck">
+		<description>Press Your Luck</description>
+		<rom name="Press Your Luck (Michael Youngblood)(1.0)[VP9].vpt" size="24297472" crc="2914e000" sha1="8c5604b91069f6072be9c54e62a0aa7a0e63942f"/>
+		<rom name="Press Your Luck screenshot.jpg" size="84271" crc="7e05090b" sha1="a41fa6f9bd14bb50abae29059fca69c3998035c9"/>
+	</machine>
+	<machine name="Price is Right Too, The">
+		<description>Price is Right Too, The</description>
+		<rom name="Price is Right Too, The (1.0) screenshot.jpg" size="111042" crc="001e5db0" sha1="acf7c82e065bd5e270b3cc36fed8519040be9d63"/>
+		<rom name="Price is Right Too, The (Michael Youngblood)(1.0)[VP9].vpt" size="31350784" crc="c82c30cf" sha1="60071368a88419be4904d3a4a65e795f03330e82"/>
+	</machine>
+	<machine name="Price is Right, The">
+		<description>Price is Right, The</description>
+		<rom name="Price is Right, The (1.0) screenshot.jpg" size="106179" crc="2fcb0c5f" sha1="9e201f96204da5e07549c7f2151dbcd0165de620"/>
+		<rom name="Price is Right, The (Michael Youngblood)(1.0)[VP9].vpt" size="15265792" crc="e6d0c42d" sha1="b81ab93f3dda7c72e10d14dde8261de745d70251"/>
+	</machine>
+	<machine name="Rainbow Spinner">
+		<description>Rainbow Spinner</description>
+		<rom name="Rainbow Spinner (Michael Youngblood)(1.0)[VP9].vpt" size="18485248" crc="ce290cff" sha1="acc717ad15d9da0b1ff9cffd309ed702fcfd78be"/>
+		<rom name="Rainbow Spinner screenshot.jpg" size="118479" crc="103437f1" sha1="a7e5e6c0651c0fa8da88bf0acb1e99cb9155aa3f"/>
+	</machine>
+	<machine name="Rapid Vienna">
+		<description>Rapid Vienna</description>
+		<rom name="Rapid Vienna (2011) readme.txt" size="14732" crc="616ed04e" sha1="dcde4e38dcd8247dd9f7b1c811cee67bddb0896d"/>
+		<rom name="Rapid Vienna (2011) screenshot.jpg" size="417974" crc="18b76eef" sha1="3a2389226f4c6762f015d570faa409ccd3b99298"/>
+		<rom name="Rapid Vienna (starman7007, Bob5453)(2011)[VP9].vpt" size="44175872" crc="87aeecba" sha1="b64a142d5bc5eeb011dd1f8d86b956ee6db8de05"/>
+	</machine>
+	<machine name="Royal Flushed">
+		<description>Royal Flushed</description>
+		<rom name="Music\Card Sharks 1986.mp3" size="2405772" crc="24ae5929" sha1="19be6c6fa2b3ae199876a3acf6c035a7ebb260db"/>
+		<rom name="Music\Card Sharks Theme 1978.mp3" size="1084732" crc="ad5333c9" sha1="a119b5ab57c5b3cc317242347a8cbf43e90343f2"/>
+		<rom name="Music\Gambit.mp3" size="2407443" crc="b45ce404" sha1="f2c43a8b637c19c7961d00be6316fe4abca2427f"/>
+		<rom name="Royal Flushed (Michael Youngblood)(1.0)[VP9].vpt" size="12587008" crc="e3166e0e" sha1="639503089677ae215e01944b5bd3998f25f7709d"/>
+		<rom name="Royal Flushed screenshot.jpg" size="119032" crc="5c278913" sha1="fce3c9d7e9be15986185e10a3858f361bcc18f1d"/>
+		<rom name="Royal Flushed.txt" size="572" crc="7b14d22d" sha1="5cc89280fcd33c15814bdd60bac2c8d80229d921"/>
+	</machine>
+	<machine name="Rube Goldberg 2">
+		<description>Rube Goldberg 2</description>
+		<rom name="Rube Goldberg 2 (Itchigo)(1.0)[VP907].vpt" size="11840000" crc="74fc55dd" sha1="e7e964be94b63898727ef871ed7dc2310154f95d"/>
+		<rom name="Rube Goldberg 2 (Itchigo)(Beta)[VP907].vpt" size="13520384" crc="2702035d" sha1="e77c4d23dea942a8ad0a8402f9da4fa832a8429b"/>
+		<rom name="Rube Goldberg 2 screenshot.jpg" size="164718" crc="965fbdf6" sha1="06ac4b7bc1ea12bd396533b2bfd46be178168957"/>
+	</machine>
+	<machine name="Sanatorium">
+		<description>Sanatorium</description>
+		<rom name="Sanatorium (Faralos (table layout design &amp; coding), Wizards Hat (Alpha-numeric scoring display), Hassenchop (Artwork))(1.0)[VP907].vpt" size="76013056" crc="b9a70eda" sha1="9f4f957a0f3bcbd94c30dbf405418ccd3f4d4207"/>
+		<rom name="Sanatorium screenshot.jpg" size="163988" crc="ae172444" sha1="e9154befad71930bc46223d70d3dd7026528c5f4"/>
+	</machine>
+	<machine name="Scrabble">
+		<description>Scrabble</description>
+		<rom name="Scrabble (Michael Youngblood)(1.0)[VP9].vpt" size="31227904" crc="4fa2530a" sha1="5e42f127e588626b8c2199b786183ea7f8f17b1e"/>
+		<rom name="Scrabble screenshot.jpg" size="86800" crc="eabc0fc6" sha1="c87d9d383c45d1dff3a1e7f2b6626bce5f7a2fed"/>
+	</machine>
+	<machine name="Silverball">
+		<description>Silverball</description>
+		<rom name="Silverball (Michael Youngblood)(1.0)[VP9].vpt" size="19730432" crc="b54dd5ca" sha1="e109416d844f8779d85b9c06bd2c46bd216bef69"/>
+		<rom name="Silverball screenshot.jpg" size="90366" crc="acfba10c" sha1="018f25b08c0e7563a44e0da663c442dc663e8966"/>
+	</machine>
+	<machine name="Space Adventure">
+		<description>Space Adventure</description>
+		<rom name="Space Adventure (Faralos)(1.1 Loaded)[VP909].vpt" size="24950272" crc="579e7650" sha1="e9ff63f891b6c5945b1b6c4f97f12c0aef8412a1"/>
+		<rom name="Space Adventure PlayField original.jpg" size="81778" crc="2528ac65" sha1="04d25182ede2ec8eaadf979776218c07559af8cf"/>
+		<rom name="Space Adventure screenshot.jpg" size="82068" crc="d7067b84" sha1="a1a1d423b1df787b74552da02202964107c7c6f8"/>
+	</machine>
+	<machine name="Space Shuttle (YPC)">
+		<description>Space Shuttle (YPC)</description>
+		<rom name="Space Shuttle (YPC) (Michael Youngblood)(1.0)[VP9].vpt" size="10235904" crc="c7cf3637" sha1="19522d8c3ee0f9744741ac3e1090dbe88ced90aa"/>
+		<rom name="Space Shuttle (YPC) screenshot.jpg" size="85738" crc="a06019ad" sha1="a1a225067c3df13c01907f6f36bdb73015f115f2"/>
+	</machine>
+	<machine name="Spider-Man">
+		<description>Spider-Man</description>
+		<rom name="Bob5453\DigitalReadoutFont.zip" size="7593" crc="0c6f1d0f" sha1="336a4460fd6f91c8f5f2d886d4a7a54029c07544"/>
+		<rom name="Bob5453\Music\FlyingCondor.mp3" size="5261411" crc="0a2da7cb" sha1="7e10235ca3987aedd850499e08f77c23b3bef487"/>
+		<rom name="Bob5453\Music\Spiderman01234.mp3" size="1869794" crc="34dac64f" sha1="2ccfaeb7c15b7ea13977901286436f7f1a87bd60"/>
+		<rom name="Bob5453\Music\SpidermanNewer.mp3" size="2633168" crc="d45a1131" sha1="48c9d8d0015a9e1bfc28057750d835540f49c740"/>
+		<rom name="Bob5453\Music\SpidermanRamones.mp3" size="2027724" crc="12743fb6" sha1="bcefdb3a7ee10690f1a5f8e454fed8eef12b3585"/>
+		<rom name="Bob5453\Spider-Man (2009) screenshot.jpg" size="296800" crc="0be2a441" sha1="32cda78e24ea1a6b6ff3514ccf5407878bbb32c1"/>
+		<rom name="Bob5453\Spider-Man (Bob5453)(2009)[VP9].vpt" size="15511552" crc="595756f5" sha1="6dc02dad4eaa8189c23698ff060ec3fbaf57886f"/>
+		<rom name="JPSalas\Spider-Man (JPSalas)(1.0.2)[VP9]\Spider-Man (1.02) screenshot.jpg" size="1034450" crc="c81da181" sha1="b6482bc1ea7f64c0a287938a476d555ec110f980"/>
+		<rom name="JPSalas\Spider-Man (JPSalas)(1.0.2)[VP9]\Spider-Man_JP_VP9_1.02.vpt" size="26089472" crc="17f76caf" sha1="dc2fb6d32741096a6554409d5b1844332eafa0c0"/>
+		<rom name="JPSalas\Spider-Man (JPSalas)(1.0.2)[VP9]\Spider-Man_JP_VP9_Enu.hta" size="10110" crc="08b97f88" sha1="1e2757c112ed9807f324aa63a281838c64ad9e85"/>
+		<rom name="JPSalas\Spider-Man (JPSalas)(1.0.2)[VP9]\Spider-Man_JP_VP9_Esp.hta" size="11994" crc="e78d04dc" sha1="6037c67df4e4b6f9114fd85f1b38d8fa37d7bdc3"/>
+	</machine>
+	<machine name="Star Wars Original">
+		<description>Star Wars Original</description>
+		<rom name="1.0\star wars orig. scoring.txt" size="707" crc="08dd8852" sha1="5f5ba7e17aea1e18ed274b6dc4bce1df3b8b4060"/>
+		<rom name="1.0\Star Wars Original (Robert Kundrat)(1.0)[VP9].vpt" size="54191616" crc="fdba3370" sha1="ac613c030588dc96c74bea37aada5a066127e374"/>
+		<rom name="1.1\star wars orig. scoring.txt" size="709" crc="cb0d000f" sha1="f79bcc0142e37b2197363f5eddd621f0bbeb1427"/>
+		<rom name="1.1\Star Wars Original (1.1) screenshot.jpg" size="595590" crc="11f66895" sha1="afbce9a7094839d6b146cadf6201165a59beeaba"/>
+		<rom name="1.1\Star Wars Original (Robert Kundrat)(1.1)(without gameplay music)[VP9].vpt" size="15539712" crc="8e82bf2a" sha1="537947d4aa2e367ecfa85434c4265f0d463b412f"/>
+		<rom name="1.1\Star Wars Original (Robert Kundrat)(1.1)[VP9].vpt" size="53833728" crc="5ae80b15" sha1="26d33b107bc12765140d7b2cb2208956b2aa33c3"/>
+		<rom name="1.1\Star Wars Original rules.jpg" size="972327" crc="f0bc5af7" sha1="86b65c478dc59f52d756996b534d18ab195ee578"/>
+		<rom name="1.1\williamsfontwide.ttf" size="19304" crc="c3c010f1" sha1="3b0458ab8b8679b760b3e177f5ab4ebd98001b2c"/>
+		<rom name="2.2\star wars orig. scoring.txt" size="709" crc="cb0d000f" sha1="f79bcc0142e37b2197363f5eddd621f0bbeb1427"/>
+		<rom name="2.2\Star Wars Original (2.2) screenshot.jpg" size="217593" crc="cd65a1f2" sha1="a941434e2396711242ba4ef1633741df114a8e95"/>
+		<rom name="2.2\Star Wars Original (Robert Kundrat)(2.2)[VP9].vpt" size="36418560" crc="e91cb9e1" sha1="8260ef6a3ee569ae22fc6e2e465fb3be7e1f6c85"/>
+		<rom name="2.2\Star Wars Original (Robert Kundrat)(2.2a)[VP9].vpt" size="36418560" crc="96b69cc6" sha1="a1a8f0cf063eb88f7188f55671e7aad5b2170b33"/>
+		<rom name="2.2\Star Wars Original Rules.jpg" size="1032122" crc="1d40eb28" sha1="6442dc8b004fffc8d9e7cdc12a68e312228e1adc"/>
+		<rom name="2.2\Williams Pinball.ttf" size="23548" crc="02e83ad1" sha1="a3285aedc5d4d42e7bf6a06713562bc94a165f97"/>
+	</machine>
+	<machine name="Stormy">
+		<description>Stormy</description>
+		<rom name="Stormy (Justin Case Kazoo)(1.0)[VP9].vpt" size="3768320" crc="ed903935" sha1="43bd05ccf63b8fc55cd2a0cb2b32d0245d2b2a8c"/>
+		<rom name="Stormy screenshot.png" size="315297" crc="2c06a67d" sha1="ab8ddff4f708f164e473a9930c3b97a1d51665a4"/>
+	</machine>
+	<machine name="Sunset">
+		<description>Sunset</description>
+		<rom name="Sunset (Justin Case Kazoo)(1.0)[VP9].vpt" size="2408448" crc="37e354c2" sha1="d5ded63244e78531d018f8054613368805ebac98"/>
+		<rom name="Sunset screenshot.png" size="938256" crc="1b6b3371" sha1="ae34de0f12810bf2ff779463d033a0ca15f47e93"/>
+	</machine>
+	<machine name="Supergirl">
+		<description>Supergirl</description>
+		<rom name="Music\supergirl-movie.mp3" size="2559710" crc="3117e291" sha1="67ca6cc08c21d78fb29657b197abcceba9cf4514"/>
+		<rom name="Supergirl (Bob5453)(2010)[VP9].vpt" size="6528000" crc="5c38ef6b" sha1="96c22af3f082719c0c9f109b7a290614fc1d97d6"/>
+		<rom name="Supergirl (Bob5453)(2010a)[VP9].vpt" size="6528000" crc="b7f8169c" sha1="9763152a5442913b468ff9e691a5adf54493c62f"/>
+		<rom name="Supergirl screenshot.jpg" size="428749" crc="f2034641" sha1="41f9b140472895aea017a7ed403487dc326d691c"/>
+	</machine>
+	<machine name="Tarzon (Pinman, 4Eyes)(3d)">
+		<description>Tarzon (Pinman, 4Eyes)(3d)</description>
+		<rom name="Tarzon (Pinman, 4Eyes)(3d).vpt" size="2928640" crc="e9867aec" sha1="346133ed55aa1961c31278d74cef4c9cf3072544"/>
+	</machine>
+	<machine name="This is Jeopardy!">
+		<description>This is Jeopardy!</description>
+		<rom name="This is Jeopardy! (1.0) screenshot.jpg" size="98892" crc="3669193a" sha1="4080394587a79c72b63a9fd0af3b5bc488e71ea4"/>
+		<rom name="This is Jeopardy! (Michael Youngblood)(1.0)[VP9].vpt" size="17473536" crc="188d140b" sha1="3ff01859e263effb7a1d787ee81fabc008f417b3"/>
+	</machine>
+	<machine name="This is Jeopardy! 2">
+		<description>This is Jeopardy! 2</description>
+		<rom name="1.0\This is Jeopardy! 2 (1.0) screenshot.jpg" size="105656" crc="e4b79740" sha1="6dfc3e17c57ed862a2f8957a0c4790c54f8f03f7"/>
+		<rom name="1.0\This is Jeopardy! 2 (Michael Youngblood)(1.0)[VP9].vpt" size="26353664" crc="d318cf32" sha1="fe4ee9855b03530f2c738e81b6ef4e13c6c0f9de"/>
+		<rom name="Reloaded\This is Jeopardy! 2 (Reloaded) (Michael Youngblood)(1.0)[VP9].vpt" size="29736960" crc="4bc23ce6" sha1="668d77da2f0f79748c02c5b2d485ece65f5a4a46"/>
+		<rom name="Reloaded\This is Jeopardy! 2 (Reloaded) screenshot.jpg" size="107091" crc="51f3e552" sha1="f817960d343e034472d1ee0393df2ee8a599221d"/>
+	</machine>
+	<machine name="Three Stooges, The">
+		<description>Three Stooges, The</description>
+		<rom name="Three Stooges, The (2010) screenshot.jpg" size="365863" crc="96215347" sha1="25d3b6b343a839a7fca837f222a2dc0fea4db366"/>
+		<rom name="Three Stooges, The (2010a) screenshot.jpg" size="369591" crc="a68471ec" sha1="b2ebda77760b625693423ad1252be56c07d80c11"/>
+		<rom name="Three Stooges, The (Bob5453)(2010)[VP9].vpt" size="16359424" crc="2d06045b" sha1="3dd180a1a3c1e589918497bced95e731ec522637"/>
+		<rom name="Three Stooges, The (Bob5453)(2010a)[VP9].vpt" size="16559616" crc="9e403ff3" sha1="b83cad9efe2ec87f3e3edcc169d34aa5b511a0d1"/>
+	</machine>
+	<machine name="Thunderball">
+		<description>Thunderball</description>
+		<rom name="Fonts\arial.ttf" size="367112" crc="34bad949" sha1="056d20ac56be76d076480c2cab53811fefb91b73"/>
+		<rom name="Fonts\lsansuni.ttf" size="304932" crc="796df05a" sha1="8aae6e177d3dbf683732d23f8fc2f6383c5c1dae"/>
+		<rom name="Thunderball (Mark1)(1.0)[VP9].vpt" size="9495040" crc="1d3ee549" sha1="79388d54d6527fb786eea8028e9fca404abc1b9b"/>
+		<rom name="Thunderball readme.txt" size="1738" crc="d19468f2" sha1="fc4d120bb5d66260aee9f99c2735a6ace8c1cdb5"/>
+		<rom name="Thunderball screenshot.jpg" size="183929" crc="84e3440d" sha1="06e9d8884b465d3fd29f9ec3830fb101228cd270"/>
+	</machine>
+	<machine name="Tic Tac Dough">
+		<description>Tic Tac Dough</description>
+		<rom name="Tic Tac Dough (Michael Youngblood)(1.0)[VP9].vpt" size="19402752" crc="03cb64b0" sha1="806aad8bef741c1344fd3bb8fc3cc3d4810a7004"/>
+		<rom name="Tic Tac Dough screenshot.jpg" size="110008" crc="4ed436e7" sha1="14aea25a4aba731dda5616e73b4ce363ab6d4d96"/>
+	</machine>
+	<machine name="Totally Tubular 2">
+		<description>Totally Tubular 2</description>
+		<rom name="Totally Tubolar 2 screenshot.jpg" size="169505" crc="a972924c" sha1="b54e5da16887fb0497f0d49d76fcbd7dbd090da5"/>
+		<rom name="Totally Tubular 2 (Wrenchien)(1.0)[VP9].vpt" size="4662272" crc="00effa86" sha1="7617adf78c45e3fd1a7d4ea7c03f66ac0fc6dc9d"/>
+	</machine>
+	<machine name="Tron">
+		<description>Tron</description>
+		<rom name="Music\Tron Sea of Simulation.mp3" size="4884480" crc="dc5c7443" sha1="d38f9798f4b4472dcbab3ccb096acd4e5524b0c5"/>
+		<rom name="Music\Tron The Light Sailor.mp3" size="3768529" crc="e04338be" sha1="129eb0aed4c64cd9b53102145efd67194d406c9a"/>
+		<rom name="Music\Tron Water, Music, And Tronaction.mp3" size="3485153" crc="5e00b0b5" sha1="82d132d58c46f56ac85d1034b1cc6522a2410393"/>
+		<rom name="Tron (Practicedummy, Rascal (on the Giant Sark animation routine)(1.0)[VP9].vpt" size="59346944" crc="dc670431" sha1="cc82fdfd3235b703539492d2504fe4c59f6fe126"/>
+		<rom name="Tron Read Me.txt" size="45" crc="355dde2a" sha1="7d48f90ee68fa69c6759821427d23ee0086f3207"/>
+		<rom name="Tron screenshot.png" size="261284" crc="e78f471f" sha1="dacd1ab68285582afdfd02b3c60f606213044f72"/>
+	</machine>
+	<machine name="Up, Up, and Away!">
+		<description>Up, Up, and Away!</description>
+		<rom name="Up, Up, and Away! (Michael Youngblood)(1.0)[VP9].vpt" size="30412800" crc="b3361011" sha1="a6121969f124eaf763207e55e7501932447a6d6d"/>
+		<rom name="Up, Up, and Away! screenshot.jpg" size="69957" crc="302e8ed8" sha1="f2efe4019eb01a927c6447390a0d688837a6b8a7"/>
+	</machine>
+	<machine name="Vaqueros Latas">
+		<description>Vaqueros Latas</description>
+		<rom name="Vaqueros Latas (rafatato)(1.0)[VP9].vpt" size="4669952" crc="0156ec4e" sha1="c3e94f385f4e6533da124f95444e34bf33935df3"/>
+		<rom name="Vaqueros Latas screenshot.jpg" size="139313" crc="8f854ed2" sha1="30b4b17279c26fc94f1119a37b60553fec123de6"/>
+	</machine>
+	<machine name="Wallace &amp; Gromit">
+		<description>Wallace &amp; Gromit</description>
+		<rom name="W&amp;G-music.zip" size="9384395" crc="539eb876" sha1="048327b9b514f6fa32725441e741f38cc5f377a5"/>
+		<rom name="Wallace &amp; Gromit (Eala Dubh Sidhe)(RC1b)[VP9](highrise mod wip dmdp).vpt" size="15095296" crc="436f5727" sha1="ca2c0cb5a724db27d898e26477cd9c9aecdea586"/>
+	</machine>
+	<machine name="Waterfall">
+		<description>Waterfall</description>
+		<rom name="Waterfall (Justin Case Kazoo)(1.0)[VP9].vpt" size="3313664" crc="5615d24b" sha1="06b20fdf1cf504174d3f390655cb0bfd0cea9a2b"/>
+		<rom name="Waterfall (Justin Case Kazoo)(1.01)[VP9].vpt" size="3313664" crc="05fc46a6" sha1="b10943c8ed57518b071124321adf6c8654542196"/>
+		<rom name="Waterfall screenshot.png" size="326472" crc="94f12dc1" sha1="f10e6d36342d5b719634ebd5d42875b5a4304cb0"/>
+	</machine>
+	<machine name="Wheel of Fortune (Michael Youngblood)(2.0)[VP9]">
+		<description>Wheel of Fortune (Michael Youngblood)(2.0)[VP9]</description>
+		<rom name="Wheel of Fortune (Michael Youngblood)(1.0)[VP9]\Wheel of Fortune (1.0) screenshot.jpg" size="89429" crc="bdb7ef99" sha1="d3e1229540264f266fd2b3f44dd01fca130d8557"/>
+		<rom name="Wheel of Fortune (Michael Youngblood)(1.0)[VP9]\Wheel of Fortune.vpt" size="22114304" crc="6c1f4873" sha1="f04945b0d33cfda8a1a61ee4b46156c1701051b6"/>
+		<rom name="Wheel of Fortune (Michael Youngblood)(2.0)[VP9]\Wheel of Fortune (2.0) screenshot.jpg" size="97799" crc="844b1cc6" sha1="5300b053669c7b8889e1c3918a102a632f100238"/>
+		<rom name="Wheel of Fortune (Michael Youngblood)(2.0)[VP9]\Wheel of Fortune 2.vpt" size="31858688" crc="e39223d2" sha1="4c136f2fa4001133dedd9002b6bf53dac19522e2"/>
+	</machine>
+	<machine name="Wheel of Fortune 2 (Reloaded) (Michael Youngblood)(2.1)[VP9]">
+		<description>Wheel of Fortune 2 (Reloaded) (Michael Youngblood)(2.1)[VP9]</description>
+		<rom name="Wheel of Fortune 2 (Reloaded) screenshot.jpg" size="101267" crc="8ac7453f" sha1="3a89d1cb6f05e9c31d555412311bd034bc7e6986"/>
+		<rom name="Wheel of Fortune 2 (Reloaded).vpt" size="39596032" crc="630382c3" sha1="0a13aa8bfd54c186f3bf83e37860eb6571c36b53"/>
+	</machine>
+	<machine name="Wheel of Fortune 3 (Michael Youngblood)(1.0)[VP9]">
+		<description>Wheel of Fortune 3 (Michael Youngblood)(1.0)[VP9]</description>
+		<rom name="Music\Wheel of Fortune - 1997 - 2000 Full Theme.mp3" size="1407912" crc="ec897b83" sha1="2ca3562dfbb1b7cb35a2ed38c9a0d3c772091ed1"/>
+		<rom name="Music\Wheel of Fortune - 2002 - Closing.mp3" size="2927958" crc="5894c6e9" sha1="985736feabe661e15ecba8a9ddd13ea4cb6009b9"/>
+		<rom name="Music\Wheel of Fortune - 2002 - Opening.mp3" size="1060313" crc="e756239f" sha1="3f42b246f6ca4e3a7bb3d86bc4d08d151227fdb7"/>
+		<rom name="Music\Wheel of Fortune 1994 - 1997 Opening.mp3" size="397896" crc="1f7926ea" sha1="889d958071dd68a3b3f036f30aab66e312fb72db"/>
+		<rom name="Music\Wheel of Fortune 1998.mp3" size="117016" crc="81f06f57" sha1="755ac290bb81506d14451c06ee22763ab0a8fe3c"/>
+		<rom name="Wheel of Fortune 3 screenshot.jpg" size="121596" crc="5f0991eb" sha1="1be9d78514d5a9104b115b2e6508a45f06881c3a"/>
+		<rom name="Wheel of Fortune 3.txt" size="523" crc="888d90a3" sha1="490a7d10baa7695d1dc3ceb6d7a9d92db6015c44"/>
+		<rom name="Wheel of Fortune 3.vpt" size="31432704" crc="64177ef7" sha1="c4bb867e740634cb14f8f082a3cc177849a1ab6b"/>
+	</machine>
+	<machine name="Who Wants to be a Millionaire">
+		<description>Who Wants to be a Millionaire</description>
+		<rom name="Who Wants to be a Millionaire (Michael Youngblood)(1.0)[VP9].vpt" size="29204480" crc="58245454" sha1="e7a02682977309e823d0c486a50b82122ef88295"/>
+		<rom name="Who Wants to be a Millionaire screenshot.jpg" size="91882" crc="9bc554ec" sha1="d9f791f2eaca8d951be77d719ee27b123c544bff"/>
+	</machine>
+	<machine name="World Series of Poker">
+		<description>World Series of Poker</description>
+		<rom name="World Series of Poker (Michael Youngblood)(1.0)[VP9].vpt" size="33964032" crc="0b42070c" sha1="d2773cfc76dfeef3e8bfac33bf51926414d24b95"/>
+		<rom name="World Series of Poker screenshot.jpg" size="102451" crc="69b1cb85" sha1="89b15d683160ec49a3abea9e4c54f3ef08f23395"/>
+	</machine>
+	<machine name="World Series of Poker 2 - Pokering with Sasquatch">
+		<description>World Series of Poker 2 - Pokering with Sasquatch</description>
+		<rom name="Music\Jackpot 2.mp3" size="1743306" crc="39218c72" sha1="ca67364a4c1a9c2c7b14b8260217319c62798f0b"/>
+		<rom name="Music\Jackpot end.mp3" size="157987" crc="94c1a0dc" sha1="1009b1488ee4c08ed93f8a518fb9ae91708781c4"/>
+		<rom name="Music\Jackpot.mp3" size="5010493" crc="9940611e" sha1="91a0fdd3aa5fe0473d74895d65f6a3fccbaf92e3"/>
+		<rom name="Music\WSOP theme.mp3" size="3362480" crc="549284d3" sha1="78218cde30f6c9935e132b7810c44961e4fa1f2e"/>
+		<rom name="World Series of Poker 2 - Pokering with Sasquatch (Michael Youngblood)(1.0)[VP9].vpt" size="35561472" crc="034cc753" sha1="863232773e955658e693a2a07b5d01f184d6915d"/>
+		<rom name="World Series of Poker 2 - Pokering with Sasquatch readme.txt" size="494" crc="be019e52" sha1="6b6fa5c0022ec3d4e97b00fd2f8fb4b903a393a2"/>
+		<rom name="World Series of Poker 2 - Pokering with Sasquatch screenshot.jpg" size="115241" crc="bcca7d69" sha1="ef9f4308ecf2dadc6e92cca49ba2c843d9397899"/>
+	</machine>
+</datafile>

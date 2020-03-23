@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C16, C116 &amp; Plus-4 - Utilities - [CRT]</name>
+		<description>Commodore C16, C116 &amp; Plus-4 - Utilities - [CRT] (TOSEC-v2013-12-16)</description>
+		<category>TOSEC</category>
+		<version>2013-12-16</version>
+		<author>TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Financial Advisor (1984)(CBM)(US)">
+		<description>Financial Advisor (1984)(CBM)(US)</description>
+		<rom name="Financial Advisor (1984)(CBM)(US).crt" size="16384" crc="5b0e82ae" md5="5fd76819bc109612727f98590b92d67d" sha1="0f1b8b20331c8c502fed507eca5d66683667757b"/>
+	</game>
+</datafile>

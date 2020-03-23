@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Epson PX-8, HC-88 &amp; Geneva - Operating Systems</name>
+		<description>Epson PX-8, HC-88 &amp; Geneva - Operating Systems (TOSEC-v2011-11-27)</description>
+		<category>TOSEC</category>
+		<version>2011-11-27</version>
+		<author>TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="PX-8 OS1 (198x)(Epson)">
+		<description>PX-8 OS1 (198x)(Epson)</description>
+		<rom name="PX-8 OS1 (198x)(Epson).hex" size="92175" crc="c21cb1d6" md5="daaac650dc164c03b2347aee6609f0d8" sha1="a704b5834f6f68d0d9aae82172607587665bbbdd"/>
+	</game>
+	<game name="PX-8 OS1 (198x)(Epson)[m Y2K-Version]">
+		<description>PX-8 OS1 (198x)(Epson)[m Y2K-Version]</description>
+		<rom name="PX-8 OS1 (198x)(Epson)[m Y2K-Version].hex" size="90124" crc="e0cce137" md5="617b11bc68969860d154fd07b72b6519" sha1="bd9084ec953c20d4c631b5278873f086d56d147e"/>
+	</game>
+</datafile>

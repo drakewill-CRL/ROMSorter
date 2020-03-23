@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Visual Pinball [VP9] Recreated Tables [FullScreen spanned]</name>
+		<description>Visual Pinball [VP9] Recreated Tables [FullScreen spanned]</description>
+		<category>Visual Pinball [VP9] Recreated Tables [FullScreen spanned]</category>
+		<version>1.0</version>
+		<date>2020-01-01</date>
+		<author>Yori Yoshizuki</author>
+		<email>-insert email-</email>
+		<homepage>Yori Yoshizuki</homepage>
+		<url>https://yoshizuki.webs.com</url>
+		<comment>-insert comment-</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Bell Ringer (Gottlieb)(1990)(TAB, destruk)(1.0)[VP9][FullScreen Spanned destruk]">
+		<description>Bell Ringer (Gottlieb)(1990)(TAB, destruk)(1.0)[VP9][FullScreen Spanned destruk]</description>
+		<rom name="16-9 Bell Ringer.vpt" size="4451328" crc="d244c169" sha1="91859ac2e3fd65211800962ce47c9a9c92479d94"/>
+		<rom name="screenshot.jpg" size="1343613" crc="8a6284b7" sha1="5610e833e7b37a9e5b4252dcf71bf2fdd22b3f0c"/>
+	</machine>
+</datafile>

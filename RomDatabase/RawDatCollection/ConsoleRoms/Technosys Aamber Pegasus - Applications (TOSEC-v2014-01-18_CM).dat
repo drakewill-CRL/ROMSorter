@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Technosys Aamber Pegasus - Applications</name>
+		<description>Technosys Aamber Pegasus - Applications (TOSEC-v2014-01-18)</description>
+		<category>TOSEC</category>
+		<version>2014-01-18</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Assembler &amp; Disassembler v1.1 (19xx)(-)[a][raw]">
+		<description>Assembler &amp; Disassembler v1.1 (19xx)(-)[a][raw]</description>
+		<rom name="Assembler &amp; Disassembler v1.1 (19xx)(-)[a][raw].bin" size="4096" crc="55575af8" md5="a1e0e1f58d6bf058f950a179857a68c4" sha1="677db7511ddcaad6df85779f895a63ee5e35a8f8"/>
+	</game>
+	<game name="Assembler &amp; Disassembler v1.1 (19xx)(-)[a][translated]">
+		<description>Assembler &amp; Disassembler v1.1 (19xx)(-)[a][translated]</description>
+		<rom name="Assembler &amp; Disassembler v1.1 (19xx)(-)[a][translated].bin" size="4096" crc="19d116f4" md5="d4792a30adeeaccc4ba09df0feacad30" sha1="6f82ddeafab1a07dd4e75ef8031204f7d5e24f03"/>
+	</game>
+	<game name="Assembler &amp; Disassembler v1.1 (19xx)(-)[raw]">
+		<description>Assembler &amp; Disassembler v1.1 (19xx)(-)[raw]</description>
+		<rom name="Assembler &amp; Disassembler v1.1 (19xx)(-)[raw].bin" size="4096" crc="5410b220" md5="57b06ed2c275547498cbb48e5c3e8e0d" sha1="30d197b3e4cd8a15415342740eba2319ed762987"/>
+	</game>
+	<game name="Assembler &amp; Disassembler v1.1 (19xx)(-)[translated]">
+		<description>Assembler &amp; Disassembler v1.1 (19xx)(-)[translated]</description>
+		<rom name="Assembler &amp; Disassembler v1.1 (19xx)(-)[translated].bin" size="4096" crc="f27cc247" md5="6180b02679fb4b8a1426fba581619bbf" sha1="834969a1fc6edc8d1aed98d7fc6a233b4a149dac"/>
+	</game>
+	<game name="Forth v1.1 (19xx)(-)[raw][cart a]">
+		<description>Forth v1.1 (19xx)(-)[raw][cart a]</description>
+		<rom name="Forth v1.1 (19xx)(-)[raw][cart a].bin" size="4096" crc="f0c09ac3" md5="7c53c9b273d71738d3eef8d9d8b0a31c" sha1="1f13c86b1a1a53198b07729572e71f262b4d5e0e"/>
+	</game>
+	<game name="Forth v1.1 (19xx)(-)[raw][cart b]">
+		<description>Forth v1.1 (19xx)(-)[raw][cart b]</description>
+		<rom name="Forth v1.1 (19xx)(-)[raw][cart b].bin" size="4096" crc="4411b268" md5="96c3e95da696dba675a7f963ec68fd90" sha1="0e7a0799179bb2675da67c1725c1911fbd4a4433"/>
+	</game>
+	<game name="Forth v1.1 (19xx)(-)[translated][cart a]">
+		<description>Forth v1.1 (19xx)(-)[translated][cart a]</description>
+		<rom name="Forth v1.1 (19xx)(-)[translated][cart a].bin" size="4096" crc="fd182075" md5="7e8599882af5a1a768700a9947c84030" sha1="385520f55880f166686940bb327d0fd1e1cbe6a5"/>
+	</game>
+	<game name="Forth v1.1 (19xx)(-)[translated][cart b]">
+		<description>Forth v1.1 (19xx)(-)[translated][cart b]</description>
+		<rom name="Forth v1.1 (19xx)(-)[translated][cart b].bin" size="4096" crc="703a1c0c" md5="c0f5869174cd2e6c81e1dab5a3e74fd8" sha1="3688963121321b08f97e1e2c426dbdb24bed9369"/>
+	</game>
+	<game name="Forth v1.3 (19xx)(-)[raw][cart a]">
+		<description>Forth v1.3 (19xx)(-)[raw][cart a]</description>
+		<rom name="Forth v1.3 (19xx)(-)[raw][cart a].bin" size="4096" crc="1033d0c4" md5="eb1663ba39f26991f28afe0012e80a5e" sha1="b8834b4d271b780e6afb2f0d671146a258b2f8b0"/>
+	</game>
+	<game name="Forth v1.3 (19xx)(-)[raw][cart b]">
+		<description>Forth v1.3 (19xx)(-)[raw][cart b]</description>
+		<rom name="Forth v1.3 (19xx)(-)[raw][cart b].bin" size="4096" crc="f65a5e36" md5="6b649dca5d3c1f0549bc8acafaab09c0" sha1="2f667734f7b5ca8f65ad769cb325b70ff69d144c"/>
+	</game>
+	<game name="Forth v1.3 (19xx)(-)[translated][cart a]">
+		<description>Forth v1.3 (19xx)(-)[translated][cart a]</description>
+		<rom name="Forth v1.3 (19xx)(-)[translated][cart a].bin" size="4096" crc="5ef2fdb3" md5="30a7c6d40f88dc508e25dee5ee91ffcc" sha1="10794ef50416c6ad7dcb68fcaa6b60420bea9db6"/>
+	</game>
+	<game name="Forth v1.3 (19xx)(-)[translated][cart b]">
+		<description>Forth v1.3 (19xx)(-)[translated][cart b]</description>
+		<rom name="Forth v1.3 (19xx)(-)[translated][cart b].bin" size="4096" crc="6ceb6abc" md5="a2e42f3544d284ac1d0fecf94b01e4a8" sha1="e2dbc6a2a24aa11ebd83bd4dc3276b3d8ebec715"/>
+	</game>
+	<game name="Monitor v1.0 (19xx)(-)[raw]">
+		<description>Monitor v1.0 (19xx)(-)[raw]</description>
+		<rom name="Monitor v1.0 (19xx)(-)[raw].bin" size="4096" crc="910fc930" md5="dcec7a8544bcd76e125cc7648512ce17" sha1="a4f6bbe5def0268cc49ee7045616a39017dd8052"/>
+	</game>
+	<game name="Monitor v1.0 (19xx)(-)[translated]">
+		<description>Monitor v1.0 (19xx)(-)[translated]</description>
+		<rom name="Monitor v1.0 (19xx)(-)[translated].bin" size="4096" crc="3f5abbc9" md5="6a9299926ab193c49b13aeea0560f48b" sha1="ac375e93d1081f20e12ed2c7f16f9e9b21fb0efe"/>
+	</game>
+	<game name="Monitor v1.1 (19xx)(-)[raw]">
+		<description>Monitor v1.1 (19xx)(-)[raw]</description>
+		<rom name="Monitor v1.1 (19xx)(-)[raw].bin" size="4096" crc="07b92002" md5="9edce01774a6cc755e3e96c568cdddf2" sha1="3c434601120870c888944ecd9ade5186432ddbc2"/>
+	</game>
+	<game name="Monitor v1.1 (19xx)(-)[translated]">
+		<description>Monitor v1.1 (19xx)(-)[translated]</description>
+		<rom name="Monitor v1.1 (19xx)(-)[translated].bin" size="4096" crc="14217ab4" md5="f401e72863f2912d7ba186885da24952" sha1="95ab1785adb2441834c3dda25a1b6488249b0bf2"/>
+	</game>
+	<game name="Monitor v2.2 (19xx)(-)[raw]">
+		<description>Monitor v2.2 (19xx)(-)[raw]</description>
+		<rom name="Monitor v2.2 (19xx)(-)[raw].bin" size="4096" crc="7bd22512" md5="4af25303f7d4b2c0fac26f8ee3100c81" sha1="88dda9442aeda66f9d6624ef58e1a43209e81543"/>
+	</game>
+	<game name="Monitor v2.2 (19xx)(-)[translated]">
+		<description>Monitor v2.2 (19xx)(-)[translated]</description>
+		<rom name="Monitor v2.2 (19xx)(-)[translated].bin" size="4096" crc="89db356f" md5="8262f18d8428c3fcb83d5249b08a33b0" sha1="326e657cdad4cb0fba60c14e3a99049028ad7bb3"/>
+	</game>
+	<game name="Monitor v2.2B (19xx)(-)[raw]">
+		<description>Monitor v2.2B (19xx)(-)[raw]</description>
+		<rom name="Monitor v2.2B (19xx)(-)[raw].bin" size="4096" crc="80f64e90" md5="593b57322d527886f94a85f8a4e0becc" sha1="89958f36b56fb7c65b4d34dcd78a007b6c7f5d09"/>
+	</game>
+	<game name="Monitor v2.2B (19xx)(-)[translated]">
+		<description>Monitor v2.2B (19xx)(-)[translated]</description>
+		<rom name="Monitor v2.2B (19xx)(-)[translated].bin" size="4096" crc="6e9c0bf1" md5="318e6096fb556b22ddac6f9b26b23264" sha1="fbb089a111548680811355a08c4e1f1e4cb7b933"/>
+	</game>
+	<game name="Monitor v2.3 (19xx)(-)[raw]">
+		<description>Monitor v2.3 (19xx)(-)[raw]</description>
+		<rom name="Monitor v2.3 (19xx)(-)[raw].bin" size="4096" crc="0e024222" md5="10a85403e2156d495bd2f1a28845a8ee" sha1="9950cba08996931b9d5a3368b44c7309638b4e08"/>
+	</game>
+	<game name="Monitor v2.3 (19xx)(-)[translated]">
+		<description>Monitor v2.3 (19xx)(-)[translated]</description>
+		<rom name="Monitor v2.3 (19xx)(-)[translated].bin" size="4096" crc="7dd451bb" md5="daa7e403ad36f717e2c014de2dd45732" sha1="7843e9166151570f9c915589dc252feb0cb1cec4"/>
+	</game>
+	<game name="Monitor v2.3a (19xx)(-)[raw]">
+		<description>Monitor v2.3a (19xx)(-)[raw]</description>
+		<rom name="Monitor v2.3a (19xx)(-)[raw].bin" size="4096" crc="248e62c9" md5="8aea41a02fe9b3b735e49c12b815a06c" sha1="adbde27e69b38b29ff89bacf28d0240a8e5d90f3"/>
+	</game>
+	<game name="Monitor v2.3a (19xx)(-)[translated]">
+		<description>Monitor v2.3a (19xx)(-)[translated]</description>
+		<rom name="Monitor v2.3a (19xx)(-)[translated].bin" size="4096" crc="b4c6b352" md5="f02b40ed7d1ae810260f041e48191a13" sha1="10bb08305a574dab48d0384e35d0781b6bde880f"/>
+	</game>
+	<game name="Pascal v1.0 (19xx)(-)[raw][cart a]">
+		<description>Pascal v1.0 (19xx)(-)[raw][cart a]</description>
+		<rom name="Pascal v1.0 (19xx)(-)[raw][cart a].bin" size="4096" crc="7c4261db" md5="610bf989e050066f4aabf1b930f28ae3" sha1="cc8f668546c4d0a927ea158bc91e8861b20936ca"/>
+	</game>
+	<game name="Pascal v1.0 (19xx)(-)[raw][cart b]">
+		<description>Pascal v1.0 (19xx)(-)[raw][cart b]</description>
+		<rom name="Pascal v1.0 (19xx)(-)[raw][cart b].bin" size="4096" crc="b4ba1df0" md5="92a6119a2a051079d6cd815e555d9e67" sha1="70bb0fb601a7f2a05d4c06e5f935d9af78f8c0d0"/>
+	</game>
+	<game name="Pascal v1.0 (19xx)(-)[translated][cart a]">
+		<description>Pascal v1.0 (19xx)(-)[translated][cart a]</description>
+		<rom name="Pascal v1.0 (19xx)(-)[translated][cart a].bin" size="4096" crc="1489e541" md5="353905965a3b350e3ebf8a0aa5826486" sha1="40af6fb007e2a899a8cfb633f345940072f806dd"/>
+	</game>
+	<game name="Pascal v1.0 (19xx)(-)[translated][cart b]">
+		<description>Pascal v1.0 (19xx)(-)[translated][cart b]</description>
+		<rom name="Pascal v1.0 (19xx)(-)[translated][cart b].bin" size="4096" crc="915bdddb" md5="6802ffbd7f96ecd117c4a7792c697ebb" sha1="0fc2d0c8d06c119175ab491c0a76018b815eba3c"/>
+	</game>
+	<game name="Pegasus BASIC v1.1 (1981)(Technosys Research Laboratories)[raw]">
+		<description>Pegasus BASIC v1.1 (1981)(Technosys Research Laboratories)[raw]</description>
+		<rom name="Pegasus BASIC v1.1 (1981)(Technosys Research Laboratories)[raw].bin" size="4096" crc="0ac9bcaf" md5="92326b7a81c55b88708c63f2f00c996b" sha1="bf1e004e52a8f0c0ee64d54a8d11c33803b4c04f"/>
+	</game>
+	<game name="Pegasus BASIC v1.1 (1981)(Technosys Research Laboratories)[translated]">
+		<description>Pegasus BASIC v1.1 (1981)(Technosys Research Laboratories)[translated]</description>
+		<rom name="Pegasus BASIC v1.1 (1981)(Technosys Research Laboratories)[translated].bin" size="4096" crc="5bf40f86" md5="cd311e5f5ea9c93aa901f67078788c65" sha1="c6f39286cc567c052f40523fbfd6d2ee1bd3f4d1"/>
+	</game>
+	<game name="Word Processor v1.1 (19xx)(-)[raw]">
+		<description>Word Processor v1.1 (19xx)(-)[raw]</description>
+		<rom name="Word Processor v1.1 (19xx)(-)[raw].bin" size="4096" crc="8e5e12ce" md5="1e67d2c6bdd6eda4b1089b5fdfaedac8" sha1="4b03956a8a20caac9fee04926211c489296ea329"/>
+	</game>
+	<game name="Word Processor v1.1 (19xx)(-)[translated]">
+		<description>Word Processor v1.1 (19xx)(-)[translated]</description>
+		<rom name="Word Processor v1.1 (19xx)(-)[translated].bin" size="4096" crc="f7b68d9e" md5="620d3c3e179c0add968f7edc316f2dfb" sha1="f9face90170278a047b3908a100ac88b74babbc5"/>
+	</game>
+	<game name="Word Processor v1.2 (19xx)(-)[raw]">
+		<description>Word Processor v1.2 (19xx)(-)[raw]</description>
+		<rom name="Word Processor v1.2 (19xx)(-)[raw].bin" size="4096" crc="84bb7e1e" md5="4cc74a2dd1acb92b176306aaa5b55a47" sha1="d65af4904cb0b42724b881c5800854c1841f7940"/>
+	</game>
+	<game name="Word Processor v1.2 (19xx)(-)[translated]">
+		<description>Word Processor v1.2 (19xx)(-)[translated]</description>
+		<rom name="Word Processor v1.2 (19xx)(-)[translated].bin" size="4096" crc="91ead4a6" md5="bb3e77fad9db245f323d2a6fe486961e" sha1="786f05d9c5dd75acf68f1e0139989c95ca66a327"/>
+	</game>
+	<game name="XBASIC v1.0 (19xx)(-)[raw][cart a]">
+		<description>XBASIC v1.0 (19xx)(-)[raw][cart a]</description>
+		<rom name="XBASIC v1.0 (19xx)(-)[raw][cart a].bin" size="4096" crc="54d01145" md5="eb0b3214566f7a164dc60ab880ee4386" sha1="cb427ed7f14d0d0cf718b2c4af5c664eefdfecdf"/>
+	</game>
+	<game name="XBASIC v1.0 (19xx)(-)[raw][cart b]">
+		<description>XBASIC v1.0 (19xx)(-)[raw][cart b]</description>
+		<rom name="XBASIC v1.0 (19xx)(-)[raw][cart b].bin" size="4096" crc="42c0bb45" md5="1b7eaf87efe2da8bde1bbd365bc2d7c7" sha1="076fc7dc5b74cd75e65ef9d2b1d53a938865512b"/>
+	</game>
+	<game name="XBASIC v1.0 (19xx)(-)[raw][cart c]">
+		<description>XBASIC v1.0 (19xx)(-)[raw][cart c]</description>
+		<rom name="XBASIC v1.0 (19xx)(-)[raw][cart c].bin" size="4096" crc="6d4acfe1" md5="4a99533b64f0beba9ff789cab4ff02d2" sha1="ea3db97242a9988a7dcdc1dbc6686063a241a009"/>
+	</game>
+	<game name="XBASIC v1.0 (19xx)(-)[translated][cart a]">
+		<description>XBASIC v1.0 (19xx)(-)[translated][cart a]</description>
+		<rom name="XBASIC v1.0 (19xx)(-)[translated][cart a].bin" size="4096" crc="0a505aa8" md5="84abdfbaa9b81c1d094fd414de5fe74b" sha1="286b35ea7f213e30a5cdd697dff5a2962e5a7886"/>
+	</game>
+	<game name="XBASIC v1.0 (19xx)(-)[translated][cart b]">
+		<description>XBASIC v1.0 (19xx)(-)[translated][cart b]</description>
+		<rom name="XBASIC v1.0 (19xx)(-)[translated][cart b].bin" size="4096" crc="a5dc1096" md5="84e730e8eddf44dd7fc04d4fabb4381d" sha1="27321fd8ed7869cd7e1ad0792d1752e3d9dfaa0c"/>
+	</game>
+	<game name="XBASIC v1.0 (19xx)(-)[translated][cart c]">
+		<description>XBASIC v1.0 (19xx)(-)[translated][cart c]</description>
+		<rom name="XBASIC v1.0 (19xx)(-)[translated][cart c].bin" size="4096" crc="1378a8ba" md5="03de6aee5cd93519ba6b745d44afc793" sha1="f3f57f5fa4a662f24322a0757203defd95f07071"/>
+	</game>
+</datafile>

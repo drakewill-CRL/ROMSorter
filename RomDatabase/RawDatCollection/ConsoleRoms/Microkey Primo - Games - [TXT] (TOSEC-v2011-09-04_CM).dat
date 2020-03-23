@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Microkey Primo - Games - [TXT]</name>
+		<description>Microkey Primo - Games - [TXT] (TOSEC-v2011-09-04)</description>
+		<category>TOSEC</category>
+		<version>2011-09-04</version>
+		<author>Gruby</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="IQ teszt (198x)(Kormendi Gyorgy)(hu)[req Expanded Basic]">
+		<description>IQ teszt (198x)(Kormendi Gyorgy)(hu)[req Expanded Basic]</description>
+		<rom name="IQ teszt (198x)(Kormendi Gyorgy)(hu)[req Expanded Basic].txt" size="13618" crc="3aba1a89" md5="b8caece54109cdc798ec8dcf750f6b62" sha1="2ca2069ba73f8382116b01e8e5582415ef798526"/>
+	</game>
+	<game name="Labirintus (198x)(-)[req Graphics '85]">
+		<description>Labirintus (198x)(-)[req Graphics '85]</description>
+		<rom name="Labirintus (198x)(-)[req Graphics '85].txt" size="4188" crc="b537f24e" md5="a8150ac4a113a549f336ab66e191cbbf" sha1="5277da859be92c3fad340bcf49f4c95df10a1eae"/>
+	</game>
+	<game name="Labirintus jatek (198x)(-)">
+		<description>Labirintus jatek (198x)(-)</description>
+		<rom name="Labirintus jatek (198x)(-).txt" size="2143" crc="b398436a" md5="1b8dbcf2e10863281e5bc47bb8ebd5c0" sha1="f50abeb139b6202edd2cc18dd62f4817fddd087f"/>
+	</game>
+	<game name="Loverseny (1987)(Kiss Gyorgy)">
+		<description>Loverseny (1987)(Kiss Gyorgy)</description>
+		<rom name="Loverseny (1987)(Kiss Gyorgy).txt" size="3282" crc="4bd7d380" md5="8d60371ff1204b66f58e1af4de76dd2b" sha1="bd0ecd99f3d960c9d7a0c21e6b1b2b638f928714"/>
+	</game>
+	<game name="NYUL (198x)(Nyul Sotware)(hu)[req unk expansion]">
+		<description>NYUL (198x)(Nyul Sotware)(hu)[req unk expansion]</description>
+		<rom name="NYUL (198x)(Nyul Sotware)(hu)[req unk expansion].txt" size="6543" crc="0aa56ac4" md5="9cf0f0c3fd0f46aa1e84e7ef875e8ac6" sha1="9b98726f14b51467dd25d79fe320bb984dde5193"/>
+	</game>
+	<game name="Othello (198x)(-)">
+		<description>Othello (198x)(-)</description>
+		<rom name="Othello (198x)(-).txt" size="8568" crc="9fd97e76" md5="ad27aa24dc0a76bdb1b3ab270973f9b3" sha1="8bbe4e9647a789a34b62af743f7c7fcbc1292dd1"/>
+	</game>
+	<game name="Primo-foci (1987)(Horvath Janos)">
+		<description>Primo-foci (1987)(Horvath Janos)</description>
+		<rom name="Primo-foci (1987)(Horvath Janos).txt" size="1565" crc="69c696c5" md5="bbdba1743e1c04b8c5b4d785d7038cb5" sha1="a5bcfd16488397caf1a2411c8ca6c91d3a99cb64"/>
+	</game>
+</datafile>

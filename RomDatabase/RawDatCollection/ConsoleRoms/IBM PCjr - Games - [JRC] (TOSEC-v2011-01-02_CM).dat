@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>IBM PCjr - Games - [JRC]</name>
+		<description>IBM PCjr - Games - [JRC] (TOSEC-v2011-01-02)</description>
+		<category>TOSEC</category>
+		<version>2011-01-02</version>
+		<author>Aral</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Crossfire (1982)(On-Line Systems)">
+		<description>Crossfire (1982)(On-Line Systems)</description>
+		<rom name="Crossfire (1982)(On-Line Systems).jrc" size="8704" crc="878952c0" md5="f6512fd90a2b4865cec6da53c41f238b" sha1="8e7c0f247529f6d5dfce60d6e2c9acefda6af7bf"/>
+	</game>
+	<game name="Demon Attack (1983)(Imagic)">
+		<description>Demon Attack (1983)(Imagic)</description>
+		<rom name="Demon Attack (1983)(Imagic).jrc" size="41088" crc="f21956de" md5="f090706a4612cc513911c18808b1a3ec" sha1="05d60c2fd94c88f4e7b3c66a3f3b400b923e68e2"/>
+	</game>
+	<game name="Microsurgeon (1984)(Imagic)">
+		<description>Microsurgeon (1984)(Imagic)</description>
+		<rom name="Microsurgeon (1984)(Imagic).jrc" size="41088" crc="b1482a65" md5="2afb4757763c5a75fc5a2b06408c57b8" sha1="8c748c7538178510fab3b8cdf20ffa84dd30edcd"/>
+	</game>
+	<game name="Mine Shaft (1983)(Sierra On-Line)">
+		<description>Mine Shaft (1983)(Sierra On-Line)</description>
+		<rom name="Mine Shaft (1983)(Sierra On-Line).jrc" size="8704" crc="3d3fc782" md5="08b00e352332b8fd8041ad54a7b41615" sha1="85bf3439b2f584dcfbc19d6ca34e75351aabb20e"/>
+	</game>
+	<game name="Mouser (1983)(Gebelli Software)">
+		<description>Mouser (1983)(Gebelli Software)</description>
+		<rom name="Mouser (1983)(Gebelli Software).jrc" size="8704" crc="17fedf8d" md5="212cfead63500f8e3661d765e8aead22" sha1="cd762c0aec2429954c4ca59c7c3100a60297fa71"/>
+	</game>
+	<game name="Pitfall II - Lost Caverns (1984)(Activision)">
+		<description>Pitfall II - Lost Caverns (1984)(Activision)</description>
+		<rom name="Pitfall II - Lost Caverns (1984)(Activision).jrc" size="10495" crc="097ce7ad" md5="6d842c96d5a01967be9680080dd5be54" sha1="920cfbd517764ad3fa6a7425c031bd72dc7d927c"/>
+	</game>
+	<game name="River Raid (1984)(Activision)">
+		<description>River Raid (1984)(Activision)</description>
+		<rom name="River Raid (1984)(Activision).jrc" size="16896" crc="ef091859" md5="84fa1d2b3be2d2e6ba97829a2cadb112" sha1="39f0071760bb7a7864d9cebec99da55518c21639"/>
+	</game>
+	<game name="Scuba Venture (1983)(Gebelli Software)">
+		<description>Scuba Venture (1983)(Gebelli Software)</description>
+		<rom name="Scuba Venture (1983)(Gebelli Software).jrc" size="8704" crc="7cd8cf3f" md5="9138c9e99e0d95e8ab465510be870f95" sha1="fbb1e369dbb0fccdd32117b48bb0d906aef441ae"/>
+	</game>
+</datafile>

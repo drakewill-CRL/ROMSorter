@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Texas Instruments TI-83 - Compilations - Games</name>
+		<description>Texas Instruments TI-83 - Compilations - Games (TOSEC-v2014-06-30)</description>
+		<category>TOSEC</category>
+		<version>2014-06-30</version>
+		<author>Diaboł</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="3 Yahtzee Games! (2005)(Chrusniak, Michael)">
+		<description>3 Yahtzee Games! (2005)(Chrusniak, Michael)</description>
+		<rom name="PYAHTZEE.83P" size="10164" crc="716d84c9" md5="8d9783fcde9da3a51421398c76818d28" sha1="e3b819cb5e84a13225709db46c1f1d1509710390"/>
+		<rom name="YAHTZE3X.83P" size="8972" crc="3475515f" md5="2b597f8f2ca389ba35754694bea24fdb" sha1="c1370ecd7438dd02ab5748ed0aca8f1c63b7e307"/>
+		<rom name="Yahtzee Read me.txt" size="5626" crc="1606628c" md5="15e6951ab754023de81d8e2978813a86" sha1="eda2c2984c83d518c057b282c7c1154a1d720444"/>
+		<rom name="YAHTZEE.83P" size="7175" crc="8edd39de" md5="be234e6d628e9e81b0e5a707dd2c83e7" sha1="edf737b2476eaf8cbc8bd5be6e1bad2b86b45cb9"/>
+	</game>
+	<game name="Alex's Arcade Games (2004)(Snyder, Alex)(TI-83-TI-83+)">
+		<description>Alex's Arcade Games (2004)(Snyder, Alex)(TI-83-TI-83+)</description>
+		<rom name="arcade.83g" size="6960" crc="db8fba2f" md5="4a4eda24b91fa254a62f7295c4182ac6" sha1="90c0666737f0f326912db085f973aed1b967e959"/>
+		<rom name="ARCADE.8XG" size="6974" crc="caf17e19" md5="26379e7c4210386d2d5ab2c7cd5da7d8" sha1="87c4e3f1fd13053bf3656796fe90c0bb746d9f5c"/>
+		<rom name="Asteroid Fighter.txt" size="1465" crc="9b82e326" md5="7178132f2b7c86f4ae44b572b38e68d7" sha1="4ecdc894f73ec51f8d6a72705c042c9ab9b7a368"/>
+		<rom name="Fast Dodge.txt" size="909" crc="dee641c7" md5="1f32a7c6d76a9c343bc9bd1d2a563810" sha1="02944c0b8bcc8fba0ee2ee92e338fd5f69fbf34d"/>
+		<rom name="Monkey Rush.txt" size="2070" crc="917bab70" md5="dd9f3c019071e73d26b905445b3fc7e4" sha1="2769a083461b9656fd76fffc56819d44a321f5d4"/>
+		<rom name="Phoenix Bomber.txt" size="3106" crc="bbc445e6" md5="be27dad55289463f26691811e2665fc6" sha1="28984e098c175e49f352f625f74bbb372bd15c0b"/>
+		<rom name="Readme.txt" size="396" crc="e603f31f" md5="c47a5ce755b0b9f9b3ae001a3147b05a" sha1="743421356cf57b16d842479fc12f0591a99dec8b"/>
+		<rom name="Snake Escape.txt" size="1917" crc="8759085a" md5="68da2b5688e5c17ec4ba9d4b88d16857" sha1="4a51778962085690f9c29afb497affdfac58b367"/>
+		<rom name="Tunnel Rush.txt" size="1596" crc="1876d542" md5="f5d5cc65bc898f434ae4d8e4acac4c36" sha1="3f9d5cbbea3b9851c5b9ff240021692873825f34"/>
+	</game>
+	<game name="Alex's Dragon (2004)(Snyder, Alex)(TI-83-TI-83+)">
+		<description>Alex's Dragon (2004)(Snyder, Alex)(TI-83-TI-83+)</description>
+		<rom name="Dragon Edit\castle.83p" size="508" crc="5fe6165c" md5="63fd71a80082cae71655b9c68b1008ab" sha1="23e5d2f708c21036e4dc873bcbb6d474fb333ff0"/>
+		<rom name="Dragon Edit\CASTLE.8XP" size="510" crc="01008075" md5="4a622e70951a05a1f6f04a145a859a67" sha1="cfdbffb6bfe9ee9f7960af3fdba08c1c7a20c2d3"/>
+		<rom name="Dragon Edit\editor.83p" size="1674" crc="bdcb22da" md5="1bd88f15b20b05dd29ee9de0073d474a" sha1="dab694b163155aa17678f885c9f139529caece83"/>
+		<rom name="Dragon Edit\EDITOR.8XP" size="1676" crc="78bbc809" md5="169173286f466407caa83e4931f8fe1f" sha1="5e3a2fec84d67a0dcf07548d1c3ce99d979f0a50"/>
+		<rom name="Dragon Edit\Editor.txt" size="952" crc="eeede871" md5="d9ccc1e0c08a3fcfb3a3f2a2b539c3f8" sha1="cee6da59ab94a8cab0109a82e302dff5fc7bc22e"/>
+		<rom name="Dragon Edit\invade.83p" size="501" crc="3cf706cb" md5="22656d62de820dfeb4a0bb1dbc48109e" sha1="267595f06a6a4a9caae5c8463293608df1e21cf1"/>
+		<rom name="Dragon Edit\INVADE.8XP" size="503" crc="b0395437" md5="75bc32ea756ffdb0eaa9c5b06813638a" sha1="42e8b39d22e66c355bc6f6324309ab28ed4b97e6"/>
+		<rom name="Dragon Edit\leader.83p" size="486" crc="fdaa03db" md5="3f2153d08bfd4889d9195ae780e775b7" sha1="4793730825a1c7dc81599d163180e6ac932fcee0"/>
+		<rom name="Dragon Edit\LEADER.8XP" size="488" crc="23377a42" md5="7de77daefaae0ae8d9c3d3923b1f5f64" sha1="043625f1c62e81e1405c77da2240904a132587f8"/>
+		<rom name="Dragon\dragon.83p" size="2731" crc="f994bca6" md5="dc56c4ae2e61916dfbb2b1a305487bc3" sha1="1e2837f91198e8c128f012c0613bf77c7135bef0"/>
+		<rom name="Dragon\DRAGON.8XP" size="2733" crc="291182be" md5="07f31d312fe1f77bb16e1937a737f5ca" sha1="3271ab54da9aa5c8b378cbe5992390b42132b818"/>
+		<rom name="Dragon\Readme.txt" size="4112" crc="c1aeeef9" md5="b6c8e1dd117040bd5af6425aaefa151a" sha1="d76d296b46591945de291f27f92db20ca5fc3fc5"/>
+		<rom name="DragonX\dragonx.83p" size="2809" crc="1ee97a48" md5="3edbfc1fab023587c45c445f8a37f633" sha1="b5f03042f52f93de9a08c20c8b8a1639806f868c"/>
+		<rom name="DragonX\DragonX.8xp" size="2811" crc="18f12c7e" md5="1f1c0c2d9a32235fcab231dc8fcf6b9f" sha1="2c072d0b3d189f83181af5732f848f555bd10e29"/>
+		<rom name="DragonX\DragonX.txt" size="282" crc="806c6e7a" md5="b6d50e13adcb74a58b32c89cff3e1165" sha1="d26ebb4f50c194f3cba047b9a3403800b99437c1"/>
+		<rom name="Readme.txt" size="327" crc="e15ed1b2" md5="d8115ef2be2cc98478335122cbc97cbd" sha1="761598fca532c4fe3833974460bd6af18a332797"/>
+		<rom name="Rushon2\crusades.83p" size="2454" crc="c8acc859" md5="642b1c6e6c04b98f7952623330ee056e" sha1="1193fa0cc701526e53e6be5e5c8dcef76e5186c5"/>
+		<rom name="Rushon2\CRUSADES.8XP" size="2456" crc="0d9e900e" md5="ed113c02ca486c597b3b9dbcab4ea49c" sha1="6d3faec687b039bf0365526f169238338bdf23a1"/>
+		<rom name="Rushon2\Information.txt" size="8144" crc="e74f957c" md5="719b4b6138da278c0e3342362fd6cc5a" sha1="f56dc14aa81d61118f0d15e93f972e9bc00b10d3"/>
+		<rom name="Rushon2\Readme.txt" size="3125" crc="e923fa49" md5="d9d76e9d9ab0c5f904a429eba5d60c7d" sha1="7232803aa48c0dcafd154bbbbb386a195423c23a"/>
+		<rom name="Rushon2\rushed2.83p" size="1505" crc="f489c189" md5="31c7c913f1bbcc27cbf53dffda548270" sha1="4e4275a09c39c6e255f00bc555ff596654967bad"/>
+		<rom name="Rushon2\Rushed2.8xp" size="1507" crc="856dcb30" md5="68e65493948bee1935190576fc8e7ea2" sha1="aab08771208734be00f06fa335bc432b05d69cf8"/>
+		<rom name="Rushon2\rushon2.83p" size="3228" crc="92ed5f3b" md5="ae0082eae9a327153e1fbb963111e2d8" sha1="a5f4a724b856cf48cc8a0323b87c1ed36dfdbd56"/>
+		<rom name="Rushon2\Rushon2.8xp" size="3230" crc="1bcbba45" md5="78f9e7071404ba5081f74950c4d42818" sha1="f1a2336d8a6cbbaf846d98ca304ab3cc5f87687f"/>
+		<rom name="Rushon2\template.83p" size="569" crc="ce1ee5ed" md5="b3533a73401b7c2e726d4c11187d16d6" sha1="1655c2f6f2b4af0f78d486ea7d0b520c9a44da18"/>
+		<rom name="Rushon2\Template.8xp" size="571" crc="03a33f9a" md5="858d206a522b090cbd32ade387f98986" sha1="acfa9324ebb69890694d06561c0441a78fbf47e1"/>
+		<rom name="Rushon\Information.txt" size="7213" crc="b245ab4d" md5="4a9ae8d31b8dab262636d9970aef0632" sha1="d06b3fca05374af3fa9069d1cd14b518d58a52be"/>
+		<rom name="Rushon\Readme.txt" size="1010" crc="ff978218" md5="1e9969f86bd8a185bf11935bfd0390d7" sha1="598488d51cc6198e36be568faf8d7ee07ab47a36"/>
+		<rom name="Rushon\Rushed.8xp" size="1528" crc="d5a2863d" md5="c7b80ceb79460faac1bc87d2c787367f" sha1="4b0c6a06f397016b704f3c8d6d4f66578c590698"/>
+		<rom name="Rushon\RUSHON.8XP" size="2993" crc="2ef09257" md5="3b9f7a60ea3a88344b5ed6e7643cfdc5" sha1="84beead01c1b09bb0b30c289d0659170dbdb1281"/>
+	</game>
+	<game name="Basik Kazin0 Collection v1 (2000)(DeMartino, Justin)">
+		<description>Basik Kazin0 Collection v1 (2000)(DeMartino, Justin)</description>
+		<rom name="ALLFILES.83G" size="7795" crc="0d296e53" md5="d9138af72891c5d40c20f356ac2927eb" sha1="59aea2312b854db1ad8e5eab32fd7e9437884923"/>
+		<rom name="BANK.83P" size="1148" crc="08e1f19c" md5="fa13a646a53288e2edbc00aa3c4b2160" sha1="af4a3e6a2c28f3e7e798e1c9f8a3751b8d39c2bb"/>
+		<rom name="BlakJaq.83p" size="1550" crc="30e87f7a" md5="ed6ccb8d94428258a9539165b2c082f1" sha1="d0c02bba0eb7219ffab2d7bddec08e0f3fb5df20"/>
+		<rom name="CRAPZ.83P" size="825" crc="228cb4b4" md5="3dceedb8f286b344ca715f8f7e2234ad" sha1="90f4e68e1d5fe8ccb33d3940531ccd580d5ea5c9"/>
+		<rom name="Instructions.txt" size="2931" crc="d6db8647" md5="10466257fef30aa0f0fb81911739cc2f" sha1="bc4c44793f017725f3c0f340602d45932b67dca7"/>
+		<rom name="ROULETTE.83P" size="1689" crc="c9fe99b3" md5="a07faf7e478b89764ce4521f96fdb715" sha1="f54d941463af0ceadccf6faa3e5eb1be820c2bdc"/>
+		<rom name="RROLETTE(Wimp Version).83P" size="559" crc="2988b3d3" md5="e27238a95047a59950d9b65ce8e5703b" sha1="7817e9139ef15eb09e676e3f142a4563fc7532b9"/>
+		<rom name="RROLETTE.83P" size="898" crc="b724062f" md5="bebcbf0f61f9d6f6a9cea037c4a7cf53" sha1="32fe5c739c6cca493b48ba3ebf20583e4a67d89e"/>
+		<rom name="SLOTS.83P" size="1468" crc="80bdb3f3" md5="573f44a33dc69b65df489354c405064f" sha1="5d8be59d1d0d8bca1bdfd4211f4c9cc42e8acd48"/>
+	</game>
+	<game name="Bishop's Games (2000)(Bishop, Daniel)">
+		<description>Bishop's Games (2000)(Bishop, Daniel)</description>
+		<rom name="GAMES.83P" size="266" crc="a2371a78" md5="bd96800d3a4686d0199c0fcf081d6d25" sha1="5204694bfc4a605360356294f297e6a7df14e8aa"/>
+		<rom name="readme.doc" size="10752" crc="f6edd0f9" md5="0611d59bf409ec97b6b20532e49c4faf" sha1="734d34fdfee71ea9cc6a9433025c48cfec3e2846"/>
+		<rom name="ZGM21.83P" size="1993" crc="909399a9" md5="273ab2276bbebb2e09f1379b084fe6d2" sha1="427dcba6b4208e8ff96443b6b30a1447748a36d2"/>
+		<rom name="ZGMBRICK.83P" size="906" crc="a54a364a" md5="c23388a8c664b7a48da4648c37e3ded0" sha1="ddab742e5c2affcabae7762160371b6440d25190"/>
+		<rom name="ZGMCRAPS.83P" size="504" crc="f78bd7fc" md5="80a09825f836979fad21870bf48441f5" sha1="f9d40e3f7a457808f5722f8f84df5c1d160bd869"/>
+		<rom name="ZGMDAYTR.83P" size="1752" crc="a7e6dd4b" md5="45c1df21cb8c4dc46acacc2d3b173a2b" sha1="018e1675bc56b4ca59e8a5503eec64e33297434b"/>
+		<rom name="ZGMGUESS.83P" size="414" crc="6c52343a" md5="11728a21e726901e9892a2a3c6e2f085" sha1="1149700f01a748afe2d6f0b5e5e874fdd743b3f8"/>
+		<rom name="ZGMTTT.83P" size="2014" crc="f2ca634d" md5="1635c47742e8ee0712e9fef8acd1e162" sha1="cc509460f21734da3cfb43e06061e3184843dbc9"/>
+	</game>
+	<game name="Bomber and ZBomb (2002)(HeaneySoft)">
+		<description>Bomber and ZBomb (2002)(HeaneySoft)</description>
+		<rom name="BOMBER.83P" size="9224" crc="ffc46e2d" md5="2e37e6e5a8fb68d49524f28756035008" sha1="4c4bee898b71026fae8319587bdf1900f169907c"/>
+		<rom name="ReadMe.txt" size="601" crc="226138ea" md5="8ccaa1aa96ff801fcf567255722337fd" sha1="f558e3fc983c56dcadb2d09b3fe6ff4614107410"/>
+		<rom name="ZBOMB.83P" size="4482" crc="73fe38d2" md5="01a004129c08e738014d9d65990b7c08" sha1="c6e28ce7ef92d2e6d9bc1f249a339ea27c78bc5a"/>
+	</game>
+	<game name="Casino Games (1997)(-)">
+		<description>Casino Games (1997)(-)</description>
+		<rom name="CSNO.83G" size="17698" crc="69ef2467" md5="5598bcc75a400159fd0e62f5dc92ff1f" sha1="7149aa3c5f3b78f6d70c448243ea04aac27cda17"/>
+	</game>
+	<game name="Fun Game Pack (2007)(Marcin S.)">
+		<description>Fun Game Pack (2007)(Marcin S.)</description>
+		<rom name="AHOY.83p" size="628" crc="d45b5907" md5="4a2aec3ff7107244adccbf4a45ad7d44" sha1="8a28dd3921fc66309136f51cd3a821bed242f2bc"/>
+		<rom name="EGGDROP.83p" size="576" crc="cd64ac22" md5="913a4cb77510c43fafe19e5de5f7dd68" sha1="f600645d01c5522fe70d63fdf9f19c72c165206c"/>
+		<rom name="Fun Game Pack.txt" size="1260" crc="1acf31a0" md5="8ebe056a73abde2b0cf552b3dad8402e" sha1="bf48120330c484688518f0ea9b35027f67a76423"/>
+		<rom name="MINES.83p" size="694" crc="542725cd" md5="11b2fcbf00a75919da329bcb59a4139d" sha1="e76b0fc273aac4f65b1ed661b5886fbdc1f39dfa"/>
+	</game>
+	<game name="GamePack v 1.00 (2003)(Lemmond, Logan)(TI-83-TI-83+)[with source code]">
+		<description>GamePack v 1.00 (2003)(Lemmond, Logan)(TI-83-TI-83+)[with source code]</description>
+		<rom name="ACEDBZMQ.8XP" size="4533" crc="4d7b0679" md5="282abc58983b90c6680227a7d90cfb4e" sha1="8731777e7e219b9a52025b24ebc88a4cb52303c6"/>
+		<rom name="ACEGAMES.txt" size="1083" crc="d03ebe83" md5="c81b2230b161edf8d2f3443f715f3094" sha1="e542f2f784ac8a7f89772de6aa6d5566f8be8c1f"/>
+		<rom name="ACEGOKU.8XP" size="3595" crc="ac0a6ceb" md5="b8657f08e7dcbd178e87d341365b2c99" sha1="2d60d7b2ac92e33bd2208752ccda009587d6332a"/>
+		<rom name="coaster.8xp" size="12360" crc="1356c4cc" md5="ef9770ebf5a9ec53727f8f00d817f996" sha1="4b50e4a43b427b3897ff28cf404d68984a1807cf"/>
+		<rom name="coaster.txt" size="9947" crc="54cbb98a" md5="0d890f6b65f1fdba4c09bf500834173a" sha1="2583b763977d849fa21cca85482f60ae6ab50fa9"/>
+		<rom name="DBZQUEST.8XP" size="3583" crc="700c561d" md5="1a52f2839b3cc5ec089739e3adcb0100" sha1="6eec88aa35a56688eaf5f82f0485eb191533b764"/>
+		<rom name="FDOWN.8XP" size="762" crc="d7ce5291" md5="111233f622525c2e5f67e3a232c31bcf" sha1="5b03dec5910b2cca708a314ba2464f302c3a28fa"/>
+		<rom name="fdown.txt" size="1113" crc="edcd855b" md5="72de5f4b7d868a04e41cba3db08d7299" sha1="24fa349245588bb9a6758c244eed9f92465e5913"/>
+		<rom name="fdown.z80" size="13562" crc="1c458a98" md5="793874d045d50fd3c340dc150c1f4776" sha1="edc2c6b45a55108bed283f9493b16641f112bbdc"/>
+		<rom name="HURLER.83P" size="284" crc="191e8a8b" md5="ec15e53c66958e1ffbf7a285f1a441d5" sha1="cc18c8515066da064c2064b8b7f96ceea404ba88"/>
+		<rom name="LOCK83P.8XP" size="451" crc="5de12140" md5="2f61a3d909ab3dd2684e4b473c4cb293" sha1="1761f74338932af6b598e64d19dc76f89f8d5159"/>
+		<rom name="PACMAN99.83P" size="4010" crc="c82f3f81" md5="4bf72e83174bee5aa124605c8116e0ed" sha1="bc6ace4f56cf935f9eb3e7374850ff82bc262728"/>
+		<rom name="pacman99.8xp" size="4021" crc="a9487758" md5="0092749b5a806deefc95bb5e2f36f168" sha1="c3ae8cab9ad404377f4792f80047bf5a555afb5d"/>
+		<rom name="PACMAN99.TXT" size="2847" crc="8714c442" md5="5f21552b57793c3faf5c6d4b83ff4ce1" sha1="28fe31b90c1cbff5fa6f84480caf7ec24674f8b3"/>
+		<rom name="pacman99.z80" size="41237" crc="fc845631" md5="f8f9293857047d86cd858a6499407f75" sha1="4c99d46829d722ad1b253aaf714ffc256e0224bd"/>
+		<rom name="pipes.8xg" size="5280" crc="19658dfa" md5="de2deda609f5e4cfe50848b8825fc773" sha1="e68619d1fd1087e4de5abc9095fb11a2ca985c2c"/>
+		<rom name="PJ.83P" size="3138" crc="afe02ec4" md5="3bc8c989518cbca1d20619f6a0848e2e" sha1="f276b29ae4a37aa078d1a77ddaa24e745ef0ed65"/>
+		<rom name="pj.8xp" size="3140" crc="10089015" md5="adc441b64562c2c6adeb6a4b3de82a95" sha1="590aba3bf1403e73b0fdc17eab0e640a2e9eca8c"/>
+		<rom name="pj.txt" size="6816" crc="a395479a" md5="9c81005ad72fedfb2cdc12095fe02ac9" sha1="1842aa94705f028018a721c84f567fa708c85e0d"/>
+		<rom name="pj.z80" size="24382" crc="c085d0bb" md5="4bc9f257b31d9d87288c8750d0b33e36" sha1="1d243400f9e3d2ac0016d89cf03d258cff209350"/>
+		<rom name="PJ1EDIT.83P" size="918" crc="e76476a3" md5="7bcdfe991dc91f88b1496769b907ee02" sha1="e22534095e7650c167381a78640a6b7d760ffad8"/>
+		<rom name="pj1edit.8xp" size="920" crc="53fc6ab1" md5="8b4d55c4876fdc799865cead2a8c10ba" sha1="619fc96500b744c34801377aff4f5b41666818da"/>
+		<rom name="pj1edit.z80" size="8303" crc="d39f4d8a" md5="adc5835a4c1204e90482f84c4a92805a" sha1="eda41ba364f754c974ac8286fa252b9c284d3e37"/>
+		<rom name="readme.txt" size="2466" crc="a685cbf6" md5="4bbcee19b58decee96a42567c71807ac" sha1="f88edfddd72585ac568e06532aa7ab8194644e08"/>
+		<rom name="SPACEAC.83P" size="275" crc="389a9170" md5="00e01e569cf8ed970496cf356fb7f30d" sha1="75109519945b47c66c9e2ca4b75c996149ed0e5c"/>
+		<rom name="WHOLE.83P" size="7581" crc="57466d8c" md5="a3c40749818e9a9242405b8c68b8d8ef" sha1="c704920b068c1d1b57f0a1217842f3a4710d6d16"/>
+		<rom name="whole.8xp" size="7583" crc="ad1d7482" md5="17e74ef433a7ae2700eea2e7745f3b9a" sha1="bf996c3247d56fbb033cb9e2e515284d847e514e"/>
+		<rom name="whole.z80" size="45621" crc="71116c5e" md5="bb5828ba5fee738cfc3ebe9f48a6a4f3" sha1="52962363a33af807ea083ea819c7123edc0438dc"/>
+	</game>
+	<game name="GetGame GAMEPAK #1 (2000-12-03)(Wersten, Bengt)">
+		<description>GetGame GAMEPAK #1 (2000-12-03)(Wersten, Bengt)</description>
+		<rom name="GAMEPAK1.83G" size="3717" crc="77f886ca" md5="b14be2aa3da16ee69b4675d7517b4df1" sha1="5edaea80008989143dfe455c670f89b6cba63dc6"/>
+		<rom name="readme.txt" size="1473" crc="56bedab7" md5="b7ef6c9f49f897b0f18a22d76973627c" sha1="8d153fd06b3f46a3f25f79ea6dbb90ce1b348e08"/>
+	</game>
+	<game name="HomeScreen Games (2000)(Bartosch, Peter)">
+		<description>HomeScreen Games (2000)(Bartosch, Peter)</description>
+		<rom name="HMARCH.83P" size="789" crc="23cfd58a" md5="784a4389aae6c16f4cb44cc07d5caea4" sha1="325f016c94b20209df98efc6c8fbe33a2a1a5974"/>
+		<rom name="Homescreen games.doc" size="20480" crc="be0896fc" md5="a263d4ff4bcb7caf415271f9343764e8" sha1="ed9a56c493eeee22c9edee3987044931b576727e"/>
+		<rom name="setup.83p" size="181" crc="d1400758" md5="4f9c13c022bdd4d29029885fe7101832" sha1="232fd76c392f05e7af985869425c901d446f0953"/>
+		<rom name="SHOOT.83P" size="464" crc="f42dd6f8" md5="ead97d037c7529b1772197f0f9a4c247" sha1="06f7aaf898a56bafdeb620d63442f964da081d3b"/>
+		<rom name="SHOOTOUT.83P" size="1089" crc="fbdee57a" md5="186923c1a7c4496fd2ee8feef8071b2d" sha1="877813afd9fd7d9ec93b538bba21cc2fe3bcfdeb"/>
+	</game>
+	<game name="Lunar Lander (1999)(Turkington, Chris - Cragg, Scott)">
+		<description>Lunar Lander (1999)(Turkington, Chris - Cragg, Scott)</description>
+		<rom name="Lunar lander.txt" size="1480" crc="ad57356f" md5="673169f6eaeaf83fbac91a174d9312e5" sha1="422eba201b53898a78fbbfc7181d505b1cf327f6"/>
+		<rom name="Lunar1A.83p" size="310" crc="b07476cc" md5="c9507270dce2b48224d6930b7655f70b" sha1="bccbb0f06b3f1e7280b883b9b2a8a0fe040a7ae6"/>
+		<rom name="lunar1B.83p" size="310" crc="68afd865" md5="c410e233505bab4bc074e9098901eb07" sha1="a065f0f4fb3ae0a193f02d81c8070469b134f53b"/>
+		<rom name="lunar1C.83p" size="310" crc="5eca76ec" md5="72afad736e2ef9c67e2dad55445d4c48" sha1="a95635d60efffdccb62ac5027f762c18e0200648"/>
+		<rom name="lunar1D.83p" size="77" crc="4901a544" md5="6c4d7d91b6db3513d5df57533df2624a" sha1="1428662900648daeb59c87f6c5607828509728da"/>
+		<rom name="Lunar35B.83p" size="2641" crc="eaed93e9" md5="6b5e949007c52a6df368995cbbd39934" sha1="4c599ee26698ffd66c40d25e1e4a8f5d87ef4154"/>
+	</game>
+	<game name="Marc the Superkid the Game Trilogy (2000)(Ryan, Marc)(TI-83-TI-83+)">
+		<description>Marc the Superkid the Game Trilogy (2000)(Ryan, Marc)(TI-83-TI-83+)</description>
+		<rom name="MTS3.83G" size="14135" crc="0400b03a" md5="7ad7319595eefa21926d21d158a68c01" sha1="a088ce3082adbe3f02e4744afd669d934dc0d4a9"/>
+		<rom name="MTS3.8XG" size="14143" crc="82dbd625" md5="715b09100ecf89f07869a3dfb605edda" sha1="2d6c1723a9afce2580d6524aee2f6b721464e03c"/>
+		<rom name="mts3.txt" size="5193" crc="c84542fa" md5="0267d9124d2f12582f95be5a3f3d44d6" sha1="55d0f8015b134f22ea7eeb67c4147a5b6474743a"/>
+		<rom name="SUPERKID.83G" size="16810" crc="0c0691e5" md5="fe46d43c6d725071f3cdda93a0227b5e" sha1="a88c7928a44196ab8f498e0dcce1be237142f179"/>
+		<rom name="SUPERKID.8XG" size="16816" crc="4b556c28" md5="53517a03811bf23de481238f9d3c2d0e" sha1="d461a144ac09519f677ddf8a5e6c2c2f760e9dd9"/>
+		<rom name="superkid.txt" size="5826" crc="b2b1e891" md5="6e82249608205e21b67b8685d71b58d5" sha1="cfe9588f10f8bb4230f6ec2acc6369da4b1f2128"/>
+	</game>
+	<game name="Matt's Game Pack 1 (2000)(Matt)">
+		<description>Matt's Game Pack 1 (2000)(Matt)</description>
+		<rom name="QUEST.83G" size="9889" crc="e6f5b9f5" md5="8131103102e374000c74bf40f95d8019" sha1="3f7694241bbea5e28914ee2b2029a14145eae000"/>
+		<rom name="RATTLER.83P" size="1231" crc="2f376846" md5="87f760a0243ce7b6886af0cb7042098b" sha1="49461217ff609e49ce98f9fbe58b27cd172d3897"/>
+		<rom name="TARCADE.83P" size="286" crc="6ae56c95" md5="cfbce6bec936415b6accc854f7286e71" sha1="9841794ff7d832ddb017b8c841ce8c6a922376f3"/>
+		<rom name="TERROR3.83P" size="2210" crc="0dbffb6d" md5="eb8117ecbe085a0f748e49c9c02e3e9f" sha1="1b18b91560ad0cabcd6707c66a1443dbf441e9bf"/>
+		<rom name="TERROR4.83P" size="925" crc="59aafe44" md5="8c94a3ea177cc38805871ddef775d93b" sha1="fb21c5bd00949a0a6d1e9315a6ee1fd5f8c59ee7"/>
+		<rom name="USA.83P" size="1704" crc="042ad7f3" md5="d227c57ce024179c51af50c71ecdb8a2" sha1="190767cfc28755e758eb1682a06b3e216670bc27"/>
+	</game>
+	<game name="Matthew's Minigames (2003)(Romney, Matthew)">
+		<description>Matthew's Minigames (2003)(Romney, Matthew)</description>
+		<rom name="BERRIES.83p" size="440" crc="9e52db98" md5="aea18558cf6e45581a75fafca2cae3d5" sha1="c0d7a4e8264b88aa6d51cc223cf87e2d70301b83"/>
+		<rom name="DODGE.83p" size="440" crc="34683178" md5="e9d0233529f2f1ff44ab2366fe77b4fe" sha1="468e655c3e1840c53d7c6f63e19c686f7fb12276"/>
+		<rom name="FREEFALL.83p" size="414" crc="b06085de" md5="4b97dcd1f2bcf8757b6d73b2453ea844" sha1="ba13b719d4feee27d70b422cc367beb66017dfb5"/>
+		<rom name="KAMAKAZI.83p" size="569" crc="bf25a3d3" md5="52d03fb75c306ace513af39983dfbbf7" sha1="1805b52e2c22eb6aa680ba0a011be29867c3dbe6"/>
+		<rom name="STARDUEL.83p" size="492" crc="ba487c50" md5="70a7fc82f1b78250e680abb346cfb253" sha1="3d1b5add2ee496624c5bad2df27ccb77a95d4f41"/>
+	</game>
+	<game name="Meaningless Games Pack (2003)(Nuznov, Tadd)">
+		<description>Meaningless Games Pack (2003)(Nuznov, Tadd)</description>
+		<rom name="BLIMPIE.83P" size="390" crc="9bff02e7" md5="d86cccb8d1c8ffd0fd5597b6859433f6" sha1="eace91e5f00bc41a2df0704ce2017af138e74459"/>
+		<rom name="BRANDON.83P" size="251" crc="3dca2ae7" md5="394c248b120898bc8681a8ce90ab98ff" sha1="c91e3cf3fa785cb01b6f2287b010b4be740d530f"/>
+		<rom name="DOT.83P" size="199" crc="0fdc57e6" md5="b4ac0ce18ce152d5dfdae770bd85db03" sha1="b1ba47c3326d5f727b4f0cc1bb991e0bdac16c2a"/>
+		<rom name="DOT2.83P" size="201" crc="232ccaa8" md5="9c33c67f32753ca352feff4770c6d93f" sha1="1d7645bf506a78b944e32d0ab69c5fc240f93dfd"/>
+		<rom name="FREEZE.83P" size="220" crc="29d329ab" md5="eaed84e9586a01469aadf22a01bbf519" sha1="66f95a4ae10b287ff5ec06fa6648794d2ce07a1f"/>
+		<rom name="PAUL.83P" size="162" crc="e419031b" md5="988b154a0918f5a2f1080cb7a390d024" sha1="e6e161940bc8c7aee2a9d9133e6ab9c7eca95998"/>
+		<rom name="PONGX.83P" size="355" crc="ae7ba462" md5="019ff7864df07ef285dc1f07baae1682" sha1="e75090b86fb3488e8196228798ccc2dfe142ac91"/>
+		<rom name="PRESS.83P" size="168" crc="97489550" md5="7fea77ee0a693b440bfaeec5d1c09624" sha1="6a8ae61c6c3a95374cf8f4d25da7c35fca7b8785"/>
+		<rom name="readme.txt" size="1421" crc="9defb2e4" md5="28fb42798f99dfacca3f354db8e33086" sha1="5dc384acc893cf200513c88044f485970163a5e9"/>
+		<rom name="SBEMAIL.83P" size="116" crc="9163a2f6" md5="aa59d9ae6dbdae333d51449abcd6adc8" sha1="93ed837a4e97e3ecb478c515e2dd5bb0bd8d4655"/>
+		<rom name="W00T.83P" size="216" crc="6ce26ba7" md5="9f035da23b04391e1b38ecdd92770178" sha1="2abdcb2a198e73988c1f87b1a75c5dec256491cc"/>
+		<rom name="YOUWIN.83P" size="283" crc="d63758af" md5="1aca3cb35318a2e9f4f0a6993ff2f428" sha1="e1f0ddc6adc24433ffabc233e5951eee41dc90a1"/>
+	</game>
+	<game name="MeGaMan v2.0 (2003)(Martian, Kerm)">
+		<description>MeGaMan v2.0 (2003)(Martian, Kerm)</description>
+		<rom name="MEGAMAN.83p" size="648" crc="1bdc4fb1" md5="ef1293f92ea9f077317d18525462719e" sha1="78fd78cfdf107341127fa5046ec936e38aa75510"/>
+		<rom name="MEGAMAN1.83p" size="1200" crc="0ee0ee2c" md5="47b65dc4eb1323a017adf70132e1721d" sha1="aec1d174e4804c68ed2db74cab99170d2a44a00e"/>
+		<rom name="MEGAMAN2.83p" size="1325" crc="5f8197ad" md5="43df4377ca01c4b1e550ae9bbcb71f5b" sha1="73401849000b570d53cd8622a91088e58e8074bc"/>
+		<rom name="MEGAMAN3.83p" size="1353" crc="f651c31c" md5="b6e5864dc4e7482ab9ea224645b0814e" sha1="e2e27372198b3bb78da3b4774492c8cd219bd70c"/>
+		<rom name="ZMM.83p" size="293" crc="b2eb0e74" md5="c0c882bf6efeb0586bee40adbb4683d8" sha1="652ddb4ac79aafb2386b46fd309179e161daf7e9"/>
+	</game>
+	<game name="Simon Says &amp; Memory Simon (1998)(Sims, Daniel)">
+		<description>Simon Says &amp; Memory Simon (1998)(Sims, Daniel)</description>
+		<rom name="SIMON.83P" size="1646" crc="3f5989e7" md5="eaa8e5854f7f10be8133d0444dfbe696" sha1="435901770d682e48b7b4bdf93ccd373dd7c72869"/>
+		<rom name="Simon.txt" size="368" crc="61c0b64c" md5="35952b798ad636099ac66d70a1257c43" sha1="f979b15783e9fbef6fe462f7e7e6ffe0c4ef5840"/>
+	</game>
+	<game name="StarTrek (2000)(Hauffe, Stefan)">
+		<description>StarTrek (2000)(Hauffe, Stefan)</description>
+		<rom name="readme.txt" size="852" crc="cfa3e9ae" md5="2792392301899a587c0f3e4a18cdbfa6" sha1="e7e92740e20cfcba55c112f0c236e19df7aff928"/>
+		<rom name="STARTREK.83P" size="4594" crc="3de1afc9" md5="8db458e9f34ed785422ef3bd295ec74b" sha1="1d857c7c60bfa84cd94c65b77facc44a63ae989e"/>
+		<rom name="Startrek2.83p" size="4788" crc="cf3ed75c" md5="9cc3530c89687e98dfa68852c054a55c" sha1="de1bd79dbc8908f50a718882dd6eb577b680c15b"/>
+	</game>
+</datafile>

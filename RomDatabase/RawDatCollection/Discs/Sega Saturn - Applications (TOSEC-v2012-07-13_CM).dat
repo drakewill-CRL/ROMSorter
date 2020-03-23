@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega Saturn - Applications</name>
+		<description>Sega Saturn - Applications (TOSEC-v2012-07-13)</description>
+		<category>TOSEC-ISO</category>
+		<version>2012-07-13</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Photo CD Operating System v1.002 (1995)(Sega)(PAL)[!][MK-81681P-485]">
+		<description>Photo CD Operating System v1.002 (1995)(Sega)(PAL)[!][MK-81681P-485]</description>
+		<rom name="Photo CD Operating System v1.002 (1995)(Sega)(PAL)(Track 1 of 3)[!][MK-81681P-485].iso" size="4251648" crc="77dbd880" md5="62f6d3ffc3779b0f250fafa21973a965" sha1="bcf3d7b5796e55614983dbb115d5d5d70f6109b9"/>
+		<rom name="Photo CD Operating System v1.002 (1995)(Sega)(PAL)(Track 2 of 3)[!][MK-81681P-485].iso" size="42164800" crc="8043e517" md5="5f44cd3e23c675c5b5a765e5c9a2dabf" sha1="5bafb3b29c0add58c5c2b5f364f2ac557fc39c1c"/>
+		<rom name="Photo CD Operating System v1.002 (1995)(Sega)(PAL)(Track 3 of 3)[!][MK-81681P-485].wav" size="3528044" crc="f5c630ac" md5="1cb0378133219a88fb02f01256550329" sha1="67339dcd221b83f5f779ef411c305b04ac18b9cd"/>
+		<rom name="Photo CD Operating System v1.002 (1995)(Sega)(PAL)[!][MK-81681P-485].cue" size="502" crc="18246ceb" md5="8f9c55fc673c8685d002b5def5588c36" sha1="220c591cde7e9d6eb2c38d78fc2df0c1e746f7ff"/>
+	</game>
+</datafile>

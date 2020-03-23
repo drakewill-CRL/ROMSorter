@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Toshiba Pasopia - Demos - [BIN]</name>
+		<description>Toshiba Pasopia - Demos - [BIN] (TOSEC-v2019-12-18)</description>
+		<category>TOSEC</category>
+		<version>2019-12-18</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Sample Program (198x)(Toshiba)(JP)[PZA-383]">
+		<description>Sample Program (198x)(Toshiba)(JP)[PZA-383]</description>
+		<rom name="Sample Program (198x)(Toshiba)(JP)[PZA-383].bin" size="32768" crc="f299a5e0" md5="7282cab82ab99b6543c019d76dc1fe5a" sha1="11d515aff53accb48c4442e3d37e78613750470a"/>
+	</game>
+</datafile>

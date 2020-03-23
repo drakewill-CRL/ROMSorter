@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tandy Radio Shack TRS-80 Color Computer - Games - [CAS]</name>
+		<description>Tandy Radio Shack TRS-80 Color Computer - Games - [CAS] (TOSEC-v2011-01-03)</description>
+		<category>TOSEC</category>
+		<version>2011-01-03</version>
+		<author>Aral</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Bedlam (1982)(Tandy)[26-3312]">
+		<description>Bedlam (1982)(Tandy)[26-3312]</description>
+		<rom name="Bedlam (1982)(Tandy)[26-3312].cas" size="15648" crc="160ddfb9" md5="e82b907f06b6695c71ab80e70d483df7" sha1="cf1781fa5259e6aff42c29c7f7d5f803424e4499"/>
+	</game>
+	<game name="Donkey King (1982)(Tom Mix Software)">
+		<description>Donkey King (1982)(Tom Mix Software)</description>
+		<rom name="Donkey King (1982)(Tom Mix Software).cas" size="20461" crc="4bcd3eaa" md5="2697407c8c23ed8c6ef59a9d2f8fc39a" sha1="7172fbf157aed57b9fdc6dab8e7ee5fae0f15b36"/>
+	</game>
+	<game name="Donkey Monkey (1985)(Engesoft)">
+		<description>Donkey Monkey (1985)(Engesoft)</description>
+		<rom name="Donkey Monkey (1985)(Engesoft).cas" size="13967" crc="fe7a5747" md5="8ab63a957e20f69e633a9881c3a59f46" sha1="86ced3553f746f2351689b154d8718c81e806462"/>
+	</game>
+	<game name="Pengon (1983)(Spectral Associates)">
+		<description>Pengon (1983)(Spectral Associates)</description>
+		<rom name="Pengon (1983)(Spectral Associates).cas" size="23741" crc="b4d72772" md5="7f989751f43d01674e2e83e8fab16204" sha1="d8dcc03b9a15cc47f535701739f2636af1e09e8f"/>
+	</game>
+	<game name="Pyramid 2000 (1982)(Tandy)[26-3310]">
+		<description>Pyramid 2000 (1982)(Tandy)[26-3310]</description>
+		<rom name="Pyramid 2000 (1982)(Tandy)[26-3310].cas" size="15257" crc="c4267d72" md5="0200fb7795533b269b475ac9c868300b" sha1="64c880fa82a3353e54bb5e4d96a0eab7eb298c3d"/>
+	</game>
+	<game name="Rommel-3D (1985)(MichTron)">
+		<description>Rommel-3D (1985)(MichTron)</description>
+		<rom name="Rommel-3D (1985)(MichTron).cas" size="25274" crc="5250ebd7" md5="fb67bb217e1e57003a90828baa39fb87" sha1="b63888b235217ff9bf8ae169894bc7212c349d22"/>
+	</game>
+	<game name="Shanghai (1987)(Activision)">
+		<description>Shanghai (1987)(Activision)</description>
+		<rom name="Shanghai (1987)(Activision).cas" size="26278" crc="6034e94e" md5="d4934c5e21bee7640653cc7282666c29" sha1="1c27d32668f7f78922fbe04063b4716e7d974fb2"/>
+	</game>
+	<game name="Zaxxon (1983)(Tandy)[26-3062]">
+		<description>Zaxxon (1983)(Tandy)[26-3062]</description>
+		<rom name="Zaxxon (1983)(Tandy)[26-3062].cas" size="18761" crc="bf0e414c" md5="52b7cc733642c752460e6ef063ca2cf7" sha1="94b71f61ed8ae2ff401cf903aeb5ce53b2c65e77"/>
+	</game>
+</datafile>

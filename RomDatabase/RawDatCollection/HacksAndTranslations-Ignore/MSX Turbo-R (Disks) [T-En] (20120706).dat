@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>MSX Turbo-R (Disks) [T-En]</name>
+		<description>MSX Turbo-R (Disks) [T-En]</description>
+		<category>English Translations</category>
+		<version>20120706</version>
+		<date>20120706</date>
+		<author>Powerpuff</author>
+		<email>-insert email-</email>
+		<homepage>Maybe-Intro</homepage>
+		<url>http://maybeintro.wordpress.com/</url>
+		<comment>Maybe-Intro</comment>
+		<clrmamepro/>
+	</header>
+	<game name="Illusion City (Japan) [T-En by A&amp;L Software v0.5] [i]">
+		<description>Illusion City (Japan) [T-En by A&amp;L Software v0.5] [i]</description>
+		<rom name="Illusion City (Japan) (Disk 1) [T-En by A&amp;L Software v0.5].dsk" size="737280" crc="da248548" md5="4db4e26c3fb2038c90f7843074d58ade" sha1="46feaa39a80b35bca3243871a6770ddcc783b1ad"/>
+		<rom name="Illusion City (Japan) (Disk 2) [T-En by A&amp;L Software v0.5].dsk" size="737280" crc="185c2efa" md5="19abf74fba15d87df4ac01d4d099bee3" sha1="c1570d81c6f273634d78eb78576ac5b5510ea06a"/>
+		<rom name="Illusion City (Japan) (Disk 3) [T-En by A&amp;L Software v0.5].dsk" size="737280" crc="17dcb43d" md5="f4a8a729fd1e2e04282989fd5e7a54ec" sha1="95c54a2170078637e0cdd1f4b3bb96fa0b1d405b"/>
+		<rom name="Illusion City (Japan) (Disk 4) [T-En by A&amp;L Software v0.5].dsk" size="737280" crc="43622713" md5="3e235871513a32983c43146900ff4e4e" sha1="57b1e93481d712752fac58150f048e2342f5b8a9"/>
+		<rom name="Illusion City (Japan) (Disk 5) [T-En by A&amp;L Software v0.5].dsk" size="737280" crc="d1101ef1" md5="e9376ffc278f2794bb73773b8eab1d5f" sha1="18bf37134e523029d27ffe948ee35ce5cdaecbd2"/>
+		<rom name="Illusion City (Japan) (Disk 6) [T-En by A&amp;L Software v0.5].dsk" size="737280" crc="b0962c9f" md5="08cab65d20df304ae989e50b2d2b32da" sha1="e96f7e05591b131d0746f818da02b11b70e02200"/>
+		<rom name="Illusion City (Japan) (Disk 7).dsk" size="737280" crc="98a4a1ac" md5="e3c34c05904bb90830b50c2a3d9945aa" sha1="fdad8341a81d1310f00e07057b61ea4ef31cdf06"/>
+		<rom name="Illusion City (Japan) (Disk 8).dsk" size="737280" crc="11998da3" md5="cd23806488d25ecac8a3ff4bace1f62c" sha1="efa7b70351f0302e112cb9b0ef49dc033c967e3d"/>
+	</game>
+</datafile>

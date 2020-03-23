@@ -1,0 +1,815 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sharp X68000 - Multimedia</name>
+		<description>Sharp X68000 - Multimedia (TOSEC-v2014-05-13)</description>
+		<category>TOSEC</category>
+		<version>2014-05-13</version>
+		<author>mek1 - C0llector - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="101 Kyoku Song Table (1989)(-)(Disk 1 of 2)(Disk A)">
+		<description>101 Kyoku Song Table (1989)(-)(Disk 1 of 2)(Disk A)</description>
+		<rom name="101 Kyoku Song Table (1989)(-)(Disk 1 of 2)(Disk A).dim" size="1261824" crc="86a6ec10" md5="1f7b58fb710e37707da0a045f9f13695" sha1="8adefaf1383acac466dcf1e716aa90b6ddf8b46f"/>
+	</game>
+	<game name="101 Kyoku Song Table (1989)(-)(Disk 1 of 2)(Disk B)">
+		<description>101 Kyoku Song Table (1989)(-)(Disk 1 of 2)(Disk B)</description>
+		<rom name="101 Kyoku Song Table (1989)(-)(Disk 1 of 2)(Disk B).dim" size="1261824" crc="f3436d5e" md5="744bdbd0951fa29036f13cdec6eb7fb1" sha1="aa456748bbb47dbcba664dad0653894fffd15f7a"/>
+	</game>
+	<game name="3x3 All Pais (199x)(Kaito Youshi)">
+		<description>3x3 All Pais (199x)(Kaito Youshi)</description>
+		<rom name="3x3 All Pais (199x)(Kaito Youshi).dim" size="1261824" crc="4b5a9183" md5="f1b899cdeddfcd5e79696ac8289fb8c5" sha1="ae2ee42f1e2cd185e1a884c7620610f726e2cb8e"/>
+	</game>
+	<game name="Achoo Nako Love Love CG Shuu (19xx)(-)">
+		<description>Achoo Nako Love Love CG Shuu (19xx)(-)</description>
+		<rom name="Achoo Nako Love Love CG Shuu (19xx)(-).dim" size="1261824" crc="ae1c4505" md5="c738d212e28d0e4cb481e9ccc73a16e5" sha1="4e08840c0a2b0174f5614b53a43013d535c1769c"/>
+	</game>
+	<game name="Alice No Ichijitsu (19xx)(Hidemaro)(Disk 1 of 2)(Disk A)">
+		<description>Alice No Ichijitsu (19xx)(Hidemaro)(Disk 1 of 2)(Disk A)</description>
+		<rom name="Alice No Ichijitsu (19xx)(Hidemaro)(Disk 1 of 2)(Disk A).dim" size="1261824" crc="abb72ba8" md5="65cca84b48d83c4c07980ae2866bd1ad" sha1="20cd552aaacb372abfb901ed83476e81f780b6af"/>
+	</game>
+	<game name="Alice No Ichijitsu (19xx)(Hidemaro)(Disk 2 of 2)(Disk B)">
+		<description>Alice No Ichijitsu (19xx)(Hidemaro)(Disk 2 of 2)(Disk B)</description>
+		<rom name="Alice No Ichijitsu (19xx)(Hidemaro)(Disk 2 of 2)(Disk B).dim" size="1261824" crc="54bdfe8c" md5="d5af7023a7bd9bf88e70e2d3ef3b3d80" sha1="ad2e8e70f5c3cce4f66e6729de8ad9e13dcae312"/>
+	</game>
+	<game name="Anmira Disk (199x)(Fairy Nurse)">
+		<description>Anmira Disk (199x)(Fairy Nurse)</description>
+		<rom name="Anmira Disk (199x)(Fairy Nurse).dim" size="1261824" crc="ac0f9b84" md5="6a0e692cf1dc1142c6e18d9eef5a8aa5" sha1="ab788a722b40f364df65546a95d7bdb72e64e5ca"/>
+	</game>
+	<game name="Anmira Disk 2 (199x)(Fairy Nurse)">
+		<description>Anmira Disk 2 (199x)(Fairy Nurse)</description>
+		<rom name="Anmira Disk 2 (199x)(Fairy Nurse).dim" size="1261824" crc="ebe3c9af" md5="8a1c8c89c927d56d21d419b69beaf254" sha1="acf0cc0e9aa275d256df9ae2b6536912e9074a72"/>
+	</game>
+	<game name="Anmira Disk 3 (199x)(Fairy Nurse)">
+		<description>Anmira Disk 3 (199x)(Fairy Nurse)</description>
+		<rom name="Anmira Disk 3 (199x)(Fairy Nurse).dim" size="1261824" crc="97d33219" md5="7757e29fc885cc76269f972abf790ef0" sha1="61f9bc4f9fd2784098f1a80e3ba027fbecd1b13c"/>
+	</game>
+	<game name="Annie Hamilton KISekae Set System v2 (199x)(Koh)">
+		<description>Annie Hamilton KISekae Set System v2 (199x)(Koh)</description>
+		<rom name="Annie Hamilton KISekae Set System v2 (199x)(Koh).dim" size="1261824" crc="cb5e1cea" md5="567bf241c37ba4a1c39945540e7a8f26" sha1="cbbeafb308bf77b45a11a703f7bc31e958573a9a"/>
+	</game>
+	<game name="ASB Vol. 1 (19xx)(Tec-C-Hi)">
+		<description>ASB Vol. 1 (19xx)(Tec-C-Hi)</description>
+		<rom name="ASB Vol. 1 (19xx)(Tec-C-Hi).dim" size="1261824" crc="d8196c39" md5="7886ae04eb36484936219fe2b55d5b9f" sha1="ef2e348e237b63c61aeff8af3d54897da542a060"/>
+	</game>
+	<game name="Ashura Baster 2 1st Stage (199x)(-)(Disk 1 of 2)(Disk A)">
+		<description>Ashura Baster 2 1st Stage (199x)(-)(Disk 1 of 2)(Disk A)</description>
+		<rom name="Ashura Baster 2 1st Stage (199x)(-)(Disk 1 of 2)(Disk A).dim" size="1261824" crc="bd974d45" md5="1411d0af9b6dd9974cc6abba62acbbdd" sha1="b299fae7607eaeca0a8ec01a5313b9fe6cbeca20"/>
+	</game>
+	<game name="Ashura Baster 2 1st Stage (199x)(-)(Disk 2 of 2)(Disk B)">
+		<description>Ashura Baster 2 1st Stage (199x)(-)(Disk 2 of 2)(Disk B)</description>
+		<rom name="Ashura Baster 2 1st Stage (199x)(-)(Disk 2 of 2)(Disk B).dim" size="1261824" crc="326e711e" md5="f7318b81dc06f9c26881bafd5b69a0c8" sha1="0f419cb9633a0e38b9f0a7927137e05495c8cf37"/>
+	</game>
+	<game name="Ayashii CG Shuu Vol 01 Cal Piss Water 2 Hot Calpiss (199x)(Karupisu K.K.)">
+		<description>Ayashii CG Shuu Vol 01 Cal Piss Water 2 Hot Calpiss (199x)(Karupisu K.K.)</description>
+		<rom name="Ayashii CG Shuu Vol 01 Cal Piss Water 2 Hot Calpiss (199x)(Karupisu K.K.).dim" size="1261824" crc="abd8a35b" md5="946bb3b7301d08edc17612b56dd2144c" sha1="730b9eb4880136600591ced0c0099d081f2d7ecc"/>
+	</game>
+	<game name="Bannou Bunka Neko Musume TV-Opening (199x)(-)(Disk 1 of 2)(Disk A)">
+		<description>Bannou Bunka Neko Musume TV-Opening (199x)(-)(Disk 1 of 2)(Disk A)</description>
+		<rom name="Bannou Bunka Neko Musume TV-Opening (199x)(-)(Disk 1 of 2)(Disk A).dim" size="1474816" crc="b21d5b17" md5="467191db74c293a389ee80337e6396a9" sha1="b485de18ce9a2cefb14b8804aaf7e5ce88c8c28c"/>
+	</game>
+	<game name="Bannou Bunka Neko Musume TV-Opening (199x)(-)(Disk 2 of 2)(Disk B)">
+		<description>Bannou Bunka Neko Musume TV-Opening (199x)(-)(Disk 2 of 2)(Disk B)</description>
+		<rom name="Bannou Bunka Neko Musume TV-Opening (199x)(-)(Disk 2 of 2)(Disk B).dim" size="1474816" crc="b1969566" md5="0e45486cab735848016eb5c88c33b256" sha1="c4ec77979abf3f03db36f7013fb409a4576c8759"/>
+	</game>
+	<game name="BBB CG Special Vol. 1 (199x)(Jama Studio Effect)">
+		<description>BBB CG Special Vol. 1 (199x)(Jama Studio Effect)</description>
+		<rom name="BBB CG Special Vol. 1 (199x)(Jama Studio Effect).dim" size="1261824" crc="b2bdb10b" md5="62fcfec59100f82dcebf02bef30fe22e" sha1="97bc371818e0088fd7efeea36c7e41acb0a6d723"/>
+	</game>
+	<game name="Bishoujo Graphic Data Shuu Vol. 1 (199x)(CPPS-Net - EFAT)">
+		<description>Bishoujo Graphic Data Shuu Vol. 1 (199x)(CPPS-Net - EFAT)</description>
+		<rom name="Bishoujo Graphic Data Shuu Vol. 1 (199x)(CPPS-Net - EFAT).dim" size="1261824" crc="c21f58ce" md5="37d3c087dd653de59191a503ef97100d" sha1="4736cd745cb448f22195f3bc6710edf782bad049"/>
+	</game>
+	<game name="Bishoujo Graphic Data Shuu Vol. 2 (199x)(CPPS-Net - EFAT)">
+		<description>Bishoujo Graphic Data Shuu Vol. 2 (199x)(CPPS-Net - EFAT)</description>
+		<rom name="Bishoujo Graphic Data Shuu Vol. 2 (199x)(CPPS-Net - EFAT).dim" size="1261824" crc="9f6078ad" md5="3c1ca433b6400aad55a15e5ac8d2f75d" sha1="39c51c7a8d1856c5cfd799be9486254830c2e7e4"/>
+	</game>
+	<game name="Bishoujo Graphic Data Shuu Vol. 3 (199x)(CPPS-Net - EFAT)">
+		<description>Bishoujo Graphic Data Shuu Vol. 3 (199x)(CPPS-Net - EFAT)</description>
+		<rom name="Bishoujo Graphic Data Shuu Vol. 3 (199x)(CPPS-Net - EFAT).dim" size="1261824" crc="278a1b3c" md5="800f5c1eca77edd8e2821355457e3efc" sha1="b374721a3bd47b870fd31c89cc8cbff3af0706ea"/>
+	</game>
+	<game name="Bishoujo Graphic Data Shuu Vol. 4 (199x)(CPPS-Net - EFAT)">
+		<description>Bishoujo Graphic Data Shuu Vol. 4 (199x)(CPPS-Net - EFAT)</description>
+		<rom name="Bishoujo Graphic Data Shuu Vol. 4 (199x)(CPPS-Net - EFAT).dim" size="1261824" crc="0f85f01b" md5="5fd9e782c3fbd74dadacfb1f7e211579" sha1="aefd8ad28cbfe13b2cd718253d04a2c191b13dfc"/>
+	</game>
+	<game name="Bishoujo Graphic Data Shuu Vol. 5 (199x)(CPPS-Net - EFAT)">
+		<description>Bishoujo Graphic Data Shuu Vol. 5 (199x)(CPPS-Net - EFAT)</description>
+		<rom name="Bishoujo Graphic Data Shuu Vol. 5 (199x)(CPPS-Net - EFAT).dim" size="1261824" crc="137e0905" md5="5737f3ffcc189495a624fe47f001a000" sha1="a19a8f14e6491fde5407fded094fb38d91e58dab"/>
+	</game>
+	<game name="Bishoujo Graphic Data Shuu Vol. 6 (199x)(CPPS-Net - EFAT)">
+		<description>Bishoujo Graphic Data Shuu Vol. 6 (199x)(CPPS-Net - EFAT)</description>
+		<rom name="Bishoujo Graphic Data Shuu Vol. 6 (199x)(CPPS-Net - EFAT).dim" size="1261824" crc="87310f96" md5="5a10fc58ea401c98bf3d1c55a806c0a7" sha1="c0d811d29681e48c3f00a01c1ea09697b8fded82"/>
+	</game>
+	<game name="Bishoujo Grapics Data Shuu Vol. 5 (19xx)(Count Zero)">
+		<description>Bishoujo Grapics Data Shuu Vol. 5 (19xx)(Count Zero)</description>
+		<rom name="Bishoujo Grapics Data Shuu Vol. 5 (19xx)(Count Zero).dim" size="1261824" crc="cb41c5ce" md5="fbf01f423b563f1ed4e9baa7b0f7c8c6" sha1="fe23a04d57aecb7b94f6a2419d6afb49f7784da4"/>
+	</game>
+	<game name="Bishoujo Senshi Sailormoon Disk (1991)(Milky Factory)">
+		<description>Bishoujo Senshi Sailormoon Disk (1991)(Milky Factory)</description>
+		<rom name="Bishoujo Senshi Sailormoon Disk (1991)(Milky Factory).dim" size="1261824" crc="8dfbf49f" md5="930906d193acd1372b277733a14d0f04" sha1="d6ec8f7a2a8af9f04baf98cb94fe197dcb186325"/>
+	</game>
+	<game name="C.G. Gallery 1 Elan (199x)(Team Z&amp;3N)">
+		<description>C.G. Gallery 1 Elan (199x)(Team Z&amp;3N)</description>
+		<rom name="C.G. Gallery 1 Elan (199x)(Team Z&amp;3N).dim" size="1261824" crc="d9f96f5f" md5="50ee684b4a9264d812449cd7b07996ee" sha1="12d3f9887966ee1ae52c201980461f08da750ac6"/>
+	</game>
+	<game name="C.G. Gallery 2 Espirit (199x)(Team Z&amp;3N)">
+		<description>C.G. Gallery 2 Espirit (199x)(Team Z&amp;3N)</description>
+		<rom name="C.G. Gallery 2 Espirit (199x)(Team Z&amp;3N).dim" size="1261824" crc="8d931b1a" md5="62f1ad9ccb38f1aa1150114294b13cf4" sha1="930748f265f3681b6b49fac11e43bbf2b6858cd5"/>
+	</game>
+	<game name="C.G. Gallery 3 Excel (199x)(Team Z&amp;3N)">
+		<description>C.G. Gallery 3 Excel (199x)(Team Z&amp;3N)</description>
+		<rom name="C.G. Gallery 3 Excel (199x)(Team Z&amp;3N).dim" size="1261824" crc="3f97bf41" md5="61ce4d2ce3fd92d5d56f4579071f91e1" sha1="992b5a2c7b7ad649aa7d952e445b6322f4f739e7"/>
+	</game>
+	<game name="C.G. Gallery 4 Elite (199x)(Team Z&amp;3N)">
+		<description>C.G. Gallery 4 Elite (199x)(Team Z&amp;3N)</description>
+		<rom name="C.G. Gallery 4 Elite (199x)(Team Z&amp;3N).dim" size="1261824" crc="def16ac3" md5="b476012e3020abfde5c0b49a020570f5" sha1="63db3822d573f29cfb9987d34575b5b93ea7c546"/>
+	</game>
+	<game name="CG Anime Sazae Trek (1994)(50 Feeet's)(Disk 1 of 2)(Disk A)">
+		<description>CG Anime Sazae Trek (1994)(50 Feeet's)(Disk 1 of 2)(Disk A)</description>
+		<rom name="CG Anime Sazae Trek (1994)(50 Feeet's)(Disk 1 of 2)(Disk A).dim" size="1261824" crc="02b2737f" md5="ea3c67cd0629192606e049e0de64a1cf" sha1="1c0374584a34016ce98837aa5030d88e010ce1bc"/>
+	</game>
+	<game name="CG Anime Sazae Trek (1994)(50 Feeet's)(Disk 2 of 2)(Disk B)">
+		<description>CG Anime Sazae Trek (1994)(50 Feeet's)(Disk 2 of 2)(Disk B)</description>
+		<rom name="CG Anime Sazae Trek (1994)(50 Feeet's)(Disk 2 of 2)(Disk B).dim" size="1261824" crc="a8484fd2" md5="1dd308d2510ebd4acff938246841b828" sha1="aa00b152641d2ff751b8105432625e4fbbccab31"/>
+	</game>
+	<game name="CG Collections Vol. 2 (199x)(100 Degrees C Network)">
+		<description>CG Collections Vol. 2 (199x)(100 Degrees C Network)</description>
+		<rom name="CG Collections Vol. 2 (199x)(100 Degrees C Network).dim" size="1261824" crc="9536dc8c" md5="10fbe9f02739b5feb68a03c7b07376e3" sha1="0082271f8ec59f6c59d1f35d4105de46e7be60a5"/>
+	</game>
+	<game name="CG Factory Vol. 0 (1990)(CG Factory)">
+		<description>CG Factory Vol. 0 (1990)(CG Factory)</description>
+		<rom name="CG Factory Vol. 0 (1990)(CG Factory).dim" size="1261824" crc="a67794e8" md5="a2c49006147fd8afd02570b6544b0157" sha1="98089297c45be65e943931efb70039133eea0aad"/>
+	</game>
+	<game name="Cha Cha CG Collection v1.00 (1994)(Lunacy)">
+		<description>Cha Cha CG Collection v1.00 (1994)(Lunacy)</description>
+		<rom name="Cha Cha CG Collection v1.00 (1994)(Lunacy).dim" size="1261824" crc="a8a99963" md5="5757f41f6db63115d9287803205c0219" sha1="90d0bf071c0fbd8422fba53aeabbb669b2c44672"/>
+	</game>
+	<game name="Chotto Game Na CG Shuu (199x)(-)">
+		<description>Chotto Game Na CG Shuu (199x)(-)</description>
+		<rom name="Chotto Game Na CG Shuu (199x)(-).dim" size="1261824" crc="95915744" md5="68a3c6603c4c72741e2532f99d6e5e70" sha1="20a022451a6b4117cd3dafcbeea5d6f022b01dd3"/>
+	</game>
+	<game name="Choubangai Seifuku Zukan + (1989)(System House Oh!)(Disk 1 of 2)(Disk A)">
+		<description>Choubangai Seifuku Zukan + (1989)(System House Oh!)(Disk 1 of 2)(Disk A)</description>
+		<rom name="Choubangai Seifuku Zukan + (1989)(System House Oh!)(Disk 1 of 2)(Disk A).dim" size="1261824" crc="d1de0419" md5="814047b1c1ac71d048e41976b6f7255e" sha1="4a0e1c127b654d670c512faf85386b9eb367cfb9"/>
+	</game>
+	<game name="Choubangai Seifuku Zukan + (1989)(System House Oh!)(Disk 2 of 2)(Disk B)">
+		<description>Choubangai Seifuku Zukan + (1989)(System House Oh!)(Disk 2 of 2)(Disk B)</description>
+		<rom name="Choubangai Seifuku Zukan + (1989)(System House Oh!)(Disk 2 of 2)(Disk B).dim" size="1261824" crc="71877552" md5="f9ac868e9098ce7ca6e290a55cf684d7" sha1="bfd51dc67aca666eeb805937d5b3f7e4e0717982"/>
+	</game>
+	<game name="Clean Up (199x)(Rai Rai Jin)">
+		<description>Clean Up (199x)(Rai Rai Jin)</description>
+		<rom name="Clean Up (199x)(Rai Rai Jin).dim" size="1261824" crc="a528fc03" md5="147eb17703a13d3e7d91a2d1e8194239" sha1="4fed4f921791054fdd3562f03b574bfc47402e23"/>
+	</game>
+	<game name="Count Zero CG Shuu Vol. 1 (199x)(Count Zero)">
+		<description>Count Zero CG Shuu Vol. 1 (199x)(Count Zero)</description>
+		<rom name="Count Zero CG Shuu Vol. 1 (199x)(Count Zero).dim" size="1261824" crc="f5bf9c3b" md5="537c892303155bc3f7957d0899629197" sha1="15eb50911367e79edbdf014e29ca175ea647c156"/>
+	</game>
+	<game name="DA Collection Vol. 2 (1991)(-)">
+		<description>DA Collection Vol. 2 (1991)(-)</description>
+		<rom name="DA Collection Vol. 2 (1991)(-).dim" size="1261824" crc="74e64f7f" md5="8676aceb6d6a83c5938a6d5480fb2e50" sha1="10c656db2bcea730fe8062955028c91158966340"/>
+	</game>
+	<game name="DAP Enterprise CG Shuu 4 Ice Cream (1993)(DAP)">
+		<description>DAP Enterprise CG Shuu 4 Ice Cream (1993)(DAP)</description>
+		<rom name="DAP Enterprise CG Shuu 4 Ice Cream (1993)(DAP).dim" size="1261824" crc="c2539548" md5="d5040771d77a8f8e7a13e67634d41a1f" sha1="308d355cbd24a973d0bc5fe8877c29f14a398f09"/>
+	</game>
+	<game name="DAP Enterprise CG Shuu 5 Pannakotta (1994)(DAP)">
+		<description>DAP Enterprise CG Shuu 5 Pannakotta (1994)(DAP)</description>
+		<rom name="DAP Enterprise CG Shuu 5 Pannakotta (1994)(DAP).dim" size="1261824" crc="99b6d73a" md5="530669a2b7d9b46145dd897a126a6e5e" sha1="98776f4a334fbfe475c1bfd84f80fd1b2604ad3c"/>
+	</game>
+	<game name="Delta (1995)(Tonbi)">
+		<description>Delta (1995)(Tonbi)</description>
+		<rom name="Delta (1995)(Tonbi).dim" size="1261824" crc="3d1c39c9" md5="c9227ae2db3127be8e68c364753b5759" sha1="3c4f2c58b677f897391d824fc8fe0cb482be1ce5"/>
+	</game>
+	<game name="Dendou Karakuri Ehon Tefu Tefu (1990)(Gensou Koubou Puroseniamu)(Disk 1 of 2)(Disk A)">
+		<description>Dendou Karakuri Ehon Tefu Tefu (1990)(Gensou Koubou Puroseniamu)(Disk 1 of 2)(Disk A)</description>
+		<rom name="Dendou Karakuri Ehon Tefu Tefu (1990)(Gensou Koubou Puroseniamu)(Disk 1 of 2)(Disk A).dim" size="1261824" crc="32640414" md5="b41c3fb4270c935c649e5bdca6b93305" sha1="d6c9ed86eed07875355239625c7ad21ccddff71a"/>
+	</game>
+	<game name="Dendou Karakuri Ehon Tefu Tefu (1990)(Gensou Koubou Puroseniamu)(Disk 2 of 2)(Disk B)">
+		<description>Dendou Karakuri Ehon Tefu Tefu (1990)(Gensou Koubou Puroseniamu)(Disk 2 of 2)(Disk B)</description>
+		<rom name="Dendou Karakuri Ehon Tefu Tefu (1990)(Gensou Koubou Puroseniamu)(Disk 2 of 2)(Disk B).dim" size="1261824" crc="1c2cd8c1" md5="4276f842f20fbe3b04d76640028104ac" sha1="04651a2ba07b77f9a7b5c121b8750533bbd70878"/>
+	</game>
+	<game name="Dennou Ehon Series 1 Mucchan No Akai Fuusen (1989)(Dennou Butai)(Disk 1 of 2)(Disk A)">
+		<description>Dennou Ehon Series 1 Mucchan No Akai Fuusen (1989)(Dennou Butai)(Disk 1 of 2)(Disk A)</description>
+		<rom name="Dennou Ehon Series 1 Mucchan No Akai Fuusen (1989)(Dennou Butai)(Disk 1 of 2)(Disk A).dim" size="1261824" crc="cabec9f8" md5="a8908576ef94b42830d5e566984995cb" sha1="9590b7faf8dc03d173b071fb64a747f9ad2b1e73"/>
+	</game>
+	<game name="Dennou Ehon Series 1 Mucchan No Akai Fuusen (1989)(Dennou Butai)(Disk 2 of 2)(Disk B)">
+		<description>Dennou Ehon Series 1 Mucchan No Akai Fuusen (1989)(Dennou Butai)(Disk 2 of 2)(Disk B)</description>
+		<rom name="Dennou Ehon Series 1 Mucchan No Akai Fuusen (1989)(Dennou Butai)(Disk 2 of 2)(Disk B).dim" size="1261824" crc="30ad4aab" md5="f11f46b7fe333161bfce9fe4ef1b8d64" sha1="9c7645e2cb1cf2b6cbd959b10924c85ac565f023"/>
+	</game>
+	<game name="Dennou Ehon Series 2 Yume No Naka He (1989)(Dennou Butai)(Disk 1 of 2)(Disk A)">
+		<description>Dennou Ehon Series 2 Yume No Naka He (1989)(Dennou Butai)(Disk 1 of 2)(Disk A)</description>
+		<rom name="Dennou Ehon Series 2 Yume No Naka He (1989)(Dennou Butai)(Disk 1 of 2)(Disk A).dim" size="1261824" crc="3686a1bf" md5="67280ce32573c8badac6be9ff302af32" sha1="b7ec3163c5874e3b7a067a63507c80f553ed5e08"/>
+	</game>
+	<game name="Dennou Ehon Series 2 Yume No Naka He (1989)(Dennou Butai)(Disk 2 of 2)(Disk B)">
+		<description>Dennou Ehon Series 2 Yume No Naka He (1989)(Dennou Butai)(Disk 2 of 2)(Disk B)</description>
+		<rom name="Dennou Ehon Series 2 Yume No Naka He (1989)(Dennou Butai)(Disk 2 of 2)(Disk B).dim" size="1261824" crc="a0603e2d" md5="1b0760a1db17140d1def42b882020492" sha1="76b51b5571978e4d4033b519792aa4153af6dde9"/>
+	</game>
+	<game name="Dennou Ehon Series 3 Mia No Chou Creme (1989)(Dennou Butai)(Disk 1 of 2)(Disk A)">
+		<description>Dennou Ehon Series 3 Mia No Chou Creme (1989)(Dennou Butai)(Disk 1 of 2)(Disk A)</description>
+		<rom name="Dennou Ehon Series 3 Mia No Chou Creme (1989)(Dennou Butai)(Disk 1 of 2)(Disk A).dim" size="1261824" crc="7d823b8f" md5="acf23b62775e5427df7c80a16578bd25" sha1="9837c157b91f38b15223c4c2b14b1fb413489525"/>
+	</game>
+	<game name="Dennou Ehon Series 3 Mia No Chou Creme (1989)(Dennou Butai)(Disk 2 of 2)(Disk B)">
+		<description>Dennou Ehon Series 3 Mia No Chou Creme (1989)(Dennou Butai)(Disk 2 of 2)(Disk B)</description>
+		<rom name="Dennou Ehon Series 3 Mia No Chou Creme (1989)(Dennou Butai)(Disk 2 of 2)(Disk B).dim" size="1261824" crc="13ed51f6" md5="94920c072a371f9b52e6fb96a67c0f59" sha1="0eddc92c212b2db558aeb808349d82f2338ebf1e"/>
+	</game>
+	<game name="Disk Magazine Opening CG Collection 89.2 - 90.12 (1990)(Carrot Party)">
+		<description>Disk Magazine Opening CG Collection 89.2 - 90.12 (1990)(Carrot Party)</description>
+		<rom name="Disk Magazine Opening CG Collection 89.2 - 90.12 (1990)(Carrot Party).dim" size="1261824" crc="afe4e5bb" md5="95cfaeb2aa9262628a15ebaa808167a1" sha1="6576023c6c87e0c9bf867f559e9cbecd4af1674e"/>
+	</game>
+	<game name="Disk Moonfish Vol. 1.1 (19xx)(Half Elf Software)">
+		<description>Disk Moonfish Vol. 1.1 (19xx)(Half Elf Software)</description>
+		<rom name="Disk Moonfish Vol. 1.1 (19xx)(Half Elf Software).dim" size="1261824" crc="af421db3" md5="614e8f39da12da9f23a9643947d629d1" sha1="b6d314cec6a8c3d8299e5c6413d568bcf9e9b3da"/>
+	</game>
+	<game name="Disk System Ending Collection 1 Link No Bouken (1994)(Kami - Onishouji)">
+		<description>Disk System Ending Collection 1 Link No Bouken (1994)(Kami - Onishouji)</description>
+		<rom name="Disk System Ending Collection 1 Link No Bouken (1994)(Kami - Onishouji).dim" size="1261824" crc="dc4bbf11" md5="b4e2d8a7b1dcb8ee7c94f4388ffbe05d" sha1="385566b17393eee69e80cff091a876f247d1b18d"/>
+	</game>
+	<game name="Disk System Opening Collection 1 Link No Bouken (1993)(Kami - Onishouji)">
+		<description>Disk System Opening Collection 1 Link No Bouken (1993)(Kami - Onishouji)</description>
+		<rom name="Disk System Opening Collection 1 Link No Bouken (1993)(Kami - Onishouji).dim" size="1261824" crc="1ad2ce73" md5="d6eb36429b02b31dd8e964c6831c857c" sha1="7da0e61f30b1c9bcd29643d8ccb2452d14e2d581"/>
+	</game>
+	<game name="Disk System Opening Collection 10 Shin Onigashima (1994)(Kami - Onishouji)">
+		<description>Disk System Opening Collection 10 Shin Onigashima (1994)(Kami - Onishouji)</description>
+		<rom name="Disk System Opening Collection 10 Shin Onigashima (1994)(Kami - Onishouji).dim" size="1261824" crc="7defbbe0" md5="98997ffe1ce2bce8a8bcfb10d16f6d03" sha1="ac0bd4bd1bdd2c7b20d7ec7d7403df84b7bde5e6"/>
+	</game>
+	<game name="Disk System Opening Collection 2 Zelda No Densetsu (1993)(Kami - Onishouji)">
+		<description>Disk System Opening Collection 2 Zelda No Densetsu (1993)(Kami - Onishouji)</description>
+		<rom name="Disk System Opening Collection 2 Zelda No Densetsu (1993)(Kami - Onishouji).dim" size="1261824" crc="cf51e0e0" md5="0edd84181a2c72e2874affa15d90df4c" sha1="5ce436f7d56e73dfc8bdeff57fc5fb63bded300c"/>
+	</game>
+	<game name="Disk System Opening Collection 3 Yume Koujou Doki Doki Panic (1993)(Kami - Onishouji)">
+		<description>Disk System Opening Collection 3 Yume Koujou Doki Doki Panic (1993)(Kami - Onishouji)</description>
+		<rom name="Disk System Opening Collection 3 Yume Koujou Doki Doki Panic (1993)(Kami - Onishouji).dim" size="1261824" crc="ae5a28e6" md5="bca02ff70f976609600f8ba73204655d" sha1="8baff66c46668228a13951d0ae16377917785272"/>
+	</game>
+	<game name="Disk System Opening Collection 4 Metroid (1994)(Kami - Onishouji)">
+		<description>Disk System Opening Collection 4 Metroid (1994)(Kami - Onishouji)</description>
+		<rom name="Disk System Opening Collection 4 Metroid (1994)(Kami - Onishouji).dim" size="1261824" crc="861cedf2" md5="5a09f8a42f57b5b09fa8fdf9452c6ae1" sha1="f182bd301c503b8c0aca0516ba7f33e546c75e1b"/>
+	</game>
+	<game name="Disk System Opening Collection 5 Hikari Shinwa Parutena No Kagame (1994)(Kami - Onishouji)">
+		<description>Disk System Opening Collection 5 Hikari Shinwa Parutena No Kagame (1994)(Kami - Onishouji)</description>
+		<rom name="Disk System Opening Collection 5 Hikari Shinwa Parutena No Kagame (1994)(Kami - Onishouji).dim" size="1261824" crc="14c6716f" md5="4760a047881610ae65ffdd80d574e653" sha1="9c1b80e21fe7bc7d00b5b8523447051674099bd4"/>
+	</game>
+	<game name="Disk System Opening Collection 6 Famicom Tantei Club (1994)(Kami - Onishouji)">
+		<description>Disk System Opening Collection 6 Famicom Tantei Club (1994)(Kami - Onishouji)</description>
+		<rom name="Disk System Opening Collection 6 Famicom Tantei Club (1994)(Kami - Onishouji).dim" size="1261824" crc="5a227919" md5="5d55d8b40be271c9c0c003f264170d90" sha1="1070781feee39bf517f5c9bcdeda5e36f1ffa223"/>
+	</game>
+	<game name="Disk System Opening Collection 7 Famicom Tantei Club Part II (1994)(Kami - Onishouji)">
+		<description>Disk System Opening Collection 7 Famicom Tantei Club Part II (1994)(Kami - Onishouji)</description>
+		<rom name="Disk System Opening Collection 7 Famicom Tantei Club Part II (1994)(Kami - Onishouji).dim" size="1261824" crc="8282129c" md5="46bb747babc397a0a8c3ce8b75de945d" sha1="416f88e9bc16cc92c576d9854d87bf03e1e9d58c"/>
+	</game>
+	<game name="Disk System Opening Collection 9 Golf U.S. Course (1994)(Kami - Onishouji)">
+		<description>Disk System Opening Collection 9 Golf U.S. Course (1994)(Kami - Onishouji)</description>
+		<rom name="Disk System Opening Collection 9 Golf U.S. Course (1994)(Kami - Onishouji).dim" size="1261824" crc="0312845d" md5="1644335fbbcba1921da2372554946682" sha1="1c66ff194ce8c1572d339f47f720ad7ecb017f95"/>
+	</game>
+	<game name="Dream Hunter Reimu (1991)(D-Ten)">
+		<description>Dream Hunter Reimu (1991)(D-Ten)</description>
+		<rom name="Dream Hunter Reimu (1991)(D-Ten).dim" size="1261824" crc="a5ff6aef" md5="3544995bd61a15aab28fa4738bbf7c06" sha1="22f06b5b9e7858dc997373d3d98946cba96419b1"/>
+	</game>
+	<game name="Dummy Pro 68K Select (1991)(Advanced Libido)">
+		<description>Dummy Pro 68K Select (1991)(Advanced Libido)</description>
+		<rom name="Dummy Pro 68K Select (1991)(Advanced Libido).dim" size="1261824" crc="432550ee" md5="1190b1974c9606e96992aa5dc69b2e0c" sha1="e613050b0073b0b6927c719e41061f1f7e63f363"/>
+	</game>
+	<game name="Dummy Pro 68K Vol. 2 (1991)(Advanced Libido)">
+		<description>Dummy Pro 68K Vol. 2 (1991)(Advanced Libido)</description>
+		<rom name="Dummy Pro 68K Vol. 2 (1991)(Advanced Libido).dim" size="1261824" crc="886fc047" md5="6de473f2320eb6e31e47d5202ba75b4e" sha1="4b038574906214045f504b1843b9abde7acf2866"/>
+	</game>
+	<game name="End Of Innocence, The (1991)(KDD)">
+		<description>End Of Innocence, The (1991)(KDD)</description>
+		<rom name="End Of Innocence, The (1991)(KDD).dim" size="1261824" crc="c9b4f467" md5="fc3ee74e3ff93de90044e34ded3d48f2" sha1="a2c53a5b3b7899b8813c0e28de57ec6067487af1"/>
+	</game>
+	<game name="F.U.T. Scene Complete (199x)(Jaora Do Kariosutoro)">
+		<description>F.U.T. Scene Complete (199x)(Jaora Do Kariosutoro)</description>
+		<rom name="F.U.T. Scene Complete (199x)(Jaora Do Kariosutoro).dim" size="1261824" crc="ee5d2ff6" md5="800a9ff8135fbb34e7ea1f2e34f4eec9" sha1="9a2f58270508439430c580f06d41e313d7e59c7c"/>
+	</game>
+	<game name="Falling Snow (1989)(Big-X)">
+		<description>Falling Snow (1989)(Big-X)</description>
+		<rom name="Falling Snow (1989)(Big-X).dim" size="1261824" crc="3881cd19" md5="abfad4c6cada766f750f92737738821a" sha1="baf06f7084224bc8ca6c68a9c69ad01fb79469e4"/>
+	</game>
+	<game name="Fulon (199x)(Hypa Soft)">
+		<description>Fulon (199x)(Hypa Soft)</description>
+		<rom name="Fulon (199x)(Hypa Soft).dim" size="1261824" crc="3a6c53a3" md5="aeb89f1c4b9367f91a71415b0425eac8" sha1="99f4351876e7b83c5e32ef950a778b895eb39db7"/>
+	</game>
+	<game name="Fumirio CG Shuu 2 (1991)(Fumirio Koubou)">
+		<description>Fumirio CG Shuu 2 (1991)(Fumirio Koubou)</description>
+		<rom name="Fumirio CG Shuu 2 (1991)(Fumirio Koubou).dim" size="1261824" crc="6eb0d584" md5="6072acd295ad0f08dcf53b91b8c2ce6a" sha1="d22a9a77ddca29439b8c2d15b41e659345ce7caa"/>
+	</game>
+	<game name="Fumirio CG Shuu X (1993)(Fumirio Koubou)">
+		<description>Fumirio CG Shuu X (1993)(Fumirio Koubou)</description>
+		<rom name="Fumirio CG Shuu X (1993)(Fumirio Koubou).dim" size="1261824" crc="60a92f1e" md5="9c92b4e45a2a73228f2c4a1a464b243f" sha1="bda69a046e70e4c211300ac8cd8f3db757d92d84"/>
+	</game>
+	<game name="Fushigi No Umi No Nadia Music Floppy Disk (1992)(Gainax)">
+		<description>Fushigi No Umi No Nadia Music Floppy Disk (1992)(Gainax)</description>
+		<rom name="Fushigi No Umi No Nadia Music Floppy Disk (1992)(Gainax).dim" size="1261824" crc="60af18b4" md5="9125d96f7cd0b97b865d35489049cb39" sha1="2104eab492b3c9ae853e03c33191f74b0ff91d44"/>
+	</game>
+	<game name="Fushigi Yuugi TV-Opening (199x)(-)(Disk 1 of 2)(Disk A)">
+		<description>Fushigi Yuugi TV-Opening (199x)(-)(Disk 1 of 2)(Disk A)</description>
+		<rom name="Fushigi Yuugi TV-Opening (199x)(-)(Disk 1 of 2)(Disk A).dim" size="1474816" crc="9f43e581" md5="4028cf893363c9fb3c7dac53454e5b59" sha1="0629455e987b19e8405c8859b31a8ad9990d235d"/>
+	</game>
+	<game name="Fushigi Yuugi TV-Opening (199x)(-)(Disk 2 of 2)(Disk B)">
+		<description>Fushigi Yuugi TV-Opening (199x)(-)(Disk 2 of 2)(Disk B)</description>
+		<rom name="Fushigi Yuugi TV-Opening (199x)(-)(Disk 2 of 2)(Disk B).dim" size="1474816" crc="86768fbf" md5="840b5fbf4a944adf4b40c02b39474e63" sha1="4001514956aeaeaecb97665fd809e71d6baa853e"/>
+	</game>
+	<game name="Giga v2 (199x)(Giganauts Labo)">
+		<description>Giga v2 (199x)(Giganauts Labo)</description>
+		<rom name="Giga v2 (199x)(Giganauts Labo).dim" size="1261824" crc="93c9143d" md5="04e8d214f552200ff789c838a795c083" sha1="550f25bb373ea046983e4a76f02b9ec32b95326f"/>
+	</game>
+	<game name="Head-Bat CG Collection (1991)(Head-Bat)">
+		<description>Head-Bat CG Collection (1991)(Head-Bat)</description>
+		<rom name="Head-Bat CG Collection (1991)(Head-Bat).dim" size="1261824" crc="2ee21ef6" md5="4fed5e82e99a8434c3ef3d0ec37db199" sha1="de6f7dcaf4afecd2414df2dffce632858816e614"/>
+	</game>
+	<game name="Hibiki (19xx)(-)">
+		<description>Hibiki (19xx)(-)</description>
+		<rom name="Hibiki (19xx)(-).dim" size="1261824" crc="b94cb546" md5="d0d00c759a1b9185cacf15966ca2bf57" sha1="c70de68f37d7fdbbf5972f42295d49c92eaa3235"/>
+	</game>
+	<game name="Hidemaro CG (19xx)(Nasake Mugetsu)">
+		<description>Hidemaro CG (19xx)(Nasake Mugetsu)</description>
+		<rom name="Hidemaro CG (19xx)(Nasake Mugetsu).dim" size="1261824" crc="989d791e" md5="681b9928bd6ccd35f1943fb05c4f31d6" sha1="d5b6237ec72f2e8160a20af129b821cfecafcb75"/>
+	</game>
+	<game name="Intel Outside Vol. 3 (1994)(-)">
+		<description>Intel Outside Vol. 3 (1994)(-)</description>
+		<rom name="Intel Outside Vol. 3 (1994)(-).dim" size="1261824" crc="7caecdfe" md5="d21f369b4a6c12edcce7a95a1713a075" sha1="25fa72e43a5644eb3c79e6d00cb7820aa3fbd458"/>
+	</game>
+	<game name="Ion (19xx)(Hypa Soft)">
+		<description>Ion (19xx)(Hypa Soft)</description>
+		<rom name="Ion (19xx)(Hypa Soft).dim" size="1261824" crc="0f04c2de" md5="3e63ac8db8bb78960694571131792f55" sha1="b97d4b407613231fff95faa6ea8ad69827f9b949"/>
+	</game>
+	<game name="Jouchuu Puri Puri Hakase (1993)(-)">
+		<description>Jouchuu Puri Puri Hakase (1993)(-)</description>
+		<rom name="Jouchuu Puri Puri Hakase (1993)(-).dim" size="1261824" crc="018ae397" md5="6c161ad5fd98bf7eab3750c17a9b3a54" sha1="627748b03e96a7bbc398fa2d7e120a094a1e96bf"/>
+	</game>
+	<game name="Kazuki Kaho CG Shuu (199x)(Kazuki Kaho)">
+		<description>Kazuki Kaho CG Shuu (199x)(Kazuki Kaho)</description>
+		<rom name="Kazuki Kaho CG Shuu (199x)(Kazuki Kaho).dim" size="1261824" crc="4c73428b" md5="ea1e0454ece22a776ca1e23985bd41b7" sha1="4608979c5ae82c6a882ff5cc6e6ca3b8bbb79fcf"/>
+	</game>
+	<game name="Kin Kaese Pro-68K &amp; Uhyohyo Na CG Shuu (199x)(-)">
+		<description>Kin Kaese Pro-68K &amp; Uhyohyo Na CG Shuu (199x)(-)</description>
+		<rom name="Kin Kaese Pro-68K &amp; Uhyohyo Na CG Shuu (199x)(-).dim" size="1261824" crc="fd51340d" md5="6265a7e58d70172364bd19ef97d40379" sha1="4ebef1017d1ca3715283c6af0613be290ac265d2"/>
+	</game>
+	<game name="Kingyou Hime (199x)(Nasake Mugetsu)(Disk 1 of 2)(Disk A)">
+		<description>Kingyou Hime (199x)(Nasake Mugetsu)(Disk 1 of 2)(Disk A)</description>
+		<rom name="Kingyou Hime (199x)(Nasake Mugetsu)(Disk 1 of 2)(Disk A).dim" size="1261824" crc="8f9ac864" md5="1cf5fcbc3feb95fe1df0ff5ed8d8cf62" sha1="9461097dcea11a230c5035ab2bfb4469ea81951e"/>
+	</game>
+	<game name="Kingyou Hime (199x)(Nasake Mugetsu)(Disk 2 of 2)(Disk B)">
+		<description>Kingyou Hime (199x)(Nasake Mugetsu)(Disk 2 of 2)(Disk B)</description>
+		<rom name="Kingyou Hime (199x)(Nasake Mugetsu)(Disk 2 of 2)(Disk B).dim" size="1261824" crc="508c550d" md5="267cf46d5237e57498e8ca44238ee861" sha1="b63d4df33887e00aeed9e528767f0901a3c98e36"/>
+	</game>
+	<game name="Kiss System Cham Cham (199x)(-)">
+		<description>Kiss System Cham Cham (199x)(-)</description>
+		<rom name="Kiss System Cham Cham (199x)(-).dim" size="1261824" crc="f60634d7" md5="c330f428c18d8bc21d2f78fc23a20a10" sha1="5bb25fb563f7224214af701b9a75830ff1d60fe6"/>
+	</game>
+	<game name="Konami Driver (19xx)(-)(Disk 1 of 2)(Disk A)">
+		<description>Konami Driver (19xx)(-)(Disk 1 of 2)(Disk A)</description>
+		<rom name="Konami Driver (19xx)(-)(Disk 1 of 2)(Disk A).dim" size="1261824" crc="1f149d2b" md5="96717cbc2ecabb495aadf17fdf6962cd" sha1="80d043c747d24b6cca4e6a170bed2c6406aa45ff"/>
+	</game>
+	<game name="Konami Driver (19xx)(-)(Disk 2 of 2)(Disk B)">
+		<description>Konami Driver (19xx)(-)(Disk 2 of 2)(Disk B)</description>
+		<rom name="Konami Driver (19xx)(-)(Disk 2 of 2)(Disk B).dim" size="1261824" crc="ad34fdc0" md5="94b4c81b9b4d43d4556d5023570c991f" sha1="93fdd871f6ab2a233a811344d673203818419ef4"/>
+	</game>
+	<game name="Lemon Angel Graphics (1989)(-)">
+		<description>Lemon Angel Graphics (1989)(-)</description>
+		<rom name="Lemon Angel Graphics (1989)(-).dim" size="1261824" crc="68f52a0d" md5="e1f5f3dec4af725263e8dc346c62ac4e" sha1="a923d9c426ad52650624c6694f78f4a1185ccf14"/>
+	</game>
+	<game name="Lemon Angel Graphics No. 2 (1989)(-)">
+		<description>Lemon Angel Graphics No. 2 (1989)(-)</description>
+		<rom name="Lemon Angel Graphics No. 2 (1989)(-).dim" size="1261824" crc="a203328b" md5="2e9a81bd3bb93ba162ebeaffe51cba27" sha1="d93731f0a280f63da16792be3e11b5429c1c4f39"/>
+	</game>
+	<game name="Lemon Angel Vol. 3 (19xx)(-)">
+		<description>Lemon Angel Vol. 3 (19xx)(-)</description>
+		<rom name="Lemon Angel Vol. 3 (19xx)(-).dim" size="1261824" crc="e1fe07f2" md5="4ac3833da18fa1ad8b42be749ae5b6b7" sha1="fcdef2034e4ccd6a4e66544a77c9b403207f445d"/>
+	</game>
+	<game name="Lilica SOS TV-Opening (199x)(-)(Disk 1 of 2)(Disk A)">
+		<description>Lilica SOS TV-Opening (199x)(-)(Disk 1 of 2)(Disk A)</description>
+		<rom name="Lilica SOS TV-Opening (199x)(-)(Disk 1 of 2)(Disk A).dim" size="1474816" crc="d2fead00" md5="3909f5a8f34002c5a565514e08ec1542" sha1="d80dcc641e8c1cf5252c201ba560c70af5ad30ae"/>
+	</game>
+	<game name="Lilica SOS TV-Opening (199x)(-)(Disk 2 of 2)(Disk B)">
+		<description>Lilica SOS TV-Opening (199x)(-)(Disk 2 of 2)(Disk B)</description>
+		<rom name="Lilica SOS TV-Opening (199x)(-)(Disk 2 of 2)(Disk B).dim" size="1474816" crc="51ba47f2" md5="f8c556392829672f6f2f26fb2985eead" sha1="6ee2d1f670147857b2be75f2806470279ff79b5d"/>
+	</game>
+	<game name="Live Resolution (199x)(Kim)">
+		<description>Live Resolution (199x)(Kim)</description>
+		<rom name="Live Resolution (199x)(Kim).dim" size="1261824" crc="b15d21cb" md5="1f57bb00eef44a03713b7ccce1a39d4b" sha1="5daa756a97e02a7aab5a5f2a6f0895fd2e94530a"/>
+	</game>
+	<game name="Macross Opening Demo (19xx)(-)">
+		<description>Macross Opening Demo (19xx)(-)</description>
+		<rom name="Macross Opening Demo (19xx)(-).dim" size="1261824" crc="77acc38e" md5="ce562d9f15730224e16413e093292b3a" sha1="b8c6df366d01f7d0c82b9b951df50e486b056d9f"/>
+	</game>
+	<game name="Mahoujin Guru Guru TV-Ending (199x)(-)(Disk 1 of 2)(Disk A)">
+		<description>Mahoujin Guru Guru TV-Ending (199x)(-)(Disk 1 of 2)(Disk A)</description>
+		<rom name="Mahoujin Guru Guru TV-Ending (199x)(-)(Disk 1 of 2)(Disk A).dim" size="1474816" crc="5f75e219" md5="374bb299fccc5d4a7b8fb1ab321d0161" sha1="6cdd8b08b7a96934512ab6a2a97b31bd610e0d15"/>
+	</game>
+	<game name="Mahoujin Guru Guru TV-Ending (199x)(-)(Disk 2 of 2)(Disk B)">
+		<description>Mahoujin Guru Guru TV-Ending (199x)(-)(Disk 2 of 2)(Disk B)</description>
+		<rom name="Mahoujin Guru Guru TV-Ending (199x)(-)(Disk 2 of 2)(Disk B).dim" size="1474816" crc="92debbea" md5="e2c1a91dfc634b1c33eb62527c533aef" sha1="4467df594dcdf5dd1855c7245b4ab92da7cef32f"/>
+	</game>
+	<game name="Mahoujin Guru Guru TV-Opening (199x)(-)(Disk 1 of 2)(Disk A)">
+		<description>Mahoujin Guru Guru TV-Opening (199x)(-)(Disk 1 of 2)(Disk A)</description>
+		<rom name="Mahoujin Guru Guru TV-Opening (199x)(-)(Disk 1 of 2)(Disk A).dim" size="1474816" crc="10476103" md5="3ce422a159c0a7105127af80e071c2dd" sha1="583afb4e3c508ce0d186d6365fdb7827cac6fec2"/>
+	</game>
+	<game name="Mahoujin Guru Guru TV-Opening (199x)(-)(Disk 2 of 2)(Disk B)">
+		<description>Mahoujin Guru Guru TV-Opening (199x)(-)(Disk 2 of 2)(Disk B)</description>
+		<rom name="Mahoujin Guru Guru TV-Opening (199x)(-)(Disk 2 of 2)(Disk B).dim" size="1474816" crc="8001a1a1" md5="364d1ece51388ab849dec8e971c86311" sha1="13bd2e116162e16ff8d5c95b047925dbfaec5efc"/>
+	</game>
+	<game name="Maimumai CG Shuu (199x)(Maim House)">
+		<description>Maimumai CG Shuu (199x)(Maim House)</description>
+		<rom name="Maimumai CG Shuu (199x)(Maim House).dim" size="1261824" crc="db86b7ea" md5="7e93f3a4ae6ce1f004eac1755cac4d40" sha1="70987e710d32c00e593007d5bb173d449f54a1de"/>
+	</game>
+	<game name="Maimumai CG Shuu 2 Nostalgy (199x)(Maim House)">
+		<description>Maimumai CG Shuu 2 Nostalgy (199x)(Maim House)</description>
+		<rom name="Maimumai CG Shuu 2 Nostalgy (199x)(Maim House).dim" size="1261824" crc="20e97aa2" md5="0ad84d3c31a4e14ac84f5d75bd657f07" sha1="73e8bb8c5821bf2734885433a3830d4826def729"/>
+	</game>
+	<game name="Maimumai CG Shuu 3 Run Ayazaki (199x)(Maim House)">
+		<description>Maimumai CG Shuu 3 Run Ayazaki (199x)(Maim House)</description>
+		<rom name="Maimumai CG Shuu 3 Run Ayazaki (199x)(Maim House).dim" size="1261824" crc="6293aef1" md5="be2bfab3e80d60d597ad242096909840" sha1="fed8e1884156753146937b1fb0709bad86a0a859"/>
+	</game>
+	<game name="Maimumai CG Shuu Gougai (199x)(Maim House)">
+		<description>Maimumai CG Shuu Gougai (199x)(Maim House)</description>
+		<rom name="Maimumai CG Shuu Gougai (199x)(Maim House).dim" size="1261824" crc="75d70cb3" md5="9c3423931eab3d823930d80a064b3c8b" sha1="ce6c1f5edff265098e58b3f27c512a5e7416169f"/>
+	</game>
+	<game name="Megumi Island CG Shuu Vol. 1 (1993)(Megumi Island)">
+		<description>Megumi Island CG Shuu Vol. 1 (1993)(Megumi Island)</description>
+		<rom name="Megumi Island CG Shuu Vol. 1 (1993)(Megumi Island).dim" size="1261824" crc="a00464d9" md5="a775d2dae84929ee7126fd1509801b32" sha1="f71dc15b9366e1ad4315b893cc1b78e14fa6a25c"/>
+	</game>
+	<game name="Meri Meri Pack C46 Gou (1994)(Sono Suji Soft)">
+		<description>Meri Meri Pack C46 Gou (1994)(Sono Suji Soft)</description>
+		<rom name="Meri Meri Pack C46 Gou (1994)(Sono Suji Soft).dim" size="1261824" crc="930441ef" md5="b20d3b616ea9c442aaef17530319d5e1" sha1="b439a8e70759876abe92c9e44e2136a08f7a9c3d"/>
+	</game>
+	<game name="Meri Meri Pack C47 Gou (1994)(Sono Suji Soft)">
+		<description>Meri Meri Pack C47 Gou (1994)(Sono Suji Soft)</description>
+		<rom name="Meri Meri Pack C47 Gou (1994)(Sono Suji Soft).dim" size="1261824" crc="67c06b84" md5="c6dcb0c83bcc5559f06a2491da0298f8" sha1="79975dc7f89ec5ffc96c04a85efaa94de81de329"/>
+	</game>
+	<game name="Mikan Seijin Arawaru! (19xx)(Rero Rero)">
+		<description>Mikan Seijin Arawaru! (19xx)(Rero Rero)</description>
+		<rom name="Mikan Seijin Arawaru! (19xx)(Rero Rero).dim" size="1261824" crc="766076fd" md5="65235e9bc3a2c5a98e7e61e3beac8b5d" sha1="01791409d36e644b9aecc0e78a1f3032f7b4160a"/>
+	</game>
+	<game name="Millenium Sennen Oukoku (199x)(Jaora Do Kariosutoro)">
+		<description>Millenium Sennen Oukoku (199x)(Jaora Do Kariosutoro)</description>
+		<rom name="Millenium Sennen Oukoku (199x)(Jaora Do Kariosutoro).dim" size="1261824" crc="6ce1a3be" md5="489e7a5d1967d7bc3e8617c74b0efd32" sha1="9f1cd4824521b84c3a010499997c8b2f96013e15"/>
+	</game>
+	<game name="Miyagoe CG Shuu '94 Fuyu (1994)(Miyagoe)">
+		<description>Miyagoe CG Shuu '94 Fuyu (1994)(Miyagoe)</description>
+		<rom name="Miyagoe CG Shuu '94 Fuyu (1994)(Miyagoe).dim" size="1261824" crc="0d579ae5" md5="3fb9eaa0e728d431f9fa5ceabfb6f130" sha1="8989c12ccbe5991e0a5740c9314cb7591301965e"/>
+	</game>
+	<game name="Miyuki No CG Shuu Vol. 1 (19xx)(Cote D' Azur)(Disk 1 of 2)">
+		<description>Miyuki No CG Shuu Vol. 1 (19xx)(Cote D' Azur)(Disk 1 of 2)</description>
+		<rom name="Miyuki No CG Shuu Vol. 1 (19xx)(Cote D' Azur)(Disk 1 of 2).dim" size="1261824" crc="45c664df" md5="063135fec38c43a3cf39f358c37a2734" sha1="cd50d0e4fcfd3b0e862e16f7264224f8017b65b5"/>
+	</game>
+	<game name="Miyuki No CG Shuu Vol. 1 (19xx)(Cote D' Azur)(Disk 2 of 2)">
+		<description>Miyuki No CG Shuu Vol. 1 (19xx)(Cote D' Azur)(Disk 2 of 2)</description>
+		<rom name="Miyuki No CG Shuu Vol. 1 (19xx)(Cote D' Azur)(Disk 2 of 2).dim" size="1261824" crc="600dc6b9" md5="230d563120361a8cdb1ca7ed759c1fa7" sha1="dbd8c4934a90eb7e1ebddade94e089638c4c575e"/>
+	</game>
+	<game name="Mizugi Paradise (19xx)(-)">
+		<description>Mizugi Paradise (19xx)(-)</description>
+		<rom name="Mizugi Paradise (19xx)(-).dim" size="1261824" crc="c834839f" md5="d118976977678079336217e7ef1a9aea" sha1="f6ba866afbb60746931c6c793964b71b64e39a6e"/>
+	</game>
+	<game name="MMDSP (1997)(Miahmie - Gao)">
+		<description>MMDSP (1997)(Miahmie - Gao)</description>
+		<rom name="MMDSP (1997)(Miahmie - Gao).dim" size="1261824" crc="5e31282d" md5="b749c7ad96d92b10d2e49d07bfcf6c21" sha1="9e81f485a7db99183dc205048c40c68b93a3d351"/>
+	</game>
+	<game name="Momotarou Densetsu 91 (1991)(Ran Masume)">
+		<description>Momotarou Densetsu 91 (1991)(Ran Masume)</description>
+		<rom name="Momotarou Densetsu 91 (1991)(Ran Masume).dim" size="1261824" crc="58962964" md5="3d7f6e76d79d77c01feb543219803129" sha1="5ac8e212b986593e17807f4c209483dc6b747bd6"/>
+	</game>
+	<game name="Monotone Club 4 Himitsu Genga Shuu (199x)(Kaabanguru Club)">
+		<description>Monotone Club 4 Himitsu Genga Shuu (199x)(Kaabanguru Club)</description>
+		<rom name="Monotone Club 4 Himitsu Genga Shuu (199x)(Kaabanguru Club).dim" size="1261824" crc="57498a5e" md5="4e084ff7c0d801eb22fa9dca6dc7490e" sha1="839bbaf24aadefa45c014097aed884eaa86cddef"/>
+	</game>
+	<game name="Monotone Club Vol. 3 (199x)(Kaabanguru Club)">
+		<description>Monotone Club Vol. 3 (199x)(Kaabanguru Club)</description>
+		<rom name="Monotone Club Vol. 3 (199x)(Kaabanguru Club).dim" size="1261824" crc="9a875f30" md5="7197862581e869905e52e0e6bc37898d" sha1="f88f462305a6cb27da7a7a8653833d359fc90365"/>
+	</game>
+	<game name="Monotone Club Vol. 4 (199x)(Kaabanguru Club)">
+		<description>Monotone Club Vol. 4 (199x)(Kaabanguru Club)</description>
+		<rom name="Monotone Club Vol. 4 (199x)(Kaabanguru Club).dim" size="1261824" crc="d688d2b3" md5="37880f0145547c71255b30650b02c79a" sha1="016b93179351b75942e37ee5625fcb39c0fb13d2"/>
+	</game>
+	<game name="Mushume Spirits (1994)(DAP)">
+		<description>Mushume Spirits (1994)(DAP)</description>
+		<rom name="Mushume Spirits (1994)(DAP).dim" size="1261824" crc="38d0647f" md5="63cef22a9d12519fb9c214eac3774211" sha1="b26f178f79011e63b7164122d304a7aebffe16f4"/>
+	</game>
+	<game name="Music Box X68K (19xx)(Orphe)">
+		<description>Music Box X68K (19xx)(Orphe)</description>
+		<rom name="Music Box X68K (19xx)(Orphe).dim" size="1261824" crc="77c7b1d9" md5="a5d753cdd471d64727659361211c424b" sha1="611932b1aaad2cd8ed0a3184b8426bfad0f430bb"/>
+	</game>
+	<game name="Namco System I Ongakuen Disk Dayoon (199x)(-)">
+		<description>Namco System I Ongakuen Disk Dayoon (199x)(-)</description>
+		<rom name="Namco System I Ongakuen Disk Dayoon (199x)(-).dim" size="1261824" crc="4026376a" md5="a37b7a32e9871e964e41ec39658b9c04" sha1="f8f2c6dbcf1f8e1095647ea5249ca34f85c34f9f"/>
+	</game>
+	<game name="Namco Video Game Music Library Vol. 1 (1989)(Dempa)">
+		<description>Namco Video Game Music Library Vol. 1 (1989)(Dempa)</description>
+		<rom name="Namco Video Game Music Library Vol. 1 (1989)(Dempa).dim" size="1261824" crc="7c72e2d0" md5="adff55de277d1dec6e0ea058e556c14d" sha1="4deb965ea91724fffc12aa4782e9bae163f39ae1"/>
+	</game>
+	<game name="Namco Video Game Music Library Vol. 1 (1989)(Dempa)[a2]">
+		<description>Namco Video Game Music Library Vol. 1 (1989)(Dempa)[a2]</description>
+		<rom name="Namco Video Game Music Library Vol. 1 (1989)(Dempa)[a2].dim" size="1261824" crc="bc1ad7ff" md5="c6202721f2f174b334ea83127c720eed" sha1="f93ff7c6c7a5d4f0214d2318c3c114e040c49213"/>
+	</game>
+	<game name="Namco Video Game Music Library Vol. 1 (1989)(Dempa)[a3]">
+		<description>Namco Video Game Music Library Vol. 1 (1989)(Dempa)[a3]</description>
+		<rom name="Namco Video Game Music Library Vol. 1 (1989)(Dempa)[a3].dim" size="1261824" crc="4d4227da" md5="4524f2ffa0f675b1bda61365623fbef1" sha1="733b23a8e4769befe9717e8c6d6db881186417c5"/>
+	</game>
+	<game name="Namco Video Game Music Library Vol. 1 (1989)(Dempa)[a]">
+		<description>Namco Video Game Music Library Vol. 1 (1989)(Dempa)[a]</description>
+		<rom name="Namco Video Game Music Library Vol. 1 (1989)(Dempa)[a].dim" size="1261824" crc="a3999a9f" md5="6aba29efb4114aaeae14230d7b20ca8b" sha1="f9f2656ffcf62a0fa520d0957c6b3948712d02bf"/>
+	</game>
+	<game name="Natsu Shoujo (199x)(CGB)">
+		<description>Natsu Shoujo (199x)(CGB)</description>
+		<rom name="Natsu Shoujo (199x)(CGB).dim" size="1261824" crc="ac192e37" md5="5959d71e66db9df1b0a467d59fa82c06" sha1="645fbaf52c7c2a9d5cb8adbc8dd6b2559f0593e2"/>
+	</game>
+	<game name="Nbee (19xx)(-)">
+		<description>Nbee (19xx)(-)</description>
+		<rom name="Nbee (19xx)(-).dim" size="1261824" crc="2f51796e" md5="2d1666707f92f738ffe2332ac19267a0" sha1="6396b8a6727cb921184787e5a80508679f499b66"/>
+	</game>
+	<game name="Needle Garden Vol. 1 (19xx)(Needle Garden)">
+		<description>Needle Garden Vol. 1 (19xx)(Needle Garden)</description>
+		<rom name="Needle Garden Vol. 1 (19xx)(Needle Garden).dim" size="1261824" crc="cb679607" md5="82fd66bbc5a1f259db202f2028da6f38" sha1="b793b93f24fe8ff8609658c318b52935db65ba96"/>
+	</game>
+	<game name="Non Section Vol. 2 (19xx)(SPC-Soft)">
+		<description>Non Section Vol. 2 (19xx)(SPC-Soft)</description>
+		<rom name="Non Section Vol. 2 (19xx)(SPC-Soft).dim" size="1261824" crc="c8a5b853" md5="fe6b4903624ef26be76eeb6a7546b8f1" sha1="52d8dd94fa4f00678ab7a23c1615ace0a69ab5b6"/>
+	</game>
+	<game name="Oh! Sono Suji Nurie-GT v1.70 (1993)(Sono Suji Soft)(Disk 1 of 2)(Disk A)">
+		<description>Oh! Sono Suji Nurie-GT v1.70 (1993)(Sono Suji Soft)(Disk 1 of 2)(Disk A)</description>
+		<rom name="Oh! Sono Suji Nurie-GT v1.70 (1993)(Sono Suji Soft)(Disk 1 of 2)(Disk A).dim" size="1261824" crc="6541b782" md5="899aa9ae00d0fee6ccd775aed3799766" sha1="315a84b7522247c94a0a8dc0d1b00ae8faa6d448"/>
+	</game>
+	<game name="Oh! Sono Suji Nurie-GT v1.70 (1993)(Sono Suji Soft)(Disk 2 of 2)(Disk B)">
+		<description>Oh! Sono Suji Nurie-GT v1.70 (1993)(Sono Suji Soft)(Disk 2 of 2)(Disk B)</description>
+		<rom name="Oh! Sono Suji Nurie-GT v1.70 (1993)(Sono Suji Soft)(Disk 2 of 2)(Disk B).dim" size="1261824" crc="84194fed" md5="ff6077188298c8534303d77a97e31c62" sha1="886e3cb9fd98098bad01e580f73de9ef546ce1f6"/>
+	</game>
+	<game name="Oh! Sono Suji Soukan Dainigou Nurie Tokushuu Gou (1992)(Sono Suji Soft)">
+		<description>Oh! Sono Suji Soukan Dainigou Nurie Tokushuu Gou (1992)(Sono Suji Soft)</description>
+		<rom name="Oh! Sono Suji Soukan Dainigou Nurie Tokushuu Gou (1992)(Sono Suji Soft).dim" size="1261824" crc="fdb092e8" md5="78a20be3f09221dad874bdc5e077b1e8" sha1="fe67422046263e1b309e0d55cdd0d82e770f2688"/>
+	</game>
+	<game name="Oh! Sono Suji Special Vol. 1 CG Shuu (1992)(Sono Suji Soft)">
+		<description>Oh! Sono Suji Special Vol. 1 CG Shuu (1992)(Sono Suji Soft)</description>
+		<rom name="Oh! Sono Suji Special Vol. 1 CG Shuu (1992)(Sono Suji Soft).dim" size="1261824" crc="794f322b" md5="92b76b4e5a6292b6cec8d02510ed629c" sha1="b8e775131be3e7b4dbcddedf89473856b4939d07"/>
+	</game>
+	<game name="Oh! Sono Suji Vol. 3 Nurie-GT PS256 (1993)(Sono Suji Soft)">
+		<description>Oh! Sono Suji Vol. 3 Nurie-GT PS256 (1993)(Sono Suji Soft)</description>
+		<rom name="Oh! Sono Suji Vol. 3 Nurie-GT PS256 (1993)(Sono Suji Soft).dim" size="1261824" crc="f536a61a" md5="e94b2fe815e6e37f8289e0657b7c0965" sha1="5b66a6c2bf727bb855715e1878f6f0eccfa5e2ef"/>
+	</game>
+	<game name="Ongaku Shoujo (199x)(CGB)(Disk 1 of 2)(Disk A)">
+		<description>Ongaku Shoujo (199x)(CGB)(Disk 1 of 2)(Disk A)</description>
+		<rom name="Ongaku Shoujo (199x)(CGB)(Disk 1 of 2)(Disk A).dim" size="1261824" crc="9caf17c9" md5="a565129451dabf657d78162f89de6863" sha1="17f1e5409a575b477ba2ebccee3270e83150fc60"/>
+	</game>
+	<game name="Ongaku Shoujo (199x)(CGB)(Disk 2 of 2)(Disk B)">
+		<description>Ongaku Shoujo (199x)(CGB)(Disk 2 of 2)(Disk B)</description>
+		<rom name="Ongaku Shoujo (199x)(CGB)(Disk 2 of 2)(Disk B).dim" size="1261824" crc="6986818c" md5="1f9854ec78e71e5cd97719c94734c3c5" sha1="93aba862f9117eac27f066e77d22ac0a823ffa80"/>
+	</game>
+	<game name="Original CG Collection By Kugi (1991)(Neo Soft)(Disk 1 of 2)">
+		<description>Original CG Collection By Kugi (1991)(Neo Soft)(Disk 1 of 2)</description>
+		<rom name="Original CG Collection By Kugi (1991)(Neo Soft)(Disk 1 of 2).dim" size="1261824" crc="eb785057" md5="650ef208dab07ef2fda32ab16fed8498" sha1="1b31dc3c09ae08f295068cfcfadc22c3f1f06b47"/>
+	</game>
+	<game name="Original CG Collection By Kugi (1991)(Neo Soft)(Disk 2 of 2)">
+		<description>Original CG Collection By Kugi (1991)(Neo Soft)(Disk 2 of 2)</description>
+		<rom name="Original CG Collection By Kugi (1991)(Neo Soft)(Disk 2 of 2).dim" size="1261824" crc="9a5a4a4d" md5="158ee2b6b1975d69a4e08b5a78e902e7" sha1="c13d21b63b62d07754548f093e57d6e4d09fc3f4"/>
+	</game>
+	<game name="Oshioki CG Shuu (1992)(Fumiriro Koubou)">
+		<description>Oshioki CG Shuu (1992)(Fumiriro Koubou)</description>
+		<rom name="Oshioki CG Shuu (1992)(Fumiriro Koubou).dim" size="1261824" crc="c11b321b" md5="2b19fb9231ad14122fc50be2ea15eba0" sha1="d24157a7329abdbd7e15ef75f9206ef686e20a03"/>
+	</game>
+	<game name="Para Para Manga Soft Atashi No Papipupepo (1991)(Black FTZ)(Disk 1 of 2)(Disk A)">
+		<description>Para Para Manga Soft Atashi No Papipupepo (1991)(Black FTZ)(Disk 1 of 2)(Disk A)</description>
+		<rom name="Para Para Manga Soft Atashi No Papipupepo (1991)(Black FTZ)(Disk 1 of 2)(Disk A).dim" size="1261824" crc="6d040dc0" md5="2f75bce90b0b7d2c2fbe63538d350742" sha1="525d84cb4fe613a285ad3f1c1c40094a1f62b030"/>
+	</game>
+	<game name="Para Para Manga Soft Atashi No Papipupepo (1991)(Black FTZ)(Disk 1 of 2)(Disk A)[a]">
+		<description>Para Para Manga Soft Atashi No Papipupepo (1991)(Black FTZ)(Disk 1 of 2)(Disk A)[a]</description>
+		<rom name="Para Para Manga Soft Atashi No Papipupepo (1991)(Black FTZ)(Disk 1 of 2)(Disk A)[a].dim" size="1261824" crc="b3a59a19" md5="4d6f9dad95fbab71e9a5da91a77e58a0" sha1="cdb6dd68449678021d73f50d5201fc757a4d6db8"/>
+	</game>
+	<game name="Para Para Manga Soft Atashi No Papipupepo (1991)(Black FTZ)(Disk 2 of 2)(Disk B)">
+		<description>Para Para Manga Soft Atashi No Papipupepo (1991)(Black FTZ)(Disk 2 of 2)(Disk B)</description>
+		<rom name="Para Para Manga Soft Atashi No Papipupepo (1991)(Black FTZ)(Disk 2 of 2)(Disk B).dim" size="1261824" crc="0920360a" md5="c1e2ca191fcb6c7bc67539a935c8375d" sha1="00d17c59bdaeec3222d63412035a00429edfcb59"/>
+	</game>
+	<game name="Para Para Manga Soft Sekaiichi No Kagakusha (1990)(Black FTZ)">
+		<description>Para Para Manga Soft Sekaiichi No Kagakusha (1990)(Black FTZ)</description>
+		<rom name="Para Para Manga Soft Sekaiichi No Kagakusha (1990)(Black FTZ).dim" size="1261824" crc="dcca4eac" md5="a2a2e160cafef3b8e806104a6ed1538d" sha1="95e73edeb06bb7c0513af0fa24f241faa21266bc"/>
+	</game>
+	<game name="Para Para Manga Soft Tennen Sha No Jitsu Natera (1990)(Black FTZ)">
+		<description>Para Para Manga Soft Tennen Sha No Jitsu Natera (1990)(Black FTZ)</description>
+		<rom name="Para Para Manga Soft Tennen Sha No Jitsu Natera (1990)(Black FTZ).dim" size="1261824" crc="522c8a33" md5="d6ebfb0fb7df0723edb56c0264d531fd" sha1="416404aecf9b9a0cf7ffd13d6999c7117d78612e"/>
+	</game>
+	<game name="Pretty Chunli Kiseru Kae Set (19xx)(Shinba)">
+		<description>Pretty Chunli Kiseru Kae Set (19xx)(Shinba)</description>
+		<rom name="Pretty Chunli Kiseru Kae Set (19xx)(Shinba).dim" size="1261824" crc="9682df6d" md5="6e6cbb328eb19bc666f4a8f6ce5a0a92" sha1="c321b61c435d5f5741e3587e69031e84652733f7"/>
+	</game>
+	<game name="Puni Puni CG Shuu (199x)(Oguchin)">
+		<description>Puni Puni CG Shuu (199x)(Oguchin)</description>
+		<rom name="Puni Puni CG Shuu (199x)(Oguchin).dim" size="1261824" crc="73e7e715" md5="90332ec3534deed8cdc96de51f3f5399" sha1="c449e35168ab92ea8b55078bcac84aef00334546"/>
+	</game>
+	<game name="Puri Puri Hakase (19xx)(IJI Team)">
+		<description>Puri Puri Hakase (19xx)(IJI Team)</description>
+		<rom name="Puri Puri Hakase (19xx)(IJI Team).dim" size="1261824" crc="b7f61898" md5="aea2abb8ab08e49bf4ab9fe37d73d84a" sha1="fba556bc578a4a0277de4a64da67a3b85db328b5"/>
+	</game>
+	<game name="Rainbow.x (19xx)(KimT)">
+		<description>Rainbow.x (19xx)(KimT)</description>
+		<rom name="Rainbow.x (19xx)(KimT).dim" size="1261824" crc="52ef0134" md5="5a2c2fc09df53e4c99a744fd984fb172" sha1="4cfc05cbc77c4324291814932d2c6153b4f748c9"/>
+	</game>
+	<game name="Rayearth TV-Opening (199x)(-)(Disk 1 of 2)(Disk A)">
+		<description>Rayearth TV-Opening (199x)(-)(Disk 1 of 2)(Disk A)</description>
+		<rom name="Rayearth TV-Opening (199x)(-)(Disk 1 of 2)(Disk A).dim" size="1474816" crc="b28c3131" md5="eba2d263aed6a8a2013ecd3f6b9b21d6" sha1="0f64ced11ee66f723507dab21ae4d4f40ef3e6fd"/>
+	</game>
+	<game name="Rayearth TV-Opening (199x)(-)(Disk 2 of 2)(Disk B)">
+		<description>Rayearth TV-Opening (199x)(-)(Disk 2 of 2)(Disk B)</description>
+		<rom name="Rayearth TV-Opening (199x)(-)(Disk 2 of 2)(Disk B).dim" size="1474816" crc="796bdf9c" md5="7abea6055419fd6109c6c64e37daad8a" sha1="69d26593fd18741002e3eb372d6d5188fd236a3f"/>
+	</game>
+	<game name="Re Ci Pe (1993)(Shio Uneo)">
+		<description>Re Ci Pe (1993)(Shio Uneo)</description>
+		<rom name="Re Ci Pe (1993)(Shio Uneo).dim" size="1261824" crc="3c4957cb" md5="f7de46e318d50fb2c9612beec2f040f1" sha1="1b5fb6b1e8ca3912cb2a772a19e6eebb50be77c8"/>
+	</game>
+	<game name="Reitore Anime 09 (199x)(Suigin Systems)(Disk 1 of 2)(Disk A)">
+		<description>Reitore Anime 09 (199x)(Suigin Systems)(Disk 1 of 2)(Disk A)</description>
+		<rom name="Reitore Anime 09 (199x)(Suigin Systems)(Disk 1 of 2)(Disk A).dim" size="1261824" crc="58ab9626" md5="6683286f7c8d34214c30869027e0efb0" sha1="b732e5d9a67ed8652164883edad112080e10e8bb"/>
+	</game>
+	<game name="Reitore Anime 09 (199x)(Suigin Systems)(Disk 2 of 2)(Disk B)">
+		<description>Reitore Anime 09 (199x)(Suigin Systems)(Disk 2 of 2)(Disk B)</description>
+		<rom name="Reitore Anime 09 (199x)(Suigin Systems)(Disk 2 of 2)(Disk B).dim" size="1261824" crc="57ca28f4" md5="be372fb63151412011be14e790990445" sha1="ca4bad87c639ce41bb04b2a257cf6c7b2c4eb76d"/>
+	</game>
+	<game name="Reitore Anime 10 (199x)(Suigin Systems)(Disk 1 of 2)(Disk A)">
+		<description>Reitore Anime 10 (199x)(Suigin Systems)(Disk 1 of 2)(Disk A)</description>
+		<rom name="Reitore Anime 10 (199x)(Suigin Systems)(Disk 1 of 2)(Disk A).dim" size="1261824" crc="f7ea819f" md5="d8eaa2b47bf8a2aa1e87fc736f9bcbd1" sha1="b07f2a4fd855b57fd2d959861be2373792e812d7"/>
+	</game>
+	<game name="Reitore Anime 10 (199x)(Suigin Systems)(Disk 2 of 2)(Disk B)">
+		<description>Reitore Anime 10 (199x)(Suigin Systems)(Disk 2 of 2)(Disk B)</description>
+		<rom name="Reitore Anime 10 (199x)(Suigin Systems)(Disk 2 of 2)(Disk B).dim" size="1261824" crc="dad3828d" md5="9b1fa8f45f3abcc491645b2165fed2b7" sha1="6dc2dbcbfe844149083a3f83287542227da137c0"/>
+	</game>
+	<game name="Reitore Anime 11 (199x)(Suigin Systems)(Disk 1 of 2)(Disk A)">
+		<description>Reitore Anime 11 (199x)(Suigin Systems)(Disk 1 of 2)(Disk A)</description>
+		<rom name="Reitore Anime 11 (199x)(Suigin Systems)(Disk 1 of 2)(Disk A).dim" size="1261824" crc="e2052fdf" md5="9cfea6de73df0aea41fff626fd3d6b07" sha1="64aefa4c6236380a8df56e597089478d05480624"/>
+	</game>
+	<game name="Reitore Anime 11 (199x)(Suigin Systems)(Disk 2 of 2)(Disk B)">
+		<description>Reitore Anime 11 (199x)(Suigin Systems)(Disk 2 of 2)(Disk B)</description>
+		<rom name="Reitore Anime 11 (199x)(Suigin Systems)(Disk 2 of 2)(Disk B).dim" size="1261824" crc="a0cff1a9" md5="a36391abab3dc4d338da1d0239891574" sha1="f83551b1ee4bd7d3ca795e6640a6aa4fd7286f14"/>
+	</game>
+	<game name="Reitore Anime 12 (199x)(Suigin Systems)(Disk 1 of 2)(Disk A)">
+		<description>Reitore Anime 12 (199x)(Suigin Systems)(Disk 1 of 2)(Disk A)</description>
+		<rom name="Reitore Anime 12 (199x)(Suigin Systems)(Disk 1 of 2)(Disk A).dim" size="1261824" crc="0f425341" md5="adcddeedcf38db7c85a27338320af0c6" sha1="82da8721449f033ab1f68593304d519572ed95cd"/>
+	</game>
+	<game name="Reitore Anime 12 (199x)(Suigin Systems)(Disk 2 of 2)(Disk B)">
+		<description>Reitore Anime 12 (199x)(Suigin Systems)(Disk 2 of 2)(Disk B)</description>
+		<rom name="Reitore Anime 12 (199x)(Suigin Systems)(Disk 2 of 2)(Disk B).dim" size="1261824" crc="1f5e464f" md5="fe4034bd06abb1b23e71f138394b9697" sha1="768a01723fee6e3e40f1ec7ff55d18e79bbdf14f"/>
+	</game>
+	<game name="Rennyuu Ichigo (1994)(DAP)">
+		<description>Rennyuu Ichigo (1994)(DAP)</description>
+		<rom name="Rennyuu Ichigo (1994)(DAP).dim" size="1261824" crc="48f0cb3b" md5="3c3b47d76f7b013134cb6fe752bf0f8b" sha1="de2609900e23bade298eaa7195b838f7e5a5e49f"/>
+	</game>
+	<game name="Ruumikku Icon (19xx)(-)">
+		<description>Ruumikku Icon (19xx)(-)</description>
+		<rom name="Ruumikku Icon (19xx)(-).dim" size="1261824" crc="3c3a2c82" md5="44e982f211c0ba10a2dd7907228d7722" sha1="eed1e9489661a5823bbf003c83349af9e060a3e8"/>
+	</game>
+	<game name="Ryukun (1991)(Goro - Z Factory)">
+		<description>Ryukun (1991)(Goro - Z Factory)</description>
+		<rom name="Ryukun (1991)(Goro - Z Factory).dim" size="1261824" crc="905ad18d" md5="32e5f612167eaeda52d5224c23f864ee" sha1="217a63a42b0463a58bac75c7771c979e2fb0ed8d"/>
+	</game>
+	<game name="Seiyuu Database No Bunkatsu (19xx)(-)">
+		<description>Seiyuu Database No Bunkatsu (19xx)(-)</description>
+		<rom name="Seiyuu Database No Bunkatsu (19xx)(-).dim" size="1261824" crc="31e6cb98" md5="9803141a26036a0d03df5d371ca914e8" sha1="7c5734daf68d5d36395edf07f11aa74e7841a405"/>
+	</game>
+	<game name="Shimon (19xx)(-)">
+		<description>Shimon (19xx)(-)</description>
+		<rom name="Shimon (19xx)(-).dim" size="1261824" crc="71c722ed" md5="612155f7c8f6f3141cab48821e4e173b" sha1="cb06fa11488541be5d53b7394800a7807a3213fb"/>
+	</game>
+	<game name="Shiro Neko Kan (199x)(Digital Art Plan)">
+		<description>Shiro Neko Kan (199x)(Digital Art Plan)</description>
+		<rom name="Shiro Neko Kan (199x)(Digital Art Plan).dim" size="1261824" crc="36cc0cc5" md5="d866f870430b97134d88162010331923" sha1="125df935bb66b4b235c9ce683e1e717c0a137fed"/>
+	</game>
+	<game name="Shoujo Garou Vol. 1 (19xx)(Maki Jin)">
+		<description>Shoujo Garou Vol. 1 (19xx)(Maki Jin)</description>
+		<rom name="Shoujo Garou Vol. 1 (19xx)(Maki Jin).dim" size="1261824" crc="3059a3be" md5="940c461c3ff07e38211c210eda7e7786" sha1="bc2fc38b63245db481d541c1b2d5bf8bc011ad70"/>
+	</game>
+	<game name="Sion (19xx)(-)">
+		<description>Sion (19xx)(-)</description>
+		<rom name="Sion (19xx)(-).dim" size="1261824" crc="5ec56730" md5="136c2dc643ed9248bd96a01c979343ec" sha1="ad80051eeb0c286d59e9b5b87599acf86c3bd9d1"/>
+	</game>
+	<game name="Slayers TV-Opening (199x)(-)(Disk 1 of 2)(Disk A)">
+		<description>Slayers TV-Opening (199x)(-)(Disk 1 of 2)(Disk A)</description>
+		<rom name="Slayers TV-Opening (199x)(-)(Disk 1 of 2)(Disk A).dim" size="1474816" crc="9188ffef" md5="cd1d175eb1720eb08fee997ff9958359" sha1="28f1d9d7846f704adec64bd7039c437fcebb67a2"/>
+	</game>
+	<game name="Slayers TV-Opening (199x)(-)(Disk 2 of 2)(Disk B)">
+		<description>Slayers TV-Opening (199x)(-)(Disk 2 of 2)(Disk B)</description>
+		<rom name="Slayers TV-Opening (199x)(-)(Disk 2 of 2)(Disk B).dim" size="1474816" crc="66c0e1bc" md5="bea09c6b4f683c5fd85d428c0b08c1e0" sha1="0470a462048267e0df328a3ed547c8b4958d17c1"/>
+	</game>
+	<game name="St. Valentine's Day (19xx)(-)">
+		<description>St. Valentine's Day (19xx)(-)</description>
+		<rom name="St. Valentine's Day (19xx)(-).dim" size="1261824" crc="27670d08" md5="356a6eba7257b6abd70352cecb84d92c" sha1="54de9c07aaa9274b6f43a01a54c3c0488e9bb951"/>
+	</game>
+	<game name="Super Nova (19xx)(Ten Ten)">
+		<description>Super Nova (19xx)(Ten Ten)</description>
+		<rom name="Super Nova (19xx)(Ten Ten).dim" size="1261824" crc="5559010f" md5="d491354c48c70a32e2605ec4f90d928e" sha1="a0a38255e81c82c298879a023f251c960f01fab6"/>
+	</game>
+	<game name="Suppon Daiou (1994)(Black Roper)">
+		<description>Suppon Daiou (1994)(Black Roper)</description>
+		<rom name="Suppon Daiou (1994)(Black Roper).dim" size="1261824" crc="90a067a2" md5="a1fc576ae25ebcdfe13054feb9966162" sha1="ac0066de3a2f297a8c7d94b10a5eaae0d23c3b5e"/>
+	</game>
+	<game name="Sweet Potato (19xx)(WLS)">
+		<description>Sweet Potato (19xx)(WLS)</description>
+		<rom name="Sweet Potato (19xx)(WLS).dim" size="1261824" crc="6c2d2c69" md5="32c753fb59b1027f31c13d8fb32564ca" sha1="46d93798d5f9968a4dda86f0acef3865d021993b"/>
+	</game>
+	<game name="Telenet Music Box (1989)(Telenet)">
+		<description>Telenet Music Box (1989)(Telenet)</description>
+		<rom name="Telenet Music Box (1989)(Telenet).dim" size="1261824" crc="aa4a9e70" md5="8e6d623128f741bbfbffd43ff85e6cef" sha1="0895fe122bd7d792a1419b43588c60806a698131"/>
+	</game>
+	<game name="Telenet Music Box (1989)(Telenet)[a]">
+		<description>Telenet Music Box (1989)(Telenet)[a]</description>
+		<rom name="Telenet Music Box (1989)(Telenet)[a].dim" size="1261824" crc="7459263a" md5="17660dfe89a19f03141e267b27b8e150" sha1="41804f90785082805df69a11f27995a5907d7dbf"/>
+	</game>
+	<game name="Theta (1995)(Tonbi)">
+		<description>Theta (1995)(Tonbi)</description>
+		<rom name="Theta (1995)(Tonbi).dim" size="1261824" crc="c31fac91" md5="72083e61085039d81451b8f827a9878d" sha1="7a497c5b9bd28ce310379d9e585dd3b57c25052b"/>
+	</game>
+	<game name="Torinosu Vol. 2 (1995)(Studio Trinos)(Disk 1 of 4)">
+		<description>Torinosu Vol. 2 (1995)(Studio Trinos)(Disk 1 of 4)</description>
+		<rom name="Torinosu Vol. 2 (1995)(Studio Trinos)(Disk 1 of 4).dim" size="1261824" crc="5dcdc68b" md5="f9ce2d7c6ae83bec76434254cb74457e" sha1="2402ab865b3fb88aa4afa436551d2fc7859845bd"/>
+	</game>
+	<game name="Torinosu Vol. 2 (1995)(Studio Trinos)(Disk 2 of 4)">
+		<description>Torinosu Vol. 2 (1995)(Studio Trinos)(Disk 2 of 4)</description>
+		<rom name="Torinosu Vol. 2 (1995)(Studio Trinos)(Disk 2 of 4).dim" size="1261824" crc="b21e8158" md5="f2c4ebeb16861e9934125281e9811a0c" sha1="0526ef7f2829330290bdfa32196d27f13ab28310"/>
+	</game>
+	<game name="Torinosu Vol. 2 (1995)(Studio Trinos)(Disk 3 of 4)">
+		<description>Torinosu Vol. 2 (1995)(Studio Trinos)(Disk 3 of 4)</description>
+		<rom name="Torinosu Vol. 2 (1995)(Studio Trinos)(Disk 3 of 4).dim" size="1261824" crc="cf0c7de4" md5="f15d3c3dd8baef1404813fe5cba34098" sha1="b88be7f05364930d43cc4839742c62b9b2eb1f72"/>
+	</game>
+	<game name="Torinosu Vol. 2 (1995)(Studio Trinos)(Disk 4 of 4)">
+		<description>Torinosu Vol. 2 (1995)(Studio Trinos)(Disk 4 of 4)</description>
+		<rom name="Torinosu Vol. 2 (1995)(Studio Trinos)(Disk 4 of 4).dim" size="1261824" crc="6dd2ba06" md5="392ff57f5a0946714125d9c9992c37b3" sha1="f6c89a5328d83f32e97880cc7e0e39128aec709d"/>
+	</game>
+	<game name="Toukyou Joshikou Seifuku Wo Meida Zukan (19xx)(System House Oh!)(Disk 1 of 3)(System)">
+		<description>Toukyou Joshikou Seifuku Wo Meida Zukan (19xx)(System House Oh!)(Disk 1 of 3)(System)</description>
+		<rom name="Toukyou Joshikou Seifuku Wo Meida Zukan (19xx)(System House Oh!)(Disk 1 of 3)(System).dim" size="1261824" crc="75eb3759" md5="6327df5d3a263d2db91b55e0105b0115" sha1="807a7f4959e2e55f2285d8fd1397c10e1ac6019b"/>
+	</game>
+	<game name="Toukyou Joshikou Seifuku Wo Meida Zukan (19xx)(System House Oh!)(Disk 2 of 3)(Disk 1)">
+		<description>Toukyou Joshikou Seifuku Wo Meida Zukan (19xx)(System House Oh!)(Disk 2 of 3)(Disk 1)</description>
+		<rom name="Toukyou Joshikou Seifuku Wo Meida Zukan (19xx)(System House Oh!)(Disk 2 of 3)(Disk 1).dim" size="1261824" crc="18590d6e" md5="cae3dfee6ec3ce97742a249761811e27" sha1="4104752de9d8cdc04d30d8f1ecf0de9661223a1d"/>
+	</game>
+	<game name="Toukyou Joshikou Seifuku Wo Meida Zukan (19xx)(System House Oh!)(Disk 3 of 3)(Disk 2)">
+		<description>Toukyou Joshikou Seifuku Wo Meida Zukan (19xx)(System House Oh!)(Disk 3 of 3)(Disk 2)</description>
+		<rom name="Toukyou Joshikou Seifuku Wo Meida Zukan (19xx)(System House Oh!)(Disk 3 of 3)(Disk 2).dim" size="1261824" crc="7a8994f3" md5="9d1862187bf7fd4f245606b232e6ee7b" sha1="a578c2c1cf11aa7d663cd8f4284d0cb30ff4bc16"/>
+	</game>
+	<game name="Toukyou Joshikou Seifuku Wo Meida Zukan 2 (19xx)(System House Oh!)(Disk 1 of 3)(System)">
+		<description>Toukyou Joshikou Seifuku Wo Meida Zukan 2 (19xx)(System House Oh!)(Disk 1 of 3)(System)</description>
+		<rom name="Toukyou Joshikou Seifuku Wo Meida Zukan 2 (19xx)(System House Oh!)(Disk 1 of 3)(System).dim" size="1261824" crc="ca258d85" md5="b0a60d74a2a32a1c698ae348aa796bdf" sha1="768c124448338482682cd90c49e9a6e11f9f0bf9"/>
+	</game>
+	<game name="Toukyou Joshikou Seifuku Wo Meida Zukan 2 (19xx)(System House Oh!)(Disk 2 of 3)(Disk 1)">
+		<description>Toukyou Joshikou Seifuku Wo Meida Zukan 2 (19xx)(System House Oh!)(Disk 2 of 3)(Disk 1)</description>
+		<rom name="Toukyou Joshikou Seifuku Wo Meida Zukan 2 (19xx)(System House Oh!)(Disk 2 of 3)(Disk 1).dim" size="1261824" crc="5e353cd3" md5="b8fae9bc22fc043bfe66454be3072083" sha1="b4d46aabbf36f944c6078a9eed6f9fec01ebf9f6"/>
+	</game>
+	<game name="Toukyou Joshikou Seifuku Wo Meida Zukan 2 (19xx)(System House Oh!)(Disk 3 of 3)(Disk 2)">
+		<description>Toukyou Joshikou Seifuku Wo Meida Zukan 2 (19xx)(System House Oh!)(Disk 3 of 3)(Disk 2)</description>
+		<rom name="Toukyou Joshikou Seifuku Wo Meida Zukan 2 (19xx)(System House Oh!)(Disk 3 of 3)(Disk 2).dim" size="1261824" crc="4904d2d8" md5="a848777b35da55ede2ead6c1b1b8e546" sha1="7d7f43333ff3730f8472c239f9ef15c2a4d3cddb"/>
+	</game>
+	<game name="Ugo Ugo Ruuga Namahousou Kinen (19xx)(IJI Team)">
+		<description>Ugo Ugo Ruuga Namahousou Kinen (19xx)(IJI Team)</description>
+		<rom name="Ugo Ugo Ruuga Namahousou Kinen (19xx)(IJI Team).dim" size="1261824" crc="38bfbef2" md5="0f00052ac5cb41cf9e42dbd521a6df21" sha1="278341bb878ec73b0f2bcbd6d3597fbb13e7db55"/>
+	</game>
+	<game name="Wandaa CG Shuu 1 &amp; 2 (199x)(Wanda)">
+		<description>Wandaa CG Shuu 1 &amp; 2 (199x)(Wanda)</description>
+		<rom name="Wandaa CG Shuu 1 &amp; 2 (199x)(Wanda).dim" size="1261824" crc="29d4c38d" md5="ec2a9e154db04eade9234a22a45d571c" sha1="28bf7ac4b1c3d8844e1813842bb809412011f054"/>
+	</game>
+	<game name="Wedding Peach TV-Opening (19xx)(-)(Disk 1 of 2)(Disk A)">
+		<description>Wedding Peach TV-Opening (19xx)(-)(Disk 1 of 2)(Disk A)</description>
+		<rom name="Wedding Peach TV-Opening (19xx)(-)(Disk 1 of 2)(Disk A).dim" size="1474816" crc="4e59faff" md5="888eb3ec55aa19f9468d665114308227" sha1="b05a4a159c4b6eb1d1b3bd376076460328eb8464"/>
+	</game>
+	<game name="Wedding Peach TV-Opening (19xx)(-)(Disk 2 of 2)(Disk B)">
+		<description>Wedding Peach TV-Opening (19xx)(-)(Disk 2 of 2)(Disk B)</description>
+		<rom name="Wedding Peach TV-Opening (19xx)(-)(Disk 2 of 2)(Disk B).dim" size="1474816" crc="f2e7d998" md5="c404eeb1d056c52f17f770970df3a528" sha1="d796507af17c4f7997126580cb81079761c77594"/>
+	</game>
+	<game name="X-Demo (1994)(Craftwork)">
+		<description>X-Demo (1994)(Craftwork)</description>
+		<rom name="X-Demo (1994)(Craftwork).dim" size="1261824" crc="e472b1d1" md5="c50b251921d9857971152a2e5ca580e2" sha1="0ccf7630ae20de7aa49bbe8888aa92710faa5b47"/>
+	</game>
+	<game name="X-Demo 3 Evergreen (1995)(Craftwork)">
+		<description>X-Demo 3 Evergreen (1995)(Craftwork)</description>
+		<rom name="X-Demo 3 Evergreen (1995)(Craftwork).dim" size="1261824" crc="8624aaa5" md5="0ef143fb55ce0c333124cce2c9bd615f" sha1="622cf6b338190e58937b0f47068e3c0c78ec17e8"/>
+	</game>
+	<game name="XCG Vol 2 (19xx)(Team-MS)">
+		<description>XCG Vol 2 (19xx)(Team-MS)</description>
+		<rom name="XCG Vol 2 (19xx)(Team-MS).dim" size="1261824" crc="e28da42a" md5="ca1c222df9f9ec1a56d47663537f80b2" sha1="4b9644258d684c100a9b0e807d2b2803549886f6"/>
+	</game>
+	<game name="Xexex Demo (19xx)(Team 067 Studio)">
+		<description>Xexex Demo (19xx)(Team 067 Studio)</description>
+		<rom name="Xexex Demo (19xx)(Team 067 Studio).dim" size="1261824" crc="e9a6b62e" md5="95bc6d161fb318c3537b1cbc5c10ccaf" sha1="53be29b51f7baa1c92e73d72e1170eed87af69eb"/>
+	</game>
+	<game name="Yaasan Vol. 2 (199x)(Yaasan)(Disk 1 of 3)(Disk A)">
+		<description>Yaasan Vol. 2 (199x)(Yaasan)(Disk 1 of 3)(Disk A)</description>
+		<rom name="Yaasan Vol. 2 (199x)(Yaasan)(Disk 1 of 3)(Disk A).dim" size="1261824" crc="e2090f76" md5="978ef053afa0e353443bdecc9f66e9ff" sha1="e8b3048d7510eb371e5b39acdce78f4f9295ae80"/>
+	</game>
+	<game name="Yaasan Vol. 2 (199x)(Yaasan)(Disk 2 of 3)(Disk B)">
+		<description>Yaasan Vol. 2 (199x)(Yaasan)(Disk 2 of 3)(Disk B)</description>
+		<rom name="Yaasan Vol. 2 (199x)(Yaasan)(Disk 2 of 3)(Disk B).dim" size="1261824" crc="f541add5" md5="7da65a5059757cf99f9f5fce4edddcf5" sha1="ea0bbbf7159e21c1e34b7e12926068b40a5b5f30"/>
+	</game>
+	<game name="Yaasan Vol. 2 (199x)(Yaasan)(Disk 3 of 3)(Disk C)">
+		<description>Yaasan Vol. 2 (199x)(Yaasan)(Disk 3 of 3)(Disk C)</description>
+		<rom name="Yaasan Vol. 2 (199x)(Yaasan)(Disk 3 of 3)(Disk C).dim" size="1261824" crc="711a8032" md5="ecd0ad159eb9c9e3e4c1ad7a469d8628" sha1="6e4e63a49607df0dc259c4b865ab1dd3937c362f"/>
+	</game>
+	<game name="Yama Kurage (1994)(Black Roper)">
+		<description>Yama Kurage (1994)(Black Roper)</description>
+		<rom name="Yama Kurage (1994)(Black Roper).dim" size="1261824" crc="a7a8b0ca" md5="558a020caa9322ea95b77e06993aad99" sha1="8f6612a199c44ac406a204980e07a17b7a7d1083"/>
+	</game>
+	<game name="Yoiko No Nekomimi Kisekae Set (1992)(Masami Neko)">
+		<description>Yoiko No Nekomimi Kisekae Set (1992)(Masami Neko)</description>
+		<rom name="Yoiko No Nekomimi Kisekae Set (1992)(Masami Neko).dim" size="1261824" crc="91d42942" md5="52c38ff7e8e8dc1e393ae22a7817d9a9" sha1="87490067dca184eaaa3d03e80016412854f7c8bc"/>
+	</game>
+	<game name="ZZZ-UNK-Panic [video]">
+		<description>ZZZ-UNK-Panic [video]</description>
+		<rom name="ZZZ-UNK-Panic [video].dim" size="1261824" crc="1028e77d" md5="dff9f3b5724bd8dc8c8207188633a27f" sha1="3f7165375bf4663d99f43bc81910612e9dda4e17"/>
+	</game>
+</datafile>

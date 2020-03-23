@@ -1,0 +1,739 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Atari Lynx - Demos</name>
+		<description>Atari Lynx - Demos (TOSEC-v2013-12-13)</description>
+		<category>TOSEC</category>
+		<version>2013-12-13</version>
+		<author>Eldio - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="256 Color Demo (1997)(Schick, Bastian)(PD)">
+		<description>256 Color Demo (1997)(Schick, Bastian)(PD)</description>
+		<rom name="256 Color Demo (1997)(Schick, Bastian)(PD).lnx" size="12261" crc="17ea4ab0" md5="82863a346c385777cc8d58959c866799" sha1="8cd202ac453a5e885cefb4defa6ff8936e50e373"/>
+	</game>
+	<game name="256 Color Demo (1997)(Schick, Bastian)(PD)[a]">
+		<description>256 Color Demo (1997)(Schick, Bastian)(PD)[a]</description>
+		<rom name="256 Color Demo (1997)(Schick, Bastian)(PD)[a].lnx" size="12237" crc="d21bf0af" md5="b8332b1e561b454a9d7007f6707c76c4" sha1="f7b5bb796ec22af7f5781b9c6eb573913dfdfaf2"/>
+	</game>
+	<game name="256 Color Mandelbrot Demo (1998)(Schick, Bastian)(PD)">
+		<description>256 Color Mandelbrot Demo (1998)(Schick, Bastian)(PD)</description>
+		<rom name="256 Color Mandelbrot Demo (1998)(Schick, Bastian)(PD).lnx" size="5551" crc="40780ffe" md5="199b51c3207727d3401f4f47b6b673a1" sha1="830089d5669e5ee11c0b554ca554177edb332b51"/>
+	</game>
+	<game name="256 Color Mandelbrot Demo (1998)(Schick, Bastian)(PD)[a]">
+		<description>256 Color Mandelbrot Demo (1998)(Schick, Bastian)(PD)[a]</description>
+		<rom name="256 Color Mandelbrot Demo (1998)(Schick, Bastian)(PD)[a].lnx" size="5524" crc="92cd034f" md5="f34965577d30ec33b7792c22a62c62ce" sha1="700eb6f1e39d9fa10565419eec4d20ae8286aea2"/>
+	</game>
+	<game name="3D Demo (19xx)(-)(PD)">
+		<description>3D Demo (19xx)(-)(PD)</description>
+		<rom name="3D Demo (19xx)(-)(PD).lnx" size="21905" crc="986c6034" md5="e27526793d0af4df230343dac116a4cb" sha1="943cca4d170afce954c27e1ff89fea736a0b1d02"/>
+	</game>
+	<game name="3D Demo (19xx)(-)(PD)[a]">
+		<description>3D Demo (19xx)(-)(PD)[a]</description>
+		<rom name="3D Demo (19xx)(-)(PD)[a].lnx" size="262208" crc="d769115f" md5="537766d9225add6cf2c9a1081211a1f3" sha1="5819effc8768761502114374afc33b299896f050"/>
+	</game>
+	<game name="Befok (19xx)(High, Jum)(PD)">
+		<description>Befok (19xx)(High, Jum)(PD)</description>
+		<rom name="Befok (19xx)(High, Jum)(PD).lnx" size="30972" crc="9c1c70d2" md5="6f1f15fc0b4849987c0343036a11db32" sha1="d5555d03720f31e320280e93c52f30b4ef335dbc"/>
+	</game>
+	<game name="Boing Demo (19xx)(-)(PD)">
+		<description>Boing Demo (19xx)(-)(PD)</description>
+		<rom name="Boing Demo (19xx)(-)(PD).lnx" size="3904" crc="b8965e6e" md5="ea123cfb60e8c33272db4bfa066f99ed" sha1="149c0affe92bb067f30fab86e09c29de58604322"/>
+	</game>
+	<game name="Boing Demo (19xx)(-)(PD)[a2]">
+		<description>Boing Demo (19xx)(-)(PD)[a2]</description>
+		<rom name="Boing Demo (19xx)(-)(PD)[a2].lnx" size="4446" crc="07a759c0" md5="6befa8796a5f06c7f90e9001b1638ea7" sha1="f41ec33030e23bcf0ab40e611b91c0a03d271064"/>
+	</game>
+	<game name="Boing Demo (19xx)(-)(PD)[a]">
+		<description>Boing Demo (19xx)(-)(PD)[a]</description>
+		<rom name="Boing Demo (19xx)(-)(PD)[a].lnx" size="4352" crc="3e713a77" md5="a2bc3ddac1d4b382269915eb0b2a40eb" sha1="9ae7219bc4b173213208d820627934b45557ab60"/>
+	</game>
+	<game name="Bouncing Balls &amp; Input Test (199x)(-)(PD)">
+		<description>Bouncing Balls &amp; Input Test (199x)(-)(PD)</description>
+		<rom name="Bouncing Balls &amp; Input Test (199x)(-)(PD).lnx" size="3490" crc="a4eb2f3c" md5="e2254f62e81b759d06e34f0a6a487388" sha1="361b9250130ed31db9bb28db727d6807ff51e15d"/>
+	</game>
+	<game name="Break Point Test (199x)(-)(PD)">
+		<description>Break Point Test (199x)(-)(PD)</description>
+		<rom name="Break Point Test (199x)(-)(PD).lnx" size="480" crc="7b6d81fd" md5="c71bc1fc599311acd80cf28428c7d6ca" sha1="566ce0249f25d45dd8fdd60ae96b3198c8b72076"/>
+	</game>
+	<game name="Bubble Bobble Demo v0.2 (199x)(-)[p]">
+		<description>Bubble Bobble Demo v0.2 (199x)(-)[p]</description>
+		<rom name="Bubble Bobble Demo v0.2 (199x)(-)[p].lnx" size="10791" crc="44c347a5" md5="93c0a39fdaa75977030e62d6b60a5e07" sha1="7e62e7f2c5559b5baa508fc06a9b9a6389eea164"/>
+	</game>
+	<game name="C65 - Demo0 (1998)(-)(PD)">
+		<description>C65 - Demo0 (1998)(-)(PD)</description>
+		<rom name="C65 - Demo0 (1998)(-)(PD).lnx" size="16969" crc="59d96e27" md5="c050363fa2ee06a5a86ba9f1bc9cbc03" sha1="84d916816d2f2b1416515f0ce26d350c1ed74e3c"/>
+	</game>
+	<game name="C65 - Demo0 (1998)(-)(PD)[a]">
+		<description>C65 - Demo0 (1998)(-)(PD)[a]</description>
+		<rom name="C65 - Demo0 (1998)(-)(PD)[a].lnx" size="16926" crc="ba786c13" md5="7d0b2c06d2b36d20ea319ea5a04b7ba3" sha1="3fa4fe5e6a34646092d5c6879dbbb2ce8e2d9715"/>
+	</game>
+	<game name="C65 - Demo1 (1998)(-)(PD)">
+		<description>C65 - Demo1 (1998)(-)(PD)</description>
+		<rom name="C65 - Demo1 (1998)(-)(PD).lnx" size="2599" crc="8515b16b" md5="3c6a2f6cff115adc391c6c8b6682f1f8" sha1="e2b88b95411583455b619b151957c314686c76cb"/>
+	</game>
+	<game name="C65 - Demo1 (1998)(-)(PD)[a]">
+		<description>C65 - Demo1 (1998)(-)(PD)[a]</description>
+		<rom name="C65 - Demo1 (1998)(-)(PD)[a].lnx" size="2568" crc="30668c3e" md5="f57f6923f7ea736fbaf6ceb337871bde" sha1="6d28749e17f48a1b854dccf1918adec24edda3f1"/>
+	</game>
+	<game name="C65 - Demo2 (1998)(-)(PD)">
+		<description>C65 - Demo2 (1998)(-)(PD)</description>
+		<rom name="C65 - Demo2 (1998)(-)(PD).lnx" size="2888" crc="cc105fb5" md5="b6ab41c5edbf74eaec15cf704f03fe9a" sha1="511024942dda8cbc9b1c78440987f79bf0a1be18"/>
+	</game>
+	<game name="C65 - Demo2 (1998)(-)(PD)[a]">
+		<description>C65 - Demo2 (1998)(-)(PD)[a]</description>
+		<rom name="C65 - Demo2 (1998)(-)(PD)[a].lnx" size="2857" crc="c792d523" md5="5acb049f142a5f615241c2b454f5b4ff" sha1="ddf9989b3fe9be071cf3286d1a4d9ca58b53a882"/>
+	</game>
+	<game name="C65 - Demo3 (1998)(-)(PD)">
+		<description>C65 - Demo3 (1998)(-)(PD)</description>
+		<rom name="C65 - Demo3 (1998)(-)(PD).lnx" size="4093" crc="504f77c0" md5="07077f05131ac980e707e24b9616dc01" sha1="a1f75f55953cd8c984f189e264d410a88852795f"/>
+	</game>
+	<game name="C65 - Demo3 (1998)(-)(PD)[a]">
+		<description>C65 - Demo3 (1998)(-)(PD)[a]</description>
+		<rom name="C65 - Demo3 (1998)(-)(PD)[a].lnx" size="4048" crc="bbba65af" md5="fc634c8d8b004b46c8916bd0f5d3e429" sha1="c9ca10470e6837df2fd719fb2405853c527b75ab"/>
+	</game>
+	<game name="C65 - GFXTest (1998)(-)(PD)">
+		<description>C65 - GFXTest (1998)(-)(PD)</description>
+		<rom name="C65 - GFXTest (1998)(-)(PD).lnx" size="3180" crc="9ab066b0" md5="dd32f06433c3da254f20a65e2c4d0ba7" sha1="b873f713a1c8096b14601775f5e204a107797567"/>
+	</game>
+	<game name="C65 - GFXTest (1998)(-)(PD)[a]">
+		<description>C65 - GFXTest (1998)(-)(PD)[a]</description>
+		<rom name="C65 - GFXTest (1998)(-)(PD)[a].lnx" size="3159" crc="afc27c28" md5="25f0e73f9984e29452ea605784b6f73a" sha1="27e72571d89b4368f2101686ce4d1bcb3258ff95"/>
+	</game>
+	<game name="C65 - Mandelbrot (1998)(-)(PD)">
+		<description>C65 - Mandelbrot (1998)(-)(PD)</description>
+		<rom name="C65 - Mandelbrot (1998)(-)(PD).lnx" size="2670" crc="0762eed4" md5="ee0d9ce968d26e73b0c9759e60ba7f1f" sha1="e132d49b01e33ad37b6fd0727213a7486353fe0d"/>
+	</game>
+	<game name="C65 - Mandelbrot (1998)(-)(PD)[a]">
+		<description>C65 - Mandelbrot (1998)(-)(PD)[a]</description>
+		<rom name="C65 - Mandelbrot (1998)(-)(PD)[a].lnx" size="2666" crc="dfe7890f" md5="0b24c5fca67cecf480b97c7fb8781474" sha1="5c3589944b8e1aaf3da18073b854c4a17490b530"/>
+	</game>
+	<game name="C65 - Mazedemo (1998)(-)(PD)">
+		<description>C65 - Mazedemo (1998)(-)(PD)</description>
+		<rom name="C65 - Mazedemo (1998)(-)(PD).lnx" size="3022" crc="71f93c64" md5="368bdbd25be127869ec2ba91d741d4be" sha1="65f05a9e352be9290096456ff44adea86326ce80"/>
+	</game>
+	<game name="C65 - Mazedemo (1998)(-)(PD)[a]">
+		<description>C65 - Mazedemo (1998)(-)(PD)[a]</description>
+		<rom name="C65 - Mazedemo (1998)(-)(PD)[a].lnx" size="3030" crc="baffb021" md5="c817790e3118fce2a453ebc2490c9868" sha1="ed1138dec57da5b0cdb737d0c94e629e4f6d19b5"/>
+	</game>
+	<game name="C65 - Minimal (1998)(-)(PD)">
+		<description>C65 - Minimal (1998)(-)(PD)</description>
+		<rom name="C65 - Minimal (1998)(-)(PD).lnx" size="5086" crc="0db6af52" md5="e57369d6bf746fb85672b7eeffc75106" sha1="96fae167fa0ecac9f9fa7edfa32f40a9a6c8ffed"/>
+	</game>
+	<game name="C65 - Minimal (1998)(-)(PD)[a]">
+		<description>C65 - Minimal (1998)(-)(PD)[a]</description>
+		<rom name="C65 - Minimal (1998)(-)(PD)[a].lnx" size="4817" crc="6fdfcc7b" md5="b4b90fa1da835e62a307a56c77c6b96d" sha1="db52dd1ce6cf2419fa90883738075430001d82b5"/>
+	</game>
+	<game name="C65 - Sprite (1998)(-)(PD)">
+		<description>C65 - Sprite (1998)(-)(PD)</description>
+		<rom name="C65 - Sprite (1998)(-)(PD).lnx" size="3974" crc="1d00c38f" md5="5bcb0729ef37d0ee2e877fedc2a6b518" sha1="dd937164ebed233cca84559b443d77134bf62003"/>
+	</game>
+	<game name="C65 - Sprite (1998)(-)(PD)[a]">
+		<description>C65 - Sprite (1998)(-)(PD)[a]</description>
+		<rom name="C65 - Sprite (1998)(-)(PD)[a].lnx" size="3984" crc="d80d99c3" md5="e7f86e86c68403924068bc2228a7310e" sha1="a365d19de357b0082911fc0010d1c5e01d25d8a0"/>
+	</game>
+	<game name="Cartshow (1998)(Domin, Matthias)(PD)">
+		<description>Cartshow (1998)(Domin, Matthias)(PD)</description>
+		<rom name="Cartshow (1998)(Domin, Matthias)(PD).lnx" size="7156" crc="15088d30" md5="b21e40aad8aa53d00ea49ad416d2f8b9" sha1="88fb58b4eca270969b20a0bb1b596d501d617eb8"/>
+	</game>
+	<game name="Circle Draw Routine 1 (199x)(-)(PD)">
+		<description>Circle Draw Routine 1 (199x)(-)(PD)</description>
+		<rom name="Circle Draw Routine 1 (199x)(-)(PD).lnx" size="9339" crc="be9578da" md5="56563fc7a96c74e08baa13ec82ba0d10" sha1="7a6b8516ac4befec815a339f88c0c9a3733ea8c4"/>
+	</game>
+	<game name="Circle Draw Routine 2 (199x)(-)(PD)">
+		<description>Circle Draw Routine 2 (199x)(-)(PD)</description>
+		<rom name="Circle Draw Routine 2 (199x)(-)(PD).lnx" size="7924" crc="1d2409d7" md5="5350ac530f3bbb6122f7b2dbbcca3d4f" sha1="36b2ca3e4a8aa426f558ff37d741dd0f684d0cee"/>
+	</game>
+	<game name="Clicks Demo 6 (2001)(Domin, Matthias)(PD)">
+		<description>Clicks Demo 6 (2001)(Domin, Matthias)(PD)</description>
+		<rom name="Clicks Demo 6 (2001)(Domin, Matthias)(PD).lnx" size="262208" crc="c99de075" md5="29676018d09b5ceb60aa12db8ff2ace4" sha1="565cdc8f04477652133766f3c383883d92f6e0c3"/>
+	</game>
+	<game name="Conquest of Zow (1996)(Dodgson, Harry)(PD)">
+		<description>Conquest of Zow (1996)(Dodgson, Harry)(PD)</description>
+		<rom name="Conquest of Zow (1996)(Dodgson, Harry)(PD).lnx" size="262208" crc="625d44db" md5="3922af7ccb3c3726993e5df0e416f44d" sha1="3f69275634918fde50be9f81cda7eda75bc0513f"/>
+	</game>
+	<game name="Conquest of Zow (1996)(Dodgson, Harry)(PD)[a]">
+		<description>Conquest of Zow (1996)(Dodgson, Harry)(PD)[a]</description>
+		<rom name="Conquest of Zow (1996)(Dodgson, Harry)(PD)[a].lnx" size="262208" crc="9ccfdcd0" md5="07bd684759d0defaa68aa817fbeaa2dc" sha1="41af0a1d8e4aa67b162394abf770e4a812f59a9f"/>
+	</game>
+	<game name="Corridor Routine (1998)(Domin, Matthias)(PD)">
+		<description>Corridor Routine (1998)(Domin, Matthias)(PD)</description>
+		<rom name="Corridor Routine (1998)(Domin, Matthias)(PD).lnx" size="8527" crc="14631a57" md5="0051bca41eb545997e3d4f4c90933707" sha1="5f4f768d077e04545e32d593babab00894895c3b"/>
+	</game>
+	<game name="Digidemo 1 (1994)(Schick, Bastian)(PD)">
+		<description>Digidemo 1 (1994)(Schick, Bastian)(PD)</description>
+		<rom name="Digidemo 1 (1994)(Schick, Bastian)(PD).lnx" size="262208" crc="43e6f249" md5="c2e074c4a84967dcb4c8e3001720f44f" sha1="cdcbfa5650a3792e0d3b5335dd8e7dcd1521f021"/>
+	</game>
+	<game name="Digidemo 2 (1994)(Schick, Bastian)(PD)">
+		<description>Digidemo 2 (1994)(Schick, Bastian)(PD)</description>
+		<rom name="Digidemo 2 (1994)(Schick, Bastian)(PD).lnx" size="262208" crc="4525db06" md5="2dd0b28be52a9e1ca2cdaaf440aad055" sha1="20854f17f7081020804b8c1628dab117b9e54d05"/>
+	</game>
+	<game name="Dragnet Music (1994)(Schick, Bastian)[p]">
+		<description>Dragnet Music (1994)(Schick, Bastian)[p]</description>
+		<rom name="Dragnet Music (1994)(Schick, Bastian)[p].lnx" size="262208" crc="2043d783" md5="ffdf546d72327ff912eded176ab3306e" sha1="c70dc8f670fd73e58945ec93fe69a868a5ea8138"/>
+	</game>
+	<game name="Dragnet Music (1994)(Schick, Bastian)[p][a]">
+		<description>Dragnet Music (1994)(Schick, Bastian)[p][a]</description>
+		<rom name="Dragnet Music (1994)(Schick, Bastian)[p][a].lnx" size="262208" crc="7cdc4f1b" md5="4998f68538f8107774460cdc3e834f87" sha1="1333d7f43134d01cc6c62cfe66778b6fc7471dac"/>
+	</game>
+	<game name="Dungeon Routine 1 (1997)(Domin, Matthias)(PD)">
+		<description>Dungeon Routine 1 (1997)(Domin, Matthias)(PD)</description>
+		<rom name="Dungeon Routine 1 (1997)(Domin, Matthias)(PD).lnx" size="39029" crc="e30f07de" md5="3f795d8ab20a20939fb376da1a9375a2" sha1="5682a16adaeebb34c7f71810defed66723b28050"/>
+	</game>
+	<game name="Dungeon Routine 2 (1998)(Domin, Matthias)(PD)">
+		<description>Dungeon Routine 2 (1998)(Domin, Matthias)(PD)</description>
+		<rom name="Dungeon Routine 2 (1998)(Domin, Matthias)(PD).lnx" size="41582" crc="b5590fb2" md5="25ab9fe41f048b8f83e9b9dd099d3c03" sha1="205d1f8e156db88d1ea215878df826b381a008fb"/>
+	</game>
+	<game name="Dungeon Routine 3 (1998)(Domin, Matthias)(PD)">
+		<description>Dungeon Routine 3 (1998)(Domin, Matthias)(PD)</description>
+		<rom name="Dungeon Routine 3 (1998)(Domin, Matthias)(PD).lnx" size="41576" crc="5b500d7c" md5="65b8acaf18251ab3225996556ef18f97" sha1="ecdb3c245abb15b23265889bc0c3313d61fa3784"/>
+	</game>
+	<game name="EEPROM Check (1996)(Schick, Bastian)(PD)">
+		<description>EEPROM Check (1996)(Schick, Bastian)(PD)</description>
+		<rom name="EEPROM Check (1996)(Schick, Bastian)(PD).lnx" size="4232" crc="8d29fbf3" md5="e415815445136eb5ff93bdcde09e9d84" sha1="41bf8bbe4383e40bd91f0ab1fe3043e5c7a3b271"/>
+	</game>
+	<game name="EEPROM Routine 1 (199x)(-)(PD)">
+		<description>EEPROM Routine 1 (199x)(-)(PD)</description>
+		<rom name="EEPROM Routine 1 (199x)(-)(PD).lnx" size="4212" crc="81547c50" md5="be51f71a14169da1077348b16827f5ba" sha1="f543f020fb265534b9ebad7a5f51ebab36160039"/>
+	</game>
+	<game name="EEPROM Routine 2 (199x)(-)(PD)">
+		<description>EEPROM Routine 2 (199x)(-)(PD)</description>
+		<rom name="EEPROM Routine 2 (199x)(-)(PD).lnx" size="4043" crc="fd057217" md5="eedd71039918f2deee2c0483d50805aa" sha1="c83b84f139dff8aeb2151b3254cd4377a25c2535"/>
+	</game>
+	<game name="Fighter Demo v0.2 (2000)(Vick)(PD)">
+		<description>Fighter Demo v0.2 (2000)(Vick)(PD)</description>
+		<rom name="Fighter Demo v0.2 (2000)(Vick)(PD).lnx" size="37790" crc="a1ff5cd5" md5="e3dc4fbb020783f843519c58f73b83de" sha1="7a565bd98e6c31dc7cda980ee85552fb51583bbe"/>
+	</game>
+	<game name="Font Routine (199x)(Schick, Bastian)(PD)">
+		<description>Font Routine (199x)(Schick, Bastian)(PD)</description>
+		<rom name="Font Routine (199x)(Schick, Bastian)(PD).lnx" size="1939" crc="9fb5ff3a" md5="a50eed98c3ef04ebf376a77d1ed8c94a" sha1="ef5148f94cf250e89d84707a402a6fc187fb9d3b"/>
+	</game>
+	<game name="Ghouls &amp; Ghosts Demo v0.2 (199x)(-)">
+		<description>Ghouls &amp; Ghosts Demo v0.2 (199x)(-)</description>
+		<rom name="Ghouls &amp; Ghosts Demo v0.2 (199x)(-).lnx" size="17622" crc="23930cd6" md5="c8dd02d14cef3589d3a60086f9f40eed" sha1="350d8a49eebb118133047680b4d01e601183a3a3"/>
+	</game>
+	<game name="Interrupt Query Test (199x)(-)(PD)">
+		<description>Interrupt Query Test (199x)(-)(PD)</description>
+		<rom name="Interrupt Query Test (199x)(-)(PD).lnx" size="467" crc="5bf248e6" md5="c7efc9e4a9162cdfecb1e4c939c186f1" sha1="a02817d1d845fcfcbf36a1df38dae04c57ad5356"/>
+	</game>
+	<game name="Mandelbrot Demo (1993)(Schick, Bastian)(PD)">
+		<description>Mandelbrot Demo (1993)(Schick, Bastian)(PD)</description>
+		<rom name="Mandelbrot Demo (1993)(Schick, Bastian)(PD).lnx" size="4952" crc="a6491136" md5="afcc19934e16b261b8885cdb7114b7eb" sha1="06a384102a1092b9345a3f8474bdd30943e16294"/>
+	</game>
+	<game name="Mario Plus Demo (199x)(-)[p]">
+		<description>Mario Plus Demo (199x)(-)[p]</description>
+		<rom name="Mario Plus Demo (199x)(-)[p].lnx" size="15965" crc="d7740530" md5="b8ff19c8a2d0e75d724e7fc033b6abec" sha1="a94f8c80599c8e467205cc9543f2aab112f76d25"/>
+	</game>
+	<game name="Mega Man Plus Demo (199x)(-)[p]">
+		<description>Mega Man Plus Demo (199x)(-)[p]</description>
+		<rom name="Mega Man Plus Demo (199x)(-)[p].lnx" size="12833" crc="678499a4" md5="e839eb5e828e7c4d6dac880591e3398e" sha1="9804fa8b478c3fec88a7c702e94626432df96a32"/>
+	</game>
+	<game name="Mini Demo 1 (1998)(-)(PD)">
+		<description>Mini Demo 1 (1998)(-)(PD)</description>
+		<rom name="Mini Demo 1 (1998)(-)(PD).lnx" size="601" crc="bfc0b689" md5="1938571ef8fd81d90e35794356b0a2c8" sha1="3f0114bee416ebac192549105946f8815329562a"/>
+	</game>
+	<game name="Mini Demo 2 (1998)(-)(PD)">
+		<description>Mini Demo 2 (1998)(-)(PD)</description>
+		<rom name="Mini Demo 2 (1998)(-)(PD).lnx" size="2560" crc="56730ffe" md5="6e37872bb53cb584c6c7760cb9e6ea7e" sha1="677722508df2d23699025872c186844cb722ffb4"/>
+	</game>
+	<game name="Mini Demo 3 (1998)(-)(PD)">
+		<description>Mini Demo 3 (1998)(-)(PD)</description>
+		<rom name="Mini Demo 3 (1998)(-)(PD).lnx" size="3154" crc="2cc11fc7" md5="f75790f1d300696df6cd91afdbce42d1" sha1="534b3c512f0958918b9700002e6047492948734a"/>
+	</game>
+	<game name="Mini Demo 4 (1998)(-)(PD)">
+		<description>Mini Demo 4 (1998)(-)(PD)</description>
+		<rom name="Mini Demo 4 (1998)(-)(PD).lnx" size="3362" crc="b29079dc" md5="5656ff8ebd5386093aad8126f2d46f42" sha1="32e0e96e81e527fca77096812886bf6a0ba46656"/>
+	</game>
+	<game name="Mini Demo 5 (1998)(-)(PD)">
+		<description>Mini Demo 5 (1998)(-)(PD)</description>
+		<rom name="Mini Demo 5 (1998)(-)(PD).lnx" size="4432" crc="c9b906bb" md5="5da41a69d5d2f67896063f6032ec1968" sha1="d9b7eae2d2f637b8a39426fa13992400f13bb0c3"/>
+	</game>
+	<game name="Mini Demo 6 (1998)(-)(PD)">
+		<description>Mini Demo 6 (1998)(-)(PD)</description>
+		<rom name="Mini Demo 6 (1998)(-)(PD).lnx" size="18022" crc="ef71c010" md5="c7b970a8376e8bf5bd18848b71b9b532" sha1="0a2f8a150aebb98cad3f64f6d35f22617b7436d2"/>
+	</game>
+	<game name="Para Lemi! v001 (1997)(-)(PD)">
+		<description>Para Lemi! v001 (1997)(-)(PD)</description>
+		<rom name="Para Lemi! v001 (1997)(-)(PD).lnx" size="26247" crc="181056e5" md5="9cacf07f6a71ea7b6c6807d7ee4faadf" sha1="555709c3948c661d4287c0c25958e7aaa3e432f9"/>
+	</game>
+	<game name="Para Lemi! v002 (1997)(-)(PD)">
+		<description>Para Lemi! v002 (1997)(-)(PD)</description>
+		<rom name="Para Lemi! v002 (1997)(-)(PD).lnx" size="13064" crc="73d7921e" md5="a1b9dd29339d57f774ccebee0119278e" sha1="f8167b3c3418538503da12a79f896ffb93f648c1"/>
+	</game>
+	<game name="Para Lemi! v003 (1997)(-)(PD)">
+		<description>Para Lemi! v003 (1997)(-)(PD)</description>
+		<rom name="Para Lemi! v003 (1997)(-)(PD).lnx" size="13521" crc="a2ecbd6f" md5="73b97f6bb4264dfdbeb86265c5c14b90" sha1="37af681b2e9343686c0eea869f3596f002f102f8"/>
+	</game>
+	<game name="Para Lemi! v004 (1997)(-)(PD)">
+		<description>Para Lemi! v004 (1997)(-)(PD)</description>
+		<rom name="Para Lemi! v004 (1997)(-)(PD).lnx" size="17930" crc="2a0c893c" md5="2d08e466df75ee55afc5141b8e316f82" sha1="f4b1688dc016d4433be05a09b8ae4e083414c072"/>
+	</game>
+	<game name="Para Lemi! v005 (1997)(-)(PD)">
+		<description>Para Lemi! v005 (1997)(-)(PD)</description>
+		<rom name="Para Lemi! v005 (1997)(-)(PD).lnx" size="27560" crc="cc96df68" md5="f0e2acb600b85a4ad8fb36205b6215b9" sha1="563af97c80ec511ecfa45855241356d1bd9b2dc4"/>
+	</game>
+	<game name="Puzzler 2000 - Air Music (1998)(Wuhl, Markus)(PD)">
+		<description>Puzzler 2000 - Air Music (1998)(Wuhl, Markus)(PD)</description>
+		<rom name="Puzzler 2000 - Air Music (1998)(Wuhl, Markus)(PD).lnx" size="10254" crc="d368c95c" md5="3d8d62816d5666a3040390f5494fe0e4" sha1="131779458f9f53f5ad37d2fc4e9ac1a2139eeb72"/>
+	</game>
+	<game name="Puzzler 2000 - Early Demo v0.2 (1998)(Wuhl, Markus)(PD)">
+		<description>Puzzler 2000 - Early Demo v0.2 (1998)(Wuhl, Markus)(PD)</description>
+		<rom name="Puzzler 2000 - Early Demo v0.2 (1998)(Wuhl, Markus)(PD).lnx" size="4789" crc="129242de" md5="40ca7b73dac7cd49274cbfd4e3c3e425" sha1="b6467bdbe981bf77f088c36da636044b9f5e33f0"/>
+	</game>
+	<game name="Puzzler 2000 - Entertainer Music (1998)(Wuhl, Markus)(PD)">
+		<description>Puzzler 2000 - Entertainer Music (1998)(Wuhl, Markus)(PD)</description>
+		<rom name="Puzzler 2000 - Entertainer Music (1998)(Wuhl, Markus)(PD).lnx" size="10299" crc="96cc146f" md5="01ba48dbf13618960208f16306cd3602" sha1="64286b7866d5906c0e63470e5250dd571639f771"/>
+	</game>
+	<game name="Puzzler 2000 - Invent 13 Music (1998)(Wuhl, Markus)(PD)">
+		<description>Puzzler 2000 - Invent 13 Music (1998)(Wuhl, Markus)(PD)</description>
+		<rom name="Puzzler 2000 - Invent 13 Music (1998)(Wuhl, Markus)(PD).lnx" size="10626" crc="4c8f2d8d" md5="729f9f15ff0e64222d9f566115d3a5ac" sha1="7d97fbaaf6cd5b92651316ada6fd4807c5d75191"/>
+	</game>
+	<game name="Puzzler 2000 - Playable v0.43 (1998)(Wuhl, Markus)(PD)">
+		<description>Puzzler 2000 - Playable v0.43 (1998)(Wuhl, Markus)(PD)</description>
+		<rom name="Puzzler 2000 - Playable v0.43 (1998)(Wuhl, Markus)(PD).lnx" size="262208" crc="d7241881" md5="8de649611b61934b67b2ee8dde47e603" sha1="0804caa4e15bcde2a51b475103787539c2578d0a"/>
+	</game>
+	<game name="Puzzler 2000 - Playable v0.4x (1998)(Wuhl, Markus)(PD)">
+		<description>Puzzler 2000 - Playable v0.4x (1998)(Wuhl, Markus)(PD)</description>
+		<rom name="Puzzler 2000 - Playable v0.4x (1998)(Wuhl, Markus)(PD).lnx" size="4761" crc="881c7068" md5="59c48f19223932cb853cc68d8f514a2c" sha1="e88dab8a6a4afcdac7d979bf00bcfcecd89d975e"/>
+	</game>
+	<game name="Raw Draw Test (199x)(-)(PD)">
+		<description>Raw Draw Test (199x)(-)(PD)</description>
+		<rom name="Raw Draw Test (199x)(-)(PD).lnx" size="3746" crc="0a0dfb06" md5="c189224ca6117c39adcdd48b84fe33ab" sha1="749b3e00128ef4b29481d49dd6d14ccbe55a035e"/>
+	</game>
+	<game name="Remnant Planar Wars 3D (2000)(Songbird)(PD)">
+		<description>Remnant Planar Wars 3D (2000)(Songbird)(PD)</description>
+		<rom name="Remnant Planar Wars 3D (2000)(Songbird)(PD).lnx" size="38599" crc="cfd1fd9c" md5="efede4b2ebb1c98a1cebdbeb4f11ddd3" sha1="1625b0c76cdd2c88cbd0f8d284dfc8668413c9a5"/>
+	</game>
+	<game name="Snakebyte (199x)(Domin, Matthias)(PD)">
+		<description>Snakebyte (199x)(Domin, Matthias)(PD)</description>
+		<rom name="Snakebyte (199x)(Domin, Matthias)(PD).lnx" size="19830" crc="8350df4d" md5="03429ff89b8f037ea2c447048dd3ef22" sha1="5693907f89f9d29b293b01cb107177650394b8e5"/>
+	</game>
+	<game name="Sprite Demo 1 (2000)(Domin, Matthias)(PD)">
+		<description>Sprite Demo 1 (2000)(Domin, Matthias)(PD)</description>
+		<rom name="Sprite Demo 1 (2000)(Domin, Matthias)(PD).lnx" size="5097" crc="244164f4" md5="f68e1353178685cf5a8abfb57769d7f9" sha1="bc0f4793045c8c4a8500c3cbcfdefd91b3352dde"/>
+	</game>
+	<game name="Sprite Demo 2 (2000)(Domin, Matthias)(PD)">
+		<description>Sprite Demo 2 (2000)(Domin, Matthias)(PD)</description>
+		<rom name="Sprite Demo 2 (2000)(Domin, Matthias)(PD).lnx" size="4962" crc="1b4669be" md5="c3698556004f2ea4e986542760d3ad29" sha1="4c25a84fcf1e80a96a6aa43fca8836e004796b82"/>
+	</game>
+	<game name="Sprite Demo 3 (2000)(Domin, Matthias)(PD)">
+		<description>Sprite Demo 3 (2000)(Domin, Matthias)(PD)</description>
+		<rom name="Sprite Demo 3 (2000)(Domin, Matthias)(PD).lnx" size="5378" crc="8ef1c510" md5="7fe5568e18d838bd266b14eb68c86b94" sha1="02bebf280dc30bb1b66918f8734e32e76007a976"/>
+	</game>
+	<game name="Sprite Demo 4 (2000)(Domin, Matthias)(PD)">
+		<description>Sprite Demo 4 (2000)(Domin, Matthias)(PD)</description>
+		<rom name="Sprite Demo 4 (2000)(Domin, Matthias)(PD).lnx" size="4877" crc="c322b0fe" md5="a5c3a38b1d8441cea089299a94ce0a60" sha1="121ff9e1fae2690fcfc1e21543361ac0d37edfc3"/>
+	</game>
+	<game name="Sprite Demo 4b (2000)(Domin, Matthias)(PD)">
+		<description>Sprite Demo 4b (2000)(Domin, Matthias)(PD)</description>
+		<rom name="Sprite Demo 4b (2000)(Domin, Matthias)(PD).lnx" size="7099" crc="c49c3765" md5="19d708e97dfcbb9b8e5c8c9f5dfa1ef3" sha1="735ed57dc63c5267c2aed851e8345cd00e6ffcd4"/>
+	</game>
+	<game name="Sprite Demo 5 (2000)(Domin, Matthias)(PD)">
+		<description>Sprite Demo 5 (2000)(Domin, Matthias)(PD)</description>
+		<rom name="Sprite Demo 5 (2000)(Domin, Matthias)(PD).lnx" size="5009" crc="b6267f9b" md5="b431bd8480cd073c575e2b1f0b4232f9" sha1="004fb8c07cbe79b6901d472077bbfce743ff885a"/>
+	</game>
+	<game name="Stardreamer 2000 (2000)(-)(PD)">
+		<description>Stardreamer 2000 (2000)(-)(PD)</description>
+		<rom name="Stardreamer 2000 (2000)(-)(PD).lnx" size="46435" crc="eb2ab9af" md5="f932f2fc92501e51ec87744253fb2279" sha1="1f494c58b914b57e8c7565376e22d3e7f1509868"/>
+	</game>
+	<game name="Super Sprint Title Screen Demo (2000)(-)(PD)">
+		<description>Super Sprint Title Screen Demo (2000)(-)(PD)</description>
+		<rom name="Super Sprint Title Screen Demo (2000)(-)(PD).lnx" size="10649" crc="8c7fbd9c" md5="bee7dedb200690122f76745fc4d2a0dd" sha1="0f9d1b5b5e98f832bdddd68ab3cf09efc5262149"/>
+	</game>
+	<game name="Text Output Test 1 (1997)(Domin, Matthias)(PD)">
+		<description>Text Output Test 1 (1997)(Domin, Matthias)(PD)</description>
+		<rom name="Text Output Test 1 (1997)(Domin, Matthias)(PD).lnx" size="4118" crc="be97d96d" md5="9a6c951b0b6329138f8dba469989a08d" sha1="eea09c3b9a910befe0872e836087180755050373"/>
+	</game>
+	<game name="Text Output Test 2 (1998)(Domin, Matthias)(PD)">
+		<description>Text Output Test 2 (1998)(Domin, Matthias)(PD)</description>
+		<rom name="Text Output Test 2 (1998)(Domin, Matthias)(PD).lnx" size="4350" crc="c7629765" md5="eafddf1a46da168c0090b3b71a8d7a75" sha1="d0b108faf391e817551498aca4fc43a10596a69b"/>
+	</game>
+	<game name="Wuerfel 3 Demo (199x)(-)(PD)">
+		<description>Wuerfel 3 Demo (199x)(-)(PD)</description>
+		<rom name="Wuerfel 3 Demo (199x)(-)(PD).lnx" size="9250" crc="d1adcfa3" md5="71ba66f264e364bce23bf28be3b51c4e" sha1="91b83a2a93e62b31d567643f25b6a7b892b3b8b9"/>
+	</game>
+	<game name="ZZZ-UNK-abc music creator">
+		<description>ZZZ-UNK-abc music creator</description>
+		<rom name="ZZZ-UNK-abc music creator.lnx" size="13179" crc="2116e42f" md5="8b6c16f1911941bee151479b2558da9b" sha1="a013b511955644b82513155dbdfb04bfd0cc62f3"/>
+	</game>
+	<game name="ZZZ-UNK-bali2_pal_8_83">
+		<description>ZZZ-UNK-bali2_pal_8_83</description>
+		<rom name="ZZZ-UNK-bali2_pal_8_83.lnx" size="27301" crc="3e628845" md5="f0dc4b99fbe81f280876ddfcd0c775aa" sha1="b538ee6ce5249f346352502ed674f0f7f4944a47"/>
+	</game>
+	<game name="ZZZ-UNK-blob">
+		<description>ZZZ-UNK-blob</description>
+		<rom name="ZZZ-UNK-blob.lnx" size="4700" crc="e89a03c5" md5="1d820375c65e1b5fd9ab3847425da29e" sha1="095f0231dcca7d8325cea4bb77551baeedef44da"/>
+	</game>
+	<game name="ZZZ-UNK-cape4_pal_8_83">
+		<description>ZZZ-UNK-cape4_pal_8_83</description>
+		<rom name="ZZZ-UNK-cape4_pal_8_83.lnx" size="21204" crc="cc9d4ed6" md5="8c6f449f3fda4fced6bd6fca1d906ca2" sha1="56320b664711dde8a21d1bdfb85b7395dbe5d4c5"/>
+	</game>
+	<game name="ZZZ-UNK-CARDHEAD">
+		<description>ZZZ-UNK-CARDHEAD</description>
+		<rom name="ZZZ-UNK-CARDHEAD.lnx" size="1536" crc="b49833e7" md5="503dd8d220e912bb996a90a6fc55f669" sha1="f6023a787b977e75147bcbe7145182338663d6aa"/>
+	</game>
+	<game name="ZZZ-UNK-cf - Oooh, what is it going to be">
+		<description>ZZZ-UNK-cf - Oooh, what is it going to be</description>
+		<rom name="ZZZ-UNK-cf - Oooh, what is it going to be.lnx" size="2091" crc="402b5d6c" md5="76c1d81d0da58be3ef723bba5b9d0ea6" sha1="45743e52d6888f3f1d3136c5b6e69d7140a29996"/>
+	</game>
+	<game name="ZZZ-UNK-Charge Field 2 - charges animated">
+		<description>ZZZ-UNK-Charge Field 2 - charges animated</description>
+		<rom name="ZZZ-UNK-Charge Field 2 - charges animated.lnx" size="2618" crc="afbfb157" md5="a4234e4672780a32144731d2cfcf6086" sha1="c6ce2494a435acd976a3a1a516e2f5324fe819b5"/>
+	</game>
+	<game name="ZZZ-UNK-Charge Field 2 - meters">
+		<description>ZZZ-UNK-Charge Field 2 - meters</description>
+		<rom name="ZZZ-UNK-Charge Field 2 - meters.lnx" size="2892" crc="23df0434" md5="152e9466545685bc418fa920b7023b74" sha1="20ce201dd5178616f0b94760c46db793c51ee146"/>
+	</game>
+	<game name="ZZZ-UNK-Circle Tunnel by Schick, Bastian (1996) (PD)">
+		<description>ZZZ-UNK-Circle Tunnel by Schick, Bastian (1996) (PD)</description>
+		<rom name="ZZZ-UNK-Circle Tunnel by Schick, Bastian (1996) (PD).lnx" size="7539" crc="5e08258b" md5="72fbedab44013c64508fa09cc067ce53" sha1="c7358ebc5deaa86973e560ee11a4412ef429f2f6"/>
+	</game>
+	<game name="ZZZ-UNK-Clicks! by Domin, Matthias (2001) (PD)">
+		<description>ZZZ-UNK-Clicks! by Domin, Matthias (2001) (PD)</description>
+		<rom name="ZZZ-UNK-Clicks! by Domin, Matthias (2001) (PD).lnx" size="35183" crc="0ecbfe53" md5="6ac055224917fba6b39769f01bddc35e" sha1="140a308a72ed20885def95f15a14ea9eac560e75"/>
+	</game>
+	<game name="ZZZ-UNK-Clicks! Version 6">
+		<description>ZZZ-UNK-Clicks! Version 6</description>
+		<rom name="ZZZ-UNK-Clicks! Version 6.lnx" size="39280" crc="1a86810c" md5="aedf9a938aae5bd7c7a208ef4ad46224" sha1="69a04f0607552804986f1722f6f7abb8e998125a"/>
+	</game>
+	<game name="ZZZ-UNK-Conquistador">
+		<description>ZZZ-UNK-Conquistador</description>
+		<rom name="ZZZ-UNK-Conquistador.lnx" size="46414" crc="8ceac7dd" md5="85f74ec751bdce0ada934c7502d2f3ee" sha1="dc712d88a48511c1128171dcf68f14aef1d85a0d"/>
+	</game>
+	<game name="ZZZ-UNK-Demo 1 by Schick, Bastian (1996) (PD)">
+		<description>ZZZ-UNK-Demo 1 by Schick, Bastian (1996) (PD)</description>
+		<rom name="ZZZ-UNK-Demo 1 by Schick, Bastian (1996) (PD).lnx" size="601" crc="947a6eb1" md5="f8bb5d627f02262eae63a5180230ada1" sha1="0084572f66093217fae4fc5a29bdf1fab8a36c60"/>
+	</game>
+	<game name="ZZZ-UNK-Demo 2 by Schick, Bastian (1996) (PD)">
+		<description>ZZZ-UNK-Demo 2 by Schick, Bastian (1996) (PD)</description>
+		<rom name="ZZZ-UNK-Demo 2 by Schick, Bastian (1996) (PD).lnx" size="2562" crc="4b2000fb" md5="af590ec26dfefd594c0840e9e82b027f" sha1="760341e015f45ce4fbf08455affa4e02ed7cda11"/>
+	</game>
+	<game name="ZZZ-UNK-Demo 3 by Schick, Bastian (1996) (PD)">
+		<description>ZZZ-UNK-Demo 3 by Schick, Bastian (1996) (PD)</description>
+		<rom name="ZZZ-UNK-Demo 3 by Schick, Bastian (1996) (PD).lnx" size="3148" crc="0c7ffa45" md5="1312fbc103a244ad4a38a0743f242bb0" sha1="a38e30800c3b1526e391146e5f32ba4f26912b88"/>
+	</game>
+	<game name="ZZZ-UNK-Demo 4 by Schick, Bastian (1996) (PD)">
+		<description>ZZZ-UNK-Demo 4 by Schick, Bastian (1996) (PD)</description>
+		<rom name="ZZZ-UNK-Demo 4 by Schick, Bastian (1996) (PD).lnx" size="3354" crc="517bb04b" md5="30ab8e15a0a0630282329fe117aca87b" sha1="2219166b8436c00c3fa57c6a8de70b7c7e2f8757"/>
+	</game>
+	<game name="ZZZ-UNK-Demo 5 by Schick, Bastian (1996) (PD)">
+		<description>ZZZ-UNK-Demo 5 by Schick, Bastian (1996) (PD)</description>
+		<rom name="ZZZ-UNK-Demo 5 by Schick, Bastian (1996) (PD).lnx" size="4438" crc="a42dd493" md5="c7ecd303ef43ae56696027792600ef6e" sha1="64ac16c265f6bd3efc8b67fdf3cf40cf42371137"/>
+	</game>
+	<game name="ZZZ-UNK-Demo 6 by Schick, Bastian (1996) (PD)">
+		<description>ZZZ-UNK-Demo 6 by Schick, Bastian (1996) (PD)</description>
+		<rom name="ZZZ-UNK-Demo 6 by Schick, Bastian (1996) (PD).lnx" size="15414" crc="87c75dff" md5="f8abed0d7f31aa2569cfdd9760f4dbdd" sha1="5d61db4604c7f99700827c0d22bff2d8e0152fdf"/>
+	</game>
+	<game name="ZZZ-UNK-Demo 6 by Schick, Bastian (1996) (PD) [a]">
+		<description>ZZZ-UNK-Demo 6 by Schick, Bastian (1996) (PD) [a]</description>
+		<rom name="ZZZ-UNK-Demo 6 by Schick, Bastian (1996) (PD) [a].lnx" size="15406" crc="93d96d79" md5="c1a279e00c00c89ca5489ae851e33fb9" sha1="12c82b878a1b27e79bddd1a55ceba8b5adeb9dc7"/>
+	</game>
+	<game name="ZZZ-UNK-devoecosmostea_pal_8_83">
+		<description>ZZZ-UNK-devoecosmostea_pal_8_83</description>
+		<rom name="ZZZ-UNK-devoecosmostea_pal_8_83.lnx" size="20748" crc="3ce6ef94" md5="e14efebe26ab8538e5fef83bed47ba7b" sha1="3fd1e783f75e8f9e8b8bb126847fffd1aa00d40b"/>
+	</game>
+	<game name="ZZZ-UNK-diaporama">
+		<description>ZZZ-UNK-diaporama</description>
+		<rom name="ZZZ-UNK-diaporama.lnx" size="262208" crc="4fa19868" md5="0b85db6fe5d6d5b989407ee81c51fd4f" sha1="fdac9ffb9f0330ee1b9265c86ef9b91e9e6c225d"/>
+	</game>
+	<game name="ZZZ-UNK-disney_pal_8_83">
+		<description>ZZZ-UNK-disney_pal_8_83</description>
+		<rom name="ZZZ-UNK-disney_pal_8_83.lnx" size="18371" crc="f0249af7" md5="6210e9f649c228b7bc9f986f3440a5b0" sha1="2d04200ef619585cdcd220e2b671417537505c05"/>
+	</game>
+	<game name="ZZZ-UNK-dolphin_pal_8_83">
+		<description>ZZZ-UNK-dolphin_pal_8_83</description>
+		<rom name="ZZZ-UNK-dolphin_pal_8_83.lnx" size="26487" crc="4b2d4e72" md5="7502273f7f0047bc419a27dfdfbfc173" sha1="53177ae098ec39fad6298c06b614a23bc7e70a82"/>
+	</game>
+	<game name="ZZZ-UNK-Drawtest by Schick, Bastian (199x) (PD)">
+		<description>ZZZ-UNK-Drawtest by Schick, Bastian (199x) (PD)</description>
+		<rom name="ZZZ-UNK-Drawtest by Schick, Bastian (199x) (PD).lnx" size="14623" crc="5de8364c" md5="372b28820e8fa1ba2f146db98c1e02df" sha1="967aad8b405dc910484e7008444f8165e4e188ad"/>
+	</game>
+	<game name="ZZZ-UNK-Dynalynx v0.4">
+		<description>ZZZ-UNK-Dynalynx v0.4</description>
+		<rom name="ZZZ-UNK-Dynalynx v0.4.lnx" size="262208" crc="d7b11f79" md5="ffa4abab925d3981b777746e919d6e33" sha1="322ae7f0be13ed385bf718eb728fc0c6ccf8ae86"/>
+	</game>
+	<game name="ZZZ-UNK-fighter2">
+		<description>ZZZ-UNK-fighter2</description>
+		<rom name="ZZZ-UNK-fighter2.lnx" size="37730" crc="8ad287ce" md5="f28dfbdcce9ec815919185cbe51c4f20" sha1="5191158972ee3cfda618c92e9934290ec04b08a9"/>
+	</game>
+	<game name="ZZZ-UNK-Fire (Fever) Demo by Schick, Bastian (1997) (PD)">
+		<description>ZZZ-UNK-Fire (Fever) Demo by Schick, Bastian (1997) (PD)</description>
+		<rom name="ZZZ-UNK-Fire (Fever) Demo by Schick, Bastian (1997) (PD).lnx" size="5878" crc="d96877d9" md5="2375b91a6675f7ef3a7daf6bcf59a5a1" sha1="1d32b58b450eb646c46eaf96665a4ae2ab9455dc"/>
+	</game>
+	<game name="ZZZ-UNK-Font Test 2 by Schick, Bastian (199x) (PD) [a]">
+		<description>ZZZ-UNK-Font Test 2 by Schick, Bastian (199x) (PD) [a]</description>
+		<rom name="ZZZ-UNK-Font Test 2 by Schick, Bastian (199x) (PD) [a].lnx" size="1929" crc="52c9e5a3" md5="b7c114f26f559c2ada474ac6d3a5d9d3" sha1="cf1e739d85b24484ee65092d0af27bd2f0a85a1c"/>
+	</game>
+	<game name="ZZZ-UNK-fruitbasket_pal_8_83">
+		<description>ZZZ-UNK-fruitbasket_pal_8_83</description>
+		<rom name="ZZZ-UNK-fruitbasket_pal_8_83.lnx" size="20078" crc="27445728" md5="bf15057649db9597cdfb8282a201c8f1" sha1="7a4a404596cf3aff48ee669a36095b872bf0fb06"/>
+	</game>
+	<game name="ZZZ-UNK-gnop 0.4SE">
+		<description>ZZZ-UNK-gnop 0.4SE</description>
+		<rom name="ZZZ-UNK-gnop 0.4SE.lnx" size="17643" crc="71c7087d" md5="d54ff8e1150cb60e54d79d534fae458d" sha1="88a91d549c8d49cb1b79e82e4406eb994f39cb84"/>
+	</game>
+	<game name="ZZZ-UNK-gnop 0.6">
+		<description>ZZZ-UNK-gnop 0.6</description>
+		<rom name="ZZZ-UNK-gnop 0.6.lnx" size="24424" crc="0087fe65" md5="623354ec6da68ce483feb46063a98022" sha1="7f4a9606af2af5fa748d5b7dc8a6ed78dd328e8c"/>
+	</game>
+	<game name="ZZZ-UNK-GOTBALLS">
+		<description>ZZZ-UNK-GOTBALLS</description>
+		<rom name="ZZZ-UNK-GOTBALLS.lnx" size="262208" crc="150de159" md5="0fbe259f695f630753c6f0fbaf3c73ab" sha1="5f550a5c318fff8e1dda57df6a849c3a845cb2c5"/>
+	</game>
+	<game name="ZZZ-UNK-I2C EEPROM Test by Schick, Bastian (1996) (PD)">
+		<description>ZZZ-UNK-I2C EEPROM Test by Schick, Bastian (1996) (PD)</description>
+		<rom name="ZZZ-UNK-I2C EEPROM Test by Schick, Bastian (1996) (PD).lnx" size="3966" crc="0a6c3580" md5="5c33dce9ba2d4681aaec8efe7811e8d7" sha1="b4e54e980835695527b099895ef99605c65302ff"/>
+	</game>
+	<game name="ZZZ-UNK-insert">
+		<description>ZZZ-UNK-insert</description>
+		<rom name="ZZZ-UNK-insert.lnx" size="5729" crc="cd4c092f" md5="8382c88e0cf73190234f6ab3d6786c27" sha1="9c0d581c37cb9d6af56b36280ca31e1a28e73440"/>
+	</game>
+	<game name="ZZZ-UNK-Insert Game Screen by Schick, Bastian (199x) (PD)">
+		<description>ZZZ-UNK-Insert Game Screen by Schick, Bastian (199x) (PD)</description>
+		<rom name="ZZZ-UNK-Insert Game Screen by Schick, Bastian (199x) (PD).lnx" size="890" crc="d000f7ba" md5="f2caf9c3b741d5da5bd931d5279d2bba" sha1="7145496fc38ee5a8bf56b86e7600b4d813a4a2c5"/>
+	</game>
+	<game name="ZZZ-UNK-IRQ Test by Schick, Bastian (1998) (PD) [a]">
+		<description>ZZZ-UNK-IRQ Test by Schick, Bastian (1998) (PD) [a]</description>
+		<rom name="ZZZ-UNK-IRQ Test by Schick, Bastian (1998) (PD) [a].lnx" size="480" crc="321e3ccd" md5="edf407a03b04085e139316e9e9a78bc0" sha1="48c9f3abc7cf764405b56ccfd5563de3d9f86907"/>
+	</game>
+	<game name="ZZZ-UNK-jellybeans (2005-08-24)">
+		<description>ZZZ-UNK-jellybeans (2005-08-24)</description>
+		<rom name="ZZZ-UNK-jellybeans (2005-08-24).lnx" size="31122" crc="0d4c83dd" md5="db958b386e9b3383bf2dd49e0ae496c8" sha1="ee92f805b76ad980c026c8b6efb19b2d9747bf97"/>
+	</game>
+	<game name="ZZZ-UNK-JumTro #1 by Jum High '98 (PD)">
+		<description>ZZZ-UNK-JumTro #1 by Jum High '98 (PD)</description>
+		<rom name="ZZZ-UNK-JumTro #1 by Jum High '98 (PD).lnx" size="18716" crc="ed507061" md5="977760ecce5d1ac6b8c04433568c2ab7" sha1="9bace5820d3d8750fdd70724fd6b5d8fc1226689"/>
+	</game>
+	<game name="ZZZ-UNK-kimura_pal_8_83">
+		<description>ZZZ-UNK-kimura_pal_8_83</description>
+		<rom name="ZZZ-UNK-kimura_pal_8_83.lnx" size="23641" crc="85b8072c" md5="46d9daf9ee9e51f7a6636dc83f9578de" sha1="072d102a2b06f702967082179c9ed95419e7dde2"/>
+	</game>
+	<game name="ZZZ-UNK-Kistenschieben v0.2">
+		<description>ZZZ-UNK-Kistenschieben v0.2</description>
+		<rom name="ZZZ-UNK-Kistenschieben v0.2.lnx" size="262208" crc="8fa3f79f" md5="f89a607ff520628ceb4787a23540af5a" sha1="36d487eddc855cb497dd88e1910346695e293580"/>
+	</game>
+	<game name="ZZZ-UNK-Lite (Fever) by Schick, Bastian (1997) (PD)">
+		<description>ZZZ-UNK-Lite (Fever) by Schick, Bastian (1997) (PD)</description>
+		<rom name="ZZZ-UNK-Lite (Fever) by Schick, Bastian (1997) (PD).lnx" size="10229" crc="1ce9b4ad" md5="90d6f4373a0b5249ad0036712e09ac98" sha1="20f4c1664dadcbf6af6013c2a42407c556fd0efe"/>
+	</game>
+	<game name="ZZZ-UNK-Logon by Schick, Bastian (1996) (PD)">
+		<description>ZZZ-UNK-Logon by Schick, Bastian (1996) (PD)</description>
+		<rom name="ZZZ-UNK-Logon by Schick, Bastian (1996) (PD).lnx" size="4890" crc="88a0a9c8" md5="ae138ded921f36a935b2bff9fb0e563f" sha1="d6a2f9ced89b82c213106ae999648bc22d71f209"/>
+	</game>
+	<game name="ZZZ-UNK-Logon by Schick, Bastian (1996) (PD) [a]">
+		<description>ZZZ-UNK-Logon by Schick, Bastian (1996) (PD) [a]</description>
+		<rom name="ZZZ-UNK-Logon by Schick, Bastian (1996) (PD) [a].lnx" size="4897" crc="f215c0d4" md5="987c9fe3791f8976cebda61a67bd292b" sha1="8777a5c28ec5b652ae453f2a9b958f50655ce168"/>
+	</game>
+	<game name="ZZZ-UNK-Lynx Reloaded - Bjorn Spruck 2003">
+		<description>ZZZ-UNK-Lynx Reloaded - Bjorn Spruck 2003</description>
+		<rom name="ZZZ-UNK-Lynx Reloaded - Bjorn Spruck 2003.lnx" size="262208" crc="4411b373" md5="b4fcfea53cd2e3accff00d838b708472" sha1="c23154760fc461a04b2fdf563b0b990a5089e0f7"/>
+	</game>
+	<game name="ZZZ-UNK-MandelBrot Demo by Schick, Bastian (1996) (PD)">
+		<description>ZZZ-UNK-MandelBrot Demo by Schick, Bastian (1996) (PD)</description>
+		<rom name="ZZZ-UNK-MandelBrot Demo by Schick, Bastian (1996) (PD).lnx" size="4974" crc="fb92992d" md5="e5be63492443a109a27bdf981ded9acd" sha1="2a5ce00756acec65e1369b3b21f43cfddfdb1c47"/>
+	</game>
+	<game name="ZZZ-UNK-Micro Font Data by Schick, Bastian (1999) (PD)">
+		<description>ZZZ-UNK-Micro Font Data by Schick, Bastian (1999) (PD)</description>
+		<rom name="ZZZ-UNK-Micro Font Data by Schick, Bastian (1999) (PD).lnx" size="854" crc="21df9d29" md5="665b4a3a937ddf36d22bdb2652de52fc" sha1="213321f2b78ed7c38748beea231f7ef240622234"/>
+	</game>
+	<game name="ZZZ-UNK-Micro Font Dumper by Schick, Bastian (199x) (PD)">
+		<description>ZZZ-UNK-Micro Font Dumper by Schick, Bastian (199x) (PD)</description>
+		<rom name="ZZZ-UNK-Micro Font Dumper by Schick, Bastian (199x) (PD).lnx" size="4199" crc="7819be94" md5="fb08ba457a8d9088afbdbd0e1f95a60d" sha1="9ef5eddcb2d3ea6e05c960c297700e4a1d5f7178"/>
+	</game>
+	<game name="ZZZ-UNK-Moon Runner by Jum High (PD)">
+		<description>ZZZ-UNK-Moon Runner by Jum High (PD)</description>
+		<rom name="ZZZ-UNK-Moon Runner by Jum High (PD).lnx" size="19277" crc="554f8b2d" md5="8bcc16c4cebd604aa5ee1506b2d1a71a" sha1="c771f5588b3adde2e21d0bf78b8ce6d8c40e694e"/>
+	</game>
+	<game name="ZZZ-UNK-multcart">
+		<description>ZZZ-UNK-multcart</description>
+		<rom name="ZZZ-UNK-multcart.lnx" size="2703" crc="60e2f320" md5="04d9c262c9dadf08416e680a902912d6" sha1="5c29691066db1e38e52eaeabc9d12b81ff4def2b"/>
+	</game>
+	<game name="ZZZ-UNK-Multi Pong 1k by Bjoern Spruck">
+		<description>ZZZ-UNK-Multi Pong 1k by Bjoern Spruck</description>
+		<rom name="ZZZ-UNK-Multi Pong 1k by Bjoern Spruck.lnx" size="1022" crc="411f67fb" md5="0454be32769dc9f5269211eb0c781da4" sha1="f6c0f6f7bbf038fa7f77d9729596b7d591bbbda5"/>
+	</game>
+	<game name="ZZZ-UNK-multipong1k_1player">
+		<description>ZZZ-UNK-multipong1k_1player</description>
+		<rom name="ZZZ-UNK-multipong1k_1player.lnx" size="1014" crc="88bf1cc9" md5="c451cea23290601d7f93cbc2225acdc9" sha1="647cea0d59079605e57a88cd95120a39977dec3e"/>
+	</game>
+	<game name="ZZZ-UNK-multipong1k_2player">
+		<description>ZZZ-UNK-multipong1k_2player</description>
+		<rom name="ZZZ-UNK-multipong1k_2player.lnx" size="1014" crc="81f0f2ee" md5="f46b77e94226b55007d27235937c7e86" sha1="890b9484b5636a1a198274059ae918b40e51333d"/>
+	</game>
+	<game name="ZZZ-UNK-orgna012">
+		<description>ZZZ-UNK-orgna012</description>
+		<rom name="ZZZ-UNK-orgna012.lnx" size="262208" crc="e37f9dab" md5="bf86f2e1b287907db6bb94906ce87d72" sha1="bca28ac30f640dd85e73e008bbfa4a80d11f61d4"/>
+	</game>
+	<game name="ZZZ-UNK-othello">
+		<description>ZZZ-UNK-othello</description>
+		<rom name="ZZZ-UNK-othello.lnx" size="262208" crc="4001fe9d" md5="917f10900a1b06ec0f3a284761af34f6" sha1="ed71e4f11abc4854debb99f05541db4fb84674bc"/>
+	</game>
+	<game name="ZZZ-UNK-othello [lyx]">
+		<description>ZZZ-UNK-othello [lyx]</description>
+		<rom name="ZZZ-UNK-othello [lyx].lnx" size="25180" crc="29f8806d" md5="b8fc04127e69bc4b077bb1956e9eb79a" sha1="86c3d1ddc58404926f52c0d15a740bc3dd629f9d"/>
+	</game>
+	<game name="ZZZ-UNK-ottelo">
+		<description>ZZZ-UNK-ottelo</description>
+		<rom name="ZZZ-UNK-ottelo.lnx" size="1024" crc="e90a66d9" md5="e029f0a95dcfe38ec0314b71b8ec004b" sha1="24cfb521b4a294056440563ebdb5477350488825"/>
+	</game>
+	<game name="ZZZ-UNK-palette">
+		<description>ZZZ-UNK-palette</description>
+		<rom name="ZZZ-UNK-palette.lnx" size="262208" crc="4e5d05fb" md5="1b467d6b53675c33452a6c43d2ef978e" sha1="5ce34a3204764a6eaa031de7c5dc258ca40d3cf4"/>
+	</game>
+	<game name="ZZZ-UNK-peugeot">
+		<description>ZZZ-UNK-peugeot</description>
+		<rom name="ZZZ-UNK-peugeot.lnx" size="524352" crc="27d932dd" md5="facdf50d1bda1acf0800c46652a4414a" sha1="ef01a0d9b021cd4e765fcc674759e5d245defdd8"/>
+	</game>
+	<game name="ZZZ-UNK-Play Sound Sample by Schick, Bastian (1996) (PD)">
+		<description>ZZZ-UNK-Play Sound Sample by Schick, Bastian (1996) (PD)</description>
+		<rom name="ZZZ-UNK-Play Sound Sample by Schick, Bastian (1996) (PD).lnx" size="1960" crc="6a92e2d5" md5="1694a443b68eb19cd763b647bfe08ee3" sha1="4ffadabcc5633a3ef62cac4f1bce3ce0ebf52498"/>
+	</game>
+	<game name="ZZZ-UNK-Poker Game">
+		<description>ZZZ-UNK-Poker Game</description>
+		<rom name="ZZZ-UNK-Poker Game.lnx" size="262208" crc="01cc59d5" md5="9334e4a8c59c0757eaa6662b1a9d8788" sha1="9a6cfef1bd475e7f43a622560704e8910dafd9f4"/>
+	</game>
+	<game name="ZZZ-UNK-Poker Game 256 (2005-06-20)">
+		<description>ZZZ-UNK-Poker Game 256 (2005-06-20)</description>
+		<rom name="ZZZ-UNK-Poker Game 256 (2005-06-20).lnx" size="262208" crc="0b081143" md5="e1bb5ab98fc7102db4b657312af27a1e" sha1="b597e25252932c9c6d71f1e1ae17b52f92a0b7df"/>
+	</game>
+	<game name="ZZZ-UNK-Poker Game 512 (2005-06-20)">
+		<description>ZZZ-UNK-Poker Game 512 (2005-06-20)</description>
+		<rom name="ZZZ-UNK-Poker Game 512 (2005-06-20).lnx" size="524352" crc="2d446017" md5="e33c3b93b7f88196189d33fe762776e7" sha1="12f76367da286f434838daab36e0184fbb3db97a"/>
+	</game>
+	<game name="ZZZ-UNK-Pong 4 Fun v0.20">
+		<description>ZZZ-UNK-Pong 4 Fun v0.20</description>
+		<rom name="ZZZ-UNK-Pong 4 Fun v0.20.lnx" size="7905" crc="80727630" md5="d9897fcc4f0b092c70312b1e856c1d0b" sha1="6fef5e203b45a691c2764c3628c3e9b5f2ed1efe"/>
+	</game>
+	<game name="ZZZ-UNK-PONR_II">
+		<description>ZZZ-UNK-PONR_II</description>
+		<rom name="ZZZ-UNK-PONR_II.lnx" size="19745" crc="80e6358e" md5="42b907539ff2c1c81d335ba2d24a4026" sha1="e3984ddace348d17180e158088a0137f9eacbf28"/>
+	</game>
+	<game name="ZZZ-UNK-puyo">
+		<description>ZZZ-UNK-puyo</description>
+		<rom name="ZZZ-UNK-puyo.lnx" size="10282" crc="937fca1e" md5="00d3ecea7d8ee4c14078d8309b9bb587" sha1="28441b3a1e6e7844f2038aaf56ba729a38acee73"/>
+	</game>
+	<game name="ZZZ-UNK-rapide_racer">
+		<description>ZZZ-UNK-rapide_racer</description>
+		<rom name="ZZZ-UNK-rapide_racer.lnx" size="262208" crc="cd237884" md5="ab5efd600313da42fa079207bb6be8ba" sha1="1a43936d369c98100816c06533fd576069767d7a"/>
+	</game>
+	<game name="ZZZ-UNK-rapide_racer [lyx]">
+		<description>ZZZ-UNK-rapide_racer [lyx]</description>
+		<rom name="ZZZ-UNK-rapide_racer [lyx].lnx" size="37092" crc="02a7c593" md5="981ffd7a09c1c32e3013fbbe2ec30764" sha1="3a6946270152fbcbb93a58164be9ae23f8d33983"/>
+	</game>
+	<game name="ZZZ-UNK-Raw by Schick, Bastian (1997) (PD)">
+		<description>ZZZ-UNK-Raw by Schick, Bastian (1997) (PD)</description>
+		<rom name="ZZZ-UNK-Raw by Schick, Bastian (1997) (PD).lnx" size="3773" crc="1527d20c" md5="1068527a6f6e61dc391a441545eaf325" sha1="7eb373d2588aef2f971285465f42d42cc7cae7f0"/>
+	</game>
+	<game name="ZZZ-UNK-Raw by Schick, Bastian (1997) (PD) [a2]">
+		<description>ZZZ-UNK-Raw by Schick, Bastian (1997) (PD) [a2]</description>
+		<rom name="ZZZ-UNK-Raw by Schick, Bastian (1997) (PD) [a2].lnx" size="3765" crc="b43dfcac" md5="9681193d59ba4d5191dbcbba23ad596b" sha1="6c93c9f58d65a9682ecc0e81a5310ec51ff115ec"/>
+	</game>
+	<game name="ZZZ-UNK-seastars_pal_8_83">
+		<description>ZZZ-UNK-seastars_pal_8_83</description>
+		<rom name="ZZZ-UNK-seastars_pal_8_83.lnx" size="27216" crc="604bd0e9" md5="e05aa29ca9fc4a281862e374dbe51681" sha1="59fd9bce6f92a294ab4503b89c0bd74bc95298cc"/>
+	</game>
+	<game name="ZZZ-UNK-shore_pal_8_83">
+		<description>ZZZ-UNK-shore_pal_8_83</description>
+		<rom name="ZZZ-UNK-shore_pal_8_83.lnx" size="25853" crc="3b1bdbdc" md5="bcf8c728672925a0082d7127bd679e3f" sha1="180cdc1e512681dbb2209c6203f914da52ef7bfb"/>
+	</game>
+	<game name="ZZZ-UNK-Show King Tut by Schick, Bastian (1996) (PD)">
+		<description>ZZZ-UNK-Show King Tut by Schick, Bastian (1996) (PD)</description>
+		<rom name="ZZZ-UNK-Show King Tut by Schick, Bastian (1996) (PD).lnx" size="7940" crc="7fd4e0b0" md5="b643cbea96c0d3c4caf493051aae7b05" sha1="1a621da9049ac53e085b60c927459631229d80c7"/>
+	</game>
+	<game name="ZZZ-UNK-Show King Tut by Schick, Bastian (1996) (PD) [a]">
+		<description>ZZZ-UNK-Show King Tut by Schick, Bastian (1996) (PD) [a]</description>
+		<rom name="ZZZ-UNK-Show King Tut by Schick, Bastian (1996) (PD) [a].lnx" size="4423" crc="246135d2" md5="de8d062956ab59c0f18d6b58d3427890" sha1="cd93e1ea092ebd825cf6fea492fd880cd870facd"/>
+	</game>
+	<game name="ZZZ-UNK-shuttle_pal_8_83">
+		<description>ZZZ-UNK-shuttle_pal_8_83</description>
+		<rom name="ZZZ-UNK-shuttle_pal_8_83.lnx" size="20601" crc="36837a21" md5="66b43ec9fc0cb9843d7f2e58c83aac3c" sha1="0e840afd997610143d8b2d4e0586e54f66e36ff0"/>
+	</game>
+	<game name="ZZZ-UNK-sinscrol">
+		<description>ZZZ-UNK-sinscrol</description>
+		<rom name="ZZZ-UNK-sinscrol.lnx" size="5750" crc="c96d8d50" md5="122d63d864a49a80490d1823351c816c" sha1="f83332fced904c02926895ce76245aea4ee5a062"/>
+	</game>
+	<game name="ZZZ-UNK-Sound Demo by Schick, Bastian (1997) (PD)">
+		<description>ZZZ-UNK-Sound Demo by Schick, Bastian (1997) (PD)</description>
+		<rom name="ZZZ-UNK-Sound Demo by Schick, Bastian (1997) (PD).lnx" size="4642" crc="2709a80c" md5="3b9b04f2a8b9ef5b073852ca0bc34e37" sha1="6cd6a76bd4fc16bec053ec9198a11c4797e6ec13"/>
+	</game>
+	<game name="ZZZ-UNK-Sound Demo by Schick, Bastian (1997) (PD) [a]">
+		<description>ZZZ-UNK-Sound Demo by Schick, Bastian (1997) (PD) [a]</description>
+		<rom name="ZZZ-UNK-Sound Demo by Schick, Bastian (1997) (PD) [a].lnx" size="4623" crc="ddcc9f71" md5="fe8e03f306ba2f7b6d0d44c172ff0e57" sha1="bbd97e200601c07c7298de6d5cc2bf9ad7cfb8a1"/>
+	</game>
+	<game name="ZZZ-UNK-Space Lock (Rev 20040529)(Beta)">
+		<description>ZZZ-UNK-Space Lock (Rev 20040529)(Beta)</description>
+		<rom name="ZZZ-UNK-Space Lock (Rev 20040529)(Beta).lnx" size="262208" crc="10482065" md5="9c38a99618642d7a5bda724ce6c40fb2" sha1="d999e077f47e996942c079fe65b52028d09e4922"/>
+	</game>
+	<game name="ZZZ-UNK-space lock [2005-04-25]">
+		<description>ZZZ-UNK-space lock [2005-04-25]</description>
+		<rom name="ZZZ-UNK-space lock [2005-04-25].lnx" size="262208" crc="ad990f77" md5="75a1c2a88b7aebf60f4b1e86e6d8057a" sha1="0ae71dc3773acd524bab585d19d8ecd9c281d26b"/>
+	</game>
+	<game name="ZZZ-UNK-space lock [2005-05-16]">
+		<description>ZZZ-UNK-space lock [2005-05-16]</description>
+		<rom name="ZZZ-UNK-space lock [2005-05-16].lnx" size="262208" crc="d2e22edc" md5="e3302bd244f4c3f5627c31aebac83bbd" sha1="32f0e03fdbb1483efec8b37bc54e181521dbdf5b"/>
+	</game>
+	<game name="ZZZ-UNK-space lock Demo (o)">
+		<description>ZZZ-UNK-space lock Demo (o)</description>
+		<rom name="ZZZ-UNK-space lock Demo (o).lnx" size="32729" crc="923b5e56" md5="d48af7ea8087eb0bd3c331dc0c8ceb98" sha1="63a371e4694e01259e85a3311ba4cd2b65274dce"/>
+	</game>
+	<game name="ZZZ-UNK-Sprite Ed by Schick, Bastian (1996) (PD)">
+		<description>ZZZ-UNK-Sprite Ed by Schick, Bastian (1996) (PD)</description>
+		<rom name="ZZZ-UNK-Sprite Ed by Schick, Bastian (1996) (PD).lnx" size="5787" crc="86946f2e" md5="8b78fcbe75163d37041eaef6ac306266" sha1="4484216d83f769d2005e5a638a12c54a3496db97"/>
+	</game>
+	<game name="ZZZ-UNK-Sprite Ed by Schick, Bastian (1996) (PD) [a]">
+		<description>ZZZ-UNK-Sprite Ed by Schick, Bastian (1996) (PD) [a]</description>
+		<rom name="ZZZ-UNK-Sprite Ed by Schick, Bastian (1996) (PD) [a].lnx" size="5764" crc="8db7d177" md5="bfda0789af531892a66b03ac806ca5de" sha1="d7ebf3568edf75e12b51446240c0b54cd362e2da"/>
+	</game>
+	<game name="ZZZ-UNK-StarDreamer - Cutscene (2002) (PD)">
+		<description>ZZZ-UNK-StarDreamer - Cutscene (2002) (PD)</description>
+		<rom name="ZZZ-UNK-StarDreamer - Cutscene (2002) (PD).lnx" size="6401" crc="0f79604e" md5="056677aac597908c5cf729057361a2ec" sha1="c580a0a2066a4710a78655da5208168a01b05401"/>
+	</game>
+	<game name="ZZZ-UNK-StarDreamer - Docked (2002) (PD)">
+		<description>ZZZ-UNK-StarDreamer - Docked (2002) (PD)</description>
+		<rom name="ZZZ-UNK-StarDreamer - Docked (2002) (PD).lnx" size="21838" crc="47210739" md5="f0a798f772176d8b8647a206f193482b" sha1="2be5c978dc927d51bc4797be891e8c336c0a3cc4"/>
+	</game>
+	<game name="ZZZ-UNK-StarDreamer - Flying (2002) (PD)">
+		<description>ZZZ-UNK-StarDreamer - Flying (2002) (PD)</description>
+		<rom name="ZZZ-UNK-StarDreamer - Flying (2002) (PD).lnx" size="29145" crc="fc19e3c1" md5="b5a27a8578184294db80dea0a9fdde42" sha1="85b86785fd667228d2b9af348b9cf89400f0136b"/>
+	</game>
+	<game name="ZZZ-UNK-StarDreamer - Full Game (2002) (PD)">
+		<description>ZZZ-UNK-StarDreamer - Full Game (2002) (PD)</description>
+		<rom name="ZZZ-UNK-StarDreamer - Full Game (2002) (PD).lnx" size="262208" crc="4b660f47" md5="7b5df89d2f7bfa45eeffbf19a7d3e56d" sha1="c6d62d5cf9cb546542a7dbb81ffd2f1241a9a7ee"/>
+	</game>
+	<game name="ZZZ-UNK-StarDreamer - Intro (2002) (PD)">
+		<description>ZZZ-UNK-StarDreamer - Intro (2002) (PD)</description>
+		<rom name="ZZZ-UNK-StarDreamer - Intro (2002) (PD).lnx" size="16486" crc="fbc2b4d1" md5="935774bc9175c411bca2c2dfa870e814" sha1="ffc6eb826408532be41438c06b5134188a00b01a"/>
+	</game>
+	<game name="ZZZ-UNK-Teen Dance">
+		<description>ZZZ-UNK-Teen Dance</description>
+		<rom name="ZZZ-UNK-Teen Dance.lnx" size="262208" crc="b1cccfb8" md5="878e1666442723ae9cf7ad89656d0bef" sha1="473546b7580ddac841fe2c7631e9f85996021a43"/>
+	</game>
+	<game name="ZZZ-UNK-Teen Dance [o]">
+		<description>ZZZ-UNK-Teen Dance [o]</description>
+		<rom name="ZZZ-UNK-Teen Dance [o].lnx" size="40195" crc="0e65c881" md5="3285a3d7c541d750a3b4e99940ad6ddf" sha1="52401f6b6b69061d4ecea4e591052d52ac510927"/>
+	</game>
+	<game name="ZZZ-UNK-tempest">
+		<description>ZZZ-UNK-tempest</description>
+		<rom name="ZZZ-UNK-tempest.lnx" size="262208" crc="88793c75" md5="32236b95887515b6c0344a36ce0cebde" sha1="a37118bfd60c2d4dde8a915674fcf4b693aaefd6"/>
+	</game>
+	<game name="ZZZ-UNK-the_end_pal_8_83">
+		<description>ZZZ-UNK-the_end_pal_8_83</description>
+		<rom name="ZZZ-UNK-the_end_pal_8_83.lnx" size="19867" crc="67718358" md5="727caa923fcbd6d81a7b007d1a5c0f17" sha1="5f5c6684bd3b896934fdb967db733c81fab1b156"/>
+	</game>
+	<game name="ZZZ-UNK-Tron 6 fun v0.15">
+		<description>ZZZ-UNK-Tron 6 fun v0.15</description>
+		<rom name="ZZZ-UNK-Tron 6 fun v0.15.lnx" size="30173" crc="0d44bf68" md5="50606b4412d934732fa8d218b121e0cd" sha1="bcaa914add36b771f33763767349f38ec45dc209"/>
+	</game>
+	<game name="ZZZ-UNK-v6SE">
+		<description>ZZZ-UNK-v6SE</description>
+		<rom name="ZZZ-UNK-v6SE.lnx" size="262208" crc="f3bfc637" md5="ff01dd789940658c4f34ad54d3aac0fd" sha1="b4a5dfeadd17100593040f3d95aaa52850c0fd1d"/>
+	</game>
+	<game name="ZZZ-UNK-v7SE">
+		<description>ZZZ-UNK-v7SE</description>
+		<rom name="ZZZ-UNK-v7SE.lnx" size="262208" crc="9a31a27d" md5="5eb0bf9eae6f979325198358fc5332e1" sha1="c5b628d6bdd59929474c357c4b7eb2f789b98dbc"/>
+	</game>
+</datafile>

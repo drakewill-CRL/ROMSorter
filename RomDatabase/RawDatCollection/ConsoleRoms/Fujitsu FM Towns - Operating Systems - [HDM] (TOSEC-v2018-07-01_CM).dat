@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Fujitsu FM Towns - Operating Systems - [HDM]</name>
+		<description>Fujitsu FM Towns - Operating Systems - [HDM] (TOSEC-v2018-07-01)</description>
+		<category>TOSEC</category>
+		<version>2018-07-01</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Towns System Software v1.1 L20 English (199x)(Fujitsu)(Boot Disk)">
+		<description>Towns System Software v1.1 L20 English (199x)(Fujitsu)(Boot Disk)</description>
+		<rom name="Towns System Software v1.1 L20 English (199x)(Fujitsu)(Boot Disk).hdm" size="1261568" crc="77aeeba6" md5="8c6e5877fb04c07c0dab58f1634148cb" sha1="c8a298e57eddda9cd9205ab1a8c62c4683ceaac2"/>
+	</game>
+	<game name="Towns System Software v1.1 L20 English (199x)(Fujitsu)(Disk 1)">
+		<description>Towns System Software v1.1 L20 English (199x)(Fujitsu)(Disk 1)</description>
+		<rom name="Towns System Software v1.1 L20 English (199x)(Fujitsu)(Disk 1).hdm" size="1261568" crc="e3eef6f7" md5="27f063e24eea9d6002a48f11f363d011" sha1="bd834b0c6cdb3b7effffb5f9aa78e0f3820a2a9d"/>
+	</game>
+	<game name="Towns System Software v1.1 L20 English (199x)(Fujitsu)(Disk 2)">
+		<description>Towns System Software v1.1 L20 English (199x)(Fujitsu)(Disk 2)</description>
+		<rom name="Towns System Software v1.1 L20 English (199x)(Fujitsu)(Disk 2).hdm" size="1261568" crc="843fb912" md5="a3a50d92b367b69ff7bd5d6657a87110" sha1="d5fae04613c2b94b0fa52eb42682aefcae722a2d"/>
+	</game>
+	<game name="Towns System Software v1.1 L20 English (199x)(Fujitsu)(Disk 2)[a]">
+		<description>Towns System Software v1.1 L20 English (199x)(Fujitsu)(Disk 2)[a]</description>
+		<rom name="Towns System Software v1.1 L20 English (199x)(Fujitsu)(Disk 2)[a].hdm" size="1261568" crc="a420a122" md5="0aa52520270d546cadd0004790594264" sha1="5b42db0578f9ff0b8b19e34f0eea1057dfe30e92"/>
+	</game>
+	<game name="Towns System Software v1.1 L20 English (199x)(Fujitsu)(Disk 3)">
+		<description>Towns System Software v1.1 L20 English (199x)(Fujitsu)(Disk 3)</description>
+		<rom name="Towns System Software v1.1 L20 English (199x)(Fujitsu)(Disk 3).hdm" size="1261568" crc="f3759ed3" md5="9e0db5e08efbe725424e102b521a378d" sha1="1a0e3a57164cae8d7fe1e1f42a81a2ccf2f48270"/>
+	</game>
+	<game name="Towns System Software v1.1 L20 English (199x)(Fujitsu)(Disk 4)">
+		<description>Towns System Software v1.1 L20 English (199x)(Fujitsu)(Disk 4)</description>
+		<rom name="Towns System Software v1.1 L20 English (199x)(Fujitsu)(Disk 4).hdm" size="1261568" crc="e5a85b66" md5="04ce43c9dae65d4c35c89b16b2a3955e" sha1="9c5b2cd9c757e20b90bdcd966b1ce231a7a351b1"/>
+	</game>
+	<game name="Towns System Software v2.1 L51 (1995)(Fujitsu)">
+		<description>Towns System Software v2.1 L51 (1995)(Fujitsu)</description>
+		<rom name="Towns System Software v2.1 L51 (1995)(Fujitsu).hdm" size="1261568" crc="a5bff98a" md5="a65e2ca828d4b343a0220bde0343d2df" sha1="6c5d2cb94fd7d7bb31e6d55ee8700403569e5831"/>
+	</game>
+</datafile>

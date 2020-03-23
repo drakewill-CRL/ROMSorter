@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Coleco ColecoVision ADAM - Games - [LBR]</name>
+		<description>Coleco ColecoVision ADAM - Games - [LBR] (TOSEC-v2011-08-31)</description>
+		<category>TOSEC</category>
+		<version>2011-08-31</version>
+		<author>Grendel - Cid - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Adventure (1986)(Greenberg, Steven)">
+		<description>Adventure (1986)(Greenberg, Steven)</description>
+		<rom name="Adventure (1986)(Greenberg, Steven).lbr" size="66176" crc="fb26ee95" md5="ab62ff054cf2bcb6ef9c628a9db1cc37" sha1="bec18fba0a2358fafc48b21158d555ec3f7d46ba"/>
+	</game>
+	<game name="Aliens (198x)(-)">
+		<description>Aliens (198x)(-)</description>
+		<rom name="Aliens (198x)(-).lbr" size="14464" crc="aefe0469" md5="1a8aebf50a2eb6464b534ae473d0bb5c" sha1="c2ac4605a8d3b4fa190ff0b66a53e62a011805bf"/>
+	</game>
+	<game name="Calloway Golf (1985)(Mix Software)">
+		<description>Calloway Golf (1985)(Mix Software)</description>
+		<rom name="Calloway Golf (1985)(Mix Software).lbr" size="34816" crc="e95f377f" md5="7366f08f44bfb8d17a0616e4d6a6ab4c" sha1="3f2916cb8aed770c4027b23470bd0cffac45cc0e"/>
+	</game>
+	<game name="Captur Qyrc (19xx)(-)">
+		<description>Captur Qyrc (19xx)(-)</description>
+		<rom name="Captur Qyrc (19xx)(-).lbr" size="22272" crc="bceb377c" md5="82bffd5978bbe4af096498e03bc4d811" sha1="2f4cc74860cb97cd3efb77f44bd87ca53611a857"/>
+	</game>
+	<game name="Complete Adventure, The (198x)(-)(Disk 1 of 2)">
+		<description>Complete Adventure, The (198x)(-)(Disk 1 of 2)</description>
+		<rom name="Complete Adventure, The (198x)(-)(Disk 1 of 2).lbr" size="55168" crc="25640f77" md5="4e4e14cc5c2be7b82a8f5b009cabd0e6" sha1="232f281dd159738b54ded920542d47989fd8f3b6"/>
+	</game>
+	<game name="Complete Adventure, The (198x)(-)(Disk 2 of 2)">
+		<description>Complete Adventure, The (198x)(-)(Disk 2 of 2)</description>
+		<rom name="Complete Adventure, The (198x)(-)(Disk 2 of 2).lbr" size="97280" crc="6124161c" md5="7fb23c7a70d761adec70b553b989a4a6" sha1="86f17deeb5033a36343f7ac573ce17f695cb9121"/>
+	</game>
+	<game name="DazzleStar (19xx)(-)">
+		<description>DazzleStar (19xx)(-)</description>
+		<rom name="DazzleStar (19xx)(-).lbr" size="93184" crc="1cf8790a" md5="394025bbe919488008cf1a12b9f9197e" sha1="e46b920e024115de9084abe2ccab1828a2385349"/>
+	</game>
+	<game name="General Hospital (19xx)(Rasch, Robert W.)">
+		<description>General Hospital (19xx)(Rasch, Robert W.)</description>
+		<rom name="General Hospital (19xx)(Rasch, Robert W.).lbr" size="14336" crc="d3b9c314" md5="0f7a751a0b470e0430d55635399e4f3a" sha1="0c4bf6481d403db8b51252c97cba555974288770"/>
+	</game>
+	<game name="Quatris (198x)(-)">
+		<description>Quatris (198x)(-)</description>
+		<rom name="Quatris (198x)(-).lbr" size="25472" crc="955e7e1a" md5="6db6264fb3f3c66b62dceda2796662c7" sha1="c3753ac037f87bdef42b9a219eb1cd5bc8d1649e"/>
+	</game>
+	<game name="Trivial (19xx)(Stubblefield, Mike)">
+		<description>Trivial (19xx)(Stubblefield, Mike)</description>
+		<rom name="Trivial (19xx)(Stubblefield, Mike).lbr" size="35328" crc="57a89720" md5="ce00a0957ccc9f8ec1a3c1fd357d8cab" sha1="710e387560820559a7b2c1eef2120b949b83d012"/>
+	</game>
+</datafile>

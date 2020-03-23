@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Kaypro II - Applications</name>
+		<description>Kaypro II - Applications (TOSEC-v2012-02-27)</description>
+		<category>TOSEC</category>
+		<version>2012-02-27</version>
+		<author>TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Perfect Calc v1.00 (1982)(Perfect Software)">
+		<description>Perfect Calc v1.00 (1982)(Perfect Software)</description>
+		<rom name="Perfect Calc v1.00 (1982)(Perfect Software).imd" size="163451" crc="d7c79f18" md5="3d6a6281c12ff8c703e0ba3826fdfb39" sha1="3666da3855bfc9c82a328fee67906ac04b6bd75b"/>
+	</game>
+	<game name="Perfect Speller (1982)(Perfect Software)">
+		<description>Perfect Speller (1982)(Perfect Software)</description>
+		<rom name="Perfect Speller (1982)(Perfect Software).imd" size="150160" crc="c03fc828" md5="54f22925bff2559fda9cf0c88e747c13" sha1="4a405c65a55b5ba9be17b638cfe9c0b539698fbc"/>
+	</game>
+	<game name="Perfect Writer (1982)(Perfect Software)">
+		<description>Perfect Writer (1982)(Perfect Software)</description>
+		<rom name="Perfect Writer (1982)(Perfect Software).imd" size="197701" crc="43cb00ac" md5="91782eeddf93d7d10dbb6534f92e0447" sha1="67145d125f3f50e660ae8b2e299aad8200d59a7f"/>
+	</game>
+	<game name="Profit Plan (1982)(Chang Laboratories)">
+		<description>Profit Plan (1982)(Chang Laboratories)</description>
+		<rom name="Profit Plan (1982)(Chang Laboratories).imd" size="113909" crc="1d967882" md5="576e2530dd519e9af30cbff4b2ae6983" sha1="03d00c14e57e0e84e0e1fa127ab36b47d1731ea4"/>
+	</game>
+	<game name="Select - Teach (1981)(Select Information Systems)">
+		<description>Select - Teach (1981)(Select Information Systems)</description>
+		<rom name="Select - Teach (1981)(Select Information Systems).imd" size="148661" crc="459b51f0" md5="d782f1815abb2f28532bdbe54becce7b" sha1="7bb16452689cbb39a9c8a2088306a98b2f3ca31a"/>
+	</game>
+	<game name="Select - Work Processor (1981)(Select Information Systems)">
+		<description>Select - Work Processor (1981)(Select Information Systems)</description>
+		<rom name="Select - Work Processor (1981)(Select Information Systems).imd" size="106254" crc="ebcb98c5" md5="995a158cf0c9196badf4861892c5d387" sha1="1c8d1a3228e6ac5fdffe7409d921499db22fea72"/>
+	</game>
+	<game name="WordStar v3.3 (1983)(MicroPro)">
+		<description>WordStar v3.3 (1983)(MicroPro)</description>
+		<rom name="WordStar v3.3 (1983)(MicroPro).imd" size="202296" crc="64e0f3d6" md5="39e7dcae4460a1c55b1e65e8554656b8" sha1="6abf468d538e65e82bc0b85cc5d656282048ce3c"/>
+	</game>
+</datafile>

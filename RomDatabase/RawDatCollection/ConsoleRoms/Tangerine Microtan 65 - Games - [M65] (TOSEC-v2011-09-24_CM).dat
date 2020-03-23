@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tangerine Microtan 65 - Games - [M65]</name>
+		<description>Tangerine Microtan 65 - Games - [M65] (TOSEC-v2011-09-24)</description>
+		<category>TOSEC</category>
+		<version>2011-09-24</version>
+		<author>Gnomula - Grendel - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Adventure 7.1 - Sceptre of Hamloth, The (1981)(Dickinson, I.)">
+		<description>Adventure 7.1 - Sceptre of Hamloth, The (1981)(Dickinson, I.)</description>
+		<rom name="Adventure 7.1 - Sceptre of Hamloth, The (1981)(Dickinson, I.).m65" size="8263" crc="adf3e99f" md5="e1725197a4420d12adc84f0235efe959" sha1="4cc95098d7b76f1e9e67e4175a6729bbead687b0"/>
+	</game>
+	<game name="Adventure 7.1 - Sceptre of Hamloth, The (1981)(Dickinson, I.)[a]">
+		<description>Adventure 7.1 - Sceptre of Hamloth, The (1981)(Dickinson, I.)[a]</description>
+		<rom name="Adventure 7.1 - Sceptre of Hamloth, The (1981)(Dickinson, I.)[a].m65" size="8263" crc="41e82728" md5="fcc819a50b25c79110f9af2552962d83" sha1="a1a51a85a617b733e63c129829ead6aed173fc15"/>
+	</game>
+	<game name="Astro Fighter (1984)(MacDonald, G.)">
+		<description>Astro Fighter (1984)(MacDonald, G.)</description>
+		<rom name="Astro Fighter (1984)(MacDonald, G.).m65" size="8263" crc="d2499579" md5="d969c4b807c891cf9d28d358a4cb7e5c" sha1="980e89750f6805ca683d5028b02c6c210de65df1"/>
+	</game>
+	<game name="Berzerk (1984)(MacDonald, G.)">
+		<description>Berzerk (1984)(MacDonald, G.)</description>
+		<rom name="Berzerk (1984)(MacDonald, G.).m65" size="8263" crc="251f9029" md5="906190c39d04f7822e1e059f95ee74bf" sha1="d4a4f850a49e33492fd72ecee12f7eb667092bfa"/>
+	</game>
+	<game name="Defender (1984)(MacDonald, G.)">
+		<description>Defender (1984)(MacDonald, G.)</description>
+		<rom name="Defender (1984)(MacDonald, G.).m65" size="8263" crc="c3965948" md5="01f72e329958812cd73151046209c6ea" sha1="fd419aca846bd0fc8304c852152a2831d92313ad"/>
+	</game>
+	<game name="Hangman (1981)(Microtanic Software)">
+		<description>Hangman (1981)(Microtanic Software)</description>
+		<rom name="Hangman (1981)(Microtanic Software).m65" size="8263" crc="e1ea0fd4" md5="b2ace02647bd642e4893cbf97a228d13" sha1="5ec58abba586b6c432d2eb39231cf0dd5f023c35"/>
+	</game>
+	<game name="Hells Bells (1984)(MacDonald, G.)">
+		<description>Hells Bells (1984)(MacDonald, G.)</description>
+		<rom name="Hells Bells (1984)(MacDonald, G.).m65" size="8263" crc="9b90eb6a" md5="abce8f5cf28711dc7577f715954542bd" sha1="f631554755641ca336440765bf3aae696a62aa07"/>
+	</game>
+	<game name="Lunar Lander (198x)(Woodcock, F.)">
+		<description>Lunar Lander (198x)(Woodcock, F.)</description>
+		<rom name="Lunar Lander (198x)(Woodcock, F.).m65" size="8263" crc="66e2b0cd" md5="d54fc9794f95c792c6033dc55f7e457f" sha1="beecda4f86c25f5313d095831457951c46d6dd3d"/>
+	</game>
+	<game name="Moon Cresta (1985)(MacDonald, G.)">
+		<description>Moon Cresta (1985)(MacDonald, G.)</description>
+		<rom name="Moon Cresta (1985)(MacDonald, G.).m65" size="8263" crc="56c83d14" md5="23712fe15be07362504c601bd7f25298" sha1="a8e33b994c940dfc5431d2c99c4301b5963a2644"/>
+	</game>
+	<game name="Moon Rescue (1984)(MacDonald, G.)">
+		<description>Moon Rescue (1984)(MacDonald, G.)</description>
+		<rom name="Moon Rescue (1984)(MacDonald, G.).m65" size="8263" crc="9532232f" md5="2831ab0c4e23549362c7d93aed181aaa" sha1="1565c6e4f525e5b1bbd890a9f67f89c5b3a1f81a"/>
+	</game>
+	<game name="Othello (1981)(Woodcock, F.)">
+		<description>Othello (1981)(Woodcock, F.)</description>
+		<rom name="Othello (1981)(Woodcock, F.).m65" size="8263" crc="7d8e4d22" md5="d151e0f5cac12a6cb4a473736520e566" sha1="31254f2bc4630f4467de33e2d30a378c923f394c"/>
+	</game>
+	<game name="Slot Machine (1983)(MacDonald, G.)">
+		<description>Slot Machine (1983)(MacDonald, G.)</description>
+		<rom name="Slot Machine (1983)(MacDonald, G.).m65" size="8263" crc="8765d9a7" md5="a2fc5192599b6ac9dea0f1a2c7717b5a" sha1="75f6098809de46cff892059a59bb2e5484fb0ed0"/>
+	</game>
+	<game name="Space Invasion (1980)(Tangerine)">
+		<description>Space Invasion (1980)(Tangerine)</description>
+		<rom name="Space Invasion (1980)(Tangerine).m65" size="8263" crc="59484e43" md5="c1470ac9109751cafb92085e42a580d6" sha1="f746f72e66177659dc772a1842e0eb06c424cce7"/>
+	</game>
+</datafile>

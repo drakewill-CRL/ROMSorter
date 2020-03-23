@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>APF M-1000 - Games</name>
+		<description>APF M-1000 - Games (TOSEC-v2018-03-08)</description>
+		<category>TOSEC</category>
+		<version>2018-03-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Backgammon (1979)(APF)[MG1008]">
+		<description>Backgammon (1979)(APF)[MG1008]</description>
+		<rom name="Backgammon (1979)(APF)[MG1008].bin" size="4096" crc="811c6269" md5="73ae2d72259a017722aea17492afd7a5" sha1="f820334bb6df9b856f54f1957b60a5e70bdd6d7e"/>
+	</game>
+	<game name="Baseball (1979)(APF)[MG1006]">
+		<description>Baseball (1979)(APF)[MG1006]</description>
+		<rom name="Baseball (1979)(APF)[MG1006].bin" size="4096" crc="1fb354b7" md5="1465d677c735e55b4e57a0b6c13c3237" sha1="2c93d8e764b1e1dfdc1bde7888b385cc28064f86"/>
+	</game>
+	<game name="Blackjack (1979)(APF)[MG1007]">
+		<description>Blackjack (1979)(APF)[MG1007]</description>
+		<rom name="Blackjack (1979)(APF)[MG1007].bin" size="4096" crc="38faa709" md5="99013ab95f9f6c31e25485c8f435e80d" sha1="1a99f4781ce4604a550f4ec9d8559e3456303464"/>
+	</game>
+	<game name="Boxing (1979)(APF)[MG1012]">
+		<description>Boxing (1979)(APF)[MG1012]</description>
+		<rom name="Boxing (1979)(APF)[MG1012].bin" size="4096" crc="7121f8b1" md5="085f4494891149adc75a69089091e52a" sha1="e7ae8571b496444ded77aaaa3c1d5f5ee97c651f"/>
+	</game>
+	<game name="Casino 1 - Slots-Roulette-Keno (1979)(APF)[MG1009]">
+		<description>Casino 1 - Slots-Roulette-Keno (1979)(APF)[MG1009]</description>
+		<rom name="Casino 1 - Slots-Roulette-Keno (1979)(APF)[MG1009].bin" size="4096" crc="21d5f63f" md5="5903502975d5ddff0a11100c06e1bd95" sha1="fa34ebdb799ccd2bff9f63ce4189a4ee690706fa"/>
+	</game>
+	<game name="Catena (1979)(APF)[MG1001]">
+		<description>Catena (1979)(APF)[MG1001]</description>
+		<rom name="Catena (1979)(APF)[MG1001].bin" size="2048" crc="6baad95f" md5="da1899730fe8a5a1c03a59b95f5fe438" sha1="b63ad3a60b59aad9b4605ff96f77839565144278"/>
+	</game>
+	<game name="Catena (1979)(APF)[MG1002]">
+		<description>Catena (1979)(APF)[MG1002]</description>
+		<rom name="Catena (1979)(APF)[MG1002].bin" size="2048" crc="5d03a812" md5="8f00482fff09f135a02dd1ff7968905d" sha1="29db4ca3c8b76c413b84b6d2bfd3499a70eccd3d"/>
+	</game>
+	<game name="Space Destroyers (1979)(APF)[MG1013]">
+		<description>Space Destroyers (1979)(APF)[MG1013]</description>
+		<rom name="apf1013a.bin" size="4096" crc="f25215a0" md5="e987cfc57c2e78b67fd5f534982d7b22" sha1="72da492092b883eb31cffb41ea353e919c86d285"/>
+		<rom name="apf1013b.bin" size="2048" crc="8c3a9faa" md5="475c2af1022da15c225a1a9b14961445" sha1="b3cfc23c65558ef7b67c9afa01a306c8123e227f"/>
+	</game>
+</datafile>

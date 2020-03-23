@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>TeleVideo Systems TS-803, TS-803H &amp; TPC-1 - Sources</name>
+		<description>TeleVideo Systems TS-803, TS-803H &amp; TPC-1 - Sources (TOSEC-v2017-04-05)</description>
+		<category>TOSEC</category>
+		<version>2017-04-05</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<url>http://www.tosecdev.org</url>
+		<clrmamepro/>
+	</header>
+	<game name="TPC-1 BIOS Source TeleCalc-Chrt (19xx)(TeleVideo Systems)(TPC-1)">
+		<description>TPC-1 BIOS Source TeleCalc-Chrt (19xx)(TeleVideo Systems)(TPC-1)</description>
+		<rom name="TPC-1 BIOS Source TeleCalc-Chrt (19xx)(TeleVideo Systems)(TPC-1).imd" size="275086" crc="855ec10d" md5="51ee7e45b9683ce26d04671a934be6b3" sha1="359893121b4743dfdc1bd3ea841b9162525e5978"/>
+	</game>
+</datafile>

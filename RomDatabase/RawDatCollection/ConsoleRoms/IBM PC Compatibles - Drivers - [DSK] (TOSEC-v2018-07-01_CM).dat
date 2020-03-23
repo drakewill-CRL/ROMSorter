@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>IBM PC Compatibles - Drivers - [DSK]</name>
+		<description>IBM PC Compatibles - Drivers - [DSK] (TOSEC-v2018-07-01)</description>
+		<category>TOSEC</category>
+		<version>2018-07-01</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="3C589 EtherLink III LAN EtherDisk (1995)(3Com)[NetWare DOS, NetWare OS-2][v5.1]">
+		<description>3C589 EtherLink III LAN EtherDisk (1995)(3Com)[NetWare DOS, NetWare OS-2][v5.1]</description>
+		<rom name="3C589 EtherLink III LAN EtherDisk (1995)(3Com)[NetWare DOS, NetWare OS-2][v5.1].dsk" size="1474560" crc="93076fe9" md5="43c34713854d573757c4af6dfb905c9f" sha1="c1ad1e7cc2ff9411b4e7fec0b4c91d28e520a186"/>
+	</game>
+	<game name="3Com DynamicAccess v1.5.4a (1998-10-12)(3Com)[Win95, Win98, WinNT]">
+		<description>3Com DynamicAccess v1.5.4a (1998-10-12)(3Com)[Win95, Win98, WinNT]</description>
+		<rom name="3Com DynamicAccess v1.5.4a (1998-10-12)(3Com)[Win95, Win98, WinNT].dsk" size="1474560" crc="941d3af4" md5="0f86dc85c1937cb1399dec373e6774a9" sha1="a38a8ec9af7c868aa6b8fa92b63eb9d43843077d"/>
+	</game>
+	<game name="3Com Megahertz 10-100 LAN PCI Card v2.0 (1998)(3Com)">
+		<description>3Com Megahertz 10-100 LAN PCI Card v2.0 (1998)(3Com)</description>
+		<rom name="3Com Megahertz 10-100 LAN PCI Card v2.0 (1998)(3Com).dsk" size="1474560" crc="7873294c" md5="ff63805a41ec2a2be9e87e5dc4248dfa" sha1="015282417b6017c41eacaf257ea1a19dd24eaef5"/>
+	</game>
+	<game name="3Com Megahertz 10-100 LAN PCI Card v2.1 (1998)(3Com)">
+		<description>3Com Megahertz 10-100 LAN PCI Card v2.1 (1998)(3Com)</description>
+		<rom name="3Com Megahertz 10-100 LAN PCI Card v2.1 (1998)(3Com).dsk" size="1474560" crc="cf838443" md5="e4aad7751fc68a2183c3faec5b750fce" sha1="c2178361f60f8fa086bb5e8044da282a615cd700"/>
+	</game>
+	<game name="3ComImpact IQ External ISDN Modem v3.11 (1997)(3Com)[DOS]">
+		<description>3ComImpact IQ External ISDN Modem v3.11 (1997)(3Com)[DOS]</description>
+		<rom name="3ComImpact IQ External ISDN Modem v3.11 (1997)(3Com)[DOS].dsk" size="1474560" crc="de0954f8" md5="985c2ea928d8df1b9e6c37cd184dc360" sha1="855fc4110f901baf16c57f1bed68aa9fda3d4db6"/>
+	</game>
+	<game name="3ComImpact IQ External ISDN Modem v3.11 (1997)(3Com)[Windows]">
+		<description>3ComImpact IQ External ISDN Modem v3.11 (1997)(3Com)[Windows]</description>
+		<rom name="3ComImpact IQ External ISDN Modem v3.11 (1997)(3Com)[Windows].dsk" size="1474560" crc="c476c46a" md5="550f13efd7df03c968656524cf94859a" sha1="3f002d4d208357677dafbdbc8452e6040b2021ef"/>
+	</game>
+	<game name="EtherDisk Diskette for the 3C90X Fast EtherLink XL-EtherLink XL Bus Master NIC Family (1997)(3Com)(Disk 1 of 2)[v2.17A]">
+		<description>EtherDisk Diskette for the 3C90X Fast EtherLink XL-EtherLink XL Bus Master NIC Family (1997)(3Com)(Disk 1 of 2)[v2.17A]</description>
+		<rom name="EtherDisk Diskette for the 3C90X Fast EtherLink XL-EtherLink XL Bus Master NIC Family (1997)(3Com)(Disk 1 of 2)[v2.17A].dsk" size="1474560" crc="5bae358c" md5="f26fdaf48de58d3e2c8888f7efca4652" sha1="d75a5b36c10063b0a02973d43133a61aa85bd06b"/>
+	</game>
+	<game name="EtherDisk Diskette for the 3C90X Fast EtherLink XL-EtherLink XL Bus Master NIC Family (1997)(3Com)(Disk 1 of 2)[v2.1]">
+		<description>EtherDisk Diskette for the 3C90X Fast EtherLink XL-EtherLink XL Bus Master NIC Family (1997)(3Com)(Disk 1 of 2)[v2.1]</description>
+		<rom name="EtherDisk Diskette for the 3C90X Fast EtherLink XL-EtherLink XL Bus Master NIC Family (1997)(3Com)(Disk 1 of 2)[v2.1].dsk" size="1474560" crc="364c8990" md5="c7cc613f4ba6164bb349868dd7aacb95" sha1="059422956df84c64bbabd617e996cb6b0dacab22"/>
+	</game>
+	<game name="EtherDisk Diskette for the 3C90X Fast EtherLink XL-EtherLink XL Bus Master NIC Family (1997)(3Com)(Disk 2 of 2)[v2.17A]">
+		<description>EtherDisk Diskette for the 3C90X Fast EtherLink XL-EtherLink XL Bus Master NIC Family (1997)(3Com)(Disk 2 of 2)[v2.17A]</description>
+		<rom name="EtherDisk Diskette for the 3C90X Fast EtherLink XL-EtherLink XL Bus Master NIC Family (1997)(3Com)(Disk 2 of 2)[v2.17A].dsk" size="1474560" crc="ffa9f263" md5="8fce12be6aab917d33cb9da0873e4b3b" sha1="6fb5e61df810d36a88cbdf23ada161b5274d19e7"/>
+	</game>
+	<game name="EtherDisk Diskette for the 3C90X Fast EtherLink XL-EtherLink XL Bus Master NIC Family (1997)(3Com)(Disk 2 of 2)[v2.1]">
+		<description>EtherDisk Diskette for the 3C90X Fast EtherLink XL-EtherLink XL Bus Master NIC Family (1997)(3Com)(Disk 2 of 2)[v2.1]</description>
+		<rom name="EtherDisk Diskette for the 3C90X Fast EtherLink XL-EtherLink XL Bus Master NIC Family (1997)(3Com)(Disk 2 of 2)[v2.1].dsk" size="1474560" crc="e674386d" md5="b7d9e8a3a2e466903f4e8b68b7894ad9" sha1="8f1f3adafbd0e71f623f460d0d34a1ed629331b1"/>
+	</game>
+	<game name="EtherDisk Diskette for the EtherLink III &amp; Fast EtherLink PCI &amp; EISA Bus Master Adapters (1995)(3Com)[Win95, OS-2][v5.0D]">
+		<description>EtherDisk Diskette for the EtherLink III &amp; Fast EtherLink PCI &amp; EISA Bus Master Adapters (1995)(3Com)[Win95, OS-2][v5.0D]</description>
+		<rom name="EtherDisk Diskette for the EtherLink III &amp; Fast EtherLink PCI &amp; EISA Bus Master Adapters (1995)(3Com)[Win95, OS-2][v5.0D].dsk" size="1474560" crc="fde21035" md5="1b1ecc3ac6de05987a445d6e27034488" sha1="d0d0a44f13d97968ca559f935a932136f577909f"/>
+	</game>
+</datafile>

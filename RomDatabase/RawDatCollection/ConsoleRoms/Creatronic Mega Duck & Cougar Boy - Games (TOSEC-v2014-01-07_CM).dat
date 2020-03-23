@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Creatronic Mega Duck &amp; Cougar Boy - Games</name>
+		<description>Creatronic Mega Duck &amp; Cougar Boy - Games (TOSEC-v2014-01-07)</description>
+		<category>TOSEC</category>
+		<version>2014-01-07</version>
+		<author>Cid</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Arctic Zone (1993)(Commin)">
+		<description>Arctic Zone (1993)(Commin)</description>
+		<rom name="Arctic Zone (1993)(Commin).bin" size="32768" crc="f88f2d25" md5="d9206a9aa8a80650dc14467f1c3a1e9e" sha1="4f3022126f33964e0fb5505fa0caeaa13b995309"/>
+	</game>
+	<game name="Brick Wall, The (1993)(Timlex)">
+		<description>Brick Wall, The (1993)(Timlex)</description>
+		<rom name="Brick Wall, The (1993)(Timlex).bin" size="32768" crc="58efe338" md5="48170b7d77fc96d4f72adccb51299b87" sha1="9b050e41b9aa18dbf5c043f19b7c945c89811cc1"/>
+	</game>
+	<game name="Commin 5 in 1 (1993)(Commin)">
+		<description>Commin 5 in 1 (1993)(Commin)</description>
+		<rom name="Commin 5 in 1 (1993)(Commin).bin" size="65536" crc="ff0da355" md5="b9d32795ac1004892e7f75fbbabefcc6" sha1="fb4ba6c9823808c2705f597294b784837342cbcb"/>
+	</game>
+	<game name="Magical Tower (1993)(Sachen)">
+		<description>Magical Tower (1993)(Sachen)</description>
+		<rom name="Magical Tower (1993)(Sachen).bin" size="65536" crc="98694021" md5="fecedeed294a15226bf83f6bdb9bd874" sha1="6eefbf8742eba1279f943c321b5d55e45a727a67"/>
+	</game>
+	<game name="Mega Duck 4 in 1 Game (1993)(Sachen)">
+		<description>Mega Duck 4 in 1 Game (1993)(Sachen)</description>
+		<rom name="Mega Duck 4 in 1 Game (1993)(Sachen).bin" size="65536" crc="8046ea70" md5="b69258fca964f04c09217318759a242b" sha1="2a1c5bea602ab27ecf680c88cfe9884186b61438"/>
+	</game>
+	<game name="Pile Wonder (1993)(Commin)">
+		<description>Pile Wonder (1993)(Commin)</description>
+		<rom name="Pile Wonder (1993)(Commin).bin" size="32768" crc="61c81e06" md5="41f5481a13c8e52aafe8266db52e622f" sha1="13d8882371823e5dfb74191ef0addafc43aa1de4"/>
+	</game>
+	<game name="Railway (1993)(Sachen)">
+		<description>Railway (1993)(Sachen)</description>
+		<rom name="Railway (1993)(Sachen).bin" size="65536" crc="2bb6aeb9" md5="c217738067267475f86eec9bc19f462b" sha1="f1a9a8365f1b78057ed5cc647fd68efafc0c49e8"/>
+	</game>
+	<game name="Street Rider (1993)(Commin)">
+		<description>Street Rider (1993)(Commin)</description>
+		<rom name="Street Rider (1993)(Commin).bin" size="32768" crc="74c3377f" md5="284b8c671a7fb408aaa601be44e1f0b5" sha1="9b7d69f9b0a44eeaa36971aabec553ebd3bfdc0e"/>
+	</game>
+	<game name="Suleimans Treasure (1993)(Commin)">
+		<description>Suleimans Treasure (1993)(Commin)</description>
+		<rom name="Suleimans Treasure (1993)(Commin).bin" size="65536" crc="cd2730ac" md5="343da38521cbfb60df79a5e4eb392cf8" sha1="022d7e635ea64c6a525db5d31c30a7d8636f4c18"/>
+	</game>
+</datafile>

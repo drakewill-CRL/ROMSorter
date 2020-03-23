@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Kaypro II - Firmware</name>
+		<description>Kaypro II - Firmware (TOSEC-v2012-02-27)</description>
+		<category>TOSEC</category>
+		<version>2012-02-27</version>
+		<author>TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="KayPLUS '83 v0.2a (1986-09)(MICROCode Consulting)">
+		<description>KayPLUS '83 v0.2a (1986-09)(MICROCode Consulting)</description>
+		<rom name="KayPLUS '83 v0.2a (1986-09)(MICROCode Consulting).rom" size="8192" crc="5e9b817d" md5="426873ffae0a25d5222b960fd4e699ba" sha1="26ea875ee3659a964cbded4ed0c82a3af42db64b"/>
+	</game>
+	<game name="KayPLUS '84 v0.2a (1986-09)(MICROCode Consulting)">
+		<description>KayPLUS '84 v0.2a (1986-09)(MICROCode Consulting)</description>
+		<rom name="KayPLUS '84 v0.2a (1986-09)(MICROCode Consulting).rom" size="8192" crc="4551905a" md5="29bd4e8b200985e740fb0e2720b2dc67" sha1="48f0964edfad05b214810ae5595638245c30e5c0"/>
+	</game>
+	<game name="TurboROM v3.4 (1985)(Advent Products)">
+		<description>TurboROM v3.4 (1985)(Advent Products)</description>
+		<rom name="TurboROM v3.4 (1985)(Advent Products).rom" size="8192" crc="0ec6d39a" md5="1fe84572edc09e448eb78263a441cae5" sha1="8c2a92b8642e144452c28300bf50a00a11a060cd"/>
+	</game>
+</datafile>

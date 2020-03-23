@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>NorthStar Horizon - Various</name>
+		<description>NorthStar Horizon - Various (TOSEC-v2017-04-05)</description>
+		<category>TOSEC</category>
+		<version>2017-04-05</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<url>http://www.tosecdev.org</url>
+		<clrmamepro/>
+	</header>
+	<game name="Comstar (19xx)(-)">
+		<description>Comstar (19xx)(-)</description>
+		<rom name="Comstar (19xx)(-).nsi" size="179200" crc="ddd37545" md5="41d9fbd1c575e41d3eb520ca91c737be" sha1="2ed6ccd55d7b8a576e641efec88d30de3c0f3d4e"/>
+	</game>
+	<game name="Defender EPROMs (19xx)(-)">
+		<description>Defender EPROMs (19xx)(-)</description>
+		<rom name="Defender EPROMs (19xx)(-).nsi" size="179200" crc="7f70b20d" md5="f433f5329e84651600d774844e26178f" sha1="e709ce1c3a3b2cf6f77eaf16ea6b199b75e44732"/>
+	</game>
+	<game name="Graphics Backup (19xx)(-)">
+		<description>Graphics Backup (19xx)(-)</description>
+		<rom name="Graphics Backup (19xx)(-).nsi" size="179200" crc="4d07ace2" md5="3c3cc8ceb91f564a642d7a67165831c2" sha1="e416d1ceaa5f77b1c74827f9f43ed2305377122c"/>
+	</game>
+	<game name="Micro 80, Macro 80 v3.44 (19xx)(-)[SER 39138, Format NS]">
+		<description>Micro 80, Macro 80 v3.44 (19xx)(-)[SER 39138, Format NS]</description>
+		<rom name="Micro 80, Macro 80 v3.44 (19xx)(-)[SER 39138, Format NS].nsi" size="179200" crc="0e0e0b83" md5="2b7f8bdca85d14e4096c02587e3cbe07" sha1="cd422bc1e8675cf93150c5278679aeab5e23c408"/>
+	</game>
+	<game name="North Star Rel 5 Double Density Bitstreamer II System Diskette (19xx)(-)">
+		<description>North Star Rel 5 Double Density Bitstreamer II System Diskette (19xx)(-)</description>
+		<rom name="North Star Rel 5 Double Density Bitstreamer II System Diskette (19xx)(-).nsi" size="179200" crc="4268d449" md5="60cd6b73513064a06109adbc526ddc48" sha1="fc571b9fa91ba679ba54ad845d1782617535d807"/>
+	</game>
+	<game name="PDS CP-M (19xx)(-)">
+		<description>PDS CP-M (19xx)(-)</description>
+		<rom name="PDS CP-M (19xx)(-).nsi" size="179200" crc="e0a4e269" md5="6dcaf107a55958a3ab65c3075c1b8372" sha1="24c53ff1ce76258112d9e355cbe668c2c164e3a4"/>
+	</game>
+	<game name="Pictures (19xx)(-)[N-DOS]">
+		<description>Pictures (19xx)(-)[N-DOS]</description>
+		<rom name="Pictures (19xx)(-)[N-DOS].nsi" size="179200" crc="3a49d613" md5="19d3f04b8f617c140862d0ad26c5ba54" sha1="917321551321462187e45867dd2196cd185c1e57"/>
+	</game>
+	<game name="Tiny (19xx)(-)">
+		<description>Tiny (19xx)(-)</description>
+		<rom name="Tiny (19xx)(-).nsi" size="358400" crc="f130d4fd" md5="c4cd756b4b0ec1bb35ac5493ed8fba9c" sha1="0711ba1991557669e851f1277e2a878106c38f76"/>
+	</game>
+</datafile>

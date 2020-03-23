@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>IBM PC Compatibles - Coverdisks - [RAW]</name>
+		<description>IBM PC Compatibles - Coverdisks - [RAW] (TOSEC-v2018-07-01)</description>
+		<category>TOSEC</category>
+		<version>2018-07-01</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Fractal Programming in Turbo Pascal (1990)(M&amp;T Publishing)[DOS]">
+		<description>Fractal Programming in Turbo Pascal (1990)(M&amp;T Publishing)[DOS]</description>
+		<rom name="track00.0.raw" size="236560" crc="d60b7e3a" md5="9c0910185adb8b30da7f0a6df0023ff1" sha1="dcf27636ab23ec38be3e064b5e6287a557f04c45"/>
+		<rom name="track00.1.raw" size="231726" crc="6f5546b5" md5="6f12a867db6080aa31b02fcb245f9900" sha1="3e445a23d13e76c262d7c66eec910cf3c3c6b7aa"/>
+		<rom name="track01.0.raw" size="259909" crc="95ee1ac7" md5="93282da2ef6d26d97d61c6e39ad29176" sha1="704c7680e967731c51c47ed793f9d1bc2cdeaa48"/>
+		<rom name="track01.1.raw" size="366427" crc="70ed9dd7" md5="79611ee4c135136848e4bd824ff4ead2" sha1="304a9e980452adc340f57c3de57f1ae1c3a87c82"/>
+		<rom name="track02.0.raw" size="217166" crc="4d2d9513" md5="c55d6e14746517380f36b46bc3444a37" sha1="a17e94344cc2803a1c4ac379d98b7dae903ffe80"/>
+		<rom name="track02.1.raw" size="225603" crc="e0d76c00" md5="203042b9f3b0ab34f41da8f15c3022d7" sha1="33e0d945921b4f6f7d7a3216fc389a38300184b9"/>
+		<rom name="track03.0.raw" size="258066" crc="1026c605" md5="8d3d82c2518c0831010f68de1430d994" sha1="bab47426aee5e8dad30e0dbc2c924b099f9ec6fa"/>
+		<rom name="track03.1.raw" size="289284" crc="43de5e04" md5="20b6b7cd2109291fe8c46ec7bd165a1f" sha1="298aa61df9c3b0f67791b008af4bcbdb80665d39"/>
+		<rom name="track04.0.raw" size="212294" crc="e3e04fb7" md5="aa8a60e845ac9bbb688f34c78527effa" sha1="947a56f0981458285dc812451678adeffc5bbb55"/>
+		<rom name="track04.1.raw" size="218969" crc="548328da" md5="77f427f9830d4e4d977e8ba5bd7e86c8" sha1="c9ead8ff3b317398b936a8f7dee678c2d39b258c"/>
+		<rom name="track05.0.raw" size="266723" crc="6fcf2a61" md5="64383d7a601e4f5c838c2a5ad281867a" sha1="d97d88e5e8f4eae39bda14edd65acb439e230229"/>
+		<rom name="track05.1.raw" size="284032" crc="da35b88f" md5="2fc29e6632a33eb7040e07f6f293c943" sha1="5a074de98d5adaa80e674b6fe04540bdaed8460a"/>
+		<rom name="track06.0.raw" size="212839" crc="971a70ef" md5="ce1d9ccb069454a5b1c8fdb3a99d404c" sha1="6fa7d18918072519457b14d7b82bf00d5a78af81"/>
+		<rom name="track06.1.raw" size="224030" crc="eb44ce84" md5="fced2a8dfdbd42eb7cf72a04e5f5e899" sha1="64d7abc02de5eff44d7afe4577746dba97fbe5b1"/>
+		<rom name="track07.0.raw" size="275194" crc="0f7ed05b" md5="b6ae4a5083bc2ca45395546b7e8985ea" sha1="17567daefdbe1fb92fd9f158d79be204bf43bb18"/>
+		<rom name="track07.1.raw" size="354859" crc="69f47020" md5="5b9c51892ed640fce201d6d4d0b64eeb" sha1="ab6dc8096d4674ed5d1a79b90302aa2f3cebd38b"/>
+		<rom name="track08.0.raw" size="208651" crc="416ca227" md5="76df67b21b8eb7dd391b43ab5870fe04" sha1="1d480991623f12b82dbba85ab56ed094d312ff72"/>
+		<rom name="track08.1.raw" size="218411" crc="40cd0843" md5="ef22a9be55cb3be16bee199ee07e7d3a" sha1="fec766a92ba2a911242fa9878af29604ad8190e2"/>
+		<rom name="track09.0.raw" size="284023" crc="0e56767c" md5="a9054c4406a3a74a17368fda8ced88af" sha1="f774eaa982abefaab415cdafe0bf89ca5fbae672"/>
+		<rom name="track09.1.raw" size="375804" crc="0063aadd" md5="9c3d8a6ba8a59f6c05aba4512dcd8982" sha1="1792d354e8c29b32ca847eed8e9c5b347689dad2"/>
+		<rom name="track10.0.raw" size="209247" crc="c8416fd4" md5="94fb3622e5f91a68f932191270173dda" sha1="cf5221773d098f1978cf472e6007a73a9c04c3fb"/>
+		<rom name="track10.1.raw" size="218411" crc="767c35dc" md5="353949d71485e7b92ccd08ba14a5f1ea" sha1="faf259abaedae72f77830a717970235f8dce50a3"/>
+		<rom name="track11.0.raw" size="263100" crc="16c20b4a" md5="0ee4ef455d30509ed96aac58692f6bb8" sha1="52253475dd36b24186da174b84da20f7080bcd4e"/>
+		<rom name="track11.1.raw" size="312005" crc="5da7c6ac" md5="e3158d2d7958ed955cd39539ec8bd7f8" sha1="3693bca1ac590277b4a2d00b394a0f0f89ba1454"/>
+		<rom name="track12.0.raw" size="212027" crc="fd8ba1a6" md5="c423eb8eb2edd769a3333a43e3b8db63" sha1="4adc72bc5b08168a2dd105ecb40590d9d12a0c5b"/>
+		<rom name="track12.1.raw" size="223453" crc="66fe5b82" md5="12a29a6b6bcd73f6ac897d7acaf7812e" sha1="afa5d32e7e37099d85a2a35e2b947fcc87cf4791"/>
+		<rom name="track13.0.raw" size="283405" crc="c054810e" md5="37980dd69221f689a324aea9f0212165" sha1="4933afdd805fc85e443ce8ecaf897b3d16927b24"/>
+		<rom name="track13.1.raw" size="367763" crc="53224ab0" md5="ee02da672e6e32a6002305bb4de0ccd4" sha1="98e10519655eb1f06443b398f0fbc1ec214bd0b1"/>
+		<rom name="track14.0.raw" size="218465" crc="c0e60c66" md5="f8ab803e775cdee2d71428c7e95d73a4" sha1="863190165b180baee44253ae0447c585b4e580d6"/>
+		<rom name="track14.1.raw" size="219905" crc="1db5bb50" md5="8f4dee8c305a0720b80e985a78e2b547" sha1="15cd0aeb5954d8e45e4bc3e89b8150587491917e"/>
+		<rom name="track15.0.raw" size="288684" crc="a2849253" md5="ab8a798c9746f3ab9b0d10c2016c39aa" sha1="2cb84757e348cd04f620e1c4e0f7f7d922c233f7"/>
+		<rom name="track15.1.raw" size="365134" crc="9ce1f3ab" md5="91b879181e9ff6885a76a00f99da080d" sha1="8f1a1a9fd0ee97aaa8fb2b0da4b390048ad8a262"/>
+		<rom name="track16.0.raw" size="208752" crc="adfac3fa" md5="4d99854000fc8878581853e49480708a" sha1="c969c08ec3601bd4c901da648e97e015bf8fc779"/>
+		<rom name="track16.1.raw" size="217487" crc="2ff7373a" md5="ad7638a16724cd7c8e1a01279b712a46" sha1="85b1cbda7c676a261d4506d47d667c5e57b41e2d"/>
+		<rom name="track17.0.raw" size="281476" crc="45c637b8" md5="2e2852f4970988e6da626c0f4a238272" sha1="e8f250668900e30238f03e529205e0b9e2b12d5c"/>
+		<rom name="track17.1.raw" size="369220" crc="7a061c20" md5="f7d4e7bd47734ce44de74ada0e34821f" sha1="dc7a2a7e596d2b9ed43acf28aecf6b8e68c9105b"/>
+		<rom name="track18.0.raw" size="208177" crc="bd62f28c" md5="9daab31c8c39387a3f9aa7cdeb754f89" sha1="8f3d61c25a4c5e7d7feb1350285215adffbaf270"/>
+		<rom name="track18.1.raw" size="218465" crc="429f0596" md5="14128b5ea3c73fc6c9a08628275bd0c0" sha1="c7d9a995eb9dbb3ac767bd72149a8c5edd4576e1"/>
+		<rom name="track19.0.raw" size="275822" crc="ca826a91" md5="162c7ff43a45c53513b23b29b4e31140" sha1="ed92089938856a343c418ed29cc04f1900ed1ffb"/>
+		<rom name="track19.1.raw" size="367789" crc="ce969778" md5="9f6eab77257a0b3f739d7f84a87eae38" sha1="542463ea04f9354e998d964b13af2ee0390c7b78"/>
+		<rom name="track20.0.raw" size="207917" crc="d665402b" md5="4d05e8dd8f434e811d61e4fa752bdf8d" sha1="b22bff528e63a716a5dda9ad77374e3ff9f173da"/>
+		<rom name="track20.1.raw" size="221655" crc="c882d349" md5="ee1f2a0127cca3d07b396710b18cc5cd" sha1="cd727ca4880ecd2436990308700737098ece07af"/>
+		<rom name="track21.0.raw" size="290735" crc="3304b56f" md5="a629f3f2091ad16ba5098a270d8d312a" sha1="8732990610f4a75c9ac37094a23e0f412a912f7e"/>
+		<rom name="track21.1.raw" size="374808" crc="0ad603ed" md5="4eeb8476a36d52679d94c4c38e0c9f75" sha1="6f24e4bbad91441973bceba9fd3863ad2ac01248"/>
+		<rom name="track22.0.raw" size="213786" crc="f0a68110" md5="26b2e04d87d09d83f353c573ea94d562" sha1="fbb1cfb30b938a6b19cf5291ba9ab1ef60159282"/>
+		<rom name="track22.1.raw" size="227373" crc="370bcd28" md5="d5a90afbf3fd0c13c66069209b33a39c" sha1="ee3ef4f86d81902279a2821f8aaa22c9da6b2898"/>
+		<rom name="track23.0.raw" size="283565" crc="0c228b5b" md5="0f84a200179a74c52460385f4df1a89d" sha1="015b27ba320d54f7cba5328e15a209ede1d5c697"/>
+		<rom name="track23.1.raw" size="376664" crc="76895896" md5="9f8f602bcecbab3a47c540fe6ceac27b" sha1="ee17dd23f8036bf91d8f9af14cc329ab0dcb9d4e"/>
+		<rom name="track24.0.raw" size="206536" crc="2b8f8561" md5="093203f0d5ff6f6e5dd26d7ad3280b9c" sha1="a63b02eaec97d3f74491524264119aa82e4bab48"/>
+		<rom name="track24.1.raw" size="224631" crc="ebc990e6" md5="9befff25c199976294d0c1991432cfc3" sha1="1c56fb4aa56085e76146705cdb7c24dcd1f6c887"/>
+		<rom name="track25.0.raw" size="285752" crc="80fbffd3" md5="05d9e7d58a9171a0dda40d012e5ff965" sha1="c712aa3377c9fe594dad28227e3a17d0b052419c"/>
+		<rom name="track25.1.raw" size="368150" crc="258bf718" md5="636a148e21c133944a7b94905d295006" sha1="0b92072032fed894e31be191fa6972946fd76c2a"/>
+		<rom name="track26.0.raw" size="203131" crc="b5c86dd1" md5="44775b66067a05d296b299d867afd726" sha1="665dd9cae68c37b7f299090d6b64548d5098a503"/>
+		<rom name="track26.1.raw" size="226208" crc="58db9cc1" md5="988c5bde112cb0780ec964aaf1c8a33a" sha1="c967a1f7f40e784e1b79be7e8a0d55209053d7b5"/>
+		<rom name="track27.0.raw" size="293082" crc="50f08bfd" md5="4861377d7aa192b02e29904632513c2a" sha1="07b3a866e31347d7371fb756a8632a6aa6482044"/>
+		<rom name="track27.1.raw" size="368480" crc="3028808e" md5="f18fb8edfe59546e782f9625d67993b6" sha1="4572895471dafe2c502e2abda50222e7358e171a"/>
+		<rom name="track28.0.raw" size="212952" crc="cef49550" md5="6ab18f9dba0a4076f0cebb4fc419e085" sha1="f144ef331708bb0f49b9783f19e1dd3cdb3d6de7"/>
+		<rom name="track28.1.raw" size="221299" crc="fee647a6" md5="86230b79019e1e365fddcc47e5018579" sha1="5b2b66d655ff8aeabe4bf256d3f13130c82c3817"/>
+		<rom name="track29.0.raw" size="294611" crc="f6268d62" md5="bac2247082bdd04289a1a5edbf03fd80" sha1="ca081ec7e25aa943c9eb17ff7cd3e68800ab5785"/>
+		<rom name="track29.1.raw" size="368918" crc="b260999d" md5="a359433c27ed14a64537fe10ec16a5a1" sha1="5cb7eeabae8b73168a0cf6572a3c5de30a1d583e"/>
+		<rom name="track30.0.raw" size="200347" crc="01f86c42" md5="cf0038b49a3a6724b5c9acbfb99e5957" sha1="95b39ad15dae73ffd14a2035be74351a2109ba9a"/>
+		<rom name="track30.1.raw" size="223589" crc="f513dd29" md5="2619b20a2a3b3b8fc9aacff7dde2642a" sha1="c9d72248149bdb199f847e1f241498577a0dd764"/>
+		<rom name="track31.0.raw" size="285900" crc="25d1b416" md5="e4c371741bd239e745c17c66d209dfbf" sha1="592193c2b37d3374ae17a0ca72aa7fb5c635ab87"/>
+		<rom name="track31.1.raw" size="360150" crc="7e31c420" md5="4f80e6115b14226b4a37843d5ab7bdc5" sha1="d7a558669c63d6cdf76a0b4f80e2989c42eb27c8"/>
+		<rom name="track32.0.raw" size="209294" crc="cd5c89cd" md5="f8106b78eaef308c24a5daa55e861085" sha1="0bf5794947a0d7a1f3d6c35669bf356c73587190"/>
+		<rom name="track32.1.raw" size="218191" crc="d33fc4ee" md5="b43ecc522f8cde9abe8441a311044132" sha1="f679e0bb273b68e1b0b5dae7e48861c7aec0e22f"/>
+		<rom name="track33.0.raw" size="288251" crc="dcd64fdb" md5="28c7abba4e52b77eef62e788f2b66760" sha1="7290553b892d234b5fac046bd56d41f88330afe3"/>
+		<rom name="track33.1.raw" size="361704" crc="06edd4ba" md5="56daf9367a171f6895bb9f9cb75eb36d" sha1="5d7f0ffb691061a61e0676c6877662a536016fe5"/>
+		<rom name="track34.0.raw" size="202975" crc="411c7081" md5="d0f7edac779cf3b0ca9da32228854d44" sha1="de4638afcba1e990234a2d5663d45a330888d8aa"/>
+		<rom name="track34.1.raw" size="219895" crc="a5cbb3ce" md5="5777806cb7ebff59cb3344dd4a80dc74" sha1="395c1bc597810dac184b79d717a585a150bdc02a"/>
+		<rom name="track35.0.raw" size="279445" crc="0de0a9a6" md5="3f35b08d9685a1b73c741459a2e81f90" sha1="0f3ebe476c24827cf687bc6e64d2b200f8fb0dc6"/>
+		<rom name="track35.1.raw" size="367364" crc="4334f493" md5="44a9de88b57bf54ab6d2f7854d4c9158" sha1="90605bf0f4290b5bfe2cfb1c03e0d96f353e1f2a"/>
+		<rom name="track36.0.raw" size="207074" crc="57942f3e" md5="9435c540125dc99a5f6f104d5e12de5d" sha1="20692713330893454c0ad40ec8e9e831cf65d4d8"/>
+		<rom name="track36.1.raw" size="220093" crc="559b59e9" md5="90c1686efa4e7afcf1e9ef70516d2849" sha1="37ff97223137e5929ee532b8063cb4c9939c8e72"/>
+		<rom name="track37.0.raw" size="284071" crc="94a72f39" md5="bf8ea8379568961d8753a03674f5e518" sha1="22e95a6c579d6accf4ee1196222877dc8817a6eb"/>
+		<rom name="track37.1.raw" size="368168" crc="7f91f6c4" md5="f4bb121423d36aed7bd7c2dfb678f3d3" sha1="e3b7e60c8f78da7bd7d4d3b8bc1af98800958763"/>
+		<rom name="track38.0.raw" size="208973" crc="6d26f6de" md5="a7faf30aecc4bf051735c6fa8e6912b5" sha1="8b4f31e67519da90eba1ffb8743d5e9871a5d98a"/>
+		<rom name="track38.1.raw" size="220768" crc="2e51d3ab" md5="92240e305d6a9bfd1d97801fbd88fbf8" sha1="4809ad94c8872ce2e4e8938df283b870eb993e84"/>
+		<rom name="track39.0.raw" size="284258" crc="41278188" md5="55cabd4e0a7213069c3540683048fea3" sha1="6d06e55561bd8b60c0b84d50ff53d27a044b45bf"/>
+		<rom name="track39.1.raw" size="366573" crc="fd0f770c" md5="e35d8d99ac1bb7b11ffb8d137a39048c" sha1="4570002ba3a0e8554391b091158a75f56fa9342c"/>
+		<rom name="track40.0.raw" size="204171" crc="c70b60d2" md5="fc7e90271638b391bd9720aa3d9e34fa" sha1="f91b156f9c570bcb6193e832e3921f8117f30d77"/>
+		<rom name="track40.1.raw" size="220311" crc="359c0cbc" md5="6f708426ddeff2cd7a4b06066be0d236" sha1="84e07cd9a1c5da228c6930c378dc30d08e368c7f"/>
+		<rom name="track41.0.raw" size="288773" crc="5cdd1304" md5="d2cd5d85a374602506a71d8125a1e03a" sha1="cd4fd440b516d34717e85bd4ea2688c58d0deb5b"/>
+		<rom name="track41.1.raw" size="366664" crc="b65ab87a" md5="592d0e0366d3e0d88b05effab41e0f09" sha1="653c9eb5bae1aa2c3b2b30b524934493f958b803"/>
+		<rom name="track42.0.raw" size="204047" crc="43a7aef8" md5="f8cfdd94323eb549726ec1dc980da71b" sha1="1efbc2f5fa18325c88334967191d2d9dc45c51b6"/>
+		<rom name="track42.1.raw" size="215550" crc="098e911f" md5="610271e08350b063fec9cd2ed439875c" sha1="08da86a17999d39c7643852d55eb1003b5923208"/>
+		<rom name="track43.0.raw" size="279844" crc="046d6cfd" md5="2ccf6f9334d8cd0ebccb50670185e683" sha1="3f0203894ca0a7d1abe76307543abf351a065ca0"/>
+		<rom name="track43.1.raw" size="365080" crc="fc2bb08f" md5="930d533f6b4824f04bea6c7267ce8fad" sha1="d3cd44e40967c64d221f41f5291e814c828764b4"/>
+		<rom name="track44.0.raw" size="208455" crc="1f8d698b" md5="fbb8bfd201bdb596dbacb8cc737ffc3d" sha1="b781fccdc82452649e47fbbee145d1b7273b2261"/>
+		<rom name="track44.1.raw" size="228318" crc="c46369f4" md5="53977d602439f6b7c787e6073c09531c" sha1="5bdb34eafd4d41200de21f3a574aa7dbfe278295"/>
+		<rom name="track45.0.raw" size="292569" crc="e52c5b1c" md5="52da2a3e3645927d287c9911d8b0e223" sha1="a90f84bdb5fad4081ca84cfb98bd6648c009d255"/>
+		<rom name="track45.1.raw" size="352570" crc="9cfd4d9c" md5="3f8794cdcd6145eead331c5f0478c914" sha1="653963c08c9ad938bc2ff6565172d82f3104b1c5"/>
+		<rom name="track46.0.raw" size="203093" crc="97f9fb6b" md5="5f944c5dc9ae9ef56ef8c697fc076105" sha1="788c9b635d3aa0a06ecbf494d2afe6e91a5243b2"/>
+		<rom name="track46.1.raw" size="224131" crc="9ec2c906" md5="76b754512f12a3b20f1f6661a2abd158" sha1="b7d1d2d3922a4ed421952b0958ef2c4f2cb93ac5"/>
+		<rom name="track47.0.raw" size="291721" crc="3d00afb6" md5="88f71b1542bcd4b8d23ba0011c7cf0f5" sha1="75b3219d9142cbbc3dd7319d5872c79ecd7255a7"/>
+		<rom name="track47.1.raw" size="352031" crc="df0c0480" md5="441591209921791ab3c5b7a5b2b369bb" sha1="ce9b9f8e1b4da577a24798def5dfee809529da9a"/>
+		<rom name="track48.0.raw" size="209591" crc="79baf58e" md5="7773cec1c76943a3637fabe2a41f001c" sha1="f29f1fddc1a633e0224ffb61195e7c27bf26741f"/>
+		<rom name="track48.1.raw" size="217035" crc="b2eae94f" md5="40436ff02f6095802a9f87171402373b" sha1="0558e7b79a45d1b8a67f5384e874c8d96da7825b"/>
+		<rom name="track49.0.raw" size="283173" crc="bd5b24a3" md5="b04bea084cb0daf45bf9f40796eec599" sha1="95e9fea3d04d39555bf25817df4b0fffb3edba87"/>
+		<rom name="track49.1.raw" size="349642" crc="c0b77b69" md5="f0617f84af542f5799b3f22d08f1d870" sha1="7e1987a87ced917f503bd6b09babe43c9627bc91"/>
+		<rom name="track50.0.raw" size="208191" crc="5c83a495" md5="82fdeb268632f36cc758944dd0eafd11" sha1="27afe90c40c2bdc63a257bb9739843b6cf269d9e"/>
+		<rom name="track50.1.raw" size="214485" crc="f9e989a4" md5="5a1051358627d85f94e73ff3c93c4064" sha1="109e7310f60683222c1c300efcf7471e410b3246"/>
+		<rom name="track51.0.raw" size="278015" crc="6ed973c9" md5="8202fc5edcdd497e1d81e70cc1cf244a" sha1="166b59cdc6ca35ef43629ed02db325a2d068f742"/>
+		<rom name="track51.1.raw" size="347200" crc="b0ce4a2d" md5="9d08f1cb3eb887f52a609122da15c64e" sha1="c0001db549e73b9a9ae78391e9c52ea2121193df"/>
+		<rom name="track52.0.raw" size="210675" crc="30d1cc34" md5="24be81e24656040704420e08f553321a" sha1="21d5c93f3c418701bb075ffd233fdfc43a03fcdb"/>
+		<rom name="track52.1.raw" size="215082" crc="9f41a820" md5="e5f825d8228d63879fc3d3b946ee24f3" sha1="830a4318a4edaf41580c7ba5039f6267828e8d03"/>
+		<rom name="track53.0.raw" size="275804" crc="ee4953f6" md5="ef98f9bf2bf5a70ac4bce0a573b9c46f" sha1="a186c4ce67ec63361f44889d2a5e34246781cbc2"/>
+		<rom name="track53.1.raw" size="347157" crc="97f06f53" md5="d15d49f9326751db69fa08c3c096118b" sha1="66beb49d00c9e0fdf48980d118b44f749f2ae035"/>
+		<rom name="track54.0.raw" size="205293" crc="68fd893b" md5="04213adf6c8791bcdb35fcd93de7e6c3" sha1="f627e02fd695baf5adca858014c43ffc4c34f0d8"/>
+		<rom name="track54.1.raw" size="216329" crc="19997e9e" md5="4fec2c8453c5e9cf5f792bc8955a0960" sha1="3e5e70fb38bbfa51e9e20327452bd4bea2345cc9"/>
+		<rom name="track55.0.raw" size="281961" crc="59ca47f2" md5="ae5ee28a30fbb93a4db424d4cae4e679" sha1="54af882e0ca90b952811c523c5e95d7ed1b15fae"/>
+		<rom name="track55.1.raw" size="339557" crc="846760de" md5="31de12384e6f482f6cebd889e667ca52" sha1="80f8241d1891a5b61d39aa4a8b8b3bc1ab3be186"/>
+		<rom name="track56.0.raw" size="200493" crc="8e47357a" md5="865bde25e80eebe41e6eb3b43c276a85" sha1="b525f7c49e488861e8667fd0d8bd537b44eeee9b"/>
+		<rom name="track56.1.raw" size="220722" crc="64bdc944" md5="154ff13e48f5da3ddaf067ffe7b7d419" sha1="33755610d80ea53e282ed4502bed782b046914dd"/>
+		<rom name="track57.0.raw" size="277800" crc="abcdf649" md5="7e94f48d833771362c483f3c3be14b2e" sha1="5ced86b05d6fd7ad2b672795a7e6a5ebf8bac582"/>
+		<rom name="track57.1.raw" size="338286" crc="f7c588eb" md5="e6a98bd128591705041e718f084f3926" sha1="da8d28448b722e31e0e670723ad318035616ac2c"/>
+		<rom name="track58.0.raw" size="201198" crc="ca887b4e" md5="8d1373889c43a016638d43cc84a4e44e" sha1="c0cbde11fd403f0e858dbbc191e92b9542a2ca4f"/>
+		<rom name="track58.1.raw" size="220664" crc="44545f91" md5="f50ef9ce20f4029a22ed1bc13ffa117e" sha1="272c5e570c66a5367c2b2c669bf9804ba4b8acd7"/>
+		<rom name="track59.0.raw" size="285074" crc="35bc6a79" md5="90cbbd6dbb9e55446f52819a7ee5d236" sha1="4ae492f89cb86234ba162f545f8e178feb81bdcf"/>
+		<rom name="track59.1.raw" size="350763" crc="09b21cb8" md5="c3d214546a12ee9264c9355f3d125421" sha1="390710de605452bef5e81dcdd47bc7d9a30d0dda"/>
+		<rom name="track60.0.raw" size="205216" crc="f9c99ebf" md5="21ba72a4df6ccb78e9f667d1f6006cf8" sha1="60e43fdb93d5dfd7f79c10961faf853df2c0e330"/>
+		<rom name="track60.1.raw" size="216101" crc="322ac2fd" md5="1ce2fc3135bbfd557ac86a85d9707752" sha1="3387f28918135f9e3711edb891ddce746045e98f"/>
+		<rom name="track61.0.raw" size="291267" crc="abba2d7d" md5="1df74d65d1b80f0493338d33eca1dfe4" sha1="0256fa4baf172eafb047567b849f0090716b91a5"/>
+		<rom name="track61.1.raw" size="340505" crc="9a937edf" md5="1f2f1ec1b5f4156553f2212580a56097" sha1="975ac4c3269869ed51ec3ea1e39a3fcf277c3ffd"/>
+		<rom name="track62.0.raw" size="209157" crc="b04c54bf" md5="e990bf45eb137542e9b8bd6d554d7ac2" sha1="f5856e98efcecdb0da5f7e6d1587c60b4b83b36f"/>
+		<rom name="track62.1.raw" size="220405" crc="be7f0fab" md5="5bcba4b710094aee647ec10de5613880" sha1="d62c6b41609e53385c704ca1bc11eb3901f2d571"/>
+		<rom name="track63.0.raw" size="289791" crc="5ec9116f" md5="d911f1f5fecc9407bee9e3c861b9d9de" sha1="fab2e50bad8d44544f4f670ad681fa4aec53f19a"/>
+		<rom name="track63.1.raw" size="347040" crc="38846ec8" md5="13baae3747bafaffdbe2bde991dcb1ef" sha1="a0e223f403d7a8b4f1c994a953987bdf503079d5"/>
+		<rom name="track64.0.raw" size="209504" crc="e770d05c" md5="a3d82f8b43c9f5443c65b9006694088d" sha1="27944ed4408f2c60fc28cd852f1a25d774ee0cfa"/>
+		<rom name="track64.1.raw" size="220760" crc="c6956989" md5="56304233d25c5cf91f42e0893f173b9e" sha1="c8aab8ab47b1a9cc82f38d22eb29ff645dc0c84b"/>
+		<rom name="track65.0.raw" size="284291" crc="91edd0f9" md5="0f4837e667722027d132b381327161a4" sha1="3daee526f0358eca5a3cd78aab159daac0b69f3e"/>
+		<rom name="track65.1.raw" size="337946" crc="14c2bd43" md5="81191ae25d1bbd5939aabefc07466577" sha1="000371cc8383108fe1efd8341f04b62832282d95"/>
+		<rom name="track66.0.raw" size="205300" crc="c2ff6149" md5="601108a79e17c818bd8c05857ca05a47" sha1="cf9b752b8a6632485ae46ac64dde3cb5b10af369"/>
+		<rom name="track66.1.raw" size="220534" crc="814e51cb" md5="994a49f4ca88fbc24391a1a8ec21640b" sha1="f288397f2115f32d054627d69e984e393d14f8f6"/>
+		<rom name="track67.0.raw" size="292446" crc="216cf8d7" md5="5f28dd53d87faa0b22401a46381e864d" sha1="644236c66008b34a58b046421f64e604f0929499"/>
+		<rom name="track67.1.raw" size="330059" crc="f013bfbe" md5="97691e975a6f7cfae1fa5d58218735bc" sha1="a6f4546295047a7be91daa6a038c78908851d529"/>
+		<rom name="track68.0.raw" size="205515" crc="3d991a69" md5="c7afdfdfa88b88af0e88bb9c12444b8e" sha1="1a1eca11a74726deff894e931602af2512a7c00f"/>
+		<rom name="track68.1.raw" size="220604" crc="06ac333c" md5="5a248c857c05a37cb4c4ecc0508b31b0" sha1="fe1977301edb9e378206b3b5252b66d31f40af90"/>
+		<rom name="track69.0.raw" size="239059" crc="93a67d18" md5="5ffb19076b7deb9dd7841aaa92d77987" sha1="87d22914a4645a36716a7cd3b3f8535d067b56e4"/>
+		<rom name="track69.1.raw" size="327236" crc="ba497651" md5="f97af3ca39ef8c04d2e41746d1c8fe6c" sha1="eaac2298964301d3ee8042b68311123f9ffa7916"/>
+		<rom name="track70.0.raw" size="205171" crc="2955cd2d" md5="bea9bdb76724626d0768766b369af397" sha1="3cb024a7c8cd4b9106fd229e7b83aa04e39bc76d"/>
+		<rom name="track70.1.raw" size="215988" crc="5bd6bc64" md5="c39d118761dc325d0568106e224eaeb8" sha1="2112bc9a11d3654f6956020e7778e3191f1b70c0"/>
+		<rom name="track71.0.raw" size="269997" crc="e0930c37" md5="c5013911c85cf322144dca6f781510da" sha1="5c8c1fa8b0d53331b6308c0fda4b969bb24e108a"/>
+		<rom name="track71.1.raw" size="332148" crc="2d07ed6b" md5="cf0ec970387a9f8a25192788d9789d36" sha1="041668ada0ccd11650c494d5d366fb8722712fb9"/>
+		<rom name="track72.0.raw" size="205245" crc="7003e5b4" md5="4ce6ece78abf567da656c61697bb1b10" sha1="b6314467497f83d32bb7b7765f973de2cfc7e251"/>
+		<rom name="track72.1.raw" size="220928" crc="f7d6cb72" md5="19f9c1c526d419cdeb5388f536b77223" sha1="479710518495c42d86f2701e7c443800e864e50a"/>
+		<rom name="track73.0.raw" size="273774" crc="4d308ab1" md5="af5b7781a0d57c88ca662abeb45625ae" sha1="2f40d144a243f347f5755a58e57fb08e49f74c60"/>
+		<rom name="track73.1.raw" size="328381" crc="04484aca" md5="1ae6cc685c6c07f3f3d5fdf850800025" sha1="f0e5482154e83b6afc28bc55c030b337673c1683"/>
+		<rom name="track74.0.raw" size="209418" crc="81e527b5" md5="d59b5ccbcf5250056b44afea3db9aad2" sha1="fef92bf80706356da13b1691914000bb7e6cf74a"/>
+		<rom name="track74.1.raw" size="220882" crc="171eca89" md5="345f1fddd1b0c66d0be2aaf53ef23bf0" sha1="070245e53fd42db23ecae671bb0348fe95fb1e7c"/>
+		<rom name="track75.0.raw" size="288013" crc="d40b36de" md5="935199eb69ca0eb2787bf54d64221049" sha1="e9c6575ed155b4e79eced9d7204eec246696538d"/>
+		<rom name="track75.1.raw" size="320504" crc="c22e00f6" md5="3492c96353feb3125d0aa87981f21c51" sha1="5b37614e1f48ff92f756c343562ee4a6bf3f2551"/>
+		<rom name="track76.0.raw" size="209430" crc="7b267586" md5="cafccd1ccccbcceaf4888d20b173ca78" sha1="04fd627f4091608edf732f9687209e9594e7757a"/>
+		<rom name="track76.1.raw" size="220837" crc="2fd3ee57" md5="e96900146e64c94e8a9b587b0b592454" sha1="df7d16d594193dc056f7599807600ae42404c5cd"/>
+		<rom name="track77.0.raw" size="288914" crc="a480030e" md5="ef60d65281013a993930920a6d8e5897" sha1="6006eae28c477a958e4d77bdaeebe24707297b8a"/>
+		<rom name="track77.1.raw" size="329370" crc="cabcfeba" md5="5d9bd1eebe3de7b0126c9e6b47d4693c" sha1="1daa87c64a41219073d9b36dc37733e6a5829c05"/>
+		<rom name="track78.0.raw" size="209868" crc="ac62af5f" md5="bdb747ccb6f6ec9440584f4e1f6eddd1" sha1="9817fc261feee5b3934dc81579d2f872cb2cf132"/>
+		<rom name="track78.1.raw" size="216744" crc="ee0b214c" md5="5aeb1e869bf2ea9e1874e44f2d518519" sha1="7f3a543d93cecec0b24302c031d6c5f035fda6c8"/>
+		<rom name="track79.0.raw" size="295929" crc="dd466684" md5="80a398de04d4bef676b1c92a10176cb5" sha1="5136ab8de520379b6462220f579cfc0d00e1d020"/>
+		<rom name="track79.1.raw" size="301360" crc="8fcc200c" md5="7dedc4be7f682a08d0f237bc79cd84c3" sha1="487e6f4b25ab1d5ff8b7cc43f9578a45f150025f"/>
+		<rom name="track80.0.raw" size="274537" crc="d8c0df3c" md5="41e49843637c692d62994ad7cec48f5a" sha1="d03e3e52a12d790935dae44cf16e73e4e4ffc055"/>
+		<rom name="track80.1.raw" size="293412" crc="10a1775d" md5="7bd1d18ab1d6124e2029c99a1e4b0f52" sha1="9e9fb885849629bc6f015374ca2d1af8c867b646"/>
+		<rom name="track81.0.raw" size="279321" crc="86d3c19a" md5="b709f9dc09f4f0b5a0ae176598256450" sha1="69681cfb55baa28f6051ac21038829bc9baa610e"/>
+		<rom name="track81.1.raw" size="247444" crc="f04c5e1e" md5="0585217bfe42b4566473589eb16cd1da" sha1="d1283265c5d795a74ebae21912b61d0738b297b3"/>
+		<rom name="track82.0.raw" size="246684" crc="d63cdc19" md5="e77960ccf90dfe6d8d6ad7f0c8b803ed" sha1="bf43956c46b9c6cc10d34b9776845839b4b47173"/>
+		<rom name="track82.1.raw" size="245403" crc="2173210a" md5="66b61bec59697220634797767c9f8a1c" sha1="d3a4604c293892864e80df3893470fb70b6edf44"/>
+		<rom name="track83.0.raw" size="240949" crc="a8ffe6c6" md5="43d4966a951d62d33a26eb9119e4318d" sha1="f1bf15667405b5d1ecc142b32b0c28dce509e108"/>
+		<rom name="track83.1.raw" size="244652" crc="28e9d36f" md5="765f07e6dd18f8eb548afdcf12c87916" sha1="1337dde4d1d2b3eae63ff575a84a7c1ada3a0b6e"/>
+	</game>
+</datafile>

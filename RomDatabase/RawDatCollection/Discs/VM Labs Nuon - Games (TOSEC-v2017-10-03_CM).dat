@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>VM Labs Nuon - Games</name>
+		<description>VM Labs Nuon - Games (TOSEC-v2017-10-03)</description>
+		<category>TOSEC-ISO</category>
+		<version>2017-10-03</version>
+		<author>TOSEC-ISO: Trurip</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Freefall 3050 A.D. (2000)(DVD International - TAKS)(US)">
+		<description>Freefall 3050 A.D. (2000)(DVD International - TAKS)(US)</description>
+		<rom name="Freefall 3050 A.D. (2000)(DVD International - TAKS)(US).dvd" size="153" crc="b645542c" md5="5c2e55cb773d5a1d70f77e0f464c356f" sha1="08514af00e4668063d9183bf51a9fff518eebcb9"/>
+		<rom name="Freefall 3050 A.D. (2000)(DVD International - TAKS)(US).iso" size="1149239296" crc="72ccddd3" md5="cea1427e00e2acbf7ff2dc2229f28973" sha1="d7a62e44edcffe0f32c684c8f7b270e0a5f3f24b"/>
+	</game>
+	<game name="Iron Soldier 3 (2001)(DVD International - Eclipse)(US)">
+		<description>Iron Soldier 3 (2001)(DVD International - Eclipse)(US)</description>
+		<rom name="Iron Soldier 3 (2001)(DVD International - Eclipse)(US).dvd" size="152" crc="c8603def" md5="a6e085aded1ef73594ccf3dc52b9d2e7" sha1="9ca25c76153d218a339c8fbc77ef161f6a8c3518"/>
+		<rom name="Iron Soldier 3 (2001)(DVD International - Eclipse)(US).iso" size="1863319552" crc="9d58b4c8" md5="330ec825dc3dfe8656531ff22a20d2d8" sha1="c8d21af0958ae534f4896d589c8acfa3392fd3fd"/>
+	</game>
+	<game name="Merlin Racing (2000)(DVD International - Miracle Designs)(US)">
+		<description>Merlin Racing (2000)(DVD International - Miracle Designs)(US)</description>
+		<rom name="Merlin Racing (2000)(DVD International - Miracle Designs)(US).dvd" size="159" crc="cbb64468" md5="7d74c2d30c5f19db73c787ffd7f4d79b" sha1="577e5cc20e453049c7b1196d0c2ed773ec25450f"/>
+		<rom name="Merlin Racing (2000)(DVD International - Miracle Designs)(US).iso" size="517996544" crc="ca87fe8b" md5="f8da1c4e727938b7675be5e843af7d09" sha1="a225cb4c09065dfb27a8ac94642b2f15c6233221"/>
+	</game>
+	<game name="Tempest 3000 (2000)(Atari - Hasbro - VM Labs)(US)">
+		<description>Tempest 3000 (2000)(Atari - Hasbro - VM Labs)(US)</description>
+		<rom name="Tempest 3000 (2000)(Atari - Hasbro - VM Labs)(US).dvd" size="147" crc="ab01c885" md5="3b946ab82f342282e8095b3c4ccfc587" sha1="8ccfce537172314887330bea0d55a31c8234a49e"/>
+		<rom name="Tempest 3000 (2000)(Atari - Hasbro - VM Labs)(US).iso" size="743440384" crc="d54d445a" md5="2edceb559f903ce8b65519cfc697b82a" sha1="6afe029177b3c4afeeea294324bc2aaf0f624e48"/>
+	</game>
+</datafile>

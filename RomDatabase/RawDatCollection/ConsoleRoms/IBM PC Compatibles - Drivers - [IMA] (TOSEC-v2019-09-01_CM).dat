@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>IBM PC Compatibles - Drivers - [IMA]</name>
+		<description>IBM PC Compatibles - Drivers - [IMA] (TOSEC-v2019-09-01)</description>
+		<category>TOSEC</category>
+		<version>2019-09-01</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="PAUM002 &amp; PAUM003 Scroller Mini Mouse Driver Disk (2000)(Targus)(M5)[826-0005-001A][K310A144-A]">
+		<description>PAUM002 &amp; PAUM003 Scroller Mini Mouse Driver Disk (2000)(Targus)(M5)[826-0005-001A][K310A144-A]</description>
+		<rom name="PAUM002 &amp; PAUM003 Scroller Mini Mouse Driver Disk (2000)(Targus)(M5)[826-0005-001A][K310A144-A].ima" size="1474560" crc="80d511b5" md5="ff78eccbd8dc2e5581f5cf4aed8a67bd" sha1="502428f3e02c7c882955cce674674dbc4d042c31"/>
+	</game>
+	<game name="Perfect Series Optical Mouse v4.0 (2002)(-)(M10)">
+		<description>Perfect Series Optical Mouse v4.0 (2002)(-)(M10)</description>
+		<rom name="Perfect Series Optical Mouse v4.0 (2002)(-)(M10).ima" size="1474560" crc="512e92ab" md5="e9bda417e8f582c48a2f545e9d9c9e77" sha1="4e705647ab56288f2aebf5e30b231da2913d9d7d"/>
+	</game>
+	<game name="USB Link-Networking Cable v1.0 (2001)(RadioShack)(US)[GeneLink][cn 26-173]">
+		<description>USB Link-Networking Cable v1.0 (2001)(RadioShack)(US)[GeneLink][cn 26-173]</description>
+		<rom name="USB Link-Networking Cable v1.0 (2001)(RadioShack)(US)[GeneLink][cn 26-173].ima" size="1474560" crc="c49eabee" md5="c606b4c5dc25a4c8f20ab8ae887d824f" sha1="0744dca0e03435997923499c2d4b11e7b5081d1e"/>
+	</game>
+</datafile>

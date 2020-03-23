@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>NEC PC-8001 - Firmware</name>
+		<description>NEC PC-8001 - Firmware (TOSEC-v2014-04-23)</description>
+		<category>TOSEC</category>
+		<version>2014-04-23</version>
+		<author>Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="NEC PC-8001 BIOS (1979)(NEC)[Font ROM]">
+		<description>NEC PC-8001 BIOS (1979)(NEC)[Font ROM]</description>
+		<rom name="NEC PC-8001 BIOS (1979)(NEC)[Font ROM].bin" size="2048" crc="56653188" md5="cd428f9ee8ff9f84c60beb7a8a0ef628" sha1="84b90f69671d4b72e8f219e1fe7cd667e976cf7f"/>
+	</game>
+	<game name="NEC PC-8001 BIOS v1.01 (1979)(NEC)[N80 BASIC ROM]">
+		<description>NEC PC-8001 BIOS v1.01 (1979)(NEC)[N80 BASIC ROM]</description>
+		<rom name="NEC PC-8001 BIOS v1.01 (1979)(NEC)[N80 BASIC ROM].bin" size="24576" crc="a2cc9f22" md5="f374db2869f7f44356ede51e94b4c5b6" sha1="6d2d838de7fea20ddf6601660d0525d5b17bf8a3"/>
+	</game>
+	<game name="NEC PC-8001 BIOS v1.02 (1979)(NEC)[N80 BASIC ROM]">
+		<description>NEC PC-8001 BIOS v1.02 (1979)(NEC)[N80 BASIC ROM]</description>
+		<rom name="NEC PC-8001 BIOS v1.02 (1979)(NEC)[N80 BASIC ROM].bin" size="24576" crc="ed01ca3f" md5="f1f6109541a89b626d4faf3f92ce5d75" sha1="b34a98941499d5baf79e7c0e5578b81dbede4a58"/>
+	</game>
+	<game name="NEC PC-8001 BIOS v1.10 (1979)(NEC)[N80 BASIC ROM]">
+		<description>NEC PC-8001 BIOS v1.10 (1979)(NEC)[N80 BASIC ROM]</description>
+		<rom name="NEC PC-8001 BIOS v1.10 (1979)(NEC)[N80 BASIC ROM].bin" size="24576" crc="1e02d93f" md5="36a73378118eb9a610d50a8b5098c404" sha1="4603cdb7a3833e7feb257b29d8052c872369e713"/>
+	</game>
+	<game name="NEC PC-8001mkII BIOS (1983)(NEC)[N80 BASIC ROM]">
+		<description>NEC PC-8001mkII BIOS (1983)(NEC)[N80 BASIC ROM]</description>
+		<rom name="NEC PC-8001mkII BIOS (1983)(NEC)[N80 BASIC ROM].bin" size="32768" crc="03cce7b6" md5="b4767ac722d7d25eb873828e1cbae182" sha1="c12d34e42021110930fed45a8af98db52136f1fb"/>
+	</game>
+</datafile>

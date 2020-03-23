@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Radica Arcade Legends &amp; Play TV Legends - Firmware</name>
+		<description>Radica Arcade Legends &amp; Play TV Legends - Firmware (TOSEC-v2012-09-08)</description>
+		<category>TOSEC</category>
+		<version>2012-09-08</version>
+		<author>Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Sega Genesis - Volume 1 ROM (2005)(Radica - Sega)(US)">
+		<description>Sega Genesis - Volume 1 ROM (2005)(Radica - Sega)(US)</description>
+		<rom name="Sega Genesis - Volume 1 ROM (2005)(Radica - Sega)(US).bin" size="4194304" crc="2362f1b9" md5="bd0fde7ef7918fcc8aa8c6504f3b6d0a" sha1="eb19fb4ba1cb61785ee990a620ddd1812999cf0d"/>
+	</game>
+	<game name="Sega Genesis - Volume 1 ROM (2005)(Radica - Sega)(US)[h]">
+		<description>Sega Genesis - Volume 1 ROM (2005)(Radica - Sega)(US)[h]</description>
+		<rom name="Sega Genesis - Volume 1 ROM (2005)(Radica - Sega)(US)[h].bin" size="65536" crc="f16908eb" md5="f5999b909adb30f47996736dd95de9be" sha1="e4a445695e5f3e262795860c40d3f7372c93bb0c"/>
+	</game>
+</datafile>

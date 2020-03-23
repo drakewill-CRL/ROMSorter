@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Dragon Data Dragon - Demos</name>
+		<description>Dragon Data Dragon - Demos (TOSEC-v2014-01-23)</description>
+		<category>TOSEC</category>
+		<version>2014-01-23</version>
+		<author>Eldio - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Happy Birthday Dragon (19xx)(-)">
+		<description>Happy Birthday Dragon (19xx)(-)</description>
+		<rom name="Happy Birthday Dragon (19xx)(-).cas" size="46406" crc="4cf974e1" md5="ac1ab83ac1c5b6b2f2f0801167450355" sha1="d1854ded081b260d41402b933d5c813fb7a804f4"/>
+	</game>
+	<game name="Jukebox Demo (1983)(Microdeal)">
+		<description>Jukebox Demo (1983)(Microdeal)</description>
+		<rom name="Jukebox Demo (1983)(Microdeal).cas" size="58770" crc="ad9af402" md5="7ea77dc71820f249a7db4339bd70f41e" sha1="24637867a8dc8e5d64d2f492fdc7be6b25f6f600"/>
+	</game>
+	<game name="Short BASIC Program (198x)(-)(PD)">
+		<description>Short BASIC Program (198x)(-)(PD)</description>
+		<rom name="Short BASIC Program (198x)(-)(PD).cas" size="1025" crc="c8cebf69" md5="f985812bc4c61b2e8829785d15951158" sha1="f9d3696b139f46877d9c0b322f5a439f16795dca"/>
+	</game>
+	<game name="TOSEC Owns Us All v1.0 (2003)(Eldio)">
+		<description>TOSEC Owns Us All v1.0 (2003)(Eldio)</description>
+		<rom name="TOSEC Owns Us All v1.0 (2003)(Eldio).cas" size="928" crc="f4832292" md5="7b29b22da4a80563a6a0e3ce90ca9b73" sha1="dffd8ae4772d96129f01152f36c049fd26f6f6a7"/>
+	</game>
+</datafile>

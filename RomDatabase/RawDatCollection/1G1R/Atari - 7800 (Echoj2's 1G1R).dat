@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Atari - 7800 (Echoj2's 1G1R)</name>
+		<description>Atari - 7800 (Echoj2's 1G1R)</description>
+		<category>Standard DatFile</category>
+		<version>20180623-100000</version>
+		<date>-insert date-</date>
+		<author>Eckaji</author>
+		<email>-insert email-</email>
+		<homepage>r/SBCGaming</homepage>
+		<url>https://discord.gg/JdXc6nx</url>
+		<comment>-insert comment-</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Ace of Aces (USA)">
+		<description>Ace of Aces (USA)</description>
+		<rom name="Ace of Aces (USA).a78" size="131200" crc="e682c28f" md5="4dd96d99c1228bb1fcae8c1b5c239197" sha1="384311f2b20c256d755fe470fb82ce8ad094bca0"/>
+	</machine>
+	<machine name="Alien Brigade (USA)">
+		<description>Alien Brigade (USA)</description>
+		<rom name="Alien Brigade (USA).a78" size="147584" crc="3cef22ca" md5="8bf5f92ed9a276c82139c47c9875fd17" sha1="eec0c56ff4cd107101e0d44bc55913e6d886da94"/>
+	</machine>
+	<machine name="Asteroids (USA)">
+		<description>Asteroids (USA)</description>
+		<rom name="Asteroids (USA).a78" size="16512" crc="eac69cf0" md5="85b5587c5a9406ddd079aa6879093cf7" sha1="244136dce7f71c146c4eb8c19b1c56ac3f71f646"/>
+	</machine>
+	<machine name="Ballblazer (USA)">
+		<description>Ballblazer (USA)</description>
+		<rom name="Ballblazer (USA).a78" size="32896" crc="44615260" md5="a6659fcf536d601948f57767aef65741" sha1="28adab7de3af3ce8658a62a6e95b44f10324ee26"/>
+	</machine>
+	<machine name="Basketbrawl (USA)">
+		<description>Basketbrawl (USA)</description>
+		<rom name="Basketbrawl (USA).a78" size="131200" crc="fd3aec38" md5="43b0a082f353919f83e4b37203af280f" sha1="6cceb878627fbcae67ae1c7e0fbdbbd7a9dd0693"/>
+	</machine>
+	<machine name="Centipede (USA)">
+		<description>Centipede (USA)</description>
+		<rom name="Centipede (USA).a78" size="16512" crc="5f94939e" md5="7612b1bb30320d37d79b7f48b16430b2" sha1="8f395f48971ed55e97f41f2286e10dcc5a14c066"/>
+	</machine>
+	<machine name="Choplifter! (USA)">
+		<description>Choplifter! (USA)</description>
+		<rom name="Choplifter! (USA).a78" size="32896" crc="d3ba607f" md5="0826515be7d9bc1fea26a7d6063667c1" sha1="6457dd40aeadb9733602c4ad3498780ebd7bf0d1"/>
+	</machine>
+	<machine name="Commando (USA)">
+		<description>Commando (USA)</description>
+		<rom name="Commando (USA).a78" size="131200" crc="81c6c079" md5="95d5eac7b804f3cb1950e0d19a03afe7" sha1="3314ce17df8b1b6fc52e13ccf8d6ea1aadbc66c4"/>
+	</machine>
+	<machine name="Crack'ed (USA)">
+		<description>Crack'ed (USA)</description>
+		<rom name="Crack'ed (USA).a78" size="131200" crc="61dcc763" md5="5a8344478c246200d0ef987557aae3cd" sha1="255e287a2f475731bafe5b7f1cf5075c8723d647"/>
+	</machine>
+	<machine name="Crossbow (USA)">
+		<description>Crossbow (USA)</description>
+		<rom name="Crossbow (USA).a78" size="147584" crc="a2678e2d" md5="68ae796ad700df322628ce9dfc82e802" sha1="520b6d9ef2ef4edae9a8cdf8da57c85810908a9a"/>
+	</machine>
+	<machine name="Dark Chambers (USA)">
+		<description>Dark Chambers (USA)</description>
+		<rom name="Dark Chambers (USA).a78" size="131200" crc="b5a87d19" md5="b94b39a2ece024bc79ad350914219a72" sha1="8e1866b33515d742bc0e1db0df0165f1c55694b9"/>
+	</machine>
+	<machine name="Desert Falcon (USA)">
+		<description>Desert Falcon (USA)</description>
+		<rom name="Desert Falcon (USA).a78" size="49280" crc="a6a62e78" md5="ec1f38ae5b5e638e1ac84016ee1c0019" sha1="0bf324702daf1a033fd8ffe57ecb9e066826780c"/>
+	</machine>
+	<machine name="Dig Dug (USA)">
+		<description>Dig Dug (USA)</description>
+		<rom name="Dig Dug (USA).a78" size="16512" crc="8ead573d" md5="3976abf29e9d6aa000bff8268c0d534e" sha1="dd8d50b1b72953d7535aec08880270f3b5245e12"/>
+	</machine>
+	<machine name="Donkey Kong (USA)">
+		<description>Donkey Kong (USA)</description>
+		<rom name="Donkey Kong (USA).a78" size="49280" crc="d7a55f95" md5="35eabe5b952a4f733b904f73511f884d" sha1="46aa055a2cc950f075cf6833e1338c73027459d4"/>
+	</machine>
+	<machine name="Donkey Kong Junior (USA)">
+		<description>Donkey Kong Junior (USA)</description>
+		<rom name="Donkey Kong Junior (USA).a78" size="49280" crc="6e989686" md5="c4940b2652d6a654cbbecfb59495ba24" sha1="2d02b7ec0ef958df5fbe11c1764c8932452e7451"/>
+	</machine>
+	<machine name="Double Dragon (USA)">
+		<description>Double Dragon (USA)</description>
+		<rom name="Double Dragon (USA).a78" size="131200" crc="cfcb73fd" md5="a8efd6286f5633bc1d5070d4b821f34b" sha1="deb9cd96d1b0ce9b266b5458f7472bb62742b1ed"/>
+	</machine>
+	<machine name="F-18 Hornet (USA)">
+		<description>F-18 Hornet (USA)</description>
+		<rom name="F-18 Hornet (USA).a78" size="65664" crc="2b4cb599" md5="c6c2777ffbbb76232f456acca4c1cd45" sha1="d7975aa89c97de8ecaf7391b60c9973f0400bd3a"/>
+	</machine>
+	<machine name="Fatal Run (USA)">
+		<description>Fatal Run (USA)</description>
+		<rom name="Fatal Run (USA).a78" size="131200" crc="718232bb" md5="fb28cd747d102114858010f6eb16ab35" sha1="aac1881255b4429a2fa13fcb003c2290bce5687c"/>
+	</machine>
+	<machine name="Fight Night (USA)">
+		<description>Fight Night (USA)</description>
+		<rom name="Fight Night (USA).a78" size="131200" crc="28e38bd7" md5="c64fb1c181e2d8b807181bb3c0fffbe9" sha1="48d87db3dfc85b20c04410104023694d60baf8a1"/>
+	</machine>
+	<machine name="Food Fight (USA)">
+		<description>Food Fight (USA)</description>
+		<rom name="Food Fight (USA).a78" size="32896" crc="03ec1894" md5="9a3819eef58dddb550fe997e7e6abee2" sha1="1d08c9791803e7bacdc0f36414ccabd1fa6b07a0"/>
+	</machine>
+	<machine name="Galaga (USA)">
+		<description>Galaga (USA)</description>
+		<rom name="Galaga (USA).a78" size="32896" crc="cffaa1b7" md5="1dd27b0caf03d6e3948d3be16ac30792" sha1="93a3b9c5348bbfd3bad6ec2bd922857a66dbb73a"/>
+	</machine>
+	<machine name="Hat Trick (USA)">
+		<description>Hat Trick (USA)</description>
+		<rom name="Hat Trick (USA).a78" size="49280" crc="6247efa8" md5="e3009bea70564f42dea651aa6fb89bd2" sha1="9a154c4faeb10167eeac65206892ad9a1b9f8364"/>
+	</machine>
+	<machine name="Ikari Warriors (USA)">
+		<description>Ikari Warriors (USA)</description>
+		<rom name="Ikari Warriors (USA).a78" size="131200" crc="aa0cfb30" md5="09ab678572f2c2953a7dda3cc3cda0df" sha1="d276034ad0cb78233f41d62f26ae8c13941b347f"/>
+	</machine>
+	<machine name="Impossible Mission (Europe)">
+		<description>Impossible Mission (Europe)</description>
+		<rom name="Impossible Mission (Europe).a78" size="131200" crc="dc1f3987" md5="f9b53a96ad0a408d37fa1f1e745ac2df" sha1="aa46b44bb579a82a85a03307bc474a6f19f209ab"/>
+	</machine>
+	<machine name="Jinks (USA)">
+		<description>Jinks (USA)</description>
+		<rom name="Jinks (USA).a78" size="131200" crc="9571c998" md5="f4eaa88fa34b608c5b521ddf821173c4" sha1="e8e731a2f19f8cb83617a91c4aaaff28bb89ef7d"/>
+	</machine>
+	<machine name="Joust (USA)">
+		<description>Joust (USA)</description>
+		<rom name="Joust (USA).a78" size="32896" crc="fda13f77" md5="6acb6db87bd24ab7eecdbef2f206b384" sha1="04e1355f0109864d470a0ff6f8345436a7665b93"/>
+	</machine>
+	<machine name="Karateka (USA)">
+		<description>Karateka (USA)</description>
+		<rom name="Karateka (USA).a78" size="49280" crc="7089a354" md5="a58e0790cf2940e33343daacee0bc864" sha1="ef839309a2770efd09955ed3467f0970a64d8243"/>
+	</machine>
+	<machine name="Kung-Fu Master (USA)">
+		<description>Kung-Fu Master (USA)</description>
+		<rom name="Kung-Fu Master (USA).a78" size="32896" crc="37816887" md5="1d9513a8d2a837caca7bb4e9884a87cb" sha1="624a8f70b433f04942d5544289ac156d50b93610"/>
+	</machine>
+	<machine name="Mario Bros. (USA)">
+		<description>Mario Bros. (USA)</description>
+		<rom name="Mario Bros. (USA).a78" size="49280" crc="4d072a3e" md5="4e1151e58e14ffca2a445d46981dab65" sha1="b0216f9979d0cf75d2f00c2715170b7acf3d92f9"/>
+	</machine>
+	<machine name="Mat Mania Challenge (USA)">
+		<description>Mat Mania Challenge (USA)</description>
+		<rom name="Mat Mania Challenge (USA).a78" size="131200" crc="33bb15ac" md5="b34fec30a281a066c4098c44709f30ae" sha1="d84a0f727e2176a58ec222c3b4a3364ddd6c4e30"/>
+	</machine>
+	<machine name="Mean 18 Ultimate Golf (USA)">
+		<description>Mean 18 Ultimate Golf (USA)</description>
+		<rom name="Mean 18 Ultimate Golf (USA).a78" size="131200" crc="d22f4b02" md5="a2467a3c756505010a37e9a687de57d5" sha1="c1f1d13b0a3cff210a6b8fe73efb5588cb4de3c6"/>
+	</machine>
+	<machine name="Midnight Mutants (USA)">
+		<description>Midnight Mutants (USA)</description>
+		<rom name="Midnight Mutants (USA).a78" size="131200" crc="e7157222" md5="e0cc5168d910557c01d3c95173ec7d0a" sha1="c56e2180b8ad1d37767d01c22bfb098d995f192e"/>
+	</machine>
+	<machine name="Motor Psycho (USA)">
+		<description>Motor Psycho (USA)</description>
+		<rom name="Motor Psycho (USA).a78" size="131200" crc="fc414689" md5="06b27077568fe7529d2d0bdfdd974854" sha1="f59f5081979b69b30a6f3cf9f2be5345747ee14e"/>
+	</machine>
+	<machine name="Ms. Pac-Man (USA)">
+		<description>Ms. Pac-Man (USA)</description>
+		<rom name="Ms. Pac-Man (USA).a78" size="16512" crc="5ec9c910" md5="12a6483c57d2060d1d07eed2f4cb63dd" sha1="aad5c4b0b2e372f13ffa0a291023c9feee86785d"/>
+	</machine>
+	<machine name="Ninja Golf (USA)">
+		<description>Ninja Golf (USA)</description>
+		<rom name="Ninja Golf (USA).a78" size="131200" crc="9e5d3625" md5="bb551483d114dcc5bae7aaa892ee856a" sha1="bf0801510a0835e327b1b2edd2d56399551bc047"/>
+	</machine>
+	<machine name="One-on-One Basketball (USA)">
+		<description>One-on-One Basketball (USA)</description>
+		<rom name="One-on-One Basketball (USA).a78" size="49280" crc="34646e22" md5="485478092c2f192eaf29ca199b753d16" sha1="b89b8e550ae9c58880ef05e2e7d6ec6de40e96ce"/>
+	</machine>
+	<machine name="Pete Rose Baseball (USA)">
+		<description>Pete Rose Baseball (USA)</description>
+		<rom name="Pete Rose Baseball (USA).a78" size="32896" crc="ecece40b" md5="e749db4d81db283c1b6628181504b1b8" sha1="80ed091b4081c134ea57b8e96fc3825b1d98e7b2"/>
+	</machine>
+	<machine name="Planet Smashers (USA)">
+		<description>Planet Smashers (USA)</description>
+		<rom name="Planet Smashers (USA).a78" size="131200" crc="46342cd3" md5="923ee9602e0af45fe5d2131dfd78214c" sha1="58a82ff0bbbe418d1c2d950c9ecff7f5c549618f"/>
+	</machine>
+	<machine name="Pole Position II (USA)">
+		<description>Pole Position II (USA)</description>
+		<rom name="Pole Position II (USA).a78" size="32896" crc="4bf501cb" md5="8a4f2f898ee79593e2fc30061526ca08" sha1="319702e597f1fc419c1a530ed8cff2ea6c76e8fb"/>
+	</machine>
+	<machine name="Rampage (USA)">
+		<description>Rampage (USA)</description>
+		<rom name="Rampage (USA).a78" size="131200" crc="5cb41cbd" md5="f169479043a09812bae06c866c39a6ad" sha1="037a276d455f75df8f8b410a446d845c84c1d001"/>
+	</machine>
+	<machine name="RealSports Baseball (USA)">
+		<description>RealSports Baseball (USA)</description>
+		<rom name="RealSports Baseball (USA).a78" size="65664" crc="f33bd4fd" md5="83a91c157d4feb13c3513b158d6c825f" sha1="d2b8b6dbb600b2e8b70abbabc10984c5a6e391ba"/>
+	</machine>
+	<machine name="Robotron - 2084 (USA)">
+		<description>Robotron - 2084 (USA)</description>
+		<rom name="Robotron - 2084 (USA).a78" size="32896" crc="ab7bc9ce" md5="5ac3aa823da1a7a9738c208161fbca57" sha1="77c3445993f2d0a2acf0a453ef80bc31e047b932"/>
+	</machine>
+	<machine name="Scrapyard Dog (USA)">
+		<description>Scrapyard Dog (USA)</description>
+		<rom name="Scrapyard Dog (USA).a78" size="131200" crc="db61ae81" md5="eb1a0b793c58b2e2cacc01b843aebfed" sha1="5fec935aa0e284e6373f456e5fb9158892d0f4e8"/>
+	</machine>
+	<machine name="Summer Games (USA)">
+		<description>Summer Games (USA)</description>
+		<rom name="Summer Games (USA).a78" size="131200" crc="05d35694" md5="559e0a7566616b83644718f6f501e7a8" sha1="86383e6553453a353fb641b60f7021662bfc6553"/>
+	</machine>
+	<machine name="Super Huey UH-IX (USA)">
+		<description>Super Huey UH-IX (USA)</description>
+		<rom name="Super Huey UH-IX (USA).a78" size="49280" crc="f1991b27" md5="81b81dd6239255be35c1d9bd2ce701c6" sha1="8fe3620de6d630e8a1aeb30291940f7589532956"/>
+	</machine>
+	<machine name="Super Skateboardin' (USA)">
+		<description>Super Skateboardin' (USA)</description>
+		<rom name="Super Skateboardin' (USA).a78" size="32896" crc="faa12091" md5="1203a779363886f017e1424a1d90481a" sha1="fbf1848df9def28df693a3b85589ffb72273519a"/>
+	</machine>
+	<machine name="Tank Command (USA)">
+		<description>Tank Command (USA)</description>
+		<rom name="Tank Command (USA).a78" size="65664" crc="9ffc9515" md5="66f904276dabed87fe79f18f794c6dd0" sha1="807505a3af7458622c5dffc62da1d608826f917a"/>
+	</machine>
+	<machine name="Title Match Pro Wrestling (USA)">
+		<description>Title Match Pro Wrestling (USA)</description>
+		<rom name="Title Match Pro Wrestling (USA).a78" size="32896" crc="a5742a96" md5="574b71c7cc5b0bc7746719cc8ffcf8ef" sha1="6ff9937e199ba98934a27170413cb962f5fc1218"/>
+	</machine>
+	<machine name="Tomcat - The F-14 Fighter Simulator (USA)">
+		<description>Tomcat - The F-14 Fighter Simulator (USA)</description>
+		<rom name="Tomcat - The F-14 Fighter Simulator (USA).a78" size="32896" crc="ab48f361" md5="176e6378f1d0e769dc6145fdde0a5081" sha1="cf5774e0ec2f127b40759e184572eab22b0ac635"/>
+	</machine>
+	<machine name="Touchdown Football (USA)">
+		<description>Touchdown Football (USA)</description>
+		<rom name="Touchdown Football (USA).a78" size="131200" crc="4162e98f" md5="d257805d290cc03ab750fae960ca74d7" sha1="4a7afa496ad97bc2b840ac60eb2827a743b01074"/>
+	</machine>
+	<machine name="Tower Toppler (USA)">
+		<description>Tower Toppler (USA)</description>
+		<rom name="Tower Toppler (USA).a78" size="65664" crc="f701bd43" md5="252515a9fea1976a99167a40df1e77a3" sha1="e4b5a0dd8bfc9319289076ef0aa4543d94019e5c"/>
+	</machine>
+	<machine name="Water Ski (USA)">
+		<description>Water Ski (USA)</description>
+		<rom name="Water Ski (USA).a78" size="65664" crc="09a27634" md5="a413c03945cb0627b7f5515dd6e9ea41" sha1="169ee9e4f0181108bcdcdf7a92983627d07ba63e"/>
+	</machine>
+	<machine name="Winter Games (USA)">
+		<description>Winter Games (USA)</description>
+		<rom name="Winter Games (USA).a78" size="131200" crc="68db3611" md5="2c672efdb4f5eafd1b2ef10ea1ec4185" sha1="42283b1297237e04c6ef69234770d093ffef8949"/>
+	</machine>
+	<machine name="Xenophobe (USA)">
+		<description>Xenophobe (USA)</description>
+		<rom name="Xenophobe (USA).a78" size="131200" crc="96ee8584" md5="46a7909d1fb1dd8ad4a6ae1c251cef33" sha1="d70bf96175e9a496b3041c149b727b23fe44e91e"/>
+	</machine>
+	<machine name="Xevious (USA)">
+		<description>Xevious (USA)</description>
+		<rom name="Xevious (USA).a78" size="32896" crc="44584fa2" md5="6fa5ece1f97f65c207b8c252ee49f97c" sha1="652e633776f608a3c2a1030a6796ba0c8669d8f0"/>
+	</machine>
+</datafile>

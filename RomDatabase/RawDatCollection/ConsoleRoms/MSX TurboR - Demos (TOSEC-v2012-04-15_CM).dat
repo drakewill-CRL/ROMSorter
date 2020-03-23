@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>MSX TurboR - Demos</name>
+		<description>MSX TurboR - Demos (TOSEC-v2012-04-15)</description>
+		<category>TOSEC</category>
+		<version>2012-04-15</version>
+		<author>XakMSX - VG8020 - jugaor - cbeard - TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Swiss Demo, The (1992)(MJ-CHJ &amp; AT Productions)[b]">
+		<description>Swiss Demo, The (1992)(MJ-CHJ &amp; AT Productions)[b]</description>
+		<rom name="Swiss Demo, The (1992)(MJ-CHJ &amp; AT Productions)[b].dsk" size="737280" crc="e37aa5b6" md5="e52350b8c27bd450a558c81d0b5ce5c2" sha1="1235ccc142d7fcfefacb489cf375ac1001b7aacd"/>
+	</game>
+	<game name="Zone Terra (demo) (1994)(Quadrivium)(NL)">
+		<description>Zone Terra (demo) (1994)(Quadrivium)(NL)</description>
+		<rom name="Zone Terra (demo) (1994)(Quadrivium)(NL).dsk" size="737280" crc="ed4ac074" md5="31d0f27acb0c2be073879d5d734569b3" sha1="a36dec1e71df540c4e87ee7f38660900f3a05efd"/>
+	</game>
+	<game name="Zone Terra (demo) (1994)(Quadrivium)(NL)[b2]">
+		<description>Zone Terra (demo) (1994)(Quadrivium)(NL)[b2]</description>
+		<rom name="Zone Terra (demo) (1994)(Quadrivium)(NL)[b2].dsk" size="737280" crc="f0271d7c" md5="97172c74867aecc2f061577d7b80ecc8" sha1="1a3355499ebf63ea5ec6581cd4a3535887b8c813"/>
+	</game>
+	<game name="Zone Terra (demo) (1994)(Quadrivium)(NL)[b]">
+		<description>Zone Terra (demo) (1994)(Quadrivium)(NL)[b]</description>
+		<rom name="Zone Terra (demo) (1994)(Quadrivium)(NL)[b].dsk" size="737280" crc="1e1bedb5" md5="81604d85d269181d08d30dba8b962541" sha1="78a2990afdc5b60f6e3ee04c3a4b82b2e35d43da"/>
+	</game>
+</datafile>

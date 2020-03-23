@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>DEC PDP-8 - Collections - MainDEC - [PTP]</name>
+		<description>DEC PDP-8 - Collections - MainDEC - [PTP] (TOSEC-v2014-01-14)</description>
+		<category>TOSEC</category>
+		<version>2014-01-14</version>
+		<author>TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="MainDEC-08-D02B-PB (1968-01-03)(Diagnostic Group)(US)[Instruction Test Part 2B]">
+		<description>MainDEC-08-D02B-PB (1968-01-03)(Diagnostic Group)(US)[Instruction Test Part 2B]</description>
+		<rom name="MainDEC-08-D02B-PB (1968-01-03)(Diagnostic Group)(US)[Instruction Test Part 2B].ptp" size="2407" crc="c4bde468" md5="ca18ebb267dd850e229c20bef1aceee7" sha1="bad03293ec9f91b13afc9d900fc87dd67c62fe35"/>
+	</game>
+	<game name="MainDEC-08-D05B-PT (1967-12-28)(Diagnostic Group)(US)[Random JMP-JMS Test]">
+		<description>MainDEC-08-D05B-PT (1967-12-28)(Diagnostic Group)(US)[Random JMP-JMS Test]</description>
+		<rom name="MainDEC-08-D05B-PT (1967-12-28)(Diagnostic Group)(US)[Random JMP-JMS Test].ptp" size="1307" crc="8b2070c3" md5="c493de8afcd49b79bf6a97abdc20a4c4" sha1="b391325ec4a29e96599aaedbe2c3bd394288cc01"/>
+	</game>
+	<game name="MainDEC-08-D07B-PB (1967-12-26)(Diagnostic Group)(US)[Random ISZ Test]">
+		<description>MainDEC-08-D07B-PB (1967-12-26)(Diagnostic Group)(US)[Random ISZ Test]</description>
+		<rom name="MainDEC-08-D07B-PB (1967-12-26)(Diagnostic Group)(US)[Random ISZ Test].ptp" size="1403" crc="4bcb9cbc" md5="14fc25d03628e28a3b252754a9b3dcec" sha1="1441aeaee8147744cd401618fa5b3281f0830a29"/>
+	</game>
+	<game name="MainDEC-08-D07B-PB (1967-12-28)(Diagnostic Group)(US)[Random ISZ Test]">
+		<description>MainDEC-08-D07B-PB (1967-12-28)(Diagnostic Group)(US)[Random ISZ Test]</description>
+		<rom name="MainDEC-08-D07B-PB (1967-12-28)(Diagnostic Group)(US)[Random ISZ Test].ptp" size="1405" crc="4f90c291" md5="2af20f6ab9e5901055a47d6c4c990a01" sha1="b16477109e5ca8c7f29ec456e5e974e4a24d0e7b"/>
+	</game>
+	<game name="MainDEC-08-D1AC-PB (1968-09-16)(Diagnostic Group)(US)[a2][Memory Power On-Off Test]">
+		<description>MainDEC-08-D1AC-PB (1968-09-16)(Diagnostic Group)(US)[a2][Memory Power On-Off Test]</description>
+		<rom name="MainDEC-08-D1AC-PB (1968-09-16)(Diagnostic Group)(US)[a2][Memory Power On-Off Test].ptp" size="673" crc="9579d1fb" md5="76a827e5e9dc1d5b439eb945f1e3ea11" sha1="d092b867a899541f226425158d0010835e773704"/>
+	</game>
+	<game name="MainDEC-08-D1AC-PB (1968-09-16)(Diagnostic Group)(US)[a][Memory Power On-Off Test]">
+		<description>MainDEC-08-D1AC-PB (1968-09-16)(Diagnostic Group)(US)[a][Memory Power On-Off Test]</description>
+		<rom name="MainDEC-08-D1AC-PB (1968-09-16)(Diagnostic Group)(US)[a][Memory Power On-Off Test].ptp" size="672" crc="5e83a31d" md5="36b4e7bf7dac17d9014d224f7daeed26" sha1="9d366a2fbe2fc5393007d0f2f1e94bf97c3ff4eb"/>
+	</game>
+	<game name="MainDEC-08-D1AC-PB (1968-09-16)(Diagnostic Group)(US)[Memory Power On-Off Test]">
+		<description>MainDEC-08-D1AC-PB (1968-09-16)(Diagnostic Group)(US)[Memory Power On-Off Test]</description>
+		<rom name="MainDEC-08-D1AC-PB (1968-09-16)(Diagnostic Group)(US)[Memory Power On-Off Test].ptp" size="669" crc="60263fd6" md5="c749d91fda6162b72309e9413a0d069c" sha1="1180f50b6b2692d995e301167aa2385c1a459e1d"/>
+	</game>
+	<game name="MainDEC-08-D1B1-PM (1968-04-01)(Diagnostic Group)(US)[Memory Address Test, Low]">
+		<description>MainDEC-08-D1B1-PM (1968-04-01)(Diagnostic Group)(US)[Memory Address Test, Low]</description>
+		<rom name="MainDEC-08-D1B1-PM (1968-04-01)(Diagnostic Group)(US)[Memory Address Test, Low].ptp" size="1152" crc="1639c4dc" md5="d20f3df25ccd137486f186d417575989" sha1="2ff0e571f7440681b37c4f68c7ec2b53393f5a35"/>
+	</game>
+	<game name="MainDEC-08-D1B2-PM (1968-04-01)(Diagnostic Group)(US)[Memory Address Test, High]">
+		<description>MainDEC-08-D1B2-PM (1968-04-01)(Diagnostic Group)(US)[Memory Address Test, High]</description>
+		<rom name="MainDEC-08-D1B2-PM (1968-04-01)(Diagnostic Group)(US)[Memory Address Test, High].ptp" size="1327" crc="46c90f7a" md5="545bc1480b7984d5f6784efb0ed08eb8" sha1="076fa2be99afa23b060d0f2454866188b0273bb9"/>
+	</game>
+	<game name="MainDEC-08-D1EB-PB (1968-05-01)(Diagnostic Group)(US)[PDP-8, 8I Extended Memory Data &amp; Checkerboard Test]">
+		<description>MainDEC-08-D1EB-PB (1968-05-01)(Diagnostic Group)(US)[PDP-8, 8I Extended Memory Data &amp; Checkerboard Test]</description>
+		<rom name="MainDEC-08-D1EB-PB (1968-05-01)(Diagnostic Group)(US)[PDP-8, 8I Extended Memory Data &amp; Checkerboard Test].ptp" size="3492" crc="2770e79a" md5="f36086919c08303205e84ced2df9096e" sha1="b14ecdfd40c53febdd3158c7c25d4744ada128a4"/>
+	</game>
+	<game name="MainDEC-08-D1GB-PB (1968-05-05)(Diagnostic Group)(US)[Extended Memory Control Test]">
+		<description>MainDEC-08-D1GB-PB (1968-05-05)(Diagnostic Group)(US)[Extended Memory Control Test]</description>
+		<rom name="MainDEC-08-D1GB-PB (1968-05-05)(Diagnostic Group)(US)[Extended Memory Control Test].ptp" size="2359" crc="7c483236" md5="970102a4da208971bfef122c68a680ad" sha1="04785a3c945b5e3c811689b5f34e934a7b017403"/>
+	</game>
+	<game name="MainDEC-08-D1GD-PB (1970-07-27)(Diagnostic Group)(US)[PDP-8, 8S Extended Memory Control Test]">
+		<description>MainDEC-08-D1GD-PB (1970-07-27)(Diagnostic Group)(US)[PDP-8, 8S Extended Memory Control Test]</description>
+		<rom name="MainDEC-08-D1GD-PB (1970-07-27)(Diagnostic Group)(US)[PDP-8, 8S Extended Memory Control Test].ptp" size="2558" crc="bff87f75" md5="519a031e2ea7cb3490ea1dbab3e6944c" sha1="b34b440dbcf302e4986bfd6371d04ab43a60bab2"/>
+	</game>
+	<game name="MainDEC-08-D1HA-PB (1968-10-01)(Diagnostic Group)(US)[PDP-8, 8I Extended Memory Address Test]">
+		<description>MainDEC-08-D1HA-PB (1968-10-01)(Diagnostic Group)(US)[PDP-8, 8I Extended Memory Address Test]</description>
+		<rom name="MainDEC-08-D1HA-PB (1968-10-01)(Diagnostic Group)(US)[PDP-8, 8I Extended Memory Address Test].ptp" size="2961" crc="9f3a83b2" md5="97288b584ac9a3231f59b81f001c1b2d" sha1="c17358be8544589bdef222d7b771027839113f4c"/>
+	</game>
+	<game name="MainDEC-08-D1L1-PM (1968-02-27)(Diagnostic Group)(US)[Basic PDP-8, 8I Memory Checkerboard, Low]">
+		<description>MainDEC-08-D1L1-PM (1968-02-27)(Diagnostic Group)(US)[Basic PDP-8, 8I Memory Checkerboard, Low]</description>
+		<rom name="MainDEC-08-D1L1-PM (1968-02-27)(Diagnostic Group)(US)[Basic PDP-8, 8I Memory Checkerboard, Low].ptp" size="1663" crc="64b228c4" md5="f41655ee2a0f0b8c759d763e5518a9bf" sha1="9c28912b7cfba2332644b520ab0b4b3f6500d4c0"/>
+	</game>
+	<game name="MainDEC-08-D1L2-PM (1968-06-07)(Diagnostic Group)(US)[Basic PDP-8, 8I Memory Checkerboard, High]">
+		<description>MainDEC-08-D1L2-PM (1968-06-07)(Diagnostic Group)(US)[Basic PDP-8, 8I Memory Checkerboard, High]</description>
+		<rom name="MainDEC-08-D1L2-PM (1968-06-07)(Diagnostic Group)(US)[Basic PDP-8, 8I Memory Checkerboard, High].ptp" size="1585" crc="47f64753" md5="632a10dc154b5eeed24f31ef38761fda" sha1="503fe0d89ab9d99234ea54cdc477f4f82e484f9a"/>
+	</game>
+	<game name="MainDEC-08-D1MA-PM1 (1971-02-11)(Diagnostic Group)(US)[Memory Address Test, Low]">
+		<description>MainDEC-08-D1MA-PM1 (1971-02-11)(Diagnostic Group)(US)[Memory Address Test, Low]</description>
+		<rom name="MainDEC-08-D1MA-PM1 (1971-02-11)(Diagnostic Group)(US)[Memory Address Test, Low].ptp" size="1156" crc="f94d38f9" md5="c2cd642f9439b28254132d9126f646ee" sha1="e153ede949e87b11673599fe3d84c2520574c10e"/>
+	</game>
+	<game name="MainDEC-08-D1MA-PM2 (1971-02-11)(Diagnostic Group)(US)[Memory Address Test, High]">
+		<description>MainDEC-08-D1MA-PM2 (1971-02-11)(Diagnostic Group)(US)[Memory Address Test, High]</description>
+		<rom name="MainDEC-08-D1MA-PM2 (1971-02-11)(Diagnostic Group)(US)[Memory Address Test, High].ptp" size="1378" crc="cfbc18f2" md5="53a9bee33cce0b07db513db53882d273" sha1="e5f696da0f3e331df43f022ada1bc4864657b911"/>
+	</game>
+	<game name="MainDEC-08-D2PE-PB (1969-02-21)(Diagnostic Group)(US)[a][ASR33-35 Teletype Tests Part 1]">
+		<description>MainDEC-08-D2PE-PB (1969-02-21)(Diagnostic Group)(US)[a][ASR33-35 Teletype Tests Part 1]</description>
+		<rom name="MainDEC-08-D2PE-PB (1969-02-21)(Diagnostic Group)(US)[a][ASR33-35 Teletype Tests Part 1].ptp" size="2441" crc="9da375b4" md5="598a6263cfa976b72ca5c6f3a47576ee" sha1="9f41b0b8c1878dc5b76a993fccbfd560f859d32d"/>
+	</game>
+	<game name="MainDEC-08-D2PE-PB (1969-02-21)(Diagnostic Group)(US)[ASR33-35 Teletype Tests Part 1]">
+		<description>MainDEC-08-D2PE-PB (1969-02-21)(Diagnostic Group)(US)[ASR33-35 Teletype Tests Part 1]</description>
+		<rom name="MainDEC-08-D2PE-PB (1969-02-21)(Diagnostic Group)(US)[ASR33-35 Teletype Tests Part 1].ptp" size="2442" crc="2d7bc7a5" md5="5b6126a373679b9674c7ecc494dfbe7d" sha1="3c4a54f539b25f419b7375b847a801ad703aeb3e"/>
+	</game>
+	<game name="MainDEC-08-D2QD-PB (1968-06-04)(Diagnostic Group)(US)[a][ASR33-35 Teletype Tests Part 2]">
+		<description>MainDEC-08-D2QD-PB (1968-06-04)(Diagnostic Group)(US)[a][ASR33-35 Teletype Tests Part 2]</description>
+		<rom name="MainDEC-08-D2QD-PB (1968-06-04)(Diagnostic Group)(US)[a][ASR33-35 Teletype Tests Part 2].ptp" size="4405" crc="df74c196" md5="afba5dc2b58163e60823165d34f5f25f" sha1="c641c1145104f6efb3c2d6103ce4e23dbe02bc11"/>
+	</game>
+	<game name="MainDEC-08-D2QD-PB (1968-06-04)(Diagnostic Group)(US)[ASR33-35 Teletype Tests Part 2]">
+		<description>MainDEC-08-D2QD-PB (1968-06-04)(Diagnostic Group)(US)[ASR33-35 Teletype Tests Part 2]</description>
+		<rom name="MainDEC-08-D2QD-PB (1968-06-04)(Diagnostic Group)(US)[ASR33-35 Teletype Tests Part 2].ptp" size="4403" crc="5b487e92" md5="72f05b36c31d9c7671065f8d9ff5fa61" sha1="dc1e26469594c17cf8e58b35f2ee3a07eae811f3"/>
+	</game>
+	<game name="MainDEC-08-D6GC-PB (1968-10-14)(Diagnostic Group)(US)[A to D Calibration Check]">
+		<description>MainDEC-08-D6GC-PB (1968-10-14)(Diagnostic Group)(US)[A to D Calibration Check]</description>
+		<rom name="MainDEC-08-D6GC-PB (1968-10-14)(Diagnostic Group)(US)[A to D Calibration Check].ptp" size="916" crc="0b304b23" md5="bb89d4900e82a6be42a557334c768126" sha1="0f5ff89e149d8f089618fdee9c731f57a81fd90b"/>
+	</game>
+	<game name="MainDEC-08-D6TA-PB (1968-07-31)(-)[AA05-AA07 Calibration Tape]">
+		<description>MainDEC-08-D6TA-PB (1968-07-31)(-)[AA05-AA07 Calibration Tape]</description>
+		<rom name="MainDEC-08-D6TA-PB (1968-07-31)(-)[AA05-AA07 Calibration Tape].ptp" size="694" crc="6512ceb8" md5="b6f874c459ff462acbac93cf5347f46a" sha1="825785b17e0408c2043049e85e338b87f905fef5"/>
+	</game>
+	<game name="MainDEC-08-DHKMA-A-PB (1972-04-10)(Diagnostic Group)(US)[a][PDP-8E Extended Memory Data &amp; Checkerboard Test]">
+		<description>MainDEC-08-DHKMA-A-PB (1972-04-10)(Diagnostic Group)(US)[a][PDP-8E Extended Memory Data &amp; Checkerboard Test]</description>
+		<rom name="MainDEC-08-DHKMA-A-PB (1972-04-10)(Diagnostic Group)(US)[a][PDP-8E Extended Memory Data &amp; Checkerboard Test].ptp" size="5322" crc="67db657f" md5="7f99a30b3702ceb4a560771887f2f5c0" sha1="049dbf5f4b0dd8a3315feacc2161a60db3c9e193"/>
+	</game>
+	<game name="MainDEC-08-DHKMA-A-PB (1972-04-10)(Diagnostic Group)(US)[PDP-8E Extended Memory Data &amp; Checkerboard Test]">
+		<description>MainDEC-08-DHKMA-A-PB (1972-04-10)(Diagnostic Group)(US)[PDP-8E Extended Memory Data &amp; Checkerboard Test]</description>
+		<rom name="MainDEC-08-DHKMA-A-PB (1972-04-10)(Diagnostic Group)(US)[PDP-8E Extended Memory Data &amp; Checkerboard Test].ptp" size="5320" crc="387bc3ff" md5="d737f3c275bfb789a5a5db93186e4117" sha1="ea488707ce689fbfad2c813be31b9fb47e5f4519"/>
+	</game>
+	<game name="MainDEC-08-DHMCA-A-PB (1972-06-16)(Diagnostic Group)(US)[PDP-8E Memory Extension &amp; Time Share Control Test]">
+		<description>MainDEC-08-DHMCA-A-PB (1972-06-16)(Diagnostic Group)(US)[PDP-8E Memory Extension &amp; Time Share Control Test]</description>
+		<rom name="MainDEC-08-DHMCA-A-PB (1972-06-16)(Diagnostic Group)(US)[PDP-8E Memory Extension &amp; Time Share Control Test].ptp" size="4164" crc="34c401ea" md5="909b7148fa04da29b3cee630e7988c5e" sha1="484154e9d5805f6a81f0a52b66b93e95e169f223"/>
+	</game>
+	<game name="MainDEC-08-DHRKA-B-PB (1973-04-19)(Diagnostic Group)(US)[RK8E Diskless Control Test]">
+		<description>MainDEC-08-DHRKA-B-PB (1973-04-19)(Diagnostic Group)(US)[RK8E Diskless Control Test]</description>
+		<rom name="MainDEC-08-DHRKA-B-PB (1973-04-19)(Diagnostic Group)(US)[RK8E Diskless Control Test].ptp" size="7166" crc="66b303b4" md5="9579f482bb652371c62a963c6fb62c9a" sha1="1a2e9d7e2ae21c226a00b79c4baf69ba64d566ea"/>
+	</game>
+	<game name="MainDEC-08-DHRKB-D-PB (1974-01-01)(Diagnostic Group)(US)[RK8E Drive Control Test]">
+		<description>MainDEC-08-DHRKB-D-PB (1974-01-01)(Diagnostic Group)(US)[RK8E Drive Control Test]</description>
+		<rom name="MainDEC-08-DHRKB-D-PB (1974-01-01)(Diagnostic Group)(US)[RK8E Drive Control Test].ptp" size="7245" crc="c490ffa6" md5="3595219ec3b95fd779b100bd0c78fbc6" sha1="091b4410093708441c0d4010d1309e1fb0a471fa"/>
+	</game>
+	<game name="MainDEC-08-DHRKC-C-PB (1973-07-16)(Diagnostic Group)(US)[RK8E Data Reliability Program]">
+		<description>MainDEC-08-DHRKC-C-PB (1973-07-16)(Diagnostic Group)(US)[RK8E Data Reliability Program]</description>
+		<rom name="MainDEC-08-DHRKC-C-PB (1973-07-16)(Diagnostic Group)(US)[RK8E Data Reliability Program].ptp" size="4337" crc="2c396f95" md5="e13c67593403d79482f4931d1f758607" sha1="5fcb0a20f457e8808ed626dc9b04042e4c04aa3a"/>
+	</game>
+	<game name="MainDEC-08-DHRKD-A-PB (1972-10-02)(Diagnostic Group)(US)[RK8E Disk Formatter Program]">
+		<description>MainDEC-08-DHRKD-A-PB (1972-10-02)(Diagnostic Group)(US)[RK8E Disk Formatter Program]</description>
+		<rom name="MainDEC-08-DHRKD-A-PB (1972-10-02)(Diagnostic Group)(US)[RK8E Disk Formatter Program].ptp" size="2366" crc="0157eb8b" md5="5935f27176c85e8963581c8dd375e10e" sha1="a040b18d7a767c4532ee9ff0ec374609f1091256"/>
+	</game>
+	<game name="MainDEC-08-DHTA-A-PB2 (1972-11-01)(Diagnostic Group)(US)[TD8E Dectape Diagnostic Overlay]">
+		<description>MainDEC-08-DHTA-A-PB2 (1972-11-01)(Diagnostic Group)(US)[TD8E Dectape Diagnostic Overlay]</description>
+		<rom name="MainDEC-08-DHTA-A-PB2 (1972-11-01)(Diagnostic Group)(US)[TD8E Dectape Diagnostic Overlay].ptp" size="1098" crc="2ca45b7e" md5="bc47857fbe666a233bf11e975b5ea4f0" sha1="6f80323dcad6ba35b08ade655aa3816de7fb6a5c"/>
+	</game>
+	<game name="MainDEC-08-DO2B-PB (1968-01-03)(Diagnostic Group)(US)[Instruction Test Part 2B]">
+		<description>MainDEC-08-DO2B-PB (1968-01-03)(Diagnostic Group)(US)[Instruction Test Part 2B]</description>
+		<rom name="MainDEC-08-DO2B-PB (1968-01-03)(Diagnostic Group)(US)[Instruction Test Part 2B].ptp" size="2397" crc="5496e86a" md5="c8a61b2336e170ac439afda970f2e2e4" sha1="846dcca6e5bb0100dcac3160edd518a3433670c0"/>
+	</game>
+	<game name="MainDEC-08-DO4B-PB (1967-02-08)(Diagnostic Group)(US)[Random JMP-Test]">
+		<description>MainDEC-08-DO4B-PB (1967-02-08)(Diagnostic Group)(US)[Random JMP-Test]</description>
+		<rom name="MainDEC-08-DO4B-PB (1967-02-08)(Diagnostic Group)(US)[Random JMP-Test].ptp" size="1068" crc="cd6e4813" md5="1c44dca51e0480fee7090ba9efcd1c09" sha1="c409d30402f53045f8cd674a19e2bc3aa67e35b8"/>
+	</game>
+	<game name="MainDEC-08-DO5B-PB (1967-12-28)(Diagnostic Group)(US)[Random JMP-JMS Test]">
+		<description>MainDEC-08-DO5B-PB (1967-12-28)(Diagnostic Group)(US)[Random JMP-JMS Test]</description>
+		<rom name="MainDEC-08-DO5B-PB (1967-12-28)(Diagnostic Group)(US)[Random JMP-JMS Test].ptp" size="1307" crc="d1cd2521" md5="510645ee9b999222d8ff50e9a0470e73" sha1="4204384cc2a97aab9f7e21176c3d452939b52037"/>
+	</game>
+	<game name="MainDEC-8E-D1EC-PB (1971-06-11)(Diagnostic Group)(US)[Memory Address Test]">
+		<description>MainDEC-8E-D1EC-PB (1971-06-11)(Diagnostic Group)(US)[Memory Address Test]</description>
+		<rom name="MainDEC-8E-D1EC-PB (1971-06-11)(Diagnostic Group)(US)[Memory Address Test].ptp" size="998" crc="9645c2d2" md5="52af6dcd3a8d103512fc9823d7b968ee" sha1="f9a7192fbbe1f1ea77ac1167b804a81dab76174e"/>
+	</game>
+	<game name="MainDEC-8E-D1FB-PB (1971-06-14)(Diagnostic Group)(US)[PDP-8E Extended Memory Address Test]">
+		<description>MainDEC-8E-D1FB-PB (1971-06-14)(Diagnostic Group)(US)[PDP-8E Extended Memory Address Test]</description>
+		<rom name="MainDEC-8E-D1FB-PB (1971-06-14)(Diagnostic Group)(US)[PDP-8E Extended Memory Address Test].ptp" size="3445" crc="8c03eb42" md5="7a149a1afc63f884abe1e2902074a47e" sha1="1429f23a2e506e97c33dc3e764a3450fc2c74ca3"/>
+	</game>
+	<game name="MainDEC-8E-D2CA-PB (1971-02-18)(Diagnostic Group)(US)[High Speed Reader-Punsh Tests]">
+		<description>MainDEC-8E-D2CA-PB (1971-02-18)(Diagnostic Group)(US)[High Speed Reader-Punsh Tests]</description>
+		<rom name="MainDEC-8E-D2CA-PB (1971-02-18)(Diagnostic Group)(US)[High Speed Reader-Punsh Tests].ptp" size="4160" crc="5543190a" md5="1ea057202d6ec1cc2d4ed68b2ca1c2a0" sha1="c9e27d421d89e2845a2e2d3c3f6f02345a16ba3f"/>
+	</game>
+	<game name="MainDEC-8I-D02B-PB (1968-03-21)(Diagnostic Group)(US)[Instruction Test 2]">
+		<description>MainDEC-8I-D02B-PB (1968-03-21)(Diagnostic Group)(US)[Instruction Test 2]</description>
+		<rom name="MainDEC-8I-D02B-PB (1968-03-21)(Diagnostic Group)(US)[Instruction Test 2].ptp" size="4280" crc="63b65bf6" md5="c1c6f4ac9c28ff859cf2ad24e1b08db3" sha1="6ae1aa2a1ac1cac3738efb546f39b7470829fb5c"/>
+	</game>
+	<game name="MainDEC-8I-DO1C-PB (1969-12-10)(Diagnostic Group)(US)[Instruction Test 1]">
+		<description>MainDEC-8I-DO1C-PB (1969-12-10)(Diagnostic Group)(US)[Instruction Test 1]</description>
+		<rom name="MainDEC-8I-DO1C-PB (1969-12-10)(Diagnostic Group)(US)[Instruction Test 1].ptp" size="5169" crc="f002b783" md5="aa1460fbfdf999dd9dcca0f0cf48d954" sha1="a3d1cb7acb4e87f4775fbe9dff45c824632ebc73"/>
+	</game>
+	<game name="MainDEC-8I-DO2B-PB (1968-03-21)(Diagnostic Group)(US)[Instruction Test 2]">
+		<description>MainDEC-8I-DO2B-PB (1968-03-21)(Diagnostic Group)(US)[Instruction Test 2]</description>
+		<rom name="MainDEC-8I-DO2B-PB (1968-03-21)(Diagnostic Group)(US)[Instruction Test 2].ptp" size="4282" crc="26c749f7" md5="14e37d0b068921dc77b408483fccc8b0" sha1="f29e75c8785608dfe0d5d952215f8455dfe09285"/>
+	</game>
+	<game name="MainDEC-8L-D0AB-PB (1971-05-06)(Diagnostic Group)(US)[PDP-8L Memory Protect Test]">
+		<description>MainDEC-8L-D0AB-PB (1971-05-06)(Diagnostic Group)(US)[PDP-8L Memory Protect Test]</description>
+		<rom name="MainDEC-8L-D0AB-PB (1971-05-06)(Diagnostic Group)(US)[PDP-8L Memory Protect Test].ptp" size="652" crc="46d9154c" md5="75999630d67b4209aa7cbe000d96ce15" sha1="65414919b4d0e8666ef4ca4b61f600e4799f1e96"/>
+	</game>
+</datafile>

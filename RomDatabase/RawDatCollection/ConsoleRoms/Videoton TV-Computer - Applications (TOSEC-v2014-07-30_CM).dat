@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Videoton TV-Computer - Applications</name>
+		<description>Videoton TV-Computer - Applications (TOSEC-v2014-07-30)</description>
+		<category>TOSEC</category>
+		<version>2014-07-30</version>
+		<author>Teoy - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Fordits (198x)(-)(hu)">
+		<description>Fordits (198x)(-)(hu)</description>
+		<rom name="Fordits (198x)(-)(hu).cas" size="2976" crc="5372f2dd" md5="02c0c5655f7e06335b0631a656fce68b" sha1="c5e2d18cfea16466a64b2f57e0d5e96024e213c2"/>
+	</game>
+	<game name="Fordits (198x)(-)(hu)[a2]">
+		<description>Fordits (198x)(-)(hu)[a2]</description>
+		<rom name="Fordits (198x)(-)(hu)[a2].cas" size="2960" crc="c1f68ba7" md5="d6e795343b865e3364f20fe05fe6bded" sha1="226d2490156539e6a90c54ae8d338a905a7ca205"/>
+	</game>
+	<game name="Fordits (198x)(-)(hu)[a]">
+		<description>Fordits (198x)(-)(hu)[a]</description>
+		<rom name="Fordits (198x)(-)(hu)[a].cas" size="2971" crc="c635ac5d" md5="2da5c630b04ac4607725dc4add2386b8" sha1="d0300dcf358d7c82e95b260bd82945e3880576f5"/>
+	</game>
+	<game name="IQ Teszt (198x)(-)(hu)">
+		<description>IQ Teszt (198x)(-)(hu)</description>
+		<rom name="IQ Teszt (198x)(-)(hu).cas" size="7710" crc="39803e6a" md5="8acdc075e80750aa957db14eb369a189" sha1="3d4e1b9b8df69b7c46e272ca6a9b055f77c02ac7"/>
+	</game>
+	<game name="Satirozas (1991)(DGT Software - Vindics)(hu)">
+		<description>Satirozas (1991)(DGT Software - Vindics)(hu)</description>
+		<rom name="Satirozas (1991)(DGT Software - Vindics)(hu).cas" size="14336" crc="bc0a679d" md5="15d4cd1f573a3881022c967edfbe1b04" sha1="0939d7b1244238e7af6dbf7c3b6b8371440419d1"/>
+	</game>
+	<game name="Satirozas (1991)(DGT Software - Vindics)(hu)[a]">
+		<description>Satirozas (1991)(DGT Software - Vindics)(hu)[a]</description>
+		<rom name="Satirozas (1991)(DGT Software - Vindics)(hu)[a].cas" size="14321" crc="5fd630a4" md5="fe918ffadb281e09fdbef315c76ba19c" sha1="c14719c65d8a71134df8d5662914481a7178d912"/>
+	</game>
+	<game name="Telex - 1500 szo magyarul (1988)(Novotrade)(hu)">
+		<description>Telex - 1500 szo magyarul (1988)(Novotrade)(hu)</description>
+		<rom name="Telex - 1500 szo magyarul (1988)(Novotrade)(hu).cas" size="17111" crc="2279dd3d" md5="74e101217f9bd87339c7ed495c3e3d9b" sha1="20add4d665ba7c76a5c2e568f3574ce6d4c04996"/>
+	</game>
+	<game name="Telex - 1500 szo magyarul (1988)(Novotrade)(hu)[a]">
+		<description>Telex - 1500 szo magyarul (1988)(Novotrade)(hu)[a]</description>
+		<rom name="Telex - 1500 szo magyarul (1988)(Novotrade)(hu)[a].cas" size="16437" crc="4afa1cc5" md5="b918650cbaf9389efe330412ee7198ed" sha1="fe747bd6d99e4a5a9e57d8bb4ab63fa758c965ea"/>
+	</game>
+</datafile>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega Mega Drive &amp; Genesis - Games - [Multipart]</name>
+		<description>Sega Mega Drive &amp; Genesis - Games - [Multipart] (TOSEC-v2019-09-01)</description>
+		<category>TOSEC</category>
+		<version>2019-09-01</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Psycho Pinball (1994-09)(Codemasters)(EU)(M5)(proto)">
+		<description>Psycho Pinball (1994-09)(Codemasters)(EU)(M5)(proto)</description>
+		<rom name="Psycho Pinball (1994-09)(Codemasters)(EU)(M5)(proto)[u1evn1].bin" size="524288" crc="495ca575" md5="7c6159ad16b03312befb5abbec793a11" sha1="08a60b9bb4b09aa646edb28d787058754ee899ef"/>
+		<rom name="Psycho Pinball (1994-09)(Codemasters)(EU)(M5)(proto)[u2evn1].bin" size="524288" crc="c025faf7" md5="32ff84d66454c73c58a76b10e954db50" sha1="b97b1edbfd94661bdfd32d27c21c65f8ff662a39"/>
+		<rom name="Psycho Pinball (1994-09)(Codemasters)(EU)(M5)(proto)[u3odd0].bin" size="524288" crc="5e4f5343" md5="64c7796e87d94746c5aca8efa4bd0339" sha1="45694929f8b854d60b5daaf128227af0d233f731"/>
+		<rom name="Psycho Pinball (1994-09)(Codemasters)(EU)(M5)(proto)[u3odd1].bin" size="524288" crc="aa1dedde" md5="c56d7cb21662af63b455e242e562cf25" sha1="c9e230e064b1c3a760c449c745ea483d97c00de1"/>
+	</game>
+</datafile>

@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>GCE Vectrex - Applications</name>
+		<description>GCE Vectrex - Applications (TOSEC-v2012-02-27)</description>
+		<category>TOSEC</category>
+		<version>2012-02-27</version>
+		<author>TKaos - BuckyB - borta - Grendel - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Animaction (1983)(GCE)[b][lightpen]">
+		<description>Animaction (1983)(GCE)[b][lightpen]</description>
+		<rom name="Animaction (1983)(GCE)[b][lightpen].bin" size="8254" crc="f958602c" md5="ed697efbecfc038bb7ba760d0c96071d" sha1="16589b7be4774bb26d53c04f4433a73ddf5b19e1"/>
+	</game>
+	<game name="Animaction (1983)(GCE)[lightpen]">
+		<description>Animaction (1983)(GCE)[lightpen]</description>
+		<rom name="Animaction (1983)(GCE)[lightpen].bin" size="8192" crc="9f62e167" md5="5e7a5dc59e32f2f63d85ae1f0201113a" sha1="71946be47debae89ad191ac382c2015d6a862072"/>
+	</game>
+	<game name="Art Master (1983)(GCE)[b][lightpen]">
+		<description>Art Master (1983)(GCE)[b][lightpen]</description>
+		<rom name="Art Master (1983)(GCE)[b][lightpen].bin" size="4136" crc="6a989118" md5="b594813775aa2870007ae0e3b418a8cf" sha1="2aa0b01c2594ba5b15bbc65feac55738967c3c2f"/>
+	</game>
+	<game name="Art Master (1983)(GCE)[lightpen]">
+		<description>Art Master (1983)(GCE)[lightpen]</description>
+		<rom name="Art Master (1983)(GCE)[lightpen].bin" size="4096" crc="c8e2f247" md5="972972f871916a922f20779deed8a708" sha1="8f35bac5e8e0fc4ad7291bbfe5ae6e693272de06"/>
+	</game>
+	<game name="Engine Analyzer (1983)(GCE)[lightpen]">
+		<description>Engine Analyzer (1983)(GCE)[lightpen]</description>
+		<rom name="Engine Analyzer (1983)(GCE)[lightpen].bin" size="4096" crc="fe9a501a" md5="896793a17a32932bcd64c52c77b00d55" sha1="c226d78301dbe40f2194c165f2124d5afa885be4"/>
+	</game>
+	<game name="Etch-a-Sketch (1985)(Woolsey, Jeff)(PD)[b][lightpen]">
+		<description>Etch-a-Sketch (1985)(Woolsey, Jeff)(PD)[b][lightpen]</description>
+		<rom name="Etch-a-Sketch (1985)(Woolsey, Jeff)(PD)[b][lightpen].bin" size="513" crc="997ca4b1" md5="f14891f89e0fe6aa4be6b1fb3694afa2" sha1="7c3325aa994d8336f7daec1780f7218345c1ee0c"/>
+	</game>
+	<game name="Etch-a-Sketch (1985)(Woolsey, Jeff)(PD)[lightpen]">
+		<description>Etch-a-Sketch (1985)(Woolsey, Jeff)(PD)[lightpen]</description>
+		<rom name="Etch-a-Sketch (1985)(Woolsey, Jeff)(PD)[lightpen].bin" size="512" crc="963062a6" md5="b716228fd8b3ebd44e81f5ac956d8e0d" sha1="53e038e736e8e5c78dcd908a9fa950c787a6db07"/>
+	</game>
+	<game name="Exec Rom Dumper (2000)(Habot, Ronen)(PD)">
+		<description>Exec Rom Dumper (2000)(Habot, Ronen)(PD)</description>
+		<rom name="Exec Rom Dumper (2000)(Habot, Ronen)(PD).bin" size="408" crc="81f72997" md5="25cab86484ae04ca9d3a5efa661a40e0" sha1="ab2c7e308eca62604e763f6254ba3d01c4966a97"/>
+	</game>
+	<game name="Joystick Test (2000)(Parssinen, Manu)(PD)">
+		<description>Joystick Test (2000)(Parssinen, Manu)(PD)</description>
+		<rom name="Joystick Test (2000)(Parssinen, Manu)(PD).bin" size="216" crc="4c54a3d5" md5="f7caa81033dd298c7ebf7dffe2d96205" sha1="4367a7fc3de661af325c0c5c7829ab8e9ed76e9a"/>
+	</game>
+	<game name="Melody Master (1983)(GCE)[b][lightpen]">
+		<description>Melody Master (1983)(GCE)[b][lightpen]</description>
+		<rom name="Melody Master (1983)(GCE)[b][lightpen].bin" size="8232" crc="7213c28c" md5="2d2db95120d8236d6aebb9f0785a928f" sha1="55a6d6a2c56996d16a7c39ca0878b33bc2fe4f03"/>
+	</game>
+	<game name="Melody Master (1983)(GCE)[lightpen]">
+		<description>Melody Master (1983)(GCE)[lightpen]</description>
+		<rom name="Melody Master (1983)(GCE)[lightpen].bin" size="8192" crc="afefa29c" md5="80e72d7e1bb06fd5d5a24c93f1b61f14" sha1="58aecc7fb1d26a22b09e9a13d845e4ed12e2449d"/>
+	</game>
+	<game name="Pythagorian Theorem (2003)(Mitchell, Rob)(PD)">
+		<description>Pythagorian Theorem (2003)(Mitchell, Rob)(PD)</description>
+		<rom name="Pythagorian Theorem (2003)(Mitchell, Rob)(PD).bin" size="4234" crc="044c2526" md5="2dddc520f125ff487e4c2919e5cae800" sha1="052d04ee81c9094c4677ae0562b9477dbda6f431"/>
+	</game>
+	<game name="Pythagorian Theorem (2003)(Mitchell, Rob)(PD)[a]">
+		<description>Pythagorian Theorem (2003)(Mitchell, Rob)(PD)[a]</description>
+		<rom name="Pythagorian Theorem (2003)(Mitchell, Rob)(PD)[a].bin" size="1987" crc="c0801749" md5="aa12d8183b6302b56f453ce00bf0ea37" sha1="fc20ab8e4c31ecb06e52f575102d246024ffca87"/>
+	</game>
+	<game name="Spectrum I+ (198x)(RA+A)(proto)">
+		<description>Spectrum I+ (198x)(RA+A)(proto)</description>
+		<rom name="Spectrum I+ (198x)(RA+A)(proto).bin" size="32768" crc="20af7f3f" md5="4bb04a738c216e98cc07ed28f6cd4db8" sha1="7ce85db8dd32687ad7629631ae113820371faf7c"/>
+	</game>
+	<game name="Test Cartridge rev. 4 (1982)(-)(PD)[b]">
+		<description>Test Cartridge rev. 4 (1982)(-)(PD)[b]</description>
+		<rom name="Test Cartridge rev. 4 (1982)(-)(PD)[b].bin" size="4104" crc="628cdb37" md5="17eeadafb49d2d36358ce19f0fa5707d" sha1="8d2617fc6bb31e037ecc67ad85178cc0932bfefe"/>
+	</game>
+	<game name="Test rev4 (1982)(GCE)(proto)">
+		<description>Test rev4 (1982)(GCE)(proto)</description>
+		<rom name="Test rev4 (1982)(GCE)(proto).bin" size="4096" crc="7297e815" md5="8d66945eb9826d91ce27e07b2f8854f9" sha1="e3418055f1e79a2300572c557e71bf2ce8badbfa"/>
+	</game>
+	<game name="Vectrex Bootstrap Loader (1985)(Woolsey, Jeff)(PD)">
+		<description>Vectrex Bootstrap Loader (1985)(Woolsey, Jeff)(PD)</description>
+		<rom name="Vectrex Bootstrap Loader (1985)(Woolsey, Jeff)(PD).bin" size="256" crc="01cd710b" md5="aca19a23aac100b15b90f22a3e6ae483" sha1="8cab85b0ae3e892150e692a01491163a30de943d"/>
+	</game>
+</datafile>

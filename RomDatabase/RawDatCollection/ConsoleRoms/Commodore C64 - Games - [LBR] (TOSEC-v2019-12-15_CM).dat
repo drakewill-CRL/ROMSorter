@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Games - [LBR]</name>
+		<description>Commodore C64 - Games - [LBR] (TOSEC-v2019-12-15)</description>
+		<category>TOSEC</category>
+		<version>2019-12-15</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Colossus Chess v4.0 (1985)(Bryant, Martin)[cr The Snail]">
+		<description>Colossus Chess v4.0 (1985)(Bryant, Martin)[cr The Snail]</description>
+		<rom name="Colossus Chess v4.0 (1985)(Bryant, Martin)[cr The Snail].lbr" size="44039" crc="85d1c8ee" md5="41cb418acfc7e08d7c517c23f3dd4e4f" sha1="a4b6be4e92173c214a55c9cab3636378e59756f7"/>
+	</game>
+	<game name="Othello (1991)(-)(GB)[Docs]">
+		<description>Othello (1991)(-)(GB)[Docs]</description>
+		<rom name="Othello (1991)(-)(GB)[Docs].lbr" size="6492" crc="2a74a32b" md5="60b335932fde7092710ca828fc54aadb" sha1="e8c6f4b65e654d38f7a26c3d05e59739586adcc4"/>
+	</game>
+	<game name="Sim City (1989)(Maxis)[cr NEC]">
+		<description>Sim City (1989)(Maxis)[cr NEC]</description>
+		<rom name="Sim City (1989)(Maxis)[cr NEC].lbr" size="83128" crc="e66ae3f8" md5="daa2e9051947fcdacd643688b471a28b" sha1="59245964b2d22f9bdfa03cd68152189901bfc3e5"/>
+	</game>
+</datafile>

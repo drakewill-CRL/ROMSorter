@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Music - [D81]</name>
+		<description>Commodore C64 - Music - [D81] (TOSEC-v2019-03-24)</description>
+		<category>TOSEC</category>
+		<version>2019-03-24</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Neotunes (2011-02-25)(TheRyk)">
+		<description>Neotunes (2011-02-25)(TheRyk)</description>
+		<rom name="Neotunes (2011-02-25)(TheRyk).d81" size="819200" crc="06fb2eb8" md5="07e092a0c94d971565c8d22a1d310e30" sha1="e26f07701c598d1e94fdb40f4e910afc70c7953c"/>
+	</game>
+	<game name="Neotunes (2011-02-25)(TheRyk)[NeoRAM version]">
+		<description>Neotunes (2011-02-25)(TheRyk)[NeoRAM version]</description>
+		<rom name="Neotunes (2011-02-25)(TheRyk)[NeoRAM version].d81" size="819200" crc="6374339b" md5="e593340480dfaab46873b0634a793168" sha1="03160156fdf375f3a3f1de55eadde7ff89bc2352"/>
+	</game>
+</datafile>

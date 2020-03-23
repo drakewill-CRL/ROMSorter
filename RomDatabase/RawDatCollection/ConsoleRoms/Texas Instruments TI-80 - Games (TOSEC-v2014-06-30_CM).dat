@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Texas Instruments TI-80 - Games</name>
+		<description>Texas Instruments TI-80 - Games (TOSEC-v2014-06-30)</description>
+		<category>TOSEC</category>
+		<version>2014-06-30</version>
+		<author>Diaboł</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="BlackJack (1998)(-)">
+		<description>BlackJack (1998)(-)</description>
+		<rom name="blakjack.80" size="870" crc="677fe311" md5="34907418aaa9e883277cdc8eafe12b5b" sha1="aa6aae7f48940cae1a2467984e4b1a8c4c7e6a0a"/>
+	</game>
+	<game name="Cannon v1.0 (2000)(Milligan, David)">
+		<description>Cannon v1.0 (2000)(Milligan, David)</description>
+		<rom name="Cannon.80" size="1669" crc="74a08eb6" md5="7bc9666e7c78333dbf72518970a8457b" sha1="a29111a1e433d1e4ef14adae3d4b75dd98defc11"/>
+	</game>
+	<game name="Car Race (2001)(Meunier, Alain)">
+		<description>Car Race (2001)(Meunier, Alain)</description>
+		<rom name="Car Race - readme.txt" size="1102" crc="5fe2ceda" md5="ed048cc7ea18d744e02978d5cf5b7e68" sha1="64ab107fa1a1260b65657380912e98daddebe355"/>
+		<rom name="Car Race.80" size="1859" crc="0c4948af" md5="dd02247d30da6fac1a39a938512a4750" sha1="782409b949ced4c2186cd3b6d2faf18791f3d238"/>
+	</game>
+	<game name="Craps v1.0 (2000)(Riekeberg, Steven)">
+		<description>Craps v1.0 (2000)(Riekeberg, Steven)</description>
+		<rom name="craps.txt" size="1259" crc="49ebbedd" md5="d2c102cbf756881353546fb5697f9524" sha1="9a4852aaa51f6f689a47f236dedcda7e7954b3ed"/>
+	</game>
+	<game name="Draw Pegs v1.0 (1998)(Bergman, Daniel)">
+		<description>Draw Pegs v1.0 (1998)(Bergman, Daniel)</description>
+		<rom name="peg.80" size="889" crc="a78de999" md5="cf986842cd1a31aebf27bcd9b25ce80c" sha1="fc41de14063d819c61196c080a4c26df1bdb6808"/>
+	</game>
+	<game name="Go-moku v1.2 (1999)(7software)">
+		<description>Go-moku v1.2 (1999)(7software)</description>
+		<rom name="gomoku v1.2.txt" size="1976" crc="b43ec9b7" md5="c9a0c29d112ca62c2d3b02e05a2862ee" sha1="ba8aacab6d0d12e77ee6b83c4d3fa6fc23cd5943"/>
+		<rom name="read this.txt" size="781" crc="68f366cb" md5="ef53dbbd5e00b18d8779e04e8487ef85" sha1="d8747db5d4c188b7c090bfc370ec744cfbfe79e1"/>
+	</game>
+	<game name="Guess the Coefficients (1998)(-)">
+		<description>Guess the Coefficients (1998)(-)</description>
+		<rom name="guessco.80" size="1021" crc="f5c017c2" md5="29cc14deb68a66ab99b5861e327bc671" sha1="4b003f7e0008fe613ee200d27d3109448c5a512f"/>
+	</game>
+	<game name="Guessing Game (1998)(-)">
+		<description>Guessing Game (1998)(-)</description>
+		<rom name="guess.80" size="260" crc="bb5db62d" md5="68c7e325b5481c7de7853eb1fd453d8e" sha1="f0b1173ecf96bc1a6429d34976bfb5bf65bfc85c"/>
+	</game>
+	<game name="Hangman (1998)(De Bruijn, Stefan)">
+		<description>Hangman (1998)(De Bruijn, Stefan)</description>
+		<rom name="hangman.80" size="2541" crc="350f946f" md5="a638aedfed25d3905426c97c034313e1" sha1="19ecb3d188c7f44962b75753772e999860f19176"/>
+	</game>
+	<game name="HaravaPlus - Minesweeper game (1999)(Vaaraniemi, Jarkko)">
+		<description>HaravaPlus - Minesweeper game (1999)(Vaaraniemi, Jarkko)</description>
+		<rom name="haraplus.80" size="1863" crc="f6e1819e" md5="447a5b4061692192014b912b47ad69fd" sha1="781ae1f82525207c7190ddcbcc0fe52c99033589"/>
+	</game>
+	<game name="Hit 2001 v1.0 (2001)(bob)">
+		<description>Hit 2001 v1.0 (2001)(bob)</description>
+		<rom name="hit2001.80" size="1743" crc="89354387" md5="ee84a6e2672893e57676dd3058b0311a" sha1="ca0d71172116a4861483ab17ef2b65bf87ffb5a8"/>
+	</game>
+	<game name="Hit v1.0 (1998)(Bergman, Daniel)">
+		<description>Hit v1.0 (1998)(Bergman, Daniel)</description>
+		<rom name="hit.80" size="854" crc="ae900620" md5="49bc468525997523d16f8cb723546ca2" sha1="ba8634bd47d1783bed0d9b021bac507b35c6edaf"/>
+	</game>
+	<game name="Kokemon (2001)(Wolf)">
+		<description>Kokemon (2001)(Wolf)</description>
+		<rom name="Kokemon.txt" size="11434" crc="f786137c" md5="1ba00571cf91b5b198d3b3b5088ad378" sha1="3a1018a4a03761de24d03c84ec85fef83f83734b"/>
+		<rom name="Readme.txt" size="1109" crc="ec3b0678" md5="883595c84df32590b04fb7a2eae3f93a" sha1="1ad9025c4ab0e479ed0ff05731880162c824eaf0"/>
+	</game>
+	<game name="Mage War Trilogy (2001)(Wolf)">
+		<description>Mage War Trilogy (2001)(Wolf)</description>
+		<rom name="MWMOE.txt" size="12449" crc="6177a0f9" md5="9f011bb7935cc35c952144b4c06b5c07" sha1="55d4b9f95ef606ed27e837e8fee2f1684a69e674"/>
+		<rom name="MWMOF.txt" size="13201" crc="b1a0efcf" md5="6efb94bc43a8e4403f2d9ca90e0f3e61" sha1="622cdcb8a1a387dd68f6610716e04510d9b243aa"/>
+		<rom name="MWMOI.txt" size="12946" crc="64c25682" md5="55895e8752401fd010e4dc6b009f66ea" sha1="1353515fbc21fac23558d96a0a91a6d44f2e912d"/>
+		<rom name="Readme.txt" size="516" crc="26110075" md5="7581f125110f0c3bc7ad00e3eb435846" sha1="6e676ba439309cc012e90dcd9814269232d22383"/>
+	</game>
+	<game name="Mega Man 80 (1998)(Jaklitsch, Dave)">
+		<description>Mega Man 80 (1998)(Jaklitsch, Dave)</description>
+		<rom name="mm80.80" size="9659" crc="9c9a1cdd" md5="e07e8279ecdc5a53e49176d528e479f2" sha1="03ba34d03b6caae4455f084e3513e80d2b7d281f"/>
+	</game>
+	<game name="Memory Game, A (2002)(Brodeur, Simon)(fr)">
+		<description>Memory Game, A (2002)(Brodeur, Simon)(fr)</description>
+		<rom name="SOUVIENT-TOI.80" size="29184" crc="83ffedf4" md5="d701de26ee2cffa575ab3b1912b6f7df" sha1="5ae0f0fc197a85716fffb9fe9dd69ef5e0b2a184"/>
+	</game>
+	<game name="Memory v1.0 (1998)(Bergman, Daniel)">
+		<description>Memory v1.0 (1998)(Bergman, Daniel)</description>
+		<rom name="memory.80" size="1238" crc="49537dcc" md5="c8c609fc0a1ac178ef05063a1ae45e60" sha1="e404887012483d9dc5f3d0990d5eb8bf0d1a51c3"/>
+	</game>
+	<game name="Minesweeper v1.0 (1999)(Drouin, David)">
+		<description>Minesweeper v1.0 (1999)(Drouin, David)</description>
+		<rom name="mine.80" size="1841" crc="7a10087d" md5="e155eb5a128b05e36e18e2f4ffaeb56f" sha1="faea38c66da0e2322433facb0666ffde4339ba64"/>
+		<rom name="readme.txt" size="907" crc="492dbf4a" md5="b8ec76797db402c8a9604cc9b5c2ebfc" sha1="2422eac5f5399da9263cbd83ec700cf069e3db2c"/>
+	</game>
+	<game name="Mini-Golf v1.1 (1999)(Drouin, David)">
+		<description>Mini-Golf v1.1 (1999)(Drouin, David)</description>
+		<rom name="golf.80" size="1288" crc="22de7fb9" md5="be6e319d5d69150dad2ee19823318c81" sha1="22bf7e5e066e1790ec25aba00b2622dfbc6f4252"/>
+		<rom name="readme.txt" size="1911" crc="bc4d3879" md5="e392f729a18cd1abb52986dba2beaae2" sha1="d089e20ae2d521b724a1ca2d05002110a40dd357"/>
+	</game>
+	<game name="Mixer v1.0 (1999)(Drouin, David)">
+		<description>Mixer v1.0 (1999)(Drouin, David)</description>
+		<rom name="mixer.80" size="1127" crc="e37596e0" md5="513b094360aebf8a17bcd2cef07c2473" sha1="6dc8cc8ccbd451f850513aac981531d908551a68"/>
+		<rom name="readme.txt" size="115" crc="43635f5d" md5="a692895854f4207ff277360689a00369" sha1="3387a3c1ee5c7f0490d709ac65e94efec48af65f"/>
+	</game>
+	<game name="Paper, Rock, Scissors (1998)(Heit, Chris)">
+		<description>Paper, Rock, Scissors (1998)(Heit, Chris)</description>
+		<rom name="prs.80" size="1139" crc="f7e9948d" md5="357a37a24b347adf478c3ce958eaa22f" sha1="0f46a6a37acd0add2717983cd0f54861f108ce84"/>
+	</game>
+	<game name="Penalty Mobral (2001)(Meunier, Alain)">
+		<description>Penalty Mobral (2001)(Meunier, Alain)</description>
+		<rom name="Penalty Mobral - readme.txt" size="1357" crc="e38c9fd7" md5="bab5d7bbbf258dd9ac41b0b393ab4535" sha1="6f83cf6c22619e01ef362b7e30de14e0682a8951"/>
+		<rom name="Penalty Mobral.80" size="4281" crc="094f2a3e" md5="42d8d75adcb55f1986ec4070cf4c12f3" sha1="b24a629146b1ad5eb2e80fce1a48bb9334e3689c"/>
+		<rom name="Penalty Mobral.jpg" size="26515" crc="1a02535b" md5="b07316628662fe030a43a54a67a9d852" sha1="aa07f1442538ad6bc43f8b85dc335697e36edcbd"/>
+	</game>
+	<game name="Rock, Paper, Scissors (1998)(Mindless Ape)">
+		<description>Rock, Paper, Scissors (1998)(Mindless Ape)</description>
+		<rom name="rps.80" size="1827" crc="a5da63e7" md5="2cf6e39de242f346aeb4182448f067f5" sha1="a409591054c76491b3e919cd7db9194926e3b544"/>
+	</game>
+	<game name="Roulette (1998)(de Bruijn, Stefan)">
+		<description>Roulette (1998)(de Bruijn, Stefan)</description>
+		<rom name="roulet.80" size="2350" crc="2123551b" md5="44dab6a11332c61d05c02d98b84db95b" sha1="0b2be7826f8079e3d4946d41ee638500c7eb84be"/>
+	</game>
+	<game name="Roulette (1998)(Pelletier, Manuel)">
+		<description>Roulette (1998)(Pelletier, Manuel)</description>
+		<rom name="roulette.80" size="2871" crc="4e4a56a2" md5="0a6555fff5c51a96ca0fb1c10bc2195e" sha1="6d033a61eab4d9cbe705374f3ff7052be395d115"/>
+	</game>
+	<game name="Slot Machine (2000)(Dion, Sacha)(fr)">
+		<description>Slot Machine (2000)(Dion, Sacha)(fr)</description>
+		<rom name="SLOT.doc" size="24576" crc="9cb4e3d2" md5="7a87fe3bb6728a71e9f9e97da94d672f" sha1="ce7ae80ecd3433adf31a4a49e8e8bee7e7ef3015"/>
+	</game>
+	<game name="Slot Machine v1.0 (1999)(Drouin, David)">
+		<description>Slot Machine v1.0 (1999)(Drouin, David)</description>
+		<rom name="readme.txt" size="122" crc="9faa11b4" md5="eea1b21b454cb04d31e03b2426ebdc24" sha1="c7a6fa102374aa6905e756304c019fd5f1eacf03"/>
+		<rom name="slot.80" size="1716" crc="62d44f59" md5="03d1df45f2966bfba3a22d669de7c150" sha1="8718486320b4bf33d89ea692e2b09899b2fc5def"/>
+	</game>
+	<game name="Space (2001)(Simillon, Jean-Baptiste)">
+		<description>Space (2001)(Simillon, Jean-Baptiste)</description>
+		<rom name="space.80" size="2211" crc="a7aec935" md5="a5ca53e529ff23dab96b4a2177994e86" sha1="cf492f3a4c73a036d193a31931558a0f85a57224"/>
+	</game>
+	<game name="Stock Exchange v1.0 (2001)(Meunier, Alain)">
+		<description>Stock Exchange v1.0 (2001)(Meunier, Alain)</description>
+		<rom name="Stock Exchange - readme.txt" size="2709" crc="4776a0e4" md5="57c14b97cc199cf4de204d8f131c072c" sha1="e86ee8da55386cf7299e93fb1976373fcf5fce64"/>
+		<rom name="Stock Exchange.80" size="7270" crc="eddd49cc" md5="2a59b9fd7a277e18b49a5cd7fb9cb63b" sha1="cdbacaa78fa54986c49614807261747ed845de74"/>
+		<rom name="Stock Exchange01.gif" size="31754" crc="92525e45" md5="0c28a0fd8829c1fd4c51d4ac6b2469ab" sha1="b7fcb8cafb7d5eb3ad5e1dc35e55a59c4e30cc4d"/>
+		<rom name="Stock Exchange02.gif" size="27198" crc="906b3165" md5="559f5a7ed5fd300f2995d5902e6b3fe6" sha1="d8f5d662f94f76677c89e1514760268ce561e397"/>
+		<rom name="Stock Exchange03.gif" size="30259" crc="ec0b0e73" md5="a9e6d078e74dc01b1be24e86ed27bd92" sha1="f6bf2c7d367d2393a065c9fdf5fb0e6990f67853"/>
+		<rom name="Stock Exchange04.gif" size="25544" crc="304449c2" md5="8f802163aeb1901c0664e5171cfbfbd6" sha1="810a3c2354f0396b0de112cccd5341c8c5483263"/>
+		<rom name="Stock Exchange05.gif" size="25694" crc="2d1a3672" md5="24641af42954779bd97d14535dc52bbe" sha1="64ff8dc4f14c806e1cf023d28c7551c5f796a4c3"/>
+	</game>
+	<game name="Stone, Scissor, and Bag v1.0 (1998)(Bergman, Daniel)">
+		<description>Stone, Scissor, and Bag v1.0 (1998)(Bergman, Daniel)</description>
+		<rom name="ssb.80" size="914" crc="2955d79f" md5="9e6b8151773afa6d326810f2186b4abe" sha1="dfa1b0f2d706b25d5004f269464a28d6c87712cf"/>
+	</game>
+	<game name="Three-in-a-Row v2.0 (1998)(Bergman, Daniel)">
+		<description>Three-in-a-Row v2.0 (1998)(Bergman, Daniel)</description>
+		<rom name="tir.80" size="2255" crc="4d26d16b" md5="2a2e62ae55fb2099efb94972e5adb292" sha1="8b2d1562332f2a7fa16cf82600bd23e4f29c4154"/>
+	</game>
+	<game name="Tic-Tac-Toe (1998)(de Bruijn, Stefan)">
+		<description>Tic-Tac-Toe (1998)(de Bruijn, Stefan)</description>
+		<rom name="tic.80" size="3697" crc="70c6f38a" md5="ce4b3fb3e3dde0d3ce0045bdd63fd9bf" sha1="887c8ac165dded5ac1141a4e45ecbb8ba9b78aa7"/>
+	</game>
+	<game name="V75 (1998)(-)">
+		<description>V75 (1998)(-)</description>
+		<rom name="v75.80" size="2439" crc="d0b001d6" md5="f76b892c480d5699ce62ce488743d20c" sha1="b60c451d00a489980c0c230348e2fc7c4c052cc3"/>
+	</game>
+	<game name="Wacky Fun Random Numbar Generator v1.00000069 (2002)(Disabato, Nick)">
+		<description>Wacky Fun Random Numbar Generator v1.00000069 (2002)(Disabato, Nick)</description>
+		<rom name="elite.txt" size="4923" crc="065131b3" md5="a90cc0fd2cc72cdef90728d224f61520" sha1="292202ad875fb46325392b3396e4cdc2d50eefd6"/>
+		<rom name="k31337.80" size="812" crc="c9829341" md5="085f455226803c0f9435ae70bf7751e2" sha1="24755ce00bda5afc65d492d3f77c358bb4bc44f9"/>
+	</game>
+</datafile>

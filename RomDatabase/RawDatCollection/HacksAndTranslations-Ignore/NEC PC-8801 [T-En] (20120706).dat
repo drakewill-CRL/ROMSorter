@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>NEC PC-8801 [T-En]</name>
+		<description>NEC PC-8801 [T-En]</description>
+		<category>English Translations</category>
+		<version>20120706</version>
+		<date>20120706</date>
+		<author>Powerpuff</author>
+		<email>-insert email-</email>
+		<homepage>Maybe-Intro</homepage>
+		<url>http://maybeintro.wordpress.com/</url>
+		<comment>Maybe-Intro</comment>
+		<clrmamepro/>
+	</header>
+	<game name="_NEC PC-8801 [T-En] Docs">
+		<description>_NEC PC-8801 [T-En] Docs</description>
+		<rom name="Black Onyx, The (Japan) [T-En by LordKarnov42 v1.0 RC1].txt" size="4047" crc="69a4e15b" md5="fc342582cab2e84a2fa0c432690eff63" sha1="0a22ab2f3e2c77c7306dbc8d7cea2631b76ade4b"/>
+		<rom name="Genesis - Beyond the Revelation (Japan) [T-En by Mike Curious v0.1] [i].txt" size="1138" crc="5f73dc67" md5="fce34758b5497c60349eaaab037a26c7" sha1="3e815c47680d2a4f14da8cbe136a0709c7689585"/>
+		<rom name="Seikochan SOS (Japan) [T-En by Tackechi v1.0].txt" size="797" crc="2c523563" md5="5b4891931050657a1a506129cd1dd75e" sha1="3aa2fd0ea1cc5612fde7c27f658b9adfe7bb1361"/>
+		<rom name="Super Jack (Japan) [T-En by JPN Translations v0.9.1].txt" size="3256" crc="7b228438" md5="bfec1e7acdb7b25d11b7b1688dbd4e65" sha1="2637d2ccd6dd26b941103361e47d8c136e8f59f4"/>
+	</game>
+	<game name="Black Onyx, The (Japan) [T-En by LordKarnov42 v1.0 RC1]">
+		<description>Black Onyx, The (Japan) [T-En by LordKarnov42 v1.0 RC1]</description>
+		<rom name="Black Onyx, The (Japan) (Character Disk) [T-En by LordKarnov42 v1.0 RC1].d88" size="348912" crc="940a252d" md5="2ccb1234d2debf879abb7f8a24a37476" sha1="1eb8a52b822fed9316597e0bf1badffab399a46a"/>
+		<rom name="Black Onyx, The (Japan) (Game Disk) [T-En by LordKarnov42 v1.0 RC1].d88" size="349600" crc="2b37833a" md5="907babb78b5bbbbebeef2b1b1f52212e" sha1="ab8c4f4d9774ca11b7df43de261190674558d29e"/>
+	</game>
+	<game name="Genesis - Beyond the Revelation (Japan) (Alt 1) [T-En by Mike Curious v0.1] [i]">
+		<description>Genesis - Beyond the Revelation (Japan) (Alt 1) [T-En by Mike Curious v0.1] [i]</description>
+		<rom name="Genesis - Beyond the Revelation (Japan) (Alt 1) [T-En by Mike Curious v0.1] [i].d88" size="348848" crc="b44654fb" md5="e31e33109700fe6b6adb2d32f62c1bdb" sha1="cd1fcc5fb4967f9cb7fe52e830c0e3aa0ea35ed8"/>
+	</game>
+	<game name="Genesis - Beyond the Revelation (Japan) [T-En by Mike Curious v0.1] [i]">
+		<description>Genesis - Beyond the Revelation (Japan) [T-En by Mike Curious v0.1] [i]</description>
+		<rom name="Genesis - Beyond the Revelation (Japan) [T-En by Mike Curious v0.1] [i].d88" size="348848" crc="ee7b7a47" md5="3cb80a87a6f236821f1c4fee0a6d83e8" sha1="39b51206462ca6422546a76e7f8dd1ad9e59a0ad"/>
+	</game>
+	<game name="Seikochan SOS (Japan) [T-En by Tackechi v1.0]">
+		<description>Seikochan SOS (Japan) [T-En by Tackechi v1.0]</description>
+		<rom name="Seikochan SOS (Japan) [T-En by Tackechi v1.0].d88" size="66240" crc="e9fa3a89" md5="a82a14a8edbf3bd647a174420ddbbb7a" sha1="5183ec103a6c3c83a732b5fd0e5089fe8dfdc28c"/>
+	</game>
+	<game name="Super Jack (Japan) [T-En by JPN Translations v0.9.1]">
+		<description>Super Jack (Japan) [T-En by JPN Translations v0.9.1]</description>
+		<rom name="Super Jack (Japan) [T-En by JPN Translations v0.9.1].d88" size="348848" crc="1c7c8310" md5="05f2a5bdc7ab885b5da760276154a6ce" sha1="92b45477e4c7a22dc4461b5b67edc2a69b875b93"/>
+	</game>
+</datafile>

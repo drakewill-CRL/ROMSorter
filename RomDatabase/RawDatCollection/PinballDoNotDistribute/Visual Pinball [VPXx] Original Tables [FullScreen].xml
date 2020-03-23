@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Visual Pinball [VPXx] Original Tables [FullScreen]</name>
+		<description>Visual Pinball [VPXx] Original Tables [FullScreen]</description>
+		<category>Visual Pinball [VPXx] Original Tables [FullScreen]</category>
+		<version>1.0</version>
+		<date>2020-01-01</date>
+		<author>Yori Yoshizuki</author>
+		<email>-insert email-</email>
+		<homepage>Yori Yoshizuki</homepage>
+		<url>https://yoshizuki.webs.com</url>
+		<comment>-insert comment-</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Golden Birds (BorgDog)(1.0)[VPX][FullScreen + dB2S BorgDog]">
+		<description>Golden Birds (BorgDog)(1.0)[VPX][FullScreen + dB2S BorgDog]</description>
+		<rom name="Golden Birds (BorgDog)(1.0)[VPX][FullScreen + dB2S BorgDog]\Golden Birds screenshot.png" size="1119548" crc="448a6178" sha1="b5f4e38b691317f2687780e0d395bf2f035f80b8"/>
+		<rom name="Golden Birds (BorgDog)(1.0)[VPX][FullScreen + dB2S BorgDog]\Golden Birds.directb2s" size="3072451" crc="05de32f4" sha1="a4a0ca20d99b36e2fcb7bd72252290e86409aa31"/>
+		<rom name="Golden Birds (BorgDog)(1.0)[VPX][FullScreen + dB2S BorgDog]\Golden Birds.png" size="89498" crc="b6803bca" sha1="db748a747804f06772ed036c4698f9388d2eb460"/>
+		<rom name="Golden Birds (BorgDog)(1.0)[VPX][FullScreen + dB2S BorgDog]\Golden Birds.vpx" size="21520384" crc="60736889" sha1="123d449b595a239e60403a6c6840459075d573f7"/>
+	</machine>
+	<machine name="Goldorak (rom, Javier)(1.0)[VPX04][FullScreen]">
+		<description>Goldorak (rom, Javier)(1.0)[VPX04][FullScreen]</description>
+		<rom name="Goldorak (rom, Javier)(1.0)[VPX04][FullScreen]\Goldorak screenshot.png" size="2123139" crc="519dff15" sha1="fb0cc7c8870b06b2d5e1eb4aec6767a6087fd9ff"/>
+		<rom name="Goldorak (rom, Javier)(1.0)[VPX04][FullScreen]\Goldorak.UltraDMD\BallRelease.gif" size="19766" crc="d5a758d7" sha1="6a90b20ecb3c372a0c2f4e1c6bbd3799e4ffa947"/>
+		<rom name="Goldorak (rom, Javier)(1.0)[VPX04][FullScreen]\Goldorak.UltraDMD\black.jpg" size="566" crc="cb190c86" sha1="d2ebf689bc1b0f33ed4286e6420963563c91ef9b"/>
+		<rom name="Goldorak (rom, Javier)(1.0)[VPX04][FullScreen]\Goldorak.UltraDMD\Bomba.gif" size="34860" crc="e7bc2d8f" sha1="35e8729404639d0c9d5c3517a00feb62f96becec"/>
+		<rom name="Goldorak (rom, Javier)(1.0)[VPX04][FullScreen]\Goldorak.UltraDMD\Bumper1.jpg" size="1840" crc="bf224c67" sha1="8a3f03d2360fc91e1f227e8f749f35b704995dbb"/>
+		<rom name="Goldorak (rom, Javier)(1.0)[VPX04][FullScreen]\Goldorak.UltraDMD\Bumper2.jpg" size="1626" crc="930094e4" sha1="4e5f0c9e2abdcef2cc697921f706b6c39b27373b"/>
+		<rom name="Goldorak (rom, Javier)(1.0)[VPX04][FullScreen]\Goldorak.UltraDMD\Bumper3.jpg" size="1912" crc="ad9d2392" sha1="190f05e20025170225907479d0e9fb63fbe67d6d"/>
+		<rom name="Goldorak (rom, Javier)(1.0)[VPX04][FullScreen]\Goldorak.UltraDMD\DMD meta.gif" size="64343" crc="442e62e8" sha1="16f376b0cef1c1a2d281d7eacba3b5c5a83ee93b"/>
+		<rom name="Goldorak (rom, Javier)(1.0)[VPX04][FullScreen]\Goldorak.UltraDMD\DMD.jpg" size="1816" crc="5479633b" sha1="54393d29694423bf3cec570337ed9048ad8ba097"/>
+		<rom name="Goldorak (rom, Javier)(1.0)[VPX04][FullScreen]\Goldorak.UltraDMD\DMDJackpot.gif" size="46716" crc="29c2cfe4" sha1="2fdd717cb1093ada8e8dc8ac4210b3c673ba0249"/>
+		<rom name="Goldorak (rom, Javier)(1.0)[VPX04][FullScreen]\Goldorak.UltraDMD\DMDJackpotG.gif" size="134886" crc="3193d1da" sha1="081e91de7bfb5f76b1c101b8b162605585c4a14d"/>
+		<rom name="Goldorak (rom, Javier)(1.0)[VPX04][FullScreen]\Goldorak.UltraDMD\DMDJackpotM.gif" size="76620" crc="04aa2b2e" sha1="4e9d141faf668985f7213bbb7780eb0dd9dcf4b1"/>
+		<rom name="Goldorak (rom, Javier)(1.0)[VPX04][FullScreen]\Goldorak.UltraDMD\Enter.png" size="1074" crc="dd25590e" sha1="65139aee962da4412f9b89a29a725bbefee1f113"/>
+		<rom name="Goldorak (rom, Javier)(1.0)[VPX04][FullScreen]\Goldorak.UltraDMD\girugiru.gif" size="48223" crc="2dc37ede" sha1="45bfc873fc09f8be9fe0c69551aed4053cdcf213"/>
+		<rom name="Goldorak (rom, Javier)(1.0)[VPX04][FullScreen]\Goldorak.UltraDMD\grendizerrayoespacial.wmv" size="202522" crc="032884cf" sha1="948e719942f1703fba494707e595842e6319df4b"/>
+		<rom name="Goldorak (rom, Javier)(1.0)[VPX04][FullScreen]\Goldorak.UltraDMD\HighScores.gif" size="77497" crc="0da3f872" sha1="441199439bffb5b6142f43c376a4fafe1817b58f"/>
+		<rom name="Goldorak (rom, Javier)(1.0)[VPX04][FullScreen]\Goldorak.UltraDMD\IntroCompleta2.wmv" size="2082736" crc="462a8de2" sha1="cdad9388686022e7cb6b0f0f87fb5c976fc1b129"/>
+		<rom name="Goldorak (rom, Javier)(1.0)[VPX04][FullScreen]\Goldorak.UltraDMD\IntroCompleta3.wmv" size="2432044" crc="d10f9228" sha1="49762d2c4fa358a6cec697c652f455376b9ac27e"/>
+		<rom name="Goldorak (rom, Javier)(1.0)[VPX04][FullScreen]\Goldorak.UltraDMD\PlungerLane.gif" size="322280" crc="148d03d5" sha1="933c76406f0c00b86b487829560e7f674f91f5a1"/>
+		<rom name="Goldorak (rom, Javier)(1.0)[VPX04][FullScreen]\Goldorak.UltraDMD\Transform.gif" size="31825" crc="02bcd61f" sha1="7b537c3bec3e3b4e961e3b268ff9178a928fa3eb"/>
+		<rom name="Goldorak (rom, Javier)(1.0)[VPX04][FullScreen]\Goldorak_1.00.vpx" size="100323328" crc="e4c0eed2" sha1="2028cdb703068029ee7d9543e44873c0244da8c4"/>
+	</machine>
+	<machine name="Master of the Universe (randr)(Beta 0.9a)[VPX05][FS+DOF TerryRed][FSS Thalamus][FP Conversion]">
+		<description>Master of the Universe (randr)(Beta 0.9a)[VPX05][FS+DOF TerryRed][FSS Thalamus][FP Conversion]</description>
+		<rom name="Masters of the Universe (VPX) - PuP-Pack - Royal Boob Edition.txt" size="7009" crc="df0e48ba" sha1="e34067983d721a3785b62a81a73b92da965dc169"/>
+		<rom name="Masters of the Universe beta 0_9.vpx" size="158687232" crc="6fd9f591" sha1="2b5ba70889c06d3337fbc752c11ebe97f7c0c35c"/>
+		<rom name="Masters of the Universe beta 0_9a.vpx" size="158801920" crc="8e76fcf9" sha1="d07f5c236b2220221103d4ecfd2652578dd2ca3a"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\Attract_Mode\Intro.mp4" size="15859142" crc="11fac16b" sha1="fc373e220fb12ac253ef1bde8b60902fe1f2e3e9"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\Background - BG - Alternates\Backdrop - Alt 2 logo.mp4" size="603477" crc="ee1b1959" sha1="9834c0536c66f628fa3bd49300fa61051469bef5"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\Background - BG - Alternates\Backdrop - Alt 2.mp4" size="413736" crc="30694571" sha1="41ada89980fc48f4e85bef5df78c34619ef67c88"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\Background - BG - Alternates\Backdrop - Alt 3 logo.mp4" size="713512" crc="ead43dc7" sha1="105b8e2b4d88c13124f375d48acf3652280f54a1"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\Background - BG - Alternates\Backdrop - Alt 3.mp4" size="540051" crc="c0de1f2c" sha1="3784bdecb0d9b94f7bd19ffb05fdcd397761245f"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\Background - BG - Alternates\Backdrop - Alt 4 logo.mp4" size="622783" crc="2c5de337" sha1="e6f84609382f83c8dc3b844f40f5a59d4a7ff36a"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\Background - BG - Alternates\Backdrop - Alt 4.mp4" size="392144" crc="10745d98" sha1="4ffac4c3462f98d6817661b03cf59870b89ac7c7"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\Background - BG - Alternates\Backdrop - Alt 5 logo.mp4" size="628139" crc="195c2d1f" sha1="149d628227fffc31ae067f480f7a17f2bff40e6d"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\Background - BG - Alternates\Backdrop - Alt 5.mp4" size="431825" crc="fbd74e50" sha1="4cb05ae5df18a1c4e7298ee8db8970f1838e6018"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\Background - BG - Alternates\Backdrop - Default.mp4" size="518174" crc="3e0bf7b7" sha1="e776a3e4547f04a849935e92a7ff98a605555726"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\Background - BG - Alternates\Backdrop - Default_Logo.mp4" size="769465" crc="edb27f7e" sha1="254d9d5bc93b94921f8ea1f80acb8ad56b2253f5"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\Background - BG - Alternates\Castle Sky Glow.png" size="8311852" crc="3d7e6d09" sha1="737749cac3f794bc271b9f8ae1c5a5fb01764b52"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\Background - BG - Alternates\CastleMouth Shadows.png" size="3571041" crc="7a7f3b48" sha1="791cef6d796076d3753ea279163a179ae4c5837a"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\Background - BG - Alternates\Grayskull Overlay.png" size="8316154" crc="724fdeb7" sha1="4c2be0b8e29d27184f03c4122e5f7e1a36cfcccf"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\Background - BG - Alternates\motu_logo.png" size="705394" crc="19f1950a" sha1="98cf7bc72da36fad43d0a4aedf3c59f93cccb516"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\Background - BG - Alternates\space_11.jpg" size="151018" crc="b911ec43" sha1="75010387721fb84744c31845e5cddf89eb2ed980"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\Background - BG\Backdrop - Default.mp4" size="518174" crc="3e0bf7b7" sha1="e776a3e4547f04a849935e92a7ff98a605555726"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\Background - Underlay\CastleMB Underlay.mp4" size="6926544" crc="9f0c1bf0" sha1="de07448c522575b975c4dfb31eb83172e46705f5"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\Background - Underlay\He-Man MB Underlay.mp4" size="33170728" crc="dc4721f9" sha1="88e61a7f0b6c4a0ee57356aa81291fb552e2c965"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\Background - Underlay\Ripper MB Underlay.mp4" size="33909931" crc="6cfa1bd2" sha1="71a7ccd3903f975cdabb1193ae071a9112b9076d"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\Background - Underlay\Skeletor MB Underlay.mp4" size="21894191" crc="298707cc" sha1="b83dee7680d9fa1ae3737c85cc908476dcbb72f8"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\Background - Underlay\Underlay_Default.mp4" size="298903" crc="dab4ca10" sha1="f0ad9503ae71d7b3a5138bb680bbb61a6fd0dc8a"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\Ball_Saved\Ball Saved.mp4" size="468481" crc="3b6d19aa" sha1="ff29a437e71c9231ccee106cd724e1560d3e433c"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\CastleGrayskull_Lit\Grayskull is Lit.mp4" size="332664" crc="8c3bd4be" sha1="a7cd78780e671d94ef5a1274331e6c97d6d52f69"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\CastleGrayskull\CastleOpen.mp4" size="558618" crc="cf20aeea" sha1="07a399a39b3fb5d142127c9afa267c0945c1a7b6"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\CastleMB\CastleMB.mp4" size="1179839" crc="9fc856f9" sha1="75c226f08cb59e2858571ba2f17ab231886f3642"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\Extra_Ball\ExtraBall.mp4" size="493716" crc="31ddb278" sha1="93907ba0803f93fbdee3435d45f8d1942d736010"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\Eyes\Eyes - Drain.mp4" size="80262" crc="c20ae109" sha1="0559d8246da2e341a726c5785672f888511d4f2d"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\Eyes\Eyes - TILT Warning.mp4" size="80262" crc="c20ae109" sha1="0559d8246da2e341a726c5785672f888511d4f2d"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\Eyes\Eyes - TILT.mp4" size="80262" crc="c20ae109" sha1="0559d8246da2e341a726c5785672f888511d4f2d"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\Eyes\Eyes Black.mp4" size="31822" crc="8fe4c23e" sha1="9518a47ea47522e218d96ca0a16d04adff93fa1f"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\Eyes\Eyes Blue.mp4" size="82298" crc="0d3c80de" sha1="a6c58f3a507b201b164f17960fe09751da756624"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\Eyes\Eyes Colours 2.mp4" size="28734" crc="ccde2bde" sha1="5a86e67a3a0a2cf0314415bd4fc87d9957bc9a85"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\Eyes\Eyes Colours.mp4" size="38908" crc="df3c1fa8" sha1="8b035320941e2f025267cffbca95e04d643c63f3"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\Eyes\Eyes Green old.mp4" size="84237" crc="c2477652" sha1="494a8ce700bbea2fdb7b996b9a69ef8ae25beca5"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\Eyes\Eyes Green.mp4" size="81486" crc="3d33d3bd" sha1="a9fe83b50fbc86a91a1e0b33b9185e6a04b57948"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\Eyes\Eyes Purple.mp4" size="82684" crc="316d339c" sha1="b54c40ddffeda7c1cb9c5399331e11df3660d0eb"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\Eyes\Eyes Red.mp4" size="80262" crc="c20ae109" sha1="0559d8246da2e341a726c5785672f888511d4f2d"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\Eyes\Eyes Warning.mp4" size="38476" crc="3c2539fb" sha1="7f2dd3175bac4b38037619d368cd75a6ba5c6c0f"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\Eyes\Eyes Yellow.mp4" size="80257" crc="f48afb5e" sha1="6b7fffa97c6476afe5949bb0e65cc6fc28a577d4"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\Game_Over\Skeletor Getout.mp4" size="475368" crc="e1ccae2f" sha1="204a959f43c3c3d3c004a5ccaa5a806eaed67ee2"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\HeMan_Ball_Locked\Evil Lynn.mp4" size="456674" crc="64cc22da" sha1="2b426f18f3aefeaa1e573619329bb9fe7772f9ff"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\HeMan_Ball_Locked\HeManCell.mp4" size="770963" crc="1750667e" sha1="04977f21ac0056c17e22f617c447880a88944472"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\HeMan_Ball_Locked\Skeletor_Hollow.mp4" size="371429" crc="6f6dd11f" sha1="c060abb2183b73fa79bf155b6bbfef9d7e4c119b"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\HeMan_Ball_Locked\Skeletor_Palace.mp4" size="442585" crc="eb836cc3" sha1="7b85e02714f028528b62fa543172f9e720277356"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\HeMan_Ball_Locked\Skeletor_Well_Well.mp4" size="605433" crc="b17de893" sha1="44c46c8ca0a6e929f02b5152a24e044f0842f856"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\HeMan_Ball_Locked\Snake_Mountain.mp4" size="409336" crc="2ede5924" sha1="5da2034ea240a952df7ce3290ebe58c4cb3b00c6"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\HeMan_Kicker\HeMan_AttackBall.mp4" size="448941" crc="fb4dd975" sha1="7ece957fe22fef1d3e14cd5928eab36d94120740"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\HeMan_Lit\Skeletor_StopHim.mp4" size="259066" crc="52efcb6c" sha1="7cb084eee59a69505fffdb5d0afab18f53282bc7"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\HeMan_MB\HeMan_MB.mp4" size="256755" crc="e9509803" sha1="c69f996a70d035fd7dabcf77a8f3f0b89329abb4"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\HeMan_POG\POG.mp4" size="5612274" crc="38c5286e" sha1="37b6adb4ebc3d76c6bbb27f073dc9085b00ed8a5"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\Jackpots_All_Modes\01_Jackpot.mp4" size="496737" crc="57d5b7e4" sha1="a39c8bac7a63cfa665af295ee0c57e7a2fab70f0"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\Jackpots_All_Modes\02_Jackpot.mp4" size="731508" crc="83232286" sha1="ea42424850f3b0bbdfb2c2ba4ec8c3dd414bc2c5"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\Jackpots_All_Modes\03_Jackpot.mp4" size="1099757" crc="1b9161e6" sha1="bbe918443d1bdece9f89ac26a073b5868734cc6f"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\Jackpots_All_Modes\04_Jackpot.mp4" size="311355" crc="cd4bbffc" sha1="acc66da64e3aea1ebf293c1e41cad4937386db33"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\Jackpots_All_Modes\05_Jackpot.mp4" size="349658" crc="b459a3ea" sha1="5ad2d178990b0a0109b3da41a277a6027440857b"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\Jackpots_All_Modes\06_Jackpot.mp4" size="340051" crc="01ede869" sha1="aa04003451232e91aece7671ea52af421d436849"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\Jackpots_All_Modes\07_Jackpot.mp4" size="170734" crc="01510443" sha1="5032866437a942584cca1e51ad78928b9cc44196"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\Jackpots_All_Modes\08_Jackpot.mp4" size="185822" crc="7f626bb9" sha1="871e18d01cb764e5275772e491cc6623e6154437"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\Jackpots_All_Modes\09_Jackpot.mp4" size="253746" crc="717755aa" sha1="15cd6891b195dc2a0604a3a4a88a59386a76829c"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\Jackpots_All_Modes\10_Jackpot.mp4" size="310770" crc="b9127c4f" sha1="6e43dc802f04e2cd4ecd82444482d8457fdadccd"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\Lightning - Left - Underlay\01_Lightning_Left.mp4" size="109584" crc="6b18fe1f" sha1="5911ec12449af6d7364596fc63582a48cbb04cba"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\Lightning - Left - Underlay\02_Lightning_Left.mp4" size="98999" crc="e2addbf2" sha1="bd82f522bf72fb0c50085b6dc12ba5154c822c0d"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\Lightning - Left - Underlay\03_Lightning_Left.mp4" size="80450" crc="95701f2d" sha1="b32ac86d3ae9680d1c7a32bd0d913534ff1ed921"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\Lightning - Left - Underlay\04_Lightning_Left.mp4" size="100639" crc="febc4958" sha1="62675854f29e2fd7ffe99a1bd03b2c1bafa4babc"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\Lightning - Right - Underlay\01_Lightning_Right.mp4" size="93646" crc="efdd27c4" sha1="379ee0fed3a45af11897d1df15d1ba7f1aee0685"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\Lightning - Right - Underlay\02_Lightning_Right.mp4" size="81372" crc="11bcf378" sha1="03efc6abdc62117f1af4f4f0f8974ea665504835"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\Lightning - Right - Underlay\03_Lightning_Right.mp4" size="82574" crc="32206798" sha1="2714efaf7f190983887708b1fea02edb1242698e"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\Lightning - Right - Underlay\04_Lightning_Right.mp4" size="111707" crc="df6898ba" sha1="36cd459e51cafa66755c43793af5b86a062c6cd0"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\MB_End\Spinning_Sword.mp4" size="553939" crc="a872fdb8" sha1="97dc99c0ed75ff13427ac672bb22cef685044a4a"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\New_Ball\spinning logo.mp4" size="257928" crc="6e727878" sha1="551c5bee9b46ade45343385690cd050c24567a28"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\NoPay_NoPlay\Skeletor_Boob.mp4" size="223115" crc="4fb67c93" sha1="8abb4c15581c5c9035776dfe616836918c8e0ade"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\playlists.pup" size="1095" crc="68519a58" sha1="ce68d4b70095a3cffb2b9580bb599d8308aa8461"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\PuPOverlays\Grayskull Overlay.png" size="8316154" crc="724fdeb7" sha1="4c2be0b8e29d27184f03c4122e5f7e1a36cfcccf"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\RoadRipper_MB\RipperMB.mp4" size="331798" crc="a2bc1ac2" sha1="4008827db0b79f7cba9bb4397e94630af7917019"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\RoadRipper_MB\RipperMB_Start.mp4" size="503538" crc="ebbbf56b" sha1="52a5f69977936975a90b52ebfa74403106798cdc"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\RoadRipper\Ripper.mp4" size="677312" crc="d309bc8e" sha1="847e617223bba803ee6b879fb39012caa08d0405"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\screens.pup" size="320" crc="4a88306c" sha1="977ce8aad6304b990a03bcd5899d2ce4bdc09317"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\Skeletor_Ball_Locked\Skeletor_StunRay.mp4" size="541302" crc="96971aa9" sha1="d76da3b52af847a2e3c33e9223bd756992ec9b53"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\Skeletor_Hit\Skeletor Frightened.mp4" size="327691" crc="ca41325e" sha1="be8159d246a681686b538be5542512d90cf4897c"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\Skeletor_Hit\Skeletor_BackUp.mp4" size="238779" crc="9d0e695c" sha1="f24f1a1d12a2c1b4392a85ff2fcbfbbd821418c7"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\Skeletor_Hit\Skeletor_Laugh.mp4" size="261123" crc="181ea297" sha1="c34cfac409c2d0ca2a75b63c3f78f60a9c52d781"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\Skeletor_Hit\Skeletor_Patience.mp4" size="419385" crc="1719a637" sha1="9d1e4e831ef32fdf44f91e1b162fbb1f49d71578"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\SkeletorMB\Skeletor_MB.mp4" size="1436732" crc="ac4c0699" sha1="30ee007a8896f2e9ad9abc4642e8d2612ef57a88"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\SkeletorMB\Skeletor_MB_Start.mp4" size="766303" crc="adb6d44a" sha1="354761f9ff5c3f5fa30831b3a02c2557e954a090"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\Sorceress\Sorceress_Fly.mp4" size="277683" crc="81d8aee6" sha1="53982710027c1fbba68c0c3cdede44669dd2a8d0"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\Sorceress\Sorceress_Hover.mp4" size="252550" crc="45d27cb0" sha1="f5b7c24b7556774fe4d96583ee95b298d5570722"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\Sorceress\Sorceress_Swoop.mp4" size="300148" crc="148d3cad" sha1="c9ec92c395014384bbb4e9e76fc7a05c28132129"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\TILT\TILT.mp4" size="1452972" crc="2cf647e5" sha1="96150fa002e873c79c4817568a2bc305ab7cd020"/>
+		<rom name="MOTU - PuP-Pack (1.1) - No Text on BG\motu\triggers.pup" size="6823" crc="6f8a0699" sha1="96e959a8424939a72601a7fe458e66f99a974b83"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\Attract_Mode\Intro.mp4" size="15859142" crc="11fac16b" sha1="fc373e220fb12ac253ef1bde8b60902fe1f2e3e9"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\Background - BG - Alternates\Backdrop - Alt 2 logo.mp4" size="603477" crc="ee1b1959" sha1="9834c0536c66f628fa3bd49300fa61051469bef5"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\Background - BG - Alternates\Backdrop - Alt 2.mp4" size="413736" crc="30694571" sha1="41ada89980fc48f4e85bef5df78c34619ef67c88"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\Background - BG - Alternates\Backdrop - Alt 3 logo.mp4" size="713512" crc="ead43dc7" sha1="105b8e2b4d88c13124f375d48acf3652280f54a1"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\Background - BG - Alternates\Backdrop - Alt 3.mp4" size="540051" crc="c0de1f2c" sha1="3784bdecb0d9b94f7bd19ffb05fdcd397761245f"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\Background - BG - Alternates\Backdrop - Alt 4 logo.mp4" size="622783" crc="2c5de337" sha1="e6f84609382f83c8dc3b844f40f5a59d4a7ff36a"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\Background - BG - Alternates\Backdrop - Alt 4.mp4" size="392144" crc="10745d98" sha1="4ffac4c3462f98d6817661b03cf59870b89ac7c7"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\Background - BG - Alternates\Backdrop - Alt 5 logo.mp4" size="628139" crc="195c2d1f" sha1="149d628227fffc31ae067f480f7a17f2bff40e6d"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\Background - BG - Alternates\Backdrop - Alt 5.mp4" size="431825" crc="fbd74e50" sha1="4cb05ae5df18a1c4e7298ee8db8970f1838e6018"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\Background - BG - Alternates\Backdrop - Default.mp4" size="518174" crc="3e0bf7b7" sha1="e776a3e4547f04a849935e92a7ff98a605555726"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\Background - BG - Alternates\Backdrop - Default_Logo.mp4" size="769465" crc="edb27f7e" sha1="254d9d5bc93b94921f8ea1f80acb8ad56b2253f5"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\Background - BG - Alternates\Castle Sky Glow.png" size="8311852" crc="3d7e6d09" sha1="737749cac3f794bc271b9f8ae1c5a5fb01764b52"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\Background - BG - Alternates\CastleMouth Shadows.png" size="3571041" crc="7a7f3b48" sha1="791cef6d796076d3753ea279163a179ae4c5837a"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\Background - BG - Alternates\Grayskull Overlay.png" size="8316154" crc="724fdeb7" sha1="4c2be0b8e29d27184f03c4122e5f7e1a36cfcccf"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\Background - BG - Alternates\motu_logo.png" size="705394" crc="19f1950a" sha1="98cf7bc72da36fad43d0a4aedf3c59f93cccb516"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\Background - BG - Alternates\space_11.jpg" size="151018" crc="b911ec43" sha1="75010387721fb84744c31845e5cddf89eb2ed980"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\Background - BG\Backdrop - Default_Logo.mp4" size="769465" crc="edb27f7e" sha1="254d9d5bc93b94921f8ea1f80acb8ad56b2253f5"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\Background - Underlay\CastleMB Underlay.mp4" size="6926544" crc="9f0c1bf0" sha1="de07448c522575b975c4dfb31eb83172e46705f5"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\Background - Underlay\He-Man MB Underlay.mp4" size="33170728" crc="dc4721f9" sha1="88e61a7f0b6c4a0ee57356aa81291fb552e2c965"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\Background - Underlay\Ripper MB Underlay.mp4" size="33909931" crc="6cfa1bd2" sha1="71a7ccd3903f975cdabb1193ae071a9112b9076d"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\Background - Underlay\Skeletor MB Underlay.mp4" size="21894191" crc="298707cc" sha1="b83dee7680d9fa1ae3737c85cc908476dcbb72f8"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\Background - Underlay\Underlay_Default.mp4" size="298903" crc="dab4ca10" sha1="f0ad9503ae71d7b3a5138bb680bbb61a6fd0dc8a"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\Ball_Saved\Ball Saved.mp4" size="445639" crc="faaa4cef" sha1="9cf809a71bb2e5655588cbfbb5fb48b3fe0d8092"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\CastleGrayskull_Lit\Grayskull is Lit.mp4" size="316955" crc="b3e43441" sha1="a6ca48bb759495fdfe3c50047d3fbe328fc29a48"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\CastleGrayskull\CastleOpen.mp4" size="558618" crc="cf20aeea" sha1="07a399a39b3fb5d142127c9afa267c0945c1a7b6"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\CastleMB\CastleMB.mp4" size="1423463" crc="9121a266" sha1="2a134a8a7519a7023cf24c339d75767f8887b36f"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\Extra_Ball\ExtraBall.mp4" size="468081" crc="f3c6a9b0" sha1="cb193901445e5bf2b676b9028135f3b10a35c5b4"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\Eyes\Eyes - Drain.mp4" size="80262" crc="c20ae109" sha1="0559d8246da2e341a726c5785672f888511d4f2d"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\Eyes\Eyes - TILT Warning.mp4" size="80262" crc="c20ae109" sha1="0559d8246da2e341a726c5785672f888511d4f2d"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\Eyes\Eyes - TILT.mp4" size="80262" crc="c20ae109" sha1="0559d8246da2e341a726c5785672f888511d4f2d"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\Eyes\Eyes Black.mp4" size="31822" crc="8fe4c23e" sha1="9518a47ea47522e218d96ca0a16d04adff93fa1f"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\Eyes\Eyes Blue.mp4" size="82298" crc="0d3c80de" sha1="a6c58f3a507b201b164f17960fe09751da756624"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\Eyes\Eyes Colours 2.mp4" size="28734" crc="ccde2bde" sha1="5a86e67a3a0a2cf0314415bd4fc87d9957bc9a85"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\Eyes\Eyes Colours.mp4" size="38908" crc="df3c1fa8" sha1="8b035320941e2f025267cffbca95e04d643c63f3"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\Eyes\Eyes Green old.mp4" size="84237" crc="c2477652" sha1="494a8ce700bbea2fdb7b996b9a69ef8ae25beca5"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\Eyes\Eyes Green.mp4" size="81486" crc="3d33d3bd" sha1="a9fe83b50fbc86a91a1e0b33b9185e6a04b57948"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\Eyes\Eyes Purple.mp4" size="82684" crc="316d339c" sha1="b54c40ddffeda7c1cb9c5399331e11df3660d0eb"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\Eyes\Eyes Red.mp4" size="80262" crc="c20ae109" sha1="0559d8246da2e341a726c5785672f888511d4f2d"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\Eyes\Eyes Warning.mp4" size="38476" crc="3c2539fb" sha1="7f2dd3175bac4b38037619d368cd75a6ba5c6c0f"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\Eyes\Eyes Yellow.mp4" size="80257" crc="f48afb5e" sha1="6b7fffa97c6476afe5949bb0e65cc6fc28a577d4"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\Game_Over\Skeletor Getout.mp4" size="501875" crc="0dbb960c" sha1="12db1d6369371affa0d63fc201087b0041740675"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\HeMan_Ball_Locked\Evil Lynn.mp4" size="424937" crc="dcbc3622" sha1="ead1b7a9c68f6d1cc6e4a372ea4feedf190b81b1"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\HeMan_Ball_Locked\HeManCell.mp4" size="706454" crc="cb530953" sha1="92c64c0a65993294bc1050232a9fb411777415bc"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\HeMan_Ball_Locked\Skeletor_Hollow.mp4" size="358750" crc="9a13590e" sha1="82243758ce0ce9538ca30a485787588bf885c780"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\HeMan_Ball_Locked\Skeletor_Palace.mp4" size="416676" crc="3e718c15" sha1="aeb134cc865b89015418e2ee9ffdabc232802698"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\HeMan_Ball_Locked\Skeletor_Well_Well.mp4" size="564534" crc="4dd6f90f" sha1="db586ff3b635bf6d68672ba3feaa0418ff059c6a"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\HeMan_Ball_Locked\Snake_Mountain.mp4" size="401839" crc="af302b0e" sha1="5cba7df9973bd998f152bb706e83d341cf1c1a31"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\HeMan_Kicker\HeMan_AttackBall.mp4" size="448941" crc="fb4dd975" sha1="7ece957fe22fef1d3e14cd5928eab36d94120740"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\HeMan_Lit\Skeletor_StopHim.mp4" size="252014" crc="eedfef06" sha1="943d1c0ffb8bb77b93374c044c77220a542aa998"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\HeMan_MB\HeMan_MB.mp4" size="232293" crc="dd48dc0b" sha1="ddff865fd818243be2e4c7ce217a92472b9a3b6e"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\HeMan_POG\POG.mp4" size="5612274" crc="38c5286e" sha1="37b6adb4ebc3d76c6bbb27f073dc9085b00ed8a5"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\Jackpots_All_Modes\01_Jackpot.mp4" size="353117" crc="5c9f229a" sha1="50c649aabb736aac5d5cb22cc6ce0f08b5c5abb1"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\Jackpots_All_Modes\02_Jackpot.mp4" size="297391" crc="21e37307" sha1="cfcc4419fafed24d27ccaee6ce2ca5679650da6a"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\Jackpots_All_Modes\03_Jackpot.mp4" size="357768" crc="555d5ba3" sha1="59a94c60c6920f9bd08964e4e9c43ae1a1ddc498"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\Jackpots_All_Modes\04_Jackpot.mp4" size="461593" crc="cc5b3567" sha1="ba90845fa7eb2daf2c686f3729e90423709b2a06"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\Jackpots_All_Modes\05_Jackpot.mp4" size="696641" crc="4d8badd9" sha1="48839a820241a988d423bbd5421e11f719a1f493"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\Jackpots_All_Modes\06_Jackpot.mp4" size="1002679" crc="54fb620e" sha1="0db12ea7ba181ff864ed1961af3e2075b932aa39"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\Jackpots_All_Modes\07_Jackpot.mp4" size="291253" crc="3d507577" sha1="62908b7ecf5824ec56d98c8e92faccb3aeb48772"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\Jackpots_All_Modes\08_Jackpot.mp4" size="170845" crc="ed9de83b" sha1="d60a06f0e538948919195a49c10ec598114ee602"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\Jackpots_All_Modes\09_Jackpot.mp4" size="182970" crc="ecffc20e" sha1="f79c335a93a529d7550002d89c1b387e8dfc5688"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\Jackpots_All_Modes\10_Jackpot.mp4" size="246685" crc="e475ba24" sha1="636d4e1649224249c9f683104101c8515fa126a3"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\Lightning - Left - Underlay\01_Lightning_Left.mp4" size="109584" crc="6b18fe1f" sha1="5911ec12449af6d7364596fc63582a48cbb04cba"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\Lightning - Left - Underlay\02_Lightning_Left.mp4" size="98999" crc="e2addbf2" sha1="bd82f522bf72fb0c50085b6dc12ba5154c822c0d"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\Lightning - Left - Underlay\03_Lightning_Left.mp4" size="80450" crc="95701f2d" sha1="b32ac86d3ae9680d1c7a32bd0d913534ff1ed921"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\Lightning - Left - Underlay\04_Lightning_Left.mp4" size="100639" crc="febc4958" sha1="62675854f29e2fd7ffe99a1bd03b2c1bafa4babc"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\Lightning - Right - Underlay\01_Lightning_Right.mp4" size="93646" crc="efdd27c4" sha1="379ee0fed3a45af11897d1df15d1ba7f1aee0685"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\Lightning - Right - Underlay\02_Lightning_Right.mp4" size="81372" crc="11bcf378" sha1="03efc6abdc62117f1af4f4f0f8974ea665504835"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\Lightning - Right - Underlay\03_Lightning_Right.mp4" size="82574" crc="32206798" sha1="2714efaf7f190983887708b1fea02edb1242698e"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\Lightning - Right - Underlay\04_Lightning_Right.mp4" size="111707" crc="df6898ba" sha1="36cd459e51cafa66755c43793af5b86a062c6cd0"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\MB_End\Spinning_Sword.mp4" size="553939" crc="a872fdb8" sha1="97dc99c0ed75ff13427ac672bb22cef685044a4a"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\New_Ball\spinning logo.mp4" size="257928" crc="6e727878" sha1="551c5bee9b46ade45343385690cd050c24567a28"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\NoPay_NoPlay\Skeletor_Boob.mp4" size="223115" crc="4fb67c93" sha1="8abb4c15581c5c9035776dfe616836918c8e0ade"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\playlists.pup" size="1095" crc="68519a58" sha1="ce68d4b70095a3cffb2b9580bb599d8308aa8461"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\PuPOverlays\Grayskull Overlay.png" size="8316154" crc="724fdeb7" sha1="4c2be0b8e29d27184f03c4122e5f7e1a36cfcccf"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\RoadRipper_MB\RipperMB.mp4" size="276690" crc="1c779678" sha1="3172ffcb584751426da5a77d174df9d84aa91c3f"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\RoadRipper_MB\RipperMB_Start.mp4" size="498094" crc="d32952a5" sha1="1e6cb4ecd56202815f7ed9b1b05bcb56e8ef5b10"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\RoadRipper\Ripper.mp4" size="677312" crc="d309bc8e" sha1="847e617223bba803ee6b879fb39012caa08d0405"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\screens.pup" size="320" crc="4a88306c" sha1="977ce8aad6304b990a03bcd5899d2ce4bdc09317"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\Skeletor_Ball_Locked\Skeletor_StunRay.mp4" size="541302" crc="96971aa9" sha1="d76da3b52af847a2e3c33e9223bd756992ec9b53"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\Skeletor_Hit\Skeletor Frightened.mp4" size="327691" crc="ca41325e" sha1="be8159d246a681686b538be5542512d90cf4897c"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\Skeletor_Hit\Skeletor_BackUp.mp4" size="238779" crc="9d0e695c" sha1="f24f1a1d12a2c1b4392a85ff2fcbfbbd821418c7"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\Skeletor_Hit\Skeletor_Laugh.mp4" size="261123" crc="181ea297" sha1="c34cfac409c2d0ca2a75b63c3f78f60a9c52d781"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\Skeletor_Hit\Skeletor_Patience.mp4" size="419385" crc="1719a637" sha1="9d1e4e831ef32fdf44f91e1b162fbb1f49d71578"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\SkeletorMB\Skeletor_MB.mp4" size="1165051" crc="b496e7c5" sha1="de2a61544a34bda1ab9299ba8a5bb2e0687ed9b0"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\SkeletorMB\Skeletor_MB_Start.mp4" size="671188" crc="c9137a56" sha1="c8ae353b14c76a0fd74dacfbf99419c14cd87350"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\Sorceress\Sorceress_Fly.mp4" size="277683" crc="81d8aee6" sha1="53982710027c1fbba68c0c3cdede44669dd2a8d0"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\Sorceress\Sorceress_Hover.mp4" size="252550" crc="45d27cb0" sha1="f5b7c24b7556774fe4d96583ee95b298d5570722"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\Sorceress\Sorceress_Swoop.mp4" size="300148" crc="148d3cad" sha1="c9ec92c395014384bbb4e9e76fc7a05c28132129"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\TILT\TILT.mp4" size="1200164" crc="24c211e9" sha1="bcfe153955712616e784ac8c6ad83dc0538dee7d"/>
+		<rom name="MOTU - PuP-Pack (1.1) - Text on BG\motu\triggers.pup" size="6823" crc="6f8a0699" sha1="96e959a8424939a72601a7fe458e66f99a974b83"/>
+		<rom name="MOTU - Topper files (1.1)\playlists.pup" size="1125" crc="10aad062" sha1="2adae076603c1b85aaee22f6728f5d826b79316b"/>
+		<rom name="MOTU - Topper files (1.1)\screens.pup" size="356" crc="1741e27a" sha1="e7e4a5cab25d7309c2b0ca65668766614cce7512"/>
+		<rom name="MOTU - Topper files (1.1)\Text - Topper\Text - Ball 1 Locked.mp4" size="804881" crc="2d122e4f" sha1="c4742f4f5cbd3f1b9cc411cbf2d0eb60e15098da"/>
+		<rom name="MOTU - Topper files (1.1)\Text - Topper\Text - Ball 2 Locked.mp4" size="812220" crc="118cc392" sha1="a1975a912b51897d982339e8cedb3157a08d76a5"/>
+		<rom name="MOTU - Topper files (1.1)\Text - Topper\Text - Ball 3 Locked.mp4" size="813813" crc="75d373ae" sha1="00b849f2025e45b44fdc1358577fdc9f68264da1"/>
+		<rom name="MOTU - Topper files (1.1)\Text - Topper\Text - Ball Saved.mp4" size="628188" crc="593b663e" sha1="04aed5e3c781b0f181e6d2f4e5c48e1d96c1228f"/>
+		<rom name="MOTU - Topper files (1.1)\Text - Topper\Text - Castle MB.mp4" size="2214770" crc="5a9a6147" sha1="d526629a13a5b13add582152d7716cec60a5e9de"/>
+		<rom name="MOTU - Topper files (1.1)\Text - Topper\Text - Extra Ball.mp4" size="747832" crc="20e58469" sha1="8d923dc29e0c5301130c8409599d26249ea1849c"/>
+		<rom name="MOTU - Topper files (1.1)\Text - Topper\Text - Game Over.mp4" size="1300298" crc="92b2e3af" sha1="0a9257839247e2d1779ec85e03e7aac6ac227a17"/>
+		<rom name="MOTU - Topper files (1.1)\Text - Topper\Text - Grayskull Lit.mp4" size="532913" crc="49b04bfd" sha1="c7219b8b569ae644f53c8684f147305fe1b9185f"/>
+		<rom name="MOTU - Topper files (1.1)\Text - Topper\Text - He-Man MB.mp4" size="446378" crc="6e143389" sha1="226dd8c1ad02bb3cc90de934e305dc6bc2e7afb1"/>
+		<rom name="MOTU - Topper files (1.1)\Text - Topper\Text - HeMan Lit.mp4" size="766880" crc="57dfb8a1" sha1="eebaac430408ff1cfe1147848b6b96e48cfaf875"/>
+		<rom name="MOTU - Topper files (1.1)\Text - Topper\Text - Jackpot.mp4" size="560067" crc="6a4c38c7" sha1="fc26b8e5fa80762fd5fa0e9a76cdb858b0c2ce41"/>
+		<rom name="MOTU - Topper files (1.1)\Text - Topper\Text - Logo.mp4" size="3297606" crc="9cf6d6bf" sha1="284c877607cbe7c848546e265d105ec926bea51f"/>
+		<rom name="MOTU - Topper files (1.1)\Text - Topper\Text - No Text.mp4" size="3216950" crc="f160bc1f" sha1="86882119828758f52b83c462d293bd322d8d1661"/>
+		<rom name="MOTU - Topper files (1.1)\Text - Topper\Text - Ripper MB Start.mp4" size="948409" crc="e5a0067d" sha1="49ac385e123cc30016e08221d196d74c3d585753"/>
+		<rom name="MOTU - Topper files (1.1)\Text - Topper\Text - Ripper MB.mp4" size="1050102" crc="e6a33a36" sha1="3532a1dac6df4aef29eee9315eb4864d15eba7f4"/>
+		<rom name="MOTU - Topper files (1.1)\Text - Topper\Text - Skeletor MB Start.mp4" size="889571" crc="1d7b0168" sha1="e72ce4e7f35277db8d14a34ac7b60a47f14ef559"/>
+		<rom name="MOTU - Topper files (1.1)\Text - Topper\Text - TILT.mp4" size="1444508" crc="9e61438d" sha1="b3c6578203e1239d1464249e1eaa63f5d1525720"/>
+		<rom name="MOTU - Topper files (1.1)\triggers.pup" size="6823" crc="6f8a0699" sha1="96e959a8424939a72601a7fe458e66f99a974b83"/>
+		<rom name="MOTU - Under files (1.1)\playlists.pup" size="1125" crc="10aad062" sha1="2adae076603c1b85aaee22f6728f5d826b79316b"/>
+		<rom name="MOTU - Under files (1.1)\screens.pup" size="356" crc="1741e27a" sha1="e7e4a5cab25d7309c2b0ca65668766614cce7512"/>
+		<rom name="MOTU - Under files (1.1)\Text - Topper\Text - Ball 1 Locked.mp4" size="662322" crc="af368e1e" sha1="7ade178ec1392c8288a08b6b2ee65f9276f5ed75"/>
+		<rom name="MOTU - Under files (1.1)\Text - Topper\Text - Ball 2 Locked.mp4" size="653317" crc="07619d58" sha1="98228a1e14604a9154297dfd38d7f98637e6fa87"/>
+		<rom name="MOTU - Under files (1.1)\Text - Topper\Text - Ball 3 Locked.mp4" size="664705" crc="62cab1b9" sha1="e8b0db10931dc30b2c17d551dc76e3e01d726d6e"/>
+		<rom name="MOTU - Under files (1.1)\Text - Topper\Text - Ball Saved.mp4" size="526370" crc="7386fe0c" sha1="a19b7bad8c5ef741cf8f5b386b215e1e3bd36d4a"/>
+		<rom name="MOTU - Under files (1.1)\Text - Topper\Text - Castle MB.mp4" size="2015720" crc="7f326f0e" sha1="7a72770ca5645c4e01bbb82107e6f5fb7934fd06"/>
+		<rom name="MOTU - Under files (1.1)\Text - Topper\Text - Extra Ball.mp4" size="602338" crc="3e508123" sha1="50567a842c721bc83f2002e1a4aabd347d4d78a1"/>
+		<rom name="MOTU - Under files (1.1)\Text - Topper\Text - Game Over.mp4" size="1033734" crc="d214c012" sha1="0b6f52233b824b97f3625b7e44cb0e820eaa6d19"/>
+		<rom name="MOTU - Under files (1.1)\Text - Topper\Text - Grayskull Lit.mp4" size="411196" crc="82899d54" sha1="a39b94927edaf54daa3d1e02e108f651b16a9f19"/>
+		<rom name="MOTU - Under files (1.1)\Text - Topper\Text - He-Man MB.mp4" size="321010" crc="328e6ec1" sha1="5827d51afc6794977495bee02c968a61c1a64d1d"/>
+		<rom name="MOTU - Under files (1.1)\Text - Topper\Text - HeMan Lit.mp4" size="628243" crc="ffbcae61" sha1="a1d638a5def962a4768675bfe336044ebee8ba18"/>
+		<rom name="MOTU - Under files (1.1)\Text - Topper\Text - Jackpot.mp4" size="444332" crc="ac2d67b1" sha1="a7dffced6c5dd68b752d4c5de50e2d63683f3fea"/>
+		<rom name="MOTU - Under files (1.1)\Text - Topper\Text - Logo.mp4" size="2340414" crc="789406e2" sha1="62de1f92e115f8dc9049f0c9c6a1ff092e3be9d6"/>
+		<rom name="MOTU - Under files (1.1)\Text - Topper\Text - No Text.mp4" size="2477925" crc="78bcf2cd" sha1="f5601b0d2721f1d61272439bff1962134d70c0c1"/>
+		<rom name="MOTU - Under files (1.1)\Text - Topper\Text - Ripper MB Start.mp4" size="807849" crc="1361260d" sha1="8c4249ee6dcdc70e9dfdd3b5e5f1f40a93eb0017"/>
+		<rom name="MOTU - Under files (1.1)\Text - Topper\Text - Ripper MB.mp4" size="774130" crc="4c3056fe" sha1="36bd7f23aedaf7b99b45f576dfa5bbff7b27f9ae"/>
+		<rom name="MOTU - Under files (1.1)\Text - Topper\Text - Skeletor MB Start.mp4" size="672792" crc="7549a536" sha1="90aa65aab646ed5afedd13cd73c0c1c5f2e35706"/>
+		<rom name="MOTU - Under files (1.1)\Text - Topper\Text - TILT.mp4" size="1112802" crc="f486392c" sha1="e5d5ba1f51c14bc4801d2ad5aad96dec7a2b4b15"/>
+		<rom name="MOTU - Under files (1.1)\triggers.pup" size="6823" crc="6f8a0699" sha1="96e959a8424939a72601a7fe458e66f99a974b83"/>
+		<rom name="motu-337x600.png" size="3261724" crc="309cde5b" sha1="5da8770abd76f7eab0c5a9452c5ddeca5cd68c2c"/>
+		<rom name="Music heman.rar" size="16793025" crc="82a8fef1" sha1="01b21290a35ae7bae4393b7dd608a7dccb131b32"/>
+	</machine>
+	<machine name="Metal Slug (Pinwizkid)(1.02)[VPX04][FullScreen]">
+		<description>Metal Slug (Pinwizkid)(1.02)[VPX04][FullScreen]</description>
+		<rom name="Metal Slug (Pinwizkid)(1.00)[VPX04][FullScreen]\FPVPX.vbs" size="622" crc="0cb22cb4" sha1="8f1c222c02e6b6247e087667e5aad06bcf77cfd9"/>
+		<rom name="Metal Slug (Pinwizkid)(1.00)[VPX04][FullScreen]\Metal Slug_1.00.vpx" size="127320064" crc="c4157981" sha1="5b9e2690960a135c47011ca88366de36a5b6bbb3"/>
+		<rom name="Metal Slug (Pinwizkid)(1.02)[VPX04][FullScreen]\FPVPX.vbs" size="622" crc="0cb22cb4" sha1="8f1c222c02e6b6247e087667e5aad06bcf77cfd9"/>
+		<rom name="Metal Slug (Pinwizkid)(1.02)[VPX04][FullScreen]\Metal Slug_1.02.directb2s" size="16995201" crc="d7928c86" sha1="5558465bd79ef276ffb52f1369f8096c665c4afe"/>
+		<rom name="Metal Slug (Pinwizkid)(1.02)[VPX04][FullScreen]\Metal Slug_1.02.vpx" size="127320064" crc="002e163e" sha1="5ff1837d6991fb61051ae78b655a15f74d02e463"/>
+		<rom name="Metal Slug screenshot.jpg" size="368410" crc="81a0e215" sha1="84b40ad39877577d5ecc57724c2fb2a87b6ae8f9"/>
+		<rom name="Metal Slug.UltraDMD\Eri.jpg" size="2259" crc="ced300aa" sha1="14858ae82ec8d853c6ecff5146a215ca5a072c6f"/>
+		<rom name="Metal Slug.UltraDMD\Explosion.gif" size="17149" crc="c5dd608f" sha1="78a5936a9b41777d9022cce4a96210151739d97f"/>
+		<rom name="Metal Slug.UltraDMD\FinalMision.wmv" size="211470" crc="b3998c99" sha1="0173cce7ab21a87dbbfe1ab20469dc4f57a43cae"/>
+		<rom name="Metal Slug.UltraDMD\Fio.jpg" size="1944" crc="87d08a01" sha1="aa94c1a914efa1e73da795bfbad69eb460fbdd94"/>
+		<rom name="Metal Slug.UltraDMD\IntroMS.wmv" size="560736" crc="62443bcf" sha1="8a687fdca501b0728bd70b81ac0760b1b5821f99"/>
+		<rom name="Metal Slug.UltraDMD\marco.jpg" size="2792" crc="92e54d44" sha1="aef402c36ce2b38232a32236da4e95f419e03110"/>
+		<rom name="Metal Slug.UltraDMD\metalslug.jpg" size="3448" crc="ec52073a" sha1="e2deeca023e77441e50d00f7532eae28f23327bc"/>
+		<rom name="Metal Slug.UltraDMD\Mision1Start.wmv" size="139886" crc="d282a3de" sha1="0ef7d678ae111455e9be58ad8cda2c217a0aba75"/>
+		<rom name="Metal Slug.UltraDMD\Mision2Start.wmv" size="148834" crc="4b37ea57" sha1="de58f84cb6a022cf28b0346bca001607b49f2b17"/>
+		<rom name="Metal Slug.UltraDMD\Mision3Start.wmv" size="130938" crc="77d012b1" sha1="536190e1f05bca7a80fa6a8850df2c81eceab9b6"/>
+		<rom name="Metal Slug.UltraDMD\Mision4Start.wmv" size="202536" crc="87dc6a75" sha1="8ad42c1b9da7474a35a206fa6f3bd286363e82bb"/>
+		<rom name="Metal Slug.UltraDMD\scoreboard-background.jpg" size="4939" crc="ea8161eb" sha1="12d4e19353ac28626e49d500cc8c7a5838eae35a"/>
+		<rom name="Metal Slug.UltraDMD\Tarma.jpg" size="2760" crc="abab3ea0" sha1="9e5d3c424dbc42319c272c7b56a33533dd8903bd"/>
+	</machine>
+	<machine name="Shovel Knight (Wizball)(0.9.4)[VPX05][FullScreen]">
+		<description>Shovel Knight (Wizball)(0.9.4)[VPX05][FullScreen]</description>
+		<rom name="music\shovelknight00.ogg" size="143757" crc="5792604f" sha1="d6d4afca8d1f527f7436cdf901dbe67c52823bc9"/>
+		<rom name="music\shovelknight01.ogg" size="960833" crc="7156a2e6" sha1="2240d0f905c72720fb03341ed3c0ee346b48050d"/>
+		<rom name="music\shovelknight02.ogg" size="148243" crc="fb38fc33" sha1="428082855a064e3806ce188b1f79a18ecc0e13ca"/>
+		<rom name="music\shovelknight03.ogg" size="534502" crc="77f2991a" sha1="53726a56755fe2409a7c3709b207e3b17261913f"/>
+		<rom name="music\shovelknight04.ogg" size="831700" crc="cbf75c60" sha1="5c357e85d14d36f9dd9802b0382c002bdfbc9446"/>
+		<rom name="music\shovelknight05.ogg" size="734615" crc="f77ba74a" sha1="09efdbe3e86719a3ce84fb12f6d8315f76addaaf"/>
+		<rom name="music\shovelknight06.ogg" size="729896" crc="dfe6c321" sha1="1caee2e37d360f442800a7d916c4100c38ce81da"/>
+		<rom name="music\shovelknight07.ogg" size="1119698" crc="74cbc5fe" sha1="fbd79afb8acbc7dabf85fea3ef8a2e1a0654549a"/>
+		<rom name="music\shovelknight08.ogg" size="411207" crc="987c43f8" sha1="850132426bf98a9bbcd220173478543f4f5518dd"/>
+		<rom name="music\shovelknight09.ogg" size="425613" crc="5a62c99b" sha1="a7a7f3ff60a6b777e217f08402443ddd60afc5b1"/>
+		<rom name="music\shovelknight10.ogg" size="251618" crc="418e2fb5" sha1="fa1ba3f51c1f2096d3f73ba8e989b0d24d9407eb"/>
+		<rom name="music\shovelknight11.ogg" size="992060" crc="156328f5" sha1="d717919693ff91c7cc1387c2fbef555f54ef455c"/>
+		<rom name="music\shovelknight12.ogg" size="996090" crc="db4103b8" sha1="a933011def5b159a3c25ff3767e3bfe6fdeac76a"/>
+		<rom name="music\shovelknight13.ogg" size="501660" crc="4c129902" sha1="05539ac1b434c902662219508e056784f4cddc5a"/>
+		<rom name="music\shovelknight14.ogg" size="539951" crc="5a516569" sha1="2d13a5fbaa70f4833a376e4d50a2dc270723f998"/>
+		<rom name="music\shovelknight15.ogg" size="882070" crc="b210f5a7" sha1="4b04b6a4c7f23076ea7c49dbb9f58740ea5da226"/>
+		<rom name="music\shovelknight16.ogg" size="493885" crc="283f75f1" sha1="6c16fafa16e6cf9f0ebf984d2de2b458ebac2602"/>
+		<rom name="music\shovelknight17.ogg" size="226502" crc="67b45051" sha1="7156bf995525e840922b8460ee88220affbc78d5"/>
+		<rom name="music\shovelknight18.ogg" size="689848" crc="38cf600a" sha1="689d289d95c8f2c37703f22ff7345a93ab43c162"/>
+		<rom name="music\shovelknight19.ogg" size="631865" crc="c526ca50" sha1="46134d153ca1a1c01c67628bf003d28748e8ae3c"/>
+		<rom name="music\shovelknight20.ogg" size="822979" crc="3f421974" sha1="29dabf987eb636e41ee3bd0d135c892c917564ad"/>
+		<rom name="music\shovelknight21.ogg" size="684573" crc="6d3dcd75" sha1="b574f70409faf279b00be93be3389e94ab2a26a2"/>
+		<rom name="music\shovelknight22.ogg" size="606101" crc="25f38f6c" sha1="ceeca863ef7512121a4f38f44dc29bb3b0f97d62"/>
+		<rom name="music\shovelknight23.ogg" size="1596577" crc="d6a7e301" sha1="8bd1419421b87ac9f79b959786de23f5f58e195f"/>
+		<rom name="music\shovelknight24.ogg" size="716555" crc="774fe37f" sha1="c30ed1c983f50de04d24b342f1b4699ceb499a19"/>
+		<rom name="music\shovelknight25.ogg" size="1270324" crc="3588673e" sha1="353a55a6982cda81de79cc70671c92a92938435b"/>
+		<rom name="music\shovelknight26.ogg" size="535314" crc="25c224ef" sha1="68af7df3596b37f3204b17c6dfb332ad4bd9a802"/>
+		<rom name="music\shovelknight27.ogg" size="371332" crc="e6a561ec" sha1="01691d3c91f0ac6d3c4ddabb8899c950bdc48c1d"/>
+		<rom name="music\shovelknight28.ogg" size="909767" crc="9be3c97c" sha1="0959f138d1cc584a4af9360218b1f990719dc4eb"/>
+		<rom name="music\shovelknight29.ogg" size="1172228" crc="199764db" sha1="465daf17c3677a7d9910f9a70e23bc60b245de61"/>
+		<rom name="music\shovelknight30.ogg" size="542069" crc="e6a9ccc4" sha1="299efc0aa0b7dd74a570a85e6b4dea0e68c43272"/>
+		<rom name="music\shovelknight31.ogg" size="251886" crc="5cd0d2fc" sha1="f8a1841b461fa6a46531c968355d9c97a084884e"/>
+		<rom name="music\shovelknight32.ogg" size="636102" crc="b863d107" sha1="1e70eb0f42a886fa7a6d9af18a8326db2313f3a0"/>
+		<rom name="music\shovelknight33.ogg" size="737315" crc="64a661cd" sha1="17527b7b489017c41a0f0cf295927f33cb1dceb4"/>
+		<rom name="music\shovelknight34.ogg" size="670907" crc="6e971fd8" sha1="01008363cf0ff7350046806fb492965812b2b274"/>
+		<rom name="Shovel Knight (Wizball)(0.9.0)[VPX04][FullScreen]\shovelknight-v090.vpx" size="18075648" crc="feefde9d" sha1="04f167e1d27a677172a32db5c543e968425c5be8"/>
+		<rom name="Shovel Knight (Wizball)(0.9.3)[VPX04][FullScreen]\shovelknight-v093.vpx" size="18075648" crc="4e3d9ac3" sha1="7de0f51ded98c6af6e24c691bf8e57019ddae5a6"/>
+		<rom name="Shovel Knight (Wizball)(0.9.4)[VPX05][FullScreen]\shovelknight-v094.vpx" size="18456576" crc="f8e3d5ea" sha1="4da0ab16bcd7db7ea1c3381c38b499c4eddcddfd"/>
+		<rom name="Shovel Knight (Wizball)(1.0)[dB2S]\Shovel Knight (dB2S) screenshot.jpg" size="310092" crc="8a86ee52" sha1="1492fe29ca8d639876770487f5d30f067bbcec8a"/>
+		<rom name="Shovel Knight (Wizball)(1.0)[dB2S]\shovelknight.directb2s" size="3176775" crc="ced7f0eb" sha1="80be15f5492c9e3f6b75aa76e8d2d2380c72cdf2"/>
+		<rom name="Shovel Knight screenshot.jpg" size="260981" crc="c956c074" sha1="e4b0ef2459437ae3ee13f4809dff02b8ed27c368"/>
+	</machine>
+	<machine name="Smurfette (JPSalas)[VPX][FullScreen + dB2S BorgDog v1.1][DOF arngrim]">
+		<description>Smurfette (JPSalas)[VPX][FullScreen + dB2S BorgDog v1.1][DOF arngrim]</description>
+		<rom name="Smurfette screenshot.png" size="488718" crc="36036909" sha1="05f2fe8e0b0ce7f6ae2095f5a848fac72dbf1201"/>
+		<rom name="Smurfette_1.1.0b2sDOF.directb2s" size="5862063" crc="23fee942" sha1="9d09defadef5be8860cd81df6574719ef0f72e89"/>
+		<rom name="Smurfette_1.1.0b2sDOF.vpx" size="10670080" crc="bc98b7ad" sha1="598ece51bbf99d324674c7907b24a0d830dc1004"/>
+	</machine>
+	<machine name="Transformers G1 (Generation One) Pinball (TBA 2018)(Ivantba)(1.7)[VPX05][DT+FS][Shovel Knight 0.9.4]">
+		<description>Transformers G1 (Generation One) Pinball (TBA 2018)(Ivantba)(1.7)[VPX05][DT+FS][Shovel Knight 0.9.4]</description>
+		<rom name="(1.0)[VPX05]\Media pack (for PinballX)\Backglass Images\Transformers G1 (Generation One) Pinball (TBA 2018).png" size="1722806" crc="f2290196" sha1="66c68072788737254b837dfda3082eb5a6858bba"/>
+		<rom name="(1.0)[VPX05]\Media pack (for PinballX)\Flyer Images\Back\Transformers G1 (Generation One) Pinball (TBA 2018).jpg" size="311799" crc="d6aecb1d" sha1="f1b24121803d9113b4ea63fe1eb302933d1fa62e"/>
+		<rom name="(1.0)[VPX05]\Media pack (for PinballX)\Flyer Images\Front\Transformers G1 (Generation One) Pinball (TBA 2018).jpg" size="1537120" crc="f4c4344c" sha1="4aa60dc4b821135441afe38d71d23191de129f2a"/>
+		<rom name="(1.0)[VPX05]\Media pack (for PinballX)\Flyer Images\Inside1\Transformers G1 (Generation One) Pinball (TBA 2018).jpg" size="583315" crc="873157a9" sha1="1f4b760d9eae9ad3d786f19f6f8159f1a914f5a1"/>
+		<rom name="(1.0)[VPX05]\Media pack (for PinballX)\Flyer Images\Inside2\Transformers G1 (Generation One) Pinball (TBA 2018).png" size="736028" crc="456a12d2" sha1="379bce4feebbb6b6e1a695ccde0535d8f6f73b8a"/>
+		<rom name="(1.0)[VPX05]\Media pack (for PinballX)\Flyer Images\Inside3\Transformers G1 (Generation One) Pinball (TBA 2018).png" size="1401440" crc="c0151846" sha1="3a778db430efeae89e0d016e6849981b88df778c"/>
+		<rom name="(1.0)[VPX05]\Media pack (for PinballX)\Flyer Images\Inside4\Transformers G1 (Generation One) Pinball (TBA 2018).jpg" size="117981" crc="12a1a02f" sha1="41e56e9dc1eb8f7382de1de4af379790944333e4"/>
+		<rom name="(1.0)[VPX05]\Media pack (for PinballX)\Flyer Images\Inside5\Transformers G1 (Generation One) Pinball (TBA 2018).jpg" size="323715" crc="3dc49ab5" sha1="b9cbe4320b0fe59b8a4d9c8189eb85d7f007fc3d"/>
+		<rom name="(1.0)[VPX05]\Media pack (for PinballX)\Flyer Images\Inside6\Transformers G1 (Generation One) Pinball (TBA 2018).png" size="2630559" crc="98e7c4c8" sha1="d3af1a7cd93faa1db6e146198fec30e029a22740"/>
+		<rom name="(1.0)[VPX05]\Media pack (for PinballX)\Instruction Cards\Transformers G1 (Generation One) Pinball (TBA 2018).png" size="56982" crc="8c535ad4" sha1="c61c9df1b50503d0ec1fb55f80d51652591b6cd6"/>
+		<rom name="(1.0)[VPX05]\Media pack (for PinballX)\Visual Pinball\Table Audio\Transformers G1 (Generation One) Pinball (TBA 2018).mp3" size="2560972" crc="d5dbe1af" sha1="a5fa619031dac65c0d11746f55cc0c7dc016d866"/>
+		<rom name="(1.0)[VPX05]\Media pack (for PinballX)\Visual Pinball\Table Images\Transformers G1 (Generation One) Pinball (TBA 2018).png" size="2543168" crc="529d1a34" sha1="7b78f1e0785b0c31783ed377e265892b55b423ee"/>
+		<rom name="(1.0)[VPX05]\Media pack (for PinballX)\Visual Pinball\Wheel Images\Transformers G1 (Generation One) Pinball (TBA 2018).png" size="304395" crc="be74652f" sha1="64d3b469a8695796f811d583da0bff2334b59c8d"/>
+		<rom name="(1.0)[VPX05]\music\TF00.ogg" size="87161" crc="9ba17b39" sha1="3cd25460e34a81df06c92b4b40fbd232d1d175a7"/>
+		<rom name="(1.0)[VPX05]\music\TF01.ogg" size="407016" crc="944ad7f6" sha1="373ff0e2cb0cf386066beab34d7b1bda817d1206"/>
+		<rom name="(1.0)[VPX05]\music\TF02.ogg" size="407016" crc="535bf9e7" sha1="9d0399e008eafb8f23bd1f0d56667fd1c4d22c6e"/>
+		<rom name="(1.0)[VPX05]\music\TF03.ogg" size="1669371" crc="5027358a" sha1="386a5eef181a0a56847b78cdb47e19893540bec6"/>
+		<rom name="(1.0)[VPX05]\music\TF04.ogg" size="760624" crc="cd404548" sha1="603c16fce63a4ae3e8b94a2d652f27c3ce4c3125"/>
+		<rom name="(1.0)[VPX05]\music\TF05.ogg" size="599714" crc="b5c50968" sha1="7b538710fbbedb3ef5e64b9fa9b54926c64d6224"/>
+		<rom name="(1.0)[VPX05]\music\TF06.ogg" size="437886" crc="eab770c7" sha1="16d6b3baf5707d0b263e9e9cda092a355df8f7e2"/>
+		<rom name="(1.0)[VPX05]\music\TF07.ogg" size="1186827" crc="1e3c84df" sha1="5222d4c82da4f3eea5dd35d01e01f02881efa746"/>
+		<rom name="(1.0)[VPX05]\music\TF08.ogg" size="1434045" crc="59599f78" sha1="bab02f8777b3884c64fd4c821e3c0665a744c0fb"/>
+		<rom name="(1.0)[VPX05]\music\TF09.ogg" size="419435" crc="dfdf3b34" sha1="7183e7f5a63d6e018c9e994d768faa27f53b60b7"/>
+		<rom name="(1.0)[VPX05]\music\TF10.ogg" size="219475" crc="fd0b7188" sha1="05c6c55c852fd46a8ee7fe6fa0c6cc7765764229"/>
+		<rom name="(1.0)[VPX05]\music\TF11.ogg" size="979129" crc="c01dbcd9" sha1="f69f82e9a0bbd4c54f2ff414c633b90d3161a6c2"/>
+		<rom name="(1.0)[VPX05]\music\TF12.ogg" size="532532" crc="b15bf61e" sha1="875e7b8f76a760c1ecc4bf3702423ca7657fe561"/>
+		<rom name="(1.0)[VPX05]\music\TF13.ogg" size="51344" crc="44bdf01b" sha1="440cca1b331f08fb6818330a9c43d783b5861c95"/>
+		<rom name="(1.0)[VPX05]\music\TF14.ogg" size="17405" crc="6087e3a6" sha1="d92d1add3c5370698612f81ff90ad7a99eb5d271"/>
+		<rom name="(1.0)[VPX05]\music\TF15.ogg" size="807670" crc="1aaea325" sha1="58a0b0db5ff4388b7085bc04e17342b1a0c77f2e"/>
+		<rom name="(1.0)[VPX05]\music\TF16.ogg" size="689055" crc="1f3fc34a" sha1="a68380c59ea519b5cd1e785021a39b5527ab8654"/>
+		<rom name="(1.0)[VPX05]\music\TF17.ogg" size="19253" crc="f9d993b4" sha1="a767bf8148d1da34ce223634351cb847937085c1"/>
+		<rom name="(1.0)[VPX05]\music\TF18.ogg" size="672014" crc="1866258e" sha1="8547dc236c099b11f208a021f8e5d3671003e330"/>
+		<rom name="(1.0)[VPX05]\music\TF19.ogg" size="1052380" crc="94c0491d" sha1="6acffaf1b58b05a39a95e875c3a0780e624db00d"/>
+		<rom name="(1.0)[VPX05]\music\TF20.ogg" size="386818" crc="64be66d1" sha1="485581a97ea4f1fbc98125661006643ebcc5316f"/>
+		<rom name="(1.0)[VPX05]\music\TF21.ogg" size="549314" crc="8b81c782" sha1="79943e2eca7b9bdb3d0e4eebe9e8128ad1088846"/>
+		<rom name="(1.0)[VPX05]\music\TF22.ogg" size="389799" crc="02719008" sha1="8aaa11c2ed86e906fdcf28b0b7c8650aab55e3d5"/>
+		<rom name="(1.0)[VPX05]\music\TF23.ogg" size="1114814" crc="729ee004" sha1="68d4c65aeb15605903a2faf1c26d3321e6d4d464"/>
+		<rom name="(1.0)[VPX05]\music\TF24.ogg" size="343896" crc="d74d7348" sha1="6cd77f8f1ac1411ac9675d70e4420bf986a9aa74"/>
+		<rom name="(1.0)[VPX05]\music\TF25.ogg" size="1248210" crc="6f213d5f" sha1="b3d67060572c8ca5d4e5f135b27647fbeea57be3"/>
+		<rom name="(1.0)[VPX05]\music\TF26.ogg" size="984177" crc="fac93713" sha1="0b68735a9e84263ff2a1eecad760eafd55114979"/>
+		<rom name="(1.0)[VPX05]\music\TF27.ogg" size="241442" crc="b743c0a4" sha1="f7c623ba09f05795f1e0c957422022b1bb4dc341"/>
+		<rom name="(1.0)[VPX05]\music\TF28.ogg" size="490913" crc="11dc52d4" sha1="d030ff2ff3f018932983d1b02e669d8727cc2607"/>
+		<rom name="(1.0)[VPX05]\music\TF29.ogg" size="1121791" crc="6d7e5191" sha1="99348ae3c665106493cd7c9d3f9df052d00a2b18"/>
+		<rom name="(1.0)[VPX05]\music\TF30.ogg" size="370284" crc="a357687e" sha1="c63196532a37f9a97814dc869fd54a31261b4b1f"/>
+		<rom name="(1.0)[VPX05]\music\TF31.ogg" size="146894" crc="6d59d6d6" sha1="860ea1c071832a8d0b2cb6d75f439a2dcca2c687"/>
+		<rom name="(1.0)[VPX05]\music\TF32.ogg" size="476448" crc="27e64827" sha1="7d42ddf1560644ce391960417481e0a02f1a3cfe"/>
+		<rom name="(1.0)[VPX05]\music\TF33.ogg" size="807755" crc="c8cc153d" sha1="2bcff761caf45bb3ee703ad10d6cc39d18f8aa34"/>
+		<rom name="(1.0)[VPX05]\music\TF34.ogg" size="807059" crc="3a6447af" sha1="494870e87e7408c48aa94cb67311489309c96277"/>
+		<rom name="(1.0)[VPX05]\Transformers G1 (Generation One) Pinball (TBA 2018).vpx" size="31830016" crc="8808c0ae" sha1="fb7c9669d24b49c68a812b92df68dab6ccb2f959"/>
+		<rom name="(1.1)[VPX05]\Transformers G1 Generation One (TBA 2018) 1.1.vpx" size="31842304" crc="567982d8" sha1="c22c0f5411562229b99c83d1e4ab9e2eaf5e9b61"/>
+		<rom name="(1.5)[VPX05]\Media pack (for PinballX)\Flyer Images\Back\Transformers G1 (Generation One) Pinball (TBA 2018).jpg" size="311799" crc="d6aecb1d" sha1="f1b24121803d9113b4ea63fe1eb302933d1fa62e"/>
+		<rom name="(1.5)[VPX05]\Media pack (for PinballX)\Flyer Images\Front\Transformers G1 (Generation One) Pinball (TBA 2018).jpg" size="1537120" crc="f4c4344c" sha1="4aa60dc4b821135441afe38d71d23191de129f2a"/>
+		<rom name="(1.5)[VPX05]\Media pack (for PinballX)\Flyer Images\Inside1\Transformers G1 (Generation One) Pinball (TBA 2018).jpg" size="583315" crc="873157a9" sha1="1f4b760d9eae9ad3d786f19f6f8159f1a914f5a1"/>
+		<rom name="(1.5)[VPX05]\Media pack (for PinballX)\Flyer Images\Inside2\Transformers G1 (Generation One) Pinball (TBA 2018).png" size="736028" crc="456a12d2" sha1="379bce4feebbb6b6e1a695ccde0535d8f6f73b8a"/>
+		<rom name="(1.5)[VPX05]\Media pack (for PinballX)\Flyer Images\Inside3\Transformers G1 (Generation One) Pinball (TBA 2018).png" size="1401440" crc="c0151846" sha1="3a778db430efeae89e0d016e6849981b88df778c"/>
+		<rom name="(1.5)[VPX05]\Media pack (for PinballX)\Flyer Images\Inside4\Transformers G1 (Generation One) Pinball (TBA 2018).jpg" size="117981" crc="12a1a02f" sha1="41e56e9dc1eb8f7382de1de4af379790944333e4"/>
+		<rom name="(1.5)[VPX05]\Media pack (for PinballX)\Flyer Images\Inside5\Transformers G1 (Generation One) Pinball (TBA 2018).jpg" size="323715" crc="3dc49ab5" sha1="b9cbe4320b0fe59b8a4d9c8189eb85d7f007fc3d"/>
+		<rom name="(1.5)[VPX05]\Media pack (for PinballX)\Flyer Images\Inside6\Transformers G1 (Generation One) Pinball (TBA 2018).png" size="2630559" crc="98e7c4c8" sha1="d3af1a7cd93faa1db6e146198fec30e029a22740"/>
+		<rom name="(1.5)[VPX05]\Media pack (for PinballX)\Instruction Cards\Transformers G1 (Generation One) Pinball (TBA 2018).png" size="60305" crc="f3130ef2" sha1="c8b64b1d65cdcffdf61cb93ad224b1c3b2a2d35c"/>
+		<rom name="(1.5)[VPX05]\Media pack (for PinballX)\Visual Pinball\Table Audio\Transformers G1 (Generation One) Pinball (TBA 2018).mp3" size="2560972" crc="d5dbe1af" sha1="a5fa619031dac65c0d11746f55cc0c7dc016d866"/>
+		<rom name="(1.5)[VPX05]\Media pack (for PinballX)\Visual Pinball\Table Images Desktop\Transformers G1 (Generation One) Pinball (TBA 2018).png" size="4333365" crc="28da2684" sha1="74127ecf159a0d37f091e1737eff257b17859002"/>
+		<rom name="(1.5)[VPX05]\Media pack (for PinballX)\Visual Pinball\Table Images\Transformers G1 (Generation One) Pinball (TBA 2018).png" size="2827312" crc="113532a6" sha1="97c9babca596a5610eea660c00dae57cc9068113"/>
+		<rom name="(1.5)[VPX05]\Media pack (for PinballX)\Visual Pinball\Wheel Images\Transformers G1 (Generation One) Pinball (TBA 2018).png" size="304395" crc="be74652f" sha1="64d3b469a8695796f811d583da0bff2334b59c8d"/>
+		<rom name="(1.5)[VPX05]\music\TF00.ogg" size="87161" crc="9ba17b39" sha1="3cd25460e34a81df06c92b4b40fbd232d1d175a7"/>
+		<rom name="(1.5)[VPX05]\music\TF01.ogg" size="342995" crc="51e991b7" sha1="45e0934001f7fa1e2e880bd216a53e954fdf6e63"/>
+		<rom name="(1.5)[VPX05]\music\TF02.ogg" size="303462" crc="4fdb3f27" sha1="71b6fce3598377de651c90372fc57f9ca81eeeda"/>
+		<rom name="(1.5)[VPX05]\music\TF03.ogg" size="1541598" crc="dbeaaace" sha1="cb410d9d889df8f08607caed963bceb2b3d72675"/>
+		<rom name="(1.5)[VPX05]\music\TF04.ogg" size="491441" crc="ef171f2b" sha1="383d3ed0335fa6d3f427d30f34aadcb7be510b7d"/>
+		<rom name="(1.5)[VPX05]\music\TF05.ogg" size="445814" crc="f718d213" sha1="410aa93f10a74cc916d30a508a07ff6886099e1e"/>
+		<rom name="(1.5)[VPX05]\music\TF06.ogg" size="437886" crc="eab770c7" sha1="16d6b3baf5707d0b263e9e9cda092a355df8f7e2"/>
+		<rom name="(1.5)[VPX05]\music\TF07.ogg" size="848455" crc="4b22ee09" sha1="cf4332e07a4a648871cf382991f4641efd31e042"/>
+		<rom name="(1.5)[VPX05]\music\TF08.ogg" size="980440" crc="336f4182" sha1="fb068fe2bdb575daf79b227af50e5f3980a44e20"/>
+		<rom name="(1.5)[VPX05]\music\TF09.ogg" size="419435" crc="dfdf3b34" sha1="7183e7f5a63d6e018c9e994d768faa27f53b60b7"/>
+		<rom name="(1.5)[VPX05]\music\TF10.ogg" size="219475" crc="fd0b7188" sha1="05c6c55c852fd46a8ee7fe6fa0c6cc7765764229"/>
+		<rom name="(1.5)[VPX05]\music\TF11.ogg" size="720424" crc="bbb4e2c7" sha1="578d8e001552f063d4fd2663be005b2e268ba30f"/>
+		<rom name="(1.5)[VPX05]\music\TF12.ogg" size="353612" crc="5c985b13" sha1="bdef1e7225aa342e9a10d9331e46575ce476f03e"/>
+		<rom name="(1.5)[VPX05]\music\TF13.ogg" size="31172" crc="59b38575" sha1="f06dd5e308619758d74979fa8c70e761a0b26748"/>
+		<rom name="(1.5)[VPX05]\music\TF14.ogg" size="17405" crc="6087e3a6" sha1="d92d1add3c5370698612f81ff90ad7a99eb5d271"/>
+		<rom name="(1.5)[VPX05]\music\TF15.ogg" size="559225" crc="6e513712" sha1="080bcee5028bf789cc104dc5bfbbbae68525834a"/>
+		<rom name="(1.5)[VPX05]\music\TF16.ogg" size="490043" crc="6bad4275" sha1="26b04bb679e0c22547c6a73f1a3fc43daaef4faf"/>
+		<rom name="(1.5)[VPX05]\music\TF17.ogg" size="19253" crc="f9d993b4" sha1="a767bf8148d1da34ce223634351cb847937085c1"/>
+		<rom name="(1.5)[VPX05]\music\TF18.ogg" size="512978" crc="d2dfda2c" sha1="3ff73b25df1b24cd80fd4573417f7be302ab4a00"/>
+		<rom name="(1.5)[VPX05]\music\TF19.ogg" size="770346" crc="72731043" sha1="668599460e2958ac382aadd95edc326e3035ecb0"/>
+		<rom name="(1.5)[VPX05]\music\TF20.ogg" size="296260" crc="9251d63c" sha1="fc9087b40751dbee2d5693e97830f213f8923b6c"/>
+		<rom name="(1.5)[VPX05]\music\TF21.ogg" size="549314" crc="8b81c782" sha1="79943e2eca7b9bdb3d0e4eebe9e8128ad1088846"/>
+		<rom name="(1.5)[VPX05]\music\TF22.ogg" size="389799" crc="02719008" sha1="8aaa11c2ed86e906fdcf28b0b7c8650aab55e3d5"/>
+		<rom name="(1.5)[VPX05]\music\TF23.ogg" size="774918" crc="a7c4674e" sha1="85be4c5e6e14fa10139902f1a2c7a61fef83f8c1"/>
+		<rom name="(1.5)[VPX05]\music\TF24.ogg" size="343896" crc="d74d7348" sha1="6cd77f8f1ac1411ac9675d70e4420bf986a9aa74"/>
+		<rom name="(1.5)[VPX05]\music\TF25.ogg" size="879558" crc="78d7c132" sha1="ae0aaa680f0a18fefc6f2f112ad4249cf6dbfbef"/>
+		<rom name="(1.5)[VPX05]\music\TF26.ogg" size="739719" crc="17419c40" sha1="f1b0d0b9c42480797be8b8d6e8aa86e2fe80bce4"/>
+		<rom name="(1.5)[VPX05]\music\TF27.ogg" size="241442" crc="b743c0a4" sha1="f7c623ba09f05795f1e0c957422022b1bb4dc341"/>
+		<rom name="(1.5)[VPX05]\music\TF28.ogg" size="355362" crc="53a04409" sha1="a33afa2fc700286dd8ccbf98f1107b77b66b7cd6"/>
+		<rom name="(1.5)[VPX05]\music\TF29.ogg" size="1121791" crc="6d7e5191" sha1="99348ae3c665106493cd7c9d3f9df052d00a2b18"/>
+		<rom name="(1.5)[VPX05]\music\TF30.ogg" size="370284" crc="a357687e" sha1="c63196532a37f9a97814dc869fd54a31261b4b1f"/>
+		<rom name="(1.5)[VPX05]\music\TF31.ogg" size="146894" crc="6d59d6d6" sha1="860ea1c071832a8d0b2cb6d75f439a2dcca2c687"/>
+		<rom name="(1.5)[VPX05]\music\TF32.ogg" size="365425" crc="02e78b49" sha1="c8ce61320ddde97797f277db35ad1f79ad2df24c"/>
+		<rom name="(1.5)[VPX05]\music\TF33.ogg" size="606385" crc="8256e8f8" sha1="64d4c9ccb66b738a85d1b1e4e45d33f3196e642c"/>
+		<rom name="(1.5)[VPX05]\music\TF34.ogg" size="563493" crc="95a0f311" sha1="278575cb96536db523ac18a2c1385f51b560967c"/>
+		<rom name="(1.5)[VPX05]\Transformers G1 (Generation One) Pinball (TBA 2018).vpx" size="36380672" crc="01b1a11c" sha1="fb36698ed997662aa602421c1d9ad60a76595b41"/>
+		<rom name="(1.6)[VPX05]\music\TF00.ogg" size="87161" crc="9ba17b39" sha1="3cd25460e34a81df06c92b4b40fbd232d1d175a7"/>
+		<rom name="(1.6)[VPX05]\music\TF01.ogg" size="1063667" crc="709688c1" sha1="13cfe2c687e9c23d89cbd395b53fdc527854a887"/>
+		<rom name="(1.6)[VPX05]\music\TF02.ogg" size="303462" crc="4fdb3f27" sha1="71b6fce3598377de651c90372fc57f9ca81eeeda"/>
+		<rom name="(1.6)[VPX05]\music\TF03.ogg" size="2147165" crc="14d5d29c" sha1="b1721868b205ff7fbe1c0b5d699661f5ca4726bc"/>
+		<rom name="(1.6)[VPX05]\music\TF04.ogg" size="2397539" crc="f1fb2256" sha1="e08f42988365d96da747b8cdf7f4f3f4d6741f1c"/>
+		<rom name="(1.6)[VPX05]\music\TF05.ogg" size="1096559" crc="f0bb927f" sha1="1c02f8b39b7c09d60c2841a407134c67c8fe83e6"/>
+		<rom name="(1.6)[VPX05]\music\TF06.ogg" size="1959988" crc="9bdfb680" sha1="4f3b0386c2c794eea68d36e839be9b4435c0589a"/>
+		<rom name="(1.6)[VPX05]\music\TF07.ogg" size="2308960" crc="c1a929fd" sha1="a8ff3b95ec4c17a70aeae8057aadfa1ec2d4d6df"/>
+		<rom name="(1.6)[VPX05]\music\TF08.ogg" size="1093120" crc="cd6a91bf" sha1="8a2d42455c07ccd3c9f3707ed854a1d06e0e6fc1"/>
+		<rom name="(1.6)[VPX05]\music\TF09.ogg" size="1041143" crc="e14acfb8" sha1="c2e152ae802552c33e186d0b0bf595f45b4e83bb"/>
+		<rom name="(1.6)[VPX05]\music\TF10.ogg" size="1240835" crc="19a2d573" sha1="6acc87c7643e604ad16386cc83224cf157aab1c1"/>
+		<rom name="(1.6)[VPX05]\music\TF11.ogg" size="1490723" crc="2a9278da" sha1="35d69fe32ae657c8debd0a901dcec35d03fc41b3"/>
+		<rom name="(1.6)[VPX05]\music\TF12.ogg" size="2190548" crc="04bf8dac" sha1="aac498a9d860efb94387033c164f0c2ab0fb3dd6"/>
+		<rom name="(1.6)[VPX05]\music\TF13.ogg" size="31172" crc="59b38575" sha1="f06dd5e308619758d74979fa8c70e761a0b26748"/>
+		<rom name="(1.6)[VPX05]\music\TF14.ogg" size="17405" crc="6087e3a6" sha1="d92d1add3c5370698612f81ff90ad7a99eb5d271"/>
+		<rom name="(1.6)[VPX05]\music\TF15.ogg" size="1134590" crc="eafe6acd" sha1="e62b9629282e78028434cdbd06dd260df1c7abbc"/>
+		<rom name="(1.6)[VPX05]\music\TF16.ogg" size="1852728" crc="100bc796" sha1="2a46cc79c9fb200fedabc4bfdb52d2aeeff0a709"/>
+		<rom name="(1.6)[VPX05]\music\TF17.ogg" size="19253" crc="f9d993b4" sha1="a767bf8148d1da34ce223634351cb847937085c1"/>
+		<rom name="(1.6)[VPX05]\music\TF18.ogg" size="1749676" crc="7730adb6" sha1="28304dac1aa828c7a6550d13f7ef177ba40c02ba"/>
+		<rom name="(1.6)[VPX05]\music\TF19.ogg" size="2000053" crc="b5257045" sha1="466d0b67f74112418d5117c5bb9bf6e820892f8c"/>
+		<rom name="(1.6)[VPX05]\music\TF20.ogg" size="296260" crc="9251d63c" sha1="fc9087b40751dbee2d5693e97830f213f8923b6c"/>
+		<rom name="(1.6)[VPX05]\music\TF21.ogg" size="2183127" crc="d0ce0bde" sha1="e0478058013458755a9a8b5fc5d987bcab719964"/>
+		<rom name="(1.6)[VPX05]\music\TF22.ogg" size="2140336" crc="406c8467" sha1="e41593dd772171173ab5b0dd2f8735c1086d4c7d"/>
+		<rom name="(1.6)[VPX05]\music\TF23.ogg" size="2177234" crc="8f9b50c4" sha1="af2fd953998f7878a128e1a268ae727f3221811b"/>
+		<rom name="(1.6)[VPX05]\music\TF24.ogg" size="1394122" crc="fce3bfe5" sha1="8e43198be370f122c5d332cd1e4b5f85a0bac324"/>
+		<rom name="(1.6)[VPX05]\music\TF25.ogg" size="2390247" crc="2cc2996b" sha1="4cbae91978bd9c7b5b056d0f0d219a6ca0b6bf83"/>
+		<rom name="(1.6)[VPX05]\music\TF26.ogg" size="739719" crc="17419c40" sha1="f1b0d0b9c42480797be8b8d6e8aa86e2fe80bce4"/>
+		<rom name="(1.6)[VPX05]\music\TF27.ogg" size="2123387" crc="87a4daf0" sha1="a5ade20c95be962e1b7e39afccabad8b6e6853eb"/>
+		<rom name="(1.6)[VPX05]\music\TF28.ogg" size="1737699" crc="9ae389c6" sha1="bb8c23e6cc6b1120e05746ef119bb298ed45b3c4"/>
+		<rom name="(1.6)[VPX05]\music\TF29.ogg" size="1121791" crc="6d7e5191" sha1="99348ae3c665106493cd7c9d3f9df052d00a2b18"/>
+		<rom name="(1.6)[VPX05]\music\TF30.ogg" size="1579249" crc="501e0a65" sha1="8b4e6ebcea07d49e8f4c57ffc78975322c1d660a"/>
+		<rom name="(1.6)[VPX05]\music\TF31.ogg" size="146894" crc="6d59d6d6" sha1="860ea1c071832a8d0b2cb6d75f439a2dcca2c687"/>
+		<rom name="(1.6)[VPX05]\music\TF32.ogg" size="1874239" crc="2a3b3ded" sha1="ed1470f0962d2722975ccb7008d2925ce12f5df9"/>
+		<rom name="(1.6)[VPX05]\music\TF33.ogg" size="2156421" crc="496bc4c4" sha1="43b94bf09e8166410ae942df578893c2497858d9"/>
+		<rom name="(1.6)[VPX05]\music\TF34.ogg" size="1607538" crc="b5e6490a" sha1="8a6739f30ff1820c68790a068e60a018852cd850"/>
+		<rom name="(1.6)[VPX05]\Transformers G1 (Generation One) Pinball (TBA 2018).vpx" size="36380672" crc="288cab55" sha1="68f346961d43b9dd182896f41d3f0b8bc0aaf793"/>
+		<rom name="(1.7)[VPX05]\Media pack (for PinballX)\Flyer Images\Back\Transformers G1 (Generation One) Pinball (TBA 2018).jpg" size="311799" crc="d6aecb1d" sha1="f1b24121803d9113b4ea63fe1eb302933d1fa62e"/>
+		<rom name="(1.7)[VPX05]\Media pack (for PinballX)\Flyer Images\Front\Transformers G1 (Generation One) Pinball (TBA 2018).jpg" size="1537120" crc="f4c4344c" sha1="4aa60dc4b821135441afe38d71d23191de129f2a"/>
+		<rom name="(1.7)[VPX05]\Media pack (for PinballX)\Flyer Images\Inside1\Transformers G1 (Generation One) Pinball (TBA 2018).jpg" size="583315" crc="873157a9" sha1="1f4b760d9eae9ad3d786f19f6f8159f1a914f5a1"/>
+		<rom name="(1.7)[VPX05]\Media pack (for PinballX)\Flyer Images\Inside2\Transformers G1 (Generation One) Pinball (TBA 2018).png" size="736028" crc="456a12d2" sha1="379bce4feebbb6b6e1a695ccde0535d8f6f73b8a"/>
+		<rom name="(1.7)[VPX05]\Media pack (for PinballX)\Flyer Images\Inside3\Transformers G1 (Generation One) Pinball (TBA 2018).png" size="1401440" crc="c0151846" sha1="3a778db430efeae89e0d016e6849981b88df778c"/>
+		<rom name="(1.7)[VPX05]\Media pack (for PinballX)\Flyer Images\Inside4\Transformers G1 (Generation One) Pinball (TBA 2018).jpg" size="117981" crc="12a1a02f" sha1="41e56e9dc1eb8f7382de1de4af379790944333e4"/>
+		<rom name="(1.7)[VPX05]\Media pack (for PinballX)\Flyer Images\Inside5\Transformers G1 (Generation One) Pinball (TBA 2018).jpg" size="323715" crc="3dc49ab5" sha1="b9cbe4320b0fe59b8a4d9c8189eb85d7f007fc3d"/>
+		<rom name="(1.7)[VPX05]\Media pack (for PinballX)\Flyer Images\Inside6\Transformers G1 (Generation One) Pinball (TBA 2018).png" size="2630559" crc="98e7c4c8" sha1="d3af1a7cd93faa1db6e146198fec30e029a22740"/>
+		<rom name="(1.7)[VPX05]\Media pack (for PinballX)\Instruction Cards\Transformers G1 (Generation One) Pinball (TBA 2018).png" size="60947" crc="d6f9672f" sha1="b40cee7c6fd27706f6ae83564e2144aba3f4b4ab"/>
+		<rom name="(1.7)[VPX05]\Media pack (for PinballX)\Visual Pinball\Table Audio\Transformers G1 (Generation One) Pinball (TBA 2018).mp3" size="2560972" crc="d5dbe1af" sha1="a5fa619031dac65c0d11746f55cc0c7dc016d866"/>
+		<rom name="(1.7)[VPX05]\Media pack (for PinballX)\Visual Pinball\Table Images\Transformers G1 (Generation One) Pinball (TBA 2018).png" size="2801604" crc="7d7efca3" sha1="234191713591497691e91b2e3580edff3a522e55"/>
+		<rom name="(1.7)[VPX05]\Media pack (for PinballX)\Visual Pinball\Wheel Images\Transformers G1 (Generation One) Pinball (TBA 2018).png" size="304395" crc="be74652f" sha1="64d3b469a8695796f811d583da0bff2334b59c8d"/>
+		<rom name="(1.7)[VPX05]\tf-dt.png" size="4320222" crc="a49cde23" sha1="bf1c50e52e91ba206ace13d772facba9922a1615"/>
+		<rom name="(1.7)[VPX05]\Transformers G1 (Generation One) Pinball (TBA 2018).vpx" size="36335616" crc="2a134652" sha1="5af2ab7ef95659333d693990e0c427bcbc7e2fb1"/>
+		<rom name="Transformers G1 (Generation One) Pinball (TBA 2018).directb2s" size="4121214" crc="6cf5ff4f" sha1="de253c5febf406e81d79c8abe1edd4ad8bdb6e54"/>
+	</machine>
+</datafile>

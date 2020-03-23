@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo Super Famicom &amp; Super Entertainment System - Demos</name>
+		<description>Nintendo Super Famicom &amp; Super Entertainment System - Demos (TOSEC-v2011-08-13)</description>
+		<category>TOSEC</category>
+		<version>2011-08-13</version>
+		<author>Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="32,768 Color Demo (19xx)(Cain, Joshua)(PD)">
+		<description>32,768 Color Demo (19xx)(Cain, Joshua)(PD)</description>
+		<rom name="32,768 Color Demo (19xx)(Cain, Joshua)(PD).bin" size="32768" crc="73d4a666" md5="23e3345c198e4a300bb60be47f6db228" sha1="87a3562dc303e63471a32bcc37ba4de4f8279c0d"/>
+	</game>
+</datafile>

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Future Pinball Original Tables [Flipperless]</name>
+		<description>Future Pinball Original Tables [Flipperless]</description>
+		<category>Future Pinball Original Tables [Flipperless]</category>
+		<version>1.0</version>
+		<date>2020-01-01</date>
+		<author>Yori Yoshizuki</author>
+		<email>-insert email-</email>
+		<homepage>Yori Yoshizuki</homepage>
+		<url>https://yoshizuki.webs.com</url>
+		<comment>-insert comment-</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Air Hockey">
+		<description>Air Hockey</description>
+		<rom name="Air Hockey (Tii)(1.0)[Other].fpt" size="517632" crc="02d12121" sha1="f1507253ce21d1929e0fcb0480f90dcd30e55299"/>
+		<rom name="Air Hockey screenshot.jpg" size="23064" crc="957f91f0" sha1="de7544e9d1ae255cbb630ab8bfde871f5f945d14"/>
+	</machine>
+	<machine name="Bagatallion">
+		<description>Bagatallion</description>
+		<rom name="Baga GFX.fpl" size="1258496" crc="41e77a57" sha1="1f1021a3d72f8d15b924e0da369c522be34bd04a"/>
+		<rom name="Baga SFX.fpl" size="188416" crc="97b8a544" sha1="f49ea3b9630ed5378a00d7558cc78f9020e4c93a"/>
+		<rom name="Bagatallion (Zerhino)(1.0)[Flipperless].fpt" size="1731072" crc="ac5e0c23" sha1="585f8f8b42a4fbeb6024ffd34cfbab4b856dfa78"/>
+		<rom name="Bagatallion screenshot.jpg" size="73621" crc="5f98fc73" sha1="56b986dcbfd8b21b1e55ae39dfedbc9f69a3b653"/>
+	</machine>
+	<machine name="Continental">
+		<description>Continental</description>
+		<rom name="Continental (MaxModel)(Sample WIP)[Bagatelle].fpt" size="1530880" crc="f858d1b8" sha1="c78a8068013518a57d7972c6ff8d02d96f5efd7a"/>
+		<rom name="Continental screenshot.jpg" size="129131" crc="b55f5baa" sha1="8cbedc3138916c9dd31605035b3882702d9bf492"/>
+	</machine>
+	<machine name="Drummer">
+		<description>Drummer</description>
+		<rom name="Drummer (Anthias)(WIP Alpha)[Flipperless].fpt" size="309248" crc="9dc861ab" sha1="5f05c5209aecb8465e8a852209c0aab70a6d50b9"/>
+		<rom name="Drummer screenshot.jpg" size="103202" crc="8681ff3d" sha1="4a8c977e0da7556fd4c614a77d9195fc13139f5c"/>
+	</machine>
+	<machine name="FP Bowling">
+		<description>FP Bowling</description>
+		<rom name="FP Bowling (Tii)(1.0)[Other].fpt" size="1475584" crc="dfe54ce3" sha1="c7b07d86e0e46a59f8368fd775e3a9a7f918ceb0"/>
+		<rom name="FP Bowling screenshot.jpg" size="115999" crc="5b767bbd" sha1="d85e05bde3d88b44b5a1669831b120cfbac0f7f7"/>
+	</machine>
+	<machine name="Ghost Train, The">
+		<description>Ghost Train, The</description>
+		<rom name="Ghost Train, The (Ruckage)(1.1)[Flipperless].fpt" size="3804672" crc="a502aa58" sha1="8febabe378286b06fd54fb320ca150be60d9a589"/>
+		<rom name="Ghost Train, The flyer 1.jpg" size="266199" crc="ded1d117" sha1="02712ab40575b5b0c4700b53db03dd09b9773993"/>
+		<rom name="Ghost Train, The flyer 2.jpg" size="299449" crc="d062fa15" sha1="c17320a3cc464e2ba7325e5a0fd8716aa1b025e7"/>
+		<rom name="Ghost Train, The screenshot.jpg" size="191931" crc="439f344d" sha1="7ac22a40d341bca8c9a12bea4400961bae221304"/>
+		<rom name="spookyslotsgraphics.fpl" size="8192000" crc="4926fd44" sha1="54d6b8b7411b64c71385a44f0925e0af6e309fb2"/>
+	</machine>
+	<machine name="HomeRun">
+		<description>HomeRun</description>
+		<rom name="HomeRun (Tii)(1.0).fpt" size="3250688" crc="c26f9c97" sha1="7c14e19ef0486b78a8c8c942d8359cf23136b383"/>
+		<rom name="HomeRun screenshot.jpg" size="89198" crc="0d513352" sha1="d717c18dba43c217d9653ac12251183937a76aa6"/>
+	</machine>
+	<machine name="Hong Kong Pachinko">
+		<description>Hong Kong Pachinko</description>
+		<rom name="Hong Kong Pachinko (Ben Chan Fu Chio)(1.0)[Flipperless].fpt" size="56997376" crc="decbe764" sha1="51400553c3f872154bd13442c635a432834857df"/>
+		<rom name="Hong Kong Pachinko guide.doc" size="406528" crc="dd0df642" sha1="1efa5ade6a6b4ee6e726c3ca5d74e067eadac54a"/>
+		<rom name="Hong Kong Pachinko screenshot 1.jpg" size="62247" crc="a9991c55" sha1="65ecc1c03877f49066564278d982c2cde27227bf"/>
+		<rom name="Hong Kong Pachinko screenshot 2.jpg" size="66321" crc="65634fbd" sha1="66ca326415157555ad04b0505bf9fce9514877d9"/>
+	</machine>
+	<machine name="Jackpot">
+		<description>Jackpot</description>
+		<rom name="Jackpot (kgage)(1.0)[Slot].fpt" size="49098752" crc="c7a00f55" sha1="fea64cb320c3803c4491a6eea618bb278fd4d9fc"/>
+	</machine>
+	<machine name="Labyrinth">
+		<description>Labyrinth</description>
+		<rom name="Labyrinth (Pinbotic)(1.00)[Other].fpt" size="652288" crc="3561b2b7" sha1="44bd0fc25b22e73bc4488c8e8fc3282370fa8b2b"/>
+		<rom name="Labyrinth (Pinbotic)(1.01)[Other].fpt" size="652288" crc="a73e8d7e" sha1="cab6e5c37fa5ccc940ad6bfa2a943a1df9a5c798"/>
+		<rom name="Labyrinth screenshot.jpg" size="172387" crc="29c9aa3b" sha1="42f2877041063035c7797f84985427930b1f0c5f"/>
+	</machine>
+	<machine name="Lucky Lane 7">
+		<description>Lucky Lane 7</description>
+		<rom name="Lucky Lane 7 (Addode)(1.0)[Pachinko].fpt" size="1444864" crc="c254b834" sha1="e325c2394676d37c9774985328d284bf9246099b"/>
+		<rom name="Lucky Lane 7 screenshot.jpg" size="62831" crc="a69d8892" sha1="887114a37d374bd2414a6483caff9d84b509c732"/>
+	</machine>
+	<machine name="Lucky Sixteen">
+		<description>Lucky Sixteen</description>
+		<rom name="Lucky Sixteen (Ben Chan Fu Chio)(1.0)[Flipperless].fpt" size="2913792" crc="1189f1d5" sha1="12c8f187a88413476356e9b597e208ed1c4ba946"/>
+		<rom name="Lucky Sixteen (Ben Chan Fu Chio)(1.1)[Flipperless].fpt" size="2915328" crc="8ec1f26c" sha1="7e85e5d73531d7ba8ee5ec7a920ca349d6172666"/>
+		<rom name="Lucky Sixteen help.jpg" size="441006" crc="33a718d0" sha1="5039d548122811dc2cf352726e6bab4dcd784e6e"/>
+		<rom name="Lucky Sixteen screenshot.jpg" size="50959" crc="786d1a41" sha1="87c5629bd046e93754c962440f199915b7d8ba77"/>
+	</machine>
+	<machine name="Metal Box">
+		<description>Metal Box</description>
+		<rom name="Metal Box (Chaos)(1.0)[Jukebox table].fpt" size="65417216" crc="e66b868a" sha1="e7843de6187c0676efc0b1ba807a5d64a720ccc8"/>
+		<rom name="Metal Box screenshot.jpg" size="137868" crc="cc4f786d" sha1="706c8ba01063195d174f4ea56e801df9e17c608d"/>
+	</machine>
+	<machine name="Mini Golf">
+		<description>Mini Golf</description>
+		<rom name="Mini Golf (Pinbotic)(1.00)[Other].fpt" size="1700864" crc="40e5f372" sha1="2a04217a52c79185fc913873d41d8135005fede4"/>
+		<rom name="Mini Golf screenshot.jpg" size="118400" crc="dd850c8f" sha1="ec8527662d0773c59b86c81b2e4147a4eda423dc"/>
+	</machine>
+	<machine name="Mini Oak Bagatelle">
+		<description>Mini Oak Bagatelle</description>
+		<rom name="Mini Oak Bagatelle (Patrick)(1.0)[Bagatelle].fpt" size="1679872" crc="19ff3943" sha1="842c6c09ee6f13ad4f8af4be21767986377bb4aa"/>
+		<rom name="Mini Oak Bagatelle screenshot.jpg" size="37401" crc="70d1d460" sha1="4a332bcbd6a0dc3cb325607f6ae1c25b567eba80"/>
+	</machine>
+	<machine name="One in a Hundred (Pinbotic)(1.0.0)[Other]">
+		<description>One in a Hundred (Pinbotic)(1.0.0)[Other]</description>
+		<rom name="One in a Hundred screenshot.jpg" size="149494" crc="ac8e2a48" sha1="3b2da3a8ed876d02a4b660bee0699491eef54a23"/>
+		<rom name="oneinhundred100.fpt" size="892928" crc="623a5fca" sha1="41395eb6d09a6217fb2e92319360108a752ee894"/>
+	</machine>
+	<machine name="Original Bingo Poker">
+		<description>Original Bingo Poker</description>
+		<rom name="Original Bingo Poker (Patrick)(1.0)[Flipperless].fpt" size="1915904" crc="a040e17e" sha1="ecc4ab09cbbc2e1e64c794ff1ae9617fe070598a"/>
+		<rom name="Original Bingo Poker screenshot.jpg" size="62968" crc="2e0a6fff" sha1="591906fe18cc2c4cc648f350a3232ac4bd73647d"/>
+	</machine>
+	<machine name="Pegs Aplenty">
+		<description>Pegs Aplenty</description>
+		<rom name="Pegs Aplenty (Luigi30)(1.0)[Flipperless].fpt" size="212992" crc="2b21665c" sha1="ffc3a62f1097bb3076e06864a92cf42b64462b11"/>
+		<rom name="Pegs Aplenty screenshot.png" size="804430" crc="3f9e4f49" sha1="c3e1f7d1b2e6ce534621602f0ec27c3558699dc9"/>
+	</machine>
+	<machine name="PowerPuck">
+		<description>PowerPuck</description>
+		<rom name="countdown.fpl" size="1656320" crc="022d48f3" sha1="9bc89de9bae6fa69e1d83e8e890cf207d81c64c9"/>
+		<rom name="lightshow.fpl" size="2070016" crc="9e05be52" sha1="8188e6f6294383a4263c7f18b673cb90c04d9465"/>
+		<rom name="PowerPuck (Polygame, Tefnacht)(1.0)[Other].fpt" size="16914432" crc="bbe72d0d" sha1="a9c483c5ea6ebb3940ef16cdd52d03fafa266993"/>
+		<rom name="PowerPuck screenshot.jpg" size="70137" crc="7955ef30" sha1="1f6e70ae2767ca24017c0e11ac54395a0b2c0951"/>
+	</machine>
+	<machine name="Rainbow Bingo">
+		<description>Rainbow Bingo</description>
+		<rom name="Rainbow Bingo (Rabbitronics)(1.0)[Gambling].fpt" size="2836992" crc="8c080ece" sha1="e0a3bbe1dedd1ca83fc0e30e5c1cbbfe760a23c3"/>
+		<rom name="Rainbow Bingo Owner's Manual.pdf" size="469026" crc="716645a0" sha1="cbe7ab7067b89710f86a7c0b7c3b6fc61f87925c"/>
+		<rom name="Rainbow Bingo Promo Flyer 1.jpg" size="87618" crc="52da5708" sha1="18e943e4ade185e584d5389c9bf577ab6433dc2b"/>
+		<rom name="Rainbow Bingo Promo Flyer 2.jpg" size="72898" crc="ff6eb7db" sha1="307beae45dfd8b136b9ffe3c5f1fa9301a40f50c"/>
+		<rom name="Rainbow Bingo screenshot.jpg" size="60646" crc="bcacab0b" sha1="b5ab65ad2a7c71c621b6c65769662535a078e57a"/>
+	</machine>
+	<machine name="Stadium Soccer">
+		<description>Stadium Soccer</description>
+		<rom name="Stadium Soccer (1.0 Enhanced) screenshot.jpg" size="76476" crc="4326b5dc" sha1="0f0ea1f3fdb70fa4a58107cafda1aeaac334f3bb"/>
+		<rom name="Stadium Soccer (Tii)(1.0 Enhanced)[Other].fpt" size="2523136" crc="cb11ceaa" sha1="196fb0a6cb50fb408c96778dce35018133b4e61f"/>
+		<rom name="Stadium Soccer (Tii)(1.0)[Other].fpt" size="928256" crc="8a44264b" sha1="82cc046e5db198b9dc73bebf29d7651c2acef9e3"/>
+		<rom name="Stadium Soccer (Tii)(1.0a)[Other].fpt" size="928256" crc="0f28a022" sha1="0141815d1354bae93d4fc74be336a209c9385988"/>
+		<rom name="Stadium Soccer (Tii)(1.0b)[Other].fpt" size="928256" crc="c0ea1e8f" sha1="69abb321047c69944d8aee93e6e4328ce7325205"/>
+		<rom name="Stadium Soccer (Tii)(1.1)[Other].fpt" size="928768" crc="191ace2c" sha1="8c07b8649aa47005890e8966796e9a7ad9591ee6"/>
+		<rom name="Stadium Soccer screenshot.jpg" size="131150" crc="a2027050" sha1="5c156f99de004054d174335a5be5dad62c8a73f5"/>
+	</machine>
+	<machine name="Street Racing">
+		<description>Street Racing</description>
+		<rom name="Street Racing (Jukecade Pinball)(1.0)[Flipperless].fpt" size="11936256" crc="023d71a9" sha1="9c3f3f92d7693511e82b875172f673564c80e035"/>
+		<rom name="Street Racing readme.txt" size="2064" crc="89dcd920" sha1="3c6afb63980e64d7347e1e70435ca9ecdddcc0af"/>
+		<rom name="Street Racing screenshot 1.jpg" size="122143" crc="2f586b2a" sha1="8abc7b990e5f6eb2a6a6f6342a56b985ec3cebf7"/>
+		<rom name="Street Racing screenshot 2.jpg" size="167029" crc="52a21188" sha1="b94c7a22045bd38cb5ffd63065b7901a7e191743"/>
+		<rom name="Street Racing screenshot 3.jpg" size="129549" crc="76ea427e" sha1="3305659e35c4018c3c295c2cace0d31055d95bd7"/>
+		<rom name="Street Racing screenshot 4.jpg" size="174066" crc="0d549c71" sha1="957c22285526b50523aaff9247dff8b9bebc97a1"/>
+		<rom name="Street Racing screenshot 5.jpg" size="153480" crc="dd36188e" sha1="cbd045c7c027737c613c4e99c0c6da95e1056936"/>
+	</machine>
+	<machine name="Table Hockey">
+		<description>Table Hockey</description>
+		<rom name="1.0\Table Hockey (MegaloDon)(1.0)[Other].fpt" size="283648" crc="2b6472a9" sha1="06a8bfa5466c5e3fd85688a4a7a38e4caedaf15d"/>
+		<rom name="1.0\TableHockey.fpl" size="256512" crc="6c2866ad" sha1="64f0383869db3bff608b0b4ed421545b38881231"/>
+		<rom name="1.1\Table Hockey (MegaloDon)(1.1)[Other].fpt" size="286720" crc="9c2477ea" sha1="f76269dc854327f0b09247457ba9ea76f00d28ce"/>
+		<rom name="1.1\TableHockey.fpl" size="355840" crc="fe9f9c01" sha1="9e59bdb6d83a80e0adaafbf4797f0a5af1bc36bc"/>
+		<rom name="1.3\Table Hockey (MegaloDon)(1.3)[Other].fpt" size="286720" crc="c51455e5" sha1="de0a84b7c4ab77f51aaad702aab7a67e1f745de4"/>
+		<rom name="1.3\TableHockey.fpl" size="354304" crc="285b9090" sha1="8dac030ad491cbae817e681efdd81662f60259ce"/>
+		<rom name="1.4\Table Hockey (MegaloDon)(1.4)[Other].fpt" size="282112" crc="84013aa1" sha1="3f301e1cd87d2f68451dfd2e170017efc3b06b1b"/>
+		<rom name="1.4\TableHockey.fpl" size="355840" crc="27d0379e" sha1="009ca54a9d53cfcf33fa079c845a9c73a0394892"/>
+		<rom name="1.5\Table Hockey (MegaloDon)(1.5)[Other].fpt" size="285696" crc="73b7b586" sha1="b82186465dc8d88bc18111ddbb2f3ecaafa8f546"/>
+		<rom name="1.5\TableHockey.fpl" size="355840" crc="27d0379e" sha1="009ca54a9d53cfcf33fa079c845a9c73a0394892"/>
+		<rom name="1.6\Table Hockey (MegaloDon)(1.6)[Other].fpt" size="285696" crc="53a25209" sha1="590b124b7287c8d1d21fac6c16ba32f88520e514"/>
+		<rom name="1.6\TableHockey.fpl" size="355840" crc="27d0379e" sha1="009ca54a9d53cfcf33fa079c845a9c73a0394892"/>
+		<rom name="Table Hockey screenshot.jpg" size="82034" crc="c278effa" sha1="94fa4cccaf59aebd4d2e6c17b497b30418cf0095"/>
+	</machine>
+	<machine name="TeaTime">
+		<description>TeaTime</description>
+		<rom name="TeaTime (Chaos)(1.0)[Jukebox table].fpt" size="152077824" crc="10d398d5" sha1="56709d27d10a6d35952b40b8adb56362f1cc73e7"/>
+		<rom name="TeaTime (Chaos)(1.0)[Music Mod by Faralos][Jukebox table].fpt" size="31005184" crc="4e36ed94" sha1="4c7765ef24cc696d05ea31706b719f01837e7423"/>
+	</machine>
+	<machine name="Very Challenging Game">
+		<description>Very Challenging Game</description>
+		<rom name="Very Challenging Game (Titanic4)(1.0).fpt" size="209920" crc="756fe108" sha1="0321f55e5be7592e1d8f7877703fbbfa5932e729"/>
+		<rom name="Very Challenging Game (Titanic4)(1.3).fpt" size="209920" crc="0dc44bf8" sha1="baa4da3148e3d994d4557c4e639876926bbae56a"/>
+		<rom name="Very Challenging Game screenshot.jpg" size="62233" crc="5f20a327" sha1="e71153a468de797ebec314173f58f2f5a62f50e6"/>
+	</machine>
+</datafile>

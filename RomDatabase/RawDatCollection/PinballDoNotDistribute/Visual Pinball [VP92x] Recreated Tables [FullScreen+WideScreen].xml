@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Visual Pinball [VP92x] Recreated Tables [FullScreen+WideScreen]</name>
+		<description>Visual Pinball [VP92x] Recreated Tables [FullScreen+WideScreen]</description>
+		<category>Visual Pinball [VP92x] Recreated Tables [FullScreen+WideScreen]</category>
+		<version>1.0</version>
+		<date>2020-01-01</date>
+		<author>Yori Yoshizuki</author>
+		<email>-insert email-</email>
+		<homepage>Yori Yoshizuki</homepage>
+		<url>https://yoshizuki.webs.com</url>
+		<comment>-insert comment-</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Flying Turns (Midway)(1964)">
+		<description>Flying Turns (Midway)(1964)</description>
+		<rom name="Flying Turns (Midway)(1964)(Rascal, Itchigo)(2.0)[VP920][FullScreen + dB2S Itchigo]\Flying Turns screenshot.jpg" size="202674" crc="666028c7" sha1="7010d59e4f0c6107d35f97de789f0fc80dad063c"/>
+		<rom name="Flying Turns (Midway)(1964)(Rascal, Itchigo)(2.0)[VP920][FullScreen + dB2S Itchigo]\Flying Turns.directb2s" size="3762766" crc="84f71cd7" sha1="11db3f2845261f2368fc7b0fe38b646e70eb43be"/>
+		<rom name="Flying Turns (Midway)(1964)(Rascal, Itchigo)(2.0)[VP920][FullScreen + dB2S Itchigo]\Flying Turns.vpt" size="92667904" crc="5f04e163" sha1="f00ad7c27c4d7b0c2d23bce32e1a7fc4c4a60e3c"/>
+	</machine>
+	<machine name="Hearts and Spades (Gottlieb)(1969)">
+		<description>Hearts and Spades (Gottlieb)(1969)</description>
+		<rom name="Heart and Spades flyer.jpg" size="1009331" crc="65f28e13" sha1="efb1450c0ec81c427343af205f25dad4751ede9c"/>
+		<rom name="Hearts and Spades (Gottlieb)(1969)(Fratazzo)[VP921][FullScreen + dB2s Fratazzo]\hearts_and_spades.directb2s" size="6028433" crc="373faa84" sha1="eaae18dd00a00fef435cd89ca55901a4d8cf91ce"/>
+		<rom name="Hearts and Spades (Gottlieb)(1969)(Fratazzo)[VP921][FullScreen + dB2s Fratazzo]\Hearts_and_Spades_FS_DB2S_LX100.vpt" size="16719872" crc="60b4c25e" sha1="c3a1e0695fff64d723abdd5ba69bcb201a5a956a"/>
+		<rom name="Hearts and Spades (Gottlieb)(1969)(Fratazzo)[VP921][FullScreen + dB2s Fratazzo]\Hearts_and_Spades_FS_DB2S_LX100a.vpt" size="16719872" crc="26660d09" sha1="08ca4a99c35836c03454f589641f56f0021a9c55"/>
+		<rom name="Hearts and Spades (Gottlieb)(1969)(Fratazzo)[VP921][FullScreen + dB2s Fratazzo]\Hearts_and_Spades_FS_DB2S_LX101.vpt" size="16891904" crc="5e4e08d6" sha1="09c15fead122a3254759ee334c449ca4784f9052"/>
+		<rom name="Hearts and Spades screenshot.jpg" size="71260" crc="6f90b54d" sha1="60135edc4e3ff106fa97077ca314deba2fd29470"/>
+	</machine>
+	<machine name="Hot Line (Williams)(1966)">
+		<description>Hot Line (Williams)(1966)</description>
+		<rom name="Hot Line (Williams)(1966)(pbecker1946)(1.0)[VP921][FullScreen + dB2S Itchigo v1.0]\Hot Line screenshot.jpg" size="510291" crc="c158b62a" sha1="fae1084e1331f57b66c92eacf81741d2f6a830fb"/>
+		<rom name="Hot Line (Williams)(1966)(pbecker1946)(1.0)[VP921][FullScreen + dB2S Itchigo v1.0]\Hot Line.directb2s" size="2543704" crc="5de0229b" sha1="6fadd9e5b1dbffcac5b1259cdb637658b194ef9b"/>
+		<rom name="Hot Line (Williams)(1966)(pbecker1946)(1.0)[VP921][FullScreen + dB2S Itchigo v1.0]\Hot Line.vpt" size="21995520" crc="f64811bf" sha1="9da268f5a681b458756a87411b8b8d2f62e4301c"/>
+	</machine>
+	<machine name="Jack in the Box (Gottlieb)(1973)">
+		<description>Jack in the Box (Gottlieb)(1973)</description>
+		<rom name="Jack in the Box (Gottlieb)(1973)(Widescreen)(1.0)[VP920][Four players].vpt" size="9342976" crc="dd245603" sha1="9bec9cf4a7cf8c45cb43e3609e1103e6d9f45f3a"/>
+		<rom name="Jack in the Box screenshot.png" size="1737879" crc="ae6434bb" sha1="b9b4ed6735b2e8b5c6588bda8cc68b2797773119"/>
+	</machine>
+</datafile>

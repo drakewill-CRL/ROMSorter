@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Visual Pinball [VP99x] Recreated Tables [Flipperless]</name>
+		<description>Visual Pinball [VP99x] Recreated Tables [Flipperless]</description>
+		<category>Visual Pinball [VP99x] Recreated Tables [Flipperless]</category>
+		<version>1.0</version>
+		<date>2020-01-01</date>
+		<author>Yori Yoshizuki</author>
+		<email>-insert email-</email>
+		<homepage>Yori Yoshizuki</homepage>
+		<url>https://yoshizuki.webs.com</url>
+		<comment>-insert comment-</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Alle Neune (NSM)(1976)">
+		<description>Alle Neune (NSM)(1976)</description>
+		<rom name="Alle Neune (NSM)(1976)(STAT)(1.0)[VP990][Bowling Wall Machine].vpt" size="4665344" crc="f6c3763f" sha1="e36541bd2b0a988787f4245f54833eed119c88c0"/>
+		<rom name="Alle Neune screenshot.jpg" size="145772" crc="249f327a" sha1="425c32ff5d45587e9807cd454147aa4c4c18712e"/>
+	</machine>
+	<machine name="Battle (Bally)(1935)(Romolo2002)(1.0)[VP995][Flipperless]">
+		<description>Battle (Bally)(1935)(Romolo2002)(1.0)[VP995][Flipperless]</description>
+		<rom name="Battle (Bally 1935)Vp995.vpt" size="2441216" crc="d595139c" sha1="e4716e84d587b9638c149112974c7ed9d321aa07"/>
+		<rom name="Battle Bally 1935Vp995.jpg" size="107230" crc="2ea8408b" sha1="2d7a94d3a71485cb0e053810a37083833aef3102"/>
+	</machine>
+	<machine name="Ice Cold Beer (Taito)(1983)">
+		<description>Ice Cold Beer (Taito)(1983)</description>
+		<rom name="Ice Cold Beer (Taito)(1983)(mfugemann)(1.0)[VP990][Ball Bearing Rolling Game].vpt" size="11227136" crc="8d2e73d8" sha1="731bedd2fc38f3643796047f9e4f86d39aa63616"/>
+		<rom name="Ice Cold Beer (Taito)(1983)(mfugemann)(1.1)[VP990][Ball Bearing Rolling Game].vpt" size="10276864" crc="27ce7237" sha1="e0940493f25e180e58b279e38b313b187caf1980"/>
+		<rom name="Ice Cold Beer (Taito)(1983)(mfugemann)(1.2)[VP990][Ball Bearing Rolling Game].vpt" size="10276864" crc="e9f0e3d9" sha1="18118144f159413704c5b18a5f10c4a799a7ee89"/>
+		<rom name="Ice Cold Beer screenshot.png" size="1533654" crc="ba2f43c3" sha1="0a73335e720fba845b7a9c519d0f136ae162a2b5"/>
+	</machine>
+	<machine name="King Pin (Chicago Coin)(1951)(Romolo2002)(1.0)[VP995][Flipperless]">
+		<description>King Pin (Chicago Coin)(1951)(Romolo2002)(1.0)[VP995][Flipperless]</description>
+		<rom name="_King Pin Chicago Coin 1951.jpg" size="118863" crc="3d1714f3" sha1="3789071ebf935e189eaba6484c92f495b9c1c43f"/>
+		<rom name="King Pin (Chicago Coin 1951).vpt" size="7618560" crc="e8fd18cc" sha1="7a082b2fa5976bd5f14e2ec56be21bc9966aec30"/>
+	</machine>
+	<machine name="Music Mite (Williams)(1951)(romolo2002)(1.0)[VP995][Jukebox]">
+		<description>Music Mite (Williams)(1951)(romolo2002)(1.0)[VP995][Jukebox]</description>
+		<rom name="Music Mite (WILLIAMS 1951)Vp995.jpg" size="103239" crc="5677c3b4" sha1="7f76b084e6e2b93cd931e1c20513fe021c9b5fcc"/>
+		<rom name="Music Mite (WILLIAMS 1951)Vp995.vpt" size="51142656" crc="8952c24f" sha1="934a1f274e4f8321d310a71c45b102de7a541521"/>
+		<rom name="Music Mite WILLIAMS 1951Vp995.jpg" size="103239" crc="5677c3b4" sha1="7f76b084e6e2b93cd931e1c20513fe021c9b5fcc"/>
+	</machine>
+	<machine name="Zeke's Peak (Taito)(1984)">
+		<description>Zeke's Peak (Taito)(1984)</description>
+		<rom name="Zeke's Peak (1.4) readme.txt" size="1366" crc="77364369" sha1="16997adf65940ba2face9a5858b2796fecdd634b"/>
+		<rom name="Zeke's Peak (Taito)(1984)(mfuegemann)(1.0)[VP990][Bingo].vpt" size="15290368" crc="f6cbbf4d" sha1="8e93ebbac23634cd4de1f841e13e9f1087d3f5c6"/>
+		<rom name="Zeke's Peak (Taito)(1984)(mfuegemann)(1.1)[VP990][Bingo].vpt" size="15601664" crc="15fb44e3" sha1="c486f2bb4e455b2caa4d79989accf32ad616b70f"/>
+		<rom name="Zeke's Peak (Taito)(1984)(mfuegemann)(1.2)[VP990][Bingo].vpt" size="17072128" crc="94a80e32" sha1="7baf2339c467d312aedfb2c141e154efac3b5386"/>
+		<rom name="Zeke's Peak (Taito)(1984)(mfuegemann)(1.3)[VP990][Bingo].vpt" size="17072128" crc="7b8db7eb" sha1="4fc05824fc98d030d69e0ef6d8e7c356a964e34e"/>
+		<rom name="Zeke's Peak (Taito)(1984)(mfuegemann)(1.4)[VP990][Bingo].vpt" size="17072128" crc="0f27b0fc" sha1="3329c9220b01ee40f402fbef00407ae8df48f85c"/>
+		<rom name="Zeke's Peak screenshot.jpg" size="542732" crc="e979d7f4" sha1="761be004e96c51e63df0121b7f756c643efd4380"/>
+	</machine>
+</datafile>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega Mega-CD &amp; Sega CD - CD - Applications</name>
+		<description>Sega Mega-CD &amp; Sega CD - CD - Applications (TOSEC-v2014-07-01)</description>
+		<category>TOSEC-ISO</category>
+		<version>2014-07-01</version>
+		<author>TOSEC-ISO: Trurip</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="My Paint - The Animated Paint Program! (1994)(Saddleback Graphics - Wayforward)(US)">
+		<description>My Paint - The Animated Paint Program! (1994)(Saddleback Graphics - Wayforward)(US)</description>
+		<rom name="My Paint - The Animated Paint Program! (1994)(Saddleback Graphics - Wayforward)(US).ccd" size="2200" crc="875860ea" md5="10a674734693eb53c6357bbba348bea6" sha1="25aaa211701aab9f12eb4298ed295b517570dda8"/>
+		<rom name="My Paint - The Animated Paint Program! (1994)(Saddleback Graphics - Wayforward)(US).img" size="618129120" crc="230b6eb4" md5="2882efcf37028bb0ec08127db027d69e" sha1="cbed6edca283b529a2b7d59941b75bb79be8fd76"/>
+		<rom name="My Paint - The Animated Paint Program! (1994)(Saddleback Graphics - Wayforward)(US).sub" size="25229760" crc="a5347f81" md5="b2000d87a48dc94f64dfcee04d873421" sha1="c8b900494a304afd98070fd650e4449336f06bef"/>
+	</game>
+</datafile>

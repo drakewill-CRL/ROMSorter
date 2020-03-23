@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sinclair QL - Applications</name>
+		<description>Sinclair QL - Applications (TOSEC-v2011-09-24)</description>
+		<category>TOSEC</category>
+		<version>2011-09-24</version>
+		<author>Xtale - Grendel - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Colour (1986)(Salmi, Timo)">
+		<description>Colour (1986)(Salmi, Timo)</description>
+		<rom name="Colour (1986)(Salmi, Timo).bas" size="4861" crc="ca16ee0e" md5="1b2d903ba8c9a81316cc452ccb87b26f" sha1="3904e02e6ec12b7411fed674642324f62c86ed6c"/>
+	</game>
+	<game name="Dense v2.27 (1992)(Salmi, Timo)">
+		<description>Dense v2.27 (1992)(Salmi, Timo)</description>
+		<rom name="Dense v2.27 (1992)(Salmi, Timo).bas" size="8978" crc="90c7d5bb" md5="0aeb2e0e19e9b1448d514de8b4b40bb3" sha1="b08810c729e14f746b39203e7bd45f4336827beb"/>
+	</game>
+	<game name="Draw (1992)(Salmi, Timo)">
+		<description>Draw (1992)(Salmi, Timo)</description>
+		<rom name="Draw (1992)(Salmi, Timo).bas" size="2935" crc="7720d7e0" md5="31220e230fcc396a271149f15b08f75d" sha1="86d85fdc4d04a547821ddbf9991af4df31f75bb9"/>
+	</game>
+	<game name="Format (1992)(Salmi, Timo)">
+		<description>Format (1992)(Salmi, Timo)</description>
+		<rom name="Format (1992)(Salmi, Timo).bas" size="4146" crc="790ffe9c" md5="7296fc7827038dfe810ff54f34410287" sha1="bc00cc8bee49c83e23585f2acffa185f366345d8"/>
+	</game>
+	<game name="JSFORMAT v2.3 (1987)(Salmi, Timo)">
+		<description>JSFORMAT v2.3 (1987)(Salmi, Timo)</description>
+		<rom name="JSFORMAT v2.3 (1987)(Salmi, Timo).bas" size="5493" crc="e59011ed" md5="ffcbf2aa6c9e7f0ab3f0fb241a400d90" sha1="4927047553127db0fa717607eb836b25de024d4d"/>
+	</game>
+	<game name="Jupiter (19xx)(-)">
+		<description>Jupiter (19xx)(-)</description>
+		<rom name="Jupiter (19xx)(-).bas" size="1213" crc="7c48501b" md5="64ecd437c8a97ad23f7807d4d2a49663" sha1="05c1b29b8b91493c7e1dd7f3b4958c949fe6ee94"/>
+	</game>
+	<game name="Memory v1.1 (1992)(Salmi, Timo)">
+		<description>Memory v1.1 (1992)(Salmi, Timo)</description>
+		<rom name="Memory v1.1 (1992)(Salmi, Timo).bas" size="1890" crc="e8280770" md5="48162c9e38b8985083be3dad909ccd89" sha1="fb7cc05b32494cf1b97f3a0e4b6aed1dc6a6a6af"/>
+	</game>
+	<game name="Menuboot v1.45 (1992)(Salmi, Timo)">
+		<description>Menuboot v1.45 (1992)(Salmi, Timo)</description>
+		<rom name="Menuboot v1.45 (1992)(Salmi, Timo).bas" size="5203" crc="d09fe72d" md5="ec9e33bc929b7dd4fc24543a50782ac3" sha1="d75d94e51a82bfed67543d212f1dc84264e25e78"/>
+	</game>
+	<game name="Piano (19xx)(-)">
+		<description>Piano (19xx)(-)</description>
+		<rom name="Piano (19xx)(-).bas" size="2835" crc="757bab3f" md5="0b7bc84aac42f03191de0632f597d014" sha1="9d7f2b9b2b6ada377ae2659b9c5fcec01964babb"/>
+	</game>
+	<game name="Plot (19xx)(-)">
+		<description>Plot (19xx)(-)</description>
+		<rom name="Plot (19xx)(-).bas" size="2288" crc="ff5538b8" md5="33f09b72edd87ccc1f71d89b0275ad48" sha1="1f330e959cf8ac869bf97a1698d62538746cc5d9"/>
+	</game>
+	<game name="RCOPY v2.1 (1987)(Salmi, Timo)">
+		<description>RCOPY v2.1 (1987)(Salmi, Timo)</description>
+		<rom name="RCOPY v2.1 (1987)(Salmi, Timo).bas" size="3023" crc="a61b6223" md5="51db8c32ad5b3bda04fcbcc9b2f25395" sha1="06c9fdd66356fe61dc802e4a0fec0c6833166a5f"/>
+	</game>
+	<game name="Rename v1.3 (1992)(Salmi, Timo)">
+		<description>Rename v1.3 (1992)(Salmi, Timo)</description>
+		<rom name="Rename v1.3 (1992)(Salmi, Timo).bas" size="4983" crc="904699b6" md5="2e49b1f882c729c5cb61accb164f546b" sha1="0e16321c776f2e5a5c0c28e776e7e81c40e10c14"/>
+	</game>
+	<game name="Replace v1.1 (1992)(Salmi, Timo)">
+		<description>Replace v1.1 (1992)(Salmi, Timo)</description>
+		<rom name="Replace v1.1 (1992)(Salmi, Timo).bas" size="8032" crc="7d3ce7c3" md5="042633cb3bd84d77d4516c79566e3b07" sha1="757bb465cd60abe73a23c0654b4ab50cd92a936a"/>
+	</game>
+	<game name="RJOB v1.1 (1987)(Salmi, Timo)">
+		<description>RJOB v1.1 (1987)(Salmi, Timo)</description>
+		<rom name="RJOB v1.1 (1987)(Salmi, Timo).bas" size="3592" crc="43f01878" md5="6103ae73e815550ad86c8707ef4f4e83" sha1="5a3b24eae3cde0fe43a7e6fc532679b93d7c95e9"/>
+	</game>
+	<game name="Statistics Menu (1989)(Salmi, Timo)">
+		<description>Statistics Menu (1989)(Salmi, Timo)</description>
+		<rom name="Statistics Menu (1989)(Salmi, Timo).bas" size="3213" crc="1fc21633" md5="05dfcbf561595b8c123d89ec98037f9b" sha1="9063211ecd6a44846991c6818fed6a7fbc29589a"/>
+	</game>
+</datafile>

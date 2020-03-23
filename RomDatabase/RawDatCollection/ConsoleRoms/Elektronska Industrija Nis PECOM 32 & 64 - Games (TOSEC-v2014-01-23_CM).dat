@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Elektronska Industrija Nis PECOM 32 &amp; 64 - Games</name>
+		<description>Elektronska Industrija Nis PECOM 32 &amp; 64 - Games (TOSEC-v2014-01-23)</description>
+		<category>TOSEC</category>
+		<version>2014-01-23</version>
+		<author>TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Lavirint (1987)(Ei Racunari)(YU)">
+		<description>Lavirint (1987)(Ei Racunari)(YU)</description>
+		<rom name="Lavirint (1987)(Ei Racunari)(YU).wav" size="13222360" crc="9f0aa1b4" md5="1c7fa8cf6496095f3993c1de0041121d" sha1="854e9bbe45e42e09c7e57b561b311a98ff078661"/>
+	</game>
+	<game name="Lopov i Bankar (1985)(Ei Racunari)(YU)">
+		<description>Lopov i Bankar (1985)(Ei Racunari)(YU)</description>
+		<rom name="Lopov i Bankar (1985)(Ei Racunari)(YU).wav" size="7996248" crc="e02b73bc" md5="5cc768dd8675b645b0d882594163b1bd" sha1="6b817af8638a94aa7f7c395467237adf3e226d12"/>
+	</game>
+	<game name="Osvajaci Svemira (1985)(Ei Racunari)(YU)">
+		<description>Osvajaci Svemira (1985)(Ei Racunari)(YU)</description>
+		<rom name="Osvajaci Svemira (1985)(Ei Racunari)(YU).wav" size="19538520" crc="a9000525" md5="68215817d3f1dc4bd08c4c8c9c8dd18a" sha1="6758cac948d3fd1400e4f90dd9c1d281dfd42d0e"/>
+	</game>
+	<game name="Pecom Ratuje (1985)(Ei Racunari)(YU)">
+		<description>Pecom Ratuje (1985)(Ei Racunari)(YU)</description>
+		<rom name="Pecom Ratuje (1985)(Ei Racunari)(YU).wav" size="7595800" crc="9837c657" md5="06a2fcdd61e1940aa015f59ee17ca653" sha1="d481df682df097de3e9b87f28d0be47939e87098"/>
+	</game>
+	<game name="Sljive (1986)(Ei Racunari)(YU)">
+		<description>Sljive (1986)(Ei Racunari)(YU)</description>
+		<rom name="Sljive (1986)(Ei Racunari)(YU).wav" size="7898072" crc="1c5d5a07" md5="b57df42a6b0a7b21f482dc94e60692b5" sha1="d63a217571ee0e5216708380844f028875533c4b"/>
+	</game>
+	<game name="Suvi Ajnc (1986)(Ei Racunari)(YU)">
+		<description>Suvi Ajnc (1986)(Ei Racunari)(YU)</description>
+		<rom name="Suvi Ajnc (1986)(Ei Racunari)(YU).wav" size="11266136" crc="c922dc59" md5="1783bcc5b4d36806b58bef46b688694a" sha1="8679f34599d6929ce969d3ff16c007358924bd80"/>
+	</game>
+	<game name="Trka Konja (198x)(-)(YU)">
+		<description>Trka Konja (198x)(-)(YU)</description>
+		<rom name="Trka Konja (198x)(-)(YU).wav" size="6658904" crc="f388087b" md5="6c344b0f70fb16d90347ff35c92cd70b" sha1="5dfc064b154a06409e2f57832318097756384ba3"/>
+	</game>
+</datafile>

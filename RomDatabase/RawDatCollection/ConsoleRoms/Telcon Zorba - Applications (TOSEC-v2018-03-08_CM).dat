@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Telcon Zorba - Applications</name>
+		<description>Telcon Zorba - Applications (TOSEC-v2018-03-08)</description>
+		<category>TOSEC</category>
+		<version>2018-03-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Compat v3.2 (1985-06-05)(Mycroft Labs)(Application Disk)">
+		<description>Compat v3.2 (1985-06-05)(Mycroft Labs)(Application Disk)</description>
+		<rom name="Compat v3.2 (1985-06-05)(Mycroft Labs)(Application Disk).td0" size="78499" crc="19a9d6a9" md5="e95c342caacbe0319a2b7d910209650b" sha1="e496a9bdfa171b742425f11423c101abce8c9e85"/>
+	</game>
+	<game name="dBaseII v2.41 (1982-02-15)(Ashton-Tate)(Disk 1 of 5)(Application Disk)">
+		<description>dBaseII v2.41 (1982-02-15)(Ashton-Tate)(Disk 1 of 5)(Application Disk)</description>
+		<rom name="dBaseII v2.41 (1982-02-15)(Ashton-Tate)(Disk 1 of 5)(Application Disk).td0" size="117176" crc="4d51f8b4" md5="03bfd9711c5a297dc816d23964f31606" sha1="617169d9e1d2e10460a3966968701ccd44c147f2"/>
+	</game>
+	<game name="dBaseII v2.41 (1982-02-15)(Ashton-Tate)(Disk 2 of 5)(Sample Disk 1)">
+		<description>dBaseII v2.41 (1982-02-15)(Ashton-Tate)(Disk 2 of 5)(Sample Disk 1)</description>
+		<rom name="dBaseII v2.41 (1982-02-15)(Ashton-Tate)(Disk 2 of 5)(Sample Disk 1).td0" size="94274" crc="3f0b6f59" md5="f653f349e37aa90330dbd050bc0748af" sha1="4af4aaee1f631ae1be0be11f2fc2131cf0bfbd77"/>
+	</game>
+	<game name="dBaseII v2.41 (1982-02-15)(Ashton-Tate)(Disk 3 of 5)(Sample Disk 2)">
+		<description>dBaseII v2.41 (1982-02-15)(Ashton-Tate)(Disk 3 of 5)(Sample Disk 2)</description>
+		<rom name="dBaseII v2.41 (1982-02-15)(Ashton-Tate)(Disk 3 of 5)(Sample Disk 2).td0" size="22058" crc="cfc04630" md5="b31b015c2a34c76bf266814020f04ab5" sha1="c988d1b330d1cdecf25bd63625a6caae20b53393"/>
+	</game>
+	<game name="dBaseII v2.41 (1982-02-15)(Ashton-Tate)(Disk 4 of 5)(Sample Disk 3)">
+		<description>dBaseII v2.41 (1982-02-15)(Ashton-Tate)(Disk 4 of 5)(Sample Disk 3)</description>
+		<rom name="dBaseII v2.41 (1982-02-15)(Ashton-Tate)(Disk 4 of 5)(Sample Disk 3).td0" size="22056" crc="f54b6f10" md5="b1f666956d0313d823b2552b1be021d8" sha1="769b7abd592431cb260f72ab43300fb23ea5ec40"/>
+	</game>
+	<game name="dBaseII v2.41 (1982-02-15)(Ashton-Tate)(Disk 5 of 5)(Sample Disk 4)">
+		<description>dBaseII v2.41 (1982-02-15)(Ashton-Tate)(Disk 5 of 5)(Sample Disk 4)</description>
+		<rom name="dBaseII v2.41 (1982-02-15)(Ashton-Tate)(Disk 5 of 5)(Sample Disk 4).td0" size="29424" crc="fa4531f8" md5="c7b865a4bfab063fc15876c0c0c1c886" sha1="9791a692446540bcf57241e798cf7bd0d8a30ce8"/>
+	</game>
+	<game name="Mite v3.0 (1985-04-18)(Mycroft Labs)">
+		<description>Mite v3.0 (1985-04-18)(Mycroft Labs)</description>
+		<rom name="Mite v3.0 (1985-04-18)(Mycroft Labs).td0" size="161505" crc="4a1e5dec" md5="1c19e4ce8505fa53ca68a931e51ce8f8" sha1="1bd24b9481047a8c7db93c56fa2fd56b68e0aa49"/>
+	</game>
+</datafile>

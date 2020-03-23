@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Matra Hachette Alice 32 - Games - [WAV]</name>
+		<description>Matra Hachette Alice 32 - Games - [WAV] (TOSEC-v2014-04-11)</description>
+		<category>TOSEC</category>
+		<version>2014-04-11</version>
+		<author>Cid</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Breakout (198x)(-)">
+		<description>Breakout (198x)(-)</description>
+		<rom name="Breakout (198x)(-).wav" size="583548" crc="6b0a7b20" md5="c42d01544ffc8af6bcf0e573e5002c31" sha1="552f18dcba7c252a6de6e2f24df3ca989662ceeb"/>
+	</game>
+	<game name="Eggs (198x)(-)">
+		<description>Eggs (198x)(-)</description>
+		<rom name="Eggs (198x)(-).wav" size="641964" crc="c89fc004" md5="5754d8ca269efcd1396c59d5abb64a66" sha1="717352d35bf82280cdffd507c377c37d3c3e203f"/>
+	</game>
+	<game name="Horse (198x)(-)">
+		<description>Horse (198x)(-)</description>
+		<rom name="Horse (198x)(-).wav" size="492132" crc="c4b00021" md5="bca451c2c8552c4d0ece390d0f53d6fb" sha1="b4c21dbdd4312cdd9382d1cd6d3ac75176da6307"/>
+	</game>
+	<game name="Lander (198x)(-)">
+		<description>Lander (198x)(-)</description>
+		<rom name="Lander (198x)(-).wav" size="367700" crc="e575c31a" md5="9fbfb7a612c038a566b54bf5638a830a" sha1="4bc5b280075e2d4fd5083795d2a6534e53d01b3d"/>
+	</game>
+	<game name="Pong (198x)(-)">
+		<description>Pong (198x)(-)</description>
+		<rom name="Pong (198x)(-).wav" size="462116" crc="0f9a954c" md5="fa4b628c2b216aadbde9438393c2899e" sha1="d3abd76385f31aacd14f950166904731e6ecc178"/>
+	</game>
+</datafile>

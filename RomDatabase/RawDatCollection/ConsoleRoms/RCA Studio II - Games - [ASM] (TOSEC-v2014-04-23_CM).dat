@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>RCA Studio II - Games - [ASM]</name>
+		<description>RCA Studio II - Games - [ASM] (TOSEC-v2014-04-23)</description>
+		<category>TOSEC</category>
+		<version>2014-04-23</version>
+		<author>Gnomula - Grendel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Combat (2000)(Paul Robson)">
+		<description>Combat (2000)(Paul Robson)</description>
+		<rom name="Combat (2000)(Paul Robson).asm" size="31195" crc="92508ec6" md5="eccfdf8439b2188f63107f412da733ce" sha1="31adf42d2ac29b6dae7f2d89232b6cab74381161"/>
+	</game>
+	<game name="Hockey (2000)(Paul Robson)">
+		<description>Hockey (2000)(Paul Robson)</description>
+		<rom name="Hockey (2000)(Paul Robson).asm" size="24578" crc="75428ea6" md5="1c916bfbca1d9dc5a89d189d38902db7" sha1="a2e486cca2ac0f173aecd2ef35c7f79b9ceb00b3"/>
+	</game>
+	<game name="Space Invaders (2000)(Paul Robson)">
+		<description>Space Invaders (2000)(Paul Robson)</description>
+		<rom name="Space Invaders (2000)(Paul Robson).asm" size="33490" crc="33c74b00" md5="78ebe6f5333e25738b606121bb9d835e" sha1="453c7868abc99bc0fc2f3d1e0cdb3209cd17f083"/>
+	</game>
+</datafile>

@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Texas Instruments TI-80 - Applications</name>
+		<description>Texas Instruments TI-80 - Applications (TOSEC-v2014-06-30)</description>
+		<category>TOSEC</category>
+		<version>2014-06-30</version>
+		<author>Diaboł</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Aformel (1998)(Cerezo, Jacques)">
+		<description>Aformel (1998)(Cerezo, Jacques)</description>
+		<rom name="aformel.80" size="1805" crc="03f197e0" md5="bb2208a6137b7a835ad38c853f0d18f9" sha1="8bc7558734946f53a1477c5f52d23244deb5d6b8"/>
+	</game>
+	<game name="Angle of Refraction v1.0 (1998)(Bergman, Daniel)">
+		<description>Angle of Refraction v1.0 (1998)(Bergman, Daniel)</description>
+		<rom name="refr.80" size="1027" crc="92af477f" md5="480f97f820e6a895a71301af52b7f5e4" sha1="52a9d0a590e80ca6508d8895e50090b675717564"/>
+	</game>
+	<game name="Any Root Finder (2003)(White, William)">
+		<description>Any Root Finder (2003)(White, William)</description>
+		<rom name="powroot_80_81.txt" size="246" crc="30f5ac66" md5="6797146e35c953b427603026eeec9517" sha1="169b88156ef6ba6907d724ab7a74be2a84651fe7"/>
+		<rom name="root1.GIF" size="2154" crc="d308ac8c" md5="2d8b2168037ba2e02efc40d4d39fd94b" sha1="45efbfd84c8a7411b222e9201dc3914d8ef2d8e9"/>
+		<rom name="root2.GIF" size="2414" crc="ce9311b1" md5="b4f3bd3515ce409060e905e59936ce3a" sha1="16081933825bef9650a10b520f912f1f89dc5b26"/>
+	</game>
+	<game name="Area Under a Normal Curve (1998)(Jaklitsch, Dave)">
+		<description>Area Under a Normal Curve (1998)(Jaklitsch, Dave)</description>
+		<rom name="normal.80" size="2007" crc="191b5cf3" md5="17502a54d1bdf94641910003f48f81f4" sha1="011e5b707eb13472188a424594970ddb2d03e8e7"/>
+	</game>
+	<game name="BadMath v1.0 (2002)(Gannon, Joey)">
+		<description>BadMath v1.0 (2002)(Gannon, Joey)</description>
+		<rom name="badmath.80" size="617" crc="d9618fc8" md5="8731f95c448190fef6bc3350b41ac9a6" sha1="1d18db63912648dc5eb4226634691529a867e133"/>
+	</game>
+	<game name="Binary to Decimal Converter (1998)(Mrmats)">
+		<description>Binary to Decimal Converter (1998)(Mrmats)</description>
+		<rom name="bin2dec.80" size="362" crc="e2b5e9a6" md5="afedf5b6816cb043967a0a1a3037082b" sha1="907726845c700d67eaba164d0bf764640173a921"/>
+	</game>
+	<game name="Binomial Probability (1996)(Madsen, Andreas C.)">
+		<description>Binomial Probability (1996)(Madsen, Andreas C.)</description>
+		<rom name="binom.80" size="1043" crc="7d09f275" md5="efb04895095e6c28b072d0e646a72d01" sha1="ff420e469e976685ba32d59795a1291e76413d68"/>
+	</game>
+	<game name="Boyle's Law Solver (2003)(White, William)">
+		<description>Boyle's Law Solver (2003)(White, William)</description>
+		<rom name="BOYLE68K.GIF" size="21140" crc="d9a5cdbe" md5="511fd0096e561750f3415c0bd15fe4c7" sha1="708d31d5951aae559da9925a531103499387678d"/>
+		<rom name="BOYLE83.GIF" size="3437" crc="182c86ed" md5="124d2044127ea2339103aa60262897c4" sha1="f332931a50fc1aefa35d9b2896ff51fff2db6bb6"/>
+		<rom name="boylelaw_80_81.txt" size="592" crc="0a372fd2" md5="c0438208f03170e07c106d64749ae766" sha1="4a73a0f4ca5bd447e189966553f7e95b8539068d"/>
+	</game>
+	<game name="Chronometer (1999)(Roux, Guilhem)">
+		<description>Chronometer (1999)(Roux, Guilhem)</description>
+		<rom name="chrono80.txt" size="343" crc="0c837918" md5="76a4cffb5a71ddab15fea643cf15ca19" sha1="406580f44cdfbec704317fc9aafdbe8d292f8285"/>
+	</game>
+	<game name="Circle v1.1 (1998)(Bergman, Daniel)">
+		<description>Circle v1.1 (1998)(Bergman, Daniel)</description>
+		<rom name="circle.80" size="949" crc="c7a08c3f" md5="64eb492f8c8981b0d39fab1981d0ead2" sha1="54d490a383463321d1e91614e93d877b32e1b587"/>
+	</game>
+	<game name="Clock! (1999)(Pratt, Tom)">
+		<description>Clock! (1999)(Pratt, Tom)</description>
+		<rom name="Clock.80" size="1137" crc="ef140921" md5="2f61870d8a115c79bf603118d365fe65" sha1="dc13f4e81c7fb9fa74b601c3d7126305b5c20910"/>
+		<rom name="readme.txt" size="37" crc="6d4805ea" md5="b5ade8dd582de5571cd6a214ec567c91" sha1="e3767c82e295e38c02ae74504f4f8d354f00a1a3"/>
+	</game>
+	<game name="Coordinates v2.0 (1998)(Bergman, Daniel)">
+		<description>Coordinates v2.0 (1998)(Bergman, Daniel)</description>
+		<rom name="coord.80" size="836" crc="3cbe2589" md5="1d5d365bfff1849e971aaf63f916a0ab" sha1="371b25ebe61de9d141185f9eeec0624b1d1b3e29"/>
+	</game>
+	<game name="Counting (1998)(Jaklitsch, Dave)">
+		<description>Counting (1998)(Jaklitsch, Dave)</description>
+		<rom name="count.80" size="847" crc="799b20b0" md5="91167236dd7415b00898eb49e7489bf6" sha1="03736ad80394a833df79f36f335f213856b631ae"/>
+	</game>
+	<game name="Critical Energy (2003)(Wiley, Neal)">
+		<description>Critical Energy (2003)(Wiley, Neal)</description>
+		<rom name="fission.80.txt" size="760" crc="73c0d6d5" md5="3dbc3e5320cc103e6e7b734469938122" sha1="2588beed7f344dc95d164390b0695974bc1655d6"/>
+	</game>
+	<game name="D. JacKaL's Distance Formula (1998)(Jaklitsch, Dave)">
+		<description>D. JacKaL's Distance Formula (1998)(Jaklitsch, Dave)</description>
+		<rom name="dstform.80" size="772" crc="e550833d" md5="892624b591e4032bdbfafc07789bb04f" sha1="f28772b56919cbf77e0e8e7882f24ab8073a7fda"/>
+	</game>
+	<game name="D. JacKaL's Matrices (1998)(Jaklitsch, Dave)">
+		<description>D. JacKaL's Matrices (1998)(Jaklitsch, Dave)</description>
+		<rom name="matrix.80" size="2819" crc="195910e4" md5="e7c576ce324454dd0ecfba04f245f6a2" sha1="880b287f56352641eb5eab7478778860720d78c0"/>
+	</game>
+	<game name="D. JacKaL's Newton's Method (1998)(Jaklitsch, Dave)">
+		<description>D. JacKaL's Newton's Method (1998)(Jaklitsch, Dave)</description>
+		<rom name="newton.80" size="1166" crc="c9e355da" md5="b297c5f9192001b12da273a59836d089" sha1="d1317121321b334fecad3db66d774e27e64a8c0b"/>
+	</game>
+	<game name="D. JacKaL's Pythagorean Program (1998)(Jaklitsch, Dave)">
+		<description>D. JacKaL's Pythagorean Program (1998)(Jaklitsch, Dave)</description>
+		<rom name="pythag2.80" size="808" crc="09fb1edf" md5="32168872b057316757b4ebd25b0a9fad" sha1="2c8957109d5f64809dfa49acf51c3126a23e2d3f"/>
+	</game>
+	<game name="D. JacKaL's Quadratic Equation (1998)(Jaklitsch, Dave)">
+		<description>D. JacKaL's Quadratic Equation (1998)(Jaklitsch, Dave)</description>
+		<rom name="quad.80" size="873" crc="6278897f" md5="cfb8bf5d9cec2dc5a365f756ea29ed4f" sha1="64295edfd963b3c9b9e78f142cf76fefea44fe3a"/>
+	</game>
+	<game name="D. JacKaL's Temperature Converter (1998)(Jaklitsch, Dave)">
+		<description>D. JacKaL's Temperature Converter (1998)(Jaklitsch, Dave)</description>
+		<rom name="tempcon.80" size="1391" crc="47ee5181" md5="f7b083eef0bbc8d21b157f25376ec3eb" sha1="c6a5371bf68fe97ad02b1aa572b4d8d12589368e"/>
+	</game>
+	<game name="D0S Command v1.0 (2001)(Meunier, Alain)">
+		<description>D0S Command v1.0 (2001)(Meunier, Alain)</description>
+		<rom name="DOS Command - readme.txt" size="756" crc="ec19ccbe" md5="5f18ee80dfd8140533d7df3911597151" sha1="c1a550c6af8e7e1fce7e34e4995a2ce236f88b40"/>
+		<rom name="DOS Command 1.0 .80" size="1831" crc="1d2e6dcb" md5="3fcf34bbeb3c18fd4b9bda8ef204af12" sha1="5436313086f184b3d354ec949ae1fd3be4cef044"/>
+	</game>
+	<game name="Forces v1.2 (1998)(Bergman, Daniel)">
+		<description>Forces v1.2 (1998)(Bergman, Daniel)</description>
+		<rom name="forces.80" size="862" crc="b16586ae" md5="9b56f8014b2003b278502df3d9737a7b" sha1="333b8ea505b7f60fe2125ab2ecbec8bdc802cbbb"/>
+	</game>
+	<game name="Golden Ratio (2006)(White, William)">
+		<description>Golden Ratio (2006)(White, William)</description>
+		<rom name="Golden80.txt" size="90" crc="63a2c2b6" md5="0f6b3a79f0be19c738e9a0a0376b1038" sha1="bff27fce63c4175b481efea0f77b163ba37ebfc2"/>
+	</game>
+	<game name="Install Graphics (1998)(de Bruijn, Stefan)">
+		<description>Install Graphics (1998)(de Bruijn, Stefan)</description>
+		<rom name="instgrp.80" size="728" crc="8cf97b31" md5="e7b40190d9a627e7b73e2ea859225f04" sha1="f3eb513075d913df1000673053c893973ad6534d"/>
+	</game>
+	<game name="Lens v1.0 (1998)(Bergman, Daniel)">
+		<description>Lens v1.0 (1998)(Bergman, Daniel)</description>
+		<rom name="lens.80" size="764" crc="36f6fa3a" md5="7e3badf74f5abb03478ea1702b3f0be0" sha1="1b74f5e0b527b6df4e13a7597f312b1edd464d5e"/>
+	</game>
+	<game name="Matrix Multiplication (1998)(Castro, Ricardo)">
+		<description>Matrix Multiplication (1998)(Castro, Ricardo)</description>
+		<rom name="matrix80.80" size="932" crc="2931bf39" md5="56d4e6c0fd37f9dce09d6aceb9082415" sha1="7f898ce35508e2a1f133e1fb1ac30673085fee57"/>
+	</game>
+	<game name="Newton's Numerical Solve Routine (1998)(-)">
+		<description>Newton's Numerical Solve Routine (1998)(-)</description>
+		<rom name="newton2.80" size="453" crc="c8541a81" md5="6004c104aac8cdcf239f717d5424e188" sha1="a908157bd7e8b3f4222a013807590d1c058501ea"/>
+	</game>
+	<game name="Numerical Value v1.0 (1998)(Bergman, Daniel)">
+		<description>Numerical Value v1.0 (1998)(Bergman, Daniel)</description>
+		<rom name="digitsum.80" size="681" crc="84c5cbd3" md5="e0120ed7a7f3cd1cd95e0c34a42ce907" sha1="a3926d437fa9e0f55d489f48a91f135feb43ded2"/>
+	</game>
+	<game name="Optimal Pythagorean Solvers (2006)(White, William)[with source code]">
+		<description>Optimal Pythagorean Solvers (2006)(White, William)[with source code]</description>
+		<rom name="how_to.txt" size="693" crc="ff72fb93" md5="7eb476cce48d283e73877d995c7d13b9" sha1="ff7683b34ec173b2ac6ce6d53d5344c119613cde"/>
+		<rom name="pyth86.asm" size="953" crc="10e42696" md5="91068253f1cc1265c88e4300f55d1c41" sha1="ef39423edced7cb3e6f3df1223276ae0e3da7452"/>
+		<rom name="pyth8X.asm" size="991" crc="a88e1d62" md5="eb81c1e87712743b3dd4c2a9a973f39e" sha1="2510876ffe48046ae21aea50c1183d8fee7c9b20"/>
+		<rom name="pythag80.txt" size="259" crc="7f693141" md5="bccfd2dbb6f17e58a181dfbec0e556e8" sha1="f9208025672230337d639539350c2b2ff06e6fe2"/>
+	</game>
+	<game name="Pi - Euler's Method (2003)(White, William)[for TI-73 - 92+]">
+		<description>Pi - Euler's Method (2003)(White, William)[for TI-73 - 92+]</description>
+		<rom name="pieuler89\PIEULER.73P" size="137" crc="57dc822b" md5="8b9b6f9422283c1a1a1f36dc065e7bd9" sha1="6dcd4fc8d0e281c42bc46a7e27b90ff32ed9b0f0"/>
+		<rom name="pieuler89\PIEULER.82P" size="128" crc="c01fede5" md5="aff574e0d855eeba0f8f6c347209f39f" sha1="19380f2263f45c209ed53fd731eae899b716b668"/>
+		<rom name="pieuler89\PIEULER.83P" size="137" crc="c8e6aa6f" md5="ac0b4e39d928c037f4f456e893dbe9f1" sha1="e82f2d0065b65258081aa147e6b147932dcfaa53"/>
+		<rom name="pieuler89\PIEULER.85P" size="153" crc="663d4e5e" md5="b974c54e72f28393110e2db09af31049" sha1="36517260c9a72fdbf585881a056bbba469bb4463"/>
+		<rom name="pieuler89\PIEULER.86P" size="180" crc="49ea622f" md5="9c11ce46d67dafae4f62c5b8f3d0159a" sha1="12648a52a560d653802e93c9b97d02847da1da6c"/>
+		<rom name="pieuler89\pieuler.89p" size="245" crc="e793bec9" md5="ea1f8a690e51cb5b1b2c65467165b676" sha1="b33053eb2bd7a1fa9d2c2b98383b34697fc0a195"/>
+		<rom name="pieuler89\PIEULER.8XP" size="139" crc="bf323334" md5="34fe91750f3fcd9979507cc1d6f18c46" sha1="ee2e4ba6233375fe72e1292db444641c6b6423f5"/>
+		<rom name="pieuler89\PIEULER.92P" size="244" crc="44e8f098" md5="2b8811e06f95b46b7ac65611b6fc79ed" sha1="f8ca67e7347026c8cb8c191737f98edecaeb03fa"/>
+		<rom name="pieuler89\pieuler.9xp" size="202" crc="2c8cc94f" md5="fb18c1d1188f0cb70f206a13fceda9ed" sha1="592440636266090bd345349b03ec40037f3b3128"/>
+		<rom name="pieuler89\pieuler_80_81.txt" size="111" crc="072e5bd2" md5="6432ed7ed53ef249185fd0694c42c4d8" sha1="3ec247e8321c91c3e341cd9a989bcfb092d9e29b"/>
+	</game>
+	<game name="Pixel Art Maker (2003)(White, William)">
+		<description>Pixel Art Maker (2003)(White, William)</description>
+		<rom name="pixelart_80_81.txt" size="362" crc="61475fbc" md5="1c6ac66fe0cd33a968bbc23ff53ecb62" sha1="078d891b0724c34bbf25e77be45933a2b9449274"/>
+	</game>
+	<game name="Polar Graphing (2004)(Pierson, Freddy)">
+		<description>Polar Graphing (2004)(Pierson, Freddy)</description>
+		<rom name="Polar.80.txt" size="188" crc="f0ac7d61" md5="98896dbe5d531ab1168486a377d5b3fd" sha1="9db0e839a5bfe5121e2b8bd1e4459216cda84473"/>
+	</game>
+	<game name="Polygon v1.0 (2002)(Gannon, Joey)">
+		<description>Polygon v1.0 (2002)(Gannon, Joey)</description>
+		<rom name="polygon.80" size="558" crc="7bc75559" md5="a62697c020813e296c501195a10716f1" sha1="5a0f50ac9c516b8588b26772a777a4f884c59ffa"/>
+	</game>
+	<game name="Prime (1998)(Mrmats)">
+		<description>Prime (1998)(Mrmats)</description>
+		<rom name="prime.80" size="425" crc="b48a4dd6" md5="9e8932c9a99d2da54c493edbc8e61f07" sha1="a286b5a6cad02902f29a46332bfd3f2ffa2e07f3"/>
+	</game>
+	<game name="Prime Factors v1.0 (1998)(Bergman, Daniel)">
+		<description>Prime Factors v1.0 (1998)(Bergman, Daniel)</description>
+		<rom name="primef.80" size="718" crc="5d3af204" md5="5c1c584d14cb62edf6fc728a5ebc1f40" sha1="47b428644924a3cd3e3e9955479014ef26420a01"/>
+	</game>
+	<game name="Prime Number Pairs v1.0 (1998)(Bergman, Daniel)">
+		<description>Prime Number Pairs v1.0 (1998)(Bergman, Daniel)</description>
+		<rom name="ppair.80" size="630" crc="17a0187a" md5="cb7b80c0921e18b4916a46d35bef14fd" sha1="b3930dc10512069caf90d82ad53aec117446bd75"/>
+	</game>
+	<game name="Prime Test (2002)(Dennis C.)">
+		<description>Prime Test (2002)(Dennis C.)</description>
+		<rom name="primetest.80" size="652" crc="645b817e" md5="9fb29f2232c61a5da7d28f6fd564bc52" sha1="76e3b38cfc822557d68eadc3ff79d53fc97bce93"/>
+	</game>
+	<game name="Pythagorean Theorem v1.5 (1998)(Bergman, Daniel)">
+		<description>Pythagorean Theorem v1.5 (1998)(Bergman, Daniel)</description>
+		<rom name="pythag.80" size="806" crc="005c04fc" md5="11fd19be709a3018fa8438e92df51eaa" sha1="ec6121d57a19cd5f51a51bffd011487ad02eb6e0"/>
+	</game>
+	<game name="Quadrametric Graphing (2004)(Pierson, Freddy)">
+		<description>Quadrametric Graphing (2004)(Pierson, Freddy)</description>
+		<rom name="Quad.80.txt" size="204" crc="f107b6b9" md5="0b2eca2bbff75d335bc6849fc5d0b74d" sha1="24b5b6fbb47fc19f45ed5b2deab2d5f2a2374b5d"/>
+	</game>
+	<game name="Quadrat 80 v1.0 (2008)(Skrbina, Rick)">
+		<description>Quadrat 80 v1.0 (2008)(Skrbina, Rick)</description>
+		<rom name="Qudrat80.rtf" size="712" crc="10cb5321" md5="8b56fb34d6c3bc819541e931b249ce3c" sha1="52939cee4a92ad926dfb45dab53ede89b7401f2e"/>
+	</game>
+	<game name="Quadratic Complete v1.0 (1998)(Bergman, Daniel)">
+		<description>Quadratic Complete v1.0 (1998)(Bergman, Daniel)</description>
+		<rom name="quadcom.80" size="686" crc="c08326d5" md5="ad7ac55622950cc5d4612e487d20b568" sha1="9da3b2513e23339f70d4315e116eab4763c76cf4"/>
+	</game>
+	<game name="Quadratic Formula (1998)(de Bruijn, Stefan)">
+		<description>Quadratic Formula (1998)(de Bruijn, Stefan)</description>
+		<rom name="quadform.80" size="783" crc="46d9781c" md5="672db1aef2bc3c774fc36ee1deeb9793" sha1="e137cd3fd44bca1ea09a8c6fac97bc747f3cf532"/>
+	</game>
+	<game name="Second Order Equations v2.0 (1998)(Bergman, Daniel)">
+		<description>Second Order Equations v2.0 (1998)(Bergman, Daniel)</description>
+		<rom name="order2.80" size="812" crc="bf879830" md5="55da40197525fc6ee710f3e21c35cac1" sha1="e23a57485fe8b7cf7cb67e8b98c51b7e2d4d220b"/>
+	</game>
+	<game name="Simpson's Method (1998)(-)">
+		<description>Simpson's Method (1998)(-)</description>
+		<rom name="simpson.80" size="409" crc="5b34694b" md5="ac72f2442083c616676cdae6ee07f514" sha1="c9d06934edce7db7b4a523a3e3596b0e8c425f7e"/>
+	</game>
+	<game name="Smallest Common Denominator v1.0 (1998)(Bergman, Daniel)">
+		<description>Smallest Common Denominator v1.0 (1998)(Bergman, Daniel)</description>
+		<rom name="scd.80" size="821" crc="eb901138" md5="425639922c0a639e33daccc7e800dfe2" sha1="0bb1ae4e951a7957801a5c646eb4f2bc0032ae32"/>
+	</game>
+	<game name="Spearmans (2001)(Malak)">
+		<description>Spearmans (2001)(Malak)</description>
+		<rom name="Spearman.txt" size="2583" crc="cfd3431b" md5="618dbf80f4a924a4c35504ac421ea885" sha1="92a86d3e1ba1ddef81b849ec40fc1ab326c4532d"/>
+	</game>
+	<game name="Systems v1.0 (2002)(Gannon, Joey)">
+		<description>Systems v1.0 (2002)(Gannon, Joey)</description>
+		<rom name="systems.80" size="520" crc="53721504" md5="0b010c10d08c9e112c07662775906611" sha1="6d9a6a1f46e5ced0fadaf5c13a3119a2b1e35478"/>
+	</game>
+	<game name="Tag Drawer (2005)(EepP Elite)">
+		<description>Tag Drawer (2005)(EepP Elite)</description>
+		<rom name="tandraw.txt" size="5523" crc="d5234d83" md5="658116e9319c0a6130f20c0087d92421" sha1="a02f8f4002c9bf5450e29230e0a38ccb276f51a1"/>
+	</game>
+	<game name="Tan Maker (2005)(EepP Elite)">
+		<description>Tan Maker (2005)(EepP Elite)</description>
+		<rom name="tanmker.txt" size="3859" crc="1b81c988" md5="5e2718665f1ed9f73ace8447eef60d72" sha1="57d8bd256f5af16d1f1982ebd5b7706e7937fb17"/>
+	</game>
+	<game name="Third Order Equations v1.0 (1998)(Bergman, Daniel)">
+		<description>Third Order Equations v1.0 (1998)(Bergman, Daniel)</description>
+		<rom name="order3.80" size="780" crc="06451f85" md5="13c73d083503b1d5f73ad3077a2074f1" sha1="dbb35d0af62601fb9ebd6c704965a5105f70c9be"/>
+	</game>
+	<game name="TI Triangle Drawer (2003)(White, William)">
+		<description>TI Triangle Drawer (2003)(White, William)</description>
+		<rom name="tri1.GIF" size="2109" crc="d8753757" md5="80a6252d078540dee9c9ce51e0e1fbfa" sha1="d71f5f5f9cef0541514b302364d40c3fc7978832"/>
+		<rom name="tri2.GIF" size="1584" crc="d886389a" md5="9246f478994868d58cb56a4ed2d4237a" sha1="0be6c7cd89aea23df240488ed01fbc2b7e2ea4f0"/>
+		<rom name="triangle_80_81.txt" size="183" crc="64513796" md5="fc8fbe72c058f4a98f0b36c353a28e33" sha1="45b8cf47d889dacea277915e08d13a2566386c9d"/>
+	</game>
+	<game name="TI Tunnel Drawer (2003)(White, William)">
+		<description>TI Tunnel Drawer (2003)(White, William)</description>
+		<rom name="tunnel.gif" size="1506" crc="3d8d773d" md5="512e6767ac52c032562970472d296cc6" sha1="a8983574ea0180be59feba70d27115080b1d64a3"/>
+		<rom name="tunnel68k.GIF" size="2911" crc="fbecf3b9" md5="4240e92cf1b68cda2b2a1af3c0676a24" sha1="cf8e3fb4f74876db0a5db38e755bdfcdf8514fb7"/>
+		<rom name="tunnel_80_81.txt" size="301" crc="6977f3fd" md5="dde95e05ff2477d2d644f7dc05c19a1b" sha1="aedc56025f4939f8d33a6437678c32a2375e1d62"/>
+	</game>
+	<game name="TI-80 Paint (2001)(Wolf)">
+		<description>TI-80 Paint (2001)(Wolf)</description>
+		<rom name="TI80PAINT.txt" size="3008" crc="63439e46" md5="60a521f1d7272a741abf3184eafc5fed" sha1="4021b6c860268adf8719a88bda971fa7e34fc304"/>
+	</game>
+	<game name="Time Conversion v1.0 (1998)(Bergman, Daniel)">
+		<description>Time Conversion v1.0 (1998)(Bergman, Daniel)</description>
+		<rom name="time.80" size="1043" crc="f9b7f5c7" md5="b2f63bfe73da5d65dad13ddf3a67e2f3" sha1="e6904f0bd0cbb51490b9a6da3595f1a79a4709de"/>
+	</game>
+	<game name="Timer80 v1.0 (2001)(Chuck S.)">
+		<description>Timer80 v1.0 (2001)(Chuck S.)</description>
+		<rom name="code.txt" size="966" crc="7360669d" md5="cdd32b7f4820ceb95cf5894b82059f96" sha1="2e6beca6321d10021832fffd80a2e226d4f2accd"/>
+		<rom name="Timer80.txt" size="555" crc="d21144b1" md5="5af97c2fecfc7a7c02ff6807b36011f8" sha1="62dca29bfa76b43eba06caee38b94f907ca2ade9"/>
+	</game>
+	<game name="TVM Calculations (1998)(Madsen, Anders C.)">
+		<description>TVM Calculations (1998)(Madsen, Anders C.)</description>
+		<rom name="tvm80.80" size="2526" crc="ab914fc6" md5="d76b1ba766097b35e042b60aa93ec1db" sha1="af4ea7dd30141c73459908c85a1006705dc4be98"/>
+	</game>
+	<game name="Ultimate Motor Helper v2.0 (2003)(Gannon, Joey)">
+		<description>Ultimate Motor Helper v2.0 (2003)(Gannon, Joey)</description>
+		<rom name="motor.80" size="1098" crc="28c7e39b" md5="50f8c9a7aa476d7c58460c01dfc452d2" sha1="7885d7bdb86136fa4e201bf113db6db92653284a"/>
+	</game>
+	<game name="Window Variables Store and Recall (1998)(-)">
+		<description>Window Variables Store and Recall (1998)(-)</description>
+		<rom name="winmem.80" size="662" crc="d191934b" md5="3428bad1ee0d25c61425050a2c16f686" sha1="d7370e598de67aa836db8e41aab74ec025a0bf82"/>
+	</game>
+</datafile>

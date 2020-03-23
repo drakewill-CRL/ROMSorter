@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>RCA Chip-8 - Applications</name>
+		<description>RCA Chip-8 - Applications (TOSEC-v2014-04-23)</description>
+		<category>TOSEC</category>
+		<version>2014-04-23</version>
+		<author>Cid - Grendel - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Test (19xx)(-)">
+		<description>Test (19xx)(-)</description>
+		<rom name="Test (19xx)(-).bin" size="100" crc="3d48f74b" md5="f4ef21c988b5b80eb95c8bfa3b1bfe27" sha1="a1ec824285a593cd1ca84dc6c732c61b0fe96330"/>
+	</game>
+	<game name="Version Chk (1992)(JMN Softwares)(PD)">
+		<description>Version Chk (1992)(JMN Softwares)(PD)</description>
+		<rom name="Version Chk (1992)(JMN Softwares)(PD).bin" size="230" crc="0dbf7208" md5="486bddc6e25e378838ff3e944db9a443" sha1="ade839585ddeb0e3633177df03c1d91589e629eb"/>
+	</game>
+</datafile>

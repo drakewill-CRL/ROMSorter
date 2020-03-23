@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Animations - [P00]</name>
+		<description>Commodore C64 - Animations - [P00] (TOSEC-v2019-12-07)</description>
+		<category>TOSEC</category>
+		<version>2019-12-07</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Porno Movie 1 (1985)(Loverboy Crackings - The Wild Boys)">
+		<description>Porno Movie 1 (1985)(Loverboy Crackings - The Wild Boys)</description>
+		<rom name="Porno Movie 1 (1985)(Loverboy Crackings - The Wild Boys).p00" size="26542" crc="d945463c" md5="7b6751fbc96e2928311c86b856079663" sha1="4d0a788f00e1bc20f6a0d89b3ec5b2ed461bf95b"/>
+	</game>
+	<game name="Porno Movie 1 (1985)(Loverboy Crackings - The Wild Boys)[a]">
+		<description>Porno Movie 1 (1985)(Loverboy Crackings - The Wild Boys)[a]</description>
+		<rom name="Porno Movie 1 (1985)(Loverboy Crackings - The Wild Boys)[a].p00" size="26543" crc="ed3f9e6d" md5="6619c8c6b1f932e96edcb93a5f3780e3" sha1="a1c765541abef5c9345b7370e77b27961323750b"/>
+	</game>
+	<game name="Work (19xx)(-)">
+		<description>Work (19xx)(-)</description>
+		<rom name="Work (19xx)(-).p00" size="27454" crc="ed3755c8" md5="e9c6ca9d6d2ac2623117cdb521afe5c1" sha1="a6bf4956b1105867b8452dc5404887602681837c"/>
+	</game>
+</datafile>

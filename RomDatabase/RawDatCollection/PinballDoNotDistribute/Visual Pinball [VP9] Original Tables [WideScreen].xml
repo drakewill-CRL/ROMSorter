@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Visual Pinball [VP9] Original Tables [WideScreen]</name>
+		<description>Visual Pinball [VP9] Original Tables [WideScreen]</description>
+		<category>Visual Pinball [VP9] Original Tables [WideScreen]</category>
+		<version>1.0</version>
+		<date>2020-01-01</date>
+		<author>Yori Yoshizuki</author>
+		<email>-insert email-</email>
+		<homepage>Yori Yoshizuki</homepage>
+		<url>https://yoshizuki.webs.com</url>
+		<comment>-insert comment-</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Addams Family, The (TV version) (Bob5453)(2011)[VP9][WideScreen Bob5453)">
+		<description>Addams Family, The (TV version) (Bob5453)(2011)[VP9][WideScreen Bob5453)</description>
+		<rom name="Addams Family, The (TV version) (2011) screenshot.jpg" size="623173" crc="4f224d28" sha1="439435d5ec57f6e36af5f58bd115701cac33da5f"/>
+		<rom name="TAF TV 2011 WS.vpt" size="18038784" crc="f70ce9d5" sha1="ac37587460e06cc6ac637881055ec0ddcbd1ea60"/>
+	</machine>
+	<machine name="Asteroid Annie and the Aliens (Pinuck)(1.1)[VP9][WideScreen]">
+		<description>Asteroid Annie and the Aliens (Pinuck)(1.1)[VP9][WideScreen]</description>
+		<rom name="Asteroid Annie VP9 WS 1.1.jpg" size="909881" crc="24c078bd" sha1="3c19e63b4f1909b14789c9016304dabd7c50f9a6"/>
+		<rom name="Asteroid Annie VP9 WS 1.1.vpt" size="24817664" crc="6681fb8f" sha1="b0bd48f7680508b89d75e52d63a3686e318e4b6f"/>
+	</machine>
+	<machine name="Beat This">
+		<description>Beat This</description>
+		<rom name="Beat This (Bob5453, Wizards_Hat, Pinbotic)(1.04)[VP9][WideScreen].vpt" size="13658624" crc="c130967e" sha1="43e9828bfce37ca5a32044759bd54445c895efc7"/>
+		<rom name="Beat This (Bob5453, Wizards_Hat, Pinbotic)(1.05)[VP9][WideScreen].vpt" size="13659136" crc="d3730267" sha1="aa7b2aaaa7a8861bf7c780f00c8922a745dbbd0f"/>
+		<rom name="Beat This (Bob5453, Wizards_Hat, Pinbotic)(1.051)[VP9][WideScreen].vpt" size="13659136" crc="e2a08f91" sha1="6e5c804ba0a3106d097dc17630ecf775863722fd"/>
+		<rom name="Beat This screenshot.jpg" size="404850" crc="8590b774" sha1="5d7f876154fe539b69c8f1549a06512b65f72c6f"/>
+	</machine>
+	<machine name="Beatles, The">
+		<description>Beatles, The</description>
+		<rom name="2011\Beatles, The (Bob5453)(2011)[VP9][WideScreen Bob5453]\Beatles, The (Bob5453)(2011)[VP91x][WideScreen Bob5453].vpt" size="32292864" crc="e0798062" sha1="9528d056fee618ee0c0b48ed57374f2aca8c0fc9"/>
+		<rom name="2011\Beatles, The (Bob5453)(2011)[VP9][WideScreen Bob5453]\Beatles, The (Bob5453)(2011a)[VP91x][WideScreen Bob5453].vpt" size="32292864" crc="91e6db6d" sha1="6baf21873378c14a5ddb4875a805bebdc65834d1"/>
+		<rom name="2011\Beatles, The (Bob5453)(2011)[VP9][WideScreen Bob5453]\Beatles, The (Bob5453)(WideScreen) screenshot.jpg" size="721157" crc="1c14e898" sha1="1616f120149750e99555b34c88764987683b850c"/>
+		<rom name="2011\Beatles, The (Bob5453)(2011)[VP9][WideScreen Bob5453]\Beatles, The (WS 2011) readme.txt" size="2364" crc="19246a91" sha1="92d97cfee50b6ac820b399665eb6373e18f5b77d"/>
+		<rom name="2011\Beatles, The (Bob5453)(2011)[VP9][WideScreen Bob5453]\Beatles, The (WS 2011a) readme.txt" size="2362" crc="2daefe9f" sha1="173107f6e97233ec0717d60d76b370cb9f53d67b"/>
+		<rom name="2011\Music\Beatles_BOJAY.mp3" size="487759" crc="45c370a1" sha1="5035f30656b107ad3aae25a0ca73e1db38268f39"/>
+		<rom name="2011\Music\Beatles_CBML.mp3" size="409183" crc="8c5339cd" sha1="4368eaabdba594366bbbe9ee10b4b2aacbc8bb18"/>
+		<rom name="2011\Music\Beatles_EDAW.mp3" size="505731" crc="0fcdc52f" sha1="73f765b1f1fdc75f5b730fe53c22ad54863f062e"/>
+		<rom name="2011\Music\Beatles_ISHST.mp3" size="496536" crc="8df77536" sha1="3f629ffe4d7aff2eb51289133f064dbe12810449"/>
+		<rom name="2011\Music\Beatles_IWTHYH.mp3" size="461009" crc="c6526587" sha1="43edb472018867f993196e244c80d5fb73d4dbae"/>
+		<rom name="2011\Music\Beatles_LAWR.mp3" size="688797" crc="38a84c5d" sha1="ef58fe7344a344b61106944f84635e9681d7fcf3"/>
+		<rom name="2011\Music\Beatles_LD.mp3" size="480654" crc="99d48a55" sha1="4af524a3fd576656b201fb3ac8147d5c10d9cb43"/>
+		<rom name="2011\Music\Beatles_LMD.mp3" size="549199" crc="6e004af9" sha1="e213aceecd49ac0bd170dfddc3ebf8589bbd9ba8"/>
+		<rom name="2011\Music\Beatles_NM.mp3" size="498208" crc="05133d2e" sha1="bc2de8569a003344b389146073c13871edd2ff0a"/>
+		<rom name="2011\Music\Beatles_OG.mp3" size="392882" crc="74bbb14b" sha1="b5a22d34324fc721177618552e72ff8c2acef49d"/>
+		<rom name="2011\Music\Beatles_PPM.mp3" size="562156" crc="caf3992a" sha1="44583ccb4a6fb533d0884c818a33fc7cb8e7538a"/>
+		<rom name="2011\Music\Beatles_SPLHCB.mp3" size="1021911" crc="97295d7f" sha1="7bcb94cd8e42d1b130ef924c1247c402a930ebf3"/>
+		<rom name="2011\Music\Beatles_TTR.mp3" size="613147" crc="c795ac56" sha1="1f3dc46942bbb00330b8f7d72cb3a4802c4323bf"/>
+		<rom name="2011\Music\Beatles_TWST.mp3" size="528719" crc="977175b0" sha1="ad3e86aba76c6f353dc6ef6711abce657dbd5025"/>
+		<rom name="2011\Music\Beatles_YS.mp3" size="345653" crc="6bb915a9" sha1="9f2b1e5197b4d5032390ef16d6072befcab26a18"/>
+	</machine>
+	<machine name="Bob's BOP">
+		<description>Bob's BOP</description>
+		<rom name="Bob's BOP (Bob5453)(2011)[VP90x][WideScreen Bob5453]\Bob's BOP (2011) screenshot.jpg" size="660736" crc="0e08c0d5" sha1="b409f69f2b08dac77b3346309de72110671eaccb"/>
+		<rom name="Bob's BOP (Bob5453)(2011)[VP90x][WideScreen Bob5453]\Bob's BOP (Bob5453)(2011)[VP90x][WideScreen Bob5453].vpt" size="16879616" crc="10d74188" sha1="2044b49d80aa25586df6a352938c3ab89882ba85"/>
+		<rom name="Bob's BOP (Bob5453)(2011A)[VP90x][WideScreen Bob5453]\Bob's BOP (2011A) screenshot.jpg" size="670732" crc="5b83de8a" sha1="c63be6e4b8cb104d622219e07255f9c9594dcc1d"/>
+		<rom name="Bob's BOP (Bob5453)(2011A)[VP90x][WideScreen Bob5453]\Bob's BOP (Bob5453)(2011A)[VP90x][WideScreen Bob5453].vpt" size="16953344" crc="bb5b7bfa" sha1="89d572cce4a883475aebb786e7f1446b50a55693"/>
+		<rom name="Bob's BOP (Bob5453)(2011B)[VP90x][WideScreen Bob5453]\Bob's BOP (2011B) screenshot.jpg" size="619026" crc="44d233ba" sha1="9d497a57d31183e4ad1bd49d4c019d49c43e247e"/>
+		<rom name="Bob's BOP (Bob5453)(2011B)[VP90x][WideScreen Bob5453]\Bob's BOP (Bob5453)(2011B)[VP90x][WideScreen Bob5453].vpt" size="16986112" crc="2ab94a63" sha1="cf42fbfc4217e4b75801186fcff9a7cfa8016762"/>
+		<rom name="Bob's BOP (Bob5453)(2011C)[VP90x][WideScreen Bob5453]\Bob's BOP (2011C) screenshot.jpg" size="618517" crc="0c989752" sha1="022e7d7615438dfc77fabe92e1c2a824e9d62e68"/>
+		<rom name="Bob's BOP (Bob5453)(2011C)[VP90x][WideScreen Bob5453]\Bob's BOP (Bob5453)(2011C)[VP90x][WideScreen Bob5453].vpt" size="16990208" crc="6087f1bf" sha1="60beba4ac8dfb14b276ff856837c1984a3681a3a"/>
+	</machine>
+	<machine name="Daffy Duck">
+		<description>Daffy Duck</description>
+		<rom name="Daffy Duck (2011) screenshot.jpg" size="694778" crc="fcf5c5bd" sha1="7549cdbdc818f483b49a6bc37e95c7591eecae92"/>
+		<rom name="Daffy Duck (2011a) screenshot.jpg" size="610581" crc="40d14d96" sha1="567d3911077516728ba130e11bee7cbfce6e63bb"/>
+		<rom name="Daffy Duck (Bob5453)(2011)[VP9][WideScreen Bob5453].vpt" size="12320768" crc="962c298c" sha1="885c96a0520c8523e2ab736727570c8684a02bb9"/>
+		<rom name="Daffy Duck (Bob5453)(2011a)[VP9][WideScreen Bob5453].vpt" size="12259328" crc="f170715f" sha1="da5f57e78dac3888f60118c2c3511144227e1ea6"/>
+	</machine>
+	<machine name="Dragon">
+		<description>Dragon</description>
+		<rom name="2010\Dragon (Bob5453)(2010)[VP9][WideScreen Bob5453].vpt" size="7940608" crc="1315f3e2" sha1="5b7b968b5ff49eb2e5e13fb3223ca28cdbc6c588"/>
+		<rom name="2010\Dragon (WideScreen) screenshot.jpg" size="529384" crc="af73a734" sha1="63378c90298bdf9ac03291b3bf77ec2feea3facd"/>
+	</machine>
+	<machine name="Ghostbusters">
+		<description>Ghostbusters</description>
+		<rom name="Ghostbusters (Bob5453)(2011)[VP9][WideScreen Bob5453].vpt" size="26357760" crc="bf5303fd" sha1="5dca715d827a4356930642484ebf10e18cda1c8f"/>
+		<rom name="Ghostbusters (Bob5453)(WideScreen) screenshot.jpg" size="692397" crc="bbc9b200" sha1="0dcaceef6a3e4b41963c2912be0250950708ef13"/>
+	</machine>
+	<machine name="Gyruss, The">
+		<description>Gyruss, The</description>
+		<rom name="Gyruss, The (StevOz)(1.0)[VP9][WideScreen StevOz].jpg" size="268722" crc="f1f08211" sha1="33fe74630e570df0986218de39b8cbaad6f093dd"/>
+		<rom name="Gyruss, The (StevOz)(1.0)[VP9][WideScreen StevOz].vpt" size="5722112" crc="e4cbedf8" sha1="9ac91004b1ae6c6957ba94ca0c53f6ace9dcbac0"/>
+		<rom name="Gyruss, The (StevOz)(1.0.1)[VP9][WideScreen StevOz].vpt" size="5722112" crc="b507e529" sha1="bdfa95af286a60b2a3044d10d49bcf3baae67115"/>
+		<rom name="Gyruss, The (StevOz)(1.0.2)[VP9][WideScreen StevOz].vpt" size="5722112" crc="b507e529" sha1="bdfa95af286a60b2a3044d10d49bcf3baae67115"/>
+		<rom name="Gyruss, The (StevOz)(1.0.3)[VP9][WideScreen StevOz].vpt" size="5722112" crc="c1ee1e37" sha1="4d445c38f820ca4d9358847df75323af6de084ed"/>
+		<rom name="Gyruss, The (StevOz)(1.0.5)[VP9][WideScreen StevOz].vpt" size="5722112" crc="57c7121a" sha1="16e9e52e5785b21500990f44df1e8d35795ae026"/>
+	</machine>
+	<machine name="MAD Mag">
+		<description>MAD Mag</description>
+		<rom name="MAD Mag (2011) screenshot.jpg" size="637780" crc="a7f371f2" sha1="463a19c5ca37ba597a054947f7e3d0dce34e3d7f"/>
+		<rom name="MAD Mag (Bob5453)(2011)[VP9][WideScreen Bob5453].vpt" size="11333632" crc="1350867d" sha1="ba93b5950a2b1b05c140c068ad8dce97e84da049"/>
+	</machine>
+	<machine name="Mars Attacks">
+		<description>Mars Attacks</description>
+		<rom name="2010\Mars Attacks (2010) screenshot.jpg" size="468825" crc="ce6bebbb" sha1="949a77db877b3e176e2ab193c53b1388347e080f"/>
+		<rom name="2010\Mars Attacks (Bob5453)(2010)[VP9][WideScreen Bob5453].vpt" size="16001536" crc="d1c4887f" sha1="2593ede33718a0282feabb72a655d893876fe767"/>
+		<rom name="2011\Mars Attacks (2011a) screenshot.jpg" size="617996" crc="8ea454cc" sha1="2ada22042ce5d5d772f425937d4a360770ff9680"/>
+		<rom name="2011\Mars Attacks (Bob5453)(2011a)[VP9][WideScreen bob5453].vpt" size="15970304" crc="2d0d57e4" sha1="d3ad5c21a0e4f8ec9ed81a8cbc473abc92111197"/>
+		<rom name="2012\Mars Attacks (2012) screenshot.jpg" size="400268" crc="e7cb7c45" sha1="e7c16026344a06c52588be5afa3e99cf1149cfd3"/>
+		<rom name="2012\Mars Attacks (Bob5453)(2012)[VP9][WideScreen Bob5453].vpt" size="18120704" crc="197920c4" sha1="f219fa5b2a143af2a5b1e7b289eda6561cc3de93"/>
+	</machine>
+	<machine name="Rapid Vienna">
+		<description>Rapid Vienna</description>
+		<rom name="2010\Rapid Vienna (2010) readme.txt" size="15066" crc="f46b24a7" sha1="58a1fc970ba1ca32bae77984d4b8f5095c429376"/>
+		<rom name="2010\Rapid Vienna (2010) screenshot.jpg" size="547258" crc="f05505b7" sha1="8d8fa0e0ca64caba5dbbb319387a28cd4f11123f"/>
+		<rom name="2010\Rapid Vienna (starman7007, Bob5453)(2010)[VP9][WideScreen Bob5453].vpt" size="6468096" crc="b8fcf49e" sha1="f1600e2b8134a803eb492445ebe8424ce54607db"/>
+		<rom name="2010\Rapid Vienna (starman7007, Bob5453)(2010a)[VP9][WideScreen Bob5453].vpt" size="6400000" crc="c6a19097" sha1="9353191af0b5f60bab86dfa515d996315ee65583"/>
+		<rom name="2011\Rapid Vienna (2011) screenshot.jpg" size="506523" crc="90b360a1" sha1="892208d969b0b4335eebf278a9cbbaeaac6ec5bb"/>
+		<rom name="2011\Rapid Vienna (starman7007, Bob5453)(2011)[VP9][WideScreen Bob5453].vpt" size="43809280" crc="d4be45b7" sha1="da52184b791dfd246bef99e883cdd5d8a32195af"/>
+	</machine>
+	<machine name="Spider-Man">
+		<description>Spider-Man</description>
+		<rom name="Fonts\digiread.ttf" size="31144" crc="651591e7" sha1="106908d15d70e7f32489d627dbc0da5386da8aa5"/>
+		<rom name="Music\FlyingCondor.mp3" size="5261411" crc="0a2da7cb" sha1="7e10235ca3987aedd850499e08f77c23b3bef487"/>
+		<rom name="Music\Spiderman01234.mp3" size="1869794" crc="34dac64f" sha1="2ccfaeb7c15b7ea13977901286436f7f1a87bd60"/>
+		<rom name="Music\SpidermanNewer.mp3" size="2633168" crc="d45a1131" sha1="48c9d8d0015a9e1bfc28057750d835540f49c740"/>
+		<rom name="Music\SpidermanRamones.mp3" size="2027724" crc="12743fb6" sha1="bcefdb3a7ee10690f1a5f8e454fed8eef12b3585"/>
+		<rom name="Spider-Man (2011WS) screenshot.jpg" size="642338" crc="17f2ae9a" sha1="946aef9eba2e3cc575e61f8dac82fe6055de36d3"/>
+		<rom name="Spider-Man (Bob5453)(2011WS)[VP9][WideScreen Bob5453].vpt" size="18579456" crc="65771125" sha1="4c1fb0720f35eacf0b3dd40df46e8df1af78a42e"/>
+	</machine>
+	<machine name="Supergirl">
+		<description>Supergirl</description>
+		<rom name="2010\Supergirl (2010WS) screenshot.jpg" size="485197" crc="7346f27f" sha1="c7d7444877e445b7f2a9709fa972dbd3fcda9e7f"/>
+		<rom name="2010\Supergirl (Bob5453)(2010)[VP9][WideScreen Bob5453].vpt" size="6785024" crc="ae5f7a04" sha1="ba309df3ddc9b76baad7de5a52bc34f655521822"/>
+		<rom name="2011\Supergirl (2011WS) screenshot.jpg" size="653503" crc="0bbe5236" sha1="d9c018cefeaf89a700aa15e5fb801293b68a6016"/>
+		<rom name="2011\Supergirl (Bob5453)(2011)[VP9][WideScreen Bob5453].vpt" size="7421952" crc="79550eb1" sha1="53cb609d9bbe040b863b5a5306498915552667a1"/>
+		<rom name="Music\supergirl-movie.mp3" size="2559710" crc="3117e291" sha1="67ca6cc08c21d78fb29657b197abcceba9cf4514"/>
+	</machine>
+	<machine name="SyncoBob (Muppets Edition)">
+		<description>SyncoBob (Muppets Edition)</description>
+		<rom name="SyncoBob (Muppets Edition) (2011) screenshot.jpg" size="512265" crc="a7223e4a" sha1="fb94c8c1c71a793da032fa6f232485f5b4e5e5f3"/>
+		<rom name="SyncoBob (Muppets Edition) (Bob5453)(2011)[VP9][WideScreen Bob5453].vpt" size="10776576" crc="8c83f57c" sha1="21639d7faa40f3fef92093d1d25b663aa5b0d332"/>
+	</machine>
+	<machine name="Three Stooges, The">
+		<description>Three Stooges, The</description>
+		<rom name="2010\Three Stooges, The (2010a)(WideScreen) screenshot.jpg" size="449420" crc="5a323e04" sha1="8a6a3aa089dfad7a900ef35528caa69f1ef8bdb1"/>
+		<rom name="2010\Three Stooges, The (Bob5453)(2010a)[VP9][WideScreen Bob5453].vpt" size="17409024" crc="efa0cc5f" sha1="8d403661d34310e15704cf8836fefad472c9cd49"/>
+		<rom name="2011\Three Stooges, The (Bob5453)(2011)[VP9][WideScreen Bob5453].vpt" size="18477056" crc="8955ed48" sha1="b8fa2d9ea2dc70eac76a04cd11493f0f7b4d4dbc"/>
+		<rom name="2011\Three Stooges, The (Bob5453)(2011a)[VP9][WideScreen Bob5453].vpt" size="18481152" crc="b508c295" sha1="c1188fee3d1fcf8ab0a0a16aceee2447d89c2ea5"/>
+		<rom name="2011\Three Stooges, The (WideScreen) screenshot.jpg" size="589905" crc="872de281" sha1="aeb70f021ab82b7b1284a10aba15cafde6931bd5"/>
+	</machine>
+	<machine name="Ultimate Spider-Man">
+		<description>Ultimate Spider-Man</description>
+		<rom name="Music\SpidermanRamones.mp3" size="2027724" crc="12743fb6" sha1="bcefdb3a7ee10690f1a5f8e454fed8eef12b3585"/>
+		<rom name="Music\USAP1.mp3" size="3434403" crc="8c7a61aa" sha1="09f69c59984dbe399b025e4de3f3d6fbc7731f16"/>
+		<rom name="Music\USAP2.mp3" size="3673476" crc="de001c55" sha1="4ae4b07c5a28d87265db87b19601316324d0dae6"/>
+		<rom name="Music\USAP3.mp3" size="3810566" crc="5aeef4f2" sha1="1d836b4899017cb6c28462d343d08a735a7cd905"/>
+		<rom name="Ultimate Spider-Man (2011) screenshot.jpg" size="634485" crc="5222f1b0" sha1="07a0088086600b572bb49de2a239c7da2b55c512"/>
+		<rom name="Ultimate Spider-Man (Bob5453)(2011)[VP9][WideScreen Bob5453].vpt" size="10842112" crc="b36cfb65" sha1="572089f45a795feb557ff644158039c4a77f680f"/>
+	</machine>
+</datafile>

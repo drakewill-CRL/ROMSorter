@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Mattel Intellivision - Educational</name>
+		<description>Mattel Intellivision - Educational (TOSEC-v2014-01-18)</description>
+		<category>TOSEC</category>
+		<version>2014-01-18</version>
+		<author>Grendel - Sea7 - Cassiel - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Electric Company - Math Fun (1978)(CTW)">
+		<description>Electric Company - Math Fun (1978)(CTW)</description>
+		<rom name="Electric Company - Math Fun (1978)(CTW).bin" size="8192" crc="54a3fc11" md5="dcbea7cde7d03f099680531fe7a80ab5" sha1="6cdb18d1dd3cd57058263904934b37d4713342e6"/>
+	</game>
+	<game name="Electric Company - Word Fun (1980)(CTW)">
+		<description>Electric Company - Word Fun (1980)(CTW)</description>
+		<rom name="Electric Company - Word Fun (1980)(CTW).bin" size="8192" crc="c9eaacab" md5="36ff2340ff5972f9aa4d353b633e082e" sha1="d3934c328465f0fb423e6a43fcc57018b78da6b9"/>
+	</game>
+	<game name="Jetsons, The - Ways With Words (1983)(Mattel)(ECS)">
+		<description>Jetsons, The - Ways With Words (1983)(Mattel)(ECS)</description>
+		<rom name="Jetsons, The - Ways With Words (1983)(Mattel)(ECS).bin" size="24576" crc="ee5f1be2" md5="88f4166655918655b389dac4dae67c34" sha1="9b41596eb18554675068b0377acf83a970bb8dc7"/>
+	</game>
+	<game name="Learning Fun I - Math Master Factor Fun (1987)(Intv Corp)">
+		<description>Learning Fun I - Math Master Factor Fun (1987)(Intv Corp)</description>
+		<rom name="Learning Fun I - Math Master Factor Fun (1987)(Intv Corp).bin" size="16384" crc="2c5fd5fa" md5="1e661b21b1cd968632cd5ba3be8b589a" sha1="6eeaeb4ca39d30b6255814cd9f92cf8d092c393d"/>
+	</game>
+	<game name="Learning Fun II - Word Wizard Memory Fun (1987)(Intv Corp)">
+		<description>Learning Fun II - Word Wizard Memory Fun (1987)(Intv Corp)</description>
+		<rom name="Learning Fun II - Word Wizard Memory Fun (1987)(Intv Corp).bin" size="16384" crc="632f6adf" md5="718d9e11b01629bc46cde657df3d1460" sha1="134af61bc7b06489d35a7474f8a29ef80db6f332"/>
+	</game>
+</datafile>

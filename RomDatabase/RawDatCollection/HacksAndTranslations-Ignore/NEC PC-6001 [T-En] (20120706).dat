@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>NEC PC-6001 [T-En]</name>
+		<description>NEC PC-6001 [T-En]</description>
+		<category>English Translations</category>
+		<version>20120706</version>
+		<date>20120706</date>
+		<author>Powerpuff</author>
+		<email>-insert email-</email>
+		<homepage>Maybe-Intro</homepage>
+		<url>http://maybeintro.wordpress.com/</url>
+		<comment>Maybe-Intro</comment>
+		<clrmamepro/>
+	</header>
+	<game name="_NEC PC-6001 [T-En] Docs">
+		<description>_NEC PC-6001 [T-En] Docs</description>
+		<rom name="Hydlide (Japan) [T-En by JPN Translations v1.0].txt" size="4072" crc="5968aecb" md5="76f01e341534599b4bb116c595511cfd" sha1="68b19c6bfee651d1bf52b8c86e583fb0d4dabb3a"/>
+	</game>
+	<game name="Hydlide (Japan) [T-En by JPN Translations v1.0]">
+		<description>Hydlide (Japan) [T-En by JPN Translations v1.0]</description>
+		<rom name="Hydlide (Japan) [T-En by JPN Translations v1.0].cas" size="44791" crc="bb834e47" md5="ccc8b98f2a32dcabc19bd6c23ebf233e" sha1="66b309e5f9704079448471caa41094c3f39f1b08"/>
+	</game>
+</datafile>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sinclair ZX Spectrum - Compilations - Games - [$B]</name>
+		<description>Sinclair ZX Spectrum - Compilations - Games - [$B] (TOSEC-v2011-09-24)</description>
+		<category>TOSEC</category>
+		<version>2011-09-24</version>
+		<author>jugaor - gorski - Vaxalon - Zxyo - Dziuber - StefaN - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Cyrus IS Chess + Cyrus II (1986)(Intelligent Software)[h Jupiter 77]">
+		<description>Cyrus IS Chess + Cyrus II (1986)(Intelligent Software)[h Jupiter 77]</description>
+		<rom name="Cyrus IS Chess + Cyrus II (1986)(Intelligent Software)[h Jupiter 77].$b" size="58385" crc="72fda622" md5="5cf1f21ddd5a3e1c5352a9c968371062" sha1="ad9ac1aff96ece91e6e98ec6d8669033a482dfc2"/>
+	</game>
+	<game name="Gyron Collection (1985)(Firebird Software)[h Fatality]">
+		<description>Gyron Collection (1985)(Firebird Software)[h Fatality]</description>
+		<rom name="Gyron Collection (1985)(Firebird Software)[h Fatality].$b" size="61713" crc="5f6b05bf" md5="921893b306f2284b2e1b3bc81ede9d40" sha1="1deac4d049551bc52b04ba7b6630d36a3260e674"/>
+	</game>
+	<game name="Trap Door Collection (19xx)(-)[h AMD][t]">
+		<description>Trap Door Collection (19xx)(-)[h AMD][t]</description>
+		<rom name="Trap Door Collection (19xx)(-)[h AMD][t].$b" size="61457" crc="8ba20af9" md5="273cbec434d1e4ff99d3b0967a395f9b" sha1="10d679906e34d3294f324011d09599338cb9d38c"/>
+	</game>
+</datafile>

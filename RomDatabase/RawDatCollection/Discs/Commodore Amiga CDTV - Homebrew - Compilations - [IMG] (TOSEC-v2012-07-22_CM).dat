@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore Amiga CDTV - Homebrew - Compilations - [IMG]</name>
+		<description>Commodore Amiga CDTV - Homebrew - Compilations - [IMG] (TOSEC-v2012-07-22)</description>
+		<category>TOSEC-ISO</category>
+		<version>2012-07-22</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="CDTV Vol.1 (2001-12)(Spanish Company)(FW)">
+		<description>CDTV Vol.1 (2001-12)(Spanish Company)(FW)</description>
+		<rom name="CDTV Vol.1 (2001-12)(Spanish Company)(FW).ccd" size="784" crc="13970b81" md5="39536e359324a462b4ebcc6c507d07d2" sha1="96c8998c01dc119d228861a2a5bd4b263680d8df"/>
+		<rom name="CDTV Vol.1 (2001-12)(Spanish Company)(FW).img" size="224046816" crc="be160ddb" md5="8280fd091fe3bd9d2e7e542f6180ba8d" sha1="aca7b9d1283be1dc433b11dac06d1c0a6afd93e7"/>
+		<rom name="CDTV Vol.1 (2001-12)(Spanish Company)(FW).sub" size="9144768" crc="f265912d" md5="ad5875d6b2ade73537b120f32f93a3a1" sha1="4e88dcc146d72ac753eb6e52043d6d3324d5a656"/>
+	</game>
+</datafile>

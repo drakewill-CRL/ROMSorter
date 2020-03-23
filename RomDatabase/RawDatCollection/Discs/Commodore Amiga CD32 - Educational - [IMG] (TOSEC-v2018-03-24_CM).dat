@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore Amiga CD32 - Educational - [IMG]</name>
+		<description>Commodore Amiga CD32 - Educational - [IMG] (TOSEC-v2018-03-24)</description>
+		<category>TOSEC-ISO</category>
+		<version>2018-03-24</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Mathematik leicht gemacht (1994)(Amigacenter Duesseldorf)(DE)[Amiga-CD32-CDTV]">
+		<description>Mathematik leicht gemacht (1994)(Amigacenter Duesseldorf)(DE)[Amiga-CD32-CDTV]</description>
+		<rom name="Mathematik leicht gemacht (1994)(Amigacenter Duesseldorf)(DE)[Amiga-CD32-CDTV].ccd" size="769" crc="2f2094f8" md5="bc21c1dd0e10102b3a6075b992112183" sha1="42d4c834bd126b830cdeb69ee9a687eeeb8059e7"/>
+		<rom name="Mathematik leicht gemacht (1994)(Amigacenter Duesseldorf)(DE)[Amiga-CD32-CDTV].cue" size="142" crc="8617bdb4" md5="1c6024fcc634bee7191a314960873ddb" sha1="24b24207e660a2217808e825875e64a5375a61f6"/>
+		<rom name="Mathematik leicht gemacht (1994)(Amigacenter Duesseldorf)(DE)[Amiga-CD32-CDTV].img" size="6329232" crc="4cad13f4" md5="3be43ffd4a4c3c2ea6a79f766b7c7081" sha1="cf13a1e277d957d6f73bb41345b11e8fc31c486f"/>
+		<rom name="Mathematik leicht gemacht (1994)(Amigacenter Duesseldorf)(DE)[Amiga-CD32-CDTV].sub" size="258336" crc="53221b82" md5="a2984bb94225fa03d862f7a79f34e446" sha1="0e5a498090e20d5bf97c789fca417dcce838dc25"/>
+	</game>
+</datafile>

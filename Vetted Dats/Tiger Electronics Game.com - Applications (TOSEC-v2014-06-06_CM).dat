@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tiger Electronics Game.com - Applications</name>
+		<description>Tiger Electronics Game.com - Applications (TOSEC-v2014-06-06)</description>
+		<category>TOSEC</category>
+		<version>2014-06-06</version>
+		<author>Cid - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Internet (1997)(Tiger Electronics)">
+		<description>Internet (1997)(Tiger Electronics)</description>
+		<rom name="Internet (1997)(Tiger Electronics).bin" size="262144" crc="7e721a84" md5="16dccfeb686746787f80d045cd9d3ab9" sha1="4c6b5b91a70397cb5e1add4ab53afe3ec0fe2072"/>
+	</game>
+	<game name="Web Link (1997)(Tiger Electronics)">
+		<description>Web Link (1997)(Tiger Electronics)</description>
+		<rom name="Web Link (1997)(Tiger Electronics).bin" size="262144" crc="4c13e65b" md5="d81f29d4946b376b01574f6c35879628" sha1="d4e08fc050c006ed6c1a177a1f4c41b4a68c26bb"/>
+	</game>
+</datafile>

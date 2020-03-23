@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>SNK Neo Geo Pocket Color [T-En]</name>
+		<description>SNK Neo Geo Pocket Color [T-En]</description>
+		<category>English Translations</category>
+		<version>20120706</version>
+		<date>20120706</date>
+		<author>Powerpuff</author>
+		<email>-insert email-</email>
+		<homepage>Maybe-Intro</homepage>
+		<url>http://maybeintro.wordpress.com/</url>
+		<comment>Maybe-Intro</comment>
+		<clrmamepro/>
+	</header>
+	<game name="_SNK Neo Geo Pocket Color [T-En] Docs">
+		<description>_SNK Neo Geo Pocket Color [T-En] Docs</description>
+		<rom name="SNK vs. Capcom - Card Fighters 2 - Expand Edition (Japan) [T-En by CFC2 Translation Team v20080503].txt" size="4258" crc="d82780df" md5="70b66f5b943e10d6eaa3bf9719862e99" sha1="1928a4f599828f4031aa2a88f4503d754abf3a50"/>
+	</game>
+	<game name="SNK vs. Capcom - Card Fighters 2 - Expand Edition (Japan) [T-En by CFC2 Translation Team v20080503]">
+		<description>SNK vs. Capcom - Card Fighters 2 - Expand Edition (Japan) [T-En by CFC2 Translation Team v20080503]</description>
+		<rom name="SNK vs. Capcom - Card Fighters 2 - Expand Edition (Japan) [T-En by CFC2 Translation Team v20080503].ngc" size="2097152" crc="37cac3f1" md5="b2628da96bf4f278b13d3c5afd703ac7" sha1="d6dd99c75c4262dea1fd970c2a111dc91d42c4bd"/>
+	</game>
+</datafile>

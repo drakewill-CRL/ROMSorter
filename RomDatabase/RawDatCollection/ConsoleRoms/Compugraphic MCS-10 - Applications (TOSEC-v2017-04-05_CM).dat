@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Compugraphic MCS-10 - Applications</name>
+		<description>Compugraphic MCS-10 - Applications (TOSEC-v2017-04-05)</description>
+		<category>TOSEC</category>
+		<version>2017-04-05</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<url>http://www.tosecdev.org</url>
+		<clrmamepro/>
+	</header>
+	<game name="MCS Font Width Utility FAL (19xx)(Compugraphic)">
+		<description>MCS Font Width Utility FAL (19xx)(Compugraphic)</description>
+		<rom name="MCS Font Width Utility FAL (19xx)(Compugraphic).imd" size="99561" crc="2ac5468a" md5="b2a2b861e77928d6ac4b7e6e2f5811e9" sha1="ad8f5336223693b7ac4fa8401ebbbc7998143459"/>
+	</game>
+	<game name="MCS Preview Configuration (19xx)(Compugraphic)">
+		<description>MCS Preview Configuration (19xx)(Compugraphic)</description>
+		<rom name="MCS Preview Configuration (19xx)(Compugraphic).imd" size="112353" crc="cc2482e6" md5="172d22415718d8bc49df9b9305c5de4a" sha1="62010d9608b58b37f2c0c8e74fe990b1cea2fedf"/>
+	</game>
+	<game name="MCS-10 Prev. Prog. Disk (19xx)(Compugraphic)">
+		<description>MCS-10 Prev. Prog. Disk (19xx)(Compugraphic)</description>
+		<rom name="MCS-10 Prev. Prog. Disk (19xx)(Compugraphic).imd" size="142184" crc="a5d77007" md5="af8e377fee7167999417b2614693e0b5" sha1="e9fe7af372907de58d50dffb9dccf7bc9dcf8b58"/>
+	</game>
+	<game name="MCS-10 Series E-G Format Utility UPD DSKUTL-10 (19xx)(Compugraphic)">
+		<description>MCS-10 Series E-G Format Utility UPD DSKUTL-10 (19xx)(Compugraphic)</description>
+		<rom name="MCS-10 Series E-G Format Utility UPD DSKUTL-10 (19xx)(Compugraphic).imd" size="104927" crc="3c444aea" md5="f0b9236132c973b75ba4131d4046fea7" sha1="d007a6c150eea0feb054b7043462c91c6766261a"/>
+	</game>
+</datafile>

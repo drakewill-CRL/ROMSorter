@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>NEC PC-88VA - Games - [RAW]</name>
+		<description>NEC PC-88VA - Games - [RAW] (TOSEC-v2018-03-08)</description>
+		<category>TOSEC</category>
+		<version>2018-03-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Tetris (19xx)(BPS)">
+		<description>Tetris (19xx)(BPS)</description>
+		<rom name="tetris00.0.raw" size="419901" crc="85c512ac" md5="62f69100366ba9e959898a61bf549f33" sha1="56aa4e2f8aa8691f89cbc2134b092f6139416022"/>
+		<rom name="tetris00.1.raw" size="381220" crc="d13bdab9" md5="fb474c50478d9d26c383b74691a1a777" sha1="e54976d93bcae3fd200e43ed7d6b3b893439354f"/>
+		<rom name="tetris01.0.raw" size="359790" crc="1a49b9fc" md5="8fed914e3652430f7daf3c266481c333" sha1="472ae6656c66e8aef32d2b63e5fb794f94bb01c4"/>
+		<rom name="tetris01.1.raw" size="390778" crc="48172429" md5="ce2d69f96fdbe06bf4f783a2963fc2e7" sha1="b274cbbd1e8718273da15941ce0e8b07e24628a5"/>
+		<rom name="tetris02.0.raw" size="363827" crc="4aed082f" md5="c820c1df7b1890bf21d820c89130e300" sha1="c5958e51dd5e212f51b6e41b3e314eabbbf0ec6f"/>
+		<rom name="tetris02.1.raw" size="389015" crc="edb0d031" md5="6ca9d95534892b0617cdf96f58e780a1" sha1="718e05a5d2d347ca493c35a816f7977e52e8d84d"/>
+		<rom name="tetris03.0.raw" size="368840" crc="97683ed3" md5="85e05966c3b1ded15f5d672b54b9c626" sha1="9cba4c018f6ffcff136ce91f905d8f3960aad1b8"/>
+		<rom name="tetris03.1.raw" size="387763" crc="a1680998" md5="5f74362e8873bc3564fa6a85552ee2a8" sha1="92ca18a1ea882b294dcc963d075bdd605619e518"/>
+		<rom name="tetris04.0.raw" size="403498" crc="3a41208d" md5="7f8719785c9239b44337ea07a4bfc594" sha1="076e7da11d10c24391d03d7a82de939599c98bba"/>
+		<rom name="tetris04.1.raw" size="391802" crc="016c1890" md5="765d568d69a98736c5af9b27a42e4cb6" sha1="f0d2cdb70f8bf0195c628b9a5243eb6b30843c4f"/>
+		<rom name="tetris05.0.raw" size="375936" crc="ed85c2e4" md5="f4b1b741a7891dc13fefa841bc671666" sha1="f12b06a021b8976ee3d867ea5bb46f3aeb175ca6"/>
+		<rom name="tetris05.1.raw" size="332766" crc="c81f9ea2" md5="fb53fecdc7b9d6124d97c86fbba4b8a2" sha1="764f9abb7e86a1d331faffb6c9dfa621c2918262"/>
+		<rom name="tetris06.0.raw" size="372022" crc="0fd33738" md5="728160e2dd39e146e95a6a897a080a5e" sha1="18e1836a40653a1730289d7ce924b05cd0408b55"/>
+		<rom name="tetris06.1.raw" size="395293" crc="f2e986bf" md5="53c33c40d4450f084c520775713c30be" sha1="fb8f16561e8e4b1764e1ed2b9aeb5fec9a315cd0"/>
+		<rom name="tetris07.0.raw" size="385864" crc="6c69b525" md5="dd4e570570c81d874dca9247dfb9ca38" sha1="5d4cb0d07f2a2bc882f3575f04616e1b1be04717"/>
+		<rom name="tetris07.1.raw" size="341053" crc="83728b03" md5="1dad76b091603519562b0c650d151aec" sha1="c934f8c84a5f12a3ef468eb92a96d54fa2c96a7a"/>
+		<rom name="tetris08.0.raw" size="380721" crc="ed2ef0a7" md5="5e3db7fbeaaf9d18e168ea5e68879b5b" sha1="f50128bb5ce55a697174f877372cae455e9b39d5"/>
+		<rom name="tetris08.1.raw" size="332190" crc="8ef8ba91" md5="d87f5542801481469aa369eab087dfce" sha1="9388e76dc9ba9bba0c7e6e33749efdc13fb202fb"/>
+		<rom name="tetris09.0.raw" size="389769" crc="dc988b65" md5="43fb1afc6265d1b357fe7706ee95d93c" sha1="5a2003a0e182e76d775caaf8cc8a69415870981d"/>
+		<rom name="tetris09.1.raw" size="331467" crc="b6adc467" md5="93bc9e752ec8e3b763a915466f86ce4f" sha1="1b05db9c0dc7e2d1124106ae67bf98680c47bbaa"/>
+		<rom name="tetris10.0.raw" size="383688" crc="4ac969f7" md5="97c509bce265c22c706ffe49bcda7d56" sha1="79656e59ef675839817319dbfccf1b26430663aa"/>
+		<rom name="tetris10.1.raw" size="346055" crc="f7712716" md5="6fbca5bbd074f499dce04c4f26ea43c8" sha1="f34e5c99db092be14e06d037c76680b74afa0710"/>
+		<rom name="tetris11.0.raw" size="392130" crc="09a3995f" md5="7d164cddee74486efcb5896604a9fd6d" sha1="acdd7911633642939caf7fa871ec6d9f5af4142e"/>
+		<rom name="tetris11.1.raw" size="392771" crc="7f6ac508" md5="73329f917ab5ade5990851eefac25c05" sha1="d20eedf38bd0c6cdfdcbebfe2b1981a56fbbbfb5"/>
+		<rom name="tetris12.0.raw" size="387590" crc="a51d041c" md5="56a58a6f499fd127c249719a2fc59ec8" sha1="9b184de11cd0c023a3a2724a58245e5202e1a8d1"/>
+		<rom name="tetris12.1.raw" size="400400" crc="d5036694" md5="dc2042a820d30df9382debbd99684ceb" sha1="8e1f07e9dfaafb0b1628023b0c66dc53b35ab17d"/>
+		<rom name="tetris13.0.raw" size="377524" crc="db79bbd9" md5="dc33dce0cb73aaa5331aa86e00cc28a2" sha1="215d79753ded6a22099201ae525d82b4c18ac6e2"/>
+		<rom name="tetris13.1.raw" size="375289" crc="743e43d4" md5="bb8b805fd444f061bcfbf1ac48e4c8a1" sha1="23236831cb19043778813861a8d457d153058d04"/>
+		<rom name="tetris14.0.raw" size="376933" crc="04d0da62" md5="3ee467006f73c562f98e33b39869dc19" sha1="4ce579556ab16eb409dde45d1dac731a8f025eb3"/>
+		<rom name="tetris14.1.raw" size="382250" crc="861e55c4" md5="3ac8987acaedeb64beb28e0a4edddf66" sha1="d59bad2fb18203343fe0b7eb8be4d64c07c57f82"/>
+		<rom name="tetris15.0.raw" size="366379" crc="7fca9e41" md5="14aa0e7fe25ee36d06a703b3deb1c740" sha1="ad89a74b0e0b1ef177c654c83a060e954f7a8f76"/>
+		<rom name="tetris15.1.raw" size="394227" crc="91d745ee" md5="df7fd58fbf3d25b2c85e79d744243801" sha1="e9fa47d0262a489785b9bed3c4aea5239dee336d"/>
+		<rom name="tetris16.0.raw" size="386130" crc="69e34f6d" md5="df87f74bc0d991b7a6ba4cea6e0faec2" sha1="3988cb39365df56b7a6a194824c11b6a522c1f90"/>
+		<rom name="tetris16.1.raw" size="394169" crc="1c8f0a38" md5="9beb195f37eba769a736d9ea32a36f5a" sha1="ac23b32ffa28c9fc71fdd0ad1e1e0eba3b102e06"/>
+		<rom name="tetris17.0.raw" size="366088" crc="9cfcdb2a" md5="4f61329fab03486664c8dbf8deacba54" sha1="5d96171219703053153ec230a9113d2990199c70"/>
+		<rom name="tetris17.1.raw" size="383056" crc="a7be6c5f" md5="60d4ba2e06bd2847b3afc00f516be6db" sha1="7c15bd964f57187f87f74ec592c924b55ec7c373"/>
+		<rom name="tetris18.0.raw" size="327595" crc="a2c53b00" md5="ee18c2c909c2f3e761b154fabd6fc672" sha1="8364efa302c1763b58c3ff99172d10d7a3909788"/>
+		<rom name="tetris18.1.raw" size="335553" crc="1ad7b6cb" md5="8efd3dd3e1171977a83984397222853c" sha1="47779a41d0c8ff6b2153a61b8d37e3a2d730fe56"/>
+		<rom name="tetris19.0.raw" size="391313" crc="639f6252" md5="d16657d824fbd4e117907f08a76b2385" sha1="f447d0fc49c4e7c39e1c4ccd2652c3e5538c3cbb"/>
+		<rom name="tetris19.1.raw" size="340653" crc="0d9b64a3" md5="6f40c3bba65060d01a469c8a959da26a" sha1="b3518f7c3cff44b95d5cfb3bb4626a9411d2b4b6"/>
+		<rom name="tetris20.0.raw" size="387017" crc="10d0267e" md5="d39706ac919b083dcea99095af597da2" sha1="6d5b16d1e28ba7847dedfe7a801908dc6dae1b0b"/>
+		<rom name="tetris20.1.raw" size="335631" crc="c5f57740" md5="4fc6ffe6327de113b99bde2bf6199a07" sha1="9cc6207dd9ae7dff5ef18252eab30ade3eaa1bb6"/>
+		<rom name="tetris21.0.raw" size="311598" crc="22073038" md5="0fb2d94239f2dcb5b815fca9d92a3b49" sha1="7ae9c6bd4a2b9400ec75259ce4126633b0c035d1"/>
+		<rom name="tetris21.1.raw" size="320758" crc="1a5ce569" md5="93ce3779576d1139bcc381a26ee9f678" sha1="f930a16ff97885f2e176d1c563007df51e71b0b0"/>
+		<rom name="tetris22.0.raw" size="364294" crc="332884d9" md5="80b94b785ec1b440185240cfe7968cfe" sha1="1c24f8c111391a6a8b7d63cf10a1f394b02f0f11"/>
+		<rom name="tetris22.1.raw" size="321373" crc="242074c0" md5="cd9c9862d406295231ee60544d71efa5" sha1="81a9ce4f19063c084ad2e547a725112c3de544e8"/>
+		<rom name="tetris23.0.raw" size="399855" crc="d5b56be3" md5="8c8e9ecaa5faea74b6e6c8ce56687d83" sha1="189a76a72a4adc5664df51ab4a69103e08eb9b2e"/>
+		<rom name="tetris23.1.raw" size="360476" crc="eb34c419" md5="bdbe93416c780d08b665665ea378697c" sha1="358df7198f50a79aef5f116de2f82bc0ee47f299"/>
+		<rom name="tetris24.0.raw" size="382691" crc="7cd36337" md5="1070c4b554bc7800d6ef32f57ade8957" sha1="12606baccf4ed251c3075bc8661e879419241ec0"/>
+		<rom name="tetris24.1.raw" size="334262" crc="92ec405f" md5="1d5886e8754c7dad3788b20e859820c8" sha1="ebeb3261c69d6e2e8e1645f1d94130fd653d599b"/>
+		<rom name="tetris25.0.raw" size="388403" crc="21c8542e" md5="b669e514905ad3963dde9f99919fb836" sha1="5f0c26c2e6b2984a3d3f603619b200cf669961d6"/>
+		<rom name="tetris25.1.raw" size="391863" crc="951460b7" md5="a411f65f52105c5ab0100f54d3455ab0" sha1="4b0ab39ca932601adf32db2558f216587290eba2"/>
+		<rom name="tetris26.0.raw" size="456429" crc="8cd37afe" md5="81d908dd73b4e309773c7939812ae632" sha1="1f2e2dd7e3d64e10b91e3e17e057fa3636e119a2"/>
+		<rom name="tetris26.1.raw" size="473560" crc="cbb38151" md5="0d2d5d9d1da806a786b46db168a0dff6" sha1="65401ff0f1b3900cff2278f885be376eb8502574"/>
+		<rom name="tetris27.0.raw" size="449400" crc="ea58cf3e" md5="4f3f73b43f36c35ce2f2a598a1e97da8" sha1="72e106b0ad12d57350b0c587da1c1bcd61eb14d7"/>
+		<rom name="tetris27.1.raw" size="342034" crc="34e64f3e" md5="8393c604adf1f8622627f6c2c75c2319" sha1="38f486856143d2d22ce704eefaa17a802e3a1bed"/>
+		<rom name="tetris28.0.raw" size="389590" crc="433ed9cf" md5="83dca34e1d701c5381c45d357129c063" sha1="816bb3788d5401ae82a7c223ddba7c86c31e5301"/>
+		<rom name="tetris28.1.raw" size="333383" crc="c5dddaff" md5="b7d18496ad64fda64061e94dcf93dd2e" sha1="07dceab53b8a9ef0fe9949ef7beca8e28c7c7b31"/>
+		<rom name="tetris29.0.raw" size="325089" crc="de077513" md5="321ac2882333d65c65dcd10fa0f3c515" sha1="50b77c313fcb9c1388bb14c1fde91899ad93666d"/>
+		<rom name="tetris29.1.raw" size="339396" crc="278c6c95" md5="91cda17c7980fe4e149338684ea1d38e" sha1="f3a56c5ed2fc31cfb7bf3bd6cbe0b11d5a98fd7d"/>
+		<rom name="tetris30.0.raw" size="413340" crc="eafd368e" md5="5dc65961be9b77b0fbf9d61a10426cb7" sha1="f1426e11bfe5634f1d10ef0fc15ff6c71abc1a66"/>
+		<rom name="tetris30.1.raw" size="447514" crc="811cb674" md5="1ec0d24f2ca0911853bcb66486b59a8f" sha1="008d991c022dab462d1c412d60af472548458ffa"/>
+		<rom name="tetris31.0.raw" size="456200" crc="f08bc929" md5="e250362872409d49737bc9fbaa9d15ab" sha1="fb061aa75474537b1a5f6af4ad9a1ed545f760d7"/>
+		<rom name="tetris31.1.raw" size="436561" crc="12f0903b" md5="2287f143fc7dbabb37a035b560a15136" sha1="ff57a88a6837d31edd5992b245bd8d0cad339b6a"/>
+		<rom name="tetris32.0.raw" size="374566" crc="f94136c0" md5="ac5fa4de02fc9042b19fb3a1e126f5f7" sha1="24fe79e286fb020b811fa9fc616a44e4448fb919"/>
+		<rom name="tetris32.1.raw" size="344192" crc="4c931359" md5="16d885083ae894c0452664e7a832f83c" sha1="c38919091f1ea346026e4a65ae42720c7ed856b6"/>
+		<rom name="tetris33.0.raw" size="394483" crc="611da1d5" md5="175bb8eed72dfae99e7886d30d4ac893" sha1="ac9cbe4d5cb7c8548192d4951bfe87813c4fe879"/>
+		<rom name="tetris33.1.raw" size="341876" crc="9da558bb" md5="878be56c2d5e999b971bfd6e223611fe" sha1="b5cc1ad08c28f25ae33fce64293efbb4e8a93c1e"/>
+		<rom name="tetris34.0.raw" size="406889" crc="c17f5af3" md5="bbb4a11d9dadabfa180f17daecb8a5c0" sha1="e930fccf1cd13d2c6df6bb75db929149729fa43a"/>
+		<rom name="tetris34.1.raw" size="398313" crc="a4b8109f" md5="7c944c46bdd4fc1e8755a977d8a24991" sha1="9ecf7059b6fc9284035cb8e16a2ebc8b2c94c01c"/>
+		<rom name="tetris35.0.raw" size="348536" crc="2457aa1e" md5="b1b11d379be193884ad7911abe6c3233" sha1="7bfe9b5cbb245bfe09e73f1286fc669715a35d57"/>
+		<rom name="tetris35.1.raw" size="318451" crc="2559e50a" md5="4e6738e5efe4fe6351386f15bcdbeead" sha1="294eef0bd948bea64ed28030908e51dbe248dd57"/>
+		<rom name="tetris36.0.raw" size="370391" crc="f0701d2e" md5="79f740e8072412b63c07ddf592b4683d" sha1="18358fc3c540da1b7d2052c41869ba0887f834e9"/>
+		<rom name="tetris36.1.raw" size="372934" crc="e8541dd4" md5="87654006d68f424767ecad8b523ca5d6" sha1="9ddde3fcd878d4e595006c419cda04fd6f6d8c74"/>
+		<rom name="tetris37.0.raw" size="363080" crc="a0e93c90" md5="98ff1572fd591beb9352014122d6e14a" sha1="bb57891c36a783770fd57d03d21e77b9fc5760d7"/>
+		<rom name="tetris37.1.raw" size="374839" crc="04f51bd1" md5="ca55fee207d102178bbac7b711583e99" sha1="c2806a202ce6993415ece1bf2a9bccebb802f1e4"/>
+		<rom name="tetris38.0.raw" size="349226" crc="561d5d60" md5="a806c32a93f3c50167840df998126d2d" sha1="c57ff49d173dd7032ca175ce4363169fda22bca1"/>
+		<rom name="tetris38.1.raw" size="366854" crc="0347ed8b" md5="6e5c045d5fab24268fa287a7bd0465ef" sha1="6d8bfac08a6b59d89f7e1461f72c8cb3da93b686"/>
+		<rom name="tetris39.0.raw" size="356626" crc="3c08c09b" md5="3b56f8756443add496dec6509ad5426a" sha1="a255dbfe5e56dec160920eef1345029643759470"/>
+		<rom name="tetris39.1.raw" size="317012" crc="4a09434b" md5="0d53a98bec66cb9c48cec631f51a8000" sha1="3675869b6beeb4aa3ef718079fedbae9c8733173"/>
+		<rom name="tetris40.0.raw" size="371544" crc="fe3c0085" md5="2faa9807988bee70c1ef84d2f3bf6039" sha1="f1ccdbbe2a2e39116fc4fac36e891f49cfb2e4da"/>
+		<rom name="tetris40.1.raw" size="374829" crc="45460938" md5="3520c5bd40c86ba06eaa5980310eb2d2" sha1="35298661682ae1ee266e995517dbf5b4aea6c553"/>
+		<rom name="tetris41.0.raw" size="364220" crc="bc6618a5" md5="a08e5abcbbb6cc6fe7a61a0378872671" sha1="6aae9a6bc3291340bba1499e5be1bdf26a609d4a"/>
+		<rom name="tetris41.1.raw" size="317578" crc="6b8403fe" md5="9ab3c0762f161c8357d1f6630962345f" sha1="9d812700867dc322c6a31d243ff225e2cc96f36c"/>
+		<rom name="tetris42.0.raw" size="364381" crc="833a7d07" md5="2666eb009634df4743e517aad0e2fadb" sha1="8dee279e18595b68fe4d0da24d2d186ba56c9ce6"/>
+		<rom name="tetris42.1.raw" size="318856" crc="0cc53715" md5="2601fa6ab3b73a9e87c221897c64250b" sha1="7211daaf49949ada4f77f9a1ba0e7b7944d0cbca"/>
+		<rom name="tetris43.0.raw" size="370779" crc="c32a0c61" md5="a9bbefc337f6a258a83fcba911b6adaf" sha1="ef7cc8fff7f71a1acfac27c2591685685b3cd683"/>
+		<rom name="tetris43.1.raw" size="360073" crc="48dfe600" md5="909add8149c19a8290be917e64d22f29" sha1="41692aa838543449fcf6c4109a2f47378cb40b9f"/>
+		<rom name="tetris44.0.raw" size="363535" crc="e1f5ecec" md5="7b2d0c22f36d2ade1a0f048cd2dbd4cc" sha1="ecd67025b169492d8ee88c989a688a98a71aa0af"/>
+		<rom name="tetris44.1.raw" size="319096" crc="d4041f79" md5="8d6f3da864bca256c3ce08224bd9e9c7" sha1="157a6ef8f91462f0b04a8003ba80469b44327b42"/>
+		<rom name="tetris45.0.raw" size="315925" crc="51af55f6" md5="f00df97523d6866d62c91606c7da7a86" sha1="7564f92e6a4e9a3e291022baa0e7ffa877a9b605"/>
+		<rom name="tetris45.1.raw" size="325926" crc="df82982d" md5="c3c18d0593729028e34bf08cb9cd32f3" sha1="4e2a00ce2fff407f324625199763c1ef3c1c899d"/>
+		<rom name="tetris46.0.raw" size="356590" crc="b1f3d4b4" md5="bd9997ba7b11be3e7f1bfb1311dd8def" sha1="f58191d9af684d85f07ada0d82f180a53e4f571f"/>
+		<rom name="tetris46.1.raw" size="318793" crc="49337b03" md5="de1c7ee13028d387185fe45cc6015aae" sha1="0442d4197783bb946aedb075f25d105a49c8beff"/>
+		<rom name="tetris47.0.raw" size="363738" crc="37c4ea8d" md5="ac77c8ae40443881e60a287f1745b8c9" sha1="a7bcf144d428520cb202d826bf41f135b8676623"/>
+		<rom name="tetris47.1.raw" size="319264" crc="41c955a4" md5="71b85a691c85cdcae1c331fe13e8bf82" sha1="d854c44fe8a919514dc5b317e53979ebe389dcf6"/>
+		<rom name="tetris48.0.raw" size="316189" crc="569fe2f3" md5="aeb546bedd2bcf414246fa5c12c4e208" sha1="b94dc681e444927109d0406670a311cdc216f17e"/>
+		<rom name="tetris48.1.raw" size="374300" crc="e157b892" md5="65e490224f0ff0b22f8a74d057bef85b" sha1="8d04737b9f8d8c6a734acdf03e32171143f09475"/>
+		<rom name="tetris49.0.raw" size="363671" crc="d2e81186" md5="3c9f0b8d93ffd0ea337da405406a5617" sha1="e8a448d7a2c2401f40267ec8d9022d659fa327ab"/>
+		<rom name="tetris49.1.raw" size="319212" crc="7bef22c4" md5="f5983f02e0635c94fb70bd88f05a72e9" sha1="183d59c2a069db19d852fd41145ff74a30213f34"/>
+		<rom name="tetris50.0.raw" size="369341" crc="0b701d63" md5="81cecd325b866c2884e7563a552e6bc4" sha1="649af062cefeb1819e690298a54d4080f2d3bbf3"/>
+		<rom name="tetris50.1.raw" size="318634" crc="61dbf6ec" md5="a24ef2dabf7cd1da1dfafc23c4333a99" sha1="4f768f60c16afee505d96d51381f03f3d30084d2"/>
+		<rom name="tetris51.0.raw" size="363975" crc="1976cd71" md5="a4c0b391a7a7c58cfa6abece5b765d40" sha1="b8c65003f4e54f054b43e8ec3e269fdd6f0da63a"/>
+		<rom name="tetris51.1.raw" size="374252" crc="adc24f0c" md5="c2e62c8f4eb51d0382db8b57a1ab5be0" sha1="2a82df281dcd8570a15561fe09251b4a4a928ef1"/>
+		<rom name="tetris52.0.raw" size="356295" crc="2e80e8b4" md5="cd9b20f9ee2b7ff8957d0c08786a2473" sha1="3ed5d00eeb1e6555f571a47a57680e7e3f7127d4"/>
+		<rom name="tetris52.1.raw" size="374312" crc="5ddc21db" md5="996c782c0a6724f5749b18c3b6b973f9" sha1="e906ba56a53c880b20f373dd32c177e864d4943a"/>
+		<rom name="tetris53.0.raw" size="364061" crc="b4a7a6a1" md5="de0cc79505caa7c167b5697b606933d2" sha1="e9b9f37807f260e9d4beb9c08afe245621514b7b"/>
+		<rom name="tetris53.1.raw" size="352245" crc="682b9577" md5="f674a98c3e6e104d4cb7483e22a38b37" sha1="4e71d9a7675d629bb22577cb56369a6d7f647ba1"/>
+		<rom name="tetris54.0.raw" size="355671" crc="c10bf420" md5="59d5d56b171d90896e629e843f55a021" sha1="7f57e9c3182902875645ee3aa614151e6e9c776c"/>
+		<rom name="tetris54.1.raw" size="324816" crc="0db74b7c" md5="33f6dafeda9ac519f0ae0d994c8e8fcb" sha1="01c0176ca66a24e9a54642cfa02675932b6eb3dd"/>
+		<rom name="tetris55.0.raw" size="371297" crc="1f658ba8" md5="0d1c624125a9bcf74d00cfb2bab7a7e7" sha1="eceebc09afa7246b3e6170273f44ba98ca737aa1"/>
+		<rom name="tetris55.1.raw" size="319467" crc="1df40912" md5="11f4635387f269522ac4b2c62aa0e183" sha1="dc94c04b759e244af4b0b3f019f14d9bc885179a"/>
+		<rom name="tetris56.0.raw" size="369269" crc="7208f22f" md5="08a919854b3d1c9a76901b70ed022ed5" sha1="6e3cd1f5f7ebb23f76d8d544f2808f75da725a98"/>
+		<rom name="tetris56.1.raw" size="318572" crc="c5ff8f14" md5="effff23257f888a1c8f64a95f9c34fe9" sha1="aa32f1a2b74b762d58bcb9102c5e012d8b5ad897"/>
+		<rom name="tetris57.0.raw" size="363853" crc="9458278b" md5="5fe620a555eef318f3c6f80241e94bd1" sha1="5b7d57b61470286e3fa7c6bc42e7f120a30508f4"/>
+		<rom name="tetris57.1.raw" size="352408" crc="d5863b86" md5="3519fceb38e5554bfe77690c144dbbda" sha1="053cb025df73bd76cc0023dc08d85a147b46806f"/>
+		<rom name="tetris58.0.raw" size="348443" crc="04dfe87f" md5="9dd5b4a5e37c15f0f5e717a4f87ce5c8" sha1="cd4ea814f8a49f8e5a4cc77d3065b1a4ac9516d4"/>
+		<rom name="tetris58.1.raw" size="372346" crc="242f4c75" md5="3d2ecab0e62dd7901b57d95c7f4071c0" sha1="d30229325b8e6efbafa593d9c7585c0e68ea055f"/>
+		<rom name="tetris59.0.raw" size="348505" crc="bee35901" md5="582bbb552773eabb67dd4f02367f6b47" sha1="fe67750db4f6522e4519d235a426e4d7114d3bfb"/>
+		<rom name="tetris59.1.raw" size="318394" crc="f680f2f9" md5="b22476d3213e99c500009208742915ef" sha1="5468e1c34dc108237eb6b8f2d19da62418b7e556"/>
+		<rom name="tetris60.0.raw" size="347601" crc="6f81e4e6" md5="b50f5e9b54e0875b84fcce3b325c11e5" sha1="3b26cec4e7578e91a6f5aaa19f6ef92cf56b5eb4"/>
+		<rom name="tetris60.1.raw" size="374422" crc="61c43e4e" md5="8ffe2fc0655037e4723c64b565cc996f" sha1="291b1fc1114c68465c74436b3df7023922119eef"/>
+		<rom name="tetris61.0.raw" size="356754" crc="aaeb279a" md5="4559476faa2bb4b39f4bb63bba4b34c3" sha1="e497ee426889b3d071de1f27d1bd0b216f621d4a"/>
+		<rom name="tetris61.1.raw" size="318944" crc="a9be8ee6" md5="023816661b1f20c06ed9b1ed5385719b" sha1="baf2da6a90ed957dc848f26b4e2b82eaf2a86914"/>
+		<rom name="tetris62.0.raw" size="363963" crc="717c2343" md5="43fcf4e1aa1930428634907ad38cdf3e" sha1="78033ebc650439e88eac307f06ed46337addb809"/>
+		<rom name="tetris62.1.raw" size="317663" crc="5e1c4d39" md5="816cc5abe6d871dc30450493b1600273" sha1="462a785f021a5bb043ab3c9d2476509298e34b51"/>
+		<rom name="tetris63.0.raw" size="370370" crc="9395a8bb" md5="3162f23472815f221b1b5536a554ffe3" sha1="9d1682ab5003b72fb84d7b0075954450a0832771"/>
+		<rom name="tetris63.1.raw" size="360365" crc="be262d87" md5="b8587d384ba635366dfe5db9ae196a18" sha1="5eeca05d9060b52ba4593e93cab1135b7c94cbee"/>
+		<rom name="tetris64.0.raw" size="356042" crc="d938ce6e" md5="a4c8a5302490fe9c9d9439d63f52b67f" sha1="f32dd7d0b0f89f61ac1d0745aee694c74a8311c2"/>
+		<rom name="tetris64.1.raw" size="317493" crc="a02ba36d" md5="3617b4881b12d248c275eef9846228c2" sha1="f87063405d023274b763652eb621a1ecd8fa320f"/>
+		<rom name="tetris65.0.raw" size="371263" crc="6f73e843" md5="efc72ebf57ad7de897806a469e1d5283" sha1="3d41eb855f9225e838fd92afa841612b235f374e"/>
+		<rom name="tetris65.1.raw" size="367524" crc="d396a988" md5="2d87317bc785dafe5d1cf08c9d1208bf" sha1="f9c8f52ae394e38176573e48a40cd469450a33fb"/>
+		<rom name="tetris66.0.raw" size="363585" crc="a06b8f47" md5="dbe09e5058f937c72ad656c555f50a36" sha1="36b576bc42a09b448418f5e468381153e3f2b65d"/>
+		<rom name="tetris66.1.raw" size="374585" crc="bfda4604" md5="8b1184ce4d9353fe38c98dcbaff47951" sha1="536580956fd49937b28f30277df552e24abaf74b"/>
+		<rom name="tetris67.0.raw" size="356596" crc="4a90ffb1" md5="603476e70cda065250c4deea62ead577" sha1="13709d4cbd8743aae118fc329779f96ab4756cf8"/>
+		<rom name="tetris67.1.raw" size="374241" crc="18b7d9de" md5="acaf8b47679929a7030a2a33e14efa0f" sha1="4899143382826550d508a939f2df0db843d3db08"/>
+		<rom name="tetris68.0.raw" size="349304" crc="0867d996" md5="830d117a22fb86a29d8b9eee4ff0f6af" sha1="74bf469b181277b6b32cf87ece79c97cceaabe2b"/>
+		<rom name="tetris68.1.raw" size="319206" crc="faacc88e" md5="b9a29719352817ad236640ba6c20433a" sha1="e59e5c8960568f793a5458a32eaea4347e5f1b15"/>
+		<rom name="tetris69.0.raw" size="370752" crc="4024be23" md5="75572e50ae4bb8701e54c066a756ea0e" sha1="780b3e6fffb96e0f9296ee6b4542bd1e7ee19f9e"/>
+		<rom name="tetris69.1.raw" size="374756" crc="7d63865a" md5="423cf8e839dba94e163d75f460b4d11a" sha1="eb1401181994385bd14a06f301bdbbcb95921706"/>
+		<rom name="tetris70.0.raw" size="349479" crc="914d28a5" md5="4cf30f3d87a0aee566ba7154dd423f53" sha1="80fb8924f8884832c94750d9f89858ed7b1173e7"/>
+		<rom name="tetris70.1.raw" size="317923" crc="dd5f869a" md5="76b0d25da2cf86da6c3b7593e024db2f" sha1="1c212ce425c50e37b59c9d094089782ff76b0630"/>
+		<rom name="tetris71.0.raw" size="364333" crc="cf2dd76c" md5="257473ff82b7b08efb578303e8f59724" sha1="372f688079c7092783e7c1c6b91144f4b77c9124"/>
+		<rom name="tetris71.1.raw" size="372396" crc="595249ee" md5="c2e73bdf34e09205afc6f9f3ad88f28d" sha1="583bc0b0428682926de98c8b814c3c9c74552390"/>
+		<rom name="tetris72.0.raw" size="347054" crc="4bd714a1" md5="28e74a6400811c01b4865493360e2d24" sha1="ddcd9a331e7f85fd23f89c4190cb8348f8b7d689"/>
+		<rom name="tetris72.1.raw" size="319189" crc="c80c4086" md5="5837caed94c3c50a46f858e75b2c602f" sha1="bd07fc60c28c4b0fecb32503ac5d91e3f43d3579"/>
+		<rom name="tetris73.0.raw" size="356028" crc="4b3fbc6e" md5="a9c1605d835f555d96f5ff30244f29bd" sha1="d571537de0bd61a5747819b312b1a584db1703bf"/>
+		<rom name="tetris73.1.raw" size="318926" crc="60af4c82" md5="61092ed8c7dfe6f3b81ace226a8154f1" sha1="76ee69be5e252f452554f4248a9c266130148980"/>
+		<rom name="tetris74.0.raw" size="363853" crc="fb72e659" md5="fd699b5e42bdc6b827ffeeec8d9789ab" sha1="d1c025d70eff2e61b8fd650e4795b4bbf07611ac"/>
+		<rom name="tetris74.1.raw" size="374478" crc="9c6c4733" md5="dbeb7db396772fb83a7102150ed2c7ec" sha1="e3c71708fffc4ef3c4b31cee1e4d4be40ed9a7d0"/>
+		<rom name="tetris75.0.raw" size="362072" crc="1363f5d6" md5="788689ba952976df766ed1daa134492e" sha1="199c52d9f42b8397a4d8a2ef10fe705d70c38c51"/>
+		<rom name="tetris75.1.raw" size="319106" crc="4baccca4" md5="cf46ea183f80af95ae5f06877ad1ea87" sha1="de2040bced7b697dfd6c381b7a5a856c9e049db6"/>
+		<rom name="tetris76.0.raw" size="362263" crc="45d19e97" md5="e4bf7064a26d2f13e63b969e392effbb" sha1="f89145499d69d4bf127b563e60a12b1b86c229a2"/>
+		<rom name="tetris76.1.raw" size="374702" crc="1bc0f095" md5="4f51f143f1a217b57ee20fc5735f5573" sha1="da40be237fb66994023d4c6ddab52b90dee3c4c7"/>
+		<rom name="tetris77.0.raw" size="355854" crc="ef49dd71" md5="6133ace4a81ea6c0ab4a5418c82fe432" sha1="b75e5bbb03b8de40849283c8238195fae5927d36"/>
+		<rom name="tetris77.1.raw" size="348039" crc="2e117d5a" md5="d4a18af4220ad61b4d7e6d0cae6cfeed" sha1="9dd1542cb60385733e0162626fcf23e7ff4c5801"/>
+		<rom name="tetris78.0.raw" size="369314" crc="646b6e40" md5="d08632a2001c2a1bc3bc236520c87586" sha1="205aad2f1fe756044edf22d01a9b8701b351d253"/>
+		<rom name="tetris78.1.raw" size="410245" crc="5186897b" md5="ecac1796a82f20979aabbb365ee33823" sha1="048a468d4422307244f819e1cf7f89d79ae9f08c"/>
+		<rom name="tetris79.0.raw" size="345196" crc="2a867649" md5="d6e223b6accd7bf116916bdcd369a103" sha1="5699ec3999787542f20d8e850ee6c900472e45e9"/>
+		<rom name="tetris79.1.raw" size="358081" crc="8f2f062e" md5="4b011a7c0b7b56a869fd9b455177e907" sha1="ab80af53e75be7108181ece4f83174f363da4edb"/>
+		<rom name="tetris80.0.raw" size="369700" crc="595e7aea" md5="f3cffafeac9fcd35f630855e5e6f2eff" sha1="bb8d0bb8c4b31da4235b871936c8c48d199d5406"/>
+		<rom name="tetris80.1.raw" size="411599" crc="fcc2bae7" md5="a59db0ceadb1ad7889c13ea8e9dd2e1e" sha1="a4d753c4b713b082e713361bfad7000e1e32a566"/>
+		<rom name="tetris81.0.raw" size="361077" crc="2d231bc1" md5="3299afe8fd91d49d1876d17a9eaea603" sha1="796a19567c4e5f5a9dd9b77f481e22762467392d"/>
+		<rom name="tetris81.1.raw" size="348978" crc="2bd65aff" md5="ba717096097b2d1c49870814ed51c0e7" sha1="bcba1d9e7bd97b1c630db63c50a2e5e3f9a3fd53"/>
+		<rom name="tetris82.0.raw" size="367730" crc="228adcd0" md5="c5ae1889bf6cc3e91a6dc4498bdd352a" sha1="79974bad9afe87f3e0912aed7e013e5632be1ede"/>
+		<rom name="tetris82.1.raw" size="410241" crc="83f957d2" md5="a8de3b19eeb53c88c007655ded768406" sha1="88076ab24e6448981ff13929e25d0a0b3b9bf3d3"/>
+		<rom name="tetris83.0.raw" size="367048" crc="e1a99f8c" md5="4424f8a67678d849c21e7ed08d01ae8e" sha1="9094b1c0000bf59acb45a4ea240309e2be0e62ea"/>
+		<rom name="tetris83.1.raw" size="411028" crc="fb08096b" md5="daed05e4e7d97f334772d18f248513e8" sha1="335c583adc4306a371ff5140cc8fe76159784c7d"/>
+	</game>
+</datafile>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>MITS Altair 8800 - Various - [BIN]</name>
+		<description>MITS Altair 8800 - Various - [BIN] (TOSEC-v2014-04-11)</description>
+		<category>TOSEC</category>
+		<version>2014-04-11</version>
+		<author>TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Doodle (19xx)(-)[dazzler output][$0200]">
+		<description>Doodle (19xx)(-)[dazzler output][$0200]</description>
+		<rom name="Doodle (19xx)(-)[dazzler output][$0200].bin" size="537" crc="a164c028" md5="af079df6dcf32f846a9203376d62790c" sha1="06228eb5cd2e4bc2d66d2103caaf5c13d7c2582c"/>
+	</game>
+</datafile>

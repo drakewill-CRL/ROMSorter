@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Casio PB-1000 - Applications</name>
+		<description>Casio PB-1000 - Applications (TOSEC-v2013-12-16)</description>
+		<category>TOSEC</category>
+		<version>2013-12-16</version>
+		<author>Cid</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="BigTime (2000)(Onagawa, T.)">
+		<description>BigTime (2000)(Onagawa, T.)</description>
+		<rom name="----$.BAS" size="1969" crc="9f2f9883" md5="7de88943680c104590797eccdd47cd3b" sha1="e8f0d7b0666af98945ad91ce6d697cb83abb63f1"/>
+		<rom name="BIGTIME.BAS" size="6351" crc="aeb4c244" md5="6229c134838e1be9ca94fd442510db95" sha1="715fd2083e0686cd11a80f8f4225d31e95065ed5"/>
+	</game>
+	<game name="Carreras v1.1 (19xx)(Calderon, Ricardo)(es)">
+		<description>Carreras v1.1 (19xx)(Calderon, Ricardo)(es)</description>
+		<rom name="CARRERAS.BAS" size="2791" crc="d5b3df05" md5="8bfc91819c64d016ce05d3a1582a636d" sha1="7564bf1d9ced4efd83a61a958a30859f4e6925b8"/>
+		<rom name="CARRERAS.TXT" size="1712" crc="8a747fee" md5="3fb5c4ee23ee5e3746cdf6a21912c3d4" sha1="133444efc022e1b0b74f2d0d667e8d78cee5b603"/>
+	</game>
+	<game name="Casio PB-1000 Menu Simulator v2.31c (2004)(Blue)">
+		<description>Casio PB-1000 Menu Simulator v2.31c (2004)(Blue)</description>
+		<rom name="BOOT.B" size="81" crc="521a6a39" md5="fb7d13eeb8614cacddbcf8a9417f6cc7" sha1="a1bbcd821b2b64f7239d31c80d569b335ce32499"/>
+		<rom name="BOOTVX3.B" size="81" crc="47150912" md5="9428ae08e14d348e55bd49012bba7902" sha1="0dcf2ee05a8bc1351d35e2a8adba57d746287afb"/>
+		<rom name="FCOM.S" size="91138" crc="444120fc" md5="b71bd93a15932e50c4cd9c63f3d353c1" sha1="6b9fbf23adfa33d291875a75e9523b0d964cac63"/>
+		<rom name="PBF2BIN.Q" size="1626" crc="cdd38bff" md5="9dcda6547c72ffa5d42480978c772328" sha1="24d48e6d2b11bed770293e1e1bb1ddc76f5a408a"/>
+		<rom name="PBF2BINVX3.Q" size="1622" crc="b03eab8f" md5="ffa4bd08b10b1590c3746d3a06f54e3b" sha1="f91b4cb6c8965d9f4ae84f639850f10af6e77ea4"/>
+		<rom name="VMN32K.PBF" size="9382" crc="d5c84429" md5="2296d58e6829153c5bd432a368c8cb97" sha1="90b5dad0b2328cae4951f17fdb0c2e43ff49d012"/>
+		<rom name="VMN40K.PBF" size="9383" crc="f53eaf4c" md5="74ffc43a3eeddc10a4753146bf230ec2" sha1="b0bdae011c5a61d16889c06bd1462f1571bc4df5"/>
+		<rom name="VMN64K.PBF" size="9384" crc="2d7bb20b" md5="83f9e7480324f932b919d8739e1999e7" sha1="8a4a9067deb01af558411bb797bdb800e4ddf54e"/>
+		<rom name="VX3M40K.PBF" size="9398" crc="62a94b1c" md5="cae18347ea80e3167c5a11ac5bea60a1" sha1="05d7f7125fdafc8de292c83054f4d1286740562b"/>
+	</game>
+	<game name="FX-Binary-Filer v2.1 (2003)(Amano, Jun)">
+		<description>FX-Binary-Filer v2.1 (2003)(Amano, Jun)</description>
+		<rom name="DIRECTFBF_BIN2PBF21.B" size="2207" crc="c928f7de" md5="cd8b960eaa9aedb81ebac09fec29115e" sha1="0023c38c85d1772e4a5b6ca5bb49a8eb8291182a"/>
+		<rom name="DIRECTFBF_PBF2BIN21.B" size="2450" crc="df5bb140" md5="96ab601c646b038ccce0d7d4e181f9d0" sha1="7faa3d036cd0fd0916cabef34f8008ffe721f440"/>
+		<rom name="FBF_BR21.BAS" size="3570" crc="bf50ddc3" md5="7f1fce00883866cc2748782e8673b91c" sha1="49c8d57ac22d69e6bbdd7504e8d1a223562671ed"/>
+		<rom name="FBF_INST21.BAS" size="4853" crc="6a712fbc" md5="09761c2683116f3e3c098437e1d5b1c0" sha1="0863e6cd4290f46efccf0186783358d6103f6a1a"/>
+		<rom name="FBF_v21.ASM" size="23880" crc="f06a6f2d" md5="9cc534a405c3450a18593f758d45583a" sha1="b33939637b6149edf6a275e0a0126c9884cf41d3"/>
+		<rom name="FBFFILER21.BAS" size="4652" crc="72efa2e7" md5="3d9061ceb1a4256d5f26425a48828a45" sha1="4e0c54141ba272c2dcb366bd527375a5ad787342"/>
+		<rom name="FILEFIND.BAS" size="197" crc="55f77869" md5="04f90e9f3a2afef645ef1154c19d7258" sha1="0cfe7fc7a1860c8eaf2fec189fe015bd5816efe5"/>
+		<rom name="FILELIST.BAS" size="271" crc="1de97ad9" md5="b85604b38c33c4d93b32d728bce1a4b0" sha1="a8bcf9a5e0d1b59be3a96eafd7ac6c4c34405ea4"/>
+		<rom name="GRAPHIC.PBF" size="1601" crc="a45fb71a" md5="d8b3394ceca95782cc132fd9b60a79b8" sha1="37afbb5f6e57cd967718e5cd620393a3acfe8d25"/>
+		<rom name="GRFLOAD.ASM" size="1572" crc="11d6c42d" md5="2cc054875e9a89dd7f178dcd6290de5c" sha1="db43e01e647f49b48db91c967f50175bf8a232b3"/>
+	</game>
+	<game name="Jintori8x8 (19xx)(Olfa)">
+		<description>Jintori8x8 (19xx)(Olfa)</description>
+		<rom name="CLR.B" size="897" crc="8d75baef" md5="465b8b0b53e9dfba5dbb0b8dab6bdcfc" sha1="8733b90ca3bae3e83855bbb6d8b2aa5b0b1ab7b4"/>
+		<rom name="CLRVX3.B" size="884" crc="2bc85ab6" md5="2f6016f3e09f9753425ef11d81898a1d" sha1="66511a45726affb0bc26fea08ffa3e6fcc674a65"/>
+		<rom name="JINTORI-VX3.PBF" size="4046" crc="bca8883a" md5="67bf3c4276b2a702c17624b44b5bf6b1" sha1="83ab85e85d8d3b7be850e56986ba66b70d58ca03"/>
+		<rom name="JINTORI-VX4.PBF" size="4043" crc="d5b2b943" md5="966c585df2ecaacbf6d84ffc246e5f3c" sha1="7f8b1d03c143712bcd90668c91572ab72d97aaf0"/>
+		<rom name="JINTORI.ASM" size="19201" crc="195b0962" md5="466664bcd1a93374d2e9091947905cb1" sha1="769742ad7a2adc43e1f93fefeb8696d11c6de7b0"/>
+		<rom name="JINTORI.PBF" size="4162" crc="0123aa89" md5="323114c00eb3246a3ffb66466405251f" sha1="39ffd9b44fe866924845dcaecd8ba2d92f59f395"/>
+		<rom name="JINTORI.S" size="26253" crc="d7745f01" md5="1133bba0201a296029232a4abe9bab3f" sha1="7bcdd7ed15dcb5e06885f2b96956506542e85037"/>
+		<rom name="JINTORIAI.B" size="5740" crc="4f7ce5a2" md5="3c605a49ed7a39b8a8d4b1eade555cf3" sha1="941e3e363d10e27804dcd094b45ef50dfda120b5"/>
+		<rom name="JINTORIAI_BOOT.B" size="51" crc="ebd08bcc" md5="6f58d386c433be4d3a41c698282c2f05" sha1="fca3714905d24782812965afc91b0ae45f3380a9"/>
+		<rom name="JINTORIC.PBF" size="4163" crc="cdb4cf2e" md5="f9a139caabc6ef40424e2dfee3636ea5" sha1="023ee3027fecb742b14a67d2e55fe9b20cb79dd1"/>
+		<rom name="JNTRI_VX.PBF" size="4040" crc="2060c740" md5="470df3cca17ca718fd96520899e4d083" sha1="16b0297913c53da7d4dd25a6d911546308c4e473"/>
+		<rom name="PBF2BINVX3.B" size="1658" crc="0150f5da" md5="9629d7ed58f9fe4c4dc5472395cd137f" sha1="5b2b69a387e33c01705cccb687bd1c6e0a7e60d2"/>
+		<rom name="PBFTOBIN.BAS" size="701" crc="225029ec" md5="ea8eb4603f4111a436ad8ac6b3e0c37d" sha1="d9a217320f8874afbe164063f041ac19b1ccca2e"/>
+		<rom name="PBFTOBIN_VX.BAS" size="1665" crc="3a553cf1" md5="4e93d3a3d0be7537e0bdb33f12c1759c" sha1="c04f8f249cddba60cab53f390b00dcbb5653076e"/>
+	</game>
+	<game name="O-E-KA-KI 870 (2003)(Amano, Jun)">
+		<description>O-E-KA-KI 870 (2003)(Amano, Jun)</description>
+		<rom name="DOT.ASM" size="1617" crc="b65d2c51" md5="a5bd7c87f94a05932e8e453c8a0f5e0a" sha1="de86842aff1412f1919df10f8b09c1575db0cc7d"/>
+		<rom name="DOT.PBF" size="348" crc="9aca96d5" md5="76ea2249b3e26e9f19db0532d5a79787" sha1="04e18d4b31f3426286fd6ca5aa9c74bd03578f33"/>
+		<rom name="OEKAKI20.BAS" size="2004" crc="a26783b5" md5="8932bfb75b3882f82b13255df5e14358" sha1="4ee59c1370af392dedc86772a2542f480c64d035"/>
+		<rom name="OEKAKI_VMN.BAS" size="2074" crc="1de319cc" md5="bbac41eb1c4be2eda2bcddf50981008f" sha1="fe261bee405dab7a253d8d4f4e815db7176a53a4"/>
+		<rom name="SAMPLE.PBF" size="1600" crc="37a732ca" md5="8c3a224b767f70a79b5e8ad1f27c84fd" sha1="106e2d878bc81b785048aae8565a503ad4dfc782"/>
+	</game>
+	<game name="Pica v1.1 (19xx)(Calderon, Ricardo)">
+		<description>Pica v1.1 (19xx)(Calderon, Ricardo)</description>
+		<rom name="PICAS.BAS" size="1116" crc="dc884b1c" md5="abc496d0fedfeb421960e3a8405027f4" sha1="623b43647c865c3e6e506dcd3b3f97cef2241546"/>
+	</game>
+	<game name="Pockecom Prowestring (1990)(Amano, Jun)">
+		<description>Pockecom Prowestring (1990)(Amano, Jun)</description>
+		<rom name="MACHINE1.PBF" size="7247" crc="5a637737" md5="d8535fcd198bda58c36060f1527910a7" sha1="1c1a4d9900cc0d56fd180ca764748d99dce78623"/>
+		<rom name="MACHINE2.PBF" size="5384" crc="344e71d8" md5="8d8e8a14aeb9928cf489bee1e5ec0eda" sha1="eceb5cd0665a5687278536157e360139b2edb134"/>
+		<rom name="PBFTOBIN.BAS" size="701" crc="225029ec" md5="ea8eb4603f4111a436ad8ac6b3e0c37d" sha1="d9a217320f8874afbe164063f041ac19b1ccca2e"/>
+		<rom name="PRO_J.BAS" size="20030" crc="aee18367" md5="0faa6df89f91789fb40a8b9b7037d407" sha1="ccea7307577b54b8810eb73651a1aa410704cdd4"/>
+		<rom name="RING.PBF" size="2397" crc="42180bff" md5="36bcab954a8755531b0e44edd89b4901" sha1="93a0a55796249d49fa2592e29b3eac1e07efae0a"/>
+		<rom name="TITLE.PBF" size="1606" crc="ab8d2caa" md5="e7b8bd638064b57868a6a768df6200ed" sha1="b2dd485ba403a04741726b76f34aca3fed5cd841"/>
+	</game>
+	<game name="Record (19xx)(Calderon, Ricardo)">
+		<description>Record (19xx)(Calderon, Ricardo)</description>
+		<rom name="RECORD.BAS" size="1542" crc="c8e541db" md5="2724835b469795e9769c3578d7f627ca" sha1="e1a6b4bb8596c915b234fe21e2bcb530761c2f65"/>
+		<rom name="RECORD.TXT" size="623" crc="d7b7d8f0" md5="999f04a0b7682e72c36269226d1e1e1e" sha1="4f39bbed3fcf18652bd30045aeded18668e04fb8"/>
+	</game>
+</datafile>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Patisonic Aleste 520EX - Compilations - Games</name>
+		<description>Patisonic Aleste 520EX - Compilations - Games (TOSEC-v2018-03-08)</description>
+		<category>TOSEC</category>
+		<version>2018-03-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="MSX Games (19xx)(-)">
+		<description>MSX Games (19xx)(-)</description>
+		<rom name="MSX Games (19xx)(-).dsk" size="737280" crc="4dad43d8" md5="4b10fa6577000053d436e36c207fbc4d" sha1="57c40c44e8bc23193008aee77903f8b8021c3968"/>
+	</game>
+</datafile>

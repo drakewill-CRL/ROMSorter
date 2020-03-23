@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Visual Pinball [VP91x] PinMame Tables [Hybrid View]</name>
+		<description>Visual Pinball [VP91x] PinMame Tables [Hybrid View]</description>
+		<category>Visual Pinball [VP91x] PinMame Tables [Hybrid View]</category>
+		<version>1.0</version>
+		<date>2020-01-01</date>
+		<author>Yori Yoshizuki</author>
+		<email>-insert email-</email>
+		<homepage>Yori Yoshizuki</homepage>
+		<url>https://yoshizuki.webs.com</url>
+		<comment>-insert comment-</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Addams Family, The (Bally)(1992)">
+		<description>Addams Family, The (Bally)(1992)</description>
+		<rom name="The Addams Family (1992) (Bally) (Melon) (Rascal) (HV) (1.0) vp91x.png" size="3286763" crc="a28e5f1f" sha1="7617a5be44ec0c2cfdcf46e6e83cd6c01a180393"/>
+		<rom name="The Addams Family (1992) (Bally) (Melon) (Rascal) (HV) (1.0) vp91x.vpt" size="23908352" crc="c977303e" sha1="9cecc3439f2fca51bed06b6712b7dbd211632271"/>
+	</machine>
+	<machine name="Airborne (Capcom)(1996)">
+		<description>Airborne (Capcom)(1996)</description>
+		<rom name="Airborne (Capcom)(1996)(Bodydump, Jimmyfingers, Rascal)(1.0)[VP916][HybridView].png" size="2274043" crc="666d8f07" sha1="8f40e734e129d844e5696d5ee8284f0f23c370ec"/>
+		<rom name="Airborne (Capcom)(1996)(Bodydump, Jimmyfingers, Rascal)(1.0)[VP916][HybridView].vpt" size="31596544" crc="f12369ca" sha1="3cb11113562bc13803e5d711544938e0bef9d7c4"/>
+	</machine>
+	<machine name="Al's Garage Band Goes On A World Tour (AlvinG)(1992)">
+		<description>Al's Garage Band Goes On A World Tour (AlvinG)(1992)</description>
+		<rom name="Al's Garage Band Goes On A World Tour (AlvinG)(1992)(oooPLAYER1ooo, Rascal)(1.0)[VP916][HybridView].png" size="3125685" crc="eb8ec0db" sha1="fc6f4745bf3fa2d25c7a6f3efe927f09bca5b1e6"/>
+		<rom name="Al's Garage Band Goes On A World Tour (AlvinG)(1992)(oooPLAYER1ooo, Rascal)(1.0)[VP916][HybridView].vpt" size="33169408" crc="4782d1f5" sha1="c26a088f30b1c6f1826b08fe437e483a5df16a69"/>
+	</machine>
+	<machine name="Avatar (Stern)(2010)">
+		<description>Avatar (Stern)(2010)</description>
+		<rom name="Avatar (2010) (Stern) (85vett) (Rascal) (1.0) (HV) vp916.png" size="3997170" crc="96a19806" sha1="cf788981240097f3ce6046e8b587723288edb7cd"/>
+		<rom name="Avatar (2010) (Stern) (85vett) (Rascal) (1.0) (HV) vp916.vpt" size="35405824" crc="34627199" sha1="7356da795c30149b507a2054d763084d4b760592"/>
+	</machine>
+	<machine name="Bad Cats (Williams)(1989)">
+		<description>Bad Cats (Williams)(1989)</description>
+		<rom name="Bad Cats (1989) (Williams) (jpsalas) (Rascal) (1.0) (HV) vp915.png" size="2670714" crc="487656c1" sha1="8e5ecdf4b07c1b4a0e7bc186e6e04cad4b1244ce"/>
+		<rom name="Bad Cats (1989) (Williams) (jpsalas) (Rascal) (1.0) (HV) vp915.vpt" size="27815936" crc="c203dcc4" sha1="1c63b9a0aa26237c4edfeb0beffdc365846cba2f"/>
+	</machine>
+	<machine name="Banzai Run (Williams)(1988)">
+		<description>Banzai Run (Williams)(1988)</description>
+		<rom name="Banzai Run (1988) (Williams) (Megapin - GRONI) (Rascal) (1.0) (HV) vp916.png" size="2707480" crc="8e811c95" sha1="ab76cb37814f83c159e5e68358ba67ac6e4ecdae"/>
+		<rom name="Banzai Run (1988) (Williams) (Megapin - GRONI) (Rascal) (1.0) (HV) vp916.vpt" size="34697216" crc="3ca4a79d" sha1="e2ddc87dfb89b4f09751752884aa8e633aa2e41e"/>
+	</machine>
+	<machine name="Big Bang Bar (Capcom)(1996)">
+		<description>Big Bang Bar (Capcom)(1996)</description>
+		<rom name="Big Bang Bar (Capcom)(1996)(unclewilly, jimmyfingers, Grizz)(2.0)[VP914][HyperView Rascal v1.0].vpt" size="49913856" crc="1afc4740" sha1="55c6dd2253125f21d408de6b5e7e1f7fef58d7c5"/>
+		<rom name="Big Bang Bar screenshot.png" size="2797521" crc="5405cce8" sha1="678e9cd4646f1f5761b0880ee45f91cef2749ec0"/>
+	</machine>
+	<machine name="Congo (Williams)(1995)">
+		<description>Congo (Williams)(1995)</description>
+		<rom name="Congo (1995) (Williams) (jpsalas) (Rascal) (1.0) (HV) VP916.png" size="2635333" crc="566302f6" sha1="7edf5a7ebfac1e71df3837535abcdc489bf6669e"/>
+		<rom name="Congo (1995) (Williams) (jpsalas) (Rascal) (1.0) (HV) VP916.vpt" size="21676032" crc="4102f6a9" sha1="0e94bd99193bd5f30d7e538cb5963f30b7a9d115"/>
+	</machine>
+	<machine name="Cyclone (Williams)(1988)">
+		<description>Cyclone (Williams)(1988)</description>
+		<rom name="Cyclone (1988) (Williams) (Melon) (Rascal) (1.0) (HV) vp916.png" size="2978832" crc="4cc76d5f" sha1="ba6ee8c31f6de04c9e557a76c0850b5c44273742"/>
+		<rom name="Cyclone (1988) (Williams) (Melon) (Rascal) (1.0) (HV) vp916.vpt" size="25096192" crc="50a23dda" sha1="30faed57762c80b71cf5f93c17cee51b88b7a633"/>
+	</machine>
+	<machine name="Diner (Williams)(1990)">
+		<description>Diner (Williams)(1990)</description>
+		<rom name="Diner (Williams)(1990)(Tamoore)(1.0)[VP916][B2S][HyperView Rascal v1.0]\b2s.vbs" size="7527" crc="61185a8d" sha1="8a355a7b9ec0334e73a36e6bb783f8876d8be533"/>
+		<rom name="Diner (Williams)(1990)(Tamoore)(1.0)[VP916][B2S][HyperView Rascal v1.0]\B2S_SetUp.exe" size="52736" crc="bd2ca485" sha1="f8027e8e135d2d6f9679719b4eb53c5e42e2c108"/>
+		<rom name="Diner (Williams)(1990)(Tamoore)(1.0)[VP916][B2S][HyperView Rascal v1.0]\Diner (1990) (Williams) (Rascal) (Tamoore) (1.0) (HV) vp916.png" size="3295191" crc="cdc32ae8" sha1="944d0b9cc616cf23c1f1d9af3cd7b8a15d543ba0"/>
+		<rom name="Diner (Williams)(1990)(Tamoore)(1.0)[VP916][B2S][HyperView Rascal v1.0]\Diner_WS_B2S.exe" size="28448256" crc="870a267b" sha1="faf2b7116f054295d1d8ba8cc08509e842ec2a17"/>
+		<rom name="Diner (Williams)(1990)(Tamoore)(1.0)[VP916][B2S][HyperView Rascal v1.0]\Diner_WS_B2S.vpt" size="33701888" crc="d7bfbc40" sha1="2a535ee596447be6a5b805fc270f0a26d6fbff85"/>
+		<rom name="Diner (Williams)(1990)(Tamoore)(1.0)[VP916][B2S][HyperView Rascal v1.0]\ScreenRes.txt" size="24" crc="1f74f727" sha1="8ec97ad34ebf3cfec25ae539f91ed10d9591dda3"/>
+	</machine>
+	<machine name="Dolly Parton (Bally)(1978)">
+		<description>Dolly Parton (Bally)(1978)</description>
+		<rom name="Dolly Parton (1978) (Bally) (jpsalas) (Rascal) (1.0) (HV) vp916.png" size="2686491" crc="5f4ac345" sha1="100f205cc4b6ac84edce36a9a786e30ec491ca99"/>
+		<rom name="Dolly Parton (1978) (Bally) (jpsalas) (Rascal) (1.0) (HV) vp916.vpt" size="21925888" crc="a608166d" sha1="4cf1bc8cd1c5eda2fb64bc08117545f56429de44"/>
+	</machine>
+	<machine name="Eight Ball (Bally)(1977)">
+		<description>Eight Ball (Bally)(1977)</description>
+		<rom name="Eight Ball (1977) (Bally) (Megapin - Groni) (Rascal) (1.0) (Hv) VP916.png" size="2951446" crc="2bd2ec2d" sha1="e49074d1d1d7b7053d8375586ec8827fe493dd4b"/>
+		<rom name="Eight Ball (1977) (Bally) (Megapin - Groni) (Rascal) (1.0) (Hv) VP916.vpt" size="28966912" crc="de78f593" sha1="f698a5dad475e31027fd559afcf21d90e7040716"/>
+	</machine>
+	<machine name="Fish Tales (Williams)(1992)">
+		<description>Fish Tales (Williams)(1992)</description>
+		<rom name="Fish Tales (1992) (Williams) (Melon) (Rascal) (1.0) (HV) vp9 to vp916.png" size="3054363" crc="786f3ebf" sha1="06166335e12d57095369c6fc510fd2e6d7b2cc78"/>
+		<rom name="Fish Tales (1992) (Williams) (Melon) (Rascal) (1.0) (HV) vp9 to vp916.vpt" size="24510464" crc="a1070236" sha1="46a4de28131e914dc0f77e24403e0081695a269d"/>
+	</machine>
+	<machine name="Funhouse (Williams)(1990)">
+		<description>Funhouse (Williams)(1990)</description>
+		<rom name="Funhouse (1990) (Williams) (jpsalas) (Rascal) (1.0) (HV) vp916.png" size="3484756" crc="e0acb10f" sha1="fc7910a6ff03431cdaf08ac59a0a7273ddced9e2"/>
+		<rom name="Funhouse (1990) (Williams) (jpsalas) (Rascal) (1.0) (HV) vp916.vpt" size="18448384" crc="9a16902b" sha1="05748dec8e72bd4bb5a01b4e319111550224d6a3"/>
+	</machine>
+	<machine name="Junk Yard (Williams)(1996)">
+		<description>Junk Yard (Williams)(1996)</description>
+		<rom name="Junk Yard (1996) (Williams) (mfuegemann) (Rascal) (1.0) (HV) vp916.png" size="3011344" crc="f1e99ef3" sha1="c28d093aa672ffb4648ccf54c9a0e82f66b10722"/>
+		<rom name="Junk Yard (1996) (Williams) (mfuegemann) (Rascal) (1.0) (HV) vp916.vpt" size="14389248" crc="6eba8645" sha1="0598928580fe7312e9e1e995e18b5a78ac2849a1"/>
+	</machine>
+	<machine name="Lord of the Rings, The (Stern)(2003)">
+		<description>Lord of the Rings, The (Stern)(2003)</description>
+		<rom name="Lord of the Rings, The (2003) (Stern) (jpsalas) (Rascal) (1.0) (HV) VP916.png" size="2641545" crc="7b3fa513" sha1="8474fcc58e84ab79a665f43236080a4cf639662c"/>
+		<rom name="Lord of the Rings, The (2003) (Stern) (jpsalas) (Rascal) (1.0) (HV) VP916.vpt" size="51195904" crc="cb9d58a1" sha1="cee1afa4b65b845cc45e0f8d51a837e9a1a2b70a"/>
+	</machine>
+	<machine name="No Fear - Dangerous Sports (Williams)(1995)">
+		<description>No Fear - Dangerous Sports (Williams)(1995)</description>
+		<rom name="No Fear - Dangerous Sports (1995) (Williams) (jpsalas) (Rascal) (1.0) (HV) vp916.png" size="2431682" crc="e399c649" sha1="21e1d86a5b24aa9fd19f82e04188523ed1b9215f"/>
+		<rom name="No Fear - Dangerous Sports (1995) (Williams) (jpsalas) (Rascal) (1.0) (HV) vp916.vpt" size="15134720" crc="a694473c" sha1="3b0ec6137cf1352e5e13761d5930ffbeae823968"/>
+	</machine>
+	<machine name="Pirates of the Caribbean (Stern)(2006)">
+		<description>Pirates of the Caribbean (Stern)(2006)</description>
+		<rom name="Pirates of the Caribbean (2006) (Stern) (85vett) (Rascal) (1.0) (HV) vp916.png" size="2837773" crc="66f9fc35" sha1="9cddac1f8739fe719738dc0fee07acfa3eda7f76"/>
+		<rom name="Pirates of the Caribbean (2006) (Stern) (85vett) (Rascal) (1.0) (HV) vp916.vpt" size="28302839" crc="bec76079" sha1="dbb74e51b32fe21783dacf70407fb2067ea077be"/>
+	</machine>
+	<machine name="Seawitch (Stern)(1980)">
+		<description>Seawitch (Stern)(1980)</description>
+		<rom name="Seawitch (1980) (Stern) (unclewilly) (Rascal) (1.0) (HV) VP916.png" size="3076650" crc="e956394d" sha1="ecb08a8df61453671d05b3b0f9e4358ccd58e142"/>
+		<rom name="Seawitch (1980) (Stern) (unclewilly) (Rascal) (1.0) (HV) VP916.vpt" size="17403904" crc="a5efa66b" sha1="9faab1c35cc01efb03164004e5cbc7b4a2285c5d"/>
+	</machine>
+	<machine name="South Park (SEGA)(1999)">
+		<description>South Park (SEGA)(1999)</description>
+		<rom name="South Park (SEGA)(1999)(oooPLAYER1ooo)(1.0)[VP916][HyperView Rascal v1.0].vpt" size="38494208" crc="a59bb65d" sha1="cdb59a6944752c9aa45a0bd9799aad72b4f8e24b"/>
+		<rom name="South Park screenshot.png" size="3049234" crc="07c37a28" sha1="7218a0296d67f0b4166a09980711899629a09a16"/>
+	</machine>
+	<machine name="Space Shuttle (Williams)(1984)">
+		<description>Space Shuttle (Williams)(1984)</description>
+		<rom name="Space Shuttle (1984) (Williams) (Melon) (Rascal) (1.0) (HV) vp9 -- vp916.png" size="2531558" crc="84b35da3" sha1="ae8c8642e5fa032e0e111c6ace9be0d2b9b5d28c"/>
+		<rom name="Space Shuttle (1984) (Williams) (Melon) (Rascal) (1.0) (HV) vp9 -- vp916.vpt" size="16990208" crc="5624cc84" sha1="25f834d02460d277ebfffcc0d5e846f90ece4b45"/>
+	</machine>
+	<machine name="Star Wars Trilogy (SEGA)(1997)">
+		<description>Star Wars Trilogy (SEGA)(1997)</description>
+		<rom name="Star Wars Trilogy (1997) (SEGA) (Jpsalas) (Rascal) (HV) (1.0) VP915.png" size="3242562" crc="09b5b333" sha1="5c7ba2bc1409b63aea977057d2370ed1210ea1af"/>
+		<rom name="Star Wars Trilogy (1997) (SEGA) (Jpsalas) (Rascal) (HV) (1.0) VP915.vpt" size="32956056" crc="d5c054ce" sha1="b08463c1185b1a299ad433a2bbd35404a5a6d997"/>
+	</machine>
+	<machine name="Terminator 3 - Rise of the Machine (Stern)(2003)">
+		<description>Terminator 3 - Rise of the Machine (Stern)(2003)</description>
+		<rom name="Terminator 3 Rise of the Machine (2003) (Stern) (Megapin - GRONI) (Rascal) (1.0) (HV) vp916.png" size="2704729" crc="3a7fcfe8" sha1="19eae3de06903ac965e59c36123a11bc24f2f25d"/>
+		<rom name="Terminator 3 Rise of the Machine (2003) (Stern) (Megapin - GRONI) (Rascal) (1.0) (HV) vp916.vpt" size="17612800" crc="6f8cc7d7" sha1="bbba2221e60e97edbbca241fdc48353d8b984cf1"/>
+	</machine>
+	<machine name="Twilight Zone (Bally)(1993)">
+		<description>Twilight Zone (Bally)(1993)</description>
+		<rom name="Twilight Zone (Bally)(1993)(Megapin)(1.0)[VP916][Night Mod unclewilly][HyperView Rascal v1.0].vpt" size="47894528" crc="7fefc6ed" sha1="0ed6786a335dd82dbcf643cf8fb6ee2cb4d2b8d6"/>
+		<rom name="Twilight Zone screenshot.png" size="2634234" crc="c417eb01" sha1="c2b02e79eae6378a124c99c154bce9e942695766"/>
+	</machine>
+	<machine name="Xenon (Bally)(1980)">
+		<description>Xenon (Bally)(1980)</description>
+		<rom name="Xenon (1980) (Bally) (Uncle Willie) (Loafer) (Rascal) (1.0) (HV) VP914.png" size="2527431" crc="86c8f16e" sha1="798808fe7701c88c4ba84beaedccb56e548f6eac"/>
+		<rom name="Xenon (1980) (Bally) (Uncle Willie) (Loafer) (Rascal) (1.0) (HV) VP914.vpt" size="19431424" crc="09e2979e" sha1="eefe1f4205622eee793911cc4a563950d2fdc537"/>
+	</machine>
+</datafile>

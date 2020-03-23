@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Epson PX-8, HC-88 &amp; Geneva - Compilations - Games</name>
+		<description>Epson PX-8, HC-88 &amp; Geneva - Compilations - Games (TOSEC-v2011-11-27)</description>
+		<category>TOSEC</category>
+		<version>2011-11-27</version>
+		<author>TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Snake Pit &amp; Tank Attack (1984)(Unison World)">
+		<description>Snake Pit &amp; Tank Attack (1984)(Unison World)</description>
+		<rom name="Snake Pit &amp; Tank Attack (1984)(Unison World).rom" size="32768" crc="1f078a35" md5="df544a4fcc28cb90272785bad2d7d2eb" sha1="f52559162f5b8dfe61ed76ac4a63c1d96fb85f77"/>
+	</game>
+	<game name="Tower &amp; Sub Zone (1984)(Unison World)">
+		<description>Tower &amp; Sub Zone (1984)(Unison World)</description>
+		<rom name="Tower &amp; Sub Zone (1984)(Unison World).rom" size="32768" crc="6a7fd8d4" md5="59b2de1be135c0e3119b27334267575c" sha1="2bf05c1a194b4a564db883695319d496c0f8a34f"/>
+	</game>
+</datafile>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sinclair ZX Spectrum - Compilations - Demos - [$B]</name>
+		<description>Sinclair ZX Spectrum - Compilations - Demos - [$B] (TOSEC-v2011-09-24)</description>
+		<category>TOSEC</category>
+		<version>2011-09-24</version>
+		<author>jugaor - gorski - Vaxalon - Zxyo - Dziuber - StefaN - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="DemoBit '95 - Graphics Collection (1995)(Zool00k)">
+		<description>DemoBit '95 - Graphics Collection (1995)(Zool00k)</description>
+		<rom name="DemoBit '95 - Graphics Collection (1995)(Zool00k).$b" size="43793" crc="45fbeed4" md5="0807b6da54c9930d1307dcd1e02ce78d" sha1="30efda5bc7d91581d150f3f5bd8f59b6d406dccf"/>
+	</game>
+	<game name="DemoBit '95 - Music Collection (1995)(Zool00k)">
+		<description>DemoBit '95 - Music Collection (1995)(Zool00k)</description>
+		<rom name="DemoBit '95 - Music Collection (1995)(Zool00k).$b" size="57105" crc="02962f45" md5="743c74049b4362686d5c24d49cbeba84" sha1="5dab23c40db5ccb5a6e03ce07c27ffb4c749af51"/>
+	</game>
+	<game name="Enlight '96 - Music on Interrupt Collection v1.01 (1996)(Hacker Cris)(beta)">
+		<description>Enlight '96 - Music on Interrupt Collection v1.01 (1996)(Hacker Cris)(beta)</description>
+		<rom name="Enlight '96 - Music on Interrupt Collection v1.01 (1996)(Hacker Cris)(beta).$b" size="45329" crc="eb946603" md5="3aa5e148a999c1e5c516de3c6f3e43cc" sha1="c8ab25913fce0b4055933ad6cfa70494107510e5"/>
+	</game>
+	<game name="Stranger Collection (1990)(Hacker Jim Goer)[h Diamond Software]">
+		<description>Stranger Collection (1990)(Hacker Jim Goer)[h Diamond Software]</description>
+		<rom name="Stranger Collection (1990)(Hacker Jim Goer)[h Diamond Software].$b" size="55057" crc="ea7ce9b5" md5="46744562b08375a6e6e425e141be6b00" sha1="232ecf010ab815b25a8907c59cc3a7a02b414433"/>
+	</game>
+</datafile>

@@ -1,0 +1,791 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Microkey Primo - Applications - [PTP]</name>
+		<description>Microkey Primo - Applications - [PTP] (TOSEC-v2011-09-04)</description>
+		<category>TOSEC</category>
+		<version>2011-09-04</version>
+		<author>Gruby</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="### (198x)(-)">
+		<description>### (198x)(-)</description>
+		<rom name="### (198x)(-).ptp" size="1487" crc="92e729ff" md5="4fc7cc623c6d12e6ced6c37dd3a079e1" sha1="d816263c940a2ebfddcf8a37ea9dc1a26e959487"/>
+	</game>
+	<game name="3D Converter (198x)(Kovacs Attila)">
+		<description>3D Converter (198x)(Kovacs Attila)</description>
+		<rom name="3D Converter (198x)(Kovacs Attila).ptp" size="2357" crc="e3b24734" md5="8bf8bc79731bf2c1f80df8c965a37b20" sha1="8e5842361aa42371bb480d35c7c9aedd7289d67a"/>
+	</game>
+	<game name="Ado (198x)(-)(hu)">
+		<description>Ado (198x)(-)(hu)</description>
+		<rom name="Ado (198x)(-)(hu).ptp" size="3558" crc="f659a391" md5="84c09358a9c4a936e4eea88f64fdbb50" sha1="3d2f229a3f1716d30fa63c44fbec6d1ecb30cc4f"/>
+	</game>
+	<game name="AMON v1.0 (1987)(Paller Gabor)">
+		<description>AMON v1.0 (1987)(Paller Gabor)</description>
+		<rom name="AMON v1.0 (1987)(Paller Gabor).ptp" size="5914" crc="f26df6af" md5="8bcaed6c54fb009aec1ee7f9788660bc" sha1="a46c0e4c6f190b2c2ce95dbfd4595908303bc64c"/>
+	</game>
+	<game name="AMON v1.0 (1987)(Paller Gabor)[req 32K]">
+		<description>AMON v1.0 (1987)(Paller Gabor)[req 32K]</description>
+		<rom name="AMON v1.0 (1987)(Paller Gabor)[req 32K].ptp" size="5913" crc="6217a39f" md5="fa0f550eda405a51ea1afc1a05bdbfb9" sha1="28da0618dfd3226b964eb9be42be1aec90d00175"/>
+	</game>
+	<game name="AMON v1.0 (1987)(Paller Gabor)[req 48K]">
+		<description>AMON v1.0 (1987)(Paller Gabor)[req 48K]</description>
+		<rom name="AMON v1.0 (1987)(Paller Gabor)[req 48K].ptp" size="5913" crc="a131a7af" md5="34f0c135f645489e15a6c6f0032eae32" sha1="551f0a6fb9dffccdd6aca130ed9ea9316ee1c974"/>
+	</game>
+	<game name="AMON v1.0 (1987)(Paller Gabor)[req 64K]">
+		<description>AMON v1.0 (1987)(Paller Gabor)[req 64K]</description>
+		<rom name="AMON v1.0 (1987)(Paller Gabor)[req 64K].ptp" size="5913" crc="eb20bc8d" md5="1b6d5b0370d8fc3816d7c2f42606dc79" sha1="dd2211ac481d3a85d954be54339c4f8c20d1b698"/>
+	</game>
+	<game name="AMON v1.1 (1988)(Paller Gabor)">
+		<description>AMON v1.1 (1988)(Paller Gabor)</description>
+		<rom name="AMON v1.1 (1988)(Paller Gabor).ptp" size="6973" crc="eca891f3" md5="cbf43c6d2a8d90672a0d8fc759e15f11" sha1="210765395861f83c526d96904a8f604d1d5c6c6c"/>
+	</game>
+	<game name="Amortizacio (198x)(-)(hu)">
+		<description>Amortizacio (198x)(-)(hu)</description>
+		<rom name="Amortizacio (198x)(-)(hu).ptp" size="1124" crc="22ce0e81" md5="c7fb1566bab4c241cd523988834a0599" sha1="ea8fdf0123d0940b056ed6c8fcd2379d29fb0758"/>
+	</game>
+	<game name="Anti Autostart 5 (198x)(-)">
+		<description>Anti Autostart 5 (198x)(-)</description>
+		<rom name="Anti Autostart 5 (198x)(-).ptp" size="517" crc="ee849145" md5="f55692f42ce553f720ba0a04970d6786" sha1="4e4fba6f66bac2cfed1e58e0363437540742f2f7"/>
+	</game>
+	<game name="Anticopy '88.MR (1988)(Miszlai Robert)">
+		<description>Anticopy '88.MR (1988)(Miszlai Robert)</description>
+		<rom name="Anticopy '88.MR (1988)(Miszlai Robert).ptp" size="6956" crc="1efcce0e" md5="0441a69dc33c4bb79a4f2951a89a0949" sha1="0e0cbcfe238bb16792c6565ea889b9ba6d49743c"/>
+	</game>
+	<game name="Anticopy MF (1988)(Miszlai Robert)">
+		<description>Anticopy MF (1988)(Miszlai Robert)</description>
+		<rom name="Anticopy MF (1988)(Miszlai Robert).ptp" size="1694" crc="fa9a2b37" md5="c80e6218907ef7e24a8ecf59462c1146" sha1="5b6d7a0300b598cdb6d8de5f4a5e9669b2c9307d"/>
+	</game>
+	<game name="Arvetes (198x)(-)(hu)">
+		<description>Arvetes (198x)(-)(hu)</description>
+		<rom name="Arvetes (198x)(-)(hu).ptp" size="1065" crc="030ddbba" md5="6f97d0fa801632007944261672bfdebc" sha1="597096d8c547f4ae80102744a2ab9fa58fb6d8d1"/>
+	</game>
+	<game name="ASS 5 Assembler (198x)(Kovacs Attila)">
+		<description>ASS 5 Assembler (198x)(Kovacs Attila)</description>
+		<rom name="ASS 5 Assembler (198x)(Kovacs Attila).ptp" size="14455" crc="9d7fb1c0" md5="89ffdc48a5de8d9c162346c763a120fb" sha1="4a819611553d94aefe047e68b0b69e6d916d0543"/>
+	</game>
+	<game name="Assebler-Basic System (198x)(-)[a]">
+		<description>Assebler-Basic System (198x)(-)[a]</description>
+		<rom name="Assebler-Basic System (198x)(-)[a].ptp" size="3312" crc="07d6c67e" md5="004dea2fb7e171243e223dec159b1fee" sha1="b1a0aad6551ee6728ae362d449dc668079c225f2"/>
+	</game>
+	<game name="Assembler (198x)(-)">
+		<description>Assembler (198x)(-)</description>
+		<rom name="Assembler (198x)(-).ptp" size="5993" crc="176d7a9a" md5="91a7fe8dcd6dff61dc61cbae305c689f" sha1="2afc1da6a6c9e4ab8282cd36fbf212e6fff7ba34"/>
+	</game>
+	<game name="Atszamozo (19xx)(-)(hu)">
+		<description>Atszamozo (19xx)(-)(hu)</description>
+		<rom name="Atszamozo (19xx)(-)(hu).ptp" size="2942" crc="1a3ee9f6" md5="e4bd4bdb20d15adb36016e09edf5eaeb" sha1="185a509269fa348dcc8e8736eb144b27fe0f2d4c"/>
+	</game>
+	<game name="Auto naplo (1986)(Miszlai Robert)(hu)">
+		<description>Auto naplo (1986)(Miszlai Robert)(hu)</description>
+		<rom name="Auto naplo (1986)(Miszlai Robert)(hu).ptp" size="4937" crc="f0f18d98" md5="2c7518eadc76aca9c76377b48376d098" sha1="908ed334defa19569d2aeceeaa174856915c9d2d"/>
+	</game>
+	<game name="Auto-leallito 1.1 (198x)(-)(hu)">
+		<description>Auto-leallito 1.1 (198x)(-)(hu)</description>
+		<rom name="Auto-leallito 1.1 (198x)(-)(hu).ptp" size="388" crc="640f723a" md5="5deaeb8101570085d8d9a9de8c67c37f" sha1="0cb91aec00f7e89566c2158d44e2a8fca5de23fc"/>
+	</game>
+	<game name="Automat (1985)(Tik-Tak Software)">
+		<description>Automat (1985)(Tik-Tak Software)</description>
+		<rom name="Automat (1985)(Tik-Tak Software).ptp" size="2148" crc="27df8e18" md5="a0b3939115792b237395bd7aeaa5957d" sha1="858e3b5e83a3f139cc4ce41ae14b1f9e16c4b254"/>
+	</game>
+	<game name="Basic Auto-Start (1985)(Tick Jozsef)">
+		<description>Basic Auto-Start (1985)(Tick Jozsef)</description>
+		<rom name="Basic Auto-Start (1985)(Tick Jozsef).ptp" size="565" crc="d306c199" md5="8fea530cd2d0673d8f5c577c5b0b6c39" sha1="52095656080d568e7c54d08a9dc1e7a45d719dd8"/>
+	</game>
+	<game name="Basic EPROM programozo (198x)(-)">
+		<description>Basic EPROM programozo (198x)(-)</description>
+		<rom name="Basic EPROM programozo (198x)(-).ptp" size="3985" crc="38cd7241" md5="36594587a2137045903b6d5405da9ea0" sha1="8e34db4bf21ede2f434113b6e26445bcdafd2bbc"/>
+	</game>
+	<game name="BASIC-ontanito - 9. teszt (1985)(MTA SZTAKI - COSY)(hu)">
+		<description>BASIC-ontanito - 9. teszt (1985)(MTA SZTAKI - COSY)(hu)</description>
+		<rom name="BASIC-ontanito - 9. teszt (1985)(MTA SZTAKI - COSY)(hu).ptp" size="7570" crc="a77a2d63" md5="039ec5c118ba9695d77cf61c12b3215f" sha1="a390ea42fc5b4e4bfd2450595bd67728ea54a939"/>
+	</game>
+	<game name="BB00-D3FF D18E (19xx)(-)">
+		<description>BB00-D3FF D18E (19xx)(-)</description>
+		<rom name="BB00-D3FF D18E (19xx)(-).ptp" size="6659" crc="1464b6b1" md5="ca46f23d79985be90a4bbbfcf8a8474f" sha1="73ff27bddb7b458a7fa6603008e05bbca92bacb1"/>
+	</game>
+	<game name="Beszed szimulator (1987)(Szarka Zoltan)">
+		<description>Beszed szimulator (1987)(Szarka Zoltan)</description>
+		<rom name="Beszed szimulator (1987)(Szarka Zoltan).ptp" size="37196" crc="ff1fed44" md5="41f76c183009b22aa17704c4f701d24e" sha1="427d56d15c399aa24061e9624f514f25a31ce434"/>
+	</game>
+	<game name="Betu nagyitas (198x)(-)[incl Graphics '85]">
+		<description>Betu nagyitas (198x)(-)[incl Graphics '85]</description>
+		<rom name="Betu nagyitas (198x)(-)[incl Graphics '85].ptp" size="5550" crc="c94e11e2" md5="7742d294a02b42522de59eab595a049f" sha1="f2750197fb41237453c2d8f014b91830eaf65520"/>
+	</game>
+	<game name="Betu nagyitas (198x)(-)[req Graphics '85]">
+		<description>Betu nagyitas (198x)(-)[req Graphics '85]</description>
+		<rom name="Betu nagyitas (198x)(-)[req Graphics '85].ptp" size="209" crc="d18e9f50" md5="c22a3edd78b941bc59e21fe1ab1d1242" sha1="4ccd33c9478e738fe059c8025cffa6f36d8fb5a5"/>
+	</game>
+	<game name="Bioritmus (198x)(-)(hu)">
+		<description>Bioritmus (198x)(-)(hu)</description>
+		<rom name="Bioritmus (198x)(-)(hu).ptp" size="3004" crc="f48ee3d3" md5="2705a123e6256916c78aa757bb2d079b" sha1="23121f6191c930fcd0ee791d0079eab88cfbd811"/>
+	</game>
+	<game name="Bioritmus (198x)(Szucs Zoltan)(hu)">
+		<description>Bioritmus (198x)(Szucs Zoltan)(hu)</description>
+		<rom name="Bioritmus (198x)(Szucs Zoltan)(hu).ptp" size="4000" crc="1de0f4b1" md5="c96815a45f6804d6e4a9c584cea4a2fb" sha1="4d2ac3bfafc69cfd34b8fb91872d5e7e115cde30"/>
+	</game>
+	<game name="Bioritmus szamitas (198x)(-)(hu)">
+		<description>Bioritmus szamitas (198x)(-)(hu)</description>
+		<rom name="Bioritmus szamitas (198x)(-)(hu).ptp" size="2864" crc="b085159a" md5="ede0bf1244572c7da8110840913e5253" sha1="5324c8db0bf4ac4b5310e9337ef5ae59d75760c1"/>
+	</game>
+	<game name="CAD (1987)(Asztalos Istvan)[incl Graphics '85]">
+		<description>CAD (1987)(Asztalos Istvan)[incl Graphics '85]</description>
+		<rom name="CAD (1987)(Asztalos Istvan)[incl Graphics '85].ptp" size="8751" crc="a4c13916" md5="e2e61f47758f2a2185de137be6a223be" sha1="e1508285c33938f0c6c01100a50d2b749d8058ec"/>
+	</game>
+	<game name="CAD (1987)(Asztalos Istvan)[req Graphics '85]">
+		<description>CAD (1987)(Asztalos Istvan)[req Graphics '85]</description>
+		<rom name="CAD (1987)(Asztalos Istvan)[req Graphics '85].ptp" size="3410" crc="2277352e" md5="1bf5ecdf04d4c8d19972ddc9a0c89c51" sha1="0af75ea6ab59e84617ac721f1930a0683cec2002"/>
+	</game>
+	<game name="CDOS - Commodore Serial Bus Handler 1.0 (1985)(BME-KSZK)">
+		<description>CDOS - Commodore Serial Bus Handler 1.0 (1985)(BME-KSZK)</description>
+		<rom name="CDOS - Commodore Serial Bus Handler 1.0 (1985)(BME-KSZK).ptp" size="3999" crc="58221705" md5="2e074067ee58adea33146e306698c8f5" sha1="64feaa5d56482420c2c7b77b915a034b65015989"/>
+	</game>
+	<game name="CDOS - Commodore Serial Bus Handler 1.0 (1985)(BME-KSZK)[a]">
+		<description>CDOS - Commodore Serial Bus Handler 1.0 (1985)(BME-KSZK)[a]</description>
+		<rom name="CDOS - Commodore Serial Bus Handler 1.0 (1985)(BME-KSZK)[a].ptp" size="3997" crc="e0cb7b60" md5="5b75132811d31ec8142b7b5b3c7abd98" sha1="8a90b818983414c4e42e1a2a43a4461cf69fb7cf"/>
+	</game>
+	<game name="CDOS - Commodore Serial Bus Handler 1.0.B (1985)(BME-KSZK)">
+		<description>CDOS - Commodore Serial Bus Handler 1.0.B (1985)(BME-KSZK)</description>
+		<rom name="CDOS - Commodore Serial Bus Handler 1.0.B (1985)(BME-KSZK).ptp" size="3999" crc="d35c3507" md5="fb7eb264c0bb3f13d6ef31d9e8ccec86" sha1="7f1331157d3361b102f77ebde656250d4d480f4b"/>
+	</game>
+	<game name="Change (198x)(-)">
+		<description>Change (198x)(-)</description>
+		<rom name="Change (198x)(-).ptp" size="1059" crc="7bc6fd40" md5="66b9f3d1d9f13af8b12c3092e84cec8f" sha1="b04a6100537f454f5356ed20612f308dc43e05f9"/>
+	</game>
+	<game name="Cheops 88 (1988)(Olah Tamas)">
+		<description>Cheops 88 (1988)(Olah Tamas)</description>
+		<rom name="Cheops 88 (1988)(Olah Tamas).ptp" size="1255" crc="9d5f56dd" md5="df7821ff3264bc94118022b8df312f11" sha1="bf279f5616f2fcb1c09c025d22babbd9ae3c77a1"/>
+	</game>
+	<game name="CMD (1984)(MTA SZTAKI - COSY)">
+		<description>CMD (1984)(MTA SZTAKI - COSY)</description>
+		<rom name="CMD (1984)(MTA SZTAKI - COSY).ptp" size="611" crc="806ac9ba" md5="6dafde43e76f053e431cb08b6b2138a9" sha1="d685ee81b674e60de6b276c0ce72c98580055096"/>
+	</game>
+	<game name="CMD - Printer (1984)(Toth Andras)">
+		<description>CMD - Printer (1984)(Toth Andras)</description>
+		<rom name="CMD - Printer (1984)(Toth Andras).ptp" size="859" crc="997d8b15" md5="550e5e2ce551db44ea0b828407fe670e" sha1="219d24450ee2cfccd0e5342645a481d804e7026e"/>
+	</game>
+	<game name="CMD D000 OB (1984)(MTA SZTAKI - COSY)">
+		<description>CMD D000 OB (1984)(MTA SZTAKI - COSY)</description>
+		<rom name="CMD D000 OB (1984)(MTA SZTAKI - COSY).ptp" size="611" crc="8fefaa56" md5="13f6d6417b07a6f13d7eda34488ae47e" sha1="ecca28a8735313e234b1cfb8e1f94b357b4376b8"/>
+	</game>
+	<game name="Copy by J.I. (1986)(Juhasz Istvan)">
+		<description>Copy by J.I. (1986)(Juhasz Istvan)</description>
+		<rom name="Copy by J.I. (1986)(Juhasz Istvan).ptp" size="472" crc="459ab85d" md5="211e0949a69393cc881507a7e2d40220" sha1="73f513bb780efc5fdafcf5194dff8d6ac31dee9a"/>
+	</game>
+	<game name="Copy KS 3.8.XXX (1987)(Karacsony Sandor)">
+		<description>Copy KS 3.8.XXX (1987)(Karacsony Sandor)</description>
+		<rom name="Copy KS 3.8.XXX (1987)(Karacsony Sandor).ptp" size="3116" crc="20aa2bb4" md5="d53ad508060dbcdeb4fbf223076d7a5f" sha1="b641de3fa304ccbec6183857a8066e953cd4ba57"/>
+	</game>
+	<game name="Copy KT 139 (198x)(Kalvin Tamas)(hu)[incl CDOS]">
+		<description>Copy KT 139 (198x)(Kalvin Tamas)(hu)[incl CDOS]</description>
+		<rom name="Copy KT 139 (198x)(Kalvin Tamas)(hu)[incl CDOS].ptp" size="8402" crc="88a2900a" md5="3dc6db9da9fbbfb8d9d55db3955f6fe2" sha1="a814affcff9c3f765237bdfbdce87c8f2e206f5c"/>
+	</game>
+	<game name="Copy KT 139 (198x)(Kalvin Tamas)(hu)[req CDOS]">
+		<description>Copy KT 139 (198x)(Kalvin Tamas)(hu)[req CDOS]</description>
+		<rom name="Copy KT 139 (198x)(Kalvin Tamas)(hu)[req CDOS].ptp" size="4439" crc="aa58d964" md5="fcb3cdaebdc26b68a3123a2193e7a64c" sha1="84f4f4ef8d8c8bf133c1ce90d44eefa3f63e4984"/>
+	</game>
+	<game name="Copy KT 87 (1987)(Kalvin Tamas)(hu)[req CDOS]">
+		<description>Copy KT 87 (1987)(Kalvin Tamas)(hu)[req CDOS]</description>
+		<rom name="Copy KT 87 (1987)(Kalvin Tamas)(hu)[req CDOS].ptp" size="4621" crc="ecc7a01a" md5="a994b62cf15239a56a76916624def8f9" sha1="7f4be40555dfd3ef290e95b179f4dc3e24741077"/>
+	</game>
+	<game name="Data File - Betolto (1987)(Szekeres Antal)(hu)(Primo B)">
+		<description>Data File - Betolto (1987)(Szekeres Antal)(hu)(Primo B)</description>
+		<rom name="Data File - Betolto (1987)(Szekeres Antal)(hu)(Primo B).ptp" size="2839" crc="aebc453e" md5="3ef6a42aec69c349b1091f2adc81fcab" sha1="23b168b2c993767df76744beb3ece1b7aca9f7cc"/>
+	</game>
+	<game name="Data keszito (198x)(-)">
+		<description>Data keszito (198x)(-)</description>
+		<rom name="Data keszito (198x)(-).ptp" size="1511" crc="e0906588" md5="c2847b976fd7ad64c66203abde24d9d3" sha1="5afe0efb8a241a3a27df1297f73e2697d72bf7e3"/>
+	</game>
+	<game name="DGT masolo (1987)(DGT Software)">
+		<description>DGT masolo (1987)(DGT Software)</description>
+		<rom name="DGT masolo (1987)(DGT Software).ptp" size="2834" crc="e1dc5c4d" md5="b9be4f68f5fd3d910ab6544e29994965" sha1="2853ad68bedb8a5dc2c5137bed4e113300d836cc"/>
+	</game>
+	<game name="Diass (198x)(-)">
+		<description>Diass (198x)(-)</description>
+		<rom name="Diass (198x)(-).ptp" size="6914" crc="da31968c" md5="fa01ad1d34ae419f9d158716fac32ec8" sha1="aa7d95400c7cbbc8fc441ed98291735abd272eb7"/>
+	</game>
+	<game name="Disassembler (198x)(Fekete Gyorgy)">
+		<description>Disassembler (198x)(Fekete Gyorgy)</description>
+		<rom name="Disassembler (198x)(Fekete Gyorgy).ptp" size="4563" crc="82a6084d" md5="28640a207005507bcd84839320133b2a" sha1="e8e65e723c684f63eae2eb3fc93aa0f00766891b"/>
+	</game>
+	<game name="Disassembler + Copy (1987)(Kalvin Tamas)(hu)[req CDOS]">
+		<description>Disassembler + Copy (1987)(Kalvin Tamas)(hu)[req CDOS]</description>
+		<rom name="Disassembler + Copy (1987)(Kalvin Tamas)(hu)[req CDOS].ptp" size="14196" crc="d24577a0" md5="f2159ac4ec0f1bc765fe89bd741c61ad" sha1="2e20c6216086ba870888fc2677b1e62bc7b691e3"/>
+	</game>
+	<game name="Disassembler + Dump (198x)(-)(hu)">
+		<description>Disassembler + Dump (198x)(-)(hu)</description>
+		<rom name="Disassembler + Dump (198x)(-)(hu).ptp" size="6160" crc="9943bcc0" md5="857d058eb1f90ff041692bb513765728" sha1="7187e12d4e9602e4f60391dad24c7cfa692bbce8"/>
+	</game>
+	<game name="Dump (198x)(-)">
+		<description>Dump (198x)(-)</description>
+		<rom name="Dump (198x)(-).ptp" size="277" crc="dd0ca886" md5="9e5b608aaf51cca0ef243034f43227f0" sha1="23df8eceabdfc28ae1851d5eb51ad6b8299a640f"/>
+	</game>
+	<game name="Electric Graphics (198x)(Fromm Zoltan - Kasza Laszlo)(hu)">
+		<description>Electric Graphics (198x)(Fromm Zoltan - Kasza Laszlo)(hu)</description>
+		<rom name="Electric Graphics (198x)(Fromm Zoltan - Kasza Laszlo)(hu).ptp" size="9193" crc="9be3ea20" md5="cb3fdfbdf0f8014b3060c33f97ffb6f6" sha1="aac557a62d4525066719e7b7878a35ea90d03d53"/>
+	</game>
+	<game name="EPROM egeto (198x)(-)">
+		<description>EPROM egeto (198x)(-)</description>
+		<rom name="EPROM egeto (198x)(-).ptp" size="1839" crc="a72902f0" md5="7c976ac6beaaae45effe2743abce27c7" sha1="f9b55f4c71bb5f0e6731d4aef2cb0193b319baa0"/>
+	</game>
+	<game name="Error (19xx)(-)(hu)">
+		<description>Error (19xx)(-)(hu)</description>
+		<rom name="Error (19xx)(-)(hu).ptp" size="763" crc="8f23e242" md5="5ba770a9d422c2e39a5f0cfdb3ff6ee1" sha1="159a0d622f7055a602219324d49fbb0f90268702"/>
+	</game>
+	<game name="Fenyujsag (1985)(Tik-Tak Software)">
+		<description>Fenyujsag (1985)(Tik-Tak Software)</description>
+		<rom name="Fenyujsag (1985)(Tik-Tak Software).ptp" size="2362" crc="0de0416d" md5="765904dd2f30097eea3f9be388d3af6c" sha1="599581e97ae3d21e5fdf6c8ae2346095563effb7"/>
+	</game>
+	<game name="Gens3 Assembler Primo version (198x)(Paller Gabor)">
+		<description>Gens3 Assembler Primo version (198x)(Paller Gabor)</description>
+		<rom name="Gens3 Assembler Primo version (198x)(Paller Gabor).ptp" size="9129" crc="2ea27a23" md5="b111f51563bf4f45cae5908bda7fb800" sha1="044e0a401771a6a5f8775e33224f0fdfb11f1bd9"/>
+	</game>
+	<game name="Gepi save RS (198x)(Miszlai Robert)">
+		<description>Gepi save RS (198x)(Miszlai Robert)</description>
+		<rom name="Gepi save RS (198x)(Miszlai Robert).ptp" size="702" crc="9140cde2" md5="61f0700c4a36a1e2b656faeb253866fd" sha1="4f128d720cabed6cf818c9d7a4be00e9b26e68cf"/>
+	</game>
+	<game name="Graf-Song (198x)(-)[req unk expansion]">
+		<description>Graf-Song (198x)(-)[req unk expansion]</description>
+		<rom name="Graf-Song (198x)(-)[req unk expansion].ptp" size="2942" crc="0608dabd" md5="af88288d0904201a9a6ca4ccd6fc0a23" sha1="16e04fd2fcb66e8b836d06779db427d94cd11f1e"/>
+	</game>
+	<game name="Grafikus bovito (198x)(Bartha Sandor)">
+		<description>Grafikus bovito (198x)(Bartha Sandor)</description>
+		<rom name="Grafikus bovito (198x)(Bartha Sandor).ptp" size="767" crc="cb05b735" md5="acdc59614ee23a5c65f7993b64e3c7cb" sha1="da52d6a5d1ffc4467e55e0a0445f7cfed7fc4a6d"/>
+	</game>
+	<game name="Gyors programtar (198x)(-)">
+		<description>Gyors programtar (198x)(-)</description>
+		<rom name="Gyors programtar (198x)(-).ptp" size="2162" crc="b39f63e0" md5="30dd14c7cc7026c368f211ff7d644dcb" sha1="98bc28a54779a7b26d757d8a0e390f12b167dcaf"/>
+	</game>
+	<game name="Hard-Copy (198x)(-)">
+		<description>Hard-Copy (198x)(-)</description>
+		<rom name="Hard-Copy (198x)(-).ptp" size="2422" crc="f1fd2901" md5="968029dbc98523460c4dddb47cc86fbe" sha1="142732eb55db9ab88f49ecab0f6be8ec07b920e2"/>
+	</game>
+	<game name="Hardcopy (19xx)(-)">
+		<description>Hardcopy (19xx)(-)</description>
+		<rom name="Hardcopy (19xx)(-).ptp" size="1209" crc="fd302e60" md5="112eacebc3d792b3bfe996b39329034b" sha1="766d52b7c2a664927777b990612b20a035956046"/>
+	</game>
+	<game name="Hazi dijszamito (198x)(-)">
+		<description>Hazi dijszamito (198x)(-)</description>
+		<rom name="Hazi dijszamito (198x)(-).ptp" size="406" crc="7e60f6d1" md5="e9b6d467b409938a1c5c98f0cafadc8a" sha1="55e2f8df760e0af28cb8164eb396e52973ccef77"/>
+	</game>
+	<game name="Hazi Szamla-Konyveles (198x)(Koricsanszky Attila)[incl CDOS]">
+		<description>Hazi Szamla-Konyveles (198x)(Koricsanszky Attila)[incl CDOS]</description>
+		<rom name="Hazi Szamla-Konyveles (198x)(Koricsanszky Attila)[incl CDOS].ptp" size="9991" crc="2980c628" md5="4a5b613ac6fd1543ddf7c74f9e558bb9" sha1="7be0c5aec05059c22f659094853d02d81e91cfc9"/>
+	</game>
+	<game name="Helyfoglalo (198x)(-)">
+		<description>Helyfoglalo (198x)(-)</description>
+		<rom name="Helyfoglalo (198x)(-).ptp" size="486" crc="7e786109" md5="1b17c50dff57fd0cd894d6c05629b267" sha1="d5aa67d11785479a6e5d68376c2f2bf3827ebdf7"/>
+	</game>
+	<game name="Hexmat (198x)(Kovacs Attila)">
+		<description>Hexmat (198x)(Kovacs Attila)</description>
+		<rom name="Hexmat (198x)(Kovacs Attila).ptp" size="1244" crc="addb3ed2" md5="56f7c53335e19fadc868301da3d30c40" sha1="d66d429c616f543802e70d1e95268158789f82d8"/>
+	</game>
+	<game name="Hibajelzes (19xx)(-)(hu)">
+		<description>Hibajelzes (19xx)(-)(hu)</description>
+		<rom name="Hibajelzes (19xx)(-)(hu).ptp" size="1025" crc="e52a1082" md5="c3a6b39a697ed09f0b1dd7987b861b87" sha1="cf4c6a3e22570598274dfbbacf3e914669babfdd"/>
+	</game>
+	<game name="Hisoft Pascal v1.6c Primo Version (1987)(-)">
+		<description>Hisoft Pascal v1.6c Primo Version (1987)(-)</description>
+		<rom name="Hisoft Pascal v1.6c Primo Version (1987)(-).ptp" size="23027" crc="edc36b96" md5="bdf90498e4d7b7d2521cf258d1f32477" sha1="1300e692379296b18f8d04170e2ceb03ac843a5a"/>
+	</game>
+	<game name="Hisoft-C Compiler v1.1 Primo Version (1987)(Paller Gabor)">
+		<description>Hisoft-C Compiler v1.1 Primo Version (1987)(Paller Gabor)</description>
+		<rom name="Hisoft-C Compiler v1.1 Primo Version (1987)(Paller Gabor).ptp" size="27261" crc="3e2a8dd2" md5="ce2ff8f942825c0d7c0ff7ab8ff0ad5c" sha1="435369d7041db8cbd33bde225278e49fa068efd6"/>
+	</game>
+	<game name="Hisoft-C Compiler v1.1 Primo Version (1987)(Paller Gabor)[a]">
+		<description>Hisoft-C Compiler v1.1 Primo Version (1987)(Paller Gabor)[a]</description>
+		<rom name="Hisoft-C Compiler v1.1 Primo Version (1987)(Paller Gabor)[a].ptp" size="27261" crc="d83cd482" md5="62469ff2973f01e2fd9aebbc6c23940a" sha1="2a3c7db8c3528b95d0cf72b889aae59a4363a0ab"/>
+	</game>
+	<game name="HT-1080Z Emulator (1985)(Tik-Tak Software)">
+		<description>HT-1080Z Emulator (1985)(Tik-Tak Software)</description>
+		<rom name="HT-1080Z Emulator (1985)(Tik-Tak Software).ptp" size="4947" crc="042b7487" md5="d4d9a9d304adacfb17e43ecdc0d1e763" sha1="f59a538d16aff2d7735b913ef03855b742def2d9"/>
+	</game>
+	<game name="HT-load (1986)(Kovacs Attila)">
+		<description>HT-load (1986)(Kovacs Attila)</description>
+		<rom name="HT-load (1986)(Kovacs Attila).ptp" size="1608" crc="45261741" md5="0e96142487edec5d40396105157dc4cd" sha1="679b94800853661c1807c18112877d603ffd1e33"/>
+	</game>
+	<game name="Irogep (198x)(-)(hu)">
+		<description>Irogep (198x)(-)(hu)</description>
+		<rom name="Irogep (198x)(-)(hu).ptp" size="4714" crc="20fbf875" md5="65ef8a3f4ba34afe19c7e315e94e6494" sha1="ec30e6671030b60f222f0ed762b6636b697a8258"/>
+	</game>
+	<game name="Irogep adatait felvevo program (19xx)(-)(hu)">
+		<description>Irogep adatait felvevo program (19xx)(-)(hu)</description>
+		<rom name="Irogep adatait felvevo program (19xx)(-)(hu).ptp" size="2259" crc="0998e94d" md5="1e6d2208e14bb12355a6dba6710d813b" sha1="09b58c43fb2c0a6be98a1d92788c18ca9627efc0"/>
+	</game>
+	<game name="K.S. Copy Alap (1987)(Karacsony Sandor)">
+		<description>K.S. Copy Alap (1987)(Karacsony Sandor)</description>
+		<rom name="K.S. Copy Alap (1987)(Karacsony Sandor).ptp" size="2103" crc="e4074540" md5="8300a0f58e33ea9afc1beee41544544c" sha1="fe34025ed41c673f1474ea2b08b0cccae719425a"/>
+	</game>
+	<game name="Kamat (198x)(-)(hu)">
+		<description>Kamat (198x)(-)(hu)</description>
+		<rom name="Kamat (198x)(-)(hu).ptp" size="1162" crc="64443f98" md5="e7738de74f5030482e95dcfcbe69407c" sha1="a59554f68db544cbdb1ab65f148467200e194156"/>
+	</game>
+	<game name="Karakter tervezo (198x)(-)(hu)">
+		<description>Karakter tervezo (198x)(-)(hu)</description>
+		<rom name="Karakter tervezo (198x)(-)(hu).ptp" size="882" crc="9559da07" md5="351a5095e75bc2a14149c71115072072" sha1="29d3b65f65c12d5ce48cef4b1a1c5a0f7e474b08"/>
+	</game>
+	<game name="Kazetta listazo (1988)(Miszlai Robert)(hu)">
+		<description>Kazetta listazo (1988)(Miszlai Robert)(hu)</description>
+		<rom name="Kazetta listazo (1988)(Miszlai Robert)(hu).ptp" size="2517" crc="7f146b93" md5="73144882a2eeeca48e3147375365e426" sha1="a2a7167201aec7abb4c2a5bd1571515fb7d4b0fc"/>
+	</game>
+	<game name="Kill (1985)(Amtmann Arpad)">
+		<description>Kill (1985)(Amtmann Arpad)</description>
+		<rom name="Kill (1985)(Amtmann Arpad).ptp" size="1409" crc="51b029f8" md5="20c48a48ee10e88ac19380d692f0e471" sha1="7059c994737f77cef0fcb10464be5ac21d121c46"/>
+	</game>
+	<game name="Kockazatelbiralas (198x)(-)">
+		<description>Kockazatelbiralas (198x)(-)</description>
+		<rom name="Kockazatelbiralas (198x)(-).ptp" size="19810" crc="821110b3" md5="2fe5fdda4ed7490882ce6a623d861149" sha1="317ae328d3b7757a21dc0171d638a30fc1ace7bd"/>
+	</game>
+	<game name="Kodolo (198x)(Somogyi Gyorgy)(hu)">
+		<description>Kodolo (198x)(Somogyi Gyorgy)(hu)</description>
+		<rom name="Kodolo (198x)(Somogyi Gyorgy)(hu).ptp" size="1271" crc="1f7d3850" md5="a37bcf0ebeb3092565aaa79d9d369834" sha1="effbed13c2c7316d714d3ebd067449beb62e8906"/>
+	</game>
+	<game name="Konyvtar (1985)(Miszlai Robert)(hu)">
+		<description>Konyvtar (1985)(Miszlai Robert)(hu)</description>
+		<rom name="Konyvtar (1985)(Miszlai Robert)(hu).ptp" size="3724" crc="1bb30f86" md5="547c79bafdb1cfe4b67ca9b55854e8a8" sha1="76277986998ff71cfcc49f8cb113e3298be5d8a6"/>
+	</game>
+	<game name="Kulcsszo II (198x)(-)">
+		<description>Kulcsszo II (198x)(-)</description>
+		<rom name="Kulcsszo II (198x)(-).ptp" size="533" crc="6220b785" md5="80f9b04dcdd97c561305b2de06847e0c" sha1="afdb4dde0fe605c5ebf80521e476213536dd6bbb"/>
+	</game>
+	<game name="Kulcsszo segedprogram (1986)(Reichenbach Laszlo)">
+		<description>Kulcsszo segedprogram (1986)(Reichenbach Laszlo)</description>
+		<rom name="Kulcsszo segedprogram (1986)(Reichenbach Laszlo).ptp" size="586" crc="a2b2401a" md5="612b315bae369d4b9047ea36c081f484" sha1="3ba21911e531f5f05daa67736ee1330d580cd38b"/>
+	</game>
+	<game name="Lap fejleckeszito (1985)(Tik-Tak Software)(hu)">
+		<description>Lap fejleckeszito (1985)(Tik-Tak Software)(hu)</description>
+		<rom name="Lap fejleckeszito (1985)(Tik-Tak Software)(hu).ptp" size="4434" crc="21c94cc8" md5="735e9dc55b3db219a50ea397bdbd9bcc" sha1="62395c559ef31140cac304f1455e6c0c3f9d5ca7"/>
+	</game>
+	<game name="Lap leado (1985)(Tik-Tak Software)(hu)">
+		<description>Lap leado (1985)(Tik-Tak Software)(hu)</description>
+		<rom name="Lap leado (1985)(Tik-Tak Software)(hu).ptp" size="4237" crc="9fb5ee86" md5="28c9d8dbfe96fa8ca03f7439cc5bd928" sha1="17e7200cc1ac0d9a220111a50f2e4b1a192078a7"/>
+	</game>
+	<game name="Lap szerkeszto (1985)(Tik-Tak Software)(hu)">
+		<description>Lap szerkeszto (1985)(Tik-Tak Software)(hu)</description>
+		<rom name="Lap szerkeszto (1985)(Tik-Tak Software)(hu).ptp" size="6882" crc="0ec501ac" md5="3c5fcfc249db21949a1b2be7590f4991" sha1="63da6095d017069b7c7f7a01fbd17136118f0367"/>
+	</game>
+	<game name="Legnyomas (198x)(-)">
+		<description>Legnyomas (198x)(-)</description>
+		<rom name="Legnyomas (198x)(-).ptp" size="851" crc="3598a8f1" md5="cb4f2e09335608a32bf3810ca5e894bf" sha1="21e06ac98e4543b9045d97de502806e84bf6f882"/>
+	</game>
+	<game name="Line (19xx)(-)">
+		<description>Line (19xx)(-)</description>
+		<rom name="Line (19xx)(-).ptp" size="742" crc="0be9c561" md5="23e4d7b2e48174b29b580a3d0307cd9e" sha1="1e78d3edaba0993fb5fbdd0e06830814501ba9bc"/>
+	</game>
+	<game name="Logic Probe (1988)(VGZ)">
+		<description>Logic Probe (1988)(VGZ)</description>
+		<rom name="Logic Probe (1988)(VGZ).ptp" size="4432" crc="0d2a0ff3" md5="09be284b87f5bf47220f29dc81eae2d3" sha1="a6e052461d3a3e74c5a2ff768a663134a6c00aa5"/>
+	</game>
+	<game name="LOGO (198x)(-)[a]">
+		<description>LOGO (198x)(-)[a]</description>
+		<rom name="LOGO (198x)(-)[a].ptp" size="3414" crc="8de5356a" md5="900abb7fd2595ea91687108de391434f" sha1="91d8f51b768aff199269f7a9f130ded67e59894f"/>
+	</game>
+	<game name="LOGO rajzolo (198x)(Horgosi Gabor)">
+		<description>LOGO rajzolo (198x)(Horgosi Gabor)</description>
+		<rom name="LOGO rajzolo (198x)(Horgosi Gabor).ptp" size="7175" crc="1678f8cb" md5="b0a8cbbc8d610ad217fa111e30d73f38" sha1="22fffa0944e99145fdced452f39847698e19eaa8"/>
+	</game>
+	<game name="LOGO rajzolo (198x)(Horgosi Gabor)[a]">
+		<description>LOGO rajzolo (198x)(Horgosi Gabor)[a]</description>
+		<rom name="LOGO rajzolo (198x)(Horgosi Gabor)[a].ptp" size="7186" crc="56a6f172" md5="060c1c15ab3fbd688446454b0426e0e3" sha1="bfbf5d1c31667a224adfd124cacafe8d4433b3c7"/>
+	</game>
+	<game name="Magyar hibauzenet (198x)(-)(hu)">
+		<description>Magyar hibauzenet (198x)(-)(hu)</description>
+		<rom name="Magyar hibauzenet (198x)(-)(hu).ptp" size="1025" crc="e076f5da" md5="da43f2b58fa04c0954711817eee8111f" sha1="1694085346d8eb61e2409e7a29b1e3ddef3a32ae"/>
+	</game>
+	<game name="Masolo (1985)(BSW)">
+		<description>Masolo (1985)(BSW)</description>
+		<rom name="Masolo (1985)(BSW).ptp" size="1867" crc="6b4a7e78" md5="23950466d12e75c1c25e354a927ff16a" sha1="1132aab4b43f46f57a48c94db1f4872617fa7faf"/>
+	</game>
+	<game name="Microprogram PTK (198x)(Kovacs Attila)">
+		<description>Microprogram PTK (198x)(Kovacs Attila)</description>
+		<rom name="Microprogram PTK (198x)(Kovacs Attila).ptp" size="2735" crc="715e6458" md5="62d8c3b5f1dda2565becc1229aa7f45e" sha1="21eb69a3c04caa9fa8652fa3abdb4bc4b536b0d0"/>
+	</game>
+	<game name="mini LOGO rendszer (198x)(NOVA)">
+		<description>mini LOGO rendszer (198x)(NOVA)</description>
+		<rom name="mini LOGO rendszer (198x)(NOVA).ptp" size="6887" crc="d2f2bcf6" md5="da2ab5e091cdb4402488e6c32d68a150" sha1="52d95766b521e161a87e040750679fd8f1ab67f4"/>
+	</game>
+	<game name="Montazskeszito (198x)(Szarka Zoltan)(hu)">
+		<description>Montazskeszito (198x)(Szarka Zoltan)(hu)</description>
+		<rom name="Montazskeszito (198x)(Szarka Zoltan)(hu).ptp" size="1545" crc="5e79c727" md5="2fd9b4cc0162a27ed33b2de878651253" sha1="705e9c42f84f80bab235c185d84c049343d5b697"/>
+	</game>
+	<game name="Mozimusor (198x)(-)(hu)">
+		<description>Mozimusor (198x)(-)(hu)</description>
+		<rom name="Mozimusor (198x)(-)(hu).ptp" size="2901" crc="0be7c5e7" md5="1feabe8b7e434ec467869721485f9b4c" sha1="3e0e0afd2e349d28e7967fb10738c6ee37040735"/>
+	</game>
+	<game name="Music Editor System (198x)(-)(hu)">
+		<description>Music Editor System (198x)(-)(hu)</description>
+		<rom name="Music Editor System (198x)(-)(hu).ptp" size="4778" crc="0277b4a1" md5="68d00e0ae610221e6ddfd110c82626e9" sha1="ff279b69054e778f1b44927ff831b5947c75f277"/>
+	</game>
+	<game name="P-Bug Z80 Monitor V1.0 (198x)(-)">
+		<description>P-Bug Z80 Monitor V1.0 (198x)(-)</description>
+		<rom name="P-Bug Z80 Monitor V1.0 (198x)(-).ptp" size="4317" crc="16746f28" md5="9ce8445c6f9301ba4f5d47e72036f49e" sha1="da0808672cad6b08d12c7b73dff904e62e95e521"/>
+	</game>
+	<game name="P-Bug Z80 Monitor V1.0 (198x)(-)[a]">
+		<description>P-Bug Z80 Monitor V1.0 (198x)(-)[a]</description>
+		<rom name="P-Bug Z80 Monitor V1.0 (198x)(-)[a].ptp" size="4273" crc="127ed221" md5="a2cfec402296ad38f447ac9750dd8ee0" sha1="9229395e6d747f3fdf415c476fae6ecfcddd1cba"/>
+	</game>
+	<game name="Paint '87 (1987)(Frajka Janos)[incl Graphics '85]">
+		<description>Paint '87 (1987)(Frajka Janos)[incl Graphics '85]</description>
+		<rom name="Paint '87 (1987)(Frajka Janos)[incl Graphics '85].ptp" size="29796" crc="0e0545d7" md5="e019fbd1bfb4c0f2e6f522b1bdf83859" sha1="07e68e985cbf5e99d02a0a5350725cdfb5dea7be"/>
+	</game>
+	<game name="Paint '87.II (1987)(Janos Frajka)[req Graphics '85]">
+		<description>Paint '87.II (1987)(Janos Frajka)[req Graphics '85]</description>
+		<rom name="Paint '87.II (1987)(Janos Frajka)[req Graphics '85].ptp" size="24455" crc="f0fb7b36" md5="4117234e568cef3c890f1520dc2e1b05" sha1="447ce7e4f87643346fff6e7986d82fb07f30bdea"/>
+	</game>
+	<game name="Pallas Z80-Assembly Developing System (1986)(BME-KSZK)">
+		<description>Pallas Z80-Assembly Developing System (1986)(BME-KSZK)</description>
+		<rom name="Pallas Z80-Assembly Developing System (1986)(BME-KSZK).ptp" size="15996" crc="0633638d" md5="eefa171fa136318f9521a0eecea4d0b6" sha1="2a98452084d94acf0068b121e749ee4e404c5659"/>
+	</game>
+	<game name="Pallas Z80-Assembly Developing System (1986)(BME-KSZK)[a2]">
+		<description>Pallas Z80-Assembly Developing System (1986)(BME-KSZK)[a2]</description>
+		<rom name="Pallas Z80-Assembly Developing System (1986)(BME-KSZK)[a2].ptp" size="15375" crc="344488a2" md5="ec9cef753ed2532f1949a8d9d74dfeb6" sha1="2da567ec9c061019795dced0853399d6c73b355b"/>
+	</game>
+	<game name="Pallas Z80-Assembly Developing System (1986)(BME-KSZK)[a]">
+		<description>Pallas Z80-Assembly Developing System (1986)(BME-KSZK)[a]</description>
+		<rom name="Pallas Z80-Assembly Developing System (1986)(BME-KSZK)[a].ptp" size="18190" crc="db978d19" md5="af23cc776d84d40e2db20248bba780c6" sha1="95e09aaa45c74e5a4d9925ed38c3ea4a473dc066"/>
+	</game>
+	<game name="PAS System (198x)(-)">
+		<description>PAS System (198x)(-)</description>
+		<rom name="PAS System (198x)(-).ptp" size="7164" crc="56b23b11" md5="dc570aea64d52dc02ff1d6f150a992b7" sha1="221a9ca637f4d262b4928b1e34cc4fc0b961eb76"/>
+	</game>
+	<game name="PDATA (198x)(Kovacs Attila)">
+		<description>PDATA (198x)(Kovacs Attila)</description>
+		<rom name="PDATA (198x)(Kovacs Attila).ptp" size="5692" crc="3feb4be4" md5="de829b9365da86dfaf0ea1c53bd76bab" sha1="7ae81b4203d075da596677f038345c5980e249bb"/>
+	</game>
+	<game name="Pohar 3D (198x)(-)[incl Graphics '85]">
+		<description>Pohar 3D (198x)(-)[incl Graphics '85]</description>
+		<rom name="Pohar 3D (198x)(-)[incl Graphics '85].ptp" size="9036" crc="5814ae87" md5="b36740f18d4f15b097cdde419ab3f028" sha1="a8b50ffb6d6b7b89dc127c623f4f9f82f7274ee1"/>
+	</game>
+	<game name="Pohar 3D (198x)(-)[req Graphics '85]">
+		<description>Pohar 3D (198x)(-)[req Graphics '85]</description>
+		<rom name="Pohar 3D (198x)(-)[req Graphics '85].ptp" size="3695" crc="d5665fbb" md5="41b4b9dd02619ad80271348fabeeceef" sha1="4a85f0d671170b901ae589705b09b0032be5a981"/>
+	</game>
+	<game name="Polinom (198x)(Kovacs Attila)">
+		<description>Polinom (198x)(Kovacs Attila)</description>
+		<rom name="Polinom (198x)(Kovacs Attila).ptp" size="1087" crc="ec2fbdd6" md5="111b43408de961c9159224d59f1ad7a9" sha1="a3e7cce6a3eead36a0efed17f9579cac15a1eed7"/>
+	</game>
+	<game name="Primo 'T' System 87.8 (1987)(Varga Peter)">
+		<description>Primo 'T' System 87.8 (1987)(Varga Peter)</description>
+		<rom name="Primo 'T' System 87.8 (1987)(Varga Peter).ptp" size="5539" crc="29fc599f" md5="f88517eac0210d466767c56231a42ec0" sha1="480ef5ddd8c14dd5fabf0779e2256f27f4b6526e"/>
+	</game>
+	<game name="Primo Assembler Editor '85.2 (1985)(Verysoft)">
+		<description>Primo Assembler Editor '85.2 (1985)(Verysoft)</description>
+		<rom name="Primo Assembler Editor '85.2 (1985)(Verysoft).ptp" size="5818" crc="0a7cfadf" md5="7ce356fc43f997c27a7cfcf1dcbd61c4" sha1="47185c28e9d188edaf583f0dbbf84756840c2bbf"/>
+	</game>
+	<game name="Primo Assembler Editor '85.2 (1985)(Verysoft)[a]">
+		<description>Primo Assembler Editor '85.2 (1985)(Verysoft)[a]</description>
+		<rom name="Primo Assembler Editor '85.2 (1985)(Verysoft)[a].ptp" size="5721" crc="2babcd56" md5="fa6dc2acfeaf53bb9adaf4d41db442f5" sha1="8616d1e5df1b5480e7b66e49add9ca249fc70e4d"/>
+	</game>
+	<game name="Primo Assembler Editor loader (1986)(Sandor Zsolt)">
+		<description>Primo Assembler Editor loader (1986)(Sandor Zsolt)</description>
+		<rom name="Primo Assembler Editor loader (1986)(Sandor Zsolt).ptp" size="763" crc="d87be0d7" md5="3018c7a2485b9dc92b5b0343852a9ef1" sha1="6e626754ae961f5e54a07d6c47c46a62d606a848"/>
+	</game>
+	<game name="Primo Assembler System '85.2 (1985)(-)">
+		<description>Primo Assembler System '85.2 (1985)(-)</description>
+		<rom name="Primo Assembler System '85.2 (1985)(-).ptp" size="5241" crc="9c427cb4" md5="179f5403ba23a0a9a6bb433cc1ca1a94" sha1="6a9678adca5e5810ef1cd79081919657b0e78e96"/>
+	</game>
+	<game name="Primo Assembler System '85.2 (1985)(-)[a]">
+		<description>Primo Assembler System '85.2 (1985)(-)[a]</description>
+		<rom name="Primo Assembler System '85.2 (1985)(-)[a].ptp" size="4895" crc="9c232c7b" md5="857e137139b650fa89c49da58dbbb006" sha1="01c521a1c45fe82018a103d1d98e835c69f0740e"/>
+	</game>
+	<game name="Primo Assembler System '85.3 (1985)(-)">
+		<description>Primo Assembler System '85.3 (1985)(-)</description>
+		<rom name="Primo Assembler System '85.3 (1985)(-).ptp" size="5087" crc="e76b774c" md5="b05984061bc13a7b11f53ea15947489f" sha1="0517d71fd976773e55de6d3a88228d3448ae681f"/>
+	</game>
+	<game name="Primo Copy '87.2 (1987)(Paller Gabor)">
+		<description>Primo Copy '87.2 (1987)(Paller Gabor)</description>
+		<rom name="Primo Copy '87.2 (1987)(Paller Gabor).ptp" size="2152" crc="12638dfa" md5="a870aee3a69ce4ef562b9d933d849b29" sha1="ff6681498e8770ac60a900e4458b34dc82a6aa9f"/>
+	</game>
+	<game name="Primo Disassembler &amp; NK '84 (1984)(-)[start GET]">
+		<description>Primo Disassembler &amp; NK '84 (1984)(-)[start GET]</description>
+		<rom name="Primo Disassembler &amp; NK '84 (1984)(-)[start GET].ptp" size="1805" crc="a8867c5c" md5="bfd0cc840ad505ad4bdb2176e9554d27" sha1="4384e56c0724443cbe8374fcfced1be4f6feaf6c"/>
+	</game>
+	<game name="Primo Disassembler 88 (1988)(-)">
+		<description>Primo Disassembler 88 (1988)(-)</description>
+		<rom name="Primo Disassembler 88 (1988)(-).ptp" size="2075" crc="506ae9a3" md5="c8fd8d962e0f57b197da753bd1a1a949" sha1="0217de141075ff98a409dfd756923d13e45d0681"/>
+	</game>
+	<game name="Primo Disassembler 88 (1988)(-)[a]">
+		<description>Primo Disassembler 88 (1988)(-)[a]</description>
+		<rom name="Primo Disassembler 88 (1988)(-)[a].ptp" size="2075" crc="47dfbe81" md5="4612f1ece51f8e73079e5f55876162d2" sha1="76b712b3c6b3d506cbb1a754026ac1733c3b912a"/>
+	</game>
+	<game name="Primo Expanded Basic System '85.1 (1985)(Verysoft)">
+		<description>Primo Expanded Basic System '85.1 (1985)(Verysoft)</description>
+		<rom name="Primo Expanded Basic System '85.1 (1985)(Verysoft).ptp" size="6193" crc="2f65c7a1" md5="364f5cddcc59337f0afc25d73e0a5dc0" sha1="589a60fab0c908f88309232ba06a7c23d2738e0c"/>
+	</game>
+	<game name="Primo Expanded Basic System '86.1 (1986)(Verysoft)">
+		<description>Primo Expanded Basic System '86.1 (1986)(Verysoft)</description>
+		<rom name="Primo Expanded Basic System '86.1 (1986)(Verysoft).ptp" size="6600" crc="07955f62" md5="de12b48013bd8b20f8223edd1643ff1e" sha1="cb62fca3244621f3a2440621756f9c4d396fb75a"/>
+	</game>
+	<game name="Primo Forth v1.0 (1985)(BME-KSZK)[a]">
+		<description>Primo Forth v1.0 (1985)(BME-KSZK)[a]</description>
+		<rom name="Primo Forth v1.0 (1985)(BME-KSZK)[a].ptp" size="11525" crc="37711548" md5="fc42e15116bf7479823830ae70790a76" sha1="21ce03a0d0fbbf0fbe4d74bbda34d974424d5510"/>
+	</game>
+	<game name="Primo Forth v1.2 (1985)(BME-KSZK)">
+		<description>Primo Forth v1.2 (1985)(BME-KSZK)</description>
+		<rom name="Primo Forth v1.2 (1985)(BME-KSZK).ptp" size="13770" crc="05902326" md5="7737f2ea7eda5d37a57fee85bb55b7ae" sha1="5d5a1ae590242fb02f0e795a6034abae97bd67a3"/>
+	</game>
+	<game name="Primo Forth v1.2 (1985)(BME-KSZK)[a]">
+		<description>Primo Forth v1.2 (1985)(BME-KSZK)[a]</description>
+		<rom name="Primo Forth v1.2 (1985)(BME-KSZK)[a].ptp" size="13770" crc="f9c65dac" md5="b4a257ac43a3d8d301913a5a1c294d64" sha1="22e6f6eb469ff56ba98d90bbe0bf63acf1bb06a4"/>
+	</game>
+	<game name="Primo ForthSave (1985)(BME-KSZK)">
+		<description>Primo ForthSave (1985)(BME-KSZK)</description>
+		<rom name="Primo ForthSave (1985)(BME-KSZK).ptp" size="12794" crc="c9942e32" md5="d68aa20cef25c128b2d9a13da402d3e7" sha1="50bd505f39c0f2f5891ce1bd95e8eec83a8b68b4"/>
+	</game>
+	<game name="Primo Graphics System '85.1 (1985)(Verysoft)">
+		<description>Primo Graphics System '85.1 (1985)(Verysoft)</description>
+		<rom name="Primo Graphics System '85.1 (1985)(Verysoft).ptp" size="5341" crc="05b49db0" md5="30991aa2f9b41afc0c61060592e50a28" sha1="e7299ddbdf64dba5d38cdfaa577d0ef6cbf98645"/>
+	</game>
+	<game name="Primo Graphics System '85.1 (1985)(Verysoft)[a2]">
+		<description>Primo Graphics System '85.1 (1985)(Verysoft)[a2]</description>
+		<rom name="Primo Graphics System '85.1 (1985)(Verysoft)[a2].ptp" size="5341" crc="f41afd92" md5="ea45541b94af16e7e01f0b71fc09c6b3" sha1="63c756a00c7e8d0a5d856cfb53f612d9cca47ea0"/>
+	</game>
+	<game name="Primo Graphics System '85.1 (1985)(Verysoft)[a]">
+		<description>Primo Graphics System '85.1 (1985)(Verysoft)[a]</description>
+		<rom name="Primo Graphics System '85.1 (1985)(Verysoft)[a].ptp" size="5333" crc="74d1eeef" md5="6683a37e6e062c60340c8aaee25d78b6" sha1="bba9b680c55940b385fd24d8b778efa42d9fb124"/>
+	</game>
+	<game name="Primo Graphics System '86.1-CDOS (1986)(Verysoft)">
+		<description>Primo Graphics System '86.1-CDOS (1986)(Verysoft)</description>
+		<rom name="Primo Graphics System '86.1-CDOS (1986)(Verysoft).ptp" size="5195" crc="80bdffe9" md5="530c426dce875630d267c589f39f1d68" sha1="82156e0f7f47260ba843374422ab7a6f6ae5c9ab"/>
+	</game>
+	<game name="Primo Graphics System '86.1-CDOS (1986)(Verysoft)(Primo B)">
+		<description>Primo Graphics System '86.1-CDOS (1986)(Verysoft)(Primo B)</description>
+		<rom name="Primo Graphics System '86.1-CDOS (1986)(Verysoft)(Primo B).ptp" size="4397" crc="f822f5d9" md5="c45a96b431c91ea35eb652b26ac90274" sha1="0e91a22bb34625586649e3e496073e59b058340c"/>
+	</game>
+	<game name="Primo idomeres (198x)(-)(hu)">
+		<description>Primo idomeres (198x)(-)(hu)</description>
+		<rom name="Primo idomeres (198x)(-)(hu).ptp" size="637" crc="aaf6a164" md5="23e55ffe260fdf1a8b3e90c873242d69" sha1="cc570e851468d53cc71dd16b16d6c7b2daf1391f"/>
+	</game>
+	<game name="Primo Lisp (198x)(Paller Gabor)">
+		<description>Primo Lisp (198x)(Paller Gabor)</description>
+		<rom name="Primo Lisp (198x)(Paller Gabor).ptp" size="7418" crc="a54bbbd3" md5="cafd03667622f29749c8c529c1784f4d" sha1="b822db379385134e14d2deb1f98f1a4b5f3b8bb4"/>
+	</game>
+	<game name="Primo microPROLOG System (1988)(Paller Gabor)">
+		<description>Primo microPROLOG System (1988)(Paller Gabor)</description>
+		<rom name="Primo microPROLOG System (1988)(Paller Gabor).ptp" size="15332" crc="8c4d8bf7" md5="44432b4d98f395dabebc9da0ec7e6a39" sha1="78b00611836688344ef5ad345f08fa324a4044c3"/>
+	</game>
+	<game name="Primo Pascal System 1.0 (1985)(BME-KSZK)">
+		<description>Primo Pascal System 1.0 (1985)(BME-KSZK)</description>
+		<rom name="Primo Pascal System 1.0 (1985)(BME-KSZK).ptp" size="24322" crc="3f70b772" md5="cc9bcaf9d6111e91db69bb2b0b5ad3fe" sha1="47be627740034e1b3b8209211336aae070f6b01d"/>
+	</game>
+	<game name="Primo Sakk Computer kimento (1986)(Furrier Software)">
+		<description>Primo Sakk Computer kimento (1986)(Furrier Software)</description>
+		<rom name="Primo Sakk Computer kimento (1986)(Furrier Software).ptp" size="19502" crc="6ab7b045" md5="639f10faffc4c0a3fc70f3a28fe41214" sha1="2c3960570c91b771ff8f6893fb406660ee318962"/>
+	</game>
+	<game name="Primo Text Editor kimento (1986-08-11)(Szucs Zoltan)">
+		<description>Primo Text Editor kimento (1986-08-11)(Szucs Zoltan)</description>
+		<rom name="Primo Text Editor kimento (1986-08-11)(Szucs Zoltan).ptp" size="7776" crc="dbc5fcce" md5="b1e81025617370278a1b12c3b634af7a" sha1="5e2171c563c18a8d6f86274df3544a4780584541"/>
+	</game>
+	<game name="Primo Turbo Copy System 2.5MHz (198x)(-)">
+		<description>Primo Turbo Copy System 2.5MHz (198x)(-)</description>
+		<rom name="Primo Turbo Copy System 2.5MHz (198x)(-).ptp" size="3169" crc="91666577" md5="a17b2177aaf83b06f91aaed7719f5e88" sha1="e08ce73b279e3c167c759d93a9850e029ce0ca70"/>
+	</game>
+	<game name="Primo Turbo Copy System 3.75MHz (198x)(-)">
+		<description>Primo Turbo Copy System 3.75MHz (198x)(-)</description>
+		<rom name="Primo Turbo Copy System 3.75MHz (198x)(-).ptp" size="2786" crc="abf446dc" md5="306ee0c7f9d45c08b829545a18a1020b" sha1="b37edaa0047ad989bf2718ad8c9afabdfb5cbf6e"/>
+	</game>
+	<game name="Primo Turbo Save &amp; Copy System '86.1 (1986)(-)">
+		<description>Primo Turbo Save &amp; Copy System '86.1 (1986)(-)</description>
+		<rom name="Primo Turbo Save &amp; Copy System '86.1 (1986)(-).ptp" size="1843" crc="9ccfb73b" md5="689e64f5faf57bcc1a6f83c2bc6fb1d8" sha1="48687eeb14892dd52f824a2967d47e72c81364f5"/>
+	</game>
+	<game name="Primo Video Text Editor (1986)(Szucs Zoltan)(Primo B)">
+		<description>Primo Video Text Editor (1986)(Szucs Zoltan)(Primo B)</description>
+		<rom name="Primo Video Text Editor (1986)(Szucs Zoltan)(Primo B).ptp" size="7343" crc="19ea0698" md5="9cc46368e7b4d9b98b1a2af6b7c30f58" sha1="7e76aef8b3a456d200a31327412453b261630ea3"/>
+	</game>
+	<game name="Primusix (198x)(-)(hu)">
+		<description>Primusix (198x)(-)(hu)</description>
+		<rom name="Primusix (198x)(-)(hu).ptp" size="4301" crc="72fbe247" md5="239505b611655ae7f18a624020314aa1" sha1="a99a88ad6fc50180c7b6d833a5258cfe88771ece"/>
+	</game>
+	<game name="Program nyilvantarto (198x)(Olah Tamas)(hu)">
+		<description>Program nyilvantarto (198x)(Olah Tamas)(hu)</description>
+		<rom name="Program nyilvantarto (198x)(Olah Tamas)(hu).ptp" size="2839" crc="0d1c5007" md5="ea6af8c65effcf6f159bbb256df5a184" sha1="c0bb49362c18708f0ae2c466c93887c6efce8eea"/>
+	</game>
+	<game name="Programtar (1987)(Nemeth Janos)(hu)">
+		<description>Programtar (1987)(Nemeth Janos)(hu)</description>
+		<rom name="Programtar (1987)(Nemeth Janos)(hu).ptp" size="2233" crc="f92f5d94" md5="95bde314218cfeee52bd9311e58eadff" sha1="b0f3e8a9ace5976173bf628a8d6ee3de7a6bf1b9"/>
+	</game>
+	<game name="Quartz Clock (1986)(Sandor Zsolt)[incl Graphics '85]">
+		<description>Quartz Clock (1986)(Sandor Zsolt)[incl Graphics '85]</description>
+		<rom name="Quartz Clock (1986)(Sandor Zsolt)[incl Graphics '85].ptp" size="8089" crc="490149f2" md5="56fa78ef15f15aa5b2c3410f86e0eeac" sha1="48ffb69a9989a13368161e28ae68595fac5778d7"/>
+	</game>
+	<game name="Quartz Clock (1986)(Sandor Zsolt)[req Graphics '85]">
+		<description>Quartz Clock (1986)(Sandor Zsolt)[req Graphics '85]</description>
+		<rom name="Quartz Clock (1986)(Sandor Zsolt)[req Graphics '85].ptp" size="2748" crc="374f3231" md5="39c29b753423a3c7d1266cb17d881801" sha1="e53d8d5aeb75add2092b0a1635130fc565cb17ec"/>
+	</game>
+	<game name="R.S.S. Loader v1.2 (1987)(Repas Sandor)">
+		<description>R.S.S. Loader v1.2 (1987)(Repas Sandor)</description>
+		<rom name="R.S.S. Loader v1.2 (1987)(Repas Sandor).ptp" size="602" crc="ca483e03" md5="3529108d9295f074c5b48093f20dc247" sha1="d285e98ffc6f43438389580b793b27c2303035e9"/>
+	</game>
+	<game name="Rajz botkormannyal (1986)(Gerendas Sandor)">
+		<description>Rajz botkormannyal (1986)(Gerendas Sandor)</description>
+		<rom name="Rajz botkormannyal (1986)(Gerendas Sandor).ptp" size="622" crc="fc164ced" md5="553ff69cefa7dd7f7c1d4c83849852b3" sha1="84a43e072844e91f6048c4eacf5a45915b52dd9f"/>
+	</game>
+	<game name="Rajzolo (198x)(-)[incl Graphics '85]">
+		<description>Rajzolo (198x)(-)[incl Graphics '85]</description>
+		<rom name="Rajzolo (198x)(-)[incl Graphics '85].ptp" size="8206" crc="e6cb32fe" md5="da690e2ae3b84b5fc99740ee442bb5bf" sha1="9397dd70076b624c57e2391c3786073e81cbb4e0"/>
+	</game>
+	<game name="Rajzolo (198x)(-)[req Graphics '85]">
+		<description>Rajzolo (198x)(-)[req Graphics '85]</description>
+		<rom name="Rajzolo (198x)(-)[req Graphics '85].ptp" size="2865" crc="386ea4c6" md5="7d8d05c7c750ebe497db830bfe45a24e" sha1="3e2eba9e75393739f9a8c73579856174a35353db"/>
+	</game>
+	<game name="Renumber (1987)(Koszper Vilmos)">
+		<description>Renumber (1987)(Koszper Vilmos)</description>
+		<rom name="Renumber (1987)(Koszper Vilmos).ptp" size="2143" crc="4783e458" md5="888fad7d256c960f12f65c948a93e8bb" sha1="9ba03e5bd942b3b3c246de0a41e7a3af12c3490b"/>
+	</game>
+	<game name="Renumber (198x)(-)[a]">
+		<description>Renumber (198x)(-)[a]</description>
+		<rom name="Renumber (198x)(-)[a].ptp" size="2179" crc="bae72c0e" md5="7fc2f127353e7c59c8cdf47558d46623" sha1="b8f1dc284ed2221121fcdb792167acc8965c1612"/>
+	</game>
+	<game name="Screen E.S. (198x)(Kovacs Attila)">
+		<description>Screen E.S. (198x)(Kovacs Attila)</description>
+		<rom name="Screen E.S. (198x)(Kovacs Attila).ptp" size="1104" crc="5212c567" md5="c2ac4a38fadd7017524fc60965ff3a9d" sha1="090075e51f441a377130ffcf79d84ded33cceedb"/>
+	</game>
+	<game name="Screen nagyito (1987)(Olah Tamas)">
+		<description>Screen nagyito (1987)(Olah Tamas)</description>
+		<rom name="Screen nagyito (1987)(Olah Tamas).ptp" size="2030" crc="f0d3b6c9" md5="a6b5db658462719bb4f7b9dae7b44c60" sha1="2c400398c696459c0ad233157d96875f9f6b2d49"/>
+	</game>
+	<game name="Shynt (198x)(Kovacs Attila)">
+		<description>Shynt (198x)(Kovacs Attila)</description>
+		<rom name="Shynt (198x)(Kovacs Attila).ptp" size="1157" crc="a67c28d5" md5="c3c514e18d56403f162a91d7f6f8b8d5" sha1="adb58a658566c012294ada95b097c2faba124405"/>
+	</game>
+	<game name="Sokszogvonal szamitas (198x)(Kovacs Attila)(hu)">
+		<description>Sokszogvonal szamitas (198x)(Kovacs Attila)(hu)</description>
+		<rom name="Sokszogvonal szamitas (198x)(Kovacs Attila)(hu).ptp" size="2733" crc="7169d15d" md5="4f22deb080ace26aa0dd481ff3d8b830" sha1="797b133873632f9c523dc253095276ca918f0008"/>
+	</game>
+	<game name="Speaker (1988)(Vitez-Software)">
+		<description>Speaker (1988)(Vitez-Software)</description>
+		<rom name="Speaker (1988)(Vitez-Software).ptp" size="1094" crc="8975af80" md5="1976c29ffe6c293426df9bb5bacd72d3" sha1="0282b2085f8e7e5f32c95812fb1837c4773b910d"/>
+	</game>
+	<game name="Speaker (1988)(Vitez-Software)[docs]">
+		<description>Speaker (1988)(Vitez-Software)[docs]</description>
+		<rom name="Speaker (1988)(Vitez-Software)[docs].ptp" size="1625" crc="90f0d588" md5="f70d3703b3200f207d537bd5b4f06913" sha1="835bda757144de1bfd36cd111b9bc60d2f813c96"/>
+	</game>
+	<game name="Speci GOTO (198x)(-)">
+		<description>Speci GOTO (198x)(-)</description>
+		<rom name="Speci GOTO (198x)(-).ptp" size="935" crc="095a569e" md5="e50ce390fad403c98de25720e9ced210" sha1="17e4388f41a6c16aa30be813fd88b87cd5ee02f8"/>
+	</game>
+	<game name="Spectrum Emulator for Primo (198x)(Paller Gabor)">
+		<description>Spectrum Emulator for Primo (198x)(Paller Gabor)</description>
+		<rom name="Spectrum Emulator for Primo (198x)(Paller Gabor).ptp" size="17023" crc="06442210" md5="e3ae6d83ee8cefc0553e339329700a31" sha1="0ddf3fba19e2a28375104c5a8c817948fbe652b1"/>
+	</game>
+	<game name="Spectrum Emulator for Primo (198x)(Paller Gabor)[a]">
+		<description>Spectrum Emulator for Primo (198x)(Paller Gabor)[a]</description>
+		<rom name="Spectrum Emulator for Primo (198x)(Paller Gabor)[a].ptp" size="17023" crc="45ac74f7" md5="7c8323a42b3fb044f2b2dc90a88bc88b" sha1="12ae2a56db3bdd61a328b5a7f56fea02f6e857d6"/>
+	</game>
+	<game name="Spectrum Loader (198x)(BG Primo Software)">
+		<description>Spectrum Loader (198x)(BG Primo Software)</description>
+		<rom name="Spectrum Loader (198x)(BG Primo Software).ptp" size="2118" crc="a4be230d" md5="2d9ace415b22076cf4e8644ba56f47f4" sha1="c3ee9bffd6d6262a36470b5a7f9a4419fa8893b4"/>
+	</game>
+	<game name="Sprite Basic (198x)(-)">
+		<description>Sprite Basic (198x)(-)</description>
+		<rom name="Sprite Basic (198x)(-).ptp" size="6659" crc="7c28bec6" md5="c19b7121df5c7331247c018dc0fa3a14" sha1="afc3adc7cab12507b38bc7b1233db4e154cced74"/>
+	</game>
+	<game name="Spritegraf (198x)(Kovacs Attila)">
+		<description>Spritegraf (198x)(Kovacs Attila)</description>
+		<rom name="Spritegraf (198x)(Kovacs Attila).ptp" size="2839" crc="76c765ed" md5="02531a91bb6767134a07d1383a6da76e" sha1="7d43b9c6968f1855351f0013944de70ded01f08d"/>
+	</game>
+	<game name="Stargraphic (198x)(-)(hu)">
+		<description>Stargraphic (198x)(-)(hu)</description>
+		<rom name="Stargraphic (198x)(-)(hu).ptp" size="2556" crc="0b7419e5" md5="eb6110a5211cbff1d600077022220589" sha1="e0180022759ae0ae8e6c4745c338121ed18d3f9f"/>
+	</game>
+	<game name="Stopper (198x)(-)">
+		<description>Stopper (198x)(-)</description>
+		<rom name="Stopper (198x)(-).ptp" size="1200" crc="0f4fc56f" md5="00d6d844da7f75bb0d63cad87265ea12" sha1="2a83dd9c6e489669e66d3cb798d67c89f62da4b4"/>
+	</game>
+	<game name="Stopper (198x)(-)(Primo B)">
+		<description>Stopper (198x)(-)(Primo B)</description>
+		<rom name="Stopper (198x)(-)(Primo B).ptp" size="1584" crc="3b55ca11" md5="7b696303122c5f4a3c6d465cf604df86" sha1="40f92622956b3fdc33f5f75765b5de529c625c53"/>
+	</game>
+	<game name="Stopper (198x)(Kormendi Gyorgy)(Primo B)">
+		<description>Stopper (198x)(Kormendi Gyorgy)(Primo B)</description>
+		<rom name="Stopper (198x)(Kormendi Gyorgy)(Primo B).ptp" size="1649" crc="8349b1fb" md5="9004035089d1240c8879883bb5c8c67d" sha1="e30fdad96223f93d2f0565f9a4a0bb58f70d3791"/>
+	</game>
+	<game name="Stringrendezes (198x)(-)">
+		<description>Stringrendezes (198x)(-)</description>
+		<rom name="Stringrendezes (198x)(-).ptp" size="1046" crc="9670c261" md5="d9178ca130e42daa43d5001b966b6e8f" sha1="e3f606e475e4017233337491fdf921cb186bcc42"/>
+	</game>
+	<game name="Super Calc (198x)(-)(hu)">
+		<description>Super Calc (198x)(-)(hu)</description>
+		<rom name="Super Calc (198x)(-)(hu).ptp" size="811" crc="811baccc" md5="6bd4196a7549e89b15c0783a9c629d9f" sha1="9ef9fcd3209f3d5862798b37ca1e8552b1a7fbb1"/>
+	</game>
+	<game name="SuperCopy R.S.S. '87 (1987)(Repas Sandor)">
+		<description>SuperCopy R.S.S. '87 (1987)(Repas Sandor)</description>
+		<rom name="SuperCopy R.S.S. '87 (1987)(Repas Sandor).ptp" size="1183" crc="b094e428" md5="31fe9273d4b1dd2e647d85b7fa074025" sha1="4e34f0ec6c828f5ba23a3f072c1d53c7de62812c"/>
+	</game>
+	<game name="Szamrendszerek (1987)(Repas Sandor)">
+		<description>Szamrendszerek (1987)(Repas Sandor)</description>
+		<rom name="Szamrendszerek (1987)(Repas Sandor).ptp" size="1200" crc="e259844a" md5="6fa7d7933312d7786f8d2711f4248ac6" sha1="16e5be96f656c7dde405c3bdbddee6e0dd536cd3"/>
+	</game>
+	<game name="Szemely-nyilvantartas (198x)(-)">
+		<description>Szemely-nyilvantartas (198x)(-)</description>
+		<rom name="Szemely-nyilvantartas (198x)(-).ptp" size="3426" crc="a569f904" md5="3f7205cd71a11f37fed41c28ff25a399" sha1="f46bc795221adf910c619cb51368bb774fe10304"/>
+	</game>
+	<game name="Szerkeszto RS (1988)(Miszlai Robert)">
+		<description>Szerkeszto RS (1988)(Miszlai Robert)</description>
+		<rom name="Szerkeszto RS (1988)(Miszlai Robert).ptp" size="9995" crc="125983d8" md5="19ea7a7e9562fb96db87b83d552f1975" sha1="a90a2ff6b555b318504b82b2b5a8700aab5b355a"/>
+	</game>
+	<game name="Szex teszt (198x)(-)(hu)">
+		<description>Szex teszt (198x)(-)(hu)</description>
+		<rom name="Szex teszt (198x)(-)(hu).ptp" size="7140" crc="a4300dd1" md5="5e2afb8f72c55daa1bda00b55a89c1a2" sha1="9552ae0fb454a6e70b036722a8d0bb1a245db846"/>
+	</game>
+	<game name="Szigma Assembler '1.2 (198x)(-)">
+		<description>Szigma Assembler '1.2 (198x)(-)</description>
+		<rom name="Szigma Assembler '1.2 (198x)(-).ptp" size="6489" crc="e2e87cd1" md5="a294846787cb40bfd3c58f64fe556a5f" sha1="f2fb5709cf54ed96c10d15d4b678547e2246b945"/>
+	</game>
+	<game name="Szigma Assembler '2.2 (198x)(-)">
+		<description>Szigma Assembler '2.2 (198x)(-)</description>
+		<rom name="Szigma Assembler '2.2 (198x)(-).ptp" size="6069" crc="17624303" md5="f8939bc444ce0fd8eb5523bdbc9a28d0" sha1="e010e63787923d9ccf43e37becae3f6d7b3aaabf"/>
+	</game>
+	<game name="Szkop-2 (198x)(-)">
+		<description>Szkop-2 (198x)(-)</description>
+		<rom name="Szkop-2 (198x)(-).ptp" size="1551" crc="7235aa84" md5="7e0ddd28c99633cd28501e240294104e" sha1="632dc153e131bb3f80136b2d036204e961e6224e"/>
+	</game>
+	<game name="Szotar (1985)(Szucs Zoltan)">
+		<description>Szotar (1985)(Szucs Zoltan)</description>
+		<rom name="Szotar (1985)(Szucs Zoltan).ptp" size="22721" crc="946f2156" md5="b1c445245500dcbaa8cca788ed6caf80" sha1="5d16225f09ebce750b41be89ba98948d6e33bce0"/>
+	</game>
+	<game name="Szotar (198x)(Szucs Zoltan - Kiss Gyorgy)">
+		<description>Szotar (198x)(Szucs Zoltan - Kiss Gyorgy)</description>
+		<rom name="Szotar (198x)(Szucs Zoltan - Kiss Gyorgy).ptp" size="7653" crc="c58d111b" md5="8503930fb8d664e1154d11aa3ce647d8" sha1="b58ae3782f5feabcdeb211d818c5f17096113007"/>
+	</game>
+	<game name="Token (198x)(-)">
+		<description>Token (198x)(-)</description>
+		<rom name="Token (198x)(-).ptp" size="552" crc="eae947ed" md5="7029e9860d4a4fc50dc3351845b90446" sha1="086816d86bd58436bdb696698bcc9dd332861f81"/>
+	</game>
+	<game name="Uni - Masolo CMD-43EAHa (198x)(Szekeres Antal)">
+		<description>Uni - Masolo CMD-43EAHa (198x)(Szekeres Antal)</description>
+		<rom name="Uni - Masolo CMD-43EAHa (198x)(Szekeres Antal).ptp" size="935" crc="4c48d95a" md5="b06d6ad6383c24f8d94e66bf762e9e31" sha1="71fadb02fa8f1cd348007470ac9e3084b3ef38b2"/>
+	</game>
+	<game name="Uni - Masolo CMD-DF00Ha (198x)(Szekeres Antal)">
+		<description>Uni - Masolo CMD-DF00Ha (198x)(Szekeres Antal)</description>
+		<rom name="Uni - Masolo CMD-DF00Ha (198x)(Szekeres Antal).ptp" size="931" crc="898712f7" md5="4400bc50245b6885455d3a97063b9aa8" sha1="fc0c5a5b4a8a6818eeb668bbaadbf7b58492cc76"/>
+	</game>
+	<game name="Uni-Graf (198x)(-)">
+		<description>Uni-Graf (198x)(-)</description>
+		<rom name="Uni-Graf (198x)(-).ptp" size="17532" crc="91a964cb" md5="fd18b65ce3cffc297fade181f71ded12" sha1="b93c74723d64e64434507fa224475cda3f6e257b"/>
+	</game>
+	<game name="Varia (198x)(-)">
+		<description>Varia (198x)(-)</description>
+		<rom name="Varia (198x)(-).ptp" size="2475" crc="cc7bd65f" md5="3939a8f184fc94bf8b180b6b3c518485" sha1="ebbaf2d63c152d570340efb82f4d7385c8519399"/>
+	</game>
+	<game name="Verysoft's Copy (198x)(Verysoft)">
+		<description>Verysoft's Copy (198x)(Verysoft)</description>
+		<rom name="Verysoft's Copy (198x)(Verysoft).ptp" size="277" crc="52212e23" md5="d75e09777d26228c47b7b6c55170c783" sha1="2aae320efe87be2e86be1a106b6c3fe67fdf5092"/>
+	</game>
+	<game name="Vsoft's Vilicopy (198x)(Vsoft)">
+		<description>Vsoft's Vilicopy (198x)(Vsoft)</description>
+		<rom name="Vsoft's Vilicopy (198x)(Vsoft).ptp" size="492" crc="95c94cdb" md5="b9908ded846f42c32e2296565fd5f62d" sha1="f5aadd8a92ba70489012ce695883f98a58ccbef8"/>
+	</game>
+	<game name="Z80 Monitor (198x)(-)">
+		<description>Z80 Monitor (198x)(-)</description>
+		<rom name="Z80 Monitor (198x)(-).ptp" size="4564" crc="69be51ed" md5="0fe83573e3e112742b5af0c98f7180c5" sha1="9d0656a811317934a1463b64ea36181d50652e09"/>
+	</game>
+	<game name="ZX Copy (198x)(-)">
+		<description>ZX Copy (198x)(-)</description>
+		<rom name="ZX Copy (198x)(-).ptp" size="982" crc="f9d9befe" md5="baabc941a980e73a9b8d8bf7dc7ea704" sha1="8f2e40d9d4210a9e68bc4cb2856b535e3a73bc6f"/>
+	</game>
+</datafile>

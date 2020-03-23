@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Visual Pinball [VP92x] PinMame Tables [Hybrid View]</name>
+		<description>Visual Pinball [VP92x] PinMame Tables [Hybrid View]</description>
+		<category>Visual Pinball [VP92x] PinMame Tables [Hybrid View]</category>
+		<version>1.0</version>
+		<date>2020-01-01</date>
+		<author>Yori Yoshizuki</author>
+		<email>-insert email-</email>
+		<homepage>Yori Yoshizuki</homepage>
+		<url>https://yoshizuki.webs.com</url>
+		<comment>-insert comment-</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Black Knight 2000 (Williams)(1989)">
+		<description>Black Knight 2000 (Williams)(1989)</description>
+		<rom name="Black Knight 2000 (1989) (Williams) (Melon) (Rascal) (1.0) (Hv) vp920.png" size="3063066" crc="30e2c369" sha1="b8e3c6ba999ce243214ff11a3336497112270c28"/>
+		<rom name="Black Knight 2000 (1989) (Williams) (Melon) (Rascal) (1.0) (Hv) vp920.vpt" size="29937664" crc="2236cc8a" sha1="210328ae801fa03f925d48724bb5a64cf41d1144"/>
+	</machine>
+	<machine name="Dungeons &amp; Dragons (Bally)(1987)">
+		<description>Dungeons &amp; Dragons (Bally)(1987)</description>
+		<rom name="Dungeons &amp; Dragons (1987) (Bally) (mfuegemann) (Rascal) (1.0) (HV) VP921.png" size="2968950" crc="351e7fe8" sha1="ed45acb6e94ddd5a4aa44c60a748b78ef045dd6a"/>
+		<rom name="Dungeons &amp; Dragons (1987) (Bally) (mfuegemann) (Rascal) (1.0) (HV) VP921.vpt" size="35934208" crc="77ba4627" sha1="26049910a19e6eb2b3cb61a2303d2e11ca46abf5"/>
+	</machine>
+	<machine name="Getaway, The - High Speed II (Williams)(1992)">
+		<description>Getaway, The - High Speed II (Williams)(1992)</description>
+		<rom name="The Getaway High Speed II (1992) (Williams) (Melon) (Rascal) (1.0) (HV) vp920.png" size="2546319" crc="8205874f" sha1="a2fe4c53c39079271a2fee95902e95c584209bc8"/>
+		<rom name="The Getaway High Speed II (1992) (Williams) (Melon) (Rascal) (1.0) (HV) vp920.vpt" size="35233792" crc="67ed9f78" sha1="59063988adcd49dac6e20dc43d29f31d489c16ba"/>
+	</machine>
+	<machine name="Monster Bash (Williams)(1998)">
+		<description>Monster Bash (Williams)(1998)</description>
+		<rom name="Monster Bash (1998) (Williams) (unclewilly) (Rascal) (1.0) (HV) [VP921].vpt" size="106045440" crc="12cbace0" sha1="f4ddfe7fcae8bf95637922bc6f2aba05a63ce3a4"/>
+		<rom name="Monster Bash (1998) (Williams) (unclewilly) (Rascal) (1.0) (HV).png" size="2780966" crc="884016d2" sha1="aaec905e5ab24da1145b7c03a3a4d434c1330d7a"/>
+	</machine>
+	<machine name="Theatre of Magic (Bally)(1995)">
+		<description>Theatre of Magic (Bally)(1995)</description>
+		<rom name="Theatre Of Magic (1995) (Bally) (Uw Jp) (Rascal) (1.0) (Hv) vp920.png" size="2840890" crc="97ff4e29" sha1="cf994d7d0c0706e711fa846b6c9e6fde4ebb26b2"/>
+		<rom name="Theatre Of Magic (1995) (Bally) (Uw Jp) (Rascal) (1.0) (Hv) vp920.vpt" size="28614656" crc="e0dc85d8" sha1="8c545fdb7b423fc77609735f75dac46a8b0934dd"/>
+	</machine>
+	<machine name="X-Men (Stern)(2012)">
+		<description>X-Men (Stern)(2012)</description>
+		<rom name="X-Men (2012) (Stern) (85vett) (Rascal) (1.0) (HV) vp920.png" size="2852390" crc="d97f8e61" sha1="dd50c928eb66e6762b5e02bf5f671fda864c7925"/>
+		<rom name="X-Men (2012) (Stern) (85vett) (Rascal) (1.0) (HV) vp920.vpt" size="23166976" crc="77732e88" sha1="bbe005268b9180d12a4f974380afbc3294a5aaa4"/>
+	</machine>
+</datafile>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore Amiga CD32 - Homebrew - Compilations - [BIN]</name>
+		<description>Commodore Amiga CD32 - Homebrew - Compilations - [BIN] (TOSEC-v2018-03-24)</description>
+		<category>TOSEC-ISO</category>
+		<version>2018-03-24</version>
+		<author>Tomse - TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="CD32-350 (2004-06)(frostwork - Gary)">
+		<description>CD32-350 (2004-06)(frostwork - Gary)</description>
+		<rom name="CD32-350 (2004-06)(frostwork - Gary).bin" size="783098400" crc="2429b8f4" md5="b4776fbe187c38cfbf8ed366b0c1bd31" sha1="8c8817b02c3dd0c80d5c018c2964381811386871"/>
+		<rom name="CD32-350 (2004-06)(frostwork - Gary).cue" size="102" crc="a69e1e1b" md5="c557b602882198a14a982e1a32570abd" sha1="f4f8505200ee053ce39ca3f70ac9b6bfcdb84289"/>
+	</game>
+	<game name="CD32-444 (2004-11)(frostwork)">
+		<description>CD32-444 (2004-11)(frostwork)</description>
+		<rom name="CD32-444 (2004-11)(frostwork).bin" size="841470336" crc="edbf5dfe" md5="c2a6d1dc454b158bde5315fd4fa0738d" sha1="f114129caac0c572e7d574371d14b7f2d5e184a5"/>
+		<rom name="CD32-444 (2004-11)(frostwork).cue" size="95" crc="5ff92343" md5="147090382f70a421a8d69dc1867742ba" sha1="72d34560293a0523315a1fe2c668100286e584f5"/>
+	</game>
+	<game name="Old School Paradize 02 (2002)(Lempkee)">
+		<description>Old School Paradize 02 (2002)(Lempkee)</description>
+		<rom name="Old School Paradize 02 (2002)(Lempkee).bin" size="85885632" crc="1591bb80" md5="94cf3aba2121629e8e640bda9ea29a10" sha1="d4e2fbca234ff51d6ea6a44c8dc49df0b5adea17"/>
+		<rom name="Old School Paradize 02 (2002)(Lempkee).cue" size="166" crc="5c3606f8" md5="6688cb0ab5e025b996a9095d6e402569" sha1="39aa14d12165c09716bbc888032324840aad1bdc"/>
+	</game>
+	<game name="Team17 Anthology v1.2 (2004)(Landais, Tony)">
+		<description>Team17 Anthology v1.2 (2004)(Landais, Tony)</description>
+		<rom name="Team17 Anthology v1.2 (2004)(Landais, Tony).bin" size="803097456" crc="713e601c" md5="b8242892455c0a7b3c57aa4d099f944f" sha1="2d30582ed8234406cda3d12b12a52baa5c7e35f8"/>
+		<rom name="Team17 Anthology v1.2 (2004)(Landais, Tony).cue" size="499" crc="d2df6d25" md5="8b54757a3a31ba2a38877c2e844d2e6c" sha1="45114144afd36e82335edd53e0f1f417f13cbc36"/>
+		<rom name="Team17 Anthology v1.2 (2004)(Landais, Tony).txt" size="1521" crc="7cff7b1e" md5="fc3c5d0fceaf97771fb3ec234ba0a224" sha1="c610542a3c920a9fa387524c4d36e1c7202f3b5d"/>
+	</game>
+	<game name="Tonycrew Compilation (2003)(Tonycrew)(beta)">
+		<description>Tonycrew Compilation (2003)(Tonycrew)(beta)</description>
+		<rom name="Tonycrew Compilation (2003)(Tonycrew)(beta).bin" size="395498208" crc="2803da38" md5="645867267f584c6642419c94f24de02d" sha1="1e1ef88dc67dd17dac33eb75b90187820f96fdd9"/>
+		<rom name="Tonycrew Compilation (2003)(Tonycrew)(beta).cue" size="109" crc="94501084" md5="798bab2c7ef7bc688235df548bbcd552" sha1="fa496368f3697921ead141574b1447a19e6d858c"/>
+	</game>
+</datafile>

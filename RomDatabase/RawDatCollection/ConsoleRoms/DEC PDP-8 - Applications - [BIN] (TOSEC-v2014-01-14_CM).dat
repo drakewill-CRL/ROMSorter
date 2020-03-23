@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>DEC PDP-8 - Applications - [BIN]</name>
+		<description>DEC PDP-8 - Applications - [BIN] (TOSEC-v2014-01-14)</description>
+		<category>TOSEC</category>
+		<version>2014-01-14</version>
+		<author>TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Focal 69 (1969)(DEC)(US)">
+		<description>Focal 69 (1969)(DEC)(US)</description>
+		<rom name="Focal 69 (1969)(DEC)(US).bin" size="7937" crc="eb9ed98c" md5="3d6dfa1e4f68c07a0eb31e7fd3473c24" sha1="ef3b07a086ac82c819b7b9566f56421b14fa9d00"/>
+	</game>
+	<game name="Focal 71 (1971)(DEC)(US)">
+		<description>Focal 71 (1971)(DEC)(US)</description>
+		<rom name="Focal 71 (1971)(DEC)(US).bin" size="8255" crc="bd0dd935" md5="222c85a0cf7d574584b727eab7481698" sha1="74729485add40b2f40dcaf0b9fa01cc2d33dd35f"/>
+	</game>
+</datafile>

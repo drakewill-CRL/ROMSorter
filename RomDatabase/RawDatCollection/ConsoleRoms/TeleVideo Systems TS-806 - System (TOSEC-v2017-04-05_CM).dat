@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>TeleVideo Systems TS-806 - System</name>
+		<description>TeleVideo Systems TS-806 - System (TOSEC-v2017-04-05)</description>
+		<category>TOSEC</category>
+		<version>2017-04-05</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<url>http://www.tosecdev.org</url>
+		<clrmamepro/>
+	</header>
+	<game name="CP-M v1.1 (198x)(Digital Research)">
+		<description>CP-M v1.1 (198x)(Digital Research)</description>
+		<rom name="CP-M v1.1 (198x)(Digital Research).imd" size="318666" crc="0b576034" md5="ff164f2b8518dfd3ba9ccd6661ede528" sha1="6995c1cff3b3d2696f23dfb518613968523298e1"/>
+	</game>
+	<game name="TeleVideo Systems 806 v1.2 CP-M v2.2 (1980)(Digital Research)[Serial Number 2326-80525]">
+		<description>TeleVideo Systems 806 v1.2 CP-M v2.2 (1980)(Digital Research)[Serial Number 2326-80525]</description>
+		<rom name="TeleVideo Systems 806 v1.2 CP-M v2.2 (1980)(Digital Research)[Serial Number 2326-80525].imd" size="102747" crc="13500c1f" md5="90f765bb60dc28a9b06a8ba77191a88c" sha1="6cde9af75b2210bf6bd76b40a0a30701168f689b"/>
+	</game>
+	<game name="TurboDOS TeleVideo TS-806 - .COM-.SYS Files (1986-01-07)(Software 2000)">
+		<description>TurboDOS TeleVideo TS-806 - .COM-.SYS Files (1986-01-07)(Software 2000)</description>
+		<rom name="TurboDOS TeleVideo TS-806 - .COM-.SYS Files (1986-01-07)(Software 2000).imd" size="291228" crc="8e88c56c" md5="a335b6ed78908fa7df5c29234aafc2f4" sha1="45b2a85d0440b24c0bb7f12b7207b5e6128f5a5a"/>
+	</game>
+	<game name="TurboDOS TeleVideo TS-806 - .GEN-.PAR-.REL Files (1986-01-07)(Software 2000)">
+		<description>TurboDOS TeleVideo TS-806 - .GEN-.PAR-.REL Files (1986-01-07)(Software 2000)</description>
+		<rom name="TurboDOS TeleVideo TS-806 - .GEN-.PAR-.REL Files (1986-01-07)(Software 2000).imd" size="273806" crc="15030ca3" md5="97ca3b81435fbcba31c94bcb422107ff" sha1="1c597758af6458870bc06ae72da2932b91dfcf7d"/>
+	</game>
+	<game name="TurboDOS TeleVideo TS-806 - Initial Boot Disk (1986-01-07)(Software 2000)">
+		<description>TurboDOS TeleVideo TS-806 - Initial Boot Disk (1986-01-07)(Software 2000)</description>
+		<rom name="TurboDOS TeleVideo TS-806 - Initial Boot Disk (1986-01-07)(Software 2000).imd" size="181010" crc="e3638bf1" md5="cb0c1ddca428e105eb1388226e8fabec" sha1="fae7efb6f311ee5885dd586da23cb00745264b77"/>
+	</game>
+	<game name="TurboDOS TeleVideo TS-806 - NET80 Modules (1986-01-07)(Software 2000)">
+		<description>TurboDOS TeleVideo TS-806 - NET80 Modules (1986-01-07)(Software 2000)</description>
+		<rom name="TurboDOS TeleVideo TS-806 - NET80 Modules (1986-01-07)(Software 2000).imd" size="41522" crc="b0795ec7" md5="523ee8ead9a50777ee3b361b053ff4df" sha1="dadc082decd7bfa4f4b32d7fc4942c0f4462dae6"/>
+	</game>
+	<game name="TurboDOS TeleVideo TS-806 - NET806 Modules (1986-01-07)(Software 2000)">
+		<description>TurboDOS TeleVideo TS-806 - NET806 Modules (1986-01-07)(Software 2000)</description>
+		<rom name="TurboDOS TeleVideo TS-806 - NET806 Modules (1986-01-07)(Software 2000).imd" size="109097" crc="f5a2d090" md5="8fafa9e5751ca8cc0272a1bc36a84ae3" sha1="54e9d12696a262070fd857c74d39954b17afe91d"/>
+	</game>
+	<game name="TurboDOS TeleVideo TS-806 - NET80A Modules (1986-01-07)(Software 2000)">
+		<description>TurboDOS TeleVideo TS-806 - NET80A Modules (1986-01-07)(Software 2000)</description>
+		<rom name="TurboDOS TeleVideo TS-806 - NET80A Modules (1986-01-07)(Software 2000).imd" size="39992" crc="d4f565f0" md5="531c2c589c8826da37b44f1d0225eabe" sha1="b1ea5bab8e9dfe88a8c5b6a673c8d93c6e0585c1"/>
+	</game>
+	<game name="TurboDOS TeleVideo TS-806 - NETTP Modules (1986-01-07)(Software 2000)">
+		<description>TurboDOS TeleVideo TS-806 - NETTP Modules (1986-01-07)(Software 2000)</description>
+		<rom name="TurboDOS TeleVideo TS-806 - NETTP Modules (1986-01-07)(Software 2000).imd" size="80284" crc="7d26f362" md5="d23f9f44094eb833e751a6e9388ce265" sha1="cb47f9e01efa82c6796ba25e64e80e29b60b83fe"/>
+	</game>
+	<game name="TurboDOS TeleVideo TS-806 - STD806 Modules (1986-01-07)(Software 2000)">
+		<description>TurboDOS TeleVideo TS-806 - STD806 Modules (1986-01-07)(Software 2000)</description>
+		<rom name="TurboDOS TeleVideo TS-806 - STD806 Modules (1986-01-07)(Software 2000).imd" size="69572" crc="ee1cbbb5" md5="e23c024e2084359ad32e54ff6e37fd00" sha1="2b60edc50da2cdbdfafc218591c660245c718b3a"/>
+	</game>
+	<game name="TurboDOS v1.4 - Command and System Files (19xx)(-)">
+		<description>TurboDOS v1.4 - Command and System Files (19xx)(-)</description>
+		<rom name="TurboDOS v1.4 - Command and System Files (19xx)(-).imd" size="170298" crc="193dca92" md5="c58037ee82f3fb113ce7038bbafe20db" sha1="af83e88302043948efd0b767da92b4bdac6f82bf"/>
+	</game>
+	<game name="TurboDOS v1.4 - System Regeneration Files (19xx)(-)(Disk 1 of 3)">
+		<description>TurboDOS v1.4 - System Regeneration Files (19xx)(-)(Disk 1 of 3)</description>
+		<rom name="TurboDOS v1.4 - System Regeneration Files (19xx)(-)(Disk 1 of 3).imd" size="284284" crc="435cc93b" md5="05a3f0d7a9abf34b79726314d8d07928" sha1="a0b780581d2a968960525f6959efe4ac82bf8a05"/>
+	</game>
+	<game name="TurboDOS v1.4 - System Regeneration Files (19xx)(-)(Disk 2 of 3)">
+		<description>TurboDOS v1.4 - System Regeneration Files (19xx)(-)(Disk 2 of 3)</description>
+		<rom name="TurboDOS v1.4 - System Regeneration Files (19xx)(-)(Disk 2 of 3).imd" size="56831" crc="f933035a" md5="a3c0fd6f7ce09342964f5044db058936" sha1="39757784cdcfa0a4127443a61cb7ac140dc92c06"/>
+	</game>
+	<game name="TurboDOS v1.4 - System Regeneration Files (19xx)(-)(Disk 3 of 3)">
+		<description>TurboDOS v1.4 - System Regeneration Files (19xx)(-)(Disk 3 of 3)</description>
+		<rom name="TurboDOS v1.4 - System Regeneration Files (19xx)(-)(Disk 3 of 3).imd" size="297296" crc="4ca2746e" md5="b62916f91d001781f1a8d9ef0be739ed" sha1="6616dff756a6fca65aa506db90ddc67948921028"/>
+	</game>
+</datafile>

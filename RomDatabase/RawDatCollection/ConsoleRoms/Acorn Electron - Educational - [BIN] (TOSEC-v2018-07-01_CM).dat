@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Acorn Electron - Educational - [BIN]</name>
+		<description>Acorn Electron - Educational - [BIN] (TOSEC-v2018-07-01)</description>
+		<category>TOSEC</category>
+		<version>2018-07-01</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Tree of Knowledge (1983)(Acornsoft)[lorom][SCE04]">
+		<description>Tree of Knowledge (1983)(Acornsoft)[lorom][SCE04]</description>
+		<rom name="Tree of Knowledge (1983)(Acornsoft)[lorom][SCE04].rom" size="16384" crc="e21ea237" md5="08444d98018980e2f24d8347e41ac570" sha1="cc7b911e0e32866b8739144b198561753d0a89b4"/>
+	</game>
+	<game name="Tree of Knowledge (1983)(Acornsoft)[uprom][SCE04]">
+		<description>Tree of Knowledge (1983)(Acornsoft)[uprom][SCE04]</description>
+		<rom name="Tree of Knowledge (1983)(Acornsoft)[uprom][SCE04].rom" size="16384" crc="c09522e0" md5="c8da89a4784e41c8780cbf94fb945da9" sha1="5b107be7a57a01b2719e9953e163f16825a026ab"/>
+	</game>
+</datafile>

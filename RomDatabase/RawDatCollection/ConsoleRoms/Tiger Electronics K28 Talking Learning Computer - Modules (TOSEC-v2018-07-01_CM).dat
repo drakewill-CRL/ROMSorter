@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tiger Electronics K28 Talking Learning Computer - Modules</name>
+		<description>Tiger Electronics K28 Talking Learning Computer - Modules (TOSEC-v2018-07-01)</description>
+		<category>TOSEC</category>
+		<version>2018-07-01</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Expansion Module 1 (1986)(Tiger Electronics)[CM62086]">
+		<description>Expansion Module 1 (1986)(Tiger Electronics)[CM62086]</description>
+		<rom name="Expansion Module 1 (1986)(Tiger Electronics)[CM62086].vsm" size="16384" crc="0349798b" md5="612f76282480cd6a9ca8cc5f9df7da8e" sha1="afdad242f9c7dec0c5fd83670e3d8f1637140e76"/>
+	</game>
+	<game name="Expansion Module 2 (1986)(Tiger Electronics)[CM62216]">
+		<description>Expansion Module 2 (1986)(Tiger Electronics)[CM62216]</description>
+		<rom name="Expansion Module 2 (1986)(Tiger Electronics)[CM62216].vsm" size="16384" crc="1c99306f" md5="dc025fa044f4c9de0d06d5ba76e76d75" sha1="7bfadeec79bdc231c4e3447149e2f6542cfe077d"/>
+	</game>
+	<game name="Expansion Module 3 (1986)(Tiger Electronics)[CM62215]">
+		<description>Expansion Module 3 (1986)(Tiger Electronics)[CM62215]</description>
+		<rom name="Expansion Module 3 (1986)(Tiger Electronics)[CM62215].vsm" size="16384" crc="f2deb9a2" md5="372f26c426a308f10dff971fe850de93" sha1="9fb264b869d1298ebd76811931bed83ac122fe4b"/>
+	</game>
+	<game name="Expansion Module 4 (1986)(Tiger Electronics)[CM62217]">
+		<description>Expansion Module 4 (1986)(Tiger Electronics)[CM62217]</description>
+		<rom name="Expansion Module 4 (1986)(Tiger Electronics)[CM62217].vsm" size="16384" crc="995936b2" md5="283353a4cdf91aa6ff142c631f7cd992" sha1="8bd0fea4ade9972d1d6cb521f9367c971c7eead6"/>
+	</game>
+	<game name="Expansion Module 6 (1986)(Tiger Electronics)[CM62219]">
+		<description>Expansion Module 6 (1986)(Tiger Electronics)[CM62219]</description>
+		<rom name="Expansion Module 6 (1986)(Tiger Electronics)[CM62219].vsm" size="16384" crc="177b5cb5" md5="20810faf50c9a931fcdce810fc832644" sha1="2ed44fea8f931fc8aa46dafdda1c6c30b8c9dc01"/>
+	</game>
+</datafile>

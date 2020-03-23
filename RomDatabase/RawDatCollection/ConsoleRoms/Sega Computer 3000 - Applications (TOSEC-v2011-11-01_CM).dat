@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega Computer 3000 - Applications</name>
+		<description>Sega Computer 3000 - Applications (TOSEC-v2011-11-01)</description>
+		<category>TOSEC</category>
+		<version>2011-11-01</version>
+		<author>Cassiel - SkyBaby</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Music Editor (1983)(Mitec)">
+		<description>Music Editor (1983)(Mitec)</description>
+		<rom name="Music Editor (1983)(Mitec).bin" size="32768" crc="622010e1" md5="a6114c163b4fd8b954ab6afc99466ac0" sha1="61f40e4b7576d4d55322f3d6eef2038aa784336e"/>
+	</game>
+	<game name="Music Editor (1983)(Mitec)(JP)">
+		<description>Music Editor (1983)(Mitec)(JP)</description>
+		<rom name="Music Editor (1983)(Mitec)(JP).bin" size="32768" crc="2ec28526" md5="832b5ec426da0d70c0bcd58a79ed8ae2" sha1="a2137e818242e8b361d5d5677797034c55fb1a2d"/>
+	</game>
+	<game name="Music Editor (1983)(Mitec)[b]">
+		<description>Music Editor (1983)(Mitec)[b]</description>
+		<rom name="Music Editor (1983)(Mitec)[b].bin" size="32768" crc="b67ea1c4" md5="341016381b222d8861c56db59eb2150d" sha1="6740b5acaf045ac10f72b72ee4384e21b56faa0f"/>
+	</game>
+	<game name="Sega Home BASIC v1.0j (1985)(Sega)(JP)">
+		<description>Sega Home BASIC v1.0j (1985)(Sega)(JP)</description>
+		<rom name="Sega Home BASIC v1.0j (1985)(Sega)(JP).bin" size="32768" crc="78a37cbc" md5="cb724ebeaec9619281a906671c98a952" sha1="f1e1e7e9687cf4f9f498779a44134c2d70bb8d4b"/>
+	</game>
+	<game name="Sega SC-3000 BASIC Level 2 v1.0 (1983)(Mitec)(JP)(en-ja)">
+		<description>Sega SC-3000 BASIC Level 2 v1.0 (1983)(Mitec)(JP)(en-ja)</description>
+		<rom name="Sega SC-3000 BASIC Level 2 v1.0 (1983)(Mitec)(JP)(en-ja).bin" size="32768" crc="f691f9c7" md5="28dd0578a6e3e3e64f8e4168b3a62e7e" sha1="1fa9f4ec347681d7909415b6d06179e44b0fcd5e"/>
+	</game>
+	<game name="Sega SC-3000 BASIC Level 3 v1.0 (1983)(Mitec)">
+		<description>Sega SC-3000 BASIC Level 3 v1.0 (1983)(Mitec)</description>
+		<rom name="Sega SC-3000 BASIC Level 3 v1.0 (1983)(Mitec).bin" size="32768" crc="5d9f11ca" md5="fda6619ba96bf00b849192f5e7460622" sha1="a43aef367857a681decea52377c2e7a992c2ac68"/>
+	</game>
+	<game name="Sega SC-3000 BASIC Level 3 v1.0 (1983)(Mitec)[b]">
+		<description>Sega SC-3000 BASIC Level 3 v1.0 (1983)(Mitec)[b]</description>
+		<rom name="Sega SC-3000 BASIC Level 3 v1.0 (1983)(Mitec)[b].bin" size="32768" crc="155fd01f" md5="ccab2ac48aa41acea16711f670a69549" sha1="2a21a2099f7f829d90aff158bc5a77d685e8aa81"/>
+	</game>
+	<game name="Uranai Angel Cutie (1984)(Sega)(JP)">
+		<description>Uranai Angel Cutie (1984)(Sega)(JP)</description>
+		<rom name="Uranai Angel Cutie (1984)(Sega)(JP).bin" size="32768" crc="ae4f92cf" md5="6dbcbfcd15bd206aca31dd2557f4e44d" sha1="90e32471b68cb60449b30e5d5a19d3a88f9829d3"/>
+	</game>
+</datafile>

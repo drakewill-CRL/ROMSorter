@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Coleco ColecoVision ADAM - Operating Systems - [LBR]</name>
+		<description>Coleco ColecoVision ADAM - Operating Systems - [LBR] (TOSEC-v2011-08-31)</description>
+		<category>TOSEC</category>
+		<version>2011-08-31</version>
+		<author>Grendel - Cid - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="ConIX Operating System, The (1984)(Computer Helper Industries)">
+		<description>ConIX Operating System, The (1984)(Computer Helper Industries)</description>
+		<rom name="ConIX Operating System, The (1984)(Computer Helper Industries).lbr" size="79104" crc="ac7eeb9c" md5="c619053f9bda14d95db7f2ef0d39067b" sha1="4859331a60f941f0fde83e53cb480bdbc083a275"/>
+	</game>
+	<game name="TDOS v4.58 (19xx)(-)">
+		<description>TDOS v4.58 (19xx)(-)</description>
+		<rom name="TDOS v4.58 (19xx)(-).lbr" size="41216" crc="d1aa07d7" md5="371be762614043663adeb740ad9391bd" sha1="f644b3f8e4f30bce6c4abac28b171203ca8dbf79"/>
+	</game>
+	<game name="TDOS v4.58 - Big Hard Drives (198x)(-)">
+		<description>TDOS v4.58 - Big Hard Drives (198x)(-)</description>
+		<rom name="TDOS v4.58 - Big Hard Drives (198x)(-).lbr" size="41216" crc="7a1aab1b" md5="3d2704bfffd408023736c2f1a134bd47" sha1="88d6a99360eec83c825a7d82bcf97923c3ce8546"/>
+	</game>
+	<game name="TDOS v4.58 - MI Serial Ports (19xx)(-)">
+		<description>TDOS v4.58 - MI Serial Ports (19xx)(-)</description>
+		<rom name="TDOS v4.58 - MI Serial Ports (19xx)(-).lbr" size="40832" crc="60e0ed6d" md5="55fa67373373029db54ec7020183ecc2" sha1="e6266923516592447e92fee26fb83c3333b4e393"/>
+	</game>
+	<game name="TDOS v4.58 Documentation (19xx)(-)">
+		<description>TDOS v4.58 Documentation (19xx)(-)</description>
+		<rom name="TDOS v4.58 Documentation (19xx)(-).lbr" size="46080" crc="b94dee74" md5="66599492bf71f3f1deb25dd772455902" sha1="dd22f96ce19452b62ca50280eeb1407a5fe5fab6"/>
+	</game>
+	<game name="TDOS v4.58 Help Menu (19xx)(-)">
+		<description>TDOS v4.58 Help Menu (19xx)(-)</description>
+		<rom name="TDOS v4.58 Help Menu (19xx)(-).lbr" size="1280" crc="9676b0c1" md5="a5bb526053b7e2c35228bdbc09e9f3ef" sha1="8be51fe2e49ecaef2c3b5d85355807b1b2dd59c9"/>
+	</game>
+	<game name="TDOS v4.58 Patches (19xx)(-)">
+		<description>TDOS v4.58 Patches (19xx)(-)</description>
+		<rom name="TDOS v4.58 Patches (19xx)(-).lbr" size="3584" crc="d42687fa" md5="f7d30cdb5619308ccf4f814e1c435b2d" sha1="b138d9bf4fb6403465abd48af780aa4c986d3367"/>
+	</game>
+	<game name="TDOS v4.58 Patches (19xx)(-)[a]">
+		<description>TDOS v4.58 Patches (19xx)(-)[a]</description>
+		<rom name="TDOS v4.58 Patches (19xx)(-)[a].lbr" size="35584" crc="59ae12c4" md5="8b3015e8f0c1680a880748c657ffc841" sha1="c04594beca3a8630eb7deab61845184c3e895c50"/>
+	</game>
+	<game name="TDOS v4.58 Utilities (19xx)(-)">
+		<description>TDOS v4.58 Utilities (19xx)(-)</description>
+		<rom name="TDOS v4.58 Utilities (19xx)(-).lbr" size="56576" crc="370b6a16" md5="91cb15130a72c1f0a76af7cdb5c1daeb" sha1="d7c3118ecbc6699a465a4f45bea969c30f367fa1"/>
+	</game>
+</datafile>

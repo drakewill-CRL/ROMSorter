@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>NEC PC-9801 - Operating Systems</name>
+		<description>NEC PC-9801 - Operating Systems (TOSEC-v2014-04-23)</description>
+		<category>TOSEC</category>
+		<version>2014-04-23</version>
+		<author>Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="MS-DOS v6.2 (19xx)(Microsoft)">
+		<description>MS-DOS v6.2 (19xx)(Microsoft)</description>
+		<rom name="MS-DOS v6.2 (19xx)(Microsoft).fdd" size="1256444" crc="d755441e" md5="8719bec027fe83ade0a5d5f90564f8cf" sha1="e1f3a2e46f51f0319276b7c82d4b12b9e66809ca"/>
+	</game>
+</datafile>

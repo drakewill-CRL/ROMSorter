@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>MITS Altair 8800 - Various - [DSK]</name>
+		<description>MITS Altair 8800 - Various - [DSK] (TOSEC-v2014-04-11)</description>
+		<category>TOSEC</category>
+		<version>2014-04-11</version>
+		<author>TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Applications (19xx)(-)">
+		<description>Applications (19xx)(-)</description>
+		<rom name="Applications (19xx)(-).dsk" size="1113536" crc="209ae15f" md5="a4444acdfdcca5efd5fa6caa872a48b1" sha1="fa6808ee75537ed410c04044f4db291e90a2ee3b"/>
+	</game>
+	<game name="Games (19xx)(-)">
+		<description>Games (19xx)(-)</description>
+		<rom name="Games (19xx)(-).dsk" size="1113536" crc="00df32ff" md5="c859a61f679c1169aceda8c5b5e2b633" sha1="33fd91f9c5244d3fd8ad4c09cfc0ab1659f0e065"/>
+	</game>
+</datafile>

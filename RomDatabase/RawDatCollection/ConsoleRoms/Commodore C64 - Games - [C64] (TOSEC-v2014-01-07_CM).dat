@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Games - [C64]</name>
+		<description>Commodore C64 - Games - [C64] (TOSEC-v2014-01-07)</description>
+		<category>TOSEC</category>
+		<version>2014-01-07</version>
+		<author>DesertWolf</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Bosszu (1988)(Selindek Software Studio)(hu)[cr Pingvin]">
+		<description>Bosszu (1988)(Selindek Software Studio)(hu)[cr Pingvin]</description>
+		<rom name="Bosszu (1988)(Selindek Software Studio)(hu)[cr Pingvin].c64" size="1388081" crc="7b1b7a02" md5="803f8d3a7341889719f0a6688f43a2b1" sha1="3195106a9339175575ed6a718a191fcd6fb5cf73"/>
+	</game>
+	<game name="Uj Vadnyugat (1989)(Selindek Software Studio)(hu)[cr Pingvin]">
+		<description>Uj Vadnyugat (1989)(Selindek Software Studio)(hu)[cr Pingvin]</description>
+		<rom name="Uj Vadnyugat (1989)(Selindek Software Studio)(hu)[cr Pingvin].c64" size="1388083" crc="77449337" md5="f1f82e28d2e539ded05fbeda4f11c4c7" sha1="86780c9b0714e0493822c9fa81c423587d956320"/>
+	</game>
+	<game name="Uj Vadnyugat II (1989)(Selindek Software Studio)(hu)[cr Pingvin]">
+		<description>Uj Vadnyugat II (1989)(Selindek Software Studio)(hu)[cr Pingvin]</description>
+		<rom name="Uj Vadnyugat II (1989)(Selindek Software Studio)(hu)[cr Pingvin].c64" size="1388085" crc="e2f3eef5" md5="5e36b9c7ac610f75cf78596c5bc71dd5" sha1="b02b0ba38c17ab671537a43ae799c9bb38460bb9"/>
+	</game>
+</datafile>

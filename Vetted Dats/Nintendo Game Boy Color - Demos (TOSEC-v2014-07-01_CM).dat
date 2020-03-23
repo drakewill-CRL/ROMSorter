@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo Game Boy Color - Demos</name>
+		<description>Nintendo Game Boy Color - Demos (TOSEC-v2014-07-01)</description>
+		<category>TOSEC</category>
+		<version>2014-07-01</version>
+		<author>Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="2560 Colors Simultaneously! Demo (1999)(Icarus Productions)(PD)">
+		<description>2560 Colors Simultaneously! Demo (1999)(Icarus Productions)(PD)</description>
+		<rom name="2560 Colors Simultaneously! Demo (1999)(Icarus Productions)(PD).bin" size="32768" crc="8f501a1a" md5="1271ddb6d46cb59af6b5cfe02408e03a" sha1="50d9c00fad01c962a1fe8e7b4a72633c7b2ebc97"/>
+	</game>
+	<game name="Thing (2014)(Krapivin, Dmitry)(PD)">
+		<description>Thing (2014)(Krapivin, Dmitry)(PD)</description>
+		<rom name="Thing (2014)(Krapivin, Dmitry)(PD).bin" size="32768" crc="2555469c" md5="fad3f4aaaa5da3868be3511d90d763a6" sha1="69e8cf0735a76b9977e10902cd22882de45386c3"/>
+	</game>
+</datafile>

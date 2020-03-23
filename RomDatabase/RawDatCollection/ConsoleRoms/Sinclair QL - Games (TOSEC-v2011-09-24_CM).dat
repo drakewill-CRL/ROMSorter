@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sinclair QL - Games</name>
+		<description>Sinclair QL - Games (TOSEC-v2011-09-24)</description>
+		<category>TOSEC</category>
+		<version>2011-09-24</version>
+		<author>Xtale - Grendel - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Linegame (1986)(Salmi, Timo)">
+		<description>Linegame (1986)(Salmi, Timo)</description>
+		<rom name="Linegame (1986)(Salmi, Timo).bas" size="10220" crc="a4c1f203" md5="3ed41b15dac31ebd5f7bd59a341eff45" sha1="29b5ba2c22ef873e5d9301fa1422ad033ba3b80d"/>
+	</game>
+</datafile>

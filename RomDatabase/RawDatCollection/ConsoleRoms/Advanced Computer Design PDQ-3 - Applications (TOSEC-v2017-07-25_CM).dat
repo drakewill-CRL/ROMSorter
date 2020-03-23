@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Advanced Computer Design PDQ-3 - Applications</name>
+		<description>Advanced Computer Design PDQ-3 - Applications (TOSEC-v2017-07-25)</description>
+		<category>TOSEC</category>
+		<version>2017-07-25</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Ada - v1.8 Ada Compiler - 3.1c System with PRIAM Drivers (19xx)(-)[DM851 - Master]">
+		<description>Ada - v1.8 Ada Compiler - 3.1c System with PRIAM Drivers (19xx)(-)[DM851 - Master]</description>
+		<rom name="Ada - v1.8 Ada Compiler - 3.1c System with PRIAM Drivers (19xx)(-)[DM851 - Master].imd" size="445265" crc="39ef7add" md5="9d898ef39d93afe9a5a01080eec08fa8" sha1="800c96d550b86e172232ae2562193230b4307908"/>
+	</game>
+	<game name="Ada Compiler v1.2 (19xx)(-)[DM860 - GEC_ADA]">
+		<description>Ada Compiler v1.2 (19xx)(-)[DM860 - GEC_ADA]</description>
+		<rom name="Ada Compiler v1.2 (19xx)(-)[DM860 - GEC_ADA].imd" size="295325" crc="bcfad168" md5="4ba112635ba079d33ad5c1c1c13fccf1" sha1="bb83d11dbf40bea1b1765fb7b7c26a2fd5d65bd0"/>
+	</game>
+	<game name="AOSUTIL (19xx)(-)[DM855]">
+		<description>AOSUTIL (19xx)(-)[DM855]</description>
+		<rom name="AOSUTIL (19xx)(-)[DM855].imd" size="367758" crc="2f18ebca" md5="8730a5f1d9b10f7ffc29142e7bbb9ee4" sha1="65121452c6dfbfd64e26e0ea4bb973f018b36676"/>
+	</game>
+	<game name="ICSC Ada v1.8 - PDQ Config - Object &amp; Demos (1983-05-03)(-)[DM862]">
+		<description>ICSC Ada v1.8 - PDQ Config - Object &amp; Demos (1983-05-03)(-)[DM862]</description>
+		<rom name="ICSC Ada v1.8 - PDQ Config - Object &amp; Demos (1983-05-03)(-)[DM862].imd" size="192844" crc="8a027f55" md5="a5d15aeb3001c02377e7d3b9f0cedc5b" sha1="5048d70bd96e2931b7bc23e7cc744cb0fcf80d77"/>
+	</game>
+	<game name="Quest vA2.11 (19xx)(-)[DM859]">
+		<description>Quest vA2.11 (19xx)(-)[DM859]</description>
+		<rom name="Quest vA2.11 (19xx)(-)[DM859].imd" size="350150" crc="1adcf958" md5="71db1b77f1c95385ee3d7e2f652d3279" sha1="43cd9b8e5d51926b9dd3c40f827850b3e1a69978"/>
+	</game>
+</datafile>

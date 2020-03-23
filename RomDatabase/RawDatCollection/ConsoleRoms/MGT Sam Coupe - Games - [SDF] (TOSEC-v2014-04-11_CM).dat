@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>MGT Sam Coupe - Games - [SDF]</name>
+		<description>MGT Sam Coupe - Games - [SDF] (TOSEC-v2014-04-11)</description>
+		<category>TOSEC</category>
+		<version>2014-04-11</version>
+		<author>dirkpitt - Grendel - Cowering - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Lemmings (19xx)(Psygnosis - FRED)">
+		<description>Lemmings (19xx)(Psygnosis - FRED)</description>
+		<rom name="Lemmings (19xx)(Psygnosis - FRED).sdf" size="983040" crc="3a583bb6" md5="9bf62bcbdbdf08d9155f3ca2cc00be77" sha1="0d4612ecc3a7404c709c7dbf97ae769f059d822f"/>
+	</game>
+	<game name="Prince of Persia (19xx)(Revelation)">
+		<description>Prince of Persia (19xx)(Revelation)</description>
+		<rom name="Prince of Persia (19xx)(Revelation).sdf" size="983040" crc="57d7d8d7" md5="8d094dd99411d687b6a825e569c351e4" sha1="d79eb68eace46277245e5c26baa2e38532fab81f"/>
+	</game>
+</datafile>

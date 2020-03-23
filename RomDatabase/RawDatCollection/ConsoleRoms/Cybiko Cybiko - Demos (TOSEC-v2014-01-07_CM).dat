@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Cybiko Cybiko - Demos</name>
+		<description>Cybiko Cybiko - Demos (TOSEC-v2014-01-07)</description>
+		<category>TOSEC</category>
+		<version>2014-01-07</version>
+		<author>Apache - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Mages 2 (200x)(Jace D.)">
+		<description>Mages 2 (200x)(Jace D.)</description>
+		<rom name="Mages 2 (200x)(Jace D.).app" size="18983" crc="99819852" md5="c5b8d169bd523d935de28fe0a90b1743" sha1="c8148415546cfa22692717c067b6e408be2f046e"/>
+	</game>
+</datafile>

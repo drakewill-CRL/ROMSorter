@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Interact Family Computer - Games</name>
+		<description>Interact Family Computer - Games (TOSEC-v2014-01-18)</description>
+		<category>TOSEC</category>
+		<version>2014-01-18</version>
+		<author>Cid - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Add Em Up (19xx)(Interact Electronics Inc)">
+		<description>Add Em Up (19xx)(Interact Electronics Inc)</description>
+		<rom name="Add Em Up (19xx)(Interact Electronics Inc).cin" size="7664" crc="86182e2c" md5="d5d27c58247563d22cbebd69a24cc992" sha1="b494a1e6693123d265a4b7ae4e4e3c6ec396508d"/>
+	</game>
+	<game name="Backgammon (19xx)(Interact Electronics Inc)">
+		<description>Backgammon (19xx)(Interact Electronics Inc)</description>
+		<rom name="Backgammon (19xx)(Interact Electronics Inc).cin" size="8178" crc="20034353" md5="a893b304b082aa109dc1d2f844e3ccb4" sha1="52fa72d43bcbcadaaae9139ee799374d37f1a3fc"/>
+	</game>
+	<game name="Blackjack! (19xx)(Interact Electronics Inc.)">
+		<description>Blackjack! (19xx)(Interact Electronics Inc.)</description>
+		<rom name="Blackjack! (19xx)(Interact Electronics Inc.).cin" size="7664" crc="a4c182a4" md5="51820c300600904b2b55c0f34a959a61" sha1="96691a7278794125e475d311cbc862cc8eb09937"/>
+	</game>
+	<game name="Breakthrough (19xx)(Interact Electronics Inc)">
+		<description>Breakthrough (19xx)(Interact Electronics Inc)</description>
+		<rom name="Breakthrough (19xx)(Interact Electronics Inc).cin" size="7664" crc="4cf838dc" md5="55ad8d918c5b85fcbc67a4240c362308" sha1="e83102ccac40e5e797670510aa3c05f89b9b1a3d"/>
+	</game>
+	<game name="Concentration (19xx)(Interact Electronics Inc)">
+		<description>Concentration (19xx)(Interact Electronics Inc)</description>
+		<rom name="Concentration (19xx)(Interact Electronics Inc).cin" size="7664" crc="fcf13c4c" md5="e2da66069112a17057b205e09b8ebc97" sha1="434ebfc8e02b965b755e51529b68f18fae88b061"/>
+	</game>
+	<game name="Dogfight (19xx)(Interact Electronics Inc)">
+		<description>Dogfight (19xx)(Interact Electronics Inc)</description>
+		<rom name="Dogfight (19xx)(Interact Electronics Inc).cin" size="8178" crc="d1c1f73f" md5="92aa47b26fc7faa4a4028e48f0cab26f" sha1="e973dabd289a03a8d04d8a93f27b0d263360ff1c"/>
+	</game>
+	<game name="Earth Outpost I (1980)(Micro Video Corp)">
+		<description>Earth Outpost I (1980)(Micro Video Corp)</description>
+		<rom name="Earth Outpost I (1980)(Micro Video Corp).cin" size="12905" crc="b4b22fbd" md5="62464415eb1c38e205f62b7e2d4df5f9" sha1="c8220d61b43f63a22833fa1dd9cf4e2c3aa9e12f"/>
+	</game>
+	<game name="Hang-Man (19xx)(Interact Electronics Inc)">
+		<description>Hang-Man (19xx)(Interact Electronics Inc)</description>
+		<rom name="Hang-Man (19xx)(Interact Electronics Inc).cin" size="7664" crc="088856de" md5="bcd9ad4bdeee8cef356fffe5026e3791" sha1="1aca3300746f867a4fabbda26c73c0228e7ca0c4"/>
+	</game>
+	<game name="Interact Microchess (19xx)(Interact Electronics Inc)">
+		<description>Interact Microchess (19xx)(Interact Electronics Inc)</description>
+		<rom name="Interact Microchess (19xx)(Interact Electronics Inc).cin" size="16356" crc="e0e70a16" md5="8d30283bce358856efd6d767cd5a3e57" sha1="e95855334248f353c5302108eb4a87e4cb76c068"/>
+	</game>
+	<game name="Knockdown (19xx)(Interact Electronics Inc)">
+		<description>Knockdown (19xx)(Interact Electronics Inc)</description>
+		<rom name="Knockdown (19xx)(Interact Electronics Inc).cin" size="7664" crc="ef2c1e5e" md5="2d1b36914c00774a2a5a1bd88e80b494" sha1="1cf602ba1a12572b1b6582409ae454f20d48da0e"/>
+	</game>
+	<game name="Maze (19xx)(Interact Electronics Inc)">
+		<description>Maze (19xx)(Interact Electronics Inc)</description>
+		<rom name="Maze (19xx)(Interact Electronics Inc).cin" size="7664" crc="b96e1f71" md5="37c5849cd0ab5d84a5f0251514253182" sha1="900e45e86b2ec79cf2363ab5e5b3a8a4b8c75a8b"/>
+	</game>
+	<game name="Regatta (19xx)(Interact Electronics Inc)">
+		<description>Regatta (19xx)(Interact Electronics Inc)</description>
+		<rom name="Regatta (19xx)(Interact Electronics Inc).cin" size="7664" crc="6e10b63d" md5="c7e55f196b6ed438599865df48d7a19a" sha1="ab4feef12835a6889119e13a7e0f9a5a3340e8b4"/>
+	</game>
+	<game name="Reversi (19xx)(Interact Electronics Inc)">
+		<description>Reversi (19xx)(Interact Electronics Inc)</description>
+		<rom name="Reversi (19xx)(Interact Electronics Inc).cin" size="8178" crc="ccc4f285" md5="495b4c269a624c7d4efc853a11789bd7" sha1="064d325515a637e81631d8fb1fd3a963521991bf"/>
+	</game>
+	<game name="Showdown (19xx)(Interact Electronics Inc)">
+		<description>Showdown (19xx)(Interact Electronics Inc)</description>
+		<rom name="Showdown (19xx)(Interact Electronics Inc).cin" size="8178" crc="5a3986df" md5="68d89bb1dd4fb8d6967fcf516771cb3c" sha1="2094f7cec4da5a2bdeae4920b47213bf0168c9f7"/>
+	</game>
+	<game name="Star Track (19xx)(Interact Electronics Inc)">
+		<description>Star Track (19xx)(Interact Electronics Inc)</description>
+		<rom name="Star Track (19xx)(Interact Electronics Inc).cin" size="8178" crc="339244be" md5="723c19fe16a371d06b1b0e38fc66f8c8" sha1="8726957a975ce6ee8ce5ba7ade77f6a4fa971682"/>
+	</game>
+	<game name="Trail Blazers (19xx)(-)">
+		<description>Trail Blazers (19xx)(-)</description>
+		<rom name="Trail Blazers (19xx)(-).cin" size="7664" crc="fd073328" md5="994ca21f1d4afdd4c6c676b233d1eccb" sha1="2d40770c8bb8bd9b49708f77d6a36100fb3496b2"/>
+	</game>
+	<game name="Video Chess (19xx)(Interact Electronics Inc)">
+		<description>Video Chess (19xx)(Interact Electronics Inc)</description>
+		<rom name="Video Chess (19xx)(Interact Electronics Inc).cin" size="8178" crc="6e8dc7da" md5="ea4837252bc0beb502fcb3f06a0a7fad" sha1="50b51815f24b9ef373e577801d069e31ac880235"/>
+	</game>
+	<game name="Volleyball (19xx)(-)">
+		<description>Volleyball (19xx)(-)</description>
+		<rom name="Volleyball (19xx)(-).cin" size="8178" crc="24c0e861" md5="d3bab24ff7d484a66899375a71f747bb" sha1="b81b3b210ff6e5117ffc6ac7b64da2bfa4b41ee5"/>
+	</game>
+</datafile>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>3DO 3DO Interactive Multiplayer - Homebrew - Games</name>
+		<description>3DO 3DO Interactive Multiplayer - Homebrew - Games (TOSEC-v2017-09-25)</description>
+		<category>TOSEC-ISO</category>
+		<version>2017-09-25</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Crystal Borg in Hyperspace (2017)(Optimus6128)">
+		<description>Crystal Borg in Hyperspace (2017)(Optimus6128)</description>
+		<rom name="Crystal Borg in Hyperspace (2017)(Optimus6128).cue" size="135" crc="0f724832" md5="e83a605059c700702932a80ad46ec37b" sha1="c8bcb49b937fb6b98d940f6075e064a3b35beedf"/>
+		<rom name="Crystal Borg in Hyperspace (2017)(Optimus6128).iso" size="3670016" crc="bc6f2108" md5="2fed1c03425c940fa2c0b6639094c8c3" sha1="4071bd97888b3fdb45568a1ac8137f394e1a1439"/>
+	</game>
+	<game name="Evil Australians - Rise of Stupidity v1.1 (2017)(Gameblabla)">
+		<description>Evil Australians - Rise of Stupidity v1.1 (2017)(Gameblabla)</description>
+		<rom name="Evil Australians - Rise of Stupidity v1.1 (2017)(Gameblabla).cue" size="149" crc="99713075" md5="7a6d8d7597524a8d8ec5a8b25dee96a1" sha1="6f4f2aae2f50adb4692e4706e8eb55540602dcfb"/>
+		<rom name="Evil Australians - Rise of Stupidity v1.1 (2017)(Gameblabla).iso" size="5373952" crc="c3c11e22" md5="0ee381a1027ff8745a52c9c7f05650da" sha1="b47a87e19ee1ba7e08dfeb3df6a582e8edc86424"/>
+	</game>
+	<game name="Space Invaders Invaders (2014)(Mihai, Sebastian)">
+		<description>Space Invaders Invaders (2014)(Mihai, Sebastian)</description>
+		<rom name="Space Invaders Invaders (2014)(Mihai, Sebastian).cue" size="137" crc="d3427984" md5="3b4c6d1fa9e5891560f9178d95f4a2f4" sha1="9c5279701f93c3e1d2f4cbb6f3630dabe7d40d0c"/>
+		<rom name="Space Invaders Invaders (2014)(Mihai, Sebastian).iso" size="3407872" crc="480e25e6" md5="be52027c37363f676dd0d8294281d8bc" sha1="b68c817a8fb751e628e64e157ab05e92974da774"/>
+	</game>
+	<game name="Where is Derpy v1.3 Final (2014)(Gameblabla)[unencrypted, req. RSA disable]">
+		<description>Where is Derpy v1.3 Final (2014)(Gameblabla)[unencrypted, req. RSA disable]</description>
+		<rom name="Where is Derpy v1.3 Final (2014)(Gameblabla)[unencrypted, req. RSA disable].cue" size="164" crc="162f205b" md5="b71e6f34409fa8708a923e2107e88e08" sha1="ecd44d2c45002005bf13d15a5cc63b4f9df6177c"/>
+		<rom name="Where is Derpy v1.3 Final (2014)(Gameblabla)[unencrypted, req. RSA disable].iso" size="29409280" crc="1a3037ad" md5="34f669c2fdcb873344b6dcaecb699669" sha1="b674a63abd698993eb799b4cbbd602ff4bb918ad"/>
+	</game>
+</datafile>

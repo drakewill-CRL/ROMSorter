@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Coleco ColecoVision ADAM - Compilations - [LBR]</name>
+		<description>Coleco ColecoVision ADAM - Compilations - [LBR] (TOSEC-v2011-08-31)</description>
+		<category>TOSEC</category>
+		<version>2011-08-31</version>
+		<author>Grendel - Cid - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="BDS Life - Special H19 Version (19xx)(-)">
+		<description>BDS Life - Special H19 Version (19xx)(-)</description>
+		<rom name="BDS Life - Special H19 Version (19xx)(-).lbr" size="43776" crc="7456edb2" md5="2c0c03e2ccb7f367ec927856fd8c2a15" sha1="2e1f7465f214c609019c970cb5c9f42acd900434"/>
+	</game>
+	<game name="Games Compilation (19xx)(-)">
+		<description>Games Compilation (19xx)(-)</description>
+		<rom name="Games Compilation (19xx)(-).lbr" size="59392" crc="c3f35e37" md5="640a60ecea67415a95f3fd8a9ecda9ce" sha1="72b921c1b2f2868c45648fe32bab6b815e6cbee3"/>
+	</game>
+	<game name="Kaypro Disk #25 (19xx)(-)(PD)">
+		<description>Kaypro Disk #25 (19xx)(-)(PD)</description>
+		<rom name="Kaypro Disk #25 (19xx)(-)(PD).lbr" size="63488" crc="37435dad" md5="1881f359437c7f93548a6d867527dcd4" sha1="f86c2c266e6cade5c0d474b2174cd0bb9f04ddca"/>
+	</game>
+</datafile>

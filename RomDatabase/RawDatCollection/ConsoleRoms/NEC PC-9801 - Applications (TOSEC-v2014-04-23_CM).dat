@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>NEC PC-9801 - Applications</name>
+		<description>NEC PC-9801 - Applications (TOSEC-v2014-04-23)</description>
+		<category>TOSEC</category>
+		<version>2014-04-23</version>
+		<author>Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Chou Bangai Seifuku Zukan Plus (1989)(System House Oh!)(JP)">
+		<description>Chou Bangai Seifuku Zukan Plus (1989)(System House Oh!)(JP)</description>
+		<rom name="Chou Bangai Seifuku Zukan Plus (1989)(System House Oh!)(JP).fdd" size="1232892" crc="370a9b14" md5="4db338c300bf1074c510cb104c63df12" sha1="af071e30eb5b539e9de3e20cc4b9ef7a603ef18d"/>
+	</game>
+	<game name="Rance 3 Hint Disk (19xx)(Alice)(Disk 1 of 2)(Disk A)">
+		<description>Rance 3 Hint Disk (19xx)(Alice)(Disk 1 of 2)(Disk A)</description>
+		<rom name="Rance 3 Hint Disk (19xx)(Alice)(Disk 1 of 2)(Disk A).fdd" size="1214460" crc="6cd9d4c3" md5="f9d9e2510a0e6b265c920dad4d03b466" sha1="f2feaa6c3ef12ab83728aef4c885439d92b989e3"/>
+	</game>
+	<game name="Rance 3 Hint Disk (19xx)(Alice)(Disk 2 of 2)(Disk B)">
+		<description>Rance 3 Hint Disk (19xx)(Alice)(Disk 2 of 2)(Disk B)</description>
+		<rom name="Rance 3 Hint Disk (19xx)(Alice)(Disk 2 of 2)(Disk B).fdd" size="1212412" crc="a14c210a" md5="538b518bdbeb2fb0440b9d739fb6a3e4" sha1="6b8e9788d71eec14ae60cdfe11ae8398b6feef1d"/>
+	</game>
+</datafile>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Visual Pinball [VP91x] PinMame Tables [Flipperless]</name>
+		<description>Visual Pinball [VP91x] PinMame Tables [Flipperless]</description>
+		<category>Visual Pinball [VP91x] PinMame Tables [Flipperless]</category>
+		<version>1.0</version>
+		<date>2020-01-01</date>
+		<author>Yori Yoshizuki</author>
+		<email>-insert email-</email>
+		<homepage>Yori Yoshizuki</homepage>
+		<url>https://yoshizuki.webs.com</url>
+		<comment>-insert comment-</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Top Dawg Shuffle Alley (Williams)(1988)(Rascal, Wildman)(1.1)[VP915][FSRascal, Wildman][dB2S Rascal, Wildman][Pin Bowling]">
+		<description>Top Dawg Shuffle Alley (Williams)(1988)(Rascal, Wildman)(1.1)[VP915][FSRascal, Wildman][dB2S Rascal, Wildman][Pin Bowling]</description>
+		<rom name="(1.0)[VP915][FSRascal, Wildman][dB2S Rascal, Wildman][Pin Bowling]\hyperpin\backglass\Top Dawg.png" size="3583328" crc="82e3d765" sha1="51c7b63b3b78f583b35167db561e25d015d5858d"/>
+		<rom name="(1.0)[VP915][FSRascal, Wildman][dB2S Rascal, Wildman][Pin Bowling]\hyperpin\table\Top Dawg.png" size="1844586" crc="72f7470a" sha1="b52628661d81442160b1d46ca9b603af58638ff4"/>
+		<rom name="(1.0)[VP915][FSRascal, Wildman][dB2S Rascal, Wildman][Pin Bowling]\hyperpin\wheel\Top Dawg.png" size="421978" crc="bf118771" sha1="7c56ef3e93e391b395f114170a9417c4a26e92dd"/>
+		<rom name="(1.0)[VP915][FSRascal, Wildman][dB2S Rascal, Wildman][Pin Bowling]\Rom\tdawg_l1.zip" size="68428" crc="a820cc5e" sha1="0a874322661c34efb23ad3c328cf347d7275304e"/>
+		<rom name="(1.0)[VP915][FSRascal, Wildman][dB2S Rascal, Wildman][Pin Bowling]\Top Dawg.directb2s" size="11483683" crc="0c30e589" sha1="6df75c24ae1fafe5f56dd92cb75b4b650da6f4d6"/>
+		<rom name="(1.0)[VP915][FSRascal, Wildman][dB2S Rascal, Wildman][Pin Bowling]\Top Dawg.vpt" size="16646144" crc="8ad710dd" sha1="85e0bb279b793364a830917add8763ce9f6c0cfc"/>
+		<rom name="(1.1)[VP915][FSRascal, Wildman][dB2S Rascal, Wildman][Pin Bowling]\hyperpin\backglass\Top Dawg.png" size="3583328" crc="82e3d765" sha1="51c7b63b3b78f583b35167db561e25d015d5858d"/>
+		<rom name="(1.1)[VP915][FSRascal, Wildman][dB2S Rascal, Wildman][Pin Bowling]\hyperpin\table\Top Dawg.png" size="1844586" crc="72f7470a" sha1="b52628661d81442160b1d46ca9b603af58638ff4"/>
+		<rom name="(1.1)[VP915][FSRascal, Wildman][dB2S Rascal, Wildman][Pin Bowling]\hyperpin\wheel\Top Dawg.png" size="421978" crc="bf118771" sha1="7c56ef3e93e391b395f114170a9417c4a26e92dd"/>
+		<rom name="(1.1)[VP915][FSRascal, Wildman][dB2S Rascal, Wildman][Pin Bowling]\Rom\tdawg_l1.zip" size="68428" crc="a820cc5e" sha1="0a874322661c34efb23ad3c328cf347d7275304e"/>
+		<rom name="(1.1)[VP915][FSRascal, Wildman][dB2S Rascal, Wildman][Pin Bowling]\Top Dawg.directb2s" size="12355795" crc="5ee3156c" sha1="154fe3fb22745ccd220173664283dd4ae8da39a7"/>
+		<rom name="(1.1)[VP915][FSRascal, Wildman][dB2S Rascal, Wildman][Pin Bowling]\Top Dawg.vpt" size="16646144" crc="fceaaa31" sha1="26d1d7917b4c9e2cc201f79cc3e8b865735a5ed8"/>
+		<rom name="Top Dawg Shuffle Alley screenshot.png" size="425191" crc="df5cf150" sha1="b7c7e334a2392bc259888bd15c1c8f48b17e203b"/>
+	</machine>
+</datafile>

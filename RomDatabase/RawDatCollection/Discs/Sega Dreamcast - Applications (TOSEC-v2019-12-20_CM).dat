@@ -1,0 +1,514 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega Dreamcast - Applications</name>
+		<description>Sega Dreamcast - Applications (TOSEC-v2019-12-20)</description>
+		<category>TOSEC-ISO</category>
+		<version>2019-12-20</version>
+		<author>Maddog</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Broadband Passport v1.000 (2000)(Sega)(JP)[!][1M1, 1M3]">
+		<description>Broadband Passport v1.000 (2000)(Sega)(JP)[!][1M1, 1M3]</description>
+		<rom name="Broadband Passport v1.000 (2000)(Sega)(JP)[!][1M1, 1M3].gdi" size="87" crc="d7ab4c6b" sha1="9d50b816d3f69ad192f5986ab487769965c2e082" md5="b3ecdf113fd42344dd84142679e4cb36"/>
+		<rom name="track01.bin" size="705600" crc="782c0fe2" sha1="c4fdb781fe4da7e655da7b98c495902a00677f83" md5="19b0f29373f92676d3a4a9b264ba1772"/>
+		<rom name="track02.raw" size="1641696" crc="244f3add" sha1="324a40385190c2bb8ecb406d415b91ddafa37aa2" md5="09696a36ee4c32c0624acbb7eca040d6"/>
+		<rom name="track03.bin" size="1185760800" crc="b180eb77" sha1="fcdd538d1523bfea1931c0fced062f461b061a24" md5="1fd9fa42a32c45dd4c8da143f86c4ed0"/>
+	</game>
+	<game name="Broadband Passport v1.000 (2000)(Sega)(JP)[!][2M1]">
+		<description>Broadband Passport v1.000 (2000)(Sega)(JP)[!][2M1]</description>
+		<rom name="Broadband Passport v1.000 (2000)(Sega)(JP)[!][2M1].gdi" size="87" crc="d7ab4c6b" sha1="9d50b816d3f69ad192f5986ab487769965c2e082" md5="b3ecdf113fd42344dd84142679e4cb36"/>
+		<rom name="track01.bin" size="705600" crc="782c0fe2" sha1="c4fdb781fe4da7e655da7b98c495902a00677f83" md5="19b0f29373f92676d3a4a9b264ba1772"/>
+		<rom name="track02.raw" size="1641696" crc="bf610169" sha1="facbfdd2acb4ed9e7c9df75b1fb97c89f79f87be" md5="709e6eedad732eff20a5856f38825989"/>
+		<rom name="track03.bin" size="1185760800" crc="b180eb77" sha1="fcdd538d1523bfea1931c0fced062f461b061a24" md5="1fd9fa42a32c45dd4c8da143f86c4ed0"/>
+	</game>
+	<game name="Christmas Seaman - Omoi wo Tsutaeru  Mou Hitotsu no Houhou v1.004 (1999)(Vivarium)(JP)(Present Disc)[!]">
+		<description>Christmas Seaman - Omoi wo Tsutaeru  Mou Hitotsu no Houhou v1.004 (1999)(Vivarium)(JP)(Present Disc)[!]</description>
+		<rom name="Christmas Seaman - Omoi wo Tsutaeru  Mou Hitotsu no Houhou v1.004 (1999)(Vivarium)(JP)(Present Disc)[!].gdi" size="87" crc="468c1495" sha1="980036e44ad9d694ea1699cd05c86ccd0c894c47" md5="346fea58ab1a55c577138c5b04319157"/>
+		<rom name="track01.bin" size="1058400" crc="7e3b941a" sha1="99990900da66b05053598fc2d1876c9882938c64" md5="7e671ffa4b53eb57056020e1f5975582"/>
+		<rom name="track02.raw" size="25284000" crc="f65eaa4e" sha1="e51685231ef0f18f52abaa7f6e63a72df9d5b795" md5="dea5806226eba0be5f729953c2150fce"/>
+		<rom name="track03.bin" size="1185760800" crc="0eb911f7" sha1="c5bee3f90b6e91c3acde55c94a7fa9601cffe35d" md5="5553e0acd53527c196769fec912b06ab"/>
+	</game>
+	<game name="Christmas Seaman - Omoi wo Tsutaeru Mou Hitotsu no Houhou v1.004 (1999)(Vivarium)(JP)(Message Disc)[!][req. microphone]">
+		<description>Christmas Seaman - Omoi wo Tsutaeru Mou Hitotsu no Houhou v1.004 (1999)(Vivarium)(JP)(Message Disc)[!][req. microphone]</description>
+		<rom name="Christmas Seaman - Omoi wo Tsutaeru Mou Hitotsu no Houhou v1.004 (1999)(Vivarium)(JP)(Message Disc)[!][req. microphone].gdi" size="87" crc="468c1495" sha1="980036e44ad9d694ea1699cd05c86ccd0c894c47" md5="346fea58ab1a55c577138c5b04319157"/>
+		<rom name="track01.bin" size="1058400" crc="dee0d461" sha1="aaf5cb5abba152f964a7fc0edaafad9e47f9fcd3" md5="dbdc3787874af49a6c46ef3c6be828f9"/>
+		<rom name="track02.raw" size="25284000" crc="43e6a8a9" sha1="a78de9bec4d9b6e2431d168589e318d50b5a3c24" md5="567b0fa6831e79bd339bbf9dcc573940"/>
+		<rom name="track03.bin" size="1185760800" crc="92d4dbd4" sha1="c7eda662a36151a634378848da1129504a0ab74b" md5="c75117ccece870a4fa94131de344f31c"/>
+	</game>
+	<game name="Dejiko no Maibura v1.000 (2000)(ISAO)(JP)[!]">
+		<description>Dejiko no Maibura v1.000 (2000)(ISAO)(JP)[!]</description>
+		<rom name="Dejiko no Maibura v1.000 (2000)(ISAO)(JP)[!].gdi" size="87" crc="d7ab4c6b" sha1="9d50b816d3f69ad192f5986ab487769965c2e082" md5="b3ecdf113fd42344dd84142679e4cb36"/>
+		<rom name="track01.bin" size="705600" crc="92d776d2" sha1="25598497e9ada69c572a9c35275af1c1a739f4ed" md5="eba49319e8c9a24611323ee71f17826c"/>
+		<rom name="track02.raw" size="8888208" crc="ceb94e11" sha1="9f16d8664c6edf3e2a773830486604d661cbc09d" md5="8329237d30d32a2474771a0cb8fd9a8d"/>
+		<rom name="track03.bin" size="1185760800" crc="51f53495" sha1="cad5ef380716adcc0369138834e764ce871b8664" md5="964b0c13d5daccb551847790d88946de"/>
+	</game>
+	<game name="Dream Passport 2 for LAN v1.003 (1999)(Sega)(JP)[!]">
+		<description>Dream Passport 2 for LAN v1.003 (1999)(Sega)(JP)[!]</description>
+		<rom name="Dream Passport 2 for LAN v1.003 (1999)(Sega)(JP)[!].gdi" size="88" crc="dda62090" sha1="c044300dc231b3c2c5071e812318454ecf0ea77e" md5="f788ad48c8d2554ff2fec84e5f2a8b6f"/>
+		<rom name="track01.bin" size="5807088" crc="4a3f5844" sha1="66e8c5b4c2eedb36e9cc28aa7244f648dda90be3" md5="285a044e04bdfe6ac140df82f5b4c492"/>
+		<rom name="track02.raw" size="1735776" crc="72383867" sha1="c18d95417258da01d662d1af45d7e27d3107ddd6" md5="cfb335b86de9ad0eaa969f6452650788"/>
+		<rom name="track03.bin" size="1185760800" crc="11b4cb7b" sha1="cf776ee808b8560559aaa3fe5a52bb2b9855f380" md5="5411bf6c6bee4a5535d533b13eb4314e"/>
+	</game>
+	<game name="Dream Passport 2 v1.008 (1999)(Sega)(JP)[!][11M3, 11MB3]">
+		<description>Dream Passport 2 v1.008 (1999)(Sega)(JP)[!][11M3, 11MB3]</description>
+		<rom name="Dream Passport 2 v1.008 (1999)(Sega)(JP)[!][11M3, 11MB3].gdi" size="88" crc="d5569894" sha1="13b310be11b450167e4c6ebca77ada13484debe5" md5="1f1d51a6ae22a5c702e9506af9132f08"/>
+		<rom name="track01.bin" size="5802384" crc="cf32ffb0" sha1="96b5ac1cee375ba0332c234c1138b4ea27130c76" md5="beb805ba9f4ca1cce47496760d9adc67"/>
+		<rom name="track02.raw" size="1641696" crc="210cdcd2" sha1="5c54d3da6f0c8d0e70e8b3f85371ecc2b0042633" md5="ca65ccc42fe6072093e300dd7b31e16f"/>
+		<rom name="track03.bin" size="1185760800" crc="8a1c7e3f" sha1="73e4860fb43dc82478b5c87ca39582e8400e47f8" md5="ec5d2b21be6fb3d6e2828d61db34c731"/>
+	</game>
+	<game name="Dream Passport 2 v1.008 (1999)(Sega)(JP)[!][12M1, 12M3]">
+		<description>Dream Passport 2 v1.008 (1999)(Sega)(JP)[!][12M1, 12M3]</description>
+		<rom name="Dream Passport 2 v1.008 (1999)(Sega)(JP)[!][12M1, 12M3].gdi" size="88" crc="d5569894" sha1="13b310be11b450167e4c6ebca77ada13484debe5" md5="1f1d51a6ae22a5c702e9506af9132f08"/>
+		<rom name="track01.bin" size="5802384" crc="cf32ffb0" sha1="96b5ac1cee375ba0332c234c1138b4ea27130c76" md5="beb805ba9f4ca1cce47496760d9adc67"/>
+		<rom name="track02.raw" size="1641696" crc="eb580592" sha1="2b93c8429bc847cd99d2dcef46d6abbbdd46767f" md5="c43a6f172d459aa14d49227b733fe929"/>
+		<rom name="track03.bin" size="1185760800" crc="8a1c7e3f" sha1="73e4860fb43dc82478b5c87ca39582e8400e47f8" md5="ec5d2b21be6fb3d6e2828d61db34c731"/>
+	</game>
+	<game name="Dream Passport 2 v1.102 (1999)(Sega)(JP)[!][20M4]">
+		<description>Dream Passport 2 v1.102 (1999)(Sega)(JP)[!][20M4]</description>
+		<rom name="Dream Passport 2 v1.102 (1999)(Sega)(JP)[!][20M4].gdi" size="88" crc="d5569894" sha1="13b310be11b450167e4c6ebca77ada13484debe5" md5="1f1d51a6ae22a5c702e9506af9132f08"/>
+		<rom name="track01.bin" size="5802384" crc="7a96163c" sha1="354ce4d50c77027a64da7deab55b08035ba49b8a" md5="cb9a9e4c3997ad103d16296e71d09682"/>
+		<rom name="track02.raw" size="1641696" crc="513b2e61" sha1="d1fbe0e6d9ce44d770aff2a4bbb35f14e5600ecc" md5="2d0707ff4c88581bfb98ba6f24aae855"/>
+		<rom name="track03.bin" size="1185760800" crc="fe08e10f" sha1="fd6e896cc3bac91f15ff17dad04de2259251a432" md5="d9df28a55cd4c83a89c8b518754ee84a"/>
+	</game>
+	<game name="Dream Passport 2 v1.102 (1999)(Sega)(JP)[!][21M4, 21M7, 21MM1]">
+		<description>Dream Passport 2 v1.102 (1999)(Sega)(JP)[!][21M4, 21M7, 21MM1]</description>
+		<rom name="Dream Passport 2 v1.102 (1999)(Sega)(JP)[!][21M4, 21M7, 21MM1].gdi" size="88" crc="d5569894" sha1="13b310be11b450167e4c6ebca77ada13484debe5" md5="1f1d51a6ae22a5c702e9506af9132f08"/>
+		<rom name="track01.bin" size="5802384" crc="7a96163c" sha1="354ce4d50c77027a64da7deab55b08035ba49b8a" md5="cb9a9e4c3997ad103d16296e71d09682"/>
+		<rom name="track02.raw" size="1641696" crc="bd4f5757" sha1="5284237118fca7165193b860d2cf5d8791900eb6" md5="2d8d7cf1f2b677bcad144d83e9f34d42"/>
+		<rom name="track03.bin" size="1185760800" crc="fe08e10f" sha1="fd6e896cc3bac91f15ff17dad04de2259251a432" md5="d9df28a55cd4c83a89c8b518754ee84a"/>
+	</game>
+	<game name="Dream Passport 3 - Urban Style v1.002 (2000)(Sega)(JP)[!]">
+		<description>Dream Passport 3 - Urban Style v1.002 (2000)(Sega)(JP)[!]</description>
+		<rom name="Dream Passport 3 - Urban Style v1.002 (2000)(Sega)(JP)[!].gdi" size="87" crc="468c1495" sha1="980036e44ad9d694ea1699cd05c86ccd0c894c47" md5="346fea58ab1a55c577138c5b04319157"/>
+		<rom name="track01.bin" size="1058400" crc="fde4f60f" sha1="7b090fcc532854897e9afe6c9e9ad62d543670ac" md5="6dcd5b9708f4021edc89d3028f317f10"/>
+		<rom name="track02.raw" size="1735776" crc="b191b505" sha1="e12b9ae5ebc79b7da5271bce29df450671ce5d93" md5="8659426a29f58924f5f0458cc720098b"/>
+		<rom name="track03.bin" size="1185760800" crc="9b7f300a" sha1="f5b615b68206e38ec9b81e97a98ba93ee41595ba" md5="2211d7a01d250f538c419587d57b32de"/>
+	</game>
+	<game name="Dream Passport 3 v1.011 (2000)(Sega)(JP)[!][1, 2, 3]">
+		<description>Dream Passport 3 v1.011 (2000)(Sega)(JP)[!][1, 2, 3]</description>
+		<rom name="Dream Passport 3 v1.011 (2000)(Sega)(JP)[!][1, 2, 3].gdi" size="88" crc="43a0fb03" sha1="91eaeccb4631cb8142dd58398365d3529348ed6b" md5="f397fea6cb9af1d256cf1a9811ec9582"/>
+		<rom name="track01.bin" size="7982688" crc="f5aa4082" sha1="4d1b526d6f17c64eb9c57ee1ccf795b01b3265ba" md5="271b749a99af9bd02b4054318e6a12ab"/>
+		<rom name="track02.raw" size="6994848" crc="0136e158" sha1="64bc7a59c518068f4fcddbc43583d162c1f27acb" md5="003b7894d26ae8f5404099c0228236c3"/>
+		<rom name="track03.bin" size="1185760800" crc="c72c5d04" sha1="307837ab77e6e9acf654c7f25f28f300a09fdd22" md5="1b490423c98569f4e874608b312f2d95"/>
+	</game>
+	<game name="Dream Passport 3 v1.011 (2000)(Sega)(JP)[!][21M2, 21M4, 21M5]">
+		<description>Dream Passport 3 v1.011 (2000)(Sega)(JP)[!][21M2, 21M4, 21M5]</description>
+		<rom name="Dream Passport 3 v1.011 (2000)(Sega)(JP)[!][21M2, 21M4, 21M5].gdi" size="88" crc="43a0fb03" sha1="91eaeccb4631cb8142dd58398365d3529348ed6b" md5="f397fea6cb9af1d256cf1a9811ec9582"/>
+		<rom name="track01.bin" size="7982688" crc="f5aa4082" sha1="4d1b526d6f17c64eb9c57ee1ccf795b01b3265ba" md5="271b749a99af9bd02b4054318e6a12ab"/>
+		<rom name="track02.raw" size="6994848" crc="fb09a3c6" sha1="7bf0ee4bb32bad08d44bc2a626cebf4df87e02cf" md5="a23c0f42812b56e892cc40474950c8a2"/>
+		<rom name="track03.bin" size="1185760800" crc="c72c5d04" sha1="307837ab77e6e9acf654c7f25f28f300a09fdd22" md5="1b490423c98569f4e874608b312f2d95"/>
+	</game>
+	<game name="Dream Passport 3 v1.011 (2000)(Sega)(JP)[!][22M1, 22MB3, 22MM1]">
+		<description>Dream Passport 3 v1.011 (2000)(Sega)(JP)[!][22M1, 22MB3, 22MM1]</description>
+		<rom name="Dream Passport 3 v1.011 (2000)(Sega)(JP)[!][22M1, 22MB3, 22MM1].gdi" size="88" crc="43a0fb03" sha1="91eaeccb4631cb8142dd58398365d3529348ed6b" md5="f397fea6cb9af1d256cf1a9811ec9582"/>
+		<rom name="track01.bin" size="7982688" crc="f5aa4082" sha1="4d1b526d6f17c64eb9c57ee1ccf795b01b3265ba" md5="271b749a99af9bd02b4054318e6a12ab"/>
+		<rom name="track02.raw" size="6994848" crc="75590eb7" sha1="0096772662c047020848dcabed170397c4177bf4" md5="56e0a3b8ac470c6044ca978b5b0e74b7"/>
+		<rom name="track03.bin" size="1185760800" crc="c72c5d04" sha1="307837ab77e6e9acf654c7f25f28f300a09fdd22" md5="1b490423c98569f4e874608b312f2d95"/>
+	</game>
+	<game name="Dream Passport 3 v1.011 (2000)(Sega)(JP)[!][23M2, 23M8, 23MM1]">
+		<description>Dream Passport 3 v1.011 (2000)(Sega)(JP)[!][23M2, 23M8, 23MM1]</description>
+		<rom name="Dream Passport 3 v1.011 (2000)(Sega)(JP)[!][23M2, 23M8, 23MM1].gdi" size="88" crc="43a0fb03" sha1="91eaeccb4631cb8142dd58398365d3529348ed6b" md5="f397fea6cb9af1d256cf1a9811ec9582"/>
+		<rom name="track01.bin" size="7982688" crc="f5aa4082" sha1="4d1b526d6f17c64eb9c57ee1ccf795b01b3265ba" md5="271b749a99af9bd02b4054318e6a12ab"/>
+		<rom name="track02.raw" size="6994848" crc="a701a45d" sha1="c84ab9e02117ba8180d44e81424d783cdb074f08" md5="ae2544829f25104cc756876cb174e167"/>
+		<rom name="track03.bin" size="1185760800" crc="c72c5d04" sha1="307837ab77e6e9acf654c7f25f28f300a09fdd22" md5="1b490423c98569f4e874608b312f2d95"/>
+	</game>
+	<game name="Dream Passport 3 v1.011 (2000)(Sega)(JP)[!][25M3, 25M12]">
+		<description>Dream Passport 3 v1.011 (2000)(Sega)(JP)[!][25M3, 25M12]</description>
+		<rom name="Dream Passport 3 v1.011 (2000)(Sega)(JP)[!][25M3, 25M12].gdi" size="88" crc="43a0fb03" sha1="91eaeccb4631cb8142dd58398365d3529348ed6b" md5="f397fea6cb9af1d256cf1a9811ec9582"/>
+		<rom name="track01.bin" size="7982688" crc="f5aa4082" sha1="4d1b526d6f17c64eb9c57ee1ccf795b01b3265ba" md5="271b749a99af9bd02b4054318e6a12ab"/>
+		<rom name="track02.raw" size="6994848" crc="a859660c" sha1="023d8960b60350ebeced92fd8956e5b9dcfc8b6e" md5="ac9754e6ff8e4fa0d20aed11cad67aaa"/>
+		<rom name="track03.bin" size="1185760800" crc="c72c5d04" sha1="307837ab77e6e9acf654c7f25f28f300a09fdd22" md5="1b490423c98569f4e874608b312f2d95"/>
+	</game>
+	<game name="Dream Passport for Toyota v1.031 (1999)(Sega)(JP)[!]">
+		<description>Dream Passport for Toyota v1.031 (1999)(Sega)(JP)[!]</description>
+		<rom name="Dream Passport for Toyota v1.031 (1999)(Sega)(JP)[!].gdi" size="88" crc="bdb7a6c7" sha1="a854b64bda4affb75ed05f0e99548ab3eaef49af" md5="7d9d8bf27c8ecd74efedda450ec28460"/>
+		<rom name="track01.bin" size="3236352" crc="a6ea5fc6" sha1="e3360197026ebb6b47e071274c7bfeb9923a0c6b" md5="659da74485d1a766bdfcfcfe0487ddb8"/>
+		<rom name="track02.raw" size="1735776" crc="1ae25d08" sha1="e71cafcfb7f06a62a5887617f77ccb08d1770eec" md5="7dbe840f31d5eb3eb2533193c917320e"/>
+		<rom name="track03.bin" size="1185760800" crc="5c088bf1" sha1="6641c014ba162eefb2e0a13b20c7c2343b31af88" md5="d64f1efc9d83330896c9d9cbbe221808"/>
+	</game>
+	<game name="Dream Passport Premier v1.106 (2001)(Sega)(JP)[!][3M1, 3M4, 3M7]">
+		<description>Dream Passport Premier v1.106 (2001)(Sega)(JP)[!][3M1, 3M4, 3M7]</description>
+		<rom name="Dream Passport Premier v1.106 (2001)(Sega)(JP)[!][3M1, 3M4, 3M7].gdi" size="89" crc="4fe5413c" sha1="cba9e869085194bc0f6fb276db442517548d4bb0" md5="dd8f2f57aed66abfe9bf8afe2774c8f8"/>
+		<rom name="track01.bin" size="26909232" crc="da5da1a5" sha1="bbc9ffe387d936ec40aab8d78fe8be6d83ab71e6" md5="17c358e89b42dd05593078376186db2d"/>
+		<rom name="track02.raw" size="1735776" crc="5a179463" sha1="9b0d6af4fea488a0e68daaaba5108040e818a09b" md5="9245c82b36da790cb5d8e89504b7f949"/>
+		<rom name="track03.bin" size="1185760800" crc="c3eb676c" sha1="92f9b3b81b483e410b3ac9c00a87d9fbd5217637" md5="3295fc315da07a7ee3ca9d9c3bd9f8a2"/>
+	</game>
+	<game name="Dream Passport v1.007 (1998)(Sega)(JP)][!][1M1, 1MM1]">
+		<description>Dream Passport v1.007 (1998)(Sega)(JP)][!][1M1, 1MM1]</description>
+		<rom name="Dream Passport v1.007 (1998)(Sega)(JP)][!][1M1, 1MM1].gdi" size="87" crc="0065886f" sha1="b208a7534274787e39274abdc31d8d8d218bdaa6" md5="6aa2e27c8681521ab99ceb895e2227c1"/>
+		<rom name="track01.bin" size="1112496" crc="b0ef52e5" sha1="8818711b2454f04b3fd5a02a8ca9a289d74748e0" md5="2e8a3359ac21003918ede1083ada97ad"/>
+		<rom name="track02.raw" size="1735776" crc="139914ea" sha1="dba5ed5ec368066c867694b0885692946b9654f9" md5="15eb0aa60918cd1d73cb032c9bd10be6"/>
+		<rom name="track03.bin" size="1185760800" crc="ac8f9b56" sha1="589107a44a7fb4539dc4f69685ab3405865eb90d" md5="0d475dff714009cd9acf1eceeea4fca0"/>
+	</game>
+	<game name="Dream Passport v1.007 (1998)(Sega)(JP)][!][2M1, 2M7, 2M10]">
+		<description>Dream Passport v1.007 (1998)(Sega)(JP)][!][2M1, 2M7, 2M10]</description>
+		<rom name="Dream Passport v1.007 (1998)(Sega)(JP)][!][2M1, 2M7, 2M10].gdi" size="87" crc="0065886f" sha1="b208a7534274787e39274abdc31d8d8d218bdaa6" md5="6aa2e27c8681521ab99ceb895e2227c1"/>
+		<rom name="track01.bin" size="1112496" crc="b0ef52e5" sha1="8818711b2454f04b3fd5a02a8ca9a289d74748e0" md5="2e8a3359ac21003918ede1083ada97ad"/>
+		<rom name="track02.raw" size="1735776" crc="6e400a12" sha1="178b1cbe4b680751297c7a58c8242fd6741ab2df" md5="fafca4bf91c4bc843c691a1518ea8c62"/>
+		<rom name="track03.bin" size="1185760800" crc="ac8f9b56" sha1="589107a44a7fb4539dc4f69685ab3405865eb90d" md5="0d475dff714009cd9acf1eceeea4fca0"/>
+	</game>
+	<game name="Dream Passport Ver. 1.01 v1.013 (1998)(Sega)(JP)[!][1MB9]">
+		<description>Dream Passport Ver. 1.01 v1.013 (1998)(Sega)(JP)[!][1MB9]</description>
+		<rom name="Dream Passport Ver. 1.01 v1.013 (1998)(Sega)(JP)[!][1MB9].gdi" size="149" crc="c2bab0e2" sha1="2cb86ff4dd19d6f5c185e273e1061ef0e127b6ba" md5="a6036c1f92567a236e10e325bc9eedb8"/>
+		<rom name="track01.bin" size="1114848" crc="fbaea014" sha1="0e627415d579fcce40328be402e9eaaf67fa8c6f" md5="65776f69ee6b794e2c4dea740451698f"/>
+		<rom name="track02.raw" size="1735776" crc="acf54286" sha1="f215b769770215f431a059a386f236f3ba5ae5fe" md5="8746ff9eae6dd8bc5f60adc299f3b206"/>
+		<rom name="track03.bin" size="1133203008" crc="e81f6d23" sha1="ee5f16eb9ad0a17340aab17928a9a4e8d7006d95" md5="38cdd8abb33fee74f6b04449b01b9ddb"/>
+		<rom name="track04.raw" size="1559376" crc="0fde376d" sha1="0d29177cc302f7f63b2a0f246f39193fa92d5918" md5="aa5aad0561230f0db6b95f64f2030971"/>
+		<rom name="track05.bin" size="50292816" crc="ea964f8d" sha1="d58ef3d8ab4ef1a1af854ca951848ddab089be57" md5="9b9584c8b462af686b6b2264e699cffa"/>
+	</game>
+	<game name="Dream Passport Ver. 1.01 v1.013 (1998)(Sega)(JP)[!][2MB6, 2MB7, 2MB14]">
+		<description>Dream Passport Ver. 1.01 v1.013 (1998)(Sega)(JP)[!][2MB6, 2MB7, 2MB14]</description>
+		<rom name="Dream Passport Ver. 1.01 v1.013 (1998)(Sega)(JP)[!][2MB6, 2MB7, 2MB14].gdi" size="149" crc="c2bab0e2" sha1="2cb86ff4dd19d6f5c185e273e1061ef0e127b6ba" md5="a6036c1f92567a236e10e325bc9eedb8"/>
+		<rom name="track01.bin" size="1114848" crc="fbaea014" sha1="0e627415d579fcce40328be402e9eaaf67fa8c6f" md5="65776f69ee6b794e2c4dea740451698f"/>
+		<rom name="track02.raw" size="1735776" crc="f4a74944" sha1="4044bc93a0d457ab42b8d13075d684366a60f0aa" md5="362aac58f462d8e557d3cb870bcd573d"/>
+		<rom name="track03.bin" size="1133203008" crc="e81f6d23" sha1="ee5f16eb9ad0a17340aab17928a9a4e8d7006d95" md5="38cdd8abb33fee74f6b04449b01b9ddb"/>
+		<rom name="track04.raw" size="1559376" crc="463fba48" sha1="903293ec6f2ded506ab23d911c98be5af6ae4c3a" md5="3f03d246fd519c15cf18f17cd622768b"/>
+		<rom name="track05.bin" size="50292816" crc="ea964f8d" sha1="d58ef3d8ab4ef1a1af854ca951848ddab089be57" md5="9b9584c8b462af686b6b2264e699cffa"/>
+	</game>
+	<game name="Dream Passport Ver. 1.01 v1.013 (1998)(Sega)(JP)[!][3MB3, 3MB7, 3MM1]">
+		<description>Dream Passport Ver. 1.01 v1.013 (1998)(Sega)(JP)[!][3MB3, 3MB7, 3MM1]</description>
+		<rom name="Dream Passport Ver. 1.01 v1.013 (1998)(Sega)(JP)[!][3MB3, 3MB7, 3MM1].gdi" size="149" crc="c2bab0e2" sha1="2cb86ff4dd19d6f5c185e273e1061ef0e127b6ba" md5="a6036c1f92567a236e10e325bc9eedb8"/>
+		<rom name="track01.bin" size="1114848" crc="fbaea014" sha1="0e627415d579fcce40328be402e9eaaf67fa8c6f" md5="65776f69ee6b794e2c4dea740451698f"/>
+		<rom name="track02.raw" size="1735776" crc="78caffcc" sha1="48ebaa8e51a3da796de2b0b3b19b0dba0204b2fe" md5="5b00e75ae97522b7bc07b74a0d97dc60"/>
+		<rom name="track03.bin" size="1133203008" crc="e81f6d23" sha1="ee5f16eb9ad0a17340aab17928a9a4e8d7006d95" md5="38cdd8abb33fee74f6b04449b01b9ddb"/>
+		<rom name="track04.raw" size="1559376" crc="fdc8f5b7" sha1="115b2b1718d82b86f75ffcf7e5311a866b9520d3" md5="029dc4907aad82c65aa15b7ab7e0480a"/>
+		<rom name="track05.bin" size="50292816" crc="ea964f8d" sha1="d58ef3d8ab4ef1a1af854ca951848ddab089be57" md5="9b9584c8b462af686b6b2264e699cffa"/>
+	</game>
+	<game name="Dreamcast SYSTEM-DISC 2 v1.101 (1998)(Sega)(NTSC-PAL)[!]">
+		<description>Dreamcast SYSTEM-DISC 2 v1.101 (1998)(Sega)(NTSC-PAL)[!]</description>
+		<rom name="Dreamcast SYSTEM-DISC 2 v1.101 (1998)(Sega)(NTSC-PAL)[!].gdi" size="88" crc="b3397c10" sha1="8e263d53a84c0d6a56eef26170c6cf5d87128163" md5="ab61e5a0bd3149f98e19d329e26bfc5e"/>
+		<rom name="track01.bin" size="2032128" crc="d0062573" sha1="f52337b44640ee9b26d73b6b118cd38b9916279a" md5="f2aa2a666e9d9646e0409facdd952f55"/>
+		<rom name="track02.raw" size="1735776" crc="c1660272" sha1="912dcb5eddec06a540d80030817cb3b78cc9b4fa" md5="5cfa635298c2fe289b2f1999dc070c8c"/>
+		<rom name="track03.bin" size="1185760800" crc="72026a57" sha1="366a12581d0902167121eb8ac5a2a966ef11451d" md5="426cfecbd117c07940e68695978317be"/>
+	</game>
+	<game name="Dreamcast VM Data Issue v1.000 (2001)(Enterbrain)(JP)[!]">
+		<description>Dreamcast VM Data Issue v1.000 (2001)(Enterbrain)(JP)[!]</description>
+		<rom name="Dreamcast VM Data Issue v1.000 (2001)(Enterbrain)(JP)[!].gdi" size="87" crc="468c1495" sha1="980036e44ad9d694ea1699cd05c86ccd0c894c47" md5="346fea58ab1a55c577138c5b04319157"/>
+		<rom name="track01.bin" size="1058400" crc="4554f6e9" sha1="b570a218db3f27aab43a0d214d96c366429befcc" md5="15198b06581c663419be42f0b0b0bc1d"/>
+		<rom name="track02.raw" size="1735776" crc="cfc906db" sha1="60337b4464dcd933479ebe2c1c0f70c01edbc2b2" md5="add1c35473a09f13282bad6d60a272ba"/>
+		<rom name="track03.bin" size="1185760800" crc="03b145ae" sha1="e23de4692e9ffae82c1c03e1b7ada09587bdf436" md5="8ce9fe79271dd37dca4b3a0307ad3ff2"/>
+	</game>
+	<game name="DreamFlyer v1.008 (1999)(Sega)(JP)[!]">
+		<description>DreamFlyer v1.008 (1999)(Sega)(JP)[!]</description>
+		<rom name="DreamFlyer v1.008 (1999)(Sega)(JP)[!].gdi" size="87" crc="b220115c" sha1="2a37adc5e75d6f43b27bc61dc4fc09d5ad473ce0" md5="9d1f603062285fdb7bc099ed4d1e5ff1"/>
+		<rom name="track01.bin" size="1470000" crc="1111880f" sha1="0634f610264fbdfc214604abe5da8ed7d2a7a3ed" md5="ec8896305939a3e1cf9931fc1c189e7e"/>
+		<rom name="track02.raw" size="1735776" crc="0de03f29" sha1="db680939aae4bf61d0e588414c72a47c6dd92cdd" md5="d09be539a7074a058159505b7f5fdcb3"/>
+		<rom name="track03.bin" size="1185760800" crc="1f4524e4" sha1="fad9f694c198f19e752710b939a3bb108f21d7ad" md5="58a8b7318cfa29ba2e6235e40b15640d"/>
+	</game>
+	<game name="Dreamkey 3.0 v1.001 (2001)(Sega)(PAL)(M8)[!]">
+		<description>Dreamkey 3.0 v1.001 (2001)(Sega)(PAL)(M8)[!]</description>
+		<rom name="Dreamkey 3.0 v1.001 (2001)(Sega)(PAL)(M8)[!].gdi" size="87" crc="f782deca" sha1="cc43be7a2a3a15a86f07441e849c5b4c1dd98190" md5="bcf632fbe396acbce6cb3a0b61d914e1"/>
+		<rom name="track01.bin" size="1420608" crc="ad85e856" sha1="df925e3b70062cb33a2787dc560c5f9f31a50946" md5="81f0c066310909f23dd03db7bae72b31"/>
+		<rom name="track02.raw" size="13994400" crc="15e73429" sha1="b643df4def042b6c23f90f54c690ac7df431233f" md5="d1838bcbca4a24b39deddeae2a9d371a"/>
+		<rom name="track03.bin" size="1185760800" crc="bb3d81f1" sha1="31aa1810c7f5baa7ac52cb87830de2da100c188d" md5="b89addeb422007b6026594ead83ddad3"/>
+	</game>
+	<game name="Dreamkey 3.1 v1.000 (2002)(Sega)(PAL)(ES)[!]">
+		<description>Dreamkey 3.1 v1.000 (2002)(Sega)(PAL)(ES)[!]</description>
+		<rom name="Dreamkey 3.1 v1.000 (2002)(Sega)(PAL)(ES)[!].gdi" size="149" crc="20d9397b" sha1="fdfb2dc09cccd55554efeb62402e5d56bf6cdff0" md5="6ce8d1c1357f9fe425693a7c85d077da"/>
+		<rom name="track01.bin" size="1420608" crc="eb86bef9" sha1="4aa938f64f71972cce4946b616cee7e319bb32b6" md5="46abbcc66e28a2bdfcc0e68e99f8ad08"/>
+		<rom name="track02.raw" size="13994400" crc="15e73429" sha1="b643df4def042b6c23f90f54c690ac7df431233f" md5="d1838bcbca4a24b39deddeae2a9d371a"/>
+		<rom name="track03.bin" size="1144589040" crc="1a980f6c" sha1="28ce35f902983fdf836b82a10a7f9b17f92b8090" md5="d0c83f2c4ec9c203184c7a8a0b365ea5"/>
+		<rom name="track04.raw" size="13818000" crc="2c98bfec" sha1="415049310c4e753b5554b75fc9fc484b9b946179" md5="e081e4437e3193c4f9f712f5d607ce52"/>
+		<rom name="track05.bin" size="26648160" crc="03ba615f" sha1="e9684b37f7697345357a8ad1c1fdbde60737fd2b" md5="ede34c5a85bc9e97733b58ebf04a7eca"/>
+	</game>
+	<game name="Dreamkey 3.1 v1.000 (2002)(Sega)(PAL)(PT)[!]">
+		<description>Dreamkey 3.1 v1.000 (2002)(Sega)(PAL)(PT)[!]</description>
+		<rom name="Dreamkey 3.1 v1.000 (2002)(Sega)(PAL)(PT)[!].gdi" size="149" crc="cf40a7a2" sha1="d480c6a53052b69c8084c3bc5b3fb15df960b003" md5="1846c257171fcde28e4aa141b4fab902"/>
+		<rom name="track01.bin" size="1420608" crc="690bdcc9" sha1="f321655bf5a13c06cdbabccfb50cfcf31fb3f41d" md5="54386178fa4a58862b45f5ca1263676f"/>
+		<rom name="track02.raw" size="13994400" crc="15e73429" sha1="b643df4def042b6c23f90f54c690ac7df431233f" md5="d1838bcbca4a24b39deddeae2a9d371a"/>
+		<rom name="track03.bin" size="1145165280" crc="e13a6395" sha1="892c9e40cc4bc9ce06a1a72c404bf0d3f5403b09" md5="4c90dc617e329f420958762352a5f101"/>
+		<rom name="track04.raw" size="13818000" crc="2c98bfec" sha1="415049310c4e753b5554b75fc9fc484b9b946179" md5="e081e4437e3193c4f9f712f5d607ce52"/>
+		<rom name="track05.bin" size="26071920" crc="47c5ffb7" sha1="1c063aa2f7d238ddeb3cd2eb97a60f871cb27a4f" md5="409552c898fe25967075c820fdddd819"/>
+	</game>
+	<game name="Dreamkey v1.006 (1999)(Sega)(PAL)(FR)[!]">
+		<description>Dreamkey v1.006 (1999)(Sega)(PAL)(FR)[!]</description>
+		<rom name="Dreamkey v1.006 (1999)(Sega)(PAL)(FR)[!].gdi" size="88" crc="f2e3377a" sha1="1c7a2789fa9de162f239e596262e45667b55ccbd" md5="e2809191c5294c1687b0478b1a889ce7"/>
+		<rom name="track01.bin" size="19552176" crc="43685218" sha1="6f8c5e7d97b72b8f105cbe6efe68b5d200350fea" md5="6fb73c0883db1c55d0c2c7e862ff64b7"/>
+		<rom name="track02.raw" size="13994400" crc="15e73429" sha1="b643df4def042b6c23f90f54c690ac7df431233f" md5="d1838bcbca4a24b39deddeae2a9d371a"/>
+		<rom name="track03.bin" size="1185760800" crc="6342630f" sha1="fabf65b6fb5a7a9015b8c53197148b22d781ee91" md5="940ec9d42b04ef5cc9b7d00a9bd074ad"/>
+	</game>
+	<game name="Dreamkey v1.006 (1999)(Sega)(PAL)[!]">
+		<description>Dreamkey v1.006 (1999)(Sega)(PAL)[!]</description>
+		<rom name="Dreamkey v1.006 (1999)(Sega)(PAL)[!].gdi" size="88" crc="f2e3377a" sha1="1c7a2789fa9de162f239e596262e45667b55ccbd" md5="e2809191c5294c1687b0478b1a889ce7"/>
+		<rom name="track01.bin" size="19552176" crc="6568104b" sha1="64c4a5ae2c257df9ad5a2a1f82f10b24714baa66" md5="203637888bd8c1ca187641366462811e"/>
+		<rom name="track02.raw" size="13994400" crc="15e73429" sha1="b643df4def042b6c23f90f54c690ac7df431233f" md5="d1838bcbca4a24b39deddeae2a9d371a"/>
+		<rom name="track03.bin" size="1185760800" crc="c610e2af" sha1="5e966f044558a21f0b6bd1776b30a5f2054a66e0" md5="359d8afa68ae0aabde6d2adf3d6da8bb"/>
+	</game>
+	<game name="Dreamkey v1.008 (1999)(Sega)(PAL)(FR)[!]">
+		<description>Dreamkey v1.008 (1999)(Sega)(PAL)(FR)[!]</description>
+		<rom name="Dreamkey v1.008 (1999)(Sega)(PAL)(FR)[!].gdi" size="88" crc="f2e3377a" sha1="1c7a2789fa9de162f239e596262e45667b55ccbd" md5="e2809191c5294c1687b0478b1a889ce7"/>
+		<rom name="track01.bin" size="19552176" crc="2ac1af28" sha1="b09ffa9a31e9b35298714a9b7ff909c45dd59db5" md5="ac1c438d937a7060447a3e8096077737"/>
+		<rom name="track02.raw" size="13994400" crc="15e73429" sha1="b643df4def042b6c23f90f54c690ac7df431233f" md5="d1838bcbca4a24b39deddeae2a9d371a"/>
+		<rom name="track03.bin" size="1185760800" crc="ee31795e" sha1="2cc0e667fe8dafadddd24120a72973ad9535e78c" md5="dab2ad8e7fb3b80d3dac37821757fed4"/>
+	</game>
+	<game name="Dreamkey v1.008 (1999)(Sega)(PAL)[!]">
+		<description>Dreamkey v1.008 (1999)(Sega)(PAL)[!]</description>
+		<rom name="Dreamkey v1.008 (1999)(Sega)(PAL)[!].gdi" size="88" crc="f2e3377a" sha1="1c7a2789fa9de162f239e596262e45667b55ccbd" md5="e2809191c5294c1687b0478b1a889ce7"/>
+		<rom name="track01.bin" size="19552176" crc="d5526eb6" sha1="1c331d597d7108dbe3de2d7b9a775c2e02077c73" md5="f6a1294b073655aeff068d9335638e15"/>
+		<rom name="track02.raw" size="13994400" crc="15e73429" sha1="b643df4def042b6c23f90f54c690ac7df431233f" md5="d1838bcbca4a24b39deddeae2a9d371a"/>
+		<rom name="track03.bin" size="1185760800" crc="d2a13734" sha1="e542a7fe0230728e9c16a527045706849319cf81" md5="0f3b5731b37fcfa655e771be3e5ff493"/>
+	</game>
+	<game name="Dreamkey Versao 2.0 v1.003 (2000)(Sega)(PAL)(PT)[!][C - Orange Cover &amp; Disc]">
+		<description>Dreamkey Versao 2.0 v1.003 (2000)(Sega)(PAL)(PT)[!][C - Orange Cover &amp; Disc]</description>
+		<rom name="Dreamkey Versao 2.0 v1.003 (2000)(Sega)(PAL)(PT)[!][C - Orange Cover &amp; Disc].gdi" size="149" crc="d7e217c8" sha1="e35fe2deae68212c5857ad38d4b84ead14bc871f" md5="db3c91f131170615bfd339bf877b589f"/>
+		<rom name="track01.bin" size="1420608" crc="a2c68f35" sha1="636933dba976474e48a2b0f3e208d69226bd1795" md5="4e7a4582023fdaf4d4ccbef84d611ccd"/>
+		<rom name="track02.raw" size="13994400" crc="15e73429" sha1="b643df4def042b6c23f90f54c690ac7df431233f" md5="d1838bcbca4a24b39deddeae2a9d371a"/>
+		<rom name="track03.bin" size="1083945072" crc="b9e639a7" sha1="2d5a59407992fe8cdc2b2d800e049327424a82a1" md5="110ce16a4b179e42955d034b48d76b25"/>
+		<rom name="track04.raw" size="13818000" crc="2c98bfec" sha1="415049310c4e753b5554b75fc9fc484b9b946179" md5="e081e4437e3193c4f9f712f5d607ce52"/>
+		<rom name="track05.bin" size="87292128" crc="24a833d0" sha1="b0005b849602e2c58de9dece636137eb8c5970d3" md5="1980cb89cea4a81a3c43319860efb4be"/>
+	</game>
+	<game name="Dreamkey Version 1.5 v1.000 (2000)(Sega)(PAL)(ES)[!]">
+		<description>Dreamkey Version 1.5 v1.000 (2000)(Sega)(PAL)(ES)[!]</description>
+		<rom name="Dreamkey Version 1.5 v1.000 (2000)(Sega)(PAL)(ES)[!].gdi" size="87" crc="f782deca" sha1="cc43be7a2a3a15a86f07441e849c5b4c1dd98190" md5="bcf632fbe396acbce6cb3a0b61d914e1"/>
+		<rom name="track01.bin" size="1420608" crc="82f7b94c" sha1="9ba5d6e2b92aeb0ffea483f482be56844e2d116d" md5="bf666cb8bfa5dabcd023ae7f848c3428"/>
+		<rom name="track02.raw" size="13994400" crc="15e73429" sha1="b643df4def042b6c23f90f54c690ac7df431233f" md5="d1838bcbca4a24b39deddeae2a9d371a"/>
+		<rom name="track03.bin" size="1185760800" crc="ab861d18" sha1="ac69ad15631983a84e9cfbc0055b16065faac367" md5="4ec1c954b96e39d80f47c3261b788eae"/>
+	</game>
+	<game name="Dreamkey Version 1.5 v1.001 (2000)(Sega)(PAL)(FR)[!]">
+		<description>Dreamkey Version 1.5 v1.001 (2000)(Sega)(PAL)(FR)[!]</description>
+		<rom name="Dreamkey Version 1.5 v1.001 (2000)(Sega)(PAL)(FR)[!].gdi" size="87" crc="f782deca" sha1="cc43be7a2a3a15a86f07441e849c5b4c1dd98190" md5="bcf632fbe396acbce6cb3a0b61d914e1"/>
+		<rom name="track01.bin" size="1420608" crc="19c89c84" sha1="9883d4cf756677b155426678e87ff155227a6414" md5="d8e141ccaa2aef3f8933bee816ca581f"/>
+		<rom name="track02.raw" size="13994400" crc="15e73429" sha1="b643df4def042b6c23f90f54c690ac7df431233f" md5="d1838bcbca4a24b39deddeae2a9d371a"/>
+		<rom name="track03.bin" size="1185760800" crc="7ddfbadd" sha1="aa6c97dedda1867159ff85e612f69198591e6a77" md5="87e2ef8bf0dddfb19363b835b9f517e6"/>
+	</game>
+	<game name="Dreamkey Version 1.5 v1.003 (2000)(Sega)(PAL)[!]">
+		<description>Dreamkey Version 1.5 v1.003 (2000)(Sega)(PAL)[!]</description>
+		<rom name="Dreamkey Version 1.5 v1.003 (2000)(Sega)(PAL)[!].gdi" size="87" crc="f782deca" sha1="cc43be7a2a3a15a86f07441e849c5b4c1dd98190" md5="bcf632fbe396acbce6cb3a0b61d914e1"/>
+		<rom name="track01.bin" size="1420608" crc="8a615e9d" sha1="96aa861cc7f9af3e2d71a18a356d8c6c2e31486a" md5="e3801de82743649059c462402feeebc2"/>
+		<rom name="track02.raw" size="13994400" crc="15e73429" sha1="b643df4def042b6c23f90f54c690ac7df431233f" md5="d1838bcbca4a24b39deddeae2a9d371a"/>
+		<rom name="track03.bin" size="1185760800" crc="d276c430" sha1="b6fd9a0e99506183ba604f92cdac403fa1ef6be5" md5="3bad5347a74d9d060d8e3961bca3acae"/>
+	</game>
+	<game name="Dreamkey Version 2.0 v1.000 (2000)(Sega)(PAL)(M5)[!][B - Red Cover &amp; Disc]">
+		<description>Dreamkey Version 2.0 v1.000 (2000)(Sega)(PAL)(M5)[!][B - Red Cover &amp; Disc]</description>
+		<rom name="Dreamkey Version 2.0 v1.000 (2000)(Sega)(PAL)(M5)[!][B - Red Cover &amp; Disc].gdi" size="149" crc="4327e2f7" sha1="469710efaf74b25235d5c37549649319a1c86275" md5="0279ed61d786b793d7fde9199931d3c4"/>
+		<rom name="track01.bin" size="1420608" crc="2f7c6f62" sha1="53a90d121c188ca28fa11312f87bf56cbb378db5" md5="d0930b38e52939b2e05a428f767dc7fa"/>
+		<rom name="track02.raw" size="13994400" crc="15e73429" sha1="b643df4def042b6c23f90f54c690ac7df431233f" md5="d1838bcbca4a24b39deddeae2a9d371a"/>
+		<rom name="track03.bin" size="1056981744" crc="e30bdcef" sha1="592a78cf56631f5f42b67c878f26fe2046b9765e" md5="e81de27305cf06bc2790a30fb0788efc"/>
+		<rom name="track04.raw" size="13818000" crc="2c98bfec" sha1="415049310c4e753b5554b75fc9fc484b9b946179" md5="e081e4437e3193c4f9f712f5d607ce52"/>
+		<rom name="track05.bin" size="114255456" crc="49937b0f" sha1="9b621a8290c1e083775afae6e495d9d53bed8811" md5="8f9e158df702ac84322c7432ab8bac5e"/>
+	</game>
+	<game name="Dreamkey Version 2.0 v1.001 (2000)(Sega)(PAL)(M5)[!][D - Green Cover &amp; Disc]">
+		<description>Dreamkey Version 2.0 v1.001 (2000)(Sega)(PAL)(M5)[!][D - Green Cover &amp; Disc]</description>
+		<rom name="Dreamkey Version 2.0 v1.001 (2000)(Sega)(PAL)(M5)[!][D - Green Cover &amp; Disc].gdi" size="149" crc="91d6433d" sha1="a810efab410b907dd226ac677a7df840685c47ef" md5="3ed31288b6c9c24d4106bb8b87b09657"/>
+		<rom name="track01.bin" size="1420608" crc="7e109f6c" sha1="7a5d088f48a7bdf787ce27c1cbdd9686e45b6341" md5="20afeb9c44fa98f450f09e7915637f56"/>
+		<rom name="track02.raw" size="13994400" crc="15e73429" sha1="b643df4def042b6c23f90f54c690ac7df431233f" md5="d1838bcbca4a24b39deddeae2a9d371a"/>
+		<rom name="track03.bin" size="1051694448" crc="52481a01" sha1="8cb3854ea330553c860fb0c3d16c3d27f9a68400" md5="19a1e6a0276a200d0a7434a3fe3245a7"/>
+		<rom name="track04.raw" size="13818000" crc="2c98bfec" sha1="415049310c4e753b5554b75fc9fc484b9b946179" md5="e081e4437e3193c4f9f712f5d607ce52"/>
+		<rom name="track05.bin" size="119542752" crc="3c83bdf9" sha1="8742642a3013e10c14380bc1321d98a170f0c6fa" md5="6eb2176e05457607fec6a58ddfc452cc"/>
+	</game>
+	<game name="Dreamstud!o - 3D Adventure Construction v1.002 (2000)(Sega)(JP)[!]">
+		<description>Dreamstud!o - 3D Adventure Construction v1.002 (2000)(Sega)(JP)[!]</description>
+		<rom name="Dreamstud!o - 3D Adventure Construction v1.002 (2000)(Sega)(JP)[!].gdi" size="87" crc="d7ab4c6b" sha1="9d50b816d3f69ad192f5986ab487769965c2e082" md5="b3ecdf113fd42344dd84142679e4cb36"/>
+		<rom name="track01.bin" size="705600" crc="b3a5ff2d" sha1="4cef635cd7f410e7402fe96a87674de803f7b357" md5="899d7f726db31d7289c96ee7a979a666"/>
+		<rom name="track02.raw" size="1735776" crc="0c1c33c2" sha1="da118052d02b4b41d0957067ec253cfe99892f30" md5="83dfb064a73d8469d641a7ac01fd4b7a"/>
+		<rom name="track03.bin" size="1185760800" crc="a315d3a5" sha1="f25717ffde51722f6cee62c054f3e86661097fdd" md5="2104394d85b408c89cb4983caca0fb81"/>
+	</game>
+	<game name="Hello Kitty Dream Passport 2 v1.000 (1999)(Sega)(JP)[!]">
+		<description>Hello Kitty Dream Passport 2 v1.000 (1999)(Sega)(JP)[!]</description>
+		<rom name="Hello Kitty Dream Passport 2 v1.000 (1999)(Sega)(JP)[!].gdi" size="88" crc="2d1948ef" sha1="c8ca8e32eb1ad7b7d2733d2835f68dd8d5c51180" md5="8e6fa1702cf2297aef3a0d0df52c1617"/>
+		<rom name="track01.bin" size="2370816" crc="fe936b5b" sha1="b5d9669597ec52c9b71c30e3e0ac92bf2142f1ca" md5="01a5190afdb5daa6068aef0d7d121977"/>
+		<rom name="track02.raw" size="1641696" crc="85b441f8" sha1="ed0c7a3b673b7fba04f9499081d900ef1048b4be" md5="f6b5a820545f059798dea583eb6afe13"/>
+		<rom name="track03.bin" size="1185760800" crc="e71fc925" sha1="d0a8888c2e434baff06e1708575956d8cc204b39" md5="d5bfcfcc3305c5f3840a7afc31920454"/>
+	</game>
+	<game name="Hello Kitty no Otonaru Mail v1.016 (2000)(Sega)(JP)[!]">
+		<description>Hello Kitty no Otonaru Mail v1.016 (2000)(Sega)(JP)[!]</description>
+		<rom name="Hello Kitty no Otonaru Mail v1.016 (2000)(Sega)(JP)[!].gdi" size="87" crc="468c1495" sha1="980036e44ad9d694ea1699cd05c86ccd0c894c47" md5="346fea58ab1a55c577138c5b04319157"/>
+		<rom name="track01.bin" size="1058400" crc="e25a9727" sha1="9ae801b6992e41607432e53d267e25537cab6c0d" md5="5d862fb9fea822960c5c17d088645ba8"/>
+		<rom name="track02.raw" size="1735776" crc="f703e41f" sha1="b4099782aa5899de41077c60fdfcc51b6c28c46f" md5="df9705fe47ec5f36bc7f0c4c3d54dbbf"/>
+		<rom name="track03.bin" size="1185760800" crc="920e0190" sha1="8db7546272037bbed5a349b150d904736cb242f5" md5="070a9e78c4b4d435f98945df8c825114"/>
+	</game>
+	<game name="JRA PAT for Dreamcast V40L10 v1.002 (2000)(Keiba Security Services - Sega)(JP)[!]">
+		<description>JRA PAT for Dreamcast V40L10 v1.002 (2000)(Keiba Security Services - Sega)(JP)[!]</description>
+		<rom name="JRA PAT for Dreamcast V40L10 v1.002 (2000)(Keiba Security Services - Sega)(JP)[!].gdi" size="150" crc="8935bc22" sha1="f4650e6d7a020d1bf480d72e04dd564a09aad86e" md5="75ffd6accbe1cfed52b8e001384c782a"/>
+		<rom name="track01.bin" size="2039184" crc="1a4dc1b2" sha1="5215959554dd8dab3355460deedc5494858731af" md5="993d9632fc5e86b030c40ecc9dea7691"/>
+		<rom name="track02.raw" size="1735776" crc="417f6c17" sha1="f3085e18f84a243010ecde3008f4b43b777992b7" md5="68d71b705ff409810b2d629a5b795a9f"/>
+		<rom name="track03.bin" size="188181168" crc="cdf9101b" sha1="561489d3a5def06de79f094cc210d3cdefc331fa" md5="e73056b31260eaa0ce1fbbad35a40aa5"/>
+		<rom name="track04.raw" size="1559376" crc="9321889d" sha1="c08171283621b2b76d9fe12d13f33482948f034a" md5="e95b7b344177704de644b5d70e86e5d8"/>
+		<rom name="track05.bin" size="995314656" crc="74c2e4b3" sha1="c4decaefebc0996bcd8d62498a3f592207fce39f" md5="89fe793ad5eb29cb9eaef92b4c8e6a2d"/>
+	</game>
+	<game name="JRA PAT for Dreamcast V40L11 v2.000 (2000)(Keiba Security Services - Sega)(JP)[!]">
+		<description>JRA PAT for Dreamcast V40L11 v2.000 (2000)(Keiba Security Services - Sega)(JP)[!]</description>
+		<rom name="JRA PAT for Dreamcast V40L11 v2.000 (2000)(Keiba Security Services - Sega)(JP)[!].gdi" size="88" crc="b0722f7c" sha1="a84f62ec4e499d6990f65182739f4f2beb101006" md5="7ce014921977dd47cdbdb86d0d4dd65f"/>
+		<rom name="track01.bin" size="2036832" crc="2d05344d" sha1="e7af8b95c3fa601b504f4953ca55e1b24c10cab0" md5="3d9255c5acb0b37b03233a60b6d40a4e"/>
+		<rom name="track02.raw" size="1735776" crc="a7adb16c" sha1="b99b1a46ba48d726b19dc7fc7415162a8a89a988" md5="4d11ef7a4d697840ea0bd82f57899ec7"/>
+		<rom name="track03.bin" size="1185760800" crc="1953f5b8" sha1="16cec13218d68bdaf040c2a630b366c00385b816" md5="17b9f9d79f9b6fdc4d1410fcec796e49"/>
+	</game>
+	<game name="JRA PAT for Dreamcast V40L12 v3.000 (2001)(Keiba Security Services - Sega)(JP)[!]">
+		<description>JRA PAT for Dreamcast V40L12 v3.000 (2001)(Keiba Security Services - Sega)(JP)[!]</description>
+		<rom name="JRA PAT for Dreamcast V40L12 v3.000 (2001)(Keiba Security Services - Sega)(JP)[!].gdi" size="87" crc="1f2838df" sha1="eecb4856b5bc0c31573ce72b705cf0519e90c7f6" md5="fd4d9a5d43a530d229ee0076d32506fb"/>
+		<rom name="track01.bin" size="1996848" crc="bbd45245" sha1="7b7683482ed6bc008237953ae41e4ba5663fb2d6" md5="49da39d5a2e0b3379dc9e3ae48e75a14"/>
+		<rom name="track02.raw" size="1735776" crc="860b0460" sha1="5b2578ce7075bbab7858568491cccb9a64b483b3" md5="0bf100ce8aecf4fb1246b1e066d21b45"/>
+		<rom name="track03.bin" size="1185760800" crc="bf70d3b1" sha1="dc5d3207e40ac22a79a202c4960b234bc691c949" md5="773367effdbfd6341ce6258f57e42d25"/>
+	</game>
+	<game name="JRA PAT for Dreamcast V50 v1.000 (2002)(Keiba Security Services - Sega)(JP)[!][AKA V50L10]">
+		<description>JRA PAT for Dreamcast V50 v1.000 (2002)(Keiba Security Services - Sega)(JP)[!][AKA V50L10]</description>
+		<rom name="JRA PAT for Dreamcast V50 v1.000 (2002)(Keiba Security Services - Sega)(JP)[!][AKA V50L10].gdi" size="87" crc="1f2838df" sha1="eecb4856b5bc0c31573ce72b705cf0519e90c7f6" md5="fd4d9a5d43a530d229ee0076d32506fb"/>
+		<rom name="track01.bin" size="1996848" crc="0ef811a1" sha1="77686ea2121ac1f7229d45bbbfe41980425bde55" md5="e8245a1a496878a3f097441b31b9e3cc"/>
+		<rom name="track02.raw" size="1735776" crc="cfc906db" sha1="60337b4464dcd933479ebe2c1c0f70c01edbc2b2" md5="add1c35473a09f13282bad6d60a272ba"/>
+		<rom name="track03.bin" size="1185760800" crc="4ecd0b64" sha1="d586e6894a2714ed8a69a5408d8d45b9d893694a" md5="2c0cd82b89de535bc754e2c2eb63ff68"/>
+	</game>
+	<game name="Microsoft WebTV Setsuzoku Kit - 128bit SSL Taiouhan v1.011 (1999)(WebTV Networks)(JP)[!][AKA Microsoft WebTV Connection Kit]">
+		<description>Microsoft WebTV Setsuzoku Kit - 128bit SSL Taiouhan v1.011 (1999)(WebTV Networks)(JP)[!][AKA Microsoft WebTV Connection Kit]</description>
+		<rom name="Microsoft WebTV Setsuzoku Kit - 128bit SSL Taiouhan v1.011 (1999)(WebTV Networks)(JP)[!][AKA Microsoft WebTV Connection Kit].gdi" size="87" crc="8483c25b" sha1="3329d796585a1b0c445af2eecbb7409f36c23d8c" md5="27a96121790b022ce83b3c500f6ed7b5"/>
+		<rom name="track01.bin" size="1613472" crc="ae3cf98e" sha1="d721c42f0ad217f45f04308a89ccf5551739a2f2" md5="6f0cd4e18a597e1c2d847473adab39e7"/>
+		<rom name="track02.raw" size="1735776" crc="5f5d1238" sha1="9f8152ade8400b2367e88bdc680cc3d78a5c3726" md5="6a57d815c190ad9493d4ed87e0413c32"/>
+		<rom name="track03.bin" size="1185760800" crc="cd4cdbc1" sha1="45aee581809838dcc53d2c9a06c0c54ac88828e7" md5="3d8212e97ba05d28ffa0e65f733518fd"/>
+	</game>
+	<game name="Microsoft WebTV Setsuzoku Kit v1.004 (1999)(WebTV Networks)(JP)[!][10MM1][AKA Microsoft WebTV Connection Kit]">
+		<description>Microsoft WebTV Setsuzoku Kit v1.004 (1999)(WebTV Networks)(JP)[!][10MM1][AKA Microsoft WebTV Connection Kit]</description>
+		<rom name="Microsoft WebTV Setsuzoku Kit v1.004 (1999)(WebTV Networks)(JP)[!][10MM1][AKA Microsoft WebTV Connection Kit].gdi" size="87" crc="8483c25b" sha1="3329d796585a1b0c445af2eecbb7409f36c23d8c" md5="27a96121790b022ce83b3c500f6ed7b5"/>
+		<rom name="track01.bin" size="1613472" crc="fb3daea7" sha1="fbd6d3b63932ebb32eb33d882aec9eb0c73c93f2" md5="c6adee9a2b65e88a3766d31c42827bed"/>
+		<rom name="track02.raw" size="1735776" crc="98398c6e" sha1="da3681707a31ba5d95ea57d916764b8326a46197" md5="8355433a1d185c49fa745e42b203d3ad"/>
+		<rom name="track03.bin" size="1185760800" crc="43ddadfb" sha1="60e6df7b96cb3211d0af6b76a1a1166826e49efa" md5="cc248dc485d73a16ec73f989075383a9"/>
+	</game>
+	<game name="Microsoft WebTV Setsuzoku Kit v1.004 (1999)(WebTV Networks)(JP)[!][11MM1][AKA Microsoft WebTV Connection Kit]">
+		<description>Microsoft WebTV Setsuzoku Kit v1.004 (1999)(WebTV Networks)(JP)[!][11MM1][AKA Microsoft WebTV Connection Kit]</description>
+		<rom name="Microsoft WebTV Setsuzoku Kit v1.004 (1999)(WebTV Networks)(JP)[!][11MM1][AKA Microsoft WebTV Connection Kit].gdi" size="87" crc="8483c25b" sha1="3329d796585a1b0c445af2eecbb7409f36c23d8c" md5="27a96121790b022ce83b3c500f6ed7b5"/>
+		<rom name="track01.bin" size="1613472" crc="fb3daea7" sha1="fbd6d3b63932ebb32eb33d882aec9eb0c73c93f2" md5="c6adee9a2b65e88a3766d31c42827bed"/>
+		<rom name="track02.raw" size="1735776" crc="f81f5596" sha1="e6d1233f6e0c44fdd03fc21b5c0f3d106c732305" md5="e30a70bd8b03cd8399cca818eae30f90"/>
+		<rom name="track03.bin" size="1185760800" crc="43ddadfb" sha1="60e6df7b96cb3211d0af6b76a1a1166826e49efa" md5="cc248dc485d73a16ec73f989075383a9"/>
+	</game>
+	<game name="O.To.I.Re Dreamcast Sequencer v1.002 (1999)(Waka Manufacturing)(JP)(en-ja)[!]">
+		<description>O.To.I.Re Dreamcast Sequencer v1.002 (1999)(Waka Manufacturing)(JP)(en-ja)[!]</description>
+		<rom name="O.To.I.Re Dreamcast Sequencer v1.002 (1999)(Waka Manufacturing)(JP)(en-ja)[!].gdi" size="88" crc="88d780d5" sha1="db423a30628c3e54e0d8371d64fe1d7ca8208070" md5="bd8f8f69ed37effeb467e4da027efdee"/>
+		<rom name="track01.bin" size="2241456" crc="702abb10" sha1="65defd46740458e9b6d746f8e23b04190c27adc6" md5="77b0388286cd70ae082618b45ec0ce16"/>
+		<rom name="track02.raw" size="1949808" crc="c4484cc8" sha1="437a4512cac2d8dc384ab8e7240790925158f1d9" md5="c28a4d0b40eee409fe201f3c1c47a0b1"/>
+		<rom name="track03.bin" size="1185760800" crc="d558103a" sha1="9ec00e3377460504f4c393a5a0ce5e6c74b7bf85" md5="63ec9fa9bbcc99bfebba3e10e736518f"/>
+	</game>
+	<game name="Planetweb Internet Browser V3.0 for Dreamcast v3.040 (2001)(Planetweb)(US)[!]">
+		<description>Planetweb Internet Browser V3.0 for Dreamcast v3.040 (2001)(Planetweb)(US)[!]</description>
+		<rom name="Planetweb Internet Browser V3.0 for Dreamcast v3.040 (2001)(Planetweb)(US)[!].gdi" size="87" crc="f4c98da6" sha1="595bf24112edff3e88efe62407a36c0d47bba59a" md5="6b91c320ee1f4ac2dcfba3c3b43df09d"/>
+		<rom name="track01.bin" size="1425312" crc="0287adaf" sha1="5cc1d6a565c3d191bc1209df61c3e57e0a4a7c44" md5="419a362b61ea7fb0e6b54ab6c30c8b24"/>
+		<rom name="track02.raw" size="1237152" crc="405041ac" sha1="77825f4cbd073001377bc76d1fe874120647db57" md5="701760d02c61f0b6e09d700443930c37"/>
+		<rom name="track03.bin" size="1185760800" crc="dad88a7f" sha1="05a8a60dd244765d4084e6c24bc49ec689fee256" md5="ccf74f22a6b4ad003491a72e83efc5ad"/>
+	</game>
+	<game name="Sakura Taisen - Kinematron Hanagumi Mail v1.008 (2000)(Sega)(JP)[!]">
+		<description>Sakura Taisen - Kinematron Hanagumi Mail v1.008 (2000)(Sega)(JP)[!]</description>
+		<rom name="Sakura Taisen - Kinematron Hanagumi Mail v1.008 (2000)(Sega)(JP)[!].gdi" size="87" crc="d7ab4c6b" sha1="9d50b816d3f69ad192f5986ab487769965c2e082" md5="b3ecdf113fd42344dd84142679e4cb36"/>
+		<rom name="track01.bin" size="705600" crc="a49ed3cb" sha1="bba5f06f768a8dd1b0e8d67305abb51cceb85f18" md5="e6bd060564e731680b76bf14a023e04a"/>
+		<rom name="track02.raw" size="9852528" crc="71a0a636" sha1="474fbd78485e817276f27079eca21a5712dda675" md5="495dc87b190124f1a3ce331939f2ab5c"/>
+		<rom name="track03.bin" size="1185760800" crc="093fd501" sha1="ee736d9ad11e5e6e63eba4978641d95146594ade" md5="1058155f57ced483a66c55fc2ed6f03a"/>
+	</game>
+	<game name="Sakura Taisen 3 Drama Download Disc v1.000 (2002)(Sega)(JP)[!][2M1, 2M2, 2M3][Sakura Taisen 4, HDR-0191]">
+		<description>Sakura Taisen 3 Drama Download Disc v1.000 (2002)(Sega)(JP)[!][2M1, 2M2, 2M3][Sakura Taisen 4, HDR-0191]</description>
+		<rom name="Sakura Taisen 3 Drama Download Disc v1.000 (2002)(Sega)(JP)[!][2M1, 2M2, 2M3][Sakura Taisen 4, HDR-0191].gdi" size="87" crc="860d5af3" sha1="bd6d44f93c4d6106546f590449e908213cf173c3" md5="9fe0346902f370d3b5051b9d8d382a52"/>
+		<rom name="track01.bin" size="1220688" crc="d34bf5d6" sha1="53da8d1aa2540d540648e63e03c3e23b7eae5bce" md5="7a3acb9b49b2355bcc39f18b00c73bf5"/>
+		<rom name="track02.raw" size="1735776" crc="a8747b6a" sha1="6c204a598cc4677924ef629dd8df34d633cf3432" md5="0d9a9f0a2cebf05eab6cd56a7beb1773"/>
+		<rom name="track03.bin" size="1185760800" crc="523f4615" sha1="7f4906d2ba97bad48d29e58c609fa03ba2797fb4" md5="066ab56c3bfa4290b6be101099176e62"/>
+	</game>
+	<game name="Sakura Taisen 3 Drama Download Disc v1.000 (2002)(Sega)(JP)[!][HM223C, HM223F, HM223G][Sakura Taisen 4, HDR-0191]">
+		<description>Sakura Taisen 3 Drama Download Disc v1.000 (2002)(Sega)(JP)[!][HM223C, HM223F, HM223G][Sakura Taisen 4, HDR-0191]</description>
+		<rom name="Sakura Taisen 3 Drama Download Disc v1.000 (2002)(Sega)(JP)[!][HM223C, HM223F, HM223G][Sakura Taisen 4, HDR-0191].gdi" size="87" crc="860d5af3" sha1="bd6d44f93c4d6106546f590449e908213cf173c3" md5="9fe0346902f370d3b5051b9d8d382a52"/>
+		<rom name="track01.bin" size="1220688" crc="d34bf5d6" sha1="53da8d1aa2540d540648e63e03c3e23b7eae5bce" md5="7a3acb9b49b2355bcc39f18b00c73bf5"/>
+		<rom name="track02.raw" size="1735776" crc="0de03f29" sha1="db680939aae4bf61d0e588414c72a47c6dd92cdd" md5="d09be539a7074a058159505b7f5fdcb3"/>
+		<rom name="track03.bin" size="1185760800" crc="523f4615" sha1="7f4906d2ba97bad48d29e58c609fa03ba2797fb4" md5="066ab56c3bfa4290b6be101099176e62"/>
+	</game>
+	<game name="Sakura Taisen Dream Passport 3 v1.007 (2000)(Sega)(JP)[!]">
+		<description>Sakura Taisen Dream Passport 3 v1.007 (2000)(Sega)(JP)[!]</description>
+		<rom name="Sakura Taisen Dream Passport 3 v1.007 (2000)(Sega)(JP)[!].gdi" size="87" crc="d7ab4c6b" sha1="9d50b816d3f69ad192f5986ab487769965c2e082" md5="b3ecdf113fd42344dd84142679e4cb36"/>
+		<rom name="track01.bin" size="705600" crc="a6f2f540" sha1="e70d69ae6bba497fc51106b01114016463ab9db3" md5="f4c008b17d30d30f79210332c0d71423"/>
+		<rom name="track02.raw" size="9384480" crc="f46aa2c8" sha1="2952f9ba8900f1ce72ce606bd65e33b6ed0fbc2f" md5="2508f141288953942bb2df8b641e0517"/>
+		<rom name="track03.bin" size="1185760800" crc="9adb19a7" sha1="c67a045039a1883b024e4cad2f39f17d9d05a28e" md5="46eefb6d212724c806e29408b5ef0700"/>
+	</game>
+	<game name="Sega Dreamcast Web Browser 2.62 v2.613 (2001)(Sega)(US)[!]">
+		<description>Sega Dreamcast Web Browser 2.62 v2.613 (2001)(Sega)(US)[!]</description>
+		<rom name="Sega Dreamcast Web Browser 2.62 v2.613 (2001)(Sega)(US)[!].gdi" size="244" crc="26c8210d" sha1="8d0881eb2ab223db046667dac828acc3b961b576" md5="b6f241a22f1af08110aa6716eafa280b"/>
+		<rom name="track01.bin" size="27802992" crc="4bb4b027" sha1="7c19146d8957591964b713ce38e0768bb02fd644" md5="f84abfc52a8696aa1a65885c50706dc8"/>
+		<rom name="track02.raw" size="1237152" crc="bd183909" sha1="360298f771300dec8f3f9615f823bfeaa0a06a11" md5="6771ad0784111a4c2a096c1c39f479e3"/>
+		<rom name="track03.bin" size="1075475520" crc="d5eb2552" sha1="9b96e81064c6e8f22d5ea81ec95e65aabfe2ff01" md5="349c3eb630e5226865994d462fdaac77"/>
+		<rom name="track04.raw" size="29409408" crc="2bd3388e" sha1="9ea02174bd9c72cb423efb0365ee8c57a189dd77" md5="f265488d585d427308548a616d97be83"/>
+		<rom name="track05.raw" size="10769808" crc="0ce3b1a3" sha1="08ddb725661e31cfd74f329b5eda574ccd61604b" md5="7a53044c229b284b1608080b78d840e2"/>
+		<rom name="track06.raw" size="21036288" crc="cd3ec96f" sha1="2a03389d163da50c11631363abdbea8f61602280" md5="a91c7a7e03cdb27b06090313903633cc"/>
+		<rom name="track07.raw" size="38097696" crc="3c7c0e6c" sha1="8b32d0381a7d7a269328abc00418181b86f63ee6" md5="1b7a081296d75d11cde83347f3385874"/>
+		<rom name="track08.bin" size="10266480" crc="1722cd5a" sha1="0e1dfd0e9b46798cdf6b06e8e6290c4f6fb24e2d" md5="206408d4ff83e485d125687fa839cd9b"/>
+	</game>
+	<game name="Sega Dreamcast Web Browser v1.124 (1999)(Sega)(US)[!][1S]">
+		<description>Sega Dreamcast Web Browser v1.124 (1999)(Sega)(US)[!][1S]</description>
+		<rom name="Sega Dreamcast Web Browser v1.124 (1999)(Sega)(US)[!][1S].gdi" size="149" crc="21956a9b" sha1="459d15959d5ad9d97f4e310adf5aaad424f4dc8d" md5="10d7475c17a0b62fb15b5bbd8aab71e1"/>
+		<rom name="track01.bin" size="1342992" crc="8f8c1f37" sha1="c577f92a8ca2bec7ae1e94c9c5150055ed61a2e7" md5="599575ba5931d695425c8a0864ec25ed"/>
+		<rom name="track02.raw" size="1166592" crc="f4bbf1ac" sha1="93a191c4a402e3741cea9781b6c466ecd4578724" md5="591b5ceffdc9e14902fc18784150f93b"/>
+		<rom name="track03.bin" size="1169865984" crc="232097ec" sha1="2ea75e15892c13f2a1e848a32ab1f4d38071a37c" md5="8fd2246bb1a60d48e768bebb5264448f"/>
+		<rom name="track04.raw" size="990192" crc="f53eaa8e" sha1="2f31a02941a3eba752e2c44c92faa2a1997e0b69" md5="0f78b151430ff7f2e3274146afd9f2e7"/>
+		<rom name="track05.bin" size="14199024" crc="6b713d1f" sha1="75c397bf7e3ab3c4e38f4839a1978e5b2bed6c11" md5="48258c5475cccb23fb6b5f382429a47d"/>
+	</game>
+	<game name="Sega Dreamcast Web Browser v1.125 (1999)(Sega)(US)[!][9H037F, 9H037I]">
+		<description>Sega Dreamcast Web Browser v1.125 (1999)(Sega)(US)[!][9H037F, 9H037I]</description>
+		<rom name="Sega Dreamcast Web Browser v1.125 (1999)(Sega)(US)[!][9H037F, 9H037I].gdi" size="149" crc="21956a9b" sha1="459d15959d5ad9d97f4e310adf5aaad424f4dc8d" md5="10d7475c17a0b62fb15b5bbd8aab71e1"/>
+		<rom name="track01.bin" size="1342992" crc="ff983b44" sha1="204266c30cbede2ea18265082b95d15cc7198e14" md5="2c0ed2cef84b93187ef7f484f812a116"/>
+		<rom name="track02.raw" size="1166592" crc="6e05f61e" sha1="f1849e96005ebd0d4e0762ec2357a08a723cda1f" md5="c1774d74e7f31b8f2ef74af2d7f28010"/>
+		<rom name="track03.bin" size="1169865984" crc="49a843a4" sha1="5181e432665863c37b43058b38f4d03cfead5f2e" md5="423c1693a25e8e2450f0fae9ff0a60af"/>
+		<rom name="track04.raw" size="990192" crc="b3322879" sha1="d6a9fdab713e1adc90763d1f73dbf605bab9cd70" md5="7f45034fc9b914871365595df8fb6f48"/>
+		<rom name="track05.bin" size="14199024" crc="a3bf9845" sha1="baec2fbc9561f587ddd9ce8eee9e110d2dd9ec37" md5="952d3be73dd71e0c0293844d7d87de02"/>
+	</game>
+	<game name="Sega Dreamcast Web Browser v1.125 (1999)(Sega)(US)[!][MK-51027A]">
+		<description>Sega Dreamcast Web Browser v1.125 (1999)(Sega)(US)[!][MK-51027A]</description>
+		<rom name="Sega Dreamcast Web Browser v1.125 (1999)(Sega)(US)[!][MK-51027A].gdi" size="149" crc="21956a9b" sha1="459d15959d5ad9d97f4e310adf5aaad424f4dc8d" md5="10d7475c17a0b62fb15b5bbd8aab71e1"/>
+		<rom name="track01.bin" size="1342992" crc="ff983b44" sha1="204266c30cbede2ea18265082b95d15cc7198e14" md5="2c0ed2cef84b93187ef7f484f812a116"/>
+		<rom name="track02.raw" size="1166592" crc="c84c01c4" sha1="ef1e4a1a56cd5fefbafe04de1cf3c72ac9eba97e" md5="9ccc32f280a2e23d2bf25447ffa7088f"/>
+		<rom name="track03.bin" size="1169865984" crc="49a843a4" sha1="5181e432665863c37b43058b38f4d03cfead5f2e" md5="423c1693a25e8e2450f0fae9ff0a60af"/>
+		<rom name="track04.raw" size="990192" crc="047307cd" sha1="8a5cd105e395f67b9c304b69a1d37f225eac63fc" md5="66ca7014a086b626797cb01e6bac51af"/>
+		<rom name="track05.bin" size="14199024" crc="a3bf9845" sha1="baec2fbc9561f587ddd9ce8eee9e110d2dd9ec37" md5="952d3be73dd71e0c0293844d7d87de02"/>
+	</game>
+	<game name="Segakara for Dreamcast v1.002 (2001)(Sega Music Networks)(JP)[!][Dreamcast Karaoke, HKT-4301]">
+		<description>Segakara for Dreamcast v1.002 (2001)(Sega Music Networks)(JP)[!][Dreamcast Karaoke, HKT-4301]</description>
+		<rom name="Segakara for Dreamcast v1.002 (2001)(Sega Music Networks)(JP)[!][Dreamcast Karaoke, HKT-4301].gdi" size="87" crc="d7ab4c6b" sha1="9d50b816d3f69ad192f5986ab487769965c2e082" md5="b3ecdf113fd42344dd84142679e4cb36"/>
+		<rom name="track01.bin" size="705600" crc="b4fdb8a7" sha1="647ab085620359cf93142a3f177cab25822eadfb" md5="e4a5c691e8ba32fb7b0c874ee9b49351"/>
+		<rom name="track02.raw" size="1735776" crc="48cd28e6" sha1="0556fd02c23944afe8ca6c4ed17437c2c25a3464" md5="e3b351c57d497ecb283fddfb11ccb2d9"/>
+		<rom name="track03.bin" size="1185760800" crc="390941f1" sha1="f866b97c8688531b7d2dbc646e507a595d8fc667" md5="8c7ae421afeeb3219fdc49392be3ae09"/>
+	</game>
+	<game name="Virtua Fighter 4 Passport - VF.NET v1.001 (2001)(Sega)(JP)[!][HL809C, D][Shenmue II, HDR-0179]">
+		<description>Virtua Fighter 4 Passport - VF.NET v1.001 (2001)(Sega)(JP)[!][HL809C, D][Shenmue II, HDR-0179]</description>
+		<rom name="track01.bin" size="705600" crc="abfbea66" sha1="e8ec73d30b1200922861fe710e3c6399fbc7789a" md5="b6447509d93088534d459166a1fb3d24"/>
+		<rom name="track02.raw" size="1735776" crc="0de03f29" sha1="db680939aae4bf61d0e588414c72a47c6dd92cdd" md5="d09be539a7074a058159505b7f5fdcb3"/>
+		<rom name="track03.bin" size="1185760800" crc="2a9d0056" sha1="664eb899d4ab4b3c4316c15e9c34fea5309cfd99" md5="642199ae6218819c96608eb9f516b13c"/>
+		<rom name="Virtua Fighter 4 Passport - VF.NET v1.001 (2001)(Sega)(JP)[!][HL809C, D][Shenmue II, HDR-0179].gdi" size="87" crc="d7ab4c6b" sha1="9d50b816d3f69ad192f5986ab487769965c2e082" md5="b3ecdf113fd42344dd84142679e4cb36"/>
+	</game>
+	<game name="Visual Park v1.010 (2000)(Sega)(JP)[!][Dreameye, HKT-9402]">
+		<description>Visual Park v1.010 (2000)(Sega)(JP)[!][Dreameye, HKT-9402]</description>
+		<rom name="track01.bin" size="705600" crc="a1bbc180" sha1="d7cc3e7595643e92a0e88f2b683edd22e034fce6" md5="0c31640350addf61acd53fb77b92025f"/>
+		<rom name="track02.raw" size="1735776" crc="0de03f29" sha1="db680939aae4bf61d0e588414c72a47c6dd92cdd" md5="d09be539a7074a058159505b7f5fdcb3"/>
+		<rom name="track03.bin" size="941660832" crc="db24d62d" sha1="bf311f73af3b32cc261d09f503df3eb68d0bd63c" md5="3ce16463edea2dc34d5c99b11e1f862b"/>
+		<rom name="track04.raw" size="8438976" crc="8c478c19" sha1="c85b49451956a24d512d3e214bc2f0419de6ad87" md5="9334aa4e421c8789a3c3a0a66cf5195d"/>
+		<rom name="track05.raw" size="9664368" crc="498051ac" sha1="70e862bf5c5536fa017576e85737b31c2c4c9784" md5="95cb7707a6596dee582e2997d0acb57a"/>
+		<rom name="track06.raw" size="6213984" crc="1d28747d" sha1="c343caf4f6320f81c92b7006ad0d91884e44bccb" md5="c90d2a86c729316b33192935f8b9a17e"/>
+		<rom name="track07.raw" size="32368224" crc="eba9769d" sha1="70ded81248898c58c3ff0de16672fe874b6a124c" md5="937ce0a18ab6484bfded680224b81e1a"/>
+		<rom name="track08.raw" size="32504640" crc="5ba41ecf" sha1="fda6b9bb154e0376ec76ed0496bf4d7cee4af977" md5="9fd4bfd869583ad0a3ee23d4259d0471"/>
+		<rom name="track09.raw" size="6216336" crc="31b43232" sha1="d135acd83f05b5000924a61f63fc3058a9637868" md5="86a7a7a75851ec57f2dbd091a9befd32"/>
+		<rom name="track10.raw" size="13841520" crc="7eb7c9c1" sha1="a51c6a1c23617d956a16c2e57bbc90b64faa8511" md5="0280ae2d0ff6b93fb7eebf66daa9d12e"/>
+		<rom name="track11.raw" size="121160928" crc="42e4aea1" sha1="b98735f91da94263dc384ee63d8736978b463168" md5="7942efe9d4606d29e8a27a0b0a0b331c"/>
+		<rom name="track12.raw" size="10019520" crc="552b5828" sha1="69ea350d9c7173b5e3ec29a7777a328fb4bf32b6" md5="8d0474ff9f810c2c9f45f3e045a5f6a9"/>
+		<rom name="track13.bin" size="2965872" crc="7150f0ba" sha1="073f3faa3462b83fae3b43b384cc312160b48b27" md5="1155e6d62397ce3bd3440db91594707f"/>
+		<rom name="Visual Park v1.010 (2000)(Sega)(JP)[!][Dreameye, HKT-9402].gdi" size="402" crc="f49c1bce" sha1="ace89a5041c0bb4cdeff8bfca4d6794f16dcd4b8" md5="afbca30354c13279ec9878f3f1ce0e56"/>
+	</game>
+	<game name="Web Browser 2.0 v2.004 (2000)(Sega)(US)[!]">
+		<description>Web Browser 2.0 v2.004 (2000)(Sega)(US)[!]</description>
+		<rom name="track01.bin" size="2274384" crc="6b9c2ca2" sha1="3621ad5c87bbd8904222caedbe5b07bf38143646" md5="f50af29510858f9bdda0e9c88b3fda0d"/>
+		<rom name="track02.raw" size="1237152" crc="dd6fb107" sha1="4b9ed2a2eefaae6691674522b9f047a066304a75" md5="94fde9cacd7a4b3c18d8918836e9cda5"/>
+		<rom name="track03.bin" size="1136733360" crc="76941ae8" sha1="e00a2f9099ec2bd5171c80c5a659674f41d30335" md5="aaf7ef2c32a5021a5d3b1e5cf9d2482d"/>
+		<rom name="track04.raw" size="1060752" crc="bfdf6078" sha1="471abb758a709c9d678bd2e76f31a6d721b5f4f0" md5="166d547d4b80a87ad3538f9377fbf6d8"/>
+		<rom name="track05.bin" size="47261088" crc="89a83ab9" sha1="cec2534abd3560f0c1b9671f788962bbf2ee9183" md5="01edf7eba96a84ef5adc7aea1118d8a9"/>
+		<rom name="Web Browser 2.0 v2.004 (2000)(Sega)(US)[!].gdi" size="150" crc="2174520a" sha1="fe538274cfe01df930ca5f780c62a5852f6b4686" md5="711d77e7ef227bec68f39f8afb24a933"/>
+	</game>
+	<game name="Web Browser 2.0 with SegaNet v2.100 (2000)(Sega)(US)[!][3S]">
+		<description>Web Browser 2.0 with SegaNet v2.100 (2000)(Sega)(US)[!][3S]</description>
+		<rom name="track01.bin" size="13128864" crc="d4a21e7d" sha1="4aca559bf5f7f7cadea6fab75db48307fce4ecac" md5="1e74944afedef399a37685fca038b358"/>
+		<rom name="track02.raw" size="1237152" crc="ad086c11" sha1="250aefc2ffbfffaa01bee2e40063b3bfa45e3221" md5="b20a38bd5e5fc2941c44826894e4a9eb"/>
+		<rom name="track03.bin" size="1156497216" crc="91e86a10" sha1="0f8d031206369f7150bbd8baf0bdc879979d7714" md5="d7f4aa347c53b6e0f46f92ac22666a21"/>
+		<rom name="track04.raw" size="20859888" crc="8fe7b227" sha1="4164980bfb060c914fc69531dbc77694ba878b26" md5="f7b89daaaf934a97d6e1d1443a45866c"/>
+		<rom name="track05.bin" size="7698096" crc="cdea6e2f" sha1="619eda5d62c6b9e73570206fe8fc1b6f7c32a36c" md5="a35981b29f49524ed876365859b3982c"/>
+		<rom name="Web Browser 2.0 with SegaNet v2.100 (2000)(Sega)(US)[!][3S].gdi" size="150" crc="6f9f28a3" sha1="96f4ddd7fa5db7c9bf71765a895eace72412ceaf" md5="859abd08a958c65e1223f8519bc6f716"/>
+	</game>
+	<game name="Yumebaken &apos;99 Internet v1.003 (1999)(Shangri-La)(JP)[!]">
+		<description>Yumebaken &apos;99 Internet v1.003 (1999)(Shangri-La)(JP)[!]</description>
+		<rom name="track01.bin" size="1470000" crc="417c98c8" sha1="7af98f5903c07885525c024a9b856d17c7ec3725" md5="77040e1238c399930d873b4a8eaaeac9"/>
+		<rom name="track02.raw" size="1735776" crc="e15ca557" sha1="1ebe02f984ce39d99984d483a8703dbaccbcced0" md5="d46e801ec30b893cba5f088bf037576f"/>
+		<rom name="track03.bin" size="1185760800" crc="0c107ca4" sha1="4182d5da383966f698bbf37c0d84185a3d231385" md5="52ff92e36d84feb5ef27860b933c5af9"/>
+		<rom name="Yumebaken &apos;99 Internet v1.003 (1999)(Shangri-La)(JP)[!].gdi" size="87" crc="b220115c" sha1="2a37adc5e75d6f43b27bc61dc4fc09d5ad473ce0" md5="9d1f603062285fdb7bc099ed4d1e5ff1"/>
+	</game>
+</datafile>
+

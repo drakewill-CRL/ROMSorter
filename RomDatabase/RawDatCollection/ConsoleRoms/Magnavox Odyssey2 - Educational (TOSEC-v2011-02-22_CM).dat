@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Magnavox Odyssey2 - Educational</name>
+		<description>Magnavox Odyssey2 - Educational (TOSEC-v2011-02-22)</description>
+		<category>TOSEC</category>
+		<version>2011-02-22</version>
+		<author>Grendel - BuckyB - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="I've Got Your Number (1980)(Philips)(EU-US)">
+		<description>I've Got Your Number (1980)(Philips)(EU-US)</description>
+		<rom name="I've Got Your Number (1980)(Philips)(EU-US).bin" size="2048" crc="1c8368e7" md5="a3c4d975fcabbee4fdb253eb414242ee" sha1="498cb0882d8a692042889e83775a83cf267a1837"/>
+	</game>
+	<game name="Kinder im Verkehr 1 (1982)(CSV - Philips)(DE)">
+		<description>Kinder im Verkehr 1 (1982)(CSV - Philips)(DE)</description>
+		<rom name="Kinder im Verkehr 1 (1982)(CSV - Philips)(DE).bin" size="2048" crc="9c9dddf9" md5="e074c77e2a2a8be6d7bcab50e11d6948" sha1="9b73685f7d2008467d4449a3bfedef6e763b5948"/>
+	</game>
+	<game name="Math-A-Magic + Echo (1980)(Philips)(EU-US)">
+		<description>Math-A-Magic + Echo (1980)(Philips)(EU-US)</description>
+		<rom name="Math-A-Magic + Echo (1980)(Philips)(EU-US).bin" size="2048" crc="dc5afaa2" md5="9aa512409f1e3d10bfe2c2f2924c7a31" sha1="4dac55de1afadc1af2ac9166d7d47c462a8e797a"/>
+	</game>
+	<game name="Mathematicien + Echo (1980)(Philips)(FR)">
+		<description>Mathematicien + Echo (1980)(Philips)(FR)</description>
+		<rom name="Mathematicien + Echo (1980)(Philips)(FR).bin" size="2048" crc="0c4e4b0a" md5="fe079714c9529588ff999910bdabc89e" sha1="d96c65670b9a3a4feedcb720807292708951fcd5"/>
+	</game>
+	<game name="Morse (1983)(Philips)(EU)">
+		<description>Morse (1983)(Philips)(EU)</description>
+		<rom name="Morse (1983)(Philips)(EU).bin" size="2048" crc="2122012c" md5="6fd09253957ec9018f2c80b7663bc8e4" sha1="8431f56359d80ff6a67c83c50c12fa5d8bc46ff3"/>
+	</game>
+	<game name="Morse (1983)(Philips)(FR)">
+		<description>Morse (1983)(Philips)(FR)</description>
+		<rom name="Morse (1983)(Philips)(FR).bin" size="2048" crc="510416b7" md5="441f68a94b7b92fd5e7cccad07256e4c" sha1="11065dfbc22dd9ed7609cbcc7f8c6d3bc5b004ee"/>
+	</game>
+	<game name="Nimble Numbers Ned (1978)(Philips)(US)">
+		<description>Nimble Numbers Ned (1978)(Philips)(US)</description>
+		<rom name="Nimble Numbers Ned (1978)(Philips)(US).bin" size="4096" crc="cf2f8e7a" md5="98b2ed525aa9c060e8be6c6210d16e41" sha1="01dd021a1bcdafb58cb2bcca051934f05e978c53"/>
+	</game>
+	<game name="Sid the Spellbinder (1978)(Philips)(US)">
+		<description>Sid the Spellbinder (1978)(Philips)(US)</description>
+		<rom name="Sid the Spellbinder (1978)(Philips)(US).bin" size="4096" crc="1b9f2f16" md5="23ba6403e7206063d65dec507a30664a" sha1="dfed128d213d4192313f85fe2b8716579c2fc995"/>
+	</game>
+	<game name="Verkehrsspiele Traffic Games 1 (1982)(CSV - Philips)(DE)">
+		<description>Verkehrsspiele Traffic Games 1 (1982)(CSV - Philips)(DE)</description>
+		<rom name="Verkehrsspiele Traffic Games 1 (1982)(CSV - Philips)(DE).bin" size="2048" crc="45e62222" md5="317644c85ba8f8fde8f7b60114a03288" sha1="e90f2a33e41d9bd4c50e96eacc483bc99e53993b"/>
+	</game>
+	<game name="Verkehrsspiele Traffic Games 2 (1982)(CSV - Philips)(DE)">
+		<description>Verkehrsspiele Traffic Games 2 (1982)(CSV - Philips)(DE)</description>
+		<rom name="Verkehrsspiele Traffic Games 2 (1982)(CSV - Philips)(DE).bin" size="2048" crc="69893f7f" md5="a465615508dfb5ea1c5b0e18c97711a5" sha1="0904ea45c011d12857477db04b4d1c87544f27e6"/>
+	</game>
+</datafile>

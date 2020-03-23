@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Telcon Zorba - Firmware</name>
+		<description>Telcon Zorba - Firmware (TOSEC-v2018-03-08)</description>
+		<category>TOSEC</category>
+		<version>2018-03-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Zorba BIOS v1.8Z (1986-06-01)(Zeus)">
+		<description>Zorba BIOS v1.8Z (1986-06-01)(Zeus)</description>
+		<rom name="Zorba BIOS v1.8Z (1986-06-01)(Zeus).td0" size="116362" crc="51e4746a" md5="23c8a9debf3954661ff59ed2d96bd5da" sha1="ed363b3ef97e273ac887a46c1a839dc8b5d15307"/>
+	</game>
+</datafile>

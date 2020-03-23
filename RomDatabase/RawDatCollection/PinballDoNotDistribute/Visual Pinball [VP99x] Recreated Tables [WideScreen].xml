@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Visual Pinball [VP99x] Recreated Tables [WideScreen]</name>
+		<description>Visual Pinball [VP99x] Recreated Tables [WideScreen]</description>
+		<category>Visual Pinball [VP99x] Recreated Tables [WideScreen]</category>
+		<version>1.0</version>
+		<date>2020-01-01</date>
+		<author>Yori Yoshizuki</author>
+		<email>-insert email-</email>
+		<homepage>Yori Yoshizuki</homepage>
+		<url>https://yoshizuki.webs.com</url>
+		<comment>-insert comment-</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Jet Spin (Gottlieb)(1977)">
+		<description>Jet Spin (Gottlieb)(1977)</description>
+		<rom name="Jet Spin (Gottlieb)(1977)(Loserman76, GNance)(1.0)[VP99x][WideScreen Loserman76]\Jet Spin (Gottlieb) (1977).vpt" size="42352640" crc="92301bea" sha1="2163269116448228526dc04abe0d786b9d64aa39"/>
+		<rom name="Jet Spin (WideScreen) screenshot.png" size="2887554" crc="bace8ce9" sha1="7c9bebde152d15d2e188a115768a96483be1ac8f"/>
+	</machine>
+</datafile>

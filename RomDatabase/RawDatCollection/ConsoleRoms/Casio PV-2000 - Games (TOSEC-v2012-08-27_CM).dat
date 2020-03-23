@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Casio PV-2000 - Games</name>
+		<description>Casio PV-2000 - Games (TOSEC-v2012-08-27)</description>
+		<category>TOSEC</category>
+		<version>2012-08-27</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Front Line (1983)(Taito)">
+		<description>Front Line (1983)(Taito)</description>
+		<rom name="Front Line (1983)(Taito).bin" size="8192" crc="86692c58" md5="756f92a2550b316a9975bcc4b92a5f5a" sha1="5891483952658589102f396b260fadf33ce9c32b"/>
+	</game>
+	<game name="Galaga (1981)(Namco)">
+		<description>Galaga (1981)(Namco)</description>
+		<rom name="Galaga (1981)(Namco).bin" size="8192" crc="e5befcf6" md5="f4caacf3705cd7986c249dbef7863f80" sha1="e3b4c7b1dc1a741eb098709ac41297a2c91ea444"/>
+	</game>
+	<game name="Pachinko - UFO (198x)(Casio)">
+		<description>Pachinko - UFO (198x)(Casio)</description>
+		<rom name="Pachinko - UFO (198x)(Casio).bin" size="16384" crc="1261e766" md5="29ed7d00bf6bb7e4828844f565ec78a7" sha1="0c7a3f865e72fc8b3f39f66c0b48bf60cd2de599"/>
+	</game>
+	<game name="Rakugaki (19xx)(-)">
+		<description>Rakugaki (19xx)(-)</description>
+		<rom name="Rakugaki (19xx)(-).bin" size="16384" crc="a34d1bd1" md5="b8f820e711d9a06c46d118aba2d3756e" sha1="54a543d08e865c85c32358edce8a6fcfa3ad9fcc"/>
+	</game>
+	<game name="Roc'n Rope (1983)(Konami)">
+		<description>Roc'n Rope (1983)(Konami)</description>
+		<rom name="Roc'n Rope (1983)(Konami).bin" size="8192" crc="f8c9c2d9" md5="86ad382800d85886909e7f3c045f9e13" sha1="2744e448f9537fbca1e65cbd3646678100777de3"/>
+	</game>
+</datafile>

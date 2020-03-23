@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega Master System [T-En]</name>
+		<description>Sega Master System [T-En]</description>
+		<category>English Translations</category>
+		<version>20120706</version>
+		<date>20120706</date>
+		<author>Powerpuff</author>
+		<email>-insert email-</email>
+		<homepage>Maybe-Intro</homepage>
+		<url>http://maybeintro.wordpress.com/</url>
+		<comment>Maybe-Intro</comment>
+		<clrmamepro/>
+	</header>
+	<game name="_Sega Master System [T-En] Docs">
+		<description>_Sega Master System [T-En] Docs</description>
+		<rom name="High School! Kimengumi (Japan) [T-En by SMS Power v1.00].txt" size="271" crc="bbafd523" md5="d0944ba4c81183f658cfbc1932f78cd2" sha1="095a52a72edfa2bd171e9fd9bbf9e113228d0210"/>
+		<rom name="Phantasy Star (Japan) [T-En by SMS Power v1.02] - Manual.pdf" size="2415728" crc="b7a14d48" md5="653a31234bef68d1139b4a5c0c6092c6" sha1="43e323d904c9296ba0ddf42b9beed557ba1fb3c3"/>
+		<rom name="Phantasy Star (Japan) [T-En by SMS Power v1.02].txt" size="8160" crc="347c7493" md5="558a598b067252f2c31f46e63e621616" sha1="c63355936548e3fd19091181b5e34b48f3eaa851"/>
+		<rom name="Story of Mio, The (Japan) [T-En by Matt's Messy Room v1.0] [n].txt" size="9914" crc="f4545193" md5="d7c3df6f513a288d8e5bc3fdde8a38f4" sha1="3ab09a65443c350603120084cc58bf8941e8b5bf"/>
+		<rom name="Sukeban Deka II - Shoujo Tekkamen Densetsu (Japan) [T-En by Enigmaopoeia+S.Seehorn v1.0].txt" size="4647" crc="d3e4b6fd" md5="be86e5368b991a36230ea781d34693ff" sha1="5e20d64dcd9cb25eb5b6444fe93495273791677b"/>
+	</game>
+	<game name="High School! Kimengumi (Japan) [T-En by SMS Power v1.00]">
+		<description>High School! Kimengumi (Japan) [T-En by SMS Power v1.00]</description>
+		<rom name="High School! Kimengumi (Japan) [T-En by SMS Power v1.00].sms" size="131072" crc="8a296a3e" md5="471e80fed601261667b1fc6242396239" sha1="f4350a41ec6cd685e21b09ce471c3456646d6904"/>
+	</game>
+	<game name="Phantasy Star (Japan) [T-En by SMS Power v1.02]">
+		<description>Phantasy Star (Japan) [T-En by SMS Power v1.02]</description>
+		<rom name="Phantasy Star (Japan) [T-En by SMS Power v1.02].sms" size="524288" crc="70e89681" md5="a0f614f26e99633493e3a3339bc85586" sha1="82067c389b26f65f5a1106a9894a0b19dd3c54f9"/>
+	</game>
+	<game name="Story of Mio, The (Japan) [T-En by Matt's Messy Room v1.0] [n]">
+		<description>Story of Mio, The (Japan) [T-En by Matt's Messy Room v1.0] [n]</description>
+		<rom name="Hoshi wo Sagasite... (Japan) [T-En by Matt's Messy Room v1.0].sms" size="262144" crc="b5ce862f" md5="87357229d77a4c796b57f45c243456d1" sha1="641ae3eb1cb476359a0a0ade2f45437d47e24361"/>
+	</game>
+	<game name="Sukeban Deka II - Shoujo Tekkamen Densetsu (Japan) [T-En by Enigmaopoeia+S.Seehorn v1.0]">
+		<description>Sukeban Deka II - Shoujo Tekkamen Densetsu (Japan) [T-En by Enigmaopoeia+S.Seehorn v1.0]</description>
+		<rom name="Sukeban Deka II - Shoujo Tekkamen Densetsu (Japan) [T-En by Enigmaopoeia+S.Seehorn v1.0].sms" size="262144" crc="0950a312" md5="5aab1adbbb642daa2ecbf6333e68807d" sha1="79590e6232c14c2577e346391d7c1db481c824c2"/>
+	</game>
+</datafile>

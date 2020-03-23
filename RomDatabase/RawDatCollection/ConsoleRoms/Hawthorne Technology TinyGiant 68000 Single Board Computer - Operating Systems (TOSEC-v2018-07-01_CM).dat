@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Hawthorne Technology TinyGiant 68000 Single Board Computer - Operating Systems</name>
+		<description>Hawthorne Technology TinyGiant 68000 Single Board Computer - Operating Systems (TOSEC-v2018-07-01)</description>
+		<category>TOSEC</category>
+		<version>2018-07-01</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="K-OS One (1986)(Hawthorne Technology)(US)">
+		<description>K-OS One (1986)(Hawthorne Technology)(US)</description>
+		<rom name="K-OS One (1986)(Hawthorne Technology)(US).td0" size="306305" crc="8a10d01a" md5="7ed88fd333a58c7da6443f74a5b33fba" sha1="435fc374980e53077008444aca4ebd22bb406061"/>
+	</game>
+</datafile>

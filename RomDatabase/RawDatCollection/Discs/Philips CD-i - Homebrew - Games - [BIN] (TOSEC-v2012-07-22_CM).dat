@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Philips CD-i - Homebrew - Games - [BIN]</name>
+		<description>Philips CD-i - Homebrew - Games - [BIN] (TOSEC-v2012-07-22)</description>
+		<category>TOSEC-ISO</category>
+		<version>2012-07-22</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Connaone (demo) (2007-11-04)(RasterSoft)">
+		<description>Connaone (demo) (2007-11-04)(RasterSoft)</description>
+		<rom name="Connaone (demo) (2007-11-04)(RasterSoft).bin" size="5644800" crc="2e9276aa" md5="1abfb677aca63d30276cff7216ba319b" sha1="f84a9d031a29fb49d2eac1058d2bc50f00b7de8b"/>
+		<rom name="Connaone (demo) (2007-11-04)(RasterSoft).cue" size="106" crc="9fae04d3" md5="18eb467d88b5c5dea7981e171863cff2" sha1="760aa962d031187377a702c1a670c9df88e5188d"/>
+	</game>
+	<game name="Frog Feast (demo) (2005-04-11)(RasterSoft)">
+		<description>Frog Feast (demo) (2005-04-11)(RasterSoft)</description>
+		<rom name="Frog Feast (demo) (2005-04-11)(RasterSoft).bin" size="5644800" crc="ec6a1db5" md5="d33037234ddb8a6536c0c6d8201754cd" sha1="1f05241bf51f71530c3dd029608a168446de8bf2"/>
+		<rom name="Frog Feast (demo) (2005-04-11)(RasterSoft).cue" size="104" crc="1a0ddd94" md5="303e5c09cd92136e4fbc7ba599e0e5a6" sha1="da9cd40e0e8e3b467df3b8b2952f0e768bc5240f"/>
+	</game>
+</datafile>

@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Microkey Primo - Firmware</name>
+		<description>Microkey Primo - Firmware (TOSEC-v2011-09-04)</description>
+		<category>TOSEC</category>
+		<version>2011-09-04</version>
+		<author>Gruby</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="FDU 1109 Primo Floppy (1985)(Microkey - COSY)">
+		<description>FDU 1109 Primo Floppy (1985)(Microkey - COSY)</description>
+		<rom name="fdu1109_1.bin" size="4096" crc="11b13749" md5="fd4f60066da308c10b552c95e0ccc571" sha1="3b949cb76260cceaa12917a04aa1cba4e66676f5"/>
+		<rom name="fdu1109_2.bin" size="4096" crc="8a63a027" md5="c9b9d4688f6f46e433682f9c3eb4fa0a" sha1="6f923f7d9881ec5dc1775f612b78ef010d497d82"/>
+	</game>
+	<game name="FDU 1109 Primo Floppy (1985)(Microkey - COSY)[C16 version]">
+		<description>FDU 1109 Primo Floppy (1985)(Microkey - COSY)[C16 version]</description>
+		<rom name="fdu1109_c16_1.bin" size="4096" crc="da1b7b4c" md5="bcc03dfc5eb64007b3576f7919201222" sha1="bba97d3fdc898cb23f7509f68f7f59dab9cff59f"/>
+		<rom name="fdu1109_c16_2.bin" size="4096" crc="fea3699a" md5="332ac6dcf0bee273a73edfa826c55d28" sha1="66bd375ff314edcf5d884afb01645afa9b92e01e"/>
+	</game>
+	<game name="Primo Basic System '84.1 (1984)(Microkey)[A-32K Merged]">
+		<description>Primo Basic System '84.1 (1984)(Microkey)[A-32K Merged]</description>
+		<rom name="A-32.rom" size="16384" crc="3f59dbea" md5="f2e1a3fe1a0f5a8947be885547e92fe2" sha1="1071770ad70d16d980ef5e389655f3f46db6f6d0"/>
+	</game>
+	<game name="Primo Basic System '84.1 (1984)(Microkey)[A-32K v2 MESS]">
+		<description>Primo Basic System '84.1 (1984)(Microkey)[A-32K v2 MESS]</description>
+		<rom name="a32-v2.rom" size="16384" crc="1544b8cc" md5="dd43b04d96b8594401e42e5819de6f5d" sha1="6a9e67027a349fa3d14cb3624099b0770564c5dd"/>
+	</game>
+	<game name="Primo Basic System '84.1 (1984)(Microkey)[A-32K]">
+		<description>Primo Basic System '84.1 (1984)(Microkey)[A-32K]</description>
+		<rom name="1_A-32.bin" size="4096" crc="4e91c1a4" md5="43c0ad0fef5d7af5073b7b13bd446a75" sha1="bf6e41b6b36a2556a50065e9acfd8cd57968f039"/>
+		<rom name="2_AB-XX.bin" size="4096" crc="81a8a0fb" md5="e59f97a0f04a126573a339f162639afb" sha1="df75bd7774969cabb062e50da6004f2efbde489e"/>
+		<rom name="3_A-XX.bin" size="4096" crc="a97de2f5" md5="664ae7e4fdfa55327657f233a932e452" sha1="743c76121f5b9e1eab35c8c00797311f58da5243"/>
+		<rom name="4_A-32.bin" size="4096" crc="70f84bc8" md5="d5dbb4ba4e9e624705092812b529151b" sha1="9ae1c06531edf20c14ba47e78c0747dd2a92612a"/>
+	</game>
+	<game name="Primo Basic System '84.1 (1984)(Microkey)[A-48K Merged]">
+		<description>Primo Basic System '84.1 (1984)(Microkey)[A-48K Merged]</description>
+		<rom name="A-48.rom" size="16384" crc="7853cf01" md5="23b280660fa6a1ed004628b44a92671f" sha1="a9b20d3624be573bcf40ab23dd25d749f980a886"/>
+	</game>
+	<game name="Primo Basic System '84.1 (1984)(Microkey)[A-48K v2 MESS]">
+		<description>Primo Basic System '84.1 (1984)(Microkey)[A-48K v2 MESS]</description>
+		<rom name="a48-v2.rom" size="16384" crc="3fed4020" md5="817801e348c7391adc45456f30a3093e" sha1="a78351a9a0e114e59de019fd7177ce6e37f98163"/>
+	</game>
+	<game name="Primo Basic System '84.1 (1984)(Microkey)[A-48K]">
+		<description>Primo Basic System '84.1 (1984)(Microkey)[A-48K]</description>
+		<rom name="1_A-48.bin" size="4096" crc="7de6ad6f" md5="75e7d2729cbac5d13b352b1199de304b" sha1="f2fd6fac4f9bc57c646efe40281758bb7c3f56e1"/>
+		<rom name="2_AB-XX.bin" size="4096" crc="81a8a0fb" md5="e59f97a0f04a126573a339f162639afb" sha1="df75bd7774969cabb062e50da6004f2efbde489e"/>
+		<rom name="3_A-XX.bin" size="4096" crc="a97de2f5" md5="664ae7e4fdfa55327657f233a932e452" sha1="743c76121f5b9e1eab35c8c00797311f58da5243"/>
+		<rom name="4_A-48.bin" size="4096" crc="e4d0c452" md5="eeb13af2e6eef1121ebb8c1f29d55867" sha1="4a98ff7502f1236445250d6b4e1c34850734350e"/>
+	</game>
+	<game name="Primo Basic System '84.1 (1984)(Microkey)[A-64K Merged]">
+		<description>Primo Basic System '84.1 (1984)(Microkey)[A-64K Merged]</description>
+		<rom name="A-64.rom" size="16384" crc="d45ebb1b" md5="b85e55f907342dd2fe9e12bbd6da682b" sha1="0b28d83f47429f2a08db4e47ae8c686cb9b04117"/>
+	</game>
+	<game name="Primo Basic System '84.1 (1984)(Microkey)[A-64K v2 MESS]">
+		<description>Primo Basic System '84.1 (1984)(Microkey)[A-64K v2 MESS]</description>
+		<rom name="a64-v2.rom" size="16384" crc="93e0343a" md5="d1798d8fc3e95cd79015bf1bc272bafb" sha1="4f6b169668424109c4bca495c849d7cf0ddacad8"/>
+	</game>
+	<game name="Primo Basic System '84.1 (1984)(Microkey)[A-64K]">
+		<description>Primo Basic System '84.1 (1984)(Microkey)[A-64K]</description>
+		<rom name="1_A-64.bin" size="4096" crc="6a7a9b9b" md5="3f79823573b8370b802a70d487e10a32" sha1="e9ce16f90d9a799a26a9cef09d9ee6a6d7749484"/>
+		<rom name="2_AB-XX.bin" size="4096" crc="81a8a0fb" md5="e59f97a0f04a126573a339f162639afb" sha1="df75bd7774969cabb062e50da6004f2efbde489e"/>
+		<rom name="3_A-XX.bin" size="4096" crc="a97de2f5" md5="664ae7e4fdfa55327657f233a932e452" sha1="743c76121f5b9e1eab35c8c00797311f58da5243"/>
+		<rom name="4_A-64.bin" size="4096" crc="e4d0c452" md5="eeb13af2e6eef1121ebb8c1f29d55867" sha1="4a98ff7502f1236445250d6b4e1c34850734350e"/>
+	</game>
+	<game name="Primo Basic System '84.2 (1984)(Microkey)[a][B-64K Merged]">
+		<description>Primo Basic System '84.2 (1984)(Microkey)[a][B-64K Merged]</description>
+		<rom name="B-64a.rom" size="16384" crc="cea28188" md5="e712b14e0d02ec6fb172bc602baafa49" sha1="a77e42e97402e601b78ab3751eac1e85d0bbb4a0"/>
+	</game>
+	<game name="Primo Basic System '84.2 (1984)(Microkey)[B-32K MESS]">
+		<description>Primo Basic System '84.2 (1984)(Microkey)[B-32K MESS]</description>
+		<rom name="b32.rom" size="16384" crc="f594d2bb" md5="787ad9d709f25599b3aff88a3b28de15" sha1="b74961dba008a1a6f15a22ddbd1b89acd7e286c2"/>
+	</game>
+	<game name="Primo Basic System '84.2 (1984)(Microkey)[B-32K v2 MESS]">
+		<description>Primo Basic System '84.2 (1984)(Microkey)[B-32K v2 MESS]</description>
+		<rom name="b32-v2.rom" size="16384" crc="b22a5d9a" md5="c80cfc12920a115bd9314362b71d1159" sha1="e048724f338b1f4e2602960cfd6f42cc49e85d75"/>
+	</game>
+	<game name="Primo Basic System '84.2 (1984)(Microkey)[B-32K]">
+		<description>Primo Basic System '84.2 (1984)(Microkey)[B-32K]</description>
+		<rom name="4_B-32.bin" size="4096" crc="f9a1e3e8" md5="e337ba55655535c9d46008e03bd30315" sha1="a73af6a115fe6e31fa00a685b3f2bfd61cc2b719"/>
+	</game>
+	<game name="Primo Basic System '84.2 (1984)(Microkey)[B-48K MESS]">
+		<description>Primo Basic System '84.2 (1984)(Microkey)[B-48K MESS]</description>
+		<rom name="b48.rom" size="16384" crc="df3d2a57" md5="1ab8325974f2ee8d756e5a0c73a77cdf" sha1="ab9413aa9d7749d30a486da00bc8c6d178a2172c"/>
+	</game>
+	<game name="Primo Basic System '84.2 (1984)(Microkey)[B-48K v2 MESS]">
+		<description>Primo Basic System '84.2 (1984)(Microkey)[B-48K v2 MESS]</description>
+		<rom name="b48-v2.rom" size="16384" crc="9883a576" md5="30d352232894aa099b617057cef13b23" sha1="aeb142ed1e9494371bf34dda600e32b17d454f78"/>
+	</game>
+	<game name="Primo Basic System '84.2 (1984)(Microkey)[B-64K Merged]">
+		<description>Primo Basic System '84.2 (1984)(Microkey)[B-64K Merged]</description>
+		<rom name="B-64.rom" size="16384" crc="73305e4d" md5="3e307f66dc9f68c12e7d8b8d0b563c4d" sha1="c090c3430cdf19eed8363377b981e1c21a4ed169"/>
+	</game>
+	<game name="Primo Basic System '84.2 (1984)(Microkey)[B-64K v2 MESS]">
+		<description>Primo Basic System '84.2 (1984)(Microkey)[B-64K v2 MESS]</description>
+		<rom name="b64-v2.rom" size="16384" crc="348ed16c" md5="a21fff05ee04cd93f340ec641340ae05" sha1="abf75fcdaa817abd133d66223ca2608853748557"/>
+	</game>
+	<game name="Primo Basic System '84.2 (1984)(Microkey)[B-64K]">
+		<description>Primo Basic System '84.2 (1984)(Microkey)[B-64K]</description>
+		<rom name="1_B-64.bin" size="4096" crc="6433003f" md5="ba55d5501cf2db4b4c573780cd608a6a" sha1="c5be01d4327683589495c020c17458e99e8d8fa8"/>
+		<rom name="2_AB-XX.bin" size="4096" crc="81a8a0fb" md5="e59f97a0f04a126573a339f162639afb" sha1="df75bd7774969cabb062e50da6004f2efbde489e"/>
+		<rom name="3_B-64.bin" size="4096" crc="73d8f5db" md5="6d4e1d6b9b7e350087d15d09d3e16da6" sha1="4c9c466de446864cc81aba1511d58d7346db7315"/>
+		<rom name="4_B-64.bin" size="4096" crc="ca236174" md5="090f51de9ccfa60049cfc8b31c277a50" sha1="3d3d8f3b7823e0e820c70c99133a02f582123a0b"/>
+	</game>
+	<game name="Primo Basic System '85.2-C (1985)(Microkey)[C-64K MESS]">
+		<description>Primo Basic System '85.2-C (1985)(Microkey)[C-64K MESS]</description>
+		<rom name="c64-v2.rom" size="16384" crc="356ed18a" md5="203691d52ee513c8fd99588f8797e861" sha1="613324f2bab94e427e9c1243c766dcf8486e0fb4"/>
+	</game>
+	<game name="Primo Basic System '85.2-C (1985)(Microkey)[C-64K]">
+		<description>Primo Basic System '85.2-C (1985)(Microkey)[C-64K]</description>
+		<rom name="0_C-64.bin" size="2048" crc="609fe8bf" md5="ccda1624e643102ee88125e8724b607e" sha1="b0a7ca96bd0b6216eb90e26c51d0027f579a1fa5"/>
+		<rom name="1_C-64.bin" size="4096" crc="c22290ea" md5="be3a61e54637f6c83fd59cbfab57375a" sha1="af5c73f6d0f7a987c4f082a5cb69e3f016127d57"/>
+		<rom name="2_C-64.bin" size="4096" crc="0756b56e" md5="c921cff9362cdd883af6a8d311af1a8a" sha1="589dbdb7c43ca7ca29ed1e56e080adf8c069e407"/>
+		<rom name="3_C-64.bin" size="4096" crc="fc56e0af" md5="33085382adb1ac0d3d1c5c5b3b9a6b37" sha1="b547fd270d3413400bc800f5b7ea9153b7a59bff"/>
+		<rom name="4_C-64.bin" size="4096" crc="3770e3e6" md5="9ba359272e043f215375266fe3cb0019" sha1="792cc71d8f89eb447f94aded5afc70d626a26030"/>
+	</game>
+	<game name="Primo CDOS Expansion Cartridge ROM (1985)(BME-KSZK)">
+		<description>Primo CDOS Expansion Cartridge ROM (1985)(BME-KSZK)</description>
+		<rom name="Cdos_x80.bin" size="4096" crc="7c54de28" md5="6b1f1bcc6034802c03d139dbf6d93bd4" sha1="b1bdba568cf1701e9366cab56cdfc1751e1d5aa5"/>
+	</game>
+	<game name="Primo CDOS System ROM for A-64K v1 (1985)(BME-KSZK)">
+		<description>Primo CDOS System ROM for A-64K v1 (1985)(BME-KSZK)</description>
+		<rom name="Cdos-a64v1.bin" size="4096" crc="99cae333" md5="fe9e1d39b43fb5bcfacfbb413dabd716" sha1="b2205f32990b126542a6960264f9d3400c2c9c90"/>
+	</game>
+	<game name="Primo CDOS System ROM for A-64K v2 &amp; B-64K (1985)(BME-KSZK)">
+		<description>Primo CDOS System ROM for A-64K v2 &amp; B-64K (1985)(BME-KSZK)</description>
+		<rom name="Cdos-a64v2.bin" size="4096" crc="33603805" md5="5c1d3c173850d57238ece1cd4ac3ab4f" sha1="5deab9203121ac2d6f2466cd8b1b4098a439bd04"/>
+	</game>
+	<game name="Primo CPM BIOS v1.6 (1989-01-28)(Paller Gabor)">
+		<description>Primo CPM BIOS v1.6 (1989-01-28)(Paller Gabor)</description>
+		<rom name="Pr_2716.bin" size="2048" crc="5c6cb5b7" md5="0322d9267d2dc368966daca97dfe7dac" sha1="3bbd008c64dfc1ea589ea63bc0e81cbe3ea09ff8"/>
+		<rom name="Pr_2732.bin" size="4096" crc="41af1bff" md5="8b45dfe644b4b4896277e129a1cd631c" sha1="2fcd802842bef7ec1fc858396329350a724664fa"/>
+	</game>
+	<game name="Primo DIMIT (1989)(ERFI)">
+		<description>Primo DIMIT (1989)(ERFI)</description>
+		<rom name="1_dimit.bin" size="4096" crc="2fd1c2e5" md5="d1896b7dca0cf588cc4ff72dc14affe0" sha1="018e34194de082af45feb56b3b644c7b8a7f6459"/>
+		<rom name="2_AB-XX.bin" size="4096" crc="81a8a0fb" md5="e59f97a0f04a126573a339f162639afb" sha1="df75bd7774969cabb062e50da6004f2efbde489e"/>
+		<rom name="3_A-XX.bin" size="4096" crc="a97de2f5" md5="664ae7e4fdfa55327657f233a932e452" sha1="743c76121f5b9e1eab35c8c00797311f58da5243"/>
+		<rom name="4_A-32.bin" size="4096" crc="70f84bc8" md5="d5dbb4ba4e9e624705092812b529151b" sha1="9ae1c06531edf20c14ba47e78c0747dd2a92612a"/>
+	</game>
+</datafile>

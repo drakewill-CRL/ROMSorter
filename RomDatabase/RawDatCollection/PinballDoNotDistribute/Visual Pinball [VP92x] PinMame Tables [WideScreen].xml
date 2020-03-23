@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Visual Pinball [VP92x] PinMame Tables [WideScreen]</name>
+		<description>Visual Pinball [VP92x] PinMame Tables [WideScreen]</description>
+		<category>Visual Pinball [VP92x] PinMame Tables [WideScreen]</category>
+		<version>1.0</version>
+		<date>2020-01-01</date>
+		<author>Yori Yoshizuki</author>
+		<email>-insert email-</email>
+		<homepage>Yori Yoshizuki</homepage>
+		<url>https://yoshizuki.webs.com</url>
+		<comment>-insert comment-</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Apollo 13 (SEGA)(1995)">
+		<description>Apollo 13 (SEGA)(1995)</description>
+		<rom name="Apollo 13 (SEGA)(1995)(ICPjuggla, Herweh)(1.0)[VP920][WideScreen ICPjuggla, Herweh].vpt" size="28585984" crc="9732431e" sha1="775222fb6d640759d1ed4e2ae08b8715b53606ae"/>
+		<rom name="Apollo 13 screenshot.png" size="4275207" crc="33e8afd4" sha1="bcb0f8ece75bf40291ca4be8110f844c5fff7d92"/>
+	</machine>
+	<machine name="Embryon (Bally)(1980)">
+		<description>Embryon (Bally)(1980)</description>
+		<rom name="Embryon (Bally)(1980)(ICPjuggla, Herweh, OldSkoolGamer)(1.02)[VP92x][WideScreen ICPjuggla, Herweh, OldSkoolGamer].vpt" size="27795456" crc="55755fac" sha1="93f6249b96dd84a443d7983ad05441db5be05431"/>
+		<rom name="Embryon screenshot.png" size="1838236" crc="4558d124" sha1="a1afa078af237171905133e93ec4b4871d4a2122"/>
+	</machine>
+	<machine name="Mars Attacks (Bob5453, Furio)(2010 Edition)[VP921][WideScreen]">
+		<description>Mars Attacks (Bob5453, Furio)(2010 Edition)[VP921][WideScreen]</description>
+		<rom name="Mars Attacks 2010 WS 9.21.vpt" size="16474112" crc="83cc7672" sha1="524ed2efad99cfe1e8cb6bd7764103b3b1e43b66"/>
+		<rom name="Mars Attacks screenshot.jpg" size="191474" crc="624ce14f" sha1="f77fd6171f407fa97dae804cd22c35bb680a072b"/>
+	</machine>
+	<machine name="Skateball (Bally)(1980)(gtxjoe)(1.0)[VP921][WideScreen]">
+		<description>Skateball (Bally)(1980)(gtxjoe)(1.0)[VP921][WideScreen]</description>
+		<rom name="Skateball (Bally 1980) (1.0WS-VP921-VP990-gtxjoe).vpt" size="27533312" crc="769b3cb9" sha1="f2a447eae062d316895559d3de98c307e266550b"/>
+		<rom name="skateball.png" size="4782531" crc="0ca73288" sha1="41c9ca51fa1c2ad3f7e7533a2af71087e9e72100"/>
+	</machine>
+	<machine name="Whirlwind (Williams)(1990)">
+		<description>Whirlwind (Williams)(1990)</description>
+		<rom name="Music\Whirlwind-Fan.mp3" size="835629" crc="20646f86" sha1="4acb263714cba198ee7cebc760d8ef61e65571d6"/>
+		<rom name="Music\Whirlwind-Wind.mp3" size="1531531" crc="c67f45c2" sha1="ce9ff48cf8ab35fff5772c8bcc180f4b595f3df7"/>
+		<rom name="Whirlwind (Williams)(1990)(ICPjuggla, Cosmic80, Herweh, Clark Kent)(1.00)[VP92x][WideScreen].vpt" size="42274816" crc="ac52076a" sha1="439b2b245e86d1225a6bbc2a5abd7fa594b0655b"/>
+		<rom name="Whirlwind (Williams)(1990)(ICPjuggla, Cosmic80, Herweh, Clark Kent)(1.01)[VP92x][WideScreen].vpt" size="42278912" crc="f108db43" sha1="e0db6b8e59c4a2cd384d9dce44c3ea8faa3e5ae1"/>
+		<rom name="Whirlwind screenshot.jpg" size="1237443" crc="f4733fe1" sha1="e0153a90275f085ae8eee9570b60eb311d2720e0"/>
+	</machine>
+</datafile>

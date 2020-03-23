@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sinclair ZX81 - Games - [Multipart]</name>
+		<description>Sinclair ZX81 - Games - [Multipart] (TOSEC-v2011-09-24)</description>
+		<category>TOSEC</category>
+		<version>2011-09-24</version>
+		<author>jugaor - Dziuber - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Black Crystal (1982)(Carnell Software)">
+		<description>Black Crystal (1982)(Carnell Software)</description>
+		<rom name="MAP 1.P" size="16158" crc="19e6be9d" md5="3a7992f1081cd7a0afa7f00f592999f8" sha1="0398487e650e38b2ad7ffb9ab45ceb63c5b306d3"/>
+		<rom name="MAP 2.P" size="16209" crc="8988a4f1" md5="aa87892688ce216c3a0ba69c3b0b6efa" sha1="f8017f3fbadc675c3dde488685b1fb19e5373181"/>
+		<rom name="MAP 3.P" size="16206" crc="472dd5f3" md5="2a7fe31142102a5ec5101d79dfcc5420" sha1="619f45a37005c9e3450fa15e095c70f61108da18"/>
+		<rom name="MAP 4.P" size="16223" crc="3aff901a" md5="50f2e96b8c7a47a22a726636e09fabc3" sha1="d1c57705e39c13f335a7b1fcbf6e17efda4f77a1"/>
+		<rom name="MAP 4B.P" size="16244" crc="761ea690" md5="5123d1afab539353ff0c8182bd53b236" sha1="302fc4e75a6d68d76ebe6cd71d76fb40256e6957"/>
+		<rom name="MAP 5.P" size="15732" crc="5d52cd30" md5="4923b9d984907a6712d714ef80c9351f" sha1="fafed249bd44d1ae8c0416f7b79d619cf320947d"/>
+		<rom name="MAP 6.P" size="16197" crc="33b33992" md5="d396a10836139a7af745fa66b2887cc7" sha1="3d1ea6225295a88b8f1ba7173b53eb7a85768568"/>
+		<rom name="TEST.P" size="1017" crc="474b9e02" md5="91b338c154c91aab15de35672106d92c" sha1="4ed9aa3d8c680546c455bf45fc7c0a477e0e20f6"/>
+	</game>
+	<game name="Block Buster (1986)(Harder, Gregory C.)">
+		<description>Block Buster (1986)(Harder, Gregory C.)</description>
+		<rom name="BLOCK1.P" size="2951" crc="5f92ba87" md5="cb03d99b26b0d04336ded001595ce3c4" sha1="4e9440c58a14663ee1b4a785155a57d67c059f16"/>
+		<rom name="BLOCK2.P" size="10551" crc="e520831c" md5="0a5c8e1cec54dc83f54de5c430452092" sha1="5578826778296dd41f55a00ab960227cdae0dad6"/>
+	</game>
+	<game name="Dan's Revenge v2.0 (1996)(McDonald, Steven)">
+		<description>Dan's Revenge v2.0 (1996)(McDonald, Steven)</description>
+		<rom name="DRCODE.P" size="3004" crc="f09afd12" md5="243b4b78fabb6fec841baa42b64d09c8" sha1="bb82974e31e114f7c92b9e292b6b449ec53cb22f"/>
+		<rom name="DRDATA.P" size="1560" crc="8d813206" md5="cef21394ffe774cd7094add231c3ba3a" sha1="55e11213691f04cdfb1666308232673dd3d9dfad"/>
+		<rom name="DRDFILE.P" size="7325" crc="dff2a666" md5="3203582e087efe72f1792d396a3655e0" sha1="a64d831807978e6aa188396e23abd8274f790b32"/>
+		<rom name="DRSCRNS.P" size="1439" crc="162c788d" md5="561e66090e0c95df234a06c8110905f8" sha1="b7040f7dedd489a4a8749fa6f930434f82fdd234"/>
+		<rom name="REVENGE.P" size="1172" crc="0dc42a80" md5="054964a6943320f64eed2c5d81ddaf56" sha1="f9a350f85d4c911433bf7578de47a946dada3806"/>
+	</game>
+	<game name="Dan's Revenge v2.1 (1996)(McDonald, Steven)">
+		<description>Dan's Revenge v2.1 (1996)(McDonald, Steven)</description>
+		<rom name="DRCODE.P" size="3142" crc="6ea12438" md5="897496329e0042d61e85d18855ec70cc" sha1="61eee8c913cd64aea691e7ed6ac4fcb2c8396114"/>
+		<rom name="DRDATA.P" size="792" crc="de6ea9d0" md5="a8b53183b913c00d9d38d819ecbbcfeb" sha1="258725469a3c5b2418925e2888fadeffb5fa73b1"/>
+		<rom name="DRDFILE.P" size="6557" crc="fe1a76dc" md5="8f3c6a5f29f5feb28ede7f768d2dcd1f" sha1="f4eeb3e5af27520bf161165dd824646467202951"/>
+		<rom name="DRSCRNS.P" size="671" crc="a28d084f" md5="2943c2eef1fc4093e846f3ba7b1c93b2" sha1="ddc32581318e0af08a1a262fecb2429df1332053"/>
+		<rom name="REVENGE.P" size="404" crc="d88a476d" md5="34a9c4af6022c59a9f961580b065ef64" sha1="5a6543a586e36f937d6de0cc1b9a7f0fd303bf5b"/>
+	</game>
+	<game name="Dungeon of Ymir (1986)(Nachbaur, Fred)">
+		<description>Dungeon of Ymir (1986)(Nachbaur, Fred)</description>
+		<rom name="YMIR.P" size="9638" crc="e8d3cec2" md5="3feb3dc0889b7748f0a55e551230fbe3" sha1="c8aa9b5a03efd32c79b57a6cb2e605a083cba688"/>
+		<rom name="YMIR307.P" size="16009" crc="cfb45d2a" md5="bca64ac810653a7ade435b69e95a2d34" sha1="62a94f61441cee26b75e3a05e485bcc5a7bf0c35"/>
+		<rom name="YMIR308.P" size="16017" crc="7f49c17f" md5="002bb35d2bfc7b752809410ac8ed1137" sha1="778d46c3c120cbd5d9aa06d72a9f14e40ee575cc"/>
+	</game>
+	<game name="Encounter (1982)(Pixel Productions)">
+		<description>Encounter (1982)(Pixel Productions)</description>
+		<rom name="EN.P" size="15852" crc="7606c499" md5="5bf7e8c6f86843ca28521baa7b8adfd1" sha1="1300fad3432fc84873d5545e13798ee1320e3766"/>
+		<rom name="LOADER-E.P" size="1697" crc="e78a6832" md5="d88ad616766c00c11d5b3932b210a442" sha1="0e5586761371097cb713fde6b265afc1f9a7a501"/>
+	</game>
+	<game name="Gobbleman (1982)(Artic Computing)">
+		<description>Gobbleman (1982)(Artic Computing)</description>
+		<rom name="HRPACMAN.P" size="3832" crc="600d65c2" md5="502a47400dec46dcefa2df57ac8cb2e1" sha1="a322a865f3621a2df206c7590b2ac94b45a1c4f4"/>
+		<rom name="PACCHAR.C" size="520" crc="ecf0804b" md5="4e18e3de0fdc81afe83ac9a643073f64" sha1="d33ae9148085cfec0d7e5fc4a6caa19f13f34802"/>
+	</game>
+	<game name="Gobbleman (1982)(Artic Computing)[a2]">
+		<description>Gobbleman (1982)(Artic Computing)[a2]</description>
+		<rom name="HRPACMAN.P" size="3817" crc="43a006b6" md5="2f1b227b2009f63b4abe685e6e4e0334" sha1="7205c3892090f734494d8e4dcab463bd1d386bec"/>
+		<rom name="PACCHAR.C" size="520" crc="ecf0804b" md5="4e18e3de0fdc81afe83ac9a643073f64" sha1="d33ae9148085cfec0d7e5fc4a6caa19f13f34802"/>
+	</game>
+	<game name="Gobbleman (1982)(Artic Computing)[a]">
+		<description>Gobbleman (1982)(Artic Computing)[a]</description>
+		<rom name="HRPACMAN.P" size="3908" crc="f1484431" md5="443b2513df4517e02af4a8a1c124d2c1" sha1="ee3494e08bb1c0d2cf8ccc23ee4117e0f9102249"/>
+		<rom name="PACCHAR.C" size="520" crc="ecf0804b" md5="4e18e3de0fdc81afe83ac9a643073f64" sha1="d33ae9148085cfec0d7e5fc4a6caa19f13f34802"/>
+	</game>
+	<game name="Hi-Res Chess (1985)(Psion Software)">
+		<description>Hi-Res Chess (1985)(Psion Software)</description>
+		<rom name="CHESS.P" size="8373" crc="40f2fe0c" md5="d9d3c20ad5c809bb78a187f9ebf7d785" sha1="803ab39df677f50e412626b94ae5a783940ed4b6"/>
+		<rom name="HRCHESS.P" size="2743" crc="06e5c9d8" md5="662948dd627560ba9d127b4284600f7a" sha1="34832c85b77c8343d1334e23fba23d51b68ca184"/>
+	</game>
+	<game name="Maze-Drag-Racer (19xx)(PSS)">
+		<description>Maze-Drag-Racer (19xx)(PSS)</description>
+		<rom name="MDR.P" size="4496" crc="a8dd7fb0" md5="9a8e82b0f01a559481551fff42da6cc2" sha1="19fb4615faf70904bfe9446618b23f85097a5c69"/>
+		<rom name="MDRL.P" size="7628" crc="1a6a3474" md5="830126ec9573a915d156a0da7d76e5d9" sha1="589431eed4fbb36c3865e90a060654b7f99693ab"/>
+	</game>
+	<game name="Ocean Trader (1982)(Quicksilva)">
+		<description>Ocean Trader (1982)(Quicksilva)</description>
+		<rom name="OCEAN.P" size="11716" crc="ebc4d447" md5="744ea026dc47182ddf6d104aae0bca6a" sha1="9c7587399a8789510de470769b7fc043d88db5ba"/>
+		<rom name="OCEAN2.P" size="15642" crc="70dafeb3" md5="310ffa655f91445d553884160a9f5fdf" sha1="74d3258afe03ad153e134f1f46d613045166d3da"/>
+	</game>
+	<game name="Rock Crush v2.0 (1985)(McDonald, Steven)">
+		<description>Rock Crush v2.0 (1985)(McDonald, Steven)</description>
+		<rom name="CRUSH.P" size="1170" crc="5732b003" md5="40ccf60f2a33d96c0776a8ec5c5637c9" sha1="8b1438852de29ac9f34b40558dc4140b08dad0b0"/>
+		<rom name="RCCODE.P" size="2689" crc="7134b2d9" md5="2f5c15d0e71b484fa047229015539fdd" sha1="f0e43310aa80ad357f624a5dda64a867a3328ce2"/>
+		<rom name="RCDATA.P" size="1577" crc="7e7a3538" md5="676e238825c9f9de733b86b6a8cf93b9" sha1="1f4cde8ed91c6716490f967d7918ae008f4d1066"/>
+		<rom name="RCDFILE.P" size="7325" crc="6176421d" md5="e3de55e1df519fe70b69b92cc9769b9e" sha1="278455c312429f4b9fb4562a022c97caa92d45ed"/>
+		<rom name="RCSCRNS.P" size="2989" crc="65a4a113" md5="530450d99bac73ea98b160acf592b294" sha1="b1b1ebf3a4d581a6ca012b9ca64fd7a73d14de2a"/>
+	</game>
+	<game name="Rock Crush v2.1 (1985)(McDonald, Steven)">
+		<description>Rock Crush v2.1 (1985)(McDonald, Steven)</description>
+		<rom name="CRUSH.P" size="402" crc="d449f2f0" md5="5de8a521ebfde9a8ca35e3a047da73f7" sha1="c564d00ba6173155341d504222e458aca8664c96"/>
+		<rom name="RCCODE.P" size="2689" crc="7134b2d9" md5="2f5c15d0e71b484fa047229015539fdd" sha1="f0e43310aa80ad357f624a5dda64a867a3328ce2"/>
+		<rom name="RCDATA.P" size="809" crc="e8986edd" md5="7057652116536f9c657a9d6f8d1c3c3a" sha1="e6e646b1fc4ae40970760092e08949d1b76fdb10"/>
+		<rom name="RCDFILE.P" size="6557" crc="485c964e" md5="c66af9c3a2bcd21ebfe03a2f2d166254" sha1="3c5a25b3429ba745d0f96fe9b40d392842bf45d7"/>
+		<rom name="RCSCRNS.P" size="2221" crc="fbcee12a" md5="3c34b9b4cfe49127b6862d44aa781f6e" sha1="2dfc315513ff41a6713e1b58ae5ad7525ac14f49"/>
+	</game>
+	<game name="Snorth Games (1985)(Syncware)">
+		<description>Snorth Games (1985)(Syncware)</description>
+		<rom name="MR.P" size="9431" crc="8d318f74" md5="5cae275080a063f9d1d789f001964ee8" sha1="afc11342591a40f195a5b9edd2c129fd6c333cfc"/>
+		<rom name="NFLX.P" size="14741" crc="27a71598" md5="941f11b0381ab7ceb3bbdf69b9c5772b" sha1="c4ea1ee9c772f39c74036e29d4b15b7edf1705fe"/>
+		<rom name="SL3.P" size="12750" crc="511ec957" md5="e81d1a6da0d622eba290dff04f4c3ceb" sha1="728a7420845dbea3975e869173c2508dc31db166"/>
+		<rom name="SNORTH.P" size="3581" crc="c55bc237" md5="c7c576bc6292351a67dd5084ec81a403" sha1="0df34fae0c28281ce461680477e9329e9493d522"/>
+		<rom name="SS.P" size="9747" crc="b35af1dc" md5="c8951020814da74bde94b77e41cc311d" sha1="199ec20a681b0d3b01f930f89ac107713b3f9e95"/>
+	</game>
+	<game name="Starship 'Starquest' (1982)(Pixel Productions)">
+		<description>Starship 'Starquest' (1982)(Pixel Productions)</description>
+		<rom name="LOADERS.P" size="1697" crc="d148a5f0" md5="105bdd8e4197f3ae6f11e3ef10377cdf" sha1="b6bd8318fda13a05b4ec7b98fbd9ab16c1e35fd0"/>
+		<rom name="ST.P" size="15924" crc="b03c5c50" md5="57443e9d481f695c57bf068ebb2d78bb" sha1="488c86f8bd4b613fb0df304077a079f083c11d2e"/>
+	</game>
+	<game name="Subspace Stiker (1982)(Pixel Productions)">
+		<description>Subspace Stiker (1982)(Pixel Productions)</description>
+		<rom name="LOADER-S.P" size="1700" crc="9faebee3" md5="e6d0ca645f3320b370a7bc472ba76302" sha1="a01c66d1b0b16bc81755105a5f9e2deaa37beb85"/>
+		<rom name="SSS.P" size="15732" crc="ea3d60d8" md5="78d6919ed626d9ce8b71a4a50f834ff5" sha1="e338e9d49ff8f49c35ce4d5ed1c8a75c38ab276f"/>
+	</game>
+	<game name="Trader (19xx)(Pixel Productions)">
+		<description>Trader (19xx)(Pixel Productions)</description>
+		<rom name="T1.P" size="15795" crc="5c03a03a" md5="bc66bc702f6dda3c264bda190a9a8040" sha1="42862a7e5ef6a744000a0237edc252d9f798ea91"/>
+		<rom name="T2.P" size="15922" crc="c01cefc1" md5="dda650ba604130ecde77315a98a98dec" sha1="03b794969e32d4c6c188e2ccaa3c2658b16dd8e5"/>
+		<rom name="T3.P" size="15694" crc="fc8f5e87" md5="46df6500728e1e7c8bc95d7d0a1e091e" sha1="67e4071eeaf2ae00cf49700bb2212eae10cf76b1"/>
+		<rom name="TRADER-I.P" size="1493" crc="db73340e" md5="fc998c33611fd4218ea5deaef974aaf9" sha1="596ab5bf88cc922052f12db140a9be2f417d2b6e"/>
+	</game>
+	<game name="Trader (19xx)(Pixel Productions)[a]">
+		<description>Trader (19xx)(Pixel Productions)[a]</description>
+		<rom name="T1.P" size="15795" crc="5c03a03a" md5="bc66bc702f6dda3c264bda190a9a8040" sha1="42862a7e5ef6a744000a0237edc252d9f798ea91"/>
+		<rom name="T2.P" size="15922" crc="c01cefc1" md5="dda650ba604130ecde77315a98a98dec" sha1="03b794969e32d4c6c188e2ccaa3c2658b16dd8e5"/>
+		<rom name="T3.P" size="15694" crc="fc8f5e87" md5="46df6500728e1e7c8bc95d7d0a1e091e" sha1="67e4071eeaf2ae00cf49700bb2212eae10cf76b1"/>
+		<rom name="TRADER-I.P" size="1494" crc="dc9bc19e" md5="4995326ee73202d07223e2e8a3061675" sha1="59ef4b76d233891cc250b5cba2934d9b635a4dd2"/>
+	</game>
+	<game name="Voyage of Peril (1987)(SMC)">
+		<description>Voyage of Peril (1987)(SMC)</description>
+		<rom name="VOYAGE.P" size="12610" crc="a98f84cf" md5="6c5f01f907bac2e82a02391cd5e30179" sha1="50f7b7db39379f0aa2da55968271eae58b62a4a2"/>
+		<rom name="VOYAGE2.P" size="14903" crc="84fd4686" md5="35223fe8bd55b9d25a5598b65fe290a6" sha1="91f1aa8e7bfbf8ebbf5a1368cb6f973e71dd1157"/>
+	</game>
+</datafile>

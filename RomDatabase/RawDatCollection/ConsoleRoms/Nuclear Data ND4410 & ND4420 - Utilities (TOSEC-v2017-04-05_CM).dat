@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+		<header>
+		<name>Nuclear Data ND4410 &amp; ND4420 - Utilities</name>
+		<description>Nuclear Data ND4410 &amp; ND4420 - Utilities (TOSEC-v2017-04-05)</description>
+		<category>TOSEC</category>
+		<version>2017-04-05</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<url>http://www.tosecdev.org</url>
+		<clrmamepro/>
+	</header>
+	<game name="Extended I-O Overlay for 4410 Single Paramater Physics Analyzer Version A (1972-09-29)(Nuclear Data Ireland)[8K memory minimum - ND41-1104-00 - 0,2775-7777]">
+		<description>Extended I-O Overlay for 4410 Single Paramater Physics Analyzer Version A (1972-09-29)(Nuclear Data Ireland)[8K memory minimum - ND41-1104-00 - 0,2775-7777]</description>
+		<rom name="Extended I-O Overlay for 4410 Single Paramater Physics Analyzer Version A (1972-09-29)(Nuclear Data Ireland)[8K memory minimum - ND41-1104-00 - 0,2775-7777].bin" size="8073" crc="cfa51d0b" md5="d17becf011368afb5edbd211c0cfe2f1" sha1="999c6197eb0a4173db59989877ff4b65a37e7e3e"/>
+	</game>
+	<game name="Extended Pushbutton H-L Speed Read-Punch I-O for 4410 Physics Ver. A (1972-04-06)(Nuclear Data)[ND41-1062-00]">
+		<description>Extended Pushbutton H-L Speed Read-Punch I-O for 4410 Physics Ver. A (1972-04-06)(Nuclear Data)[ND41-1062-00]</description>
+		<rom name="Extended Pushbutton H-L Speed Read-Punch I-O for 4410 Physics Ver. A (1972-04-06)(Nuclear Data)[ND41-1062-00].bin" size="1713" crc="c543f686" md5="c373e40aef042374895b4268bd4f0438" sha1="f4be1690341760f43986866f103b10eab70ebd50"/>
+	</game>
+	<game name="Extended Pushbutton Overlay for 4410 Physics Anal (1972-03-04)(Nuclear Data)[ND41-1061-00 - 2774-3777]">
+		<description>Extended Pushbutton Overlay for 4410 Physics Anal (1972-03-04)(Nuclear Data)[ND41-1061-00 - 2774-3777]</description>
+		<rom name="Extended Pushbutton Overlay for 4410 Physics Anal (1972-03-04)(Nuclear Data)[ND41-1061-00 - 2774-3777].bin" size="1651" crc="052403ad" md5="ec1a69efe4488765520e8d838b529fc0" sha1="bb4a228be7fa126df75d603884bebc9dd5e34226"/>
+	</game>
+	<game name="Floating Point Package Modified for 41-1060 (1972-11-25)(Nuclear Data)[ND41-1101-02]">
+		<description>Floating Point Package Modified for 41-1060 (1972-11-25)(Nuclear Data)[ND41-1101-02]</description>
+		<rom name="Floating Point Package Modified for 41-1060 (1972-11-25)(Nuclear Data)[ND41-1101-02].bin" size="3361" crc="814639a4" md5="c78ee9a20bda507c35797f0e1ac3dce7" sha1="932449cebde0d0d10b034c3ceca1655c24b69840"/>
+	</game>
+	<game name="Multi-Field Floating Point Control for 41-1060 (1972-11-25)(Nuclear Data)[ND41-1102-03]">
+		<description>Multi-Field Floating Point Control for 41-1060 (1972-11-25)(Nuclear Data)[ND41-1102-03]</description>
+		<rom name="Multi-Field Floating Point Control for 41-1060 (1972-11-25)(Nuclear Data)[ND41-1102-03].bin" size="2075" crc="1b0c24aa" md5="2962438eea74e3c63dfedfbaf4074a42" sha1="ddcc2f9e3bcc65007e33ec771500ed50d221b697"/>
+	</game>
+	<game name="ND41-1076-01 Part 4c - ND4420 Single Parameter Monitor (1973-06-26)(Nuclear Data Ireland)[Cassette Overlay for Print - Loader should be in Field 1]">
+		<description>ND41-1076-01 Part 4c - ND4420 Single Parameter Monitor (1973-06-26)(Nuclear Data Ireland)[Cassette Overlay for Print - Loader should be in Field 1]</description>
+		<rom name="ND41-1076-01 Part 4c - ND4420 Single Parameter Monitor (1973-06-26)(Nuclear Data Ireland)[Cassette Overlay for Print - Loader should be in Field 1].bin" size="2082" crc="6a67d8ea" md5="0d031d71eb7e7613b82f78322dd899be" sha1="d33d368c4b90e97e31cf5e09961ed1a6bbadc7a7"/>
+	</game>
+	<game name="ND41-1076-02 Part 1 - ND4420 Single Parameter Monitor (1974-01-02)(Nuclear Data)[Do not load from Field 0]">
+		<description>ND41-1076-02 Part 1 - ND4420 Single Parameter Monitor (1974-01-02)(Nuclear Data)[Do not load from Field 0]</description>
+		<rom name="ND41-1076-02 Part 1 - ND4420 Single Parameter Monitor (1974-01-02)(Nuclear Data)[Do not load from Field 0].bin" size="6154" crc="70ac8897" md5="a72a0ec546f8ac37e5f2922bcf618b07" sha1="ebd76213583da156c2dce14f108cebd69be9e9cf"/>
+	</game>
+	<game name="ND41-1076-02 Part 2 - ND4420 Single Parameter Monitor (1974-01-02)(Nuclear Data)[Do not load from Field 0]">
+		<description>ND41-1076-02 Part 2 - ND4420 Single Parameter Monitor (1974-01-02)(Nuclear Data)[Do not load from Field 0]</description>
+		<rom name="ND41-1076-02 Part 2 - ND4420 Single Parameter Monitor (1974-01-02)(Nuclear Data)[Do not load from Field 0].bin" size="2773" crc="6d674fa0" md5="36d74584ac48a1be35c216428edbc8a5" sha1="c91d09c9c81b59c06ddfa559ef8f2cf5e6669f21"/>
+	</game>
+	<game name="ND41-1076-02 Part 3 - ND4420 Single Parameter Monitor (1974-01-02)(Nuclear Data)[Do not load from Field 0]">
+		<description>ND41-1076-02 Part 3 - ND4420 Single Parameter Monitor (1974-01-02)(Nuclear Data)[Do not load from Field 0]</description>
+		<rom name="ND41-1076-02 Part 3 - ND4420 Single Parameter Monitor (1974-01-02)(Nuclear Data)[Do not load from Field 0].bin" size="6289" crc="96856931" md5="d56efb8de43e545af8fb6b99f68054ab" sha1="1f4fa3c9a5c9972ab93d46ec2dd2237046944d1b"/>
+	</game>
+	<game name="ND41-1076-02 Part 4B - ND4420 Single Parameter Monitor (1974-01-02)(Nuclear Data)[High Speed Mag Tape Overlay - Do not load from Field 0]">
+		<description>ND41-1076-02 Part 4B - ND4420 Single Parameter Monitor (1974-01-02)(Nuclear Data)[High Speed Mag Tape Overlay - Do not load from Field 0]</description>
+		<rom name="ND41-1076-02 Part 4B - ND4420 Single Parameter Monitor (1974-01-02)(Nuclear Data)[High Speed Mag Tape Overlay - Do not load from Field 0].bin" size="2106" crc="4206dc10" md5="f17c9522ac57574b6590bd7b5958130f" sha1="809b5b92ec2fa35165404a4bad3d95b7b09565bd"/>
+	</game>
+	<game name="ND4410 Block Format Cassette I-O Overlay for 41-1060 (1973-04-05)(Nuclear Data)[ND41-1105-01]">
+		<description>ND4410 Block Format Cassette I-O Overlay for 41-1060 (1973-04-05)(Nuclear Data)[ND41-1105-01]</description>
+		<rom name="ND4410 Block Format Cassette I-O Overlay for 41-1060 (1973-04-05)(Nuclear Data)[ND41-1105-01].bin" size="1909" crc="44be7999" md5="20b6ba026c9952a6b0b352691e5f7f8c" sha1="c0d12e6c2b03a2c3b8fc717a6d5bbffabb3e03d7"/>
+	</game>
+	<game name="ND4410 Peak Extraction Overlay with Peak Fit Ver. A (1973-08-13)(Nuclear Data)[ND41-1108-00 - Bin Loader 0005 1 MFF0]">
+		<description>ND4410 Peak Extraction Overlay with Peak Fit Ver. A (1973-08-13)(Nuclear Data)[ND41-1108-00 - Bin Loader 0005 1 MFF0]</description>
+		<rom name="ND4410 Peak Extraction Overlay with Peak Fit Ver. A (1973-08-13)(Nuclear Data)[ND41-1108-00 - Bin Loader 0005 1 MFF0].bin" size="7990" crc="ab09b0af" md5="dac8f3d021a5bfadb9122d106ed03f7b" sha1="7f5a400002764f22e3bcaba065f04d34c9a0265d"/>
+	</game>
+	<game name="ORCAL-2 8K Version (1973-08-29)(Nuclear Data)[Low Speed Reader Only - ND41-6001-02]">
+		<description>ORCAL-2 8K Version (1973-08-29)(Nuclear Data)[Low Speed Reader Only - ND41-6001-02]</description>
+		<rom name="ORCAL-2 8K Version (1973-08-29)(Nuclear Data)[Low Speed Reader Only - ND41-6001-02].bin" size="7328" crc="51fecec2" md5="3ca3389158549388b5d7299cd9f91411" sha1="a05753922f8942f3a0cda388eacaa82274255757"/>
+	</game>
+	<game name="ORCAL-6 16K Version (1973-08-29)(Nuclear Data)[Supports H.S. Reader and Cassette System - ND41-6012-00]">
+		<description>ORCAL-6 16K Version (1973-08-29)(Nuclear Data)[Supports H.S. Reader and Cassette System - ND41-6012-00]</description>
+		<rom name="ORCAL-6 16K Version (1973-08-29)(Nuclear Data)[Supports H.S. Reader and Cassette System - ND41-6012-00].bin" size="7888" crc="337c7390" md5="57d3176257f42b60bb58c027ae87a387" sha1="4eb6863ca6dafd4e9033a4f8e37ec93bc91198af"/>
+	</game>
+	<game name="PEC Magnetic Tape Copier - Blocked Files Version (1974-01-05)(Nuclear Data)[ND41-5032-00]">
+		<description>PEC Magnetic Tape Copier - Blocked Files Version (1974-01-05)(Nuclear Data)[ND41-5032-00]</description>
+		<rom name="PEC Magnetic Tape Copier - Blocked Files Version (1974-01-05)(Nuclear Data)[ND41-5032-00].bin" size="1374" crc="f8bbd7f9" md5="333d361777042ab9ebce55b88778bf50" sha1="33a533bd9b3b8de5a66449398f6ec65e4c03fdaf"/>
+	</game>
+	<game name="X-Ray Functions Overlay for ND4410 41-1060-00 &amp; 41-1061-00 (1972-08-14)(Nuclear Data)[ND41-1085 - Loader must be in Field 1]">
+		<description>X-Ray Functions Overlay for ND4410 41-1060-00 &amp; 41-1061-00 (1972-08-14)(Nuclear Data)[ND41-1085 - Loader must be in Field 1]</description>
+		<rom name="X-Ray Functions Overlay for ND4410 41-1060-00 &amp; 41-1061-00 (1972-08-14)(Nuclear Data)[ND41-1085 - Loader must be in Field 1].bin" size="4386" crc="9c0821f8" md5="7d2756d4aef114958ccaf067c838227b" sha1="f388192a03a72141ba68a7b2a44a74b84b363173"/>
+	</game>
+</datafile>

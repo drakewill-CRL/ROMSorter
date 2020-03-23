@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Games - [ARK]</name>
+		<description>Commodore C64 - Games - [ARK] (TOSEC-v2019-04-20)</description>
+		<category>TOSEC</category>
+		<version>2019-04-20</version>
+		<author>Duncan Twain - DesertWolf</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Angel of Hell (19xx)(Oliver Software)[cr CHR][a][Z64 Part 1-4]">
+		<description>Angel of Hell (19xx)(Oliver Software)[cr CHR][a][Z64 Part 1-4]</description>
+		<rom name="Angel of Hell (19xx)(Oliver Software)[cr CHR][a][Z64 Part 1-4].ark" size="129540" crc="8452f3b2" md5="b937240aed24a0b7f55e2c1e97c671bb" sha1="df4875662c724c0bf3fc78539c586548087546f6"/>
+	</game>
+	<game name="Angel of Hell (19xx)(Oliver Software)[cr CHR][Z64 Part 1-4]">
+		<description>Angel of Hell (19xx)(Oliver Software)[cr CHR][Z64 Part 1-4]</description>
+		<rom name="Angel of Hell (19xx)(Oliver Software)[cr CHR][Z64 Part 1-4].ark" size="130161" crc="c8f76b4b" md5="37959770dc25a2614d35a8a3c9a0219d" sha1="d3e56f2905ae4e100f6bdd1ed14a8c344e705d1f"/>
+	</game>
+	<game name="Double Dragon (1989)(Melbourne House)[cr HTL][h Atomic Punks][t +4 HTL]">
+		<description>Double Dragon (1989)(Melbourne House)[cr HTL][h Atomic Punks][t +4 HTL]</description>
+		<rom name="Double Dragon (1989)(Melbourne House)[cr HTL][h Atomic Punks][t +4 HTL].ark" size="85344" crc="2c5830ae" md5="fcb1184d1c970929e23dfcbfedbceb23" sha1="7740f31ad1304602606dcd2c61c33476299b6950"/>
+	</game>
+	<game name="Dragon Ninja (1989)(Imagine)[cr DCS+ATC][t +4]">
+		<description>Dragon Ninja (1989)(Imagine)[cr DCS+ATC][t +4]</description>
+		<rom name="Dragon Ninja (1989)(Imagine)[cr DCS+ATC][t +4].ark" size="57150" crc="576c659b" md5="e94d8c75f08c554c9bfcdcf0a9b43dab" sha1="ab3fdab4663c1aaa7c8ffd62a82ce9819d0f9dc0"/>
+	</game>
+	<game name="Minefield (1994)(Assassin Software)[cr F4CG][t +1 F4CG]">
+		<description>Minefield (1994)(Assassin Software)[cr F4CG][t +1 F4CG]</description>
+		<rom name="Minefield (1994)(Assassin Software)[cr F4CG][t +1 F4CG].ark" size="18048" crc="e977be5a" md5="887f85e54cc0eea48e528442cf1c4de3" sha1="2fb559e8495a9f5313c4814b8ce9351a3bbbdaa1"/>
+	</game>
+	<game name="Minefield (1994)(Assassin Software)[cr F4CG][t +1 F4CG][a]">
+		<description>Minefield (1994)(Assassin Software)[cr F4CG][t +1 F4CG][a]</description>
+		<rom name="Minefield (1994)(Assassin Software)[cr F4CG][t +1 F4CG][a].ark" size="18175" crc="98cb6d41" md5="5905cc98c48a5ccc90855da0228b5099" sha1="cd23438c4362d34b64deb8e60db0419df8bb50b2"/>
+	</game>
+	<game name="Phobia (1989)(Mirrorsoft)[cr FLT][t FLT]">
+		<description>Phobia (1989)(Mirrorsoft)[cr FLT][t FLT]</description>
+		<rom name="Phobia (1989)(Mirrorsoft)[cr FLT][t FLT].ark" size="92288" crc="02d638bf" md5="4698c906131ba4d6a8d10aaa33f4532d" sha1="a1baa62badc8a251cc8855dd08dfffa963c4bc9a"/>
+	</game>
+	<game name="R.B.I. Baseball 2 (1991)(Tengen - Domark)[cr Empire]">
+		<description>R.B.I. Baseball 2 (1991)(Tengen - Domark)[cr Empire]</description>
+		<rom name="R.B.I. Baseball 2 (1991)(Tengen - Domark)[cr Empire].ark" size="68226" crc="8a2fe81b" md5="3d2bf35581020772486bc2985f36d367" sha1="ef99e5f8e79edb21cabbca13b33ac4cb6d05cc6a"/>
+	</game>
+	<game name="Superbike Challenge (1987)(Broderbund)[cr TIC]">
+		<description>Superbike Challenge (1987)(Broderbund)[cr TIC]</description>
+		<rom name="Superbike Challenge (1987)(Broderbund)[cr TIC].ark" size="86106" crc="2eb70321" md5="1f56b6594e9b836598c5554dbf1f2b4a" sha1="69892e491a88844d5dad1be5f26d36e202799b77"/>
+	</game>
+</datafile>

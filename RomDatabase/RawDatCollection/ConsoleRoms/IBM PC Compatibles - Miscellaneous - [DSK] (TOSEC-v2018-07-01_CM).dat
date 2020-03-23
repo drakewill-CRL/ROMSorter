@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>IBM PC Compatibles - Miscellaneous - [DSK]</name>
+		<description>IBM PC Compatibles - Miscellaneous - [DSK] (TOSEC-v2018-07-01)</description>
+		<category>TOSEC</category>
+		<version>2018-07-01</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="BayDisk CAMPUS 3.0 - Bayer Informations-System für Kunststoffe v3.0-9.95 (1995)(Bayer)(DE)(de-en)">
+		<description>BayDisk CAMPUS 3.0 - Bayer Informations-System für Kunststoffe v3.0-9.95 (1995)(Bayer)(DE)(de-en)</description>
+		<rom name="BayDisk CAMPUS 3.0 - Bayer Informations-System für Kunststoffe v3.0-9.95 (1995)(Bayer)(DE)(de-en).img" size="1474560" crc="85002e22" md5="fc71657304a002d8dff6dd68b033cd02" sha1="03a845e8ced366d2c8b0bcdd5b1351a45be6d929"/>
+	</game>
+	<game name="Cost Accounting - Templates and Problems for Lotus 1-2-3 (1980)(-)">
+		<description>Cost Accounting - Templates and Problems for Lotus 1-2-3 (1980)(-)</description>
+		<rom name="Cost Accounting - Templates and Problems for Lotus 1-2-3 (1980)(-).dsk" size="368640" crc="47e07ff6" md5="a3fd0287602c7ff15fc44acf8a9a5fb2" sha1="b3214440e51f87b802c7a2fb753c63556df40dcc"/>
+	</game>
+</datafile>

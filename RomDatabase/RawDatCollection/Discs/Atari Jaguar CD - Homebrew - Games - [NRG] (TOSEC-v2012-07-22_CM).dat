@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Atari Jaguar CD - Homebrew - Games - [NRG]</name>
+		<description>Atari Jaguar CD - Homebrew - Games - [NRG] (TOSEC-v2012-07-22)</description>
+		<category>TOSEC-ISO</category>
+		<version>2012-07-22</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Beebris (2009)(Bad Brew Crew - Reboot)">
+		<description>Beebris (2009)(Bad Brew Crew - Reboot)</description>
+		<rom name="Beebris (2009)(Bad Brew Crew - Reboot).nrg" size="9812998" crc="f3e0fc39" md5="1a6713672f2b7aaf9ea66704b24aa92e" sha1="7f13e2a5b2f22311984392e5e0efa201bfbe0f75"/>
+	</game>
+	<game name="Frog Feast (demo) (2005)(RasterSoft)(PD)[Req JagFree]">
+		<description>Frog Feast (demo) (2005)(RasterSoft)(PD)[Req JagFree]</description>
+		<rom name="Frog Feast (demo) (2005)(RasterSoft)(PD)[Req JagFree].nrg" size="4306792" crc="cab8fcb9" md5="30dd9b2118a2a63bdbfabf4c110b20e7" sha1="4d973dd05ace2010f1e22e218be78a19af5b6546"/>
+	</game>
+</datafile>

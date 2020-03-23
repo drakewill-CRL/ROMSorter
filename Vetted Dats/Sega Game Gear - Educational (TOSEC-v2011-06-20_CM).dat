@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega Game Gear - Educational</name>
+		<description>Sega Game Gear - Educational (TOSEC-v2011-06-20)</description>
+		<category>TOSEC</category>
+		<version>2011-06-20</version>
+		<author>Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Car Licence (1995)(Mitsubishi Chemical Corporation - Nayuta)(JP)">
+		<description>Car Licence (1995)(Mitsubishi Chemical Corporation - Nayuta)(JP)</description>
+		<rom name="Car Licence (1995)(Mitsubishi Chemical Corporation - Nayuta)(JP).bin" size="524288" crc="f6a697f8" md5="93ee0c56d725daa0a79dce458ff54e5e" sha1="0cf691dba7080a1f8d4a181563948b188115ec89"/>
+	</game>
+</datafile>

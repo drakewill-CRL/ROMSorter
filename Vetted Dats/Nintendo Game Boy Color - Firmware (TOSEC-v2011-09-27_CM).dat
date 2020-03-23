@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo Game Boy Color - Firmware</name>
+		<description>Nintendo Game Boy Color - Firmware (TOSEC-v2011-09-27)</description>
+		<category>TOSEC</category>
+		<version>2011-09-27</version>
+		<author>Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Nintendo Game Boy Color BIOS (1998)(Nintendo)">
+		<description>Nintendo Game Boy Color BIOS (1998)(Nintendo)</description>
+		<rom name="Nintendo Game Boy Color BIOS (1998)(Nintendo).bin" size="2304" crc="41884e46" md5="dbfce9db9deaa2567f6a84fde55f9680" sha1="1293d68bf9643bc4f36954c1e80e38f39864528d"/>
+	</game>
+</datafile>

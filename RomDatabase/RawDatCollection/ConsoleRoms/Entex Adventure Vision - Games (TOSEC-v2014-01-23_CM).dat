@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Entex Adventure Vision - Games</name>
+		<description>Entex Adventure Vision - Games (TOSEC-v2014-01-23)</description>
+		<category>TOSEC</category>
+		<version>2014-01-23</version>
+		<author>Grendel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Defender (1982)(Entex Industries)[release number 6075]">
+		<description>Defender (1982)(Entex Industries)[release number 6075]</description>
+		<rom name="Defender (1982)(Entex Industries)[release number 6075].bin" size="4096" crc="3e280096" md5="24fa782ff3e76241c4862481802e5347" sha1="33e6bc08b3e8a951942e078102e90fbc8ba729a8"/>
+	</game>
+	<game name="Space Force (1982)(Entex Industries)[release number 6078]">
+		<description>Space Force (1982)(Entex Industries)[release number 6078]</description>
+		<rom name="Space Force (1982)(Entex Industries)[release number 6078].bin" size="4096" crc="c70d4028" md5="a991ce001b95c2c3455a8b2b30a47f61" sha1="86c1a6eb8a5070f4be32bf4e83c0d5951e831d27"/>
+	</game>
+	<game name="Super Cobra (1982)(Entex Industries)[release number 6077]">
+		<description>Super Cobra (1982)(Entex Industries)[release number 6077]</description>
+		<rom name="Super Cobra (1982)(Entex Industries)[release number 6077].bin" size="4096" crc="b6045c9e" md5="42acae1f1005044cc912853bf729331c" sha1="fd059081d8d82f51dd1415cc3710f1fa5ebb1336"/>
+	</game>
+	<game name="Turtles (1982)(Entex Industries)[release number 6076]">
+		<description>Turtles (1982)(Entex Industries)[release number 6076]</description>
+		<rom name="Turtles (1982)(Entex Industries)[release number 6076].bin" size="4096" crc="33a23eba" md5="3e7a1ce7b7d69fecd67792a375864759" sha1="88748cf4080646e0a2f115a7f6e6001916314816"/>
+	</game>
+</datafile>

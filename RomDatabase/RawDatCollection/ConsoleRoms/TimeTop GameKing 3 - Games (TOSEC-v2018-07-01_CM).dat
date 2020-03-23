@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>TimeTop GameKing 3 - Games</name>
+		<description>TimeTop GameKing 3 - Games (TOSEC-v2018-07-01)</description>
+		<category>TOSEC</category>
+		<version>2018-07-01</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Adventure (200x)(TimeTop)">
+		<description>Adventure (200x)(TimeTop)</description>
+		<rom name="Adventure (200x)(TimeTop).bin" size="524288" crc="70082274" md5="92c99c184a66048b31a0ad025583b249" sha1="83b164719b2c2d5c133ca05c9fac0102b0d88e4c"/>
+	</game>
+	<game name="Fly Cab (200x)(TimeTop)">
+		<description>Fly Cab (200x)(TimeTop)</description>
+		<rom name="Fly Cab (200x)(TimeTop).bin" size="524288" crc="da314211" md5="4f6d20fb8f7afb21cc8be24801f9991d" sha1="ea901fe7a7aea203afe6fe0d33e374163cec0262"/>
+	</game>
+	<game name="Urgent Action (200x)(TimeTop)">
+		<description>Urgent Action (200x)(TimeTop)</description>
+		<rom name="Urgent Action (200x)(TimeTop).bin" size="524288" crc="dcf935f8" md5="2c55aef0e3ce76cc4ffc3864f8489b16" sha1="9c1375c622caab9e328ee66434087a18a16ea036"/>
+	</game>
+</datafile>

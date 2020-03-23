@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tomy Tutor &amp; Pyuuta - Firmware</name>
+		<description>Tomy Tutor &amp; Pyuuta - Firmware (TOSEC-v2014-06-06)</description>
+		<category>TOSEC</category>
+		<version>2014-06-06</version>
+		<author>F0XHOUND</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Tomy Tutor BIOS Image (1983)(Tomy)[16k]">
+		<description>Tomy Tutor BIOS Image (1983)(Tomy)[16k]</description>
+		<rom name="Tomy Tutor BIOS Image (1983)(Tomy)[16k].bin" size="16384" crc="05f228f5" md5="5770834c10946ac2c3617504ba530884" sha1="46a14a45f6f9e2c30663a2b87ce60c42768a78d0"/>
+	</game>
+	<game name="Tomy Tutor BIOS Image (1983)(Tomy)[32k]">
+		<description>Tomy Tutor BIOS Image (1983)(Tomy)[32k]</description>
+		<rom name="Tomy Tutor BIOS Image (1983)(Tomy)[32k].bin" size="32768" crc="702c38ba" md5="196ba41dd1184fe754390534cc273116" sha1="ce60607c3038895e31915d41bb5cf71cb8522d7a"/>
+	</game>
+</datafile>

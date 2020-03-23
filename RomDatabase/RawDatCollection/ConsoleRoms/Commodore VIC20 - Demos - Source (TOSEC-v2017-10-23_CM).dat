@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore VIC20 - Demos - Source</name>
+		<description>Commodore VIC20 - Demos - Source (TOSEC-v2017-10-23)</description>
+		<category>TOSEC</category>
+		<version>2017-10-23</version>
+		<author>Tomse</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+		<clrmamepro/>
+	</header>
+	<game name="Bouncing Ball II (1998-04)(OCSA)[unexpanded]">
+		<description>Bouncing Ball II (1998-04)(OCSA)[unexpanded]</description>
+		<rom name="0intro.asm" size="11451" crc="c209b5c9" md5="17024330770d37ac39ab7498fa56e456" sha1="289d5382a517ccfdf4b9aec9114a0435fbed1ed5"/>
+		<rom name="1rave.asm" size="14139" crc="71f7e9a0" md5="cda4e2ffd47383e50548e3e6bf0a8317" sha1="6bb25df3e495f16f530c5d275b8bae110b41fa67"/>
+		<rom name="2tunnel.asm" size="16831" crc="a9658262" md5="c6832999b27000c3fef4dff5a8c9e880" sha1="6938bd3b31eb55f83858b3e7daf1b83d3c13085f"/>
+		<rom name="3end.asm" size="6050" crc="6fcf9976" md5="d2383e77e57684801a87c76798dc4557" sha1="38ece8b99189ce0d4def184cb1724e6ad7ca1843"/>
+		<rom name="bball.nfo" size="4704" crc="c6365c1d" md5="6cdc22c7a211bcab9c9148dd3350e7fa" sha1="94c87737db734c5a46890b8e94f445e4914a6ce1"/>
+		<rom name="file_id.diz" size="114" crc="9042e16b" md5="2160d09458f58933b1c49181f72bce4a" sha1="01e85f254f25d29fd563edb28ef9a14fe7db83f2"/>
+		<rom name="KIIKEII" size="449" crc="9e8d3aa8" md5="8f8e8f4409a75a19de5d1d3025e29a05" sha1="067e267381a738a0ff593e39d98cb163e233edd9"/>
+	</game>
+</datafile>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>MSX MSX2 - Games - [CAS]</name>
+		<description>MSX MSX2 - Games - [CAS] (TOSEC-v2012-04-15)</description>
+		<category>TOSEC</category>
+		<version>2012-04-15</version>
+		<author>XakMSX - VG8020 - jugaor - Apache - Grendel - cbeard - tcm1998</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Chess Game 2, The (1986)(Eaglesoft)(NL)[RUN'CAS-']">
+		<description>Chess Game 2, The (1986)(Eaglesoft)(NL)[RUN'CAS-']</description>
+		<rom name="Chess Game 2, The (1986)(Eaglesoft)(NL)[RUN'CAS-'].cas" size="63296" crc="58523f94" md5="e180c7b2910b2c35a03910dcbee852f3" sha1="b8a706f228c2f7baee88f67ea7b68fb26e50f5b2"/>
+	</game>
+	<game name="Red Lights of Amsterdam (1986)(Eaglesoft)(NL)(Side A)[RUN'CAS-']">
+		<description>Red Lights of Amsterdam (1986)(Eaglesoft)(NL)(Side A)[RUN'CAS-']</description>
+		<rom name="Red Lights of Amsterdam (1986)(Eaglesoft)(NL)(Side A)[RUN'CAS-'].cas" size="52193" crc="fced9743" md5="a2cc4d5bdbd30afb3bd9a5561b4f6820" sha1="eeb226eab09670fd11f3d797ce667a11133cfd7c"/>
+	</game>
+	<game name="Red Lights of Amsterdam (1986)(Eaglesoft)(NL)(Side B)[RUN'CAS-']">
+		<description>Red Lights of Amsterdam (1986)(Eaglesoft)(NL)(Side B)[RUN'CAS-']</description>
+		<rom name="Red Lights of Amsterdam (1986)(Eaglesoft)(NL)(Side B)[RUN'CAS-'].cas" size="120071" crc="e3bd39b3" md5="839d2ed8de9bfa8fe4f96ed05bf11476" sha1="bb8b304ff3f8a527648fb765da2ff9284f5c9f4c"/>
+	</game>
+	<game name="Red Lights of Amsterdam (1986)(Eaglesoft)(NL)[RUN'CAS-']">
+		<description>Red Lights of Amsterdam (1986)(Eaglesoft)(NL)[RUN'CAS-']</description>
+		<rom name="Red Lights of Amsterdam (1986)(Eaglesoft)(NL)[RUN'CAS-'].cas" size="172263" crc="443d80f9" md5="c12b24782084b8f604b21d39ea58659a" sha1="b8323adf0b5c9d05223f3c587d52d94b933c00f6"/>
+	</game>
+</datafile>

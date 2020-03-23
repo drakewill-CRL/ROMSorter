@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Interact Family Computer - Educational</name>
+		<description>Interact Family Computer - Educational (TOSEC-v2014-01-18)</description>
+		<category>TOSEC</category>
+		<version>2014-01-18</version>
+		<author>Cid - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Touch Down!! (19xx)(-)">
+		<description>Touch Down!! (19xx)(-)</description>
+		<rom name="Touch Down!! (19xx)(-).cin" size="8178" crc="e047d0fa" md5="32cbf3c0a6209a2a307c5fa9bfe27477" sha1="2b86fbebcd01af754b8c9cf08b20e1a8a6b513d7"/>
+	</game>
+</datafile>

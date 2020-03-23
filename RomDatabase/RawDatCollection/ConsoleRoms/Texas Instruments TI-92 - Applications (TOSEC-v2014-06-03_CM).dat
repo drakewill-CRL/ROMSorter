@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Texas Instruments TI-92 - Applications</name>
+		<description>Texas Instruments TI-92 - Applications (TOSEC-v2014-06-03)</description>
+		<category>TOSEC</category>
+		<version>2014-06-03</version>
+		<author>Cid - Grendel - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Version Chk (1992)(JMN Softwares)(PD)[Chip-8]">
+		<description>Version Chk (1992)(JMN Softwares)(PD)[Chip-8]</description>
+		<rom name="Version Chk (1992)(JMN Softwares)(PD)[Chip-8].9xz" size="431" crc="380d87b8" md5="679387e5d3b16bf538e669cd2012a035" sha1="63bc33cd6b335849cf1fbe26ab6858d43fdecc73"/>
+	</game>
+</datafile>

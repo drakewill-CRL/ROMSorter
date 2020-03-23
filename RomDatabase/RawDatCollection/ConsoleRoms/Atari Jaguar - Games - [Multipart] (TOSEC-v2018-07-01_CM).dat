@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Atari Jaguar - Games - [Multipart]</name>
+		<description>Atari Jaguar - Games - [Multipart] (TOSEC-v2018-07-01)</description>
+		<category>TOSEC</category>
+		<version>2018-07-01</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Air Cars (1994)(Midnite Entertainment Group)">
+		<description>Air Cars (1994)(Midnite Entertainment Group)</description>
+		<rom name="Air Cars (1994)(Midnite Entertainment Group).u1" size="1048576" crc="bbd4c4bd" md5="0446a350eeac927c2d6e371f942766f1" sha1="4f9c914b43208eb100fb25b8be87dec370fd205d"/>
+		<rom name="Air Cars (1994)(Midnite Entertainment Group).u2" size="1048576" crc="d9958c79" md5="28803ff21cd725b6835fd2898aaad4ef" sha1="d7aa26e084b68023076ac025eff819f0e568e2a0"/>
+	</game>
+</datafile>

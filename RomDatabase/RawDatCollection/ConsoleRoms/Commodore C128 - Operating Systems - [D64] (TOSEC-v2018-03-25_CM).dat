@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C128 - Operating Systems - [D64]</name>
+		<description>Commodore C128 - Operating Systems - [D64] (TOSEC-v2018-03-25)</description>
+		<category>TOSEC</category>
+		<version>2018-03-25</version>
+		<author>Tomse</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="AceDOS128 (2010-04-07)(MIRKOSOFT)">
+		<description>AceDOS128 (2010-04-07)(MIRKOSOFT)</description>
+		<rom name="AceDOS128 (2010-04-07)(MIRKOSOFT).d64" size="174848" crc="2a045d1e" md5="3991a73c18f85b2a50d02ed3ad5674df" sha1="bbf91e0d32b006914d1acab407541251f29cccd3"/>
+	</game>
+	<game name="AceDOS128 (2010-04-07)(MIRKOSOFT)[a]">
+		<description>AceDOS128 (2010-04-07)(MIRKOSOFT)[a]</description>
+		<rom name="AceDOS128 (2010-04-07)(MIRKOSOFT)[a].d64" size="174848" crc="3ba31db1" md5="b66716be3cbce138a902d88d6037c2ac" sha1="0dba9c26709bc6a407a4ea7b136e1ffd129361f8"/>
+	</game>
+	<game name="AceDOS128 v1.1 (2010-05-22)(MIRKOSOFT)">
+		<description>AceDOS128 v1.1 (2010-05-22)(MIRKOSOFT)</description>
+		<rom name="AceDOS128 v1.1 (2010-05-22)(MIRKOSOFT).d64" size="174848" crc="877bc730" md5="c1bef5df9d1619a32e32d3140a3c401a" sha1="6eb2b00259a53e2aa7e796c91b26045d8eff9e0b"/>
+	</game>
+	<game name="Contiki v3.0 (2015-08-25)(contiki-os.org)(Side 1 of 2)">
+		<description>Contiki v3.0 (2015-08-25)(contiki-os.org)(Side 1 of 2)</description>
+		<rom name="Contiki v3.0 (2015-08-25)(contiki-os.org)(Side 1 of 2).d64" size="174848" crc="90d3fddc" md5="66828248b15c843fa552ad773ad0a04d" sha1="d913a06c52e236574751045b06bb464a4188eaf5"/>
+	</game>
+	<game name="Contiki v3.0 (2015-08-25)(contiki-os.org)(Side 2 of 2)">
+		<description>Contiki v3.0 (2015-08-25)(contiki-os.org)(Side 2 of 2)</description>
+		<rom name="Contiki v3.0 (2015-08-25)(contiki-os.org)(Side 2 of 2).d64" size="174848" crc="a94d0b75" md5="da763a867ace21189e12467294afd6d5" sha1="a883fbbc5cf281570861784efcdabd958cfa7301"/>
+	</game>
+	<game name="CPM 3.0 Boot Disk (1985)(Commodore)[minimal]">
+		<description>CPM 3.0 Boot Disk (1985)(Commodore)[minimal]</description>
+		<rom name="CPM 3.0 Boot Disk (1985)(Commodore)[minimal].d64" size="174848" crc="c5374da3" md5="bcafe6c815648f4c26e5f1db8a95d663" sha1="e125d999bd8f5e4457985347ef51415c5221f3ed"/>
+	</game>
+	<game name="CPM System (1987-05-28)(Commodore)(Side A)">
+		<description>CPM System (1987-05-28)(Commodore)(Side A)</description>
+		<rom name="CPM System (1987-05-28)(Commodore)(Side A).d64" size="174848" crc="b4e03dec" md5="67ce73319903045d63065b79a709ef83" sha1="be262f94ed28dd069eb1d904b3c9737104649414"/>
+	</game>
+	<game name="CPM System (1987-05-28)(Commodore)(Side B)">
+		<description>CPM System (1987-05-28)(Commodore)(Side B)</description>
+		<rom name="CPM System (1987-05-28)(Commodore)(Side B).d64" size="174848" crc="9bf30ab7" md5="e03b4b2a7b8a8f3d03135a601c73b6e1" sha1="cc056c36e6a8d31997410b21809ebbbe07cfbee4"/>
+	</game>
+	<game name="CPM System Fast (1987-05-28)(Commodore)(Side A)[m Linards Ticmanis]">
+		<description>CPM System Fast (1987-05-28)(Commodore)(Side A)[m Linards Ticmanis]</description>
+		<rom name="CPM System Fast (1987-05-28)(Commodore)(Side A)[m Linards Ticmanis].d64" size="174848" crc="f8979523" md5="044b4dbe22e154beee66964d1b8657a8" sha1="d6ac44d0168d2a379781a0668b0359df782820c3"/>
+	</game>
+	<game name="CPM System Fast (1987-05-28)(Commodore)(Side B)[m Linards Ticmanis]">
+		<description>CPM System Fast (1987-05-28)(Commodore)(Side B)[m Linards Ticmanis]</description>
+		<rom name="CPM System Fast (1987-05-28)(Commodore)(Side B)[m Linards Ticmanis].d64" size="174848" crc="f6cdec53" md5="f4d085f22c130cca5ee95b6d5e5563a1" sha1="178e7d182dc82534dee19fcb022a552ac6085ea8"/>
+	</game>
+</datafile>

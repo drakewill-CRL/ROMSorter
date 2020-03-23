@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega Dreamcast [T-En]</name>
+		<description>Sega Dreamcast [T-En]</description>
+		<category>English Translations</category>
+		<version>20121007</version>
+		<date>20121007</date>
+		<author>Powerpuff</author>
+		<email>-insert email-</email>
+		<homepage>Maybe-Intro</homepage>
+		<url>http://maybeintro.wordpress.com/</url>
+		<comment>Maybe-Intro</comment>
+		<clrmamepro/>
+	</header>
+	<game name="_Sega Dreamcast [T-En] Docs">
+		<description>_Sega Dreamcast [T-En] Docs</description>
+		<rom name="Advanced Daisenryaku 2001 (Japan) [T-En by Nebelwurfer v0.95] [i].txt" size="5581" crc="cfd02d9a" md5="23743ab3a35d15d8310051d31b750a5c" sha1="72559f3bfc9f9c1eb47e32fe220b48d00dca92fd"/>
+		<rom name="Frame Gride (Japan) [T-En by DCHQ v2.0b].txt" size="4234" crc="187246d1" md5="ce7befd0f8aa2edc4c6fa2f157a129f2" sha1="4ea13f91550494a81b668500dad373c7e99a0145"/>
+		<rom name="Space Channel 5 - Part 2 (Japan) [T-En by BrAzE v20110418].txt" size="1384" crc="ba2716ad" md5="96f19d45a98ffd5a3f124336893592c6" sha1="cb032f8214fe3ef173b7e0f95fcfa79b58cd2040"/>
+	</game>
+	<game name="Advanced Daisenryaku 2001 (Japan) [T-En by Nebelwurfer v0.95] [i]">
+		<description>Advanced Daisenryaku 2001 (Japan) [T-En by Nebelwurfer v0.95] [i]</description>
+		<rom name="Advanced Daisenryaku 2001 (Japan) [T-En by Nebelwurfer v0.95] [i].cdi" size="805017184" crc="2d86d9af" md5="811b7647e582d016d8fbeaf484cdac60" sha1="32739db3d457059f350da947910147fd72475fb9"/>
+	</game>
+	<game name="Frame Gride (Japan) [T-En by DCHQ v2.0b]">
+		<description>Frame Gride (Japan) [T-En by DCHQ v2.0b]</description>
+		<rom name="Frame Gride (Japan) [T-En by DCHQ v2.0b].cdi" size="802793456" crc="49d387f9" md5="22f5e857edc19b5f431418299f9e4ee9" sha1="9fcfc6c184c20a14c6210eafc6d5ab34554e2173"/>
+	</game>
+	<game name="Space Channel 5 - Part 2 (Japan) [T-En by BrAzE v20110418]">
+		<description>Space Channel 5 - Part 2 (Japan) [T-En by BrAzE v20110418]</description>
+		<rom name="Space Channel 5 - Part 2 (Japan) [T-En by BrAzE v20110418].cdi" size="813856328" crc="ac8d217c" md5="8c53d0f59bbe267e6a7ebcb358693a63" sha1="1d821208b655ef96a63c1a58d14983bfa85bd921"/>
+	</game>
+</datafile>

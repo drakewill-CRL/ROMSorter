@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Visual Pinball [VP8] Recreated Tables [MODs, HACKs]</name>
+		<description>Visual Pinball [VP8] Recreated Tables [MODs, HACKs]</description>
+		<category>Visual Pinball [VP8] Recreated Tables [MODs, HACKs]</category>
+		<version>1.0</version>
+		<date>2020-01-01</date>
+		<author>Yori Yoshizuki</author>
+		<email>-insert email-</email>
+		<homepage>Yori Yoshizuki</homepage>
+		<url>https://yoshizuki.webs.com</url>
+		<comment>-insert comment-</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Ali Baba (Gottlieb)(1948)(Duglis, Robair)[VP8][MOD v1.1.0 Humid]">
+		<description>Ali Baba (Gottlieb)(1948)(Duglis, Robair)[VP8][MOD v1.1.0 Humid]</description>
+		<rom name="Ali Baba Mod 1.0 (Gottlieb 1948).vpt" size="3111936" crc="1e947297" sha1="cef5f3aaa13d352a83366149e96d77fa401f6f30"/>
+		<rom name="Ali Baba Mod 1.1 (Gottlieb 1948).vpt" size="3111936" crc="8442dbfd" sha1="a610e775e4b37f4b3c43c0eeda531b6f7af08b5b"/>
+		<rom name="Ali Baba Screen.jpg" size="281787" crc="c19cc5c8" sha1="87120e1ea9cb5e3c4183a0c6ec767db0886ae9b7"/>
+	</machine>
+	<machine name="Butterfly (Segasa d.b.a. Sonic)(1977)(Gerhard, Germax)(1.0)[VP8](MOD v1.1 Humid)">
+		<description>Butterfly (Segasa d.b.a. Sonic)(1977)(Gerhard, Germax)(1.0)[VP8](MOD v1.1 Humid)</description>
+		<rom name="(1.0)[VP8](MOD v1.0 Humid)\Butterfly screenshot.jpg" size="247650" crc="c64f5532" sha1="a8ff56d950830fe8b6c9476b36aaea07160b09c7"/>
+		<rom name="(1.0)[VP8](MOD v1.0 Humid)\Butterfly V1.0.vpt" size="2919936" crc="eaed12f0" sha1="961ca6d0433fc396658f9c3fa3993ddd84e42ff5"/>
+		<rom name="(1.1)[VP8](MOD v1.1 Humid)\Butterfly 1.1.jpg" size="244249" crc="b903d667" sha1="f1dce86933ad94a6fecad41a3dc8395fca2ffdda"/>
+		<rom name="(1.1)[VP8](MOD v1.1 Humid)\Butterfly V1.1.vpt" size="3103744" crc="521cd66a" sha1="567fbfaeb8573a592fd4217860e8faa3fe6efa1c"/>
+	</machine>
+	<machine name="Dragon (Interflip)(1977)(Steveir, Hugh Janus, Duglis, Leon Spalding)(1.0)[VP8][MOD v1.0 Humid]">
+		<description>Dragon (Interflip)(1977)(Steveir, Hugh Janus, Duglis, Leon Spalding)(1.0)[VP8][MOD v1.0 Humid]</description>
+		<rom name="Dragon (Interflip 1977).vpt" size="7371776" crc="e4ecb4a9" sha1="0077b9e05df8153c6846bbd0c00c0ee123e94a48"/>
+		<rom name="Dragon Screen.jpg" size="263801" crc="9502b43d" sha1="26fdf0653d0a1d8309ece5abea96bc7a794b47eb"/>
+	</machine>
+	<machine name="Empire Strikes Back, The (A. Hankin &amp; Co.)(1980)(Eala Dubh Sidhe)(RC1)[VP8][MOD v1.0a King Clam]">
+		<description>Empire Strikes Back, The (A. Hankin &amp; Co.)(1980)(Eala Dubh Sidhe)(RC1)[VP8][MOD v1.0a King Clam]</description>
+		<rom name="1.0\Mod notes.txt" size="647" crc="ccc28823" sha1="64828a0811881217c2da590ae2db4438039a764c"/>
+		<rom name="1.0\The Empire Strikes Back (Mod v.1).vpt" size="8195072" crc="923e7f96" sha1="c64d450edbabd1e75e3f04414b86d2ff1112c7fc"/>
+		<rom name="1.0a\ESB Mod v1a.jpg" size="190841" crc="109eef1e" sha1="1fb632e15796d997f3bb3622c839099cd794816f"/>
+		<rom name="1.0a\Mod notes.txt" size="721" crc="24802359" sha1="5b7dd06b5753767b63a666057a52da1c9698691f"/>
+		<rom name="1.0a\The Empire Strikes Back (Mod v.1a).vpt" size="8195072" crc="9b461960" sha1="18635e761ae65c305fdf395ff39d666b75712de9"/>
+		<rom name="Empire Strikes Back, The (mod) screenshot.jpg" size="190937" crc="d012e723" sha1="379a9e35f07f2747aa3369d07c5354941cf17817"/>
+		<rom name="Fonts\starjedi.ttf" size="25656" crc="fcaba86d" sha1="795839dd1b9630949c56f447529140608bb894b7"/>
+		<rom name="Fonts\trana___.ttf" size="58232" crc="a65607b4" sha1="f89519a6452ebc2bcaf130fd136bcfcc59b28fa6"/>
+		<rom name="permission to mod ESB.jpg" size="96452" crc="101fdf62" sha1="62b651e676aca1f135f9dde824ac99dfeced9102"/>
+	</machine>
+	<machine name="Hi-Diver (Gottlieb)(1959)(Leon Spalding)(RC1)[VP8][MOD v1.0 Humid]">
+		<description>Hi-Diver (Gottlieb)(1959)(Leon Spalding)(RC1)[VP8][MOD v1.0 Humid]</description>
+		<rom name="Hi Diver Mod 1.0 Gottlieb 1959.vpt" size="2964992" crc="d660e84f" sha1="ded721eff6e98fb143f0db208470004568c4bb82"/>
+		<rom name="Hi Diver Screen.jpg" size="273541" crc="c02d0a23" sha1="0d4fdfa1dd87c7da9f336c863623782b86c7ac2f"/>
+	</machine>
+	<machine name="North Star (Gottlieb)(1964)(Leon Spalding)(RC2)[VP8][MOD Gfx v1.0 Humid]">
+		<description>North Star (Gottlieb)(1964)(Leon Spalding)(RC2)[VP8][MOD Gfx v1.0 Humid]</description>
+		<rom name="Fonts\bradhitc.ttf" size="105296" crc="66d17504" sha1="bc773a38f567c9ecec65485bc588065f2215a386"/>
+		<rom name="North Star Gottlieb 1964.vpt" size="3161600" crc="cc5fbc41" sha1="d8ed533324429d4591a0343939e66aecdcb6144e"/>
+		<rom name="North Star.jpg" size="277892" crc="755f3aec" sha1="c07431468c03243d0d6b341a068048c8509ebc86"/>
+	</machine>
+</datafile>

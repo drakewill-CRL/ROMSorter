@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo Game Boy - Demos</name>
+		<description>Nintendo Game Boy - Demos (TOSEC-v2011-08-13)</description>
+		<category>TOSEC</category>
+		<version>2011-08-13</version>
+		<author>Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Ash Demo (19xx)(-)(PD)">
+		<description>Ash Demo (19xx)(-)(PD)</description>
+		<rom name="Ash Demo (19xx)(-)(PD).bin" size="32768" crc="7aba98d2" md5="5a40cbb06c6edb1358276c83e2ca83c2" sha1="8fdf019f426518cb40aacedb5ca1108a64ce955f"/>
+	</game>
+</datafile>

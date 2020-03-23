@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Texas Instruments TI-82 - Compilations - Games</name>
+		<description>Texas Instruments TI-82 - Compilations - Games (TOSEC-v2014-06-30)</description>
+		<category>TOSEC</category>
+		<version>2014-06-30</version>
+		<author>Diaboł</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Bored Games (1999)(Carmona, Juan)">
+		<description>Bored Games (1999)(Carmona, Juan)</description>
+		<rom name="brdgames.82G" size="5037" crc="e3efa831" md5="fe1b41a552863ada30eb7ba638d189f7" sha1="77c6d20448158dc939665388ac593fc499796a07"/>
+		<rom name="Instructions.txt" size="1570" crc="c874c9b1" md5="6d9516dc59ab53706b76280b94ab7454" sha1="a85b54380ec984d5babe5ebf505c1aebea05f296"/>
+	</game>
+	<game name="Brain-Wave Software Package v1.0 (2000)(Brain-Wave)">
+		<description>Brain-Wave Software Package v1.0 (2000)(Brain-Wave)</description>
+		<rom name="bwsw.82g" size="26037" crc="2561d580" md5="49266b1ce2483872ec41b1f1cf6c98c6" sha1="e409a305433e2a0177dccf2196ed92369d587be6"/>
+		<rom name="PleaseRead!.txt" size="2834" crc="2bcd0204" md5="9ab4cdd07272922d0b6e092a9a521e9f" sha1="0bf22afbbdf15eac0f1daadb6939069a61bef780"/>
+	</game>
+	<game name="Eric Ries' Games (1998)(Ries, Eric)">
+		<description>Eric Ries' Games (1998)(Ries, Eric)</description>
+		<rom name="ERGAMES.82G" size="7090" crc="40b6e9cb" md5="9501303a47e1e6ced523e970cab20fc0" sha1="cc01573e150bc292fb4b40571e56a6d4feeab321"/>
+	</game>
+	<game name="Game Pack 1 (1997)(MacDougald, Christopher)">
+		<description>Game Pack 1 (1997)(MacDougald, Christopher)</description>
+		<rom name="GAME1-82.BMP" size="13102" crc="e3fe6042" md5="ec96f75cc82c9305954d6e17f3c1ddc0" sha1="4c5f452a3a4f4b0c0010fed7059d8943b15cc43f"/>
+		<rom name="GAME1-82.WRI" size="2944" crc="5b4c25e8" md5="4b67d2c80024290d6c894a8626efb36d" sha1="714213c9ce4f555679fc93c6b8e49692ee58e234"/>
+		<rom name="GAME1.82P" size="6419" crc="2d484593" md5="cb77c28102c2bf0066072cb3dbde69fb" sha1="998e93299c903c59d04cad678201b9875d451269"/>
+	</game>
+	<game name="Game Pak (1998)(-)">
+		<description>Game Pak (1998)(-)</description>
+		<rom name="GAMEPAK.82G" size="8680" crc="effe97d1" md5="59dd36aa3645a459284a0c5f4dae71e4" sha1="075a0df47696f051567e86ec106f3c916e56ba3c"/>
+	</game>
+	<game name="Old Smurf Betas (2000)(Porkboy)">
+		<description>Old Smurf Betas (2000)(Porkboy)</description>
+		<rom name="oldness.txt" size="576" crc="1a7175b7" md5="c3eceeb0d5854f00c515e1f84f455149" sha1="85b1b6cd8ee7b619e52ed8103cc9a14dcadbf560"/>
+		<rom name="SMURF17A.82P" size="2062" crc="1fb24955" md5="14e190aead1f7148850f01f4b499d15c" sha1="179540f9b9882cdaf3fdc64b139e723f5897ef8f"/>
+		<rom name="Smurf20.82p" size="2227" crc="cbb61fb2" md5="a59ec75df1ad977533df4a0010cd0213" sha1="9542ebf556f50179fac916933786a079c006df5e"/>
+		<rom name="Smurf21c.82p" size="2638" crc="c582673b" md5="bf284849b8f115a2c00ad993f98475a9" sha1="8535a08cbf8be568e5fd091f58aa2d7a6fe24e37"/>
+		<rom name="Smurfi15.82p" size="1823" crc="c43adab1" md5="e6249202eacc871476e93c3a1b71fffd" sha1="4d570d5b25690eba81a20751f482667a9bf3d22c"/>
+		<rom name="SMURFI7.82P" size="1921" crc="c093f164" md5="cdbdbc711673393b9a520861800f78b1" sha1="16a9a094989ae6efda8a57cae3cb9c62884b1ae3"/>
+		<rom name="SMURFIN1.82P" size="2104" crc="89776cbb" md5="b3ece04b522fd4d7cb619074b1d8dabb" sha1="95eba1fb39f7170ac68db406c987900cfeb38ad9"/>
+		<rom name="smurfing.txt" size="1862" crc="676a8183" md5="acf7e34be63915d1896bc25ee68ee277" sha1="b764fafca5603b4fa899b3547f1a95cb8fba7451"/>
+		<rom name="smurfy.82g" size="2046" crc="757bbdbb" md5="063c38f04b994462f35997a5872f5ab1" sha1="32bbdc2710bf974aa0219ed4223a884b8bb4a8fb"/>
+	</game>
+	<game name="Phil Snake and Horse Racing (2001)(Phil Software)">
+		<description>Phil Snake and Horse Racing (2001)(Phil Software)</description>
+		<rom name="Readme.txt" size="1361" crc="80470508" md5="ea6740d5f89e8b6542b3b2b876083efb" sha1="2180f5950e83492734372fcc2a1508ce5fb18db4"/>
+		<rom name="snakhors.82g" size="3581" crc="5e61b3ef" md5="705190697c8f9c4da0252e646914360a" sha1="67861e57bd1811cfd735bb7ae3937fd98fb12a1a"/>
+	</game>
+</datafile>

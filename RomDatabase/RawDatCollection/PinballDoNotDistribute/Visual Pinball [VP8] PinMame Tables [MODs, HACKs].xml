@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Visual Pinball [VP8] PinMame Tables [MODs, HACKs]</name>
+		<description>Visual Pinball [VP8] PinMame Tables [MODs, HACKs]</description>
+		<category>Visual Pinball [VP8] PinMame Tables [MODs, HACKs]</category>
+		<version>1.0</version>
+		<date>2020-01-01</date>
+		<author>Yori Yoshizuki</author>
+		<email>-insert email-</email>
+		<homepage>Yori Yoshizuki</homepage>
+		<url>https://yoshizuki.webs.com</url>
+		<comment>-insert comment-</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Amazon Hunt (Gottlieb)(1983)">
+		<description>Amazon Hunt (Gottlieb)(1983)</description>
+		<rom name="Amazon Hunt (Gottlieb)(1983)(Destruk, Luvthatapex)(1.0)[Mod rob046].vpt" size="6583296" crc="e026b517" sha1="d8e75aa2311c9ee40d3417f8690962ffc6308a22"/>
+		<rom name="Amazon Hunt screenshot.jpg" size="287575" crc="72796e88" sha1="b08bcf10432d95157f6a8b71babc3d66a7c0ae43"/>
+		<rom name="amazonh.nv" size="302" crc="ba1050c7" sha1="0c60133681b6e25d85908be6c20bb71971ab10c8"/>
+	</machine>
+	<machine name="Attack from Mars (Bally)(1995)(Ian Boffin, PacDude)(2.80)[VP8][MOD Debug v2.87 Jive]">
+		<description>Attack from Mars (Bally)(1995)(Ian Boffin, PacDude)(2.80)[VP8][MOD Debug v2.87 Jive]</description>
+		<rom name="2.8.7.jpg" size="221012" crc="2c8589a1" sha1="e6bd9a5aaa05e293fcc192752a79e98b4fdf03d2"/>
+		<rom name="Attack From Mars Jives mod 2_87-rules.txt" size="14338" crc="353fbf81" sha1="9d8731c2e5ef4a9abdb87a9562f970eafdfd9ce0"/>
+		<rom name="Attack From Mars Jives mod 2_87.txt" size="2279" crc="507e7b95" sha1="b1ba2c4b5ca618a878da01596e3c4358d1e5990d"/>
+		<rom name="Attack From Mars Jives mod 2_87.vpt" size="4013056" crc="9196b2ad" sha1="44e7dbbd23b95bc4f3d08a2cc2183f9aaade293d"/>
+		<rom name="Full Pinball Table.jpg" size="215604" crc="fcb0b9da" sha1="f7cd8711855601bd1fb152701d6effab9f07ca7a"/>
+	</machine>
+	<machine name="Attack from Mars (Bally)(1995)(Ian Boffin, PacDude)(2.80)[VP8][MOD v2.90 Jive]">
+		<description>Attack from Mars (Bally)(1995)(Ian Boffin, PacDude)(2.80)[VP8][MOD v2.90 Jive]</description>
+		<rom name="AFM Jives mod v2_80 vs v2_90.jpg" size="79403" crc="b40843c5" sha1="acdb0b6885109fde0df6a4e44a0d378b5d7b8588"/>
+		<rom name="Attack From Mars - rules.txt" size="14331" crc="1a73dbc3" sha1="5794d02fa7708d9cc07ebc37cfa0b346b2c3b2e5"/>
+		<rom name="Attack From Mars 2_80.jpg" size="136202" crc="839dd3b5" sha1="709db01e891d65bde3303cfcd215b97cf5ffd120"/>
+		<rom name="Attack From Mars Jives mod 2_90.jpg" size="196972" crc="52f9f53a" sha1="86463bc138fd470f947636d8646061794a1ae56d"/>
+		<rom name="Attack From Mars Jives mod 2_90.txt" size="3676" crc="cb842bc8" sha1="c3f781f5eecfe2282242b0f9d4b2c7d93638055e"/>
+		<rom name="Attack From Mars Jives mod 2_90.vpt" size="4519936" crc="d0dd033d" sha1="e8e6c2ae663931ec89119d349ade64fac8f938b4"/>
+		<rom name="vbs\core.vbs" size="77829" crc="5d605471" sha1="a6d3b3b48ee11fbb305f6d4395fdcc9fdd802594"/>
+		<rom name="vbs\VPMKeys.vbs" size="2907" crc="4c2dcd49" sha1="56e416b4e887ebfe2f5e54129ea50e5434d2cc95"/>
+		<rom name="vbs\WPC.vbs" size="5648" crc="ea658b38" sha1="10e692704b9090b9be8c69bbf325cd2fbfb31ab3"/>
+	</machine>
+	<machine name="Back to the Future (Data East)(1990)(AJ, Destruk ,Selenoff)(1.1)[VP8][MOD DJSpeedy, Jive 1.32 XP2]">
+		<description>Back to the Future (Data East)(1990)(AJ, Destruk ,Selenoff)(1.1)[VP8][MOD DJSpeedy, Jive 1.32 XP2]</description>
+		<rom name="Back to the Future 1.32 XP2 - Rules.txt" size="14172" crc="2e4591e8" sha1="2d60af0275b0649b667df8e99b1144c735d4d2ea"/>
+		<rom name="Back to the Future 1.32 XP2.txt" size="4706" crc="948dcea3" sha1="6215e0ca3c9772aec69214508b6a31b6b9df4ea6"/>
+		<rom name="Back to the Future screenshot.jpg" size="203358" crc="77b2f14c" sha1="8a03e4d72975b58796a11933ef6cb063f2b1a322"/>
+		<rom name="Back to the Future.vpt" size="1567232" crc="8350851d" sha1="a92c700cdeb7b9cbe427601328a88b88129bf32b"/>
+		<rom name="BTTF Multi-Rom Mod.txt" size="1173" crc="2e5896ba" sha1="7b5a9db4be093cdda2638d6ad0fae261080c7ed6"/>
+		<rom name="vbs\core.vbs" size="77829" crc="5d605471" sha1="a6d3b3b48ee11fbb305f6d4395fdcc9fdd802594"/>
+		<rom name="vbs\de.vbs" size="4094" crc="d121dbd0" sha1="8753d5c57937e7202e432aba26fbccb28f6f53dd"/>
+		<rom name="vbs\VPMKeys.vbs" size="2907" crc="4c2dcd49" sha1="56e416b4e887ebfe2f5e54129ea50e5434d2cc95"/>
+	</machine>
+	<machine name="Black Rose (Lord Hiyru)(1.0)[VP8][MOD Graphics v1.1 Nealtron]">
+		<description>Black Rose (Lord Hiyru)(1.0)[VP8][MOD Graphics v1.1 Nealtron]</description>
+		<rom name="screenshot.jpg" size="389355" crc="9279a497" sha1="f76d6a1d0b2f183858a40a841a0b86ce50aa05da"/>
+		<rom name="VP8 Black Rose (Mod 1.1).vpt" size="9255936" crc="275596b1" sha1="ce5376da335ef5cb103a253cdbb97057064beecf"/>
+	</machine>
+	<machine name="Bugs Bunny's Birthday Ball (Shbep)(0.9b)[VP8][MOD Jive v1.0]">
+		<description>Bugs Bunny's Birthday Ball (Shbep)(0.9b)[VP8][MOD Jive v1.0]</description>
+		<rom name="Bugs Bunny Birthday Ball 1.0.vpt" size="3258368" crc="ebfe7aa5" sha1="3a479275e69ef087d875a3a930089f42155bf2d6"/>
+		<rom name="Bugs Bunny Birthday Ball_Jive.jpg" size="188071" crc="4fe84496" sha1="679f32321bedc2477b56b6421a6507251fb3d8cc"/>
+		<rom name="Bugs Bunny Birthday Ball_Shep.jpg" size="164166" crc="a969de01" sha1="4652358c86dc9cba32fbf69eb9eebe016d4cb079"/>
+		<rom name="Bugs_Bunny_BdB.pdf" size="608965" crc="065a86e0" sha1="61f381a6de2c7ad5cf1349d5df92983148f00860"/>
+		<rom name="card.jpg" size="46185" crc="6b9f6f7b" sha1="48b5e085162408196563bb0b52f871114dad06d1"/>
+		<rom name="instructions card.jpg" size="114678" crc="cb7ff3b7" sha1="cda8a77cf4111940dafa5c257bd20a4341aaa093"/>
+		<rom name="s11.vbs" size="4747" crc="2c52096e" sha1="199b1ebfb6d55f3908684331d1942bd0f46ff2dc"/>
+	</machine>
+	<machine name="Caribbean Cruise (Gottlieb)(1989)(Destruk, Apocalypse, Zaphod, Gaston)[MOD v1.0 Humid]">
+		<description>Caribbean Cruise (Gottlieb)(1989)(Destruk, Apocalypse, Zaphod, Gaston)[MOD v1.0 Humid]</description>
+		<rom name="Caribbean Cruise Gottlieb 1989.vpt" size="3388416" crc="ce6610db" sha1="0484d92cca48eaf950a0d765a84147e7f1a7e41f"/>
+		<rom name="Cruise Screen.jpg" size="224121" crc="74dd93ca" sha1="b17fc0a5317df70b68c536c344f813a21584aced"/>
+	</machine>
+	<machine name="Comet (Williams)(1985)(Andre Nedham)(1.0)[MOD v1.0 Satch]">
+		<description>Comet (Williams)(1985)(Andre Nedham)(1.0)[MOD v1.0 Satch]</description>
+		<rom name="Comet MOD.vpt" size="1854464" crc="f8feb7d4" sha1="f63530f8d62f7fe55e42b18a76a039037b60ca99"/>
+		<rom name="Comet screenshot.jpg" size="171121" crc="fa3971c9" sha1="3a0d70f9543caa0ca602de45c1d7b515eabbccc1"/>
+	</machine>
+	<machine name="Congo (Williams)(1995)(Aurian, Guittar)(1.1)[VP8][MOD Night mode 2 Jive]">
+		<description>Congo (Williams)(1995)(Aurian, Guittar)(1.1)[VP8][MOD Night mode 2 Jive]</description>
+		<rom name="Congo At Night.vpt" size="3058688" crc="c29dab3f" sha1="abe75b452bce09d8db9b5e69e051aac10fd6034a"/>
+		<rom name="Congo screenshot.jpg" size="705726" crc="c240cef5" sha1="2fffecafb7ea22e8f9887eeda2b9a9437d324430"/>
+	</machine>
+	<machine name="Congo (Williams)(1995)(MungoJ)(1.1a)[MOD v1.1 Aurian]">
+		<description>Congo (Williams)(1995)(MungoJ)(1.1a)[MOD v1.1 Aurian]</description>
+		<rom name="Congo Mod 1.1.vpt" size="4567040" crc="bce97c61" sha1="44b3beafc52f8f78e0a596e2270740b6b8651d6c"/>
+		<rom name="Congo screenshot.jpg" size="661359" crc="5885a094" sha1="3515b06713873e3b2d90f7f8940d58882951abcb"/>
+	</machine>
+	<machine name="Dolly Parton (Bally)(1979)">
+		<description>Dolly Parton (Bally)(1979)</description>
+		<rom name="Dolly Parton (Bally)(1979)(Cutter)[Mod At Night Guittar].vpt" size="1950208" crc="136b2017" sha1="9c22c1fe11feabdfdbc7c4df602e2cb0f89cab86"/>
+	</machine>
+	<machine name="Earthshaker (Williams)(1989)">
+		<description>Earthshaker (Williams)(1989)</description>
+		<rom name="Earthshaker (Williams)(1989)(Andre Needham)(0.9)[VP8][MOD 0.95b Dorsola].vpt" size="2019840" crc="6b125d21" sha1="380e730d4c52ea7053e30f5c98d4a322754a9a73"/>
+		<rom name="Earthshaker revhistory.txt" size="2500" crc="dccbc83b" sha1="98eaddb64de98451c9bae5157b5ff4eab0631596"/>
+	</machine>
+	<machine name="Earthshaker (Williams)(1989)(PacDude)(1.2)[VP8][MOD Grphics v1.3 Nealtron]">
+		<description>Earthshaker (Williams)(1989)(PacDude)(1.2)[VP8][MOD Grphics v1.3 Nealtron]</description>
+		<rom name="Earthshaker screenshot.jpg" size="377176" crc="f8c77323" sha1="3ab669b0e42d27e8190a65e6c775304722bdd052"/>
+		<rom name="VP8 Earthshaker (Mod 1.3).vpt" size="7526912" crc="4f093b38" sha1="39be8fdeebe5495d1b460268d8c214a4c161607a"/>
+	</machine>
+	<machine name="Fathom (Bally)(1981)">
+		<description>Fathom (Bally)(1981)</description>
+		<rom name="Fathom (Bally)(1981)(Nico193)(1.41)[Mod Jive].vpt" size="979456" crc="1c7b7eba" sha1="6fc8fcdf57f635f6582ce6417129259eeec33872"/>
+	</machine>
+	<machine name="Flintstones, The (Williams)(1994)(JPSalas, Groni)(2.1)[MOD Graphics v2.1 JPG-PINS]">
+		<description>Flintstones, The (Williams)(1994)(JPSalas, Groni)(2.1)[MOD Graphics v2.1 JPG-PINS]</description>
+		<rom name="Flintstones, The screenshot.jpg" size="329911" crc="dcff5e77" sha1="aef206a4cb7c94b38765bd47cca6cfc8bcfd5ad5"/>
+		<rom name="Flintstones_v2.1_JPG-PINS.vpt" size="11795968" crc="0d794c0c" sha1="e0f8dc82c0f73ba07f5b91fe44b546b1b7ca20c3"/>
+	</machine>
+	<machine name="Goin' Nuts (Gottlieb)(1983)(LuvThatApex)(1.0)[VP8][MOD v1.0 Humid]">
+		<description>Goin' Nuts (Gottlieb)(1983)(LuvThatApex)(1.0)[VP8][MOD v1.0 Humid]</description>
+		<rom name="Goin Nuts.jpg" size="285951" crc="9a13ecd5" sha1="f2ca6b53245111b878b94cb9c2f983c3f532714f"/>
+		<rom name="Goin' Nuts Gottlieb 1989.vpt" size="3549184" crc="498f4e34" sha1="029efbbc28352c5f805c4953a4620c8eca8e50c8"/>
+	</machine>
+	<machine name="Gorgar (Williams)(1979)">
+		<description>Gorgar (Williams)(1979)</description>
+		<rom name="Gorgar (Williams)(1979)(Boris)[Mod At Night Guittar].vpt" size="1879040" crc="dad2cff9" sha1="f90dda2d9e34fb5633c098645a715584d4e375a9"/>
+		<rom name="Gorgar readme.txt" size="64" crc="a62b3797" sha1="326c42f0762d4313f6b1f594947ef9f136fa6e0e"/>
+		<rom name="gorgar.vbs" size="10949" crc="49602b9c" sha1="04d35a620d13063969438ebb56ae5760a1c5906a"/>
+	</machine>
+	<machine name="Indiana Jones (Williams)(1993)(Jeff Newton, Brian Smith, PacDude, maf)(1.1)[VP8][MOD v2.7 Destruk, Jive]">
+		<description>Indiana Jones (Williams)(1993)(Jeff Newton, Brian Smith, PacDude, maf)(1.1)[VP8][MOD v2.7 Destruk, Jive]</description>
+		<rom name="Indiana Jones Jives mod 2.7.jpg" size="242685" crc="b9b4f075" sha1="4591b02bb5b9a65d1eea266cc671289bb2579ba0"/>
+		<rom name="Indiana Jones Jives mod 2.7.txt" size="13274" crc="91c1df7a" sha1="752c79e5bfcdca4f9f738dc16e6ac771295478f2"/>
+		<rom name="Indiana Jones Jives mod 2.7.vpt" size="6219264" crc="7e167caa" sha1="9b95d07a119d9da4f157840ccc7217b9d5628e5c"/>
+		<rom name="Indiana Jones_Rules.txt" size="41422" crc="8c89ea8f" sha1="332113fa5ea892ce80dd88e045ec155e41ef1cff"/>
+	</machine>
+	<machine name="Junk Yard (Williams)(1996)(Aurian, Pingod, BubleHEAD, Pinball Ken)(1.0)[VP8-VP9][MOD v2.03 Wtiger]">
+		<description>Junk Yard (Williams)(1996)(Aurian, Pingod, BubleHEAD, Pinball Ken)(1.0)[VP8-VP9][MOD v2.03 Wtiger]</description>
+		<rom name="Junk Yard screenshot.jpg" size="221702" crc="d8a8e6e1" sha1="45867a30e2eca1b3fd4e12eda3f691061faec91e"/>
+		<rom name="Junk Yard WT mod v2.03.vpt" size="3666944" crc="2f116e20" sha1="2c087d1ef2d45524a142720666e7a4b0796196d1"/>
+	</machine>
+	<machine name="Junk Yard (Williams)(1996)(Aurian, Pingod, BubleHEAD, Pinball Ken)(1.0)[VP8][MOD v1.00 Wtiger]">
+		<description>Junk Yard (Williams)(1996)(Aurian, Pingod, BubleHEAD, Pinball Ken)(1.0)[VP8][MOD v1.00 Wtiger]</description>
+		<rom name="Junk Yard screenshot.jpg" size="281265" crc="a5cbe665" sha1="7d9164b420fdf6687aa5f56c997c3726a18b9fd7"/>
+		<rom name="Junk Yard WT mod v1.00.vpt" size="1485312" crc="0d283295" sha1="dfc8900accd4cb2f1d358c29267d8380287b3800"/>
+	</machine>
+	<machine name="Junk Yard (Williams)(1996)(Aurian, Pingod, BubleHEAD, Pinball Ken)[MOD v2.03 Wtiger][MOD Graphic v3.0 Nealtron]">
+		<description>Junk Yard (Williams)(1996)(Aurian, Pingod, BubleHEAD, Pinball Ken)[MOD v2.03 Wtiger][MOD Graphic v3.0 Nealtron]</description>
+		<rom name="core.vbs" size="77829" crc="5d605471" sha1="a6d3b3b48ee11fbb305f6d4395fdcc9fdd802594"/>
+		<rom name="Junk Yard (Nealtron) screenshot.jpg" size="396524" crc="5d135c0d" sha1="9935fe528f949271799d914d0dafd37e7772cbb7"/>
+		<rom name="VP8 Junk Yard (Mod 2.03).vpt" size="7852032" crc="0c2e0455" sha1="130c45c67a6dab9cd0f327bc14f3cb3e54373e0f"/>
+		<rom name="VPMKeys.vbs" size="2907" crc="4c2dcd49" sha1="56e416b4e887ebfe2f5e54129ea50e5434d2cc95"/>
+		<rom name="WPC.vbs" size="5648" crc="ea658b38" sha1="10e692704b9090b9be8c69bbf325cd2fbfb31ab3"/>
+	</machine>
+	<machine name="Lady Luck (Bally)(1986)(JBL, Destruk)(1.3)[VP8][MOD Night mode 1.3.1 Guittar]">
+		<description>Lady Luck (Bally)(1986)(JBL, Destruk)(1.3)[VP8][MOD Night mode 1.3.1 Guittar]</description>
+		<rom name="Lady Luck at Night.vpt" size="3583488" crc="b41eedee" sha1="75c49338b48cdcf598c7e766096f4b3eef9ec6cc"/>
+		<rom name="Lady Luck screenshot.jpg" size="676521" crc="368cb628" sha1="2a36d556933379e0861d31e02f0fdda22653fa3e"/>
+	</machine>
+	<machine name="Magic Castle (Zaccaria)(1984)(LuvThatApex, Destruk)(1.1)[VP8][MOD v1.2b Jive]">
+		<description>Magic Castle (Zaccaria)(1984)(LuvThatApex, Destruk)(1.1)[VP8][MOD v1.2b Jive]</description>
+		<rom name="Magic Castle Jives mod.jpg" size="215791" crc="ba237229" sha1="d8503240ed0ebd84f284a2bce52fc1059df82223"/>
+		<rom name="Magic Castle_Jives mod morph.gif" size="95136" crc="b4c845b6" sha1="5027701c61bdba5d5d7ffd6c297597a6651b9af6"/>
+		<rom name="Magic.Castle.Zaccaria.1984_Jives.mod.v1.2b.vpt" size="3545088" crc="6842b65a" sha1="ae65c8991be7711063fc3cebfe3f19c293397010"/>
+		<rom name="Re_ Magic Castle Zaccaria 1984 Jives mod v1_1 (2,42 Mo).htm" size="6954" crc="5168791a" sha1="0fd7ff5dfb916718e0d2627f26636c067c921b0f"/>
+		<rom name="Rules (part 1).gif" size="36092" crc="cbfe51c1" sha1="0e14205f02321278e7b7410d3effe872838e46ed"/>
+		<rom name="Rules (part 2).gif" size="12955" crc="de7a2ce9" sha1="47c873a3d092223d6e4789ee501850293e2f1faf"/>
+		<rom name="zac.vbs" size="3867" crc="2044bfda" sha1="d9ba9f625e18d1ae10646dfb6e976701a05fe674"/>
+		<rom name="zac1.vbs" size="3447" crc="38555fca" sha1="d92b0fcf38b528a6927dbbd5c4a2838a1e194314"/>
+		<rom name="zac2.vbs" size="4203" crc="eeae4d2c" sha1="ccf866b7d85ec691ab4abf6b11d72174cd8f2a72"/>
+	</machine>
+	<machine name="Mary Shelly's Frankenstein (SEGA)(1995)(Krellan)(1.2)[VP8][MOD v1.5 Jive]">
+		<description>Mary Shelly's Frankenstein (SEGA)(1995)(Krellan)(1.2)[VP8][MOD v1.5 Jive]</description>
+		<rom name="Frankenstein 1.2_vs_1.5.jpg" size="147807" crc="598e7c72" sha1="7d0ffd8c98fdc86fc8efc32ce2e5027f67c2ec2e"/>
+		<rom name="Frankenstein 1.5.vpt" size="2451968" crc="1ce875c8" sha1="1026b88fe8f77220cea1ed5774397db0d809a3fc"/>
+		<rom name="v1.2 vs v1.5.jpg" size="27771" crc="0d59a2c9" sha1="1b82f1193bb697efe549a57be478345a5bb25d64"/>
+	</machine>
+	<machine name="Mata Hari (Bally)(1977)(Jeff, Gaston)(1.0)[VP8][MOD v1.0 Night mode Guittar]">
+		<description>Mata Hari (Bally)(1977)(Jeff, Gaston)(1.0)[VP8][MOD v1.0 Night mode Guittar]</description>
+		<rom name="Mata Hari screenshot.jpg" size="128550" crc="0fcb3147" sha1="a8deeb7c045a17df608f822f8ad01ae87941ac79"/>
+		<rom name="MataHari  At Night.vpt" size="2052608" crc="a8bc0b74" sha1="08a203250f9f4fd49f2156fb59f098cc4cdb26bc"/>
+	</machine>
+	<machine name="Monster Bash (Williams)(1998)(TomS, Fuseball, RichardM)(1.0)[VP8][MOD v1.1 Jive]">
+		<description>Monster Bash (Williams)(1998)(TomS, Fuseball, RichardM)(1.0)[VP8][MOD v1.1 Jive]</description>
+		<rom name="MB_Rulesheet.txt" size="26079" crc="e5bc0fe1" sha1="75a97c5484283063df0277a66815198c0f6e9ab4"/>
+		<rom name="Monster Bash Jives mod v1.1.vpt" size="4830208" crc="e75517d7" sha1="6520812630970448e9793c58031906de348245f6"/>
+		<rom name="Monster Bash.txt" size="9706" crc="0aafd259" sha1="9d2156955bb80ad6c2a15ae494a4d390ae461e8d"/>
+		<rom name="Monster_Bash_v1.1.jpg" size="244299" crc="00a44780" sha1="8602124caf985abcdc1013b07814bd245ac2bcca"/>
+		<rom name="The MB Design Team.jpg" size="52540" crc="2aedcdbb" sha1="a3b0e045c60a022cc58ab7f0b5569eb04383302f"/>
+		<rom name="WPC.vbs" size="5648" crc="ea658b38" sha1="10e692704b9090b9be8c69bbf325cd2fbfb31ab3"/>
+	</machine>
+	<machine name="Nitro_Ground_Shaker (Bally)(1980)(Phoenixx1771, TAB, Incochnito)(2.0)[VP8][MOD Grphics v3.0 Eala Dubh Sidhe]">
+		<description>Nitro_Ground_Shaker (Bally)(1980)(Phoenixx1771, TAB, Incochnito)(2.0)[VP8][MOD Grphics v3.0 Eala Dubh Sidhe]</description>
+		<rom name="Nitro Ground Shaker new.vpt" size="5502464" crc="af235de9" sha1="9f6fe7743d417e7446684da3ea87a6cc36e09b9c"/>
+		<rom name="Nitro Ground Shaker screenshot.jpg" size="603796" crc="f7bebf7d" sha1="09ba2a774401e74326a41731410625e9ea43663d"/>
+	</machine>
+	<machine name="PinBot (Williams)(1986)(Andre Needham, Kristian)(1.2)[VP8][MOD Table layout v1.2 PinWizKid]">
+		<description>PinBot (Williams)(1986)(Andre Needham, Kristian)(1.2)[VP8][MOD Table layout v1.2 PinWizKid]</description>
+		<rom name="Pinbot 1.2 (Williams 1986) PWK MOD.vpt" size="3429376" crc="74a41bd0" sha1="24c17eb224ce1e7ea100d70770c647bd8db8b8a8"/>
+		<rom name="PinBot screenshot.jpg" size="259678" crc="48cc9bc4" sha1="0094afb99884b0706182a15a6b8b049954be6a95"/>
+	</machine>
+	<machine name="Playboy (Bally)(1978)(Jouster, Gaston)(1.0)[VP8][MODs Wayne, Night mode 2.0 Guittar, Night mode 2.1 Jive]">
+		<description>Playboy (Bally)(1978)(Jouster, Gaston)(1.0)[VP8][MODs Wayne, Night mode 2.0 Guittar, Night mode 2.1 Jive]</description>
+		<rom name="General game informations.jpg" size="151777" crc="a9aba312" sha1="1b613f0e8f2953c56cdf1ba10843cf4038cf93b1"/>
+		<rom name="Playboy At Night_2.vpt" size="3411968" crc="59a6f44e" sha1="68d366274ce30c81766ce6b7656ad2a12a36751e"/>
+		<rom name="Playboy screenshot.jpg" size="178488" crc="6340ad7a" sha1="dd35c2f4585d5524cf0b1bb23b940ea4e2243f1c"/>
+		<rom name="Playfield.jpg" size="148493" crc="79a6ab41" sha1="febc51ac2ef8d075ab656eb304659a574633e7f5"/>
+	</machine>
+	<machine name="Ripley's Believe It or Not (Stern)(2004)">
+		<description>Ripley's Believe It or Not (Stern)(2004)</description>
+		<rom name="Ripley's Believe It or Not (Stern)(2004)(JPSalas)[Mod Gordon, AS 5.0g German Black Edition].vpt" size="31322112" crc="05412e32" sha1="6c10148777be6b6e74b8292acea3e1f8c533d67e"/>
+	</machine>
+	<machine name="Sopranos, The (Stern)(2005)">
+		<description>Sopranos, The (Stern)(2005)</description>
+		<rom name="Sopranos, The (Stern)(2005)(wtiger)(1.1 Mod English).vpt" size="24569856" crc="4549a316" sha1="89c1d8cba3ec2b4ff2889e1caf6ffb02a7ef6f25"/>
+		<rom name="Sopranos, The (Stern)(2005)(wtiger)(1.1 Mod German).vpt" size="26044928" crc="40bc05e1" sha1="a98b3387435b65757cdbac67f2c3c87a07709934"/>
+	</machine>
+	<machine name="Star Trek (Bally)(1979)">
+		<description>Star Trek (Bally)(1979)</description>
+		<rom name="Star Trek (Bally)(1979)(Gaston)[Mod At Night Guittar].vpt" size="1143296" crc="d33e0a60" sha1="c78bb616a9ea5e637ba4dc3bb2dbc6e069f8c023"/>
+	</machine>
+	<machine name="Star Trek - The Next Generation (Williams)(1993)(JPG-PINS)(2.2)[VP8][MOD alpha0.3 0.0.3 Neoblood]">
+		<description>Star Trek - The Next Generation (Williams)(1993)(JPG-PINS)(2.2)[VP8][MOD alpha0.3 0.0.3 Neoblood]</description>
+		<rom name="screenshot.jpg" size="642405" crc="1c70c7a2" sha1="448bfdf09342bd0f23b5383241dd77f634fae8fa"/>
+		<rom name="STTNGJPG-PINS-Neoalpha3.vpt" size="17805824" crc="851bfc38" sha1="bd98f30b9d0431eb212d2c359c48cdea7b9bf87a"/>
+	</machine>
+	<machine name="Strikes and Spares (Bally)(1978)">
+		<description>Strikes and Spares (Bally)(1978)</description>
+		<rom name="Strikes and Spares (Bally)(1978)(Zemke, Gaston)[Mod Jive 1.2].vpt" size="966144" crc="ec0bdb8d" sha1="e7a25c74b23a2751cf45a407043d4c99aac48080"/>
+	</machine>
+	<machine name="Super Mario Bros. Mushroom World (Gottlieb)(1992)(Destruk, Zaphod)(1.0)[VP8][MOD v2.3 Jive]">
+		<description>Super Mario Bros. Mushroom World (Gottlieb)(1992)(Destruk, Zaphod)(1.0)[VP8][MOD v2.3 Jive]</description>
+		<rom name="Gottlieb GTS3 Super Mario Brothers Mushroom World Rules.txt" size="8366" crc="ff331769" sha1="4647c853f67e6e8881de6027d5862284858a8aad"/>
+		<rom name="gts3.vbs" size="4027" crc="8a04e795" sha1="9de051f297cbc1baede831e79666f9a7184c4c14"/>
+		<rom name="smbmush.nv" size="8238" crc="e23edf0d" sha1="0c49f2e2410d9200bc5afc8525d3213d6733a9a7"/>
+		<rom name="Super Mario Bros. Mushroom World screenshot.jpg" size="79943" crc="3d93c8ab" sha1="430df53c0fae537e5c19f28abe8ab003e10728c8"/>
+		<rom name="Super Mario Brothers Mushroom World 2.3.vpt" size="2221056" crc="5996879c" sha1="1e6088d2cd0c32943a989e9adc2103793c0a058c"/>
+	</machine>
+	<machine name="Tales from the Crypt (Data East)(1993)(Lander)(1.0)[VP8][MOD v1.2 Jive]">
+		<description>Tales from the Crypt (Data East)(1993)(Lander)(1.0)[VP8][MOD v1.2 Jive]</description>
+		<rom name="Tales from the Crypt screenshot.jpg" size="358246" crc="aef3274c" sha1="4d9cb8ffb866be3f728a3fb5b990f5873c971e1e"/>
+		<rom name="Tales from the crypt V1.2.vpt" size="3831296" crc="a1f568ed" sha1="686f18ba2053230ea83cbea08e51600f73fdc94e"/>
+	</machine>
+	<machine name="Tales of the Arabian Night (Williams)(1996)(Freylis, Fuseball, PacDude, WPCMame)(2.5)[VP8][MOD 2.5 PK, Guittar, Kristian]">
+		<description>Tales of the Arabian Night (Williams)(1996)(Freylis, Fuseball, PacDude, WPCMame)(2.5)[VP8][MOD 2.5 PK, Guittar, Kristian]</description>
+		<rom name="Tales of the Arabian Night screenshot.jpg" size="194636" crc="156a4c11" sha1="eaffa0b0409864999ad09703e69de99b3bb2c0fb"/>
+		<rom name="Tales of the Arabian Nights 2.5Mod (tb8)[U].vpt" size="4552704" crc="23804a43" sha1="65a6a00f644c337ee292735223e21f3d79ba271d"/>
+	</machine>
+	<machine name="Time Machine (Data East)(1988)(Joep)[VP8][MOD At Night Guittar]">
+		<description>Time Machine (Data East)(1988)(Joep)[VP8][MOD At Night Guittar]</description>
+		<rom name="Time Machine At Night.vpt" size="1245184" crc="e753710c" sha1="94552b75290492dc6168fcb1fc535cd7e52091f6"/>
+	</machine>
+	<machine name="Who Dunnit (Bally)(1995)(Jamin)(2.0)[VP8][MOD v3.0 Nealtron]">
+		<description>Who Dunnit (Bally)(1995)(Jamin)(2.0)[VP8][MOD v3.0 Nealtron]</description>
+		<rom name="VP8 Who Dunnit (Mod 3.0).vpt" size="11870720" crc="dfce3710" sha1="80d8fbb798fa3d04a012eaa55514225e32051841"/>
+		<rom name="Who Dunnit screenshot.jpg" size="372681" crc="5085e01c" sha1="11a1f254c3453095595a243eb50b2e57f141b29e"/>
+	</machine>
+</datafile>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>NEC PC-Engine CD &amp; TurboGrafx-16 CD - Applications</name>
+		<description>NEC PC-Engine CD &amp; TurboGrafx-16 CD - Applications (TOSEC-v2018-03-23)</description>
+		<category>TOSEC-ISO</category>
+		<version>2018-03-23</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Develo Starter Kit - Assembler-hen (1996)(Tokuma Shoten Intermedia)(JP)">
+		<description>Develo Starter Kit - Assembler-hen (1996)(Tokuma Shoten Intermedia)(JP)</description>
+		<rom name="Develo Starter Kit - Assembler-hen (1996)(Tokuma Shoten Intermedia)(JP).ccd" size="1864" crc="b123129e" md5="e00e8ea96c8dbe7eefc4fbbcb6f76dce" sha1="03fb53165ee3262bcaf61815b470359c4f0e0c16"/>
+		<rom name="Develo Starter Kit - Assembler-hen (1996)(Tokuma Shoten Intermedia)(JP).cue" size="4113" crc="428a666a" md5="0022c5308ea60d6d87b0ab0af032ed56" sha1="86fa66f6a1cf7677ac5797e6930be25cf418f806"/>
+		<rom name="Develo Starter Kit - Assembler-hen (1996)(Tokuma Shoten Intermedia)(JP).img" size="191530416" crc="3ac5dd79" md5="7136e6ada8e54b22a119b27804d9416e" sha1="77e8ffcebb597ca937061d64b4513d66bf686c12"/>
+		<rom name="Develo Starter Kit - Assembler-hen (1996)(Tokuma Shoten Intermedia)(JP).sub" size="7817568" crc="847b4551" md5="43b3b0b74d8a7d7251858a774ac7dbe7" sha1="80394ac5697540036d9929a232d045d2d1e5266d"/>
+	</game>
+</datafile>

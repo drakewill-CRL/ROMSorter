@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C128 - Games - [ARK]</name>
+		<description>Commodore C128 - Games - [ARK] (TOSEC-v2018-10-26)</description>
+		<category>TOSEC</category>
+		<version>2018-10-26</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Kik-start 2 (1985)(Mastertronic)[cr Golden Griffin]">
+		<description>Kik-start 2 (1985)(Mastertronic)[cr Golden Griffin]</description>
+		<rom name="Kik-start 2 (1985)(Mastertronic)[cr Golden Griffin].ark" size="115066" crc="90de748c" md5="561dbff64414ea042dfc71a700d6c7f9" sha1="696a5ab2852423db2e0606589f292e8def893be0"/>
+	</game>
+	<game name="Last v8 (19xx)(Mastertronic)">
+		<description>Last v8 (19xx)(Mastertronic)</description>
+		<rom name="Last v8 (19xx)(Mastertronic).ark" size="93467" crc="e104db20" md5="eae89a7932719d28cbf61c4c5241b659" sha1="c525debef225952d0dd2648e49812032a6940bb4"/>
+	</game>
+</datafile>

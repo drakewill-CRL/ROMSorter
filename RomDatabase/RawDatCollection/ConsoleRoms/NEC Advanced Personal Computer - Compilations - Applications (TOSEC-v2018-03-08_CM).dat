@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>NEC Advanced Personal Computer - Compilations - Applications</name>
+		<description>NEC Advanced Personal Computer - Compilations - Applications (TOSEC-v2018-03-08)</description>
+		<category>TOSEC</category>
+		<version>2018-03-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="CPM Public Domain Programs (198x)(-)[b][Master Copy]">
+		<description>CPM Public Domain Programs (198x)(-)[b][Master Copy]</description>
+		<rom name="CPM Public Domain Programs (198x)(-)[b][Master Copy].imd" size="920523" crc="412691e0" md5="bdf9f0ed2c2387c10411048a8e580aa4" sha1="6009993da96fdab082ec4255c893aa77480f29e7"/>
+	</game>
+	<game name="CPM-86 Program Development Aids (1983)(Digital Research)">
+		<description>CPM-86 Program Development Aids (1983)(Digital Research)</description>
+		<rom name="CPM-86 Program Development Aids (1983)(Digital Research).imd" size="1021251" crc="b3d1a4ea" md5="0a48f0ed45ec3a48ba7609152b7afee3" sha1="2e5ec3c168814f789d6f11edd9a7f857c469f3e8"/>
+	</game>
+	<game name="CPM-86 Utility Programs (198x)(Digital Research)">
+		<description>CPM-86 Utility Programs (198x)(Digital Research)</description>
+		<rom name="CPM-86 Utility Programs (198x)(Digital Research).imd" size="836352" crc="f7954176" md5="221c81b631bf6234575a60da659bebd1" sha1="0b63715e0edae30841bc17008d2d08aa3e1522ee"/>
+	</game>
+	<game name="WordStar v3.30 for CPM &amp; CB-86 CBasic Compiler (1986)(Digital Research - MicroPro)">
+		<description>WordStar v3.30 for CPM &amp; CB-86 CBasic Compiler (1986)(Digital Research - MicroPro)</description>
+		<rom name="WordStar v3.30 for CPM &amp; CB-86 CBasic Compiler (1986)(Digital Research - MicroPro).imd" size="968467" crc="53b50a58" md5="bfa7f16c9c6704a49ff9ba9b93fd1b31" sha1="798cc6983e27996e75bd6991adc8c610382d1613"/>
+	</game>
+</datafile>

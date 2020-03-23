@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>RCA Studio II - Games - [ST2]</name>
+		<description>RCA Studio II - Games - [ST2] (TOSEC-v2014-04-23)</description>
+		<category>TOSEC</category>
+		<version>2014-04-23</version>
+		<author>Gnomula - Grendel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Combat (2000)(Paul Robson)">
+		<description>Combat (2000)(Paul Robson)</description>
+		<rom name="Combat (2000)(Paul Robson).st2" size="1280" crc="db133128" md5="6d4d2968efcca53cab4db9fd5d74342a" sha1="e89840ed7d75544b713b6ad27c00d7c78daa173c"/>
+	</game>
+	<game name="Hockey (2000)(Paul Robson)">
+		<description>Hockey (2000)(Paul Robson)</description>
+		<rom name="Hockey (2000)(Paul Robson).st2" size="1280" crc="206931cc" md5="b22809fc05a9c60d5430b92f531841aa" sha1="a92b941f91a21f10dc013c0bf2b9e65e413f67f7"/>
+	</game>
+	<game name="Space Invaders (2000)(Paul Robson)">
+		<description>Space Invaders (2000)(Paul Robson)</description>
+		<rom name="Space Invaders (2000)(Paul Robson).st2" size="1280" crc="024778b8" md5="046058ddcdd46db5e7965f9edc6d66cc" sha1="a92934e9a6208a34e44fc38039d501632fc1e954"/>
+	</game>
+	<game name="TV Arcade I - Spacewar (1976)(RCA)">
+		<description>TV Arcade I - Spacewar (1976)(RCA)</description>
+		<rom name="TV Arcade I - Spacewar (1976)(RCA).st2" size="768" crc="b4879a92" md5="93b7a270060de4a52c2cd04a0ec0094f" sha1="cec2bd0c8b36a6ca73aff4327359dcda74adf99f"/>
+	</game>
+	<game name="TV Arcade III - Tennis-Squash (1976)(RCA)">
+		<description>TV Arcade III - Tennis-Squash (1976)(RCA)</description>
+		<rom name="TV Arcade III - Tennis-Squash (1976)(RCA).st2" size="768" crc="a0f4180e" md5="2d2b162a5a0d9ead0b7a7e830b182dee" sha1="8c8facc7af786462cf1fa3a610cd43171ee1ed3b"/>
+	</game>
+	<game name="TV Arcade IV - Baseball (1976)(RCA)">
+		<description>TV Arcade IV - Baseball (1976)(RCA)</description>
+		<rom name="TV Arcade IV - Baseball (1976)(RCA).st2" size="1280" crc="e196c7fc" md5="7b67f232f46ed0f5252ac45ce289efad" sha1="503c9edaae8d004dabed7f2c63b877df77fc5f53"/>
+	</game>
+	<game name="TV Arcade Speedway - Tag (1976)(RCA)">
+		<description>TV Arcade Speedway - Tag (1976)(RCA)</description>
+		<rom name="TV Arcade Speedway - Tag (1976)(RCA).st2" size="768" crc="c7c904aa" md5="7689769fcee3c52617425841ec198b2e" sha1="f9e18faf2a9c80e8c32239b5acf2affbe6d2468d"/>
+	</game>
+	<game name="TV Casino Games - Blackjack (1976)(RCA)">
+		<description>TV Casino Games - Blackjack (1976)(RCA)</description>
+		<rom name="TV Casino Games - Blackjack (1976)(RCA).st2" size="1280" crc="7d4adf90" md5="a0151f1692c61d0bcbcf9c029102fa03" sha1="9b119fcb56407afed68b5251177a9a4ef1d5ae57"/>
+	</game>
+</datafile>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Luxor ABC 80 - System - [IMG]</name>
+		<description>Luxor ABC 80 - System - [IMG] (TOSEC-v2018-03-08)</description>
+		<category>TOSEC</category>
+		<version>2018-03-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="CPM BIOS v3.7 (19xx)(Myab)(Side 0)">
+		<description>CPM BIOS v3.7 (19xx)(Myab)(Side 0)</description>
+		<rom name="CPM BIOS v3.7 (19xx)(Myab)(Side 0).img" size="81920" crc="7065fa91" md5="d05a0887aacc162229076648d7fe65ce" sha1="f0ca7c2785bd92ed7ede46aaba8b8e2a2d826e47"/>
+	</game>
+	<game name="CPM BIOS v3.7 (19xx)(Myab)(Side 1)">
+		<description>CPM BIOS v3.7 (19xx)(Myab)(Side 1)</description>
+		<rom name="CPM BIOS v3.7 (19xx)(Myab)(Side 1).img" size="81920" crc="062e88c7" md5="1249e7c4c511b0cbeb83d270c28a85ab" sha1="2d3baa1f225129474839972b9735444120965e08"/>
+	</game>
+</datafile>

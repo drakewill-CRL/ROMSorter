@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega Dreamcast - Homebrew - Demos - [BIN]</name>
+		<description>Sega Dreamcast - Homebrew - Demos - [BIN] (TOSEC-v2012-02-27)</description>
+		<category>TOSEC-ISO</category>
+		<version>2012-02-27</version>
+		<author>Snakemeat - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="256Byte (2002-07)(Outbreak)(PD)[unscrambled]">
+		<description>256Byte (2002-07)(Outbreak)(PD)[unscrambled]</description>
+		<rom name="256b.bin" size="256" crc="c0cd5f07" md5="7329ef5c8952e8fe3d3aeff78036623a" sha1="5bc613fd3a96a2abe56221edd38982ae40039cd3"/>
+	</game>
+	<game name="3D Engine Demo v1.0 (2002)(c99Koder)(PD)[unscrambled]">
+		<description>3D Engine Demo v1.0 (2002)(c99Koder)(PD)[unscrambled]</description>
+		<rom name="md2test_1st.bin" size="1351736" crc="7cf9bc8d" md5="321894886faa78e2ef80f63ce54ff904" sha1="6ec57e5e387b55f69a89e2144b79e184f32812aa"/>
+	</game>
+	<game name="3D Engine Demo v3.0 (2002-07-30)(c99Koder)(PD)[unscrambled]">
+		<description>3D Engine Demo v3.0 (2002-07-30)(c99Koder)(PD)[unscrambled]</description>
+		<rom name="md2test_3rd.bin" size="1352184" crc="2dd87499" md5="c877c6cacbe1f32aec5a717198fcd8e0" sha1="ae9dc5952461e933aa0f2d651b1fb94e1521dbdc"/>
+	</game>
+	<game name="3D Test (2000-10-03)(Potter, Dan)(PD)[unscrambled]">
+		<description>3D Test (2000-10-03)(Potter, Dan)(PD)[unscrambled]</description>
+		<rom name="3dtest.bin" size="9984" crc="2b76b4bf" md5="c6512b3a7b880ffe8094a66de39f0574" sha1="b3bc438088a5975bf4538b761378a4ec252eb9ac"/>
+	</game>
+	<game name="Blue Light Demo (2002)(Energy)(PD)[unscrambled]">
+		<description>Blue Light Demo (2002)(Energy)(PD)[unscrambled]</description>
+		<rom name="bluelight.bin" size="228032" crc="93ded363" md5="cbc05f7490fca62e407cb9b39c6071f2" sha1="80db782634a4ecea3cfbf73182c36f72afc2037e"/>
+	</game>
+	<game name="Bubbles (19xx)(Potter, Dan)(PD)[unscrambled]">
+		<description>Bubbles (19xx)(Potter, Dan)(PD)[unscrambled]</description>
+		<rom name="bubbles.bin" size="223072" crc="0b0adce5" md5="27cedafb6b365116add61db15e737f9f" sha1="c068a22e55ddbba0398b42a57aa1930fd4755b37"/>
+	</game>
+	<game name="Burritro Demo (2002-04-17)(Kieschnick, Andrew)(PD)[unscrambled]">
+		<description>Burritro Demo (2002-04-17)(Kieschnick, Andrew)(PD)[unscrambled]</description>
+		<rom name="burritro.bin" size="1199632" crc="f786fca5" md5="f18ad4c75538ff68453202dfb804212d" sha1="53b2027810d7253af22b0e6b839580e339a56464"/>
+	</game>
+	<game name="CA Logo (19xx)(Potter, Dan)(PD)[unscrambled]">
+		<description>CA Logo (19xx)(Potter, Dan)(PD)[unscrambled]</description>
+		<rom name="calogo.bin" size="411780" crc="b0e20150" md5="e4ad5035fc49fcade0c199432a43da02" sha1="001ba2ab6657525afa7bcb5dead003ddeda10bed"/>
+	</game>
+	<game name="CharDemo (2004-07-13)(Kaziberdov, Eytan)(PD)[unscrambled][Keyboard]">
+		<description>CharDemo (2004-07-13)(Kaziberdov, Eytan)(PD)[unscrambled][Keyboard]</description>
+		<rom name="char.bin" size="153256" crc="125b685b" md5="2f75b8d53893941414b9230b0029d4a9" sha1="863329bd89175a44cb653f4279863ca750ba0864"/>
+	</game>
+	<game name="Crossgaming Demo (19xx)(Cehbab)(PD)[unscrambled]">
+		<description>Crossgaming Demo (19xx)(Cehbab)(PD)[unscrambled]</description>
+		<rom name="crossgaming.bin" size="5717080" crc="fbed2617" md5="fae578bb235f8a09bf13b919be9f0a67" sha1="50f39399c9d7fd6d4015072719021df282d2c785"/>
+	</game>
+	<game name="DC Floys (2001-11-18)(Axlen)(PD)[unscrambled]">
+		<description>DC Floys (2001-11-18)(Axlen)(PD)[unscrambled]</description>
+		<rom name="dcfloys.bin" size="741880" crc="8d3feaaf" md5="263ab95be80ea2b794a98a9197a983bc" sha1="8531529e67f1bcf435d7d183f002d803cc984c28"/>
+	</game>
+	<game name="DC Land Examples - Basicgfx (19xx)(Greengiant)(PD)[unscrambled]">
+		<description>DC Land Examples - Basicgfx (19xx)(Greengiant)(PD)[unscrambled]</description>
+		<rom name="basicgfx.bin" size="174284" crc="fd0a918b" md5="ccd1c4ae24dbe1115c63b5ac5f05a4e3" sha1="e0cb353154177dfce9fb5661aa852e52d557a692"/>
+	</game>
+	<game name="DC Land Examples - Fractal (19xx)(Greengiant)(PD)[unscrambled]">
+		<description>DC Land Examples - Fractal (19xx)(Greengiant)(PD)[unscrambled]</description>
+		<rom name="fractal.bin" size="174212" crc="2cadce48" md5="e2bf170541de971ac63af0d1eeef1917" sha1="5574d58f278f6530bc9092eb10d61483498a5fec"/>
+	</game>
+	<game name="DC Land Examples - Hello World (19xx)(Greengiant)(PD)[unscrambled]">
+		<description>DC Land Examples - Hello World (19xx)(Greengiant)(PD)[unscrambled]</description>
+		<rom name="helloworld.bin" size="174612" crc="8a3229a9" md5="8a69d606b3ffad3e4a59fb3d57d89d04" sha1="62d5a900d389468ee854f636bf0d9866deb141ed"/>
+	</game>
+	<game name="DC Land Examples - Menu Test (19xx)(Greengiant)(PD)[unscrambled]">
+		<description>DC Land Examples - Menu Test (19xx)(Greengiant)(PD)[unscrambled]</description>
+		<rom name="menutest.bin" size="175760" crc="a6d83cb3" md5="0a28fb29ee9b79e36525de9a17fab643" sha1="6f99fbec2fedf3d45b0f80982f9b9cabf2dee9ca"/>
+	</game>
+	<game name="DC Land Examples - Tiles (19xx)(Greengiant)(PD)[unscrambled]">
+		<description>DC Land Examples - Tiles (19xx)(Greengiant)(PD)[unscrambled]</description>
+		<rom name="tile_demo.bin" size="175980" crc="1a58ec51" md5="c3de0f3cdb2f787bd3f79f612193b98b" sha1="67db2a4b55f0061d4c0ce39e5274863704f54333"/>
+	</game>
+	<game name="DC Shooter Demo (2002-05-23)(Jimbo)(PD)[scrambled]">
+		<description>DC Shooter Demo (2002-05-23)(Jimbo)(PD)[scrambled]</description>
+		<rom name="1ST_READ.BIN" size="651088" crc="c2149726" md5="7e70cc9a71027a7509766475b015f8cf" sha1="3a08525fd2e66618885323cfb8f70df0c9428150"/>
+	</game>
+	<game name="DC Tunnel (2001-12-30)(Axlen - Bucciarelli, David)(PD)[unscrambled]">
+		<description>DC Tunnel (2001-12-30)(Axlen - Bucciarelli, David)(PD)[unscrambled]</description>
+		<rom name="DCTunnel.bin" size="576584" crc="6630f717" md5="4432bc22dbb077c34c64d342f62aa5bc" sha1="91775447f515b492eca7a1d756aed02405c04f40"/>
+	</game>
+	<game name="DCStuntRacer Demo (2003-02-27)(La Cible)(PD)[scrambled]">
+		<description>DCStuntRacer Demo (2003-02-27)(La Cible)(PD)[scrambled]</description>
+		<rom name="1st_read_scrambled.bin" size="505364" crc="616ed916" md5="d13a3b49884a958c471ab869b9a67bf1" sha1="025d960207b524be3dd28bfd41dcb984370ebb6a"/>
+	</game>
+	<game name="DCStuntRacer Demo (2003-02-27)(La Cible)(PD)[unscrambled]">
+		<description>DCStuntRacer Demo (2003-02-27)(La Cible)(PD)[unscrambled]</description>
+		<rom name="1st_read_unscrambled.bin" size="505364" crc="eb65112d" md5="a6255918fa67b5654094b236d9a1a5c8" sha1="6eb5ac2a4cec1db4747735f11f925718320b481e"/>
+	</game>
+	<game name="Fire (2005-03)(Outbreak)(PD)[unscrambled]">
+		<description>Fire (2005-03)(Outbreak)(PD)[unscrambled]</description>
+		<rom name="fire.bin" size="128" crc="46861750" md5="4b29b1df82e49f8a3485d7a9ea3863a5" sha1="ccd62875d0462108d5d48a2153f36aff0f180e29"/>
+	</game>
+	<game name="Luftvarg (2002-02)(Outbreak)(PD)[unscrambled]">
+		<description>Luftvarg (2002-02)(Outbreak)(PD)[unscrambled]</description>
+		<rom name="luftvarg.bin" size="4064" crc="ee24156a" md5="84b746d39c3f6373a582140951985a05" sha1="fe046daaf9c2d41c4258d8bc94cc3fd679db581a"/>
+	</game>
+	<game name="My Life (2003-01-24)(Kyle R)(PD)">
+		<description>My Life (2003-01-24)(Kyle R)(PD)</description>
+		<rom name="mylife.bin" size="2057716" crc="5bb62b8c" md5="5d8017560787e8c96d0ffa153f16967b" sha1="1614a98e658f0e3748a8fddacf35a91c0c825fc2"/>
+	</game>
+	<game name="Never the Same Color (2003-08-11)(tr0ll)(PD)[unscrambled]">
+		<description>Never the Same Color (2003-08-11)(tr0ll)(PD)[unscrambled]</description>
+		<rom name="ntsc.bin" size="824352" crc="e04288ff" md5="c70e76dab9accd014a7fb09f226e0d9c" sha1="1efe5579a3cd5491816cc11f0adae8f714184780"/>
+	</game>
+	<game name="OpenGL Objectorium (2002-10)(Greengiant)(PD)[unscrambled]">
+		<description>OpenGL Objectorium (2002-10)(Greengiant)(PD)[unscrambled]</description>
+		<rom name="gg_objectorium.bin" size="669672" crc="35d38c47" md5="93f7bcbff7de53a316e554e50c072628" sha1="393c2e158d7d93dc63700738b1a102649736fecf"/>
+	</game>
+	<game name="Planes (2005-03)(Outbreak)(PD)[unscrambled]">
+		<description>Planes (2005-03)(Outbreak)(PD)[unscrambled]</description>
+		<rom name="planes.bin" size="128" crc="77d55279" md5="e6aeffa10e5a859a4f3abe7e67b9e2b6" sha1="967496d5d24a2fdfe782daf068c573245387e345"/>
+	</game>
+	<game name="Plasma Demo (2001-02-07)(Baird, Brian)(PD)[unscrambled]">
+		<description>Plasma Demo (2001-02-07)(Baird, Brian)(PD)[unscrambled]</description>
+		<rom name="plasma.bin" size="14880" crc="6c48cf58" md5="2d974121853e0f77739692ac5fedd933" sha1="14beb9c9faf90a09c41342d7de2cd1d30bec4e1f"/>
+	</game>
+	<game name="Psychedelic Voxel Demo (2002-09-18)(Cyrus 64)(PD)[unscrambled]">
+		<description>Psychedelic Voxel Demo (2002-09-18)(Cyrus 64)(PD)[unscrambled]</description>
+		<rom name="voxel.bin" size="671504" crc="9cdff781" md5="663e58fd3b47db809334d9b29480da39" sha1="92282f07961ea48ee09a0434c38904d4604bc73b"/>
+	</game>
+	<game name="Reverie (2003-12-27)(Potter, Dan)(PD)[unscrambled]">
+		<description>Reverie (2003-12-27)(Potter, Dan)(PD)[unscrambled]</description>
+		<rom name="reverie.bin" size="1548676" crc="ad43e84c" md5="9f6e218b73892ff3a8804220bc07cf48" sha1="fcdbf7bfa75a6a3eac1263f62212869921b892f4"/>
+	</game>
+	<game name="Roto2 (2005-03)(Outbreak)(PD)[unscrambled]">
+		<description>Roto2 (2005-03)(Outbreak)(PD)[unscrambled]</description>
+		<rom name="roto2.bin" size="128" crc="8d42d441" md5="65ae72bb6fd9e0b34143ccfd9d76192a" sha1="0433c9e95f9e33847def2820f70fa2cc6c64d13b"/>
+	</game>
+	<game name="Rotozoomer (2002-07)(Outbreak)(PD)[unscrambled]">
+		<description>Rotozoomer (2002-07)(Outbreak)(PD)[unscrambled]</description>
+		<rom name="roto.bin" size="256" crc="c15466c5" md5="dc44634245dd22f92aa524fc82162ef0" sha1="d7eb59146d03567f7718341b685302cae1d244c5"/>
+	</game>
+	<game name="SDL Bounce (2003-07-28)(Peirce, Bryan)(PD)">
+		<description>SDL Bounce (2003-07-28)(Peirce, Bryan)(PD)</description>
+		<rom name="sdl_bounce.bin" size="434456" crc="ef931906" md5="19480415d3cd3a947c989be249d719e6" sha1="4f1f516ef312799ce833be28ea10751b532f62c0"/>
+	</game>
+	<game name="Simple 3D Engine (2002-10)(Greengiant)(PD)[unscrambled]">
+		<description>Simple 3D Engine (2002-10)(Greengiant)(PD)[unscrambled]</description>
+		<rom name="gg_3dEngine.bin" size="37460" crc="a4ac8604" md5="a4aa879cc741b8500d1d95be4093389b" sha1="726e95405a0dbd6d48760a5779f2242de2e9c01e"/>
+	</game>
+	<game name="Sinus Experiment (2002-08-30)(Flare - Outbreak)(PD)[unscrambled]">
+		<description>Sinus Experiment (2002-08-30)(Flare - Outbreak)(PD)[unscrambled]</description>
+		<rom name="violator.bin" size="648612" crc="ff5765c9" md5="ffa1fc18a1eddd6f6265b03ba5dd5674" sha1="62f0be319aeaa5c1d0ee9418ebf16f176ad8517c"/>
+	</game>
+	<game name="Sphere Map Demo (19xx)(Trilinear)(PD)[unscrambled]">
+		<description>Sphere Map Demo (19xx)(Trilinear)(PD)[unscrambled]</description>
+		<rom name="spheremap.bin" size="818872" crc="1a565d1c" md5="e0a9bfcf48b5f79ba1359bead13ad56a" sha1="d8dbb19f4d61279e50c5098655f7d8255e968774"/>
+	</game>
+</datafile>

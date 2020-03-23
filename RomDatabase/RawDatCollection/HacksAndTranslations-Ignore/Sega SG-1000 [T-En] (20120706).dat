@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega SG-1000 [T-En]</name>
+		<description>Sega SG-1000 [T-En]</description>
+		<category>English Translations</category>
+		<version>20120706</version>
+		<date>20120706</date>
+		<author>Powerpuff</author>
+		<email>-insert email-</email>
+		<homepage>Maybe-Intro</homepage>
+		<url>http://maybeintro.wordpress.com/</url>
+		<comment>Maybe-Intro</comment>
+		<clrmamepro/>
+	</header>
+	<game name="_Sega SG-1000 [T-En] Docs">
+		<description>_Sega SG-1000 [T-En] Docs</description>
+		<rom name="Black Onyx, The (Japan) [T-En by Bruce Tomlin+S.Seehorn v1.0].txt" size="1436" crc="0851bfb3" md5="efe556fe3f4aa02daf9c9a8bf43886fc" sha1="5294e4a904ba83f828dc53a484d547872b4b8cd3"/>
+		<rom name="Chack'n Pop (Japan) [T-En by Goldenband v1.02].txt" size="4226" crc="e4dd4e59" md5="b049c2ab4b9c4b65c660da61628a8f0f" sha1="4fd9c59b4efc0d787bff1442d737c785e67ec8ca"/>
+		<rom name="Ninja Princess (Japan) [T-En by Goldenband v1.0].txt" size="3344" crc="09c09699" md5="38ab55ba3a0a1af16b183a99d13f9359" sha1="17f8fa2383c88afa0b95e0f87eb9cd4425f8454e"/>
+	</game>
+	<game name="Black Onyx, The (Japan) [T-En by Bruce Tomlin+S.Seehorn v1.0]">
+		<description>Black Onyx, The (Japan) [T-En by Bruce Tomlin+S.Seehorn v1.0]</description>
+		<rom name="Black Onyx, The (Japan) [T-En by Bruce Tomlin+S.Seehorn v1.0].sg" size="65535" crc="626e30cc" md5="1da64bab6808f8b6df159c912d3b4072" sha1="2e2baee16a34839770587d5fab890080bbcd9550"/>
+	</game>
+	<game name="Black Onyx, The (Japan) [T-En by Bruce Tomlin+S.Seehorn v1.0] (Enhanced Version)">
+		<description>Black Onyx, The (Japan) [T-En by Bruce Tomlin+S.Seehorn v1.0] (Enhanced Version)</description>
+		<rom name="Black Onyx, The (Japan) [T-En by Bruce Tomlin+S.Seehorn v1.0] (Enhanced Version).sg" size="65535" crc="3003d9bd" md5="e2fca5d8609135caf5f4e2a88e38eabb" sha1="5c46089a417add0f00a3cebf01dc59f53465d47b"/>
+	</game>
+	<game name="Chack'n Pop (Japan) [T-En by Goldenband v1.02]">
+		<description>Chack'n Pop (Japan) [T-En by Goldenband v1.02]</description>
+		<rom name="Chack'n Pop (Japan) [T-En by Goldenband v1.02].sg" size="32768" crc="c106c923" md5="fb5c6e4d23b192cf36d87192289444e2" sha1="c81b116de04468cd605078c78dbd17124556c8a5"/>
+	</game>
+	<game name="Ninja Princess (Japan) [T-En by Goldenband v1.0]">
+		<description>Ninja Princess (Japan) [T-En by Goldenband v1.0]</description>
+		<rom name="Ninja Princess (Japan) [T-En by Goldenband v1.0].sg" size="32768" crc="bdb6cf0e" md5="88f09e8525267c7c5cb18a6011fe1598" sha1="0473f6ca89948f08f504c634e00cf2cf72f94fc6"/>
+	</game>
+</datafile>

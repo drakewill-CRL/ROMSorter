@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>MSX TurboR - Firmware</name>
+		<description>MSX TurboR - Firmware (TOSEC-v2012-04-15)</description>
+		<category>TOSEC</category>
+		<version>2012-04-15</version>
+		<author>XakMSX - VG8020 - jugaor - cbeard - TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="FM BIOS ROM Extension v1.3 1988-04-26 for Turbo-R GT (1988)(-)[FMBIOS.ROM]">
+		<description>FM BIOS ROM Extension v1.3 1988-04-26 for Turbo-R GT (1988)(-)[FMBIOS.ROM]</description>
+		<rom name="FM BIOS ROM Extension v1.3 1988-04-26 for Turbo-R GT (1988)(-)[FMBIOS.ROM].rom" size="16384" crc="f5f93437" md5="c688a229f834f95f8c64df7d33188cd8" sha1="6aea1aef5ec31c1826c22edf580525f93baad425"/>
+	</game>
+	<game name="FM BIOS ROM Extension v1.3 1988-04-26 for Turbo-R ST (1988)(-)[FMBIOS.ROM]">
+		<description>FM BIOS ROM Extension v1.3 1988-04-26 for Turbo-R ST (1988)(-)[FMBIOS.ROM]</description>
+		<rom name="FM BIOS ROM Extension v1.3 1988-04-26 for Turbo-R ST (1988)(-)[FMBIOS.ROM].rom" size="16384" crc="fd7dec41" md5="1a7cc841edb74021dee4a7365d92adcf" sha1="e002a9b426732e6c2d31e548c40cf7c122348ce3"/>
+	</game>
+	<game name="Kanji Driver for TurboR (19xx)(-)[TRKANJI.ROM]">
+		<description>Kanji Driver for TurboR (19xx)(-)[TRKANJI.ROM]</description>
+		<rom name="Kanji Driver for TurboR (19xx)(-)[TRKANJI.ROM].rom" size="32768" crc="eaf0d125" md5="6d1d2cd5c44cd0d428c6b30b5f92367a" sha1="5b39c1ccd3a213b78e02927f56a9abc72cd8c28d"/>
+	</game>
+	<game name="MSX System v4.0 + MSX BASIC (1990)(Microsoft)(US)(TURBO-R ST)[MSXTR.ROM]">
+		<description>MSX System v4.0 + MSX BASIC (1990)(Microsoft)(US)(TURBO-R ST)[MSXTR.ROM]</description>
+		<rom name="MSX System v4.0 + MSX BASIC (1990)(Microsoft)(US)(TURBO-R ST)[MSXTR.ROM].rom" size="32768" crc="77b94ae0" md5="2b0ccbf1c380b56f8a11eb8931116d6b" sha1="f078b5ec56884bfb81481d45c7151418770bff5a"/>
+	</game>
+	<game name="MSX System v4.1 + MSX BASIC (1990)(Microsoft)(TURBO-R GT)(US)[MSXTR.ROM]">
+		<description>MSX System v4.1 + MSX BASIC (1990)(Microsoft)(TURBO-R GT)(US)[MSXTR.ROM]</description>
+		<rom name="MSX System v4.1 + MSX BASIC (1990)(Microsoft)(TURBO-R GT)(US)[MSXTR.ROM].rom" size="32768" crc="937c8dbb" md5="fd9513736823e470965949f2a3ec6a43" sha1="242e73d8284a012b275c0a266844ebbc4269d787"/>
+	</game>
+	<game name="MSX-DOS Kernel v2.30 + Disk BASIC v2.01 (1990)(ASCII)(JP)[MSXDOS23.ROM]">
+		<description>MSX-DOS Kernel v2.30 + Disk BASIC v2.01 (1990)(ASCII)(JP)[MSXDOS23.ROM]</description>
+		<rom name="MSX-DOS Kernel v2.30 + Disk BASIC v2.01 (1990)(ASCII)(JP)[MSXDOS23.ROM].rom" size="65536" crc="f5ecf6c7" md5="03f3477fc51bc8e84170376d92fa5670" sha1="ded7907ed2894200806319a9cf7b13c7cf0d88d9"/>
+	</game>
+	<game name="MSX-DOS Kernel v2.31 + Disk BASIC v2.01 (1991)(ASCII)(JP)[MSXDOS23.ROM]">
+		<description>MSX-DOS Kernel v2.31 + Disk BASIC v2.01 (1991)(ASCII)(JP)[MSXDOS23.ROM]</description>
+		<rom name="MSX-DOS Kernel v2.31 + Disk BASIC v2.01 (1991)(ASCII)(JP)[MSXDOS23.ROM].rom" size="65536" crc="bb2a0eae" md5="1285e287ef11a4a713765dd955b0ee96" sha1="4880bf34f1c86fff5456ec2b4cf70d02339e2caa"/>
+	</game>
+	<game name="MSX-DOS v2.2 (1984)(Microsoft)(US)(Disk 8 of 8)[7]">
+		<description>MSX-DOS v2.2 (1984)(Microsoft)(US)(Disk 8 of 8)[7]</description>
+		<rom name="MSX-DOS v2.2 (1984)(Microsoft)(US)(Disk 8 of 8)[7].rom" size="16384" crc="14c9d8f5" md5="4b99aadc66ac9d5ffd1899adebfef779" sha1="6e89f19179ccfeb824bb12a6f512b9d07d0b8534"/>
+	</game>
+	<game name="MSXTR GT System Extension (19xx)(-)[MSXTREXT.ROM]">
+		<description>MSXTR GT System Extension (19xx)(-)[MSXTREXT.ROM]</description>
+		<rom name="MSXTR GT System Extension (19xx)(-)[MSXTREXT.ROM].rom" size="16384" crc="70aea0fe" md5="824b1c4475a3bd3b91c5ae81ea940aa2" sha1="018d7a5222f28514908fb1b1513286a6558a6d05"/>
+	</game>
+	<game name="MSXTR ST System Extension (19xx)(-)[MSXTREXT.ROM]">
+		<description>MSXTR ST System Extension (19xx)(-)[MSXTREXT.ROM]</description>
+		<rom name="MSXTR ST System Extension (19xx)(-)[MSXTREXT.ROM].rom" size="16384" crc="2c2c77a4" md5="be78c9e80c250297638b203f512c2327" sha1="373412f9c32762de1c3a7e27fc3d80614e0a0c8e"/>
+	</game>
+	<game name="Turbo R GT Full ROM-Image 2 MB (19xx)(-)[GT2MB.ROM]">
+		<description>Turbo R GT Full ROM-Image 2 MB (19xx)(-)[GT2MB.ROM]</description>
+		<rom name="Turbo R GT Full ROM-Image 2 MB (19xx)(-)[GT2MB.ROM].rom" size="2097152" crc="6d3eed3f" md5="feeec8f440b13cff45816e506a6a8860" sha1="6306ca2bc9fdd3becf13e51a921ea6d393f571ae"/>
+	</game>
+</datafile>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>APF Imagination Machine - Compilations - Games</name>
+		<description>APF Imagination Machine - Compilations - Games (TOSEC-v2018-03-08)</description>
+		<category>TOSEC</category>
+		<version>2018-03-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Escape &amp; 21 &amp; Escape 2 (198x)(Lacroix Games)[possible bad dump]">
+		<description>Escape &amp; 21 &amp; Escape 2 (198x)(Lacroix Games)[possible bad dump]</description>
+		<rom name="Escape &amp; 21 &amp; Escape 2 (198x)(Lacroix Games)[possible bad dump].wav" size="3539884" crc="3a799a9e" md5="68cbfafb48b6494982fd6047f67ccb74" sha1="d3486a021c7ef45db0e5f553153affbb2accf09a"/>
+	</game>
+	<game name="Gondola Pitts &amp; Saucer Shoot (19xx)(MR R's)">
+		<description>Gondola Pitts &amp; Saucer Shoot (19xx)(MR R's)</description>
+		<rom name="Gondola Pitts &amp; Saucer Shoot (19xx)(MR R's).wav" size="2550572" crc="94d89b01" md5="8b3513f7cf90a78b3585d4587c3c04d2" sha1="6e7441b143c4dec1f6795e4d710dcfe45c61edaf"/>
+	</game>
+	<game name="Super 21 &amp; Space Hunt (1983)(Geo-Grafix)">
+		<description>Super 21 &amp; Space Hunt (1983)(Geo-Grafix)</description>
+		<rom name="Super 21 &amp; Space Hunt (1983)(Geo-Grafix).wav" size="2496414" crc="c937f096" md5="b6dba36b60d4191992bb3bbe776a1ccf" sha1="9652b6478cf554062d6d6e6e8fb558873a8097f2"/>
+	</game>
+	<game name="Super 21 &amp; Space Hunt (1983)(Geo-Grafix)[a]">
+		<description>Super 21 &amp; Space Hunt (1983)(Geo-Grafix)[a]</description>
+		<rom name="Super 21 &amp; Space Hunt (1983)(Geo-Grafix)[a].wav" size="3931560" crc="d80d3a1b" md5="6e6bffce3622518f50af3c151de8a673" sha1="41b90a8989a90fb36d1d52b780e7499f192e8519"/>
+	</game>
+	<game name="Three-for-One - Space War &amp; Air Fortress &amp; Squeeze Play (19xx)(-)">
+		<description>Three-for-One - Space War &amp; Air Fortress &amp; Squeeze Play (19xx)(-)</description>
+		<rom name="Three-for-One - Space War &amp; Air Fortress &amp; Squeeze Play (19xx)(-).wav" size="4647596" crc="a5abc06d" md5="572ca3b7877139c9e0a749bd7cb67317" sha1="e21a0276ccdbf07dbc84b61a79dcf1d494b2b293"/>
+	</game>
+	<game name="Transport &amp; 15 Matches (19xx)(Carman, R. T.)[req 16K RAM]">
+		<description>Transport &amp; 15 Matches (19xx)(Carman, R. T.)[req 16K RAM]</description>
+		<rom name="Transport &amp; 15 Matches (19xx)(Carman, R. T.)[req 16K RAM].wav" size="3680094" crc="5673884c" md5="eb982fd543c6d4415e4c5cfc6f962419" sha1="538ea35a11ce95243da6cb6bf568b8f840bbe40d"/>
+	</game>
+</datafile>

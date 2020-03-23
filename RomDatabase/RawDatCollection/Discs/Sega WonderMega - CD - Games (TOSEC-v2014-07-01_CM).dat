@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega WonderMega - CD - Games</name>
+		<description>Sega WonderMega - CD - Games (TOSEC-v2014-07-01)</description>
+		<category>TOSEC-ISO</category>
+		<version>2014-07-01</version>
+		<author>TOSEC-ISO: Trurip</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Prize Fighter (1993)(Sega)(US)(Disc 1 of 2)">
+		<description>Prize Fighter (1993)(Sega)(US)(Disc 1 of 2)</description>
+		<rom name="Prize Fighter (1993)(Sega)(US)(Disc 1 of 2).ccd" size="935" crc="11719714" md5="2a216cccb6b29235c05308d9d28af3cf" sha1="c9ebe395f67fc061f7bb44e517787dd30190a133"/>
+		<rom name="Prize Fighter (1993)(Sega)(US)(Disc 1 of 2).img" size="412411440" crc="2584a7a2" md5="69d2d55bae28b7e7a781321905df3dc0" sha1="932414d0d2af3fc61a64d5de34d8d923a03922e1"/>
+		<rom name="Prize Fighter (1993)(Sega)(US)(Disc 1 of 2).sub" size="16833120" crc="f00794f7" md5="d69a4da04b3d5ea8d04e3b171dc9f4d4" sha1="78e6817c023f7557f76fc229ef19810dab9e8a4c"/>
+	</game>
+	<game name="Prize Fighter (1993)(Sega)(US)(Disc 2 of 2)">
+		<description>Prize Fighter (1993)(Sega)(US)(Disc 2 of 2)</description>
+		<rom name="Prize Fighter (1993)(Sega)(US)(Disc 2 of 2).ccd" size="935" crc="4d549922" md5="0b24077bc03c6071ab3a8c77b553ad74" sha1="5bf6eb2dfe8f0c100785468865dbce811a3f89c1"/>
+		<rom name="Prize Fighter (1993)(Sega)(US)(Disc 2 of 2).img" size="473168304" crc="201600f7" md5="69df46be36ca7ee4fa88749f75d39947" sha1="5acf33f327281d767d28658918466c5e2186d30b"/>
+		<rom name="Prize Fighter (1993)(Sega)(US)(Disc 2 of 2).sub" size="19312992" crc="703a26f2" md5="d579c1a5694fdc096571d56ecf621055" sha1="fb1cfa946474952f9e5781202648543f7d11c31a"/>
+	</game>
+</datafile>

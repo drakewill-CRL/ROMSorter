@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>MSX (Cartridges) [T-En]</name>
+		<description>MSX (Cartridges) [T-En]</description>
+		<category>English Translations</category>
+		<version>20121007</version>
+		<date>20121007</date>
+		<author>Powerpuff</author>
+		<email>-insert email-</email>
+		<homepage>Maybe-Intro</homepage>
+		<url>http://maybeintro.wordpress.com/</url>
+		<comment>Maybe-Intro</comment>
+		<clrmamepro/>
+	</header>
+	<game name="_MSX (Cartridges) [T-En] Docs">
+		<description>_MSX (Cartridges) [T-En] Docs</description>
+		<rom name="Becky (Japan) [T-En by Hap+Rieks v20100121].txt" size="566" crc="19eca4ea" md5="83ea77395e8f7123257d46b0c45f862b" sha1="d421593cc0779063b3682865b4ca3a09a36d3586"/>
+		<rom name="Black Onyx, The (Japan) [T-En by Polaris v1.0].pdf" size="33213" crc="fa2430f5" md5="34f1de71db6e93984ce76aff60bdfb10" sha1="147c3c5cd41268dc6c0a43e3a196cdd8ab70dab5"/>
+		<rom name="Borfes and the 5 Demons (Japan) [T-En by Hap v20081105] [n].txt" size="1330" crc="ce694240" md5="8a59bc6ccd8fe986ca4913f0e8a4461a" sha1="572032dcd97995bbd497e882c74558b4b563c48f"/>
+		<rom name="Dragon Slayer Jr. - Romancia (Japan) [T-En by MSX Translations v0.7.0].txt" size="19803" crc="c8511085" md5="579deb8bb658216dc94190df30e0c0b5" sha1="15fec67d37155df24f77b2ba43f74514399cfaf4"/>
+		<rom name="Evil Mansion - Goblin (Japan) [T-En by Hap+Zan v20080619] [n].txt" size="1229" crc="6e3a1997" md5="89546e78b80684c68eb724977f8cf3ac" sha1="8881a0f5ac822580f10a37b1bc6fb6e90d649bc8"/>
+		<rom name="Golvellius (Japan) [T-En by Novalia Spirit v1.0].txt" size="4172" crc="79d3a5e8" md5="7cc31b4c7207edfdbd00ec5f4a6bf366" sha1="028ce257ff7d7c49de92b5c3161edbb32a42f326"/>
+		<rom name="Jagur (Japan) [T-En by Django v1.0] (Fr).pdf" size="19194" crc="f73dc231" md5="8a525a23a4ed6395d152828ab6740bfc" sha1="8feccb2c8a0117bff1a8c073b68afd3dfd3a2901"/>
+		<rom name="Nyorols (Japan) [T-En by PentarouZero v1.0].txt" size="2343" crc="82ff5b97" md5="8b05c05474a2ebf2eee2602484952271" sha1="c803741d59a464d1c3edb7e4a3134562488e1cf7"/>
+	</game>
+	<game name="Becky (Japan) [T-En by Hap+Rieks v20100121]">
+		<description>Becky (Japan) [T-En by Hap+Rieks v20100121]</description>
+		<rom name="Becky (Japan) [T-En by Hap+Rieks v20100121].rom" size="16384" crc="909b81fb" md5="8c83a0920b10a01f44ad50d3613708de" sha1="4eb5c8e5bc0b0c1bcfc55c53a819d5d592eb0551"/>
+	</game>
+	<game name="Black Onyx, The (Japan) [T-En by Polaris v1.0]">
+		<description>Black Onyx, The (Japan) [T-En by Polaris v1.0]</description>
+		<rom name="Black Onyx, The (Japan) [T-En by Polaris v1.0].rom" size="32768" crc="829c3d87" md5="2055d2c6de49788f90eefcadb208e5d6" sha1="42975e598eeafcb02bac82e6976d3cb2647e4a8e"/>
+	</game>
+	<game name="Borfes and the 5 Demons (Japan) [T-En by Hap v20081105] [n]">
+		<description>Borfes and the 5 Demons (Japan) [T-En by Hap v20081105] [n]</description>
+		<rom name="Borfesu (Japan) [T-En by Hap v20081105].rom" size="131072" crc="f2f2f0c8" md5="4872615111a6ac0d56007bb3bbfd1f35" sha1="855cabd1ad1abae3a9d26999d48c66de8096d7c5"/>
+	</game>
+	<game name="Dragon Slayer Jr. - Romancia (Japan) [T-En by MSX Translations v0.7.0]">
+		<description>Dragon Slayer Jr. - Romancia (Japan) [T-En by MSX Translations v0.7.0]</description>
+		<rom name="Dragon Slayer Jr. - Romancia (Japan) [T-En by MSX Translations v0.7.0].rom" size="131072" crc="885773f9" md5="2f1515194333fcad40e81cf890d5fb56" sha1="f913ba02cd07e7d6a18d79d0fc2f4628841fc5c6"/>
+	</game>
+	<game name="Evil Mansion - Goblin (Japan) [T-En by Hap+Zan v20080619] [n]">
+		<description>Evil Mansion - Goblin (Japan) [T-En by Hap+Zan v20080619] [n]</description>
+		<rom name="Mashou no Tachi Goblin (Japan) [T-En by Hap+Zan v20080619].rom" size="65536" crc="cb766c4a" md5="9da4a20830a9197c3d546dcef84a6a93" sha1="a0396786630e4a56206531a2ac9ddc2456ab71d3"/>
+	</game>
+	<game name="Golvellius (Japan) [T-En by Novalia Spirit v1.0]">
+		<description>Golvellius (Japan) [T-En by Novalia Spirit v1.0]</description>
+		<rom name="Golvellius (Japan) [T-En by Novalia Spirit v1.0].rom" size="131072" crc="67cbd6d1" md5="9fc9ee41ce35ce4e1068e22277265f6d" sha1="8b7e4bc408a8c715943bfa00069f2d517b39a748"/>
+	</game>
+	<game name="Jagur (Japan) [T-En by Django v1.0]">
+		<description>Jagur (Japan) [T-En by Django v1.0]</description>
+		<rom name="Jagur (Japan) [T-En by Django v1.0].rom" size="131072" crc="4824c49c" md5="622af08bde338d6708f689aa50cc6eae" sha1="8e5b563d6cc4ad1a05f6344f1cddf1780897843c"/>
+	</game>
+	<game name="Kinasai (Japan) (Unl) [T-En by GD v1.0]">
+		<description>Kinasai (Japan) (Unl) [T-En by GD v1.0]</description>
+		<rom name="Kinasai (Japan) (Unl) [T-En by GD v1.0].rom" size="16384" crc="0697a1c1" md5="44625d8cbff7cd004da5ad49243b9872" sha1="4732da69df21dabf958ae181ef21f38c6f173881"/>
+	</game>
+	<game name="Knightmare III - Shalom (Japan) [T-En by Ricardo Bittencourt+SLotman v1.0b4]">
+		<description>Knightmare III - Shalom (Japan) [T-En by Ricardo Bittencourt+SLotman v1.0b4]</description>
+		<rom name="Knightmare III - Shalom (Japan) [T-En by Ricardo Bittencourt+SLotman v1.0b4].rom" size="524288" crc="a00f616d" md5="5f81a88ef9940ff9fffb50f093801c39" sha1="828a38535cb6246469a65f429834db8ab469d914"/>
+	</game>
+	<game name="Nyorols (Japan) [T-En by PentarouZero v1.0]">
+		<description>Nyorols (Japan) [T-En by PentarouZero v1.0]</description>
+		<rom name="Nyorols (Japan) [T-En by PentarouZero v1.0].rom" size="16384" crc="5b5ff0ad" md5="34f4cc6570087c2052d60c2ea916d51f" sha1="53e618a7e1dae3db68d0706a288aff08e62b1376"/>
+	</game>
+	<game name="Parodius (Japan) [T-En by A&amp;L Software v1.0]">
+		<description>Parodius (Japan) [T-En by A&amp;L Software v1.0]</description>
+		<rom name="Parodius (Japan) [T-En by A&amp;L Software v1.0].rom" size="131072" crc="68dea3f0" md5="9ce36aeaa93f969b6c2ea91598b0b014" sha1="04e4eb1cae7cf379977d238b74d727bb929c8d23"/>
+	</game>
+</datafile>

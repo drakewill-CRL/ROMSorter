@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Mattel - Intellivision (Echoj2's 1G1R)</name>
+		<description>Mattel - Intellivision (Echoj2's 1G1R)</description>
+		<category>Standard DatFile</category>
+		<version>20180623-100000</version>
+		<date>-insert date-</date>
+		<author>Eckaji</author>
+		<email>-insert email-</email>
+		<homepage>r/SBCGaming</homepage>
+		<url>https://discord.gg/JdXc6nx</url>
+		<comment>-insert comment-</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="ABPA Backgammon ~ Backgammon (World)">
+		<description>ABPA Backgammon ~ Backgammon (World)</description>
+		<rom name="ABPA Backgammon ~ Backgammon (World).int" size="8192" crc="a60e25fc" md5="6890eaf1ac1a7d9a8494b7f5e25a1fac" sha1="71b305f30283a11ccd594071a7e9ea06db6a2071"/>
+	</machine>
+	<machine name="Advanced Dungeons &amp; Dragons - Treasure of Tarmin (USA)">
+		<description>Advanced Dungeons &amp; Dragons - Treasure of Tarmin (USA)</description>
+		<rom name="Advanced Dungeons &amp; Dragons - Treasure of Tarmin (USA).int" size="16384" crc="16c3b62f" md5="0229a4889e18a37d1d631505d1cb83df" sha1="deffe81ac52caa93401ca2aaed734a1fb69c498d"/>
+	</machine>
+	<machine name="Advanced Dungeons &amp; Dragons ~ Cloudy Mountain ~ Crown of Kings ~ Adventure (USA, Europe)">
+		<description>Advanced Dungeons &amp; Dragons ~ Cloudy Mountain ~ Crown of Kings ~ Adventure (USA, Europe)</description>
+		<rom name="Advanced Dungeons &amp; Dragons ~ Cloudy Mountain ~ Crown of Kings ~ Adventure (USA, Europe).int" size="16384" crc="f8b1f2b7" md5="f1168c0894946c290685f133b81b4fac" sha1="c1add941f004130ee613dd73524afa67432d75e0"/>
+	</machine>
+	<machine name="Armor Battle (USA, Europe)">
+		<description>Armor Battle (USA, Europe)</description>
+		<rom name="Armor Battle (USA, Europe).int" size="8192" crc="6f91fbc1" md5="7fa60b1cb4adac3088727d5ac53ec183" sha1="8bf07ba83bd0de42393187c6a3df60b8e341505d"/>
+	</machine>
+	<machine name="Astrosmash (USA, Europe)">
+		<description>Astrosmash (USA, Europe)</description>
+		<rom name="Astrosmash (USA, Europe).int" size="8192" crc="fab2992c" md5="8f6a5b5b65d84f947236e503d378370b" sha1="d3529cad339b3fd5c67b4f503e9360188be9d3e8"/>
+	</machine>
+	<machine name="Atlantis (USA, Europe)">
+		<description>Atlantis (USA, Europe)</description>
+		<rom name="Atlantis (USA, Europe).int" size="16384" crc="13ff363c" md5="317ef1ee4d12df7ce7dd57dbc273b4b1" sha1="094b207668c03a6d903270490f495ddc237cd8d7"/>
+	</machine>
+	<machine name="Auto Racing (World)">
+		<description>Auto Racing (World)</description>
+		<rom name="Auto Racing (World).int" size="8192" crc="b35c1101" md5="97e865e173d137cf5576d080268f7df5" sha1="2e3461853f60a1928c5c93bb23deb9229e0230c9"/>
+	</machine>
+	<machine name="Beamrider (USA)">
+		<description>Beamrider (USA)</description>
+		<rom name="Beamrider (USA).int" size="16384" crc="eaf650cc" md5="0cf15a41cce922dbd7f0debfe0bff792" sha1="1faa1d401bc7484492f3e1de433ed73019cbb5b5"/>
+	</machine>
+	<machine name="Beauty and the Beast (USA, Europe)">
+		<description>Beauty and the Beast (USA, Europe)</description>
+		<rom name="Beauty and the Beast (USA, Europe).int" size="16384" crc="c047d487" md5="f6d0e268efe254dc4539fb6df5a6ce24" sha1="1b6fd19e745e50e8ea679bd5adfb719d1f276bc5"/>
+	</machine>
+	<machine name="Blockade Runner (USA)">
+		<description>Blockade Runner (USA)</description>
+		<rom name="Blockade Runner (USA).int" size="16384" crc="b03f739b" md5="56fda8dcf4920a182de8f5bdd06590ea" sha1="c82058d9678fe2453b0f9b7a4a0864af802f6eb9"/>
+	</machine>
+	<machine name="Body Slam! Super Pro Wrestling (USA)">
+		<description>Body Slam! Super Pro Wrestling (USA)</description>
+		<rom name="Body Slam! Super Pro Wrestling (USA).int" size="32768" crc="515e1d7e" md5="d0ac7f9a9c2ef3826f7ece1a7dd2202a" sha1="49b474d0317cc0e6c83ce77ba46d5ded2ec56005"/>
+	</machine>
+	<machine name="Boxing (World)">
+		<description>Boxing (World)</description>
+		<rom name="Boxing (World).int" size="8192" crc="ab87c16f" md5="4b29afc041bf51b1aa0f6505a36d2c6a" sha1="24a10945009acadfe502a5bd5fb5b960885716f4"/>
+	</machine>
+	<machine name="Bump 'n' Jump (USA)">
+		<description>Bump 'n' Jump (USA)</description>
+		<rom name="Bump 'n' Jump (USA).int" size="32768" crc="999cceed" md5="ed0d27c9494c8e06aefa45ab5640f1f7" sha1="9c9d1852ad9453ca2faff46ee443b3f5fbe52256"/>
+	</machine>
+	<machine name="BurgerTime (USA, Europe)">
+		<description>BurgerTime (USA, Europe)</description>
+		<rom name="BurgerTime (USA, Europe).int" size="16384" crc="43806375" md5="d81075a4c254463724ac3bab0b500a08" sha1="eacd83365da40a1a3d6c77ca2da4a0393460e02f"/>
+	</machine>
+	<machine name="Buzz Bombers (USA, Europe)">
+		<description>Buzz Bombers (USA, Europe)</description>
+		<rom name="Buzz Bombers (USA, Europe).int" size="16384" crc="fa492bbd" md5="0032f034ed1d761d1f0dff79115fec78" sha1="a0ef9a23976de6ee88c1f970a6585ded2a2b8c04"/>
+	</machine>
+	<machine name="Carnival (USA, Europe)">
+		<description>Carnival (USA, Europe)</description>
+		<rom name="Carnival (USA, Europe).int" size="8192" crc="43870908" md5="28ef20b81fd9eac68a19fbfcae5dab9a" sha1="13aa104e884701d74e144b85b9583579d1980e80"/>
+	</machine>
+	<machine name="Centipede (USA)">
+		<description>Centipede (USA)</description>
+		<rom name="Centipede (USA).int" size="16384" crc="d5363b8c" md5="8c57a45b86d907ecebff9edc3a132aa5" sha1="97c69dc3da5aee80e6ef1baf90b6c3ec8025abff"/>
+	</machine>
+	<machine name="Championship Tennis (USA, Europe)">
+		<description>Championship Tennis (USA, Europe)</description>
+		<rom name="Championship Tennis (USA, Europe).int" size="32768" crc="4cc46a04" md5="016be420f1f20fc2ed8ec051e196aaec" sha1="a402bcc8d1e50febc01ac2d91237742192aff7c7"/>
+	</machine>
+	<machine name="Checkers ~ Draughts (USA, Europe)">
+		<description>Checkers ~ Draughts (USA, Europe)</description>
+		<rom name="Checkers ~ Draughts (USA, Europe).int" size="8192" crc="36e1d858" md5="8122bb07816acdcb3f0a037b72f02142" sha1="4fef3342c0e7100113b4022e4395ad552fddacf1"/>
+	</machine>
+	<machine name="Chip Shot - Super Pro Golf (USA)">
+		<description>Chip Shot - Super Pro Golf (USA)</description>
+		<rom name="Chip Shot - Super Pro Golf (USA).int" size="32768" crc="0bf464c6" md5="e0d577b333881deca1b0b8cf07b1bea9" sha1="94efb14c0ca0a4921ebe300d40365eb6f75fcda5"/>
+	</machine>
+	<machine name="Commando (USA)">
+		<description>Commando (USA)</description>
+		<rom name="Commando (USA).int" size="32768" crc="3289c8ba" md5="9ff5833918a5accbfddc856258bc2d3b" sha1="40a1418e2768991f82e6d453e598ac2170b981ad"/>
+	</machine>
+	<machine name="Congo Bongo (USA)">
+		<description>Congo Bongo (USA)</description>
+		<rom name="Congo Bongo (USA).int" size="24576" crc="4b23a757" md5="75276981f9eab0ddc260fcf2331fa5d9" sha1="3d467d13e34e231971e8aef86968f199c145b9b2"/>
+	</machine>
+	<machine name="Defender (USA)">
+		<description>Defender (USA)</description>
+		<rom name="Defender (USA).int" size="24576" crc="d8f99aa2" md5="e89814fab2ad565179511c592d524fc4" sha1="85af8649c04198b00cecdea2661192db6631dc80"/>
+	</machine>
+	<machine name="Demon Attack (USA, Europe)">
+		<description>Demon Attack (USA, Europe)</description>
+		<rom name="Demon Attack (USA, Europe).int" size="16384" crc="5e6a8cd8" md5="9855aefcc210df151ba3373d869e8b66" sha1="d6054e8ead16f3e076c26880fe641543e8519e18"/>
+	</machine>
+	<machine name="Dig Dug (USA)">
+		<description>Dig Dug (USA)</description>
+		<rom name="Dig Dug (USA).int" size="32768" crc="159af7f7" md5="a8f2aee64d0163309bf17e90c69fe5b9" sha1="6e281043c7bb37b20cfc48cfefb5f28922b3a3ce"/>
+	</machine>
+	<machine name="Diner (USA)">
+		<description>Diner (USA)</description>
+		<rom name="Diner (USA).int" size="32768" crc="13ee56f1" md5="ae3b9621c32fd1d327e2aa994e69f62a" sha1="b55d83d2f5b2bf408ea696d6b7d56e71782c3507"/>
+	</machine>
+	<machine name="Donkey Kong (USA, Europe)">
+		<description>Donkey Kong (USA, Europe)</description>
+		<rom name="Donkey Kong (USA, Europe).int" size="8192" crc="c30f61c0" md5="a43d060b5e7c6155f7469bf3dd245de4" sha1="93807afeee023ce6c787b073705c8bf32bbd8abf"/>
+	</machine>
+	<machine name="Donkey Kong Junior (USA, Europe)">
+		<description>Donkey Kong Junior (USA, Europe)</description>
+		<rom name="Donkey Kong Junior (USA, Europe).int" size="16384" crc="6df61a9f" md5="4f16342d203da7af060cc6eec3d103f7" sha1="9d983308ef7051eef0c324e696776a6f9b9c38d4"/>
+	</machine>
+	<machine name="Dracula (USA, Europe)">
+		<description>Dracula (USA, Europe)</description>
+		<rom name="Dracula (USA, Europe).int" size="16384" crc="84bedcc1" md5="a52574877a018ef1ec10e0ff3038fbb9" sha1="d211da07ab620854ee7a2de3bc103d71d649612f"/>
+	</machine>
+	<machine name="Dragonfire (USA, Europe)">
+		<description>Dragonfire (USA, Europe)</description>
+		<rom name="Dragonfire (USA, Europe).int" size="8192" crc="af8718a1" md5="e4dc456380ac48ea36c3b46cb8e2fb51" sha1="dd6b105c7de9f29e98f11466b063b477af7c3260"/>
+	</machine>
+	<machine name="Dreadnaught Factor, The (USA)">
+		<description>Dreadnaught Factor, The (USA)</description>
+		<rom name="Dreadnaught Factor, The (USA).int" size="16384" crc="3b99b889" md5="5da863a6bb5cab4e6e3b0b422124b789" sha1="f8a3224023b0dd27bc4a38b722e2d8016b08ce73"/>
+	</machine>
+	<machine name="Electric Company, The - Math Fun ~ Math Masters (USA, Europe)">
+		<description>Electric Company, The - Math Fun ~ Math Masters (USA, Europe)</description>
+		<rom name="Electric Company, The - Math Fun ~ Math Masters (USA, Europe).int" size="8192" crc="54a3fc11" md5="dcbea7cde7d03f099680531fe7a80ab5" sha1="6cdb18d1dd3cd57058263904934b37d4713342e6"/>
+	</machine>
+	<machine name="Electric Company, The - Word Fun - Crosswords, Word Hunt, and Word Rockets (USA, Europe)">
+		<description>Electric Company, The - Word Fun - Crosswords, Word Hunt, and Word Rockets (USA, Europe)</description>
+		<rom name="Electric Company, The - Word Fun - Crosswords, Word Hunt, and Word Rockets (USA, Europe).int" size="8192" crc="c9eaacab" md5="36ff2340ff5972f9aa4d353b633e082e" sha1="d3934c328465f0fb423e6a43fcc57018b78da6b9"/>
+	</machine>
+	<machine name="Fathom (USA, Europe)">
+		<description>Fathom (USA, Europe)</description>
+		<rom name="Fathom (USA, Europe).int" size="16384" crc="4221ede7" md5="c13b1e3b0d33908c0fc073f2032d9be9" sha1="49646878c9698c9749b3665110acde0906b8f69c"/>
+	</machine>
+	<machine name="Frog Bog (World)">
+		<description>Frog Bog (World)</description>
+		<rom name="Frog Bog (World).int" size="8192" crc="37222762" md5="bb806b41644e33b6fc5a4d9d3f8c7aee" sha1="58842e4425ad5a8f6ec65528c4b485039057f289"/>
+	</machine>
+	<machine name="Frogger (USA, Europe)">
+		<description>Frogger (USA, Europe)</description>
+		<rom name="Frogger (USA, Europe).int" size="8192" crc="d27495e9" md5="523d46bcab6c0c11f0672562fe31cd47" sha1="c84f2a2f0007de06057f7e22a489f76def482c86"/>
+	</machine>
+	<machine name="Happy Trails (USA, Europe)">
+		<description>Happy Trails (USA, Europe)</description>
+		<rom name="Happy Trails (USA, Europe).int" size="8192" crc="4b8c5932" md5="01348ced597a48a4ee87a5b3683616cb" sha1="5bd74fd0246da1441f4af76dc9592f7809f8a821"/>
+	</machine>
+	<machine name="Horse Racing (World)">
+		<description>Horse Racing (World)</description>
+		<rom name="Horse Racing (World).int" size="8192" crc="b5c7f25d" md5="96d52ac29d5d4fd50b69675885801c9a" sha1="bd024190395a6d5c9aecadb49d59511e265ff7b3"/>
+	</machine>
+	<machine name="Hover Force (USA)">
+		<description>Hover Force (USA)</description>
+		<rom name="Hover Force (USA).int" size="49152" crc="ff83ff80" md5="436cacf587e988368974fe273be78474" sha1="2d96762d78a63f606b74c6619f3b2b82c381fcce"/>
+	</machine>
+	<machine name="Ice Trek (USA, Europe)">
+		<description>Ice Trek (USA, Europe)</description>
+		<rom name="Ice Trek (USA, Europe).int" size="16384" crc="4f3e3f69" md5="79d475ff853683ffd9be630628a491fa" sha1="d70bd2d71227faba51de575df110818ed50bdee7"/>
+	</machine>
+	<machine name="Kool-Aid Man (USA)">
+		<description>Kool-Aid Man (USA)</description>
+		<rom name="Kool-Aid Man (USA).int" size="16384" crc="8c9819a2" md5="c02d360393d2cd73a91ee56c56809410" sha1="9ceab1a49090c4d8b55b3e85c845b1d3a5537ddb"/>
+	</machine>
+	<machine name="Lady Bug (USA, Europe)">
+		<description>Lady Bug (USA, Europe)</description>
+		<rom name="Lady Bug (USA, Europe).int" size="16384" crc="a6840736" md5="b512d919bf3db6f1e6b9a80835e032ec" sha1="ca3f0d52fc077c98becefe3e566895807840152a"/>
+	</machine>
+	<machine name="Las Vegas Poker &amp; Blackjack ~ Blackjack &amp; Poker (World)">
+		<description>Las Vegas Poker &amp; Blackjack ~ Blackjack &amp; Poker (World)</description>
+		<rom name="Las Vegas Poker &amp; Blackjack ~ Blackjack &amp; Poker (World).int" size="8192" crc="604611c0" md5="6506a1bf0c749fc768cb6b5162e0cbd7" sha1="a6c03e253e615a06f838e623df5f557636fdf8e1"/>
+	</machine>
+	<machine name="Las Vegas Roulette (World)">
+		<description>Las Vegas Roulette (World)</description>
+		<rom name="Las Vegas Roulette (World).int" size="8192" crc="48d74d3c" md5="203efd0d5b6c14b88fd5c7c0ed6bfc16" sha1="b7773c3cc93afe4820287c3f1c14345a1a14e1ee"/>
+	</machine>
+	<machine name="Learning Fun I - Math Master Factor Fun (USA)">
+		<description>Learning Fun I - Math Master Factor Fun (USA)</description>
+		<rom name="Learning Fun I - Math Master Factor Fun (USA).int" size="16384" crc="2c5fd5fa" md5="1e661b21b1cd968632cd5ba3be8b589a" sha1="6eeaeb4ca39d30b6255814cd9f92cf8d092c393d"/>
+	</machine>
+	<machine name="Learning Fun II - Word Wizard Memory Fun (USA)">
+		<description>Learning Fun II - Word Wizard Memory Fun (USA)</description>
+		<rom name="Learning Fun II - Word Wizard Memory Fun (USA).int" size="16384" crc="632f6adf" md5="718d9e11b01629bc46cde657df3d1460" sha1="134af61bc7b06489d35a7474f8a29ef80db6f332"/>
+	</machine>
+	<machine name="Lock 'n' Chase (USA, Europe) (Rev 1)">
+		<description>Lock 'n' Chase (USA, Europe) (Rev 1)</description>
+		<rom name="Lock 'n' Chase (USA, Europe) (Rev 1).int" size="16384" crc="5c7e9848" md5="988f97f6a3c713210efc2c20a32e970c" sha1="ac889a1d76b40be1a7e7562c8cb8b3f9d00f3728"/>
+	</machine>
+	<machine name="Loco-Motion (USA)">
+		<description>Loco-Motion (USA)</description>
+		<rom name="Loco-Motion (USA).int" size="16384" crc="6b6e80ee" md5="ff8355790ceb7ce6905dd27c8510cd78" sha1="a5479d68f90d77234b6acc4d7ee93a356d5fd961"/>
+	</machine>
+	<machine name="Major League Baseball ~ Baseball ~ Big League Baseball (World)">
+		<description>Major League Baseball ~ Baseball ~ Big League Baseball (World)</description>
+		<rom name="Major League Baseball ~ Baseball ~ Big League Baseball (World).int" size="8192" crc="dab36628" md5="b88c2989496a5ca5e276d56a2ebfb2ab" sha1="5e83a945f231f55d5ddfa9527f9b94da06e77058"/>
+	</machine>
+	<machine name="Masters of the Universe - The Power of He-Man (USA)">
+		<description>Masters of the Universe - The Power of He-Man (USA)</description>
+		<rom name="Masters of the Universe - The Power of He-Man (USA).int" size="32768" crc="573b9b6d" md5="aee9f481abd8c290e6a0c3990c185e60" sha1="f1d505b51d9516f4bcd9c4f7231553fa9d4c13c7"/>
+	</machine>
+	<machine name="Microsurgeon (USA, Europe)">
+		<description>Microsurgeon (USA, Europe)</description>
+		<rom name="Microsurgeon (USA, Europe).int" size="16384" crc="e806ad91" md5="137d6101ec260405d3d5339822e172f7" sha1="1390f0076470504037720b20f84404d502988231"/>
+	</machine>
+	<machine name="Mission X (USA, Europe)">
+		<description>Mission X (USA, Europe)</description>
+		<rom name="Mission X (USA, Europe).int" size="16384" crc="11fb9974" md5="30f68d218bae18b69daeb9e273fdc9d0" sha1="2e6760f418f4e54a244fe1baa57e573573cc1b7d"/>
+	</machine>
+	<machine name="Motocross (USA)">
+		<description>Motocross (USA)</description>
+		<rom name="Motocross (USA).int" size="16384" crc="5f6e1af6" md5="1ab93dab53b52ea6aa7d964682dfcf03" sha1="109e0a05e73239962ded327827c7957960802744"/>
+	</machine>
+	<machine name="Mountain Madness - Super Pro Skiing (USA)">
+		<description>Mountain Madness - Super Pro Skiing (USA)</description>
+		<rom name="Mountain Madness - Super Pro Skiing (USA).int" size="16384" crc="6b5ea9c4" md5="4c7c9a2bd67863501e678a1e965d5003" sha1="7cbb5fce8b9d44412b98d32a5ea752ec51590785"/>
+	</machine>
+	<machine name="Mouse Trap (USA, Europe)">
+		<description>Mouse Trap (USA, Europe)</description>
+		<rom name="Mouse Trap (USA, Europe).int" size="8192" crc="598662f2" md5="1247c5f449bb1efcb5d63225a0d57a2d" sha1="fd942dde74c6006a70dbc6902a2e0ed416edaa55"/>
+	</machine>
+	<machine name="Mr. BASIC Meets Bits 'n Bytes (USA)">
+		<description>Mr. BASIC Meets Bits 'n Bytes (USA)</description>
+		<rom name="Mr. BASIC Meets Bits 'n Bytes (USA).int" size="24576" crc="bef0b0c7" md5="828101531d09e38dac4cb31954b5ae6e" sha1="6dd81b2b7e2405be87f8253be62888ff51712b85"/>
+	</machine>
+	<machine name="NASL Soccer ~ Soccer (World)">
+		<description>NASL Soccer ~ Soccer (World)</description>
+		<rom name="NASL Soccer ~ Soccer (World).int" size="8192" crc="dbab54ca" md5="ec08c8432f695446bcb78411775fa8b4" sha1="3524384c2e096f22b7cb9608e0a8b9c78f4ef458"/>
+	</machine>
+	<machine name="NBA Basketball ~ Basketball (USA, Europe)">
+		<description>NBA Basketball ~ Basketball (USA, Europe)</description>
+		<rom name="NBA Basketball ~ Basketball (USA, Europe).int" size="8192" crc="81e7fb8c" md5="efaff20e6bbeb707b2486d031e3e1078" sha1="9c855e864cf926dfd3d09c071e499d7ccd537908"/>
+	</machine>
+	<machine name="NFL Football ~ Football (World)">
+		<description>NFL Football ~ Football (World)</description>
+		<rom name="NFL Football ~ Football (World).int" size="8192" crc="4b91cf16" md5="d0ef7a007e8635a13942fb6da48012a2" sha1="525dffeb7b53c88bd2e8076c421388ed72e2c90d"/>
+	</machine>
+	<machine name="NHL Hockey ~ Hockey (World)">
+		<description>NHL Hockey ~ Hockey (World)</description>
+		<rom name="NHL Hockey ~ Hockey (World).int" size="8192" crc="76564a13" md5="6307b4ea467874b393a9a3f07f3eb50f" sha1="3395c6764f60d90d96966b28ee96742b5782d59f"/>
+	</machine>
+	<machine name="Night Stalker (World)">
+		<description>Night Stalker (World)</description>
+		<rom name="Night Stalker (World).int" size="8192" crc="7334cd44" md5="b5e9a146f4f04daab3ba68b0ec45958a" sha1="13e321593daf93c2e3e964a05e43e4bb21da6ea6"/>
+	</machine>
+	<machine name="Nova Blast (USA, Europe)">
+		<description>Nova Blast (USA, Europe)</description>
+		<rom name="Nova Blast (USA, Europe).int" size="16384" crc="5ee2cc2a" md5="74edfe78c836ac3844e7676bfe61efc5" sha1="ca18f2938168ec681ee34cb25a08c87b752a5024"/>
+	</machine>
+	<machine name="Pac-Man (USA)">
+		<description>Pac-Man (USA)</description>
+		<rom name="Pac-Man (USA).int" size="24576" crc="a21c31c3" md5="34b9e686aee6f418d431a2f9a5a5c0cb" sha1="66ddc9c56edee06564c1252c7c6bc3123da8c31d"/>
+	</machine>
+	<machine name="PBA Bowling ~ Bowling (World)">
+		<description>PBA Bowling ~ Bowling (World)</description>
+		<rom name="PBA Bowling ~ Bowling (World).int" size="8192" crc="169e3584" md5="26b658bb3f761ee0d50e93cb782e08ec" sha1="71a2bf83f18fdbf4db3af66681fcfa506bf0d31c"/>
+	</machine>
+	<machine name="PGA Golf ~ Golf (World)">
+		<description>PGA Golf ~ Golf (World)</description>
+		<rom name="PGA Golf ~ Golf (World).int" size="8192" crc="ff87faec" md5="b707c1d38c0c21a7513d1dc0739cdf12" sha1="5bbbdadb74fe62546594a4778928cf1287016083"/>
+	</machine>
+	<machine name="Pinball (USA)">
+		<description>Pinball (USA)</description>
+		<rom name="Pinball (USA).int" size="24576" crc="d7c5849c" md5="2828ce0b76c7f8a5e3a4569fac5c8eb9" sha1="c24bf2e31ce331fac4ca5012501bde7f5bd94adb"/>
+	</machine>
+	<machine name="Pitfall! (USA, Europe)">
+		<description>Pitfall! (USA, Europe)</description>
+		<rom name="Pitfall! (USA, Europe).int" size="8192" crc="9c75efcc" md5="16e989656458afd35d3c2e1aaa950697" sha1="1f4087be2c0a51ed08e49e6498794a9d26dc0d65"/>
+	</machine>
+	<machine name="Pole Position (USA)">
+		<description>Pole Position (USA)</description>
+		<rom name="Pole Position (USA).int" size="32768" crc="bb939881" md5="20a828f38df6569b9b6e16d58d0c37c8" sha1="7a606d908d6d25b1f6033dbacc997ea813576d94"/>
+	</machine>
+	<machine name="Popeye (USA, Europe)">
+		<description>Popeye (USA, Europe)</description>
+		<rom name="Popeye (USA, Europe).int" size="16384" crc="c51464e0" md5="9e8aa1ab70b221e320191ae4b71f9ee2" sha1="fc468df3ab11c52f157a0c6b881c61f43cb5c88a"/>
+	</machine>
+	<machine name="Q-bert (USA, Europe)">
+		<description>Q-bert (USA, Europe)</description>
+		<rom name="Q-bert (USA, Europe).int" size="16384" crc="d8c9856a" md5="1c697df0beb93eec95407bf87285a58a" sha1="60132870a1bf5f5b9d0aa19b4dd9c13a94702f70"/>
+	</machine>
+	<machine name="Reversi (USA, Europe)">
+		<description>Reversi (USA, Europe)</description>
+		<rom name="Reversi (USA, Europe).int" size="8192" crc="c7bb1b0e" md5="61d8dd664d255dfca43f8b40802d76ae" sha1="3eea6f5c02942eb3ac96967e3b667911459d09f8"/>
+	</machine>
+	<machine name="River Raid (USA)">
+		<description>River Raid (USA)</description>
+		<rom name="River Raid (USA).int" size="16384" crc="8910c37a" md5="13b129ad0fcdb79911ccbdf6b741201f" sha1="6c1aa94983c25ed484cc85dadabf0102b5c46726"/>
+	</machine>
+	<machine name="Royal Dealer (USA, Europe)">
+		<description>Royal Dealer (USA, Europe)</description>
+		<rom name="Royal Dealer (USA, Europe).int" size="16384" crc="dcf4b15d" md5="bcf1b30ba80303b36b1cc3bdd5042c1e" sha1="0b53bb03d25c345657baa388478aa8df94026c33"/>
+	</machine>
+	<machine name="Safecracker (USA, Europe)">
+		<description>Safecracker (USA, Europe)</description>
+		<rom name="Safecracker (USA, Europe).int" size="16384" crc="47aa7977" md5="80a64f49d53bb0c2401fbfd4b6fd6e19" sha1="a6a60d4c17866a790351eebec9603890deeda0ff"/>
+	</machine>
+	<machine name="Sea Battle (World)">
+		<description>Sea Battle (World)</description>
+		<rom name="Sea Battle (World).int" size="8192" crc="99ae29a9" md5="4e9a8366eb0bb166dad7a7385417eac8" sha1="ccb48a11f3cbfa580f2c6a1012c8d794eee9a5ec"/>
+	</machine>
+	<machine name="Sewer Sam (USA)">
+		<description>Sewer Sam (USA)</description>
+		<rom name="Sewer Sam (USA).int" size="16384" crc="e0f0d3da" md5="5e04a5b21a18170207e157390bc54185" sha1="e7c2aff48dac09f2c04b867c00a587c00c0c541f"/>
+	</machine>
+	<machine name="Shark! Shark! (USA, Europe)">
+		<description>Shark! Shark! (USA, Europe)</description>
+		<rom name="Shark! Shark! (USA, Europe).int" size="16384" crc="2a4c761d" md5="9f85b961e6c40c2c786026f460ae02fa" sha1="53d10e890571ef67d39874582f3668b29c580590"/>
+	</machine>
+	<machine name="Sharp Shot (USA, Europe)">
+		<description>Sharp Shot (USA, Europe)</description>
+		<rom name="Sharp Shot (USA, Europe).int" size="8192" crc="ff7cb79e" md5="a1c80e87c8b8bf9549b30e78027f137a" sha1="0a0230a5c06f3593d683458aec3d81654904f16d"/>
+	</machine>
+	<machine name="Slam Dunk - Super Pro Basketball (USA)">
+		<description>Slam Dunk - Super Pro Basketball (USA)</description>
+		<rom name="Slam Dunk - Super Pro Basketball (USA).int" size="32768" crc="800b572f" md5="6b7d47db4b5bcc2c3d2696fbf65555a1" sha1="ba455f1df7a4badddb129c724f2e9aca46d6f636"/>
+	</machine>
+	<machine name="Slap Shot - Super Pro Hockey (USA)">
+		<description>Slap Shot - Super Pro Hockey (USA)</description>
+		<rom name="Slap Shot - Super Pro Hockey (USA).int" size="16384" crc="ba68ff28" md5="5ec328d358ff8c9664e4ab1deaa89f80" sha1="35e27d918cad45129fcc3924fbb4f2fef8f31776"/>
+	</machine>
+	<machine name="SNAFU (World)">
+		<description>SNAFU (World)</description>
+		<rom name="SNAFU (World).int" size="8192" crc="8f959a6e" md5="df286e44cb487dab088a43d22af8ccfb" sha1="9d5c237c7fb1cf3c444f916e84ee4180d9732c4c"/>
+	</machine>
+	<machine name="Space Armada (World)">
+		<description>Space Armada (World)</description>
+		<rom name="Space Armada (World).int" size="8192" crc="e8b8eba5" md5="b7c771a6062ee673936008754c987fd1" sha1="2d8ddc0881b63b2f691a97eab182ed4c3ca56816"/>
+	</machine>
+	<machine name="Space Battle (World)">
+		<description>Space Battle (World)</description>
+		<rom name="Space Battle (World).int" size="8192" crc="f95504e0" md5="8c11519753896450e6f38b8e338cb1f6" sha1="d6036c7e7c0da20878fd7acc9f6b476135d1e8d1"/>
+	</machine>
+	<machine name="Space Hawk (USA, Europe)">
+		<description>Space Hawk (USA, Europe)</description>
+		<rom name="Space Hawk (USA, Europe).int" size="8192" crc="39d3b895" md5="20ba9224386c5f64b62b38fdf12589db" sha1="e7e4b8ad30ee69cd9e75f2b3e3d94b75e7288110"/>
+	</machine>
+	<machine name="Spiker - Super Pro Volleyball (USA)">
+		<description>Spiker - Super Pro Volleyball (USA)</description>
+		<rom name="Spiker - Super Pro Volleyball (USA).int" size="32768" crc="a95021fc" md5="fa7bf5db6680d9464161914917e16f1f" sha1="cbc9b04ed52034283cd307ed5d3b2843e70f0409"/>
+	</machine>
+	<machine name="Stadium Mud Buggies (USA)">
+		<description>Stadium Mud Buggies (USA)</description>
+		<rom name="Stadium Mud Buggies (USA).int" size="32768" crc="b745c1ca" md5="547aaf6281fb4878007bc632f5f051b6" sha1="8547b9cf117ed1a1caf0953a8b545587206dc4f7"/>
+	</machine>
+	<machine name="Stampede (USA, Europe)">
+		<description>Stampede (USA, Europe)</description>
+		<rom name="Stampede (USA, Europe).int" size="8192" crc="2deacd15" md5="e39a9065388384cf439dc1484013d993" sha1="31cf8f77d889c48d2b31670e58b2ec38187f2748"/>
+	</machine>
+	<machine name="Star Strike (World)">
+		<description>Star Strike (World)</description>
+		<rom name="Star Strike (World).int" size="8192" crc="72e11fca" md5="f76a250066e55817f42872083bc854b2" sha1="17c37fbc5ff14c55931ae27e21603dff3db66dbe"/>
+	</machine>
+	<machine name="Star Wars - The Empire Strikes Back (USA)">
+		<description>Star Wars - The Empire Strikes Back (USA)</description>
+		<rom name="Star Wars - The Empire Strikes Back (USA).int" size="8192" crc="d5b0135a" md5="13478528a31d1092ba1b19a8e9626ff3" sha1="b2995abe45c57e85c36927ba82c428bfbe06cb70"/>
+	</machine>
+	<machine name="Street (USA)">
+		<description>Street (USA)</description>
+		<rom name="Street (USA).int" size="8192" crc="4830f720" md5="66c13772531cac1e24c0c128ead79571" sha1="c94a09bd76b65366717c39cbf42c60afb34b37cc"/>
+	</machine>
+	<machine name="Sub Hunt (USA, Europe)">
+		<description>Sub Hunt (USA, Europe)</description>
+		<rom name="Sub Hunt (USA, Europe).int" size="16384" crc="3d9949ea" md5="dd7bc297265cf2f65062966312b0b966" sha1="8b09884a69f4aa8663f42a201dd70df98f4da0fc"/>
+	</machine>
+	<machine name="Super Cobra (Europe, Canada)">
+		<description>Super Cobra (Europe, Canada)</description>
+		<rom name="Super Cobra (Europe, Canada).int" size="16384" crc="7c32c9b8" md5="34a2a81f1993124fc1635a9599f24e41" sha1="9eced3a6d0ca3a303793d96050dbec2ab1f35df6"/>
+	</machine>
+	<machine name="Super Pro Decathlon (USA)">
+		<description>Super Pro Decathlon (USA)</description>
+		<rom name="Super Pro Decathlon (USA).int" size="32768" crc="16bfb8eb" md5="ef9c76117f52ab8dae9e305c4fdd769e" sha1="51dfca097cf63623d52ad1e49baa703a61b8da11"/>
+	</machine>
+	<machine name="Super Pro Football (USA)">
+		<description>Super Pro Football (USA)</description>
+		<rom name="Super Pro Football (USA).int" size="32768" crc="32076e9d" md5="64a2772852b1796be8554a39301bf255" sha1="08c97d4e23b8033d9437241c1f4d8a1486d1e9ea"/>
+	</machine>
+	<machine name="Swords &amp; Serpents (USA, Europe)">
+		<description>Swords &amp; Serpents (USA, Europe)</description>
+		<rom name="Swords &amp; Serpents (USA, Europe).int" size="16384" crc="15e88fce" md5="1f35f843ec58cc700cda9e3ed35cdabe" sha1="6beb8682f75e2616009faeabc08e88871fc172bd"/>
+	</machine>
+	<machine name="Tennis (World)">
+		<description>Tennis (World)</description>
+		<rom name="Tennis (World).int" size="8192" crc="03e9e62e" md5="dcf742ed6ee2101769a48faf45145f2c" sha1="e500b803cba6e73228a919fdedc109f0022cee3a"/>
+	</machine>
+	<machine name="Thin Ice (USA)">
+		<description>Thin Ice (USA)</description>
+		<rom name="Thin Ice (USA).int" size="16384" crc="d6495910" md5="8c554fd4d06624bf878f3d50f5b59463" sha1="e038024463fc6b5577983621d861152602b281a6"/>
+	</machine>
+	<machine name="Thunder Castle (USA)">
+		<description>Thunder Castle (USA)</description>
+		<rom name="Thunder Castle (USA).int" size="32768" crc="c1f1ca74" md5="603ad521602531b5c9ad3e77ac47e590" sha1="e1e1a3992045cc873d09a0e92d6e7955f1d67936"/>
+	</machine>
+	<machine name="Tower of Doom (USA)">
+		<description>Tower of Doom (USA)</description>
+		<rom name="Tower of Doom (USA).int" size="49152" crc="d1d352a0" md5="95b106acaecab4fe3d43970eae893452" sha1="de35812076bda03999a55b2969a67299ccfb83c4"/>
+	</machine>
+	<machine name="Triple Action - Battle Tanks, Racing Cars, and Biplanes (World)">
+		<description>Triple Action - Battle Tanks, Racing Cars, and Biplanes (World)</description>
+		<rom name="Triple Action - Battle Tanks, Racing Cars, and Biplanes (World).int" size="8192" crc="1ac989e2" md5="df8bf33772ee8a983ee67687a53a0d4a" sha1="6c1011b98ac76653632fd13e93466802f7d4dea9"/>
+	</machine>
+	<machine name="Triple Challenge - Chess, Checkers, and Backgammon (USA)">
+		<description>Triple Challenge - Chess, Checkers, and Backgammon (USA)</description>
+		<rom name="Triple Challenge - Chess, Checkers, and Backgammon (USA).int" size="45058" crc="095638c0" md5="bb2b785135b610aae525fb92ed83e851" sha1="ea784e2921dd3a7caf85c029de7d937c80d50c58"/>
+	</machine>
+	<machine name="Tron Deadly Discs (USA, Europe)">
+		<description>Tron Deadly Discs (USA, Europe)</description>
+		<rom name="Tron Deadly Discs (USA, Europe).int" size="8192" crc="ca447bbd" md5="a0ae3c350acb9b9bc51128011483d4be" sha1="a84392c29a69a7bff5f1b521a0e836622405180a"/>
+	</machine>
+	<machine name="Tron Maze-A-Tron (USA, Europe)">
+		<description>Tron Maze-A-Tron (USA, Europe)</description>
+		<rom name="Tron Maze-A-Tron (USA, Europe).int" size="16384" crc="7a558cf5" md5="780a2be0e38ac7fd6a7a6d350cd18284" sha1="8d4eba89b8edb4c51ff0e2e4914e73f2a07bc9a6"/>
+	</machine>
+	<machine name="Tropical Trouble (USA, Europe)">
+		<description>Tropical Trouble (USA, Europe)</description>
+		<rom name="Tropical Trouble (USA, Europe).int" size="16384" crc="6f23a741" md5="e5836f66acd6ba7b31c7dccda23b34dc" sha1="63fadc61f9fe850bead7df76ed915ea00e569cb5"/>
+	</machine>
+	<machine name="Truckin' (USA, Europe)">
+		<description>Truckin' (USA, Europe)</description>
+		<rom name="Truckin' (USA, Europe).int" size="16384" crc="734f3260" md5="dca85bcea1f05fb81d38826433152be0" sha1="b4ca75d4b6c4e937aa021e23e0fb98ef707705c7"/>
+	</machine>
+	<machine name="Turbo (USA, Europe)">
+		<description>Turbo (USA, Europe)</description>
+		<rom name="Turbo (USA, Europe).int" size="16384" crc="275f3512" md5="38a04c6d7bb006435cd2c3b28755396c" sha1="23a4aafcbf5449ef0f8a684e2f87e85761e83af7"/>
+	</machine>
+	<machine name="Tutankham (USA, Europe)">
+		<description>Tutankham (USA, Europe)</description>
+		<rom name="Tutankham (USA, Europe).int" size="16384" crc="6fa698b3" md5="be9e56495af99f3f29ef3bc3b0a51fd4" sha1="12a96e4111082f1cf5bee27f850f28e20009681b"/>
+	</machine>
+	<machine name="US Ski Team Skiing ~ Skiing (World)">
+		<description>US Ski Team Skiing ~ Skiing (World)</description>
+		<rom name="US Ski Team Skiing ~ Skiing (World).int" size="8192" crc="f093e801" md5="04004ff8abf2bf4ee5992a0a8f20d3c4" sha1="f93df55f45ee9b589db5763cefe6742860b38e79"/>
+	</machine>
+	<machine name="USCF Chess ~ Chess (USA, Europe)">
+		<description>USCF Chess ~ Chess (USA, Europe)</description>
+		<rom name="USCF Chess ~ Chess (USA, Europe).int" size="16384" crc="752fd927" md5="11b861f65c37a59e67ff028435ac2025" sha1="4ccf494f9664d5b9e05237d1bc2eee8a7830f067"/>
+	</machine>
+	<machine name="Utopia (USA, Europe)">
+		<description>Utopia (USA, Europe)</description>
+		<rom name="Utopia (USA, Europe).int" size="8192" crc="f9e0789e" md5="b93b1169c33b7220887ac7af54224976" sha1="d72d2a9817e75039d57b1ec877dfe2b96a306b61"/>
+	</machine>
+	<machine name="Vectron (USA, Europe)">
+		<description>Vectron (USA, Europe)</description>
+		<rom name="Vectron (USA, Europe).int" size="24576" crc="a4a20354" md5="4c149598be3a6c3974ff5f90005484fc" sha1="dab5bc9f2ba1ee97aa8e0bcaf0d5d5c242b607b2"/>
+	</machine>
+	<machine name="Venture (USA, Europe)">
+		<description>Venture (USA, Europe)</description>
+		<rom name="Venture (USA, Europe).int" size="16384" crc="6efa67b2" md5="45b6ebfcecdba7730de30c5f95005ca6" sha1="ec7c70dbec461c9ec5ce0d37290c5ed7116d537c"/>
+	</machine>
+	<machine name="White Water! (USA, Europe)">
+		<description>White Water! (USA, Europe)</description>
+		<rom name="White Water! (USA, Europe).int" size="16384" crc="f1ed7d27" md5="7dbe8519c0ed760b0aa88c5769b1afd1" sha1="b3c429b046a75384e02568708b7029e725073dc7"/>
+	</machine>
+	<machine name="World Championship Baseball (USA)">
+		<description>World Championship Baseball (USA)</description>
+		<rom name="World Championship Baseball (USA).int" size="24576" crc="b45633cf" md5="92e0826c7d677d4038764a7933696921" sha1="a843b831f9b49ef88dd99414fdb56a0c71bf01b6"/>
+	</machine>
+	<machine name="World Cup Soccer ~World Cup Football ~ Super Soccer (Europe)">
+		<description>World Cup Soccer ~World Cup Football ~ Super Soccer (Europe)</description>
+		<rom name="World Cup Soccer ~World Cup Football ~ Super Soccer (Europe).int" size="32768" crc="15d9d27a" md5="df8ff041f1f3c9dfad0cf651c67799ca" sha1="91ed4563246fbbf7cdc02d52b96f2e053fa2b3be"/>
+	</machine>
+	<machine name="Worm Whomper (USA)">
+		<description>Worm Whomper (USA)</description>
+		<rom name="Worm Whomper (USA).int" size="8192" crc="24b667b9" md5="49999333cf35d0cb321802ca378a7af7" sha1="e1f3c3aab41cb1850771cd566acd6fe4c1161041"/>
+	</machine>
+	<machine name="Zaxxon (USA, Europe)">
+		<description>Zaxxon (USA, Europe)</description>
+		<rom name="Zaxxon (USA, Europe).int" size="16384" crc="15c65dc5" md5="4c5c490b225748cc6777afe3af0d74cb" sha1="e46a7e8d118b33a0a17130cf27bc8a4b1d2f93e2"/>
+	</machine>
+</datafile>

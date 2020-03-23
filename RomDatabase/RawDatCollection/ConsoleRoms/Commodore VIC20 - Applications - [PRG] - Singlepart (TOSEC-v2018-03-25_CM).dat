@@ -1,0 +1,964 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore VIC20 - Applications - [PRG] - Singlepart</name>
+		<description>Commodore VIC20 - Applications - [PRG] - Singlepart (TOSEC-v2018-03-25)</description>
+		<category>TOSEC</category>
+		<version>2018-03-25</version>
+		<author>Tomse - Vicman - AntiPontifex - Apache - DesertWolf - BuckyB - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+		<clrmamepro/>
+	</header>
+	<game name="13k Hrg Doodle (19xx)(-)">
+		<description>13k Hrg Doodle (19xx)(-)</description>
+		<rom name="13k Hrg Doodle (19xx)(-).prg" size="703" crc="6565e90b" md5="1dda5193f4a5ff07aa29e70eebd54129" sha1="079c8ebb03c613a8cea346d79c94996fa4a853d5"/>
+	</game>
+	<game name="16 Farben (1986-03)(Markt &amp; Technik)(de)[64'er Magazin Sonderheft][type-in]">
+		<description>16 Farben (1986-03)(Markt &amp; Technik)(de)[64'er Magazin Sonderheft][type-in]</description>
+		<rom name="16 Farben (1986-03)(Markt &amp; Technik)(de)[64'er Magazin Sonderheft][type-in].prg" size="744" crc="9d21dbe6" md5="cda6f6b91084d17f23ffa5e8e70b1e21" sha1="4b35365ed9a51a22de975d1dd766ce40187c68a4"/>
+	</game>
+	<game name="2 Character (19xx)(-)[4x8 character set utility]">
+		<description>2 Character (19xx)(-)[4x8 character set utility]</description>
+		<rom name="2 Character (19xx)(-)[4x8 character set utility].prg" size="1538" crc="2cfc351e" md5="7850a73f56bee87a55562410cda487e3" sha1="f384dd470c9959fc162dff8fd49eabf546f55361"/>
+	</game>
+	<game name="40 Zeichen (1986-08)(Markt &amp; Technik)(de)[64'er Magazin Sonderheft][type-in][8k][$A000]">
+		<description>40 Zeichen (1986-08)(Markt &amp; Technik)(de)[64'er Magazin Sonderheft][type-in][8k][$A000]</description>
+		<rom name="40 Zeichen (1986-08)(Markt &amp; Technik)(de)[64'er Magazin Sonderheft][type-in][8k][$A000].prg" size="7550" crc="4bff1bdb" md5="adade5e1b2da2fade31dc6efd4444e98" sha1="40e70bc641c9d74f1ca0923fd7b9b5ebc5560ed8"/>
+	</game>
+	<game name="6502 Assembler (1982)(Horton, P.J.)">
+		<description>6502 Assembler (1982)(Horton, P.J.)</description>
+		<rom name="6502 Assembler (1982)(Horton, P.J.).prg" size="8602" crc="088e708c" md5="7ecdcb85177a6e2e1caf3a7c3c6f9aba" sha1="94fe248b82aa1a3e4476eb3e04f2aaeb9aaa8812"/>
+	</game>
+	<game name="6502 ML Tracer (19xx)(-)">
+		<description>6502 ML Tracer (19xx)(-)</description>
+		<rom name="6502 ML Tracer (19xx)(-).prg" size="4480" crc="8ec0c2f9" md5="3fee5010bda513162b9b89299dad2187" sha1="8980b0c2ba1dce6cf62a67941826ee02c6c08c19"/>
+	</game>
+	<game name="Address Book (19xx)(-)">
+		<description>Address Book (19xx)(-)</description>
+		<rom name="Address Book (19xx)(-).prg" size="2210" crc="f9c413fa" md5="0b2defe2990a8215ec897cfca58d75cb" sha1="10fead1ae8e7ea319a588812a5d6cdfdc206600d"/>
+	</game>
+	<game name="ASCII Screen Put (19xx)(-)">
+		<description>ASCII Screen Put (19xx)(-)</description>
+		<rom name="ASCII Screen Put (19xx)(-).prg" size="267" crc="5f20823e" md5="8224e66059df1228da1c0957e994359b" sha1="1aaefb91ac07e542e48ab98727eeca4512926f70"/>
+	</game>
+	<game name="Assam v2.0 (19xx)(-)[assembler][8k]">
+		<description>Assam v2.0 (19xx)(-)[assembler][8k]</description>
+		<rom name="Assam v2.0 (19xx)(-)[assembler][8k].prg" size="6717" crc="05729671" md5="46e276324e5c3116c48554d724202606" sha1="821f1751d0791bc5d39f1cf73f6f0bf2a5c02a50"/>
+	</game>
+	<game name="Assembler (19xx)(-)[8k]">
+		<description>Assembler (19xx)(-)[8k]</description>
+		<rom name="Assembler (19xx)(-)[8k].prg" size="3985" crc="6f8ab0e0" md5="91c5458649608cbc2221e088717f8380" sha1="814ff837f03d1173d3b13929a12f9b45e3e9b4d0"/>
+	</game>
+	<game name="Assembler (19xx)(Hammer, Fred)[8k]">
+		<description>Assembler (19xx)(Hammer, Fred)[8k]</description>
+		<rom name="Assembler (19xx)(Hammer, Fred)[8k].prg" size="8036" crc="4aa2a676" md5="782a7c6eb26635493263545452fabae8" sha1="d12f4a9f47a6c2b9ddb74537a6bffe7fb7a452b5"/>
+	</game>
+	<game name="Austro-Compiler (19xx)(-)(de)[basic compiler]">
+		<description>Austro-Compiler (19xx)(-)(de)[basic compiler]</description>
+		<rom name="Austro-Compiler (19xx)(-)(de)[basic compiler].prg" size="12147" crc="617f5685" md5="635eb3bc3299c95f21f72f78e483aba2" sha1="a3bc836fa4fb6709acc6f0d4208919935d5f4167"/>
+	</game>
+	<game name="Auto Turbo (19xx)(-)[tape speeder]">
+		<description>Auto Turbo (19xx)(-)[tape speeder]</description>
+		<rom name="Auto Turbo (19xx)(-)[tape speeder].prg" size="1166" crc="72ab548a" md5="76776c7d90ccc5ec4e06987f7410e6e3" sha1="7b04ed0bdc845c48dd22b14d0de584cb74b22fc9"/>
+	</game>
+	<game name="Autonumber (1986-03)(Tronic Verlag)(de)[Compute mit][type-in]">
+		<description>Autonumber (1986-03)(Tronic Verlag)(de)[Compute mit][type-in]</description>
+		<rom name="Autonumber (1986-03)(Tronic Verlag)(de)[Compute mit][type-in].prg" size="547" crc="fc5f0ae2" md5="f827ceb8c23f0cf24ba537ec241af172" sha1="4bc0cbb3fe22e4911e0439761c13c18c8bbc8098"/>
+	</game>
+	<game name="Basic-Scanner (19xx)(Hart, R. v't)(nl)[disassembler]">
+		<description>Basic-Scanner (19xx)(Hart, R. v't)(nl)[disassembler]</description>
+		<rom name="Basic-Scanner (19xx)(Hart, R. v't)(nl)[disassembler].prg" size="3865" crc="55cb4acf" md5="37d460a5a687bdd48a9f69c57dfddaf3" sha1="1681324476d8f31f8ebb909c125a595e3e16d924"/>
+	</game>
+	<game name="Basmon (19xx)(-)(nl)">
+		<description>Basmon (19xx)(-)(nl)</description>
+		<rom name="Basmon (19xx)(-)(nl).prg" size="2477" crc="0d2b9881" md5="cf6d295ddf0dfce8f67021e395c2216b" sha1="c6d597daafb655f4116dffc74e5bf12f6075393a"/>
+	</game>
+	<game name="Bestellschein (1984-06)(Tronic Verlag)(de)[Computronic][type-in][3k]">
+		<description>Bestellschein (1984-06)(Tronic Verlag)(de)[Computronic][type-in][3k]</description>
+		<rom name="Bestellschein (1984-06)(Tronic Verlag)(de)[Computronic][type-in][3k].prg" size="3939" crc="75a3cf57" md5="5a9c69e7d8c78a835bb9bfa27de71066" sha1="aeef41c9afccadf735521d78fbe7f9c7d717937b"/>
+	</game>
+	<game name="Betriebssystem-Erweiterung (1984-11)(Markt &amp; Technik)(de)[64'er Magazin][type-in][24k]">
+		<description>Betriebssystem-Erweiterung (1984-11)(Markt &amp; Technik)(de)[64'er Magazin][type-in][24k]</description>
+		<rom name="Betriebssystem-Erweiterung (1984-11)(Markt &amp; Technik)(de)[64'er Magazin][type-in][24k].prg" size="4171" crc="6fd1d50a" md5="ab76dcf3e9a88e33440777b1dfe562e9" sha1="a89892343dd79260cd1f0995af381a10c80afb98"/>
+	</game>
+	<game name="Bio-Vision v2.0 (1986-02-26)(Bruce, Craig)">
+		<description>Bio-Vision v2.0 (1986-02-26)(Bruce, Craig)</description>
+		<rom name="Bio-Vision v2.0 (1986-02-26)(Bruce, Craig).prg" size="5685" crc="c62f2bb7" md5="73a33a597c284d2edb7a25c9421af5eb" sha1="a45f08a612571b5996ffa2f53fddd4cce591130d"/>
+	</game>
+	<game name="Bioritme (19xx)(-)(nl)">
+		<description>Bioritme (19xx)(-)(nl)</description>
+		<rom name="Bioritme (19xx)(-)(nl).prg" size="717" crc="d1cb85d5" md5="9e6d2e1f3d3ee6e0976327688cb7aa44" sha1="3bb71557155345246269fd1602974cc24f86fce8"/>
+	</game>
+	<game name="Bioritmes (19xx)(-)(nl)">
+		<description>Bioritmes (19xx)(-)(nl)</description>
+		<rom name="Bioritmes (19xx)(-)(nl).prg" size="706" crc="e61e4932" md5="6bbe4340b6a87484ced6416593e4454c" sha1="24564bfde2c4d68c107547db6b4511762116f80a"/>
+	</game>
+	<game name="Bioritmes (19xx)(-)(nl)[3k]">
+		<description>Bioritmes (19xx)(-)(nl)[3k]</description>
+		<rom name="Bioritmes (19xx)(-)(nl)[3k].prg" size="706" crc="3b68083c" md5="ec02b4878c9ea973aa4a4d8ae56f365c" sha1="0dc99c5776a6916c01d2e9c874ee8c9c47b414f8"/>
+	</game>
+	<game name="Bioritmiek (1981)(Handic)">
+		<description>Bioritmiek (1981)(Handic)</description>
+		<rom name="Bioritmiek (1981)(Handic).prg" size="3017" crc="fac7646c" md5="f2d7791a922881658d68208f34825db1" sha1="aa93a4f75cdd31fcdd1eca8e43ab7f5b3d8a984c"/>
+	</game>
+	<game name="C'mon Lite v1.0 (2001-06-04)(Eeben, Aleksi)[unexpanded]">
+		<description>C'mon Lite v1.0 (2001-06-04)(Eeben, Aleksi)[unexpanded]</description>
+		<rom name="C'mon Lite v1.0 (2001-06-04)(Eeben, Aleksi)[unexpanded].prg" size="1976" crc="336bff48" md5="d1802d1497d65742475af67bbd049cf4" sha1="7176f92fb7f291dd0350707ced43651e1b941e0b"/>
+	</game>
+	<game name="C'mon v1.0 (2001-06-04)(Eeben, Aleksi)[16k]">
+		<description>C'mon v1.0 (2001-06-04)(Eeben, Aleksi)[16k]</description>
+		<rom name="C'mon v1.0 (2001-06-04)(Eeben, Aleksi)[16k].prg" size="2865" crc="68a16ae6" md5="d138c4f3a3fb96496d4988fb6828e932" sha1="af5f60a7686e4d5066b569ca057afc6704758fb9"/>
+	</game>
+	<game name="C'mon v1.0 (2001-06-04)(Eeben, Aleksi)[24k]">
+		<description>C'mon v1.0 (2001-06-04)(Eeben, Aleksi)[24k]</description>
+		<rom name="C'mon v1.0 (2001-06-04)(Eeben, Aleksi)[24k].prg" size="2865" crc="d1a63ecc" md5="549e20ab8c945570d29d3e5c075064a9" sha1="1358b6786f04e88fa1c38f5bfad3e8d6257d36ac"/>
+	</game>
+	<game name="C'mon v1.0 (2001-06-04)(Eeben, Aleksi)[32k]">
+		<description>C'mon v1.0 (2001-06-04)(Eeben, Aleksi)[32k]</description>
+		<rom name="C'mon v1.0 (2001-06-04)(Eeben, Aleksi)[32k].prg" size="2865" crc="f207985d" md5="c6c6120a5fe1d4bdc4a94ddae578a155" sha1="064a793a5684b8f47d935642ec762bbdbae59265"/>
+	</game>
+	<game name="C'mon v1.0 (2001-06-04)(Eeben, Aleksi)[3k-superexpander]">
+		<description>C'mon v1.0 (2001-06-04)(Eeben, Aleksi)[3k-superexpander]</description>
+		<rom name="C'mon v1.0 (2001-06-04)(Eeben, Aleksi)[3k-superexpander].prg" size="2864" crc="21821311" md5="e8d1835b0269deb0f53ba4db07843f6c" sha1="c2248d0d0b51816707dbd89d66309dbdadfe605b"/>
+	</game>
+	<game name="C'mon v1.0 (2001-06-04)(Eeben, Aleksi)[8k]">
+		<description>C'mon v1.0 (2001-06-04)(Eeben, Aleksi)[8k]</description>
+		<rom name="C'mon v1.0 (2001-06-04)(Eeben, Aleksi)[8k].prg" size="2865" crc="76dc662b" md5="26eb208db2719f9db98751a023ff64e4" sha1="db32833be60d6b07b5a95188efe1af5d98a54194"/>
+	</game>
+	<game name="C'mon v1.0 (2001-06-04)(Eeben, Aleksi)[unexpanded]">
+		<description>C'mon v1.0 (2001-06-04)(Eeben, Aleksi)[unexpanded]</description>
+		<rom name="C'mon v1.0 (2001-06-04)(Eeben, Aleksi)[unexpanded].prg" size="2864" crc="74b5b36a" md5="87cdf622f3af197eadd871e0769d7b21" sha1="4dd8b5bb04d63b7ccbf9b682797a2bc594bb6a7b"/>
+	</game>
+	<game name="Calendar II (19xx)(50B &amp; B Enterprises)">
+		<description>Calendar II (19xx)(50B &amp; B Enterprises)</description>
+		<rom name="Calendar II (19xx)(50B &amp; B Enterprises).prg" size="951" crc="dc090b80" md5="42d69daff4178d261c9fe4c8417fe708" sha1="6281869def72ddb64a41d876767a5cb7043b94b4"/>
+	</game>
+	<game name="Calendar III (1986)(Craig Bruce)">
+		<description>Calendar III (1986)(Craig Bruce)</description>
+		<rom name="Calendar III (1986)(Craig Bruce).prg" size="1778" crc="9a8aa683" md5="244e2de791924f76e8b48c45dd25e910" sha1="162bfbe2ad19007e16c27474cc300ac9f9947fb1"/>
+	</game>
+	<game name="Cassette Bestand (19xx)(L.W. Maes)(nl)">
+		<description>Cassette Bestand (19xx)(L.W. Maes)(nl)</description>
+		<rom name="Cassette Bestand (19xx)(L.W. Maes)(nl).prg" size="1783" crc="d48b6c44" md5="0786d24900ad81821ee8611441cec64a" sha1="10fa3141aee88e4027ec8faf8c24eb148c24ade0"/>
+	</game>
+	<game name="CBM Disk Repair (19xx)(-)(nl)">
+		<description>CBM Disk Repair (19xx)(-)(nl)</description>
+		<rom name="CBM Disk Repair (19xx)(-)(nl).prg" size="657" crc="d9065796" md5="87406911ef321d95a49a158ff00d14b9" sha1="ccd45164361555e6d92785091f56c18649a10f7b"/>
+	</game>
+	<game name="Change Diskheader (19xx)(-)">
+		<description>Change Diskheader (19xx)(-)</description>
+		<rom name="Change Diskheader (19xx)(-).prg" size="730" crc="a886a4da" md5="3111ca6904f32a5e9bc7fc8f33a79de6" sha1="43ce3c0e8d5e3d6d106c5c869513f65ea69d4f6f"/>
+	</game>
+	<game name="Char 4.8-HB (19xx)(-)[needs basic expansion]">
+		<description>Char 4.8-HB (19xx)(-)[needs basic expansion]</description>
+		<rom name="Char 4.8-HB (19xx)(-)[needs basic expansion].prg" size="2258" crc="b40e1775" md5="863a796a5d17371154032e5fde5c5688" sha1="a6f317abebeb08e08814bd2f9a79ad6d738f4f85"/>
+	</game>
+	<game name="Char Generator v3.5 (19xx)(Malmberg, David)">
+		<description>Char Generator v3.5 (19xx)(Malmberg, David)</description>
+		<rom name="Char Generator v3.5 (19xx)(Malmberg, David).prg" size="2112" crc="8b616b62" md5="37d32edb708c5407f48a37913b5f626d" sha1="5529eb391f351001357bbc35b5014123ab6ba75c"/>
+	</game>
+	<game name="Check Disk Program (19xx)(-)">
+		<description>Check Disk Program (19xx)(-)</description>
+		<rom name="Check Disk Program (19xx)(-).prg" size="4333" crc="ca83286f" md5="3d806cb4de8750460fc2e1f0defe548d" sha1="8cfa43d80099350101b4b876748da70ad01f4f9f"/>
+	</game>
+	<game name="Checksummer (1985-01)(Markt &amp; Technik)(de)[64'er Magazin][type-in]">
+		<description>Checksummer (1985-01)(Markt &amp; Technik)(de)[64'er Magazin][type-in]</description>
+		<rom name="Checksummer (1985-01)(Markt &amp; Technik)(de)[64'er Magazin][type-in].prg" size="1578" crc="b549a464" md5="ecb4d65834323c4171b86587b89da631" sha1="70974f803408e69da28b96935ba6edf01af145c0"/>
+	</game>
+	<game name="Checksummer V3 (1986-03)(Markt &amp; Technik)(de)[64'er Magazin Sonderheft][type-in]">
+		<description>Checksummer V3 (1986-03)(Markt &amp; Technik)(de)[64'er Magazin Sonderheft][type-in]</description>
+		<rom name="Checksummer V3 (1986-03)(Markt &amp; Technik)(de)[64'er Magazin Sonderheft][type-in].prg" size="1337" crc="e8414560" md5="25d3b7a88fe18096443ba5131e777e7d" sha1="47a516df47df713f96d50950a00315b60c190c1d"/>
+	</game>
+	<game name="Color Bars (19xx)(-)">
+		<description>Color Bars (19xx)(-)</description>
+		<rom name="Color Bars (19xx)(-).prg" size="199" crc="f851bc01" md5="c4a5e65b26b0766452112bb6dca2ed3f" sha1="5cf29447e7cdc0c13d101b683f46177ac8acc80d"/>
+	</game>
+	<game name="Componeren VIC (19xx)(C. Majoor)(nl)">
+		<description>Componeren VIC (19xx)(C. Majoor)(nl)</description>
+		<rom name="Componeren VIC (19xx)(C. Majoor)(nl).prg" size="623" crc="9ce4a1a0" md5="e01dc262193b68ebaa60893f0c604648" sha1="51e51eb491c2ae474f7981aad162c7e76bab737d"/>
+	</game>
+	<game name="Conjugaisons (1983-10-07)(Hebdogiciel)(fr)[8k][type-in]">
+		<description>Conjugaisons (1983-10-07)(Hebdogiciel)(fr)[8k][type-in]</description>
+		<rom name="Conjugaisons (1983-10-07)(Hebdogiciel)(fr)[8k][type-in].prg" size="4068" crc="3fe95be2" md5="51c3ded8343f595aa9362c98d2fc2b76" sha1="954b09ed3b2636501194b5bf0693cc267a47d2cc"/>
+	</game>
+	<game name="Converter (1986)(Bruce, Craig)[req 40 collumns]">
+		<description>Converter (1986)(Bruce, Craig)[req 40 collumns]</description>
+		<rom name="Converter (1986)(Bruce, Craig)[req 40 collumns].prg" size="1338" crc="4552749c" md5="e2c807877636b84bf5fd805f0af6d3e4" sha1="9cc987217633d86b182e9ee9baf947555e0d7eaa"/>
+	</game>
+	<game name="Copymaker (19xx)(O. Joppich)(de)">
+		<description>Copymaker (19xx)(O. Joppich)(de)</description>
+		<rom name="Copymaker (19xx)(O. Joppich)(de).prg" size="1014" crc="6eeaafbb" md5="235d6a5ec90a7d8c07efd456a3cddffb" sha1="2126f414525e6ccee9f73b894b0061b6932ab139"/>
+	</game>
+	<game name="Copymaker 2 (19xx)(O. Joppich)(de)">
+		<description>Copymaker 2 (19xx)(O. Joppich)(de)</description>
+		<rom name="Copymaker 2 (19xx)(O. Joppich)(de).prg" size="1025" crc="3eed771a" md5="1b42a2952714fcf1d35ac7f6664984d2" sha1="46e10c6f5e54e7588d4495895840d4f4c57122f0"/>
+	</game>
+	<game name="Cosinus (19xx)(-)(nl)">
+		<description>Cosinus (19xx)(-)(nl)</description>
+		<rom name="Cosinus (19xx)(-)(nl).prg" size="429" crc="43c37637" md5="2dd6616a00516c86341682223aeaca89" sha1="db4f8f4dad4767a89a32e6bca81453bf6d9fbea7"/>
+	</game>
+	<game name="Cremona (19xx)(Hozeman, B.)(nl)[req 40 collumns][8k]">
+		<description>Cremona (19xx)(Hozeman, B.)(nl)[req 40 collumns][8k]</description>
+		<rom name="Cremona (19xx)(Hozeman, B.)(nl)[req 40 collumns][8k].prg" size="6223" crc="f41d3253" md5="eec496105c0af087f27758c4ea30b719" sha1="a3b586daee228de46de4ae0f6ef4d32cff36beb6"/>
+	</game>
+	<game name="CW Telex Decoder (19xx)(van der Galien, Radio)(nl)">
+		<description>CW Telex Decoder (19xx)(van der Galien, Radio)(nl)</description>
+		<rom name="CW Telex Decoder (19xx)(van der Galien, Radio)(nl).prg" size="7681" crc="d6e65fac" md5="6599678a4f55629afaed41d00e15b050" sha1="21680e883e75eca65b07932114cba9adae5e555a"/>
+	</game>
+	<game name="Data Maker 1.0 (1985)(Bruce, Craig)">
+		<description>Data Maker 1.0 (1985)(Bruce, Craig)</description>
+		<rom name="Data Maker 1.0 (1985)(Bruce, Craig).prg" size="599" crc="3b3e0482" md5="ffd2d852392f99a9ddbf7c754bf9cda7" sha1="e880e861345b880365c208cbcbf36388dc550e4b"/>
+	</game>
+	<game name="Data Manager (19xx)(-)">
+		<description>Data Manager (19xx)(-)</description>
+		<rom name="Data Manager (19xx)(-).prg" size="2193" crc="6162a05f" md5="d48d5d29c39de435da2ce67fd744d1c8" sha1="ee6c58f1e68878efdc6044eacc72ac92b13c8425"/>
+	</game>
+	<game name="Database (19xx)(Info Boek Zeeland)(nl)">
+		<description>Database (19xx)(Info Boek Zeeland)(nl)</description>
+		<rom name="Database (19xx)(Info Boek Zeeland)(nl).prg" size="9774" crc="b1b59b53" md5="26c29215bca94050208d1182ebfe09cc" sha1="092659155b4d5a208e884e5525e5961c5028a1a7"/>
+	</game>
+	<game name="Datagen Code (1986-06)(Tronic Verlag)(de)[Compute mit][type-in][data-maker]">
+		<description>Datagen Code (1986-06)(Tronic Verlag)(de)[Compute mit][type-in][data-maker]</description>
+		<rom name="Datagen Code (1986-06)(Tronic Verlag)(de)[Compute mit][type-in][data-maker].prg" size="174" crc="9da2e6a9" md5="7d765fac0a652c000f6fc84a2ffa23a9" sha1="c826252c07032c79726df376696ef65100372c47"/>
+	</game>
+	<game name="Date Today (1985)(Bruce, Craig)">
+		<description>Date Today (1985)(Bruce, Craig)</description>
+		<rom name="Date Today (1985)(Bruce, Craig).prg" size="426" crc="9927d8e4" md5="4080aa0f92a48e481ae5af33c110cae2" sha1="e1d61b80bfd7245a92f2b75a300ddda1b4a31fc2"/>
+	</game>
+	<game name="Date Today (1985)(Bruce, Craig)[a]">
+		<description>Date Today (1985)(Bruce, Craig)[a]</description>
+		<rom name="Date Today (1985)(Bruce, Craig)[a].prg" size="426" crc="be56601f" md5="2a5b80b8d60fdb0b40c7e05b2d83e7cb" sha1="b6c7a8a0eb9d5091f90fd2746110aa213dce3e78"/>
+	</game>
+	<game name="Delux File Case (19xx)(-)">
+		<description>Delux File Case (19xx)(-)</description>
+		<rom name="Delux File Case (19xx)(-).prg" size="3583" crc="68b605f0" md5="729902987b91c84445cfae7dd6a7c2b6" sha1="6085b3f712d8491f5527e3061c4689536b20efe3"/>
+	</game>
+	<game name="Directory Sort (19xx)(-)">
+		<description>Directory Sort (19xx)(-)</description>
+		<rom name="Directory Sort (19xx)(-).prg" size="1270" crc="8bab87b0" md5="a24050664096a6325b0d1658fa6fd0e0" sha1="783f9ae24f092603467400dffd19c1026a2b05b0"/>
+	</game>
+	<game name="Dis-assembler (1982)(-)(nl)">
+		<description>Dis-assembler (1982)(-)(nl)</description>
+		<rom name="Dis-assembler (1982)(-)(nl).prg" size="4575" crc="f4a984a9" md5="1df09f5bd99e3acb41494922b775b999" sha1="10243cc3f6e9ab44a51e9e8758b46e4b23cb9007"/>
+	</game>
+	<game name="Disk Copy (19xx)(Leene, F.)(nl)">
+		<description>Disk Copy (19xx)(Leene, F.)(nl)</description>
+		<rom name="Disk Copy (19xx)(Leene, F.)(nl).prg" size="1169" crc="61438bcf" md5="90efbd375ed45a50b630e6d7082282d5" sha1="996b0d76ca3480f1a411950cb16e887747372944"/>
+	</game>
+	<game name="Disk Defaulter (19xx)(-)">
+		<description>Disk Defaulter (19xx)(-)</description>
+		<rom name="Disk Defaulter (19xx)(-).prg" size="388" crc="68173f20" md5="548669da83deb4e24b75ae93d3ee9b0e" sha1="3b258e4a40716f88f4c123adc46083986ac01778"/>
+	</game>
+	<game name="Disk Kop Veranderaar (19xx)(Hubers, Hans)(nl)">
+		<description>Disk Kop Veranderaar (19xx)(Hubers, Hans)(nl)</description>
+		<rom name="Disk Kop Veranderaar (19xx)(Hubers, Hans)(nl).prg" size="1001" crc="5ab7abdf" md5="834b53206b43627b00282dcc27238c54" sha1="7711d6157c0a97545e72946a1bef126cf608aff6"/>
+	</game>
+	<game name="Disk Lock (19xx)(-)">
+		<description>Disk Lock (19xx)(-)</description>
+		<rom name="Disk Lock (19xx)(-).prg" size="4481" crc="2ca43bc9" md5="04e982d0bf10f9d4ad4bad1b79b318bc" sha1="a271f1481ae6dbadbb7e7770351fef60fac01d0c"/>
+	</game>
+	<game name="Disk Merge (19xx)(-)">
+		<description>Disk Merge (19xx)(-)</description>
+		<rom name="Disk Merge (19xx)(-).prg" size="1605" crc="7e1e9628" md5="a1c84025ab526d70155d70c9d46ad8bd" sha1="5bab05984306fff62d6144e1c21fd8d87103a733"/>
+	</game>
+	<game name="Disk Monitor (1986-08)(Markt &amp; Technik)(de)[64'er Magazin Sonderheft][type-in][8k][$A000][sys40960]">
+		<description>Disk Monitor (1986-08)(Markt &amp; Technik)(de)[64'er Magazin Sonderheft][type-in][8k][$A000][sys40960]</description>
+		<rom name="Disk Monitor (1986-08)(Markt &amp; Technik)(de)[64'er Magazin Sonderheft][type-in][8k][$A000][sys40960].prg" size="3439" crc="bfd4930f" md5="59f664aca2e1e8bf41575eb51a10330b" sha1="ba9e3f3d03ca1bb1f316681291eceb50d64abb94"/>
+	</game>
+	<game name="Disk-Exerciser (19xx)(HG-Software)(de-en)">
+		<description>Disk-Exerciser (19xx)(HG-Software)(de-en)</description>
+		<rom name="Disk-Exerciser (19xx)(HG-Software)(de-en).prg" size="1314" crc="6b5a7569" md5="b83341349918726fb1f7f79bb1b33fe5" sha1="5290fce7e1165a7512cffe2ffcebc6644ca87651"/>
+	</game>
+	<game name="Disk-Format-System (1986-08)(Markt &amp; Technik)(de)[64'er Magazin][type-in][8k][$A000]">
+		<description>Disk-Format-System (1986-08)(Markt &amp; Technik)(de)[64'er Magazin][type-in][8k][$A000]</description>
+		<rom name="Disk-Format-System (1986-08)(Markt &amp; Technik)(de)[64'er Magazin][type-in][8k][$A000].prg" size="1141" crc="7542f994" md5="7592205cf064d50f7f327033f1e028ca" sha1="90e73e12011819026b595a5e4d9334313c94799f"/>
+	</game>
+	<game name="Diskette Purge (19xx)(-)">
+		<description>Diskette Purge (19xx)(-)</description>
+		<rom name="Diskette Purge (19xx)(-).prg" size="1181" crc="33f74138" md5="bfe6dd35798513f93f62b571b2bf775b" sha1="46103584490809ea7080b76a763d5e1aade7d2c7"/>
+	</game>
+	<game name="Disketten-Organisation (1984-10)(Markt &amp; Technik)(de)[64'er Magazin][type-in][8k]">
+		<description>Disketten-Organisation (1984-10)(Markt &amp; Technik)(de)[64'er Magazin][type-in][8k]</description>
+		<rom name="Disketten-Organisation (1984-10)(Markt &amp; Technik)(de)[64'er Magazin][type-in][8k].prg" size="10118" crc="0e40576b" md5="df1a40b945143aaf9c2f795e2eaf42a3" sha1="5ce54019ef5fffeec941ab0d162147d5767882bf"/>
+	</game>
+	<game name="Diskmonitor v1.0 (19xx)(-)">
+		<description>Diskmonitor v1.0 (19xx)(-)</description>
+		<rom name="Diskmonitor v1.0 (19xx)(-).prg" size="735" crc="b883045d" md5="bf0dad1e47db95c0233a371c43ead368" sha1="6353490f437e20bf27821a291332d75f5506e20c"/>
+	</game>
+	<game name="Diskmonitor v1.0 (19xx)(-)[b]">
+		<description>Diskmonitor v1.0 (19xx)(-)[b]</description>
+		<rom name="Diskmonitor v1.0 (19xx)(-)[b].prg" size="735" crc="809f175a" md5="ea85cf4a2d9880fb32a05e3ec5faf087" sha1="dba10405423911266db4e60e2212cf1da9466ab2"/>
+	</game>
+	<game name="Drucker List (1985-08)(Tronic Verlag)(de)[Compute mit][type-in]">
+		<description>Drucker List (1985-08)(Tronic Verlag)(de)[Compute mit][type-in]</description>
+		<rom name="Drucker List (1985-08)(Tronic Verlag)(de)[Compute mit][type-in].prg" size="1220" crc="3d1f2880" md5="1881a3e53d4af870aa9de9c0585c5d52" sha1="e969bea0b47523070544487450be5219767ec272"/>
+	</game>
+	<game name="Easy Mon 1.0 (19xx)(Bruce, Craig)">
+		<description>Easy Mon 1.0 (19xx)(Bruce, Craig)</description>
+		<rom name="Easy Mon 1.0 (19xx)(Bruce, Craig).prg" size="5818" crc="bc235295" md5="14534176a2888d6c38c4c00815e02532" sha1="40152f73705c9f9b33d6d50bfa9dcb01378bb65d"/>
+	</game>
+	<game name="Edit Disk Name (19xx)(-)">
+		<description>Edit Disk Name (19xx)(-)</description>
+		<rom name="Edit Disk Name (19xx)(-).prg" size="1214" crc="1d347d1f" md5="c42dc7c1de68337932beb81bc0296b70" sha1="078de760c640b05bedf1ec80887032da37669269"/>
+	</game>
+	<game name="Edit Load Addres (1984)(Inside Commodore DOS)">
+		<description>Edit Load Addres (1984)(Inside Commodore DOS)</description>
+		<rom name="Edit Load Addres (1984)(Inside Commodore DOS).prg" size="2195" crc="26fc146c" md5="0b703c37d1d67e09da5826a280dbb0c2" sha1="d2f7ccd349c48c2059100a29feca33805f80b6a1"/>
+	</game>
+	<game name="Enterprise Printer (19xx)(-)[prints uss enterprise, left half]">
+		<description>Enterprise Printer (19xx)(-)[prints uss enterprise, left half]</description>
+		<rom name="Enterprise Printer (19xx)(-)[prints uss enterprise, left half].prg" size="7399" crc="d0cfb025" md5="e9371a3a34f0dc021bf7af56af0926a4" sha1="70cc0da458b618ac189ccdb34858279fcf5e9c74"/>
+	</game>
+	<game name="Enterprise Printer (19xx)(-)[prints uss enterprise, right half]">
+		<description>Enterprise Printer (19xx)(-)[prints uss enterprise, right half]</description>
+		<rom name="Enterprise Printer (19xx)(-)[prints uss enterprise, right half].prg" size="25821" crc="9d4dca03" md5="b31b544b9787851dfe56d6dd8a5eaa9d" sha1="c8c733a5914f48914d4f2702c3d25e8d7f30bbd9"/>
+	</game>
+	<game name="Error 20 - Sector Destroyer (19xx)(-)[generates a sector error]">
+		<description>Error 20 - Sector Destroyer (19xx)(-)[generates a sector error]</description>
+		<rom name="Error 20 - Sector Destroyer (19xx)(-)[generates a sector error].prg" size="1506" crc="3391c57e" md5="44b1c17fb57c3f9a5cb2c3ef1747df87" sha1="665849a1994c80a6485e406759c49808f684304d"/>
+	</game>
+	<game name="Error 21 - Track Destroyer (19xx)(-)[generates a track error]">
+		<description>Error 21 - Track Destroyer (19xx)(-)[generates a track error]</description>
+		<rom name="Error 21 - Track Destroyer (19xx)(-)[generates a track error].prg" size="1039" crc="afcd28c5" md5="105e6f7df8407f02899cc5bf2642176e" sha1="fccc2c923fd00ec5bc4c028f29318d05010d56f8"/>
+	</game>
+	<game name="Errorrouter (19xx)(-)">
+		<description>Errorrouter (19xx)(-)</description>
+		<rom name="Errorrouter (19xx)(-).prg" size="964" crc="2c0e6dd0" md5="91c30d0f2ab39cddfab10040b8f90a61" sha1="7335c8262ebb6621b5a113a628ee85854d3247b7"/>
+	</game>
+	<game name="F-key (19xx)(Courbois)">
+		<description>F-key (19xx)(Courbois)</description>
+		<rom name="F-key (19xx)(Courbois).prg" size="1342" crc="4a04ca54" md5="24825e7f62ffdae0d896f247658fa746" sha1="a0f6ad46c80bc5b5af2f77a0c5ed345353f7200b"/>
+	</game>
+	<game name="Familienplanung (1985-02)(Markt &amp; Technik)(de)[64'er Magazin][type-in][3k]">
+		<description>Familienplanung (1985-02)(Markt &amp; Technik)(de)[64'er Magazin][type-in][3k]</description>
+		<rom name="Familienplanung (1985-02)(Markt &amp; Technik)(de)[64'er Magazin][type-in][3k].prg" size="4264" crc="30ae9ddf" md5="7f08f4c2709a6e2471e9023531b910d1" sha1="61cc34a2b063109ee74af8ddbfd7f4a2c2696873"/>
+	</game>
+	<game name="Fast Tape (1984-12)(Markt &amp; Technik)(de)[64'er Magazin][type-in]">
+		<description>Fast Tape (1984-12)(Markt &amp; Technik)(de)[64'er Magazin][type-in]</description>
+		<rom name="Fast Tape (1984-12)(Markt &amp; Technik)(de)[64'er Magazin][type-in].prg" size="2757" crc="84274ee9" md5="a5e44f1881794967737d1c9a897434b2" sha1="cf7a2e0c31746208ae28429063d23b9c5d548508"/>
+	</game>
+	<game name="Fat 40 (1983)(P.L.)">
+		<description>Fat 40 (1983)(P.L.)</description>
+		<rom name="Fat 40 (1983)(P.L.).prg" size="7311" crc="8b6b11b1" md5="4bfbd82b94df9644bd3354e687a49cdd" sha1="d81aef15abab884b9f0f765b30836c9044f663ab"/>
+	</game>
+	<game name="Fat 40 Demo (1984)(Ahoy! Magazine)">
+		<description>Fat 40 Demo (1984)(Ahoy! Magazine)</description>
+		<rom name="Fat 40 Demo (1984)(Ahoy! Magazine).prg" size="3918" crc="fc854eee" md5="13bf4dba782ac54bab264a2c7f3668b0" sha1="880b79576f9de047dc51eb07b25926d4fc5a96ef"/>
+	</game>
+	<game name="File Dir 2 (19xx)(-)">
+		<description>File Dir 2 (19xx)(-)</description>
+		<rom name="File Dir 2 (19xx)(-).prg" size="1832" crc="e9cb536a" md5="4384bed3cc8601097ebfc0db589c643b" sha1="d950f2d9da7f1ee224efaa1ea8e0af147c263b7e"/>
+	</game>
+	<game name="File Directory (1985)(Craig Bruce)">
+		<description>File Directory (1985)(Craig Bruce)</description>
+		<rom name="File Directory (1985)(Craig Bruce).prg" size="1291" crc="b4f461f4" md5="d4847a2024057b2b400feefda789b201" sha1="b24c7eb4665ceb400b5ed2b030e3892c8fe799cb"/>
+	</game>
+	<game name="File Directory Reader (19xx)(-)(nl)">
+		<description>File Directory Reader (19xx)(-)(nl)</description>
+		<rom name="File Directory Reader (19xx)(-)(nl).prg" size="428" crc="e6911a9e" md5="379ce7fc8e9a2809a278bf8b4eca1165" sha1="df480a7c76d60fd5c0b7e7e47661db03b19b5287"/>
+	</game>
+	<game name="File to Disk (19xx)(-)">
+		<description>File to Disk (19xx)(-)</description>
+		<rom name="File to Disk (19xx)(-).prg" size="3109" crc="625a3725" md5="949df1e27ac57aa6006303a31f7ef408" sha1="3b77ba9e83e2dfb716b9b246cd3c59183f4c9f3f"/>
+	</game>
+	<game name="File Ton (19xx)(Rother, D.)[tr nl]">
+		<description>File Ton (19xx)(Rother, D.)[tr nl]</description>
+		<rom name="File Ton (19xx)(Rother, D.)[tr nl].prg" size="816" crc="c670f906" md5="07f2bfd38f8bbfe18f83587f4caa1d76" sha1="6ed0dad06c00e02b4d7426ae82a6a153b109bfb0"/>
+	</game>
+	<game name="Filelock (19xx)(-)(nl)">
+		<description>Filelock (19xx)(-)(nl)</description>
+		<rom name="Filelock (19xx)(-)(nl).prg" size="3271" crc="6e135349" md5="9cc7f0171141569cbe2613dadde89ab6" sha1="03801024beb268dd1c3d359355be4d260e232788"/>
+	</game>
+	<game name="Fine scroll (19xx)(Phillips, Kevin)[8k]">
+		<description>Fine scroll (19xx)(Phillips, Kevin)[8k]</description>
+		<rom name="Fine scroll (19xx)(Phillips, Kevin)[8k].prg" size="304" crc="4fe0ab7d" md5="2f7fa9b530dae282a460206c286e4822" sha1="94b7f0a5b878955d359e7b0ebdb232c91b4a3250"/>
+	</game>
+	<game name="Functiondraw (19xx)(-)">
+		<description>Functiondraw (19xx)(-)</description>
+		<rom name="Functiondraw (19xx)(-).prg" size="347" crc="1590633e" md5="20ea6b490d1249aa736d415dbbf88351" sha1="f72943dd2318b806bc4f18ad6f50b123eaacac6c"/>
+	</game>
+	<game name="Functiondraw (19xx)(-)[a]">
+		<description>Functiondraw (19xx)(-)[a]</description>
+		<rom name="Functiondraw (19xx)(-)[a].prg" size="347" crc="9517c926" md5="516e33656844e73c34b43f93d4013dba" sha1="6e5c976cb6607a35078fc859ad31cdc6978182d8"/>
+	</game>
+	<game name="Functionkeys (19xx)(-)">
+		<description>Functionkeys (19xx)(-)</description>
+		<rom name="Functionkeys (19xx)(-).prg" size="1281" crc="a3a59647" md5="596cf1b099035c8e4393c8223c239c7e" sha1="ec23fac711d4651fdd96be9eaa9925c98b5e6294"/>
+	</game>
+	<game name="Functionkeys (19xx)(Hegerty, I.)">
+		<description>Functionkeys (19xx)(Hegerty, I.)</description>
+		<rom name="Functionkeys (19xx)(Hegerty, I.).prg" size="780" crc="4382e446" md5="b4ec323ad1dd3703fede80e23cf4a0b0" sha1="b40a4e46b441a0a9488fc736e2129b21e9d75367"/>
+	</game>
+	<game name="Gegevensverwerking (19xx)(Brink, Cor)">
+		<description>Gegevensverwerking (19xx)(Brink, Cor)</description>
+		<rom name="Gegevensverwerking (19xx)(Brink, Cor).prg" size="5517" crc="44eac185" md5="79ccd9ed1875991e88ad306342d9139a" sha1="9938b96031510f1f615083cc73ba53a9d54c3574"/>
+	</game>
+	<game name="Home Inventory (1981)(Creative)[Part 1 of 2]">
+		<description>Home Inventory (1981)(Creative)[Part 1 of 2]</description>
+		<rom name="Home Inventory (1981)(Creative)[Part 1 of 2].prg" size="2074" crc="0ab16577" md5="941bfa110ccb5971e41e39219758883a" sha1="f81cfe2281a742d6907545f2d4368a96e1738d2b"/>
+	</game>
+	<game name="Home Inventory (1981)(Creative)[Part 2 of 2]">
+		<description>Home Inventory (1981)(Creative)[Part 2 of 2]</description>
+		<rom name="Home Inventory (1981)(Creative)[Part 2 of 2].prg" size="2270" crc="1f49b9a2" md5="9f786cd881dba84268b4facbf66c2f71" sha1="3591c35c32db4503fc486fbb82911b55ef9de779"/>
+	</game>
+	<game name="Hypra-Copy (1986-08)(Markt &amp; Technik)(de)[64'er Magazin Sonderheft][type-in][8k]">
+		<description>Hypra-Copy (1986-08)(Markt &amp; Technik)(de)[64'er Magazin Sonderheft][type-in][8k]</description>
+		<rom name="Hypra-Copy (1986-08)(Markt &amp; Technik)(de)[64'er Magazin Sonderheft][type-in][8k].prg" size="3761" crc="52fec922" md5="a027e8b67356af7c0632a2a91ac5a95f" sha1="8f3bc1487ca5583b77f9449196f8c334bac0f19a"/>
+	</game>
+	<game name="Hypra-System (1986-08)(Markt &amp; Technik)(de)[64'er Magazin Sonderheft][type-in][8k][$A000]">
+		<description>Hypra-System (1986-08)(Markt &amp; Technik)(de)[64'er Magazin Sonderheft][type-in][8k][$A000]</description>
+		<rom name="Hypra-System (1986-08)(Markt &amp; Technik)(de)[64'er Magazin Sonderheft][type-in][8k][$A000].prg" size="2267" crc="57cf897d" md5="571bf367be403a45104078d94f2acf2c" sha1="f0b479aac8053e626d8c250ccab0db96073ee99e"/>
+	</game>
+	<game name="Hypra-System (1986-08)(Markt &amp; Technik)(de)[f][64'er Magazin Sonderheft][type-in][8k][$A000]">
+		<description>Hypra-System (1986-08)(Markt &amp; Technik)(de)[f][64'er Magazin Sonderheft][type-in][8k][$A000]</description>
+		<rom name="Hypra-System (1986-08)(Markt &amp; Technik)(de)[f][64'er Magazin Sonderheft][type-in][8k][$A000].prg" size="2283" crc="3848bc2d" md5="bd723268e16e0a70dea2b86d45c17864" sha1="7657a2b3b7d92c50ea40e3868f087f363486564a"/>
+	</game>
+	<game name="ICBM BASIC v8 (19xx)(-)">
+		<description>ICBM BASIC v8 (19xx)(-)</description>
+		<rom name="ICBM BASIC v8 (19xx)(-).prg" size="2992" crc="e070a2a8" md5="ca9aa1eb7cef1225caedd1724e5f5c16" sha1="890afe9247f5f2c4ce6ef68370bb1c959c6e5d75"/>
+	</game>
+	<game name="ICBM BASIC v8 (19xx)(-)[a]">
+		<description>ICBM BASIC v8 (19xx)(-)[a]</description>
+		<rom name="ICBM BASIC v8 (19xx)(-)[a].prg" size="2992" crc="2f52fb6f" md5="ee66a5f7bd85de887d753f9c1ecb74ba" sha1="22b175b1ab9933588572a2ff9b6d2a27105bb0ee"/>
+	</game>
+	<game name="Inhoud Maker (19xx)(-)(nl)">
+		<description>Inhoud Maker (19xx)(-)(nl)</description>
+		<rom name="Inhoud Maker (19xx)(-)(nl).prg" size="3291" crc="da716c6b" md5="73906db82bbcb7b432b3d32aa0cb0b44" sha1="3abc000b855f15dd30fd3ac9cd57ea25ba129d08"/>
+	</game>
+	<game name="Inkomstenbelasting - Aangifte 83 &amp; 84 (19xx)(-)(nl)[req 40 collumns]">
+		<description>Inkomstenbelasting - Aangifte 83 &amp; 84 (19xx)(-)(nl)[req 40 collumns]</description>
+		<rom name="Inkomstenbelasting - Aangifte 83 &amp; 84 (19xx)(-)(nl)[req 40 collumns].prg" size="17883" crc="4b793452" md5="5a27100d8d2b49e0fd2228aef22cfb13" sha1="7d9f1c08b4feafdcbbafb2acc6eb0f0dff15f389"/>
+	</game>
+	<game name="IRQ Clock (1985-03)(Markt &amp; Technik)(de)[64'er Magazin][type-in][8k]">
+		<description>IRQ Clock (1985-03)(Markt &amp; Technik)(de)[64'er Magazin][type-in][8k]</description>
+		<rom name="IRQ Clock (1985-03)(Markt &amp; Technik)(de)[64'er Magazin][type-in][8k].prg" size="2012" crc="c8c041bd" md5="de5331ec58a1ccf7912431a96af43027" sha1="60be072f49e5c271064541399d641659e911ff58"/>
+	</game>
+	<game name="Kalender (1984-04)(Markt &amp; Technik)(de)[64'er Magazin][type-in][16k]">
+		<description>Kalender (1984-04)(Markt &amp; Technik)(de)[64'er Magazin][type-in][16k]</description>
+		<rom name="Kalender (1984-04)(Markt &amp; Technik)(de)[64'er Magazin][type-in][16k].prg" size="5617" crc="c99e5b1b" md5="9bb268788ee9a7f337cad53e580a5992" sha1="d4ed3b46b48b9779ca9aa7422f2032a8654540cb"/>
+	</game>
+	<game name="Kalender (19xx)(-)(nl)">
+		<description>Kalender (19xx)(-)(nl)</description>
+		<rom name="Kalender (19xx)(-)(nl).prg" size="374" crc="4cc32b09" md5="02e5bfebdf1a0123e7d5429d422a7e6f" sha1="6b003d7fca8547097d8097a6ae3a887b52eceafb"/>
+	</game>
+	<game name="Kalender (19xx)(-)(nl)[a]">
+		<description>Kalender (19xx)(-)(nl)[a]</description>
+		<rom name="Kalender (19xx)(-)(nl)[a].prg" size="374" crc="41a10038" md5="3617b86ab2e818ce55c33a685cf602c7" sha1="dda211e89502b6f638217d5e6e1b1a07640c917e"/>
+	</game>
+	<game name="Karnaugh Diagram (19xx)(-)(nl)">
+		<description>Karnaugh Diagram (19xx)(-)(nl)</description>
+		<rom name="Karnaugh Diagram (19xx)(-)(nl).prg" size="1411" crc="90b912d2" md5="f94423db5d283d18646675ee70126c1a" sha1="fdf1aaa8d558918746893f0abdc737c253ace44e"/>
+	</game>
+	<game name="Keyboard (19xx)(-)">
+		<description>Keyboard (19xx)(-)</description>
+		<rom name="Keyboard (19xx)(-).prg" size="1851" crc="db19915c" md5="c6d264cfa3f3d8e23b255db723e483e8" sha1="2a3892bca23027fdced6fff81bbc2040f2f1f95a"/>
+	</game>
+	<game name="Keys 2 (19xx)(-)">
+		<description>Keys 2 (19xx)(-)</description>
+		<rom name="Keys 2 (19xx)(-).prg" size="1281" crc="63034b59" md5="a9d474bf8f12c077bd39c974801c25b4" sha1="95ad347c8dc11829b1929e58f982d6f244bd15c4"/>
+	</game>
+	<game name="Kleine Letters (19xx)(-)(nl)">
+		<description>Kleine Letters (19xx)(-)(nl)</description>
+		<rom name="Kleine Letters (19xx)(-)(nl).prg" size="1132" crc="0696d66d" md5="6b019e45c4fbbaa6dc0248a98a3549cc" sha1="067941dcd6b7a05c08e490b4b1fb42d50ccdf9ea"/>
+	</game>
+	<game name="KP Word Pro (19xx)(-)">
+		<description>KP Word Pro (19xx)(-)</description>
+		<rom name="KP Word Pro (19xx)(-).prg" size="5459" crc="142ef29d" md5="37692b3eb731edf16d6bd66015faf49b" sha1="9952423889d9ec82c7e80f7915efa7da916c0103"/>
+	</game>
+	<game name="Kudiplo (1984-08)(Markt &amp; Technik)(de)[64'er Magazin][type-in][3k]">
+		<description>Kudiplo (1984-08)(Markt &amp; Technik)(de)[64'er Magazin][type-in][3k]</description>
+		<rom name="Kudiplo (1984-08)(Markt &amp; Technik)(de)[64'er Magazin][type-in][3k].prg" size="4440" crc="cb370807" md5="748fd95f7dc421d821e47b351991a0c4" sha1="268484cb5a253f2487cdb660b8b918d6a276fdcc"/>
+	</game>
+	<game name="Label Maker (1984)(Bruce, Craig)">
+		<description>Label Maker (1984)(Bruce, Craig)</description>
+		<rom name="Label Maker (1984)(Bruce, Craig).prg" size="360" crc="319e8977" md5="838f0f27212b0037fc2796b36fca3731" sha1="5d6efcfa2540ea2d0f77c520c556181348df43b3"/>
+	</game>
+	<game name="Laufschrift (1986-10)(Tronic Verlag)(de)[Compute mit][type-in][3k]">
+		<description>Laufschrift (1986-10)(Tronic Verlag)(de)[Compute mit][type-in][3k]</description>
+		<rom name="Laufschrift (1986-10)(Tronic Verlag)(de)[Compute mit][type-in][3k].prg" size="838" crc="14e8efae" md5="5bb11b941737f544c10cb909e390f455" sha1="f2e2218e89763e795ce37a4ee3572cd895abd27b"/>
+	</game>
+	<game name="Lightning Sort (19xx)(-)">
+		<description>Lightning Sort (19xx)(-)</description>
+		<rom name="Lightning Sort (19xx)(-).prg" size="1619" crc="29ea6ef7" md5="749c3fd53f15d2a56dd23b7781b72b98" sha1="907b5dc9039a6c20366605c78f9ebaa55c66d860"/>
+	</game>
+	<game name="Loan Calculator (1981)(Commodore)">
+		<description>Loan Calculator (1981)(Commodore)</description>
+		<rom name="Loan Calculator (1981)(Commodore).prg" size="3231" crc="d960d8ef" md5="2bd1adc0488bcbf49b2c8a64cf62b53c" sha1="154bc41ab8f2428555fe68d8319b5bee7dcaeca0"/>
+	</game>
+	<game name="Loan Calculator (1982)(Commodore)">
+		<description>Loan Calculator (1982)(Commodore)</description>
+		<rom name="Loan Calculator (1982)(Commodore).prg" size="2937" crc="64c0c74b" md5="0d615bc71bb1665feb5c4df437e37ccb" sha1="537e016f23ddc3acc1635a9f0954e8592738e04f"/>
+	</game>
+	<game name="Logic-Disassembler (1984-06)(Markt &amp; Technik)(de)[64'er Magazin][type-in][8k]">
+		<description>Logic-Disassembler (1984-06)(Markt &amp; Technik)(de)[64'er Magazin][type-in][8k]</description>
+		<rom name="Logic-Disassembler (1984-06)(Markt &amp; Technik)(de)[64'er Magazin][type-in][8k].prg" size="4158" crc="205620d5" md5="1a8984874ff6474e0bf64cd5e66a610e" sha1="8a31bd7f7804f1bb7cdb7daeb93207ec4a287b13"/>
+	</game>
+	<game name="Longscreen (1985-05)(Markt &amp; Technik)(de)[64'er Magazin][type-in][8k]">
+		<description>Longscreen (1985-05)(Markt &amp; Technik)(de)[64'er Magazin][type-in][8k]</description>
+		<rom name="Longscreen (1985-05)(Markt &amp; Technik)(de)[64'er Magazin][type-in][8k].prg" size="2112" crc="610330a2" md5="9278cc7438c1b9c57e4032436a506dbc" sha1="7757ed2fa4d3bb18edda669fc91e6b76b6a9008a"/>
+	</game>
+	<game name="Magazine Indexer (19xx)(-)">
+		<description>Magazine Indexer (19xx)(-)</description>
+		<rom name="Magazine Indexer (19xx)(-).prg" size="2743" crc="7f297138" md5="d503d42a149b34caa2f6094c9843b479" sha1="7cc32ce24867ea2d494073c6e1945e109df47343"/>
+	</game>
+	<game name="Mathematical Basic v1.02 (1984-12)(Markt &amp; Technik)(de)[64'er Magazin][type-in][24k]">
+		<description>Mathematical Basic v1.02 (1984-12)(Markt &amp; Technik)(de)[64'er Magazin][type-in][24k]</description>
+		<rom name="Mathematical Basic v1.02 (1984-12)(Markt &amp; Technik)(de)[64'er Magazin][type-in][24k].prg" size="13403" crc="9c5cee94" md5="0b9e5d2273663690762a90f29042dae1" sha1="1d48ca40af1104efc7710ae44c39ee8fd9509f24"/>
+	</game>
+	<game name="Memo Writer (19xx)(-)">
+		<description>Memo Writer (19xx)(-)</description>
+		<rom name="Memo Writer (19xx)(-).prg" size="2104" crc="01478603" md5="37d3244245e57a65e24c0f0b307926ea" sha1="3da19538da2c319c77341dcd78bcf7eeb96be934"/>
+	</game>
+	<game name="Memory Display (1986-02)(Tronic Verlag)(de)[Compute mit][type-in]">
+		<description>Memory Display (1986-02)(Tronic Verlag)(de)[Compute mit][type-in]</description>
+		<rom name="Memory Display (1986-02)(Tronic Verlag)(de)[Compute mit][type-in].prg" size="660" crc="c1f5ed4a" md5="fa6c81dd5656018fd64ecb38c115c531" sha1="8243021c4a8bb08daac7e3f9cb8b8e5674b2bcdc"/>
+	</game>
+	<game name="Merge.Code (1986-04)(Tronic Verlag)(de)[Compute mit][type-in]">
+		<description>Merge.Code (1986-04)(Tronic Verlag)(de)[Compute mit][type-in]</description>
+		<rom name="Merge.Code (1986-04)(Tronic Verlag)(de)[Compute mit][type-in].prg" size="49" crc="884c0749" md5="9af1202a8e8b20243db3d011c6543994" sha1="f84b391f85b4e75b8e27c79104ef15367cf450b5"/>
+	</game>
+	<game name="Merkki Generaattori (19xx)(-)(fi)">
+		<description>Merkki Generaattori (19xx)(-)(fi)</description>
+		<rom name="Merkki Generaattori (19xx)(-)(fi).prg" size="1891" crc="d16c28ec" md5="1e41c32e4790a8f272e0015345c0dfa6" sha1="ced87f7684d395628e9f08d2ec566fb9cf5b59f6"/>
+	</game>
+	<game name="Might Term v1.0 - Configuration Menu String List - Make (1987)(Bruce, Craig)">
+		<description>Might Term v1.0 - Configuration Menu String List - Make (1987)(Bruce, Craig)</description>
+		<rom name="Might Term v1.0 - Configuration Menu String List - Make (1987)(Bruce, Craig).prg" size="1437" crc="8bcc653d" md5="18521ef92adf562cbbc2e1398da7d030" sha1="d382e979a48899ddc7002afd8f047d315a55868f"/>
+	</game>
+	<game name="Mighty Basic v1.0 (19xx)(Bruce, Craig)">
+		<description>Mighty Basic v1.0 (19xx)(Bruce, Craig)</description>
+		<rom name="Mighty Basic v1.0 (19xx)(Bruce, Craig).prg" size="6986" crc="c4b0ce68" md5="2f43ea5cf790b2a500030ca8722cca13" sha1="c28fa28a4194c5b87d6c0c7f990582ee16b0b5fc"/>
+	</game>
+	<game name="Mighty Mon v3.0 (1985)(Bruce, Craig)">
+		<description>Mighty Mon v3.0 (1985)(Bruce, Craig)</description>
+		<rom name="Mighty Mon v3.0 (1985)(Bruce, Craig).prg" size="6654" crc="f6e31bdc" md5="6eb0b7f909d6314ecd9b857bf7af9a0b" sha1="aec300eb724eec4082dc19dfab5bfef5cbf9b75a"/>
+	</game>
+	<game name="Mighty Term v1.0 (19xx)(Bruce, Craig)">
+		<description>Mighty Term v1.0 (19xx)(Bruce, Craig)</description>
+		<rom name="Mighty Term v1.0 (19xx)(Bruce, Craig).prg" size="7390" crc="24cf424b" md5="12a0167b3c7577859575e95a73cedf52" sha1="e6e6b9c08102d748ca30a687b579aa9b5c0590c0"/>
+	</game>
+	<game name="Mighty Term v1.0 - SYS 8192 (19xx)(Bruce, Craig)">
+		<description>Mighty Term v1.0 - SYS 8192 (19xx)(Bruce, Craig)</description>
+		<rom name="Mighty Term v1.0 - SYS 8192 (19xx)(Bruce, Craig).prg" size="7327" crc="56266321" md5="51f67c9397ac87e3caedeb66718df511" sha1="8e996746c3bd1df0314a756fcb62a25f34ccd294"/>
+	</game>
+	<game name="Miniterm (19xx)(-)">
+		<description>Miniterm (19xx)(-)</description>
+		<rom name="Miniterm (19xx)(-).prg" size="196" crc="a3a67cea" md5="7428e986c5c46ca48f7ac4f46408ef32" sha1="78186728ad29c5a8ad2a221beda38f4a00f88b74"/>
+	</game>
+	<game name="MLX v2.02 (19xx)(-)">
+		<description>MLX v2.02 (19xx)(-)</description>
+		<rom name="MLX v2.02 (19xx)(-).prg" size="3000" crc="ff80fee6" md5="1f6fe48f269f22cd5a380fc6dbfeb6a4" sha1="099d75a20f51b5a815ec0333ee029e26785b05d8"/>
+	</game>
+	<game name="Modem Upload (19xx)(-)">
+		<description>Modem Upload (19xx)(-)</description>
+		<rom name="Modem Upload (19xx)(-).prg" size="300" crc="1339cd85" md5="4241ec7bf8e313d49c8a68d9c4df1198" sha1="7374f75616d8480ad8b69783f8642027492d52c4"/>
+	</game>
+	<game name="Mondfhase (19xx)(-)(de)">
+		<description>Mondfhase (19xx)(-)(de)</description>
+		<rom name="Mondfhase (19xx)(-)(de).prg" size="1575" crc="fabc4aad" md5="07c94150b6cd5510ad0f95ae5db7d41a" sha1="b4341ccb54df8698ef40548075ce67e352ed931d"/>
+	</game>
+	<game name="Monitor (1987-04)(Tronic Verlag)(de)[Compute mit][type-in]">
+		<description>Monitor (1987-04)(Tronic Verlag)(de)[Compute mit][type-in]</description>
+		<rom name="Monitor (1987-04)(Tronic Verlag)(de)[Compute mit][type-in].prg" size="1708" crc="ccf98ae9" md5="0d5dc7ed44f0c602bc9a29e0908080b3" sha1="b7a92988f4db6cff7ac1c1866ac4898bf5c08139"/>
+	</game>
+	<game name="Morse Code Program (19xx)(n3dn)">
+		<description>Morse Code Program (19xx)(n3dn)</description>
+		<rom name="Morse Code Program (19xx)(n3dn).prg" size="3086" crc="e3b50703" md5="35e27bf906ef62524935b37a503c63ad" sha1="dd472781f0fe4c45a340597ba6113f110970606d"/>
+	</game>
+	<game name="Mozart Machine (19xx)(-)">
+		<description>Mozart Machine (19xx)(-)</description>
+		<rom name="Mozart Machine (19xx)(-).prg" size="1843" crc="fec35c28" md5="f6fb782d15c385c6dbe794d85c37d5a0" sha1="0341f9d9fa3e7f774b2983cee07d931a757c4506"/>
+	</game>
+	<game name="Mult v1.0 (19xx)(-)">
+		<description>Mult v1.0 (19xx)(-)</description>
+		<rom name="Mult v1.0 (19xx)(-).prg" size="213" crc="8d1c9e04" md5="f440668a26bcba0c8601a790070a9d12" sha1="c4f54f04b868ff69ee979bdd7440f56785ea4638"/>
+	</game>
+	<game name="Multigraph (1984-07)(Tronic Verlag)(de)[Computronic][type-in][req super expander]">
+		<description>Multigraph (1984-07)(Tronic Verlag)(de)[Computronic][type-in][req super expander]</description>
+		<rom name="Multigraph (1984-07)(Tronic Verlag)(de)[Computronic][type-in][req super expander].prg" size="2503" crc="d2a5471b" md5="d44c6467fe977a482ab64337004fbf77" sha1="52ca0a8fa66c873fe9a4f1e822158c07407ae4ab"/>
+	</game>
+	<game name="Musik Maestro (1986-03)(Markt &amp; Technik)(de)[64'er Magazin Sonderheft][type-in][16k]">
+		<description>Musik Maestro (1986-03)(Markt &amp; Technik)(de)[64'er Magazin Sonderheft][type-in][16k]</description>
+		<rom name="Musik Maestro (1986-03)(Markt &amp; Technik)(de)[64'er Magazin Sonderheft][type-in][16k].prg" size="13666" crc="ffa7461e" md5="c5731e28499c4bd1d2a5f3a807e27dbc" sha1="0beee37b48686d7010d3b53680c7d8eb86e8de6b"/>
+	</game>
+	<game name="Name Pro (1985)(Bruce, Craig)">
+		<description>Name Pro (1985)(Bruce, Craig)</description>
+		<rom name="Name Pro (1985)(Bruce, Craig).prg" size="949" crc="d7947224" md5="42fea55fdd83edff7948dfcbaa75bbce" sha1="667ccd009496dd3c577e45316209163d884c5fde"/>
+	</game>
+	<game name="Number Converter (19xx)(Galluchon, Andrew)">
+		<description>Number Converter (19xx)(Galluchon, Andrew)</description>
+		<rom name="Number Converter (19xx)(Galluchon, Andrew).prg" size="1403" crc="e51c7877" md5="9c602e39361a485993b2172bfe377c31" sha1="0c2d2d343404073a73553643c67dcf7a14a54b20"/>
+	</game>
+	<game name="Number Converter (19xx)(Galluchon, Andrew)[a]">
+		<description>Number Converter (19xx)(Galluchon, Andrew)[a]</description>
+		<rom name="Number Converter (19xx)(Galluchon, Andrew)[a].prg" size="1403" crc="1a7209c7" md5="2918a778c01b520b0bc6773bbe965d79" sha1="8bfc6f191ba5decc70b112f53a841fd06ce67b65"/>
+	</game>
+	<game name="Object Loader for Tiny BASIC Compiler (19xx)(Heitronic)">
+		<description>Object Loader for Tiny BASIC Compiler (19xx)(Heitronic)</description>
+		<rom name="Object Loader for Tiny BASIC Compiler (19xx)(Heitronic).prg" size="574" crc="c29fa71e" md5="d5079337b5b848d54a3467f80a1a4ef0" sha1="23311ff1f3f76de5fbd85f6ac4aba3040c74a4b7"/>
+	</game>
+	<game name="One-touch Keywords (19xx)(-)">
+		<description>One-touch Keywords (19xx)(-)</description>
+		<rom name="One-touch Keywords (19xx)(-).prg" size="1589" crc="c872d6ec" md5="ef954673ba27e6613eb47816e657bc84" sha1="8e1ff2081c1963778a8b1831a07fe773c5408b17"/>
+	</game>
+	<game name="Paaszondag (19xx)(-)(nl)">
+		<description>Paaszondag (19xx)(-)(nl)</description>
+		<rom name="Paaszondag (19xx)(-)(nl).prg" size="457" crc="d19b7b6c" md5="c45d7dac4c5fc59bcac229197aa59389" sha1="983a939d3a6819f2e1ad12fa31a56747e977322c"/>
+	</game>
+	<game name="Phoneme Editor.t (19xx)(-)">
+		<description>Phoneme Editor.t (19xx)(-)</description>
+		<rom name="Phoneme Editor.t (19xx)(-).prg" size="3585" crc="a97cbdef" md5="a801e2ea5c062aac8d1b120d490f519c" sha1="3a245aa103373fc88b56e120a48482f51e6aa58e"/>
+	</game>
+	<game name="Phoneme Speak.t (19xx)(-)">
+		<description>Phoneme Speak.t (19xx)(-)</description>
+		<rom name="Phoneme Speak.t (19xx)(-).prg" size="638" crc="2067e48a" md5="0d91d9c804a978c6c011fa70a53a10fd" sha1="ab54ec3535fd961872e0b00818c0dc26b6692aac"/>
+	</game>
+	<game name="Piano (19xx)(-)">
+		<description>Piano (19xx)(-)</description>
+		<rom name="Piano (19xx)(-).prg" size="536" crc="34da70a2" md5="d0b93d051cb64fd903d89afebb55879b" sha1="f86893597e280d295f458c141a249532b56b9cbc"/>
+	</game>
+	<game name="Picture Maker (19xx)(-)[req turtle basic]">
+		<description>Picture Maker (19xx)(-)[req turtle basic]</description>
+		<rom name="Picture Maker (19xx)(-)[req turtle basic].prg" size="727" crc="c1386b18" md5="170fe54eb484083d23b2e7a22d5ff509" sha1="939d5a63ce6609d5a56d1038f0ba98381d44a51b"/>
+	</game>
+	<game name="Pilot v2.1 (19xx)(-)[tr de]">
+		<description>Pilot v2.1 (19xx)(-)[tr de]</description>
+		<rom name="Pilot v2.1 (19xx)(-)[tr de].prg" size="5640" crc="42381e81" md5="a0c5ac5ecf287e2a19cd505dbcd08296" sha1="81ecf41bf5c8e30324f85c7629b8f49fd2ae0a8d"/>
+	</game>
+	<game name="Plus Term (19xx)(-)">
+		<description>Plus Term (19xx)(-)</description>
+		<rom name="Plus Term (19xx)(-).prg" size="10214" crc="29877ae7" md5="c0f7c4143ccda4c292935b2f1306d11f" sha1="dd677fbdd2feaa11d880321b3a8a9b4ec5409bf5"/>
+	</game>
+	<game name="Pno2 (19xx)(-)">
+		<description>Pno2 (19xx)(-)</description>
+		<rom name="Pno2 (19xx)(-).prg" size="1375" crc="03cc1e5b" md5="1234c84ee1186dc11b0a94f6428169f0" sha1="14525b8a02066092bf14d99d31fb8caecad1b8aa"/>
+	</game>
+	<game name="Posteriser (1982)(Soft Toys)">
+		<description>Posteriser (1982)(Soft Toys)</description>
+		<rom name="Posteriser (1982)(Soft Toys).prg" size="1289" crc="52ebf16a" md5="08a410217742097aaa36b565e5e631f6" sha1="92dda864a45ada23e66e184fe3fc820bdc6f2bd4"/>
+	</game>
+	<game name="Print Buzz (1985)(Bruce, Craig)">
+		<description>Print Buzz (1985)(Bruce, Craig)</description>
+		<rom name="Print Buzz (1985)(Bruce, Craig).prg" size="169" crc="acc4ff1a" md5="37127ceb10cca3e0a4a0eb5efd98e09f" sha1="92648106d730cc92b57178c60647e87dfdb02856"/>
+	</game>
+	<game name="Printat_Restoren (1984-08)(Markt &amp; Technik)(de)[64'er Magazin][type-in]">
+		<description>Printat_Restoren (1984-08)(Markt &amp; Technik)(de)[64'er Magazin][type-in]</description>
+		<rom name="Printat_Restoren (1984-08)(Markt &amp; Technik)(de)[64'er Magazin][type-in].prg" size="986" crc="90c97b71" md5="a1a233d65d2d8ef76eff7a9de3069256" sha1="a91bdfd44abb1fd95cf3993239f5abde8b9ff331"/>
+	</game>
+	<game name="Printer Pal I (1985)(Bruce, Craig)">
+		<description>Printer Pal I (1985)(Bruce, Craig)</description>
+		<rom name="Printer Pal I (1985)(Bruce, Craig).prg" size="2415" crc="5d10a04d" md5="d11911b1a5d4f57fc319d3bddd504f6f" sha1="6a9314ac21ed1923b79a3092b74f895dc958a462"/>
+	</game>
+	<game name="Printer Pal II (1986)(Bruce, Craig)">
+		<description>Printer Pal II (1986)(Bruce, Craig)</description>
+		<rom name="Printer Pal II (1986)(Bruce, Craig).prg" size="9836" crc="d894a6fa" md5="135a59cd47e3b07fa1f872c39f81627e" sha1="9a681e03352a3986017c8c62f81dc617a7933835"/>
+	</game>
+	<game name="Program Printer (1986)(507)">
+		<description>Program Printer (1986)(507)</description>
+		<rom name="Program Printer (1986)(507).prg" size="2585" crc="78a05d73" md5="10a77428568a440e674f83426fd0847d" sha1="ed4426625a9855e20b167c96e918988fb626bed9"/>
+	</game>
+	<game name="Programmable Character Generator v1.0 (19xx)(Swambag)">
+		<description>Programmable Character Generator v1.0 (19xx)(Swambag)</description>
+		<rom name="Programmable Character Generator v1.0 (19xx)(Swambag).prg" size="5568" crc="94dd6283" md5="12cf6bd169ff59f47d50c6e54c7fbd4c" sha1="f98e607736b0e08827d630a8a82582b4fe316159"/>
+	</game>
+	<game name="Programmable Character Generator v1.1 (19xx)(-)[load at $1000]">
+		<description>Programmable Character Generator v1.1 (19xx)(-)[load at $1000]</description>
+		<rom name="Programmable Character Generator v1.1 (19xx)(-)[load at $1000].prg" size="1534" crc="9f3ec5db" md5="80bb6c7a1e1f6418f0c8fbfac3411765" sha1="6ebee2dc0e0e8089572a0111357692f61642966b"/>
+	</game>
+	<game name="Programmable Character Generator vx.x (19xx)(-)">
+		<description>Programmable Character Generator vx.x (19xx)(-)</description>
+		<rom name="Programmable Character Generator vx.x (19xx)(-).prg" size="1728" crc="a14d425f" md5="f96e8d4966ef8838456284d04f3540ec" sha1="da2a1e7a79efbaee7eb3b7d070324f809bc201ef"/>
+	</game>
+	<game name="Quadratische Gleichungen (1984-04)(Tronic Verlag)(de)[Computronic][type-in]">
+		<description>Quadratische Gleichungen (1984-04)(Tronic Verlag)(de)[Computronic][type-in]</description>
+		<rom name="Quadratische Gleichungen (1984-04)(Tronic Verlag)(de)[Computronic][type-in].prg" size="679" crc="daf3ebdb" md5="0933d5552548f7ea060d0057480fe634" sha1="cc9376d80ab9529e043a92482c3634fd9626da00"/>
+	</game>
+	<game name="Quick-20 (19xx)(Quicktronics)">
+		<description>Quick-20 (19xx)(Quicktronics)</description>
+		<rom name="Quick-20 (19xx)(Quicktronics).prg" size="2305" crc="c4f7bfe6" md5="59820dc09ca69e83828e48ac09618f10" sha1="150298af3ccc9dffb5ecddbef95cfb0ef015dee8"/>
+	</game>
+	<game name="Quick-20 - $1600 (19xx)(Quicktronics)">
+		<description>Quick-20 - $1600 (19xx)(Quicktronics)</description>
+		<rom name="Quick-20 - $1600 (19xx)(Quicktronics).prg" size="2050" crc="8fba45b6" md5="6973ca05904b2190db486e838b1d6893" sha1="cb13266478e88ccf6a8216767d69d5c4dfa87f39"/>
+	</game>
+	<game name="Quikvic (1984)(Hurst, Robert)">
+		<description>Quikvic (1984)(Hurst, Robert)</description>
+		<rom name="Quikvic (1984)(Hurst, Robert).prg" size="3074" crc="f46e6e92" md5="49db6c648e6bbb0d51d80ec4ac154608" sha1="5f9ddc33d67135e15383baf9e5ff08c2a40ef896"/>
+	</game>
+	<game name="Raw Tape Transfer 1.0 (2010-07-01)(tlr)">
+		<description>Raw Tape Transfer 1.0 (2010-07-01)(tlr)</description>
+		<rom name="Raw Tape Transfer 1.0 (2010-07-01)(tlr).prg" size="775" crc="9c7f3eb9" md5="f7efc77d026fd194804284c050ec8493" sha1="3cf364b2d64f4b65fee2039d206b24faafa83ca4"/>
+	</game>
+	<game name="Raw Tape Transfer 1.1 (2012-05-01)(tlr)">
+		<description>Raw Tape Transfer 1.1 (2012-05-01)(tlr)</description>
+		<rom name="Raw Tape Transfer 1.1 (2012-05-01)(tlr).prg" size="775" crc="a757116a" md5="67ff7dc1d1f3a72e882d00ed73a67563" sha1="ac6ae172a3b243e933f2fc68d5a314c84370e569"/>
+	</game>
+	<game name="Reloctable (1986-03)(Markt &amp; Technik)(de)[64'er Magazin Sonderheft][type-in][8k]">
+		<description>Reloctable (1986-03)(Markt &amp; Technik)(de)[64'er Magazin Sonderheft][type-in][8k]</description>
+		<rom name="Reloctable (1986-03)(Markt &amp; Technik)(de)[64'er Magazin Sonderheft][type-in][8k].prg" size="5704" crc="8d35820d" md5="45bcccb009383724582456c0facd2fe8" sha1="e954ea6b1036d55409419f2b322ae9e93a0b6c16"/>
+	</game>
+	<game name="Remzeilen-Interpreter (1987-06)(Tronic Verlag)(de)[Compute mit][type-in]">
+		<description>Remzeilen-Interpreter (1987-06)(Tronic Verlag)(de)[Compute mit][type-in]</description>
+		<rom name="Remzeilen-Interpreter (1987-06)(Tronic Verlag)(de)[Compute mit][type-in].prg" size="1229" crc="b51ea135" md5="ad660f224a6f878e8efcd9748515993f" sha1="a1d483395e0552476b2cbe321baaed2845dfce2d"/>
+	</game>
+	<game name="Resistor Decoder (1986)(507)">
+		<description>Resistor Decoder (1986)(507)</description>
+		<rom name="Resistor Decoder (1986)(507).prg" size="1299" crc="0f4d61ff" md5="9a8bb7975b5370c117df5a32bdba8bab" sha1="fec91ef791bffb9ba6734169292eb702d5a2d0ac"/>
+	</game>
+	<game name="Reverse Polish Notation (19xx)(-)">
+		<description>Reverse Polish Notation (19xx)(-)</description>
+		<rom name="Reverse Polish Notation (19xx)(-).prg" size="1464" crc="af96f5eb" md5="50397956721f706050cbf0891bd32f66" sha1="ce403ecc1382551b5a8d487bc13e92c07d85e5d8"/>
+	</game>
+	<game name="Save File2Disk (19xx)(-)">
+		<description>Save File2Disk (19xx)(-)</description>
+		<rom name="Save File2Disk (19xx)(-).prg" size="179" crc="16b38050" md5="8033678eb35b6e666eac64fcd4bfe075" sha1="e66b2d50a6175f9e08d7ec5b454673f4ae54abd2"/>
+	</game>
+	<game name="Schaakklok (19xx)(Kolff, Krijn)(nl)">
+		<description>Schaakklok (19xx)(Kolff, Krijn)(nl)</description>
+		<rom name="Schaakklok (19xx)(Kolff, Krijn)(nl).prg" size="3258" crc="b0935c6c" md5="259e92928d3d13209806e6ec6f3cc497" sha1="3df8f56195adc379244c6707f4f807b15d3fa7d6"/>
+	</game>
+	<game name="Screen 40 (19xx)(-)">
+		<description>Screen 40 (19xx)(-)</description>
+		<rom name="Screen 40 (19xx)(-).prg" size="2158" crc="f3c89630" md5="4810ae8c51133aa03dfa758c129da797" sha1="0a72803a0c9de38cf217940a8488535ebdf9fb66"/>
+	</game>
+	<game name="Screendump (1984)(VicFile)">
+		<description>Screendump (1984)(VicFile)</description>
+		<rom name="Screendump (1984)(VicFile).prg" size="2504" crc="a1fbb910" md5="5916a8bf49e7fbfc80c6852b6c09d32e" sha1="ad4e09ad6c0379fa6221c901dae8b5df25c7df0a"/>
+	</game>
+	<game name="Screendump-info (1984)(VicFile)[h]">
+		<description>Screendump-info (1984)(VicFile)[h]</description>
+		<rom name="Screendump-info (1984)(VicFile)[h].prg" size="3430" crc="32abc298" md5="033538e9b99b8b51559a792d7fb5c6e4" sha1="db4303fc500afb5d3d829fe1fe8ba6b951debf4b"/>
+	</game>
+	<game name="SidMon (19xx)(HackZ0id)">
+		<description>SidMon (19xx)(HackZ0id)</description>
+		<rom name="SidMon (19xx)(HackZ0id).prg" size="1065" crc="14492bd6" md5="2cb46e084b53e67b4a3a2f93d4df8351" sha1="8eb9058c04b996f31afbece45c76cbb722e74860"/>
+	</game>
+	<game name="Single Disk Backup v1.0 (19xx)(-)">
+		<description>Single Disk Backup v1.0 (19xx)(-)</description>
+		<rom name="Single Disk Backup v1.0 (19xx)(-).prg" size="6209" crc="301ed975" md5="6a400a9739cb11288bcccb10b970a37d" sha1="6c5db259c7501d3ec595b4961122c9241958b10b"/>
+	</game>
+	<game name="SMon (1986-08)(Markt &amp; Technik)(de)[64'er Magazin Sonderheft][type-in][8k][$A000]">
+		<description>SMon (1986-08)(Markt &amp; Technik)(de)[64'er Magazin Sonderheft][type-in][8k][$A000]</description>
+		<rom name="SMon (1986-08)(Markt &amp; Technik)(de)[64'er Magazin Sonderheft][type-in][8k][$A000].prg" size="4093" crc="6d1d2573" md5="049737238571de9f79bdfd3ab1c1aab6" sha1="8e16c8bf9ec84a6a95f319c39704ebed9ee50e5e"/>
+	</game>
+	<game name="Sorteren (19xx)(-)(nl)">
+		<description>Sorteren (19xx)(-)(nl)</description>
+		<rom name="Sorteren (19xx)(-)(nl).prg" size="2875" crc="d0eba14d" md5="8b67c28cd8ff32cb798971d58697dd07" sha1="e7ebbc8111f61ce284c716a2b2e8f8dfc4212ec6"/>
+	</game>
+	<game name="Soundmaker v0.1 (1983)(PJSoft)">
+		<description>Soundmaker v0.1 (1983)(PJSoft)</description>
+		<rom name="Soundmaker v0.1 (1983)(PJSoft).prg" size="6976" crc="24564c05" md5="2d0fcc2bae182a7c3aeea6fdf084c069" sha1="dcae9c69178bb5d54f55c66a979bc4bcfb7cdcd9"/>
+	</game>
+	<game name="Source (19xx)(-)(nl)[req 40 collumns][written for C64]">
+		<description>Source (19xx)(-)(nl)[req 40 collumns][written for C64]</description>
+		<rom name="Source (19xx)(-)(nl)[req 40 collumns][written for C64].prg" size="9868" crc="d4c9ecb0" md5="2288be2977488af72a5db11cd6f6e9f3" sha1="875a19bb9cdd3409ac0369d038774b42f5a41051"/>
+	</game>
+	<game name="Speedscript 3.0 (19xx)(Brannon, Charles)">
+		<description>Speedscript 3.0 (19xx)(Brannon, Charles)</description>
+		<rom name="Speedscript 3.0 (19xx)(Brannon, Charles).prg" size="5875" crc="ff69f50f" md5="7c05397766bf5676cae993dd2e4a90e6" sha1="59cfa68d059cd6187ff45b67ec1cc7915eb82945"/>
+	</game>
+	<game name="Speedscript v1.0 (19xx)(-)">
+		<description>Speedscript v1.0 (19xx)(-)</description>
+		<rom name="Speedscript v1.0 (19xx)(-).prg" size="4735" crc="f7d5e155" md5="f3e4a95d28b36b52d1230d7ded5bfea2" sha1="5e5058333e1367e119e3769c21625e49c9aa4ca0"/>
+	</game>
+	<game name="Spreadsheet (1984)(Voordenscalc)">
+		<description>Spreadsheet (1984)(Voordenscalc)</description>
+		<rom name="Spreadsheet (1984)(Voordenscalc).prg" size="5887" crc="9406b3d3" md5="5615283282c4f6724bce84b4cb9cfa03" sha1="f333aa1215bb05745a3e4a03b57839fe98e28b11"/>
+	</game>
+	<game name="Super Directory (19xx)(-)">
+		<description>Super Directory (19xx)(-)</description>
+		<rom name="Super Directory (19xx)(-).prg" size="1300" crc="488ad53c" md5="9c98eaf18cc0bfe6a23316635ce66931" sha1="02d33e5378fd78b17b84d6744b9058f36afba84e"/>
+	</game>
+	<game name="Supergrafik II (1984-11)(Markt &amp; Technik)(de)[64'er Magazin][type-in]">
+		<description>Supergrafik II (1984-11)(Markt &amp; Technik)(de)[64'er Magazin][type-in]</description>
+		<rom name="Supergrafik II (1984-11)(Markt &amp; Technik)(de)[64'er Magazin][type-in].prg" size="843" crc="d233b327" md5="495ff34e30ba3d93ed09f5e3980e50d9" sha1="368db3093b7ffea57bdd55dd8f24b427ac8f6095"/>
+	</game>
+	<game name="Supergrafik III (1985-04)(Markt &amp; Technik)(de)[64'er Magazin][type-in]">
+		<description>Supergrafik III (1985-04)(Markt &amp; Technik)(de)[64'er Magazin][type-in]</description>
+		<rom name="Supergrafik III (1985-04)(Markt &amp; Technik)(de)[64'er Magazin][type-in].prg" size="854" crc="71b1c925" md5="63e094058358ffc5ab04c2d0838fed49" sha1="1b1d9838fa0dd196d054fe9050fcec5154da2afa"/>
+	</game>
+	<game name="Supergraphik (1984-05)(Markt &amp; Technik)(de)[64'er Magazin][type-in]">
+		<description>Supergraphik (1984-05)(Markt &amp; Technik)(de)[64'er Magazin][type-in]</description>
+		<rom name="Supergraphik (1984-05)(Markt &amp; Technik)(de)[64'er Magazin][type-in].prg" size="772" crc="51ec7928" md5="41ad7cd35f2f69f0f3040f3ac2078f67" sha1="d4ba934849ecaf074703871056cce237e901232d"/>
+	</game>
+	<game name="Superlog 20 (19xx)(-)">
+		<description>Superlog 20 (19xx)(-)</description>
+		<rom name="Superlog 20 (19xx)(-).prg" size="1910" crc="4ae03c33" md5="15ac31c65f2d5c80385182bfc5dc1731" sha1="a81a9c387dd3138f47391db3c7295d03dcaf8f69"/>
+	</game>
+	<game name="Tekstbewerking (19xx)(-)(nl)">
+		<description>Tekstbewerking (19xx)(-)(nl)</description>
+		<rom name="Tekstbewerking (19xx)(-)(nl).prg" size="4050" crc="b831b6e2" md5="f095fc6211ac886f7010a29b612be0c2" sha1="c2791296012692b1798337b6b1be15e39af01cdc"/>
+	</game>
+	<game name="Tekstverwerker (1982)(-)(nl)">
+		<description>Tekstverwerker (1982)(-)(nl)</description>
+		<rom name="Tekstverwerker (1982)(-)(nl).prg" size="8670" crc="bb3c7819" md5="ecb747a23ce7e1a65d3dff1b178b5727" sha1="aeaa5c0d2a56c079e15f5c53e9b493856e92290d"/>
+	</game>
+	<game name="Tekstverwerker (19xx)(-)(nl)[different]">
+		<description>Tekstverwerker (19xx)(-)(nl)[different]</description>
+		<rom name="Tekstverwerker (19xx)(-)(nl)[different].prg" size="5676" crc="9ad6a256" md5="9a122315768694d8251d459ad6f13a9c" sha1="41d853742c8eceb821d29cfcb3518f0c3ea4d0e7"/>
+	</game>
+	<game name="Tekstverwerker (19xx)(Info Boek Zeeland)(nl)">
+		<description>Tekstverwerker (19xx)(Info Boek Zeeland)(nl)</description>
+		<rom name="Tekstverwerker (19xx)(Info Boek Zeeland)(nl).prg" size="8513" crc="fbd251be" md5="c9e1d0ad741e7ddbcd0285215f89cb2a" sha1="cad6ef58a1c33e46b39bd2fec23fdf240290556c"/>
+	</game>
+	<game name="Telefoon - Disk (1981)(Handic)(nl)">
+		<description>Telefoon - Disk (1981)(Handic)(nl)</description>
+		<rom name="Telefoon - Disk (1981)(Handic)(nl).prg" size="1916" crc="38709c85" md5="07407766c84c4533b23dc8b5724f77be" sha1="2204461ad2587870cb9f8bea77ddcbb510f64653"/>
+	</game>
+	<game name="Telefoon - File (1981)(Handic)(nl)">
+		<description>Telefoon - File (1981)(Handic)(nl)</description>
+		<rom name="Telefoon - File (1981)(Handic)(nl).prg" size="1916" crc="4b049574" md5="55e8f14fdb5c2e238e0f2b9958319423" sha1="13b62334c16da73b84d94d4383a7426f0430778b"/>
+	</game>
+	<game name="Telefoon - Relais (1981)(Handic)(nl)">
+		<description>Telefoon - Relais (1981)(Handic)(nl)</description>
+		<rom name="Telefoon - Relais (1981)(Handic)(nl).prg" size="1448" crc="8ea3182a" md5="da4e56223ace6d727aa0dc1ad2da5c91" sha1="850430560d0747ead135f6da33056cf04670b646"/>
+	</game>
+	<game name="Telefoon - VIC Sort 2 (1981)(Handic)(nl)">
+		<description>Telefoon - VIC Sort 2 (1981)(Handic)(nl)</description>
+		<rom name="Telefoon - VIC Sort 2 (1981)(Handic)(nl).prg" size="1560" crc="c1b47c47" md5="a594a559f350dca51f95672dc572eff4" sha1="aed7c6a0808d88f4dafa3268bbb40fe13cf24f24"/>
+	</game>
+	<game name="Textverarbeitung (1984-09)(Markt &amp; Technik)(de)[Happy Computer][type-in][8k]">
+		<description>Textverarbeitung (1984-09)(Markt &amp; Technik)(de)[Happy Computer][type-in][8k]</description>
+		<rom name="Textverarbeitung (1984-09)(Markt &amp; Technik)(de)[Happy Computer][type-in][8k].prg" size="4655" crc="55fa546c" md5="75561af7c67e66eaa8bdf535def8ce87" sha1="d9e665e312b83830f6265242d946b6312b811543"/>
+	</game>
+	<game name="TinyMon (19xx)(Butterfield, Jim)[b]">
+		<description>TinyMon (19xx)(Butterfield, Jim)[b]</description>
+		<rom name="TinyMon (19xx)(Butterfield, Jim)[b].prg" size="1051" crc="34ee56da" md5="d4e8a3954432451fb27252a2eddb94de" sha1="3ee1af9c670f6c8c84ebf0aa187666063807632c"/>
+	</game>
+	<game name="Tinymon v1.0 (19xx)(Butterfield, Jim)">
+		<description>Tinymon v1.0 (19xx)(Butterfield, Jim)</description>
+		<rom name="Tinymon v1.0 (19xx)(Butterfield, Jim).prg" size="1045" crc="4410c883" md5="ea9fd47d5f9e09194ee261d686e60da7" sha1="cecbf5409fc69b2899bc4a4065e6b067b750678b"/>
+	</game>
+	<game name="Turbo File (19xx)(-)[h Dr. B]">
+		<description>Turbo File (19xx)(-)[h Dr. B]</description>
+		<rom name="Turbo File (19xx)(-)[h Dr. B].prg" size="1219" crc="ed3e7140" md5="911f9f3a3ab1329a45952e3dac0b82e7" sha1="528ca7443e6dfeadd4c0368ac60fe697c01c31a8"/>
+	</game>
+	<game name="Turbo File 1.2 (19xx)(-)[h]">
+		<description>Turbo File 1.2 (19xx)(-)[h]</description>
+		<rom name="Turbo File 1.2 (19xx)(-)[h].prg" size="1219" crc="4889fbbf" md5="34c67cad71f579c0ec29c1f0bd826aa4" sha1="8232fd4e12c84de3436bdf1f02e9b58b246c885d"/>
+	</game>
+	<game name="Turtle Basic v1.0 (19xx)(Bruce, Craig)">
+		<description>Turtle Basic v1.0 (19xx)(Bruce, Craig)</description>
+		<rom name="Turtle Basic v1.0 (19xx)(Bruce, Craig).prg" size="6221" crc="9d0467d2" md5="ebb5e6668ba3885d43f390f54efca96c" sha1="d02161f077d580eff043c22d48c110ed7e91f6c9"/>
+	</game>
+	<game name="Unex (19xx)(Bruce, Craig)">
+		<description>Unex (19xx)(Bruce, Craig)</description>
+		<rom name="Unex (19xx)(Bruce, Craig).prg" size="186" crc="438fe34f" md5="d844254e1ccd0e20455e3989caee5792" sha1="adf39d41f0f4d656d5f2e570e826722418b9c8fd"/>
+	</game>
+	<game name="Validate a Disk (1984)(Inside Commodore DOS)">
+		<description>Validate a Disk (1984)(Inside Commodore DOS)</description>
+		<rom name="Validate a Disk (1984)(Inside Commodore DOS).prg" size="3073" crc="128bb7ea" md5="ea9d0c1a88facb19a1ef55f825662c46" sha1="e803f3d9cf98ca93657d4d7dc79ea3230edc7305"/>
+	</game>
+	<game name="Variable Dump (1984)(Compute's Gazette)[type-in]">
+		<description>Variable Dump (1984)(Compute's Gazette)[type-in]</description>
+		<rom name="Variable Dump (1984)(Compute's Gazette)[type-in].prg" size="2745" crc="11cc2f30" md5="d38d2a09fc63e432cd0c28b32bd6e263" sha1="13bfc65f0905040974f965a16f27900ce7015183"/>
+	</game>
+	<game name="VC-Check 1.0 (1986-03)(Tronic Verlag)(de)[Compute mit][type-in]">
+		<description>VC-Check 1.0 (1986-03)(Tronic Verlag)(de)[Compute mit][type-in]</description>
+		<rom name="VC-Check 1.0 (1986-03)(Tronic Verlag)(de)[Compute mit][type-in].prg" size="1206" crc="17e99df3" md5="5a08dfd4d36e9d931d15312c89c95287" sha1="e56b49134840a4a6efce863cfc6fc314fb627a80"/>
+	</game>
+	<game name="Venalainen ruletti v3.0 (19xx)(Hartnell, Tim)">
+		<description>Venalainen ruletti v3.0 (19xx)(Hartnell, Tim)</description>
+		<rom name="Venalainen ruletti v3.0 (19xx)(Hartnell, Tim).prg" size="813" crc="9aeeb43d" md5="6587eafc9fecfc3af63f0c52410e5393" sha1="9ddf8fa3c3964ad1a761278c428fb0fa0543c3b0"/>
+	</game>
+	<game name="Vic 40 Scherm (19xx)(-)(de)">
+		<description>Vic 40 Scherm (19xx)(-)(de)</description>
+		<rom name="Vic 40 Scherm (19xx)(-)(de).prg" size="6828" crc="5754d85c" md5="74e924479db859ad0ea489550c46212d" sha1="90895642a0157914ffc93149a1370e3ef470d9b6"/>
+	</game>
+	<game name="Vic as Piano (19xx)(-)">
+		<description>Vic as Piano (19xx)(-)</description>
+		<rom name="Vic as Piano (19xx)(-).prg" size="329" crc="f7e73725" md5="c30c7a310d659e144b00f0d48f35672a" sha1="29efce81e0db1db7b8520289702ee1891eb0de05"/>
+	</game>
+	<game name="VIC Base (19xx)(-)(nl)">
+		<description>VIC Base (19xx)(-)(nl)</description>
+		<rom name="VIC Base (19xx)(-)(nl).prg" size="9774" crc="aefaa34e" md5="f33bdc1a1e0341322d0ad0c4f28058b2" sha1="01b41c1251093e16e5fd815b94bda4d94608d775"/>
+	</game>
+	<game name="VIC Biorhythms (1981)(Commodore)">
+		<description>VIC Biorhythms (1981)(Commodore)</description>
+		<rom name="VIC Biorhythms (1981)(Commodore).prg" size="3026" crc="d2591f2a" md5="a3a0be1122b264a13ff00f49effae16a" sha1="9c5d6b552d9486de019af53696a44ba27a97599d"/>
+	</game>
+	<game name="VIC Biorhytms (1981)(Commodore)">
+		<description>VIC Biorhytms (1981)(Commodore)</description>
+		<rom name="VIC Biorhytms (1981)(Commodore).prg" size="2934" crc="829983cb" md5="1e3a37b86f90c4d8f2fb2d38ec8a972a" sha1="761d89cc27465a4a6ff341a42e6ce58cd842fcd8"/>
+	</game>
+	<game name="VIC Compiler (19xx)(-)">
+		<description>VIC Compiler (19xx)(-)</description>
+		<rom name="VIC Compiler (19xx)(-).prg" size="8521" crc="3acf95e6" md5="68e5b929c10bf815e922fcc14e571bec" sha1="967a8c315ee6d47aebff8c7b0ccca8dd17272369"/>
+	</game>
+	<game name="Vic Doodle (19xx)(-)">
+		<description>Vic Doodle (19xx)(-)</description>
+		<rom name="Vic Doodle (19xx)(-).prg" size="2473" crc="a418e24c" md5="53acbd7286bf1036182260c7eae797e6" sha1="8b8c64a9efeb59f27f1922b6c649f6db6f474b58"/>
+	</game>
+	<game name="VIC DOS Wedge (19xx)(Hook, Davic A.)">
+		<description>VIC DOS Wedge (19xx)(Hook, Davic A.)</description>
+		<rom name="VIC DOS Wedge (19xx)(Hook, Davic A.).prg" size="821" crc="22476251" md5="bdeb376c641faf8fa0a764e3df5de577" sha1="c34501254d956f1ff7c88b57d0c8175a475fd3fe"/>
+	</game>
+	<game name="VIC Term v1.0 (1982)(Commodore)">
+		<description>VIC Term v1.0 (1982)(Commodore)</description>
+		<rom name="VIC Term v1.0 (1982)(Commodore).prg" size="2561" crc="3785e09b" md5="27667403167236868ab9b9463d264822" sha1="787dc997e511da4fe3e5e506d1d2ef28291dcae1"/>
+	</game>
+	<game name="Vic Tiny Aid (19xx)(-)">
+		<description>Vic Tiny Aid (19xx)(-)</description>
+		<rom name="Vic Tiny Aid (19xx)(-).prg" size="1722" crc="6cd247e0" md5="7fbb1e00169450e985fe477dccfab058" sha1="0775fba3272e8edf8c5b6b00c264cc3d47bf98aa"/>
+	</game>
+	<game name="VIC Unexpander (1987)(Bruce, Craig)">
+		<description>VIC Unexpander (1987)(Bruce, Craig)</description>
+		<rom name="VIC Unexpander (1987)(Bruce, Craig).prg" size="186" crc="f2969949" md5="a91c1f56bee59580a9647b5085af2a34" sha1="52a03cbb4e3328a5bbf6263f87fa0b86863a7b8b"/>
+	</game>
+	<game name="VIC Wedge (19xx)(Hook, Davic A.)">
+		<description>VIC Wedge (19xx)(Hook, Davic A.)</description>
+		<rom name="VIC Wedge (19xx)(Hook, Davic A.).prg" size="821" crc="f4d7defb" md5="a65d3db5be5063d4b514a0a2514bb753" sha1="041bb709da0c994ca113f0ae8d75f2a8b7e3c9df"/>
+	</game>
+	<game name="Vic Writer (1980)(Bettenhausen, H.)">
+		<description>Vic Writer (1980)(Bettenhausen, H.)</description>
+		<rom name="Vic Writer (1980)(Bettenhausen, H.).prg" size="4958" crc="137fd7e9" md5="e48da535875a2e7ff20ea870f29459eb" sha1="9b39f0ecc480be4a0f5148d3abdf61561be62217"/>
+	</game>
+	<game name="VIC-Dataopslag (1982)(-)(nl)">
+		<description>VIC-Dataopslag (1982)(-)(nl)</description>
+		<rom name="VIC-Dataopslag (1982)(-)(nl).prg" size="7748" crc="705c100a" md5="f1e5449a067626438fd4024762f5e08f" sha1="ddfb5f9ecfdbef74ec0722f3076dede79ed52fd2"/>
+	</game>
+	<game name="VIC-Tracker-1.0! (2001-07-21)(Alpha Range 89)[16k]">
+		<description>VIC-Tracker-1.0! (2001-07-21)(Alpha Range 89)[16k]</description>
+		<rom name="VIC-Tracker-1.0! (2001-07-21)(Alpha Range 89)[16k].prg" size="5541" crc="65bb6fb0" md5="4df3a0499ff768b05bd75d1a21684c41" sha1="34245550e86d9ced0fbbb1ead4d38f7b9cfe8f1d"/>
+	</game>
+	<game name="Video-Vorspann (1984-10)(Markt &amp; Technik)(de)[64'er Magazin][type-in]">
+		<description>Video-Vorspann (1984-10)(Markt &amp; Technik)(de)[64'er Magazin][type-in]</description>
+		<rom name="Video-Vorspann (1984-10)(Markt &amp; Technik)(de)[64'er Magazin][type-in].prg" size="2884" crc="850d6000" md5="189aa2e1bd975399fecf68cec0bfa90b" sha1="3fa45d18d17326d9939004690e0388bf53eb67cb"/>
+	</game>
+	<game name="Viditel Terminal (19xx)(-)(nl)">
+		<description>Viditel Terminal (19xx)(-)(nl)</description>
+		<rom name="Viditel Terminal (19xx)(-)(nl).prg" size="9857" crc="a57784cb" md5="d6277837d8f68748b6605a1ad4bec44f" sha1="2b7ae160aaff23ec768d7aadfee71fc269de30d1"/>
+	</game>
+	<game name="Viditel Terminal (19xx)(-)(nl)[Instruction]">
+		<description>Viditel Terminal (19xx)(-)(nl)[Instruction]</description>
+		<rom name="Viditel Terminal (19xx)(-)(nl)[Instruction].prg" size="707" crc="bdf39826" md5="f3dc9b2b804f4970c348b7540006971f" sha1="f825a884a0578c43f950c539507c07da227c0162"/>
+	</game>
+	<game name="View BAM (1995)(Fungus)">
+		<description>View BAM (1995)(Fungus)</description>
+		<rom name="View BAM (1995)(Fungus).prg" size="1375" crc="87c6f32f" md5="2ac6a8f4baef287d1695b44cc9213a74" sha1="71e4ac38d18ad17fea04902d5fa6bff3e01a5288"/>
+	</game>
+	<game name="Virtual Directory - 1541 (1984)(Inside Commodore DOS)">
+		<description>Virtual Directory - 1541 (1984)(Inside Commodore DOS)</description>
+		<rom name="Virtual Directory - 1541 (1984)(Inside Commodore DOS).prg" size="2384" crc="2e7b7238" md5="d24da06537eecd30f5f26b28a697deb4" sha1="6cb4a4b01321b050bcb9d90163cf9576e4a6dbe6"/>
+	</game>
+	<game name="Voorraad Beheer (19xx)(Info Boek Zeeland)(nl)">
+		<description>Voorraad Beheer (19xx)(Info Boek Zeeland)(nl)</description>
+		<rom name="Voorraad Beheer (19xx)(Info Boek Zeeland)(nl).prg" size="7792" crc="4e64cac1" md5="faa394df35d1f7c85012b9ebd249daab" sha1="9666fd8f74861975c565de38dd9db1e4f6bdb557"/>
+	</game>
+	<game name="Weerstanden (19xx)(CHB)(nl)">
+		<description>Weerstanden (19xx)(CHB)(nl)</description>
+		<rom name="Weerstanden (19xx)(CHB)(nl).prg" size="4834" crc="0e13b55e" md5="47b429bd896a23affffbb3a151c917c5" sha1="59fef6e54ac7734b12b2b504652717760a342f23"/>
+	</game>
+	<game name="Yearer (1985)(Bruce, Craig)">
+		<description>Yearer (1985)(Bruce, Craig)</description>
+		<rom name="Yearer (1985)(Bruce, Craig).prg" size="1399" crc="d503ee4b" md5="2ab12fcfc6789639ed69f4fe24013e9f" sha1="2ed170162c199bd582906586a9af2d961af252dd"/>
+	</game>
+	<game name="Zinsen (1986-03)(Markt &amp; Technik)(de)[64'er Magazin Sonderheft][type-in][8k]">
+		<description>Zinsen (1986-03)(Markt &amp; Technik)(de)[64'er Magazin Sonderheft][type-in][8k]</description>
+		<rom name="Zinsen (1986-03)(Markt &amp; Technik)(de)[64'er Magazin Sonderheft][type-in][8k].prg" size="7811" crc="aee00524" md5="7ff72de5646cf7a09802139df35875db" sha1="e4f9ea208b511cedb97b1dfc76352b170f63b10c"/>
+	</game>
+</datafile>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>DEC PDP-8 - Compilations - Games</name>
+		<description>DEC PDP-8 - Compilations - Games (TOSEC-v2014-01-23)</description>
+		<category>TOSEC</category>
+		<version>2014-01-23</version>
+		<author>TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Baird Games (19xx)(-)">
+		<description>Baird Games (19xx)(-)</description>
+		<rom name="Baird Games (19xx)(-).rx1" size="256256" crc="e4839532" md5="eaa422036acec1d76cb5c0ba0b0c1187" sha1="858b9284fff7f4260f1ba80b26e007c2e34e85b0"/>
+	</game>
+</datafile>

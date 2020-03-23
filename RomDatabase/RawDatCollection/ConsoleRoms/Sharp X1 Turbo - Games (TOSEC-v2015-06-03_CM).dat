@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sharp X1 Turbo - Games</name>
+		<description>Sharp X1 Turbo - Games (TOSEC-v2015-06-03)</description>
+		<category>TOSEC</category>
+		<version>2015-06-03</version>
+		<author>idrougge - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Gandhara (1987)(Enix)(JP)">
+		<description>Gandhara (1987)(Enix)(JP)</description>
+		<rom name="Gandhara (1987)(Enix)(JP).d88" size="348848" crc="a5caa4e3" md5="bbee5ea73ae6bad9227e9b245d6a70e9" sha1="9717c0c861e8ffb0da59c216ba25bc9278f118df"/>
+	</game>
+</datafile>

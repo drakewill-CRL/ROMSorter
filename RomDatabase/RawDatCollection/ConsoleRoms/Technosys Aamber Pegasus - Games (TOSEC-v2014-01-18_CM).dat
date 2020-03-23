@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Technosys Aamber Pegasus - Games</name>
+		<description>Technosys Aamber Pegasus - Games (TOSEC-v2014-01-18)</description>
+		<category>TOSEC</category>
+		<version>2014-01-18</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Galaxy Wars &amp; Hangman (19xx)(-)[raw]">
+		<description>Galaxy Wars &amp; Hangman (19xx)(-)[raw]</description>
+		<rom name="Galaxy Wars &amp; Hangman (19xx)(-)[raw].bin" size="4096" crc="700d0e10" md5="6a53e6591f07f57c4a173281740a35e0" sha1="ef2a5bb02303340c6709136a82858f7b124eedd5"/>
+	</game>
+	<game name="Galaxy Wars &amp; Hangman (19xx)(-)[translated]">
+		<description>Galaxy Wars &amp; Hangman (19xx)(-)[translated]</description>
+		<rom name="Galaxy Wars &amp; Hangman (19xx)(-)[translated].bin" size="4096" crc="85a02408" md5="0fbe832d781a711953a87224710c2b28" sha1="462345693150a0b34814f2ef8876f5513b2188ca"/>
+	</game>
+	<game name="Invaders v1.1 (19xx)(-)[raw]">
+		<description>Invaders v1.1 (19xx)(-)[raw]</description>
+		<rom name="Invaders v1.1 (19xx)(-)[raw].bin" size="4096" crc="e19be9e4" md5="a16bcdf00a6245f38d1cdb6ca95fdb55" sha1="77a2a3a7ddf2b30790860be994e9c4bab02c72d6"/>
+	</game>
+	<game name="Invaders v1.1 (19xx)(-)[translated]">
+		<description>Invaders v1.1 (19xx)(-)[translated]</description>
+		<rom name="Invaders v1.1 (19xx)(-)[translated].bin" size="4096" crc="61d55d3e" md5="7de5a2caab0cb763ce2357d4d19ead31" sha1="cf814969797e8944dd76f64232218735e651feb3"/>
+	</game>
+	<game name="Invaders v1.2 (19xx)(-)[raw]">
+		<description>Invaders v1.2 (19xx)(-)[raw]</description>
+		<rom name="Invaders v1.2 (19xx)(-)[raw].bin" size="4096" crc="d4ffaded" md5="1b3dba1bd167e928b27a2a157fdef6ac" sha1="2e4c21672be35a91110f0b56c2f0ed21a39e637b"/>
+	</game>
+	<game name="Invaders v1.2 (19xx)(-)[translated]">
+		<description>Invaders v1.2 (19xx)(-)[translated]</description>
+		<rom name="Invaders v1.2 (19xx)(-)[translated].bin" size="4096" crc="5ebe9166" md5="f48888d03928131bdd75506cb014904a" sha1="4957dc0275bc878519c079db102af72dd7fbeaea"/>
+	</game>
+	<game name="Tank v1.1 (19xx)(-)[raw][tape2rom]">
+		<description>Tank v1.1 (19xx)(-)[raw][tape2rom]</description>
+		<rom name="Tank v1.1 (19xx)(-)[raw][tape2rom].bin" size="4096" crc="8824847f" md5="fb3da390f5d3a6abe525c7513ba1c651" sha1="e133f2ef3fc1e7aba5383cbbe2006ecddaaa1f00"/>
+	</game>
+	<game name="Tank v1.1 (19xx)(-)[translated][tape2rom]">
+		<description>Tank v1.1 (19xx)(-)[translated][tape2rom]</description>
+		<rom name="Tank v1.1 (19xx)(-)[translated][tape2rom].bin" size="4096" crc="8824847f" md5="fb3da390f5d3a6abe525c7513ba1c651" sha1="e133f2ef3fc1e7aba5383cbbe2006ecddaaa1f00"/>
+	</game>
+	<game name="Tank v1.2 (19xx)(-)[raw][tape2rom]">
+		<description>Tank v1.2 (19xx)(-)[raw][tape2rom]</description>
+		<rom name="Tank v1.2 (19xx)(-)[raw][tape2rom].bin" size="4096" crc="00908560" md5="75fc0149f3892b91af509f1b92330fad" sha1="0451c71ff2a23fcf6f58316211a3feee10c1b1e6"/>
+	</game>
+	<game name="Tank v1.2 (19xx)(-)[translated][tape2rom]">
+		<description>Tank v1.2 (19xx)(-)[translated][tape2rom]</description>
+		<rom name="Tank v1.2 (19xx)(-)[translated][tape2rom].bin" size="4096" crc="5e6c6423" md5="75c531444bcb6109548acd03a2d14171" sha1="4678ff9a5d4d9e3ee22b0fde9ec64d0ebb588055"/>
+	</game>
+</datafile>

@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Public Domain - [Z64]</name>
+		<description>Commodore C64 - Public Domain - [Z64] (TOSEC-v2019-12-08)</description>
+		<category>TOSEC</category>
+		<version>2019-12-08</version>
+		<author>Duncan Twain - DesertWolf</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Binary Zone Disk #400 (2006)(Binary Zone)(PD)(Side A)">
+		<description>Binary Zone Disk #400 (2006)(Binary Zone)(PD)(Side A)</description>
+		<rom name="1!Binary Zone Disk #400 (2006)(Binary Zone)(PD)(Side A).z64" size="34098" crc="d5dce706" md5="71754e1ba4ca3166064639ff993c16ce" sha1="bb2478b1e09902303d9afa2000858548df0e997b"/>
+		<rom name="2!Binary Zone Disk #400 (2006)(Binary Zone)(PD)(Side A).z64" size="42595" crc="b68ceaa1" md5="f62d4784db422be6b0f8d943a76eb733" sha1="e0547d6853d57e1718ef83d97f2b19238a6afed1"/>
+		<rom name="3!Binary Zone Disk #400 (2006)(Binary Zone)(PD)(Side A).z64" size="38560" crc="f1944eb2" md5="18c5e0893cf37229dfa3fc34b26b6c49" sha1="6be1e188362d9924627c5551915cbe15d26b0850"/>
+		<rom name="4!Binary Zone Disk #400 (2006)(Binary Zone)(PD)(Side A).z64" size="33510" crc="f7d7c97c" md5="267881228efa7ae21c0ac83faca45b04" sha1="c4229115424f6c984f576c19625681c4f3ec1b61"/>
+	</game>
+	<game name="Binary Zone Disk #400 (2006)(Binary Zone)(PD)(Side A)[a]">
+		<description>Binary Zone Disk #400 (2006)(Binary Zone)(PD)(Side A)[a]</description>
+		<rom name="1!Binary Zone Disk #400 (2006)(Binary Zone)(PD)(Side A)[a].z64" size="34101" crc="b0edf2a4" md5="81449ccd053f86f3c127e9bbff97fee6" sha1="b24a63e12365e23ba32f0ad7c9b1392bb0c41444"/>
+		<rom name="2!Binary Zone Disk #400 (2006)(Binary Zone)(PD)(Side A)[a].z64" size="42600" crc="06d71f8e" md5="e4ac6903410d3a071b423980436d3e25" sha1="344306ec25641e6129a85243cbbf6c5097962ef5"/>
+		<rom name="3!Binary Zone Disk #400 (2006)(Binary Zone)(PD)(Side A)[a].z64" size="38567" crc="77b796da" md5="e2546707c76a1193f6452e5600082821" sha1="14fac53b61cd520cc2955391bdeeadb87a101191"/>
+		<rom name="4!Binary Zone Disk #400 (2006)(Binary Zone)(PD)(Side A)[a].z64" size="33514" crc="286c95f9" md5="e687701a732426a6cda84be847bf9d95" sha1="758e563efd3c82a23c67b84e252eb5c03dc7820b"/>
+	</game>
+	<game name="CCUG (1989-02)(CCUG)">
+		<description>CCUG (1989-02)(CCUG)</description>
+		<rom name="1!CCUG (1989-02)(CCUG).z64" size="41078" crc="81cbb399" md5="737f07677e3bbe570bcaf9dc4407a596" sha1="4e08bcd68e3a2122f0d1ca7e800ed055c5eed398"/>
+		<rom name="2!CCUG (1989-02)(CCUG).z64" size="42555" crc="893d9ea8" md5="20287f7c1eda16b66e228b5f7ee6a75b" sha1="8741c1c52c5cea73a970bcda178a7ba367bc65ec"/>
+		<rom name="3!CCUG (1989-02)(CCUG).z64" size="36425" crc="f41a0ec5" md5="a17f9b866904fd093138ba1685d8c2e9" sha1="2de525937910986c9bcfe19f2bafe1001370abd4"/>
+		<rom name="4!CCUG (1989-02)(CCUG).z64" size="35739" crc="a79a393d" md5="6f55a261cc82cc8b73648109bd8140e8" sha1="8cda18ac4a249f5334bf63fab7346cf35e05edab"/>
+	</game>
+	<game name="Mastermmsoft PD #0830 (19xx)(Mastermmsoft)">
+		<description>Mastermmsoft PD #0830 (19xx)(Mastermmsoft)</description>
+		<rom name="1!Mastermmsoft PD #0830 (19xx)(Mastermmsoft).z64" size="42954" crc="59119202" md5="568f65ed132bc80ea3186361ecc53e8c" sha1="f00c1dbf85edcbdad4abcce28882ffd5fbfeefd0"/>
+		<rom name="2!Mastermmsoft PD #0830 (19xx)(Mastermmsoft).z64" size="38521" crc="692fa2be" md5="df5961e69bd1e4dca7c81101d487f0bc" sha1="73f63282d0e63f3b0a7df58ff4c322aa8a369edc"/>
+		<rom name="3!Mastermmsoft PD #0830 (19xx)(Mastermmsoft).z64" size="39731" crc="52dedd81" md5="be3facff459c2dde7b797430e9b79d81" sha1="59ac9c4873af6eddee56d49a12523da775b2db8f"/>
+		<rom name="4!Mastermmsoft PD #0830 (19xx)(Mastermmsoft).z64" size="45004" crc="857584b9" md5="2ac64c3e0c425ac089ea3aa755951455" sha1="8e70d5b05fd9c00f89cc6f545c5eb1fd7ca53e9d"/>
+	</game>
+	<game name="Mastermmsoft PD #1041 (19xx)(Mastermmsoft)">
+		<description>Mastermmsoft PD #1041 (19xx)(Mastermmsoft)</description>
+		<rom name="1!Mastermmsoft PD #1041 (19xx)(Mastermmsoft).z64" size="37705" crc="eee08bf0" md5="d02e9517338d1e64518a14365426feeb" sha1="6957db9f54022475215ab55617d117b0ed737d4d"/>
+		<rom name="2!Mastermmsoft PD #1041 (19xx)(Mastermmsoft).z64" size="39457" crc="8c0b4c73" md5="28e520bcc842b41fdc6a1d077f256869" sha1="91a6cc89bb2ca3c97cca98636ae217370d54e8a7"/>
+		<rom name="3!Mastermmsoft PD #1041 (19xx)(Mastermmsoft).z64" size="20621" crc="b0bab92f" md5="e5474242786743f1a2b1c211315fee41" sha1="5ef666e1a3ddece8aa426d64da1633452148b9d0"/>
+		<rom name="4!Mastermmsoft PD #1041 (19xx)(Mastermmsoft).z64" size="527" crc="592094b5" md5="0cae9f355cf09bc153272c4b8d2b97cd" sha1="c0e55bff8e598693033535ccd5ccc169c8329fb4"/>
+	</game>
+	<game name="Megatronix GR022 (19xx)(Megatronix PD)">
+		<description>Megatronix GR022 (19xx)(Megatronix PD)</description>
+		<rom name="1!Megatronix GR022 (19xx)(Megatronix PD).z64" size="39552" crc="952af5d4" md5="4b864ee4f0116d25fe3091e880a3e4b0" sha1="5e9e1bb10127b9e1841f370cedf070b640d305d7"/>
+		<rom name="2!Megatronix GR022 (19xx)(Megatronix PD).z64" size="43392" crc="4f1d4637" md5="d87d7c4071eb3bc9e24e696002addbf1" sha1="3603b5f2bc5e1d8599eca469b484f9e07d3b06a1"/>
+		<rom name="3!Megatronix GR022 (19xx)(Megatronix PD).z64" size="40192" crc="b14c2f6e" md5="1384c8ae1fed131fc81a70d5f9b78f0b" sha1="4edf98359ecf2f33c3233909cf691d411523a911"/>
+		<rom name="4!Megatronix GR022 (19xx)(Megatronix PD).z64" size="41344" crc="43ca0ef3" md5="f718fa39159178c1c3b114560d1def9e" sha1="df12fd80e75f924165b79ea6b8fe931f159091fb"/>
+	</game>
+	<game name="Public Domain Disketten #048 (19xx)(-)(de)">
+		<description>Public Domain Disketten #048 (19xx)(-)(de)</description>
+		<rom name="1!Public Domain Disketten #048 (19xx)(-)(de).z64" size="41377" crc="7e0b7343" md5="e1428d2c21d4216b6840db34b8065551" sha1="31a3c2f0eb6bfdb8a2f3b05638d6a0551ef5a334"/>
+		<rom name="2!Public Domain Disketten #048 (19xx)(-)(de).z64" size="42427" crc="5be854f0" md5="df4b81c225809c52fd2e9ccf71337734" sha1="f68ed52434f6847a38f4077f8c75ceeb9971865c"/>
+		<rom name="3!Public Domain Disketten #048 (19xx)(-)(de).z64" size="37847" crc="e1228d65" md5="6b2840f8f10b5bd9a19a36be51d0c129" sha1="c32b7f10fcff5183e2f9471c9914cb5f1033e9eb"/>
+		<rom name="4!Public Domain Disketten #048 (19xx)(-)(de).z64" size="38375" crc="11a486b0" md5="02a3602ed37471853b5aaf98398b3a4a" sha1="320ae31796e18a61a89def1f6379521d49bdc369"/>
+	</game>
+	<game name="Public Probe Diskette (1991-05)(Stonysoft)(Side A)">
+		<description>Public Probe Diskette (1991-05)(Stonysoft)(Side A)</description>
+		<rom name="1!Public Probe Diskette (1991-05)(Stonysoft)(Side A).z64" size="23929" crc="ec30624d" md5="b51f695f5127970f9a26026ee68e73a7" sha1="b9b11900c4db7bb1c880209951c20f261e6d7985"/>
+		<rom name="2!Public Probe Diskette (1991-05)(Stonysoft)(Side A).z64" size="43329" crc="1b8e71b0" md5="f467ba35072dccf454ba4f6c3c2b52e0" sha1="4402d540957cbb6dc6d6158174112dc28bbd0b73"/>
+		<rom name="3!Public Probe Diskette (1991-05)(Stonysoft)(Side A).z64" size="40350" crc="e09d53be" md5="647179309996f77f476bb18e43868dea" sha1="104098e7ee5afb06b9e10358a85e65bf3d4cd818"/>
+		<rom name="4!Public Probe Diskette (1991-05)(Stonysoft)(Side A).z64" size="32302" crc="f392096c" md5="f40689b5537eeb78169706f981df45c3" sha1="1bfadbfd327f6c85588343489190a3b44caf06c9"/>
+	</game>
+	<game name="Public Probe Diskette (1991-05)(Stonysoft)(Side B)">
+		<description>Public Probe Diskette (1991-05)(Stonysoft)(Side B)</description>
+		<rom name="1!Public Probe Diskette (1991-05)(Stonysoft)(Side B).z64" size="22262" crc="f042d4d6" md5="cbed55b731c5c2e118cbda3140ca6667" sha1="70186216b13779e32fe8a9922661490846952781"/>
+		<rom name="2!Public Probe Diskette (1991-05)(Stonysoft)(Side B).z64" size="40656" crc="76c4731d" md5="da5b7080c249d0d007b0edb0a3734051" sha1="049902751bf3055667c61bc1b6842f287b40603e"/>
+		<rom name="3!Public Probe Diskette (1991-05)(Stonysoft)(Side B).z64" size="39885" crc="42826d91" md5="a4e3fab68972b7d9a181f542b449bd29" sha1="8caf9eb5e9aa872b23ee937932339755dc535d6a"/>
+		<rom name="4!Public Probe Diskette (1991-05)(Stonysoft)(Side B).z64" size="38556" crc="3933feac" md5="10075457ba298a7b413c3f4de47016c8" sha1="aaccb8bb005ccffaf35073d00e99610a9483d9f1"/>
+	</game>
+	<game name="Rockford PD #18 v2 (1995-08-04)(-)(de)(Side A)">
+		<description>Rockford PD #18 v2 (1995-08-04)(-)(de)(Side A)</description>
+		<rom name="1!Rockford PD #18 v2 (1995-08-04)(-)(de)(Side A).z64" size="42626" crc="9c1b2c00" md5="d3c83ee94c88c96fe0307753427d8f41" sha1="25af55a51bd61c07f7cf33410fc8e2d13ad8119b"/>
+		<rom name="2!Rockford PD #18 v2 (1995-08-04)(-)(de)(Side A).z64" size="19191" crc="8a385171" md5="15f43e57403a5a17bd8493cada8e3c79" sha1="5a082554bcb81873a99231914d19865571310c82"/>
+		<rom name="3!Rockford PD #18 v2 (1995-08-04)(-)(de)(Side A).z64" size="29448" crc="b5805d2d" md5="c9f170f0a754a32b5eddf472739c8164" sha1="f64cad64a15f39476571313332d8324bc34f3c52"/>
+		<rom name="4!Rockford PD #18 v2 (1995-08-04)(-)(de)(Side A).z64" size="27507" crc="fc8a2bf1" md5="b13c788cebc319cb71559f1fbceb2b4f" sha1="c4078950c07b8e8dec9090a454597dd9fe1b8fde"/>
+	</game>
+	<game name="Rockford PD #18 v2 (1995-08-04)(-)(de)(Side B)">
+		<description>Rockford PD #18 v2 (1995-08-04)(-)(de)(Side B)</description>
+		<rom name="1!Rockford PD #18 v2 (1995-08-04)(-)(de)(Side B).z64" size="37214" crc="a389e019" md5="1048e03a76e6de6fb71fb51c2a73801b" sha1="aeec0a34b3ace9b1c73d6da7e6115d966d01113b"/>
+		<rom name="2!Rockford PD #18 v2 (1995-08-04)(-)(de)(Side B).z64" size="42252" crc="f91f19e4" md5="7ede7cdaafc81f01611c8619504ac559" sha1="51fc1abb81125cad692e7b4a16751cc072aebd77"/>
+		<rom name="3!Rockford PD #18 v2 (1995-08-04)(-)(de)(Side B).z64" size="38391" crc="ed1ce68d" md5="7796046f2a24c5be088b9e96231c8de2" sha1="d5de3daa54902c0e67f03e0dc88f12da3f8924a7"/>
+		<rom name="4!Rockford PD #18 v2 (1995-08-04)(-)(de)(Side B).z64" size="40348" crc="78e11442" md5="9e636f0ead488464344c9dd8e75e7e5d" sha1="1dbf0269c973b41d3abd705656046e5b58355de9"/>
+	</game>
+	<game name="Rockford PD #19 (1995-08-04)(-)(de)(Side A)">
+		<description>Rockford PD #19 (1995-08-04)(-)(de)(Side A)</description>
+		<rom name="1!Rockford PD #19 (1995-08-04)(-)(de)(Side A).z64" size="42055" crc="f4571df2" md5="4ef46b2b9b3182f1a944fe0e5bdf6acc" sha1="1d956d48986588c775f04eb17314badcfeb9af78"/>
+		<rom name="2!Rockford PD #19 (1995-08-04)(-)(de)(Side A).z64" size="43002" crc="7e3a4fd6" md5="f55370608748a1fd7d155e22f2ba3f1f" sha1="51bc574133167b6d4aeb68a9d712f8c92b129129"/>
+		<rom name="3!Rockford PD #19 (1995-08-04)(-)(de)(Side A).z64" size="38717" crc="f499bca0" md5="249c35807c1e9dbe167cebd247e3130c" sha1="e0b1024ecef4a22704e8dc1e5b0a7928aec4fd54"/>
+		<rom name="4!Rockford PD #19 (1995-08-04)(-)(de)(Side A).z64" size="45152" crc="cd53fd49" md5="679910abbf5e1fdf2e1c491043bee893" sha1="b97adbdb7a7b95da7d6b74f80da66854bbfd0320"/>
+	</game>
+	<game name="Rockford PD #19 (1995-08-04)(-)(de)(Side B)">
+		<description>Rockford PD #19 (1995-08-04)(-)(de)(Side B)</description>
+		<rom name="1!Rockford PD #19 (1995-08-04)(-)(de)(Side B).z64" size="43348" crc="facae0c6" md5="95499cdad34e2eff6e6e27e26e064ca8" sha1="d2bd122b2813b1a52a1154932a19482e5ee5be25"/>
+		<rom name="2!Rockford PD #19 (1995-08-04)(-)(de)(Side B).z64" size="38143" crc="cf0ed9ac" md5="d61c043cafbb31cec40c9883f2950681" sha1="ea52c492f2e046c2b88e8bba588c12ee36317a3f"/>
+		<rom name="3!Rockford PD #19 (1995-08-04)(-)(de)(Side B).z64" size="36940" crc="3dc67ef2" md5="63bce6a9f536a332c264fe2c21194878" sha1="132f60e3f5b6f4c91e97830f22007ff87afae302"/>
+		<rom name="4!Rockford PD #19 (1995-08-04)(-)(de)(Side B).z64" size="45010" crc="6dea7635" md5="a028daa5916486648de1f2d45ca63815" sha1="46b975a03036afdd44524b74919c347d1f7f6f9c"/>
+	</game>
+	<game name="Rockford PD #20 (1994-07-04)(-)(de)(Side A)">
+		<description>Rockford PD #20 (1994-07-04)(-)(de)(Side A)</description>
+		<rom name="1!Rockford PD #20 (1994-07-04)(-)(de)(Side A).z64" size="42889" crc="7e4502ac" md5="5f6f37009d4c8c566d3aef6e7613c299" sha1="4afa4fa83b473064d764d1efda6dabe7118c359e"/>
+		<rom name="2!Rockford PD #20 (1994-07-04)(-)(de)(Side A).z64" size="40511" crc="6707b270" md5="cd122266652f1eee2af9858a43150351" sha1="298d19b86322644a1f091ee706db184611da06b3"/>
+		<rom name="3!Rockford PD #20 (1994-07-04)(-)(de)(Side A).z64" size="31701" crc="eb5158b9" md5="60aa36616c727efc5d035b76e26c0f63" sha1="d4c9a93abebd0ead29a11e48126f72f00f9fe40d"/>
+		<rom name="4!Rockford PD #20 (1994-07-04)(-)(de)(Side A).z64" size="44085" crc="a33b1096" md5="8f87db93aeeb2e5a224ab35f4e9aa268" sha1="b1aeba5bb30195dbe9cd747ec873888f3418153b"/>
+	</game>
+	<game name="Rockford PD #20 (1994-07-04)(-)(de)(Side B)">
+		<description>Rockford PD #20 (1994-07-04)(-)(de)(Side B)</description>
+		<rom name="1!Rockford PD #20 (1994-07-04)(-)(de)(Side B).z64" size="41298" crc="4918294e" md5="20e50645dca2705bad31f0aa96d8089d" sha1="645642aef4ced28c8c20b3f583fc6a40f263ffbb"/>
+		<rom name="2!Rockford PD #20 (1994-07-04)(-)(de)(Side B).z64" size="43346" crc="6dda79a6" md5="936cc63f8afeed7da360536e84a5229a" sha1="c11c5766e29120daafd20efbc4ffc3c1667651c8"/>
+		<rom name="3!Rockford PD #20 (1994-07-04)(-)(de)(Side B).z64" size="40078" crc="f9676c85" md5="c73a72ccee7d13513e1b266d988a0aca" sha1="a358bc08efaeb0f65806078fe539fd19f7dc2b96"/>
+		<rom name="4!Rockford PD #20 (1994-07-04)(-)(de)(Side B).z64" size="40989" crc="dde386cc" md5="c1c79b5116cb61b2558b68b5b504cee6" sha1="706728ad0f0f5ddf7e5a4307618daa34d70d2841"/>
+	</game>
+	<game name="Rockford PD #21 (1994-11-30)(-)(de)(Disk 2 of 2 Side A)">
+		<description>Rockford PD #21 (1994-11-30)(-)(de)(Disk 2 of 2 Side A)</description>
+		<rom name="1!Rockford PD #21 (1994-11-30)(-)(de)(Disk 2 of 2 Side A).z64" size="42271" crc="b06e9c2f" md5="7d64a14adaab27a13ec562a49454dc6f" sha1="4762da76adaacef81bd54f76a19b681600f8c2b7"/>
+		<rom name="2!Rockford PD #21 (1994-11-30)(-)(de)(Disk 2 of 2 Side A).z64" size="42555" crc="6fb15f98" md5="55e51d2eb46ef949cb4064a0646dd33a" sha1="c3a39b648321a317c27b6479021259616a9c98f4"/>
+		<rom name="3!Rockford PD #21 (1994-11-30)(-)(de)(Disk 2 of 2 Side A).z64" size="39640" crc="9d2f0b49" md5="21660bb8bf0ec0cf8ad29e52d78e97bc" sha1="99f4e03fdf27250c1d0418e9a751083bbbf0f7f8"/>
+		<rom name="4!Rockford PD #21 (1994-11-30)(-)(de)(Disk 2 of 2 Side A).z64" size="44478" crc="6a30ad9e" md5="3674f4b487c05fac6931b2f5e7836a0c" sha1="ce606cfad9b0403673a5217f24af0dd44f3d12ab"/>
+	</game>
+	<game name="Rockford PD #21 (1994-11-30)(-)(de)(Disk 2 of 2 Side B)">
+		<description>Rockford PD #21 (1994-11-30)(-)(de)(Disk 2 of 2 Side B)</description>
+		<rom name="1!Rockford PD #21 (1994-11-30)(-)(de)(Disk 2 of 2 Side B).z64" size="42701" crc="acc839e8" md5="ec5d1de2be3767ba1af1a7a54f55d3c6" sha1="3ac8697aa35699c45c85bfbb9d5af89d91aa5e60"/>
+		<rom name="2!Rockford PD #21 (1994-11-30)(-)(de)(Disk 2 of 2 Side B).z64" size="43343" crc="5089f006" md5="2e51fd0c245bd7c8b7f9bf682ee06647" sha1="45429936c92b3bf888a049b3bb558240714b30cb"/>
+		<rom name="3!Rockford PD #21 (1994-11-30)(-)(de)(Disk 2 of 2 Side B).z64" size="39937" crc="ac26e1a8" md5="3d84fb9012d84f3f6d3251b490525564" sha1="3aafa3fe26ffad79c4c1e554c38d06acac19309b"/>
+		<rom name="4!Rockford PD #21 (1994-11-30)(-)(de)(Disk 2 of 2 Side B).z64" size="44629" crc="48dd771a" md5="c2ad51692bec7f86b22e611c600bd479" sha1="897a05f642494391fb4263bcff6fc0dd0fa7b3fa"/>
+	</game>
+	<game name="Sanitarium Tools 2 (1996-04-05)(Ascraeus)">
+		<description>Sanitarium Tools 2 (1996-04-05)(Ascraeus)</description>
+		<rom name="1!Sanitarium Tools 2 (1996-04-05)(Ascraeus).z64" size="43058" crc="a97d50a3" md5="e4c3f63fe913ea9aea8c97ee2ed68cb4" sha1="a05d8cf407223944c96fe9bb744e31df43e28dda"/>
+		<rom name="2!Sanitarium Tools 2 (1996-04-05)(Ascraeus).z64" size="43273" crc="28783ee9" md5="569c725010627c95b3784caf9b151e5c" sha1="c42b27350a0500360c20fbf4502025f5775b818d"/>
+		<rom name="3!Sanitarium Tools 2 (1996-04-05)(Ascraeus).z64" size="40316" crc="e5683fac" md5="e2a9180e841f2e7297ecf3316ea5b232" sha1="63919e9ccfd698edf4575e518c69498116855db9"/>
+		<rom name="4!Sanitarium Tools 2 (1996-04-05)(Ascraeus).z64" size="41806" crc="47aff8ad" md5="ed675c3caca04566030e6c0c3134748c" sha1="cee084c49321a7c4fdb33fedd561e438af5b4ab7"/>
+	</game>
+	<game name="SYS Diskett #01 (199x)(SYS PD)">
+		<description>SYS Diskett #01 (199x)(SYS PD)</description>
+		<rom name="1!SYS Diskett #01 (199x)(SYS PD).z64" size="42507" crc="866fa9b1" md5="2726a135d3f5a2cf1d15c193db4142e6" sha1="92f8e0c9787507de5e1f9fbfe5ab1b596a602628"/>
+		<rom name="2!SYS Diskett #01 (199x)(SYS PD).z64" size="39193" crc="8d0f2fcd" md5="4dfe6ba088cbc25ac2f28f1af009da3f" sha1="d491fdfb8bc560297ce585820f3b4b6fc106a7f5"/>
+		<rom name="3!SYS Diskett #01 (199x)(SYS PD).z64" size="39182" crc="40760c87" md5="1d5e2fcc2c3f9beed12007c5c9f120fb" sha1="eb398ef44b19ac0069a6aab1bf08d6290e6b9926"/>
+		<rom name="4!SYS Diskett #01 (199x)(SYS PD).z64" size="43687" crc="a65d7e22" md5="bec717b6056f799919a7ca0833e71005" sha1="fa9f70f8d7ad498c94fee6ca5c7bb58542ba246b"/>
+	</game>
+	<game name="SYS Diskett #02 (199x)(SYS PD)">
+		<description>SYS Diskett #02 (199x)(SYS PD)</description>
+		<rom name="1!SYS Diskett #02 (199x)(SYS PD).z64" size="23952" crc="f8acfcc5" md5="0f842701d3fab797a51c8c85a0005100" sha1="7355fb3ed799c5240c8fb772ca5d396c9b2f5863"/>
+		<rom name="2!SYS Diskett #02 (199x)(SYS PD).z64" size="30539" crc="0c5bfa54" md5="9da53c09442c39623a1264aeb3c01c2e" sha1="ef0062124a34327ac886f330f919a2dd8acbf3c2"/>
+		<rom name="3!SYS Diskett #02 (199x)(SYS PD).z64" size="36583" crc="e394e8a7" md5="8751e30c8090a093013e1cbc2ebc8dd6" sha1="42ef89ae5bc1e36c8416ad6f49fe23d27298dfbe"/>
+		<rom name="4!SYS Diskett #02 (199x)(SYS PD).z64" size="24961" crc="afa12f6f" md5="0436b71a0a9c35001a684651f3b0879e" sha1="42f3f250b45d50b698bdaeb983f52667f3886984"/>
+	</game>
+	<game name="SYS Diskett #03 (199x)(SYS PD)">
+		<description>SYS Diskett #03 (199x)(SYS PD)</description>
+		<rom name="1!SYS Diskett #03 (199x)(SYS PD).z64" size="21617" crc="8ab9cc86" md5="da69c41455dec7a2c415d3515141661a" sha1="de3a079ee86fda54ef8dfbdfe58322a5b0f830ce"/>
+		<rom name="2!SYS Diskett #03 (199x)(SYS PD).z64" size="36441" crc="2cbdb6e2" md5="536a8c219a748a36462ef36ac8a77bcc" sha1="776ef6780d54b58f993d2f337caa0d6dcb71bb0b"/>
+		<rom name="3!SYS Diskett #03 (199x)(SYS PD).z64" size="34951" crc="d1ada2bd" md5="82de11a84e824023c6a776aae4effcdb" sha1="05052d2e97c8bb2cc4344cd382383de378cd3c74"/>
+		<rom name="4!SYS Diskett #03 (199x)(SYS PD).z64" size="33841" crc="97c1dc70" md5="fd2feab5c40c40624791e0c3287c0378" sha1="ef895e0d5f337a15e00c8a8be77e1b63aa95d838"/>
+	</game>
+	<game name="SYS Diskett #04 (199x)(SYS PD)">
+		<description>SYS Diskett #04 (199x)(SYS PD)</description>
+		<rom name="1!SYS Diskett #04 (199x)(SYS PD).z64" size="1408" crc="480d2ba3" md5="719f89eca3c5ae705ba751f86892c870" sha1="87f2c893728549c9d3cbf44b4bbf7276b6923079"/>
+		<rom name="2!SYS Diskett #04 (199x)(SYS PD).z64" size="35789" crc="1deb4634" md5="27b973d88723091a300b6221660bbac0" sha1="315dd234756bf3e333b12f0a1135fa8b715d3255"/>
+		<rom name="3!SYS Diskett #04 (199x)(SYS PD).z64" size="24584" crc="7502c27a" md5="4ae0735143f05718b7a6ca19be8eaa4b" sha1="a6563981f4ad6c6f1ce5095a83bf56f6e3762911"/>
+		<rom name="4!SYS Diskett #04 (199x)(SYS PD).z64" size="1408" crc="7e15aa30" md5="46460aaf4c278a4cd035ac01e01d61be" sha1="22a23de63198dabdf31fd2ee91922c1b6cf2619f"/>
+	</game>
+	<game name="SYS Diskett #05 (199x)(SYS PD)">
+		<description>SYS Diskett #05 (199x)(SYS PD)</description>
+		<rom name="1!SYS Diskett #05 (199x)(SYS PD).z64" size="40100" crc="c295c1d8" md5="b1c6d9217f8b189d2ab1f60302b58aab" sha1="cbddb97d68a9cb49a4bc6d8b84d6833f678f930f"/>
+		<rom name="2!SYS Diskett #05 (199x)(SYS PD).z64" size="37476" crc="7a131142" md5="f6983ff9529e0c25309b59dfc3ee937f" sha1="2a5c343a242cc130e6131867720db8aad4ba6476"/>
+		<rom name="3!SYS Diskett #05 (199x)(SYS PD).z64" size="34671" crc="5163aec8" md5="947aa369f82fd3bd8d67626eeb5a8eee" sha1="e42ae338d353fa953e98bddad097d6593d4164ef"/>
+		<rom name="4!SYS Diskett #05 (199x)(SYS PD).z64" size="43513" crc="f5502c23" md5="56082972b160960d430a68e1a231a6b0" sha1="e18e7a40aba892a92b0128b10f3d3dcf6ae9195b"/>
+	</game>
+	<game name="SYS Diskett #06 (199x)(SYS PD)">
+		<description>SYS Diskett #06 (199x)(SYS PD)</description>
+		<rom name="1!SYS Diskett #06 (199x)(SYS PD).z64" size="39784" crc="c6054a79" md5="15dd5ebce53ba13ef80308f281431e08" sha1="4961e29d7d728eb12d93083660265d89f0da14cb"/>
+		<rom name="2!SYS Diskett #06 (199x)(SYS PD).z64" size="40954" crc="24dcfc2d" md5="7fcc6d2daed0e4da488be59ce9cc02ae" sha1="4a2c77a7b96c959e1720715ac8a02e1f41a3890d"/>
+		<rom name="3!SYS Diskett #06 (199x)(SYS PD).z64" size="40037" crc="d8566b0b" md5="ca75cf11a7d6b0e29927880d4571f5c5" sha1="5011d8718599768564764f58054ffffe7e5d1b88"/>
+		<rom name="4!SYS Diskett #06 (199x)(SYS PD).z64" size="34475" crc="eef3b5e9" md5="884f4998ceb944641d578802b278dcc0" sha1="4b528b4ffc9f6de4f9b9198103cc74596d3f1450"/>
+	</game>
+	<game name="SYS Diskett #07 (199x)(SYS PD)">
+		<description>SYS Diskett #07 (199x)(SYS PD)</description>
+		<rom name="1!SYS Diskett #07 (199x)(SYS PD).z64" size="43255" crc="f6b7b4c6" md5="443b8c54ba66a7381cf25b81abdf45c6" sha1="f47218de564b8533270c869b6cb695a0009f7e69"/>
+		<rom name="2!SYS Diskett #07 (199x)(SYS PD).z64" size="41083" crc="c458c8c0" md5="3591fe8fd933f2056fa892d56def7c98" sha1="9836d85b9fc18b13b8c1f97a8f9618f9d76d4bb7"/>
+		<rom name="3!SYS Diskett #07 (199x)(SYS PD).z64" size="24225" crc="82a9c4d1" md5="89dd8c08d0a78ba6278fa32e1dfd39ea" sha1="33b19ff8c98f06447d018d5f798daf8a6bb29f84"/>
+		<rom name="4!SYS Diskett #07 (199x)(SYS PD).z64" size="768" crc="db88540f" md5="959e1fff6c2f5fa20001eaa4e9bfb62a" sha1="2285f0311cababa4adb342d071612cd6aaf9d20b"/>
+	</game>
+	<game name="SYS Diskett #08 (199x)(SYS PD)">
+		<description>SYS Diskett #08 (199x)(SYS PD)</description>
+		<rom name="1!SYS Diskett #08 (199x)(SYS PD).z64" size="14098" crc="44737dc6" md5="93c67ea179c0aae29c209611c13b8556" sha1="c75c8ed4243b8fbc929c9d6c5449db50df0c20b4"/>
+		<rom name="2!SYS Diskett #08 (199x)(SYS PD).z64" size="42808" crc="7d8adf2c" md5="c9c9335db14518c93b8e6eb70a52586c" sha1="0d10e982189a16aba8bcd4c31bc59f57a7739adc"/>
+		<rom name="3!SYS Diskett #08 (199x)(SYS PD).z64" size="40384" crc="43011df8" md5="d10d5558df30534d91236017f707725c" sha1="7eec2b14e8ef940013bd75b0d0be87b164ebc2d7"/>
+		<rom name="4!SYS Diskett #08 (199x)(SYS PD).z64" size="17339" crc="7cc2f4fb" md5="ee12c0ef127ca8f90e417c09f1d88ae6" sha1="6656336355abdf7c21a8247b9608ee9f30686c91"/>
+	</game>
+	<game name="SYS Diskett #09 (199x)(SYS PD)">
+		<description>SYS Diskett #09 (199x)(SYS PD)</description>
+		<rom name="1!SYS Diskett #09 (199x)(SYS PD).z64" size="42053" crc="58f933c3" md5="a462a301aacaa70b60a04e1a44a350ae" sha1="d4c700a57c6f218570a90913eaefdf4a40e1f135"/>
+		<rom name="2!SYS Diskett #09 (199x)(SYS PD).z64" size="41836" crc="cf0addff" md5="b891c28611c53a8c969c721ef90039c3" sha1="54bd87ed5d16780bc1ea154a94a78507636e501a"/>
+		<rom name="3!SYS Diskett #09 (199x)(SYS PD).z64" size="40158" crc="b9a467b4" md5="1cdd9fc83cf8b8434df639bc1c86a3a6" sha1="910390d97a4792a819abff4c40fa27c79e806520"/>
+		<rom name="4!SYS Diskett #09 (199x)(SYS PD).z64" size="35260" crc="fd5c6f91" md5="dada1f81e2019d6abfbf39f25c913eed" sha1="76bcd9f1d3327f60af7ece6e5a86884a278392ba"/>
+	</game>
+	<game name="SYS Diskett #10 (199x)(SYS PD)">
+		<description>SYS Diskett #10 (199x)(SYS PD)</description>
+		<rom name="1!SYS Diskett #10 (199x)(SYS PD).z64" size="36779" crc="e9ba7735" md5="1dd4d5befebbd32104728da216f63e27" sha1="5a9e34513938fbc1dcfb3c29d107816125053be1"/>
+		<rom name="2!SYS Diskett #10 (199x)(SYS PD).z64" size="36413" crc="5a4fde27" md5="4a267680b618adc082ed7a66f1d05d5b" sha1="6edf4c492f25b552d6bdb3dfcc4e9638982b4565"/>
+		<rom name="3!SYS Diskett #10 (199x)(SYS PD).z64" size="36062" crc="49ad0e32" md5="540a623a98cd138f71a3ce8e18868b03" sha1="eddca78797824f89269ecedd69e5d500380b12c9"/>
+		<rom name="4!SYS Diskett #10 (199x)(SYS PD).z64" size="35339" crc="ce7eaa16" md5="9cbbd078a80703d9c66238ec8f4753a6" sha1="9901bbc117c584526a0b1c94de64351efea1637c"/>
+	</game>
+	<game name="SYS Diskett #11 (199x)(SYS PD)">
+		<description>SYS Diskett #11 (199x)(SYS PD)</description>
+		<rom name="1!SYS Diskett #11 (199x)(SYS PD).z64" size="42490" crc="a48a2fe7" md5="7f7323ff76db6a68ed162fff679e475f" sha1="d93b1319ba91667a28ebee4b97e67b972650dbb1"/>
+		<rom name="2!SYS Diskett #11 (199x)(SYS PD).z64" size="41334" crc="afbaddbc" md5="6dbee4ec7c45155c35d0ab8a70b474f5" sha1="06a853d24d6b6225f33357731f8763c97191316c"/>
+		<rom name="3!SYS Diskett #11 (199x)(SYS PD).z64" size="39689" crc="1d1c0245" md5="cf3cc13eb989dab17613bd2059d883bb" sha1="26ddec1303c0f94eae6fe9da227510b1561fbf03"/>
+		<rom name="4!SYS Diskett #11 (199x)(SYS PD).z64" size="35884" crc="15152ba7" md5="11e02688321bfddacdbe48817d4b7915" sha1="d78fcb21efc2743bbd5d5e8704e5fb20c37141db"/>
+	</game>
+	<game name="SYS Diskett #12 (199x)(SYS PD)">
+		<description>SYS Diskett #12 (199x)(SYS PD)</description>
+		<rom name="1!SYS Diskett #12 (199x)(SYS PD).z64" size="42704" crc="e670b794" md5="8c6e1ef74503d735e754a140d42a0375" sha1="45dc59b7291de0d5288b601a813b1f57fccf0bfd"/>
+		<rom name="2!SYS Diskett #12 (199x)(SYS PD).z64" size="42389" crc="f2477847" md5="56a729e4f0cdaabe542380b28ff84734" sha1="8d15fb68dc49d2888f8965ca6fe4d38e142607e6"/>
+		<rom name="3!SYS Diskett #12 (199x)(SYS PD).z64" size="40740" crc="de29566e" md5="d78bfc75d0d9c1e1f7f9d0bf9e6f7086" sha1="653a2b2716ff12b3acde834f484b29806bf0a06a"/>
+		<rom name="4!SYS Diskett #12 (199x)(SYS PD).z64" size="40407" crc="27be8aae" md5="24a4c9a9c517a1ab57d4ac1a0f6f04fd" sha1="12c53c23e934caa69978b67bb6735f61b887a112"/>
+	</game>
+	<game name="SYS Diskett #13 (199x)(SYS PD)">
+		<description>SYS Diskett #13 (199x)(SYS PD)</description>
+		<rom name="1!SYS Diskett #13 (199x)(SYS PD).z64" size="43168" crc="8f98b855" md5="92ba023d6430867ce2daa67014e2f3fe" sha1="f6cc6e19d9027a37dddb98e3c9a9faaf7ab3a68b"/>
+		<rom name="2!SYS Diskett #13 (199x)(SYS PD).z64" size="43117" crc="5c27f487" md5="dc1b0d6e89dc9e54dae4dc13182ce9dd" sha1="665820458478d94c859e5ae08522c78a4431339e"/>
+		<rom name="3!SYS Diskett #13 (199x)(SYS PD).z64" size="11806" crc="081d2a79" md5="a8f25154e288e8deac602480d4e99703" sha1="d65a2210a3e7a737026034f14e4a6a2871acd237"/>
+		<rom name="4!SYS Diskett #13 (199x)(SYS PD).z64" size="640" crc="0d41d1a9" md5="279e1b01b025984460522c974386c70f" sha1="eb170d212df721eb97223c1772b527bd1106ce20"/>
+	</game>
+	<game name="SYS Diskett #14 (199x)(SYS PD)">
+		<description>SYS Diskett #14 (199x)(SYS PD)</description>
+		<rom name="1!SYS Diskett #14 (199x)(SYS PD).z64" size="43121" crc="b5a2ca37" md5="ca9917375a404b0724f3bed27f5afe76" sha1="f8c6c6674b112e377c928255720ced944faf7b96"/>
+		<rom name="2!SYS Diskett #14 (199x)(SYS PD).z64" size="43051" crc="1e804d23" md5="a3910117c9d46c8c31d2bfff4a942ce7" sha1="925dee8172659bf32aafb66d8bfc3b9581e61e16"/>
+		<rom name="3!SYS Diskett #14 (199x)(SYS PD).z64" size="40326" crc="a13ca61e" md5="b7fe1b6a85c4640d6ec84baed29c8e6b" sha1="14dce8a43856448f2c0451dd26f6397c283882cc"/>
+		<rom name="4!SYS Diskett #14 (199x)(SYS PD).z64" size="3587" crc="97e1d3f6" md5="95e6f90abf2bf78f94aca11e15363509" sha1="d684417cf174a762a5962781d79ea86630868a5c"/>
+	</game>
+	<game name="SYS Diskett #15 (199x)(SYS PD)">
+		<description>SYS Diskett #15 (199x)(SYS PD)</description>
+		<rom name="1!SYS Diskett #15 (199x)(SYS PD).z64" size="40891" crc="0c40862a" md5="6806e2186a3cdcf3432a935bc84a015a" sha1="ec034327679af2857b1db25306cbe747f6e7dc53"/>
+		<rom name="2!SYS Diskett #15 (199x)(SYS PD).z64" size="41546" crc="cfcc915b" md5="308839f06a7bd74b00318dc5710b1869" sha1="42c60c3970abd94da880f2db59b346bf730a1284"/>
+		<rom name="3!SYS Diskett #15 (199x)(SYS PD).z64" size="34959" crc="e09f014c" md5="eeecbd417c36f38adee016a2ea5fe565" sha1="b0331e849aa6a111b66cfe2356ed19061d776ed8"/>
+		<rom name="4!SYS Diskett #15 (199x)(SYS PD).z64" size="41753" crc="6f68942d" md5="ae0c6ea6ba1f86b35fa442432f56d7f7" sha1="7bf5f820677c90fa8bfc760d357993f10906f85f"/>
+	</game>
+	<game name="SYS Diskett #16 (199x)(SYS PD)">
+		<description>SYS Diskett #16 (199x)(SYS PD)</description>
+		<rom name="1!SYS Diskett #16 (199x)(SYS PD).z64" size="43278" crc="d38381b0" md5="70231d1653b395f950c163a32a3b2f21" sha1="ab6acd3e2e765a4d3f7c221ed24aee0f56bda291"/>
+		<rom name="2!SYS Diskett #16 (199x)(SYS PD).z64" size="41906" crc="00b8e3c0" md5="d1d25912514a5390cc31e5a3c156043b" sha1="9fab42eaf2dd34e035e55847c52b6f500675f8fa"/>
+		<rom name="3!SYS Diskett #16 (199x)(SYS PD).z64" size="23427" crc="ddcabcef" md5="dfe3497254550ac1dc7aabbfd4216ea7" sha1="1bbddd23b2c05ac04b2491bb5ae43a78d32cd357"/>
+		<rom name="4!SYS Diskett #16 (199x)(SYS PD).z64" size="1402" crc="4aa444c9" md5="59054bde2f6f1a63badc78285627d0e8" sha1="1ec3ac750faa4b7894b17a86125539fe077e8f25"/>
+	</game>
+	<game name="SYS Diskett #17 (199x)(SYS PD)">
+		<description>SYS Diskett #17 (199x)(SYS PD)</description>
+		<rom name="1!SYS Diskett #17 (199x)(SYS PD).z64" size="1348" crc="434c4314" md5="c29fc540d61875686b249c6eb668e162" sha1="7970a7b74afc4e349419b6cc07cb4e112af76bcd"/>
+		<rom name="2!SYS Diskett #17 (199x)(SYS PD).z64" size="26299" crc="87952a75" md5="6b18a9f518f6b29a564e02e8aff84d3f" sha1="79a19d428cdbd52dbe8fa22627b5406a323df408"/>
+		<rom name="3!SYS Diskett #17 (199x)(SYS PD).z64" size="30563" crc="cbf2b249" md5="4a6cd3a1ad9a08ef3fa73d2dc00149d5" sha1="386c8490c28815a36a6f4d03e421a99ae9dac25b"/>
+		<rom name="4!SYS Diskett #17 (199x)(SYS PD).z64" size="1266" crc="0e5b56e2" md5="a9699dab934c60e106884fff7f2ced83" sha1="cd64e54aee90374a443b0cb4aae003d5911ac02a"/>
+	</game>
+	<game name="SYS Diskett #18 (199x)(SYS PD)">
+		<description>SYS Diskett #18 (199x)(SYS PD)</description>
+		<rom name="1!SYS Diskett #18 (199x)(SYS PD).z64" size="43341" crc="7dc0362e" md5="e36d72136a4be2978034a6a424c659ca" sha1="66a848020ea844e4ff3f03a5bd9c10196078ed0d"/>
+		<rom name="2!SYS Diskett #18 (199x)(SYS PD).z64" size="40549" crc="681a09ab" md5="bd5f9716dfca4320bfe5d5ad5ef86b8e" sha1="4f47d4bd3b76ad44cd8de7866b8556acd6526e51"/>
+		<rom name="3!SYS Diskett #18 (199x)(SYS PD).z64" size="34744" crc="a2898ab6" md5="2559dc891963988725ba2311c850143e" sha1="3db3842d515f2c636df0cf19bbe56e8ad3fbc6f6"/>
+		<rom name="4!SYS Diskett #18 (199x)(SYS PD).z64" size="34921" crc="6f223b40" md5="8466ba2f1aa89f1e1a81058ef4123ab4" sha1="a0854c836002560f947050f1eeb05d53c7139047"/>
+	</game>
+	<game name="SYS Diskett #19 (199x)(SYS PD)">
+		<description>SYS Diskett #19 (199x)(SYS PD)</description>
+		<rom name="1!SYS Diskett #19 (199x)(SYS PD).z64" size="4525" crc="f5d6c96f" md5="6a67c4177d6f5d3794d3867c302d3bf7" sha1="e11ab9bcf407b645857d4207a6f754b22540c387"/>
+		<rom name="2!SYS Diskett #19 (199x)(SYS PD).z64" size="41275" crc="b481e4aa" md5="f48f1567bd888a51c8ce430933dbe53c" sha1="8592f063e0a4e6dd3692a32b20916cbbfae40a29"/>
+		<rom name="3!SYS Diskett #19 (199x)(SYS PD).z64" size="39780" crc="0e23a78d" md5="fd32d3b6fc69fdf03ecff7fbe1c5e3d0" sha1="4ac9ef4f4b1fb6c083a5664a49568fc89714ba69"/>
+		<rom name="4!SYS Diskett #19 (199x)(SYS PD).z64" size="12779" crc="b1fce765" md5="1fd4847ac4cfcfc6580806ee5f5249b3" sha1="d12c15d4b3f060a595599dec5f67005e134a457a"/>
+	</game>
+	<game name="SYS Diskett #20 (199x)(SYS PD)">
+		<description>SYS Diskett #20 (199x)(SYS PD)</description>
+		<rom name="1!SYS Diskett #20 (199x)(SYS PD).z64" size="28899" crc="97a2ede7" md5="8a2b5361f52edb03b505669afdfc11c2" sha1="56592bf0db447d4903159e43784b41c1cdd69f6c"/>
+		<rom name="2!SYS Diskett #20 (199x)(SYS PD).z64" size="40833" crc="f6389e22" md5="6ac6b350c2f23dea8c164899f3d46407" sha1="4d2d406eb4699c9c6669698f871244aaed9aefb4"/>
+		<rom name="3!SYS Diskett #20 (199x)(SYS PD).z64" size="35201" crc="acafb2ea" md5="7dbc94d5c4dc8fac44542f39fb62bc35" sha1="15a71d5a1e5f56a555078804df38d49238b30a2b"/>
+		<rom name="4!SYS Diskett #20 (199x)(SYS PD).z64" size="41000" crc="2347d02f" md5="2fe3df72ed4bac6dbcf685b678c64d3b" sha1="0db5f0484c163654de730806e283d1218f8ddda6"/>
+	</game>
+	<game name="SYS Diskett #21 (199x)(SYS PD)">
+		<description>SYS Diskett #21 (199x)(SYS PD)</description>
+		<rom name="1!SYS Diskett #21 (199x)(SYS PD).z64" size="37233" crc="286f3954" md5="3d0375df89cd4bd7880e31b36bbe7707" sha1="626ab8b5c11e62fc7cb7635d8ea56ef18150a8ae"/>
+		<rom name="2!SYS Diskett #21 (199x)(SYS PD).z64" size="42427" crc="55012575" md5="f3a37c995891b3203b2444042306352e" sha1="222e6df3175201452dc4a22c12553db8171bb1bd"/>
+		<rom name="3!SYS Diskett #21 (199x)(SYS PD).z64" size="38818" crc="4c32122a" md5="2474edc8c73a3c408eb74cfbda9df3aa" sha1="d2d238fa93c175348923931456573a98501ec9ce"/>
+		<rom name="4!SYS Diskett #21 (199x)(SYS PD).z64" size="24725" crc="d96b0133" md5="b899a9b180974d26aaa47eed9b066352" sha1="5c9295e2b82546a856640f96f81c87577c415888"/>
+	</game>
+	<game name="SYS Diskett #22 (199x)(SYS PD)">
+		<description>SYS Diskett #22 (199x)(SYS PD)</description>
+		<rom name="1!SYS Diskett #22 (199x)(SYS PD).z64" size="37575" crc="e40f4898" md5="9909354918e93b1958d957b9c1139bec" sha1="7f32b18b88e861e1e16e52c10bffe94307e2157a"/>
+		<rom name="2!SYS Diskett #22 (199x)(SYS PD).z64" size="42656" crc="021c5f9f" md5="fcf2eaa84f4dd5cef271eb6ee8eb979e" sha1="b2ef33db9486e02a9566db3b6ec18ca62c433d50"/>
+		<rom name="3!SYS Diskett #22 (199x)(SYS PD).z64" size="18585" crc="36d7dc00" md5="07de162b37a987d7ac1a8e60f9e41ffc" sha1="3fc4b966f7612705ff97260b46d19fb83eeca9aa"/>
+		<rom name="4!SYS Diskett #22 (199x)(SYS PD).z64" size="1408" crc="95529612" md5="9a16450d1c6422b364bcaadd14780fc2" sha1="1271aa4cc04e22a11fec5462239a093660f43d65"/>
+	</game>
+	<game name="SYS Diskett #24 (199x)(SYS PD)">
+		<description>SYS Diskett #24 (199x)(SYS PD)</description>
+		<rom name="1!SYS Diskett #24 (199x)(SYS PD).z64" size="36203" crc="46ec861c" md5="e11555abafb25cf31ed50e002adee81c" sha1="21c17681be8e430907831c5e30d0d9cb49c2f38a"/>
+		<rom name="2!SYS Diskett #24 (199x)(SYS PD).z64" size="41580" crc="f74b601c" md5="401cba2a12d9494f8331996617a7cc82" sha1="3690e49e069e5f3b67e32b97855a2fc4ec962fd6"/>
+		<rom name="3!SYS Diskett #24 (199x)(SYS PD).z64" size="30697" crc="35eae42b" md5="43c6fe89edf616192b238ac0066a4919" sha1="df9fd889ade35dd7fecbe5d8e3084d1e2737e491"/>
+		<rom name="4!SYS Diskett #24 (199x)(SYS PD).z64" size="1448" crc="c3ffdf54" md5="d9d8303c54d8b61408a98f3e1208aa52" sha1="8f46acdef34b027cb5fcce43b0c1e31d60b967f0"/>
+	</game>
+	<game name="SYS Diskett #25 (199x)(SYS PD)">
+		<description>SYS Diskett #25 (199x)(SYS PD)</description>
+		<rom name="1!SYS Diskett #25 (199x)(SYS PD).z64" size="42897" crc="6e153550" md5="a8918260d2df4c274e6aac0abf21b735" sha1="224f2df7ced81966d5d5d0697448460553f4e4fa"/>
+		<rom name="2!SYS Diskett #25 (199x)(SYS PD).z64" size="40411" crc="5236065d" md5="2ce2ef4599412019daf0d24a3b525b55" sha1="b6be365c343a667659250d1e4cfc1db6c12b26eb"/>
+		<rom name="3!SYS Diskett #25 (199x)(SYS PD).z64" size="37207" crc="cd44720c" md5="3b28cf0e6d3e35b18a6a569a82bca45f" sha1="d0d7a3c9ceffe1db170b86dc5199d299c05e2277"/>
+		<rom name="4!SYS Diskett #25 (199x)(SYS PD).z64" size="44892" crc="daaee7d0" md5="2b1a48b210916f0dcf375dd0d845a47d" sha1="a3c8bb0ce7bcffad9e91480072ed52a900905a00"/>
+	</game>
+	<game name="SYS Diskett #26 (199x)(SYS PD)">
+		<description>SYS Diskett #26 (199x)(SYS PD)</description>
+		<rom name="1!SYS Diskett #26 (199x)(SYS PD).z64" size="43348" crc="bca29665" md5="3e1e2c3b430eb758b1f5f322fceb370a" sha1="0964f85c03c0eb358ed4ec745efd5fb7654f68fe"/>
+		<rom name="2!SYS Diskett #26 (199x)(SYS PD).z64" size="39872" crc="9076ce63" md5="dca5beb133927459b415f5570ad73c9a" sha1="a1389812ee4890696b0d4f79546e660481f92252"/>
+		<rom name="3!SYS Diskett #26 (199x)(SYS PD).z64" size="28661" crc="8b21eb90" md5="bc716b5e4c57df419475c3bb9def0900" sha1="e33fa1f175234fd9e3350492f8bb6bce94852743"/>
+		<rom name="4!SYS Diskett #26 (199x)(SYS PD).z64" size="1408" crc="0f990899" md5="a50706617d7d0980520c58cc4ee194f0" sha1="d987245a511c32dd555a7d21636f5495f50727ba"/>
+	</game>
+	<game name="SYS Diskett #27 (199x)(SYS PD)">
+		<description>SYS Diskett #27 (199x)(SYS PD)</description>
+		<rom name="1!SYS Diskett #27 (199x)(SYS PD).z64" size="42078" crc="aaa96f57" md5="91eb92146838d5a06c58d0e1f20ed62d" sha1="ee47d1cda19340993a101475f4b44e6b7b8ec947"/>
+		<rom name="2!SYS Diskett #27 (199x)(SYS PD).z64" size="43323" crc="c9ef7f6a" md5="1b654c308530170f4aacbfd4a12eccf8" sha1="11ef4fff4d05dd6511237dc984ca8fe8726d9fb8"/>
+		<rom name="3!SYS Diskett #27 (199x)(SYS PD).z64" size="38748" crc="83f21ba4" md5="2cdbb1fe22e54266f82637ac3b03df54" sha1="e8109c1f709f4a117b81de74e7b9d07815628700"/>
+		<rom name="4!SYS Diskett #27 (199x)(SYS PD).z64" size="33634" crc="562eac66" md5="2e1ceda819c24130a6d706fad471b819" sha1="d89717fd787965de8e485e643d939414226f0f3c"/>
+	</game>
+	<game name="SYS Diskett #28 (199x)(SYS PD)">
+		<description>SYS Diskett #28 (199x)(SYS PD)</description>
+		<rom name="1!SYS Diskett #28 (199x)(SYS PD).z64" size="42569" crc="2b06be53" md5="119ec1269de46e9707c20f5ec31cb0ba" sha1="34104a25c38eb4acb2874b2b6750cf31c9afcb0b"/>
+		<rom name="2!SYS Diskett #28 (199x)(SYS PD).z64" size="42709" crc="641b04c1" md5="1c69c97cc14be6d515a23de420443255" sha1="15602f181772263ed331a922f58dff1b3e990ff2"/>
+		<rom name="3!SYS Diskett #28 (199x)(SYS PD).z64" size="21350" crc="ee7bfd3c" md5="e92182e4bdc369d0a4182ed57adcafee" sha1="36f8112af66bc458f69b3cda4fce4058319cb562"/>
+		<rom name="4!SYS Diskett #28 (199x)(SYS PD).z64" size="1408" crc="7e15aa30" md5="46460aaf4c278a4cd035ac01e01d61be" sha1="22a23de63198dabdf31fd2ee91922c1b6cf2619f"/>
+	</game>
+	<game name="SYS Diskett #29 (199x)(SYS PD)">
+		<description>SYS Diskett #29 (199x)(SYS PD)</description>
+		<rom name="1!SYS Diskett #29 (199x)(SYS PD).z64" size="42924" crc="b42e1ec9" md5="61461f812662569d6906044f06dc1bb9" sha1="4de63ca4405ec781ffdfa17731b4e065d2b324c9"/>
+		<rom name="2!SYS Diskett #29 (199x)(SYS PD).z64" size="40991" crc="64adccee" md5="da38f0a077f76c809a42f2f79be54d29" sha1="495ab690f517075647a1f69fae7d123e374230a4"/>
+		<rom name="3!SYS Diskett #29 (199x)(SYS PD).z64" size="38199" crc="063b52c7" md5="a3f843b33ccf1a82c2104cb281e817bb" sha1="3f5fbcd3c1a07d580a17e6b6f7e97a66687a52de"/>
+		<rom name="4!SYS Diskett #29 (199x)(SYS PD).z64" size="37349" crc="6a2d316a" md5="442ed7998ce022b74e79b49299273a2b" sha1="38bf59bf5f438ca0c8270e6b5b43d345a4af4095"/>
+	</game>
+	<game name="SYS Diskett #30 (199x)(SYS PD)">
+		<description>SYS Diskett #30 (199x)(SYS PD)</description>
+		<rom name="1!SYS Diskett #30 (199x)(SYS PD).z64" size="37133" crc="08b5f815" md5="7c417e8b544b9cec987d4ac9d28f3177" sha1="36c7c32c148114f611bf77edc8d1c7cffb846078"/>
+		<rom name="2!SYS Diskett #30 (199x)(SYS PD).z64" size="42095" crc="ccb2e1ab" md5="41030c51a81a47ef4f5eba27a29232a1" sha1="1fcdc571cef31347187532eab8b017ca269c0180"/>
+		<rom name="3!SYS Diskett #30 (199x)(SYS PD).z64" size="35716" crc="45df36e2" md5="8a6ef1c5ce7d391183e8dd64a87c6885" sha1="3506fbe7c3a349f6300a664a203e6a54c6e5c116"/>
+		<rom name="4!SYS Diskett #30 (199x)(SYS PD).z64" size="30742" crc="24040b25" md5="374914334a42f08c690ed788c6c414cb" sha1="f9770a2fb4c0a82d2f237536ea51f9a7c69a27ce"/>
+	</game>
+	<game name="SYS Diskett #31 (199x)(SYS PD)">
+		<description>SYS Diskett #31 (199x)(SYS PD)</description>
+		<rom name="1!SYS Diskett #31 (199x)(SYS PD).z64" size="35227" crc="40fac368" md5="b9a4f7087ca7df13f11956f7535b59c0" sha1="b53e860557890bf3d00a5e85b4bc8d67a4e5fa07"/>
+		<rom name="2!SYS Diskett #31 (199x)(SYS PD).z64" size="35422" crc="1453873d" md5="bdbb25f7ba2345a62ada1d719c8a45f6" sha1="464087bcbf6bd1c3e59f983a8d10f20708e1ccb7"/>
+		<rom name="3!SYS Diskett #31 (199x)(SYS PD).z64" size="36380" crc="3640db56" md5="4d77b0cdb955e6c3109396af325382bd" sha1="2dfc1a409b6cb27b9d99ce900667d1ecd65a0023"/>
+		<rom name="4!SYS Diskett #31 (199x)(SYS PD).z64" size="32005" crc="93afe218" md5="f1e59865f381065bcf4a960066e24e67" sha1="5aee8daf381037b3ab0a3098858496211c295fe2"/>
+	</game>
+	<game name="SYS Diskett #32 (199x)(SYS PD)">
+		<description>SYS Diskett #32 (199x)(SYS PD)</description>
+		<rom name="1!SYS Diskett #32 (199x)(SYS PD).z64" size="40832" crc="2223f16e" md5="4b1d03640bd012fa314e90d7d5efca4d" sha1="f72a5eb173e91f7e9dc8a19d3157a3af3ecaa5da"/>
+		<rom name="2!SYS Diskett #32 (199x)(SYS PD).z64" size="36129" crc="9e87f740" md5="11fb053270f05ba7db2efb0acdd5ce6e" sha1="6e0681d8c321ddf5a7c1ce3843cf98c0baa6a9ff"/>
+		<rom name="3!SYS Diskett #32 (199x)(SYS PD).z64" size="38761" crc="2dd43e4c" md5="5bccf0dfff6498b46830e51f3add3c00" sha1="5e1f748bcc20f05b2e75497aa2fb1f48c15786cc"/>
+		<rom name="4!SYS Diskett #32 (199x)(SYS PD).z64" size="39104" crc="bad1a16d" md5="26c8ef8059fb535e42df74a107aa4878" sha1="cb11a3438b92071aeca0fccd1c1e9e84a024ba0b"/>
+	</game>
+	<game name="SYS Diskett #33 (199x)(SYS PD)">
+		<description>SYS Diskett #33 (199x)(SYS PD)</description>
+		<rom name="1!SYS Diskett #33 (199x)(SYS PD).z64" size="41848" crc="29d5468f" md5="d90a7a3fc595c6269e5b4295178bb113" sha1="4f1984c277dbfef4b7a5257a6b9d896fd944dfbd"/>
+		<rom name="2!SYS Diskett #33 (199x)(SYS PD).z64" size="41782" crc="e01acec8" md5="3c17bf36fb427580d3d615edfa3df3fb" sha1="0ba8e21ea912d0b174a624ad93c7222306e1eb9a"/>
+		<rom name="3!SYS Diskett #33 (199x)(SYS PD).z64" size="31219" crc="4bc953cb" md5="a3d79b497e5240040c15242d4176eba0" sha1="d92c6249edd16859c57513ba99b2d9ef6a68f63c"/>
+		<rom name="4!SYS Diskett #33 (199x)(SYS PD).z64" size="1402" crc="4aa444c9" md5="59054bde2f6f1a63badc78285627d0e8" sha1="1ec3ac750faa4b7894b17a86125539fe077e8f25"/>
+	</game>
+	<game name="SYS Diskett #34 (199x)(SYS PD)">
+		<description>SYS Diskett #34 (199x)(SYS PD)</description>
+		<rom name="1!SYS Diskett #34 (199x)(SYS PD).z64" size="40175" crc="311df733" md5="73975161099fa0f88e08c9d3f9b6e14e" sha1="a39da33349d2a011bcc3a822dd4c99008e182f51"/>
+		<rom name="2!SYS Diskett #34 (199x)(SYS PD).z64" size="36861" crc="c1f3668e" md5="21c76c35b5015e393319e257fd36a307" sha1="3894c335ff2d160369d92cd7543ac192b0fa9ab7"/>
+		<rom name="3!SYS Diskett #34 (199x)(SYS PD).z64" size="38437" crc="49a14ea9" md5="f52c58b094e1fb4f5812b2b59b7a8d1e" sha1="ff067dae41b507694da3469f0e86d14baf2862e8"/>
+		<rom name="4!SYS Diskett #34 (199x)(SYS PD).z64" size="42708" crc="35db59a8" md5="43c566f1b56d03657389253ecd69f788" sha1="c1bfc578501b3b1c65135d698b9dbf6948b5e240"/>
+	</game>
+	<game name="SYS Diskett #35 (199x)(SYS PD)">
+		<description>SYS Diskett #35 (199x)(SYS PD)</description>
+		<rom name="1!SYS Diskett #35 (199x)(SYS PD).z64" size="37582" crc="5693ce78" md5="abb56d966a10d733db7f9608127bfdb0" sha1="ab49fbeafd18c18497b336286d1f463ce15ddc26"/>
+		<rom name="2!SYS Diskett #35 (199x)(SYS PD).z64" size="43024" crc="c3e91f6b" md5="6c7878c4f534a927555824ce735aa7ec" sha1="0d7d1c8c6d510d1b4ca449d6c66d14c624b4dd48"/>
+		<rom name="3!SYS Diskett #35 (199x)(SYS PD).z64" size="39834" crc="eb900db5" md5="700d2e81aa8511cc4545497eff51f395" sha1="a9c552adb916f74aabc4e86e5ee9970c655e4bfe"/>
+		<rom name="4!SYS Diskett #35 (199x)(SYS PD).z64" size="6392" crc="d16a3e86" md5="8e96812e40a03146ae73401fd87aaf9d" sha1="0c701c59e3d63b4407d43907a28211e3c79f17f6"/>
+	</game>
+	<game name="SYS Diskett #36 (199x)(SYS PD)">
+		<description>SYS Diskett #36 (199x)(SYS PD)</description>
+		<rom name="1!SYS Diskett #36 (199x)(SYS PD).z64" size="39421" crc="8d235812" md5="27c74d459235b3ade33574e0eb01f2a1" sha1="9a84d2186fdeac9874dac4036b9da65ea101613d"/>
+		<rom name="2!SYS Diskett #36 (199x)(SYS PD).z64" size="43252" crc="8b6e8aa5" md5="cc3765c6a208760f85ed568815e0729c" sha1="3b4ea125c72b1839542641b7b8927734c67415cd"/>
+		<rom name="3!SYS Diskett #36 (199x)(SYS PD).z64" size="39212" crc="6785361c" md5="b10a608c401f13c26dbb4338d90998d6" sha1="8a29ee5de9449633271cbeae35b137fb058d1fc8"/>
+		<rom name="4!SYS Diskett #36 (199x)(SYS PD).z64" size="1408" crc="95529612" md5="9a16450d1c6422b364bcaadd14780fc2" sha1="1271aa4cc04e22a11fec5462239a093660f43d65"/>
+	</game>
+	<game name="SYS Diskett #37 (199x)(SYS PD)">
+		<description>SYS Diskett #37 (199x)(SYS PD)</description>
+		<rom name="1!SYS Diskett #37 (199x)(SYS PD).z64" size="43280" crc="7fcfac17" md5="ff97458e7409ea7eef91930bcd96e21e" sha1="f77180e26b2f39be4fe112ad050b9dc82334322d"/>
+		<rom name="2!SYS Diskett #37 (199x)(SYS PD).z64" size="42801" crc="2726b964" md5="c30cd2c8e5e3dccf1dca1f6ec76865dd" sha1="cea5b61b9d1d4c161d1445c9117d3f3abcdd5e7c"/>
+		<rom name="3!SYS Diskett #37 (199x)(SYS PD).z64" size="14890" crc="37c461fc" md5="1d214fd094a956ec98038125927c30d0" sha1="2e4d8e0faf0c33ad3251f9336c61ac51b0e1def2"/>
+		<rom name="4!SYS Diskett #37 (199x)(SYS PD).z64" size="1448" crc="c3ffdf54" md5="d9d8303c54d8b61408a98f3e1208aa52" sha1="8f46acdef34b027cb5fcce43b0c1e31d60b967f0"/>
+	</game>
+	<game name="SYS Diskett #38 (199x)(SYS PD)">
+		<description>SYS Diskett #38 (199x)(SYS PD)</description>
+		<rom name="1!SYS Diskett #38 (199x)(SYS PD).z64" size="43177" crc="c4073320" md5="ae2fd495308cd4f42faf643786424368" sha1="f08db22be3cf086a3e53c01849a7412d2e8e5f30"/>
+		<rom name="2!SYS Diskett #38 (199x)(SYS PD).z64" size="42432" crc="3688f2f1" md5="028b31c4a9585047a3b270c0db902d3b" sha1="4338263deda85eabfbb384c6f8d9bb5597d9165c"/>
+		<rom name="3!SYS Diskett #38 (199x)(SYS PD).z64" size="38632" crc="2ce7748b" md5="cce0851a370da43256ffa0033e1f4c2c" sha1="e9240ec51f01ce94c4505bd188426c14f861b5a5"/>
+		<rom name="4!SYS Diskett #38 (199x)(SYS PD).z64" size="43978" crc="ac7ba0c7" md5="b67f96e36321e99c07d02e95d50c3831" sha1="380fe4249f3dd133e6221dd4308753ead16ce425"/>
+	</game>
+	<game name="SYS Diskett #39 (199x)(SYS PD)">
+		<description>SYS Diskett #39 (199x)(SYS PD)</description>
+		<rom name="1!SYS Diskett #39 (199x)(SYS PD).z64" size="41474" crc="18e58887" md5="77a27cb32c596f7d32a39fcf0fb58247" sha1="b797705bc2f114c6202a37e2ffdc70c094f7dd50"/>
+		<rom name="2!SYS Diskett #39 (199x)(SYS PD).z64" size="42297" crc="022d2d07" md5="11a84883bf96950ee92955d5b94cc8d6" sha1="84579404f88935ad4d4b112c0c8f723f7ee5f250"/>
+		<rom name="3!SYS Diskett #39 (199x)(SYS PD).z64" size="39235" crc="5358a430" md5="8aeec62256d278b3a109b08f115eef3a" sha1="11f52e56bdddb36b299e9b002673782f90788ae8"/>
+		<rom name="4!SYS Diskett #39 (199x)(SYS PD).z64" size="35084" crc="908b781a" md5="1be504ab49daa68d950f7d0ccf260d99" sha1="b84402039359183a71b4065db02a705d5934815b"/>
+	</game>
+	<game name="SYS Diskett #40 (199x)(SYS PD)">
+		<description>SYS Diskett #40 (199x)(SYS PD)</description>
+		<rom name="1!SYS Diskett #40 (199x)(SYS PD).z64" size="43348" crc="7c7974c0" md5="0b1e127aab872deb4b6d13dd42f91927" sha1="cb8874ca3c7529c319e8f9adb6575df52d75761f"/>
+		<rom name="2!SYS Diskett #40 (199x)(SYS PD).z64" size="43029" crc="6f3eb8d8" md5="27e06b3f9fb1135c3c9faba8502127e2" sha1="fc9300e10d3a507a5077739dd26fc0fb62785227"/>
+		<rom name="3!SYS Diskett #40 (199x)(SYS PD).z64" size="40116" crc="72749098" md5="897343438a5d5870d4353deb50aee650" sha1="b79b5f8cc7c51195830a8aca31d91ce5eea7faea"/>
+		<rom name="4!SYS Diskett #40 (199x)(SYS PD).z64" size="38768" crc="94c4cf0e" md5="130546654c756a587fb0b4f6d18ff93c" sha1="7bf3d406832158a1eccf81a5c2e8234acd5bd68a"/>
+	</game>
+	<game name="SYS Diskett #41 (199x)(SYS PD)">
+		<description>SYS Diskett #41 (199x)(SYS PD)</description>
+		<rom name="1!SYS Diskett #41 (199x)(SYS PD).z64" size="42778" crc="f5f471f3" md5="6f1f585aa5137d2d34a51799e2749db5" sha1="4216026ff0e3cc8a823332ae67b7fe1970e86d3b"/>
+		<rom name="2!SYS Diskett #41 (199x)(SYS PD).z64" size="43260" crc="8741a312" md5="9f7565b43ec18d5a1e0a90df1a959cb2" sha1="570b2ac98df926a87a8867fab009fda0400afacc"/>
+		<rom name="3!SYS Diskett #41 (199x)(SYS PD).z64" size="40466" crc="f4e81149" md5="11d7e85a3c20aced3fbaa87f8c95d18a" sha1="9a0daca3dcfdfaccb825adf95b8c04343edef393"/>
+		<rom name="4!SYS Diskett #41 (199x)(SYS PD).z64" size="43172" crc="c2a3aeac" md5="4a297a7fe93deb84e24d14c250fd5685" sha1="ebe86aabc5d7059c901b5fd355b69d362ffafa2d"/>
+	</game>
+	<game name="SYS Diskett #42 (199x)(SYS PD)">
+		<description>SYS Diskett #42 (199x)(SYS PD)</description>
+		<rom name="1!SYS Diskett #42 (199x)(SYS PD).z64" size="43344" crc="1d2c4e81" md5="823882abf955b1ed9095d165d689f6b9" sha1="75ec6508849687b896b9fd3600929ec96e89bb63"/>
+		<rom name="2!SYS Diskett #42 (199x)(SYS PD).z64" size="43339" crc="f5cffb1a" md5="e1023d033d6ffbfe5b40b1a5c6bf0bce" sha1="16e4f291d779ed1d0738f2cfd5e9afffe60117d5"/>
+		<rom name="3!SYS Diskett #42 (199x)(SYS PD).z64" size="39894" crc="4aeae846" md5="9c81bdd9ec1abca59a8a6c9b645efce0" sha1="69f2636ffc66ac49e9fe71ff0dca143deeecf5eb"/>
+		<rom name="4!SYS Diskett #42 (199x)(SYS PD).z64" size="43755" crc="476c1a62" md5="bac3ae10a69f0306346fa90c339ad7d3" sha1="73716a01c2b72b76a7bb04fb036f36555142609f"/>
+	</game>
+	<game name="SYS Diskett #43 (199x)(SYS PD)">
+		<description>SYS Diskett #43 (199x)(SYS PD)</description>
+		<rom name="1!SYS Diskett #43 (199x)(SYS PD).z64" size="34307" crc="58d3126f" md5="31fba750a420176eb8efe9491ec5121a" sha1="e656cbc174cfbec39651a8169ceecd418a5b1917"/>
+		<rom name="2!SYS Diskett #43 (199x)(SYS PD).z64" size="43346" crc="97d4ed65" md5="acb0ec25ce6e2dc076ab9c6b10ae3dc1" sha1="a41a4665c02d5f43d9249f3aec490b2162be6df0"/>
+		<rom name="3!SYS Diskett #43 (199x)(SYS PD).z64" size="39365" crc="d048d47e" md5="f850eb678e1690a07bb39535779ab08c" sha1="1fd5e895974b3ec5bbf71d5068664469e08fad1d"/>
+		<rom name="4!SYS Diskett #43 (199x)(SYS PD).z64" size="28684" crc="97fedd4c" md5="2d9910b43e3497119da20c549d348404" sha1="c95c320344eec4c065e8774d21ae2afc00713a1d"/>
+	</game>
+	<game name="SYS Diskett #44 (199x)(SYS PD)">
+		<description>SYS Diskett #44 (199x)(SYS PD)</description>
+		<rom name="1!SYS Diskett #44 (199x)(SYS PD).z64" size="36354" crc="02df3a03" md5="eff1adea7130b2dec173231c9adbc466" sha1="d38dc7d6023afe278768b67850efe35ae3e04b56"/>
+		<rom name="2!SYS Diskett #44 (199x)(SYS PD).z64" size="42719" crc="5191eb10" md5="221c152f795d410974105a870c400916" sha1="8190446a3618847bcd402ab48c90b674956f27a7"/>
+		<rom name="3!SYS Diskett #44 (199x)(SYS PD).z64" size="37240" crc="8afaedbb" md5="9e207ee7781f97265ddc86729548a939" sha1="052c86611a8a848f20ee578b3fd90ff99f92b87d"/>
+		<rom name="4!SYS Diskett #44 (199x)(SYS PD).z64" size="38528" crc="4ceb26b0" md5="3b75b438dd9edcf4c44da263fa027459" sha1="693ca04d77f1e3f6872e2830a10551ed5030c0f4"/>
+	</game>
+	<game name="SYS Diskett #45 (199x)(SYS PD)">
+		<description>SYS Diskett #45 (199x)(SYS PD)</description>
+		<rom name="1!SYS Diskett #45 (199x)(SYS PD).z64" size="43107" crc="65b60b52" md5="34e8e33fb23fadfd24cece1fd5b0e51d" sha1="944f4ce5d949b1ad7e8ace58ea77ff8eea091851"/>
+		<rom name="2!SYS Diskett #45 (199x)(SYS PD).z64" size="43211" crc="9d6568a5" md5="972cdedf51ef68d7b5f5311a220fd711" sha1="33ce5636c0e963f912ada116af36a9dd0cd97556"/>
+		<rom name="3!SYS Diskett #45 (199x)(SYS PD).z64" size="43577" crc="89919544" md5="6f489f395d53f73cc4db1095cebf9fa4" sha1="5d585df3a54f1f4da79980516187a103b74bd052"/>
+		<rom name="4!SYS Diskett #45 (199x)(SYS PD).z64" size="41238" crc="d1aec19e" md5="ad8c24c3bb934ede5852b526ed2e2485" sha1="d83551b55558dfb57f577ed4341c98b4429f3a7b"/>
+	</game>
+	<game name="SYS Diskett #46 (199x)(SYS PD)">
+		<description>SYS Diskett #46 (199x)(SYS PD)</description>
+		<rom name="1!SYS Diskett #46 (199x)(SYS PD).z64" size="31654" crc="7332b328" md5="5661f514ae90fdbd3d492d725d74ebb7" sha1="dbc9a012059ed6035e8c459b9df07890f5e1a28b"/>
+		<rom name="2!SYS Diskett #46 (199x)(SYS PD).z64" size="42278" crc="7762466b" md5="2f6cc90e90970c359bff10fc637f3bb1" sha1="ffd0d4091cf8da3e9b2bc254f0b7d2c0f27836c0"/>
+		<rom name="3!SYS Diskett #46 (199x)(SYS PD).z64" size="39463" crc="f805fa32" md5="fc3a06daf22aba42fc22f24ca9aa4f1c" sha1="ea875fa7357184db1890309499be10d5b45aed0b"/>
+		<rom name="4!SYS Diskett #46 (199x)(SYS PD).z64" size="34253" crc="ea084f9c" md5="28730ce9a832cffd384156957ed6d942" sha1="af0b9f2b3798a1ab43c4a1f0bc024f1595184861"/>
+	</game>
+	<game name="SYS Diskett #47 (199x)(SYS PD)">
+		<description>SYS Diskett #47 (199x)(SYS PD)</description>
+		<rom name="1!SYS Diskett #47 (199x)(SYS PD).z64" size="37872" crc="ae4e05fa" md5="741faede2e78d8760aa76d41a571ceae" sha1="27bfd4127847addcbf41dd333a3a296a85c112e4"/>
+		<rom name="2!SYS Diskett #47 (199x)(SYS PD).z64" size="42793" crc="55973955" md5="3078528629871bd377f02a1d1174b79f" sha1="9baff314bcd5dabe07cbc403d19a1e1b649fa8d0"/>
+		<rom name="3!SYS Diskett #47 (199x)(SYS PD).z64" size="40269" crc="48c72bdb" md5="97799aac7088d0b9621cb9fd907e0c52" sha1="b6929d953ee730fd88ff255ea34d9a16977e8d7c"/>
+		<rom name="4!SYS Diskett #47 (199x)(SYS PD).z64" size="40264" crc="e02b8d03" md5="cd87a8134559efe64dcc520362b4ea67" sha1="5e84cb6ca90f4b88bafca7fdbfdc9f0f1c63b6d7"/>
+	</game>
+	<game name="SYS Diskett #48 (199x)(SYS PD)">
+		<description>SYS Diskett #48 (199x)(SYS PD)</description>
+		<rom name="1!SYS Diskett #48 (199x)(SYS PD).z64" size="42744" crc="eb74377f" md5="f6532d7985f2fbf61610339a366025d6" sha1="ec88f9b4fc6504de267a3b27570da8452422f238"/>
+		<rom name="2!SYS Diskett #48 (199x)(SYS PD).z64" size="42454" crc="44872929" md5="438541c68bd1f6c0757244225a6c0af6" sha1="d8d5c71d127e4cd9b8476f733381de94bb2c9972"/>
+		<rom name="3!SYS Diskett #48 (199x)(SYS PD).z64" size="39742" crc="234ab8d5" md5="a3e287247658afd3d43c1f61b6ae082b" sha1="962b62536fb0032fa49cdab0ce6eae39ed00fc86"/>
+		<rom name="4!SYS Diskett #48 (199x)(SYS PD).z64" size="17407" crc="982fdf49" md5="ab256463bca0d12b42470eaf6d05abc9" sha1="d51453a95b68ae28b51ffa9f225a990e64fdd9dd"/>
+	</game>
+	<game name="SYS Diskett #49 (199x)(SYS PD)">
+		<description>SYS Diskett #49 (199x)(SYS PD)</description>
+		<rom name="1!SYS Diskett #49 (199x)(SYS PD).z64" size="42022" crc="3e7d17c6" md5="0abbc81bf208b5a4127127af992ffba4" sha1="29900f46295e7bc4cb847c040add902cc8b1807f"/>
+		<rom name="2!SYS Diskett #49 (199x)(SYS PD).z64" size="43059" crc="f0e4a9c6" md5="65247124ee8f12b25a37780755a354d9" sha1="47a9840ab8f4ad0c4da6dc5ee70524688639bfc4"/>
+		<rom name="3!SYS Diskett #49 (199x)(SYS PD).z64" size="38541" crc="245bc0c9" md5="42447ccaf27d65166d86eabcf288680a" sha1="dbf92ed540d3b7df924b4e103573e81b2070126b"/>
+		<rom name="4!SYS Diskett #49 (199x)(SYS PD).z64" size="41205" crc="c909070b" md5="c630307f9c3c36cd381b1cedf7608f71" sha1="849cdf1ce80887ca641e23456ba7b3880b12d276"/>
+	</game>
+</datafile>

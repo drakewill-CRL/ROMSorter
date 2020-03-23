@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sanyo MBC-550 &amp; 555 - Compilations - Games - [IMA]</name>
+		<description>Sanyo MBC-550 &amp; 555 - Compilations - Games - [IMA] (TOSEC-v2018-11-15)</description>
+		<category>TOSEC</category>
+		<version>2018-11-15</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Basic Games (19xx)(-)">
+		<description>Basic Games (19xx)(-)</description>
+		<rom name="Basic Games (19xx)(-).ima" size="368640" crc="e076efa4" md5="7201391cd177579d5972e9b5e33bcbca" sha1="a9fd7dcae96aca09206a4a8529e50cdb191739ba"/>
+	</game>
+</datafile>

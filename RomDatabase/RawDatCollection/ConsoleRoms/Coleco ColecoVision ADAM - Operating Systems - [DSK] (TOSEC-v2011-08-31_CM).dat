@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Coleco ColecoVision ADAM - Operating Systems - [DSK]</name>
+		<description>Coleco ColecoVision ADAM - Operating Systems - [DSK] (TOSEC-v2011-08-31)</description>
+		<category>TOSEC</category>
+		<version>2011-08-31</version>
+		<author>Grendel - Cid - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="CP-M 2.2 v1.50 (1984)(Digital Research - Coleco)">
+		<description>CP-M 2.2 v1.50 (1984)(Digital Research - Coleco)</description>
+		<rom name="CP-M 2.2 v1.50 (1984)(Digital Research - Coleco).dsk" size="163840" crc="ef284baf" md5="f3a9da6675079990dbcb5a5ca6d11c42" sha1="4d2082b324000c8dd0424767c7db22d646080b75"/>
+	</game>
+	<game name="CP-M 2.2 v1.50 (1984)(Digital Research - Coleco)[a]">
+		<description>CP-M 2.2 v1.50 (1984)(Digital Research - Coleco)[a]</description>
+		<rom name="CP-M 2.2 v1.50 (1984)(Digital Research - Coleco)[a].dsk" size="163840" crc="da81665c" md5="7e07c7033ec3fc34f473e43beeec9498" sha1="594c80a96091ae724feb0ef25018c01de86b5575"/>
+	</game>
+	<game name="TDOS CPM 2.2 System (19xx)(-)[720k Disk]">
+		<description>TDOS CPM 2.2 System (19xx)(-)[720k Disk]</description>
+		<rom name="TDOS CPM 2.2 System (19xx)(-)[720k Disk].dsk" size="1474560" crc="cf5cb6dd" md5="581d36f4f2482b102e9323bb954f927e" sha1="99600747a4e0e4677c5a4e85c470bd7cfbb594af"/>
+	</game>
+	<game name="TDOS v4.5 (19xx)(-)">
+		<description>TDOS v4.5 (19xx)(-)</description>
+		<rom name="TDOS v4.5 (19xx)(-).dsk" size="163840" crc="6060a2d4" md5="e5eef9cee826992eb8ed1277fd29fdb5" sha1="440bbcbf52f0d6cfe395694bdbeffb227984db0e"/>
+	</game>
+	<game name="TDOS v4.5 Docs (19xx)(-)">
+		<description>TDOS v4.5 Docs (19xx)(-)</description>
+		<rom name="TDOS v4.5 Docs (19xx)(-).dsk" size="163840" crc="68ead706" md5="648aa95007c8ef0a96269cfd826c685f" sha1="4e12b345f67adbfc45d9a2060544296d7ebfa77f"/>
+	</game>
+	<game name="TDOS v4.58 (19xx)(-)">
+		<description>TDOS v4.58 (19xx)(-)</description>
+		<rom name="TDOS v4.58 (19xx)(-).dsk" size="163840" crc="68fe0d06" md5="95960fc3c1fe79f56fca5c7eb779e323" sha1="242ff2b827c10548545420d5c2f7b4e3b1c3810c"/>
+	</game>
+</datafile>

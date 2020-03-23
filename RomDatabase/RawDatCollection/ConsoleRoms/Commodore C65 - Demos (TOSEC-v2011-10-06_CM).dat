@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C65 - Demos</name>
+		<description>Commodore C65 - Demos (TOSEC-v2011-10-06)</description>
+		<category>TOSEC</category>
+		<version>2011-10-06</version>
+		<author>DesertWolf - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="BMD Slideshow (19xx)(-)">
+		<description>BMD Slideshow (19xx)(-)</description>
+		<rom name="bm2bp" size="768" crc="14ff3900" md5="91b678d481232bcb841302c28b6132d4" sha1="0230be06ea14feefccd7d0401755f33304c86285"/>
+		<rom name="bmd1" size="16512" crc="1061713f" md5="bc7fa5f821a2db14f3f89381897c0984" sha1="c3f839d48182bff40caf7e853b7bf480d0ea478e"/>
+		<rom name="bmd2" size="16512" crc="e743c171" md5="bfb9c436733d9c14798525672d475f9d" sha1="15c3b1619e333971ec097e3b0da0e153ecc718d6"/>
+		<rom name="bmd3" size="16512" crc="3db6d0a2" md5="acec2d6115c4cec89986a42ed89a90bb" sha1="f772f9e78158bfdb9eda2aca5dbf0000c57b6ae1"/>
+		<rom name="bmd4" size="16512" crc="6cdf91a2" md5="c18149fe08ebd98d9fb54acacc942d0f" sha1="dbc6f72b41420088cb3e87768f8895711f97f0d4"/>
+		<rom name="bmd5" size="16512" crc="10f49462" md5="3934254ca401b85fd9d2f2bcef3ff5ae" sha1="90e3ac98b8a5d3680e39cd20c4bb767dd1befa9b"/>
+		<rom name="bmd6" size="16512" crc="442c520f" md5="3c999a6e5764783aa75fdbe3a72c59c8" sha1="2026e1997919fb8a5e765e3971e1b9ef01213728"/>
+		<rom name="bmd7" size="16512" crc="249e6e23" md5="f331c6ba2329ff334bf05c19531e267d" sha1="bdd60038a7596e624b51bff6ab38c22aa9c35783"/>
+		<rom name="bmd8" size="16512" crc="6289999f" md5="e2a9dddf44dc7024aafc21efcf6bdc7e" sha1="e7f8bcccc84ee0cd85226daafe4cd963101a13e4"/>
+		<rom name="bmdslide.65" size="256" crc="755f7a58" md5="3fa90aaa029d9ea643d5c71d6709047b" sha1="a84b34b997f7f4c69035d1bb3f389a7482f60836"/>
+	</game>
+	<game name="Border (19xx)(Kleinert, Stephan)">
+		<description>Border (19xx)(Kleinert, Stephan)</description>
+		<rom name="border-demo" size="666" crc="96500191" md5="d6ecf73628df3b64e6243f095fe2eac6" sha1="0cf64eb3dff90788df221870aad39b229093f4d1"/>
+		<rom name="border.obj" size="124" crc="5b0ab73d" md5="a927d46389aa7d67607db993ffc32616" sha1="bc25ca6798e9813e22b3bbf4a5320a29d9502f98"/>
+		<rom name="border.src" size="1607" crc="7a809776" md5="274a2a90272ee7fc569d6c646bf929bd" sha1="84f164fa27f2fcf20b284a7e36b67a202b1e5148"/>
+	</game>
+	<game name="C64DX Demo Disk #2 (1991)(Commodore)">
+		<description>C64DX Demo Disk #2 (1991)(Commodore)</description>
+		<rom name="autoboot.c64dx.2" size="7886" crc="193978ec" md5="781078725e0eb5795d0a7299e7176f32" sha1="a3bde4132944a0996516e4c510c25f0ae903340b"/>
+		<rom name="bunny.iff" size="48962" crc="a49a66a6" md5="1fbc7a09642d8a15f9e4651bfc3f0d76" sha1="fd3539b235dd2ed21eba2e81b53125ba39b9857a"/>
+		<rom name="city1.iff" size="48962" crc="6d0cbf66" md5="5b35ec01a073c6ae07dd60e841fb7d7b" sha1="18be7b580d9b2692788b1ae5f03c093a54218a6c"/>
+		<rom name="demo.9.bin" size="45" crc="0b48fbc5" md5="946202d4b052e474f2a15543948e0546" sha1="f9ff23358eb99287f7b820f668621f05bb7d5b05"/>
+		<rom name="dp.0" size="32386" crc="f113ca66" md5="9aab85447c06c9c1f853ade3d65a088b" sha1="ba53c71c1191f68461ad4a644a16fce13765ae7a"/>
+		<rom name="dp.1" size="32386" crc="603e0c7d" md5="2455ad217d26425479a16fa48ae67bf1" sha1="13fa0861b853c63478a14d2d1f029166b4effcfe"/>
+		<rom name="dp.p" size="796" crc="8e3653ff" md5="243908ba00c832d081ba6984b08acb1d" sha1="25ca74ea10e3ce6a68c05d9db4b39813ef6d1d81"/>
+		<rom name="dreamhouse.iff" size="48962" crc="8d76a781" md5="5bcd2f2c95425b78d8d8fbc078551b08" sha1="60a722abc3f207a04bd6327f9ba6509350af84b3"/>
+		<rom name="fb.0" size="32386" crc="e26510b3" md5="eeb892d78e6f5785172b96ddf2a999b3" sha1="a1dffbbe1e45c731e6be2a3cb22f68770cfdafdd"/>
+		<rom name="fb.1" size="32386" crc="a0892f3d" md5="d8577214bc5fd16076dd5763247cdf09" sha1="ed73942b11c1385aacad3e3ee25089d1850ff028"/>
+		<rom name="fb.p" size="796" crc="2d17bfa5" md5="4ca197b102e2ca2074fead49fed49487" sha1="ae8aa9f3fe722f12801601a50a844936e527f722"/>
+		<rom name="gorilla.iff" size="48962" crc="c9093cd3" md5="6917a6fef6a0dd8bf7fd57ee48c51e97" sha1="bf0238e66185c716946d74c0fe5d137f13130258"/>
+		<rom name="iris.iff" size="48962" crc="09fbbf2a" md5="dc7000428d52dd38a00ac5f069718bd5" sha1="8fd12179192a5bf61c8cc379bca9b82e8637ffec"/>
+		<rom name="kingtut.iff" size="48962" crc="bbf8349c" md5="4073cb6f1830a2b87b3e1700928dc372" sha1="ea47abeca2960a27f9074f6695408a7bb25ca6a3"/>
+		<rom name="paintcan.iff" size="48962" crc="2d5b0020" md5="110834f5121cf920530a78edc3530b70" sha1="1c5d2755ffce558262e5bd814da2fd457ab5fd31"/>
+		<rom name="planets2.iff" size="48962" crc="50de99d4" md5="2f76bdb2dbf93f92ccf5a3289eadb691" sha1="99e44eab247d1a6e7b5b26de12a16fdb594bce3d"/>
+		<rom name="redporsche.iff" size="48962" crc="f756437e" md5="72475ace3b783b994faff46948a99d41" sha1="b735806726e068e174c0fc50bc0f0afe43245541"/>
+		<rom name="regina.0" size="32578" crc="88f9bf77" md5="0f4b98be6edee91e2a955f04efecf888" sha1="87a731cb055f96272eefdd536a1f3d277a4d3bc0"/>
+		<rom name="regina.1" size="32578" crc="419b3d20" md5="424b26c485c3bc943b4b9cb69d63b027" sha1="2d2f8c73a41d9898fa018201448eb5566a78a871"/>
+		<rom name="regina.p" size="796" crc="db0ca52e" md5="fabbc129282c49672f8a7add3644e441" sha1="a63efc2b01e4ea0412591ed7b785d0136297ed8d"/>
+		<rom name="spaceship.iff" size="48962" crc="4a9a8912" md5="2969528cf929795761fbc13f4c17fb6c" sha1="c4e5ad85251a4f3c621b7706338a0b9daad7c15e"/>
+		<rom name="venus.iff" size="48962" crc="6f6049c6" md5="82dd7b056bdf1794915a6690c1001b39" sha1="6615165195a9c9c127d2e332d73c834313fd590b"/>
+		<rom name="waif.iff" size="48962" crc="ce163e45" md5="fb4b18f1b638d114a08f59240cfc4f4c" sha1="7b818cad17796595d4ae0af976d9db97f15d0215"/>
+	</game>
+	<game name="C64DX Demo Disk #2D (1991)(Commodore)">
+		<description>C64DX Demo Disk #2D (1991)(Commodore)</description>
+		<rom name="autoboot.c64dx.4" size="8154" crc="96d20ea6" md5="ccdcfec0e8cf70babb5fdc27e87892b2" sha1="23a6ca9286927290f3ef48c1985a5fd33596b76c"/>
+		<rom name="bunny.iff" size="48962" crc="a49a66a6" md5="1fbc7a09642d8a15f9e4651bfc3f0d76" sha1="fd3539b235dd2ed21eba2e81b53125ba39b9857a"/>
+		<rom name="city1.iff" size="48962" crc="6d0cbf66" md5="5b35ec01a073c6ae07dd60e841fb7d7b" sha1="18be7b580d9b2692788b1ae5f03c093a54218a6c"/>
+		<rom name="demo.10.1400" size="30" crc="446e3db0" md5="77572c0a23496e8728b390c9445bf64c" sha1="3f465f2923270a7d45d511c91be479e91b154fc6"/>
+		<rom name="demo.10.bin" size="45" crc="fc7f9c4e" md5="8de3df1d00e38e0ff7f6dc74aaf9a2d7" sha1="37e1f9c038f6509292e22af2b8566765630bcde0"/>
+		<rom name="demo.9.bin" size="45" crc="0b48fbc5" md5="946202d4b052e474f2a15543948e0546" sha1="f9ff23358eb99287f7b820f668621f05bb7d5b05"/>
+		<rom name="dp.0" size="32386" crc="f113ca66" md5="9aab85447c06c9c1f853ade3d65a088b" sha1="ba53c71c1191f68461ad4a644a16fce13765ae7a"/>
+		<rom name="dp.1" size="32386" crc="603e0c7d" md5="2455ad217d26425479a16fa48ae67bf1" sha1="13fa0861b853c63478a14d2d1f029166b4effcfe"/>
+		<rom name="dp.p" size="796" crc="8e3653ff" md5="243908ba00c832d081ba6984b08acb1d" sha1="25ca74ea10e3ce6a68c05d9db4b39813ef6d1d81"/>
+		<rom name="dreamhouse.iff" size="48962" crc="8d76a781" md5="5bcd2f2c95425b78d8d8fbc078551b08" sha1="60a722abc3f207a04bd6327f9ba6509350af84b3"/>
+		<rom name="fb.0" size="32386" crc="e26510b3" md5="eeb892d78e6f5785172b96ddf2a999b3" sha1="a1dffbbe1e45c731e6be2a3cb22f68770cfdafdd"/>
+		<rom name="fb.1" size="32386" crc="a0892f3d" md5="d8577214bc5fd16076dd5763247cdf09" sha1="ed73942b11c1385aacad3e3ee25089d1850ff028"/>
+		<rom name="fb.p" size="796" crc="2d17bfa5" md5="4ca197b102e2ca2074fead49fed49487" sha1="ae8aa9f3fe722f12801601a50a844936e527f722"/>
+		<rom name="gorilla.iff" size="48962" crc="c9093cd3" md5="6917a6fef6a0dd8bf7fd57ee48c51e97" sha1="bf0238e66185c716946d74c0fe5d137f13130258"/>
+		<rom name="iris.iff" size="48962" crc="09fbbf2a" md5="dc7000428d52dd38a00ac5f069718bd5" sha1="8fd12179192a5bf61c8cc379bca9b82e8637ffec"/>
+		<rom name="kingtut.iff" size="48962" crc="bbf8349c" md5="4073cb6f1830a2b87b3e1700928dc372" sha1="ea47abeca2960a27f9074f6695408a7bb25ca6a3"/>
+		<rom name="paintcan.iff" size="48962" crc="2d5b0020" md5="110834f5121cf920530a78edc3530b70" sha1="1c5d2755ffce558262e5bd814da2fd457ab5fd31"/>
+		<rom name="planets2.iff" size="48962" crc="50de99d4" md5="2f76bdb2dbf93f92ccf5a3289eadb691" sha1="99e44eab247d1a6e7b5b26de12a16fdb594bce3d"/>
+		<rom name="redporsche.iff" size="48962" crc="f756437e" md5="72475ace3b783b994faff46948a99d41" sha1="b735806726e068e174c0fc50bc0f0afe43245541"/>
+		<rom name="regina.0" size="32578" crc="88f9bf77" md5="0f4b98be6edee91e2a955f04efecf888" sha1="87a731cb055f96272eefdd536a1f3d277a4d3bc0"/>
+		<rom name="regina.1" size="32578" crc="419b3d20" md5="424b26c485c3bc943b4b9cb69d63b027" sha1="2d2f8c73a41d9898fa018201448eb5566a78a871"/>
+		<rom name="regina.p" size="796" crc="db0ca52e" md5="fabbc129282c49672f8a7add3644e441" sha1="a63efc2b01e4ea0412591ed7b785d0136297ed8d"/>
+		<rom name="spaceship.iff" size="48962" crc="4a9a8912" md5="2969528cf929795761fbc13f4c17fb6c" sha1="c4e5ad85251a4f3c621b7706338a0b9daad7c15e"/>
+		<rom name="venus.iff" size="48962" crc="6f6049c6" md5="82dd7b056bdf1794915a6690c1001b39" sha1="6615165195a9c9c127d2e332d73c834313fd590b"/>
+		<rom name="waif.iff" size="48962" crc="ce163e45" md5="fb4b18f1b638d114a08f59240cfc4f4c" sha1="7b818cad17796595d4ae0af976d9db97f15d0215"/>
+	</game>
+	<game name="C65 Demo Disk #2 (1991)(Commodore)">
+		<description>C65 Demo Disk #2 (1991)(Commodore)</description>
+		<rom name="autoboot.c65.9a" size="3547" crc="d1c8a302" md5="870bb873be230c89868302bef9bdc1dd" sha1="b73b31cc432b96cf2ebde4067cedf1d85ffa1da5"/>
+		<rom name="bunny.iff" size="48962" crc="a49a66a6" md5="1fbc7a09642d8a15f9e4651bfc3f0d76" sha1="fd3539b235dd2ed21eba2e81b53125ba39b9857a"/>
+		<rom name="city1.iff" size="48962" crc="6d0cbf66" md5="5b35ec01a073c6ae07dd60e841fb7d7b" sha1="18be7b580d9b2692788b1ae5f03c093a54218a6c"/>
+		<rom name="demo all" size="1129" crc="d1be8c82" md5="b1eb9ea702260b0a9ea9636a2bca6912" sha1="6d2f9bc288f39c2afdc69d8e544ccdddc7294a9f"/>
+		<rom name="demo.9.bin" size="45" crc="0b48fbc5" md5="946202d4b052e474f2a15543948e0546" sha1="f9ff23358eb99287f7b820f668621f05bb7d5b05"/>
+		<rom name="dp demo" size="518" crc="d941981e" md5="1988f64a17951753d387208dd918993f" sha1="49aac71205aa03feed067e8c5cbcabc9475f6624"/>
+		<rom name="dp.0" size="32386" crc="f113ca66" md5="9aab85447c06c9c1f853ade3d65a088b" sha1="ba53c71c1191f68461ad4a644a16fce13765ae7a"/>
+		<rom name="dp.1" size="32386" crc="603e0c7d" md5="2455ad217d26425479a16fa48ae67bf1" sha1="13fa0861b853c63478a14d2d1f029166b4effcfe"/>
+		<rom name="dp.p" size="796" crc="8e3653ff" md5="243908ba00c832d081ba6984b08acb1d" sha1="25ca74ea10e3ce6a68c05d9db4b39813ef6d1d81"/>
+		<rom name="dreamhouse.iff" size="48962" crc="8d76a781" md5="5bcd2f2c95425b78d8d8fbc078551b08" sha1="60a722abc3f207a04bd6327f9ba6509350af84b3"/>
+		<rom name="fb demo" size="669" crc="23124bca" md5="16209dab347ac29ce21330dc74971820" sha1="9767808299fb7f26fb67327583c3da9b09e21e3b"/>
+		<rom name="fb.0" size="32386" crc="e26510b3" md5="eeb892d78e6f5785172b96ddf2a999b3" sha1="a1dffbbe1e45c731e6be2a3cb22f68770cfdafdd"/>
+		<rom name="fb.1" size="32386" crc="a0892f3d" md5="d8577214bc5fd16076dd5763247cdf09" sha1="ed73942b11c1385aacad3e3ee25089d1850ff028"/>
+		<rom name="fb.p" size="796" crc="2d17bfa5" md5="4ca197b102e2ca2074fead49fed49487" sha1="ae8aa9f3fe722f12801601a50a844936e527f722"/>
+		<rom name="gorilla.iff" size="48962" crc="c9093cd3" md5="6917a6fef6a0dd8bf7fd57ee48c51e97" sha1="bf0238e66185c716946d74c0fe5d137f13130258"/>
+		<rom name="iff demo" size="839" crc="777d31db" md5="da2d37860b3f4f2f691477327a9adbf0" sha1="5be0d6c9242a53c918c82d4aff1281e3beea484c"/>
+		<rom name="iff demo.8e" size="1204" crc="d8c09c89" md5="bf5c42618b0ded54d97797b0878c9bcc" sha1="4fe7b12e1c5164f43e58ef53b435f3a985ac41a1"/>
+		<rom name="iff demo.bin" size="274" crc="d479eb40" md5="5306c42682fdbafc8eff6ad891968cc4" sha1="467bf1263fb9f93807bf374fcd963991c8b769c6"/>
+		<rom name="iff demo.bin.8e" size="850" crc="d5ad8cb2" md5="12efe84eeb17edb49d55b70ec3e03407" sha1="6ff8e47cebcc150939d5256a95fd5d4455960e60"/>
+		<rom name="iff ss" size="1275" crc="622197ed" md5="6c8386ff6cf4dc9bf107e21733f1c02a" sha1="3f680dbcf68b03caa8814d3d5c77d6542190eb8c"/>
+		<rom name="iris.iff" size="48962" crc="09fbbf2a" md5="dc7000428d52dd38a00ac5f069718bd5" sha1="8fd12179192a5bf61c8cc379bca9b82e8637ffec"/>
+		<rom name="kingtut.iff" size="48962" crc="bbf8349c" md5="4073cb6f1830a2b87b3e1700928dc372" sha1="ea47abeca2960a27f9074f6695408a7bb25ca6a3"/>
+		<rom name="mouse.bin" size="770" crc="ddde4a55" md5="3f211a91050041f9a91933c09928aaa9" sha1="3750eaa45f1eb61c29f1c7b0f3044e4017d95e6a"/>
+		<rom name="ms-dos boot test" size="272" crc="3a1af783" md5="e764236a2772ce94e0b9d0f4a58f0335" sha1="e44abf81937ba2bfce6db2c41166ca573dfedb58"/>
+		<rom name="paintcan.iff" size="48962" crc="2d5b0020" md5="110834f5121cf920530a78edc3530b70" sha1="1c5d2755ffce558262e5bd814da2fd457ab5fd31"/>
+		<rom name="planets2.iff" size="48962" crc="50de99d4" md5="2f76bdb2dbf93f92ccf5a3289eadb691" sha1="99e44eab247d1a6e7b5b26de12a16fdb594bce3d"/>
+		<rom name="pointers.bin" size="130" crc="ffc522a5" md5="42e7ef9300540b336f9bc0d0e980662e" sha1="2f71261d8234b44af51271359dca92fc5710b1d2"/>
+		<rom name="redporsche.iff" size="48962" crc="f756437e" md5="72475ace3b783b994faff46948a99d41" sha1="b735806726e068e174c0fc50bc0f0afe43245541"/>
+		<rom name="regina demo" size="521" crc="f9aab745" md5="0db5dba038d19813107336653a223757" sha1="f7b6dab9eb318f246069d75790afdc5f025c8213"/>
+		<rom name="regina.0" size="32578" crc="88f9bf77" md5="0f4b98be6edee91e2a955f04efecf888" sha1="87a731cb055f96272eefdd536a1f3d277a4d3bc0"/>
+		<rom name="regina.1" size="32578" crc="419b3d20" md5="424b26c485c3bc943b4b9cb69d63b027" sha1="2d2f8c73a41d9898fa018201448eb5566a78a871"/>
+		<rom name="regina.p" size="796" crc="db0ca52e" md5="fabbc129282c49672f8a7add3644e441" sha1="a63efc2b01e4ea0412591ed7b785d0136297ed8d"/>
+		<rom name="rs232" size="108" crc="69663181" md5="0b42ddb9525412b86413602fed0fb9f4" sha1="000dcc88ff5934406182ef65a802f302de40c7d8"/>
+		<rom name="spaceship.iff" size="48962" crc="4a9a8912" md5="2969528cf929795761fbc13f4c17fb6c" sha1="c4e5ad85251a4f3c621b7706338a0b9daad7c15e"/>
+		<rom name="venus.iff" size="48962" crc="6f6049c6" md5="82dd7b056bdf1794915a6690c1001b39" sha1="6615165195a9c9c127d2e332d73c834313fd590b"/>
+		<rom name="waif.iff" size="48962" crc="ce163e45" md5="fb4b18f1b638d114a08f59240cfc4f4c" sha1="7b818cad17796595d4ae0af976d9db97f15d0215"/>
+	</game>
+	<game name="C65 Demo Disk (1991)(Commodore)">
+		<description>C65 Demo Disk (1991)(Commodore)</description>
+		<rom name="0000-007d.zp" size="47560" crc="eb1d230f" md5="5034a01b8591ec13f9011d69e657ca48" sha1="973a7e31352636d9b10653a95aeff4191f34c296"/>
+		<rom name="007f.zp" size="54892" crc="77baaef0" md5="ce7a76da82706d9cd606b941d41a6b95" sha1="1076b26d8a40e2b6c0a742900847d18b8a826784"/>
+		<rom name="012b.zp" size="53930" crc="370db22b" md5="3559ca4e6023cad2ac77839a51b5b862" sha1="233b58a0dbcc98a19969c5c976ad993a5143ac06"/>
+		<rom name="appendix.d" size="16130" crc="bfdcb40d" md5="939f792bda575622ffdc260b06988f23" sha1="ce398b15c02c0a860a5120d6820cfba2db2a7c26"/>
+		<rom name="color ram demo" size="251" crc="86837904" md5="91ee98fd7fcf2c15e418b872531804c8" sha1="d6bd2ac8920541b4dc3a8f2c6a4bd441073c2423"/>
+		<rom name="data generator" size="620" crc="4c9048ba" md5="24fa529021444043a4e5f7ac57466aa4" sha1="bee9750a377ad9f17722fefddf2b68c195bd4666"/>
+		<rom name="edma routine.o" size="28" crc="a77c60d9" md5="1d24bbf6520e73f93a3979819b02f660" sha1="a62a5154fec6282b76b84cecb8836f4e0ebf8d5e"/>
+		<rom name="edma routine.s" size="2541" crc="1d16b699" md5="d62a4f4da7a1fcc2594abed281daf1e4" sha1="1d702ebfa6d79d37ee1c8d534824b169715ec9a5"/>
+		<rom name="keyon/keyoff.b" size="791" crc="9a378789" md5="8eb48b2ac39c96821981f117a811d795" sha1="3101d68a7a8642825625f1a1f3f4777a79d6110a"/>
+		<rom name="keyon/keyoff.o" size="106" crc="76b13b42" md5="a757393ad38cd63902398a9b714fe310" sha1="e0140bd32dfd5fbaaf6d480bb6e8fe3cad8526ae"/>
+		<rom name="keyon/keyoff.s" size="4002" crc="bb818138" md5="b4d336c2635e707e69c8c9d28cbf0ace" sha1="b20e315c8f150d30a5e4d68cab268a1804d500f5"/>
+		<rom name="new edma example" size="392" crc="fb8d6005" md5="fe5da3f2d90f4e57c62be735570ba77f" sha1="341a33225906a095b861b99cd7cfd32889db2783"/>
+		<rom name="ram exp. demo" size="789" crc="f9221941" md5="2d74fa3a31dca84a90d2e0601aafa289" sha1="1d8c723a218bc4796a1c84848515223c8ce8ffa0"/>
+		<rom name="ram/rom.ex.final" size="31903" crc="fa32d12a" md5="dd777d1907bfeccb716e1e71fa3fa1c9" sha1="5d4ebe13574f21907787bc4fb818571302c31ff0"/>
+		<rom name="table 1.3.3.1.1" size="1565" crc="c6842855" md5="001e44112209261813a6a84e2ac55b0f" sha1="40dc7cfe48f9300986aa7359c75ee78b2df5d592"/>
+		<rom name="variable dump.b" size="1928" crc="b5a90b7d" md5="d01cd56587fecce2ba8f6c78156c3f9f" sha1="a785ef1669443c14746d9cb54d543a3b39701313"/>
+		<rom name="variable dump.o" size="309" crc="a9395d01" md5="8e30b689be4f96959bb47b122e4a196d" sha1="b32cd62374c390cd5f9618a0e2bf00c07f25cbca"/>
+		<rom name="variable dump.s" size="12335" crc="e563eb3f" md5="0bc79e2749f24a6d22a431791f0513b1" sha1="3949acd416615bb305bc89576d19fa793c885262"/>
+	</game>
+	<game name="C65 IFF Demo Reel #1 (19xx)(Commodore)">
+		<description>C65 IFF Demo Reel #1 (19xx)(Commodore)</description>
+		<rom name="bees" size="22980" crc="6b5bfd22" md5="296986acc96de87fd522bec57d646c42" sha1="438a8d931773d507afe43922dde4a3c314d1c871"/>
+		<rom name="boat" size="48766" crc="eec5f1c8" md5="74687efbd5e49ae9b0abf34ec2e000f7" sha1="9832e8e530418a1163188827a303cc8227670a9e"/>
+		<rom name="bully.pic" size="16896" crc="75ee9acf" md5="a11c1863ec849be920fb23164eb184ed" sha1="98b5ff9f2697bb25f0283545ff878d46480de7ac"/>
+		<rom name="bunny" size="20736" crc="a1600f2d" md5="a4cf26a0135a94edcb09efd71f14735a" sha1="3211c5d89771fa790fb8f32ae7bc4ff061a933bc"/>
+		<rom name="city1" size="23936" crc="aa31dff2" md5="b74c4ce4ba0e1aa973674e47a91c2cce" sha1="51a96dc3421632766482417bdcd1e051004ffd6e"/>
+		<rom name="city2" size="19968" crc="123bc360" md5="e9ebbd2f134510176302aa6a032fd429" sha1="9fbaa4ecd34fce16f0d99bb34d7d0cf57152c9ab"/>
+		<rom name="demo" size="2898" crc="054cbb16" md5="ee77b66c55d2f53bd21d3525d63bcce4" sha1="951999f683d2bfa9005147598bb04d66e0da29e1"/>
+		<rom name="demo2" size="2987" crc="cbf37bbc" md5="8d7ada4e5384b83448330a47fb28744a" sha1="92d7e68a3f7a796e6735a564a76d986b991c9e45"/>
+		<rom name="disksalv.pic" size="10956" crc="f739c2a8" md5="e38d03bc713e5083f952260c29323ecd" sha1="1c0a1e61d420a25b3aeeecea07950180d61aa1d3"/>
+		<rom name="dp.64x20" size="3456" crc="68d9cd83" md5="873d0b46d37a22b2d6cf7b719669a126" sha1="e1100b460d9266c9035cf883c3a49cf31ef62661"/>
+		<rom name="dreamhouse.pic" size="35456" crc="b92bcfb7" md5="deaa58277ea090ea867e706c59266010" sha1="f1267b223316fc4eb7510779760437f567a2ed10"/>
+		<rom name="eye" size="37704" crc="19254573" md5="3a926483f3cc870632c33f34e6416880" sha1="cc978085036f4346cb724619f45fb134de013b69"/>
+		<rom name="faces" size="28288" crc="361f2cfc" md5="0b11437d66214fab390b6cfbafbaa64c" sha1="aa4b65c1ef82b42843bc3bc602b794e394ae2043"/>
+		<rom name="family.640x200" size="42880" crc="eab8bb4a" md5="2e119148f75cb5b8e2377ad036b7b0eb" sha1="2d744826d3f15189daa0ff5ee70f44cbea1c2f77"/>
+		<rom name="fc65" size="4225" crc="eb6a3b6f" md5="b7d185f8e68391ad9f6f1e9fdbecffe0" sha1="b6b64329b61b9b954341cc61f05994913e1f7448"/>
+		<rom name="fc65.bin" size="99" crc="9a22d6ab" md5="732ad06fe0f478a1807cbd270f388467" sha1="a6bc5b035cb9bebbc9a18b55f3d59acc58523e34"/>
+		<rom name="gorilla" size="37376" crc="6f34fa40" md5="390082699d7c11c0df23da0cbdad3384" sha1="3d9576db28596130c6937c2249c8523a19b1fcaa"/>
+		<rom name="iff&amp;dos.6d" size="19458" crc="bcea45f8" md5="167058de2a0d39e1c34da7b09852a9dc" sha1="4cdd3f15e5620a7d49071d2c0e1c53364ac1d92b"/>
+		<rom name="iff.bin6d" size="1666" crc="b98ba8f5" md5="e74d5e54f2ed51ea2cf5409c32734291" sha1="f34f15b858d18a143d93b82d904889a7130db549"/>
+		<rom name="iff.bin6e" size="1663" crc="d2be0715" md5="039050fb5251347d76f057c7bcaa520b" sha1="e688d2e9759551f1f22ba527c9080ceb58cc3199"/>
+		<rom name="iris" size="15496" crc="6b6081ee" md5="95c6e1ce8b5b62ff895691155b7678d3" sha1="daa955852664f3baa365baaaf20f29d644aac320"/>
+		<rom name="kingtut" size="25728" crc="6b681025" md5="0ec83b4ded100e61b528017808ecdf6b" sha1="76070026cf92ef64cfcb2d9ae2f81fe53f5a5a7f"/>
+		<rom name="old demo" size="2880" crc="d83f2211" md5="d917295012f23a19637422ff7f946751" sha1="f3222434c83c50804f4e873432eddea3b564c7c0"/>
+		<rom name="paintcan" size="17732" crc="87ee4fa8" md5="f6f85791b56267aaa4e095a82c0e39e3" sha1="7747ba9739d3b240003325a1de5916a9d36f21ef"/>
+		<rom name="pic256" size="2604" crc="75cd79f8" md5="dd11d1b5f16d38ab22cf7067301e907a" sha1="bf5eed9cbf25c1722840485669eae4323441f218"/>
+		<rom name="planets2" size="20480" crc="2b8f27ff" md5="366a705a4f308c26f8334f86f51f3039" sha1="1a14153c8647e7c9d1b0109faca5cea756be6072"/>
+		<rom name="redporsche.pic" size="14452" crc="54e82491" md5="d9c767f48c46c9c4928120bf111ee4f7" sha1="7d482b754986d2efb91a9a79babaf406a2ce5532"/>
+		<rom name="regina" size="61440" crc="e998dec3" md5="ed5476f44b6f816eb8da134068468cea" sha1="06f91de8c33d6d9b4fe31ddc13c12afdc8ba2816"/>
+		<rom name="saturn" size="18560" crc="d7a2fbc0" md5="300528ec936bc3f375e6b6810b214308" sha1="987bde0be687a23be523aacff92a061df3869dd1"/>
+		<rom name="spaceship" size="27554" crc="6ecabb28" md5="d94547ed799a5204fe16da1bf9dab5fb" sha1="b861a42d8a89738bc73b4993f63bf4849ee832e9"/>
+		<rom name="sparks" size="57818" crc="a539d354" md5="2ec380daca753c3b9f2d03bfa96663c8" sha1="6a6353c281110448c43f294937b9b743f7d35d75"/>
+		<rom name="split.1200" size="66" crc="2abc32a6" md5="676ad84547074ce535cb94d4f22a8d39" sha1="42597a8b761b2c048a171fb3dc99a7798b404a67"/>
+		<rom name="storm" size="46634" crc="591f0808" md5="2d70e553a60e1df15bfd4f8725b53e38" sha1="d947e8bc8766a35e7acba4a08eefa507065a6230"/>
+		<rom name="venus" size="34176" crc="a8275510" md5="4ae45f9503b9cca84a8643c1c5e77cc6" sha1="f8bf09fa651d8f90a649997264b86c8f03df7754"/>
+		<rom name="waif" size="30348" crc="a28b352e" md5="9fdd03cd6124d85b0b0510b425854eb9" sha1="fa65c29bddcd4d8c27b4fd3526cb892b0e4c7bd3"/>
+		<rom name="xcar" size="35842" crc="9d9d3fe0" md5="0613c3ad3176cb2316d5b7aa784a78d7" sha1="d9fdd2c0bb6e8da79ec788312f47984a6d10b742"/>
+	</game>
+	<game name="IFF Demo (1991)(Commodore)[m Hechelhammer, Thomas]">
+		<description>IFF Demo (1991)(Commodore)[m Hechelhammer, Thomas]</description>
+		<rom name="iff demo" size="711" crc="a0efd27a" md5="047e96a55135e9ca47fd2f7ef0dd30ce" sha1="95b49252513d46bf3f6e23ea46b94bcddaac23d5"/>
+		<rom name="iff demo.bin" size="274" crc="cf0a7eee" md5="7ad5f6f9efaec12b67df433728dfe8ef" sha1="2ac9563cd942937af5927e955c4f7bba6640fef2"/>
+	</game>
+	<game name="SK Demo (19xx)(Kleinert, Stephan)">
+		<description>SK Demo (19xx)(Kleinert, Stephan)</description>
+		<rom name="640x400 graph" size="349" crc="36b93502" md5="3ce06d419eb27878969c3befb644e878" sha1="2d17b7fd4240020addd70cee3a598d8d7390d637"/>
+		<rom name="border-demo" size="666" crc="96500191" md5="d6ecf73628df3b64e6243f095fe2eac6" sha1="0cf64eb3dff90788df221870aad39b229093f4d1"/>
+		<rom name="border.obj" size="124" crc="5b0ab73d" md5="a927d46389aa7d67607db993ffc32616" sha1="bc25ca6798e9813e22b3bbf4a5320a29d9502f98"/>
+		<rom name="border.src" size="1607" crc="7a809776" md5="274a2a90272ee7fc569d6c646bf929bd" sha1="84f164fa27f2fcf20b284a7e36b67a202b1e5148"/>
+		<rom name="c64.patch" size="1034" crc="8dc657fa" md5="949eff6bc01ccfb965d36c2bc2330090" sha1="2339063226487c0b6b2fb0c0d844b64da3b78e43"/>
+		<rom name="cbench" size="4650" crc="33d6ad8c" md5="8525010e099f7a112ff96005d0dc1fbd" sha1="c0ddcaaadcdcb255a20c190fc7ad1a4eadf1c67e"/>
+		<rom name="colours" size="851" crc="ff35d209" md5="0f814ba746b576fdc04c4b86fb1d17da" sha1="093ad346e051c9dd5cc7e8bbd9b79ff076db06b1"/>
+		<rom name="dma demo" size="553" crc="489e6dd2" md5="2c33ab997ad4d521057a339de1ed9fac" sha1="607f9dd9314d159a7cc84c137bb7a88106793c22"/>
+		<rom name="fast.679.o" size="91" crc="41311048" md5="d75b1e01dd0ea72fc67aa58640d1b4c6" sha1="b7f6480696dab879b5b7394fcf365cbccb2b74c5"/>
+		<rom name="fast.679.src,s" size="1544" crc="cdea7e7e" md5="6cf35fa349c43fc4010d16d8051fb8bd" sha1="20d8b9888764ac8b38b02a8b9841c117f37c5413"/>
+		<rom name="iff slideshow" size="754" crc="6dc1f241" md5="7907f99bc5db1d140922080c66c04dd7" sha1="7d4ead5cc6e9904868fe3f8c0e47834a7c776cd7"/>
+		<rom name="palette editor" size="5378" crc="65062b0d" md5="31c30d4b50aae49270343a24b5be3e2e" sha1="05c25c64bbe799f377cdd757c7fcffefd61e7e36"/>
+		<rom name="plasma.bas" size="999" crc="4f37d337" md5="74c9e6ebc9e6ee7e4ef02019244d64c2" sha1="048966ec4086dc4326c52a5b4567fece67fc364a"/>
+	</game>
+</datafile>

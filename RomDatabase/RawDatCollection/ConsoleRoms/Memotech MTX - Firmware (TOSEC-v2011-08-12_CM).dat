@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Memotech MTX - Firmware</name>
+		<description>Memotech MTX - Firmware (TOSEC-v2011-08-12)</description>
+		<category>TOSEC</category>
+		<version>2011-08-12</version>
+		<author>Cid - Grendel - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Assembler ROM (1984)(Memotech)">
+		<description>Assembler ROM (1984)(Memotech)</description>
+		<rom name="Assembler ROM (1984)(Memotech).bin" size="8192" crc="9d7538c3" md5="14ed3cb6e494d01aa320d9d2f1d87ce0" sha1="d1882c4ea61a68b1715bd634ded5603e18a99c5f"/>
+	</game>
+	<game name="BASIC ROM (1984)(Memotech)">
+		<description>BASIC ROM (1984)(Memotech)</description>
+		<rom name="BASIC ROM (1984)(Memotech).bin" size="8192" crc="87b4e59c" md5="7199b5024ed705a3af3e9e06fd069137" sha1="c49782a82a7f068c1195cd967882ba9edd546eaf"/>
+	</game>
+	<game name="OS ROM (1984)(Memotech)">
+		<description>OS ROM (1984)(Memotech)</description>
+		<rom name="OS ROM (1984)(Memotech).bin" size="8192" crc="9ca858cc" md5="69573163aba772d60423ceb90832ce95" sha1="3804503a58f0bcdea96bb6488833782ebd03976d"/>
+	</game>
+</datafile>

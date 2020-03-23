@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sanyo MBC-550 &amp; 555 - Operating Systems - [DSK]</name>
+		<description>Sanyo MBC-550 &amp; 555 - Operating Systems - [DSK] (TOSEC-v2018-11-15)</description>
+		<category>TOSEC</category>
+		<version>2018-11-15</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="MS-DOS v1.25 (1984)(Sanyo)[IO.SYS v2.00]">
+		<description>MS-DOS v1.25 (1984)(Sanyo)[IO.SYS v2.00]</description>
+		<rom name="MS-DOS v1.25 (1984)(Sanyo)[IO.SYS v2.00].dsk" size="163840" crc="3dbe13de" md5="7aab3add2c9edf70c9d1f46badc15e35" sha1="aaef69cbbc501422baa6dc6b7173ee8f24663013"/>
+	</game>
+	<game name="MS-DOS v1.25 (1984)(Sanyo)[IO.SYS v2.10]">
+		<description>MS-DOS v1.25 (1984)(Sanyo)[IO.SYS v2.10]</description>
+		<rom name="MS-DOS v1.25 (1984)(Sanyo)[IO.SYS v2.10].dsk" size="163840" crc="1ea744cc" md5="dad32dfee3c75157440cdac99b6d29a8" sha1="dd8b41bb67d0b888cd70ded4b61701708caa5dac"/>
+	</game>
+	<game name="Video Board Boot Disk (19xx)(Sanyo)[req CGA Board]">
+		<description>Video Board Boot Disk (19xx)(Sanyo)[req CGA Board]</description>
+		<rom name="Video Board Boot Disk (19xx)(Sanyo)[req CGA Board].dsk" size="368640" crc="8ce6409c" md5="5e24a0b3beb7e68feac9418ae610280c" sha1="d4cb022a6dd7ca65a194b8d90d0bc05f3c151096"/>
+	</game>
+</datafile>

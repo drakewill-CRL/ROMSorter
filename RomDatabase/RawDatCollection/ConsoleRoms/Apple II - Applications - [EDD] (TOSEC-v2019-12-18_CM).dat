@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple II - Applications - [EDD]</name>
+		<description>Apple II - Applications - [EDD] (TOSEC-v2019-12-18)</description>
+		<category>TOSEC</category>
+		<version>2019-12-18</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Leadsheeter (1985)(Passport Designs)(II+)">
+		<description>Leadsheeter (1985)(Passport Designs)(II+)</description>
+		<rom name="Leadsheeter (1985)(Passport Designs)(II+).edd" size="2310144" crc="50a12c04" md5="53a8c04578cecc71ebcd7090dd82d61f" sha1="f618075d39fac50216ab8c39431d9804ebc24fc5"/>
+	</game>
+</datafile>

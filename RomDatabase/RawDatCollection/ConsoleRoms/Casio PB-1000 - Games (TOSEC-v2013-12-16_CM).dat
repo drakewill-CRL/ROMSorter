@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Casio PB-1000 - Games</name>
+		<description>Casio PB-1000 - Games (TOSEC-v2013-12-16)</description>
+		<category>TOSEC</category>
+		<version>2013-12-16</version>
+		<author>Cid</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Ahorcado v1.1 (1997)(Calderon, Ricardo)(es)">
+		<description>Ahorcado v1.1 (1997)(Calderon, Ricardo)(es)</description>
+		<rom name="AHORCADO.BAS" size="1605" crc="f0beaa22" md5="6d9f82cad14857b6cb824f347e48ad4e" sha1="6d889ca6e9ed3ac834980cb2ab8354f0b0080a3d"/>
+	</game>
+	<game name="Clear v0.04 (2003)(Blue)">
+		<description>Clear v0.04 (2003)(Blue)</description>
+		<rom name="CLR.B" size="897" crc="0cc60f72" md5="6ecbbbe902a2020555eb63b91d40b5a0" sha1="226bf4db2ccc8818ef8f55f79ad66853663849f8"/>
+		<rom name="CLR.S" size="4775" crc="6b741ad7" md5="ad1216ff35f8b93cedf00b10fe4cd4a6" sha1="1af87877a02c84d9cf50e99c89abcc68c693ef43"/>
+		<rom name="CLRVX3.B" size="884" crc="2bc85ab6" md5="2f6016f3e09f9753425ef11d81898a1d" sha1="66511a45726affb0bc26fea08ffa3e6fcc674a65"/>
+	</game>
+	<game name="Hyper Battle Extra Z (1992)(Amano, Jun)">
+		<description>Hyper Battle Extra Z (1992)(Amano, Jun)</description>
+		<rom name="DISK.UTY" size="4507" crc="c59b8c67" md5="de7af8331bcba5b571451e322aa418e4" sha1="cd14f04f1f619ed5384134c56f49ba61cd4754e3"/>
+		<rom name="HYPER-Z.BAS" size="26433" crc="9d5cfb75" md5="135dd56bd039db17d66eff6f8081c2d0" sha1="e9fe929e606de97d8587dd716531b6f6a9856617"/>
+		<rom name="HYPZ1000.BAS" size="26643" crc="2337c60a" md5="515beb76fc5eb04bf229753eaf6fdf8f" sha1="c08919313ee7aea20d70146abfc98356759094b6"/>
+		<rom name="PBFTOBIN.BAS" size="701" crc="225029ec" md5="ea8eb4603f4111a436ad8ac6b3e0c37d" sha1="d9a217320f8874afbe164063f041ac19b1ccca2e"/>
+		<rom name="SYSTMEXE.PBF" size="5626" crc="108fbccc" md5="0961e5ace2ae7cd4c6ced4433d144f33" sha1="1c08693ee12f72779b1fa999b2d0b0bd722f25d1"/>
+		<rom name="TITLE-Z.PBF" size="1612" crc="5102ebb8" md5="9232a78fe75bcd5deab81383f94e3a29" sha1="4f63cd9c002dd5adee83184beb9080a67a1b2c38"/>
+	</game>
+	<game name="Hyper-GX' v2.1 (2003)(Blue)">
+		<description>Hyper-GX' v2.1 (2003)(Blue)</description>
+		<rom name="GX-EDIT.BAS" size="3099" crc="751bea79" md5="d8d0e22a5cfc23d4fd92ba5211575f97" sha1="f96f314467a31d61176187b1260327c8ed029b17"/>
+		<rom name="H-GX'.ASM" size="22848" crc="426a4d1a" md5="58e315717ba8de08af3b197f814047b3" sha1="b3084de4177c1c136721001bf001de9e79a27076"/>
+		<rom name="H-GX'.PBF" size="6732" crc="d6ae97f4" md5="360c9b67e962eac9f1090722d452f801" sha1="9ef5d1099097471a4ed16236b41a4906633b2dee"/>
+		<rom name="H-GX'C.ASM" size="22850" crc="e807ee01" md5="1877a8d55b836c0c3aff3333d15361d8" sha1="b335c77821a8f75ed0ccaf30cc75be9679e7ca73"/>
+		<rom name="H-GX'C.PBF" size="6734" crc="269edd79" md5="4c4817591c584a731ab637eaf8b653c6" sha1="c5da2def9eeaef682dbca08282dbe785128dedd5"/>
+		<rom name="H-GX'D.PBF" size="1422" crc="c3a0373d" md5="030024784cb011229def3c9acd1c63aa" sha1="d780311e502a5f23316a17380ed0f6e61d2b9952"/>
+		<rom name="PBFTOBIN.BAS" size="1801" crc="29f6cf48" md5="fe38f22f21bbde9bab56bcd9fc8ad632" sha1="906c4da21a2cad39509536fae8365c35ddab66f5"/>
+		<rom name="STAGE-1.PBF" size="2734" crc="1f3d221a" md5="e1ab7b408da0efd5d320127b7f8f27b5" sha1="3f00df949fb1f3836873eb9094d90344c94f9d7a"/>
+		<rom name="STAGE-2.PBF" size="2734" crc="bfbed623" md5="28635d13bc7b5925d39a94f7273dca5d" sha1="d73799206b2b66bacbdbdb31f016f93e4e56f021"/>
+		<rom name="STAGE-3.PBF" size="2725" crc="469de29f" md5="64beeea0941faec8db90a8b999fb8191" sha1="4d2ba20cd70f8e6c194c6647308e4c4895b6aab3"/>
+		<rom name="STAGE-4.PBF" size="2727" crc="ef830e7d" md5="ae1f0c77e88dc348153584184ffdfe97" sha1="925ce53c54c4585e53d50f93c38a86bde0fced37"/>
+		<rom name="STAGE-5.PBF" size="2725" crc="07393b55" md5="5c2108539e2a4e96c71c734ce755d1e8" sha1="8ca51739f1718cab3d2727bcb99d633235fdfb56"/>
+		<rom name="STAGE-6.PBF" size="2728" crc="656c244d" md5="d13a856bfe1373fd56f9b0b6f10b03c7" sha1="d62f2268f797f83f9b4dfd89f3e95e72a35d8251"/>
+		<rom name="STAGE-7.PBF" size="2725" crc="56205c1c" md5="b5b603bf95726e185a685d6dcda540ca" sha1="00ab59bb79ec9f6caa087540227b8a05f1915751"/>
+		<rom name="STAGE-8.PBF" size="2727" crc="4509df41" md5="59729b7de8521de99964b43800521f96" sha1="a444a8dc52abbb8793e8b201b7bd7e7175150401"/>
+		<rom name="STAGE-9.PBF" size="2725" crc="06a8865f" md5="8ee20a2ec0422f86794f64c54b8a0c9f" sha1="a17ff153b0246da206424c63b9d7b9ee2dbede0e"/>
+		<rom name="TAKO.PBF" size="1420" crc="b3c50961" md5="ef16ba58256abdd4d03f914f4d5a9916" sha1="4753d52eb825a6b76726b9a9b8e8dacaea6465dc"/>
+	</game>
+	<game name="Kusanagi Sword (1990)(Amano, Jun - Amano, Takemi)">
+		<description>Kusanagi Sword (1990)(Amano, Jun - Amano, Takemi)</description>
+		<rom name="-++--.KSA" size="30440" crc="e21c62fa" md5="06b4bb2f5b0958fac87d1b948dc5b3b4" sha1="427efed13481b127ebe5f4b54f642e9579ee8c99"/>
+		<rom name="G1.PBF" size="5591" crc="19b1eb15" md5="b4d7db6f3243db36aeb871a0b63691c5" sha1="e4806dc4b12ff8e180bf7afe662accf18cdfa929"/>
+		<rom name="G2.PBF" size="3336" crc="d7ec5ce4" md5="f0dbca2a4fd3ba9792e56adfba680cf4" sha1="68abb4c5cf1d63c3d94d0f8174f6df547209bfad"/>
+		<rom name="PBFTOBIN.BAS" size="701" crc="225029ec" md5="ea8eb4603f4111a436ad8ac6b3e0c37d" sha1="d9a217320f8874afbe164063f041ac19b1ccca2e"/>
+		<rom name="TIL-+.PBF" size="1615" crc="1d0cb368" md5="309c49c05b128170a925c2963f99f12c" sha1="5f614b37252fbd1cf2f1a0b9f230ec7b09a39cbf"/>
+	</game>
+	<game name="Space Ship 1000C (1990)(Amano, Jun)">
+		<description>Space Ship 1000C (1990)(Amano, Jun)</description>
+		<rom name="CLR.PBF" size="271" crc="365a1a0d" md5="fd9733d3997802b6206dc19bac435b2e" sha1="fd6cf83636a215704657bcde54f9da471abc77e0"/>
+		<rom name="DIRECTFBF_PBF2BIN21.B" size="2450" crc="df5bb140" md5="96ab601c646b038ccce0d7d4e181f9d0" sha1="7faa3d036cd0fd0916cabef34f8008ffe721f440"/>
+		<rom name="DOT.PBF" size="348" crc="9aca96d5" md5="76ea2249b3e26e9f19db0532d5a79787" sha1="04e18d4b31f3426286fd6ca5aa9c74bd03578f33"/>
+		<rom name="GRAPHIC.PBF" size="1612" crc="745e9ad5" md5="b6cdb49ac9a7e875581efebdd46b2cc2" sha1="234ebcdf74bd55edf7bbcab76a2f350b21700ec4"/>
+		<rom name="KYODAI.BAS" size="1172" crc="3538ef44" md5="8897851c943c6a67c9bfd713fe3a54ea" sha1="e9156df47f0b0f8cd1d2f3db29d89f23f9d5ce3d"/>
+		<rom name="KYODAI870.B" size="1179" crc="fb70d765" md5="9d134549114bedf435576e87cdbdf376" sha1="e1db5bd3beec6b7157780b8c7eabb2b21091ee33"/>
+		<rom name="KYODAI870.PBF" size="2108" crc="dab53c36" md5="61a7c1ddf6610c6add45b275e03c3608" sha1="82e246a8c295c3aec07c4d68d3186547b6942350"/>
+		<rom name="KYODAI870.S" size="8353" crc="f8d3779b" md5="2065fa6d21de20be1de118173994cc7f" sha1="45a2ae550e5e60daa360a7f3844d10908a4a85e3"/>
+		<rom name="KYODAI870FS.B" size="1638" crc="4880ff8c" md5="5a4ef364de5ca3355b6545121d5d3029" sha1="1dc988dea6500f5ecfd811e4fa1c3f280a2ee7be"/>
+		<rom name="PBFTOBIN.BAS" size="701" crc="225029ec" md5="ea8eb4603f4111a436ad8ac6b3e0c37d" sha1="d9a217320f8874afbe164063f041ac19b1ccca2e"/>
+		<rom name="PBFTOBIN_VX.BAS" size="1665" crc="3a553cf1" md5="4e93d3a3d0be7537e0bdb33f12c1759c" sha1="c04f8f249cddba60cab53f390b00dcbb5653076e"/>
+	</game>
+	<game name="Undead Knight (1989)(Amano, Jun)">
+		<description>Undead Knight (1989)(Amano, Jun)</description>
+		<rom name="VAIO.BAS" size="31062" crc="0db578f7" md5="6e761201b829fe05425d2d611c18d913" sha1="93ea338e0c85bb79c622cff2b776aa5b31169468"/>
+	</game>
+</datafile>

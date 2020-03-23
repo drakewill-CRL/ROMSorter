@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Thomson TO8, TO8D, TO9, TO9+ - Compilations - Educational - [FD]</name>
+		<description>Thomson TO8, TO8D, TO9, TO9+ - Compilations - Educational - [FD] (TOSEC-v2017-07-05)</description>
+		<category>TOSEC</category>
+		<version>2017-07-05</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<url>http://www.tosecdev.org</url>
+		<clrmamepro/>
+	</header>
+	<game name="Collection Francais I (1986)(Edil)(FR)">
+		<description>Collection Francais I (1986)(Edil)(FR)</description>
+		<rom name="Collection Francais I (1986)(Edil)(FR).fd" size="327680" crc="0c4c2d37" md5="15aab6d74634b6bcb5c8d900b3c02c8c" sha1="b664799e69cc8ae2690963be5a6c2a88b906eef3"/>
+	</game>
+	<game name="Collection Histoire-Geographie I (1986)(Edil)(FR)">
+		<description>Collection Histoire-Geographie I (1986)(Edil)(FR)</description>
+		<rom name="Collection Histoire-Geographie I (1986)(Edil)(FR).fd" size="327680" crc="ae121358" md5="6424d9e19e147867357f026ef5a68ba3" sha1="b43bddd99ec40d60a31b56a5028e9d6f4eb64aa1"/>
+	</game>
+	<game name="Sac a Dos (198x)(Carraz)(FR)">
+		<description>Sac a Dos (198x)(Carraz)(FR)</description>
+		<rom name="Sac a Dos (198x)(Carraz)(FR).fd" size="327680" crc="9120bf00" md5="dd4b49f1cfc2bb4bd1125408fe4b4dac" sha1="4d2f29095d6f0d01590d05e22cb345a1f42c36dd"/>
+	</game>
+</datafile>

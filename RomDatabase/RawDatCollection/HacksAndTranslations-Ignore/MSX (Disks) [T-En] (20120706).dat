@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>MSX (Disks) [T-En]</name>
+		<description>MSX (Disks) [T-En]</description>
+		<category>English Translations</category>
+		<version>20120706</version>
+		<date>20120706</date>
+		<author>Powerpuff</author>
+		<email>-insert email-</email>
+		<homepage>Maybe-Intro</homepage>
+		<url>http://maybeintro.wordpress.com/</url>
+		<comment>Maybe-Intro</comment>
+		<clrmamepro/>
+	</header>
+	<game name="_MSX (Disks) [T-En] Docs">
+		<description>_MSX (Disks) [T-En] Docs</description>
+		<rom name="War in Middle Earth (Spain) [T-En by Robsy v1.0].txt" size="450" crc="a017a5d8" md5="1e06a01d5490a24d9d14f6c7f0338b17" sha1="7e1d5d87f5f4e497791c12973aafcf9fc494a121"/>
+	</game>
+	<game name="War in Middle Earth (Spain) [T-En by Robsy v1.0]">
+		<description>War in Middle Earth (Spain) [T-En by Robsy v1.0]</description>
+		<rom name="War in Middle Earth (Spain) [T-En by Robsy v1.0].dsk" size="737280" crc="fe18baa0" md5="05495d17dbf270c959bb924b1e3dffed" sha1="dc0190c5f981221d6ff6ec36450a329d60e364fb"/>
+	</game>
+</datafile>

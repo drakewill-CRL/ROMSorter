@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Visual Pinball [VPXx] PinMame Tables [Flipperless]</name>
+		<description>Visual Pinball [VPXx] PinMame Tables [Flipperless]</description>
+		<category>Visual Pinball [VPXx] PinMame Tables [Flipperless]</category>
+		<version>1.0</version>
+		<date>2020-01-01</date>
+		<author>Yori Yoshizuki</author>
+		<email>-insert email-</email>
+		<homepage>Yori Yoshizuki</homepage>
+		<url>https://yoshizuki.webs.com</url>
+		<comment>-insert comment-</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Alley Cats (Williams)(1985)(Rascal)(1.1)[VPX05][DT+FS][Bowling]">
+		<description>Alley Cats (Williams)(1985)(Rascal)(1.1)[VPX05][DT+FS][Bowling]</description>
+		<rom name="alcat_l7.zip" size="35164" crc="aa4172e7" sha1="3ed2fec9c5afcab9bb634b85763d39eef55302f4"/>
+		<rom name="Alley Cats (Williams 1985)1.1.vpx" size="24707072" crc="5052243d" sha1="130d980d405412fce337b2b77283e3700a0761a5"/>
+		<rom name="alleycatsssdt.jpg" size="664328" crc="d52c0c41" sha1="31011c0fc908a535e84e6c95061b5ffcb9c832c9"/>
+		<rom name="alleycatsssfs.jpg" size="501151" crc="542fe170" sha1="414a23a8a32786a1f55b22f3997d52207353f30b"/>
+	</machine>
+	<machine name="Aristocrat (Williams)(1979)(Rascal)(1.1)[VPX05][DT+FS][Bowling]">
+		<description>Aristocrat (Williams)(1979)(Rascal)(1.1)[VPX05][DT+FS][Bowling]</description>
+		<rom name="arist_l1.zip" size="5201" crc="26a8aa23" sha1="a83fc447cf51c216a44df2eb4bb629f606b67fb2"/>
+		<rom name="Aristocrat (Williams 1979).directb2s" size="6939687" crc="7387cc24" sha1="a627202521ca5aca3f6a55651b864a8454624040"/>
+		<rom name="Aristocrat (Williams 1979)1.1.vpx" size="22745088" crc="d2b52815" sha1="2429c310acbed5c5238ff326c668b8231d45d645"/>
+		<rom name="Aristocratdb2s.png" size="832099" crc="e6c9b62d" sha1="ae3167517719d277682703211fe7fbe9ec9ecf8d"/>
+		<rom name="aristocratssdt.png" size="4807045" crc="dce2ed90" sha1="fffdf1a5f3a35ef64da748995e5265ea5787fdf2"/>
+		<rom name="aristocratssfs.png" size="4085675" crc="263d3511" sha1="e0a2568fef282729c971636f32f0000a2aa62e10"/>
+	</machine>
+	<machine name="Bright Lights (Bally)(1951)(Druadic)(1.3)[VPX06][Flipperless]">
+		<description>Bright Lights (Bally)(1951)(Druadic)(1.3)[VPX06][Flipperless]</description>
+		<rom name="BrightLightsV1.3VPX.vpx" size="11628544" crc="145fe8b2" sha1="e6ea3200e9286b9d0a21d5d85c54718faffe1b9e"/>
+		<rom name="brightlightsvpxscreenshot_bWy.jpg" size="718539" crc="d9d2b91b" sha1="09396ad987a03e84a500441945a8e4394ff176a4"/>
+	</machine>
+	<machine name="Frolics (Bally)(1952)(Druadic)(1.0)[VPX06][Flipperless]">
+		<description>Frolics (Bally)(1952)(Druadic)(1.0)[VPX06][Flipperless]</description>
+		<rom name="BallyFrolicsLARGECARD.png" size="1834325" crc="8d9c0918" sha1="c19a147411ced98ee4ce831ebd06876946e89cec"/>
+		<rom name="Frolics Updates VPX.txt" size="503" crc="4b35d741" sha1="353ffa41dc98c664abf258bb7a81884f2d738aab"/>
+		<rom name="frolics vpx screenshot_06J.jpg" size="719985" crc="a82cc311" sha1="207b53c8184bf36271f5088820179c77481e2419"/>
+		<rom name="FrolicsVPX.vpx" size="12562432" crc="893bde49" sha1="65d92c283d2bb78423e974289f12277bb371b9df"/>
+	</machine>
+	<machine name="Gold Mine (Williams)(1988)(Rascal)(1.0)[VPX05][DT+FS][Bowling]">
+		<description>Gold Mine (Williams)(1988)(Rascal)(1.0)[VPX05][DT+FS][Bowling]</description>
+		<rom name="gmine_l2.zip" size="58471" crc="5661d147" sha1="bd7c5121b60ffb3120c2b3e6e7b7a193e936e9a1"/>
+		<rom name="Goldmine (Williams 1988).vpx" size="20566016" crc="0f16728a" sha1="2c1b63d51925a07f9803693957b984a8bb91da19"/>
+		<rom name="goldminessdt.jpg" size="704714" crc="9d2e15aa" sha1="50c14c825cac368f9c0c5dc406e0ac64981d2fa5"/>
+		<rom name="goldminessfs.jpg" size="471913" crc="833b3c7b" sha1="6fe6e81f851b1b25d4b760f03eae9614776c7688"/>
+	</machine>
+	<machine name="King Tut (Williams)(1979)(Rascal)(1.0)[VPX-5[DT+FS][Bowling]">
+		<description>King Tut (Williams)(1979)(Rascal)(1.0)[VPX-5[DT+FS][Bowling]</description>
+		<rom name="King Tut (Williams 1979).vpx" size="26456064" crc="c90617a8" sha1="e6967c3f030208c16c2409a6b4e066a65f1d46b6"/>
+		<rom name="King Tut (Willliams 1979).directb2s" size="5723417" crc="50bd42c5" sha1="5989c2b7c6e28877a14aa90ff4e2be3941536f22"/>
+		<rom name="King-Tut-Willliams-1979-directb2s-600x480.png" size="701129" crc="792977d3" sha1="29e223709df1ea38117a4d33edd2cb5fca49ab70"/>
+		<rom name="kingtutssdt.jpg" size="630804" crc="737ac0e3" sha1="0fb6aa011b92c26c0cc9b805514de4cdedd54818"/>
+		<rom name="kingtutssfs.jpg" size="443017" crc="3609c56a" sha1="06db1504f362663e1dc326c4e305d0148a11a3d8"/>
+	</machine>
+	<machine name="League Champ (Williams)(1996)(Rascal)(1.1)[VPX05][DT+FS][Bowling]">
+		<description>League Champ (Williams)(1996)(Rascal)(1.1)[VPX05][DT+FS][Bowling]</description>
+		<rom name="lc_11.zip" size="459729" crc="aa50b591" sha1="d30e7e471916a8c26535f5d56d78c0ca34acd885"/>
+		<rom name="League Champ (Williams 1996)V1.1.vpx" size="23109632" crc="8dba4115" sha1="60fe8edcec5ab7abef64870237653c719cc21ef4"/>
+		<rom name="leaguechampssdt.jpg" size="555191" crc="6cd0429f" sha1="9bfe87bbb337c09829c337bf6bc164f457930366"/>
+		<rom name="leaguechampssfs.jpg" size="457371" crc="a0bfcd1b" sha1="3690bd64947786a16ea87b45e5ac8b65d242ee33"/>
+	</machine>
+	<machine name="Pompeii (Williams)(1978)(Rascal)(1.0)[VPX05][DT+FS][Bowling]">
+		<description>Pompeii (Williams)(1978)(Rascal)(1.0)[VPX05][DT+FS][Bowling]</description>
+		<rom name="Pompeii (Williams 1978).vpx" size="27938816" crc="ac7b7510" sha1="b4c69b865597336bdfc7439990d329b815b9a3ce"/>
+		<rom name="pompeiissdt.jpg" size="555855" crc="4bd56e55" sha1="ce3ae59aa1026923fd1cc12c856bed583f1bac7d"/>
+		<rom name="pompeiissfs.jpg" size="419798" crc="7a872237" sha1="8d98448db79cc1d76751ee08ad504c2b010a25af"/>
+	</machine>
+	<machine name="Shuffle Inn (Williams)(1989)(Rascal)(1.0)[VPX05][DT+FS][Bowling]">
+		<description>Shuffle Inn (Williams)(1989)(Rascal)(1.0)[VPX05][DT+FS][Bowling]</description>
+		<rom name="shfin_l1.zip" size="58444" crc="fd347f2e" sha1="ad67c4fed562233e7aafcd18e514d8fde1694cd1"/>
+		<rom name="Shuffle Inn (Williams 1989).vpx" size="33062912" crc="0eb581e2" sha1="8acfe507e4fa54ac90caf3c86ba03b9aa5e22e36"/>
+		<rom name="shuffleinnssdt.jpg" size="639732" crc="ebfa889f" sha1="96d207086148e7249e8817c10741766426635327"/>
+		<rom name="shuffleinnssfs.jpg" size="459340" crc="330540a7" sha1="721591805effe143d306b10aca6ad1e4fd222b85"/>
+	</machine>
+	<machine name="Silver Line (Billport)(197x)(JPSalas)(1.0.0)[VPX05][Flipperless]">
+		<description>Silver Line (Billport)(197x)(JPSalas)(1.0.0)[VPX05][Flipperless]</description>
+		<rom name="Silver_Line_1.0.0.vpx" size="4386816" crc="03feb693" sha1="a7e1ea5e260a6e97897b2096457763241a89dc71"/>
+		<rom name="silver_line_100.jpg" size="789998" crc="2505866e" sha1="1e8646ed7810da3ec3fce3edaecdd7f797939375"/>
+	</machine>
+	<machine name="Strike Master (Williams)(1991)(Rascal)(1.0)[VPX05][Bowling]">
+		<description>Strike Master (Williams)(1991)(Rascal)(1.0)[VPX05][Bowling]</description>
+		<rom name="ssdt.jpg" size="534996" crc="9099df77" sha1="d633ddbfb3bdc9bc3869572222778f7f214fbce0"/>
+		<rom name="strik_l4.zip" size="444445" crc="ba6a01a8" sha1="e5057869550ded497cab8190568e05eaf51179ad"/>
+		<rom name="Strike Master (Williams 1991)V1.0.vpx" size="20406272" crc="e8f20d72" sha1="c9cee2592729fac26a645c7802591a65aed107f5"/>
+	</machine>
+	<machine name="Strike Zone (Williams)(1984)(Rascal)(1.0)[VPX05][DT+FS][Bowling]">
+		<description>Strike Zone (Williams)(1984)(Rascal)(1.0)[VPX05][DT+FS][Bowling]</description>
+		<rom name="Strike Zone (Williams 1984).vpx" size="30810112" crc="789d13cd" sha1="4e38efbcd1e2b781c4da392906572b233a255206"/>
+		<rom name="strikezonessdt.jpg" size="540516" crc="915d59f0" sha1="e0dad6a2e3315c57c02a0737f27bc668e21e885f"/>
+		<rom name="strikezonessfs.jpg" size="447897" crc="ffe7ae8c" sha1="3e31d1e6e16be6fb6ab16d24fc1f992740c8d37e"/>
+		<rom name="szone_l5.zip" size="21208" crc="20caa4ee" sha1="d5f1eb0c0d9ccc636df15fddf768217bd732bab1"/>
+	</machine>
+	<machine name="Top Dawg (Williams)(1988)(Rascal)(1.0a)[VPX05][DT+FS][Bowling]">
+		<description>Top Dawg (Williams)(1988)(Rascal)(1.0a)[VPX05][DT+FS][Bowling]</description>
+		<rom name="tdawg_l1.zip" size="68428" crc="a820cc5e" sha1="0a874322661c34efb23ad3c328cf347d7275304e"/>
+		<rom name="Top Dawg (Williams 1988).vpx" size="24166400" crc="1865da0f" sha1="c167e0a06dc10c7b5acfbf733cdef1def7478edd"/>
+		<rom name="topdawgssdt.jpg" size="642723" crc="638067e1" sha1="d3c10d9166531b95ccdc5679fee74bb680611e68"/>
+		<rom name="topdawgssfs.jpg" size="472902" crc="be89b8f2" sha1="d3bae250dea782242ba4a2e1eea85eaea4103e3c"/>
+	</machine>
+	<machine name="Zipper Skill (Binks Industries)(1957)(Druadic)(1.2)[VPX06][Flipperless]">
+		<description>Zipper Skill (Binks Industries)(1957)(Druadic)(1.2)[VPX06][Flipperless]</description>
+		<rom name="zipperskillvpx_f7u.jpg" size="721437" crc="960c2a34" sha1="bbe14e5030c7f48eafee2e8cacc271d3d38246f6"/>
+		<rom name="ZipSkillVPX.vpx" size="6721536" crc="1d22a43b" sha1="6ab499da9388723a16cec7aa4f7d0622b1166ce7"/>
+	</machine>
+</datafile>

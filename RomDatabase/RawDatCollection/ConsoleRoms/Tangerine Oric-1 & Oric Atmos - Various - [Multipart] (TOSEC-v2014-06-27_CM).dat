@@ -1,0 +1,312 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tangerine Oric-1 &amp; Oric Atmos - Various - [Multipart]</name>
+		<description>Tangerine Oric-1 &amp; Oric Atmos - Various - [Multipart] (TOSEC-v2014-06-27)</description>
+		<category>TOSEC</category>
+		<version>2014-06-27</version>
+		<author>Grendel - Cassiel - Sico - Tankgirl</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="7eme Dan, Le (19xx)(Jean-Pierre Ferrand)(fr)">
+		<description>7eme Dan, Le (19xx)(Jean-Pierre Ferrand)(fr)</description>
+		<rom name="Le7emeda.ta1" size="37802" crc="930d6bc6" md5="c0423168d5dd8755d85493ca056b0fd5" sha1="035bb6af6fae8ca7e62fb073764101ee1bd5f480"/>
+		<rom name="Le7emeda.ta2" size="31577" crc="8b0d2073" md5="e19a1384d7e9312816d05e54d9c1242e" sha1="51456418e528072a79990daf92a380721683d293"/>
+		<rom name="Le7emeda.ta3" size="12307" crc="1efc1a1b" md5="ee67d38d23a5446ad87bc6d96436cc3b" sha1="97a634c2c81c37f3826166314a348787b608f270"/>
+		<rom name="Le7emeda.tap" size="2677" crc="06fc6d89" md5="f3bba70232889274cfda4ace5b1cd046" sha1="31c7b53cbd829408392a3452f12a333bf260020f"/>
+	</game>
+	<game name="Airfox (1988)(Starsoft)(fr)">
+		<description>Airfox (1988)(Starsoft)(fr)</description>
+		<rom name="Airfox.ta1" size="37886" crc="1e7973a2" md5="bffa7df920196a1073719e2fd92e0d92" sha1="c472b25b2cb8cd6cf7ccf241ddc9aea43fae1d4d"/>
+		<rom name="Airfox.tap" size="6032" crc="a7c0371f" md5="661c21a110afdf205d7fac362811defd" sha1="ae8a34c43b65f87017ed351bf986ce167bc7ef47"/>
+	</game>
+	<game name="Alphabet (19xx)(Crabes)(de)">
+		<description>Alphabet (19xx)(Crabes)(de)</description>
+		<rom name="Alphabet.tap" size="1328" crc="a85f6032" md5="f4dd625fbc8834064195618c4e57cb50" sha1="b920ebc900ba8c62f55ee4f19256ed264752448b"/>
+		<rom name="Alphaload.tap" size="688" crc="22d2977f" md5="c49e9e830b4244d1cc94afad3e989dc8" sha1="0b18712fad2e95bc194cca1172d3172384f9df20"/>
+	</game>
+	<game name="Atlantid (19xx)(J. A. Canavaggia)(fr)">
+		<description>Atlantid (19xx)(J. A. Canavaggia)(fr)</description>
+		<rom name="Atlantid.ta1" size="794" crc="2bb1a463" md5="640d340f31279ed556bb7827c4a7b34f" sha1="0c648f9c43ad2889823b7d6854ea5e64c1f26f7b"/>
+		<rom name="Atlantid.ta2" size="12161" crc="d441c7a2" md5="84b3e9b9bea9708d71418a28fdfbfeab" sha1="bfd0ea0c934a69b09a67fdf446172480f1577bbc"/>
+		<rom name="Atlantid.tap" size="4662" crc="55dc86d4" md5="fac968f173d31757dff3af0c1972330d" sha1="08ac5ff4e308a778ce1c2ed8d576e80be465eaae"/>
+	</game>
+	<game name="Attac On Kixi (1984)(G.Morgan Software)">
+		<description>Attac On Kixi (1984)(G.Morgan Software)</description>
+		<rom name="kixi.ta2" size="26615" crc="29cfb527" md5="ce775bccd7879b8809c02331ca3fcf11" sha1="7e1f966eab00f996ef13d571cd0cd6b4163b2bbb"/>
+		<rom name="kixi.ta3" size="10088" crc="1cf02a85" md5="d88203a81ea6ef39a1521eb4a15f59ad" sha1="ae58ee1c42362130591c0f954343a75923638f2e"/>
+		<rom name="kixi.tap" size="68" crc="66a4b52b" md5="a746d7df61b406ffc3115a8d6eb05473" sha1="0a9f73eecdf7a2b636f73ddbc51e1bc5f5c7e2de"/>
+	</game>
+	<game name="Bozy (19xx)(-)">
+		<description>Bozy (19xx)(-)</description>
+		<rom name="bozy.ta2" size="573" crc="7b44c577" md5="5916d428ff5e8b5681578c4c59d8a0d1" sha1="41ca3ae86aacc015f5bc37aa857c2b3e334d6f94"/>
+		<rom name="bozy.ta3" size="4454" crc="07e405f8" md5="ff67a01116d285bbf43c0793ab8e9b29" sha1="dd63ec326290ca3fad3357f45af43fe2462cdd37"/>
+		<rom name="bozy.tap" size="83" crc="df800388" md5="6b32ac0ab7419467ce47df4b3857bbbf" sha1="0efd9e116f3b2a7c37b540531eef5285fae712e5"/>
+	</game>
+	<game name="Bucanneer (1986)(M.J.Wade)">
+		<description>Bucanneer (1986)(M.J.Wade)</description>
+		<rom name="buccan.bas" size="37906" crc="de93be19" md5="97f972e74451e4ded579c2a5b3555509" sha1="af1207912c3f499e2540d1b5b6986a4ce68a71d9"/>
+		<rom name="buccan.tap" size="1112" crc="ea318889" md5="6ed949498783c982c01b51764a1ffb38" sha1="62a12655616717c5bc4c40abd33e8d8d66e82787"/>
+	</game>
+	<game name="Car Maniac (19xx)(-)(fr)">
+		<description>Car Maniac (19xx)(-)(fr)</description>
+		<rom name="carman.ta1" size="8569" crc="b96ed171" md5="641ad5acc624488cf1d8f3c53650ab10" sha1="c4fead6993f263bf7af0daf0302a60cf30d17067"/>
+		<rom name="carman.ta2" size="8601" crc="a5b49084" md5="b0919361dc6c566fca51c0adc5a2a93b" sha1="d55aa40bec608165c13598f42cac989ff4f678d9"/>
+		<rom name="carman.ta3" size="16675" crc="4625784a" md5="fce771869dde51ca91dc3d5a14d68fed" sha1="22b80832582bca161191836d3f3458c9ab9bb2f9"/>
+		<rom name="carman.tap" size="220" crc="ffc43fec" md5="c0f4670c2ebb4ba993a8a71f0cab0ce6" sha1="915c96d129917cf349632841ca9838dd01ee2e41"/>
+	</game>
+	<game name="Caspak (19xx)(-)(fr)">
+		<description>Caspak (19xx)(-)(fr)</description>
+		<rom name="caspak.ta1" size="12325" crc="6ed2c540" md5="2bd0c024112f7a9b0743d3fc9435105c" sha1="33ccbd5f70181105699c5afa29549b2da5822a5b"/>
+		<rom name="caspak.ta2" size="5912" crc="8c649735" md5="8b2ca0efdf908cca0ff243aa8ab30142" sha1="891a82515e201fad2b39794edd833fd811163abd"/>
+		<rom name="caspak.tap" size="71" crc="256aa0dd" md5="30eb8e9fc983ff732bb62979d2e0e417" sha1="49d6ed04dd4e39dc033eaff034e2325ee7eca381"/>
+	</game>
+	<game name="Chuckford (19xx)(-)">
+		<description>Chuckford (19xx)(-)</description>
+		<rom name="chuckf.ta1" size="19481" crc="b23f6b00" md5="d24f347350fa6dffa9a7902e297b3ce2" sha1="32c2aa9dd0ee98967cec1bdf5dd711f91f5a0bed"/>
+		<rom name="chuckf.tap" size="278" crc="a0f4775e" md5="7343f9c4bec474c1a1794943633f9cf8" sha1="779adbd3a18ea2cc788050686271a2d4a77ae3e0"/>
+	</game>
+	<game name="Classic Racing (19xx)(-)">
+		<description>Classic Racing (19xx)(-)</description>
+		<rom name="classic2.ta1" size="5422" crc="328e4679" md5="dcaf2a77e382260d0e57a96bef7f1784" sha1="567937629af4d902ff5b9e97728195b1786d5cfc"/>
+		<rom name="classic3.ta2" size="15222" crc="6a0d0e87" md5="59cbe73e4a807a1611721e4a65f7b6c5" sha1="1ae82c4c45c5127b92b533f5c269709eaf718d17"/>
+		<rom name="classicr.tap" size="7741" crc="c80d4bfe" md5="2921acf8052f8f7774b752c09dbc70a8" sha1="e9de456de137cedcaa3212c8d12aa93a9506bb43"/>
+	</game>
+	<game name="Dedal (19xx)(-)(fr)">
+		<description>Dedal (19xx)(-)(fr)</description>
+		<rom name="dedal.ta1" size="3607" crc="5fcf5042" md5="cea38b99ade8473b458cebb501367e65" sha1="585664229243f71b60e38a2022e262068a1ed026"/>
+		<rom name="dedal.ta2" size="4328" crc="8637cf78" md5="e604fbb8d4c18b9160fc802808b978ed" sha1="e9130f8c0ed151caaeec5da00b482f7ab9159a3e"/>
+		<rom name="dedal.ta3" size="21817" crc="41f7b5b3" md5="3ece881892d142cb3a2fd9d753f341d9" sha1="c2256fab7f168204c9cf97be496e61a07a5e2a5b"/>
+		<rom name="dedal.ta4" size="5246" crc="8b871ef0" md5="4f3800615b23e033ccde02da82b279f0" sha1="fc60e510456837aec5c4d88bc775a9a77e582019"/>
+		<rom name="dedal.tap" size="179" crc="5d5999a6" md5="579029c3aec49d5bb171291367df2c21" sha1="aea4f47d6f54c5fab8e886757e2a043362fc35b1"/>
+	</game>
+	<game name="Digger (1984)(M.C. Lothlorien)">
+		<description>Digger (1984)(M.C. Lothlorien)</description>
+		<rom name="digger.ta2" size="7030" crc="68a1ea71" md5="e425c29331f229f5162d7420b9aa25d3" sha1="80b0473556b93ea0982e964d6ab94b66c3428695"/>
+		<rom name="digger.ta3" size="10775" crc="fb2459db" md5="26fe6c2a3eeaac7ab686537e53edf6ec" sha1="1c17fa0d9d2c37d11d584e8eb53a315cf5138713"/>
+		<rom name="digger.tap" size="206" crc="b3e68e47" md5="439a54b218b72eabd31a4af738084c78" sha1="04a24913a8fb8b321a97c6dee5473a9ff1ec1931"/>
+	</game>
+	<game name="Dinky Kong (19xx)(Evern Software)">
+		<description>Dinky Kong (19xx)(Evern Software)</description>
+		<rom name="dinky.ta1" size="783" crc="28c7abce" md5="640ad1d79371487526618b1aee1d3cad" sha1="293aca01328146d0d463ed6256e4a2dbe350907d"/>
+		<rom name="dinky.ta2" size="1136" crc="160958fb" md5="e4f4bbf0398b6db67a53c69afdca37e5" sha1="723b4bd6df774176b98e869e211c671a6063e502"/>
+		<rom name="dinky.ta3" size="498" crc="30bc4df8" md5="195dc23b71c5adbe7ffb3351cfd8ef51" sha1="155f49862bb60339e1d59910445c009825187563"/>
+		<rom name="dinky.ta4" size="2465" crc="a984cc33" md5="9c0ee643983ba6b856f5d19584d22b20" sha1="b1b639ce92fa04f03980c1a97698922810af8939"/>
+		<rom name="dinky.ta5" size="657" crc="79f29133" md5="c872e49f5fdf38049c4a24e3e3740c56" sha1="c0eef31de3174862db6512b967fd46e81e441b77"/>
+		<rom name="dinky.ta6" size="784" crc="3925f7d6" md5="31d42b139d4c5a9cd39c5f9339516f79" sha1="178f83f39370d685bf66eda7004279a22fbb2aad"/>
+		<rom name="dinky.ta7" size="3046" crc="582a9e5c" md5="3d47bd573a69656dc7eece7101420ab4" sha1="666e26ea04f16bb1e4ac875090f8ac7b0ff990dc"/>
+		<rom name="dinky.tap" size="625" crc="f45f2848" md5="b4da0cd721860324ae24cb573c0bfe67" sha1="3530860e27e7accc8ac73c673eec3212ed0a4cd9"/>
+	</game>
+	<game name="Fly For Your Life (19xx)(Braynstorm Software)">
+		<description>Fly For Your Life (19xx)(Braynstorm Software)</description>
+		<rom name="flyfor.ta1" size="257" crc="7d6df62d" md5="349dfc4cbf3676af1831b25b8eda8284" sha1="e5f515069a274f03c1f27c4056d520c6f478ded7"/>
+		<rom name="flyfor.ta2" size="5530" crc="4e69614c" md5="b2b5cd2902cee6eab33a27018c0858b9" sha1="b19d06f15fe78bc3751da9b340f51c4fb78c8ab7"/>
+		<rom name="flyfor.ta3" size="718" crc="f61d6176" md5="69be6de45be1815586fa98844792bdef" sha1="23bb56bbaff6f826c5f8c2b3e05239e980161e52"/>
+		<rom name="flyfor.tap" size="1438" crc="c9b29046" md5="2487fa45a992de6cf59c96bf5bad2770" sha1="c309752ae5ebcc9c33f154786c9db934221c0f8f"/>
+	</game>
+	<game name="Frelon (1984)(Loriciels)(fr)">
+		<description>Frelon (1984)(Loriciels)(fr)</description>
+		<rom name="frelon.ta2" size="23528" crc="b908816a" md5="9042a1767d7473d1bf53cc4cf42c618e" sha1="3d80f284345dc4eb00b7e2bacd3faa5ee2aaec85"/>
+		<rom name="frelon.tap" size="3508" crc="6f948b10" md5="7cccaf33624d6a1ef6805bdb45234045" sha1="973c1ac6922d66488a410335d0924490054f1005"/>
+	</game>
+	<game name="Gubbie (1985)(Alexander Aghassipour)">
+		<description>Gubbie (1985)(Alexander Aghassipour)</description>
+		<rom name="gubbie.ta1" size="17613" crc="50da50a9" md5="b0b30988fd0af5027c0cb228f0415430" sha1="654a07b0ff0866398755427eddb9dd42c138e284"/>
+		<rom name="gubbie.ta2" size="16225" crc="32fa8cc0" md5="5f826d58a61d6e6f855826d0453430ce" sha1="71efa7c34b2bcc45e85fe8f8f8193014c016e901"/>
+		<rom name="gubbie.tap" size="1001" crc="1fc3a053" md5="e350774a7c2a0f218f01f2f0a8876f0b" sha1="eb9a9e2ebaf579e1532e7c638b6ad9a2cd6fc520"/>
+	</game>
+	<game name="Jeux Olympiques (19xx)(-)(fr)">
+		<description>Jeux Olympiques (19xx)(-)(fr)</description>
+		<rom name="olymp.ta2" size="8291" crc="e7a2d040" md5="6a958f7c1d52260564ad7fe2694ec2e7" sha1="23c47b5faddc0e1420232c38e21967a444cafbf5"/>
+		<rom name="olymp.ta3" size="1053" crc="2f258965" md5="1bae42dfb452288c73f316f890a951d5" sha1="ad0f299c7749593ceec9fa15441a66ffe2029f4e"/>
+		<rom name="olymp.ta4" size="13400" crc="1b61c965" md5="820f5af97badef1a99898670548990c0" sha1="84b4ae8de7ab7d1ae896ed478f7c22027f842d44"/>
+		<rom name="olymp.ta5" size="14645" crc="8c989dfe" md5="16bee2d28a774fd7780e7fdad1000699" sha1="438a0f772a21e0f59654c2a9e02342b799e049a3"/>
+		<rom name="olymp.tap" size="6774" crc="78a98a7d" md5="e4dc8ced02fa68c7eeb6310b37cfec2d" sha1="12b9bbcdb6d8124ea3b6b142a6874d1e83a879e9"/>
+	</game>
+	<game name="Kryllis (19xx)(Cosmos Computer Software)">
+		<description>Kryllis (19xx)(Cosmos Computer Software)</description>
+		<rom name="Krylis.1" size="182" crc="049fec49" md5="a7da0fcd015eccab4a31120633066a3a" sha1="c8f4fc7d186db738fb3f1ce2e6871a83f9334aec"/>
+		<rom name="Krylis.2" size="8670" crc="041d0be3" md5="ab46ae62a81be5e0d5539a971e84db5a" sha1="800de6282f2bce5de2c56addff348aed03f838b6"/>
+		<rom name="Krylis.3" size="10102" crc="48d112d3" md5="9e5e77724d520b6d3e3691061d02ba19" sha1="c0fc23c19765140a294f9e29b2a4445af61ae2f8"/>
+		<rom name="Krylis.4" size="16575" crc="9c05a7cc" md5="45ecc08770dc04f1320a00a809fb7537" sha1="024aa2166d305c7ab9f11b689457d7674e310c92"/>
+	</game>
+	<game name="Megabase (19xx)(-)(fr)">
+		<description>Megabase (19xx)(-)(fr)</description>
+		<rom name="Megabase.ta1" size="277" crc="c80afea2" md5="918447f69c97ef14c91e1ccaeccad16a" sha1="ba272e6e7cf2625d7f0238a7b1e7a2faa4267b70"/>
+		<rom name="Megabase.ta2" size="6166" crc="3d98bf50" md5="769d4432cc3acc146e6c05506d779e6f" sha1="3c478727662c06b32db83fcca3746fc0c3516bab"/>
+		<rom name="Megabase.ta3" size="10994" crc="be7c864b" md5="61567190a43324abf2d159b652aeb071" sha1="d738cbabfdbdbaf53e6e507849755b72b0e467ae"/>
+		<rom name="Megabase.tap" size="190" crc="eb9a6dc9" md5="e9c90ac1c0152d39293d75496fdb5b9b" sha1="1a7dbe4fb99ec8fdba125244cbc7928376ee1ffa"/>
+	</game>
+	<game name="Millionaire (1984)(R.Piechaud - Ere Informatique)(fr)">
+		<description>Millionaire (1984)(R.Piechaud - Ere Informatique)(fr)</description>
+		<rom name="mill.ta1" size="8023" crc="e80f1f86" md5="e488fc787ce5ed818980c84e3fc2b959" sha1="a0fbecb5405e4fc7986ddecab51ce51230405cae"/>
+		<rom name="mill.ta2" size="25497" crc="c66f64a4" md5="b81a3bca1bd91267c19f1581e411fb86" sha1="ae46bb7ead1667cb82d1f83ba1b022d64bdbc40b"/>
+		<rom name="mill.tap" size="2030" crc="9885282a" md5="6fdf5a5be8e79e89431e102e00b15e06" sha1="e83ae62007ff4fbef957f3c160959791379de73c"/>
+	</game>
+	<game name="Mr. Wimpy (1984)(Ocean Software Ltd)[b]">
+		<description>Mr. Wimpy (1984)(Ocean Software Ltd)[b]</description>
+		<rom name="wimpy.tap" size="125" crc="0037d3b2" md5="b055dcb4c409ed96ace547008b47fb24" sha1="9ece55525ff1eefef8b2dc9899b686bfb81773ea"/>
+		<rom name="wimpyprg.tap" size="23027" crc="2a5eba98" md5="ea3df7a591e0a0ad1b24e0a8b780c772" sha1="b550d4c9847f417ca5be789508d3009d32c1e630"/>
+		<rom name="wimpyscr.tap" size="8026" crc="925778e3" md5="35619cd0038f135c9a62fcef470dba8a" sha1="33b418e8893d0326abe620b5fec30524f0666803"/>
+	</game>
+	<game name="Mysterious Adventures - Timemachine (19xx)(Digital Fantasia)">
+		<description>Mysterious Adventures - Timemachine (19xx)(Digital Fantasia)</description>
+		<rom name="time.bin" size="28694" crc="06dab706" md5="da7096593b868011ef6e1a1432e146d8" sha1="708217bf5d610312513e17fbebe1d750bf82cbe0"/>
+		<rom name="time.tap" size="549" crc="228e44b8" md5="f3ad87bdb5ba954bb4649593827f50c7" sha1="8af13f3d38e80ef4567db6c4a6c90e7e55f22815"/>
+	</game>
+	<game name="Mystery Tower (19xx)(-)">
+		<description>Mystery Tower (19xx)(-)</description>
+		<rom name="mysttow.ta1" size="281" crc="5f6db756" md5="438e3b63007b768e2e3f9b8fa5f55ba9" sha1="3be394a41b67b39f97c84c91c1bd5885f2c64d9c"/>
+		<rom name="mysttow.ta2" size="29828" crc="e1e2753b" md5="71a8515fe532d0689ea2983f3d8a4802" sha1="0b5e2de54e28dca49030681bf4ecf2d1c9d932c5"/>
+		<rom name="mysttow.tap" size="68" crc="5d5825fe" md5="1bdf3472ad6550099e92126f54d4e1db" sha1="0157a6c003f3b242924b81c7b847eaf9d5dcf255"/>
+	</game>
+	<game name="Neptune (19xx)(-)(fr)">
+		<description>Neptune (19xx)(-)(fr)</description>
+		<rom name="neptune.ta1" size="282" crc="066f3347" md5="b0ae2a2f6c35fa131e56a4fd09d5c8d1" sha1="ab79a39cf5252d48ced76ded984632f621d2c8f9"/>
+		<rom name="neptune.ta2" size="33826" crc="2d90686e" md5="3ff274f1c9378c8215e6d872673fdc39" sha1="e5f32bb6f4a5251e42b95cb9c07422d2e0a3f4ad"/>
+		<rom name="neptune.tap" size="136" crc="a11211c6" md5="071003fe49099269d47d63909ac593b3" sha1="276f7c3e52eb2c147c318df60b04a0585bd9b7e4"/>
+	</game>
+	<game name="Operation Gremlin (19xx)(-)[incomplete]">
+		<description>Operation Gremlin (19xx)(-)[incomplete]</description>
+		<rom name="Gremlin.tap" size="334" crc="aa1630f9" md5="af61b8c22ab76204621263eae954a8c4" sha1="ebf0dd144f0940f5390cbd2bd47686043d41f7ea"/>
+		<rom name="gremlin2 [a].tap" size="14152" crc="38bfd194" md5="2ae4130409eb97207057b3af0a6ed62c" sha1="b40b16b352dc5563f50e880f86409aef29eb6e62"/>
+		<rom name="Gremlin2.tap" size="4331" crc="89008464" md5="aae62c6ea99ea63026ad9f5608f6b0b6" sha1="9411a342e6de11e906dfcff43562384d9e1285a1"/>
+		<rom name="gremlin3.tap" size="16448" crc="fc8b5ff7" md5="dd49d3916ce53121c2662e8e91961559" sha1="a693a87c26a2594307788b0c154280b44dc83e9d"/>
+	</game>
+	<game name="Oriclisp v1.0 (1986)(F.Frances)">
+		<description>Oriclisp v1.0 (1986)(F.Frances)</description>
+		<rom name="oriclisp.l" size="7787" crc="284a16ab" md5="4c2fbaa675707bd9ad3719ad17fcc2e9" sha1="969d733f821ab521a9dd00c33f70ca6a52cc8c18"/>
+		<rom name="oriclisp24k.l" size="7790" crc="abcff56b" md5="cdc288d56b50daa762491322ec3afb22" sha1="6e9bd7d540fb1a1249bf7a646c04eba6cc92e46b"/>
+	</game>
+	<game name="Orion (1983)(M. C. Lothlorien)">
+		<description>Orion (1983)(M. C. Lothlorien)</description>
+		<rom name="orion.tap" size="1183" crc="be3e83e4" md5="909cd29fcd599fd8ed36d8b22f61f9ca" sha1="ccec4dbb534c0bc729cf2af0aa05aa60696ff734"/>
+		<rom name="orion2.tap" size="5458" crc="367be610" md5="fd69dd4447a0e51e8e4c5f842212b4ed" sha1="60726a0efee705c56f88e5736ed0967e1aa7d1df"/>
+	</game>
+	<game name="Othello v0.0 (1983)(Anders Bostrom)">
+		<description>Othello v0.0 (1983)(Anders Bostrom)</description>
+		<rom name="othello.tap" size="5160" crc="680a142f" md5="eee63a62c1dc83159ace485fee18a192" sha1="5a031268a582669d1e0e279a2d82bb27e33d501a"/>
+		<rom name="othello2.tap" size="7074" crc="7e561536" md5="a7d8ec28f881271e803a311596baba75" sha1="eba4f2d1037d691e297a981dbeee0bc91825e6dd"/>
+	</game>
+	<game name="Pac-man (19xx)(Christophe Devalland)(fr)">
+		<description>Pac-man (19xx)(Christophe Devalland)(fr)</description>
+		<rom name="pac-man.tap" size="199" crc="2fe31b30" md5="8b77ce3a220c24f9c6a1060e86e7b845" sha1="acd1576cd88f5373cc7b51197210ac33d5a80832"/>
+		<rom name="pac1.bin" size="7847" crc="c1e231c2" md5="961af722cfae3207393c664af14bafdb" sha1="22d4409319ecb4945c34f3075680ebe80ae789fa"/>
+		<rom name="pac2.bin" size="2039" crc="c71fd260" md5="13d53a9e7e909dc7340f78d30cd27b5a" sha1="fe3a18eb1482858454ba4b08242d2b3e3d643d42"/>
+		<rom name="pac3.bin" size="6295" crc="7e74a013" md5="ba0871fccd5121eadacdfd438587dc7c" sha1="2cdba54de9cbc4ff486a5e862ffdce505345e704"/>
+	</game>
+	<game name="Picture Book (1984)(Softbacks)">
+		<description>Picture Book (1984)(Softbacks)</description>
+		<rom name="picbook.ta1" size="190" crc="b290eb38" md5="56ac76d7818dc31ec3faedbf3b0af4a4" sha1="a76935cd2ea448b73d3a624f7e3d2ac9ee1c409d"/>
+		<rom name="picbook.ta2" size="5617" crc="17a80cd9" md5="05574723822077844856666e70d59bc6" sha1="70ddcbc6021b2f6fb56ad325acccd11a04912b1a"/>
+		<rom name="picbook.ta3" size="7534" crc="4f5406f3" md5="a7e25dfa3bf01459cba76cf47936c538" sha1="896eb0ad58380591002cc6c4d498f013a840c765"/>
+		<rom name="picbook.tap" size="485" crc="a31c9543" md5="4300e6f9110f69c22d5e7f3f8a75344d" sha1="dde3ad6423292552825239d94befbb96fbdd2c06"/>
+	</game>
+	<game name="Reversi Champion (1984)(Loriciels)(fr)">
+		<description>Reversi Champion (1984)(Loriciels)(fr)</description>
+		<rom name="revers2.bin" size="10274" crc="f044c3e4" md5="eef5d357bd83f5f6dfa8f5d599fd2ce5" sha1="fb0ca83840dde1b4653b047034b96df1efb52124"/>
+		<rom name="revers2.tap" size="5657" crc="e7a53b89" md5="24c56a582726470c5b300ab6f94ee2e2" sha1="1808c50842b078b5bf693ee21f4dd700660ef969"/>
+	</game>
+	<game name="Ring Of Darkness (19xx)(-)">
+		<description>Ring Of Darkness (19xx)(-)</description>
+		<rom name="ringda.ta1" size="7434" crc="0705f1f0" md5="c387f08b5bf5c87ee5cff1820a01f9cb" sha1="4e37a08601e13e9d03079505f72dd92beafc0043"/>
+		<rom name="ringda.ta2" size="10125" crc="031c14ed" md5="78b87f4798c483c4dd7dd94e97d86ce5" sha1="76927f52df2eacbc34bd5d4a4ef61ddc1a742d68"/>
+		<rom name="ringda.ta3" size="25" crc="2b4581be" md5="d819da6a1e9ada9cc41a8d7c002ccde8" sha1="da2863dcf70adc14ac668576c7ed1447620569ef"/>
+		<rom name="ringda.ta4" size="17249" crc="cd394d66" md5="ac5d82e7ef283fb9da325c1b773f57c2" sha1="577e37b18628486e1cfe060ed60420bf877945e4"/>
+		<rom name="ringda.tap" size="3374" crc="68b29aa4" md5="83fbb5f0e8295737c97334dc99dc192f" sha1="39e94d18b55288041ede1de1555a4d47be562ae1"/>
+	</game>
+	<game name="Simon (19xx)(-)[incomplete]">
+		<description>Simon (19xx)(-)[incomplete]</description>
+		<rom name="Simon (19xx)(-)[incomplete].tap" size="1146" crc="22f4af3b" md5="31cf9f25b40618b28d51e723f2a436a0" sha1="e524d36a617f6d95fc5c7dbc68d14c5ee3184a0b"/>
+	</game>
+	<game name="Slalom (19xx)(Jan Bolhoj)(da)">
+		<description>Slalom (19xx)(Jan Bolhoj)(da)</description>
+		<rom name="slalom.bas" size="10381" crc="26f54693" md5="8020ddcacc2e3f3e7204ad11789842e4" sha1="fcfaaf03555349716193e3975f555203d2948122"/>
+		<rom name="slalom.bin" size="29825" crc="6141b826" md5="74f725a4fb63c23d050372982223e93a" sha1="657587f6eaa6962fff63977589eb8c3c9c4838b8"/>
+		<rom name="slalom.tap" size="69" crc="fc124d07" md5="40d7907b95b953525d89fa7aaafb6400" sha1="b61709c53a0dc4b1e16f40c57b76efc79efe70f6"/>
+	</game>
+	<game name="Sokobac (19xx)(-)(fr)[incomplete]">
+		<description>Sokobac (19xx)(-)(fr)[incomplete]</description>
+		<rom name="Sokobac (19xx)(-)(Fr)[incomplete].tap" size="1773" crc="dbcb33cd" md5="8aaeaf9c91141b22d43ac11da111f379" sha1="3b7b73101b115ad5e1ff9ab22d0c92bf64423c1c"/>
+	</game>
+	<game name="Special Operations (1984)(M.C.Lothlorien)">
+		<description>Special Operations (1984)(M.C.Lothlorien)</description>
+		<rom name="special.tap" size="990" crc="28ac3c92" md5="512e6d8c77db9a48f73d52a7bd941717" sha1="685e27959be0ad48da7bf013aa1a2c5233f9adf2"/>
+		<rom name="special2.tap" size="30334" crc="4708216b" md5="acb648e87e3be678174a3e34e69f5a55" sha1="5a7675297088460476048d604a4d223afe84602a"/>
+		<rom name="special3.tap" size="11163" crc="bfec5e9c" md5="615b430087ed5e1954c8967ed3e2a12f" sha1="84fd61d86da87cac9477a1da626f4429efe6795f"/>
+	</game>
+	<game name="Story Book (1984)(Softbacks)">
+		<description>Story Book (1984)(Softbacks)</description>
+		<rom name="stbook.ta1" size="1279" crc="212812b0" md5="bf13de35e146f515e862c991b545e24b" sha1="8d672db5cabdedbd68147dcef951ee223018ba6c"/>
+		<rom name="stbook.ta2" size="7926" crc="f1984387" md5="685d2d2c0e85248cf86c91baec8f76ba" sha1="43da748d352c17f6bc8e6abe5f880fe19eb82685"/>
+		<rom name="stbook.tap" size="357" crc="09630f5c" md5="c29d64af497307279aa43c4103f9eca2" sha1="617b8fb7bb08b7e2c23d5ffa6f9fdc90c3715e38"/>
+	</game>
+	<game name="Tansoft Language Master Class Series French (1983)(Gruneberg Linkworld Language)">
+		<description>Tansoft Language Master Class Series French (1983)(Gruneberg Linkworld Language)</description>
+		<rom name="french.t10" size="15701" crc="06c08192" md5="9847e71df3a86543cbff886e4c7b78cf" sha1="01a0da4eae544234a51a6bc4e0b43477d974fba4"/>
+		<rom name="french.ta2" size="13849" crc="c859e515" md5="f5f16f16d9e729a1fbd0b77dbc0c1868" sha1="0798d7f8d212b3964226e8f7ccbf4f872c8a76c2"/>
+		<rom name="french.ta3" size="12784" crc="b4cd3223" md5="65a559fdc2c52379e427f8c4f7dad401" sha1="12a4bee1474fe567c8909e422b413fa666296c5b"/>
+		<rom name="french.ta4" size="15848" crc="865f1da4" md5="ea16a4b395c1886170776a1efd290154" sha1="bc7dc763861214eb5e719f9ad2f0f442e413c5c0"/>
+		<rom name="french.ta5" size="18659" crc="8757a7cb" md5="0bb3e9dc7c7b4b5b23e57871dca8073e" sha1="9994aa6c5165e04a2efb05c17aef9e0f5596e837"/>
+		<rom name="french.ta6" size="13964" crc="41bdfe5c" md5="f93b8c37b951075526d1ebe1cdc64f00" sha1="f14b247df595faa495e5e53e1dbb1e372703c3de"/>
+		<rom name="french.ta7" size="15406" crc="3a256556" md5="fea291270b4feefbed936e68f43a024e" sha1="dc8f99f49320782ea8a0800d74971e486b7f479b"/>
+		<rom name="french.ta8" size="15733" crc="39e2f816" md5="3705c11f883078ae46ed9e1c17e6a489" sha1="635d7260d1a9b78d2eba258445e415929ba7b22a"/>
+		<rom name="french.ta9" size="19681" crc="e1d69cd2" md5="f97dace72618d5a987e17bd725e18a80" sha1="f9102c7314f1a463577bb74c006057a859ec25ae"/>
+		<rom name="french.tap" size="14356" crc="889ebefa" md5="9b4139af7774caba04bb7b9dead278f6" sha1="fd51711ced8c84984915c898d4f8c17ea969c713"/>
+	</game>
+	<game name="Tansoft Language Master Class Series German (1983)(Gruneberg Linkworld Language)">
+		<description>Tansoft Language Master Class Series German (1983)(Gruneberg Linkworld Language)</description>
+		<rom name="german.ta1" size="12788" crc="b97426d7" md5="335b5c4730f49fd1f416713011a2564d" sha1="129efd19ddc35690d5ae8a8248ba3dd3c35782bd"/>
+		<rom name="german.ta2" size="14664" crc="1f8e9f82" md5="92dc32001284ec64247cd2bd1d9e9ffc" sha1="88a7f9696bfd867f997c33877fa845424e4becd2"/>
+		<rom name="german.ta3" size="12326" crc="fd920b67" md5="3d2f0c50ee60ab0db80d2ad1e2c2bfb5" sha1="151c71435068cae74dbb2cccf15325103c4db8b4"/>
+		<rom name="german.ta4" size="17163" crc="a6fa7195" md5="3eb938365453e1c629b071d33aa1893c" sha1="ff55a20c6d13f0d8647835c9e651f35e789b3b18"/>
+		<rom name="german.ta5" size="16971" crc="2d702851" md5="14fa05149a23dbde5684e09f7a22426c" sha1="f1d34d22a173b97b57d50ce7d5ab21afde80485f"/>
+		<rom name="german.ta6" size="15700" crc="4783ebe5" md5="dae36d6f2874ebb3ee9f2b72919996bd" sha1="98e97f6a3944810ba79385e5559a77dde9abbb7e"/>
+		<rom name="german.ta7" size="13623" crc="06748aa9" md5="0162426bf73fe10c92111780c104657b" sha1="7a197c09443162bba04bfb856ef8d54dd2ab1b36"/>
+		<rom name="german.ta8" size="16175" crc="bd92188a" md5="da077b01898fa6704bb7c8c82ef2ac80" sha1="a7ccc731b3ebf11b831c879b19a2e57efb60280c"/>
+		<rom name="german.ta9" size="18788" crc="034ff6b2" md5="909e06233b58d9b2da77ee42c11a762c" sha1="0291237f4113f1ac64f288e5df2a7ddc6477117f"/>
+		<rom name="german.tap" size="14344" crc="464c0eef" md5="0b15efbfacc2262fcc08b730a97e3faa" sha1="6a2dfca3e9b09788e6cbf468b636309d4588f4f0"/>
+	</game>
+	<game name="Tenis (19xx)(J.A.Orostivar)">
+		<description>Tenis (19xx)(J.A.Orostivar)</description>
+		<rom name="tenis(t).tap" size="1350" crc="bc718096" md5="c0af9e3235546d17e3702028b6ed9a8a" sha1="497b9dc8aeb1c87ab91bafa777a90d81bd6ab98f"/>
+		<rom name="tenis.tap" size="8130" crc="4c5c4a8f" md5="57fcda29a89155e66a614d5dc6553e95" sha1="3402f7b5b878ad215ac837bc7d18ff489ab81e2a"/>
+		<rom name="teniscm.tap" size="3590" crc="3c6a24f3" md5="2d29011bac48a5e349b040fa7dfea077" sha1="9178a942e3e1ac6c49677183799bce5bf99c001d"/>
+		<rom name="tenisgr.tap" size="16665" crc="c346e815" md5="7752a4296362b70a60ad29874a305013" sha1="c71cc1dfa2dc24b6f22306dbbdb599f280b834f0"/>
+	</game>
+	<game name="Transat 1 (1984)(No Man's Land)">
+		<description>Transat 1 (1984)(No Man's Land)</description>
+		<rom name="trans.ta1" size="30597" crc="8f8508d2" md5="5528328eeba40d23c7bbaa672d313b74" sha1="0682d725b6b900df096ee4e6c1c21177217aec85"/>
+		<rom name="trans.tap" size="9486" crc="47f240ce" md5="6d3ff57d45ce31726b8e9e209545c7ac" sha1="2250fdbf27541d537e6f8a024b081057e4a3b4f0"/>
+	</game>
+	<game name="Wordsearch (19xx)(CDS Micro Systems)">
+		<description>Wordsearch (19xx)(CDS Micro Systems)</description>
+		<rom name="words.ta1" size="8215" crc="a335ea8d" md5="1f6bda13ae9687d397591f4c558d24c4" sha1="9818f077857025a8b5b2c1558188de8a337b551d"/>
+		<rom name="words.ta2" size="12736" crc="55caf78f" md5="20b9def17b6edcbf9390f62a7b69de13" sha1="bb2b46816921343c7b5544273ba0b02372d11ab6"/>
+		<rom name="words.tap" size="115" crc="7b2306b6" md5="c75442394be6e67ced2f222d0e71e9aa" sha1="35ae237495ebe13319d8d8a8eebaae228895277b"/>
+	</game>
+	<game name="Wordworth (1986)(Huggybear Software)">
+		<description>Wordworth (1986)(Huggybear Software)</description>
+		<rom name="ww.ta1" size="8432" crc="9dc0cbc1" md5="c22488097d433a0d2dce750076439989" sha1="98475a510a79413715a000c74563da639ff36ba4"/>
+		<rom name="ww.tap" size="2333" crc="45b251d7" md5="083ef9a04c0ab155c6b47da5cb485a0e" sha1="b302793c0adddaf265055f9d426f8e6f4e8eac80"/>
+	</game>
+	<game name="Xeragone (19xx)(Hebdogiciel)(fr)">
+		<description>Xeragone (19xx)(Hebdogiciel)(fr)</description>
+		<rom name="xeragone.ta1" size="28521" crc="50439bbb" md5="bdb8d625fa7a4f85cf315cc80c321224" sha1="791b071624f909af7450169724d1b2c1b7a36d55"/>
+		<rom name="xeragone.tap" size="3382" crc="3ee8f949" md5="fad6b5801ea597395b8c5c718247f9fd" sha1="27fe752be7698dc880ac5509fcd645c00b368a91"/>
+	</game>
+	<game name="Zamcopter (1986)(Hebdogiciel)(fr)">
+		<description>Zamcopter (1986)(Hebdogiciel)(fr)</description>
+		<rom name="zamcopter.ta1" size="19233" crc="81cef796" md5="1534073dd98adf25d065ddb5116600c7" sha1="643a498bc2ec969be01544ab1a04d9f40d7bb009"/>
+		<rom name="zamcopter.tap" size="2217" crc="9bc5b409" md5="b09fd4af676d0d87313bef668d93d101" sha1="00b7e42b9f7dafa2710f3dd329820c42c8af279c"/>
+	</game>
+	<game name="ZipnZap (1998)(Twilight)(PD)">
+		<description>ZipnZap (1998)(Twilight)(PD)</description>
+		<rom name="zipdata.tap" size="47125" crc="db19cf19" md5="75a2439869b1f2585f82058c34e21181" sha1="5c3c831ad9c7f660575f24c59f6fc623d35d6ea3"/>
+		<rom name="zipnzap.tap" size="50" crc="579c6498" md5="5a0f2c67e111e1d8bdc5434d268bcef8" sha1="ef06510dea68350c8e5be086a62f1df6152fcb3c"/>
+	</game>
+</datafile>

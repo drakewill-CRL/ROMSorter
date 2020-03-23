@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore VIC20 - Compilations - Games</name>
+		<description>Commodore VIC20 - Compilations - Games (TOSEC-v2011-11-07)</description>
+		<category>TOSEC</category>
+		<version>2011-11-07</version>
+		<author>Vicman - Apache - DesertWolf - BuckyB - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Cassette 50 (1983)(Cascade)(Side A)">
+		<description>Cassette 50 (1983)(Cascade)(Side A)</description>
+		<rom name="Cassette 50 (1983)(Cascade)(Side A).prg" size="4582501" crc="a22ede40" md5="9dd1a01e62ce144c3d67cd7f6f5e3bd2" sha1="f507fb963e07110ff7c8f9e8eab501b8d9e928f6"/>
+	</game>
+	<game name="Cassette 50 (1983)(Cascade)(Side B)">
+		<description>Cassette 50 (1983)(Cascade)(Side B)</description>
+		<rom name="Cassette 50 (1983)(Cascade)(Side B).prg" size="4115066" crc="b3141ee1" md5="f126e227c4d2837163dea9b51e72e303" sha1="8a2924caafe7570ea42a280a2d5c22fea6095ddd"/>
+	</game>
+</datafile>

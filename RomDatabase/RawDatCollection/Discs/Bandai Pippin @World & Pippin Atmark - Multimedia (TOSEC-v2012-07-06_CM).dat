@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Bandai Pippin @World &amp; Pippin Atmark - Multimedia</name>
+		<description>Bandai Pippin @World &amp; Pippin Atmark - Multimedia (TOSEC-v2012-07-06)</description>
+		<category>TOSEC-ISO</category>
+		<version>2012-07-06</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Pippin TITLE CD-ROM CATALOG - vol. I 1996.3 (1996)(Bandai)(JP)[!]">
+		<description>Pippin TITLE CD-ROM CATALOG - vol. I 1996.3 (1996)(Bandai)(JP)[!]</description>
+		<rom name="Pippin TITLE CD-ROM CATALOG - vol. I 1996.3 (1996)(Bandai)(JP)[!].cue" size="154" crc="822eef9a" md5="a4269643106d429c9bfa034b1234b4f8" sha1="47722bdfd06f0eeb371f5c02172b325770cfed26"/>
+		<rom name="Pippin TITLE CD-ROM CATALOG - vol. I 1996.3 (1996)(Bandai)(JP)[!].iso" size="262434816" crc="a1448c3f" md5="b3177e7928ddf9e281b097d03c25c1c3" sha1="4d92de2729fd196d9aaf222465eccc230e3bb1cb"/>
+	</game>
+</datafile>

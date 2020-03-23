@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Visual Pinball [VP91x] Original Tables [WideScreen]</name>
+		<description>Visual Pinball [VP91x] Original Tables [WideScreen]</description>
+		<category>Visual Pinball [VP91x] Original Tables [WideScreen]</category>
+		<version>1.0</version>
+		<date>2020-01-01</date>
+		<author>Yori Yoshizuki</author>
+		<email>-insert email-</email>
+		<homepage>Yori Yoshizuki</homepage>
+		<url>https://yoshizuki.webs.com</url>
+		<comment>-insert comment-</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="311">
+		<description>311</description>
+		<rom name="311 (Destruk, Black, JPSalas, Shooby Doo)(1.0)[VP912][WideScreen open6l][mod by Aaron James).vpt" size="43253760" crc="5ebe7b20" sha1="c5343a20e7072a14835048d754512a589ecf0638"/>
+		<rom name="311 music.zip" size="105104706" crc="d71d6c7d" sha1="5bb8c2863076cd5cd0f6c11e3c83e452eaa31c52"/>
+		<rom name="311 screenshot.png" size="2651279" crc="e1d20fc0" sha1="0b518f4b19e01548f13219b91ce320beca623749"/>
+	</machine>
+	<machine name="Beatles, The (Bob5453)(2012.6.6)[VP912][WideScreen Bob5453]">
+		<description>Beatles, The (Bob5453)(2012.6.6)[VP912][WideScreen Bob5453]</description>
+		<rom name="2012.2.23\Beatles, The (2012.2.23) screenshot.jpg" size="693731" crc="e5d54d73" sha1="0322d073b22d80c3971561d1ac571b77cfef01d0"/>
+		<rom name="2012.2.23\BeatlesWS_2012.2.23.vpt" size="29077504" crc="fe53364e" sha1="bc402b4a0b774059dcdcb466dc3429a09faa75d9"/>
+		<rom name="2012.2.23\Music\Beatles_BOJAY.mp3" size="487759" crc="45c370a1" sha1="5035f30656b107ad3aae25a0ca73e1db38268f39"/>
+		<rom name="2012.2.23\Music\Beatles_CBML.mp3" size="409183" crc="8c5339cd" sha1="4368eaabdba594366bbbe9ee10b4b2aacbc8bb18"/>
+		<rom name="2012.2.23\Music\Beatles_EDAW.mp3" size="505731" crc="0fcdc52f" sha1="73f765b1f1fdc75f5b730fe53c22ad54863f062e"/>
+		<rom name="2012.2.23\Music\Beatles_Help.mp3" size="1344128" crc="59c5fa47" sha1="33e3a00289140a9de280c7024007775bad8ca3d0"/>
+		<rom name="2012.2.23\Music\Beatles_HeyJude.mp3" size="1261184" crc="438a0075" sha1="f81b94063745b7d589cfc64f53ce2e5465c36237"/>
+		<rom name="2012.2.23\Music\Beatles_ISHST.mp3" size="496536" crc="8df77536" sha1="3f629ffe4d7aff2eb51289133f064dbe12810449"/>
+		<rom name="2012.2.23\Music\Beatles_IWTHYH.mp3" size="461009" crc="c6526587" sha1="43edb472018867f993196e244c80d5fb73d4dbae"/>
+		<rom name="2012.2.23\Music\Beatles_LAWR.mp3" size="688797" crc="38a84c5d" sha1="ef58fe7344a344b61106944f84635e9681d7fcf3"/>
+		<rom name="2012.2.23\Music\Beatles_LD.mp3" size="480654" crc="99d48a55" sha1="4af524a3fd576656b201fb3ac8147d5c10d9cb43"/>
+		<rom name="2012.2.23\Music\Beatles_LetItBe.mp3" size="1069184" crc="130da518" sha1="cb1662abc0c3a07cdc9f5b796fb5bbb61d010034"/>
+		<rom name="2012.2.23\Music\Beatles_LMD.mp3" size="549199" crc="6e004af9" sha1="e213aceecd49ac0bd170dfddc3ebf8589bbd9ba8"/>
+		<rom name="2012.2.23\Music\Beatles_NM.mp3" size="498208" crc="05133d2e" sha1="bc2de8569a003344b389146073c13871edd2ff0a"/>
+		<rom name="2012.2.23\Music\Beatles_NW.mp3" size="454272" crc="44c18a20" sha1="fda949876a77f6576bb1ea7997317b12bbcc7e97"/>
+		<rom name="2012.2.23\Music\Beatles_OG.mp3" size="392882" crc="74bbb14b" sha1="b5a22d34324fc721177618552e72ff8c2acef49d"/>
+		<rom name="2012.2.23\Music\Beatles_PPM.mp3" size="562156" crc="caf3992a" sha1="44583ccb4a6fb533d0884c818a33fc7cb8e7538a"/>
+		<rom name="2012.2.23\Music\Beatles_Something.mp3" size="776320" crc="b0fc2676" sha1="2fdda1aa06d97e3c1a6f81ae0e0f36c5e6a04a72"/>
+		<rom name="2012.2.23\Music\Beatles_SPLHCB.mp3" size="1021911" crc="97295d7f" sha1="7bcb94cd8e42d1b130ef924c1247c402a930ebf3"/>
+		<rom name="2012.2.23\Music\Beatles_TTR.mp3" size="613147" crc="c795ac56" sha1="1f3dc46942bbb00330b8f7d72cb3a4802c4323bf"/>
+		<rom name="2012.2.23\Music\Beatles_TWST.mp3" size="528719" crc="977175b0" sha1="ad3e86aba76c6f353dc6ef6711abce657dbd5025"/>
+		<rom name="2012.2.23\Music\Beatles_Yesterday.mp3" size="2013824" crc="0576257f" sha1="96d12b240fe0b148206168c084754033b781929c"/>
+		<rom name="2012.2.23\Music\Beatles_YS.mp3" size="345653" crc="6bb915a9" sha1="9f2b1e5197b4d5032390ef16d6072befcab26a18"/>
+		<rom name="2012.6.6\Beatles, The (2012.6.6) screenshot.jpg" size="718855" crc="49bae2bd" sha1="16fd01026d1a8c6a748c96fa5457ac7784eb2117"/>
+		<rom name="2012.6.6\BeatlesWS_2012.6.6.vpt" size="29229056" crc="994b5aa5" sha1="a73138bef2a9af3ec36d75d689c597869f5cb03f"/>
+		<rom name="2012.6.6\Music\B_AHardDaysNight.mp3" size="1050502" crc="f7c1d53b" sha1="cd83bc7ad3f08e8b0bec4a3a3741cd78b5054ab3"/>
+		<rom name="2012.6.6\Music\B_AllMyLoving.mp3" size="396605" crc="7b7c77a9" sha1="15f393cfaa4ef43651010dc9b3056dcecf603cb0"/>
+		<rom name="2012.6.6\Music\B_AllYouNeedIsLove.mp3" size="645290" crc="4a72b48c" sha1="bcc1b095e446d12c33fbe3f0295b897283fc0f70"/>
+		<rom name="2012.6.6\Music\B_BalladOfJohnAndOko.mp3" size="487965" crc="ba6a17aa" sha1="ecc57d036062b8e7e47b19750a9c55252552b45f"/>
+		<rom name="2012.6.6\Music\B_Birthday.mp3" size="501513" crc="067c0e4c" sha1="1e41c6d0238a92058f049afb107750f6971345b2"/>
+		<rom name="2012.6.6\Music\B_CantBuyMeLove.mp3" size="412037" crc="82646971" sha1="83fd3de1ed9370eed394b32cbeca70b6b3a9216d"/>
+		<rom name="2012.6.6\Music\B_DayTripper.mp3" size="597193" crc="b7a54a8a" sha1="2702927327360af54c6d811449f878637bfcbd18"/>
+		<rom name="2012.6.6\Music\B_DoYouWantToKnowASecret.mp3" size="458045" crc="bcb5dec2" sha1="6daf6dc3be80c59551d0f4e7cfa1d802054a7ef6"/>
+		<rom name="2012.6.6\Music\B_DriveMyCar.mp3" size="572148" crc="3a9f06e9" sha1="d703727cec3e46f3d514efbce8c829a493cf9b13"/>
+		<rom name="2012.6.6\Music\B_EightDaysAWeek.mp3" size="524918" crc="55b28021" sha1="20737696c73ded06bb26b6dec9950189eb453285"/>
+		<rom name="2012.6.6\Music\B_EleanorRigby.mp3" size="617255" crc="d27ac87f" sha1="69e0ed748604a4704ac09d6f3cc22bafb7cce28d"/>
+		<rom name="2012.6.6\Music\B_GetBack.mp3" size="638989" crc="1a6e6e26" sha1="e40e7b36524f26b46a7cca5ffcfb7d84cad4c883"/>
+		<rom name="2012.6.6\Music\B_GettingBetter.mp3" size="635698" crc="077d9639" sha1="fa7bfed43cfe24c6cbb1e0df45135d9ebf5b12c9"/>
+		<rom name="2012.6.6\Music\B_GoodDaySunshine.mp3" size="459299" crc="8a78cc38" sha1="34c00377be19033da4f35e4eefe1414c1c798527"/>
+		<rom name="2012.6.6\Music\B_HelloGoodbye.mp3" size="615197" crc="d6e0653e" sha1="04407dc528a3c13182cdc88148e3cf74a50b95b7"/>
+		<rom name="2012.6.6\Music\B_Help.mp3" size="642751" crc="2cc96969" sha1="fd9fa22017bf484611190b23dbc964a9f7971ffb"/>
+		<rom name="2012.6.6\Music\B_HereComesTheSun.mp3" size="644037" crc="1c53f259" sha1="ac9113ad3191759c0757629fc1fb82f30ca2699d"/>
+		<rom name="2012.6.6\Music\B_IFeelFine.mp3" size="620181" crc="2416da0a" sha1="844c14f5c69018766b684224ef26cf0da6cd3362"/>
+		<rom name="2012.6.6\Music\B_InMyLife.mp3" size="671172" crc="94b500cf" sha1="3c22fce8ab05acda353165100fa751e45434ea86"/>
+		<rom name="2012.6.6\Music\B_ISawHerStandingThere.mp3" size="501481" crc="63ee9d7b" sha1="966dce39cd62172f2ca00ab9a4da79dcb2660092"/>
+		<rom name="2012.6.6\Music\B_IShouldHaveKnownBetter.mp3" size="654872" crc="808f3705" sha1="1ada62b9eb8c0ca16d2dc87ce1b0d7e76cafe8d3"/>
+		<rom name="2012.6.6\Music\B_IWanttoHoldYourHand.mp3" size="459685" crc="461e7ee1" sha1="d7150a16567791da29342d98466970f8dfb3bad2"/>
+		<rom name="2012.6.6\Music\B_LadyMadonna.mp3" size="709206" crc="2d9d9002" sha1="f2c4dacd10fbd1bdab324e3aad56af30cda4dec2"/>
+		<rom name="2012.6.6\Music\B_LongAndWindingRoad.mp3" size="688971" crc="e8da84e7" sha1="86386e777cbea4298a8b6cf98d883dc3679055db"/>
+		<rom name="2012.6.6\Music\B_LoveMeDo.mp3" size="552890" crc="ec8e0fea" sha1="1fe388ab79764336bb69bd202a9e418a5fce7153"/>
+		<rom name="2012.6.6\Music\B_LucyInTheSkyWithDiamonds.mp3" size="591792" crc="e91a8503" sha1="72aa50c30b459e83214768eb7b96251153f68d4a"/>
+		<rom name="2012.6.6\Music\B_NoWhereMan.mp3" size="498414" crc="00c5f936" sha1="570d8b160dc39b9ad3043b677b1efefb537f866a"/>
+		<rom name="2012.6.6\Music\B_OblaDIOblaDa.mp3" size="568386" crc="cbf9eccb" sha1="8a8c4fbd5b08eb9a5733a6c80feb6eafdac84b4a"/>
+		<rom name="2012.6.6\Music\B_OctopussGarden.mp3" size="695832" crc="7af95f0b" sha1="6ab75898c08a4d3fd58b21b49631fcfb7d389d69"/>
+		<rom name="2012.6.6\Music\B_PaperbackWriter.mp3" size="499005" crc="21894e1d" sha1="2da8365e5ff731877dda906b2d3e5b771f23205f"/>
+		<rom name="2012.6.6\Music\B_PennyLane.mp3" size="694996" crc="af021441" sha1="e5493ca522f1f241cf1cb15b196bde2357b56a49"/>
+		<rom name="2012.6.6\Music\B_PleasePleaseMe.mp3" size="564174" crc="ab9a8c1d" sha1="33dbe8d11e8f97e3ea66ddb7fefd2f1ba2e344c9"/>
+		<rom name="2012.6.6\Music\B_Revolution.mp3" size="560445" crc="96ec4bc0" sha1="50b71848a9d983ed8a66fa75dca06c3f80677b85"/>
+		<rom name="2012.6.6\Music\B_RockAndRollMusic.mp3" size="627286" crc="d3930e9d" sha1="afe3291d667b31b480e9921189c154608811826b"/>
+		<rom name="2012.6.6\Music\B_RollOverBeethoven.mp3" size="563338" crc="01bada5e" sha1="564d83096c4b6edb08c3e3d1641f93cbff8f7216"/>
+		<rom name="2012.6.6\Music\B_SgtPepper.mp3" size="1021911" crc="97295d7f" sha1="7bcb94cd8e42d1b130ef924c1247c402a930ebf3"/>
+		<rom name="2012.6.6\Music\B_SheLovesYou.mp3" size="616419" crc="fbe86215" sha1="c75988860f5309b7302800a13abe239945799e17"/>
+		<rom name="2012.6.6\Music\B_SheSaidSheSaid.mp3" size="458849" crc="4205700d" sha1="c417edc77aae38c50f164ad9f87280f1cc9213a0"/>
+		<rom name="2012.6.6\Music\B_Taxman.mp3" size="416688" crc="cfffe791" sha1="de1f07eee541a98389d28de34d2d1cb8eb052575"/>
+		<rom name="2012.6.6\Music\B_ThingsWeSaidToday.mp3" size="528925" crc="7619248e" sha1="f9563d8e51e346e85e73f1e160b9f0ac5ae0b811"/>
+		<rom name="2012.6.6\Music\B_TicketToRide.mp3" size="614362" crc="7ace461e" sha1="ef26e8a05c0b759de32266c9f82b5cf8f4aa97d8"/>
+		<rom name="2012.6.6\Music\B_TwistAndShout.mp3" size="594685" crc="7dbe50ed" sha1="5123584dca432af8470136365e382fdc0e7cf114"/>
+		<rom name="2012.6.6\Music\B_WeCanWorkItOut.mp3" size="585490" crc="fd14c414" sha1="8f5e466ce003c5613ca5a803f3f15587492ecacc"/>
+		<rom name="2012.6.6\Music\B_WhatYoureDoing.mp3" size="501063" crc="4109ed6a" sha1="10e244e01800b4d18649e3448907adcc52e66071"/>
+		<rom name="2012.6.6\Music\B_WhenIm64.mp3" size="613076" crc="3772b68f" sha1="c7f85e9992e3401f368df48130e0a497777e4333"/>
+		<rom name="2012.6.6\Music\B_WithALittleHelpFromMyFriends.mp3" size="557487" crc="d9f722c2" sha1="099b2db83964b65b3f0c257c803bf9327ccf1b2f"/>
+		<rom name="2012.6.6\Music\B_WordsOfLove.mp3" size="575041" crc="79065bf9" sha1="791d5a264009e30a615d02c6cc2aa04de0181bfd"/>
+		<rom name="2012.6.6\Music\B_YellowSubmarine.mp3" size="709291" crc="41264ff2" sha1="502e4815d9d1fbde6b64e03a1b941fbdf0c19966"/>
+		<rom name="2012.6.6\Music\B_Yesterday.mp3" size="551218" crc="a685c27d" sha1="c7a75a7770f1ccf7b4924649fe2e7e910a0ff7ea"/>
+		<rom name="2012.6.6\Music\B_YoureGonnaLoseThatGirl.mp3" size="491032" crc="09342d55" sha1="5729e0d121ce0b77526087df6c50927b15735e7f"/>
+		<rom name="2012.6.6\Music\Beatles_Help.mp3" size="1344128" crc="59c5fa47" sha1="33e3a00289140a9de280c7024007775bad8ca3d0"/>
+		<rom name="2012.6.6\Music\Beatles_HeyJude.mp3" size="1261184" crc="438a0075" sha1="f81b94063745b7d589cfc64f53ce2e5465c36237"/>
+		<rom name="2012.6.6\Music\Beatles_LetItBe.mp3" size="1069184" crc="130da518" sha1="cb1662abc0c3a07cdc9f5b796fb5bbb61d010034"/>
+		<rom name="2012.6.6\Music\Beatles_NW.mp3" size="454272" crc="44c18a20" sha1="fda949876a77f6576bb1ea7997317b12bbcc7e97"/>
+		<rom name="2012.6.6\Music\Beatles_Something.mp3" size="776320" crc="b0fc2676" sha1="2fdda1aa06d97e3c1a6f81ae0e0f36c5e6a04a72"/>
+		<rom name="2012.6.6\Music\Beatles_Yesterday.mp3" size="2013824" crc="0576257f" sha1="96d12b240fe0b148206168c084754033b781929c"/>
+	</machine>
+	<machine name="Beatles, The (Bob5453)(2013.2.5)[VP915][WideScreen Bob5453]">
+		<description>Beatles, The (Bob5453)(2013.2.5)[VP915][WideScreen Bob5453]</description>
+		<rom name="Beatles How to install Music.txt" size="772" crc="5042a4f7" sha1="887032573be1ed7cd3d12c06e732834ac59466d4"/>
+		<rom name="Beatles, The (2013.2.5) screenshot.jpg" size="1207481" crc="c561d46c" sha1="537b6e4a66e5e9d88a64370ce71a1682cd50a643"/>
+		<rom name="BeatlesWS_2013.2.5.vpt" size="29593600" crc="ca5d43d4" sha1="6cf0dd0681a34094c115aebf95770e0f5e3364b9"/>
+		<rom name="Music\B_AHardDaysNight.mp3" size="1050502" crc="f7c1d53b" sha1="cd83bc7ad3f08e8b0bec4a3a3741cd78b5054ab3"/>
+		<rom name="Music\B_AllMyLoving.mp3" size="396605" crc="7b7c77a9" sha1="15f393cfaa4ef43651010dc9b3056dcecf603cb0"/>
+		<rom name="Music\B_AllYouNeedIsLove.mp3" size="645290" crc="4a72b48c" sha1="bcc1b095e446d12c33fbe3f0295b897283fc0f70"/>
+		<rom name="Music\B_BalladOfJohnAndOko.mp3" size="487965" crc="ba6a17aa" sha1="ecc57d036062b8e7e47b19750a9c55252552b45f"/>
+		<rom name="Music\B_Birthday.mp3" size="501513" crc="067c0e4c" sha1="1e41c6d0238a92058f049afb107750f6971345b2"/>
+		<rom name="Music\B_CantBuyMeLove.mp3" size="412037" crc="82646971" sha1="83fd3de1ed9370eed394b32cbeca70b6b3a9216d"/>
+		<rom name="Music\B_DayTripper.mp3" size="597193" crc="b7a54a8a" sha1="2702927327360af54c6d811449f878637bfcbd18"/>
+		<rom name="Music\B_DoYouWantToKnowASecret.mp3" size="458045" crc="bcb5dec2" sha1="6daf6dc3be80c59551d0f4e7cfa1d802054a7ef6"/>
+		<rom name="Music\B_DriveMyCar.mp3" size="572148" crc="3a9f06e9" sha1="d703727cec3e46f3d514efbce8c829a493cf9b13"/>
+		<rom name="Music\B_EightDaysAWeek.mp3" size="524918" crc="55b28021" sha1="20737696c73ded06bb26b6dec9950189eb453285"/>
+		<rom name="Music\B_EleanorRigby.mp3" size="617255" crc="d27ac87f" sha1="69e0ed748604a4704ac09d6f3cc22bafb7cce28d"/>
+		<rom name="Music\B_GetBack.mp3" size="638989" crc="1a6e6e26" sha1="e40e7b36524f26b46a7cca5ffcfb7d84cad4c883"/>
+		<rom name="Music\B_GettingBetter.mp3" size="635698" crc="077d9639" sha1="fa7bfed43cfe24c6cbb1e0df45135d9ebf5b12c9"/>
+		<rom name="Music\B_GoodDaySunshine.mp3" size="459299" crc="8a78cc38" sha1="34c00377be19033da4f35e4eefe1414c1c798527"/>
+		<rom name="Music\B_HelloGoodbye.mp3" size="615197" crc="d6e0653e" sha1="04407dc528a3c13182cdc88148e3cf74a50b95b7"/>
+		<rom name="Music\B_Help.mp3" size="642751" crc="2cc96969" sha1="fd9fa22017bf484611190b23dbc964a9f7971ffb"/>
+		<rom name="Music\B_HereComesTheSun.mp3" size="644037" crc="1c53f259" sha1="ac9113ad3191759c0757629fc1fb82f30ca2699d"/>
+		<rom name="Music\B_IFeelFine.mp3" size="620181" crc="2416da0a" sha1="844c14f5c69018766b684224ef26cf0da6cd3362"/>
+		<rom name="Music\B_InMyLife.mp3" size="671172" crc="94b500cf" sha1="3c22fce8ab05acda353165100fa751e45434ea86"/>
+		<rom name="Music\B_ISawHerStandingThere.mp3" size="501481" crc="63ee9d7b" sha1="966dce39cd62172f2ca00ab9a4da79dcb2660092"/>
+		<rom name="Music\B_IShouldHaveKnownBetter.mp3" size="654872" crc="808f3705" sha1="1ada62b9eb8c0ca16d2dc87ce1b0d7e76cafe8d3"/>
+		<rom name="Music\B_IWanttoHoldYourHand.mp3" size="459685" crc="461e7ee1" sha1="d7150a16567791da29342d98466970f8dfb3bad2"/>
+		<rom name="Music\B_LadyMadonna.mp3" size="709206" crc="2d9d9002" sha1="f2c4dacd10fbd1bdab324e3aad56af30cda4dec2"/>
+		<rom name="Music\B_LongAndWindingRoad.mp3" size="688971" crc="e8da84e7" sha1="86386e777cbea4298a8b6cf98d883dc3679055db"/>
+		<rom name="Music\B_LoveMeDo.mp3" size="552890" crc="ec8e0fea" sha1="1fe388ab79764336bb69bd202a9e418a5fce7153"/>
+		<rom name="Music\B_LucyInTheSkyWithDiamonds.mp3" size="591792" crc="e91a8503" sha1="72aa50c30b459e83214768eb7b96251153f68d4a"/>
+		<rom name="Music\B_NoWhereMan.mp3" size="498414" crc="00c5f936" sha1="570d8b160dc39b9ad3043b677b1efefb537f866a"/>
+		<rom name="Music\B_OblaDIOblaDa.mp3" size="568386" crc="cbf9eccb" sha1="8a8c4fbd5b08eb9a5733a6c80feb6eafdac84b4a"/>
+		<rom name="Music\B_OctopussGarden.mp3" size="695832" crc="7af95f0b" sha1="6ab75898c08a4d3fd58b21b49631fcfb7d389d69"/>
+		<rom name="Music\B_PaperbackWriter.mp3" size="499005" crc="21894e1d" sha1="2da8365e5ff731877dda906b2d3e5b771f23205f"/>
+		<rom name="Music\B_PennyLane.mp3" size="694996" crc="af021441" sha1="e5493ca522f1f241cf1cb15b196bde2357b56a49"/>
+		<rom name="Music\B_PleasePleaseMe.mp3" size="564174" crc="ab9a8c1d" sha1="33dbe8d11e8f97e3ea66ddb7fefd2f1ba2e344c9"/>
+		<rom name="Music\B_Revolution.mp3" size="560445" crc="96ec4bc0" sha1="50b71848a9d983ed8a66fa75dca06c3f80677b85"/>
+		<rom name="Music\B_RockAndRollMusic.mp3" size="627286" crc="d3930e9d" sha1="afe3291d667b31b480e9921189c154608811826b"/>
+		<rom name="Music\B_RollOverBeethoven.mp3" size="563338" crc="01bada5e" sha1="564d83096c4b6edb08c3e3d1641f93cbff8f7216"/>
+		<rom name="Music\B_SgtPepper.mp3" size="1021911" crc="97295d7f" sha1="7bcb94cd8e42d1b130ef924c1247c402a930ebf3"/>
+		<rom name="Music\B_SheLovesYou.mp3" size="616419" crc="fbe86215" sha1="c75988860f5309b7302800a13abe239945799e17"/>
+		<rom name="Music\B_SheSaidSheSaid.mp3" size="458849" crc="4205700d" sha1="c417edc77aae38c50f164ad9f87280f1cc9213a0"/>
+		<rom name="Music\B_Taxman.mp3" size="416688" crc="cfffe791" sha1="de1f07eee541a98389d28de34d2d1cb8eb052575"/>
+		<rom name="Music\B_ThingsWeSaidToday.mp3" size="528925" crc="7619248e" sha1="f9563d8e51e346e85e73f1e160b9f0ac5ae0b811"/>
+		<rom name="Music\B_TicketToRide.mp3" size="614362" crc="7ace461e" sha1="ef26e8a05c0b759de32266c9f82b5cf8f4aa97d8"/>
+		<rom name="Music\B_TwistAndShout.mp3" size="594685" crc="7dbe50ed" sha1="5123584dca432af8470136365e382fdc0e7cf114"/>
+		<rom name="Music\B_WeCanWorkItOut.mp3" size="585490" crc="fd14c414" sha1="8f5e466ce003c5613ca5a803f3f15587492ecacc"/>
+		<rom name="Music\B_WhatYoureDoing.mp3" size="501063" crc="4109ed6a" sha1="10e244e01800b4d18649e3448907adcc52e66071"/>
+		<rom name="Music\B_WhenIm64.mp3" size="613076" crc="3772b68f" sha1="c7f85e9992e3401f368df48130e0a497777e4333"/>
+		<rom name="Music\B_WithALittleHelpFromMyFriends.mp3" size="557487" crc="d9f722c2" sha1="099b2db83964b65b3f0c257c803bf9327ccf1b2f"/>
+		<rom name="Music\B_WordsOfLove.mp3" size="575041" crc="79065bf9" sha1="791d5a264009e30a615d02c6cc2aa04de0181bfd"/>
+		<rom name="Music\B_YellowSubmarine.mp3" size="709291" crc="41264ff2" sha1="502e4815d9d1fbde6b64e03a1b941fbdf0c19966"/>
+		<rom name="Music\B_Yesterday.mp3" size="551218" crc="a685c27d" sha1="c7a75a7770f1ccf7b4924649fe2e7e910a0ff7ea"/>
+		<rom name="Music\B_YoureGonnaLoseThatGirl.mp3" size="491032" crc="09342d55" sha1="5729e0d121ce0b77526087df6c50927b15735e7f"/>
+		<rom name="Music\Beatles_Help.mp3" size="1344128" crc="59c5fa47" sha1="33e3a00289140a9de280c7024007775bad8ca3d0"/>
+		<rom name="Music\Beatles_HeyJude.mp3" size="1261184" crc="438a0075" sha1="f81b94063745b7d589cfc64f53ce2e5465c36237"/>
+		<rom name="Music\Beatles_LetItBe.mp3" size="1069184" crc="130da518" sha1="cb1662abc0c3a07cdc9f5b796fb5bbb61d010034"/>
+		<rom name="Music\Beatles_NW.mp3" size="454272" crc="44c18a20" sha1="fda949876a77f6576bb1ea7997317b12bbcc7e97"/>
+		<rom name="Music\Beatles_Something.mp3" size="776320" crc="b0fc2676" sha1="2fdda1aa06d97e3c1a6f81ae0e0f36c5e6a04a72"/>
+		<rom name="Music\Beatles_Yesterday.mp3" size="2013824" crc="0576257f" sha1="96d12b240fe0b148206168c084754033b781929c"/>
+	</machine>
+	<machine name="DEF LEPPARD">
+		<description>DEF LEPPARD</description>
+		<rom name="DEF LEPPARD (Aaron James)(2.0)[VP912][WideScreen Aaron James][Music Template MOD].vpt" size="45727744" crc="c7b78079" sha1="7997d7d70aef99d7369bb75536e28f1419efac12"/>
+		<rom name="DEF LEPPARD MUSIC PACK FOR PINBALL.rar" size="83957834" crc="7d367833" sha1="384cbcb9824faf1c6853a6d68788151d84f18673"/>
+		<rom name="DEF LEPPARD screenshot.png" size="2803958" crc="64f321e5" sha1="89f0724047f261b83ff871b7a96fd66f50a15b16"/>
+	</machine>
+	<machine name="Dragon">
+		<description>Dragon</description>
+		<rom name="2011\Dragon (2011)(WideScreen) screenshot.jpg" size="631809" crc="b0a1c12b" sha1="dfd0917b8ca383f0f3d061f19a6f7fffcd641a76"/>
+		<rom name="2011\Dragon (Bob5453)(2011)[VP91x][WideScreen Bob5453].vpt" size="8781824" crc="6f143b35" sha1="721a0814931c9b5fcf034f7ec229f4b5b48e6db2"/>
+	</machine>
+	<machine name="Flash Gordon">
+		<description>Flash Gordon</description>
+		<rom name="Flash Gordon (rosve)(1.00)[VP91x][WideScreen rosve]\b2s.vbs" size="6795" crc="79e56d18" sha1="7cd86b0772576c5e6fbe43e408eb4917ec8257cd"/>
+		<rom name="Flash Gordon (rosve)(1.00)[VP91x][WideScreen rosve]\FlashGordonWS.exe" size="6003712" crc="5ff3ba8b" sha1="8414fbfd95fdda0c422bf819f0720278a4be8b7b"/>
+		<rom name="Flash Gordon (rosve)(1.00)[VP91x][WideScreen rosve]\FlashGordonWS.vpt" size="10203136" crc="8c3c99b9" sha1="b3da30fb551761ad1394311704725211d09fab95"/>
+		<rom name="Flash Gordon (rosve)(1.00)[VP91x][WideScreen rosve]\FlashGordonWS_Rules.txt" size="380" crc="733bf7fa" sha1="597eea770e9a76fc59b5a656de7a9682a21df4fe"/>
+		<rom name="Flash Gordon (rosve)(1.00)[VP91x][WideScreen rosve]\How to install FlashGordonWS.txt" size="1269" crc="88912411" sha1="d46c0c10f9c4e5a2860efc6b70d47e1edada949f"/>
+		<rom name="Flash Gordon (rosve)(1.00)[VP91x][WideScreen rosve]\ScreenRes.txt" size="23" crc="e95a5afc" sha1="55787dc9aa73a8fb361135da7728edca76de758f"/>
+		<rom name="Flash Gordon (WideScreen) screenshot.jpg" size="777629" crc="4a84778d" sha1="1da5356f7e276ac815fa1e04453ca07e6229c127"/>
+	</machine>
+	<machine name="Gyruss, The">
+		<description>Gyruss, The</description>
+		<rom name="Gyruss, The (StevOz)(1.0.6)[VP913][WideScreen StevOz].jpg" size="267632" crc="08275462" sha1="43871dbda298ee263497b7a03a1045aeb1dcf806"/>
+		<rom name="Gyruss, The (StevOz)(1.0.6)[VP913][WideScreen StevOz].vpt" size="5722112" crc="4ee775b2" sha1="cd30e9cfba6dcdacb2545ad66a858819868ea0f1"/>
+		<rom name="TheGyruss.zip" size="3784460" crc="e4df8dc8" sha1="75fa10d458a77128ad7bbb6d84bcf01069d729ba"/>
+	</machine>
+	<machine name="Harry Potter and the Silverball Dream">
+		<description>Harry Potter and the Silverball Dream</description>
+		<rom name="Dedication Plaque.bmp" size="1677366" crc="28838077" sha1="037c7fc7ad588468cf5e185e892f9f7bd6fc02a6"/>
+		<rom name="Game Music.zip" size="20749016" crc="f2427ce1" sha1="6c52440a7ebad053256f33a2fd9adc9c9545ccab"/>
+		<rom name="Harry Potter - Silverball Dream Scorecard.bmp" size="758454" crc="9a288175" sha1="e83825ca6dd77edee4d023297485d6159d4085c0"/>
+		<rom name="Harry Potter and the Silverball Dream (Neo)(1.1.0)[VP91x][WideScreen Neo].vpt" size="21659648" crc="f19562f9" sha1="33a6b4179d9ff1a7fd0bb0ab6755682cbac8d60f"/>
+		<rom name="Harry Potter and the Silverball Dream readme.txt" size="4755" crc="ef1a699d" sha1="efe9db2175bf3b104b5bc28e394bd65a07bbe2ea"/>
+		<rom name="Harry Potter and the Silverball Dream Rulesheet.txt" size="10434" crc="5eebd955" sha1="c37b917bfa76812c5dc3b40d2018a7ef61a2d539"/>
+		<rom name="Silverball Dream Rulecard.bmp" size="758454" crc="8e532905" sha1="f8d082c21b29a9dd9079a219d81170d9b0ed59d3"/>
+	</machine>
+	<machine name="HULK">
+		<description>HULK</description>
+		<rom name="HULK (rosve)(1.02)[VP91x][WideScreen rosve][B2S rosve]\b2s.vbs" size="6795" crc="79e56d18" sha1="7cd86b0772576c5e6fbe43e408eb4917ec8257cd"/>
+		<rom name="HULK (rosve)(1.02)[VP91x][WideScreen rosve][B2S rosve]\How to install HULK_WS.txt" size="1245" crc="9e5c533b" sha1="097455a96f3f51ab2e8364efec97e67068f1b478"/>
+		<rom name="HULK (rosve)(1.02)[VP91x][WideScreen rosve][B2S rosve]\HULK (1.02) screenshot.jpg" size="390614" crc="f491f7ff" sha1="23614a8528f73acee66d51e3ceacd36c1459c582"/>
+		<rom name="HULK (rosve)(1.02)[VP91x][WideScreen rosve][B2S rosve]\HULK_WS.exe" size="785408" crc="2dac25c3" sha1="ac055e4a79fe27d15c025042680f2c3ef116b853"/>
+		<rom name="HULK (rosve)(1.02)[VP91x][WideScreen rosve][B2S rosve]\HULK_WS.vpt" size="19173376" crc="ec20d1cd" sha1="41817c0f802248309f9ebd67f73041bc6571420d"/>
+		<rom name="HULK (rosve)(1.02)[VP91x][WideScreen rosve][B2S rosve]\ScreenRes.txt" size="23" crc="e95a5afc" sha1="55787dc9aa73a8fb361135da7728edca76de758f"/>
+		<rom name="HULK (rosve)(2.00)[VP912][WideScreen rosve][B2S rosve]\b2s.vbs" size="6795" crc="79e56d18" sha1="7cd86b0772576c5e6fbe43e408eb4917ec8257cd"/>
+		<rom name="HULK (rosve)(2.00)[VP912][WideScreen rosve][B2S rosve]\How to install HULK_WS.txt" size="1062" crc="2b37c009" sha1="956467c8b4be91ad4d93e00be1528ad0e4805219"/>
+		<rom name="HULK (rosve)(2.00)[VP912][WideScreen rosve][B2S rosve]\HULK (2.00) screenshot.jpg" size="340892" crc="7b343414" sha1="003120b9967e2a9973350a0154dda67cbfb21d4a"/>
+		<rom name="HULK (rosve)(2.00)[VP912][WideScreen rosve][B2S rosve]\HULK_WS.exe" size="785408" crc="2dac25c3" sha1="ac055e4a79fe27d15c025042680f2c3ef116b853"/>
+		<rom name="HULK (rosve)(2.00)[VP912][WideScreen rosve][B2S rosve]\HULK_WS_B2S.vpt" size="20213760" crc="4e01c6f0" sha1="193600f4e9bfe2dbd27178e8a0ee817dc63b9c17"/>
+		<rom name="HULK (rosve)(2.00)[VP912][WideScreen rosve][B2S rosve]\ScreenRes.txt" size="23" crc="e95a5afc" sha1="55787dc9aa73a8fb361135da7728edca76de758f"/>
+	</machine>
+	<machine name="Moon, The">
+		<description>Moon, The</description>
+		<rom name="Moon, The (teppotee)(1.0)[VP912][WideScreen teppotee].vpt" size="19046400" crc="7d4a2642" sha1="ca1044dbe0fca158c20799f6437de998a307dd0f"/>
+		<rom name="Moon, The screenshot.png" size="528082" crc="a844d507" sha1="252d316e899cf891c066e43df76a30d970cf81ba"/>
+		<rom name="music\mission.mp3" size="1389942" crc="1209b1c4" sha1="027a443bbbed5269497960c47dbbb822079d1967"/>
+		<rom name="music\multiball.mp3" size="2466658" crc="1f50037a" sha1="37f01f7c6225b27e216e05cf54a0e3894e90127a"/>
+		<rom name="music\theme1.mp3" size="1923543" crc="7a1ceb8d" sha1="8ee1141ae59a57c05d3fe31db670a2b5e320f82e"/>
+		<rom name="music\theme2.mp3" size="2246943" crc="680fb957" sha1="5a1eff351730c7a3933825a6a5975f2f8cb8d53c"/>
+		<rom name="music\theme3.mp3" size="1548361" crc="55349711" sha1="47bfa784b3e548435bb775a1af47a4e554498fa9"/>
+		<rom name="music\theme4.mp3" size="1822898" crc="cad6563a" sha1="4f34adef8324bc29e458a674ecaddf1cb3038d1c"/>
+	</machine>
+	<machine name="Nova">
+		<description>Nova</description>
+		<rom name="Music\Nova_music.txt" size="299" crc="cca4ac8c" sha1="f0c3f42d3eead1bab9d66eb204d5f18f7fc60f39"/>
+		<rom name="Music\NovaAllDone2012.mp3" size="572783" crc="f6d24f46" sha1="4a515e8ec8675d9411833a7fa976c10ec759c483"/>
+		<rom name="Music\NovaConnect2012.mp3" size="104637" crc="9dec73c8" sha1="22dbd68adfd8e9259964dad9ff50fd5007578d7d"/>
+		<rom name="Music\NovaHR2012.mp3" size="190114" crc="257603ea" sha1="33fa612fbdbdc6b5ca1cab68e25e10588b2c02c5"/>
+		<rom name="Music\NovaHR2012JB.mp3" size="318169" crc="cf1c5436" sha1="405923bdddff2aa262f9c8f84c512d7bd90fcf0c"/>
+		<rom name="Music\NovaHR_II2012.mp3" size="281080" crc="720d1f2c" sha1="24d898927ab81e8c25a18e4c80afcf396d60f761"/>
+		<rom name="Music\NovaIngame2012.mp3" size="734614" crc="affd1aa7" sha1="e239a7d41e7e6104aa0dca0e15f75c82a60f9590"/>
+		<rom name="Music\NovaIntro2012.mp3" size="1280974" crc="cbb84fd6" sha1="d2be4c4257e231e8e4ae5bc71cabcc458f4babbc"/>
+		<rom name="Music\NovaJMJ2012.mp3" size="882824" crc="464faa9f" sha1="2ec009d9fa539c7295bfe3078b5d66df463a0220"/>
+		<rom name="Music\NovaNova2012.mp3" size="967206" crc="cc716e72" sha1="971ae166f7a1690455ffd89458bc4ab53ef43ec7"/>
+		<rom name="Music\NovaRep2012.mp3" size="737076" crc="c4ad9ed7" sha1="31bf865e5e404ce21095aaabc06063af7b3c85c7"/>
+		<rom name="Music\NovaRush2012.mp3" size="657269" crc="e72aee22" sha1="a4dc7649a223594d3ccff720c7745b4d86262964"/>
+		<rom name="Music\NovaShake2012.mp3" size="283663" crc="23d0ee18" sha1="57094efdcb018be0b3da766d27b3733b5d8e5048"/>
+		<rom name="Music\NovaStorm2012.mp3" size="300322" crc="8f0b8739" sha1="9170e7003bac35e951c127f337c23da715776a9f"/>
+		<rom name="Music\NovaUYY2012.mp3" size="505990" crc="ea8d5dc2" sha1="dd08faca1d7497e1b2a970b8a7cab575a44e9c3c"/>
+		<rom name="Nova (1.3) Rules &amp; Notes.txt" size="4119" crc="cb3fb5dc" sha1="d15f0e0fa3107d11f36cea3815c37bd378ab7343"/>
+		<rom name="Nova (starman7007)(1.3)[VP912][WideScreen starman7007].vpt" size="20443136" crc="50e5b86d" sha1="19caa9712075659cb95ea9d114a26dd6cefbf3f2"/>
+		<rom name="Nova screenshot.jpg" size="355403" crc="fac8f77f" sha1="eac0dca0afc20e0cad07e37de75b7e8357d21c1c"/>
+	</machine>
+	<machine name="Ref Dwarf">
+		<description>Ref Dwarf</description>
+		<rom name="Red Dwarf (1.0) screenshot.jpg" size="794562" crc="2c043033" sha1="eb167ddc4a9ca08e5d53a21f3a4c3e976f575f5c"/>
+		<rom name="Red Dwarf (1.2) screenshot.jpg" size="703853" crc="3b56ff0e" sha1="6b8adfda496f4864727e16b6afc40282d08f9432"/>
+		<rom name="Red Dwarf (2.0) screenshot.jpg" size="335649" crc="f7f2bbf6" sha1="676664b405f506c1932489df634e3f06b1b914ef"/>
+		<rom name="Ref Dwarf (rosve)(1.0)[VP91x][WideScreen rosve][B2S rosve]\b2s.vbs" size="7527" crc="61185a8d" sha1="8a355a7b9ec0334e73a36e6bb783f8876d8be533"/>
+		<rom name="Ref Dwarf (rosve)(1.0)[VP91x][WideScreen rosve][B2S rosve]\How to install Dwarf_WS_B2S.txt" size="738" crc="80e69527" sha1="71add0d4ebe84afb85436a182752603f2c4f5d49"/>
+		<rom name="Ref Dwarf (rosve)(1.0)[VP91x][WideScreen rosve][B2S rosve]\RefDwarf_WS_B2S.exe" size="3346432" crc="0663b6fb" sha1="bce08699faa51fe3ecdc49bbdb54706ab382e755"/>
+		<rom name="Ref Dwarf (rosve)(1.0)[VP91x][WideScreen rosve][B2S rosve]\RefDwarf_WS_B2S.vpt" size="40984576" crc="830a4a39" sha1="f56c797fe8ec894be3a112c5e42a68474023a92c"/>
+		<rom name="Ref Dwarf (rosve)(1.0)[VP91x][WideScreen rosve][B2S rosve]\ScreenRes.txt" size="46" crc="5cf0ec7f" sha1="79098f4101fec255d643fd72a1ff27d5308bdd19"/>
+		<rom name="Ref Dwarf (rosve)(1.2)[VP91x][WideScreen rosve][B2S rosve]\b2s.vbs" size="7527" crc="61185a8d" sha1="8a355a7b9ec0334e73a36e6bb783f8876d8be533"/>
+		<rom name="Ref Dwarf (rosve)(1.2)[VP91x][WideScreen rosve][B2S rosve]\How to install Dwarf_WS_B2S.txt" size="738" crc="80e69527" sha1="71add0d4ebe84afb85436a182752603f2c4f5d49"/>
+		<rom name="Ref Dwarf (rosve)(1.2)[VP91x][WideScreen rosve][B2S rosve]\RefDwarf_WS_B2S.exe" size="3346432" crc="0663b6fb" sha1="bce08699faa51fe3ecdc49bbdb54706ab382e755"/>
+		<rom name="Ref Dwarf (rosve)(1.2)[VP91x][WideScreen rosve][B2S rosve]\RefDwarf_WS_B2S.vpt" size="43143168" crc="48a9698b" sha1="b86af4c1b288c9fe6dc43efc7b9fb0ccee2880e8"/>
+		<rom name="Ref Dwarf (rosve)(1.2)[VP91x][WideScreen rosve][B2S rosve]\ScreenRes.txt" size="46" crc="5cf0ec7f" sha1="79098f4101fec255d643fd72a1ff27d5308bdd19"/>
+		<rom name="Ref Dwarf (rosve)(2.0)[VP912][WideScreen rosve][B2S rosve]\b2s.vbs" size="7527" crc="61185a8d" sha1="8a355a7b9ec0334e73a36e6bb783f8876d8be533"/>
+		<rom name="Ref Dwarf (rosve)(2.0)[VP912][WideScreen rosve][B2S rosve]\How to install Dwarf_WS_B2S.txt" size="957" crc="93ab4a39" sha1="0b4375f2f504e6ac5ce95a64e3a191c80caa9c11"/>
+		<rom name="Ref Dwarf (rosve)(2.0)[VP912][WideScreen rosve][B2S rosve]\RefDwarf_WS_B2S.exe" size="3346432" crc="0663b6fb" sha1="bce08699faa51fe3ecdc49bbdb54706ab382e755"/>
+		<rom name="Ref Dwarf (rosve)(2.0)[VP912][WideScreen rosve][B2S rosve]\RefDwarf_WS_B2S.vpt" size="43237376" crc="6ef8bc8c" sha1="6fae4190c7448e9a2c537f1d8050d3729c50bd27"/>
+		<rom name="Ref Dwarf (rosve)(2.0)[VP912][WideScreen rosve][B2S rosve]\ScreenRes.txt" size="46" crc="5cf0ec7f" sha1="79098f4101fec255d643fd72a1ff27d5308bdd19"/>
+	</machine>
+	<machine name="Space 1999">
+		<description>Space 1999</description>
+		<rom name="Space 1999 (rosve)(1.0)[VP91x][WideScreen rosve][B2S rosve]\b2s.vbs" size="6795" crc="79e56d18" sha1="7cd86b0772576c5e6fbe43e408eb4917ec8257cd"/>
+		<rom name="Space 1999 (rosve)(1.0)[VP91x][WideScreen rosve][B2S rosve]\How to install Space1999_WS_B2S.txt" size="1281" crc="a38f4f54" sha1="f6f4f6d7d3b5f9949c1040c56e5816bfc215d62e"/>
+		<rom name="Space 1999 (rosve)(1.0)[VP91x][WideScreen rosve][B2S rosve]\ScreenRes.txt" size="23" crc="2e4f378f" sha1="a6b494aea04a9e1303bc6fde96b72a5e0bdbf5af"/>
+		<rom name="Space 1999 (rosve)(1.0)[VP91x][WideScreen rosve][B2S rosve]\Space1999_WS_B2S.exe" size="13856768" crc="469bad8a" sha1="b84704e3c2c8f970a0f655d8e04db36d426e34b5"/>
+		<rom name="Space 1999 (rosve)(1.0)[VP91x][WideScreen rosve][B2S rosve]\Space1999_WS_B2S.vpt" size="27320320" crc="c968b3f5" sha1="1e0c9d4cca9d7f3b0f8000921c1f7c230fd2bc77"/>
+		<rom name="Space 1999 (rosve)(1.01)[VP91x][WideScreen rosve][B2S rosve]\b2s.vbs" size="6795" crc="79e56d18" sha1="7cd86b0772576c5e6fbe43e408eb4917ec8257cd"/>
+		<rom name="Space 1999 (rosve)(1.01)[VP91x][WideScreen rosve][B2S rosve]\How to install Space1999_WS_B2S.txt" size="1281" crc="a38f4f54" sha1="f6f4f6d7d3b5f9949c1040c56e5816bfc215d62e"/>
+		<rom name="Space 1999 (rosve)(1.01)[VP91x][WideScreen rosve][B2S rosve]\ScreenRes.txt" size="23" crc="2e4f378f" sha1="a6b494aea04a9e1303bc6fde96b72a5e0bdbf5af"/>
+		<rom name="Space 1999 (rosve)(1.01)[VP91x][WideScreen rosve][B2S rosve]\Space1999_WS_B2S.exe" size="14919680" crc="88bbcc04" sha1="e7c5d701e45ff8a312aa11b80af784ad94be5e40"/>
+		<rom name="Space 1999 (rosve)(1.01)[VP91x][WideScreen rosve][B2S rosve]\Space1999_WS_B2S.vpt" size="27320320" crc="70c4be5f" sha1="bd6fbb2f271995f154a693338c0aad6cb781f678"/>
+		<rom name="SPACE 1999 (rosve)(WS) screenshot.jpg" size="735157" crc="5404a533" sha1="b571c1733c350ce7cd360e4cf191b33b63e87c28"/>
+	</machine>
+	<machine name="Terminator, The (Matthew Marino, John Krukowski)(1.01)[VP911][WideScreen]">
+		<description>Terminator, The (Matthew Marino, John Krukowski)(1.01)[VP911][WideScreen]</description>
+		<rom name="FONT\digiread.ttf" size="31144" crc="651591e7" sha1="106908d15d70e7f32489d627dbc0da5386da8aa5"/>
+		<rom name="Installation Instructions.txt" size="381" crc="d5745f49" sha1="2bb3cb76459c796071b57e6ea7c8023c2e86c9dc"/>
+		<rom name="MUSIC\TerminatorFactoryFight.mp3" size="1120549" crc="1076435e" sha1="931e197e8cac3de72bb4b97030483e42e6f9ed27"/>
+		<rom name="MUSIC\TerminatorGameOver.mp3" size="1308212" crc="45728d19" sha1="119d747b7b5ab55e41104aa77d17eee293bc7974"/>
+		<rom name="MUSIC\TerminatorTrack1.mp3" size="541675" crc="9be9b80c" sha1="ee56eac838a39bdd0742085dbcaee4e23542dff2"/>
+		<rom name="MUSIC\TerminatorTrack2.mp3" size="2827494" crc="583e4bf2" sha1="9c7476991f4c750cff1845c9e556e016e802bc08"/>
+		<rom name="MUSIC\TerminatorTrack3.mp3" size="1207902" crc="9cef4cec" sha1="e748620570ef1e6abfe2c7728f3490d0a449e052"/>
+		<rom name="MUSIC\TerminatorTrack4.mp3" size="1797642" crc="d3b1ccdc" sha1="4e4cf44534cdbeaff5c8d431e03aa4b7f64343c7"/>
+		<rom name="MUSIC\TerminatorTrack5.mp3" size="1653029" crc="310da9ac" sha1="613b3a98fe72532d929ec75ad223f75671af74bf"/>
+		<rom name="MUSIC\TerminatorTrack6.mp3" size="1231726" crc="159ae42e" sha1="9813c3bf943bd8adcfba6ef72be3b561e86e01d1"/>
+		<rom name="MUSIC\TerminatorTrack7.mp3" size="2753515" crc="e92266cb" sha1="54eede08015c40eb9e65bc42c6592401b590e134"/>
+		<rom name="MUSIC\TerminatorTrack8.mp3" size="1849469" crc="7e986ed3" sha1="ffb1d03c7f13a0893eb6ffbffc1bd62fc320280c"/>
+		<rom name="MUSIC\TerminatorTrack9.mp3" size="580608" crc="d254a475" sha1="7ea5e22cab01af96b178b3b188a9eccdc9a75b31"/>
+		<rom name="MUSIC\TerminatorTruck.mp3" size="502073" crc="da450b93" sha1="07c3ecb736527f840b0b8f38791a206c11c0fedf"/>
+		<rom name="Rules.pdf" size="119669" crc="65cc2e6d" sha1="dc6d19bae2265a6206d94d6ce7a2e1ba2486210b"/>
+		<rom name="The Terminator WS.vpt" size="28196864" crc="85a9da80" sha1="44051c8e4f085096ca90a052946417db42218252"/>
+	</machine>
+	<machine name="TMNT">
+		<description>TMNT</description>
+		<rom name="TMNT (StevOz)(1.01)[VP912][WideScreen SteveOz].vpt" size="24797184" crc="3aa3be0a" sha1="2b3f2c12551a24ee33ce0f32521a8e66d1dca7ee"/>
+		<rom name="TMNT (WideScreen) screenshot.jpg" size="388406" crc="247a9f3b" sha1="24b6e19c370c72707a3cb30c9776200342350426"/>
+		<rom name="TNMTCowabunga.zip" size="1754062" crc="72272d60" sha1="2bcc680973e40351699aae58a524156cf43e4d21"/>
+	</machine>
+	<machine name="Tokimeki Forever With You">
+		<description>Tokimeki Forever With You</description>
+		<rom name="2.0.1\Tokimeki Forever With You (2.0.1) readme.txt" size="4313" crc="f00b45d0" sha1="697ab5ddb0128446a840c2a7500bdc42b6cb20b0"/>
+		<rom name="2.0.1\Tokimeki Forever With You (2.0.1) Rulesheet.txt" size="41622" crc="3e54561f" sha1="8bf6d9c7b4d29094a7eeba2f9ab80d4e6c01f6df"/>
+		<rom name="2.0.1\Tokimeki Forever With You (Neo)(2.0.1)[VP91x][WideScreen Neo].vpt" size="8368128" crc="dfce060d" sha1="3c8dbae655e9965a60ca8c7d831c3502fe95b914"/>
+		<rom name="2.0.2\Tokimeki Forever With You (2.0.2) readme.txt" size="4504" crc="8d312bb2" sha1="4fd9fda78a8306ab4221312e1623f6149696c047"/>
+		<rom name="2.0.2\Tokimeki Forever With You (Neo)(2.0.2)[VP91x][WideScreen Neo].vpt" size="8368128" crc="72c7135b" sha1="44d13760fe3c279965f4f438b013904a6ab13d58"/>
+		<rom name="Fonts\Blklitn.ttf" size="60736" crc="6c4555c9" sha1="a80d8e49b34dd82ef1012ab3e1f83d55baffd134"/>
+		<rom name="Fonts\digir___.ttf" size="37736" crc="7cd2c10e" sha1="dd58a9176b945cd8bb3f27b9e092e50d8a1f0383"/>
+		<rom name="Fonts\eggcrate.ttf" size="31708" crc="7f1010e2" sha1="c80c4d418f0e8ea3cbd7e35f3eefa55a5514a995"/>
+		<rom name="Music\vptokimekibonuscount.mp3" size="718472" crc="7ee0fbd4" sha1="6f6233e6aee0364c21982c1e85a2fbbb28ebfebe"/>
+		<rom name="Music\vptokimekiending.mp3" size="961411" crc="fe76849b" sha1="c1f8badeff0307e9f4a0c0cb0410bc038af1c98e"/>
+		<rom name="Music\vptokimekiintro.mp3" size="621296" crc="a7940a53" sha1="9ca3ac7a43229c7f20f3519be3ff0d6ac3c295f0"/>
+		<rom name="Music\vptokimekimain1.mp3" size="1441646" crc="1edebbde" sha1="365f8915138d534e50ca9b10fef543a4ed906113"/>
+		<rom name="Music\vptokimekimain2.mp3" size="1529731" crc="88a7ca03" sha1="2dfccd22b8019f161c1fbef2a13e245d4caf8cbb"/>
+		<rom name="Music\vptokimekimain3.mp3" size="1432869" crc="c706f47e" sha1="cba2978e30274f77f708c7c15f2420bb775283b3"/>
+		<rom name="Music\vptokimekimain4.mp3" size="1420643" crc="0529f4cd" sha1="02849607ececf7356d1285ec488e9713056117b4"/>
+		<rom name="Music\vptokimekimain5.mp3" size="1458260" crc="a01e9aad" sha1="4e82697e94537cbe3ce3074ad6813d093aaeea31"/>
+		<rom name="Music\vptokimekimultiball.mp3" size="1768908" crc="ac94a6e9" sha1="8a2165e61b29bcdf444e8d3b2756891caee04d9f"/>
+		<rom name="Music\vptokimekisgstart.mp3" size="704993" crc="74cf8b96" sha1="7e76274e66b2f6eb62faf01bd111858fbc4036a0"/>
+		<rom name="Music\vptokimekivictory.mp3" size="1129744" crc="32e7be29" sha1="445df7c724a64b33d0f0904c9e4fe3d5664adb43"/>
+		<rom name="Tokimeki Forever With You screenshot.jpg" size="492023" crc="52b5714c" sha1="838eee36027056f18e14cd218f939d1759922ba2"/>
+	</machine>
+	<machine name="Wrath of Olympus">
+		<description>Wrath of Olympus</description>
+		<rom name="Wrath of Olympus (JPSalas, T-800)(1.0)[VP912][WideScreen batch].vpt" size="44756992" crc="4f30ae96" sha1="92b6e684df983efce78ade62d501bf7ca6c11046"/>
+		<rom name="Wrath of Olympus screenshot.jpg" size="784528" crc="7afc3673" sha1="80a43d264f48b226922fbcfd16ffaa2bd3fe8652"/>
+	</machine>
+	<machine name="Zone Fury">
+		<description>Zone Fury</description>
+		<rom name="Music\vpzonefuryending.mp3" size="478879" crc="961a1bda" sha1="945e5a14dc3923633361f31c87aacd9189b76635"/>
+		<rom name="Music\vpzonefuryintro.mp3" size="1051065" crc="e93ad614" sha1="a9b19fff1c3061639451bb92f45c80188c460333"/>
+		<rom name="Music\vpzonefurymix01.mp3" size="8037671" crc="9c950a03" sha1="25158038e30ed26aa456399c124715de8cd8bdb7"/>
+		<rom name="Music\vpzonefurymix02.mp3" size="4836940" crc="a2410b43" sha1="0751735793ac3e8caf4c9cf63e4f813be1c0a1bc"/>
+		<rom name="Music\vpzonefurymix03.mp3" size="6421841" crc="119c8e7c" sha1="454bfb6f57b3e89832fd442d2e5717262a103a4c"/>
+		<rom name="Music\vpzonefurymultiball.mp3" size="4178236" crc="713de4f7" sha1="a296a246736f8c92dd6226e85519e03cec3c1868"/>
+		<rom name="Zone Fury (Neo)(1.0)[VP912][WideScreen Neo].vpt" size="13828096" crc="ec68ea49" sha1="ef1e1db573bb7f8828add30ebdae293157009780"/>
+		<rom name="Zone Fury (Neo)(1.01)[VP912][WideScreen Neo].vpt" size="13832192" crc="e83a5c59" sha1="741707e01a1fad89922f060527fb78aab51f7f9d"/>
+		<rom name="Zone Fury readme.txt" size="1901" crc="91c43418" sha1="75cb597d575e8b22309abfdefe164abbfd5438cf"/>
+		<rom name="Zone Fury rulesheet.txt" size="8485" crc="7bd9b8ee" sha1="8bc9573c2760d3f605be580e0c56ee8c1d103335"/>
+		<rom name="Zone Fury screenshot.jpg" size="374815" crc="b3b2badb" sha1="e41d33c1bddcc2fb1f59d398850b6a1f90f97316"/>
+		<rom name="Zone Fury Wheel Logo.png" size="34165" crc="3fc89a34" sha1="b9f33f081e363e5c46c32dbdb2ec2e7d526e6a22"/>
+	</machine>
+</datafile>

@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tesla PMD 85 - Games</name>
+		<description>Tesla PMD 85 - Games (TOSEC-v2011-09-24)</description>
+		<category>TOSEC</category>
+		<version>2011-09-24</version>
+		<author>Cid - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Auto (198x)(-)">
+		<description>Auto (198x)(-)</description>
+		<rom name="Auto (198x)(-).02b" size="1317" crc="1e33b4d6" md5="f2693727a2c56326beffb86bd0620db4" sha1="6527f2b701e78de177315c43ce434287668ad22a"/>
+	</game>
+	<game name="Bludiste (1988)(-)">
+		<description>Bludiste (1988)(-)</description>
+		<rom name="Bludiste (1988)(-).02b" size="8567" crc="62c8ad42" md5="90120841fcbc268f5296a17086924e6e" sha1="5b891fb3c92a6d7a23725fcb2e94a046314e98c2"/>
+	</game>
+	<game name="Bombarder (19xx)(-)">
+		<description>Bombarder (19xx)(-)</description>
+		<rom name="Bombarder (19xx)(-).02b" size="2772" crc="7e5b178e" md5="69436c1518db0a68c24a823f9c7d7320" sha1="2d876752fcf774be6464a084144a6a85e2f4c31d"/>
+	</game>
+	<game name="Boulder Dash (1988)(VBG Software)">
+		<description>Boulder Dash (1988)(VBG Software)</description>
+		<rom name="Boulder Dash (1988)(VBG Software).02b" size="24903" crc="9ea24bb6" md5="f52ad57676723be7fac01568e1da413c" sha1="19617ebfe73fcc752c7ddaa8d43367ca7cc74581"/>
+	</game>
+	<game name="Faraonova Hbroka (1988)(-)">
+		<description>Faraonova Hbroka (1988)(-)</description>
+		<rom name="Faraonova Hbroka (1988)(-).02b" size="7096" crc="307994fc" md5="e193c29f322c2b9c3eafefbbfd3fdaa0" sha1="198ce2a78304aeb61d081d3e64d8f737d2a64918"/>
+	</game>
+	<game name="Flappy (1987)(VBG Software)">
+		<description>Flappy (1987)(VBG Software)</description>
+		<rom name="Flappy (1987)(VBG Software).02b" size="36448" crc="0f4cb0a9" md5="089745db64fd58c81da194678f806d2b" sha1="40bf5f34362fdaa25f5de1f95640916ccaee1c4d"/>
+	</game>
+	<game name="Fred (1988)(VBG Software)">
+		<description>Fred (1988)(VBG Software)</description>
+		<rom name="Fred (1988)(VBG Software).02b" size="17235" crc="39499aa9" md5="10104c87aa776f555cc55366ff2958c4" sha1="9b1670900ec3aff9a78ad1dc4079a5c521f62e95"/>
+	</game>
+	<game name="Galaxia (1988)(Ceres Soft)">
+		<description>Galaxia (1988)(Ceres Soft)</description>
+		<rom name="Galaxia (1988)(Ceres Soft).02b" size="21656" crc="7de36b2e" md5="451e3084b1552e7b4d9d0c41d8aba14e" sha1="ee0e489c99e7274dca788f24bbf4ca45df0cfdda"/>
+	</game>
+	<game name="Hlipa (1989)(ZO Svazarmu)">
+		<description>Hlipa (1989)(ZO Svazarmu)</description>
+		<rom name="Hlipa (1989)(ZO Svazarmu).02b" size="44336" crc="26f53a9f" md5="c3f263c92001f4162b3908ada7978e11" sha1="90ee9074f98b4b110bf5ba34cfc3432a428bde35"/>
+	</game>
+	<game name="Horac a pavouci (1985)(ZO Svazarmu)">
+		<description>Horac a pavouci (1985)(ZO Svazarmu)</description>
+		<rom name="Horac a pavouci (1985)(ZO Svazarmu).02b" size="3292" crc="44d23af1" md5="643f6d3e16b3e3830e9c1554bb59896e" sha1="960961bbffa7d76c0f4e9a0f64c5373f7eabb978"/>
+	</game>
+	<game name="Karel (1988)(-)">
+		<description>Karel (1988)(-)</description>
+		<rom name="Karel (1988)(-).02b" size="7027" crc="8cfb094b" md5="0b49cbf886c1afafae2f7e86125ea626" sha1="6bb68b63b1baeb75400fd130a6f962ddafaea3ff"/>
+	</game>
+	<game name="Kuriatko (19xx)(-)">
+		<description>Kuriatko (19xx)(-)</description>
+		<rom name="Kuriatko (19xx)(-).02b" size="6379" crc="bb208585" md5="5f8ced9acaca9ede3b2f9f1b5aaa7e31" sha1="3f0a958bc750d49b11b02cb2e5722109472bde5f"/>
+	</game>
+	<game name="Manic Miner (1987)(VBG Software)">
+		<description>Manic Miner (1987)(VBG Software)</description>
+		<rom name="Manic Miner (1987)(VBG Software).02b" size="27792" crc="f21937aa" md5="31ba6e48d2313b8402692e5de1de2fe0" sha1="cfbc4ea6f39d2f38da095c19dd8e784e8686861f"/>
+	</game>
+	<game name="Mesto robotu (1988)(-)">
+		<description>Mesto robotu (1988)(-)</description>
+		<rom name="Mesto robotu (1988)(-).02b" size="28221" crc="07938025" md5="68a67e43733f0061d5729083372b5710" sha1="8c4460275829e503cf330c1fc08d27bd41e878ee"/>
+	</game>
+	<game name="Nahrava se Princ Jason (1989)(Ceres Soft)">
+		<description>Nahrava se Princ Jason (1989)(Ceres Soft)</description>
+		<rom name="Nahrava se Princ Jason (1989)(Ceres Soft).02b" size="37194" crc="f0e67ee4" md5="ad977369664495a9b3200910bf35fc2e" sha1="3593fc5b95e16cd6c6ac95748f097bf5eb9da5e6"/>
+	</game>
+	<game name="Pampuch &amp; Duch (1986)(-)">
+		<description>Pampuch &amp; Duch (1986)(-)</description>
+		<rom name="Pampuch &amp; Duch (1986)(-).02b" size="4691" crc="8552213a" md5="f9e5c5c8faafaaff4bf86b70e9e8972b" sha1="a2845da6f8ca66ae78d7815c8e839dfcca79eb06"/>
+	</game>
+	<game name="Penetrator (1988)(VBG Software)">
+		<description>Penetrator (1988)(VBG Software)</description>
+		<rom name="Penetrator (1988)(VBG Software).02b" size="34125" crc="c46033fe" md5="b7769660d28d2e2ccdb7d1f70f4cd550" sha1="19739f1b1328be1a0886a03fa7619652989afb22"/>
+	</game>
+	<game name="Pexeso (1988)(Petisoft)">
+		<description>Pexeso (1988)(Petisoft)</description>
+		<rom name="Pexeso (1988)(Petisoft).02b" size="23006" crc="f994b980" md5="5c2829f7baf27a781aa35351e74caf68" sha1="cb2b6be14dd2a85447f41cdf838e0dd66c7e3f97"/>
+	</game>
+	<game name="Piskvorky (1987)(-)">
+		<description>Piskvorky (1987)(-)</description>
+		<rom name="Piskvorky (1987)(-).02b" size="10132" crc="9ea553c2" md5="008cb89c2c21ef2a0a96536fee2a0265" sha1="4660b90d8d0c06107795a4faf2db7e5be20e92e2"/>
+	</game>
+	<game name="Saboter (1989)(VBG Software)">
+		<description>Saboter (1989)(VBG Software)</description>
+		<rom name="Saboter (1989)(VBG Software).02b" size="30541" crc="0706a1ca" md5="694f34c02aa3c26e9eb6f8af0b17a437" sha1="1d6485f12903f3cc0be07754b975eaca67895f28"/>
+	</game>
+	<game name="Tava - HRA s Nahodou a Prirodou (1985)(-)">
+		<description>Tava - HRA s Nahodou a Prirodou (1985)(-)</description>
+		<rom name="Tava - HRA s Nahodou a Prirodou (1985)(-).02b" size="6841" crc="3346f7a1" md5="356d132aa7d763a3ed5080bddddd8ecb" sha1="50a87c7e81c637161742929b42f225183e3215f6"/>
+	</game>
+	<game name="Zaby (198x)(-)">
+		<description>Zaby (198x)(-)</description>
+		<rom name="Zaby (198x)(-).02b" size="2883" crc="f8ff3af1" md5="63748b25bacc5936c74fb2a3756d6119" sha1="89c0df30ce1c1e703396f76eb85cd77688054e2a"/>
+	</game>
+	<game name="ZED (198x)(-)">
+		<description>ZED (198x)(-)</description>
+		<rom name="ZED (198x)(-).02b" size="1185" crc="99be7a35" md5="f2817888c6f6ef16f51d1e0d252a4aad" sha1="bfbb57b61e5867082feb6d80c658a8bccabd0010"/>
+	</game>
+	<game name="ZZZ-UNK-GRDEMO">
+		<description>ZZZ-UNK-GRDEMO</description>
+		<rom name="ZZZ-UNK-GRDEMO.02b" size="29639" crc="f9e1e8ac" md5="e3c1a5f94621dcdf0d29f80e75a6676d" sha1="5dc2a7436073eb59ebe74a4c2c56ffdf2cb92cd5"/>
+	</game>
+	<game name="ZZZ-UNK-KURCA">
+		<description>ZZZ-UNK-KURCA</description>
+		<rom name="ZZZ-UNK-KURCA.02b" size="18243" crc="dc8db4aa" md5="f1616b819dd57bfc2afda331e5d75b1d" sha1="0c74ac004911cd4024c08b0bc91a608ed1885455"/>
+	</game>
+	<game name="ZZZ-UNK-WURMI">
+		<description>ZZZ-UNK-WURMI</description>
+		<rom name="ZZZ-UNK-WURMI.02b" size="2440" crc="8aa15e50" md5="3245eb8d1fd539bd174aa03849f41d57" sha1="d69ccff727f54c79fdc689c7099de8e18dcfc1e1"/>
+	</game>
+</datafile>

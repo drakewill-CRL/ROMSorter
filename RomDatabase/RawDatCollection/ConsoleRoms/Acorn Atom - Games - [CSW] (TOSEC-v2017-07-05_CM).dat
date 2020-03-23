@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Acorn Atom - Games - [CSW]</name>
+		<description>Acorn Atom - Games - [CSW] (TOSEC-v2017-07-05)</description>
+		<category>TOSEC</category>
+		<version>2017-07-05</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Atomic Chuckie Egg (2012)(van Oss, Kees)(FW)[colour for Atomulator]">
+		<description>Atomic Chuckie Egg (2012)(van Oss, Kees)(FW)[colour for Atomulator]</description>
+		<rom name="Atomic Chuckie Egg (2012)(van Oss, Kees)(FW)[colour for Atomulator].csw" size="194919" crc="ac15014a" md5="1763aa8ee47894efe29ef5eb2eb8c523" sha1="aea5ea105496eeb181b2e959c9efd02f7fbb3c07"/>
+	</game>
+	<game name="Atomic Chuckie Egg (2012)(van Oss, Kees)(FW)[monochrome for Atomulator]">
+		<description>Atomic Chuckie Egg (2012)(van Oss, Kees)(FW)[monochrome for Atomulator]</description>
+		<rom name="Atomic Chuckie Egg (2012)(van Oss, Kees)(FW)[monochrome for Atomulator].csw" size="192571" crc="3a42eb2a" md5="64fe72732560658197bc6a0ef6533cd1" sha1="7aa90351028552eb1747fb564663af7419da003a"/>
+	</game>
+	<game name="Atomic Joe Blade (2014)(van Oss, Kees)(FW)[Atomulator]">
+		<description>Atomic Joe Blade (2014)(van Oss, Kees)(FW)[Atomulator]</description>
+		<rom name="Atomic Joe Blade (2014)(van Oss, Kees)(FW)[Atomulator].csw" size="454783" crc="c82574e9" md5="dfb03f7a71081c588f76ce8158437415" sha1="a221a65b14df243e5f00779b2e0b2d62ac01cc66"/>
+	</game>
+	<game name="Galaforce (2012)(van Oss, Kees)(FW)[colour for Atomulator]">
+		<description>Galaforce (2012)(van Oss, Kees)(FW)[colour for Atomulator]</description>
+		<rom name="Galaforce (2012)(van Oss, Kees)(FW)[colour for Atomulator].csw" size="230413" crc="59ef086f" md5="9ec2a70b0029edd8e6fac9d140670350" sha1="33e9a5486b1c0a4b86b8c0dbd8431c4f1c3476a6"/>
+	</game>
+	<game name="Galaforce (2012)(van Oss, Kees)(FW)[monochrome for Atomulator]">
+		<description>Galaforce (2012)(van Oss, Kees)(FW)[monochrome for Atomulator]</description>
+		<rom name="Galaforce (2012)(van Oss, Kees)(FW)[monochrome for Atomulator].csw" size="285428" crc="2517e742" md5="d70262b5347b5ffe726023df2443614c" sha1="827b3d9bcc2247ad07f56046244e95ac452e6dac"/>
+	</game>
+	<game name="Hard Hat Harry (2011)(van Oss, Kees)(FW)[Atomulator]">
+		<description>Hard Hat Harry (2011)(van Oss, Kees)(FW)[Atomulator]</description>
+		<rom name="Hard Hat Harry (2011)(van Oss, Kees)(FW)[Atomulator].csw" size="188681" crc="dddfb4cc" md5="8189ef514243803f63dfef42cad9fa54" sha1="ad0bea9e4ee511ef95030293878e210bd8f29258"/>
+	</game>
+	<game name="Hyper Viper (2012-02)(van Oss, Kees)(FW)[colour for Atomulator]">
+		<description>Hyper Viper (2012-02)(van Oss, Kees)(FW)[colour for Atomulator]</description>
+		<rom name="Hyper Viper (2012-02)(van Oss, Kees)(FW)[colour for Atomulator].csw" size="143754" crc="9827e10f" md5="9fc10a3199e27706b6360460845620bd" sha1="83d62be4931fe01642f2e7c3e87a67234c41e647"/>
+	</game>
+	<game name="Hyper Viper (2012-02)(van Oss, Kees)(FW)[monochrome for Atomulator]">
+		<description>Hyper Viper (2012-02)(van Oss, Kees)(FW)[monochrome for Atomulator]</description>
+		<rom name="Hyper Viper (2012-02)(van Oss, Kees)(FW)[monochrome for Atomulator].csw" size="140729" crc="34d7130e" md5="44ca2858d10a3d15cb7dbe62405cd550" sha1="3c89fc7681d5c32316aefa09d8d6874e0a465ad0"/>
+	</game>
+	<game name="Jungle Journey (2012)(van Oss, Kees)(FW)[colour for Atomulator]">
+		<description>Jungle Journey (2012)(van Oss, Kees)(FW)[colour for Atomulator]</description>
+		<rom name="Jungle Journey (2012)(van Oss, Kees)(FW)[colour for Atomulator].csw" size="420702" crc="ee116689" md5="78a95edcc6c36faec4955cd4f001ee0a" sha1="fcba8bbd4e3b028657a90d6f2c6a890a9a69b43e"/>
+	</game>
+	<game name="Repton (2013)(van Oss, Kees)(FW)[colour for Atomulator]">
+		<description>Repton (2013)(van Oss, Kees)(FW)[colour for Atomulator]</description>
+		<rom name="Repton (2013)(van Oss, Kees)(FW)[colour for Atomulator].csw" size="368955" crc="289c5bb2" md5="48caa25aacf55049ead97e917ead2466" sha1="c32aaa07a051430ff1d56b140c9057af8e83d42b"/>
+	</game>
+</datafile>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega - SG-1000 (Echoj2's 1G1R)</name>
+		<description>Sega - SG-1000 (Echoj2's 1G1R)</description>
+		<category>Standard DatFile</category>
+		<version>20180623-100000</version>
+		<date>-insert date-</date>
+		<author>Eckaji</author>
+		<email>-insert email-</email>
+		<homepage>r/SBCGaming</homepage>
+		<url>https://discord.gg/JdXc6nx</url>
+		<comment>-insert comment-</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Borderline (Japan, Europe)">
+		<description>Borderline (Japan, Europe)</description>
+		<rom name="Borderline (Japan, Europe).sg" size="16384" crc="0b4bca74" md5="25c742e43bc9f1329f3f26502fefb10a" sha1="b967340fa91d960f86548f15e6d25a8e7e2c5043"/>
+	</machine>
+	<machine name="Congo Bongo (Japan) (Rev 1) (40kB)">
+		<description>Congo Bongo (Japan) (Rev 1) (40kB)</description>
+		<rom name="Congo Bongo (Japan) (Rev 1) (40kB).sg" size="40960" crc="f1506565" md5="a0620fb61aa7d023ca52c5eee559832f" sha1="4ea22b9a655c4cfe13500beb97e84da451752148"/>
+	</machine>
+	<machine name="Exerion (Japan, Europe)">
+		<description>Exerion (Japan, Europe)</description>
+		<rom name="Exerion (Japan, Europe).sg" size="16384" crc="a2c45b61" md5="7f0ae039dd072d825ebfd2d3bf02a2a0" sha1="839e19487b96d02222ff397b047cbc6a0fbc08ff"/>
+	</machine>
+	<machine name="Lode Runner (Japan, Europe)">
+		<description>Lode Runner (Japan, Europe)</description>
+		<rom name="Lode Runner (Japan, Europe).sg" size="32768" crc="00ed3970" md5="4b4f02eb3cf7d5f9dcd1311d72e6d742" sha1="f14f216edfda7dfd113f5cb32375a27be8a6409d"/>
+	</machine>
+	<machine name="N-Sub (Japan) (40kB)">
+		<description>N-Sub (Japan) (40kB)</description>
+		<rom name="N-Sub (Japan) (40kB).sg" size="40960" crc="b377d6e1" md5="cfced1ba39adee6a75dc830ed9c12f73" sha1="aa3eae849553a5a176762466b101f312b8b968e4"/>
+	</machine>
+	<machine name="Orguss (Japan, Europe)">
+		<description>Orguss (Japan, Europe)</description>
+		<rom name="Orguss (Japan, Europe).sg" size="32768" crc="f4f78b76" md5="0f45fa8e9b985fd5c6545645462b9400" sha1="c50b133dac95718e3a92a7ed45b6c7e83927abb0"/>
+	</machine>
+	<machine name="Pacar (Japan) (40kB)">
+		<description>Pacar (Japan) (40kB)</description>
+		<rom name="Pacar (Japan) (40kB).sg" size="40960" crc="19949375" md5="c672bc2409443cc5bca35abd041d11e0" sha1="5e89857a374cbf3efa32efb62d26973d46a856ae"/>
+	</machine>
+	<machine name="Pop Flamer (Japan, Europe)">
+		<description>Pop Flamer (Japan, Europe)</description>
+		<rom name="Pop Flamer (Japan, Europe).sg" size="16384" crc="db6404ba" md5="7f841aa0c225662e26ca7a8df20b2eb8" sha1="84b59a9f855ef5e953c43495d7a15dd78386d0a8"/>
+	</machine>
+	<machine name="Safari Race (Japan)">
+		<description>Safari Race (Japan)</description>
+		<rom name="Safari Race (Japan).sg" size="32768" crc="08707fe3" md5="8384956e456a91ca59f9c5e72f1cb1c4" sha1="ecbba909f2227786e7ba3360d2dd158f6513cfd4"/>
+	</machine>
+	<machine name="Sega Flipper (Japan) (40kB)">
+		<description>Sega Flipper (Japan) (40kB)</description>
+		<rom name="Sega Flipper (Japan) (40kB).sg" size="40960" crc="fd76ad99" md5="49c7c14879a437e60730b62a7550cdf6" sha1="d713dcbd79a3db8f1ef2cfb27da31a286fff16d1"/>
+	</machine>
+	<machine name="Sindbad Mystery (Japan, Europe)">
+		<description>Sindbad Mystery (Japan, Europe)</description>
+		<rom name="Sindbad Mystery (Japan, Europe).sg" size="32768" crc="01932df9" md5="7b0f2be3588337df59959ababbefe505" sha1="90bb8b8337866339f32b3fd48b4d25d78d682b55"/>
+	</machine>
+	<machine name="Star Jacker (Japan, Europe) (Rev 2)">
+		<description>Star Jacker (Japan, Europe) (Rev 2)</description>
+		<rom name="Star Jacker (Japan, Europe) (Rev 2).sg" size="32768" crc="3fe59505" md5="22200ef1461212cacdc58f6636d759fd" sha1="a2a06e7545ca1e0d522d0eb75a72b5b520f42330"/>
+	</machine>
+	<machine name="Yamato (Japan) (40kB)">
+		<description>Yamato (Japan) (40kB)</description>
+		<rom name="Yamato (Japan) (40kB).sg" size="40960" crc="9c7497ff" md5="653d415ed202c09c08207c83f9e311eb" sha1="fe86e669f3e4b808236d7b80aeb5a83172edb9ac"/>
+	</machine>
+</datafile>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore Amiga - CD - Compilations - [BIN]</name>
+		<description>Commodore Amiga - CD - Compilations - [BIN] (TOSEC-v2018-07-02)</description>
+		<category>TOSEC-ISO</category>
+		<version>2018-07-02</version>
+		<author>Tomse - TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+		<clrmamepro/>
+	</header>
+	<game name="Assassins - Ultimate CD Games Collection (1994)(Weird Science)[Amiga-CD32-CDTV][CDD5560]">
+		<description>Assassins - Ultimate CD Games Collection (1994)(Weird Science)[Amiga-CD32-CDTV][CDD5560]</description>
+		<rom name="Assassins - Ultimate CD Games Collection (1994)(Weird Science)(Track 1 of 2)(Amiga-CD32-CDTV)[CDD5560].bin" size="599023824" crc="8f444645" md5="53b103bc24ef585bdf3a9d60b986a39e" sha1="8c22ca68e89922ed395f6d7524b65d6243244859"/>
+		<rom name="Assassins - Ultimate CD Games Collection (1994)(Weird Science)(Track 2 of 2)(Amiga-CD32-CDTV)[CDD5560].wav" size="50483372" crc="307a9ffe" md5="0e56e81693587a7cc788840975f4aafa" sha1="eebe65e2cec6e472b932536b92077b5d8c88eb4d"/>
+		<rom name="Assassins - Ultimate CD Games Collection (1994)(Weird Science)[Amiga-CD32-CDTV][CDD5560].cue" size="330" crc="78713165" md5="451adbcaf5e9b0906483a74f71a14724" sha1="446287477058cfd0283a8100a04f86d816d0a17a"/>
+	</game>
+</datafile>
