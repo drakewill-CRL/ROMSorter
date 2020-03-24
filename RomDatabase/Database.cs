@@ -10,9 +10,9 @@ namespace RomDatabase
 {
     public class Database
     {
+        //TODO: Apply some math and logic to attempt to find 'headerless' NES ROMs. (If the file isn't divisble by 8192, skip the first 16 bytes, re-hash, re-search to see if there's a headerless entry in the DB) - NES ONLY.        
         //TODO: enable 'zip files at destination' checkbox afer implementing code to zip instead of copy files.
         //TODO: make console table (done), change console field to INTEGER to reference it via join (may not be best SQLite behavior)
-        //TODO: use NO-INTRO dat files to mark games as 1G1R where hashes line up. (Dat files acquired, dont seem to match up to TOSEC roms?) and/or for systems where TOSEC donesnt have enough entries.
         //TODO: make a crawler to try and fill in data on games where i can search
         //TODO: Write an autoguess routine to attempt to fill in some extra data columns. Might need a separate database for manually edited entries and apply those changes after guessing. Ex: set genre to 'edutainment' if name has 'learning' in it, racing for racing, sports for ball, etc.
         //TODO: Keep the UI simple. List big counts and big buttons for easy stuff. Maybe a couple drop downs for how to sort games. Checkboxes for toggles.
@@ -56,8 +56,7 @@ namespace RomDatabase
             //3DS (NOINTRO, Digital-CDN is Discs)
             //NEW 3DS (NOINTRO)
             
-
-            //SEga:
+            //Sega:
             //Master System. (TOSEC and NoIntro)
             //GameGear (TOSEC and NOINTRO)
             //Genesis-megadrive (TOSEC, minus multipart, and NoIntro)

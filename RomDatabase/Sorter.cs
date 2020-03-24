@@ -67,8 +67,9 @@ namespace RomDatabase
                         {
                             var br = new BinaryReader(entry.Open());
                             byte[] data = new byte[(int)entry.Length];
-                            br.Read(data, 0, (int)entry.Length - 1); //Exception occurs if length is 0 or negative?
-                            game = Database.FindGame((int)entry.Length, Hasher.HashFile(data));
+                            br.Read(data, 0, (int)entry.Length); //Exception occurs if length is 0 or negative?
+                            var hashes = Hasher.HashFile(data);
+                            game = Database.FindGame((int)entry.Length, hashes);
                             if (game != null && game.id != null)
                             {
                                 identified = true;

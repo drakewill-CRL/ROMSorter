@@ -46,6 +46,8 @@
             this.button14 = new System.Windows.Forms.Button();
             this.lblTestStatus = new System.Windows.Forms.Label();
             this.button15 = new System.Windows.Forms.Button();
+            this.button16 = new System.Windows.Forms.Button();
+            this.button17 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // button1
@@ -217,11 +219,33 @@
             this.button15.UseVisualStyleBackColor = true;
             this.button15.Click += new System.EventHandler(this.button15_Click);
             // 
+            // button16
+            // 
+            this.button16.Location = new System.Drawing.Point(358, 205);
+            this.button16.Name = "button16";
+            this.button16.Size = new System.Drawing.Size(85, 41);
+            this.button16.TabIndex = 16;
+            this.button16.Text = "Hash and find single game";
+            this.button16.UseVisualStyleBackColor = true;
+            this.button16.Click += new System.EventHandler(this.button16_Click);
+            // 
+            // button17
+            // 
+            this.button17.Location = new System.Drawing.Point(420, 344);
+            this.button17.Name = "button17";
+            this.button17.Size = new System.Drawing.Size(85, 41);
+            this.button17.TabIndex = 17;
+            this.button17.Text = "Hash Test";
+            this.button17.UseVisualStyleBackColor = true;
+            this.button17.Click += new System.EventHandler(this.button17_Click);
+            // 
             // TestForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.button17);
+            this.Controls.Add(this.button16);
             this.Controls.Add(this.button15);
             this.Controls.Add(this.lblTestStatus);
             this.Controls.Add(this.button14);
@@ -265,5 +289,7 @@
         private System.Windows.Forms.Button button14;
         private System.Windows.Forms.Label lblTestStatus;
         private System.Windows.Forms.Button button15;
+        private System.Windows.Forms.Button button16;
+        private System.Windows.Forms.Button button17;
     }
 }

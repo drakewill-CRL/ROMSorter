@@ -219,5 +219,48 @@ namespace RomSorter
             }
 
         }
+
+        private void button16_Click(object sender, EventArgs e)
+        {
+            //hash and find single game.
+            ofdDats.FileName = "";
+            if (ofdDats.ShowDialog() == DialogResult.OK)
+            {
+                byte[] fileData = System.IO.File.ReadAllBytes(ofdDats.FileName);
+                var hashes = Hasher.HashFile(fileData);
+                var gameData = Database.FindGame(fileData.LongCount(), hashes);
+
+                if (gameData == null)
+                {
+                    gameData = new Data.Game();
+                    gameData.name = "Unknown";
+                }
+
+                MessageBox.Show("Game Hashes:" + Environment.NewLine + String.Join(Environment.NewLine, hashes)
+                    + Environment.NewLine + "Game Name:" + Environment.NewLine + gameData.name  );
+            }
+        }
+
+        private void button17_Click(object sender, EventArgs e)
+        {
+            ofdDats.FileName = "";
+            if (ofdDats.ShowDialog() == DialogResult.OK)
+            {
+                var files = System.IO.Directory.EnumerateFiles(System.IO.Path.GetDirectoryName(ofdDats.FileName));
+
+                var file1 = System.IO.File.ReadAllBytes(files.First());
+                var file2 = System.IO.File.ReadAllBytes(files.Skip(1).First());
+
+
+                //ZipArchive zf = new ZipArchive(new FileStream(file, FileMode.Open));
+
+                //var hashes = Hasher.HashFile(fileData);
+                //var gameData = Database.FindGame(fileData.LongCount(), hashes);
+
+                //MessageBox.Show("Game Hashes:" + Environment.NewLine + String.Join(Environment.NewLine, hashes)
+                //    + Environment.NewLine + "Game Name:" + Environment.NewLine + gameData.name);
+
+            }
+        }
     }
 }
