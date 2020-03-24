@@ -10,7 +10,8 @@ namespace RomDatabase
 {
     public class Database
     {
-        //TODO: Apply some math and logic to attempt to find 'headerless' NES ROMs. (If the file isn't divisble by 8192, skip the first 16 bytes, re-hash, re-search to see if there's a headerless entry in the DB) - NES ONLY.        
+        //TODO: reorganize code to make 'games' single-file entries, 'discs' multi-file entries inside folders. Can then update DATImporter to automatically save game info to the right spot.
+        //TODO: Apply some math and logic to attempt to find 'headerless' NES ROMs? (If the file isn't divisble by 8192, skip the first 16 bytes, re-hash, re-search to see if there's a headerless entry in the DB) - NES ONLY.        
         //TODO: enable 'zip files at destination' checkbox afer implementing code to zip instead of copy files.
         //TODO: make console table (done), change console field to INTEGER to reference it via join (may not be best SQLite behavior)
         //TODO: make a crawler to try and fill in data on games where i can search
@@ -35,44 +36,49 @@ namespace RomDatabase
         //--Maybe I should start by white-listing dats instead of blacklisting them?
         //TODO: find dat files for modern systems. TOSEC has approx. nothing on PSX
 
-            //TOSEC files were 12-24-2019 release.
-            //NO-INTRO files were  gathered on the date listed, should still be in the filename
+        //TOSEC files were 12-24-2019 release.
+        //NO-INTRO files were  gathered on the date listed, should still be in the filename
 
-            //Current systems documented:
-            //Nintendo:
-            //NES/Famicom (TOSEC and NOINTRO)
-            //FAmicom Disk System (TOSEC and NOINTRO)
-            //SNES (TOSEC and NOINTRO)
-            //Sufami Turbo (NOINTRO) - whatever this is.
-            //Satellaview (NOINTRO)
-            //N64 and DD (TOSEC and NOINTRO)
-            //GB (TOSEC and NOINTRO)
-            //GBC (TOSEC and NOINTRO)
-            //GBA (TOSEC and NOINTRO)
-            //VB (TOSEC and NOINTRO)
-            //Wii (NO-Intro 3/21, WAD format)
-            //DS (NOINTRO)
-            //DSi (NOINTRO, datfile structure is different from others. Description is subnode, name is mostly numbers)
-            //3DS (NOINTRO, Digital-CDN is Discs)
-            //NEW 3DS (NOINTRO)
-            
-            //Sega:
-            //Master System. (TOSEC and NoIntro)
-            //GameGear (TOSEC and NOINTRO)
-            //Genesis-megadrive (TOSEC, minus multipart, and NoIntro)
-            //32X (TOSEC and NOINTRO)
+        //Current systems documented:
+        //Nintendo:
+        //NES/Famicom (TOSEC and NOINTRO)
+        //FAmicom Disk System (TOSEC and NOINTRO)
+        //SNES (TOSEC and NOINTRO)
+        //Sufami Turbo (NOINTRO) - whatever this is.
+        //Satellaview (NOINTRO)
+        //N64 and DD (TOSEC and NOINTRO)
+        //GameCube (TOSEC, ISO files treated as Games not Discs)
+        //GB (TOSEC and NOINTRO)
+        //GBC (TOSEC and NOINTRO)
+        //GBA (TOSEC and NOINTRO)
+        //VB (TOSEC and NOINTRO)
+        //Wii (NO-Intro 3/21, WAD format)
+        //DS (NOINTRO)
+        //DSi (NOINTRO, datfile structure is different from others. Description is subnode, name is mostly numbers)
+        //3DS (NOINTRO, Digital-CDN is Discs)
+        //NEW 3DS (NOINTRO)
 
-            //SNK:
-            //NGP (TOSEC and NOIntro)
-            //NGPC (TOSEC and NOINTRO)
+        //Sega:
+        //Master System. (TOSEC and NoIntro)
+        //GameGear (TOSEC and NOINTRO)
+        //Genesis-megadrive (TOSEC, minus multipart, and NoIntro)
+        //32X (TOSEC and NOINTRO)
 
-            //Tiger:
-            //game.com (TOSEC and NOINTRO)
+        //SNK:
+        //NGP (TOSEC and NOIntro)
+        //NGPC (TOSEC and NOINTRO)
+
+        //Tiger:
+        //game.com (TOSEC and NOINTRO)
+
+        //Additional, self-made Dats currently in DB
+        //Tecmo Bowl hacks
+        //NES Homebrew
 
 
 
 
-
+        #region SQL Commands
         //All my command text is stored up here for referencing elsewhere.
 
         static string CreateGamesTable = "CREATE TABLE games(id INTEGER PRIMARY KEY, "
@@ -154,7 +160,9 @@ namespace RomDatabase
 
         //Note 1: INTEGER PRIMARY KEY is long instead of int. other INTEGERS might be too
         public static string conString = "Data Source=RomDB.sqlite;Synchronous=Off;Journal_Mode=MEMORY;"; //Pragman statements go in the connection string.
-        //string conString = "Data Source=:memory:"; //Also works, doesn't write to disk.
+                                                                                                          //string conString = "Data Source=:memory:"; //Also works, doesn't write to disk.
+
+        #endregion
 
         public static void ExecuteSQLiteNonQuery(string command)
         {

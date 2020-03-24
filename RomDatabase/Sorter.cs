@@ -39,7 +39,10 @@ namespace RomDatabase
         static void MoveFile(string folderpath, string localFilepath, string newFileName)
         {
             Directory.CreateDirectory(folderpath); //does nothing if folder already exists
-            File.Move(localFilepath, folderpath + "\\" + newFileName);
+            if (!File.Exists(folderpath + "\\" + newFileName))
+                File.Move(localFilepath, folderpath + "\\" + newFileName);
+            else
+                File.Delete(localFilepath);
         }
 
         //TODO: rework logic. Extract all files in zip to appropriate folders, including 'unidentified' per file, move original zip files to 'Originals' folder when done.
@@ -76,7 +79,8 @@ namespace RomDatabase
                                 if (extractZips)
                                 {
                                     Directory.CreateDirectory(topFolder + "\\" + game.console);
-                                    entry.ExtractToFile(topFolder + "\\" + game.console + "\\" + game.name, true);
+                                    if (!File.Exists(topFolder + "\\" + game.console + "\\" + game.name))
+                                        entry.ExtractToFile(topFolder + "\\" + game.console + "\\" + game.name, true); //errors if file exists.
                                 }
                                 else
                                 {
