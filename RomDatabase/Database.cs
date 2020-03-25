@@ -72,8 +72,12 @@ namespace RomDatabase
         //game.com (TOSEC and NOINTRO)
 
         //Additional, self-made Dats currently in DB
-        //Tecmo Bowl hacks
-        //NES Homebrew
+        //Tecmo Bowl hacks (several not previously documented)
+        //NES Homebrews (several not previously documented)
+        //NES Prototypes (newer discoveries, see HiddenPalace.org for newer dumps than these maintainers have done.
+        //SCUMMVM (in-process)
+        //Future Pinball (in process)
+        //Visual Pinball (in process)
 
 
 
