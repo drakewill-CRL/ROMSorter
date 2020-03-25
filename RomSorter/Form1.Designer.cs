@@ -36,13 +36,14 @@
             this.chkReadZip = new System.Windows.Forms.CheckBox();
             this.chkMultithread = new System.Windows.Forms.CheckBox();
             this.chkReZip = new System.Windows.Forms.CheckBox();
+            this.button3 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // button1
             // 
             this.button1.Location = new System.Drawing.Point(12, 12);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(89, 22);
+            this.button1.Size = new System.Drawing.Size(77, 22);
             this.button1.TabIndex = 0;
             this.button1.Text = "Pick Folder";
             this.button1.UseVisualStyleBackColor = true;
@@ -59,7 +60,7 @@
             // 
             this.button2.Location = new System.Drawing.Point(12, 66);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(107, 76);
+            this.button2.Size = new System.Drawing.Size(76, 76);
             this.button2.TabIndex = 1;
             this.button2.Text = "Sort!";
             this.button2.UseVisualStyleBackColor = true;
@@ -121,11 +122,22 @@
             this.chkReZip.Text = "Zip files at destination";
             this.chkReZip.UseVisualStyleBackColor = true;
             // 
+            // button3
+            // 
+            this.button3.Location = new System.Drawing.Point(107, 66);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(76, 76);
+            this.button3.TabIndex = 7;
+            this.button3.Text = "Report!";
+            this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(195, 356);
+            this.Controls.Add(this.button3);
             this.Controls.Add(this.chkReZip);
             this.Controls.Add(this.chkMultithread);
             this.Controls.Add(this.chkReadZip);
@@ -152,6 +164,7 @@
         private System.Windows.Forms.CheckBox chkReadZip;
         private System.Windows.Forms.CheckBox chkMultithread;
         private System.Windows.Forms.CheckBox chkReZip;
+        private System.Windows.Forms.Button button3;
     }
 }
 

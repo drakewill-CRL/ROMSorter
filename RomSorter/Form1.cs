@@ -60,5 +60,16 @@ namespace RomSorter
             sw.Stop();
             lblStatus.Text = "Games sorted in " + sw.Elapsed.ToString();
         }
+
+        private async void button3_Click(object sender, EventArgs e)
+        {
+            //Report
+            Progress<string> progress = new Progress<string>(s => lblStatus.Text = s);
+
+            //TODO: multithreading option split
+            await Task.Factory.StartNew(() => Reporter.Report(System.IO.Path.GetDirectoryName(openFileDialog1.FileName), progress));
+
+            lblStatus.Text = "Report Completed";
+        }
     }
 }

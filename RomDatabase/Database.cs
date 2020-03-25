@@ -157,6 +157,10 @@ namespace RomDatabase
         static string FindGameQuery = "SELECT * FROM games WHERE size = @size AND crc = @crc AND md5= @md5 AND sha1 = @sha1";
         static string GetAllGamesQuery = "SELECT * FROM GAMES";
 
+        static string GamesByConsoleQuery = "SELECT * FROM games WHERE console = @console";
+
+        static string GetConsolesQuery = "SELECT DISTINCT console FROM games";
+
         static string FindCollisionsCountCRC = "SELECT crc, COUNT(crc) FROM games GROUP BY crc ORDER BY 2 DESC";
         static string FindCollisionsDetails = "SELECT * FROM games GROUP BY crc ORDER BY 2";
 
@@ -496,6 +500,33 @@ namespace RomDatabase
                 var cmd = new SQLiteCommand(GetAllGamesQuery, connection);
                 var values = cmd.ExecuteReader();
                 List<Game> results = MapReaderToGame(values);
+                return results;
+            }
+        }
+
+        public static List<Game> GetGamesByConsole(string console)
+        {
+            using (var connection = new SQLiteConnection(conString))
+            {
+                connection.Open();
+                var cmd = new SQLiteCommand(GamesByConsoleQuery, connection);
+                cmd.Parameters.Add(new SQLiteParameter("@console", console));
+                var values = cmd.ExecuteReader();
+                List<Game> results = MapReaderToGame(values).OrderBy(g => g.name).ToList();
+                return results;
+            }
+        }
+
+        public static List<string> GetAllConsoles()
+        {
+            using (var connection = new SQLiteConnection(conString))
+            {
+                connection.Open();
+                var cmd = new SQLiteCommand(GetConsolesQuery, connection);
+                var values = cmd.ExecuteReader();
+                List<string> results = new List<string>();
+                while (values.Read())
+                    results.Add(values[0].ToString());
                 return results;
             }
         }
