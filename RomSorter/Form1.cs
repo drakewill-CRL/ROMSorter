@@ -64,12 +64,17 @@ namespace RomSorter
         private async void button3_Click(object sender, EventArgs e)
         {
             //Report
+            System.Diagnostics.Stopwatch sw = new System.Diagnostics.Stopwatch();
+            sw.Start();
             Progress<string> progress = new Progress<string>(s => lblStatus.Text = s);
 
             //TODO: multithreading option split
             await Task.Factory.StartNew(() => Reporter.Report(System.IO.Path.GetDirectoryName(openFileDialog1.FileName), progress));
 
-            lblStatus.Text = "Report Completed";
+            sw.Stop();
+            lblStatus.Text = "Report completed in " + sw.Elapsed.ToString();
+
+            System.Diagnostics.Process.Start("notepad.exe", System.IO.Path.GetDirectoryName(openFileDialog1.FileName) + "\\RomSorterReport.txt");
         }
     }
 }

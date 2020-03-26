@@ -16,10 +16,10 @@ namespace RomDatabase
             //We aren't moving files this time.
 
             StringBuilder sb = new StringBuilder();
-            sb.Append("RomSorter Identification Report");
-            sb.Append("Starting at " + DateTime.Now.ToString());
-            sb.Append(ScanFolder(folder, p));
-            sb.Append("Report completed at " + DateTime.Now.ToString());
+            sb.Append("RomSorter Identification Report" + Environment.NewLine);
+            sb.Append("Starting at " + DateTime.Now.ToString() + Environment.NewLine);
+            sb.Append(ScanFolder(folder, p) + Environment.NewLine);
+            sb.Append("Report completed at " + DateTime.Now.ToString() + Environment.NewLine);
 
             File.WriteAllText(folder + "\\RomSorterReport.txt", sb.ToString());
         }
@@ -44,10 +44,11 @@ namespace RomDatabase
             if (!consoles.Contains(shortFolder))
             {
                 //Not a sorted folder, don't scan
-                results.Append("Folder " + shortFolder + " is not a RomSorter sorting folder, not scanning.");
+                results.AppendLine("Folder " + shortFolder + " is not a RomSorter sorting folder, not scanning.");
                 return results.ToString() + Environment.NewLine;
             }
 
+            results.AppendLine("Scanning " + shortFolder);
             List<int> gameIDs = new List<int>();
 
             var filesToScan = Directory.EnumerateFiles(folder);
@@ -57,29 +58,34 @@ namespace RomDatabase
                 var game = Database.FindGame((int)fi.Length, Hasher.HashFile(File.ReadAllBytes(file)));
                 if (game != null)
                 {
-                    foundFiles.Append("Identified " + fi.Name + " as " + game.name + Environment.NewLine);
+                    foundFiles.AppendLine("Identified " + fi.Name + " as " + game.name);
                     gameIDs.Add(game.id);
                 }
                 else
                 {
-                    unknownFiles.Append("Couldn't identify " + file + Environment.NewLine);
+                    unknownFiles.AppendLine("Couldn't identify " + file);
                 }
             }
 
             //list all games by console. Mark which ones are missing.
+            missingGames.Append("Missing Games for " + shortFolder + ":" + Environment.NewLine);
             var lookupIDs = gameIDs.ToLookup(g => g, g => g);
             var consoleGames = Database.GetGamesByConsole(shortFolder);
             foreach(var game in consoleGames)
             {
-                if (lookupIDs[game.id] == null || lookupIDs[game.id].Count() == 0)
+                if (lookupIDs[game.id].Count() == 0)
                 {
                     //game is missing
-                    missingGames.Append(game.name + " not found in expected folder." + Environment.NewLine);
+                    missingGames.Append(game.name + Environment.NewLine);
                 }
                 else
                 {
+                    //game found, nothing to report.
                 }
             }
+
+            results.AppendLine("Found: " + gameIDs.Count());
+            results.AppendLine("Missing: " + (consoleGames.Count() - gameIDs.Count()));
 
             p.Report("Finished " + shortFolder);
             return results.ToString() + Environment.NewLine + foundFiles.ToString() + Environment.NewLine + unknownFiles.ToString() + Environment.NewLine + missingGames.ToString(); 

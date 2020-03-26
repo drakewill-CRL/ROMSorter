@@ -48,6 +48,8 @@
             this.button15 = new System.Windows.Forms.Button();
             this.button16 = new System.Windows.Forms.Button();
             this.button17 = new System.Windows.Forms.Button();
+            this.button18 = new System.Windows.Forms.Button();
+            this.button19 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // button1
@@ -122,7 +124,7 @@
             // 
             // button7
             // 
-            this.button7.Location = new System.Drawing.Point(676, 103);
+            this.button7.Location = new System.Drawing.Point(531, 344);
             this.button7.Name = "button7";
             this.button7.Size = new System.Drawing.Size(85, 41);
             this.button7.TabIndex = 6;
@@ -152,7 +154,7 @@
             // 
             // button10
             // 
-            this.button10.Location = new System.Drawing.Point(624, 246);
+            this.button10.Location = new System.Drawing.Point(627, 293);
             this.button10.Name = "button10";
             this.button10.Size = new System.Drawing.Size(121, 41);
             this.button10.TabIndex = 9;
@@ -172,7 +174,7 @@
             // 
             // button12
             // 
-            this.button12.Location = new System.Drawing.Point(676, 162);
+            this.button12.Location = new System.Drawing.Point(676, 228);
             this.button12.Name = "button12";
             this.button12.Size = new System.Drawing.Size(72, 50);
             this.button12.TabIndex = 11;
@@ -221,7 +223,7 @@
             // 
             // button16
             // 
-            this.button16.Location = new System.Drawing.Point(358, 205);
+            this.button16.Location = new System.Drawing.Point(420, 391);
             this.button16.Name = "button16";
             this.button16.Size = new System.Drawing.Size(85, 41);
             this.button16.TabIndex = 16;
@@ -239,11 +241,33 @@
             this.button17.UseVisualStyleBackColor = true;
             this.button17.Click += new System.EventHandler(this.button17_Click);
             // 
+            // button18
+            // 
+            this.button18.Location = new System.Drawing.Point(650, 99);
+            this.button18.Name = "button18";
+            this.button18.Size = new System.Drawing.Size(112, 50);
+            this.button18.TabIndex = 18;
+            this.button18.Text = "Make Multi-File Dat From Folder (rescursive)";
+            this.button18.UseVisualStyleBackColor = true;
+            this.button18.Click += new System.EventHandler(this.button18_Click);
+            // 
+            // button19
+            // 
+            this.button19.Location = new System.Drawing.Point(340, 205);
+            this.button19.Name = "button19";
+            this.button19.Size = new System.Drawing.Size(121, 41);
+            this.button19.TabIndex = 19;
+            this.button19.Text = "Test Dat-from-zip";
+            this.button19.UseVisualStyleBackColor = true;
+            this.button19.Click += new System.EventHandler(this.button19_Click);
+            // 
             // TestForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.button19);
+            this.Controls.Add(this.button18);
             this.Controls.Add(this.button17);
             this.Controls.Add(this.button16);
             this.Controls.Add(this.button15);
@@ -291,5 +315,7 @@
         private System.Windows.Forms.Button button15;
         private System.Windows.Forms.Button button16;
         private System.Windows.Forms.Button button17;
+        private System.Windows.Forms.Button button18;
+        private System.Windows.Forms.Button button19;
     }
 }

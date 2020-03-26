@@ -20,21 +20,19 @@ namespace RomDatabase
         //TODO: Track data sources contained in the database? For external reference and credit purposes.
         //TODO: Reference tables. Set up reference tables for genre, console, other columns with repeated data.
         //TODO Set up entities to see if that can save me some time in the future instead of writing boilerplate database code
-        //TODO: TOSEC dat files dont include homebrew files. Get some homebrew roms (done) and make dat files (todo)
         //TODO: use prepared statements and recycle SQLiteCOmmand objects, changing parameters where possible.
         //TODO: make the UI use native windows components to look a little more modern. Not totally sure how .NET does that.
-        //TODO: extract and process fan translation files for SCUMMVM separately instead of as a single zip file.
-        //TODO: figure out how to handle files over 2GB in size to finish IDing all the SCUMMVM files.
+        //TODO: figure out how to handle files over 2GB in size? This would be for ISOs for modern systems.
         //TODO enable scanning a folder for duplicate files. (For making dats, mostly, so i dont have to manually find dupes)
         //TODO: do c64 games need more than 1 file? might need to set them up more like Discs than Games in that case.
-        //TODO: sort out dat files so that multi-file games are properly stored as Discs instead of Games (see: IBM Compatibles, most CDROM systesm, others)
         //TODO: include checking for discs in the search. Currently only does Games.
-        //TODO: consider marking games found/unfound, making a report for what known files/games you have and dont have
         //TODO: make a way for a user to make a dat file for games they had unidentified for potential inclusion?
-        //TODO: fix Description column, its not loading right. Or should i just remove it?
         //TODO: Filter down database to only bother with games. I don't need applications for every single various home PC?
         //--Maybe I should start by white-listing dats instead of blacklisting them?
-        //TODO: find dat files for modern systems. TOSEC has approx. nothing on PSX
+        //TODO: find dat files for modern systems. TOSEC has approx. nothing on PSX (got Switch, need to parse and re-format)
+        //TODO: Reporter will also need to look into zip files if the checkbox is selected.
+        //NOT TODO: if I use description as filename all the time, I could consolidate this down to one table, but I'd have to add some processing logic to everything to figure out if i need a single file or multiples that way. Lets not do this
+        //TODO: do I need to make sure discs can support sub-folders for SCUMMVM? I suspect I do.
 
         //TOSEC files were 12-24-2019 release.
         //NO-INTRO files were  gathered on the date listed, should still be in the filename
@@ -72,14 +70,13 @@ namespace RomDatabase
         //game.com (TOSEC and NOINTRO)
 
         //Additional, self-made Dats currently in DB
-        //Tecmo Bowl hacks (several not previously documented)
-        //NES Homebrews (several not previously documented)
-        //NES Prototypes (newer discoveries, see HiddenPalace.org for newer dumps than these maintainers have done.
-        //SCUMMVM (in-process)
-        //Future Pinball (in process)
-        //Visual Pinball (in process)
-
-
+        //Tecmo Bowl hacks (several not previously documented, see if there's newer stuff somewhere)
+        //NES Homebrews (several not previously documented) Check itch.io for more.
+        //NES Prototypes (newer discoveries, see HiddenPalace.org for newer dumps than these maintainers have done. Check multiple pages (As table seems to have no NES entries after P, but By Console has lots more)
+        //--Also need to dig through their 'Unused Files' page to see what files might be uploaded and not linked to correctly.
+        //SCUMMVM 2.1 
+        //Future Pinball (in process) from Pleasuredome torrent
+        //Visual Pinball (in process) from pleasuredome torrent.
 
 
         #region SQL Commands
@@ -150,9 +147,9 @@ namespace RomDatabase
         static string CountGamesCmd = "SELECT COUNT(*) FROM games";
         static string CountGamesByConsoleCmd = "SELECT console, COUNT(console) FROM games GROUP BY console";
 
-        static string CountDiscsCmd = "SELECT DISTINCT COUNT(name) FROM discs";
-        static string CountDiscsByConsoleCmd = "SELECT console, COUNT(console) FROM discs GROUP BY console";
-        //Total game count is CountGamesCmd + CountDiscsCmd
+        static string CountDiscsCmd = "SELECT COUNT(DISTINCT name) FROM discs";
+        static string CountDiscsByConsoleCmd = "SELECT console, COUNT(DISTINCT name) FROM discs GROUP BY console";
+        //Total game count is CountGamesCmd + CountDiscsCmd, but SQLite doesn't do outer joins.
 
         static string FindGameQuery = "SELECT * FROM games WHERE size = @size AND crc = @crc AND md5= @md5 AND sha1 = @sha1";
         static string GetAllGamesQuery = "SELECT * FROM GAMES";
@@ -160,6 +157,8 @@ namespace RomDatabase
         static string GamesByConsoleQuery = "SELECT * FROM games WHERE console = @console";
 
         static string GetConsolesQuery = "SELECT DISTINCT console FROM games";
+        static string GetDiscConsolesQuery = "SELECT DISTINCT console FROM discs";
+
 
         static string FindCollisionsCountCRC = "SELECT crc, COUNT(crc) FROM games GROUP BY crc ORDER BY 2 DESC";
         static string FindCollisionsDetails = "SELECT * FROM games GROUP BY crc ORDER BY 2";
@@ -443,6 +442,25 @@ namespace RomDatabase
             
                 while (results.Read())
                     results1.Add(new Tuple<string, int>(results[0].ToString(), Int32.Parse(results[1].ToString())));
+
+                //adding discs table.
+
+                cmd = new SQLiteCommand(CountDiscsByConsoleCmd, connection);
+                results = cmd.ExecuteReader();
+                while (results.Read())
+                {
+                    if (results1.Any(r => r.Item1 == results[0].ToString()))
+                    {
+                        var existingEntry = results1.Where(r => r.Item1 == results[0].ToString()).FirstOrDefault();
+                        int newTotal =  existingEntry.Item2 + Int32.Parse(results1[1].ToString());
+
+                        results1.Remove(existingEntry);
+                        results1.Add(new Tuple<string, int>(results[0].ToString(), newTotal));
+                    }
+                    else
+                        results1.Add(new Tuple<string, int>(results[0].ToString(), Int32.Parse(results[1].ToString())));
+                }
+
             }
             return results1;
             

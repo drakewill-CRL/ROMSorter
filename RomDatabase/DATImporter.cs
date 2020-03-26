@@ -11,6 +11,9 @@ namespace RomDatabase
 {
     public static class DATImporter
     {
+        //Note: in most clrmamepro format dat files, name and description are identical.
+        //In my database, description is the filename, and name is the game name itself (for multi-file games)
+
         static ReaderWriterLock filelock = new ReaderWriterLock();
         static int totalCount = 0;
         //Read .dat file(s), parse and port into the database I'm using
@@ -46,7 +49,7 @@ namespace RomDatabase
 
         public static void ParseDatFileFast(string file)
         {
-            string consoleName = System.IO.Path.GetFileName(file).Split('-')[0].Trim(); //filenames are "Console - Subset[optionalsubtype](TOSEC date).dat
+            string consoleName = System.IO.Path.GetFileNameWithoutExtension(file).Split('-')[0].Trim(); //filenames are "Console - Subset[optionalsubtype](TOSEC date).dat
             //these are XML.
             //for each node, insert a game entry.
             var dat = new System.Xml.XmlDocument();
@@ -75,7 +78,7 @@ namespace RomDatabase
         public static void ParseDatFileHighIntegrity(string file, IProgress<string> progress = null)
         {
             //This version inserts games individually, and checks for exisiting entries with the same hashes. The odds of 3 hashes and filesize being the same on non-identical files is approx. 0.
-            string consoleName = System.IO.Path.GetFileName(file).Split('-')[0].Trim(); //filenames are "Console - Subset[optionalsubtype](TOSEC date).dat
+            string consoleName = System.IO.Path.GetFileNameWithoutExtension(file).Split('-')[0].Trim(); //filenames are "Console - Subset[optionalsubtype](TOSEC date).dat
             //these are XML.
             //for each node, insert a game entry.
             var dat = new System.Xml.XmlDocument();
@@ -134,7 +137,7 @@ namespace RomDatabase
         {
             //should be similar to main dat file, but will have multiple files to pair up to one disc. 
             //Use name for sorting all files for one game, use description to identify each separate file.
-            string consoleName = System.IO.Path.GetFileName(file).Split('-')[0].Trim(); //filenames are "Console - Subset[optionalsubtype](TOSEC date).dat
+            string consoleName = System.IO.Path.GetFileNameWithoutExtension(file).Split('-')[0].Trim(); //filenames are "Console - Subset[optionalsubtype](TOSEC date).dat
             //these are XML.
             //for each node, insert a game entry.
             var dat = new System.Xml.XmlDocument();
@@ -145,19 +148,17 @@ namespace RomDatabase
             //has actual hash values, game is probably the parent that matters for MAME only.
             foreach (XmlElement entry in entries)
             {
-                var allFiles = entry.SelectNodes("/rom");
+                var allFiles = entry.SelectNodes("rom");
                 foreach (XmlElement romFile in allFiles)
                 {
                     var tempGame = new Game();
                     string name = entry.GetAttribute("name");
-                    int tempInt = 0; //NOTE: some DSi games have just digits for a filename. This fixes those.
+                    int tempInt = 0; //NOTE: some DSi games have just digits for a filename. This makes those human-readable.
                     if (Int32.TryParse(name, out tempInt))
                         tempGame.name = romFile.GetElementsByTagName("name")[0].InnerText + ".nds"; //TODO: ensure this only applies to NDS games, doesn't trigger for games like 1943.nes
                     else
                         tempGame.name = name;
-                    string desc = entry.GetAttribute("description");
-                    if (desc == null || desc == "")
-                        desc = System.IO.Path.GetFileNameWithoutExtension(name); //entry.ParentNode.SelectNodes("/description").Item(0).InnerText;
+                    string desc = romFile.GetAttribute("name");
                     tempGame.description = desc;
                     tempGame.console = consoleName;
                     tempGame.crc = romFile.GetAttribute("crc").ToLower();
@@ -167,7 +168,7 @@ namespace RomDatabase
                     batchInserts.Add(tempGame);
                 }
             }
-            Database.InsertGamesBatch(batchInserts);
+            Database.InsertDiscsBatch(batchInserts);
         }
 
         public static void Read1G1RFile(string file)
@@ -197,7 +198,7 @@ namespace RomDatabase
 
         public static void ReadPinballDatFile(string file)
         {
-            var fileParts = System.IO.Path.GetFileName(file).Split(' ');
+            var fileParts = System.IO.Path.GetFileNameWithoutExtension(file).Split(' ');
             string console = fileParts[0] + " " + fileParts[1];
             int missingEntries = 0;
             var dat = new System.Xml.XmlDocument();
@@ -223,5 +224,11 @@ namespace RomDatabase
         
             Database.InsertGamesBatch(batchInserts);
          }
+
+        public static void ParseSwitchDatFile(string file)
+        {
+            //TODO: implement this.
+            //these have some different text format that isn't XML, but should have similar data entries. I just have to dig through it manually
+        }
     }
 }
