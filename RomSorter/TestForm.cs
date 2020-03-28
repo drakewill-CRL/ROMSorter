@@ -286,5 +286,26 @@ namespace RomSorter
                 Task.Factory.StartNew(() => DATImporter.ParseDiscDatFile(ofdDats.FileName, p));
             }
         }
+
+        private void button21_Click(object sender, EventArgs e)
+        {
+            //fix filenames - Replace first "-" with "|"
+            if (ofdDats.ShowDialog() == DialogResult.OK)
+            {
+                var folder = System.IO.Path.GetDirectoryName(ofdDats.FileName);
+                var files = System.IO.Directory.EnumerateFiles(System.IO.Path.GetDirectoryName(ofdDats.FileName));
+                foreach (var file in files)
+                {
+                    var fileName = System.IO.Path.GetFileName(file);
+                    var firstHyphen = fileName.IndexOf('-');
+                    if (firstHyphen > 0)
+                    {
+                        var newFileName = fileName.Substring(0, firstHyphen - 1) + "=" + fileName.Substring(firstHyphen + 1);
+                        System.IO.File.Move(file, folder + "\\" + newFileName);
+                    }
+                }
+            }
+
+        }
     }
 }

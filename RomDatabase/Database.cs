@@ -10,7 +10,12 @@ namespace RomDatabase
 {
     public class Database
     {
-        //TODO: use | instead of - to separate filenames in vetted files. Lets me use hyphens in system names this way.
+        //TODO: remove 'read zip' option, always do that. 
+        //TODO: add option to 'zip files after identifying' instead of simply moving them. May need extra logic for multi-file games
+        //TODO: set up app to create DB and loads dat from an internet location if DB is missing. (Maybe 1 URL for current file and date, 1 URL for actual file. This would let me update apps remotely)
+        //TODO: find more z-machine games and document those. There's gotta be way more than the TOSEC set.
+        //--https://www.ifarchive.org/indexes/if-archive/games/zcode/ is a start for Z-machine compatible games, there's lots more with other parsers/setups
+        //TODO: ensure that unidentified files aren't treated destructively (EX: if someone scans C:\, dont; nuke C:\Windows because its not roms.
         //TODO: remember window position on close, restore on start.
         //TODO: reorganize code to make 'games' single-file entries, 'discs' multi-file entries inside folders. Can then update DATImporter to automatically save game info to the right spot.
         //TODO: Apply some math and logic to attempt to find 'headerless' NES ROMs? (If the file isn't divisble by 8192, skip the first 16 bytes, re-hash, re-search to see if there's a headerless entry in the DB) - NES ONLY.        
@@ -84,11 +89,15 @@ namespace RomDatabase
         //Tecmo Bowl hacks (several not previously documented, see if there's newer stuff somewhere)
         //NES Homebrews (several not previously documented) Check itch.io for more.
         //NES Prototypes (newer discoveries, see HiddenPalace.org for newer dumps than these maintainers have done. Check multiple pages (As table seems to have no NES entries after P, but By Console has lots more)
+        //SMS Prototypes (brand new one!)
         //--Also need to dig through their 'Unused Files' page to see what files might be uploaded and not linked to correctly.
         //SCUMMVM 2.1 
         //Future Pinball (in process) from Pleasuredome torrent. Needs to be sorted into single-file and multi-file tables. Not just distribution packs
         //Visual Pinball (in process) from pleasuredome torrent.
-        //TODO: z-machine compatible IF games
+        //IFArchives ZCode game collection (in process)
+
+        //Starting to feel like my goal is going to be to document all the games, even the forgotten ones and fan-made stuff that might be neglected to archive or collect.
+        //Which is important if you arent just being a major pirate.
 
 
         #region SQL Commands

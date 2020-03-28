@@ -49,7 +49,7 @@ namespace RomDatabase
 
         public static void ParseDatFileFast(string file)
         {
-            string consoleName = System.IO.Path.GetFileNameWithoutExtension(file).Split('-')[0].Trim(); //filenames are "Console - Subset[optionalsubtype](TOSEC date).dat
+            string consoleName = System.IO.Path.GetFileNameWithoutExtension(file).Split('=')[0].Trim(); //filenames are "Console = Subset[optionalsubtype](TOSEC date).dat
             //these are XML.
             //for each node, insert a game entry.
             var dat = new System.Xml.XmlDocument();
@@ -78,7 +78,7 @@ namespace RomDatabase
         public static void ParseDatFileHighIntegrity(string file, IProgress<string> progress = null)
         {
             //This version inserts games individually, and checks for exisiting entries with the same hashes. The odds of 3 hashes and filesize being the same on non-identical files is approx. 0.
-            string consoleName = System.IO.Path.GetFileNameWithoutExtension(file).Split('-')[0].Trim(); //filenames are "Console - Subset[optionalsubtype](TOSEC date).dat
+            string consoleName = System.IO.Path.GetFileNameWithoutExtension(file).Split('=')[0].Trim(); //filenames are "Console - Subset[optionalsubtype](TOSEC date).dat
             //these are XML.
             //for each node, insert a game entry.
             var dat = new System.Xml.XmlDocument();
@@ -137,7 +137,7 @@ namespace RomDatabase
         {
             //should be similar to main dat file, but will have multiple files to pair up to one disc. 
             //Use name for sorting all files for one game, use description to identify each separate file.
-            string consoleName = System.IO.Path.GetFileNameWithoutExtension(file).Split('-')[0].Trim(); //filenames are "Console - Subset[optionalsubtype](TOSEC date).dat
+            string consoleName = System.IO.Path.GetFileNameWithoutExtension(file).Split('=')[0].Trim(); //filenames are "Console - Subset[optionalsubtype](TOSEC date).dat
             //these are XML.
             //for each node, insert a game entry.
             var dat = new System.Xml.XmlDocument();
