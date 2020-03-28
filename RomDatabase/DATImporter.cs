@@ -129,11 +129,11 @@ namespace RomDatabase
             System.Threading.Tasks.Parallel.ForEach(files, (file) =>
             //foreach (var file in files)
             {
-                ParseDiscDatFile(file);
+                ParseDiscDatFile(file, null);
             });
         }
 
-        public static void ParseDiscDatFile(string file)
+        public static void ParseDiscDatFile(string file, IProgress<string> p)
         {
             //should be similar to main dat file, but will have multiple files to pair up to one disc. 
             //Use name for sorting all files for one game, use description to identify each separate file.
@@ -148,6 +148,8 @@ namespace RomDatabase
             //has actual hash values, game is probably the parent that matters for MAME only.
             foreach (XmlElement entry in entries)
             {
+                if (p != null)
+                    p.Report(entry.GetAttribute("name"));
                 var allFiles = entry.SelectNodes("rom");
                 foreach (XmlElement romFile in allFiles)
                 {

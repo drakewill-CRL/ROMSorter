@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
+using System.IO.Compression;
 using System.Linq;
 using System.Security.Cryptography;
 using System.Text;
@@ -51,6 +53,18 @@ namespace RomDatabase
             results[2] = HashToString(crc.ComputeHash(fileData));
 
             return results;
+        }
+
+        public static string[] HashZipEntry(ZipArchiveEntry entry)
+        {
+            var br = new BinaryReader(entry.Open());
+            byte[] data = new byte[(int)entry.Length];
+            br.Read(data, 0, (int)entry.Length);
+            var hashes = Hasher.HashFile(data);
+            data = null;
+            br.Close();
+            br.Dispose();
+            return hashes;
         }
     }
 }

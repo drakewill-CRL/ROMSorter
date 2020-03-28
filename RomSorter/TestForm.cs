@@ -217,7 +217,6 @@ namespace RomSorter
                 Progress<string> p = new Progress<string>(s => lblTestStatus.Text = s);
                 Task.Factory.StartNew(() =>DATImporter.ParseDatFileHighIntegrity(ofdDats.FileName, p));
             }
-
         }
 
         private void button16_Click(object sender, EventArgs e)
@@ -275,6 +274,17 @@ namespace RomSorter
         {
             if (ofdDats.ShowDialog() == DialogResult.OK)
                 MessageBox.Show(DatCreator.GetGameAndRomEntryMultifileFromZip(ofdDats.FileName));
+        }
+
+        private void button20_Click(object sender, EventArgs e)
+        {
+            //load Single disc dat
+            ofdDats.FileName = "";
+            if (ofdDats.ShowDialog() == DialogResult.OK)
+            {
+                Progress<string> p = new Progress<string>(s => lblTestStatus.Text = s);
+                Task.Factory.StartNew(() => DATImporter.ParseDiscDatFile(ofdDats.FileName, p));
+            }
         }
     }
 }

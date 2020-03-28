@@ -10,10 +10,11 @@ namespace RomDatabase
 {
     public class Database
     {
+        //TODO: use | instead of - to separate filenames in vetted files. Lets me use hyphens in system names this way.
+        //TODO: remember window position on close, restore on start.
         //TODO: reorganize code to make 'games' single-file entries, 'discs' multi-file entries inside folders. Can then update DATImporter to automatically save game info to the right spot.
         //TODO: Apply some math and logic to attempt to find 'headerless' NES ROMs? (If the file isn't divisble by 8192, skip the first 16 bytes, re-hash, re-search to see if there's a headerless entry in the DB) - NES ONLY.        
         //TODO: enable 'zip files at destination' checkbox afer implementing code to zip instead of copy files.
-        //TODO: make console table (done), change console field to INTEGER to reference it via join (may not be best SQLite behavior)
         //TODO: make a crawler to try and fill in data on games where i can search
         //TODO: Write an autoguess routine to attempt to fill in some extra data columns. Might need a separate database for manually edited entries and apply those changes after guessing. Ex: set genre to 'edutainment' if name has 'learning' in it, racing for racing, sports for ball, etc.
         //TODO: Keep the UI simple. List big counts and big buttons for easy stuff. Maybe a couple drop downs for how to sort games. Checkboxes for toggles.
@@ -32,7 +33,7 @@ namespace RomDatabase
         //TODO: find dat files for modern systems. TOSEC has approx. nothing on PSX (got Switch, need to parse and re-format)
         //TODO: Reporter will also need to look into zip files if the checkbox is selected.
         //NOT TODO: if I use description as filename all the time, I could consolidate this down to one table, but I'd have to add some processing logic to everything to figure out if i need a single file or multiples that way. Lets not do this
-        //TODO: do I need to make sure discs can support sub-folders for SCUMMVM? I suspect I do.
+        //TODO: make checkbox to determine if files should be zipped or moved to destination.
 
         //TOSEC files were 12-24-2019 release.
         //NO-INTRO files were  gathered on the date listed, should still be in the filename
@@ -55,19 +56,29 @@ namespace RomDatabase
         //DSi (NOINTRO, datfile structure is different from others. Description is subnode, name is mostly numbers)
         //3DS (NOINTRO, Digital-CDN is Discs)
         //NEW 3DS (NOINTRO)
+        //E-Reader (NOINTRO?)
 
         //Sega:
+        //SG1000 (NOINTRO)
         //Master System. (TOSEC and NoIntro)
         //GameGear (TOSEC and NOINTRO)
         //Genesis-megadrive (TOSEC, minus multipart, and NoIntro)
         //32X (TOSEC and NOINTRO)
+        //Sega CD (TOSEC) - there isnt a NOINTRO dat
+        //Sega 32XCD (TOSEC)
+        //Saturn (TOSEC)
+        //Dreamcast (TOSEC), isnt a NOINTRO dat
 
         //SNK:
         //NGP (TOSEC and NOIntro)
         //NGPC (TOSEC and NOINTRO)
 
-        //Tiger:
-        //game.com (TOSEC and NOINTRO)
+        //Nokia N-GAGE (NOINTRO)
+        //Tiger game.com (TOSEC and NOINTRO)
+        //Infocom ZMachine (TOSEC) - Looks like commercial releases only
+        //Capcom CPS3 cds (TOSEC)
+        //Tandy TRS80 (TOSEC)
+
 
         //Additional, self-made Dats currently in DB
         //Tecmo Bowl hacks (several not previously documented, see if there's newer stuff somewhere)
@@ -75,8 +86,9 @@ namespace RomDatabase
         //NES Prototypes (newer discoveries, see HiddenPalace.org for newer dumps than these maintainers have done. Check multiple pages (As table seems to have no NES entries after P, but By Console has lots more)
         //--Also need to dig through their 'Unused Files' page to see what files might be uploaded and not linked to correctly.
         //SCUMMVM 2.1 
-        //Future Pinball (in process) from Pleasuredome torrent
+        //Future Pinball (in process) from Pleasuredome torrent. Needs to be sorted into single-file and multi-file tables. Not just distribution packs
         //Visual Pinball (in process) from pleasuredome torrent.
+        //TODO: z-machine compatible IF games
 
 
         #region SQL Commands
@@ -96,8 +108,7 @@ namespace RomDatabase
             + "developer TEXT, "
             + "publisher TEXT, "
             + "Is1G1R INT,"
-            + "region TEXT"  //,
-            //+ "CONSTRAINT hashes_unique UNIQUE(crc, md5, sha1)"
+            + "region TEXT" 
             + ")";
 
         //Currently identical in structure, name and description are used differently.
@@ -452,7 +463,7 @@ namespace RomDatabase
                     if (results1.Any(r => r.Item1 == results[0].ToString()))
                     {
                         var existingEntry = results1.Where(r => r.Item1 == results[0].ToString()).FirstOrDefault();
-                        int newTotal =  existingEntry.Item2 + Int32.Parse(results1[1].ToString());
+                        int newTotal =  existingEntry.Item2 + Int32.Parse(results[1].ToString());
 
                         results1.Remove(existingEntry);
                         results1.Add(new Tuple<string, int>(results[0].ToString(), newTotal));

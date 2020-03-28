@@ -50,6 +50,7 @@
             this.button17 = new System.Windows.Forms.Button();
             this.button18 = new System.Windows.Forms.Button();
             this.button19 = new System.Windows.Forms.Button();
+            this.button20 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // button1
@@ -124,7 +125,7 @@
             // 
             // button7
             // 
-            this.button7.Location = new System.Drawing.Point(531, 344);
+            this.button7.Location = new System.Drawing.Point(658, 391);
             this.button7.Name = "button7";
             this.button7.Size = new System.Drawing.Size(85, 41);
             this.button7.TabIndex = 6;
@@ -213,7 +214,7 @@
             // 
             // button15
             // 
-            this.button15.Location = new System.Drawing.Point(57, 145);
+            this.button15.Location = new System.Drawing.Point(42, 133);
             this.button15.Name = "button15";
             this.button15.Size = new System.Drawing.Size(125, 37);
             this.button15.TabIndex = 15;
@@ -223,7 +224,7 @@
             // 
             // button16
             // 
-            this.button16.Location = new System.Drawing.Point(420, 391);
+            this.button16.Location = new System.Drawing.Point(567, 391);
             this.button16.Name = "button16";
             this.button16.Size = new System.Drawing.Size(85, 41);
             this.button16.TabIndex = 16;
@@ -233,7 +234,7 @@
             // 
             // button17
             // 
-            this.button17.Location = new System.Drawing.Point(420, 344);
+            this.button17.Location = new System.Drawing.Point(567, 344);
             this.button17.Name = "button17";
             this.button17.Size = new System.Drawing.Size(85, 41);
             this.button17.TabIndex = 17;
@@ -253,7 +254,7 @@
             // 
             // button19
             // 
-            this.button19.Location = new System.Drawing.Point(340, 205);
+            this.button19.Location = new System.Drawing.Point(428, 391);
             this.button19.Name = "button19";
             this.button19.Size = new System.Drawing.Size(121, 41);
             this.button19.TabIndex = 19;
@@ -261,11 +262,22 @@
             this.button19.UseVisualStyleBackColor = true;
             this.button19.Click += new System.EventHandler(this.button19_Click);
             // 
+            // button20
+            // 
+            this.button20.Location = new System.Drawing.Point(182, 211);
+            this.button20.Name = "button20";
+            this.button20.Size = new System.Drawing.Size(137, 29);
+            this.button20.TabIndex = 20;
+            this.button20.Text = "Load Single Disc Dat";
+            this.button20.UseVisualStyleBackColor = true;
+            this.button20.Click += new System.EventHandler(this.button20_Click);
+            // 
             // TestForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.button20);
             this.Controls.Add(this.button19);
             this.Controls.Add(this.button18);
             this.Controls.Add(this.button17);
@@ -317,5 +329,6 @@
         private System.Windows.Forms.Button button17;
         private System.Windows.Forms.Button button18;
         private System.Windows.Forms.Button button19;
+        private System.Windows.Forms.Button button20;
     }
 }
