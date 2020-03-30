@@ -307,5 +307,16 @@ namespace RomSorter
             }
 
         }
+
+        private async void button22_Click(object sender, EventArgs e)
+        {
+            //disc dats high integrity
+            Progress<string> progress = new Progress<string>(s => lblTestStatus.Text = s);
+            if (ofdDats.ShowDialog() == DialogResult.OK)
+            {
+                await Task.Factory.StartNew(() => RomDatabase.DATImporter.LoadAllDiscDatFilesIntegrity(System.IO.Path.GetDirectoryName(ofdDats.FileName), progress));
+                MessageBox.Show("Import Completed.");
+            }
+        }
     }
 }

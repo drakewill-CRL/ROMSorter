@@ -32,6 +32,21 @@ namespace RomDatabase
             });
         }
 
+        public static void LoadAllDiscDatFilesIntegrity(string directory, IProgress<string> progress = null)
+        {
+            var subfolders = System.IO.Directory.EnumerateDirectories(directory);
+            foreach (var sf in subfolders)
+                LoadAllDiscDatFilesIntegrity(sf);
+
+            //Read all dat files in the given folder, parse them, insert records.
+            var files = System.IO.Directory.EnumerateFiles(directory, "*.dat");
+            System.Threading.Tasks.Parallel.ForEach(files, (file) =>
+            //foreach (var file in files)
+            {
+                ParseDiscDatFileHighIntegrity(file, progress);
+            });
+        }
+
         public static void LoadAllDatFilesIntegrity(string directory, IProgress<string> progress = null)
         {
             var subfolders = System.IO.Directory.EnumerateDirectories(directory);
@@ -69,7 +84,7 @@ namespace RomDatabase
                 tempGame.crc = entry.GetAttribute("crc").ToLower();
                 tempGame.sha1 = entry.GetAttribute("sha1").ToLower();
                 tempGame.md5 = entry.GetAttribute("md5").ToLower();
-                tempGame.size = Int32.Parse(entry.GetAttribute("size"));
+                tempGame.size = Int64.Parse(entry.GetAttribute("size"));
                 batchInserts.Add(tempGame);
             }
             Database.InsertGamesBatch(batchInserts);
@@ -166,11 +181,73 @@ namespace RomDatabase
                     tempGame.crc = romFile.GetAttribute("crc").ToLower();
                     tempGame.sha1 = romFile.GetAttribute("sha1").ToLower();
                     tempGame.md5 = romFile.GetAttribute("md5").ToLower();
-                    tempGame.size = Int32.Parse(romFile.GetAttribute("size"));
+                    tempGame.size = Int64.Parse(romFile.GetAttribute("size"));
                     batchInserts.Add(tempGame);
                 }
             }
             Database.InsertDiscsBatch(batchInserts);
+        }
+
+        public static void ParseDiscDatFileHighIntegrity(string file, IProgress<string> p)
+        {
+            //should be similar to main dat file, but will have multiple files to pair up to one disc. 
+            //Use name for sorting all files for one game, use description to identify each separate file.
+            string consoleName = System.IO.Path.GetFileNameWithoutExtension(file).Split('=')[0].Trim(); //filenames are "Console - Subset[optionalsubtype](TOSEC date).dat
+            //these are XML.
+            //for each node, insert a game entry.
+            var dat = new System.Xml.XmlDocument();
+            dat.Load(file);
+            //find nodes per the spec.
+            List<Game> batchInserts = new List<Game>();
+            var entries = dat.GetElementsByTagName("game"); //has unique games to find. ROM has each file.
+            //has actual hash values, game is probably the parent that matters for MAME only.
+            foreach (XmlElement entry in entries)
+            {
+                if (p != null)
+                    p.Report(entry.GetAttribute("name"));
+                var allFiles = entry.SelectNodes("rom");
+                int foundFileCount = 0;
+                foreach (XmlElement romFile in allFiles)
+                {
+                    foundFileCount = 0;
+                    var tempGame = new Game();
+                    string name = entry.GetAttribute("name");
+                    int tempInt = 0; //NOTE: some DSi games have just digits for a filename. This makes those human-readable.
+                    if (Int32.TryParse(name, out tempInt))
+                        try
+                        {
+                            tempGame.name = romFile.GetElementsByTagName("name")[0].InnerText + ".nds"; //TODO: ensure this only applies to NDS games, doesn't trigger for games like 1943.nes
+                        }
+                        catch (Exception ex)
+                        {
+                            tempGame.name = name;
+                        }
+                    else
+                        tempGame.name = name;
+                    string desc = romFile.GetAttribute("name");
+                    tempGame.description = desc;
+                    tempGame.console = consoleName;
+                    tempGame.crc = romFile.GetAttribute("crc").ToLower();
+                    tempGame.sha1 = romFile.GetAttribute("sha1").ToLower();
+                    tempGame.md5 = romFile.GetAttribute("md5").ToLower();
+                    tempGame.size = Int64.Parse(romFile.GetAttribute("size"));
+
+                    var existingEntry = Database.FindDisc(tempGame.size, new string[] { tempGame.md5, tempGame.sha1, tempGame.crc });
+                    if (existingEntry != null)
+                        foundFileCount++;
+                    batchInserts.Add(tempGame);
+                }
+                //This logic doesn't seem to be correct.
+                //if (foundFileCount == allFiles.Count)
+                //{
+                //    filelock.AcquireWriterLock(Int32.MaxValue);
+                //    System.IO.File.AppendAllLines("insertLog.txt", new List<string>() { "Game '" + entry.GetAttribute("name") + "' has no unique files." });
+                //    filelock.ReleaseWriterLock();
+                //}
+                //else
+                    Database.InsertDiscsBatch(batchInserts);
+                batchInserts.Clear();
+            }
         }
 
         public static void Read1G1RFile(string file)
@@ -218,14 +295,14 @@ namespace RomDatabase
                     tempGame.crc = entry.GetAttribute("crc").ToLower();
                     tempGame.sha1 = entry.GetAttribute("sha1").ToLower();
                     //tempGame.md5 = entry.GetAttribute("md5").ToLower(); //pinball dats dont have MD5 entries. They're also sort-of like discs in that sometimes they have multiple files, but some of them are optional.
-                    tempGame.size = Int32.Parse(entry.GetAttribute("size"));
+                    tempGame.size = Int64.Parse(entry.GetAttribute("size"));
 
                     batchInserts.Add(tempGame);
                 }
             }
-        
+
             Database.InsertGamesBatch(batchInserts);
-         }
+        }
 
         public static void ParseSwitchDatFile(string file)
         {

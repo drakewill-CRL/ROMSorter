@@ -10,17 +10,12 @@ namespace RomDatabase
 {
     public class Database
     {
-        //TODO: remove 'read zip' option, always do that. 
         //TODO: add option to 'zip files after identifying' instead of simply moving them. May need extra logic for multi-file games
         //TODO: set up app to create DB and loads dat from an internet location if DB is missing. (Maybe 1 URL for current file and date, 1 URL for actual file. This would let me update apps remotely)
-        //TODO: find more z-machine games and document those. There's gotta be way more than the TOSEC set.
-        //--https://www.ifarchive.org/indexes/if-archive/games/zcode/ is a start for Z-machine compatible games, there's lots more with other parsers/setups
-        //TODO: ensure that unidentified files aren't treated destructively (EX: if someone scans C:\, dont; nuke C:\Windows because its not roms.
         //TODO: remember window position on close, restore on start.
-        //TODO: reorganize code to make 'games' single-file entries, 'discs' multi-file entries inside folders. Can then update DATImporter to automatically save game info to the right spot.
+        //TODO: reorganize code to make 'games' single-file entries, 'discs' multi-file entries inside folders (done). Can then update DATImporter to automatically save game info to the right spot.(todo)
         //TODO: Apply some math and logic to attempt to find 'headerless' NES ROMs? (If the file isn't divisble by 8192, skip the first 16 bytes, re-hash, re-search to see if there's a headerless entry in the DB) - NES ONLY.        
-        //TODO: enable 'zip files at destination' checkbox afer implementing code to zip instead of copy files.
-        //TODO: make a crawler to try and fill in data on games where i can search
+        //TODO: make a crawler to try and fill in data on games where i can search (Ifarchive points a lot of stuff at ifdb.tads.org buts its slow, might not have an api)
         //TODO: Write an autoguess routine to attempt to fill in some extra data columns. Might need a separate database for manually edited entries and apply those changes after guessing. Ex: set genre to 'edutainment' if name has 'learning' in it, racing for racing, sports for ball, etc.
         //TODO: Keep the UI simple. List big counts and big buttons for easy stuff. Maybe a couple drop downs for how to sort games. Checkboxes for toggles.
         //TODO: Track data sources contained in the database? For external reference and credit purposes.
@@ -30,18 +25,19 @@ namespace RomDatabase
         //TODO: make the UI use native windows components to look a little more modern. Not totally sure how .NET does that.
         //TODO: figure out how to handle files over 2GB in size? This would be for ISOs for modern systems.
         //TODO enable scanning a folder for duplicate files. (For making dats, mostly, so i dont have to manually find dupes)
-        //TODO: do c64 games need more than 1 file? might need to set them up more like Discs than Games in that case.
-        //TODO: include checking for discs in the search. Currently only does Games.
         //TODO: make a way for a user to make a dat file for games they had unidentified for potential inclusion?
-        //TODO: Filter down database to only bother with games. I don't need applications for every single various home PC?
-        //--Maybe I should start by white-listing dats instead of blacklisting them?
         //TODO: find dat files for modern systems. TOSEC has approx. nothing on PSX (got Switch, need to parse and re-format)
         //TODO: Reporter will also need to look into zip files if the checkbox is selected.
+        //TODO: reporter needs to support discs as well as games. Only scanning by folder name for consoles available in the discs table might help?
         //NOT TODO: if I use description as filename all the time, I could consolidate this down to one table, but I'd have to add some processing logic to everything to figure out if i need a single file or multiples that way. Lets not do this
-        //TODO: make checkbox to determine if files should be zipped or moved to destination.
+        //TODO: make checkbox to determine if files should be zipped or moved to destination. (to implement)
+        //TODO: add .rar support (for reading)
+        //TODO: add .7z support (for reading)?
+        //TODOL: add high-integrity disc dat reading. If an entry is already found in 1 game, check to see if all of its entries match on size/hashes.
 
         //TOSEC files were 12-24-2019 release.
         //NO-INTRO files were  gathered on the date listed, should still be in the filename
+        //Redump.org files for cd-based systems (end of march 2020ish)
 
         //Current systems documented:
         //Nintendo:
@@ -74,6 +70,9 @@ namespace RomDatabase
         //Saturn (TOSEC)
         //Dreamcast (TOSEC), isnt a NOINTRO dat
 
+        //Microsoft:
+        //XBOX 360 (digital) Nointro Unofficial
+
         //SNK:
         //NGP (TOSEC and NOIntro)
         //NGPC (TOSEC and NOINTRO)
@@ -84,17 +83,26 @@ namespace RomDatabase
         //Capcom CPS3 cds (TOSEC)
         //Tandy TRS80 (TOSEC)
 
+        //stuff to track down
+        //non-NES homebrew on NESWorld.com
+
+            //TO-add:
+            //Pen and Teller Smoke and Mirrors for SEga CD as prototype
+            //NOne of my Sega CD games are good?
 
         //Additional, self-made Dats currently in DB
         //Tecmo Bowl hacks (several not previously documented, see if there's newer stuff somewhere)
         //NES Homebrews (several not previously documented) Check itch.io for more.
         //NES Prototypes (newer discoveries, see HiddenPalace.org for newer dumps than these maintainers have done. Check multiple pages (As table seems to have no NES entries after P, but By Console has lots more)
         //SMS Prototypes (brand new one!)
+        //Hidden Palace Prototypes - I have a bunch already from 2008, mostly Sega, should check if they're documented already.
         //--Also need to dig through their 'Unused Files' page to see what files might be uploaded and not linked to correctly.
         //SCUMMVM 2.1 
         //Future Pinball (in process) from Pleasuredome torrent. Needs to be sorted into single-file and multi-file tables. Not just distribution packs
         //Visual Pinball (in process) from pleasuredome torrent.
-        //IFArchives ZCode game collection (in process)
+        //IFArchives ZCode game collection (in process) - maybe label these as IFArchive instead of Infocom Z-Machine? No, just label them by system/interpreter. Z-Machine is ok. Note where in the list of dat files.
+        //IFArchives IF competition games (in process) - More than just ZCode, how to label? (1995 and 1996 need a crawler, the rest are in zips) -2014 is where this went from sorting entries by parser to just a Games folder.
+        //--got some of these moved to the IFArchive folder. THere's a few more INFORM folders and competitions to scan,but I got all the 'zcode' entries that didnt have a separate update
 
         //Starting to feel like my goal is going to be to document all the games, even the forgotten ones and fan-made stuff that might be neglected to archive or collect.
         //Which is important if you arent just being a major pirate.
@@ -117,7 +125,7 @@ namespace RomDatabase
             + "developer TEXT, "
             + "publisher TEXT, "
             + "Is1G1R INT,"
-            + "region TEXT" 
+            + "region TEXT"
             + ")";
 
         //Currently identical in structure, name and description are used differently.
@@ -172,7 +180,10 @@ namespace RomDatabase
         //Total game count is CountGamesCmd + CountDiscsCmd, but SQLite doesn't do outer joins.
 
         static string FindGameQuery = "SELECT * FROM games WHERE size = @size AND crc = @crc AND md5= @md5 AND sha1 = @sha1";
-        static string GetAllGamesQuery = "SELECT * FROM GAMES";
+        static string GetAllGamesQuery = "SELECT * FROM GAMES ORDER BY console, name";
+
+        static string FindDiskFileQuery = "SELECT * FROM discs WHERE size = @size AND crc = @crc AND md5= @md5 AND sha1 = @sha1";
+        static string GetAllDiskFilesQuery = "SELECT * FROM discs ORDER BY console, name, description";
 
         static string GamesByConsoleQuery = "SELECT * FROM games WHERE console = @console";
 
@@ -268,12 +279,12 @@ namespace RomDatabase
             //Create up the baseline tables.
             ExecuteSQLiteNonQuery(DropGameTable);
             ExecuteSQLiteNonQuery(CreateGamesTable);
-            
+
             ExecuteSQLiteNonQuery(DropDiscTable);
             ExecuteSQLiteNonQuery(CreateDiscsTable);
 
             //MakeIndexes(); //Doing this now, since after this i will be searching.
-            
+
             //add lookup tables for genre and/or other columns?
         }
 
@@ -366,23 +377,23 @@ namespace RomDatabase
         public static void MakeIndexes()
         {
             var connection = new SQLiteConnection(conString);
-                connection.Open();
-                using (var transaction = connection.BeginTransaction())
-                {
+            connection.Open();
+            using (var transaction = connection.BeginTransaction())
+            {
                 //add indexes for games.
                 var cmd = new SQLiteCommand(connection);
                 cmd.CommandText = CreateIndexName;
                 cmd.ExecuteNonQuery();
                 cmd.CommandText = CreateIndexConsole;
                 cmd.ExecuteNonQuery();
-                cmd.CommandText = CreateIndex1G1R;
-                cmd.ExecuteNonQuery();
-                cmd.CommandText = CreateIndexGenre;
-                cmd.ExecuteNonQuery();
-                cmd.CommandText = CreateIndexReleaseDate;
-                cmd.ExecuteNonQuery();
-                cmd.CommandText = CreateIndexYear;
-                cmd.ExecuteNonQuery();
+                //cmd.CommandText = CreateIndex1G1R;
+                //cmd.ExecuteNonQuery();
+                //cmd.CommandText = CreateIndexGenre;
+                //cmd.ExecuteNonQuery();
+                //cmd.CommandText = CreateIndexReleaseDate;
+                //cmd.ExecuteNonQuery();
+                //cmd.CommandText = CreateIndexYear;
+                //cmd.ExecuteNonQuery();
                 cmd.CommandText = CreateIndexIdentity;
                 cmd.ExecuteNonQuery();
 
@@ -391,14 +402,14 @@ namespace RomDatabase
                 cmd.ExecuteNonQuery();
                 cmd.CommandText = CreateIndexConsoleD;
                 cmd.ExecuteNonQuery();
-                cmd.CommandText = CreateIndex1G1RD;
-                cmd.ExecuteNonQuery();
-                cmd.CommandText = CreateIndexGenreD;
-                cmd.ExecuteNonQuery();
-                cmd.CommandText = CreateIndexReleaseDateD;
-                cmd.ExecuteNonQuery();
-                cmd.CommandText = CreateIndexYearD;
-                cmd.ExecuteNonQuery();
+                //cmd.CommandText = CreateIndex1G1RD;
+                //cmd.ExecuteNonQuery();
+                //cmd.CommandText = CreateIndexGenreD;
+                //cmd.ExecuteNonQuery();
+                //cmd.CommandText = CreateIndexReleaseDateD;
+                //cmd.ExecuteNonQuery();
+                //cmd.CommandText = CreateIndexYearD;
+                //cmd.ExecuteNonQuery();
                 cmd.CommandText = CreateIndexIdentityD;
                 cmd.ExecuteNonQuery();
 
@@ -446,12 +457,12 @@ namespace RomDatabase
             int results = Int32.Parse(ExecuteSQLiteScalarQuery(CountGamesCmd).ToString());
             results += Int32.Parse(ExecuteSQLiteScalarQuery(CountDiscsCmd).ToString());
             if (progress != null)
-                progress.Report(results +  " games detectable");
+                progress.Report(results + " games detectable");
             return results;
         }
 
         public static List<Tuple<string, int>> CountGamesByConsole()
-            {
+        {
             List<Tuple<string, int>> results1 = new List<Tuple<string, int>>();
             //var results = ExecuteSQLiteQuery(CountGamesByConsoleCmd);
             using (var connection = new SQLiteConnection(conString))
@@ -459,7 +470,7 @@ namespace RomDatabase
                 connection.Open();
                 SQLiteCommand cmd = new SQLiteCommand(CountGamesByConsoleCmd, connection);
                 var results = cmd.ExecuteReader();
-            
+
                 while (results.Read())
                     results1.Add(new Tuple<string, int>(results[0].ToString(), Int32.Parse(results[1].ToString())));
 
@@ -472,7 +483,7 @@ namespace RomDatabase
                     if (results1.Any(r => r.Item1 == results[0].ToString()))
                     {
                         var existingEntry = results1.Where(r => r.Item1 == results[0].ToString()).FirstOrDefault();
-                        int newTotal =  existingEntry.Item2 + Int32.Parse(results[1].ToString());
+                        int newTotal = existingEntry.Item2 + Int32.Parse(results[1].ToString());
 
                         results1.Remove(existingEntry);
                         results1.Add(new Tuple<string, int>(results[0].ToString(), newTotal));
@@ -483,14 +494,14 @@ namespace RomDatabase
 
             }
             return results1;
-            
+
         }
 
         public static Game FindGame(long size, string[] hashes)
         {
             return FindGame(size, hashes[2], hashes[0], hashes[1]);
         }
-        
+
 
         public static Game FindGame(long size, string crc, string md5, string sha1)
         {
@@ -508,6 +519,31 @@ namespace RomDatabase
             var results = cmd.ExecuteReader();
             if (results != null)
                 g = MapReaderToGame(results).FirstOrDefault();
+            return g;
+        }
+
+        public static List<Game> FindDisc(long size, string[] hashes)
+        {
+            return FindDisc(size, hashes[2], hashes[0], hashes[1]);
+        }
+
+
+        public static List<Game> FindDisc(long size, string crc, string md5, string sha1)
+        {
+            List<Game> g = new List<Game>();
+
+            var connection = new SQLiteConnection(conString);
+            connection.Open();
+            var cmd = new SQLiteCommand(connection);
+            cmd.CommandText = FindDiskFileQuery;
+            cmd.Parameters.Add(new SQLiteParameter("@size", size));
+            cmd.Parameters.Add(new SQLiteParameter("@crc", crc));
+            cmd.Parameters.Add(new SQLiteParameter("@md5", md5));
+            cmd.Parameters.Add(new SQLiteParameter("@sha1", sha1));
+
+            var results = cmd.ExecuteReader();
+            if (results != null)
+                g = MapReaderToGame(results).ToList();
             return g;
         }
 
@@ -554,6 +590,19 @@ namespace RomDatabase
                 return results;
             }
         }
+
+        public static ILookup<string, Game> GetAllDiscs()
+        {
+            using (var connection = new SQLiteConnection(conString))
+            {
+                connection.Open();
+                var cmd = new SQLiteCommand(GetAllDiskFilesQuery, connection);
+                var values = cmd.ExecuteReader();
+                ILookup<string, Game> results = MapReaderToGame(values).ToLookup(k => k.name, v => v);
+                return results;
+            }
+        }
+
 
         public static List<string> GetAllConsoles()
         {

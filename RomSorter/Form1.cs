@@ -40,7 +40,11 @@ namespace RomSorter
         private void button1_Click(object sender, EventArgs e)
         {
             //pick folder.
-            openFileDialog1.ShowDialog();
+            if (openFileDialog1.ShowDialog() == DialogResult.OK)
+            {
+                btnSort.Enabled = true;
+                btnReport.Enabled = true;
+            }
         }
 
         private async void button2_Click(object sender, EventArgs e)
@@ -52,10 +56,9 @@ namespace RomSorter
             Progress<string> progress = new Progress<string>(s => lblStatus.Text = s);
 
             if (chkMultithread.Checked)
-                await Task.Factory.StartNew(() =>Sorter.SortAllGamesMultithread(System.IO.Path.GetDirectoryName(openFileDialog1.FileName), System.IO.Path.GetDirectoryName(openFileDialog1.FileName), chkReadZip.Checked, chkUnzip.Checked, progress));
+                await Task.Factory.StartNew(() =>Sorter.SortAllGamesMultithread(System.IO.Path.GetDirectoryName(openFileDialog1.FileName), System.IO.Path.GetDirectoryName(openFileDialog1.FileName), progress));
             else
-                await Task.Factory.StartNew(() => Sorter.SortAllGamesSinglethread(System.IO.Path.GetDirectoryName(openFileDialog1.FileName), System.IO.Path.GetDirectoryName(openFileDialog1.FileName), chkReadZip.Checked, chkUnzip.Checked, progress));
-
+                await Task.Factory.StartNew(() => Sorter.SortAllGamesSinglethread(System.IO.Path.GetDirectoryName(openFileDialog1.FileName), System.IO.Path.GetDirectoryName(openFileDialog1.FileName), progress));
 
             sw.Stop();
             lblStatus.Text = "Games sorted in " + sw.Elapsed.ToString();
@@ -69,7 +72,7 @@ namespace RomSorter
             Progress<string> progress = new Progress<string>(s => lblStatus.Text = s);
 
             //TODO: multithreading option split
-            await Task.Factory.StartNew(() => Reporter.Report(System.IO.Path.GetDirectoryName(openFileDialog1.FileName), progress));
+            await Task.Factory.StartNew(() => Reporter.Report(System.IO.Path.GetDirectoryName(openFileDialog1.FileName), progress, chkMultithread.Checked));
 
             sw.Stop();
             lblStatus.Text = "Report completed in " + sw.Elapsed.ToString();

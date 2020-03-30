@@ -9,7 +9,7 @@ namespace RomDatabase
 {
     public class Reporter
     {
-        public static void Report(string folder, IProgress<string> p)
+        public static void Report(string folder, IProgress<string> p, bool multithread)
         {
             //We're digging through a folder, marking which files are found.
             //Then listing off which entries we don't have for the consoles found.
@@ -18,13 +18,13 @@ namespace RomDatabase
             StringBuilder sb = new StringBuilder();
             sb.Append("RomSorter Identification Report" + Environment.NewLine);
             sb.Append("Starting at " + DateTime.Now.ToString() + Environment.NewLine);
-            sb.Append(ScanFolder(folder, p) + Environment.NewLine);
+            sb.Append(ScanFolder(folder, p, multithread) + Environment.NewLine);
             sb.Append("Report completed at " + DateTime.Now.ToString() + Environment.NewLine);
 
             File.WriteAllText(folder + "\\RomSorterReport.txt", sb.ToString());
         }
 
-        public static string ScanFolder(string folder, IProgress<string> p)
+        public static string ScanFolder(string folder, IProgress<string> p, bool multithread)
         {
             StringBuilder results = new StringBuilder();
             StringBuilder foundFiles = new StringBuilder();
@@ -35,8 +35,13 @@ namespace RomDatabase
             var shortFolder = pathFolders.Last();
 
             var subfolders = Directory.EnumerateDirectories(folder);
-            foreach (var sf in subfolders)
-                results.Append(ScanFolder(sf, p));
+            if (multithread)
+            {
+                Parallel.ForEach(subfolders, (sf) => { results.Append(ScanFolder(sf, p, multithread)); });
+            }
+            else
+                foreach (var sf in subfolders)
+                    results.Append(ScanFolder(sf, p, multithread));
 
             p.Report("Scanning " + shortFolder);
 
@@ -56,7 +61,7 @@ namespace RomDatabase
             {
                 var fi = new FileInfo(file);
                 var game = Database.FindGame((int)fi.Length, Hasher.HashFile(File.ReadAllBytes(file)));
-                if (game != null)
+                if (game != null && game.id != null)
                 {
                     foundFiles.AppendLine("Identified " + fi.Name + " as " + game.name);
                     gameIDs.Add(game.id);

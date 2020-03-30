@@ -53,7 +53,6 @@ namespace RomDatabase
         static string GetEntries(string folder)
         {
             StringBuilder sb = new StringBuilder();
-            //Something here isn't thread-safe, throws an error semi-randomly
             System.Threading.Tasks.Parallel.ForEach(System.IO.Directory.EnumerateFiles(folder), (file) =>
             //foreach(var file in System.IO.Directory.EnumerateFiles(folder))
             {
@@ -95,11 +94,6 @@ namespace RomDatabase
 
         static string GetGameAndRomEntrySingleFile(string filename, byte[] file)
         {
-            //for single file entries, they look like this:
-            //  <game name="Air Supremecy (19xx)(Acornsoft - Superior Software)">
-            //<description>Air Supremecy (19xx)(Acornsoft - Superior Software)</description>
-            //<rom name="Air Supremecy (19xx)(Acornsoft - Superior Software).adf" size="819200" crc="b338ef90" md5="81dc3447265f2ebd42fb0e7bb1faa714" sha1="cb89723c1f651827aa36ff80465980840e8deb8a"/>
-            //</game>
             var hashes = Hasher.HashFile(file);
             StringBuilder results = new StringBuilder();
             results.AppendLine("<game name=\"" + System.IO.Path.GetFileNameWithoutExtension(filename).Replace("&", "&amp;") + "\">");
@@ -112,7 +106,7 @@ namespace RomDatabase
 
         public static void DumpDBToDat()
         {
-            //will need a couple parts, 1 per table
+            //This should be good to go from now on.
             string header = @"<?xml version=""1.0"" encoding=""UTF-8""?>" + Environment.NewLine + "<datafile>";  //the only important part for personal use.
             StringBuilder sb = new StringBuilder();
             sb.AppendLine(header);
@@ -127,20 +121,26 @@ namespace RomDatabase
                 sb.AppendLine("</game>");
             }
 
+            var discs = Database.GetAllDiscs();
+            foreach (var entry in discs)
+            {
+                sb.AppendLine("<game name=\"" + entry.Key.Replace("&", "&amp;") + "\">");
+                sb.AppendLine("<description>" + entry.Key.Replace("&", "&amp;") + "</description>");
+                sb.AppendLine("<console>" + entry.First().console.Replace("&", "&amp;") + "</console>");
+                var files = entry.ToList();
+                foreach (var file in files)
+                {
+                    sb.AppendLine("<rom name=\"" + file.description.Replace("&", "&amp;") + "\" size=\"" + file.size + "\" crc=\"" + file.crc + "\" md5=\"" + file.md5 + "\" sha1=\"" + file.sha1 + "\"/>");
+                }               
+                sb.AppendLine("</game>");
+            }
+
             System.IO.File.WriteAllText("RomSorterDB.dat", sb.ToString());
         }
 
         public static string GetGameAndRomEntryMultifileFromZip(string filename)
         {
-            //for multi file entries, they look like this:
-            //  <game name="Actual game name">
-            //<description>Actual game name</description>
-            //<rom name="gameFile1.adf" size="819200" crc="b338ef90" md5="81dc3447265f2ebd42fb0e7bb1faa714" sha1="cb89723c1f651827aa36ff80465980840e8deb8a"/>
-            //<rom name="gameFile2.abc" size="1" crc="b338ef90" md5="81dc3447265f2ebd42fb0e7bb1faa714" sha1="cb89723c1f651827aa36ff80465980840e8deb8a"/>
-            //</game>
-
             //For zip files
-            //var hashes = Hasher.HashFile(file);
             StringBuilder results = new StringBuilder();
             results.AppendLine("<game name=\"" + System.IO.Path.GetFileNameWithoutExtension(filename).Replace("&", "&amp;") + "\">");
             results.AppendLine("<description>" + System.IO.Path.GetFileNameWithoutExtension(filename).Replace("&", "&amp;") + "</description>");
@@ -166,15 +166,7 @@ namespace RomDatabase
 
         public static string GetGameAndRomEntryMultifileFromFolder(string folderName)
         {
-            //for multi file entries, they look like this:
-            //  <game name="Actual game name">
-            //<description>Actual game name</description>
-            //<rom name="gameFile1.adf" size="819200" crc="b338ef90" md5="81dc3447265f2ebd42fb0e7bb1faa714" sha1="cb89723c1f651827aa36ff80465980840e8deb8a"/>
-            //<rom name="gameFile2.abc" size="1" crc="b338ef90" md5="81dc3447265f2ebd42fb0e7bb1faa714" sha1="cb89723c1f651827aa36ff80465980840e8deb8a"/>
-            //</game>
-
             //For zip files
-            //var hashes = Hasher.HashFile(file);
             StringBuilder results = new StringBuilder();
             results.AppendLine("<game name=\"" + System.IO.Path.GetDirectoryName(folderName).Replace("&", "&amp;") + "\">");
             results.AppendLine("<description>" + System.IO.Path.GetDirectoryName(folderName).Replace("&", "&amp;") + "</description>");

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Acorn Archimedes - CD - Compilations</name>
+		<description>Acorn Archimedes - CD - Compilations (TOSEC-v2012-07-06)</description>
+		<category>TOSEC-ISO</category>
+		<version>2012-07-06</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="RISC DISC, The - Volume One (1994)(Uniqueway)">
+		<description>RISC DISC, The - Volume One (1994)(Uniqueway)</description>
+		<rom name="RISC DISC, The - Volume One (1994)(Uniqueway).cue" size="134" crc="2fbf3272" md5="4f0940bc5e802fb29a84369d0d9e23cd" sha1="73be1b06dab9dd70d9e53f937a3184ae822dfade"/>
+		<rom name="RISC DISC, The - Volume One (1994)(Uniqueway).iso" size="534489088" crc="5861438a" md5="6d8c1d352db51f4c4c0903a89c4a9b35" sha1="0d823e451dcadc1e55263bb537f2ed622c3db70b"/>
+	</game>
+	<game name="RISC DISC, The - Volume Three (1996)(Uniqueway)">
+		<description>RISC DISC, The - Volume Three (1996)(Uniqueway)</description>
+		<rom name="RISC DISC, The - Volume Three (1996)(Uniqueway).cue" size="136" crc="2fb42331" md5="77ad513a5bb2dfb8e1b3a79e258e032e" sha1="e1fc9402c99d8944de10edcb5fd6f38318950c62"/>
+		<rom name="RISC DISC, The - Volume Three (1996)(Uniqueway).iso" size="649183232" crc="bef0dc5e" md5="4fa8ff73621beb09ef709f50f317f036" sha1="39dc6f55dc25e43f18216db2025cefdee998a07f"/>
+	</game>
+	<game name="RISC DISC, The - Volume Two (1995)(Uniqueway)">
+		<description>RISC DISC, The - Volume Two (1995)(Uniqueway)</description>
+		<rom name="RISC DISC, The - Volume Two (1995)(Uniqueway).cue" size="134" crc="9dcd95c3" md5="7419d0b4d7ba2cbd8495eeba7861ec3e" sha1="48cfc3ccf683ef6ffac7faa6f81aa7ca82178f00"/>
+		<rom name="RISC DISC, The - Volume Two (1995)(Uniqueway).iso" size="637728768" crc="bb55cafd" md5="288945224b025454d600ab7468c7ad01" sha1="fdc3f70a4d13cec27236af87e8a96333d9a041ea"/>
+	</game>
+</datafile>
