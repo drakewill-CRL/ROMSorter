@@ -8,10 +8,6 @@ namespace RomSorter.Data
 {
     public class Game
     {
-        //this is the top level entry for a game. Based on TOSEC dat files, this would just be a name, and checksums
-        //I will need a lot more data for the app I want to do. There's some other (optional) fields in the .dtd file
-        //but I dont know if those are filled in for anything beyond MAME roms.
-
         public int id; //unique, not part of a .dat file.
         public string name;
         public string description; //identical to name in TOSEC?
@@ -22,15 +18,18 @@ namespace RomSorter.Data
 
         //non-standard entries for console games in these dat files.
         public string console; //not contained in dat files because they;re console specific.
-        public string genre; //int and FK to a set list?
-        public int year; //generic year for sorting purposes
-        public string releaseDate; // YYYY-MM-DD where available.
-        public string region; //J, U, E, combos, others
+        public string datFile; //the datfile the entry was loaded from, useful for pruning my specific ones for dupes.
+        //public string genre; //int and FK to a set list?
+        //public int year; //generic year for sorting purposes
+        //public string releaseDate; // YYYY-MM-DD where available.
+        //public string region; //J, U, E, combos, others
         
-        public string developer;
-        public string publisher; //in case i care about this separately from developer
-        public int Is1G1R; //this entry shows up in a "1 Game 1 Rom" list, for getting rid of bad dumps, dupes, variants, regionals, etc. 0=false, 1=true
+        //public string developer;
+        //public string publisher; //in case i care about this separately from developer
+        //public int Is1G1R; //this entry shows up in a "1 Game 1 Rom" list, for getting rid of bad dumps, dupes, variants, regionals, etc. 0=false, 1=true
         //NOTE: the above probably means I should have a way to link a game to others as a relative/variant/parent-child/etc?
+
+
 
 
 

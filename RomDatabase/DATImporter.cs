@@ -54,21 +54,22 @@ namespace RomDatabase
                 LoadAllDatFilesIntegrity(sf);
 
             //Read all dat files in the given folder, parse them, insert records.
-            var files = System.IO.Directory.EnumerateFiles(directory, "*.dat");
-            System.Threading.Tasks.Parallel.ForEach(files, (file) =>
-            //foreach (var file in files)
+            var files = System.IO.Directory.EnumerateFiles(directory, "*.dat").OrderBy(s => s);
+            //System.Threading.Tasks.Parallel.ForEach(files, (file) => //Parallel means files might get loaded out of order.
+            foreach (var file in files)
             {
                 ParseDatFileHighIntegrity(file, progress);
-            });
+            }//);
         }
 
         public static void ParseDatFileFast(string file)
         {
             string consoleName = System.IO.Path.GetFileNameWithoutExtension(file).Split('=')[0].Trim(); //filenames are "Console = Subset[optionalsubtype](TOSEC date).dat
-            //these are XML.
-            //for each node, insert a game entry.
+            string datFile = System.IO.Path.GetFileName(file);
+
             var dat = new System.Xml.XmlDocument();
             dat.Load(file);
+            
             //find nodes per the spec.
             List<Game> batchInserts = new List<Game>();
             var entries = dat.GetElementsByTagName("rom"); //has actual hash values, game is probably the parent that matters for MAME only.
@@ -85,6 +86,7 @@ namespace RomDatabase
                 tempGame.sha1 = entry.GetAttribute("sha1").ToLower();
                 tempGame.md5 = entry.GetAttribute("md5").ToLower();
                 tempGame.size = Int64.Parse(entry.GetAttribute("size"));
+                tempGame.datFile = datFile;
                 batchInserts.Add(tempGame);
             }
             Database.InsertGamesBatch(batchInserts);
@@ -94,6 +96,7 @@ namespace RomDatabase
         {
             //This version inserts games individually, and checks for exisiting entries with the same hashes. The odds of 3 hashes and filesize being the same on non-identical files is approx. 0.
             string consoleName = System.IO.Path.GetFileNameWithoutExtension(file).Split('=')[0].Trim(); //filenames are "Console - Subset[optionalsubtype](TOSEC date).dat
+            string datFile = System.IO.Path.GetFileName(file);
             //these are XML.
             //for each node, insert a game entry.
             var dat = new System.Xml.XmlDocument();
@@ -118,12 +121,13 @@ namespace RomDatabase
                 tempGame.sha1 = entry.GetAttribute("sha1").ToLower();
                 tempGame.md5 = entry.GetAttribute("md5").ToLower();
                 tempGame.size = Int64.Parse(entry.GetAttribute("size")); //3DS games and DVDs can go over 4GB
+                tempGame.datFile = datFile;
                 var isDupe = Database.FindGame(tempGame.size, new string[3] { tempGame.md5, tempGame.sha1, tempGame.crc });
                 if (isDupe != null && isDupe.id != null)
                 {
                     //write log on duplicate entry.
                     filelock.AcquireWriterLock(Int32.MaxValue);
-                    System.IO.File.AppendAllLines("insertLog.txt", new List<string>() { "Game '" + tempGame.name + "' already matches existing entry '" + isDupe.name + "'" });
+                    System.IO.File.AppendAllLines("insertLog.txt", new List<string>() { "Game '" + tempGame.name + "' in " + datFile  + " already matches existing entry '" + isDupe.name + "' from " + isDupe.datFile });
                     filelock.ReleaseWriterLock();
                 }
                 else
@@ -153,6 +157,7 @@ namespace RomDatabase
             //should be similar to main dat file, but will have multiple files to pair up to one disc. 
             //Use name for sorting all files for one game, use description to identify each separate file.
             string consoleName = System.IO.Path.GetFileNameWithoutExtension(file).Split('=')[0].Trim(); //filenames are "Console - Subset[optionalsubtype](TOSEC date).dat
+            string datFile = System.IO.Path.GetFileName(file);
             //these are XML.
             //for each node, insert a game entry.
             var dat = new System.Xml.XmlDocument();
@@ -182,6 +187,7 @@ namespace RomDatabase
                     tempGame.sha1 = romFile.GetAttribute("sha1").ToLower();
                     tempGame.md5 = romFile.GetAttribute("md5").ToLower();
                     tempGame.size = Int64.Parse(romFile.GetAttribute("size"));
+                    tempGame.datFile = datFile;
                     batchInserts.Add(tempGame);
                 }
             }
@@ -193,6 +199,7 @@ namespace RomDatabase
             //should be similar to main dat file, but will have multiple files to pair up to one disc. 
             //Use name for sorting all files for one game, use description to identify each separate file.
             string consoleName = System.IO.Path.GetFileNameWithoutExtension(file).Split('=')[0].Trim(); //filenames are "Console - Subset[optionalsubtype](TOSEC date).dat
+            string datFile = System.IO.Path.GetFileName(file);
             //these are XML.
             //for each node, insert a game entry.
             var dat = new System.Xml.XmlDocument();
@@ -231,6 +238,7 @@ namespace RomDatabase
                     tempGame.sha1 = romFile.GetAttribute("sha1").ToLower();
                     tempGame.md5 = romFile.GetAttribute("md5").ToLower();
                     tempGame.size = Int64.Parse(romFile.GetAttribute("size"));
+                    tempGame.datFile = datFile;
 
                     var existingEntry = Database.FindDisc(tempGame.size, new string[] { tempGame.md5, tempGame.sha1, tempGame.crc });
                     if (existingEntry != null)
@@ -277,6 +285,7 @@ namespace RomDatabase
 
         public static void ReadPinballDatFile(string file)
         {
+            string datFile = System.IO.Path.GetFileName(file);
             var fileParts = System.IO.Path.GetFileNameWithoutExtension(file).Split(' ');
             string console = fileParts[0] + " " + fileParts[1];
             int missingEntries = 0;
@@ -296,7 +305,7 @@ namespace RomDatabase
                     tempGame.sha1 = entry.GetAttribute("sha1").ToLower();
                     //tempGame.md5 = entry.GetAttribute("md5").ToLower(); //pinball dats dont have MD5 entries. They're also sort-of like discs in that sometimes they have multiple files, but some of them are optional.
                     tempGame.size = Int64.Parse(entry.GetAttribute("size"));
-
+                    tempGame.datFile = datFile;
                     batchInserts.Add(tempGame);
                 }
             }

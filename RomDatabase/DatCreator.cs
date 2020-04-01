@@ -89,7 +89,7 @@ namespace RomDatabase
             {
                 sb.AppendLine(GetEntries(dir));
             }
-            return sb.ToString();
+            return sb.ToString(); //make sure there's something here to return. If everything is empty this is blank and throws an error.
         }
 
         static string GetGameAndRomEntrySingleFile(string filename, byte[] file)

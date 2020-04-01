@@ -18,7 +18,6 @@ namespace RomDatabase
         //TODO: make a crawler to try and fill in data on games where i can search (Ifarchive points a lot of stuff at ifdb.tads.org buts its slow, might not have an api)
         //TODO: Write an autoguess routine to attempt to fill in some extra data columns. Might need a separate database for manually edited entries and apply those changes after guessing. Ex: set genre to 'edutainment' if name has 'learning' in it, racing for racing, sports for ball, etc.
         //TODO: Keep the UI simple. List big counts and big buttons for easy stuff. Maybe a couple drop downs for how to sort games. Checkboxes for toggles.
-        //TODO: Track data sources contained in the database? For external reference and credit purposes.
         //TODO: Reference tables. Set up reference tables for genre, console, other columns with repeated data.
         //TODO Set up entities to see if that can save me some time in the future instead of writing boilerplate database code
         //TODO: use prepared statements and recycle SQLiteCOmmand objects, changing parameters where possible.
@@ -34,6 +33,9 @@ namespace RomDatabase
         //TODO: add .rar support (for reading)
         //TODO: add .7z support (for reading)?
         //TODOL: add high-integrity disc dat reading. If an entry is already found in 1 game, check to see if all of its entries match on size/hashes.
+        //TODO: load high-integrity files in alphabetical order. Order files so shorter-name entries (NO-INTRO) get loaded first before overloaded names (TOSEC)
+        //TODO: make dat cleaner, to remove entries that are already tracked in an earlier file
+        //TODO: submit NES Homebrew data to BizHawk file in Assets/gamedb. Current file is empty. Possibly also TOSEC for their Demo file.
 
         //TOSEC files were 12-24-2019 release.
         //NO-INTRO files were  gathered on the date listed, should still be in the filename
@@ -86,9 +88,10 @@ namespace RomDatabase
         //stuff to track down
         //non-NES homebrew on NESWorld.com
 
-            //TO-add:
-            //Pen and Teller Smoke and Mirrors for SEga CD as prototype
-            //NOne of my Sega CD games are good?
+        //TO-add:
+        //Pen and Teller Smoke and Mirrors for SEga CD as prototype, or find dat file with it?
+        //NOne of my Sega CD games are good?
+        //Check my messy-AF NES homebrew folder to see if any of those files aren't already included.
 
         //Additional, self-made Dats currently in DB
         //Tecmo Bowl hacks (several not previously documented, see if there's newer stuff somewhere)
@@ -100,9 +103,9 @@ namespace RomDatabase
         //SCUMMVM 2.1 
         //Future Pinball (in process) from Pleasuredome torrent. Needs to be sorted into single-file and multi-file tables. Not just distribution packs
         //Visual Pinball (in process) from pleasuredome torrent.
-        //IFArchives ZCode game collection (in process) - maybe label these as IFArchive instead of Infocom Z-Machine? No, just label them by system/interpreter. Z-Machine is ok. Note where in the list of dat files.
-        //IFArchives IF competition games (in process) - More than just ZCode, how to label? (1995 and 1996 need a crawler, the rest are in zips) -2014 is where this went from sorting entries by parser to just a Games folder.
-        //--got some of these moved to the IFArchive folder. THere's a few more INFORM folders and competitions to scan,but I got all the 'zcode' entries that didnt have a separate update
+        //IFArchives ZCode game collection 
+        //IFArchives other parser games (todo)
+
 
         //Starting to feel like my goal is going to be to document all the games, even the forgotten ones and fan-made stuff that might be neglected to archive or collect.
         //Which is important if you arent just being a major pirate.
@@ -119,13 +122,14 @@ namespace RomDatabase
             + "md5 TEXT, "
             + "sha1 TEXT, "
             + "console TEXT, "
-            + "genre TEXT, "
-            + "year INT, "
-            + "releaseDate TEXT, "
-            + "developer TEXT, "
-            + "publisher TEXT, "
-            + "Is1G1R INT,"
-            + "region TEXT"
+            + "datFile TEXT"
+            //+ "genre TEXT, "
+            //+ "year INT, "
+            //+ "releaseDate TEXT, "
+            //+ "developer TEXT, "
+            //+ "publisher TEXT, "
+            //+ "Is1G1R INT,"
+            //+ "region TEXT"
             + ")";
 
         //Currently identical in structure, name and description are used differently.
@@ -137,13 +141,14 @@ namespace RomDatabase
             + "md5 TEXT, "
             + "sha1 TEXT, "
             + "console TEXT, "
-            + "genre TEXT, "
-            + "year INT, "
-            + "releaseDate TEXT, "
-            + "developer TEXT, "
-            + "publisher TEXT, "
-            + "Is1G1R INT,"
-            + "region TEXT"
+            + "datFile TEXT"
+            //+ "genre TEXT, "
+            //+ "year INT, "
+            //+ "releaseDate TEXT, "
+            //+ "developer TEXT, "
+            //+ "publisher TEXT, "
+            //+ "Is1G1R INT,"
+            //+ "region TEXT"
             + ")";
 
         static string DropGameTable = "DROP TABLE IF EXISTS games";
@@ -166,11 +171,11 @@ namespace RomDatabase
         static string CreateIndexIdentityD = "CREATE INDEX idx_discidentity ON discs(size, crc, sha1, md5)";
 
 
-        static string InsertGameCmd = "INSERT INTO games(name, description, size, crc, md5, sha1, console, genre, year, releaseDate, developer, publisher, Is1G1R, region)"
-                        + "VALUES(@name, @description, @size, @crc, @md5, @sha1, @console, @genre, @year, @releaseDate, @developer, @publisher, @Is1G1R, @region)";
+        static string InsertGameCmd = "INSERT INTO games(name, description, size, crc, md5, sha1, console, datFile)" // genre, year, releaseDate, developer, publisher, Is1G1R, region)"
+                        + "VALUES(@name, @description, @size, @crc, @md5, @sha1, @console, @datFile)"; // @genre, @year, @releaseDate, @developer, @publisher, @Is1G1R, @region)";
 
-        static string InsertDiscCmd = "INSERT INTO discs(name, description, size, crc, md5, sha1, console, genre, year, releaseDate, developer, publisher, Is1G1R, region)"
-                + "VALUES(@name, @description, @size, @crc, @md5, @sha1, @console, @genre, @year, @releaseDate, @developer, @publisher, @Is1G1R, @region)";
+        static string InsertDiscCmd = "INSERT INTO discs(name, description, size, crc, md5, sha1, console, datFile)" // genre, year, releaseDate, developer, publisher, Is1G1R, region)"
+                        + "VALUES(@name, @description, @size, @crc, @md5, @sha1, @console, @datFile)"; // @genre, @year, @releaseDate, @developer, @publisher, @Is1G1R, @region)";
 
         static string CountGamesCmd = "SELECT COUNT(*) FROM games";
         static string CountGamesByConsoleCmd = "SELECT console, COUNT(console) FROM games GROUP BY console";
@@ -298,13 +303,14 @@ namespace RomDatabase
             p.Add(new SQLiteParameter("@md5", g.md5));
             p.Add(new SQLiteParameter("@sha1", g.sha1));
             p.Add(new SQLiteParameter("@console", g.console));
-            p.Add(new SQLiteParameter("@genre", g.genre));
-            p.Add(new SQLiteParameter("@year", g.year));
-            p.Add(new SQLiteParameter("@releaseDate", g.releaseDate));
-            p.Add(new SQLiteParameter("@developer", g.developer));
-            p.Add(new SQLiteParameter("@publisher", g.publisher));
-            p.Add(new SQLiteParameter("@Is1G1R", g.Is1G1R));
-            p.Add(new SQLiteParameter("@region", g.region));
+            p.Add(new SQLiteParameter("@datFile", g.datFile));
+            //p.Add(new SQLiteParameter("@genre", g.genre));
+            //p.Add(new SQLiteParameter("@year", g.year));
+            //p.Add(new SQLiteParameter("@releaseDate", g.releaseDate));
+            //p.Add(new SQLiteParameter("@developer", g.developer));
+            //p.Add(new SQLiteParameter("@publisher", g.publisher));
+            //p.Add(new SQLiteParameter("@Is1G1R", g.Is1G1R));
+            //p.Add(new SQLiteParameter("@region", g.region));
             ExecuteSQLiteNonQueryWithParameters(InsertGameCmd, p);
         }
 
@@ -327,13 +333,14 @@ namespace RomDatabase
                         cmd.Parameters.Add(new SQLiteParameter("@md5", g.md5));
                         cmd.Parameters.Add(new SQLiteParameter("@sha1", g.sha1));
                         cmd.Parameters.Add(new SQLiteParameter("@console", g.console));
-                        cmd.Parameters.Add(new SQLiteParameter("@genre", g.genre));
-                        cmd.Parameters.Add(new SQLiteParameter("@year", g.year));
-                        cmd.Parameters.Add(new SQLiteParameter("@releaseDate", g.releaseDate));
-                        cmd.Parameters.Add(new SQLiteParameter("@developer", g.developer));
-                        cmd.Parameters.Add(new SQLiteParameter("@publisher", g.publisher));
-                        cmd.Parameters.Add(new SQLiteParameter("@Is1G1R", g.Is1G1R));
-                        cmd.Parameters.Add(new SQLiteParameter("@region", g.region));
+                        cmd.Parameters.Add(new SQLiteParameter("@datFile", g.datFile));
+                        //cmd.Parameters.Add(new SQLiteParameter("@genre", g.genre));
+                        //cmd.Parameters.Add(new SQLiteParameter("@year", g.year));
+                        //cmd.Parameters.Add(new SQLiteParameter("@releaseDate", g.releaseDate));
+                        //cmd.Parameters.Add(new SQLiteParameter("@developer", g.developer));
+                        //cmd.Parameters.Add(new SQLiteParameter("@publisher", g.publisher));
+                        //cmd.Parameters.Add(new SQLiteParameter("@Is1G1R", g.Is1G1R));
+                        //cmd.Parameters.Add(new SQLiteParameter("@region", g.region));
                         var results = cmd.ExecuteNonQuery();
                     }
                     transaction.Commit();
@@ -360,13 +367,14 @@ namespace RomDatabase
                         cmd.Parameters.Add(new SQLiteParameter("@md5", g.md5));
                         cmd.Parameters.Add(new SQLiteParameter("@sha1", g.sha1));
                         cmd.Parameters.Add(new SQLiteParameter("@console", g.console));
-                        cmd.Parameters.Add(new SQLiteParameter("@genre", g.genre));
-                        cmd.Parameters.Add(new SQLiteParameter("@year", g.year));
-                        cmd.Parameters.Add(new SQLiteParameter("@releaseDate", g.releaseDate));
-                        cmd.Parameters.Add(new SQLiteParameter("@developer", g.developer));
-                        cmd.Parameters.Add(new SQLiteParameter("@publisher", g.publisher));
-                        cmd.Parameters.Add(new SQLiteParameter("@Is1G1R", g.Is1G1R));
-                        cmd.Parameters.Add(new SQLiteParameter("@region", g.region));
+                        cmd.Parameters.Add(new SQLiteParameter("@datFile", g.datFile));
+                        //cmd.Parameters.Add(new SQLiteParameter("@genre", g.genre));
+                        //cmd.Parameters.Add(new SQLiteParameter("@year", g.year));
+                        //cmd.Parameters.Add(new SQLiteParameter("@releaseDate", g.releaseDate));
+                        //cmd.Parameters.Add(new SQLiteParameter("@developer", g.developer));
+                        //cmd.Parameters.Add(new SQLiteParameter("@publisher", g.publisher));
+                        //cmd.Parameters.Add(new SQLiteParameter("@Is1G1R", g.Is1G1R));
+                        //cmd.Parameters.Add(new SQLiteParameter("@region", g.region));
                         var results = cmd.ExecuteNonQuery();
                     }
                     transaction.Commit();
@@ -439,13 +447,14 @@ namespace RomDatabase
                 g.md5 = reader[5].ToString();
                 g.sha1 = reader[6].ToString();
                 g.console = reader[7].ToString();
-                g.genre = reader[8].ToString();
-                g.year = Int32.Parse(reader[9].ToString());
-                g.releaseDate = reader[10].ToString();
-                g.developer = reader[11].ToString();
-                g.publisher = reader[12].ToString();
-                g.Is1G1R = Int32.Parse(reader[13].ToString());
-                g.region = reader[14].ToString();
+                g.datFile = reader[8].ToString();
+                //g.genre = reader[8].ToString();
+                //g.year = Int32.Parse(reader[9].ToString());
+                //g.releaseDate = reader[10].ToString();
+                //g.developer = reader[11].ToString();
+                //g.publisher = reader[12].ToString();
+                //g.Is1G1R = Int32.Parse(reader[13].ToString());
+                //g.region = reader[14].ToString();
                 results.Add(g);
             }
 
