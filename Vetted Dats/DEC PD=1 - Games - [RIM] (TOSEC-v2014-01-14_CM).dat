@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>DEC PDP-1 - Games - [RIM]</name>
+		<description>DEC PDP-1 - Games - [RIM] (TOSEC-v2014-01-14)</description>
+		<category>TOSEC</category>
+		<version>2014-01-14</version>
+		<author>TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Spacewar! (1962-02)(Tech Model Railroad Club)">
+		<description>Spacewar! (1962-02)(Tech Model Railroad Club)</description>
+		<rom name="Spacewar! (1962-02)(Tech Model Railroad Club).rim" size="15057" crc="2e2b9940" md5="45b80baa7a015eafdb9ce14da28e664d" sha1="3741c8439ed6686b1861a346b2ab1c87553403cb"/>
+	</game>
+	<game name="Spacewar! v4.1 (2008-08-22)(Samson, Peter)(US)">
+		<description>Spacewar! v4.1 (2008-08-22)(Samson, Peter)(US)</description>
+		<rom name="Spacewar! v4.1 (2008-08-22)(Samson, Peter)(US).rim" size="8416" crc="ba9eb3e0" md5="2887fefbae4543fd474cd741cdbebe9e" sha1="fc6e429be374dc0387d4640b2e006bb6e3f7eaac"/>
+	</game>
+</datafile>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>University of Tokyo PC-1 - Applications</name>
+		<description>University of Tokyo PC-1 - Applications (TOSEC-v2014-06-30)</description>
+		<category>TOSEC</category>
+		<version>2014-06-30</version>
+		<author>Grendel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Calculation for e 1000 digits (1958)(Eiichi Wada)">
+		<description>Calculation for e 1000 digits (1958)(Eiichi Wada)</description>
+		<rom name="e.out" size="1133" crc="dbf85787" md5="6f9235d7ef1c783f01630362f7480333" sha1="de32a2aa15a8afe0d416a0d182b15df7fe16db11"/>
+		<rom name="e.pc1" size="1230" crc="40acbbe0" md5="f86739253c0d6c5e2162de64e33e6429" sha1="80853cbdef8f6e548e551963865b2fd6a8d516f8"/>
+	</game>
+	<game name="Sort - A Sample program of PC-1 (1995)(Eiichi Wada)">
+		<description>Sort - A Sample program of PC-1 (1995)(Eiichi Wada)</description>
+		<rom name="sort.out" size="214" crc="efd99c7f" md5="9710e2309dfc905dd09fa9c2371a60c3" sha1="43c9d3c76288952506ecf03a8ac7201e2b4d30bc"/>
+		<rom name="sort.pc1" size="1831" crc="e44454da" md5="b0bd193fd0d6a522ef34bfedd1c59ea3" sha1="9d50ada32139e1b107cec0287b44691645ca6f58"/>
+	</game>
+</datafile>

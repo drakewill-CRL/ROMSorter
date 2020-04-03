@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Hewlett-Packard HP9835A-B - Option ROMs</name>
+		<description>Hewlett-Packard HP9835A-B - Option ROMs (TOSEC-v2018-07-01)</description>
+		<category>TOSEC</category>
+		<version>2018-07-01</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Assembly Execution (198x)(Hewlett-Packard)[HP98338A]">
+		<description>Assembly Execution (198x)(Hewlett-Packard)[HP98338A]</description>
+		<rom name="Assembly Execution (198x)(Hewlett-Packard)[HP98338A].bin" size="8192" crc="af3d703e" md5="83fc9f2250369e327e004789982738a9" sha1="cbc41b824b51eb809c3810f335839ffac8970b3d"/>
+	</game>
+	<game name="Assembly Language Development &amp; Execution (198x)(Hewlett-Packard)[HP98339A]">
+		<description>Assembly Language Development &amp; Execution (198x)(Hewlett-Packard)[HP98339A]</description>
+		<rom name="98339a-13_60-revb-9835-assembly_execution_and_development.bin" size="8192" crc="e91a6bd7" md5="7f494256755f4f06a621052365d70e84" sha1="7707b6c6a20713d37c7a6538062fa1d78c29de1e"/>
+		<rom name="98339a-13_70-revb-9835-assembly_execution_and_development.bin" size="8192" crc="129a2fca" md5="ed1f5202f97794dfbc93d50aaa484525" sha1="4b8b9e704dca3341aedb27dfcf37ef7f45e7d463"/>
+	</game>
+	<game name="I-O (198x)(Hewlett-Packard)[HP98332A]">
+		<description>I-O (198x)(Hewlett-Packard)[HP98332A]</description>
+		<rom name="98332a-11_10-reva-9835-io.bin" size="8192" crc="58eb0fd5" md5="508838980eae6e2ad0bb9f26aa693df6" sha1="deeba2fa3febd502053581974017cf8391e8642f"/>
+		<rom name="98332a-11_20-reva-9835-io.bin" size="8192" crc="dfed5265" md5="2088aba89e00655861c0ba65645fd4e6" sha1="90b31ece6a739ab84d0b73451cd3d5f6c3c49293"/>
+		<rom name="98332a-11_30-reva-9835-io.bin" size="8192" crc="cdb4fce3" md5="87c671641a47fadfd6c9f64d392d0fc7" sha1="c34f527a4c59a0ded7823ee55954e0e4c563ebd8"/>
+		<rom name="98332a-11_40-reva-9835-io.bin" size="8192" crc="5ae82548" md5="5352670d4d1d5e684e994bc6b8a6760e" sha1="87f5b17fc5254032fbb75c31d295130d72d76ab9"/>
+	</game>
+	<game name="Mass Storage (198x)(Hewlett-Packard)[HP98331A]">
+		<description>Mass Storage (198x)(Hewlett-Packard)[HP98331A]</description>
+		<rom name="98331a-05_10_revb-9835-mass storage.bin" size="8192" crc="338457c9" md5="b403242b3a33c1ac672f604ad278094b" sha1="152c677dba24021613d735610d37f78986f24d13"/>
+		<rom name="98331a-05_20_revb-9835-mass storage.bin" size="8192" crc="ffdef31f" md5="75bbb8f9fb43d6b07734a8f3d44191bd" sha1="6e2ac2b237e1e8eed41a5674ba3bb960665f0f48"/>
+	</game>
+</datafile>

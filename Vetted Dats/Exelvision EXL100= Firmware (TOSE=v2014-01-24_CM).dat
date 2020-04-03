@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Exelvision EXL100 - Firmware</name>
+		<description>Exelvision EXL100 - Firmware (TOSEC-v2014-01-24)</description>
+		<category>TOSEC</category>
+		<version>2014-01-24</version>
+		<author>TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Exelmemoria 64K (198x)(Exelvision)(FR)">
+		<description>Exelmemoria 64K (198x)(Exelvision)(FR)</description>
+		<rom name="Exelmemoria 64K (198x)(Exelvision)(FR).bin" size="8192" crc="5e38a0eb" md5="10ad26aef7b5c8e6f2caeb10710e3ae6" sha1="56b7d692a239e840ceb61714e36c66092773d269"/>
+	</game>
+	<game name="TMS-7020 (1984-09)(Exelvision)(FR)[WX302]">
+		<description>TMS-7020 (1984-09)(Exelvision)(FR)[WX302]</description>
+		<rom name="TMS-7020 (1984-09)(Exelvision)(FR)[WX302].bin" size="2048" crc="049109a3" md5="3e9c069b8de71af85c6162ae2167c1d6" sha1="98a07297dcdacef41c793c197b6496dac1e8e744"/>
+	</game>
+	<game name="TMS-7041 (1984-09)(Exelvision)(FR)[WX227]">
+		<description>TMS-7041 (1984-09)(Exelvision)(FR)[WX227]</description>
+		<rom name="TMS-7041 (1984-09)(Exelvision)(FR)[WX227].bin" size="4096" crc="a0163507" md5="a30c6f6bfbc1363ff99a579081b06fe0" sha1="8452849df7eac8a89cf03ee98e2306047c1c4c38"/>
+	</game>
+</datafile>

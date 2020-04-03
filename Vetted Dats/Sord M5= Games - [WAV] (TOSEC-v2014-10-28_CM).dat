@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sord M5 - Games - [WAV]</name>
+		<description>Sord M5 - Games - [WAV] (TOSEC-v2014-10-28)</description>
+		<category>TOSEC</category>
+		<version>2014-10-28</version>
+		<author>Cid - mek1</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Solar System Forces (19xx)(-)[Req BASIC-G]">
+		<description>Solar System Forces (19xx)(-)[Req BASIC-G]</description>
+		<rom name="Solar System Forces (19xx)(-)[Req BASIC-G].wav" size="17882692" crc="07b4e0e1" md5="265232ce693d643b1653d29eba5314c9" sha1="c057b7d7b964ee3cef516a1f60692e431dce1616"/>
+	</game>
+	<game name="Solar System Forces - Commando Team (19xx)(-)[Req BASIC-G]">
+		<description>Solar System Forces - Commando Team (19xx)(-)[Req BASIC-G]</description>
+		<rom name="Solar System Forces - Commando Team (19xx)(-)[Req BASIC-G].wav" size="7273520" crc="fb402872" md5="da0a4e1e87ed6d95b2f4aa0fc4afa01d" sha1="cb699eaf40c46a3fb61bdf4cd0faa902e8778abb"/>
+	</game>
+	<game name="Solar System Forces - Operation Maul (19xx)(-)[Req BASIC-G]">
+		<description>Solar System Forces - Operation Maul (19xx)(-)[Req BASIC-G]</description>
+		<rom name="Solar System Forces - Operation Maul (19xx)(-)[Req BASIC-G].wav" size="7348024" crc="389b82e5" md5="5a08e77eaa867df3982c68e684feec50" sha1="baee461d2fde0941eb0c7a5963c5340c32212d76"/>
+	</game>
+	<game name="Solar System Forces - Victory of Mars (19xx)(-)[Req BASIC-G]">
+		<description>Solar System Forces - Victory of Mars (19xx)(-)[Req BASIC-G]</description>
+		<rom name="Solar System Forces - Victory of Mars (19xx)(-)[Req BASIC-G].wav" size="7731210" crc="c711f2bb" md5="ca6580d934f2a95fe2a73a94e8d9630c" sha1="2a266117198bf9290d831941dba7e419e745ccce"/>
+	</game>
+</datafile>

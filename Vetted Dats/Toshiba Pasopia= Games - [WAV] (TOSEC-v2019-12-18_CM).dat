@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Toshiba Pasopia - Games - [WAV]</name>
+		<description>Toshiba Pasopia - Games - [WAV] (TOSEC-v2019-12-18)</description>
+		<category>TOSEC</category>
+		<version>2019-12-18</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Golf, The (1982-07-28)(Micro Cabin Soft)(JP)[T-201]">
+		<description>Golf, The (1982-07-28)(Micro Cabin Soft)(JP)[T-201]</description>
+		<rom name="Golf, The (1982-07-28)(Micro Cabin Soft)(JP)[T-201].wav" size="19156507" crc="916e814e" md5="4cdb3ca53709dabe42c5811ebd7711c1" sha1="2e2c61129cc2359b35e1aa9d88130326b7b5ca66"/>
+	</game>
+	<game name="Pasopia Derby (1982)(Hudson Soft)(JP)[T-1030]">
+		<description>Pasopia Derby (1982)(Hudson Soft)(JP)[T-1030]</description>
+		<rom name="Pasopia Derby (1982)(Hudson Soft)(JP)[T-1030].wav" size="13059875" crc="0c2702f7" md5="1d9872f5e3b9e557664d390ea6ae73a6" sha1="544e120e0dc5d226072371841e5e1982f015353b"/>
+	</game>
+</datafile>

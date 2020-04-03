@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Terak 8510A &amp; 8600 - Utilities</name>
+		<description>Terak 8510A &amp; 8600 - Utilities (TOSEC-v2017-04-05)</description>
+		<category>TOSEC</category>
+		<version>2017-04-05</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<url>http://www.tosecdev.org</url>
+		<clrmamepro/>
+	</header>
+	<game name="2-D 8510-A System Acceptance Test (19xx)(Terak)[Serial No. 83 938131741A, Kit Number 95-0011-102]">
+		<description>2-D 8510-A System Acceptance Test (19xx)(Terak)[Serial No. 83 938131741A, Kit Number 95-0011-102]</description>
+		<rom name="2-D 8510-A System Acceptance Test (19xx)(Terak)[Serial No. 83 938131741A, Kit Number 95-0011-102].imd" size="235094" crc="b9dcea7d" md5="63a0fb7900ed09db26d33193711739bd" sha1="bdee4d46797c4ebf88be1652e7c9810877d2de5a"/>
+	</game>
+	<game name="2-D 8510-A System Acceptance Test (19xx)(Terak)[Serial No. 83 938131742A, Kit Number 95-0011-102]">
+		<description>2-D 8510-A System Acceptance Test (19xx)(Terak)[Serial No. 83 938131742A, Kit Number 95-0011-102]</description>
+		<rom name="2-D 8510-A System Acceptance Test (19xx)(Terak)[Serial No. 83 938131742A, Kit Number 95-0011-102].imd" size="235109" crc="e50f09bb" md5="6d36947636eb4171aa62a5fcd426b3f0" sha1="48a7ee4e7c0088cda48393dd345a75c64fe9b1be"/>
+	</game>
+	<game name="Pascal vI.5e Variable Density Controller - Software Conversion Kit Rev A (1980-11-01)(Terak)[Part Number 95-0010-103]">
+		<description>Pascal vI.5e Variable Density Controller - Software Conversion Kit Rev A (1980-11-01)(Terak)[Part Number 95-0010-103]</description>
+		<rom name="Pascal vI.5e Variable Density Controller - Software Conversion Kit Rev A (1980-11-01)(Terak)[Part Number 95-0010-103].imd" size="252162" crc="3f6de9c6" md5="14a1f9e6483b241dc2e7d58c00a35a24" sha1="9b04d0f8ba227ca13e66e6a84faf11aacca96728"/>
+	</game>
+	<game name="Pascal vII.0 Variable Density Controller - Software Conversion Kit (1980-10-29)(Terak)[Part Number 95-0010-102]">
+		<description>Pascal vII.0 Variable Density Controller - Software Conversion Kit (1980-10-29)(Terak)[Part Number 95-0010-102]</description>
+		<rom name="Pascal vII.0 Variable Density Controller - Software Conversion Kit (1980-10-29)(Terak)[Part Number 95-0010-102].imd" size="252160" crc="e27c48b4" md5="dfc824924904269b3d25459884c0749d" sha1="ecad9280813f5d70ebefeac7d7960a9d34f8e444"/>
+	</game>
+	<game name="RT-11 Variable Density Controller - Software Conversion Kit (1980-10-13)(Terak)[Part Number 95-0010-101]">
+		<description>RT-11 Variable Density Controller - Software Conversion Kit (1980-10-13)(Terak)[Part Number 95-0010-101]</description>
+		<rom name="RT-11 Variable Density Controller - Software Conversion Kit (1980-10-13)(Terak)[Part Number 95-0010-101].imd" size="222813" crc="723dfabc" md5="1d8e5c0aced8a2364046211894f231fc" sha1="eb2aeef5346c8cee5982f7f6f52ba44b4625a109"/>
+	</game>
+	<game name="System Acceptance Tests - Terak 8510A Graphics Computer System (1978-03-30)(Terak)[Serial # QM-905-0017]">
+		<description>System Acceptance Tests - Terak 8510A Graphics Computer System (1978-03-30)(Terak)[Serial # QM-905-0017]</description>
+		<rom name="System Acceptance Tests - Terak 8510A Graphics Computer System (1978-03-30)(Terak)[Serial # QM-905-0017].imd" size="175702" crc="a29c74bd" md5="cf128cde3c330a140d906ecda7d20a8c" sha1="eaba9efd7aa67be50b5a65806460fd42e6e18bd6"/>
+	</game>
+	<game name="System Acceptance Tests - Terak 8510A Graphics Computer System (1979-09-21)(Terak)[Part Number 61-0006-001]">
+		<description>System Acceptance Tests - Terak 8510A Graphics Computer System (1979-09-21)(Terak)[Part Number 61-0006-001]</description>
+		<rom name="System Acceptance Tests - Terak 8510A Graphics Computer System (1979-09-21)(Terak)[Part Number 61-0006-001].imd" size="170649" crc="b43906ed" md5="07d1f9c505599b0c85ea1ba488f8e9c9" sha1="e178277cf25fe59629ede165e6cfd7bacd761980"/>
+	</game>
+	<game name="System Acceptance Tests - Terak 8510A Graphics Computer System with Variable Density Disk Controller Rev A (1980-10-30)(Terak)[Part Number 95-0011-101]">
+		<description>System Acceptance Tests - Terak 8510A Graphics Computer System with Variable Density Disk Controller Rev A (1980-10-30)(Terak)[Part Number 95-0011-101]</description>
+		<rom name="System Acceptance Tests - Terak 8510A Graphics Computer System with Variable Density Disk Controller Rev A (1980-10-30)(Terak)[Part Number 95-0011-101].imd" size="235961" crc="e6932c5e" md5="268a826d9e3d64c83456b3647fd86864" sha1="3a94cac600caf7f3bb8dee2521ed37acb263d069"/>
+	</game>
+</datafile>

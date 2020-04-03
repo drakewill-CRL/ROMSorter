@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple Macintosh - CD - Games</name>
+		<description>Apple Macintosh - CD - Games (TOSEC-v2012-07-06)</description>
+		<category>TOSEC-ISO</category>
+		<version>2012-07-06</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Crystal Caliburn - Solid State Pinball (1997)(StarPlay)">
+		<description>Crystal Caliburn - Solid State Pinball (1997)(StarPlay)</description>
+		<rom name="Crystal Caliburn - Solid State Pinball (1997)(StarPlay).cue" size="144" crc="d6de9507" md5="5a96f24ed7a3669404837238aafa9b78" sha1="2d63168792092435b9c9f5702d93cdbb62763730"/>
+		<rom name="Crystal Caliburn - Solid State Pinball (1997)(StarPlay).iso" size="34426880" crc="16470dcd" md5="a433796553958909a7e0a5c49eff51af" sha1="63634b4a391c9533252813f228e667ba9a05ab94"/>
+	</game>
+	<game name="Daedalus Encounter, The (1995)(Virgin)(Disc 1 of 3)">
+		<description>Daedalus Encounter, The (1995)(Virgin)(Disc 1 of 3)</description>
+		<rom name="Daedalus Encounter, The (1995)(Virgin)(Disc 1 of 3).cue" size="140" crc="6f0e55b5" md5="eb004cd27191ed11ef8b4b459c3c9412" sha1="8726856d73e3a935b6c4395cf89c05d37d144041"/>
+		<rom name="Daedalus Encounter, The (1995)(Virgin)(Disc 1 of 3).iso" size="656457728" crc="47162b8e" md5="a620c3aeaf2e13fcd4e9c700b5b47f21" sha1="cebf418983ab86796ca64fa79373f5294798e992"/>
+	</game>
+	<game name="Daedalus Encounter, The (1995)(Virgin)(Disc 2 of 3)">
+		<description>Daedalus Encounter, The (1995)(Virgin)(Disc 2 of 3)</description>
+		<rom name="Daedalus Encounter, The (1995)(Virgin)(Disc 2 of 3).cue" size="140" crc="23bd7f1c" md5="cde8e56eebf6d5e010a45886da00aa2c" sha1="2f971d6ecae5d15744d3451def91e9cb0f9eff31"/>
+		<rom name="Daedalus Encounter, The (1995)(Virgin)(Disc 2 of 3).iso" size="659701760" crc="189715d8" md5="6a67dbec568559183753bb9458c5936e" sha1="b685a99fd92dfadb0a97ae5ed444e5564a68a462"/>
+	</game>
+	<game name="Daedalus Encounter, The (1995)(Virgin)(Disc 3 of 3)">
+		<description>Daedalus Encounter, The (1995)(Virgin)(Disc 3 of 3)</description>
+		<rom name="Daedalus Encounter, The (1995)(Virgin)(Disc 3 of 3).cue" size="140" crc="aefc9b44" md5="5ee2ef83458fdc2120f06c48dbaf3c38" sha1="90c1dee0c36c2fdce2cdcf9655138b130e99d610"/>
+		<rom name="Daedalus Encounter, The (1995)(Virgin)(Disc 3 of 3).iso" size="677199872" crc="7e4f2ade" md5="901518ea6eb8f92af1ca4f380fbb382d" sha1="d386770348cdfaf7f36d442bca3241d52de13178"/>
+	</game>
+	<game name="Dark Seed II (1995)(Cyberdreams)">
+		<description>Dark Seed II (1995)(Cyberdreams)</description>
+		<rom name="Dark Seed II (1995)(Cyberdreams).cue" size="121" crc="42412e2e" md5="b725c16cf1668012ed54023abb95ad25" sha1="b445526be8948ee65066a2ce1a2727418e4eb854"/>
+		<rom name="Dark Seed II (1995)(Cyberdreams).iso" size="462438400" crc="3d855bf5" md5="ef8c8a08c5ea10cd627946ee7b1da426" sha1="ca54e333c2ec7570eb29b24493276594ad1c921b"/>
+	</game>
+	<game name="Doom II - Master Levels for the Mac (1996)(id Software)">
+		<description>Doom II - Master Levels for the Mac (1996)(id Software)</description>
+		<rom name="Doom II - Master Levels for the Mac (1996)(id Software).cue" size="144" crc="3486f77f" md5="eea572915ba454f07b605bb54d9c8168" sha1="4a94ef2c29e4cd5e19dbd9936afa780fb5c00c06"/>
+		<rom name="Doom II - Master Levels for the Mac (1996)(id Software).iso" size="411500544" crc="724e91ea" md5="f036c227f31168093132d3344eaa56bc" sha1="59ec3dc01fee448a1469fc8bb8438bbf99bb50a4"/>
+	</game>
+	<game name="FA-18 Hornet 2.0 v2.0.1 (1995)(Graphic Simulations)">
+		<description>FA-18 Hornet 2.0 v2.0.1 (1995)(Graphic Simulations)</description>
+		<rom name="FA-18 Hornet 2.0 v2.0.1 (1995)(Graphic Simulations).cue" size="140" crc="98b719f8" md5="40f3158256cf170825e99c2e2b0d965c" sha1="9fb6710c4b819f77125337918e7cb9f4a6496bfd"/>
+		<rom name="FA-18 Hornet 2.0 v2.0.1 (1995)(Graphic Simulations).iso" size="7446528" crc="8ddf62cc" md5="e70b173f7a5d1b1afa4c45a2208375cc" sha1="e973d2633b5748458c47635e4a8c7e8eaf334b05"/>
+	</game>
+</datafile>

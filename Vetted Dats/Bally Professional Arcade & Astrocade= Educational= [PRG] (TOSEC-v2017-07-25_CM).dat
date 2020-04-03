@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Bally Professional Arcade &amp; Astrocade - Educational - [PRG]</name>
+		<description>Bally Professional Arcade &amp; Astrocade - Educational - [PRG] (TOSEC-v2017-07-25)</description>
+		<category>TOSEC</category>
+		<version>2017-07-25</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Arabic Language Quiz (19xx)(-)[300 baud]">
+		<description>Arabic Language Quiz (19xx)(-)[300 baud]</description>
+		<rom name="Arabic Language Quiz (19xx)(-)[300 baud].prg" size="2012" crc="1d387f30" md5="580457071bcf7c97bcd9cf1231cfde28" sha1="986ccfd72c433912990bcb332b41e3cf28b894b2"/>
+	</game>
+	<game name="Arabic Language Quiz - Extra Questions 1 (19xx)(-)[300 baud]">
+		<description>Arabic Language Quiz - Extra Questions 1 (19xx)(-)[300 baud]</description>
+		<rom name="Arabic Language Quiz - Extra Questions 1 (19xx)(-)[300 baud].prg" size="1204" crc="1cf5c7f1" md5="c5eec69a062edcf9e938451e51a2dd9e" sha1="bd17f66595f088475f638fdc706741c9acbbfcae"/>
+	</game>
+	<game name="Arabic Language Quiz - Extra Questions 2 (19xx)(-)[300 baud]">
+		<description>Arabic Language Quiz - Extra Questions 2 (19xx)(-)[300 baud]</description>
+		<rom name="Arabic Language Quiz - Extra Questions 2 (19xx)(-)[300 baud].prg" size="1172" crc="75e7dced" md5="1fb8555d85c148de0c67adae01c86e27" sha1="929f2f43b70aa63dfda03c8d1e1c1ca5be050b96"/>
+	</game>
+	<game name="Cash Register (1980)(Eric, John - Tietjens, Rich)[300 baud]">
+		<description>Cash Register (1980)(Eric, John - Tietjens, Rich)[300 baud]</description>
+		<rom name="Cash Register (1980)(Eric, John - Tietjens, Rich)[300 baud].prg" size="4043" crc="8dc752c9" md5="a6c18792fea08a3a46b3bfaa8ab59987" sha1="e34cbda0955716f4e6b1c5c1ad69767d28ce85a8"/>
+	</game>
+	<game name="Guitar Course (1980)(WaveMakers)(PD)(Side 1)(Guitar Tuning &amp; Guitar Course)[300 baud]">
+		<description>Guitar Course (1980)(WaveMakers)(PD)(Side 1)(Guitar Tuning &amp; Guitar Course)[300 baud]</description>
+		<rom name="Guitar Course (1980)(WaveMakers)(PD)(Side 1)(Guitar Tuning &amp; Guitar Course)[300 baud].prg" size="5437" crc="a7da9c59" md5="f65b5d689f7bf3e22da50d8486002e88" sha1="d1532a2c88a9dc5aa7b82c88d32a37681330bc1e"/>
+	</game>
+	<game name="Guitar Course (1980)(WaveMakers)(PD)(Side 1)(Guitar Tuning &amp; Guitar Course)[a][300 baud]">
+		<description>Guitar Course (1980)(WaveMakers)(PD)(Side 1)(Guitar Tuning &amp; Guitar Course)[a][300 baud]</description>
+		<rom name="Guitar Course (1980)(WaveMakers)(PD)(Side 1)(Guitar Tuning &amp; Guitar Course)[a][300 baud].prg" size="4700" crc="c45ef115" md5="f48d47c7edac0caf7c3a3c9ae332267b" sha1="ae447c35a1c4f53aad1a459854d33faa77066096"/>
+	</game>
+	<game name="Guitar Course (1980)(WaveMakers)(PD)(Side 2)(Note Match &amp; Chord Progressions)[300 baud]">
+		<description>Guitar Course (1980)(WaveMakers)(PD)(Side 2)(Note Match &amp; Chord Progressions)[300 baud]</description>
+		<rom name="Guitar Course (1980)(WaveMakers)(PD)(Side 2)(Note Match &amp; Chord Progressions)[300 baud].prg" size="3502" crc="0242df6a" md5="66e4e3018b924f44453477a23e6309f4" sha1="875dd3d06edcbba2945336a9d0e16f15beaab93b"/>
+	</game>
+	<game name="Math Quiz (19xx)(Sams, Ernie)[300 baud - authorship uncertain]">
+		<description>Math Quiz (19xx)(Sams, Ernie)[300 baud - authorship uncertain]</description>
+		<rom name="Math Quiz (19xx)(Sams, Ernie)[300 baud - authorship uncertain].prg" size="919" crc="3aa5cb6b" md5="b77d179d992238866c43a581bb5a0603" sha1="da27a34fb901541ee9b6be221c7912a9dde128a1"/>
+	</game>
+	<game name="Math Teacher (1981)(Dunson, Jim)[300 baud]">
+		<description>Math Teacher (1981)(Dunson, Jim)[300 baud]</description>
+		<rom name="Math Teacher (1981)(Dunson, Jim)[300 baud].prg" size="1841" crc="e46e9682" md5="83a4cc0ffca0a78a4c36747c47add313" sha1="cb5d22b6ab4f88eeef125f8f9305565d17d49c3e"/>
+	</game>
+</datafile>

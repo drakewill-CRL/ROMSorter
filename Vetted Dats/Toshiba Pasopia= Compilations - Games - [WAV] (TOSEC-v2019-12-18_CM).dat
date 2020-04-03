@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Toshiba Pasopia - Compilations - Games - [WAV]</name>
+		<description>Toshiba Pasopia - Compilations - Games - [WAV] (TOSEC-v2019-12-18)</description>
+		<category>TOSEC</category>
+		<version>2019-12-18</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Pasopia Game Collection (1982)(Toshiba)(JP)[PA 6002]">
+		<description>Pasopia Game Collection (1982)(Toshiba)(JP)[PA 6002]</description>
+		<rom name="Pasopia Game Collection (1982)(Toshiba)(JP)[PA 6002].wav" size="68596062" crc="f8a3ea13" md5="12b4f18bed3271f6c517ca4f356214c8" sha1="01436203bb2e7a1b7f3adec812f6d2edebcb2cc7"/>
+	</game>
+	<game name="Pasopia Game Highlight (1982)(Toshiba)(JP)[PZA-410]">
+		<description>Pasopia Game Highlight (1982)(Toshiba)(JP)[PZA-410]</description>
+		<rom name="Pasopia Game Highlight (1982)(Toshiba)(JP)[PZA-410].wav" size="80066535" crc="5849a0f8" md5="5e62fe3581b5d4cad42e10b0a68faba6" sha1="7c64bb429033b0f39a703524546bc96ae706d3cf"/>
+	</game>
+</datafile>

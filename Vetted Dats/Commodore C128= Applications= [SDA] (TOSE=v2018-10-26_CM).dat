@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C128 - Applications - [SDA]</name>
+		<description>Commodore C128 - Applications - [SDA] (TOSEC-v2018-10-26)</description>
+		<category>TOSEC</category>
+		<version>2018-10-26</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Disk Directory Printer (19xx)(-)[m Dale Ray]">
+		<description>Disk Directory Printer (19xx)(-)[m Dale Ray]</description>
+		<rom name="Disk Directory Printer (19xx)(-)[m Dale Ray].sda" size="9144" crc="0cb24a99" md5="575e41cd150d99648613cdaad5147b35" sha1="a85bc4164f2ed45d609456533da55fb3d0c89bb2"/>
+	</game>
+	<game name="Disk Directory Printer (19xx)(-)[m Dale Ray][a]">
+		<description>Disk Directory Printer (19xx)(-)[m Dale Ray][a]</description>
+		<rom name="Disk Directory Printer (19xx)(-)[m Dale Ray][a].sda" size="9216" crc="444e67b0" md5="d0164c6cd8bfd045db001f64ecc576f4" sha1="d081ae288398d1b97392aedb51e97f082949d558"/>
+	</game>
+	<game name="Diskat_v3.1 (1988)(Lonnie de Cloedt)[80 column]">
+		<description>Diskat_v3.1 (1988)(Lonnie de Cloedt)[80 column]</description>
+		<rom name="Diskat_v3.1 (1988)(Lonnie de Cloedt)[80 column].sda" size="37592" crc="e87b7f76" md5="24eeee91ed26243f68e0add520eb873e" sha1="071b6ad40b2774806f85ca77ec35c68f97012748"/>
+	</game>
+	<game name="Diskat_v3.1 (1988)(Lonnie de Cloedt)[a][80 column]">
+		<description>Diskat_v3.1 (1988)(Lonnie de Cloedt)[a][80 column]</description>
+		<rom name="Diskat_v3.1 (1988)(Lonnie de Cloedt)[a][80 column].sda" size="37632" crc="b18fe56e" md5="59a96444fc3f75845c16730a9a37ce75" sha1="1d9efb355fe0ad35f3193714355a13f31efdec4a"/>
+	</game>
+	<game name="vt100 128 v2.1 (1988)(Microtechnic Solutions)">
+		<description>vt100 128 v2.1 (1988)(Microtechnic Solutions)</description>
+		<rom name="vt100 128 v2.1 (1988)(Microtechnic Solutions).sda" size="23936" crc="11ec04b7" md5="027fcb9732609be3d89ab4227765ffed" sha1="23d196cbdc4d09037f4540f0dd48061021099113"/>
+	</game>
+</datafile>

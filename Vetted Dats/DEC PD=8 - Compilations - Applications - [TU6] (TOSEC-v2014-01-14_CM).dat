@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>DEC PDP-8 - Compilations - Applications - [TU6]</name>
+		<description>DEC PDP-8 - Compilations - Applications - [TU6] (TOSEC-v2014-01-14)</description>
+		<category>TOSEC</category>
+		<version>2014-01-14</version>
+		<author>TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Diagnostics &amp; Basic (19xx)(-)">
+		<description>Diagnostics &amp; Basic (19xx)(-)</description>
+		<rom name="Diagnostics &amp; Basic (19xx)(-).tu6" size="380292" crc="73d19fd3" md5="21228093958b2989232eaac0d6f27375" sha1="4a393a82d2f78bc25e39566e0a74d1c8fc3422e4"/>
+	</game>
+</datafile>

@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tandy Radio Shack TRS-80 Color Computer - Magazines</name>
+		<description>Tandy Radio Shack TRS-80 Color Computer - Magazines (TOSEC-v2014-06-27)</description>
+		<category>TOSEC</category>
+		<version>2014-06-27</version>
+		<author>Ira</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="CoCo Registry Issue 1 (19xx)(Rick's Computer Enterprise)[DSK]">
+		<description>CoCo Registry Issue 1 (19xx)(Rick's Computer Enterprise)[DSK]</description>
+		<rom name="CoCoR1A.DSK" size="161280" crc="20622ccf" md5="89fb31aedaf92ffc6961a3d98e63dcf1" sha1="4e3c1dc831bbf3394733c59e046bf8ea2fee0935"/>
+		<rom name="CoCoR1B.DSK" size="161280" crc="4061f657" md5="a09304889d8bad1353e275e36735b8d2" sha1="9d03d2bd5727a8daf785b73f68e141fe90fbc3c0"/>
+		<rom name="CR-First.tif" size="162182" crc="57faa524" md5="e42b44a8779b01c5e79c30f8d4779806" sha1="e5ffd0febe59afdce6bfa541efd45fbceb67cf80"/>
+	</game>
+	<game name="CoCo Registry Issue 2 (19xx)(Rick's Computer Enterprise)[DSK]">
+		<description>CoCo Registry Issue 2 (19xx)(Rick's Computer Enterprise)[DSK]</description>
+		<rom name="CoCoR2A.DSK" size="184320" crc="2d95da47" md5="4dc1780d3bc29227f851f9eed01efb8f" sha1="2dbba795adc5f5d7b5b2e849b49445c35c09762c"/>
+		<rom name="CoCoR2B.DSK" size="161280" crc="48eb96db" md5="1598df8faf6702af64725e915f3e4a7b" sha1="a160fa5972b9b7c96eed2c1b3ca34cd4bdc1be8c"/>
+		<rom name="CR-Second.tif" size="178980" crc="5652d941" md5="2b440307e263f98f6847a881f8296bb5" sha1="4c25c29832deb287f2a115991497f827e264d747"/>
+	</game>
+	<game name="CoCo Registry Issue 3 (19xx)(Rick's Computer Enterprise)[DSK]">
+		<description>CoCo Registry Issue 3 (19xx)(Rick's Computer Enterprise)[DSK]</description>
+		<rom name="CoCo Registry.txt" size="961" crc="d65d409e" md5="0cd1336cf68e9e233c33d94a1cc65df7" sha1="286bc59a5f40e715d36c25fdf4c149ba2ada7c6f"/>
+		<rom name="CoCoR3A.DSK" size="161280" crc="e318364a" md5="20cd7764b3003a2be30b27595d419ed9" sha1="aed999981a1394cb61bb9114fb9d18e36fac3dbf"/>
+		<rom name="CoCoR3B.DSK" size="161280" crc="2d1d627d" md5="4d444fad94a210e13fed5acc05fef209" sha1="50917efe64ded45119b1e7137623b2f5325721f3"/>
+		<rom name="CoCoReg_Note.gif" size="172753" crc="9c44ccfc" md5="e8e3ee153db732ac6d932f2200619c94" sha1="7aba0018a2377c84aea819219ec1226a2d1e5eb6"/>
+		<rom name="CR-Third.tif" size="167086" crc="1cdaefce" md5="ed566b6501686a6662b42e6a312e8cf7" sha1="87f80a45d8170b396a466e15fab83089679651c9"/>
+	</game>
+	<game name="CoCo Upgrade National Disk Magazine April (1993)(Mid Iowa &amp; Country CoCo)[DSK]">
+		<description>CoCo Upgrade National Disk Magazine April (1993)(Mid Iowa &amp; Country CoCo)[DSK]</description>
+		<rom name="UPG0493.DSK" size="184320" crc="6f9e09c1" md5="2af9c10df887c33da91c63964ec00fa0" sha1="37dbcaf3a37dff2b445826d89dcd9f61908e7b5a"/>
+	</game>
+	<game name="CoCo Upgrade National Disk Magazine August (1993)(Mid Iowa &amp; Country CoCo)[DSK]">
+		<description>CoCo Upgrade National Disk Magazine August (1993)(Mid Iowa &amp; Country CoCo)[DSK]</description>
+		<rom name="UPG0893.DSK" size="184320" crc="47fa792d" md5="ce381a84922de6ec41af001c894f094e" sha1="6edbd9aed4637528eb96fe2ef7826552035f34ee"/>
+	</game>
+	<game name="CoCo Upgrade National Disk Magazine Issue 14 (1992)(Mid Iowa &amp; Country CoCo)[DSK]">
+		<description>CoCo Upgrade National Disk Magazine Issue 14 (1992)(Mid Iowa &amp; Country CoCo)[DSK]</description>
+		<rom name="MICC Disk List.txt" size="2859" crc="53ef2a2b" md5="e152e889ff2d94c1b23d7ad212921367" sha1="564b56bad03fdbabdde4575bd95a5b840bc66139"/>
+		<rom name="MICC-14.DSK" size="184320" crc="bdb2042c" md5="d8d6ede6b53a6f4977d61e07f20fd962" sha1="f7fea6787261361777c68dfdbf3ed0b77691c1fc"/>
+		<rom name="MICC-Envelope.tif" size="184654" crc="3a2235f0" md5="fe06c12b6949959a95ee2329de15768e" sha1="288e4f0aaaa0d60c71c26ce0e1947b4420620e72"/>
+		<rom name="MICC14.tif" size="224908" crc="62c194d2" md5="6dd21e1fe24bece69cf5248e9fc57cb8" sha1="19ad4e62e52813b6664c77f935165fdadd21991f"/>
+		<rom name="MICC_Letter.pdf" size="143959" crc="861e3729" md5="bdaad857eed8cf6313bf7386cbe72272" sha1="6f9850e39cb39e236be42331d3af25f1686164ae"/>
+	</game>
+	<game name="CoCo Upgrade National Disk Magazine Issue 16 (1993)(Mid Iowa &amp; Country CoCo)[DSK]">
+		<description>CoCo Upgrade National Disk Magazine Issue 16 (1993)(Mid Iowa &amp; Country CoCo)[DSK]</description>
+		<rom name="MICC Disk List.txt" size="2859" crc="53ef2a2b" md5="e152e889ff2d94c1b23d7ad212921367" sha1="564b56bad03fdbabdde4575bd95a5b840bc66139"/>
+		<rom name="MICC-16.DSK" size="184320" crc="d311f2f4" md5="7b4d281900ff09fcbd4b2dd979eb11c7" sha1="1c696ed3716491082bdf417e44c502b53e24fb0d"/>
+		<rom name="MICC-Envelope.tif" size="184654" crc="3a2235f0" md5="fe06c12b6949959a95ee2329de15768e" sha1="288e4f0aaaa0d60c71c26ce0e1947b4420620e72"/>
+		<rom name="MICC16.tif" size="224664" crc="ca91738c" md5="4183cce66aeebba37eb9f5fa050185d6" sha1="e94c4924feb616cfc02b7827e8011869f63aaa93"/>
+		<rom name="MICC_Letter.pdf" size="143959" crc="861e3729" md5="bdaad857eed8cf6313bf7386cbe72272" sha1="6f9850e39cb39e236be42331d3af25f1686164ae"/>
+	</game>
+	<game name="CoCo Upgrade National Disk Magazine Issue 17 (1993)(Mid Iowa &amp; Country CoCo)[DSK]">
+		<description>CoCo Upgrade National Disk Magazine Issue 17 (1993)(Mid Iowa &amp; Country CoCo)[DSK]</description>
+		<rom name="MICC Disk List.txt" size="2859" crc="53ef2a2b" md5="e152e889ff2d94c1b23d7ad212921367" sha1="564b56bad03fdbabdde4575bd95a5b840bc66139"/>
+		<rom name="MICC-17.DSK" size="161280" crc="503badfe" md5="a04f8b3b680df3bcadd3a69a975f6916" sha1="b37d877489882cfcc3049e08f627c9269b9ca77f"/>
+		<rom name="MICC-Envelope.tif" size="184654" crc="3a2235f0" md5="fe06c12b6949959a95ee2329de15768e" sha1="288e4f0aaaa0d60c71c26ce0e1947b4420620e72"/>
+		<rom name="MICC17.tif" size="226590" crc="271c7368" md5="6e84ef45a279f36484a08da62db63251" sha1="2975657e49fcd0cdf1bc1f947635f2d8b1c9234a"/>
+		<rom name="MICC_Letter.pdf" size="143959" crc="861e3729" md5="bdaad857eed8cf6313bf7386cbe72272" sha1="6f9850e39cb39e236be42331d3af25f1686164ae"/>
+	</game>
+	<game name="CoCo Upgrade National Disk Magazine Issue 18 (1993)(Mid Iowa &amp; Country CoCo)[DSK]">
+		<description>CoCo Upgrade National Disk Magazine Issue 18 (1993)(Mid Iowa &amp; Country CoCo)[DSK]</description>
+		<rom name="MICC Disk List.txt" size="2859" crc="53ef2a2b" md5="e152e889ff2d94c1b23d7ad212921367" sha1="564b56bad03fdbabdde4575bd95a5b840bc66139"/>
+		<rom name="MICC-18.DSK" size="184320" crc="6f9e09c1" md5="2af9c10df887c33da91c63964ec00fa0" sha1="37dbcaf3a37dff2b445826d89dcd9f61908e7b5a"/>
+		<rom name="MICC-Envelope.tif" size="184654" crc="3a2235f0" md5="fe06c12b6949959a95ee2329de15768e" sha1="288e4f0aaaa0d60c71c26ce0e1947b4420620e72"/>
+		<rom name="MICC18.tif" size="226762" crc="e5532249" md5="b25e30349c777c1556962d1bb6d0b238" sha1="8bedced65e3714d86cc95e217c49c7303addaeb0"/>
+		<rom name="MICC_Letter.pdf" size="143959" crc="861e3729" md5="bdaad857eed8cf6313bf7386cbe72272" sha1="6f9850e39cb39e236be42331d3af25f1686164ae"/>
+	</game>
+	<game name="CoCo Upgrade National Disk Magazine Issue 19 (1993)(Mid Iowa &amp; Country CoCo)[DSK]">
+		<description>CoCo Upgrade National Disk Magazine Issue 19 (1993)(Mid Iowa &amp; Country CoCo)[DSK]</description>
+		<rom name="MICC Disk List.txt" size="2859" crc="53ef2a2b" md5="e152e889ff2d94c1b23d7ad212921367" sha1="564b56bad03fdbabdde4575bd95a5b840bc66139"/>
+		<rom name="MICC-19.1.DSK" size="184320" crc="e9a7de1b" md5="e961516063026ac649d173c9e48e668d" sha1="5c6a5ed48b8ce9e64da219341016f9b4ebcc1413"/>
+		<rom name="MICC-19.2.DSK" size="161280" crc="cfc0c399" md5="adbf815d013fe7dafcdad5d8db4bbd4c" sha1="239349001fe6e07a4eeb2bb0a8f98f4c3e9832e7"/>
+		<rom name="MICC-Envelope.tif" size="184654" crc="3a2235f0" md5="fe06c12b6949959a95ee2329de15768e" sha1="288e4f0aaaa0d60c71c26ce0e1947b4420620e72"/>
+		<rom name="MICC19.tif" size="222788" crc="e0ac895a" md5="365688c64863c1a7c11f92f819962e66" sha1="538a3c1742e09655ffec69d7bc3e2a9cabc31497"/>
+		<rom name="MICC_Letter.pdf" size="143959" crc="861e3729" md5="bdaad857eed8cf6313bf7386cbe72272" sha1="6f9850e39cb39e236be42331d3af25f1686164ae"/>
+	</game>
+	<game name="CoCo Upgrade National Disk Magazine Issue 20 (1993)(Mid Iowa &amp; Country CoCo)[DSK]">
+		<description>CoCo Upgrade National Disk Magazine Issue 20 (1993)(Mid Iowa &amp; Country CoCo)[DSK]</description>
+		<rom name="MICC Disk List.txt" size="2859" crc="53ef2a2b" md5="e152e889ff2d94c1b23d7ad212921367" sha1="564b56bad03fdbabdde4575bd95a5b840bc66139"/>
+		<rom name="MICC-20.DSK" size="184320" crc="f8c9b28f" md5="33f4bece7326f177a38aa70f176422f0" sha1="5d3d95720d6f706c88d5e339a066b19f362aab36"/>
+		<rom name="MICC-Envelope.tif" size="184654" crc="3a2235f0" md5="fe06c12b6949959a95ee2329de15768e" sha1="288e4f0aaaa0d60c71c26ce0e1947b4420620e72"/>
+		<rom name="MICC20.tif" size="229972" crc="fe957dd7" md5="2b2c3ed5e86f2cbc0501bd3e2feb4996" sha1="f6cf32feb765cb24525c6d1e3d7da56e21665d13"/>
+		<rom name="MICC_Letter.pdf" size="143959" crc="861e3729" md5="bdaad857eed8cf6313bf7386cbe72272" sha1="6f9850e39cb39e236be42331d3af25f1686164ae"/>
+	</game>
+	<game name="CoCo Upgrade National Disk Magazine Issue 21 (1993)(Mid Iowa &amp; Country CoCo)[DSK]">
+		<description>CoCo Upgrade National Disk Magazine Issue 21 (1993)(Mid Iowa &amp; Country CoCo)[DSK]</description>
+		<rom name="MICC Disk List.txt" size="2859" crc="53ef2a2b" md5="e152e889ff2d94c1b23d7ad212921367" sha1="564b56bad03fdbabdde4575bd95a5b840bc66139"/>
+		<rom name="MICC-21.DSK" size="184320" crc="357b6553" md5="08a259fcf5b90efbcc67e934fd4d33e4" sha1="ec065eab769d9a1d936324ed1cde3e54ab5f578e"/>
+		<rom name="MICC-Envelope.tif" size="184654" crc="3a2235f0" md5="fe06c12b6949959a95ee2329de15768e" sha1="288e4f0aaaa0d60c71c26ce0e1947b4420620e72"/>
+		<rom name="MICC21.tif" size="223398" crc="9d56bd2d" md5="45ce8e57f65e87155b60eaa90cd18cf4" sha1="24b2f6b67963ca9f9a965c5c6fddc580c3187be1"/>
+		<rom name="MICC_Letter.pdf" size="143959" crc="861e3729" md5="bdaad857eed8cf6313bf7386cbe72272" sha1="6f9850e39cb39e236be42331d3af25f1686164ae"/>
+	</game>
+	<game name="CoCo Upgrade National Disk Magazine Issue 22 (1993)(Mid Iowa &amp; Country CoCo)[DSK]">
+		<description>CoCo Upgrade National Disk Magazine Issue 22 (1993)(Mid Iowa &amp; Country CoCo)[DSK]</description>
+		<rom name="MICC Disk List.txt" size="2859" crc="53ef2a2b" md5="e152e889ff2d94c1b23d7ad212921367" sha1="564b56bad03fdbabdde4575bd95a5b840bc66139"/>
+		<rom name="MICC-22.DSK" size="184320" crc="459e852b" md5="9eff3d368b3dad10d53166be9a3f2a4e" sha1="4b2c147a4aa7286635d1bb7990892e5b0ffec6a1"/>
+		<rom name="MICC-Envelope.tif" size="184654" crc="3a2235f0" md5="fe06c12b6949959a95ee2329de15768e" sha1="288e4f0aaaa0d60c71c26ce0e1947b4420620e72"/>
+		<rom name="MICC22.tif" size="215906" crc="f2ef81cc" md5="9ebfe29ddb3bb9d7acf8bc6a3a22ab20" sha1="98b8dc5622cc64a109d9582a0aba95d2d0caf5ab"/>
+		<rom name="MICC_Letter.pdf" size="143959" crc="861e3729" md5="bdaad857eed8cf6313bf7386cbe72272" sha1="6f9850e39cb39e236be42331d3af25f1686164ae"/>
+	</game>
+	<game name="CoCo Upgrade National Disk Magazine Issue 23 (1994)(Mid Iowa &amp; Country CoCo)[DSK]">
+		<description>CoCo Upgrade National Disk Magazine Issue 23 (1994)(Mid Iowa &amp; Country CoCo)[DSK]</description>
+		<rom name="MICC Disk List.txt" size="2859" crc="53ef2a2b" md5="e152e889ff2d94c1b23d7ad212921367" sha1="564b56bad03fdbabdde4575bd95a5b840bc66139"/>
+		<rom name="MICC-23.DSK" size="184320" crc="694227fe" md5="6b754e6bbe222243e9eb7c7162290837" sha1="e3316c13297b85937115513af7d87d3f6185bc7e"/>
+		<rom name="MICC-Envelope.tif" size="184654" crc="3a2235f0" md5="fe06c12b6949959a95ee2329de15768e" sha1="288e4f0aaaa0d60c71c26ce0e1947b4420620e72"/>
+		<rom name="MICC23.tif" size="224200" crc="4a3beb64" md5="e405fbe45c0bc0c0ce701eefe141c6c8" sha1="d8d3a157c7becf5bd8d11a0e62e763a810b2d502"/>
+		<rom name="MICC_Letter.pdf" size="143959" crc="861e3729" md5="bdaad857eed8cf6313bf7386cbe72272" sha1="6f9850e39cb39e236be42331d3af25f1686164ae"/>
+	</game>
+	<game name="CoCo Upgrade National Disk Magazine Issue 24 (1994)(Mid Iowa &amp; Country CoCo)[DSK]">
+		<description>CoCo Upgrade National Disk Magazine Issue 24 (1994)(Mid Iowa &amp; Country CoCo)[DSK]</description>
+		<rom name="MICC Disk List.txt" size="2859" crc="53ef2a2b" md5="e152e889ff2d94c1b23d7ad212921367" sha1="564b56bad03fdbabdde4575bd95a5b840bc66139"/>
+		<rom name="MICC-24.DSK" size="184320" crc="29f2beae" md5="279245538f20a91c2c236af80e23e229" sha1="9dca8ee2745eee4f7b1f4065fb6b037294d572e7"/>
+		<rom name="MICC-Envelope.tif" size="184654" crc="3a2235f0" md5="fe06c12b6949959a95ee2329de15768e" sha1="288e4f0aaaa0d60c71c26ce0e1947b4420620e72"/>
+		<rom name="MICC24.tif" size="224420" crc="d4ca669c" md5="12ed74c03f670bd092067e2f78a4f47f" sha1="64b8879a883c1affa372093b58b76650b63eb713"/>
+		<rom name="MICC_Letter.pdf" size="143959" crc="861e3729" md5="bdaad857eed8cf6313bf7386cbe72272" sha1="6f9850e39cb39e236be42331d3af25f1686164ae"/>
+	</game>
+	<game name="CoCo Upgrade National Disk Magazine Issue 25 (1994)(Mid Iowa &amp; Country CoCo)[DSK]">
+		<description>CoCo Upgrade National Disk Magazine Issue 25 (1994)(Mid Iowa &amp; Country CoCo)[DSK]</description>
+		<rom name="MICC Disk List.txt" size="2859" crc="53ef2a2b" md5="e152e889ff2d94c1b23d7ad212921367" sha1="564b56bad03fdbabdde4575bd95a5b840bc66139"/>
+		<rom name="MICC-25.1A.DSK" size="161280" crc="05708c8c" md5="3598dcae1516019d56e4d760a7317b19" sha1="9ec19bd01a3e0383f68f09b8f82795e2cd56192a"/>
+		<rom name="MICC-25.1B.DSK" size="161280" crc="9a94393d" md5="fd344c083e8be1f31cc0b157ed3bdbe8" sha1="e4bb365bb622f55b8aa1ba2c8dbeaae150ef3ed2"/>
+		<rom name="MICC-Envelope.tif" size="184654" crc="3a2235f0" md5="fe06c12b6949959a95ee2329de15768e" sha1="288e4f0aaaa0d60c71c26ce0e1947b4420620e72"/>
+		<rom name="MICC25.tif" size="235808" crc="8b2d3f92" md5="68f0a2c3dd47731859b43bd3fb7758ac" sha1="a067923c4361cb7eae448fb16030a19f64bf1f60"/>
+		<rom name="MICC_Letter.pdf" size="143959" crc="861e3729" md5="bdaad857eed8cf6313bf7386cbe72272" sha1="6f9850e39cb39e236be42331d3af25f1686164ae"/>
+	</game>
+	<game name="CoCo Upgrade National Disk Magazine Issue 26 (1994)(Mid Iowa &amp; Country CoCo)[DSK]">
+		<description>CoCo Upgrade National Disk Magazine Issue 26 (1994)(Mid Iowa &amp; Country CoCo)[DSK]</description>
+		<rom name="MICC Disk List.txt" size="2859" crc="53ef2a2b" md5="e152e889ff2d94c1b23d7ad212921367" sha1="564b56bad03fdbabdde4575bd95a5b840bc66139"/>
+		<rom name="MICC-26.1.DSK" size="184320" crc="7241cd56" md5="99e98d6c4e6a12cedb2bf0b8752416cd" sha1="8ef6c0fbbe0d0778dee2bf34ae2e06e201f20145"/>
+		<rom name="MICC-26.2.DSK" size="161280" crc="da74806c" md5="b4431efca1d5036fa1051a2a4bdae091" sha1="a13c5b9ac7b3ebf1a64118c6dfbf78bbb23e9c75"/>
+		<rom name="MICC-Envelope.tif" size="184654" crc="3a2235f0" md5="fe06c12b6949959a95ee2329de15768e" sha1="288e4f0aaaa0d60c71c26ce0e1947b4420620e72"/>
+		<rom name="MICC26.tif" size="242056" crc="a6cbc260" md5="ab0c2a9664f5c132c80feff0a2609bb6" sha1="70ccb1086e0b8adb5ec16461fac75d324dc290b3"/>
+		<rom name="MICC_Letter.pdf" size="143959" crc="861e3729" md5="bdaad857eed8cf6313bf7386cbe72272" sha1="6f9850e39cb39e236be42331d3af25f1686164ae"/>
+	</game>
+	<game name="CoCo Upgrade National Disk Magazine Issue 27 (1994)(Mid Iowa &amp; Country CoCo)[DSK]">
+		<description>CoCo Upgrade National Disk Magazine Issue 27 (1994)(Mid Iowa &amp; Country CoCo)[DSK]</description>
+		<rom name="MICC Disk List.txt" size="2859" crc="53ef2a2b" md5="e152e889ff2d94c1b23d7ad212921367" sha1="564b56bad03fdbabdde4575bd95a5b840bc66139"/>
+		<rom name="MICC-27.DSK" size="184320" crc="05cfbf2b" md5="efeccb2ad36f3e4ab44a8e7de657f74b" sha1="d7e4a5fdc96314a87a6b074fb26b4d0f48e7aabd"/>
+		<rom name="MICC-Envelope.tif" size="184654" crc="3a2235f0" md5="fe06c12b6949959a95ee2329de15768e" sha1="288e4f0aaaa0d60c71c26ce0e1947b4420620e72"/>
+		<rom name="MICC27.tif" size="238890" crc="737bafb4" md5="2c4f5fa4cc212e33965715c2b67418d5" sha1="9dfbba625064a2344d4d23fc257c5bc3c3d98f79"/>
+		<rom name="MICC_Letter.pdf" size="143959" crc="861e3729" md5="bdaad857eed8cf6313bf7386cbe72272" sha1="6f9850e39cb39e236be42331d3af25f1686164ae"/>
+	</game>
+	<game name="CoCo Upgrade National Disk Magazine Issue 28 (1994)(Mid Iowa &amp; Country CoCo)[DSK]">
+		<description>CoCo Upgrade National Disk Magazine Issue 28 (1994)(Mid Iowa &amp; Country CoCo)[DSK]</description>
+		<rom name="MICC Disk List.txt" size="2859" crc="53ef2a2b" md5="e152e889ff2d94c1b23d7ad212921367" sha1="564b56bad03fdbabdde4575bd95a5b840bc66139"/>
+		<rom name="MICC-28.DSK" size="184320" crc="fc9b01b6" md5="1388728b3d83b18768bbefafb0abfbd8" sha1="01d8830588d1cd58458e259edd71e01a63702156"/>
+		<rom name="MICC-Envelope.tif" size="184654" crc="3a2235f0" md5="fe06c12b6949959a95ee2329de15768e" sha1="288e4f0aaaa0d60c71c26ce0e1947b4420620e72"/>
+		<rom name="MICC28.tif" size="238934" crc="1aec0ed3" md5="59bdbd05975ebe8691acd56cf8ff1bc2" sha1="3d02ac07f6545bd918aff8ea48584620baeb71bd"/>
+		<rom name="MICC_Letter.pdf" size="143959" crc="861e3729" md5="bdaad857eed8cf6313bf7386cbe72272" sha1="6f9850e39cb39e236be42331d3af25f1686164ae"/>
+	</game>
+	<game name="CoCo Upgrade National Disk Magazine Issue 32 (1995)(Mid Iowa &amp; Country CoCo)[DSK]">
+		<description>CoCo Upgrade National Disk Magazine Issue 32 (1995)(Mid Iowa &amp; Country CoCo)[DSK]</description>
+		<rom name="MICC Disk List.txt" size="2859" crc="53ef2a2b" md5="e152e889ff2d94c1b23d7ad212921367" sha1="564b56bad03fdbabdde4575bd95a5b840bc66139"/>
+		<rom name="MICC-32A.DSK" size="161280" crc="69e13d17" md5="1e636c31646a049e32fae931f40d62ec" sha1="d8338e6d40567fe4f880d7289a2a2bd68c73793c"/>
+		<rom name="MICC-32B.DSK" size="161280" crc="441317b9" md5="670d25798501a8143af225bc80f18145" sha1="8f34d2eafc7176f61b57c9389bc100529db3e58e"/>
+		<rom name="MICC-Envelope.tif" size="184654" crc="3a2235f0" md5="fe06c12b6949959a95ee2329de15768e" sha1="288e4f0aaaa0d60c71c26ce0e1947b4420620e72"/>
+		<rom name="MICC32.tif" size="249808" crc="31806b5a" md5="ee14a8d10b7579fb748f59d07e347461" sha1="8357fca30bd83a7be8d7a6adaede1f5a8dbc69e8"/>
+		<rom name="MICC_Letter.pdf" size="143959" crc="861e3729" md5="bdaad857eed8cf6313bf7386cbe72272" sha1="6f9850e39cb39e236be42331d3af25f1686164ae"/>
+	</game>
+	<game name="CoCo Upgrade National Disk Magazine Issue 33 (1995)(Mid Iowa &amp; Country CoCo)[TIF]">
+		<description>CoCo Upgrade National Disk Magazine Issue 33 (1995)(Mid Iowa &amp; Country CoCo)[TIF]</description>
+		<rom name="MICC-33.tif" size="389956" crc="3a15f8f7" md5="f7f797b0d2cc9818c762013dc43a9976" sha1="7665ff47c76460e5d0b0ae0e97a9264b6e5bfba0"/>
+		<rom name="MICC-Envelope.tif" size="184654" crc="3a2235f0" md5="fe06c12b6949959a95ee2329de15768e" sha1="288e4f0aaaa0d60c71c26ce0e1947b4420620e72"/>
+	</game>
+	<game name="CoCo Upgrade National Disk Magazine Issue 34 (1994)(Mid Iowa &amp; Country CoCo)[DSK]">
+		<description>CoCo Upgrade National Disk Magazine Issue 34 (1994)(Mid Iowa &amp; Country CoCo)[DSK]</description>
+		<rom name="MICC Disk List.txt" size="2859" crc="53ef2a2b" md5="e152e889ff2d94c1b23d7ad212921367" sha1="564b56bad03fdbabdde4575bd95a5b840bc66139"/>
+		<rom name="MICC-34A.DSK" size="161280" crc="0b2b35d2" md5="b5c90c0ecdc08621f3afa199be29e183" sha1="70ffcb5f04cffdda5cd02775e9981851e7da6a20"/>
+		<rom name="MICC-34B.DSK" size="161280" crc="9a4308da" md5="155ba7b2df65b3ca99559be242272a2b" sha1="a6d3f672fbd68b3c15989e5a7bdd12552fbe92b5"/>
+		<rom name="MICC-Envelope.tif" size="184654" crc="3a2235f0" md5="fe06c12b6949959a95ee2329de15768e" sha1="288e4f0aaaa0d60c71c26ce0e1947b4420620e72"/>
+		<rom name="MICC34.tif" size="239824" crc="3a74549a" md5="89a22e661b66d319045e59dac46ec7e8" sha1="11eda4f7aaad19abcf86759022220b6103affad3"/>
+		<rom name="MICC_Letter.pdf" size="143959" crc="861e3729" md5="bdaad857eed8cf6313bf7386cbe72272" sha1="6f9850e39cb39e236be42331d3af25f1686164ae"/>
+	</game>
+	<game name="CoCo Upgrade National Disk Magazine Issue 35 (1994)(Mid Iowa &amp; Country CoCo)[DSK]">
+		<description>CoCo Upgrade National Disk Magazine Issue 35 (1994)(Mid Iowa &amp; Country CoCo)[DSK]</description>
+		<rom name="MICC Disk List.txt" size="2859" crc="53ef2a2b" md5="e152e889ff2d94c1b23d7ad212921367" sha1="564b56bad03fdbabdde4575bd95a5b840bc66139"/>
+		<rom name="MICC-35A.DSK" size="161280" crc="b7744b31" md5="e5dbfbe5266f97681afd842ec671a467" sha1="25da4237cb5f7c2b8f812f71647b0484ea0a1ca4"/>
+		<rom name="MICC-35B.DSK" size="161280" crc="59504bb2" md5="ac0fd342b6b0858cc938d556124caa35" sha1="07b4f2bd05fb180c51f662f6ecbdb69a45a88db1"/>
+		<rom name="MICC-Envelope.tif" size="184654" crc="3a2235f0" md5="fe06c12b6949959a95ee2329de15768e" sha1="288e4f0aaaa0d60c71c26ce0e1947b4420620e72"/>
+		<rom name="MICC35.tif" size="240064" crc="56a5fc6c" md5="b6b6177ac93bb90a86d44e3257b97572" sha1="b598e2d169e1bf0423e4ae303eaaf29f050bf8b6"/>
+		<rom name="MICC_Letter.pdf" size="143959" crc="861e3729" md5="bdaad857eed8cf6313bf7386cbe72272" sha1="6f9850e39cb39e236be42331d3af25f1686164ae"/>
+	</game>
+	<game name="CoCo Upgrade National Disk Magazine Issue 36 (1994)(Mid Iowa &amp; Country CoCo)[DSK]">
+		<description>CoCo Upgrade National Disk Magazine Issue 36 (1994)(Mid Iowa &amp; Country CoCo)[DSK]</description>
+		<rom name="MICC Disk List.txt" size="2859" crc="53ef2a2b" md5="e152e889ff2d94c1b23d7ad212921367" sha1="564b56bad03fdbabdde4575bd95a5b840bc66139"/>
+		<rom name="MICC-36.1A.DSK" size="161280" crc="813250f6" md5="46002666589dc216ba33c83e5e76ca87" sha1="806298cee46a62b61270e2b202ff9c13e9298440"/>
+		<rom name="MICC-36.1B.DSK" size="161280" crc="ec18c18c" md5="20eded4b51bdf2526195207c841db38e" sha1="e950a8d9d3d43ec26915da9ae44abf84b271ea00"/>
+		<rom name="MICC-36.2.DSK" size="161280" crc="ec18c18c" md5="20eded4b51bdf2526195207c841db38e" sha1="e950a8d9d3d43ec26915da9ae44abf84b271ea00"/>
+		<rom name="MICC-Envelope.tif" size="184654" crc="3a2235f0" md5="fe06c12b6949959a95ee2329de15768e" sha1="288e4f0aaaa0d60c71c26ce0e1947b4420620e72"/>
+		<rom name="MICC36.tif" size="230520" crc="c9d45a85" md5="38c92d7ea186a65b6b5f952ca9f99517" sha1="f3a0e3ef7c6f139056dd2ac75f941ed9c4da195f"/>
+		<rom name="MICC_Letter.pdf" size="143959" crc="861e3729" md5="bdaad857eed8cf6313bf7386cbe72272" sha1="6f9850e39cb39e236be42331d3af25f1686164ae"/>
+	</game>
+	<game name="CoCo Upgrade National Disk Magazine Issue 37 (1994)(Mid Iowa &amp; Country CoCo)[DSK]">
+		<description>CoCo Upgrade National Disk Magazine Issue 37 (1994)(Mid Iowa &amp; Country CoCo)[DSK]</description>
+		<rom name="MICC Disk List.txt" size="2859" crc="53ef2a2b" md5="e152e889ff2d94c1b23d7ad212921367" sha1="564b56bad03fdbabdde4575bd95a5b840bc66139"/>
+		<rom name="MICC-37.1A.DSK" size="161280" crc="5388c894" md5="cc1d94624a589f445978320a9c102b52" sha1="5cac95a786af45f803eb27ef2d83b596ca35b6d3"/>
+		<rom name="MICC-37.1B.DSK" size="161280" crc="2981f1e9" md5="ad9dce5ee83b77113ff08046db3f73e6" sha1="941303fb1d3e137abf8d8d381015bfff6d4e37a0"/>
+		<rom name="MICC-37.2A.DSK" size="161280" crc="45fa5fac" md5="5a6aafd271320696c959dec15537922b" sha1="f566e5ff81282db72e107f4cfb7c8565368beec9"/>
+		<rom name="MICC-37.2B.DSK" size="161280" crc="286c60fd" md5="2a9e8e70185d63d7a4a31f8ee62d607e" sha1="3701214d865876855e94b2968b8a63365793ea69"/>
+		<rom name="MICC-Envelope.tif" size="184654" crc="3a2235f0" md5="fe06c12b6949959a95ee2329de15768e" sha1="288e4f0aaaa0d60c71c26ce0e1947b4420620e72"/>
+		<rom name="MICC37.1.tif" size="239152" crc="54d9d51c" md5="988f4bb8791571ae0c8092183d2702c5" sha1="2d3f53c7beb2a59a3299a9450ee5f0689b0e63ff"/>
+		<rom name="MICC37.2.tif" size="31002" crc="4b5b5afd" md5="daed4504c42198aca04885ed2f9e5096" sha1="c1f6f6d2662531a537b2c20f2b5b04fdd590a287"/>
+		<rom name="MICC_Letter.pdf" size="143959" crc="861e3729" md5="bdaad857eed8cf6313bf7386cbe72272" sha1="6f9850e39cb39e236be42331d3af25f1686164ae"/>
+	</game>
+	<game name="Nine-Times Disk Magazine (1990)(JWT Enterprises)[DSK]">
+		<description>Nine-Times Disk Magazine (1990)(JWT Enterprises)[DSK]</description>
+		<rom name="9TIM0191.DSK" size="184320" crc="a4a743ed" md5="e5ba1b1daa9709cb31b6b1e120ef961f" sha1="94994a51d216b877d7a1dc3037df7e99033e2323"/>
+		<rom name="9TIM0391.DSK" size="184320" crc="9dc7a2d3" md5="d72a6e14153940429cd915c562f97093" sha1="75d98cb70bdcbd261980cc21f936af05dd1285fb"/>
+		<rom name="9TIM0591.DSK" size="184320" crc="6b727a5b" md5="55c0c59beca2447045b9a1d03c0a3f99" sha1="fc65891d5230ec91156419d662292bbce24f8853"/>
+		<rom name="9TIM0791.DSK" size="184320" crc="7bb9af61" md5="7fa941024e82783b65b35d9d71881feb" sha1="0dd92f6cfb73be4a702d39035af50610f241f018"/>
+		<rom name="9TIM0990.DSK" size="184320" crc="faf1d114" md5="40484d8c40cca76a10796a92b0aee5e9" sha1="112e3de8baa17515e54901a1eb1f4754364803b6"/>
+		<rom name="9TIM1190.DSK" size="184320" crc="1e73acc9" md5="891148ba886227082f2a1991d4f46946" sha1="9692b4c783e6bab21759e9300a0c69405efa51e0"/>
+		<rom name="Icon_" size="0" crc=""/>
+		<rom name="NineTimes_Issues.txt" size="823" crc="00c84803" md5="9206ea2bbd1a4c121d69f979da0336ff" sha1="36b1618f219658dcd44e004653d0812ad08b8f67"/>
+		<rom name="NineTimesDoc.pdf" size="379745" crc="d3601074" md5="f422e69b1ea7190c5369b3c08af2623a" sha1="8cc835da6d62b62242e514e4d69cd3f0ff8f062f"/>
+		<rom name="NINETME1.os9" size="737280" crc="4e2fcd74" md5="4a4eff44d8a51f0ccd1f23618a091971" sha1="e1e2fdef91f1b356a396b01afca34584032d5cf2"/>
+		<rom name="NINETME2.os9" size="737280" crc="db65ab24" md5="e046d27faf0008af500345f95b841c8f" sha1="64c926f49129dab785082664e04daae087a76177"/>
+		<rom name="NINETME3.os9" size="737280" crc="f899b3c3" md5="0f4620d55bf604a189bb08f3c640d957" sha1="c697f0a656a8f96b2eee5ec7a9d61f30ef0476ae"/>
+		<rom name="NINETME4.os9" size="737280" crc="5c24efb3" md5="206298e2bb71a4c5b049b0f514903db4" sha1="b3c0dc2632fc158e635eaf0b5abd424c57dbc41b"/>
+		<rom name="NINETME5.os9" size="737280" crc="d5ce647f" md5="c707b59fee8941c4bd7e2a59d2858aab" sha1="9cd833a2d7d360f2888cf24be3a9be63b7f5935c"/>
+		<rom name="NINETME6.os9" size="737280" crc="6eb8f6ba" md5="5cc16ec58ab0b87a67db9f9d38b30629" sha1="0a0f518d684dab51ba458ae2725f508ab3fbf478"/>
+		<rom name="NINETME7.os9" size="737280" crc="bf7b830d" md5="ad02d2c145c69ce797a4ac1545e80e61" sha1="ce80e206e2267a3c82d7f386cbdfae939d7519c6"/>
+		<rom name="NINETME8.os9" size="737280" crc="098ff621" md5="621d45b96b98e0e6667dec83229be642" sha1="470edda443f5f105ff0cb2a3491e4f8bc7bac2f0"/>
+	</game>
+</datafile>

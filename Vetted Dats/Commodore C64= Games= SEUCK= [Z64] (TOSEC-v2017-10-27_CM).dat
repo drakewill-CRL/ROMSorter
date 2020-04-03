@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Games - SEUCK - [Z64]</name>
+		<description>Commodore C64 - Games - SEUCK - [Z64] (TOSEC-v2017-10-27)</description>
+		<category>TOSEC</category>
+		<version>2017-10-27</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Mayday (19xx)(Magic Disk)[cr DMX+TRS+SCS][t +2 DMX]">
+		<description>Mayday (19xx)(Magic Disk)[cr DMX+TRS+SCS][t +2 DMX]</description>
+		<rom name="1!Mayday (19xx)(Magic Disk)[cr DMX+TRS+SCS][t +2 DMX].z64" size="1516" crc="3c563a70" md5="23256b36f8815e07997cb84e2c77d601" sha1="b19ebbc8bdc0e71e1a0d83a1846c40d6fcd7073d"/>
+		<rom name="2!Mayday (19xx)(Magic Disk)[cr DMX+TRS+SCS][t +2 DMX].z64" size="25916" crc="3ffd7f45" md5="bf45b5de2672c36480c21f1fe06f4429" sha1="70292efc8bb18b1c861defe8b3fe1cbfe44e5fd0"/>
+		<rom name="3!Mayday (19xx)(Magic Disk)[cr DMX+TRS+SCS][t +2 DMX].z64" size="31220" crc="375ae0b4" md5="2e7e1f63aee186336e052665a8a5b3c8" sha1="e034274f15c1595e52234185c9ad75c149dcdfbd"/>
+		<rom name="4!Mayday (19xx)(Magic Disk)[cr DMX+TRS+SCS][t +2 DMX].z64" size="1577" crc="48a155aa" md5="54f0c27c1571123e630a9a1b7107efc8" sha1="533d8a1a40b950ed0aa4071e0d96ebafed9652cc"/>
+	</game>
+</datafile>

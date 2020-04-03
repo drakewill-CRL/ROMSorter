@@ -69,7 +69,7 @@ namespace RomDatabase
             {
                 if (zipInsteadOfMove)
                 {
-                    CreateSingleZip(file, topFolder + "\\" + game.console + "\\" + game.name);
+                    CreateSingleZip(file, topFolder + "\\" + game.console + "\\" + game.name + ".zip");
                 }
                 else
                     MoveFile(topFolder + "\\" + game.console, file, game.name);
@@ -147,7 +147,14 @@ namespace RomDatabase
 
         static void CreateSingleZip(string file, string zipPath)
         {
-            FileStream fs = new FileStream(zipPath, FileMode.CreateNew);
+            FileStream fs;
+            if (!File.Exists(zipPath))
+            {
+                fs = new FileStream(zipPath, FileMode.CreateNew);
+            }
+            else
+                return; //We arent going to handle dupes.
+
             ZipArchive zf = new ZipArchive(fs, ZipArchiveMode.Create);
 
             zf.CreateEntryFromFile(file, Path.GetFileName(file));
@@ -157,9 +164,10 @@ namespace RomDatabase
             fs.Dispose();
         }
 
+
         static void HandleMutiFileZip(string file, string zipPath)
         {
-            FileStream fs = new FileStream(zipPath, FileMode.CreateNew);
+            FileStream fs = new FileStream(zipPath, FileMode.OpenOrCreate);
             ZipArchive zf = new ZipArchive(fs, ZipArchiveMode.Update);
 
             zf.CreateEntryFromFile(file, Path.GetFileName(file));

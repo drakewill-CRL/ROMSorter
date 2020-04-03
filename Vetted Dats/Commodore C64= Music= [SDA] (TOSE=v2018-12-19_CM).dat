@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Music - [SDA]</name>
+		<description>Commodore C64 - Music - [SDA] (TOSEC-v2018-12-19)</description>
+		<category>TOSEC</category>
+		<version>2018-12-19</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Sound-Sample 5 (1986-03-15)(Winterberg, Michael)">
+		<description>Sound-Sample 5 (1986-03-15)(Winterberg, Michael)</description>
+		<rom name="Sound-Sample 5 (1986-03-15)(Winterberg, Michael).sda" size="9984" crc="8a79ef58" md5="a513d4bbb955918abdbea81ead1a7cc9" sha1="d240a0513d3969b73fbac9ca9ecb6208c413b75e"/>
+	</game>
+	<game name="Sound-Sample 5 (1986-03-15)(Winterberg, Michael)[a]">
+		<description>Sound-Sample 5 (1986-03-15)(Winterberg, Michael)[a]</description>
+		<rom name="Sound-Sample 5 (1986-03-15)(Winterberg, Michael)[a].sda" size="10240" crc="0351f93e" md5="8298dc14978459569106c768ba17b00f" sha1="e2a2962c7737c3745e42217b5777ca3b779b96f7"/>
+	</game>
+</datafile>

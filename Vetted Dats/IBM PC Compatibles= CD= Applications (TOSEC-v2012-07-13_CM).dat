@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>IBM PC Compatibles - CD - Applications</name>
+		<description>IBM PC Compatibles - CD - Applications (TOSEC-v2012-07-13)</description>
+		<category>TOSEC-ISO</category>
+		<version>2012-07-13</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Adobe InDesign v1.0 (1999)(Adobe)">
+		<description>Adobe InDesign v1.0 (1999)(Adobe)</description>
+		<rom name="Adobe InDesign v1.0 (1999)(Adobe).cue" size="122" crc="e54da653" md5="265c7dc57e546d10bd5f98a247c7d236" sha1="f006411678c0737450dcf0b2f9e1571b4b3e6962"/>
+		<rom name="Adobe InDesign v1.0 (1999)(Adobe).iso" size="246644736" crc="97763b40" md5="d6a0fed4cd49b64cf92f193a8bc9a8f6" sha1="93707cf5f53fd5506237a491022441a238c4ec1f"/>
+	</game>
+	<game name="Adobe Photoshop v6.0 Upgrade (2000)(Adobe)">
+		<description>Adobe Photoshop v6.0 Upgrade (2000)(Adobe)</description>
+		<rom name="Adobe Photoshop v6.0 Upgrade (2000)(Adobe).cue" size="131" crc="0c87efe4" md5="f4761c96b2e580c2cb3b6fe335b3877a" sha1="9774cb02d55cafdb746633fd54d18d15f49a6408"/>
+		<rom name="Adobe Photoshop v6.0 Upgrade (2000)(Adobe).iso" size="479375360" crc="e217b1a8" md5="d70bff833fbd8165e3c19baad833b695" sha1="d9f2570c9f7bd762a46100919f601e9ea8b03e43"/>
+	</game>
+	<game name="Microsoft Money 98 (1997)(Microsoft)[OEM]">
+		<description>Microsoft Money 98 (1997)(Microsoft)[OEM]</description>
+		<rom name="Microsoft Money 98 (1997)(Microsoft)[OEM].cue" size="130" crc="63357ec5" md5="1d7c13288fc21fe5b7b062e009a5cbb4" sha1="8bedfd21030679788f872a839be5b56da57014ec"/>
+		<rom name="Microsoft Money 98 (1997)(Microsoft)[OEM].iso" size="46551040" crc="fd373e82" md5="c72c6b20585756568be33e62a79f2270" sha1="ad2022e4838c347b15b65027d34cdc1629ff0b2f"/>
+	</game>
+	<game name="Microsoft Office 2000 Premium SR-1 Patch (2000-02)(Microsoft)">
+		<description>Microsoft Office 2000 Premium SR-1 Patch (2000-02)(Microsoft)</description>
+		<rom name="Microsoft Office 2000 Premium SR-1 Patch (2000-02)(Microsoft).cue" size="150" crc="38e74822" md5="5f4335e07550496283075a1b3d5da1e1" sha1="de14bc4974e4e1155b476bc23dd256c25f981aca"/>
+		<rom name="Microsoft Office 2000 Premium SR-1 Patch (2000-02)(Microsoft).iso" size="352239616" crc="5559f70b" md5="6fb092004b4a7e82fe55b1da146a263f" sha1="11dd6f4afa79239b6284db3eab7774560b38ce2d"/>
+	</game>
+	<game name="Microsoft Office 97 Developer Edition Tools (1996)(Microsoft)">
+		<description>Microsoft Office 97 Developer Edition Tools (1996)(Microsoft)</description>
+		<rom name="Microsoft Office 97 Developer Edition Tools (1996)(Microsoft).cue" size="150" crc="237b2a62" md5="1e61565b7b7ed60d969d5f40f3827b6c" sha1="f8321c2b0ca695da37341cc8e6c891f91866e2ab"/>
+		<rom name="Microsoft Office 97 Developer Edition Tools (1996)(Microsoft).iso" size="373506048" crc="e6227e4a" md5="d868a0fda7df9daf0a43b97aa61f0aff" sha1="2853d2edd943300d78027b52a17078a9f7d9dbb6"/>
+	</game>
+	<game name="Microsoft Office 97 SR-2 Patch (1998-05)(Microsoft)">
+		<description>Microsoft Office 97 SR-2 Patch (1998-05)(Microsoft)</description>
+		<rom name="Microsoft Office 97 SR-2 Patch (1998-05)(Microsoft).cue" size="140" crc="34f24a7e" md5="45e459c05c02c7b2f34bac4ef939eb6c" sha1="b582336fbfc03a6b13692079caca23adb8010cd5"/>
+		<rom name="Microsoft Office 97 SR-2 Patch (1998-05)(Microsoft).iso" size="145119232" crc="9daccc5d" md5="2ae4325fa8d976a140106eb043195de4" sha1="bc6c7a5f425d1c64226040f31e2f6d5529073b47"/>
+	</game>
+	<game name="Microsoft Publisher 97 (1996)(Microsoft)">
+		<description>Microsoft Publisher 97 (1996)(Microsoft)</description>
+		<rom name="Microsoft Publisher 97 (1996)(Microsoft).cue" size="129" crc="33cc90cc" md5="f7d0d73131e835f6b2e67b8b487d6d5e" sha1="ab38770a78606c62eae2a1b65077913081bc79af"/>
+		<rom name="Microsoft Publisher 97 (1996)(Microsoft).iso" size="138551296" crc="f1f65258" md5="cb72ab7336fede8342fa954d25d481a1" sha1="36b440255a9a818a7c53c37a33c524acc421daba"/>
+	</game>
+	<game name="Microsoft Publisher 98 (1997)(Microsoft)">
+		<description>Microsoft Publisher 98 (1997)(Microsoft)</description>
+		<rom name="Microsoft Publisher 98 (1997)(Microsoft).cue" size="129" crc="dec73e7f" md5="c4a157053c6ebfa852278af08175c84f" sha1="d2205e481f51e95e3e7d98abd023857224126dff"/>
+		<rom name="Microsoft Publisher 98 (1997)(Microsoft).iso" size="431271936" crc="fdfa28a7" md5="a7303edc10c632bd4f3fce11f763c6dd" sha1="071f607928476cd508cd59514972755337d0a964"/>
+	</game>
+	<game name="Microsoft Publisher 98 Upgrade (1998)(Microsoft)">
+		<description>Microsoft Publisher 98 Upgrade (1998)(Microsoft)</description>
+		<rom name="Microsoft Publisher 98 Upgrade (1998)(Microsoft).cue" size="137" crc="9e658948" md5="6dc919fcaa9eb1583005f305fa0e44ab" sha1="d5b2841700b744310e89c6d0e7652650ac6f6957"/>
+		<rom name="Microsoft Publisher 98 Upgrade (1998)(Microsoft).iso" size="453595136" crc="0dca6ab8" md5="fba8f155320e2efcd1ab829070476cb1" sha1="2a357313da058ec73a1a9917fab11cc30019db2f"/>
+	</game>
+	<game name="Microsoft Works &amp; Microsoft Money (1995)(Microsoft)[OEM]">
+		<description>Microsoft Works &amp; Microsoft Money (1995)(Microsoft)[OEM]</description>
+		<rom name="Microsoft Works &amp; Microsoft Money (1995)(Microsoft)[OEM].cue" size="145" crc="26675de3" md5="75b2f8eeec31a0de7a6a1d4d3b5d7f9e" sha1="bf54e0851494d33418fbd671adb6fe265652059a"/>
+		<rom name="Microsoft Works &amp; Microsoft Money (1995)(Microsoft)[OEM].iso" size="434831360" crc="bc691d34" md5="7e3cbd3b833b81f4cb971dfa80155313" sha1="fd6ee132b21b8a6fe4c53009b13c1c24af4382c5"/>
+	</game>
+	<game name="Microsoft Works v3 (1993)(Microsoft)[OEM]">
+		<description>Microsoft Works v3 (1993)(Microsoft)[OEM]</description>
+		<rom name="Microsoft Works v3 (1993)(Microsoft)[OEM].cue" size="130" crc="f11e680a" md5="342df4cc217d84eedc0f80e5a14084e8" sha1="5d61f8b1850e887268d39f5513dc96d1c427f1b1"/>
+		<rom name="Microsoft Works v3 (1993)(Microsoft)[OEM].iso" size="61681664" crc="5b8a8ae0" md5="07887c2e156f607b949d7b1db49b1bff" sha1="b9fd9a2a38a398b7d4ea5f910cbe882c4fe19695"/>
+	</game>
+	<game name="PC Paintbrush Photo Library Volume 1 (1994)(Softkey)">
+		<description>PC Paintbrush Photo Library Volume 1 (1994)(Softkey)</description>
+		<rom name="PC Paintbrush Photo Library Volume 1 (1994)(Softkey).cue" size="141" crc="7c2da36f" md5="94e9a2730525b0e5ada888d4ed8a3eaf" sha1="7a87ed7939055b167c8ae73ca341bc9099fe0109"/>
+		<rom name="PC Paintbrush Photo Library Volume 1 (1994)(Softkey).iso" size="678305792" crc="557f460a" md5="8fcf6c0604c8704461b36fa37ce882a1" sha1="74680e186d2bba1b8bfccd2a01d414f582ffb2c9"/>
+	</game>
+	<game name="WinFax Pro v9.0 (1998)(Symantec)">
+		<description>WinFax Pro v9.0 (1998)(Symantec)</description>
+		<rom name="WinFax Pro v9.0 (1998)(Symantec).cue" size="121" crc="d4230402" md5="aa1c73ca3874d52d3b15a6b7d874e09c" sha1="3c390f082f1b1684012354501cd77a7580eab1d2"/>
+		<rom name="WinFax Pro v9.0 (1998)(Symantec).iso" size="211888128" crc="84603b12" md5="6a2fb7ede0f432bcfdf307d7cc9b9acd" sha1="851638c32a87fcbf132c2e0dc0c8bbb9c0c2720a"/>
+	</game>
+</datafile>

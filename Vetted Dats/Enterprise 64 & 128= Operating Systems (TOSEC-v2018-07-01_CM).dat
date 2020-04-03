@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Enterprise 64 &amp; 128 - Operating Systems</name>
+		<description>Enterprise 64 &amp; 128 - Operating Systems (TOSEC-v2018-07-01)</description>
+		<category>TOSEC</category>
+		<version>2018-07-01</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="IS-DOS (198x)(Intelligent Software)">
+		<description>IS-DOS (198x)(Intelligent Software)</description>
+		<rom name="IS-DOS (198x)(Intelligent Software).img" size="737280" crc="546afadf" md5="ba4e026d9368b74fa8e24e919acbdc78" sha1="d827a8cb74ebf243f061b653bb82b3ca722d4a65"/>
+	</game>
+	<game name="IS-DOS v1.0 (1985)(Intelligent Software)">
+		<description>IS-DOS v1.0 (1985)(Intelligent Software)</description>
+		<rom name="IS-DOS v1.0 (1985)(Intelligent Software).img" size="737280" crc="19db0f63" md5="8f0ab9fb1f46c113c6ab56a5d55c0b99" sha1="3842ff90a0930013e23b6e24a770ca1e8694855d"/>
+	</game>
+</datafile>

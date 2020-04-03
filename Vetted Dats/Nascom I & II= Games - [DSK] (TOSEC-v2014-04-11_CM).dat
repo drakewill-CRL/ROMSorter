@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nascom I &amp; II - Games - [DSK]</name>
+		<description>Nascom I &amp; II - Games - [DSK] (TOSEC-v2014-04-11)</description>
+		<category>TOSEC</category>
+		<version>2014-04-11</version>
+		<author>Grendel - Cid - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Adventure (1983)(Espley, Richard)">
+		<description>Adventure (1983)(Espley, Richard)</description>
+		<rom name="Adventure (1983)(Espley, Richard).dsk" size="655360" crc="bd37aa35" md5="c0f20c1b183ec09cc7b41cdd62bab175" sha1="b9483567951830955c6fe944c934c5b3ddf2007c"/>
+	</game>
+	<game name="Asteroids (1985)(Espley, Richard)">
+		<description>Asteroids (1985)(Espley, Richard)</description>
+		<rom name="Asteroids (1985)(Espley, Richard).dsk" size="655360" crc="96d6b7b6" md5="46da8b82caa0c5e0b09bc4315009d5ab" sha1="ecf667413ec6fdec7a421ececcf572a00354ff10"/>
+	</game>
+</datafile>

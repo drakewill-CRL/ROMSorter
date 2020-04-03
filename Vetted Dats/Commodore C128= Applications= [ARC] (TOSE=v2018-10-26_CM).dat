@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C128 - Applications - [ARC]</name>
+		<description>Commodore C128 - Applications - [ARC] (TOSEC-v2018-10-26)</description>
+		<category>TOSEC</category>
+		<version>2018-10-26</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="1581 Manipulator v2 (1990-03-20)(Geoff Sullivan)[40-80 column]">
+		<description>1581 Manipulator v2 (1990-03-20)(Geoff Sullivan)[40-80 column]</description>
+		<rom name="1581 Manipulator v2 (1990-03-20)(Geoff Sullivan)[40-80 column].arc" size="22606" crc="669e4f30" md5="318a6b868d93da12c855cf967d98d3a8" sha1="9a692c5e581ecb979a96f1c27438eb65e9f47121"/>
+	</game>
+	<game name="1581 Manipulator v2 (1990-03-20)(Geoff Sullivan)[a][40-80 column]">
+		<description>1581 Manipulator v2 (1990-03-20)(Geoff Sullivan)[a][40-80 column]</description>
+		<rom name="1581 Manipulator v2 (1990-03-20)(Geoff Sullivan)[a][40-80 column].arc" size="22656" crc="deb34f45" md5="0f6a6737869cdc6a0768dad8a4c71792" sha1="de7c35eb4f7ed247fdabc7df0f380e388f997606"/>
+	</game>
+	<game name="1581 Manipulator v2 (1990-03-20)(Geoff Sullivan)[a2][40-80 column]">
+		<description>1581 Manipulator v2 (1990-03-20)(Geoff Sullivan)[a2][40-80 column]</description>
+		<rom name="1581 Manipulator v2 (1990-03-20)(Geoff Sullivan)[a2][40-80 column].arc" size="22657" crc="d46ae9dd" md5="7969017384e389fcf0d1eea486dc6672" sha1="477e3a9e86b5c07538e5899f81ca5375d8bc681e"/>
+	</game>
+	<game name="Disk Whiz 128 v1.1 (1987-07-30)(Kevin Hisel)(SW)[80 column]">
+		<description>Disk Whiz 128 v1.1 (1987-07-30)(Kevin Hisel)(SW)[80 column]</description>
+		<rom name="Disk Whiz 128 v1.1 (1987-07-30)(Kevin Hisel)(SW)[80 column].arc" size="10160" crc="f21dd83f" md5="0f6e217f728f85188caf858acd37ac13" sha1="a91aeef65bd6beb426ef6a882e594c0ec96ff6bd"/>
+	</game>
+	<game name="LHARC 128 (19xx)(-)">
+		<description>LHARC 128 (19xx)(-)</description>
+		<rom name="LHARC 128 (19xx)(-).arc" size="63104" crc="a3c21c0f" md5="d1e9e804c807775f074fbe614f045cbc" sha1="752c9a5e8aecca940c016d351fa6b43da2f886b0"/>
+	</game>
+	<game name="LHARC 128 (19xx)(-)[a]">
+		<description>LHARC 128 (19xx)(-)[a]</description>
+		<rom name="LHARC 128 (19xx)(-)[a].arc" size="62992" crc="fc17ace5" md5="65a4db417c29493669559354cf032cb6" sha1="f7a764fe3c7b7d7cc58e9b1eeb877bd3e8359969"/>
+	</game>
+	<game name="New 128 SID Player, The (1988-06)(James Derry)">
+		<description>New 128 SID Player, The (1988-06)(James Derry)</description>
+		<rom name="New 128 SID Player, The (1988-06)(James Derry).arc" size="12032" crc="d2275480" md5="2fcc3f24afbf60746d79b96bf3211eac" sha1="2c29f5dd3753ab6d8518ac3cb9a5f724ce0af108"/>
+	</game>
+	<game name="Sound Studio 128 V3.71 (1994-09)(Digital Audio Concepts)[80 column]">
+		<description>Sound Studio 128 V3.71 (1994-09)(Digital Audio Concepts)[80 column]</description>
+		<rom name="Sound Studio 128 V3.71 (1994-09)(Digital Audio Concepts)[80 column].arc" size="49536" crc="5d4afd92" md5="33bbfa7e9ff86bc3711bc445cbc08005" sha1="ebfea002d2e1afa20bb7bc6d508f1a0df800f58b"/>
+	</game>
+	<game name="Unicopy v1.0 (19xx)(Butterfield, Jim)">
+		<description>Unicopy v1.0 (19xx)(Butterfield, Jim)</description>
+		<rom name="Unicopy v1.0 (19xx)(Butterfield, Jim).arc" size="2032" crc="e6f5ee89" md5="6d275840ef128a200056c93c0d06dedf" sha1="2cf802a198dc1fa19428fc40e0450f69a716a013"/>
+	</game>
+</datafile>

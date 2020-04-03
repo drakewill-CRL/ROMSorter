@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>PTC Sol Terminal Computer SOL-20 - Various - [LIB]</name>
+		<description>PTC Sol Terminal Computer SOL-20 - Various - [LIB] (TOSEC-v2011-08-31)</description>
+		<category>TOSEC</category>
+		<version>2011-08-31</version>
+		<author>Cid - Gnomula - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Character Fill (19xx)(-)">
+		<description>Character Fill (19xx)(-)</description>
+		<rom name="Character Fill (19xx)(-).lib" size="732" crc="8eb34243" md5="0cef8c311fca7b795c8e66a2d9698357" sha1="e80ee0f32983f006d6f7aaf1b7db9ee07a014823"/>
+	</game>
+	<game name="Comparision Equal Logical (19xx)(-)">
+		<description>Comparision Equal Logical (19xx)(-)</description>
+		<rom name="Comparision Equal Logical (19xx)(-).lib" size="2424" crc="84d08ea5" md5="df581941117b2de8c2f6be9eb010743c" sha1="a44c2f42c623c50d5a27fb4994e0709ce2b6d600"/>
+	</game>
+	<game name="Comparision LE and GE of Two Operands (19xx)(-)">
+		<description>Comparision LE and GE of Two Operands (19xx)(-)</description>
+		<rom name="Comparision LE and GE of Two Operands (19xx)(-).lib" size="2133" crc="30ec54fc" md5="1353864cc6bd4ecfb76761f3c2ed0aba" sha1="38456395a628467cbaea5e28a2d30ac7b2205f65"/>
+	</game>
+	<game name="Comparision LE and LT of Two Operands (19xx)(-)">
+		<description>Comparision LE and LT of Two Operands (19xx)(-)</description>
+		<rom name="Comparision LE and LT of Two Operands (19xx)(-).lib" size="2579" crc="a8939088" md5="cf76eac1d2bb658ecdef3377772b0dfd" sha1="b7e0e84daf280f8545bf92dbc3dd8a9c9d27c872"/>
+	</game>
+	<game name="Comparision LT and GT of Two Operands (19xx)(-)">
+		<description>Comparision LT and GT of Two Operands (19xx)(-)</description>
+		<rom name="Comparision LT and GT of Two Operands (19xx)(-).lib" size="2125" crc="c592cf69" md5="131d777f7c31a975f0177a64c265dd80" sha1="7bf946a101d10217d7c5bee929c835441137a103"/>
+	</game>
+	<game name="CP-M Subroutine (19xx)(-)">
+		<description>CP-M Subroutine (19xx)(-)</description>
+		<rom name="CP-M Subroutine (19xx)(-).lib" size="4202" crc="3ed48580" md5="de43ed14105bbe68516c7fe3421eee2d" sha1="909e38393d60a1c7c663b5197686f70688b951a9"/>
+	</game>
+	<game name="Divide Subroutine (19xx)(-)">
+		<description>Divide Subroutine (19xx)(-)</description>
+		<rom name="Divide Subroutine (19xx)(-).lib" size="1005" crc="8b8b7cfa" md5="06a847667d10ae3d8daee7464ac4011d" sha1="9e4d8465641babde9fec659e162a5f51d32885ca"/>
+	</game>
+	<game name="Division Routine (19xx)(-)">
+		<description>Division Routine (19xx)(-)</description>
+		<rom name="Division Routine (19xx)(-).lib" size="1097" crc="ba0b9ed1" md5="38bba5225cee99e77ce8b7da0e285536" sha1="57e25d2048557f3c65c7b28a28e6cc475e593981"/>
+	</game>
+	<game name="Division Routine 16bytes (19xx)(-)">
+		<description>Division Routine 16bytes (19xx)(-)</description>
+		<rom name="Division Routine 16bytes (19xx)(-).lib" size="1308" crc="1418527e" md5="49d0eeb158550d0b6fe519dcf3a0066f" sha1="26311aff1b287a9fb4813ef347c55cc64ccb1a40"/>
+	</game>
+	<game name="EQ Equal (19xx)(-)">
+		<description>EQ Equal (19xx)(-)</description>
+		<rom name="EQ Equal (19xx)(-).lib" size="2403" crc="9d7c1250" md5="4b4991cd504c09e215274800a7cf5f17" sha1="374bcfb83d724b1a3d31a66667d1975e5d5fe7f5"/>
+	</game>
+	<game name="Find Match (19xx)(-)">
+		<description>Find Match (19xx)(-)</description>
+		<rom name="Find Match (19xx)(-).lib" size="1229" crc="1be04a09" md5="a42caa762e67dd17eb61cc03ba79eba9" sha1="aa4ef5a4e30c08233043ad554af3e67c268019aa"/>
+	</game>
+	<game name="Follow Information (19xx)(Skeleton)">
+		<description>Follow Information (19xx)(Skeleton)</description>
+		<rom name="Follow Information (19xx)(Skeleton).lib" size="1153" crc="76bcf9d3" md5="d01ecd9baa2bc0417e8c6d80b08e5855" sha1="83c48ea7a0b680ee3a573959054187455b1e394f"/>
+	</game>
+	<game name="Follow Information (19xx)(Skeleton)[a2]">
+		<description>Follow Information (19xx)(Skeleton)[a2]</description>
+		<rom name="Follow Information (19xx)(Skeleton)[a2].lib" size="1318" crc="8ab599f3" md5="bea6e5c92b99872358036247cb462b26" sha1="8e81ccb361628a764143e771f054ac978278016f"/>
+	</game>
+	<game name="Follow Information (19xx)(Skeleton)[a]">
+		<description>Follow Information (19xx)(Skeleton)[a]</description>
+		<rom name="Follow Information (19xx)(Skeleton)[a].lib" size="1148" crc="49086c43" md5="a2dc20a3c2b8bbcf1e3fc239491c00c7" sha1="43703fdb90bba5daee2091eb654d44c6281d4e91"/>
+	</game>
+	<game name="Keyboard Input Driver (19xx)(-)">
+		<description>Keyboard Input Driver (19xx)(-)</description>
+		<rom name="Keyboard Input Driver (19xx)(-).lib" size="1943" crc="26c924ed" md5="c48f44469e07f06d17fb483b01c97222" sha1="fb6b8fbb9b2796da30781483acc8200f961bc257"/>
+	</game>
+	<game name="Keyboard Input Routine (19xx)(-)">
+		<description>Keyboard Input Routine (19xx)(-)</description>
+		<rom name="Keyboard Input Routine (19xx)(-).lib" size="2909" crc="b7a6b356" md5="f59b85325555805305b1a21fa95c932e" sha1="093d3e3741d7752a4e5ef610df1cbd20056b0788"/>
+	</game>
+	<game name="Message Output Routine (19xx)(-)">
+		<description>Message Output Routine (19xx)(-)</description>
+		<rom name="Message Output Routine (19xx)(-).lib" size="623" crc="dea6572e" md5="b2f555296bc11d5e18859b5efa4db49e" sha1="d28fc9a41ae0d668598a2162f9365e704e3ee3d7"/>
+	</game>
+	<game name="Mod Routine for 16Bit (19xx)(-)">
+		<description>Mod Routine for 16Bit (19xx)(-)</description>
+		<rom name="Mod Routine for 16Bit (19xx)(-).lib" size="1531" crc="c7dab042" md5="75116512b6cd6ade7c68bc8cd63be1ed" sha1="c88b132a765e9db735333253cce9140c9767db35"/>
+	</game>
+	<game name="Mod Routine for 8Bit (19xx)(-)">
+		<description>Mod Routine for 8Bit (19xx)(-)</description>
+		<rom name="Mod Routine for 8Bit (19xx)(-).lib" size="1075" crc="d7ebd910" md5="89d931018e5617165b6bb567857ea3e5" sha1="6a0115bfbb9ddce1e178d80c879ad8a5fcec4df0"/>
+	</game>
+	<game name="Move Character Subroutine (19xx)(-)">
+		<description>Move Character Subroutine (19xx)(-)</description>
+		<rom name="Move Character Subroutine (19xx)(-).lib" size="11707" crc="2f6e3de5" md5="f667ca1242f54a32c7fba47fde724ecd" sha1="a8612ae4f78134053f33fee04b91036a3cd410e5"/>
+	</game>
+	<game name="Move Memory Block (19xx)(-)">
+		<description>Move Memory Block (19xx)(-)</description>
+		<rom name="Move Memory Block (19xx)(-).lib" size="936" crc="62164c25" md5="33f4d327844586528537fd0ff49b0209" sha1="2a718801146faa93931011c2514612b2c9f5d9f4"/>
+	</game>
+	<game name="Multiply Routine (19xx)(-)">
+		<description>Multiply Routine (19xx)(-)</description>
+		<rom name="Multiply Routine (19xx)(-).lib" size="1114" crc="3add7711" md5="a207edf269d9c1ed60ff698912d4713a" sha1="acd1538855780ec5e5531dcee76bef4ffb537b08"/>
+	</game>
+	<game name="Multiply Routine (19xx)(-)[a]">
+		<description>Multiply Routine (19xx)(-)[a]</description>
+		<rom name="Multiply Routine (19xx)(-)[a].lib" size="2473" crc="b3ca7e25" md5="444898ee03b25652ff24691afe8499e1" sha1="2168d74ff0bfb63e760e5207f7db1a671c755486"/>
+	</game>
+	<game name="Multiply Subroutine (19xx)(-)">
+		<description>Multiply Subroutine (19xx)(-)</description>
+		<rom name="Multiply Subroutine (19xx)(-).lib" size="698" crc="39e746d9" md5="158506b2c7b2a8d478e2232fc0b13226" sha1="1c9d9f1764a412f221528dda15b495ba04ef624e"/>
+	</game>
+	<game name="Reverse The Bits in a Byte (19xx)(-)">
+		<description>Reverse The Bits in a Byte (19xx)(-)</description>
+		<rom name="Reverse The Bits in a Byte (19xx)(-).lib" size="1009" crc="25b06b78" md5="1e05d608f93e2394ff7abc2cdbff5b34" sha1="e8a483c23f4b398c72dc2464a3b29cd488238afb"/>
+	</game>
+	<game name="Short 2Byte Compare Routine (19xx)(-)">
+		<description>Short 2Byte Compare Routine (19xx)(-)</description>
+		<rom name="Short 2Byte Compare Routine (19xx)(-).lib" size="673" crc="5593c8b8" md5="f8dacbc97341bd1cca62386972af9adb" sha1="a27dbccfe773c1f514a2fc499366012b75993225"/>
+	</game>
+	<game name="Skip Match (19xx)(-)">
+		<description>Skip Match (19xx)(-)</description>
+		<rom name="Skip Match (19xx)(-).lib" size="1356" crc="fde7bfd1" md5="7dc8e8a5d1fbc9b98632fce0964496b9" sha1="b535a82dc1ac19808553e942ecb73b6f6a501c1b"/>
+	</game>
+	<game name="Subroutine Compare (19xx)(-)">
+		<description>Subroutine Compare (19xx)(-)</description>
+		<rom name="Subroutine Compare (19xx)(-).lib" size="1076" crc="e085da8c" md5="f0f41745401c90013d92c0485b99b9f1" sha1="89f9fdeabc40ea688943b3f2b1a440622c04f54d"/>
+	</game>
+	<game name="Subroutine Pack ASCII to Hex (19xx)(-)">
+		<description>Subroutine Pack ASCII to Hex (19xx)(-)</description>
+		<rom name="Subroutine Pack ASCII to Hex (19xx)(-).lib" size="888" crc="ee24c862" md5="81ef18249a6c545818670a69c966f894" sha1="288c8d404b37131a724884f575466e8552225bc5"/>
+	</game>
+	<game name="Subroutine Pack Hex to ASCII (19xx)(-)">
+		<description>Subroutine Pack Hex to ASCII (19xx)(-)</description>
+		<rom name="Subroutine Pack Hex to ASCII (19xx)(-).lib" size="1793" crc="9180a753" md5="d1bcceadb7542d2843b9a63ba229f862" sha1="8e2f930f1eda6ca14bbe8456942c92e530ae6b0f"/>
+	</game>
+	<game name="Subroutine Short Clear (19xx)(-)">
+		<description>Subroutine Short Clear (19xx)(-)</description>
+		<rom name="Subroutine Short Clear (19xx)(-).lib" size="2363" crc="63349d66" md5="5a1dcf8c1ae974249cd29efd83fcfc92" sha1="ea7afa6f7951325a02d21a2be41eb55e15bd7ec6"/>
+	</game>
+	<game name="Swap 256Bytes Memory Block (19xx)(-)">
+		<description>Swap 256Bytes Memory Block (19xx)(-)</description>
+		<rom name="Swap 256Bytes Memory Block (19xx)(-).lib" size="855" crc="ecdfcf4a" md5="1ad004059c09bb64975f14601d228e2a" sha1="03751374ba73c4e4f84285acc149c7117ec78231"/>
+	</game>
+	<game name="Swap a Memory Block (19xx)(-)">
+		<description>Swap a Memory Block (19xx)(-)</description>
+		<rom name="Swap a Memory Block (19xx)(-).lib" size="1097" crc="42f43ab7" md5="0ad638e3be73ad6afeae08116ce9d980" sha1="af12bccaa67cbd951692abcac7dfe9bb7abbf3a0"/>
+	</game>
+</datafile>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore Amiga CD32 - Coverdiscs - [BIN]</name>
+		<description>Commodore Amiga CD32 - Coverdiscs - [BIN] (TOSEC-v2018-03-24)</description>
+		<category>TOSEC-ISO</category>
+		<version>2018-03-24</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Game Massive - The Essential CD32 Collection vol1 (1995)(Future Publishing)(GB)">
+		<description>Game Massive - The Essential CD32 Collection vol1 (1995)(Future Publishing)(GB)</description>
+		<rom name="Game Massive - The Essential CD32 Collection vol1 (1995)(Future Publishing)(GB).bin" size="127106784" crc="58fc9f36" md5="c2f0c961f8a970c0ed5c1f16b8182b9e" sha1="27815e2d1fc7cdbb38d3ea53edd609005d1e8dcd"/>
+		<rom name="Game Massive - The Essential CD32 Collection vol1 (1995)(Future Publishing)(GB).cue" size="1999" crc="4ce9062e" md5="b6275945a67feb21828dd659dce27fa5" sha1="62d27987a47c6bf3d667301db361c27970636c53"/>
+	</game>
+</datafile>

@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Convergent Technologies AWS NGEN Workstation - Applications - [IMA]</name>
+		<description>Convergent Technologies AWS NGEN Workstation - Applications - [IMA] (TOSEC-v2017-10-23)</description>
+		<category>TOSEC</category>
+		<version>2017-10-23</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<url>http://www.tosecdev.org</url>
+		<clrmamepro/>
+	</header>
+	<game name="BTOS R-Base 5000 (19xx)(-)[MB20-DB5]">
+		<description>BTOS R-Base 5000 (19xx)(-)[MB20-DB5]</description>
+		<rom name="BTOS R-Base 5000 (19xx)(-)[MB20-DB5].ima" size="1474560" crc="ee8bbce0" md5="aa28bb478d993266cde2d921a0a59816" sha1="db4ea429f564200c7c5b744bac42336570f74eb4"/>
+	</game>
+	<game name="CTOS BASIC Interpreter v5.1.1 (19xx)(-)[B25-BI5]">
+		<description>CTOS BASIC Interpreter v5.1.1 (19xx)(-)[B25-BI5]</description>
+		<rom name="CTOS BASIC Interpreter v5.1.1 (19xx)(-)[B25-BI5].ima" size="1474560" crc="d6af4321" md5="15abb07d4f40f5680d25512f8085353f" sha1="2a1ba4528f0eb5a78f2a37a7aba2a22606c1eaf8"/>
+	</game>
+	<game name="CTOS Batch Manager II R2.4.100 (19xx)(Unisys)[B25-BM2]">
+		<description>CTOS Batch Manager II R2.4.100 (19xx)(Unisys)[B25-BM2]</description>
+		<rom name="CTOS Batch Manager II R2.4.100 (19xx)(Unisys)[B25-BM2].ima" size="1474560" crc="7e19f7d2" md5="6924b510a91a93d2e7aed91ad183ece6" sha1="1a84855bf5aeed9700f23db7967af1cdb8ca50f3"/>
+	</game>
+	<game name="CTOS BMulti Gateway Service (19xx)(-)(Disk 1 of 3)[B25-BMU-1]">
+		<description>CTOS BMulti Gateway Service (19xx)(-)(Disk 1 of 3)[B25-BMU-1]</description>
+		<rom name="CTOS BMulti Gateway Service (19xx)(-)(Disk 1 of 3)[B25-BMU-1].ima" size="1474560" crc="17d87d3c" md5="c0ceebed9fd0551fec60c5d51a445e2f" sha1="775bb8385485304dc75824e881746d16ed208225"/>
+	</game>
+	<game name="CTOS BMulti Gateway Service (19xx)(-)(Disk 2 of 3)[B25-BMU-1]">
+		<description>CTOS BMulti Gateway Service (19xx)(-)(Disk 2 of 3)[B25-BMU-1]</description>
+		<rom name="CTOS BMulti Gateway Service (19xx)(-)(Disk 2 of 3)[B25-BMU-1].ima" size="1474560" crc="81f59208" md5="be959f0cb7610c4f675aae94b68038bd" sha1="91df7c6c9c9812b8c21aa232245a37e0e839049c"/>
+	</game>
+	<game name="CTOS BMulti Gateway Service (19xx)(-)(Disk 3 of 3)[B25-BMU-1]">
+		<description>CTOS BMulti Gateway Service (19xx)(-)(Disk 3 of 3)[B25-BMU-1]</description>
+		<rom name="CTOS BMulti Gateway Service (19xx)(-)(Disk 3 of 3)[B25-BMU-1].ima" size="1474560" crc="41c4dc49" md5="7c0ad725a9d9abb9ee534f527d9d3f86" sha1="9fd1a81577408bedb031b1c371b1d337babc94aa"/>
+	</game>
+	<game name="CTOS C Compiler (19xx)(-)[B25-CC9]">
+		<description>CTOS C Compiler (19xx)(-)[B25-CC9]</description>
+		<rom name="CTOS C Compiler (19xx)(-)[B25-CC9].ima" size="1474560" crc="542c771d" md5="e280797bb607b29d7cf157f10644baf6" sha1="ff17158d528e82a4a40ccb9e7c051408204b140d"/>
+	</game>
+	<game name="CTOS C Support Libraries (19xx)(-)[B25-LI1]">
+		<description>CTOS C Support Libraries (19xx)(-)[B25-LI1]</description>
+		<rom name="CTOS C Support Libraries (19xx)(-)[B25-LI1].ima" size="1474560" crc="8cbf5c8f" md5="47d175ba41657028c317385f9a3214b6" sha1="19f9ecfb59f2596b041b564b9fad5d321238a575"/>
+	</game>
+	<game name="CTOS COBOL Compiler (19xx)(-)(Disk 1 of 2)[B25-COB-1]">
+		<description>CTOS COBOL Compiler (19xx)(-)(Disk 1 of 2)[B25-COB-1]</description>
+		<rom name="CTOS COBOL Compiler (19xx)(-)(Disk 1 of 2)[B25-COB-1].ima" size="1474560" crc="a82e45b3" md5="fa23b2c24de681a753cdc95be694f7ed" sha1="aacf13c0501af4589d0fdb5b4225b466c2213a1b"/>
+	</game>
+	<game name="CTOS COBOL Compiler (19xx)(-)(Disk 2 of 2)[B25-COB-2]">
+		<description>CTOS COBOL Compiler (19xx)(-)(Disk 2 of 2)[B25-COB-2]</description>
+		<rom name="CTOS COBOL Compiler (19xx)(-)(Disk 2 of 2)[B25-COB-2].ima" size="1474560" crc="fe4bd93c" md5="0b7227eeb9add20a54e8543270ab89e5" sha1="22c1e6bbd06ff26b0fa27dc59f486b73d9c93438"/>
+	</game>
+	<game name="CTOS Context Manager II Patch s5.1.3 (19xx)(Unisys)">
+		<description>CTOS Context Manager II Patch s5.1.3 (19xx)(Unisys)</description>
+		<rom name="CTOS Context Manager II Patch s5.1.3 (19xx)(Unisys).ima" size="1474560" crc="879f151b" md5="86658ba3a7834b63f93efdb6d9eb61cd" sha1="56f639533ac3627bb2914e72b69a536c085c4ffc"/>
+	</game>
+	<game name="CTOS Context Manager II R5.1.0 (19xx)(Unisys)">
+		<description>CTOS Context Manager II R5.1.0 (19xx)(Unisys)</description>
+		<rom name="CTOS Context Manager II R5.1.0 (19xx)(Unisys).ima" size="1474560" crc="e29c70c0" md5="583dfeb4e65ddd2e3f16894712b06290" sha1="acb2e619c57ba63c478d9fffe6a392db038da1d1"/>
+	</game>
+	<game name="CTOS Ethernet Packet Driver v3.7.0 (19xx)(-)[B25-PDL]">
+		<description>CTOS Ethernet Packet Driver v3.7.0(19xx)(-)[B25-PDL]</description>
+		<rom name="CTOS Ethernet Packet Driver v3.7.0 (19xx)(-)[B25-PDL].ima" size="1474560" crc="29ff5279" md5="acb1e0a4367e8c7725883dfb382999b9" sha1="cc5cb5d17e39ba18b7a59d3093fd8fac1ec54dc5"/>
+	</game>
+	<game name="CTOS Forms Designer s6.4.7 (19xx)(-)[B25-FM6]">
+		<description>CTOS Forms Designer s6.4.7 (19xx)(-)[B25-FM6]</description>
+		<rom name="CTOS Forms Designer s6.4.7 (19xx)(-)[B25-FM6].ima" size="1474560" crc="3ab409d1" md5="eee9fe63e655af3bfc6cebf36464bc3e" sha1="3d73a1659087d7770b9510b704ceb95847a139fc"/>
+	</game>
+	<game name="CTOS III Virtual Mode OS System Build Utilities s1.2.32 (19xx)(-)(Disk 1 of 3)[B25-VBU-1]">
+		<description>CTOS III Virtual Mode OS System Build Utilities s1.2.32 (19xx)(-)(Disk 1 of 3)[B25-VBU-1]</description>
+		<rom name="CTOS III Virtual Mode OS System Build Utilities s1.2.32 (19xx)(-)(Disk 1 of 3)[B25-VBU-1].ima" size="1474560" crc="9411b77c" md5="29260b929440f98c21b4faeddabc53c6" sha1="3bb1d9a402d997ba484581c83c5ae666f9aaabc5"/>
+	</game>
+	<game name="CTOS III Virtual Mode OS System Build Utilities s1.2.32 (19xx)(-)(Disk 2 of 3)[B25-VBU-2]">
+		<description>CTOS III Virtual Mode OS System Build Utilities s1.2.32 (19xx)(-)(Disk 2 of 3)[B25-VBU-2]</description>
+		<rom name="CTOS III Virtual Mode OS System Build Utilities s1.2.32 (19xx)(-)(Disk 2 of 3)[B25-VBU-2].ima" size="1474560" crc="429cccb9" md5="7e3b54908e074e430ce404cb3d85863f" sha1="2168c18ab4cc171ff613740dc177198a9c52896c"/>
+	</game>
+	<game name="CTOS III Virtual Mode OS System Build Utilities s1.2.32 (19xx)(-)(Disk 3 of 3)[B25-VBU-3]">
+		<description>CTOS III Virtual Mode OS System Build Utilities s1.2.32 (19xx)(-)(Disk 3 of 3)[B25-VBU-3]</description>
+		<rom name="CTOS III Virtual Mode OS System Build Utilities s1.2.32 (19xx)(-)(Disk 3 of 3)[B25-VBU-3].ima" size="1474560" crc="420b7ca9" md5="8c5d791c8dc206203a73bb36ef616417" sha1="ef51265b3d15c96d345f9c30d2bf381e59a5798c"/>
+	</game>
+	<game name="CTOS Intelligent Datacomm Module R5.2.0 (19xx)(-)(Disk 1 of 2)[B25-IDM-1]">
+		<description>CTOS Intelligent Datacomm Module R5.2.0 (19xx)(-)(Disk 1 of 2)[B25-IDM-1]</description>
+		<rom name="CTOS Intelligent Datacomm Module R5.2.0 (19xx)(-)(Disk 1 of 2)[B25-IDM-1].ima" size="1474560" crc="24c8566d" md5="c5baa1c37cd09d0112c3a59ac9b70b4a" sha1="cbaf4fe1fb517d85b279e9ab9ea35dd07e3be86c"/>
+	</game>
+	<game name="CTOS Intelligent Datacomm Module R5.2.0 (19xx)(-)(Disk 2 of 2)[B25-IDM-1]">
+		<description>CTOS Intelligent Datacomm Module R5.2.0 (19xx)(-)(Disk 2 of 2)[B25-IDM-1]</description>
+		<rom name="CTOS Intelligent Datacomm Module R5.2.0 (19xx)(-)(Disk 2 of 2)[B25-IDM-1].ima" size="1474560" crc="81a26784" md5="9cfc2e00234c8787a028183db660e94f" sha1="844a37007d5c32ab6d3c0c69c457e4e6a7e36798"/>
+	</game>
+	<game name="CTOS ISAM II s1.2.6 (19xx)(-)[B25-IS1]">
+		<description>CTOS ISAM II s1.2.6 (19xx)(-)[B25-IS1]</description>
+		<rom name="CTOS ISAM II s1.2.6 (19xx)(-)[B25-IS1].ima" size="1474560" crc="9b306e25" md5="e10663a856a39bea9634864f03aed8c6" sha1="20934944cfaf53804f96e2419121f0a86527ab28"/>
+	</game>
+	<game name="CTOS ISAM III (19xx)(-)[B25-IS3]">
+		<description>CTOS ISAM III (19xx)(-)[B25-IS3]</description>
+		<rom name="CTOS ISAM III (19xx)(-)[B25-IS3].ima" size="1474560" crc="2950dbd5" md5="0ac7ca57fb38fb6f2b655e7fadbd5fff" sha1="145c543b270fa07e0b5911c93de18dc1c0b786be"/>
+	</game>
+	<game name="CTOS Modem Service s5.3.6 (19xx)(-)[B25-MDM]">
+		<description>CTOS Modem Service s5.3.6 (19xx)(-)[B25-MDM]</description>
+		<rom name="CTOS Modem Service s5.3.6 (19xx)(-)[B25-MDM].ima" size="1474560" crc="854b3986" md5="099cf612d2a261faa3f08745d9f1e726" sha1="5ba74fb1e0ac8ffa2cc7694208c1d714dae5da8d"/>
+	</game>
+	<game name="CTOS Multi Gateway Service v1.2 (19xx)(-)[B25-MS1]">
+		<description>CTOS Multi Gateway Service v1.2 (19xx)(-)[B25-MS1]</description>
+		<rom name="CTOS Multi Gateway Service v1.2 (19xx)(-)[B25-MS1].ima" size="1474560" crc="a6c6413b" md5="72ff6e77d142b84912eba477e97e2a64" sha1="61958c7c63315cd2228d848b86f84f5c5fc2ab5f"/>
+	</game>
+	<game name="CTOS NFS (19xx)(-)[B25-NFS - no install script]">
+		<description>CTOS NFS (19xx)(-)[B25-NFS - no install script]</description>
+		<rom name="CTOS NFS (19xx)(-)[B25-NFS - no install script].ima" size="1474560" crc="d7d61d94" md5="6e22a46ab637ebafa0f39439ce23d4b6" sha1="49f7d764302e1799bcbe3ea8e4c9c00aa12bf0ad"/>
+	</game>
+	<game name="CTOS Pascal Compiler s7.0.11 (19xx)(-)[B25-PAS]">
+		<description>CTOS Pascal Compiler s7.0.11 (19xx)(-)[B25-PAS]</description>
+		<rom name="CTOS Pascal Compiler s7.0.11 (19xx)(-)[B25-PAS].ima" size="1474560" crc="8f8f1b4d" md5="8d2d888b4160b25fbeb77b665d5d1777" sha1="aa70e57c1a1eec35e28b50433a1a0226b5ce7b67"/>
+	</game>
+	<game name="CTOS Protocol Manager R3.3.0 (19xx)(-)[B25-PRM]">
+		<description>CTOS Protocol Manager R3.3.0 (19xx)(-)[B25-PRM]</description>
+		<rom name="CTOS Protocol Manager R3.3.0 (19xx)(-)[B25-PRM].ima" size="1474560" crc="fe4a9dde" md5="b6b318f7ec5a6d3969b1037abb961975" sha1="0ccbc74190b1057c572a5a30a2ff09b6e6edbe92"/>
+	</game>
+	<game name="CTOS QuickGraph with Source (19xx)(-)">
+		<description>CTOS QuickGraph with Source (19xx)(-)</description>
+		<rom name="CTOS QuickGraph with Source (19xx)(-).ima" size="1474560" crc="e9a7db4f" md5="0c058f0f049a1016a90b85843fc176b0" sha1="7d8064c4ad6032b73f9930d2d2e0eabcae89df55"/>
+	</game>
+	<game name="CTOS Remote Access Facility (19xx)(-)(Disk 1 of 2)[B25-RAF-1]">
+		<description>CTOS Remote Access Facility (19xx)(-)(Disk 1 of 2)[B25-RAF-1]</description>
+		<rom name="CTOS Remote Access Facility (19xx)(-)(Disk 1 of 2)[B25-RAF-1].ima" size="1474560" crc="bc42ccbd" md5="d28f6d8e56d82aa18b6e8b8202e9f413" sha1="b0045738aab22b200c5664361dd52637de45efbd"/>
+	</game>
+	<game name="CTOS Scaling Font Service v1.0.1 (19xx)(-)(Disk 1 of 3)[B25-SF1-1]">
+		<description>CTOS Scaling Font Service v1.0.1 (19xx)(-)(Disk 1 of 3)[B25-SF1-1]</description>
+		<rom name="CTOS Scaling Font Service v1.0.1 (19xx)(-)(Disk 1 of 3)[B25-SF1-1].ima" size="1474560" crc="7cf693ba" md5="f788c004fdc7f678aac17c3ee7078178" sha1="c6e245353b5b7c924dd3dd21bf53e9bd194337b8"/>
+	</game>
+	<game name="CTOS Scaling Font Service v1.0.1 (19xx)(-)(Disk 2 of 3)[B25-SF1-2]">
+		<description>CTOS Scaling Font Service v1.0.1 (19xx)(-)(Disk 2 of 3)[B25-SF1-2]</description>
+		<rom name="CTOS Scaling Font Service v1.0.1 (19xx)(-)(Disk 2 of 3)[B25-SF1-2].ima" size="1474560" crc="c181de45" md5="c47601f7112f29a8020842924717dca8" sha1="9af71baec12d015b0b72acb83d1f08eef61db7ac"/>
+	</game>
+	<game name="CTOS Scaling Font Service v1.0.1 (19xx)(-)(Disk 3 of 3)[B25-SF1-1]">
+		<description>CTOS Scaling Font Service v1.0.1 (19xx)(-)(Disk 3 of 3)[B25-SF1-1]</description>
+		<rom name="CTOS Scaling Font Service v1.0.1 (19xx)(-)(Disk 3 of 3)[B25-SF1-1].ima" size="1474560" crc="3649a277" md5="526079222523b9969e205316506cc811" sha1="f729b405bb9881c9622e927fb6a08bbb252d8158"/>
+	</game>
+	<game name="CTOS Software Release Announcement R1.2.1001.3.1 (19xx)(-)[B25-SRA]">
+		<description>CTOS Software Release Announcement R1.2.1001.3.1 (19xx)(-)[B25-SRA]</description>
+		<rom name="CTOS Software Release Announcement R1.2.1001.3.1 (19xx)(-)[B25-SRA].ima" size="1474560" crc="c32a2d55" md5="0fdeb151a8cfb2f67bf73f2af8d257f9" sha1="c3fed2443bad8fe2a716f8755fd4074822a09d81"/>
+	</game>
+	<game name="CTOS Standard Software Development Utilities R12.3.1 (19xx)(-)(Disk 1 of 3)[B25-U22-1]">
+		<description>CTOS Standard Software Development Utilities R12.3.1 (19xx)(-)(Disk 1 of 3)[B25-U22-1]</description>
+		<rom name="CTOS Standard Software Development Utilities R12.3.1 (19xx)(-)(Disk 1 of 3)[B25-U22-1].ima" size="1474560" crc="1020aa11" md5="38dd4e9cb6d8a6371212e1f54307be84" sha1="8e72a22e7be30c92bbe931cac0db854ec1145ce9"/>
+	</game>
+	<game name="CTOS Standard Software Development Utilities R12.3.1 (19xx)(-)(Disk 2 of 3)[B25-U22-2]">
+		<description>CTOS Standard Software Development Utilities R12.3.1 (19xx)(-)(Disk 2 of 3)[B25-U22-2]</description>
+		<rom name="CTOS Standard Software Development Utilities R12.3.1 (19xx)(-)(Disk 2 of 3)[B25-U22-2].ima" size="1474560" crc="13d1f327" md5="fdc8d93236102d3d56d50c01d75e6bbe" sha1="a81cacca6892ee5d3cd7ddf37a03b2ac42c2a5cb"/>
+	</game>
+	<game name="CTOS Standard Software Development Utilities R12.3.1 (19xx)(-)(Disk 3 of 3)[B25-U22-3]">
+		<description>CTOS Standard Software Development Utilities R12.3.1 (19xx)(-)(Disk 3 of 3)[B25-U22-3]</description>
+		<rom name="CTOS Standard Software Development Utilities R12.3.1 (19xx)(-)(Disk 3 of 3)[B25-U22-3].ima" size="1474560" crc="45d38c16" md5="34cc75056ad0f0db28c20b5dc37f70c4" sha1="40e2646c5150853c5fa1c964bf62ba0bb2368bcb"/>
+	</game>
+	<game name="CTOS Standard Software R12.3.120 (19xx)(-)(Disk 1 of 4)[B25STP-1]">
+		<description>CTOS Standard Software R12.3.120 (19xx)(-)(Disk 1 of 4)[B25STP-1]</description>
+		<rom name="CTOS Standard Software R12.3.120 (19xx)(-)(Disk 1 of 4)[B25STP-1].ima" size="1474560" crc="16bea87c" md5="1398cc61e9f3e0d3607b9f2c689d9294" sha1="42f9ab2b54ac7d1c97dc791050680af4fd208982"/>
+	</game>
+	<game name="CTOS Standard Software R12.3.120 (19xx)(-)(Disk 2 of 4)[B25STP-2]">
+		<description>CTOS Standard Software R12.3.120 (19xx)(-)(Disk 2 of 4)[B25STP-2]</description>
+		<rom name="CTOS Standard Software R12.3.120 (19xx)(-)(Disk 2 of 4)[B25STP-2].ima" size="1474560" crc="645c7ed3" md5="615f243fd08920ea692629ff8c213dde" sha1="941797b88b8d7f4437065b99b97b887d3bfb904f"/>
+	</game>
+	<game name="CTOS Standard Software R12.3.120 (19xx)(-)(Disk 3 of 4)[B25STP-3]">
+		<description>CTOS Standard Software R12.3.120 (19xx)(-)(Disk 3 of 4)[B25STP-3]</description>
+		<rom name="CTOS Standard Software R12.3.120 (19xx)(-)(Disk 3 of 4)[B25STP-3].ima" size="1474560" crc="bba1c527" md5="ac5c0eed9d02ef764bc65c881eba6051" sha1="bc06c08dc9fb0d740b258441e2850d501078511e"/>
+	</game>
+	<game name="CTOS Standard Software R12.3.120 (19xx)(-)(Disk 4 of 4)[B25STP-4]">
+		<description>CTOS Standard Software R12.3.120 (19xx)(-)(Disk 4 of 4)[B25STP-4]</description>
+		<rom name="CTOS Standard Software R12.3.120 (19xx)(-)(Disk 4 of 4)[B25STP-4].ima" size="1474560" crc="2ab8433d" md5="c68d3f7f219eb43bbf072799824ce15f" sha1="5ad7980d895a59761a11d97d894094b3f60c1735"/>
+	</game>
+	<game name="CTOS TCP s2.2.53 (19xx)(Disk 2 of 3)[B25-TCP-1]">
+		<description>CTOS TCP s2.2.53 (19xx)(Disk 2 of 3)[B25-TCP-1]</description>
+		<rom name="CTOS TCP s2.2.53 (19xx)(Disk 2 of 3)[B25-TCP-1].ima" size="1474560" crc="980f19f5" md5="e5b7a4c6322ed69b74bc1362f5944b99" sha1="c3d54446faed691947c7d4c09f1030424ce22bb7"/>
+	</game>
+	<game name="CTOS TCP s2.2.53 (19xx)(Disk 3 of 3)[B25-TCP-1]">
+		<description>CTOS TCP s2.2.53 (19xx)(Disk 3 of 3)[B25-TCP-1]</description>
+		<rom name="CTOS TCP s2.2.53 (19xx)(Disk 3 of 3)[B25-TCP-1].ima" size="1474560" crc="5898b830" md5="ddbec8af94aab3d120b2a9276abbb079" sha1="14ec72c3e70686727d62b1e83c1596f74abcb0f2"/>
+	</game>
+	<game name="CTOS Tool Kit (19xx)(-)(Disk 1 of 3)">
+		<description>CTOS Tool Kit (19xx)(-)(Disk 1 of 3)</description>
+		<rom name="CTOS Tool Kit (19xx)(-)(Disk 1 of 3).ima" size="1474560" crc="28ed61b6" md5="e49c9eae40118beb5bd30845de510c11" sha1="fce9d432a9fa954154e720f60b61e42f44d262f6"/>
+	</game>
+	<game name="CTOS Tool Kit (19xx)(-)(Disk 3 of 3)">
+		<description>CTOS Tool Kit (19xx)(-)(Disk 3 of 3)</description>
+		<rom name="CTOS Tool Kit (19xx)(-)(Disk 3 of 3).ima" size="1474560" crc="f4a767fb" md5="f4f7edd513a8784d0da49c5d37b62d02" sha1="b648d39dcfee1a8b4bb070b926222827be22da22"/>
+	</game>
+	<game name="CTOS Turner Tools (19xx)(-)">
+		<description>CTOS Turner Tools (19xx)(-)</description>
+		<rom name="CTOS Turner Tools (19xx)(-).ima" size="1474560" crc="83e9e230" md5="1dbeea9b515a31ebbe0155f7d22ee5c0" sha1="ee5f634becf76f2dc8fef082a996bbb927b334c2"/>
+	</game>
+	<game name="CTOS Video Access Method VAM s4.4.52 (199x)(Unisys)">
+		<description>CTOS Video Access Method VAM s4.4.52 (199x)(Unisys)</description>
+		<rom name="CTOS Video Access Method VAM s4.4.52 (199x)(Unisys).ima" size="1474560" crc="ed45b632" md5="6e75eb371e25a8c3dc31454b1dbd8d71" sha1="365914d5fd35dd267c89f0409e111a7be019eef0"/>
+	</game>
+	<game name="GPS Dot Matrix (19xx)(-)[B25-D32]">
+		<description>GPS Dot Matrix (19xx)(-)[B25-D32]</description>
+		<rom name="GPS Dot Matrix (19xx)(-)[B25-D32].ima" size="1466368" crc="a049f08c" md5="18f168a89a3894448c36cb99cba810dd" sha1="caaad1c92358a8d1f415c1752604e5f46fdb0fcf"/>
+	</game>
+	<game name="GPS Laser (19xx)(-)[B25-D42]">
+		<description>GPS Laser (19xx)(-)[B25-D42]</description>
+		<rom name="GPS Laser (19xx)(-)[B25-D42].ima" size="1474560" crc="9f1b674b" md5="b8480d04194718aba36a47edc625644f" sha1="37c43db17f2673b71495ef24782929500c8f8a76"/>
+	</game>
+	<game name="OFIS Document Designer v3.1.100 (19xx)(-)(Disk 1 of 2)[B25-DD3-1]">
+		<description>OFIS Document Designer v3.1.100 (19xx)(-)(Disk 1 of 2)[B25-DD3-1]</description>
+		<rom name="OFIS Document Designer v3.1.100 (19xx)(-)(Disk 1 of 2)[B25-DD3-1].ima" size="1474560" crc="b86efbe6" md5="2f66efa906eff7d21ed7ac9088b8fb00" sha1="8c158cda19950e5797058b71f183d9330635a9c8"/>
+	</game>
+	<game name="OFIS Document Designer v3.1.100 (19xx)(-)(Disk 2 of 2)[B25-DD3-2]">
+		<description>OFIS Document Designer v3.1.100 (19xx)(-)(Disk 2 of 2)[B25-DD3-2]</description>
+		<rom name="OFIS Document Designer v3.1.100 (19xx)(-)(Disk 2 of 2)[B25-DD3-2].ima" size="1474560" crc="9cb0d272" md5="0b5ced12dcc3a983f901d1e80850aa04" sha1="4572a9f0cc4a1dca2d7107860acd71785d5654ed"/>
+	</game>
+	<game name="Screen Font Database v1.4 (19xx)(-)(Disk 1 of 3)[B25-SF1]">
+		<description>Screen Font Database v1.4 (19xx)(-)(Disk 1 of 3)[B25-SF1]</description>
+		<rom name="Screen Font Database v1.4 (19xx)(-)(Disk 1 of 3)[B25-SF1].ima" size="1474560" crc="f6cfc308" md5="60fac6c639c3edb7b5b74d25fada2b3b" sha1="9fafcf4e68b9c989906617efac6ad7d56c598e7f"/>
+	</game>
+	<game name="Screen Font Database v1.4 (19xx)(-)(Disk 2 of 3)[B25-SF1]">
+		<description>Screen Font Database v1.4 (19xx)(-)(Disk 2 of 3)[B25-SF1]</description>
+		<rom name="Screen Font Database v1.4 (19xx)(-)(Disk 2 of 3)[B25-SF1].ima" size="1474560" crc="655d651f" md5="ef8c326d97d4097dc1f4af4ff2bfd743" sha1="81842a6b378f61ba759fc32180d9bcf04c9816b5"/>
+	</game>
+	<game name="Screen Font Database v1.4 (19xx)(-)(Disk 3 of 3)[B25-SF1]">
+		<description>Screen Font Database v1.4 (19xx)(-)(Disk 3 of 3)[B25-SF1]</description>
+		<rom name="Screen Font Database v1.4 (19xx)(-)(Disk 3 of 3)[B25-SF1].ima" size="1474560" crc="dee1726a" md5="31eacd196de5148563d1965ded44d100" sha1="62e81388b395f5880d70a23de4ff407cd7b94ce5"/>
+	</game>
+</datafile>

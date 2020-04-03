@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sharp X1 - Applications - [2D]</name>
+		<description>Sharp X1 - Applications - [2D] (TOSEC-v2015-06-03)</description>
+		<category>TOSEC</category>
+		<version>2015-06-03</version>
+		<author>idrougge - Grendel - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Expert-X1 (198x)(Sunson)(Disk 1 of 2)">
+		<description>Expert-X1 (198x)(Sunson)(Disk 1 of 2)</description>
+		<rom name="Expert-X1 (198x)(Sunson)(Disk 1 of 2).2d" size="327680" crc="a9dc8d15" md5="bd324c29bb5dda581d312c4efa9a03c2" sha1="4f56d5c5e90654d811a3e41a69f3660af01ea0fc"/>
+	</game>
+	<game name="Expert-X1 (198x)(Sunson)(Disk 2 of 2)">
+		<description>Expert-X1 (198x)(Sunson)(Disk 2 of 2)</description>
+		<rom name="Expert-X1 (198x)(Sunson)(Disk 2 of 2).2d" size="327680" crc="01c39dd8" md5="46c880d0f5511345d96100d2e92d3fc7" sha1="1f875fc69bf04e832a516b5610469dd5eddb9a22"/>
+	</game>
+	<game name="Expert-X1 Analyzer &amp; Copy Construction v0.8 (198x)(Sunson)(JP)">
+		<description>Expert-X1 Analyzer &amp; Copy Construction v0.8 (198x)(Sunson)(JP)</description>
+		<rom name="Expert-X1 Analyzer &amp; Copy Construction v0.8 (198x)(Sunson)(JP).2d" size="327680" crc="03017ab1" md5="c9797a484bafd61f656a045e89408612" sha1="a1a0cf7690ff0c85c3980b2e60f11fbc880e89a5"/>
+	</game>
+	<game name="File Master X1, The v0.8 (1987)(Kyoto Media)">
+		<description>File Master X1, The v0.8 (1987)(Kyoto Media)</description>
+		<rom name="File Master X1, The v0.8 (1987)(Kyoto Media).2d" size="327680" crc="cc83176a" md5="79bdb7f12c1e97d1342074de868a3edf" sha1="4610045f801b049baa6e71855f839f0e5d0b9038"/>
+	</game>
+	<game name="HuBASIC CZ-8FB01 v1.0 (19xx)(Sharp)">
+		<description>HuBASIC CZ-8FB01 v1.0 (19xx)(Sharp)</description>
+		<rom name="HuBASIC CZ-8FB01 v1.0 (19xx)(Sharp).2d" size="327680" crc="f567794d" md5="4cecb2aba45619852778fbc26c953587" sha1="38cda7667d3ba9c5d51161f6b0d2f500ec1947b7"/>
+	</game>
+	<game name="New FM-driver (198x)">
+		<description>New FM-driver (198x)</description>
+		<rom name="New FM-driver (198x).2d" size="327680" crc="9902518d" md5="0ec9ebb6622b6639e021955d47d4d087" sha1="09192f98690c70f3bb5128bc165f9115627fc70c"/>
+	</game>
+	<game name="Turbo BASIC CZ-8FB02 (19xx)(Sharp)">
+		<description>Turbo BASIC CZ-8FB02 (19xx)(Sharp)</description>
+		<rom name="Turbo BASIC CZ-8FB02 (19xx)(Sharp).2d" size="327680" crc="48bcb22e" md5="1cbebec0bd19c68a89edd2df57fee5c5" sha1="0ee3f7de9b172544115560b6333a2d88618f56c4"/>
+	</game>
+</datafile>

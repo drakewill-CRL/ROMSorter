@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Enterprise 64 &amp; 128 - Games - [TAP]</name>
+		<description>Enterprise 64 &amp; 128 - Games - [TAP] (TOSEC-v2018-07-01)</description>
+		<category>TOSEC</category>
+		<version>2018-07-01</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="3D Star Fighter (198x)(Code Masters)">
+		<description>3D Star Fighter (198x)(Code Masters)</description>
+		<rom name="3D Star Fighter (198x)(Code Masters).tap" size="905728" crc="0fdce7ac" md5="15d43d676124d2b3a6e1eddf2ed3a65d" sha1="326e797fad04c807779d3e6f075b1d4ab844cd34"/>
+	</game>
+	<game name="Airwolf (198x)(Elite)">
+		<description>Airwolf (198x)(Elite)</description>
+		<rom name="Airwolf (198x)(Elite).tap" size="509952" crc="e05e292c" md5="d759774c506ea61d55f3c442c263295d" sha1="5ab75a2c003aded1a7dad554ec9b10847fbf1bbd"/>
+	</game>
+	<game name="Nodes of Yesod (1985)(Odin Computer Graphics)">
+		<description>Nodes of Yesod (1985)(Odin Computer Graphics)</description>
+		<rom name="Nodes of Yesod (1985)(Odin Computer Graphics).tap" size="582656" crc="ecefc1d9" md5="ecf3348167137347c2e9e692f32c916c" sha1="f6ace3106179d75baca8380e4c902d5766b1a84e"/>
+	</game>
+</datafile>

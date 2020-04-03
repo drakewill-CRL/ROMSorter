@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C128 - Applications - Source - [D64]</name>
+		<description>Commodore C128 - Applications - Source - [D64] (TOSEC-v2017-10-23)</description>
+		<category>TOSEC</category>
+		<version>2017-10-23</version>
+		<author>Tomse</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+		<clrmamepro/>
+	</header>
+	<game name="AA BBS 128 v12.5 (1990)(Nick Smith)(Disk 1 of 6)[source]">
+		<description>AA BBS 128 v12.5 (1990)(Nick Smith)(Disk 1 of 6)[source]</description>
+		<rom name="AA BBS 128 v12.5 (1990)(Nick Smith)(Disk 1 of 6)[source].d64" size="174848" crc="57735c38" md5="dc1fedc239caf508465d63c4014918a2" sha1="92daf7276a5f1a24a97c9c432b4fb29fae6f2208"/>
+	</game>
+	<game name="AA BBS 128 v12.5 (1990)(Nick Smith)(Disk 2 of 6)[source]">
+		<description>AA BBS 128 v12.5 (1990)(Nick Smith)(Disk 2 of 6)[source]</description>
+		<rom name="AA BBS 128 v12.5 (1990)(Nick Smith)(Disk 2 of 6)[source].d64" size="174848" crc="258e57cd" md5="9fd6a78c06810739e46b7f6dea155eab" sha1="5f2e2ae158c452e1763d6f772c4fabd68916cf33"/>
+	</game>
+	<game name="AA BBS 128 v12.5 (1990)(Nick Smith)(Disk 3 of 6)[source]">
+		<description>AA BBS 128 v12.5 (1990)(Nick Smith)(Disk 3 of 6)[source]</description>
+		<rom name="AA BBS 128 v12.5 (1990)(Nick Smith)(Disk 3 of 6)[source].d64" size="174848" crc="ec0aef00" md5="8d1a8231051b3cb77a0a447b95fa4a66" sha1="84e527b413f92c8af14a05159f7ce92ef564df00"/>
+	</game>
+	<game name="AA BBS 128 v12.5 (1990)(Nick Smith)(Disk 4 of 6)[source]">
+		<description>AA BBS 128 v12.5 (1990)(Nick Smith)(Disk 4 of 6)[source]</description>
+		<rom name="AA BBS 128 v12.5 (1990)(Nick Smith)(Disk 4 of 6)[source].d64" size="174848" crc="f745b0ca" md5="c0f2ce4a9ad64d2b91318d30ae125e2e" sha1="4fb7dc30b699181ea87fd31a54a95d97e80d9abf"/>
+	</game>
+	<game name="AA BBS 128 v12.5 (1990)(Nick Smith)(Disk 5 of 6)[source]">
+		<description>AA BBS 128 v12.5 (1990)(Nick Smith)(Disk 5 of 6)[source]</description>
+		<rom name="AA BBS 128 v12.5 (1990)(Nick Smith)(Disk 5 of 6)[source].d64" size="174848" crc="4dd42ecc" md5="46e32d94d1405fe864f79275f0826f01" sha1="de30e594968149e4210b09f640b278f8f2bf2682"/>
+	</game>
+	<game name="AA BBS 128 v12.5 (1990)(Nick Smith)(Disk 6 of 6)[source]">
+		<description>AA BBS 128 v12.5 (1990)(Nick Smith)(Disk 6 of 6)[source]</description>
+		<rom name="AA BBS 128 v12.5 (1990)(Nick Smith)(Disk 6 of 6)[source].d64" size="174848" crc="9273c3cf" md5="fdfc53c41be5faccf50558b5f800e033" sha1="5703b5264c367a3371559b30d9d3f9e2a6a2aca8"/>
+	</game>
+</datafile>

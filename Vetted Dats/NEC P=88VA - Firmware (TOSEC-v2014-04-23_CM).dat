@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>NEC PC-88VA - Firmware</name>
+		<description>NEC PC-88VA - Firmware (TOSEC-v2014-04-23)</description>
+		<category>TOSEC</category>
+		<version>2014-04-23</version>
+		<author>Cassiel - Cid</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="NEC PC-88VA BIOS (198x)(NEC)[Font ROM]">
+		<description>NEC PC-88VA BIOS (198x)(NEC)[Font ROM]</description>
+		<rom name="NEC PC-88VA BIOS (198x)(NEC)[Font ROM].bin" size="327680" crc="b40d34e4" md5="d565ca5ca677279d3342cc2b227e1641" sha1="a0227d1fbc2da5db4b46d8d2c7e7a9ac2d91379f"/>
+	</game>
+	<game name="NEC PC-88VA BIOS (198x)(NEC)[ROM 00]">
+		<description>NEC PC-88VA BIOS (198x)(NEC)[ROM 00]</description>
+		<rom name="NEC PC-88VA BIOS (198x)(NEC)[ROM 00].bin" size="524288" crc="98c9959a" md5="f6795e7421e251cf2018ba839c2701c6" sha1="bcaea28c58816602ca1e8290f534360f1ca03fe8"/>
+	</game>
+	<game name="NEC PC-88VA BIOS (198x)(NEC)[ROM 08]">
+		<description>NEC PC-88VA BIOS (198x)(NEC)[ROM 08]</description>
+		<rom name="NEC PC-88VA BIOS (198x)(NEC)[ROM 08].bin" size="131072" crc="eef6d4a0" md5="1549b3053f52fdf0f12771a99c95eab6" sha1="47e5f89f8b0ce18ff8d5d7b7aef8ca0a2a8e3345"/>
+	</game>
+	<game name="NEC PC-88VA BIOS (198x)(NEC)[ROM 1]">
+		<description>NEC PC-88VA BIOS (198x)(NEC)[ROM 1]</description>
+		<rom name="NEC PC-88VA BIOS (198x)(NEC)[ROM 1].bin" size="131072" crc="7e767f00" md5="b844bafc7b324e7dbee560cf0dfc6d96" sha1="dd4f4521bfbb068f15ab3bcdb8d47c7d82b9d1d4"/>
+	</game>
+</datafile>

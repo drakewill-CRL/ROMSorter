@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sinclair ZX81 - Educational</name>
+		<description>Sinclair ZX81 - Educational (TOSEC-v2011-09-24)</description>
+		<category>TOSEC</category>
+		<version>2011-09-24</version>
+		<author>jugaor - Dziuber - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Algebra 1 - Roots of Quadratic Equations (19xx)(-)">
+		<description>Algebra 1 - Roots of Quadratic Equations (19xx)(-)</description>
+		<rom name="Algebra 1 - Roots of Quadratic Equations (19xx)(-).p" size="1731" crc="6b0f6b4d" md5="d478448d5536014b355ba1dba0272807" sha1="40dff1847af0395dec0e59292fee903aa93f4a9c"/>
+	</game>
+	<game name="Algebra 2 - Simultaneous Equations (19xx)(-)">
+		<description>Algebra 2 - Simultaneous Equations (19xx)(-)</description>
+		<rom name="Algebra 2 - Simultaneous Equations (19xx)(-).p" size="1788" crc="b6e58bbe" md5="cc37603e20a21bca755c70e5a8c939b8" sha1="edbc4ff8396b4ebd94bac1aebb447e55d436ae55"/>
+	</game>
+	<game name="Algebra 3 - Greatest Common Denominator (19xx)(-)">
+		<description>Algebra 3 - Greatest Common Denominator (19xx)(-)</description>
+		<rom name="Algebra 3 - Greatest Common Denominator (19xx)(-).p" size="1494" crc="c3d4932d" md5="f4b284400f0cf7b791d9d9c9ce3c12dc" sha1="3690671f61feedd20de12d9b4c0d48d84f693afe"/>
+	</game>
+	<game name="Algebra 4 - Prime Factors of Integers (19xx)(-)">
+		<description>Algebra 4 - Prime Factors of Integers (19xx)(-)</description>
+		<rom name="Algebra 4 - Prime Factors of Integers (19xx)(-).p" size="1532" crc="7b85caaa" md5="60ffde9125b70656b5adaf59f32498bd" sha1="f4e2aadd0ace18a65df8df43aff05abf20620a92"/>
+	</game>
+	<game name="Animal Learning Game (19xx)(-)">
+		<description>Animal Learning Game (19xx)(-)</description>
+		<rom name="Animal Learning Game (19xx)(-).p" size="3860" crc="91d4f60d" md5="edd3289b60fc9ccf5456d9909a290022" sha1="aaef49c60df2d1a2620668177282b722fb261641"/>
+	</game>
+</datafile>

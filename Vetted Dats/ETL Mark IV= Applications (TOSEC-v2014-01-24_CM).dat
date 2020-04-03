@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>ETL Mark IV - Applications</name>
+		<description>ETL Mark IV - Applications (TOSEC-v2014-01-24)</description>
+		<category>TOSEC</category>
+		<version>2014-01-24</version>
+		<author>Grendel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="E Calculation (1996)(Seiichi Okoma)">
+		<description>E Calculation (1996)(Seiichi Okoma)</description>
+		<rom name="E.mk4" size="2993" crc="6782dd7c" md5="3947d149f08ddcf2e50c01db81669e99" sha1="f8bcd63b3e6ffc00d0b1fe41822f35f6f575ffa9"/>
+		<rom name="E.out" size="692" crc="0dc4ffdf" md5="3454ba221ba7c263c9df1396498d2ae7" sha1="529f2f62bb661cefca56c5803e25b4fff51d5be3"/>
+	</game>
+	<game name="Foolish Sort (1998)(Seiichi Okoma)">
+		<description>Foolish Sort (1998)(Seiichi Okoma)</description>
+		<rom name="Sort.mk4" size="2301" crc="85302375" md5="91c15efcd9756cec8880305fa03077a0" sha1="74023883bd231f85ff286fc5f3a90e282bd218ca"/>
+		<rom name="Sort.out" size="183" crc="411aa65f" md5="5e797dc9b4c4dc06fc9c70e3fa06ad4c" sha1="2b993b6569107e6ec10234d993eb140563f7c3e0"/>
+	</game>
+	<game name="Initial Order (19xx)(-)[Mk4init.mk4]">
+		<description>Initial Order (19xx)(-)[Mk4init.mk4]</description>
+		<rom name="Initial Order (19xx)(-)[Mk4init.mk4].mk4" size="691" crc="ca1b2ee2" md5="d0439dfd54163df0f5a11bee33a6be03" sha1="b563ca55ddee4d2fbcbdf4a0300cd38376384481"/>
+	</game>
+	<game name="Prime Number Table (1995)(Seiichi Okoma)">
+		<description>Prime Number Table (1995)(Seiichi Okoma)</description>
+		<rom name="Eratos.mk4" size="1720" crc="f50ec5f6" md5="aa7ff827fd458593fb4df99971842c65" sha1="532b76d9f03113488615b9992e899ce8f3a541c5"/>
+		<rom name="Eratos.out" size="416" crc="f3248930" md5="c1c7ee8b5bf7418743619ba3101586c2" sha1="77f88cc75feb5cf97709c7eb5124f633b6c04d56"/>
+	</game>
+</datafile>

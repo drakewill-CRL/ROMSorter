@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple II - Diskmags</name>
+		<description>Apple II - Diskmags (TOSEC-v2018-07-01)</description>
+		<category>TOSEC</category>
+		<version>2018-07-01</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Hacker, The #1 (1985)(Boot-Legger Enterprises)(US)(Side 1)[boot]">
+		<description>Hacker, The #1 (1985)(Boot-Legger Enterprises)(US)(Side 1)[boot]</description>
+		<rom name="Hacker, The #1 (1985)(Boot-Legger Enterprises)(US)(Side 1)[boot].DSK" size="143360" crc="e9e7131e" md5="e52059abdfecfd5112335860c7f990f1" sha1="48960b057a33f8107beec97cbd7d2664f9d1473d"/>
+	</game>
+	<game name="Hacker, The #1 (1985)(Boot-Legger Enterprises)(US)(Side 2)[no boot]">
+		<description>Hacker, The #1 (1985)(Boot-Legger Enterprises)(US)(Side 2)[no boot]</description>
+		<rom name="Hacker, The #1 (1985)(Boot-Legger Enterprises)(US)(Side 2)[no boot].DSK" size="143360" crc="56cf172e" md5="5d1c2d135e2259a3d23fe7d002ba74cc" sha1="e302bd14c85d34551a28fe7f3e976511064cd9ba"/>
+	</game>
+</datafile>

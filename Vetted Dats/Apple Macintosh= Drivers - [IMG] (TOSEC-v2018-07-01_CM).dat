@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple Macintosh - Drivers - [IMG]</name>
+		<description>Apple Macintosh - Drivers - [IMG] (TOSEC-v2018-07-01)</description>
+		<category>TOSEC</category>
+		<version>2018-07-01</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Ethernet Installer v5.0 (1995-01-20)(Sonic Systems)(Disk 1 of 2)[b][possibly bad]">
+		<description>Ethernet Installer v5.0 (1995-01-20)(Sonic Systems)(Disk 1 of 2)[b][possibly bad]</description>
+		<rom name="Ethernet Installer v5.0 (1995-01-20)(Sonic Systems)(Disk 1 of 2)[b][possibly bad].img" size="819200" crc="36441b00" md5="0a0eb499317b9d5759a2dcbaa3d538d1" sha1="92d1580f6d1589ec52b110eacfea529ca409541c"/>
+	</game>
+	<game name="Ethernet Installer v5.0 (1995-01-20)(Sonic Systems)(Disk 2 of 2)[b][possibly bad]">
+		<description>Ethernet Installer v5.0 (1995-01-20)(Sonic Systems)(Disk 2 of 2)[b][possibly bad]</description>
+		<rom name="Ethernet Installer v5.0 (1995-01-20)(Sonic Systems)(Disk 2 of 2)[b][possibly bad].img" size="819200" crc="36441b00" md5="0a0eb499317b9d5759a2dcbaa3d538d1" sha1="92d1580f6d1589ec52b110eacfea529ca409541c"/>
+	</game>
+	<game name="LaserWriter (1996)(Apple)(DE)(M10)(Disk 1 of 7)">
+		<description>LaserWriter (1996)(Apple)(DE)(M10)(Disk 1 of 7)</description>
+		<rom name="LaserWriter (1996)(Apple)(DE)(M10)(Disk 1 of 7).img" size="1474560" crc="3254cad9" md5="fd6c73e5408d7024804d08b9564cedb1" sha1="dda3bc36af076de009baab87864a401e7886a39c"/>
+	</game>
+	<game name="LaserWriter (1996)(Apple)(DE)(M10)(Disk 2 of 7)">
+		<description>LaserWriter (1996)(Apple)(DE)(M10)(Disk 2 of 7)</description>
+		<rom name="LaserWriter (1996)(Apple)(DE)(M10)(Disk 2 of 7).img" size="1474560" crc="fc9d4d2a" md5="2709ed03de690ec43ed582b1d79ec889" sha1="2e34118606a15414248eae68131696820b5fa1c0"/>
+	</game>
+	<game name="LaserWriter (1996)(Apple)(DE)(M10)(Disk 4 of 7)">
+		<description>LaserWriter (1996)(Apple)(DE)(M10)(Disk 4 of 7)</description>
+		<rom name="LaserWriter (1996)(Apple)(DE)(M10)(Disk 4 of 7).img" size="1474560" crc="b64f8f3b" md5="a39c4062164f0e0094cdcbfac2d4a1fc" sha1="46e5e4b9579fa1789a76afc5638049bd68df54cf"/>
+	</game>
+	<game name="LaserWriter (1996)(Apple)(DE)(M10)(Disk 5 of 7)">
+		<description>LaserWriter (1996)(Apple)(DE)(M10)(Disk 5 of 7)</description>
+		<rom name="LaserWriter (1996)(Apple)(DE)(M10)(Disk 5 of 7).img" size="1474560" crc="ae1d88d5" md5="338d3b5355592a51471dc330ca0dc6cc" sha1="d9e8fc7ada46efd3af94ee05a36d7662ac47a4f4"/>
+	</game>
+	<game name="LaserWriter (1996)(Apple)(DE)(M10)(Disk 6 of 7)">
+		<description>LaserWriter (1996)(Apple)(DE)(M10)(Disk 6 of 7)</description>
+		<rom name="LaserWriter (1996)(Apple)(DE)(M10)(Disk 6 of 7).img" size="1474560" crc="5466eefe" md5="828e81e681400b9f98effca68d819f04" sha1="752e54bb654bb66469b2a7cde7c7c6371a060dd7"/>
+	</game>
+	<game name="LaserWriter (1996)(Apple)(DE)(M10)(Disk 7 of 7)">
+		<description>LaserWriter (1996)(Apple)(DE)(M10)(Disk 7 of 7)</description>
+		<rom name="LaserWriter (1996)(Apple)(DE)(M10)(Disk 7 of 7).img" size="1474560" crc="84c75a55" md5="d15b19316db23a2a08926afb44016159" sha1="6b9c8fc888e8a3446c0256e4da035a5751ad2729"/>
+	</game>
+</datafile>

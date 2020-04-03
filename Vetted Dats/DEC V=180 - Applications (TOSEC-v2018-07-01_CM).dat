@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>DEC VT-180 - Applications</name>
+		<description>DEC VT-180 - Applications (TOSEC-v2018-07-01)</description>
+		<category>TOSEC</category>
+		<version>2018-07-01</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="VT-180 Diag (1979)(Digital Research)">
+		<description>VT-180 Diag (1979)(Digital Research)</description>
+		<rom name="VT-180 Diag (1979)(Digital Research).imd" size="43261" crc="d4c89a9e" md5="7b51925a7e8ccb8a814d52d0d6e170ac" sha1="d11ecba99d4570e19760ca93b8b0a9ecdf157f77"/>
+	</game>
+	<game name="VT-180 Kermit (197x)(Digital Research)">
+		<description>VT-180 Kermit (197x)(Digital Research)</description>
+		<rom name="VT-180 Kermit (197x)(Digital Research).imd" size="135242" crc="6029ce12" md5="0d9e30d07d1913d818248889d9a9f5c6" sha1="42e056d02a0d1dcfa71f825cc35e83803b2dfe6d"/>
+	</game>
+	<game name="VT-180 Multiplan (1979)(Digital Research)">
+		<description>VT-180 Multiplan (1979)(Digital Research)</description>
+		<rom name="VT-180 Multiplan (1979)(Digital Research).imd" size="132178" crc="724e8638" md5="51b2dfa0de9a180a0b61de4bd1ea0309" sha1="d3a0d20e34bd8fc613996f89419280198258556d"/>
+	</game>
+	<game name="VT-180 Select (1979)(Digital Research)">
+		<description>VT-180 Select (1979)(Digital Research)</description>
+		<rom name="VT-180 Select (1979)(Digital Research).imd" size="144950" crc="3ff1498e" md5="d95a81b95a1a0113afdb7b8d2d6bcae5" sha1="9d27c16ae05151564d327f09ff94c0ea4ff5f564"/>
+	</game>
+</datafile>

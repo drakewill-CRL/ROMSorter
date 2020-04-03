@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Acorn BBC - Educational - [ADL]</name>
+		<description>Acorn BBC - Educational - [ADL] (TOSEC-v2013-10-22)</description>
+		<category>TOSEC</category>
+		<version>2013-10-22</version>
+		<author>CRSV - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="CeeFAX Advanced Teletext Receiver Course (19xx)(-)[h 8-Bit][ADFS]">
+		<description>CeeFAX Advanced Teletext Receiver Course (19xx)(-)[h 8-Bit][ADFS]</description>
+		<rom name="CeeFAX Advanced Teletext Receiver Course (19xx)(-)[h 8-Bit][ADFS].adl" size="655360" crc="c312332f" md5="2733ea8634a04de90cd5f9e981e51aaf" sha1="2a6f1c815417d4883041c16831ad95f78552257a"/>
+	</game>
+	<game name="CeeFAX ASM Notes (19xx)(-)[h 8-Bit][ADFS]">
+		<description>CeeFAX ASM Notes (19xx)(-)[h 8-Bit][ADFS]</description>
+		<rom name="CeeFAX ASM Notes (19xx)(-)[h 8-Bit][ADFS].adl" size="655360" crc="d9a9630f" md5="7723985ef628bec15d6542aa8fb9181a" sha1="ecbc2f5af0dd05a02ec4e134c883d2b3b5c110c3"/>
+	</game>
+	<game name="CeeFAX DFS &amp; Speech (19xx)(-)[h 8-Bit][ADFS]">
+		<description>CeeFAX DFS &amp; Speech (19xx)(-)[h 8-Bit][ADFS]</description>
+		<rom name="CeeFAX DFS &amp; Speech (19xx)(-)[h 8-Bit][ADFS].adl" size="655360" crc="39ab0fc3" md5="8a3efb42fab49278160d92353bf0a2c5" sha1="463afa2ae53190d1096062133b5cb08abc69ca89"/>
+	</game>
+	<game name="CeeFAX Mouse &amp; Lightpen Notes (19xx)(-)[h 8-Bit][ADFS]">
+		<description>CeeFAX Mouse &amp; Lightpen Notes (19xx)(-)[h 8-Bit][ADFS]</description>
+		<rom name="CeeFAX Mouse &amp; Lightpen Notes (19xx)(-)[h 8-Bit][ADFS].adl" size="655360" crc="b7a258ba" md5="d4eeed5c44fb92c73c67df4c1d41bfc5" sha1="a4fe01e210a15dc1476c4d80d3f87381cf9b2910"/>
+	</game>
+	<game name="CeeFAX SWR Notes (19xx)(-)[h 8-Bit][ADFS]">
+		<description>CeeFAX SWR Notes (19xx)(-)[h 8-Bit][ADFS]</description>
+		<rom name="CeeFAX SWR Notes (19xx)(-)[h 8-Bit][ADFS].adl" size="655360" crc="52a2d690" md5="fded9f80aad2bb78ec877a407d114113" sha1="cde051eca8b6812a513935b8ab32a3641f5263ca"/>
+	</game>
+	<game name="Interbase Programming Manual (19xx)(-)[ADFS]">
+		<description>Interbase Programming Manual (19xx)(-)[ADFS]</description>
+		<rom name="Interbase Programming Manual (19xx)(-)[ADFS].adl" size="655360" crc="761d8e9d" md5="f79471e9fd009e47062011cebc438bae" sha1="d841424d745a15abba6ddf1e46b22b83ca0cc823"/>
+	</game>
+</datafile>

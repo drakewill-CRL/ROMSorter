@@ -89,7 +89,6 @@
             // chkZipIdentified
             // 
             this.chkZipIdentified.AutoSize = true;
-            this.chkZipIdentified.Enabled = false;
             this.chkZipIdentified.Location = new System.Drawing.Point(12, 188);
             this.chkZipIdentified.Name = "chkZipIdentified";
             this.chkZipIdentified.Size = new System.Drawing.Size(161, 17);
@@ -99,6 +98,7 @@
             // 
             // btnReport
             // 
+            this.btnReport.Enabled = false;
             this.btnReport.Location = new System.Drawing.Point(107, 66);
             this.btnReport.Name = "btnReport";
             this.btnReport.Size = new System.Drawing.Size(76, 76);

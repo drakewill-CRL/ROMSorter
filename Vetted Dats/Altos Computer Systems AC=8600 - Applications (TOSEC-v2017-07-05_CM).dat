@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+		<header>
+		<name>Altos Computer Systems ACS-8600 - Applications</name>
+		<description>Altos Computer Systems ACS-8600 - Applications (TOSEC-v2017-07-05)</description>
+		<category>TOSEC</category>
+		<version>2017-07-05</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<url>http://www.tosecdev.org</url>
+		<clrmamepro/>
+	</header>
+	<game name="Diagnostics for CDC-114 20M (19xx)(-)">
+		<description>Diagnostics for CDC-114 20M (19xx)(-)</description>
+		<rom name="Diagnostics for CDC-114 20M (19xx)(-).imd" size="272766" crc="665efeeb" md5="2e2da126fab0977a50fdc422f84b6049" sha1="a9184447c46dfa11b961928f55c92f7ea1559b41"/>
+	</game>
+</datafile>

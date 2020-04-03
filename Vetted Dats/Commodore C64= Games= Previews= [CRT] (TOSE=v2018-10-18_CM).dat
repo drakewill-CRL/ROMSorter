@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Games - Previews - [CRT]</name>
+		<description>Commodore C64 - Games - Previews - [CRT] (TOSEC-v2018-10-18)</description>
+		<category>TOSEC</category>
+		<version>2018-10-18</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Bugs Bunny (1992)(Hi-Tec)">
+		<description>Bugs Bunny (1992)(Hi-Tec)</description>
+		<rom name="Bugs Bunny (1992)(Hi-Tec).crt" size="525376" crc="e8ec5ab6" md5="93000c92a5aa2604dbec5f31b6213151" sha1="6ebea6b1f0e4a93358ad878ecb34a5531d0ece62"/>
+	</game>
+	<game name="Crystal Castles (1984)(Atarisoft)">
+		<description>Crystal Castles (1984)(Atarisoft)</description>
+		<rom name="Crystal Castles (1984)(Atarisoft).crt" size="16464" crc="6a698f17" md5="fb681ef7d84dd7795cbf5b79eddc8b7e" sha1="573ac2f80673e9063efaaf9d5cd63d2282b3a889"/>
+	</game>
+	<game name="Crystal Castles (1984)(Atarisoft)[a]">
+		<description>Crystal Castles (1984)(Atarisoft)[a]</description>
+		<rom name="Crystal Castles (1984)(Atarisoft)[a].crt" size="16464" crc="f3819376" md5="e63681393956f4e3989c10011d7e964d" sha1="e076599b8538a99bbf495e3729f605b0c153814f"/>
+	</game>
+	<game name="Crystal Castles (1984)(Atarisoft)[a2]">
+		<description>Crystal Castles (1984)(Atarisoft)[a2]</description>
+		<rom name="Crystal Castles (1984)(Atarisoft)[a2].crt" size="16464" crc="8f40c27b" md5="0ef8233b208d8fb8ef1e8c254d9ca729" sha1="d46e741a3b9e7c8aca45bec5c562bb5d182365d4"/>
+	</game>
+	<game name="Daffy Duck (1992)(Hi-Tec)">
+		<description>Daffy Duck (1992)(Hi-Tec)</description>
+		<rom name="Daffy Duck (1992)(Hi-Tec).crt" size="525376" crc="57e42215" md5="736312582ff789457cda60a859d3e3ad" sha1="80101305dc1c8a122bea952792d147d3928727ef"/>
+	</game>
+</datafile>

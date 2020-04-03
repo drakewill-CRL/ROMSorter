@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore Amiga CD32 - Homebrew - Games - [IMG]</name>
+		<description>Commodore Amiga CD32 - Homebrew - Games - [IMG] (TOSEC-v2012-07-22)</description>
+		<category>TOSEC-ISO</category>
+		<version>2012-07-22</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Puzznic v1.2 (1990)(Ocean)[m Anarka]">
+		<description>Puzznic v1.2 (1990)(Ocean)[m Anarka]</description>
+		<rom name="Puzznic v1.2 (1990)(Ocean)[m Anarka].ccd" size="783" crc="cf419ef9" md5="709d6f1af7a7e308e76262b2d018481f" sha1="ad7d2fed5b86d47f736c5654f58af4f185ab517b"/>
+		<rom name="Puzznic v1.2 (1990)(Ocean)[m Anarka].img" size="6921936" crc="6afc24fe" md5="ad8cd42eaa9ad47c91883aee75e8f499" sha1="9c819011bb46c5269cfa188bb9faf408378d53ce"/>
+		<rom name="Puzznic v1.2 (1990)(Ocean)[m Anarka].sub" size="282528" crc="e3ca3c28" md5="c171e7b091e2ae90751cec2140f42bd4" sha1="3c223e40bf08bd4834141cb1896fcd5cc1581836"/>
+	</game>
+	<game name="Super Street Fighter II - The New Challengers (1995)(U.S. Gold)[m Rochabian][v1.1]">
+		<description>Super Street Fighter II - The New Challengers (1995)(U.S. Gold)[m Rochabian][v1.1]</description>
+		<rom name="Super Street Fighter II - The New Challengers (1995)(U.S. Gold)[m Rochabian][v1.1].ccd" size="785" crc="fb80e428" md5="201fa26cb34277b107824d6fd5a3366d" sha1="58c89397a91ce7d5d69488ddeeeabcf1802fdabf"/>
+		<rom name="Super Street Fighter II - The New Challengers (1995)(U.S. Gold)[m Rochabian][v1.1].img" size="4755744" crc="33e8a637" md5="aa6061f99b67d802249ed20afd1d7e20" sha1="0ec9f937a0120578de120e841e92fbdd4c7a21c7"/>
+		<rom name="Super Street Fighter II - The New Challengers (1995)(U.S. Gold)[m Rochabian][v1.1].sub" size="194112" crc="905024d4" md5="78eb14085933cbaf62ff0bb2898da228" sha1="1ce393f160ba097e935218558d38565b7f4e309d"/>
+	</game>
+	<game name="T-Racer (1993)(Virtual Dreams)(SW)[m DaNi]">
+		<description>T-Racer (1993)(Virtual Dreams)(SW)[m DaNi]</description>
+		<rom name="T-Racer (1993)(Virtual Dreams)(SW)[m DaNi].ccd" size="769" crc="b0978923" md5="0a5ead41adfcbbd80f752de23c351640" sha1="4af348590bc0c4486add58ce803ef938eaa32bd2"/>
+		<rom name="T-Racer (1993)(Virtual Dreams)(SW)[m DaNi].img" size="3201072" crc="574f369d" md5="d66e940b0309f81a62b2fe658b4e17e6" sha1="97eb7bc2655c208219b8d87d33563d9f9756cb07"/>
+		<rom name="T-Racer (1993)(Virtual Dreams)(SW)[m DaNi].sub" size="130656" crc="25988159" md5="4f365f5961db062dc32a6f84b1efea76" sha1="b8fd01c3c3c102e14917fa5a3f203cc730e3763c"/>
+	</game>
+</datafile>

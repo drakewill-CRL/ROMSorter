@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>PTC Sol Terminal Computer SOL-20 - Various - [PRN]</name>
+		<description>PTC Sol Terminal Computer SOL-20 - Various - [PRN] (TOSEC-v2011-08-31)</description>
+		<category>TOSEC</category>
+		<version>2011-08-31</version>
+		<author>Cid - Gnomula - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="SolOS v1.3 Rev 5 (19xx)(-)">
+		<description>SolOS v1.3 Rev 5 (19xx)(-)</description>
+		<rom name="SolOS v1.3 Rev 5 (19xx)(-).prn" size="42752" crc="734713c3" md5="61135e4486b89acf61b9a8386c9a69fe" sha1="70c8eacd24c3fc6d51d9855bdd1958192050ef08"/>
+	</game>
+</datafile>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Memotech MTX - Demos</name>
+		<description>Memotech MTX - Demos (TOSEC-v2011-08-12)</description>
+		<category>TOSEC</category>
+		<version>2011-08-12</version>
+		<author>Cid - Grendel - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Memotech Demo (1983)(Memotech)">
+		<description>Memotech Demo (1983)(Memotech)</description>
+		<rom name="Memotech Demo (1983)(Memotech).mtx" size="7856" crc="4eac5372" md5="38b82689d60ef31e5846db8dd5cfddd0" sha1="7423f6970cb79a7d04e65474b278601e5e02a580"/>
+	</game>
+	<game name="Noise Sample (1991)(Farrow, Matt)(PD)">
+		<description>Noise Sample (1991)(Farrow, Matt)(PD)</description>
+		<rom name="Noise Sample (1991)(Farrow, Matt)(PD).mtx" size="3220" crc="bfafc0df" md5="7e67849ec4c35f50de39133e6bce0b2b" sha1="de1a4d5796b019352a6f714644e3696389a9c889"/>
+	</game>
+	<game name="Sprites (1984)(-)(PD)">
+		<description>Sprites (1984)(-)(PD)</description>
+		<rom name="Sprites (1984)(-)(PD).mtx" size="10480" crc="921fb553" md5="011cf786b47e73c04456686eed818cac" sha1="60ba50a01f01aeb215e0eb348bee7d6e913a5ab1"/>
+	</game>
+	<game name="Square Sample (1991)(Farrow, Matt)">
+		<description>Square Sample (1991)(Farrow, Matt)</description>
+		<rom name="Square Sample (1991)(Farrow, Matt).mtx" size="51860" crc="42516d8b" md5="36376220aaab3fa7742c2a330685c6dc" sha1="da1b1880f2088efcddd989e7168b7661ed8e33ba"/>
+	</game>
+</datafile>

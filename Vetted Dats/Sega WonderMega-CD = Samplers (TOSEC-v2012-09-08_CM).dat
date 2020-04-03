@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega WonderMega - CD - Samplers</name>
+		<description>Sega WonderMega - CD - Samplers (TOSEC-v2012-09-08)</description>
+		<category>TOSEC-ISO</category>
+		<version>2012-09-08</version>
+		<author>TOSEC-ISO: Trurip</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="JVC CD+G Karaoke - Top Hit Sampler (1993)(JVC)(US)">
+		<description>JVC CD+G Karaoke - Top Hit Sampler (1993)(JVC)(US)</description>
+		<rom name="JVC CD+G Karaoke - Top Hit Sampler (1993)(JVC)(US).ccd" size="1561" crc="41c1be6f" md5="7d2415cbf196df0a213f8472a8706d54" sha1="6565b50431b5cb58f766982c7b27c90ec0c6547a"/>
+		<rom name="JVC CD+G Karaoke - Top Hit Sampler (1993)(JVC)(US).img" size="267269520" crc="68bcd928" md5="2cf5f893b50e29cd304555f43e05f2de" sha1="4e2c95692a880365c1c4303bbae9d0c2f75a2b19"/>
+		<rom name="JVC CD+G Karaoke - Top Hit Sampler (1993)(JVC)(US).sub" size="10908960" crc="94c105d8" md5="cd08c513c5aa1aaf15a8e3692ce4bca4" sha1="d9236082f1af96cee80a00ad8178d05ad5f42312"/>
+	</game>
+	<game name="WonderMega Collection (1992)(JVC)(JP)(en-ja)">
+		<description>WonderMega Collection (1992)(JVC)(JP)(en-ja)</description>
+		<rom name="WonderMega Collection (1992)(JVC)(JP)(en-ja).ccd" size="6164" crc="55facd21" md5="3de7a72347e6fa44d6a36e0586131d75" sha1="0f31d7e570d76b4bee104770e3bba0328df9c3ff"/>
+		<rom name="WonderMega Collection (1992)(JVC)(JP)(en-ja).img" size="614841024" crc="794faec7" md5="d9e640d37eb2ede30f028887286d816f" sha1="d598e2bd58200fc7fa345f892a1b9072d457211b"/>
+		<rom name="WonderMega Collection (1992)(JVC)(JP)(en-ja).sub" size="25095552" crc="4a1b5f31" md5="f405324ed7d467003faff8ed876f07c3" sha1="cf60cf5eff72fd785974e2527e1b398321988ff9"/>
+	</game>
+</datafile>

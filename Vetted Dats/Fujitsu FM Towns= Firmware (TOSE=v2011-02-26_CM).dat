@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Fujitsu FM Towns - Firmware</name>
+		<description>Fujitsu FM Towns - Firmware (TOSEC-v2011-02-26)</description>
+		<category>TOSEC</category>
+		<version>2011-02-26</version>
+		<author>Aral</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="FM-Towns BIOS (1993)(Fujitsu)(JP)[m Custom FM-Towns Emulator ROM]">
+		<description>FM-Towns BIOS (1993)(Fujitsu)(JP)[m Custom FM-Towns Emulator ROM]</description>
+		<rom name="FMT_DIC.ROM" size="524288" crc="82d1daa2" md5="8fa4e553f28cfc0c30a0a1e589799942" sha1="7564020dba71deee27184824b84dbbbb7c72aa4e"/>
+		<rom name="FMT_DOS.ROM" size="524288" crc="112872ee" md5="0585b19930d4a7f4c71bcc8a33746588" sha1="57fd146478226f7f215caf63154c763a6d52165e"/>
+		<rom name="FMT_F20.ROM" size="524288" crc="9f55a20c" md5="ac0c7021e9bf48ca84b51ab651169a88" sha1="1920711cb66340bb741a760de187de2f76040b8c"/>
+		<rom name="FMT_FNT.ROM" size="262144" crc="dd6fd544" md5="b91300e55b70227ce98b59c5f02fa8dd" sha1="a216482ea3162f348fcf77fea78e0b2e4288091a"/>
+		<rom name="FMT_SYS.rom" size="262144" crc="842b72d8" md5="5b2f2e4c76a7335e4cdba290546ce52f" sha1="29466334dd0b063ea54c24400bae94d6d9c493a4"/>
+	</game>
+	<game name="FM-Towns BIOS v10 (1993)(Fujitsu)(JP)">
+		<description>FM-Towns BIOS v10 (1993)(Fujitsu)(JP)</description>
+		<rom name="FMT_DIC.ROM" size="524288" crc="82d1daa2" md5="8fa4e553f28cfc0c30a0a1e589799942" sha1="7564020dba71deee27184824b84dbbbb7c72aa4e"/>
+		<rom name="FMT_DOS.ROM" size="524288" crc="112872ee" md5="0585b19930d4a7f4c71bcc8a33746588" sha1="57fd146478226f7f215caf63154c763a6d52165e"/>
+		<rom name="FMT_F20.ROM" size="524288" crc="9f55a20c" md5="ac0c7021e9bf48ca84b51ab651169a88" sha1="1920711cb66340bb741a760de187de2f76040b8c"/>
+		<rom name="FMT_FNT.ROM" size="262144" crc="dd6fd544" md5="b91300e55b70227ce98b59c5f02fa8dd" sha1="a216482ea3162f348fcf77fea78e0b2e4288091a"/>
+		<rom name="FMT_SYS.ROM" size="262144" crc="afe4ebcf" md5="86fb6f7280689259f0ca839dd3dd6cde" sha1="4cd51de4fca9bd7a3d91d09ad636fa6b47a41df5"/>
+	</game>
+</datafile>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore Amiga - CD - Applications - [IMG]</name>
+		<description>Commodore Amiga - CD - Applications - [IMG] (TOSEC-v2018-07-02)</description>
+		<category>TOSEC-ISO</category>
+		<version>2018-07-02</version>
+		<author>Tomse - TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+		<clrmamepro/>
+	</header>
+	<game name="BurnIT DAO-Version v2.65 (2000)(Titan Computers)(de-en)[serial]">
+		<description>BurnIT DAO-Version v2.65 (2000)(Titan Computers)(de-en)[serial]</description>
+		<rom name="BurnIT DAO-Version v2.65 (2000)(Titan Computers)(de-en)[serial].ccd" size="772" crc="5b1c9970" md5="a331a7c1262aa409f63a7c5707208f46" sha1="dd604c708248526da9de03314845f08b40988198"/>
+		<rom name="BurnIT DAO-Version v2.65 (2000)(Titan Computers)(de-en)[serial].cue" size="127" crc="a0eb3669" md5="37ae273aed6b8e9d4cfa90c33d6d1ade" sha1="0cb628a5e617de37d85df2fba5eac7e017f268a1"/>
+		<rom name="BurnIT DAO-Version v2.65 (2000)(Titan Computers)(de-en)[serial].img" size="267027264" crc="8b435609" md5="acced53f8a172f3e92babe93441b4fa9" sha1="036f40e0b16a7ab5c7a9cf25c2680891a049f507"/>
+		<rom name="BurnIT DAO-Version v2.65 (2000)(Titan Computers)(de-en)[serial].sub" size="10899072" crc="aa57700f" md5="be006015b0048e4ed939fd31fcaeee16" sha1="1f41f37f0f7385dbb62886fce70d593398f345b7"/>
+	</game>
+	<game name="CyberGraphX v4 (1999)(Schatztruhe)">
+		<description>CyberGraphX v4 (1999)(Schatztruhe)</description>
+		<rom name="CyberGraphX v4 (1999)(Schatztruhe).ccd" size="770" crc="a6c91f51" md5="8f93d276908849ed8078eefffdc219dc" sha1="d46caaf67b523fb032b1e6efa238f5d4f5c23d96"/>
+		<rom name="CyberGraphX v4 (1999)(Schatztruhe).cue" size="98" crc="48d0191e" md5="922955e8f41c7d4fb183c5377bbde34b" sha1="74be23b7997bcc7300658ec8cacaa3c7656578bc"/>
+		<rom name="CyberGraphX v4 (1999)(Schatztruhe).img" size="59879568" crc="19483da2" md5="9c50c7a19c7f3c76b6e24efef237a929" sha1="901646c7f74e7d5ad9f98938fcf3fc8ee74e7330"/>
+		<rom name="CyberGraphX v4 (1999)(Schatztruhe).sub" size="2444064" crc="412c2223" md5="31b4aefe535b47f0f06e5d0a2ce052ca" sha1="6805b4378b04ae24a53c6eafe3465b1ce2f17c49"/>
+	</game>
+</datafile>

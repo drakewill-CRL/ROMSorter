@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tektronix 4100 Series - System - [DSK]</name>
+		<description>Tektronix 4100 Series - System - [DSK] (TOSEC-v2017-04-05)</description>
+		<category>TOSEC</category>
+		<version>2017-04-05</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<url>http://www.tosecdev.org</url>
+		<clrmamepro/>
+	</header>
+	<game name="CP-M-86 Operating System v1.1 Level 1.2 (1984)(Tektronix)[Serial No. B030517, 4100P01]">
+		<description>CP-M-86 Operating System v1.1 Level 1.2 (1984)(Tektronix)[Serial No. B030517, 4100P01]</description>
+		<rom name="CP-M-86 Operating System v1.1 Level 1.2 (1984)(Tektronix)[Serial No. B030517, 4100P01].dsk" size="327680" crc="ac9e4129" md5="1d8dabb1c4a1dcbe0abced128012c348" sha1="addf074e44e54a6a930c0225729b702afec641e9"/>
+	</game>
+	<game name="DTI and BIOS Source v1.1 Level 1.2 (1984)(Tektronix)[Serial No. B030517, 4100P01]">
+		<description>DTI and BIOS Source v1.1 Level 1.2 (1984)(Tektronix)[Serial No. B030517, 4100P01]</description>
+		<rom name="DTI and BIOS Source v1.1 Level 1.2 (1984)(Tektronix)[Serial No. B030517, 4100P01].dsk" size="327680" crc="875f822a" md5="2d685e878dd15a36768a4c7c5d5f4c4a" sha1="84dd51c8d48221cd892757ef8f57dbd287b1fb22"/>
+	</game>
+</datafile>

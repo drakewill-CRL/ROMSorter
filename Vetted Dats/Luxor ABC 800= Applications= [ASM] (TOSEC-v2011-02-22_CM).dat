@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Luxor ABC 800 - Applications - [ASM]</name>
+		<description>Luxor ABC 800 - Applications - [ASM] (TOSEC-v2011-02-22)</description>
+		<category>TOSEC</category>
+		<version>2011-02-22</version>
+		<author>[Neoqoo] - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="BINTOHEX v1.0 (1986)(Eriksson, Kristoffer)(SE)">
+		<description>BINTOHEX v1.0 (1986)(Eriksson, Kristoffer)(SE)</description>
+		<rom name="BINTOHEX v1.0 (1986)(Eriksson, Kristoffer)(SE).asm" size="2468" crc="b3736210" md5="7670a2c9e04d4471ad4296925b462211" sha1="69aad612420ebaac7c2cc354aa031fd98021b780"/>
+	</game>
+	<game name="BITIO v1.0 (1987)(Eriksson, Kristoffer)(SE)">
+		<description>BITIO v1.0 (1987)(Eriksson, Kristoffer)(SE)</description>
+		<rom name="BITIO v1.0 (1987)(Eriksson, Kristoffer)(SE).asm" size="3748" crc="fbfd4689" md5="b1d49e408b098991fd362c437d61890c" sha1="c32e134efe605aaacccc2063199dd5dbb2a2b979"/>
+	</game>
+	<game name="BKSCROLL (1986)(Eriksson, Kristoffer)(SE)">
+		<description>BKSCROLL (1986)(Eriksson, Kristoffer)(SE)</description>
+		<rom name="BKSCROLL (1986)(Eriksson, Kristoffer)(SE).asm" size="2603" crc="b0a29829" md5="b8a405a0cc03fff29491eb26551cbe32" sha1="0dcb4267cb656ef2b01065275d5bf1441371fab3"/>
+	</game>
+	<game name="CAPSONLY v1.0 (1986)(Eriksson, Kristoffer)(SE)">
+		<description>CAPSONLY v1.0 (1986)(Eriksson, Kristoffer)(SE)</description>
+		<rom name="CAPSONLY v1.0 (1986)(Eriksson, Kristoffer)(SE).asm" size="3590" crc="2691a6b2" md5="80e7c02a603f38a9dd0081909174c67e" sha1="151d2dfee8718eb26e868659f5faff352baddccf"/>
+	</game>
+	<game name="CD v1.2 (1986)(Eriksson, Kristoffer)(SE)">
+		<description>CD v1.2 (1986)(Eriksson, Kristoffer)(SE)</description>
+		<rom name="CD v1.2 (1986)(Eriksson, Kristoffer)(SE).asm" size="21598" crc="8cfcb737" md5="13b4308a2bffebc7624ef0f6fd947712" sha1="9ff9c9207617c69678d12c4fe53fb3f5f440e0f0"/>
+	</game>
+	<game name="CDK v1.2 (1986)(Eriksson, Kristoffer)(SE)">
+		<description>CDK v1.2 (1986)(Eriksson, Kristoffer)(SE)</description>
+		<rom name="CDK v1.2 (1986)(Eriksson, Kristoffer)(SE).asm" size="15632" crc="eda8629c" md5="9749b9ff33f54b3a5e9655af8b1ec98b" sha1="a6e28e12456c9a485163141a81d55405bd4f1c9e"/>
+	</game>
+	<game name="CLINEPAR v1.0 (1986)(Eriksson, Kristoffer)(SE)">
+		<description>CLINEPAR v1.0 (1986)(Eriksson, Kristoffer)(SE)</description>
+		<rom name="CLINEPAR v1.0 (1986)(Eriksson, Kristoffer)(SE).asm" size="1831" crc="9bc79869" md5="e979cc8f75d9b42e8e2637b040f95a01" sha1="eb0535b352db45b9f863dddd1d53e4847a8745dd"/>
+	</game>
+	<game name="CONFIL0 v1.02 (1986)(Eriksson, Kristoffer)(SE)">
+		<description>CONFIL0 v1.02 (1986)(Eriksson, Kristoffer)(SE)</description>
+		<rom name="CONFIL0 v1.02 (1986)(Eriksson, Kristoffer)(SE).asm" size="3864" crc="64a2f4bc" md5="c4d6114b6bf599ff7f04325fd104dd15" sha1="3c05a4422026733ddb1e26da7073c576c54a0f6c"/>
+	</game>
+	<game name="CONSPACK v1.0 (1986)(Eriksson, Kristoffer)(SE)">
+		<description>CONSPACK v1.0 (1986)(Eriksson, Kristoffer)(SE)</description>
+		<rom name="CONSPACK v1.0 (1986)(Eriksson, Kristoffer)(SE).asm" size="957" crc="3095d4a4" md5="2addfd0512b7706b1257a3ba0cd9e52d" sha1="62653dee5f71b4637dbbd2b075a247c76e9278e8"/>
+	</game>
+	<game name="DEFEXT v1.01 (1987)(Eriksson, Kristoffer)(SE)">
+		<description>DEFEXT v1.01 (1987)(Eriksson, Kristoffer)(SE)</description>
+		<rom name="DEFEXT v1.01 (1987)(Eriksson, Kristoffer)(SE).asm" size="6692" crc="fd582f4e" md5="a68d04878a375e3c50a0172c1d023726" sha1="6984995447dadcfc6263a4769224ba81d6ccfa1d"/>
+	</game>
+	<game name="DEMON40 v1.0 (1986)(Eriksson, Kristoffer)(SE)">
+		<description>DEMON40 v1.0 (1986)(Eriksson, Kristoffer)(SE)</description>
+		<rom name="DEMON40 v1.0 (1986)(Eriksson, Kristoffer)(SE).asm" size="2648" crc="0a11efff" md5="00a734caa0d580e4d62f954ad8120d1f" sha1="b23dc5578385639bc4395b76dd584e186d60fc7e"/>
+	</game>
+	<game name="DOTOPT v2.01 (1986)(Eriksson, Kristoffer)(SE)">
+		<description>DOTOPT v2.01 (1986)(Eriksson, Kristoffer)(SE)</description>
+		<rom name="DOTOPT v2.01 (1986)(Eriksson, Kristoffer)(SE).asm" size="24709" crc="df46a138" md5="68975950af9eea13798126509902488e" sha1="9fd4d5a741188920a1349dcfb17a753ed6fa8510"/>
+	</game>
+	<game name="DOTSCRL (1985)(Eriksson, Kristoffer)(SE)">
+		<description>DOTSCRL (1985)(Eriksson, Kristoffer)(SE)</description>
+		<rom name="DOTSCRL (1985)(Eriksson, Kristoffer)(SE).asm" size="1370" crc="fc21747f" md5="18fb3296e138fcb72c388c0b5f2188f2" sha1="3d07adbb32e592c957eaa3fb8f831d17dfb6684f"/>
+	</game>
+	<game name="ENDINIT v1.1 (1986)(Eriksson, Kristoffer)(SE)">
+		<description>ENDINIT v1.1 (1986)(Eriksson, Kristoffer)(SE)</description>
+		<rom name="ENDINIT v1.1 (1986)(Eriksson, Kristoffer)(SE).asm" size="3607" crc="db7acc81" md5="ae60fb77bb08475e28e75315dbc838e9" sha1="90427f78013cc3fe70a5e05dadbb202f1232372b"/>
+	</game>
+	<game name="ENDREL v1.6 (1986)(Eriksson, Kristoffer)(SE)">
+		<description>ENDREL v1.6 (1986)(Eriksson, Kristoffer)(SE)</description>
+		<rom name="ENDREL v1.6 (1986)(Eriksson, Kristoffer)(SE).asm" size="4012" crc="ece3665c" md5="88f1dd697244ef38f503f6258f797bb1" sha1="43ad0625fe5fbb1dcdeb3de15e45743af8d6dac9"/>
+	</game>
+	<game name="EXEMPEL (1987)(Eriksson, Kristoffer)(SE)">
+		<description>EXEMPEL (1987)(Eriksson, Kristoffer)(SE)</description>
+		<rom name="EXEMPEL (1987)(Eriksson, Kristoffer)(SE).asm" size="1894" crc="8465f0bd" md5="c7be867c7b7c055cf32f8da61ccfb588" sha1="445f098cbe94585760757a9a1e3a8ea01883a86b"/>
+	</game>
+	<game name="GIO (1987)(Eriksson, Kristoffer)(SE)">
+		<description>GIO (1987)(Eriksson, Kristoffer)(SE)</description>
+		<rom name="GIO (1987)(Eriksson, Kristoffer)(SE).asm" size="2626" crc="83b937c7" md5="42f0ac3780e1e715b68049fc25989829" sha1="6b3cf50664154e0d9096d9459b9eeadd61c259ab"/>
+	</game>
+	<game name="HFM v1.0 (1987)(Eriksson, Kristoffer)(SE)">
+		<description>HFM v1.0 (1987)(Eriksson, Kristoffer)(SE)</description>
+		<rom name="HFM v1.0 (1987)(Eriksson, Kristoffer)(SE).asm" size="4401" crc="c371bdfb" md5="d2ee296832183d280a431f75a4951f9f" sha1="82e95c13514d66114ec0b13e7a48672e9c1e7d04"/>
+	</game>
+	<game name="HFMMAIN v1.0 (1987)(Eriksson, Kristoffer)(SE)">
+		<description>HFMMAIN v1.0 (1987)(Eriksson, Kristoffer)(SE)</description>
+		<rom name="HFMMAIN v1.0 (1987)(Eriksson, Kristoffer)(SE).asm" size="20583" crc="3a0b3f57" md5="388a1900dbf254159598ccc49a43bba1" sha1="e004765dee5ce949917661067fce062aad18368d"/>
+	</game>
+	<game name="HFMTREE v1.0 (1987)(Eriksson, Kristoffer)(SE)">
+		<description>HFMTREE v1.0 (1987)(Eriksson, Kristoffer)(SE)</description>
+		<rom name="HFMTREE v1.0 (1987)(Eriksson, Kristoffer)(SE).asm" size="31463" crc="52e3dd27" md5="4e01b869a4569fb27c650f87bee2652c" sha1="003379c2bbce7d2aeacbb2a3e37b58a2f5de41dc"/>
+	</game>
+	<game name="IDIV v1.0 (1987)(Eriksson, Kristoffer)(SE)">
+		<description>IDIV v1.0 (1987)(Eriksson, Kristoffer)(SE)</description>
+		<rom name="IDIV v1.0 (1987)(Eriksson, Kristoffer)(SE).asm" size="903" crc="8e2dac60" md5="ef2b85f7d4fde9f855a12cb989a2967a" sha1="924081c2aa0adcf0ab1bc6e1d5b5fa1726fcf317"/>
+	</game>
+	<game name="INPUTDOG v1.0 (1986)(Eriksson, Kristoffer)(SE)">
+		<description>INPUTDOG v1.0 (1986)(Eriksson, Kristoffer)(SE)</description>
+		<rom name="INPUTDOG v1.0 (1986)(Eriksson, Kristoffer)(SE).asm" size="4563" crc="bd72332c" md5="260ddba311798215545ef7c8f769e868" sha1="7c8939e283594b58ae302cc18b7bff409c93eebf"/>
+	</game>
+	<game name="KERMCSUM v1.0 (1987)(Eriksson, Kristoffer)(SE)">
+		<description>KERMCSUM v1.0 (1987)(Eriksson, Kristoffer)(SE)</description>
+		<rom name="KERMCSUM v1.0 (1987)(Eriksson, Kristoffer)(SE).asm" size="1404" crc="ff2deca1" md5="c7e10653217c7bd253c151ecc9c555d5" sha1="e2bc9dbe70921ed9c890ab2390c31d6292eed9d1"/>
+	</game>
+	<game name="KERMPACK v1.0 (1987)(Eriksson, Kristoffer)(SE)">
+		<description>KERMPACK v1.0 (1987)(Eriksson, Kristoffer)(SE)</description>
+		<rom name="KERMPACK v1.0 (1987)(Eriksson, Kristoffer)(SE).asm" size="13616" crc="42057bbc" md5="a2b0f5d681d2a119bbf401d581444909" sha1="f5d616f8331f7cea62665f54bbd014ee46ecbc94"/>
+	</game>
+	<game name="KEYMINIK v1.1 (1986)(Eriksson, Kristoffer)(SE)">
+		<description>KEYMINIK v1.1 (1986)(Eriksson, Kristoffer)(SE)</description>
+		<rom name="KEYMINIK v1.1 (1986)(Eriksson, Kristoffer)(SE).asm" size="7803" crc="1f356db0" md5="703a7b530d7f9ae238152b34b3e6d4d4" sha1="ba581070820edf92a35a06c5000ac95c782aec93"/>
+	</game>
+	<game name="MULTIUFD (1984)(Eriksson, Kristoffer)(SE)">
+		<description>MULTIUFD (1984)(Eriksson, Kristoffer)(SE)</description>
+		<rom name="MULTIUFD (1984)(Eriksson, Kristoffer)(SE).asm" size="1484" crc="5dcc2b05" md5="e38e9bf17afb0ade5e6290be9f0808ab" sha1="0ff0744fda73e535a98d2b8f503d8a3855bb8b86"/>
+	</game>
+	<game name="OPENFILE (1987)(Eriksson, Kristoffer)(SE)">
+		<description>OPENFILE (1987)(Eriksson, Kristoffer)(SE)</description>
+		<rom name="OPENFILE (1987)(Eriksson, Kristoffer)(SE).asm" size="4738" crc="911d5677" md5="99878f67f9539319e1819ffa7195e65e" sha1="fd34e671b770f1f80efddaa2617ca314355be8b8"/>
+	</game>
+	<game name="TRIBASC v1.0 (1987)(Eriksson, Kristoffer)(SE)">
+		<description>TRIBASC v1.0 (1987)(Eriksson, Kristoffer)(SE)</description>
+		<rom name="TRIBASC v1.0 (1987)(Eriksson, Kristoffer)(SE).asm" size="4250" crc="63d8330d" md5="9352f065f6a0b76d54457182e461e100" sha1="ab0fd1ad1fab4db0ca21ddfba4a49d6d1c856525"/>
+	</game>
+	<game name="WINDOW v2.0 (1988)(Eriksson, Kristoffer)(SE)">
+		<description>WINDOW v2.0 (1988)(Eriksson, Kristoffer)(SE)</description>
+		<rom name="WINDOW v2.0 (1988)(Eriksson, Kristoffer)(SE).asm" size="7161" crc="3acd4405" md5="314d1d7d66779e1b02ad42a16f0e8df5" sha1="2a76018775a43012c33eca6d9c3666765290f088"/>
+	</game>
+	<game name="WNDINIT v2.0 (1988)(Eriksson, Kristoffer)(SE)">
+		<description>WNDINIT v2.0 (1988)(Eriksson, Kristoffer)(SE)</description>
+		<rom name="WNDINIT v2.0 (1988)(Eriksson, Kristoffer)(SE).asm" size="7324" crc="85548154" md5="95214c055e723be22ca1edf3f9e72616" sha1="f4ad566c5fea8f599d7d6f30e0c5c7546541ace5"/>
+	</game>
+	<game name="WNDINPUT v2.0 (1988)(Eriksson, Kristoffer)(SE)">
+		<description>WNDINPUT v2.0 (1988)(Eriksson, Kristoffer)(SE)</description>
+		<rom name="WNDINPUT v2.0 (1988)(Eriksson, Kristoffer)(SE).asm" size="4353" crc="32cfc2fc" md5="33694c2938a6960c8c576299144cf61d" sha1="252e502ceb4d944cbfee390523b73328cfa349e6"/>
+	</game>
+	<game name="WNDMAIN v2.0 (1988)(Eriksson, Kristoffer)(SE)">
+		<description>WNDMAIN v2.0 (1988)(Eriksson, Kristoffer)(SE)</description>
+		<rom name="WNDMAIN v2.0 (1988)(Eriksson, Kristoffer)(SE).asm" size="20083" crc="d6bee05e" md5="a3898242ad6dd20a9e185ec0fcf90912" sha1="1e34b375314103f97a13e9b196487450bfd7c4de"/>
+	</game>
+	<game name="WNDOPEN v2.0 (1988)(Eriksson, Kristoffer)(SE)">
+		<description>WNDOPEN v2.0 (1988)(Eriksson, Kristoffer)(SE)</description>
+		<rom name="WNDOPEN v2.0 (1988)(Eriksson, Kristoffer)(SE).asm" size="12475" crc="479641a4" md5="9fc43d5fa76b4e4cb1065445ed89af8d" sha1="66de1f3c7f4d0916e561ff2755a581ce052f78db"/>
+	</game>
+	<game name="WNDSAVE v2.0 (1988)(Eriksson, Kristoffer)(SE)">
+		<description>WNDSAVE v2.0 (1988)(Eriksson, Kristoffer)(SE)</description>
+		<rom name="WNDSAVE v2.0 (1988)(Eriksson, Kristoffer)(SE).asm" size="7673" crc="a8bf3e2f" md5="2f90b22586bccc4b3c8e1dbcc5f2d708" sha1="e30067c8f960b0889367ca90ac152e5a6a5bc74d"/>
+	</game>
+	<game name="WNDSCRL v2.0 (1988)(Eriksson, Kristoffer)(SE)">
+		<description>WNDSCRL v2.0 (1988)(Eriksson, Kristoffer)(SE)</description>
+		<rom name="WNDSCRL v2.0 (1988)(Eriksson, Kristoffer)(SE).asm" size="5414" crc="e9059b0e" md5="8cf96bb8e55e3e30145d41a479f16813" sha1="e09d321fb7c575fce171e323e07f1a3dca202d15"/>
+	</game>
+	<game name="WNDWRITE v2.0 (1988)(Eriksson, Kristoffer)(SE)">
+		<description>WNDWRITE v2.0 (1988)(Eriksson, Kristoffer)(SE)</description>
+		<rom name="WNDWRITE v2.0 (1988)(Eriksson, Kristoffer)(SE).asm" size="11357" crc="1a8a566a" md5="4efd1ef74d2dfa6de8f852b7ec4f1fb3" sha1="dd1bd1fd1b95879aed76382dfc504d5d4c9771df"/>
+	</game>
+	<game name="WORDSPLT v1.0 (1987)(Eriksson, Kristoffer)(SE)">
+		<description>WORDSPLT v1.0 (1987)(Eriksson, Kristoffer)(SE)</description>
+		<rom name="WORDSPLT v1.0 (1987)(Eriksson, Kristoffer)(SE).asm" size="2835" crc="c5825397" md5="cf8b40aa5e8740cb07a39346d91efdef" sha1="a342b4201941243354a41c8d63dea0b71f5537e3"/>
+	</game>
+</datafile>

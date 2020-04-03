@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Epson PX-8, HC-88 &amp; Geneva - Applications - [ROM]</name>
+		<description>Epson PX-8, HC-88 &amp; Geneva - Applications - [ROM] (TOSEC-v2011-11-27)</description>
+		<category>TOSEC</category>
+		<version>2011-11-27</version>
+		<author>TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Cardbox (198x)(Business Simulations)">
+		<description>Cardbox (198x)(Business Simulations)</description>
+		<rom name="Cardbox (198x)(Business Simulations).rom" size="32768" crc="59eabc97" md5="b579d5742384c438913007aa349afdd3" sha1="360ad56cfaf9dbd8a56b47855e5ea41a5d5e4978"/>
+	</game>
+	<game name="Dakcom v1.1 (1986)(Harris, C.)">
+		<description>Dakcom v1.1 (1986)(Harris, C.)</description>
+		<rom name="Dakcom v1.1 (1986)(Harris, C.).rom" size="8192" crc="3a74a975" md5="19a6f691dcce5283008d6abee8f12be2" sha1="46300aeb10ec208a906143e2acd1f93badb6792d"/>
+	</game>
+	<game name="Geneva Connection v1.0 (1984)(Epson)">
+		<description>Geneva Connection v1.0 (1984)(Epson)</description>
+		<rom name="Geneva Connection v1.0 (1984)(Epson).rom" size="8192" crc="7971e79a" md5="34e83df43a1e2551bc224466fb9991bf" sha1="97cc1af6e7733eabcb4a85663022c6d3acea9d5a"/>
+	</game>
+	<game name="Portable Wordstar (1984)(MicroPro)">
+		<description>Portable Wordstar (1984)(MicroPro)</description>
+		<rom name="Portable Wordstar (1984)(MicroPro).rom" size="32768" crc="7f64dd48" md5="018e4a4018d3dfc76a93494373c83450" sha1="6d9f4e797fd7ac7b1ae2f0083d5461fa16731842"/>
+	</game>
+	<game name="SuperCalc v1.08 (1984)(Sorcim)(File 1 of 2)">
+		<description>SuperCalc v1.08 (1984)(Sorcim)(File 1 of 2)</description>
+		<rom name="SuperCalc v1.08 (1984)(Sorcim)(File 1 of 2).rom" size="32768" crc="58a0a411" md5="cfbae1d610d411e560cbf273c1f58528" sha1="7b80361cd594e3b9b9e925e6a193606f8faa185c"/>
+	</game>
+	<game name="SuperCalc v1.08 (1984)(Sorcim)(File 2 of 2)">
+		<description>SuperCalc v1.08 (1984)(Sorcim)(File 2 of 2)</description>
+		<rom name="SuperCalc v1.08 (1984)(Sorcim)(File 2 of 2).rom" size="32768" crc="ba1c664b" md5="3340da4c10e78d40ce67f7202bc52ebd" sha1="3c2a54a187f286eafb91f7571479a035d69d1df1"/>
+	</game>
+	<game name="Traveling Expense Manager (1984)(Traveling Software)">
+		<description>Traveling Expense Manager (1984)(Traveling Software)</description>
+		<rom name="Traveling Expense Manager (1984)(Traveling Software).rom" size="32768" crc="f2a8aa41" md5="2bc7f5c8eb50b5c0c1ce2af979921ffc" sha1="16203488eeac3cd21e11c8e0f2007527dd375597"/>
+	</game>
+	<game name="Traveling Time Manager (1984)(Traveling Software)">
+		<description>Traveling Time Manager (1984)(Traveling Software)</description>
+		<rom name="Traveling Time Manager (1984)(Traveling Software).rom" size="32768" crc="2303dcc3" md5="a2e416beb6b44f61682e6cf22a01d90e" sha1="0cc3926ef58ce1cf05fbe8caedf259439d204388"/>
+	</game>
+	<game name="Turbo Pascal v3.01 (19xx)(Dassow, Peter)">
+		<description>Turbo Pascal v3.01 (19xx)(Dassow, Peter)</description>
+		<rom name="Turbo Pascal v3.01 (19xx)(Dassow, Peter).rom" size="32768" crc="30a71af7" md5="a81354c92af43e61aa5bf99408cee349" sha1="e3f89fc4db6df8acc2f940e86e12eafb7af1303d"/>
+	</game>
+	<game name="Turbo Pascal v3.01 (19xx)(Dassow, Peter)[no BAK]">
+		<description>Turbo Pascal v3.01 (19xx)(Dassow, Peter)[no BAK]</description>
+		<rom name="Turbo Pascal v3.01 (19xx)(Dassow, Peter)[no BAK].rom" size="32768" crc="e27b306e" md5="ef41101c2cb8999f911cd1afc050823a" sha1="c883eefb55cc6d6bc2bb3df14067224f1b26d6ea"/>
+	</game>
+</datafile>

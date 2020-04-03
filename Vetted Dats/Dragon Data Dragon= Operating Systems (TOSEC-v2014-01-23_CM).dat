@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Dragon Data Dragon - Operating Systems</name>
+		<description>Dragon Data Dragon - Operating Systems (TOSEC-v2014-01-23)</description>
+		<category>TOSEC</category>
+		<version>2014-01-23</version>
+		<author>Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Cumana DOS v2.0 (1985)(Cumana)">
+		<description>Cumana DOS v2.0 (1985)(Cumana)</description>
+		<rom name="Cumana DOS v2.0 (1985)(Cumana).dgn" size="11280" crc="b36899d8" md5="801a1c0b19338ad9b2b9277c263e61bf" sha1="0e61d46eea658545c31aba9401af19d28dd6335e"/>
+	</game>
+	<game name="Dragon DOS Plus v4.9b (1989)(3S)">
+		<description>Dragon DOS Plus v4.9b (1989)(3S)</description>
+		<rom name="Dragon DOS Plus v4.9b (1989)(3S).dgn" size="8208" crc="bd2bb1a0" md5="422904ee3f429c023b55e2550f77a9fe" sha1="3c81ae64f1c74c51d06be7c1343c9d5a13092396"/>
+	</game>
+	<game name="Dragon DOS v1.0 (198x)(Dragon Data)">
+		<description>Dragon DOS v1.0 (198x)(Dragon Data)</description>
+		<rom name="Dragon DOS v1.0 (198x)(Dragon Data).dgn" size="8208" crc="e537d1ef" md5="37a0a0570886d3d4eb372435d3b660f0" sha1="51ddd410fde6e97067f02c57c50d9f6bae9e3519"/>
+	</game>
+	<game name="Dragon DOS v4.0 (1985)(Eurohard)">
+		<description>Dragon DOS v4.0 (1985)(Eurohard)</description>
+		<rom name="Dragon DOS v4.0 (1985)(Eurohard).dgn" size="8208" crc="561c27cc" md5="cd774ce049cab88033d2ecb47b65945d" sha1="eac90464f0acf8b7c19c0e8d85a31498bab646c2"/>
+	</game>
+	<game name="Super DOS E6 v6.0 (198x)(-)">
+		<description>Super DOS E6 v6.0 (198x)(-)</description>
+		<rom name="Super DOS E6 v6.0 (198x)(-).dgn" size="8208" crc="cef58ec3" md5="5f1de3df0330a34dfca272978f392aaf" sha1="0c41fa56940bcefd96eaf618f00bc8e9db3f9454"/>
+	</game>
+</datafile>

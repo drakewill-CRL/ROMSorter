@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo Super Famicom &amp; Super Entertainment System - Firmware</name>
+		<description>Nintendo Super Famicom &amp; Super Entertainment System - Firmware (TOSEC-v2011-08-13)</description>
+		<category>TOSEC</category>
+		<version>2011-08-13</version>
+		<author>Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Game Genie (1992)(Codemasters - Galoob)">
+		<description>Game Genie (1992)(Codemasters - Galoob)</description>
+		<rom name="Game Genie (1992)(Codemasters - Galoob).bin" size="32768" crc="f8d4c303" md5="9b6636b1908d672244bd687f0b388465" sha1="6d96c3556b8eef50d5a49a807f246cba1ff48b6b"/>
+	</game>
+	<game name="Game Genie (1992)(Codemasters - Galoob)[a]">
+		<description>Game Genie (1992)(Codemasters - Galoob)[a]</description>
+		<rom name="Game Genie (1992)(Codemasters - Galoob)[a].bin" size="65536" crc="58cbf2fe" md5="a7d74a21ebe4d2fafe0e9b8bb089d3e0" sha1="81a5c4667e3021094edf3c82b2e9d1e453f547b3"/>
+	</game>
+	<game name="Game Genie (1992)(Codemasters - Galoob)[b2]">
+		<description>Game Genie (1992)(Codemasters - Galoob)[b2]</description>
+		<rom name="Game Genie (1992)(Codemasters - Galoob)[b2].bin" size="524288" crc="e0d533f6" md5="ca69b98fb4249fbceba565e1fc9df8c6" sha1="413694f8c8e0b4df86724321d3406a51191cc131"/>
+	</game>
+	<game name="Game Genie (1992)(Codemasters - Galoob)[b3]">
+		<description>Game Genie (1992)(Codemasters - Galoob)[b3]</description>
+		<rom name="Game Genie (1992)(Codemasters - Galoob)[b3].bin" size="524288" crc="d466ea98" md5="884ebffea729fe93c6cafd741c0f3977" sha1="8b972fa89b1cdd271e9ab0f2ef4e263bc5c17817"/>
+	</game>
+	<game name="Game Genie (1992)(Codemasters - Galoob)[b4]">
+		<description>Game Genie (1992)(Codemasters - Galoob)[b4]</description>
+		<rom name="Game Genie (1992)(Codemasters - Galoob)[b4].bin" size="262144" crc="0271906e" md5="1df4b1241ed86e0bbb37d99be8c73197" sha1="89e99e84d29fe10b2e03f1c8331fe0d98668af75"/>
+	</game>
+	<game name="Game Genie (1992)(Codemasters - Galoob)[b]">
+		<description>Game Genie (1992)(Codemasters - Galoob)[b]</description>
+		<rom name="Game Genie (1992)(Codemasters - Galoob)[b].bin" size="262144" crc="5a98b868" md5="7f7db068a91611af339d0544c48b6453" sha1="a8c1b147372f90b2032f753ae28187a1477f6189"/>
+	</game>
+	<game name="Game Genie v2.0 (1992)(Codemasters - Galoob)">
+		<description>Game Genie v2.0 (1992)(Codemasters - Galoob)</description>
+		<rom name="Game Genie v2.0 (1992)(Codemasters - Galoob).bin" size="32768" crc="ac94f94a" md5="e5213200466a1c7a3cafeb42e773da37" sha1="58dd143049c5a1527975d64c9773b605aca307c3"/>
+	</game>
+</datafile>

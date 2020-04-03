@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>SNK Neo-Geo Pocket Color - Multimedia</name>
+		<description>SNK Neo-Geo Pocket Color - Multimedia (TOSEC-v2011-08-13)</description>
+		<category>TOSEC</category>
+		<version>2011-08-13</version>
+		<author>Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Hicolor Slideshow 1 (2001)(Thor)(PD)">
+		<description>Hicolor Slideshow 1 (2001)(Thor)(PD)</description>
+		<rom name="Hicolor Slideshow 1 (2001)(Thor)(PD).bin" size="52709" crc="16344ea9" md5="f09d410517031b43ee4367420eba320c" sha1="dacd1b34389e27f00481df8035b55e500c5816e6"/>
+	</game>
+	<game name="Hicolor Slideshow 2 (2001)(Thor)(PD)">
+		<description>Hicolor Slideshow 2 (2001)(Thor)(PD)</description>
+		<rom name="Hicolor Slideshow 2 (2001)(Thor)(PD).bin" size="99057" crc="f212ca49" md5="ebf374471a2cfe940cb0299c6c74e7d7" sha1="5e72aaee02b0c5032a60935d2c2db5547d38879f"/>
+	</game>
+	<game name="Hicolor Slideshow 3 (2003)(Thor)(PD)">
+		<description>Hicolor Slideshow 3 (2003)(Thor)(PD)</description>
+		<rom name="Hicolor Slideshow 3 (2003)(Thor)(PD).bin" size="114341" crc="e3e35d99" md5="c0a3afc339bd950cb9d1c0c1d0d7ab58" sha1="55946ab249b73256641f4a4a5aa9b2787910ba6e"/>
+	</game>
+	<game name="Hicolor Slideshow 3 (2003)(Thor)(PD)[a]">
+		<description>Hicolor Slideshow 3 (2003)(Thor)(PD)[a]</description>
+		<rom name="Hicolor Slideshow 3 (2003)(Thor)(PD)[a].bin" size="114494" crc="b97461d7" md5="b53ea5340f835bda085c659977f17dda" sha1="f59ae35c41524d96b3f261275aa3d3a5bd82eda5"/>
+	</game>
+	<game name="Slideshow (2003)(Thor)(PD)">
+		<description>Slideshow (2003)(Thor)(PD)</description>
+		<rom name="Slideshow (2003)(Thor)(PD).bin" size="15539" crc="f1db8cde" md5="b4c2835629bf936ed7dcf3b8b694393d" sha1="cc2bc8d6e821cac8812275f7d1aa64857aa4247a"/>
+	</game>
+	<game name="Slideshow Rev 20030117 (2003)(Thor)(PD)">
+		<description>Slideshow Rev 20030117 (2003)(Thor)(PD)</description>
+		<rom name="Slideshow Rev 20030117 (2003)(Thor)(PD).bin" size="172691" crc="30057029" md5="53569e9b28197246922b2cdc0792992c" sha1="34544828d57e983d262d5f7173fd6f6e67b0cdd3"/>
+	</game>
+	<game name="Slideshow Rev 20030123 (2003)(Thor)(PD)">
+		<description>Slideshow Rev 20030123 (2003)(Thor)(PD)</description>
+		<rom name="Slideshow Rev 20030123 (2003)(Thor)(PD).bin" size="184947" crc="4fa631f9" md5="e14a9b1035993a1428e1dbb27c068039" sha1="22ccd1a8386f0af5f85e52d617645a014de90b53"/>
+	</game>
+	<game name="Slideshow Rev 20030320 (2003)(Thor)(PD)">
+		<description>Slideshow Rev 20030320 (2003)(Thor)(PD)</description>
+		<rom name="Slideshow Rev 20030320 (2003)(Thor)(PD).bin" size="185042" crc="f15dcabc" md5="3e84cbc943ffa156f46d3ca84bc89c9a" sha1="b5b0c77b3e54e9c26b8c00696260829667cea1ed"/>
+	</game>
+</datafile>

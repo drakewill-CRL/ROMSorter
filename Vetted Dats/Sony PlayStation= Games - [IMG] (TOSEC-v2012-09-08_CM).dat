@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation - Games - [IMG]</name>
+		<description>Sony PlayStation - Games - [IMG] (TOSEC-v2012-09-08)</description>
+		<category>TOSEC-ISO</category>
+		<version>2012-09-08</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Thrill Kill (1998-07-09)(Virgin)(proto)">
+		<description>Thrill Kill (1998-07-09)(Virgin)(proto)</description>
+		<rom name="Thrill Kill (1998-07-09)(Virgin)(proto).ccd" size="1821" crc="e65f76a3" md5="f8fbf9f0c42bfff0c162870a857d7eaa" sha1="4f54b8ba51f4f511e8f669d419da324ac15ac1e7"/>
+		<rom name="Thrill Kill (1998-07-09)(Virgin)(proto).img" size="164428320" crc="755a6f9a" md5="29052c11ae52e4e7d623ee5496b02336" sha1="4d7e1c0f8cc0539647a95fcbe1611ed2d4a82c98"/>
+		<rom name="Thrill Kill (1998-07-09)(Virgin)(proto).sub" size="6711360" crc="04f2d980" md5="ceb93a984a2f9d03ab37b85d8785829b" sha1="6255fd6057690f0cd42d51ef696c7d31acf562f0"/>
+	</game>
+	<game name="Tony Hawk's Pro Skater (1999-04-09)(Activision)(US)(beta)">
+		<description>Tony Hawk's Pro Skater (1999-04-09)(Activision)(US)(beta)</description>
+		<rom name="Tony Hawk's Pro Skater (1999-04-09)(Activision)(US)(beta).ccd" size="787" crc="4502bbb6" md5="31715d161c74cf82a4ccab9f6907faf2" sha1="33a6e3ea9455081c57a0f318f41f4047ffe15758"/>
+		<rom name="Tony Hawk's Pro Skater (1999-04-09)(Activision)(US)(beta).img" size="36764112" crc="03556f43" md5="c615a3256db071739383eb6865c6ef12" sha1="4ca5f83821e17c99bce54e8cd2d42a4638448d1d"/>
+		<rom name="Tony Hawk's Pro Skater (1999-04-09)(Activision)(US)(beta).sub" size="1500576" crc="22eb98d5" md5="30222fb4fb3c9de85e1f7a5d41ff7212" sha1="19419fd0792c1ef6b10e0d614225cdbb53c01545"/>
+	</game>
+</datafile>

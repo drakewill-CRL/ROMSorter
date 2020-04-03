@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Music - [G64]</name>
+		<description>Commodore C64 - Music - [G64] (TOSEC-v2018-07-01)</description>
+		<category>TOSEC</category>
+		<version>2018-07-01</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="SIDBurners 05 (1999)(Nostalgia)">
+		<description>SIDBurners 05 (1999)(Nostalgia)</description>
+		<rom name="SIDBurners 05 (1999)(Nostalgia).g64" size="333744" crc="eab86e17" md5="a8dbe2b84020e29bd053dabcbde61f5e" sha1="87ee86c9cccf9428ed9a7660280b8c18d80aafbd"/>
+	</game>
+	<game name="SIDBurners 05 (1999)(Nostalgia)[a]">
+		<description>SIDBurners 05 (1999)(Nostalgia)[a]</description>
+		<rom name="SIDBurners 05 (1999)(Nostalgia)[a].g64" size="333744" crc="8b1ceeb7" md5="ade9c5dc35bd4ab3bc2f5175fa08d909" sha1="44d9faf41a2265bd2d7dc434fa56df8e4f762470"/>
+	</game>
+</datafile>

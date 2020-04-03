@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sinclair ZX Spectrum - Compilations - Demos - [Multipart]</name>
+		<description>Sinclair ZX Spectrum - Compilations - Demos - [Multipart] (TOSEC-v2011-09-24)</description>
+		<category>TOSEC</category>
+		<version>2011-09-24</version>
+		<author>jugaor - gorski - Vaxalon - Zxyo - Dziuber - StefaN - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Enlight '96 - Digital Music Collection (1996)(-)">
+		<description>Enlight '96 - Digital Music Collection (1996)(-)</description>
+		<rom name="Enlight '96 - Digital Music Collection (1996)(-)(File 1 of 3).$b" size="65297" crc="1b499d6d" md5="0d401a51e6bfe0ba2883b76c068e96ab" sha1="e59bb712d647b4b4cc71e57f88a5ed7d49ef7d8a"/>
+		<rom name="Enlight '96 - Digital Music Collection (1996)(-)(File 2 of 3).$c" size="65297" crc="573d3ec9" md5="51370d8bf7f93fd1f6c7a09e28f68824" sha1="ecaffd6e5f1867139a917505260d5bda2fe438a4"/>
+		<rom name="Enlight '96 - Digital Music Collection (1996)(-)(File 3 of 3).$c" size="53265" crc="47c1277c" md5="4e2871cfe7b584edcadaff98c917fd8e" sha1="63bff69616b3e564c7d93ee7811b8b1e561e7748"/>
+	</game>
+	<game name="Enlight '96 - Graphics Collection v1.1 (1996)(Hacker Cris)">
+		<description>Enlight '96 - Graphics Collection v1.1 (1996)(Hacker Cris)</description>
+		<rom name="Enlight '96 - Graphics Collection v1.1 (1996)(Hacker Cris)(File 1 of 2).$b" size="61457" crc="5344b549" md5="b56840ffce72ce24e0fd010970b320ac" sha1="2dba3c33d975a7459e0a65b4c15c082a74b249b4"/>
+		<rom name="Enlight '96 - Graphics Collection v1.1 (1996)(Hacker Cris)(File 2 of 2).$c" size="59409" crc="6d484b4f" md5="98043a3dc18bc0eeae7c9f78428ffe7f" sha1="ed4a18ff6d1e8ee204ab942ccbf62e661ec9f5b1"/>
+	</game>
+	<game name="Enlight '96 - ZX GFX Compo 128k Tape Version v1.1 (1996)(-)">
+		<description>Enlight '96 - ZX GFX Compo 128k Tape Version v1.1 (1996)(-)</description>
+		<rom name="Enlight '96 - ZX GFX Compo 128k Tape Version v1.1 (1996)(-)(File 1 of 8).$b" size="273" crc="f905e627" md5="8a6fe49d77f8514187ae97d8f52132cc" sha1="73efc8060d1857f07f9bd5b41a81186c0192d222"/>
+		<rom name="Enlight '96 - ZX GFX Compo 128k Tape Version v1.1 (1996)(-)(File 2 of 8).$c" size="5137" crc="af889812" md5="35240d433a9eeca4fa12562edca436ec" sha1="2128706ffc34974856fb9a3c5272d6f946897771"/>
+		<rom name="Enlight '96 - ZX GFX Compo 128k Tape Version v1.1 (1996)(-)(File 3 of 8).$c" size="33553" crc="9601f82b" md5="cd2e18d00658a583161adfbef6ab0172" sha1="b3ddaef12786acb7a1a941a801257f37da4e0f4c"/>
+		<rom name="Enlight '96 - ZX GFX Compo 128k Tape Version v1.1 (1996)(-)(File 4 of 8).$c" size="16401" crc="cd19f62e" md5="640de208cf7b69585f63ec43e756d1c1" sha1="a64f7b8dbd53a3c9b7a666ee0952f88a0b018c4d"/>
+		<rom name="Enlight '96 - ZX GFX Compo 128k Tape Version v1.1 (1996)(-)(File 5 of 8).$c" size="16401" crc="a2c96ae4" md5="b737c80e1cce0f7b2e35b3020136d0ce" sha1="818ba34212336760b47ad5fd8a5f67d010d0e59b"/>
+		<rom name="Enlight '96 - ZX GFX Compo 128k Tape Version v1.1 (1996)(-)(File 6 of 8).$c" size="16401" crc="8035ca66" md5="bbc5deea971724aa18e47496430942a0" sha1="aa4e094727b87f8cb249dff5f1ee678a033f477b"/>
+		<rom name="Enlight '96 - ZX GFX Compo 128k Tape Version v1.1 (1996)(-)(File 7 of 8).$c" size="16401" crc="ada394c0" md5="fb6eedd9df925d62157a31778bb5220f" sha1="343e2f8de436fac2604bd69aae894885d528a70c"/>
+		<rom name="Enlight '96 - ZX GFX Compo 128k Tape Version v1.1 (1996)(-)(File 8 of 8).$c" size="16401" crc="ec367846" md5="f6c507032329692a05d8fcc01590398b" sha1="934100810d1a81e86cee6b6a452ef8a4132e8168"/>
+	</game>
+</datafile>

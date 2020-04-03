@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega Mega-CD &amp; Sega CD - Applications</name>
+		<description>Sega Mega-CD &amp; Sega CD - Applications (TOSEC-v2012-09-08)</description>
+		<category>TOSEC</category>
+		<version>2012-09-08</version>
+		<author>Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Flux (1995)(EXP - Virgin)(EU)(en)">
+		<description>Flux (1995)(EXP - Virgin)(EU)(en)</description>
+		<rom name="Flux (1995)(EXP - Virgin)(EU)(en).bin" size="262144" crc="2a1da08c" md5="81d25e0595200ffee560e5f0966a4088" sha1="6357f38db012278bc889c77c5780a82d535760fd"/>
+	</game>
+</datafile>

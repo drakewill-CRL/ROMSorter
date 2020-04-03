@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Games - Previews - [BIN]</name>
+		<description>Commodore C64 - Games - Previews - [BIN] (TOSEC-v2016-01-10)</description>
+		<category>TOSEC</category>
+		<version>2016-01-10</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Crystal Castles (1984)(Atarisoft)">
+		<description>Crystal Castles (1984)(Atarisoft)</description>
+		<rom name="Crystal Castles (1984)(Atarisoft).bin" size="16384" crc="cecfb225" md5="f6bd27d51c077cc7b6676b2c83841251" sha1="8d14f2a22655dd92ff72b129fc124e986681a98d"/>
+	</game>
+</datafile>

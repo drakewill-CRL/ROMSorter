@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>MITS Altair 8800 - Applications - [TAP]</name>
+		<description>MITS Altair 8800 - Applications - [TAP] (TOSEC-v2014-04-11)</description>
+		<category>TOSEC</category>
+		<version>2014-04-11</version>
+		<author>TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Altair Basic v3.2 (19xx)(MITS)[4k version]">
+		<description>Altair Basic v3.2 (19xx)(MITS)[4k version]</description>
+		<rom name="Altair Basic v3.2 (19xx)(MITS)[4k version].tap" size="4420" crc="dac6cff3" md5="a40a91df06d5e065bc8294f3b0e5b605" sha1="8ad3580ae7e151a464b45f6a89cc9a70d276008e"/>
+	</game>
+</datafile>

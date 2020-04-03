@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sharp X1 - Games - [WAV]</name>
+		<description>Sharp X1 - Games - [WAV] (TOSEC-v2018-03-08)</description>
+		<category>TOSEC</category>
+		<version>2018-03-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Cannon Ball (1983)(Hudson Soft)(JP)">
+		<description>Cannon Ball (1983)(Hudson Soft)(JP)</description>
+		<rom name="Cannon Ball (1983)(Hudson Soft)(JP).wav" size="4857558" crc="4405cf21" md5="10e57a6323743d8a4dd52cb91fc22be8" sha1="769a43d97f69b5d72347ca8b72547e464b9d059b"/>
+	</game>
+	<game name="El Alamein (1983)(Pony Canyon)(JP)">
+		<description>El Alamein (1983)(Pony Canyon)(JP)</description>
+		<rom name="El Alamein (1983)(Pony Canyon)(JP).wav" size="12742140" crc="04e00f60" md5="c8797e984dfa8d7bf7049d0e54bd9729" sha1="42f3ef356fdb67ddd0fbdb57e473c23d267f9bf4"/>
+	</game>
+	<game name="Fantasian (1985)(Xtal Soft)(JP)[poss. X1 Turbo only]">
+		<description>Fantasian (1985)(Xtal Soft)(JP)[poss. X1 Turbo only]</description>
+		<rom name="Fantasian (1985)(Xtal Soft)(JP)[poss. X1 Turbo only].wav" size="24382972" crc="1f65588a" md5="7fe38a2a33edb9da751d56f859e19452" sha1="1657223787a45e81a7bf0bcfc9bbe5c19fbb54b1"/>
+	</game>
+	<game name="Ginkou Goutou - Machinegun Joe vs. the Mafia (1983)(Hudson Soft)(JP)">
+		<description>Ginkou Goutou - Machinegun Joe vs. the Mafia (1983)(Hudson Soft)(JP)</description>
+		<rom name="Ginkou Goutou - Machinegun Joe vs. the Mafia (1983)(Hudson Soft)(JP).wav" size="15591932" crc="3769199a" md5="34e3f5363e2168c6ce4c0b4653aab223" sha1="81614c317f432055f2c5fdcce51438de9fbdad7f"/>
+	</game>
+	<game name="Pinball (1982)(Hudson Soft)(JP)">
+		<description>Pinball (1982)(Hudson Soft)(JP)</description>
+		<rom name="Pinball (1982)(Hudson Soft)(JP).wav" size="12021244" crc="0ecdd227" md5="5daa72d0686bfe38fb677f7113bd3cb6" sha1="2b521b68a1e302ee508d72c7ef16b5ebc41edc7a"/>
+	</game>
+</datafile>

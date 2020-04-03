@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Compilations - Games - [CRT]</name>
+		<description>Commodore C64 - Compilations - Games - [CRT] (TOSEC-v2018-04-14)</description>
+		<category>TOSEC</category>
+		<version>2018-04-14</version>
+		<author>Duncan Twain - DesertWolf - Apache</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Arcade Classic Pak (1984)(HesWare)">
+		<description>Arcade Classic Pak (1984)(HesWare)</description>
+		<rom name="Arcade Classic Pak (1984)(HesWare).crt" size="65728" crc="eb25fb07" md5="8df7c1e72f0c29d454f1a5037daf6eed" sha1="34830274b7f21cb5099f578cdfafdb381352b12c"/>
+	</game>
+	<game name="Arcades Compilation #1 (19xx)(-)[cr Nostalgia][EasyFlash 2012-01-02]">
+		<description>Arcades Compilation #1 (19xx)(-)[cr Nostalgia][EasyFlash 2012-01-02]</description>
+		<rom name="Arcades Compilation #1 (19xx)(-)[cr Nostalgia][EasyFlash 2012-01-02].crt" size="640288" crc="5f551e17" md5="49f86b818924a23e253efc89dd8595bc" sha1="1fdf2e8e5e25eb28d716d624ed37936a4ba36349"/>
+	</game>
+	<game name="Arcades Compilation #2 (19xx)(-)[cr Nostalgia][EasyFlash 2012-05-06]">
+		<description>Arcades Compilation #2 (19xx)(-)[cr Nostalgia][EasyFlash 2012-05-06]</description>
+		<rom name="Arcades Compilation #2 (19xx)(-)[cr Nostalgia][EasyFlash 2012-05-06].crt" size="697744" crc="b98f3b8a" md5="0b5dff442b673c26a7097fdefeaadb3d" sha1="02454c4c46c7b15f56bd81dd3ffde9e4d669e3c1"/>
+	</game>
+	<game name="Arcades Compilation #3 (19xx)(-)[cr Nostalgia][EasyFlash 2012-05-13]">
+		<description>Arcades Compilation #3 (19xx)(-)[cr Nostalgia][EasyFlash 2012-05-13]</description>
+		<rom name="Arcades Compilation #3 (19xx)(-)[cr Nostalgia][EasyFlash 2012-05-13].crt" size="730576" crc="9b3767c1" md5="05bb52454508936595d60577a2c65b68" sha1="ad54dfaa0ec13a63d655c766cb56ee747efc95dd"/>
+	</game>
+	<game name="Cinemaware Collection (19xx)(Cinemaware)[cr Nostalgia][EasyFlash 2011-12-22]">
+		<description>Cinemaware Collection (19xx)(Cinemaware)[cr Nostalgia][EasyFlash 2011-12-22]</description>
+		<rom name="Cinemaware Collection (19xx)(Cinemaware)[cr Nostalgia][EasyFlash 2011-12-22].crt" size="1034272" crc="d62c7a1f" md5="49867ed66a9a327dabe0ecd1d8657643" sha1="147c379acfc4ead723b38da2c3212e8feae82d55"/>
+	</game>
+	<game name="Easy Flash Compilation #4 (2012-06-03)(Nostalgia)">
+		<description>Easy Flash Compilation #4 (2012-06-03)(Nostalgia)</description>
+		<rom name="Easy Flash Compilation #4 (2012-06-03)(Nostalgia).crt" size="738784" crc="3076c0dd" md5="22bd9c8397b6e03ad8b763fdef301f57" sha1="65456f40a754df984618bb9ef58f1ead14fbba8b"/>
+	</game>
+	<game name="EasyFlash Game Collection (2009-10-15)(P1X3L.net)">
+		<description>EasyFlash Game Collection (2009-10-15)(P1X3L.net)</description>
+		<rom name="EasyFlash Game Collection (2009-10-15)(P1X3L.net).crt" size="952192" crc="edc35fe3" md5="6c3456c7c62b7123583c00eeeb93d30e" sha1="f67fa1ded846df20e349e4c4b65d2e69849c82a5"/>
+	</game>
+	<game name="Epyx Games Collection (19xx)(Epyx)[cr John64][EasyFlash 2012-04-06]">
+		<description>Epyx Games Collection (19xx)(Epyx)[cr John64][EasyFlash 2012-04-06]</description>
+		<rom name="Epyx Games Collection (19xx)(Epyx)[cr John64][EasyFlash 2012-04-06].crt" size="935776" crc="abc24c71" md5="59c082c0a318905f5ce5cdbaf5eacf0b" sha1="d14f1f65ff75ed0ee318166c255dfe6a53ce1334"/>
+	</game>
+	<game name="Leaderboard Collection (1986)(Access Software)[cr Nostalgia][EasyFlash 2012-07-16]">
+		<description>Leaderboard Collection (1986)(Access Software)[cr Nostalgia][EasyFlash 2012-07-16]</description>
+		<rom name="Leaderboard Collection (1986)(Access Software)[cr Nostalgia][EasyFlash 2012-07-16].crt" size="656704" crc="f6f723c7" md5="0d6c500b741ee94a47115e6201ca4a4d" sha1="13ad0e729acf3abbcc0b303847847408a038da01"/>
+	</game>
+	<game name="RGCD 16k Cart Compo 2013 Collection (2013-12-27)(RGCD)[cr Genesis Project][t][docs][EasyFlash]">
+		<description>RGCD 16k Cart Compo 2013 Collection (2013-12-27)(RGCD)[cr Genesis Project][t][docs][EasyFlash]</description>
+		<rom name="RGCD 16k Cart Compo 2013 Collection (2013-12-27)(RGCD)[cr Genesis Project][t][docs][EasyFlash].crt" size="344800" crc="3a5e135b" md5="5400c6655595aa8c754a3ade243f2719" sha1="8d75feca7db7247cea56b7619ad97b7e1a8daf6d"/>
+	</game>
+	<game name="RGCD 16k Cart Compo 2013 Collection (2014-01-01)(RGCD)[cr Genesis Project][f][t][docs][EasyFlash]">
+		<description>RGCD 16k Cart Compo 2013 Collection (2014-01-01)(RGCD)[cr Genesis Project][f][t][docs][EasyFlash]</description>
+		<rom name="RGCD 16k Cart Compo 2013 Collection (2014-01-01)(RGCD)[cr Genesis Project][f][t][docs][EasyFlash].crt" size="344800" crc="185a3ebf" md5="9efd358acb8f0a06ac72905b5edfe21c" sha1="76e054f7d398e28cc08f09a692c0da5f1b5326c8"/>
+	</game>
+	<game name="Super Games - 3-in-1 (1988)(Commodore)">
+		<description>Super Games - 3-in-1 (1988)(Commodore)</description>
+		<rom name="Super Games - 3-in-1 (1988)(Commodore).crt" size="65664" crc="2eb7d286" md5="b5f2b69a2a75637e65e7b04e848fd354" sha1="cbc5897e052742484c272194f1becc753079ee6e"/>
+	</game>
+	<game name="Test Drive Compilation (198x)(Accolade)[cr Nostalgia][EasyFlash 2011-12-24]">
+		<description>Test Drive Compilation (198x)(Accolade)[cr Nostalgia][EasyFlash 2011-12-24]</description>
+		<rom name="Test Drive Compilation (198x)(Accolade)[cr Nostalgia][EasyFlash 2011-12-24].crt" size="763408" crc="e4f6b945" md5="07b0259d80cffd6b6d3a59ac13145361" sha1="336b67c28dd127ddf213094ca162449fea403238"/>
+	</game>
+	<game name="Zak McKracken &amp; Maniac Mansion (198x)(LucasArts)(de)[cr Onslaught][t +1][docs][EasyFlash 2011-03-17]">
+		<description>Zak McKracken &amp; Maniac Mansion (198x)(LucasArts)(de)[cr Onslaught][t +1][docs][EasyFlash 2011-03-17]</description>
+		<rom name="Zak McKracken &amp; Maniac Mansion (198x)(LucasArts)(de)[cr Onslaught][t +1][docs][EasyFlash 2011-03-17].crt" size="902944" crc="76ec67bc" md5="b49665c9b80318c0f5d8d66c57222c62" sha1="c11684564303efeebe7980ebe5f5061cfd5dea88"/>
+	</game>
+</datafile>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>3DO 3DO Interactive Multiplayer - Homebrew - Applications</name>
+		<description>3DO 3DO Interactive Multiplayer - Homebrew - Applications (TOSEC-v2017-09-15)</description>
+		<category>TOSEC-ISO</category>
+		<version>2017-09-15</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Chip-8 Emulator (2016)(Gameblabla)[incl. Tetris ROM]">
+		<description>Chip-8 Emulator (2016)(Gameblabla)[incl. Tetris ROM]</description>
+		<rom name="Chip-8 Emulator (2016)(Gameblabla)[incl. Tetris ROM].cue" size="141" crc="45193076" md5="2eb88573adfcaef03769d85eabdaab91" sha1="bf23819d8d3062e6bae3c202fae74e1f210b1b69"/>
+		<rom name="Chip-8 Emulator (2016)(Gameblabla)[incl. Tetris ROM].iso" size="3080192" crc="e7a46be5" md5="ea3e5df452f73bbc3b549b74091b7477" sha1="9c18e3847d14b1e4627ecb5545c105e49782f59e"/>
+	</game>
+	<game name="Joypad Test v1.0 (2011)(Sdevel)">
+		<description>Joypad Test v1.0 (2011)(Sdevel)</description>
+		<rom name="Joypad Test v1.0 (2011)(Sdevel).cue" size="120" crc="565f453a" md5="70767b82a958b96682ccd4f22fa651e4" sha1="61c55d3c7f298eec546539f4f566dc354ad177e8"/>
+		<rom name="Joypad Test v1.0 (2011)(Sdevel).iso" size="2916352" crc="5342c9d1" md5="2de5a9223fb08430a67c28edbc88cbc6" sha1="751e588db9b37c6183e15c01efe24725351d1d99"/>
+	</game>
+	<game name="LameNES Emulator (2016)(Gameblabla - Saffron)[incl. Hello World ROM]">
+		<description>LameNES Emulator (2016)(Gameblabla - Saffron)[incl. Hello World ROM]</description>
+		<rom name="LameNES Emulator (2016)(Gameblabla - Saffron)[incl. Hello World ROM].cue" size="157" crc="3dc10a68" md5="ca46dfd95f3b7386ef27916d6d488407" sha1="87786be7ac659cd122ad820b7b987d23883a8ee9"/>
+		<rom name="LameNES Emulator (2016)(Gameblabla - Saffron)[incl. Hello World ROM].iso" size="3112960" crc="fcec2760" md5="5c22262a64bd91cf1a898b08fc9cdeaf" sha1="c82c4517235e6890f2e144dd7a7f42fe7e1b0823"/>
+	</game>
+</datafile>

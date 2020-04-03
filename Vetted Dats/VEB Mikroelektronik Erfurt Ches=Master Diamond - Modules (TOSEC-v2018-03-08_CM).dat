@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>VEB Mikroelektronik Erfurt Chess-Master Diamond - Modules</name>
+		<description>VEB Mikroelektronik Erfurt Chess-Master Diamond - Modules (TOSEC-v2018-03-08)</description>
+		<category>TOSEC</category>
+		<version>2018-03-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="PM10 Openings (1987)(VEB Mikroelektronik Erfurt)(DE)">
+		<description>PM10 Openings (1987)(VEB Mikroelektronik Erfurt)(DE)</description>
+		<rom name="PM10 Openings (1987)(VEB Mikroelektronik Erfurt)(DE).bin" size="8192" crc="aa784d7a" md5="fb960f0933c49e48f93ed669c4eaa4ff" sha1="fd2d6cac9805a5aaf4f51b7c974d0314a402c186"/>
+	</game>
+	<game name="PM11 Endings (1987)(VEB Mikroelektronik Erfurt)(DE)">
+		<description>PM11 Endings (1987)(VEB Mikroelektronik Erfurt)(DE)</description>
+		<rom name="PM11 Endings (1987)(VEB Mikroelektronik Erfurt)(DE).bin" size="16384" crc="5af4f3e2" md5="094c4b319131014b7fd1cc24fcdd1493" sha1="7c9befc6182d65ca0c7d53820a0f84a3a55b9c78"/>
+	</game>
+</datafile>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Philips CD-i - Homebrew - Games - [NRG]</name>
+		<description>Philips CD-i - Homebrew - Games - [NRG] (TOSEC-v2012-07-22)</description>
+		<category>TOSEC-ISO</category>
+		<version>2012-07-22</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Solitaire (2003)(BEPL)">
+		<description>Solitaire (2003)(BEPL)</description>
+		<rom name="Solitaire (2003)(BEPL).nrg" size="17644832" crc="29514e13" md5="68365370d301244aa08bccd0f397a5fd" sha1="5bc851f197d74e81dc13797982689ae34b220671"/>
+	</game>
+	<game name="Tic-Tac-Toe (2003)(BEPL)">
+		<description>Tic-Tac-Toe (2003)(BEPL)</description>
+		<rom name="Tic-Tac-Toe (2003)(BEPL).nrg" size="10512128" crc="95613eb3" md5="88b26ffb758644e4ba2f1ef8588c5a40" sha1="a236c5643bbaefaadd463f51f707f07a908804b9"/>
+	</game>
+</datafile>

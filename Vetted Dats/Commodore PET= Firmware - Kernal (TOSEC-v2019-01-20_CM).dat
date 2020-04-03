@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore PET - Firmware - Kernal</name>
+		<description>Commodore PET - Firmware - Kernal (TOSEC-v2019-01-20)</description>
+		<category>TOSEC</category>
+		<version>2019-01-20</version>
+		<author>Duncan Twain - Burstnibbler</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Basic2 901465-01 (198x)(Commodore)[0xC000]">
+		<description>Basic2 901465-01 (198x)(Commodore)[0xC000]</description>
+		<rom name="Basic2 901465-01 (198x)(Commodore)[0xC000].rom" size="4096" crc="63a7fe4a" md5="6b13eb6a7e4a2e15f3fff18461ce9c0d" sha1="3622111f486d0e137022523657394befa92bde44"/>
+	</game>
+	<game name="Basic2 901465-02 (198x)(Commodore)[0xD000]">
+		<description>Basic2 901465-02 (198x)(Commodore)[0xD000]</description>
+		<rom name="Basic2 901465-02 (198x)(Commodore)[0xD000].rom" size="4096" crc="ae4cb035" md5="8b7779f1afe3a6542bd17f6b80917d67" sha1="1bc0ebf27c9bb62ad71bca40313e874234cab6ac"/>
+	</game>
+	<game name="Basic4 901465-19 (198x)(Commodore)[0xB000]">
+		<description>Basic4 901465-19 (198x)(Commodore)[0xB000]</description>
+		<rom name="Basic4 901465-19 (198x)(Commodore)[0xB000].rom" size="4096" crc="3a5f5721" md5="34d6650acd5dc4a4049f0c189ab5eeb0" sha1="bc2b7c99495fea3eda950ee9e3d6cabe448a452b"/>
+	</game>
+	<game name="Basic4 901465-20 (198x)(Commodore)[0xC000]">
+		<description>Basic4 901465-20 (198x)(Commodore)[0xC000]</description>
+		<rom name="Basic4 901465-20 (198x)(Commodore)[0xC000].rom" size="4096" crc="0fc17b9c" md5="398217f35fa50417c7e84883a93a349b" sha1="242f98298931d21eaacb55fe635e44b7fc192b0a"/>
+	</game>
+	<game name="Basic4 901465-20 (198x)(Commodore)[0xC000][CBM3008]">
+		<description>Basic4 901465-20 (198x)(Commodore)[0xC000][CBM3008]</description>
+		<rom name="Basic4 901465-20 (198x)(Commodore)[0xC000][CBM3008].rom" size="4096" crc="0fc17b9c" md5="398217f35fa50417c7e84883a93a349b" sha1="242f98298931d21eaacb55fe635e44b7fc192b0a"/>
+	</game>
+	<game name="Basic4 901465-21 (198x)(Commodore)[0xD000]">
+		<description>Basic4 901465-21 (198x)(Commodore)[0xD000]</description>
+		<rom name="Basic4 901465-21 (198x)(Commodore)[0xD000].rom" size="4096" crc="36d91855" md5="ab780e94772dca756a0678a17b5bc3a2" sha1="1bb236c72c726e8fb029c68f9bfa5ee803faf0a8"/>
+	</game>
+	<game name="Basic4 901465-21 (198x)(Commodore)[0xD000][CBM3008]">
+		<description>Basic4 901465-21 (198x)(Commodore)[0xD000][CBM3008]</description>
+		<rom name="Basic4 901465-21 (198x)(Commodore)[0xD000][CBM3008].rom" size="4096" crc="335b7c93" md5="9b9cada18884b7fa72c1e58868399f33" sha1="065c4d50f1fcd5c0693261c6671413b56135f782"/>
+	</game>
+	<game name="Basic4 901465-23 (198x)(Commodore)[0xB000]">
+		<description>Basic4 901465-23 (198x)(Commodore)[0xB000]</description>
+		<rom name="Basic4 901465-23 (198x)(Commodore)[0xB000].rom" size="4096" crc="ae3deac0" md5="43b3a9f5e1c762af0b3bb6cc71aafb84" sha1="975ee25e28ff302879424587e5fb4ba19f403adc"/>
+	</game>
+	<game name="Basic4 901465-23 (198x)(Commodore)[0xB000][CBM3008]">
+		<description>Basic4 901465-23 (198x)(Commodore)[0xB000][CBM3008]</description>
+		<rom name="Basic4 901465-23 (198x)(Commodore)[0xB000][CBM3008].rom" size="4096" crc="ae3deac0" md5="43b3a9f5e1c762af0b3bb6cc71aafb84" sha1="975ee25e28ff302879424587e5fb4ba19f403adc"/>
+	</game>
+	<game name="Characters 324242-01 (198x)(Commodore)[PET8296]">
+		<description>Characters 324242-01 (198x)(Commodore)[PET8296]</description>
+		<rom name="Characters 324242-01 (198x)(Commodore)[PET8296].rom" size="4096" crc="a5632a0f" md5="a06d36618ed1452a01168c599df159fc" sha1="9616f7f18757cccefb702a945f954b644d5b17d1"/>
+	</game>
+	<game name="Characters 324242-10 (198x)(Commodore)(DE)[PET8296]">
+		<description>Characters 324242-10 (198x)(Commodore)(DE)[PET8296]</description>
+		<rom name="Characters 324242-10 (198x)(Commodore)(DE)[PET8296].rom" size="4096" crc="a5632a0f" md5="a06d36618ed1452a01168c599df159fc" sha1="9616f7f18757cccefb702a945f954b644d5b17d1"/>
+	</game>
+	<game name="Characters 901447-08 (198x)(Commodore)">
+		<description>Characters 901447-08 (198x)(Commodore)</description>
+		<rom name="Characters 901447-08 (198x)(Commodore).rom" size="2048" crc="54f32f45" md5="29a82eb54e73ebc5673c718c489b174b" sha1="3e067cc621e4beafca2b90cb8f6dba975df2855b"/>
+	</game>
+	<game name="Characters 901447-10 (198x)(Commodore)[!]">
+		<description>Characters 901447-10 (198x)(Commodore)[!]</description>
+		<rom name="Characters 901447-10 (198x)(Commodore)[!].rom" size="2048" crc="d8408674" md5="9880432e633b15998d58884ff34c4e70" sha1="0157a2d55b7ac4eaeb38475889ebeea52e2593db"/>
+	</game>
+	<game name="Characters 901447-10m (198x)(Commodore)[h]">
+		<description>Characters 901447-10m (198x)(Commodore)[h]</description>
+		<rom name="Characters 901447-10m (198x)(Commodore)[h].rom" size="2048" crc="866643ea" md5="ed01f02be128d86f86c465a9019ed16d" sha1="b6b408a7b7603ca22048900db3a226f6b067eda3"/>
+	</game>
+	<game name="Characters 901447-12 (198x)(Commodore)(JP)">
+		<description>Characters 901447-12 (198x)(Commodore)(JP)</description>
+		<rom name="Characters 901447-12 (198x)(Commodore)(JP).rom" size="2048" crc="2c9c8d89" md5="522acc412544cefb4d156e9ec73a8c9a" sha1="7443cdc9df326300bb928f2dbfe735d7be6cdfb2"/>
+	</game>
+	<game name="Characters 901447-14 (198x)(Commodore)(SE)">
+		<description>Characters 901447-14 (198x)(Commodore)(SE)</description>
+		<rom name="Characters 901447-14 (198x)(Commodore)(SE).rom" size="2048" crc="48c77d29" md5="7aac82ef2d2de870576c8980762b8408" sha1="aa7c8ff844d16ec05e2b32acc586c58d9e35388c"/>
+	</game>
+	<game name="Characters 901640-01 (198x)(Commodore)(SE)[!][SuperPET]">
+		<description>Characters 901640-01 (198x)(Commodore)(SE)[!][SuperPET]</description>
+		<rom name="Characters 901640-01 (198x)(Commodore)(SE)[!][SuperPET].rom" size="4096" crc="da1cd630" md5="d4e950c7397946de827c70255916f6a8" sha1="35f472114ff001259bdbae073ae041b0759e32cb"/>
+	</game>
+	<game name="Characters 901640-01 (198x)(Commodore)[SuperPET]">
+		<description>Characters 901640-01 (198x)(Commodore)[SuperPET]</description>
+		<rom name="Characters 901640-01 (198x)(Commodore)[SuperPET].rom" size="4096" crc="ee8229c4" md5="dd30641d9e6a221edd725d1e529dcbdb" sha1="bf346f11595a3e65e55d6aeeaa2c0cec807b66c7"/>
+	</game>
+	<game name="Characters PET64 (198x)(Commodore)[CBM3008]">
+		<description>Characters PET64 (198x)(Commodore)[CBM3008]</description>
+		<rom name="Characters PET64 (198x)(Commodore)[CBM3008].rom" size="4096" crc="7eeb41e8" md5="c8d8582a953951d43f7862dcbc84c9b8" sha1="bfdb46a7f5d470e7c774240be59762d5e0c651e8"/>
+	</game>
+	<game name="Characters xxxxxx-xx (198x)(Commodore)(DE)">
+		<description>Characters xxxxxx-xx (198x)(Commodore)(DE)</description>
+		<rom name="Characters xxxxxx-xx (198x)(Commodore)(DE).rom" size="2048" crc="4ab08a33" md5="5f37f39f3e2a29af40c26c8e16f4f328" sha1="a7998667bc8e8f64f390eedecafebe3d9e7593ac"/>
+	</game>
+	<game name="Characters xxxxxx-xx (198x)(Commodore)(DE)[!][VICE]">
+		<description>Characters xxxxxx-xx (198x)(Commodore)(DE)[!][VICE]</description>
+		<rom name="Characters xxxxxx-xx (198x)(Commodore)(DE)[!][VICE].rom" size="2048" crc="3bb8cb87" md5="f099504e32bec9e1e81b6d2600b15277" sha1="a4f0df13473d7f9cd31fd62cfcab11318e2fb1dc"/>
+	</game>
+	<game name="Characters xxxxxx-xx (198x)(Commodore)(FR)[PET8096]">
+		<description>Characters xxxxxx-xx (198x)(Commodore)(FR)[PET8096]</description>
+		<rom name="Characters xxxxxx-xx (198x)(Commodore)(FR)[PET8096].rom" size="4096" crc="d7424620" md5="c9a9bedd562cd7b16524b19facf5f0f3" sha1="e74c0eabb921d4a34032b57a7ee61ce61ec8a10c"/>
+	</game>
+	<game name="Characters xxxxxx-xx (198x)(Commodore)(HU)">
+		<description>Characters xxxxxx-xx (198x)(Commodore)(HU)</description>
+		<rom name="Characters xxxxxx-xx (198x)(Commodore)(HU).rom" size="2048" crc="a02d8122" md5="8600a1a58ef2ad51183fdb81d1e5579f" sha1="2fedbb59068b457d98f28de79f1817e25f745604"/>
+	</game>
+	<game name="Characters xxxxxx-xx (198x)(Commodore)(NO)">
+		<description>Characters xxxxxx-xx (198x)(Commodore)(NO)</description>
+		<rom name="Characters xxxxxx-xx (198x)(Commodore)(NO).rom" size="2048" crc="7c00534a" md5="c9afea449df95375a15e52dc42c92512" sha1="2c46bd5f5351530ceb52686e5196de995e28e24f"/>
+	</game>
+	<game name="Editor 324243-01 (198x)(Commodore)[PET8296]">
+		<description>Editor 324243-01 (198x)(Commodore)[PET8296]</description>
+		<rom name="Editor 324243-01 (198x)(Commodore)[PET8296].rom" size="4096" crc="4000e833" md5="c62986ad320fb9a26450ff7520ccee8a" sha1="dafbdf8ba0a1fe7d7b9586ffbfc9e5390c0fcf6f"/>
+	</game>
+	<game name="Editor 324243-02 (198x)(Commodore)(CH)[PET8296]">
+		<description>Editor 324243-02 (198x)(Commodore)(CH)[PET8296]</description>
+		<rom name="Editor 324243-02 (198x)(Commodore)(CH)[PET8296].rom" size="4096" crc="f88b6eef" md5="ff32a6f74de19ae25eb5c17993e02f01" sha1="82dc43913167b37b3dd03de5617bcff8c8fd6a7b"/>
+	</game>
+	<game name="Editor 324243-02 (198x)(Commodore)[PET8296]">
+		<description>Editor 324243-02 (198x)(Commodore)[PET8296]</description>
+		<rom name="Editor 324243-02 (198x)(Commodore)[PET8296].rom" size="2048" crc="a3475de6" md5="07e31d619ed1138b9aa850b81d936222" sha1="b715db83fd26458dfd254bef5c4aae636753f7f5"/>
+	</game>
+	<game name="Editor 324243-03 (198x)(Commodore)[PET8296]">
+		<description>Editor 324243-03 (198x)(Commodore)[PET8296]</description>
+		<rom name="Editor 324243-03 (198x)(Commodore)[PET8296].rom" size="4096" crc="8f680f8f" md5="4a1e3b92d14ff090d17d9cd30fcfe815" sha1="70d2b345ab43711d25655c6f8baff7c7c648f847"/>
+	</game>
+	<game name="Editor 324243-04 (198x)(Commodore)(DE)[PET8296]">
+		<description>Editor 324243-04 (198x)(Commodore)(DE)[PET8296]</description>
+		<rom name="Editor 324243-04 (198x)(Commodore)(DE)[PET8296].rom" size="4096" crc="3fe48897" md5="9a93e6bac641b8d8fba0f28bbd92145a" sha1="c218ff3168514f1d5e7822ae1b1ac3e161523b33"/>
+	</game>
+	<game name="Editor 324243-04 (198x)(Commodore)[PET8296]">
+		<description>Editor 324243-04 (198x)(Commodore)[PET8296]</description>
+		<rom name="Editor 324243-04 (198x)(Commodore)[PET8296].rom" size="4096" crc="3fe48897" md5="9a93e6bac641b8d8fba0f28bbd92145a" sha1="c218ff3168514f1d5e7822ae1b1ac3e161523b33"/>
+	</game>
+	<game name="Editor 4080-v25 (198x)(Commodore)[CBM3008]">
+		<description>Editor 4080-v25 (198x)(Commodore)[CBM3008]</description>
+		<rom name="Editor 4080-v25 (198x)(Commodore)[CBM3008].rom" size="4096" crc="f0409bee" md5="4e38479eabe39e592d8eb5250cff87cb" sha1="5cec4c2bc242f265178018791977763599cd3421"/>
+	</game>
+	<game name="Editor 901447-24 BASIC2 (198x)(Commodore)[!][NormalKeyboard][40columns]">
+		<description>Editor 901447-24 BASIC2 (198x)(Commodore)[!][NormalKeyboard][40columns]</description>
+		<rom name="Editor 901447-24 BASIC2 (198x)(Commodore)[!][NormalKeyboard][40columns].rom" size="2048" crc="e459ab32" md5="cb8e8404c0b28eda10469792dfd1dbc2" sha1="5e5502ce32f5a7e387d65efe058916282041e54b"/>
+	</game>
+	<game name="Editor 901447-29 BASIC4 (198x)(Commodore)[NormalKeyboard][40columns]">
+		<description>Editor 901447-29 BASIC4 (198x)(Commodore)[NormalKeyboard][40columns]</description>
+		<rom name="Editor 901447-29 BASIC4 (198x)(Commodore)[NormalKeyboard][40columns].rom" size="2048" crc="e5714d4c" md5="6fe27b43ec550a04d30b2e45f07d51fb" sha1="e88f56e5c54b0e8d8d4e8cb39a4647c803c1f51c"/>
+	</game>
+	<game name="Editor 901474-01 BASIC2 (198x)(Commodore)[!][BusinessKeyboard][40columns]">
+		<description>Editor 901474-01 BASIC2 (198x)(Commodore)[!][BusinessKeyboard][40columns]</description>
+		<rom name="Editor 901474-01 BASIC2 (198x)(Commodore)[!][BusinessKeyboard][40columns].rom" size="2048" crc="05db957e" md5="7f87889ca7ee2537f0c1993d35d0fb18" sha1="174ace3a8c0348cd21d39cc864e2adc58b0101a9"/>
+	</game>
+	<game name="Editor 901474-02 BASIC4 (198x)(Commodore)[!][BusinessKeyboard][40columns]">
+		<description>Editor 901474-02 BASIC4 (198x)(Commodore)[!][BusinessKeyboard][40columns]</description>
+		<rom name="Editor 901474-02 BASIC4 (198x)(Commodore)[!][BusinessKeyboard][40columns].rom" size="2048" crc="75ff4af7" md5="a09d11163a708b8dea90f1c5df33dca0" sha1="0ca5c4e8f532f914cb0bf86ea9900f20f0a655ce"/>
+	</game>
+	<game name="Editor 901474-03 BASIC4 (198x)(Commodore)(NTSC)[BusinessKeyboard][CRTC][80columns]">
+		<description>Editor 901474-03 BASIC4 (198x)(Commodore)(NTSC)[BusinessKeyboard][CRTC][80columns]</description>
+		<rom name="Editor 901474-03 BASIC4 (198x)(Commodore)(NTSC)[BusinessKeyboard][CRTC][80columns].rom" size="2048" crc="5674dd5e" md5="da56995be008c5f7db1094e81e5060aa" sha1="c605fa343fd77c73cbe1e0e9567e2f014f6e7e30"/>
+	</game>
+	<game name="Editor 901474-03 BASIC4 execudesk (198x)(Commodore)(NTSC)[BusinessKeyboard][CRTC][80columns][PET8296]">
+		<description>Editor 901474-03 BASIC4 execudesk (198x)(Commodore)(NTSC)[BusinessKeyboard][CRTC][80columns][PET8296]</description>
+		<rom name="Editor 901474-03 BASIC4 execudesk (198x)(Commodore)(NTSC)[BusinessKeyboard][CRTC][80columns][PET8296].rom" size="4096" crc="bef0eaa1" md5="d84abd5c4eadc15fa15429c3b65d4adb" sha1="7ea63a2d651f516e96b8725195c13542ea495ebd"/>
+	</game>
+	<game name="Editor 901474-04 BASIC4 (198x)(Commodore)(PAL)[a][!][BusinessKeyboard][CRTC][80columns]">
+		<description>Editor 901474-04 BASIC4 (198x)(Commodore)(PAL)[a][!][BusinessKeyboard][CRTC][80columns]</description>
+		<rom name="Editor 901474-04 BASIC4 (198x)(Commodore)(PAL)[a][!][BusinessKeyboard][CRTC][80columns].rom" size="2048" crc="845a44e6" md5="3a0e2ef328040aa30b30a8134426879a" sha1="81975eab31a8f4f51ae2a20d099a567c7b3f2dd1"/>
+	</game>
+	<game name="Editor 901474-04 BASIC4 (198x)(Commodore)(PAL)[BusinessKeyboard][CRTC][80columns]">
+		<description>Editor 901474-04 BASIC4 (198x)(Commodore)(PAL)[BusinessKeyboard][CRTC][80columns]</description>
+		<rom name="Editor 901474-04 BASIC4 (198x)(Commodore)(PAL)[BusinessKeyboard][CRTC][80columns].rom" size="2048" crc="abb000e7" md5="6f6d732cc4376a3514d0e6e6e0b24d96" sha1="66887061b6c4ebef7d6efb90af9afd5e2c3b08ba"/>
+	</game>
+	<game name="Editor 901474-04 BASIC4 execudesk (198x)(Commodore)(PAL)[BusinessKeyboard][CRTC][80columns][PET8296]">
+		<description>Editor 901474-04 BASIC4 execudesk (198x)(Commodore)(PAL)[BusinessKeyboard][CRTC][80columns][PET8296]</description>
+		<rom name="Editor 901474-04 BASIC4 execudesk (198x)(Commodore)(PAL)[BusinessKeyboard][CRTC][80columns][PET8296].rom" size="4096" crc="4a41ace1" md5="95d46a499d78772f81a886dc37c614c1" sha1="e917e2a1963b2279068feae1b9a4fca44d199c12"/>
+	</game>
+	<game name="Editor 901474-04-0384 (198x)(Commodore)[PET8296]">
+		<description>Editor 901474-04-0384 (198x)(Commodore)[PET8296]</description>
+		<rom name="Editor 901474-04-0384 (198x)(Commodore)[PET8296].rom" size="2048" crc="c1ffca3a" md5="3e646194de7458b05a06159afbdd9427" sha1="7040b283ba39e9630e3d147f7d076b7abc39bc70"/>
+	</game>
+	<game name="Editor 901474-04-3681 BASIC4 (198x)(Commodore)(PAL)[BusinessKeyboard][CRTC][80columns]">
+		<description>Editor 901474-04-3681 BASIC4 (198x)(Commodore)(PAL)[BusinessKeyboard][CRTC][80columns]</description>
+		<rom name="Editor 901474-04-3681 BASIC4 (198x)(Commodore)(PAL)[BusinessKeyboard][CRTC][80columns].rom" size="2048" crc="c1ffca3a" md5="3e646194de7458b05a06159afbdd9427" sha1="7040b283ba39e9630e3d147f7d076b7abc39bc70"/>
+	</game>
+	<game name="Editor 901498-01 BASIC4 (198x)(Commodore)(PAL)[h BusinessKeyboard][PET4032]">
+		<description>Editor 901498-01 BASIC4 (198x)(Commodore)(PAL)[h BusinessKeyboard][PET4032]</description>
+		<rom name="Editor 901498-01 BASIC4 (198x)(Commodore)(PAL)[h BusinessKeyboard][PET4032].rom" size="2048" crc="16fb070c" md5="8e69e040489098522846b1b1c63682c2" sha1="9f91fbabfdd532d003d2508f399574ba8ec6ee5f"/>
+	</game>
+	<game name="Editor 901498-01 BASIC4 (198x)(Commodore)(PAL)[NormalKeyboard][CRTC][40columns]">
+		<description>Editor 901498-01 BASIC4 (198x)(Commodore)(PAL)[NormalKeyboard][CRTC][40columns]</description>
+		<rom name="Editor 901498-01 BASIC4 (198x)(Commodore)(PAL)[NormalKeyboard][CRTC][40columns].rom" size="2048" crc="3370e359" md5="b76d756e7ac8752ae0035f3ce5f1383c" sha1="05af284c914d53a52987b5f602466de75765f650"/>
+	</game>
+	<game name="Editor 901499-01 BASIC4 (198x)(Commodore)(NTSC)[h BusinessKeyboard][PET4032]">
+		<description>Editor 901499-01 BASIC4 (198x)(Commodore)(NTSC)[h BusinessKeyboard][PET4032]</description>
+		<rom name="Editor 901499-01 BASIC4 (198x)(Commodore)(NTSC)[h BusinessKeyboard][PET4032].rom" size="2048" crc="7a0e59ad" md5="49ed81f48988568008fee32dc457cfb8" sha1="f672bb7155c9a90f1d40ff442b8883b2620d0623"/>
+	</game>
+	<game name="Editor 901499-01 BASIC4 (198x)(Commodore)(NTSC)[NormalKeyboard][CRTC][40columns]">
+		<description>Editor 901499-01 BASIC4 (198x)(Commodore)(NTSC)[NormalKeyboard][CRTC][40columns]</description>
+		<rom name="Editor 901499-01 BASIC4 (198x)(Commodore)(NTSC)[NormalKeyboard][CRTC][40columns].rom" size="2048" crc="5f85bdf8" md5="2e86403fc2ac30e7af05b9e8607bef98" sha1="8cbf086c1ce4dfb2a2fe24c47476dfb878493dee"/>
+	</game>
+	<game name="Editor xxxxxx-xx (198x)(Commodore)(FR)[PET8096]">
+		<description>Editor xxxxxx-xx (198x)(Commodore)(FR)[PET8096]</description>
+		<rom name="Editor xxxxxx-xx (198x)(Commodore)(FR)[PET8096].rom" size="4096" crc="4d3d9918" md5="953441fda641770fe42a8eb4b6c81439" sha1="eedac298a201a28ad86a5939b569a46f9f12c16f"/>
+	</game>
+	<game name="Editor xxxxxx-xx BASIC4 (198x)(Commodore)(NTSC)(DE)[BusinessKeyboard][CRTC][80columns]">
+		<description>Editor xxxxxx-xx BASIC4 (198x)(Commodore)(NTSC)(DE)[BusinessKeyboard][CRTC][80columns]</description>
+		<rom name="Editor xxxxxx-xx BASIC4 (198x)(Commodore)(NTSC)(DE)[BusinessKeyboard][CRTC][80columns].rom" size="2048" crc="dd150646" md5="d7ef07fdd046d9e7c23e883f231baa7c" sha1="825c7535e4bcacea7edbfc57dca6ca48d1f79a90"/>
+	</game>
+	<game name="Editor xxxxxx-xx BASIC4 (198x)(Commodore)(PAL)(DE)[BusinessKeyboard][CRTC][80columns]">
+		<description>Editor xxxxxx-xx BASIC4 (198x)(Commodore)(PAL)(DE)[BusinessKeyboard][CRTC][80columns]</description>
+		<rom name="Editor xxxxxx-xx BASIC4 (198x)(Commodore)(PAL)(DE)[BusinessKeyboard][CRTC][80columns].rom" size="2048" crc="1c1e597d" md5="e3dcce0905aae86044634732a5f3dba4" sha1="7ac75ed73832847623c9f4f197fe7fb1a73bb41c"/>
+	</game>
+	<game name="Editor xxxxxx-xx BASIC4 (198x)(Commodore)(PAL)(SE)[BusinessKeyboard][CRTC][80columns]">
+		<description>Editor xxxxxx-xx BASIC4 (198x)(Commodore)(PAL)(SE)[BusinessKeyboard][CRTC][80columns]</description>
+		<rom name="Editor xxxxxx-xx BASIC4 (198x)(Commodore)(PAL)(SE)[BusinessKeyboard][CRTC][80columns].rom" size="2048" crc="75901dd7" md5="177ced46c66f68d4b02764de019c455e" sha1="2ead0d83255a344a42bb786428353ca48d446d03"/>
+	</game>
+	<game name="Editor xxxxxx-xx BASIC4 (198x)(Commodore)(PAL)[NormalKeyboard][CRTC][80columns][4016_to_8016]">
+		<description>Editor xxxxxx-xx BASIC4 (198x)(Commodore)(PAL)[NormalKeyboard][CRTC][80columns][4016_to_8016]</description>
+		<rom name="Editor xxxxxx-xx BASIC4 (198x)(Commodore)(PAL)[NormalKeyboard][CRTC][80columns][4016_to_8016].rom" size="2048" crc="3634b9a2" md5="5233a7853fc30f3bdc1141fc513977c1" sha1="f9dd30bf9cba8e4b18fc4e92ca073925c9a83c6b"/>
+	</game>
+	<game name="Kernal 324746-01 BASIC4 (198x)(Commodore)[PET8296]">
+		<description>Kernal 324746-01 BASIC4 (198x)(Commodore)[PET8296]</description>
+		<rom name="Kernal 324746-01 BASIC4 (198x)(Commodore)[PET8296].rom" size="16384" crc="7935b528" md5="8a21203c898fee96752e6a5c92eba865" sha1="5ab17ee70467152bf2130e3f48a2aa81e9df93c9"/>
+	</game>
+	<game name="Kernal 324878-01 BASIC4 (198x)(Commodore)[PET8296]">
+		<description>Kernal 324878-01 BASIC4 (198x)(Commodore)[PET8296]</description>
+		<rom name="Kernal 324878-01 BASIC4 (198x)(Commodore)[PET8296].rom" size="8192" crc="6c54eba4" md5="2c3a2a2a41ba6e9fd1e301f2a31e73aa" sha1="c21b274548b825dc791e9683f4cd67659c456bc1"/>
+	</game>
+	<game name="Kernal 324878-02 (198x)(Commodore)[PET8296]">
+		<description>Kernal 324878-02 (198x)(Commodore)[PET8296]</description>
+		<rom name="Kernal 324878-02 (198x)(Commodore)[PET8296].rom" size="8192" crc="7306a0e2" md5="7b89506aca5f3d536829fe82270719bd" sha1="1e22aa08fd140ff1a6ccd685eb30ba6f3ef62b08"/>
+	</game>
+	<game name="Kernal 324992-02 Hires Emulator (1984)(Commodore)[!][0x9000][PET8296gd]">
+		<description>Kernal 324992-02 Hires Emulator (1984)(Commodore)[!][0x9000][PET8296gd]</description>
+		<rom name="Kernal 324992-02 Hires Emulator (1984)(Commodore)[!][0x9000][PET8296gd].rom" size="4096" crc="2bac5baf" md5="aa91cb4fe423201653c2baee2ea66cd9" sha1="03aa866e4bc4e38e95983a6a82ba925e710bede8"/>
+	</game>
+	<game name="Kernal 324993-02 Hires BASIC (1984)(Commodore)[!][0xA000][PET8296gd]">
+		<description>Kernal 324993-02 Hires BASIC (1984)(Commodore)[!][0xA000][PET8296gd]</description>
+		<rom name="Kernal 324993-02 Hires BASIC (1984)(Commodore)[!][0xA000][PET8296gd].rom" size="4096" crc="57444531" md5="2255a2915ee9c15f9c9a7e9ebedf777e" sha1="74aa39888a6bc95762de767fce883203daca0d34"/>
+	</game>
+	<game name="Kernal 901439-01 BASIC1 (198x)(Commodore)[0xC000]">
+		<description>Kernal 901439-01 BASIC1 (198x)(Commodore)[0xC000]</description>
+		<rom name="Kernal 901439-01 BASIC1 (198x)(Commodore)[0xC000].rom" size="2048" crc="a055e33a" md5="b45778bdc95d67ccb475008718f4466b" sha1="831db40324113ee996c434d38b4add3fd1f820bd"/>
+	</game>
+	<game name="Kernal 901439-02 BASIC1 (198x)(Commodore)[0xD000]">
+		<description>Kernal 901439-02 BASIC1 (198x)(Commodore)[0xD000]</description>
+		<rom name="Kernal 901439-02 BASIC1 (198x)(Commodore)[0xD000].rom" size="2048" crc="d349f2d4" md5="e13b5675386beb93e8397df891113f5b" sha1="4bf2c20c51a63d213886957485ebef336bb803d0"/>
+	</game>
+	<game name="Kernal 901439-03 BASIC1 (198x)(Commodore)[0xE000]">
+		<description>Kernal 901439-03 BASIC1 (198x)(Commodore)[0xE000]</description>
+		<rom name="Kernal 901439-03 BASIC1 (198x)(Commodore)[0xE000].rom" size="2048" crc="9e1c5cea" md5="ef9bd0e62dfc47eb463fef20d0344826" sha1="f02f5fb492ba93dbbd390f24c10f7a832dec432a"/>
+	</game>
+	<game name="Kernal 901439-04 BASIC1 (198x)(Commodore)[0xF000]">
+		<description>Kernal 901439-04 BASIC1 (198x)(Commodore)[0xF000]</description>
+		<rom name="Kernal 901439-04 BASIC1 (198x)(Commodore)[0xF000].rom" size="2048" crc="661a814a" md5="2d44afcab9713ad4d11118a9e7429a81" sha1="960717282878e7de893d87242ddf9d1512be162e"/>
+	</game>
+	<game name="Kernal 901439-05 BASIC1 (198x)(Commodore)[0xC800]">
+		<description>Kernal 901439-05 BASIC1 (198x)(Commodore)[0xC800]</description>
+		<rom name="Kernal 901439-05 BASIC1 (198x)(Commodore)[0xC800].rom" size="2048" crc="69fd8a8f" md5="d03ee896c37ad1bd86773655948e1174" sha1="70c0f4fa67a70995b168668c957c3fcf2c8641bd"/>
+	</game>
+	<game name="Kernal 901439-06 BASIC1 (198x)(Commodore)[0xD800]">
+		<description>Kernal 901439-06 BASIC1 (198x)(Commodore)[0xD800]</description>
+		<rom name="Kernal 901439-06 BASIC1 (198x)(Commodore)[0xD800].rom" size="2048" crc="850544eb" md5="673b61a8fe11cd5d7e4003f81a2d8453" sha1="d293972d529023d8fd1f493149e4777b5c253a69"/>
+	</game>
+	<game name="Kernal 901439-07 BASIC1 (198x)(Commodore)[0xF800]">
+		<description>Kernal 901439-07 BASIC1 (198x)(Commodore)[0xF800]</description>
+		<rom name="Kernal 901439-07 BASIC1 (198x)(Commodore)[0xF800].rom" size="2048" crc="c4f47ad1" md5="9e1357c33c0d5a4a89b263f0c3c317ff" sha1="d440f2510bc52e20c3d6bc8b9ded9cea7f462a9c"/>
+	</game>
+	<game name="Kernal 901439-09 BASIC2 (198x)(Commodore)[0xC000]">
+		<description>Kernal 901439-09 BASIC2 (198x)(Commodore)[0xC000]</description>
+		<rom name="Kernal 901439-09 BASIC2 (198x)(Commodore)[0xC000].rom" size="2048" crc="03cf16d0" md5="9eaf58aa938083ad74117a81ac460e37" sha1="1330580c0614d3556a389da4649488ba04a60908"/>
+	</game>
+	<game name="Kernal 901439-13 BASIC3 (198x)(Commodore)[0xC000]">
+		<description>Kernal 901439-13 BASIC3 (198x)(Commodore)[0xC000]</description>
+		<rom name="Kernal 901439-13 BASIC3 (198x)(Commodore)[0xC000].rom" size="2048" crc="6aab64a5" md5="a271c2b8ba70a6d4dddb2a05f69dc700" sha1="8b26c86586787cd615c72f858307d18147872fb3"/>
+	</game>
+	<game name="Kernal 901439-14 BASIC3 (198x)(Commodore)[0xC800]">
+		<description>Kernal 901439-14 BASIC3 (198x)(Commodore)[0xC800]</description>
+		<rom name="Kernal 901439-14 BASIC3 (198x)(Commodore)[0xC800].rom" size="2048" crc="a8f6ff4c" md5="3df7df239614d8bc3bd0d57e203891af" sha1="89639e3dbf517eeac7b307ba59df708c99728e66"/>
+	</game>
+	<game name="Kernal 901439-15 BASIC3 (198x)(Commodore)[0xD000]">
+		<description>Kernal 901439-15 BASIC3 (198x)(Commodore)[0xD000]</description>
+		<rom name="Kernal 901439-15 BASIC3 (198x)(Commodore)[0xD000].rom" size="2048" crc="97f7396a" md5="1ba52e469fcfe7deb7ea79c5101c5415" sha1="1f5abdcbb305e08ca3d352eadcff6a58542d86d7"/>
+	</game>
+	<game name="Kernal 901439-16 BASIC3 (198x)(Commodore)[0xD800]">
+		<description>Kernal 901439-16 BASIC3 (198x)(Commodore)[0xD800]</description>
+		<rom name="Kernal 901439-16 BASIC3 (198x)(Commodore)[0xD800].rom" size="2048" crc="4cf8724c" md5="b46faf112d94ef9b90c5c38acc365114" sha1="0be048cd378625afd99338ada53bde434cc4613f"/>
+	</game>
+	<game name="Kernal 901439-17 BASIC3 (198x)(Commodore)[!][0xE000]">
+		<description>Kernal 901439-17 BASIC3 (198x)(Commodore)[!][0xE000]</description>
+		<rom name="Kernal 901439-17 BASIC3 (198x)(Commodore)[!][0xE000].rom" size="2048" crc="e459ab32" md5="cb8e8404c0b28eda10469792dfd1dbc2" sha1="5e5502ce32f5a7e387d65efe058916282041e54b"/>
+	</game>
+	<game name="Kernal 901439-18 BASIC3 (198x)(Commodore)[0xF000]">
+		<description>Kernal 901439-18 BASIC3 (198x)(Commodore)[0xF000]</description>
+		<rom name="Kernal 901439-18 BASIC3 (198x)(Commodore)[0xF000].rom" size="2048" crc="8745fc8a" md5="24cbc8fdef72f4f8703289e585d76aa0" sha1="fcc939d58c9bda5b54d6fb818ed4d0804e5ac377"/>
+	</game>
+	<game name="Kernal 901439-19 BASIC3 (198x)(Commodore)[0xF800]">
+		<description>Kernal 901439-19 BASIC3 (198x)(Commodore)[0xF800]</description>
+		<rom name="Kernal 901439-19 BASIC3 (198x)(Commodore)[0xF800].rom" size="2048" crc="fd2c1f87" md5="9e75c9b9002016e9623466314c3907ed" sha1="4081e365ff53bd5b8675a232a4793f6a1d087543"/>
+	</game>
+	<game name="Kernal 901447-01 BASIC1 (198x)(Commodore)[0xC000]">
+		<description>Kernal 901447-01 BASIC1 (198x)(Commodore)[0xC000]</description>
+		<rom name="Kernal 901447-01 BASIC1 (198x)(Commodore)[0xC000].rom" size="2048" crc="a055e33a" md5="b45778bdc95d67ccb475008718f4466b" sha1="831db40324113ee996c434d38b4add3fd1f820bd"/>
+	</game>
+	<game name="Kernal 901447-02 BASIC1 (198x)(Commodore)[0xC800]">
+		<description>Kernal 901447-02 BASIC1 (198x)(Commodore)[0xC800]</description>
+		<rom name="Kernal 901447-02 BASIC1 (198x)(Commodore)[0xC800].rom" size="2048" crc="69fd8a8f" md5="d03ee896c37ad1bd86773655948e1174" sha1="70c0f4fa67a70995b168668c957c3fcf2c8641bd"/>
+	</game>
+	<game name="Kernal 901447-03 BASIC1 (198x)(Commodore)[0xD000]">
+		<description>Kernal 901447-03 BASIC1 (198x)(Commodore)[0xD000]</description>
+		<rom name="Kernal 901447-03 BASIC1 (198x)(Commodore)[0xD000].rom" size="2048" crc="d349f2d4" md5="e13b5675386beb93e8397df891113f5b" sha1="4bf2c20c51a63d213886957485ebef336bb803d0"/>
+	</game>
+	<game name="Kernal 901447-04 BASIC1 (198x)(Commodore)[0xD800]">
+		<description>Kernal 901447-04 BASIC1 (198x)(Commodore)[0xD800]</description>
+		<rom name="Kernal 901447-04 BASIC1 (198x)(Commodore)[0xD800].rom" size="2048" crc="850544eb" md5="673b61a8fe11cd5d7e4003f81a2d8453" sha1="d293972d529023d8fd1f493149e4777b5c253a69"/>
+	</game>
+	<game name="Kernal 901447-05 BASIC1 (198x)(Commodore)[!][0xE000]">
+		<description>Kernal 901447-05 BASIC1 (198x)(Commodore)[!][0xE000]</description>
+		<rom name="Kernal 901447-05 BASIC1 (198x)(Commodore)[!][0xE000].rom" size="2048" crc="9e1c5cea" md5="ef9bd0e62dfc47eb463fef20d0344826" sha1="f02f5fb492ba93dbbd390f24c10f7a832dec432a"/>
+	</game>
+	<game name="Kernal 901447-06 BASIC1 (198x)(Commodore)[0xF000]">
+		<description>Kernal 901447-06 BASIC1 (198x)(Commodore)[0xF000]</description>
+		<rom name="Kernal 901447-06 BASIC1 (198x)(Commodore)[0xF000].rom" size="2048" crc="661a814a" md5="2d44afcab9713ad4d11118a9e7429a81" sha1="960717282878e7de893d87242ddf9d1512be162e"/>
+	</game>
+	<game name="Kernal 901447-07 BASIC1 (198x)(Commodore)[0xF800]">
+		<description>Kernal 901447-07 BASIC1 (198x)(Commodore)[0xF800]</description>
+		<rom name="Kernal 901447-07 BASIC1 (198x)(Commodore)[0xF800].rom" size="2048" crc="c4f47ad1" md5="9e1357c33c0d5a4a89b263f0c3c317ff" sha1="d440f2510bc52e20c3d6bc8b9ded9cea7f462a9c"/>
+	</game>
+	<game name="Kernal 901447-09 BASIC2 (198x)(Commodore)[0xC000]">
+		<description>Kernal 901447-09 BASIC2 (198x)(Commodore)[0xC000]</description>
+		<rom name="Kernal 901447-09 BASIC2 (198x)(Commodore)[0xC000].rom" size="2048" crc="03cf16d0" md5="9eaf58aa938083ad74117a81ac460e37" sha1="1330580c0614d3556a389da4649488ba04a60908"/>
+	</game>
+	<game name="Kernal 901447-20 BASIC3 (198x)(Commodore)[0xC000]">
+		<description>Kernal 901447-20 BASIC3 (198x)(Commodore)[0xC000]</description>
+		<rom name="Kernal 901447-20 BASIC3 (198x)(Commodore)[0xC000].rom" size="2048" crc="6aab64a5" md5="a271c2b8ba70a6d4dddb2a05f69dc700" sha1="8b26c86586787cd615c72f858307d18147872fb3"/>
+	</game>
+	<game name="Kernal 901447-21 BASIC3 (198x)(Commodore)[0xC800]">
+		<description>Kernal 901447-21 BASIC3 (198x)(Commodore)[0xC800]</description>
+		<rom name="Kernal 901447-21 BASIC3 (198x)(Commodore)[0xC800].rom" size="2048" crc="a8f6ff4c" md5="3df7df239614d8bc3bd0d57e203891af" sha1="89639e3dbf517eeac7b307ba59df708c99728e66"/>
+	</game>
+	<game name="Kernal 901447-22 BASIC3 (198x)(Commodore)[0xD000]">
+		<description>Kernal 901447-22 BASIC3 (198x)(Commodore)[0xD000]</description>
+		<rom name="Kernal 901447-22 BASIC3 (198x)(Commodore)[0xD000].rom" size="2048" crc="97f7396a" md5="1ba52e469fcfe7deb7ea79c5101c5415" sha1="1f5abdcbb305e08ca3d352eadcff6a58542d86d7"/>
+	</game>
+	<game name="Kernal 901447-23 BASIC3 (198x)(Commodore)[0xD800]">
+		<description>Kernal 901447-23 BASIC3 (198x)(Commodore)[0xD800]</description>
+		<rom name="Kernal 901447-23 BASIC3 (198x)(Commodore)[0xD800].rom" size="2048" crc="4cf8724c" md5="b46faf112d94ef9b90c5c38acc365114" sha1="0be048cd378625afd99338ada53bde434cc4613f"/>
+	</game>
+	<game name="Kernal 901447-24 BASIC3 (198x)(Commodore)[!][0xE000]">
+		<description>Kernal 901447-24 BASIC3 (198x)(Commodore)[!][0xE000]</description>
+		<rom name="Kernal 901447-24 BASIC3 (198x)(Commodore)[!][0xE000].rom" size="2048" crc="e459ab32" md5="cb8e8404c0b28eda10469792dfd1dbc2" sha1="5e5502ce32f5a7e387d65efe058916282041e54b"/>
+	</game>
+	<game name="Kernal 901447-25 BASIC3 (198x)(Commodore)[0xF000]">
+		<description>Kernal 901447-25 BASIC3 (198x)(Commodore)[0xF000]</description>
+		<rom name="Kernal 901447-25 BASIC3 (198x)(Commodore)[0xF000].rom" size="2048" crc="8745fc8a" md5="24cbc8fdef72f4f8703289e585d76aa0" sha1="fcc939d58c9bda5b54d6fb818ed4d0804e5ac377"/>
+	</game>
+	<game name="Kernal 901447-26 BASIC3 (198x)(Commodore)[0xF800]">
+		<description>Kernal 901447-26 BASIC3 (198x)(Commodore)[0xF800]</description>
+		<rom name="Kernal 901447-26 BASIC3 (198x)(Commodore)[0xF800].rom" size="2048" crc="fd2c1f87" md5="9e75c9b9002016e9623466314c3907ed" sha1="4081e365ff53bd5b8675a232a4793f6a1d087543"/>
+	</game>
+	<game name="Kernal 901465-03 BASIC2 (198x)(Commodore)[!]">
+		<description>Kernal 901465-03 BASIC2 (198x)(Commodore)[!]</description>
+		<rom name="Kernal 901465-03 BASIC2 (198x)(Commodore)[!].rom" size="4096" crc="f02238e2" md5="51a38bfef8f9e72cb64bf7d874b4c8c6" sha1="38742bdf449f629bcba6276ef24d3daeb7da6e84"/>
+	</game>
+	<game name="Kernal 901465-22 BASIC4 (198x)(Commodore)[!]">
+		<description>Kernal 901465-22 BASIC4 (198x)(Commodore)[!]</description>
+		<rom name="Kernal 901465-22 BASIC4 (198x)(Commodore)[!].rom" size="4096" crc="cc5298a1" md5="16ec21443ea5431ab63d511061054e6f" sha1="96a0fa56e0c937da92971d9c99d504e44e898806"/>
+	</game>
+	<game name="Kernal 901465-22 BASIC4 (198x)(Commodore)[CBM3008]">
+		<description>Kernal 901465-22 BASIC4 (198x)(Commodore)[CBM3008]</description>
+		<rom name="Kernal 901465-22 BASIC4 (198x)(Commodore)[CBM3008].rom" size="4096" crc="85a2b569" md5="672d363d6c705a3986ede56587b89e83" sha1="acf0c3378439cf4e0a577fe8cd0e14f0cb127cd4"/>
+	</game>
+	<game name="Kernal ccr-9000 (198x)(Commodore)[prototype]">
+		<description>Kernal ccr-9000 (198x)(Commodore)[prototype]</description>
+		<rom name="Kernal ccr-9000 (198x)(Commodore)[prototype].rom" size="4096" crc="ae8452b5" md5="1182f8ee3afbbd8f0d545169611d217a" sha1="88fe098d3b530eb59efcf5b2a8b4d833ab931407"/>
+	</game>
+	<game name="Kernal ccr-901465-01 (198x)(Commodore)[0xC000][prototype]">
+		<description>Kernal ccr-901465-01 (198x)(Commodore)[0xC000][prototype]</description>
+		<rom name="Kernal ccr-901465-01 (198x)(Commodore)[0xC000][prototype].rom" size="4096" crc="63a7fe4a" md5="6b13eb6a7e4a2e15f3fff18461ce9c0d" sha1="3622111f486d0e137022523657394befa92bde44"/>
+	</game>
+	<game name="Kernal ccr-901465-02 (198x)(Commodore)[0xD000][prototype]">
+		<description>Kernal ccr-901465-02 (198x)(Commodore)[0xD000][prototype]</description>
+		<rom name="Kernal ccr-901465-02 (198x)(Commodore)[0xD000][prototype].rom" size="4096" crc="ae4cb035" md5="8b7779f1afe3a6542bd17f6b80917d67" sha1="1bc0ebf27c9bb62ad71bca40313e874234cab6ac"/>
+	</game>
+	<game name="Kernal ccr-901465-03 (198x)(Commodore)[0xF000][prototype]">
+		<description>Kernal ccr-901465-03 (198x)(Commodore)[0xF000][prototype]</description>
+		<rom name="Kernal ccr-901465-03 (198x)(Commodore)[0xF000][prototype].rom" size="4096" crc="db494079" md5="f0ff72b63bf94556c4581bb125c1bf8d" sha1="e4d8bc91514d6cf493341e8a5cf28e7d2d6f332c"/>
+	</game>
+	<game name="Kernal ccr-printer (1981)(Commodore)[prototype]">
+		<description>Kernal ccr-printer (1981)(Commodore)[prototype]</description>
+		<rom name="Kernal ccr-printer (1981)(Commodore)[prototype].rom" size="2048" crc="ea905a10" md5="39da73d8487239eca9a93729bf73e90c" sha1="042e7b41419d9a95cada1eb8b5914413608dd8ee"/>
+	</game>
+	<game name="Kernal ccr-xxxxxx-xx (198x)(Commodore)[0xA000][prototype]">
+		<description>Kernal ccr-xxxxxx-xx (198x)(Commodore)[0xA000][prototype]</description>
+		<rom name="Kernal ccr-xxxxxx-xx (198x)(Commodore)[0xA000][prototype].rom" size="4096" crc="4002cc24" md5="06e54ba36c4afd8afe93085c7efd6578" sha1="8d4a08c14d02ce07a3dde76c62081822739db56a"/>
+	</game>
+	<game name="Kernal ccr-xxxxxx-xx (198x)(Commodore)[0xB000][prototype]">
+		<description>Kernal ccr-xxxxxx-xx (198x)(Commodore)[0xB000][prototype]</description>
+		<rom name="Kernal ccr-xxxxxx-xx (198x)(Commodore)[0xB000][prototype].rom" size="4096" crc="cdfe22b2" md5="f097562ffd7421ed84ba1229aa3bd43e" sha1="3bca4b6d7167724e9bba1885a5f397e55f4824e8"/>
+	</game>
+	<game name="Kernal ccr-xxxxxx-xx (198x)(Commodore)[0xE000][prototype]">
+		<description>Kernal ccr-xxxxxx-xx (198x)(Commodore)[0xE000][prototype]</description>
+		<rom name="Kernal ccr-xxxxxx-xx (198x)(Commodore)[0xE000][prototype].rom" size="2048" crc="0dec574b" md5="974e43d69b83dea0596b2523d983bbd3" sha1="8f9c720e752f5434c38644505676cb12d5fdafe3"/>
+	</game>
+	<game name="Kernal PaperClip UE9 (198x)(Commodore)[PET8296]">
+		<description>Kernal PaperClip UE9 (198x)(Commodore)[PET8296]</description>
+		<rom name="Kernal PaperClip UE9 (198x)(Commodore)[PET8296].rom" size="4096" crc="8fb11d4b" md5="752f6458085561fe8852934c5231f2c5" sha1="1c0f883cd3b8ded42ec00d83f7e7f0887f91fec0"/>
+	</game>
+	<game name="Option 324381-01b High Speed Graphic (198x)(-)">
+		<description>Option 324381-01b High Speed Graphic (198x)(-)</description>
+		<rom name="Option 324381-01b High Speed Graphic (198x)(-).rom" size="4096" crc="c8e3bff9" md5="80caf6499d9c814caa64b6e2891b6383" sha1="12ed3176ddd632f52e91082ab574adcba2149684"/>
+	</game>
+	<game name="Option 324402-01 High Speed Graphic (198x)(Commodore)(DE)[PET8296]">
+		<description>Option 324402-01 High Speed Graphic (198x)(Commodore)(DE)[PET8296]</description>
+		<rom name="Option 324402-01 High Speed Graphic (198x)(Commodore)(DE)[PET8296].rom" size="4096" crc="c8e3bff9" md5="80caf6499d9c814caa64b6e2891b6383" sha1="12ed3176ddd632f52e91082ab574adcba2149684"/>
+	</game>
+	<game name="Option Arrow 3600 baud tape fastloader (198x)(-)[0xA000]">
+		<description>Option Arrow 3600 baud tape fastloader (198x)(-)[0xA000]</description>
+		<rom name="Option Arrow 3600 baud tape fastloader (198x)(-)[0xA000].rom" size="2048" crc="b80a2dd3" md5="f19ab647db447b4259112f9dcb7aa415" sha1="dedbe978d4df904a06c7b1f6f90d038dc72af4b3"/>
+	</game>
+	<game name="Option Basic Expand (198x)(-)[0xA000]">
+		<description>Option Basic Expand (198x)(-)[0xA000]</description>
+		<rom name="Option Basic Expand (198x)(-)[0xA000].rom" size="4096" crc="1c278618" md5="d1b2f69ccb9b8ab805a63323727da19a" sha1="946c508467bfe1ca76cccbd60c07a1c4a679ed71"/>
+	</game>
+	<game name="Option BASIC Programmer&apos;s Toolkit (198x)(-)[0xB000][PET3032]">
+		<description>Option BASIC Programmer&apos;s Toolkit (198x)(-)[0xB000][PET3032]</description>
+		<rom name="Option BASIC Programmer&apos;s Toolkit (198x)(-)[0xB000][PET3032].rom" size="2048" crc="d8bace2a" md5="947d77691a9c926cd1a88d5e0eb78cfb" sha1="783f3fa12ae080ccaab51f1a3ab651921b2494b8"/>
+	</game>
+	<game name="Option BASIC utility 051181_84-SMK_B_2.2-UD3 BASIC4 (198x)(-)">
+		<description>Option BASIC utility 051181_84-SMK_B_2.2-UD3 BASIC4 (198x)(-)</description>
+		<rom name="Option BASIC utility 051181_84-SMK_B_2.2-UD3 BASIC4 (198x)(-).rom" size="4096" crc="04c9a92a" md5="ebd5871ca15650914188612b8db77b53" sha1="23184222c5e770fe3aaf976acc0a03cfc53220ee"/>
+	</game>
+	<game name="Option BATPRO (198x)(-)[0x9000]">
+		<description>Option BATPRO (198x)(-)[0x9000]</description>
+		<rom name="Option BATPRO (198x)(-)[0x9000].rom" size="4096" crc="da80481b" md5="017641115e028130d5f06967f0d561be" sha1="d9ebc8a0b0eab81fcb867b1a89f603bef0fb8509"/>
+	</game>
+	<game name="Option BATPRO (198x)(-)[0xA000]">
+		<description>Option BATPRO (198x)(-)[0xA000]</description>
+		<rom name="Option BATPRO (198x)(-)[0xA000].rom" size="4096" crc="a19433a9" md5="8722749f83376fd3bdc234bba74a4eea" sha1="266c323a1254cdaecbcc9b10e606f1c16ea9ef64"/>
+	</game>
+	<game name="Option CES PaperClip 2.0 (198x)(-)">
+		<description>Option CES PaperClip 2.0 (198x)(-)</description>
+		<rom name="Option CES PaperClip 2.0 (198x)(-).rom" size="2048" crc="e02e4c57" md5="6c18680fe0157cbd23554e65ab764ada" sha1="dcf35208b0d85ef89875c27572c81b7ff8122517"/>
+	</game>
+	<game name="Option Command-O ROM (198x)(-)[b][0x9000]">
+		<description>Option Command-O ROM (198x)(-)[b][0x9000]</description>
+		<rom name="Option Command-O ROM (198x)(-)[b][0x9000].rom" size="4095" crc="4a938bcc" md5="97adb25711a7edb8a2ae907bf53e97b9" sha1="cbb1fa3a4a211841e12e2218c606dd1bb66b8769"/>
+	</game>
+	<game name="Option Command-O ROM com40n (198x)(-)">
+		<description>Option Command-O ROM com40n (198x)(-)</description>
+		<rom name="Option Command-O ROM com40n (198x)(-).rom" size="4096" crc="f66e5651" md5="78a6bf61b8ed0a1eaa4cc351a2c3db0a" sha1="5ac60dd53e5039b5f2787e249bd57e1febd4cbfc"/>
+	</game>
+	<game name="Option Create-a-Base (198x)(-)[b][0x9000]">
+		<description>Option Create-a-Base (198x)(-)[b][0x9000]</description>
+		<rom name="Option Create-a-Base (198x)(-)[b][0x9000].rom" size="2048" crc="722a3439" md5="69470c1af016f18affc4598f7a7549b8" sha1="aca119bdf29f4e44a67d58994b27c9b01e2114d2"/>
+	</game>
+	<game name="Option Cross ref (198x)(-)[b][0x9000]">
+		<description>Option Cross ref (198x)(-)[b][0x9000]</description>
+		<rom name="Option Cross ref (198x)(-)[b][0x9000].rom" size="4095" crc="c062b87c" md5="f9b66bbdf1ea107230fcb4337865629e" sha1="2710b73ee44a8af17f282cafd2263d393f70588e"/>
+	</game>
+	<game name="Option Edex 4.4 (198x)(-)(FR)[0xA000]">
+		<description>Option Edex 4.4 (198x)(-)(FR)[0xA000]</description>
+		<rom name="Option Edex 4.4 (198x)(-)(FR)[0xA000].rom" size="4096" crc="82993411" md5="7a0dded2a91859b6f73a408aa6981e43" sha1="d4bf02217e6b589bf0985ae81a9000119ac781c4"/>
+	</game>
+	<game name="Option Infodesigns-20447 (198x)(-)">
+		<description>Option Infodesigns-20447 (198x)(-)</description>
+		<rom name="Option Infodesigns-20447 (198x)(-).rom" size="2048" crc="298f7b23" md5="6508dab5f8c34c1207077ebbf93a1c38" sha1="2027877c4171dcca72feb6e3c1b465dc9fa8048e"/>
+	</game>
+	<game name="Option Jinsam 4 Database (198x)(-)[b][0xA000]">
+		<description>Option Jinsam 4 Database (198x)(-)[b][0xA000]</description>
+		<rom name="Option Jinsam 4 Database (198x)(-)[b][0xA000].rom" size="4095" crc="6c9dab7d" md5="3bb2149e51c700cb18994bbd39298f7e" sha1="13b17751adbf1d9e0ec03bc1d79abad002b35710"/>
+	</game>
+	<game name="Option Jinsam 8 (198x)(-)[b][0xA000]">
+		<description>Option Jinsam 8 (198x)(-)[b][0xA000]</description>
+		<rom name="Option Jinsam 8 (198x)(-)[b][0xA000].rom" size="4095" crc="bae779d4" md5="68e28875933150d0af1aa98b27c3503b" sha1="3759036f836eaba6dd9cac23d31ce6e6dd20f3d9"/>
+	</game>
+	<game name="Option Kram 2.0 (198x)(-)[b][0x9000]">
+		<description>Option Kram 2.0 (198x)(-)[b][0x9000]</description>
+		<rom name="Option Kram 2.0 (198x)(-)[b][0x9000].rom" size="4095" crc="0e298a36" md5="c8e2f537502f0be7cbe3d9a7d460fc51" sha1="e431ce4475366920ba883d9aec27ae5d5e60523d"/>
+	</game>
+	<game name="Option Kram 2.0 (198x)(-)[b][0xA000]">
+		<description>Option Kram 2.0 (198x)(-)[b][0xA000]</description>
+		<rom name="Option Kram 2.0 (198x)(-)[b][0xA000].rom" size="4095" crc="2f16de85" md5="15316e9c6e3e8024839e809383ef9532" sha1="512e21f3a8560acdf45dcfcd99e6541c85f2e565"/>
+	</game>
+	<game name="Option McTerm 1.1 (198x)(-)[b][0x9000]">
+		<description>Option McTerm 1.1 (198x)(-)[b][0x9000]</description>
+		<rom name="Option McTerm 1.1 (198x)(-)[b][0x9000].rom" size="4095" crc="31f8a969" md5="48891a5b2762c4b6440e8b1fb3664ea7" sha1="04fb1cc684aa2facfbba072187b342bfe504ca98"/>
+	</game>
+	<game name="Option McTerm 1.17 (198x)(-)[b][0x9000]">
+		<description>Option McTerm 1.17 (198x)(-)[b][0x9000]</description>
+		<rom name="Option McTerm 1.17 (198x)(-)[b][0x9000].rom" size="4095" crc="0925c248" md5="f3d2cb2e644ee8ae0740ef4b61af4b77" sha1="0fa3f743feef547e5fc3884fa802bda1c4e1a69b"/>
+	</game>
+	<game name="Option McTerm 1.21 (198x)(-)[b][0x9000]">
+		<description>Option McTerm 1.21 (198x)(-)[b][0x9000]</description>
+		<rom name="Option McTerm 1.21 (198x)(-)[b][0x9000].rom" size="4094" crc="fe19a26e" md5="7cd2110cb7ab6264fe10e3dd5a1e930c" sha1="6e10564cbeb77b053ed5426269da4cee21b717a9"/>
+	</game>
+	<game name="Option Mikromon (198x)(-)">
+		<description>Option Mikromon (198x)(-)</description>
+		<rom name="Option Mikromon (198x)(-).rom" size="4096" crc="27d13b00" md5="0cfd76b5814969b1ae0c24fda579496d" sha1="66d9dca52ef25aa89380dc715af010d3d048b767"/>
+	</game>
+	<game name="Option Mojana Assember MON 697B (198x)(-)[SYS38000]">
+		<description>Option Mojana Assember MON 697B (198x)(-)[SYS38000]</description>
+		<rom name="Option Mojana Assember MON 697B (198x)(-)[SYS38000].rom" size="2048" crc="4b34723a" md5="2d325ef5444a8c9ca9d05fe36734763c" sha1="b9b27a989e2ac059d84a23a64345e75dbcd5fa14"/>
+	</game>
+	<game name="Option Msvweigh (198x)(-)[0xA000]">
+		<description>Option Msvweigh (198x)(-)[0xA000]</description>
+		<rom name="Option Msvweigh (198x)(-)[0xA000].rom" size="4096" crc="9ca60571" md5="0e633139d1d57a6c60cea97a8be48c5b" sha1="5e54ecea91f29fab6caf1d22be5fe881d2cf6a03"/>
+	</game>
+	<game name="Option NEWTIM S (198x)(-)[0x9000]">
+		<description>Option NEWTIM S (198x)(-)[0x9000]</description>
+		<rom name="Option NEWTIM S (198x)(-)[0x9000].rom" size="4096" crc="f112702a" md5="39ad8809a10bd799359a2310a9c5ebf3" sha1="2931d99f85b155846d7b143c44bad9f845807e80"/>
+	</game>
+	<game name="Option NEWTIM S V3.1 (198x)(-)[0x9000]">
+		<description>Option NEWTIM S V3.1 (198x)(-)[0x9000]</description>
+		<rom name="Option NEWTIM S V3.1 (198x)(-)[0x9000].rom" size="4096" crc="67a08502" md5="fe2f18955e2fec3a02248990ffa3a0a1" sha1="167e163822d2eae0ea51b25b5f6f8435ed939813"/>
+	</game>
+	<game name="Option ORGABASIC 101 V1.4.015 (198x)(-)[0xA000]">
+		<description>Option ORGABASIC 101 V1.4.015 (198x)(-)[0xA000]</description>
+		<rom name="Option ORGABASIC 101 V1.4.015 (198x)(-)[0xA000].rom" size="4096" crc="3bc24624" md5="0c0df1f3f93da1ea3ad0434d7658fb0e" sha1="0071e0db215caf6333152bc874d85315eebc95c4"/>
+	</game>
+	<game name="Option pet8032sk_sv-UD11-2732-104883B (198x)(-)(SE)[0xA000]">
+		<description>Option pet8032sk_sv-UD11-2732-104883B (198x)(-)(SE)[0xA000]</description>
+		<rom name="Option pet8032sk_sv-UD11-2732-104883B (198x)(-)(SE)[0xA000].rom" size="4096" crc="43b25b7e" md5="487c4cf84daa68099e8616b8e6091607" sha1="5ee1daac9101866cda0ab298aa870be9888fbc7f"/>
+	</game>
+	<game name="Option Petbasic2 (198x)(-)(DE)[0xB000][SYS47100]">
+		<description>Option Petbasic2 (198x)(-)(DE)[0xB000][SYS47100]</description>
+		<rom name="Option Petbasic2 (198x)(-)(DE)[0xB000][SYS47100].rom" size="2048" crc="73995c95" md5="9f2be11baf6d34eceae9be0a4cb33385" sha1="697ed7d6ad6774b7ddcf1e08a6ab42ebf9ce731a"/>
+	</game>
+	<game name="Option Petmaster Superchip (1980)(-)[0x9000][SYS38027]">
+		<description>Option Petmaster Superchip (1980)(-)[0x9000][SYS38027]</description>
+		<rom name="Option Petmaster Superchip (1980)(-)[0x9000][SYS38027].rom" size="2048" crc="5919a8a7" md5="b0bcc4f494a4605afea46afa2a25dfe3" sha1="ab71be435241fbe462b7ef7c7f84c7b93103e53e"/>
+	</game>
+	<game name="Option Pettest2 (198x)(-)[CRTC][40columns]">
+		<description>Option Pettest2 (198x)(-)[CRTC][40columns]</description>
+		<rom name="Option Pettest2 (198x)(-)[CRTC][40columns].rom" size="4096" crc="1296c44a" md5="a7e292a1550c9442ac38ebad420d4185" sha1="0c0ecff0c643cd0f86da92a31f272d1203456659"/>
+	</game>
+	<game name="Option Pettester (198x)(-)[CRTC][PET8032]">
+		<description>Option Pettester (198x)(-)[CRTC][PET8032]</description>
+		<rom name="Option Pettester (198x)(-)[CRTC][PET8032].rom" size="4096" crc="1296c44a" md5="a7e292a1550c9442ac38ebad420d4185" sha1="0c0ecff0c643cd0f86da92a31f272d1203456659"/>
+	</game>
+	<game name="Option Pettester (198x)(-)[NonCRTC]">
+		<description>Option Pettester (198x)(-)[NonCRTC]</description>
+		<rom name="Option Pettester (198x)(-)[NonCRTC].rom" size="4096" crc="2955ef1f" md5="ad4b2b3a3c97e500bf3538e7ba781403" sha1="82931dfc2d8dbf081cb122ad709e8c33f1ff2b72"/>
+	</game>
+	<game name="Option Power-Rom (198x)(-)[b][0x9000]">
+		<description>Option Power-Rom (198x)(-)[b][0x9000]</description>
+		<rom name="Option Power-Rom (198x)(-)[b][0x9000].rom" size="4095" crc="17e7b2fe" md5="0ae14805d754a1efe4e6253bf66e7e79" sha1="3b1726292600f6898efbb9f66d32cea2dfde7d77"/>
+	</game>
+	<game name="Option Power-Rom (198x)(-)[b][a][0x9000]">
+		<description>Option Power-Rom (198x)(-)[b][a][0x9000]</description>
+		<rom name="Option Power-Rom (198x)(-)[b][a][0x9000].rom" size="4095" crc="dad66e65" md5="ce166c574672da6187394e7da07ef078" sha1="53d8dd2568818b0d126f34aff5d7755c60f46666"/>
+	</game>
+	<game name="Option Spellmaster (198x)(-)[0x9000]">
+		<description>Option Spellmaster (198x)(-)[0x9000]</description>
+		<rom name="Option Spellmaster (198x)(-)[0x9000].rom" size="4096" crc="b9b768c7" md5="5f621a10d5afd4db2c7c0c7cbbc7e9b2" sha1="83275c32c04cad2e1ea81dab1428f64406b6bd52"/>
+	</game>
+	<game name="Option S-Tool Disk Wedge + keyboard autorepeat (198x)(-)(IT)[SYS37000]">
+		<description>Option S-Tool Disk Wedge + keyboard autorepeat (198x)(-)(IT)[SYS37000]</description>
+		<rom name="Option S-Tool Disk Wedge + keyboard autorepeat (198x)(-)(IT)[SYS37000].rom" size="4096" crc="69c8c549" md5="fa3e743b6308ee7a7d9675c784980dc3" sha1="5093f117981edd1cb5c5214359c266838acc3a13"/>
+	</game>
+	<game name="Option SUO-9000 Calc Result (198x)(-)(FI)[CBM8032]">
+		<description>Option SUO-9000 Calc Result (198x)(-)(FI)[CBM8032]</description>
+		<rom name="Option SUO-9000 Calc Result (198x)(-)(FI)[CBM8032].rom" size="4096" crc="67b6be0d" md5="eb212af219d421db4d9da6def31c15e6" sha1="e982101daafe644f0c17d16d46847a1a36d399cc"/>
+	</game>
+	<game name="Option Super Monitor (1983)(-)[0xB000][CBM3032]">
+		<description>Option Super Monitor (1983)(-)[0xB000][CBM3032]</description>
+		<rom name="Option Super Monitor (1983)(-)[0xB000][CBM3032].rom" size="4096" crc="a96a1e34" md5="52d913d4d053ed37d8a87d9fc30597a0" sha1="ba74e55ef2d97ec2498cbe4b7db87a37fc37fed9"/>
+	</game>
+	<game name="Option TCL Pascal 1.6 (198x)(-)[b][0xA000]">
+		<description>Option TCL Pascal 1.6 (198x)(-)[b][0xA000]</description>
+		<rom name="Option TCL Pascal 1.6 (198x)(-)[b][0xA000].rom" size="4095" crc="22c1d650" md5="30d51979b13b403ed882f569f24bc328" sha1="519df65c9bb2b39ef9a2380abafd7f16de87e4fa"/>
+	</game>
+	<game name="Option Toolkit 3.0 (198x)(-)[b][0xB000]">
+		<description>Option Toolkit 3.0 (198x)(-)[b][0xB000]</description>
+		<rom name="Option Toolkit 3.0 (198x)(-)[b][0xB000].rom" size="4095" crc="b855cbbb" md5="a404257741a5f758e5b177679ad1af92" sha1="f2f252cbb4ab87324bc4385cc59cade1243a7c51"/>
+	</game>
+	<game name="Option Toolkit 4.0 (198x)(-)[b][0xA000]">
+		<description>Option Toolkit 4.0 (198x)(-)[b][0xA000]</description>
+		<rom name="Option Toolkit 4.0 (198x)(-)[b][0xA000].rom" size="4095" crc="7f09077a" md5="36e8a9b377c2306714c7ad1198b0e673" sha1="c3ecd2dce5b5b7eb36b936ddf6d407a407ec5823"/>
+	</game>
+	<game name="Option Visicalc 901472-04 (198x)(-)[0x9000]">
+		<description>Option Visicalc 901472-04 (198x)(-)[0x9000]</description>
+		<rom name="Option Visicalc 901472-04 (198x)(-)[0x9000].rom" size="4096" crc="9bf3c9f8" md5="84efbc8c9ca34127112eb257a4224ba8" sha1="62be6bcf3a3aa844d629e8a52b30e01864cc8266"/>
+	</game>
+	<game name="Option Visicalc 901472-04 (198x)(-)[a][0x9000]">
+		<description>Option Visicalc 901472-04 (198x)(-)[a][0x9000]</description>
+		<rom name="Option Visicalc 901472-04 (198x)(-)[a][0x9000].rom" size="4095" crc="9861381b" md5="1f7a9a357e84167513d92b55b333ee4f" sha1="89b282011514449ff8e259bbb8868f3b7a8e33f0"/>
+	</game>
+	<game name="Option Waterloo Structured BASIC for basic v2 PETs (198x)(-)[SYS36864][t2193]">
+		<description>Option Waterloo Structured BASIC for basic v2 PETs (198x)(-)[SYS36864][t2193]</description>
+		<rom name="Option Waterloo Structured BASIC for basic v2 PETs (198x)(-)[SYS36864][t2193].rom" size="2048" crc="93c5618b" md5="4608ec4eda51be5abfb234b9f8a88b72" sha1="64fff33f8027311a1be75099915db7c42f60fa41"/>
+	</game>
+	<game name="Option Waterloo Structured BASIC for basic v4 PETs (198x)(-)[SYS36864][5929]">
+		<description>Option Waterloo Structured BASIC for basic v4 PETs (198x)(-)[SYS36864][5929]</description>
+		<rom name="Option Waterloo Structured BASIC for basic v4 PETs (198x)(-)[SYS36864][5929].rom" size="2048" crc="d3f5b6e6" md5="cbb1dfdaa74e214e47129b9490b1414b" sha1="27e809138bc7a132a2a94ef8029ad8569d586cd6"/>
+	</game>
+	<game name="Option Wordcheck (198x)(-)[0x9000]">
+		<description>Option Wordcheck (198x)(-)[0x9000]</description>
+		<rom name="Option Wordcheck (198x)(-)[0x9000].rom" size="4095" crc="34579aec" md5="0ea658e715c60138e855c9e3989dc6b1" sha1="60c32bdc0fe6aedd25a215b9cab0033494ab8ee6"/>
+	</game>
+	<game name="Option Wordcraft (198x)(-)(FI)[0x9000]">
+		<description>Option Wordcraft (198x)(-)(FI)[0x9000]</description>
+		<rom name="Option Wordcraft (198x)(-)(FI)[0x9000].rom" size="4096" crc="d185aeb1" md5="9f3113934c9856f72fb8673e207c82fa" sha1="c02decd74cbb2f1e59548d181201abafdc97bf13"/>
+	</game>
+	<game name="Option WordPro (198x)(-)[0xA000][PSI-5054][Companion for Wordpro 4-5]">
+		<description>Option WordPro (198x)(-)[0xA000][PSI-5054][Companion for Wordpro 4-5]</description>
+		<rom name="Option WordPro (198x)(-)[0xA000][PSI-5054][Companion for Wordpro 4-5].rom" size="4096" crc="8fb42b4d" md5="c38ec0dd6c59e129c278dc11c9d592c3" sha1="906d8ec3a0918d123e7d87bd3ebf6b0bc1bd87e0"/>
+	</game>
+	<game name="Option WordPro 3 (198x)(-)[b][0x9000]">
+		<description>Option WordPro 3 (198x)(-)[b][0x9000]</description>
+		<rom name="Option WordPro 3 (198x)(-)[b][0x9000].rom" size="4095" crc="5f3bbe03" md5="0360aecf227f4156a4d25e2421407964" sha1="b06068c268e7d3b0f2b50d77a66773a4cd3d29ef"/>
+	</game>
+	<game name="Option WordPro 3 (198x)(-)[b][0xA000]">
+		<description>Option WordPro 3 (198x)(-)[b][0xA000]</description>
+		<rom name="Option WordPro 3 (198x)(-)[b][0xA000].rom" size="4095" crc="9a1add5a" md5="514079a298c37649d34fac1f9ecca421" sha1="60b84420e46d3813c0c010bb7856108ed0824102"/>
+	</game>
+	<game name="Option WordPro 3 keyrom (198x)(-)">
+		<description>Option WordPro 3 keyrom (198x)(-)</description>
+		<rom name="Option WordPro 3 keyrom (198x)(-).rom" size="4096" crc="69b280e1" md5="f1df783c8ce6c04a4d0d14797d67c958" sha1="020673a4fad4a6b667796a9e5297716bb248f664"/>
+	</game>
+	<game name="Option WordPro 4 (198x)(-)[b][0xA000]">
+		<description>Option WordPro 4 (198x)(-)[b][0xA000]</description>
+		<rom name="Option WordPro 4 (198x)(-)[b][0xA000].rom" size="2048" crc="3974929c" md5="c3b83c18fde7152a4a9aa3ed833bf833" sha1="d6ef5a908e26549cec1781e6449364c505fb90d4"/>
+	</game>
+	<game name="Waterloo 901897-01 (198x)(Commodore)[!][0xE000][SuperPET]">
+		<description>Waterloo 901897-01 (198x)(Commodore)[!][0xE000][SuperPET]</description>
+		<rom name="Waterloo 901897-01 (198x)(Commodore)[!][0xE000][SuperPET].rom" size="2048" crc="b2cee903" md5="a740ff5d0d1132ab18cfc1974fca908d" sha1="e8ce8347451a001214a5e71a13081b38b4be23bc"/>
+	</game>
+	<game name="Waterloo 901898-01 (198x)(Commodore)[!][0xA000][SuperPET]">
+		<description>Waterloo 901898-01 (198x)(Commodore)[!][0xA000][SuperPET]</description>
+		<rom name="Waterloo 901898-01 (198x)(Commodore)[!][0xA000][SuperPET].rom" size="4096" crc="728a998b" md5="6eb1c1bfa6ce1444737794432966dfcc" sha1="0414b3ab847c8977eb05c2fcc72efcf2f9d92871"/>
+	</game>
+	<game name="Waterloo 901898-02 (198x)(Commodore)[!][0xB000][SuperPET]">
+		<description>Waterloo 901898-02 (198x)(Commodore)[!][0xB000][SuperPET]</description>
+		<rom name="Waterloo 901898-02 (198x)(Commodore)[!][0xB000][SuperPET].rom" size="4096" crc="6beb7c62" md5="537498d75ecf761d4991f9ebd85129ca" sha1="df154939b934d0aeeb376813ec1ba0d43c2a3378"/>
+	</game>
+	<game name="Waterloo 901898-03 (198x)(Commodore)[!][0xC000][SuperPET]">
+		<description>Waterloo 901898-03 (198x)(Commodore)[!][0xC000][SuperPET]</description>
+		<rom name="Waterloo 901898-03 (198x)(Commodore)[!][0xC000][SuperPET].rom" size="4096" crc="5db4983d" md5="3e8dd04902dc9fee172084698f84695f" sha1="6c5b0cce97068f8841112ba6d5cd8e568b562fa3"/>
+	</game>
+	<game name="Waterloo 901898-04 (198x)(Commodore)[!][0xD000][SuperPET]">
+		<description>Waterloo 901898-04 (198x)(Commodore)[!][0xD000][SuperPET]</description>
+		<rom name="Waterloo 901898-04 (198x)(Commodore)[!][0xD000][SuperPET].rom" size="4096" crc="f55fc559" md5="80f4d2351ee19673820989919c7c1e9b" sha1="b42a2050a319a1ffca7868a8d8d635fadd37ec37"/>
+	</game>
+	<game name="Waterloo 901898-05 (198x)(Commodore)[!][0xF000][SuperPET]">
+		<description>Waterloo 901898-05 (198x)(Commodore)[!][0xF000][SuperPET]</description>
+		<rom name="Waterloo 901898-05 (198x)(Commodore)[!][0xF000][SuperPET].rom" size="4096" crc="f42df0cb" md5="049e2d26fde71a741f6075ecbf0a432d" sha1="9b4a5134d20345171e7303445f87c4e0b9addc96"/>
+	</game>
+	<game name="Waterloo 970018-12 (198x)(Commodore)[0xA000][SuperPET]">
+		<description>Waterloo 970018-12 (198x)(Commodore)[0xA000][SuperPET]</description>
+		<rom name="Waterloo 970018-12 (198x)(Commodore)[0xA000][SuperPET].rom" size="8192" crc="a20bfbf5" md5="84cb402449c6107b7d2b636cb28f0042" sha1="dcd18397dd2a691118aaacf2b087d08e3782f81a"/>
+	</game>
+	<game name="Waterloo 970019-12 (198x)(Commodore)[0xC000][SuperPET]">
+		<description>Waterloo 970019-12 (198x)(Commodore)[0xC000][SuperPET]</description>
+		<rom name="Waterloo 970019-12 (198x)(Commodore)[0xC000][SuperPET].rom" size="8192" crc="14a3a0d8" md5="0f9bd7123d99892ce80f1e7e438c2194" sha1="3ac4b9ae895c45630d10cfc9079f5dcbce5eb48e"/>
+	</game>
+	<game name="Waterloo 970020-12 (198x)(Commodore)[0xE000][SuperPET]">
+		<description>Waterloo 970020-12 (198x)(Commodore)[0xE000][SuperPET]</description>
+		<rom name="Waterloo 970020-12 (198x)(Commodore)[0xE000][SuperPET].rom" size="8192" crc="7ee2fedd" md5="a4ffd0a17cb675f0b45e9c085126e44c" sha1="618992fe0046b670695f5b1d1c168ace9e6b8470"/>
+	</game>
+	<game name="Waterloo 970034-12 (198x)(Commodore)[0xE000][SuperPET]">
+		<description>Waterloo 970034-12 (198x)(Commodore)[0xE000][SuperPET]</description>
+		<rom name="Waterloo 970034-12 (198x)(Commodore)[0xE000][SuperPET].rom" size="8192" crc="65504368" md5="c03098d26dbb1a23737d3286f264bc97" sha1="ef6c5e5e9be17b87faed43cf0007f98731d78384"/>
+	</game>
+</datafile>

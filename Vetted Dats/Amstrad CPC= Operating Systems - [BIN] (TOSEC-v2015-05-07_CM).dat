@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Amstrad CPC - Operating Systems - [BIN]</name>
+		<description>Amstrad CPC - Operating Systems - [BIN] (TOSEC-v2015-05-07)</description>
+		<category>TOSEC</category>
+		<version>2015-05-07</version>
+		<author>jugaor - cbeard - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Amsdos 720k (19xx)(-)">
+		<description>Amsdos 720k (19xx)(-)</description>
+		<rom name="Amsdos 720k (19xx)(-).bin" size="16384" crc="d14f4918" md5="5d303a75991674fe71817be126fef8d8" sha1="b5aa948fa249022dafe0f6089254ddd6b1ad1d8a"/>
+	</game>
+	<game name="Amstrad CPC 464 OS (1985)(Amstrad)">
+		<description>Amstrad CPC 464 OS (1985)(Amstrad)</description>
+		<rom name="Amstrad CPC 464 OS (1985)(Amstrad).bin" size="16384" crc="815752df" md5="a175623be3162846c46eae2ca1723031" sha1="475c8080065a7aa9984daca0415a3d70a5305be2"/>
+	</game>
+	<game name="Amstrad CPC 464 OS (19xx)(Amstrad)(da)[h]">
+		<description>Amstrad CPC 464 OS (19xx)(Amstrad)(da)[h]</description>
+		<rom name="Amstrad CPC 464 OS (19xx)(Amstrad)(da)[h].bin" size="32768" crc="39185397" md5="43fc2f5259540ea6440cccd6cced52a7" sha1="1117107a272fee88d381278cca0a96d9510fe686"/>
+	</game>
+	<game name="Amstrad CPC 464+ and 6128+ OS (1991)(Amstrad)">
+		<description>Amstrad CPC 464+ and 6128+ OS (1991)(Amstrad)</description>
+		<rom name="Amstrad CPC 464+ and 6128+ OS (1991)(Amstrad).bin" size="16384" crc="bec456b1" md5="354305d3a5ad9443a440a71c5e858edf" sha1="46c4f13b942c49ff9b838b0d8ce7b48384c55e8a"/>
+	</game>
+	<game name="Amstrad CPC 464+ Plus A2 OS (1991)(Amstrad)">
+		<description>Amstrad CPC 464+ Plus A2 OS (1991)(Amstrad)</description>
+		<rom name="Amstrad CPC 464+ Plus A2 OS (1991)(Amstrad).bin" size="16384" crc="f6159e18" md5="2840d5277a39534f018501e1663f75ae" sha1="a79765ea42e27fa2031bff552ea605c169a3e4b3"/>
+	</game>
+	<game name="Amstrad CPC 6128 OS (1985)(Amstrad)">
+		<description>Amstrad CPC 6128 OS (1985)(Amstrad)</description>
+		<rom name="Amstrad CPC 6128 OS (1985)(Amstrad).bin" size="16384" crc="0219bb74" md5="9ba1b052c77713024bf2eb224cad2062" sha1="732ac62865052d7526a0a1a93f5beb66fa18f67d"/>
+	</game>
+	<game name="Amstrad CPC 6128 OS (1985)(Amstrad)(es)">
+		<description>Amstrad CPC 6128 OS (1985)(Amstrad)(es)</description>
+		<rom name="Amstrad CPC 6128 OS (1985)(Amstrad)(es).bin" size="16384" crc="a9937f75" md5="78c6b8912865b786efc7e91e3b0776c5" sha1="75fad28d54a60563874bcec28f52efe2cec021ab"/>
+	</game>
+	<game name="Amstrad CPC 6128 OS (1985)(Amstrad)(fr)">
+		<description>Amstrad CPC 6128 OS (1985)(Amstrad)(fr)</description>
+		<rom name="Amstrad CPC 6128 OS (1985)(Amstrad)(fr).bin" size="16384" crc="cdb86700" md5="6ef8704c2816e66e8689a1b471827b42" sha1="bd8babbd211fd434fd06ef225fa4602d142a25c7"/>
+	</game>
+	<game name="Amstrad CPC 664 Amsdos (1985)(Amstrad)">
+		<description>Amstrad CPC 664 Amsdos (1985)(Amstrad)</description>
+		<rom name="Amstrad CPC 664 Amsdos (1985)(Amstrad).bin" size="16384" crc="1fe22ecd" md5="25629dfe870d097469c217b95fdc1c95" sha1="39102c8e9cb55fcc0b9b62098780ed4a3cb6a4bb"/>
+	</game>
+	<game name="Amstrad CPC 664 OS (1985)(Amstrad)">
+		<description>Amstrad CPC 664 OS (1985)(Amstrad)</description>
+		<rom name="Amstrad CPC 664 OS (1985)(Amstrad).bin" size="16384" crc="3f5a6dc4" md5="2b04cc6c472e2d405092dd10b26b074e" sha1="285cfd583b69b4a50cd1bf2d0ce2a2eb2e5863ec"/>
+	</game>
+	<game name="CPM+ #1 (1988)(Amstrad - Digital Research - Graduate Software)">
+		<description>CPM+ #1 (1988)(Amstrad - Digital Research - Graduate Software)</description>
+		<rom name="CPM+ #1 (1988)(Amstrad - Digital Research - Graduate Software).bin" size="16384" crc="92b01533" md5="88b0cfd1282ab93ca84440c9918c6828" sha1="a1d13993277d48ce7c1930b6b1b41cc340f0a604"/>
+	</game>
+	<game name="CPM+ #2 (1988)(Amstrad - Digital Research - Graduate Software)">
+		<description>CPM+ #2 (1988)(Amstrad - Digital Research - Graduate Software)</description>
+		<rom name="CPM+ #2 (1988)(Amstrad - Digital Research - Graduate Software).bin" size="16384" crc="e0be4c83" md5="86f35dd7c408f7c6d848b5559f198184" sha1="70b057dca98cf7a60e3dc7453ded4ff0d767fcff"/>
+	</game>
+	<game name="Nigdos v2.24 (1988)(-)">
+		<description>Nigdos v2.24 (1988)(-)</description>
+		<rom name="Nigdos v2.24 (1988)(-).bin" size="16384" crc="56fcfbdc" md5="1e79236407f6d23f4a6a615762d68f9d" sha1="dceb040692aa563d25b9dc40079726bc7cbe4b88"/>
+	</game>
+	<game name="Rodos v2.11 (19xx)(Romantic Robot UK)">
+		<description>Rodos v2.11 (19xx)(Romantic Robot UK)</description>
+		<rom name="Rodos v2.11 (19xx)(Romantic Robot UK).bin" size="16384" crc="661333ea" md5="572d2db2e7ab14fd386975fdf6f386aa" sha1="b0baf5f67ced7bc39112049871856ef109f76110"/>
+	</game>
+	<game name="Rodos v2.15 (19xx)(Romantic Robot UK)">
+		<description>Rodos v2.15 (19xx)(Romantic Robot UK)</description>
+		<rom name="Rodos v2.15 (19xx)(Romantic Robot UK).bin" size="16384" crc="bceb038b" md5="3608d682c6176ae461b56e2761ce4a9b" sha1="8f46a23fc4d04f2f7fd5430837cb602b2d645248"/>
+	</game>
+	<game name="Rom Dos (1988)(KDS Electronics)">
+		<description>Rom Dos (1988)(KDS Electronics)</description>
+		<rom name="Rom Dos (1988)(KDS Electronics).bin" size="8192" crc="cbabda8f" md5="12f5c4ce57175e8de3d6e9fdc6685c80" sha1="f4b48d8940799108ef07d73972d95b28193c3567"/>
+	</game>
+	<game name="Rom Dos XL (1992)(KDS Electronics - Siren Software)">
+		<description>Rom Dos XL (1992)(KDS Electronics - Siren Software)</description>
+		<rom name="Rom Dos XL (1992)(KDS Electronics - Siren Software).bin" size="16384" crc="8e59c39f" md5="0de35e1fb4ee9170813f98fb20639071" sha1="020395783760ca7c9b72f0e30357a23add6969dc"/>
+	</game>
+	<game name="Rom Dos XL v4.88 (1993)(Siren Software)">
+		<description>Rom Dos XL v4.88 (1993)(Siren Software)</description>
+		<rom name="Rom Dos XL v4.88 (1993)(Siren Software).bin" size="16384" crc="4a2f7c9d" md5="404bd0c8e485e6648a5e10e5293e0a6c" sha1="70cee8a7cb3651bcbca7a84f611eb487aa05760f"/>
+	</game>
+	<game name="Vorax's CPM Plus ROM #1 (19xx)(Graduate - Vorax)">
+		<description>Vorax's CPM Plus ROM #1 (19xx)(Graduate - Vorax)</description>
+		<rom name="Vorax's CPM Plus ROM #1 (19xx)(Graduate - Vorax).bin" size="16384" crc="f792e59d" md5="f8715b9991e97c3575bd6c2adff039cf" sha1="0c410e0d830f60c0d0012964a7c10767ac6b1555"/>
+	</game>
+	<game name="X-Ddos (1987)(-)">
+		<description>X-Ddos (1987)(-)</description>
+		<rom name="X-Ddos (1987)(-).bin" size="16384" crc="d52ad1a8" md5="2f4bae4faadb9b393cb3c1d231eb22ab" sha1="fcde895183a54e09fa280bb6e447c2d1f77c2fde"/>
+	</game>
+</datafile>

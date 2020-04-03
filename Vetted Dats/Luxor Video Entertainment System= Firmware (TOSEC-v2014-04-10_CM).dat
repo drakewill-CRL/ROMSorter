@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Luxor Video Entertainment System - Firmware</name>
+		<description>Luxor Video Entertainment System - Firmware (TOSEC-v2014-04-10)</description>
+		<category>TOSEC</category>
+		<version>2014-04-10</version>
+		<author>Cid - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Luxor Video Entertainment System BIOS (197x)(Fairchild)(SE)">
+		<description>Luxor Video Entertainment System BIOS (197x)(Fairchild)(SE)</description>
+		<rom name="Luxor Video Entertainment System BIOS (197x)(Fairchild)(SE).bin" size="1024" crc="015c1e38" md5="95d339631d867c8f1d15a5f2ec26069d" sha1="759e2ed31fbde4a2d8daf8b9f3e0dffebc90dae2"/>
+	</game>
+</datafile>

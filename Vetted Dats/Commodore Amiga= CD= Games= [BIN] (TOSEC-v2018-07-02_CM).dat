@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore Amiga - CD - Games - [BIN]</name>
+		<description>Commodore Amiga - CD - Games - [BIN] (TOSEC-v2018-07-02)</description>
+		<category>TOSEC-ISO</category>
+		<version>2018-07-02</version>
+		<author>Tomse</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+		<clrmamepro/>
+	</header>
+	<game name="Earth 2140 (2001)(Epic)[PPC][RTG]">
+		<description>Earth 2140 (2001)(Epic)[PPC][RTG]</description>
+		<rom name="Earth 2140 (2001)(Epic)[PPC][RTG].bin" size="683996880" crc="03f07c60" md5="1c7d0b1dc0efbe11745efdfa40ae7bae" sha1="d967e475fef14f40e319eb89caa12b8280fa7b1e"/>
+		<rom name="Earth 2140 (2001)(Epic)[PPC][RTG].cue" size="467" crc="ce04bfd1" md5="48656d14cb3e63051cc81a15aae6ad18" sha1="eb3f3341d194cbb8a2cf856d6de932413b990975"/>
+	</game>
+	<game name="Wendetta 2175 (1996)(Skills)[AGA-CD32]">
+		<description>Wendetta 2175 (1996)(Skills)[AGA-CD32]</description>
+		<rom name="Wendetta 2175 (1996)(Skills)[AGA-CD32].bin" size="40416768" crc="b760b503" md5="c011904deb3443ea611656b9517590df" sha1="ba140719abc2a72c1f45df3383e1b2ecfd959feb"/>
+		<rom name="Wendetta 2175 (1996)(Skills)[AGA-CD32].cue" size="104" crc="28cad5d4" md5="f1a33f494ea93874b22db1def1129cf5" sha1="baf1a0bb52480c0c33a4812b235cf91e1463af3d"/>
+	</game>
+</datafile>

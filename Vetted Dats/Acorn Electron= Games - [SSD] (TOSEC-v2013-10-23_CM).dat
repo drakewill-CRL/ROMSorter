@@ -1,0 +1,483 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Acorn Electron - Games - [SSD]</name>
+		<description>Acorn Electron - Games - [SSD] (TOSEC-v2013-10-23)</description>
+		<category>TOSEC</category>
+		<version>2013-10-23</version>
+		<author>Grendel - Tankgirl - CRSV - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Adventure (1983)(Program Power)">
+		<description>Adventure (1983)(Program Power)</description>
+		<rom name="Adventure (1983)(Program Power).ssd" size="13568" crc="beed46d2" md5="af584d783d99a23ff4d5c26b7125924c" sha1="8e2ccbdceb0b9f9e88ca256f02e38a20e2666d71"/>
+	</game>
+	<game name="Airlift (19xx)(Superior Software)[b]">
+		<description>Airlift (19xx)(Superior Software)[b]</description>
+		<rom name="Airlift (19xx)(Superior Software)[b].ssd" size="10752" crc="f35433bd" md5="d20ca56cd35167f01be71887513aa922" sha1="4ceeaeb116bb70390d192883c0049c55bc0abb43"/>
+	</game>
+	<game name="Alien Dropout (1982)(Hanson, R.M.P.)">
+		<description>Alien Dropout (1982)(Hanson, R.M.P.)</description>
+		<rom name="Alien Dropout (1982)(Hanson, R.M.P.).ssd" size="9472" crc="3989ff1b" md5="6f60c6e535437caa1911def9b083ec0c" sha1="d752c4564054f6637f43b19d93ad8a5962ab22d8"/>
+	</game>
+	<game name="Alphatron (19xx)(Program Power)">
+		<description>Alphatron (19xx)(Program Power)</description>
+		<rom name="Alphatron (19xx)(Program Power).ssd" size="22272" crc="a402fa65" md5="f8937ecbd57b93ecd76a19d10294515d" sha1="57f0a7edcca97b8d62b6a3746bbcc7dcac0a5528"/>
+	</game>
+	<game name="Ballistix (1989)(Acornsoft - Superior Software)">
+		<description>Ballistix (1989)(Acornsoft - Superior Software)</description>
+		<rom name="Ballistix (1989)(Acornsoft - Superior Software).ssd" size="41472" crc="e96fdfca" md5="7dd8a4ea564cb556c2ebd61e4c792bc3" sha1="c9806ade110d7ca87b8b586038769b4b1cff23e9"/>
+	</game>
+	<game name="Bar Billiards (1987)(Blue Riboon)">
+		<description>Bar Billiards (1987)(Blue Riboon)</description>
+		<rom name="Bar Billiards (1987)(Blue Riboon).ssd" size="12288" crc="b0e84a03" md5="ac63c7a4a46977a2aee58feb8c5c0723" sha1="9504a2768d0ea1342d3d64ee2713c9e3cc983904"/>
+	</game>
+	<game name="Blast! (1989)(Audiogenic)">
+		<description>Blast! (1989)(Audiogenic)</description>
+		<rom name="Blast! (1989)(Audiogenic).ssd" size="29696" crc="250bfb11" md5="a5843b4c8287636aa1dd4ed3dc89594a" sha1="5e2855a7469ca4d485b8607fcd6f68d35a195773"/>
+	</game>
+	<game name="Blitzkrieg (1984)(Software Invasion)">
+		<description>Blitzkrieg (1984)(Software Invasion)</description>
+		<rom name="Blitzkrieg (1984)(Software Invasion).ssd" size="20992" crc="c7b9e43f" md5="5ab2356973d3c53ef9637e13ab614d97" sha1="168bb8b0c0ef6651f562eaad6b56839400394b83"/>
+	</game>
+	<game name="Boffins 2 - Brilliant Bouncing Boffins (1985)(Addictive Game)">
+		<description>Boffins 2 - Brilliant Bouncing Boffins (1985)(Addictive Game)</description>
+		<rom name="Boffins 2 - Brilliant Bouncing Boffins (1985)(Addictive Game).ssd" size="24320" crc="7798a933" md5="5e8268dfa39439ef043f83582b13d22e" sha1="224205d9c55a4bb383ae844bc023fcd42ab00307"/>
+	</game>
+	<game name="Bonecruncher (19xx)(Superior Software)">
+		<description>Bonecruncher (19xx)(Superior Software)</description>
+		<rom name="Bonecruncher (19xx)(Superior Software).ssd" size="47104" crc="bb7f2ba4" md5="c5195e06ebd255c7f45eaa8ca32b8d3b" sha1="2a48811f7946e23ddfa833601d08f09b49b3c1a9"/>
+	</game>
+	<game name="Brian Jacks Superstar Challenge (1985)(Martech)">
+		<description>Brian Jacks Superstar Challenge (1985)(Martech)</description>
+		<rom name="Brian Jacks Superstar Challenge (1985)(Martech).ssd" size="22016" crc="bdd2382a" md5="5c9b746b0f4c141db35b5ea7d3756a38" sha1="2e87c9746bfedba717b130d10f4bbd7a2441831e"/>
+	</game>
+	<game name="Bug Blaster (19xx)(Aligata)">
+		<description>Bug Blaster (19xx)(Aligata)</description>
+		<rom name="Bug Blaster (19xx)(Aligata).ssd" size="14336" crc="d80291e0" md5="525b11ebe5fd34329d329ccda709bdff" sha1="bf547bf6bda13b048fc29db62c3023cc234084a5"/>
+	</game>
+	<game name="Camelot (1989)(Acornsoft - Superior Software)">
+		<description>Camelot (1989)(Acornsoft - Superior Software)</description>
+		<rom name="Camelot (1989)(Acornsoft - Superior Software).ssd" size="28672" crc="3923af92" md5="1f15dd1bf086a9dd3e2b9d72fcce5105" sha1="c98c2307ddf7315079e3c64727d04e19301e65cd"/>
+	</game>
+	<game name="Caveman Capers (1985)(Icon)">
+		<description>Caveman Capers (1985)(Icon)</description>
+		<rom name="Caveman Capers (1985)(Icon).ssd" size="14592" crc="2d051198" md5="27f3f0ad61953335660ec2ba0d111c86" sha1="412f722725feed5d1392ae6c95d67eb81402c2b3"/>
+	</game>
+	<game name="Centibug (1982)(Hanson, R.M.P.)">
+		<description>Centibug (1982)(Hanson, R.M.P.)</description>
+		<rom name="Centibug (1982)(Hanson, R.M.P.).ssd" size="8960" crc="21dea59b" md5="697cfbe8c9cff84219d0564959c0b6f1" sha1="f45d53b1f8ed1c35f0d74660be615dd8132a5453"/>
+	</game>
+	<game name="Chuckie Egg (1983)(A&amp;F)">
+		<description>Chuckie Egg (1983)(A&amp;F)</description>
+		<rom name="Chuckie Egg (1983)(A&amp;F).ssd" size="12544" crc="c3a75b02" md5="d7eccc4156e581bcf50cc820b49e4e36" sha1="f16e9780beb8fa1868a1936be10ac00d033bc59e"/>
+	</game>
+	<game name="Circus Games (1988)(TyneSoft)">
+		<description>Circus Games (1988)(TyneSoft)</description>
+		<rom name="Circus Games (1988)(TyneSoft).ssd" size="88064" crc="9702bc5d" md5="702b72e02894ac80bd92fb40e88dd3bd" sha1="64cff04b20ed8b3465a673b443df7140a05fc479"/>
+	</game>
+	<game name="Citadel (1985)(Superior Software)">
+		<description>Citadel (1985)(Superior Software)</description>
+		<rom name="Citadel (1985)(Superior Software).ssd" size="25088" crc="af47851a" md5="7f3d1fecf893b80a368bf245fb9ee229" sha1="8a609976d20fbf88d1c7c87ba31437a9fc62a67b"/>
+	</game>
+	<game name="Commando (19xx)(Elite)">
+		<description>Commando (19xx)(Elite)</description>
+		<rom name="Commando (19xx)(Elite).ssd" size="29440" crc="9ab17cbb" md5="a2d5adda422e4fdbdd3fe1e18b05d350" sha1="934b567c1e8e54e115a7e98fa22d73107e5f415b"/>
+	</game>
+	<game name="Cops n' Robbers (1987)(Atlantis)">
+		<description>Cops n' Robbers (1987)(Atlantis)</description>
+		<rom name="Cops n' Robbers (1987)(Atlantis).ssd" size="12800" crc="bf632d96" md5="505b99fcc5d4cefb7f4184613100ecca" sha1="4da52518cff6c25299be45004b1b81e53f6aa196"/>
+	</game>
+	<game name="Cosmic Camouflage (1988)(Acornsoft - Superior Software)">
+		<description>Cosmic Camouflage (1988)(Acornsoft - Superior Software)</description>
+		<rom name="Cosmic Camouflage (1988)(Acornsoft - Superior Software).ssd" size="21760" crc="1a3d5e04" md5="ccf0109b6347927c6edb69419d37ed13" sha1="5e93e2c96888b294f2e83dcccc6e90142a95fae2"/>
+	</game>
+	<game name="Crack-Up (1989)(Atlantis)">
+		<description>Crack-Up (1989)(Atlantis)</description>
+		<rom name="Crack-Up (1989)(Atlantis).ssd" size="12032" crc="893d6834" md5="a14bbec551a8e8a18b96f98932c66413" sha1="02482a7964d6012989d8a2acd8c64434e109329f"/>
+	</game>
+	<game name="Croaker (1983)(Program Power)">
+		<description>Croaker (1983)(Program Power)</description>
+		<rom name="Croaker (1983)(Program Power).ssd" size="9984" crc="8d4b8048" md5="e09fb649efff0b851869dc37759faff2" sha1="af897bb3ef41cb8b981238a13f64f4987160466c"/>
+	</game>
+	<game name="Cybertron (1983)(Micropower - Program Power)">
+		<description>Cybertron (1983)(Micropower - Program Power)</description>
+		<rom name="Cybertron (1983)(Micropower - Program Power).ssd" size="14080" crc="cd9453e3" md5="9a07f520f7260ec1a697a9181940b536" sha1="3b4005dcdfaad9dc01cebf628821f7b131a08a27"/>
+	</game>
+	<game name="Cyborg Warriors (19xx)(Superior Software)">
+		<description>Cyborg Warriors (19xx)(Superior Software)</description>
+		<rom name="Cyborg Warriors (19xx)(Superior Software).ssd" size="30464" crc="34e30337" md5="edea2bd22247074751841f6b96ff411e" sha1="f1d9b5ba6be089dbd05fda1fb55c05d8c59a664f"/>
+	</game>
+	<game name="Danger! UXB (19xx)(Program Power)">
+		<description>Danger! UXB (19xx)(Program Power)</description>
+		<rom name="Danger! UXB (19xx)(Program Power).ssd" size="9728" crc="c3f8c47a" md5="886ba63bbc116adf9574eabdbb3e3de2" sha1="f20946884f4f019014b51fe28e79e82a79b6f039"/>
+	</game>
+	<game name="Darts (19xx)(Blue Ribbon)">
+		<description>Darts (19xx)(Blue Ribbon)</description>
+		<rom name="Darts (19xx)(Blue Ribbon).ssd" size="13312" crc="a582d6b5" md5="70bca9ed4e88900ec658f84f5c5b64c3" sha1="aa89610f9bd43914dd8bf1a97855d6b3762501f4"/>
+	</game>
+	<game name="Deathstar (1985)(Superior Software)">
+		<description>Deathstar (1985)(Superior Software)</description>
+		<rom name="Deathstar (1985)(Superior Software).ssd" size="14848" crc="b566bc14" md5="016e864aedd577f01c8ec1e310bdfdf0" sha1="74ce62baf06d3f9986e4864cba123be46d3d96d8"/>
+	</game>
+	<game name="Diamond Mine (1986)(Aligata - Unicorn)">
+		<description>Diamond Mine (1986)(Aligata - Unicorn)</description>
+		<rom name="Diamond Mine (1986)(Aligata - Unicorn).ssd" size="18432" crc="3aa2e2ee" md5="fc8ebfc398cc75223fd2983708c3b450" sha1="7abce851bf8914a7e03339acde0663f54ffe898d"/>
+	</game>
+	<game name="Electron Invaders (19xx)(Micropower)">
+		<description>Electron Invaders (19xx)(Micropower)</description>
+		<rom name="Electron Invaders (19xx)(Micropower).ssd" size="12288" crc="db33a3ea" md5="0a3f83a17dcdc8beb36e8c66c1fc4c43" sha1="abb4f250537119478ea30f279ff52d8e6960c185"/>
+	</game>
+	<game name="Electron Meteors (1983)(Acornsoft)">
+		<description>Electron Meteors (1983)(Acornsoft)</description>
+		<rom name="Electron Meteors (1983)(Acornsoft).ssd" size="12288" crc="127cd9bd" md5="5c25eb020aff479be2b17414595c10bb" sha1="59630e0ddb429a6839f92fbe516119de07ec6ab4"/>
+	</game>
+	<game name="European Knowledge (1984)(Micro Power)">
+		<description>European Knowledge (1984)(Micro Power)</description>
+		<rom name="European Knowledge (1984)(Micro Power).ssd" size="24576" crc="2220a6cd" md5="58f23bdb20d6f0271d69b12b22358214" sha1="70cfc49855eb2e573814d8d98508e71b484e8cb9"/>
+	</game>
+	<game name="Evil Weevil (1984)(Grove, J.)">
+		<description>Evil Weevil (1984)(Grove, J.)</description>
+		<rom name="Evil Weevil (1984)(Grove, J.).ssd" size="14848" crc="bd8b25a5" md5="226b0a1fe04e92c4eea16ae6af50e07d" sha1="0c25ea9d4c2e3e0b25e4e4f681bcb5310ad35c56"/>
+	</game>
+	<game name="Frak (1986)(Aardvark)">
+		<description>Frak (1986)(Aardvark)</description>
+		<rom name="Frak (1986)(Aardvark).ssd" size="31232" crc="c2db57b7" md5="cf9a7d543760b32eca4fe4436f55cbe3" sha1="370b2c0d936f744d8e3e8ee86801a0697154d3e9"/>
+	</game>
+	<game name="Frankenstein 2000 (1985)(Icon)">
+		<description>Frankenstein 2000 (1985)(Icon)</description>
+		<rom name="Frankenstein 2000 (1985)(Icon).ssd" size="21504" crc="1232d713" md5="78cae3e412f038de8bbb30bb6afc98da" sha1="b6fdf4c6d940fee9fda2cbaeccf4981224f6ae80"/>
+	</game>
+	<game name="Frenzy (19xx)(Micro Power)">
+		<description>Frenzy (19xx)(Micro Power)</description>
+		<rom name="Frenzy (19xx)(Micro Power).ssd" size="16128" crc="78d732a2" md5="5aa69e53353d1bc14ae371c68480d25c" sha1="ff88c513403f12db139fb540d63b20187ebecbb1"/>
+	</game>
+	<game name="Fruit Machine (1983)(Superior Software)">
+		<description>Fruit Machine (1983)(Superior Software)</description>
+		<rom name="Fruit Machine (1983)(Superior Software).ssd" size="9984" crc="8d2bc44d" md5="936723c1f5f83b054b95bc574cb12b91" sha1="762fb1c453369024233e9987fa0eb582ecf593c7"/>
+	</game>
+	<game name="Galaforce (1986)(Superior Software)">
+		<description>Galaforce (1986)(Superior Software)</description>
+		<rom name="Galaforce (1986)(Superior Software).ssd" size="58880" crc="884cf076" md5="2d93e4807d0c23d6ffde64ef3a4711f7" sha1="a86e923383ac03806dba7fd7b66a9671d5548ad5"/>
+	</game>
+	<game name="Gauntlet (1984)(Micro Power)">
+		<description>Gauntlet (1984)(Micro Power)</description>
+		<rom name="Gauntlet (1984)(Micro Power).ssd" size="18432" crc="97cb3883" md5="a07519c017db7d656c4d0953c56e3167" sha1="41f57d043dcc075f4097320e265632ff6a185bb7"/>
+	</game>
+	<game name="Goal (1986)(TyneSoft)">
+		<description>Goal (1986)(TyneSoft)</description>
+		<rom name="Goal (1986)(TyneSoft).ssd" size="21504" crc="dc5783ec" md5="6d03872ea5749ce4f8bbef5e0099a88c" sha1="b3efb59b323f451ddfa40db5eef18f51e8e0c622"/>
+	</game>
+	<game name="Golf (1987)(Blue Ribbon)">
+		<description>Golf (1987)(Blue Ribbon)</description>
+		<rom name="Golf (1987)(Blue Ribbon).ssd" size="12032" crc="a0d631c3" md5="1794dc53d17da5141461cf614c841cdf" sha1="9d64331e4290db64aa29856ac5b47b09cdd70af0"/>
+	</game>
+	<game name="Guardian (1984)(Aligata)">
+		<description>Guardian (1984)(Aligata)</description>
+		<rom name="Guardian (1984)(Aligata).ssd" size="21504" crc="34cd2f9e" md5="61be76b8acd875e9c1d32cfc7db4e20f" sha1="68f240255af2f64290b3feaf4f3f1d35f15884ff"/>
+	</game>
+	<game name="Gunfighter (19xx)(Telegram)">
+		<description>Gunfighter (19xx)(Telegram)</description>
+		<rom name="Gunfighter (19xx)(Telegram).ssd" size="29440" crc="2ff804ef" md5="9c6c6480e235cb4f39dff6cf7f19d951" sha1="4578806996c62378d71dedc7f3bb6a001b02167a"/>
+	</game>
+	<game name="Hi-Q Quiz (1989)(Blue Ribbon)">
+		<description>Hi-Q Quiz (1989)(Blue Ribbon)</description>
+		<rom name="Hi-Q Quiz (1989)(Blue Ribbon).ssd" size="13568" crc="6392c6d8" md5="bdc0703f887762940c0a53541391814b" sha1="4da2245737c65796545ec12814c06afa4453559b"/>
+	</game>
+	<game name="Hostages (1990)(Superior Software)">
+		<description>Hostages (1990)(Superior Software)</description>
+		<rom name="Hostages (1990)(Superior Software).ssd" size="72448" crc="b5ee3084" md5="ac36bcec7db612f3710afeb75ac7c710" sha1="924bab4187b6d6bdff283559505a795a18d84aa3"/>
+	</game>
+	<game name="Hunchback (198x)(Century Electronics - Ocean)">
+		<description>Hunchback (198x)(Century Electronics - Ocean)</description>
+		<rom name="Hunchback (198x)(Century Electronics - Ocean).ssd" size="19968" crc="36a86bba" md5="dcf8579c906e29baa17beaef96dd6c34" sha1="a91ace882eae49538a6adb16963eacb37934b4f3"/>
+	</game>
+	<game name="Indoor Soccer (19xx)(Alternative Software)">
+		<description>Indoor Soccer (19xx)(Alternative Software)</description>
+		<rom name="Indoor Soccer (19xx)(Alternative Software).ssd" size="29184" crc="5ad0ac9b" md5="6a8861169d01c5497ee16b256184a4d8" sha1="c29a45b629895e0795e3f8faf31ebce1139aaa25"/>
+	</game>
+	<game name="Jet Set Willy (198x)(Tynesoft)">
+		<description>Jet Set Willy (198x)(Tynesoft)</description>
+		<rom name="Jet Set Willy (198x)(Tynesoft).ssd" size="23808" crc="917a481d" md5="b7950b74602b19ec72aa24e645e2a33f" sha1="a00b92ca8230cd939959ee5fab33d546c01eb05b"/>
+	</game>
+	<game name="Joe Blade (1999)(Players)[b]">
+		<description>Joe Blade (1999)(Players)[b]</description>
+		<rom name="Joe Blade (1999)(Players)[b].ssd" size="35072" crc="00b51379" md5="7b54aa74fbb10faf9eb078ea3965ff82" sha1="dad06956aea2a3646d68a545a060a88fa036f235"/>
+	</game>
+	<game name="Joe Blade 2 (1988)(Players)">
+		<description>Joe Blade 2 (1988)(Players)</description>
+		<rom name="Joe Blade 2 (1988)(Players).ssd" size="40448" crc="194830b0" md5="48c1a123ded5187e6dbfff274bd59beb" sha1="77d25db86ed81266a4bc4b3d10856ec3818d93c3"/>
+	</game>
+	<game name="Kamikaze (1983)(A&amp;F)">
+		<description>Kamikaze (1983)(A&amp;F)</description>
+		<rom name="Kamikaze (1983)(A&amp;F).ssd" size="10752" crc="7a0c5641" md5="eb737dddb2ffa00de655da7ef7a50065" sha1="a1f42bd8c381287cd58318d6c7a9090442574055"/>
+	</game>
+	<game name="Kane (1986)(Mastertronic)">
+		<description>Kane (1986)(Mastertronic)</description>
+		<rom name="Kane (1986)(Mastertronic).ssd" size="17408" crc="a853b73a" md5="88774aac5073e8fdd8e7ade649205a51" sha1="c21117149d3abb0b3344fdaa1f3fc80868386b57"/>
+	</game>
+	<game name="Kansas Collection Disk 1 (19xx)(Kansas City)">
+		<description>Kansas Collection Disk 1 (19xx)(Kansas City)</description>
+		<rom name="Kansas Collection Disk 1 (19xx)(Kansas City).ssd" size="102912" crc="5601689b" md5="09a0d315b94feea4a97685daa8330d4c" sha1="26288bae70cf6dfeb61333883a6edbd4cc935fa0"/>
+	</game>
+	<game name="Kansas Collection Disk 2 (19xx)(Kansas City)">
+		<description>Kansas Collection Disk 2 (19xx)(Kansas City)</description>
+		<rom name="Kansas Collection Disk 2 (19xx)(Kansas City).ssd" size="204800" crc="a9adde4f" md5="097257c9562d0b14e21839e750c0e6eb" sha1="564a95e05aaedaa9ff7d468287b22d73509d9509"/>
+	</game>
+	<game name="Kansas Collection Disk 3 (19xx)(Kansas City)">
+		<description>Kansas Collection Disk 3 (19xx)(Kansas City)</description>
+		<rom name="Kansas Collection Disk 3 (19xx)(Kansas City).ssd" size="204800" crc="dea5e9f2" md5="ad5b58358966b0b779bd4543d18bbbb3" sha1="b9fa7682ea2764e3097f2697be8a6c27bf8dca59"/>
+	</game>
+	<game name="Kansas Collection Disk 4 (19xx)(Kansas City)">
+		<description>Kansas Collection Disk 4 (19xx)(Kansas City)</description>
+		<rom name="Kansas Collection Disk 4 (19xx)(Kansas City).ssd" size="204800" crc="bbeb9f06" md5="9a131e2ffad7e31c44b9d10ac68d7115" sha1="7c821256cdf520f5e056649d25704a92d2f769ea"/>
+	</game>
+	<game name="Killer Gorilla (198x)(Acornsoft - Superior Software)">
+		<description>Killer Gorilla (198x)(Acornsoft - Superior Software)</description>
+		<rom name="Killer Gorilla (198x)(Acornsoft - Superior Software).ssd" size="13312" crc="a7db4323" md5="44a6922196ea01d0e3aa08e8f3ebd90e" sha1="a9b1b3018d2db501cdef9504a0a9742aeb54448f"/>
+	</game>
+	<game name="Last Ninja Two (19xx)(Superior Software)">
+		<description>Last Ninja Two (19xx)(Superior Software)</description>
+		<rom name="Last Ninja Two (19xx)(Superior Software).ssd" size="75264" crc="ac048572" md5="ebe60a0b5d12c23c7e8ff618051e97ca" sha1="434bdea9b1b0d7e28e40fdea4852148de9f7b637"/>
+	</game>
+	<game name="Last Ninja, The (1988)(Superior Software)">
+		<description>Last Ninja, The (1988)(Superior Software)</description>
+		<rom name="Last Ninja, The (1988)(Superior Software).ssd" size="76032" crc="5410b94f" md5="6b18745ca55901e72082b617bc638034" sha1="a7911f41dc885ab5d96dbea008532728e8ead12d"/>
+	</game>
+	<game name="League Challenge (1986)(Atlantis)">
+		<description>League Challenge (1986)(Atlantis)</description>
+		<rom name="League Challenge (1986)(Atlantis).ssd" size="16128" crc="963b20b0" md5="c4dcbb3b68a6ad607ff387912e4c570c" sha1="701ab419089d1e2aea161cded57a45e7ca5d7802"/>
+	</game>
+	<game name="Magic Mushrooms (1985)(Acornsoft)">
+		<description>Magic Mushrooms (1985)(Acornsoft)</description>
+		<rom name="Magic Mushrooms (1985)(Acornsoft).ssd" size="13312" crc="72bcbcc9" md5="aa81321d1fd4da1a02d3c7b99433f121" sha1="383580b2b8ea6b29f56b561900548b2bdc1f7c81"/>
+	</game>
+	<game name="Mango (1987)(Blue Ribbon)">
+		<description>Mango (1987)(Blue Ribbon)</description>
+		<rom name="Mango (1987)(Blue Ribbon).ssd" size="11520" crc="c03ac7da" md5="b86ce497943993b71979f2986a4a1e52" sha1="f158ac84533692647fa8c73a9c276e1918ef6882"/>
+	</game>
+	<game name="Master Break (19xx)(Acornsoft - Superior Software)[b]">
+		<description>Master Break (19xx)(Acornsoft - Superior Software)[b]</description>
+		<rom name="Master Break (19xx)(Acornsoft - Superior Software)[b].ssd" size="103168" crc="392117d9" md5="287c459d6262cd92471ec73bd8ad4f05" sha1="5026a5a45e26c4c98cfe52a72bf769be502a93ab"/>
+	</game>
+	<game name="Mine, The (1984)(Adventure Soft U.K.)">
+		<description>Mine, The (1984)(Adventure Soft U.K.)</description>
+		<rom name="Mine, The (1984)(Adventure Soft U.K.).ssd" size="16128" crc="f92ca482" md5="297e990bf815bfb24a11011bddfa21ff" sha1="5b8359f0777ce7953a22ad52c67a9fe4d043b1c6"/>
+	</game>
+	<game name="Mineshaft (1984)(Durell Software)">
+		<description>Mineshaft (1984)(Durell Software)</description>
+		<rom name="Mineshaft (1984)(Durell Software).ssd" size="21504" crc="e538d8b1" md5="51512a66c4267afb2af6d431d025a202" sha1="7473fc5e0a4acb5974a596956960f99ae637c137"/>
+	</game>
+	<game name="Monsters (1983)(Acornsoft)">
+		<description>Monsters (1983)(Acornsoft)</description>
+		<rom name="Monsters (1983)(Acornsoft).ssd" size="13824" crc="3143a9fa" md5="ec0f41a8ae9060d5dfb9433221269650" sha1="b111a08458317a067b25ab7b3e2f399592d6305f"/>
+	</game>
+	<game name="Moonbase Alpha (198x)(-)">
+		<description>Moonbase Alpha (198x)(-)</description>
+		<rom name="Moonbase Alpha (198x)(-).ssd" size="11776" crc="2a82a157" md5="8ef14dccb2ed7e45dcbec09eed2413ff" sha1="b50943e13864e803ba5836519b18e1e27280f794"/>
+	</game>
+	<game name="Mr. Wiz (1984)(Llewellyn, J.D.)">
+		<description>Mr. Wiz (1984)(Llewellyn, J.D.)</description>
+		<rom name="Mr. Wiz (1984)(Llewellyn, J.D.).ssd" size="11264" crc="f24c95fe" md5="ba4de6b593cce492e1e96cfeb1cdc1f7" sha1="cf1572ca788d9c7f95f510aeb4f7f34967abb1a4"/>
+	</game>
+	<game name="Network, The (1985)(Acornsoft - Superior Software)">
+		<description>Network, The (1985)(Acornsoft - Superior Software)</description>
+		<rom name="Network, The (1985)(Acornsoft - Superior Software).ssd" size="36864" crc="5b56b464" md5="2153b62d16367420a0e090d75791c13e" sha1="54e66f4bddc2260ed1b047179cd4ba38c680e88c"/>
+	</game>
+	<game name="Overdrive (1984)(Pajsoft)">
+		<description>Overdrive (1984)(Pajsoft)</description>
+		<rom name="Overdrive (1984)(Pajsoft).ssd" size="11008" crc="3935dd31" md5="309f3459ff69a52067fc9d8d32b14302" sha1="670f66fa05b8611b9e0dfe5829e69759605f5ebf"/>
+	</game>
+	<game name="Palace of Magic (198x)(Howard, Martin)">
+		<description>Palace of Magic (198x)(Howard, Martin)</description>
+		<rom name="Palace of Magic (198x)(Howard, Martin).ssd" size="36864" crc="5e2cb433" md5="06036cf36058e378803b5e48dfdfba5e" sha1="edf3758aaaf138632eff43a6700df5f2f243f37c"/>
+	</game>
+	<game name="Paperboy (198x)(Elite Systems)">
+		<description>Paperboy (198x)(Elite Systems)</description>
+		<rom name="Paperboy (198x)(Elite Systems).ssd" size="26624" crc="903d08fa" md5="2012aab1f6f7279802d359d9e97c1326" sha1="26e8cb6d2bafc3f6f76f66b38901c8805021c0a6"/>
+	</game>
+	<game name="Perplexity (1989)(Acornsoft - Superior Software)">
+		<description>Perplexity (1989)(Acornsoft - Superior Software)</description>
+		<rom name="Perplexity (1989)(Acornsoft - Superior Software).ssd" size="36608" crc="9a90ffb4" md5="dce51e9a36a85c2fefb0f14f12cf2a88" sha1="4ab971b53aa1fa89d38e74899077d96710995ddd"/>
+	</game>
+	<game name="Planetoid (1984)(Acornsoft)">
+		<description>Planetoid (1984)(Acornsoft)</description>
+		<rom name="Planetoid (1984)(Acornsoft).ssd" size="14848" crc="c289bea3" md5="2314c58c295d6837ead9d86a8f68c0f9" sha1="2bac2ee1016685e2615019fa87fa91c079bbef3d"/>
+	</game>
+	<game name="Positron (1983)(Partis-Soft)">
+		<description>Positron (1983)(Partis-Soft)</description>
+		<rom name="Positron (1983)(Partis-Soft).ssd" size="10240" crc="50c3d85e" md5="cd0b3f4a47cec1f930f39d527f894074" sha1="42bc719f32a0c0d3a3d97285c83a86e711cca707"/>
+	</game>
+	<game name="Predator (19xx)(Activision - Superior Software)">
+		<description>Predator (19xx)(Activision - Superior Software)</description>
+		<rom name="Predator (19xx)(Activision - Superior Software).ssd" size="30976" crc="2f9a0e0b" md5="6b8dd67b308493756f6167937c25b402" sha1="f88ce9335d255d1bbd9e187057e178d2b345fe09"/>
+	</game>
+	<game name="Psycastria (1986)(Audiogenic)">
+		<description>Psycastria (1986)(Audiogenic)</description>
+		<rom name="Psycastria (1986)(Audiogenic).ssd" size="28160" crc="23c09d02" md5="d66dfb492147c44787ae8b48612e0f6b" sha1="76a1956d0293e57c3250de20755aac742c38b86b"/>
+	</game>
+	<game name="Qbix (1985)(Unicorn)">
+		<description>Qbix (1985)(Unicorn)</description>
+		<rom name="Qbix (1985)(Unicorn).ssd" size="15104" crc="d4a19465" md5="427ff4ef01896f378b44f5b0fd28b40f" sha1="f778200875432133e9ea6e8132799cdf4946a483"/>
+	</game>
+	<game name="Repton (1985)(Superior Software)">
+		<description>Repton (1985)(Superior Software)</description>
+		<rom name="Repton (1985)(Superior Software).ssd" size="25344" crc="36e54a61" md5="42585f6fbe9ff3edfa54da58ff28241e" sha1="d969e54108ccac07efd27d56a88a43cad845385e"/>
+	</game>
+	<game name="Repton 2 (1985)(Superior Software)">
+		<description>Repton 2 (1985)(Superior Software)</description>
+		<rom name="Repton 2 (1985)(Superior Software).ssd" size="30976" crc="47faab60" md5="69cc4e2e27824ca031c0b10d2cb5ef88" sha1="06c6bbba8a2f15dfa10c871a1f7c06d0b4404e36"/>
+	</game>
+	<game name="Repton Infinity (1988)(Acornsoft - Superior Software)(Disk 1 of 2)">
+		<description>Repton Infinity (1988)(Acornsoft - Superior Software)(Disk 1 of 2)</description>
+		<rom name="Repton Infinity (1988)(Acornsoft - Superior Software)(Disk 1 of 2).ssd" size="55808" crc="cd1bc682" md5="db8d5e14d5a6f3ac2902590b510375ea" sha1="47e9ccc39404760c7b4ff1b27510ce2c6b0ec4a0"/>
+	</game>
+	<game name="Repton Infinity (1988)(Acornsoft - Superior Software)(Disk 2 of 2)">
+		<description>Repton Infinity (1988)(Acornsoft - Superior Software)(Disk 2 of 2)</description>
+		<rom name="Repton Infinity (1988)(Acornsoft - Superior Software)(Disk 2 of 2).ssd" size="120576" crc="f223bdfa" md5="e15ec26019900d355518391bee72f819" sha1="77c054daf286f378a4c7ffc74ff9acded1132c16"/>
+	</game>
+	<game name="Return of R2 (1987)(Keyne, J.)">
+		<description>Return of R2 (1987)(Keyne, J.)</description>
+		<rom name="Return of R2 (1987)(Keyne, J.).ssd" size="24576" crc="98e9defe" md5="d6428850d4c94df53257c00546327cdb" sha1="a80ea86116acb98107a7bda054e78535a4e35709"/>
+	</game>
+	<game name="Ricochet (1989)(Superior Software)">
+		<description>Ricochet (1989)(Superior Software)</description>
+		<rom name="Ricochet (1989)(Superior Software).ssd" size="79104" crc="65ff100d" md5="59a0d269f21fb0f4c46d0deef76c1bb4" sha1="efbc266b7a32d5810d6ec97f92f0c6ef6801719c"/>
+	</game>
+	<game name="Rig Attack (198x)(Tynesoft)">
+		<description>Rig Attack (198x)(Tynesoft)</description>
+		<rom name="Rig Attack (198x)(Tynesoft).ssd" size="14848" crc="e6dd7ae1" md5="9a63baa9bf65e9dc48ed9a81a7dc722e" sha1="63dc4fc2a01ecb4bbdb508f7757cc3904bb0e46a"/>
+	</game>
+	<game name="Rodeo Games (1989)(Tynesoft)">
+		<description>Rodeo Games (1989)(Tynesoft)</description>
+		<rom name="Rodeo Games (1989)(Tynesoft).ssd" size="150784" crc="3dea3d3c" md5="cff6a1fbd4b1d4121caf19c298b220fe" sha1="328989f8a0eb2dcd4511ad6b83d5e876599be7ba"/>
+	</game>
+	<game name="Rubble Trouble (1984)(Micropower)">
+		<description>Rubble Trouble (1984)(Micropower)</description>
+		<rom name="Rubble Trouble (1984)(Micropower).ssd" size="16896" crc="7b21a19f" md5="d1f4ffa2f1f319f4c042a9e17560951e" sha1="00230be0a573944a130b80ea1b04f1c55dbe0289"/>
+	</game>
+	<game name="Shanghai Warriors (1989)(English)">
+		<description>Shanghai Warriors (1989)(English)</description>
+		<rom name="Shanghai Warriors (1989)(English).ssd" size="35072" crc="a1277779" md5="a269d1e3af690cf989fe46cb3077a874" sha1="64a87d3497aecf9ade71d20f07460ab8d370fae7"/>
+	</game>
+	<game name="Simcity (1990)(Acornsoft - Superior Software)">
+		<description>Simcity (1990)(Acornsoft - Superior Software)</description>
+		<rom name="Simcity (1990)(Acornsoft - Superior Software).ssd" size="62976" crc="eca98958" md5="7afcf9eb94b8ee52d10e095fcf2af0a8" sha1="03ae097dc94ef1b4f6e26bbee46dbb9eb7318fe7"/>
+	</game>
+	<game name="Smash &amp; Grab (1984)(Superior Software)">
+		<description>Smash &amp; Grab (1984)(Superior Software)</description>
+		<rom name="Smash &amp; Grab (1984)(Superior Software).ssd" size="15104" crc="61119d67" md5="2eff6ca9c92970af8155f2e3a9e2844f" sha1="76ba76800a491edf688cf9b4dffc5a03f50cf38d"/>
+	</game>
+	<game name="Snapper (1983)(Acornsoft)">
+		<description>Snapper (1983)(Acornsoft)</description>
+		<rom name="Snapper (1983)(Acornsoft).ssd" size="11264" crc="9eb24c75" md5="ee34a077c87437a64d6db66e12a04736" sha1="359f79d80749c7a7d3396ec7136021e3cf21283d"/>
+	</game>
+	<game name="Snooker (198x)(Visions)">
+		<description>Snooker (198x)(Visions)</description>
+		<rom name="Snooker (198x)(Visions).ssd" size="9216" crc="350d0ccd" md5="22821a7c12f0fb1f1a91d5844db9919f" sha1="d1db809cdd059ca99fc1f1e70959fb5ab7e04144"/>
+	</game>
+	<game name="Space Caverns (1985)(Tynesoft)">
+		<description>Space Caverns (1985)(Tynesoft)</description>
+		<rom name="Space Caverns (1985)(Tynesoft).ssd" size="11776" crc="8034b605" md5="230a6a559cb26dc0c1c94bc597911cd4" sha1="b1497a18ce63e1217fb5cef5e820ae8cf1d41d95"/>
+	</game>
+	<game name="Spooksville (1988)(Blue Ribbon - Exasoft)">
+		<description>Spooksville (1988)(Blue Ribbon - Exasoft)</description>
+		<rom name="Spooksville (1988)(Blue Ribbon - Exasoft).ssd" size="17408" crc="63bd061f" md5="0a5daf10a97227cb701d12ead918c0f9" sha1="523ca996e35d5749a71cafccf94931157a9b0299"/>
+	</game>
+	<game name="Star Force Seven (198x)(Bug Byte)">
+		<description>Star Force Seven (198x)(Bug Byte)</description>
+		<rom name="Star Force Seven (198x)(Bug Byte).ssd" size="34048" crc="cce7581c" md5="8a0f78b62140a272d375f9c890c16f08" sha1="46faa6d1f50efb3045cae8ab5fb398d472b4fc2d"/>
+	</game>
+	<game name="Steve Davis Snooker (1988)(Blue Ribbon)">
+		<description>Steve Davis Snooker (1988)(Blue Ribbon)</description>
+		<rom name="Steve Davis Snooker (1988)(Blue Ribbon).ssd" size="20736" crc="66fbb016" md5="28dc0a29628ceea80d3c82fa91628892" sha1="dd3592908a026a2f4c26d2a9dd620d20ccab5a3a"/>
+	</game>
+	<game name="Stormcycle (1989)(Atlantis)">
+		<description>Stormcycle (1989)(Atlantis)</description>
+		<rom name="Stormcycle (1989)(Atlantis).ssd" size="27648" crc="bc03bcf5" md5="31ed6b1ff3e3fa17267ecaf08b13b0a1" sha1="cea979daae70c2f6ae03117e44bc9cc8ca6463cf"/>
+	</game>
+	<game name="Strykers Run (1986)(Superior Software)">
+		<description>Strykers Run (1986)(Superior Software)</description>
+		<rom name="Strykers Run (1986)(Superior Software).ssd" size="29952" crc="bdf12d3f" md5="68d138e43d92ebb46af5a16b24bac64a" sha1="0d97af09147fc37bee6da9c7989dc9d3a6c493cd"/>
+	</game>
+	<game name="Subway Vigilante (1989)(Players)">
+		<description>Subway Vigilante (1989)(Players)</description>
+		<rom name="Subway Vigilante (1989)(Players).ssd" size="38912" crc="41d94153" md5="dd68c9d88b1846f3f440cd8fec4ac808" sha1="c7dc67fbaa161abceaba0b2ef15837fdf2ead3ab"/>
+	</game>
+	<game name="Super Pool (1984)(Software Invasion)">
+		<description>Super Pool (1984)(Software Invasion)</description>
+		<rom name="Super Pool (1984)(Software Invasion).ssd" size="15616" crc="d6f7fd2a" md5="61d07829f3e1edadbd7d293e65a77e9d" sha1="0fb84c24a0a11e69144771fd6dbe6036d0570fee"/>
+	</game>
+	<game name="Superior Soccer (1989)(Acornsoft - Superior Software)">
+		<description>Superior Soccer (1989)(Acornsoft - Superior Software)</description>
+		<rom name="Superior Soccer (1989)(Acornsoft - Superior Software).ssd" size="38656" crc="012b4dbe" md5="3c38709ce9123a7a7a2f975d82517ccf" sha1="9b8c1baf05b6cd27232027579ca440bfea6fed3d"/>
+	</game>
+	<game name="Survivor (1987)(Atlantis)[h S.A.M.]">
+		<description>Survivor (1987)(Atlantis)[h S.A.M.]</description>
+		<rom name="Survivor (1987)(Atlantis)[h S.A.M.].ssd" size="22528" crc="5681edae" md5="d83c479ae69be502f55962fd7b976e0b" sha1="0c0d6ff261ab026a649d57f003a13c4336fb67d1"/>
+	</game>
+	<game name="Swag! (19xx)(Micropower)">
+		<description>Swag! (19xx)(Micropower)</description>
+		<rom name="Swag! (19xx)(Micropower).ssd" size="17408" crc="10f4b281" md5="5b70a3a1be022eb0c76d95aad4e162c8" sha1="35da223b324e975440458d82616e15fc919ffe87"/>
+	</game>
+	<game name="Syncron (1986)(Superior Software)">
+		<description>Syncron (1986)(Superior Software)</description>
+		<rom name="Syncron (1986)(Superior Software).ssd" size="30976" crc="1a1aa002" md5="52f66f0bded400fb9791eea63cb35454" sha1="067b75aa89bb5c13ccccaf91dc69051726d644d4"/>
+	</game>
+	<game name="System-8 (1988)(Blue Ribbon - Cygnus Software)">
+		<description>System-8 (1988)(Blue Ribbon - Cygnus Software)</description>
+		<rom name="System-8 (1988)(Blue Ribbon - Cygnus Software).ssd" size="12288" crc="f78d7507" md5="5be3893a74cb52b4dd8f78ee547ff515" sha1="0dcc89917386e272aebcdc188bd12b3bc916233c"/>
+	</game>
+	<game name="Tempest (1985)(Atari - Superior Software)">
+		<description>Tempest (1985)(Atari - Superior Software)</description>
+		<rom name="Tempest (1985)(Atari - Superior Software).ssd" size="14592" crc="87da6c65" md5="61cb1bb3854a11f1c369624ff6770f69" sha1="199de0783a02892dda671f549fc249b678158b39"/>
+	</game>
+	<game name="Templeton (1986)(JEC)">
+		<description>Templeton (1986)(JEC)</description>
+		<rom name="Templeton (1986)(JEC).ssd" size="14592" crc="aec7f295" md5="adede6ea22ae4e8c24f50d271602372b" sha1="da0a29b7782ebf3af7d50289f57c05b65700c19c"/>
+	</game>
+	<game name="Thrust (1986)(Smith, Jeremy C.)">
+		<description>Thrust (1986)(Smith, Jeremy C.)</description>
+		<rom name="Thrust (1986)(Smith, Jeremy C.).ssd" size="20480" crc="6a1a9c0a" md5="4a6a6e2b380f3933494b2a134b3eef0d" sha1="34dbed247686e47ba296d247fb646b65c2292cce"/>
+	</game>
+	<game name="Trapper (1987)(Blue Ribbon)">
+		<description>Trapper (1987)(Blue Ribbon)</description>
+		<rom name="Trapper (1987)(Blue Ribbon).ssd" size="10752" crc="a0cefba9" md5="b0a2a77f6f44bb111f1e5e2371672b63" sha1="6a1df5e7dced63a0206e110a0dbdabf62d52292f"/>
+	</game>
+	<game name="Turfform (1988)(Blue Ribbon - Cygnus Software)">
+		<description>Turfform (1988)(Blue Ribbon - Cygnus Software)</description>
+		<rom name="Turfform (1988)(Blue Ribbon - Cygnus Software).ssd" size="11008" crc="6bbca79e" md5="18c874915367bfac3ac4561bcee08d2e" sha1="6176488851809f5d3a10ad7ddb985d14b6933df8"/>
+	</game>
+	<game name="Twin Kingdom Valley (19xx)(Hall, Trevor)">
+		<description>Twin Kingdom Valley (19xx)(Hall, Trevor)</description>
+		<rom name="Twin Kingdom Valley (19xx)(Hall, Trevor).ssd" size="27904" crc="45bb6496" md5="667ab4ae90b6f0cc678578035692be5e" sha1="e5f5eea350dc5b65f161ff905efb3adea81e87f2"/>
+	</game>
+	<game name="Vegas Jackpot (198x)(-)">
+		<description>Vegas Jackpot (198x)(-)</description>
+		<rom name="Vegas Jackpot (198x)(-).ssd" size="8960" crc="72449de3" md5="b5f54548bd017029a26725fc53ffe59d" sha1="eea7b448208f5e4f2b8d767e7947489fcfa5cd33"/>
+	</game>
+	<game name="Video Card Arcade v3.86 (1986)(Williams, M.)">
+		<description>Video Card Arcade v3.86 (1986)(Williams, M.)</description>
+		<rom name="Video Card Arcade v3.86 (1986)(Williams, M.).ssd" size="22784" crc="79fa77e6" md5="c89005335039ec65bfdc4c35a31aba8d" sha1="048ed1b16769fc9d5e2581934233189f4f5982c7"/>
+	</game>
+	<game name="Wetzone (19xx)(Tynesoft)[b]">
+		<description>Wetzone (19xx)(Tynesoft)[b]</description>
+		<rom name="Wetzone (19xx)(Tynesoft)[b].ssd" size="12032" crc="504cb8f5" md5="a6e4d53868ef90aa4f34163dc9bd4fd9" sha1="d4a9e8cd971dc86de820b0768ebfdab925e18836"/>
+	</game>
+	<game name="Wheel of Fortune, The (1984)(Epic)">
+		<description>Wheel of Fortune, The (1984)(Epic)</description>
+		<rom name="Wheel of Fortune, The (1984)(Epic).ssd" size="29440" crc="e33391b1" md5="f53dfb8e05b4a003f953b7396b65fa4c" sha1="b57c8a4fc3cb10db2f46e6d37ad64837bca79281"/>
+	</game>
+	<game name="Where! (1982)(Roger, T. - Wilson, S.)">
+		<description>Where! (1982)(Roger, T. - Wilson, S.)</description>
+		<rom name="Where! (1982)(Roger, T. - Wilson, S.).ssd" size="11776" crc="0b8baafc" md5="e6b71ef9568b9ba174390fee9c219d49" sha1="e0e52cf45e60b6ff4b01fb6c59e5651b618ff238"/>
+	</game>
+	<game name="Zalagan Hero (19xx)(Aardvark)">
+		<description>Zalagan Hero (19xx)(Aardvark)</description>
+		<rom name="Zalagan Hero (19xx)(Aardvark).ssd" size="23808" crc="e391c6ee" md5="d98b9a8254a38919ab111381a04e4fac" sha1="a7940a372ea40779d71cde115c42bb6f197212dd"/>
+	</game>
+</datafile>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Docs - [T64]</name>
+		<description>Commodore C64 - Docs - [T64] (TOSEC-v2019-06-29)</description>
+		<category>TOSEC</category>
+		<version>2019-06-29</version>
+		<author>Duncan Twain - DesertWolf</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Alien Syndrome - Note (1988)(The Papillons Inc.)">
+		<description>Alien Syndrome - Note (1988)(The Papillons Inc.)</description>
+		<rom name="Alien Syndrome - Note (1988)(The Papillons Inc.).t64" size="11709" crc="43b513cc" md5="568e7ad05739cc78a304faf0a1feb9fc" sha1="dc3a142e15a4aa26d7cb182f98d856e9bb5bfaca"/>
+	</game>
+	<game name="Bomb Uzal - Note (1988)(The Dominators)">
+		<description>Bomb Uzal - Note (1988)(The Dominators)</description>
+		<rom name="Bomb Uzal - Note (1988)(The Dominators).t64" size="2645" crc="b3ea1598" md5="f8334ed8ce49f3d5f77f34bb0974999b" sha1="d59b011adacefc49b3add6e66e0fa287b68c2e2f"/>
+	</game>
+	<game name="Crazy Toaster II - Note (1989)(The OUG-Team)(de)[BASIC]">
+		<description>Crazy Toaster II - Note (1989)(The OUG-Team)(de)[BASIC]</description>
+		<rom name="Crazy Toaster II - Note (1989)(The OUG-Team)(de)[BASIC].t64" size="1921" crc="a6d0a651" md5="1e48e9941365375da674e86170180844" sha1="fdceb41afbad3f1e889fc0f9137e769101798a8c"/>
+	</game>
+	<game name="Denaris Note (19xx)(Hotline)">
+		<description>Denaris Note (19xx)(Hotline)</description>
+		<rom name="Denaris Note (19xx)(Hotline).t64" size="356" crc="25178bdf" md5="324b06ddb42e7835ded6c634dfb7735b" sha1="e96c9d3dbb26add6c958389158f8ffd9e2ec086d"/>
+	</game>
+	<game name="Gunship Docs (1986)(L+T)">
+		<description>Gunship Docs (1986)(L+T)</description>
+		<rom name="Gunship Docs (1986)(L+T).t64" size="6193" crc="29a75f51" md5="0d32ff2118e62823cd42efe98b313e42" sha1="26053a1479b0fe57d049e7199f1541b8e92d31d0"/>
+	</game>
+	<game name="Gunship Docs (1986)(L+T)[a]">
+		<description>Gunship Docs (1986)(L+T)[a]</description>
+		<rom name="Gunship Docs (1986)(L+T)[a].t64" size="6161" crc="41030343" md5="45d3010ec1a206a6f6e9e80c13c8f159" sha1="12a306a79e1493f8ec69f1b9ff949c3d0eadb1ea"/>
+	</game>
+	<game name="Gunship Docs (1986)(L+T)[a2]">
+		<description>Gunship Docs (1986)(L+T)[a2]</description>
+		<rom name="Gunship Docs (1986)(L+T)[a2].t64" size="6161" crc="8cd8d274" md5="d820e134993fda2ea6be4b7330b34e72" sha1="eb7115bff2041f3191a258d481f247226c9444be"/>
+	</game>
+	<game name="L&apos;affaire Vera Cruz - Docs (1986)(Blancon, Gilles)">
+		<description>L&apos;affaire Vera Cruz - Docs (1986)(Blancon, Gilles)</description>
+		<rom name="L&apos;affaire Vera Cruz - Docs (1986)(Blancon, Gilles).t64" size="8599" crc="d383d403" md5="66c91b29b220be4aed602501b5b23415" sha1="fe68e8f215fe19bf6ffb765daa4aae77acffd0aa"/>
+	</game>
+	<game name="Quedex Writer Instructions (1987)(Fairlight)">
+		<description>Quedex Writer Instructions (1987)(Fairlight)</description>
+		<rom name="Quedex Writer Instructions (1987)(Fairlight).t64" size="11662" crc="cd0bf761" md5="a2cfeda82c27fc257f47ace6bd7150db" sha1="cd1e921d108a4760dc4ed290bf28bda9ca13d052"/>
+	</game>
+	<game name="Ugh! - Note (1993)(Success)">
+		<description>Ugh! - Note (1993)(Success)</description>
+		<rom name="Ugh! - Note (1993)(Success).t64" size="1568" crc="d3111955" md5="64184dba467c44752dd7856d4421a814" sha1="f70453af15e3aa12a2d94c2894cf677662ad1e53"/>
+	</game>
+	<game name="Xybots - Note (1989)(Raw Deal)">
+		<description>Xybots - Note (1989)(Raw Deal)</description>
+		<rom name="Xybots - Note (1989)(Raw Deal).t64" size="1295" crc="732324d3" md5="c4ef61bd0a4a5d236084f6affdef6a70" sha1="be0e5995127805679169a04c6a26495720e59d5d"/>
+	</game>
+</datafile>

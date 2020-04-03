@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Exidy Sorcerer - Games - [SNP]</name>
+		<description>Exidy Sorcerer - Games - [SNP] (TOSEC-v2014-01-24)</description>
+		<category>TOSEC</category>
+		<version>2014-01-24</version>
+		<author>Grendel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Breakout (1980)(Ray Bannon)">
+		<description>Breakout (1980)(Ray Bannon)</description>
+		<rom name="Breakout (1980)(Ray Bannon).snp" size="65564" crc="c758244a" md5="1c6f95bc8e71678ce5485ba8501e8307" sha1="019706f221fa0628b3542e2f64b94a28e27c9c0f"/>
+	</game>
+	<game name="Chess (19xx)(-)">
+		<description>Chess (19xx)(-)</description>
+		<rom name="Chess (19xx)(-).snp" size="65564" crc="5d9f7caa" md5="21955e50baae462e718c106ac22f6ec2" sha1="3e31b7d661d46eb32dff80ab2c42ce0eb4897733"/>
+	</game>
+	<game name="Chomp (1981)(Global Software Network)">
+		<description>Chomp (1981)(Global Software Network)</description>
+		<rom name="Chomp (1981)(Global Software Network).snp" size="65564" crc="338bd4c5" md5="7659ed5c07f38d4457d231ef81d15de4" sha1="4af1778ee79ed15dcc4986ee4480c1aa2d842cdc"/>
+	</game>
+	<game name="Galaxian (1978)(Exidy Inc.)">
+		<description>Galaxian (1978)(Exidy Inc.)</description>
+		<rom name="Galaxian (1978)(Exidy Inc.).snp" size="65564" crc="7908c146" md5="df5605f82d704ee4c22ad3df616d7dbd" sha1="f2a7742056ded8c6b3bbc0edbf87b52fc3c196da"/>
+	</game>
+	<game name="Invaders (1978)(Digital Research)">
+		<description>Invaders (1978)(Digital Research)</description>
+		<rom name="Invaders (1978)(Digital Research).snp" size="65564" crc="7d9da712" md5="e301d7aa1f21b5db1c657163bb30f4b8" sha1="a19f1d99732a6aadf4bce0b915323c6691344f41"/>
+	</game>
+	<game name="Snake (1978)(Digital Research)">
+		<description>Snake (1978)(Digital Research)</description>
+		<rom name="Snake (1978)(Digital Research).snp" size="65564" crc="8cd145a7" md5="752b5b8a2db7eb903664ad9763c353b1" sha1="7114b7b94aadce0e7e4d70a800e90b8e69beb146"/>
+	</game>
+</datafile>

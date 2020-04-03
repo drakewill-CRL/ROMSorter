@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo Pokemon Mini - Games</name>
+		<description>Nintendo Pokemon Mini - Games (TOSEC-v2011-08-13)</description>
+		<category>TOSEC</category>
+		<version>2011-08-13</version>
+		<author>Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Pokemon Zany Cards (2001)(Game Freak - Nintendo)(JP)">
+		<description>Pokemon Zany Cards (2001)(Game Freak - Nintendo)(JP)</description>
+		<rom name="Pokemon Zany Cards (2001)(Game Freak - Nintendo)(JP).bin" size="524288" crc="199d7ab1" md5="28451a7512a537ed8ff2b2f4da57a489" sha1="2c3aee0d0db8b4a80083732b8db07b0cc72608a8"/>
+	</game>
+	<game name="Pokemon Zany Cards (2002)(Game Freak - Nintendo)(DE)">
+		<description>Pokemon Zany Cards (2002)(Game Freak - Nintendo)(DE)</description>
+		<rom name="Pokemon Zany Cards (2002)(Game Freak - Nintendo)(DE).bin" size="524288" crc="c009d501" md5="f974f9ca3a9fbaadcaf4fa1a88b5a763" sha1="0922e0147ff097e56d5ec98bf66ef050539329fa"/>
+	</game>
+</datafile>

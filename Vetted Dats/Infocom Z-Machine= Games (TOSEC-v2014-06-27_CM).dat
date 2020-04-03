@@ -1,0 +1,766 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Infocom Z-Machine - Games</name>
+		<description>Infocom Z-Machine - Games (TOSEC-v2014-06-27)</description>
+		<category>TOSEC</category>
+		<version>2014-06-27</version>
+		<author>Archie - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Arthur - The Quest for Excaliber v54 (1989)(Infocom)">
+		<description>Arthur - The Quest for Excaliber v54 (1989)(Infocom)</description>
+		<rom name="arthur.z6" size="270848" crc="546a3755" md5="453e525ef75c64c95a8e07ccc620198a" sha1="84d363dad67e80e7835e530bbb87a5b346a5cc85"/>
+	</game>
+	<game name="Arthur - The Quest for Excaliber v63 (19xx)(Infocom)[h]">
+		<description>Arthur - The Quest for Excaliber v63 (19xx)(Infocom)[h]</description>
+		<rom name="arthur_63.z6" size="271304" crc="64cbf47a" md5="7848bd8b8f1fe6fd2b023ced7fa98019" sha1="a001e0c094680476067838b56e5f299ebdf9272c"/>
+	</game>
+	<game name="Arthur - The Quest for Excaliber v74 (1989)(Infocom)">
+		<description>Arthur - The Quest for Excaliber v74 (1989)(Infocom)</description>
+		<rom name="ARTHUR.CG1" size="209359" crc="5fdcff85" md5="d8da46b286cdd3e44ec749a5fb635618" sha1="234a9c616fc1bd13919402690e785c3bd393c85d"/>
+		<rom name="ARTHUR.EG1" size="223522" crc="999141fc" md5="51b3a5081e5185767110943e41e33528" sha1="cdb7fcb12e5b82472aae26982f2fdb79711561be"/>
+		<rom name="ARTHUR.EG2" size="154137" crc="1adf4e9e" md5="52744f585651c78a6b8de5762db88cba" sha1="612b44c0e5a06b8d133d11f7a9907cd3a3760269"/>
+		<rom name="ARTHUR.MG1" size="292279" crc="c692bdf5" md5="3c58e571f4d84f04f8d05e25768b980e" sha1="ef332ae51c44967b66223ec079898f33f325c27a"/>
+		<rom name="ARTHUR.ZIP" size="269200" crc="9343bc2c" md5="fadcbb81bd74072387e767638a67ed82" sha1="b2664cf58fcde64ff5a07f07b36038541961a394"/>
+		<rom name="Arthur_WT.txt" size="23518" crc="a0f1f6a7" md5="01e1512cde933b9a1d98ee766b356a22" sha1="978946a08a2a4b1ec39427f587add47dc7d7bea9"/>
+	</game>
+	<game name="Ballyhoo v97 (1986)(Infocom)">
+		<description>Ballyhoo v97 (1986)(Infocom)</description>
+		<rom name="BALLYHOO.DAT" size="128556" crc="f40f7187" md5="5d54e326815b0ed3aff8efb8ff02ef2f" sha1="72c691778550dbf1710fcebc388bcc9c5f2b09db"/>
+		<rom name="Ballyhoo_INV.txt" size="50955" crc="6abb673e" md5="272182654dd4898692929a1869bf2cfc" sha1="715f98c8353e6c116833f07cde7e601b225faa71"/>
+		<rom name="Ballyhoo_WT.txt" size="8149" crc="16091c16" md5="88ed82db24bddc973d6b625d0c386351" sha1="7c79216adf61a3c919906d7441d3c8ae8a97c310"/>
+	</game>
+	<game name="Beyond Zork - The Coconut of Quendor v47 (1987)(Infocom)[h]">
+		<description>Beyond Zork - The Coconut of Quendor v47 (1987)(Infocom)[h]</description>
+		<rom name="beyondzo.z5" size="261952" crc="4dde2364" md5="3671853351bf84f4ca3263cd159ce685" sha1="8ed5ac28db954b1c0a4798cc928c11931e1b942c"/>
+	</game>
+	<game name="Beyond Zork - The Coconut of Quendor v49 (1987)(Infocom)">
+		<description>Beyond Zork - The Coconut of Quendor v49 (1987)(Infocom)</description>
+		<rom name="BEYZORK.z5" size="261900" crc="6c39f3b4" md5="a1ab9dcc2b7f2d3280905ccad15570fa" sha1="e426192181c45b141372529769e6a380fbf11b38"/>
+	</game>
+	<game name="Beyond Zork - The Coconut of Quendor v49 (1987)(Infocom)[a]">
+		<description>Beyond Zork - The Coconut of Quendor v49 (1987)(Infocom)[a]</description>
+		<rom name="bzork.z5" size="261900" crc="8125b116" md5="24f9ded94a74d688916183358987dcca" sha1="f8f5ae43840c4d40c292ba97523750abc20de94f"/>
+	</game>
+	<game name="Beyond Zork - The Coconut of Quendor v51 (1987)(Infocom)[h]">
+		<description>Beyond Zork - The Coconut of Quendor v51 (1987)(Infocom)[h]</description>
+		<rom name="beyondzo_51.z5" size="261548" crc="e25d2d0f" md5="cf3ddc078e19341631fe480079175975" sha1="a67c8a41c9f160f441239c5b48180425127677d6"/>
+	</game>
+	<game name="Beyond Zork - The Coconut of Quendor v57 (1987)(Infocom)">
+		<description>Beyond Zork - The Coconut of Quendor v57 (1987)(Infocom)</description>
+		<rom name="Beyondzo.dat" size="261388" crc="625a63cf" md5="c8d08c8ae50e845a197f1831e1beee5c" sha1="d7d787d23acfcef943543d0a8a894150ae6bf5e9"/>
+		<rom name="beyondzo.mg1" size="18966" crc="f094c017" md5="e4af432b9f2658b694865c8ed06c1ef0" sha1="ec938f335900c585d010a84a67524cbbd8b8a755"/>
+		<rom name="BeyondZork_INV.txt" size="45242" crc="ec765de5" md5="01a39ea7ee1c8c1e67fae1b9ed14b80d" sha1="ba93a4d2a8477c6435524674ddc374a0d24a0c45"/>
+		<rom name="BeyondZork_WT.txt" size="23215" crc="8ae6afa2" md5="0038534682601a8eb1b2dba8588b361c" sha1="6ed6cd0eeca28dbbf09bc3ba1fe136764aa54ff5"/>
+		<rom name="beyzork.fon" size="17408" crc="50918314" md5="65c1bbbd803ea3a30c933aaab33cd530" sha1="fb6ae2df07110935162446326a8119b49ea31554"/>
+	</game>
+	<game name="Border Zone - A Game of Intrigue v9 (1987)(Infocom)">
+		<description>Border Zone - A Game of Intrigue v9 (1987)(Infocom)</description>
+		<rom name="BorderZone_RM.txt" size="1988" crc="475def74" md5="244857a615fc72953e03833a9039d06c" sha1="a2ad7a00000ccb50c60a7f2c4d0ce3092aeba591"/>
+		<rom name="BorderZone_WT.txt" size="6759" crc="4891be42" md5="5daf101c279b9d63c9301d68136ac7e2" sha1="80349cc312903783fe7682cc315636f861677931"/>
+		<rom name="DATA1.DAT" size="178372" crc="1d7e8f54" md5="2197c5ea8a0649d3900134a3814a0488" sha1="51601062d153cb1f9f41ff6264b9645e6840f134"/>
+	</game>
+	<game name="Border Zone - A Game of Intrigue v9 (1987)(Infocom)[a]">
+		<description>Border Zone - A Game of Intrigue v9 (1987)(Infocom)[a]</description>
+		<rom name="BORDERZ.z5" size="178372" crc="db073128" md5="39690a0bdcffb574a107a8673ec9e8d4" sha1="b0713a7d4a1541c76cfa361975feac2057cb3130"/>
+	</game>
+	<game name="Bureaucracy - A Paranoid Fantasy v116 (1987)(Infocom)">
+		<description>Bureaucracy - A Paranoid Fantasy v116 (1987)(Infocom)</description>
+		<rom name="BUREAUCR.DAT" size="243340" crc="36e91831" md5="6fb8c33765e7cdc59c9a3c4e0725b745" sha1="4f7c38df78710303c885dcbfeb02ce56c5409bf4"/>
+		<rom name="Bureaucracy_INV.txt" size="21098" crc="902406cf" md5="78a0b23f062978c994da1a298bb27aaa" sha1="b18e84d6921bbef654000ba16489a89baeb04006"/>
+		<rom name="Bureaucracy_RM.txt" size="19740" crc="a6cc35e7" md5="24689ae376a98dbaed15cc7e4068ae63" sha1="5cba093d9a214f5cf88e1f51cc19e5ccbb8b92fd"/>
+		<rom name="Bureaucracy_WT.txt" size="14679" crc="2e534952" md5="735fe78fa1f5d9be8b7b405cb76735a7" sha1="f1b7404db10f0ded6207ecbbb3915cd094df50df"/>
+	</game>
+	<game name="Bureaucracy - A Paranoid Fantasy v86 (1987)(Infocom)">
+		<description>Bureaucracy - A Paranoid Fantasy v86 (1987)(Infocom)</description>
+		<rom name="BUREAU.z4" size="243144" crc="ead47c88" md5="b143f67c20aaab934f49574da4cc00ae" sha1="4ec0dc3d9bcd693da7ae34aeb995440356c5377b"/>
+	</game>
+	<game name="Cutthroats v23 (1984)(Infocom)">
+		<description>Cutthroats v23 (1984)(Infocom)</description>
+		<rom name="cutthroa.dat" size="112558" crc="2f15ac1a" md5="ec7d273fd79d4a7dd69a9bf7001f6193" sha1="6bca5d195997f36946dd7b329a6d7b661bca06a8"/>
+		<rom name="Cutthroats_INV.txt" size="28538" crc="1e34a63f" md5="4b3119fb7a34416fb297b4b75868fb55" sha1="3731b8f71cce52244a6966169edf81379ac9d505"/>
+		<rom name="Cutthroats_RM.txt" size="2952" crc="6e8acaa4" md5="d371652a8e2630cf68d43e94248ad285" sha1="11d7bfef9bf649c7bf26a176f928bd8dd70ce229"/>
+		<rom name="Cutthroats_WT.txt" size="21209" crc="ab368e2f" md5="9ca289125fbaf3c0baaea1fb25481eb8" sha1="f0b4a1a851a19beecf72e520cc0ea8590b8e415a"/>
+		<rom name="readme.txt" size="761" crc="64a8e7ac" md5="13aa9be5047af5e2e84486d12894ee94" sha1="08f08343008a9f17d55aa81d3e988c231c820807"/>
+	</game>
+	<game name="Cutthroats v23 (1984)(Infocom)[a]">
+		<description>Cutthroats v23 (1984)(Infocom)[a]</description>
+		<rom name="cutthroa.z3" size="112558" crc="6f332dd5" md5="216eeeba1c8017a77343dc8482f6f185" sha1="f9a170ed3f05eb6a453b218fb48dab6149c72794"/>
+	</game>
+	<game name="Deadline v22 (1982)(Infocom)">
+		<description>Deadline v22 (1982)(Infocom)</description>
+		<rom name="DEADLINE.z3" size="111782" crc="5dc8972f" md5="89dd7c3a902dbd07ac2d7a998e626f3e" sha1="e92a2b6e5adda34c89750ec2c45a7271852f231c"/>
+	</game>
+	<game name="Deadline v26 (1982)(Infocom)">
+		<description>Deadline v26 (1982)(Infocom)</description>
+		<rom name="deadline.z3" size="108372" crc="f909f71b" md5="ce25483a4b91f24f54899303cfc6a6b6" sha1="e22e783b600a62c1f56e6d0229dcef38295fc8ba"/>
+	</game>
+	<game name="Deadline v27 (1982)(Infocom)">
+		<description>Deadline v27 (1982)(Infocom)</description>
+		<rom name="DEADLINE.DAT" size="108454" crc="0fc930dc" md5="b7361f0ac3200b6a9b84429cfae1b2e3" sha1="67a7e0731316cb1b446690a9691955149333b666"/>
+		<rom name="Deadline_INV.txt" size="26705" crc="71cba108" md5="7e3bf2cd4f7354f5d9737a25bc5adf22" sha1="af4bb72897c8553583d5e950db949af6a1fda516"/>
+		<rom name="Deadline_RM.txt" size="2120" crc="dc4353be" md5="dfc93b39398939ef9259d8fdbb9ca75f" sha1="c90678fb7dbec4f3ec86a4be933c0502f6d79a37"/>
+		<rom name="Deadline_WT.txt" size="6570" crc="223fc623" md5="0b9beb2ec5163dd518b5e9f36881e8f9" sha1="b1fb7eacbcadfb67c2a2aa228885d8c11935d2fb"/>
+	</game>
+	<game name="Enchanter v10 (1983)(Infocom)">
+		<description>Enchanter v10 (1983)(Infocom)</description>
+		<rom name="ENCHANTR.z3" size="109126" crc="55494129" md5="b7d4e4d549288c8ccd7a6ea3fa63ad1c" sha1="c43f64c52daf7d4c6df31faf93d92196ac3b53f8"/>
+	</game>
+	<game name="Enchanter v15 (1983)(Infocom)">
+		<description>Enchanter v15 (1983)(Infocom)</description>
+		<rom name="enchante.z3" size="109230" crc="d65843f2" md5="4ba1f22ecb5a6d1644b0bdb2949007e7" sha1="03c5ac8c2928fe90916737ae2caa416e18301736"/>
+	</game>
+	<game name="Enchanter v15 (1983)(Infocom)[h]">
+		<description>Enchanter v15 (1983)(Infocom)[h]</description>
+		<rom name="enchante_15h.z3" size="109230" crc="a5446a42" md5="f712e7a77552a5c99c391ed90e17ba46" sha1="06762375d325959490ab41a7ddfe8f8d147abf5a"/>
+	</game>
+	<game name="Enchanter v16 (1983)(Infocom)">
+		<description>Enchanter v16 (1983)(Infocom)</description>
+		<rom name="ench.z3" size="109234" crc="e53469be" md5="8033a976d89669e3480942e9363d194b" sha1="0146be46048b4e44b58db690651376182a8b99e3"/>
+	</game>
+	<game name="Enchanter v16 (1983)(Infocom)[a]">
+		<description>Enchanter v16 (1983)(Infocom)[a]</description>
+		<rom name="enchant.z3" size="109234" crc="525ff8e2" md5="6f1df3e97a14f771a8ba3f053fb8d251" sha1="a55553f70d7e9f2ed1b5e39bb613d505f5336d4f"/>
+	</game>
+	<game name="Enchanter v24 (1984)(Infocom)[h]">
+		<description>Enchanter v24 (1984)(Infocom)[h]</description>
+		<rom name="ench_24.z3" size="108638" crc="459e2c09" md5="ad3cdea88d81033fe29167688bd98c31" sha1="71cf0d5dcb364424f6b031cfb851ef0d8fc33e1e"/>
+	</game>
+	<game name="Enchanter v29 (1986)(Infocom)">
+		<description>Enchanter v29 (1986)(Infocom)</description>
+		<rom name="ENCHANTE.DAT" size="111126" crc="3786b9f4" md5="1cbfd0c27a1b61b12ab013b848ff83e9" sha1="6a771513cee2b1777358e5649909ba7b77cf8f25"/>
+		<rom name="Enchanter_INV.txt" size="29893" crc="92ff86e7" md5="06582d9b0fbbbe9e5b8de49c93616aa6" sha1="76c96072dcb545fa69966c4d58fc3c6041365e2d"/>
+		<rom name="Enchanter_RM.txt" size="9655" crc="c462a91e" md5="0b4feb2ab2773473465d0d4af465ad2d" sha1="e22053d4fb3bebde1c66bf43d3e3bdb84eccedb6"/>
+		<rom name="Enchanter_WT.txt" size="12182" crc="a244b213" md5="819ed66f9880028b6c5822da00920881" sha1="5053ffd9a9bcd60edf2410471287fffef8e079d2"/>
+	</game>
+	<game name="Four-In-One Sampler I v26 (1984)(Infocom)[840731]">
+		<description>Four-In-One Sampler I v26 (1984)(Infocom)[840731]</description>
+		<rom name="SAMPR26.z3" size="112610" crc="cdfcd26f" md5="ecb00d5e2d40f2d6833b7a135ae215e0" sha1="c843bc6a3484938d9183551528c8942f0537c551"/>
+	</game>
+	<game name="Four-In-One Sampler I v53 (19xx)(Infocom)[850407]">
+		<description>Four-In-One Sampler I v53 (19xx)(Infocom)[850407]</description>
+		<rom name="SAMPR53.z3" size="126708" crc="2ed60329" md5="fbb8fa8365720cfcc79654bb7de82450" sha1="7921f2415a66111999fbef0b3b0d4909ed10e5f6"/>
+	</game>
+	<game name="Four-In-One Sampler I v55 (19xx)(Infocom)[850823]">
+		<description>Four-In-One Sampler I v55 (19xx)(Infocom)[850823]</description>
+		<rom name="SAMPLER1.z3" size="126902" crc="1030d649" md5="8c6f2d966dc2ae145d83c340c0d694e1" sha1="07bc9cb32fabe4ae37cd923941d6e9154ad1e1f4"/>
+	</game>
+	<game name="Four-In-One Sampler II v97 (19xx)(Infocom)[870601]">
+		<description>Four-In-One Sampler II v97 (19xx)(Infocom)[870601]</description>
+		<rom name="SAMPLER2.z3" size="125314" crc="d7b95901" md5="c3a056e4039b986127468a05e30a9093" sha1="4671be9d849fd5a3c4e053d49aa6183306b77edc"/>
+	</game>
+	<game name="Hitchhiker's Guide to the Galaxy SG, The v31 (1984)(Infocom)[871119]">
+		<description>Hitchhiker's Guide to the Galaxy SG, The v31 (1984)(Infocom)[871119]</description>
+		<rom name="HHGG_INV.txt" size="75296" crc="3f5fdbb0" md5="76150fb706e20a250e1c02c515c9bb84" sha1="d9597c5654ec73c1358f6cee773d3c05d555c953"/>
+		<rom name="HHGTTG_RM.txt" size="1030" crc="3eb006ff" md5="cbd23601503a39d1fbefe333b08d8bf7" sha1="0fb64666b44107a72f53144866d7cc0515aa0837"/>
+		<rom name="HHGTTG_WT.txt" size="24896" crc="f0e9f8d2" md5="4cb5aaec90132e1f25e076d5d97ba1d9" sha1="052668f68db392ca427d8920b6bd9383d71f8631"/>
+		<rom name="HITCHHIK.DAT" size="158412" crc="dabbaf2e" md5="c44b2cd392b505c123fade5dfe1e1be0" sha1="f23e2e31901738f3409afbf4d07e22ce3f40be93"/>
+	</game>
+	<game name="Hitchhiker's Guide to the Galaxy SG, The v31 (1984)(Infocom)[a][871119]">
+		<description>Hitchhiker's Guide to the Galaxy SG, The v31 (1984)(Infocom)[a][871119]</description>
+		<rom name="SGOLD-HH.z5" size="158412" crc="c65e694b" md5="a67b6f9b9f30a53db41a6fd327f94452" sha1="f269fbc7e21eab6141452d590aeb46962e35b349"/>
+	</game>
+	<game name="Hitchhiker's Guide to the Galaxy, The v42 (1984)(Infocom)[h][850323]">
+		<description>Hitchhiker's Guide to the Galaxy, The v42 (1984)(Infocom)[h][850323]</description>
+		<rom name="hhgttg_42h.z3" size="113444" crc="760b53ee" md5="234a4bbc30a3867e8eedb754b1741222" sha1="9a591a71f0182b48b3dc93566ae0812035b63ae8"/>
+	</game>
+	<game name="Hitchhiker's Guide to the Galaxy, The v47 (1984)(Infocom)[840914]">
+		<description>Hitchhiker's Guide to the Galaxy, The v47 (1984)(Infocom)[840914]</description>
+		<rom name="hhgttg.z3" size="112622" crc="05254127" md5="4050ccee81d60558a985e04ab8707c64" sha1="b7d75be482cd679bf4446de24aebd1aafbdae4fb"/>
+	</game>
+	<game name="Hitchhiker's Guide to the Galaxy, The v47 (1984)(Infocom)[a][840914]">
+		<description>Hitchhiker's Guide to the Galaxy, The v47 (1984)(Infocom)[a][840914]</description>
+		<rom name="hhg.z3" size="112622" crc="873df992" md5="8a61fb987033d520023f293da77c25e2" sha1="53a024e21657edeab3886b9c2b667788c396b3e8"/>
+	</game>
+	<game name="Hitchhiker's Guide to the Galaxy, The v56 (1984)(Infocom)[841221]">
+		<description>Hitchhiker's Guide to the Galaxy, The v56 (1984)(Infocom)[841221]</description>
+		<rom name="HHG.z3" size="113444" crc="d2ceba45" md5="9b2a500cc3705e3f5f935962617d9e8b" sha1="2f04bbca863676b92c5ffdb487b31da2aaa3f370"/>
+	</game>
+	<game name="Hitchhiker's Guide to the Galaxy, The v56 (1984)(Infocom)[a][841221]">
+		<description>Hitchhiker's Guide to the Galaxy, The v56 (1984)(Infocom)[a][841221]</description>
+		<rom name="hhgg.z3" size="113444" crc="3e4fbb63" md5="6ddce44a5f5bf2fc0994cb8c70ca52f9" sha1="72a51fcaa4290da4f03715c04501196ba159bd1b"/>
+	</game>
+	<game name="Hitchhiker's Guide to the Galaxy, The v58 (1984)(Infocom)[851002]">
+		<description>Hitchhiker's Guide to the Galaxy, The v58 (1984)(Infocom)[851002]</description>
+		<rom name="HITCHHIK.DAT" size="113332" crc="ed006ced" md5="1833cd765a57fcf3210972838a4c1aaf" sha1="a1ef135e3507d10f0eadc5d11d2dee4b5f3b1ead"/>
+	</game>
+	<game name="Hitchhiker's Guide to the Galaxy, The v59 (1984)(Infocom)[h][851108]">
+		<description>Hitchhiker's Guide to the Galaxy, The v59 (1984)(Infocom)[h][851108]</description>
+		<rom name="hhgttg_59.z3" size="113334" crc="0beec589" md5="f7b84f101c1beb99e8b77218907f99c7" sha1="735e6bbe61e923dff47c58c1f24f4db8287fd802"/>
+	</game>
+	<game name="Hollywood Hijinx v235 (1986)(Infocom)[h][861118]">
+		<description>Hollywood Hijinx v235 (1986)(Infocom)[h][861118]</description>
+		<rom name="hollywoo_235.z3" size="118626" crc="e5707504" md5="1ea91a064941a3f612b20833f0a47df7" sha1="390408ae2b93cd836cf4552550c6a3309708fad6"/>
+	</game>
+	<game name="Hollywood Hijinx v37 (1986)(Infocom)[861215]">
+		<description>Hollywood Hijinx v37 (1986)(Infocom)[861215]</description>
+		<rom name="HOLLYWOO.DAT" size="109650" crc="1f552771" md5="c528811e6058d840369af44344c8f202" sha1="7f8e7f8b5e3ef4d819c97517ea7cc3fff6fb4551"/>
+		<rom name="HOLLYWOO.TXT" size="7460" crc="5a3fb370" md5="b80477873f0dbc5e99737eb4462e6e32" sha1="5c24d8e605f1d9af7dfa82fd984863c83958a829"/>
+		<rom name="HollywoodHijinx_INV.txt" size="27093" crc="39d584c4" md5="5e22bd66189c43bf3916b45722dffe44" sha1="984df27f7dde84deb35cc3c55f81721dad15b865"/>
+		<rom name="HollywoodHijinx_RM.txt" size="1347" crc="c178704f" md5="65ec0ec0b439bbef098a33c64fc850fa" sha1="cf835fcfe44916989cf729db830656f63ea198f6"/>
+		<rom name="HollywoodHijinx_WT.txt" size="17676" crc="2f595793" md5="481bb476a0fde5d722838968642eb47d" sha1="e7185fd0d3de92b0ff058a9fdc4196c40f08ad0c"/>
+	</game>
+	<game name="Hollywood Hijinx v37 (1986)(Infocom)[861308]">
+		<description>Hollywood Hijinx v37 (1986)(Infocom)[861308]</description>
+		<rom name="HIJINX.DAT" size="109650" crc="f8a708df" md5="0913cb424e57f07c14277302954c3a72" sha1="4e14752bd50859052a10e0980317e87087a546fe"/>
+	</game>
+	<game name="Hollywood Hijinx v37 (1986)(Infocom)[a][861215]">
+		<description>Hollywood Hijinx v37 (1986)(Infocom)[a][861215]</description>
+		<rom name="HH.z3" size="109650" crc="c37bc6b9" md5="56951b0f9ffd79eed81a5b8f6e6388e8" sha1="d5b667b2bc71539e88d63a735c395947fbc77190"/>
+	</game>
+	<game name="Infidel v22 (1983)(Infocom)[830916]">
+		<description>Infidel v22 (1983)(Infocom)[830916]</description>
+		<rom name="INFIDEL.DAT" size="93556" crc="fc5d66b1" md5="2fe5b5693fa60b0cf8621402423994b1" sha1="9b91808112e1450742f1aa863660d4471b5d4f23"/>
+		<rom name="Infidel_INV.txt" size="16532" crc="d3e0c36c" md5="ab18fc978d24b597ca6b3a770c634f04" sha1="26813367a750e4f9100462f9690e4e8d28140fad"/>
+		<rom name="Infidel_RM.txt" size="832" crc="c17995ab" md5="f56819c022ec604e9fef293a2bd10683" sha1="873aeb5910ee9e64a47de44994959f747aa284f6"/>
+		<rom name="Infidel_WT.txt" size="19570" crc="8fc1bae7" md5="56102729026b6a4dd812625429d02cc8" sha1="8092bcbd9d473a5ebef2d5e5020171964e120543"/>
+	</game>
+	<game name="Infidel v22 (1983)(Infocom)[a][830916]">
+		<description>Infidel v22 (1983)(Infocom)[a][830916]</description>
+		<rom name="infidel_.z3" size="93556" crc="02f6b3cb" md5="425fa66869309d7ed7f8ef04a492fbb7" sha1="90f185a4bbe51a1e14a376485d3c1bcb0178cf39"/>
+	</game>
+	<game name="Journey - Golden Age Trilogy Part One v26 (1989)(Infocom)[h][890316]">
+		<description>Journey - Golden Age Trilogy Part One v26 (1989)(Infocom)[h][890316]</description>
+		<rom name="journey_26.z6" size="279872" crc="b7b735e3" md5="5b8a74dc3b15eacb8a38f722c4aac792" sha1="d9a53e8a0ae67bd857bf998df07bb14e2015d487"/>
+	</game>
+	<game name="Journey - Golden Age Trilogy Part One v30 (1989)(Infocom)[890322]">
+		<description>Journey - Golden Age Trilogy Part One v30 (1989)(Infocom)[890322]</description>
+		<rom name="Journey.z6" size="280576" crc="8b252cd2" md5="30a40b40aeb58700448dc74326622cf7" sha1="9106cfb75472b231ed7500101168421bf6d4b970"/>
+	</game>
+	<game name="Journey - Golden Age Trilogy Part One v77 (1989)(Infocom)[h][890616]">
+		<description>Journey - Golden Age Trilogy Part One v77 (1989)(Infocom)[h][890616]</description>
+		<rom name="journey_77.z6" size="282176" crc="9f07234c" md5="455925fce7c95a3a81472fd2ec498c22" sha1="31b009dc3091fa8b4d85a20e5ff2c81165057666"/>
+	</game>
+	<game name="Journey - Golden Age Trilogy Part One v83 (1989)(Infocom)[890706]">
+		<description>Journey - Golden Age Trilogy Part One v83 (1989)(Infocom)[890706]</description>
+		<rom name="JOURNEY.CG1" size="297105" crc="7a719ed2" md5="1b6ce3352b7273bc793885155b8108c5" sha1="43405bb08220f82653497661b6385a8d1138f652"/>
+		<rom name="JOURNEY.EG1" size="360500" crc="5860115e" md5="a600ef3473a5eae46254c788bada42b0" sha1="dc6ff74e1d61885d3945683e1fc7f827f7c104ee"/>
+		<rom name="JOURNEY.EG2" size="249241" crc="0192b1c5" md5="9869c6974cd69e386e3c2f9f54d313cb" sha1="572127be6a7b88a77e60381f437c529e2cbb2898"/>
+		<rom name="JOURNEY.MG1" size="465606" crc="740404f7" md5="171676ddc1f2c6bee031a014fa44d71d" sha1="b534641e5f97c261467b87636e47eefc95d54c84"/>
+		<rom name="Journey.zip" size="282312" crc="7da5fb98" md5="c5c07c23c69e0ff88687bb81fc2a7704" sha1="14a71060caf1b5baf28bcc16a41ada144f3793ac"/>
+		<rom name="Journey_RM.txt" size="170" crc="f55540f6" md5="0f97b9154fd75086036988aeb9e6048e" sha1="63323f84bd65a6a23f2d8bdce36d9f632581b2aa"/>
+		<rom name="Journey_WT.txt" size="2863" crc="83f26bda" md5="78ea638e7cfb72a37de872b353bedb55" sha1="24f35fea9d2d8e198382ac0fe1b101af67c09793"/>
+	</game>
+	<game name="Leather Goddesses of Phobos (1986)(Infocom)">
+		<description>Leather Goddesses of Phobos (1986)(Infocom)</description>
+		<rom name="LGOP.z3" size="128998" crc="fe0cb87e" md5="2d8e3e3a1a3fcca995750cbe9e6d9571" sha1="f06ab5c30757768d183a40554ae2ee1fa082f05a"/>
+	</game>
+	<game name="Leather Goddesses of Phobos SG v4 (1986)(Infocom)[880405]">
+		<description>Leather Goddesses of Phobos SG v4 (1986)(Infocom)[880405]</description>
+		<rom name="SGOLD-L.z5" size="159928" crc="6529814a" md5="96c0502bd6605d23bb62796c1a3adf21" sha1="0ddbdfc0539b7f3c938ed1f6ba97f9f521683cc2"/>
+	</game>
+	<game name="Leather Goddesses of Phobos SG v4 (1986)(Infocom)[a][880405]">
+		<description>Leather Goddesses of Phobos SG v4 (1986)(Infocom)[a][880405]</description>
+		<rom name="DOCK" size="17193" crc="c1d0200e" md5="f7c27cc9d9e4c34500e4053d68579b1d" sha1="a2ce66eb961141539ba8697795785a616e3e930d"/>
+		<rom name="FLY" size="17193" crc="c3f4beb6" md5="0a5159eb8bfd8fd2c3f8a7059e94c33d" sha1="fcffe83b0ae3ec83995f5f9ddca4bd5cd260f355"/>
+		<rom name="GORILLA" size="17193" crc="852e1247" md5="f9aa82433c38e1435c45be4cf0e38b87" sha1="b6dd0b4eac128b3b3a0eb5371d3c4a602a9c7cf1"/>
+		<rom name="LEATHER.DAT" size="159928" crc="612b4932" md5="a2915d33dfa3e029b727684e734de303" sha1="4e8412d7974997cea4a5ffe18f57f71a80dc8402"/>
+		<rom name="LeatherGoddessesOfPhobos_RM.txt" size="2214" crc="7a892160" md5="643d9f7a724cd47aefc8ca44f34b1c3d" sha1="cd18aa574b1a0974baeaac1926f8662bb0b731ec"/>
+		<rom name="LeatherGoddessesOfPhobos_WT.txt" size="59171" crc="3964379a" md5="08401e15df636a77cd3758c4b588d4a8" sha1="00d2951626d9eb3cb5259363a462e943255f3419"/>
+		<rom name="LGOP_INV.txt" size="44108" crc="57f3ec95" md5="19c80b32c884b533fb3aa62af6a72c8e" sha1="7363881d5e149b9fa6bb70c857695a8a4af41a3b"/>
+		<rom name="SALESMAN" size="17193" crc="7d70b865" md5="edb77eceb9f6bc9d16ea981794a78f43" sha1="efb8815f638293a81875c3d3264530e3714fbf75"/>
+		<rom name="SPACESHI" size="17193" crc="94e2bbc2" md5="9f3041f7149bea9a0cd7e7cf3c23d595" sha1="9a599e510dee7e2ae848f4f2f522005d762d908e"/>
+	</game>
+	<game name="Leather Goddesses of Phobos v160 (1986)(Infocom)[h][860521]">
+		<description>Leather Goddesses of Phobos v160 (1986)(Infocom)[h][860521]</description>
+		<rom name="lgop_160.z3" size="128998" crc="503045ce" md5="8241afdadbdcdb934ee06afc6ba59b67" sha1="aefe8b292b10079c14c7f9d450ccccf00986b6a8"/>
+	</game>
+	<game name="Leather Goddesses of Phobos v50 (1986)(Infocom)[h][860711]">
+		<description>Leather Goddesses of Phobos v50 (1986)(Infocom)[h][860711]</description>
+		<rom name="lgop_50.z3" size="128998" crc="3fea279d" md5="8cf083fadf021f2901fb0e8164eeb0a4" sha1="eeac69aa07650ad5d6e15953d0e21e63759e2806"/>
+	</game>
+	<game name="Leather Goddesses of Phobos v59 (1986)(Infocom)[860730]">
+		<description>Leather Goddesses of Phobos v59 (1986)(Infocom)[860730]</description>
+		<rom name="LEATHER.z3" size="129022" crc="5beee555" md5="007a88dd76a4981616b631a355fd6caa" sha1="a13aa13492fd66b94dc3d96423c38c71f69bd515"/>
+	</game>
+	<game name="Leather Goddesses of Phobos v59 (1986)(Infocom)[a][860730]">
+		<description>Leather Goddesses of Phobos v59 (1986)(Infocom)[a][860730]</description>
+		<rom name="LGOP.z3" size="129022" crc="39748b93" md5="0da7e288603cd62a50f9c59c49da4a98" sha1="3e09ad1a0392eacf0c5ea86fa37cdbb26e03d926"/>
+	</game>
+	<game name="Leather Goddesses of Phobos v87 (1986)(Infocom)[h]">
+		<description>Leather Goddesses of Phobos v87 (1986)(Infocom)[h]</description>
+		<rom name="LEATHER.DAT" size="129022" crc="94b3f855" md5="8fef6af3c28f5837434a42d80aa271b7" sha1="81d8df2986724b8cf7e3ebcdb50c6c59612839c7"/>
+	</game>
+	<game name="Lurking Horror, The v203 (1987)(Infocom)[870506]">
+		<description>Lurking Horror, The v203 (1987)(Infocom)[870506]</description>
+		<rom name="LURKING.DAT" size="128986" crc="4de2a326" md5="3911b9343a6aa36e46bdeb4ee91928f4" sha1="38e0ebdb7d37bfbbddc0479986b8c9f54647dd4e"/>
+		<rom name="LurkingHorror_INV.txt" size="20778" crc="7ffbe16e" md5="e14707a6ca0a78965526abddcc06154e" sha1="d0fc30db12a9e7e49a0d2347f6a5ef98121478ec"/>
+		<rom name="LurkingHorror_RM.txt" size="1157" crc="6ee84e95" md5="63ac0ed645379d52c25cc24601f020e0" sha1="61509d09ed5b63c4506169c0fdea2776be5defc5"/>
+		<rom name="LurkingHorror_WT.txt" size="8351" crc="b10eb29b" md5="c1d1908301a165247cd4eb3d81d08859" sha1="c3d3fdcf7981404778c3215890a0da846e23d6cc"/>
+	</game>
+	<game name="Lurking Horror, The v219 (1987)(Infocom)[870912]">
+		<description>Lurking Horror, The v219 (1987)(Infocom)[870912]</description>
+		<rom name="Lurking.z3" size="130048" crc="fa304e60" md5="5f42ff092a2f30471ae98150ef4da2e1" sha1="c5b90ab505c054eb848b7d516cc6cacf6b7fb6b9"/>
+	</game>
+	<game name="Lurking Horror, The v221 (1987)(Infocom)">
+		<description>Lurking Horror, The v221 (1987)(Infocom)</description>
+		<rom name="LURKING.CNV" size="129944" crc="45122f41" md5="104209d8dc24a9182f9dd133f91f8118" sha1="0eed0696ac5639c2956e0ac5810b5118da2bbe8a"/>
+		<rom name="LURKING.DAT" size="129944" crc="a78eb710" md5="e54305d07d08f3f414671ad1d6e1505f" sha1="beb038e77bba08c03bb60e353b8eeb756209aaa7"/>
+		<rom name="SAVE\LURKING.DAT" size="12434" crc="0d70131e" md5="88c495fffc1add04e46de9e0f6722362" sha1="c446e66d25db9b9c0f4ef0fa581b35d0f35b0367"/>
+		<rom name="Sound\LURKIN03.SND" size="49766" crc="c9371d20" md5="8572f9bef0894d630d2bfa639b5f6985" sha1="e0a833537f8d25a03c5b7c0f6d819e12558404bb"/>
+		<rom name="Sound\LURKIN04.SND" size="20530" crc="e8b69895" md5="2d4323554726d55736144fcea8016c05" sha1="4527f4da0f2512cdee8ebda48c5674f87aec6be9"/>
+		<rom name="Sound\LURKIN06.SND" size="46010" crc="856d4c28" md5="2a8930d64ab7d4297087318bd56e32a7" sha1="815cb4c9061b99ca822869d6ebe1c8192bef746b"/>
+		<rom name="Sound\LURKIN07.SND" size="60000" crc="ac0a83ac" md5="30840d9ce20416eab477e9ea541b900f" sha1="ded57742e58a1f2335189767ac7f040881736791"/>
+		<rom name="Sound\LURKIN08.SND" size="7738" crc="f1f27aac" md5="7bee78abf08eeb73ce241d237079baf0" sha1="575e19e614f91b47457dc13f53fc86ec0121b804"/>
+		<rom name="Sound\LURKIN09.SND" size="58024" crc="d62394c2" md5="05352e87b23e6be02e8736ec964cd350" sha1="0bb9ce62fcaeb0d4174df43ddf55cadee72eccca"/>
+		<rom name="Sound\LURKIN10.SND" size="33290" crc="3e613f5e" md5="10e4b33d51592af7febbde1a98b37470" sha1="e80557d4d0be76f289f2051806921bad2550c4aa"/>
+		<rom name="Sound\LURKIN11.SND" size="40010" crc="e0dea678" md5="ebb43163075d4d875c2b3f2511846830" sha1="c4b04040d80984f70761e2bc66df9a87d4d95a8e"/>
+		<rom name="Sound\LURKIN12.SND" size="44330" crc="4a03bffa" md5="fdd561056681c924b4588d64f74787ff" sha1="179c9dfede6df43a975cd52da47b06eada0f83da"/>
+		<rom name="Sound\LURKIN13.SND" size="56586" crc="f52dcd0c" md5="ea1e174099d7d17bf7711f8f3c5cad8a" sha1="5883efe313497bd2854a18a9737ef71d8d62762b"/>
+		<rom name="Sound\LURKIN15.SND" size="51610" crc="aa5d24d3" md5="4fab014283a65b50e334c4a7ce969e96" sha1="58f6adc8c437afef440ff3f7507bd791e0025da0"/>
+		<rom name="Sound\LURKIN16.SND" size="25050" crc="47daf391" md5="5d2d4d79072a043cc4488eae6e977ba6" sha1="547934f5ebca369080cfbf38d6c9d81214b8da26"/>
+		<rom name="Sound\LURKIN17.SND" size="39258" crc="dc66a5f0" md5="bfa409c41f690be4f5acf2f179c8df98" sha1="673b23b3c7bf21643810f8a445dd02d7bb5399a1"/>
+		<rom name="Sound\LURKIN18.SND" size="50010" crc="dcea431e" md5="02198254774a244a47a698d4bdb6e820" sha1="cfa4c22b7ed6e8f878c252193712af83d2f347a1"/>
+	</game>
+	<game name="Mind Forever Voyaging, A v77 (1985)(Infocom)">
+		<description>Mind Forever Voyaging, A v77 (1985)(Infocom)</description>
+		<rom name="AMFV.z4" size="262016" crc="f79cff66" md5="617c20f390e089023341a0aa59abd2d8" sha1="6bc5d5a0a4c8c96b7e757d626b67e2397ac9ec05"/>
+	</game>
+	<game name="Mind Forever Voyaging, A v77 (1985)(Infocom)[a2]">
+		<description>Mind Forever Voyaging, A v77 (1985)(Infocom)[a2]</description>
+		<rom name="Amfv.dat" size="262016" crc="c469d4ec" md5="c9c0b36e7b3a93acd5174169d91d793f" sha1="452960a502fed9941baa236ea1902fe8368e06f9"/>
+		<rom name="amfv_INV.txt" size="32404" crc="9a9a1f43" md5="97b9d62a3166371c74d3ead355d671dd" sha1="611ded1c0a4157b68117faa572f0b0f9ee14b4f6"/>
+		<rom name="AMFV_WT.txt" size="10170" crc="468f3900" md5="1170bb48b6b7c32b55a76acb4c965f74" sha1="6003e21511de1df7be7ac4cc71ee0ed924968ca6"/>
+	</game>
+	<game name="Mind Forever Voyaging, A v77 (1985)(Infocom)[a]">
+		<description>Mind Forever Voyaging, A v77 (1985)(Infocom)[a]</description>
+		<rom name="AMFV.z4" size="262016" crc="d0d00ceb" md5="a28701cf2a9106571c9add3cb09f226e" sha1="aa632302547ca6660d687e039b9f0bbc59b9fa42"/>
+	</game>
+	<game name="Mini-Zork I - The Great Underground Empire v34 (1988)(Infocom)[871124]">
+		<description>Mini-Zork I - The Great Underground Empire v34 (1988)(Infocom)[871124]</description>
+		<rom name="minizork.z3" size="52216" crc="ee75f65c" md5="e9fc04a4e4576c547dac32af77be434c" sha1="988d15e0baabb49e5bf1e2b63cb84729fff34efd"/>
+	</game>
+	<game name="Moonmist v4 (1986)(Infocom)[860918]">
+		<description>Moonmist v4 (1986)(Infocom)[860918]</description>
+		<rom name="mm.z3" size="129002" crc="b1a06a9c" md5="94d8ca4b2a822f92946e8fec850ae9ff" sha1="13f2b511281fcde9dc2e893775a78e3b852d8c5b"/>
+	</game>
+	<game name="Moonmist v9 (1986)(Infocom)[861022]">
+		<description>Moonmist v9 (1986)(Infocom)[861022]</description>
+		<rom name="MOONMIST.DAT" size="128867" crc="c34de2bb" md5="c6e4fc97e58b5db567ea182cb08a30f0" sha1="062a76a8ac0bddbe1125487ee35bce979d36f6a7"/>
+		<rom name="Moonmist_INV.txt" size="20867" crc="8b579a19" md5="78b66f635b9f3f4f10ce3cbc391961e0" sha1="f24daf01b0ab3efce6ff954ff7fed42b1bc142ef"/>
+		<rom name="Moonmist_RM.txt" size="7566" crc="64d613af" md5="b858498159cf202ce5675bc929016202" sha1="1ff3e3bc7b0433b0480666bac4e125ea43cf1390"/>
+		<rom name="Moonmist_WT.txt" size="13885" crc="31e855a4" md5="e341e326a571d09dc16c127e3c2b1a36" sha1="50fb4dee8f25c1555d94eef16472f038637d0be6"/>
+	</game>
+	<game name="Nord and Bert Couldn't Make Head or Tail of It v19 (1987)(Infocom)[870722]">
+		<description>Nord and Bert Couldn't Make Head or Tail of It v19 (1987)(Infocom)[870722]</description>
+		<rom name="NORDANDB.z4" size="170284" crc="06dd905b" md5="fb5dc5737a446c287a34c3a3e0b1edfc" sha1="936430675c148ea257f528bb02ebaf94b0974ad3"/>
+	</game>
+	<game name="Nord and Bert Couldn't Make Head or Tail of It v19 (1987)(Infocom)[a][870722]">
+		<description>Nord and Bert Couldn't Make Head or Tail of It v19 (1987)(Infocom)[a][870722]</description>
+		<rom name="NORD.z4" size="170284" crc="1d623130" md5="23348ee80ea41e7fe69f6bbe8ccf04d6" sha1="896ddc2b33e42352aa30f7f901508492fb30bc05"/>
+		<rom name="NordAndBert_RM.txt" size="1481" crc="45b1f5d5" md5="9429a6476de02696fcff89929dc39a1e" sha1="f7a7b80f296d2ad84b34a2a683bb5182e7a37ecd"/>
+	</game>
+	<game name="Planetfall SG v10 (1988)(Infocom)[880531]">
+		<description>Planetfall SG v10 (1988)(Infocom)[880531]</description>
+		<rom name="SGOLD-P.z5" size="136560" crc="a828ec94" md5="aaac37e5efa639e8af349350f03292cf" sha1="733ecdd1290ab02dff72651c96509acf063169b6"/>
+	</game>
+	<game name="Planetfall v10 (1988)(Infocom)[h][880531]">
+		<description>Planetfall v10 (1988)(Infocom)[h][880531]</description>
+		<rom name="planetfa_10.z5" size="136560" crc="370ee4d8" md5="1df938b320af642219bdb0deb99a0902" sha1="b297d402b93a0012850558d4a4a4cf7ef09ba946"/>
+	</game>
+	<game name="Planetfall v20 (1983)(Infocom)[830708]">
+		<description>Planetfall v20 (1983)(Infocom)[830708]</description>
+		<rom name="PLANFALL.z3" size="107958" crc="286bad33" md5="31c87f07f462fccf4ec18ae75759047d" sha1="af52b230e96a3dd04d2cdf81af4742960df2b8e0"/>
+	</game>
+	<game name="Planetfall v20 (1983)(Infocom)[a][830708]">
+		<description>Planetfall v20 (1983)(Infocom)[a][830708]</description>
+		<rom name="PFAL.z3" size="107958" crc="faaaab2a" md5="83a236e3144bb80fb84c00443115fcb4" sha1="a13a74710984f12dcee72ab748ffac2306333d38"/>
+	</game>
+	<game name="Planetfall v26 (1983)(Infocom)[831014]">
+		<description>Planetfall v26 (1983)(Infocom)[831014]</description>
+		<rom name="PLANETFA.z3" size="108674" crc="143893ef" md5="6832c694b6b83d71214ac54f398f8b4b" sha1="efcfa3b4e416d33d1ff55c6e6269f925a1714a6c"/>
+	</game>
+	<game name="Planetfall v29 (1983)(Infocom)[840118]">
+		<description>Planetfall v29 (1983)(Infocom)[840118]</description>
+		<rom name="planetfa.z3" size="109052" crc="51122b3f" md5="6487dc814b280f5603c53155de378d27" sha1="dadc020d5b1ad4ebada0d8ed9f4059aa1febce07"/>
+	</game>
+	<game name="Planetfall v37 (1983)(Infocom)[851003]">
+		<description>Planetfall v37 (1983)(Infocom)[851003]</description>
+		<rom name="Planetfa.dat" size="122880" crc="1affb82d" md5="d7bbc3de5ad590c3ab641c020a936c41" sha1="77769447c4c77d100a3ed722f712110e8576bea4"/>
+		<rom name="Planetfall_INV.txt" size="26816" crc="024dd730" md5="6a7a26847128b82072d1eda1e5c33e78" sha1="2ba3f44d34b516346b654343fdc7ef00d3a30b1d"/>
+		<rom name="Planetfall_RM.txt" size="983" crc="5e73fb3c" md5="6a68853d6fa9fb06fc40ed09e109206d" sha1="5f4736707dea32d4c1c5ac0c019739a989bc0640"/>
+		<rom name="Planetfall_WT.txt" size="18433" crc="93632fc1" md5="a524648464ac23c9b4de85577e21d112" sha1="0bc28342f58686f01ecc2d61d6cafcd9262d5aef"/>
+	</game>
+	<game name="Plundered Hearts v26 (1987)(Infocom)[870730]">
+		<description>Plundered Hearts v26 (1987)(Infocom)[870730]</description>
+		<rom name="PLUNDERE.DAT" size="128962" crc="943c380c" md5="29fc7b270af2fbd406a0548a8298da7f" sha1="b210c8829e35320d7c21b6198bec5c909f1bd8ce"/>
+		<rom name="PlunderedHearts_INV.txt" size="22752" crc="39af09c5" md5="41034d21c087bdbd07742cb7a1c198de" sha1="1f07ef722f186bfec6c47354587721e8489b86c6"/>
+		<rom name="PlunderedHearts_RM.txt" size="744" crc="08d924d0" md5="9ada86e225b44601c103679021fce5ae" sha1="d9d7d5a8736016bdf4f18a44d40c82f3d9315466"/>
+		<rom name="PlunderedHearts_WT.txt" size="7647" crc="5bfdb597" md5="353652b0ebfc4edfeeb3526f49e7778e" sha1="ad4d48b7a6322f52276dbed7068351aad8ad309a"/>
+	</game>
+	<game name="Plundered Hearts v26 (1987)(Infocom)[a][870730]">
+		<description>Plundered Hearts v26 (1987)(Infocom)[a][870730]</description>
+		<rom name="PH.z3" size="128962" crc="1b54fa28" md5="6ae4fd54b7e55675ec7e54ec4dd26462" sha1="21145d690a43e639b4db95c5d741fa50d512743b"/>
+	</game>
+	<game name="Seastalker v15 (1984)(Infocom)[840501]">
+		<description>Seastalker v15 (1984)(Infocom)[840501]</description>
+		<rom name="SEAS.z3" size="117738" crc="2f4c6c68" md5="c38f86fb37a7056ed942df47c5b8def7" sha1="b3a32efba7e4e1568b843d64f7ab9fb548e7b4dc"/>
+	</game>
+	<game name="Seastalker v15 (1984)(Infocom)[h][840522]">
+		<description>Seastalker v15 (1984)(Infocom)[h][840522]</description>
+		<rom name="seastalk_15b.z3" size="117728" crc="806e5353" md5="82a3e2e07e0a2715982c59519bf236a8" sha1="a6798a79e9fb0ace667110795369b2d920d785c2"/>
+	</game>
+	<game name="Seastalker v16 (1984)(Infocom)[850515]">
+		<description>Seastalker v16 (1984)(Infocom)[850515]</description>
+		<rom name="Seastalk_.z3" size="117760" crc="b0217beb" md5="89b970f9b90516449105119a89346c1e" sha1="b40a63c6c4c219365c48b67d998585b1be04641e"/>
+	</game>
+	<game name="Seastalker v16 (1984)(Infocom)[850603]">
+		<description>Seastalker v16 (1984)(Infocom)[850603]</description>
+		<rom name="SEASTALK.DAT" size="117762" crc="5bf68d6f" md5="89b0ece4376ab49ba81c1e7da2ef15cf" sha1="41b98570a6b090f6d763c3ca80bb368f1bdb3095"/>
+		<rom name="Seastalker_INV.txt" size="18515" crc="c635ac37" md5="8250614a36542dfe543eb84aa1a28f8d" sha1="ada62f92522621ecc46dd302bda91464471385bd"/>
+		<rom name="Seastalker_RM.txt" size="2202" crc="4e0117c2" md5="f74266614ce22f87bb9870f8ca3c9ac8" sha1="174718ad8219ebec001b3bd7e767aae6d091b200"/>
+		<rom name="Seastalker_WT.txt" size="10918" crc="824cc1df" md5="071f2bfc97c92b70db824557bc95bc96" sha1="e2b9147a5a23e11da4a3a2860f39de406e0dcb04"/>
+	</game>
+	<game name="Seastalker v86 (1984)(Infocom)(beta)[840320]">
+		<description>Seastalker v86 (1984)(Infocom)(beta)[840320]</description>
+		<rom name="SEASTALK.z3" size="116456" crc="ccd8a044" md5="ee339dbdbb0792f67e20bd71bafe0ea5" sha1="ebe078b271b35c8e5b31c5bb310ad1ae06058f68"/>
+	</game>
+	<game name="Sherlock - The Riddle of the Crown Jewels v21 (1987)(Infocom)[871214]">
+		<description>Sherlock - The Riddle of the Crown Jewels v21 (1987)(Infocom)[871214]</description>
+		<rom name="SHER.z5" size="188444" crc="4040b434" md5="35240654d83f9e7073973d338f9657b8" sha1="02810f1cae3e2cf369225f75254fce07f45c2305"/>
+	</game>
+	<game name="Sherlock - The Riddle of the Crown Jewels v26 (1987)(Infocom)[880127]">
+		<description>Sherlock - The Riddle of the Crown Jewels v26 (1987)(Infocom)[880127]</description>
+		<rom name="SHERLOCK.CNV" size="190180" crc="0e59d5e4" md5="1ffa0e4811a60c928d36b337b8cdc7b0" sha1="0c13a3ad4871f5a938c7e31b80d4f861004ba4be"/>
+		<rom name="SHERLOCK.DAT" size="190180" crc="4ffd0b98" md5="d6f9c9804977af1ece26f3a7edabf768" sha1="5b4f33e082e743b5d520a27f0657c3b7fa9f9119"/>
+		<rom name="Sherlock_RM.txt" size="1209" crc="136bb57e" md5="d368a7f83e1819e3bc2145ec0dbd9d69" sha1="126cd7ba8c4e1978690cce2450c973c559008aff"/>
+		<rom name="Sherlock_WT.txt" size="25751" crc="1ab3612e" md5="7f02832af762bf291d42d9b8f7481e73" sha1="eb77cec0930df2814585476036b7ecb24051dc3d"/>
+		<rom name="Sound\SHERLO03.SND" size="33290" crc="14ac7fb3" md5="5fcd70691be33155580c8f33b5d6a1e0" sha1="ab9744472e6384ed22ce652b1dcf304aa8ee0eb5"/>
+		<rom name="Sound\SHERLO04.SND" size="38650" crc="1aec244a" md5="508ddbca0b1cf275aa84169dd7dac4e5" sha1="44915e2a100dd85176bf859e70ae14b5359974a0"/>
+		<rom name="Sound\SHERLO05.SND" size="6508" crc="a640645a" md5="006bf774dbe49c2a1749fd949f9f1041" sha1="c01873456514565b927c244bb75dc2ddc3a0a5e9"/>
+		<rom name="Sound\SHERLO06.SND" size="53130" crc="c80ccd86" md5="63d334f77c4b57295b1df9d46f78677c" sha1="1641ab679d3d0f61fc757d615d0ecfb8a6afacf3"/>
+		<rom name="Sound\SHERLO07.SND" size="38180" crc="26356601" md5="23dc3a5d69e3e5edf204a6189f59226b" sha1="8b8ac4d709152fd5b1607ed4ee14e45d4c95211d"/>
+		<rom name="Sound\SHERLO08.SND" size="25830" crc="c7971039" md5="9902c784cbda1ce149e2fd3c2ecd3031" sha1="fb1df1edbcf85351991db8f383556cdbe02bba24"/>
+		<rom name="Sound\SHERLO09.SND" size="56602" crc="5e199fb8" md5="d7f725a0da44f7f6c9ed09e28cd9a7d9" sha1="7e5643a7c3fb7ee2a9d7d31dee6795169b0510ac"/>
+		<rom name="Sound\SHERLO10.SND" size="50488" crc="1bb69a49" md5="a54a4c4c90632d58417de6ab0f4ad910" sha1="0210921c4cd689b4ee4ff575354f5e9617b2b6a9"/>
+		<rom name="Sound\SHERLO11.SND" size="14010" crc="feb520c8" md5="16e2b03236e5d6070ab4267b13fe816d" sha1="7c9ee748536b0d5b168b02ede812069c0217008b"/>
+		<rom name="Sound\SHERLO12.SND" size="14010" crc="9a3c534d" md5="36c6139fcdbb1b7698bb57f4dc3dad0b" sha1="117002f632001ba8cf542453e3474bae45e2ce73"/>
+		<rom name="Sound\SHERLO13.SND" size="14010" crc="fd4c65e0" md5="3ed7d1c64d2575fe49264fac4a856670" sha1="c5704d1d8e52c6ecf54e9c7208c1f4e6e39596ef"/>
+		<rom name="Sound\SHERLO14.SND" size="19410" crc="a4660cb1" md5="76fa21990d3fbfa9cb5fb4060e173f60" sha1="acbc212466c7cd5853281676f6e6d9f5bafb591b"/>
+		<rom name="Sound\SHERLO15.SND" size="48218" crc="e57d832f" md5="21fd992b5ad3b86218c9b6c0762879d3" sha1="1e8fa4b2ebdc200b957b3ecbe4b3ab9c029a06d9"/>
+		<rom name="Sound\SHERLO16.SND" size="49930" crc="50172635" md5="9055391fd8e176adaf335674188a7c2e" sha1="2b78740f9400aff0435c78dacc846778d85ebe4b"/>
+		<rom name="Sound\SHERLO17.SND" size="25454" crc="25e909be" md5="3e19ece17c3e635e027d6587a995433e" sha1="6b3ee807ad19bd554370f4306d8a1baf8db4c460"/>
+	</game>
+	<game name="Shogun - A Story of Japan v292 (1988)(Infocom)[h][890314]">
+		<description>Shogun - A Story of Japan v292 (1988)(Infocom)[h][890314]</description>
+		<rom name="shogun_292.z6" size="341416" crc="8a8731df" md5="b29c879e8132f3efe50bb49e45109b9f" sha1="c5279b2d3b330e1f12c240be2ad5d8b6287bb7f0"/>
+	</game>
+	<game name="Shogun - A Story of Japan v295 (1988)(Infocom)[890321]">
+		<description>Shogun - A Story of Japan v295 (1988)(Infocom)[890321]</description>
+		<rom name="Shogun.z6" size="342016" crc="1260d25f" md5="16284d95ccc38ba468f282d9ceec2c47" sha1="186e063f0389bfef345997d537467565c28ae134"/>
+	</game>
+	<game name="Shogun - A Story of Japan v311 (1988)(Infocom)[h][890510]">
+		<description>Shogun - A Story of Japan v311 (1988)(Infocom)[h][890510]</description>
+		<rom name="shogun_311.z6" size="344224" crc="1e7d0fb7" md5="fd901318b95fd599ef6b5818f3a16395" sha1="7ddf9757383e9af59a84174de8787727475db6b7"/>
+	</game>
+	<game name="Shogun - A Story of Japan v322 (1988)(Infocom)[890706]">
+		<description>Shogun - A Story of Japan v322 (1988)(Infocom)[890706]</description>
+		<rom name="SHOGUN.CG1" size="141450" crc="a29d412c" md5="9bb1c8aeab83a52c0fba7216e13e7dc0" sha1="de3f1c56da62faa1bf4c3527da110135ff9cc58a"/>
+		<rom name="SHOGUN.EG1" size="278669" crc="74e5cce5" md5="bf1c78f738181822e7a9f85d499e54ae" sha1="bb725b45bd444752b2f5d2f1b57e0b6edbe42ba3"/>
+		<rom name="SHOGUN.MG1" size="213425" crc="ae9e8538" md5="e4ad7bd19df764f16def1892fbe2a1f8" sha1="a5e8bf47d9e4a0ee0f6fc28bdb1c0febaf7cca6c"/>
+		<rom name="SHOGUN.ZIP" size="345088" crc="6c4ea976" md5="8ee62b6dd81e05f54de707b9405d8ef9" sha1="ef70d2aa0c18832f18436e6a7df4ee57d013a4c7"/>
+		<rom name="Shogun_RM.txt" size="168" crc="e96162df" md5="9bee18c085bff0310a92cb30f7ae0fe9" sha1="75fc2f39f9f9a3d954b7012a2baef34e82786def"/>
+		<rom name="Shogun_WT.txt" size="10838" crc="84621b47" md5="5b0783ffbbd1afce97dea6946af59733" sha1="43a6e5fe5c8e9ac6d9f30810bda20f19fc548b84"/>
+	</game>
+	<game name="Sorcerer v13 (1984)(Infocom)[851021]">
+		<description>Sorcerer v13 (1984)(Infocom)[851021]</description>
+		<rom name="SORCERER.DAT" size="108692" crc="a1940f4b" md5="5963ef59da2b6e72f5041c1476d3b11c" sha1="d7f371d8ed154a262f6d4f1864a903283354cce0"/>
+	</game>
+	<game name="Sorcerer v15 (1984)(Infocom)[851108]">
+		<description>Sorcerer v15 (1984)(Infocom)[851108]</description>
+		<rom name="SORCERER.DAT" size="108682" crc="65d5dfb8" md5="af95d6b28ae6d18cda32baf81195d000" sha1="3ff5d66f2726298331bcb653c81e26fc2e3dd101"/>
+		<rom name="Sorcerer_INV.txt" size="39089" crc="5d2cc74c" md5="a02d66d64a2d3e77427bafd08037d23b" sha1="2280445b6729429482c75395f0ca4ae1d5db1c96"/>
+		<rom name="Sorcerer_RM.txt" size="925" crc="0cb60e5c" md5="24e499ad3457080eb32dda19dd5db7e9" sha1="3fbb0ea5ad6116c9bef9690a5909feb9d0943292"/>
+		<rom name="Sorcerer_WT.txt" size="23263" crc="f2b511f3" md5="be3808a6f7ad56b6ad92b8cdff8c25d6" sha1="345f50a8e25156f42252d4da929380fca17bd32f"/>
+	</game>
+	<game name="Sorcerer v18 (1984)(Infocom)[h][860904]">
+		<description>Sorcerer v18 (1984)(Infocom)[h][860904]</description>
+		<rom name="sorcerer_18.z3" size="111052" crc="0ecf3ea1" md5="20f1468a058d0a6de016ae70022e651c" sha1="6cd3ce2f0981d6ab5500d8f32a77b2e0bb64d1b8"/>
+	</game>
+	<game name="Sorcerer v4 (1984)(Infocom)[840131]">
+		<description>Sorcerer v4 (1984)(Infocom)[840131]</description>
+		<rom name="SORCERER.z3" size="109734" crc="c3f030f6" md5="78262419433cd0ebef488649e635ecb2" sha1="b7b4fe3ae29c125700117e1167a3464f6f6012ed"/>
+	</game>
+	<game name="Sorcerer v6 (1984)(Infocom)[h][840508]">
+		<description>Sorcerer v6 (1984)(Infocom)[h][840508]</description>
+		<rom name="sorcerer_6.z3" size="109482" crc="908e5087" md5="9937bc59139792e684232a3448f5c8b2" sha1="f2b4f037e16e91cdeb686af9e3a1dca25136cd53"/>
+	</game>
+	<game name="Spellbreaker v63 (1985)(Infocom)[850916]">
+		<description>Spellbreaker v63 (1985)(Infocom)[850916]</description>
+		<rom name="spelbrkr.z3" size="128480" crc="d0d187bf" md5="7a92ce19a39bedd970d0f1e296981f71" sha1="36651e45a6145065e16d713dd23bd58839211977"/>
+	</game>
+	<game name="Spellbreaker v63 (1985)(Infocom)[a][850916]">
+		<description>Spellbreaker v63 (1985)(Infocom)[a][850916]</description>
+		<rom name="spellbr.z3" size="128480" crc="8f9ba82e" md5="e779eda1415246b5ac0b20c202eefa2b" sha1="84465d6e46939bc41d92684eb3a96205e6b8db08"/>
+	</game>
+	<game name="Spellbreaker v87 (1985)(Infocom)[860904]">
+		<description>Spellbreaker v87 (1985)(Infocom)[860904]</description>
+		<rom name="1.z3" size="128404" crc="dbf59e47" md5="0f71f416a8df44be4ac407e0c5205368" sha1="23ff187be09a618898494022bb8587fd229be240"/>
+	</game>
+	<game name="Spellbreaker v87 (1985)(Infocom)[a][860904]">
+		<description>Spellbreaker v87 (1985)(Infocom)[a][860904]</description>
+		<rom name="SPELLBRE.DAT" size="128917" crc="43299383" md5="96a00fa4a58c18e82eb9e3cb72dc5823" sha1="9e1ad7d6df8ab08c95869aa04c28cb9287a35d1f"/>
+		<rom name="SpellBreaker_INV.txt" size="54040" crc="eb8cada6" md5="38cd0c6a0e649005166c089e4fb078a5" sha1="79763d3c3a4b039a3413b03d29ae8a88ec1fa7b7"/>
+		<rom name="SpellBreaker_RM.txt" size="790" crc="f22bf3af" md5="bcea7b9b7136ef436e1038d41ccb52ca" sha1="a1afd362eb5e568b5ba1626ec2e23eddab82e7ed"/>
+		<rom name="SpellBreaker_WT.txt" size="32290" crc="34fc6026" md5="d0cdfc1c71e23a0b9dd7d96244b5d35a" sha1="982bc40505aa19086cfbb8e7571b8af98830897f"/>
+	</game>
+	<game name="Starcross - Interlogic Science Fiction v15 (1982)(Infocom)[820901]">
+		<description>Starcross - Interlogic Science Fiction v15 (1982)(Infocom)[820901]</description>
+		<rom name="starcros.z3" size="84984" crc="70f449b0" md5="cbe68a8ef8523e282daca12c298c9b40" sha1="706fb2d0d95b2aee9f14007743ff762f24da8196"/>
+	</game>
+	<game name="Starcross - Interlogic Science Fiction v17 (1982)(Infocom)[821021]">
+		<description>Starcross - Interlogic Science Fiction v17 (1982)(Infocom)[821021]</description>
+		<rom name="Starcros.dat" size="83792" crc="f53b2fea" md5="e6db0bf662d7b24f825f92007478ca23" sha1="33489f9b7119bda5f3fadf6374e1235f06e7da23"/>
+		<rom name="Starcross_INV.txt" size="33349" crc="cf4becf6" md5="bc10bdd16613baea4fac86c25f28ac48" sha1="5fe018a694189ff80d2adbb7add926266718979f"/>
+		<rom name="Starcross_RM.txt" size="27820" crc="02787df8" md5="3c3097ed8b025953cfe4f2040420b00c" sha1="ea52104df58f8acc7f6a6de3b151be71fe20de54"/>
+		<rom name="Starcross_WT.txt" size="21324" crc="b8c43149" md5="349a840e2c2c4630e499280ab70031f8" sha1="53cb290d31fe4552b235c9332b2fe6efede4c37d"/>
+	</game>
+	<game name="Starcross - Interlogic Science Fiction v17 (1982)(Infocom)[h][821021]">
+		<description>Starcross - Interlogic Science Fiction v17 (1982)(Infocom)[h][821021]</description>
+		<rom name="STARCROS.DAT" size="83792" crc="7968f846" md5="6e0ebfa3aae1ed17e7c6fe78eca96db5" sha1="5c0cde6e2d74508690efddf74825a529dd84006d"/>
+	</game>
+	<game name="Stationfall v107 (1987)(Infocom)[870430]">
+		<description>Stationfall v107 (1987)(Infocom)[870430]</description>
+		<rom name="Stationf.dat" size="128934" crc="82ba6293" md5="9d7be423f2517eed0feebc42e47a75a9" sha1="d122e4ac57aeb54669149d68e8dec4d28a5872c0"/>
+		<rom name="Stationfall_INV.txt" size="37517" crc="ae76696f" md5="819dfd95d346066c646927066134a446" sha1="066c2933a32bc990be5591d8f46055f07591aeee"/>
+		<rom name="Stationfall_RM.txt" size="1149" crc="029f364a" md5="e349f1c75fcff7799975c53a79b1bfe4" sha1="a37b05b6d858d68151df04187128b15aa84fa5b1"/>
+		<rom name="Stationfall_WT.txt" size="10737" crc="b991347c" md5="e5715a16855e33c5259ff5cb8477e923" sha1="7ea0c90773b1632413469a8c2c176d798523fffd"/>
+	</game>
+	<game name="Suspect - An Interactive Mystery v14 (1984)(Infocom)[841005]">
+		<description>Suspect - An Interactive Mystery v14 (1984)(Infocom)[841005]</description>
+		<rom name="SUSPECT.DAT" size="118692" crc="0eb3399e" md5="29693237734f58538910c37af10dd951" sha1="55c57aa9cf2efb28d883de24433487abe2a72101"/>
+		<rom name="Suspect_INV.txt" size="25943" crc="1225813c" md5="67a0a9414c69332ce99182baee050139" sha1="0a13bbfb0cbb51043f97ce9cf9101347766a08b9"/>
+		<rom name="Suspect_RM.txt" size="2315" crc="ee846cf3" md5="685a4bb1a874d456e03694d7f07dc628" sha1="20e8466bd9b679e43abab700b1988d68b9ab0d74"/>
+		<rom name="Suspect_WT.txt" size="20473" crc="c8c9d1a5" md5="4330c0064a055be4737e21c7b0c3dc81" sha1="467d9816b214566e84380f87585b5eedf84a56f0"/>
+	</game>
+	<game name="Suspect - An Interactive Mystery v14 (1984)(Infocom)[h][841005]">
+		<description>Suspect - An Interactive Mystery v14 (1984)(Infocom)[h][841005]</description>
+		<rom name="SUSPECT.z3" size="118692" crc="3d0acf60" md5="eb6ffe52b8ded1d4e25277543f370271" sha1="9a2eb3d59548ddb84519e23f955c078b9359e847"/>
+	</game>
+	<game name="Suspended - Interlogic Science Fiction v5 (1983)(Infocom)[h][830222]">
+		<description>Suspended - Interlogic Science Fiction v5 (1983)(Infocom)[h][830222]</description>
+		<rom name="SUSPEND.z3" size="105418" crc="75a3c3ac" md5="6e76865aef3a26fa9f498fb22fb7d186" sha1="b13624ee66b51bb6305c7b5792dc8e55670dd7d1"/>
+	</game>
+	<game name="Suspended - Interlogic Science Fiction v7 (1983)(Infocom)[830419]">
+		<description>Suspended - Interlogic Science Fiction v7 (1983)(Infocom)[830419]</description>
+		<rom name="SUZPEND.z3" size="105500" crc="1947e768" md5="5965285bbd0002fc9aace3907350c0b3" sha1="67c712bf9b589ed19ef0194ba2dc582aa0f867de"/>
+	</game>
+	<game name="Suspended - Interlogic Science Fiction v8 (1983)(Infocom)[830521]">
+		<description>Suspended - Interlogic Science Fiction v8 (1983)(Infocom)[830521]</description>
+		<rom name="Suspended.z3" size="105492" crc="114c6150" md5="7d812e1e389faa575266c587cac8592f" sha1="b5ef58dac3c68b176de14eb578e61a717dbeb9e4"/>
+	</game>
+	<game name="Suspended - Interlogic Science Fiction v8 (1983)(Infocom)[840521]">
+		<description>Suspended - Interlogic Science Fiction v8 (1983)(Infocom)[840521]</description>
+		<rom name="Suspend.dat" size="105584" crc="9b7f3ed9" md5="2e705076c310542f952702b20ae846e1" sha1="e9f82827056ac9cb026d6ffcfae711468e4a0db3"/>
+		<rom name="Suspended_INV.txt" size="17981" crc="edabd97d" md5="34bc52b353aa9cbec3b290bc1364374b" sha1="633dd39506eeede085ff9fbf8bc01b21f72b1956"/>
+		<rom name="Suspended_RM.txt" size="5255" crc="e797dab9" md5="2cc897fa3159e671c24ec672e5cf0125" sha1="977c12704a495a5e3a2ffa1ddd41fa4794064603"/>
+		<rom name="Suspended_WT.txt" size="7608" crc="54335a23" md5="7f6830ade685027587d77b40ce5886fc" sha1="34b93ff193d2e61c0e8de38c2b58b449d3d22884"/>
+	</game>
+	<game name="Trinity v11 (1986)(Infocom)[860509]">
+		<description>Trinity v11 (1986)(Infocom)[860509]</description>
+		<rom name="Trinity.z4" size="262144" crc="7e05da62" md5="1f06b365f9e6f8d79943fcd0acf282c7" sha1="e51d7ce0d6ed69827ba6f7e2f029f14394176adf"/>
+	</game>
+	<game name="Trinity v12 (1986)(Infocom)[860926]">
+		<description>Trinity v12 (1986)(Infocom)[860926]</description>
+		<rom name="TRINITY.z4" size="262064" crc="d15502b1" md5="3bf1a444a1fc2057130ecb9806117233" sha1="47cf6b0bcc948b1f2ebba4806fe12940dc3c5345"/>
+	</game>
+	<game name="Trinity v12 (1986)(Infocom)[a][860926]">
+		<description>Trinity v12 (1986)(Infocom)[a][860926]</description>
+		<rom name="TRINITY.DAT" size="262064" crc="bba29eef" md5="16e7d89dbdfa5aa0062665710578b798" sha1="0232b5dc49071ee126f3f3c7dc83c8efdd253f3b"/>
+		<rom name="Trinity_INV.txt" size="40959" crc="5cb796a3" md5="c7af32faaf634762844315c342f2204b" sha1="d61d0878d6837ba4d903913815a0b20e7e9560cb"/>
+		<rom name="Trinity_WT.txt" size="12947" crc="345051a7" md5="2507d178c139dbba762fa61f85fc9003" sha1="42ced30fbbb9dcecc932e6b0f104dc1917ba98d8"/>
+	</game>
+	<game name="Trinity v14 (1986)(Infocom)(beta)[h][860313]">
+		<description>Trinity v14 (1986)(Infocom)(beta)[h][860313]</description>
+		<rom name="trinity_14.z4" size="241564" crc="98c208a5" md5="6a56f033e3792f5d02a2229d85aa11d5" sha1="4d54d9a00327e2ea353cebf2d9108b5f139aac07"/>
+	</game>
+	<game name="Wishbringer - The Magick Stone of Dreams SG v23 (1988)(Infocom)[880706]">
+		<description>Wishbringer - The Magick Stone of Dreams SG v23 (1988)(Infocom)[880706]</description>
+		<rom name="SGOLD-W.z5" size="164712" crc="0580d360" md5="2156fcca9622933cce64f16c1a80ea99" sha1="abea461951e614572cf840adcd26003286a24a70"/>
+	</game>
+	<game name="Wishbringer - The Magick Stone of Dreams v68 (1985)(Infocom)[850501]">
+		<description>Wishbringer - The Magick Stone of Dreams v68 (1985)(Infocom)[850501]</description>
+		<rom name="WISHBRIN.z3" size="128952" crc="883e5949" md5="87ed53d854f7e57c36106fca3b9cf5a6" sha1="1dafb4494ca3c31cacd6ca04364d7af990d12fb4"/>
+	</game>
+	<game name="Wishbringer - The Magick Stone of Dreams v68 (1985)(Infocom)[a][850501]">
+		<description>Wishbringer - The Magick Stone of Dreams v68 (1985)(Infocom)[a][850501]</description>
+		<rom name="WISHB.z3" size="128952" crc="d1160247" md5="6d04dbf9061e2d9b0054ff73f9f8b912" sha1="a8e1ac0980c21685a3f22138fb48fd5a6d9c18aa"/>
+	</game>
+	<game name="Wishbringer - The Magick Stone of Dreams v69 (1985)(Infocom)[850920]">
+		<description>Wishbringer - The Magick Stone of Dreams v69 (1985)(Infocom)[850920]</description>
+		<rom name="WISHBRIN.DAT" size="128904" crc="a00a628f" md5="464813adccee6310d128af12f1865638" sha1="5c5667763e835ad88d319bcaf5e02465de043949"/>
+		<rom name="Wishbringer_INV.txt" size="39952" crc="2c6bdeba" md5="061e21d106ccb22c25b65315390a8d70" sha1="432d0678027253bef56894243619140f7dc6756c"/>
+		<rom name="Wishbringer_RM.txt" size="9593" crc="4c08e031" md5="beb8e11e02d399c1613f5a53e4f70e56" sha1="48532fffbaa9ca9a1794f28f576e4fec74ac8a59"/>
+		<rom name="Wishbringer_WT.txt" size="11474" crc="3e7b0bfa" md5="3496189f8e2771c1c01ba5474ce7ebed" sha1="b6a4008eb96ec494db95c779e1274ba694dfe535"/>
+	</game>
+	<game name="Witness, The - An Interlogic Mystery v13 (1983)(Infocom)[830524]">
+		<description>Witness, The - An Interlogic Mystery v13 (1983)(Infocom)[830524]</description>
+		<rom name="witness.z3" size="102608" crc="45f17ad8" md5="76dd2612c55bdabacd49a0e24beb9077" sha1="9d6bb76fe1343dacba069c7b7574a3548f845d84"/>
+	</game>
+	<game name="Witness, The - An Interlogic Mystery v18 (1983)(Infocom)[830910]">
+		<description>Witness, The - An Interlogic Mystery v18 (1983)(Infocom)[830910]</description>
+		<rom name="WITNESS.z3" size="103728" crc="03fa6ea5" md5="dcfda77aaf0e344a098a1c86b35f8851" sha1="34ac3c79b0f5743db9fd0acc4104fcd728e748fc"/>
+	</game>
+	<game name="Witness, The - An Interlogic Mystery v20 (1983)(Infocom)[h][831119]">
+		<description>Witness, The - An Interlogic Mystery v20 (1983)(Infocom)[h][831119]</description>
+		<rom name="witness_20.z3" size="104740" crc="acb31583" md5="47c3ef9cc5cbcbb7e639df8844d5dba0" sha1="93f5bb8dc224cf442a556b65559cebdaaada2418"/>
+	</game>
+	<game name="Witness, The - An Interlogic Mystery v21 (1983)(Infocom)[h][831208]">
+		<description>Witness, The - An Interlogic Mystery v21 (1983)(Infocom)[h][831208]</description>
+		<rom name="witness_21.z3" size="104704" crc="99769aad" md5="f49a56fc2de8ceda546d3d469ca78b93" sha1="6eed223e1837941fd47cd19f0e7666931edabc33"/>
+	</game>
+	<game name="Witness, The - An Interlogic Mystery v22 (1983)(Infocom)[840924]">
+		<description>Witness, The - An Interlogic Mystery v22 (1983)(Infocom)[840924]</description>
+		<rom name="WITNESS.DAT" size="104664" crc="edd3c583" md5="12c8b49eedc41b004b594e3770df249d" sha1="152ea13d128f67261a55c2c0ae9ec6f446b1b7c0"/>
+		<rom name="Witness_INV.txt" size="25561" crc="009f4bfe" md5="bcf1b4834a7b554609ec0fcaab9c2418" sha1="fe5869787eed21c417bd902e8194a067740af77d"/>
+		<rom name="Witness_RM.txt" size="1803" crc="d9189212" md5="06a1144212f5b5ba14f42e5fe10f1cdb" sha1="eb8a83c6f85ec824b57b1f482b21ddf6fb1249ac"/>
+		<rom name="Witness_WT.txt" size="10431" crc="07e89143" md5="a2fb7efa6bb27f7108e7180c4fb431c4" sha1="9e825988dd81fd3c4534da5dccaded18a60481ae"/>
+	</game>
+	<game name="Zork - The Undiscovered Underground v16 (1997)(Activision)[970828]">
+		<description>Zork - The Undiscovered Underground v16 (1997)(Activision)[970828]</description>
+		<rom name="ZorkTUU_Map.gif" size="5807" crc="a8f6ad9a" md5="f18511d4c18110f959d7713b4e300302" sha1="3fe3c4b400faf00fe10ee3fd6ecf819aba7c3683"/>
+		<rom name="ZorkTUU_RM.txt" size="9637" crc="292d2f87" md5="44ef75a287ee91930acf4fddaedb4cdf" sha1="ed6e12b9cf72b2e1b0e46a13bb196afcf9f4d197"/>
+		<rom name="ZTUU.z5" size="102524" crc="a0d78f24" md5="477e5b150e197ee29abfe5424d0b351c" sha1="4f662fe019f9a7cf84435705567452602810d26e"/>
+	</game>
+	<game name="Zork - The Undiscovered Underground v16 (1997)(Activision)[a][970828]">
+		<description>Zork - The Undiscovered Underground v16 (1997)(Activision)[a][970828]</description>
+		<rom name="ZTUU.z5" size="102524" crc="df62d1b0" md5="e712fdb9306d2ec695775b27199a7e97" sha1="294eb83b5b065a02bb396482ddf02cdab78c99ee"/>
+	</game>
+	<game name="Zork I - Das Grosse Unterweltreich v3 (1986)(Infocom)(de)(beta)[h][880113]">
+		<description>Zork I - Das Grosse Unterweltreich v3 (1986)(Infocom)(de)(beta)[h][880113]</description>
+		<rom name="zork1_3Ger.z5" size="116216" crc="5ba792fa" md5="fc123fef2c0ba1d19bdc45d34a60c5de" sha1="486e769b8d9ef7865bfe2d0a626ecb010057ef06"/>
+	</game>
+	<game name="Zork I - The Great Underground Empire SG v52 (1986)(Infocom)[871125]">
+		<description>Zork I - The Great Underground Empire SG v52 (1986)(Infocom)[871125]</description>
+		<rom name="SGOLD-Z.z5" size="105264" crc="0aedf972" md5="d82484e664a8c328364e9814d1f73c60" sha1="e2c62788d25f9b1c7d2cd309d14b6760bf4252ec"/>
+	</game>
+	<game name="Zork I - The Great Underground Empire v15 (1980)(Infocom)[UG3AU5]">
+		<description>Zork I - The Great Underground Empire v15 (1980)(Infocom)[UG3AU5]</description>
+		<rom name="ZORK1.DAT" size="131072" crc="bcee8e2f" md5="05f36f7a2d126629d356a9b36c6847ec" sha1="3d56d8d9737d07934bad5f35ac95e13f62afe7e1"/>
+	</game>
+	<game name="Zork I - The Great Underground Empire v15 (19xx)(-)[h]">
+		<description>Zork I - The Great Underground Empire v15 (19xx)(-)[h]</description>
+		<rom name="ZORK1.DAT" size="131072" crc="ba319838" md5="6fc4a916a6f5696c385b2ffbf3b05d17" sha1="7bf0891622354d0503b090fc103c0e1295d681e7"/>
+	</game>
+	<game name="Zork I - The Great Underground Empire v25 (1982)(Infocom)[820515]">
+		<description>Zork I - The Great Underground Empire v25 (1982)(Infocom)[820515]</description>
+		<rom name="zork.dat" size="75808" crc="8fc737eb" md5="f471fbdb03aff891a0ad8158debf04e0" sha1="9df0d3355dc587f6bcae7e28467f6285f6ed6a6f"/>
+	</game>
+	<game name="Zork I - The Great Underground Empire v26 (1982)(Infocom)[820803]">
+		<description>Zork I - The Great Underground Empire v26 (1982)(Infocom)[820803]</description>
+		<rom name="zork1.z3" size="75964" crc="57176567" md5="f15f3f405933b9716c57f83d3a7db6b0" sha1="46e1b2cd27a2ab8bb389c4e4e3fb6c94af5db2c1"/>
+	</game>
+	<game name="Zork I - The Great Underground Empire v28 (1982)(Infocom)[h][821013]">
+		<description>Zork I - The Great Underground Empire v28 (1982)(Infocom)[h][821013]</description>
+		<rom name="zork1_28.z3" size="76018" crc="9ddb58db" md5="628bcbbd83b19afa22ad95b1047ef3e5" sha1="0b73f663699dccdc1b18b8dbd733b89d648fb1eb"/>
+	</game>
+	<game name="Zork I - The Great Underground Empire v30 (1982)(Infocom)[830330]">
+		<description>Zork I - The Great Underground Empire v30 (1982)(Infocom)[830330]</description>
+		<rom name="zork-1.z3" size="76324" crc="3d213846" md5="9f61962d0e859004081df09de7ff57d2" sha1="9545bb22e9e1762b4394c917579a5fdff50f346e"/>
+	</game>
+	<game name="Zork I - The Great Underground Empire v75 (1983)(Infocom)[830929]">
+		<description>Zork I - The Great Underground Empire v75 (1983)(Infocom)[830929]</description>
+		<rom name="ZORK1_.z3" size="84868" crc="8abf7f57" md5="78f2af352601eaeb8248062c8c71611e" sha1="00eadda8fa7854d0f33e8898e888dfbe28072529"/>
+	</game>
+	<game name="Zork I - The Great Underground Empire v76 (1983)(Infocom)[h][840509]">
+		<description>Zork I - The Great Underground Empire v76 (1983)(Infocom)[h][840509]</description>
+		<rom name="zork1_76.z3" size="84874" crc="a517fdae" md5="6ad12566e6b5aff067e0b21d69b3eacd" sha1="36edaa7eb970646f518b3b2449bc4b2f0c7dc300"/>
+	</game>
+	<game name="Zork I - The Great Underground Empire v88 (1983)(Infocom)[840726]">
+		<description>Zork I - The Great Underground Empire v88 (1983)(Infocom)[840726]</description>
+		<rom name="Zork1.dat" size="84876" crc="8fff4d39" md5="dcafbb901b39841013a54f160bd170d5" sha1="0bc3b28bf54bf8d6609a41dbb21b7b2cbb6f1d90"/>
+		<rom name="Zork1_INV.txt" size="23829" crc="6c622d0b" md5="fe057b32ca6193f78b087874a2834a85" sha1="b1279927b3cebd2f208e60ad758107579326c16d"/>
+		<rom name="Zork1_RM.txt" size="17340" crc="8d84800d" md5="4d0f490b21daa0730b54dc2294377f42" sha1="e7dc309fb7121abef4abcbcac743cc3d6d708cea"/>
+		<rom name="Zork1_WT.txt" size="19007" crc="bcdbf445" md5="6de7bc96fea166a76a3b5a12a9a1b248" sha1="7d2eff2668bc06b6993a98f4cc246eb346ba4833"/>
+	</game>
+	<game name="Zork II - The Wizard of Frobozz v15 (1981)(Infocom)[820308]">
+		<description>Zork II - The Wizard of Frobozz v15 (1981)(Infocom)[820308]</description>
+		<rom name="zorkii.dat" size="82110" crc="6e96df28" md5="650c31ddabab4121a49f34db407fc1e5" sha1="4a5b7b11a1a8d767b861cee48b88d6823e0c4f7d"/>
+	</game>
+	<game name="Zork II - The Wizard of Frobozz v19 (1981)(Infocom)[h][820721]">
+		<description>Zork II - The Wizard of Frobozz v19 (1981)(Infocom)[h][820721]</description>
+		<rom name="zork_19.z3" size="82586" crc="f3749e2b" md5="39c6b3284e2c1b84bb8bed48d5420151" sha1="4fbc33cf64cee66154dac77be5d34bc3a103f610"/>
+	</game>
+	<game name="Zork II - The Wizard of Frobozz v22 (1981)(Infocom)[h][830331]">
+		<description>Zork II - The Wizard of Frobozz v22 (1981)(Infocom)[h][830331]</description>
+		<rom name="zork_22.z3" size="82920" crc="a4c2af8d" md5="6c01e0374913c399219506ffd594b842" sha1="e5d6df8691448972895613dbab688e7313a1bbdf"/>
+	</game>
+	<game name="Zork II - The Wizard of Frobozz v23 (1981)(Infocom)[830411]">
+		<description>Zork II - The Wizard of Frobozz v23 (1981)(Infocom)[830411]</description>
+		<rom name="ZORK2_.z3" size="81876" crc="d9602264" md5="539d75137d3c5993984ca5dd5524d1d5" sha1="c48977443181ed3622fdbaf37c8cc24213accf5c"/>
+	</game>
+	<game name="Zork II - The Wizard of Frobozz v48 (1983)(Infocom)[840904]">
+		<description>Zork II - The Wizard of Frobozz v48 (1983)(Infocom)[840904]</description>
+		<rom name="zork2.z3" size="89912" crc="6ff8e70a" md5="48c65dd9e43ffee7ed3e7592225ab009" sha1="602164f09eb1e9e6aaf729cb273adb3dd34f9226"/>
+	</game>
+	<game name="Zork II - The Wizard of Frobozz v48 (1983)(Infocom)[a][840904]">
+		<description>Zork II - The Wizard of Frobozz v48 (1983)(Infocom)[a][840904]</description>
+		<rom name="Zork2.dat" size="89912" crc="767ca790" md5="71b1bf0bb198d8e7584b95f8527539d9" sha1="a0724cdce664a6adbfd8275f717a88576ee4589f"/>
+		<rom name="Zork2_INV.txt" size="23178" crc="f89a76ff" md5="79f0829d5387858ec33569e84b3ff65b" sha1="96b8409ade4a71290e5adc03ec5cbb9014948b09"/>
+		<rom name="Zork2_RM.txt" size="19076" crc="e8a0a7c3" md5="274b3d8583f57911cb7c8f68af66b6d4" sha1="5f9e79678aa0921a0efe926ab5e24d431a6775c8"/>
+		<rom name="Zork2_WT.txt" size="17000" crc="ffe37da1" md5="df71c0f50a0b45c08e6b0e119caee6cd" sha1="a43bdb1a96f38a1171df25c41b283cd47f8ccf81"/>
+	</game>
+	<game name="Zork II - The Wizard of Frobozz v7 (1981)(Infocom)[UG3AU5]">
+		<description>Zork II - The Wizard of Frobozz v7 (1981)(Infocom)[UG3AU5]</description>
+		<rom name="Z2.DAT" size="85260" crc="6f5a1f83" md5="1b56b55cda1c77839cf7e1b20dcf245f" sha1="265cef42e9a07fb9ee389be89dd5eb11141ba1c7"/>
+	</game>
+	<game name="Zork III - The Dungeon Master v10 (1982)(Infocom)[820818]">
+		<description>Zork III - The Dungeon Master v10 (1982)(Infocom)[820818]</description>
+		<rom name="ZORKIII.z3" size="82334" crc="b513eb0a" md5="a34434efcd4373df7886632484bb896b" sha1="13fc36a5996b84c99b9f0fcdc255bf8af92f14d8"/>
+	</game>
+	<game name="Zork III - The Dungeon Master v12 (1982)(Infocom)[h][821025]">
+		<description>Zork III - The Dungeon Master v12 (1982)(Infocom)[h][821025]</description>
+		<rom name="zork3_12.z3" size="82396" crc="be9738f2" md5="d30cb68b5d2838f3cc3ca3a792243d4e" sha1="a27514007764497f5ed7ac82c00291b90d8aee1b"/>
+	</game>
+	<game name="Zork III - The Dungeon Master v15 (1982)(Infocom)[830331]">
+		<description>Zork III - The Dungeon Master v15 (1982)(Infocom)[830331]</description>
+		<rom name="ZORK3.z3" size="82558" crc="dc242604" md5="7d002caa2cb33232b63cf890f67213ec" sha1="4a9ad1b8ae1903c1802056811b838b573f725aff"/>
+	</game>
+	<game name="Zork III - The Dungeon Master v15 (1982)(Infocom)[h][840518]">
+		<description>Zork III - The Dungeon Master v15 (1982)(Infocom)[h][840518]</description>
+		<rom name="zork3_15b.z3" size="82642" crc="60451413" md5="ad7a7cf17049a5842c6b48329bd58c33" sha1="0dcab1517198ee89a5564943aa1a59a6e3a42a6a"/>
+	</game>
+	<game name="Zork III - The Dungeon Master v16 (1982)(Infocom)[830410]">
+		<description>Zork III - The Dungeon Master v16 (1982)(Infocom)[830410]</description>
+		<rom name="ZORK3_.z3" size="81626" crc="930a93a0" md5="ca8c063cdb25c90c3eca10b4e5461414" sha1="24604cd9dcfeb7c6d06b65f166345fca887a54e4"/>
+	</game>
+	<game name="Zork III - The Dungeon Master v17 (1982)(Infocom)[840727]">
+		<description>Zork III - The Dungeon Master v17 (1982)(Infocom)[840727]</description>
+		<rom name="Zork3.z3" size="82944" crc="49ee48f4" md5="7206bfad6e0cea159c3878b22539ce1f" sha1="80412878a55dadcfdec0d06d090f0356ccae165f"/>
+	</game>
+	<game name="Zork Zero - The Revenge of Megaboz v296 (19xx)(Infocom)[h][881019]">
+		<description>Zork Zero - The Revenge of Megaboz v296 (19xx)(Infocom)[h][881019]</description>
+		<rom name="zork0_296.z6" size="295536" crc="c0ee987f" md5="4a00db5c9941a235ff0c65c4d49a927b" sha1="9bad793fe741cb7849fbed2074ccf553a246b6a1"/>
+	</game>
+	<game name="Zork Zero - The Revenge of Megaboz v366 (19xx)(Infocom)[890323]">
+		<description>Zork Zero - The Revenge of Megaboz v366 (19xx)(Infocom)[890323]</description>
+		<rom name="zork0.z6" size="296448" crc="9f1c17b3" md5="36058937eae0ce54a0fb8e3c4d53f0ce" sha1="09b36e7bbaaa958491b45e210e360a443b890b7c"/>
+	</game>
+	<game name="Zork Zero - The Revenge of Megaboz v366 (demo) (1988)(Infocom)[h][890323]">
+		<description>Zork Zero - The Revenge of Megaboz v366 (demo) (1988)(Infocom)[h][890323]</description>
+		<rom name="zork0_366d.z6" size="296376" crc="09c3f84a" md5="0f41204d718d4032fd14d642c75d3563" sha1="448cede4bc03abfb7294097297ac2ad09b095c52"/>
+	</game>
+	<game name="Zork Zero - The Revenge of Megaboz v383 (19xx)(Infocom)[890602]">
+		<description>Zork Zero - The Revenge of Megaboz v383 (19xx)(Infocom)[890602]</description>
+		<rom name="zz.z6" size="299392" crc="766b0f32" md5="4458af180b7296500f3da6a1dd781b00" sha1="2bd5175fdf2b9258bb890952348833bff50c4bf5"/>
+	</game>
+	<game name="Zork Zero - The Revenge of Megaboz v393 (1988)(Infocom)[890714]">
+		<description>Zork Zero - The Revenge of Megaboz v393 (1988)(Infocom)[890714]</description>
+		<rom name="ZORK0.CG1" size="244507" crc="180f5fa6" md5="8693505c6363b319613a5711186bf179" sha1="02591d4fe0151733fa5555c294e658385b463ee6"/>
+		<rom name="Zork0.dat" size="300032" crc="3da54ffa" md5="d83c343d71ac4c03661488148876b370" sha1="9a1d7dff71e1a571295c81439ffe706460af03fb"/>
+		<rom name="ZORK0.EG1" size="333654" crc="dc4dec33" md5="115f4f4e62a433f64ef7068899b182b4" sha1="31fb447303d493b7f3a4f09e40c87710674aee77"/>
+		<rom name="zork0.mg1" size="226436" crc="41e156f2" md5="24eb829c3532f3f8d160777d8358fa07" sha1="2b524ee74f4a579898491c61f5ea08324f3a1688"/>
+		<rom name="Zork0_RM.txt" size="513" crc="aa7f10a2" md5="9fa6fe4266aee8d95bf30d3baed51316" sha1="353f3742225b3ac03c31bb3103fe454056490880"/>
+		<rom name="Zork0_WT.txt" size="24933" crc="31653d93" md5="3da05a80c5abf59de9a5381f33510ff6" sha1="714125366f8c7a1e42d9c1d04e8b66dd8d97ae51"/>
+		<rom name="zorkzero.txt" size="24463" crc="972bb0e6" md5="839da10bec0a820521b20a6455f85962" sha1="03ca911ba98666e814b00b9d2c31e589a9368355"/>
+	</game>
+	<game name="Zork Zero - The Revenge of Megaboz v393 (demo) (1988)(Infocom)[h][890714]">
+		<description>Zork Zero - The Revenge of Megaboz v393 (demo) (1988)(Infocom)[h][890714]</description>
+		<rom name="zork0_393d.z6" size="299968" crc="9a3eeff3" md5="e23f296c5c298793f53a350c8afac3a9" sha1="7a26e77d369d86cbdb5f7724cc77c8e90a4e8283"/>
+	</game>
+</datafile>

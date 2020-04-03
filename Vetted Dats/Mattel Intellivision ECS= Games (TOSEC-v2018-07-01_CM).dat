@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Mattel Intellivision ECS - Games</name>
+		<description>Mattel Intellivision ECS - Games (TOSEC-v2018-07-01)</description>
+		<category>TOSEC</category>
+		<version>2018-07-01</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Mind Strike! (1982)(Mattel Electronics)[req keyboard][4531]">
+		<description>Mind Strike! (1982)(Mattel Electronics)[req keyboard][4531]</description>
+		<rom name="Mind Strike! (1982)(Mattel Electronics)[req keyboard][4531].50" size="16384" crc="604ba84a" md5="0d39d237341bc413fc1065bf23855101" sha1="b3e84a8decdf0cc6fe6471671c256a18dc61f34a"/>
+		<rom name="Mind Strike! (1982)(Mattel Electronics)[req keyboard][4531].d0" size="8192" crc="297717bd" md5="b076d5a2848abaa415ea2cab27770f5e" sha1="e38fd12edffe278a283e08b42965fab6fd65b03d"/>
+	</game>
+	<game name="World Series Major League Baseball (1983)(Mattel Electronics)">
+		<description>World Series Major League Baseball (1983)(Mattel Electronics)</description>
+		<rom name="World Series Major League Baseball (1983)(Mattel Electronics).50" size="16384" crc="cc7ffde7" md5="4f70cc866d6c57f8b2c00f983ece404c" sha1="926971342db595baab8c352b6179935774ccbcdb"/>
+		<rom name="World Series Major League Baseball (1983)(Mattel Electronics).d0" size="16384" crc="839fa5c7" md5="e4dc490f994f85c0934d582e25e2b632" sha1="1ef12665079d1ce50bd2419b668344a08c9a872f"/>
+		<rom name="World Series Major League Baseball (1983)(Mattel Electronics)[page 0].f0" size="8192" crc="a0f2fe49" md5="b564f3a87589875c368223cfe8b2bb35" sha1="fab397b49c5a7db53a501caea42fce169da5a31a"/>
+		<rom name="World Series Major League Baseball (1983)(Mattel Electronics)[page 1].f0" size="8192" crc="94d6b056" md5="48b39faa3f71c45feca7fe153fbf5335" sha1="df2a8c950dd1c398db901a624c04322d2b4f2782"/>
+	</game>
+</datafile>

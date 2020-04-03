@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C16, C116 &amp; Plus-4 - Utilities - [Z64]</name>
+		<description>Commodore C16, C116 &amp; Plus-4 - Utilities - [Z64] (TOSEC-v2013-12-16)</description>
+		<category>TOSEC</category>
+		<version>2013-12-16</version>
+		<author>DesertWolf</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Megatoolz for Plus4 Users (1992)(Prisoners Software Network)(Side A)">
+		<description>Megatoolz for Plus4 Users (1992)(Prisoners Software Network)(Side A)</description>
+		<rom name="1!Megatoolz for Plus4 Users (1992)(Prisoners Software Network)(Side A).z64" size="43282" crc="00b13964" md5="7fa034f7da68a60b403abd43a222d0c2" sha1="259e89a2738309cd7405970b06f7244f02e75db9"/>
+		<rom name="2!Megatoolz for Plus4 Users (1992)(Prisoners Software Network)(Side A).z64" size="43111" crc="d4f4a5ed" md5="1cef92cf8ef8bd33745a39f2da93fc0c" sha1="003b3f8b842b787572f3a96bba163c8726be0c90"/>
+		<rom name="3!Megatoolz for Plus4 Users (1992)(Prisoners Software Network)(Side A).z64" size="40086" crc="82a54a44" md5="b663b31c4e2cf1f217d5bae276823e06" sha1="d1bceab7a7391620b26ca70ceca0d1dcc582e555"/>
+		<rom name="4!Megatoolz for Plus4 Users (1992)(Prisoners Software Network)(Side A).z64" size="28512" crc="bf7e41a7" md5="9b90071afa00db07092fa0509725d2a2" sha1="3772d56c78db7200e826047298cd76d352aad46f"/>
+	</game>
+	<game name="Megatoolz for Plus4 Users (1992)(Prisoners Software Network)(Side B)">
+		<description>Megatoolz for Plus4 Users (1992)(Prisoners Software Network)(Side B)</description>
+		<rom name="1!Megatoolz for Plus4 Users (1992)(Prisoners Software Network)(Side B).z64" size="43346" crc="44c7562d" md5="a7a0dd6a70c79af3714cbc03452a237e" sha1="bd9e718082b7b47c40bab5ca1646a41a8f489062"/>
+		<rom name="2!Megatoolz for Plus4 Users (1992)(Prisoners Software Network)(Side B).z64" size="42792" crc="24beb360" md5="e9372a1d8f009074a3b543ee9fd8958e" sha1="5ba2293593e1ce56b23a10d0cda7d16189d7614c"/>
+		<rom name="3!Megatoolz for Plus4 Users (1992)(Prisoners Software Network)(Side B).z64" size="39469" crc="e032a66f" md5="a2a8d31247823ab3a30dcdd8e5cd293c" sha1="4b18e1aa9c419fbab7b83293f86e1544efc0567c"/>
+		<rom name="4!Megatoolz for Plus4 Users (1992)(Prisoners Software Network)(Side B).z64" size="44900" crc="b07e22fa" md5="6d971ae01bd3e7add30aebaa23c07f3c" sha1="5176f132ed35a6188d3501c6e7676eb2c75f9fdb"/>
+	</game>
+</datafile>

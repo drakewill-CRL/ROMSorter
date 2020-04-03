@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>DEC PDP-1 - Games - [MAC]</name>
+		<description>DEC PDP-1 - Games - [MAC] (TOSEC-v2014-01-14)</description>
+		<category>TOSEC</category>
+		<version>2014-01-14</version>
+		<author>TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Spacewar v4.1 (2008-08-22)(Samson, Peter)(US)">
+		<description>Spacewar v4.1 (2008-08-22)(Samson, Peter)(US)</description>
+		<rom name="Spacewar v4.1 (2008-08-22)(Samson, Peter)(US).mac" size="29421" crc="cac84066" md5="96889831b6a977a09115c0f2e8dee69a" sha1="3f2e1a2ef049b2c94eab8324963b806360fb42aa"/>
+	</game>
+</datafile>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C128 - Demos - [T64]</name>
+		<description>Commodore C128 - Demos - [T64] (TOSEC-v2014-05-05)</description>
+		<category>TOSEC</category>
+		<version>2014-05-05</version>
+		<author>Duncan Twain - DesertWolf</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="C128 Demo #1 (1988)(Sphinx)">
+		<description>C128 Demo #1 (1988)(Sphinx)</description>
+		<rom name="C128 Demo #1 (1988)(Sphinx).t64" size="1377" crc="fd5a6120" md5="393032e8f33ee0828991a0fe9ed67259" sha1="651be2c720b8c0a37f757f55a04da5d5ee2c661d"/>
+	</game>
+	<game name="C128 Demo #1 (1988)(Sphinx)[a]">
+		<description>C128 Demo #1 (1988)(Sphinx)[a]</description>
+		<rom name="C128 Demo #1 (1988)(Sphinx)[a].t64" size="1377" crc="47b9a79e" md5="f9e8879e267712090f3c21e943779108" sha1="7934d5454f7dde8ce8c3220e2079d977c19efef3"/>
+	</game>
+	<game name="C128 Demo #2 (1988)(Sphinx)">
+		<description>C128 Demo #2 (1988)(Sphinx)</description>
+		<rom name="C128 Demo #2 (1988)(Sphinx).t64" size="7329" crc="2c85eb78" md5="70a574cfa227b2629b0b4905143a820e" sha1="5adf48f951274788d33ba28ed759bfce18cfa669"/>
+	</game>
+	<game name="C128 Demo #2 (1988)(Sphinx)[a]">
+		<description>C128 Demo #2 (1988)(Sphinx)[a]</description>
+		<rom name="C128 Demo #2 (1988)(Sphinx)[a].t64" size="7329" crc="1721a37b" md5="e359546cb00659693d32410ea579d915" sha1="306ed28cf4d617bd720e51702e70f4f11b561017"/>
+	</game>
+	<game name="C128 World Record (1988)(New Formula Crew)">
+		<description>C128 World Record (1988)(New Formula Crew)</description>
+		<rom name="C128 World Record (1988)(New Formula Crew).t64" size="13256" crc="42066259" md5="43cfc0a7afb269afff7953a25f821472" sha1="03db8f5a3701826fdd37f1bd38133b43b48e8a7d"/>
+	</game>
+	<game name="C128 World Record (1988)(New Formula Crew)[a]">
+		<description>C128 World Record (1988)(New Formula Crew)[a]</description>
+		<rom name="C128 World Record (1988)(New Formula Crew)[a].t64" size="13256" crc="868b3f42" md5="1ff9ccede0d04d8c65ec96e81b6febf7" sha1="52fcd347428a813b25b57219374d602c5142b82c"/>
+	</game>
+</datafile>

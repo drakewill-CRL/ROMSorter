@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nascom I &amp; II - Games - [COM]</name>
+		<description>Nascom I &amp; II - Games - [COM] (TOSEC-v2014-04-11)</description>
+		<category>TOSEC</category>
+		<version>2014-04-11</version>
+		<author>Grendel - Cid - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Lords of Time (198x)(-)[includes BIOS]">
+		<description>Lords of Time (198x)(-)[includes BIOS]</description>
+		<rom name="Lords of Time (198x)(-)[includes BIOS].com" size="33920" crc="8b0a3526" md5="6bc23e0eb4e847352c4eceae423358a8" sha1="0ccd91880b333ba8c32c9de08a7c2eb58ac8f21c"/>
+	</game>
+	<game name="Snowball (198x)(-)[includes BIOS]">
+		<description>Snowball (198x)(-)[includes BIOS]</description>
+		<rom name="Snowball (198x)(-)[includes BIOS].com" size="29824" crc="5e995d8f" md5="e4c51d363d3e70a2c58c652dd99fe3f1" sha1="0485b605c1562051a787960e4f775e90faf195d7"/>
+	</game>
+</datafile>

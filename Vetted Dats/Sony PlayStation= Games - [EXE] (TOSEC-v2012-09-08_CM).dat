@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation - Games - [EXE]</name>
+		<description>Sony PlayStation - Games - [EXE] (TOSEC-v2012-09-08)</description>
+		<category>TOSEC-ISO</category>
+		<version>2012-09-08</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Mahjongg (1998)(Hitmen)(PD)">
+		<description>Mahjongg (1998)(Hitmen)(PD)</description>
+		<rom name="Mahjongg (1998)(Hitmen)(PD).exe" size="1456128" crc="2b6acee6" md5="f83c0e3c636b5be4b90665d91a0981ab" sha1="908ab160517d67f85d2ab3cce4de9a9d9714ba44"/>
+	</game>
+	<game name="SuperBub (2005)(Alex H)(PD)">
+		<description>SuperBub (2005)(Alex H)(PD)</description>
+		<rom name="SuperBub (2005)(Alex H)(PD).exe" size="1302544" crc="f211caff" md5="cdc558bfc924f56c7d0f54aa522e82a7" sha1="c9e5a90017753df29bcdf44a76f75e557a4d4c31"/>
+	</game>
+	<game name="Zelda Clone Game Thingy (1999)(Zelda)(PD)">
+		<description>Zelda Clone Game Thingy (1999)(Zelda)(PD)</description>
+		<rom name="Zelda Clone Game Thingy (1999)(Zelda)(PD).exe" size="1506006" crc="0c645fd5" md5="c4bd9549aabf34bdd1c71d221d42702b" sha1="cf22cdee13364875e045b4cb6bbbb4c5a34078ee"/>
+	</game>
+</datafile>

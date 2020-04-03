@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Educational - [D81]</name>
+		<description>Commodore C64 - Educational - [D81] (TOSEC-v2019-12-13)</description>
+		<category>TOSEC</category>
+		<version>2019-12-13</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Preis ist Heiss, Der (1991)(Gametek)(de)">
+		<description>Preis ist Heiss, Der (1991)(Gametek)(de)</description>
+		<rom name="Preis ist Heiss, Der (1991)(Gametek)(de).d81" size="819200" crc="8ad7d131" md5="61b550115cc37a8bbbe3611357a45468" sha1="355c884fb33563ea37387966e48ad1869a0237a5"/>
+	</game>
+	<game name="Spelling - Grade 4 (1984)(American Educational Computer)(Side A)">
+		<description>Spelling - Grade 4 (1984)(American Educational Computer)(Side A)</description>
+		<rom name="Spelling - Grade 4 (1984)(American Educational Computer)(Side A).d81" size="819200" crc="d1d69a0e" md5="1c85739e230bdb7fef6a3541fd0f9f34" sha1="2003a8c0a9a2a4c41694f3ff31b6b4ad47d05ece"/>
+	</game>
+	<game name="Spelling - Grade 5 (1984)(American Educational Computer)(Side A)">
+		<description>Spelling - Grade 5 (1984)(American Educational Computer)(Side A)</description>
+		<rom name="Spelling - Grade 5 (1984)(American Educational Computer)(Side A).d81" size="819200" crc="1e0aaca9" md5="21fca6802cc3e7a6d9f685da3491d5ff" sha1="dcfb3cb5e080fa4d4a66cd3427ce4d3b7f892db3"/>
+	</game>
+	<game name="Spelling - Grade 8 (1984)(American Educational Computer)(Side A)">
+		<description>Spelling - Grade 8 (1984)(American Educational Computer)(Side A)</description>
+		<rom name="Spelling - Grade 8 (1984)(American Educational Computer)(Side A).d81" size="819200" crc="07a47155" md5="17d5eef618ef9b0156106cb8b54b0aeb" sha1="8fa4cec651ae58e2a595de10e56ec4d2a4e90d40"/>
+	</game>
+</datafile>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>OpenPandora Pandora - Educational</name>
+		<description>OpenPandora Pandora - Educational (TOSEC-v2012-04-13)</description>
+		<category>TOSEC</category>
+		<version>2012-04-13</version>
+		<author>Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="LOAD81 v1.0.1.1 (2012)(Sanfilippo, Salvatore - torpor)(PD)">
+		<description>LOAD81 v1.0.1.1 (2012)(Sanfilippo, Salvatore - torpor)(PD)</description>
+		<rom name="LOAD81 v1.0.1.1 (2012)(Sanfilippo, Salvatore - torpor)(PD).pnd" size="1278101" crc="5eda2950" md5="a02df29f9442b3c080eef0b732ce6dc6" sha1="3c8483869e9d8a0046da14ea1df369424a2537f6"/>
+	</game>
+	<game name="Night Vision v3.0.1.1 (2012)(F_Slim - Simpson, Brian)(PD)[Req OpenJDK Java Runtime]">
+		<description>Night Vision v3.0.1.1 (2012)(F_Slim - Simpson, Brian)(PD)[Req OpenJDK Java Runtime]</description>
+		<rom name="Night Vision v3.0.1.1 (2012)(F_Slim - Simpson, Brian)(PD)[Req OpenJDK Java Runtime].pnd" size="2928430" crc="347bca93" md5="8a0436451433565d6070f3dd4d0dd0e5" sha1="17e53209b1b3a68bb1f2ade5063c9afdfb05f3ab"/>
+	</game>
+</datafile>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>IBM System-360 - Operating Systems</name>
+		<description>IBM System-360 - Operating Systems (TOSEC-v2017-04-05)</description>
+		<category>TOSEC</category>
+		<version>2017-04-05</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<url>http://www.tosecdev.org</url>
+		<clrmamepro/>
+	</header>
+	<game name="Operating System 360 Rel 21.8 (1974-10-08)(-)[B360S R3330]">
+		<description>Operating System 360 Rel 21.8 (1974-10-08)(-)[B360S R3330]</description>
+		<rom name="Operating System 360 Rel 21.8 (1974-10-08)(-)[B360S R3330].tap" size="35454976" crc="b5caa545" md5="91aba68a9b92c4432b661c74f2d8513d" sha1="8c3b156436542357259cfe1e9109b9a92e302cc8"/>
+	</game>
+	<game name="Operating System 360 Rel 21.8 (1976-03-25)(-)[B360S R3330]">
+		<description>Operating System 360 Rel 21.8 (1976-03-25)(-)[B360S R3330]</description>
+		<rom name="Operating System 360 Rel 21.8 (1976-03-25)(-)[B360S R3330].tap" size="31426553" crc="43e3946f" md5="f6b1b80da125cf5746ce2ba46215a56d" sha1="255c2ac0324388f7d69b2628c0bf85165efe51bf"/>
+	</game>
+</datafile>

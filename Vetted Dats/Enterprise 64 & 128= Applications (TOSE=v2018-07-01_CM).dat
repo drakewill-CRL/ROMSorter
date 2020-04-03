@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Enterprise 64 &amp; 128 - Applications</name>
+		<description>Enterprise 64 &amp; 128 - Applications (TOSEC-v2018-07-01)</description>
+		<category>TOSEC</category>
+		<version>2018-07-01</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="dBase II v2.3 (198x)(RSP)">
+		<description>dBase II v2.3 (198x)(RSP)</description>
+		<rom name="dBase II v2.3 (198x)(RSP).img" size="737280" crc="23efa558" md5="fd2af77207015ea9a9ca09cea511aa93" sha1="99bd27b6621b8c30ad0e37deedbbe3aff87f6e30"/>
+	</game>
+	<game name="dBase II v2.42 (1984)(Ashton-Tate - Babsoft)(HU)">
+		<description>dBase II v2.42 (1984)(Ashton-Tate - Babsoft)(HU)</description>
+		<rom name="dBase II v2.42 (1984)(Ashton-Tate - Babsoft)(HU).img" size="737280" crc="130473a8" md5="78659bc9639e7521cfe68b387f351593" sha1="7394b6c73ba8912d6d12ea3ee5f22e0107dab0bf"/>
+	</game>
+	<game name="Turbo Pascal v3.03A (1985)(Borland)">
+		<description>Turbo Pascal v3.03A (1985)(Borland)</description>
+		<rom name="Turbo Pascal v3.03A (1985)(Borland).img" size="737280" crc="00304f67" md5="7d4e1708b6830717cd111911ad939edd" sha1="5e00d28aaff56d4b9d385f54ff7220f0adbbb717"/>
+	</game>
+	<game name="WordStar III (198x)(MicroPro)">
+		<description>WordStar III (198x)(MicroPro)</description>
+		<rom name="WordStar III (198x)(MicroPro).img" size="737280" crc="99f84027" md5="d6aa552c6f4f9163875d9a7f0f38374b" sha1="6acc070e7d24bb46985b6b8b651dff34e33f987f"/>
+	</game>
+</datafile>

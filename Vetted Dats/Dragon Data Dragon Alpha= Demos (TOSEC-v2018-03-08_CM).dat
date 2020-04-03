@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Dragon Data Dragon Alpha - Demos</name>
+		<description>Dragon Data Dragon Alpha - Demos (TOSEC-v2018-03-08)</description>
+		<category>TOSEC</category>
+		<version>2018-03-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+	</header>
+	<game name="OS-9 Sound Demo (198x)(Dragon Data Ltd)[OS-9]">
+		<description>OS-9 Sound Demo (198x)(Dragon Data Ltd)[OS-9]</description>
+		<rom name="OS-9 Sound Demo (198x)(Dragon Data Ltd)[OS-9].vdk" size="368673" crc="b0b8f6a3" md5="13dd92943c01d82579049a9d3ed21fd4" sha1="cb79c232d92e8bc3c9253b992dd159970200abe5"/>
+	</game>
+	<game name="Viewdata Demo (198x)(TelePost Systems Ltd)[OS-9]">
+		<description>Viewdata Demo (198x)(TelePost Systems Ltd)[OS-9]</description>
+		<rom name="Viewdata Demo (198x)(TelePost Systems Ltd)[OS-9].vdk" size="368666" crc="05344cf3" md5="7cb0eca9e8789aea39da38a6e86f07c0" sha1="2044886a7c6c4985927dd0710a63bad3f34dd14e"/>
+	</game>
+</datafile>

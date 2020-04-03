@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Atari Lynx - Firmware</name>
+		<description>Atari Lynx - Firmware (TOSEC-v2013-12-13)</description>
+		<category>TOSEC</category>
+		<version>2013-12-13</version>
+		<author>Eldio - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Atari Lynx BIOS (1989)(Atari)">
+		<description>Atari Lynx BIOS (1989)(Atari)</description>
+		<rom name="Atari Lynx BIOS (1989)(Atari).bin" size="512" crc="e1ffecb6" md5="1a7896e1fe540fe10e51936426b88116" sha1="de60f2263851bbe10e5801ef8f6c357a4bc077e6"/>
+	</game>
+	<game name="Atari Lynx BIOS (1989)(Atari)[a]">
+		<description>Atari Lynx BIOS (1989)(Atari)[a]</description>
+		<rom name="Atari Lynx BIOS (1989)(Atari)[a].bin" size="512" crc="0d973c9d" md5="fcd403db69f54290b51035d82f835e7b" sha1="e4ed47fae31693e016b081c6bda48da5b70d7ccb"/>
+	</game>
+</datafile>

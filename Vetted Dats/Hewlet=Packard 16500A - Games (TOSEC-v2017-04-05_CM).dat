@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Hewlett-Packard 16500A - Games</name>
+		<description>Hewlett-Packard 16500A - Games (TOSEC-v2017-04-05)</description>
+		<category>TOSEC</category>
+		<version>2017-04-05</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<url>http://www.tosecdev.org</url>
+		<clrmamepro/>
+	</header>
+	<game name="16500A Games (19xx)(-)">
+		<description>16500A Games (19xx)(-)</description>
+		<rom name="16500A Games (19xx)(-).imd" size="281488" crc="61373c7f" md5="231aaed07cd1b734a8cdd4eb9e7381f8" sha1="0620e4ead4a483a9668f84a2bdff8624415a73d9"/>
+	</game>
+</datafile>

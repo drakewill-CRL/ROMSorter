@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Control Data Corporation CDC110 - Operating Systems</name>
+		<description>Control Data Corporation CDC110 - Operating Systems (TOSEC-v2017-04-05)</description>
+		<category>TOSEC</category>
+		<version>2017-04-05</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<url>http://www.tosecdev.org</url>
+		<clrmamepro/>
+	</header>
+	<game name="CP-M 2.2 Operating System v2.2 (1983-04-29)(Control Data Corporation)[110-CPM-R3]">
+		<description>CP-M 2.2 Operating System v2.2 (1983-04-29)(Control Data Corporation)[110-CPM-R3]</description>
+		<rom name="CP-M 2.2 Operating System v2.2 (1983-04-29)(Control Data Corporation)[110-CPM-R3].imd" size="276540" crc="9730ffd2" md5="ccd41f05b783bb24b0456cefb976cd37" sha1="a3254411d801d95f73daa5124417869c6f9a22ce"/>
+	</game>
+	<game name="CP-M 2.2 Operating System v2.2 (1983-12-12)(Control Data Corporation)[110-CPM-R4]">
+		<description>CP-M 2.2 Operating System v2.2 (1983-12-12)(Control Data Corporation)[110-CPM-R4]</description>
+		<rom name="CP-M 2.2 Operating System v2.2 (1983-12-12)(Control Data Corporation)[110-CPM-R4].imd" size="379762" crc="779ea60e" md5="a46bfbd7fdaf82e697bf4fa85249faab" sha1="2d6a8624f53e9722ec964281d3cf3ec025222e58"/>
+	</game>
+</datafile>

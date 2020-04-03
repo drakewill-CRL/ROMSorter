@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Demos - [ARK]</name>
+		<description>Commodore C64 - Demos - [ARK] (TOSEC-v2018-11-08)</description>
+		<category>TOSEC</category>
+		<version>2018-11-08</version>
+		<author>Duncan Twain - DesertWolf</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="A-Man Music Collection (1995)(Action)">
+		<description>A-Man Music Collection (1995)(Action)</description>
+		<rom name="A-Man Music Collection (1995)(Action).ark" size="29210" crc="7082fe78" md5="a4665a5ededcd16b02ce9ff8a62a934a" sha1="20464514515768611ae6a201a7a373bf5bd484de"/>
+	</game>
+	<game name="A-Man Music Collection (1995)(Action)[a]">
+		<description>A-Man Music Collection (1995)(Action)[a]</description>
+		<rom name="A-Man Music Collection (1995)(Action)[a].ark" size="29210" crc="fa633fc1" md5="08427df087ed9a0bffcc7255e16d0346" sha1="d87628b4285ca1123110b5c44be1ea7534155578"/>
+	</game>
+	<game name="A-Man Music Collection (1995)(Arcade)">
+		<description>A-Man Music Collection (1995)(Arcade)</description>
+		<rom name="A-Man Music Collection (1995)(Arcade).ark" size="32512" crc="70cce2fd" md5="f57292a8d1f70ce2dee200d8d286d5f3" sha1="b98f7165749894c153dcbec2ab6a20a955750b48"/>
+	</game>
+	<game name="Best of Arne 2 (1995)(Alpha Flight 1970)[a][Z64 Part 1-4]">
+		<description>Best of Arne 2 (1995)(Alpha Flight 1970)[a][Z64 Part 1-4]</description>
+		<rom name="Best of Arne 2 (1995)(Alpha Flight 1970)[a][Z64 Part 1-4].ark" size="117855" crc="b7232242" md5="6181ae941d1bf33e229a5cf42c7737dc" sha1="34ad05f1bfee33a25d2f1efbda28475b9db3a92b"/>
+	</game>
+	<game name="Best of Arne 2 (1995)(Alpha Flight 1970)[a2][Z64 Part 1-4]">
+		<description>Best of Arne 2 (1995)(Alpha Flight 1970)[a2][Z64 Part 1-4]</description>
+		<rom name="Best of Arne 2 (1995)(Alpha Flight 1970)[a2][Z64 Part 1-4].ark" size="117856" crc="4a67ec13" md5="83d286dbdfa0cc822b88b487c7d1683c" sha1="0721c19fbea079e33916303d3a241a7f50aeebd9"/>
+	</game>
+	<game name="Best of Arne 2 (1995)(Alpha Flight 1970)[Z64 Part 1-4]">
+		<description>Best of Arne 2 (1995)(Alpha Flight 1970)[Z64 Part 1-4]</description>
+		<rom name="Best of Arne 2 (1995)(Alpha Flight 1970)[Z64 Part 1-4].ark" size="118744" crc="2fba1b84" md5="b8b811cf54ab30849f684543516996ac" sha1="ef653044f5b6776261d44c4623ca1e894d9261c5"/>
+	</game>
+	<game name="Wayne&apos;s Graphic Collection (1993-05-18)(Taboo)">
+		<description>Wayne&apos;s Graphic Collection (1993-05-18)(Taboo)</description>
+		<rom name="Wayne&apos;s Graphic Collection (1993-05-18)(Taboo).ark" size="46322" crc="3e39face" md5="183856719fee5fa382826e2606effc39" sha1="40962cc79adedc0a4566ced6564df91ec0efc814"/>
+	</game>
+</datafile>

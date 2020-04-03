@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>DEC PDP-8 - Operating Systems - [TU6]</name>
+		<description>DEC PDP-8 - Operating Systems - [TU6] (TOSEC-v2014-01-23)</description>
+		<category>TOSEC</category>
+		<version>2014-01-23</version>
+		<author>TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="OS-8 &amp; Basic v4a (19xx)(DEC)(US)">
+		<description>OS-8 &amp; Basic v4a (19xx)(DEC)(US)</description>
+		<rom name="OS-8 &amp; Basic v4a (19xx)(DEC)(US).tu6" size="380292" crc="5827aad2" md5="31d99bc293b2b47e35962ab32853d8d0" sha1="aa3f46865b4d05149ddfd6e5ccfddb3ddba33f5b"/>
+	</game>
+	<game name="OS-8 FR4 v3d (19xx)(DEC)(US)(Tape 1 of 2)">
+		<description>OS-8 FR4 v3d (19xx)(DEC)(US)(Tape 1 of 2)</description>
+		<rom name="OS-8 FR4 v3d (19xx)(DEC)(US)(Tape 1 of 2).tu6" size="380292" crc="608f09ff" md5="dae7f072b9ea2f6eedba1a45995592f7" sha1="4edd495693281aa28fd70f83df6327464c0f8b94"/>
+	</game>
+	<game name="OS-8 FR4 v3d (19xx)(DEC)(US)(Tape 2 of 2)">
+		<description>OS-8 FR4 v3d (19xx)(DEC)(US)(Tape 2 of 2)</description>
+		<rom name="OS-8 FR4 v3d (19xx)(DEC)(US)(Tape 2 of 2).tu6" size="380292" crc="2b38ba00" md5="9bfd4d5a63d789d95b08de3311dbd5ce" sha1="b22e857be9ed3c31bb5254be6f10f67377eeffa8"/>
+	</game>
+	<game name="OS-8 v3b (19xx)(DEC)(US)">
+		<description>OS-8 v3b (19xx)(DEC)(US)</description>
+		<rom name="OS-8 v3b (19xx)(DEC)(US).tu6" size="380292" crc="43d98004" md5="1b2e8929b38ff67a401b44fef40df81e" sha1="33c0aab503260370f66f9175bc706cea7c03f617"/>
+	</game>
+	<game name="OS-8 v3d (19xx)(DEC)(US)">
+		<description>OS-8 v3d (19xx)(DEC)(US)</description>
+		<rom name="OS-8 v3d (19xx)(DEC)(US).tu6" size="380292" crc="dd3869a6" md5="fced22a4f752a60c2fc98fe0ca8218cb" sha1="0da654f5268414ccff126c965850f2263201e6bc"/>
+	</game>
+	<game name="OS-8 v3d Distribution Tape 2 (19xx)(DEC)(US)">
+		<description>OS-8 v3d Distribution Tape 2 (19xx)(DEC)(US)</description>
+		<rom name="OS-8 v3d Distribution Tape 2 (19xx)(DEC)(US).tu6" size="380292" crc="3b50843d" md5="926a63756c0b406edd988c1479aa5ba8" sha1="02830caabea4be24673290148008aff880567f89"/>
+	</game>
+	<game name="RTS-8 v2b (19xx)(DEC)(US)(Tape 1 of 2)">
+		<description>RTS-8 v2b (19xx)(DEC)(US)(Tape 1 of 2)</description>
+		<rom name="RTS-8 v2b (19xx)(DEC)(US)(Tape 1 of 2).tu6" size="380292" crc="c2090815" md5="a978f9f9644cf1e0d779990b3ca5c970" sha1="1cba1fef77ea9d0c07e45f03a602fa410031892e"/>
+	</game>
+	<game name="RTS-8 v2b (19xx)(DEC)(US)(Tape 2 of 2)">
+		<description>RTS-8 v2b (19xx)(DEC)(US)(Tape 2 of 2)</description>
+		<rom name="RTS-8 v2b (19xx)(DEC)(US)(Tape 2 of 2).tu6" size="380292" crc="1db2f25b" md5="136812d3efed2eddef3b062738136ca6" sha1="97421bbc41ade1a3035a210af77c9b2d3505aab6"/>
+	</game>
+</datafile>

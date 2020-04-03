@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple Macintosh - Games - [IMG]</name>
+		<description>Apple Macintosh - Games - [IMG] (TOSEC-v2018-07-01)</description>
+		<category>TOSEC</category>
+		<version>2018-07-01</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Beyond Dark Castle (1981)(Silicon Beach)(Disk 1 of 2)(Start Up Disk)[800K]">
+		<description>Beyond Dark Castle (1981)(Silicon Beach)(Disk 1 of 2)(Start Up Disk)[800K]</description>
+		<rom name="Beyond Dark Castle (1981)(Silicon Beach)(Disk 1 of 2)(Start Up Disk)[800K].img" size="819200" crc="7b51b582" md5="3ccc26fd8c5be6724646b6191ffe75be" sha1="d5856e6504cf652b8601e9e60f45703ce7458fa1"/>
+	</game>
+	<game name="Beyond Dark Castle (1981)(Silicon Beach)(Disk 2 of 2)[800K]">
+		<description>Beyond Dark Castle (1981)(Silicon Beach)(Disk 2 of 2)[800K]</description>
+		<rom name="Beyond Dark Castle (1981)(Silicon Beach)(Disk 2 of 2)[800K].img" size="819200" crc="8c63ffcc" md5="1ef99da7c209d41ed1b418e93fded685" sha1="587392d1937b9d776d30be48bd272217265c737b"/>
+	</game>
+</datafile>

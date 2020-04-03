@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Microkey Primo - Applications - [WAV]</name>
+		<description>Microkey Primo - Applications - [WAV] (TOSEC-v2011-09-04)</description>
+		<category>TOSEC</category>
+		<version>2011-09-04</version>
+		<author>Gruby</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="AMON v1.1 (1988)(Paller Gabor)">
+		<description>AMON v1.1 (1988)(Paller Gabor)</description>
+		<rom name="AMON v1.1 (1988)(Paller Gabor).wav" size="2166417" crc="d84e174f" md5="d246fd745e68d68c326ec28ebea64157" sha1="9edab68d898e005a0020af227dbb4764f0ff0e65"/>
+	</game>
+	<game name="Fenyujsag (1985)(Tik-Tak Software)">
+		<description>Fenyujsag (1985)(Tik-Tak Software)</description>
+		<rom name="Fenyujsag (1985)(Tik-Tak Software).wav" size="883741" crc="291e62bc" md5="5cdffeb6000ba4fbadd6414e57871fbd" sha1="39ee33968b75ae2bedcd43358e83b3bd737bb2f5"/>
+	</game>
+	<game name="K.S. Copy Alap (1987)(Karacsony Sandor)">
+		<description>K.S. Copy Alap (1987)(Karacsony Sandor)</description>
+		<rom name="K.S. Copy Alap (1987)(Karacsony Sandor).wav" size="714106" crc="73a2b6a2" md5="13e2680180f53292343e38f1d5d1fa3c" sha1="1f1855c1af1850a72d7d0694db7866d45e7cc9de"/>
+	</game>
+	<game name="Primo Forth 1.0 (1985)(BME-KSZK)">
+		<description>Primo Forth 1.0 (1985)(BME-KSZK)</description>
+		<rom name="Primo Forth 1.0 (1985)(BME-KSZK).wav" size="1319084" crc="5381a6c0" md5="31a4b23911fe59173a74afcd09dadf8b" sha1="ace7770553fb8bfbc5243601dea910fec24ed070"/>
+	</game>
+	<game name="Primo Video Text Editor (1986)(Szucs Zoltan)(Primo B)">
+		<description>Primo Video Text Editor (1986)(Szucs Zoltan)(Primo B)</description>
+		<rom name="Primo Video Text Editor (1986)(Szucs Zoltan)(Primo B).wav" size="2395377" crc="78d8f305" md5="7d9b322e6668dc5e464a42a46bb6cad1" sha1="e4995883ba89cef1dd9fababb75599bd734ebfae"/>
+	</game>
+</datafile>

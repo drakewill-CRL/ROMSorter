@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>AMPRO Computers LittleBoard Z80 - System</name>
+		<description>AMPRO Computers LittleBoard Z80 - System (TOSEC-v2017-07-25)</description>
+		<category>TOSEC</category>
+		<version>2017-07-25</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="60K Z80 Operating System - AMPRO BIOS v3.8 (1986)(AMPRO Computers)">
+		<description>60K Z80 Operating System - AMPRO BIOS v3.8 (1986)(AMPRO Computers)</description>
+		<rom name="60K Z80 Operating System - AMPRO BIOS v3.8 (1986)(AMPRO Computers).imd" size="301876" crc="f9dc2ea8" md5="2a403d20cb34f8181e30672941eb8e8a" sha1="3cd0471e3be90db59dc83beb04fedb979c810ca2"/>
+	</game>
+	<game name="AMPRO LittleBoard Source Disk #1 (1986)(AMPRO Computers)">
+		<description>AMPRO LittleBoard Source Disk #1 (1986)(AMPRO Computers)</description>
+		<rom name="AMPRO LittleBoard Source Disk #1 (1986)(AMPRO Computers).imd" size="333994" crc="0b9e7336" md5="179af6ffa33f82ff9f881e95bda3d6f6" sha1="6d6e0d3e76b080fddfd40149a48b9ca3aae70d0e"/>
+	</game>
+	<game name="AMPRO LittleBoard Source Disk #2 (1986)(AMPRO Computers)">
+		<description>AMPRO LittleBoard Source Disk #2 (1986)(AMPRO Computers)</description>
+		<rom name="AMPRO LittleBoard Source Disk #2 (1986)(AMPRO Computers).imd" size="363632" crc="f1be0f1c" md5="64d466a4012432e19b974bbc093e3199" sha1="12fcb4ef181f66c9a32d69748c62c3b4b4c6f362"/>
+	</game>
+	<game name="AMPRO LittleBoard Source Disk #3 (1986)(AMPRO Computers)">
+		<description>AMPRO LittleBoard Source Disk #3 (1986)(AMPRO Computers)</description>
+		<rom name="AMPRO LittleBoard Source Disk #3 (1986)(AMPRO Computers).imd" size="355456" crc="e78acfa4" md5="53e5316f33a362726c2620406744204d" sha1="72cb5b671828d30b8c6e9f4d32d184d513e90949"/>
+	</game>
+</datafile>

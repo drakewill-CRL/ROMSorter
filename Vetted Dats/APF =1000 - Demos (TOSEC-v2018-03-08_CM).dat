@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>APF M-1000 - Demos</name>
+		<description>APF M-1000 - Demos (TOSEC-v2018-03-08)</description>
+		<category>TOSEC</category>
+		<version>2018-03-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Move Block (2010)(Trionfo, Adam)">
+		<description>Move Block (2010)(Trionfo, Adam)</description>
+		<rom name="Move Block (2010)(Trionfo, Adam).bin" size="4096" crc="f77f72f4" md5="3cb9f0f394d0e1a1ce3db17379e710e8" sha1="2cf3a82d584b2a2e4c7e5ae751da8d0255c2295a"/>
+	</game>
+	<game name="Move Block 2 (2010)(Trionfo, Adam)">
+		<description>Move Block 2 (2010)(Trionfo, Adam)</description>
+		<rom name="Move Block 2 (2010)(Trionfo, Adam).bin" size="4096" crc="cf63865a" md5="a0a83c9452fd0108203f4ce4df3ff8c7" sha1="8c8e6924ab511d69a31eb52faaaad5efb7888f33"/>
+	</game>
+</datafile>

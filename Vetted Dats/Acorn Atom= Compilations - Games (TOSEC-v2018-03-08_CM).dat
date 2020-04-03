@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Acorn Atom - Compilations - Games</name>
+		<description>Acorn Atom - Compilations - Games (TOSEC-v2018-03-08)</description>
+		<category>TOSEC</category>
+		<version>2018-03-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Adventures (1981)(Acornsoft)[Adventure, Dungeon, House, Intergalactic]">
+		<description>Adventures (1981)(Acornsoft)[Adventure, Dungeon, House, Intergalactic]</description>
+		<rom name="Adventures (1981)(Acornsoft)[Adventure, Dungeon, House, Intergalactic].uef" size="13965" crc="18e3d1d4" md5="70151a223d3315cebf451ffde5a066a7" sha1="6513f6951f34c64555027615f0afdc18987f2e38"/>
+	</game>
+	<game name="Games Pack 1 (1981)(Acornsoft)">
+		<description>Games Pack 1 (1981)(Acornsoft)</description>
+		<rom name="Games Pack 1 (1981)(Acornsoft).uef" size="6080" crc="fe4ed08b" md5="d7f596292ef4f16d985b4f9c3da2f145" sha1="986348d3b7b4d3f895a21e015f2d89be00f41824"/>
+	</game>
+	<game name="Games Pack 10 (1981)(Acornsoft)">
+		<description>Games Pack 10 (1981)(Acornsoft)</description>
+		<rom name="Games Pack 10 (1981)(Acornsoft).uef" size="5389" crc="329712bb" md5="20213a4d8ab4017ea4e029e1e1f6db17" sha1="2a70142356a601b94324b7bd6127ff71fc915e32"/>
+	</game>
+	<game name="Games Pack 3 (1981)(Acornsoft)">
+		<description>Games Pack 3 (1981)(Acornsoft)</description>
+		<rom name="Games Pack 3 (1981)(Acornsoft).uef" size="5707" crc="e00f2289" md5="4bb8d68b6eedc2f22a97ad8799b27ea3" sha1="2715c998002885f355430d6aa61e66610da6c7ae"/>
+	</game>
+	<game name="Games Pack 4 (1981)(Acornsoft)">
+		<description>Games Pack 4 (1981)(Acornsoft)</description>
+		<rom name="Games Pack 4 (1981)(Acornsoft).uef" size="8390" crc="17255110" md5="a46c5f185f3ad2bf0d9e1372e65796e2" sha1="98df80200d5aacd7bf8aa98c60dc74848ad1d028"/>
+	</game>
+	<game name="Games Pack 8 (1981)(Acornsoft)">
+		<description>Games Pack 8 (1981)(Acornsoft)</description>
+		<rom name="Games Pack 8 (1981)(Acornsoft).uef" size="8659" crc="6ca83cd1" md5="0220a428594e9f7daef29f98e7117e17" sha1="b95b10021e5b85f814c4562c92ad1905da470b18"/>
+	</game>
+	<game name="Games Pack 9 (1981)(Acornsoft)">
+		<description>Games Pack 9 (1981)(Acornsoft)</description>
+		<rom name="Games Pack 9 (1981)(Acornsoft).uef" size="9710" crc="587742c0" md5="d4a8abca17c8306067d57270a41423b0" sha1="1b0f064539383c2255cc9a560607c1c7e62c5c7b"/>
+	</game>
+</datafile>

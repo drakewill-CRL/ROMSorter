@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C128 - Applications - CPM - [D64]</name>
+		<description>Commodore C128 - Applications - CPM - [D64] (TOSEC-v2018-03-25)</description>
+		<category>TOSEC</category>
+		<version>2018-03-25</version>
+		<author>Tomse</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+		<clrmamepro/>
+	</header>
+	<game name="Asm68 + Tools (19xx)(-)[req cpm][Asm68, Torbo Pascal]">
+		<description>Asm68 + Tools (19xx)(-)[req cpm][Asm68, Torbo Pascal]</description>
+		<rom name="Asm68 + Tools (19xx)(-)[req cpm][Asm68, Torbo Pascal].d64" size="174848" crc="bb17ac60" md5="4fc26d02f1b5e85e48d9c8d12008381c" sha1="68f56db83c740a8072a487f8d96d328ad5061d6d"/>
+	</game>
+	<game name="Cobol-80 v4.01 (1980)(Microsoft)[b TurboPascal][req cpm]">
+		<description>Cobol-80 v4.01 (1980)(Microsoft)[b TurboPascal][req cpm]</description>
+		<rom name="Cobol-80 v4.01 (1980)(Microsoft)[b TurboPascal][req cpm].d64" size="174848" crc="58ee8ac5" md5="27a55c0a9487833789b50d2ef50ad960" sha1="8de1ad064132d5af9392b19dd82f1a13f078c238"/>
+	</game>
+	<game name="Turbo Pascal v1.0 (1983)(Borland)">
+		<description>Turbo Pascal v1.0 (1983)(Borland)</description>
+		<rom name="Turbo Pascal v1.0 (1983)(Borland).d64" size="174848" crc="634ed104" md5="faa1416cfe428f8bbdd4b09ef8cd9e80" sha1="403c2dbae47acc5e96044fa8c9cd8a0ad093e3da"/>
+	</game>
+	<game name="Wordstar r3.00-2 (1981)(MicroPro)(de)(Side 1 of 2)[Mailmerge A]">
+		<description>Wordstar r3.00-2 (1981)(MicroPro)(de)(Side 1 of 2)[Mailmerge A]</description>
+		<rom name="Wordstar r3.00-2 (1981)(MicroPro)(de)(Side 1 of 2)[Mailmerge A].d64" size="174848" crc="bfdd5675" md5="42598c201bb99b6a0d3a63d6e80b2b80" sha1="aa7bdd490f8185b7ac1de684b258c31a78a6222f"/>
+	</game>
+	<game name="Wordstar r3.00-2 (1981)(MicroPro)(de)(Side 2 of 2)[b][Mailmerge B]">
+		<description>Wordstar r3.00-2 (1981)(MicroPro)(de)(Side 2 of 2)[b][Mailmerge B]</description>
+		<rom name="Wordstar r3.00-2 (1981)(MicroPro)(de)(Side 2 of 2)[b][Mailmerge B].d64" size="175531" crc="e19838de" md5="4dbcaad5551a29996b0efe5f6129f17a" sha1="36b0f1b02de0094619e05d2b625049d6183b40f0"/>
+	</game>
+</datafile>

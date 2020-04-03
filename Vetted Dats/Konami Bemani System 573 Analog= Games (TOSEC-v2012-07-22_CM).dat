@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Konami Bemani System 573 Analog - Games</name>
+		<description>Konami Bemani System 573 Analog - Games (TOSEC-v2012-07-22)</description>
+		<category>TOSEC-ISO</category>
+		<version>2012-07-22</version>
+		<author>TOSEC-ISO: Trurip</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Dance Dance Revolution 2nd Mix - Link Version (1999)(Konami)(JP)[885 JA B01]">
+		<description>Dance Dance Revolution 2nd Mix - Link Version (1999)(Konami)(JP)[885 JA B01]</description>
+		<rom name="Dance Dance Revolution 2nd Mix - Link Version (1999)(Konami)(JP)[885 JA B01].ccd" size="751" crc="cb671500" md5="93819b506582adbea234373b9d35bf3d" sha1="7bbcc503a8106f732826d829501efa07a31266bc"/>
+		<rom name="Dance Dance Revolution 2nd Mix - Link Version (1999)(Konami)(JP)[885 JA B01].img" size="19857936" crc="ae9ffa20" md5="bcd625a592cfc77a8970874a55ef19cb" sha1="95db8c6023055316bdf1ccb5c258a81ae9550ca3"/>
+		<rom name="Dance Dance Revolution 2nd Mix - Link Version (1999)(Konami)(JP)[885 JA B01].sub" size="810528" crc="0dd57092" md5="dd9ee99a3cdb21762125d2641b2ef3db" sha1="e8e34a535c328c66983265b96e68be8b9af83250"/>
+	</game>
+	<game name="Dance Dance Revolution 2nd Mix with Beatmania IIDX Substream - Club Version (1999)(Konami)(JP)[896 JA A01]">
+		<description>Dance Dance Revolution 2nd Mix with Beatmania IIDX Substream - Club Version (1999)(Konami)(JP)[896 JA A01]</description>
+		<rom name="Dance Dance Revolution 2nd Mix with Beatmania IIDX Substream - Club Version (1999)(Konami)(JP)[896 JA A01].ccd" size="751" crc="a2b3eded" md5="3acb4bb253f46bb56f0d53acbbda6d89" sha1="51571827754a3d7788b8ac88ba36ad7ebba345d3"/>
+		<rom name="Dance Dance Revolution 2nd Mix with Beatmania IIDX Substream - Club Version (1999)(Konami)(JP)[896 JA A01].img" size="19803840" crc="5c8834e5" md5="60f39bc9a3e1d7ca1d3e81e159ae04db" sha1="5a79690dbecd226576c8df96f528ff303885441a"/>
+		<rom name="Dance Dance Revolution 2nd Mix with Beatmania IIDX Substream - Club Version (1999)(Konami)(JP)[896 JA A01].sub" size="808320" crc="caa57885" md5="54886561aac101d68cbdab1912d58a64" sha1="fc9b1cdb82d8183db6fee0324fa010ce0e1fcde7"/>
+	</game>
+	<game name="Dance Dance Revolution 2nd Mix with Beatmania IIDX Substream - Club Version 2 (1999)(Konami)(JP)[GE984 A01]">
+		<description>Dance Dance Revolution 2nd Mix with Beatmania IIDX Substream - Club Version 2 (1999)(Konami)(JP)[GE984 A01]</description>
+		<rom name="Dance Dance Revolution 2nd Mix with Beatmania IIDX Substream - Club Version 2 (1999)(Konami)(JP)[GE984 A01].ccd" size="751" crc="07bbaa58" md5="24b3198674af7d990ef049afdcb6d455" sha1="4d410edbe140ebbf980df7119baa7b96803e08fb"/>
+		<rom name="Dance Dance Revolution 2nd Mix with Beatmania IIDX Substream - Club Version 2 (1999)(Konami)(JP)[GE984 A01].img" size="19808544" crc="13f1be25" md5="4c6e2a736b967cfc9f1dae2d5a053b78" sha1="796bbb830c36833fa1e3d74a777c1bc3ee96baa4"/>
+		<rom name="Dance Dance Revolution 2nd Mix with Beatmania IIDX Substream - Club Version 2 (1999)(Konami)(JP)[GE984 A01].sub" size="808512" crc="c456fd00" md5="df71f70318e3c3ebd52a53ff5d9de2bb" sha1="cb4386aedd2b7a14b6a149bd14d2987ba120dbff"/>
+	</game>
+</datafile>

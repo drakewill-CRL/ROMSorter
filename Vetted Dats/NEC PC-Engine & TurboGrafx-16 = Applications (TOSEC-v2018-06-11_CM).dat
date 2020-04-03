@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>NEC PC-Engine &amp; TurboGrafx-16 - Applications</name>
+		<description>NEC PC-Engine &amp; TurboGrafx-16 - Applications (TOSEC-v2018-06-11)</description>
+		<category>TOSEC</category>
+		<version>2018-06-11</version>
+		<author>Maddog</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Artist Tool (1989)(Hudson - NEC)(JP)">
+		<description>Artist Tool (1989)(Hudson - NEC)(JP)</description>
+		<rom name="Artist Tool (1989)(Hudson - NEC)(JP).pce" size="262144" crc="5e4fa713" md5="549d32279281af79c104f51a3c603628" sha1="691ac36ccfcade010e34e2d1dedbcc9af6ed5cd4"/>
+	</game>
+</datafile>

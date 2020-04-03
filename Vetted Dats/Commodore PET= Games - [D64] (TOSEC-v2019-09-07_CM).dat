@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore PET - Games - [D64]</name>
+		<description>Commodore PET - Games - [D64] (TOSEC-v2019-09-07)</description>
+		<category>TOSEC</category>
+		<version>2019-09-07</version>
+		<author>Tomse</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Bioterror! (2011)(Grow, Jason)">
+		<description>Bioterror! (2011)(Grow, Jason)</description>
+		<rom name="Bioterror! (2011)(Grow, Jason).d64" size="174848" crc="67dc1f22" md5="8d70e82f864d9e81705fc5f233f6f26d" sha1="b3a39eea1ae1a274f6a011c26172a7d123d761c6"/>
+	</game>
+</datafile>

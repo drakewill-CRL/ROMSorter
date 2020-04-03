@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>NEC Advanced Personal Computer - Sources</name>
+		<description>NEC Advanced Personal Computer - Sources (TOSEC-v2018-03-08)</description>
+		<category>TOSEC</category>
+		<version>2018-03-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="CPM-86 Source Code (1983)(Digital Research)[1.107-015-D]">
+		<description>CPM-86 Source Code (1983)(Digital Research)[1.107-015-D]</description>
+		<rom name="CPM-86 Source Code (1983)(Digital Research)[1.107-015-D].imd" size="1021107" crc="3dd2dd37" md5="3bc0284288f81b0df3d6ed87c5b1449b" sha1="fd2e9d1f894dde75c87e1acb518358c55cb70116"/>
+	</game>
+	<game name="Grafdraw v0.8 Source Code (1986)(Digital Research)[b]">
+		<description>Grafdraw v0.8 Source Code (1986)(Digital Research)[b]</description>
+		<rom name="Grafdraw v0.8 Source Code (1986)(Digital Research)[b].imd" size="638916" crc="6e1593dc" md5="78cb3ab6f6035bc701248ce696b441aa" sha1="f20b91a65a8d2e3bdaf98014486913f6026c4d1e"/>
+	</game>
+	<game name="NEC APC BIOS Source Code (198x)(NEC)">
+		<description>NEC APC BIOS Source Code (198x)(NEC)</description>
+		<rom name="NEC APC BIOS Source Code (198x)(NEC).imd" size="379840" crc="fdbc296e" md5="2492768cce473022d0d0892ff0c9c240" sha1="c95a6b7eff031ed6664cb4e25385168ffbdadedd"/>
+	</game>
+	<game name="NEC APC BIOS Source Code v1.1, 1.2 (198x)(NEC)">
+		<description>NEC APC BIOS Source Code v1.1, 1.2 (198x)(NEC)</description>
+		<rom name="NEC APC BIOS Source Code v1.1, 1.2 (198x)(NEC).imd" size="1114403" crc="fb98b653" md5="aa9e398f672b3595c98a4bfd62177b2a" sha1="c350f90cad32da3b57792c680bdea8ca02a92116"/>
+	</game>
+	<game name="NEC APC Utilities Source Code (198x)(NEC)">
+		<description>NEC APC Utilities Source Code (198x)(NEC)</description>
+		<rom name="NEC APC Utilities Source Code (198x)(NEC).imd" size="971078" crc="08714744" md5="0d67720f5e47b83afef26c999f0b1fdd" sha1="32bcc99b5e43b9f56103737915aa0591684e6ad6"/>
+	</game>
+</datafile>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>SNK Neo-Geo CD - Firmware</name>
+		<description>SNK Neo-Geo CD - Firmware (TOSEC-v2012-09-08)</description>
+		<category>TOSEC-ISO</category>
+		<version>2012-09-08</version>
+		<author>Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="SNK Neo-Geo CD BIOS (1994)(SNK)(en-ja)">
+		<description>SNK Neo-Geo CD BIOS (1994)(SNK)(en-ja)</description>
+		<rom name="SNK Neo-Geo CD BIOS (1994)(SNK)(en-ja).bin" size="524288" crc="c36a47c0" md5="122aee210324c72e8a11116e6ef9c0d0" sha1="235f4d1d74364415910f73c10ae5482d90b4274f"/>
+	</game>
+	<game name="SNK Neo-Geo CD BIOS (1994)(SNK)(JP)(en-ja)">
+		<description>SNK Neo-Geo CD BIOS (1994)(SNK)(JP)(en-ja)</description>
+		<rom name="SNK Neo-Geo CD BIOS (1994)(SNK)(JP)(en-ja).bin" size="524288" crc="cac62307" md5="5c2366f25ff92d71788468ca492ebeca" sha1="53bc1f283cdf00fa2efbb79f2e36d4c8038d743a"/>
+	</game>
+	<game name="SNK Neo-Geo CDZ BIOS (1995)(SNK)(JP)(en-ja)">
+		<description>SNK Neo-Geo CDZ BIOS (1995)(SNK)(JP)(en-ja)</description>
+		<rom name="SNK Neo-Geo CDZ BIOS (1995)(SNK)(JP)(en-ja).bin" size="524288" crc="df9de490" md5="f39572af7584cb5b3f70ae8cc848aba2" sha1="7bb26d1e5d1e930515219cb18bcde5b7b23e2eda"/>
+	</game>
+</datafile>

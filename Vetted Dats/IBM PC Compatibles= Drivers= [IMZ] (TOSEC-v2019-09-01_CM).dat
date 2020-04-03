@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>IBM PC Compatibles - Drivers - [IMZ]</name>
+		<description>IBM PC Compatibles - Drivers - [IMZ] (TOSEC-v2019-09-01)</description>
+		<category>TOSEC</category>
+		<version>2019-09-01</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Graphics Blaster 201-202 (1996-01)(Creative Technology)(Windows 3.1 Drivers-Application Installation Disk)[pn 0406330020]">
+		<description>Graphics Blaster 201-202 (1996-01)(Creative Technology)(Windows 3.1 Drivers-Application Installation Disk)[pn 0406330020]</description>
+		<rom name="Graphics Blaster 201-202 (1996-01)(Creative Technology)(Windows 3.1 Drivers-Application Installation Disk)[pn 0406330020].imz" size="1171270" crc="cb760f24" md5="face059e12c5407edfeb46ced1a90154" sha1="f91a2b420d099c86a50e43d0ed3fb898994fda66"/>
+	</game>
+	<game name="Graphics Blaster 201-202 (1996-01)(Creative Technology)(Windows 95 Application Disk)[pn 0406330030]">
+		<description>Graphics Blaster 201-202 (1996-01)(Creative Technology)(Windows 95 Application Disk)[pn 0406330030]</description>
+		<rom name="Graphics Blaster 201-202 (1996-01)(Creative Technology)(Windows 95 Application Disk)[pn 0406330030].imz" size="332200" crc="b1c1aa45" md5="7a43623ba3594b71d997551193ebe11e" sha1="6183aaa5eafe3a1e1e2115e805ab08a0007b2c98"/>
+	</game>
+	<game name="Graphics Blaster 201-202 (1996-01)(Creative Technology)(Windows 95 Installation Disk)[pn 0406330030]">
+		<description>Graphics Blaster 201-202 (1996-01)(Creative Technology)(Windows 95 Installation Disk)[pn 0406330030]</description>
+		<rom name="Graphics Blaster 201-202 (1996-01)(Creative Technology)(Windows 95 Installation Disk)[pn 0406330030].imz" size="810813" crc="62d6611e" md5="d8b412e9f1356e80f7aa1824d780228d" sha1="1c789fdd8c1eae62ce3f400528a8c47091cbd73b"/>
+	</game>
+	<game name="Sound Blaster CD-ROM Installation - CR563 (1993)(Creative Labs)[OS-2 drivers][pn 1213331012]">
+		<description>Sound Blaster CD-ROM Installation - CR563 (1993)(Creative Labs)[OS-2 drivers][pn 1213331012]</description>
+		<rom name="Sound Blaster CD-ROM Installation - CR563 (1993)(Creative Labs)[OS-2 drivers][pn 1213331012].imz" size="276691" crc="4ead62ea" md5="e46da3020f46251f28cd41b527a2a163" sha1="eed32068dc1dfb18b95c2115bf6a2b5d9360a2fa"/>
+	</game>
+	<game name="SYSUTIL v09.00.00.04 (1997-10-16)(Intergraph)(US)[Symbios SYM53C8xx]">
+		<description>SYSUTIL v09.00.00.04 (1997-10-16)(Intergraph)(US)[Symbios SYM53C8xx]</description>
+		<rom name="SYSUTIL v09.00.00.04 (1997-10-16)(Intergraph)(US)[Symbios SYM53C8xx].imz" size="164243" crc="de493d22" md5="6c3e0d06ad9b6ba1b00ad6f2b411eb5d" sha1="3489a7a6784e911216174ea4ec648670608f4de0"/>
+	</game>
+</datafile>

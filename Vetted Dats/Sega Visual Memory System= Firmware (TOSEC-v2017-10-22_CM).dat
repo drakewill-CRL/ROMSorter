@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega Visual Memory System - Firmware</name>
+		<description>Sega Visual Memory System - Firmware (TOSEC-v2017-10-22)</description>
+		<category>TOSEC</category>
+		<version>2017-10-22</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Sega Visual Memory System BIOS v1.004 (1998-09-30)(Sega)(JP)">
+		<description>Sega Visual Memory System BIOS v1.004 (1998-09-30)(Sega)(JP)</description>
+		<rom name="Sega Visual Memory System BIOS v1.004 (1998-09-30)(Sega)(JP).bin" size="65536" crc="8e0f867a" md5="1c75e99bdc6d88a855da1ce212c2b38a" sha1="dc2fa2963138a1049a43f7f36439ad0a416ee8b4"/>
+	</game>
+	<game name="Sega Visual Memory System BIOS v1.05 (1999-10-26)(Sega)(US)">
+		<description>Sega Visual Memory System BIOS v1.05 (1999-10-26)(Sega)(US)</description>
+		<rom name="Sega Visual Memory System BIOS v1.05 (1999-10-26)(Sega)(US).bin" size="65536" crc="c825003a" md5="322054c6d7b7ea5fd0388eee7b636fb0" sha1="6242320d705c156f8369969d6caa8c737f01e4f3"/>
+	</game>
+</datafile>

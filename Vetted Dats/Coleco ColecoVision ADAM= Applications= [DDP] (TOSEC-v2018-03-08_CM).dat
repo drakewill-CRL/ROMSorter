@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Coleco ColecoVision ADAM - Applications - [DDP]</name>
+		<description>Coleco ColecoVision ADAM - Applications - [DDP] (TOSEC-v2018-03-08)</description>
+		<category>TOSEC</category>
+		<version>2018-03-08</version>
+		<author>Grendel - Cid - Cassiel - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Adam Link II Communications Package (1983)(Coleco)">
+		<description>Adam Link II Communications Package (1983)(Coleco)</description>
+		<rom name="Adam Link II Communications Package (1983)(Coleco).ddp" size="262144" crc="6dbf9745" md5="a6ac5e21b316ce6d9f126ed036a893e4" sha1="571bec0d8f2a99a7f7b368d76c7b343b438ff841"/>
+	</game>
+	<game name="Address Book (1984)(Coleco)">
+		<description>Address Book (1984)(Coleco)</description>
+		<rom name="Address Book (1984)(Coleco).ddp" size="262144" crc="8fba1389" md5="9f6012dee39aa7035dfbf200cf956ce7" sha1="47b5737eafd9e778aba2a05c93f4551a4b3eb21a"/>
+	</game>
+	<game name="CopyCart+ v1.1 (19xx)(-)">
+		<description>CopyCart+ v1.1 (19xx)(-)</description>
+		<rom name="CopyCart+ v1.1 (19xx)(-).ddp" size="262144" crc="68e33a4d" md5="838588d2add4364cc9d8d1718a17e7a9" sha1="609435b33a088b888d15daaa215371381e1ec193"/>
+	</game>
+	<game name="Smart Letters and Forms (1984)(Coleco)">
+		<description>Smart Letters and Forms (1984)(Coleco)</description>
+		<rom name="Smart Letters and Forms (1984)(Coleco).ddp" size="262144" crc="8271b8d4" md5="3273bbdbcd66469fb064ad6e0bd89dd1" sha1="4b982126a4f27c6350f91b680c1d48d0c2f627f8"/>
+	</game>
+	<game name="SmartLOGO (1984)(LOGO Computer Systems)">
+		<description>SmartLOGO (1984)(LOGO Computer Systems)</description>
+		<rom name="SmartLOGO (1984)(LOGO Computer Systems).ddp" size="262144" crc="15377f7e" md5="fa676eb8bdd6d9bf6b3f93d106d6a3a1" sha1="6cdd5489c560afa0024a4489e23332ea70e21f05"/>
+	</game>
+</datafile>

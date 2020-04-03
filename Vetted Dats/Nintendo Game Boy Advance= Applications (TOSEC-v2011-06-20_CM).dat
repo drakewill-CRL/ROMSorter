@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo Game Boy Advance - Applications</name>
+		<description>Nintendo Game Boy Advance - Applications (TOSEC-v2011-06-20)</description>
+		<category>TOSEC</category>
+		<version>2011-06-20</version>
+		<author>Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Calculator Advance v1.0 (2005)(Pierce, Patrick - Ulrich, Harrison)(PD)">
+		<description>Calculator Advance v1.0 (2005)(Pierce, Patrick - Ulrich, Harrison)(PD)</description>
+		<rom name="Calculator Advance v1.0 (2005)(Pierce, Patrick - Ulrich, Harrison)(PD).bin" size="473812" crc="803a581a" md5="476cb35ce706db3fa3eea0f4bc09c51b" sha1="0ddeacc1523a54e849631481a81c15df85404455"/>
+	</game>
+</datafile>

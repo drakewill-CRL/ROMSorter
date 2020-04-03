@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64DTV - Applications - [D64]</name>
+		<description>Commodore C64DTV - Applications - [D64] (TOSEC-v2013-03-05)</description>
+		<category>TOSEC</category>
+		<version>2013-03-05</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="DMA loader II (2010-04-02)(tlr)">
+		<description>DMA loader II (2010-04-02)(tlr)</description>
+		<rom name="DMA loader II (2010-04-02)(tlr).d64" size="174848" crc="565316e4" md5="96341fd28c7eefd0856d3a322851d3d2" sha1="dc1bdedd9bd1633764189b2982b11e87973ee89b"/>
+	</game>
+</datafile>

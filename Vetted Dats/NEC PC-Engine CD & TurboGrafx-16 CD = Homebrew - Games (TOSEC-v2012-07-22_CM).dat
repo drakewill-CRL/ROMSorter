@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>NEC PC-Engine CD &amp; TurboGrafx-16 CD - Homebrew - Games</name>
+		<description>NEC PC-Engine CD &amp; TurboGrafx-16 CD - Homebrew - Games (TOSEC-v2012-07-22)</description>
+		<category>TOSEC-ISO</category>
+		<version>2012-07-22</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Frog Feast (demo) (2005)(RasterSoft)(NTSC)(PD)[Req Super CD-ROM2]">
+		<description>Frog Feast (demo) (2005)(RasterSoft)(NTSC)(PD)[Req Super CD-ROM2]</description>
+		<rom name="Frog Feast (demo) (2005)(RasterSoft)(NTSC)(PD)[Req Super CD-ROM2].iso" size="921600" crc="37116a87" md5="e3738da1900544b382000e6ba417915d" sha1="742a671724f5bc69350997a8b328a9cbe8191730"/>
+	</game>
+</datafile>

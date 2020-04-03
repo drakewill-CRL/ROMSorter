@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nascom I &amp; II - Applications - [NAS]</name>
+		<description>Nascom I &amp; II - Applications - [NAS] (TOSEC-v2014-04-11)</description>
+		<category>TOSEC</category>
+		<version>2014-04-11</version>
+		<author>Grendel - Cid - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="2 Character, The (19xx)(-)[set at location 8000 for Graphedt.nas][monitor]">
+		<description>2 Character, The (19xx)(-)[set at location 8000 for Graphedt.nas][monitor]</description>
+		<rom name="2 Character, The (19xx)(-)[set at location 8000 for Graphedt.nas][monitor].nas" size="17923" crc="ef905b05" md5="8697726c73e51e7dac632bb18b4e428c" sha1="726d7aeb456b903d96cea925015c50f8bf9a72f1"/>
+	</game>
+	<game name="3k Tiny BASIC Interpreter (19xx)(-)">
+		<description>3k Tiny BASIC Interpreter (19xx)(-)</description>
+		<rom name="3k Tiny BASIC Interpreter (19xx)(-).nas" size="13443" crc="e380b2b2" md5="ce2e982f89660d3ee162ef26cc553cc6" sha1="be12077995c4195a76743528b170d6e2f5f3726c"/>
+	</game>
+	<game name="8k Tape-BASIC Code (19xx)(-)[Nas-Sys]">
+		<description>8k Tape-BASIC Code (19xx)(-)[Nas-Sys]</description>
+		<rom name="8k Tape-BASIC Code (19xx)(-)[Nas-Sys].nas" size="37891" crc="136dd9e5" md5="3c290249857846ca3cf376a1d120b4d1" sha1="182f3e33dc8754fdd86fa1bf7429f63d2638bdfa"/>
+	</game>
+	<game name="8k Tape-BASIC Code (19xx)(-)[T4]">
+		<description>8k Tape-BASIC Code (19xx)(-)[T4]</description>
+		<rom name="8k Tape-BASIC Code (19xx)(-)[T4].nas" size="36867" crc="62d5a3d3" md5="e112483ffd923df30501aafbca813a97" sha1="9c638d2b091bd0fd86cd6a152d0dedafb6b646ea"/>
+	</game>
+	<game name="Asscroll 2 ZEAP v2.x (19xx)(-)">
+		<description>Asscroll 2 ZEAP v2.x (19xx)(-)</description>
+		<rom name="Asscroll 2 ZEAP v2.x (19xx)(-).nas" size="8963" crc="249e0fe1" md5="cb9426b54f2adecb89e675df886447d0" sha1="0548a6054c1fecbdd4a3feae9ff446fedc0425f0"/>
+	</game>
+	<game name="Assembler NAP (19xx)(-)">
+		<description>Assembler NAP (19xx)(-)</description>
+		<rom name="Assembler NAP (19xx)(-).nas" size="17923" crc="e3a2a06f" md5="cf914bdaf6fb8ace96174e3b0d93b447" sha1="16edff010fba489650a433333387f695c5625af1"/>
+	</game>
+	<game name="Assembler ZEAP v2.1 (19xx)(-)">
+		<description>Assembler ZEAP v2.1 (19xx)(-)</description>
+		<rom name="Assembler ZEAP v2.1 (19xx)(-).nas" size="17923" crc="6096f5c6" md5="1aaaa3f1656fad9d7aa345673d1ca667" sha1="c77e37b37fce87cb9cfea30a7d359dcd4b66e069"/>
+	</game>
+	<game name="BLS Pascal v1.0 (1981)(Poly-Data Microcenter)[ROM Version]">
+		<description>BLS Pascal v1.0 (1981)(Poly-Data Microcenter)[ROM Version]</description>
+		<rom name="BLS Pascal v1.0 (1981)(Poly-Data Microcenter)[ROM Version].nas" size="53763" crc="344a3347" md5="a76ff5b52b62fb4324e7dcc0ed08bc73" sha1="e5aae9af8498e27f8d3021ecf8dc718a0ae92118"/>
+	</game>
+	<game name="BLS Pascal v1.2 (1981)(Poly-Data Microcenter)[RAM Version]">
+		<description>BLS Pascal v1.2 (1981)(Poly-Data Microcenter)[RAM Version]</description>
+		<rom name="BLS Pascal v1.2 (1981)(Poly-Data Microcenter)[RAM Version].nas" size="53763" crc="f50f0293" md5="eb7ca416d2ef477230f7157961aa44f3" sha1="3fa05599f322b5a54921012f26682279228ab9b3"/>
+	</game>
+	<game name="BLS Pascal v1.3 (1982)(Poly-Data Microcenter)">
+		<description>BLS Pascal v1.3 (1982)(Poly-Data Microcenter)</description>
+		<rom name="BLS Pascal v1.3 (1982)(Poly-Data Microcenter).nas" size="13508" crc="6d83059a" md5="65e66a3a02b48a27fffa982fd5495c4e" sha1="88a7fcf5e3d53c006dda806fbed6cad973e12591"/>
+	</game>
+	<game name="Character Definition Editor, A (19xx)(-)[Req BASIC][monitor]">
+		<description>Character Definition Editor, A (19xx)(-)[Req BASIC][monitor]</description>
+		<rom name="Character Definition Editor, A (19xx)(-)[Req BASIC][monitor].nas" size="6933" crc="90298c74" md5="2437e95c58cedc87c1840eb204e8218c" sha1="8eeae107d2493c1304c7ca5715c72a6b396b7bca"/>
+	</game>
+	<game name="Character Generator (19xx)(-)">
+		<description>Character Generator (19xx)(-)</description>
+		<rom name="Character Generator (19xx)(-).nas" size="17924" crc="04e85906" md5="08ebdbab4e75a739830871a2ffc0c8a5" sha1="37abcd1fb122ac023613c2ce95eab67312495cea"/>
+	</game>
+	<game name="Compression Assembler COMPASS v1.3 (19xx)(Level 9 Computing)">
+		<description>Compression Assembler COMPASS v1.3 (19xx)(Level 9 Computing)</description>
+		<rom name="Compression Assembler COMPASS v1.3 (19xx)(Level 9 Computing).nas" size="46483" crc="8dbc69a9" md5="587e789530330b738e18867c1ce1c09d" sha1="b1eeed1677e2efd8d8424b60cbff2402002cb2a8"/>
+	</game>
+	<game name="Convert ZEAP files to COMPASS v1.3 files (19xx)(Level 9 Computing)">
+		<description>Convert ZEAP files to COMPASS v1.3 files (19xx)(Level 9 Computing)</description>
+		<rom name="Convert ZEAP files to COMPASS v1.3 files (19xx)(Level 9 Computing).nas" size="5603" crc="d508f9d8" md5="375301a047a2dd8b7d4272e3a912325a" sha1="a5243db1a7b2e48fc5f89691f16ba41e18632f9b"/>
+	</game>
+	<game name="Debugger Super-Trace (19xx)(-)">
+		<description>Debugger Super-Trace (19xx)(-)</description>
+		<rom name="Debugger Super-Trace (19xx)(-).nas" size="13443" crc="3fc16a3f" md5="f21236e471fb5e15ccb198dc92ce7f98" sha1="daa83e078626f12aaffce16edb97fdae96d64a4e"/>
+	</game>
+	<game name="Demon, The (19xx)(-)[monitor]">
+		<description>Demon, The (19xx)(-)[monitor]</description>
+		<rom name="Demon, The (19xx)(-)[monitor].nas" size="843" crc="12c313b4" md5="619ed47094553df46ef108cf9c76374b" sha1="9d2ce31603b704478ec8df61f27c2fec3708a436"/>
+	</game>
+	<game name="Disassembler NIP (19xx)(-)">
+		<description>Disassembler NIP (19xx)(-)</description>
+		<rom name="Disassembler NIP (19xx)(-).nas" size="13443" crc="551c57bd" md5="90c9371670bfe6d0cdb7cf36e27213d6" sha1="5df3c2cbeb3ac54d1c3765b81503be739feb4979"/>
+	</game>
+	<game name="Disassembler with NASSYS extentions (19xx)(-)[Start E6000]">
+		<description>Disassembler with NASSYS extentions (19xx)(-)[Start E6000]</description>
+		<rom name="Disassembler with NASSYS extentions (19xx)(-)[Start E6000].nas" size="13443" crc="9c5f13d6" md5="439c4cf5c9f1510346c7074a5c3020a9" sha1="2369fe4bb6c078319e45b6ca85ff905ef7c17e58"/>
+	</game>
+	<game name="Eprommer Software for Prommer-80 ECB card (19xx)(-)[start E8000][hw driver]">
+		<description>Eprommer Software for Prommer-80 ECB card (19xx)(-)[start E8000][hw driver]</description>
+		<rom name="Eprommer Software for Prommer-80 ECB card (19xx)(-)[start E8000][hw driver].nas" size="17923" crc="c0c04911" md5="3ad0fd41468261ce6e0262d028442341" sha1="8623b2e08a3b6f87dc353feefd75e1ffce23e8bf"/>
+	</game>
+	<game name="Extention BASIC v1.3 (19xx)(Level 9 Computing)[keywords for the NASCOM ROM BASIC]">
+		<description>Extention BASIC v1.3 (19xx)(Level 9 Computing)[keywords for the NASCOM ROM BASIC]</description>
+		<rom name="Extention BASIC v1.3 (19xx)(Level 9 Computing)[keywords for the NASCOM ROM BASIC].nas" size="35843" crc="c2f13fbe" md5="a90ce9c56ccd95f533760a743b70cdca" sha1="a532be4b784f42884a5dfb872d9435ddab870197"/>
+	</game>
+	<game name="Gener-80 Assembler (19xx)(-)">
+		<description>Gener-80 Assembler (19xx)(-)</description>
+		<rom name="Gener-80 Assembler (19xx)(-).nas" size="30243" crc="2147b550" md5="f3e64bbd69878fa7a661d0d15449e759" sha1="1c0aac814eb91391c8d5c43c1781747b5a62ca47"/>
+	</game>
+	<game name="Hisoft Pascal v1.0 (1982)(Hisoft)">
+		<description>Hisoft Pascal v1.0 (1982)(Hisoft)</description>
+		<rom name="Hisoft Pascal v1.0 (1982)(Hisoft).nas" size="92333" crc="7b384508" md5="cedd478ba5c62b81d966676e2420ce74" sha1="d5c7db305a31e9a2f5d64ff62403f94776bd53e8"/>
+	</game>
+	<game name="Hisoft Pascal v1.5 (1983)(Hisoft)">
+		<description>Hisoft Pascal v1.5 (1983)(Hisoft)</description>
+		<rom name="Hisoft Pascal v1.5 (1983)(Hisoft).nas" size="91843" crc="bb0c2b28" md5="6d9266a7f6bf4032531b8312cd95252b" sha1="4edc53c12628aa7b7b5cd1df3852a96521c01a56"/>
+	</game>
+	<game name="Hisoft Pascal v2.0 (1983)(Hisoft)">
+		<description>Hisoft Pascal v2.0 (1983)(Hisoft)</description>
+		<rom name="Hisoft Pascal v2.0 (1983)(Hisoft).nas" size="94083" crc="8c2bf9f2" md5="bda24ee0b5f7f5cd123c334e40e8a9d3" sha1="b6a46f2986dae3577e03bb71c4f59db87a87a369"/>
+	</game>
+	<game name="Hisoft Pascal v4.0 (1983)(Hisoft)">
+		<description>Hisoft Pascal v4.0 (1983)(Hisoft)</description>
+		<rom name="Hisoft Pascal v4.0 (1983)(Hisoft).nas" size="23537" crc="ecc6607d" md5="d4d22cfc9d854bc5815303bf488eaba9" sha1="00d9f5a90c0e8cac534c873092a6b8d0c6a26963"/>
+	</game>
+	<game name="Hobbit - A Nas-Sys extention for the Philips MDCR Mini Digital Cassette Recorder (19xx)(-)[hw driver]">
+		<description>Hobbit - A Nas-Sys extention for the Philips MDCR Mini Digital Cassette Recorder (19xx)(-)[hw driver]</description>
+		<rom name="Hobbit - A Nas-Sys extention for the Philips MDCR Mini Digital Cassette Recorder (19xx)(-)[hw driver].nas" size="8963" crc="a7b15303" md5="bc1fdfa145a206fb3641cfcd1b3d8e00" sha1="ecd848ab747dc7293f21194bc8f230749b3c9c06"/>
+	</game>
+	<game name="Hull Forth Interpreter-Compiler (1982)(-)">
+		<description>Hull Forth Interpreter-Compiler (1982)(-)</description>
+		<rom name="Hull Forth Interpreter-Compiler (1982)(-).nas" size="35843" crc="e18777f4" md5="bc1455b34a1c15caf17d539c183ed2f0" sha1="c7cb30468c571dcc54506166c8e4fc0862bb6460"/>
+	</game>
+	<game name="Hull Forth v1.1 (1981)(Aftw-Psc)">
+		<description>Hull Forth v1.1 (1981)(Aftw-Psc)</description>
+		<rom name="Hull Forth v1.1 (1981)(Aftw-Psc).nas" size="13288" crc="3b13bd44" md5="81e54e53c2b39d792fdb4f5983c24c5b" sha1="9149c4b62c8edf4e6715d7477f117a9e26f85463"/>
+	</game>
+	<game name="Integer Pascal Compiler (1980)(-)">
+		<description>Integer Pascal Compiler (1980)(-)</description>
+		<rom name="Integer Pascal Compiler (1980)(-).nas" size="40271" crc="09515d49" md5="11735379b9b184f1fcc451e3bb56f10c" sha1="6ba1235b79177894019e32467756d7f16cc0f154"/>
+	</game>
+	<game name="NAS-DEBUG and NAS-DIS (19xx)(-)">
+		<description>NAS-DEBUG and NAS-DIS (19xx)(-)</description>
+		<rom name="NAS-DEBUG and NAS-DIS (19xx)(-).nas" size="17923" crc="ae6a6b48" md5="f778510f18b6fefc5849267127f5bc93" sha1="9091ced58147ced8bfd8e91d607be392027d4c99"/>
+	</game>
+	<game name="NAS-Forth v1.11 (19xx)(-)">
+		<description>NAS-Forth v1.11 (19xx)(-)</description>
+		<rom name="NAS-Forth v1.11 (19xx)(-).nas" size="41443" crc="fe20d501" md5="a20273df7af870afc1c3851939c12232" sha1="f4578ac51d808b45780304d14a48fca6762e4e7d"/>
+	</game>
+	<game name="Nas-Graphpac v1.0 for NASCOM BASIC (1982)(CCsoft)">
+		<description>Nas-Graphpac v1.0 for NASCOM BASIC (1982)(CCsoft)</description>
+		<rom name="Nas-Graphpac v1.0 for NASCOM BASIC (1982)(CCsoft).nas" size="14563" crc="b539c523" md5="b8c7fd68bc9ede823982f777fe66210b" sha1="9f1a27ba8814a8958c3e8134a8bc4e20645aff43"/>
+	</game>
+	<game name="Nas-Sys 1 (19xx)(-)[monitor]">
+		<description>Nas-Sys 1 (19xx)(-)[monitor]</description>
+		<rom name="Nas-Sys 1 (19xx)(-)[monitor].nas" size="8963" crc="8c5465f1" md5="43619bdc2663818196372c79f2a2c6a4" sha1="651c5f307f713ed7eff238ea7f029090c0dedecb"/>
+	</game>
+	<game name="Nas-Sys 3 (19xx)(-)[monitor]">
+		<description>Nas-Sys 3 (19xx)(-)[monitor]</description>
+		<rom name="Nas-Sys 3 (19xx)(-)[monitor].nas" size="8963" crc="8037160a" md5="01a5c603cf168a58f95847fcb708d44c" sha1="3364fec06177ba1aa09f17e2b1a4b7b327eec762"/>
+	</game>
+	<game name="Nas-Sys Toolkit (19xx)(-)[keywords for the NASCOM ROM BASIC]">
+		<description>Nas-Sys Toolkit (19xx)(-)[keywords for the NASCOM ROM BASIC]</description>
+		<rom name="Nas-Sys Toolkit (19xx)(-)[keywords for the NASCOM ROM BASIC].nas" size="9487" crc="ac2b6475" md5="a5845f9c5268dd1855d1d6f799445972" sha1="53f21d8ada4d4aaa2d4df081f32736ef83a3cefe"/>
+	</game>
+	<game name="Nasbug T2 (19xx)(-)[monitor]">
+		<description>Nasbug T2 (19xx)(-)[monitor]</description>
+		<rom name="Nasbug T2 (19xx)(-)[monitor].nas" size="4483" crc="051e1c20" md5="ee08c7496166b8155482fdbb5ecd1ede" sha1="2a3ce23da50700c3d03ae72708bba404d19afe44"/>
+	</game>
+	<game name="Nasbug T4 (19xx)(-)[monitor]">
+		<description>Nasbug T4 (19xx)(-)[monitor]</description>
+		<rom name="Nasbug T4 (19xx)(-)[monitor].nas" size="8963" crc="08d7a480" md5="0c413dbc3ccfc1d707155f72c80f2820" sha1="686814058a8cc308263e227aba3acaea7a2507bd"/>
+	</game>
+	<game name="NasCalc (19xx)(-)[Req BASIC][start E5000]">
+		<description>NasCalc (19xx)(-)[Req BASIC][start E5000]</description>
+		<rom name="NasCalc (19xx)(-)[Req BASIC][start E5000].nas" size="8963" crc="fece96a9" md5="5b7d3fb695daa768c58ed1d9c6a63554" sha1="7e58c195e47ecc7ad5e7fb448a4574b295b3c532"/>
+	</game>
+	<game name="Naspen v1.0 for Nas-Sys (19xx)(-)">
+		<description>Naspen v1.0 for Nas-Sys (19xx)(-)</description>
+		<rom name="Naspen v1.0 for Nas-Sys (19xx)(-).nas" size="9487" crc="68cc7e25" md5="1b1ebdffc3a619df6a66ee29347d3bbc" sha1="47e461887a0fda52fe5cfdbbe54d4fb4b3dd9727"/>
+	</game>
+	<game name="Naspen v2.0 for Nas-Sys (19xx)(-)[e8000]">
+		<description>Naspen v2.0 for Nas-Sys (19xx)(-)[e8000]</description>
+		<rom name="Naspen v2.0 for Nas-Sys (19xx)(-)[e8000].nas" size="17923" crc="649c2d18" md5="3e883fafb4182e756c5e64ffb40ce301" sha1="416c7e69fb1943463cc67fdbbd8aa84183e92bae"/>
+	</game>
+	<game name="Pascal v2.0 (1981)(-)">
+		<description>Pascal v2.0 (1981)(-)</description>
+		<rom name="Pascal v2.0 (1981)(-).nas" size="53763" crc="f31b5256" md5="8348d4f8ad369ac813220f89e113cfbe" sha1="fab3d591cf80a2e09d7aebc774a42d6d9a0db1d3"/>
+	</game>
+	<game name="ROM BASIC (1978)(Microsoft)">
+		<description>ROM BASIC (1978)(Microsoft)</description>
+		<rom name="ROM BASIC (1978)(Microsoft).nas" size="35843" crc="2151a79a" md5="b121b30d49223e0a0e34875b6871a055" sha1="e1968ae7ad7a7ce8ebcd422de474a57cc5e69f7b"/>
+	</game>
+	<game name="ROM BASIC extentions for the Advanced Video Card (19xx)(-)[hw driver]">
+		<description>ROM BASIC extentions for the Advanced Video Card (19xx)(-)[hw driver]</description>
+		<rom name="ROM BASIC extentions for the Advanced Video Card (19xx)(-)[hw driver].nas" size="37033" crc="48ccc050" md5="7fc2987e6263d8017fd93865dd95af32" sha1="e4231861ac193620162de440550fb2d5bbcafc03"/>
+	</game>
+	<game name="Software for 2708-2716 EPROM Programmer (1980)(Nascom)">
+		<description>Software for 2708-2716 EPROM Programmer (1980)(Nascom)</description>
+		<rom name="Software for 2708-2716 EPROM Programmer (1980)(Nascom).nas" size="4483" crc="6215af0d" md5="670649eb2a6de0dbb0619eb80b94c8de" sha1="8d81aee065077441edc6dc283ebd327d17bf32f4"/>
+	</game>
+	<game name="SysEx Nas-Sys Extender (19xx)(-)[monitor]">
+		<description>SysEx Nas-Sys Extender (19xx)(-)[monitor]</description>
+		<rom name="SysEx Nas-Sys Extender (19xx)(-)[monitor].nas" size="8963" crc="c2280e64" md5="d4d0f1106ebda71bcbd3484349cd5017" sha1="7de4912190fcb30350c64bafcc77e7d2955b8ee1"/>
+	</game>
+	<game name="T-Forth from the german Nascom Journal (19xx)(-)">
+		<description>T-Forth from the german Nascom Journal (19xx)(-)</description>
+		<rom name="T-Forth from the german Nascom Journal (19xx)(-).nas" size="22403" crc="e6ed1ea7" md5="9457dcffb457076a77b06bce6c4a9b16" sha1="0ee642d207a7550db3348d6d22e7f82650c1854f"/>
+	</game>
+	<game name="V &amp; T Assembler (19xx)(-)">
+		<description>V &amp; T Assembler (19xx)(-)</description>
+		<rom name="V &amp; T Assembler (19xx)(-).nas" size="21913" crc="3bab84a0" md5="4587d1b40a9e63fb6c1d320afa277ea6" sha1="e3714ef515a031fcfe6bf0c5c2da68bbb79c539f"/>
+	</game>
+	<game name="Wordease (19xx)(-)[cold start at EF002]">
+		<description>Wordease (19xx)(-)[cold start at EF002]</description>
+		<rom name="Wordease (19xx)(-)[cold start at EF002].nas" size="17923" crc="c3e33b43" md5="3046a6a9a12db0a8477d7eb5bffeeb0e" sha1="17ba7d5871ed8961d3025d16d071964aaf7e785e"/>
+	</game>
+	<game name="Xtal BASIC (19xx)(-)">
+		<description>Xtal BASIC (19xx)(-)</description>
+		<rom name="Xtal BASIC (19xx)(-).nas" size="59363" crc="e82f4937" md5="9bd23b7fe2f47d7ea6491142c48e3152" sha1="d69f6412fa6a8477b1b9f899faa947f2c70588ed"/>
+	</game>
+	<game name="Xtal BASIC v2.2 (19xx)(-)">
+		<description>Xtal BASIC v2.2 (19xx)(-)</description>
+		<rom name="Xtal BASIC v2.2 (19xx)(-).nas" size="37523" crc="00a63143" md5="e22ae0d79ca810126496732f65c8ef57" sha1="f868ea38eee708272041e09a3c172b9eaf431c88"/>
+	</game>
+	<game name="Z-80 Relocator (1981)(Logic Soft)">
+		<description>Z-80 Relocator (1981)(Logic Soft)</description>
+		<rom name="Z-80 Relocator (1981)(Logic Soft).nas" size="6723" crc="429c1da1" md5="ddd0ed7a565ca2d7aa12f38fbd840fe2" sha1="201368288944f8d631bf01210e2e3ef79a913a14"/>
+	</game>
+</datafile>

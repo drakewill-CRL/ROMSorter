@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Megatel Quark - Sources - [DMK]</name>
+		<description>Megatel Quark - Sources - [DMK] (TOSEC-v2017-04-05)</description>
+		<category>TOSEC</category>
+		<version>2017-04-05</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<url>http://www.tosecdev.org</url>
+		<clrmamepro/>
+	</header>
+	<game name="Quark Distribution Source 1 Disk (1985-10-15)(Digital Research - Megatel Computer Technologies)">
+		<description>Quark Distribution Source 1 Disk (1985-10-15)(Digital Research - Megatel Computer Technologies)</description>
+		<rom name="Quark Distribution Source 1 Disk (1985-10-15)(Digital Research - Megatel Computer Technologies).dmk" size="228496" crc="dfc501e8" md5="114ea56dfe821883f6d013b14dd26d6d" sha1="eb93dd050042a024a22e9c5bc548c275a7849acf"/>
+	</game>
+	<game name="Quark Distribution Source 2 Disk (1985-10-15)(Digital Research - Megatel Computer Technologies)">
+		<description>Quark Distribution Source 2 Disk (1985-10-15)(Digital Research - Megatel Computer Technologies)</description>
+		<rom name="Quark Distribution Source 2 Disk (1985-10-15)(Digital Research - Megatel Computer Technologies).dmk" size="228496" crc="04331b61" md5="11ba19fa75b37d45698ead353a416fe3" sha1="3eac27fa0c1642876b93d6bb34f16af93e8cfd00"/>
+	</game>
+</datafile>

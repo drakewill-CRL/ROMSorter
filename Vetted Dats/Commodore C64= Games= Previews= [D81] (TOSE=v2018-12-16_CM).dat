@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Games - Previews - [D81]</name>
+		<description>Commodore C64 - Games - Previews - [D81] (TOSEC-v2018-12-16)</description>
+		<category>TOSEC</category>
+		<version>2018-12-16</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Aftermath (1990)(Mark A. Dickenson)">
+		<description>Aftermath (1990)(Mark A. Dickenson)</description>
+		<rom name="Aftermath (1990)(Mark A. Dickenson).d81" size="819200" crc="83c25532" md5="0545d7fae3d88a92de3946d3c97f09a2" sha1="32125871aec7d59e452d1bfb117fe5273fd93039"/>
+	</game>
+	<game name="Ghosts&apos;n Goblins Arcade (demo) (2015)(Butler, Chris - Verschueren, Erhan - Verschueren, Geert - Kac, Tomaz)[cr N0]">
+		<description>Ghosts&apos;n Goblins Arcade (demo) (2015)(Butler, Chris - Verschueren, Erhan - Verschueren, Geert - Kac, Tomaz)[cr N0]</description>
+		<rom name="Ghosts&apos;n Goblins Arcade (demo) (2015)(Butler, Chris - Verschueren, Erhan - Verschueren, Geert - Kac, Tomaz)[cr N0].d81" size="819200" crc="c241df4b" md5="af236b27d6420fd36efcb4c980b54979" sha1="bba86274eca9a4aaa63d1eec205e9c281e04269d"/>
+	</game>
+	<game name="Ghosts&apos;n Goblins Arcade (demo) (2015)(Butler, Chris - Verschueren, Erhan - Verschueren, Geert - Kac, Tomaz)[cr N0][a]">
+		<description>Ghosts&apos;n Goblins Arcade (demo) (2015)(Butler, Chris - Verschueren, Erhan - Verschueren, Geert - Kac, Tomaz)[cr N0][a]</description>
+		<rom name="Ghosts&apos;n Goblins Arcade (demo) (2015)(Butler, Chris - Verschueren, Erhan - Verschueren, Geert - Kac, Tomaz)[cr N0][a].d81" size="819200" crc="4d4ee699" md5="dd1cd4f648c88e1f7af22cb725f6cb4a" sha1="b5892a85762e6b2cadf416cbf5964205ed837ec4"/>
+	</game>
+	<game name="Yogi&apos;s Big Clean Up (1992)(Hi-Tec)">
+		<description>Yogi&apos;s Big Clean Up (1992)(Hi-Tec)</description>
+		<rom name="Yogi&apos;s Big Clean Up (1992)(Hi-Tec).d81" size="819200" crc="3839dbee" md5="e0df8c1fa564af7bd3699dc266e4f69e" sha1="28d9f15bec98d541cb10787f31375bb546d7e0da"/>
+	</game>
+</datafile>

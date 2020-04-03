@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Luxor ABC 800 - Games</name>
+		<description>Luxor ABC 800 - Games (TOSEC-v2011-02-22)</description>
+		<category>TOSEC</category>
+		<version>2011-02-22</version>
+		<author>[Neoqoo] - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Adventure (1985)(Eriksson, Kristoffer)(SE)">
+		<description>Adventure (1985)(Eriksson, Kristoffer)(SE)</description>
+		<rom name="Adventure (1985)(Eriksson, Kristoffer)(SE).bas" size="596" crc="02c15ba5" md5="636cd783f14d57cd3514b96591d1321d" sha1="5c334afb419d0ca3977910a9da193ca93a881c35"/>
+	</game>
+	<game name="Bomb (1988)(Jennel, Claes - Wallentinus, Hans-Georg)(SE)">
+		<description>Bomb (1988)(Jennel, Claes - Wallentinus, Hans-Georg)(SE)</description>
+		<rom name="Bomb (1988)(Jennel, Claes - Wallentinus, Hans-Georg)(SE).bas" size="5763" crc="6e798b62" md5="b2a27e5fe476a4d1c7a5aabf3d1e3bea" sha1="afe4f3b6625fb4945d9d347b069c7f035a424e8b"/>
+	</game>
+	<game name="Landning v3.0 (1987)(Deimert, Daniel - Wiberg, Niclas)(SE)">
+		<description>Landning v3.0 (1987)(Deimert, Daniel - Wiberg, Niclas)(SE)</description>
+		<rom name="Landning v3.0 (1987)(Deimert, Daniel - Wiberg, Niclas)(SE).bas" size="6846" crc="19f5e668" md5="0276da3dd096d15d65f16c30f2a8eb37" sha1="30c31153a849cb5e374cbaebd07389aaaf76089c"/>
+	</game>
+</datafile>

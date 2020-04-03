@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C128 - Applications - [D81]</name>
+		<description>Commodore C128 - Applications - [D81] (TOSEC-v2019-09-07)</description>
+		<category>TOSEC</category>
+		<version>2019-09-07</version>
+		<author>Tomse - Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="1581 Toolkit v2.01 (1988)(Kracker Jax)[autoboot]">
+		<description>1581 Toolkit v2.01 (1988)(Kracker Jax)[autoboot]</description>
+		<rom name="1581 Toolkit v2.01 (1988)(Kracker Jax)[autoboot].d81" size="819200" crc="6f407224" md5="8a41b2a0e6b73dd9044017cfe98e8f09" sha1="3c63709f527c9b0557cd879355a6e776fe81204d"/>
+	</game>
+	<game name="1581 Utility v1.0 (1987)(Commodore)">
+		<description>1581 Utility v1.0 (1987)(Commodore)</description>
+		<rom name="1581 Utility v1.0 (1987)(Commodore).d81" size="819200" crc="167bb6ea" md5="67481cfb7a509a716ffbe9806c51d0de" sha1="016e53ee1c39d0eb9669c0af8fc4935ad0d9c1df"/>
+	</game>
+	<game name="1581 Utility v1.0 (1987)(Commodore)[a]">
+		<description>1581 Utility v1.0 (1987)(Commodore)[a]</description>
+		<rom name="1581 Utility v1.0 (1987)(Commodore)[a].d81" size="819200" crc="37309a63" md5="245031ebe24e3613153c805d59b82f19" sha1="067c3f334d024155ce1b670837783ac3c0da3bac"/>
+	</game>
+	<game name="ACE BIOS BETA version 1 (2010-12-24)(MIRKOSOFT)">
+		<description>ACE BIOS BETA version 1 (2010-12-24)(MIRKOSOFT)</description>
+		<rom name="ACE BIOS BETA version 1 (2010-12-24)(MIRKOSOFT).d81" size="819200" crc="56a5b3ce" md5="839cd9c4586fc47946962bcc0f7d7018" sha1="3109dc66ec9eb098adf4d57b6c6a4e859e30d7fe"/>
+	</game>
+	<game name="Booter V1.0.3 (2015-01-22)(MIRKOSOFT)">
+		<description>Booter V1.0.3 (2015-01-22)(MIRKOSOFT)</description>
+		<rom name="Booter V1.0.3 (2015-01-22)(MIRKOSOFT).d81" size="819200" crc="887771a1" md5="3957771e5b7a3d7a5f8c75296042e0c7" sha1="6a12b12eb2496bed53b691dc89d9378fa719bd8b"/>
+	</game>
+	<game name="CBM Filebrowser v1.5 (2013-03-03)(nbla000)[40-80 column]">
+		<description>CBM Filebrowser v1.5 (2013-03-03)(nbla000)[40-80 column]</description>
+		<rom name="CBM Filebrowser v1.5 (2013-03-03)(nbla000)[40-80 column].d81" size="819200" crc="1d192e09" md5="9d5da4767ee01775e3297548879d287d" sha1="19be5a4696364f624ed8ccaf6c61eb3f6f776569"/>
+	</game>
+	<game name="CBM Filebrowser v1.6 (2013-08-20)(nbla000)[40-80 column]">
+		<description>CBM Filebrowser v1.6 (2013-08-20)(nbla000)[40-80 column]</description>
+		<rom name="CBM Filebrowser v1.6 (2013-08-20)(nbla000)[40-80 column].d81" size="819200" crc="53950226" md5="d965a525281799aeb39145c07473c518" sha1="d1dc32dd8a442283c5c0bfeb14b03047bce25458"/>
+	</game>
+	<game name="DesTerm 128 v2.01 Beta Test Release (199x)(Desmond, Matthew)[80 column]">
+		<description>DesTerm 128 v2.01 Beta Test Release (199x)(Desmond, Matthew)[80 column]</description>
+		<rom name="DesTerm 128 v2.01 Beta Test Release (199x)(Desmond, Matthew)[80 column].d81" size="819200" crc="5a8a525e" md5="6cbacc2188da2394507122c26debe42c" sha1="cd65fb37064c3103ac13d04207fb01a076f2a190"/>
+	</game>
+	<game name="DesTerm 128 v3.02 Beta Test (1998-06-06)(Desmond, Matthew)[80 column]">
+		<description>DesTerm 128 v3.02 Beta Test (1998-06-06)(Desmond, Matthew)[80 column]</description>
+		<rom name="DesTerm 128 v3.02 Beta Test (1998-06-06)(Desmond, Matthew)[80 column].d81" size="819200" crc="59c67573" md5="70f859be119bb7fe569e2e1c19387097" sha1="fdb3880b0d0f52f1d7f67bf8d007331e768f89cf"/>
+	</game>
+	<game name="DesTerm 128 v3.02 Beta Test (1998-06-06)(Desmond, Matthew)[a][80 column]">
+		<description>DesTerm 128 v3.02 Beta Test (1998-06-06)(Desmond, Matthew)[a][80 column]</description>
+		<rom name="DesTerm 128 v3.02 Beta Test (1998-06-06)(Desmond, Matthew)[a][80 column].d81" size="819200" crc="dbca8a2e" md5="60697fbb08824f3fcc3d8e769ea2d48c" sha1="cb8e2d3881e44a84d8f993c468b427fd6f2afffd"/>
+	</game>
+	<game name="Little Red Reader 128 v2.5 (1996-06-03)(Bruce, Craig )[40-80 column]">
+		<description>Little Red Reader 128 v2.5 (1996-06-03)(Bruce, Craig )[40-80 column]</description>
+		<rom name="Little Red Reader 128 v2.5 (1996-06-03)(Bruce, Craig )[40-80 column].d81" size="819200" crc="f14e92d8" md5="7771b0bb3bc1ae21ca139c9fa92afbb5" sha1="51f3baa57d8ec2b0524009f30a6223fbde05b88f"/>
+	</game>
+</datafile>

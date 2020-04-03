@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega WonderMega - CD - Educational - [ISO]</name>
+		<description>Sega WonderMega - CD - Educational - [ISO] (TOSEC-v2014-07-01)</description>
+		<category>TOSEC-ISO</category>
+		<version>2014-07-01</version>
+		<author>TOSEC-ISO: Trurip</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Compton's Interactive Encyclopedia Rev 19940928 (1994)(Sega)(US)">
+		<description>Compton's Interactive Encyclopedia Rev 19940928 (1994)(Sega)(US)</description>
+		<rom name="Compton's Interactive Encyclopedia Rev 19940928 (1994)(Sega)(US)(Track 1 of 2).iso" size="331114496" crc="2dfc3acf" md5="70b39c29c86dd1e749a4f3f828cf5628" sha1="a3287b85d8350088c9f2d863e64cf12fd489ece7"/>
+		<rom name="Compton's Interactive Encyclopedia Rev 19940928 (1994)(Sega)(US)(Track 2 of 2).wav" size="2410844" crc="a5a98467" md5="fd89a7bac59fc8edfd9e946bfd58f082" sha1="28744e6b1cc0e698c627d81dd02f9bae7979fe3d"/>
+		<rom name="Compton's Interactive Encyclopedia Rev 19940928 (1994)(Sega)(US).cue" size="325" crc="051c80f1" md5="e3c2e3b15e2624dd6011dfb36937389f" sha1="56ef1f2c78b7c31fe8ce8125c146852d2ccc62f7"/>
+	</game>
+</datafile>

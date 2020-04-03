@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tangerine Microtan 65 - Applications</name>
+		<description>Tangerine Microtan 65 - Applications (TOSEC-v2011-09-24)</description>
+		<category>TOSEC</category>
+		<version>2011-09-24</version>
+		<author>Gnomula - Grendel - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="256 Digit Factorials (19xx)(-)">
+		<description>256 Digit Factorials (19xx)(-)</description>
+		<rom name="256 Digit Factorials (19xx)(-).hex" size="4995" crc="747853fc" md5="966d0cb4b51f214b0f55ff3ad7bfd98d" sha1="1492e49010f566dbf82192a737e96c5f76022031"/>
+	</game>
+	<game name="Border (19xx)(-)">
+		<description>Border (19xx)(-)</description>
+		<rom name="Border (19xx)(-).hex" size="749" crc="bb724376" md5="d62cc9ad2ed6f0906bfbf9757086064f" sha1="dca6d7ecae1a4dfd91d6875c44830c4c72848a37"/>
+	</game>
+	<game name="Chessboard (19xx)(-)">
+		<description>Chessboard (19xx)(-)</description>
+		<rom name="Chessboard (19xx)(-).hex" size="1344" crc="9c3f92bf" md5="797e381340997ad47244e6b689fb73ad" sha1="9e7a5e377f28e8746e801d649ff34f9efa76a3c8"/>
+	</game>
+	<game name="Graphics Subroutine (19xx)(-)">
+		<description>Graphics Subroutine (19xx)(-)</description>
+		<rom name="Graphics Subroutine (19xx)(-).hex" size="2627" crc="d73c542e" md5="1cf9a6663c6a5c9c33e555b2a78d9f6b" sha1="20679b0c6c1dc40257206abc7ef390b6948cfe00"/>
+	</game>
+	<game name="Message (19xx)(-)">
+		<description>Message (19xx)(-)</description>
+		<rom name="Message (19xx)(-).hex" size="636" crc="bd335005" md5="833a4c0f2577fa239a9a3dcf92941241" sha1="36225dc17ce528b6dea2d1ee9f1f7b00c4cd7a0e"/>
+	</game>
+	<game name="Screen Clear (19xx)(-)">
+		<description>Screen Clear (19xx)(-)</description>
+		<rom name="Screen Clear (19xx)(-).hex" size="300" crc="9240ee04" md5="8613d53c6b662d535037343697ffab2c" sha1="ae61b626372ca7368f15627066a031875f7c1795"/>
+	</game>
+	<game name="Scroll Downwards (19xx)(-)">
+		<description>Scroll Downwards (19xx)(-)</description>
+		<rom name="Scroll Downwards (19xx)(-).hex" size="545" crc="c58348f0" md5="997c70d0e657d26b349b71893b5e2563" sha1="d994bc34a80db063b40f8c6a52562447ea6d97a3"/>
+	</game>
+	<game name="Scroller Clearscreen (19xx)(-)">
+		<description>Scroller Clearscreen (19xx)(-)</description>
+		<rom name="Scroller Clearscreen (19xx)(-).hex" size="311" crc="d174e1cb" md5="bd4f7490e0473ca3fff7876a8b2dc7f9" sha1="bb9f9636dfd41d2e85a0d6d2f39a05ff0093642a"/>
+	</game>
+	<game name="Timed (19xx)(-)">
+		<description>Timed (19xx)(-)</description>
+		<rom name="Timed (19xx)(-).hex" size="917" crc="e7badb02" md5="d8dfbe722664fb6929113d1c7a21e68d" sha1="5e43a86ad23941abd9769af16d0a647612b8aef4"/>
+	</game>
+</datafile>

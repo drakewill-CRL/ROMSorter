@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Atari Jaguar - Games - [ABS]</name>
+		<description>Atari Jaguar - Games - [ABS] (TOSEC-v2018-07-01)</description>
+		<category>TOSEC</category>
+		<version>2018-07-01</version>
+		<author>Cid - Cassiel - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Pong (19xx)(Storm Works Interactive)(PD)">
+		<description>Pong (19xx)(Storm Works Interactive)(PD)</description>
+		<rom name="Pong (19xx)(Storm Works Interactive)(PD).abs" size="4416" crc="e90a9122" md5="e5b0c3571defb65d266a2aaf647f9cd8" sha1="2889f2f12c1fce7b1fc0348d1221cafdcf4f2d3a"/>
+	</game>
+	
+</datafile>

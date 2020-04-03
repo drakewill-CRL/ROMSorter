@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C128 - Games - [D71]</name>
+		<description>Commodore C128 - Games - [D71] (TOSEC-v2017-10-23)</description>
+		<category>TOSEC</category>
+		<version>2017-10-23</version>
+		<author>Tomse - Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Race (1990)(Erasoft)(AR)">
+		<description>Race (1990)(Erasoft)(AR)</description>
+		<rom name="Race (1990)(Erasoft)(AR).d71" size="349696" crc="b26d5046" md5="ee1ba73b3e048196490fba0dbb634c70" sha1="61b671928a48b666b4d676dd0cd95212eb31e595"/>
+	</game>
+	<game name="Race, The (1992)(Erasoft)(AR)">
+		<description>Race, The (1992)(Erasoft)(AR)</description>
+		<rom name="Race, The (1992)(Erasoft)(AR).d71" size="349696" crc="ca789141" md5="a749e53133ba16955f092e074ce4f43c" sha1="edfdf84dcfce8f04f4592b4b323c6f42535dd59c"/>
+	</game>
+	<game name="Sex Games III (1989)(Erasoft)(AR)">
+		<description>Sex Games III (1989)(Erasoft)(AR)</description>
+		<rom name="Sex Games III (1989)(Erasoft)(AR).d71" size="349696" crc="9f2e0957" md5="44c4fbbb09e8d012748ad0a6ca0619d5" sha1="6518346e4d5a437d58b8ba7a85e8fcdc0817f37c"/>
+	</game>
+	<game name="Teenage Mutant Runner Turtle (1991)(Erasoft)">
+		<description>Teenage Mutant Runner Turtle (1991)(Erasoft)</description>
+		<rom name="Teenage Mutant Runner Turtle (1991)(Erasoft).d71" size="349696" crc="2dd82b2a" md5="f591fa6b391fb136ae46eb89eb87309a" sha1="2533880098cc539dd49aa5121aa5c0bfc5b068bf"/>
+	</game>
+</datafile>

@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>RM Nimbus PC - Games</name>
+		<description>RM Nimbus PC - Games (TOSEC-v2014-06-27)</description>
+		<category>TOSEC</category>
+		<version>2014-06-27</version>
+		<author>Grendel - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Acheton (1987)(Topologika)(GB)">
+		<description>Acheton (1987)(Topologika)(GB)</description>
+		<rom name="ACHETON.COM" size="10240" crc="c7dde01a" md5="43fcfc4b8844ee976b23be733045c377" sha1="166c3288c61ebc0bba50693f971786415a3af814"/>
+		<rom name="ACHETON.DAT" size="126976" crc="578d4b14" md5="c5b1314c9d69cb21d39f5e6cfcc3b859" sha1="c8807b35a93984c867cd488d2aa4ff5438baab72"/>
+		<rom name="ACHETON.DYN" size="4096" crc="c151fced" md5="d660c7395f6138919d970926e4463a32" sha1="a641f46526e7b0d049a6841d45dfc2d1af8c572c"/>
+	</game>
+	<game name="Avon (1989)(Topologika)(GB)">
+		<description>Avon (1989)(Topologika)(GB)</description>
+		<rom name="AVON.ADV" size="2176" crc="77569c1e" md5="c637eb713f73d215e780d9a011404c63" sha1="b959251154ff5a2fc6e5ac7d3a3b16bb671e4cc6"/>
+		<rom name="AVON.COM" size="11904" crc="f1a1e7f1" md5="4f4f792a94917ec2881d47c7fa9f8ea2" sha1="d11af72e4be16b8037710a10bfadb2c59e07b2f9"/>
+		<rom name="AVON.DAT" size="66048" crc="bcec7b8f" md5="6d2950a011c07fc0ce086625ad4ab86e" sha1="784730eae91cbf64f38d37d5d31fb4670d87b2ea"/>
+		<rom name="AVON.DYN" size="1710" crc="672c4c03" md5="f2968fb437067e009d311b15110acadf" sha1="88e6b903ebc554b3c1bc0d5705f641b38b91af97"/>
+	</game>
+	<game name="Countdown to Doom (1987)(Topologika)(GB)">
+		<description>Countdown to Doom (1987)(Topologika)(GB)</description>
+		<rom name="COUNTDWN.DAT" size="57344" crc="fc0bcb8c" md5="3fc5209fd04faacf3a9b61505294941d" sha1="b20650c55302ec38be2321e1a4b4167374f3ecfe"/>
+		<rom name="COUNTDWN.DYN" size="2048" crc="6daaeedc" md5="cd8b26d60b82cdbdf8bb7719a3b29880" sha1="bdad1ac63e2a05fbd175086efeb8e2a0e89e77d9"/>
+		<rom name="DOOM.COM" size="10240" crc="ae822798" md5="32dfd54cd72d3a1f7afa4886e2dc292e" sha1="30a983782ce5f59487ee082fc0608b38f2dab0f1"/>
+	</game>
+	<game name="Hamil (1987)(Topologika)(GB)">
+		<description>Hamil (1987)(Topologika)(GB)</description>
+		<rom name="HAMIL.COM" size="10240" crc="e6367c8e" md5="0571b0e782254d78f11d92401e53f248" sha1="e5d012193695672509c63a61fa0e714b1a532ed8"/>
+		<rom name="HAMIL.DAT" size="47104" crc="a554e1ba" md5="6f4652ebb7549f00590b52ae574cbc34" sha1="09128ffcadcbbb7fc4483600ab1188c18513e2ac"/>
+		<rom name="HAMIL.DYN" size="2048" crc="ef7eea48" md5="b1596a5d7b3bd8a756c32db1502d5321" sha1="737b9dcd1b4e73518b859df1a94e45e029c27477"/>
+	</game>
+	<game name="Hezarin (1990)(Topologika)(GB)">
+		<description>Hezarin (1990)(Topologika)(GB)</description>
+		<rom name="HEZARIN.COM" size="9735" crc="ffc430c0" md5="a7d4dfa325fa16ee8bb24620a02f6c8c" sha1="a6d32eee096775ec47be9b351d7a382d07292602"/>
+		<rom name="HEZARIN.DAT" size="167168" crc="9cc55d3c" md5="d9b8f7966d3f6acd93a8506c31e52723" sha1="6d0d6ac059f20e20421b7bc1668fa5b37c3aad75"/>
+		<rom name="HEZARIN.DYN" size="3418" crc="52335302" md5="889868150ba13fe153ecb49107679118" sha1="3ec6fa195462c1e1e04431a9aa19e60209c1bb5d"/>
+	</game>
+	<game name="Last Days of Doom (1990)(Topologika)(GB)">
+		<description>Last Days of Doom (1990)(Topologika)(GB)</description>
+		<rom name="LASTDAYS.COM" size="10165" crc="22c8bfbc" md5="0418fb9e0e0ff6eed3519a997d000b1f" sha1="4eb8c30b96979014cdbbea5dd2c90c2828f66bca"/>
+		<rom name="LASTDAYS.DAT" size="117248" crc="78dc9d3a" md5="ac25297d424e78f85460476cf96b4606" sha1="2b05ac6cd6e0684a15be33bb15987d08e402e3c6"/>
+		<rom name="LASTDAYS.DYN" size="2216" crc="b655f5f3" md5="814e9eefcb06701895ea3d953415aa21" sha1="3f2d0122c30ee217457166bc14dee40f4ddcded8"/>
+	</game>
+	<game name="Philosopher's Quest (1987)(Topologika)(GB)">
+		<description>Philosopher's Quest (1987)(Topologika)(GB)</description>
+		<rom name="PQUEST.COM" size="10240" crc="31f552e2" md5="c5931a93dd4c2d7f639d30fba1cfcf03" sha1="988ea39d96ca2d7b3b1fb8149fffc948da392ce8"/>
+		<rom name="QUEST.DAT" size="66560" crc="338c5332" md5="ca90a88de901c79e4db3fa0290a254f8" sha1="418e7ec13af52c8c73de857436d5329650a145fc"/>
+		<rom name="QUEST.DYN" size="2048" crc="bc899599" md5="d4f6d46f3dd8a094fd3df8807448fe4f" sha1="fd0aba4f0d17eafc2e789b07bfe268d1e1b62214"/>
+	</game>
+	<game name="Return to Doom (1988)(Topologika)(GB)">
+		<description>Return to Doom (1988)(Topologika)(GB)</description>
+		<rom name="RETURN.COM" size="10240" crc="2089b499" md5="17726f69e0dab8794785d38a3ec0ea6e" sha1="e06356f5a9df8ba71be1c030fd193b9cdef1c637"/>
+		<rom name="RETURN.DAT" size="95232" crc="40c50d5b" md5="14b2df920ce091f2d44625a508202043" sha1="12f89aee382ead7a3ecb38fa75140280b3ccd964"/>
+		<rom name="RETURN.DYN" size="2048" crc="3087d465" md5="4ca9832f2c398ea76c6559bb238c5741" sha1="ffc6f744abe6f0c895169c76055ace982f6acb90"/>
+	</game>
+	<game name="Spy Snatcher (1993)(Topologika)(GB)">
+		<description>Spy Snatcher (1993)(Topologika)(GB)</description>
+		<rom name="SNATCHER.DAT" size="85248" crc="aa44dfdd" md5="d3e993200a45800e777208002bbf267a" sha1="4446db55bc2bbcc2d66d861df91151120be7f5f2"/>
+		<rom name="SNATCHER.DYN" size="1193" crc="b3f34c3f" md5="a18a17fdaf35ff8ab7c84187da1073cc" sha1="2ad6189365b096a073362b07628b01c0def37f77"/>
+		<rom name="SPY.COM" size="11835" crc="a0ab0d8a" md5="3ffdb032048721e87b8a1da5b41774be" sha1="0fc12c33cb186ceadba033bb90a23d0ba54aa970"/>
+	</game>
+</datafile>

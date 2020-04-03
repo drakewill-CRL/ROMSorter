@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore Amiga CD32 - Games - [BIN]</name>
+		<description>Commodore Amiga CD32 - Games - [BIN] (TOSEC-v2019-09-07)</description>
+		<category>TOSEC</category>
+		<version>2019-09-07</version>
+		<author>Tomse - TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Alien Breed 3D (1995)(Ocean - Team 17)[cp code]">
+		<description>Alien Breed 3D (1995)(Ocean - Team 17)[cp code]</description>
+		<rom name="Alien Breed 3D (1995)(Ocean - Team 17)[cp code].bin" size="257341728" crc="ba4a6bb9" md5="40cca32874d955a68c8bf5ca6c2e5f20" sha1="4f207ee2c1263e1ff29404aedc0ecade5ae82958"/>
+		<rom name="Alien Breed 3D (1995)(Ocean - Team 17)[cp code].cue" size="352" crc="2179a1cc" md5="c14305f68bc663e2143462f5adef6bca" sha1="4fc601d39c33d99e542495cd8bd2ad13e5d4340f"/>
+	</game>
+	<game name="Arabian Nights (1993)(Buzz)(M4)">
+		<description>Arabian Nights (1993)(Buzz)(M4)</description>
+		<rom name="Arabian Nights (1993)(Buzz)(M4).bin" size="2330832" crc="0ab30faa" md5="46efa01436f640ba815191078813562d" sha1="8c91506d49475a4a18aade816717b2aa0aed1b02"/>
+		<rom name="Arabian Nights (1993)(Buzz)(M4).cue" size="97" crc="649191e0" md5="c373efedf1412e4dd2f58ffdf94986d2" sha1="eb26cc0b50f2498909aa1a48ee03cf6e66df0aab"/>
+	</game>
+	<game name="Candy Puzzle (1996)(Gevin)[CUBO]">
+		<description>Candy Puzzle (1996)(Gevin)[CUBO]</description>
+		<rom name="Candy Puzzle (1996)(Gevin)[CUBO].bin" size="417383568" crc="f6ece0cd" md5="44b9a1793adefd32d475dc2bf62fa656" sha1="e03d0d3b54155046cd96420d8118d50832564f5c"/>
+		<rom name="Candy Puzzle (1996)(Gevin)[CUBO].cue" size="242" crc="235ea2dd" md5="de8731fc98f1eae00bddae7f74f9805a" sha1="c587f88e2b6d28fcc1b83a5eee34bf4665525910"/>
+	</game>
+	<game name="Emerald Mines (1994)(Almathera)[compilation]">
+		<description>Emerald Mines (1994)(Almathera)[compilation]</description>
+		<rom name="Emerald Mines (1994)(Almathera)[compilation].bin" size="126022512" crc="83c764f4" md5="0d2d11c13780725b1d7b250f72277500" sha1="91e998cc6c30f12253f56ecca39258d4cb3342f7"/>
+		<rom name="Emerald Mines (1994)(Almathera)[compilation].cue" size="172" crc="88695ac8" md5="712b7182e6fdd2d086c2aa5e8f9d8b63" sha1="64beb1ca0883e1775f03a948906c2558c76357d4"/>
+	</game>
+</datafile>

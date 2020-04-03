@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Games - Boulder Dash - [G64]</name>
+		<description>Commodore C64 - Games - Boulder Dash - [G64] (TOSEC-v2018-08-19)</description>
+		<category>TOSEC</category>
+		<version>2018-08-19</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Boulder Dash 50 (2001)(Liepa, Peter &amp; Spaans, Ruben)">
+		<description>Boulder Dash 50 (2001)(Liepa, Peter &amp; Spaans, Ruben)</description>
+		<rom name="Boulder Dash 50 (2001)(Liepa, Peter &amp; Spaans, Ruben).g64" size="333744" crc="aec8ab24" md5="56ab5d02dae53a1a9a1701f849097767" sha1="9375c4d31f6da2ef99b9df2e5b46637b99ecc926"/>
+	</game>
+	<game name="Boulder Dash 50 (2001)(Liepa, Peter &amp; Spaans, Ruben)[a]">
+		<description>Boulder Dash 50 (2001)(Liepa, Peter &amp; Spaans, Ruben)[a]</description>
+		<rom name="Boulder Dash 50 (2001)(Liepa, Peter &amp; Spaans, Ruben)[a].g64" size="333744" crc="d5aa9b54" md5="e673582da226a8513efd7e82bd489948" sha1="f61f7b3e5536de9e0405303260c1ea8162ab55fc"/>
+	</game>
+</datafile>

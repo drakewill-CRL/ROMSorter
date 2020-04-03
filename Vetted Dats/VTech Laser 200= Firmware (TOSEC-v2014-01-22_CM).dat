@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>VTech Laser 200 - Firmware</name>
+		<description>VTech Laser 200 - Firmware (TOSEC-v2014-01-22)</description>
+		<category>TOSEC</category>
+		<version>2014-01-22</version>
+		<author>Duke - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="BASIC v1.2 (1983)(VTech)">
+		<description>BASIC v1.2 (1983)(VTech)</description>
+		<rom name="BASIC v1.2 (1983)(VTech).bin" size="16384" crc="e5fb9386" md5="915509b681b930be03b2dc9fc9c0a018" sha1="251cc8707192c86fb231ce99bd4b070285006949"/>
+	</game>
+	<game name="BASIC v2.0 (1983)(VTech)">
+		<description>BASIC v2.0 (1983)(VTech)</description>
+		<rom name="BASIC v2.0 (1983)(VTech).bin" size="16384" crc="613de12c" md5="42c8f9e6c2133ae0e953b89ccbbdb7e2" sha1="f216c266bc09b0dbdbad720796e5ea9bc7d91e53"/>
+	</game>
+	<game name="BASIC v2.1 (198x)(VTech)">
+		<description>BASIC v2.1 (198x)(VTech)</description>
+		<rom name="BASIC v2.1 (198x)(VTech).bin" size="16384" crc="f7df980f" md5="f7e5d9a3eb2b57bf5f4e2a4565318a8f" sha1="5ba14a7a2eedca331b033901080fa5d205e245ea"/>
+	</game>
+	<game name="Character Set (1983)(VTech)">
+		<description>Character Set (1983)(VTech)</description>
+		<rom name="Character Set (1983)(VTech).bin" size="3072" crc="cdbfc596" md5="6c2e0aa2945a3222d2f42abfbdd26b31" sha1="30689726cdfe94396bdb0cab1fedc9b8f3457270"/>
+	</game>
+	<game name="DOS BASIC v1.2 (198x)(VTech)">
+		<description>DOS BASIC v1.2 (198x)(VTech)</description>
+		<rom name="DOS BASIC v1.2 (198x)(VTech).bin" size="8192" crc="b6ed6084" md5="1c3aed62ed7cb52134ed4b0a9a57fa26" sha1="59d1cbcfa6c5e1906a32704fbf0d9670f0d1fd8b"/>
+	</game>
+</datafile>

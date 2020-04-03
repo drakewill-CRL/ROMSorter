@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo Famicom Disk System - Firmware</name>
+		<description>Nintendo Famicom Disk System - Firmware (TOSEC-v2014-04-23)</description>
+		<category>TOSEC</category>
+		<version>2014-04-23</version>
+		<author>Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Nintendo Famicom Disk System BIOS (198x)(Nintendo)(JP)(en)">
+		<description>Nintendo Famicom Disk System BIOS (198x)(Nintendo)(JP)(en)</description>
+		<rom name="Nintendo Famicom Disk System BIOS (198x)(Nintendo)(JP)(en).bin" size="8192" crc="5e607dcf" md5="ca30b50f880eb660a320674ed365ef7a" sha1="57fe1bdee955bb48d357e463ccbf129496930b62"/>
+	</game>
+	<game name="Sharp Twin Famicom BIOS (198x)(Nintendo)(JP)(en)">
+		<description>Sharp Twin Famicom BIOS (198x)(Nintendo)(JP)(en)</description>
+		<rom name="Sharp Twin Famicom BIOS (198x)(Nintendo)(JP)(en).bin" size="8192" crc="4df24a6c" md5="c1a9e9415a6adde3c8563c622d4c9fce" sha1="e4e41472c454f928e53eb10e0509bf7d1146ecc1"/>
+	</game>
+</datafile>

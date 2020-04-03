@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore Amiga CDTV - Samplers - [IMG]</name>
+		<description>Commodore Amiga CDTV - Samplers - [IMG] (TOSEC-v2018-03-24)</description>
+		<category>TOSEC-ISO</category>
+		<version>2018-03-24</version>
+		<author>Tomse - TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Pandora's CD v1.0 (1993)(Optonica)(PAL)[G-9273]">
+		<description>Pandora's CD v1.0 (1993)(Optonica)(PAL)[G-9273]</description>
+		<rom name="Pandora's CD v1.0 (1993)(Optonica)(PAL)[G-9273].ccd" size="792" crc="8514288c" md5="28438d135327f4806e86e79ee1636fbf" sha1="ee1de20595a106de782854c307612cf9a7a06f6c"/>
+		<rom name="Pandora's CD v1.0 (1993)(Optonica)(PAL)[G-9273].cue" size="111" crc="b7349700" md5="d3f301bf9bb7ed10256ddd4535a1f878" sha1="6933e19f57d6dd8188144a8ff4952dec6a2a78af"/>
+		<rom name="Pandora's CD v1.0 (1993)(Optonica)(PAL)[G-9273].img" size="458738784" crc="092b89d9" md5="31662252828b8a7a20726fe3d6116391" sha1="8f6565a281c2cf8641f8b1636d126fac7f788fa2"/>
+		<rom name="Pandora's CD v1.0 (1993)(Optonica)(PAL)[G-9273].sub" size="18724032" crc="3b1d1e45" md5="866aeb117df666931b65ba9eb57335f9" sha1="794b2ebe7a2da52b3784845712df0af4f468e51e"/>
+	</game>
+</datafile>

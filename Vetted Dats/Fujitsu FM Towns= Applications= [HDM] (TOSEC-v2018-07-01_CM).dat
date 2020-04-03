@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Fujitsu FM Towns - Applications - [HDM]</name>
+		<description>Fujitsu FM Towns - Applications - [HDM] (TOSEC-v2018-07-01)</description>
+		<category>TOSEC</category>
+		<version>2018-07-01</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="KISS - KISekae Set system (199x)(MIO .H)(JP)">
+		<description>KISS - KISekae Set system (199x)(MIO .H)(JP)</description>
+		<rom name="KISS - KISekae Set system (199x)(MIO .H)(JP).hdm" size="1261568" crc="642554e6" md5="bb48546ced9c61462e1c89dca4987143" sha1="a462109795fa23e677cc7bdb6c5885a52cc92303"/>
+	</game>
+</datafile>

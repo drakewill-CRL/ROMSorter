@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore VIC20 - Games - [T64]</name>
+		<description>Commodore VIC20 - Games - [T64] (TOSEC-v2012-08-18)</description>
+		<category>TOSEC</category>
+		<version>2012-08-18</version>
+		<author>Vicman</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Balloon Dodger (1983)(Cascade)">
+		<description>Balloon Dodger (1983)(Cascade)</description>
+		<rom name="Balloon Dodger (1983)(Cascade).t64" size="5239" crc="0023983d" md5="5bd0e75f07e6100d208a37df3c07a749" sha1="9e5c3a5d6650de726d961cdd8532462ed6b91e03"/>
+	</game>
+	<game name="Bank Raid (1983)(Cascade)">
+		<description>Bank Raid (1983)(Cascade)</description>
+		<rom name="Bank Raid (1983)(Cascade).t64" size="5740" crc="c83eaf8c" md5="787037dfa752a676607d840015453f38" sha1="8e3e01bd947385dc5a835014de046bf6ee018aed"/>
+	</game>
+	<game name="Ski Run (1983)(Cascade)">
+		<description>Ski Run (1983)(Cascade)</description>
+		<rom name="Ski Run (1983)(Cascade).t64" size="4795" crc="538c4894" md5="fb645ba8367162562f388ec9060ee1f1" sha1="956a172d30e959a57f35e456b78e88ace1015547"/>
+	</game>
+	<game name="Tank Arkade - Robot Tank (1982)(Avalon Hill)[1 player]">
+		<description>Tank Arkade - Robot Tank (1982)(Avalon Hill)[1 player]</description>
+		<rom name="Tank Arkade - Robot Tank (1982)(Avalon Hill)[1 player].t64" size="3386" crc="cb13e1a7" md5="8a386d2281fa7f5388d42b3da89b72ba" sha1="6bf0b98a061d80f3b6b3a95b216f240cb32a3616"/>
+	</game>
+	<game name="Tank Arkade - Tank Battle (1982)(Avalon Hill)[2 player]">
+		<description>Tank Arkade - Tank Battle (1982)(Avalon Hill)[2 player]</description>
+		<rom name="Tank Arkade - Tank Battle (1982)(Avalon Hill)[2 player].t64" size="3390" crc="19187e5d" md5="e2df2786e9226725e63c0346983e943e" sha1="4583207fc3bb9d5e9787bb950d19f2155969f735"/>
+	</game>
+</datafile>

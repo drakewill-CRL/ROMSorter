@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Thomson TO7 - Demos</name>
+		<description>Thomson TO7 - Demos (TOSEC-v2012-08-27)</description>
+		<category>TOSEC</category>
+		<version>2012-08-27</version>
+		<author>Leto_II - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Dragon (198x)(-)(PD)">
+		<description>Dragon (198x)(-)(PD)</description>
+		<rom name="Dragon (198x)(-)(PD).k7" size="378" crc="fb395f2f" md5="18850beb61094f28708c9548f7ed96b8" sha1="a67a804c2393817d2c57d17724bea8e3bc214d29"/>
+	</game>
+	<game name="Fractals (198x)(Huet, Sylvain)(PD)[b]">
+		<description>Fractals (198x)(Huet, Sylvain)(PD)[b]</description>
+		<rom name="Fractals (198x)(Huet, Sylvain)(PD)[b].k7" size="6080" crc="d1eb60db" md5="ec89428604c050befdff6dfab8546af8" sha1="7c5cd4b546eaf0515dd8799353c1fe84e64e0202"/>
+	</game>
+	<game name="Saturn V (1983)(Huet, Sylvain)(FR)(PD)">
+		<description>Saturn V (1983)(Huet, Sylvain)(FR)(PD)</description>
+		<rom name="Saturn V (1983)(Huet, Sylvain)(FR)(PD).k7" size="9536" crc="d6698e24" md5="6f8a79f2655b8b949612e8c2a8786ed4" sha1="44d95c27819e454ce08d8bf3815e2309599d4b54"/>
+	</game>
+	<game name="Space Shuttle (198x)(Huet, Sylvain)(FR)(PD)">
+		<description>Space Shuttle (198x)(Huet, Sylvain)(FR)(PD)</description>
+		<rom name="Space Shuttle (198x)(Huet, Sylvain)(FR)(PD).k7" size="13955" crc="08aa0d1e" md5="381189160ec97ddb3f8956f45e1d1b83" sha1="33f034136d2dc071bb821f1caeb2f0d0c0d0a4c2"/>
+	</game>
+</datafile>

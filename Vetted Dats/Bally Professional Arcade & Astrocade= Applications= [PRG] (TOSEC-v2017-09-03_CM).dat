@@ -1,0 +1,659 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Bally Professional Arcade &amp; Astrocade - Applications - [PRG]</name>
+		<description>Bally Professional Arcade &amp; Astrocade - Applications - [PRG] (TOSEC-v2017-09-03)</description>
+		<category>TOSEC</category>
+		<version>2017-09-03</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="2732 EPROM Programmer (19xx)(Perkins Engineering)[300 baud - Blue RAM]">
+		<description>2732 EPROM Programmer (19xx)(Perkins Engineering)[300 baud - Blue RAM]</description>
+		<rom name="2732 EPROM Programmer (19xx)(Perkins Engineering)[300 baud - Blue RAM].prg" size="1345" crc="5584c142" md5="2d92cc4bf8b7adac8f91209c521747d4" sha1="3f79b717b068ee77165653bca967ca32a8d18988"/>
+	</game>
+	<game name="3-Tone Music Input Program (1980-05-19)(Bilbrey, Brett - Moses, George - Weber, Bob)(PD)[300 baud]">
+		<description>3-Tone Music Input Program (1980-05-19)(Bilbrey, Brett - Moses, George - Weber, Bob)(PD)[300 baud]</description>
+		<rom name="3-Tone Music Input Program (1980-05-19)(Bilbrey, Brett - Moses, George - Weber, Bob)(PD)[300 baud].prg" size="533" crc="e74668d0" md5="237486b24678df192984d0b2b5b8a98a" sha1="43b528b597db1a7f35921e4517997f561b77c39a"/>
+	</game>
+	<game name="3-Tone Music Input Program (1980-05-19)(Bilbrey, Brett - Moses, George - Weber, Bob)(PD)[m][300 baud]">
+		<description>3-Tone Music Input Program (1980-05-19)(Bilbrey, Brett - Moses, George - Weber, Bob)(PD)[m][300 baud]</description>
+		<rom name="3-Tone Music Input Program (1980-05-19)(Bilbrey, Brett - Moses, George - Weber, Bob)(PD)[m][300 baud].prg" size="550" crc="41bad23f" md5="d6d0e01bf09ab31f346f778acff7eb2d" sha1="558dbec7c2278500c05d3c1f28bc2f9896ca4856"/>
+	</game>
+	<game name="Airbrush and Sandblast (1980-09-17)(Schreier, Curtis)(PD)[300 baud]">
+		<description>Airbrush and Sandblast (1980-09-17)(Schreier, Curtis)(PD)[300 baud]</description>
+		<rom name="Airbrush and Sandblast (1980-09-17)(Schreier, Curtis)(PD)[300 baud].prg" size="230" crc="ea213dd8" md5="9d4d091d59688a2f8722a2e6f8bed608" sha1="ac815204f60046d68e6bfea88965eac574bae5eb"/>
+	</game>
+	<game name="Alarm Clock (1981-05)(Peace, Mike)[300 baud - Bally BASIC]">
+		<description>Alarm Clock (1981-05)(Peace, Mike)[300 baud - Bally BASIC]</description>
+		<rom name="Alarm Clock (1981-05)(Peace, Mike)[300 baud - Bally BASIC].prg" size="391" crc="744315c6" md5="67885f1b0e00376347216b21a361599a" sha1="44b4be1e89b99e48539d90360acfb8a7baa81490"/>
+	</game>
+	<game name="Another Division Routine - 4 Decimal Places (1979-05-23)(Bowman, Pete)(PD)[300 baud]">
+		<description>Another Division Routine - 4 Decimal Places (1979-05-23)(Bowman, Pete)(PD)[300 baud]</description>
+		<rom name="Another Division Routine - 4 Decimal Places (1979-05-23)(Bowman, Pete)(PD)[300 baud].prg" size="135" crc="234f5067" md5="739357a9fc22ae6f2d2063973e57318d" sha1="02e7cb5f764a8d511622fd870a73d0b974d8005e"/>
+	</game>
+	<game name="Bally 3 Voice Music Composer, Player (198x)(Bilbrey, Brett - Dunson, Jim - Moses, George - Weber, Bob)[300 baud]">
+		<description>Bally 3 Voice Music Composer, Player (198x)(Bilbrey, Brett - Dunson, Jim - Moses, George - Weber, Bob)[300 baud]</description>
+		<rom name="Bally 3 Voice Music Composer, Player (198x)(Bilbrey, Brett - Dunson, Jim - Moses, George - Weber, Bob)[300 baud].prg" size="544" crc="9e5bc3b8" md5="085db64d7e49a0225391679f62d42b4e" sha1="c4a079497289fd63528035df9ff743f750f7c647"/>
+	</game>
+	<game name="Base Conversion (1980-09-17)(McCoy, Ron)(PD)[300 baud]">
+		<description>Base Conversion (1980-09-17)(McCoy, Ron)(PD)[300 baud]</description>
+		<rom name="Base Conversion (1980-09-17)(McCoy, Ron)(PD)[300 baud].prg" size="1639" crc="b2d2d136" md5="8e2898a2a76663e1d19f0452afff784a" sha1="e81526e9082bbf95baf91033041961f359abd1f7"/>
+	</game>
+	<game name="Bio-rhythms (1980-03-24)(Tietjens, Rich - Walter, Dave)(PD)[300 baud]">
+		<description>Bio-rhythms (1980-03-24)(Tietjens, Rich - Walter, Dave)(PD)[300 baud]</description>
+		<rom name="Bio-rhythms (1980-03-24)(Tietjens, Rich - Walter, Dave)(PD)[300 baud].prg" size="2640" crc="834eb3f4" md5="d7ebc9f95811380c5f0bfe3583a7d75a" sha1="f9186be7471a7b25a42d179b5de88ea5be9570da"/>
+	</game>
+	<game name="Bio-rhythms (198x)(Tietjens, Rich - Walter, Dave)(PD)(proto)[300 baud]">
+		<description>Bio-rhythms (198x)(Tietjens, Rich - Walter, Dave)(PD)(proto)[300 baud]</description>
+		<rom name="Bio-rhythms (198x)(Tietjens, Rich - Walter, Dave)(PD)(proto)[300 baud].prg" size="3031" crc="cf35aa68" md5="184730a1608863869837d273f01afbb4" sha1="c3e5a8eb56d80ee1c19fc957c018375f2122fb62"/>
+	</game>
+	<game name="Bio-rhythms - String Loader (1980-03-24)(Tietjens, Rich - Walter, Dave)(PD)[300 baud]">
+		<description>Bio-rhythms - String Loader (1980-03-24)(Tietjens, Rich - Walter, Dave)(PD)[300 baud]</description>
+		<rom name="Bio-rhythms - String Loader (1980-03-24)(Tietjens, Rich - Walter, Dave)(PD)[300 baud].prg" size="52" crc="80574f7e" md5="bf90bee1d06ed8004120c1c938097824" sha1="8d498552c35342e232400146b3becc03fbb0e7ec"/>
+	</game>
+	<game name="Biorhythm 3.0 (1980)(Keller, Mark)[300 baud]">
+		<description>Biorhythm 3.0 (1980)(Keller, Mark)[300 baud]</description>
+		<rom name="Biorhythm 3.0 (1980)(Keller, Mark)[300 baud].prg" size="1449" crc="77d7d9b0" md5="bc20d96e66c17426e380f1a8ef5daf45" sha1="75e031665a60b3c4bfe15153dd101f864ca8ba15"/>
+	</game>
+	<game name="Biorhythms (1979)(Tietjens, Rich)[300 baud]">
+		<description>Biorhythms (1979)(Tietjens, Rich)[300 baud]</description>
+		<rom name="Biorhythms (1979)(Tietjens, Rich)[300 baud].prg" size="3091" crc="5cf1a36e" md5="685da4edd9f32971db164c8da285b74f" sha1="5ddeb8fc870a8308453dee4e7c5cd46059bb97a3"/>
+	</game>
+	<game name="Biorhythms (1979)(W&amp;W Software Sales)[300 baud]">
+		<description>Biorhythms (1979)(W&amp;W Software Sales)[300 baud]</description>
+		<rom name="Biorhythms (1979)(W&amp;W Software Sales)[300 baud].prg" size="1583" crc="54de08df" md5="ba12353c2a5ba4d7adfc8b951d25d4fa" sha1="cb2fca1cb70f06941488e9f6b0885ba15cae4c7f"/>
+	</game>
+	<game name="Biorhythms (1979-12-22)(Angliss, M.R.)(PD)[300 baud]">
+		<description>Biorhythms (1979-12-22)(Angliss, M.R.)(PD)[300 baud]</description>
+		<rom name="Biorhythms (1979-12-22)(Angliss, M.R.)(PD)[300 baud].prg" size="1981" crc="1f16f123" md5="84eb0b019951348eb981c8fc8801bae1" sha1="9f867056c7548e7cd42f99555e4e18598f2f267b"/>
+	</game>
+	<game name="Biorhythms (1980)(Cursor)[300 baud]">
+		<description>Biorhythms (1980)(Cursor)[300 baud]</description>
+		<rom name="Biorhythms (1980)(Cursor)[300 baud].prg" size="2097" crc="67cbcbc9" md5="4f05a704574322965e45f708b7cd100d" sha1="b7f0a822adf1dd713c73be429fc8b91a098d59c2"/>
+	</game>
+	<game name="Blue RAM - BSR Controller (1980)(Perkins Engineering)[300 baud]">
+		<description>Blue RAM - BSR Controller (1980)(Perkins Engineering)[300 baud]</description>
+		<rom name="Blue RAM - BSR Controller (1980)(Perkins Engineering)[300 baud].prg" size="2316" crc="a617d2c2" md5="8f6b4410b3f28cad5baaf90675720632" sha1="e86c92c39f3fbd4e24487f704d4da060792245ce"/>
+	</game>
+	<game name="Blue RAM Diagnostic (1980)(Perkins Engineering)(proto)[300 baud]">
+		<description>Blue RAM Diagnostic (1980)(Perkins Engineering)(proto)[300 baud]</description>
+		<rom name="Blue RAM Diagnostic (1980)(Perkins Engineering)(proto)[300 baud].prg" size="1661" crc="1caede07" md5="50260a767659955e1f01eb65a32604a9" sha1="80f8b52fa8c2082e99fd3f63d716d2d9550d1b16"/>
+	</game>
+	<game name="Blue RAM Diagnostic (1980-06-02)(Perkins Engineering)[300 baud]">
+		<description>Blue RAM Diagnostic (1980-06-02)(Perkins Engineering)[300 baud]</description>
+		<rom name="Blue RAM Diagnostic (1980-06-02)(Perkins Engineering)[300 baud].prg" size="2154" crc="b9f137c1" md5="a02237d682216cf4107bab182e7aab5d" sha1="11cedd7ee3af5c3ca9b0d9a5300f8729eac137ed"/>
+	</game>
+	<game name="Blue RAM Keyboard Driver (1980)(Perkins Engineering)[300 baud]">
+		<description>Blue RAM Keyboard Driver (1980)(Perkins Engineering)[300 baud]</description>
+		<rom name="Blue RAM Keyboard Driver (1980)(Perkins Engineering)[300 baud].prg" size="348" crc="d470aebd" md5="7d110397c67f38ff922bac54fc7ec77e" sha1="9327088cab1e73992b6363227cd3afcc69d3541c"/>
+	</game>
+	<game name="Blue RAM Keyboard Driver (1980)(Perkins Engineering)[a][300 baud]">
+		<description>Blue RAM Keyboard Driver (1980)(Perkins Engineering)[a][300 baud]</description>
+		<rom name="Blue RAM Keyboard Driver (1980)(Perkins Engineering)[a][300 baud].prg" size="340" crc="d0ef6a0d" md5="d7464c0c05b8699a661dba0b844db598" sha1="9b71cf9ffe44ef032f3180cb4a88998db0f98142"/>
+	</game>
+	<game name="Blue RAM Modem Controller (1980)(Perkins Engineering)[300 baud]">
+		<description>Blue RAM Modem Controller (1980)(Perkins Engineering)[300 baud]</description>
+		<rom name="Blue RAM Modem Controller (1980)(Perkins Engineering)[300 baud].prg" size="980" crc="5117d354" md5="684ced2fe9ecc177eafa6c89112e5a8c" sha1="94fa314de37582f07b65cc0cc1f68075c790d2cf"/>
+	</game>
+	<game name="Blue RAM Utility (1980)(Perkins Engineering)(proto)[300 baud]">
+		<description>Blue RAM Utility (1980)(Perkins Engineering)(proto)[300 baud]</description>
+		<rom name="Blue RAM Utility (1980)(Perkins Engineering)(proto)[300 baud].prg" size="1548" crc="27a0900d" md5="ede1f75820124315fbb5c6c7058da77f" sha1="fb3ba6c5ad26790b115ffd970e516d64563fd3d8"/>
+	</game>
+	<game name="Blue RAM Utility (1980)(Perkins Engineering)[300 baud]">
+		<description>Blue RAM Utility (1980)(Perkins Engineering)[300 baud]</description>
+		<rom name="Blue RAM Utility (1980)(Perkins Engineering)[300 baud].prg" size="2125" crc="cbe0fdcb" md5="f1f46481f73ec260d106fe69e10bc335" sha1="f2856038f71e06861d551f0b9fc27442c9422446"/>
+	</game>
+	<game name="Blue RAM Utility (1980)(Perkins Engineering)[a][300 baud]">
+		<description>Blue RAM Utility (1980)(Perkins Engineering)[a][300 baud]</description>
+		<rom name="Blue RAM Utility (1980)(Perkins Engineering)[a][300 baud].prg" size="2117" crc="8fddb20a" md5="a5259a1c9169a118cbe198f6e9756191" sha1="99542ee900ea36c6f6ec84e7e46c1bd6fa031be2"/>
+	</game>
+	<game name="Blue RAM Utility (1980-02-06)(Perkins Engineering)[300 baud - Blue RAM]">
+		<description>Blue RAM Utility (1980-02-06)(Perkins Engineering)[300 baud - Blue RAM]</description>
+		<rom name="Blue RAM Utility (1980-02-06)(Perkins Engineering)[300 baud - Blue RAM].prg" size="1824" crc="898cc572" md5="67c7568352a4332de37f79acf8cabf2c" sha1="264c8da9da519e95c8a6ee2e74b000a3c1a15251"/>
+	</game>
+	<game name="Bowling Secretary (1981)(New Image)(PD)[300 baud]">
+		<description>Bowling Secretary (1981)(New Image)(PD)[300 baud]</description>
+		<rom name="Bowling Secretary (1981)(New Image)(PD)[300 baud].prg" size="2914" crc="991ddee2" md5="3fd3b8c99004282972f810467a1e503f" sha1="6c6b97ebe6532af3b1767b43d34c03129fd720bc"/>
+	</game>
+	<game name="Bowling Secretary (1981)(New Image)(PD)[a][300 baud]">
+		<description>Bowling Secretary (1981)(New Image)(PD)[a][300 baud]</description>
+		<rom name="Bowling Secretary (1981)(New Image)(PD)[a][300 baud].prg" size="4845" crc="eef63696" md5="bc91c6306cfa886d28fe589f1ba06b7f" sha1="d61c899e2b2d98f3b1aafda9378f7a83f87217ed"/>
+	</game>
+	<game name="Calc Input &amp; Shift Utilities (1980)(Tietjens, Rich)[300 baud]">
+		<description>Calc Input &amp; Shift Utilities (1980)(Tietjens, Rich)[300 baud]</description>
+		<rom name="Calc Input &amp; Shift Utilities (1980)(Tietjens, Rich)[300 baud].prg" size="922" crc="ae9f520f" md5="6b748caa6abec456a9f9a33998d4db5e" sha1="6622e38cebbd4185ce546c8f537a9f8e99687cf4"/>
+	</game>
+	<game name="Calendar (1979)(W&amp;W Software Sales)[300 baud]">
+		<description>Calendar (1979)(W&amp;W Software Sales)[300 baud]</description>
+		<rom name="Calendar (1979)(W&amp;W Software Sales)[300 baud].prg" size="1390" crc="430aa2ae" md5="b73242a7e8bb6b83572707df73ba10ca" sha1="18e2b27db2327010a4efeca88a90a3979a5c5126"/>
+	</game>
+	<game name="Check Listing (1982)(Gordon, Al)[300 baud - Bally BASIC]">
+		<description>Check Listing (1982)(Gordon, Al)[300 baud - Bally BASIC]</description>
+		<rom name="Check Listing (1982)(Gordon, Al)[300 baud - Bally BASIC].prg" size="1310" crc="67255430" md5="194d6021833d0be4a97ee96b765026e3" sha1="005dd27a58c1b1003482f44d61cf15d94661abbd"/>
+	</game>
+	<game name="Check Printer (198x)(Tietjens, Rich)[300 baud - Blue RAM]">
+		<description>Check Printer (198x)(Tietjens, Rich)[300 baud - Blue RAM]</description>
+		<rom name="Check Printer (198x)(Tietjens, Rich)[300 baud - Blue RAM].prg" size="2431" crc="6c5c7d41" md5="7292ef65fe7556e166d92416a3d54bfb" sha1="808143071b26c6f79c231522565a2b6852ebab1d"/>
+	</game>
+	<game name="Check Printer (198x)(Tietjens, Rich)[f Thacker, Paul][300 baud - Blue RAM]">
+		<description>Check Printer (198x)(Tietjens, Rich)[f Thacker, Paul][300 baud - Blue RAM]</description>
+		<rom name="Check Printer (198x)(Tietjens, Rich)[f Thacker, Paul][300 baud - Blue RAM].prg" size="2413" crc="7ec28789" md5="51e8dd0373ed832b469b16422afce88c" sha1="74eb96dd161f3840802550e2c090756aeb316a66"/>
+	</game>
+	<game name="Checkbook (1980)(Anderson Research and Design)(PD)[300 baud]">
+		<description>Checkbook (1980)(Anderson Research and Design)(PD)[300 baud]</description>
+		<rom name="Checkbook (1980)(Anderson Research and Design)(PD)[300 baud].prg" size="1374" crc="e67aaea6" md5="cfd7ea648b61cadb52bba5911e5fa778" sha1="63cbdb18eaa6549c558a1e365d2ca2842c945bea"/>
+	</game>
+	<game name="Checkbook Balancer &amp; Compound Interest (1985)(W&amp;W Software Sales)[300 baud - Arcadian version]">
+		<description>Checkbook Balancer &amp; Compound Interest (1985)(W&amp;W Software Sales)[300 baud - Arcadian version]</description>
+		<rom name="Checkbook Balancer &amp; Compound Interest (1985)(W&amp;W Software Sales)[300 baud - Arcadian version].prg" size="1969" crc="65abddcd" md5="e151ccd96e1339618abd20c49d90e30d" sha1="132aac6d63e7069bbaf9e387647cd64888059f2f"/>
+	</game>
+	<game name="Checkbook Balancer &amp; Compound Interest - Tape Version (1979)(W&amp;W Software Sales)[300 baud]">
+		<description>Checkbook Balancer &amp; Compound Interest - Tape Version (1979)(W&amp;W Software Sales)[300 baud]</description>
+		<rom name="Checkbook Balancer &amp; Compound Interest - Tape Version (1979)(W&amp;W Software Sales)[300 baud].prg" size="1410" crc="e27fb16b" md5="3e363cdf7b2fc8a159c32da2d60f6f1a" sha1="56d660d0ef9a835b569e3220e5c09fea37ab2063"/>
+	</game>
+	<game name="Circle Plotter (1981-01-09)(Ellerson, Barry)(PD)[300 baud]">
+		<description>Circle Plotter (1981-01-09)(Ellerson, Barry)(PD)[300 baud]</description>
+		<rom name="Circle Plotter (1981-01-09)(Ellerson, Barry)(PD)[300 baud].prg" size="430" crc="f7768d7b" md5="91a7e2ce25912569c337190e6a4f8199" sha1="d2b6969acb97747d9d9dfe49240d35777eda4b25"/>
+	</game>
+	<game name="Clock (1979-03-23)(Cousins, J.)(PD)[300 baud]">
+		<description>Clock (1979-03-23)(Cousins, J.)(PD)[300 baud]</description>
+		<rom name="Clock (1979-03-23)(Cousins, J.)(PD)[300 baud].prg" size="511" crc="a902289e" md5="0b818a5221087cd685564f3b79fa6de0" sha1="d2cd0863919717cfb2abd0a1ffa15aebbeea0d66"/>
+	</game>
+	<game name="Clock (1980)(W&amp;W Software Sales)[300 baud]">
+		<description>Clock (1980)(W&amp;W Software Sales)[300 baud]</description>
+		<rom name="Clock (1980)(W&amp;W Software Sales)[300 baud].prg" size="736" crc="0c1a436a" md5="abfa35b40397e13d0cf685927a34f635" sha1="bac83a84c96a2dd6ea7eddddbfa2b4b9b68b6a95"/>
+	</game>
+	<game name="Coder-Decoder (1981-11-10)(Edge Software)(PD)[300 baud]">
+		<description>Coder-Decoder (1981-11-10)(Edge Software)(PD)[300 baud]</description>
+		<rom name="Coder-Decoder (1981-11-10)(Edge Software)(PD)[300 baud].prg" size="785" crc="82c459ad" md5="d98f6b6e004b3eb1fb510d7b1e670235" sha1="3f5a337eb98f5eae5e4e943b775040fe9e931ca9"/>
+	</game>
+	<game name="Color Chart (1981-01-09)(Winn, Jim)(PD)[300 baud]">
+		<description>Color Chart (1981-01-09)(Winn, Jim)(PD)[300 baud]</description>
+		<rom name="Color Chart (1981-01-09)(Winn, Jim)(PD)[300 baud].prg" size="1575" crc="153f88f3" md5="7ee4187c04e32a0a29847c59679c2f26" sha1="1f436ad965fda08e2b739ea02ae073a516717653"/>
+	</game>
+	<game name="Color Selector (1982)(Doerge, Klaus)(PD)[300 baud]">
+		<description>Color Selector (1982)(Doerge, Klaus)(PD)[300 baud]</description>
+		<rom name="Color Selector (1982)(Doerge, Klaus)(PD)[300 baud].prg" size="1879" crc="d2b7d05b" md5="d43bc2a1390d7caf49f0586a90051af1" sha1="6bd8f1764d154748bbd18e71356d56c450606451"/>
+	</game>
+	<game name="Compound Interest (1981-07-09)(Shadle, Jess)(PD)[300 baud]">
+		<description>Compound Interest (1981-07-09)(Shadle, Jess)(PD)[300 baud]</description>
+		<rom name="Compound Interest (1981-07-09)(Shadle, Jess)(PD)[300 baud].prg" size="1540" crc="965ba56d" md5="f6e9f52f31f26d50da9f69a45d651087" sha1="6c7a388424224bb745df2647499f4f62ae5a9218"/>
+	</game>
+	<game name="Convert Hex to Decimal (1979-03-23)(Sams, Ernie)(PD)[300 baud]">
+		<description>Convert Hex to Decimal (1979-03-23)(Sams, Ernie)(PD)[300 baud]</description>
+		<rom name="Convert Hex to Decimal (1979-03-23)(Sams, Ernie)(PD)[300 baud].prg" size="466" crc="8081f2f2" md5="8e6b4835bf3aeb83002e46659c3cea63" sha1="0079e95e32a7146b1a24b01bd84bc63030039578"/>
+	</game>
+	<game name="Copy Test (198x)(-)[300 baud - Blue RAM]">
+		<description>Copy Test (198x)(-)[300 baud - Blue RAM]</description>
+		<rom name="Copy Test (198x)(-)[300 baud - Blue RAM].prg" size="176" crc="8719a959" md5="83871e3fa20df5148a6ec19809776034" sha1="400d7cde5d2be810c80e1a667ec54f4a0a11c6a6"/>
+	</game>
+	<game name="Crazyface (1980)(Walters, Steve)[300 baud]">
+		<description>Crazyface (1980)(Walters, Steve)[300 baud]</description>
+		<rom name="Crazyface (1980)(Walters, Steve)[300 baud].prg" size="2276" crc="288f442f" md5="25f2badcf4c07779bac1a2058d6b63ee" sha1="c997e0b1374038cb95ccd0c1719b9893b6ea0523"/>
+	</game>
+	<game name="Custom Graphics v3.1 (1982-06-11)(Tietjens, Rich)[300 baud]">
+		<description>Custom Graphics v3.1 (1982-06-11)(Tietjens, Rich)[300 baud]</description>
+		<rom name="Custom Graphics v3.1 (1982-06-11)(Tietjens, Rich)[300 baud].prg" size="3198" crc="f20b34c3" md5="ccd7101ff0f90e7876dcac89ad6b326d" sha1="77085e133902a570241d20d09bf1f4e816e55271"/>
+	</game>
+	<game name="Data Storage Subroutine (1979)(Collins, John - Weber, Bob)(PD)[300 baud]">
+		<description>Data Storage Subroutine (1979)(Collins, John - Weber, Bob)(PD)[300 baud]</description>
+		<rom name="Data Storage Subroutine (1979)(Collins, John - Weber, Bob)(PD)[300 baud].prg" size="135" crc="267d680b" md5="83593c6d483fa5c6f2f794932b7bbf2e" sha1="3f92530f348ffe3ded35f46bea2a6286d3519e99"/>
+	</game>
+	<game name="Data Storage Subroutine (1979-05-04)(Weber, Bob)(PD)[300 baud]">
+		<description>Data Storage Subroutine (1979-05-04)(Weber, Bob)(PD)[300 baud]</description>
+		<rom name="Data Storage Subroutine (1979-05-04)(Weber, Bob)(PD)[300 baud].prg" size="131" crc="2e16278d" md5="3240453b6fff8c47b147851a26257564" sha1="116809b84c2f4c34ebc9e82cb6ad904135103f7f"/>
+	</game>
+	<game name="Day-of-the-Week and Calendar Program (1980-12-05)(Gregg, Kirk)(PD)[300 baud]">
+		<description>Day-of-the-Week and Calendar Program (1980-12-05)(Gregg, Kirk)(PD)[300 baud]</description>
+		<rom name="Day-of-the-Week and Calendar Program (1980-12-05)(Gregg, Kirk)(PD)[300 baud].prg" size="2153" crc="2494ebd3" md5="db30a8c8edfb42152a3be62689eca352" sha1="d1eaa2e207d93671071b367e8bf12ce9f8db6aec"/>
+	</game>
+	<game name="Decimal Division (1979-11-29)(Gallant, Laurence)(PD)[300 baud]">
+		<description>Decimal Division (1979-11-29)(Gallant, Laurence)(PD)[300 baud]</description>
+		<rom name="Decimal Division (1979-11-29)(Gallant, Laurence)(PD)[300 baud].prg" size="117" crc="a16fc18d" md5="841986111a9f4a8d4474d05ea4a07f1c" sha1="fed90ca6d989a81095b1f9966f97e85660503a90"/>
+	</game>
+	<game name="Decimal to Poke (1980)(Anderson Research and Design)(PD)[300 baud]">
+		<description>Decimal to Poke (1980)(Anderson Research and Design)(PD)[300 baud]</description>
+		<rom name="Decimal to Poke (1980)(Anderson Research and Design)(PD)[300 baud].prg" size="257" crc="20096167" md5="be0222256740e8ab208ae9057a047e03" sha1="15812888aa953cbe5a606e1365fadac2ba72ec90"/>
+	</game>
+	<game name="Decimal to ROMAN NUMeral Converter (2011-03-13)(Degler, Richard C.)[Color BASIC]">
+		<description>Decimal to ROMAN NUMeral Converter (2011-03-13)(Degler, Richard C.)[Color BASIC]</description>
+		<rom name="Decimal to ROMAN NUMeral Converter (2011-03-13)(Degler, Richard C.)[Color BASIC].prg" size="523" crc="1957e918" md5="69cff0c6ad61404a207beba1cf04f610" sha1="5e2820054f14a41dd2670fd6f39e6af9006cb43d"/>
+	</game>
+	<game name="Denominator (1981-02-07)(Heinerman, Dieter)[300 baud]">
+		<description>Denominator (1981-02-07)(Heinerman, Dieter)[300 baud]</description>
+		<rom name="Denominator (1981-02-07)(Heinerman, Dieter)[300 baud].prg" size="304" crc="8e126f52" md5="07d881365f7b4cce49a1080512641dcc" sha1="285a867ddc03ad4b87eec51faf6724f5300ecd41"/>
+	</game>
+	<game name="Dial-Up Directory (1980)(Thomka, Chuck - Tietjens, Rich)[300 baud]">
+		<description>Dial-Up Directory (1980)(Thomka, Chuck - Tietjens, Rich)[300 baud]</description>
+		<rom name="Dial-Up Directory (1980)(Thomka, Chuck - Tietjens, Rich)[300 baud].prg" size="1072" crc="5d63e2a4" md5="c4aee5ac77dd767acd57dd5adf0d55a9" sha1="e2097b7560a19c8aefc193df3173ed59c4214ebb"/>
+	</game>
+	<game name="Distance Between Two Points (1979)(Houser, Richard - Stocker, David)(PD)[300 baud]">
+		<description>Distance Between Two Points (1979)(Houser, Richard - Stocker, David)(PD)[300 baud]</description>
+		<rom name="Distance Between Two Points (1979)(Houser, Richard - Stocker, David)(PD)[300 baud].prg" size="255" crc="a6f85271" md5="afa8fb5d3ab6ba5674c9cbf08c567b96" sha1="4ecfad21de4fad151810073da8536d348d9c16b5"/>
+	</game>
+	<game name="Distance Between Two Points (1979-06-20)(Stocker, David)(PD)[300 baud]">
+		<description>Distance Between Two Points (1979-06-20)(Stocker, David)(PD)[300 baud]</description>
+		<rom name="Distance Between Two Points (1979-06-20)(Stocker, David)(PD)[300 baud].prg" size="327" crc="0e2060e0" md5="54e33f28afae439603df4b5eb498330b" sha1="0ea7d77072e4678d6ee06ced9ca8ff88676bfff1"/>
+	</game>
+	<game name="Division (1979-09-30)(Gladstein, Marc)(PD)[300 baud]">
+		<description>Division (1979-09-30)(Gladstein, Marc)(PD)[300 baud]</description>
+		<rom name="Division (1979-09-30)(Gladstein, Marc)(PD)[300 baud].prg" size="91" crc="2214f21b" md5="092b7e3d511588536a5b427c2a874860" sha1="39d01da8233b6a30ef84acc3c4531d0257fa5d3a"/>
+	</game>
+	<game name="Division with Decimals (1979-02-19)(Law, Paul)(PD)[300 baud]">
+		<description>Division with Decimals (1979-02-19)(Law, Paul)(PD)[300 baud]</description>
+		<rom name="Division with Decimals (1979-02-19)(Law, Paul)(PD)[300 baud].prg" size="172" crc="f127622e" md5="0b55ebf6962e0844825d5b7c61a9182e" sha1="e4c2acba822767958ccf980c0c44ffdecdee9afe"/>
+	</game>
+	<game name="Dot Generator (1980-05-19)(Fowler, Jay)(PD)[300 baud]">
+		<description>Dot Generator (1980-05-19)(Fowler, Jay)(PD)[300 baud]</description>
+		<rom name="Dot Generator (1980-05-19)(Fowler, Jay)(PD)[300 baud].prg" size="139" crc="884f8383" md5="2049448ebc3757c4d7243ee336b6065d" sha1="b4cca9bd35c992420699a213c039e9770e55c9ba"/>
+	</game>
+	<game name="Dungeons and Dragons Game Aid Package v3.2 (1982)(Tietjens, Rich)(Side A)(Clerics &amp; Druids)[300 baud]">
+		<description>Dungeons and Dragons Game Aid Package v3.2 (1982)(Tietjens, Rich)(Side A)(Clerics &amp; Druids)[300 baud]</description>
+		<rom name="Dungeons and Dragons Game Aid Package v3.2 (1982)(Tietjens, Rich)(Side A)(Clerics &amp; Druids)[300 baud].prg" size="1873" crc="818acca3" md5="a5d801a4b6d680ca34c4120404ae85d0" sha1="70e1f6d7fc1e2496de6b6eac29b838ff063e4e03"/>
+	</game>
+	<game name="Dungeons and Dragons Game Aid Package v3.2 (1982)(Tietjens, Rich)(Side A)(Fighters)[300 baud]">
+		<description>Dungeons and Dragons Game Aid Package v3.2 (1982)(Tietjens, Rich)(Side A)(Fighters)[300 baud]</description>
+		<rom name="Dungeons and Dragons Game Aid Package v3.2 (1982)(Tietjens, Rich)(Side A)(Fighters)[300 baud].prg" size="1545" crc="04b62bbc" md5="d1ff76f998080d2100bc73209ea31b43" sha1="cac7555062e2584339e80cf011bfb1a30fd43c04"/>
+	</game>
+	<game name="Dungeons and Dragons Game Aid Package v3.2 (1982)(Tietjens, Rich)(Side A)(Magic-user &amp; Illusionist)">
+		<description>Dungeons and Dragons Game Aid Package v3.2 (1982)(Tietjens, Rich)(Side A)(Magic-user &amp; Illusionist)</description>
+		<rom name="Dungeons and Dragons Game Aid Package v3.2 (1982)(Tietjens, Rich)(Side A)(Magic-user &amp; Illusionist).prg" size="1617" crc="b5352aeb" md5="58fdbbd533c0dffd200c65f5f9e74150" sha1="e231c37bff7fc0b528d04abccc9853d5d7963f1c"/>
+	</game>
+	<game name="Dungeons and Dragons Game Aid Package v3.2 (1982)(Tietjens, Rich)(Side A)(Personality)[300 baud]">
+		<description>Dungeons and Dragons Game Aid Package v3.2 (1982)(Tietjens, Rich)(Side A)(Personality)[300 baud]</description>
+		<rom name="Dungeons and Dragons Game Aid Package v3.2 (1982)(Tietjens, Rich)(Side A)(Personality)[300 baud].prg" size="2097" crc="9ec75f4a" md5="d1b711f591c3ae8608deae5d29fd06bb" sha1="f964740a02902d9f2039286f085b42902867d25c"/>
+	</game>
+	<game name="Dungeons and Dragons Game Aid Package v3.2 (1982)(Tietjens, Rich)(Side A)(Player Character Generator)[300 baud]">
+		<description>Dungeons and Dragons Game Aid Package v3.2 (1982)(Tietjens, Rich)(Side A)(Player Character Generator)[300 baud]</description>
+		<rom name="Dungeons and Dragons Game Aid Package v3.2 (1982)(Tietjens, Rich)(Side A)(Player Character Generator)[300 baud].prg" size="946" crc="48807bc3" md5="cdd3eda7a8d1d3d26a3bac37840222a2" sha1="b439b30a099590c48f53632634060555d6ebe8e7"/>
+	</game>
+	<game name="Dungeons and Dragons Game Aid Package v3.2 (1982)(Tietjens, Rich)(Side A)(Races)[300 baud]">
+		<description>Dungeons and Dragons Game Aid Package v3.2 (1982)(Tietjens, Rich)(Side A)(Races)[300 baud]</description>
+		<rom name="Dungeons and Dragons Game Aid Package v3.2 (1982)(Tietjens, Rich)(Side A)(Races)[300 baud].prg" size="1942" crc="5c06bb8f" md5="f4ca0394267c2e8c109731732eceb6ee" sha1="a412f5f770de081be1ed28eb4bbd676971fb7025"/>
+	</game>
+	<game name="Dungeons and Dragons Game Aid Package v3.2 (1982)(Tietjens, Rich)(Side A)(Thieves &amp; Assassins)[300 baud]">
+		<description>Dungeons and Dragons Game Aid Package v3.2 (1982)(Tietjens, Rich)(Side A)(Thieves &amp; Assassins)[300 baud]</description>
+		<rom name="Dungeons and Dragons Game Aid Package v3.2 (1982)(Tietjens, Rich)(Side A)(Thieves &amp; Assassins)[300 baud].prg" size="1575" crc="2d6f61eb" md5="7dfc9aba6dbf7b126da2df1102a6b3b2" sha1="e4ddf6298f3ae749bf948a7997fbfb6ddf4a9e9d"/>
+	</game>
+	<game name="Dungeons and Dragons Game Aid Package v3.2 (1982)(Tietjens, Rich)(Side B)">
+		<description>Dungeons and Dragons Game Aid Package v3.2 (1982)(Tietjens, Rich)(Side B)</description>
+		<rom name="Dungeons and Dragons Game Aid Package v3.2 (1982)(Tietjens, Rich)(Side B).prg" size="20230" crc="dd7e9aee" md5="02368a5c73dae8faebff07c996aee4ce" sha1="2d8c364e365d2bd6564a62d90ac2a2298517df62"/>
+	</game>
+	<game name="Dungeons and Dragons Program Package (1980)(Tietjens, Richs)(Side A)[300 baud]">
+		<description>Dungeons and Dragons Program Package (1980)(Tietjens, Richs)(Side A)[300 baud]</description>
+		<rom name="Dungeons and Dragons Program Package (1980)(Tietjens, Richs)(Side A)[300 baud].prg" size="14404" crc="a1efcf8a" md5="95965785f5bf0e6c40a96e376038ff7a" sha1="be50a07e879de9e0a83f20286200242eccb8217f"/>
+	</game>
+	<game name="Dungeons and Dragons Program Package (1980)(Tietjens, Richs)(Side B)[300 baud]">
+		<description>Dungeons and Dragons Program Package (1980)(Tietjens, Richs)(Side B)[300 baud]</description>
+		<rom name="Dungeons and Dragons Program Package (1980)(Tietjens, Richs)(Side B)[300 baud].prg" size="15201" crc="db898df1" md5="aa9dad1ddcc2af7d98fd9033fbd02db7" sha1="e42e051585ce389847a7437fc55aea7f560b0ae4"/>
+	</game>
+	<game name="Dungeons and Dragons Program Package - Clerics &amp; Druids (1980)(Tietjens, Rich)[300 baud]">
+		<description>Dungeons and Dragons Program Package - Clerics &amp; Druids (1980)(Tietjens, Rich)[300 baud]</description>
+		<rom name="Dungeons and Dragons Program Package - Clerics &amp; Druids (1980)(Tietjens, Rich)[300 baud].prg" size="1749" crc="eff1f526" md5="b145ee7694c9e536eae38a17e1ba2fca" sha1="4fe251c17cba0b1ff3c17e17861b43a700a2b215"/>
+	</game>
+	<game name="Dungeons and Dragons Program Package - Dice II (1980)(Tietjens, Rich)[300 baud]">
+		<description>Dungeons and Dragons Program Package - Dice II (1980)(Tietjens, Rich)[300 baud]</description>
+		<rom name="Dungeons and Dragons Program Package - Dice II (1980)(Tietjens, Rich)[300 baud].prg" size="2173" crc="a5c70d8b" md5="fe72bb02a691a14cca1aa460af67b4f7" sha1="3008c2af8ca4e00a6135671020460996e39e0c25"/>
+	</game>
+	<game name="Dungeons and Dragons Program Package - Dungeon Dice (1980)(Tietjens, Rich)[300 baud]">
+		<description>Dungeons and Dragons Program Package - Dungeon Dice (1980)(Tietjens, Rich)[300 baud]</description>
+		<rom name="Dungeons and Dragons Program Package - Dungeon Dice (1980)(Tietjens, Rich)[300 baud].prg" size="2061" crc="75cd1685" md5="4b494caf2db02a999a96d64fe9649e71" sha1="8ea203e25217c58c687a4c354a6271566010af43"/>
+	</game>
+	<game name="Dungeons and Dragons Program Package - Dungeon Dust (1980)(Tietjens, Rich)[300 baud]">
+		<description>Dungeons and Dragons Program Package - Dungeon Dust (1980)(Tietjens, Rich)[300 baud]</description>
+		<rom name="Dungeons and Dragons Program Package - Dungeon Dust (1980)(Tietjens, Rich)[300 baud].prg" size="1858" crc="d83fcbd6" md5="20a21f8f96397efe2d7a60e58d8399cb" sha1="c5ef9cb711249389645671eb3833a2c23197e37b"/>
+	</game>
+	<game name="Dungeons and Dragons Program Package - Dungeon Maker (1980)(Tietjens, Rich)[300 baud]">
+		<description>Dungeons and Dragons Program Package - Dungeon Maker (1980)(Tietjens, Rich)[300 baud]</description>
+		<rom name="Dungeons and Dragons Program Package - Dungeon Maker (1980)(Tietjens, Rich)[300 baud].prg" size="2267" crc="c583ae64" md5="45cb7680ea88e88e457b5935ba3972f6" sha1="14471c13073e3738759c91114f76af396764c85f"/>
+	</game>
+	<game name="Dungeons and Dragons Program Package - Fighters (1980)(Tietjens, Rich)[300 baud]">
+		<description>Dungeons and Dragons Program Package - Fighters (1980)(Tietjens, Rich)[300 baud]</description>
+		<rom name="Dungeons and Dragons Program Package - Fighters (1980)(Tietjens, Rich)[300 baud].prg" size="1387" crc="95225a22" md5="8b02f52e54bfb696becd4e3ae933ecaf" sha1="840018423e6d9877c3f8f273eb3b0681fa6d1b00"/>
+	</game>
+	<game name="Dungeons and Dragons Program Package - Magic-user &amp; Illusionist (1980)(Tietjens, Rich)[300 baud]">
+		<description>Dungeons and Dragons Program Package - Magic-user &amp; Illusionist (1980)(Tietjens, Rich)[300 baud]</description>
+		<rom name="Dungeons and Dragons Program Package - Magic-user &amp; Illusionist (1980)(Tietjens, Rich)[300 baud].prg" size="1549" crc="620cd63d" md5="580e2ee76d7bdbc7cc4c80dbc76c39ed" sha1="7c6212c55dc3355d65fcc55ffc31bf8154388407"/>
+	</game>
+	<game name="Dungeons and Dragons Program Package - Personality (1980)(Tietjens, Rich)[300 baud]">
+		<description>Dungeons and Dragons Program Package - Personality (1980)(Tietjens, Rich)[300 baud]</description>
+		<rom name="Dungeons and Dragons Program Package - Personality (1980)(Tietjens, Rich)[300 baud].prg" size="2248" crc="56c04d46" md5="14c1171212d702c5e4874a7eb66af060" sha1="774f3337c993f142c4aad4296ae158b9a2bd1628"/>
+	</game>
+	<game name="Dungeons and Dragons Program Package - Races (1980)(Tietjens, Rich)[300 baud]">
+		<description>Dungeons and Dragons Program Package - Races (1980)(Tietjens, Rich)[300 baud]</description>
+		<rom name="Dungeons and Dragons Program Package - Races (1980)(Tietjens, Rich)[300 baud].prg" size="1967" crc="d6492f5a" md5="ed338e15d4f5c2889e130348da06de8f" sha1="ada795444b3fa92765a2fd10f7e80e1ebb69fd73"/>
+	</game>
+	<game name="Dungeons and Dragons Program Package - Thieves &amp; Assassins (1980)(Tietjens, Rich)[300 baud]">
+		<description>Dungeons and Dragons Program Package - Thieves &amp; Assassins (1980)(Tietjens, Rich)[300 baud]</description>
+		<rom name="Dungeons and Dragons Program Package - Thieves &amp; Assassins (1980)(Tietjens, Rich)[300 baud].prg" size="1266" crc="8195e4eb" md5="1a702e751c41a8db288db10232d3cc79" sha1="0459889986cfa120f3f2543003b5c3fa3e82979a"/>
+	</game>
+	<game name="Fahrenheit-Celcius Conversion (19xx)(Tietjens, Rich)[300 baud]">
+		<description>Fahrenheit-Celcius Conversion (19xx)(Tietjens, Rich)[300 baud]</description>
+		<rom name="Fahrenheit-Celcius Conversion (19xx)(Tietjens, Rich)[300 baud].prg" size="954" crc="8f5d9d50" md5="69486225663e51105ca431b7b64efd18" sha1="3709db3afb59ec1edac1bdceaf2a5602be8a8543"/>
+	</game>
+	<game name="Fantasy Game Package - Dungeon Grafix I (1979)(McLimore Jr., Guy)[300 baud]">
+		<description>Fantasy Game Package - Dungeon Grafix I (1979)(McLimore Jr., Guy)[300 baud]</description>
+		<rom name="Fantasy Game Package - Dungeon Grafix I (1979)(McLimore Jr., Guy)[300 baud].prg" size="2042" crc="81892bad" md5="5bc3644b6727a1150e07de36a434be75" sha1="644812da39325f3d17764ab4a82a26b21dbbb147"/>
+	</game>
+	<game name="Fantasy Game Package - Dungeon Grafix II (1979)(McLimore Jr., Guy)[300 baud]">
+		<description>Fantasy Game Package - Dungeon Grafix II (1979)(McLimore Jr., Guy)[300 baud]</description>
+		<rom name="Fantasy Game Package - Dungeon Grafix II (1979)(McLimore Jr., Guy)[300 baud].prg" size="958" crc="ba1b4178" md5="6815360845fbeb8237fc249b2c797e30" sha1="ed798f24955e873ca35914b09d3f5a92eec6fe9d"/>
+	</game>
+	<game name="Fantasy Game Package - Fantasy People (1979)(McLimore Jr., Guy)[300 baud]">
+		<description>Fantasy Game Package - Fantasy People (1979)(McLimore Jr., Guy)[300 baud]</description>
+		<rom name="Fantasy Game Package - Fantasy People (1979)(McLimore Jr., Guy)[300 baud].prg" size="1940" crc="55e41b96" md5="0122b0d6d32b2570827e041328609bf0" sha1="bfad73a8c8b59a2a833b3856d556fe3502032eef"/>
+	</game>
+	<game name="Fantasy Game Package - Multidie (1979)(McLimore Jr., Guy)[300 baud]">
+		<description>Fantasy Game Package - Multidie (1979)(McLimore Jr., Guy)[300 baud]</description>
+		<rom name="Fantasy Game Package - Multidie (1979)(McLimore Jr., Guy)[300 baud].prg" size="1102" crc="747e47f4" md5="a333990aaad44b64fa2a286ac5e9c10b" sha1="188c0ddfd908450253a3aba78b394b04a8bd91a4"/>
+	</game>
+	<game name="File Create (1980)(Keller, Mark)[300 baud]">
+		<description>File Create (1980)(Keller, Mark)[300 baud]</description>
+		<rom name="File Create (1980)(Keller, Mark)[300 baud].prg" size="471" crc="0ef1936f" md5="ebc178645831c0f782f9cc8271f91cff" sha1="ce4695ec2b122a3fbceb31d891b793d67e9a1e26"/>
+	</game>
+	<game name="Frequencies (1979-09-30)(Hood, Robert)(PD)[300 baud]">
+		<description>Frequencies (1979-09-30)(Hood, Robert)(PD)[300 baud]</description>
+		<rom name="Frequencies (1979-09-30)(Hood, Robert)(PD)[300 baud].prg" size="1001" crc="64683a00" md5="3e1e4efbf804cf63fff7c91674270739" sha1="70735aae8dba685f96bbed7a232c57912a20543d"/>
+	</game>
+	<game name="Grandfather Clock (1981-01-09)(Ellerson, Barry)(PD)[300 baud]">
+		<description>Grandfather Clock (1981-01-09)(Ellerson, Barry)(PD)[300 baud]</description>
+		<rom name="Grandfather Clock (1981-01-09)(Ellerson, Barry)(PD)[300 baud].prg" size="1602" crc="260a28c4" md5="252385d4cf01906942bf8759ef18d8f9" sha1="650714e9cbd3da1724b851143eacc27b88ff1f7d"/>
+	</game>
+	<game name="Grandfather Clock (1981-03-07)(Ellerson, Barry)(PD)[300 baud]">
+		<description>Grandfather Clock (1981-03-07)(Ellerson, Barry)(PD)[300 baud]</description>
+		<rom name="Grandfather Clock (1981-03-07)(Ellerson, Barry)(PD)[300 baud].prg" size="1602" crc="ff8818c7" md5="92e00c05f2eb56bcc818d799ea88888f" sha1="8dae837a85657d46ff9d73f5c480e2ddb9243954"/>
+	</game>
+	<game name="Graphic Utility Subprograms - Part 1 (1980)(Marselle, Jim)[300 baud]">
+		<description>Graphic Utility Subprograms - Part 1 (1980)(Marselle, Jim)[300 baud]</description>
+		<rom name="Graphic Utility Subprograms - Part 1 (1980)(Marselle, Jim)[300 baud].prg" size="2202" crc="a4185398" md5="2e61fbb5069db08796c962efb3b14fff" sha1="ada89b7f02c4a58c50876da4db31f96b7101c372"/>
+	</game>
+	<game name="Graphic Utility Subprograms - Part 2 (1980)(Marselle, Jim)[300 baud]">
+		<description>Graphic Utility Subprograms - Part 2 (1980)(Marselle, Jim)[300 baud]</description>
+		<rom name="Graphic Utility Subprograms - Part 2 (1980)(Marselle, Jim)[300 baud].prg" size="1100" crc="388aa032" md5="c05b4d7dedd8a59582d2b6fbbbd35fe4" sha1="6baed665385294b8e0493459f4cb6531df00b637"/>
+	</game>
+	<game name="Graphic Utility Subprograms - Part 3 (1980)(Marselle, Jim)[300 baud]">
+		<description>Graphic Utility Subprograms - Part 3 (1980)(Marselle, Jim)[300 baud]</description>
+		<rom name="Graphic Utility Subprograms - Part 3 (1980)(Marselle, Jim)[300 baud].prg" size="1856" crc="9875053c" md5="e2374b29842d5f437814e6eee2e1a63f" sha1="00baf05486fcaa8894ead5b706058ecd6769e4a1"/>
+	</game>
+	<game name="Graphic Utility Subprograms - Part 4 (1980)(Marselle, Jim)[300 baud]">
+		<description>Graphic Utility Subprograms - Part 4 (1980)(Marselle, Jim)[300 baud]</description>
+		<rom name="Graphic Utility Subprograms - Part 4 (1980)(Marselle, Jim)[300 baud].prg" size="719" crc="d41a5793" md5="60506bd7acbc6daef81b515f9481058f" sha1="83756b1d2c95c9251630de821ded7596b853c06e"/>
+	</game>
+	<game name="Graphics Assembler (1980-09-17)(Fitler, Hugh)(PD)[300 baud]">
+		<description>Graphics Assembler (1980-09-17)(Fitler, Hugh)(PD)[300 baud]</description>
+		<rom name="Graphics Assembler (1980-09-17)(Fitler, Hugh)(PD)[300 baud].prg" size="1174" crc="2e4f6e1c" md5="96bfca94ff316fb5e5b6a45bbf85ef1d" sha1="a855a1d053179cba4092a0fdf3ac3b1e11c5efdc"/>
+	</game>
+	<game name="Hardcopy Converter v1 (19xx)(Tietjens, Rich)[300 baud]">
+		<description>Hardcopy Converter v1 (19xx)(Tietjens, Rich)[300 baud]</description>
+		<rom name="Hardcopy Converter v1 (19xx)(Tietjens, Rich)[300 baud].prg" size="321" crc="4e209a30" md5="4ccc5db0b6eecfee7a25e91b89038e28" sha1="e094866d5201cc6962202d90dbde1983054650f4"/>
+	</game>
+	<game name="Hardcopy Converter v2 (19xx)(Tietjens, Rich)[300 baud]">
+		<description>Hardcopy Converter v2 (19xx)(Tietjens, Rich)[300 baud]</description>
+		<rom name="Hardcopy Converter v2 (19xx)(Tietjens, Rich)[300 baud].prg" size="303" crc="d2fee924" md5="e7e85cb234af6d09f2371346aca3de34" sha1="824ee19e9c8a38c0120d169cb2c51a21242b0857"/>
+	</game>
+	<game name="Hex to Decimal Converter (1980-02)(Cornett, Fred)[300 baud]">
+		<description>Hex to Decimal Converter (1980-02)(Cornett, Fred)[300 baud]</description>
+		<rom name="Hex to Decimal Converter (1980-02)(Cornett, Fred)[300 baud].prg" size="458" crc="acd20c4f" md5="477df301c761a781949d69b0e8b1e7eb" sha1="4072f9895093df30ed2e3eafb38896330bd27a25"/>
+	</game>
+	<game name="Hidden Word Finder (1980)(Walters, Steve)[300 baud]">
+		<description>Hidden Word Finder (1980)(Walters, Steve)[300 baud]</description>
+		<rom name="Hidden Word Finder (1980)(Walters, Steve)[300 baud].prg" size="1524" crc="b404c71a" md5="f2bd2b0462de551508d149683eb68daf" sha1="6e3e64d647c5822aa5cafe783492737458d2a04b"/>
+	</game>
+	<game name="Hot Rod BASIC (1981)(Fenton, Jay)[300 baud]">
+		<description>Hot Rod BASIC (1981)(Fenton, Jay)[300 baud]</description>
+		<rom name="Hot Rod BASIC (1981)(Fenton, Jay)[300 baud].prg" size="8556" crc="29bcf761" md5="87c9192cd3ac8991360725d283f56640" sha1="9aa26991ce82210c52340ff42b0fcb9e30ca77eb"/>
+	</game>
+	<game name="LCD Clock (19xx)(Sams, Ernie)[300 baud]">
+		<description>LCD Clock (19xx)(Sams, Ernie)[300 baud]</description>
+		<rom name="LCD Clock (19xx)(Sams, Ernie)[300 baud].prg" size="2014" crc="e089781e" md5="6269d6ce2100ead805419da3dc509baf" sha1="4bf9539f20331c8b4f816b688ef837f4368a10be"/>
+	</game>
+	<game name="Line Concatenator (1981)(Dunson, Jim - Ibach, Dave)[300 baud]">
+		<description>Line Concatenator (1981)(Dunson, Jim - Ibach, Dave)[300 baud]</description>
+		<rom name="Line Concatenator (1981)(Dunson, Jim - Ibach, Dave)[300 baud].prg" size="249" crc="fb7d9da4" md5="7eafd0b08e787c92c732f8eddf2f4ace" sha1="6ebd9024f3b04394cc8890b2b78c402379c87944"/>
+	</game>
+	<game name="Loans (19xx)(-)[300 baud - Bally BASIC]">
+		<description>Loans (19xx)(-)[300 baud - Bally BASIC]</description>
+		<rom name="Loans (19xx)(-)[300 baud - Bally BASIC].prg" size="1480" crc="60c17608" md5="a23238cf0fbc65c4312bac2e2f30ce04" sha1="facdb2443249ff9913069c140f6e4e248167bb5d"/>
+	</game>
+	<game name="Manual Assembler (1979-12-22)(Braddam, R.)(PD)[300 baud]">
+		<description>Manual Assembler (1979-12-22)(Braddam, R.)(PD)[300 baud]</description>
+		<rom name="Manual Assembler (1979-12-22)(Braddam, R.)(PD)[300 baud].prg" size="310" crc="8e67a277" md5="a2c6c721f18530c6cf541ea84a0f7d73" sha1="b93c1194fee1647ed903f29c10d57809c851b9c5"/>
+	</game>
+	<game name="Math Routine (19xx)(Nowak, K.E.N.)[300 baud]">
+		<description>Math Routine (19xx)(Nowak, K.E.N.)[300 baud]</description>
+		<rom name="Math Routine (19xx)(Nowak, K.E.N.)[300 baud].prg" size="1081" crc="350dedd7" md5="56ca450e6353d7cd455ceb43d57b77bc" sha1="4c3ae10a0aa9f391354da2b51b937e3919ebbd23"/>
+	</game>
+	<game name="Maze-A-Matic (1980)(Super Software)[300 baud]">
+		<description>Maze-A-Matic (1980)(Super Software)[300 baud]</description>
+		<rom name="Maze-A-Matic (1980)(Super Software)[300 baud].prg" size="1434" crc="e42a9006" md5="3360c6533b72576818af8f13c3d2cf87" sha1="637d2609b861ffe7a468f907c8c373b8f6ba2521"/>
+	</game>
+	<game name="Memory Clear (1981)(Dunson, Jim)[300 baud]">
+		<description>Memory Clear (1981)(Dunson, Jim)[300 baud]</description>
+		<rom name="Memory Clear (1981)(Dunson, Jim)[300 baud].prg" size="240" crc="f78b7cfe" md5="3b6749a093f63771cb092dda49008d76" sha1="adde307f2af9925c08a419f264083883975c96f3"/>
+	</game>
+	<game name="Memory Contents - Binary (1979-05-04)(Bilbrey, Brett - Manowski, Max)(PD)[300 baud]">
+		<description>Memory Contents - Binary (1979-05-04)(Bilbrey, Brett - Manowski, Max)(PD)[300 baud]</description>
+		<rom name="Memory Contents - Binary (1979-05-04)(Bilbrey, Brett - Manowski, Max)(PD)[300 baud].prg" size="375" crc="78b12f97" md5="73c29076fe8dd450fb38461a825ee1a5" sha1="a22913ac60efa99cec04ae64a1602285956cbe2a"/>
+	</game>
+	<game name="Memory Contents - Hex (1979-05-04)(Moser, Gary)(PD)[300 baud]">
+		<description>Memory Contents - Hex (1979-05-04)(Moser, Gary)(PD)[300 baud]</description>
+		<rom name="Memory Contents - Hex (1979-05-04)(Moser, Gary)(PD)[300 baud].prg" size="428" crc="c377f6eb" md5="7e404e563b1d433ad4557ca19ed01b7c" sha1="bdc6629cd120576f27c22697476faae19565cecb"/>
+	</game>
+	<game name="Memory Display (1979-07)(Tomka, Chuck)(PD)[300 baud]">
+		<description>Memory Display (1979-07)(Tomka, Chuck)(PD)[300 baud]</description>
+		<rom name="Memory Display (1979-07)(Tomka, Chuck)(PD)[300 baud].prg" size="463" crc="23fe767e" md5="61747090cd11bbfee84486313846b8b9" sha1="ff2c17113510e881f1c6f59db5c1d53e691da9ce"/>
+	</game>
+	<game name="Memory Doodle (1981)(WaveMakers)(PD)[300 baud]">
+		<description>Memory Doodle (1981)(WaveMakers)(PD)[300 baud]</description>
+		<rom name="Memory Doodle (1981)(WaveMakers)(PD)[300 baud].prg" size="778" crc="a13348a6" md5="111cd8658185dc2d544520e2c487903d" sha1="cd7003c855920d41f657abd73e9b1543c64ad1dc"/>
+	</game>
+	<game name="Memory Dump (19xx)(Scott, Patrick)[300 baud]">
+		<description>Memory Dump (19xx)(Scott, Patrick)[300 baud]</description>
+		<rom name="Memory Dump (19xx)(Scott, Patrick)[300 baud].prg" size="551" crc="7fe6508b" md5="e0e3eca9c36ff5a3b7a2b7a423537255" sha1="0e81e534d079dce207de53b2ecdd6d21aa22e909"/>
+	</game>
+	<game name="Mensa Test (1979)(W&amp;W Software Sales)[300 baud]">
+		<description>Mensa Test (1979)(W&amp;W Software Sales)[300 baud]</description>
+		<rom name="Mensa Test (1979)(W&amp;W Software Sales)[300 baud].prg" size="1967" crc="13ea555c" md5="9b7f74109d53e3ac00eac4b648a5518c" sha1="4beace5b95124f9e53c238041169842e615a6b19"/>
+	</game>
+	<game name="Menu - Input 3174 (1979-03-23)(Nason, Martin)(PD)[300 baud]">
+		<description>Menu - Input 3174 (1979-03-23)(Nason, Martin)(PD)[300 baud]</description>
+		<rom name="Menu - Input 3174 (1979-03-23)(Nason, Martin)(PD)[300 baud].prg" size="21" crc="c66188c4" md5="53e12324a80371fcb358b7b3d379f3ab" sha1="cf1f07b04ecfd00930e94ab1f4845f67517cfac1"/>
+	</game>
+	<game name="Midstatement Changer (1981)(Dunson, Jim)[300 baud]">
+		<description>Midstatement Changer (1981)(Dunson, Jim)[300 baud]</description>
+		<rom name="Midstatement Changer (1981)(Dunson, Jim)[300 baud].prg" size="317" crc="2a7a336f" md5="2245e3c5eeaa633c70d747fd744141e2" sha1="4f746f931fc3389137399ebefb64b4cb9c258a7e"/>
+	</game>
+	<game name="Monthly Loan Payment (1980-01-15)(Hallquist, G.)(PD)[300 baud]">
+		<description>Monthly Loan Payment (1980-01-15)(Hallquist, G.)(PD)[300 baud]</description>
+		<rom name="Monthly Loan Payment (1980-01-15)(Hallquist, G.)(PD)[300 baud].prg" size="1141" crc="38a6c79b" md5="719fba46d7252553a218027bba5f5290" sha1="8addd55d3d6c382b982a8300370ea51ab31a13ea"/>
+	</game>
+	<game name="Monthly Loan Payment (198x)(Hallquist, G. - Tietjens, Rich)[300 baud]">
+		<description>Monthly Loan Payment (198x)(Hallquist, G. - Tietjens, Rich)[300 baud]</description>
+		<rom name="Monthly Loan Payment (198x)(Hallquist, G. - Tietjens, Rich)[300 baud].prg" size="1759" crc="f5b2b520" md5="db0d429eaf4dc452d9c6ee9256473305" sha1="cf20daf6df7a9800639278db4f3c8a92f553a7e2"/>
+	</game>
+	<game name="Morse Code (1980-07-28)(Picardi, Ron)(PD)[300 baud]">
+		<description>Morse Code (1980-07-28)(Picardi, Ron)(PD)[300 baud]</description>
+		<rom name="Morse Code (1980-07-28)(Picardi, Ron)(PD)[300 baud].prg" size="1588" crc="f5d01726" md5="7606a3a43a3cb2a1ca3f4c983f1498c2" sha1="c7f1753b38f3e530b364824da5e9c0dacd354b26"/>
+	</game>
+	<game name="Morse Code (1980-07-28)(Picardi, Ron)(PD)[f errors corrected Bob Weber][300 baud]">
+		<description>Morse Code (1980-07-28)(Picardi, Ron)(PD)[f errors corrected Bob Weber][300 baud]</description>
+		<rom name="Morse Code (1980-07-28)(Picardi, Ron)(PD)[f errors corrected Bob Weber][300 baud].prg" size="1586" crc="601ce231" md5="3308d644917e0e079b9df8082d57a0e5" sha1="196f57e816ab7d3d2cb3855eb9eae6260602ac30"/>
+	</game>
+	<game name="Morse Code (1980-09-17)(Picardi, Ron - Weber, Bob)(PD)[300 baud]">
+		<description>Morse Code (1980-09-17)(Picardi, Ron - Weber, Bob)(PD)[300 baud]</description>
+		<rom name="Morse Code (1980-09-17)(Picardi, Ron - Weber, Bob)(PD)[300 baud].prg" size="1586" crc="10dafa29" md5="1e6135dd464d02321f5809ae7b942306" sha1="09272a97f8b834646e08968b1faf533ec3dd23f6"/>
+	</game>
+	<game name="Morse Code (19xx)(Picardi, Ron)(proto)[300 baud]">
+		<description>Morse Code (19xx)(Picardi, Ron)(proto)[300 baud]</description>
+		<rom name="Morse Code (19xx)(Picardi, Ron)(proto)[300 baud].prg" size="1571" crc="b17bce87" md5="92e152ef0f92a305347cd96574972ebb" sha1="4d903b2284fcc9aa9530d3cea9aba6b1970b6e1d"/>
+	</game>
+	<game name="Mortgage Amortization (1979)(W&amp;W Software Sales)[300 baud]">
+		<description>Mortgage Amortization (1979)(W&amp;W Software Sales)[300 baud]</description>
+		<rom name="Mortgage Amortization (1979)(W&amp;W Software Sales)[300 baud].prg" size="1749" crc="7d172942" md5="e297ceb7636fda45b7fefe3acad6f48b" sha1="500de73161c8d6026791fac9036d30d37999a9c4"/>
+	</game>
+	<game name="Multi Program Format (1980)(L&amp;M Software)[300 baud]">
+		<description>Multi Program Format (1980)(L&amp;M Software)[300 baud]</description>
+		<rom name="Multi Program Format (1980)(L&amp;M Software)[300 baud].prg" size="389" crc="5f38ba7e" md5="94b17a9cbb095df76dec7f70d4047a1a" sha1="1a984af12857f8e048b35c37b7117e88c3eef09d"/>
+	</game>
+	<game name="Music Compiler (1980)(Perkins Engineering)(proto)[300 baud]">
+		<description>Music Compiler (1980)(Perkins Engineering)(proto)[300 baud]</description>
+		<rom name="Music Compiler (1980)(Perkins Engineering)(proto)[300 baud].prg" size="1955" crc="63ed2528" md5="6a7c9b92c11855cbd90c9031f574f147" sha1="0aa69cdad2419ca851cfa87e3deeff9a86d6464e"/>
+	</game>
+	<game name="Music Composer (1980)(WaveMakers)(PD)[300 baud - with Oh Susanna]">
+		<description>Music Composer (1980)(WaveMakers)(PD)[300 baud - with Oh Susanna]</description>
+		<rom name="Music Composer (1980)(WaveMakers)(PD)[300 baud - with Oh Susanna].prg" size="3723" crc="41e8dfda" md5="7f4ad1de3c9038e998ff0838b72b21bc" sha1="ab40f7b065a191c5975fe0bfa27ebf075f82a419"/>
+	</game>
+	<game name="Music Composer (1980)(WaveMakers)(PD)[a][300 baud - with Oh Susanna]">
+		<description>Music Composer (1980)(WaveMakers)(PD)[a][300 baud - with Oh Susanna]</description>
+		<rom name="Music Composer (1980)(WaveMakers)(PD)[a][300 baud - with Oh Susanna].prg" size="4075" crc="0ea7953b" md5="24f140075f8e0245cb3c457db5dacb3d" sha1="af85d256d17c184144a0e432ad8e8b3ca4a4cc0c"/>
+	</game>
+	<game name="Music Composer (1980)(WaveMakers)(PD)[300 baud - with The Man on the Flying Trapeze]">
+		<description>Music Composer (1980)(WaveMakers)(PD)[300 baud - with The Man on the Flying Trapeze]</description>
+		<rom name="Music Composer (1980)(WaveMakers)(PD)[300 baud - with The Man on the Flying Trapeze].prg" size="2736" crc="91314671" md5="0dbb2ecb7e05a74e67f49644357e9633" sha1="ac3d97f97ba4bcc0c06b8cdd2ce7c8697610dae4"/>
+	</game>
+	<game name="Number Conversion (19xx)(-)[300 baud]">
+		<description>Number Conversion (19xx)(-)[300 baud]</description>
+		<rom name="Number Conversion (19xx)(-)[300 baud].prg" size="533" crc="055672e7" md5="3b0a91fdfffad94a333912bc8b538398" sha1="963ba70d47d7e2aed28ac20fb55e535d1fe89ce0"/>
+	</game>
+	<game name="Parallel Out (1980)(Tietjens, Rich)(PD)[300 baud]">
+		<description>Parallel Out (1980)(Tietjens, Rich)(PD)[300 baud]</description>
+		<rom name="Parallel Out (1980)(Tietjens, Rich)(PD)[300 baud].prg" size="456" crc="1479c921" md5="906a2c616e3d193e85929e70d02e2391" sha1="da63ea3226faf12ff973c9e43478208bc014bd62"/>
+	</game>
+	<game name="Payment Record (19xx)(Mead, Bill)[300 baud]">
+		<description>Payment Record (19xx)(Mead, Bill)[300 baud]</description>
+		<rom name="Payment Record (19xx)(Mead, Bill)[300 baud].prg" size="1647" crc="e9f7f83d" md5="a4b990fdad21540e2c24fec57f884e61" sha1="2f0858a0bb2c8702225dbeac19dad0a3e0044a66"/>
+	</game>
+	<game name="Pick a Pattern (1981)(Picardi, Ron)[300 baud - Bally BASIC]">
+		<description>Pick a Pattern (1981)(Picardi, Ron)[300 baud - Bally BASIC]</description>
+		<rom name="Pick a Pattern (1981)(Picardi, Ron)[300 baud - Bally BASIC].prg" size="1732" crc="bb470af8" md5="a8916ca87e05464c972abf05344de05d" sha1="6484ace1f0b8bbeea66fbdb1413a8060427c67a5"/>
+	</game>
+	<game name="Poke to Pixel Chart (1980)(Anderson Research and Design)(PD)[300 baud]">
+		<description>Poke to Pixel Chart (1980)(Anderson Research and Design)(PD)[300 baud]</description>
+		<rom name="Poke to Pixel Chart (1980)(Anderson Research and Design)(PD)[300 baud].prg" size="229" crc="ca9847f4" md5="ed20f448df938310652a73f94b7c4919" sha1="721e38abb52f014f429ff5dd74adbf46879d8e93"/>
+	</game>
+	<game name="Poke-ing Program (1979-08-18)(Breadon, George)(PD)[300 baud - with data]">
+		<description>Poke-ing Program (1979-08-18)(Breadon, George)(PD)[300 baud - with data]</description>
+		<rom name="Poke-ing Program (1979-08-18)(Breadon, George)(PD)[300 baud - with data].prg" size="440" crc="6d36a0b4" md5="8d7ea0ab91f906380e4c57f3232339ff" sha1="a1ccfe97dbd38972b7338341a564a4eadcc54155"/>
+	</game>
+	<game name="Poke-ing Program (1979-08-18)(Breadon, George)(PD)[300 baud]">
+		<description>Poke-ing Program (1979-08-18)(Breadon, George)(PD)[300 baud]</description>
+		<rom name="Poke-ing Program (1979-08-18)(Breadon, George)(PD)[300 baud].prg" size="283" crc="65a50716" md5="1170408ab7d1248092d09b61868bd8fc" sha1="c00d24055eb9b05bf4044dc711315edb7d7f6333"/>
+	</game>
+	<game name="Resequencing - High Address (1979-12-22)(Schweitzer, Ron)(PD)[300 baud]">
+		<description>Resequencing - High Address (1979-12-22)(Schweitzer, Ron)(PD)[300 baud]</description>
+		<rom name="Resequencing - High Address (1979-12-22)(Schweitzer, Ron)(PD)[300 baud].prg" size="526" crc="3521a86c" md5="162b435ddb807c6196040b133eb86e47" sha1="14706d357daa5475e673caf95b4055203edd7a90"/>
+	</game>
+	<game name="Resequencing - Low Address (1979-12-22)(Schweitzer, Ron)(PD)[300 baud]">
+		<description>Resequencing - Low Address (1979-12-22)(Schweitzer, Ron)(PD)[300 baud]</description>
+		<rom name="Resequencing - Low Address (1979-12-22)(Schweitzer, Ron)(PD)[300 baud].prg" size="507" crc="207aba46" md5="766993e0e4c76a192f0e1398819370e0" sha1="81ef0a27706a7ad7670725da29a9e4c344bd7062"/>
+	</game>
+	<game name="RM = Remainder (1979)(Fabris, Bob - Tomka, Chuck - Wood, Tom)(PD)[300 baud - format variation]">
+		<description>RM = Remainder (1979)(Fabris, Bob - Tomka, Chuck - Wood, Tom)(PD)[300 baud - format variation]</description>
+		<rom name="RM = Remainder (1979)(Fabris, Bob - Tomka, Chuck - Wood, Tom)(PD)[300 baud - format variation].prg" size="73" crc="b8358677" md5="2cefdf0a04dfc81808700136bbe6a824" sha1="1fc27d5af42694e0730c6d9044ea9e204b65e007"/>
+	</game>
+	<game name="RM = Remainder (1979)(Fabris, Bob - Tomka, Chuck - Wood, Tom)(PD)[300 baud]">
+		<description>RM = Remainder (1979)(Fabris, Bob - Tomka, Chuck - Wood, Tom)(PD)[300 baud]</description>
+		<rom name="RM = Remainder (1979)(Fabris, Bob - Tomka, Chuck - Wood, Tom)(PD)[300 baud].prg" size="56" crc="b8807a69" md5="e3c9fba332ab2e7f67d625e98731abe7" sha1="c73da7fa4cabdc7691dd46c29f2ff5d8610b402f"/>
+	</game>
+	<game name="RM = Remainder (1979-01-13)(Fabris, Bob - Wood, Tom)(PD)[300 baud]">
+		<description>RM = Remainder (1979-01-13)(Fabris, Bob - Wood, Tom)(PD)[300 baud]</description>
+		<rom name="RM = Remainder (1979-01-13)(Fabris, Bob - Wood, Tom)(PD)[300 baud].prg" size="55" crc="c72e6f48" md5="65b49e569a74be685ef3ee8dce255f6d" sha1="0d2c1ea8235c08351e58325ad21c76c8b17b4215"/>
+	</game>
+	<game name="Run Maker (1981-06)(Guevara, Andy)[300 baud - Bally BASIC]">
+		<description>Run Maker (1981-06)(Guevara, Andy)[300 baud - Bally BASIC]</description>
+		<rom name="Run Maker (1981-06)(Guevara, Andy)[300 baud - Bally BASIC].prg" size="595" crc="1a64822c" md5="1c47c86cd4bb421986aaf217d8c5e3e5" sha1="359cf42612f5f0a2e1dcf8c5705b8c96128e0cfd"/>
+	</game>
+	<game name="Screen Locator (1980)(Anderson Research and Design)(PD)[300 baud]">
+		<description>Screen Locator (1980)(Anderson Research and Design)(PD)[300 baud]</description>
+		<rom name="Screen Locator (1980)(Anderson Research and Design)(PD)[300 baud].prg" size="285" crc="c83053c3" md5="65233f1e0bc74f856496c8955d2aef73" sha1="e4a5f32b010e0e0a55d6d0203dfe8832f9f54ba7"/>
+	</game>
+	<game name="Simple Interest (1981)(Shadie, Jess)[300 baud]">
+		<description>Simple Interest (1981)(Shadie, Jess)[300 baud]</description>
+		<rom name="Simple Interest (1981)(Shadie, Jess)[300 baud].prg" size="1437" crc="40d83c9d" md5="3f10d76cd34fc35b347c6e7102fd4418" sha1="2c9a1e30eed645e6e034f496fb485743c359912d"/>
+	</game>
+	<game name="Sound Graph (19xx)(Doerge, Klaus - Thomka, Chuck)[300 baud]">
+		<description>Sound Graph (19xx)(Doerge, Klaus - Thomka, Chuck)[300 baud]</description>
+		<rom name="Sound Graph (19xx)(Doerge, Klaus - Thomka, Chuck)[300 baud].prg" size="786" crc="31d91bdf" md5="cd74b1b3c51c9643468cbdc38531d340" sha1="04bbd984aaa834b562f985ba220681121762ec27"/>
+	</game>
+	<game name="Sound Graph - With Optional Section (1979-07)(Thomka, Chuck)(PD)[300 baud]">
+		<description>Sound Graph - With Optional Section (1979-07)(Thomka, Chuck)(PD)[300 baud]</description>
+		<rom name="Sound Graph - With Optional Section (1979-07)(Thomka, Chuck)(PD)[300 baud].prg" size="472" crc="9ddb038b" md5="afa3c67de0c5f2b67dde53f81aa6e487" sha1="94f082a05281d2345de52a13596f0eb852390494"/>
+	</game>
+	<game name="Sound Graph - Without Optional Section (1979-07)(Thomka, Chuck)(PD)[300 baud]">
+		<description>Sound Graph - Without Optional Section (1979-07)(Thomka, Chuck)(PD)[300 baud]</description>
+		<rom name="Sound Graph - Without Optional Section (1979-07)(Thomka, Chuck)(PD)[300 baud].prg" size="379" crc="577b1eb8" md5="dd7c7ea52272d050b958c89f443fdfec" sha1="fcd414f74d73c0569590fb138a2a749403a97b8a"/>
+	</game>
+	<game name="Spinning Wheel (1981-07-09)(Owczarek, Tom)(PD)[300 baud - Bally BASIC]">
+		<description>Spinning Wheel (1981-07-09)(Owczarek, Tom)(PD)[300 baud - Bally BASIC]</description>
+		<rom name="Spinning Wheel (1981-07-09)(Owczarek, Tom)(PD)[300 baud - Bally BASIC].prg" size="2058" crc="5a0f9e94" md5="a638d4635b40707daf6538ca14941623" sha1="43fac84d85a5fbef9e41698e01a84a5038955fcb"/>
+	</game>
+	<game name="Square Root (1979)(Houser, Richard - Stocker, David)[300 baud]">
+		<description>Square Root (1979)(Houser, Richard - Stocker, David)[300 baud]</description>
+		<rom name="Square Root (1979)(Houser, Richard - Stocker, David)[300 baud].prg" size="264" crc="c60277f0" md5="ae2aa00bd66e164f6a10d678ec4258db" sha1="4ef9c743744fbef8f482129f4959ac703d489d40"/>
+	</game>
+	<game name="Square Root - With Optional Section (1979-06-20)(Stocker, David)(PD)[300 baud]">
+		<description>Square Root - With Optional Section (1979-06-20)(Stocker, David)(PD)[300 baud]</description>
+		<rom name="Square Root - With Optional Section (1979-06-20)(Stocker, David)(PD)[300 baud].prg" size="183" crc="27d50d02" md5="8670717fa5c901b8d8a4465dcb4ff959" sha1="db8882dcb9f30188d0e60ff46c2a423b61b5ddbd"/>
+	</game>
+	<game name="Square Root - Without Optional Section (1979-06-20)(Stocker, David)(PD)[300 baud]">
+		<description>Square Root - Without Optional Section (1979-06-20)(Stocker, David)(PD)[300 baud]</description>
+		<rom name="Square Root - Without Optional Section (1979-06-20)(Stocker, David)(PD)[300 baud].prg" size="153" crc="1eb354e5" md5="1ab3971d09b2adef1de1a1445fb98628" sha1="5f0590bcf5d15fe0a5d90c63d59b3ba8514ad973"/>
+	</game>
+	<game name="Standard Color Generator (1981-06)(Guevara, Andy)[300 baud - Bally BASIC]">
+		<description>Standard Color Generator (1981-06)(Guevara, Andy)[300 baud - Bally BASIC]</description>
+		<rom name="Standard Color Generator (1981-06)(Guevara, Andy)[300 baud - Bally BASIC].prg" size="145" crc="2472d8dc" md5="bef62034d84707d05e9e4f0ce72d7eb9" sha1="0c3ca55e7951dd47cd3078700a154c2c2bfc1e1c"/>
+	</game>
+	<game name="Text Editor II (1980)(Keller, Mark)[300 baud]">
+		<description>Text Editor II (1980)(Keller, Mark)[300 baud]</description>
+		<rom name="Text Editor II (1980)(Keller, Mark)[300 baud].prg" size="723" crc="0be67390" md5="b6aaed2990f3714a0dae8f1320f6262a" sha1="683a8d47c002139dc2f8e50eaa3ef9effce3c059"/>
+	</game>
+	<game name="Touch Tone Simulate (1979-07)(Thomka, Chuck)(PD)[300 baud]">
+		<description>Touch Tone Simulate (1979-07)(Thomka, Chuck)(PD)[300 baud]</description>
+		<rom name="Touch Tone Simulate (1979-07)(Thomka, Chuck)(PD)[300 baud].prg" size="526" crc="6f62970c" md5="a407195d3c66f594bb0d650eec626658" sha1="f28b64c716a0da876f86d2a418988c9467ec9fce"/>
+	</game>
+	<game name="Touch Tone Simulate (1980-09)(Thomka, Chuck - Tietjens, Rich)(PD)[300 baud]">
+		<description>Touch Tone Simulate (1980-09)(Thomka, Chuck - Tietjens, Rich)(PD)[300 baud]</description>
+		<rom name="Touch Tone Simulate (1980-09)(Thomka, Chuck - Tietjens, Rich)(PD)[300 baud].prg" size="704" crc="bf11bfbd" md5="21c66762e6e0ed0e23edea2b56e53de0" sha1="80f475cdd78211ec67ff4e66797bacc66d1370d1"/>
+	</game>
+	<game name="Touchtone Dialer, Directory (19xx)(Thomka, Chuck - Tietjens, Rich)[300 baud]">
+		<description>Touchtone Dialer, Directory (19xx)(Thomka, Chuck - Tietjens, Rich)[300 baud]</description>
+		<rom name="Touchtone Dialer, Directory (19xx)(Thomka, Chuck - Tietjens, Rich)[300 baud].prg" size="1636" crc="9930b653" md5="5d4d87dfffb84d3f780573078845f2b1" sha1="d483f6ffe4a1b9fd6b815fd6c64d95292aad81e3"/>
+	</game>
+	<game name="Variable Rez BASIC (198x)(John Perkins)[300 baud]">
+		<description>Variable Rez BASIC (198x)(John Perkins)[300 baud]</description>
+		<rom name="Variable Rez BASIC (198x)(John Perkins)[300 baud].prg" size="4222" crc="b244737b" md5="bdab905329ad8214c00648ae0620cd8d" sha1="c9c9eebb77fce12d504ac0b5e7a9dd0db7099032"/>
+	</game>
+	<game name="Wave Study (19xx)(Picardi, Ron)[300 baud]">
+		<description>Wave Study (19xx)(Picardi, Ron)[300 baud]</description>
+		<rom name="Wave Study (19xx)(Picardi, Ron)[300 baud].prg" size="1118" crc="32e9bfd1" md5="d8119b33ef0e9fbd43213d73a9b6c5aa" sha1="f5c7a7faf1dd1449c96907d52a35400911a62e6e"/>
+	</game>
+	<game name="WaveMakers Fortune Teller (1980)(WaveMakers)(PD)[300 baud - freebee with Space Chase]">
+		<description>WaveMakers Fortune Teller (1980)(WaveMakers)(PD)[300 baud - freebee with Space Chase]</description>
+		<rom name="WaveMakers Fortune Teller (1980)(WaveMakers)(PD)[300 baud - freebee with Space Chase].prg" size="1775" crc="bbf25122" md5="0281a00a2d3435854e1e784cad0bc9b5" sha1="c73753ca8d07cb843f2b35f2cb37974e72630fdc"/>
+	</game>
+	<game name="WaveMakers Fortune Teller (1980)(WaveMakers)(PD)[300 baud]">
+		<description>WaveMakers Fortune Teller (1980)(WaveMakers)(PD)[300 baud]</description>
+		<rom name="WaveMakers Fortune Teller (1980)(WaveMakers)(PD)[300 baud].prg" size="1806" crc="14cf4362" md5="ba93639c0d8ba29e813ed49ff863d05e" sha1="5e7db2a96ca44a97b55d9286d982eca7c24da6ca"/>
+	</game>
+	<game name="Welcome to My Office (19xx)(-)(proto)[300 baud]">
+		<description>Welcome to My Office (19xx)(-)(proto)[300 baud]</description>
+		<rom name="Welcome to My Office (19xx)(-)(proto)[300 baud].prg" size="1020" crc="1d8befae" md5="8b71cb870aafc3506e3632cbecafaf96" sha1="9edef3727684e56020f29f1c21a9dd93505bae95"/>
+	</game>
+	<game name="Window Alarm (1980-07-28)(Fabris, Bob - Perkins, John)(PD)[300 baud - Blue RAM]">
+		<description>Window Alarm (1980-07-28)(Fabris, Bob - Perkins, John)(PD)[300 baud - Blue RAM]</description>
+		<rom name="Window Alarm (1980-07-28)(Fabris, Bob - Perkins, John)(PD)[300 baud - Blue RAM].prg" size="69" crc="ff2b4296" md5="316c3d55731dd57fd2d090db0ae9b189" sha1="5ca45bd45f8c95c4caa4b6131545c203b6129ad0"/>
+	</game>
+	<game name="XY to Pixel Location (1980)(Anderson Research and Design)(PD)[300 baud]">
+		<description>XY to Pixel Location (1980)(Anderson Research and Design)(PD)[300 baud]</description>
+		<rom name="XY to Pixel Location (1980)(Anderson Research and Design)(PD)[300 baud].prg" size="357" crc="3b64dd56" md5="057937ec27de9acaaf5b2e954888d328" sha1="b758c86e5467da8194200496bd2b1018a0bde29a"/>
+	</game>
+	<game name="Yearly Misc. Income (1982)(Kendall, Stanley)[300 baud]">
+		<description>Yearly Misc. Income (1982)(Kendall, Stanley)[300 baud]</description>
+		<rom name="Yearly Misc. Income (1982)(Kendall, Stanley)[300 baud].prg" size="2093" crc="de4ff2f7" md5="70bf29c41855f14f324c2b60f1b2f4c0" sha1="e7e07b83d89ad5c943c8b63f8079297769774a55"/>
+	</game>
+</datafile>

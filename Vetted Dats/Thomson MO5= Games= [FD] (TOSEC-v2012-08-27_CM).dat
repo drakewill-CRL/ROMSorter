@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Thomson MO5 - Games - [FD]</name>
+		<description>Thomson MO5 - Games - [FD] (TOSEC-v2012-08-27)</description>
+		<category>TOSEC</category>
+		<version>2012-08-27</version>
+		<author>mictlantecuhtle - Leto_II - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Blitz! (1985)(To Tek)(FR)[3.5'', bootable]">
+		<description>Blitz! (1985)(To Tek)(FR)[3.5'', bootable]</description>
+		<rom name="Blitz! (1985)(To Tek)(FR)[3.5'', bootable].fd" size="163840" crc="20e73a19" md5="37078d8ddee664cc80de6883a328676a" sha1="2bdc70be628878b46ef0afd6ca753c74ee051777"/>
+	</game>
+	<game name="Mandragore (1984)(Infogrames)(FR)[m Prehisto][3.5'', bootable]">
+		<description>Mandragore (1984)(Infogrames)(FR)[m Prehisto][3.5'', bootable]</description>
+		<rom name="Mandragore (1984)(Infogrames)(FR)[m Prehisto][3.5'', bootable].fd" size="327680" crc="acb88fbb" md5="c84efb932cb65ec3976422b87809467c" sha1="e2a1cdbea99e22e5b9781bd7fc34bf88748dc6b3"/>
+	</game>
+</datafile>

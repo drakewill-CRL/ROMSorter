@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore MAX Machine &amp; VIC10 - Games</name>
+		<description>Commodore MAX Machine &amp; VIC10 - Games (TOSEC-v2011-09-24)</description>
+		<category>TOSEC</category>
+		<version>2011-09-24</version>
+		<author>DesertWolf - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Clowns (1982)(Commodore - Midway)">
+		<description>Clowns (1982)(Commodore - Midway)</description>
+		<rom name="Clowns (1982)(Commodore - Midway).e0" size="8192" crc="85aa080b" md5="126dac5d98bea5f2a388eaf97fa842d0" sha1="ffebfc19263dc50d3a808135dbe88567617af6b8"/>
+	</game>
+	<game name="Omega Race (1982)(Midway)">
+		<description>Omega Race (1982)(Midway)</description>
+		<rom name="Omega Race (1982)(Midway).e0" size="8192" crc="eade0831" md5="0abc41c7bfedf0902dbb58c415b1311f" sha1="74576289dce21945735ce1f15368c6fe0e61a844"/>
+	</game>
+	<game name="Radar Rat Race (1982)(Commodore)">
+		<description>Radar Rat Race (1982)(Commodore)</description>
+		<rom name="Radar Rat Race (1982)(Commodore).e0" size="8192" crc="1f7291f5" md5="ce883412698e44565a998dc984433126" sha1="409d70bc29134494c44d03dde47357a265089d1a"/>
+	</game>
+</datafile>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C16, C116 &amp; Plus-4 - Educational - [PRG]</name>
+		<description>Commodore C16, C116 &amp; Plus-4 - Educational - [PRG] (TOSEC-v2013-12-16)</description>
+		<category>TOSEC</category>
+		<version>2013-12-16</version>
+		<author>TKaos - DesertWolf</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Add and Subtract (1984)(CBM)(US)">
+		<description>Add and Subtract (1984)(CBM)(US)</description>
+		<rom name="Add and Subtract (1984)(CBM)(US).prg" size="7929" crc="cdfa352c" md5="99fc06f3d04aa6b23def74b69ce3a51f" sha1="e5b2daa5b71661cd8c3c58a6698f13a6edd159ff"/>
+	</game>
+	<game name="Ampermero (19xx)(-)(HU)(FW)">
+		<description>Ampermero (19xx)(-)(HU)(FW)</description>
+		<rom name="Ampermero (19xx)(-)(HU)(FW).prg" size="1838" crc="57ad610e" md5="45b1008d446c7bd964ee9349da965d14" sha1="499b6180c1ca334ece914b455216e2c12ebab91c"/>
+	</game>
+	<game name="Eszak Amerika (19xx)(-)(hu)">
+		<description>Eszak Amerika (19xx)(-)(hu)</description>
+		<rom name="Eszak Amerika (19xx)(-)(hu).prg" size="12289" crc="1951dced" md5="ffdb1f4911d3c2aafe5955f67dad67b9" sha1="3b9e3cc132b81203781d839f21a103b67f788048"/>
+	</game>
+</datafile>

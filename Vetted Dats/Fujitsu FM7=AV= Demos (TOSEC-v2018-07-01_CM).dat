@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Fujitsu FM77-AV - Demos</name>
+		<description>Fujitsu FM77-AV - Demos (TOSEC-v2018-07-01)</description>
+		<category>TOSEC</category>
+		<version>2018-07-01</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Team AB Music Disk (2002)(Team AB)(Disk 1)">
+		<description>Team AB Music Disk (2002)(Team AB)(Disk 1)</description>
+		<rom name="Team AB Music Disk (2002)(Team AB)(Disk 1).d77" size="348848" crc="aa46fccc" md5="3373d9a8dd337df827773e0baac463d5" sha1="3b202f79548f2df1920bc5619f5e6d04ee5be944"/>
+	</game>
+	<game name="Team AB Music Disk (2002)(Team AB)(Disk 2)">
+		<description>Team AB Music Disk (2002)(Team AB)(Disk 2)</description>
+		<rom name="Team AB Music Disk (2002)(Team AB)(Disk 2).d77" size="348848" crc="1f6eb1dd" md5="c3e2fdc98462b3ffbe8fffecdfbd1603" sha1="c4dfee579089438fd0e11b0c62e1b7b74778d0c3"/>
+	</game>
+</datafile>

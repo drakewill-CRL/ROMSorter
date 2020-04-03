@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Fujitsu FM Towns - CD - Compilations</name>
+		<description>Fujitsu FM Towns - CD - Compilations (TOSEC-v2012-07-13)</description>
+		<category>TOSEC-ISO</category>
+		<version>2012-07-13</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Free Software Collection 10 (1995)(Fujitsu)(JP)">
+		<description>Free Software Collection 10 (1995)(Fujitsu)(JP)</description>
+		<rom name="Free Software Collection 10 (1995)(Fujitsu)(JP).cue" size="136" crc="ab09b2ea" md5="6c20d066cfc2050668e3fd1a4d15dba6" sha1="2e77230378f66d093b53ea9d473cb5b85a45360f"/>
+		<rom name="Free Software Collection 10 (1995)(Fujitsu)(JP).iso" size="531699712" crc="0e9481ac" md5="cf02d9a2eb6ca4e78cf1c7fcb9558be1" sha1="9ae886e2f39090a737358c93b7844d6b9910aa61"/>
+	</game>
+	<game name="Free Software Collection 11 (1995)(Fujitsu)(JP)[2Mb RAM]">
+		<description>Free Software Collection 11 (1995)(Fujitsu)(JP)[2Mb RAM]</description>
+		<rom name="Free Software Collection 11 (1995)(Fujitsu)(JP)[2Mb RAM].cue" size="145" crc="d135e6e5" md5="d1b5db3803cea157303782a8731ff52a" sha1="b00b654d99f5d6358aa5d5b0a9c5f6a8e49c0290"/>
+		<rom name="Free Software Collection 11 (1995)(Fujitsu)(JP)[2Mb RAM].iso" size="662867968" crc="dfbea734" md5="3159e6f928b09ca21e80b5b763c7cfc9" sha1="ffc4232c1c4cac4eddbfffcb1d373b5ca0d2a01d"/>
+	</game>
+	<game name="Free Software Collection 4 (1991)(Fujitsu)(JP)(Disc 1 of 2)">
+		<description>Free Software Collection 4 (1991)(Fujitsu)(JP)(Disc 1 of 2)</description>
+		<rom name="Free Software Collection 4 (1991)(Fujitsu)(JP)(Disc 1 of 2).cue" size="148" crc="e7cad498" md5="b9b5581368224133b683dcceb9f879a8" sha1="dc723e1f269aaff7e28fba39f4b94e82ad87a22a"/>
+		<rom name="Free Software Collection 4 (1991)(Fujitsu)(JP)(Disc 1 of 2).iso" size="211660800" crc="7fe7ed37" md5="f0e57a5f8b7835c5250c7a6a81a3dd7a" sha1="d3c1dd592dd995bf2febf3db5cefa570d416efd0"/>
+	</game>
+	<game name="Free Software Collection 8 (1994)(Fujitsu)(JP)">
+		<description>Free Software Collection 8 (1994)(Fujitsu)(JP)</description>
+		<rom name="Free Software Collection 8 (1994)(Fujitsu)(JP).cue" size="135" crc="6c675720" md5="d205fecf1a45387356b6323a61589ce7" sha1="e3596bb249e2a3f1d8347c46f945a30cd745d9f2"/>
+		<rom name="Free Software Collection 8 (1994)(Fujitsu)(JP).iso" size="506572800" crc="52af947d" md5="dd7b1d1ae6c52ba120a1704b51ace6a4" sha1="f2324e7c83a01724abd4baa378cd8451fa6036fd"/>
+	</game>
+</datafile>

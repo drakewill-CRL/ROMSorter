@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Bandai WonderSwan - Demos</name>
+		<description>Bandai WonderSwan - Demos (TOSEC-v2013-12-13)</description>
+		<category>TOSEC</category>
+		<version>2013-12-13</version>
+		<author>Cassiel - etabeta</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Hello World (2001)(Sir Dragoon)(PD)">
+		<description>Hello World (2001)(Sir Dragoon)(PD)</description>
+		<rom name="Hello World (2001)(Sir Dragoon)(PD).bin" size="1048576" crc="f207546c" md5="1e5ab53e567094d5ad1c22812f102e41" sha1="1db78ac860652e4a1380f2a850e6e32e992bc3dc"/>
+	</game>
+	<game name="Walking Dudes Demo v1.0 (2002)(zalas)(PD)">
+		<description>Walking Dudes Demo v1.0 (2002)(zalas)(PD)</description>
+		<rom name="Walking Dudes Demo v1.0 (2002)(zalas)(PD).bin" size="1048576" crc="a1fa7eff" md5="22820bfc241f3dd6d8dbd644b8aba9b2" sha1="f7916aca81d957ad76e9b57d7f04ac10583ab318"/>
+	</game>
+</datafile>

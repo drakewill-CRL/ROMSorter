@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Fidelity Sensory Chess Challenger - Modules</name>
+		<description>Fidelity Sensory Chess Challenger - Modules (TOSEC-v2018-07-01)</description>
+		<category>TOSEC</category>
+		<version>2018-07-01</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Challenger Book Openings 1 (1982)(Fidelity Electronics)">
+		<description>Challenger Book Openings 1 (1982)(Fidelity Electronics)</description>
+		<rom name="Challenger Book Openings 1 (1982)(Fidelity Electronics).bin" size="8192" crc="421147e8" md5="3afb1200c2b4c44754263219ae411dee" sha1="ccf62f6f218e8992baf30973fe41b35e14a1cc1a"/>
+	</game>
+	<game name="Challenger Book Openings 2 (1982)(Fidelity Electronics)">
+		<description>Challenger Book Openings 2 (1982)(Fidelity Electronics)</description>
+		<rom name="101-1042a01" size="8192" crc="591b3e4a" md5="ab0daed8a674a21ced7977ff7191469c" sha1="f75ae850f2f70808b5423f847ff12ee890752bf8"/>
+		<rom name="101-1042a02" size="8192" crc="1bdf0a21" md5="152a586c3ba0c46164ccbc14fd9ee9e7" sha1="1c6f673c0bf846e705d15c802f433ac1dc9b153c"/>
+	</game>
+</datafile>

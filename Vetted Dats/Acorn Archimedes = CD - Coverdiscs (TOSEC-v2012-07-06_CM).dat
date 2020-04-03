@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Acorn Archimedes - CD - Coverdiscs</name>
+		<description>Acorn Archimedes - CD - Coverdiscs (TOSEC-v2012-07-06)</description>
+		<category>TOSEC-ISO</category>
+		<version>2012-07-06</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Acorn Education - Products &amp; Services Catalogue Spring 1996 (1996)(IDG Media)(GB)[Acorn User]">
+		<description>Acorn Education - Products &amp; Services Catalogue Spring 1996 (1996)(IDG Media)(GB)[Acorn User]</description>
+		<rom name="Acorn Education - Products &amp; Services Catalogue Spring 1996 (1996)(IDG Media)(GB)[Acorn User].cue" size="182" crc="0a1de17e" md5="cf58202211f8ef7bce8e19c10b155721" sha1="364fc1e1d735c78b6462adbc25bdd6bb7ace2acb"/>
+		<rom name="Acorn Education - Products &amp; Services Catalogue Spring 1996 (1996)(IDG Media)(GB)[Acorn User].iso" size="638607360" crc="f3fc5370" md5="7cbdcebdc78dff004abbcd2b15ade716" sha1="89b0d67c56dfa656dbeee597424b48bd302e686d"/>
+	</game>
+	<game name="Acorn User Collector's CD-ROM No. 1 (1995)(IDG Media)(GB)">
+		<description>Acorn User Collector's CD-ROM No. 1 (1995)(IDG Media)(GB)</description>
+		<rom name="Acorn User Collector's CD-ROM No. 1 (1995)(IDG Media)(GB).cue" size="146" crc="2041aacb" md5="1515cfb4380f19740c6574a342fb92b8" sha1="b0c7b18eb25385217c56c33976a7acc7317d31cc"/>
+		<rom name="Acorn User Collector's CD-ROM No. 1 (1995)(IDG Media)(GB).iso" size="545284096" crc="f217089c" md5="34bf795a7ef8ce4ee7d5a52e3b942381" sha1="52d0fc8769b6381492a428a8002647c89a54d5e1"/>
+	</game>
+	<game name="Acorn User Collector's CD-ROM No. 2 (1996)(IDG Media)(GB)">
+		<description>Acorn User Collector's CD-ROM No. 2 (1996)(IDG Media)(GB)</description>
+		<rom name="Acorn User Collector's CD-ROM No. 2 (1996)(IDG Media)(GB).cue" size="146" crc="b38130a6" md5="b6a4a087ce0bf579972bb29db0de9248" sha1="2ef22eeb39f52d0737b73a499225c32a162d24b1"/>
+		<rom name="Acorn User Collector's CD-ROM No. 2 (1996)(IDG Media)(GB).iso" size="176656384" crc="41e7aa12" md5="d19506ac8e4f27d527e46d0939dc8f70" sha1="56f2548ba745556f3f9def981b3d2377b60d3b67"/>
+	</game>
+	<game name="Acorn User Collector's CD-ROM No. 3 (1997)(IDG Media)(GB)">
+		<description>Acorn User Collector's CD-ROM No. 3 (1997)(IDG Media)(GB)</description>
+		<rom name="Acorn User Collector's CD-ROM No. 3 (1997)(IDG Media)(GB).cue" size="146" crc="7411bb42" md5="8f9e3e2beb73365f224982f1cad4ed4d" sha1="a879935aed84d993344e9eba5f28a6ff1db8b2a8"/>
+		<rom name="Acorn User Collector's CD-ROM No. 3 (1997)(IDG Media)(GB).iso" size="488620032" crc="ee12266f" md5="5cbcfabd1bbb012abe4ccd14b33ec2db" sha1="205a713b103be9a54443af400d996d6d417a4016"/>
+	</game>
+</datafile>

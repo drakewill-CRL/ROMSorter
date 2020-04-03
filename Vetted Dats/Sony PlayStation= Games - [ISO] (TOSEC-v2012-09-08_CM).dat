@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation - Games - [ISO]</name>
+		<description>Sony PlayStation - Games - [ISO] (TOSEC-v2012-09-08)</description>
+		<category>TOSEC-ISO</category>
+		<version>2012-09-08</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Biohazard 2 v2 (1997)(Capcom)(JP)(beta)">
+		<description>Biohazard 2 v2 (1997)(Capcom)(JP)(beta)</description>
+		<rom name="Biohazard 2 v2 (1997)(Capcom)(JP)(beta).iso" size="780788736" crc="138ffd02" md5="b21bc803dd6cdbc7d3b797cab9a69960" sha1="2a6d277fa67e29a15b3a02d395bd2c10e12726f3"/>
+	</game>
+	<game name="Legacy of Kain - Soul Reaver (1999-06-28)(Crystal Dynamics - Eidos)(US)(beta)">
+		<description>Legacy of Kain - Soul Reaver (1999-06-28)(Crystal Dynamics - Eidos)(US)(beta)</description>
+		<rom name="Legacy of Kain - Soul Reaver (1999-06-28)(Crystal Dynamics - Eidos)(US)(beta).iso" size="687872976" crc="6df2681d" md5="4e89e5ea76e06d77858f203fc23a4384" sha1="6c97af43e5c7d78ac7afdc7443ce8440033a0cf1"/>
+	</game>
+	<game name="Sporting Clays (2000)(Doty, Charles)(PD)">
+		<description>Sporting Clays (2000)(Doty, Charles)(PD)</description>
+		<rom name="Sporting Clays (2000)(Doty, Charles)(PD).iso" size="999600" crc="7f0c9c49" md5="af12426f5a31cbe70fa48a044cbf313a" sha1="2dbc38d91e8b851d451d50e9e6fcbd55a40c5489"/>
+	</game>
+</datafile>

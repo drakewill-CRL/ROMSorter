@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Applications - Test Disks - [Z64]</name>
+		<description>Commodore C64 - Applications - Test Disks - [Z64] (TOSEC-v2018-10-19)</description>
+		<category>TOSEC</category>
+		<version>2018-10-19</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="TD64Test (19xx)(-)">
+		<description>TD64Test (19xx)(-)</description>
+		<rom name="1!TD64Test (19xx)(-).z64" size="1127" crc="9899b436" md5="196f053d235b2390f88f089dacb56802" sha1="d4bec987c75bf633467b4f7dbf80746d7c081f51"/>
+		<rom name="2!TD64Test (19xx)(-).z64" size="1970" crc="e3a6b69e" md5="dd834dd099a392e50861053b45a94bdd" sha1="c72066024923dd81e0b06da0bb92360989af5e0e"/>
+		<rom name="3!TD64Test (19xx)(-).z64" size="2761" crc="918a0c37" md5="4afe6d23035ce47656c9af1b538db4db" sha1="59c7b7cdc1801687cfb4aa6572973d32a8727dd2"/>
+		<rom name="4!TD64Test (19xx)(-).z64" size="1723" crc="2d528969" md5="8fcd0899872ddbbbbb48ac496838dad8" sha1="9c04ab3e821dafb0cb5f735a2d3f9ebf7f975a48"/>
+	</game>
+</datafile>

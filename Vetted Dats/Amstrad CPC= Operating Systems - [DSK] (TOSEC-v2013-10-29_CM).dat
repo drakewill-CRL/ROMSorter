@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Amstrad CPC - Operating Systems - [DSK]</name>
+		<description>Amstrad CPC - Operating Systems - [DSK] (TOSEC-v2013-10-29)</description>
+		<category>TOSEC</category>
+		<version>2013-10-29</version>
+		<author>jugaor - wattie - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="SymbOS (demo) (2001)(SymbiosiS)">
+		<description>SymbOS (demo) (2001)(SymbiosiS)</description>
+		<rom name="SymbOS (demo) (2001)(SymbiosiS).dsk" size="194816" crc="0566076d" md5="af6d6920130f7bdb83c3f1c2ec88149c" sha1="7877060a0eec98cf5deaf9c7e75d95c9d6b1ba8c"/>
+	</game>
+</datafile>

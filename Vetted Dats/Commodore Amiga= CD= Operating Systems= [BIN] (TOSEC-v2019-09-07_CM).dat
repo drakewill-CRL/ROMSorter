@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore Amiga - CD - Operating Systems - [BIN]</name>
+		<description>Commodore Amiga - CD - Operating Systems - [BIN] (TOSEC-v2019-09-07)</description>
+		<category>TOSEC</category>
+		<version>2019-09-07</version>
+		<author>Tomse - TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="AmigaOS 3.5 (1999)(Haage &amp; Partner)">
+		<description>AmigaOS 3.5 (1999)(Haage &amp; Partner)</description>
+		<rom name="AmigaOS 3.5 (1999)(Haage &amp; Partner).bin" size="294780864" crc="e1cab9c8" md5="6f7a840b0bc6a010d3e4b701cfb07883" sha1="3b9cf14a4d90b53586ed0130f1bb8fbd12a7fa5e"/>
+		<rom name="AmigaOS 3.5 (1999)(Haage &amp; Partner).cue" size="179" crc="90e19845" md5="b2b14f78e18ffba133245889e88a58e4" sha1="b1e9d72b36d8c48ca369a01d544dc2e155f3866c"/>
+	</game>
+</datafile>

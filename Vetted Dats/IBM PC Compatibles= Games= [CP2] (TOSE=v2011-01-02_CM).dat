@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>IBM PC Compatibles - Games - [CP2]</name>
+		<description>IBM PC Compatibles - Games - [CP2] (TOSEC-v2011-01-02)</description>
+		<category>TOSEC</category>
+		<version>2011-01-02</version>
+		<author>Aral</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Archon (1983)(Electronic Arts)">
+		<description>Archon (1983)(Electronic Arts)</description>
+		<rom name="Archon (1983)(Electronic Arts).cp2" size="220330" crc="775760b8" md5="edd3503e93ad47eb18188df1fa0379c6" sha1="ead3e168d70b5b4fe29247a7a02163e6f1317998"/>
+	</game>
+	<game name="Ikari Warriors (1986)(Data East)(Disk 1 of 2)">
+		<description>Ikari Warriors (1986)(Data East)(Disk 1 of 2)</description>
+		<rom name="Ikari Warriors (1986)(Data East)(Disk 1 of 2).cp2" size="440630" crc="125dfecf" md5="4e472f899cd7fcdb4ad3047801fe332c" sha1="095e37cd24a67f34007b9debf95c8e455ba0c441"/>
+	</game>
+	<game name="Ikari Warriors (1986)(Data East)(Disk 2 of 2)">
+		<description>Ikari Warriors (1986)(Data East)(Disk 2 of 2)</description>
+		<rom name="Ikari Warriors (1986)(Data East)(Disk 2 of 2).cp2" size="440630" crc="7ac9ba9e" md5="9204a41abd6f2c86dc3f81a198c7d52e" sha1="0c73202dba8ef939a61bd17e392d29483fead226"/>
+	</game>
+	<game name="Julius Erwing and Larry Bird Go One-on-One (1984)(Electronic Arts)">
+		<description>Julius Erwing and Larry Bird Go One-on-One (1984)(Electronic Arts)</description>
+		<rom name="Julius Erwing and Larry Bird Go One-on-One (1984)(Electronic Arts).cp2" size="440630" crc="a61cb787" md5="233ca03bcb41950ce0a7ffe15fd882bf" sha1="fbbbaddda35330f2dbad047d7bce14f3163b9577"/>
+	</game>
+	<game name="Karnov (1987)(Data East)(Disk 1 of 2)">
+		<description>Karnov (1987)(Data East)(Disk 1 of 2)</description>
+		<rom name="Karnov (1987)(Data East)(Disk 1 of 2).cp2" size="400439" crc="4263c4ac" md5="d546c8271d9815b2dd963e9b74926bc9" sha1="8a2d6f238501a685c32d3222e124e12b28718d97"/>
+	</game>
+	<game name="Karnov (1987)(Data East)(Disk 2 of 2)">
+		<description>Karnov (1987)(Data East)(Disk 2 of 2)</description>
+		<rom name="Karnov (1987)(Data East)(Disk 2 of 2).cp2" size="400439" crc="22859552" md5="ae03051126a71f4e02252990573613c2" sha1="69ea9155e1b4ee04bced285f63a6c46c8a6d6ae1"/>
+	</game>
+	<game name="Marble Madness (1986)(Electronic Arts)">
+		<description>Marble Madness (1986)(Electronic Arts)</description>
+		<rom name="Marble Madness (1986)(Electronic Arts).cp2" size="420412" crc="b1bce76c" md5="8b48f2b979de446fc9c70f870fcfa444" sha1="5067505fd838d5c98a2158ba2b3a36111cdbd9a6"/>
+	</game>
+	<game name="Seven Cities Of Gold (1985)(Electronic Arts)(Disk 1 of 2)">
+		<description>Seven Cities Of Gold (1985)(Electronic Arts)(Disk 1 of 2)</description>
+		<rom name="Seven Cities Of Gold (1985)(Electronic Arts)(Disk 1 of 2).cp2" size="440630" crc="b3e24813" md5="b168b051115b50cdce987c65dcbf7037" sha1="579129eb695ff7852e89441b8b21a5cb602afe02"/>
+	</game>
+	<game name="Seven Cities Of Gold (1985)(Electronic Arts)(Disk 2 of 2)[history]">
+		<description>Seven Cities Of Gold (1985)(Electronic Arts)(Disk 2 of 2)[history]</description>
+		<rom name="Seven Cities Of Gold (1985)(Electronic Arts)(Disk 2 of 2)[history].cp2" size="369469" crc="42d69292" md5="0492d11908a26464b20e1f9c95098544" sha1="f833a4b99bf871e89b08fe5dfa6a5a39407f056f"/>
+	</game>
+	<game name="Timothy Leary's Mind Mirror (1986)(Electronic Arts)">
+		<description>Timothy Leary's Mind Mirror (1986)(Electronic Arts)</description>
+		<rom name="Timothy Leary's Mind Mirror (1986)(Electronic Arts).cp2" size="440630" crc="baa259ab" md5="9d0e4a9407faac2cd7dd80296b8af2dc" sha1="d6516da61a8d8d876e250832701e02721ff0707c"/>
+	</game>
+</datafile>

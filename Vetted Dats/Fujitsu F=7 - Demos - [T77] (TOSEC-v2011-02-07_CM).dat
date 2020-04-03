@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Fujitsu FM-7 - Demos - [T77]</name>
+		<description>Fujitsu FM-7 - Demos - [T77] (TOSEC-v2011-02-07)</description>
+		<category>TOSEC</category>
+		<version>2011-02-07</version>
+		<author>Aral</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="FM - NEW 7 Demo (1984)(Fujitsu)(JP)">
+		<description>FM - NEW 7 Demo (1984)(Fujitsu)(JP)</description>
+		<rom name="FM - NEW 7 Demo (1984)(Fujitsu)(JP).t77" size="5718960" crc="9416ca8a" md5="0b64a435faaf5d5d8bf621142522a5d0" sha1="8b0feed6648c3c264d6ce1b8a78e97b541924c4a"/>
+	</game>
+	<game name="FM Ongen Demo (198x)(Fujitsu)(JP)">
+		<description>FM Ongen Demo (198x)(Fujitsu)(JP)</description>
+		<rom name="FM Ongen Demo (198x)(Fujitsu)(JP).t77" size="14937776" crc="7ee3790a" md5="0a1ffe1e6e2136df6726f35293c9ae4a" sha1="19353756c375acd03f0dbe0078eb8ce703d33144"/>
+	</game>
+	<game name="FM-7 Demo (1982)(Fujitsu)(JP)">
+		<description>FM-7 Demo (1982)(Fujitsu)(JP)</description>
+		<rom name="FM-7 Demo (1982)(Fujitsu)(JP).t77" size="2162424" crc="b3308220" md5="df27b4eef42bbaca89f1925fb25b7378" sha1="0d997aafbe880cc588b56384a1b1364d434d120a"/>
+	</game>
+</datafile>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>HomeLab BraiLab - Games</name>
+		<description>HomeLab BraiLab - Games (TOSEC-v2011-09-04)</description>
+		<category>TOSEC</category>
+		<version>2011-09-04</version>
+		<author>Gruby</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Beszelo Sakk (1987-12-30)(Ecsedi Csaba)(hu)">
+		<description>Beszelo Sakk (1987-12-30)(Ecsedi Csaba)(hu)</description>
+		<rom name="Beszelo Sakk (1987-12-30)(Ecsedi Csaba)(hu).htp" size="17727" crc="199be814" md5="5310a233b3a93684be9062eb0913d387" sha1="aa84fa6e1fe63b7c94210a39f57fdd457d159d9e"/>
+	</game>
+	<game name="Ket vandorlo lovag, A (198x)(Csapo Endre)(hu)">
+		<description>Ket vandorlo lovag, A (198x)(Csapo Endre)(hu)</description>
+		<rom name="Ket vandorlo lovag, A (198x)(Csapo Endre)(hu).htp" size="5737" crc="5f3c21f0" md5="ab554e59b3cfb48bb7f1c5e4d50435c0" sha1="ee2fd14910631e5944b7e6c9dca3357954ad07fc"/>
+	</game>
+	<game name="Memoria teszt (198x)(Vakoda Software)(hu)">
+		<description>Memoria teszt (198x)(Vakoda Software)(hu)</description>
+		<rom name="Memoria teszt (198x)(Vakoda Software)(hu).htp" size="5897" crc="4d092d67" md5="74280bd750d5842bc12020ccf005bfa7" sha1="a12549497aa6dc520984d3facf96fb077bd075bd"/>
+	</game>
+	<game name="Ralli (1988)(Lukacs Sandor)(hu)">
+		<description>Ralli (1988)(Lukacs Sandor)(hu)</description>
+		<rom name="Ralli (1988)(Lukacs Sandor)(hu).htp" size="19027" crc="fdcbccf1" md5="0208b40d0277c46236af41f1a9c46cc8" sha1="c4cdb61844beb6f12fa2cb992a86d4fc64e2b089"/>
+	</game>
+	<game name="Rulett (198x)(-)(hu)">
+		<description>Rulett (198x)(-)(hu)</description>
+		<rom name="Rulett (198x)(-)(hu).htp" size="7557" crc="69bb232e" md5="b3e8c478cbb0dbfe2a00615a61892696" sha1="bc33c0dfbcea50f03656d670c591f92eb6a68540"/>
+	</game>
+	<game name="Tivoli (198x)(-)(hu)">
+		<description>Tivoli (198x)(-)(hu)</description>
+		<rom name="Tivoli (198x)(-)(hu).htp" size="4505" crc="54370451" md5="fd91660e8b4705c03b1f95d0dd3cf880" sha1="31a7ec2fc5569f613b42dc53bfc374d124d273dd"/>
+	</game>
+	<game name="Vadaszpilota (1989)(Vakoda Software)(hu)">
+		<description>Vadaszpilota (1989)(Vakoda Software)(hu)</description>
+		<rom name="Vadaszpilota (1989)(Vakoda Software)(hu).htp" size="3272" crc="06d752c2" md5="f4615725072ed9fecbd2919977b2ce2e" sha1="880f604c11080b688b127ce26f8928981cead189"/>
+	</game>
+</datafile>

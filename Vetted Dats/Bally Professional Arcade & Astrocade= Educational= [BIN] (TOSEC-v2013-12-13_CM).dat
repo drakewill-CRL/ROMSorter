@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Bally Professional Arcade &amp; Astrocade - Educational - [BIN]</name>
+		<description>Bally Professional Arcade &amp; Astrocade - Educational - [BIN] (TOSEC-v2013-12-13)</description>
+		<category>TOSEC</category>
+		<version>2013-12-13</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Bingo Math + Speed Math (19xx)(Bally)">
+		<description>Bingo Math + Speed Math (19xx)(Bally)</description>
+		<rom name="Bingo Math + Speed Math (19xx)(Bally).bin" size="2048" crc="7d30312a" md5="4f16a1118129d73eecf46c1a964065cd" sha1="8f500f1e2144169bb94214eaa2863dcf6590b926"/>
+	</game>
+	<game name="Letter Match + Spell 'n Score + Crosswords (19xx)(Bally)">
+		<description>Letter Match + Spell 'n Score + Crosswords (19xx)(Bally)</description>
+		<rom name="Letter Match + Spell 'n Score + Crosswords (19xx)(Bally).bin" size="4096" crc="2cf68f93" md5="409aaca551f012df695c912e40a86171" sha1="266f6978b8f9e6bad36dc21031193ca93cd55be4"/>
+	</game>
+</datafile>

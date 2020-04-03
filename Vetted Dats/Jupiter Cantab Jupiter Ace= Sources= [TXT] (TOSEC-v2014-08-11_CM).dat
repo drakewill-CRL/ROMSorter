@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Jupiter Cantab Jupiter Ace - Sources - [TXT]</name>
+		<description>Jupiter Cantab Jupiter Ace - Sources - [TXT] (TOSEC-v2014-08-11)</description>
+		<category>TOSEC</category>
+		<version>2014-08-11</version>
+		<author>TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Antarctica (1983-08)(Personal Computer World)(GB)[3K]">
+		<description>Antarctica (1983-08)(Personal Computer World)(GB)[3K]</description>
+		<rom name="Antarctica (1983-08)(Personal Computer World)(GB)[3K].txt" size="6742" crc="8ba94942" md5="6d2a6745866f2c686c700b11ad671451" sha1="a49e320404f716ff9226709dc5b14f5434283e7e"/>
+	</game>
+	<game name="Character (1983-02)(Your Computer)(File 1 of 2)(GB)[3K]">
+		<description>Character (1983-02)(Your Computer)(File 1 of 2)(GB)[3K]</description>
+		<rom name="Character (1983-02)(Your Computer)(File 1 of 2)(GB)[3K].txt" size="195" crc="5d6cc846" md5="b45edf6f7c4c100af8fd16d6c32c5abd" sha1="d3453af60efbd10a7159349cd495b7720c2b88c0"/>
+	</game>
+	<game name="Character (1983-02)(Your Computer)(File 2 of 2)(GB)[3K]">
+		<description>Character (1983-02)(Your Computer)(File 2 of 2)(GB)[3K]</description>
+		<rom name="Character (1983-02)(Your Computer)(File 2 of 2)(GB)[3K].txt" size="1089" crc="6ccd2c9d" md5="8a79ee2314106bb8f9ecfd6bd247bf3f" sha1="7f983b12fdd6803b2c74675fd01706b53eee95e6"/>
+	</game>
+	<game name="Chords (1983-04)(Your Computer)(GB)[3K]">
+		<description>Chords (1983-04)(Your Computer)(GB)[3K]</description>
+		<rom name="Chords (1983-04)(Your Computer)(GB)[3K].txt" size="1861" crc="5d2396fe" md5="1157fda0f32023c8fd4211af923da29c" sha1="4bba78cc02015d7b99f96753546d344bd63106c2"/>
+	</game>
+	<game name="Faster Ace (1983)(Your Computer)(GB)[3K]">
+		<description>Faster Ace (1983)(Your Computer)(GB)[3K]</description>
+		<rom name="Faster Ace (1983)(Your Computer)(GB)[3K].txt" size="2535" crc="af5d8ea9" md5="e3d7ee3ef794c434ef93b87d209c5ca9" sha1="00340a91b6d1fc33220d3456adf9f4a875922229"/>
+	</game>
+	<game name="Forth Draw (1983-02)(Your Computer)(GB)[3K]">
+		<description>Forth Draw (1983-02)(Your Computer)(GB)[3K]</description>
+		<rom name="Forth Draw (1983-02)(Your Computer)(GB)[3K].txt" size="880" crc="6798f617" md5="95afc14144b863c6eeb54a2ee2cf8d06" sha1="64afa26d3fa2eb0994f24867014b19f707dfa761"/>
+	</game>
+	<game name="Millipede (1983-04)(Your Computer)(GB)[3K]">
+		<description>Millipede (1983-04)(Your Computer)(GB)[3K]</description>
+		<rom name="Millipede (1983-04)(Your Computer)(GB)[3K].txt" size="2757" crc="c9698c80" md5="5e58f1e9870b01296d3c453639fe3648" sha1="4452e052dd51125f08b2b2b277403ae4c1f5646d"/>
+	</game>
+	<game name="Pacman (1983-03)(Your Computer)(GB)[3K]">
+		<description>Pacman (1983-03)(Your Computer)(GB)[3K]</description>
+		<rom name="Pacman (1983-03)(Your Computer)(GB)[3K].txt" size="963" crc="1b38d6bd" md5="018696eeb3202a1ea3ee7bbb307ac35e" sha1="fdfc444951f5acd50e5186523feb74324bb1a6e8"/>
+	</game>
+</datafile>

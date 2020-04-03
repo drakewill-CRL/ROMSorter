@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore Amiga CD32 - Homebrew - Games - [BIN]</name>
+		<description>Commodore Amiga CD32 - Homebrew - Games - [BIN] (TOSEC-v2012-07-22)</description>
+		<category>TOSEC-ISO</category>
+		<version>2012-07-22</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Apidya (1992)(Kaiko - Play Byte)[cr Pyrodex][m Ridge][t +1 Pyrodex][req. 4Mb Fast RAM - mouse]">
+		<description>Apidya (1992)(Kaiko - Play Byte)[cr Pyrodex][m Ridge][t +1 Pyrodex][req. 4Mb Fast RAM - mouse]</description>
+		<rom name="Apidya (1992)(Kaiko - Play Byte)[cr Pyrodex][m Ridge][t +1 Pyrodex][req. 4Mb Fast RAM - mouse].bin" size="2646000" crc="4d10832c" md5="f9ed811175e7f00d64299b9ad3d2410b" sha1="d61e587c6dbb44981940f3c0433a19007bd28bcf"/>
+		<rom name="Apidya (1992)(Kaiko - Play Byte)[cr Pyrodex][m Ridge][t +1 Pyrodex][req. 4Mb Fast RAM - mouse].cue" size="160" crc="4d4decf7" md5="c3582d6ea4bafd107c0627562d2e72bd" sha1="1b4f6c0cb0bd304cb5f07f5d2de6aae771b35379"/>
+	</game>
+	<game name="Biff Boardin' (1994)(Surf Systems)[m Fakk2]">
+		<description>Biff Boardin' (1994)(Surf Systems)[m Fakk2]</description>
+		<rom name="Biff Boardin' (1994)(Surf Systems)[m Fakk2].bin" size="1843968" crc="7489cf63" md5="3e76edc68a258bcd4271a73544651e26" sha1="3866fb5f8c62a629d3ed91c9157502000822fab2"/>
+		<rom name="Biff Boardin' (1994)(Surf Systems)[m Fakk2].cue" size="132" crc="575b9c8e" md5="0fe58687672441ad73f4030f6a5531ac" sha1="5fe062460ed944b219009ec488d6bdccaf48dfac"/>
+	</game>
+	<game name="Dragon's Lair - Escape from Singe's Castle (1990)(ReadySoft)[m TjLaZah][t]">
+		<description>Dragon's Lair - Escape from Singe's Castle (1990)(ReadySoft)[m TjLaZah][t]</description>
+		<rom name="Dragon's Lair - Escape from Singe's Castle (1990)(ReadySoft)[m TjLaZah][t].bin" size="12293904" crc="55bf70a2" md5="a92772402a3401513f407ecf26ddee39" sha1="620179b919d0f906d6f96a6c3c2cc7e1b7edea99"/>
+		<rom name="Dragon's Lair - Escape from Singe's Castle (1990)(ReadySoft)[m TjLaZah][t].cue" size="140" crc="8d297593" md5="9f2e3be196ffe2f0970b106a7044a937" sha1="a2520112f5ecb28191c696291facae33e1786ee3"/>
+	</game>
+	<game name="Frog Feast (demo) (2007-09-25)(RasterSoft)">
+		<description>Frog Feast (demo) (2007-09-25)(RasterSoft)</description>
+		<rom name="Frog Feast (demo) (2007-09-25)(RasterSoft).bin" size="55996416" crc="0e77d765" md5="d17667175722152075f0db74fd5eb941" sha1="ef62210f3f7e08a239fc2e9d2efdcc33c17bce08"/>
+		<rom name="Frog Feast (demo) (2007-09-25)(RasterSoft).cue" size="231" crc="010c43e5" md5="d1ffe0c7d1d4a95ed92f50cfd0ac5958" sha1="54559c53ac7d487649dcb340eca2ba47dcc59a8b"/>
+	</game>
+	<game name="MAX Rally (1998)(Fortress)[h FIA][m]">
+		<description>MAX Rally (1998)(Fortress)[h FIA][m]</description>
+		<rom name="MAX Rally (1998)(Fortress)[h FIA][m].bin" size="2307312" crc="62a96f7e" md5="3b467746588cafed808a4a280755c0ed" sha1="997c3201b4f4b51b30489e710d0cd4b60611dac9"/>
+		<rom name="MAX Rally (1998)(Fortress)[h FIA][m].cue" size="102" crc="e1ce4be9" md5="bae0a4200e0bdc8ce62a5c9d74a8430d" sha1="8a488913f047f903ebbcee2f68722d4aca50ef93"/>
+	</game>
+	<game name="Minskies Furballs - The Abduction (1996-12-05)(Guildhall Leisure Services)[m Anarka]">
+		<description>Minskies Furballs - The Abduction (1996-12-05)(Guildhall Leisure Services)[m Anarka]</description>
+		<rom name="Minskies Furballs - The Abduction (1996-12-05)(Guildhall Leisure Services)[m Anarka].bin" size="9906624" crc="015144f5" md5="6555bf0e24f5de87cf15011b816ac0e2" sha1="3cb77305080305971c09ea2452abcb88941b5954"/>
+		<rom name="Minskies Furballs - The Abduction (1996-12-05)(Guildhall Leisure Services)[m Anarka].cue" size="148" crc="19a9cb30" md5="d736b66c0cb3e0566a28d866d02775d5" sha1="4f1f0554085d6f264593c9a6eb1489f809be2b9b"/>
+	</game>
+	<game name="Push-Over v1.23 (1992)(Ocean)(M4)[m Tony]">
+		<description>Push-Over v1.23 (1992)(Ocean)(M4)[m Tony]</description>
+		<rom name="Push-Over v1.23 (1992)(Ocean)(M4)[m Tony].bin" size="19618032" crc="a98a702a" md5="0a7886ae9aa0445ee106bb1c7c995de2" sha1="96e26ac83f51284a04e237fcfff254bcd42b5fff"/>
+		<rom name="Push-Over v1.23 (1992)(Ocean)(M4)[m Tony].cue" size="107" crc="a9ee4f8d" md5="bb080d31cf0b5917ae5900e40f7d50ef" sha1="768b2d56f6219829502f59f02dcf1d80d063ad72"/>
+	</game>
+	<game name="RoboCop (1989)(Ocean)[cr VF][m CHN]">
+		<description>RoboCop (1989)(Ocean)[cr VF][m CHN]</description>
+		<rom name="RoboCop (1989)(Ocean)[cr VF][m CHN].bin" size="867888" crc="b88d3889" md5="5a6537a8f1d0adcf1f30ac2fcfe35e72" sha1="eba9c86550021d1cade157559a26d0cbe9198ff8"/>
+		<rom name="RoboCop (1989)(Ocean)[cr VF][m CHN].cue" size="103" crc="f6c01eea" md5="92ecf90f48d10dc865f348fd22d3b115" sha1="e44ff7b60a21196cb8222ba9fec9406aa85705f1"/>
+	</game>
+	<game name="Super Wonderboy in Monsterland (1989)(Activision)[m CHN]">
+		<description>Super Wonderboy in Monsterland (1989)(Activision)[m CHN]</description>
+		<rom name="Super Wonderboy in Monsterland (1989)(Activision)[m CHN].bin" size="1307712" crc="495be786" md5="23d43336dd447a9bf920e06b5ed815f0" sha1="44cd45388d875960dbb53a11315e2ee59183251f"/>
+		<rom name="Super Wonderboy in Monsterland (1989)(Activision)[m CHN].cue" size="124" crc="c5234460" md5="b0b9210ef94737b33cdc43cc1401be49" sha1="fb7698bbe1571ca4ba9b77176522bb6b5dfa2367"/>
+	</game>
+	<game name="Turbo Trax (1995)(Arcane)[m]">
+		<description>Turbo Trax (1995)(Arcane)[m]</description>
+		<rom name="Turbo Trax (1995)(Arcane)[m].bin" size="3379824" crc="ed7fe0d1" md5="5b4e8074246e6033c35447d9a91c8fed" sha1="872d6277cd51ef706a454c136c46d4764740e8d8"/>
+		<rom name="Turbo Trax (1995)(Arcane)[m].cue" size="94" crc="c770ce6f" md5="6026979cbf8121ee6989a9579af166c4" sha1="7112f803ef10ccca1b06772a9a56fc5d23783f9a"/>
+	</game>
+</datafile>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega Mark III &amp; Master System - Samplers</name>
+		<description>Sega Mark III &amp; Master System - Samplers (TOSEC-v2011-06-20)</description>
+		<category>TOSEC</category>
+		<version>2011-06-20</version>
+		<author>Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Castle of Illusion Starring Mickey Mouse (demo-rolling) (1990)(Disney - Sega)">
+		<description>Castle of Illusion Starring Mickey Mouse (demo-rolling) (1990)(Disney - Sega)</description>
+		<rom name="Castle of Illusion Starring Mickey Mouse (demo-rolling) (1990)(Disney - Sega).bin" size="32768" crc="bd610939" md5="66caa446178f98bc9fceaa3c781bc601" sha1="f00a3c8200a67579dbc9f1d2290d5a509de36eae"/>
+	</game>
+	<game name="Ghouls 'n Ghosts (demo-slideshow) (1990)(Capcom - Sega)">
+		<description>Ghouls 'n Ghosts (demo-slideshow) (1990)(Capcom - Sega)</description>
+		<rom name="Ghouls 'n Ghosts (demo-slideshow) (1990)(Capcom - Sega).bin" size="32768" crc="96ca6902" md5="28d7241601ceee9b919e2d1aae7165dc" sha1="306658835e82fb604666eaca089b5645c12f0197"/>
+	</game>
+	<game name="Spy vs. Spy (demo-kiosk) (1986)(Sega)">
+		<description>Spy vs. Spy (demo-kiosk) (1986)(Sega)</description>
+		<rom name="Spy vs. Spy (demo-kiosk) (1986)(Sega).bin" size="262144" crc="b87e1b2b" md5="1a3b00c5b7382cfde710eac482e67c81" sha1="03eec0d33d7c3b376fe08ffec79f84091f58366b"/>
+	</game>
+	<game name="Super Basketball (demo-slideshow) (1989)(Sega)">
+		<description>Super Basketball (demo-slideshow) (1989)(Sega)</description>
+		<rom name="Super Basketball (demo-slideshow) (1989)(Sega).bin" size="65536" crc="0dbf3b4a" md5="5528631a82d25d4eb8f0e9014fd6360c" sha1="616b95baad61086f08d8688c2bf06838b902ac75"/>
+	</game>
+	<game name="Tec Toy Christmas 1992 Promo Cartridge (demo-slideshow) (1992)(Sega - Tec Toy)(BR)">
+		<description>Tec Toy Christmas 1992 Promo Cartridge (demo-slideshow) (1992)(Sega - Tec Toy)(BR)</description>
+		<rom name="Tec Toy Christmas 1992 Promo Cartridge (demo-slideshow) (1992)(Sega - Tec Toy)(BR).bin" size="32768" crc="30af0233" md5="86c609b630c8bc018c8ebae77546c3c1" sha1="53b50a1c574479359f85327a8000d3f03f0963d5"/>
+	</game>
+	<game name="World Cup Italia '90 (demo-slideshow) (1990)(Sega)">
+		<description>World Cup Italia '90 (demo-slideshow) (1990)(Sega)</description>
+		<rom name="World Cup Italia '90 (demo-slideshow) (1990)(Sega).bin" size="131072" crc="a0cf8b15" md5="3ae0e6e3d2b81c3112cf556d1dfad7c2" sha1="b198ba9fdd2893a5e94ed224d032585a9f57f868"/>
+	</game>
+</datafile>

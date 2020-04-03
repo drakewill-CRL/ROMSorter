@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Exelvision EXL100 - Demos - [FD]</name>
+		<description>Exelvision EXL100 - Demos - [FD] (TOSEC-v2014-01-24)</description>
+		<category>TOSEC</category>
+		<version>2014-01-24</version>
+		<author>TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Slideshow (2009-05-28)(6502man)">
+		<description>Slideshow (2009-05-28)(6502man)</description>
+		<rom name="Slideshow (2009-05-28)(6502man).fd" size="655360" crc="51033993" md5="463e0fd016def3fb11c588a39855bf58" sha1="56a5e83c32f363f247140c90a8458cd943e7dbe7"/>
+	</game>
+</datafile>

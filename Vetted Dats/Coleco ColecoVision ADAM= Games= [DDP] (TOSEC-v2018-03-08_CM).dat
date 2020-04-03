@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Coleco ColecoVision ADAM - Games - [DDP]</name>
+		<description>Coleco ColecoVision ADAM - Games - [DDP] (TOSEC-v2018-03-08)</description>
+		<category>TOSEC</category>
+		<version>2018-03-08</version>
+		<author>Grendel - Cid - Cassiel - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="2010 - The Text Adventure Game (1984)(Coleco)">
+		<description>2010 - The Text Adventure Game (1984)(Coleco)</description>
+		<rom name="2010 - The Text Adventure Game (1984)(Coleco).ddp" size="262144" crc="f7ff1a75" md5="a5b0a78d843a556f3a04ff85968f8cc8" sha1="ca821f251d7620d308374e98edd08cc6a1510a5b"/>
+	</game>
+	<game name="Addictus (1989)(Reedy Software)">
+		<description>Addictus (1989)(Reedy Software)</description>
+		<rom name="Addictus (1989)(Reedy Software).ddp" size="262144" crc="30584c67" md5="1a6b8e390a08ac3a0f1d91df7746e0b4" sha1="7c6b6a44647e6fff3f1be207174cb30503f92e2b"/>
+	</game>
+	<game name="Addictus v1.01 (1989)(Reedy Software)">
+		<description>Addictus v1.01 (1989)(Reedy Software)</description>
+		<rom name="Addictus v1.01 (1989)(Reedy Software).ddp" size="262144" crc="0a31f69b" md5="fab310222044ecead72051a9665e16ff" sha1="aa75b3efbc80df9e73ef35fe068bde62d67a7577"/>
+	</game>
+	<game name="Buck Rogers - Planet of Zoom (1983)(Sega)">
+		<description>Buck Rogers - Planet of Zoom (1983)(Sega)</description>
+		<rom name="Buck Rogers - Planet of Zoom (1983)(Sega).ddp" size="262144" crc="c85f0f99" md5="8806fc5189e257f14cf11fd5fa4936b7" sha1="443b60e1b703d2c701a9f1e78a0efcdfeca1285e"/>
+	</game>
+	<game name="Donkey Kong Jr Rev 14 (1983)(Coleco - Nintendo)">
+		<description>Donkey Kong Jr Rev 14 (1983)(Coleco - Nintendo)</description>
+		<rom name="Donkey Kong Jr Rev 14 (1983)(Coleco - Nintendo).ddp" size="262144" crc="61c762d7" md5="cc6687924b0e33fb394191584f6afd13" sha1="5a023b3808b30afa6abc08f7aaa368cc1e7fdde5"/>
+	</game>
+	<game name="Flash Facts - Trivia (1984)(Coleco)">
+		<description>Flash Facts - Trivia (1984)(Coleco)</description>
+		<rom name="Flash Facts - Trivia (1984)(Coleco).ddp" size="262144" crc="531c3bd4" md5="9511ffd350110b3030a470a81d566177" sha1="9cefe8cef86e6c84a1970f1f71aa69425210a816"/>
+	</game>
+	<game name="Flash Facts - Vocabulator (1984)(Coleco)">
+		<description>Flash Facts - Vocabulator (1984)(Coleco)</description>
+		<rom name="Flash Facts - Vocabulator (1984)(Coleco).ddp" size="262144" crc="3b82819e" md5="4d32e9ac0a32e0e4268a52156b490e02" sha1="84b3337cbb4f63f8ac13a8acb716f224140391d3"/>
+	</game>
+	<game name="Subroc (1983)(Sega)">
+		<description>Subroc (1983)(Sega)</description>
+		<rom name="Subroc (1983)(Sega).ddp" size="262144" crc="0fa5c062" md5="59dc470a024ed5e013ddb47d4d7233ad" sha1="aef813ff70f98404742609df0fe8ba6d3861e4a0"/>
+	</game>
+	<game name="Trolls Tale (19xx)(-)(PD)">
+		<description>Trolls Tale (19xx)(-)(PD)</description>
+		<rom name="Trolls Tale (19xx)(-)(PD).ddp" size="262144" crc="ad9cf5aa" md5="e36bc3c6874b059512c28e01a6e35c60" sha1="73afbb7145ea79d3064a8a7ce43e1d6d1f0c992d"/>
+	</game>
+</datafile>

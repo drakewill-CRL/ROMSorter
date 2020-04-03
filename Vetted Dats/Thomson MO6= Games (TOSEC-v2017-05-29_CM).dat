@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Thomson MO6 - Games</name>
+		<description>Thomson MO6 - Games (TOSEC-v2017-05-29)</description>
+		<category>TOSEC</category>
+		<version>2017-05-29</version>
+		<author>Judge_ - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="5eme Axe (1985)(Loriciels)[b]">
+		<description>5eme Axe (1985)(Loriciels)[b]</description>
+		<rom name="5eme Axe (1985)(Loriciels)[b].k7" size="52998" crc="844284dc" md5="0f59f0818c47dc04f5469c552859b4d4" sha1="608fd89dc7609a212a3694467dff92deee90f1b4"/>
+	</game>
+	<game name="Blue Star (1987)(Free Game Blot)">
+		<description>Blue Star (1987)(Free Game Blot)</description>
+		<rom name="Blue Star (1987)(Free Game Blot).k7" size="71175" crc="07f0944b" md5="2536eb99cff476c55f7cefb237812726" sha1="37834182fe5006a2a6ec72cac392aaf3b9f31c3a"/>
+	</game>
+	<game name="Blue War (1986)(Free Game Blot)">
+		<description>Blue War (1986)(Free Game Blot)</description>
+		<rom name="Blue War (1986)(Free Game Blot).k7" size="38315" crc="4aca3466" md5="fb9035bb019b683ad382c6dc0ad9fc3d" sha1="36cb790e3cd1da59b8080b314f366c1fda5a379d"/>
+	</game>
+	<game name="Bomber (19xx)(Hebdogiciel)(PD)">
+		<description>Bomber (19xx)(Hebdogiciel)(PD)</description>
+		<rom name="Bomber (19xx)(Hebdogiciel)(PD).k7" size="8391" crc="1add4de5" md5="c086df4bb7ae5b5f6eb80d076abdd326" sha1="c3b9d3387816b197e9f43614baaf594dc38c6be2"/>
+	</game>
+	<game name="Isabelle et le Dragon (19xx)(Hebdogiciel)(PD)">
+		<description>Isabelle et le Dragon (19xx)(Hebdogiciel)(PD)</description>
+		<rom name="Isabelle et le Dragon (19xx)(Hebdogiciel)(PD).k7" size="20234" crc="2d19f913" md5="b858ba72357b3bffd18be37abe0f67be" sha1="66f2d528e22364f980f5d9556840b3db6d0c27e9"/>
+	</game>
+	<game name="Mission U72 (19xx)(Hebdogiciel)(PD)">
+		<description>Mission U72 (19xx)(Hebdogiciel)(PD)</description>
+		<rom name="Mission U72 (19xx)(Hebdogiciel)(PD).k7" size="24065" crc="7711543f" md5="d832fb8d18c0af488e9f39900c260110" sha1="61bbf749774c0bbabf54b86320d423481cadf1f4"/>
+	</game>
+	<game name="Orbital Mission (19xx)(Cokrel Vision)(it)">
+		<description>Orbital Mission (19xx)(Cokrel Vision)(it)</description>
+		<rom name="Orbital Mission (19xx)(Cokrel Vision)(it).k7" size="22964" crc="89ac58dc" md5="04acc85efb1fcf9458b5ed75702f07e2" sha1="3edb74c091e49521355765d6120a2a1109301cb2"/>
+	</game>
+	<game name="Quad (19xx)(Microid)[nb]">
+		<description>Quad (19xx)(Microid)[nb]</description>
+		<rom name="Quad (19xx)(Microid)[nb].k7" size="88402" crc="2e9eec90" md5="2e1009537a3ffa9b96fd2339c576b966" sha1="642bf5f24598647633816865eb273fb8f8a2067f"/>
+	</game>
+</datafile>

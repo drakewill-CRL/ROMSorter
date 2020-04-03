@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore VIC20 - Applications - [PRG] - Multipart</name>
+		<description>Commodore VIC20 - Applications - [PRG] - Multipart (TOSEC-v2017-10-23)</description>
+		<category>TOSEC</category>
+		<version>2017-10-23</version>
+		<author>Tomse - Vicman - AntiPontifex - Apache - DesertWolf - BuckyB - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+		<clrmamepro/>
+	</header>
+	<game name="3D Drawing Master (1984-02)(Compute!)[a][type-in][16k][multipart]">
+		<description>3D Drawing Master (1984-02)(Compute!)[a][type-in][16k][multipart]</description>
+		<rom name="3D Drawing Master (1984-02)(Compute!)[a][type-in][16k][multipart].prg" size="177" crc="3d0c685a" md5="7e08a82bbe897066489c04b5dd2d8330" sha1="2f0066dbde93356236f1b09f5c60e17946ccb001"/>
+		<rom name="drawing master.f" size="5439" crc="77b8ec86" md5="43f915dc672421b3faf717f3f032e093" sha1="6544eeea98e5413a1937e35413bd3fad63a1ab2e"/>
+	</game>
+	<game name="3D Drawing Master (1984-02)(Compute!)[type-in][16k][multipart]">
+		<description>3D Drawing Master (1984-02)(Compute!)[type-in][16k][multipart]</description>
+		<rom name="3D Drawing Master (1984-02)(Compute!)[multipart][16k].prg" size="139" crc="9d1320ef" md5="3be73a4cbbad34133cf8adb45192459d" sha1="6937c16fc870e2d0ffdedc190de807228ef7b931"/>
+		<rom name="3d-drawing ii" size="5485" crc="394a104b" md5="b1e6061531ae370592077dba12a1399f" sha1="a452c4a7edbea27b8520b35e0fa1de5863d75a46"/>
+	</game>
+	<game name="Adressenverwaltung (1983-11)(Markt &amp; Technik)(de)[Happy Computer][type-in][8k][multipart]">
+		<description>Adressenverwaltung (1983-11)(Markt &amp; Technik)(de)[Happy Computer][type-in][8k][multipart]</description>
+		<rom name="adressdaten" size="3558" crc="5abf8cd2" md5="ce58e8604dc46bad124eae15c60824ff" sha1="e48b6cfc3cad1f54eb1be7089e5ccf68cb091b89"/>
+		<rom name="adressen 2" size="2604" crc="fe4bad40" md5="3a4fdaaac3d0b9ad29c6246aa58e70cd" sha1="9b1d983dd67d5dcd615ea90aa7d11a7e75e61eca"/>
+		<rom name="Adressenverwaltung (1983-11)(Markt &amp; Technik)(de)[Happy Computer][type-in][8k][multipart].prg" size="1421" crc="5f8577d9" md5="6e4c4280d936e3f5cab25fec9c059937" sha1="ab6806c997cd7b7694adc31bb06e1bb91f093752"/>
+	</game>
+	<game name="Easy Basic v1.0 (19xx)(Bruce, Craig)[multipart]">
+		<description>Easy Basic v1.0 (19xx)(Bruce, Craig)[multipart]</description>
+		<rom name="Easy Basic v1.0 (19xx)(Bruce, Craig)[multipart].prg" size="251" crc="c7f9d27d" md5="26ea6690f65ffadfdd109c72ceeb581c" sha1="6355b84a8b61eccdb53fe226464258c905b9bab6"/>
+		<rom name="easy basic.f" size="4095" crc="519b5416" md5="294027ac8360c074b49eca7742187134" sha1="c829e2728dab99aabfdadb525e5c3b62d7ecfe82"/>
+		<rom name="easy basic.p2" size="2050" crc="c4158a17" md5="f535a1df632af056f8ebf129aedf0a96" sha1="0966b3e67908e90facda57eb884689cdc5a706a9"/>
+	</game>
+	<game name="Elektrotechnisches Zeichnen (1985-03)(Markt &amp; Technik)(de)[64'er Magazin][type-in][16k][multipart]">
+		<description>Elektrotechnisches Zeichnen (1985-03)(Markt &amp; Technik)(de)[64'er Magazin][type-in][16k][multipart]</description>
+		<rom name="Elektrotechnisches Zeichnen (1985-03)(Markt &amp; Technik)(de)[64'er Magazin][type-in][16k][multipart].prg" size="114" crc="28a5a294" md5="715493e5b5d78879ea13d890c44842c5" sha1="9da12b5ef5ef5dbb7e8dc1f8a36593ec9436c876"/>
+		<rom name="ezeichnen2" size="4067" crc="840eeaac" md5="66e4d17bf2b2d5dad8b68974718f8fe3" sha1="6f8f0d4aaa02c7955c952113d6942adc5d5ce39f"/>
+		<rom name="ezeichnen3" size="8500" crc="1c7f3e38" md5="49b5fc26644cde7cf4925ab0aabde78c" sha1="8bf42bf951e9a34381a266de3dd57508a95f149c"/>
+	</game>
+	<game name="Grafik (1984-05)(Markt &amp; Technik)(de)[64'er Magazin][type-in][8k][multipart]">
+		<description>Grafik (1984-05)(Markt &amp; Technik)(de)[64'er Magazin][type-in][8k][multipart]</description>
+		<rom name="Grafik (1984-05)(Markt &amp; Technik)(de)[64'er Magazin][type-in][8k][multipart].prg" size="107" crc="46f6a264" md5="2902488c62fb4481d2ec759a4e79e23d" sha1="aaf3a65019e16732433ccdec9c880c0b738c4176"/>
+		<rom name="grafik2" size="3927" crc="1883f7d7" md5="c8e27906a5fa17784e2558511af0159b" sha1="4439e73d7e8f17fc54e35e0ba62ec353a5a0409e"/>
+	</game>
+	<game name="Handy BASIC v1.0 (19xx)(Bruce, Craig)[multipart]">
+		<description>Handy BASIC v1.0 (19xx)(Bruce, Craig)[multipart]</description>
+		<rom name="Handy BASIC v1.0 (19xx)(Bruce, Craig)[multipart].prg" size="196" crc="ae49e870" md5="69b4a2071b417562ac27dd74647c278a" sha1="e23989c9ffffa10cbf7983f754efda7ed7b3988e"/>
+		<rom name="handy basic.f" size="2079" crc="62793529" md5="171c5a2531159a95cb7de38256644a9b" sha1="2afbd9f96b79a2edc04785f4c064ba130d47bd59"/>
+	</game>
+	<game name="Hyper Graphics (1986-03)(Markt &amp; Technik)(de)[64'er Magazin Sonderheft][type-in][8k][multipart]">
+		<description>Hyper Graphics (1986-03)(Markt &amp; Technik)(de)[64'er Magazin Sonderheft][type-in][8k][multipart]</description>
+		<rom name="Hyper Graphics (1986-03)(Markt &amp; Technik)(de)[64'er Magazin Sonderheft][type-in][8k][multipart].prg" size="3631" crc="8a4ec02d" md5="0fd2ecf8f8eac429d8f63c853ac1caf8" sha1="235c53fa20c0dee23563d46ec0465407449ecd4d"/>
+		<rom name="hyper-demo.prg" size="4143" crc="8a3f45a9" md5="1fa80271e93c332c6a955021a1db0351" sha1="f10aea79f63f117690fe2065c67c554803f4d43a"/>
+	</game>
+	<game name="Laterna Magica (1984-11)(Markt &amp; Technik)(de)[64'er Magazin][type-in][multipart]">
+		<description>Laterna Magica (1984-11)(Markt &amp; Technik)(de)[64'er Magazin][type-in][multipart]</description>
+		<rom name="laterna magica" size="1662" crc="f4aba813" md5="7956f56fa18e2772fb09f27e4b3dc472" sha1="281860c97e7051e7d5c894f5ba4c1e29b917c989"/>
+		<rom name="Laterna Magica (1984-11)(Markt &amp; Technik)(de)[64'er Magazin][type-in][multipart].prg" size="1210" crc="8f283522" md5="2c95b8cc9dd015c1aa466c80b08da4ff" sha1="b5cf4ab03d5388b36bcf8fc850813d930dd9726e"/>
+	</game>
+	<game name="Machinetaal Cursus (1983)(PBE)[tr nl][req 40 collumns][8k][multipart]">
+		<description>Machinetaal Cursus (1983)(PBE)[tr nl][req 40 collumns][8k][multipart]</description>
+		<rom name="les10" size="5662" crc="f98be17f" md5="d3b10876d66060e11146e12c741d8b0f" sha1="111cc8ae72de6b0969482752af841626bbab262a"/>
+		<rom name="les11" size="5947" crc="3353f7d1" md5="fcc24301c4f0d7593022927713b9aad0" sha1="619d1f91ffbee198ebd60a64b818fb23fcf4a1d2"/>
+		<rom name="les12" size="6209" crc="fe678e63" md5="6cc1fb12698a4bf28fbfb31c51cd0671" sha1="9a705b7c7e5ec0b63996b8c04a831cb4973840f4"/>
+		<rom name="les2" size="6287" crc="87041678" md5="92fe1201ab12f95138d0418e19c02279" sha1="076603f07945658534b0305342acc97906e7e0c6"/>
+		<rom name="les3" size="6279" crc="c8d89e3d" md5="74e1a41ffc9c2d2ad72414ef33fdb720" sha1="341a956dc4854c7e1d025786ce648f23511f211e"/>
+		<rom name="les4" size="6464" crc="f6ed6cd5" md5="fb4a53e4c695bb64e87d49beea08a1aa" sha1="fa4eace938e310e92cea77fb0842b81e04263701"/>
+		<rom name="les5" size="6098" crc="937287a9" md5="fac7001a2068f079b14b2b9564f5721a" sha1="6edba07109177c47430293237fc742566d030762"/>
+		<rom name="les6" size="6551" crc="033b6784" md5="04c8cde02f5677a5d59e17e232c9aa12" sha1="375fbb4e1518fdc1da6749cb0adb4dbbe8e0082a"/>
+		<rom name="les7" size="6421" crc="c3cfaaec" md5="4282f8e2ee3787cf614b8b3fc4aaad78" sha1="f96ef487479e3752b4b58943628ed6561c620cb9"/>
+		<rom name="les8" size="6499" crc="9721a381" md5="611ae81098dbcbb2d99b7df7eba924da" sha1="17bb9a175b64e2387c80bf4716b72df30d01fbba"/>
+		<rom name="les9" size="6259" crc="84f36f91" md5="f27f9adad1300370c4e78ea5c7c3ac9e" sha1="34927db0758fa27eed5d7f430e6c7aef63734edc"/>
+		<rom name="Machinetaal Cursus (1983)(PBE)[tr nl][req 40 collumns][8k][multipart].prg" size="6336" crc="faf340e6" md5="dc0b9e679f808d6e3093dbb876dffe31" sha1="9a47112a230977c3332f702183ed01e43844c479"/>
+	</game>
+	<game name="Magic Draw (19xx)(-)[8k][multipart]">
+		<description>Magic Draw (19xx)(-)[8k][multipart]</description>
+		<rom name="magic draw" size="2386" crc="f60da676" md5="8782805af3e3a628f41a7279e7776f06" sha1="69eb01f07fcc3ad85f411ca66e6e8bd2e5822201"/>
+		<rom name="Magic Draw (19xx)(-)[8k][multipart].prg" size="181" crc="ec130cdf" md5="f2c2387e9e168330af758aca995afb17" sha1="e53b7f323dddc386fa43c8d1640f82a249fe1d72"/>
+	</game>
+	<game name="Magic Draw (19xx)(-)[h][8k][multipart]">
+		<description>Magic Draw (19xx)(-)[h][8k][multipart]</description>
+		<rom name="magic draw" size="2386" crc="f60da676" md5="8782805af3e3a628f41a7279e7776f06" sha1="69eb01f07fcc3ad85f411ca66e6e8bd2e5822201"/>
+		<rom name="Magic Draw (19xx)(-)[h][8k][multipart].prg" size="181" crc="31ebd7ba" md5="2af992e05f524e84a39e58e283dc976a" sha1="1d0e30af9befa4fe1fde08ba9dad8da641b82320"/>
+	</game>
+	<game name="Mighty Mon v1.0 (19xx)(Bruce, Craig)[8k][multipart]">
+		<description>Mighty Mon v1.0 (19xx)(Bruce, Craig)[8k][multipart]</description>
+		<rom name="mighty mon 1.0-f" size="7595" crc="fe1e15da" md5="d59337b1defe3ee342e6e92dba7bdd7f" sha1="1105b24a68d13c01ac973c6a4882ddf704095eda"/>
+		<rom name="Mighty Mon v1.0 (19xx)(Bruce, Craig)[8k][multipart].prg" size="214" crc="8c88698f" md5="dc7cc66c84bae18d69ffc8745f5b09e8" sha1="ff3a618dcf17086101a0a8afc1d6a4eafe2bbde1"/>
+	</game>
+	<game name="Minigrafik (1985-05)(Markt &amp; Technik)(de)[64'er Magazin][type-in][multipart]">
+		<description>Minigrafik (1985-05)(Markt &amp; Technik)(de)[64'er Magazin][type-in][multipart]</description>
+		<rom name="Minigrafik (1985-05)(Markt &amp; Technik)(de)[64'er Magazin][type-in][multipart].prg" size="1230" crc="b72ed0db" md5="d0ee1a720658a3b9b8e66fb38583a7bf" sha1="260da9a385e3684de1500add75660670ed30d052"/>
+		<rom name="minigrafik demo.prg" size="397" crc="6c1b4fdc" md5="74ff59306ef117c4b9628835b9a99ca8" sha1="27594b42748e2f0b696120575887b1a0209b933c"/>
+	</game>
+	<game name="Movemaster (1984-06)(Markt &amp; Technik)(de)[64'er Magazin][type-in][8k][multipart]">
+		<description>Movemaster (1984-06)(Markt &amp; Technik)(de)[64'er Magazin][type-in][8k][multipart]</description>
+		<rom name="Movemaster (1984-06)(Markt &amp; Technik)(de)[64'er Magazin][type-in][8k][multipart].prg" size="3073" crc="f7a4d8ac" md5="5e5829a3da8901edca520777adfae4ba" sha1="72ff5c9a712afdc2ed4cd91fcb2e8f5e544b49ac"/>
+		<rom name="movemaster.bas" size="2373" crc="4e9b7cc4" md5="c583f67251d8c77ca1e7b6230442f81f" sha1="72ba3a90f75d15ffa30778222e47251e7318ecf4"/>
+		<rom name="movemaster.load" size="1756" crc="c9cc1fb0" md5="87515b08d7bdea56b1b881bfe53ee2c1" sha1="839c8ca8d15dceede4b211ba86e40574ee3b9ca5"/>
+	</game>
+	<game name="Pixel Graphic (1988-03)(Tronic Verlag)(de)[Compute mit][type-in][plus demo][multipart]">
+		<description>Pixel Graphic (1988-03)(Tronic Verlag)(de)[Compute mit][type-in][plus demo][multipart]</description>
+		<rom name="Pixel Graphic (1988-03)(Tronic Verlag)(de)[Compute mit][type-in][plus demo][multipart].prg" size="957" crc="ee32b868" md5="26a3c0c445b5415aaf6bc26bf77adb9a" sha1="16ee4d37da6cb7ae2c5613ce346b4fbbe8e04597"/>
+		<rom name="pixel-g-demo.prg" size="277" crc="6b1f7142" md5="4542b0f84416a5aa12889e5302c3b616" sha1="76f1043840f6f9134aaaa24bbf5d33e0f74cf42f"/>
+	</game>
+	<game name="Program Ledger (1985)(Bruce, Craig)[multipart]">
+		<description>Program Ledger (1985)(Bruce, Craig)[multipart]</description>
+		<rom name="Program Ledger (1985)(Bruce, Craig)[multipart].prg" size="631" crc="1e7f86fd" md5="646333bb046da489ffc60b5ed7ffaf81" sha1="a770d38feef819aec348c3b1952d03219c9cae54"/>
+		<rom name="program ledger.f" size="4881" crc="6ceb01cc" md5="0d56d0ba8a113479bc08555e7d8d278c" sha1="d497f9a6fac0bb8e5b29552ef99804c2f93be55c"/>
+	</game>
+	<game name="Pseudo-Sprites (1984-11)(Markt &amp; Technik)(de)[64'er Magazin][type-in][8k][multipart]">
+		<description>Pseudo-Sprites (1984-11)(Markt &amp; Technik)(de)[64'er Magazin][type-in][8k][multipart]</description>
+		<rom name="Pseudo-Sprites (1984-11)(Markt &amp; Technik)(de)[64'er Magazin][type-in][8k][multipart].prg" size="178" crc="187198db" md5="49e9e495fc1d5ecb57c1a0df08a6d70c" sha1="b653c27cfdb487099b9f2db7a8426e594b18853c"/>
+		<rom name="pseudosprts.bin" size="1026" crc="c2151bd3" md5="82faa7e85c91935dd8b3823a5c168259" sha1="9ef6d9c9e9f4a72bc6cf0cb445fa7029f0c396cf"/>
+		<rom name="pseudosprts.data" size="4841" crc="c85e8dd2" md5="777d7e0e3700f324f695d847c9e00c47" sha1="9b8d93eb8d1cc6e176281b8452b991d5ffe2b316"/>
+		<rom name="sprite-demo" size="144" crc="2bb1d922" md5="0b133ee7b86516f9a2b5b468c4a1f9ff" sha1="f0b126bdc9b008932afeab271679ec1a4b6c2522"/>
+		<rom name="spritegenerator" size="4683" crc="43f2c023" md5="cecf5fe1fe5a8892c1e661978ea190e2" sha1="ca1b61c61a1a3b8d321d432aa82507b2cf086bc1"/>
+	</game>
+	<game name="Puny Mon v1.0 (19xx)(Bruce, Craig)[multipart]">
+		<description>Puny Mon v1.0 (19xx)(Bruce, Craig)[multipart]</description>
+		<rom name="puny mon 1.0-f" size="2832" crc="59d02a52" md5="5c360e8c69bc1606ae33413e5513be79" sha1="2986dfa2a3bb5a6725c0f15da1b822daa015596f"/>
+		<rom name="Puny Mon v1.0 (19xx)(Bruce, Craig)[multipart].prg" size="143" crc="1c3204b5" md5="cf52e7f2ff9ee49c02adb254040cccf7" sha1="0c56c32fceabb836f8ae0bdc56e73db0cadc80f9"/>
+	</game>
+	<game name="Rock' Me (1986-01)(Tronic Verlag)(de)[Compute mit][type-in][8k][multipart]">
+		<description>Rock' Me (1986-01)(Tronic Verlag)(de)[Compute mit][type-in][8k][multipart]</description>
+		<rom name="Rock' Me (1986-01)(Tronic Verlag)(de)[Compute mit][type-in][8k][multipart].prg" size="1346" crc="7c4ef361" md5="8b0076aa05b06df4900e3101ab04b954" sha1="7c9ef2cd37435b4b69895d48d7d5b1338b1aef58"/>
+		<rom name="rockme2.prg" size="1311" crc="2e9f263d" md5="bdf79209b336c821b3b7b14950eb4677" sha1="593e2b4a906e2843d74f8387b1d054c5a567c3b3"/>
+	</game>
+	<game name="Super-Graphik (1984-12)(Markt &amp; Technik)(de)[Happy Computer][type-in][multipart]">
+		<description>Super-Graphik (1984-12)(Markt &amp; Technik)(de)[Happy Computer][type-in][multipart]</description>
+		<rom name="Super-Graphik (1984-12)(Markt &amp; Technik)(de)[Happy Computer][type-in][multipart].prg" size="418" crc="d793efa7" md5="91a6a0181042642858912729d93d0b6b" sha1="5537e84588f9f735ee5075ab5db00bcf73dd1caf"/>
+		<rom name="super-graphik2" size="2432" crc="293b5d0e" md5="2a4e59f83423adf4255ddd6453d33a87" sha1="03727ce5721e1c40ba9d69e37d40e52f1a6d5eab"/>
+	</game>
+	<game name="TH-Basic (1986-03)(Markt &amp; Technik)(de)[64'er Magazin Sonderheft][type-in][8k][multipart]">
+		<description>TH-Basic (1986-03)(Markt &amp; Technik)(de)[64'er Magazin Sonderheft][type-in][8k][multipart]</description>
+		<rom name="TH-Basic (1986-03)(Markt &amp; Technik)(de)[64'er Magazin Sonderheft][type-in][8k][multipart].prg" size="6404" crc="7a18a7eb" md5="bc22cd7fc94c10b4f10b789fbca7c905" sha1="e3fbc371db45ae48e0af4aabccdd93d8a0773606"/>
+		<rom name="th-basic-demo.prg" size="2604" crc="27354e5c" md5="fc2b78bb0cd6d12c745eb802898f3f18" sha1="d6f62466a422d0b2a6f68de5ac6166c660196579"/>
+	</game>
+	<game name="VIC Pilot (19xx)(Haugar, Mark)[8k][multipart]">
+		<description>VIC Pilot (19xx)(Haugar, Mark)[8k][multipart]</description>
+		<rom name="VIC Pilot (19xx)(Haugar, Mark)[8k][multipart].prg" size="554" crc="96f3ef14" md5="a54396622790f71e57808ce75939b075" sha1="ff2f5a485c9e573cfb0ac403206c2253d38ee200"/>
+		<rom name="vic pilot.f" size="5605" crc="40660dc9" md5="810e458c1399ca59981ad662d2bbeac8" sha1="63ff4d529e88a2626cc071a286d69af929e96c1b"/>
+	</game>
+	<game name="ZS-Gen &amp; Data Maker (1987-08)(Tronic Verlag)(de)[Compute mit][type-in][3k][multipart]">
+		<description>ZS-Gen &amp; Data Maker (1987-08)(Tronic Verlag)(de)[Compute mit][type-in][3k][multipart]</description>
+		<rom name="data-maker" size="908" crc="aed88548" md5="ca5ce59f9875e352ed4c851854a834df" sha1="7701e9e9cd5b27090ed3dfc9af139794e4c6a38e"/>
+		<rom name="ZS-Gen &amp; Data Maker (1987-08)(Tronic Verlag)(de)[Compute mit][type-in][3k][multipart].prg" size="5133" crc="f35690e4" md5="79bccadfd409ae112d103322f4c4bb9e" sha1="09e973fec0f61ce83d194a616676477851c9742d"/>
+	</game>
+</datafile>

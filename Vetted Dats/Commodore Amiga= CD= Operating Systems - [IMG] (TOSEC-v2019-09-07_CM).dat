@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore Amiga - CD - Operating Systems - [IMG]</name>
+		<description>Commodore Amiga - CD - Operating Systems - [IMG] (TOSEC-v2019-09-07)</description>
+		<category>TOSEC</category>
+		<version>2019-09-07</version>
+		<author>Tomse - TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="AmigaOS 3.9 (2000)(Haage &amp; Partner)[Install 45.0 (2000-11-24)]">
+		<description>AmigaOS 3.9 (2000)(Haage &amp; Partner)[Install 45.0 (2000-11-24)]</description>
+		<rom name="AmigaOS 3.9 (2000)(Haage &amp; Partner)[Install 45.0 (2000-11-24)].ccd" size="997" crc="f454f9ce" md5="8486a1d70676fc78197080daf5fb1228" sha1="94a364461b00e5f21e6cc8d46aed25836ad7631f"/>
+		<rom name="AmigaOS 3.9 (2000)(Haage &amp; Partner)[Install 45.0 (2000-11-24)].cue" size="186" crc="d0ee34d1" md5="66c702249ce3ffef4e8606a728720bf4" sha1="038ed97031b267bc7dee6979a57b81f9ed783bcc"/>
+		<rom name="AmigaOS 3.9 (2000)(Haage &amp; Partner)[Install 45.0 (2000-11-24)].img" size="616635600" crc="f0c5376d" md5="6fae768e73c972786644b57d66a504ed" sha1="745efd3ecf99b0360bbcf5c6b7c938835e1a5689"/>
+		<rom name="AmigaOS 3.9 (2000)(Haage &amp; Partner)[Install 45.0 (2000-11-24)].sub" size="25168800" crc="ac291075" md5="964bd892249e87362c510147baaecaac" sha1="14238c6c75fda8a270745c084eb467fba7665452"/>
+	</game>
+	<game name="AmigaOS 3.9 (2001)(Haage &amp; Partner)[Install 45.13 (2001-02-09)]">
+		<description>AmigaOS 3.9 (2001)(Haage &amp; Partner)[Install 45.13 (2001-02-09)]</description>
+		<rom name="AmigaOS 3.9 (2000)(Haage &amp; Partner)[Install 45.13 (9.2.2001)].ccd" size="1283" crc="446ffbb7" md5="e90a5043365b0393dff712656197f3d2" sha1="99a0dfe9ba3fbe87a3b68ebf279bdfab095bd9a8"/>
+		<rom name="AmigaOS 3.9 (2000)(Haage &amp; Partner)[Install 45.13 (9.2.2001)].img" size="714290640" crc="db57cdda" md5="fa98a65a25882458fcb5403c57ac5c7c" sha1="f1f3f32440efcd47ebd06e0edb3ce21937bc77b8"/>
+		<rom name="AmigaOS 3.9 (2000)(Haage &amp; Partner)[Install 45.13 (9.2.2001)].sub" size="29154720" crc="5b4f8871" md5="d2c857023c8abf574157ec45f60e2105" sha1="76cbeacab81701bdcb69dc60a7c34262c70f0aa9"/>
+	</game>
+	<game name="AmigaOS 3.9 (2001)(Haage &amp; Partner)[Install 45.7 (2001-01-30)]">
+		<description>AmigaOS 3.9 (2001)(Haage &amp; Partner)[Install 45.7 (2001-01-30)]</description>
+		<rom name="AmigaOS 3.9 (2001)(Haage &amp; Partner)[Install 45.7 (30.1.2001)].ccd" size="986" crc="adfd5d5c" md5="1cf86d9106bc2b6c7a3390c945758b17" sha1="b3aaed272c7c1e550d22cc9444f14d8f20832de3"/>
+		<rom name="AmigaOS 3.9 (2001)(Haage &amp; Partner)[Install 45.7 (30.1.2001)].cue" size="164" crc="c98b19d9" md5="43ce2d2dbea45513821e751d2142bc3e" sha1="caa93d56447a31dbf0d4c6a631464a15e8caa2f7"/>
+		<rom name="AmigaOS 3.9 (2001)(Haage &amp; Partner)[Install 45.7 (30.1.2001)].img" size="630423024" crc="cec1b18a" md5="45ad5ca03ba87512b585917e2aada663" sha1="9b0a8d5dda7d17edf7841aa184457778a4516bc5"/>
+		<rom name="AmigaOS 3.9 (2001)(Haage &amp; Partner)[Install 45.7 (30.1.2001)].sub" size="25731552" crc="367a833d" md5="2da06c82cd1de462fc49e415e40fada9" sha1="e22d05399e379bbcc49ed0337336ce96d56f8a5f"/>
+	</game>
+</datafile>

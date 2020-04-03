@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Exelvision EXL100 - Compilations - [FD]</name>
+		<description>Exelvision EXL100 - Compilations - [FD] (TOSEC-v2014-01-24)</description>
+		<category>TOSEC</category>
+		<version>2014-01-24</version>
+		<author>TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Jeux (198x)(Exelvision)(FR)">
+		<description>Jeux (198x)(Exelvision)(FR)</description>
+		<rom name="Jeux (198x)(Exelvision)(FR).fd" size="655360" crc="9c7fdb39" md5="c45c1d5695b8dd0c2417149846c66e79" sha1="a303a1166716cd8f785e18ba2710b409ac435c0c"/>
+	</game>
+</datafile>

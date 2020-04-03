@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>NorthStar Horizon - Compilations - Games</name>
+		<description>NorthStar Horizon - Compilations - Games (TOSEC-v2017-04-05)</description>
+		<category>TOSEC</category>
+		<version>2017-04-05</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<url>http://www.tosecdev.org</url>
+		<clrmamepro/>
+	</header>
+	<game name="All Games Backup 1 (19xx)(-)">
+		<description>All Games Backup 1 (19xx)(-)</description>
+		<rom name="All Games Backup 1 (19xx)(-).nsi" size="358400" crc="49c5f52c" md5="a4f9e1a9ba42780030e5aae466fbdb4d" sha1="3671adef02cd20826a2531bfb9e2b5f4ab1eeaac"/>
+	</game>
+	<game name="All Games Backup 2 (19xx)(-)">
+		<description>All Games Backup 2 (19xx)(-)</description>
+		<rom name="All Games Backup 2 (19xx)(-).nsi" size="358400" crc="c2a0bcac" md5="bb4bc35cc09b379c23373f97b1d5fd93" sha1="fb8c48324646fd8c2ac35255ef7b63b0519ea883"/>
+	</game>
+</datafile>

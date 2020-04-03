@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>DEC PDP-8 - Operating Systems - [RX1]</name>
+		<description>DEC PDP-8 - Operating Systems - [RX1] (TOSEC-v2014-01-23)</description>
+		<category>TOSEC</category>
+		<version>2014-01-23</version>
+		<author>TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="COS-310 v8.0 (19xx)(DEC)(US)">
+		<description>COS-310 v8.0 (19xx)(DEC)(US)</description>
+		<rom name="COS-310 v8.0 (19xx)(DEC)(US).rx1" size="256256" crc="864e9d89" md5="1f2f7ea3f88f011aa731723a4e5dd55f" sha1="8b1134f9fc8365c8520961db6d04a3d75f94c014"/>
+	</game>
+	<game name="COS-310 v8.0 Master (19xx)(DEC)(US)">
+		<description>COS-310 v8.0 Master (19xx)(DEC)(US)</description>
+		<rom name="COS-310 v8.0 Master (19xx)(DEC)(US).rx1" size="256256" crc="745af42d" md5="dc04766abc7e7282e656d72802ba1316" sha1="fa6cd296c8b2d23568981f32f0aaf21dc2820931"/>
+	</game>
+	<game name="NP-8 System Executable 64k (19xx)(-)">
+		<description>NP-8 System Executable 64k (19xx)(-)</description>
+		<rom name="NP-8 System Executable 64k (19xx)(-).rx1" size="256256" crc="df2276a7" md5="3bce50c793629f45d8f630fc5fa3ad42" sha1="6eb8389362904f975ba3d7355c690f7bfa71a561"/>
+	</game>
+	<game name="OS-78 (19xx)(DEC)(US)(Disk 1 of 2)">
+		<description>OS-78 (19xx)(DEC)(US)(Disk 1 of 2)</description>
+		<rom name="OS-78 (19xx)(DEC)(US)(Disk 1 of 2).rx1" size="256256" crc="731bd9ed" md5="31d777b45cbf0f9d7ddb732fbcdc460a" sha1="d001adfbd27b8069f55857aaca1264f939337379"/>
+	</game>
+	<game name="OS-78 v1.1 (19xx)(DEC)(US)(Disk 1 of 2)">
+		<description>OS-78 v1.1 (19xx)(DEC)(US)(Disk 1 of 2)</description>
+		<rom name="OS-78 v1.1 (19xx)(DEC)(US)(Disk 1 of 2).rx1" size="256256" crc="65d72926" md5="eba18215f3821ff78f7d16dcd2d18d95" sha1="fab261351a00b6a6cf77f769da91b71ab00a8db7"/>
+	</game>
+	<game name="OS-78 v1.1 (19xx)(DEC)(US)[Kermit]">
+		<description>OS-78 v1.1 (19xx)(DEC)(US)[Kermit]</description>
+		<rom name="OS-78 v1.1 (19xx)(DEC)(US)[Kermit].rx1" size="256256" crc="c8a6380e" md5="35ca2c6100af723c3b0880229b4ea8d1" sha1="eb7e611f5962120125ebaa69194ab75967288982"/>
+	</game>
+	<game name="OS-78 v1.2 (19xx)(DEC)(US)(Disk 2 of 2)">
+		<description>OS-78 v1.2 (19xx)(DEC)(US)(Disk 2 of 2)</description>
+		<rom name="OS-78 v1.2 (19xx)(DEC)(US)(Disk 2 of 2).rx1" size="256256" crc="09012bca" md5="2925b83686419d7966a3eb6d85114288" sha1="69ccc0a110c1f1598df91ffb6639c28e0bd0b887"/>
+	</game>
+	<game name="OS-8 &amp; Basic (19xx)(DEC)(US)">
+		<description>OS-8 &amp; Basic (19xx)(DEC)(US)</description>
+		<rom name="OS-8 &amp; Basic (19xx)(DEC)(US).rx1" size="256256" crc="8b9c1418" md5="5accc05731393812c386841c913ecb9a" sha1="1e7523226db4920ac6126d9f213c02cfdf5cae9b"/>
+	</game>
+	<game name="OS-8 v3d (1980)(DEC)(US)(Disk 1 of 2)">
+		<description>OS-8 v3d (1980)(DEC)(US)(Disk 1 of 2)</description>
+		<rom name="OS-8 v3d (1980)(DEC)(US)(Disk 1 of 2).rx1" size="256256" crc="422a227c" md5="767bc8df76329ee528ed5577a85b15a4" sha1="8688e3ffe5de08cce1fff36b335952bb13ba8921"/>
+	</game>
+	<game name="OS-8 v3d (1980)(DEC)(US)(Disk 2 of 2)">
+		<description>OS-8 v3d (1980)(DEC)(US)(Disk 2 of 2)</description>
+		<rom name="OS-8 v3d (1980)(DEC)(US)(Disk 2 of 2).rx1" size="256256" crc="944187b9" md5="9144c5c7cd46a54b0d3bd8b1fed7cfda" sha1="31299bf3f7b4ef47cb6f7e74b61a34ebcce9034f"/>
+	</game>
+	<game name="OS-8 v3r (19xx)(DEC)(US)">
+		<description>OS-8 v3r (19xx)(DEC)(US)</description>
+		<rom name="OS-8 v3r (19xx)(DEC)(US).rx1" size="256256" crc="ffecca41" md5="752ab6276e21fa2938ee6e8b9e0eb0fa" sha1="f43d01f87541480178477e244e66f91536800fc6"/>
+	</game>
+	<game name="RTS-8 Mast Inspection System Source (1991)(DEC)(US)(File 1 of 7)">
+		<description>RTS-8 Mast Inspection System Source (1991)(DEC)(US)(File 1 of 7)</description>
+		<rom name="RTS-8 Mast Inspection System Source (1991)(DEC)(US)(File 1 of 7).rx1" size="256256" crc="a818c30e" md5="a768ce81b942eb9cc04f48ab313c5991" sha1="b55577fecbbde2035285b661b1924b49f5a218b8"/>
+	</game>
+	<game name="RTS-8 Mast Inspection System Source (1991)(DEC)(US)(File 2 of 7)">
+		<description>RTS-8 Mast Inspection System Source (1991)(DEC)(US)(File 2 of 7)</description>
+		<rom name="RTS-8 Mast Inspection System Source (1991)(DEC)(US)(File 2 of 7).rx1" size="256256" crc="6c8c5c34" md5="b6c9f8f33dec8a852d4aeadf01d74425" sha1="131d1566804ba5e26c9de355144524b258f92dc3"/>
+	</game>
+	<game name="RTS-8 Mast Inspection System Source (1991)(DEC)(US)(File 3 of 7)">
+		<description>RTS-8 Mast Inspection System Source (1991)(DEC)(US)(File 3 of 7)</description>
+		<rom name="RTS-8 Mast Inspection System Source (1991)(DEC)(US)(File 3 of 7).rx1" size="256256" crc="46be3f7d" md5="a588a3bd876762279f3d28d88bc7a64a" sha1="cc5fd604e26deff0cdf87cae0a588d430599cf0d"/>
+	</game>
+	<game name="RTS-8 Mast Inspection System Source (1991)(DEC)(US)(File 4 of 7)">
+		<description>RTS-8 Mast Inspection System Source (1991)(DEC)(US)(File 4 of 7)</description>
+		<rom name="RTS-8 Mast Inspection System Source (1991)(DEC)(US)(File 4 of 7).rx1" size="256256" crc="1e58cee5" md5="9997e5d783717f9f84543fa7b1103c2f" sha1="4bfa4e258185a6556238b492704901498779f70b"/>
+	</game>
+	<game name="RTS-8 Mast Inspection System Source (1991)(DEC)(US)(File 5 of 7)">
+		<description>RTS-8 Mast Inspection System Source (1991)(DEC)(US)(File 5 of 7)</description>
+		<rom name="RTS-8 Mast Inspection System Source (1991)(DEC)(US)(File 5 of 7).rx1" size="256256" crc="42ac23d4" md5="466766ffe8eec0354355c56e7f5d0f8b" sha1="a51f2ebb210bc201cac6b944a9f6cc989327ee16"/>
+	</game>
+	<game name="RTS-8 Mast Inspection System Source (1991)(DEC)(US)(File 6 of 7)">
+		<description>RTS-8 Mast Inspection System Source (1991)(DEC)(US)(File 6 of 7)</description>
+		<rom name="RTS-8 Mast Inspection System Source (1991)(DEC)(US)(File 6 of 7).rx1" size="256256" crc="b04ad984" md5="643335aea20565cccd7eac9b4c9eaa0b" sha1="8c2f1cf7b741ada6ae941e99e08dcaadc2328e2b"/>
+	</game>
+	<game name="RTS-8 Mast Inspection System Source (1991)(DEC)(US)(File 7 of 7)">
+		<description>RTS-8 Mast Inspection System Source (1991)(DEC)(US)(File 7 of 7)</description>
+		<rom name="RTS-8 Mast Inspection System Source (1991)(DEC)(US)(File 7 of 7).rx1" size="256256" crc="e26c7d43" md5="0e60fc643491f82acb94e9a70e86b756" sha1="7ed8e3de5e5a118d4738a398416322c4a2691727"/>
+	</game>
+	<game name="RTS-8 Mast Inspection System Source B1 (1977)(DEC)(US)">
+		<description>RTS-8 Mast Inspection System Source B1 (1977)(DEC)(US)</description>
+		<rom name="RTS-8 Mast Inspection System Source B1 (1977)(DEC)(US).rx1" size="256256" crc="f7b59947" md5="fefd53b01107a302728ce22027c3ccf2" sha1="69d8b2965476fc5504990e2243f9f1c2ee5d047f"/>
+	</game>
+	<game name="RTS-8 Mast Inspection System Source B2 (1977)(DEC)(US)">
+		<description>RTS-8 Mast Inspection System Source B2 (1977)(DEC)(US)</description>
+		<rom name="RTS-8 Mast Inspection System Source B2 (1977)(DEC)(US).rx1" size="256256" crc="bda88b41" md5="bcf68ce8ead1386c5d8181d771db3b26" sha1="b4799e8aa21a237f9c08979f613f081915ce2a89"/>
+	</game>
+	<game name="RTS-8 Mast Inspection System Source B3 (1977)(DEC)(US)">
+		<description>RTS-8 Mast Inspection System Source B3 (1977)(DEC)(US)</description>
+		<rom name="RTS-8 Mast Inspection System Source B3 (1977)(DEC)(US).rx1" size="256256" crc="f514f018" md5="e1e0270bb25840bf6528384570fbf890" sha1="63f658514500596323e6a9c98fae2bb1eac5c109"/>
+	</game>
+	<game name="WPS 78 v3.3 (19xx)(DEC)(US)">
+		<description>WPS 78 v3.3 (19xx)(DEC)(US)</description>
+		<rom name="WPS 78 v3.3 (19xx)(DEC)(US).rx1" size="256256" crc="9c8ae3ff" md5="0edc1c99083ed2ff5e5d5b1a669fe0e4" sha1="0db445c08f557b5f274a36f0e3fd03ddcb127cee"/>
+	</game>
+	<game name="WPS 78 v3.4 (19xx)(DEC)(US)">
+		<description>WPS 78 v3.4 (19xx)(DEC)(US)</description>
+		<rom name="WPS 78 v3.4 (19xx)(DEC)(US).rx1" size="256256" crc="90bfcd19" md5="6d1c1850d22a03b70f0a459263db696c" sha1="ac0561e27d94dc296cbf40165c42211a7dc0bda8"/>
+	</game>
+</datafile>

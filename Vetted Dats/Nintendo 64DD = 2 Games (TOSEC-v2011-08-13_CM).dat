@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo 64DD - Games</name>
+		<description>Nintendo 64DD - Games (TOSEC-v2011-08-13)</description>
+		<category>TOSEC</category>
+		<version>2011-08-13</version>
+		<author>Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="F-Zero X Expansion Kit (2000)(Nintendo)(JP)[Req F-Zero X]">
+		<description>F-Zero X Expansion Kit (2000)(Nintendo)(JP)[Req F-Zero X]</description>
+		<rom name="F-Zero X Expansion Kit (2000)(Nintendo)(JP)[Req F-Zero X].bin" size="67108864" crc="a4a24ab0" md5="02e344ec824bba4a4cffcac5feadea51" sha1="c5845f582bc238e081588e172ef8ec50512e969d"/>
+	</game>
+</datafile>

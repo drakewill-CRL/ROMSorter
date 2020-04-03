@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Matsushita National JR 200 - Various</name>
+		<description>Matsushita National JR 200 - Various (TOSEC-v2014-06-27)</description>
+		<category>TOSEC</category>
+		<version>2014-06-27</version>
+		<author>Cid</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Bill Paying (19xx)(-)">
+		<description>Bill Paying (19xx)(-)</description>
+		<rom name="A_24.CJR" size="279" crc="23674b55" md5="ead24ef94b26d07ae69c1e453e85d402" sha1="777b54c249b224cdf5cbcc69b95270fa59a1c9c0"/>
+		<rom name="ALLDONE.TXT" size="100" crc="0a620e3d" md5="9f0a78068c98a72e9feb7ea3c2036ebf" sha1="03537a4de1d35525bbda87ad1d37ad685e35e5c2"/>
+		<rom name="B_24.CJR" size="2855" crc="20aab682" md5="ddcf1a31b275e9fa1752d5a9edb037c0" sha1="8dc681d836b9bea1661da3e60c702771f5e8a563"/>
+		<rom name="BillPay.TXT" size="331" crc="bf814486" md5="0652184d612fe1fe17e61233cb578410" sha1="3f86237139727aede07f95b6c71d2e314b25608b"/>
+		<rom name="C_24.cjr" size="13940" crc="c9b1943a" md5="de3ec587d7052f7b4b0d858318f31262" sha1="0475cbefca63d96806a2e219e4de1660f2251ec6"/>
+	</game>
+	<game name="Business Analysis (19xx)(-)">
+		<description>Business Analysis (19xx)(-)</description>
+		<rom name="A_24.CJR" size="284" crc="fc636b09" md5="c8f01d670ebd5061c1f1bb03a03efb8d" sha1="86597f398fb7ff7d281d2fbb7215ea7c8c9cd503"/>
+		<rom name="ALLDONE.TXT" size="87" crc="68c7eff6" md5="5b5c7c28ee6538aa721076d3981c1c61" sha1="b5358badb09238a4037279b5275030126864acdb"/>
+		<rom name="B_24.CJR" size="2855" crc="20aab682" md5="ddcf1a31b275e9fa1752d5a9edb037c0" sha1="8dc681d836b9bea1661da3e60c702771f5e8a563"/>
+		<rom name="Business.TXT" size="331" crc="fab87c8f" md5="dd52c31b3d679507819d88c0e9716f13" sha1="4926ee39859554ccb499b5e866d4386e384f2926"/>
+		<rom name="C_24.CJR" size="20673" crc="d3400943" md5="a295ed06d9b8906f0199eec6a9179e01" sha1="1cebcda8f7975e8b62ced765f2bfa72509869b8a"/>
+	</game>
+	<game name="Cosmic Patrol (19xx)(-)">
+		<description>Cosmic Patrol (19xx)(-)</description>
+		<rom name="A_24.CJR" size="282" crc="81720361" md5="64e5f2644f98daf9c98660b14f581862" sha1="e4d9913a90342ad1de704764ec123eaf48a7aa33"/>
+		<rom name="ALLDONE.TXT" size="40" crc="59039ffd" md5="26c8c59f5b985c5bbad8531f3bcbdd52" sha1="5407ffb61767da2daa571b2595c4b6e87d9d515b"/>
+		<rom name="B_24.CJR" size="2855" crc="20aab682" md5="ddcf1a31b275e9fa1752d5a9edb037c0" sha1="8dc681d836b9bea1661da3e60c702771f5e8a563"/>
+		<rom name="C_24.CJR" size="136" crc="99f19c42" md5="a31447bdd3c9d2e211bd20ef7fb6ad16" sha1="2ad31d7548b46d44a80f689f0aa2f5c4d1282093"/>
+		<rom name="CosmicPatrol.TXT" size="423" crc="8c236b1d" md5="be3510f94b49c6e00d5e45aa99449b8c" sha1="708c39d9b827ab50062ed710e53d3407c74b74a3"/>
+		<rom name="D_24.CJR" size="15187" crc="9fb7d27a" md5="82d08ff3010fa5fad6893dda674ef31d" sha1="11f0265455009a3b684bf02a1cf0027bfee76a71"/>
+	</game>
+	<game name="Crazy Mazey (19xx)(-)">
+		<description>Crazy Mazey (19xx)(-)</description>
+		<rom name="A_24.CJR" size="197" crc="0b191e77" md5="4659825e40ad984544d28f8378f299a4" sha1="16d1f5804b84a83184b1fb86afe71d3a78e0f95f"/>
+		<rom name="B_24.cjr" size="84" crc="6699d219" md5="b4e6b865eba15fb8cff91387375f22c3" sha1="f9e1adfb6c8c421979583eec0789962b81760fd8"/>
+		<rom name="C_24.CJR" size="4289" crc="640d7e0f" md5="230e736d6a2bfbf8e63eda8b492d36c6" sha1="c0121acfcfce6285ceb36fcf7e2d7bcb4ef6fa9b"/>
+		<rom name="CrazyMazy.TXT" size="390" crc="c3578912" md5="b31e6b1a68d200fad648b6fe0ece1dc9" sha1="2c69b6c155e8709bb4e5e0fad95a726d9e599106"/>
+		<rom name="D_24.cjr" size="9296" crc="8f5e3cc6" md5="a582ba671d27f6c82522c67abc4dae47" sha1="7e71d9e17e2204d2786225908c1038a1494ebd5b"/>
+	</game>
+	<game name="Demo Breaking Block (19xx)(-)">
+		<description>Demo Breaking Block (19xx)(-)</description>
+		<rom name="ALLDONE.TXT" size="54" crc="05a3bc40" md5="0b03c874c8ba66716c1c80df06911f40" sha1="00aa451f4e619ecebe9f482ee4ec78b58668cba7"/>
+		<rom name="C_24.CJR" size="2564" crc="fecc84f9" md5="b9ae14068dee103ebf1ae2e04c816ae9" sha1="55ce78b88f0d599f267c0c42376acc31c44ebebe"/>
+		<rom name="Demo.TXT" size="233" crc="6fa22aab" md5="b28f4b2e1b7d8414e4a5e8fad4bb14f5" sha1="289897b23cf4afa786169bf8d4754e9cf086f4c7"/>
+	</game>
+	<game name="Demo Calendar (19xx)(-)">
+		<description>Demo Calendar (19xx)(-)</description>
+		<rom name="ALLDONE.TXT" size="54" crc="05a3bc40" md5="0b03c874c8ba66716c1c80df06911f40" sha1="00aa451f4e619ecebe9f482ee4ec78b58668cba7"/>
+		<rom name="Demo.TXT" size="227" crc="4a486f1b" md5="f2d285d990c05e8b468c0c514fc5d92a" sha1="e3a96eaf9962f928c0fc12c9562424fa285d5a90"/>
+		<rom name="e_24.cjr" size="2508" crc="cf4c07c0" md5="ca205b53dfa48e6f58bbb931d7a7f50b" sha1="58b903d8ac55bc1d4a000688f7da16b2a067c8f7"/>
+	</game>
+	<game name="Demo Catching Stars (19xx)(-)">
+		<description>Demo Catching Stars (19xx)(-)</description>
+		<rom name="ALLDONE.TXT" size="54" crc="05a3bc40" md5="0b03c874c8ba66716c1c80df06911f40" sha1="00aa451f4e619ecebe9f482ee4ec78b58668cba7"/>
+		<rom name="D_24.CJR" size="2198" crc="2951e5fb" md5="0613f5cd88b33993b0cc51ff6b3b865f" sha1="7ba1c563ad4873e4827f418bfff9e4d30461523b"/>
+		<rom name="Demo.TXT" size="233" crc="d7d93c90" md5="7008e7772ac152f11f3170f3caa9366a" sha1="725e6ed8b44ea1ed1867aa9cc104a85c21ade0ef"/>
+	</game>
+	<game name="Demo Demo (19xx)(-)">
+		<description>Demo Demo (19xx)(-)</description>
+		<rom name="A_24.CJR" size="10734" crc="da1df1de" md5="2f70d76b128e7d54dedc62f2d591e05c" sha1="883a37edaae5a47eb44ed027088758b85cce2e12"/>
+		<rom name="ALLDONE.TXT" size="54" crc="05a3bc40" md5="0b03c874c8ba66716c1c80df06911f40" sha1="00aa451f4e619ecebe9f482ee4ec78b58668cba7"/>
+		<rom name="B_24.CJR" size="19764" crc="755765b4" md5="f37d45413eb7124c18a411192c8101e8" sha1="bd989770b45b4307d6b36e8d2ae72b2c62e6f07a"/>
+		<rom name="Demo.TXT" size="274" crc="520ff615" md5="337018c556b4eb215ef327678f732d26" sha1="a3f223c26ca800d1fadfbc4ec9e47e032c56b632"/>
+	</game>
+	<game name="Demon Dodge (19xx)(-)">
+		<description>Demon Dodge (19xx)(-)</description>
+		<rom name="A_24.CJR" size="4658" crc="1a3838d9" md5="df2e04ccd45116bbbfbbab5aa075dcff" sha1="ddb30dd11345f984c13021a8b636ca9520a69713"/>
+		<rom name="ALLDONE.TXT" size="81" crc="137f548c" md5="ba83f7ea0336c1b9765c1dc88e5b2b95" sha1="c9b660a21b229722b1198f144d0fcd0e34894c8a"/>
+		<rom name="B_24.cjr" size="10097" crc="0704bd38" md5="6e01d69af11ad94670c5fa3edb126806" sha1="77c769bfe0b03a4cc5591fec09d5a3a196d99c19"/>
+		<rom name="DemonDodge.TXT" size="251" crc="6eba7653" md5="0f6196084fec0d2e9821ba38f009fdf4" sha1="c993292ad34142eaffa1b42626dcfc22616a65fb"/>
+	</game>
+	<game name="Galactic Chase (19xx)(-)">
+		<description>Galactic Chase (19xx)(-)</description>
+		<rom name="A_24.CJR" size="1610" crc="759f6c38" md5="28f818c6685e3ba6b648e86100ec0a25" sha1="e94f7dd0322c88c441c1e2fde590f967ae4396ff"/>
+		<rom name="ALLDONE.TXT" size="23" crc="f2a612f4" md5="ff41a968b75f827b53013601219513af" sha1="03750a3fbce3386ebf1c769b2e503451dc830d5e"/>
+		<rom name="B_24.cjr" size="8431" crc="5c9e4409" md5="3d64a26d44997e985673cb544e619551" sha1="b6a4bac952864966f497ad71b5a8736d3f12ac89"/>
+		<rom name="GalChase.TXT" size="250" crc="7ea6dded" md5="ed06b1e0d17e5e127933cb0d4525afb1" sha1="084dabee384faf3eeef1bd9994c583ec8143d9e2"/>
+	</game>
+	<game name="Geography Explorer USA (19xx)(-)">
+		<description>Geography Explorer USA (19xx)(-)</description>
+		<rom name="A_24.CJR" size="13585" crc="0bbe3786" md5="746a5395281e94a7552aeb5fd6f3a813" sha1="4d9b02eaed8931880f24e3bf3154a9e32b5785a4"/>
+		<rom name="ALLDONE.txt" size="105" crc="0fd954a6" md5="f5381ea117b0b1ebb29d6c8d8be6eb02" sha1="1f0e50996f1219d36e9eb9aab838a6c974ac1058"/>
+		<rom name="B_24.CJR" size="13624" crc="1d940ddd" md5="5537587d2b95188836c13e411f999251" sha1="edb2e15120835e0afbb14293d3d04505c386f6b5"/>
+		<rom name="Geography.TXT" size="285" crc="fdf51004" md5="e80af901ed5814785bae52b121c5b122" sha1="7f0d6646c9e26f5772b1f0e1fb75f686e936bac7"/>
+	</game>
+	<game name="Joe Junkman (19xx)(-)">
+		<description>Joe Junkman (19xx)(-)</description>
+		<rom name="A_24.CJR" size="5406" crc="21508c2a" md5="2f0357559d3bf23c7afedcd9c7f9ea35" sha1="25e64d8448648b66ce2987c1fb4edea68ac0898a"/>
+		<rom name="ALLDONE.TXT" size="81" crc="f26ea1bc" md5="be506fc491b085f17fc62e9d00d9fef0" sha1="0419097a547740a274d32abd6520f473a54d6e2f"/>
+		<rom name="B_24.CJR" size="10655" crc="3f929918" md5="f66bf5d856e8e3a408d2d68b7f17f6c3" sha1="405cd4d1e9d2b93a1faba9e5ac2199d3c9c0d0b5"/>
+		<rom name="JunkmanJoe.TXT" size="251" crc="cb604321" md5="42b41e2b9d10d80fc6d672637b08630b" sha1="6190c02e309c6ef5c7d428641112e6a76c62942b"/>
+	</game>
+	<game name="Mars Cars (19xx)(-)">
+		<description>Mars Cars (19xx)(-)</description>
+		<rom name="A_24.CJR" size="197" crc="b8b7e2af" md5="0be407349fb335c4854ba05c23bb9374" sha1="00722e2348c5505c020360c0674d759416b7e0ae"/>
+		<rom name="B_24.CJR" size="84" crc="e4a0710f" md5="6a1b9e32c7ba56f82f49a90d4bcb6d21" sha1="01cb943433d2f53003f6fca123ac48de3f095a70"/>
+		<rom name="C_24.CJR" size="4543" crc="3a48ff36" md5="02c735f8c628e438abe94d897ade74d0" sha1="6dc7ed5afd88adaa5500d1620817da24d1a12e75"/>
+		<rom name="D_24.cjr" size="12737" crc="a0562d60" md5="88ba23c74f8986ed7af71e199fd545d1" sha1="698f70d7ed19246d0f0962108adeddc0199fc879"/>
+		<rom name="MarsCars.TXT" size="384" crc="22df7598" md5="c1046f4e90fbd77951705dd95656c875" sha1="1ec06807fedd04770653e9fed78e5a874084badf"/>
+	</game>
+	<game name="Mischievous Mansion (19xx)(-)">
+		<description>Mischievous Mansion (19xx)(-)</description>
+		<rom name="A_24.CJR" size="4658" crc="33aa8f56" md5="69b0103d2842d8e058ed2d21f99202e8" sha1="cb3cc34b2bb3b005d3668868a6130a796e593db1"/>
+		<rom name="ALLDONE.TXT" size="87" crc="42f8ee47" md5="1bc73a29dfc1232624f46ab3d55e135a" sha1="db5da1efb2bae0a3df41e85289886c240c1d9a9c"/>
+		<rom name="B_24.cjr" size="10017" crc="caa58568" md5="30f837b9e0bc5a8980336c9cd21a0df8" sha1="dfc63b56b10b27dee7804d6369d05a31ecd94a93"/>
+		<rom name="MisMansionN.TXT" size="261" crc="be718fe5" md5="70b0140430ea9789e1fe38d3f9482537" sha1="5f8d5771b8a6901783495530cd87b7edb03ac6aa"/>
+	</game>
+	<game name="Phaser Command (19xx)(-)">
+		<description>Phaser Command (19xx)(-)</description>
+		<rom name="A_24.CJR" size="281" crc="b2cfad5e" md5="de0a9e847fe60e9ffd885a0967f5d83e" sha1="45074eade4de9e9eadd8a4ca7d04ac7555c162b3"/>
+		<rom name="ALLDONE.TXT" size="42" crc="3371989a" md5="9fcfa262812da99012dc7f172d4ebe5d" sha1="d36d25ca07c110bc0bce501f3c08c2839a1fa58c"/>
+		<rom name="B_24.CJR" size="2855" crc="20aab682" md5="ddcf1a31b275e9fa1752d5a9edb037c0" sha1="8dc681d836b9bea1661da3e60c702771f5e8a563"/>
+		<rom name="C_24.CJR" size="81" crc="1a441e7e" md5="df47a10849b289b8f7fde246aa41fcaf" sha1="2bcbc4316600b2fb3e39ea1a268b0a1b413ad896"/>
+		<rom name="D_24.CJR" size="5250" crc="2ce440f6" md5="82ebc6adf4260cdf0be48eb3d4cd895a" sha1="f0f45516298cd8a5602c91898fc74f497c313232"/>
+		<rom name="PhaserCommand.TXT" size="427" crc="499a6282" md5="2a0124cca6b80e063cdacbf8915ef11e" sha1="d65a78e052d4a07f2ad18497c40f75710e56a178"/>
+	</game>
+	<game name="Pig Pen (19xx)(-)">
+		<description>Pig Pen (19xx)(-)</description>
+		<rom name="A_24.cjr" size="7396" crc="7ab17664" md5="67e9197329c20d068823cdd19e4eb336" sha1="fd8e6028a9a6604db310e86e9b0ec6869e1a6750"/>
+		<rom name="ALLDONE.TXT" size="109" crc="017703a1" md5="c5caa453475d21003484067454de0254" sha1="bfd46a7e52e43486cb75107c12e481cab8dfa751"/>
+		<rom name="B_24.cjr" size="8957" crc="9d27752f" md5="1ba362882a945347a0bea5c5270032d2" sha1="1999bb83840078005980186fc5754cb300223b13"/>
+		<rom name="Pigpen.TXT" size="239" crc="a47b1152" md5="3d72f955cad64dae41900372278ae54a" sha1="4a22171eff9374c48cf98dbcd4dea854ec8103f2"/>
+	</game>
+	<game name="Ramrom Patrol Klangon Capture (19xx)(-)">
+		<description>Ramrom Patrol Klangon Capture (19xx)(-)</description>
+		<rom name="A_24.CJR" size="282" crc="ab29877a" md5="7e92de228fe3fd0dba5ca496fba9ab4a" sha1="93e26bb249e036ca7b54bf3b7e181c111e2a0a38"/>
+		<rom name="B_24.CJR" size="2855" crc="20aab682" md5="ddcf1a31b275e9fa1752d5a9edb037c0" sha1="8dc681d836b9bea1661da3e60c702771f5e8a563"/>
+		<rom name="C_24.CJR" size="672" crc="a79dd8d1" md5="c30deaa0ec07b8e7f5beee3fc2001814" sha1="dfdd57a8a84848860caa64b2f3f8949725076f2a"/>
+		<rom name="E_24.CJR" size="1105" crc="5a7861f8" md5="2df21332a762299c89441ab9fcf5dbe6" sha1="eab2bf49415be14813fdfb6e91bf4121649f7f7e"/>
+		<rom name="F_24.CJR" size="12868" crc="fc95f52d" md5="953aa4f7cf54a358a02f9aaaab23be8c" sha1="ff17059b2ab5352a1486a3abf4c4625993cbba21"/>
+		<rom name="RamRom.TXT" size="473" crc="ee880ee3" md5="37318f765609d00ce6e4093a9b8fa919" sha1="55b08988ea71882cf0618a5e8c9d619c63aca758"/>
+	</game>
+	<game name="Ramrom Patrol Ramrom (19xx)(-)">
+		<description>Ramrom Patrol Ramrom (19xx)(-)</description>
+		<rom name="A_24.CJR" size="282" crc="ab29877a" md5="7e92de228fe3fd0dba5ca496fba9ab4a" sha1="93e26bb249e036ca7b54bf3b7e181c111e2a0a38"/>
+		<rom name="B_24.CJR" size="2855" crc="20aab682" md5="ddcf1a31b275e9fa1752d5a9edb037c0" sha1="8dc681d836b9bea1661da3e60c702771f5e8a563"/>
+		<rom name="C_24.CJR" size="672" crc="a79dd8d1" md5="c30deaa0ec07b8e7f5beee3fc2001814" sha1="dfdd57a8a84848860caa64b2f3f8949725076f2a"/>
+		<rom name="D_24.CJR" size="18268" crc="f467e792" md5="1b588c7c078749165bef2901126ba570" sha1="b24f506027c19da4dde2c2e220ed6f7742df635e"/>
+		<rom name="RamRom.TXT" size="400" crc="9dab9f13" md5="e188957da458bf992c442b755a36a5d9" sha1="ef9db593ca011f064ee41413cf10ac9784f34c0b"/>
+	</game>
+	<game name="Ramrom Patrol Tie Fighter (19xx)(-)">
+		<description>Ramrom Patrol Tie Fighter (19xx)(-)</description>
+		<rom name="A_24.CJR" size="282" crc="ab29877a" md5="7e92de228fe3fd0dba5ca496fba9ab4a" sha1="93e26bb249e036ca7b54bf3b7e181c111e2a0a38"/>
+		<rom name="B_24.CJR" size="2855" crc="20aab682" md5="ddcf1a31b275e9fa1752d5a9edb037c0" sha1="8dc681d836b9bea1661da3e60c702771f5e8a563"/>
+		<rom name="C_24.CJR" size="672" crc="a79dd8d1" md5="c30deaa0ec07b8e7f5beee3fc2001814" sha1="dfdd57a8a84848860caa64b2f3f8949725076f2a"/>
+		<rom name="E_24.CJR" size="1105" crc="5a7861f8" md5="2df21332a762299c89441ab9fcf5dbe6" sha1="eab2bf49415be14813fdfb6e91bf4121649f7f7e"/>
+		<rom name="F_24.CJR" size="12868" crc="fc95f52d" md5="953aa4f7cf54a358a02f9aaaab23be8c" sha1="ff17059b2ab5352a1486a3abf4c4625993cbba21"/>
+		<rom name="RamRom.TXT" size="473" crc="95968c00" md5="7268e65d9d47ddce89535fcfa0d0cd12" sha1="d0cd8ef004a7722b56caa587f01b8f653d6f4f2e"/>
+	</game>
+	<game name="Santa Paravia and Fiumaccio, Regular (19xx)(-)">
+		<description>Santa Paravia and Fiumaccio, Regular (19xx)(-)</description>
+		<rom name="A_24.CJR" size="254" crc="64407c78" md5="d3a78137ad70966f34cd9675517efeb4" sha1="c0553dfb0fa5105b96c6fcb1251c3756a23a4c11"/>
+		<rom name="ALLDONE.TXT" size="89" crc="7a7a4384" md5="140e02285cc0de0d77b2c88034a030f6" sha1="9304f8bec357fd1d262e438b4966b2bbc7e43878"/>
+		<rom name="B_24.CJR" size="2143" crc="2ab97320" md5="cb91b422c6ba2dbde938b10a5f0ef454" sha1="c6a9085d4bb0b382b273417a5f8124f0f749bb07"/>
+		<rom name="C_24.CJR" size="17905" crc="77b4c8ed" md5="82a99753426ed5ff827049dab1084c27" sha1="d3e5290fa81e8f9095f0e165aadb20afd8eb2f79"/>
+		<rom name="paravBlue.TXT" size="353" crc="4970a863" md5="25075c87d4a59bbd0f57c2d0be839f2e" sha1="7450322cfbf476aa3a6eca8f899f5e41bbcd50bd"/>
+	</game>
+	<game name="Santa Paravia and Fiumaccio, Tournament (19xx)(-)">
+		<description>Santa Paravia and Fiumaccio, Tournament (19xx)(-)</description>
+		<rom name="ALLDONE.TXT" size="89" crc="7a7a4384" md5="140e02285cc0de0d77b2c88034a030f6" sha1="9304f8bec357fd1d262e438b4966b2bbc7e43878"/>
+		<rom name="D_24.CJR" size="259" crc="8dcd64de" md5="8c6c379517083228cbf1348ddbcfc68a" sha1="084c9eeabd34af0ed13707d1ebd30a42e111bb4b"/>
+		<rom name="E_24.CJR" size="2143" crc="1ebca793" md5="62d9c2fdad4104f171b11ec415377b94" sha1="6cc2a245bfecd27c8a3a5de2a787f3403dcec209"/>
+		<rom name="F_24.CJR" size="16925" crc="724ebd1e" md5="4c835c559e26db0224380e00f0750b2f" sha1="1465315827ddd561515d269e1fa53493b6d876e2"/>
+		<rom name="paravBlue.TXT" size="356" crc="905f465d" md5="2e6b8cb90d56b2a54152a3ec5745178d" sha1="45d73ce4c107836ce23e54c218ea2e4aab6eb864"/>
+	</game>
+	<game name="Solitaire (19xx)(-)">
+		<description>Solitaire (19xx)(-)</description>
+		<rom name="A_24.CJR" size="222" crc="820ce39e" md5="e48aae1e1ae882597cfb2cae1fe260db" sha1="5ee1e1a8859ff23c159fa8e5430efdb66e4d2038"/>
+		<rom name="B_24.CJR" size="5611" crc="2b6f443d" md5="ccc26fcfbabc203622b7898ef16bd381" sha1="9d23748f774e5185b9d1bc96e151cb8288fa09df"/>
+		<rom name="C_24.CJR" size="11398" crc="95fb56f6" md5="0ae7955f78b010a941858e7f00b36338" sha1="6f5f4102684be934e4e7d524189406f66eebf29b"/>
+		<rom name="Solitaire.TXT" size="333" crc="78614b17" md5="1cb91a81f5a8c00b7cb06fd74b98aad3" sha1="f6468359f6e8751dd8e09e7da281d3168b94ae13"/>
+	</game>
+	<game name="Trapit (19xx)(-)">
+		<description>Trapit (19xx)(-)</description>
+		<rom name="A_24.CJR" size="5025" crc="73325c46" md5="a79da4e6ade658314a028688bd5101c6" sha1="03825f037617b64e2f55e7041a7f98780de8ae69"/>
+		<rom name="ALLDONE.TXT" size="266" crc="2e1466f1" md5="92794bd77e53245588cf184f647c6fe6" sha1="cc68b5d5e11f2b025828f3afa172079895549e77"/>
+		<rom name="B_24.cjr" size="8957" crc="424b2692" md5="6f1faabef82336605c2a0365fe4afce4" sha1="7057bca5a4bf54b313b4f770e5f93b594776a31a"/>
+		<rom name="Trapit.TXT" size="240" crc="8ef70f1f" md5="c99ba694eba1dedf357c8577d65e1f32" sha1="87790686f796994ecd8c9f68e18efd0948adf191"/>
+	</game>
+	<game name="Typing Teacher (19xx)(-)">
+		<description>Typing Teacher (19xx)(-)</description>
+		<rom name="A_24.cjr" size="16286" crc="8cafff29" md5="c944b479c0a0778c635d08c53a43683d" sha1="72723f15df5a5766567ad4942564f2c5c5c2df59"/>
+		<rom name="ALLDONE.txt" size="72" crc="6bf98b83" md5="21a706032d7a4c0b4044dd7b3c238c20" sha1="7703464b1481d9eb47e756922ce807dff17e8a63"/>
+		<rom name="Typing.TXT" size="218" crc="001a15cf" md5="59154de2a7bec6fedd95e40b3e47672c" sha1="3b3b3d85525d1e7602f8aae431876d01638494c9"/>
+	</game>
+	<game name="Vortex (19xx)(-)">
+		<description>Vortex (19xx)(-)</description>
+		<rom name="A_24.CJR" size="197" crc="020e562f" md5="af385afcddfd840447a389036f0d65fd" sha1="4ecaa807d88034fc8053d02ee64494b14fc4b563"/>
+		<rom name="ALLDONE.txt" size="39" crc="913db85a" md5="1df63ba78609180650104e58fc43081c" sha1="4aee75139f7ea545c025308e56790ed056e4692d"/>
+		<rom name="B_24.CJR" size="84" crc="eeb41ddd" md5="6171c7a6fb9223e3e23de16fdb949c8f" sha1="69a244b8bbc240609f41e35e6428e78ad4b84187"/>
+		<rom name="C_24.cjr" size="5256" crc="4386c4f7" md5="504009639cac7743c5be0de4c312aac6" sha1="3ac88b89583c7fd8c75aba5eb9648d10240810c9"/>
+		<rom name="D_24.CJR" size="5755" crc="5c22dbcd" md5="95432b7a97f54443b44dade8cfea27db" sha1="a504eca4d50e57f9ad29efc0090d3ad473f3cfd8"/>
+		<rom name="Vortex.TXT" size="373" crc="93d0d992" md5="33f9496fbb87486cb54306294cc508b1" sha1="c6ac1b932ab5558b1f24cd2bef93eb126939d6bf"/>
+	</game>
+	<game name="Wordwatch Hide N Spell (19xx)(-)">
+		<description>Wordwatch Hide N Spell (19xx)(-)</description>
+		<rom name="A_24.CJR" size="893" crc="28edd956" md5="db1558223ae3fcf0fd4391a7baeb74aa" sha1="50c1736cdb545814f4676c69b896f25f345f85e5"/>
+		<rom name="ALLDONE.TXT" size="76" crc="ed4afe59" md5="928474ceccf93eabaff15301dc4a840d" sha1="555389fbc32f78859d0a7364212f07dfdf92fe07"/>
+		<rom name="C_24.CJR" size="22974" crc="caa16223" md5="4107c2faaedecdef8434bd41d31e9b39" sha1="95a4a9bcb1234c1e45e7934ed30019565ca8dae7"/>
+		<rom name="Wordwatch.TXT" size="320" crc="df785033" md5="2d7f451727c85c0e5952680370cfa617" sha1="046f8a54202e60fcbcc648275368c2d50c62b252"/>
+	</game>
+	<game name="Wordwatch Spelling Bee (19xx)(-)">
+		<description>Wordwatch Spelling Bee (19xx)(-)</description>
+		<rom name="A_24.CJR" size="893" crc="28edd956" md5="db1558223ae3fcf0fd4391a7baeb74aa" sha1="50c1736cdb545814f4676c69b896f25f345f85e5"/>
+		<rom name="ALLDONE.TXT" size="76" crc="ed4afe59" md5="928474ceccf93eabaff15301dc4a840d" sha1="555389fbc32f78859d0a7364212f07dfdf92fe07"/>
+		<rom name="D_24.CJR" size="13580" crc="6a0d450b" md5="c3064348ef4d43ab9896b20ca9aa1432" sha1="ad8cfd0b40d270a045478a0a1169362d32c97cfd"/>
+		<rom name="Wordwatch.TXT" size="318" crc="52dff6eb" md5="c10f2581686e8f1d0654e4afb01ad515" sha1="22f90c69b01a1eb741abe44a966b8fa63e9c5941"/>
+	</game>
+	<game name="Wordwatch Spelling Tutor (19xx)(-)">
+		<description>Wordwatch Spelling Tutor (19xx)(-)</description>
+		<rom name="A_24.CJR" size="893" crc="28edd956" md5="db1558223ae3fcf0fd4391a7baeb74aa" sha1="50c1736cdb545814f4676c69b896f25f345f85e5"/>
+		<rom name="ALLDONE.TXT" size="76" crc="ed4afe59" md5="928474ceccf93eabaff15301dc4a840d" sha1="555389fbc32f78859d0a7364212f07dfdf92fe07"/>
+		<rom name="E_24.CJR" size="5649" crc="e1237ac8" md5="383dff5ca22e0cb6841306b40b81dedd" sha1="e764fbd66754c05f444c8bdf88ae6959d1e69cb7"/>
+		<rom name="Wordwatch.TXT" size="320" crc="f8e3f23d" md5="b9a4f81424ed197397dfa97e66a9a71f" sha1="83afa3f4ab7ef2b200ccab269f5175ac4881e018"/>
+	</game>
+	<game name="Wordwatch Word Race (19xx)(-)">
+		<description>Wordwatch Word Race (19xx)(-)</description>
+		<rom name="A_24.CJR" size="893" crc="28edd956" md5="db1558223ae3fcf0fd4391a7baeb74aa" sha1="50c1736cdb545814f4676c69b896f25f345f85e5"/>
+		<rom name="ALLDONE.TXT" size="76" crc="ed4afe59" md5="928474ceccf93eabaff15301dc4a840d" sha1="555389fbc32f78859d0a7364212f07dfdf92fe07"/>
+		<rom name="B_24.CJR" size="10925" crc="e29c5032" md5="166ba3598eb0f21e811645e644828646" sha1="db542b6d5526466cd5758c69e2bc7a94d670290e"/>
+		<rom name="Wordwatch.TXT" size="315" crc="eed69440" md5="7320166414fa94ade22fe3557e8bcff6" sha1="53374059162ec592b8e54c45c3d8014ac8d187eb"/>
+	</game>
+</datafile>

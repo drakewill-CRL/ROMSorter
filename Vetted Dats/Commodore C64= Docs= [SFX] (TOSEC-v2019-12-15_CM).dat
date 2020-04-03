@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Docs - [SFX]</name>
+		<description>Commodore C64 - Docs - [SFX] (TOSEC-v2019-12-15)</description>
+		<category>TOSEC</category>
+		<version>2019-12-15</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Assembly &apos;95 Results (1995-08)(Various)">
+		<description>Assembly &apos;95 Results (1995-08)(Various)</description>
+		<rom name="Assembly &apos;95 Results (1995-08)(Various).sfx" size="10009" crc="70f1a539" md5="1617e22bda15dc83d613e6cb5dc8c33e" sha1="4925f17fb62f500e121542abeb17b4cefcfb508e"/>
+	</game>
+	<game name="Final Cartridge III (1994)(Riska)">
+		<description>Final Cartridge III (1994)(Riska)</description>
+		<rom name="Final Cartridge III (1994)(Riska).sfx" size="37144" crc="57f35b9f" md5="abd7b90f7a3a95de247ae2dae036ec80" sha1="595ae0bf2433bbfcf585baa25a2761fa9b16d4ff"/>
+	</game>
+</datafile>

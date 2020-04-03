@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>DEC PDP-8 - Collections - DEC - [BIN]</name>
+		<description>DEC PDP-8 - Collections - DEC - [BIN] (TOSEC-v2014-01-14)</description>
+		<category>TOSEC</category>
+		<version>2014-01-14</version>
+		<author>TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="DEC-08-A2C7-PB (1969-10-30)(Software Services Group)(US)[8k-32 Linking Loader]">
+		<description>DEC-08-A2C7-PB (1969-10-30)(Software Services Group)(US)[8k-32 Linking Loader]</description>
+		<rom name="DEC-08-A2C7-PB (1969-10-30)(Software Services Group)(US)[8k-32 Linking Loader].bin" size="6316" crc="5230d3f2" md5="716e24f5fde61054e87922c2f53963e9" sha1="ba80f85843a000716139b8f8f65abd80ba7857ec"/>
+	</game>
+	<game name="DEC-08-AFA2-PB (1965-08-08)(Software Services Group)(US)[Fortran Symbol Print]">
+		<description>DEC-08-AFA2-PB (1965-08-08)(Software Services Group)(US)[Fortran Symbol Print]</description>
+		<rom name="DEC-08-AFA2-PB (1965-08-08)(Software Services Group)(US)[Fortran Symbol Print].bin" size="739" crc="7cb62fcb" md5="d2b6eb4ec14eb6b3b2f600a343789c0d" sha1="4004c4b36fba11d0bd875e22becb02a21388b0e6"/>
+	</game>
+	<game name="DEC-08-AFC1-PB (1967-09-13)(Software Services Group)(US)[Fortran Compiler]">
+		<description>DEC-08-AFC1-PB (1967-09-13)(Software Services Group)(US)[Fortran Compiler]</description>
+		<rom name="DEC-08-AFC1-PB (1967-09-13)(Software Services Group)(US)[Fortran Compiler].bin" size="6781" crc="7421ff3e" md5="0bc63e4b1e4acec553a722343d3913a6" sha1="49352a45aa18f98767b71a611f91596fb9775a23"/>
+	</game>
+	<game name="DEC-08-AJ1E-PB (1969-07-09)(Software Services Group)(US)[Utility Overlays for Focal 69]">
+		<description>DEC-08-AJ1E-PB (1969-07-09)(Software Services Group)(US)[Utility Overlays for Focal 69]</description>
+		<rom name="DEC-08-AJ1E-PB (1969-07-09)(Software Services Group)(US)[Utility Overlays for Focal 69].bin" size="1040" crc="2c22e66f" md5="10d5e528b5e0adc6bafe6883135670c7" sha1="b6d7b8537d8e421709cd18d0c96f6988e2479184"/>
+	</game>
+	<game name="DEC-08-CDDB-PB (1969-08-14)(Software Services Group)(US)[a][DDT-8]">
+		<description>DEC-08-CDDB-PB (1969-08-14)(Software Services Group)(US)[a][DDT-8]</description>
+		<rom name="DEC-08-CDDB-PB (1969-08-14)(Software Services Group)(US)[a][DDT-8].bin" size="3135" crc="525982d4" md5="e42b95007efdbcfb4c22477154ab8b9f" sha1="09d7204cb01aa4caaf599090673feb79ebb82c69"/>
+	</game>
+	<game name="DEC-08-CDDB-PB (1969-08-14)(Software Services Group)(US)[DDT-8]">
+		<description>DEC-08-CDDB-PB (1969-08-14)(Software Services Group)(US)[DDT-8]</description>
+		<rom name="DEC-08-CDDB-PB (1969-08-14)(Software Services Group)(US)[DDT-8].bin" size="3303" crc="41f02cc6" md5="7f3cf914ff8493f18ff1edd734d6fcbf" sha1="1688e9fa024878a335ad3d69d8b19334cddbdcbb"/>
+	</game>
+	<game name="DEC-08-CMA1-PB (1966-02-03)(Software Services Group)(US)[Macro-8, Low Speed]">
+		<description>DEC-08-CMA1-PB (1966-02-03)(Software Services Group)(US)[Macro-8, Low Speed]</description>
+		<rom name="DEC-08-CMA1-PB (1966-02-03)(Software Services Group)(US)[Macro-8, Low Speed].bin" size="6729" crc="d4cf69fb" md5="96e14ca3b22c14b76bbb9d3b02dae23a" sha1="8965276126a91d5fd0b5edbed44f1b61a19877c5"/>
+	</game>
+	<game name="DEC-08-COC1-PB (1967-11-10)(Software Services Group)(US)[ODT, Low]">
+		<description>DEC-08-COC1-PB (1967-11-10)(Software Services Group)(US)[ODT, Low]</description>
+		<rom name="DEC-08-COC1-PB (1967-11-10)(Software Services Group)(US)[ODT, Low].bin" size="1257" crc="c63e926f" md5="be20b49be9a2e5b3ef80c0d7b6c2a56d" sha1="95cb16d2d8bb77de3cea6b078b27e717e0f64212"/>
+	</game>
+	<game name="DEC-08-COC2-PB (1967-11-10)(Software Services Group)(US)[ODT, High]">
+		<description>DEC-08-COC2-PB (1967-11-10)(Software Services Group)(US)[ODT, High]</description>
+		<rom name="DEC-08-COC2-PB (1967-11-10)(Software Services Group)(US)[ODT, High].bin" size="1257" crc="6272d176" md5="8f5cab658c10a7a0a83129e2716fb43d" sha1="4c8c1dd34e267fbced10d0d2a822ef91892be5e3"/>
+	</game>
+	<game name="DEC-08-EJAC-PB (19xx)(Software Services Group)(US)[Symbolic Editor SA-200]">
+		<description>DEC-08-EJAC-PB (19xx)(Software Services Group)(US)[Symbolic Editor SA-200]</description>
+		<rom name="DEC-08-EJAC-PB (19xx)(Software Services Group)(US)[Symbolic Editor SA-200].bin" size="2269" crc="ae0d6830" md5="599e0fd3c530e48b55e7e24dfb09f7d1" sha1="1cdf9c8d84a310293fbcbed469a95bd9ca2c7e8e"/>
+	</game>
+	<game name="DEC-08-ESAB-PB (1967-08-04)(Software Services Group)(US)[PDP-8 Editor]">
+		<description>DEC-08-ESAB-PB (1967-08-04)(Software Services Group)(US)[PDP-8 Editor]</description>
+		<rom name="DEC-08-ESAB-PB (1967-08-04)(Software Services Group)(US)[PDP-8 Editor].bin" size="2141" crc="c99df502" md5="b853796a556d3b464e01f5b80ac6a29d" sha1="a0d15cc4d115eb2d18f1f647ee771e7f138e0e32"/>
+	</game>
+	<game name="DEC-08-ESAC-PB (1970-02-04)(Software Services Group)(US)[Symbolic Editor]">
+		<description>DEC-08-ESAC-PB (1970-02-04)(Software Services Group)(US)[Symbolic Editor]</description>
+		<rom name="DEC-08-ESAC-PB (1970-02-04)(Software Services Group)(US)[Symbolic Editor].bin" size="2317" crc="8931d928" md5="cbf0507aa3c0dde9c62995796884c40a" sha1="cd8674e1a9c189fd2a36d460feaa01b018aec5cf"/>
+	</game>
+	<game name="DEC-08-LBAA-PM (1967-05-10)(Software Services Group)(US)[Binary Loader]">
+		<description>DEC-08-LBAA-PM (1967-05-10)(Software Services Group)(US)[Binary Loader]</description>
+		<rom name="DEC-08-LBAA-PM (1967-05-10)(Software Services Group)(US)[Binary Loader].bin" size="771" crc="385fe618" md5="bd47b1a69c1f2d9f8fe327cbdd1eaf20" sha1="05f6ba966466169fd1d777c0aac460f0d7d4cfa0"/>
+	</game>
+	<game name="DEC-08-YQ1A-PB (1965-04-18)(Software Services Group)(US)[Floating Point Package 1]">
+		<description>DEC-08-YQ1A-PB (1965-04-18)(Software Services Group)(US)[Floating Point Package 1]</description>
+		<rom name="DEC-08-YQ1A-PB (1965-04-18)(Software Services Group)(US)[Floating Point Package 1].bin" size="2573" crc="5f6bc8c3" md5="66371b72389914b12960813470ff0565" sha1="e81714a943a0118c9c7863ec64c2352783438694"/>
+	</game>
+	<game name="DEC-08-YQ2A-PB (1965-04-18)(Software Services Group)(US)[Floating Point Package 2]">
+		<description>DEC-08-YQ2A-PB (1965-04-18)(Software Services Group)(US)[Floating Point Package 2]</description>
+		<rom name="DEC-08-YQ2A-PB (1965-04-18)(Software Services Group)(US)[Floating Point Package 2].bin" size="2831" crc="d4edf478" md5="5fd7d66019ea0ceab81157e0cb469ab0" sha1="94dfad4e8f8135daaa7e5af1e138f4b8eb47d95b"/>
+	</game>
+	<game name="DEC-08-YQ3A-PB (1965-04-18)(Software Services Group)(US)[Floating Point Package 3]">
+		<description>DEC-08-YQ3A-PB (1965-04-18)(Software Services Group)(US)[Floating Point Package 3]</description>
+		<rom name="DEC-08-YQ3A-PB (1965-04-18)(Software Services Group)(US)[Floating Point Package 3].bin" size="3375" crc="ef9a39c5" md5="9f01eb8cdce5a55993b16b58d1985855" sha1="790363fd5ba67642a88b1cd771ccb2cf5ee0dd9f"/>
+	</game>
+	<game name="DEC-08-YQ4A-PB (1965-04-18)(Software Services Group)(US)[Floating Point Package 4]">
+		<description>DEC-08-YQ4A-PB (1965-04-18)(Software Services Group)(US)[Floating Point Package 4]</description>
+		<rom name="DEC-08-YQ4A-PB (1965-04-18)(Software Services Group)(US)[Floating Point Package 4].bin" size="3633" crc="f0554dfe" md5="243d9b593bd8a06ed421a0e86fa322f5" sha1="2bd43b9cd79b47f17f10595395d7ed8d067d22b4"/>
+	</game>
+	<game name="DEC-D8-PDAD-PB (1969-12-30)(Software Services Group)(US)[Disk System PIP-DF32]">
+		<description>DEC-D8-PDAD-PB (1969-12-30)(Software Services Group)(US)[Disk System PIP-DF32]</description>
+		<rom name="DEC-D8-PDAD-PB (1969-12-30)(Software Services Group)(US)[Disk System PIP-DF32].bin" size="5620" crc="f9ee070c" md5="440e4a6c04811d779dec35cfc8e7b267" sha1="e19b36596fff0a0d30aa8a1d000b774ed793abfe"/>
+	</game>
+</datafile>

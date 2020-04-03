@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>NEC PC-Engine &amp; TurboGrafx-16 - Demos</name>
+		<description>NEC PC-Engine &amp; TurboGrafx-16 - Demos (TOSEC-v2011-08-13)</description>
+		<category>TOSEC</category>
+		<version>2011-08-13</version>
+		<author>Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="After Burner II Audio Demo (19xx)(-)">
+		<description>After Burner II Audio Demo (19xx)(-)</description>
+		<rom name="After Burner II Audio Demo (19xx)(-).bin" size="49152" crc="0ff7a903" md5="aa4df7a6167f0e92a7934b829b2d32f1" sha1="d2c0810daa69af25102ae4f3eb7ca35537ec0a8c"/>
+	</game>
+</datafile>

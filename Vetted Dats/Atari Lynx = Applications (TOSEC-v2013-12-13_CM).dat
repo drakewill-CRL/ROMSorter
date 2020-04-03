@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Atari Lynx - Applications</name>
+		<description>Atari Lynx - Applications (TOSEC-v2013-12-13)</description>
+		<category>TOSEC</category>
+		<version>2013-12-13</version>
+		<author>Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Atari Lynx II Production Test v0.02 (1989)(Atari)">
+		<description>Atari Lynx II Production Test v0.02 (1989)(Atari)</description>
+		<rom name="Atari Lynx II Production Test v0.02 (1989)(Atari).lnx" size="262208" crc="e1d69a7e" md5="e62f265035dd47284f069035f9452333" sha1="a00d64bc87ec0cace78e83c55ed2dd4b02649f3d"/>
+	</game>
+	<game name="Atari Lynx II Production Test v0.02 (1989)(Atari)[a]">
+		<description>Atari Lynx II Production Test v0.02 (1989)(Atari)[a]</description>
+		<rom name="Atari Lynx II Production Test v0.02 (1989)(Atari)[a].lnx" size="262208" crc="2fb445c9" md5="f71898733bbdaf152bf82de04fa8a072" sha1="034367a5615d8c1d619a83c5a0f65f277c670ec6"/>
+	</game>
+	<game name="BRK Server Installer (1996)(Schick, Bastian)(PD)">
+		<description>BRK Server Installer (1996)(Schick, Bastian)(PD)</description>
+		<rom name="BRK Server Installer (1996)(Schick, Bastian)(PD).lnx" size="511" crc="fd415f22" md5="9f92d80585dfe4f2c4b943c9c695b832" sha1="767b2ed5963d350b93f51b198d47b1d38d7935d6"/>
+	</game>
+	<game name="Chip-8 Emulator v0.1 (2004)(-)(PD)">
+		<description>Chip-8 Emulator v0.1 (2004)(-)(PD)</description>
+		<rom name="Chip-8 Emulator v0.1 (2004)(-)(PD).lnx" size="11949" crc="d49ce27a" md5="f1e803c97778a18e2c4ff6be6bd92a28" sha1="680753391c52a2c2ff97c0536ac715d5704b4190"/>
+	</game>
+	<game name="Chip-8 Emulator v0.2 (2004)(-)(PD)">
+		<description>Chip-8 Emulator v0.2 (2004)(-)(PD)</description>
+		<rom name="Chip-8 Emulator v0.2 (2004)(-)(PD).lnx" size="11949" crc="4becc50c" md5="3c2538149da3cd1bbe2b45d001a7b813" sha1="47fa17a6f0e6269c84264f1bed3101e21e293520"/>
+	</game>
+	<game name="Chip-8 Emulator v0.3 (2004)(-)(PD)">
+		<description>Chip-8 Emulator v0.3 (2004)(-)(PD)</description>
+		<rom name="Chip-8 Emulator v0.3 (2004)(-)(PD).lnx" size="15485" crc="171cb01e" md5="53fb2b314e9eba49b8df651848719c3e" sha1="c4b4ce6bb1899cce4c2dbb4961bf8afbaced6e8c"/>
+	</game>
+	<game name="Chip-8 Emulator v0.4 (2004)(-)(PD)">
+		<description>Chip-8 Emulator v0.4 (2004)(-)(PD)</description>
+		<rom name="Chip-8 Emulator v0.4 (2004)(-)(PD).lnx" size="19665" crc="ff35e5ae" md5="393ab481b650836b5804953d9879736e" sha1="149a0045ccf2fb1ba0f994a35c65bba08397b5a3"/>
+	</game>
+	<game name="Chip-8 Emulator v0.5 (2004)(-)(PD)">
+		<description>Chip-8 Emulator v0.5 (2004)(-)(PD)</description>
+		<rom name="Chip-8 Emulator v0.5 (2004)(-)(PD).lnx" size="22720" crc="7955b897" md5="ffb38f92bf65e236aef6f84b56e859d4" sha1="99e1b11bbc8c995c51bb632a4b82dde2871b739b"/>
+	</game>
+	<game name="Chip-8 Emulator v0.6 (2004)(-)(PD)">
+		<description>Chip-8 Emulator v0.6 (2004)(-)(PD)</description>
+		<rom name="Chip-8 Emulator v0.6 (2004)(-)(PD).lnx" size="23511" crc="ed70fbcc" md5="3d4c70cba51a5c1f0e2fc3c1acb4be50" sha1="27e4cf003e98bc8a66c3627976b18e33fa820b12"/>
+	</game>
+</datafile>

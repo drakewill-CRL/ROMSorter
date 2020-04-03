@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sharp MZ-800 &amp; MZ-1500 - Applications</name>
+		<description>Sharp MZ-800 &amp; MZ-1500 - Applications (TOSEC-v2014-05-13)</description>
+		<category>TOSEC</category>
+		<version>2014-05-13</version>
+		<author>Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Adress Data (19xx)(BBG Software)">
+		<description>Adress Data (19xx)(BBG Software)</description>
+		<rom name="Adress Data (19xx)(BBG Software).mzf" size="4907" crc="0c6693c7" md5="d27a22a9fbbe63d5b9c42c9edf2e0795" sha1="ff107695629a2e21ba75339062508a80273ecd67"/>
+	</game>
+</datafile>

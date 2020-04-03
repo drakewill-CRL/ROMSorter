@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>IBM 1620 - Games</name>
+		<description>IBM 1620 - Games (TOSEC-v2017-04-05)</description>
+		<category>TOSEC</category>
+		<version>2017-04-05</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<url>http://www.tosecdev.org</url>
+		<clrmamepro/>
+	</header>
+	<game name="3D Tictactoe (1962)(Louden, Bob)">
+		<description>3D Tictactoe (1962)(Louden, Bob)</description>
+		<rom name="3D Tictactoe (1962)(Louden, Bob).crd" size="106720" crc="5c15b2c9" md5="5dcbd840e5a0e8485559f3275ed23e0d" sha1="b4d10c928ada46203f8640152b21407d753d0f6a"/>
+	</game>
+	<game name="3D Tictactoe Rev. 2 (1962)(Louden, Bob)">
+		<description>3D Tictactoe Rev. 2 (1962)(Louden, Bob)</description>
+		<rom name="3D Tictactoe Rev. 2 (1962)(Louden, Bob).crd" size="28480" crc="26a73930" md5="aba560078a6ee83dee2a83186b71866c" sha1="978140c330cd7277d1e9833fc810d8aa8f5141a1"/>
+	</game>
+	<game name="3D Tictactoe Rev. 3 (1962)(Louden, Bob)">
+		<description>3D Tictactoe Rev. 3 (1962)(Louden, Bob)</description>
+		<rom name="3D Tictactoe Rev. 3 (1962)(Louden, Bob).crd" size="22400" crc="3a9c9261" md5="5b9980981376326339ef385c43ea0541" sha1="5dd8586ee462b9f4c855dd05f9087f02e7035f8c"/>
+	</game>
+	<game name="Singing Computer, The (19xx)(Davis, Ron)">
+		<description>Singing Computer, The (19xx)(Davis, Ron)</description>
+		<rom name="Singing Computer, The (19xx)(Davis, Ron).crd" size="65600" crc="6c78a2a6" md5="88410adbaf18a76e8d9d2efd86cb74b2" sha1="9697fef8c12e3233f5932c4235deb012f08d1a39"/>
+	</game>
+</datafile>

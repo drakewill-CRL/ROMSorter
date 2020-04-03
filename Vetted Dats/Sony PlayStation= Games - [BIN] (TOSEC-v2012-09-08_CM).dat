@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation - Games - [BIN]</name>
+		<description>Sony PlayStation - Games - [BIN] (TOSEC-v2012-09-08)</description>
+		<category>TOSEC-ISO</category>
+		<version>2012-09-08</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Deuce (2000)(Midway)(proto)">
+		<description>Deuce (2000)(Midway)(proto)</description>
+		<rom name="Deuce (2000)(Midway)(proto).bin" size="28336896" crc="db149c5e" md5="36a4101bf970d490bb548dba7e2f977f" sha1="e25c80c45e9443476fb4425c7753c96ac4737793"/>
+		<rom name="Deuce (2000)(Midway)(proto).cue" size="90" crc="6e2c10af" md5="f6ef7bb9bc32cb6bf5abb1270b5a4083" sha1="4e9b77085657fe763199813257dee6ec4cfe425d"/>
+	</game>
+	<game name="Rockman X6 (2001-09-28)(Capcom)(JP)(beta)">
+		<description>Rockman X6 (2001-09-28)(Capcom)(JP)(beta)</description>
+		<rom name="Rockman X6 (2001-09-28)(Capcom)(JP)(beta).bin" size="396577776" crc="b1442c95" md5="b65b13e3a1583b479ead3cb956468f14" sha1="51ec61dbb32c8144a48649309e9464a44672d654"/>
+		<rom name="Rockman X6 (2001-09-28)(Capcom)(JP)(beta).cue" size="107" crc="d7636a3b" md5="fadec1a8e061f31f17ec2c0c991cc4c5" sha1="6bbdcd4307afd7661d67fa60198799b8240a0cf1"/>
+	</game>
+	<game name="Silent Hill (1999-01-22)(Capcom)(US)(beta)">
+		<description>Silent Hill (1999-01-22)(Capcom)(US)(beta)</description>
+		<rom name="Silent Hill (1999-01-22)(Capcom)(US)(beta).bin" size="616518000" crc="8326dd8f" md5="a8455226efc982cbbe9452dddda62726" sha1="97c7d476c9e821b3d932139a0644c0c7593e1955"/>
+		<rom name="Silent Hill (1999-01-22)(Capcom)(US)(beta).cue" size="112" crc="c0e08916" md5="31810f9fb267002a0a1f99917ab05ccf" sha1="4b87f2e27e4942d3bd0b14fd029dab1d067f58aa"/>
+	</game>
+	<game name="Spirit Master (1997)(Acclaim)(proto)">
+		<description>Spirit Master (1997)(Acclaim)(proto)</description>
+		<rom name="Spirit Master (1997)(Acclaim)(proto).bin" size="13547520" crc="7bdf8ac0" md5="05863daa57346b27b83a078a548e1569" sha1="cfd1d39a2fe96cba10573500950c1c48c37e3cef"/>
+		<rom name="Spirit Master (1997)(Acclaim)(proto).cue" size="102" crc="ab7e0b41" md5="272bce202b15fc4fc0168233a7653d48" sha1="1b9ef702691b7e07258d0e09448babbcee06015b"/>
+	</game>
+	<game name="StarCon (1998)(Accolade)(proto)">
+		<description>StarCon (1998)(Accolade)(proto)</description>
+		<rom name="StarCon (1998)(Accolade)(proto).bin" size="138532800" crc="78ccec24" md5="f78f22b24d134ec3f697becb5e24f789" sha1="d9a8b5b968b5fda1d1bd59915872705f2d124dbc"/>
+		<rom name="StarCon (1998)(Accolade)(proto).cue" size="208" crc="bbd5e79d" md5="5b6ab66dea37a1fd700fa8cc35333246" sha1="a16b623dec6bc2e768d69a38cc96690dd8261419"/>
+		<rom name="StarCon (1998)(Accolade)(proto).wav" size="44763308" crc="14cd232a" md5="934daa6987475adad96305a15e5a7bcb" sha1="c5095ba5eb1eb3b4757f6d86764a6d1ccd4971b4"/>
+	</game>
+	<game name="Thrill Kill (1998-10-13)(Virgin)(proto)">
+		<description>Thrill Kill (1998-10-13)(Virgin)(proto)</description>
+		<rom name="Thrill Kill (1998-10-13)(Virgin)(proto).bin" size="625629648" crc="ab7aa9a2" md5="108091f11a5760ad666d2a56320a967e" sha1="8a0a68c4fa1d5d6e68acd878ea4e22c1cbcf5d24"/>
+		<rom name="Thrill Kill (1998-10-13)(Virgin)(proto).cue" size="659" crc="5019995a" md5="29060b8a33c0e5baccd01c76a2fb7090" sha1="5bef30573cb549b9f7bfa8174d945637386c9fa3"/>
+	</game>
+</datafile>

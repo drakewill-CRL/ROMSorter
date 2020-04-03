@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Thomson TO7 - Operating Systems - [FD]</name>
+		<description>Thomson TO7 - Operating Systems - [FD] (TOSEC-v2012-08-27)</description>
+		<category>TOSEC</category>
+		<version>2012-08-27</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="3''1-2 Disk BASIC v1.1 (1986)(Microsoft)[3.5'']">
+		<description>3''1-2 Disk BASIC v1.1 (1986)(Microsoft)[3.5'']</description>
+		<rom name="3''1-2 Disk BASIC v1.1 (1986)(Microsoft)[3.5''].fd" size="327680" crc="f291912b" md5="8dddadbfb31ea757d65ae01031559d00" sha1="12b6b378c1add6142f47ae08d37dda0f00811bb3"/>
+	</game>
+	<game name="TO7 Disk BASIC v1.0 (1983)(Microsoft)[5.25'' SD]">
+		<description>TO7 Disk BASIC v1.0 (1983)(Microsoft)[5.25'' SD]</description>
+		<rom name="TO7 Disk BASIC v1.0 (1983)(Microsoft)[5.25'' SD].fd" size="81920" crc="27d64e76" md5="4b1d3626fa4a119a20b2d0fd85bf3151" sha1="5ddb05bfaabeafffe87c2ff08a0e32809ceb5a22"/>
+	</game>
+</datafile>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Acorn Archimedes - CD - Applications</name>
+		<description>Acorn Archimedes - CD - Applications (TOSEC-v2012-07-06)</description>
+		<category>TOSEC-ISO</category>
+		<version>2012-07-06</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="StrongARM CD-ROM (1996)(Acorn Risc Technologies)">
+		<description>StrongARM CD-ROM (1996)(Acorn Risc Technologies)</description>
+		<rom name="StrongARM CD-ROM (1996)(Acorn Risc Technologies).cue" size="137" crc="a915eaeb" md5="2e209bcd324ce460a367df48f81aa0cd" sha1="274dbed5a63ccf38fc28ec6fa46e895c29e33742"/>
+		<rom name="StrongARM CD-ROM (1996)(Acorn Risc Technologies).iso" size="537442304" crc="c2aa53ec" md5="c58500f590fff1c34a83cff326f727dd" sha1="02c2ed637b56abd867024405653a225fa0394c38"/>
+	</game>
+</datafile>

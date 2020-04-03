@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>DEC PDP-10 - Collections - MainDEC</name>
+		<description>DEC PDP-10 - Collections - MainDEC (TOSEC-v2014-01-23)</description>
+		<category>TOSEC</category>
+		<version>2014-01-23</version>
+		<author>TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="MainDEC-10-DCZBA-C-UB (1973-04)(Diagnostic Group)(US)[PDP-10 Basic Peripheral Diagnostic]">
+		<description>MainDEC-10-DCZBA-C-UB (1973-04)(Diagnostic Group)(US)[PDP-10 Basic Peripheral Diagnostic]</description>
+		<rom name="MainDEC-10-DCZBA-C-UB (1973-04)(Diagnostic Group)(US)[PDP-10 Basic Peripheral Diagnostic].dta" size="295936" crc="c0eede57" md5="83a658234b4263738bf180ba24401914" sha1="ff2818bea01de0fb549591533706be198bb0394f"/>
+	</game>
+	<game name="MainDEC-10-DGZAA-C-UB (1975-10-20)(Diagnostic Group)(US)[KL10 Resident Console Diagnostic Cusptape]">
+		<description>MainDEC-10-DGZAA-C-UB (1975-10-20)(Diagnostic Group)(US)[KL10 Resident Console Diagnostic Cusptape]</description>
+		<rom name="MainDEC-10-DGZAA-C-UB (1975-10-20)(Diagnostic Group)(US)[KL10 Resident Console Diagnostic Cusptape].dta" size="295936" crc="6f04c0d8" md5="859c3025740eb420a92e62f0eca13f8c" sha1="db6ddf5925c26405faf3fa3d99aacb4a0c30ebef"/>
+	</game>
+	<game name="MainDEC-10-DGZKA-C-UB (1975-10-20)(Diagnostic Group)(US)[PDP-11 KL10 Processor Diagnostic Cusptape]">
+		<description>MainDEC-10-DGZKA-C-UB (1975-10-20)(Diagnostic Group)(US)[PDP-11 KL10 Processor Diagnostic Cusptape]</description>
+		<rom name="MainDEC-10-DGZKA-C-UB (1975-10-20)(Diagnostic Group)(US)[PDP-11 KL10 Processor Diagnostic Cusptape].dta" size="295936" crc="5fae3fb5" md5="39908d4e457c0c2dc0bda460d1d045b8" sha1="46b232fee80dc4cb2111f5a9955e28e853b6dad4"/>
+	</game>
+	<game name="MainDEC-10-DGZKB-A-UB (1975-10-20)(Diagnostic Group)(US)[PDP-11 KL10 Processor Diagnostic Cusptape]">
+		<description>MainDEC-10-DGZKB-A-UB (1975-10-20)(Diagnostic Group)(US)[PDP-11 KL10 Processor Diagnostic Cusptape]</description>
+		<rom name="MainDEC-10-DGZKB-A-UB (1975-10-20)(Diagnostic Group)(US)[PDP-11 KL10 Processor Diagnostic Cusptape].dta" size="292864" crc="cf54176b" md5="581d8fa7d5e99037a8d741040f4980be" sha1="b43147ce6bb5d442634439d9644fed1d0b7b1eda"/>
+	</game>
+	<game name="MainDEC-10-DGZKC-C-UB (1975-10-20)(Diagnostic Group)(US)[PDP-11 KL10 Processor Diagnostic Cusptape]">
+		<description>MainDEC-10-DGZKC-C-UB (1975-10-20)(Diagnostic Group)(US)[PDP-11 KL10 Processor Diagnostic Cusptape]</description>
+		<rom name="MainDEC-10-DGZKC-C-UB (1975-10-20)(Diagnostic Group)(US)[PDP-11 KL10 Processor Diagnostic Cusptape].dta" size="295936" crc="ca83e698" md5="f64b93dbd0f7af447d8a60eb02a18877" sha1="6047552757bbf61ddfd70ccb446ad35d47078f06"/>
+	</game>
+	<game name="MainDEC-10-DGZKD-A-UB (1975-10-20)(Diagnostic Group)(US)[PDP-11 KL10 Processor Diagnostic Cusptape]">
+		<description>MainDEC-10-DGZKD-A-UB (1975-10-20)(Diagnostic Group)(US)[PDP-11 KL10 Processor Diagnostic Cusptape]</description>
+		<rom name="MainDEC-10-DGZKD-A-UB (1975-10-20)(Diagnostic Group)(US)[PDP-11 KL10 Processor Diagnostic Cusptape].dta" size="295936" crc="9c5dbd8d" md5="3e05ac0433fdcd3e52d6c7cf491ec44b" sha1="cb6f087e46d6ed999b40cf460db885415a554863"/>
+	</game>
+	<game name="MainDEC-10-DGZKE-A-UB (1975-10-20)(Diagnostic Group)(US)[PDP-11 KL10 Processor Diagnostic Cusptape]">
+		<description>MainDEC-10-DGZKE-A-UB (1975-10-20)(Diagnostic Group)(US)[PDP-11 KL10 Processor Diagnostic Cusptape]</description>
+		<rom name="MainDEC-10-DGZKE-A-UB (1975-10-20)(Diagnostic Group)(US)[PDP-11 KL10 Processor Diagnostic Cusptape].dta" size="295936" crc="67397952" md5="16b30ecf9fac6412e1587684e7afd558" sha1="352abfb884148ad68ca2cbc04878af5c51645cd8"/>
+	</game>
+	<game name="MainDEC-10-DGZKG-A-UB (1975-10-20)(Diagnostic Group)(US)[PDP-11 KL10 Processor Diagnostic Cusptape]">
+		<description>MainDEC-10-DGZKG-A-UB (1975-10-20)(Diagnostic Group)(US)[PDP-11 KL10 Processor Diagnostic Cusptape]</description>
+		<rom name="MainDEC-10-DGZKG-A-UB (1975-10-20)(Diagnostic Group)(US)[PDP-11 KL10 Processor Diagnostic Cusptape].dta" size="295936" crc="5408c2bc" md5="02f3a6219a37c1ba8c0a045dac9bdf1b" sha1="221f6898452371940e68379ae71b7fcdf18c8c92"/>
+	</game>
+	<game name="MainDEC-10-DHZAA-B-UB (1975-09-24)(Diagnostic Group)(US)[KL10 Memory Diagnostic Cusptape]">
+		<description>MainDEC-10-DHZAA-B-UB (1975-09-24)(Diagnostic Group)(US)[KL10 Memory Diagnostic Cusptape]</description>
+		<rom name="MainDEC-10-DHZAA-B-UB (1975-09-24)(Diagnostic Group)(US)[KL10 Memory Diagnostic Cusptape].dta" size="295936" crc="b0c35f21" md5="d272263e468a07d735a797f6f618f1ac" sha1="f76242057764f755e48975a86b40b40e4add0047"/>
+	</game>
+	<game name="MainDEC-10-DHZCC-A-UB (1975-09-24)(Diagnostic Group)(US)[KL10 PDP-8A &amp; DDTMH Diagostic Cusptape]">
+		<description>MainDEC-10-DHZCC-A-UB (1975-09-24)(Diagnostic Group)(US)[KL10 PDP-8A &amp; DDTMH Diagostic Cusptape]</description>
+		<rom name="MainDEC-10-DHZCC-A-UB (1975-09-24)(Diagnostic Group)(US)[KL10 PDP-8A &amp; DDTMH Diagostic Cusptape].dta" size="295936" crc="e8d9a64c" md5="7a686a41aa87d5f83ed35f5a81f6d2c3" sha1="fa97b3c08bf476972fe9c2ef6cdbf9b546724a55"/>
+	</game>
+	<game name="MainDEC-10-DHZKA-A-UB (1975-09-24)(Diagnostic Group)(US)[KL10 CPU Basic Instruction A10 Format]">
+		<description>MainDEC-10-DHZKA-A-UB (1975-09-24)(Diagnostic Group)(US)[KL10 CPU Basic Instruction A10 Format]</description>
+		<rom name="MainDEC-10-DHZKA-A-UB (1975-09-24)(Diagnostic Group)(US)[KL10 CPU Basic Instruction A10 Format].dta" size="295936" crc="c75be110" md5="c01cc550c8fd727e48562f25749ff87b" sha1="a4828c20511f7e4c5c9800e3fbaa54868d32194b"/>
+	</game>
+	<game name="MainDEC-10-DHZKB-A-UB (1975-09-24)(Diagnostic Group)(US)[KL10 CPU Basic Instruction Diagnostic A10 Format]">
+		<description>MainDEC-10-DHZKB-A-UB (1975-09-24)(Diagnostic Group)(US)[KL10 CPU Basic Instruction Diagnostic A10 Format]</description>
+		<rom name="MainDEC-10-DHZKB-A-UB (1975-09-24)(Diagnostic Group)(US)[KL10 CPU Basic Instruction Diagnostic A10 Format].dta" size="295936" crc="af7cae0a" md5="05bc97785bbfc5160607acb888d8e607" sha1="6bb96e79fd50e831b97a302d1233ac049c22f71c"/>
+	</game>
+	<game name="MainDEC-10-DHZKC-A-UB (1975-09-24)(Diagnostic Group)(US)[KL10 CPU Basic Instruction Reliability Diagnostic]">
+		<description>MainDEC-10-DHZKC-A-UB (1975-09-24)(Diagnostic Group)(US)[KL10 CPU Basic Instruction Reliability Diagnostic]</description>
+		<rom name="MainDEC-10-DHZKC-A-UB (1975-09-24)(Diagnostic Group)(US)[KL10 CPU Basic Instruction Reliability Diagnostic].dta" size="295936" crc="2ee485f3" md5="94404d9c1ae57c0336f26f1f771d6178" sha1="35f6a97fafeb348dcaef37623776dc329b723e8b"/>
+	</game>
+	<game name="MainDEC-10-DHZKD-A-UB (1975-09-24)(Diagnostic Group)(US)[KL10 CPU Advanced Instruction A10 Format]">
+		<description>MainDEC-10-DHZKD-A-UB (1975-09-24)(Diagnostic Group)(US)[KL10 CPU Advanced Instruction A10 Format]</description>
+		<rom name="MainDEC-10-DHZKD-A-UB (1975-09-24)(Diagnostic Group)(US)[KL10 CPU Advanced Instruction A10 Format].dta" size="295936" crc="7131b836" md5="6ca020eb600a0fb54c5cf251b5ae1334" sha1="7a73b281787d0ba2cf48a9dd44e838c892a13d7a"/>
+	</game>
+	<game name="MainDEC-10-DHZKE-A-UB (1975-09-24)(Diagnostic Group)(US)[KL10 CPU Advanced Reliability Diagnostic Cusptape]">
+		<description>MainDEC-10-DHZKE-A-UB (1975-09-24)(Diagnostic Group)(US)[KL10 CPU Advanced Reliability Diagnostic Cusptape]</description>
+		<rom name="MainDEC-10-DHZKE-A-UB (1975-09-24)(Diagnostic Group)(US)[KL10 CPU Advanced Reliability Diagnostic Cusptape].dta" size="295936" crc="1beb8d3c" md5="abdb9fa0243cc0d68560532bf9f19364" sha1="cd85cc1dab9f4f67d74e1640623d44042bb40d6b"/>
+	</game>
+	<game name="MainDEC-10-DJZAA-K-UB (1977-07-13)(Diagnostic Group)(US)[KL10 Front End 11-40 CPU]">
+		<description>MainDEC-10-DJZAA-K-UB (1977-07-13)(Diagnostic Group)(US)[KL10 Front End 11-40 CPU]</description>
+		<rom name="MainDEC-10-DJZAA-K-UB (1977-07-13)(Diagnostic Group)(US)[KL10 Front End 11-40 CPU].dta" size="295936" crc="b200a856" md5="3f020e40fe43350d021b66c4b5e45d1d" sha1="e2c96cc0139bb7b79a7a61f038d437932e44b4bd"/>
+	</game>
+	<game name="MainDEC-10-DJZAA-K-UB (1977-09-24)(Diagnostic Group)(US)[KL10 Front End 11-40 CPU]">
+		<description>MainDEC-10-DJZAA-K-UB (1977-09-24)(Diagnostic Group)(US)[KL10 Front End 11-40 CPU]</description>
+		<rom name="MainDEC-10-DJZAA-K-UB (1977-09-24)(Diagnostic Group)(US)[KL10 Front End 11-40 CPU].dta" size="295936" crc="b200a856" md5="3f020e40fe43350d021b66c4b5e45d1d" sha1="e2c96cc0139bb7b79a7a61f038d437932e44b4bd"/>
+	</game>
+</datafile>

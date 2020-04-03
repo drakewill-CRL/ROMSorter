@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>ETL Mark II - Applications</name>
+		<description>ETL Mark II - Applications (TOSEC-v2014-01-24)</description>
+		<category>TOSEC</category>
+		<version>2014-01-24</version>
+		<author>Grendel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Sum 1 (1997)(-)">
+		<description>Sum 1 (1997)(-)</description>
+		<rom name="Data1.dat" size="44" crc="975ff04f" md5="d2b5bb344547e66c0669b09176c1590c" sha1="43df1251f792ae5f468bb93abdba3d49dafb941b"/>
+		<rom name="Data2.dat" size="40" crc="724a012d" md5="cae0c5921befe5fc8b6f094e697508da" sha1="95fc523f2f82db0f20be59ab73a7de2ebce95e36"/>
+		<rom name="Sum1.mk2" size="1046" crc="72cbf3c4" md5="26232ad27812cdeab156afd8ab3f6d2d" sha1="0053407f88259c3e84365cfb53087af31ed2916a"/>
+	</game>
+	<game name="Sum 2 (1997)(-)">
+		<description>Sum 2 (1997)(-)</description>
+		<rom name="Data1.dat" size="44" crc="975ff04f" md5="d2b5bb344547e66c0669b09176c1590c" sha1="43df1251f792ae5f468bb93abdba3d49dafb941b"/>
+		<rom name="Data2.dat" size="40" crc="724a012d" md5="cae0c5921befe5fc8b6f094e697508da" sha1="95fc523f2f82db0f20be59ab73a7de2ebce95e36"/>
+		<rom name="Sum2.mk2" size="1068" crc="e5d176f5" md5="292b5134160fe0b8679744b30b984ff7" sha1="b553a934a12d0e725224147259162a05c3c36773"/>
+	</game>
+	<game name="Sum 3 (1997)(-)">
+		<description>Sum 3 (1997)(-)</description>
+		<rom name="Data1.dat" size="44" crc="975ff04f" md5="d2b5bb344547e66c0669b09176c1590c" sha1="43df1251f792ae5f468bb93abdba3d49dafb941b"/>
+		<rom name="Data2.dat" size="40" crc="724a012d" md5="cae0c5921befe5fc8b6f094e697508da" sha1="95fc523f2f82db0f20be59ab73a7de2ebce95e36"/>
+		<rom name="Sum3.mk2" size="1381" crc="c23c22c6" md5="15f4f445355b87e0dd0f9bf74d9d44a5" sha1="73cab2d3b8d2ad519dae1a0a434eedbaf1a5874e"/>
+	</game>
+	<game name="Sum 4 (1997)(-)">
+		<description>Sum 4 (1997)(-)</description>
+		<rom name="Data1.dat" size="44" crc="975ff04f" md5="d2b5bb344547e66c0669b09176c1590c" sha1="43df1251f792ae5f468bb93abdba3d49dafb941b"/>
+		<rom name="Data2.dat" size="40" crc="724a012d" md5="cae0c5921befe5fc8b6f094e697508da" sha1="95fc523f2f82db0f20be59ab73a7de2ebce95e36"/>
+		<rom name="Sum4.mk2" size="1551" crc="6038fe58" md5="f84dad9c1a4feb406f8103378a2f0c08" sha1="ff5d81996cd4bcb496d289cdb9e9067c202ec063"/>
+	</game>
+	<game name="Sum 5 (1997)(-)">
+		<description>Sum 5 (1997)(-)</description>
+		<rom name="Data1.dat" size="44" crc="975ff04f" md5="d2b5bb344547e66c0669b09176c1590c" sha1="43df1251f792ae5f468bb93abdba3d49dafb941b"/>
+		<rom name="Data2.dat" size="40" crc="724a012d" md5="cae0c5921befe5fc8b6f094e697508da" sha1="95fc523f2f82db0f20be59ab73a7de2ebce95e36"/>
+		<rom name="Sum5.mk2" size="1543" crc="094251f2" md5="257be63b7d0b47d1ce0ef640ef6f744d" sha1="672f69f6c7159f185766964d556a1c13e4395431"/>
+	</game>
+</datafile>

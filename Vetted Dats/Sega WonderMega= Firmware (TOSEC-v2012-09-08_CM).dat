@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega WonderMega - Firmware</name>
+		<description>Sega WonderMega - Firmware (TOSEC-v2012-09-08)</description>
+		<category>TOSEC</category>
+		<version>2012-09-08</version>
+		<author>Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="JVC X'Eye BIOS v2.00x (1993)(JVC - Sega)(US)">
+		<description>JVC X'Eye BIOS v2.00x (1993)(JVC - Sega)(US)</description>
+		<rom name="JVC X'Eye BIOS v2.00x (1993)(JVC - Sega)(US).bin" size="131072" crc="290f8e33" md5="82ce2363f7ddc620b9c255d35833118f" sha1="651f14d5a5e0ecb974a60c0f43b1d2006323fb09"/>
+	</game>
+	<game name="Sega WonderMega BIOS v1.00w (1992)(Sega)(JP)(en-ja)">
+		<description>Sega WonderMega BIOS v1.00w (1992)(Sega)(JP)(en-ja)</description>
+		<rom name="Sega WonderMega BIOS v1.00w (1992)(Sega)(JP)(en-ja).bin" size="131072" crc="d21fe71d" md5="732b60960226caf33df6b487f376de69" sha1="3fc9358072f74bd24e3e297ea11b2bf15a7af891"/>
+	</game>
+	<game name="Victor WonderMega RG-M2 BIOS v2.00 (1993)(JVC - Sega)(JP)(en-ja)">
+		<description>Victor WonderMega RG-M2 BIOS v2.00 (1993)(JVC - Sega)(JP)(en-ja)</description>
+		<rom name="Victor WonderMega RG-M2 BIOS v2.00 (1993)(JVC - Sega)(JP)(en-ja).bin" size="131072" crc="2b19972f" md5="d32f50fb7f4355c45d5db306a0d38fa4" sha1="b3f32e409bd5508c89ed8be33d41a58d791d0e5d"/>
+	</game>
+</datafile>

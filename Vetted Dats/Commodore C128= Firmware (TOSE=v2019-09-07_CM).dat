@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C128 - Firmware</name>
+		<description>Commodore C128 - Firmware (TOSEC-v2019-09-07)</description>
+		<category>TOSEC</category>
+		<version>2019-09-07</version>
+		<author>Tomse - Duncan Twain - Burstnibbler</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Basic 64 325176-07 (19xx)(Commodore)(DK)">
+		<description>Basic 64 325176-07 (19xx)(Commodore)(DK)</description>
+		<rom name="Basic 64 325176-07 (19xx)(Commodore)(DK).rom" size="16384" crc="05b8c2f0" md5="70df25f709c5ae80287f3c2c0349fb98" sha1="0d082f508ed91713c4d2b9812456c7f53d57c0a4"/>
+	</game>
+	<game name="Basic V7 252343-03 (1985)(Commodore)[C128CR ENGR SAMPLE]">
+		<description>Basic V7 252343-03 (1985)(Commodore)[C128CR ENGR SAMPLE]</description>
+		<rom name="Basic V7 252343-03 (1985)(Commodore)[C128CR ENGR SAMPLE].rom" size="32768" crc="bc07ed87" md5="2b1ff6e4a8bfb08c6a2c9aeecc0fb4e4" sha1="0eec437994a3f2212343a712847213a8a39f4a7b"/>
+	</game>
+	<game name="Basic V7 318018-02 (1985)(Commodore)[0x4000]">
+		<description>Basic V7 318018-02 (1985)(Commodore)[0x4000]</description>
+		<rom name="Basic V7 318018-02 (1985)(Commodore)[0x4000].rom" size="16384" crc="2ee6e2fa" md5="0e51e2cccc9e7028ed48a45d402402f9" sha1="60e1491e1d5782e3cf109f518eb73427609badc6"/>
+	</game>
+	<game name="Basic V7 318018-04 (1986)(Commodore)[!][0x4000]">
+		<description>Basic V7 318018-04 (1986)(Commodore)[!][0x4000]</description>
+		<rom name="Basic V7 318018-04 (1986)(Commodore)[!][0x4000].rom" size="16384" crc="9f9c355b" md5="b86ce827c9108fbc7b9e02c690e81a23" sha1="d53a7884404f7d18ebd60dd3080c8f8d71067441"/>
+	</game>
+	<game name="Basic V7 318019-02 (1985)(Commodore)[0x8000]">
+		<description>Basic V7 318019-02 (1985)(Commodore)[0x8000]</description>
+		<rom name="Basic V7 318019-02 (1985)(Commodore)[0x8000].rom" size="16384" crc="d551fce0" md5="788a59e0cf22cc8421f1ea59f199b6f9" sha1="4d223883e866645328f86a904b221464682edc4f"/>
+	</game>
+	<game name="Basic V7 318019-04 (1986)(Commodore)[!][0x8000]">
+		<description>Basic V7 318019-04 (1986)(Commodore)[!][0x8000]</description>
+		<rom name="Basic V7 318019-04 (1986)(Commodore)[!][0x8000].rom" size="16384" crc="6e2c91a7" md5="87bb251707d0a2c915d6e0c69fdb0fed" sha1="c4fb4a714e48a7bf6c28659de0302183a0e0d6c0"/>
+	</game>
+	<game name="Basic V7 318022-01 (1985)(Commodore)">
+		<description>Basic V7 318022-01 (1985)(Commodore)</description>
+		<rom name="Basic V7 318022-01 (1985)(Commodore).rom" size="32768" crc="e857df90" md5="04c7b8aedce5e8397dbdb448d0110a06" sha1="5c2d7bbda2c3f9a926bd76ad19dc0c8c733c41cd"/>
+	</game>
+	<game name="Basic V7 318022-02 (1986)(Commodore)">
+		<description>Basic V7 318022-02 (1986)(Commodore)</description>
+		<rom name="Basic V7 318022-02 (1986)(Commodore).rom" size="32768" crc="af1ae1e8" md5="2720d2ac909470bc6d26af3316ecbd27" sha1="953dcdf5784a6b39ef84dd6fd968c7a03d8d6816"/>
+	</game>
+	<game name="Basic V7 390393-01 (1986)(Commodore)">
+		<description>Basic V7 390393-01 (1986)(Commodore)</description>
+		<rom name="Basic V7 390393-01 (1986)(Commodore).rom" size="32768" crc="47174b75" md5="e3d7b613f1739c6910cf4b214bc84b96" sha1="401270052aebac24c8321f2c7436828b08185a00"/>
+	</game>
+	<game name="Bios Z80 (198x)(Commodore)">
+		<description>Bios Z80 (198x)(Commodore)</description>
+		<rom name="Bios Z80 (198x)(Commodore).rom" size="4096" crc="c38d83c6" md5="894dad6f8fc898dd4c1174163ed1838a" sha1="38662a024f1de2f4417a5f9df4898a9985503e06"/>
+	</game>
+	<game name="Characters 315079-01 (19xx)(Commodore)(DE)">
+		<description>Characters 315079-01 (19xx)(Commodore)(DE)</description>
+		<rom name="Characters 315079-01 (19xx)(Commodore)(DE).rom" size="8192" crc="fe5a2db1" md5="ec9e71614010c4efb851b83bcd685e9c" sha1="638f8aff51c2ac4f99a55b12c4f8c985ef4bebd3"/>
+	</game>
+	<game name="Characters 325078-01 (19xx)(Commodore)(NO)">
+		<description>Characters 325078-01 (19xx)(Commodore)(NO)</description>
+		<rom name="Characters 325078-01 (19xx)(Commodore)(NO).rom" size="16384" crc="20fe1368" md5="a85193ca5a70b5a7c5c43004a733dc0f" sha1="da6d1913db4b4753186214ccee5c33a3b2f99967"/>
+	</game>
+	<game name="Characters 325078-02 (19xx)(Commodore)(NO)">
+		<description>Characters 325078-02 (19xx)(Commodore)(NO)</description>
+		<rom name="Characters 325078-02 (19xx)(Commodore)(NO).rom" size="8192" crc="1059b482" md5="a69b20ac7b5cfe9510d61b7e189b5790" sha1="8875db19c12da68cfb14709bd9ab524e140b3197"/>
+	</game>
+	<game name="Characters 325167-01 (19xx)(Commodore)(FR)">
+		<description>Characters 325167-01 (19xx)(Commodore)(FR)</description>
+		<rom name="Characters 325167-01 (19xx)(Commodore)(FR).rom" size="8192" crc="bad36b88" md5="de3e110a48de76457dbc9ad320e2caa5" sha1="9119b27a1bf885fa4c76fff5d858c74c194dd2b8"/>
+	</game>
+	<game name="Characters 325167-02 (19xx)(Commodore)[IFB charset]">
+		<description>Characters 325167-02 (19xx)(Commodore)[IFB charset]</description>
+		<rom name="Characters 325167-02 (19xx)(Commodore)[IFB charset].rom" size="8192" crc="80773d0e" md5="a507edf403b0f00fad2310182647f9cb" sha1="eb50b78b0faa7f4c8ab8a285700cbdf8667d8f40"/>
+	</game>
+	<game name="Characters 325171-01 (19xx)(Commodore)(ES)">
+		<description>Characters 325171-01 (19xx)(Commodore)(ES)</description>
+		<rom name="Characters 325171-01 (19xx)(Commodore)(ES).rom" size="8192" crc="069761a5" md5="3eb1c75bc0f256538004755496781571" sha1="528a1bb86bc162e4d2e0cc90e50fecea793f9d0f"/>
+	</game>
+	<game name="Characters 325173-01D (19xx)(Commodore)(CH)">
+		<description>Characters 325173-01D (19xx)(Commodore)(CH)</description>
+		<rom name="Characters 325173-01D (19xx)(Commodore)(CH).rom" size="8192" crc="b7821651" md5="9d48ba877773b6795a113fc63819b885" sha1="c995aeb892becc312389f745d030397e1c26c532"/>
+	</game>
+	<game name="Characters 325175-01 (19xx)(Commodore)(DK)">
+		<description>Characters 325175-01 (19xx)(Commodore)(DK)</description>
+		<rom name="Characters 325175-01 (19xx)(Commodore)(DK).rom" size="8192" crc="7f98aaf9" md5="8af8cfdb1c90358ca04cb78de6c9a122" sha1="4ccd4e16bf3c48a0716df6fc690e6ab531a257a5"/>
+	</game>
+	<game name="Characters 325175-02 (19xx)(Commodore)(DK)">
+		<description>Characters 325175-02 (19xx)(Commodore)(DK)</description>
+		<rom name="Characters 325175-02 (19xx)(Commodore)(DK).rom" size="8192" crc="62301b9d" md5="0946d2146fdde40f2ca78bb4fb51083e" sha1="6aa4d21fa8a31731f22de736790dd7be57c617bf"/>
+	</game>
+	<game name="Characters 325181-01 (19xx)(Commodore)(SE)">
+		<description>Characters 325181-01 (19xx)(Commodore)(SE)</description>
+		<rom name="Characters 325181-01 (19xx)(Commodore)(SE).rom" size="8192" crc="7a70d9b8" md5="06e46af13d13aa869218275e64d48b00" sha1="aca3f7321ee7e6152f1f0afad646ae41964de4fb"/>
+	</game>
+	<game name="Characters 390059-01 (19xx)(Commodore)[!]">
+		<description>Characters 390059-01 (19xx)(Commodore)[!]</description>
+		<rom name="Characters 390059-01 (19xx)(Commodore)[!].rom" size="8192" crc="6aaaafe6" md5="46b3cb2140f244c0ed1150c819e7bdc4" sha1="29ed066d513f2d5c09ff26d9166ba23c2afb2b3f"/>
+	</game>
+	<game name="Complete 252343-04 (1985)(Commodore)[C128CR ENGR SAMPLE]">
+		<description>Complete 252343-04 (1985)(Commodore)[C128CR ENGR SAMPLE]</description>
+		<rom name="Complete 252343-04 (1985)(Commodore)[C128CR ENGR SAMPLE].rom" size="32768" crc="cc6bdb69" md5="c5c90b09c28ac6a7604c89c9fdd6cedc" sha1="36286b2e8bea79f7767639fd85e12c5447c7041b"/>
+	</game>
+	<game name="Complete 318023-02 (1986)(Commodore)">
+		<description>Complete 318023-02 (1986)(Commodore)</description>
+		<rom name="Complete 318023-02 (1986)(Commodore).rom" size="32768" crc="eedc120a" md5="59203d0a94eefa0ff289673847d0ac04" sha1="f98c5a986b532c78bb68df9ec6dbcf876913b99f"/>
+	</game>
+	<game name="Complete 318034-01 (1986)(Commodore)(SE)">
+		<description>Complete 318034-01 (1986)(Commodore)(SE)</description>
+		<rom name="Complete 318034-01 (1986)(Commodore)(SE).rom" size="32768" crc="cb4e1719" md5="6792dfeaec2eda9db164c59e45e94214" sha1="9b0a0cef56d00035c611e07170f051ee5e63aa3a"/>
+	</game>
+	<game name="Complete 318077-01 (1986)(Commodore)(DE)">
+		<description>Complete 318077-01 (1986)(Commodore)(DE)</description>
+		<rom name="Complete 318077-01 (1986)(Commodore)(DE).rom" size="32768" crc="eb6e2c8f" md5="abb73598611147f8483ad480bdfff7c6" sha1="6b3d891fedabb5335f388a5d2a71378472ea60f4"/>
+	</game>
+	<game name="Complete 318077-03 (1986)(Commodore)(DE)">
+		<description>Complete 318077-03 (1986)(Commodore)(DE)</description>
+		<rom name="Complete 318077-03 (1986)(Commodore)(DE).rom" size="32768" crc="467fc604" md5="3eceeac38dfa803339e3e35d510a4c0a" sha1="c31da180d3830f6286a90d996fd43b5d422b0b69"/>
+	</game>
+	<game name="Complete 318079-01 (1986)(Commodore)(IT)">
+		<description>Complete 318079-01 (1986)(Commodore)(IT)</description>
+		<rom name="Complete 318079-01 (1986)(Commodore)(IT).rom" size="32768" crc="3ce809f6" md5="0a638452908e29a6db43e4f96e912b7a" sha1="a28ef8ec3af319c74d6b248086def6f2b6e17c4c"/>
+	</game>
+	<game name="Complete 318081-01 (1986)(Commodore)(CH)">
+		<description>Complete 318081-01 (1986)(Commodore)(CH)</description>
+		<rom name="Complete 318081-01 (1986)(Commodore)(CH).rom" size="32768" crc="8788a335" md5="fbc17ec5bda71b4e5299e52958bb353f" sha1="515928bc8316e942cf1df02a774078b21ae4ea40"/>
+	</game>
+	<game name="Complete 318082-01 (1986)(Commodore)(DK)">
+		<description>Complete 318082-01 (1986)(Commodore)(DK)</description>
+		<rom name="Complete 318082-01 (1986)(Commodore)(DK).rom" size="32768" crc="1075c9dd" md5="a61a64973490e3371ddafae2f2ffd5cf" sha1="20563a25380dee082afac2736274221d1f818e56"/>
+	</game>
+	<game name="Complete 318083-01 (1986)(Commodore)(NO)">
+		<description>Complete 318083-01 (1986)(Commodore)(NO)</description>
+		<rom name="Complete 318083-01 (1986)(Commodore)(NO).rom" size="32768" crc="26f869d5" md5="045d7511b2ff0c1662b2ec0a8c5dafc8" sha1="8ac8fdc837510d0f7c0e141872d0e1113e79a95b"/>
+	</game>
+	<game name="Complete unkn (1986)(Commodore)(ES)">
+		<description>Complete unkn (1986)(Commodore)(ES)</description>
+		<rom name="Complete unkn (1986)(Commodore)(ES).rom" size="32768" crc="7fd6f919" md5="f7fe787e75930a29afd16a573ea1fc31" sha1="3427209954d131daf9a92607d8761f55d8ca0bc2"/>
+	</game>
+	<game name="Complete unkn (1986)(Commodore)(FR)">
+		<description>Complete unkn (1986)(Commodore)(FR)</description>
+		<rom name="Complete unkn (1986)(Commodore)(FR).rom" size="32768" crc="e026976a" md5="c1df71e1e9bae0d6aeff022dca84bb0e" sha1="52e462d2c04b9dcd6a0fcbf85b93a8c433dd531c"/>
+	</game>
+	<game name="Editor (198x)(Commodore)(FI)">
+		<description>Editor (198x)(Commodore)(FI)</description>
+		<rom name="Editor (198x)(Commodore)(FI).rom" size="4096" crc="71002a97" md5="72c1847b25a898d191b4d331d7ed49d1" sha1="e0771493503225d309e51239249e8d92da55ca37"/>
+	</game>
+	<game name="Editor (198x)(Commodore)(FI)[a]">
+		<description>Editor (198x)(Commodore)(FI)[a]</description>
+		<rom name="Editor (198x)(Commodore)(FI)[a].rom" size="4096" crc="b7ff5efe" md5="bb8685d838b42ccb2ef903292f858d67" sha1="a1f574d010e2d0c754444258709818ec76667cc4"/>
+	</game>
+	<game name="Editor (198x)(Commodore)(FR)">
+		<description>Editor (198x)(Commodore)(FR)</description>
+		<rom name="Editor (198x)(Commodore)(FR).rom" size="4096" crc="3e086a24" md5="6e0fa9aaaa6ced7fd25cbc70f16e2312" sha1="0a2f67455166f8dac101f8f8564a1c0364cb456a"/>
+	</game>
+	<game name="Editor (198x)(Commodore)(IT)">
+		<description>Editor (198x)(Commodore)(IT)</description>
+		<rom name="Editor (198x)(Commodore)(IT).rom" size="4096" crc="8df58148" md5="0b5789b08d683ef19a5f6fdbd433ad6f" sha1="39add4c0adda7a64f68a09ae8742599091228017"/>
+	</game>
+	<game name="Editor (198x)(Commodore)(NO)">
+		<description>Editor (198x)(Commodore)(NO)</description>
+		<rom name="Editor (198x)(Commodore)(NO).rom" size="4096" crc="84c55911" md5="aab049db2e93abbc95a3d203b3d1978a" sha1="22f6c5f40d4e895ea51e8432b30c219eacb75778"/>
+	</game>
+	<game name="Kernal 315078-01 (198x)(Commodore)(DE)">
+		<description>Kernal 315078-01 (198x)(Commodore)(DE)</description>
+		<rom name="Kernal 315078-01 (198x)(Commodore)(DE).rom" size="16384" crc="a51e2168" md5="00826698dc290b9e86941e0222098ee7" sha1="bcf82a89a8fc5d086bec2ff3bcbdecc8af2be3af"/>
+	</game>
+	<game name="Kernal 315078-02 (198x)(Commodore)(DE)">
+		<description>Kernal 315078-02 (198x)(Commodore)(DE)</description>
+		<rom name="Kernal 315078-02 (198x)(Commodore)(DE).rom" size="16384" crc="b275bb2e" md5="783ace01b310b9a230a55f5d3b5b53bb" sha1="78ac5dcdd840b092ba1ee6d19b33af079613291f"/>
+	</game>
+	<game name="Kernal 315078-03 (198x)(Commodore)(DE)">
+		<description>Kernal 315078-03 (198x)(Commodore)(DE)</description>
+		<rom name="Kernal 315078-03 (198x)(Commodore)(DE).rom" size="16384" crc="bff7550b" md5="9837409b6bdb7ce055409fa3eb3e9cf0" sha1="3629b3fa28b6a30bcc027b647f26654929ed1b0f"/>
+	</game>
+	<game name="Kernal 318020-03 (198x)(Commodore)">
+		<description>Kernal 318020-03 (198x)(Commodore)</description>
+		<rom name="Kernal 318020-03 (198x)(Commodore).rom" size="16384" crc="1e94bb02" md5="25a0f37e843e3643fce21fb6fd65bd4d" sha1="e80ffbafae068cc0e42698ec5c5c39af46ac612a"/>
+	</game>
+	<game name="Kernal 318020-05 (198x)(Commodore)[!]">
+		<description>Kernal 318020-05 (198x)(Commodore)[!]</description>
+		<rom name="Kernal 318020-05 (198x)(Commodore)[!].rom" size="16384" crc="ba456b8e" md5="01f6903033b90cd506cde7802ec743c3" sha1="ceb6e1a1bf7e08eb9cbc651afa29e26adccf38ab"/>
+	</game>
+	<game name="Kernal 325166-02 (198x)(Commodore)[FB Version]">
+		<description>Kernal 325166-02 (198x)(Commodore)[FB Version]</description>
+		<rom name="Kernal 325166-02 (198x)(Commodore)[FB Version].rom" size="16384" crc="23e4cc41" md5="85423938f2019dd0dc3c8589dac97c46" sha1="a7b1ca6c21ea184113e65ad5adbe21a748d6f610"/>
+	</game>
+	<game name="Kernal 325168-02 (198x)(Commodore)(IT)">
+		<description>Kernal 325168-02 (198x)(Commodore)(IT)</description>
+		<rom name="Kernal 325168-02 (198x)(Commodore)(IT).rom" size="16384" crc="7ac0fe7d" md5="7b8155ee354ba2ee1943ed3fa4e4fa6f" sha1="811c6447edf461e1b6b14677d37abea1b99fc433"/>
+	</game>
+	<game name="Kernal 325172-01 (198x)(Commodore)(CH)">
+		<description>Kernal 325172-01 (198x)(Commodore)(CH)</description>
+		<rom name="Kernal 325172-01 (198x)(Commodore)(CH).rom" size="16384" crc="d311dab1" md5="90907477d39db1b8fe1732692278a0e9" sha1="98c34e0dec9f52d7862b56bb287d2573eb3f6364"/>
+	</game>
+	<game name="Kernal 325172-02 (198x)(Commodore)(CH)">
+		<description>Kernal 325172-02 (198x)(Commodore)(CH)</description>
+		<rom name="Kernal 325172-02 (198x)(Commodore)(CH).rom" size="16384" crc="f4a5b644" md5="6d148b948d061a76ae1eaf661c4665b8" sha1="6068c96b5067bdea1e8911f37079481bae7b1ef5"/>
+	</game>
+	<game name="Kernal 325177-02 (198x)(Commodore)(NO)">
+		<description>Kernal 325177-02 (198x)(Commodore)(NO)</description>
+		<rom name="Kernal 325177-02 (198x)(Commodore)(NO).rom" size="16384" crc="6565577a" md5="84f4bfd02476fe364fd67741f5c87c7b" sha1="ff57f6e26cb8d9ab5f270a1772c7bdb6cbbfc716"/>
+	</game>
+	<game name="Kernal 325179-01 (19xx)(Commodore)(NO)">
+		<description>Kernal 325179-01 (19xx)(Commodore)(NO)</description>
+		<rom name="Kernal 325179-01 (19xx)(Commodore)(NO).rom" size="16384" crc="06da7d24" md5="37868cedfa759f586cc22edf31f2e121" sha1="4708d6678cfff5be9b6a217aa45102d4f4dc20c7"/>
+	</game>
+	<game name="Kernal 325180-02 (198x)(Commodore)(SE)">
+		<description>Kernal 325180-02 (198x)(Commodore)(SE)</description>
+		<rom name="Kernal 325180-02 (198x)(Commodore)(SE).rom" size="16384" crc="9526fac4" md5="479cc76610a2abc9e1df9095512c2dda" sha1="a01dd871241c801db51e8ebc30fedfafd8cc506b"/>
+	</game>
+	<game name="Kernal 325182-01 (19xx)(Commodore)(SE)">
+		<description>Kernal 325182-01 (19xx)(Commodore)(SE)</description>
+		<rom name="Kernal 325182-01 (19xx)(Commodore)(SE).rom" size="16384" crc="2aff27d3" md5="9e344195fe2937e3148b02972c80a59a" sha1="267654823c4fdf2167050f41faa118218d2569ce"/>
+	</game>
+	<game name="Kernal 325189-01 (198x)(Commodore)(SE)">
+		<description>Kernal 325189-01 (198x)(Commodore)(SE)</description>
+		<rom name="Kernal 325189-01 (198x)(Commodore)(SE).rom" size="16384" crc="9526fac4" md5="479cc76610a2abc9e1df9095512c2dda" sha1="a01dd871241c801db51e8ebc30fedfafd8cc506b"/>
+	</game>
+	<game name="Kernal 3xxxxx-xx (198x)(Commodore)(DE)[U35]">
+		<description>Kernal 3xxxxx-xx (198x)(Commodore)(DE)[U35]</description>
+		<rom name="Kernal 3xxxxx-xx (198x)(Commodore)(DE)[U35].rom" size="16384" crc="a144c701" md5="cced3250f1cfd4a88b46c97b4a3f12ab" sha1="b4adec20cd9d5af7f3d8391692e61204cfb008dc"/>
+	</game>
+	<game name="Kernal JiffyDOS V6.01 (1989)(Creative Micro Designs)">
+		<description>Kernal JiffyDOS V6.01 (1989)(Creative Micro Designs)</description>
+		<rom name="Kernal JiffyDOS V6.01 (1989)(Creative Micro Designs).rom" size="16384" crc="4b7964de" md5="cbbd1bbcb5e4fd8046b6030ab71fc021" sha1="7d1898f32beae4b2ae610d469ce578a588efaa7c"/>
+	</game>
+	<game name="Kernalpart (198x)(Commodore)(FI)">
+		<description>Kernalpart (198x)(Commodore)(FI)</description>
+		<rom name="Kernalpart (198x)(Commodore)(FI).rom" size="8192" crc="167b8364" md5="9bda88acff34a961b6f7c10926b3fd44" sha1="2e51c562ef5ae6aa4cd333c560afed0c34902e28"/>
+	</game>
+	<game name="Kernalpart (198x)(Commodore)(FI)[a]">
+		<description>Kernalpart (198x)(Commodore)(FI)[a]</description>
+		<rom name="Kernalpart (198x)(Commodore)(FI)[a].rom" size="8192" crc="5ce42fc8" md5="fa1fa8fc23606a1f0cd8b74c86941ddb" sha1="0ec2bf1c185d26da7f62f88c6e24de7b16d78fe5"/>
+	</game>
+	<game name="Kernalpart (198x)(Commodore)(FR)">
+		<description>Kernalpart (198x)(Commodore)(FR)</description>
+		<rom name="Kernalpart (198x)(Commodore)(FR).rom" size="8192" crc="ca5e1179" md5="de86cd3015b48bd84ea6fa6dc736df2e" sha1="d234a031caf59a0f66871f2babe1644783e66cf7"/>
+	</game>
+	<game name="Kernalpart (198x)(Commodore)(IT)">
+		<description>Kernalpart (198x)(Commodore)(IT)</description>
+		<rom name="Kernalpart (198x)(Commodore)(IT).rom" size="8192" crc="7b0d2140" md5="6736b02879c43de544caf743dd185cc5" sha1="f5d604d89daedb47a1abe4b0aa41ea762829e71e"/>
+	</game>
+	<game name="Kernalpart (198x)(Commodore)(NO)">
+		<description>Kernalpart (198x)(Commodore)(NO)</description>
+		<rom name="Kernalpart (198x)(Commodore)(NO).rom" size="8192" crc="3ba48012" md5="35127d07692a0bc05971d8c357bd7fee" sha1="21a90256a3572a890f8027a085d851bf818b0dda"/>
+	</game>
+	<game name="SuperChip (1986)(Commodore)[Function ROM]">
+		<description>SuperChip (1986)(Commodore)[Function ROM]</description>
+		<rom name="SuperChip (1986)(Commodore)[Function ROM].rom" size="32768" crc="a66f73c5" md5="8f2f9b88ff5b8e4894cf6d150be144a1" sha1="a766997b86db5bd9b77de551f0a6da6ad159b8d3"/>
+	</game>
+</datafile>

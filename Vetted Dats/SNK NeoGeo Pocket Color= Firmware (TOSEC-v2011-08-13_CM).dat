@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>SNK Neo-Geo Pocket Color - Firmware</name>
+		<description>SNK Neo-Geo Pocket Color - Firmware (TOSEC-v2011-08-13)</description>
+		<category>TOSEC</category>
+		<version>2011-08-13</version>
+		<author>Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="SNK Neo-Geo Pocket Color BIOS (1999)(SNK)(en-ja)">
+		<description>SNK Neo-Geo Pocket Color BIOS (1999)(SNK)(en-ja)</description>
+		<rom name="SNK Neo-Geo Pocket Color BIOS (1999)(SNK)(en-ja).bin" size="65536" crc="6eeb6f40" md5="3655aacebb43a963607d4cf821fc1301" sha1="edc13192054a59be49c6d55f83b70e2510968e86"/>
+	</game>
+</datafile>

@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>PTC Sol Terminal Computer SOL-20 - Various - [BS5]</name>
+		<description>PTC Sol Terminal Computer SOL-20 - Various - [BS5] (TOSEC-v2011-08-31)</description>
+		<category>TOSEC</category>
+		<version>2011-08-31</version>
+		<author>Cid - Gnomula - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Ballistics (19xx)(-)">
+		<description>Ballistics (19xx)(-)</description>
+		<rom name="Ballistics (19xx)(-).bs5" size="2167" crc="3d23e073" md5="2109a58ad8f4ee533eeb05d4d938f12e" sha1="c6f1645a0cd5fb8469f32a9798fbd2ae329eea46"/>
+	</game>
+	<game name="Bos5 v0.20 (2003)(Hopkins, Ralph)">
+		<description>Bos5 v0.20 (2003)(Hopkins, Ralph)</description>
+		<rom name="Bos5 v0.20 (2003)(Hopkins, Ralph).bs5" size="27763" crc="b68438a3" md5="0c27ea0deb4d7d3662734d4e1e544d31" sha1="843846d6087bb559b922b011699b90ee3d94ff36"/>
+	</game>
+	<game name="Chess Game (1971)(Edwards, T.)">
+		<description>Chess Game (1971)(Edwards, T.)</description>
+		<rom name="Chess Game (1971)(Edwards, T.).bs5" size="5327" crc="8061d9a3" md5="69e93fc749e8ab780d15b98d15166836" sha1="ab392c8e23032d0c29f83315280e5d6c56b0e61d"/>
+	</game>
+	<game name="Darts (1977)(Case, Steven V.)">
+		<description>Darts (1977)(Case, Steven V.)</description>
+		<rom name="Darts (1977)(Case, Steven V.).bs5" size="2366" crc="d0c431c1" md5="2a3d2e0b9377502da2d2df3393b845a3" sha1="ef4b1966ec164b3a856c93cdb347286c89381860"/>
+	</game>
+	<game name="Dice Game (1978)(MECC)">
+		<description>Dice Game (1978)(MECC)</description>
+		<rom name="Dice Game (1978)(MECC).bs5" size="6417" crc="b921e512" md5="338c01e0d88d3ab0436138a2d08c8c24" sha1="a5d932be0b90fd3ef2650ad88a847cea7d96bebf"/>
+	</game>
+	<game name="Drag Race (1977)(MECC)[h]">
+		<description>Drag Race (1977)(MECC)[h]</description>
+		<rom name="Drag Race (1977)(MECC)[h].bs5" size="4345" crc="5c03b815" md5="0606e96133b286af58a5f108e40325c7" sha1="5e475f9593c19f07f6f0735a8f7595327c90cffd"/>
+	</game>
+	<game name="Fight (1978)(-)">
+		<description>Fight (1978)(-)</description>
+		<rom name="Fight (1978)(-).bs5" size="4491" crc="684039a2" md5="6695dbf06a00cb82eb1d8af98fdb4ba2" sha1="6584e6db41a441c9f98cdaab4f85e1ab9025a252"/>
+	</game>
+	<game name="Football (19xx)(JLL)">
+		<description>Football (19xx)(JLL)</description>
+		<rom name="Football (19xx)(JLL).bs5" size="19174" crc="a2ee13b6" md5="882fed6cda2ae3cb6e1877ce86731a9b" sha1="682e7ba91f40ae4a438392dcbd7b8e46e2c4aaf2"/>
+	</game>
+	<game name="Furs (1977)(MECC)[h]">
+		<description>Furs (1977)(MECC)[h]</description>
+		<rom name="Furs (1977)(MECC)[h].bs5" size="6875" crc="45034875" md5="3e220a9b5bdd2b4b20aee60e41f036c7" sha1="c561640452a7d0b5d956ce314e31a72ccd4eb003"/>
+	</game>
+	<game name="Golfer (19xx)(-)">
+		<description>Golfer (19xx)(-)</description>
+		<rom name="Golfer (19xx)(-).bs5" size="9137" crc="28119aa3" md5="e7cdb2689d9b244307d86c7e73284088" sha1="14022d8965f82d3771125570e7ef5b200206bf1b"/>
+	</game>
+	<game name="Gunner (19xx)(-)">
+		<description>Gunner (19xx)(-)</description>
+		<rom name="Gunner (19xx)(-).bs5" size="2431" crc="c0e02117" md5="14cb05f30733eb123e0ae44ad69f3106" sha1="e1220afcca7f9f8426a465460bf14e94c67e9931"/>
+	</game>
+	<game name="Hockey (1978)(MECC)[h]">
+		<description>Hockey (1978)(MECC)[h]</description>
+		<rom name="Hockey (1978)(MECC)[h].bs5" size="4702" crc="4dce4208" md5="e28d62b140713707005876f8d3537a71" sha1="bbdfcb627159f24246afc0cce841aa4e24cfb795"/>
+	</game>
+	<game name="Hurkle (1977)(MERITSS)">
+		<description>Hurkle (1977)(MERITSS)</description>
+		<rom name="Hurkle (1977)(MERITSS).bs5" size="1397" crc="df1206ad" md5="ed817c48fc0593f830779a340bd09953" sha1="7d4cf4c4091e2631cab73304baaaa443f55eb2a3"/>
+	</game>
+	<game name="Luftwaffe (19xx)(-)">
+		<description>Luftwaffe (19xx)(-)</description>
+		<rom name="Luftwaffe (19xx)(-).bs5" size="7702" crc="d64b9c5c" md5="bc571472ed5b7532cfae91be8d87fef8" sha1="0e80f77ac7f4d025cef7d52e2ae25183e7c04948"/>
+	</game>
+	<game name="Lunar (1977)(MERITSS)">
+		<description>Lunar (1977)(MERITSS)</description>
+		<rom name="Lunar (1977)(MERITSS).bs5" size="5991" crc="ee4b500f" md5="da5f5a090a15fbfcec54c0ee42b3f678" sha1="340290c84cb25376817cf6e5f50e8a01caea8e9e"/>
+	</game>
+	<game name="Lunar (1977)(R.E.H.)">
+		<description>Lunar (1977)(R.E.H.)</description>
+		<rom name="Lunar (1977)(R.E.H.).bs5" size="2406" crc="9aa33514" md5="e7693d47d25f1f80d86c4af79f394c4e" sha1="74a8827f359cf269525f4fe33808c5ca8a00fde2"/>
+	</game>
+	<game name="Lunar Lander (19xx)(-)">
+		<description>Lunar Lander (19xx)(-)</description>
+		<rom name="Lunar Lander (19xx)(-).bs5" size="3145" crc="1c341363" md5="217ef6b102d2e06f26a10521b97845e1" sha1="b924bbb123c7c98cb8609e6f2442464531581506"/>
+	</game>
+	<game name="Lunar Landing Program (1976)(Creative Computing Software)">
+		<description>Lunar Landing Program (1976)(Creative Computing Software)</description>
+		<rom name="Lunar Landing Program (1976)(Creative Computing Software).bs5" size="7371" crc="c65f37a1" md5="ea5ba36c247749fac0919075d9519b7f" sha1="f0c8f96ebb719fecb300936d0cd8cb9cc0cf7ca0"/>
+	</game>
+	<game name="Lunar Module (1977)(R.E.H.)">
+		<description>Lunar Module (1977)(R.E.H.)</description>
+		<rom name="Lunar Module (1977)(R.E.H.).bs5" size="3428" crc="24550b77" md5="feb893aa3fe275cfd4623198a960315c" sha1="92186bbab044482d04c2149dd853c2fd4f2d5c96"/>
+	</game>
+	<game name="Mafia (1977)(R.E.H.)">
+		<description>Mafia (1977)(R.E.H.)</description>
+		<rom name="Mafia (1977)(R.E.H.).bs5" size="7922" crc="e35b8e94" md5="d750c9ed5fe408a6c7e5c15f51e8866e" sha1="44974d1ddc7e9c5fe3f9f5a284c484e48c39d980"/>
+	</game>
+	<game name="Modulo (1977)(R.E.H.)">
+		<description>Modulo (1977)(R.E.H.)</description>
+		<rom name="Modulo (1977)(R.E.H.).bs5" size="2889" crc="df9ae17a" md5="84ca194af2b6d14ef0c6e4356a816646" sha1="3046af4f9e150afe31e1ad8abd3a9f708b644cd6"/>
+	</game>
+	<game name="Nags (1977)(MERITSS)">
+		<description>Nags (1977)(MERITSS)</description>
+		<rom name="Nags (1977)(MERITSS).bs5" size="2745" crc="d07e9471" md5="f424eb8baebd8c553302d6db214b749e" sha1="3478a006f815e823bf10456e3200125712ee4101"/>
+	</game>
+	<game name="NewTrek (1978)(MECC)">
+		<description>NewTrek (1978)(MECC)</description>
+		<rom name="NewTrek (1978)(MECC).bs5" size="10935" crc="02841c9b" md5="3062ad9a54b5ac5ce7df270a91b6c7c0" sha1="16d7bbf4a466fa21af11c555192820b5127e80e4"/>
+	</game>
+	<game name="Number (1977)(People's Computer Company)">
+		<description>Number (1977)(People's Computer Company)</description>
+		<rom name="Number (1977)(People's Computer Company).bs5" size="1311" crc="89f6a42d" md5="7e999f128c61165e5962ea330f704c6e" sha1="1e0f9d603e2e09ef6b29fd261b6abc0e97fc16e5"/>
+	</game>
+	<game name="Poker (19xx)(Vernig, Mike)">
+		<description>Poker (19xx)(Vernig, Mike)</description>
+		<rom name="Poker (19xx)(Vernig, Mike).bs5" size="7540" crc="05de5ed7" md5="38ba0ddb42474e3e5fdc946607b59d6d" sha1="0deb002a4edbf477b93f8fb8833c434b997f6153"/>
+	</game>
+	<game name="Snark (19xx)(People's Computer Company)">
+		<description>Snark (19xx)(People's Computer Company)</description>
+		<rom name="Snark (19xx)(People's Computer Company).bs5" size="2531" crc="5b04fb2c" md5="df8bd7f6638f95cc6a200682eefdfb63" sha1="6fb110da60d9342144cf5b0be7bcef4907948506"/>
+	</game>
+	<game name="Starship Enterprise, The (1977)(MERITSS)">
+		<description>Starship Enterprise, The (1977)(MERITSS)</description>
+		<rom name="Starship Enterprise, The (1977)(MERITSS).bs5" size="7518" crc="49169cd4" md5="193670ad36f4e593cf97e87b6b532ffa" sha1="6129ca4d166d6f01b7d043f52965f40b0b4bf3b2"/>
+	</game>
+</datafile>

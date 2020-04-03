@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo Virtual Boy - Applications</name>
+		<description>Nintendo Virtual Boy - Applications (TOSEC-v2011-08-13)</description>
+		<category>TOSEC</category>
+		<version>2011-08-13</version>
+		<author>Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Etch-A-Sketch (2003)(Daderko, Pat)(PD)">
+		<description>Etch-A-Sketch (2003)(Daderko, Pat)(PD)</description>
+		<rom name="Etch-A-Sketch (2003)(Daderko, Pat)(PD).bin" size="65536" crc="b0c92776" md5="f23ee05a508ad73bf1961586e119cecb" sha1="e404988011048a766c371ed5497a4166799a408e"/>
+	</game>
+</datafile>

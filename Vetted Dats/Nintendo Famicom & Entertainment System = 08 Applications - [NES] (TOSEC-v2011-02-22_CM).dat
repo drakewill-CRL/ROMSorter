@@ -1,0 +1,443 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo Famicom &amp; Entertainment System - Applications - [NES]</name>
+		<description>Nintendo Famicom &amp; Entertainment System - Applications - [NES] (TOSEC-v2011-02-22)</description>
+		<category>TOSEC</category>
+		<version>2011-02-22</version>
+		<author>etabeta - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Cynthi (200x)(-)(PD)">
+		<description>Cynthi (200x)(-)(PD)</description>
+		<rom name="Cynthi (200x)(-)(PD).nes" size="24592" crc="7473b43a" md5="271f89e87e8292d6d3a9fb8b4dfddd5c" sha1="b01a1519ad78640860e134ca0897270470078726"/>
+	</game>
+	<game name="Family BASIC v2.0a (1984-06-21)(Hudson - Nintendo - Sharp)(JP)">
+		<description>Family BASIC v2.0a (1984-06-21)(Hudson - Nintendo - Sharp)(JP)</description>
+		<rom name="Family BASIC v2.0a (1984-06-21)(Hudson - Nintendo - Sharp)(JP).nes" size="40976" crc="234c0c4a" md5="fc1668b428b5012e61e2de204164f24c" sha1="04cf90e200615e652fadedef217e8467be58813c"/>
+	</game>
+	<game name="Family BASIC v2.1a (1984-06-21)(Hudson - Nintendo - Sharp)(JP)">
+		<description>Family BASIC v2.1a (1984-06-21)(Hudson - Nintendo - Sharp)(JP)</description>
+		<rom name="Family BASIC v2.1a (1984-06-21)(Hudson - Nintendo - Sharp)(JP).nes" size="40976" crc="5d7c53e6" md5="b6fd590c5e833e3ab6b8462e40335842" sha1="0bd80a277d6d7ac37df806c79513984d77d6ca64"/>
+	</game>
+	<game name="Family BASIC v3.0 (1985-02-21)(Hudson - Nintendo - Sharp)(JP)">
+		<description>Family BASIC v3.0 (1985-02-21)(Hudson - Nintendo - Sharp)(JP)</description>
+		<rom name="Family BASIC v3.0 (1985-02-21)(Hudson - Nintendo - Sharp)(JP).nes" size="40976" crc="667f6ea6" md5="2ba1dbbb774118eb903465f8e66f92a2" sha1="21620b454c8b1253afc720feb25be9c8132dbfbc"/>
+	</game>
+	<game name="Family BASIC v3.0 (1985-02-21)(Hudson - Nintendo - Sharp)(JP)[b]">
+		<description>Family BASIC v3.0 (1985-02-21)(Hudson - Nintendo - Sharp)(JP)[b]</description>
+		<rom name="Family BASIC v3.0 (1985-02-21)(Hudson - Nintendo - Sharp)(JP)[b].nes" size="40976" crc="bd59f27c" md5="47814cfa4de89fa778284410215693b0" sha1="6473f1fe1a1f434a01d3cc198059f6b3dd14913d"/>
+	</game>
+	<game name="FC Pro Action Rocky Encoder-Decoder (2004)(Covell, Chris - Jamethiel - ReaperSMS)(PD)">
+		<description>FC Pro Action Rocky Encoder-Decoder (2004)(Covell, Chris - Jamethiel - ReaperSMS)(PD)</description>
+		<rom name="FC Pro Action Rocky Encoder-Decoder (2004)(Covell, Chris - Jamethiel - ReaperSMS)(PD).nes" size="24592" crc="0292f7f8" md5="f560ef553d8a37fd17897a191ab9eaf5" sha1="6992f115820264ceaaff988cb4bfbe3c5e35ecc9"/>
+	</game>
+	<game name="Game Genie Decoder Program (1998)(Covell, Chris)(PD)">
+		<description>Game Genie Decoder Program (1998)(Covell, Chris)(PD)</description>
+		<rom name="Game Genie Decoder Program (1998)(Covell, Chris)(PD).nes" size="24592" crc="d3f5c194" md5="9b3f2cb0c0a673baca87125fb3711a34" sha1="a0e4a9a3628c0a70e76c1a5eaae1200fbfe3be4c"/>
+	</game>
+	<game name="GEdit - Graphics Editor (2006)(Celius)(PD)">
+		<description>GEdit - Graphics Editor (2006)(Celius)(PD)</description>
+		<rom name="GEdit - Graphics Editor (2006)(Celius)(PD).nes" size="32784" crc="997fdb4d" md5="c5efe926ae65a53ec2eac2c951b97684" sha1="178e73581164e4d28918cc2b545a6a6d57d7091d"/>
+	</game>
+	<game name="MMC1 Mapper Test v0.01 - CNROM (2006)(Yerrick, Damian)(PD)">
+		<description>MMC1 Mapper Test v0.01 - CNROM (2006)(Yerrick, Damian)(PD)</description>
+		<rom name="MMC1 Mapper Test v0.01 - CNROM (2006)(Yerrick, Damian)(PD).nes" size="65552" crc="7a3b919a" md5="60c04b4ee30729044500d0f5ccdfaacd" sha1="7a464b69f96d2d45dc955508d4d66737547ca9ad"/>
+	</game>
+	<game name="MMC1 Mapper Test v0.01 - SBROM (2006)(Yerrick, Damian)(PD)">
+		<description>MMC1 Mapper Test v0.01 - SBROM (2006)(Yerrick, Damian)(PD)</description>
+		<rom name="MMC1 Mapper Test v0.01 - SBROM (2006)(Yerrick, Damian)(PD).nes" size="131088" crc="3c78484c" md5="0b11bf8a96501cbd8aea83af3487ce86" sha1="df9d12a717a330805d11847bed0881fb3405a029"/>
+	</game>
+	<game name="MMC1 Mapper Test v0.01 - SGROM (2006)(Yerrick, Damian)(PD)">
+		<description>MMC1 Mapper Test v0.01 - SGROM (2006)(Yerrick, Damian)(PD)</description>
+		<rom name="MMC1 Mapper Test v0.01 - SGROM (2006)(Yerrick, Damian)(PD).nes" size="131088" crc="4e49573b" md5="4c41455642536ce2df6c362cfee5fafb" sha1="2d2df9da613f8c253cf6e18d1eac75fd2d1f7c0b"/>
+	</game>
+	<game name="MMC1 Mapper Test v0.01 - UNROM (2006)(Yerrick, Damian)(PD)">
+		<description>MMC1 Mapper Test v0.01 - UNROM (2006)(Yerrick, Damian)(PD)</description>
+		<rom name="MMC1 Mapper Test v0.01 - UNROM (2006)(Yerrick, Damian)(PD).nes" size="131088" crc="5f7ea940" md5="f551c87c8130828de33bc92e41990048" sha1="23559ebafc360e97631c5b6698f444f90095c4c5"/>
+	</game>
+	<game name="MMC1 Mapper Test v0.01 - UNROM V-Mirroring (2006)(Yerrick, Damian)(PD)">
+		<description>MMC1 Mapper Test v0.01 - UNROM V-Mirroring (2006)(Yerrick, Damian)(PD)</description>
+		<rom name="MMC1 Mapper Test v0.01 - UNROM V-Mirroring (2006)(Yerrick, Damian)(PD).nes" size="131088" crc="af8010a6" md5="8a1474d1e674c239db3dac9af4a46f66" sha1="b0956d6c89a3d5c49200ce6be44b5c7585a54972"/>
+	</game>
+	<game name="NES 6502 Branch Timing Test Rom 1 - Branch Basics (2006-04-24)(Blargg)(PD)">
+		<description>NES 6502 Branch Timing Test Rom 1 - Branch Basics (2006-04-24)(Blargg)(PD)</description>
+		<rom name="NES 6502 Branch Timing Test Rom 1 - Branch Basics (2006-04-24)(Blargg)(PD).nes" size="16400" crc="adb5975f" md5="15bfbe7d1246fd163ea529d91d644527" sha1="9867af9d629ca0e72a17bca9581908cadf70e5cd"/>
+	</game>
+	<game name="NES 6502 Branch Timing Test Rom 2 - Backward Branch (2006-04-24)(Blargg)(PD)">
+		<description>NES 6502 Branch Timing Test Rom 2 - Backward Branch (2006-04-24)(Blargg)(PD)</description>
+		<rom name="NES 6502 Branch Timing Test Rom 2 - Backward Branch (2006-04-24)(Blargg)(PD).nes" size="16400" crc="bf21e036" md5="f8f0a8221c68d9fc19b084f535d79fa0" sha1="793ada29e1d6b7edd06dfc49088962c0ac7e2187"/>
+	</game>
+	<game name="NES 6502 Branch Timing Test Rom 3 - Forward Branch (2006-04-24)(Blargg)(PD)">
+		<description>NES 6502 Branch Timing Test Rom 3 - Forward Branch (2006-04-24)(Blargg)(PD)</description>
+		<rom name="NES 6502 Branch Timing Test Rom 3 - Forward Branch (2006-04-24)(Blargg)(PD).nes" size="16400" crc="d1b37df5" md5="d80b5e7dd4fb10d500db14f9cf638ba8" sha1="6dc445b50941792adbf2a1e72c979632bf3b3479"/>
+	</game>
+	<game name="NES 6502 CLI Latency Test Rom (2006-08-29)(Blargg)(PD)">
+		<description>NES 6502 CLI Latency Test Rom (2006-08-29)(Blargg)(PD)</description>
+		<rom name="NES 6502 CLI Latency Test Rom (2006-08-29)(Blargg)(PD).nes" size="16400" crc="2075f7b6" md5="7ce08b33b1f5984217719977e0c44b5f" sha1="547ec6d515b0da54a18f6b27dbb11d6259c8bce1"/>
+	</game>
+	<game name="NES 6502 Timing Test v.4 (2006-09-19)(Blargg)(PD)">
+		<description>NES 6502 Timing Test v.4 (2006-09-19)(Blargg)(PD)</description>
+		<rom name="NES 6502 Timing Test v.4 (2006-09-19)(Blargg)(PD).nes" size="16400" crc="c208eb57" md5="dfc1ffb4047d7d44ee10f49e69047055" sha1="5383071274047155104c9ff6e16472a73a16ccd0"/>
+	</game>
+	<game name="NES APU Frame Counter Test Rom 01 - Length Counter (2005-07-29)(Blargg)(PD)">
+		<description>NES APU Frame Counter Test Rom 01 - Length Counter (2005-07-29)(Blargg)(PD)</description>
+		<rom name="NES APU Frame Counter Test Rom 01 - Length Counter (2005-07-29)(Blargg)(PD).nes" size="16400" crc="9913aa22" md5="c62d94aa57a9dfec1bb85f1be1c2541e" sha1="735b4132d8023d0f62f5ad5ebe71cb3fae86c7a5"/>
+	</game>
+	<game name="NES APU Frame Counter Test Rom 02 - Length Table (2005-07-29)(Blargg)(PD)">
+		<description>NES APU Frame Counter Test Rom 02 - Length Table (2005-07-29)(Blargg)(PD)</description>
+		<rom name="NES APU Frame Counter Test Rom 02 - Length Table (2005-07-29)(Blargg)(PD).nes" size="16400" crc="439652d4" md5="3e1fcb30ec8bfa715bab2f7a767bd5d4" sha1="8dc9f73d889009befca060404d9ac0dc8859fa2f"/>
+	</game>
+	<game name="NES APU Frame Counter Test Rom 03 - IRQ Flag (2005-07-29)(Blargg)(PD)">
+		<description>NES APU Frame Counter Test Rom 03 - IRQ Flag (2005-07-29)(Blargg)(PD)</description>
+		<rom name="NES APU Frame Counter Test Rom 03 - IRQ Flag (2005-07-29)(Blargg)(PD).nes" size="16400" crc="2fbabced" md5="eab549fc98e171ca9f332012fbee0732" sha1="5d9402702b33d226e822dd4a39b9004dcd90b787"/>
+	</game>
+	<game name="NES APU Frame Counter Test Rom 04 - APU Clock Jitter (2005-07-29)(Blargg)(PD)">
+		<description>NES APU Frame Counter Test Rom 04 - APU Clock Jitter (2005-07-29)(Blargg)(PD)</description>
+		<rom name="NES APU Frame Counter Test Rom 04 - APU Clock Jitter (2005-07-29)(Blargg)(PD).nes" size="16400" crc="2b1c31c9" md5="6f088c190a87fac30ab6b398e29a56a0" sha1="3d4b2d66585cff43d63bd0a6e4a668103d70ea2b"/>
+	</game>
+	<game name="NES APU Frame Counter Test Rom 05 - Length Counter Timing In Mode 0 (2005-07-29)(Blargg)(PD)">
+		<description>NES APU Frame Counter Test Rom 05 - Length Counter Timing In Mode 0 (2005-07-29)(Blargg)(PD)</description>
+		<rom name="NES APU Frame Counter Test Rom 05 - Length Counter Timing In Mode 0 (2005-07-29)(Blargg)(PD).nes" size="16400" crc="dcff14b4" md5="5513bfc353f87cdbc50a4dc62ef09ba0" sha1="cff3b8e82c3248265a5a33da52d1fc58f2c0d8a1"/>
+	</game>
+	<game name="NES APU Frame Counter Test Rom 06 - Length Counter Timing In Mode 1 (2005-07-29)(Blargg)(PD)">
+		<description>NES APU Frame Counter Test Rom 06 - Length Counter Timing In Mode 1 (2005-07-29)(Blargg)(PD)</description>
+		<rom name="NES APU Frame Counter Test Rom 06 - Length Counter Timing In Mode 1 (2005-07-29)(Blargg)(PD).nes" size="16400" crc="45890461" md5="8186cadb8cde2e00ead90c451bcb3b3f" sha1="17e45d36426e726a447bf79053f3799dac32e1ef"/>
+	</game>
+	<game name="NES APU Frame Counter Test Rom 07 - IRQ Flag Timing (2005-07-29)(Blargg)(PD)">
+		<description>NES APU Frame Counter Test Rom 07 - IRQ Flag Timing (2005-07-29)(Blargg)(PD)</description>
+		<rom name="NES APU Frame Counter Test Rom 07 - IRQ Flag Timing (2005-07-29)(Blargg)(PD).nes" size="16400" crc="d0c3819b" md5="29963dedd75705a36b13ca0920577073" sha1="7fbd5c094f63d8d0ad9cfb0730e809875bcdace6"/>
+	</game>
+	<game name="NES APU Frame Counter Test Rom 08 - IRQ Timing (2005-07-29)(Blargg)(PD)">
+		<description>NES APU Frame Counter Test Rom 08 - IRQ Timing (2005-07-29)(Blargg)(PD)</description>
+		<rom name="NES APU Frame Counter Test Rom 08 - IRQ Timing (2005-07-29)(Blargg)(PD).nes" size="16400" crc="ed366068" md5="55e8212d3076dd45b45b49389f7136ed" sha1="5b87d2e908ae68348ccb306764ac7ec9067395e3"/>
+	</game>
+	<game name="NES APU Frame Counter Test Rom 09 - Reset Timing (2005-07-29)(Blargg)(PD)">
+		<description>NES APU Frame Counter Test Rom 09 - Reset Timing (2005-07-29)(Blargg)(PD)</description>
+		<rom name="NES APU Frame Counter Test Rom 09 - Reset Timing (2005-07-29)(Blargg)(PD).nes" size="16400" crc="2b2b9da0" md5="e2383d8c2ae1536b3d7c2b3b8efbeedb" sha1="90f543beb740b9a977772dd50dd2443a5f1b9bb2"/>
+	</game>
+	<game name="NES APU Frame Counter Test Rom 10 - Length Counter Halt Timing (2005-07-29)(Blargg)(PD)">
+		<description>NES APU Frame Counter Test Rom 10 - Length Counter Halt Timing (2005-07-29)(Blargg)(PD)</description>
+		<rom name="NES APU Frame Counter Test Rom 10 - Length Counter Halt Timing (2005-07-29)(Blargg)(PD).nes" size="16400" crc="c22814f0" md5="8b650cd7aae224670983bbae088a20cd" sha1="cfe0beb6674c8fff5bcc55d88ab949578b7dc231"/>
+	</game>
+	<game name="NES APU Frame Counter Test Rom 11 - Length Counter Reload Timing (2005-07-29)(Blargg)(PD)">
+		<description>NES APU Frame Counter Test Rom 11 - Length Counter Reload Timing (2005-07-29)(Blargg)(PD)</description>
+		<rom name="NES APU Frame Counter Test Rom 11 - Length Counter Reload Timing (2005-07-29)(Blargg)(PD).nes" size="16400" crc="eb36a8c0" md5="192561b2f42a27cb0ecab99e160e0134" sha1="944fc1e8ff565813b95103190beba41afbbc326d"/>
+	</game>
+	<game name="NES APU Sweep Cutoff Test (2005)(Blargg)(PD)">
+		<description>NES APU Sweep Cutoff Test (2005)(Blargg)(PD)</description>
+		<rom name="NES APU Sweep Cutoff Test (2005)(Blargg)(PD).nes" size="16400" crc="9c859e4b" md5="7518f0ae2d72e07cf746f32ac46ab896" sha1="07d64cff24b3c93d112ee3010bcbf8ab99dfc9d4"/>
+	</game>
+	<game name="NES APU Sweep Subtract Test (2005)(Blargg)(PD)">
+		<description>NES APU Sweep Subtract Test (2005)(Blargg)(PD)</description>
+		<rom name="NES APU Sweep Subtract Test (2005)(Blargg)(PD).nes" size="16400" crc="7dc1e7b2" md5="59df53be2c82e4f59198d060d072f314" sha1="9e3673ffe72a2c44ed8e86858b8fd1181fee884b"/>
+	</game>
+	<game name="NES Test (19xx)(Nintendo)(US)">
+		<description>NES Test (19xx)(Nintendo)(US)</description>
+		<rom name="NES Test (19xx)(Nintendo)(US).nes" size="40976" crc="d035d7d5" md5="62059f21b3ada5fe3efa206bb324d483" sha1="2cb4d0766c3e475ac102cc3c73edf9bf138d435d"/>
+	</game>
+	<game name="NES Test Program v1.3 (1999)(Strangulation Games)(PD)">
+		<description>NES Test Program v1.3 (1999)(Strangulation Games)(PD)</description>
+		<rom name="NES Test Program v1.3 (1999)(Strangulation Games)(PD).nes" size="32784" crc="8ba6e520" md5="300bb024bef9732ed38e22bcdf2bc6db" sha1="a94e61cc9704c037a704ff0fda969d0500ccc07e"/>
+	</game>
+	<game name="NEStress (2002)(Flubba)(PD)">
+		<description>NEStress (2002)(Flubba)(PD)</description>
+		<rom name="NEStress (2002)(Flubba)(PD).nes" size="40976" crc="2a392c67" md5="bf4fa2e511a0e9b3fa8450eb29b023a5" sha1="bd9a5b11a5cf2da07f123f4c19003250968498aa"/>
+	</game>
+	<game name="NEStress (2002)(Flubba)(PD)[a]">
+		<description>NEStress (2002)(Flubba)(PD)[a]</description>
+		<rom name="NEStress (2002)(Flubba)(PD)[a].nes" size="40976" crc="c1d8b4db" md5="fb104ef275033e5f7872a9e2c7aecaaa" sha1="6eee823590c46bc5f598101fe2d2f726972f27b3"/>
+	</game>
+	<game name="NTF2 System Test Cartridge (19xx)(Nintendo)(US)">
+		<description>NTF2 System Test Cartridge (19xx)(Nintendo)(US)</description>
+		<rom name="NTF2 System Test Cartridge (19xx)(Nintendo)(US).nes" size="98320" crc="4b16cc9b" md5="05a2d740026e2be33df7257bee36153b" sha1="739dcc85355ae60079294e6583d61b96b6e7af79"/>
+	</game>
+	<game name="NTF2 Test Cartridge (19xx)(Nintendo)(US)">
+		<description>NTF2 Test Cartridge (19xx)(Nintendo)(US)</description>
+		<rom name="NTF2 Test Cartridge (19xx)(Nintendo)(US).nes" size="40976" crc="c83da16d" md5="b7f132e4fc4c3e328e98f0f0046d8539" sha1="d0c5422f8a964f6c26602bbf011a4966e47fb466"/>
+	</game>
+	<game name="NTSC NES MMC3 IRQ Counter Test Rom 1 - Clocking (2005-10-17)(Blargg)(PD)">
+		<description>NTSC NES MMC3 IRQ Counter Test Rom 1 - Clocking (2005-10-17)(Blargg)(PD)</description>
+		<rom name="NTSC NES MMC3 IRQ Counter Test Rom 1 - Clocking (2005-10-17)(Blargg)(PD).nes" size="16400" crc="51cf10d1" md5="71c349cb3bf683b9c35dcbcbf87f9c20" sha1="88463753245eaa5aa48f9c40b8a7c9db3613011d"/>
+	</game>
+	<game name="NTSC NES MMC3 IRQ Counter Test Rom 2 - Details (2005-10-17)(Blargg)(PD)">
+		<description>NTSC NES MMC3 IRQ Counter Test Rom 2 - Details (2005-10-17)(Blargg)(PD)</description>
+		<rom name="NTSC NES MMC3 IRQ Counter Test Rom 2 - Details (2005-10-17)(Blargg)(PD).nes" size="16400" crc="89f15c7a" md5="2bb7cc00616a19c75cb47b85d8568e65" sha1="c05994e70bcf1eec8f6d2b8eb546a35a4381d678"/>
+	</game>
+	<game name="NTSC NES MMC3 IRQ Counter Test Rom 3 - A12 Clocking (2005-10-17)(Blargg)(PD)">
+		<description>NTSC NES MMC3 IRQ Counter Test Rom 3 - A12 Clocking (2005-10-17)(Blargg)(PD)</description>
+		<rom name="NTSC NES MMC3 IRQ Counter Test Rom 3 - A12 Clocking (2005-10-17)(Blargg)(PD).nes" size="16400" crc="1eb478b7" md5="66d593a541bf9cf705652138928e33cf" sha1="50def4976fafdbd8bda56acd53b595c148eae88a"/>
+	</game>
+	<game name="NTSC NES MMC3 IRQ Counter Test Rom 4 - Scanline Timing (2005-10-17)(Blargg)(PD)">
+		<description>NTSC NES MMC3 IRQ Counter Test Rom 4 - Scanline Timing (2005-10-17)(Blargg)(PD)</description>
+		<rom name="NTSC NES MMC3 IRQ Counter Test Rom 4 - Scanline Timing (2005-10-17)(Blargg)(PD).nes" size="16400" crc="1a3db8dc" md5="48c3a34705b28893af8ef61631eb5326" sha1="fa21e39a65b8484d1a7722458b078cc2b489d8ec"/>
+	</game>
+	<game name="NTSC NES MMC3 IRQ Counter Test Rom 5 - MMC3 Rev A (2005-10-17)(Blargg)(PD)">
+		<description>NTSC NES MMC3 IRQ Counter Test Rom 5 - MMC3 Rev A (2005-10-17)(Blargg)(PD)</description>
+		<rom name="NTSC NES MMC3 IRQ Counter Test Rom 5 - MMC3 Rev A (2005-10-17)(Blargg)(PD).nes" size="16400" crc="1d814d25" md5="207f41e647ab39ad457bd74278166b45" sha1="6d82ac8fab5abdfd346c64b5d894bce8cdbfef0f"/>
+	</game>
+	<game name="NTSC NES MMC3 IRQ Counter Test Rom 6 - MMC3 Rev B (2005-10-17)(Blargg)(PD)">
+		<description>NTSC NES MMC3 IRQ Counter Test Rom 6 - MMC3 Rev B (2005-10-17)(Blargg)(PD)</description>
+		<rom name="NTSC NES MMC3 IRQ Counter Test Rom 6 - MMC3 Rev B (2005-10-17)(Blargg)(PD).nes" size="16400" crc="81a3248d" md5="934b89103711b1ce059a2e4e79c9bf40" sha1="0ae79eb981113d44b73ba0850c00cd89dfa9c27f"/>
+	</game>
+	<game name="NTSC NES PPU Sprite 0 Test Rom 01 - Basics (2005-10-05)(Blargg)(PD)">
+		<description>NTSC NES PPU Sprite 0 Test Rom 01 - Basics (2005-10-05)(Blargg)(PD)</description>
+		<rom name="NTSC NES PPU Sprite 0 Test Rom 01 - Basics (2005-10-05)(Blargg)(PD).nes" size="16400" crc="29d1f367" md5="8a7d3b96cbf8efe55357d5d77dae7f29" sha1="b800642e4f2546ddbd5efd8e7603b7bdbbea781b"/>
+	</game>
+	<game name="NTSC NES PPU Sprite 0 Test Rom 02 - Alignment (2005-10-05)(Blargg)(PD)">
+		<description>NTSC NES PPU Sprite 0 Test Rom 02 - Alignment (2005-10-05)(Blargg)(PD)</description>
+		<rom name="NTSC NES PPU Sprite 0 Test Rom 02 - Alignment (2005-10-05)(Blargg)(PD).nes" size="16400" crc="ffec1bb9" md5="df1d184c6ec33e387106cb266ce7046a" sha1="3c68c0d26f9089b0c2813250bde16bc59cf67a36"/>
+	</game>
+	<game name="NTSC NES PPU Sprite 0 Test Rom 03 - Corners (2005-10-05)(Blargg)(PD)">
+		<description>NTSC NES PPU Sprite 0 Test Rom 03 - Corners (2005-10-05)(Blargg)(PD)</description>
+		<rom name="NTSC NES PPU Sprite 0 Test Rom 03 - Corners (2005-10-05)(Blargg)(PD).nes" size="16400" crc="ee60d82d" md5="242a8a3ab935e19e460150daf5a3ecfa" sha1="e143776628d65a509e30abd52b698cf5594248e6"/>
+	</game>
+	<game name="NTSC NES PPU Sprite 0 Test Rom 04 - Flip (2005-10-05)(Blargg)(PD)">
+		<description>NTSC NES PPU Sprite 0 Test Rom 04 - Flip (2005-10-05)(Blargg)(PD)</description>
+		<rom name="NTSC NES PPU Sprite 0 Test Rom 04 - Flip (2005-10-05)(Blargg)(PD).nes" size="16400" crc="6b385898" md5="56c903f2f5208961c46c8b1f8cc5c696" sha1="29adc4eb2496c0b129c4d77a24963f124a206ffb"/>
+	</game>
+	<game name="NTSC NES PPU Sprite 0 Test Rom 05 - Left Clip (2005-10-05)(Blargg)(PD)">
+		<description>NTSC NES PPU Sprite 0 Test Rom 05 - Left Clip (2005-10-05)(Blargg)(PD)</description>
+		<rom name="NTSC NES PPU Sprite 0 Test Rom 05 - Left Clip (2005-10-05)(Blargg)(PD).nes" size="16400" crc="ca771b4e" md5="cc81943a20e3194c464f84c7c1710f7d" sha1="40ec318805b62be284df2cef9874e0202f5f06b9"/>
+	</game>
+	<game name="NTSC NES PPU Sprite 0 Test Rom 06 - Right Edge (2005-10-05)(Blargg)(PD)">
+		<description>NTSC NES PPU Sprite 0 Test Rom 06 - Right Edge (2005-10-05)(Blargg)(PD)</description>
+		<rom name="NTSC NES PPU Sprite 0 Test Rom 06 - Right Edge (2005-10-05)(Blargg)(PD).nes" size="16400" crc="f13eda45" md5="682b12ffd8e06370aed23f0da6457fcc" sha1="1a1f5d34dd62c9a37ed477cfe8fcf6d9653eeae7"/>
+	</game>
+	<game name="NTSC NES PPU Sprite 0 Test Rom 07 - Screen Bottom (2005-10-05)(Blargg)(PD)">
+		<description>NTSC NES PPU Sprite 0 Test Rom 07 - Screen Bottom (2005-10-05)(Blargg)(PD)</description>
+		<rom name="NTSC NES PPU Sprite 0 Test Rom 07 - Screen Bottom (2005-10-05)(Blargg)(PD).nes" size="16400" crc="cb1fd134" md5="452bfd680d53cbb49dd909671f1c80cd" sha1="ea5d8baf2eae3481ced44c20814916b63af13aae"/>
+	</game>
+	<game name="NTSC NES PPU Sprite 0 Test Rom 08 - Double Height (2005-10-05)(Blargg)(PD)">
+		<description>NTSC NES PPU Sprite 0 Test Rom 08 - Double Height (2005-10-05)(Blargg)(PD)</description>
+		<rom name="NTSC NES PPU Sprite 0 Test Rom 08 - Double Height (2005-10-05)(Blargg)(PD).nes" size="16400" crc="54195b93" md5="93e4991735460767cc4f4105860b0c81" sha1="4dbb6ec6bd9ee140f8e58c2a722015b006fc11d0"/>
+	</game>
+	<game name="NTSC NES PPU Sprite 0 Test Rom 09 - Timing Basics (2005-10-05)(Blargg)(PD)">
+		<description>NTSC NES PPU Sprite 0 Test Rom 09 - Timing Basics (2005-10-05)(Blargg)(PD)</description>
+		<rom name="NTSC NES PPU Sprite 0 Test Rom 09 - Timing Basics (2005-10-05)(Blargg)(PD).nes" size="16400" crc="25f552a9" md5="d92f05d955f37632e3fbfe17a15c8357" sha1="f91a02df922ee6df50d75c0850bd5154707e9281"/>
+	</game>
+	<game name="NTSC NES PPU Sprite 0 Test Rom 10 - Timing Order (2005-10-05)(Blargg)(PD)">
+		<description>NTSC NES PPU Sprite 0 Test Rom 10 - Timing Order (2005-10-05)(Blargg)(PD)</description>
+		<rom name="NTSC NES PPU Sprite 0 Test Rom 10 - Timing Order (2005-10-05)(Blargg)(PD).nes" size="16400" crc="db358005" md5="ecd6aa3decb6b38049cab6f265427b5a" sha1="d39a86a6c8fcd0897190bd06967b167ba1d404b2"/>
+	</game>
+	<game name="NTSC NES PPU Sprite 0 Test Rom 11 - Edge Timing (2005-10-05)(Blargg)(PD)">
+		<description>NTSC NES PPU Sprite 0 Test Rom 11 - Edge Timing (2005-10-05)(Blargg)(PD)</description>
+		<rom name="NTSC NES PPU Sprite 0 Test Rom 11 - Edge Timing (2005-10-05)(Blargg)(PD).nes" size="16400" crc="f3563f6c" md5="ba65d3e380c09802555652bcd0fd18d8" sha1="7a0f623a27edc73581460518615a015f84f2dff5"/>
+	</game>
+	<game name="NTSC NES PPU Sprite Overflow Flag Test Rom 1 - Basics (2006-04-02)(Blargg)(PD)">
+		<description>NTSC NES PPU Sprite Overflow Flag Test Rom 1 - Basics (2006-04-02)(Blargg)(PD)</description>
+		<rom name="NTSC NES PPU Sprite Overflow Flag Test Rom 1 - Basics (2006-04-02)(Blargg)(PD).nes" size="16400" crc="8ab21797" md5="05edd3e35fbc205d42bf57b4555527af" sha1="0964fd1381a493be4b312776dc3df35f2c8a8eb8"/>
+	</game>
+	<game name="NTSC NES PPU Sprite Overflow Flag Test Rom 2 - Details (2006-04-02)(Blargg)(PD)">
+		<description>NTSC NES PPU Sprite Overflow Flag Test Rom 2 - Details (2006-04-02)(Blargg)(PD)</description>
+		<rom name="NTSC NES PPU Sprite Overflow Flag Test Rom 2 - Details (2006-04-02)(Blargg)(PD).nes" size="16400" crc="785d0fe7" md5="af25d08a3c6616c4e44ee78e169dfab7" sha1="178309bde88b45f9fb439f5b024d24c7dc199ebb"/>
+	</game>
+	<game name="NTSC NES PPU Sprite Overflow Flag Test Rom 3 - Timing (2006-04-02)(Blargg)(PD)">
+		<description>NTSC NES PPU Sprite Overflow Flag Test Rom 3 - Timing (2006-04-02)(Blargg)(PD)</description>
+		<rom name="NTSC NES PPU Sprite Overflow Flag Test Rom 3 - Timing (2006-04-02)(Blargg)(PD).nes" size="16400" crc="33840472" md5="7cb5cd3454087e2950abea24f3ce5943" sha1="11d5aa9f1994ec683f600d3acdd354835ba78510"/>
+	</game>
+	<game name="NTSC NES PPU Sprite Overflow Flag Test Rom 4 - Obscure (2006-04-02)(Blargg)(PD)">
+		<description>NTSC NES PPU Sprite Overflow Flag Test Rom 4 - Obscure (2006-04-02)(Blargg)(PD)</description>
+		<rom name="NTSC NES PPU Sprite Overflow Flag Test Rom 4 - Obscure (2006-04-02)(Blargg)(PD).nes" size="16400" crc="5dd6091e" md5="0956dec5a1b2cf94062c544247e8b946" sha1="2029faac4ae18331051a4ddc30c6a2ac7a0e6951"/>
+	</game>
+	<game name="NTSC NES PPU Sprite Overflow Flag Test Rom 5 - Emulator (2006-04-02)(Blargg)(PD)">
+		<description>NTSC NES PPU Sprite Overflow Flag Test Rom 5 - Emulator (2006-04-02)(Blargg)(PD)</description>
+		<rom name="NTSC NES PPU Sprite Overflow Flag Test Rom 5 - Emulator (2006-04-02)(Blargg)(PD).nes" size="16400" crc="796800e2" md5="cf43d0d1b7f821b076333b1f19db325d" sha1="24d08523fd7c1eb46c7177436ad0c7fbed4cf056"/>
+	</game>
+	<game name="NTSC NES PPU Test Rom - Palette RAM (2005-09-15)(Blargg)(PD)">
+		<description>NTSC NES PPU Test Rom - Palette RAM (2005-09-15)(Blargg)(PD)</description>
+		<rom name="NTSC NES PPU Test Rom - Palette RAM (2005-09-15)(Blargg)(PD).nes" size="16400" crc="5d447e3c" md5="2a127cf0cb00e01b676d91d8d2c0ca69" sha1="9e470702ad1466d62245453dc8c6bb50b92c30c2"/>
+	</game>
+	<game name="NTSC NES PPU Test Rom - Power-Up Palette (2005-09-15)(Blargg)(PD)">
+		<description>NTSC NES PPU Test Rom - Power-Up Palette (2005-09-15)(Blargg)(PD)</description>
+		<rom name="NTSC NES PPU Test Rom - Power-Up Palette (2005-09-15)(Blargg)(PD).nes" size="16400" crc="156f41f0" md5="e9d08b6c7df031fcd8c5517ea0d1be2e" sha1="c94523f6cf802a39e78c23dc2c72ae87c7d494f8"/>
+	</game>
+	<game name="NTSC NES PPU Test Rom - Sprite RAM (2005-09-15)(Blargg)(PD)">
+		<description>NTSC NES PPU Test Rom - Sprite RAM (2005-09-15)(Blargg)(PD)</description>
+		<rom name="NTSC NES PPU Test Rom - Sprite RAM (2005-09-15)(Blargg)(PD).nes" size="16400" crc="d8d42111" md5="6d0e53d4b2c4e55ac8f5240f0d283a60" sha1="8969a24819cd951443ad5cabeabee086af986d4e"/>
+	</game>
+	<game name="NTSC NES PPU Test Rom - VBL Flag Clear Time (2005-09-15)(Blargg)(PD)">
+		<description>NTSC NES PPU Test Rom - VBL Flag Clear Time (2005-09-15)(Blargg)(PD)</description>
+		<rom name="NTSC NES PPU Test Rom - VBL Flag Clear Time (2005-09-15)(Blargg)(PD).nes" size="16400" crc="1e381801" md5="5328616e1167f09e6f4693e1b4d737d4" sha1="49b83ff1b7ac03900b3ad6c674be98918768e481"/>
+	</game>
+	<game name="NTSC NES PPU Test Rom - VRAM Access (2005-09-15)(Blargg)(PD)">
+		<description>NTSC NES PPU Test Rom - VRAM Access (2005-09-15)(Blargg)(PD)</description>
+		<rom name="NTSC NES PPU Test Rom - VRAM Access (2005-09-15)(Blargg)(PD).nes" size="16400" crc="ee115c9a" md5="c16f83da71125e995c579da86c8855c3" sha1="c81a649f330e3de4784d94e5ea00b502a207716c"/>
+	</game>
+	<game name="NTSC NES PPU VBL-NMI Timing Test Rom 1 - Frame Basics (2005-11-06)(Blargg)(PD)">
+		<description>NTSC NES PPU VBL-NMI Timing Test Rom 1 - Frame Basics (2005-11-06)(Blargg)(PD)</description>
+		<rom name="NTSC NES PPU VBL-NMI Timing Test Rom 1 - Frame Basics (2005-11-06)(Blargg)(PD).nes" size="16400" crc="e2b19bbd" md5="bef3f85afeab934116d96833793f872e" sha1="6e1faa816c80462f5ee293c1847ee829683ea8a9"/>
+	</game>
+	<game name="NTSC NES PPU VBL-NMI Timing Test Rom 2 - VBL Timing (2005-11-06)(Blargg)(PD)">
+		<description>NTSC NES PPU VBL-NMI Timing Test Rom 2 - VBL Timing (2005-11-06)(Blargg)(PD)</description>
+		<rom name="NTSC NES PPU VBL-NMI Timing Test Rom 2 - VBL Timing (2005-11-06)(Blargg)(PD).nes" size="16400" crc="88f514fd" md5="bacf260496c5ed02e46ac84a7fca16da" sha1="3aef088d11ce1b6b8b2db07aba9aa79b6d8526e3"/>
+	</game>
+	<game name="NTSC NES PPU VBL-NMI Timing Test Rom 3 - Even Odd Frames (2005-11-06)(Blargg)(PD)">
+		<description>NTSC NES PPU VBL-NMI Timing Test Rom 3 - Even Odd Frames (2005-11-06)(Blargg)(PD)</description>
+		<rom name="NTSC NES PPU VBL-NMI Timing Test Rom 3 - Even Odd Frames (2005-11-06)(Blargg)(PD).nes" size="16400" crc="4c79ce25" md5="a9cb62415453cdf097e6f9e52de64f4d" sha1="076a62d6552460e55acd38e5f76f8b9eca22fbfb"/>
+	</game>
+	<game name="NTSC NES PPU VBL-NMI Timing Test Rom 4 - VBL Clear Timing (2005-11-06)(Blargg)(PD)">
+		<description>NTSC NES PPU VBL-NMI Timing Test Rom 4 - VBL Clear Timing (2005-11-06)(Blargg)(PD)</description>
+		<rom name="NTSC NES PPU VBL-NMI Timing Test Rom 4 - VBL Clear Timing (2005-11-06)(Blargg)(PD).nes" size="16400" crc="1dc60f30" md5="591ea6c5b43a4f86195eab03298af0a3" sha1="afd24e18c113309cbc0917c73fdb2c7865511990"/>
+	</game>
+	<game name="NTSC NES PPU VBL-NMI Timing Test Rom 5 - NMI Suppression (2005-11-06)(Blargg)(PD)">
+		<description>NTSC NES PPU VBL-NMI Timing Test Rom 5 - NMI Suppression (2005-11-06)(Blargg)(PD)</description>
+		<rom name="NTSC NES PPU VBL-NMI Timing Test Rom 5 - NMI Suppression (2005-11-06)(Blargg)(PD).nes" size="16400" crc="9057d781" md5="ef34f7998e1fcf20f8e83c01ed7d5364" sha1="8328a1af2a256290f8673c3e94809ad729c60ea6"/>
+	</game>
+	<game name="NTSC NES PPU VBL-NMI Timing Test Rom 6 - NMI Disable (2005-11-06)(Blargg)(PD)">
+		<description>NTSC NES PPU VBL-NMI Timing Test Rom 6 - NMI Disable (2005-11-06)(Blargg)(PD)</description>
+		<rom name="NTSC NES PPU VBL-NMI Timing Test Rom 6 - NMI Disable (2005-11-06)(Blargg)(PD).nes" size="16400" crc="365d200a" md5="1734c322b6a946e11182907d4d4714f2" sha1="ecadba96d496bbca195cf406102dc536ce6ba4d3"/>
+	</game>
+	<game name="NTSC NES PPU VBL-NMI Timing Test Rom 7 - NMI Timing (2005-11-06)(Blargg)(PD)">
+		<description>NTSC NES PPU VBL-NMI Timing Test Rom 7 - NMI Timing (2005-11-06)(Blargg)(PD)</description>
+		<rom name="NTSC NES PPU VBL-NMI Timing Test Rom 7 - NMI Timing (2005-11-06)(Blargg)(PD).nes" size="16400" crc="343d26c4" md5="339422e0a5ab2f04e26637d831a624df" sha1="0550a02eae7abcb676887fb8a414f4787434d7b8"/>
+	</game>
+	<game name="NTSC NES Test Rom 01 - Line Phase (2006-03-11)(Blargg)(PD)">
+		<description>NTSC NES Test Rom 01 - Line Phase (2006-03-11)(Blargg)(PD)</description>
+		<rom name="NTSC NES Test Rom 01 - Line Phase (2006-03-11)(Blargg)(PD).nes" size="16400" crc="c0e7158d" md5="b2e41b5653e3fa70de8aa229eea22e4a" sha1="c19524e541f14a97bc8f1c5a9a697adf7deda54c"/>
+	</game>
+	<game name="NTSC NES Test Rom 02 - Frame Phase (2006-03-11)(Blargg)(PD)">
+		<description>NTSC NES Test Rom 02 - Frame Phase (2006-03-11)(Blargg)(PD)</description>
+		<rom name="NTSC NES Test Rom 02 - Frame Phase (2006-03-11)(Blargg)(PD).nes" size="16400" crc="9b8f6433" md5="35b12b88cab938feb84fbeda98895ed3" sha1="65ccaca8bc84e7aefda2d4cc613bbdd34b448689"/>
+	</game>
+	<game name="NTSC NES Test Rom 03 - Special Frame Phase (2006-03-11)(Blargg)(PD)">
+		<description>NTSC NES Test Rom 03 - Special Frame Phase (2006-03-11)(Blargg)(PD)</description>
+		<rom name="NTSC NES Test Rom 03 - Special Frame Phase (2006-03-11)(Blargg)(PD).nes" size="16400" crc="c268b0cb" md5="71d2e0d8e509b46c52dc0f3b8c91ab9a" sha1="c8d1694d3c0c1bc54e50db129299a86b51066223"/>
+	</game>
+	<game name="Overtest - Overflow Flag Test (2001-10-19)(Bridgewater, Alastair)(PD)">
+		<description>Overtest - Overflow Flag Test (2001-10-19)(Bridgewater, Alastair)(PD)</description>
+		<rom name="Overtest - Overflow Flag Test (2001-10-19)(Bridgewater, Alastair)(PD).nes" size="16400" crc="c75e30a7" md5="07681e973f17cbfc5163ca81aa8ad3b3" sha1="d90f4a9b2a7adbebe5901552bfd69567cf256bf1"/>
+	</game>
+	<game name="PAL NES APU Test Rom 01 - Length Counter (2006-09-25)(Blargg)(PD)">
+		<description>PAL NES APU Test Rom 01 - Length Counter (2006-09-25)(Blargg)(PD)</description>
+		<rom name="PAL NES APU Test Rom 01 - Length Counter (2006-09-25)(Blargg)(PD).nes" size="16400" crc="197825a1" md5="6342f6e897d25f227b447d4085db610d" sha1="b604c02d588ebdceb826d23a8a1a044d5b85127b"/>
+	</game>
+	<game name="PAL NES APU Test Rom 02 - Length Table (2006-09-25)(Blargg)(PD)">
+		<description>PAL NES APU Test Rom 02 - Length Table (2006-09-25)(Blargg)(PD)</description>
+		<rom name="PAL NES APU Test Rom 02 - Length Table (2006-09-25)(Blargg)(PD).nes" size="16400" crc="4fb3680a" md5="c8d88571cd85032514560658e4f7e1df" sha1="6073b62aac261e85c9b39ef3f3475f652a281c0e"/>
+	</game>
+	<game name="PAL NES APU Test Rom 03 - IRQ Flag (2006-09-25)(Blargg)(PD)">
+		<description>PAL NES APU Test Rom 03 - IRQ Flag (2006-09-25)(Blargg)(PD)</description>
+		<rom name="PAL NES APU Test Rom 03 - IRQ Flag (2006-09-25)(Blargg)(PD).nes" size="16400" crc="8ff332cb" md5="a162807aa045fedec8d92a3c679f4fc1" sha1="6104ffafa81e415b41eead74dab86a7e94f168fa"/>
+	</game>
+	<game name="PAL NES APU Test Rom 04 - APU Clock Jitter (2006-09-25)(Blargg)(PD)">
+		<description>PAL NES APU Test Rom 04 - APU Clock Jitter (2006-09-25)(Blargg)(PD)</description>
+		<rom name="PAL NES APU Test Rom 04 - APU Clock Jitter (2006-09-25)(Blargg)(PD).nes" size="16400" crc="8a28c4ae" md5="628f15516cb14d4b487bf6f171e6bfc3" sha1="9bb1dc93fb3a3ce639c31674a5e8ab62b52e71b6"/>
+	</game>
+	<game name="PAL NES APU Test Rom 05 - Length Counter Timing In Mode 0 (2006-09-25)(Blargg)(PD)">
+		<description>PAL NES APU Test Rom 05 - Length Counter Timing In Mode 0 (2006-09-25)(Blargg)(PD)</description>
+		<rom name="PAL NES APU Test Rom 05 - Length Counter Timing In Mode 0 (2006-09-25)(Blargg)(PD).nes" size="16400" crc="5c9fe408" md5="e20d4a5e7c29f3fb6e18b3b522f00210" sha1="13a6b98151a0a82070ea0ed4135cef430182f216"/>
+	</game>
+	<game name="PAL NES APU Test Rom 06 - Length Counter Timing In Mode 1 (2006-09-25)(Blargg)(PD)">
+		<description>PAL NES APU Test Rom 06 - Length Counter Timing In Mode 1 (2006-09-25)(Blargg)(PD)</description>
+		<rom name="PAL NES APU Test Rom 06 - Length Counter Timing In Mode 1 (2006-09-25)(Blargg)(PD).nes" size="16400" crc="5e95f6d6" md5="986864710f958fd6c15745b047d6b8a6" sha1="c37d2abb43215fdb466bdeba3bf4e3feac40c36d"/>
+	</game>
+	<game name="PAL NES APU Test Rom 07 - IRQ Flag Timing (2006-09-25)(Blargg)(PD)">
+		<description>PAL NES APU Test Rom 07 - IRQ Flag Timing (2006-09-25)(Blargg)(PD)</description>
+		<rom name="PAL NES APU Test Rom 07 - IRQ Flag Timing (2006-09-25)(Blargg)(PD).nes" size="16400" crc="2c1b654f" md5="692e445303b7cabd881fc8a195728247" sha1="0a229da2cea459701347123056de1af783ef54ef"/>
+	</game>
+	<game name="PAL NES APU Test Rom 08 - IRQ Timing (2006-09-25)(Blargg)(PD)">
+		<description>PAL NES APU Test Rom 08 - IRQ Timing (2006-09-25)(Blargg)(PD)</description>
+		<rom name="PAL NES APU Test Rom 08 - IRQ Timing (2006-09-25)(Blargg)(PD).nes" size="16400" crc="630c3e0f" md5="9674cdcfb8626c152c5c20867e302cfb" sha1="0afbb98906c35ccc67302ea53a182a9587e6c137"/>
+	</game>
+	<game name="PAL NES APU Test Rom 10 - Length Counter Halt Timing (2006-09-25)(Blargg)(PD)">
+		<description>PAL NES APU Test Rom 10 - Length Counter Halt Timing (2006-09-25)(Blargg)(PD)</description>
+		<rom name="PAL NES APU Test Rom 10 - Length Counter Halt Timing (2006-09-25)(Blargg)(PD).nes" size="16400" crc="25da3af8" md5="0342b943dc0057344d8803fa8e680b62" sha1="c867853d6ddd003e0d52b762c0ba8e114c85b605"/>
+	</game>
+	<game name="PAL NES APU Test Rom 11 - Length Counter Reload Timing (2006-09-25)(Blargg)(PD)">
+		<description>PAL NES APU Test Rom 11 - Length Counter Reload Timing (2006-09-25)(Blargg)(PD)</description>
+		<rom name="PAL NES APU Test Rom 11 - Length Counter Reload Timing (2006-09-25)(Blargg)(PD).nes" size="16400" crc="6c7c9276" md5="900e54da41fc98d4da70245aabb7c157" sha1="734bcd5db7de2b5a4654c7fea3c4440d2109270f"/>
+	</game>
+	<game name="Playbox BASIC (198x)(Hudson - Nintendo - Sharp)(JP)(proto)">
+		<description>Playbox BASIC (198x)(Hudson - Nintendo - Sharp)(JP)(proto)</description>
+		<rom name="Playbox BASIC (198x)(Hudson - Nintendo - Sharp)(JP)(proto).nes" size="40976" crc="765b9302" md5="8d31fb1cf701a4321d4a1ec34dcfa960" sha1="7fad08d0b3e770edf7c060211ad74da2a176e27e"/>
+	</game>
+	<game name="Power Pad Test Program (2000)(Repulse)(PD)">
+		<description>Power Pad Test Program (2000)(Repulse)(PD)</description>
+		<rom name="Power Pad Test Program (2000)(Repulse)(PD).nes" size="16400" crc="343e3dc6" md5="79c25d381e253693d4a8da16c96f80d4" sha1="e0457a28d9f7d00efedb10961106fdc615702f08"/>
+	</game>
+	<game name="Reflex Timer (2006)(Blargg)(PD)">
+		<description>Reflex Timer (2006)(Blargg)(PD)</description>
+		<rom name="Reflex Timer (2006)(Blargg)(PD).nes" size="16400" crc="8d8d9661" md5="da68d23d0875bd8fa0d1bdea4244bc4b" sha1="ef9c7cac4b11a2c1812b95a33c94d11a8275e9f5"/>
+	</game>
+	<game name="Sound Test (2000)(SnowBro)(PD)">
+		<description>Sound Test (2000)(SnowBro)(PD)</description>
+		<rom name="Sound Test (2000)(SnowBro)(PD).nes" size="24592" crc="aa0ebf04" md5="35486e17ab4111c98c96780703f1824d" sha1="9aab02792465e3fd3dcb8c89596a2d92b7f21612"/>
+	</game>
+	<game name="Sprite 0 Hit Timing Test Rom (2005-10-04)(Blargg)(PD)">
+		<description>Sprite 0 Hit Timing Test Rom (2005-10-04)(Blargg)(PD)</description>
+		<rom name="Sprite 0 Hit Timing Test Rom (2005-10-04)(Blargg)(PD).nes" size="16400" crc="742ef812" md5="1dc9d603113e3ba5d7c7df0a41ded8f1" sha1="74b32713cc82e184d3ab5ef032f1785260782678"/>
+	</game>
+	<game name="Sprite 0 Test (2000)(Yerrick, Damian)(PD)">
+		<description>Sprite 0 Test (2000)(Yerrick, Damian)(PD)</description>
+		<rom name="Sprite 0 Test (2000)(Yerrick, Damian)(PD).nes" size="24592" crc="4994d3fd" md5="7b952108267154cdd7213af3b1b904a6" sha1="0afb855f9cfc1e990fe33789b75c872aad7b3955"/>
+	</game>
+	<game name="Testing Demo (1998)(Bitmaster)(PD)[buzz]">
+		<description>Testing Demo (1998)(Bitmaster)(PD)[buzz]</description>
+		<rom name="Testing Demo (1998)(Bitmaster)(PD)[buzz].nes" size="40976" crc="11cebbd1" md5="e27f02e306b5f52bed7fbcbe66f2406d" sha1="8941b89c4d925b0c49c9ff9a62b522f5c3082114"/>
+	</game>
+	<game name="Testing Demo 2 (1999)(Bitmaster)(PD)[variable pitch buzz]">
+		<description>Testing Demo 2 (1999)(Bitmaster)(PD)[variable pitch buzz]</description>
+		<rom name="Testing Demo 2 (1999)(Bitmaster)(PD)[variable pitch buzz].nes" size="40976" crc="a558eec8" md5="85483e31746683f73bcefae1c0ab95d6" sha1="caccf9b1c10645254ac89dcaa1b82f454d6188d0"/>
+	</game>
+	<game name="Testing Demo 3 (1999)(Bitmaster)(PD)">
+		<description>Testing Demo 3 (1999)(Bitmaster)(PD)</description>
+		<rom name="Testing Demo 3 (1999)(Bitmaster)(PD).nes" size="40976" crc="eec6b309" md5="582a3950ecce2cc6ebe9adf8f259c564" sha1="50bea7a3a7c655d756b02da532065eea086cfff8"/>
+	</game>
+	<game name="Testing Demo 4 (1999)(Bitmaster)(PD)[text]">
+		<description>Testing Demo 4 (1999)(Bitmaster)(PD)[text]</description>
+		<rom name="Testing Demo 4 (1999)(Bitmaster)(PD)[text].nes" size="24592" crc="e12487d2" md5="b4c862ac289a0941d937fa7e793913c2" sha1="bfb18660bedee5f5b87de66e5c11b22d4cfee410"/>
+	</game>
+	<game name="Testing Demo 5 (1999)(Bitmaster)(PD)[text]">
+		<description>Testing Demo 5 (1999)(Bitmaster)(PD)[text]</description>
+		<rom name="Testing Demo 5 (1999)(Bitmaster)(PD)[text].nes" size="40976" crc="b46fcd38" md5="41715807ddc0edf91b8f5c183a4b9434" sha1="9b815cdae51ea706a1a874bfbe3e785c56e4969d"/>
+	</game>
+	<game name="Testing Demo 6 (1999)(Bitmaster)(PD)[scrolling text]">
+		<description>Testing Demo 6 (1999)(Bitmaster)(PD)[scrolling text]</description>
+		<rom name="Testing Demo 6 (1999)(Bitmaster)(PD)[scrolling text].nes" size="24592" crc="9c27be9b" md5="c66ccbd62498e25ffb8b6067f4d18d98" sha1="c1b06c853335391e7ec33594a1ad72d7e3fc29df"/>
+	</game>
+	<game name="Testing Demo 6 Fixed (1999)(Bitmaster)(PD)[scrolling text]">
+		<description>Testing Demo 6 Fixed (1999)(Bitmaster)(PD)[scrolling text]</description>
+		<rom name="Testing Demo 6 Fixed (1999)(Bitmaster)(PD)[scrolling text].nes" size="24592" crc="ba5c082f" md5="08757e628154db7341c02f0691e13234" sha1="098d0ce6184acfbf521549fe43a58daad90d3f11"/>
+	</game>
+	<game name="Time Latency Test (2006)(Blargg)(PD)">
+		<description>Time Latency Test (2006)(Blargg)(PD)</description>
+		<rom name="Time Latency Test (2006)(Blargg)(PD).nes" size="24592" crc="d17b7662" md5="3bb486b0f8ea1c020897adc7342f3792" sha1="cad9de52e532e90ef94cee11d836fa57b9999ce5"/>
+	</game>
+	<game name="Turbo Checker (2005)(Quietust)(PD)">
+		<description>Turbo Checker (2005)(Quietust)(PD)</description>
+		<rom name="Turbo Checker (2005)(Quietust)(PD).nes" size="24592" crc="374be575" md5="760f11191ffb74bee40873cd97919199" sha1="459f60b7e18ed69834a9d4fca0f5ce3c36dc8faf"/>
+	</game>
+	<game name="U-Force Test Cartridge (199x)(Broderbound)(US)">
+		<description>U-Force Test Cartridge (199x)(Broderbound)(US)</description>
+		<rom name="U-Force Test Cartridge (199x)(Broderbound)(US).nes" size="40976" crc="090c7b00" md5="ceb1b28b8ae5cbe9cec1c2b682613831" sha1="cc89164059d820006c4c6e6b39cd691bd2b4aa7f"/>
+	</game>
+	<game name="World Class Service - Control Deck Test Cartridge (19xx)(Nintendo)(US)">
+		<description>World Class Service - Control Deck Test Cartridge (19xx)(Nintendo)(US)</description>
+		<rom name="World Class Service - Control Deck Test Cartridge (19xx)(Nintendo)(US).nes" size="24592" crc="a593cfb5" md5="331404435c6039703101ffa9bc0bb3d0" sha1="dff083670731b75423a77153ad196c97fbeb0e01"/>
+	</game>
+	<game name="World Class Service - Control Deck Test Cartridge (19xx)(Nintendo)(US)[h][iNES title]">
+		<description>World Class Service - Control Deck Test Cartridge (19xx)(Nintendo)(US)[h][iNES title]</description>
+		<rom name="World Class Service - Control Deck Test Cartridge (19xx)(Nintendo)(US)[h][iNES title].nes" size="41103" crc="4fa23897" md5="638542640cd01029b41b910a345d7026" sha1="a4877d366de2a0264c56369fb520e39a40612fc5"/>
+	</game>
+	<game name="World Class Service - Control Deck Test Cartridge (19xx)(Nintendo)(US)[o]">
+		<description>World Class Service - Control Deck Test Cartridge (19xx)(Nintendo)(US)[o]</description>
+		<rom name="World Class Service - Control Deck Test Cartridge (19xx)(Nintendo)(US)[o].nes" size="40976" crc="cc4126d5" md5="4ac1600f9bf9b00f2211bd1d56597731" sha1="c23c64a4a02e84a6750e7051db779796bb36534a"/>
+	</game>
+	<game name="World Class Service - Joystick Test Cartridge (19xx)(Nintendo)(US)">
+		<description>World Class Service - Joystick Test Cartridge (19xx)(Nintendo)(US)</description>
+		<rom name="World Class Service - Joystick Test Cartridge (19xx)(Nintendo)(US).nes" size="24592" crc="af95b313" md5="e7d1d81ecf597d972233446f8c470df0" sha1="7eca9c48564428ab7c696817c4c139511c89f63a"/>
+	</game>
+	<game name="World Class Service - Port Test Cartridge (19xx)(Nintendo)(US)">
+		<description>World Class Service - Port Test Cartridge (19xx)(Nintendo)(US)</description>
+		<rom name="World Class Service - Port Test Cartridge (19xx)(Nintendo)(US).nes" size="32784" crc="e44a32c4" md5="c776f417a93b5b85c15d65a4ba43fea6" sha1="a30f7cdc60ae696b65e56034e4b1521ab38d8dc9"/>
+	</game>
+	<game name="World Class Service - Power Pad Test Cartridge (19xx)(Nintendo)(US)">
+		<description>World Class Service - Power Pad Test Cartridge (19xx)(Nintendo)(US)</description>
+		<rom name="World Class Service - Power Pad Test Cartridge (19xx)(Nintendo)(US).nes" size="24592" crc="15c81bcf" md5="a8eb448cfb5db4eccf4d47715670fbf1" sha1="ea3e4a91fc7536961afb0b2200bac215faeeebd6"/>
+	</game>
+</datafile>

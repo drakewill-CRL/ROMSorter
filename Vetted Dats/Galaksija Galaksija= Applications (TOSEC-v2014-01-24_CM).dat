@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Galaksija Galaksija - Applications</name>
+		<description>Galaksija Galaksija - Applications (TOSEC-v2014-01-24)</description>
+		<category>TOSEC</category>
+		<version>2014-01-24</version>
+		<author>TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Monitor (19xx)(Voja, Antonic)(YU)(en)">
+		<description>Monitor (19xx)(Voja, Antonic)(YU)(en)</description>
+		<rom name="Monitor (19xx)(Voja, Antonic)(YU)(en).gtp" size="2073" crc="f22eceb3" md5="1503d356c032c7581c703af37b79d665" sha1="c9830a9d419681b9f345b44b091c0d82d4239a08"/>
+	</game>
+	<game name="Pozivni Znak (19xx)(Vujkov, Dragan)(YU)">
+		<description>Pozivni Znak (19xx)(Vujkov, Dragan)(YU)</description>
+		<rom name="Pozivni Znak (19xx)(Vujkov, Dragan)(YU).gtp" size="414" crc="2d7273a3" md5="7206c705ce591f2124361a3599a26342" sha1="694c770409781f96b422a5b55f9222700fa08531"/>
+	</game>
+	<game name="Sintesajzer (19xx)(Vujkov, Dragan)(YU)">
+		<description>Sintesajzer (19xx)(Vujkov, Dragan)(YU)</description>
+		<rom name="Sintesajzer (19xx)(Vujkov, Dragan)(YU).gtp" size="901" crc="f747478d" md5="e1342ea3b0b9c27256790a862425e9e1" sha1="51b9f20f154f5631fbee88c6df906c95f8929de6"/>
+	</game>
+</datafile>

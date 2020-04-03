@@ -53,6 +53,7 @@
             this.button20 = new System.Windows.Forms.Button();
             this.button21 = new System.Windows.Forms.Button();
             this.button22 = new System.Windows.Forms.Button();
+            this.button23 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // button1
@@ -97,7 +98,7 @@
             // 
             // button4
             // 
-            this.button4.Location = new System.Drawing.Point(39, 211);
+            this.button4.Location = new System.Drawing.Point(42, 251);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(110, 29);
             this.button4.TabIndex = 3;
@@ -107,7 +108,7 @@
             // 
             // button5
             // 
-            this.button5.Location = new System.Drawing.Point(39, 350);
+            this.button5.Location = new System.Drawing.Point(39, 374);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(121, 58);
             this.button5.TabIndex = 4;
@@ -147,7 +148,7 @@
             // 
             // button9
             // 
-            this.button9.Location = new System.Drawing.Point(43, 308);
+            this.button9.Location = new System.Drawing.Point(42, 342);
             this.button9.Name = "button9";
             this.button9.Size = new System.Drawing.Size(116, 26);
             this.button9.TabIndex = 8;
@@ -167,7 +168,7 @@
             // 
             // button11
             // 
-            this.button11.Location = new System.Drawing.Point(39, 246);
+            this.button11.Location = new System.Drawing.Point(42, 286);
             this.button11.Name = "button11";
             this.button11.Size = new System.Drawing.Size(120, 48);
             this.button11.TabIndex = 10;
@@ -193,6 +194,7 @@
             this.button13.TabIndex = 12;
             this.button13.Text = "Load Console Dats (Fast)";
             this.button13.UseVisualStyleBackColor = true;
+            this.button13.Visible = false;
             this.button13.Click += new System.EventHandler(this.button13_Click);
             // 
             // button14
@@ -203,6 +205,7 @@
             this.button14.TabIndex = 13;
             this.button14.Text = "Load Console Dats (High Integrity)";
             this.button14.UseVisualStyleBackColor = true;
+            this.button14.Visible = false;
             this.button14.Click += new System.EventHandler(this.button14_Click);
             // 
             // lblTestStatus
@@ -222,6 +225,7 @@
             this.button15.TabIndex = 15;
             this.button15.Text = "Load Single Console Dats (High Integrity)";
             this.button15.UseVisualStyleBackColor = true;
+            this.button15.Visible = false;
             this.button15.Click += new System.EventHandler(this.button15_Click);
             // 
             // button16
@@ -272,6 +276,7 @@
             this.button20.TabIndex = 20;
             this.button20.Text = "Load Single Disc Dat";
             this.button20.UseVisualStyleBackColor = true;
+            this.button20.Visible = false;
             this.button20.Click += new System.EventHandler(this.button20_Click);
             // 
             // button21
@@ -294,11 +299,22 @@
             this.button22.UseVisualStyleBackColor = true;
             this.button22.Click += new System.EventHandler(this.button22_Click);
             // 
+            // button23
+            // 
+            this.button23.Location = new System.Drawing.Point(39, 176);
+            this.button23.Name = "button23";
+            this.button23.Size = new System.Drawing.Size(125, 37);
+            this.button23.TabIndex = 23;
+            this.button23.Text = "Load All Data Autodetect";
+            this.button23.UseVisualStyleBackColor = true;
+            this.button23.Click += new System.EventHandler(this.button23_Click);
+            // 
             // TestForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.button23);
             this.Controls.Add(this.button22);
             this.Controls.Add(this.button21);
             this.Controls.Add(this.button20);
@@ -356,5 +372,6 @@
         private System.Windows.Forms.Button button20;
         private System.Windows.Forms.Button button21;
         private System.Windows.Forms.Button button22;
+        private System.Windows.Forms.Button button23;
     }
 }

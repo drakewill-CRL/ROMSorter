@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Exelvision EXL100 - Games - [ROM]</name>
+		<description>Exelvision EXL100 - Games - [ROM] (TOSEC-v2014-01-24)</description>
+		<category>TOSEC</category>
+		<version>2014-01-24</version>
+		<author>TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Capitaine Menkar (198x)(Exelvision)(FR)">
+		<description>Capitaine Menkar (198x)(Exelvision)(FR)</description>
+		<rom name="Capitaine Menkar (198x)(Exelvision)(FR).rom" size="16384" crc="4e44c913" md5="7d4c9e640174b68c17172ec65caf7356" sha1="38533b3ff84320c28c02f57819420f5bec38c137"/>
+	</game>
+	<game name="Guppy (198x)(Exelvision)(FR)">
+		<description>Guppy (198x)(Exelvision)(FR)</description>
+		<rom name="Guppy (198x)(Exelvision)(FR).rom" size="8192" crc="c3a3e6d9" md5="6ecf861d957ef58e8d4960867d68ec9b" sha1="29747fc1d3e0d86704ee8f7d05baaf8086f2f176"/>
+	</game>
+	<game name="Tennis (198x)(Exelvision)(FR)">
+		<description>Tennis (198x)(Exelvision)(FR)</description>
+		<rom name="Tennis (198x)(Exelvision)(FR).rom" size="32256" crc="fd2b49e2" md5="016547e8f1bac57d8814c99b656625d5" sha1="807f5ae71c9dbb1376d4a64e4ca1d9c24a376290"/>
+	</game>
+	<game name="Virus (198x)(Exelvision)(FR)">
+		<description>Virus (198x)(Exelvision)(FR)</description>
+		<rom name="Virus (198x)(Exelvision)(FR).rom" size="16384" crc="cf1df2a4" md5="ac0848842e89f6edcdae75a18dc6d5a5" sha1="21031068425fb6875c28398634d3c58facdd1fef"/>
+	</game>
+	<game name="Wizord (198x)(Exelvision)(FR)">
+		<description>Wizord (198x)(Exelvision)(FR)</description>
+		<rom name="Wizord (198x)(Exelvision)(FR).rom" size="8192" crc="5ed04a2c" md5="5440657df5b0cace2386b8bddb2664a6" sha1="5338e5e34613ca73ee42b4a76348e9f5fa6ecb0b"/>
+	</game>
+</datafile>

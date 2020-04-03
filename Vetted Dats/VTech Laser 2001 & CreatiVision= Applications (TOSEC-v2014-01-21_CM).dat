@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>VTech Laser 2001 &amp; CreatiVision - Applications</name>
+		<description>VTech Laser 2001 &amp; CreatiVision - Applications (TOSEC-v2014-01-21)</description>
+		<category>TOSEC</category>
+		<version>2014-01-21</version>
+		<author>Sea7 - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="CreatiVision BASIC Interpreter v1.0 (1981)(VTL)">
+		<description>CreatiVision BASIC Interpreter v1.0 (1981)(VTL)</description>
+		<rom name="CreatiVision BASIC Interpreter v1.0 (1981)(VTL).bin" size="12288" crc="10409a1d" md5="0e43eb5caf9c0128998d04e033016556" sha1="5226bc0fa08f1046179572ed602ce157959bf92f"/>
+	</game>
+	<game name="Music Maker (1983)(VTL)">
+		<description>Music Maker (1983)(VTL)</description>
+		<rom name="Music Maker (1983)(VTL).bin" size="12288" crc="f8383d33" md5="c19cbb873193f6441ff793b82a5ec19c" sha1="d1eb8c679310b8988ac4d018853b979613508b0e"/>
+	</game>
+</datafile>

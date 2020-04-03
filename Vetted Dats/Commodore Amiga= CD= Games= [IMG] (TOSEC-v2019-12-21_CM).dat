@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore Amiga - CD - Games - [IMG]</name>
+		<description>Commodore Amiga - CD - Games - [IMG] (TOSEC-v2019-12-21)</description>
+		<category>TOSEC</category>
+		<version>2019-12-21</version>
+		<author>Tomse - TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game  name="T-Zer0 (1999)(Clickboom)">
+		<description>T-Zer0 (1999)(Clickboom)</description>
+		<rom name="T-Zer0 (1999)(Clickboom).ccd" size="3625" crc="f5816050" md5="f90910516df46d7462866b2dd6c3d7ee" sha1="3de414e2069219810d4807022c22f1034d7b9b72"/>
+		<rom name="T-Zer0 (1999)(Clickboom).cue" size="1048" crc="1042b556" md5="c361ef734b1580318a8972307f0ca21f" sha1="64b5769d01942f0d33bb8a4e7ca918ee2d18af32"/>
+		<rom name="T-Zer0 (1999)(Clickboom).img" size="726250560" crc="30420f4f" md5="6517b34a18526c1b8315e4ad9d55e7b6" sha1="c500c8aea489dc2241033ec2becb3bb15bbf8590"/>
+		<rom name="T-Zer0 (1999)(Clickboom).sub" size="29642880" crc="8469dca0" md5="9d368fb494165212c745c814c59dbac9" sha1="d1dd6d6b699f3a5d493559b3b24406d01e88f396"/>
+	</game>
+</datafile>

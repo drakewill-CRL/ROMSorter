@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Applications - Test Disks - [LNX]</name>
+		<description>Commodore C64 - Applications - Test Disks - [LNX] (TOSEC-v2018-12-12)</description>
+		<category>TOSEC</category>
+		<version>2018-12-12</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="TD64Test (19xx)(-)">
+		<description>TD64Test (19xx)(-)</description>
+		<rom name="TD64Test (19xx)(-).lnx" size="152908" crc="035f3acb" md5="d817de5ff808e76d8edb99f4df9d1c2f" sha1="bbdf997c59f11975c0df97e5dc9af6b03391db35"/>
+	</game>
+</datafile>

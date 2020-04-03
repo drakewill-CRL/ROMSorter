@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Luxor ABC 800 - Demos - [BAS]</name>
+		<description>Luxor ABC 800 - Demos - [BAS] (TOSEC-v2011-02-22)</description>
+		<category>TOSEC</category>
+		<version>2011-02-22</version>
+		<author>[Neoqoo] - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="GROTERA v1.0 (1988)(Eriksson, Kristoffer)(SE)">
+		<description>GROTERA v1.0 (1988)(Eriksson, Kristoffer)(SE)</description>
+		<rom name="GROTERA v1.0 (1988)(Eriksson, Kristoffer)(SE).bas" size="15575" crc="8ba40e23" md5="51d751342c56e5adc969912019f967be" sha1="1dad90c3a20a3134688909e38e9049aea2dca656"/>
+	</game>
+	<game name="Life v1.1 (1988)(Eriksson, Kristoffer)(SE)">
+		<description>Life v1.1 (1988)(Eriksson, Kristoffer)(SE)</description>
+		<rom name="Life v1.1 (1988)(Eriksson, Kristoffer)(SE).bas" size="14938" crc="aba43bfa" md5="19c095e532bd2f711f46f40d1ab669a3" sha1="3d2cbe633cef4a3e5eda36d07f7b22e162d0220a"/>
+	</game>
+</datafile>

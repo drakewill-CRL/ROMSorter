@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Thomson MO5 - Games - [M5]</name>
+		<description>Thomson MO5 - Games - [M5] (TOSEC-v2011-08-23)</description>
+		<category>TOSEC</category>
+		<version>2011-08-23</version>
+		<author>mictlantecuhtle - Leto_II - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Airbus (1984)(Vifi-Nathan)(FR)">
+		<description>Airbus (1984)(Vifi-Nathan)(FR)</description>
+		<rom name="Airbus (1984)(Vifi-Nathan)(FR).m5" size="16384" crc="0686d6b5" md5="79de6b8466a75ff6cd91bd7a9176c66c" sha1="f5341425cb3cfeba6358c8199c6cc852334ff624"/>
+	</game>
+	<game name="Blitz (1985)(To Tek)">
+		<description>Blitz (1985)(To Tek)</description>
+		<rom name="Blitz (1985)(To Tek).m5" size="16384" crc="9725c110" md5="6a1bad0554829dc1e518880e710288df" sha1="d5b8882708e539f449746c5451054359b1273f3a"/>
+	</game>
+	<game name="Blitz! (1985)(To Tek)[a]">
+		<description>Blitz! (1985)(To Tek)[a]</description>
+		<rom name="Blitz! (1985)(To Tek)[a].m5" size="16384" crc="19dde6c1" md5="bfa10931d02b14ac50b72b7622d274de" sha1="625c3b59843859fba13ea27394d9f8fc9faacaeb"/>
+	</game>
+	<game name="Controle Aerien (1984)(Vifi-Nathan)">
+		<description>Controle Aerien (1984)(Vifi-Nathan)</description>
+		<rom name="Controle Aerien (1984)(Vifi-Nathan).m5" size="16384" crc="897687fa" md5="596e879670a73a8020a43c522d0947f0" sha1="fc3b4ceff31c996a9388fd1dba642dce69c58f18"/>
+	</game>
+	<game name="Enigmatika (1984)(Answare)(FR)">
+		<description>Enigmatika (1984)(Answare)(FR)</description>
+		<rom name="Enigmatika (1984)(Answare)(FR).m5" size="16384" crc="af2a0ce5" md5="8cff42f0375d36c5399207cf00f9c6a2" sha1="f14c167f61ac8c82b34fc689acc5c33eb1829ab6"/>
+	</game>
+	<game name="Gemini (1982)(Vifi-Nathan)(FR)">
+		<description>Gemini (1982)(Vifi-Nathan)(FR)</description>
+		<rom name="Gemini (1982)(Vifi-Nathan)(FR).m5" size="16384" crc="cc30bba2" md5="5bf4b4c84a697bebb63d8b6fdcec2b4c" sha1="67be5d9736c50d6c8c4237eec483b0fef1574a4a"/>
+	</game>
+	<game name="Glouton (1986)(Hebdogiciel)(FR)">
+		<description>Glouton (1986)(Hebdogiciel)(FR)</description>
+		<rom name="Glouton (1986)(Hebdogiciel)(FR).m5" size="16384" crc="c4f65bfc" md5="eca61e3e892e31a0ffb34720a44eb822" sha1="1090e0acf99b240c5f22e20458464d96e1237eda"/>
+	</game>
+	<game name="Glouton (1986)(Hebdogiciel)(FR)[a]">
+		<description>Glouton (1986)(Hebdogiciel)(FR)[a]</description>
+		<rom name="Glouton (1986)(Hebdogiciel)(FR)[a].m5" size="16384" crc="c7375598" md5="0aba3954bb55090ca211642a4aa804fe" sha1="f4497198af448582eb05c2da1d236cd8cae4219a"/>
+	</game>
+	<game name="Melimemot (1983)(Vifi-Nathan)(FR)">
+		<description>Melimemot (1983)(Vifi-Nathan)(FR)</description>
+		<rom name="Melimemot (1983)(Vifi-Nathan)(FR).m5" size="16384" crc="8bf8f98d" md5="e71e69c6289314f9fc0ce79de1f5229c" sha1="603656e072c30e0231f4fd16d0a778003eb8836f"/>
+	</game>
+	<game name="Melodia (1982)(Vifi-Nathan)(FR)">
+		<description>Melodia (1982)(Vifi-Nathan)(FR)</description>
+		<rom name="Melodia (1982)(Vifi-Nathan)(FR).m5" size="16384" crc="f3c9eaf2" md5="d4e4d43822536ea432ba41211980bba8" sha1="90d1b03febc206c73ea582c0c50d00d551c1e3d0"/>
+	</game>
+	<game name="Miner 2049er (198x)(To Tek)(FR)">
+		<description>Miner 2049er (198x)(To Tek)(FR)</description>
+		<rom name="Miner 2049er (198x)(To Tek)(FR).m5" size="16384" crc="a3fe074a" md5="071c764e11540db3c3777bb69c7257aa" sha1="179e111030c1d04733a297bf07b5bfacca17e859"/>
+	</game>
+	<game name="Trap (1982)(Vifi-Nathan)(FR)">
+		<description>Trap (1982)(Vifi-Nathan)(FR)</description>
+		<rom name="Trap (1982)(Vifi-Nathan)(FR).m5" size="16384" crc="95fb063b" md5="6ebfb95b9388a923eac79d70bafc0480" sha1="7f90b9fd3c7931afd5f4cd0584c34f12f80d9049"/>
+	</game>
+	<game name="Tridi444 (1982)(Vifi-Nathan)(FR)">
+		<description>Tridi444 (1982)(Vifi-Nathan)(FR)</description>
+		<rom name="Tridi444 (1982)(Vifi-Nathan)(FR).m5" size="16384" crc="d74554e2" md5="78784c8208e2a023893c8ccca0ae6e4e" sha1="b091d4926e63ad77c04e793883fe6436c43dc91e"/>
+	</game>
+</datafile>

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Interact Family Computer - Applications</name>
+		<description>Interact Family Computer - Applications (TOSEC-v2014-01-18)</description>
+		<category>TOSEC</category>
+		<version>2014-01-18</version>
+		<author>Cid - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Biorhythm (19xx)(Interact Electronics Inc)">
+		<description>Biorhythm (19xx)(Interact Electronics Inc)</description>
+		<rom name="Biorhythm (19xx)(Interact Electronics Inc).cin" size="7664" crc="3cce40b1" md5="d27d8913fc1f81437aa4f55789f8db0f" sha1="16a5e156bb5a1ccbe2df54c073c4e7c8dee4793a"/>
+	</game>
+	<game name="Calculator (19xx)(-)">
+		<description>Calculator (19xx)(-)</description>
+		<rom name="Calculator (19xx)(-).cin" size="8178" crc="2e7fe018" md5="6224d125a76fd142e6c915376fc6be84" sha1="07a95803e37f30c85753db38f0c8df493d20ac4d"/>
+	</game>
+	<game name="Checkbook Balancer (19xx)(-)">
+		<description>Checkbook Balancer (19xx)(-)</description>
+		<rom name="Checkbook Balancer (19xx)(-).cin" size="11011" crc="f07effc7" md5="c3266813f603d48c0ea6a301940fc708" sha1="74116d39b67d296f4b0344037f38846ebee39541"/>
+	</game>
+	<game name="Compute-A-Color (19xx)(Interact Electronics Inc)">
+		<description>Compute-A-Color (19xx)(Interact Electronics Inc)</description>
+		<rom name="Compute-A-Color (19xx)(Interact Electronics Inc).cin" size="7664" crc="3ffed189" md5="94e507f7147bb64cff3941ec5e36c4cb" sha1="b96af5b18692d9992bac4e11699e37c8ffa1454d"/>
+	</game>
+	<game name="Diagnostic Tape (19xx)(-)">
+		<description>Diagnostic Tape (19xx)(-)</description>
+		<rom name="Diagnostic Tape (19xx)(-).cin" size="7664" crc="e1200d18" md5="0ee0ffbabba24f1b37b5662b18fe5b67" sha1="fc5266c183856f65f2bc676fb6d009e4f4ac9d28"/>
+	</game>
+	<game name="Interact BASIC (19xx)(Interact Electronics Inc)">
+		<description>Interact BASIC (19xx)(Interact Electronics Inc)</description>
+		<rom name="Interact BASIC (19xx)(Interact Electronics Inc).cin" size="7664" crc="19647c46" md5="e5beba7fa509c7f309beef2c8380d02e" sha1="5d89279c3f3c5dd21d2e7d307ad4bea361370272"/>
+	</game>
+	<game name="Message Center (19xx)(-)">
+		<description>Message Center (19xx)(-)</description>
+		<rom name="Message Center (19xx)(-).cin" size="7664" crc="b1b012fc" md5="778dc33d5e1f9326d6414ae6a048819a" sha1="84cb3b3056a6cc3cae8706742eb6840e45dbe314"/>
+	</game>
+	<game name="Microsoft BASIC v4.7 (1978)(Microsoft)">
+		<description>Microsoft BASIC v4.7 (1978)(Microsoft)</description>
+		<rom name="Microsoft BASIC v4.7 (1978)(Microsoft).cin" size="10857" crc="c166c8e8" md5="8aeec0b58373d0da9070cc97ca2129d7" sha1="cd16c96d84bbb3a067458fcb8f72c779b9dec808"/>
+	</game>
+	<game name="Music Maestro (19xx)(Interact Electronics Inc)">
+		<description>Music Maestro (19xx)(Interact Electronics Inc)</description>
+		<rom name="Music Maestro (19xx)(Interact Electronics Inc).cin" size="8178" crc="f0ae4f00" md5="15c4a6e7fe36b69e497842070c072929" sha1="e6d10c52ece74f263e824d98f7182d539f757951"/>
+	</game>
+</datafile>

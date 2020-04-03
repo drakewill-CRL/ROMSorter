@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tiki Data Kontiki-100 &amp; Tiki-100 - Compilations - Games</name>
+		<description>Tiki Data Kontiki-100 &amp; Tiki-100 - Compilations - Games (TOSEC-v2011-05-13)</description>
+		<category>TOSEC</category>
+		<version>2011-05-13</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Spill (19xx)(-)(NO)">
+		<description>Spill (19xx)(-)(NO)</description>
+		<rom name="Spill (19xx)(-)(NO).dsk" size="204800" crc="cb2171cd" md5="5c4473d6c5d271e0c5d9db2c15cc187c" sha1="d7549dc2f251f4454a6745c2826b9f20eb98cadf"/>
+	</game>
+	<game name="Tre-Spill II (1986)(Datalauget)(NO)">
+		<description>Tre-Spill II (1986)(Datalauget)(NO)</description>
+		<rom name="Tre-Spill II (1986)(Datalauget)(NO).dsk" size="409600" crc="133ca04c" md5="8d1adb8070602a06f237c6adb38a06fe" sha1="2d8c04f610cb28c971add339808e99435583b7c9"/>
+	</game>
+</datafile>

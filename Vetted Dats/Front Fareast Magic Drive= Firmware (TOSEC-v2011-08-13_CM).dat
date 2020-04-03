@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Front Fareast Magic Drive - Firmware</name>
+		<description>Front Fareast Magic Drive - Firmware (TOSEC-v2011-08-13)</description>
+		<category>TOSEC</category>
+		<version>2011-08-13</version>
+		<author>Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Front Fareast Magic Drive Plus BIOS (1993)(Front Fareast)(PD)">
+		<description>Front Fareast Magic Drive Plus BIOS (1993)(Front Fareast)(PD)</description>
+		<rom name="Front Fareast Magic Drive Plus BIOS (1993)(Front Fareast)(PD).bin" size="8192" crc="1232a774" md5="223a4d85c56fd99162682950ee8dfe5b" sha1="d0ec9a509c399576b9c4b07301c3af2abe3357c3"/>
+	</game>
+	<game name="Front Fareast Super Magic Drive BIOS v3.0 (1991)(Front Fareast - JSI)(PD)">
+		<description>Front Fareast Super Magic Drive BIOS v3.0 (1991)(Front Fareast - JSI)(PD)</description>
+		<rom name="Front Fareast Super Magic Drive BIOS v3.0 (1991)(Front Fareast - JSI)(PD).bin" size="8192" crc="90bfd088" md5="8d77b37be443824bbe026978979d7ccf" sha1="58320ebfe196828f4a18e60bdce44e8635c6f2aa"/>
+	</game>
+	<game name="Front Fareast Super Magic Drive BIOS v3.1g (1992)(Front Fareast - JSI)(PD)">
+		<description>Front Fareast Super Magic Drive BIOS v3.1g (1992)(Front Fareast - JSI)(PD)</description>
+		<rom name="Front Fareast Super Magic Drive BIOS v3.1g (1992)(Front Fareast - JSI)(PD).bin" size="8192" crc="e08173ba" md5="19f7e2231eeebc7abd2052d3b870f50e" sha1="bd44dade030a417ed35d60649fc4a508d5c54c8d"/>
+	</game>
+	<game name="Front Fareast Super Magic Drive BIOS v3.3 (1992)(Front Fareast - JSI)(PD)">
+		<description>Front Fareast Super Magic Drive BIOS v3.3 (1992)(Front Fareast - JSI)(PD)</description>
+		<rom name="Front Fareast Super Magic Drive BIOS v3.3 (1992)(Front Fareast - JSI)(PD).bin" size="8192" crc="51bebadf" md5="e15db5d078a6ed47f664ac31c5e9e731" sha1="040e591dea15a77c3958f2ded0d6fd260acaad49"/>
+	</game>
+	<game name="Front Fareast Super Magic Drive BIOS v4.1a (1993)(Front Fareast - JSI)(PD)">
+		<description>Front Fareast Super Magic Drive BIOS v4.1a (1993)(Front Fareast - JSI)(PD)</description>
+		<rom name="Front Fareast Super Magic Drive BIOS v4.1a (1993)(Front Fareast - JSI)(PD).bin" size="8192" crc="07402a75" md5="cb5fdafb4b2093e786026024c41dfd68" sha1="74deed8fa6aa51de1fb40a81afc1d48a8dd22407"/>
+	</game>
+</datafile>

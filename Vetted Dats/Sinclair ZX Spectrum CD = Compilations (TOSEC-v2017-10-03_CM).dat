@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sinclair ZX Spectrum - CD - Compilations</name>
+		<description>Sinclair ZX Spectrum - CD - Compilations (TOSEC-v2017-10-03)</description>
+		<category>TOSEC-ISO</category>
+		<version>2017-10-03</version>
+		<author>TOSEC-ISO: Trurip</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="CD Games Pack, The (1989)(Codemasters)[b sub]">
+		<description>CD Games Pack, The (1989)(Codemasters)[b sub]</description>
+		<rom name="CD Games Pack, The (1989)(Codemasters)[b sub].ccd" size="11074" crc="a09e9965" md5="74bb9813452323fc1f7a3a251d75a948" sha1="3a59c376bbea95b9b80800609b1dba60ad09fcc4"/>
+		<rom name="CD Games Pack, The (1989)(Codemasters)[b sub].cue" size="36788" crc="1c2cb42c" md5="770ad47534a76aa9bd0f16e01e182dba" sha1="073253238abf0640e8a602923212d63d6120617f"/>
+		<rom name="CD Games Pack, The (1989)(Codemasters)[b sub].img" size="769887216" crc="451bf751" md5="8936a814cdc0063e16b10da900ae62e9" sha1="a18bb3a63d7ce233eff0f7c18cdfbac5c18f8d71"/>
+		<rom name="CD Games Pack, The (1989)(Codemasters)[b sub].sub" size="31423968" crc="9aea08c5" md5="d22e6f01eff2e3b3d767403a1f7d00f4" sha1="2e29e04f3acbc1a5c54f87ea1522a8c03c506371"/>
+	</game>
+</datafile>

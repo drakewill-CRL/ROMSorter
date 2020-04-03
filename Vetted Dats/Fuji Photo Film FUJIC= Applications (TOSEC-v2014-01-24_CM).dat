@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Fuji Photo Film FUJIC - Applications</name>
+		<description>Fuji Photo Film FUJIC - Applications (TOSEC-v2014-01-24)</description>
+		<category>TOSEC</category>
+		<version>2014-01-24</version>
+		<author>Grendel - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Sort (1998)(Okoma, Seiichi)">
+		<description>Sort (1998)(Okoma, Seiichi)</description>
+		<rom name="Sort.fjc" size="3244" crc="d882f51c" md5="364f470d63f5db59682cbdaf9c799a64" sha1="03575bd2b6405ae9d3205adadfeb2e87df061c69"/>
+		<rom name="Sort.out" size="452" crc="cb831413" md5="172f4dc27f675f6b0be8ec60bc0ac877" sha1="ed63f552bc7316bc6a751ec8a736195c1bd4aa3c"/>
+	</game>
+	<game name="Square Root By Newton's Method (1998)(Okoma, Seiichi)">
+		<description>Square Root By Newton's Method (1998)(Okoma, Seiichi)</description>
+		<rom name="Newton.fjc" size="1631" crc="f8fee595" md5="9a24684ba75c279a31902fe815ac103d" sha1="fd71568d4108d1f8a8bf18585eb03d8316bcd63c"/>
+		<rom name="Newton.out" size="667" crc="0693b632" md5="d03fc185992a3ff59d9800197c95cb6e" sha1="d4c14033a5c4e00c5e16fa5e35382d468828975f"/>
+	</game>
+</datafile>

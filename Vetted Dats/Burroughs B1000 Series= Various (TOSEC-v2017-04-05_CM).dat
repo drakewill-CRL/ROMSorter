@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+		<header>
+		<name>Burroughs B1000 Series - Various</name>
+		<description>Burroughs B1000 Series - Various (TOSEC-v2017-04-05)</description>
+		<category>TOSEC</category>
+		<version>2017-04-05</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<url>http://www.tosecdev.org</url>
+		<clrmamepro/>
+	</header>
+	<game name="''FETEST'' System B1000 TRS (19xx)(Rumble, Frank)">
+		<description>''FETEST'' System B1000 TRS (19xx)(Rumble, Frank)</description>
+		<rom name="''FETEST'' System B1000 TRS (19xx)(Rumble, Frank).tap" size="902812" crc="600f2ae8" md5="0eebb0ee0d073623ebf0aab2bfc000e4" sha1="8fe0c543723cd6d1f733efef3f9396123975d983"/>
+	</game>
+	<game name="CMS COBOL Compiler 03.05.20 (1986)(Unisys Corp)[Media ID 37877180-310]">
+		<description>CMS COBOL Compiler 03.05.20 (1986)(Unisys Corp)[Media ID 37877180-310]</description>
+		<rom name="CMS COBOL Compiler 03.05.20 (1986)(Unisys Corp)[Media ID 37877180-310].tap" size="292512" crc="c14396f2" md5="281875fa2399c3db2325d1b555b19a7f" sha1="e348db50cc74547e4c4706689369c772d3276869"/>
+	</game>
+	<game name="Franks TRS (19xx)(-)">
+		<description>Franks TRS (19xx)(-)</description>
+		<rom name="Franks TRS (19xx)(-).tap" size="15386608" crc="63534c5d" md5="21fd2718e5a9fcb5a81c9581ff4b34a3" sha1="39923b96cfd9ca1cdd862d0c2485cab93c9c8a21"/>
+	</game>
+	<game name="Histep III (19xx)(Rumble, Frank)">
+		<description>Histep III (19xx)(Rumble, Frank)</description>
+		<rom name="Histep III (19xx)(Rumble, Frank).tap" size="612864" crc="a5469b18" md5="ce778c33886d070666e707bb19f31bd3" sha1="f95b9f9f73d640ed70d480c112dd0a99ab50ba55"/>
+	</game>
+	<game name="SYMCO (1997-04-15)(-)">
+		<description>SYMCO (1997-04-15)(-)</description>
+		<rom name="SYMCO (1997-04-15)(-).tap" size="7661819" crc="4055d46b" md5="5a70a4946be7e10d047161872ad99fa0" sha1="73189e9b9e9aa2f93a62795376b1eeb5ea11c5b6"/>
+	</game>
+</datafile>

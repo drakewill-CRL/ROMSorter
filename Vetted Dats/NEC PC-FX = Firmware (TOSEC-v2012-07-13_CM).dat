@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>NEC PC-FX - Firmware</name>
+		<description>NEC PC-FX - Firmware (TOSEC-v2012-07-13)</description>
+		<category>TOSEC-ISO</category>
+		<version>2012-07-13</version>
+		<author>Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="NEC PC-FX BIOS v1.00 (1994)(NEC)(JP)">
+		<description>NEC PC-FX BIOS v1.00 (1994)(NEC)(JP)</description>
+		<rom name="NEC PC-FX BIOS v1.00 (1994)(NEC)(JP).bin" size="1048576" crc="76ffb97a" md5="08e36edbea28a017f79f8d4f7ff9b6d7" sha1="1a77fd83e337f906aecab27a1604db064cf10074"/>
+	</game>
+	<game name="NEC PC-FX BIOS v1.01 (1994)(NEC)(JP)">
+		<description>NEC PC-FX BIOS v1.01 (1994)(NEC)(JP)</description>
+		<rom name="NEC PC-FX BIOS v1.01 (1994)(NEC)(JP).bin" size="1048576" crc="236102c9" md5="e2fb7c7220e3a7838c2dd7e401a7f3d8" sha1="8b662f7548078be52a871565e19511ccca28c5c8"/>
+	</game>
+</datafile>

@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>DEC PDP-12 - Collections - MainDEC - [PTP]</name>
+		<description>DEC PDP-12 - Collections - MainDEC - [PTP] (TOSEC-v2014-01-23)</description>
+		<category>TOSEC</category>
+		<version>2014-01-23</version>
+		<author>TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="MainDEC-12-D0AB-PB (1969-09-19)(Diagnostic Group)(US)[PDP-12 CP Test 2 - Skip and Data Test]">
+		<description>MainDEC-12-D0AB-PB (1969-09-19)(Diagnostic Group)(US)[PDP-12 CP Test 2 - Skip and Data Test]</description>
+		<rom name="MainDEC-12-D0AB-PB (1969-09-19)(Diagnostic Group)(US)[PDP-12 CP Test 2 - Skip and Data Test].ptp" size="8194" crc="847eb640" md5="e1d75705a9ec541f0a3849aa9f0e81b4" sha1="34afec0da02e771363e3622dd642a6c09db0f34f"/>
+	</game>
+	<game name="MainDEC-12-D0BA-PB (1969-10-01)(Diagnostic Group)(US)[a][Instruction Test Part 1]">
+		<description>MainDEC-12-D0BA-PB (1969-10-01)(Diagnostic Group)(US)[a][Instruction Test Part 1]</description>
+		<rom name="MainDEC-12-D0BA-PB (1969-10-01)(Diagnostic Group)(US)[a][Instruction Test Part 1].ptp" size="1702" crc="2c3eda1b" md5="e5937be5bee48eb3c8517a668016a053" sha1="1297d1a4131865c9aac6aa34918850560ecfdfe9"/>
+	</game>
+	<game name="MainDEC-12-D0BA-PB (1969-10-01)(Diagnostic Group)(US)[Instruction Test Part 1]">
+		<description>MainDEC-12-D0BA-PB (1969-10-01)(Diagnostic Group)(US)[Instruction Test Part 1]</description>
+		<rom name="MainDEC-12-D0BA-PB (1969-10-01)(Diagnostic Group)(US)[Instruction Test Part 1].ptp" size="1732" crc="fbf1c2f2" md5="ad593bfd0c06eecdbef4b23b56fe7860" sha1="5a653d85efe6b4b5dd6f670f9d71bee7b7c86ea2"/>
+	</game>
+	<game name="MainDEC-12-D0CA-PB (1971)(Diagnostic Group)(US)[CP Test III]">
+		<description>MainDEC-12-D0CA-PB (1971)(Diagnostic Group)(US)[CP Test III]</description>
+		<rom name="MainDEC-12-D0CA-PB (1971)(Diagnostic Group)(US)[CP Test III].ptp" size="5683" crc="25f883ef" md5="a9f85fd509f6b42fe831327c6a44c76c" sha1="e0929ede9dcc5a269b87e80562f3f3127d2f7153"/>
+	</game>
+	<game name="MainDEC-12-D0LC-PB (1972-02-18)(Diagnostic Group)(US)[FPP-12 Trace]">
+		<description>MainDEC-12-D0LC-PB (1972-02-18)(Diagnostic Group)(US)[FPP-12 Trace]</description>
+		<rom name="MainDEC-12-D0LC-PB (1972-02-18)(Diagnostic Group)(US)[FPP-12 Trace].ptp" size="11020" crc="733e7bd8" md5="d4861945dfb86782dbd8a13b9b0a3545" sha1="c0a38b4e8c46f2647a37e1d320521d552f3aff1e"/>
+	</game>
+	<game name="MainDEC-12-D0MC-PB (1971-10-01)(Diagnostic Group)(US)[FPP-12 Intruction Test 2A]">
+		<description>MainDEC-12-D0MC-PB (1971-10-01)(Diagnostic Group)(US)[FPP-12 Intruction Test 2A]</description>
+		<rom name="MainDEC-12-D0MC-PB (1971-10-01)(Diagnostic Group)(US)[FPP-12 Intruction Test 2A].ptp" size="7785" crc="af95f6da" md5="d9d6ac58a455d780032e85998472a4cb" sha1="5c97398ac8627f645cc19a485af2de230bcdc867"/>
+	</game>
+	<game name="MainDEC-12-D0NB-PB (1970-12-15)(Diagnostic Group)(US)[FPP-12 Instruction Test 2B]">
+		<description>MainDEC-12-D0NB-PB (1970-12-15)(Diagnostic Group)(US)[FPP-12 Instruction Test 2B]</description>
+		<rom name="MainDEC-12-D0NB-PB (1970-12-15)(Diagnostic Group)(US)[FPP-12 Instruction Test 2B].ptp" size="2560" crc="bf162bca" md5="84d34eba3002f00d2a517f87d9c6ac5b" sha1="5330b428a4553a2c8607c52124f4c81b7ca10500"/>
+	</game>
+	<game name="MainDEC-12-D0SA-PB (1971-04-05)(Diagnostic Group)(US)[KF12B Automatic Priority Interrupt]">
+		<description>MainDEC-12-D0SA-PB (1971-04-05)(Diagnostic Group)(US)[KF12B Automatic Priority Interrupt]</description>
+		<rom name="MainDEC-12-D0SA-PB (1971-04-05)(Diagnostic Group)(US)[KF12B Automatic Priority Interrupt].ptp" size="6038" crc="b93bd6eb" md5="0bcaaadce11a8f494b203360ceef91d7" sha1="022d4fcb165dd8874bd3c6d440125f8c41bdc8fd"/>
+	</game>
+	<game name="MainDEC-12-D0TA-PB (1972-02-18)(Diagnostic Group)(US)[FPP-12 Trace EPM]">
+		<description>MainDEC-12-D0TA-PB (1972-02-18)(Diagnostic Group)(US)[FPP-12 Trace EPM]</description>
+		<rom name="MainDEC-12-D0TA-PB (1972-02-18)(Diagnostic Group)(US)[FPP-12 Trace EPM].ptp" size="13436" crc="8e4d71c3" md5="5cab346dd005b1cc77ea6f6d1403096a" sha1="44756611b3309fd5b7aeb23ef9d1d16f666246a1"/>
+	</game>
+	<game name="MainDEC-12-D0UA-PB (1971-12-15)(Diagnostic Group)(US)[FPP-12 Instruction Test 3]">
+		<description>MainDEC-12-D0UA-PB (1971-12-15)(Diagnostic Group)(US)[FPP-12 Instruction Test 3]</description>
+		<rom name="MainDEC-12-D0UA-PB (1971-12-15)(Diagnostic Group)(US)[FPP-12 Instruction Test 3].ptp" size="8166" crc="b804305e" md5="6b3bd98ff16abe7c1002d1920192ee6f" sha1="116052b7a82450fb64f1d33501f28b4f702fdf42"/>
+	</game>
+	<game name="MainDEC-12-D1AC-PB (1970-06-19)(Diagnostic Group)(US)[Extended Memory Control]">
+		<description>MainDEC-12-D1AC-PB (1970-06-19)(Diagnostic Group)(US)[Extended Memory Control]</description>
+		<rom name="MainDEC-12-D1AC-PB (1970-06-19)(Diagnostic Group)(US)[Extended Memory Control].ptp" size="5950" crc="7c6347ef" md5="1e9af9bf1fb003562a63d04dedff36bd" sha1="121f4130ed9ed7a8285ad69cdbdf1c643a2c8f0a"/>
+	</game>
+	<game name="MainDEC-12-D1BA-PB (1969-09-23)(Diagnostic Group)(US)[a][JMP SELF]">
+		<description>MainDEC-12-D1BA-PB (1969-09-23)(Diagnostic Group)(US)[a][JMP SELF]</description>
+		<rom name="MainDEC-12-D1BA-PB (1969-09-23)(Diagnostic Group)(US)[a][JMP SELF].ptp" size="851" crc="bed2224f" md5="c69c3623e60f2188392f1a965776ba9b" sha1="941b5a369a7328b2dae1e856ed94c96d263ddc68"/>
+	</game>
+	<game name="MainDEC-12-D1BA-PB (1969-09-23)(Diagnostic Group)(US)[JMP SELF]">
+		<description>MainDEC-12-D1BA-PB (1969-09-23)(Diagnostic Group)(US)[JMP SELF]</description>
+		<rom name="MainDEC-12-D1BA-PB (1969-09-23)(Diagnostic Group)(US)[JMP SELF].ptp" size="882" crc="01f3c823" md5="e8f13a8c024a2d180f8f32593c8a4d70" sha1="dc4707217edb7e85e026ac4b0d5288dc892a97f3"/>
+	</game>
+	<game name="MainDEC-12-D1CA-PB (1969-09-30)(Diagnostic Group)(US)[PDP-12 Address Test]">
+		<description>MainDEC-12-D1CA-PB (1969-09-30)(Diagnostic Group)(US)[PDP-12 Address Test]</description>
+		<rom name="MainDEC-12-D1CA-PB (1969-09-30)(Diagnostic Group)(US)[PDP-12 Address Test].ptp" size="1072" crc="e2983ff7" md5="06a12d88e9451e36d109918fef6a1f3e" sha1="5918986249bdd432c4e9754e78d1ff78a88fefba"/>
+	</game>
+	<game name="MainDEC-12-D1DA-PB (1969-10-20)(Diagnostic Group)(US)[PDP-12 Checkerboard]">
+		<description>MainDEC-12-D1DA-PB (1969-10-20)(Diagnostic Group)(US)[PDP-12 Checkerboard]</description>
+		<rom name="MainDEC-12-D1DA-PB (1969-10-20)(Diagnostic Group)(US)[PDP-12 Checkerboard].ptp" size="1572" crc="a5599046" md5="2450662c419fc9edfd181264fa9c2ae1" sha1="1ad686ad707c4ccb41adabdce830566e1df50921"/>
+	</game>
+	<game name="MainDEC-12-D1EA-PB (1969-09-23)(Diagnostic Group)(US)[Float 1's and 0's through Memory]">
+		<description>MainDEC-12-D1EA-PB (1969-09-23)(Diagnostic Group)(US)[Float 1's and 0's through Memory]</description>
+		<rom name="MainDEC-12-D1EA-PB (1969-09-23)(Diagnostic Group)(US)[Float 1's and 0's through Memory].ptp" size="831" crc="88b807f7" md5="fbd3dab089010b8469fb4977b3ba9d4b" sha1="8a3aaadaa70ec6916632fbd7da3f2502e8472def"/>
+	</game>
+	<game name="MainDEC-12-D1EA-PT (1969-09-23)(Diagnostic Group)(US)[Float 1's and 0's through Memory]">
+		<description>MainDEC-12-D1EA-PT (1969-09-23)(Diagnostic Group)(US)[Float 1's and 0's through Memory]</description>
+		<rom name="MainDEC-12-D1EA-PT (1969-09-23)(Diagnostic Group)(US)[Float 1's and 0's through Memory].ptp" size="864" crc="4a42f39d" md5="049344a4fa12c18d689c613f09a63df4" sha1="ee75fb0ebb4ba10e5cf07bc50537f9be7c059b59"/>
+	</game>
+	<game name="MainDEC-12-D1FA-PB (1971-02-28)(Diagnostic Group)(US)[PDP-12 Basic Memory Control Test]">
+		<description>MainDEC-12-D1FA-PB (1971-02-28)(Diagnostic Group)(US)[PDP-12 Basic Memory Control Test]</description>
+		<rom name="MainDEC-12-D1FA-PB (1971-02-28)(Diagnostic Group)(US)[PDP-12 Basic Memory Control Test].ptp" size="3409" crc="0a3789c2" md5="598590b7275e5ecacad9d2db8aa7b909" sha1="664e50bf2064697c51800a8f27ab2b2d512ec459"/>
+	</game>
+	<game name="MainDEC-12-D3AC-PB (1969-11-20)(Diagnostic Group)(US)[PDP-12 Tape Control Test]">
+		<description>MainDEC-12-D3AC-PB (1969-11-20)(Diagnostic Group)(US)[PDP-12 Tape Control Test]</description>
+		<rom name="MainDEC-12-D3AC-PB (1969-11-20)(Diagnostic Group)(US)[PDP-12 Tape Control Test].ptp" size="6513" crc="f775d28d" md5="9da7881cfd19b85d5291006661fa1404" sha1="57643e525e8e8d189c23bc717c1fa56821583b2b"/>
+	</game>
+	<game name="MainDEC-12-D3AE-PB (1970-08-12)(Diagnostic Group)(US)(Part 1 of 2)[PDP-12 Tape Control Test]">
+		<description>MainDEC-12-D3AE-PB (1970-08-12)(Diagnostic Group)(US)(Part 1 of 2)[PDP-12 Tape Control Test]</description>
+		<rom name="MainDEC-12-D3AE-PB (1970-08-12)(Diagnostic Group)(US)(Part 1 of 2)[PDP-12 Tape Control Test].ptp" size="8096" crc="5b565a8b" md5="a118ac794ba8d435d2e8dfac5666082d" sha1="9ad28a54e634e3e18ec2c114752a63d8e9a7379e"/>
+	</game>
+	<game name="MainDEC-12-D3DB-PB (1971-02-01)(Diagnostic Group)(US)[PDP-12 Tape Data Exerciser]">
+		<description>MainDEC-12-D3DB-PB (1971-02-01)(Diagnostic Group)(US)[PDP-12 Tape Data Exerciser]</description>
+		<rom name="MainDEC-12-D3DB-PB (1971-02-01)(Diagnostic Group)(US)[PDP-12 Tape Data Exerciser].ptp" size="3818" crc="44706995" md5="508b5e961b48d76d6e7559b44d5f0cb0" sha1="678beedcc6806db1a8c81abfca192b6d785dbb2e"/>
+	</game>
+	<game name="MainDEC-12-D3EB-PB (1970-07-01)(Diagnostic Group)(US)[TC 12-F Option]">
+		<description>MainDEC-12-D3EB-PB (1970-07-01)(Diagnostic Group)(US)[TC 12-F Option]</description>
+		<rom name="MainDEC-12-D3EB-PB (1970-07-01)(Diagnostic Group)(US)[TC 12-F Option].ptp" size="2573" crc="8943f5d4" md5="5064a4736480170dcd843cebb39f291b" sha1="6bf68d69a39ccb05390fa79d47e406c061858cb2"/>
+	</game>
+	<game name="MainDEC-12-D3FB-PB (1970-11-01)(Diagnostic Group)(US)[PDP-12 Tape Data Test]">
+		<description>MainDEC-12-D3FB-PB (1970-11-01)(Diagnostic Group)(US)[PDP-12 Tape Data Test]</description>
+		<rom name="MainDEC-12-D3FB-PB (1970-11-01)(Diagnostic Group)(US)[PDP-12 Tape Data Test].ptp" size="2083" crc="4f8a9ae6" md5="b63e317a961746a3922be8ad4ae34d29" sha1="6e94a55e7e425e2c60c0a1a3cdd795e671c807b6"/>
+	</game>
+	<game name="MainDEC-12-D3GA-PB (1970-05-01)(Diagnostic Group)(US)(Part 2 of 2)[PDP-12 Tape Control Test]">
+		<description>MainDEC-12-D3GA-PB (1970-05-01)(Diagnostic Group)(US)(Part 2 of 2)[PDP-12 Tape Control Test]</description>
+		<rom name="MainDEC-12-D3GA-PB (1970-05-01)(Diagnostic Group)(US)(Part 2 of 2)[PDP-12 Tape Control Test].ptp" size="5963" crc="b74845a9" md5="d020f83d35e659f8838d80d8eeb3efb5" sha1="c4cb6b7f96bc0bbc027a151c33bfcf21fc84c6c4"/>
+	</game>
+	<game name="MainDEC-12-D6BA-PB (1970-01-16)(Diagnostic Group)(US)[a][Display Test VR12]">
+		<description>MainDEC-12-D6BA-PB (1970-01-16)(Diagnostic Group)(US)[a][Display Test VR12]</description>
+		<rom name="MainDEC-12-D6BA-PB (1970-01-16)(Diagnostic Group)(US)[a][Display Test VR12].ptp" size="2081" crc="801d5946" md5="bd573f58f09861756695d0c3926de956" sha1="e0eda84cf3e85d5fb52443fffcf06a1b061b0331"/>
+	</game>
+	<game name="MainDEC-12-D6BA-PB (1970-01-16)(Diagnostic Group)(US)[Display Test VR12]">
+		<description>MainDEC-12-D6BA-PB (1970-01-16)(Diagnostic Group)(US)[Display Test VR12]</description>
+		<rom name="MainDEC-12-D6BA-PB (1970-01-16)(Diagnostic Group)(US)[Display Test VR12].ptp" size="2110" crc="457a9e9b" md5="a656286cc86cbfe7ffd6951de0cff85c" sha1="5029196c5aa69b093d8a7fc160233d97dfba2bd5"/>
+	</game>
+	<game name="MainDEC-12-D6BC-PB (1971-08-01)(Diagnostic Group)(US)[VR14 VR20 Display Test]">
+		<description>MainDEC-12-D6BC-PB (1971-08-01)(Diagnostic Group)(US)[VR14 VR20 Display Test]</description>
+		<rom name="MainDEC-12-D6BC-PB (1971-08-01)(Diagnostic Group)(US)[VR14 VR20 Display Test].ptp" size="2360" crc="49eba43b" md5="fab000345b324074f1f0ce8e1f018379" sha1="72ce066d9070d25df3c7f7c1ea434f5bd93c158f"/>
+	</game>
+	<game name="MainDEC-12-D6CB-PB (1969-10-24)(Diagnostic Group)(US)[A to D Test]">
+		<description>MainDEC-12-D6CB-PB (1969-10-24)(Diagnostic Group)(US)[A to D Test]</description>
+		<rom name="MainDEC-12-D6CB-PB (1969-10-24)(Diagnostic Group)(US)[A to D Test].ptp" size="1590" crc="65ad97c6" md5="15a571285fe538414d26c15d6d7ca870" sha1="c60524e46b1a75221e97c3a4239afcf6fe3d5c37"/>
+	</game>
+	<game name="MainDEC-12-D6CC-PB (1970-09-21)(Diagnostic Group)(US)[A to D Test]">
+		<description>MainDEC-12-D6CC-PB (1970-09-21)(Diagnostic Group)(US)[A to D Test]</description>
+		<rom name="MainDEC-12-D6CC-PB (1970-09-21)(Diagnostic Group)(US)[A to D Test].ptp" size="1160" crc="cf73bef5" md5="7289500bb22b205010266318c31849b0" sha1="262ab842bf220d5a9a7346ea7fde992c8c48fc0f"/>
+	</game>
+	<game name="MainDEC-12-D7CB-PB (1971-08-01)(Diagnostic Group)(US)[PDP-12 System Exerciser]">
+		<description>MainDEC-12-D7CB-PB (1971-08-01)(Diagnostic Group)(US)[PDP-12 System Exerciser]</description>
+		<rom name="MainDEC-12-D7CB-PB (1971-08-01)(Diagnostic Group)(US)[PDP-12 System Exerciser].ptp" size="8278" crc="a606afad" md5="ff39b03baa3c2c0520d7a47a2d4ca750" sha1="3351c556d488db5164b543cdd633db86b8786601"/>
+	</game>
+	<game name="MainDEC-12-D8AB-PB (1969-08-01)(Diagnostic Group)(US)[Relay Register Test]">
+		<description>MainDEC-12-D8AB-PB (1969-08-01)(Diagnostic Group)(US)[Relay Register Test]</description>
+		<rom name="MainDEC-12-D8AB-PB (1969-08-01)(Diagnostic Group)(US)[Relay Register Test].ptp" size="1281" crc="671347c2" md5="65574f1fbcba70927d67b76c7cc25465" sha1="38e9a78fb6d72678384df5ba21361e7e7ec12817"/>
+	</game>
+	<game name="MainDEC-12-D8CC-PB (1970-06-19)(Diagnostic Group)(US)[KW12A Clock Test]">
+		<description>MainDEC-12-D8CC-PB (1970-06-19)(Diagnostic Group)(US)[KW12A Clock Test]</description>
+		<rom name="MainDEC-12-D8CC-PB (1970-06-19)(Diagnostic Group)(US)[KW12A Clock Test].ptp" size="8373" crc="d8379470" md5="e28d9595ec4e6f019e4c10fda36b6e5b" sha1="176706b36aa1cc6035ee68128c8d1df54702fa83"/>
+	</game>
+	<game name="MainDEC-12-DAFPA-A-PB (1972-07-15)(Diagnostic Group)(US)[FPP-12 Data Exerciser]">
+		<description>MainDEC-12-DAFPA-A-PB (1972-07-15)(Diagnostic Group)(US)[FPP-12 Data Exerciser]</description>
+		<rom name="MainDEC-12-DAFPA-A-PB (1972-07-15)(Diagnostic Group)(US)[FPP-12 Data Exerciser].ptp" size="5451" crc="628d18bc" md5="0ea594af55fc94e2e50134e1d20891eb" sha1="dd6d6954f75cbe083d9391a7f9f5ff985a074686"/>
+	</game>
+	<game name="MainDEC-12-DAFPB-A-PB (1972-07-15)(Diagnostic Group)(US)[FPP-12 Instruction Test 2C]">
+		<description>MainDEC-12-DAFPB-A-PB (1972-07-15)(Diagnostic Group)(US)[FPP-12 Instruction Test 2C]</description>
+		<rom name="MainDEC-12-DAFPB-A-PB (1972-07-15)(Diagnostic Group)(US)[FPP-12 Instruction Test 2C].ptp" size="5655" crc="125b44c1" md5="05fbd5b33e8aec76958fbbc3376724c8" sha1="8cae19a57f08a1c04bcf16cdc89ac794cfca37ca"/>
+	</game>
+	<game name="MainDEC-12-DAFPC-A-PB (1972-07-15)(Diagnostic Group)(US)[FPP-12 Address Test]">
+		<description>MainDEC-12-DAFPC-A-PB (1972-07-15)(Diagnostic Group)(US)[FPP-12 Address Test]</description>
+		<rom name="MainDEC-12-DAFPC-A-PB (1972-07-15)(Diagnostic Group)(US)[FPP-12 Address Test].ptp" size="2733" crc="f64b43c2" md5="9e6960032056e8c12feec518768b34c4" sha1="4bd93c57e7faccb8298b48eb908f5d19da026455"/>
+	</game>
+	<game name="MainDEC-12-DAMCA-A-PB (1974-07)(Diagnostic Group)(US)[Extended Memory Control]">
+		<description>MainDEC-12-DAMCA-A-PB (1974-07)(Diagnostic Group)(US)[Extended Memory Control]</description>
+		<rom name="MainDEC-12-DAMCA-A-PB (1974-07)(Diagnostic Group)(US)[Extended Memory Control].ptp" size="6007" crc="de2329b5" md5="e2755ea872e49a601dfe9be4c90ff15b" sha1="9d2742268d8c421c9a33c357afb0b8dc8b1b2c30"/>
+	</game>
+</datafile>

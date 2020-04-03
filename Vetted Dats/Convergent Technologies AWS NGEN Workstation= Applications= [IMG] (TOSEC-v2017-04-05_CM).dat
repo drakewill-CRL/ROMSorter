@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Convergent Technologies AWS NGEN Workstation - Applications - [IMG]</name>
+		<description>Convergent Technologies AWS NGEN Workstation - Applications - [IMG] (TOSEC-v2017-04-05)</description>
+		<category>TOSEC</category>
+		<version>2017-04-05</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<url>http://www.tosecdev.org</url>
+		<clrmamepro/>
+	</header>
+	<game name="Art Designer (19xx)(-)(Disk 1 of 2)">
+		<description>Art Designer (19xx)(-)(Disk 1 of 2)</description>
+		<rom name="Art Designer (19xx)(-)(Disk 1 of 2).img" size="1474560" crc="5ab9681d" md5="81d746a95ab485979092e7cee35360d6" sha1="46ca863b76f67cdc3b49a9bfa2b0d53962c6c9bf"/>
+	</game>
+	<game name="Art Designer (19xx)(-)(Disk 2 of 2)">
+		<description>Art Designer (19xx)(-)(Disk 2 of 2)</description>
+		<rom name="Art Designer (19xx)(-)(Disk 2 of 2).img" size="1474560" crc="b6c59383" md5="07f14cb419ee8a739f3c211f984bbc53" sha1="13eac749162635ee9cee2a7b71e3daf946dfac05"/>
+	</game>
+	<game name="Asynchronous Terminal Emulator (19xx)(-)[B20-AT5]">
+		<description>Asynchronous Terminal Emulator (19xx)(-)[B20-AT5]</description>
+		<rom name="Asynchronous Terminal Emulator (19xx)(-)[B20-AT5].img" size="1474560" crc="23c55f74" md5="3479b7edae39ef12f8391044144ae594" sha1="249bc6fa2532f78638fb50655baf7e6f714f0a6f"/>
+	</game>
+	<game name="BTOS BASIC Compiler v6.1.2 (19xx)(-)[B25-BC6]">
+		<description>BTOS BASIC Compiler v6.1.2 (19xx)(-)[B25-BC6]</description>
+		<rom name="BTOS BASIC Compiler v6.1.2 (19xx)(-)[B25-BC6].img" size="1475584" crc="b7aa39e8" md5="bcd4d8b9f85e64b25f28c2a5894f9178" sha1="7fcd9203899225b40d3d0e99b6d83412fe7ed2ff"/>
+	</game>
+	<game name="BTOS BASIC Interpreter v5.1.1 (19xx)(-)[B25-BI5]">
+		<description>BTOS BASIC Interpreter v5.1.1 (19xx)(-)[B25-BI5]</description>
+		<rom name="BTOS BASIC Interpreter v5.1.1 (19xx)(-)[B25-BI5].img" size="1474560" crc="fed57e26" md5="a791ac9ea077e545d47bacabde63ee91" sha1="c5673102c1b3c0ff0355088240a2666d17a604a4"/>
+	</game>
+	<game name="BTOS C Compiler Patch s1.2.2 (19xx)(-)[B25-CE1]">
+		<description>BTOS C Compiler Patch s1.2.2 (19xx)(-)[B25-CE1]</description>
+		<rom name="BTOS C Compiler Patch s1.2.2 (19xx)(-)[B25-CE1].img" size="1474560" crc="6c37c4b8" md5="c8a9779c35b419ca9f333dd685e04d4d" sha1="89c57d0361a5e2f73d077a04ab7a94d996fd0bcc"/>
+	</game>
+	<game name="BTOS C Compiler Patch v1.2.2 (19xx)(-)[B25-CE1]">
+		<description>BTOS C Compiler Patch v1.2.2 (19xx)(-)[B25-CE1]</description>
+		<rom name="BTOS C Compiler Patch v1.2.2 (19xx)(-)[B25-CE1].img" size="1474560" crc="33cf0430" md5="157ff239454b15c677021a4c144640df" sha1="7eec78cb7c075b09a8681bcc7154d728dc00b421"/>
+	</game>
+	<game name="BTOS C Compiler v1.2 (19xx)(-)(Disk 1 of 3)[a][B25-CE1]">
+		<description>BTOS C Compiler v1.2 (19xx)(-)(Disk 1 of 3)[a][B25-CE1]</description>
+		<rom name="BTOS C Compiler v1.2 (19xx)(-)(Disk 1 of 3)[a][B25-CE1].img" size="1474560" crc="862f141a" md5="a8875c65a8f1038e420cdcdbd609c2db" sha1="806c66976a939b836406ee6706431098a6bfbf2c"/>
+	</game>
+	<game name="BTOS C Compiler v1.2 (19xx)(-)(Disk 1 of 3)[B25-CE1]">
+		<description>BTOS C Compiler v1.2 (19xx)(-)(Disk 1 of 3)[B25-CE1]</description>
+		<rom name="BTOS C Compiler v1.2 (19xx)(-)(Disk 1 of 3)[B25-CE1].img" size="1474560" crc="d837226b" md5="90a9baa6cf4b19858067c84914b75b5c" sha1="8b1a8fb9bf1077d466dc3e7a3663d1593d77ac1f"/>
+	</game>
+	<game name="BTOS C Compiler v1.2 (19xx)(-)(Disk 2 of 3)[a][B25-CE1]">
+		<description>BTOS C Compiler v1.2 (19xx)(-)(Disk 2 of 3)[a][B25-CE1]</description>
+		<rom name="BTOS C Compiler v1.2 (19xx)(-)(Disk 2 of 3)[a][B25-CE1].img" size="1474560" crc="cb6c2a1a" md5="4332f00672ff4300b9672f3ef882ab72" sha1="4d559dee59caf404b394d35165ac16c6e8a9c094"/>
+	</game>
+	<game name="BTOS C Compiler v1.2 (19xx)(-)(Disk 2 of 3)[B25-CE1]">
+		<description>BTOS C Compiler v1.2 (19xx)(-)(Disk 2 of 3)[B25-CE1]</description>
+		<rom name="BTOS C Compiler v1.2 (19xx)(-)(Disk 2 of 3)[B25-CE1].img" size="1474560" crc="7d000846" md5="bccf42642cf86295705f09b92073a267" sha1="5029c44b0e0818cd244a2f93bc2c3ba08ca440ec"/>
+	</game>
+	<game name="BTOS C Compiler v1.2 (19xx)(-)(Disk 3 of 3)[a][B25-CE1]">
+		<description>BTOS C Compiler v1.2 (19xx)(-)(Disk 3 of 3)[a][B25-CE1]</description>
+		<rom name="BTOS C Compiler v1.2 (19xx)(-)(Disk 3 of 3)[a][B25-CE1].img" size="1474560" crc="e2b59ea1" md5="9752b92c79f2c4d0174369dba84fcee6" sha1="332b623aac5c9e4872bf882ef86019834f9373ff"/>
+	</game>
+	<game name="BTOS C Compiler v1.2 (19xx)(-)(Disk 3 of 3)[B25-CE1]">
+		<description>BTOS C Compiler v1.2 (19xx)(-)(Disk 3 of 3)[B25-CE1]</description>
+		<rom name="BTOS C Compiler v1.2 (19xx)(-)(Disk 3 of 3)[B25-CE1].img" size="1474560" crc="88136e70" md5="108ec2c014401a2f72ac4cfbbe8187ed" sha1="8805b83de77806647cdf19e13fe3717795eb569d"/>
+	</game>
+	<game name="BTOS R-Base 5000 (19xx)(-)[MB20-DB5]">
+		<description>BTOS R-Base 5000 (19xx)(-)[MB20-DB5]</description>
+		<rom name="BTOS R-Base 5000 (19xx)(-)[MB20-DB5].img" size="1474560" crc="2e2b6092" md5="a3bcd5d823f18ac34582c903de4fc8ae" sha1="90249fd4cccd03258e54eaa53fdc5810905e86f3"/>
+	</game>
+	<game name="Calendar (19xx)(-)">
+		<description>Calendar (19xx)(-)</description>
+		<rom name="Calendar (19xx)(-).img" size="1474560" crc="a3d16f13" md5="01d15e37d8ec5eb544c77e505d2354e3" sha1="2c26dd7911c406e4d146dd54672e39f646ba5574"/>
+	</game>
+	<game name="CrashKit (19xx)(-)(Disk 1 of 4)(Boot Disk)">
+		<description>CrashKit (19xx)(-)(Disk 1 of 4)(Boot Disk)</description>
+		<rom name="CrashKit (19xx)(-)(Disk 1 of 4)(Boot Disk).img" size="1474560" crc="49ad8b7a" md5="bebba1b0312c25076a106cc906034edb" sha1="8d32d0392772aa2b9ac57f3bfbca04ac904be1a6"/>
+	</game>
+	<game name="CrashKit (19xx)(-)(Disk 2 of 4)">
+		<description>CrashKit (19xx)(-)(Disk 2 of 4)</description>
+		<rom name="CrashKit (19xx)(-)(Disk 2 of 4).img" size="1474560" crc="9e96d26e" md5="875c60b262ef2b4378fcd5f58de424cb" sha1="cc6471b6dbb908334a3bd2120c3d95304e893dc7"/>
+	</game>
+	<game name="CrashKit (19xx)(-)(Disk 3 of 4)">
+		<description>CrashKit (19xx)(-)(Disk 3 of 4)</description>
+		<rom name="CrashKit (19xx)(-)(Disk 3 of 4).img" size="1474560" crc="ad010e30" md5="edebbd18d94be99a7d16d6ba6d399c97" sha1="422bc6d582eacf9a6457ca2a5d12b6522aa9a154"/>
+	</game>
+	<game name="CrashKit (19xx)(-)(Disk 4 of 4)">
+		<description>CrashKit (19xx)(-)(Disk 4 of 4)</description>
+		<rom name="CrashKit (19xx)(-)(Disk 4 of 4).img" size="1474560" crc="5861b9f1" md5="f1aec77afc4243843dce7443cf246b56" sha1="eccb8bb90e031942a71e42a847de17823165bfa6"/>
+	</game>
+	<game name="CT Mail 61 (19xx)(-)(Disk 1 of 2)">
+		<description>CT Mail 61 (19xx)(-)(Disk 1 of 2)</description>
+		<rom name="CT Mail 61 (19xx)(-)(Disk 1 of 2).img" size="1474560" crc="dd6484a2" md5="0e5efff897c4e8c06cc252f35fa36016" sha1="b0ec10be9ee70d08cbd06b7f6051dd7f5a6be7ee"/>
+	</game>
+	<game name="CT Mail 61 (19xx)(-)(Disk 2 of 2)">
+		<description>CT Mail 61 (19xx)(-)(Disk 2 of 2)</description>
+		<rom name="CT Mail 61 (19xx)(-)(Disk 2 of 2).img" size="1474560" crc="c2e741fd" md5="17b03bfadefba85ba193151cba438de9" sha1="0773b7f4a75ab104ffc79135bbab110497884d79"/>
+	</game>
+	<game name="CTOS BASIC Compiler v9.1 (19xx)(-)">
+		<description>CTOS BASIC Compiler v9.1 (19xx)(-)</description>
+		<rom name="CTOS BASIC Compiler v9.1 (19xx)(-).img" size="1475584" crc="323a6b50" md5="dd25056c93bd6d7d1bccba043eb46441" sha1="d693e6e21b5f92e0cfa146e38defcc048414031a"/>
+	</game>
+	<game name="CTOS BASIC Interpreter (19xx)(-)[B25-BC9]">
+		<description>CTOS BASIC Interpreter (19xx)(-)[B25-BC9]</description>
+		<rom name="CTOS BASIC Interpreter (19xx)(-)[B25-BC9].img" size="1474560" crc="ab80045e" md5="5b08d5fd222b893a7dbbe167ee2f9015" sha1="4bdc56ce39aa0cbfc7397b961ddefc6236df9812"/>
+	</game>
+	<game name="CTOS Batch Manager II R2.4.100 (19xx)(-)[B25-BM2]">
+		<description>CTOS Batch Manager II R2.4.100 (19xx)(-)[B25-BM2]</description>
+		<rom name="CTOS Batch Manager II R2.4.100 (19xx)(-)[B25-BM2].img" size="1475584" crc="cf510b7d" md5="b4d77ace4077b3b7070cadd9ce3ef0dc" sha1="bb8c7a565bdd99a497a4fc91c1cdf4485afb8da7"/>
+	</game>
+	<game name="CTOS C Support Libraries (19xx)(-)[B25-LI1]">
+		<description>CTOS C Support Libraries (19xx)(-)[B25-LI1]</description>
+		<rom name="CTOS C Support Libraries (19xx)(-)[B25-LI1].img" size="1474560" crc="b8ce2832" md5="3623e61323c38a33c1cf428f1e38f9cf" sha1="4cbf03dfe8873e46dce91b3819538bbd20595ea5"/>
+	</game>
+	<game name="CTOS Cluster Access BNet v3.0.9 (19xx)(-)[B25-CLA]">
+		<description>CTOS Cluster Access BNet v3.0.9 (19xx)(-)[B25-CLA]</description>
+		<rom name="CTOS Cluster Access BNet v3.0.9 (19xx)(-)[B25-CLA].img" size="1475584" crc="2e7a3b54" md5="50c513bd3fbbfcf12fff08fc9a8811f4" sha1="23e6c2333e34a82ab98ac1ffa078238ac487b0dc"/>
+	</game>
+	<game name="CTOS COBOL Compiler (19xx)(-)(Disk 1 of 2)[B25-COB-1]">
+		<description>CTOS COBOL Compiler (19xx)(-)(Disk 1 of 2)[B25-COB-1]</description>
+		<rom name="CTOS COBOL Compiler (19xx)(-)(Disk 1 of 2)[B25-COB-1].img" size="1474560" crc="5806c56f" md5="17f1e0df1fd58862591967e7f29982b8" sha1="27ac5736b6ece91890256b8295bb21a74c87ceff"/>
+	</game>
+	<game name="CTOS COBOL Compiler (19xx)(-)(Disk 2 of 2)[B25-COB-2]">
+		<description>CTOS COBOL Compiler (19xx)(-)(Disk 2 of 2)[B25-COB-2]</description>
+		<rom name="CTOS COBOL Compiler (19xx)(-)(Disk 2 of 2)[B25-COB-2].img" size="1474560" crc="861e86cd" md5="5ca55a0a5b1abe0f9635868d219100fe" sha1="78426d39210f156864815c6bd0392ee935aba079"/>
+	</game>
+	<game name="CTOS Context Manager s5.1.3 (19xx)(-)[B25-CM6]">
+		<description>CTOS Context Manager s5.1.3 (19xx)(-)[B25-CM6]</description>
+		<rom name="CTOS Context Manager s5.1.3 (19xx)(-)[B25-CM6].img" size="1474560" crc="c1ade06e" md5="a1c564bd2ff57042cdbc0b2a066a1ded" sha1="7d5641eb82541fe9df2c4f9539bc5effb6f6e7a4"/>
+	</game>
+	<game name="CTOS Context Manager v5.1.0 (19xx)(-)[B25-CM6]">
+		<description>CTOS Context Manager v5.1.0 (19xx)(-)[B25-CM6]</description>
+		<rom name="CTOS Context Manager v5.1.0 (19xx)(-)[B25-CM6].img" size="1474560" crc="f6c94c62" md5="cbb9648dc455952d57023288c4abc8af" sha1="7900a88216d17fa472bd44c7c5d7ae566a1c7180"/>
+	</game>
+	<game name="CTOS Display Hardware Update (19xx)(-)[B25-S22]">
+		<description>CTOS Display Hardware Update (19xx)(-)[B25-S22]</description>
+		<rom name="CTOS Display Hardware Update (19xx)(-)[B25-S22].img" size="1475584" crc="57a75e4d" md5="eb8c53b6fc83848b1c6719daff99c654" sha1="7f0c8ed278765a86750d2359d2bea7b155e3f891"/>
+	</game>
+	<game name="CTOS Environment Service (19xx)(-)[B25-EVS]">
+		<description>CTOS Environment Service (19xx)(-)[B25-EVS]</description>
+		<rom name="CTOS Environment Service (19xx)(-)[B25-EVS].img" size="1474560" crc="e41d3866" md5="da3661b7ef454a7e089f5ecf3e5c4429" sha1="7810cd931236c127712f0bf0ddb3d8cb0c55a9bb"/>
+	</game>
+	<game name="CTOS Forms Designer s6.4.7 (19xx)(-)[B25-FM6]">
+		<description>CTOS Forms Designer s6.4.7 (19xx)(-)[B25-FM6]</description>
+		<rom name="CTOS Forms Designer s6.4.7 (19xx)(-)[B25-FM6].img" size="1474560" crc="f2b1c543" md5="62df8efe6de91223a7ba90538de444fe" sha1="4455ddb0d41dcc3fdfe42502e291d8031abef7ff"/>
+	</game>
+	<game name="CTOS III System Build Utilities SRA (19xx)(-)[B25_VBU]">
+		<description>CTOS III System Build Utilities SRA (19xx)(-)[B25_VBU]</description>
+		<rom name="CTOS III System Build Utilities SRA (19xx)(-)[B25_VBU].img" size="1474560" crc="779648d6" md5="58756e857a2d793d1fad528690043542" sha1="b26014129683c15f4d08bafb31785595356667d2"/>
+	</game>
+	<game name="CTOS III Virtual Mode OS System Build Utilities s1.2.32 (19xx)(-)(Disk 1 of 3)[B25-VBU-1]">
+		<description>CTOS III Virtual Mode OS System Build Utilities s1.2.32 (19xx)(-)(Disk 1 of 3)[B25-VBU-1]</description>
+		<rom name="CTOS III Virtual Mode OS System Build Utilities s1.2.32 (19xx)(-)(Disk 1 of 3)[B25-VBU-1].img" size="1474560" crc="b3bb1e80" md5="2bf4a846f941d2557456954fcb079409" sha1="b63f700b97d07e61b4e3c048c1bc38009961da21"/>
+	</game>
+	<game name="CTOS III Virtual Mode OS System Build Utilities s1.2.32 (19xx)(-)(Disk 2 of 3)[B25-VBU-2]">
+		<description>CTOS III Virtual Mode OS System Build Utilities s1.2.32 (19xx)(-)(Disk 2 of 3)[B25-VBU-2]</description>
+		<rom name="CTOS III Virtual Mode OS System Build Utilities s1.2.32 (19xx)(-)(Disk 2 of 3)[B25-VBU-2].img" size="1474560" crc="5af08586" md5="1a82b23ebbbc71f9efd010bc8fd62c13" sha1="4e4122b5e0662eb810ef61f6c5c2849b79bc6a3c"/>
+	</game>
+	<game name="CTOS III Virtual Mode OS System Build Utilities s1.2.32 (19xx)(-)(Disk 3 of 3)[B25-VBU-3]">
+		<description>CTOS III Virtual Mode OS System Build Utilities s1.2.32 (19xx)(-)(Disk 3 of 3)[B25-VBU-3]</description>
+		<rom name="CTOS III Virtual Mode OS System Build Utilities s1.2.32 (19xx)(-)(Disk 3 of 3)[B25-VBU-3].img" size="1474560" crc="b0dc485d" md5="5e0bc54bc1fd24b34205cf0cfc10f43a" sha1="9b0c52947954d82d837cd0f761792572818fc83e"/>
+	</game>
+	<game name="CTOS ISAM II s1.2.6 (19xx)(-)[B25-IS1]">
+		<description>CTOS ISAM II s1.2.6 (19xx)(-)[B25-IS1]</description>
+		<rom name="CTOS ISAM II s1.2.6 (19xx)(-)[B25-IS1].img" size="1474560" crc="4df747c7" md5="9c9bf0996dda6087a1676a6fc19b6519" sha1="dbab0d5a16b8dda804d7b24c1396ae6feec3b1d7"/>
+	</game>
+	<game name="CTOS ISAM III (19xx)(-)[B25-IS3]">
+		<description>CTOS ISAM III (19xx)(-)[B25-IS3]</description>
+		<rom name="CTOS ISAM III (19xx)(-)[B25-IS3].img" size="1474560" crc="8e621bd1" md5="57221819656ab97b9bd36488471aeb4a" sha1="9c3f2560278b90c8af810c49340bc07098358265"/>
+	</game>
+	<game name="CTOS LANce LM (19xx)(-)">
+		<description>CTOS LANce LM (19xx)(-)</description>
+		<rom name="CTOS LANce LM (19xx)(-).img" size="1475584" crc="c9494d32" md5="85c42f0f6881e564add9f69714a75c57" sha1="e42612a06e508154ac182a8f04c333f2918caa13"/>
+	</game>
+	<game name="CTOS LANce LM s1.1.7 (19xx)(-)[B25-LCE-1]">
+		<description>CTOS LANce LM s1.1.7 (19xx)(-)[B25-LCE-1]</description>
+		<rom name="CTOS LANce LM s1.1.7 (19xx)(-)[B25-LCE-1].img" size="1475584" crc="06333597" md5="43bf27f5568f57c41fb45a6e559e8f4c" sha1="921e30ff149a6653643512e7013a0d012e29d51a"/>
+	</game>
+	<game name="CTOS LANce PC v1.2.1 (19xx)(-)[B25-LPC]">
+		<description>CTOS LANce PC v1.2.1 (19xx)(-)[B25-LPC]</description>
+		<rom name="CTOS LANce PC v1.2.1 (19xx)(-)[B25-LPC].img" size="1475584" crc="177e16cd" md5="64d5e82311562b344d1d919e5683730c" sha1="b160b695a422c89baf2b8ecee8045e637e1e92f4"/>
+	</game>
+	<game name="CTOS OFIS Organizer (19xx)(-)[B25-OM2]">
+		<description>CTOS OFIS Organizer (19xx)(-)[B25-OM2]</description>
+		<rom name="CTOS OFIS Organizer (19xx)(-)[B25-OM2].img" size="1474560" crc="b97bf1d0" md5="309f8ce29d6aae1998c1656f74272483" sha1="05aaadc23247526faa286261122cfa14407b636e"/>
+	</game>
+	<game name="CTOS OSI Transport Layer v2.6.16 (19xx)(-)[B25-OTL]">
+		<description>CTOS OSI Transport Layer v2.6.16 (19xx)(-)[B25-OTL]</description>
+		<rom name="CTOS OSI Transport Layer v2.6.16 (19xx)(-)[B25-OTL].img" size="1474560" crc="d746e114" md5="82e1af8be322614a9274995c711fb1c9" sha1="edd757a1d4a6704f938878c94fe0fe988518a1a1"/>
+	</game>
+	<game name="CTOS Pascal Compiler s7.0.11 (19xx)(-)[B25-PAS]">
+		<description>CTOS Pascal Compiler s7.0.11 (19xx)(-)[B25-PAS]</description>
+		<rom name="CTOS Pascal Compiler s7.0.11 (19xx)(-)[B25-PAS].img" size="1474560" crc="fa31ad02" md5="c09ee280b3e2476e7664eee0eae52b9d" sha1="4916eef3736cc18efec93bbd7c1ac7294a8ca889"/>
+	</game>
+	<game name="CTOS Remote Access Facility (19xx)(-)(Disk 2 of 2)[B25-RAF-2]">
+		<description>CTOS Remote Access Facility (19xx)(-)(Disk 2 of 2)[B25-RAF-2]</description>
+		<rom name="CTOS Remote Access Facility (19xx)(-)(Disk 2 of 2)[B25-RAF-2].img" size="1474560" crc="f0e1be43" md5="5ea9e1d2df404fd1913d6451cf89baaa" sha1="0230bf8d092752257309344632ac223659c71726"/>
+	</game>
+	<game name="CTOS Scaling Font Service v1.0.2 (19xx)(-)(Disk 1 of 5)[B25-SF1-1]">
+		<description>CTOS Scaling Font Service v1.0.2 (19xx)(-)(Disk 1 of 5)[B25-SF1-1]</description>
+		<rom name="CTOS Scaling Font Service v1.0.2 (19xx)(-)(Disk 1 of 5)[B25-SF1-1].img" size="1474560" crc="9a9b6d37" md5="30a591bc4df23d833084bef72a026068" sha1="85153d343bbcabf0c4dd12d0c0f9c27b6c7a9ffb"/>
+	</game>
+	<game name="CTOS Scaling Font Service v1.0.2 (19xx)(-)(Disk 2 of 5)[B25-SF1-2]">
+		<description>CTOS Scaling Font Service v1.0.2 (19xx)(-)(Disk 2 of 5)[B25-SF1-2]</description>
+		<rom name="CTOS Scaling Font Service v1.0.2 (19xx)(-)(Disk 2 of 5)[B25-SF1-2].img" size="1474560" crc="0cfabbbc" md5="2d4940445f65a66155584e022db687b1" sha1="685c6c8253c5a6cc2b63acfa8f96a025fcd113c8"/>
+	</game>
+	<game name="CTOS Scaling Font Service v1.0.2 (19xx)(-)(Disk 3 of 5)[B25-SF1-3]">
+		<description>CTOS Scaling Font Service v1.0.2 (19xx)(-)(Disk 3 of 5)[B25-SF1-3]</description>
+		<rom name="CTOS Scaling Font Service v1.0.2 (19xx)(-)(Disk 3 of 5)[B25-SF1-3].img" size="1474560" crc="1913228b" md5="c4bb4ba289a34b95ea51e29c0439fb45" sha1="5c937c1b152c926d9783508ebf4cdac8a88c8e6a"/>
+	</game>
+	<game name="CTOS Software Release Announcement R1.2.1001.3.1 (19xx)(-)[B25-SRA]">
+		<description>CTOS Software Release Announcement R1.2.1001.3.1 (19xx)(-)[B25-SRA]</description>
+		<rom name="CTOS Software Release Announcement R1.2.1001.3.1 (19xx)(-)[B25-SRA].img" size="1474560" crc="67605677" md5="0e9e459929a7ab9c9b80dd1fbc6cebb2" sha1="9f0ca3a8c9d99a0c03c238c15e65b81d3f10b29d"/>
+	</game>
+	<game name="CTOS Standard Software Development Utilities R12.3.1 (19xx)(-)(Disk 1 of 3)[B25-U22-1]">
+		<description>CTOS Standard Software Development Utilities R12.3.1 (19xx)(-)(Disk 1 of 3)[B25-U22-1]</description>
+		<rom name="CTOS Standard Software Development Utilities R12.3.1 (19xx)(-)(Disk 1 of 3)[B25-U22-1].img" size="1474560" crc="a344ac98" md5="39375913fae52c3b1b8b0cd7999cdb0d" sha1="b49dd403ec13c31d727131b8da7279597648b833"/>
+	</game>
+	<game name="CTOS Standard Software Development Utilities R12.3.1 (19xx)(-)(Disk 2 of 3)[B25-U22-2]">
+		<description>CTOS Standard Software Development Utilities R12.3.1 (19xx)(-)(Disk 2 of 3)[B25-U22-2]</description>
+		<rom name="CTOS Standard Software Development Utilities R12.3.1 (19xx)(-)(Disk 2 of 3)[B25-U22-2].img" size="1474560" crc="b373c5c5" md5="c42af0e8cfd5101d5a226c8e24892530" sha1="99569da1d25f26c16e5a3ee6a90b97f8859ea1db"/>
+	</game>
+	<game name="CTOS Standard Software Development Utilities R12.3.1 (19xx)(-)(Disk 3 of 3)[B25-U22-3]">
+		<description>CTOS Standard Software Development Utilities R12.3.1 (19xx)(-)(Disk 3 of 3)[B25-U22-3]</description>
+		<rom name="CTOS Standard Software Development Utilities R12.3.1 (19xx)(-)(Disk 3 of 3)[B25-U22-3].img" size="1474560" crc="f885d975" md5="2dd82bc472a89365615f4dd7ac9c1411" sha1="135a91c966c069166438404adcda5e8a54312131"/>
+	</game>
+	<game name="CTOS Standard Software R12.3.120 (19xx)(-)(Disk 1 of 4)[B25STP-1]">
+		<description>CTOS Standard Software R12.3.120 (19xx)(-)(Disk 1 of 4)[B25STP-1]</description>
+		<rom name="CTOS Standard Software R12.3.120 (19xx)(-)(Disk 1 of 4)[B25STP-1].img" size="1474560" crc="7261cf03" md5="2b05c8a70828a222e36c4e36d2b640ec" sha1="5fcc3449f815327b4ba8dce3a1b6531aa368c8a9"/>
+	</game>
+	<game name="CTOS Standard Software R12.3.120 (19xx)(-)(Disk 2 of 4)[B25STP-2]">
+		<description>CTOS Standard Software R12.3.120 (19xx)(-)(Disk 2 of 4)[B25STP-2]</description>
+		<rom name="CTOS Standard Software R12.3.120 (19xx)(-)(Disk 2 of 4)[B25STP-2].img" size="1474560" crc="1f9b2836" md5="909b826a79380d83dc77e33a73c697e4" sha1="43b5041931422259d985568cb05155fd3a306ec9"/>
+	</game>
+	<game name="CTOS Standard Software R12.3.120 (19xx)(-)(Disk 3 of 4)[B25STP-3]">
+		<description>CTOS Standard Software R12.3.120 (19xx)(-)(Disk 3 of 4)[B25STP-3]</description>
+		<rom name="CTOS Standard Software R12.3.120 (19xx)(-)(Disk 3 of 4)[B25STP-3].img" size="1474560" crc="a4f3b202" md5="f44660ac9961e99c5bdff1e29bb2f843" sha1="33537322eae0297e5b52edd67953f9aee6987039"/>
+	</game>
+	<game name="CTOS Standard Software R12.3.120 (19xx)(-)(Disk 4 of 4)[B25STP-4]">
+		<description>CTOS Standard Software R12.3.120 (19xx)(-)(Disk 4 of 4)[B25STP-4]</description>
+		<rom name="CTOS Standard Software R12.3.120 (19xx)(-)(Disk 4 of 4)[B25STP-4].img" size="1474560" crc="43db9f6d" md5="08cce913d4b978174f7aa8870a2be82d" sha1="119f859dfe3cfb55f52cec0899d4dc18f3338fae"/>
+	</game>
+	<game name="CTOS Standard Software Updates (19xx)(-)(Disk 1 of 2)[B25-S22]">
+		<description>CTOS Standard Software Updates (19xx)(-)(Disk 1 of 2)[B25-S22]</description>
+		<rom name="CTOS Standard Software Updates (19xx)(-)(Disk 1 of 2)[B25-S22].img" size="1475584" crc="5ea2e019" md5="e3bd79390a627c75e650747ef5fe1d92" sha1="68858ebcec0acc19122e33aba18a284bda61b747"/>
+	</game>
+	<game name="CTOS Standard Software Updates (19xx)(-)(Disk 2 of 2)[B25-S22]">
+		<description>CTOS Standard Software Updates (19xx)(-)(Disk 2 of 2)[B25-S22]</description>
+		<rom name="CTOS Standard Software Updates (19xx)(-)(Disk 2 of 2)[B25-S22].img" size="1475584" crc="cd14dc08" md5="98cb764e49aa4b39718f738be20ce4e4" sha1="05ce17e92b9179664294c78a15c69d07a41c086f"/>
+	</game>
+	<game name="CTOS TCP s2.2.53 (19xx)(-)(Disk 1 of 3)[B25-TCP-1]">
+		<description>CTOS TCP s2.2.53 (19xx)(-)(Disk 1 of 3)[B25-TCP-1]</description>
+		<rom name="CTOS TCP s2.2.53 (19xx)(-)(Disk 1 of 3)[B25-TCP-1].img" size="1474560" crc="1f17db1d" md5="fac55a5b3d05a190accdb96b99988ad8" sha1="397cdf335d06082789bf898ca4ae1980e649b1e8"/>
+	</game>
+	<game name="CTOS Tool Kit (19xx)(-)(Disk 1 of 3)">
+		<description>CTOS Tool Kit (19xx)(-)(Disk 1 of 3)</description>
+		<rom name="CTOS Tool Kit (19xx)(-)(Disk 1 of 3).img" size="1474560" crc="9083fd78" md5="691608b1e2d308071f7edde891ced908" sha1="19124e0fd78651a8bd475ba7086af3ab11f517cc"/>
+	</game>
+	<game name="CTOS Tool Kit (19xx)(-)(Disk 2 of 3)">
+		<description>CTOS Tool Kit (19xx)(-)(Disk 2 of 3)</description>
+		<rom name="CTOS Tool Kit (19xx)(-)(Disk 2 of 3).img" size="1474560" crc="5b353b15" md5="9be72a84825c865c814ce55ce4c7ede2" sha1="914a3470e50c91cf1307158a6ef92772b3d8f273"/>
+	</game>
+	<game name="CTOS Tool Kit (19xx)(-)(Disk 3 of 3)">
+		<description>CTOS Tool Kit (19xx)(-)(Disk 3 of 3)</description>
+		<rom name="CTOS Tool Kit (19xx)(-)(Disk 3 of 3).img" size="1474560" crc="ad6c3df9" md5="07893becb59ee94399666e19289efb40" sha1="8d14eb3db124175cd516a0ceb8a9623a1b2f824c"/>
+	</game>
+	<game name="CTOS Video Access Method s4.4.52 (19xx)(-)[B25-VAM]">
+		<description>CTOS Video Access Method s4.4.52 (19xx)(-)[B25-VAM]</description>
+		<rom name="CTOS Video Access Method s4.4.52 (19xx)(-)[B25-VAM].img" size="1474560" crc="f7f1bc93" md5="1eceab01c957b315c071d4061ecc4b6f" sha1="5459199d201e4b3f820f5589aa3919c3a93050b7"/>
+	</game>
+	<game name="CTOS VT Terminal Emulator s2.2.19 (19xx)(-)[B25-VTE]">
+		<description>CTOS VT Terminal Emulator s2.2.19 (19xx)(-)[B25-VTE]</description>
+		<rom name="CTOS VT Terminal Emulator s2.2.19 (19xx)(-)[B25-VTE].img" size="1474560" crc="4ed70427" md5="ac298d1fb4aa036007585fb9c15e751f" sha1="4b50f3709bf0e8f8d5d667ecd717d2884c0ada1f"/>
+	</game>
+	<game name="Extended Multiplan v2.1 (19xx)(-)">
+		<description>Extended Multiplan v2.1 (19xx)(-)</description>
+		<rom name="Extended Multiplan v2.1 (19xx)(-).img" size="1474560" crc="5222348f" md5="7be18d9347c68c4ea2b2951e874a28e2" sha1="774dfef174462bdbc516ae6fce334c60dbebd070"/>
+	</game>
+	<game name="Generic Print Service s2.7.0 (19xx)(-)[a][B25-GP2]">
+		<description>Generic Print Service s2.7.0 (19xx)(-)[a][B25-GP2]</description>
+		<rom name="Generic Print Service s2.7.0 (19xx)(-)[a][B25-GP2].img" size="1474560" crc="f3419711" md5="3bd31b7b1bf9e22c67b0379bbe7300a2" sha1="bfcde232df76c07abfd085b6fed8262b9dbd1dc1"/>
+	</game>
+	<game name="Generic Print Service s2.7.0 (19xx)(-)[B25-GP2]">
+		<description>Generic Print Service s2.7.0 (19xx)(-)[B25-GP2]</description>
+		<rom name="Generic Print Service s2.7.0 (19xx)(-)[B25-GP2].img" size="1474560" crc="44da731a" md5="451581563d8b9f76023eb51ab71e242c" sha1="6459b7912baba0202bdc2d8a10d2db3689957f73"/>
+	</game>
+	<game name="Generic Print Service s2.77 (19xx)(-)[B25-GP2]">
+		<description>Generic Print Service s2.77 (19xx)(-)[B25-GP2]</description>
+		<rom name="Generic Print Service s2.77 (19xx)(-)[B25-GP2].img" size="1474560" crc="f5249bd0" md5="f6ea86576a1d82a560d54650517545c7" sha1="1469be4e179fde23c5532a39a094a9f8c4bc96a2"/>
+	</game>
+	<game name="Multiplan v3.00.1 (19xx)(-)[B20MP3-1]">
+		<description>Multiplan v3.00.1 (19xx)(-)[B20MP3-1]</description>
+		<rom name="Multiplan v3.00.1 (19xx)(-)[B20MP3-1].img" size="1474560" crc="2f1926a6" md5="0574dd8b3c68c956e9a30c07c47ebd57" sha1="3aa02867c49fddc2b00560347c6fc9f529e21b68"/>
+	</game>
+	<game name="OFIS Document Designer v3.1.100 (19xx)(-)(Disk 1 of 2)[B25-DD3-1]">
+		<description>OFIS Document Designer v3.1.100 (19xx)(-)(Disk 1 of 2)[B25-DD3-1]</description>
+		<rom name="OFIS Document Designer v3.1.100 (19xx)(-)(Disk 1 of 2)[B25-DD3-1].img" size="1474560" crc="75a5bc3d" md5="b79efb79565a8821fd4c75d4fd6235ea" sha1="dd3b5ab7120ef36e86ad1fbd22b568dac531f519"/>
+	</game>
+	<game name="OFIS Document Designer v3.1.100 (19xx)(-)(Disk 2 of 2)[B25-DD3-2]">
+		<description>OFIS Document Designer v3.1.100 (19xx)(-)(Disk 2 of 2)[B25-DD3-2]</description>
+		<rom name="OFIS Document Designer v3.1.100 (19xx)(-)(Disk 2 of 2)[B25-DD3-2].img" size="1474560" crc="82d689c7" md5="6769eeb7e635ac692aa409196aa92b5b" sha1="dfaab9df7be9754d767937325b54097d3241eb66"/>
+	</game>
+	<game name="OFIS Mail 8 (19xx)(-)(Disk 1 of 3)">
+		<description>OFIS Mail 8 (19xx)(-)(Disk 1 of 3)</description>
+		<rom name="OFIS Mail 8 (19xx)(-)(Disk 1 of 3).img" size="1474560" crc="d8051fd3" md5="e0b864e896fd31aab41befd8ec3f19e2" sha1="5ed64bbffbb75aacc3bfdb02d51e0d308929f1b6"/>
+	</game>
+	<game name="OFIS Mail 8 (19xx)(-)(Disk 2 of 3)">
+		<description>OFIS Mail 8 (19xx)(-)(Disk 2 of 3)</description>
+		<rom name="OFIS Mail 8 (19xx)(-)(Disk 2 of 3).img" size="1474560" crc="373274f7" md5="22cc260cc62cf539c101abb9ae1ef50a" sha1="bbd2145c1faf724e65c48a65bec517dd48c7bb13"/>
+	</game>
+	<game name="OFIS Mail 8 (19xx)(-)(Disk 3 of 3)">
+		<description>OFIS Mail 8 (19xx)(-)(Disk 3 of 3)</description>
+		<rom name="OFIS Mail 8 (19xx)(-)(Disk 3 of 3).img" size="1474560" crc="5ceded7c" md5="7ffda2693db987962640556671190e11" sha1="0a6ec8b2b96db865972e5542d9894914a87bcc48"/>
+	</game>
+	<game name="Project Planner v1.1 (19xx)(-)">
+		<description>Project Planner v1.1 (19xx)(-)</description>
+		<rom name="Project Planner v1.1 (19xx)(-).img" size="1474560" crc="d40daf46" md5="bf4203b5b97d68b87db94d374e3c6d43" sha1="8a46460103a4b11d637a48c212381815f254eeed"/>
+	</game>
+	<game name="R-Base Records (19xx)(-)(Disk 1 of 2)">
+		<description>R-Base Records (19xx)(-)(Disk 1 of 2)</description>
+		<rom name="R-Base Records (19xx)(-)(Disk 1 of 2).img" size="1474560" crc="21df31f2" md5="f29a5aa8174f3695a87b9b2d0b2d4e8f" sha1="0b1ac82f4399cf9216d39c2305cfa4943d16c836"/>
+	</game>
+	<game name="R-Base Records (19xx)(-)(Disk 2 of 2)">
+		<description>R-Base Records (19xx)(-)(Disk 2 of 2)</description>
+		<rom name="R-Base Records (19xx)(-)(Disk 2 of 2).img" size="1474560" crc="e71ca527" md5="054f7e6e54074620dd0aa3c37b437357" sha1="abdcafc47b456041aa9ead48d7cdd217fdbd1a14"/>
+	</game>
+	<game name="Sirius INet-CT arpa SGen v2.70 (19xx)(-)">
+		<description>Sirius INet-CT arpa SGen v2.70 (19xx)(-)</description>
+		<rom name="Sirius INet-CT arpa SGen v2.70 (19xx)(-).img" size="1474560" crc="108fe93a" md5="844fcdb00151d0f269032b08b3880c25" sha1="26e7051622a8d856bedcb8544deaa184c561e435"/>
+	</game>
+	<game name="Sirius INet-CT arpa v2.70 (19xx)(-)">
+		<description>Sirius INet-CT arpa v2.70 (19xx)(-)</description>
+		<rom name="Sirius INet-CT arpa v2.70 (19xx)(-).img" size="1474560" crc="259c50b9" md5="d38ea6a863859b2c33d1413f11a232ac" sha1="e8f1fa87a73cef5b8b3aec2729b5e7a7be133daf"/>
+	</game>
+	<game name="Sirius INet-CT Util (19xx)(-)">
+		<description>Sirius INet-CT Util (19xx)(-)</description>
+		<rom name="Sirius INet-CT Util (19xx)(-).img" size="1474560" crc="1e1d6f57" md5="aea64b5a66c02b6a0416ba2b83efad72" sha1="f731de399ece0c93bf8a2c91e164af9676c3e47f"/>
+	</game>
+	<game name="Sirius Intermail v3.2 (19xx)(-)">
+		<description>Sirius Intermail v3.2 (19xx)(-)</description>
+		<rom name="Sirius Intermail v3.2 (19xx)(-).img" size="1474560" crc="d93fe41f" md5="1d2f331b6ba7fcb2b623f946c03f34ce" sha1="b637fbd950f09750212b97548856b32c38f2e675"/>
+	</game>
+	<game name="Sirius Internet-CT Apps Source v2.60 (19xx)(-)">
+		<description>Sirius Internet-CT Apps Source v2.60 (19xx)(-)</description>
+		<rom name="Sirius Internet-CT Apps Source v2.60 (19xx)(-).img" size="1474560" crc="420a0283" md5="9ddbddc36bd291c84864cea3e39ea376" sha1="2d63f1b2d9fff026aaf9ac9423560bfad92fc2d2"/>
+	</game>
+	<game name="Sirius Internet-CT Apps v2.60 (19xx)(-)">
+		<description>Sirius Internet-CT Apps v2.60 (19xx)(-)</description>
+		<rom name="Sirius Internet-CT Apps v2.60 (19xx)(-).img" size="1474560" crc="96942de6" md5="271837e8e1f842be52f44be42c981d8a" sha1="0688562592e1215f80e58f0260f179e795ca5548"/>
+	</game>
+	<game name="Sirius S Net v3.40 (19xx)(-)">
+		<description>Sirius S Net v3.40 (19xx)(-)</description>
+		<rom name="Sirius S Net v3.40 (19xx)(-).img" size="1474560" crc="b8c497f3" md5="9f632f592bce2ea2c3bf458c6bdfa38e" sha1="9b022795f2e552086c3db0e44ba83250a70226bd"/>
+	</game>
+	<game name="Solution Designer s1.0.5 (19xx)(-)(Disk 1 of 3)">
+		<description>Solution Designer s1.0.5 (19xx)(-)(Disk 1 of 3)</description>
+		<rom name="Solution Designer s1.0.5 (19xx)(-)(Disk 1 of 3).img" size="1474560" crc="3bce3a18" md5="fb044f72a8509fd54464ec65cfdb1e0c" sha1="9a684a8913f32e66325f67f4590775ab27dd0ce7"/>
+	</game>
+	<game name="Solution Designer s1.0.5 (19xx)(-)(Disk 2 of 3)">
+		<description>Solution Designer s1.0.5 (19xx)(-)(Disk 2 of 3)</description>
+		<rom name="Solution Designer s1.0.5 (19xx)(-)(Disk 2 of 3).img" size="1474560" crc="d0b583aa" md5="e695a849527bd6211d9bcf1eece7e09f" sha1="28dd5db20d0cefd0092c07a8c824525ee38040b0"/>
+	</game>
+	<game name="Solution Designer s1.0.5 (19xx)(-)(Disk 3 of 3)">
+		<description>Solution Designer s1.0.5 (19xx)(-)(Disk 3 of 3)</description>
+		<rom name="Solution Designer s1.0.5 (19xx)(-)(Disk 3 of 3).img" size="1474560" crc="5ad55000" md5="227b84c5f339d8fc39ea82f45da2fa86" sha1="8e8af353d88b6a0c96c8052a1edb3e5b986f7489"/>
+	</game>
+	<game name="Solution Designer v1.0.1 (19xx)(-)(Disk 1 of 3)">
+		<description>Solution Designer v1.0.1 (19xx)(-)(Disk 1 of 3)</description>
+		<rom name="Solution Designer v1.0.1 (19xx)(-)(Disk 1 of 3).img" size="1474560" crc="cccf44c9" md5="a1829b371f3750b68f04182bb910971a" sha1="97e935d25d5ec98792c4c2a087b998843193b6c8"/>
+	</game>
+	<game name="Solution Designer v1.0.1 (19xx)(-)(Disk 2 of 3)">
+		<description>Solution Designer v1.0.1 (19xx)(-)(Disk 2 of 3)</description>
+		<rom name="Solution Designer v1.0.1 (19xx)(-)(Disk 2 of 3).img" size="1474560" crc="e58b11df" md5="6c2594dcaeeb2bc21d4eb389d46b5c9b" sha1="7a7d1ef603076debd133aa0886fc25c993265530"/>
+	</game>
+	<game name="Solution Designer v1.0.1 (19xx)(-)(Disk 3 of 3)">
+		<description>Solution Designer v1.0.1 (19xx)(-)(Disk 3 of 3)</description>
+		<rom name="Solution Designer v1.0.1 (19xx)(-)(Disk 3 of 3).img" size="1474560" crc="567ef928" md5="2dec5420197a9bdef1cbe13ad378fb3c" sha1="3ab3ba76199ee6f319ee446313ca93d96b62495a"/>
+	</game>
+	<game name="Task Management Service (19xx)(-)[B25-TMS]">
+		<description>Task Management Service (19xx)(-)[B25-TMS]</description>
+		<rom name="Task Management Service (19xx)(-)[B25-TMS].img" size="1474560" crc="a185ca38" md5="2937154448f682887792a8738dc8cf1c" sha1="c21ccbf97cfaeeea5beff8bfd20e62346af15986"/>
+	</game>
+	<game name="TUP Server and Tape Utilities (19xx)(-)[B25]">
+		<description>TUP Server and Tape Utilities (19xx)(-)[B25]</description>
+		<rom name="TUP Server and Tape Utilities (19xx)(-)[B25].img" size="1475584" crc="db6cca14" md5="4745d4c84743947833f041189693ccf6" sha1="807e0d26e81b06e8cf036a0310d91b939a2ff300"/>
+	</game>
+	<game name="XVT-CH System Service (19xx)(-)[B25-XS1]">
+		<description>XVT-CH System Service (19xx)(-)[B25-XS1]</description>
+		<rom name="XVT-CH System Service (19xx)(-)[B25-XS1].img" size="1474560" crc="7ad31ef4" md5="7f316804fda8d13dc0e8cb8de66d5f0a" sha1="e9a9471a157bf538ff6727c66ae8fe63b817d8d4"/>
+	</game>
+</datafile>

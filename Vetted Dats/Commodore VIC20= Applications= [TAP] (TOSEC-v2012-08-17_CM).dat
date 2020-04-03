@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore VIC20 - Applications - [TAP]</name>
+		<description>Commodore VIC20 - Applications - [TAP] (TOSEC-v2012-08-17)</description>
+		<category>TOSEC</category>
+		<version>2012-08-17</version>
+		<author>Vicman - Apache - DesertWolf - BuckyB - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="An Introduction To Basic Part 1 (1982)(Commodore)(US)(Side A)">
+		<description>An Introduction To Basic Part 1 (1982)(Commodore)(US)(Side A)</description>
+		<rom name="An Introduction To Basic Part 1 (1982)(Commodore)(US)(Side A).tap" size="1293758" crc="47587d97" md5="e0fd4c3cf652e2062a6aeb07dd8e82eb" sha1="d2a10fd1b763191f778b224a49dca9b76baf2e9c"/>
+	</game>
+	<game name="An Introduction To Basic Part 1 (1982)(Commodore)(US)(Side B)">
+		<description>An Introduction To Basic Part 1 (1982)(Commodore)(US)(Side B)</description>
+		<rom name="An Introduction To Basic Part 1 (1982)(Commodore)(US)(Side B).tap" size="967662" crc="19229ef6" md5="2029cd23f96fd2d44242e98d71cf1dff" sha1="4f7aa7f6575dac8f21e1ef9725829f96bfcf3a2d"/>
+	</game>
+	<game name="An Introduction To Basic Part 2 (1982)(Commodore)(US)(Side A)">
+		<description>An Introduction To Basic Part 2 (1982)(Commodore)(US)(Side A)</description>
+		<rom name="An Introduction To Basic Part 2 (1982)(Commodore)(US)(Side A).tap" size="1098322" crc="9f2520b5" md5="9163ae9da90584dcc0c8b1663c2646e9" sha1="0c983791cbba8095ef6fc75ae5cfb3385a0ef9d1"/>
+	</game>
+	<game name="An Introduction To Basic Part 2 (1982)(Commodore)(US)(Side B)">
+		<description>An Introduction To Basic Part 2 (1982)(Commodore)(US)(Side B)</description>
+		<rom name="An Introduction To Basic Part 2 (1982)(Commodore)(US)(Side B).tap" size="967555" crc="e27949d5" md5="8996aaab12cda6d782719947f1c07805" sha1="bc91a650881ab324d39dad5b5b2de5293115228d"/>
+	</game>
+	<game name="Psychedelia (1984)(Llamasoft)">
+		<description>Psychedelia (1984)(Llamasoft)</description>
+		<rom name="Psychedelia (1984)(Llamasoft).tap" size="232636" crc="261ff724" md5="7c14782f26e9215cf6a7176f82f03c28" sha1="85a94ba8fa0df5c61aee3de6c9bf034d9c90313f"/>
+	</game>
+	<game name="Psychedelia (1984)(Llamasoft)[a]">
+		<description>Psychedelia (1984)(Llamasoft)[a]</description>
+		<rom name="Psychedelia (1984)(Llamasoft)[a].tap" size="232627" crc="a9ddd1bc" md5="22df6fdf2db20c51b8d63d013821bb34" sha1="8ab53d679001e1b1ed3eca844302eea1f274aa5b"/>
+	</game>
+</datafile>

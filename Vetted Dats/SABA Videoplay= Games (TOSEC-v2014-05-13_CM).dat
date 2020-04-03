@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>SABA Videoplay - Games</name>
+		<description>SABA Videoplay - Games (TOSEC-v2014-05-13)</description>
+		<category>TOSEC</category>
+		<version>2014-05-13</version>
+		<author>Cid - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Muehle + Tontauben-Schiessen + Kreatives Malspiel + Videoscope (197x)(SABA)(DE)">
+		<description>Muehle + Tontauben-Schiessen + Kreatives Malspiel + Videoscope (197x)(SABA)(DE)</description>
+		<rom name="Muehle + Tontauben-Schiessen + Kreatives Malspiel + Videoscope (197x)(SABA)(DE).bin" size="2048" crc="7124dc59" md5="1fbd86dcca0e4619963b902c48ae77f2" sha1="15d5e6d152d93a2099b97a2bd5dcf7134dd1a770"/>
+	</game>
+	<game name="Rat' mal (1978)(SABA)(DE)">
+		<description>Rat' mal (1978)(SABA)(DE)</description>
+		<rom name="Rat' mal (1978)(SABA)(DE).bin" size="3072" crc="87752425" md5="913ecbaa30816c6d78de8651251761fc" sha1="35f3fb741b643c4b8e8fdbff4ed0ea24402c4528"/>
+	</game>
+	<game name="Schach (1979)(SABA)(DE)">
+		<description>Schach (1979)(SABA)(DE)</description>
+		<rom name="Schach (1979)(SABA)(DE).bin" size="6144" crc="04fb6dce" md5="5568205f926333914dedc8ef8bf16af2" sha1="cbbaa8522fee16a0cc13ed3140d41e22919da24b"/>
+	</game>
+	<game name="Schach (1979)(SABA)(DE)[b2]">
+		<description>Schach (1979)(SABA)(DE)[b2]</description>
+		<rom name="Schach (1979)(SABA)(DE)[b2].bin" size="2048" crc="22ff6036" md5="7b227de474806a8ab9474c4716a270b7" sha1="afb40a9977ef442efe7bb5880015ff65c0b90401"/>
+	</game>
+	<game name="Schach (1979)(SABA)(DE)[b]">
+		<description>Schach (1979)(SABA)(DE)[b]</description>
+		<rom name="Schach (1979)(SABA)(DE)[b].bin" size="2048" crc="917515e6" md5="7385e596bf2a58e2186439ac1e49c075" sha1="e2082895697195aebe01ff33f77ebf7c9ba023df"/>
+	</game>
+</datafile>

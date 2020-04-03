@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Altos Computer Systems Series 5 - Operating Systems - [IMD]</name>
+		<description>Altos Computer Systems Series 5 - Operating Systems - [IMD] (TOSEC-v2017-04-12)</description>
+		<category>TOSEC</category>
+		<version>2017-04-12</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Altos CP-M v2.2SO (198x)(Digital Research)[Serial Number 25-05988]">
+		<description>Altos CP-M v2.2SO (198x)(Digital Research)[Serial Number 25-05988]</description>
+		<rom name="Altos CP-M v2.2SO (198x)(Digital Research)[Serial Number 25-05988].imd" size="230539" crc="42eb5ae2" md5="e30b68b2ec7dd7bd86473beac1c153f1" sha1="0abca14a492b09a989da6274a92091f652ea6fa4"/>
+	</game>
+	<game name="MP-M-II v2.10SO (1982)(Digital Research)[Serial Number 25-4881]">
+		<description>MP-M-II v2.10SO (1982)(Digital Research)[Serial Number 25-4881]</description>
+		<rom name="MP-M-II v2.10SO (1982)(Digital Research)[Serial Number 25-4881].IMD" size="555056" crc="3570859a" md5="1f31cc6308c3ecfef3b3beaf3035e0f8" sha1="348846af10e450f11c176de4bdd07ad36961746b"/>
+	</game>
+	<game name="MP-M-II v2.15SO (1983)(Digital Research)[Serial Number 25-23025]">
+		<description>MP-M-II v2.15SO (1983)(Digital Research)[Serial Number 25-23025]</description>
+		<rom name="MP-M-II v2.15SO (1983)(Digital Research)[Serial Number 25-23025].imd" size="496806" crc="d5462d91" md5="b39e3157ad656ffa5a27a96f8acfe7a8" sha1="a5bc0da6ee1a8c0bef1930b124a4720b9a71d5eb"/>
+	</game>
+	<game name="OASIS Multi-User v5.6 (198x)(-)">
+		<description>OASIS Multi-User v5.6 (198x)(-)</description>
+		<rom name="OASIS Multi-User v5.6 (198x)(-).imd" size="561613" crc="803920c0" md5="3723608fb87ddc14c39e77d4b7d7acce" sha1="533684c948ccb13f9f1ef562f718f6e42c7420d9"/>
+	</game>
+</datafile>

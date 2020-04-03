@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Memorex Video Information System - Samplers</name>
+		<description>Memorex Video Information System - Samplers (TOSEC-v2012-07-13)</description>
+		<category>TOSEC-ISO</category>
+		<version>2012-07-13</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Title Sampler (1992)(Tandy)(US)">
+		<description>Title Sampler (1992)(Tandy)(US)</description>
+		<rom name="Title Sampler (1992)(Tandy)(US).cue" size="120" crc="1625a539" md5="eb9c5fc4958089362d57b32dc728135a" sha1="c8c50c6f0ab410261e708fdb3c87053826faa69d"/>
+		<rom name="Title Sampler (1992)(Tandy)(US).iso" size="55834624" crc="e70532f4" md5="800daa6a729c96c4a5ff39291890350b" sha1="bbedc692c4c307409c76c0b73fe77276678cf0bc"/>
+	</game>
+</datafile>

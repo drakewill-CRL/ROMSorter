@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Thomson MO5 - Games - [QD]</name>
+		<description>Thomson MO5 - Games - [QD] (TOSEC-v2011-08-23)</description>
+		<category>TOSEC</category>
+		<version>2011-08-23</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Poseidon (1984)(Coktel Vision)(FR)">
+		<description>Poseidon (1984)(Coktel Vision)(FR)</description>
+		<rom name="Poseidon (1984)(Coktel Vision)(FR).qd" size="51200" crc="81d0f82d" md5="bdb158aad3eeb26d0707cd8ff877c0f0" sha1="cf25c5e691ac4e874ad8fb6f69157ee6e3196f19"/>
+	</game>
+</datafile>

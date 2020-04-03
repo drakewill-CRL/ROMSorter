@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>IBM PC Compatibles - Compilations - Applications - [IMG]</name>
+		<description>IBM PC Compatibles - Compilations - Applications - [IMG] (TOSEC-v2019-09-01)</description>
+		<category>TOSEC</category>
+		<version>2019-09-01</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Kermit-MS v2.26 &amp; Kermit-86 v1.2 (1984)(-)(Disk 1 of 2)[b not original disk]">
+		<description>Kermit-MS v2.26 &amp; Kermit-86 v1.2 (1984)(-)(Disk 1 of 2)[b not original disk]</description>
+		<rom name="Kermit-MS v2.26 &amp; Kermit-86 v1.2 (1984)(-)(Disk 1 of 2)[b not original disk].img" size="368640" crc="056dbacc" md5="a6070663f39922fdc7a9a00cd8ac56e5" sha1="3fc17da2507f197ec536d3ac3e8f0bfa6b6f8fb9"/>
+	</game>
+	<game name="Kermit-MS v2.26 &amp; Kermit-86 v1.2 (1984)(-)(Disk 2 of 2)(Backup)[b not original disk]">
+		<description>Kermit-MS v2.26 &amp; Kermit-86 v1.2 (1984)(-)(Disk 2 of 2)(Backup)[b not original disk]</description>
+		<rom name="Kermit-MS v2.26 &amp; Kermit-86 v1.2 (1984)(-)(Disk 2 of 2)(Backup)[b not original disk].img" size="368640" crc="640b5ec1" md5="4e3ffbd395e5838b8c6976eb43f06f85" sha1="c01ed0647accfd2227b20f7e1eed8033e42cfdae"/>
+	</game>
+	<game name="Norton Collection, Die (1993)(Symantec)(DE)[sn N3WA1014R205291607GE]">
+		<description>Norton Collection, Die (1993)(Symantec)(DE)[sn N3WA1014R205291607GE]</description>
+		<rom name="Norton Collection, Die (1993)(Symantec)(DE)[sn N3WA1014R205291607GE].img" size="1474560" crc="ade1fea8" md5="72d069c50f4718c0d073a92507716b82" sha1="3952fd663108f6426e82b389114ad3f73d5a4b80"/>
+	</game>
+	<game name="PCNL Introdisk (1989)(HCC IBM-pc Gebruikersgroep)(NL)">
+		<description>PCNL Introdisk (1989)(HCC IBM-pc Gebruikersgroep)(NL)</description>
+		<rom name="PCNL Introdisk (1989)(HCC IBM-pc Gebruikersgroep)(NL).img" size="368640" crc="88154ee8" md5="d184ca060f8d5ef24a3f1e796402965f" sha1="151b1902aa2f03017f6503ae8b26e4eb40506f37"/>
+	</game>
+	<game name="PCNL Introdisk (1989)(HCC IBM-pc Gebruikersgroep)(NL)[a]">
+		<description>PCNL Introdisk (1989)(HCC IBM-pc Gebruikersgroep)(NL)[a]</description>
+		<rom name="PCNL Introdisk (1989)(HCC IBM-pc Gebruikersgroep)(NL)[a].img" size="368640" crc="8baabc7d" md5="bc4e16c79a05bc11dc54a75310a495b4" sha1="3ac690f919d3b7ab2f003da74b37b3eb2b410aa7"/>
+	</game>
+	<game name="Schild-Utilities v1.0 (1990)(Markt&amp;Technik)(DE)[b unformatted tracks]">
+		<description>Schild-Utilities v1.0 (1990)(Markt&amp;Technik)(DE)[b unformatted tracks]</description>
+		<rom name="Schild-Utilities v1.0 (1990)(Markt&amp;Technik)(DE)[b unformatted tracks].img" size="368640" crc="0302f52d" md5="6778d9cd3d5554086bfd6a847894387d" sha1="6750c70b8a8a15e0d60a2ac6b24f0660b0ae9d04"/>
+	</game>
+</datafile>

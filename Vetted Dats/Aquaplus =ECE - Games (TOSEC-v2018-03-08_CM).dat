@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Aquaplus P-ECE - Games</name>
+		<description>Aquaplus P-ECE - Games (TOSEC-v2018-03-08)</description>
+		<category>TOSEC</category>
+		<version>2018-03-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Barrage Reactor v0.1 (2003)(ABA Games)(JP)">
+		<description>Barrage Reactor v0.1 (2003)(ABA Games)(JP)</description>
+		<rom name="Barrage Reactor v0.1 (2003)(ABA Games)(JP).pex" size="122412" crc="dbede178" md5="911c2d02bfa32e29bb67bf7bfbc62c8a" sha1="eb72c45de0cf59e21c5dd65568bf3072312ec01e"/>
+	</game>
+	<game name="Battlewings (2001)(Aquaplus)(JP)">
+		<description>Battlewings (2001)(Aquaplus)(JP)</description>
+		<rom name="Battlewings (2001)(Aquaplus)(JP).pex" size="117823" crc="aec53062" md5="422c1b747f51485d1b7d7d1c255d56b4" sha1="c3e25a77410c94b70d5ee41cbd143c365c136742"/>
+	</game>
+	<game name="Fukuro v0.1 (2002)(ABA Games)(JP)">
+		<description>Fukuro v0.1 (2002)(ABA Games)(JP)</description>
+		<rom name="Fukuro v0.1 (2002)(ABA Games)(JP).pex" size="31303" crc="8147b140" md5="3e3430faa8119facf9579ea7897214d4" sha1="60f9bce66a8f09337823bb8375fc0629993e60be"/>
+	</game>
+	<game name="Re W32-Badtrance v1.0 (2001)(ABA Games)(JP)">
+		<description>Re W32-Badtrance v1.0 (2001)(ABA Games)(JP)</description>
+		<rom name="Re W32-Badtrance v1.0 (2001)(ABA Games)(JP).pex" size="196735" crc="928e1353" md5="39b06e94c6932fad2c73624ab16f2afd" sha1="5ce86fa987037452ad5507065c4064caa0ef8818"/>
+	</game>
+	<game name="Speed Barricade v1.1 (2002)(ABA Games)(JP)">
+		<description>Speed Barricade v1.1 (2002)(ABA Games)(JP)</description>
+		<rom name="Speed Barricade v1.1 (2002)(ABA Games)(JP).pex" size="106293" crc="6024cf5a" md5="1aa1600ebb9f726c95a5487196d96fbf" sha1="052706ff2b3d9b9b3111224ca6fe279ca9c2d5f2"/>
+	</game>
+	<game name="Tank Battle (2001)(Aquaplus)(JP)">
+		<description>Tank Battle (2001)(Aquaplus)(JP)</description>
+		<rom name="Tank Battle (2001)(Aquaplus)(JP).pex" size="89395" crc="6317ca35" md5="895099f77f92b6036f3e64c3ce26f963" sha1="9b0609c5f9e4b6b33082e8a62607aaff07348369"/>
+	</game>
+</datafile>

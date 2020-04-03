@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Cybiko Xtreme - Games</name>
+		<description>Cybiko Xtreme - Games (TOSEC-v2014-01-07)</description>
+		<category>TOSEC</category>
+		<version>2014-01-07</version>
+		<author>Apache - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Battle Tower Xtreme (200x)(Jace D.)(PD)">
+		<description>Battle Tower Xtreme (200x)(Jace D.)(PD)</description>
+		<rom name="Battle Tower Xtreme (200x)(Jace D.)(PD).app" size="22240" crc="7d834eca" md5="22905a4a322c91fb1b417ec561eca074" sha1="df53f3b7dfa5fb80c3e4ff3587b8c01f33daa7db"/>
+	</game>
+	<game name="Boom! Xtreme (200x)(Perry, Andrew)(PD)">
+		<description>Boom! Xtreme (200x)(Perry, Andrew)(PD)</description>
+		<rom name="Boom! Xtreme (200x)(Perry, Andrew)(PD).app" size="28642" crc="b5ad36b7" md5="ffd7252b59067b751b3791b08116c12b" sha1="a03763b33efb6d467c910516d2e50446eb76b090"/>
+	</game>
+	<game name="Dice Extreme v1.1.37 (200x)(Cybiko)">
+		<description>Dice Extreme v1.1.37 (200x)(Cybiko)</description>
+		<rom name="Dice Extreme v1.1.37 (200x)(Cybiko).app" size="50337" crc="57c7bd53" md5="5a0a2be067b2cf45bbd609ac0a1aca81" sha1="375bab5e7fd8329ffa612864a069c8fe196c3ab8"/>
+	</game>
+	<game name="Homerun Derby Xtreme (200x)(Jace D.)(PD)">
+		<description>Homerun Derby Xtreme (200x)(Jace D.)(PD)</description>
+		<rom name="Homerun Derby Xtreme (200x)(Jace D.)(PD).app" size="14478" crc="d0d222fe" md5="db3f361ab076fc3d045e0c1d2fad4450" sha1="e3909850a3cba156668a4198243fbafde319c13a"/>
+	</game>
+	<game name="Mages Adventure Extreme (200x)(Jace D.)(PD)">
+		<description>Mages Adventure Extreme (200x)(Jace D.)(PD)</description>
+		<rom name="Mages Adventure Extreme (200x)(Jace D.)(PD).app" size="17094" crc="de6fb47b" md5="1ce7e8deef95724861d487bcb6b6978a" sha1="bb083a793b4183fd211f468d79ee1646ec408bba"/>
+	</game>
+</datafile>

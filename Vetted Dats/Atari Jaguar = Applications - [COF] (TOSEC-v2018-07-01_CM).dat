@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Atari Jaguar - Applications - [COF]</name>
+		<description>Atari Jaguar - Applications - [COF] (TOSEC-v2018-07-01)</description>
+		<category>TOSEC</category>
+		<version>2018-07-01</version>
+		<author>Cid - Cassiel - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	
+	<game name="JDC Example (199x)(Lars Hannig)(PD)">
+		<description>JDC Example (199x)(Lars Hannig)(PD)</description>
+		<rom name="JDC Example (199x)(Lars Hannig)(PD).cof" size="56578" crc="1187ff8f" md5="d5092aae1b068e938b8a6dd184cef57c" sha1="6c47ca6de5f04827e142dc80556413c953f5982b"/>
+	</game>
+	
+</datafile>

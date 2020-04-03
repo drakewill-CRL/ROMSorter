@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple II - Compilations - Games - [2MG]</name>
+		<description>Apple II - Compilations - Games - [2MG] (TOSEC-v2019-12-18)</description>
+		<category>TOSEC</category>
+		<version>2019-12-18</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Total Replay v1.2 (2019-07-20)(4am)(MIT)">
+		<description>Total Replay v1.2 (2019-07-20)(4am)(MIT)</description>
+		<rom name="Total Replay v1.2 (2019-07-20)(4am)(MIT).2mg" size="33552448" crc="41d206c9" md5="1001cdbf49ab0b0eb18ad29b42ff1953" sha1="ff23928b8beff13d850c118a1f7214f460726678"/>
+	</game>
+	<game name="Total Replay v2.0 (2019-09-14)(4am)(MIT)">
+		<description>Total Replay v2.0 (2019-09-14)(4am)(MIT)</description>
+		<rom name="Total Replay v2.0 (2019-09-14)(4am)(MIT).2mg" size="33553984" crc="2c86043a" md5="b50c4c7355675340defb1d71562af0c6" sha1="c10fa80704e518f82ce7c528aef0f6714e9602bc"/>
+	</game>
+	<game name="Total Replay v2.0b1 (2019-09-06)(4am)(MIT)(beta)">
+		<description>Total Replay v2.0b1 (2019-09-06)(4am)(MIT)(beta)</description>
+		<rom name="Total Replay v2.0b1 (2019-09-06)(4am)(MIT)(beta).2mg" size="33553984" crc="d376dcaf" md5="cb73025e4b85f3903af4018083ad22f0" sha1="b9f45859b0c6eedcf6dfcb385e8a909d511f72a3"/>
+	</game>
+	<game name="Total Replay v2.0b2 (2019-09-12)(4am)(MIT)(beta)">
+		<description>Total Replay v2.0b2 (2019-09-12)(4am)(MIT)(beta)</description>
+		<rom name="Total Replay v2.0b2 (2019-09-12)(4am)(MIT)(beta).2mg" size="33553984" crc="feba4bc8" md5="a93af835417c2875d486f98f1ecc03e3" sha1="587e1371a98b80ffae91bedaa5e920b882137c68"/>
+	</game>
+</datafile>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tektronix 405x - Utilities</name>
+		<description>Tektronix 405x - Utilities (TOSEC-v2017-04-05)</description>
+		<category>TOSEC</category>
+		<version>2017-04-05</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<url>http://www.tosecdev.org</url>
+		<clrmamepro/>
+	</header>
+	<game name="Editor v2.0 (1981)(Tektronix)">
+		<description>Editor v2.0 (1981)(Tektronix)</description>
+		<rom name="160-1414.U1" size="4096" crc="675da652" md5="5f5fcc145dd2b00dd0797ddbf0882bd0" sha1="36a9677853e50a40195519dfdb6a3b3985438bc4"/>
+		<rom name="160-1415.U11" size="4096" crc="04cbc80d" md5="03106be3ca71df88a33d6ec73cb38c57" sha1="7bfb80fa099a794b18a7a5d7f8c2de4b36e245ec"/>
+	</game>
+	<game name="File Manager v3.0 (1982)(Tektronix)">
+		<description>File Manager v3.0 (1982)(Tektronix)</description>
+		<rom name="160-1419.U1" size="4096" crc="66d9d2d5" md5="17b096b1c25f6f099d2b4e9a8246636e" sha1="e603ef1cacd6a20b975cf532f2e1978dcbee9789"/>
+		<rom name="160-1420.U11" size="4096" crc="6545e073" md5="8657b5a10f5d95874f39c6e2d6906f80" sha1="63a8d774a4b6f3640a833fd8be592a1baf124f7d"/>
+		<rom name="160-1703.U13" size="4096" crc="991c9f5f" md5="01759265cb6b63cbe16a92ab8495bf12" sha1="cce038f90edec6e551049c4411da8eeca6faeb4e"/>
+	</game>
+</datafile>

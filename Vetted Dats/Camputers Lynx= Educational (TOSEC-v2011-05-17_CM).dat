@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Camputers Lynx - Educational</name>
+		<description>Camputers Lynx - Educational (TOSEC-v2011-05-17)</description>
+		<category>TOSEC</category>
+		<version>2011-05-17</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Numerons (1983)(Camsoft)(96K)(GB)(fr)">
+		<description>Numerons (1983)(Camsoft)(96K)(GB)(fr)</description>
+		<rom name="Numerons (1983)(Camsoft)(96K)(GB)(fr).tap" size="16254" crc="6059385c" md5="7934415dc91afd6e88126a2476553b30" sha1="50b282b881ae1f4740d9c211d9bfddb8a99c10ee"/>
+	</game>
+	<game name="Numerons (1983)(Camsoft)(GB)(fr)">
+		<description>Numerons (1983)(Camsoft)(GB)(fr)</description>
+		<rom name="Numerons (1983)(Camsoft)(GB)(fr).tap" size="12872" crc="261b9b5a" md5="169aa6652d1bc5c27e066e2f58390484" sha1="ee26c65da0983445842f857794dedae0f0b74acb"/>
+	</game>
+	<game name="Numerons (1983)(Camsoft)(GB)(fr)[b freezes after loading]">
+		<description>Numerons (1983)(Camsoft)(GB)(fr)[b freezes after loading]</description>
+		<rom name="Numerons (1983)(Camsoft)(GB)(fr)[b freezes after loading].tap" size="3636" crc="df965305" md5="7f184adb219be1d477b34ef9334d92aa" sha1="5a9dcd7b23542a265d5236883f8cb29bbaf24c45"/>
+	</game>
+	<game name="Rocketman - A Pair of Number Games for Kids (1983)(Bamby Software)">
+		<description>Rocketman - A Pair of Number Games for Kids (1983)(Bamby Software)</description>
+		<rom name="Rocketman - A Pair of Number Games for Kids (1983)(Bamby Software).tap" size="11446" crc="c8c27fff" md5="32896f2e3fc84fec8355980c809dd531" sha1="4fffd01529cf5498052c7efdc9a758f442b2216d"/>
+	</game>
+	<game name="Spellbound (1983)(Smith, G.)">
+		<description>Spellbound (1983)(Smith, G.)</description>
+		<rom name="Spellbound (1983)(Smith, G.).tap" size="12999" crc="68225b1d" md5="6bdb4ee8e0708391aa941014d18cd669" sha1="6243e1786386e82fca7f6a6d6f637252c270b950"/>
+	</game>
+</datafile>

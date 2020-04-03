@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>DEC PDP-10 - Collections - DEC</name>
+		<description>DEC PDP-10 - Collections - DEC (TOSEC-v2014-01-23)</description>
+		<category>TOSEC</category>
+		<version>2014-01-23</version>
+		<author>TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="DEC-10-OTMAA-A-UB (1977-06-10)(Software Services Group)(US)[TOPS-10 v6.02 RSX20F Auxiliary Diagnostic Tape]">
+		<description>DEC-10-OTMAA-A-UB (1977-06-10)(Software Services Group)(US)[TOPS-10 v6.02 RSX20F Auxiliary Diagnostic Tape]</description>
+		<rom name="DEC-10-OTMAA-A-UB (1977-06-10)(Software Services Group)(US)[TOPS-10 v6.02 RSX20F Auxiliary Diagnostic Tape].dta" size="295936" crc="1809f76a" md5="618e3f84573aea936158633d32f20912" sha1="62deed1bcceba8edd37e8461e7606647014428e4"/>
+	</game>
+	<game name="DEC-10-OTMMA-D-UB (1978-06-14)(Software Services Group)(US)[RSX20F Diagnostic Tape]">
+		<description>DEC-10-OTMMA-D-UB (1978-06-14)(Software Services Group)(US)[RSX20F Diagnostic Tape]</description>
+		<rom name="DEC-10-OTMMA-D-UB (1978-06-14)(Software Services Group)(US)[RSX20F Diagnostic Tape].dta" size="295936" crc="9d3fd6d8" md5="26c99c93d68766ff9997c9772a9116af" sha1="3eed97f8c1207a1a0d137d60818408b18d1fa893"/>
+	</game>
+	<game name="DEC-10-OTMMA-E-UB (1978-06-14)(Software Services Group)(US)[RSX20F Diagnostic Tape]">
+		<description>DEC-10-OTMMA-E-UB (1978-06-14)(Software Services Group)(US)[RSX20F Diagnostic Tape]</description>
+		<rom name="DEC-10-OTMMA-E-UB (1978-06-14)(Software Services Group)(US)[RSX20F Diagnostic Tape].dta" size="295936" crc="b0c60a10" md5="99bc121f639e9607f150ff30fec85bee" sha1="dbfab2748adb6e5d7c1a5c4a53719051fcf5c266"/>
+	</game>
+</datafile>

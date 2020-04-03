@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Diskmags - Scene - [SDA]</name>
+		<description>Commodore C64 - Diskmags - Scene - [SDA] (TOSEC-v2018-03-17)</description>
+		<category>TOSEC</category>
+		<version>2018-03-17</version>
+		<author>Duncan Twain - DesertWolf - Apache</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Vision #07 (19xx)(Vision)(Disk 1 of 2 Side A)">
+		<description>Vision #07 (19xx)(Vision)(Disk 1 of 2 Side A)</description>
+		<rom name="Vision #07 (19xx)(Vision)(Disk 1 of 2 Side A).sda" size="49280" crc="5f7d13eb" md5="d552ec7f1bf55fcb9afcba8355e94273" sha1="58d84d3b4c25837faa5a5246fef613c4abb174e8"/>
+	</game>
+	<game name="Vision #07 (19xx)(Vision)(Disk 1 of 2 Side A)[a]">
+		<description>Vision #07 (19xx)(Vision)(Disk 1 of 2 Side A)[a]</description>
+		<rom name="Vision #07 (19xx)(Vision)(Disk 1 of 2 Side A)[a].sda" size="49281" crc="e585a96e" md5="50a5b6d7342ac9432e34a586d5b0c412" sha1="59a78e8bb0fb1218c9eefb4bf0a12efb93a4a48e"/>
+	</game>
+	<game name="Vision #07 (19xx)(Vision)(Disk 1 of 2 Side B)">
+		<description>Vision #07 (19xx)(Vision)(Disk 1 of 2 Side B)</description>
+		<rom name="Vision #07 (19xx)(Vision)(Disk 1 of 2 Side B).sda" size="48128" crc="55ce1714" md5="78d58db65b7f05aeac8f7d836c5367f7" sha1="699c2d2618955c906257584e9f3ab7655d23067c"/>
+	</game>
+	<game name="Vision #07 (19xx)(Vision)(Disk 1 of 2 Side B)[a]">
+		<description>Vision #07 (19xx)(Vision)(Disk 1 of 2 Side B)[a]</description>
+		<rom name="Vision #07 (19xx)(Vision)(Disk 1 of 2 Side B)[a].sda" size="48129" crc="c88df5e7" md5="6ec4595fa01199fae11d9e698b97ceb9" sha1="17864f9321934dc259f70e7a42c70f0d644ff31d"/>
+	</game>
+	<game name="Vision #07 (19xx)(Vision)(Disk 2 of 2 Side A)">
+		<description>Vision #07 (19xx)(Vision)(Disk 2 of 2 Side A)</description>
+		<rom name="Vision #07 (19xx)(Vision)(Disk 2 of 2 Side A).sda" size="35328" crc="c4166fbf" md5="3c633253668eba4beb1eb9ae124ef3d8" sha1="a16a98280c5e64bf43c679b1ef46d85e212e8c28"/>
+	</game>
+	<game name="Vision #07 (19xx)(Vision)(Disk 2 of 2 Side A)[a]">
+		<description>Vision #07 (19xx)(Vision)(Disk 2 of 2 Side A)[a]</description>
+		<rom name="Vision #07 (19xx)(Vision)(Disk 2 of 2 Side A)[a].sda" size="35329" crc="891857ff" md5="9058d1b0a521a67667a97a67a83cb51e" sha1="d8f635b6403d18e5b50d76f30570a6094dbf99de"/>
+	</game>
+	<game name="Vision #07 (19xx)(Vision)(Disk 2 of 2 Side B)">
+		<description>Vision #07 (19xx)(Vision)(Disk 2 of 2 Side B)</description>
+		<rom name="Vision #07 (19xx)(Vision)(Disk 2 of 2 Side B).sda" size="19840" crc="0947cb7c" md5="767adcca25a11958ab62558bcd2894d5" sha1="e4c26d0c63d09535c9d04b35fe0f665eb40ea800"/>
+	</game>
+	<game name="Vision #07 (19xx)(Vision)(Disk 2 of 2 Side B)[a]">
+		<description>Vision #07 (19xx)(Vision)(Disk 2 of 2 Side B)[a]</description>
+		<rom name="Vision #07 (19xx)(Vision)(Disk 2 of 2 Side B)[a].sda" size="19841" crc="8bb89551" md5="d5b050537375bb8ed12739c8eb1742a8" sha1="937603def97ac7bf3dd298e2479465610219eedb"/>
+	</game>
+</datafile>

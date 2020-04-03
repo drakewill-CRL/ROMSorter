@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tiki Data Kontiki-100 &amp; Tiki-100 - Games</name>
+		<description>Tiki Data Kontiki-100 &amp; Tiki-100 - Games (TOSEC-v2011-05-13)</description>
+		<category>TOSEC</category>
+		<version>2011-05-13</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Femten-Spill v1.2 (1986)(Datalauget)(NO)">
+		<description>Femten-Spill v1.2 (1986)(Datalauget)(NO)</description>
+		<rom name="Femten-Spill v1.2 (1986)(Datalauget)(NO).dsk" size="409600" crc="202d5972" md5="0ffa24d60363839da6080b6eb0ea37aa" sha1="58459cc2d8a79918bb5fcf9f262af5abb6a9226a"/>
+	</game>
+	<game name="Skjulte Farger v2.5 (1986)(Datalauget)(NO)">
+		<description>Skjulte Farger v2.5 (1986)(Datalauget)(NO)</description>
+		<rom name="Skjulte Farger v2.5 (1986)(Datalauget)(NO).dsk" size="409600" crc="05b632e0" md5="026ed66cdb06f8b4fd9b973928df6431" sha1="10bf83274ce3a538752221ec7eeae7b98b18579d"/>
+	</game>
+	<game name="Tiki-Invaders v2 (1985)(Oyhus, Kim G.S.)(NO)">
+		<description>Tiki-Invaders v2 (1985)(Oyhus, Kim G.S.)(NO)</description>
+		<rom name="Tiki-Invaders v2 (1985)(Oyhus, Kim G.S.)(NO).dsk" size="204800" crc="10a9a21a" md5="ae9ea1c7dbe66468a6e263d03093bd85" sha1="5b6325248809fc356d5341f3698de1667dd9059c"/>
+	</game>
+</datafile>

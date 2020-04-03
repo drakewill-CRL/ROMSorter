@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore Amiga CDTV - Homebrew - Games - [BIN]</name>
+		<description>Commodore Amiga CDTV - Homebrew - Games - [BIN] (TOSEC-v2012-07-22)</description>
+		<category>TOSEC-ISO</category>
+		<version>2012-07-22</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Loom (1990)(Lucasfilm)(fr)[cr Angels][m]">
+		<description>Loom (1990)(Lucasfilm)(fr)[cr Angels][m]</description>
+		<rom name="Loom (1990)(Lucasfilm)(fr)[cr Angels][m].bin" size="2991744" crc="26c70bf3" md5="5f1bfb91e8c6e54b309baba06ed60b75" sha1="6a2b323233e3f073b6d035ebb60e6dc8cb982668"/>
+		<rom name="Loom (1990)(Lucasfilm)(fr)[cr Angels][m].cue" size="225" crc="9f6ea88c" md5="71fe82ecd9d0fa4ecf7126f447b65dea" sha1="bb815966935d6dce7a175d38b0dd7705f743b055"/>
+		<rom name="Loom (1990)(Lucasfilm)(fr)[cr Angels][m].mp3" size="29274112" crc="49abe912" md5="8adb34624c6ff12db8fefb66ff939ee5" sha1="e98aabebcd7f842817a58a10c4cfe4e2347e7307"/>
+	</game>
+	<game name="Monopoly (1994)(Supervision)[m]">
+		<description>Monopoly (1994)(Supervision)[m]</description>
+		<rom name="Monopoly (1994)(Supervision)[m].bin" size="1081344" crc="c8c6bcac" md5="15936c02f6738af4a816a38aaa8678e7" sha1="fe95b79a8842835ebe6d3e403e8db11c2d4b3247"/>
+		<rom name="Monopoly (1994)(Supervision)[m].cue" size="95" crc="7a51df6d" md5="7e657d4535f3ed03490e1755b3c447ab" sha1="7d09cca826e78fde451c4df4bc2e9f1b4a7ab6fb"/>
+	</game>
+</datafile>

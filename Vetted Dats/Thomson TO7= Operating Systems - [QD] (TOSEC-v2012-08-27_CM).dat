@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Thomson TO7 - Operating Systems - [QD]</name>
+		<description>Thomson TO7 - Operating Systems - [QD] (TOSEC-v2012-08-27)</description>
+		<category>TOSEC</category>
+		<version>2012-08-27</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="TO7 QDD BASIC v1.0 (1985)(Microsoft)">
+		<description>TO7 QDD BASIC v1.0 (1985)(Microsoft)</description>
+		<rom name="TO7 QDD BASIC v1.0 (1985)(Microsoft).qd" size="51200" crc="28b91794" md5="7dab49495c070b676bf107a2e0aef3eb" sha1="a82e85de2c1d5e83827a5d9d40ef54450bc7eac9"/>
+	</game>
+</datafile>

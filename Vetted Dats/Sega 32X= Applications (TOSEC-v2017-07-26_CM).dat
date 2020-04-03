@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega 32X - Applications</name>
+		<description>Sega 32X - Applications (TOSEC-v2017-07-26)</description>
+		<category>TOSEC</category>
+		<version>2017-07-26</version>
+		<author>Cassiel - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Mars Check Program v1.0 (1994-05)(Sega)(JP-US)[SDK Build]">
+		<description>Mars Check Program v1.0 (1994-05)(Sega)(JP-US)[SDK Build]</description>
+		<rom name="Mars Check Program v1.0 (1994-05)(Sega)(JP-US)[SDK Build].bin" size="4194304" crc="8f7260fb" md5="489ded0cc43448881cd863418bacf8e6" sha1="7654c6d3cf2883c30df51cf38d723ab7902280c4"/>
+	</game>
+	<game name="Mars Check Program v1.0 (1994-05)(Sega)(JP-US)[a][SDK Build]">
+		<description>Mars Check Program v1.0 (1994-05)(Sega)(JP-US)[a][SDK Build]</description>
+		<rom name="Mars Check Program v1.0 (1994-05)(Sega)(JP-US)[a][SDK Build].bin" size="65536" crc="a2da35fd" md5="68e63e08aa1b95d4b5b249ef6de7b1b3" sha1="bbc6a66ad9268a3bb6e35e565e770581e7fe8ac2"/>
+	</game>
+</datafile>

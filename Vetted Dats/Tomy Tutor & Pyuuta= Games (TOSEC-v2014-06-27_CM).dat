@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tomy Tutor &amp; Pyuuta - Games</name>
+		<description>Tomy Tutor &amp; Pyuuta - Games (TOSEC-v2014-06-27)</description>
+		<category>TOSEC</category>
+		<version>2014-06-27</version>
+		<author>F0XHOUND</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Car-azy Racer (1991)(TM)">
+		<description>Car-azy Racer (1991)(TM)</description>
+		<rom name="Car-azy Racer (1991)(TM).bin" size="16384" crc="d3d9e415" md5="18d0866c73d150a5e3f2f37eb6c41f80" sha1="aade318f130cfeedb90ad963c351e9b344a5b133"/>
+	</game>
+	<game name="Cave Crawlers (1991)(TM)">
+		<description>Cave Crawlers (1991)(TM)</description>
+		<rom name="Cave Crawlers (1991)(TM).bin" size="8192" crc="6969757d" md5="e359ec28fd9049aa3f7401db8d34012e" sha1="e28e32206a3961cd8b9522ec4edf83e2177f3457"/>
+	</game>
+	<game name="Deep Six (1991)(TM)">
+		<description>Deep Six (1991)(TM)</description>
+		<rom name="Deep Six (1991)(TM).bin" size="8192" crc="6b8a878f" md5="87e03ea7a3eb19d8530b745e70241748" sha1="f127f6641f8187ada313ebb5a6b87cd61d27f019"/>
+	</game>
+	<game name="Jungler (1991)(TM)">
+		<description>Jungler (1991)(TM)</description>
+		<rom name="Jungler (1991)(TM).bin" size="8192" crc="38dce126" md5="9158608d7dc68fde0891df9987459e45" sha1="335c509de78bf0bec25ceeef6a65ce1bdb24a62c"/>
+	</game>
+	<game name="Loco-motion (1991)(TM)">
+		<description>Loco-motion (1991)(TM)</description>
+		<rom name="Loco-motion (1991)(TM).bin" size="8192" crc="ede5ed83" md5="af147f8dfb4168557ec1dffa75fac706" sha1="6913d4040687485672b03891151b0db9a6bfcd2b"/>
+	</game>
+	<game name="Pooyan (1991)(TM)">
+		<description>Pooyan (1991)(TM)</description>
+		<rom name="Pooyan (1991)(TM).bin" size="8192" crc="96f805e4" md5="8d45008a21b6ade2f4601e78d3baca2e" sha1="40867a075d5d6c2bbcc293200af288b7494a41b5"/>
+	</game>
+	<game name="Scramble (199x)(TM)">
+		<description>Scramble (199x)(TM)</description>
+		<rom name="Scramble (199x)(TM).bin" size="8192" crc="3c23d24f" md5="e211db7e23b89dbf860732c404740ad6" sha1="cf025d180cec5bafbbae9623cd5b6177481478a9"/>
+	</game>
+	<game name="Torpedo Terror (1991)(TM)">
+		<description>Torpedo Terror (1991)(TM)</description>
+		<rom name="Torpedo Terror (1991)(TM).bin" size="8192" crc="40f82fb3" md5="c74ce7c1899378b389b4bbd9c4ec9e91" sha1="d75bf8507e5ccc5fb42da149b0bed3a810415a4f"/>
+	</game>
+	<game name="Traffic Jam (1991)(TM)">
+		<description>Traffic Jam (1991)(TM)</description>
+		<rom name="Traffic Jam (1991)(TM).bin" size="8192" crc="81f529f9" md5="d51d3bf9a2f8a9edcde443e3eb28267f" sha1="3d2fad00cd15ee8e72a005f41fc9f96e362324d2"/>
+	</game>
+</datafile>

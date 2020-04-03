@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>IBM System-360 - Applications</name>
+		<description>IBM System-360 - Applications (TOSEC-v2017-04-05)</description>
+		<category>TOSEC</category>
+		<version>2017-04-05</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<url>http://www.tosecdev.org</url>
+		<clrmamepro/>
+	</header>
+	<game name="Scientific Subroutine Package (19xx)(-)[360A CM-03X]">
+		<description>Scientific Subroutine Package (19xx)(-)[360A CM-03X]</description>
+		<rom name="Scientific Subroutine Package (19xx)(-)[360A CM-03X].tap" size="4086984" crc="000d0f3f" md5="278b8ea5a545d9277d630dae2373a6f0" sha1="5bacf03a3d519fb67efbc5b7e7e80713424be0c4"/>
+	</game>
+</datafile>

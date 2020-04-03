@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Wang VS - Games</name>
+		<description>Wang VS - Games (TOSEC-v2014-01-21)</description>
+		<category>TOSEC</category>
+		<version>2014-01-21</version>
+		<author>Grendel - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="PAKMAN (19xx)(-)">
+		<description>PAKMAN (19xx)(-)</description>
+		<rom name="PAKMAN.EMP" size="17408" crc="41db9abf" md5="a0fc9c7af89f21c1ba78b3357b83abbc" sha1="d1c93efbc00fb33f25497b4394e2dc06bbab5c0f"/>
+	</game>
+	<game name="PATIENCE (19xx)(-)">
+		<description>PATIENCE (19xx)(-)</description>
+		<rom name="PATIENCE.EMP" size="20480" crc="77539ae1" md5="a2f814490bf0eb049138f95e642f1dac" sha1="c3a735f542d72c54e9822e7b1393019b4d319097"/>
+	</game>
+	<game name="TETRIS v1.1 (1990)(Schreurs, B.F.)[p]">
+		<description>TETRIS v1.1 (1990)(Schreurs, B.F.)[p]</description>
+		<rom name="TETRIS.EMP" size="6144" crc="470bab69" md5="0dbc9fd8575f241dc944cffa279818d1" sha1="d75e99d7b3c3af2fa19d77ef97c1a0b0d2ab8eb2"/>
+	</game>
+</datafile>

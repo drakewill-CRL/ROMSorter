@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>RCA Studio II - Games - [BIN]</name>
+		<description>RCA Studio II - Games - [BIN] (TOSEC-v2014-04-23)</description>
+		<category>TOSEC</category>
+		<version>2014-04-23</version>
+		<author>Cid</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="TV Arcade I - Spacewar (1976)(RCA)">
+		<description>TV Arcade I - Spacewar (1976)(RCA)</description>
+		<rom name="TV Arcade I - Spacewar (1976)(RCA).bin" size="512" crc="021551f2" md5="e7a2cf0b9feeb465fb298af61b33ad36" sha1="4878ae6d313743d7e3bd45e05c6e5e0582d9febb"/>
+	</game>
+	<game name="TV Arcade III - Tennis-Squash (1976)(RCA)">
+		<description>TV Arcade III - Tennis-Squash (1976)(RCA)</description>
+		<rom name="TV Arcade III - Tennis-Squash (1976)(RCA).bin" size="512" crc="a21590c8" md5="1b2f07da69a3648030bf9d1ea096f2cd" sha1="c573e8cd7d1aa423d26e64a4da781a5989e4ed1d"/>
+	</game>
+	<game name="TV Arcade IV - Baseball (1976)(RCA)">
+		<description>TV Arcade IV - Baseball (1976)(RCA)</description>
+		<rom name="TV Arcade IV - Baseball (1976)(RCA).bin" size="1024" crc="d7fdedaa" md5="242d1a4ef4f4cfd54eb7cca63aba4b31" sha1="fa1e3089d05503b7b1d5e98552318d5836c1798a"/>
+	</game>
+	<game name="TV Arcade Speedway - Tag (1976)(RCA)">
+		<description>TV Arcade Speedway - Tag (1976)(RCA)</description>
+		<rom name="TV Arcade Speedway - Tag (1976)(RCA).bin" size="512" crc="a80379e2" md5="93efe190665f3f3567011a82f9c11a49" sha1="5bc93a1a7ea05411f607ed56241da88b1f8468c5"/>
+	</game>
+	<game name="TV Casino Games - Blackjack (1976)(RCA)">
+		<description>TV Casino Games - Blackjack (1976)(RCA)</description>
+		<rom name="TV Casino Games - Blackjack (1976)(RCA).bin" size="1024" crc="b30af7a9" md5="2923711d0aedb6b341b5faad80efd7d5" sha1="e328791d6aa8292d1b68abe03c7ebfefa9282ced"/>
+	</game>
+</datafile>

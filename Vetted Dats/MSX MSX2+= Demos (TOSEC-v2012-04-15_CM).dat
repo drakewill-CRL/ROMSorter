@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>MSX MSX2+ - Demos</name>
+		<description>MSX MSX2+ - Demos (TOSEC-v2012-04-15)</description>
+		<category>TOSEC</category>
+		<version>2012-04-15</version>
+		<author>XakMSX - VG8020 - jugaor - Grendel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Beppin (1988)(Cain)(NL)">
+		<description>Beppin (1988)(Cain)(NL)</description>
+		<rom name="Beppin (1988)(Cain)(NL).dsk" size="737280" crc="e151563d" md5="ef79dc69db0c57e5421b0e845f8b6efc" sha1="db2364b83d8976d21b89aa4d34c092a5ce383269"/>
+	</game>
+	<game name="Gradius III Legends (demo) (2001)(Imanok)">
+		<description>Gradius III Legends (demo) (2001)(Imanok)</description>
+		<rom name="Gradius III Legends (demo) (2001)(Imanok).dsk" size="737280" crc="c72466e9" md5="e1cfd0b1bb095d78c21adf364345e700" sha1="9e3ca9b729ebf31ebf72d64012297d13bd40691e"/>
+	</game>
+	<game name="Kimagure. Orange Road (demo) (1988)(Micro Cabin)(JP)">
+		<description>Kimagure. Orange Road (demo) (1988)(Micro Cabin)(JP)</description>
+		<rom name="Kimagure. Orange Road (demo) (1988)(Micro Cabin)(JP).dsk" size="737280" crc="1e0f573f" md5="c90242d783d26135f526653688c27cf6" sha1="3eb33749d0308b5431d04709e1eebd9c6d990718"/>
+	</game>
+	<game name="Lasp Demo (1988)(Lasp)">
+		<description>Lasp Demo (1988)(Lasp)</description>
+		<rom name="Lasp Demo (1988)(Lasp).dsk" size="737280" crc="6d4f35db" md5="6f49024a84924c4a52d60210d0fb6def" sha1="02be96449d573fb6cedb5edf9103070252e91485"/>
+	</game>
+	<game name="Megadoom (demo) (1992)(First Class Software)(NL)">
+		<description>Megadoom (demo) (1992)(First Class Software)(NL)</description>
+		<rom name="Megadoom (demo) (1992)(First Class Software)(NL).dsk" size="737280" crc="72aa680e" md5="b1c41f86c748f2c44b0bc8abcccd7721" sha1="196f0e8d263d69215cfc634e0518e7206136468d"/>
+	</game>
+	<game name="Megadoom (demo) (1992)(First Class Software)(NL)[2 disks]">
+		<description>Megadoom (demo) (1992)(First Class Software)(NL)[2 disks]</description>
+		<rom name="Megadoom (demo) (1992)(First Class Software)(NL)[2 disks].dsk" size="737280" crc="f8554ee4" md5="35147d3493d3400f126f38d9b89dba3d" sha1="70d62bfb6505ae91b1afde000d7b5fb771a8b38d"/>
+	</game>
+	<game name="Playboy Late Night (19xx)(MSX Club Challenger)">
+		<description>Playboy Late Night (19xx)(MSX Club Challenger)</description>
+		<rom name="Playboy Late Night (19xx)(MSX Club Challenger).dsk" size="737280" crc="bb945978" md5="714b966b443dff3d69eebdcc43b533e8" sha1="42594512434e00081b773ef3b888d7130863d826"/>
+	</game>
+	<game name="Sony HB-F1XV Story Disk (1990)(Sony)(JP)">
+		<description>Sony HB-F1XV Story Disk (1990)(Sony)(JP)</description>
+		<rom name="Sony HB-F1XV Story Disk (1990)(Sony)(JP).dsk" size="737280" crc="f8db5647" md5="73d5e8e33430187b33011ab32882ae5a" sha1="1a27dbdfc863f91f504e5a478b6ea4bd324f93e2"/>
+	</game>
+	<game name="Sonyc (demo) (1995)(Analogy)(ES)">
+		<description>Sonyc (demo) (1995)(Analogy)(ES)</description>
+		<rom name="Sonyc (demo) (1995)(Analogy)(ES).dsk" size="737280" crc="2bb51edf" md5="e531014445597258ef55b5b2085ab314" sha1="29acb7529bcaca5b2f82a208e501ca6352ae87f8"/>
+	</game>
+	<game name="Turtle Mania (demo) (1997)(WR)(DE)">
+		<description>Turtle Mania (demo) (1997)(WR)(DE)</description>
+		<rom name="Turtle Mania (demo) (1997)(WR)(DE).dsk" size="737280" crc="6ac549ce" md5="6eea8c1a7b134c2268121b972bfd803f" sha1="26f53fc39126975de5a607fd73c32b970a6124fc"/>
+	</game>
+</datafile>

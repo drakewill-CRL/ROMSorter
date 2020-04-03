@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore Amiga CDTV - Games - [BIN]</name>
+		<description>Commodore Amiga CDTV - Games - [BIN] (TOSEC-v2018-03-24)</description>
+		<category>TOSEC-ISO</category>
+		<version>2018-03-24</version>
+		<author>Tomse - TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+		<clrmamepro/>
+	</header>
+	<game name="Defender of the Crown II (1993)(Commodore)(CD32-CDTV)">
+		<description>Defender of the Crown II (1993)(Commodore)(CD32-CDTV)</description>
+		<rom name="Defender of the Crown II (1993)(Commodore)(CD32-CDTV).bin" size="143474352" crc="31031d5e" md5="88a6af576271601debb879bb207b1289" sha1="24e335a8bcb9762406f1ba7e3fc8151eda92d33b"/>
+		<rom name="Defender of the Crown II (1993)(Commodore)(CD32-CDTV).cue" size="591" crc="40489f18" md5="9eeb06615a168221e7cd76eeca2fcebd" sha1="54c417855c2d24a2d4256467b56db20408beea4b"/>
+	</game>
+	<game name="Xenon 2 - Megablast (1992)(Mirrorsoft)(M5)[CDTV-CD32]">
+		<description>Xenon 2 - Megablast (1992)(Mirrorsoft)(M5)[CDTV-CD32]</description>
+		<rom name="Xenon 2 - Megablast (1992)(Mirrorsoft)(M5)[CDTV-CD32].bin" size="725897760" crc="fa23ab76" md5="e7e6d86933ea487984491ff87e51e8da" sha1="d6a35798d4fd6c48e3111bb0eb182ac27adfab13"/>
+		<rom name="Xenon 2 - Megablast (1992)(Mirrorsoft)(M5)[CDTV-CD32].cue" size="604" crc="600c0b8e" md5="9c38a841d026c35efc0f60643326ed93" sha1="0f83190153916d77f7f62c144efc66f1e77011c1"/>
+	</game>
+</datafile>

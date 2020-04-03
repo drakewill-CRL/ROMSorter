@@ -10,7 +10,6 @@ namespace RomDatabase
 {
     public class Database
     {
-        //TODO: add option to 'zip files after identifying' instead of simply moving them. May need extra logic for multi-file games
         //TODO: set up app to create DB and loads dat from an internet location if DB is missing. (Maybe 1 URL for current file and date, 1 URL for actual file. This would let me update apps remotely)
         //TODO: remember window position on close, restore on start.
         //TODO: reorganize code to make 'games' single-file entries, 'discs' multi-file entries inside folders (done). Can then update DATImporter to automatically save game info to the right spot.(todo)
@@ -19,7 +18,7 @@ namespace RomDatabase
         //TODO: Write an autoguess routine to attempt to fill in some extra data columns. Might need a separate database for manually edited entries and apply those changes after guessing. Ex: set genre to 'edutainment' if name has 'learning' in it, racing for racing, sports for ball, etc.
         //TODO: Keep the UI simple. List big counts and big buttons for easy stuff. Maybe a couple drop downs for how to sort games. Checkboxes for toggles.
         //TODO: Reference tables. Set up reference tables for genre, console, other columns with repeated data.
-        //TODO Set up entities to see if that can save me some time in the future instead of writing boilerplate database code
+        //TODO Set up entities to see if that can save me some time in the future instead of writing boilerplate database code. Or remove the EF as a dependency
         //TODO: use prepared statements and recycle SQLiteCOmmand objects, changing parameters where possible.
         //TODO: make the UI use native windows components to look a little more modern. Not totally sure how .NET does that.
         //TODO: figure out how to handle files over 2GB in size? This would be for ISOs for modern systems.
@@ -29,7 +28,6 @@ namespace RomDatabase
         //TODO: Reporter will also need to look into zip files if the checkbox is selected.
         //TODO: reporter needs to support discs as well as games. Only scanning by folder name for consoles available in the discs table might help?
         //NOT TODO: if I use description as filename all the time, I could consolidate this down to one table, but I'd have to add some processing logic to everything to figure out if i need a single file or multiples that way. Lets not do this
-        //TODO: make checkbox to determine if files should be zipped or moved to destination. (to implement)
         //TODO: add .rar support (for reading)
         //TODO: add .7z support (for reading)?
         //TODOL: add high-integrity disc dat reading. If an entry is already found in 1 game, check to see if all of its entries match on size/hashes.
@@ -49,7 +47,7 @@ namespace RomDatabase
         //Sufami Turbo (NOINTRO) - whatever this is.
         //Satellaview (NOINTRO)
         //N64 and DD (TOSEC and NOINTRO)
-        //GameCube (TOSEC, ISO files treated as Games not Discs)
+        //GameCube (TOSEC and Redump)
         //GB (TOSEC and NOINTRO)
         //GBC (TOSEC and NOINTRO)
         //GBA (TOSEC and NOINTRO)
@@ -67,23 +65,46 @@ namespace RomDatabase
         //GameGear (TOSEC and NOINTRO)
         //Genesis-megadrive (TOSEC, minus multipart, and NoIntro)
         //32X (TOSEC and NOINTRO)
-        //Sega CD (TOSEC) - there isnt a NOINTRO dat
+        //Sega CD (TOSEC and Redump)
         //Sega 32XCD (TOSEC)
         //Saturn (TOSEC)
-        //Dreamcast (TOSEC), isnt a NOINTRO dat
+        //Dreamcast (TOSEC and Redump)
+
+            //Atari:
+            //2600 (TOSEC)
+            //5200 (TOSEC)
+            //7800 (TOSEC)
+            //Lynx (TOSEC)
+            //Jaguar (TOSEC)
+
+            //NEC:
+            //TurboGrafix-16/PCEngine (TOSEC)
+            //Supergrafix
 
         //Microsoft:
+        //XBOX (redump)
         //XBOX 360 (digital) Nointro Unofficial
+
+            //Sony
+            //PS1 (Redump and tosec)
+            //PS2 (redump and tosec)
+            //PS3 (unofficial nointro)
 
         //SNK:
         //NGP (TOSEC and NOIntro)
         //NGPC (TOSEC and NOINTRO)
 
+        //3DO (TOSEC)
+        //Acorn Achimedes (TOSEC)
+        //American Laser Games (TOSEC)
+        //Infocom commercial releases (TOSEC)
         //Nokia N-GAGE (NOINTRO)
         //Tiger game.com (TOSEC and NOINTRO)
         //Infocom ZMachine (TOSEC) - Looks like commercial releases only
         //Capcom CPS3 cds (TOSEC)
         //Tandy TRS80 (TOSEC)
+        //Bandai Wonderswan and Color (TOSEC)
+        //Colecovision (TOSEC)
 
         //stuff to track down
         //non-NES homebrew on NESWorld.com
@@ -98,7 +119,7 @@ namespace RomDatabase
         //NES Homebrews (several not previously documented) Check itch.io for more.
         //NES Prototypes (newer discoveries, see HiddenPalace.org for newer dumps than these maintainers have done. Check multiple pages (As table seems to have no NES entries after P, but By Console has lots more)
         //SMS Prototypes (brand new one!)
-        //Hidden Palace Prototypes - I have a bunch already from 2008, mostly Sega, should check if they're documented already.
+        //Hidden Palace Prototypes - I have a bunch already from 2008, mostly Sega, should check if they're documented already. Those are.
         //--Also need to dig through their 'Unused Files' page to see what files might be uploaded and not linked to correctly.
         //SCUMMVM 2.1 
         //Future Pinball (in process) from Pleasuredome torrent. Needs to be sorted into single-file and multi-file tables. Not just distribution packs
@@ -202,7 +223,7 @@ namespace RomDatabase
         static string Set1G1RByID = "UPDATE games SET Is1G1R = 1 WHERE id = @id";
 
         //Note 1: INTEGER PRIMARY KEY is long instead of int. other INTEGERS might be too
-        public static string conString = "Data Source=RomDB.sqlite;Synchronous=Off;Journal_Mode=MEMORY;"; //Pragman statements go in the connection string.
+        public static string conString = "Data Source=RomDB.sqlite;Synchronous=Off;Journal_Mode=MEMORY;"; //Pragma statements go in the connection string.
                                                                                                           //string conString = "Data Source=:memory:"; //Also works, doesn't write to disk.
 
         #endregion
@@ -502,7 +523,7 @@ namespace RomDatabase
                 }
 
             }
-            return results1;
+            return results1.OrderBy(r => r.Item1).ToList();
 
         }
 

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>DEC PDP-1 - Applications - [MAC]</name>
+		<description>DEC PDP-1 - Applications - [MAC] (TOSEC-v2014-01-13)</description>
+		<category>TOSEC</category>
+		<version>2014-01-13</version>
+		<author>TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="DEC Debugging Tape (1966-08-20)(DEC)(US)">
+		<description>DEC Debugging Tape (1966-08-20)(DEC)(US)</description>
+		<rom name="DEC Debugging Tape (1966-08-20)(DEC)(US).mac" size="16821" crc="0b90cc53" md5="d6857d08bdb7184105907d5ad0e802c8" sha1="2645346dbe48000d781992fa5131ebcf09bfac09"/>
+	</game>
+	<game name="DEC Debugging Tape (1966-08-20)(DEC)(US)[a]">
+		<description>DEC Debugging Tape (1966-08-20)(DEC)(US)[a]</description>
+		<rom name="DEC Debugging Tape (1966-08-20)(DEC)(US)[a].mac" size="15062" crc="1b131a23" md5="de2316262a38ad68afd0c38477f9a9f1" sha1="d817b3475073fba65c82534a901686f49b8ef982"/>
+	</game>
+	<game name="Harmony Compiler Phase 1 (1963-05-21)(Samson, Peter)(US)">
+		<description>Harmony Compiler Phase 1 (1963-05-21)(Samson, Peter)(US)</description>
+		<rom name="Harmony Compiler Phase 1 (1963-05-21)(Samson, Peter)(US).mac" size="19185" crc="9eca054f" md5="4b96cdb4d708735a56a41d043a2100b5" sha1="6c4c0f62da00bd7f5ef079f4a7f976cf81776dc4"/>
+	</game>
+</datafile>

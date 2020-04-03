@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>IBM PCjr - Applications - [JRC]</name>
+		<description>IBM PCjr - Applications - [JRC] (TOSEC-v2011-01-02)</description>
+		<category>TOSEC</category>
+		<version>2011-01-02</version>
+		<author>Aral</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Cartridge BASIC (1983)(Microsoft)">
+		<description>Cartridge BASIC (1983)(Microsoft)</description>
+		<rom name="Cartridge BASIC (1983)(Microsoft).jrc" size="33280" crc="9aff6bb4" md5="8a717ea02a1d661fd2d53451fe90e3c9" sha1="e281a8dc4e2ad21e6284944052e56b9559a7ec22"/>
+	</game>
+	<game name="IBM PCjr ColorPaint (1984)(IBM)">
+		<description>IBM PCjr ColorPaint (1984)(IBM)</description>
+		<rom name="IBM PCjr ColorPaint (1984)(IBM).jrc" size="65536" crc="9e444889" md5="6596dca4ace58ff25b2844f907cd66d1" sha1="681e5317c3c7c326534256d94de5b73cf991766f"/>
+	</game>
+	<game name="IBM PCjr ColorPaint (1984)(IBM)[a]">
+		<description>IBM PCjr ColorPaint (1984)(IBM)[a]</description>
+		<rom name="IBM PCjr ColorPaint (1984)(IBM)[a].jrc" size="66048" crc="c7a331c0" md5="40b03be20a5571fb84d3e4d118c097a6" sha1="d6a9405f81582bd45b8fdf94e19d00ba1fe342ad"/>
+	</game>
+	<game name="Lotus 1-2-3 (1982)(Lotus Development Corp)(Disk 1 of 2)">
+		<description>Lotus 1-2-3 (1982)(Lotus Development Corp)(Disk 1 of 2)</description>
+		<rom name="Lotus 1-2-3 (1982)(Lotus Development Corp)(Disk 1 of 2).jrc" size="66048" crc="cdff843c" md5="2e7e44c5721122adc9c6bd1a836c1e8f" sha1="cb034a522feabb85b1d89139d28dcc412dae0fdc"/>
+	</game>
+	<game name="Lotus 1-2-3 (1982)(Lotus Development Corp)(Disk 2 of 2)">
+		<description>Lotus 1-2-3 (1982)(Lotus Development Corp)(Disk 2 of 2)</description>
+		<rom name="Lotus 1-2-3 (1982)(Lotus Development Corp)(Disk 2 of 2).jrc" size="66048" crc="0e323c0b" md5="ceb71563640901aa10ee4b5c530be50a" sha1="b58a9e51802c8820b6408bd2fb06dc7a50e4c4eb"/>
+	</game>
+</datafile>

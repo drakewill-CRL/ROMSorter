@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>NEC PC-Engine CD &amp; TurboGrafx-16 CD - Compilations</name>
+		<description>NEC PC-Engine CD &amp; TurboGrafx-16 CD - Compilations (TOSEC-v2019-04-18)</description>
+		<category>TOSEC-ISO</category>
+		<version>2019-04-18</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="4 in 1 Super CD (1992)(Hudson)(US)">
+		<description>4 in 1 Super CD (1992)(Hudson)(US)</description>
+		<rom name="4 in 1 Super CD (1992)(Hudson)(US).ccd" size="4240" crc="1cea84af" md5="018ce235fbb256109e1c90c02db01cf8" sha1="afe93008528a732bb3d04151a0ba5f2d79acc3f4"/>
+		<rom name="4 in 1 Super CD (1992)(Hudson)(US).cue" size="11030" crc="d48b9e58" md5="560f09e5d87e88e40c7b5c9f7c79b3ed" sha1="691f947161d7820a1b175aa7b4db32994e234c2f"/>
+		<rom name="4 in 1 Super CD (1992)(Hudson)(US).img" size="532864416" crc="36445b00" md5="7ccde9a2bb847e278d18931004462844" sha1="d9ef86c032095427676a52c2affed9fa084d2c08"/>
+		<rom name="4 in 1 Super CD (1992)(Hudson)(US).sub" size="21749568" crc="64442b0e" md5="81dfd5fbcf3d9519dbfca6ca10e91bd5" sha1="86d5944df99e382643a60d42230b0fe1769ad23d"/>
+	</game>
+	<game name="Nightmare Collection - Dead of the Brain 1 &amp; 2 (1999)(NEC)(JP)">
+		<description>Nightmare Collection - Dead of the Brain 1 &amp; 2 (1999)(NEC)(JP)</description>
+		<rom name="Nightmare Collection - Dead of the Brain 1 &amp; 2 (1999)(NEC)(JP).ccd" size="5992" crc="0dcc7909" md5="1a86521f53b5cbca6294c0104bc322ae" sha1="c5accacfe36c1c33c5de028049bea2546286e11e"/>
+		<rom name="Nightmare Collection - Dead of the Brain 1 &amp; 2 (1999)(NEC)(JP).cue" size="14783" crc="b3817596" md5="c29dec3acfbdafb99246f2d4b6807003" sha1="39837e94aa5feb1446faa8e0d63bb1099269c2cd"/>
+		<rom name="Nightmare Collection - Dead of the Brain 1 &amp; 2 (1999)(NEC)(JP).img" size="490782432" crc="46c959e3" md5="615d34e06aa383a60f4c28ad6f0a21cb" sha1="8ae6b473b10341ca933123a3a938cb86bd72d199"/>
+		<rom name="Nightmare Collection - Dead of the Brain 1 &amp; 2 (1999)(NEC)(JP).sub" size="20031936" crc="a0e1ca99" md5="96de94ef1c273194c1c52e7512e2f92f" sha1="8815192911423517cc9f9f6fab535b619d7b50e0"/>
+	</game>
+	<game name="Super Real Mahjong PII-III Custom (1994)(Naxat)(JP)">
+		<description>Super Real Mahjong PII-III Custom (1994)(Naxat)(JP)</description>
+		<rom name="Super Real Mahjong PII-III Custom (1994)(Naxat)(JP).ccd" size="12436" crc="751a7625" md5="36b53151f23e8db9673362281b3d31e6" sha1="f19d48caed8cd8aa65d08ece0b241bdb3b783cd0"/>
+		<rom name="Super Real Mahjong PII-III Custom (1994)(Naxat)(JP).cue" size="31399" crc="c245f2bf" md5="ea372bb44f05fc9b6a8a9b99517b63be" sha1="e22c259d2d2bc611e341cbef686fd7fdf16f74ae"/>
+		<rom name="Super Real Mahjong PII-III Custom (1994)(Naxat)(JP).img" size="519011136" crc="c650667e" md5="19a38e0a5497c2ee65457e4c0e94651e" sha1="74adc1087f43187f7ddc7aa5aa186873ecde23d8"/>
+		<rom name="Super Real Mahjong PII-III Custom (1994)(Naxat)(JP).sub" size="21184128" crc="e4771725" md5="1c95fb88f3b83784fa9eefc12d4f23d8" sha1="7d68b21661cc00068c6d8009acb88b1008e5930b"/>
+	</game>
+</datafile>

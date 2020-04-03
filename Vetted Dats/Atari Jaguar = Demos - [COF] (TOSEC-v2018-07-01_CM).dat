@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+<header>
+		<name>Atari Jaguar - Demos - [COF]</name>
+		<description>Atari Jaguar - Demos - [COF] (TOSEC-v2018-07-01)</description>
+		<category>TOSEC</category>
+		<version>2018-07-01</version>
+		<author>Cid - Cassiel - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>	
+	<game name="BadCode0 (1999)(Badcoder)(PD)[COF]">
+		<description>BadCode0 (1999)(Badcoder)(PD)[COF]</description>
+		<rom name="BadCode0 (1999)(Badcoder)(PD)[COF].cof" size="161031" crc="466a92c8" md5="4d74fffce1fb576a9993bee9086502b9" sha1="1103f53d37616dc5388b0a43feea62ed7caf0fa6"/>
+	</game>
+	<game name="BadCode1 (1999)(Badcoder)(PD)[COF]">
+		<description>BadCode1 (1999)(Badcoder)(PD)[COF]</description>
+		<rom name="BadCode1 (1999)(Badcoder)(PD)[COF].cof" size="210503" crc="800d7c67" md5="2a2ba4b20713bed61d47e7afc12e9192" sha1="5c170f54e90362a1d7c95751bfa022ed8247867a"/>
+	</game>
+	<game name="BadCode2 (2000)(Badcoder)(PD)[COF]">
+		<description>BadCode2 (2000)(Badcoder)(PD)[COF]</description>
+		<rom name="BadCode2 (2000)(Badcoder)(PD)[COF].cof" size="327367" crc="2a0c9443" md5="dc3bd5a10d93c0286a7e82fb875b8ec9" sha1="c4d176b2a584ab871e75f563723acc1e9274172a"/>
+	</game>
+	<game name="SlamRacer Intro (19xx)(-)(PD)">
+		<description>SlamRacer Intro (19xx)(-)(PD)</description>
+		<rom name="SlamRacer Intro (19xx)(-)(PD).cof" size="484255" crc="63d6c1c6" md5="cd4f72277e9c042b0e523dfb6f839aa9" sha1="b6879f850a406187b7f9a3222db35266ae009e2f"/>
+	</game>
+		
+</datafile>

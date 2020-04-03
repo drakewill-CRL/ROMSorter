@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Acorn BBC - Games - [ADL]</name>
+		<description>Acorn BBC - Games - [ADL] (TOSEC-v2013-10-22)</description>
+		<category>TOSEC</category>
+		<version>2013-10-22</version>
+		<author>CRSV - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Soccer Challenge (19xx)(Discovery)[h 8-Bit][ADFS]">
+		<description>Soccer Challenge (19xx)(Discovery)[h 8-Bit][ADFS]</description>
+		<rom name="Soccer Challenge (19xx)(Discovery)[h 8-Bit][ADFS].adl" size="655360" crc="5da0172b" md5="17184db748fd9f784f811323553bb52a" sha1="83f905391ae3062b02a92049706167f2c5dfaa07"/>
+	</game>
+	<game name="Sunday - A Graphic Adventure (1999)(Dave)(Disk 1 of 2)[h 8-Bit][a][ADFS]">
+		<description>Sunday - A Graphic Adventure (1999)(Dave)(Disk 1 of 2)[h 8-Bit][a][ADFS]</description>
+		<rom name="Sunday - A Graphic Adventure (1999)(Dave)(Disk 1 of 2)[h 8-Bit][a][ADFS].adl" size="655360" crc="4e74cdd6" md5="0c8477a63881917f9850f49415bc765e" sha1="cc3274ae0a8623c3effa5e5ec082787bb14e5716"/>
+	</game>
+	<game name="Sunday - A Graphic Adventure (1999)(Dave)(Disk 1 of 2)[h 8-Bit][ADFS]">
+		<description>Sunday - A Graphic Adventure (1999)(Dave)(Disk 1 of 2)[h 8-Bit][ADFS]</description>
+		<rom name="Sunday - A Graphic Adventure (1999)(Dave)(Disk 1 of 2)[h 8-Bit][ADFS].adl" size="655360" crc="1887dd13" md5="2cd613b7cc6a8da5f23119bdd00a5cd7" sha1="22b5f9b9f10087fae13f5dd532938ad2aa7a0c1b"/>
+	</game>
+	<game name="Sunday - A Graphic Adventure (1999)(Dave)(Disk 2 of 2)[h 8-Bit][a][ADFS]">
+		<description>Sunday - A Graphic Adventure (1999)(Dave)(Disk 2 of 2)[h 8-Bit][a][ADFS]</description>
+		<rom name="Sunday - A Graphic Adventure (1999)(Dave)(Disk 2 of 2)[h 8-Bit][a][ADFS].adl" size="655360" crc="aac1a30d" md5="4847cd625f0463d095b67aa6dcc30219" sha1="83263cf70e8658c415d2efa7722bf21d0d6c0938"/>
+	</game>
+	<game name="Sunday - A Graphic Adventure (1999)(Dave)(Disk 2 of 2)[h 8-Bit][ADFS]">
+		<description>Sunday - A Graphic Adventure (1999)(Dave)(Disk 2 of 2)[h 8-Bit][ADFS]</description>
+		<rom name="Sunday - A Graphic Adventure (1999)(Dave)(Disk 2 of 2)[h 8-Bit][ADFS].adl" size="655360" crc="4e56eaa8" md5="243fedec1771a859ed58dbe78ea33685" sha1="96f03fca77179354e611f700521ddc54994dfd45"/>
+	</game>
+</datafile>

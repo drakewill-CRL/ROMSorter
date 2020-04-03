@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sharp MZ-800 &amp; MZ-1500 - Games</name>
+		<description>Sharp MZ-800 &amp; MZ-1500 - Games (TOSEC-v2014-05-13)</description>
+		<category>TOSEC</category>
+		<version>2014-05-13</version>
+		<author>Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Highway (19xx)(Vortex - Ladinek)">
+		<description>Highway (19xx)(Vortex - Ladinek)</description>
+		<rom name="Highway (19xx)(Vortex - Ladinek).mzf" size="32934" crc="1a874748" md5="5e87f4b86d6001582e18c8acf511d590" sha1="e3d1efce5b5be6161d9c10de5f76a8403a852cab"/>
+	</game>
+	<game name="James v1.0c (19xx)(Pilsoft)(cs)">
+		<description>James v1.0c (19xx)(Pilsoft)(cs)</description>
+		<rom name="James v1.0c (19xx)(Pilsoft)(cs).mzf" size="20096" crc="c1d09b07" md5="bcd51d2c108ee2733b9da026266ed8ae" sha1="eac93ed135bf1e66a8a3c8b5f5a0c6c86d73d3a6"/>
+	</game>
+	<game name="Uridium (1990)(Hewson - Petr Patik)">
+		<description>Uridium (1990)(Hewson - Petr Patik)</description>
+		<rom name="Uridium (1990)(Hewson - Petr Patik).mzf" size="44672" crc="1664e09b" md5="b03c6506fcec038a513559bee616cf1a" sha1="780bff6accaac67982e5580b59b72b26d58df130"/>
+	</game>
+</datafile>

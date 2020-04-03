@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Acorn BBC - Games - [DSD]</name>
+		<description>Acorn BBC - Games - [DSD] (TOSEC-v2013-10-22)</description>
+		<category>TOSEC</category>
+		<version>2013-10-22</version>
+		<author>CRSV - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Dunjunz (1987)(Bug Byte)[b]">
+		<description>Dunjunz (1987)(Bug Byte)[b]</description>
+		<rom name="Dunjunz (1987)(Bug Byte)[b].dsd" size="184832" crc="24ef780d" md5="fb04b90817a84b16ffaff7e8381fc57d" sha1="a7e9b12e58f2902be2bb2ce3708cb10fb7d1d791"/>
+	</game>
+	<game name="Dunjunz (1987)(Bug Byte)[DUNJUNZ]">
+		<description>Dunjunz (1987)(Bug Byte)[DUNJUNZ]</description>
+		<rom name="Dunjunz (1987)(Bug Byte)[DUNJUNZ].dsd" size="185344" crc="6d77f67d" md5="0820b090d74459308cb0d0242ce2c2e1" sha1="1e96ccddac261d4d871d86cded7a60c8b5e85477"/>
+	</game>
+	<game name="Dunjunz (1987)(Bug Byte)[h TSTH]">
+		<description>Dunjunz (1987)(Bug Byte)[h TSTH]</description>
+		<rom name="Dunjunz (1987)(Bug Byte)[h TSTH].dsd" size="189440" crc="5c529c87" md5="d07fdb3e69d6b2f851b5f5d7e74873ce" sha1="f078d2aba2a83a03274eb7a9f76aa369a9452dd8"/>
+	</game>
+	<game name="Dunjunz (1987)(Bug Byte)[h TSTH][a]">
+		<description>Dunjunz (1987)(Bug Byte)[h TSTH][a]</description>
+		<rom name="Dunjunz (1987)(Bug Byte)[h TSTH][a].dsd" size="58880" crc="7f9c137b" md5="7bb3cbc2ae4e16a93427fbc5fd51c07c" sha1="bb95d32a54c6066c34fa2d1e2d5166de4400e017"/>
+	</game>
+	<game name="Elite (1984)(Acornsoft)[h 8-Bit]">
+		<description>Elite (1984)(Acornsoft)[h 8-Bit]</description>
+		<rom name="Elite (1984)(Acornsoft)[h 8-Bit].dsd" size="409600" crc="6c46b258" md5="db974b35f1e2dbf66226b9329909052a" sha1="14badd93d3b047c1cfb448b67343eebf901de0f5"/>
+	</game>
+	<game name="Hostages (1990)(Superior)">
+		<description>Hostages (1990)(Superior)</description>
+		<rom name="Hostages (1990)(Superior).dsd" size="146688" crc="c7cdd8fc" md5="33bf72cd89f0b51abdd527109420d236" sha1="5dced7ae6a4da90ba4076b8253e3a2ce1a696fba"/>
+	</game>
+	<game name="Lancelot (1988)(Level 9 - Mandarin)[!BOOT]">
+		<description>Lancelot (1988)(Level 9 - Mandarin)[!BOOT]</description>
+		<rom name="Lancelot (1988)(Level 9 - Mandarin)[!BOOT].dsd" size="409600" crc="867b0945" md5="96cfb2bc6adcd726f0d07789015c6fd1" sha1="343ab51dbe83c0827919b4c4a254e707a652d8b4"/>
+	</game>
+	<game name="Last Ninja 2, The (19xx)(Superior)">
+		<description>Last Ninja 2, The (19xx)(Superior)</description>
+		<rom name="Last Ninja 2, The (19xx)(Superior).dsd" size="152320" crc="3b8e5675" md5="5d540567844796d45dd0421d4270755c" sha1="c9650322746db08ccf06b03fd70599916530c771"/>
+	</game>
+	<game name="Last Ninja, The (1988)(Superior)">
+		<description>Last Ninja, The (1988)(Superior)</description>
+		<rom name="Last Ninja, The (1988)(Superior).dsd" size="153088" crc="7a780ad2" md5="49097d1717aeef13fe803bded827fdde" sha1="e2a9dea1571fd474670ba220bb980895a3b698f1"/>
+	</game>
+	<game name="Master Break (19xx)(Superior)">
+		<description>Master Break (19xx)(Superior)</description>
+		<rom name="Master Break (19xx)(Superior).dsd" size="208128" crc="ab71460c" md5="949ce23186a14711adeb6104cf708e15" sha1="73f9ea9a1d34d881e50d69d351df12172b1e2556"/>
+	</game>
+	<game name="Master Break (19xx)(Superior)[h TSTH]">
+		<description>Master Break (19xx)(Superior)[h TSTH]</description>
+		<rom name="Master Break (19xx)(Superior)[h TSTH].dsd" size="104960" crc="93b6db07" md5="57472847cb026070c19145a2ae27641c" sha1="5facee922c4d01d5f1f091ef7b3993f18e6bacc8"/>
+	</game>
+	<game name="Mix Mania II (1991)(Yorkshire Boys)[h 8-Bit]">
+		<description>Mix Mania II (1991)(Yorkshire Boys)[h 8-Bit]</description>
+		<rom name="Mix Mania II (1991)(Yorkshire Boys)[h 8-Bit].dsd" size="409600" crc="d597b0a2" md5="1a87b2880f78cf1399dbbf7bd8b77102" sha1="d553057b64ff0868bdb951b661d34f791845956c"/>
+	</game>
+	<game name="Powerplay - The Game of the Gods (1985)(Arcana)[h TSTH]">
+		<description>Powerplay - The Game of the Gods (1985)(Arcana)[h TSTH]</description>
+		<rom name="Powerplay - The Game of the Gods (1985)(Arcana)[h TSTH].dsd" size="128512" crc="23107f27" md5="771bb02dba09d435df58ac76abc38aa8" sha1="a12ed499ea6e34f3ae5e6f6790229a6be11356c9"/>
+	</game>
+	<game name="Powerplay - The Game of the Gods (1985)(Arcana)[RUN !BOOT]">
+		<description>Powerplay - The Game of the Gods (1985)(Arcana)[RUN !BOOT]</description>
+		<rom name="Powerplay - The Game of the Gods (1985)(Arcana)[RUN !BOOT].dsd" size="409600" crc="427211df" md5="793bf2364dd4423b8cb5ebad8e952c24" sha1="0db5990a837c57bc698b7b1d15f4bbcd58efeb35"/>
+	</game>
+	<game name="Repton Infinity (1988)(Superior)[b]">
+		<description>Repton Infinity (1988)(Superior)[b]</description>
+		<rom name="Repton Infinity (1988)(Superior)[b].dsd" size="243456" crc="6c77848c" md5="88be57ec3b248e4d7df721c348263473" sha1="e429ce7d2156c080793eae5d6492fe74bbcf7ef0"/>
+	</game>
+	<game name="Repton Infinity (1988)(Superior)[h]">
+		<description>Repton Infinity (1988)(Superior)[h]</description>
+		<rom name="Repton Infinity (1988)(Superior)[h].dsd" size="246272" crc="415eba66" md5="9463a3c7bb5b421b3dc329334ae25b46" sha1="2660633625fadafb88cc00b428a5e40637c5f216"/>
+	</game>
+	<game name="Secret Diary of Adrian Mole, The (1985)(Level 9)">
+		<description>Secret Diary of Adrian Mole, The (1985)(Level 9)</description>
+		<rom name="Secret Diary of Adrian Mole, The (1985)(Level 9).dsd" size="324608" crc="c5c97078" md5="a978b6cb04d9af0d677a805012f186e4" sha1="172703d5ca8ab6bc1f43b9fcc92a4795a531b429"/>
+	</game>
+	<game name="Secret Diary of Adrian Mole, The (1985)(Level 9)[h TSTH]">
+		<description>Secret Diary of Adrian Mole, The (1985)(Level 9)[h TSTH]</description>
+		<rom name="Secret Diary of Adrian Mole, The (1985)(Level 9)[h TSTH].dsd" size="324608" crc="dbfb5f38" md5="b59caac5d288ff2f27d72e20b9fff5a0" sha1="4590def3bfae6efe95678813c98dc27ce9b6a640"/>
+	</game>
+	<game name="Superman - Man of Steel (1989)(Tynesoft)">
+		<description>Superman - Man of Steel (1989)(Tynesoft)</description>
+		<rom name="Superman - Man of Steel (1989)(Tynesoft).dsd" size="352768" crc="a0fa518f" md5="2da965c953cc8d7c8ce7570398f48e37" sha1="c3c01b0b119cd4330e4bd0aaaefd287f01a8adf3"/>
+	</game>
+	<game name="Worm Book, The (19xx)(Ahlberg, A. - Ahlberg, J.)[h 8-Bit]">
+		<description>Worm Book, The (19xx)(Ahlberg, A. - Ahlberg, J.)[h 8-Bit]</description>
+		<rom name="Worm Book, The (19xx)(Ahlberg, A. - Ahlberg, J.)[h 8-Bit].dsd" size="409600" crc="8fad7a8b" md5="865dd67cfd16d245af2de067dfb797a6" sha1="0152d667cc77e1d98dd396eab74aa9137150e278"/>
+	</game>
+</datafile>

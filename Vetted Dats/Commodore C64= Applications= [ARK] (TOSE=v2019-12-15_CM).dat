@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Applications - [ARK]</name>
+		<description>Commodore C64 - Applications - [ARK] (TOSEC-v2019-12-15)</description>
+		<category>TOSEC</category>
+		<version>2019-12-15</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Advanced Music Searcher v5.411 (1993-08-20)(3Lux - Taboo)">
+		<description>Advanced Music Searcher v5.411 (1993-08-20)(3Lux - Taboo)</description>
+		<rom name="Advanced Music Searcher v5.411 (1993-08-20)(3Lux - Taboo).ark" size="14746" crc="e6370dbb" md5="c7eb0049e7c422096867d2896869b494" sha1="4d18ee30abe4e7a0e73726a962d039d0b670eb8d"/>
+	</game>
+	<game name="Digieditor v1.3 (19xx)(Graffity)">
+		<description>Digieditor v1.3 (19xx)(Graffity)</description>
+		<rom name="Digieditor v1.3 (19xx)(Graffity).ark" size="23876" crc="a8f46c76" md5="92d7c6df049ace5ca4fce78c6d9ec97e" sha1="176ddbd0dbbb23c211c07c2b550d4557772ba57d"/>
+	</game>
+	<game name="Facsimile (1985)(Exceptional Software)">
+		<description>Facsimile (1985)(Exceptional Software)</description>
+		<rom name="Facsimile (1985)(Exceptional Software).ark" size="30988" crc="a2dc5aeb" md5="5fa1897b29b78d0d0048313300e6a3eb" sha1="03524c748e92663c37a9fc5762706655f382ab96"/>
+	</game>
+	<game name="File Divider (19xx)(BBS-Waterland)">
+		<description>File Divider (19xx)(BBS-Waterland)</description>
+		<rom name="File Divider (19xx)(BBS-Waterland).ark" size="15360" crc="0a29e961" md5="a3ecf36acddc13c3d8413e96c6f797e2" sha1="d7d3faca6b117b6c1f5f579342a4136b00a99492"/>
+	</game>
+	<game name="Gary Label Maker v2.3 (1987)(Gary)">
+		<description>Gary Label Maker v2.3 (1987)(Gary)</description>
+		<rom name="Gary Label Maker v2.3 (1987)(Gary).ark" size="26416" crc="f6328075" md5="b8920edfe494663f6853be508b37a147" sha1="083a821506b9fa0821e28e147c0fffdc48b65161"/>
+	</game>
+	<game name="Grafix Magic IV (19xx)(Momba Ware)">
+		<description>Grafix Magic IV (19xx)(Momba Ware)</description>
+		<rom name="Grafix Magic IV (19xx)(Momba Ware).ark" size="24384" crc="f8088800" md5="a27abf30183fa8ab5c8d888330848dd1" sha1="6442d9ac29dddda96f622402012d19456b784206"/>
+	</game>
+	<game name="Print Shop Companion, The (1985)(Broderbund)">
+		<description>Print Shop Companion, The (1985)(Broderbund)</description>
+		<rom name="Print Shop Companion, The (1985)(Broderbund).ark" size="39370" crc="3ddf8b69" md5="8c385a3903c9dd47e491d8f79baf32d0" sha1="f11c9b60088e816eceab9ebe6766d47885c9110b"/>
+	</game>
+	<game name="Prohayes (19xx)(Stauthamer, Rob)">
+		<description>Prohayes (19xx)(Stauthamer, Rob)</description>
+		<rom name="Prohayes (19xx)(Stauthamer, Rob).ark" size="19968" crc="9eaca904" md5="e9c1896daffe674f5f6c9c9484980c82" sha1="36a8db77d1e397b60ef0919b9567ba65d52b1a6f"/>
+	</game>
+	<game name="Superhirestudio (1993)(Sun Designs)">
+		<description>Superhirestudio (1993)(Sun Designs)</description>
+		<rom name="Superhirestudio (1993)(Sun Designs).ark" size="23876" crc="36f3de5a" md5="f6a9f63fc010a1e3757beb4c323309bb" sha1="a235173e0ee5df60d545576662112fc1d9f15cdb"/>
+	</game>
+	<game name="Tool Disk #1 (1995)(Onslaught)[Z64 Part 1-4]">
+		<description>Tool Disk #1 (1995)(Onslaught)[Z64 Part 1-4]</description>
+		<rom name="Tool Disk #1 (1995)(Onslaught)[Z64 Part 1-4].ark" size="168402" crc="cc20f132" md5="95fc375346fdc78f5f5eca7f2e70309c" sha1="a129ac31bfbddc9ae36a3edd55f58b6a3416faa7"/>
+	</game>
+	<game name="Topaz Tools (19xx)(Topaz)">
+		<description>Topaz Tools (19xx)(Topaz)</description>
+		<rom name="Topaz Tools (19xx)(Topaz).ark" size="40744" crc="3033e967" md5="01a20908eb4844a5f7d64c67d2f4d46d" sha1="044c02beece05fab79913bd19325657785dac2cf"/>
+	</game>
+	<game name="Topaz Tools (19xx)(Topaz)[a]">
+		<description>Topaz Tools (19xx)(Topaz)[a]</description>
+		<rom name="Topaz Tools (19xx)(Topaz)[a].ark" size="40745" crc="e131c181" md5="4c94f1db6b881a8193463dc3d631445c" sha1="f6732ee6aead75b0c83eef0690007b01963b6403"/>
+	</game>
+</datafile>

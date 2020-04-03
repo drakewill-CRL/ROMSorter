@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore Amiga - Firmware</name>
+		<description>Commodore Amiga - Firmware (TOSEC-v2017-10-17)</description>
+		<category>TOSEC</category>
+		<version>2017-10-17</version>
+		<author>WindowsKiller - idoru - Crashdisk</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Action Cartridge Super IV Pro v4.3 (1992)(GameWorks)">
+		<description>Action Cartridge Super IV Pro v4.3 (1992)(GameWorks)</description>
+		<rom name="Action Cartridge Super IV Pro v4.3 (1992)(GameWorks).rom" size="170368" crc="e668a0be" md5="b85db287368831371b3aea822b0cf655" sha1="633a6e65a93580b8ddb0be9c9a64d4a17d4b4801"/>
+	</game>
+	<game name="Action Replay 1200 (199x)(Datel Electronics)">
+		<description>Action Replay 1200 (199x)(Datel Electronics)</description>
+		<rom name="Action Replay 1200 (199x)(Datel Electronics).rom" size="262144" crc="8d760101" md5="35f2bda107a2f01978514cb4089e04d7" sha1="0f6ab8342810094ac0642f62ba42f78bc0b07e6a"/>
+	</game>
+	<game name="Action Replay Mk I v1.0 (1989)(Datel Electronics)">
+		<description>Action Replay Mk I v1.0 (1989)(Datel Electronics)</description>
+		<rom name="Action Replay Mk I v1.0 (1989)(Datel Electronics).rom" size="65536" crc="2d921771" md5="11ad9c319496c1ec5aed0fe996a7f3d6" sha1="1ead9dda2dad29146441f5ef7218375022e01248"/>
+	</game>
+	<game name="Action Replay Mk I v1.5 (1989)(Datel Electronics)">
+		<description>Action Replay Mk I v1.5 (1989)(Datel Electronics)</description>
+		<rom name="Action Replay Mk I v1.5 (1989)(Datel Electronics).rom" size="65536" crc="f82c4258" md5="aac4fa06ed608474fb237b28808001ca" sha1="843b433b2c56640e045d5fdc854dc6b1a4964e7c"/>
+	</game>
+	<game name="Action Replay Mk II v2.05 (1990)(Datel Electronics)[m]">
+		<description>Action Replay Mk II v2.05 (1990)(Datel Electronics)[m]</description>
+		<rom name="Action Replay Mk II v2.05 (1990)(Datel Electronics)[m].rom" size="131072" crc="4051eef8" md5="e35862d27f6ae2dc718bf40d52c0ed91" sha1="9df22b1d3285b522c223697c83d144d04e961a4a"/>
+	</game>
+	<game name="Action Replay Mk II v2.12 (1990)(Datel Electronics)[m]">
+		<description>Action Replay Mk II v2.12 (1990)(Datel Electronics)[m]</description>
+		<rom name="Action Replay Mk II v2.12 (1990)(Datel Electronics)[m].rom" size="131072" crc="d29bdd86" md5="0f960e98107cade3b319e564d262bc79" sha1="76c2900457badf22b742f0af48b78937e8b67694"/>
+	</game>
+	<game name="Action Replay Mk II v2.14 (1991)(Datel Electronics)[m]">
+		<description>Action Replay Mk II v2.14 (1991)(Datel Electronics)[m]</description>
+		<rom name="Action Replay Mk II v2.14 (1991)(Datel Electronics)[m].rom" size="131072" crc="1bb3d0a8" md5="903ff185555557fed8084cadc5281fad" sha1="14b1f5a69efb6f4e2331970e6ca0f33c0f04ac91"/>
+	</game>
+	<game name="Action Replay Mk III v3.09 (1991)(Datel Electronics)[m]">
+		<description>Action Replay Mk III v3.09 (1991)(Datel Electronics)[m]</description>
+		<rom name="Action Replay Mk III v3.09 (1991)(Datel Electronics)[m].rom" size="262144" crc="2c76df24" md5="801acde95e422cf36731d94ce87b4ee3" sha1="3209f58954b73c1b9ab708fd581573d76027d26a"/>
+	</game>
+	<game name="Action Replay Mk III v3.17 (1991)(Datel Electronics)[m]">
+		<description>Action Replay Mk III v3.17 (1991)(Datel Electronics)[m]</description>
+		<rom name="Action Replay Mk III v3.17 (1991)(Datel Electronics)[m].rom" size="262144" crc="009f7768" md5="097df96a7e61aefd18d423cc652a31d8" sha1="0439d6ccc2a0e5c2e83fcf2389dc4d4a440a4c62"/>
+	</game>
+	<game name="Amiga 1000 ROM Bootstrap (1985)(Commodore)(A1000)[!]">
+		<description>Amiga 1000 ROM Bootstrap (1985)(Commodore)(A1000)[!]</description>
+		<rom name="Amiga 1000 ROM Bootstrap (1985)(Commodore)(A1000)[!].rom" size="65536" crc="0b1ad2d0" md5="7be4a34d91e5dd7377e9b5c4ac64fc5a" sha1="ba93b8b85ca0d83a68225cc33b95050d72d2fdd7"/>
+	</game>
+	<game name="Amiga 1000 ROM Bootstrap (1985)(Commodore)(A1000)[u]">
+		<description>Amiga 1000 ROM Bootstrap (1985)(Commodore)(A1000)[u]</description>
+		<rom name="Amiga 1000 ROM Bootstrap (1985)(Commodore)(A1000)[u].rom" size="8192" crc="62f11c04" md5="964af1568252209f4a6503a183a3265e" sha1="c87f9fada4ee4e69f3cca0c36193be822b9f5fe6"/>
+	</game>
+	<game name="Amiga 3000 Boot-ROM v1.4 r36.16 (1990)(Commodore)(A3000)[!][ROM0]">
+		<description>Amiga 3000 Boot-ROM v1.4 r36.16 (1990)(Commodore)(A3000)[!][ROM0]</description>
+		<rom name="Amiga 3000 Boot-ROM v1.4 r36.16 (1990)(Commodore)(A3000)[!][ROM0].rom" size="262144" crc="58327536" md5="0355a6dafac5ecf540ebc1145b80db5b" sha1="d1713d7f31474a5948e6d488e33686061cf3d1e2"/>
+	</game>
+	<game name="Amiga 3000 Boot-ROM v1.4 r36.16 (1990)(Commodore)(A3000)[!][ROM1]">
+		<description>Amiga 3000 Boot-ROM v1.4 r36.16 (1990)(Commodore)(A3000)[!][ROM1]</description>
+		<rom name="Amiga 3000 Boot-ROM v1.4 r36.16 (1990)(Commodore)(A3000)[!][ROM1].rom" size="262144" crc="fe2f7fb9" md5="17231b500d9a41614abb72a41ae7aebd" sha1="c05c9c52d014c66f9019152b3f2a2adc2c678794"/>
+	</game>
+	<game name="CD32 Extended-ROM r40.60 (1993)(Commodore)(CD32)">
+		<description>CD32 Extended-ROM r40.60 (1993)(Commodore)(CD32)</description>
+		<rom name="CD32 Extended-ROM r40.60 (1993)(Commodore)(CD32).rom" size="524288" crc="87746be2" md5="bb72565701b1b6faece07d68ea5da639" sha1="5bef3d628ce59cc02a66e6e4ae0da48f60e78f7f"/>
+	</game>
+	<game name="CDTV Extended-ROM v1.0 (1991)(Commodore)(CDTV)(beta)">
+		<description>CDTV Extended-ROM v1.0 (1991)(Commodore)(CDTV)(beta)</description>
+		<rom name="CDTV Extended-ROM v1.0 (1991)(Commodore)(CDTV)(beta).rom" size="262144" crc="585fec0b" md5="19790275f9be0d28899e9b5d5cc286ce" sha1="9c3070d1323fdcf04e25b3dfe2ec923006ef70bf"/>
+	</game>
+	<game name="CDTV Extended-ROM v1.0 (1991)(Commodore)(CDTV)[!]">
+		<description>CDTV Extended-ROM v1.0 (1991)(Commodore)(CDTV)[!]</description>
+		<rom name="CDTV Extended-ROM v1.0 (1991)(Commodore)(CDTV)[!].rom" size="262144" crc="42baa124" md5="89da1838a24460e4b93f4f0c5d92d48d" sha1="7ba40ffa17e500ed9fed041f3424bd81d9c907be"/>
+	</game>
+	<game name="CDTV Extended-ROM v1.0 (1991)(Commodore)(CDTV)[!][U34]">
+		<description>CDTV Extended-ROM v1.0 (1991)(Commodore)(CDTV)[!][U34]</description>
+		<rom name="CDTV Extended-ROM v1.0 (1991)(Commodore)(CDTV)[!][U34].rom" size="131072" crc="791cb14b" md5="7be05a2ca22215a0bcddf8a37b2a4db8" sha1="277a1778924496353ffe56be68063d2a334360e4"/>
+	</game>
+	<game name="CDTV Extended-ROM v1.0 (1991)(Commodore)(CDTV)[!][U35]">
+		<description>CDTV Extended-ROM v1.0 (1991)(Commodore)(CDTV)[!][U35]</description>
+		<rom name="CDTV Extended-ROM v1.0 (1991)(Commodore)(CDTV)[!][U35].rom" size="131072" crc="accbbc2e" md5="486261e7d669f246f6f3317a65088f21" sha1="41b06d1679c6e6933c3378b7626025f7641ebc5c"/>
+	</game>
+	<game name="CDTV Extended-ROM v1.0 (1991)(Commodore)(CDTV)[encrypted, needs rom.key]">
+		<description>CDTV Extended-ROM v1.0 (1991)(Commodore)(CDTV)[encrypted, needs rom.key]</description>
+		<rom name="CDTV Extended-ROM v1.0 (1991)(Commodore)(CDTV)[encrypted, needs rom.key].rom" size="262155" crc="c2fc2a27" md5="f6df8c955a04063e706949a378315c00" sha1="0a40fe46c25540f002d0adab6e00c6bf3f622d77"/>
+	</game>
+	<game name="CDTV Extended-ROM v2.30 (1992)(Commodore)(A570)">
+		<description>CDTV Extended-ROM v2.30 (1992)(Commodore)(A570)</description>
+		<rom name="CDTV Extended-ROM v2.30 (1992)(Commodore)(A570).rom" size="262144" crc="30b54232" md5="d98112f18792ee3714df16a6eb421b89" sha1="ed7e461d1fff3cda321631ae42b80e3cd4fa5ebb"/>
+	</game>
+	<game name="CDTV Extended-ROM v2.30 (1992)(Commodore)(CDTV)[U34]">
+		<description>CDTV Extended-ROM v2.30 (1992)(Commodore)(CDTV)[U34]</description>
+		<rom name="CDTV Extended-ROM v2.30 (1992)(Commodore)(CDTV)[U34].rom" size="131072" crc="48e4d74f" md5="a1b3b29a33bb073a91bf03e042667668" sha1="549460542269e41036018402e1f6b855fd89092b"/>
+	</game>
+	<game name="CDTV Extended-ROM v2.30 (1992)(Commodore)(CDTV)[U35]">
+		<description>CDTV Extended-ROM v2.30 (1992)(Commodore)(CDTV)[U35]</description>
+		<rom name="CDTV Extended-ROM v2.30 (1992)(Commodore)(CDTV)[U35].rom" size="131072" crc="8a54f362" md5="426ae2d4bb883ff1080e5c8a9c8c8d19" sha1="03df800f032046fd892f6e7eec08b76d33981e8c"/>
+	</game>
+	<game name="CDTV Extended-ROM v2.7 (1992)(Commodore)(CDTV)">
+		<description>CDTV Extended-ROM v2.7 (1992)(Commodore)(CDTV)</description>
+		<rom name="CDTV Extended-ROM v2.7 (1992)(Commodore)(CDTV).rom" size="262144" crc="ceae68d2" md5="d1145ab3a0f89340f94c9e734762c198" sha1="5bc114bba29f60a614a311745b3e2464bfa06846"/>
+	</game>
+	<game name="Kickstart v0.7 r27.003 (1985-07)(Commodore)(A1000)(NTSC)(beta)">
+		<description>Kickstart v0.7 r27.003 (1985-07)(Commodore)(A1000)(NTSC)(beta)</description>
+		<rom name="Kickstart v0.7 r27.003 (1985-07)(Commodore)(A1000)(NTSC)(beta).rom" size="262144" crc="428a9a4b" md5="36280577e3d019b2c86e9756173b8bed" sha1="fa685ebb666c3d8b09afe1329b7e41b443312f69"/>
+	</game>
+	<game name="Kickstart v1.0 r30 (1985-09)(Commodore)(A1000)(NTSC)[!]">
+		<description>Kickstart v1.0 r30 (1985-09)(Commodore)(A1000)(NTSC)[!]</description>
+		<rom name="Kickstart v1.0 r30 (1985-09)(Commodore)(A1000)(NTSC)[!].rom" size="262144" crc="299790ff" md5="d8dbff05f1d39d5b687a5dacb76f8535" sha1="00c15406beb4b8ab1a16aa66c05860e1a7c1ad79"/>
+	</game>
+	<game name="Kickstart v1.1 r31.034 (1985-11)(Commodore)(A1000)(NTSC)[!]">
+		<description>Kickstart v1.1 r31.034 (1985-11)(Commodore)(A1000)(NTSC)[!]</description>
+		<rom name="Kickstart v1.1 r31.034 (1985-11)(Commodore)(A1000)(NTSC)[!].rom" size="262144" crc="d060572a" md5="0b8442c311caa54fb12ec88eaaa9facf" sha1="4192c505d130f446b2ada6bdc91dae730acafb4c"/>
+	</game>
+	<game name="Kickstart v1.1 r31.034 (1985-11)(Commodore)(A1000)(NTSC)[o]">
+		<description>Kickstart v1.1 r31.034 (1985-11)(Commodore)(A1000)(NTSC)[o]</description>
+		<rom name="Kickstart v1.1 r31.034 (1985-11)(Commodore)(A1000)(NTSC)[o].rom" size="524288" crc="de142fa9" md5="7f638a33c2062c09abf75153f799770f" sha1="08c702b45017641cf7bb2d23334509c2f7dd35d3"/>
+	</game>
+	<game name="Kickstart v1.1 r32.034 (1986-02)(Commodore)(A1000)(PAL)[!]">
+		<description>Kickstart v1.1 r32.034 (1986-02)(Commodore)(A1000)(PAL)[!]</description>
+		<rom name="Kickstart v1.1 r32.034 (1986-02)(Commodore)(A1000)(PAL)[!].rom" size="262144" crc="ec86dae2" md5="1fa1f93d3d7b51271dd1356b8b2b45a9" sha1="16df8b5fd524c5a1c7584b2457ac15aff9e3ad6d"/>
+	</game>
+	<game name="Kickstart v1.1 r32.034 (1986-02)(Commodore)(A1000)(PAL)[o]">
+		<description>Kickstart v1.1 r32.034 (1986-02)(Commodore)(A1000)(PAL)[o]</description>
+		<rom name="Kickstart v1.1 r32.034 (1986-02)(Commodore)(A1000)(PAL)[o].rom" size="524288" crc="dcc0b32f" md5="27e08cb1e13569898c766f445a74f589" sha1="e1d062ae209ad0257e1b743718d210b1c83d8035"/>
+	</game>
+	<game name="Kickstart v1.1 r32.034 (1986-02)(Commodore)(A1000)(PAL)[o][encrypted, needs rom.key]">
+		<description>Kickstart v1.1 r32.034 (1986-02)(Commodore)(A1000)(PAL)[o][encrypted, needs rom.key]</description>
+		<rom name="Kickstart v1.1 r32.034 (1986-02)(Commodore)(A1000)(PAL)[o][encrypted, needs rom.key].rom" size="524299" crc="1db9cc43" md5="26f0e057dc20ec2375a8d1fe84d84012" sha1="911f5584f4563a1009bbed96533b3754c697bb20"/>
+	</game>
+	<game name="Kickstart v1.2 r33.166 (1986-09)(Commodore)(A1000)[!]">
+		<description>Kickstart v1.2 r33.166 (1986-09)(Commodore)(A1000)[!]</description>
+		<rom name="Kickstart v1.2 r33.166 (1986-09)(Commodore)(A1000)[!].rom" size="262144" crc="9ed783d0" md5="68c9c0826f6c0ca20546d588ee77391c" sha1="6a7bfb5dbd6b8f179f03da84d8d9528267b6273b"/>
+	</game>
+	<game name="Kickstart v1.2 r33.166 (1986-09)(Commodore)(A1000)[b]">
+		<description>Kickstart v1.2 r33.166 (1986-09)(Commodore)(A1000)[b]</description>
+		<rom name="Kickstart v1.2 r33.166 (1986-09)(Commodore)(A1000)[b].rom" size="262144" crc="b95e1d73" md5="d15adb59f896bc3f5a45244435ec3fd3" sha1="9ed4216cf4d0d3e3a7b206e07f23836aa2c39de1"/>
+	</game>
+	<game name="Kickstart v1.2 r33.180 (1986-10)(Commodore)(A500-A1000-A2000)[!]">
+		<description>Kickstart v1.2 r33.180 (1986-10)(Commodore)(A500-A1000-A2000)[!]</description>
+		<rom name="Kickstart v1.2 r33.180 (1986-10)(Commodore)(A500-A1000-A2000)[!].rom" size="262144" crc="a6ce1636" md5="85ad74194e87c08904327de1a9443b7a" sha1="11f9e62cf299f72184835b7b2a70a16333fc0d88"/>
+	</game>
+	<game name="Kickstart v1.2 r33.180 (1986-10)(Commodore)(A500-A1000-A2000)[h HQC]">
+		<description>Kickstart v1.2 r33.180 (1986-10)(Commodore)(A500-A1000-A2000)[h HQC]</description>
+		<rom name="Kickstart v1.2 r33.180 (1986-10)(Commodore)(A500-A1000-A2000)[h HQC].rom" size="262144" crc="2f0d65b2" md5="0845c54dc849cfed7c85f9eb26a362fc" sha1="44ddfa642b0b2fa695b676cb6a876f37fb97c11c"/>
+	</game>
+	<game name="Kickstart v1.2 r33.180 (1986-10)(Commodore)(A500-A1000-A2000)[h Level42]">
+		<description>Kickstart v1.2 r33.180 (1986-10)(Commodore)(A500-A1000-A2000)[h Level42]</description>
+		<rom name="Kickstart v1.2 r33.180 (1986-10)(Commodore)(A500-A1000-A2000)[h Level42].rom" size="262144" crc="9f572d8c" md5="1d3141ddfe367c4c732e80f983771d9c" sha1="99246f6078ef937dfd4b3913ee041bda3d444232"/>
+	</game>
+	<game name="Kickstart v1.2 r33.180 (1986-10)(Commodore)(A500-A1000-A2000)[o]">
+		<description>Kickstart v1.2 r33.180 (1986-10)(Commodore)(A500-A1000-A2000)[o]</description>
+		<rom name="Kickstart v1.2 r33.180 (1986-10)(Commodore)(A500-A1000-A2000)[o].rom" size="524288" crc="b5f86782" md5="1a96ab3177d651a5dba7bfd4d46e4d8e" sha1="afcf89ba9888657703055750287834c042be9287"/>
+	</game>
+	<game name="Kickstart v1.2 r33.180 (1986-10)(Commodore)(A500-A1000-A2000)[o][b]">
+		<description>Kickstart v1.2 r33.180 (1986-10)(Commodore)(A500-A1000-A2000)[o][b]</description>
+		<rom name="Kickstart v1.2 r33.180 (1986-10)(Commodore)(A500-A1000-A2000)[o][b].rom" size="457088" crc="1cb4eb2f" md5="fa80e8c0d97f1d6a0446d394fb574633" sha1="6902fb49ce5bc73fc69591201b3534d3f778384e"/>
+	</game>
+	<game name="Kickstart v1.2 r33.180 (1986-10)(Commodore)(A500-A1000-A2000)[o][encrypted, needs rom.key]">
+		<description>Kickstart v1.2 r33.180 (1986-10)(Commodore)(A500-A1000-A2000)[o][encrypted, needs rom.key]</description>
+		<rom name="Kickstart v1.2 r33.180 (1986-10)(Commodore)(A500-A1000-A2000)[o][encrypted, needs rom.key].rom" size="524299" crc="748118ee" md5="ad033b1c30191199a450fbdbe0fde254" sha1="7ea6bb1974862ad95bb748debd236b3a9b7c7cf3"/>
+	</game>
+	<game name="Kickstart v1.3 r34.005 (1987-12)(Commodore)(A3000)[!]">
+		<description>Kickstart v1.3 r34.005 (1987-12)(Commodore)(A3000)[!]</description>
+		<rom name="Kickstart v1.3 r34.005 (1987-12)(Commodore)(A3000)[!].rom" size="262144" crc="e0f37258" md5="0cbbaacbabcb4b5806438039acc0ff02" sha1="c39bd9094d4e5f4e28c1411f3086950406062e87"/>
+	</game>
+	<game name="Kickstart v1.3 r34.005 (1987-12)(Commodore)(A3000)[encrypted, needs rom.key]">
+		<description>Kickstart v1.3 r34.005 (1987-12)(Commodore)(A3000)[encrypted, needs rom.key]</description>
+		<rom name="Kickstart v1.3 r34.005 (1987-12)(Commodore)(A3000)[encrypted, needs rom.key].rom" size="262155" crc="60b5f95b" md5="4cef8c4219263062b098defd8c6099a7" sha1="0547f2f8e024604e5f3a88b29320750ec128446b"/>
+	</game>
+	<game name="Kickstart v1.3 r34.005 (1987-12)(Commodore)(A3000)[h DC]">
+		<description>Kickstart v1.3 r34.005 (1987-12)(Commodore)(A3000)[h DC]</description>
+		<rom name="Kickstart v1.3 r34.005 (1987-12)(Commodore)(A3000)[h DC].rom" size="262144" crc="19417232" md5="9c2ae78a2a6c8cbcbc739401202def8a" sha1="e4fbb13b2459757e5e1326c1fe9482155c4c7d60"/>
+	</game>
+	<game name="Kickstart v1.3 r34.005 (1987-12)(Commodore)(A3000)[h DC][a]">
+		<description>Kickstart v1.3 r34.005 (1987-12)(Commodore)(A3000)[h DC][a]</description>
+		<rom name="Kickstart v1.3 r34.005 (1987-12)(Commodore)(A3000)[h DC][a].rom" size="262144" crc="9cfad755" md5="32be47465de79e3f40dd496814a86806" sha1="626b9cb424af96e477a178101030a88a34f36b46"/>
+	</game>
+	<game name="Kickstart v1.3 r34.005 (1987-12)(Commodore)(A3000)[h Galahad][ReloKick v1.4a]">
+		<description>Kickstart v1.3 r34.005 (1987-12)(Commodore)(A3000)[h Galahad][ReloKick v1.4a]</description>
+		<rom name="Kickstart v1.3 r34.005 (1987-12)(Commodore)(A3000)[h Galahad][ReloKick v1.4a].rom" size="262144" crc="bf029a2a" md5="bc0f3993b4161e5632966c7fc38344eb" sha1="41754d876137c4c24f97a17e10ee949cba3cb5d3"/>
+	</game>
+	<game name="Kickstart v1.3 r34.005 (1987-12)(Commodore)(A3000)[h Geesus][o][ReloKick v1.41]">
+		<description>Kickstart v1.3 r34.005 (1987-12)(Commodore)(A3000)[h Geesus][o][ReloKick v1.41]</description>
+		<rom name="Kickstart v1.3 r34.005 (1987-12)(Commodore)(A3000)[h Geesus][o][ReloKick v1.41].rom" size="524288" crc="ad01f2fe" md5="28259ad3cfd905267005f79530954bee" sha1="7b773737c959e2fc683d7de5ad578a973cf8d640"/>
+	</game>
+	<game name="Kickstart v1.3 r34.005 (1987-12)(Commodore)(A3000)[h Geesus][ReloKick v1.41]">
+		<description>Kickstart v1.3 r34.005 (1987-12)(Commodore)(A3000)[h Geesus][ReloKick v1.41]</description>
+		<rom name="Kickstart v1.3 r34.005 (1987-12)(Commodore)(A3000)[h Geesus][ReloKick v1.41].rom" size="262144" crc="da979111" md5="ab38c09234097cfbf4c9ee3adacf3e2a" sha1="671907e2cf5b08c1a51c8fb48e58afa766632d6d"/>
+	</game>
+	<game name="Kickstart v1.3 r34.005 (1987-12)(Commodore)(A3000)[h2][unknown hack]">
+		<description>Kickstart v1.3 r34.005 (1987-12)(Commodore)(A3000)[h2][unknown hack]</description>
+		<rom name="Kickstart v1.3 r34.005 (1987-12)(Commodore)(A3000)[h2][unknown hack].rom" size="262144" crc="b9abd7e1" md5="070393a7761dfccc5f08ebd4a727b631" sha1="686b9320967956051215b46141c46799708143a6"/>
+	</game>
+	<game name="Kickstart v1.3 r34.005 (1987-12)(Commodore)(A3000)[h][unknown hack]">
+		<description>Kickstart v1.3 r34.005 (1987-12)(Commodore)(A3000)[h][unknown hack]</description>
+		<rom name="Kickstart v1.3 r34.005 (1987-12)(Commodore)(A3000)[h][unknown hack].rom" size="262144" crc="09a9fab2" md5="fa81cba159ae5ca992362d4ab1cfaccb" sha1="754ad745ca232185df0867842fd1b3107d2588f5"/>
+	</game>
+	<game name="Kickstart v1.3 r34.005 (1987-12)(Commodore)(A3000)[o]">
+		<description>Kickstart v1.3 r34.005 (1987-12)(Commodore)(A3000)[o]</description>
+		<rom name="Kickstart v1.3 r34.005 (1987-12)(Commodore)(A3000)[o].rom" size="524288" crc="fbb4799d" md5="c20797cdaea7ceee6f3d5d092268aeaa" sha1="099e9e10dace735ef5aa87bc006f258e3ce9addd"/>
+	</game>
+	<game name="Kickstart v1.3 r34.005 (1987-12)(Commodore)(A3000)[o][encrypted, needs rom.key]">
+		<description>Kickstart v1.3 r34.005 (1987-12)(Commodore)(A3000)[o][encrypted, needs rom.key]</description>
+		<rom name="Kickstart v1.3 r34.005 (1987-12)(Commodore)(A3000)[o][encrypted, needs rom.key].rom" size="524299" crc="3acd06f1" md5="60fe0bbb94af93e0a405f492cce393f7" sha1="1ae604e7e0e5762605cf3fdfed92af8777265fb7"/>
+	</game>
+	<game name="Kickstart v1.3 r34.005 (1987-12)(Commodore)(A500-A1000-A2000-CDTV)[!]">
+		<description>Kickstart v1.3 r34.005 (1987-12)(Commodore)(A500-A1000-A2000-CDTV)[!]</description>
+		<rom name="Kickstart v1.3 r34.005 (1987-12)(Commodore)(A500-A1000-A2000-CDTV)[!].rom" size="262144" crc="c4f0f55f" md5="82a21c1890cae844b3df741f2762d48d" sha1="891e9a547772fe0c6c19b610baf8bc4ea7fcb785"/>
+	</game>
+	<game name="Kickstart v1.3 r34.005 (1987-12)(Commodore)(A500-A1000-A2000-CDTV)[h Leonardo Fei][Guardian 1.2r]">
+		<description>Kickstart v1.3 r34.005 (1987-12)(Commodore)(A500-A1000-A2000-CDTV)[h Leonardo Fei][Guardian 1.2r]</description>
+		<rom name="Kickstart v1.3 r34.005 (1987-12)(Commodore)(A500-A1000-A2000-CDTV)[h Leonardo Fei][Guardian 1.2r].rom" size="262144" crc="74680d37" md5="3fde40288bd372599c4ec074522fc25c" sha1="1ec9695989013d3e2f675ef321e7e95372e359bf"/>
+	</game>
+	<game name="Kickstart v1.3 r34.005 (1987-12)(Commodore)(A500-A1000-A2000-CDTV)[o]">
+		<description>Kickstart v1.3 r34.005 (1987-12)(Commodore)(A500-A1000-A2000-CDTV)[o]</description>
+		<rom name="Kickstart v1.3 r34.005 (1987-12)(Commodore)(A500-A1000-A2000-CDTV)[o].rom" size="524288" crc="f6290043" md5="192d6d950d0ed3df8040b788502831c2" sha1="90933936cce43ca9bc6bf375662c076b27e3c458"/>
+	</game>
+	<game name="Kickstart v1.4 alpha 15 r36.015 (1989-05)(Commodore)(beta)">
+		<description>Kickstart v1.4 alpha 15 r36.015 (1989-05)(Commodore)(beta)</description>
+		<rom name="Kickstart v1.4 alpha 15 r36.015 (1989-05)(Commodore)(beta).rom" size="262144" crc="a3ba6116" md5="6623c0c273d00f84721fe6e1ca640688" sha1="250863e39d1d6e7ef7512013f8a09158071ba2ad"/>
+	</game>
+	<game name="Kickstart v1.4 alpha 18 r36.002 (1989-12)(Commodore)[!][developer]">
+		<description>Kickstart v1.4 alpha 18 r36.002 (1989-12)(Commodore)[!][developer]</description>
+		<rom name="Kickstart v1.4 alpha 18 r36.002 (1989-12)(Commodore)[!][developer].rom" size="524288" crc="39779507" md5="d2d28b1b35a48e484c6a04e096c2a6de" sha1="679ae45e0ff98506dfb55394b2da559d88cab767"/>
+	</game>
+	<game name="Kickstart v1.4 alpha 18 r36.002 (1989-12)(Commodore)[developer][KickIt]">
+		<description>Kickstart v1.4 alpha 18 r36.002 (1989-12)(Commodore)[developer][KickIt]</description>
+		<rom name="Kickstart v1.4 alpha 18 r36.002 (1989-12)(Commodore)[developer][KickIt].rom" size="524296" crc="35a9a3e1" md5="119a48f195151e16b2c1b0b5acf1e75a" sha1="ee39bdca9fd4503fa5dfc05a855e5b617afa8d4f"/>
+	</game>
+	<game name="Kickstart v2.0 beta 5 r36.067 (1990-05)(Commodore)(beta)">
+		<description>Kickstart v2.0 beta 5 r36.067 (1990-05)(Commodore)(beta)</description>
+		<rom name="Kickstart v2.0 beta 5 r36.067 (1990-05)(Commodore)(beta).rom" size="524288" crc="e0aa5472" md5="890cae22ba870d1a10ccf138ba32c3fa" sha1="675d396c46afe98c8ea431f1c2155f40ab22ae7a"/>
+	</game>
+	<game name="Kickstart v2.0 beta 5 r36.067 (1990-05)(Commodore)(beta)[bootable]">
+		<description>Kickstart v2.0 beta 5 r36.067 (1990-05)(Commodore)(beta)[bootable]</description>
+		<rom name="Kickstart v2.0 beta 5 r36.067 (1990-05)(Commodore)(beta)[bootable].adf" size="901120" crc="64244281" md5="999987e64a09af8b5d354d3c038fb1b6" sha1="e95cd7f2aefdee6d949cfed4b01e986b7c09402d"/>
+	</game>
+	<game name="Kickstart v2.0 beta 5 r36.067 (1990-05)(Commodore)(beta)[KickIt]">
+		<description>Kickstart v2.0 beta 5 r36.067 (1990-05)(Commodore)(beta)[KickIt]</description>
+		<rom name="Kickstart v2.0 beta 5 r36.067 (1990-05)(Commodore)(beta)[KickIt].rom" size="524296" crc="ec746294" md5="837c67721eadef7764f743c728d79973" sha1="dad2e24f1f297cea1bf6cca764013f2be84a6629"/>
+	</game>
+	<game name="Kickstart v2.0 r36.028 (1990-03)(Commodore)(A3000)(beta)[!][SuperKickstart]">
+		<description>Kickstart v2.0 r36.028 (1990-03)(Commodore)(A3000)(beta)[!][SuperKickstart]</description>
+		<rom name="Kickstart v2.0 r36.028 (1990-03)(Commodore)(A3000)(beta)[!][SuperKickstart].rom" size="524288" crc="b4113910" md5="f024da20387ea300c5e6f58bd082acd3" sha1="4fcf8f55c27465f3c00b034a61b2680799ebc27b"/>
+	</game>
+	<game name="Kickstart v2.0 r36.141 (1990-06)(Commodore)(A3000)(beta)[b]">
+		<description>Kickstart v2.0 r36.141 (1990-06)(Commodore)(A3000)(beta)[b]</description>
+		<rom name="Kickstart v2.0 r36.141 (1990-06)(Commodore)(A3000)(beta)[b].rom" size="524288" crc="1e0d1601" md5="2e42a713edb668588f1b4e0744c889a1" sha1="9e31f8d7261ad4581195727662beaf1052f669d3"/>
+	</game>
+	<game name="Kickstart v2.0 r36.143 (1990-08)(Commodore)(A3000)[SuperKickstart]">
+		<description>Kickstart v2.0 r36.143 (1990-08)(Commodore)(A3000)[SuperKickstart]</description>
+		<rom name="Kickstart v2.0 r36.143 (1990-08)(Commodore)(A3000)[SuperKickstart].rom" size="524288" crc="b333d3c6" md5="9596b08c42677b0f01c9547c0da85d22" sha1="5e470d0ca5c1e15f475886fd08a9bf207455312c"/>
+	</game>
+	<game name="Kickstart v2.02 r36.207 (1990-10)(Commodore)(A3000)[!][SuperKickstart]">
+		<description>Kickstart v2.02 r36.207 (1990-10)(Commodore)(A3000)[!][SuperKickstart]</description>
+		<rom name="Kickstart v2.02 r36.207 (1990-10)(Commodore)(A3000)[!][SuperKickstart].rom" size="524288" crc="9a15519d" md5="93e6657e563ddaf815fb40d93f860877" sha1="f2cc0cc8bf9321df63456c439884c15cda0fe752"/>
+	</game>
+	<game name="Kickstart v2.03 r37.074 (1991)(Commodore)(beta)">
+		<description>Kickstart v2.03 r37.074 (1991)(Commodore)(beta)</description>
+		<rom name="Kickstart v2.03 r37.074 (1991)(Commodore)(beta).rom" size="524288" crc="88eb6c43" md5="0e14bc5208fe19fb389d5ceeed5b04da" sha1="8e30fe23dce6edd197c7c100973796e69633121a"/>
+	</game>
+	<game name="Kickstart v2.03 r37.074 (1991)(Commodore)(beta)[KickIt]">
+		<description>Kickstart v2.03 r37.074 (1991)(Commodore)(beta)[KickIt]</description>
+		<rom name="Kickstart v2.03 r37.074 (1991)(Commodore)(beta)[KickIt].rom" size="524296" crc="84355aa5" md5="9e9ea32e0b543c547869967dc6a71219" sha1="e345656fef70dfadf19e18c50313a51ad669ac4e"/>
+	</game>
+	<game name="Kickstart v2.03 r37.092 (1991-04)(Commodore)(beta)">
+		<description>Kickstart v2.03 r37.092 (1991-04)(Commodore)(beta)</description>
+		<rom name="Kickstart v2.03 r37.092 (1991-04)(Commodore)(beta).rom" size="524288" crc="36c6e73b" md5="796294c0256152047095fdced0538b0d" sha1="98b40f34a5b508828624ab87d732e1cdbc95d1af"/>
+	</game>
+	<game name="Kickstart v2.04 r37.175 (1991-05)(Commodore)(A2000)[developer]">
+		<description>Kickstart v2.04 r37.175 (1991-05)(Commodore)(A2000)[developer]</description>
+		<rom name="Kickstart v2.04 r37.175 (1991-05)(Commodore)(A2000)[developer].rom" size="524288" crc="8da9bd72" md5="dcacad28df0d98ee0dbea5cb81082353" sha1="47e8436ebf663a640860e6b4938068bf5b435cbf"/>
+	</game>
+	<game name="Kickstart v2.04 r37.175 (1991-05)(Commodore)(A2000)[developer][KickIt]">
+		<description>Kickstart v2.04 r37.175 (1991-05)(Commodore)(A2000)[developer][KickIt]</description>
+		<rom name="Kickstart v2.04 r37.175 (1991-05)(Commodore)(A2000)[developer][KickIt].rom" size="524296" crc="81778b94" md5="f8baa3adfc6c06b9fc1120c4059d3528" sha1="2596d1d048b6180f9c247d2e91af3b255c0852d4"/>
+	</game>
+	<game name="Kickstart v2.04 r37.175 (1991-05)(Commodore)(A3000)">
+		<description>Kickstart v2.04 r37.175 (1991-05)(Commodore)(A3000)</description>
+		<rom name="Kickstart v2.04 r37.175 (1991-05)(Commodore)(A3000).rom" size="524288" crc="234a7233" md5="c5fd2322c53d25c0972e6fc54b705d17" sha1="d82ebb59afc53540ddf2d7187ecf239b7ea91590"/>
+	</game>
+	<game name="Kickstart v2.04 r37.175 (1991-05)(Commodore)(A500+)[!]">
+		<description>Kickstart v2.04 r37.175 (1991-05)(Commodore)(A500+)[!]</description>
+		<rom name="Kickstart v2.04 r37.175 (1991-05)(Commodore)(A500+)[!].rom" size="524288" crc="c3bdb240" md5="dc10d7bdd1b6f450773dfb558477c230" sha1="c5839f5cb98a7a8947065c3ed2f14f5f42e334a1"/>
+	</game>
+	<game name="Kickstart v2.04 r37.175 (1991-05)(Commodore)(A500+)[b ftp transfer]">
+		<description>Kickstart v2.04 r37.175 (1991-05)(Commodore)(A500+)[b ftp transfer]</description>
+		<rom name="Kickstart v2.04 r37.175 (1991-05)(Commodore)(A500+)[b ftp transfer].rom" size="524288" crc="3e6b7ce2" md5="5ab0527c168d02fecf897c0eda1d56f8" sha1="6a2df481c0e8f10fbcdd3fec0bb09c1d20797f9b"/>
+	</game>
+	<game name="Kickstart v2.04 r37.175 (1991-05)(Commodore)(A500+)[encrypted, needs rom.key]">
+		<description>Kickstart v2.04 r37.175 (1991-05)(Commodore)(A500+)[encrypted, needs rom.key]</description>
+		<rom name="Kickstart v2.04 r37.175 (1991-05)(Commodore)(A500+)[encrypted, needs rom.key].rom" size="524299" crc="02c4cd2c" md5="f32949f64c4ce0bca6c7d082c7e148bb" sha1="c69c854190a41cff768b1e8ef25de97159a838c8"/>
+	</game>
+	<game name="Kickstart v2.04 r37.175 (1991-05)(Commodore)(A500+)[o][b ftp transfer]">
+		<description>Kickstart v2.04 r37.175 (1991-05)(Commodore)(A500+)[o][b ftp transfer]</description>
+		<rom name="Kickstart v2.04 r37.175 (1991-05)(Commodore)(A500+)[o][b ftp transfer].rom" size="528509" crc="d6e26c36" md5="40a66c58ad8259358cc34b4e118dfc84" sha1="bb5518347633552c48f4490263dac042e731a8e5"/>
+	</game>
+	<game name="Kickstart v2.05 r37.210 (1991-11)(Commodore)[developer]">
+		<description>Kickstart v2.05 r37.210 (1991-11)(Commodore)[developer]</description>
+		<rom name="Kickstart v2.05 r37.210 (1991-11)(Commodore)[developer].rom" size="524288" crc="4c0c1603" md5="8d72368dc1208e3687b35d662f2ea633" sha1="81159ef92a9a1834d14c20272edb74b7dc223507"/>
+	</game>
+	<game name="Kickstart v2.05 r37.210 (1991-11)(Commodore)[developer][KickIt]">
+		<description>Kickstart v2.05 r37.210 (1991-11)(Commodore)[developer][KickIt]</description>
+		<rom name="Kickstart v2.05 r37.210 (1991-11)(Commodore)[developer][KickIt].rom" size="524296" crc="40d220e5" md5="32b7cd46a43735a2e11b981e97f910a3" sha1="a2bbd38ac658f34f36469452d4c893f36649b8f1"/>
+	</game>
+	<game name="Kickstart v2.05 r37.210 (1991-11)(Commodore)[h FLT][developer][bootable]">
+		<description>Kickstart v2.05 r37.210 (1991-11)(Commodore)[h FLT][developer][bootable]</description>
+		<rom name="Kickstart v2.05 r37.210 (1991-11)(Commodore)[h FLT][developer][bootable].adf" size="901120" crc="83b54769" md5="267973037e932a78d3a928c61e2dc029" sha1="64b1fe1fdfd007eb3725fdc240b5dd21969e2f5b"/>
+	</game>
+	<game name="Kickstart v2.05 r37.210 (1991-11)(Commodore)[h][developer]">
+		<description>Kickstart v2.05 r37.210 (1991-11)(Commodore)[h][developer]</description>
+		<rom name="Kickstart v2.05 r37.210 (1991-11)(Commodore)[h][developer].rom" size="524288" crc="ca2685fd" md5="0c80392e93667f308c043c841291f64c" sha1="4f9c1a86f659d6e0958334d381297decb00f0322"/>
+	</game>
+	<game name="Kickstart v2.05 r37.210 (1991-11)(Commodore)[h][developer][KickIt]">
+		<description>Kickstart v2.05 r37.210 (1991-11)(Commodore)[h][developer][KickIt]</description>
+		<rom name="Kickstart v2.05 r37.210 (1991-11)(Commodore)[h][developer][KickIt].rom" size="524296" crc="c6f8b31b" md5="d18bd9e3874ca62a99eb0df3eebe4f1d" sha1="3b139dab294b11bd5ea9d4c8dc6144fe4f3e2a0c"/>
+	</game>
+	<game name="Kickstart v2.05 r37.299 (1991-11)(Commodore)(A600)[!]">
+		<description>Kickstart v2.05 r37.299 (1991-11)(Commodore)(A600)[!]</description>
+		<rom name="Kickstart v2.05 r37.299 (1991-11)(Commodore)(A600)[!].rom" size="524288" crc="83028fb5" md5="72ffce8541f100885da4b68a3bcf10f7" sha1="87508de834dc7eb47359cede72d2e3c8a2e5d8db"/>
+	</game>
+	<game name="Kickstart v2.05 r37.300 (1991-11)(Commodore)(A600HD)[!]">
+		<description>Kickstart v2.05 r37.300 (1991-11)(Commodore)(A600HD)[!]</description>
+		<rom name="Kickstart v2.05 r37.300 (1991-11)(Commodore)(A600HD)[!].rom" size="524288" crc="64466c2a" md5="fa4acc75b49e880679fe02716af24d71" sha1="f72d89148dac39c696e30b10859ebc859226637b"/>
+	</game>
+	<game name="Kickstart v2.05 r37.350 (1992-04)(Commodore)(A600HD)[!]">
+		<description>Kickstart v2.05 r37.350 (1992-04)(Commodore)(A600HD)[!]</description>
+		<rom name="Kickstart v2.05 r37.350 (1992-04)(Commodore)(A600HD)[!].rom" size="524288" crc="43b0df7b" md5="465646c9b6729f77eea5314d1f057951" sha1="02843c4253bbd29aba535b0aa3bd9a85034ecde4"/>
+	</game>
+	<game name="Kickstart v3.0 r39.065 (1992-04)(Commodore)(A3000)(beta)">
+		<description>Kickstart v3.0 r39.065 (1992-04)(Commodore)(A3000)(beta)</description>
+		<rom name="Kickstart v3.0 r39.065 (1992-04)(Commodore)(A3000)(beta).rom" size="524288" crc="c94aa7fd" md5="675223438c7a50518e0024191252b85c" sha1="e4bbed70fbbfac5568b7a8bba59abc1093baa155"/>
+	</game>
+	<game name="Kickstart v3.0 r39.092 (1992-07)(Commodore)(A600)(beta)[!]">
+		<description>Kickstart v3.0 r39.092 (1992-07)(Commodore)(A600)(beta)[!]</description>
+		<rom name="Kickstart v3.0 r39.092 (1992-07)(Commodore)(A600)(beta)[!].rom" size="524288" crc="11490da2" md5="fa56c66ddd43c8a6f1ab930fb8bf3142" sha1="68e14fc9df3272da6aacec8df2408d346f82c9e3"/>
+	</game>
+	<game name="Kickstart v3.0 r39.106 (1992-09)(Commodore)(A1200)[!]">
+		<description>Kickstart v3.0 r39.106 (1992-09)(Commodore)(A1200)[!]</description>
+		<rom name="Kickstart v3.0 r39.106 (1992-09)(Commodore)(A1200)[!].rom" size="524288" crc="6c9b07d2" md5="b7cc148386aa631136f510cd29e42fc3" sha1="70033828182fffc7ed106e5373a8b89dda76faa5"/>
+	</game>
+	<game name="Kickstart v3.0 r39.106 (1992-09)(Commodore)(A4000)[!]">
+		<description>Kickstart v3.0 r39.106 (1992-09)(Commodore)(A4000)[!]</description>
+		<rom name="Kickstart v3.0 r39.106 (1992-09)(Commodore)(A4000)[!].rom" size="524288" crc="9e6ac152" md5="9b8bdd5a3fd32c2a5a6f5b1aefc799a5" sha1="f0b4e9e29e12218c2d5bd7020e4e785297d91fd7"/>
+	</game>
+	<game name="Kickstart v3.0 r39.106 (1992-09)(Commodore)(A4000)[encrypted, needs rom.key]">
+		<description>Kickstart v3.0 r39.106 (1992-09)(Commodore)(A4000)[encrypted, needs rom.key]</description>
+		<rom name="Kickstart v3.0 r39.106 (1992-09)(Commodore)(A4000)[encrypted, needs rom.key].rom" size="524299" crc="5f13be3e" md5="cc9fd29b8d3bf2dcab2c1d05fcf7d204" sha1="17c01363393a6f66df771b969fc7eece145f3eeb"/>
+	</game>
+	<game name="Kickstart v3.0 r39.115 (1992)(Commodore)">
+		<description>Kickstart v3.0 r39.115 (1992)(Commodore)</description>
+		<rom name="Kickstart v3.0 r39.115 (1992)(Commodore).rom" size="524288" crc="60611c46" md5="cfb4d4c846a8c11c131f88de97134853" sha1="a9494544511c6fe88b91fcab17f1b702f90c2d61"/>
+	</game>
+	<game name="Kickstart v3.1 r40.003 (1993)(Commodore)(A600)(beta)">
+		<description>Kickstart v3.1 r40.003 (1993)(Commodore)(A600)(beta)</description>
+		<rom name="Kickstart v3.1 r40.003 (1993)(Commodore)(A600)(beta).rom" size="524288" crc="9cd2ec31" md5="83459bf67c45d4d8af176152d81d843d" sha1="10ecae1af8a86aaf04cb0dbb6151ab2338930d67"/>
+	</game>
+	<game name="Kickstart v3.1 r40.038 (1993-04)(Commodore)(A3000)(beta)[with bonus]">
+		<description>Kickstart v3.1 r40.038 (1993-04)(Commodore)(A3000)(beta)[with bonus]</description>
+		<rom name="Kickstart v3.1 r40.038 (1993-04)(Commodore)(A3000)(beta)[with bonus].rom" size="526572" crc="e24d337f" md5="7213fe8403e863284a3ce75ff96c6733" sha1="81ea51488680e8dbe687562d0d438befff3603cd"/>
+	</game>
+	<game name="Kickstart v3.1 r40.038 (1993-04)(Commodore)(A4000)(beta)">
+		<description>Kickstart v3.1 r40.038 (1993-04)(Commodore)(A4000)(beta)</description>
+		<rom name="Kickstart v3.1 r40.038 (1993-04)(Commodore)(A4000)(beta).rom" size="524288" crc="0ad02136" md5="8ab0ae4fb80bbc07394a3141d7f2a770" sha1="270b7184af6cc7347990c1e718e46dbe25eb0c83"/>
+	</game>
+	<game name="Kickstart v3.1 r40.055 (1993-05)(Commodore)(A3000)(beta)">
+		<description>Kickstart v3.1 r40.055 (1993-05)(Commodore)(A3000)(beta)</description>
+		<rom name="Kickstart v3.1 r40.055 (1993-05)(Commodore)(A3000)(beta).rom" size="524288" crc="3addf0d6" md5="d4db7595c36beedacf2f6a2ef05b0fcc" sha1="a268617888b2c8ffb10db85ea9b92d1129a0cd24"/>
+	</game>
+	<game name="Kickstart v3.1 r40.055 (1993-05)(Commodore)(A3000)(beta)[h ShapeShifter]">
+		<description>Kickstart v3.1 r40.055 (1993-05)(Commodore)(A3000)(beta)[h ShapeShifter]</description>
+		<rom name="Kickstart v3.1 r40.055 (1993-05)(Commodore)(A3000)(beta)[h ShapeShifter].rom" size="524288" crc="bcec8e55" md5="8b1afcdd8241493c3d9471f2d4a148ce" sha1="153e593f036b25c700b889962a99b3cb9751b70a"/>
+	</game>
+	<game name="Kickstart v3.1 r40.055 (1993-05)(Commodore)(A3000)(beta)[h ShapeShifter][with bonus]">
+		<description>Kickstart v3.1 r40.055 (1993-05)(Commodore)(A3000)(beta)[h ShapeShifter][with bonus]</description>
+		<rom name="Kickstart v3.1 r40.055 (1993-05)(Commodore)(A3000)(beta)[h ShapeShifter][with bonus].rom" size="526848" crc="3cac66c7" md5="dd4e0a3584064e9d85c773dd5ece2cd7" sha1="be2e75abef2cbbb2be210a5675a2a8a8fe80f6e5"/>
+	</game>
+	<game name="Kickstart v3.1 r40.055 (1993-05)(Commodore)(A4000)(beta)[h]">
+		<description>Kickstart v3.1 r40.055 (1993-05)(Commodore)(A4000)(beta)[h]</description>
+		<rom name="Kickstart v3.1 r40.055 (1993-05)(Commodore)(A4000)(beta)[h].rom" size="524288" crc="14e93bcc" md5="e7488529fea4e329d383262442a80e7b" sha1="63616e449eca64452f3952ff48ed59dcffb21179"/>
+	</game>
+	<game name="Kickstart v3.1 r40.060 (1993-05)(Commodore)(CD32)[!]">
+		<description>Kickstart v3.1 r40.060 (1993-05)(Commodore)(CD32)[!]</description>
+		<rom name="Kickstart v3.1 r40.060 (1993-05)(Commodore)(CD32)[!].rom" size="524288" crc="1e62d4a5" md5="5f8924d013dd57a89cf349f4cdedc6b1" sha1="3525be8887f79b5929e017b42380a79edfee542d"/>
+	</game>
+	<game name="Kickstart v3.1 r40.062 (1993)(Commodore)(A600)[h]">
+		<description>Kickstart v3.1 r40.062 (1993)(Commodore)(A600)[h]</description>
+		<rom name="Kickstart v3.1 r40.062 (1993)(Commodore)(A600)[h].rom" size="524288" crc="e059591e" md5="4c58e4d79f3f29c963e6ca7560e53319" sha1="29b1959de9200c14cc1af731516e76304f6cfb0a"/>
+	</game>
+	<game name="Kickstart v3.1 r40.062 (1993-07)(Commodore)(A3000)(beta)[h]">
+		<description>Kickstart v3.1 r40.062 (1993-07)(Commodore)(A3000)(beta)[h]</description>
+		<rom name="Kickstart v3.1 r40.062 (1993-07)(Commodore)(A3000)(beta)[h].rom" size="524288" crc="3b86fb7a" md5="d09acd6607769bba27241d0d92d72fac" sha1="4558b337db169b6e39251910cbce34bbc782e9ab"/>
+	</game>
+	<game name="Kickstart v3.1 r40.062 (1993-07)(Commodore)(A3000)(beta)[h][with bonus]">
+		<description>Kickstart v3.1 r40.062 (1993-07)(Commodore)(A3000)(beta)[h][with bonus]</description>
+		<rom name="Kickstart v3.1 r40.062 (1993-07)(Commodore)(A3000)(beta)[h][with bonus].rom" size="526572" crc="2742233c" md5="778812df4626e25cccdf7c2f63cb30fa" sha1="cd806570f66a345c7fa553b62ebced79d5371613"/>
+	</game>
+	<game name="Kickstart v3.1 r40.063 (1993-07)(Commodore)(A500-A600-A2000)[!]">
+		<description>Kickstart v3.1 r40.063 (1993-07)(Commodore)(A500-A600-A2000)[!]</description>
+		<rom name="Kickstart v3.1 r40.063 (1993-07)(Commodore)(A500-A600-A2000)[!].rom" size="524288" crc="fc24ae0d" md5="e40a5dfb3d017ba8779faba30cbd1c8e" sha1="3b7f1493b27e212830f989f26ca76c02049f09ca"/>
+	</game>
+	<game name="Kickstart v3.1 r40.063 (1993-07)(Commodore)(A500-A600-A2000)[b2]">
+		<description>Kickstart v3.1 r40.063 (1993-07)(Commodore)(A500-A600-A2000)[b2]</description>
+		<rom name="Kickstart v3.1 r40.063 (1993-07)(Commodore)(A500-A600-A2000)[b2].rom" size="524288" crc="fa764841" md5="f25496832bf78859d60f700039de3033" sha1="34024ad1fb3f8d988dae3f02bff4873008d0c70f"/>
+	</game>
+	<game name="Kickstart v3.1 r40.063 (1993-07)(Commodore)(A500-A600-A2000)[b]">
+		<description>Kickstart v3.1 r40.063 (1993-07)(Commodore)(A500-A600-A2000)[b]</description>
+		<rom name="Kickstart v3.1 r40.063 (1993-07)(Commodore)(A500-A600-A2000)[b].rom" size="524288" crc="8e11ebc1" md5="e62ebae14d902f3057904f98b5d4c4cd" sha1="c60577608062fbe536d63c5e497ae04ec5b265bb"/>
+	</game>
+	<game name="Kickstart v3.1 r40.063 (1993-07)(Commodore)(A500-A600-A2000)[h ShapeShifter]">
+		<description>Kickstart v3.1 r40.063 (1993-07)(Commodore)(A500-A600-A2000)[h ShapeShifter]</description>
+		<rom name="Kickstart v3.1 r40.063 (1993-07)(Commodore)(A500-A600-A2000)[h ShapeShifter].rom" size="524288" crc="b506177b" md5="b7fac88c1065fd3994b66e23041c7354" sha1="24975ce0aed27cb88f707e889506fd155ac1f865"/>
+	</game>
+	<game name="Kickstart v3.1 r40.063 (1993-07)(Commodore)(A500-A600-A2000)[o][b]">
+		<description>Kickstart v3.1 r40.063 (1993-07)(Commodore)(A500-A600-A2000)[o][b]</description>
+		<rom name="Kickstart v3.1 r40.063 (1993-07)(Commodore)(A500-A600-A2000)[o][b].rom" size="524293" crc="a80d5c71" md5="cf30dccf68059ed3f775c20bcc755ed6" sha1="058901f35a1dee22c7f45d159d1e2dfbc0fb8611"/>
+	</game>
+	<game name="Kickstart v3.1 r40.068 (1993-12)(Commodore)(A1200)[!]">
+		<description>Kickstart v3.1 r40.068 (1993-12)(Commodore)(A1200)[!]</description>
+		<rom name="Kickstart v3.1 r40.068 (1993-12)(Commodore)(A1200)[!].rom" size="524288" crc="1483a091" md5="646773759326fbac3b2311fd8c8793ee" sha1="e21545723fe8374e91342617604f1b3d703094f1"/>
+	</game>
+	<game name="Kickstart v3.1 r40.068 (1993-12)(Commodore)(A1200)[f Harry Sintonen][h version number]">
+		<description>Kickstart v3.1 r40.068 (1993-12)(Commodore)(A1200)[f Harry Sintonen][h version number]</description>
+		<rom name="Kickstart v3.1 r40.068 (1993-12)(Commodore)(A1200)[f Harry Sintonen][h version number].rom" size="524288" crc="1d9aa278" md5="345863c6af3394f99a3b3a094d7ecc9d" sha1="71806153213c9cf6bafedcc1bd5735e73b9e690d"/>
+	</game>
+	<game name="Kickstart v3.1 r40.068 (1993-12)(Commodore)(A1200)[h ShapeShifter]">
+		<description>Kickstart v3.1 r40.068 (1993-12)(Commodore)(A1200)[h ShapeShifter]</description>
+		<rom name="Kickstart v3.1 r40.068 (1993-12)(Commodore)(A1200)[h ShapeShifter].rom" size="524288" crc="4d1575a6" md5="6d48c396abd5d29ef49ce028959711a2" sha1="083f7cd3482f5b4cd13b43261bb8fc70e7b7ddca"/>
+	</game>
+	<game name="Kickstart v3.1 r40.068 (1993-12)(Commodore)(A3000)[!]">
+		<description>Kickstart v3.1 r40.068 (1993-12)(Commodore)(A3000)[!]</description>
+		<rom name="Kickstart v3.1 r40.068 (1993-12)(Commodore)(A3000)[!].rom" size="524288" crc="efb239cc" md5="413590e50098a056cfec418d3df0212d" sha1="f8e210d72b4c4853e0c9b85d223ba20e3d1b36ee"/>
+	</game>
+	<game name="Kickstart v3.1 r40.068 (1993-12)(Commodore)(A4000)[!]">
+		<description>Kickstart v3.1 r40.068 (1993-12)(Commodore)(A4000)[!]</description>
+		<rom name="Kickstart v3.1 r40.068 (1993-12)(Commodore)(A4000)[!].rom" size="524288" crc="d6bae334" md5="9bdedde6a4f33555b4a270c8ca53297d" sha1="5fe04842d04a489720f0f4bb0e46948199406f49"/>
+	</game>
+	<game name="Kickstart v3.1 r40.068 (1993-12)(Commodore)(A4000)[encrypted, needs rom.key]">
+		<description>Kickstart v3.1 r40.068 (1993-12)(Commodore)(A4000)[encrypted, needs rom.key]</description>
+		<rom name="Kickstart v3.1 r40.068 (1993-12)(Commodore)(A4000)[encrypted, needs rom.key].rom" size="524299" crc="82cfa24e" md5="edf45497833cf69a4668d1e9ad44eb58" sha1="06ab3a538b326ddc66cb0136f5de5e25a3b33920"/>
+	</game>
+	<game name="Kickstart v3.1 r40.068 (1993-12)(Commodore)(A4000)[h Cloanto]">
+		<description>Kickstart v3.1 r40.068 (1993-12)(Commodore)(A4000)[h Cloanto]</description>
+		<rom name="Kickstart v3.1 r40.068 (1993-12)(Commodore)(A4000)[h Cloanto].rom" size="524288" crc="43b6dd22" md5="730888fb1bd9a3606d51f772ed136528" sha1="c3c481160866e60d085e436a24db3617ff60b5f9"/>
+	</game>
+	<game name="Kickstart v3.1 r40.068 (1993-12)(Commodore)(A4000)[h ShapeShifter]">
+		<description>Kickstart v3.1 r40.068 (1993-12)(Commodore)(A4000)[h ShapeShifter]</description>
+		<rom name="Kickstart v3.1 r40.068 (1993-12)(Commodore)(A4000)[h ShapeShifter].rom" size="524288" crc="babd04c5" md5="9c7195ba3098317082159599b8d6dc6b" sha1="03e33f17cd451aab7ff4db1cdafb83f545a6abcf"/>
+	</game>
+	<game name="Kickstart v3.1 r40.068 (1993-12)(Commodore)(A600)(beta)[!][developer]">
+		<description>Kickstart v3.1 r40.068 (1993-12)(Commodore)(A600)(beta)[!][developer]</description>
+		<rom name="Kickstart v3.1 r40.068 (1993-12)(Commodore)(A600)(beta)[!][developer].rom" size="524288" crc="8eced804" md5="0d527eaf6cf3d25a69f7b82716ed3eac" sha1="b4c5cb8620c86a93dceeb543866ea6ab005a3d41"/>
+	</game>
+	<game name="Kickstart v3.1 r40.068 (1993-12)(Commodore)(A600)(beta)[h][developer]">
+		<description>Kickstart v3.1 r40.068 (1993-12)(Commodore)(A600)(beta)[h][developer]</description>
+		<rom name="Kickstart v3.1 r40.068 (1993-12)(Commodore)(A600)(beta)[h][developer].rom" size="524288" crc="88136ca9" md5="0b839c665635a249c5736118c68a69a7" sha1="9631ec3bcc6bbbd727d774f85b6525a2fa3d82bc"/>
+	</game>
+	<game name="Kickstart v3.1 r40.070 (1994-02)(Commodore)(A3000)(beta)[h]">
+		<description>Kickstart v3.1 r40.070 (1994-02)(Commodore)(A3000)(beta)[h]</description>
+		<rom name="Kickstart v3.1 r40.070 (1994-02)(Commodore)(A3000)(beta)[h].rom" size="524288" crc="d04bbbb5" md5="e553af2051b7f9558a56aa240aed3db3" sha1="4824e8b42b4ea11f46d431e263c6ffbcf8df8565"/>
+	</game>
+	<game name="Kickstart v3.1 r40.070 (1994-02)(Commodore)(A4000)(beta)[!]">
+		<description>Kickstart v3.1 r40.070 (1994-02)(Commodore)(A4000)(beta)[!]</description>
+		<rom name="Kickstart v3.1 r40.070 (1994-02)(Commodore)(A4000)(beta)[!].rom" size="524288" crc="2b4566f1" md5="402dc47a03e01fcd466742d0760b5913" sha1="81c631dd096bbb31d2af90299c76b774db74076c"/>
+	</game>
+	<game name="Kickstart v3.1 r40.070 (1994-02)(Commodore)(A4000)(beta)[b]">
+		<description>Kickstart v3.1 r40.070 (1994-02)(Commodore)(A4000)(beta)[b]</description>
+		<rom name="Kickstart v3.1 r40.070 (1994-02)(Commodore)(A4000)(beta)[b].rom" size="524288" crc="63f473ab" md5="6e2a13b268b0105584401b78a4f9c43b" sha1="69b9c2321a4519360a457d0f92bb178f754ba3b4"/>
+	</game>
+	<game name="Kickstart v3.1 r40.070 (1994-02)(Commodore)(A4000)(beta)[h2]">
+		<description>Kickstart v3.1 r40.070 (1994-02)(Commodore)(A4000)(beta)[h2]</description>
+		<rom name="Kickstart v3.1 r40.070 (1994-02)(Commodore)(A4000)(beta)[h2].rom" size="524288" crc="3f0056d3" md5="6c26188edcd275ddc6a13642f5b6ad18" sha1="a5a1a7dc832b7a238c236ad9d2b398edd8a831d7"/>
+	</game>
+	<game name="Kickstart v3.1 r40.070 (1994-02)(Commodore)(A4000)(beta)[h]">
+		<description>Kickstart v3.1 r40.070 (1994-02)(Commodore)(A4000)(beta)[h]</description>
+		<rom name="Kickstart v3.1 r40.070 (1994-02)(Commodore)(A4000)(beta)[h].rom" size="524288" crc="917100a0" md5="88f6e141541c677f91b50893933a4eff" sha1="039536fa2087a031d41b6735fdc3eba464d1bfa2"/>
+	</game>
+	<game name="Kickstart v3.1 r40.070 (1994-02)(Commodore)(A4000)(beta)[h][faked v3.5]">
+		<description>Kickstart v3.1 r40.070 (1994-02)(Commodore)(A4000)(beta)[h][faked v3.5]</description>
+		<rom name="Kickstart v3.1 r40.070 (1994-02)(Commodore)(A4000)(beta)[h][faked v3.5].rom" size="524288" crc="e75a53f4" md5="7bf014c3e646a6e4f92eafe8560869fd" sha1="b384371161344a6a18939f920c1345fe7414ceb6"/>
+	</game>
+	<game name="Kickstart v3.1 r40.070 (1994-02)(Commodore)(A4000T)[!]">
+		<description>Kickstart v3.1 r40.070 (1994-02)(Commodore)(A4000T)[!]</description>
+		<rom name="Kickstart v3.1 r40.070 (1994-02)(Commodore)(A4000T)[!].rom" size="524288" crc="75932c3a" md5="e873c43040b4d7a9c65f37cf2da2158f" sha1="b0ec8b84d6768321e01209f11e6248f2f5281a21"/>
+	</game>
+	<game name="Kickstart v3.1 r40.070 (1994-02)(Commodore)(A500-A600-A2000)(beta)[h]">
+		<description>Kickstart v3.1 r40.070 (1994-02)(Commodore)(A500-A600-A2000)(beta)[h]</description>
+		<rom name="Kickstart v3.1 r40.070 (1994-02)(Commodore)(A500-A600-A2000)(beta)[h].rom" size="524288" crc="e9795c98" md5="77978bea93438bcb9d871aa7a9e1660d" sha1="ca07e1a2564017d60800158d0eb4c3eba1cbce90"/>
+	</game>
+	<game name="Nordic Power v1.5 (1989)(Data &amp; Electronics)">
+		<description>Nordic Power v1.5 (1989)(Data &amp; Electronics)</description>
+		<rom name="Nordic Power v1.5 (1989)(Data &amp; Electronics).rom" size="65536" crc="83b4b21c" md5="f2630fcbe01ae5623127a4b947030e29" sha1="c56ced25506a5aab3fa138134fc9e5ae0f9d3709"/>
+	</game>
+	<game name="Nordic Power v2.0 (1990)(Data &amp; Electronics)">
+		<description>Nordic Power v2.0 (1990)(Data &amp; Electronics)</description>
+		<rom name="Nordic Power v2.0 (1990)(Data &amp; Electronics).rom" size="65536" crc="a4db2906" md5="4c6d2f97d9509e9554667e54291a2cd7" sha1="0aec68f725470c896b699ff46623dec5c777466e"/>
+	</game>
+	<game name="Nordic Power v3.0 (1990)(Data &amp; Electronics)">
+		<description>Nordic Power v3.0 (1990)(Data &amp; Electronics)</description>
+		<rom name="Nordic Power v3.0 (1990)(Data &amp; Electronics).rom" size="65536" crc="72850aef" md5="eeb62fbb2781698ddc63c7f55e848b33" sha1="59c91d1fa8f118f90bdba05a9ae788d77a6cc7c9"/>
+	</game>
+	<game name="X-Power Professional 500 v1.2 (1991)(Design &amp; Engineering)">
+		<description>X-Power Professional 500 v1.2 (1991)(Design &amp; Engineering)</description>
+		<rom name="X-Power Professional 500 v1.2 (1991)(Design &amp; Engineering).rom" size="131072" crc="9e70c231" md5="6956bd62ae7a8aa887f1f38fcfa7720f" sha1="a2977a1c41a8ca7d4af4a168726da542179d5963"/>
+	</game>
+	<game name="X-Power Professional 500 v1.3 (1991)(Design &amp; Engineering)">
+		<description>X-Power Professional 500 v1.3 (1991)(Design &amp; Engineering)</description>
+		<rom name="X-Power Professional 500 v1.3 (1991)(Design &amp; Engineering).rom" size="131072" crc="31e057f0" md5="4049efef2ffdccda99b866ff9383cf02" sha1="84650266465d18597fd71dee00775930b7e450ee"/>
+	</game>
+</datafile>

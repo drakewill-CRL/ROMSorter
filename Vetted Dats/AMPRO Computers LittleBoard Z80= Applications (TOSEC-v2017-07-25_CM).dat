@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>AMPRO Computers LittleBoard Z80 - Applications</name>
+		<description>AMPRO Computers LittleBoard Z80 - Applications (TOSEC-v2017-07-25)</description>
+		<category>TOSEC</category>
+		<version>2017-07-25</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="AMPRO LittleBoard SMARTCLOCK Software Disk (198x)(-)">
+		<description>AMPRO LittleBoard SMARTCLOCK Software Disk (198x)(-)</description>
+		<rom name="AMPRO LittleBoard SMARTCLOCK Software Disk (198x)(-).imd" size="22805" crc="9208340c" md5="661d9a7c7ec6a1393a3ced5938c7074b" sha1="015ee83d53636263a7b61ebbb68437c3be409874"/>
+	</game>
+</datafile>

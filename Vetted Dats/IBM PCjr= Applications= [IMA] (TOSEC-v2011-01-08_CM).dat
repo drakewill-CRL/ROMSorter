@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>IBM PCjr - Applications - [IMA]</name>
+		<description>IBM PCjr - Applications - [IMA] (TOSEC-v2011-01-08)</description>
+		<category>TOSEC</category>
+		<version>2011-01-08</version>
+		<author>Aral</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="WordStar for PCjr Release 1.00 (1987)(MicroPro International)(Disk 1 of 3)">
+		<description>WordStar for PCjr Release 1.00 (1987)(MicroPro International)(Disk 1 of 3)</description>
+		<rom name="WordStar for PCjr Release 1.00 (1987)(MicroPro International)(Disk 1 of 3).ima" size="368640" crc="81b95671" md5="a8f5bdef31668d8ce6d79a70dfbc59a9" sha1="a5f33403b1e3762e6b1c2c84b279e093eec9501f"/>
+	</game>
+	<game name="WordStar for PCjr Release 1.00 (1987)(MicroPro International)(Disk 2 of 3)">
+		<description>WordStar for PCjr Release 1.00 (1987)(MicroPro International)(Disk 2 of 3)</description>
+		<rom name="WordStar for PCjr Release 1.00 (1987)(MicroPro International)(Disk 2 of 3).ima" size="368640" crc="d5c84856" md5="de868d0363b4804d00e00d228a27a9f6" sha1="ef138f490f302e687827b71b8d254143d870f895"/>
+	</game>
+	<game name="WordStar for PCjr Release 1.00 (1987)(MicroPro International)(Disk 3 of 3)">
+		<description>WordStar for PCjr Release 1.00 (1987)(MicroPro International)(Disk 3 of 3)</description>
+		<rom name="WordStar for PCjr Release 1.00 (1987)(MicroPro International)(Disk 3 of 3).ima" size="368640" crc="49884404" md5="debac548a2d142d3d875fd1494b9017d" sha1="11c8c7d638ba00a1e42844a1efb09fd6f75ac7d4"/>
+	</game>
+</datafile>

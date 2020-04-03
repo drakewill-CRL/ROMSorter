@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Microkey Primo - Sources</name>
+		<description>Microkey Primo - Sources (TOSEC-v2011-09-04)</description>
+		<category>TOSEC</category>
+		<version>2011-09-04</version>
+		<author>Gruby</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Beolvas-Kiir (198x)(Karacsony Sandor)">
+		<description>Beolvas-Kiir (198x)(Karacsony Sandor)</description>
+		<rom name="Beolvas-Kiir (198x)(Karacsony Sandor).seq" size="4398" crc="d6d9c9ff" md5="76584be7e2e7ddb533d2db50b9822a03" sha1="42f0714e0df6566b103741682c86ea725ae5485c"/>
+	</game>
+	<game name="Beolvas-Kiir (198x)(Karacsony Sandor)[a]">
+		<description>Beolvas-Kiir (198x)(Karacsony Sandor)[a]</description>
+		<rom name="Beolvas-Kiir (198x)(Karacsony Sandor)[a].ptp" size="2284" crc="5680b3e2" md5="81f7bed1979288bb14ab22fa2a66f18a" sha1="f2afd1f90e55bf535c7011e4e637a53b2518b5ca"/>
+	</game>
+	<game name="C-DOS Source Part 1 (1989-09-24)(-)">
+		<description>C-DOS Source Part 1 (1989-09-24)(-)</description>
+		<rom name="C-DOS Source Part 1 (1989-09-24)(-).seq" size="9508" crc="cf554a3d" md5="399ee6f8c799e25f63ed0119e35df887" sha1="149c0ccfae8d76744725b592c590b1c169a76c43"/>
+	</game>
+	<game name="C-DOS Source Part 1 (1989-09-24)(-)[a]">
+		<description>C-DOS Source Part 1 (1989-09-24)(-)[a]</description>
+		<rom name="C-DOS Source Part 1 (1989-09-24)(-)[a].seq" size="9898" crc="a941a9c4" md5="35f0a7376917980ee38bc9da13461b8a" sha1="b83d87599c042e291cc5c7aa69fbc359f8a4fe0d"/>
+	</game>
+	<game name="C-DOS Source Part 1 (198x)(-)">
+		<description>C-DOS Source Part 1 (198x)(-)</description>
+		<rom name="C-DOS Source Part 1 (198x)(-).seq" size="10249" crc="95e084c5" md5="fe54d17956e6fe888386f7d873b5745c" sha1="126f5ac717aafba74c2f435ee5ee04b41807fa9e"/>
+	</game>
+	<game name="C-DOS Source Part 2 (1989-09-24)(-)">
+		<description>C-DOS Source Part 2 (1989-09-24)(-)</description>
+		<rom name="C-DOS Source Part 2 (1989-09-24)(-).seq" size="12864" crc="0c4a4461" md5="5c06312f604f878de0b1116d485d1946" sha1="546fc61ce7bde669131d83b7c6d87c766b7dc240"/>
+	</game>
+	<game name="C-DOS Source Part 2 (1989-09-24)(-)[a]">
+		<description>C-DOS Source Part 2 (1989-09-24)(-)[a]</description>
+		<rom name="C-DOS Source Part 2 (1989-09-24)(-)[a].seq" size="6540" crc="400e87b1" md5="39608943a2e6fc84b8ec2897b1e1b71a" sha1="e28243f52f96172c09e30c4332ef0cf9925d3669"/>
+	</game>
+	<game name="C-DOS Source Part 2 (198x)(-)">
+		<description>C-DOS Source Part 2 (198x)(-)</description>
+		<rom name="C-DOS Source Part 2 (198x)(-).seq" size="5677" crc="ee7af179" md5="fcc08bdc6dbd4e5daa23e9868ae788f9" sha1="5c5d4c39551adc8210183a8f5faf8eb6f9eeee6e"/>
+	</game>
+	<game name="COPY 2 (1988-06-23)(-)">
+		<description>COPY 2 (1988-06-23)(-)</description>
+		<rom name="COPY 2 (1988-06-23)(-).seq" size="2890" crc="dcb4c9fd" md5="b9caad48ee2fd577c52da0b12a13067f" sha1="373b1954d61a9b7e6629fc281536ccf71659bf7e"/>
+	</game>
+	<game name="K.S. Copy Alap Source (1987)(Karacsony Sandor)">
+		<description>K.S. Copy Alap Source (1987)(Karacsony Sandor)</description>
+		<rom name="K.S. Copy Alap Source (1987)(Karacsony Sandor).seq" size="10517" crc="d98afb2b" md5="b93a6e4fba70cacb404af4f9cc330049" sha1="7db49e69c8688c4982757461254996c4e25f1235"/>
+	</game>
+	<game name="K.S. Copy Alap Source (1987)(Karacsony Sandor)[a]">
+		<description>K.S. Copy Alap Source (1987)(Karacsony Sandor)[a]</description>
+		<rom name="K.S. Copy Alap Source (1987)(Karacsony Sandor)[a].seq" size="10528" crc="f0b7e7d0" md5="4afb810d157188df9d34ec13754dd62b" sha1="6e8c5863efb9ebef6496881008e60c405d130dce"/>
+	</game>
+	<game name="Primo Disassembler for Paralell Printer (198x)(-)">
+		<description>Primo Disassembler for Paralell Printer (198x)(-)</description>
+		<rom name="Primo Disassembler for Paralell Printer (198x)(-).seq" size="8030" crc="39de56b3" md5="97a06d98560dcd5aadb9209c419e933f" sha1="e2bf137a520c1e5101b58d150e85a2cf6683a72a"/>
+	</game>
+	<game name="ZX COPY (198x)(-)">
+		<description>ZX COPY (198x)(-)</description>
+		<rom name="ZX COPY (198x)(-).seq" size="3564" crc="4d885bcd" md5="b8305910b4cbc04f30bdf9a8b62c7036" sha1="77347b00ade65d82486562dfcbd2e5652d52f7fd"/>
+	</game>
+</datafile>

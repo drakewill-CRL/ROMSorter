@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nascom I &amp; II - Applications - [DSK]</name>
+		<description>Nascom I &amp; II - Applications - [DSK] (TOSEC-v2014-04-11)</description>
+		<category>TOSEC</category>
+		<version>2014-04-11</version>
+		<author>Grendel - Cid - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="NAS-Sembler v1.5 (1982)(Watson, P. - Logic, Lucas)">
+		<description>NAS-Sembler v1.5 (1982)(Watson, P. - Logic, Lucas)</description>
+		<rom name="NAS-Sembler v1.5 (1982)(Watson, P. - Logic, Lucas).dsk" size="655360" crc="e5b38cc4" md5="87f101805c7a803b1a5fb18f376a7393" sha1="e5a67c7bfb1dcd8e277bf79ce5634fbe49a037a9"/>
+	</game>
+	<game name="NCB (1979)(Digital Research)">
+		<description>NCB (1979)(Digital Research)</description>
+		<rom name="NCB (1979)(Digital Research).dsk" size="788480" crc="1ad7424d" md5="1b128c70cd0519d0e32e30612616e4bd" sha1="98b1939d5e1dd12530e310ff78a06dc341bfc2e9"/>
+	</game>
+	<game name="Serial Printer Driver (1982)(Fhessey, M.)">
+		<description>Serial Printer Driver (1982)(Fhessey, M.)</description>
+		<rom name="Serial Printer Driver (1982)(Fhessey, M.).dsk" size="655360" crc="997e014a" md5="91eaa27c2a3bf20d6e203533daa8d1d8" sha1="ce86f41ebbb57322ff026b693dd49603e104f55c"/>
+	</game>
+	<game name="Utilities v1.6 (1982)(Vidth, Margin)">
+		<description>Utilities v1.6 (1982)(Vidth, Margin)</description>
+		<rom name="Utilities v1.6 (1982)(Vidth, Margin).dsk" size="655360" crc="81877f78" md5="116deb9166e40838fc3b28fdfce5691a" sha1="11fadb5ea69a949fdeadac3938683b14728b18df"/>
+	</game>
+	<game name="Utilities v1.6 (1982)(Vidth, Margin)[a]">
+		<description>Utilities v1.6 (1982)(Vidth, Margin)[a]</description>
+		<rom name="Utilities v1.6 (1982)(Vidth, Margin)[a].dsk" size="655360" crc="58751dc6" md5="73c7209525d487c8ac9f89f32063995f" sha1="7078e928c2ef17fccd53e1d1eb2fd9bfe9371c2c"/>
+	</game>
+</datafile>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore Amiga CDTV - Applications - [IMG]</name>
+		<description>Commodore Amiga CDTV - Applications - [IMG] (TOSEC-v2018-03-24)</description>
+		<category>TOSEC-ISO</category>
+		<version>2018-03-24</version>
+		<author>Tomse - TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+		<clrmamepro/>
+	</header>
+	<game name="Network (1994)(Weird Science)(Amiga-CD32-CDTV)[CDD3713 Weird Science NO2]">
+		<description>Network (1994)(Weird Science)(Amiga-CD32-CDTV)[CDD3713 Weird Science NO2]</description>
+		<rom name="Network (1994)(Weird Science)(Amiga-CD32-CDTV)[CDD3713 Weird Science NO2].ccd" size="792" crc="cd1f9c28" md5="6dff2bb266b0ddb3941ae51d2d1e0416" sha1="1d5b3fcdecfad460e93aac4ef32d1a4bc5030088"/>
+		<rom name="Network (1994)(Weird Science)(Amiga-CD32-CDTV)[CDD3713 Weird Science NO2].cue" size="137" crc="a1fa205c" md5="49702c05aa4c834ffc1c28ef85bbe84d" sha1="7f8ad93129c9438e7069daec16b366878c2adb73"/>
+		<rom name="Network (1994)(Weird Science)(Amiga-CD32-CDTV)[CDD3713 Weird Science NO2].img" size="248571120" crc="896d2bc1" md5="2ad47650d0c58287c4ed729063f96a8f" sha1="aa28a3b0e0f93e346dc682519757598aa5daae1a"/>
+		<rom name="Network (1994)(Weird Science)(Amiga-CD32-CDTV)[CDD3713 Weird Science NO2].sub" size="10145760" crc="b21d7ac8" md5="dbbaa1957ba077eb3251c55a7108f9aa" sha1="283fd27bc914acb520dacb848a82c87d2f610379"/>
+	</game>
+</datafile>

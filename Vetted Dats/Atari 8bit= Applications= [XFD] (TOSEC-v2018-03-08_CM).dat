@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Atari 8bit - Applications - [XFD]</name>
+		<description>Atari 8bit - Applications - [XFD] (TOSEC-v2018-03-08)</description>
+		<category>TOSEC</category>
+		<version>2018-03-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="KoalaPainter (1984)(Koala Technologies)[KoalaPad][C64 on Side A]">
+		<description>KoalaPainter (1984)(Koala Technologies)[KoalaPad][C64 on Side A]</description>
+		<rom name="KoalaPainter (1984)(Koala Technologies)[KoalaPad][C64 on Side A].xfd" size="92160" crc="f1447be4" md5="7c6bd0fe81890a22ec8f15ab32a222d5" sha1="834d906748f9f4f089912289ab592cf091456d49"/>
+	</game>
+</datafile>

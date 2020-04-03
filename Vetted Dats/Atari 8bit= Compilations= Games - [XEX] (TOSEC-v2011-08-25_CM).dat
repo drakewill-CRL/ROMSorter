@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Atari 8bit - Compilations - Games - [XEX]</name>
+		<description>Atari 8bit - Compilations - Games - [XEX] (TOSEC-v2011-08-25)</description>
+		<category>TOSEC</category>
+		<version>2011-08-25</version>
+		<author>TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Easy Money + Honky (1993)(L.K. Avalon)(PL)[Easy Money]">
+		<description>Easy Money + Honky (1993)(L.K. Avalon)(PL)[Easy Money]</description>
+		<rom name="Easy Money + Honky (1993)(L.K. Avalon)(PL)[Easy Money].xex" size="24037" crc="a6caf26f" md5="9ea65c73f6326b24851438582fcbc522" sha1="000af8fbf5f2576849447c3d2cd25a418a1b4361"/>
+	</game>
+	<game name="Easy Money + Honky (1993)(L.K. Avalon)(PL)[Honky]">
+		<description>Easy Money + Honky (1993)(L.K. Avalon)(PL)[Honky]</description>
+		<rom name="Easy Money + Honky (1993)(L.K. Avalon)(PL)[Honky].xex" size="45400" crc="297cc7df" md5="199fa7d94edea2a24bf06a62b2348d72" sha1="5241081f92174bf7053dc8a14469266549ffc1c0"/>
+	</game>
+	<game name="Logic Games (1993)(ABC Software)(PL)">
+		<description>Logic Games (1993)(ABC Software)(PL)</description>
+		<rom name="Logic Games (1993)(ABC Software)(PL).xex" size="21139" crc="aa56638d" md5="ec7b19867bef0d3da198d9727212e02c" sha1="b2884214b23caf4f195ef41ae99336032bb15bca"/>
+	</game>
+	<game name="Muff &amp; Drutt (1992)(ASF)(PL)[h GSL - LBS]">
+		<description>Muff &amp; Drutt (1992)(ASF)(PL)[h GSL - LBS]</description>
+		<rom name="Muff &amp; Drutt (1992)(ASF)(PL)[h GSL - LBS].xex" size="10142" crc="6835b0ec" md5="dba06e05a4e8344f57bcb64cd46e984f" sha1="0ed93ee9cb1f2da599de762dba753aba97f8a551"/>
+	</game>
+</datafile>

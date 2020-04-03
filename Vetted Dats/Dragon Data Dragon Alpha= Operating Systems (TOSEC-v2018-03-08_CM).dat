@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Dragon Data Dragon Alpha - Operating Systems</name>
+		<description>Dragon Data Dragon Alpha - Operating Systems (TOSEC-v2018-03-08)</description>
+		<category>TOSEC</category>
+		<version>2018-03-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Dragon DOS v1.0 Boot (2004)(Smith, Phill Harvey)">
+		<description>Dragon DOS v1.0 Boot (2004)(Smith, Phill Harvey)</description>
+		<rom name="Dragon DOS v1.0 Boot (2004)(Smith, Phill Harvey).vdk" size="368652" crc="ebbcf3b9" md5="4b50ea880a9407aaabd0c252476098d4" sha1="35a7a6381fdb516ac0dbf05ada1d9f1fce3d1ac0"/>
+	</game>
+	<game name="Dragon DOS v2.x Boot (198x)(Dragon Data)">
+		<description>Dragon DOS v2.x Boot (198x)(Dragon Data)</description>
+		<rom name="Dragon DOS v2.x Boot (198x)(Dragon Data).vdk" size="368652" crc="ee4ffe2c" md5="ad51f22e1d2736a585998e2a279d388a" sha1="ff8d00a80d03452589e0db47944a121c9bd62332"/>
+	</game>
+	<game name="NitrOS-9-6809 Level 1 v3.2.1 (2004)(Smith, Phill Harvey)">
+		<description>NitrOS-9-6809 Level 1 v3.2.1 (2004)(Smith, Phill Harvey)</description>
+		<rom name="NitrOS-9-6809 Level 1 v3.2.1 (2004)(Smith, Phill Harvey).vdk" size="368652" crc="a417d3e2" md5="f839b617e7df749a4993bc89264f155e" sha1="823f72a98bd20128c84e20d47df9e0f205cd1fb8"/>
+	</game>
+	<game name="NitrOS-9-6809 Level 1 v3.2.1 (2004)(Smith, Phill Harvey)[51 column]">
+		<description>NitrOS-9-6809 Level 1 v3.2.1 (2004)(Smith, Phill Harvey)[51 column]</description>
+		<rom name="NitrOS-9-6809 Level 1 v3.2.1 (2004)(Smith, Phill Harvey)[51 column].vdk" size="368652" crc="482048d2" md5="e80d60794eda446181d829ddfa61f203" sha1="beab9134a0ca4b1412a484f7c5caa7b62677a405"/>
+	</game>
+	<game name="SuperDOS E6 Boot (2004)(Smith, Phill Harvey)">
+		<description>SuperDOS E6 Boot (2004)(Smith, Phill Harvey)</description>
+		<rom name="SuperDOS E6 Boot (2004)(Smith, Phill Harvey).vdk" size="368652" crc="118e6529" md5="1ca69d7d915d6c2443dfffa97e6a7996" sha1="f9265036feded52ea868b97cc98668d7ed4b79a9"/>
+	</game>
+</datafile>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sinclair ZX Spectrum - Applications - [$C]</name>
+		<description>Sinclair ZX Spectrum - Applications - [$C] (TOSEC-v2011-09-24)</description>
+		<category>TOSEC</category>
+		<version>2011-09-24</version>
+		<author>jugaor - gorski - Vaxalon - Zxyo - Dziuber - StefaN - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="5Poke Monitor (1993)(A. Evdokimov)">
+		<description>5Poke Monitor (1993)(A. Evdokimov)</description>
+		<rom name="5Poke Monitor (1993)(A. Evdokimov).$c" size="2065" crc="48591d26" md5="934a4c2312e66bf6baeef770bd50c302" sha1="b32a40c8b3196d2ac83eac53033cd65cb351beee"/>
+	</game>
+	<game name="MCoder IIb v5.02 (1994)(A. Evdokimov)">
+		<description>MCoder IIb v5.02 (1994)(A. Evdokimov)</description>
+		<rom name="MCoder IIb v5.02 (1994)(A. Evdokimov).$c" size="6929" crc="45b8cafd" md5="c046a88b57108fabf072944cb15a77dd" sha1="bfd72eaba978b508be2b9d0d5fd6552ca4ba07d9"/>
+	</game>
+	<game name="Widefunctional Boot Program v2.01 (1994)(Alem)">
+		<description>Widefunctional Boot Program v2.01 (1994)(Alem)</description>
+		<rom name="Widefunctional Boot Program v2.01 (1994)(Alem).$c" size="3601" crc="398961e2" md5="360ef8ce18d083e70dbd2688300b9650" sha1="b9adaf6043390479f4d7624d243db1a903d458f9"/>
+	</game>
+</datafile>

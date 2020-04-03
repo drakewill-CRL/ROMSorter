@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>IBM PC Compatibles - Operating Systems - [VFD]</name>
+		<description>IBM PC Compatibles - Operating Systems - [VFD] (TOSEC-v2018-11-15)</description>
+		<category>TOSEC</category>
+		<version>2018-11-15</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Dell MS-DOS v5.0 (1993)(Dell Computer)(Disk 1 of 3)[pn 23797]">
+		<description>Dell MS-DOS v5.0 (1993)(Dell Computer)(Disk 1 of 3)[pn 23797]</description>
+		<rom name="Dell MS-DOS v5.0 (1993)(Dell Computer)(Disk 1 of 3)[pn 23797].vfd" size="737280" crc="26c9b02c" md5="c08d07f93a2112fbd03828e31fd0f9c4" sha1="6c57604eacb48f2bcfec3a527dc37e79a0b98232"/>
+	</game>
+	<game name="Dell MS-DOS v5.0 (1993)(Dell Computer)(Disk 2 of 3)[pn 23796]">
+		<description>Dell MS-DOS v5.0 (1993)(Dell Computer)(Disk 2 of 3)[pn 23796]</description>
+		<rom name="Dell MS-DOS v5.0 (1993)(Dell Computer)(Disk 2 of 3)[pn 23796].vfd" size="737280" crc="159b9cfc" md5="1fe2dae4cf4198a77c491c309f8f1505" sha1="69df3797c407b80c884e4fed1b12cdfab3ec02ee"/>
+	</game>
+	<game name="Dell MS-DOS v5.0 (1993)(Dell Computer)(Disk 3 of 3)[pn 23798]">
+		<description>Dell MS-DOS v5.0 (1993)(Dell Computer)(Disk 3 of 3)[pn 23798]</description>
+		<rom name="Dell MS-DOS v5.0 (1993)(Dell Computer)(Disk 3 of 3)[pn 23798].vfd" size="737280" crc="b2723d7d" md5="fd99786bf738f24b30f1287a7d31f83d" sha1="57426f373104306c0f9db20b6db045beac43f20b"/>
+	</game>
+	<game name="Microsoft MS-DOS v6.21 - Operating System Plus Enhanced Tools (1994)(Dell)(Disk 1 of 3)[OEM][pn 76742]">
+		<description>Microsoft MS-DOS v6.21 - Operating System Plus Enhanced Tools (1994)(Dell)(Disk 1 of 3)[OEM][pn 76742]</description>
+		<rom name="Microsoft MS-DOS v6.21 - Operating System Plus Enhanced Tools (1994)(Dell)(Disk 1 of 3)[OEM][pn 76742].vfd" size="1474560" crc="380f6591" md5="a34113f5315bf9ad6e31c28cc5fba89b" sha1="73c13360a121b7bdc3948b1c5636d607b31df4c1"/>
+	</game>
+	<game name="Microsoft MS-DOS v6.21 - Operating System Plus Enhanced Tools (1994)(Dell)(Disk 2 of 3)[OEM][pn 76743]">
+		<description>Microsoft MS-DOS v6.21 - Operating System Plus Enhanced Tools (1994)(Dell)(Disk 2 of 3)[OEM][pn 76743]</description>
+		<rom name="Microsoft MS-DOS v6.21 - Operating System Plus Enhanced Tools (1994)(Dell)(Disk 2 of 3)[OEM][pn 76743].vfd" size="1474560" crc="c9778664" md5="b3990608b045a234017f6379866a35f8" sha1="e774e045dfa1a527cbb2347ea4f623831f0d5bed"/>
+	</game>
+	<game name="Microsoft MS-DOS v6.21 - Operating System Plus Enhanced Tools (1994)(Dell)(Disk 3 of 3)[OEM][pn 76744]">
+		<description>Microsoft MS-DOS v6.21 - Operating System Plus Enhanced Tools (1994)(Dell)(Disk 3 of 3)[OEM][pn 76744]</description>
+		<rom name="Microsoft MS-DOS v6.21 - Operating System Plus Enhanced Tools (1994)(Dell)(Disk 3 of 3)[OEM][pn 76744].vfd" size="1474560" crc="c5e6fac3" md5="1e0900fe398638eaca3c6b203e06a994" sha1="d3c31242be7bc854d2e5b6ad7fcc16298cdc5251"/>
+	</game>
+	<game name="MS-DOS v3.30 &amp; GW-BASIC v3.22 (1990)(Bondwell)[Superslim AT OEM]">
+		<description>MS-DOS v3.30 &amp; GW-BASIC v3.22 (1990)(Bondwell)[Superslim AT OEM]</description>
+		<rom name="MS-DOS v3.30 &amp; GW-BASIC v3.22 (1990)(Bondwell)[Superslim AT OEM].vfd" size="737280" crc="8873ce21" md5="fe263b722f444a63c4abf1e2519404c8" sha1="f50474f071204b3c39c25cbf67db2c32c88b7a20"/>
+	</game>
+</datafile>

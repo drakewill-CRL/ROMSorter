@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Acorn BBC - Magazines - [UEF]</name>
+		<description>Acorn BBC - Magazines - [UEF] (TOSEC-v2013-10-22)</description>
+		<category>TOSEC</category>
+		<version>2013-10-22</version>
+		<author>CRSV - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Acorn User - Issue 1986.07 (1986)(Redwood Publishing)">
+		<description>Acorn User - Issue 1986.07 (1986)(Redwood Publishing)</description>
+		<rom name="Acorn User - Issue 1986.07 (1986)(Redwood Publishing).uef" size="23132" crc="f62d43f5" md5="d723d62e2206d4e75725d74b6cfe9c12" sha1="22926387a3c9f4dbe24e3ce8c28e56ef3144c266"/>
+	</game>
+	<game name="Acorn User - Issue 1986.09 (1986)(Redwood Publishing)">
+		<description>Acorn User - Issue 1986.09 (1986)(Redwood Publishing)</description>
+		<rom name="Acorn User - Issue 1986.09 (1986)(Redwood Publishing).uef" size="34325" crc="334fa940" md5="620e82b8d33279c256930643b55a2e00" sha1="614d0de295480fae5da4afa8f8b3500e48df9007"/>
+	</game>
+</datafile>

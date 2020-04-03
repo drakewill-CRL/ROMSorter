@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tatung Einstein TC-01 - Magazines</name>
+		<description>Tatung Einstein TC-01 - Magazines (TOSEC-v2011-11-15)</description>
+		<category>TOSEC</category>
+		<version>2011-11-15</version>
+		<author>TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Einstein Disk International 1 (19xx)(Dunipace, Andrew)">
+		<description>Einstein Disk International 1 (19xx)(Dunipace, Andrew)</description>
+		<rom name="Einstein Disk International 1 (19xx)(Dunipace, Andrew).dsk" size="215296" crc="bc633dd3" md5="4b564dccd4bcd52aa10af656a7a104cd" sha1="b82eb7b2868e7243559815520143c6b59e966be7"/>
+	</game>
+	<game name="Einstein Disk International 2 (19xx)(Dunipace, Andrew)">
+		<description>Einstein Disk International 2 (19xx)(Dunipace, Andrew)</description>
+		<rom name="Einstein Disk International 2 (19xx)(Dunipace, Andrew).dsk" size="215296" crc="da550c81" md5="160e250d96cf6b15a189500d6140b51f" sha1="4ca4c297c3d661ccab7e1f7bb2b3a161ae95f2b2"/>
+	</game>
+	<game name="Einstein Disk International 3 (19xx)(-)">
+		<description>Einstein Disk International 3 (19xx)(-)</description>
+		<rom name="Einstein Disk International 3 (19xx)(-).dsk" size="215296" crc="ff3219ea" md5="39f8560d46c632e24a7da5a87e1e1913" sha1="505f3b7aafa54addeba34dab7a21009b2f9a7baa"/>
+	</game>
+	<game name="Steam Computer Software Volume 22 v1.05 (1983-07-27)(Rand, Dave)">
+		<description>Steam Computer Software Volume 22 v1.05 (1983-07-27)(Rand, Dave)</description>
+		<rom name="Steam Computer Software Volume 22 v1.05 (1983-07-27)(Rand, Dave).dsk" size="215296" crc="67aa01e8" md5="164a09bca5bc1f39328cd36ef2d6ee74" sha1="b7e7006e7e4e7b95a3a085ccfd64872cab40184b"/>
+	</game>
+</datafile>

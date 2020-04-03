@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Xerox 860 - System</name>
+		<description>Xerox 860 - System (TOSEC-v2017-04-05)</description>
+		<category>TOSEC</category>
+		<version>2017-04-05</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<url>http://www.tosecdev.org</url>
+		<clrmamepro/>
+	</header>
+	<game name="Sys Disc v6.3 (1988-01-09)(Xerox)">
+		<description>Sys Disc v6.3 (1988-01-09)(Xerox)</description>
+		<rom name="Sys Disc v6.3 (1988-01-09)(Xerox).imd" size="278371" crc="2612a76e" md5="d34839d66e182b4587f785c28f83cbd9" sha1="92212ad25dfd54c7e061db8fc719b15b3a5e723e"/>
+	</game>
+</datafile>

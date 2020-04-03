@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Texas Instruments TI-92 - Games</name>
+		<description>Texas Instruments TI-92 - Games (TOSEC-v2014-06-06)</description>
+		<category>TOSEC</category>
+		<version>2014-06-06</version>
+		<author>Cid - Grendel - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="15 Puzzles (19xx)(-)[Chip-8]">
+		<description>15 Puzzles (19xx)(-)[Chip-8]</description>
+		<rom name="15 Puzzles (19xx)(-)[Chip-8].9xz" size="587" crc="267ff6c0" md5="ad5550a42123ac653aef2b029cd4a039" sha1="f74fbc5dc0b513660ea8eee0c403ef15cbb03beb"/>
+	</game>
+	<game name="Alien (19xx)(-)[Chip-8]">
+		<description>Alien (19xx)(-)[Chip-8]</description>
+		<rom name="Alien (19xx)(-)[Chip-8].9xz" size="1007" crc="955aa7b0" md5="bba75509895430816f8a39a9f1cff568" sha1="e5e4d11124783c9fdcff084fa3500598f50c253b"/>
+	</game>
+	<game name="Ant (19xx)(-)[Chip-8]">
+		<description>Ant (19xx)(-)[Chip-8]</description>
+		<rom name="Ant (19xx)(-)[Chip-8].9xz" size="3395" crc="a00ef785" md5="847090984a32840812afe257436f94f3" sha1="53903be8acbcdd14ef05dd8d9bc0b04329637a84"/>
+	</game>
+	<game name="Blinky (19xx)(-)[Chip-8]">
+		<description>Blinky (19xx)(-)[Chip-8]</description>
+		<rom name="Blinky (19xx)(-)[Chip-8].9xz" size="2559" crc="6e8db3bc" md5="69f32faad266d36690d0d623da0dc0be" sha1="b338a2286aed92962dd08b584d6d01e861031c4d"/>
+	</game>
+	<game name="Blitz (19xx)(Winter, David)[Chip-8]">
+		<description>Blitz (19xx)(Winter, David)[Chip-8]</description>
+		<rom name="Blitz (19xx)(Winter, David)[Chip-8].9xz" size="591" crc="7070f96d" md5="52573d6799c57674266ffb765a5be493" sha1="34d00ebe5aaa4b09510d34cafb9bfddc788235a6"/>
+	</game>
+	<game name="Brix (19xx)(-)[Chip-8]">
+		<description>Brix (19xx)(-)[Chip-8]</description>
+		<rom name="Brix (19xx)(-)[Chip-8].9xz" size="479" crc="a94ddab9" md5="75ca8c0186646eb316d9d3968082cf80" sha1="821fbddc800cc22afc8924cd9e013e8f59df1e57"/>
+	</game>
+	<game name="Car (19xx)(-)[Chip-8]">
+		<description>Car (19xx)(-)[Chip-8]</description>
+		<rom name="Car (19xx)(-)[Chip-8].9xz" size="519" crc="fb733e9a" md5="27ba5be85ecf0713fdda91d4095b443e" sha1="d44260974700bac89aa131bb0e06d642a461e37a"/>
+	</game>
+	<game name="Connect 4 (19xx)(Winter, David)[a][Chip-8]">
+		<description>Connect 4 (19xx)(Winter, David)[a][Chip-8]</description>
+		<rom name="Connect 4 (19xx)(Winter, David)[a][Chip-8].9xz" size="2911" crc="91115581" md5="d259b3750e53a5d42baae49cdcd08786" sha1="ead5dd682b6d7d334018bf1783ae0b1b3c55828e"/>
+	</game>
+	<game name="Connect 4 (19xx)(Winter, David)[Chip-8]">
+		<description>Connect 4 (19xx)(Winter, David)[Chip-8]</description>
+		<rom name="Connect 4 (19xx)(Winter, David)[Chip-8].9xz" size="1055" crc="95fea9f6" md5="640973c6eaf6b3a085851bb8ef713153" sha1="e60c9a8f86449e0c2183ba1b073fca97c5459614"/>
+	</game>
+	<game name="Guess the Number (19xx)(-)[Chip-8]">
+		<description>Guess the Number (19xx)(-)[Chip-8]</description>
+		<rom name="Guess the Number (19xx)(-)[Chip-8].9xz" size="347" crc="6aa6a515" md5="4e9da5e7e130785c76f0efb14d3972cf" sha1="e9c224e65566adfeecd0870e5e9a317d661b3863"/>
+	</game>
+	<game name="Hidden v1.0 (19xx)(Winter, David)[Chip-8]">
+		<description>Hidden v1.0 (19xx)(Winter, David)[Chip-8]</description>
+		<rom name="Hidden v1.0 (19xx)(Winter, David)[Chip-8].9xz" size="1051" crc="bb58aa30" md5="d3ba781e22505f982eadcac31471c3c3" sha1="cb8b3c66e28056031a34bd13f69a07f1ea422177"/>
+	</game>
+	<game name="Joust (19xx)(-)[Chip-8]">
+		<description>Joust (19xx)(-)[Chip-8]</description>
+		<rom name="Joust (19xx)(-)[Chip-8].9xz" size="2575" crc="5dc89ace" md5="439bdc3d32c362d4748b8e7919a5b08c" sha1="6437eae860809110109518223b2c8e2b78775609"/>
+	</game>
+	<game name="Kaleidoscope (19xx)(-)[Chip-8]">
+		<description>Kaleidoscope (19xx)(-)[Chip-8]</description>
+		<rom name="Kaleidoscope (19xx)(-)[Chip-8].9xz" size="323" crc="1e1e6ec3" md5="8a286bd08c2d4f16e68d819eaf0d687e" sha1="2287bf7918240039a2ff6425fefcd13173058e13"/>
+	</game>
+	<game name="Maze (19xx)(-)[Chip-8]">
+		<description>Maze (19xx)(-)[Chip-8]</description>
+		<rom name="Maze (19xx)(-)[Chip-8].9xz" size="235" crc="19ac52d0" md5="86c8f2a908eca9bdbb67fc859284c6f0" sha1="075ca63bbb0ed4cd20e82970984458b08faabc61"/>
+	</game>
+	<game name="Merlin (19xx)(Winter, David)[Chip-8]">
+		<description>Merlin (19xx)(Winter, David)[Chip-8]</description>
+		<rom name="Merlin (19xx)(Winter, David)[Chip-8].9xz" size="547" crc="806b0896" md5="4aeed9e2e34811d2206d27010e646a9e" sha1="7eac60b4ddb8c0ef81cce8ec55d9466209bd9bc7"/>
+	</game>
+	<game name="Missile Command (19xx)(Winter, David)[Chip-8]">
+		<description>Missile Command (19xx)(Winter, David)[Chip-8]</description>
+		<rom name="Missile Command (19xx)(Winter, David)[Chip-8].9xz" size="383" crc="62ee1648" md5="9601f791acd44679c7d317953e11d12b" sha1="3a4b0051674c6026045d72b0474672e1ca7758c7"/>
+	</game>
+	<game name="Pong (19xx)(-)[Chip-8]">
+		<description>Pong (19xx)(-)[Chip-8]</description>
+		<rom name="Pong (19xx)(-)[Chip-8].9xz" size="467" crc="cf016b47" md5="31596a4c6e1ba5643d5f5194d2900cae" sha1="fa4681c5e502a89efcec734c5fce9ae82785e31f"/>
+	</game>
+	<game name="Puzzle (19xx)(-)[Chip-8]">
+		<description>Puzzle (19xx)(-)[Chip-8]</description>
+		<rom name="Puzzle (19xx)(-)[Chip-8].9xz" size="387" crc="40302842" md5="e753248ecaebc2b2e4834e015395da1c" sha1="e94d34c0f4d08bab75492d9cd5e800eac9a7b385"/>
+	</game>
+	<game name="Race (19xx)(-)[Superchip]">
+		<description>Race (19xx)(-)[Superchip]</description>
+		<rom name="Race (19xx)(-)[Superchip].9xz" size="347" crc="7ac5e2ad" md5="dac2bbc2adc89436b1102fd5c3cbfb57" sha1="6a6f65fdce85c5078c562ec07a9d839d490327b8"/>
+	</game>
+	<game name="Space Fight 2091 (1992)(Slammer - Anarchy)(PD)[Superchip]">
+		<description>Space Fight 2091 (1992)(Slammer - Anarchy)(PD)[Superchip]</description>
+		<rom name="Space Fight 2091 (1992)(Slammer - Anarchy)(PD)[Superchip].9xz" size="3043" crc="6c6c4f2a" md5="9d490ec0dd5fc66443fe5d42aeb3720d" sha1="68e8251ba19bc703d2f9211c69a56bf63051162c"/>
+	</game>
+	<game name="Space Invaders (19xx)(Winter, David)[Chip-8]">
+		<description>Space Invaders (19xx)(Winter, David)[Chip-8]</description>
+		<rom name="Space Invaders (19xx)(Winter, David)[Chip-8].9xz" size="1487" crc="ca6a8760" md5="499e0f6ced1068c6251867a8545b80b2" sha1="97698445b28a37bcbb8f1fc7fb5c2ac12c907fb9"/>
+	</game>
+	<game name="Syzygy (1990)(RTT)[Chip-8]">
+		<description>Syzygy (1990)(RTT)[Chip-8]</description>
+		<rom name="Syzygy (1990)(RTT)[Chip-8].9xz" size="1147" crc="97540063" md5="1de9e802f686153b274d352d8645a332" sha1="52d6eab3a74d828daa22f85fdb4072e12b7e4af3"/>
+	</game>
+	<game name="Tetris (19xx)(-)[Chip-8]">
+		<description>Tetris (19xx)(-)[Chip-8]</description>
+		<rom name="Tetris (19xx)(-)[Chip-8].9xz" size="695" crc="72882fbe" md5="bbdbf6c39f6470d1f33dff38a1f0fd68" sha1="849c4903d7e2da67a33bc1f2719b5e27a5888c32"/>
+	</game>
+	<game name="Tic-Tac-Toe (19xx)(Winter, David)[Chip-8]">
+		<description>Tic-Tac-Toe (19xx)(Winter, David)[Chip-8]</description>
+		<rom name="Tic-Tac-Toe (19xx)(Winter, David)[Chip-8].9xz" size="687" crc="f5c413c8" md5="7f56eae835e53c6aee2622eb858e0749" sha1="217f7cb52aba7f8788eae8c0647c46fca3823eb0"/>
+	</game>
+	<game name="U-Boat v1.0 (1994)(Kemper, Michael)(PD)[Superchip]">
+		<description>U-Boat v1.0 (1994)(Kemper, Michael)(PD)[Superchip]</description>
+		<rom name="U-Boat v1.0 (1994)(Kemper, Michael)(PD)[Superchip].9xz" size="2215" crc="31d0760e" md5="7dcf91e9cebc95d23f414c55b882eefa" sha1="e971b4ba93101a3992471b8f8cb72cc75b0eb0b7"/>
+	</game>
+	<game name="UFO (19xx)(-)[Chip-8]">
+		<description>UFO (19xx)(-)[Chip-8]</description>
+		<rom name="UFO (19xx)(-)[Chip-8].9xz" size="423" crc="4e833003" md5="c66a8ededa8cb0e15c3caec989562b8e" sha1="accca47111946cf1c053ffe56177ee8563ca266f"/>
+	</game>
+	<game name="V-Brix PSR (19xx)(-)[Chip-8]">
+		<description>V-Brix PSR (19xx)(-)[Chip-8]</description>
+		<rom name="V-Brix PSR (19xx)(-)[Chip-8].9xz" size="707" crc="3939dadd" md5="1171d44333bf6cd9c80a4b1145c1049f" sha1="d60cf10dc2ba61ed8a3674e730ecfa9a72bfa5a7"/>
+	</game>
+	<game name="Wipe Off (19xx)(-)[Chip-8]">
+		<description>Wipe Off (19xx)(-)[Chip-8]</description>
+		<rom name="Wipe Off (19xx)(-)[Chip-8].9xz" size="407" crc="b0f6d5ec" md5="14ad3ff8d6f641d78adb9bb74aad2500" sha1="a652b50b4879ad719641b065cbf4f250a7ede477"/>
+	</game>
+	<game name="Worm 3 (1992)(-)[Superchip]">
+		<description>Worm 3 (1992)(-)[Superchip]</description>
+		<rom name="Worm 3 (1992)(-)[Superchip].9xz" size="563" crc="54dc0e2b" md5="6cb53da3b3d01fc4849574bb74ae5f7c" sha1="de94619a0dbf603b8312a752309ee9f8da0b8eb0"/>
+	</game>
+	<game name="ZZZ-UNK-FIELD">
+		<description>ZZZ-UNK-FIELD</description>
+		<rom name="ZZZ-UNK-FIELD.9xz" size="1059" crc="c678d2c6" md5="1d103c597de9a64e4d59306607ef31c6" sha1="43132746a4b10ea12e18501e2115d994de1e2edb"/>
+	</game>
+	<game name="ZZZ-UNK-PIPER">
+		<description>ZZZ-UNK-PIPER</description>
+		<rom name="ZZZ-UNK-PIPER.9xz" size="2027" crc="aef6dd3a" md5="1e1d20882ce1687052afc8252ca35dca" sha1="57bc8a0992f2ec19f1d5fbed3bd13358c4f29b0e"/>
+	</game>
+</datafile>

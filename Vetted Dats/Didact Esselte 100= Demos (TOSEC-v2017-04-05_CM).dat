@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Didact Esselte 100 - Demos</name>
+		<description>Didact Esselte 100 - Demos (TOSEC-v2017-04-05)</description>
+		<category>TOSEC</category>
+		<version>2017-04-05</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<url>http://www.tosecdev.org</url>
+		<clrmamepro/>
+	</header>
+	<game name="Chartable (2016-09-01)(Edstrom)">
+		<description>Chartable (2016-09-01)(Edstrom)</description>
+		<rom name="Chartable (2016-09-01)(Edstrom).wav" size="1647608" crc="13c8c1eb" md5="d4dbbbbd0315a0c49fb4070cfe4182e6" sha1="6f71f1c6180424bfdaae246f66b6846f32a53120"/>
+	</game>
+	<game name="Olympic Rings (2016-08-25)(Edstrom)">
+		<description>Olympic Rings (2016-08-25)(Edstrom)</description>
+		<rom name="Olympic Rings (2016-08-25)(Edstrom).wav" size="4211858" crc="e2effcd8" md5="ccc18ff340f5752e2f1addcda6eb91c0" sha1="01ec644a3ea38d297d5886326eeb9d46d87fd1ef"/>
+	</game>
+</datafile>

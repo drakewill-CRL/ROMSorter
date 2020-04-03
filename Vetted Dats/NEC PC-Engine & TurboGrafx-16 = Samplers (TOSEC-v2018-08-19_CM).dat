@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>NEC PC-Engine &amp; TurboGrafx-16 - Samplers</name>
+		<description>NEC PC-Engine &amp; TurboGrafx-16 - Samplers (TOSEC-v2018-08-19)</description>
+		<category>TOSEC</category>
+		<version>2018-08-19</version>
+		<author>Maddog</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Bomber Man - Users Battle (1990)(Hudson)(JP)">
+		<description>Bomber Man - Users Battle (1990)(Hudson)(JP)</description>
+		<rom name="Bomber Man - Users Battle (1990)(Hudson)(JP).pce" size="262144" crc="1489fa51" md5="dccedf6d85ea5cf9c37c1c963b328735" sha1="96ba02050843cacb149859128a8f3313bff44358"/>
+	</game>
+	<game name="Bomber Man - Users Battle (1990)(Hudson)(JP)[h alt retry text www.gamesx.com]">
+		<description>Bomber Man - Users Battle (1990)(Hudson)(JP)[h alt retry text www.gamesx.com]</description>
+		<rom name="Bomber Man - Users Battle (1990)(Hudson)(JP)[h alt retry text www.gamesx.com].pce" size="262144" crc="fe35b54c" md5="2bd407cf428a28b90d005904c035623c" sha1="254d35bd326f3d95b433b3e658e13577356b6cd3"/>
+	</game>
+	<game name="Bomber Man - Users Battle (1990)(Hudson)(JP)[h2 alt retry text]">
+		<description>Bomber Man - Users Battle (1990)(Hudson)(JP)[h2 alt retry text]</description>
+		<rom name="Bomber Man - Users Battle (1990)(Hudson)(JP)[h2 alt retry text].pce" size="262144" crc="7d5e671e" md5="9ac0cfd6903fab14b027d8a4530a6e8d" sha1="bec0f5b44a988ba998389f668f28ebe53668d97d"/>
+	</game>
+	<game name="Bomber Man '93 - Special Version (1992)(Hudson)(JP)">
+		<description>Bomber Man '93 - Special Version (1992)(Hudson)(JP)</description>
+		<rom name="Bomber Man '93 - Special Version (1992)(Hudson)(JP).pce" size="524288" crc="02309aa0" md5="8930d24e64be677b898423a295b2bde0" sha1="79af6d5987267238cf8f729af79e25349cb0bf03"/>
+	</game>
+	<game name="Bomber Man '93 - Special Version (1992)(Hudson)(JP)[h www.gamesx.com]">
+		<description>Bomber Man '93 - Special Version (1992)(Hudson)(JP)[h www.gamesx.com]</description>
+		<rom name="Bomber Man '93 - Special Version (1992)(Hudson)(JP)[h www.gamesx.com].pce" size="524288" crc="815b48f2" md5="98d5eae8acba9c6b4764d6688db9229c" sha1="ed4282087459226be35001cc6b84e1828162e64a"/>
+	</game>
+	<game name="Final Soldier - Special Version (1991)(Hudson)(JP)">
+		<description>Final Soldier - Special Version (1991)(Hudson)(JP)</description>
+		<rom name="Final Soldier - Special Version (1991)(Hudson)(JP).pce" size="524288" crc="02a578c5" md5="838e1ae033f797bad4a122a593604a8f" sha1="ba15992964c84d4c5998f5622ae78ad843cda5f0"/>
+	</game>
+	<game name="Final Soldier - Special Version (1991)(Hudson)(JP)[b]">
+		<description>Final Soldier - Special Version (1991)(Hudson)(JP)[b]</description>
+		<rom name="Final Soldier - Special Version (1991)(Hudson)(JP)[b].pce" size="524288" crc="c8b6baba" md5="46e9d2ef0333444793874456a369b744" sha1="787cababb43cdc1fe6c5ba73a70da45c5e381483"/>
+	</game>
+</datafile>

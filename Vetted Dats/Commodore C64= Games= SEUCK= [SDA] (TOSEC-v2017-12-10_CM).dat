@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Games - SEUCK - [SDA]</name>
+		<description>Commodore C64 - Games - SEUCK - [SDA] (TOSEC-v2017-12-10)</description>
+		<category>TOSEC</category>
+		<version>2017-12-10</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Bowman (1989)(Mattson, Jon)">
+		<description>Bowman (1989)(Mattson, Jon)</description>
+		<rom name="Bowman (1989)(Mattson, Jon).sda" size="41728" crc="0360c189" md5="1570a213d5d5f5aaec4d1808e607b1ad" sha1="e4ef01b4258ccd78a9246c48d60e3459ef0a98f3"/>
+	</game>
+</datafile>

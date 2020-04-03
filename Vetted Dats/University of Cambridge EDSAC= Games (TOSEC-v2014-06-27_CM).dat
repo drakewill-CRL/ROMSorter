@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>University of Cambridge EDSAC - Games</name>
+		<description>University of Cambridge EDSAC - Games (TOSEC-v2014-06-27)</description>
+		<category>TOSEC</category>
+		<version>2014-06-27</version>
+		<author>TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Noughts and Crosses (1952)(Douglas, A. S.)">
+		<description>Noughts and Crosses (1952)(Douglas, A. S.)</description>
+		<rom name="Noughts and Crosses (1952)(Douglas, A. S.).txt" size="3341" crc="2a3991b0" md5="e861f405b476a0c567b589b4df69b44a" sha1="a34f85bd9caf47ae6bed97cb8cf6fdecba16f351"/>
+	</game>
+	<game name="Towers of Hanoi (2001-01)(Tebbutt, Daniel)">
+		<description>Towers of Hanoi (2001-01)(Tebbutt, Daniel)</description>
+		<rom name="Towers of Hanoi (2001-01)(Tebbutt, Daniel).txt" size="5925" crc="b31489b6" md5="4b818e3144d5eb83e2f29bd3a9526771" sha1="c557ad34d60e432eaf7c5a26032d5a779867847f"/>
+	</game>
+</datafile>

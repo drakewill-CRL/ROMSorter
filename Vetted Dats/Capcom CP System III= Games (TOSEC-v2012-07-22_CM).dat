@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Capcom CP System III - Games</name>
+		<description>Capcom CP System III - Games (TOSEC-v2012-07-22)</description>
+		<category>TOSEC-ISO</category>
+		<version>2012-07-22</version>
+		<author>TOSEC-ISO: Trurip</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="JoJo's Venture (1998)(Capcom)(US)[CAP-JJK-160]">
+		<description>JoJo's Venture (1998)(Capcom)(US)[CAP-JJK-160]</description>
+		<rom name="JoJo's Venture (1998)(Capcom)(US)[CAP-JJK-160].ccd" size="751" crc="a3c82588" md5="d2d62c8f7df7259d815ee56056bca0bf" sha1="cdc4ea8cb834400c5a5b394b2d751f4476bb2645"/>
+		<rom name="JoJo's Venture (1998)(Capcom)(US)[CAP-JJK-160].img" size="63240576" crc="615a12ff" md5="4c9f84eb23ed8983fb76dfe3545adb0b" sha1="d960c6d4a54916e9ecd1810f48bf454194f9070f"/>
+		<rom name="JoJo's Venture (1998)(Capcom)(US)[CAP-JJK-160].sub" size="2581248" crc="12be242f" md5="66336c42681aec8cbcf51c342cc0890b" sha1="1ea5c065ac31e039e87a2c192f6034bc6f7a6d13"/>
+	</game>
+	<game name="JoJo's Venture (1998)(Capcom)(JP-US)[JoJo's Bizarre Adventure][CAP-JJK-140]">
+		<description>JoJo's Venture (1998)(Capcom)(JP-US)[JoJo's Bizarre Adventure][CAP-JJK-140]</description>
+		<rom name="JoJo's Venture (1998)(Capcom)(JP-US)[JoJo's Bizarre Adventure][CAP-JJK-140].ccd" size="751" crc="a3c82588" md5="d2d62c8f7df7259d815ee56056bca0bf" sha1="cdc4ea8cb834400c5a5b394b2d751f4476bb2645"/>
+		<rom name="JoJo's Venture (1998)(Capcom)(JP-US)[JoJo's Bizarre Adventure][CAP-JJK-140].img" size="63240576" crc="beb952ae" md5="bc8d82848c59c68a776075100ac4e486" sha1="fbe80bcf3521259be6dbc6890780a419d87ccdbb"/>
+		<rom name="JoJo's Venture (1998)(Capcom)(JP-US)[JoJo's Bizarre Adventure][CAP-JJK-140].sub" size="2581248" crc="7f0e8636" md5="c3525d8e4d546b1d3cc2085c767fd041" sha1="4783f4bdaab0c72bd5084efc0a8f0a3bbb0184b7"/>
+	</game>
+	<game name="Street Fighter III - New Generation (1997)(Capcom)(US)[CAP-SF3-3]">
+		<description>Street Fighter III - New Generation (1997)(Capcom)(US)[CAP-SF3-3]</description>
+		<rom name="Street Fighter III - New Generation (1997)(Capcom)(US)[CAP-SF3-3].ccd" size="751" crc="08d8c882" md5="36447a4d86ce63cd65845d67c80e6fec" sha1="4f9f9a9ff07dcc6e5c0fa44c3c6ed26a44d26482"/>
+		<rom name="Street Fighter III - New Generation (1997)(Capcom)(US)[CAP-SF3-3].img" size="53606784" crc="6e72edcc" md5="510c9aea53bfffb903c02de6e1a58b97" sha1="dc46e22e9f04d1a5940dfdd81d011a2d7e5aa571"/>
+		<rom name="Street Fighter III - New Generation (1997)(Capcom)(US)[CAP-SF3-3].sub" size="2188032" crc="5ba99dca" md5="af70e4323a60583753ff66b223f5f9cf" sha1="3f9f7c5568758d34ae83bccd3d49364104fdbac6"/>
+	</game>
+	<game name="Street Fighter III 2nd Impact - Giant Attack (1997)(Capcom)(US)[CAP-3GA-1]">
+		<description>Street Fighter III 2nd Impact - Giant Attack (1997)(Capcom)(US)[CAP-3GA-1]</description>
+		<rom name="Street Fighter III 2nd Impact - Giant Attack (1997)(Capcom)(US)[CAP-3GA-1].ccd" size="752" crc="64237f06" md5="b23b838761636c383ef9b15ff31598ba" sha1="d3f7e3f51d91fcd729452d22c38fad148430ae11"/>
+		<rom name="Street Fighter III 2nd Impact - Giant Attack (1997)(Capcom)(US)[CAP-3GA-1].img" size="77691264" crc="1c95fdd3" md5="3d44d8f3f51e7168bf36b5841dc1487e" sha1="f5b13ef2eacabf4aea9beb8244b75e9e01868dbc"/>
+		<rom name="Street Fighter III 2nd Impact - Giant Attack (1997)(Capcom)(US)[CAP-3GA-1].sub" size="3171072" crc="da4dc3d3" md5="46a1d9ae3f53a125b3d6d903fafb782c" sha1="124fec5e22bea18c472162f0daabf902f0315c6a"/>
+	</game>
+	<game name="Street Fighter III 3rd Strike - Fight for the Future (1999)(Capcom)(US)[CAP-33S-1]">
+		<description>Street Fighter III 3rd Strike - Fight for the Future (1999)(Capcom)(US)[CAP-33S-1]</description>
+		<rom name="Street Fighter III 3rd Strike - Fight for the Future (1999)(Capcom)(US)[CAP-33S-1].ccd" size="752" crc="1a6f2bee" md5="d16546cf5ec74b153a54f622c57d8dcb" sha1="612989a0d0049889a3431eda08f772f0537a716a"/>
+		<rom name="Street Fighter III 3rd Strike - Fight for the Future (1999)(Capcom)(US)[CAP-33S-1].img" size="96958848" crc="289f7a46" md5="ef1e36da0afeeb9a715b994504e8a5c2" sha1="18ccd20a7d8262fec410af7153268011ca899d8b"/>
+		<rom name="Street Fighter III 3rd Strike - Fight for the Future (1999)(Capcom)(US)[CAP-33S-1].sub" size="3957504" crc="c92859d3" md5="883a3253152a9a8a8e75091d70039396" sha1="ff749288b29a47dc4f93a6144c2559c4b7480c63"/>
+	</game>
+</datafile>

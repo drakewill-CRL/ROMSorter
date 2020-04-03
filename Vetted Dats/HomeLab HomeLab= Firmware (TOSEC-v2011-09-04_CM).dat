@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>HomeLab HomeLab - Firmware</name>
+		<description>HomeLab HomeLab - Firmware (TOSEC-v2011-09-04)</description>
+		<category>TOSEC</category>
+		<version>2011-09-04</version>
+		<author>Gruby</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Aircomp-16 EPROMs (1984)(BosCoop)">
+		<description>Aircomp-16 EPROMs (1984)(BosCoop)</description>
+		<rom name="air.chr" size="2048" crc="2e669d40" md5="2ca08eaccd8b3e16f43cc26488df3ef1" sha1="639dd82ed29985dc69830aca3b904b6acc8fe54a"/>
+		<rom name="air1_2.rom" size="4096" crc="b7a06649" md5="944b392c5061f4d9f5c9aeb56fdbfe6a" sha1="e5e1dd96841950071ed16276206c998da19203c8"/>
+		<rom name="air3_4.rom" size="4096" crc="3b827c19" md5="662bf787d9bc4d7ce3964c8fa75e1e3d" sha1="eb8fbf3a2f7d6eb25bddeadfc9a6350752bd0698"/>
+	</game>
+	<game name="Characterset - CHAR1 (2007)(Balogh Tibor)">
+		<description>Characterset - CHAR1 (2007)(Balogh Tibor)</description>
+		<rom name="char1.chr" size="2048" crc="5da61a0a" md5="a5805d35fc579701f7a1027d7ad82cae" sha1="bf4b1ab49dd3fcdedadb58abad59f48e3b895121"/>
+	</game>
+	<game name="Characterset - CHAR2 (2005)(Solti Imre)">
+		<description>Characterset - CHAR2 (2005)(Solti Imre)</description>
+		<rom name="char2.chr" size="2048" crc="eab28b4d" md5="78c576aebdbca3c5b2bbe0042ac6281c" sha1="4d1596019013d88b1732ed961cda431fe69e811e"/>
+	</game>
+	<game name="Characterset - CHAR3 (2006)(Solti Imre)">
+		<description>Characterset - CHAR3 (2006)(Solti Imre)</description>
+		<rom name="char3.chr" size="2048" crc="60ed093b" md5="f7368a9a0eded7b45a5940571fff7432" sha1="9886e7e6f38f52e4af15f64697c65bef37f54d16"/>
+	</game>
+	<game name="Characterset - CHAR4 (2007)(Solti Imre)">
+		<description>Characterset - CHAR4 (2007)(Solti Imre)</description>
+		<rom name="char4.chr" size="2048" crc="66f14696" md5="a0a85c343271dc52107f30fbcffedbf8" sha1="bf83350c192351589bb6b3b08db626a030aeebc8"/>
+	</game>
+	<game name="HomeLab Basic rev.3.1 (1983)(Lukacs Endre)[a2][merged]">
+		<description>HomeLab Basic rev.3.1 (1983)(Lukacs Endre)[a2][merged]</description>
+		<rom name="hl3a2.rom" size="16384" crc="cdf49caf" md5="365ef1bc0b61f3756af4321117ce23b9" sha1="73e7897876c53478bdafabb75fedfaf6a057ace9"/>
+	</game>
+	<game name="HomeLab Basic rev.3.1 (1983)(Lukacs Endre)[a][merged]">
+		<description>HomeLab Basic rev.3.1 (1983)(Lukacs Endre)[a][merged]</description>
+		<rom name="hl3a.rom" size="16384" crc="86240ff4" md5="176d5413dd7d81bb9f8fdf468f45b8f5" sha1="4e81eecf81d48d2362f739b3c76a3f523789f187"/>
+	</game>
+	<game name="HomeLab Basic rev.3.1 (1983)(Lukacs Endre)[merged]">
+		<description>HomeLab Basic rev.3.1 (1983)(Lukacs Endre)[merged]</description>
+		<rom name="hl3.rom" size="16384" crc="2e7e94c6" md5="9aae14e01c0c8b760a3ea9b1aeea93ca" sha1="d34eec56e6a52f32c1335ff8d7cd897bb9e57ab7"/>
+	</game>
+	<game name="HomeLab Basic rev.4.1 (198x)(Lukacs Endre)[merged]">
+		<description>HomeLab Basic rev.4.1 (198x)(Lukacs Endre)[merged]</description>
+		<rom name="hl4.rom" size="16384" crc="b68d15a6" md5="966e7f4277187ca745dd550ee71462e2" sha1="f5ddcc46e4faa39d3b5e879ccdd3bf9e2ea3b83f"/>
+	</game>
+	<game name="HomeLab-2 EPROMs (1982)(Lukacs Endre)">
+		<description>HomeLab-2 EPROMs (1982)(Lukacs Endre)</description>
+		<rom name="hl2.chr" size="2048" crc="2e669d40" md5="2ca08eaccd8b3e16f43cc26488df3ef1" sha1="639dd82ed29985dc69830aca3b904b6acc8fe54a"/>
+		<rom name="hl2_1.rom" size="2048" crc="205365f7" md5="30bf48ad94c51e6e27aa95f304c92dc6" sha1="da93b65befd83513dc762663b234227ba804124d"/>
+		<rom name="hl2_2.rom" size="2048" crc="696af3c1" md5="33611c2068c164532cb7f3d776e357e3" sha1="b53bc6ae2b75975618fc90e7181fa5d21409fce1"/>
+		<rom name="hl2_3.rom" size="2048" crc="69e57e8c" md5="6713d1e05cf3c6d6883b796c4f7ad476" sha1="e98510abb715dbf513e1b29fb6b09ab54e9483b7"/>
+		<rom name="hl2_4.rom" size="2048" crc="97cbbe74" md5="b704e67dd385378521d8b80e45302a95" sha1="34f0bad41302b059322018abc3d1c2336ecfbea8"/>
+	</game>
+	<game name="HomeLab-2 EPROMs (1982)(Lukacs Endre)[a]">
+		<description>HomeLab-2 EPROMs (1982)(Lukacs Endre)[a]</description>
+		<rom name="hl2_1.rom" size="2048" crc="205365f7" md5="30bf48ad94c51e6e27aa95f304c92dc6" sha1="da93b65befd83513dc762663b234227ba804124d"/>
+		<rom name="hl2_2.rom" size="2048" crc="696af3c1" md5="33611c2068c164532cb7f3d776e357e3" sha1="b53bc6ae2b75975618fc90e7181fa5d21409fce1"/>
+		<rom name="hl2_3.rom" size="2048" crc="69e57e8c" md5="6713d1e05cf3c6d6883b796c4f7ad476" sha1="e98510abb715dbf513e1b29fb6b09ab54e9483b7"/>
+		<rom name="hl2_4.rom" size="2048" crc="97cbbe74" md5="b704e67dd385378521d8b80e45302a95" sha1="34f0bad41302b059322018abc3d1c2336ecfbea8"/>
+		<rom name="hl2_m.rom" size="2048" crc="10040235" md5="d7343a4924ecc5b55c7416687c60449f" sha1="e121dfb97cc8ea99193a9396a9f7af08585e0ff0"/>
+		<rom name="hl2a.chr" size="4096" crc="6a5c915a" md5="5d9d9012b889d2ca5545bf33fa4484cc" sha1="7e4e966358556c6aabae992f4c2b292b6aab59bd"/>
+	</game>
+	<game name="HomeLab-3 EPROMs (1983)(Lukacs Endre)">
+		<description>HomeLab-3 EPROMs (1983)(Lukacs Endre)</description>
+		<rom name="hl3.chr" size="2048" crc="f58ee39b" md5="554565720a8498b3e24d3edd6321f778" sha1="49399c42d60a11b218a225856da86a9f3975a78a"/>
+		<rom name="hl3_1.rom" size="4096" crc="6b90a8ea" md5="87736f7606f363658af369114f79e4eb" sha1="8ac40ca889b8c26cdf74ca309fbafd70dcfdfbec"/>
+		<rom name="hl3_2.rom" size="4096" crc="bcac3c24" md5="c2ee4ad0ef0bb263903f318bbe447272" sha1="aff371d17f61cb60c464998e092f04d5d85c4d52"/>
+		<rom name="hl3_3.rom" size="4096" crc="ab1b4ab0" md5="bf075214976e1ec2bd5cc5422f92aea8" sha1="ad74c7793f5dc22061a88ef31d3407267ad08719"/>
+		<rom name="hl3_4.rom" size="4096" crc="bf67eff9" md5="2f9acaa746977e825bb3d91f8c83e01a" sha1="2ef5d46f359616e7d0e5a124df528de44f0e850b"/>
+	</game>
+	<game name="HomeLab-3 EPROMs (1983)(Lukacs Endre)[a]">
+		<description>HomeLab-3 EPROMs (1983)(Lukacs Endre)[a]</description>
+		<rom name="hl3.chr" size="2048" crc="f58ee39b" md5="554565720a8498b3e24d3edd6321f778" sha1="49399c42d60a11b218a225856da86a9f3975a78a"/>
+		<rom name="hl3_1a.rom" size="4096" crc="b4bee45e" md5="c266ed8843101b450bf83c8f106e8157" sha1="2ec359059b79556eee232ffeb7bf090cc8b5dbda"/>
+		<rom name="hl3_2.rom" size="4096" crc="bcac3c24" md5="c2ee4ad0ef0bb263903f318bbe447272" sha1="aff371d17f61cb60c464998e092f04d5d85c4d52"/>
+		<rom name="hl3_3a.rom" size="4096" crc="07b41fbc" md5="8d1e293fd301b8b36957a4bbdc921a00" sha1="c05a74ea1b6baffaf7be5802f8137ead4722ef24"/>
+		<rom name="hl3_4.rom" size="4096" crc="bf67eff9" md5="2f9acaa746977e825bb3d91f8c83e01a" sha1="2ef5d46f359616e7d0e5a124df528de44f0e850b"/>
+	</game>
+	<game name="HomeLab-4 EPROMs (198x)(Lukacs Endre)">
+		<description>HomeLab-4 EPROMs (198x)(Lukacs Endre)</description>
+		<rom name="hl4.chr" size="2048" crc="f58ee39b" md5="554565720a8498b3e24d3edd6321f778" sha1="49399c42d60a11b218a225856da86a9f3975a78a"/>
+		<rom name="hl4_1.rom" size="4096" crc="a549b2d4" md5="3c32307e2e4f38296f2f14c4367d49ae" sha1="90fc5595da8431616aee56eb5143b9f04281e798"/>
+		<rom name="hl4_2.rom" size="4096" crc="151d33e8" md5="38881e45910ef7e63e3342d9285a1869" sha1="d32004bc1553f802b9d3266709552f7d5315fe44"/>
+		<rom name="hl4_3.rom" size="4096" crc="39571ab1" md5="4481f3b00ee4b2d631e3e9cb5b8a26d3" sha1="8470cff2e3442101e6a0bc655358b3a6fc1ef944"/>
+		<rom name="hl4_4.rom" size="4096" crc="f4b77ca2" md5="bf1c2cd183495ee63eca2f3ae25a279b" sha1="ffbdb3c1819c7357e2a0fc6317c111a8a7ecfcd5"/>
+	</game>
+</datafile>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>DEC DECPx AXP 150 - System</name>
+		<description>DEC DECPx AXP 150 - System (TOSEC-v2018-07-01)</description>
+		<category>TOSEC</category>
+		<version>2018-07-01</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="DECpc AXP Firmware Upgrade v1.3T (1994-06-10)(Digital Equipment Corporation)[b not original media]">
+		<description>DECpc AXP Firmware Upgrade v1.3T (1994-06-10)(Digital Equipment Corporation)[b not original media]</description>
+		<rom name="DECpc AXP Firmware Upgrade v1.3T (1994-06-10)(Digital Equipment Corporation)[b not original media].img" size="1474560" crc="f8925d19" md5="9c98cdaa21ce97f1499cf5708359c8f3" sha1="4103985adee22a8f09d261dfe62863c9150e46bd"/>
+	</game>
+	<game name="DECpc AXP No. 9 GXE Video Driver (1994)(Digital Equipment Corporation)[b not original media]">
+		<description>DECpc AXP No. 9 GXE Video Driver (1994)(Digital Equipment Corporation)[b not original media]</description>
+		<rom name="DECpc AXP No. 9 GXE Video Driver (1994)(Digital Equipment Corporation)[b not original media].img" size="1474560" crc="479409e4" md5="9186776bbc2651f00dd7221b153e4bca" sha1="00de0249992a3218aea38def4d40ee733428b2ae"/>
+	</game>
+</datafile>

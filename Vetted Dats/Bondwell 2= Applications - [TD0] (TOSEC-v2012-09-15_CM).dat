@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Bondwell 2 - Applications - [TD0]</name>
+		<description>Bondwell 2 - Applications - [TD0] (TOSEC-v2012-09-15)</description>
+		<category>TOSEC</category>
+		<version>2012-09-15</version>
+		<author>Cid - Grendel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="CalcStar v1.45 (1981)(MicroPro)">
+		<description>CalcStar v1.45 (1981)(MicroPro)</description>
+		<rom name="CalcStar v1.45 (1981)(MicroPro).td0" size="117030" crc="847dddff" md5="1fa9acebc84951c5bf88a2b81f9d1029" sha1="5f9423a9193534b4a18ab984c1b6a24869e2c4be"/>
+	</game>
+	<game name="DataStar v1.41 (1980)(MicroPro)">
+		<description>DataStar v1.41 (1980)(MicroPro)</description>
+		<rom name="DataStar v1.41 (1980)(MicroPro).td0" size="100362" crc="dbe82d66" md5="f8d80f3332662ddc23b2fc434b84ee14" sha1="378f7cfc6ae1d87fdd750da17b1eeae1af9e9c10"/>
+	</game>
+	<game name="ReportStar v1.02 (1982)(MicroPro)">
+		<description>ReportStar v1.02 (1982)(MicroPro)</description>
+		<rom name="ReportStar v1.02 (1982)(MicroPro).td0" size="203618" crc="e5339c0a" md5="674b0587443cdf8cd387c853d33459a9" sha1="9657aada7c781a748ab9c3b93cda339376d646de"/>
+	</game>
+	<game name="Scheduler Plus (198x)(Bondwell)">
+		<description>Scheduler Plus (198x)(Bondwell)</description>
+		<rom name="Scheduler Plus (198x)(Bondwell).td0" size="204371" crc="17d8a9e7" md5="c1ea6f7713de064ebb34057330903291" sha1="eaac5d5807a4da7906192ec98e65e9f6b1cb3c9e"/>
+	</game>
+	<game name="WordStar v3.30 (1979)(MicroPro)(Disk 1 of 2)">
+		<description>WordStar v3.30 (1979)(MicroPro)(Disk 1 of 2)</description>
+		<rom name="WordStar v3.30 (1979)(MicroPro)(Disk 1 of 2).td0" size="218239" crc="07208653" md5="d3f811b618b01b5d8db49667d27ec8c7" sha1="cba56ef04a08d2ccd0879238175a9f0674792a7c"/>
+	</game>
+	<game name="WordStar v3.30 (1979)(MicroPro)(Disk 2 of 2)">
+		<description>WordStar v3.30 (1979)(MicroPro)(Disk 2 of 2)</description>
+		<rom name="WordStar v3.30 (1979)(MicroPro)(Disk 2 of 2).td0" size="206255" crc="054b577b" md5="3afe182773c35cf001f46f4d94efade3" sha1="f458acfe23c609276ad096fe7f03b7350d603010"/>
+	</game>
+</datafile>

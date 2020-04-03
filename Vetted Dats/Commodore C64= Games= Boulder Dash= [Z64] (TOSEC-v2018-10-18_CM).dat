@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Games - Boulder Dash - [Z64]</name>
+		<description>Commodore C64 - Games - Boulder Dash - [Z64] (TOSEC-v2018-10-18)</description>
+		<category>TOSEC</category>
+		<version>2018-10-18</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Boulder Dash 50 (2001)(Liepa, Peter &amp; Spaans, Ruben)">
+		<description>Boulder Dash 50 (2001)(Liepa, Peter &amp; Spaans, Ruben)</description>
+		<rom name="1!Boulder Dash 50 (2001)(Liepa, Peter &amp; Spaans, Ruben).z64" size="23702" crc="c1e94a70" md5="1352202cf27e350136891e0f36c71255" sha1="83b227779bd9fd85ddf5ed5bce64a2b0a47ca750"/>
+		<rom name="2!Boulder Dash 50 (2001)(Liepa, Peter &amp; Spaans, Ruben).z64" size="13341" crc="0cf7eb51" md5="3e88d07668760fb6708817cf93f2848e" sha1="9a89996a4f1d2de2b820c41f53da0220769fcbac"/>
+		<rom name="3!Boulder Dash 50 (2001)(Liepa, Peter &amp; Spaans, Ruben).z64" size="29147" crc="96b68788" md5="916f8d3ba85503fd32fc853c9035fc34" sha1="6c57ced5d20b719dcf0935fff2b3993309df7016"/>
+		<rom name="4!Boulder Dash 50 (2001)(Liepa, Peter &amp; Spaans, Ruben).z64" size="1402" crc="4aa444c9" md5="59054bde2f6f1a63badc78285627d0e8" sha1="1ec3ac750faa4b7894b17a86125539fe077e8f25"/>
+	</game>
+	<game name="Final Boulder, The (1987)(Liepa, Peter &amp; No One)">
+		<description>Final Boulder, The (1987)(Liepa, Peter &amp; No One)</description>
+		<rom name="1!Final Boulder, The (1987)(Liepa, Peter &amp; No One).z64" size="36852" crc="e97effba" md5="ad058a2a7b56041e41bc7bf87242419b" sha1="a0818c7fe5fc7378336976e208f503d525dc7525"/>
+		<rom name="2!Final Boulder, The (1987)(Liepa, Peter &amp; No One).z64" size="40810" crc="c558bf4a" md5="89f47f515ad3445ae02661419a084ab4" sha1="60ce85adc662c178873fcec735050aca9b6a15eb"/>
+		<rom name="3!Final Boulder, The (1987)(Liepa, Peter &amp; No One).z64" size="38711" crc="a1cc3891" md5="cedcfd1ffc98b6e11cacedb8a6f5b0f0" sha1="4679b555478f6455017ffc64a5ef3303667f9ae8"/>
+		<rom name="4!Final Boulder, The (1987)(Liepa, Peter &amp; No One).z64" size="10547" crc="b06dda36" md5="42a65c8af9c8d51e63b23383132e4cc6" sha1="85f435f639389aad21ddbda26d68b5167b1dcf4d"/>
+	</game>
+</datafile>

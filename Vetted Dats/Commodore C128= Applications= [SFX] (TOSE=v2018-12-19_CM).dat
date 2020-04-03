@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C128 - Applications - [SFX]</name>
+		<description>Commodore C128 - Applications - [SFX] (TOSEC-v2018-12-19)</description>
+		<category>TOSEC</category>
+		<version>2018-12-19</version>
+		<author>Duncan Twain - DesertWolf - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="C64-Emulator V2 (2000-12-31)(-)">
+		<description>C64-Emulator V2 (2000-12-31)(-)</description>
+		<rom name="C64-Emulator V2 (2000-12-31)(-).sfx" size="20776" crc="c6c4b1cf" md5="6a177c36dfe3acbe57f659502d39fb32" sha1="b40052ca06555e71b88a4f5e49de0509e13482fc"/>
+	</game>
+	<game name="D64-Copy V1.0 (1997)(Crest)">
+		<description>D64-Copy V1.0 (1997)(Crest)</description>
+		<rom name="D64-Copy V1.0 (1997)(Crest).sfx" size="8601" crc="9d2a004a" md5="1234ee66b4b5da2635f0d18da9cd38b4" sha1="939dd7e31fcd7531eaf7f73803e3fda2f45f9c1d"/>
+	</game>
+	<game name="Little Red Reader 128 v2.5 (1996-06-03)(Craig Bruce)[40-80 column]">
+		<description>Little Red Reader 128 v2.5 (1996-06-03)(Craig Bruce)[40-80 column]</description>
+		<rom name="Little Red Reader 128 v2.5 (1996-06-03)(Craig Bruce)[40-80 column].sfx" size="32548" crc="18483c17" md5="57d25d5718ab19c259b7d5316cc555e1" sha1="df943d4f3758ab733d032c7937702ed5fa20a30a"/>
+	</game>
+	<game name="Little Red Reader 1571-81 (19xx)(Bruce, Craig)[80 column]">
+		<description>Little Red Reader 1571-81 (19xx)(Bruce, Craig)[80 column]</description>
+		<rom name="Little Red Reader 1571-81 (19xx)(Bruce, Craig)[80 column].sfx" size="38326" crc="c9f3950c" md5="ae91adfab0b2d6403b914526303fe0d0" sha1="452a0b56c243fa22bff5d3a439a844b2a9a64f53"/>
+	</game>
+	<game name="Sound Studio 128 V3.8 (19xx)(Digital Audio Concepts)[80 column]">
+		<description>Sound Studio 128 V3.8 (19xx)(Digital Audio Concepts)[80 column]</description>
+		<rom name="Sound Studio 128 V3.8 (19xx)(Digital Audio Concepts)[80 column].sfx" size="37632" crc="df7239b1" md5="4fd944914a95c9c07e49fa3655b82773" sha1="f5a740855928de27257997944966bef5109282b3"/>
+	</game>
+	<game name="vt100 128 v2.1 (1988)(Microtechnic Solutions)">
+		<description>vt100 128 v2.1 (1988)(Microtechnic Solutions)</description>
+		<rom name="vt100 128 v2.1 (1988)(Microtechnic Solutions).sfx" size="20528" crc="cba1b25f" md5="b5d5694665539afb47f3b3df35b75e14" sha1="18b9283c4fc07ff5ca360ae79207754b15728960"/>
+	</game>
+	<game name="ZED-128 v0.77 (1993)(Bruce, Craig)[80 column]">
+		<description>ZED-128 v0.77 (1993)(Bruce, Craig)[80 column]</description>
+		<rom name="ZED-128 v0.77 (1993)(Bruce, Craig)[80 column].sfx" size="22000" crc="9904dcc4" md5="9984c9b88e82e48f9ff5fc2298b0237d" sha1="f54eb879cae12d93698395fddd1f94e213d40985"/>
+	</game>
+	<game name="ZED-128 v0.77 (1993)(Bruce, Craig)[a][80 column]">
+		<description>ZED-128 v0.77 (1993)(Bruce, Craig)[a][80 column]</description>
+		<rom name="ZED-128 v0.77 (1993)(Bruce, Craig)[a][80 column].sfx" size="22317" crc="a0c6d6ac" md5="bfe94ded17134a6e7777a524d70f215c" sha1="66902499c3dc6a6d429a291be676d23d1a1e52fc"/>
+	</game>
+</datafile>

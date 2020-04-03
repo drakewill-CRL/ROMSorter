@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Philips CD-i - Coverdiscs</name>
+		<description>Philips CD-i - Coverdiscs (TOSEC-v2012-07-13)</description>
+		<category>TOSEC-ISO</category>
+		<version>2012-07-13</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="CD-Online - Issue 01 - Internet on TV (1995)(CD-Online)(EU)[DVC]">
+		<description>CD-Online - Issue 01 - Internet on TV (1995)(CD-Online)(EU)[DVC]</description>
+		<rom name="CD-Online - Issue 01 - Internet on TV (1995)(CD-Online)(EU)[DVC].cue" size="153" crc="59816b23" md5="5bcdc9e887e8786c15c0184aa9c65279" sha1="32b899822267171ba46060409737c2521eec6383"/>
+		<rom name="CD-Online - Issue 01 - Internet on TV (1995)(CD-Online)(EU)[DVC].iso" size="770167104" crc="1d881af1" md5="1c5cccfccdf2e9b5ea5511b746958d37" sha1="60cb13d46e5b62b11a5527bbb1414f1f9ca8cabe"/>
+	</game>
+	<game name="CD-Online - Issue 02 - The Internet Game Issue (1996)(CD-Online)(EU)[DVC]">
+		<description>CD-Online - Issue 02 - The Internet Game Issue (1996)(CD-Online)(EU)[DVC]</description>
+		<rom name="CD-Online - Issue 02 - The Internet Game Issue (1996)(CD-Online)(EU)[DVC].cue" size="162" crc="b92882b2" md5="244438f2d03a9b472d56999fa927b6d1" sha1="2528cc7cb56f358cd83c821e71d8834b9794d363"/>
+		<rom name="CD-Online - Issue 02 - The Internet Game Issue (1996)(CD-Online)(EU)[DVC].iso" size="700670208" crc="1c678370" md5="bae8292855e491914c1e0e3752014a63" sha1="6eded1b1e1f61a43dcc7dde68e5243bc61995197"/>
+	</game>
+	<game name="CD-Online Disc 97-10 (1997)(CD-Online)(EU)(M3)[DVC]">
+		<description>CD-Online Disc 97-10 (1997)(CD-Online)(EU)(M3)[DVC]</description>
+		<rom name="CD-Online Disc 97-10 (1997)(CD-Online)(EU)(M3)[DVC].cue" size="140" crc="41bdaeda" md5="82399da73c1ce69e5b9827007af466ef" sha1="20e6516efe5c2b8a0303183a03781205fc5f06fa"/>
+		<rom name="CD-Online Disc 97-10 (1997)(CD-Online)(EU)(M3)[DVC].iso" size="653213904" crc="c5b6ef47" md5="183794664159bb4864f668766308594f" sha1="b13e5621297c86fdb7f2f90fc250386af4ca0da7"/>
+	</game>
+</datafile>

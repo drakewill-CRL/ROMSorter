@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega Game Gear - Multimedia</name>
+		<description>Sega Game Gear - Multimedia (TOSEC-v2011-08-13)</description>
+		<category>TOSEC</category>
+		<version>2011-08-13</version>
+		<author>Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="GG Portrait - Pai Chen (1996)(Sega)(JP)">
+		<description>GG Portrait - Pai Chen (1996)(Sega)(JP)</description>
+		<rom name="GG Portrait - Pai Chen (1996)(Sega)(JP).bin" size="524288" crc="695cc120" md5="3dbd51ce27c7eeee98aaeccdb96affb6" sha1="cf752897523814951401994c95de299cd42fdb50"/>
+	</game>
+	<game name="GG Portrait - Yuuki Akira (1996)(Sega)(JP)">
+		<description>GG Portrait - Yuuki Akira (1996)(Sega)(JP)</description>
+		<rom name="GG Portrait - Yuuki Akira (1996)(Sega)(JP).bin" size="524288" crc="51159f8f" md5="82d3c23cf9617174aa47bed8e76438df" sha1="4cbb453663665a06e986a6ab015a041463b48373"/>
+	</game>
+</datafile>

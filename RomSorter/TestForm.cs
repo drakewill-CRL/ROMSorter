@@ -86,8 +86,17 @@ namespace RomSorter
         private void button3_Click(object sender, EventArgs e)
         {
             var results = Database.CountGamesByConsole();
-            string display = string.Join(Environment.NewLine, results.Select(r => r.Item1.ToString() + ":" + r.Item2.ToString()));
-            MessageBox.Show(display);
+
+            StringBuilder sb = new StringBuilder();
+            sb.Append("<html><head></head><body><ul>");
+
+            sb.Append(string.Join(Environment.NewLine, results.Select(r => "<li>" + r.Item1.ToString() + " : " + r.Item2.ToString() + "</li>")));
+
+            sb.Append("<ul></body></html>");
+
+            System.IO.File.WriteAllText("CountByConsole.html", sb.ToString());
+            System.Diagnostics.Process.Start("file://" + Environment.CurrentDirectory + "\\CountByConsole.html");
+
         }
 
         private void button4_Click(object sender, EventArgs e)
@@ -192,7 +201,7 @@ namespace RomSorter
             //console dats fast
             if (ofdDats.ShowDialog() == DialogResult.OK)
             {
-                RomDatabase.DATImporter.LoadAllDatFiles(System.IO.Path.GetDirectoryName(ofdDats.FileName));
+                RomDatabase.DATImporter.LoadAllDats(System.IO.Path.GetDirectoryName(ofdDats.FileName));
                 MessageBox.Show("Import Completed.");
             }
         }
@@ -315,6 +324,17 @@ namespace RomSorter
             if (ofdDats.ShowDialog() == DialogResult.OK)
             {
                 await Task.Factory.StartNew(() => RomDatabase.DATImporter.LoadAllDiscDatFilesIntegrity(System.IO.Path.GetDirectoryName(ofdDats.FileName), progress));
+                MessageBox.Show("Import Completed.");
+            }
+        }
+
+        private async void button23_Click(object sender, EventArgs e)
+        {
+            //Load all autodetect
+            Progress<string> progress = new Progress<string>(s => lblTestStatus.Text = s);
+            if (ofdDats.ShowDialog() == DialogResult.OK)
+            {
+                await Task.Factory.StartNew(() => RomDatabase.DATImporter.LoadAllDats(System.IO.Path.GetDirectoryName(ofdDats.FileName), progress, true));
                 MessageBox.Show("Import Completed.");
             }
         }

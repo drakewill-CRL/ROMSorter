@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Acorn BBC - Demos - [SSD]</name>
+		<description>Acorn BBC - Demos - [SSD] (TOSEC-v2013-10-22)</description>
+		<category>TOSEC</category>
+		<version>2013-10-22</version>
+		<author>CRSV - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Dreamscape, The (1994)(DSPD)[h 8-Bit]">
+		<description>Dreamscape, The (1994)(DSPD)[h 8-Bit]</description>
+		<rom name="Dreamscape, The (1994)(DSPD)[h 8-Bit].ssd" size="204800" crc="f9788ede" md5="90d8906ff9896198f1449392e091b45a" sha1="07029fd240d98db2aabdefb98770332ded71e445"/>
+	</game>
+	<game name="Music Demo (19xx)(-)[a][DEMO]">
+		<description>Music Demo (19xx)(-)[a][DEMO]</description>
+		<rom name="Music Demo (19xx)(-)[a][DEMO].ssd" size="36608" crc="8ef4d9d6" md5="d4947f7cdb193df119ba76a004620f37" sha1="451d329b4a2837da06d3ecba7cbcaedcc8a89ab9"/>
+	</game>
+	<game name="Music Demo (19xx)(-)[DEMO]">
+		<description>Music Demo (19xx)(-)[DEMO]</description>
+		<rom name="Music Demo (19xx)(-)[DEMO].ssd" size="36608" crc="74657735" md5="eb05c9d62aa3df9cd0a6c75a206a0d75" sha1="bba3adc66fe17bde637a537534156a84e689a447"/>
+	</game>
+</datafile>

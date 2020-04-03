@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Atari Jaguar CD - Samplers</name>
+		<description>Atari Jaguar CD - Samplers (TOSEC-v2012-07-17)</description>
+		<category>TOSEC-ISO</category>
+		<version>2012-07-17</version>
+		<author>TOSEC-ISO: Trurip</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Myst (demo) (1995)(Atari)(US)[700141-002][Bundled with Atari Jaguar CD]">
+		<description>Myst (demo) (1995)(Atari)(US)[700141-002][Bundled with Atari Jaguar CD]</description>
+		<rom name="Myst (demo) (1995)(Atari)(US)[700141-002][Bundled with Atari Jaguar CD].ccd" size="2044" crc="76fb7776" md5="7ffb0e12a35246f29439d20f1536c396" sha1="cc8b9c4df5c7d5f26d06a9412b4ad31cf4900d03"/>
+		<rom name="Myst (demo) (1995)(Atari)(US)[700141-002][Bundled with Atari Jaguar CD].img" size="81555600" crc="c7b4c5c5" md5="10c4b44029d9b474c728e67d084492f6" sha1="3a3bcfbe4f4f9a55c92ed14b8acc07e31588c787"/>
+		<rom name="Myst (demo) (1995)(Atari)(US)[700141-002][Bundled with Atari Jaguar CD].sub" size="3328800" crc="64d746e0" md5="4d2369febfd71fd0076228898ac84ef3" sha1="6071ffa07bc24bc19edb042c2c475c1b715934b9"/>
+	</game>
+</datafile>

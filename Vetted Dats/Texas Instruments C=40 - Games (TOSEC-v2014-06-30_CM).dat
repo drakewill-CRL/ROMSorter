@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Texas Instruments CC-40 - Games</name>
+		<description>Texas Instruments CC-40 - Games (TOSEC-v2014-06-30)</description>
+		<category>TOSEC</category>
+		<version>2014-06-30</version>
+		<author>Diaboł</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Blackjack (2001)(Maalouli, Walid)">
+		<description>Blackjack (2001)(Maalouli, Walid)</description>
+		<rom name="Blackjak.pgm" size="3916" crc="83f3ceb2" md5="279cdcc162d91cba7609c20fb9fd92a1" sha1="f33714333e1d21d90a4331b8c728cae3c9b4b1c0"/>
+	</game>
+</datafile>

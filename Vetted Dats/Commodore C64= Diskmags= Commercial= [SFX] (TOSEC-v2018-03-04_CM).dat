@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Diskmags - Commercial - [SFX]</name>
+		<description>Commodore C64 - Diskmags - Commercial - [SFX] (TOSEC-v2018-03-04)</description>
+		<category>TOSEC</category>
+		<version>2018-03-04</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Commodore Disk User Catalogue (19xx)(-)">
+		<description>Commodore Disk User Catalogue (19xx)(-)</description>
+		<rom name="Commodore Disk User Catalogue (19xx)(-).sfx" size="45826" crc="a4a74b8c" md5="ecb0b8a469841e7d52aa073b19a6471c" sha1="3f65af1af00a6684e80f8114ba786e4726bffe7c"/>
+	</game>
+	<game name="Geomag #08 (19xx)(-)(Side B)">
+		<description>Geomag #08 (19xx)(-)(Side B)</description>
+		<rom name="Geomag #08 (19xx)(-)(Side B).sfx" size="31989" crc="70d6a1c6" md5="6ed4f295299f17da50c05b948c28057d" sha1="721435c011c88963b449e1df9f55416dc31d41c7"/>
+	</game>
+	<game name="Geomag #10 (19xx)(-)(Disk 1 of 2 Side B)">
+		<description>Geomag #10 (19xx)(-)(Disk 1 of 2 Side B)</description>
+		<rom name="Geomag #10 (19xx)(-)(Disk 1 of 2 Side B).sfx" size="30702" crc="71d42ba9" md5="1d8cefb9082d587da78c81e8072b167b" sha1="17702e80db8768236d9d81d8496391bf9ed13a37"/>
+	</game>
+	<game name="Geomag #14 (19xx)(-)(Side B)">
+		<description>Geomag #14 (19xx)(-)(Side B)</description>
+		<rom name="Geomag #14 (19xx)(-)(Side B).sfx" size="21820" crc="7f57cc0d" md5="9277fdb8ae2faae3ee0111c2034c1b48" sha1="a9b6b9b7ab8653535bb4a1890fb5808cb0b6fbe8"/>
+	</game>
+</datafile>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Convergent Technologies AWS NGEN Workstation - Compilations - Games - [IMG]</name>
+		<description>Convergent Technologies AWS NGEN Workstation - Compilations - Games - [IMG] (TOSEC-v2017-04-05)</description>
+		<category>TOSEC</category>
+		<version>2017-04-05</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<url>http://www.tosecdev.org</url>
+		<clrmamepro/>
+	</header>
+	<game name="CTOS Games 1 (19xx)(-)">
+		<description>CTOS Games 1 (19xx)(-)</description>
+		<rom name="CTOS Games 1 (19xx)(-).img" size="1474560" crc="903eda5f" md5="87489834f2d5a92d39326e79418ec740" sha1="702c781918190e53bff9a9ee48c238c018b3b282"/>
+	</game>
+	<game name="CTOS Games 2 (19xx)(-)">
+		<description>CTOS Games 2 (19xx)(-)</description>
+		<rom name="CTOS Games 2 (19xx)(-).img" size="1474560" crc="b9a1a1d1" md5="f364f901a79588f9b4eb919ed508651c" sha1="ec0316f8d8340f41a22511594d64f982528abb3a"/>
+	</game>
+</datafile>

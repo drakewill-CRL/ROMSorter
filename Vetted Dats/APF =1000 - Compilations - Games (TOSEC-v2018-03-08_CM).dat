@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>APF M-1000 - Compilations - Games</name>
+		<description>APF M-1000 - Compilations - Games (TOSEC-v2018-03-08)</description>
+		<category>TOSEC</category>
+		<version>2018-03-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Bowling &amp; Micro Match (1979)(APF)[MG1004]">
+		<description>Bowling &amp; Micro Match (1979)(APF)[MG1004]</description>
+		<rom name="Bowling &amp; Micro Match (1979)(APF)[MG1004].bin" size="4096" crc="cca5836b" md5="e34990b83b71054334ee108b476b5a68" sha1="4ff1c4ffa46c543bbf48a519a4285b5d2c697ae3"/>
+	</game>
+	<game name="Brickdown &amp; Shooting Gallery (1979)(APF)[MG1005]">
+		<description>Brickdown &amp; Shooting Gallery (1979)(APF)[MG1005]</description>
+		<rom name="Brickdown &amp; Shooting Gallery (1979)(APF)[MG1005].bin" size="2048" crc="bc1f5b8b" md5="ce1e9aca6fbe1dc309a37a0271f75c12" sha1="3e2f1e93501cd0dd2c9b747c594b784360e5b175"/>
+	</game>
+	<game name="Columns &amp; Targets &amp; Bacteria &amp; Autopista (1995)(Collado, Enrique)">
+		<description>Columns &amp; Targets &amp; Bacteria &amp; Autopista (1995)(Collado, Enrique)</description>
+		<rom name="Columns &amp; Targets &amp; Bacteria &amp; Autopista (1995)(Collado, Enrique).bin" size="3733" crc="71c2955c" md5="e7f50563532b44f918719b8268daab4d" sha1="7e571e32ff05c92c7be7d2e42a0868538a7c5800"/>
+	</game>
+	<game name="Hangman &amp; Tic Tac Toe &amp; Doodle (1979)(APF)[MG1003]">
+		<description>Hangman &amp; Tic Tac Toe &amp; Doodle (1979)(APF)[MG1003]</description>
+		<rom name="Hangman &amp; Tic Tac Toe &amp; Doodle (1979)(APF)[MG1003].bin" size="4096" crc="e58a5d5b" md5="01ceda20d936e4a41f1bd0802dc0e69c" sha1="205d659db0e0ab0292d33b5b4a9c2b46ca9d1dd5"/>
+	</game>
+	<game name="Pinball &amp; Dungeon Hunt &amp; Blockout (1979)(APF)[MG1011]">
+		<description>Pinball &amp; Dungeon Hunt &amp; Blockout (1979)(APF)[MG1011]</description>
+		<rom name="Pinball &amp; Dungeon Hunt &amp; Blockout (1979)(APF)[MG1011].bin" size="4096" crc="3f4b8c83" md5="75910e921d0db2d8a6609addca7b558d" sha1="1f5bca6e96777ccbe830d1143a3549f51a3e386e"/>
+	</game>
+	<game name="Ufo &amp; Sea Monsters &amp; Break It Down &amp; Rebuild &amp; Shoot (1979)(APF)[MG1010]">
+		<description>Ufo &amp; Sea Monsters &amp; Break It Down &amp; Rebuild &amp; Shoot (1979)(APF)[MG1010]</description>
+		<rom name="Ufo &amp; Sea Monsters &amp; Break It Down &amp; Rebuild &amp; Shoot (1979)(APF)[MG1010].bin" size="4096" crc="0504d667" md5="c21b4e67299ef92a8e43071c171a8620" sha1="6e33593f9e7a4551bc31b347741d9ff87ce618ca"/>
+	</game>
+</datafile>

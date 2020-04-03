@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Memotech MTX - Applications</name>
+		<description>Memotech MTX - Applications (TOSEC-v2011-08-12)</description>
+		<category>TOSEC</category>
+		<version>2011-08-12</version>
+		<author>Cid - Grendel - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="EdAsm (1985)(Syntax Software)">
+		<description>EdAsm (1985)(Syntax Software)</description>
+		<rom name="EdAsm (1985)(Syntax Software).mtx" size="17937" crc="5fa2f2d1" md5="c7fda51ef7506939b3177373ec14cd45" sha1="e370303b199c45a3885fb8131162b78f3899f7ea"/>
+	</game>
+	<game name="Renumber (1984)(-)(PD)">
+		<description>Renumber (1984)(-)(PD)</description>
+		<rom name="Renumber (1984)(-)(PD).mtx" size="29440" crc="d0394b06" md5="41378b3fae2b3223a551bd40aead739b" sha1="b8b830ecb52bb7d830f09f299594d4f1ca163e86"/>
+	</game>
+</datafile>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Toshiba Pasopia - Compilations - Games - [BIN]</name>
+		<description>Toshiba Pasopia - Compilations - Games - [BIN] (TOSEC-v2019-12-18)</description>
+		<category>TOSEC</category>
+		<version>2019-12-18</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Pasopia Game Collection - AWord (1982)(Toshiba)(JP)[PA 6002]">
+		<description>Pasopia Game Collection - AWord (1982)(Toshiba)(JP)[PA 6002]</description>
+		<rom name="Pasopia Game Collection - AWord (1982)(Toshiba)(JP)[PA 6002].bin" size="32768" crc="a7ae7574" md5="9b19616da7aa8afe7eef34c1590cac3b" sha1="2589daaaed422f5af6d4f1c6b1296cb53773601b"/>
+	</game>
+	<game name="Pasopia Game Collection - M-Mind (1982)(Toshiba)(JP)[PA 6002]">
+		<description>Pasopia Game Collection - M-Mind (1982)(Toshiba)(JP)[PA 6002]</description>
+		<rom name="Pasopia Game Collection - M-Mind (1982)(Toshiba)(JP)[PA 6002].bin" size="32768" crc="40024e02" md5="18d373a43e23ad1bd4844f8d7a80d68a" sha1="fdb4aadc067fd6b1f82b13e793633ea833818156"/>
+	</game>
+	<game name="Pasopia Game Collection - Othello (1982)(Toshiba)(JP)[PA 6002]">
+		<description>Pasopia Game Collection - Othello (1982)(Toshiba)(JP)[PA 6002]</description>
+		<rom name="Pasopia Game Collection - Othello (1982)(Toshiba)(JP)[PA 6002].bin" size="32768" crc="ce74a6fe" md5="ed1496e81264811bde3b49aa29f65dcf" sha1="0abd1c3a4aca33ca8820605cca18c81eba0bd534"/>
+	</game>
+	<game name="Pasopia Game Collection - PointG (1982)(Toshiba)(JP)[PA 6002]">
+		<description>Pasopia Game Collection - PointG (1982)(Toshiba)(JP)[PA 6002]</description>
+		<rom name="Pasopia Game Collection - PointG (1982)(Toshiba)(JP)[PA 6002].bin" size="32768" crc="ef63409d" md5="34705f013f846a35fc4078e3b5946347" sha1="086bdda20d3efa14a323c7885318c07ae5e01417"/>
+	</game>
+	<game name="Pasopia Game Collection - R-Away (1982)(Toshiba)(JP)[PA 6002]">
+		<description>Pasopia Game Collection - R-Away (1982)(Toshiba)(JP)[PA 6002]</description>
+		<rom name="Pasopia Game Collection - R-Away (1982)(Toshiba)(JP)[PA 6002].bin" size="32768" crc="5f31883e" md5="0bcfaf22135348c6ef281866b3fe6f3e" sha1="fd9fe13d9fc696ab353410d7d19a6e42c3ce062b"/>
+	</game>
+	<game name="Pasopia Game Highlight - BJ (1982)(Toshiba)(JP)[PZA-410]">
+		<description>Pasopia Game Highlight - BJ (1982)(Toshiba)(JP)[PZA-410]</description>
+		<rom name="Pasopia Game Highlight - BJ (1982)(Toshiba)(JP)[PZA-410].bin" size="32768" crc="6443bc3d" md5="91c6b47026247011bf7bf398efb19047" sha1="4e1d9a971e1d9e61dab5542f35244bc8d8cc0f48"/>
+	</game>
+	<game name="Pasopia Game Highlight - DP (1982)(Toshiba)(JP)[PZA-410]">
+		<description>Pasopia Game Highlight - DP (1982)(Toshiba)(JP)[PZA-410]</description>
+		<rom name="Pasopia Game Highlight - DP (1982)(Toshiba)(JP)[PZA-410].bin" size="32768" crc="bb987fc6" md5="17bb87ecb26252bf4c046665b9445225" sha1="74442e154052050ac6dee90d09eef080997e5b87"/>
+	</game>
+</datafile>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Magnavox Odyssey2 - Applications</name>
+		<description>Magnavox Odyssey2 - Applications (TOSEC-v2011-02-22)</description>
+		<category>TOSEC</category>
+		<version>2011-02-22</version>
+		<author>Grendel - BuckyB - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Computer Intro (1980)(Philips)(US)">
+		<description>Computer Intro (1980)(Philips)(US)</description>
+		<rom name="Computer Intro (1980)(Philips)(US).bin" size="2048" crc="95efa98b" md5="1e7035584d19aaa53eb3795d92fa6215" sha1="f93c448243db428a4c9e2354596844ed07bb7530"/>
+	</game>
+	<game name="Computer Programmer (1980)(Philips)(EU)">
+		<description>Computer Programmer (1980)(Philips)(EU)</description>
+		<rom name="Computer Programmer (1980)(Philips)(EU).bin" size="2048" crc="b590cf14" md5="908e01082d7e30b7ce79df2dd85acfed" sha1="913c1961dfa17b5873428f57429e3809580ff906"/>
+	</game>
+	<game name="Keyboard Creations (1980)(Philips)(US)">
+		<description>Keyboard Creations (1980)(Philips)(US)</description>
+		<rom name="Keyboard Creations (1980)(Philips)(US).bin" size="2048" crc="688fad11" md5="84ae1a8159716266f7aae16ad7dfd062" sha1="8276ca41e571478eae2dd6add7f79bc7f8bd60de"/>
+	</game>
+	<game name="Musician (1981)(Philips)(EU)">
+		<description>Musician (1981)(Philips)(EU)</description>
+		<rom name="Musician (1981)(Philips)(EU).bin" size="4096" crc="afb23f89" md5="f93d43b0e30539ba6fab14ce6a57aae3" sha1="7445f4df9017c4d2ea94542d0db335dc18c9d7ed"/>
+	</game>
+	<game name="Newscaster (1980)(Philips)(EU)">
+		<description>Newscaster (1980)(Philips)(EU)</description>
+		<rom name="Newscaster (1980)(Philips)(EU).bin" size="2048" crc="85dfcdd7" md5="f2eda19ffc8e52c5c2d13c7106a06303" sha1="183b3b1b70db58cc9ada575cc324353f2e89c2ce"/>
+	</game>
+	<game name="Type &amp; Tell (1978)(Philips)(US)">
+		<description>Type &amp; Tell (1978)(Philips)(US)</description>
+		<rom name="Type &amp; Tell (1978)(Philips)(US).bin" size="4096" crc="b936bd78" md5="49abee5ddd1b475fe4cbb997f7ee83ef" sha1="40458eaf84a71f509b4069775e49551ce5152697"/>
+	</game>
+</datafile>

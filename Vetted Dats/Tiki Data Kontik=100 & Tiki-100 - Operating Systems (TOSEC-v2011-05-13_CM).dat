@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tiki Data Kontiki-100 &amp; Tiki-100 - Operating Systems</name>
+		<description>Tiki Data Kontiki-100 &amp; Tiki-100 - Operating Systems (TOSEC-v2011-05-13)</description>
+		<category>TOSEC</category>
+		<version>2011-05-13</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="KPM v1.1 (19xx)(Orkim Data)(NO)">
+		<description>KPM v1.1 (19xx)(Orkim Data)(NO)</description>
+		<rom name="KPM v1.1 (19xx)(Orkim Data)(NO).dsk" size="204800" crc="48980bb7" md5="d334a1ae6fae95e76e63a0acd7133483" sha1="a7e36ffb782f2f88ca09657d2a6da69b02ab51e1"/>
+	</game>
+	<game name="KPM v1.15 (19xx)(Orkim Data)(NO)">
+		<description>KPM v1.15 (19xx)(Orkim Data)(NO)</description>
+		<rom name="KPM v1.15 (19xx)(Orkim Data)(NO).dsk" size="204800" crc="9dc38eeb" md5="d0ca57827540c1d5d43d728474acec7b" sha1="8094d2d3591f8e74d6e3381dedee46954b9b3f9b"/>
+	</game>
+	<game name="KPM v1.17 (19xx)(Orkim Data)(NO)">
+		<description>KPM v1.17 (19xx)(Orkim Data)(NO)</description>
+		<rom name="KPM v1.17 (19xx)(Orkim Data)(NO).dsk" size="204800" crc="435e8947" md5="211484f161bfe782d7029e39210d9ee0" sha1="e4244954f8012ae66e747f2fbb7e220428b33a56"/>
+	</game>
+	<game name="Tiki-100 System for Winchester Harddisk (19xx)(-)(NO)">
+		<description>Tiki-100 System for Winchester Harddisk (19xx)(-)(NO)</description>
+		<rom name="Tiki-100 System for Winchester Harddisk (19xx)(-)(NO).dsk" size="819200" crc="d536cdad" md5="a7fca7baa49055438dec8827bc678845" sha1="44174f9618ec088aea42f95d4afa3b0fb9d94519"/>
+	</game>
+	<game name="TIKO-Kjerne v2.08r (19xx)(Tiki Data)(NO)[200K]">
+		<description>TIKO-Kjerne v2.08r (19xx)(Tiki Data)(NO)[200K]</description>
+		<rom name="TIKO-Kjerne v2.08r (19xx)(Tiki Data)(NO)[200K].dsk" size="204800" crc="81908dda" md5="c54529532b5b0c0aa1a45c00a28a7836" sha1="7f1e95924309368d1be112ec16fb6d85e2590bfc"/>
+	</game>
+	<game name="TIKO-Kjerne v2.08r (19xx)(Tiki Data)(NO)[400K]">
+		<description>TIKO-Kjerne v2.08r (19xx)(Tiki Data)(NO)[400K]</description>
+		<rom name="TIKO-Kjerne v2.08r (19xx)(Tiki Data)(NO)[400K].dsk" size="409600" crc="625a9680" md5="b7b9d68e84f0074cb12e334ee291b3b0" sha1="cd133391ddccb4edb031d555a83b4f8a07c5edb7"/>
+	</game>
+	<game name="TIKO-Kjerne v4.01 (19xx)(Tiki Data)(NO)">
+		<description>TIKO-Kjerne v4.01 (19xx)(Tiki Data)(NO)</description>
+		<rom name="TIKO-Kjerne v4.01 (19xx)(Tiki Data)(NO).dsk" size="409600" crc="9049393a" md5="43a03f60f3f8523c8fbd0c1a6641fc46" sha1="e79dbb6325e55a162184705d6f6536b76be483cf"/>
+	</game>
+</datafile>

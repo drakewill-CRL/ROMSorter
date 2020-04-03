@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo Game Boy - Firmware</name>
+		<description>Nintendo Game Boy - Firmware (TOSEC-v2011-09-27)</description>
+		<category>TOSEC</category>
+		<version>2011-09-27</version>
+		<author>Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Nintendo Game Boy BIOS (1989)(Nintendo)">
+		<description>Nintendo Game Boy BIOS (1989)(Nintendo)</description>
+		<rom name="Nintendo Game Boy BIOS (1989)(Nintendo).bin" size="256" crc="59c8598e" md5="32fbbd84168d3482956eb3c5051637f5" sha1="4ed31ec6b0b175bb109c0eb5fd3d193da823339f"/>
+	</game>
+</datafile>

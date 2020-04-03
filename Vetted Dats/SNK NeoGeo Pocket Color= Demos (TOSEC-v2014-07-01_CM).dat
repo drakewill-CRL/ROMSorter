@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>SNK Neo-Geo Pocket Color - Demos</name>
+		<description>SNK Neo-Geo Pocket Color - Demos (TOSEC-v2014-07-01)</description>
+		<category>TOSEC</category>
+		<version>2014-07-01</version>
+		<author>Cassiel - Yori Yoshizuki</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="3D Engine Demo 1 (2001)(Thor)(PD)">
+		<description>3D Engine Demo 1 (2001)(Thor)(PD)</description>
+		<rom name="3D Engine Demo 1 (2001)(Thor)(PD).bin" size="1802" crc="49db867e" md5="82b38e7d9013862b26d5469e32731443" sha1="5a17d977b4c1a487c4b1b9ced2f330f29ad1baa8"/>
+	</game>
+	<game name="3D Engine Demo 2 (2001)(Thor)(PD)">
+		<description>3D Engine Demo 2 (2001)(Thor)(PD)</description>
+		<rom name="3D Engine Demo 2 (2001)(Thor)(PD).bin" size="32768" crc="0d47aa91" md5="f6dea32fe56286630b65be5aa3373bc8" sha1="9350e1a1aef4d8fd24052e0428d4344aa1d8e040"/>
+	</game>
+	<game name="Anime Video Demo (2002)(Raneko)(PD)">
+		<description>Anime Video Demo (2002)(Raneko)(PD)</description>
+		<rom name="Anime Video Demo (2002)(Raneko)(PD).bin" size="131072" crc="5c1b9b68" md5="78a918694977258f26df593e9e904fe8" sha1="2b4781020f0f5a200ac8ff287ac120d157242c68"/>
+	</game>
+	<game name="Bitmap Demo (200x)(-)(PD)">
+		<description>Bitmap Demo (200x)(-)(PD)</description>
+		<rom name="Bitmap Demo (200x)(-)(PD).bin" size="3559" crc="9c358064" md5="938ecc41e19cdb65efeb636a72007f88" sha1="96a7c9a0e06fac63dc9481fc5874fff832ec38c0"/>
+	</game>
+	<game name="Chaos 89 (2000)(Doty, Charles)(PD)">
+		<description>Chaos 89 (2000)(Doty, Charles)(PD)</description>
+		<rom name="Chaos 89 (2000)(Doty, Charles)(PD).bin" size="2097152" crc="cf8cf360" md5="9080ed734736cd657d02f1a5eba38764" sha1="851510cfee720fb23f74bafbe6728b233d1f4241"/>
+	</game>
+	<game name="CPU Test (199x)(Judge_)(PD)">
+		<description>CPU Test (199x)(Judge_)(PD)</description>
+		<rom name="CPU Test (199x)(Judge_)(PD).bin" size="2097152" crc="c9551049" md5="25efb139950cb427b6cc99652ef23d26" sha1="a77237078fdfb7356a131b7500dd640800224538"/>
+	</game>
+	<game name="Fractal v1.0 (2000)(Slanina, Tomasz)(PD)">
+		<description>Fractal v1.0 (2000)(Slanina, Tomasz)(PD)</description>
+		<rom name="Fractal v1.0 (2000)(Slanina, Tomasz)(PD).bin" size="524288" crc="1ad270ce" md5="68d5c9259e6580c51f3cfd865df2d0ac" sha1="0a0a55f9a8c79fd0ecd3c763d313a811a7b2cb15"/>
+	</game>
+	<game name="Fractal v1.0 (2000)(Slanina, Tomasz)(PD)[a]">
+		<description>Fractal v1.0 (2000)(Slanina, Tomasz)(PD)[a]</description>
+		<rom name="Fractal v1.0 (2000)(Slanina, Tomasz)(PD)[a].bin" size="524288" crc="f2c352cf" md5="5b87e8c126f6e82d750583b30d900432" sha1="89180ac900299024abc4bd7a538e2ce5a0deae2f"/>
+	</game>
+	<game name="Fractal v1.0 (2000)(Slanina, Tomasz)(PD)[b]">
+		<description>Fractal v1.0 (2000)(Slanina, Tomasz)(PD)[b]</description>
+		<rom name="Fractal v1.0 (2000)(Slanina, Tomasz)(PD)[b].bin" size="524289" crc="f4291c73" md5="8cec9b8f6bba9a6a42147d6954a716d1" sha1="1197b4b94ba3141cd6cf5c4cbb625685876e0273"/>
+	</game>
+	<game name="Fractal v1.1 (2000)(Slanina, Tomasz)(PD)">
+		<description>Fractal v1.1 (2000)(Slanina, Tomasz)(PD)</description>
+		<rom name="Fractal v1.1 (2000)(Slanina, Tomasz)(PD).bin" size="524288" crc="f02b1a2c" md5="985d0b1f2dbbc701bad94ec9ab1e89c1" sha1="377276aaabab80988167aaf50f5b96cfdd200a62"/>
+	</game>
+	<game name="GIQ Export Sample (2001)(Raneko)(PD)">
+		<description>GIQ Export Sample (2001)(Raneko)(PD)</description>
+		<rom name="GIQ Export Sample (2001)(Raneko)(PD).bin" size="9769" crc="2b4575df" md5="f8b24b6351bc802e86528298928f6941" sha1="705e26caf40cd86cca49b6cd6d1fe1d3de5efaa4"/>
+	</game>
+	<game name="Hardware Test (199x)(-)(PD)">
+		<description>Hardware Test (199x)(-)(PD)</description>
+		<rom name="Hardware Test (199x)(-)(PD).bin" size="524288" crc="9226e2f3" md5="32a23067e04546b719884e45a8287261" sha1="081b8d2aa7daa01cb45633de33135c5001f38bf0"/>
+	</game>
+	<game name="Hello World! Clock Demo (1999)(Jeff)(PD)">
+		<description>Hello World! Clock Demo (1999)(Jeff)(PD)</description>
+		<rom name="Hello World! Clock Demo (1999)(Jeff)(PD).bin" size="524288" crc="d76646af" md5="be46a8abd0f076f06801f752722cc918" sha1="5e0cc1ba3439ef8b0ddb2a0f9eac167f244dadd8"/>
+	</game>
+	<game name="Hello World! Clock Demo (1999)(Jeff)(PD)[a]">
+		<description>Hello World! Clock Demo (1999)(Jeff)(PD)[a]</description>
+		<rom name="Hello World! Clock Demo (1999)(Jeff)(PD)[a].bin" size="779" crc="f4f6cb72" md5="0257696ec87cdd8b7297c5ed5e07506d" sha1="1d1beec24fb184be0f57b50c4a3d544c00b42075"/>
+	</game>
+	<game name="Hicolor Picture (2000)(Soft'n Fuzzy)(PD)">
+		<description>Hicolor Picture (2000)(Soft'n Fuzzy)(PD)</description>
+		<rom name="Hicolor Picture (2000)(Soft'n Fuzzy)(PD).bin" size="524288" crc="ee2d7ab0" md5="1105a101d4ef34e0d08d6c789576da88" sha1="0620ac2885ff2153071b06ea91bc2aaa5f2f835a"/>
+	</game>
+	<game name="Mainreg Test (199x)(-)(PD)">
+		<description>Mainreg Test (199x)(-)(PD)</description>
+		<rom name="Mainreg Test (199x)(-)(PD).bin" size="524288" crc="e69a6c36" md5="c3b09767531f0a5a995814bdb997feb5" sha1="e9c2c6bbce498b7d3ff4b5d2a2682170da20c5c0"/>
+	</game>
+	<game name="Mauru Demo v0.01 (2004)(Soft'n Fuzzy)(PD)">
+		<description>Mauru Demo v0.01 (2004)(Soft'n Fuzzy)(PD)</description>
+		<rom name="Mauru Demo v0.01 (2004)(Soft'n Fuzzy)(PD).bin" size="524288" crc="255e574f" md5="d3b04f4650a67e37bd6a5b0c680d928e" sha1="f5e0bbe96870158fdbe517ef8b0af95d0f1474a9"/>
+	</game>
+	<game name="Mersenne Twister Random Number Generator (2000)(Siebold, Jeff)(PD)">
+		<description>Mersenne Twister Random Number Generator (2000)(Siebold, Jeff)(PD)</description>
+		<rom name="Mersenne Twister Random Number Generator (2000)(Siebold, Jeff)(PD).bin" size="524288" crc="6bdaa16c" md5="104e33a29b9c3109f374fbc0fedfa4fc" sha1="80d21668c8c6796e1ee7f2461e346c12d0335716"/>
+	</game>
+	<game name="MOD Player Sample (2003)(Thor)(PD)">
+		<description>MOD Player Sample (2003)(Thor)(PD)</description>
+		<rom name="MOD Player Sample (2003)(Thor)(PD).bin" size="131262" crc="48450325" md5="ac50503cf25a860b416ce8574e82f4a0" sha1="9237853f95b2f581bec99989b7dd5d3339f87c96"/>
+	</game>
+	<game name="Movie Player Demo 1 (2003)(Thor)(PD)">
+		<description>Movie Player Demo 1 (2003)(Thor)(PD)</description>
+		<rom name="Movie Player Demo 1 (2003)(Thor)(PD).bin" size="165153" crc="6bd202e6" md5="f0ef371286e213945c11ac601e04c7f8" sha1="1433355c0d97a3ae47e9fccc7a610cc6aa0c89f1"/>
+	</game>
+	<game name="Movie Player Demo 2 (2003)(Thor)(PD)">
+		<description>Movie Player Demo 2 (2003)(Thor)(PD)</description>
+		<rom name="Movie Player Demo 2 (2003)(Thor)(PD).bin" size="1985809" crc="84ba2760" md5="0904ad18ec5dbbfb7faa2c6b7833be08" sha1="61610e2a83f1572e75923a8eb692c76599bf2ce4"/>
+	</game>
+	<game name="Movie Player Empty Template (2003)(Thor)(PD)">
+		<description>Movie Player Empty Template (2003)(Thor)(PD)</description>
+		<rom name="Movie Player Empty Template (2003)(Thor)(PD).bin" size="2008980" crc="1f065d32" md5="311580a30993c2b53d3b60299cee70b8" sha1="fad6105a3207fb51d0ac4bc926bb0c025d9e342a"/>
+	</game>
+	<game name="Multidirectional Scrolling Sample (2003)(Thor)(PD)">
+		<description>Multidirectional Scrolling Sample (2003)(Thor)(PD)</description>
+		<rom name="Multidirectional Scrolling Sample (2003)(Thor)(PD).bin" size="9909" crc="3c174b7c" md5="be5f01e4b05aa0ad63ae03a419007374" sha1="a463aaa53fa49ed1a4c09ab488be07f47df38f45"/>
+	</game>
+	<game name="Napalm Neo-Neo! Demo v1.0 (2000)(Napalm)(PD)">
+		<description>Napalm Neo-Neo! Demo v1.0 (2000)(Napalm)(PD)</description>
+		<rom name="Napalm Neo-Neo! Demo v1.0 (2000)(Napalm)(PD).bin" size="11136" crc="8fe24b7c" md5="6581e18f8aaa128e80cda30d3b364473" sha1="c224f7c38166811e82e5cc362cbaca747d758e68"/>
+	</game>
+	<game name="Napalm Neo-Neo! Demo v1.1 (2000)(Napalm)(PD)">
+		<description>Napalm Neo-Neo! Demo v1.1 (2000)(Napalm)(PD)</description>
+		<rom name="Napalm Neo-Neo! Demo v1.1 (2000)(Napalm)(PD).bin" size="524288" crc="20794875" md5="aecf4eb51552c9fd06be8d213073f945" sha1="5a4f57b704d7aa560712882de1f640d9810ec5ad"/>
+	</game>
+	<game name="Napalm Neo-Neo! Demo v1.2 (2000)(Napalm)(PD)">
+		<description>Napalm Neo-Neo! Demo v1.2 (2000)(Napalm)(PD)</description>
+		<rom name="Napalm Neo-Neo! Demo v1.2 (2000)(Napalm)(PD).bin" size="524288" crc="925fa626" md5="3b74821e0e8566afdf099c1a6ff38303" sha1="02ecedcfa4d12f8b7d4c9577fc9fe06a26c760a4"/>
+	</game>
+	<game name="NGPC Music Player Demo (2002)(Mackintosh, Ivan)(PD)">
+		<description>NGPC Music Player Demo (2002)(Mackintosh, Ivan)(PD)</description>
+		<rom name="NGPC Music Player Demo (2002)(Mackintosh, Ivan)(PD).bin" size="131072" crc="b96cfe67" md5="62b7387766bcc94cdafbe90262b28a0b" sha1="db12f6b813de96c9fc272b48db44d763bf1716b8"/>
+	</game>
+	<game name="SFX for NGPC - Example (2002)(Mackintosh, Ivan)(PD)">
+		<description>SFX for NGPC - Example (2002)(Mackintosh, Ivan)(PD)</description>
+		<rom name="SFX for NGPC - Example (2002)(Mackintosh, Ivan)(PD).bin" size="32768" crc="8317834c" md5="49206641778c959a0fabd7e1bc8c8bb3" sha1="724a87d54dbdc491e83483a8b73389af12160c5f"/>
+	</game>
+	<game name="SFX for NGPC - Sound Generator (2002)(Mackintosh, Ivan)(PD)">
+		<description>SFX for NGPC - Sound Generator (2002)(Mackintosh, Ivan)(PD)</description>
+		<rom name="SFX for NGPC - Sound Generator (2002)(Mackintosh, Ivan)(PD).bin" size="524288" crc="064e86d3" md5="2ce476ae1a4d2aeaf483722e04b5da80" sha1="8389188426d58bd39ba89bd6215e105bf393c916"/>
+	</game>
+	<game name="SFX for NGPC - Sound Generator (2002)(Mackintosh, Ivan)(PD)[a]">
+		<description>SFX for NGPC - Sound Generator (2002)(Mackintosh, Ivan)(PD)[a]</description>
+		<rom name="SFX for NGPC - Sound Generator (2002)(Mackintosh, Ivan)(PD)[a].bin" size="32768" crc="33552bee" md5="e1c39b77e82eb6153fe4e7e065efb17a" sha1="6f6ea5ac9af77a82996a1206569057674c1d0ca5"/>
+	</game>
+	<game name="Squall Demo (200x)(-)(PD)">
+		<description>Squall Demo (200x)(-)(PD)</description>
+		<rom name="Squall Demo (200x)(-)(PD).bin" size="2097152" crc="3f82d6f7" md5="937b58caaa00e74f94168c1be4574677" sha1="79a62afe636e3687dede5262ec57b9db0393c5d7"/>
+	</game>
+	<game name="Starfield Array Demo (199x)(Bacon, Roger)(PD)">
+		<description>Starfield Array Demo (199x)(Bacon, Roger)(PD)</description>
+		<rom name="Starfield Array Demo (199x)(Bacon, Roger)(PD).bin" size="32768" crc="9fd643ec" md5="7790d8a67fadd67cbda1f1dfc6020ba9" sha1="6ad83445dd4e8a7e9b78ff65706866b686061639"/>
+	</game>
+	<game name="Timer Test (200x)(Mackintosh, Ivan)(PD)">
+		<description>Timer Test (200x)(Mackintosh, Ivan)(PD)</description>
+		<rom name="Timer Test (200x)(Mackintosh, Ivan)(PD).bin" size="32768" crc="cd46bacb" md5="6d50877321ada9a6ac8deb6c6ee4a6de" sha1="5120c7be8edb52f9cc5549b7995db23784be811e"/>
+	</game>
+	<game name="Trail Blazer Demo v0.01 (2004)(Soft'n Fuzzy)(PD)">
+		<description>Trail Blazer Demo v0.01 (2004)(Soft'n Fuzzy)(PD)</description>
+		<rom name="Trail Blazer Demo v0.01 (2004)(Soft'n Fuzzy)(PD).bin" size="524288" crc="6d7ae8b3" md5="6f721219541ff91d91d8f97072ba5fae" sha1="d8f273c2c693248ca7dda30ef810b05ac338f6a1"/>
+	</game>
+	<game name="Uridium Demo v0.01 (2004)(Soft'n Fuzzy)(PD)">
+		<description>Uridium Demo v0.01 (2004)(Soft'n Fuzzy)(PD)</description>
+		<rom name="Uridium Demo v0.01 (2004)(Soft'n Fuzzy)(PD).bin" size="524288" crc="77bcf6a5" md5="a487651501c4852bc2f135f4012fa2eb" sha1="c775b21e5f1e1632c3151e9410e0c175cdcbfc31"/>
+	</game>
+	<game name="V-Font Demo v0.01 (2004)(Soft'n Fuzzy)(PD)">
+		<description>V-Font Demo v0.01 (2004)(Soft'n Fuzzy)(PD)</description>
+		<rom name="V-Font Demo v0.01 (2004)(Soft'n Fuzzy)(PD).bin" size="524288" crc="58aba4c6" md5="2348194ff53db51a2be68e7ac9f6cde7" sha1="15167900895cf773e6d16e62af1b9e753c87d31c"/>
+	</game>
+	<game name="WAV Player Sample (2001)(Thor)(PD)">
+		<description>WAV Player Sample (2001)(Thor)(PD)</description>
+		<rom name="WAV Player Sample (2001)(Thor)(PD).bin" size="1982819" crc="f522c68a" md5="ca3b2b48b9c4192bf02e35944492b6f0" sha1="f3435c30fb15efa63dc8fa868412e7d511ad56d9"/>
+	</game>
+</datafile>

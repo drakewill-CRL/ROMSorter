@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>IBM PC Compatibles - Compilations - Games - [IMG]</name>
+		<description>IBM PC Compatibles - Compilations - Games - [IMG] (TOSEC-v2019-09-01)</description>
+		<category>TOSEC</category>
+		<version>2019-09-01</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Blockout (1989)(LZW)(EGA-CGA-HGC-TGA) &amp; Tetris (1986)(AcademySoft)(RU)(en)[b not original media]">
+		<description>Blockout (1989)(LZW)(EGA-CGA-HGC-TGA) &amp; Tetris (1986)(AcademySoft)(RU)(en)[b not original media]</description>
+		<rom name="Blockout (1989)(LZW)(EGA-CGA-HGC-TGA) &amp; Tetris (1986)(AcademySoft)(RU)(en)[b not original media].img" size="368640" crc="778d3fe3" md5="817f0b6db853b753813f52d876654ef4" sha1="7121e106096b4f65d532cd3280856b6944a0f18b"/>
+	</game>
+	<game name="PC Games #3 (1988)(I.B. Magazette)(US)">
+		<description>PC Games #3 (1988)(I.B. Magazette)(US)</description>
+		<rom name="PC Games #3 (1988)(I.B. Magazette)(US).img" size="368640" crc="4d2c6ea3" md5="577982503118747744e1722acbb9e233" sha1="c9599c1c528f1390d9f1b6b4120516a667997717"/>
+	</game>
+</datafile>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>TRQ Video Computer H-21 - Games</name>
+		<description>TRQ Video Computer H-21 - Games (TOSEC-v2018-07-01)</description>
+		<category>TOSEC</category>
+		<version>2018-07-01</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Come Frutas (198x)(TRQ)[7]">
+		<description>Come Frutas (198x)(TRQ)[7]</description>
+		<rom name="Come Frutas (198x)(TRQ)[7].bin" size="4096" crc="f66c8e3a" md5="db2bb064c0bf82faa5fcdc6e487b105c" sha1="c695bd36b572dff2c8f6c49edfcfda6dda3675c1"/>
+	</game>
+</datafile>

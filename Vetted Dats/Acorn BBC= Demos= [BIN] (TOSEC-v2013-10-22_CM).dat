@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Acorn BBC - Demos - [BIN]</name>
+		<description>Acorn BBC - Demos - [BIN] (TOSEC-v2013-10-22)</description>
+		<category>TOSEC</category>
+		<version>2013-10-22</version>
+		<author>CRSV - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Acorn Demo-A (1985)(Acorn)">
+		<description>Acorn Demo-A (1985)(Acorn)</description>
+		<rom name="Acorn Demo-A (1985)(Acorn).bin" size="16384" crc="fc40c0e8" md5="78a5b44e07347161dcaad623bad6363f" sha1="970ff4721e707f3c843f4fb09ce7f03e7ab265ae"/>
+	</game>
+	<game name="Acorn Demo-B (1985)(Acorn)">
+		<description>Acorn Demo-B (1985)(Acorn)</description>
+		<rom name="Acorn Demo-B (1985)(Acorn).bin" size="16384" crc="2e73522d" md5="3055ea6d2aa5467236c50188cbf95a69" sha1="ff39620d93b18fd36a4718474495211a46ef8184"/>
+	</game>
+</datafile>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Bally Professional Arcade &amp; Astrocade - Compilations - Various - [PRG]</name>
+		<description>Bally Professional Arcade &amp; Astrocade - Compilations - Various - [PRG] (TOSEC-v2017-07-25)</description>
+		<category>TOSEC</category>
+		<version>2017-07-25</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Arcadian Sampler (1980)(Anderson Research and Design)(PD)[300 baud]">
+		<description>Arcadian Sampler (1980)(Anderson Research and Design)(PD)[300 baud]</description>
+		<rom name="Arcadian Sampler (1980)(Anderson Research and Design)(PD)[300 baud].prg" size="777" crc="54d3cbc0" md5="1c983e4da0ebd0b246f44bc9c143cf5d" sha1="74f50e07a76ac4c191c6a6b5f3c7f56bb9014ce3"/>
+	</game>
+	<game name="Bally BASIC Program Sampler (1978)(Bally Manufacturing Corp)(Side A)[300 baud]">
+		<description>Bally BASIC Program Sampler (1978)(Bally Manufacturing Corp)(Side A)[300 baud]</description>
+		<rom name="Bally BASIC Program Sampler (1978)(Bally Manufacturing Corp)(Side A)[300 baud].prg" size="2849" crc="3fee5646" md5="3d82235ce925dd133b52fe42151495ac" sha1="aa37874b94ab89c29a130698a36200bbcc98ea93"/>
+	</game>
+	<game name="Bally BASIC Program Sampler (1978)(Bally Manufacturing Corp)(Side B)[300 baud]">
+		<description>Bally BASIC Program Sampler (1978)(Bally Manufacturing Corp)(Side B)[300 baud]</description>
+		<rom name="Bally BASIC Program Sampler (1978)(Bally Manufacturing Corp)(Side B)[300 baud].prg" size="3733" crc="8e2cb972" md5="1bb48b05bbd6e83d1aa975ab381fa975" sha1="6b367a5db862e8056c6d5e183a1eabc34458a0c8"/>
+	</game>
+	<game name="Sampler #3 (1980)(W&amp;W Software Sales)[300 baud]">
+		<description>Sampler #3 (1980)(W&amp;W Software Sales)[300 baud]</description>
+		<rom name="Sampler #3 (1980)(W&amp;W Software Sales)[300 baud].prg" size="1487" crc="30622474" md5="a3b4c2981c100fa4cfe4b4a07e617c82" sha1="ff3709439c0d32b7309b2f4dd12cb87a187fd097"/>
+	</game>
+</datafile>

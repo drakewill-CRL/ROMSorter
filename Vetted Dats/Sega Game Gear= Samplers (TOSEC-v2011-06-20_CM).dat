@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega Game Gear - Samplers</name>
+		<description>Sega Game Gear - Samplers (TOSEC-v2011-06-20)</description>
+		<category>TOSEC</category>
+		<version>2011-06-20</version>
+		<author>Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Sonic &amp; Tails (demo-kiosk) (1993)(Sega)(JP)(en)">
+		<description>Sonic &amp; Tails (demo-kiosk) (1993)(Sega)(JP)(en)</description>
+		<rom name="Sonic &amp; Tails (demo-kiosk) (1993)(Sega)(JP)(en).bin" size="524288" crc="e0e3fb6a" md5="f26a5632af1edbca9951a53bbaa68210" sha1="cb09f304f3da4bb23fe70abec4b94b4826c41111"/>
+	</game>
+	<game name="Sonic Drift (demo-kiosk) (1994)(Sega)(JP)(en)">
+		<description>Sonic Drift (demo-kiosk) (1994)(Sega)(JP)(en)</description>
+		<rom name="Sonic Drift (demo-kiosk) (1994)(Sega)(JP)(en).bin" size="524288" crc="baac1fc0" md5="db3e87dc719c5d6f13859eee81cca297" sha1="462bdf9bfac3eb9b389142b55be39608c3343223"/>
+	</game>
+</datafile>

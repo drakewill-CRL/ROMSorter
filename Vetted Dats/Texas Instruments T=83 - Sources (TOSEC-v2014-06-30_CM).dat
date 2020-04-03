@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Texas Instruments TI-83 - Sources</name>
+		<description>Texas Instruments TI-83 - Sources (TOSEC-v2014-06-30)</description>
+		<category>TOSEC</category>
+		<version>2014-06-30</version>
+		<author>Diaboł</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="AiFig v0.82 (2002)(Jerome, Andrieu)">
+		<description>AiFig v0.82 (2002)(Jerome, Andrieu)</description>
+		<rom name="aifig v0,4b .z80" size="6064" crc="a215ff0f" md5="de299fb0601dfd3bf55f893ec8b200e1" sha1="a9c84fd1403dcaf2dd416e0445487965dddd0de8"/>
+		<rom name="aifig v0,5b.z80" size="8149" crc="e8de46c0" md5="2bcb1588121222fa20b1274c17878fe0" sha1="146c50493b76ae335a13b941b56f9e6395bde963"/>
+		<rom name="aifig v0,6b.z80" size="13115" crc="7cff7fe6" md5="5b406d432c9f82b486ce3e29166b8eaf" sha1="170037f25470bb8db14b8cbb9f4d61b20b270c45"/>
+		<rom name="aifig v0,81.z80" size="14942" crc="b17a9e32" md5="81e195507644ca2231ac858e70af78ef" sha1="4be0568df966650d08fe68818696a8eff746cf0a"/>
+		<rom name="aifig.z80" size="15035" crc="b0538128" md5="3d611d1f838550289d8775b30c58eab3" sha1="17f8603c74c842515e6b23163d8f9523466049d6"/>
+		<rom name="aifigmos v0.6b.z80" size="11081" crc="66c3468c" md5="10e38b88e2c94a8da780058b7cad79ec" sha1="c73ac2c65e88a8d2960450834c048cf846b4e4f0"/>
+		<rom name="aifigmos.z80" size="11060" crc="50f242c8" md5="10c343587d5ca75b269d4f5c656cccc8" sha1="a0abda0ffda346d89a32006b98f4c99b1c46c744"/>
+		<rom name="Readme.txt" size="2789" crc="4a79400c" md5="737ef5e8bb0fdff74fe189288e01b8a6" sha1="831c02ef6624c50f98d7c2000ea00d4ef6743a06"/>
+	</game>
+	<game name="AntiVirus (1998)(Conner, Jimmy)">
+		<description>AntiVirus (1998)(Conner, Jimmy)</description>
+		<rom name="antivirus.z80" size="5672" crc="febe3725" md5="ea82cc4c4ced48c6916a367c7e2d7fdc" sha1="8489ac34c4416489dc03a070e0993437ea695314"/>
+	</game>
+	<game name="BASIC prgm Executor v1.0 (2003)(van Nuffel, Pieter)">
+		<description>BASIC prgm Executor v1.0 (2003)(van Nuffel, Pieter)</description>
+		<rom name="bas.83p" size="80" crc="81530391" md5="dc519523469778b4dfac6a2f723dd9d2" sha1="3028449e33a62285cd4d9d15eacc633782fcf65f"/>
+		<rom name="basexec.83p" size="102" crc="4aa1c5c3" md5="4dfd909c1eda590ef41dd01921bda146" sha1="e7d4f284246956039f6b2b47f3cad795e6ca2e16"/>
+		<rom name="buf-edit.txt" size="832" crc="98ea2d10" md5="0a4a42c46fb875bfcd06ef083627674c" sha1="62ee0efcc14c60cc450d31ebf7a54532e747c589"/>
+		<rom name="readme.txt" size="2056" crc="3b3e616a" md5="cdf8e61b0aa7f18767d7022521645c7b" sha1="a4e6e607ba1fe94a285343d021c6347cf48d5fef"/>
+		<rom name="squish.inc" size="56584" crc="56c0a1eb" md5="3536d56a91a99203ac438c1a85dff185" sha1="7292cfa6805ae1c38e8c7e64784daffe3e878fc7"/>
+		<rom name="zasmload.83p" size="284" crc="9410ce33" md5="bf55a72affef984d69297074238b4a86" sha1="06f1dd085655516e82dfbe8b7578d44a937cac08"/>
+		<rom name="zasmload.z80" size="1916" crc="63e820db" md5="9ba76589abe2030c664bf2713e2c64bf" sha1="19d940172ab84e29e1d4c9e3a903a534a4d89b6e"/>
+		<rom name="ZBASEXEC.83P" size="497" crc="9e60f341" md5="968d5973040b2d1952a293158a7471f0" sha1="5b90fefb04eab08c63235ff79817d48d17a10c00"/>
+		<rom name="zbasexec.z80" size="5128" crc="78541c0f" md5="56ec5855e401208ea4eab6ae0c4ace48" sha1="d8a969956192e675464a31004c2572defd11095e"/>
+	</game>
+	<game name="Berzerk (2000)(Robson, Paul)">
+		<description>Berzerk (2000)(Robson, Paul)</description>
+		<rom name="83P\MAKE.BAT" size="95" crc="1c5516e9" md5="d90e67303812c128459199d69d144e25" sha1="5f1ee6fec74728f5a307e6d9ff899fcc59f6f9cc"/>
+		<rom name="83P\ZBERZERK.83P" size="4251" crc="6214e30f" md5="7cd224d6201aa21f20104f4a6f5b7bfc" sha1="c1aa68f535324c1c5ee6d61fafefadd5cdf797f1"/>
+		<rom name="CLASS\CLASS.EXE" size="5280" crc="b3cf48af" md5="122cb859cff13b405c03216866118337" sha1="b07d5a15175d17d0108a400fd716ff59e20b51f4"/>
+		<rom name="CLASS\CLASS.PAS" size="2963" crc="4579b186" md5="2a23482cd1b0db09f90c6e9ccba41a81" sha1="f4aa43f51a440cf66e7659e592855b1077a7e843"/>
+		<rom name="CLASS\DEMO.TXT" size="89" crc="af04f3c6" md5="5b82e940552d031396ac621a26d63cf4" sha1="017c3bafa96d61c62203dc0466c6f396b447dfb0"/>
+		<rom name="CLASS\MAKE.BAT" size="48" crc="5cac3bdb" md5="0899c42a52f03e17f964c04ee189b1a1" sha1="29913de832856f0b0ceb221f2d1127cea326e305"/>
+		<rom name="DIRS.TXT" size="261" crc="dcd3bd95" md5="3409cc6e95bfbfb12a23a7bf9ef48100" sha1="1fe66769a6d2f468e40015b689cc19008255ca74"/>
+		<rom name="DOC\CLASS.TXT" size="1151" crc="0d249644" md5="959dce82af485cbf676985b2bd09e178" sha1="fccf2e1b34aa90c8388d98bd751dd885ad616651"/>
+		<rom name="DOC\ENGINE.TXT" size="2735" crc="404947b4" md5="34067dfa80a4b59e36de1fb7870820aa" sha1="42b2ac88c2b63b5f54f4dc3d08e46c9d74716d9b"/>
+		<rom name="DOC\FRAME.TXT" size="734" crc="860b6e9d" md5="072a3b0d9f8260aa3befbf83e1abff33" sha1="fbe6f48410fec5f1e889960ff23094d801755533"/>
+		<rom name="DOC\OBJECTS.TXT" size="5943" crc="9f940aaf" md5="7a6e86714c5b4fa02c670dfbe4cac2be" sha1="2bf7d7d8d680b451e60d9e6aef6ffba75afe847b"/>
+		<rom name="GRAPHICS\_GRAPHIC.INC" size="3131" crc="f490d1ae" md5="cce8adb78db1eedcfc8cce9f369d5961" sha1="1d4e6b14fc0767e99460e55dd7488317c6d9054b"/>
+		<rom name="GRAPHICS\CONVGFX.EXE" size="5328" crc="d984783e" md5="8d8533e2a0cddeb4479eea2c4f8f661d" sha1="d84dd5ffa8b071d35255e323484d4462568b3837"/>
+		<rom name="GRAPHICS\CONVGFX.PAS" size="4492" crc="8e04b66b" md5="57d7f84d044e78bdb8efa1c49b645ca6" sha1="0a9b615ea367cf591e9778b8b3ba26d614a96a77"/>
+		<rom name="GRAPHICS\GRAPHICS.SRC" size="4035" crc="519d5640" md5="aa344f6ab238b3bc39a64815ad2bbb9e" sha1="b82b4a135cd15226cd3cf7a0efb6a605d409d912"/>
+		<rom name="GRAPHICS\MAKE.BAT" size="87" crc="a15fb9e6" md5="e86a14356d83f19af140f4652025ac55" sha1="19dc6c25a06a7095fcfd89793a7ee51ccec420a2"/>
+		<rom name="INFO.TXT" size="1092" crc="70bbe481" md5="1684664887ebc12f122bd9630d9be602" sha1="60d109c8ee9a968d7df23c562c8a27c50e16564c"/>
+		<rom name="MAKE.BAT" size="227" crc="0deb9b02" md5="7f2b5d3c5b12c71d9bc8a6eb51cb9b47" sha1="318bc39a540a8fcaaa2c13f2149da1db1902ae9f"/>
+		<rom name="SAVE.BAT" size="134" crc="0dd11cf9" md5="175a60d502f381c18c3189a74a63a3c8" sha1="5f99c96c996a99c602e792b2a0fca0b98601637c"/>
+		<rom name="SOURCE\_GRAPHIC.INC" size="3131" crc="f490d1ae" md5="cce8adb78db1eedcfc8cce9f369d5961" sha1="1d4e6b14fc0767e99460e55dd7488317c6d9054b"/>
+		<rom name="SOURCE\_STAMP.INC" size="39" crc="883b4e41" md5="dbb680f90fbaa40d4232652d1de6d53e" sha1="ab23979ef1a627abc643e13ea0d081aab0ef251d"/>
+		<rom name="SOURCE\ASM.BAT" size="117" crc="56f0198c" md5="0a0e2b0d6459a36e0fe2f47bd60d68b3" sha1="3b94b17c1e936b1dcacdec4da3416ccf1f365941"/>
+		<rom name="SOURCE\CLASS.EXE" size="5280" crc="b3cf48af" md5="122cb859cff13b405c03216866118337" sha1="b07d5a15175d17d0108a400fd716ff59e20b51f4"/>
+		<rom name="SOURCE\ENGINE.Z80" size="9973" crc="ed74421d" md5="70901dbfa17269019fc1ead1e887dd34" sha1="a5ae5d9cf42211b845715b417612cb5f7ad5061a"/>
+		<rom name="SOURCE\FRAME.Z80" size="6440" crc="97426673" md5="3377f6ed572ef095d19a429cc155921d" sha1="02a6372be5e219a30d2811fe0eea915c49f1b4cb"/>
+		<rom name="SOURCE\FRAMEGEN.Z80" size="3631" crc="0222f57a" md5="7228948797246d68cfa8bf29dfabb29b" sha1="20abc566aa98638734e9c1fccd0e4d7486f49b0e"/>
+		<rom name="SOURCE\GAME.Z80" size="14432" crc="5701efb7" md5="1d88988a97334439aa70cb4abdc22643" sha1="f83e5707c21334e23e0e26c13d5ad5a9ad912337"/>
+		<rom name="SOURCE\M.BAT" size="87" crc="b3973773" md5="1892e6ca95c761e87c2b72bbccc04c9e" sha1="80fdc38404c21b5d18c7461f5a7b2ad645d3a5ea"/>
+		<rom name="SOURCE\MAIN.SYM" size="15136" crc="05785b5b" md5="40b7e91e6c848400823a94b5523309e6" sha1="f4f0a03f13e19e99f63b91418a4714a3ce0adc53"/>
+		<rom name="SOURCE\MAIN.Z80" size="3478" crc="b9c7a91c" md5="79931cf0c65317e4fb70fefecf0cc88b" sha1="408d6831fae4fd0d54a2a0998cbb9ab9de59c78f"/>
+		<rom name="SOURCE\MAKE.BAT" size="296" crc="dd7c0222" md5="b3781cebc133dd23b57dd5e780d22390" sha1="2668d99ffa2c959216402f078fd270b0cd9092c7"/>
+		<rom name="SOURCE\OBJECT.Z80" size="12464" crc="c8e841cf" md5="ae23245ecab647a21fb6b775059122c6" sha1="812ab870f133ca0a81047cd703fba7b2aa6cc160"/>
+		<rom name="SOURCE\OBULLET.Z80" size="3084" crc="8874287e" md5="6b39db14718b55e128102a0c62fc8903" sha1="34411140eee2588687546f887a3aac3420f7d003"/>
+		<rom name="SOURCE\ODEFAULT.Z80" size="6848" crc="e2528370" md5="8e3ae90eb9eb8fcdb8910813ee7a51be" sha1="2d963fa44dc0a9345948333264ac89862599ffa0"/>
+		<rom name="SOURCE\OENEMY.Z80" size="10581" crc="b34cb869" md5="784c1a495aad7ea239085021de7ed4a9" sha1="859f447f9a532fb081be053574e900247bf6394f"/>
+		<rom name="SOURCE\OEOTTO.Z80" size="4300" crc="e98cb5d4" md5="bf67441a01a6635a24e5397571af6f5a" sha1="261336dce8c8c071373983aabc3d09dd798e2f59"/>
+		<rom name="SOURCE\OPLAYER.Z80" size="8329" crc="96fe538c" md5="44fa5c00c3d086d66d1b4a2ca336d61c" sha1="fe56929270bcfef29b7a409efef0c34de0ae2785"/>
+		<rom name="SOURCE\RAWIO.Z80" size="9821" crc="1f8fdb7f" md5="0aaafefc2e9167ed79a6a5ec39126b76" sha1="974442456557551dd2923b91a11a4c57071803c2"/>
+		<rom name="SOURCE\RAWXOR.Z80" size="8339" crc="62468824" md5="68cf3c8d698890c39e1742f72bd2799b" sha1="b445b8864e3b04aceccb0627d7769609a00e9129"/>
+		<rom name="SOURCE\STAMP.EXE" size="2896" crc="46a2ac09" md5="cae9d96c59a400ee875be279ee9acbaf" sha1="b4cbd924e38d3df6e3bc02ea6aa55593fe8e4e54"/>
+		<rom name="SOURCE\STAMP.PAS" size="415" crc="2884dd8f" md5="6f4bb35892401cff3d3d1fc679e2579a" sha1="8ea661d652d9cbdb8ce4f079dcfd16768eaf4971"/>
+		<rom name="SOURCE\TEXTIO.Z80" size="5293" crc="383ce21e" md5="fd9c0f118d5eef3c1685444693a5c4d1" sha1="9807c16829ac7d45e5bae2326a045222a8d4e462"/>
+		<rom name="SOURCE\TODO.TXT" size="9" crc="7d3dee74" md5="9de3c24453e85b5d63d29a3bbf26129f" sha1="50e9138c8f0b9da305651849d7285632b5e5ff0f"/>
+		<rom name="SOURCE\VERCOUNT.TXT" size="5" crc="d40e3061" md5="de8ecdc8d122b365a0935adad2bc6fe1" sha1="79a556a54201258d68e961102abf3604fbd31c88"/>
+		<rom name="X" size="4677" crc="53e77000" md5="5089e56f75cb9388db00f8841ae666c0" sha1="e6613dbf60894cbcdf952bb7086ec026f04337de"/>
+		<rom name="ZIPALL.BAT" size="138" crc="6f2e3865" md5="404c3bed0b6e2295fbddbaf8e95581fd" sha1="79e9f4d5f839d1cd3b63d01c305fb1df9f14f4af"/>
+		<rom name="ZIPSRC.BAT" size="301" crc="36a7ae30" md5="5d0f0421c24e0121ea766cd97f68da28" sha1="4945f295e97cdfacea057306288705f608768326"/>
+	</game>
+	<game name="Box World v1.0 (1997)(Wingbermuehle, Joe)">
+		<description>Box World v1.0 (1997)(Wingbermuehle, Joe)</description>
+		<rom name="boxworld.asm" size="7268" crc="3a8e377b" md5="5f2091c7d54d8f96ab508f53fdddd9f1" sha1="6d291ee0cadca0f717953df002402d0894a5107c"/>
+	</game>
+	<game name="Boxe &amp; Bombs v1 (2000)(Cullan, Ryan)">
+		<description>Boxe &amp; Bombs v1 (2000)(Cullan, Ryan)</description>
+		<rom name="XSZ80BB1.Z80" size="52623" crc="100b5129" md5="82057a2a06cc30a31110fdadf2650a75" sha1="2096672120752669bff007e1f9ba5815df3aa72c"/>
+	</game>
+	<game name="CALCnet Server Driver v0.5 (2003)(Martian, Kerm)(beta)">
+		<description>CALCnet Server Driver v0.5 (2003)(Martian, Kerm)(beta)</description>
+		<rom name="logo.gif" size="1227" crc="afa93728" md5="77caff023cd43c4c21e4b7a852c3a80f" sha1="22e6934940dbbb7e0097ce7f3f1948ab13e6d42c"/>
+		<rom name="logo_inverse.gif" size="1227" crc="2d28d6c2" md5="b64873858f7600ce1d89f7721998b63a" sha1="6a0ee5ac98d6e1d1934c4e4f9f7ed4840d326b28"/>
+		<rom name="logo_small.gif" size="983" crc="fdb59955" md5="3ced71e29f541ff27ecd32095891d1d7" sha1="69c68fbedbd3e64941764d13806d98639ee71117"/>
+		<rom name="logo_small_inverse.gif" size="983" crc="b5f6a2a6" md5="a623766766909b5bf751b0ba341ce71b" sha1="13293f2a17b6f54f1c90457e69b77e90214a5db0"/>
+		<rom name="readme.html" size="4040" crc="da91b28e" md5="7317f849794cd40d606a2ca5dea070f2" sha1="aa7843881c4eb0404f180dac64901b6fe841de29"/>
+		<rom name="trillion_inverse.gif" size="1214" crc="dd3a3f4b" md5="1ec78b8e86cc0cff227a9f5f9c71205e" sha1="b02a73e9d6c7ed5afd5fb2e30578f7ae724b9c9c"/>
+		<rom name="trillion_small.gif" size="982" crc="0d810640" md5="c6a247a34bc237cf33fff22752bdd739" sha1="0213093e0ff35c98f418931c1ba9f11b77f34f41"/>
+		<rom name="trillion_small_inverse.gif" size="982" crc="0494ca82" md5="81ce9825217207ec5b1182f51154e8f3" sha1="60f1bbe436c6c1231dce6bcf511378060c0d6c05"/>
+		<rom name="ZCNETSVR_source.txt" size="13522" crc="c70949a9" md5="bbc7bfdfa71da71714a897c90a3756f8" sha1="e7ea52b83e4794744a8ce99c628aa9840c4c3fed"/>
+	</game>
+	<game name="Calcoff v1.0 (1997)(-)">
+		<description>Calcoff v1.0 (1997)(-)</description>
+		<rom name="calcoff.z80" size="469" crc="3de2f93c" md5="0aeb2fd3c0dee6c8ee83dd3576a4aadb" sha1="8cc370d5fc680ff038f54b8e1a561d31123e354d"/>
+	</game>
+	<game name="Capture 83 v1.2 (1998)(Graf, Ian)">
+		<description>Capture 83 v1.2 (1998)(Graf, Ian)</description>
+		<rom name="CAPTURE.INC" size="436" crc="db9f59be" md5="dc2d76bcccb6a7bd5de13b45f04990c2" sha1="7fdaf239d2e8a273b41cfb5d8630c0a2ba28f22b"/>
+		<rom name="ZCAPTURE.Z80" size="7912" crc="8fc29032" md5="41d561606fcb5bf56f635d71da456402" sha1="c88154ca93cb8c1b725822cb91a5a5d6987d773f"/>
+	</game>
+	<game name="Centipede Demo (1997)(-)">
+		<description>Centipede Demo (1997)(-)</description>
+		<rom name="ZCPDSPR.Z80" size="12524" crc="8f07b01d" md5="6d260fdf8e1c1bcece8260c4036efb52" sha1="d7b4635b7e5475e09d976f0e06c9a6c947371154"/>
+		<rom name="ZCPEDE.Z80" size="3647" crc="734fda91" md5="79535cfccff17212867a15fb0e5f2ce6" sha1="091aaed3d5c1eec0dd31a48d1bdfc74fff13ce01"/>
+	</game>
+	<game name="Chameleon v1.1 (1998)(Lindberg, Shawn)">
+		<description>Chameleon v1.1 (1998)(Lindberg, Shawn)</description>
+		<rom name="chamel.asm" size="6529" crc="92924342" md5="892d5f41d02e39c192288b2c06a7e0b1" sha1="01f5df74ee88c19da4c6ba9ce8e8490358a1d719"/>
+	</game>
+	<game name="Char (1997)(Billois, Gerome)">
+		<description>Char (1997)(Billois, Gerome)</description>
+		<rom name="char.z80" size="1664" crc="f0b542e7" md5="4931b1807e2ee13d7acf7d8c9e07c13b" sha1="31784138a9f6f8b620f1934156a385e744866976"/>
+	</game>
+	<game name="Conic Graphing (2000)(Dalton, Stephen)">
+		<description>Conic Graphing (2000)(Dalton, Stephen)</description>
+		<rom name="Stephen's Conic Graphing Program Source Code.txt" size="3437" crc="6d908a81" md5="3bd15a9ee48cf02ae82a0b85e478fdb4" sha1="7e7ab1c064a7263e2cd4b372c1d7d399511978d7"/>
+	</game>
+	<game name="Contrast Wizard v1.0 (1997)(von Dollen, Andrew)">
+		<description>Contrast Wizard v1.0 (1997)(von Dollen, Andrew)</description>
+		<rom name="cont83.z80" size="2946" crc="82cd3f21" md5="cd317bbc9830a0a637c7eddc426c0f52" sha1="1083f16a3450097a2d1b0c9ab8a20dc11e038b95"/>
+	</game>
+	<game name="Delprog v1.01 (1997)(Eriksson, David)">
+		<description>Delprog v1.01 (1997)(Eriksson, David)</description>
+		<rom name="delprog.z80" size="960" crc="96fde788" md5="f35f6ff94ae5d629775bba3c52a4fca1" sha1="3ad4564249e7ae210b28022471ed8d42a022f5b0"/>
+	</game>
+	<game name="Direct Input v3.0 (2002)(van Nuffel, Pieter)">
+		<description>Direct Input v3.0 (2002)(van Nuffel, Pieter)</description>
+		<rom name="direct.83p" size="84" crc="b62ceb06" md5="de71af91c96217bd94cd7c8b3eb6240d" sha1="9fa1e35ab77770c603c3f5e589526cb2e51d2419"/>
+		<rom name="readme.txt" size="777" crc="3bed0627" md5="3bf84f9e47a3ce1ac429f618cb1d7745" sha1="c316dc914ac9bdff17d162eed1c1821ab1e577d2"/>
+		<rom name="ZDIRECT.83P" size="533" crc="f7363ed2" md5="e9ec07dacb02811d028233cd1749e0ec" sha1="5e71f4178763f650e5785901a9fa3c758b7ede41"/>
+		<rom name="zdirect.z80" size="1726" crc="fae12c72" md5="d0652aa35da3ef1c95b8fbca8b936680" sha1="1aab4c554de1f86b09c89085d197149327d3932e"/>
+	</game>
+	<game name="FastRace v1.0 (2002)(Martian, Kerm)">
+		<description>FastRace v1.0 (2002)(Martian, Kerm)</description>
+		<rom name="FASTRACE.txt" size="1203" crc="650301ec" md5="0c99db5a71c4dad145bf68659b3e3c97" sha1="ca37f0526ec724630a38afc09d5ba10721c2b0dd"/>
+		<rom name="readme.text.txt" size="524" crc="65f94057" md5="24d3b9e833c16fb9b6f3976269e98b20" sha1="8467de316d1ddf545013faf06cc38fa9ac3935b1"/>
+	</game>
+	<game name="PrList v3.14 (2009-01-10)(Tiberg, Anders)">
+		<description>PrList v3.14 (2009-01-10)(Tiberg, Anders)</description>
+		<rom name="PrList v3.14.txt" size="11914" crc="731e5bf6" md5="bf57089c0637279b3aa20124f5b18442" sha1="0e71dd2f768fef17f396daa44acae8df9b22c8a9"/>
+	</game>
+	<game name="Screensaver 1 - Name Mover (2002)(Martian, Kerm)">
+		<description>Screensaver 1 - Name Mover (2002)(Martian, Kerm)</description>
+		<rom name="Screensaver1 source.doc" size="19456" crc="4da2579c" md5="a2679dba232a96cc04d5acbf49f26e59" sha1="cfa738d1fbee72842d3a2ed9ca0ac23da09c9cce"/>
+		<rom name="Screensaver1 source.txt" size="398" crc="3351b657" md5="4f25a9053437eb6310104f15057ab0e9" sha1="480e7d94961f71950f58e6563b3990202dc4b53a"/>
+	</game>
+</datafile>

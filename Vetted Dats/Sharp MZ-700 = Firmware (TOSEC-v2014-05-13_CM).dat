@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sharp MZ-700 - Firmware</name>
+		<description>Sharp MZ-700 - Firmware (TOSEC-v2014-05-13)</description>
+		<category>TOSEC</category>
+		<version>2014-05-13</version>
+		<author>Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Sharp MZ-700 BIOS (19xx)(Sharp)">
+		<description>Sharp MZ-700 BIOS (19xx)(Sharp)</description>
+		<rom name="Sharp MZ-700 BIOS (19xx)(Sharp).bin" size="4096" crc="d6b68a67" md5="daa1bc92e61725141409ab14a8f8e656" sha1="0c6d5e0d5e9d67a19db49dbbe55482d2d482870c"/>
+	</game>
+	<game name="Sharp MZ-700 BIOS (19xx)(Sharp)(JP)">
+		<description>Sharp MZ-700 BIOS (19xx)(Sharp)(JP)</description>
+		<rom name="Sharp MZ-700 BIOS (19xx)(Sharp)(JP).bin" size="4096" crc="697ec121" md5="e3affd9437d6c899cb702357af828147" sha1="5eb1d42d273b1fd2cab120486279ab8ff6c85dc7"/>
+	</game>
+	<game name="Sharp MZ-700 Monitor ROM (19xx)(-)(EU)">
+		<description>Sharp MZ-700 Monitor ROM (19xx)(-)(EU)</description>
+		<rom name="Sharp MZ-700 Monitor ROM (19xx)(-)(EU).bin" size="4096" crc="4c6c6b7b" md5="27990ced7cb97dd80356f517aa705010" sha1="ef8f7399e86c1dc638a5cb83efdb73369c2b5735"/>
+	</game>
+	<game name="Sharp MZ-700 MZ-1E05 Floppy Disk Interface Card ROM (19xx)(-)">
+		<description>Sharp MZ-700 MZ-1E05 Floppy Disk Interface Card ROM (19xx)(-)</description>
+		<rom name="Sharp MZ-700 MZ-1E05 Floppy Disk Interface Card ROM (19xx)(-).bin" size="4096" crc="6bd86d01" md5="af4bdb8c11ea2e97132753289d61fc6d" sha1="8e9ba9ae25b1e527857862656f626fcf2d015401"/>
+	</game>
+	<game name="Sharp MZ-700 MZ-1E14 Quick Disk Interface Card ROM (19xx)(-)">
+		<description>Sharp MZ-700 MZ-1E14 Quick Disk Interface Card ROM (19xx)(-)</description>
+		<rom name="Sharp MZ-700 MZ-1E14 Quick Disk Interface Card ROM (19xx)(-).bin" size="4096" crc="7f1ea53a" md5="8a47670c4fa598704655aa91daee02a7" sha1="480abdb2c36def1c9ae50ae95e70a6b8d91b2575"/>
+	</game>
+	<game name="Sharp MZ-700 MZ-1R12 RAM Extension Card ROM (19xx)(-)">
+		<description>Sharp MZ-700 MZ-1R12 RAM Extension Card ROM (19xx)(-)</description>
+		<rom name="Sharp MZ-700 MZ-1R12 RAM Extension Card ROM (19xx)(-).bin" size="4096" crc="d669aad2" md5="b12a53f77fe81659366a8ebc2fc9fc48" sha1="986eb93b8431835e8da7ad1e62a170424c284abb"/>
+	</game>
+</datafile>

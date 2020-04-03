@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation - Demos - [Multipart]</name>
+		<description>Sony PlayStation - Demos - [Multipart] (TOSEC-v2012-09-08)</description>
+		<category>TOSEC-ISO</category>
+		<version>2012-09-08</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Jazz (2000)(TZT)(PD)">
+		<description>Jazz (2000)(TZT)(PD)</description>
+		<rom name="JAZZ.EXE" size="894976" crc="c834c1f9" md5="4cd3e67fcdfcdecde04e59c7c433ad0a" sha1="9a4b988ee45db40970ef78ce838ae6a0f59c4e9e"/>
+		<rom name="JAZZTRAC.WAV" size="24873368" crc="ec435a06" md5="89da3db5c49eafc4c4853112609f681c" sha1="7287c7761f31531f0c33eeb6c581eabbea963cc0"/>
+		<rom name="SYSTEM.CNF" size="65" crc="6bd2ea54" md5="6f9041e297ad34e4ab0e0140303f08a5" sha1="2f53ca878e54dfde72b3cdc56ea61c8d1b475952"/>
+	</game>
+	<game name="Minimum (2000)(Hitmen)(PD)">
+		<description>Minimum (2000)(Hitmen)(PD)</description>
+		<rom name="SYSTEM.CNF" size="69" crc="27abb126" md5="747d8a09c58408c2ab65558a64c0c351" sha1="2997553d40e48487d2b31757423c23b6df10b551"/>
+		<rom name="WURST2K.EXE" size="1075200" crc="621dc244" md5="bab0c38ad047de51346a64a1e32ccdc8" sha1="826b0946d6ac98b9ea572b708f1cb696b7c3bb76"/>
+	</game>
+	<game name="Numero Uno (1998)(Hitmen)(PD)">
+		<description>Numero Uno (1998)(Hitmen)(PD)</description>
+		<rom name="1.1ST" size="177992" crc="b4c5930f" md5="96dc3d64a7bd4b1d957aae9b01b85692" sha1="c029189969541ffaec2a2fe856fb7b75f0fb8611"/>
+		<rom name="2.1ST" size="131092" crc="27a4297f" md5="f44b29e53784af6386d7f3625398d490" sha1="67bef88e2d1cba14c7012980d831786d5db424db"/>
+		<rom name="3.1st" size="94208" crc="9854f46c" md5="ae0e718bc8eec1b0cb13f31e7f930ddd" sha1="7ea0d2799b62cb6a37c1220783f8bf1ee9186833"/>
+		<rom name="START.BAT" size="1159" crc="2d07c443" md5="82dfe0abdef7b8d6f4fac3eff83b645d" sha1="e11a3cd87b720009bf18c203046267dd2440348a"/>
+	</game>
+	<game name="Organakkumulator (1999)(Haujobb)(PD)">
+		<description>Organakkumulator (1999)(Haujobb)(PD)</description>
+		<rom name="BODEN.TIM" size="16928" crc="8e4723f2" md5="be22fb679942ab02f3370eb05e54ac64" sha1="d1e919965b8b05a10fc5849c224ebde3f85415cd"/>
+		<rom name="ENV21.TIM" size="16928" crc="522b770d" md5="2d90b09b076cb4e80f8d63700b9bdcdc" sha1="ec45ddef84fce27f4065ece2961ddb8b531832db"/>
+		<rom name="FACE.TIM" size="16928" crc="cd72d7cb" md5="8f1fea56eee58f9b8b0eae62bd8d57e2" sha1="b6035f90b04aede418aa488cb6d847206d56468a"/>
+		<rom name="FLARE.TIM" size="8212" crc="52bdc26d" md5="48b2313e16051c677cbea6b4366d5c4b" sha1="f4e46db6d3860ce560fa33f87809198a6997c0f4"/>
+		<rom name="HAND.TIM" size="16928" crc="69321c6a" md5="1e95f3cfb6ffa6ab73b6d417c63475db" sha1="117a7d6196c52acfabf333d2b4f19aeb00abf8e0"/>
+		<rom name="LOADER.EXE" size="57344" crc="0a1e4124" md5="9a475768ff4140e79dd0f6b0aee8b882" sha1="e505fa04af445bc0549f092a921df0cfe4510811"/>
+		<rom name="LOGO2.TIM" size="8212" crc="5710c273" md5="f45d870fdd07e1f7840ef41d843a656f" sha1="3f4b4c21e0c0f0dd4db676f3fd866e9453a6dd22"/>
+		<rom name="MSTEIN.TIM" size="16928" crc="85fb9512" md5="72753c341ecf3895eb36ec9f3c79c442" sha1="e30c2c23b20c55660db25b91fd4da55d1dfd4b50"/>
+		<rom name="MTUNNEL.TIM" size="16928" crc="bc0b3bf3" md5="2671f762721b84221bfaa59391c75ccf" sha1="09f8e34d7f4b61216989df6994494ed5b49938e8"/>
+		<rom name="ORGON.EXE" size="1036288" crc="63cdf3a6" md5="b8d7fb300baee4eee8af88f2de3f04a2" sha1="a1618162ab5d14308bb29fb0fe68a8e54c13b7c8"/>
+		<rom name="ORGON.TIM" size="153620" crc="f55762f7" md5="f0ebcf12036ca83c79eb1282cc2e4d53" sha1="52cceb1a42d172664e95ff2737daa62cb3b966b1"/>
+		<rom name="PAL.TIM" size="153620" crc="675a6d51" md5="254723ede86ea2c72fb1f501e9121e8d" sha1="60883f23a2e50063f4cd1945a03dcc9cdfe8ee30"/>
+		<rom name="STEIN.TIM" size="16928" crc="2e537a1a" md5="4c92da9b0fe7ca2187ac18747aba0192" sha1="952b31987b76513c82a2055d762dd1c9f48665dd"/>
+		<rom name="SYSTEM.CNF" size="67" crc="2a1320c8" md5="74ed8a970f3b088f8239f6c9a1ff6371" sha1="5b476b7217fd49a82d89454da339e02d800bd7ab"/>
+		<rom name="TARN.TIM" size="16928" crc="05794d97" md5="e9d22e26eadf9b3b172af4a9c4449fbc" sha1="20e213eb532c587f2c747994514a2bc85ceb21a6"/>
+		<rom name="TBODEN.TIM" size="16928" crc="10e88650" md5="62693e92fe1912b69663908959711935" sha1="c7f00c86264d41fbfc1af53585454923f183c759"/>
+		<rom name="TUNNEL.TIM" size="16928" crc="594d444c" md5="3fbb95b96cc4deff1a73f2d093c5a555" sha1="a4659ad7418e2d5dc156f844154ab392b412ea8b"/>
+		<rom name="WAND.TIM" size="16928" crc="43b192e0" md5="ebf654da53c2946afca2ed9e27a33903" sha1="715c5f15f7a19303a17772f98f6d086c8d37f33e"/>
+	</game>
+	<game name="Pret a Porter (2001)(Fuzzion)(PD)">
+		<description>Pret a Porter (2001)(Fuzzion)(PD)</description>
+		<rom name="HITLICE.EXE" size="54505" crc="a8d1b6a2" md5="9b886a8479823f6ceb2fd9bdf8dcaea5" sha1="69523db6ac70c5f182aa8d47d1615e904247fb6d"/>
+		<rom name="MAIN.EXE" size="1173504" crc="4d525eea" md5="a083717f275a07bf669e7fbaac7afd54" sha1="74e3e1850457f4db9f6285a52b14f8767a16318e"/>
+		<rom name="SYSTEM.CNF" size="65" crc="fef55854" md5="5e1e7855f1ae984508ab754a38ff7fa2" sha1="3520214c2b73baecf0840a956a1fdad60a6237d5"/>
+	</game>
+	<game name="Roots, The (1999)(Hitmen)(PD)">
+		<description>Roots, The (1999)(Hitmen)(PD)</description>
+		<rom name="CAETLA.BAT" size="31" crc="b8c98e20" md5="2c3f78421cad2c5950decb093f66a766" sha1="f7054c88f90daea1762488de1b0a0fe973b163aa"/>
+		<rom name="EZORAY.BAT" size="32" crc="6df71c4b" md5="f470c10e67fdfc99a18181831955c5de" sha1="b95956326dde712c7329a4bedb64062ad3f13f6b"/>
+		<rom name="SYSTEM.CNF" size="67" crc="ec792c72" md5="4ba8efd4e414decc0eacddc99c0de3e3" sha1="efc6bc4efff4079a7532b6a44cbe3eb17e2cc09e"/>
+		<rom name="THEROOTS.EXE" size="1165312" crc="dd8b9325" md5="73767021fa5c7cfb384dfb561aaf78ba" sha1="1443731276a270d06d5ffd25c04b33d9733dd7c4"/>
+		<rom name="XLINK.BAT" size="33" crc="b91eb1f9" md5="a1835d1bff574be4f08bf07a690f091d" sha1="c9ddaf5413b709889040146f39178ded13af92c0"/>
+	</game>
+	<game name="Zambo's 1st (1998)(Hitmen)(PD)">
+		<description>Zambo's 1st (1998)(Hitmen)(PD)</description>
+		<rom name="1" size="131092" crc="e11fe52a" md5="f1d5d532095021fe970d19cfff57e998" sha1="dd93129817d9d82eaea968ab8feea62ea65251a2"/>
+		<rom name="2" size="115788" crc="b47c134d" md5="8adedf19bcb1c27498cad4fffbe76bb3" sha1="5baa05a068d40e6e0650a80ddf7848f8260a609d"/>
+		<rom name="3" size="77824" crc="86aea07e" md5="f47879a000ff0c4f0b1703076c52b1e5" sha1="f5fb9303ea9002b5847fba032ec1852dec5344fb"/>
+		<rom name="START.BAT" size="56" crc="566881b9" md5="6824e7290edf64f8d524263f310669a4" sha1="5a52101bf4174051e39b9bb64eae161a70db8a06"/>
+	</game>
+	<game name="Zambo's 2nd (1998)(Hitmen)(PD)">
+		<description>Zambo's 2nd (1998)(Hitmen)(PD)</description>
+		<rom name="1" size="148688" crc="da3229a8" md5="87fb76bb68b348def38528b94d1869a3" sha1="c72bc672f2b66436ac81d5cb7f9fd7be69ad8297"/>
+		<rom name="2" size="131092" crc="ee357193" md5="846ec3e7cc1e0ddd52b1f1567e242032" sha1="f5436b093ba8e0225bf8b3aeba4cb21d1b4f0a66"/>
+		<rom name="3" size="131092" crc="e714b113" md5="e7ca6ee39e6d7b5ed705c85130e61750" sha1="c3f6c4f2a077526d6eb470c45d9f492149bd352e"/>
+		<rom name="4" size="88064" crc="db622fe0" md5="183a90034d66751748707c7941825a63" sha1="d909557f7e4451de07f5b1577ffd3b144a821ade"/>
+		<rom name="START.BAT" size="99" crc="c7853ace" md5="f309b319d57552ee059705af25d56551" sha1="8a3a6c5e3adf81602e3fd80445582d10a1efbb49"/>
+	</game>
+</datafile>

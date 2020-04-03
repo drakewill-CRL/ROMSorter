@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore Amiga CDTV - Games - [MDF]</name>
+		<description>Commodore Amiga CDTV - Games - [MDF] (TOSEC-v2018-03-24)</description>
+		<category>TOSEC-ISO</category>
+		<version>2018-03-24</version>
+		<author>Tomse - TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+		<clrmamepro/>
+	</header>
+	<game name="Camel Racer (1998)(MMMGroup)[CD32-CDTV]">
+		<description>Camel Racer (1998)(MMMGroup)[CD32-CDTV]</description>
+		<rom name="Camel Racer (1998)(MMMGroup)[CD32-CDTV].mdf" size="132095376" crc="6c24fc9c" md5="334c02601728ff6f03c112ca366ef109" sha1="117c5c92919b58dc060cdac66130b9f9201597d7"/>
+		<rom name="Camel Racer (1998)(MMMGroup)[CD32-CDTV].mds" size="486" crc="dd2ce7c2" md5="467ae4821f8a088daa86a205e0d8d92e" sha1="07a16a8bb87540e83dd303574f1efa080219c5e4"/>
+	</game>
+</datafile>

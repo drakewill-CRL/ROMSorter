@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Keio University K-1 - Applications</name>
+		<description>Keio University K-1 - Applications (TOSEC-v2014-06-27)</description>
+		<category>TOSEC</category>
+		<version>2014-06-27</version>
+		<author>Grendel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="E Calculation (1996)(Seiichi Okoma)">
+		<description>E Calculation (1996)(Seiichi Okoma)</description>
+		<rom name="E.k1" size="2441" crc="5b9404eb" md5="e8c94f8ea7d6b8211b1992dab56a052a" sha1="775fa33db1885186ff82acf91284b0ba28ed553b"/>
+		<rom name="E.out" size="179" crc="d3d0b469" md5="bc4a5a79744d993af3e7b8cca1741a29" sha1="f274f122117a8d467783eafb2302450d03e74085"/>
+	</game>
+	<game name="Square Root By Newton Method - A Sample Program No.2 Of K-1 (1996)(Seiichi Okoma)">
+		<description>Square Root By Newton Method - A Sample Program No.2 Of K-1 (1996)(Seiichi Okoma)</description>
+		<rom name="Sqrtfix.k1" size="1391" crc="fd859861" md5="95fd1beb585184e81a242dfdab998f8c" sha1="b0b8610af34cf29f99e2cc7d37b42bc44e69f970"/>
+		<rom name="Sqrtfix.out" size="294" crc="fe2ffd85" md5="a3c8f550e1491aa5cbf125ab16791803" sha1="ab1e6ebbcdaea492ec11386a4822e5c78f7bcc27"/>
+	</game>
+	<game name="Square Root By Newton Method - A Sample Program No.3 Of K-1 (1996)(Seiichi Okoma)">
+		<description>Square Root By Newton Method - A Sample Program No.3 Of K-1 (1996)(Seiichi Okoma)</description>
+		<rom name="Sqrfloat.k1" size="2061" crc="8ee5e6f7" md5="32e0d44d9fc54f435665db3cf12324fe" sha1="e2af9a9b6d426fbd8a91c729d00553f28059b813"/>
+		<rom name="Sqrfloat.out" size="270" crc="fa35c380" md5="7fc785ce478cd9c516b08b27a216bd89" sha1="d3eef11b5bc015a4082d44d3e9e1abc5f3dd54f0"/>
+	</game>
+</datafile>

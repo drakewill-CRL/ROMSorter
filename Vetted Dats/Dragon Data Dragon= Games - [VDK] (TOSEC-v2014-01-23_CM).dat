@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Dragon Data Dragon - Games - [VDK]</name>
+		<description>Dragon Data Dragon - Games - [VDK] (TOSEC-v2014-01-23)</description>
+		<category>TOSEC</category>
+		<version>2014-01-23</version>
+		<author>Eldio - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Cuthbert Goes Walkabout (1984)(Microdeal)">
+		<description>Cuthbert Goes Walkabout (1984)(Microdeal)</description>
+		<rom name="Cuthbert Goes Walkabout (1984)(Microdeal).vdk" size="184344" crc="7a1266c4" md5="f2686e192f6a66810c522908e44af122" sha1="53d2d1a8c485ae3f4a8eb305e265a9d5e82668f2"/>
+	</game>
+	<game name="Dungeon Raid (1984)(Microdeal)">
+		<description>Dungeon Raid (1984)(Microdeal)</description>
+		<rom name="Dungeon Raid (1984)(Microdeal).vdk" size="184355" crc="74d2dde3" md5="1c1b9df281183208938323783891963d" sha1="73fa0b465733fbee2a68acb2c8a5da6fd16dbd23"/>
+	</game>
+	<game name="Speed Racer (1985)(Microdeal)">
+		<description>Speed Racer (1985)(Microdeal)</description>
+		<rom name="Speed Racer (1985)(Microdeal).vdk" size="184343" crc="ec98a1f4" md5="ac6122973a505111460ad3180a617eff" sha1="5c5164ace7034fbc4dff5c65fac3b5bb61a0b633"/>
+	</game>
+</datafile>

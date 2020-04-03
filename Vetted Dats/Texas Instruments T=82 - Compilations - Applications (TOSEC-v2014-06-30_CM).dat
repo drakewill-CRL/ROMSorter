@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Texas Instruments TI-82 - Compilations - Applications</name>
+		<description>Texas Instruments TI-82 - Compilations - Applications (TOSEC-v2014-06-30)</description>
+		<category>TOSEC</category>
+		<version>2014-06-30</version>
+		<author>Diaboł</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Calculus 1 and 2 Pack v1.2 (2002)(Wilson Ng)">
+		<description>Calculus 1 and 2 Pack v1.2 (2002)(Wilson Ng)</description>
+		<rom name="82calc\Algebra Formulas\algef.82p" size="1910" crc="6022c48b" md5="541eff3f3754062f788e8843b4d2210c" sha1="b738e5f25b37d76d419f10b9e738e78d4d389acd"/>
+		<rom name="82calc\Algebra Formulas\readme.txt" size="1133" crc="4fc23d19" md5="6bd384a3d97df473b8eac505b6fd47be" sha1="0748776b7c12c783f8a8b2a3e81b8c237371b06f"/>
+		<rom name="82calc\Determining Convergence\converge.82p" size="1182" crc="433b190b" md5="4f0a8039941888ec23faa3f94c137d08" sha1="fdfcc0f36c897e2f6a58ad6441cadcb631e05f30"/>
+		<rom name="82calc\Determining Convergence\readme.txt" size="934" crc="64d2b098" md5="0d9efee75733e08f5829c81c8e5c8fc2" sha1="07ad844a8aa29936dc5b7690541ddd2b86147aaa"/>
+		<rom name="82calc\Domain, Range, Derivatives, and Integrals\domainrg.82p" size="1810" crc="2b88fe0b" md5="95f2e298405874b45529944a8bf040ef" sha1="b4d9ed66814cb24c2b67b6515079a699e6a8b827"/>
+		<rom name="82calc\Domain, Range, Derivatives, and Integrals\readme.txt" size="806" crc="e46ada3b" md5="89fdad8b5452a6c695049d44a235de38" sha1="4e0dedf236eb7715945982f44c80779be04e84ee"/>
+		<rom name="82calc\Euler's Method\eulerg.82p" size="124" crc="bada35fa" md5="9f28d13ce574b7c01ae28121afcb7729" sha1="ace457e460db90efdac1c88149b414354bb3ceaa"/>
+		<rom name="82calc\Euler's Method\eulert.82p" size="171" crc="243d0946" md5="9dfb9428109d8016c522a009027538f8" sha1="d417fb007352490898431797d37b3a1e57566ef1"/>
+		<rom name="82calc\Euler's Method\eulm.82p" size="288" crc="7fe55d8e" md5="cf1133608272b5385c655a5bd3b35aff" sha1="3b1ea8a32a090ec461182e13ffa94792eb7633e0"/>
+		<rom name="82calc\Euler's Method\readme.txt" size="1483" crc="79aa59c4" md5="d8bdc71a1df4f9643bcc7be9a6214317" sha1="81201b80b0860e92544ba66eec5ff2463d6e67dc"/>
+		<rom name="82calc\Exact Value of Trig. Functions\exactv.82p" size="998" crc="8d860a7b" md5="5ddaf9c07dfc723f418b6f94200a96e7" sha1="e50e88babb6df99b610921ea2ca43696d8b4a996"/>
+		<rom name="82calc\Exact Value of Trig. Functions\readme.txt" size="1498" crc="5d53b260" md5="b511fbde3fe803654f5a18f0ba42e68f" sha1="6e699673359dbd828bfbdf089b99d0e9fe54375a"/>
+		<rom name="82calc\Geometry Formulas\geomf.82p" size="846" crc="ef07d66a" md5="e825808c5ad261e7d8acfb8e6340af62" sha1="9eb93386850ffcac4a945a1c05d078e7d9e50f5d"/>
+		<rom name="82calc\Geometry Formulas\readme.txt" size="1039" crc="e993b1b2" md5="f09fd107a30613044421c5a114c27f32" sha1="c7e2b4abff95d531c339307e2e18323655c52d19"/>
+		<rom name="82calc\Improved Euler's Method\ieulm.82p" size="291" crc="b463df10" md5="309206911f7423d0f8943b106247e899" sha1="9b9efa25f7a4d504860a9927b8cc98c00218a925"/>
+		<rom name="82calc\Improved Euler's Method\impeulg.82p" size="153" crc="dfaeed5f" md5="a6ea8fcb682a86fc9f87457b8b60b806" sha1="daa484cca7410df25a3cb313610aaf2ea47c13d3"/>
+		<rom name="82calc\Improved Euler's Method\impeult.82p" size="192" crc="db7f3948" md5="6f7456ac8c3d608a842c51643f0cca7c" sha1="f3a125c823bf5d1c663be863d97136bd2f89d21d"/>
+		<rom name="82calc\Improved Euler's Method\readme.txt" size="1481" crc="8bc2dd34" md5="ee5d2c5f49b29c690df72bb0c210d56b" sha1="7e32c59f9f1aff1a091e7a310f558200dae60bc5"/>
+		<rom name="82calc\Infinite Domain of Trig. Functions\dcos.82p" size="437" crc="f9f4a9f8" md5="c82984f29a67840d93df05f4b6f940b5" sha1="7bea58c329cacc1480de815d29770036b1114a94"/>
+		<rom name="82calc\Infinite Domain of Trig. Functions\dsin.82p" size="439" crc="18a6e554" md5="53280853ef19e458a0172563f7af7fca" sha1="d66e9bae51e0a49c80ab665b97cf509ee106b952"/>
+		<rom name="82calc\Infinite Domain of Trig. Functions\dtan.82p" size="329" crc="501d2504" md5="a325e749756ef97becffec7ed06e68ab" sha1="749b5455eb6cfb709c3db7735ea5d432ed25b65c"/>
+		<rom name="82calc\Infinite Domain of Trig. Functions\infin.82p" size="319" crc="6926a0a7" md5="9e4bbda264a5cc2157272f73a31a0d49" sha1="a3abe51e2155415d8a8c3e72abf70161f30b889a"/>
+		<rom name="82calc\Infinite Domain of Trig. Functions\readme.txt" size="1903" crc="c9b11025" md5="efc5c4b6b7689812e39cdb4ae4238758" sha1="2fecf0771983780cd15dd9df16b79ca9f8fe8529"/>
+		<rom name="82calc\Maclaurin Series\macserie.82p" size="764" crc="da31aa75" md5="2d3c2e6e7461e04f515ad91934ff46d3" sha1="272b5bab263278a595db0bceb2eff12cea4e44c0"/>
+		<rom name="82calc\Maclaurin Series\readme.txt" size="777" crc="24d649e9" md5="669ee6a24779debee63bb0c0c28459e3" sha1="fcdbf349e8468087b43ea22d0d2fa1f9958b0bcb"/>
+		<rom name="82calc\Newton's Method\newton.82p" size="259" crc="1de9a940" md5="3e91e212fb24d0fc5710a5c94785b933" sha1="b78a1c27d6938f36ea5def4ff9e35c0c6548a62e"/>
+		<rom name="82calc\Newton's Method\readme.txt" size="1273" crc="3517afbf" md5="cc2dc6ce7e74956254743361ccc85f08" sha1="b86d1e4edbedba91e97c76843d42aa3d411b2151"/>
+		<rom name="82calc\Partial Sums of a Recursive Series\psum.82p" size="305" crc="78359fc1" md5="90b0bed111e717e0bebc5cf35ab01cb4" sha1="c84473c88c812432604a95ea504622fc15984a95"/>
+		<rom name="82calc\Partial Sums of a Recursive Series\psumrecg.82p" size="117" crc="667d3b17" md5="134497f34454906f307f18fcc42083fd" sha1="eb6e3a7c82e7d82ca4870eec7175e8ee2b1ded1d"/>
+		<rom name="82calc\Partial Sums of a Recursive Series\psumrect.82p" size="169" crc="deb2f830" md5="4cfd1ffedbe949db9afb78448c64d7b1" sha1="f8bdb558fa0ce6240c1d7a53acf7f1bc0173fd59"/>
+		<rom name="82calc\Partial Sums of a Recursive Series\readme.txt" size="1423" crc="0456a408" md5="3c78c2de904b6c73dcfc0aa09482b8d4" sha1="0c2729df4be8f6dbf76c508d43f9b6b649ac257f"/>
+		<rom name="82calc\Projectile Motion\projecti.82p" size="1302" crc="ff798a09" md5="cb457af411ff9781095c1f86e0701e0a" sha1="37a1757aa3db5cab3e331e2f06abaf2ba11e78c8"/>
+		<rom name="82calc\Projectile Motion\readme.txt" size="1229" crc="15682456" md5="dc64bb2ecce2dcd60e320b485e585fc4" sha1="69f291a419a398262b7ff04adfdd26a8337cd09d"/>
+		<rom name="82calc\RAM and Trapezoid\est.82p" size="296" crc="ade6ce85" md5="749b7c863e83a177ec8ca97bc4aa1eb0" sha1="c60a023af6cf3ba1719e726932429f16977cafbe"/>
+		<rom name="82calc\RAM and Trapezoid\ram.82p" size="215" crc="1980b4eb" md5="eeb3ace91e2e565ebbc272085b6501ce" sha1="74ab967d90d27d6c0843407e3876548d4a374cf5"/>
+		<rom name="82calc\RAM and Trapezoid\readme.txt" size="1319" crc="4f396e4a" md5="b74d528f78180cca2323b5968d235b72" sha1="cf9e34e96f5bd0247d348d07b373d2599da33869"/>
+		<rom name="82calc\RAM and Trapezoid\trap.82p" size="171" crc="920b9efe" md5="98616bcf62d57d3168688574ece8d7f5" sha1="4d69f53515077d244225cdcd2abf5a2d163e2633"/>
+		<rom name="82calc\RAM Graphs\area.82p" size="643" crc="dd02f9d1" md5="80edeaf7b46d9a2071398a5adf5d7c05" sha1="fe57c2ec2040f5662edbb985c136446acdf35c67"/>
+		<rom name="82calc\RAM Graphs\readme.txt" size="1250" crc="1ad94e09" md5="bf394ad0bf3498c66563dee95cf0a803" sha1="eb3ac445542cacf2b6ed29f4d9d86bef792a99e6"/>
+		<rom name="82calc\readme.txt" size="921" crc="a5373ffa" md5="b9ac2925fb3de412df8764ee82f0425f" sha1="939104b274e734da81e314b38981c00c6a152918"/>
+		<rom name="82calc\Runge Kutta Method\readme.txt" size="1487" crc="f2f7b691" md5="1f6626564c6ed6f67915140ce7e39e82" sha1="ddfbc2239c3dc09e7cea966bce6532a1e9554f08"/>
+		<rom name="82calc\Runge Kutta Method\runkm.82p" size="288" crc="52ec27dd" md5="9735b29c37915fda5cb854cb760a1da3" sha1="bc5eaa5537cfe2e66a8427c9df15d68f3cd4f778"/>
+		<rom name="82calc\Runge Kutta Method\runkutg.82p" size="202" crc="f40cf3b7" md5="d540b9e6f495f7cf11e021b1d986b03d" sha1="f9c4ab067725380e55f11d7a070cce216314012b"/>
+		<rom name="82calc\Runge Kutta Method\runkutt.82p" size="237" crc="eb05d568" md5="118c4f5bea2d4599197d2be64dbca5f5" sha1="c3a4d0a0c32e6e40c6838cb59a982084680c7250"/>
+		<rom name="82calc\Slopefield\readme.txt" size="1156" crc="8df4264f" md5="bd3376345d23e11eae7cef5b29f33b84" sha1="416c994c6e81d479714886918c871e2368765c94"/>
+		<rom name="82calc\Slopefield\slopefld.82p" size="412" crc="b22730db" md5="254dad2d0ee752585080d9c7788771c3" sha1="78c15ac840e7dca53f2a851fde40031771819cc5"/>
+		<rom name="82calc\Trigonometry Formulas\readme.txt" size="807" crc="fb501de1" md5="8fb70c5f0a35b4ae03e67abdd0429403" sha1="e08c7234d18be7e33bd6e8c98a8832f78f1c4363"/>
+		<rom name="82calc\Trigonometry Formulas\trigf.82p" size="1370" crc="e5b8df8b" md5="668a932f7816e0f098b24ca5e43ba476" sha1="d77d934df5958dd72ece00fed578a0ee50d4793e"/>
+		<rom name="82calc\Volume and Rotation of a Solid\readme.txt" size="3441" crc="26ef9aaf" md5="8793a42f3e8660c1c63db82e729aa4bb" sha1="9ddc4e6810d03bf6ddbed9e89ec4310c92b17b59"/>
+		<rom name="82calc\Volume and Rotation of a Solid\volume.82p" size="947" crc="362c4c6c" md5="dda02d0347d99264b7749f990961f6ba" sha1="b7653d38b33aa62d15d5b8ae8cd3d11b87cdccfa"/>
+	</game>
+	<game name="Eric Ries' Miscellaneous Programs (1998)(Ries, Eric)">
+		<description>Eric Ries' Miscellaneous Programs (1998)(Ries, Eric)</description>
+		<rom name="ERMISC.82G" size="1024" crc="34e3ae61" md5="f35db82a8b7d8fd24b6e240b19e187e8" sha1="129a772338b789a422f8ce15cd519b188c01e69a"/>
+	</game>
+	<game name="Gram-Schmidt Orthogonalization (1998)(Wossum, Geoffrey)[with source code]">
+		<description>Gram-Schmidt Orthogonalization (1998)(Wossum, Geoffrey)[with source code]</description>
+		<rom name="GS.TXT" size="4896" crc="819ab684" md5="e6df80bed6c45cc628e99d14c7121e93" sha1="94065aebaaa563c584331906e2427d90980bc6ee"/>
+		<rom name="GS4POLY.82P" size="855" crc="59aa48ff" md5="e7efb18ed3de21b9dcb2ff46a7b25942" sha1="50ac3d796d7a3d6374c1a2d8b7e057166a78eef9"/>
+		<rom name="GS4POLY.SRC" size="2225" crc="4e4682c1" md5="5a841ef9b2db59bba9879666354ea49a" sha1="0dfab90f2b4d1f3c6754d671a1c688bb19fcebdb"/>
+		<rom name="GS4VECT.82P" size="246" crc="f09b0f88" md5="b576a919941fc4a13aba7bf75dda18c0" sha1="d044be5fe72266afebb981669f59b91be185fffe"/>
+		<rom name="GS4VECT.SRC" size="1358" crc="899ba348" md5="dd8d28e4e56f248a5d928060e7b5eaf1" sha1="4a76990187fe70681d3e31380a398a8810b8f8f9"/>
+	</game>
+	<game name="IBM Pac (1998)(Dinosoft)">
+		<description>IBM Pac (1998)(Dinosoft)</description>
+		<rom name="A1SOLVER\A1SOLVER.82G" size="17041" crc="3b305ea2" md5="88a14a27de5614bccf71839ed4270d6d" sha1="efcb7d36753c90e996fb14a2468cade9aab324ad"/>
+		<rom name="A1SOLVER\A1SOLVER.DOC" size="20107" crc="f9d8a08a" md5="716c89bb9719a2d4e002dd06ea946992" sha1="35f97be893a486971850e9628c0ff2620b73c726"/>
+		<rom name="CRUCIAL.DOC" size="5632" crc="3be9c3a0" md5="943622850dea39adf39cd9ab3a24e68e" sha1="6d3e208341d1a5752b7c83fd356a810d71aa287b"/>
+		<rom name="MINIGRAF\MINIGRAF.82G" size="8755" crc="d0dcdcf6" md5="26413bf5b4f82a2872d11070e9ce24c2" sha1="c5fcdea69b13c5e34cd5ed1685c5607bd5a4f88b"/>
+		<rom name="MINIGRAF\MINIGRAF.DOC" size="41472" crc="65eeab9f" md5="88b85824a04534dd3ee71f65b74af7e0" sha1="3f478a98d1e7f8cae8e2f110bd035d66dc7c2550"/>
+		<rom name="README.DOC" size="3584" crc="18a77096" md5="ae8f6e05a146daa54c0c98cbe1c3a2b0" sha1="d43284da93c02dae6ec219f9e95b729cff72e656"/>
+		<rom name="STARGATE\EDITOR.82G" size="4745" crc="0a56057b" md5="55bf361e72b477b3518973f1ad39bbb5" sha1="8608e25cf64794eb740f14fa9682206e5d73566e"/>
+		<rom name="STARGATE\LEVELS.82G" size="6286" crc="0fd99ee4" md5="037e0d87c59b2bd761e86fe46a28c8c0" sha1="35f65492a2dc562404542b73f7e5efc02486da5f"/>
+		<rom name="STARGATE\STARGATE.82G" size="11152" crc="926058e9" md5="fc6fc6be582d92f5f8546f6ba60284ad" sha1="086f53954343ed2afe5c696eeb8c9dae7d6bcadb"/>
+		<rom name="STARGATE\STARGATE.DIZ" size="4298" crc="ab5ea9d7" md5="c23c4c228bef59b769c917d62f1bb94d" sha1="a11208f9c20aeab131ae3d25bfb22e233f0bdccf"/>
+		<rom name="STARGATE\STARGATE.DOC" size="5632" crc="488b537b" md5="0eaf02d581374c1679fb79c9b87253bc" sha1="d514004e125c811c9abae8db5e408cd35d3f8a7d"/>
+		<rom name="ZRESET.82P" size="689" crc="e7377921" md5="f74c1b8017676b665553e79090e055f9" sha1="ac0a3e06f54b389fc0a11b19d927df7426e8ab19"/>
+	</game>
+	<game name="Random Software Grab Bag (2003)(Millar, Paul)">
+		<description>Random Software Grab Bag (2003)(Millar, Paul)</description>
+		<rom name=".DS_Store" size="6148" crc="bedf38d6" md5="89acc587ad49dd89edaebc665f5bc56e" sha1="2308217d8fe0018b99551d3b953c4985830f122b"/>
+		<rom name="CATCALC.82P" size="200" crc="6bd13e94" md5="7e8eab5c7644cada3a5fc52bbc2091bc" sha1="ac9f289447b00adeb8e8f0c1bc25189b1163f2bb"/>
+		<rom name="FIXGRAPH.82P" size="84" crc="a74fd8d8" md5="bab825fef31a5799873a74325b7e1124" sha1="9cc0c98971d5004e5dbdfdfcf143564b2e167671"/>
+		<rom name="HUNDRED.82P" size="92" crc="dd0dda28" md5="e1b07430187a43578d03f61af232c540" sha1="0a704832f538daf32a7e48f8cc4c75eecefcb46b"/>
+		<rom name="MOORE.82P" size="138" crc="3896178a" md5="d6105cf2b584f57c490974dfb72034df" sha1="2c8d13e07dc72b702c29b25982cdee22ca539c32"/>
+		<rom name="NGONAL.82P" size="172" crc="a359d33a" md5="72496f074758539fe350aab3e0b3637f" sha1="75a27575c9d55d2a19ceeb984ce0b5a47b1fcb62"/>
+		<rom name="readme.txt" size="425" crc="ed8fc2f3" md5="0ba2caf978a1aaee1b9917d037a2a4c2" sha1="9dc4a8b262de33952823e6a746d2ebdaff95665c"/>
+		<rom name="TRINUM.82P" size="103" crc="aea5247c" md5="a056dd76d7391b23ad473f96887e8ffc" sha1="7ec895f7ce7ad86b7c1be9273fd8bb318a599390"/>
+	</game>
+	<game name="TI-82 Statistical Programs (1998)(Lloyd, Michael)(FW)">
+		<description>TI-82 Statistical Programs (1998)(Lloyd, Michael)(FW)</description>
+		<rom name="STATS.82G" size="2882" crc="7c5738ce" md5="dd14e10b2506823876f2b45fd18eab70" sha1="63b379c87a8be74419cd21126c13916f2c620d89"/>
+		<rom name="STATS.TXT" size="1270" crc="901ced09" md5="7110199f8416256f5dc5bc471a088e8e" sha1="2a3df4fe5197e6e1a77d71bba51451b5730a1ef2"/>
+	</game>
+</datafile>

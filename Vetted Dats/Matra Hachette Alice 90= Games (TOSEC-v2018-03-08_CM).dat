@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Matra Hachette Alice 90 - Games</name>
+		<description>Matra Hachette Alice 90 - Games (TOSEC-v2018-03-08)</description>
+		<category>TOSEC</category>
+		<version>2018-03-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Fringale (1985)(Matra Datasysteme)(FR)">
+		<description>Fringale (1985)(Matra Datasysteme)(FR)</description>
+		<rom name="Fringale (1985)(Matra Datasysteme)(FR).k7" size="52953" crc="b55fa035" md5="5e03cda8780c96d043d05a57e4b7701d" sha1="f3c1e95a434d3e11905952caed3210addf319eee"/>
+	</game>
+	<game name="Galixian (1984)(Sprites)(FR)">
+		<description>Galixian (1984)(Sprites)(FR)</description>
+		<rom name="Galixian (1984)(Sprites)(FR).k7" size="20961" crc="1af30fd8" md5="025ca7db8f934c0a6f05b062ccdb639d" sha1="e875da577e24b1ed020df559816924e0a447d471"/>
+	</game>
+	<game name="Monopolic (1985)(Matra Datasysteme)(FR)">
+		<description>Monopolic (1985)(Matra Datasysteme)(FR)</description>
+		<rom name="Monopolic (1985)(Matra Datasysteme)(FR).k7" size="41119" crc="c9f1ab62" md5="095fe6158d00e0160d4c7697e3de17b3" sha1="003e66698cf5538e62bf8cee5d6bebcdb16c7c3f"/>
+	</game>
+	<game name="Plan de Vol (1985)(Matra Datasysteme)(FR)">
+		<description>Plan de Vol (1985)(Matra Datasysteme)(FR)</description>
+		<rom name="Plan de Vol (1985)(Matra Datasysteme)(FR).k7" size="19968" crc="ec0838be" md5="2896c212cd48abe3bf3203a0b515341c" sha1="335f775e45b84fb15c142440eaee12649637210b"/>
+	</game>
+</datafile>

@@ -1,0 +1,2192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore VIC20 - Games - [CRT] - Singlepart</name>
+		<description>Commodore VIC20 - Games - [CRT] - Singlepart (TOSEC-v2017-10-23)</description>
+		<category>TOSEC</category>
+		<version>2017-10-23</version>
+		<author>Tomse - Vicman - AntiPontifex - Apache - DesertWolf - BuckyB - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+		<clrmamepro/>
+	</header>
+	<game name="Adventureland (1981)(Commodore)[b][a][SYS 32592][4000]">
+		<description>Adventureland (1981)(Commodore)[b][a][SYS 32592][4000]</description>
+		<rom name="Adventureland (1981)(Commodore)[b][a][SYS 32592][4000].crt" size="16384" crc="47c59df4" md5="808e6b1a692ec345c9f0e4d87d21f49d" sha1="cb29d160672d9c4383bc2549909bc6f5a059dc5d"/>
+	</game>
+	<game name="Adventureland (1981)(Commodore)[b][SYS 32592][4000]">
+		<description>Adventureland (1981)(Commodore)[b][SYS 32592][4000]</description>
+		<rom name="Adventureland (1981)(Commodore)[b][SYS 32592][4000].crt" size="16386" crc="144cf233" md5="37314d7e47d2a75c1fa2049058d57ecd" sha1="00ff9796ae43a8fe50e994d0afa51dfc6584e530"/>
+	</game>
+	<game name="AE (1982)(Broderbund)[6000]">
+		<description>AE (1982)(Broderbund)[6000]</description>
+		<rom name="AE (1982)(Broderbund)[6000].crt" size="16384" crc="29f2f0f9" md5="a771afb742e2d120cc8f5840646e1139" sha1="320b9d21dd99f9e9086387952905ec95c2339894"/>
+	</game>
+	<game name="Aggressor (1982)(HES)(NTSC)[A000]">
+		<description>Aggressor (1982)(HES)(NTSC)[A000]</description>
+		<rom name="Aggressor (1982)(HES)(NTSC)[A000].crt" size="8194" crc="6f4b76b6" md5="4715a104f7c45dbfbef9d873aa94f67f" sha1="77056194d8472f2a08a8aaa3a610fdbca1ad18ed"/>
+	</game>
+	<game name="Aggressor (1982)(HES)(NTSC)[a][A000]">
+		<description>Aggressor (1982)(HES)(NTSC)[a][A000]</description>
+		<rom name="Aggressor (1982)(HES)(NTSC)[a][A000].crt" size="8192" crc="505ba5ea" md5="581933b5fa5f2dcfbc6668730d8cee54" sha1="77e480f56259459a0654751efda1417a689d83c5"/>
+	</game>
+	<game name="Aggressor (1982)(HES)(PAL)[A000]">
+		<description>Aggressor (1982)(HES)(PAL)[A000]</description>
+		<rom name="Aggressor (1982)(HES)(PAL)[A000].crt" size="8194" crc="b90028f7" md5="90f30b8fd4d339347f61e19f952429e4" sha1="af07334086e7c0e6d2d1a04c357828dc115ebad7"/>
+	</game>
+	<game name="Aggressor (1982)(HES)(PAL)[a][A000]">
+		<description>Aggressor (1982)(HES)(PAL)[a][A000]</description>
+		<rom name="Aggressor (1982)(HES)(PAL)[a][A000].crt" size="8192" crc="8610fbab" md5="4b46ff491134e2b006e708e9b015ecd7" sha1="c89c75d5c543c68b429c7d7f98f68105464d3b19"/>
+	</game>
+	<game name="Alien Blitz (1981)(UMI)(NTSC)[A000]">
+		<description>Alien Blitz (1981)(UMI)(NTSC)[A000]</description>
+		<rom name="Alien Blitz (1981)(UMI)(NTSC)[A000].crt" size="4098" crc="abaea029" md5="9e773d59fa801d5bf0eb42076b4b22b3" sha1="3558e6e11c120136c5a303c335816e7d03b366af"/>
+	</game>
+	<game name="Alien Blitz (1981)(UMI)(NTSC)[a][A000]">
+		<description>Alien Blitz (1981)(UMI)(NTSC)[a][A000]</description>
+		<rom name="Alien Blitz (1981)(UMI)(NTSC)[a][A000].crt" size="4096" crc="b53d9458" md5="a79ae7afc49fb0d2a9a05bde7a9a8f68" sha1="f78fece59b9ff2f281489211cadef7d459c209b2"/>
+	</game>
+	<game name="Alien Blitz (1981)(UMI)(NTSC)[o][A000]">
+		<description>Alien Blitz (1981)(UMI)(NTSC)[o][A000]</description>
+		<rom name="Alien Blitz (1981)(UMI)(NTSC)[o][A000].crt" size="8194" crc="eb750d58" md5="92f1448f9b605f874db6bedf1fe8fa1d" sha1="d9508cd43e9238539c9284cee727889336110e6c"/>
+	</game>
+	<game name="Alien Sidestep (1983)(OEM)(NTSC)[A000]">
+		<description>Alien Sidestep (1983)(OEM)(NTSC)[A000]</description>
+		<rom name="Alien Sidestep (1983)(OEM)(NTSC)[A000].crt" size="4098" crc="320106a4" md5="f1648c8d40380e6f7ebd758923264949" sha1="f8e83f074af4d5a5b5ab4f28199dc1a03cd9d736"/>
+	</game>
+	<game name="Alien Sidestep (1983)(OEM)(NTSC)[a][A000]">
+		<description>Alien Sidestep (1983)(OEM)(NTSC)[a][A000]</description>
+		<rom name="Alien Sidestep (1983)(OEM)(NTSC)[a][A000].crt" size="4096" crc="2c9232d5" md5="0d541b36745ac9bc504436dec909d6b4" sha1="462e36e632e0091de18f23f6d44703e51eb553e7"/>
+	</game>
+	<game name="Alphabet Zoo (1982)(HES)(NTSC)[6000]">
+		<description>Alphabet Zoo (1982)(HES)(NTSC)[6000]</description>
+		<rom name="Alphabet Zoo (1982)(HES)(NTSC)[6000].crt" size="16384" crc="7e83dbeb" md5="74b1c6c28fb8422dc4992ea1ec4f1302" sha1="3745c97efccd2d418796ec8ef241213ba0b82aa8"/>
+	</game>
+	<game name="Amazing Maze (1983)(OEM)(NTSC-PAL)[A000]">
+		<description>Amazing Maze (1983)(OEM)(NTSC-PAL)[A000]</description>
+		<rom name="Amazing Maze (1983)(OEM)(NTSC-PAL)[A000].crt" size="4098" crc="fb9daa7c" md5="4735c4363b617e2cac21b8fcad030e93" sha1="f89eaa906480db3d1a89e1b347cf985be860d7e7"/>
+	</game>
+	<game name="Amazing Maze (1983)(OEM)(NTSC-PAL)[a2][A000]">
+		<description>Amazing Maze (1983)(OEM)(NTSC-PAL)[a2][A000]</description>
+		<rom name="Amazing Maze (1983)(OEM)(NTSC-PAL)[a2][A000].crt" size="4096" crc="d77c00f7" md5="016aeee5bd852cb8f6ba09c9bc754b0a" sha1="2e248c8758aa9d9077702ea59f84bcdb36d372f3"/>
+	</game>
+	<game name="Amazing Maze (1983)(OEM)(NTSC-PAL)[a3][A000]">
+		<description>Amazing Maze (1983)(OEM)(NTSC-PAL)[a3][A000]</description>
+		<rom name="Amazing Maze (1983)(OEM)(NTSC-PAL)[a3][A000].crt" size="4096" crc="e50e9e0d" md5="42ce1444406fd03364aa39ad1dbe1fab" sha1="b702f86e18eb51ffbe357b074ab27331b03671c7"/>
+	</game>
+	<game name="Amazing Maze (1983)(OEM)(NTSC-PAL)[a][A000]">
+		<description>Amazing Maze (1983)(OEM)(NTSC-PAL)[a][A000]</description>
+		<rom name="Amazing Maze (1983)(OEM)(NTSC-PAL)[a][A000].crt" size="4098" crc="c9ef3486" md5="ba450b268567cd796545952ed2d9807e" sha1="5b2cfc1e772b864fcf867847fcf17aa5422282c3"/>
+	</game>
+	<game name="Amazing Maze (1983)(OEM)(NTSC-PAL)[o][A000]">
+		<description>Amazing Maze (1983)(OEM)(NTSC-PAL)[o][A000]</description>
+		<rom name="Amazing Maze (1983)(OEM)(NTSC-PAL)[o][A000].crt" size="8194" crc="6f6b2462" md5="0fc6169bc984668ea02c9648a6de71a7" sha1="7ac149313dfff0cdba13be8fca7ecf8d13f1bcf3"/>
+	</game>
+	<game name="Amidar (1983)(Janke, F.)[b][A000]">
+		<description>Amidar (1983)(Janke, F.)[b][A000]</description>
+		<rom name="Amidar (1983)(Janke, F.)[b][A000].crt" size="8194" crc="d1ad4e34" md5="ef1723604ba226bf8ef5c91d6c3e3c7f" sha1="d55695ebd243ab4ab92dee9dec01530c3b2ba979"/>
+	</game>
+	<game name="Amidar (1983)(Janke, F.)[b][a][A000]">
+		<description>Amidar (1983)(Janke, F.)[b][a][A000]</description>
+		<rom name="Amidar (1983)(Janke, F.)[b][a][A000].crt" size="8192" crc="eebd9d68" md5="8de5c5b65f897e8c2766c332702299a5" sha1="b67ade8e5f09f68c1c31002250f0cca35940ee01"/>
+	</game>
+	<game name="Amok! (1981)(UMI)[A000]">
+		<description>Amok! (1981)(UMI)[A000]</description>
+		<rom name="Amok! (1981)(UMI)[A000].crt" size="4098" crc="69e0b97a" md5="41ca390cae81f488c2a7ecf0884b651a" sha1="992f6d0c1355728950bb506550f5043c45782be4"/>
+	</game>
+	<game name="Amok! (1981)(UMI)[a][A000]">
+		<description>Amok! (1981)(UMI)[a][A000]</description>
+		<rom name="Amok! (1981)(UMI)[a][A000].crt" size="4096" crc="77738d0b" md5="650c367b372c6c553e5a406efd3d3666" sha1="a354481bdc5411e07a446a8a41397e7237d9f198"/>
+	</game>
+	<game name="Amok! (1981)(UMI)[o][A000]">
+		<description>Amok! (1981)(UMI)[o][A000]</description>
+		<rom name="Amok! (1981)(UMI)[o][A000].crt" size="8194" crc="3baf7f30" md5="0221305843a45e6d0ce719bfd5cfed04" sha1="d7695e88aa228db67b277a856e555ef573cf96ee"/>
+	</game>
+	<game name="Ant Eater (1983)(Romox)(NTSC)[A000]">
+		<description>Ant Eater (1983)(Romox)(NTSC)[A000]</description>
+		<rom name="Ant Eater (1983)(Romox)(NTSC)[A000].crt" size="8194" crc="1b2e6783" md5="8604de7e9a3d9ce9cc6c20b1e2ace0ae" sha1="472286d969c851b443ff98dd44b978630c782d48"/>
+	</game>
+	<game name="Ape Escape (1982)(Spectravideo)[A000]">
+		<description>Ape Escape (1982)(Spectravideo)[A000]</description>
+		<rom name="Ape Escape (1982)(Spectravideo)[A000].crt" size="8194" crc="480e2cce" md5="9fc1b650367734ce2d1b7a33f613cd58" sha1="f3ee47d9e749cefcc08f9fda681f140b94e1d416"/>
+	</game>
+	<game name="Ape Escape (1982)(Spectravideo)[a2][A000]">
+		<description>Ape Escape (1982)(Spectravideo)[a2][A000]</description>
+		<rom name="Ape Escape (1982)(Spectravideo)[a2][A000].crt" size="8192" crc="771eff92" md5="118ab920bd299ec18917555b49abfa0e" sha1="81a6483ec3989586c6dc4442443ccabb3f4aafe7"/>
+	</game>
+	<game name="Ape Escape (1982)(Spectravideo)[a][A000]">
+		<description>Ape Escape (1982)(Spectravideo)[a][A000]</description>
+		<rom name="Ape Escape (1982)(Spectravideo)[a][A000].crt" size="8192" crc="b0c95726" md5="0065dfc58981c3535c61f92e44b46ac2" sha1="510b079fdfd1a025d3b9e2e48dd4c6336bf308be"/>
+	</game>
+	<game name="Ape Escape (1982)(Spectravideo)[o][A000]">
+		<description>Ape Escape (1982)(Spectravideo)[o][A000]</description>
+		<rom name="Ape Escape (1982)(Spectravideo)[o][A000].crt" size="8382" crc="4b70ccae" md5="aff31d040b9e9bcdcf94146a687cbc9e" sha1="3d6d63c6987348ff4e801dd4c528e7204395feac"/>
+	</game>
+	<game name="Apple Panic (1982)(Creative)(NTSC)[A000]">
+		<description>Apple Panic (1982)(Creative)(NTSC)[A000]</description>
+		<rom name="Apple Panic (1982)(Creative)(NTSC)[A000].crt" size="8194" crc="6add29d1" md5="b8cc0b1967813c588e46fd876420dc52" sha1="f5ef81843ab77cd8bfcd95636cd61e31c43ef948"/>
+	</game>
+	<game name="Apple Panic (1982)(Creative)(NTSC)[a][A000]">
+		<description>Apple Panic (1982)(Creative)(NTSC)[a][A000]</description>
+		<rom name="Apple Panic (1982)(Creative)(NTSC)[a][A000].crt" size="8192" crc="55cdfa8d" md5="7af08ce1dfde43515aca1bbe738f9fb7" sha1="c4e695ed97a287f2932da4b9961f43569f0fe5f0"/>
+	</game>
+	<game name="Apple Panic (1982)(Creative)(NTSC)[o][b][A000]">
+		<description>Apple Panic (1982)(Creative)(NTSC)[o][b][A000]</description>
+		<rom name="Apple Panic (1982)(Creative)(NTSC)[o][b][A000].crt" size="16384" crc="00598779" md5="5796c02d0d1c1cbe7e5b2f86a0c83e1b" sha1="a42db4ff2cba0f4b9fb51b9ca67cd5a7db1f2499"/>
+	</game>
+	<game name="Arachnoid (1982)(UMI)[6000]">
+		<description>Arachnoid (1982)(UMI)[6000]</description>
+		<rom name="Arachnoid (1982)(UMI)[6000].crt" size="16384" crc="08a72c73" md5="aee9686501007e32b7bcd91866c71a9c" sha1="d027ea94924e69e6469a2b4065ee49d11384f420"/>
+	</game>
+	<game name="Arachnoid (1982)(UMI)[A000]">
+		<description>Arachnoid (1982)(UMI)[A000]</description>
+		<rom name="Arachnoid (1982)(UMI)[A000].crt" size="16384" crc="8eeb88dc" md5="13116063fd29af84a6ade3991a857508" sha1="916fe4e7fbd522e5d02043df31a093c869b2886c"/>
+	</game>
+	<game name="Arcadia (1982)(Imagine)(PAL)[A000]">
+		<description>Arcadia (1982)(Imagine)(PAL)[A000]</description>
+		<rom name="Arcadia (1982)(Imagine)(PAL)[A000].crt" size="8194" crc="a1bc4cf7" md5="49c3f3e8fbaf8e446bdb265b9b8ff3e2" sha1="b4e8e33b962a049ecacac0b94eae2dded4b2e0ad"/>
+	</game>
+	<game name="Arcadia (1982)(Imagine)(PAL)[a][A000]">
+		<description>Arcadia (1982)(Imagine)(PAL)[a][A000]</description>
+		<rom name="Arcadia (1982)(Imagine)(PAL)[a][A000].crt" size="8192" crc="9eac9fab" md5="cb4238066339713c9844711b0e3f5c04" sha1="0432f1719422f385ededb98e0739bdcbccafc12c"/>
+	</game>
+	<game name="Artillery Duel (1983)(Xonox)(NTSC)[6000]">
+		<description>Artillery Duel (1983)(Xonox)(NTSC)[6000]</description>
+		<rom name="Artillery Duel (1983)(Xonox)(NTSC)[6000].crt" size="16384" crc="fd2feb4f" md5="43da229b34faafd6c2aa9bf0e42d40af" sha1="e699c389743e1cb727f4b8af9b3c025f0899e647"/>
+	</game>
+	<game name="Astroblitz (1982)(Creative)(NTSC)[A000]">
+		<description>Astroblitz (1982)(Creative)(NTSC)[A000]</description>
+		<rom name="Astroblitz (1982)(Creative)(NTSC)[A000].crt" size="4098" crc="34b5db1d" md5="c05640d38d20660641d6f0a8c67e73f8" sha1="ef5462a565d057295b1183978568cf69ac35685e"/>
+	</game>
+	<game name="Astroblitz (1982)(Creative)(NTSC)[a][A000]">
+		<description>Astroblitz (1982)(Creative)(NTSC)[a][A000]</description>
+		<rom name="Astroblitz (1982)(Creative)(NTSC)[a][A000].crt" size="4096" crc="2a26ef6c" md5="1ce2fe77e083c98a19541c1fec93246c" sha1="b34c362907c17c78120b06a589d28e8430443efb"/>
+	</game>
+	<game name="Astroblitz (1982)(Creative)(PAL)[A000]">
+		<description>Astroblitz (1982)(Creative)(PAL)[A000]</description>
+		<rom name="Astroblitz (1982)(Creative)(PAL)[A000].crt" size="4098" crc="11ff6aa8" md5="36b77da425ab65538d0e3e59746dd545" sha1="79e332010bb3e3554bc905d2f230f6fb0869704b"/>
+	</game>
+	<game name="Astroblitz (1982)(Creative)(PAL)[a][A000]">
+		<description>Astroblitz (1982)(Creative)(PAL)[a][A000]</description>
+		<rom name="Astroblitz (1982)(Creative)(PAL)[a][A000].crt" size="4096" crc="0f6c5ed9" md5="b38202dbe3c048f65c1c9fe9c0e4756e" sha1="b8cf27b4768ef9eda8e2466f8d0471fd6905814c"/>
+	</game>
+	<game name="Astroblitz (1982)(Creative)(PAL)[o][A000]">
+		<description>Astroblitz (1982)(Creative)(PAL)[o][A000]</description>
+		<rom name="Astroblitz (1982)(Creative)(PAL)[o][A000].crt" size="8192" crc="54c6ef94" md5="ac1b32ec5276d9eaaf3d9dd9c69ed1de" sha1="6280cdb01b0c60557e31bf4365887deaaf7f1d58"/>
+	</game>
+	<game name="Atlantis (1983)(Imagic)(NTSC)[A000]">
+		<description>Atlantis (1983)(Imagic)(NTSC)[A000]</description>
+		<rom name="Atlantis (1983)(Imagic)(NTSC)[A000].crt" size="4098" crc="ef6cbf23" md5="d3e2719e73c293e176b59e329b646fc8" sha1="c6165fd8b77d90ecbca3c26f9a7ecf30f3120395"/>
+	</game>
+	<game name="Atlantis (1983)(Imagic)(NTSC)[a][A000]">
+		<description>Atlantis (1983)(Imagic)(NTSC)[a][A000]</description>
+		<rom name="Atlantis (1983)(Imagic)(NTSC)[a][A000].crt" size="4096" crc="f1ff8b52" md5="5449bdeddb82fa210fc0458b971b41a9" sha1="47d5907a2b6c53a316a7a56d5b5fab6b26298bbb"/>
+	</game>
+	<game name="Atlantis (1983)(Imagic)(NTSC)[o][A000]">
+		<description>Atlantis (1983)(Imagic)(NTSC)[o][A000]</description>
+		<rom name="Atlantis (1983)(Imagic)(NTSC)[o][A000].crt" size="8194" crc="d6fd70eb" md5="7bade7c545bc572dca0ab65971558d43" sha1="bf27e39488f57515a32f627ae14ec5a5e730c001"/>
+	</game>
+	<game name="Atlantis (1983)(Imagic)(PAL)[A000]">
+		<description>Atlantis (1983)(Imagic)(PAL)[A000]</description>
+		<rom name="Atlantis (1983)(Imagic)(PAL)[A000].crt" size="4098" crc="a68f3a00" md5="b47cfb1de1b012c71c1b3aac22e9317d" sha1="8c0736a76b3cc2ffd254bbc34d6e0f7b57774c66"/>
+	</game>
+	<game name="Atlantis (1983)(Imagic)(PAL)[a][A000]">
+		<description>Atlantis (1983)(Imagic)(PAL)[a][A000]</description>
+		<rom name="Atlantis (1983)(Imagic)(PAL)[a][A000].crt" size="4096" crc="b81c0e71" md5="f34fc4a66d2357e1e4771db50e81e335" sha1="81531534830b1431e324cdc952127682e5b13bd4"/>
+	</game>
+	<game name="Attack of the Mutant Camels (1983)(HES)(NTSC-PAL)[A000]">
+		<description>Attack of the Mutant Camels (1983)(HES)(NTSC-PAL)[A000]</description>
+		<rom name="Attack of the Mutant Camels (1983)(HES)(NTSC-PAL)[A000].crt" size="8194" crc="e84462b1" md5="1a5074ebcc13d310679e8f63e946a733" sha1="19daa62fd4b44cc6dc90e7a4473584717034e303"/>
+	</game>
+	<game name="Attack of the Mutant Camels (1983)(HES)(NTSC-PAL)[a][A000]">
+		<description>Attack of the Mutant Camels (1983)(HES)(NTSC-PAL)[a][A000]</description>
+		<rom name="Attack of the Mutant Camels (1983)(HES)(NTSC-PAL)[a][A000].crt" size="8192" crc="d754b1ed" md5="f1299257e177a951a60720a958e21b63" sha1="b5915e82f965f77b76379ea29ee9f20252313207"/>
+	</game>
+	<game name="Avenger (1981)(Commodore)[A000]">
+		<description>Avenger (1981)(Commodore)[A000]</description>
+		<rom name="Avenger (1981)(Commodore)[A000].crt" size="8194" crc="b56ce9cb" md5="644713c9de45ddfc3fce394d3b5c9630" sha1="9c55a67c52a290647fba11923927b0ef03bba72a"/>
+	</game>
+	<game name="Avenger (1981)(Commodore)[a][A000]">
+		<description>Avenger (1981)(Commodore)[a][A000]</description>
+		<rom name="Avenger (1981)(Commodore)[a][A000].crt" size="8192" crc="8a7c3a97" md5="d65bf12bfd936e0afa59ffa0614e9232" sha1="42b5cbbc15b537b7be7286120d36f5c4eb9b2061"/>
+	</game>
+	<game name="Baldor's Castle (1983)(Daedalus)[16k][SYS 20182]">
+		<description>Baldor's Castle (1983)(Daedalus)[16k][SYS 20182]</description>
+		<rom name="Baldor's Castle (1983)(Daedalus)[16k][SYS 20182].crt" size="12290" crc="599be0e1" md5="42929034a6fa8e578ee3a051ee0a423a" sha1="131bb0bfae905fbf03c3c5ca6e377aff2d1d9a93"/>
+	</game>
+	<game name="Baldor's Castle (1983)(Daedalus)[a][16k][SYS 20182]">
+		<description>Baldor's Castle (1983)(Daedalus)[a][16k][SYS 20182]</description>
+		<rom name="Baldor's Castle (1983)(Daedalus)[a][16k][SYS 20182].crt" size="16386" crc="583fca58" md5="a7a7c88cfa131be8cafad23c59be03c9" sha1="6e7e19b4b1d7d390e400a268d46379e8af4dbb83"/>
+	</game>
+	<game name="Baldor's Castle (1983)(Daedalus)[b][16k][SYS 20182]">
+		<description>Baldor's Castle (1983)(Daedalus)[b][16k][SYS 20182]</description>
+		<rom name="Baldor's Castle (1983)(Daedalus)[b][16k][SYS 20182].crt" size="16386" crc="2168ac8e" md5="a4a8ff0b4d07716a30015298e098bac0" sha1="22700b3d1887b4f0a7fb602ab3baf738c29f9891"/>
+	</game>
+	<game name="Bandits (1983)(Sirius)(NTSC)[A000]">
+		<description>Bandits (1983)(Sirius)(NTSC)[A000]</description>
+		<rom name="Bandits (1983)(Sirius)(NTSC)[A000].crt" size="8194" crc="3efa3d06" md5="7b9331ae4b936776c65851b135c698d5" sha1="3a172b3631a4a44c1ceac070c7b0e171ad505688"/>
+	</game>
+	<game name="Bandits (1983)(Sirius)(NTSC)[a][A000]">
+		<description>Bandits (1983)(Sirius)(NTSC)[a][A000]</description>
+		<rom name="Bandits (1983)(Sirius)(NTSC)[a][A000].crt" size="8192" crc="01eaee5a" md5="27fcbe43f43734f68eb5186f56fddde0" sha1="a4832e8bf85702db03588bb371b7547fa433858a"/>
+	</game>
+	<game name="Bank Robber (1981)(Commodore)(NTSC-PAL)[A000]">
+		<description>Bank Robber (1981)(Commodore)(NTSC-PAL)[A000]</description>
+		<rom name="Bank Robber (1981)(Commodore)(NTSC-PAL)[A000].crt" size="8194" crc="73091084" md5="e391f71c35a9a25a275a9873508fabed" sha1="8be858de8e4eb72b54e807a602165e989ff8b8dc"/>
+	</game>
+	<game name="Bank Robber (1981)(Commodore)(NTSC-PAL)[a][A000]">
+		<description>Bank Robber (1981)(Commodore)(NTSC-PAL)[a][A000]</description>
+		<rom name="Bank Robber (1981)(Commodore)(NTSC-PAL)[a][A000].crt" size="8192" crc="4c19c3d8" md5="722360fdb3f7133a6e435cb9579be638" sha1="e4fa9d952eb79d50668ad3c1a4edf372cd1a6a0f"/>
+	</game>
+	<game name="Battlezone (1983)(Atarisoft)(NTSC)[6000]">
+		<description>Battlezone (1983)(Atarisoft)(NTSC)[6000]</description>
+		<rom name="Battlezone (1983)(Atarisoft)(NTSC)[6000].crt" size="16384" crc="450db796" md5="7a55ddc196eb64f2a307fd12334c805e" sha1="36f25aa9afdcb0706e34205deb98e6bc71467adc"/>
+	</game>
+	<game name="Bewitched (1995)(Zapac)[b][A000]">
+		<description>Bewitched (1995)(Zapac)[b][A000]</description>
+		<rom name="Bewitched (1995)(Zapac)[b][A000].crt" size="4098" crc="1c9e7282" md5="7118735040e49ac7c3919e36fc515c2c" sha1="3131d12c5d123d1b32f7937075c8ef0a6bd34daa"/>
+	</game>
+	<game name="Bewitched (1995)(Zapac)[o][b][A000]">
+		<description>Bewitched (1995)(Zapac)[o][b][A000]</description>
+		<rom name="Bewitched (1995)(Zapac)[o][b][A000].crt" size="8192" crc="c2b78deb" md5="e01b040f17fda3f3fd07966b7e427a3d" sha1="9128804cfc21e23f9a81e137cab8558c1d64c8b4"/>
+	</game>
+	<game name="Black Hole (1982)(Creative)(NTSC)[A000]">
+		<description>Black Hole (1982)(Creative)(NTSC)[A000]</description>
+		<rom name="Black Hole (1982)(Creative)(NTSC)[A000].crt" size="4098" crc="3edddd87" md5="b4b7ac0407113b8b94780bfaae323c0e" sha1="558796ff8daffe859e11247f4faf9de7f2700358"/>
+	</game>
+	<game name="Black Hole (1982)(Creative)(NTSC)[a][A000]">
+		<description>Black Hole (1982)(Creative)(NTSC)[a][A000]</description>
+		<rom name="Black Hole (1982)(Creative)(NTSC)[a][A000].crt" size="4096" crc="204ee9f6" md5="dd81780fc4ab9bb6ed0959924bddb0bc" sha1="b693f426134148ed333055465c3dfa46633de688"/>
+	</game>
+	<game name="Black Hole (1982)(Creative)(NTSC)[o][A000]">
+		<description>Black Hole (1982)(Creative)(NTSC)[o][A000]</description>
+		<rom name="Black Hole (1982)(Creative)(NTSC)[o][A000].crt" size="8194" crc="1f5bb851" md5="6d9c829cfca36f6af4b429c104f8b3da" sha1="db9a826f5845c9dcb85e0da49cbeca9c1a84f31f"/>
+	</game>
+	<game name="Black Hole (1982)(Creative)(PAL)[A000]">
+		<description>Black Hole (1982)(Creative)(PAL)[A000]</description>
+		<rom name="Black Hole (1982)(Creative)(PAL)[A000].crt" size="4098" crc="d9bd6f6b" md5="545dd3aebfc16759925696e1ba390b0b" sha1="2349d389a29156be814eef2fec62ccd57ad060d8"/>
+	</game>
+	<game name="Black Hole (1982)(Creative)(PAL)[a][A000]">
+		<description>Black Hole (1982)(Creative)(PAL)[a][A000]</description>
+		<rom name="Black Hole (1982)(Creative)(PAL)[a][A000].crt" size="4096" crc="c72e5b1a" md5="80f9bd1302d7939485c78db1af8fb577" sha1="d0b1006f71ee5e833cea180c212d9cda0d866485"/>
+	</game>
+	<game name="Bomber Word (1982)(Tymac)(US)[f][A000]">
+		<description>Bomber Word (1982)(Tymac)(US)[f][A000]</description>
+		<rom name="Bomber Word (1982)(Tymac)(US)[f][A000].crt" size="8194" crc="951df02e" md5="1b21cf8b2bb090f036e13a8de719cbfa" sha1="8a1d8bdf834a351dd214cba9c098f9c97892a3da"/>
+	</game>
+	<game name="Bomber Word (1982)(Tymac)(US)[f][a][A000]">
+		<description>Bomber Word (1982)(Tymac)(US)[f][a][A000]</description>
+		<rom name="Bomber Word (1982)(Tymac)(US)[f][a][A000].crt" size="4098" crc="efd99467" md5="8bf53e2b64d9e8497c517a41dc958f23" sha1="37fe92dc4f196cb8c776e710c831779b545bdf88"/>
+	</game>
+	<game name="Buck Rogers - Planet of Zoom (1983)(Sega)(NTSC-PAL)[6000]">
+		<description>Buck Rogers - Planet of Zoom (1983)(Sega)(NTSC-PAL)[6000]</description>
+		<rom name="Buck Rogers - Planet of Zoom (1983)(Sega)(NTSC-PAL)[6000].crt" size="16384" crc="5ba2a948" md5="2f27d6f496909ff61b83e662f696e378" sha1="904890157b33bebae654526beb07c5f17f8af78c"/>
+	</game>
+	<game name="Bug Crusher (1983)(OEM)(NTSC-PAL)[A000]">
+		<description>Bug Crusher (1983)(OEM)(NTSC-PAL)[A000]</description>
+		<rom name="Bug Crusher (1983)(OEM)(NTSC-PAL)[A000].crt" size="4098" crc="d157701f" md5="87dd3eab831011e4ef9957d6141d3a76" sha1="cf595478d6f1155ee9c5e825b2dcef3c341968e6"/>
+	</game>
+	<game name="Bug Crusher (1983)(OEM)(NTSC-PAL)[a][A000]">
+		<description>Bug Crusher (1983)(OEM)(NTSC-PAL)[a][A000]</description>
+		<rom name="Bug Crusher (1983)(OEM)(NTSC-PAL)[a][A000].crt" size="4096" crc="cfc4446e" md5="382638cbcca2c300179bfec02f040db6" sha1="8714770c914b88392385bec6031e3ec81edd5c72"/>
+	</game>
+	<game name="Bug Crusher (1983)(OEM)(NTSC-PAL)[h][A000]">
+		<description>Bug Crusher (1983)(OEM)(NTSC-PAL)[h][A000]</description>
+		<rom name="Bug Crusher (1983)(OEM)(NTSC-PAL)[h][A000].crt" size="4098" crc="f65d414d" md5="8004e73fc08ddaf609d9397325dc4f8e" sha1="1b601aa260311c2776ebbdbc1d7be05333686a11"/>
+	</game>
+	<game name="Bug Crusher (1983)(OEM)(NTSC-PAL)[o][A000]">
+		<description>Bug Crusher (1983)(OEM)(NTSC-PAL)[o][A000]</description>
+		<rom name="Bug Crusher (1983)(OEM)(NTSC-PAL)[o][A000].crt" size="8194" crc="1cb15ffa" md5="ec386ab5b8275594c80fe5b770fd78c0" sha1="d69e952d114d16b0a19a95c7ec605611ba6cb8f1"/>
+	</game>
+	<game name="Capture the Flag (1983)(Sirius)(NTSC)[A000]">
+		<description>Capture the Flag (1983)(Sirius)(NTSC)[A000]</description>
+		<rom name="Capture the Flag (1983)(Sirius)(NTSC)[A000].crt" size="8194" crc="58371d11" md5="6f97325b97e10360d3cb33e4b41aaa1a" sha1="cf01275beedf129f9ee42ffc5181743944e98349"/>
+	</game>
+	<game name="Capture the Flag (1983)(Sirius)(NTSC)[a2][A000]">
+		<description>Capture the Flag (1983)(Sirius)(NTSC)[a2][A000]</description>
+		<rom name="Capture the Flag (1983)(Sirius)(NTSC)[a2][A000].crt" size="8192" crc="e6897978" md5="516cfb2a4cbc0c34b3a26ab66f8cecee" sha1="e43f0e28dfb06f0fe3637094ef0f78cdf91a255c"/>
+	</game>
+	<game name="Capture the Flag (1983)(Sirius)(NTSC)[a3][A000]">
+		<description>Capture the Flag (1983)(Sirius)(NTSC)[a3][A000]</description>
+		<rom name="Capture the Flag (1983)(Sirius)(NTSC)[a3][A000].crt" size="8192" crc="6727ce4d" md5="3e041349737c2158da6d2f7d32b8d5d9" sha1="a68029d52f9ed258bb330c2dc463988c818ffbeb"/>
+	</game>
+	<game name="Capture the Flag (1983)(Sirius)(NTSC)[a][A000]">
+		<description>Capture the Flag (1983)(Sirius)(NTSC)[a][A000]</description>
+		<rom name="Capture the Flag (1983)(Sirius)(NTSC)[a][A000].crt" size="8194" crc="d999aa24" md5="c198bebc5f30e52d79f47a8adb94fa7e" sha1="b36f2762aa4ff5f61514ab7f14958861eabbbdfb"/>
+	</game>
+	<game name="Catcha Snatcha (1983)(Imagine)[A000]">
+		<description>Catcha Snatcha (1983)(Imagine)[A000]</description>
+		<rom name="Catcha Snatcha (1983)(Imagine)[A000].crt" size="8194" crc="43f88f24" md5="ecdcb6a3720a6ab645d363be6c4cdd1b" sha1="30f526669fd7b489b5df63d3f9b2fa8240851004"/>
+	</game>
+	<game name="Catcha Snatcha (1983)(Imagine)[a][A000]">
+		<description>Catcha Snatcha (1983)(Imagine)[a][A000]</description>
+		<rom name="Catcha Snatcha (1983)(Imagine)[a][A000].crt" size="8192" crc="7ce85c78" md5="d44867ee1abcabadc9a3189a94278e33" sha1="c9fbdaa22b89ecbd98ba6ee2bdcc9b6d7615e8a0"/>
+	</game>
+	<game name="Catcha Snatcha (1983)(Imagine)[h][A000]">
+		<description>Catcha Snatcha (1983)(Imagine)[h][A000]</description>
+		<rom name="Catcha Snatcha (1983)(Imagine)[h][A000].crt" size="8382" crc="c549d047" md5="e23fd671b54cff4c574040516c3c2c7e" sha1="154cf1955fa5d09ee3bd92fc497caf469f26b50b"/>
+	</game>
+	<game name="Cave-In (1982)(Spectravision)(NTSC-PAL)[A000]">
+		<description>Cave-In (1982)(Spectravision)(NTSC-PAL)[A000]</description>
+		<rom name="Cave-In (1982)(Spectravision)(NTSC-PAL)[A000].crt" size="8194" crc="51873138" md5="4acd73ee7714ecefd5115ee86e11538a" sha1="180f5efa1df6080ff987719e6335a7c902cecb14"/>
+	</game>
+	<game name="Cave-In (1982)(Spectravision)(NTSC-PAL)[a2][A000]">
+		<description>Cave-In (1982)(Spectravision)(NTSC-PAL)[a2][A000]</description>
+		<rom name="Cave-In (1982)(Spectravision)(NTSC-PAL)[a2][A000].crt" size="8192" crc="6e97e264" md5="6202c2720152ca4c34d8b7099b18f9cb" sha1="25d6da3fc657ecadb0fa1fd411858d711fb3e16e"/>
+	</game>
+	<game name="Cave-In (1982)(Spectravision)(NTSC-PAL)[a][A000]">
+		<description>Cave-In (1982)(Spectravision)(NTSC-PAL)[a][A000]</description>
+		<rom name="Cave-In (1982)(Spectravision)(NTSC-PAL)[a][A000].crt" size="8192" crc="ea29a3ba" md5="2e91bf32d8a563f3c055972b8ca9349a" sha1="2146cc6cd6253ec1507e2fa9565a5a2ceecbb325"/>
+	</game>
+	<game name="Cave-In (1982)(Spectravision)(NTSC-PAL)[o][A000]">
+		<description>Cave-In (1982)(Spectravision)(NTSC-PAL)[o][A000]</description>
+		<rom name="Cave-In (1982)(Spectravision)(NTSC-PAL)[o][A000].crt" size="8382" crc="d8081163" md5="6dbab3e6ee21500537b258915923e77f" sha1="9a6f4f97aa668b7740009161a127b76cc6407ddb"/>
+	</game>
+	<game name="Centipede (1983)(Atarisoft)(NTSC)[2000]">
+		<description>Centipede (1983)(Atarisoft)(NTSC)[2000]</description>
+		<rom name="Centipede (1983)(Atarisoft)(NTSC)[2000].crt" size="16384" crc="d9996f02" md5="259ea2a54cf8ac5855c48447dede3daa" sha1="f4821996ef757d19783f8debe2cb1921d6afa795"/>
+	</game>
+	<game name="Choplifter (1982)(Creative)(NTSC)[A000]">
+		<description>Choplifter (1982)(Creative)(NTSC)[A000]</description>
+		<rom name="Choplifter (1982)(Creative)(NTSC)[A000].crt" size="8194" crc="8fe265e0" md5="e3e6bf0d2954f487b1e33e2968c610cd" sha1="e33f41f521dc9979159b825a7d4d651c77dece2b"/>
+	</game>
+	<game name="Choplifter (1982)(Creative)(NTSC)[a2][A000]">
+		<description>Choplifter (1982)(Creative)(NTSC)[a2][A000]</description>
+		<rom name="Choplifter (1982)(Creative)(NTSC)[a2][A000].crt" size="8192" crc="29668ad9" md5="bce1ed4d22f612b91cb5943b43b5c212" sha1="8de17fe3b1ab04726a23b9e39eb32e564813e11d"/>
+	</game>
+	<game name="Choplifter (1982)(Creative)(NTSC)[a3][A000]">
+		<description>Choplifter (1982)(Creative)(NTSC)[a3][A000]</description>
+		<rom name="Choplifter (1982)(Creative)(NTSC)[a3][A000].crt" size="8192" crc="b0f2b6bc" md5="9f184075d6f885277e1a8f62efe4f840" sha1="3d8331eaac92cdc42cb2e3d4ebe021329fb26eb2"/>
+	</game>
+	<game name="Choplifter (1982)(Creative)(NTSC)[a][A000]">
+		<description>Choplifter (1982)(Creative)(NTSC)[a][A000]</description>
+		<rom name="Choplifter (1982)(Creative)(NTSC)[a][A000].crt" size="8194" crc="16765985" md5="28de55c29b923336c686f128e662768f" sha1="f4765d95d860cc3a2ebb6ed8bb8b5c16df70a8ce"/>
+	</game>
+	<game name="Choplifter (1982)(Creative)(PAL)[A000]">
+		<description>Choplifter (1982)(Creative)(PAL)[A000]</description>
+		<rom name="Choplifter (1982)(Creative)(PAL)[A000].crt" size="8192" crc="c2bb37e1" md5="11666fdae8bc5daa12f81e2233c38611" sha1="f847e88ade0a8f1f366a42be5f16b2d4332fc270"/>
+	</game>
+	<game name="Choplifter (1982)(Creative)[h][o][SYS 40961][A000]">
+		<description>Choplifter (1982)(Creative)[h][o][SYS 40961][A000]</description>
+		<rom name="Choplifter (1982)(Creative)[h][o][SYS 40961][A000].crt" size="8382" crc="2c6c3cd1" md5="564f1141a4177b17e2b2ace5bd9d43c5" sha1="a04e29545b2c16bf476a93dbd8af07f7a3cb333b"/>
+	</game>
+	<game name="Choplifter (1982)(Creative)[h][SYS 40961][A000]">
+		<description>Choplifter (1982)(Creative)[h][SYS 40961][A000]</description>
+		<rom name="Choplifter (1982)(Creative)[h][SYS 40961][A000].crt" size="8192" crc="99cf2fa5" md5="987c87ede6efac3dc7b149ac897b5afc" sha1="4ba4704fc4a420373ab3e7ca3b02ba8dec007ee1"/>
+	</game>
+	<game name="Chuck Norris Superkicks (1983)(Xonox)[A000]">
+		<description>Chuck Norris Superkicks (1983)(Xonox)[A000]</description>
+		<rom name="Chuck Norris Superkicks (1983)(Xonox)[A000].crt" size="8194" crc="132fa5dc" md5="aa093f5b5f2c4c506fc47792cc513f7d" sha1="db0e997e8a974c3d30fd3cbb88f31b2b359e0e11"/>
+	</game>
+	<game name="Chuck Norris Superkicks (1983)(Xonox)[a][A000]">
+		<description>Chuck Norris Superkicks (1983)(Xonox)[a][A000]</description>
+		<rom name="Chuck Norris Superkicks (1983)(Xonox)[a][A000].crt" size="8192" crc="2c3f7680" md5="0036deae9c6558ade975856ff70f30eb" sha1="958b227c2378930b38db2c3bdf5b7d771f830649"/>
+	</game>
+	<game name="Close Encounters of the Worst Kind (1983)(OEM)(NTSC)[A000][soft reset to start]">
+		<description>Close Encounters of the Worst Kind (1983)(OEM)(NTSC)[A000][soft reset to start]</description>
+		<rom name="Close Encounters of the Worst Kind (1983)(OEM)(NTSC)[A000][soft reset to start].crt" size="4098" crc="d9db78aa" md5="6633f71d9ee0303383971c2d79a802e2" sha1="6004e97a0e7273d9f85ef4d86043a821ffcf329d"/>
+	</game>
+	<game name="Cloudburst (1982)(UMI)[A000]">
+		<description>Cloudburst (1982)(UMI)[A000]</description>
+		<rom name="Cloudburst (1982)(UMI)[A000].crt" size="4098" crc="6557dd82" md5="f298055a4087d59688deb43f49d67568" sha1="38a82bab1f284af504c966e6543c26bcf7f7bee1"/>
+	</game>
+	<game name="Cloudburst (1982)(UMI)[a][A000]">
+		<description>Cloudburst (1982)(UMI)[a][A000]</description>
+		<rom name="Cloudburst (1982)(UMI)[a][A000].crt" size="4096" crc="7bc4e9f3" md5="641b1ac075b7835ef6278a500976acee" sha1="240c9327aa5503cf56c4317cb250b211c542fe8d"/>
+	</game>
+	<game name="Cloudburst (1982)(UMI)[o][A000]">
+		<description>Cloudburst (1982)(UMI)[o][A000]</description>
+		<rom name="Cloudburst (1982)(UMI)[o][A000].crt" size="8192" crc="5e4036fc" md5="60d78c5d752c59e8d4656952b6a08a71" sha1="7981c43c2bb5d870f8113b42c79c72af2d56920e"/>
+	</game>
+	<game name="Clowns (1982)(Commodore)(NTSC)[A000]">
+		<description>Clowns (1982)(Commodore)(NTSC)[A000]</description>
+		<rom name="Clowns (1982)(Commodore)(NTSC)[A000].crt" size="8194" crc="99c03889" md5="32daacb66fdc38b5ccb89aaf03b06efe" sha1="8f27a14907ff51a1bba7fd2519acc8065991ea11"/>
+	</game>
+	<game name="Clowns (1982)(Commodore)(NTSC)[a2][A000]">
+		<description>Clowns (1982)(Commodore)(NTSC)[a2][A000]</description>
+		<rom name="Clowns (1982)(Commodore)(NTSC)[a2][A000].crt" size="8192" crc="29a645b4" md5="90fe5d2188a0299558c6b7a79431335a" sha1="2b6f25fd43d281f50407f8432841f7a5796821ae"/>
+	</game>
+	<game name="Clowns (1982)(Commodore)(NTSC)[a3][A000]">
+		<description>Clowns (1982)(Commodore)(NTSC)[a3][A000]</description>
+		<rom name="Clowns (1982)(Commodore)(NTSC)[a3][A000].crt" size="8192" crc="a6d0ebd5" md5="8c131f16f671dbce856a2fe4978f1952" sha1="bdaa753a97d77ea5c36ccd8f66f7c185366443b5"/>
+	</game>
+	<game name="Clowns (1982)(Commodore)(NTSC)[a][A000]">
+		<description>Clowns (1982)(Commodore)(NTSC)[a][A000]</description>
+		<rom name="Clowns (1982)(Commodore)(NTSC)[a][A000].crt" size="8194" crc="16b696e8" md5="54d2f96c808babac7ca27a5533eda4a5" sha1="aa299c4b4bbb8b46300a4f3632e063662f0f562d"/>
+	</game>
+	<game name="Clowns (1982)(Commodore)(NTSC)[b][A000]">
+		<description>Clowns (1982)(Commodore)(NTSC)[b][A000]</description>
+		<rom name="Clowns (1982)(Commodore)(NTSC)[b][A000].crt" size="8194" crc="f451b258" md5="abcfccd1e30bf8d2f392c4d56745b596" sha1="a056e95d74c60f04b26b78cd431f9f46b451dfb6"/>
+	</game>
+	<game name="Clowns (1982)(Commodore)(NTSC)[o][A000]">
+		<description>Clowns (1982)(Commodore)(NTSC)[o][A000]</description>
+		<rom name="Clowns (1982)(Commodore)(NTSC)[o][A000].crt" size="8382" crc="a26227eb" md5="3b528f86f261119fa7824222677e42b5" sha1="f733f78ad08ec625858bc8b2f60ae07132d7d904"/>
+	</game>
+	<game name="Computer War (1983)(Thorn EMI)(NTSC-PAL)[A000]">
+		<description>Computer War (1983)(Thorn EMI)(NTSC-PAL)[A000]</description>
+		<rom name="Computer War (1983)(Thorn EMI)(NTSC-PAL)[A000].crt" size="8194" crc="c646168a" md5="a49896fd7dc985efa57c021443d95c3b" sha1="7bc2a78d13fc2e0a29f78cffde5228bc6a82498d"/>
+	</game>
+	<game name="Computer War (1983)(Thorn EMI)(NTSC-PAL)[a][A000]">
+		<description>Computer War (1983)(Thorn EMI)(NTSC-PAL)[a][A000]</description>
+		<rom name="Computer War (1983)(Thorn EMI)(NTSC-PAL)[a][A000].crt" size="8192" crc="f956c5d6" md5="857246f97ba757a91a23e4a11878d2bf" sha1="b33735d2762cb9968ad4245a5d33186f73f486b3"/>
+	</game>
+	<game name="Computer War (1983)(Thorn EMI)(NTSC-PAL)[h][A000]">
+		<description>Computer War (1983)(Thorn EMI)(NTSC-PAL)[h][A000]</description>
+		<rom name="Computer War (1983)(Thorn EMI)(NTSC-PAL)[h][A000].crt" size="8194" crc="1ba71e8a" md5="f3df1586de444097871c59342c1d5a6f" sha1="27c5fef3a966ea27692bcd859fed9fe2923386f7"/>
+	</game>
+	<game name="Computer War (1983)(Thorn EMI)(NTSC-PAL)[h][o][A000]">
+		<description>Computer War (1983)(Thorn EMI)(NTSC-PAL)[h][o][A000]</description>
+		<rom name="Computer War (1983)(Thorn EMI)(NTSC-PAL)[h][o][A000].crt" size="11777" crc="ea14a17e" md5="3186c56a3bd0396cb3efbd2f5f962c6a" sha1="45219c8d59e1f07fc263789bc35fb703dc404d12"/>
+	</game>
+	<game name="Congo Bongo (1983)(Sega)(NTSC)[A000]">
+		<description>Congo Bongo (1983)(Sega)(NTSC)[A000]</description>
+		<rom name="Congo Bongo (1983)(Sega)(NTSC)[A000].crt" size="8194" crc="f757cf4f" md5="5c80a5463ea219310c211359e788db92" sha1="bc14cb320c75e4e70a55a44e5183bc40a00b5279"/>
+	</game>
+	<game name="Congo Bongo (1983)(Sega)(NTSC)[a][A000]">
+		<description>Congo Bongo (1983)(Sega)(NTSC)[a][A000]</description>
+		<rom name="Congo Bongo (1983)(Sega)(NTSC)[a][A000].crt" size="8192" crc="c8471c13" md5="90159906ada2ddda9197f4843ece4b0f" sha1="a248b68bab84f9ebaf7596e98257f1b81b6c9e63"/>
+	</game>
+	<game name="Cosmic Cruncher (1982)(Commodore)(NTSC-PAL)[A000]">
+		<description>Cosmic Cruncher (1982)(Commodore)(NTSC-PAL)[A000]</description>
+		<rom name="Cosmic Cruncher (1982)(Commodore)(NTSC-PAL)[A000].crt" size="8194" crc="18d44576" md5="fda90b9c5609f5a3444e9ee8469d1d49" sha1="8541eaa081d488425ba995e81778fb509074253d"/>
+	</game>
+	<game name="Cosmic Cruncher (1982)(Commodore)(NTSC-PAL)[a2][A000]">
+		<description>Cosmic Cruncher (1982)(Commodore)(NTSC-PAL)[a2][A000]</description>
+		<rom name="Cosmic Cruncher (1982)(Commodore)(NTSC-PAL)[a2][A000].crt" size="8194" crc="8a556e34" md5="3ee47167857c33a570c937092aeeee96" sha1="6d5b6ea7dee417f9aa7bbcfbefecd56d413ed1c4"/>
+	</game>
+	<game name="Cosmic Cruncher (1982)(Commodore)(NTSC-PAL)[a3][A000]">
+		<description>Cosmic Cruncher (1982)(Commodore)(NTSC-PAL)[a3][A000]</description>
+		<rom name="Cosmic Cruncher (1982)(Commodore)(NTSC-PAL)[a3][A000].crt" size="8192" crc="93674261" md5="2e24e58886273a64073ec7e794646724" sha1="ee6cb8958220de1b2753920d27318121eb4692ba"/>
+	</game>
+	<game name="Cosmic Cruncher (1982)(Commodore)(NTSC-PAL)[a4][A000]">
+		<description>Cosmic Cruncher (1982)(Commodore)(NTSC-PAL)[a4][A000]</description>
+		<rom name="Cosmic Cruncher (1982)(Commodore)(NTSC-PAL)[a4][A000].crt" size="8192" crc="27c4962a" md5="683de21b25b3d9d4098fe40669c66476" sha1="dc1bccb54fe7dc7466adb6b34182fd5f400a3b94"/>
+	</game>
+	<game name="Cosmic Cruncher (1982)(Commodore)(NTSC-PAL)[a5][A000]">
+		<description>Cosmic Cruncher (1982)(Commodore)(NTSC-PAL)[a5][A000]</description>
+		<rom name="Cosmic Cruncher (1982)(Commodore)(NTSC-PAL)[a5][A000].crt" size="8192" crc="b545bd68" md5="4aaf74eb672420e88ab6df3eefb47eb6" sha1="bcec5781f40b2522bca9b303b14d2ce137ba9ac1"/>
+	</game>
+	<game name="Cosmic Cruncher (1982)(Commodore)(NTSC-PAL)[a][A000]">
+		<description>Cosmic Cruncher (1982)(Commodore)(NTSC-PAL)[a][A000]</description>
+		<rom name="Cosmic Cruncher (1982)(Commodore)(NTSC-PAL)[a][A000].crt" size="8194" crc="ac77913d" md5="6cb649adb5894073fdc39e012edfd605" sha1="7642714a10a2625b3ca4d50d9e7ba01ba08a4fa3"/>
+	</game>
+	<game name="Cosmic Cruncher (1982)(Commodore)(NTSC-PAL)[f][A000]">
+		<description>Cosmic Cruncher (1982)(Commodore)(NTSC-PAL)[f][A000]</description>
+		<rom name="Cosmic Cruncher (1982)(Commodore)(NTSC-PAL)[f][A000].crt" size="8194" crc="9a5d8269" md5="98d48471f026abed66934f04582d64dd" sha1="69e37dbaad5972977e936495ea8ed51f4bf13a37"/>
+	</game>
+	<game name="Cosmic Cruncher (1982)(Commodore)(NTSC-PAL)[t][A000]">
+		<description>Cosmic Cruncher (1982)(Commodore)(NTSC-PAL)[t][A000]</description>
+		<rom name="Cosmic Cruncher (1982)(Commodore)(NTSC-PAL)[t][A000].crt" size="8194" crc="1c5be60a" md5="59e55b8815037ce8a8adc6e0cfc9f5e7" sha1="690364e115508e693548f158d34b00fd16ee339d"/>
+	</game>
+	<game name="Cosmic Cruncher (1982)(Commodore)(NTSC-PAL)[t][a][A000]">
+		<description>Cosmic Cruncher (1982)(Commodore)(NTSC-PAL)[t][a][A000]</description>
+		<rom name="Cosmic Cruncher (1982)(Commodore)(NTSC-PAL)[t][a][A000].crt" size="8192" crc="234b3556" md5="2aff595ad143dde15398f9fa4f53ea3c" sha1="36780709171ded6a03161565a3370c22ea580bd2"/>
+	</game>
+	<game name="Cosmic Jailbreak (1982)(Commodore)[A000]">
+		<description>Cosmic Jailbreak (1982)(Commodore)[A000]</description>
+		<rom name="Cosmic Jailbreak (1982)(Commodore)[A000].crt" size="8194" crc="aa0a7efd" md5="741c9ff82ebb5e055eaed485ede78c6a" sha1="f56d61ce5b296efc26a395c96a5ba653372118c8"/>
+	</game>
+	<game name="Cosmic Jailbreak (1982)(Commodore)[a][A000]">
+		<description>Cosmic Jailbreak (1982)(Commodore)[a][A000]</description>
+		<rom name="Cosmic Jailbreak (1982)(Commodore)[a][A000].crt" size="8192" crc="951aada1" md5="5512f7bb9e72e148c5d21fc09f96b531" sha1="45d9dd7a3188fb2e8f0147e40d7fafd94da4c250"/>
+	</game>
+	<game name="Cosmic Jailbreak (1982)(Commodore)[o][A000]">
+		<description>Cosmic Jailbreak (1982)(Commodore)[o][A000]</description>
+		<rom name="Cosmic Jailbreak (1982)(Commodore)[o][A000].crt" size="8382" crc="9d9989d7" md5="5cc376f7b5f01ccfdc1c6e362c676441" sha1="0a4924ada7b62a9b65243ef5591df71d67762d95"/>
+	</game>
+	<game name="Count, The (1981)(Commodore)[b][a][SYS 32592][4000]">
+		<description>Count, The (1981)(Commodore)[b][a][SYS 32592][4000]</description>
+		<rom name="Count, The (1981)(Commodore)[b][a][SYS 32592][4000].crt" size="16384" crc="05acb7ab" md5="48619fcdae8a0c490d4c9761f6f4d2ae" sha1="81b4fca6eaf0a200948eb1d7eaf14c1dd401ad5b"/>
+	</game>
+	<game name="Count, The (1981)(Commodore)[b][SYS 32592][4000]">
+		<description>Count, The (1981)(Commodore)[b][SYS 32592][4000]</description>
+		<rom name="Count, The (1981)(Commodore)[b][SYS 32592][4000].crt" size="16386" crc="5625d86c" md5="5dc53ef8eed38c63fb8c30da2a0c2488" sha1="3500d6347085a43b271b752b5887d58da42e1e45"/>
+	</game>
+	<game name="Crater Raider (1983)(Boone)[A000]">
+		<description>Crater Raider (1983)(Boone)[A000]</description>
+		<rom name="Crater Raider (1983)(Boone)[A000].crt" size="4098" crc="61a168b6" md5="61d268736a035c73ae3378f57e903f08" sha1="40d46e7ea14e7ef1bec8f5242d5f92894c0b94a8"/>
+	</game>
+	<game name="Creepy Corridors (1983)(Sierra)(NTSC)[A000]">
+		<description>Creepy Corridors (1983)(Sierra)(NTSC)[A000]</description>
+		<rom name="Creepy Corridors (1983)(Sierra)(NTSC)[A000].crt" size="8194" crc="43ae871f" md5="a6c43d38b57fd1caf436a8667c9844fb" sha1="6561207811bf530fe52f5cc6c3079ece5b2f0d11"/>
+	</game>
+	<game name="Creepy Corridors (1983)(Sierra)(NTSC)[a][A000]">
+		<description>Creepy Corridors (1983)(Sierra)(NTSC)[a][A000]</description>
+		<rom name="Creepy Corridors (1983)(Sierra)(NTSC)[a][A000].crt" size="8192" crc="7cbe5443" md5="3cf6d1cecfa92161afadf76ba25cd1ab" sha1="5c31e307095fbfc18ac30e71be19f6cce27aaa47"/>
+	</game>
+	<game name="Crossfire (1981)(Sierra)(NTSC)[A000]">
+		<description>Crossfire (1981)(Sierra)(NTSC)[A000]</description>
+		<rom name="Crossfire (1981)(Sierra)(NTSC)[A000].crt" size="8194" crc="5f5224ff" md5="94e2c79e8757dbbfba80be2f11258d57" sha1="571e01bba3f7419cd7993ed1fbd3c8e53ba1e5da"/>
+	</game>
+	<game name="Crossfire (1981)(Sierra)(NTSC)[a][A000]">
+		<description>Crossfire (1981)(Sierra)(NTSC)[a][A000]</description>
+		<rom name="Crossfire (1981)(Sierra)(NTSC)[a][A000].crt" size="8192" crc="6042f7a3" md5="7ab7b36734f96e42a9fa657d15cb0bdc" sha1="cc7f006132868071efc43726e97d28f80644c226"/>
+	</game>
+	<game name="Crossfire (1981)(Sierra)(PAL)[A000]">
+		<description>Crossfire (1981)(Sierra)(PAL)[A000]</description>
+		<rom name="Crossfire (1981)(Sierra)(PAL)[A000].crt" size="8194" crc="e9aec695" md5="e13059d3a46543fff9f765165b52e11b" sha1="3bd1e6ab8863573a9f45f1c0bca643c3dd1c3fa0"/>
+	</game>
+	<game name="Crossfire (1981)(Sierra)(PAL)[a][A000]">
+		<description>Crossfire (1981)(Sierra)(PAL)[a][A000]</description>
+		<rom name="Crossfire (1981)(Sierra)(PAL)[a][A000].crt" size="8192" crc="d6be15c9" md5="5fc8e591207d17b82d641ed07c2385ba" sha1="20cf3e8d85e31307ae5e46dae4df594a351f040b"/>
+	</game>
+	<game name="Cyclon (1983)(Boone)(NTSC-PAL)[A000]">
+		<description>Cyclon (1983)(Boone)(NTSC-PAL)[A000]</description>
+		<rom name="Cyclon (1983)(Boone)(NTSC-PAL)[A000].crt" size="8194" crc="e9d340f7" md5="c01d2a20498d4d47d751ee4614963992" sha1="4fe9dea437539465c92d45ac30dac3d64f0d7364"/>
+	</game>
+	<game name="Cyclon (1983)(Boone)(NTSC-PAL)[a][A000]">
+		<description>Cyclon (1983)(Boone)(NTSC-PAL)[a][A000]</description>
+		<rom name="Cyclon (1983)(Boone)(NTSC-PAL)[a][A000].crt" size="8192" crc="d6c393ab" md5="fd9992d20bfd3296b4211774c4ea8595" sha1="4a4a5a2b4bc08b6cd5b5da39b5dc7bb8c2747e24"/>
+	</game>
+	<game name="D'Fuse (1983)(Tymac)[A000]">
+		<description>D'Fuse (1983)(Tymac)[A000]</description>
+		<rom name="D'Fuse (1983)(Tymac)[A000].crt" size="8194" crc="c6bb259c" md5="abdfe4437f4db2e5cf3b71aa76ff48a1" sha1="0b29bb9814fcc42e64ca0093a8eea97a8985a131"/>
+	</game>
+	<game name="Dancing Bear, The (1983)(Koala)(NTSC)[2000]">
+		<description>Dancing Bear, The (1983)(Koala)(NTSC)[2000]</description>
+		<rom name="Dancing Bear, The (1983)(Koala)(NTSC)[2000].crt" size="16384" crc="afd7bdfb" md5="61b56947232f9f34a25c0e6e50c36d4f" sha1="659ac4ea0e53c586622d74c61b3792c63d3db9b2"/>
+	</game>
+	<game name="Deadly Duck (1982)(Sirius)(PAL)[A000]">
+		<description>Deadly Duck (1982)(Sirius)(PAL)[A000]</description>
+		<rom name="Deadly Duck (1982)(Sirius)(PAL)[A000].crt" size="4098" crc="a29fc1a9" md5="935c819bd477a6e1fb88b0c1fd36b8a4" sha1="b25c8fcf2a29a15d001de4c604d8fde87f88b82d"/>
+	</game>
+	<game name="Deadly Duck (1982)(Sirius)(PAL)[a][A000]">
+		<description>Deadly Duck (1982)(Sirius)(PAL)[a][A000]</description>
+		<rom name="Deadly Duck (1982)(Sirius)(PAL)[a][A000].crt" size="4096" crc="bc0cf5d8" md5="941c9a9c6da2ed4a782de9601e466bf9" sha1="9a14eebc56a16a0cbb6edb54fc626347dbf6e2d4"/>
+	</game>
+	<game name="Deadly Duck (1982)(Sirius)(PAL)[o][A000]">
+		<description>Deadly Duck (1982)(Sirius)(PAL)[o][A000]</description>
+		<rom name="Deadly Duck (1982)(Sirius)(PAL)[o][A000].crt" size="8194" crc="5b6dec8b" md5="45f4b4b207bb81bd4337e6e63723fa9a" sha1="7c8cc5913e2719477f3e314f20b7af8e11a7cc24"/>
+	</game>
+	<game name="Deadly Duck (1982)(Sirius)(PAL)[o][a][A000]">
+		<description>Deadly Duck (1982)(Sirius)(PAL)[o][a][A000]</description>
+		<rom name="Deadly Duck (1982)(Sirius)(PAL)[o][a][A000].crt" size="8192" crc="647d3fd7" md5="3d21146510ef6be45c42dbe2a7dd76b4" sha1="3b8be83650ae4fff807cf9c9cb80a7dc89f83e48"/>
+	</game>
+	<game name="Deadly Skies (1983)(Tronix)(PAL)[A000]">
+		<description>Deadly Skies (1983)(Tronix)(PAL)[A000]</description>
+		<rom name="Deadly Skies (1983)(Tronix)(PAL)[A000].crt" size="4098" crc="70360801" md5="bec34860be8c0a60ee93403d715796fe" sha1="ce881991a03a75345c5697bff58e257e9898ed4c"/>
+	</game>
+	<game name="Deadly Skies (1983)(Tronix)(PAL)[a][A000]">
+		<description>Deadly Skies (1983)(Tronix)(PAL)[a][A000]</description>
+		<rom name="Deadly Skies (1983)(Tronix)(PAL)[a][A000].crt" size="4096" crc="6ea53c70" md5="16ef1f9696b2ed85a2c7e922c3bf505a" sha1="e85c5b2a41c10d30bf64001b10506e201a49a068"/>
+	</game>
+	<game name="Deadly Skies (1983)(Tronix)(PAL)[o][A000]">
+		<description>Deadly Skies (1983)(Tronix)(PAL)[o][A000]</description>
+		<rom name="Deadly Skies (1983)(Tronix)(PAL)[o][A000].crt" size="8192" crc="b17e685b" md5="13a7954e9069f5522a56f8b8aa0b0107" sha1="419cda4678e464f3cd3eb92b7c860eab4d80f1bf"/>
+	</game>
+	<game name="Defender (1983)(Atarisoft)(NTSC-PAL)[6000]">
+		<description>Defender (1983)(Atarisoft)(NTSC-PAL)[6000]</description>
+		<rom name="Defender (1983)(Atarisoft)(NTSC-PAL)[6000].crt" size="16384" crc="ee529ef2" md5="4041c1102dbed2a037306e886280c63b" sha1="f537e8153622a8a828bedf39f8c436538818ec73"/>
+	</game>
+	<game name="Defender (1983)(Atarisoft)(NTSC-PAL)[b][A000]">
+		<description>Defender (1983)(Atarisoft)(NTSC-PAL)[b][A000]</description>
+		<rom name="Defender (1983)(Atarisoft)(NTSC-PAL)[b][A000].crt" size="16384" crc="2abe46d2" md5="60c26bdc9b927dabbbefccba10495798" sha1="c2e69de2685c04f197bff02492371e2a11ed8395"/>
+	</game>
+	<game name="Demon Attack (1983)(Imagic)(NTSC)[A000]">
+		<description>Demon Attack (1983)(Imagic)(NTSC)[A000]</description>
+		<rom name="Demon Attack (1983)(Imagic)(NTSC)[A000].crt" size="4098" crc="b67d37d3" md5="6d940ab5e11dae660efd3b5887290b57" sha1="4922a20c729c2b1da51d1b6ed9acef9509cfacb7"/>
+	</game>
+	<game name="Demon Attack (1983)(Imagic)(NTSC)[a][A000]">
+		<description>Demon Attack (1983)(Imagic)(NTSC)[a][A000]</description>
+		<rom name="Demon Attack (1983)(Imagic)(NTSC)[a][A000].crt" size="4096" crc="a8ee03a2" md5="816ffc73940f7a85ae91dffbf516185d" sha1="4dccf54de3e0d3e0578640f585a23b2851593bac"/>
+	</game>
+	<game name="Demon Attack (1983)(Imagic)(PAL)[A000]">
+		<description>Demon Attack (1983)(Imagic)(PAL)[A000]</description>
+		<rom name="Demon Attack (1983)(Imagic)(PAL)[A000].crt" size="4098" crc="e3902433" md5="70050726e3f8422b63feada4a49a69d6" sha1="abba239a1b555aa8586c62cd942b301b03259a86"/>
+	</game>
+	<game name="Demon Attack (1983)(Imagic)(PAL)[a][A000]">
+		<description>Demon Attack (1983)(Imagic)(PAL)[a][A000]</description>
+		<rom name="Demon Attack (1983)(Imagic)(PAL)[a][A000].crt" size="4096" crc="fd031042" md5="1faea36499da6bc7a3189728edb3455e" sha1="99277547d3aa48417374e43ad4b1da2c95472199"/>
+	</game>
+	<game name="Demon Attack (1983)(Imagic)(PAL)[o][A000]">
+		<description>Demon Attack (1983)(Imagic)(PAL)[o][A000]</description>
+		<rom name="Demon Attack (1983)(Imagic)(PAL)[o][A000].crt" size="8192" crc="64bb0bb8" md5="9e16a8e64c8d1c35eb2230adf6d5942a" sha1="bd14ac207da210d66911c2fc6b7cd31edf608078"/>
+	</game>
+	<game name="Dig Dug (1983)(Atarisoft)(NTSC)[2000]">
+		<description>Dig Dug (1983)(Atarisoft)(NTSC)[2000]</description>
+		<rom name="Dig Dug (1983)(Atarisoft)(NTSC)[2000].crt" size="16384" crc="cce22b5b" md5="17cbde8df95fb96b161a04ee1bef6509" sha1="5f6fdc311285842070c7a153d1623b8f120bf642"/>
+	</game>
+	<game name="Donkey Kong (1983)(Atarisoft)(NTSC)[2000]">
+		<description>Donkey Kong (1983)(Atarisoft)(NTSC)[2000]</description>
+		<rom name="Donkey Kong (1983)(Atarisoft)(NTSC)[2000].crt" size="16384" crc="513cf7d4" md5="99149f66df59d42652c9707650bdda3e" sha1="ca58530eaf713b492f391c47aedc4a4b3b18b5fb"/>
+	</game>
+	<game name="Donkey Kong (1983)(Atarisoft)(NTSC)[o][b][2000]">
+		<description>Donkey Kong (1983)(Atarisoft)(NTSC)[o][b][2000]</description>
+		<rom name="Donkey Kong (1983)(Atarisoft)(NTSC)[o][b][2000].crt" size="32768" crc="acff6285" md5="6a0ef5eb5ae7939e670877f265ac3f6c" sha1="d6b281f7ea97434c1f60b97342c90c2729540cdf"/>
+	</game>
+	<game name="Dot Gobbler (1983)(OEM)(NTSC)[A000]">
+		<description>Dot Gobbler (1983)(OEM)(NTSC)[A000]</description>
+		<rom name="Dot Gobbler (1983)(OEM)(NTSC)[A000].crt" size="4098" crc="d9548319" md5="ff6efaa32b55f7c1d3a1904ff84a1e9d" sha1="028d6e4f087fbe79ab7d42021678d7efa00cf635"/>
+	</game>
+	<game name="Dot Gobbler (1983)(OEM)(NTSC)[a2][A000]">
+		<description>Dot Gobbler (1983)(OEM)(NTSC)[a2][A000]</description>
+		<rom name="Dot Gobbler (1983)(OEM)(NTSC)[a2][A000].crt" size="4096" crc="c7c7b768" md5="8a872f420bf818f7e29b455d32e60a79" sha1="728b321bde8b3b48fca0d205ba5c5a336b1358d4"/>
+	</game>
+	<game name="Dot Gobbler (1983)(OEM)(NTSC)[a3][A000]">
+		<description>Dot Gobbler (1983)(OEM)(NTSC)[a3][A000]</description>
+		<rom name="Dot Gobbler (1983)(OEM)(NTSC)[a3][A000].crt" size="4096" crc="98322c81" md5="5ecc599b8d815700d6e73426c889dc35" sha1="1f87735c07c9d4231c1b0949c752cf9a8a70f09b"/>
+	</game>
+	<game name="Dot Gobbler (1983)(OEM)(NTSC)[a][A000]">
+		<description>Dot Gobbler (1983)(OEM)(NTSC)[a][A000]</description>
+		<rom name="Dot Gobbler (1983)(OEM)(NTSC)[a][A000].crt" size="4098" crc="86a118f0" md5="533b06cec4e76019ff79f28f1e256763" sha1="41d8b90163c39c140e4efdc541d4bd540c339f76"/>
+	</game>
+	<game name="Dot Gobbler (1983)(OEM)(NTSC)[o][A000]">
+		<description>Dot Gobbler (1983)(OEM)(NTSC)[o][A000]</description>
+		<rom name="Dot Gobbler (1983)(OEM)(NTSC)[o][A000].crt" size="8194" crc="ddc59ef0" md5="c7f58771184e7951b98562a5dd0a8923" sha1="82a32acf9e05f7f37229ea7d05d4ee058334a6fc"/>
+	</game>
+	<game name="Dragonfire (1983)(Imagic)[A000]">
+		<description>Dragonfire (1983)(Imagic)[A000]</description>
+		<rom name="Dragonfire (1983)(Imagic)[A000].crt" size="8194" crc="051bc0f7" md5="4c09e7dcfad9bca7994d8de81f0510ef" sha1="a168f41bdaeac57aa9f78d40a462eb2959baa342"/>
+	</game>
+	<game name="Dragonfire (1983)(Imagic)[a][A000]">
+		<description>Dragonfire (1983)(Imagic)[a][A000]</description>
+		<rom name="Dragonfire (1983)(Imagic)[a][A000].crt" size="8192" crc="3a0b13ab" md5="91bbc2c6fc036f9948a0d56944a74482" sha1="431487b8a822412024bfc8c252b23452450d3c93"/>
+	</game>
+	<game name="Draw Poker (1981)(Commodore)[A000]">
+		<description>Draw Poker (1981)(Commodore)[A000]</description>
+		<rom name="Draw Poker (1981)(Commodore)[A000].crt" size="8194" crc="a0f06e31" md5="276bff73599753023bc1baeaab5deb83" sha1="d4ffddf97c5b37dda2b655598c6e2a2ec77be045"/>
+	</game>
+	<game name="Draw Poker (1981)(Commodore)[a2][A000]">
+		<description>Draw Poker (1981)(Commodore)[a2][A000]</description>
+		<rom name="Draw Poker (1981)(Commodore)[a2][A000].crt" size="8192" crc="4c543cbb" md5="e363d9e5a6027df8670dcb0f2509d445" sha1="16406655efff06e702ca77bf8a9857ba6468f4c4"/>
+	</game>
+	<game name="Draw Poker (1981)(Commodore)[a3][A000]">
+		<description>Draw Poker (1981)(Commodore)[a3][A000]</description>
+		<rom name="Draw Poker (1981)(Commodore)[a3][A000].crt" size="8192" crc="9fe0bd6d" md5="af7280da30c696ee286b3e07c94cfc67" sha1="ed0979602a67a34a928c85792218184edac4350c"/>
+	</game>
+	<game name="Draw Poker (1981)(Commodore)[a][A000]">
+		<description>Draw Poker (1981)(Commodore)[a][A000]</description>
+		<rom name="Draw Poker (1981)(Commodore)[a][A000].crt" size="8194" crc="7344efe7" md5="669494059a77e541fd799d3df873c141" sha1="73243157264bc2d5fa4b95decdc7fdafaa4a9cee"/>
+	</game>
+	<game name="Droids (1983)(T.G. Software)(NTSC-PAL)[A000]">
+		<description>Droids (1983)(T.G. Software)(NTSC-PAL)[A000]</description>
+		<rom name="Droids (1983)(T.G. Software)(NTSC-PAL)[A000].crt" size="8194" crc="7dafeae2" md5="c37fbaa3b146093687ae6627d96841b4" sha1="ed9b09a8d041edf3af871edc8cd174618f4ba408"/>
+	</game>
+	<game name="Droids (1983)(T.G. Software)(NTSC-PAL)[a][A000]">
+		<description>Droids (1983)(T.G. Software)(NTSC-PAL)[a][A000]</description>
+		<rom name="Droids (1983)(T.G. Software)(NTSC-PAL)[a][A000].crt" size="8192" crc="42bf39be" md5="15a8f8310941dec53f9c4b099c788f7a" sha1="3ac9668259e4abbf98d4f6d98c28044e1f4a3b8d"/>
+	</game>
+	<game name="E.T. - The Extra Terrestrial (1983)(Jans, H.)(PAL)[8k][A000]">
+		<description>E.T. - The Extra Terrestrial (1983)(Jans, H.)(PAL)[8k][A000]</description>
+		<rom name="E.T. - The Extra Terrestrial (1983)(Jans, H.)(PAL)[8k][A000].crt" size="8192" crc="84ed1a3c" md5="94c4054d9ca8f5325902e7b8dee8bae7" sha1="25eb848d997135b2c2c12cc14f9c1daf965fdfb7"/>
+	</game>
+	<game name="E.T. - The Extra Terrestrial (1983)(Jans, H.)(PAL)[a][8k][A000]">
+		<description>E.T. - The Extra Terrestrial (1983)(Jans, H.)(PAL)[a][8k][A000]</description>
+		<rom name="E.T. - The Extra Terrestrial (1983)(Jans, H.)(PAL)[a][8k][A000].crt" size="8194" crc="bbfdc960" md5="a66093257a1429e853cb28858a296b94" sha1="36a98d49093ce7b6faf9c9b00db24d766c252dca"/>
+	</game>
+	<game name="E.T. - The Extra Terrestrial (1983)(Jans, H.)(PAL)[b][8k][A000]">
+		<description>E.T. - The Extra Terrestrial (1983)(Jans, H.)(PAL)[b][8k][A000]</description>
+		<rom name="E.T. - The Extra Terrestrial (1983)(Jans, H.)(PAL)[b][8k][A000].crt" size="8192" crc="e755d470" md5="9e6f6b798450b83412f18c9592974297" sha1="e2b0d26f2d73c8141c1194d3db0138b0038a2bea"/>
+	</game>
+	<game name="E.T. - The Extra Terrestrial (1983)(Jans, H.)(PAL)[b][a2][8k][A000]">
+		<description>E.T. - The Extra Terrestrial (1983)(Jans, H.)(PAL)[b][a2][8k][A000]</description>
+		<rom name="E.T. - The Extra Terrestrial (1983)(Jans, H.)(PAL)[b][a2][8k][A000].crt" size="8194" crc="fd288120" md5="55b7674ba9a0b5d62f8ebf565da5510d" sha1="52b8f9e92b8c1cae6180461c88d57fbca14e8276"/>
+	</game>
+	<game name="E.T. - The Extra Terrestrial (1983)(Jans, H.)(PAL)[b][a3][8k][A000]">
+		<description>E.T. - The Extra Terrestrial (1983)(Jans, H.)(PAL)[b][a3][8k][A000]</description>
+		<rom name="E.T. - The Extra Terrestrial (1983)(Jans, H.)(PAL)[b][a3][8k][A000].crt" size="8192" crc="c238527c" md5="358f8221571f445c200f7aef39ce7d8b" sha1="45c483e2e2eba1f422325429f3a7247cef3462e3"/>
+	</game>
+	<game name="E.T. - The Extra Terrestrial (1983)(Jans, H.)(PAL)[b][a][8k][A000]">
+		<description>E.T. - The Extra Terrestrial (1983)(Jans, H.)(PAL)[b][a][8k][A000]</description>
+		<rom name="E.T. - The Extra Terrestrial (1983)(Jans, H.)(PAL)[b][a][8k][A000].crt" size="8382" crc="c2a3fc44" md5="565035312a5e9afcabf7e5387476fe2b" sha1="5039cdb60d65394a74ee7af6e77c7c17de987cb1"/>
+	</game>
+	<game name="Face Maker (1983)(HES)(NTSC-PAL)[A000]">
+		<description>Face Maker (1983)(HES)(NTSC-PAL)[A000]</description>
+		<rom name="Face Maker (1983)(HES)(NTSC-PAL)[A000].crt" size="8194" crc="62c18aa3" md5="48d9ff115b93fe47ea60f8e367cdf4a9" sha1="d11685084f2dbaf22e1aa4ba84d56a87f082a642"/>
+	</game>
+	<game name="Face Maker (1983)(HES)(NTSC-PAL)[a2][A000]">
+		<description>Face Maker (1983)(HES)(NTSC-PAL)[a2][A000]</description>
+		<rom name="Face Maker (1983)(HES)(NTSC-PAL)[a2][A000].crt" size="8192" crc="5dd159ff" md5="30dd96b12b1a022ed2415e71b1a1ebca" sha1="04ce8e475781b9ba81457dea60d575c5b864c58f"/>
+	</game>
+	<game name="Face Maker (1983)(HES)(NTSC-PAL)[a][A000]">
+		<description>Face Maker (1983)(HES)(NTSC-PAL)[a][A000]</description>
+		<rom name="Face Maker (1983)(HES)(NTSC-PAL)[a][A000].crt" size="8192" crc="965f0448" md5="af7fc201f89419c7a60ed74217b40ef6" sha1="289000ca65c21cb2ed73fe6afe8c3e6b5f18b533"/>
+	</game>
+	<game name="Face Maker (1983)(HES)(NTSC-PAL)[original][A000]">
+		<description>Face Maker (1983)(HES)(NTSC-PAL)[original][A000]</description>
+		<rom name="Face Maker (1983)(HES)(NTSC-PAL)[original][A000].crt" size="8194" crc="a94fd714" md5="970c034002272d5ec30be1fe9297e218" sha1="6584dfe7b6bbf64f7285316bc2e175a518f6a731"/>
+	</game>
+	<game name="Fast Eddie (1982)(Sirius)[A000]">
+		<description>Fast Eddie (1982)(Sirius)[A000]</description>
+		<rom name="Fast Eddie (1982)(Sirius)[A000].crt" size="8194" crc="6622ef0c" md5="3cf67eb3a2c65775fc1b3abeaeb6bcae" sha1="ea525d2337cb70fe60a0d556c6145b38c29952a1"/>
+	</game>
+	<game name="Fast Eddie (1982)(Sirius)[a][A000]">
+		<description>Fast Eddie (1982)(Sirius)[a][A000]</description>
+		<rom name="Fast Eddie (1982)(Sirius)[a][A000].crt" size="8192" crc="59323c50" md5="c7ae69d3b8dec16f9b1bcddb1bde8e76" sha1="14e2e9c9c560764e9425896a9186a6a14cd1e6f2"/>
+	</game>
+	<game name="Fast Eddie (1982)(Sirius)[o][A000]">
+		<description>Fast Eddie (1982)(Sirius)[o][A000]</description>
+		<rom name="Fast Eddie (1982)(Sirius)[o][A000].crt" size="8382" crc="5eca0f54" md5="4e2893ef3f80137b7ee76013e9629350" sha1="81d973a64ad66c1ebe1e660d99c8598cc6eb3ca7"/>
+	</game>
+	<game name="Final Orbit &amp; Bumper Bash (1983)(Sirius)(NTSC)[A000]">
+		<description>Final Orbit &amp; Bumper Bash (1983)(Sirius)(NTSC)[A000]</description>
+		<rom name="Final Orbit &amp; Bumper Bash (1983)(Sirius)(NTSC)[A000].crt" size="8194" crc="27c8a182" md5="a485fc5caf7bc7aaa21ce420962f0f1b" sha1="9f83ae6226b956aa6bbdb0fa3d62fa99ec6894de"/>
+	</game>
+	<game name="Final Orbit &amp; Bumper Bash (1983)(Sirius)(NTSC)[a2][A000]">
+		<description>Final Orbit &amp; Bumper Bash (1983)(Sirius)(NTSC)[a2][A000]</description>
+		<rom name="Final Orbit &amp; Bumper Bash (1983)(Sirius)(NTSC)[a2][A000].crt" size="8192" crc="18d872de" md5="2022a05246d407600d93b8b172425318" sha1="c3cdd958e7ccc0daeb7d7467ee8444766325ab1e"/>
+	</game>
+	<game name="Final Orbit &amp; Bumper Bash (1983)(Sirius)(NTSC)[a3][A000]">
+		<description>Final Orbit &amp; Bumper Bash (1983)(Sirius)(NTSC)[a3][A000]</description>
+		<rom name="Final Orbit &amp; Bumper Bash (1983)(Sirius)(NTSC)[a3][A000].crt" size="8192" crc="aea181d3" md5="c0f08379e5af908a48311c9f47f450a0" sha1="6efcb6e972903433aec41629d94dfa6b6ba09ec0"/>
+	</game>
+	<game name="Final Orbit &amp; Bumper Bash (1983)(Sirius)(NTSC)[a][A000]">
+		<description>Final Orbit &amp; Bumper Bash (1983)(Sirius)(NTSC)[a][A000]</description>
+		<rom name="Final Orbit &amp; Bumper Bash (1983)(Sirius)(NTSC)[a][A000].crt" size="8194" crc="91b1528f" md5="8680c2f9990a277ff819b678a84cd055" sha1="5a3ed47fad101829210f05db0c56f1546d2465cd"/>
+	</game>
+	<game name="Fourth Encounter, The (1983)(Thorn EMI)(NTSC-PAL)[A000]">
+		<description>Fourth Encounter, The (1983)(Thorn EMI)(NTSC-PAL)[A000]</description>
+		<rom name="Fourth Encounter, The (1983)(Thorn EMI)(NTSC-PAL)[A000].crt" size="8194" crc="255afeb9" md5="6d6c91fbcb181f6681967af9da3ac5b7" sha1="7c1707b0e29743f920b9a46ae79840e38bf8b1c6"/>
+	</game>
+	<game name="Fourth Encounter, The (1983)(Thorn EMI)(NTSC-PAL)[a2][A000]">
+		<description>Fourth Encounter, The (1983)(Thorn EMI)(NTSC-PAL)[a2][A000]</description>
+		<rom name="Fourth Encounter, The (1983)(Thorn EMI)(NTSC-PAL)[a2][A000].crt" size="8192" crc="da4a0922" md5="6a613dba6d6b3d41543c6daef27cafe8" sha1="0655948ea8d48060ce7acd43da4fbc82741d8ce8"/>
+	</game>
+	<game name="Fourth Encounter, The (1983)(Thorn EMI)(NTSC-PAL)[a][A000]">
+		<description>Fourth Encounter, The (1983)(Thorn EMI)(NTSC-PAL)[a][A000]</description>
+		<rom name="Fourth Encounter, The (1983)(Thorn EMI)(NTSC-PAL)[a][A000].crt" size="8194" crc="e55ada7e" md5="85809f7f8dc6de7243b5737428c7a1f9" sha1="ba24c41b9c568c215c4a59a50bb4b8df21c359a2"/>
+	</game>
+	<game name="Frantic (19xx)(Imagine)[A000][for sd-card]">
+		<description>Frantic (19xx)(Imagine)[A000][for sd-card]</description>
+		<rom name="Frantic (19xx)(Imagine)[A000][for sd-card].crt" size="4354" crc="2bc4b231" md5="086cfb09f6a60f1886b2818e818b5f7a" sha1="adaa9cf2f7fab3fea3d7c340f14ed50e47512545"/>
+	</game>
+	<game name="Frogger (1983)(Parker)[A000]">
+		<description>Frogger (1983)(Parker)[A000]</description>
+		<rom name="Frogger (1983)(Parker)[A000].crt" size="8194" crc="c7ad5378" md5="5c0625b6ced4a3f41f49e126eeea8f1b" sha1="95549fd850fe6dea061489090e5387bc35f31265"/>
+	</game>
+	<game name="Frogger (1983)(Parker)[a][A000]">
+		<description>Frogger (1983)(Parker)[a][A000]</description>
+		<rom name="Frogger (1983)(Parker)[a][A000].crt" size="8192" crc="f8bd8024" md5="95cbf3b2505c28cc8873740ba1c3b347" sha1="7e41246cca49929f7237eab8ca0622af6d8bc009"/>
+	</game>
+	<game name="Frogman (1983)(OEM)(NTSC)[A000]">
+		<description>Frogman (1983)(OEM)(NTSC)[A000]</description>
+		<rom name="Frogman (1983)(OEM)(NTSC)[A000].crt" size="8194" crc="bcc1ce46" md5="ab7bf184781033bb20705a61a574599c" sha1="faa5861de8471b415660108a8d2e7a737da98b1d"/>
+	</game>
+	<game name="Fun with Music (1983)(Epyx)(NTSC-PAL)[A000]">
+		<description>Fun with Music (1983)(Epyx)(NTSC-PAL)[A000]</description>
+		<rom name="Fun with Music (1983)(Epyx)(NTSC-PAL)[A000].crt" size="8194" crc="c0e7308e" md5="4a7a94311e919cc0625cbc2f336626f8" sha1="223bad550d85804ad2fdde31eff6dacac70b535a"/>
+	</game>
+	<game name="Fun with Music (1983)(Epyx)(NTSC-PAL)[a][A000]">
+		<description>Fun with Music (1983)(Epyx)(NTSC-PAL)[a][A000]</description>
+		<rom name="Fun with Music (1983)(Epyx)(NTSC-PAL)[a][A000].crt" size="8192" crc="fff7e3d2" md5="270ac3cb613af1b5f97d3cd437e17c9e" sha1="f02ccfa0b793e984a0bced6460a7844861d62d8e"/>
+	</game>
+	<game name="Galaxian (1983)(Atarisoft)(NTSC-PAL)[A000]">
+		<description>Galaxian (1983)(Atarisoft)(NTSC-PAL)[A000]</description>
+		<rom name="Galaxian (1983)(Atarisoft)(NTSC-PAL)[A000].crt" size="8194" crc="82f0866f" md5="e7046f4ccd2648ef3704f124ec9862e7" sha1="f6afd1a2dd09ea09fc92916137fd67ebe9e550c5"/>
+	</game>
+	<game name="Galaxian (1983)(Atarisoft)(NTSC-PAL)[a][A000]">
+		<description>Galaxian (1983)(Atarisoft)(NTSC-PAL)[a][A000]</description>
+		<rom name="Galaxian (1983)(Atarisoft)(NTSC-PAL)[a][A000].crt" size="8192" crc="bde05533" md5="89dd2f0ee60731f49d078a7de3ce22df" sha1="f9b179da71893813e9a70494dea9babc85595e18"/>
+	</game>
+	<game name="Garden Wars (1982)(Commodore)(NTSC)[A000]">
+		<description>Garden Wars (1982)(Commodore)(NTSC)[A000]</description>
+		<rom name="Garden Wars (1982)(Commodore)(NTSC)[A000].crt" size="8194" crc="da01a054" md5="bfeb40fa16a5c26e34ada972624e3c09" sha1="9e1953dea8155f2cf8a628a51a425dc821ecfa4d"/>
+	</game>
+	<game name="Garden Wars (1982)(Commodore)(NTSC)[a2][A000]">
+		<description>Garden Wars (1982)(Commodore)(NTSC)[a2][A000]</description>
+		<rom name="Garden Wars (1982)(Commodore)(NTSC)[a2][A000].crt" size="8192" crc="e5117308" md5="0c32e1cd036bb67dfc03f2edc6303908" sha1="79d33b7f3cdd0fce5a1a80134f828f344d55cc1a"/>
+	</game>
+	<game name="Garden Wars (1982)(Commodore)(NTSC)[a][A000]">
+		<description>Garden Wars (1982)(Commodore)(NTSC)[a][A000]</description>
+		<rom name="Garden Wars (1982)(Commodore)(NTSC)[a][A000].crt" size="8192" crc="d31239fe" md5="e0c73ffa44c69b5da752d264383589f4" sha1="f46fc7b5b6e3444f9039244eca1b83de1bff8e3b"/>
+	</game>
+	<game name="Ghost Manor (1983)(Xonox)(NTSC)[A000]">
+		<description>Ghost Manor (1983)(Xonox)(NTSC)[A000]</description>
+		<rom name="Ghost Manor (1983)(Xonox)(NTSC)[A000].crt" size="8194" crc="2b5d7c06" md5="00b73b17077ff460302adbde1ddd4685" sha1="0f523707019c8db4998451c15f68d741d703bdb9"/>
+	</game>
+	<game name="Ghost Manor (1983)(Xonox)(NTSC)[a][A000]">
+		<description>Ghost Manor (1983)(Xonox)(NTSC)[a][A000]</description>
+		<rom name="Ghost Manor (1983)(Xonox)(NTSC)[a][A000].crt" size="8192" crc="144daf5a" md5="b8d9dac6b661cc9247c10f4e71aa0b65" sha1="b9c986e820b4e95a55b64cf0e3117564c718ffea"/>
+	</game>
+	<game name="Gold Fever (1983)(Tronix)(NTSC-PAL)[A000]">
+		<description>Gold Fever (1983)(Tronix)(NTSC-PAL)[A000]</description>
+		<rom name="Gold Fever (1983)(Tronix)(NTSC-PAL)[A000].crt" size="4098" crc="8e556704" md5="54096ef4cf9ace93bdffd2086fe1363f" sha1="b071bebf330eaa80dbd2d1b1db6f5f774ded839d"/>
+	</game>
+	<game name="Gold Fever (1983)(Tronix)(NTSC-PAL)[a][A000]">
+		<description>Gold Fever (1983)(Tronix)(NTSC-PAL)[a][A000]</description>
+		<rom name="Gold Fever (1983)(Tronix)(NTSC-PAL)[a][A000].crt" size="4096" crc="90c65375" md5="67780503d98125c311eacc2673b03fec" sha1="a689b2efb42e2b3db90af64f288a2a1f13e28e9d"/>
+	</game>
+	<game name="Gold Fever (1983)(Tronix)(NTSC-PAL)[o][A000]">
+		<description>Gold Fever (1983)(Tronix)(NTSC-PAL)[o][A000]</description>
+		<rom name="Gold Fever (1983)(Tronix)(NTSC-PAL)[o][A000].crt" size="8192" crc="6c4b1de2" md5="cccc468127b1c9430e3325c64be23c91" sha1="97bb2dd88aa744f45aa2965403ddb1f41809ba02"/>
+	</game>
+	<game name="Gold Fever (1983)(Tronix)(NTSC-PAL)[o][a][A000]">
+		<description>Gold Fever (1983)(Tronix)(NTSC-PAL)[o][a][A000]</description>
+		<rom name="Gold Fever (1983)(Tronix)(NTSC-PAL)[o][a][A000].crt" size="8382" crc="58d9f1b4" md5="f8a763aea17cae9a6eea773356571eac" sha1="a2f92d8df7b3ce162d349efcb8d12ee95c52e355"/>
+	</game>
+	<game name="Gorf (1982)(Commodore)[A000]">
+		<description>Gorf (1982)(Commodore)[A000]</description>
+		<rom name="Gorf (1982)(Commodore)[A000].crt" size="8194" crc="00167fcb" md5="1116d31f1cc510bff007e619aadebd28" sha1="a02f6fac5c6cb3a9eacbd2a24a12591707893698"/>
+	</game>
+	<game name="Gorf (1982)(Commodore)[a][A000]">
+		<description>Gorf (1982)(Commodore)[a][A000]</description>
+		<rom name="Gorf (1982)(Commodore)[a][A000].crt" size="8192" crc="3f06ac97" md5="bd0a830010ebde78e330c0670e555893" sha1="3b3969e33f46960d401ad6a677add9fd5e9dd108"/>
+	</game>
+	<game name="Gridrunner (1982)(HES)(NTSC)[A000]">
+		<description>Gridrunner (1982)(HES)(NTSC)[A000]</description>
+		<rom name="Gridrunner (1982)(HES)(NTSC)[A000].crt" size="4096" crc="2b190aea" md5="6ff978972ed99d3b588146ba0520933a" sha1="1f985ceb947b336f8600348e2d0636f64fb90873"/>
+	</game>
+	<game name="Gridrunner (1982)(HES)(NTSC)[o2][A000]">
+		<description>Gridrunner (1982)(HES)(NTSC)[o2][A000]</description>
+		<rom name="Gridrunner (1982)(HES)(NTSC)[o2][A000].crt" size="8192" crc="e556aaa2" md5="451e5dda5b754d0bcaa2ef045390f9e8" sha1="e503f2c627f5dd241cf55e07e11e51d62e652967"/>
+	</game>
+	<game name="Gridrunner (1982)(HES)(NTSC)[o][A000]">
+		<description>Gridrunner (1982)(HES)(NTSC)[o][A000]</description>
+		<rom name="Gridrunner (1982)(HES)(NTSC)[o][A000].crt" size="8194" crc="da4679fe" md5="6867b96c8fee289622ee59cb67ba1940" sha1="3b4e91806956111a862a0360c9482444413a7dc3"/>
+	</game>
+	<game name="Gridrunner (1982)(HES)(PAL)[A000]">
+		<description>Gridrunner (1982)(HES)(PAL)[A000]</description>
+		<rom name="Gridrunner (1982)(HES)(PAL)[A000].crt" size="4098" crc="df20d5bb" md5="1b24c2ff8fd6afdfb8c1b9a3bbff0d23" sha1="29ff77020f2cce7c64763732310b6a9a3e97074e"/>
+	</game>
+	<game name="Gridrunner (1982)(HES)(PAL)[a][A000]">
+		<description>Gridrunner (1982)(HES)(PAL)[a][A000]</description>
+		<rom name="Gridrunner (1982)(HES)(PAL)[a][A000].crt" size="4096" crc="c1b3e1ca" md5="601650cb5d636777ed960afb6d93f2c4" sha1="878f5adda944a9bc2852c13952d40fca971964d2"/>
+	</game>
+	<game name="Home Babysitter (1982)(Commodore)(NTSC-PAL)[A000]">
+		<description>Home Babysitter (1982)(Commodore)(NTSC-PAL)[A000]</description>
+		<rom name="Home Babysitter (1982)(Commodore)(NTSC-PAL)[A000].crt" size="8194" crc="e1b1950d" md5="2c097e2dfe87b7d742c4581b9652f01b" sha1="abff68011d5c0185af1f6d9b0fdb0746ce8e9f24"/>
+	</game>
+	<game name="Home Babysitter (1982)(Commodore)(NTSC-PAL)[a][A000]">
+		<description>Home Babysitter (1982)(Commodore)(NTSC-PAL)[a][A000]</description>
+		<rom name="Home Babysitter (1982)(Commodore)(NTSC-PAL)[a][A000].crt" size="8192" crc="dea14651" md5="085bf6f4098b75a98c5eca366892b714" sha1="6af39698f9056e31cae185076dd11b6a7647ab81"/>
+	</game>
+	<game name="IFR - Flight Simulator (1983)(Academy)(NTSC-PAL)[A000]">
+		<description>IFR - Flight Simulator (1983)(Academy)(NTSC-PAL)[A000]</description>
+		<rom name="IFR - Flight Simulator (1983)(Academy)(NTSC-PAL)[A000].crt" size="8194" crc="c4876eca" md5="345be2097b36378c52323e9bb9b79283" sha1="6a16e46dd644d0c9eb37c67da07f20a1ff88c671"/>
+	</game>
+	<game name="IFR - Flight Simulator (1983)(Academy)(NTSC-PAL)[a2][A000]">
+		<description>IFR - Flight Simulator (1983)(Academy)(NTSC-PAL)[a2][A000]</description>
+		<rom name="IFR - Flight Simulator (1983)(Academy)(NTSC-PAL)[a2][A000].crt" size="8192" crc="fb97bd96" md5="c0678c9dfdabd2d8ab68662282b0f15f" sha1="130873b7e2dde965af451f730d08956d12cfadbe"/>
+	</game>
+	<game name="IFR - Flight Simulator (1983)(Academy)(NTSC-PAL)[a3][A000]">
+		<description>IFR - Flight Simulator (1983)(Academy)(NTSC-PAL)[a3][A000]</description>
+		<rom name="IFR - Flight Simulator (1983)(Academy)(NTSC-PAL)[a3][A000].crt" size="8192" crc="9770700a" md5="1e313d20dc963094fd67a6a4eb914f1f" sha1="bff917be0ba3067639787b03ece0beb6af39d15a"/>
+	</game>
+	<game name="IFR - Flight Simulator (1983)(Academy)(NTSC-PAL)[a][A000]">
+		<description>IFR - Flight Simulator (1983)(Academy)(NTSC-PAL)[a][A000]</description>
+		<rom name="IFR - Flight Simulator (1983)(Academy)(NTSC-PAL)[a][A000].crt" size="8194" crc="a860a356" md5="6061ef5c3b60f870af03c921bd7703f3" sha1="a6ff23541163550bef6e136cca11f185983892ec"/>
+	</game>
+	<game name="In The Chips (1983)(Creative)(NTSC)[6000]">
+		<description>In The Chips (1983)(Creative)(NTSC)[6000]</description>
+		<rom name="In The Chips (1983)(Creative)(NTSC)[6000].crt" size="16384" crc="9e597c82" md5="72176fb8bf625dc233fee22cb1c86731" sha1="360966e3493c4bd58622dfb3f5276122745d56a8"/>
+	</game>
+	<game name="Jawbreaker II (1983)(Sierra)(NTSC)[A000]">
+		<description>Jawbreaker II (1983)(Sierra)(NTSC)[A000]</description>
+		<rom name="Jawbreaker II (1983)(Sierra)(NTSC)[A000].crt" size="8194" crc="ea9ffeaa" md5="818299fd03c2fe7c2327b02f1967e9cf" sha1="66c3b85f484a2fa7ffb0b41a6250fef5124f9135"/>
+	</game>
+	<game name="Jawbreaker II (1983)(Sierra)(NTSC)[a][A000]">
+		<description>Jawbreaker II (1983)(Sierra)(NTSC)[a][A000]</description>
+		<rom name="Jawbreaker II (1983)(Sierra)(NTSC)[a][A000].crt" size="8192" crc="d58f2df6" md5="2c1d7991fe8c75ee857a0781557c19bd" sha1="4acdb8b76dd585202a1a34ed812f70d048b623a9"/>
+	</game>
+	<game name="Jawbreaker II (1983)(Sierra)(PAL)[A000]">
+		<description>Jawbreaker II (1983)(Sierra)(PAL)[A000]</description>
+		<rom name="Jawbreaker II (1983)(Sierra)(PAL)[A000].crt" size="8194" crc="963b2cae" md5="f5a6d1703e343816b92372c0a2876297" sha1="160b78f3647039789c29e60a3805e16f7d670015"/>
+	</game>
+	<game name="Jawbreaker II (1983)(Sierra)(PAL)[a][A000]">
+		<description>Jawbreaker II (1983)(Sierra)(PAL)[a][A000]</description>
+		<rom name="Jawbreaker II (1983)(Sierra)(PAL)[a][A000].crt" size="8192" crc="a92bfff2" md5="d661999f83a486379b1e8f9ece76df51" sha1="cc63a501df4d4199ef2fcbe00dc34ec44150e4ea"/>
+	</game>
+	<game name="Jelly Monsters v1 (1981)(Commodore)[A000]">
+		<description>Jelly Monsters v1 (1981)(Commodore)[A000]</description>
+		<rom name="Jelly Monsters v1 (1981)(Commodore)[A000].crt" size="8194" crc="e7bf5cbf" md5="5f1068f8cba03674577f3fc362242af4" sha1="73d7bb51edb93fe23aa0e9502f09eda79bf0aca6"/>
+	</game>
+	<game name="Jelly Monsters v1 (1981)(Commodore)[a][A000]">
+		<description>Jelly Monsters v1 (1981)(Commodore)[a][A000]</description>
+		<rom name="Jelly Monsters v1 (1981)(Commodore)[a][A000].crt" size="8192" crc="d8af8fe3" md5="799e2d8647cb9bfb061c2fd0495d404c" sha1="e46f91b0e9355bf260e4cd85ab4b10fa89c24a20"/>
+	</game>
+	<game name="Jelly Monsters v1 (1981)(Commodore)[f][A000]">
+		<description>Jelly Monsters v1 (1981)(Commodore)[f][A000]</description>
+		<rom name="Jelly Monsters v1 (1981)(Commodore)[f][A000].crt" size="8194" crc="efc4664c" md5="88898d6694c2c70bcf6e42514019bb3f" sha1="4972007c3ba1297696ef1ba93d179055c0314f53"/>
+	</game>
+	<game name="Jelly Monsters v2 (1981)(Commodore)[A000]">
+		<description>Jelly Monsters v2 (1981)(Commodore)[A000]</description>
+		<rom name="Jelly Monsters v2 (1981)(Commodore)[A000].crt" size="8194" crc="a3dee7bf" md5="f049e994b1fc76412f6dfc628d85ad38" sha1="306c9733579086f4d4bbfd95302845e58c97b6f0"/>
+	</game>
+	<game name="Jelly Monsters v2 (1981)(Commodore)[a][A000]">
+		<description>Jelly Monsters v2 (1981)(Commodore)[a][A000]</description>
+		<rom name="Jelly Monsters v2 (1981)(Commodore)[a][A000].crt" size="8192" crc="9cce34e3" md5="dc35db8a0388d6645a72626f7dcfd05c" sha1="2af73eb9680f8c3d001b819ce6de54f6d1e75321"/>
+	</game>
+	<game name="Jelly Monsters v2 (1981)(Commodore)[f][A000]">
+		<description>Jelly Monsters v2 (1981)(Commodore)[f][A000]</description>
+		<rom name="Jelly Monsters v2 (1981)(Commodore)[f][A000].crt" size="8194" crc="f34199b9" md5="1c404b9b4caccae9d2cae36f348052e9" sha1="1ca5bc2048efcca4fb104cd789365bcb3fe13755"/>
+	</game>
+	<game name="Jungle Hunt (1984)(Atarisoft)(NTSC)[6000]">
+		<description>Jungle Hunt (1984)(Atarisoft)(NTSC)[6000]</description>
+		<rom name="Jungle Hunt (1984)(Atarisoft)(NTSC)[6000].crt" size="16384" crc="3e568ef6" md5="85fee1bcba7411783302fe0de5eb2f98" sha1="87043d37e2f457164fb9fa59a33a7d54997a2f37"/>
+	</game>
+	<game name="Jupiter Lander - VIC Super Lander (1981)(Commodore)[A000]">
+		<description>Jupiter Lander - VIC Super Lander (1981)(Commodore)[A000]</description>
+		<rom name="Jupiter Lander - VIC Super Lander (1981)(Commodore)[A000].crt" size="8194" crc="c7750bda" md5="438bc0cf737d380e8ef9e5dcd9048e16" sha1="c80ca09e3ac6c0cf3273e749683f9f52a74c929a"/>
+	</game>
+	<game name="Jupiter Lander - VIC Super Lander (1981)(Commodore)[a2][A000]">
+		<description>Jupiter Lander - VIC Super Lander (1981)(Commodore)[a2][A000]</description>
+		<rom name="Jupiter Lander - VIC Super Lander (1981)(Commodore)[a2][A000].crt" size="8192" crc="18e177f1" md5="5acd29a705174fca00c32ee61547e24c" sha1="5b39a7ba5f3b401ca400411ce4229c7bd30c1d45"/>
+	</game>
+	<game name="Jupiter Lander - VIC Super Lander (1981)(Commodore)[a3][A000]">
+		<description>Jupiter Lander - VIC Super Lander (1981)(Commodore)[a3][A000]</description>
+		<rom name="Jupiter Lander - VIC Super Lander (1981)(Commodore)[a3][A000].crt" size="8192" crc="f865d886" md5="30c7aa2872660d0ad6c5cd08c86586e5" sha1="525af765f12bf48e83eb034bfe751b6af9c96fca"/>
+	</game>
+	<game name="Jupiter Lander - VIC Super Lander (1981)(Commodore)[a][A000]">
+		<description>Jupiter Lander - VIC Super Lander (1981)(Commodore)[a][A000]</description>
+		<rom name="Jupiter Lander - VIC Super Lander (1981)(Commodore)[a][A000].crt" size="8194" crc="27f1a4ad" md5="542b87b4b0f29576f81903262901d6d9" sha1="a9ca97ca278c37f7e9b5c2e05786c7734a52e3e8"/>
+	</game>
+	<game name="K-razy Antics (1982)(CBS)(PAL)[o][b][6000]">
+		<description>K-razy Antics (1982)(CBS)(PAL)[o][b][6000]</description>
+		<rom name="K-razy Antics (1982)(CBS)(PAL)[o][b][6000].crt" size="16384" crc="75b02c7f" md5="a95d08eeee4f7e1e1e2c5b8636268a08" sha1="00117c7b484d1cf128718bb02e79344a6dedcc10"/>
+	</game>
+	<game name="K-razy Antiks (1982)(CBS)[6000][for sd-cart]">
+		<description>K-razy Antiks (1982)(CBS)[6000][for sd-cart]</description>
+		<rom name="K-razy Antiks (1982)(CBS)[6000][for sd-cart].crt" size="4096" crc="08a88dd8" md5="d414d7ba970f59c919a028202dd36a6b" sha1="e0505695f84a2d6aeba994a2e2a4be1ee3acc4ba"/>
+	</game>
+	<game name="K-Star Patrol (1982)(CBS)(PAL)[6000]">
+		<description>K-Star Patrol (1982)(CBS)(PAL)[6000]</description>
+		<rom name="K-Star Patrol (1982)(CBS)(PAL)[6000].crt" size="16384" crc="5eb2be5e" md5="afcae4d437d40427201bff71f745df9e" sha1="2af7e9cc6a549ae3957b8008b813d8e964a2414f"/>
+	</game>
+	<game name="K-Star Patrol (1982)(CBS)(PAL)[b][6000]">
+		<description>K-Star Patrol (1982)(CBS)(PAL)[b][6000]</description>
+		<rom name="K-Star Patrol (1982)(CBS)(PAL)[b][6000].crt" size="16384" crc="69d983c4" md5="4e2f02e30612cc8ce00fd76471ecbf98" sha1="1f36c6b4d2e18ad5bf80717df8750791afd46c47"/>
+	</game>
+	<game name="Key Quest (1983)(Tymac)(NTSC)[A000]">
+		<description>Key Quest (1983)(Tymac)(NTSC)[A000]</description>
+		<rom name="Key Quest (1983)(Tymac)(NTSC)[A000].crt" size="8194" crc="fe1c56ca" md5="428b4cbdabf3c4e44ba52e72b28bad81" sha1="28e336ae57449fcbf201076830e62500b6b9982d"/>
+	</game>
+	<game name="Kids on Keys (1983)(HES)[A000]">
+		<description>Kids on Keys (1983)(HES)[A000]</description>
+		<rom name="Kids on Keys (1983)(HES)[A000].crt" size="8194" crc="d9856e18" md5="3e574111b8b8036d5966f85f4974894c" sha1="3355bf6a812f00ae35b437997aebd748ad6bd2ae"/>
+	</game>
+	<game name="Kids on keys (1983)(HES)[a][A000]">
+		<description>Kids on keys (1983)(HES)[a][A000]</description>
+		<rom name="Kids on keys (1983)(HES)[a][A000].crt" size="8192" crc="e695bd44" md5="853fa4b04588d4ab86189453890bac93" sha1="e970e6f979607fbd92f3836cdfe309cc77979805"/>
+	</game>
+	<game name="Kindercomp (1983)(HES)(NTSC-PAL)[6000]">
+		<description>Kindercomp (1983)(HES)(NTSC-PAL)[6000]</description>
+		<rom name="Kindercomp (1983)(HES)(NTSC-PAL)[6000].crt" size="16384" crc="c34d6ac4" md5="3529cc09039de0cbcc76efd849ea01cd" sha1="16bcdd7d35df9e64ab1447732ea599cd046cc618"/>
+	</game>
+	<game name="Lazer Zone (1983)(HES)(NTSC-PAL)[A000]">
+		<description>Lazer Zone (1983)(HES)(NTSC-PAL)[A000]</description>
+		<rom name="Lazer Zone (1983)(HES)(NTSC-PAL)[A000].crt" size="8194" crc="3e8dc377" md5="4b2e20c005e18fad54d83865064551ca" sha1="85df18967eda5d745e0a726bf73ab7f7cfef8a06"/>
+	</game>
+	<game name="Lazer Zone (1983)(HES)(NTSC-PAL)[a][A000]">
+		<description>Lazer Zone (1983)(HES)(NTSC-PAL)[a][A000]</description>
+		<rom name="Lazer Zone (1983)(HES)(NTSC-PAL)[a][A000].crt" size="8192" crc="019d102b" md5="00a4346bacf11ad12c31f0541def1257" sha1="d816fae84d86928cdd2a3fe9bd5903f15378c154"/>
+	</game>
+	<game name="Lode Runner (1983)(Broderbund)(NTSC-PAL)[6000]">
+		<description>Lode Runner (1983)(Broderbund)(NTSC-PAL)[6000]</description>
+		<rom name="Lode Runner (1983)(Broderbund)(NTSC-PAL)[6000].crt" size="16384" crc="933d6c51" md5="b8659985a43cf3d36359d8e502ea35e6" sha1="17fc0f1abae295b7b2fea8e2e73a02df59f56105"/>
+	</game>
+	<game name="Lode Runner (1983)(Broderbund)(NTSC-PAL)[b][A000]">
+		<description>Lode Runner (1983)(Broderbund)(NTSC-PAL)[b][A000]</description>
+		<rom name="Lode Runner (1983)(Broderbund)(NTSC-PAL)[b][A000].crt" size="16384" crc="49734d94" md5="cb5a1468014d51c969d48ed3aac21207" sha1="d44c41fc339fc150da724d50b21431b753db293a"/>
+	</game>
+	<game name="Lunar Leeper (1981)(Sierra)(NTSC)[2000][for sd-cart]">
+		<description>Lunar Leeper (1981)(Sierra)(NTSC)[2000][for sd-cart]</description>
+		<rom name="Lunar Leeper (1981)(Sierra)(NTSC)[2000][for sd-cart].crt" size="4096" crc="86e49944" md5="afb2ff85e27c478b197b6862b4c0ddd5" sha1="585d57a6acf208f8c707146f10ea0341165262e8"/>
+	</game>
+	<game name="Mastertype (1983)(Broderbund)(NTSC-PAL)[6000]">
+		<description>Mastertype (1983)(Broderbund)(NTSC-PAL)[6000]</description>
+		<rom name="Mastertype (1983)(Broderbund)(NTSC-PAL)[6000].crt" size="16384" crc="38674bc2" md5="f041cbbb2994c40e048bdebcf766d0db" sha1="3d658542ffd95a2657323a61e86f63c4b4a90498"/>
+	</game>
+	<game name="Maze (1983)(HES)(NTSC)[A000]">
+		<description>Maze (1983)(HES)(NTSC)[A000]</description>
+		<rom name="Maze (1983)(HES)(NTSC)[A000].crt" size="8194" crc="3f2f8ed1" md5="109b42869db4416ae40159457d92a7e9" sha1="24286478df0e5798bafce7ad837a8c059e8ef91b"/>
+	</game>
+	<game name="Maze (1983)(HES)(NTSC)[a2][A000]">
+		<description>Maze (1983)(HES)(NTSC)[a2][A000]</description>
+		<rom name="Maze (1983)(HES)(NTSC)[a2][A000].crt" size="8192" crc="003f5d8d" md5="579352bf3e7141ea8c578af3c929fa52" sha1="127feec36e5a57f84722aa3e8ce1aac0b5dd7d42"/>
+	</game>
+	<game name="Maze (1983)(HES)(NTSC)[a][A000]">
+		<description>Maze (1983)(HES)(NTSC)[a][A000]</description>
+		<rom name="Maze (1983)(HES)(NTSC)[a][A000].crt" size="8192" crc="3151d362" md5="abe0ea7beb7c2393e6af669437fff06b" sha1="372afe3ef2133c36c29ea997c540f768f475f37f"/>
+	</game>
+	<game name="Maze (1983)(HES)(NTSC)[o][A000]">
+		<description>Maze (1983)(HES)(NTSC)[o][A000]</description>
+		<rom name="Maze (1983)(HES)(NTSC)[o][A000].crt" size="8382" crc="c7dc2d43" md5="4bf81b8aeb452b67247544cf99bcc319" sha1="4ed30f2053f5261a6d322312efe378a6398c1bbc"/>
+	</game>
+	<game name="Medieval Joust (1983)(Thorn EMI)(NTSC-PAL)[A000]">
+		<description>Medieval Joust (1983)(Thorn EMI)(NTSC-PAL)[A000]</description>
+		<rom name="Medieval Joust (1983)(Thorn EMI)(NTSC-PAL)[A000].crt" size="8194" crc="b4dd5f5c" md5="ef0ae1b22af1f14a0ae0f1298204c450" sha1="7c1acaffcfa05c397b1ffb793aee11f1d76e3907"/>
+	</game>
+	<game name="Medieval Joust (1983)(Thorn EMI)(NTSC-PAL)[a2][A000]">
+		<description>Medieval Joust (1983)(Thorn EMI)(NTSC-PAL)[a2][A000]</description>
+		<rom name="Medieval Joust (1983)(Thorn EMI)(NTSC-PAL)[a2][A000].crt" size="8192" crc="8bcd8c00" md5="925b2bcef37b1d36ee57ef4e04ac59ed" sha1="1f0f22f19bb9e47af76b08e2dd480ce448e08053"/>
+	</game>
+	<game name="Medieval Joust (1983)(Thorn EMI)(NTSC-PAL)[a3][A000]">
+		<description>Medieval Joust (1983)(Thorn EMI)(NTSC-PAL)[a3][A000]</description>
+		<rom name="Medieval Joust (1983)(Thorn EMI)(NTSC-PAL)[a3][A000].crt" size="8192" crc="25d9a370" md5="d37ba5baa5dff8bd27a759f366d4342f" sha1="e762520166c7e60086e28f5e9119e9f5b6248703"/>
+	</game>
+	<game name="Medieval Joust (1983)(Thorn EMI)(NTSC-PAL)[a][A000]">
+		<description>Medieval Joust (1983)(Thorn EMI)(NTSC-PAL)[a][A000]</description>
+		<rom name="Medieval Joust (1983)(Thorn EMI)(NTSC-PAL)[a][A000].crt" size="8194" crc="1ac9702c" md5="a948a71b8b41d06a35c70a8ea9310831" sha1="920026c66e87e730877461b5006b5794dbeacfd5"/>
+	</game>
+	<game name="Menagerie (1982)(Commodore)(NTSC-PAL)[A000]">
+		<description>Menagerie (1982)(Commodore)(NTSC-PAL)[A000]</description>
+		<rom name="Menagerie (1982)(Commodore)(NTSC-PAL)[A000].crt" size="8194" crc="9cd79575" md5="10f3301f491cbf7e3ec2adf49e992397" sha1="82439496002cc53112d8ffd8a0fb2f4460f17cbd"/>
+	</game>
+	<game name="Menagerie (1982)(Commodore)(NTSC-PAL)[a2][A000]">
+		<description>Menagerie (1982)(Commodore)(NTSC-PAL)[a2][A000]</description>
+		<rom name="Menagerie (1982)(Commodore)(NTSC-PAL)[a2][A000].crt" size="8192" crc="3f47da5d" md5="a103a8a02f9f02a1a1a77c8e306d3297" sha1="04f9130a34ff0681a87440372921757ef81f109c"/>
+	</game>
+	<game name="Menagerie (1982)(Commodore)(NTSC-PAL)[a3][A000]">
+		<description>Menagerie (1982)(Commodore)(NTSC-PAL)[a3][A000]</description>
+		<rom name="Menagerie (1982)(Commodore)(NTSC-PAL)[a3][A000].crt" size="8192" crc="a3c74629" md5="c91808744ffbd966c104a49d6c2b3ba1" sha1="aec46a3e6f9797b116cbe6a8792e00530234ae80"/>
+	</game>
+	<game name="Menagerie (1982)(Commodore)(NTSC-PAL)[a][A000]">
+		<description>Menagerie (1982)(Commodore)(NTSC-PAL)[a][A000]</description>
+		<rom name="Menagerie (1982)(Commodore)(NTSC-PAL)[a][A000].crt" size="8192" crc="95c40cdf" md5="02a2f8ac0d20dc56df4dcd0b849f54c1" sha1="79ade827388f03cc065da302eefb4462555962e5"/>
+	</game>
+	<game name="Menagerie (1982)(Commodore)(NTSC-PAL)[o][A000]">
+		<description>Menagerie (1982)(Commodore)(NTSC-PAL)[o][A000]</description>
+		<rom name="Menagerie (1982)(Commodore)(NTSC-PAL)[o][A000].crt" size="8382" crc="b0baa30e" md5="cc69d779da96077f8e58db372a69c115" sha1="f7fe3e4772c2c8778134b13abea72ee44cf8fa7a"/>
+	</game>
+	<game name="Meteor Run (1982)(UMI)(PAL)[6000]">
+		<description>Meteor Run (1982)(UMI)(PAL)[6000]</description>
+		<rom name="Meteor Run (1982)(UMI)(PAL)[6000].crt" size="16384" crc="b078bb3f" md5="b375af1d9f639f334f405957121c4d94" sha1="3d02e53a980d37cc51345bc750867d4d338f96b4"/>
+	</game>
+	<game name="Midnight Drive (1981)(Commodore)[a2][aka Road Race][A000]">
+		<description>Midnight Drive (1981)(Commodore)[a2][aka Road Race][A000]</description>
+		<rom name="Midnight Drive (1981)(Commodore)[a2][aka Road Race][A000].crt" size="8192" crc="2696282b" md5="1dfd5461ca2f17457c38025fff5d5afd" sha1="f15367430418a1b13951b7e6ad283b80e6471679"/>
+	</game>
+	<game name="Midnight Drive (1981)(Commodore)[a3][aka Road Race][A000]">
+		<description>Midnight Drive (1981)(Commodore)[a3][aka Road Race][A000]</description>
+		<rom name="Midnight Drive (1981)(Commodore)[a3][aka Road Race][A000].crt" size="8192" crc="49ed41da" md5="1123c32d7d185788878ef0aa3067c31d" sha1="5cb8f3cc2529a0144b1e66e1cd7af41ad1ba78b4"/>
+	</game>
+	<game name="Midnight Drive (1981)(Commodore)[a4][aka Road Race][A000]">
+		<description>Midnight Drive (1981)(Commodore)[a4][aka Road Race][A000]</description>
+		<rom name="Midnight Drive (1981)(Commodore)[a4][aka Road Race][A000].crt" size="8192" crc="109562dd" md5="66a299f5fc98f85c6081f60b794ad213" sha1="44239f1c1ee28aa3a000d49d6f4ea41e7b40445a"/>
+	</game>
+	<game name="Midnight Drive (1981)(Commodore)[a][aka Road Race][A000]">
+		<description>Midnight Drive (1981)(Commodore)[a][aka Road Race][A000]</description>
+		<rom name="Midnight Drive (1981)(Commodore)[a][aka Road Race][A000].crt" size="8194" crc="2f85b181" md5="6d1d07508369c61c20cb804ebd5856d7" sha1="405cfd08df5cf7b4d03fca95a79478b20cf43e5a"/>
+	</game>
+	<game name="Midnight Drive (1981)(Commodore)[aka Road Race][A000]">
+		<description>Midnight Drive (1981)(Commodore)[aka Road Race][A000]</description>
+		<rom name="Midnight Drive (1981)(Commodore)[aka Road Race][A000].crt" size="8194" crc="76fd9286" md5="6cb5f1be61bd1fe896686f559b5fcfcd" sha1="f64640ebb656e06fd55e9992b0e27ef9ac8dfa88"/>
+	</game>
+	<game name="Midnight Drive (1981)(Commodore)[o][aka Road Race][A000]">
+		<description>Midnight Drive (1981)(Commodore)[o][aka Road Race][A000]</description>
+		<rom name="Midnight Drive (1981)(Commodore)[o][aka Road Race][A000].crt" size="8382" crc="7a460d4b" md5="37217289d22a690b957556906ecf425b" sha1="93e047cdcc7d391da59fe311f3a294cf55439f88"/>
+	</game>
+	<game name="Mine Madness (1983)(Thorn EMI)(NTSC)[A000]">
+		<description>Mine Madness (1983)(Thorn EMI)(NTSC)[A000]</description>
+		<rom name="Mine Madness (1983)(Thorn EMI)(NTSC)[A000].crt" size="8194" crc="6232aa40" md5="fdf981f4b6095dd113de7bcc5ba4d60c" sha1="71b094e5e46d6953dd3da856b321078dcfccffc7"/>
+	</game>
+	<game name="Mine Madness (1983)(Thorn EMI)(NTSC)[a][A000]">
+		<description>Mine Madness (1983)(Thorn EMI)(NTSC)[a][A000]</description>
+		<rom name="Mine Madness (1983)(Thorn EMI)(NTSC)[a][A000].crt" size="8192" crc="5d22791c" md5="6196a18bc46bba46a443eabe8e4c96bb" sha1="b44ddde457654cf48a97d4cf90345030bc4243ba"/>
+	</game>
+	<game name="Miner 2049'er (1984)(Reston)(PAL)[A000]">
+		<description>Miner 2049'er (1984)(Reston)(PAL)[A000]</description>
+		<rom name="Miner 2049'er (1984)(Reston)(PAL)[A000].crt" size="8194" crc="bf53415c" md5="2b63a5b73c59557e70114fa4c94f94d6" sha1="f11b037c8e48057d8bdffe7fb0cbb993d2469b8e"/>
+	</game>
+	<game name="Miner 2049'er (1984)(Reston)(PAL)[a2][A000]">
+		<description>Miner 2049'er (1984)(Reston)(PAL)[a2][A000]</description>
+		<rom name="Miner 2049'er (1984)(Reston)(PAL)[a2][A000].crt" size="8192" crc="80439200" md5="82dc6ed7ca2e8d85840e05b6049a4365" sha1="32af135822d95ffec61cc11a6ba336897fdf867c"/>
+	</game>
+	<game name="Miner 2049'er (1984)(Reston)(PAL)[a3][A000]">
+		<description>Miner 2049'er (1984)(Reston)(PAL)[a3][A000]</description>
+		<rom name="Miner 2049'er (1984)(Reston)(PAL)[a3][A000].crt" size="8192" crc="3ad92fdc" md5="0577e99918b4be456ae006977d02563b" sha1="9fab5f03270604357441e459895b9c8c1bdff84b"/>
+	</game>
+	<game name="Miner 2049'er (1984)(Reston)(PAL)[a][A000]">
+		<description>Miner 2049'er (1984)(Reston)(PAL)[a][A000]</description>
+		<rom name="Miner 2049'er (1984)(Reston)(PAL)[a][A000].crt" size="8194" crc="05c9fc80" md5="5819cf7f7e33373ee07e2efbf5cd2ee6" sha1="22f6a2964f07ddcdfd7035c73a8af82c35345965"/>
+	</game>
+	<game name="Mission Impossible (1981)(Commodore)[b][a][SYS 32592][4000]">
+		<description>Mission Impossible (1981)(Commodore)[b][a][SYS 32592][4000]</description>
+		<rom name="Mission Impossible (1981)(Commodore)[b][a][SYS 32592][4000].crt" size="16386" crc="b00c5afd" md5="fc7b4a5ef0abe55bf0c61e3ec2745e70" sha1="4619cd0c58dd8ffcc1e2d924ff17009da4d7c70e"/>
+	</game>
+	<game name="Mission Impossible (1981)(Commodore)[b][SYS 32592][4000]">
+		<description>Mission Impossible (1981)(Commodore)[b][SYS 32592][4000]</description>
+		<rom name="Mission Impossible (1981)(Commodore)[b][SYS 32592][4000].crt" size="16384" crc="e385353a" md5="f243fbc9decd2a344868ed2ac580100b" sha1="03c9d4453390d37e71e345faa409eb01a1cfeff9"/>
+	</game>
+	<game name="Mobile Attack (1982)(MSD)[A000]">
+		<description>Mobile Attack (1982)(MSD)[A000]</description>
+		<rom name="Mobile Attack (1982)(MSD)[A000].crt" size="8194" crc="f66cce96" md5="c96832bc7b1e8726fb1d4e7248bdce5a" sha1="7ada8fb39574280a1e068ebb899ef0629f5c21ad"/>
+	</game>
+	<game name="Mole Attack (1981)(Commodore)(NTSC)[A000]">
+		<description>Mole Attack (1981)(Commodore)(NTSC)[A000]</description>
+		<rom name="Mole Attack (1981)(Commodore)(NTSC)[A000].crt" size="8194" crc="a33dc2d9" md5="e9930fde0478bb61a490591e48a239d4" sha1="ba0c79e1e8ea57f86dad1c464d0539bcc6d0f698"/>
+	</game>
+	<game name="Mole Attack (1981)(Commodore)(NTSC)[a2][A000]">
+		<description>Mole Attack (1981)(Commodore)(NTSC)[a2][A000]</description>
+		<rom name="Mole Attack (1981)(Commodore)(NTSC)[a2][A000].crt" size="8192" crc="9c2d1185" md5="b4e373d50195722b25c94283bf49db60" sha1="8f0d31c8f08b4f516ade9ffac1a41c150764aa17"/>
+	</game>
+	<game name="Mole Attack (1981)(Commodore)(NTSC)[a][A000]">
+		<description>Mole Attack (1981)(Commodore)(NTSC)[a][A000]</description>
+		<rom name="Mole Attack (1981)(Commodore)(NTSC)[a][A000].crt" size="8192" crc="f1f0f56e" md5="826879dd8cc6a3de5f1fd216f86407af" sha1="7215e7f8a144a8e056cd51e26cfae331345be5de"/>
+	</game>
+	<game name="Money Wars (1982)(Commodore)(NTSC)[A000]">
+		<description>Money Wars (1982)(Commodore)(NTSC)[A000]</description>
+		<rom name="Money Wars (1982)(Commodore)(NTSC)[A000].crt" size="8194" crc="c0e677fb" md5="31e29ae9b727461202e892055d7472c8" sha1="37e4a88ae58e8bf69bb447f962e6d660ff06b68d"/>
+	</game>
+	<game name="Money Wars (1982)(Commodore)(NTSC)[a2][A000]">
+		<description>Money Wars (1982)(Commodore)(NTSC)[a2][A000]</description>
+		<rom name="Money Wars (1982)(Commodore)(NTSC)[a2][A000].crt" size="8192" crc="0ed4912b" md5="1550a3b59ad28333efb26d4ee1f0a52a" sha1="b85a1dda128905dc7f2cfca3858fa33bc08265f2"/>
+	</game>
+	<game name="Money Wars (1982)(Commodore)(NTSC)[a3][A000]">
+		<description>Money Wars (1982)(Commodore)(NTSC)[a3][A000]</description>
+		<rom name="Money Wars (1982)(Commodore)(NTSC)[a3][A000].crt" size="8192" crc="fff6a4a7" md5="4ff023da5de47f11cc2f2fee026fb939" sha1="d6680086aa6c0d5b29b7368a1b14d583088771ec"/>
+	</game>
+	<game name="Money Wars (1982)(Commodore)(NTSC)[a4][A000]">
+		<description>Money Wars (1982)(Commodore)(NTSC)[a4][A000]</description>
+		<rom name="Money Wars (1982)(Commodore)(NTSC)[a4][A000].crt" size="8192" crc="2c20505c" md5="121a419ae95598896da7aad430c42f4b" sha1="be17447953d0ac80dd04937dc2b02e025359a4f1"/>
+	</game>
+	<game name="Money Wars (1982)(Commodore)(NTSC)[a5][A000]">
+		<description>Money Wars (1982)(Commodore)(NTSC)[a5][A000]</description>
+		<rom name="Money Wars (1982)(Commodore)(NTSC)[a5][A000].crt" size="8192" crc="97ddc091" md5="a243da0c9bd7a2d9c79ff7361a2d93e7" sha1="383b950bb6eecfa620adc1e2e4a5633af1aa0f3e"/>
+	</game>
+	<game name="Money Wars (1982)(Commodore)(NTSC)[a][A000]">
+		<description>Money Wars (1982)(Commodore)(NTSC)[a][A000]</description>
+		<rom name="Money Wars (1982)(Commodore)(NTSC)[a][A000].crt" size="8194" crc="13308300" md5="37157e3149920316a7e5729056497f6d" sha1="7a2aaddf6b6fbf08ad2f67ac2453739e8d9976a0"/>
+	</game>
+	<game name="Money Wars (1982)(Commodore)(NTSC)[o][A000]">
+		<description>Money Wars (1982)(Commodore)(NTSC)[o][A000]</description>
+		<rom name="Money Wars (1982)(Commodore)(NTSC)[o][A000].crt" size="8382" crc="0d79eb75" md5="11ce163f9ee9ca4cc4b6a3e2be115cbb" sha1="84924a5d54a4cb2eca974b6c7f9cff59c58f13e0"/>
+	</game>
+	<game name="Monster Maze (1982)(Epyx)[A000]">
+		<description>Monster Maze (1982)(Epyx)[A000]</description>
+		<rom name="Monster Maze (1982)(Epyx)[A000].crt" size="8194" crc="02c22764" md5="6bf2253625a4aa2ad2a1875cb2704560" sha1="4805eb925b1896588c47fea01cdd4c04eedbf7d6"/>
+	</game>
+	<game name="Monster Maze (1982)(Epyx)[a][A000]">
+		<description>Monster Maze (1982)(Epyx)[a][A000]</description>
+		<rom name="Monster Maze (1982)(Epyx)[a][A000].crt" size="8192" crc="3dd2f438" md5="d7d11c9ea74b73341ca92760f39c2e0b" sha1="5ca560e1621746adba4a9e9ce82c745b997bb52c"/>
+	</game>
+	<game name="Moon Patrol (1983)(Atarisoft)(NTSC)[6000]">
+		<description>Moon Patrol (1983)(Atarisoft)(NTSC)[6000]</description>
+		<rom name="Moon Patrol (1983)(Atarisoft)(NTSC)[6000].crt" size="16384" crc="1ed05098" md5="6f4b3c116b48b632c6b527a34acb46ca" sha1="3d8bfeb4db96fae75a6e2e49a7850134282db775"/>
+	</game>
+	<game name="Mosquito Infestation (1982)(HES)[A000]">
+		<description>Mosquito Infestation (1982)(HES)[A000]</description>
+		<rom name="Mosquito Infestation (1982)(HES)[A000].crt" size="4098" crc="b51a8a47" md5="4bed6eccf23dbf5bf3cc6b222ecc7629" sha1="a2cb8dd97fe8eaf8df25a38201c6477e1ab77b83"/>
+	</game>
+	<game name="Mosquito Infestation (1982)(HES)[a][A000]">
+		<description>Mosquito Infestation (1982)(HES)[a][A000]</description>
+		<rom name="Mosquito Infestation (1982)(HES)[a][A000].crt" size="4096" crc="ab89be36" md5="92617d8a2aee14ee12edb1ac298b2f6c" sha1="575fc5d44c90b46b07e7ba22adfcf713042f025d"/>
+	</game>
+	<game name="Mosquito Infestation (1982)(HES)[o][A000]">
+		<description>Mosquito Infestation (1982)(HES)[o][A000]</description>
+		<rom name="Mosquito Infestation (1982)(HES)[o][A000].crt" size="8192" crc="66054e0d" md5="f16ec5cbe9bb27dd94b2e0e6592a6678" sha1="abebc5d67234367ae4228213d548648c7d455568"/>
+	</game>
+	<game name="Mosquito Infestation (1982)(HES)[o][a][A000]">
+		<description>Mosquito Infestation (1982)(HES)[o][a][A000]</description>
+		<rom name="Mosquito Infestation (1982)(HES)[o][a][A000].crt" size="8382" crc="3e2e9674" md5="acca04dab1bec21646a8496e9d415cb8" sha1="5a4fd393a70e81b34206a572a13e920c2bfd1234"/>
+	</game>
+	<game name="Motocross Racer (1983)(Xonox)(NTSC)[A000]">
+		<description>Motocross Racer (1983)(Xonox)(NTSC)[A000]</description>
+		<rom name="Motocross Racer (1983)(Xonox)(NTSC)[A000].crt" size="8194" crc="2748727e" md5="bb16ca618b44a123aab7b4a1d9a25487" sha1="0250bd607eed2d73016b34a3eb3a281b02f2f83d"/>
+	</game>
+	<game name="Motocross Racer (1983)(Xonox)(NTSC)[a][A000]">
+		<description>Motocross Racer (1983)(Xonox)(NTSC)[a][A000]</description>
+		<rom name="Motocross Racer (1983)(Xonox)(NTSC)[a][A000].crt" size="8192" crc="1858a122" md5="490cb2aa40a312d72b67a407059c4009" sha1="08bd25248d1b5a28ae7946286c9ce31c102f4ee8"/>
+	</game>
+	<game name="Mountain King (1983)(Beyond)(NTSC)[6000]">
+		<description>Mountain King (1983)(Beyond)(NTSC)[6000]</description>
+		<rom name="Mountain King (1983)(Beyond)(NTSC)[6000].crt" size="16384" crc="28a611d8" md5="8edac533bf069f600e39b2eb89b06ed9" sha1="66a59c3393e4cba953bfd7e64122a5979972693e"/>
+	</game>
+	<game name="Ms. Pac-Man (1983)(Atarisoft)(NTSC)[6000]">
+		<description>Ms. Pac-Man (1983)(Atarisoft)(NTSC)[6000]</description>
+		<rom name="Ms. Pac-Man (1983)(Atarisoft)(NTSC)[6000].crt" size="16384" crc="82ee6de2" md5="d421b07cef5116a28d94380698a7cb8a" sha1="28dc30575799c6efb509aa7edd666c3b230a1359"/>
+	</game>
+	<game name="Mutant Herd (1982)(Thorn EMI)(PAL)[A000]">
+		<description>Mutant Herd (1982)(Thorn EMI)(PAL)[A000]</description>
+		<rom name="Mutant Herd (1982)(Thorn EMI)(PAL)[A000].crt" size="8194" crc="d0821322" md5="12a2cf98cc252cfd0137943442798fc8" sha1="f1106f345023941328a8d09dd339a1f65d184bbd"/>
+	</game>
+	<game name="Mutant Herd (1982)(Thorn EMI)(PAL)[a2][A000]">
+		<description>Mutant Herd (1982)(Thorn EMI)(PAL)[a2][A000]</description>
+		<rom name="Mutant Herd (1982)(Thorn EMI)(PAL)[a2][A000].crt" size="8192" crc="ef92c07e" md5="e295ff86b9339937ff5a5cb4e1c41312" sha1="0346916eec6e82b5a4145dbfde87f98db1cd2944"/>
+	</game>
+	<game name="Mutant Herd (1982)(Thorn EMI)(PAL)[a][A000]">
+		<description>Mutant Herd (1982)(Thorn EMI)(PAL)[a][A000]</description>
+		<rom name="Mutant Herd (1982)(Thorn EMI)(PAL)[a][A000].crt" size="8192" crc="2824381e" md5="e8a537d39e3b3811a7e874481c041cf7" sha1="ab56234eb0aa41fcf6638a0047540ed2abf32e87"/>
+	</game>
+	<game name="Night Drive (1981)(Commodore)(NTSC)[A000]">
+		<description>Night Drive (1981)(Commodore)(NTSC)[A000]</description>
+		<rom name="Night Drive (1981)(Commodore)(NTSC)[A000].crt" size="8194" crc="30d1f301" md5="1f7cf4d067b30068336391093e5df8db" sha1="058fb8b73b26f55271777c639ebd35e983d0beb6"/>
+	</game>
+	<game name="Number Crunch (1982)(Spectravision)(NTSC)[A000]">
+		<description>Number Crunch (1982)(Spectravision)(NTSC)[A000]</description>
+		<rom name="Number Crunch (1982)(Spectravision)(NTSC)[A000].crt" size="8194" crc="e8797872" md5="01ee15b86bd682b4187d362140dae743" sha1="0a80d11ddb073aaea8ea592a4165c8023b03f989"/>
+	</game>
+	<game name="Number Crunch (1982)(Spectravision)(NTSC)[a][A000]">
+		<description>Number Crunch (1982)(Spectravision)(NTSC)[a][A000]</description>
+		<rom name="Number Crunch (1982)(Spectravision)(NTSC)[a][A000].crt" size="8192" crc="d769ab2e" md5="1ea45a98a7476981ce0978661cc85b93" sha1="001374d81d2325c5caa9c89edf6cd0ce2d70c187"/>
+	</game>
+	<game name="Number Nabber &amp; Shape Grabber (1982)(Commodore)(NTSC)[A000]">
+		<description>Number Nabber &amp; Shape Grabber (1982)(Commodore)(NTSC)[A000]</description>
+		<rom name="Number Nabber &amp; Shape Grabber (1982)(Commodore)(NTSC)[A000].crt" size="8194" crc="a3761fd8" md5="40221f93f7ed996dde3bc1f971a47abf" sha1="df89d10703c81a973599129f89c5eb8b8894b64c"/>
+	</game>
+	<game name="Number Nabber &amp; Shape Grabber (1982)(Commodore)(NTSC)[a][A000]">
+		<description>Number Nabber &amp; Shape Grabber (1982)(Commodore)(NTSC)[a][A000]</description>
+		<rom name="Number Nabber &amp; Shape Grabber (1982)(Commodore)(NTSC)[a][A000].crt" size="8192" crc="9c66cc84" md5="be58a860f741ef691333783a160ee161" sha1="31199944b3e3bccfd35f6f6b835248adc624ca70"/>
+	</game>
+	<game name="Omega Race (1982)(Commodore)[A000]">
+		<description>Omega Race (1982)(Commodore)[A000]</description>
+		<rom name="Omega Race (1982)(Commodore)[A000].crt" size="8194" crc="6648c8af" md5="c260db62c3544da3a4bf75f4ae24eb9c" sha1="47a939196a1710d076328afca5f9d51fcbac2929"/>
+	</game>
+	<game name="Omega Race (1982)(Commodore)[a][A000]">
+		<description>Omega Race (1982)(Commodore)[a][A000]</description>
+		<rom name="Omega Race (1982)(Commodore)[a][A000].crt" size="8192" crc="59581bf3" md5="fc33b9877188b45e7261deade15d8e9e" sha1="cc0bfc09237f51ffe8eaf7c189acf50ccfdc4fde"/>
+	</game>
+	<game name="Omega Race (1982)(Commodore)[h][A000]">
+		<description>Omega Race (1982)(Commodore)[h][A000]</description>
+		<rom name="Omega Race (1982)(Commodore)[h][A000].crt" size="8194" crc="f2d3cddc" md5="7e5532b373a17cf31852e7bad5ae53d6" sha1="fd7a0a625c9aa3fab9ac4a2afbb027287fd84e1a"/>
+	</game>
+	<game name="Omega Race (1982)(Commodore)[t][A000]">
+		<description>Omega Race (1982)(Commodore)[t][A000]</description>
+		<rom name="Omega Race (1982)(Commodore)[t][A000].crt" size="8194" crc="46de6452" md5="5761171012d68bc2de234e1a01951d5f" sha1="1c7a95d7091a7df8dd3a675ec8738ef322ecffd5"/>
+	</game>
+	<game name="Omega Race (1982)(Commodore)[t][a][A000]">
+		<description>Omega Race (1982)(Commodore)[t][a][A000]</description>
+		<rom name="Omega Race (1982)(Commodore)[t][a][A000].crt" size="8192" crc="79ceb70e" md5="7c5c2606900b9d8fd7b25c7c0a6a4bd8" sha1="9eac887da51d6923a7829f56e1682020accec930"/>
+	</game>
+	<game name="Outworld (1981)(UMI)(PAL)[A000]">
+		<description>Outworld (1981)(UMI)(PAL)[A000]</description>
+		<rom name="Outworld (1981)(UMI)(PAL)[A000].crt" size="8194" crc="86d8f968" md5="f84afebc7884b2bfa95c69dc1cbda9d9" sha1="72f82097b3295bcbc04fe71a162ea9004d2b1357"/>
+	</game>
+	<game name="Outworld (1981)(UMI)(PAL)[a][A000]">
+		<description>Outworld (1981)(UMI)(PAL)[a][A000]</description>
+		<rom name="Outworld (1981)(UMI)(PAL)[a][A000].crt" size="8192" crc="b9c82a34" md5="0237ae558b866c615958d25126d7de90" sha1="515c95f3fca57c3439e9636052d2c7b4e89d1099"/>
+	</game>
+	<game name="Pac-Man (1983)(Atarisoft)[A000]">
+		<description>Pac-Man (1983)(Atarisoft)[A000]</description>
+		<rom name="Pac-Man (1983)(Atarisoft)[A000].crt" size="8194" crc="5de727ff" md5="92cdbbcdf1818a60b5d07177c6162432" sha1="96283b506c4b49bcf36d9ae8fd8fb40e9796fd3f"/>
+	</game>
+	<game name="Pac-Man (1983)(Atarisoft)[a2][A000]">
+		<description>Pac-Man (1983)(Atarisoft)[a2][A000]</description>
+		<rom name="Pac-Man (1983)(Atarisoft)[a2][A000].crt" size="8192" crc="62f7f4a3" md5="f0b94ab9d8eb407d07025b20a7b860a9" sha1="15b0d43dd3741ea329aa59c627c62222aa70ca91"/>
+	</game>
+	<game name="Pac-Man (1983)(Atarisoft)[a3][A000]">
+		<description>Pac-Man (1983)(Atarisoft)[a3][A000]</description>
+		<rom name="Pac-Man (1983)(Atarisoft)[a3][A000].crt" size="8194" crc="5a8ae3e6" md5="de84800472db8c5f63b365dc06a4c699" sha1="6cf5d25f19288d738735d98ac14a6a0b3c5ebe88"/>
+	</game>
+	<game name="Pac-Man (1983)(Atarisoft)[a4][A000]">
+		<description>Pac-Man (1983)(Atarisoft)[a4][A000]</description>
+		<rom name="Pac-Man (1983)(Atarisoft)[a4][A000].crt" size="8192" crc="659a30ba" md5="34cca5ec6b836b035748d46c34bdd560" sha1="544781944934288524460c30d67c8474a7476095"/>
+	</game>
+	<game name="Pac-Man (1983)(Atarisoft)[a][A000]">
+		<description>Pac-Man (1983)(Atarisoft)[a][A000]</description>
+		<rom name="Pac-Man (1983)(Atarisoft)[a][A000].crt" size="8382" crc="4ee4f05f" md5="88dc71ef072b1939f1de7c8a77765a2b" sha1="eaed6c44837f3de50177b47e5f2616d5b078a1ac"/>
+	</game>
+	<game name="Paratroopers (1982)(Rabbit)[h][A000]">
+		<description>Paratroopers (1982)(Rabbit)[h][A000]</description>
+		<rom name="Paratroopers (1982)(Rabbit)[h][A000].crt" size="8194" crc="6c5bc2cc" md5="7f637833095e9a2b19df330fda601442" sha1="8b51e631811714c49224ec3406a7682139a56122"/>
+	</game>
+	<game name="Paratroopers (1982)(Rabbit)[h][a][A000]">
+		<description>Paratroopers (1982)(Rabbit)[h][a][A000]</description>
+		<rom name="Paratroopers (1982)(Rabbit)[h][a][A000].crt" size="8192" crc="534b1190" md5="f4e8fae06dec00972816ff835b561ada" sha1="c8a01127d12d7d37071c895da32882f69fcc9c5d"/>
+	</game>
+	<game name="Pharaoh's Curse (1983)(HES)[6000]">
+		<description>Pharaoh's Curse (1983)(HES)[6000]</description>
+		<rom name="Pharaoh's Curse (1983)(HES)[6000].crt" size="16384" crc="2c0e717d" md5="2c11f9b2e01ad02b9c25f0755ad02773" sha1="7ee4e9d661f7df599104de910148e94afe3628d9"/>
+	</game>
+	<game name="Pharaoh's Curse (1983)(HES)[a][6000]">
+		<description>Pharaoh's Curse (1983)(HES)[a][6000]</description>
+		<rom name="Pharaoh's Curse (1983)(HES)[a][6000].crt" size="16384" crc="1ed80a24" md5="a950e48a7096ef130a80c84766774bec" sha1="f3744b60c795cf9b614ff9daaf05511d16ebb8c5"/>
+	</game>
+	<game name="Pinball Spectacular (1982)(Commodore)(NTSC)[Paddles][6000]">
+		<description>Pinball Spectacular (1982)(Commodore)(NTSC)[Paddles][6000]</description>
+		<rom name="Pinball Spectacular (1982)(Commodore)(NTSC)[Paddles][6000].crt" size="16384" crc="fb0d4e0d" md5="1f5ddd3902898f145f55daf50b6cff19" sha1="5126f4ee4fd8fb8c1fbbbe7437b26999a9df8ced"/>
+	</game>
+	<game name="Pinball Spectacular (1982)(Commodore)(PAL)[Paddles][6000]">
+		<description>Pinball Spectacular (1982)(Commodore)(PAL)[Paddles][6000]</description>
+		<rom name="Pinball Spectacular (1982)(Commodore)(PAL)[Paddles][6000].crt" size="16384" crc="a1b241da" md5="70f6bd6fbd3e2df08cbd49151d4ad77c" sha1="cead3a7f1d5b7fbcc41855e862d887f5db6ab5a5"/>
+	</game>
+	<game name="Pinball Wizard (1983)(Terminal)[A000]">
+		<description>Pinball Wizard (1983)(Terminal)[A000]</description>
+		<rom name="Pinball Wizard (1983)(Terminal)[A000].crt" size="8192" crc="24c56b66" md5="1a5ec0d1213be90b8df38c14b24f5fb0" sha1="1e715264fa9a505c792348052a35ce40073ab4eb"/>
+	</game>
+	<game name="Pinball Wizard (1983)(Terminal)[A000][for sd-cart]">
+		<description>Pinball Wizard (1983)(Terminal)[A000][for sd-cart]</description>
+		<rom name="Pinball Wizard (1983)(Terminal)[A000][for sd-cart].crt" size="4866" crc="b5ce2d3a" md5="5557cee3e268edfe1d3df6782123eeb9" sha1="404ef0854c24d206d5bf6726c111cfe3530cf6f1"/>
+	</game>
+	<game name="Pipes (1983)(Creative)(NTSC)[A000]">
+		<description>Pipes (1983)(Creative)(NTSC)[A000]</description>
+		<rom name="Pipes (1983)(Creative)(NTSC)[A000].crt" size="8194" crc="1beba5cf" md5="06e5473b769e8c6f233cedff13a1d9ef" sha1="4dd2671d0177b43586d6280d3537238c3a50917e"/>
+	</game>
+	<game name="Pipes (1983)(Creative)(NTSC)[a][A000]">
+		<description>Pipes (1983)(Creative)(NTSC)[a][A000]</description>
+		<rom name="Pipes (1983)(Creative)(NTSC)[a][A000].crt" size="8192" crc="24fb7693" md5="85b81cee971bc029ab82deb090d3b342" sha1="c1a3c241444236b4accf38637bbaf78d323e3e48"/>
+	</game>
+	<game name="Pirate Cove (1981)(Commodore)[b][a][SYS 32592][4000]">
+		<description>Pirate Cove (1981)(Commodore)[b][a][SYS 32592][4000]</description>
+		<rom name="Pirate Cove (1981)(Commodore)[b][a][SYS 32592][4000].crt" size="16384" crc="27cfafa3" md5="a5bd2a10c13181d712a6263d79a68e59" sha1="2e4accb6abb84c3a5062a98c398bee3fbf93f9e2"/>
+	</game>
+	<game name="Pirate Cove (1981)(Commodore)[b][SYS 32592][4000]">
+		<description>Pirate Cove (1981)(Commodore)[b][SYS 32592][4000]</description>
+		<rom name="Pirate Cove (1981)(Commodore)[b][SYS 32592][4000].crt" size="16386" crc="7446c064" md5="acb3f380a3fe8424b38a49bbc8deee74" sha1="641bbe959ca37beb374f379f926acc78e5922ab0"/>
+	</game>
+	<game name="Polaris (1983)(Tigervision)(NTSC)[A000]">
+		<description>Polaris (1983)(Tigervision)(NTSC)[A000]</description>
+		<rom name="Polaris (1983)(Tigervision)(NTSC)[A000].crt" size="8194" crc="aa2860f3" md5="4701362f99463de37c3b7b9f0dae893e" sha1="993055147a01aa9907de7e9f697eb14eb050a54b"/>
+	</game>
+	<game name="Polaris (1983)(Tigervision)(NTSC)[a][A000]">
+		<description>Polaris (1983)(Tigervision)(NTSC)[a][A000]</description>
+		<rom name="Polaris (1983)(Tigervision)(NTSC)[a][A000].crt" size="8192" crc="9538b3af" md5="ce4d3ca45ee5b1cf8f2ee7062a577037" sha1="56b3d961cb859fdccfdede5e46eeb563180e0486"/>
+	</game>
+	<game name="Pole Position (1983)(Atarisoft)(NTSC)[6000]">
+		<description>Pole Position (1983)(Atarisoft)(NTSC)[6000]</description>
+		<rom name="Pole Position (1983)(Atarisoft)(NTSC)[6000].crt" size="16384" crc="65cd8ea4" md5="9e618fea6aa34ede1e57b5e8f0943d49" sha1="53dba235a237f75bc27b5a91aa0dffaa25a8a220"/>
+	</game>
+	<game name="Predator (1983)(HES)(NTSC)[A000]">
+		<description>Predator (1983)(HES)(NTSC)[A000]</description>
+		<rom name="Predator (1983)(HES)(NTSC)[A000].crt" size="8194" crc="cc7a18a0" md5="263a2ef79aae4fbd74c19a88399f35c6" sha1="5ccb5d3e708c315f9e5801e2b9cebc373e237383"/>
+	</game>
+	<game name="Predator (1983)(HES)(NTSC)[a][A000]">
+		<description>Predator (1983)(HES)(NTSC)[a][A000]</description>
+		<rom name="Predator (1983)(HES)(NTSC)[a][A000].crt" size="8192" crc="f36acbfc" md5="a28e58b15142a34b32823ebda85ea006" sha1="f8b12d83b5e6dc9f6aca8c32c36de2b39e1d2e41"/>
+	</game>
+	<game name="Predator (1983)(HES)(NTSC)[h][A000]">
+		<description>Predator (1983)(HES)(NTSC)[h][A000]</description>
+		<rom name="Predator (1983)(HES)(NTSC)[h][A000].crt" size="8382" crc="1baa5a15" md5="5ece08705e9d46886c4c82eef45028bc" sha1="745aeaedd29855e5d169bd392d02ce0cb55cc117"/>
+	</game>
+	<game name="Predator (1983)(HES)(PAL)[A000]">
+		<description>Predator (1983)(HES)(PAL)[A000]</description>
+		<rom name="Predator (1983)(HES)(PAL)[A000].crt" size="8192" crc="666c7c7a" md5="7346fa3d98694caf2f8f74d67e815568" sha1="bc6bdf642d27a2ff2c9a16a9a92b87680cfd4e37"/>
+	</game>
+	<game name="Princess and Frog (1983)(Romox)(NTSC)[A000]">
+		<description>Princess and Frog (1983)(Romox)(NTSC)[A000]</description>
+		<rom name="Princess and Frog (1983)(Romox)(NTSC)[A000].crt" size="8194" crc="44d180a8" md5="2e81672925516d1cb53b0824fbe53ba9" sha1="039b6b4ebac69e48a3823011d78470d8d338bdfb"/>
+	</game>
+	<game name="Princess and Frog (1983)(Romox)(NTSC)[a][A000]">
+		<description>Princess and Frog (1983)(Romox)(NTSC)[a][A000]</description>
+		<rom name="Princess and Frog (1983)(Romox)(NTSC)[a][A000].crt" size="8192" crc="7bc153f4" md5="958b8e10c8e030572076c8e26207795d" sha1="f258392508bc83bbc37333d244e1ecc38157da76"/>
+	</game>
+	<game name="Protector (1983)(HES)(NTSC-PAL)[A000]">
+		<description>Protector (1983)(HES)(NTSC-PAL)[A000]</description>
+		<rom name="Protector (1983)(HES)(NTSC-PAL)[A000].crt" size="8194" crc="7a0ddd42" md5="0642923be72cacdfdf11e66c0e2db773" sha1="db26d9c0a4de2ded2685513fea9e5a20cec889b0"/>
+	</game>
+	<game name="Protector (1983)(HES)(NTSC-PAL)[a][A000]">
+		<description>Protector (1983)(HES)(NTSC-PAL)[a][A000]</description>
+		<rom name="Protector (1983)(HES)(NTSC-PAL)[a][A000].crt" size="8192" crc="451d0e1e" md5="fa1fcd213d08afd89bd8fe024e13c3d6" sha1="63e6ba97b833dfe1c74386fca2dfc018ab73e784"/>
+	</game>
+	<game name="Protector (1983)(HES)(NTSC-PAL)[h][A000]">
+		<description>Protector (1983)(HES)(NTSC-PAL)[h][A000]</description>
+		<rom name="Protector (1983)(HES)(NTSC-PAL)[h][A000].crt" size="8194" crc="1706ca31" md5="bd46d71c0029f9f599ad235443413071" sha1="d9062f1c8ffe4735ae6a53f401b8951b3817c488"/>
+	</game>
+	<game name="Q-Bert (1983)(Parker)[A000]">
+		<description>Q-Bert (1983)(Parker)[A000]</description>
+		<rom name="Q-Bert (1983)(Parker)[A000].crt" size="8194" crc="e557c145" md5="af6264b92dd24f4efc2d2bd1847a7a83" sha1="2e46e3960d3bcf5a263356e9df48db4555b734ab"/>
+	</game>
+	<game name="Q-Bert (1983)(Parker)[a][A000]">
+		<description>Q-Bert (1983)(Parker)[a][A000]</description>
+		<rom name="Q-Bert (1983)(Parker)[a][A000].crt" size="8192" crc="da471219" md5="8f767bb100d9062f7717a7841e6c76ac" sha1="a255010a03a941c9224732f93115dd33f6438d2e"/>
+	</game>
+	<game name="Quackers (1982)(Rabbit)(PAL)[A000]">
+		<description>Quackers (1982)(Rabbit)(PAL)[A000]</description>
+		<rom name="Quackers (1982)(Rabbit)(PAL)[A000].crt" size="8194" crc="a693e658" md5="52b5a8cce1482c935cc1cca3011e5d23" sha1="e5b63b8d8267f167eed75ec4307bef801c11182e"/>
+	</game>
+	<game name="Quackers (1982)(Rabbit)(PAL)[a2][A000]">
+		<description>Quackers (1982)(Rabbit)(PAL)[a2][A000]</description>
+		<rom name="Quackers (1982)(Rabbit)(PAL)[a2][A000].crt" size="8192" crc="99833504" md5="f3d49553389b5887d1fe7bef714d7468" sha1="e500b2676b5f074d71bc8a400834f6aa67461468"/>
+	</game>
+	<game name="Quackers (1982)(Rabbit)(PAL)[a][A000]">
+		<description>Quackers (1982)(Rabbit)(PAL)[a][A000]</description>
+		<rom name="Quackers (1982)(Rabbit)(PAL)[a][A000].crt" size="8192" crc="b481da89" md5="1291de6c85635465450755726a685f66" sha1="70586d9b5445b15c90726f33c49dd1d669f65ce4"/>
+	</game>
+	<game name="Quackers (1982)(Rabbit)(PAL)[o][A000]">
+		<description>Quackers (1982)(Rabbit)(PAL)[o][A000]</description>
+		<rom name="Quackers (1982)(Rabbit)(PAL)[o][A000].crt" size="8382" crc="c7f5ff6a" md5="41ee3a7b3a145531227478f3394a0689" sha1="28f04c44861f714b96454a4792249c07641fdbf9"/>
+	</game>
+	<game name="Radar Rat Race (1981)(Commodore)(NTSC)[A000]">
+		<description>Radar Rat Race (1981)(Commodore)(NTSC)[A000]</description>
+		<rom name="Radar Rat Race (1981)(Commodore)(NTSC)[A000].crt" size="8194" crc="32fd3657" md5="b1337f36627b5acc718d4d401594177e" sha1="cf8b81c7e0fb09c775c9d978adcd7e486323bbe3"/>
+	</game>
+	<game name="Radar Rat Race (1981)(Commodore)(NTSC)[a2][A000]">
+		<description>Radar Rat Race (1981)(Commodore)(NTSC)[a2][A000]</description>
+		<rom name="Radar Rat Race (1981)(Commodore)(NTSC)[a2][A000].crt" size="8192" crc="0dede50b" md5="36e22d1959ec5fa80117d6321e56ced1" sha1="a518043d6f3b818e5c2a42382940d813ba9f0306"/>
+	</game>
+	<game name="Radar Rat Race (1981)(Commodore)(NTSC)[a3][A000]">
+		<description>Radar Rat Race (1981)(Commodore)(NTSC)[a3][A000]</description>
+		<rom name="Radar Rat Race (1981)(Commodore)(NTSC)[a3][A000].crt" size="8192" crc="c0ce818b" md5="4c9e316db2e898ff92593b74f3b7d4bf" sha1="0b972189ca7358c4085eb7e11f8b527fbd285e7c"/>
+	</game>
+	<game name="Radar Rat Race (1981)(Commodore)(NTSC)[a][A000]">
+		<description>Radar Rat Race (1981)(Commodore)(NTSC)[a][A000]</description>
+		<rom name="Radar Rat Race (1981)(Commodore)(NTSC)[a][A000].crt" size="8194" crc="ffde52d7" md5="30192e77c046482ef28154e2f95a8674" sha1="7bde11178f0135e494fb4a54bd7a185b109e9a43"/>
+	</game>
+	<game name="Radar Rat Race (1981)(Commodore)(PAL)[A000]">
+		<description>Radar Rat Race (1981)(Commodore)(PAL)[A000]</description>
+		<rom name="Radar Rat Race (1981)(Commodore)(PAL)[A000].crt" size="8194" crc="b36a29f5" md5="5c8d43611101523e838e85c50a01943e" sha1="dfdd16809f395428892d252d98fea950cc7dac3e"/>
+	</game>
+	<game name="Radar Rat Race (1981)(Commodore)(PAL)[a][A000]">
+		<description>Radar Rat Race (1981)(Commodore)(PAL)[a][A000]</description>
+		<rom name="Radar Rat Race (1981)(Commodore)(PAL)[a][A000].crt" size="8192" crc="8c7afaa9" md5="a9e813cc163df5a89ea7d436f152b4b4" sha1="91feb133b2ef613502cef54bc6414d2a72291536"/>
+	</game>
+	<game name="Radar Rat Race (1981)(Commodore)(PAL)[h Rally-X][A000]">
+		<description>Radar Rat Race (1981)(Commodore)(PAL)[h Rally-X][A000]</description>
+		<rom name="Radar Rat Race (1981)(Commodore)(PAL)[h Rally-X][A000].crt" size="8194" crc="79175114" md5="e88f69e78d1b187f64030aaa060da201" sha1="66865e5369524bbd1a3290e87dbab6003d079eaa"/>
+	</game>
+	<game name="Radar Rat Race (1981)(Commodore)[h Car Race][A000]">
+		<description>Radar Rat Race (1981)(Commodore)[h Car Race][A000]</description>
+		<rom name="Radar Rat Race (1981)(Commodore)[h Car Race][A000].crt" size="8194" crc="eac0e4e4" md5="dc26b18d1b8c43c7b2f7acd52037122d" sha1="659494ebe0a26aa43a19a03f99538105add0c677"/>
+	</game>
+	<game name="Radar Rat Race (1981)(Commodore)[h Car Race][a][A000]">
+		<description>Radar Rat Race (1981)(Commodore)[h Car Race][a][A000]</description>
+		<rom name="Radar Rat Race (1981)(Commodore)[h Car Race][a][A000].crt" size="8192" crc="d5d037b8" md5="4c2996edfe1161516677ca253484189c" sha1="87bfe93852c289cddf65b7f30ec8e5e06937e6a4"/>
+	</game>
+	<game name="Radar Rat Race (1981)(Commodore)[h Rally-X][b][A000]">
+		<description>Radar Rat Race (1981)(Commodore)[h Rally-X][b][A000]</description>
+		<rom name="Radar Rat Race (1981)(Commodore)[h Rally-X][b][A000].crt" size="8194" crc="1967ce58" md5="8bdc99c8e81f460230a357b1683195f3" sha1="3ab541467357faf3bb55a9b9a980bcf3f69a2343"/>
+	</game>
+	<game name="Raid on Fort Knox (1982)(Commodore)(NTSC-PAL)[A000]">
+		<description>Raid on Fort Knox (1982)(Commodore)(NTSC-PAL)[A000]</description>
+		<rom name="Raid on Fort Knox (1982)(Commodore)(NTSC-PAL)[A000].crt" size="8194" crc="e72d1852" md5="c2fcc294d2c0e0eb2632d7937fab64a3" sha1="48b4b3b8f9d4acb482d74270d55b53edfb3a6435"/>
+	</game>
+	<game name="Raid on Fort Knox (1982)(Commodore)(NTSC-PAL)[a2][A000]">
+		<description>Raid on Fort Knox (1982)(Commodore)(NTSC-PAL)[a2][A000]</description>
+		<rom name="Raid on Fort Knox (1982)(Commodore)(NTSC-PAL)[a2][A000].crt" size="8192" crc="d83dcb0e" md5="0e2167abfc597add60e03c35801fe9c9" sha1="3f1de25a22ecd94d15ea3e3a2f65c7bf4453aec7"/>
+	</game>
+	<game name="Raid on Fort Knox (1982)(Commodore)(NTSC-PAL)[a][A000]">
+		<description>Raid on Fort Knox (1982)(Commodore)(NTSC-PAL)[a][A000]</description>
+		<rom name="Raid on Fort Knox (1982)(Commodore)(NTSC-PAL)[a][A000].crt" size="8192" crc="e88834e7" md5="91da205be80fa3e4e9823aa51fbc8a92" sha1="d3002cc0098e80eb7b395362bef8c6b5cc8ec737"/>
+	</game>
+	<game name="Rally-X (1981)(Commodore)(NTSC)[A000]">
+		<description>Rally-X (1981)(Commodore)(NTSC)[A000]</description>
+		<rom name="Rally-X (1981)(Commodore)(NTSC)[A000].crt" size="8194" crc="ebf90305" md5="a488de691ed0f091c6e83124258f0a53" sha1="2539f458a65bafaf0988c9146725e75438cef8ab"/>
+	</game>
+	<game name="Rat Hotel (1982)(Creative)(NTSC)[A000]">
+		<description>Rat Hotel (1982)(Creative)(NTSC)[A000]</description>
+		<rom name="Rat Hotel (1982)(Creative)(NTSC)[A000].crt" size="8194" crc="2d5394d9" md5="548bdd6297d0ecc811827332dafb1e9a" sha1="a8abf80d77d79c026ae5ad1c2ce80a3ea965fd07"/>
+	</game>
+	<game name="Rat Hotel (1982)(Creative)(NTSC)[a][A000]">
+		<description>Rat Hotel (1982)(Creative)(NTSC)[a][A000]</description>
+		<rom name="Rat Hotel (1982)(Creative)(NTSC)[a][A000].crt" size="8192" crc="12434785" md5="475a824c68654a394eb73123330f484f" sha1="b6d2da93084f8657af1bf34c9e9a3b35a5573c81"/>
+	</game>
+	<game name="Rat Hotel (1982)(Creative)(PAL)[A000]">
+		<description>Rat Hotel (1982)(Creative)(PAL)[A000]</description>
+		<rom name="Rat Hotel (1982)(Creative)(PAL)[A000].crt" size="8192" crc="c521d02f" md5="9d05834c3f72584239af91bd3cab1baf" sha1="317494773a4eb3cdeb66c9f36d8bec7613e50d80"/>
+	</game>
+	<game name="Rat Hotel (1982)(Creative)(PAL)[a][A000]">
+		<description>Rat Hotel (1982)(Creative)(PAL)[a][A000]</description>
+		<rom name="Rat Hotel (1982)(Creative)(PAL)[a][A000].crt" size="8194" crc="fa310373" md5="406834845bd5702c292e3cdbdd1686ec" sha1="37f3317e00e3821fc0990b65c4600aea3dc93b4f"/>
+	</game>
+	<game name="Renaissance (1982)(Umi)(NTSC)[A000]">
+		<description>Renaissance (1982)(Umi)(NTSC)[A000]</description>
+		<rom name="Renaissance (1982)(Umi)(NTSC)[A000].crt" size="8194" crc="30793abe" md5="cf8eb16250984900b4d0da30b9561b6c" sha1="6ba6e28feb4bfb7f405bc55c9897fece9938819e"/>
+	</game>
+	<game name="Renaissance (1982)(Umi)(NTSC)[A000][for sd-cart]">
+		<description>Renaissance (1982)(Umi)(NTSC)[A000][for sd-cart]</description>
+		<rom name="Renaissance (1982)(Umi)(NTSC)[A000][for sd-cart].crt" size="4098" crc="5e900aba" md5="ddb68e5644a3e47b1e5701726ce94f26" sha1="ab5ea481586b1e76b0cdee0ccb8daba4e7a9fdcb"/>
+	</game>
+	<game name="Renaissance (1982)(Umi)(NTSC)[a][A000]">
+		<description>Renaissance (1982)(Umi)(NTSC)[a][A000]</description>
+		<rom name="Renaissance (1982)(Umi)(NTSC)[a][A000].crt" size="8192" crc="0f69e9e2" md5="42a4453b31fc5350ed0e3c203703574f" sha1="9eab190bb2ddd616757e7a93bc5f95218ce0e5c7"/>
+	</game>
+	<game name="Renaissance (1982)(Umi)(NTSC)[b][A000]">
+		<description>Renaissance (1982)(Umi)(NTSC)[b][A000]</description>
+		<rom name="Renaissance (1982)(Umi)(NTSC)[b][A000].crt" size="16384" crc="be85d7ff" md5="ed613bad1b988fa4fe55dd7829433144" sha1="b24ace87bcd100b58aa009f839eabf0e0f271dec"/>
+	</game>
+	<game name="River Rescue (1982)(Thorn EMI)(NTSC-PAL)[A000]">
+		<description>River Rescue (1982)(Thorn EMI)(NTSC-PAL)[A000]</description>
+		<rom name="River Rescue (1982)(Thorn EMI)(NTSC-PAL)[A000].crt" size="8194" crc="ae663a23" md5="ce7292f0630cc9ed3e4f61c9bd9ce524" sha1="fc27959b194a369406d6a1d265ce0842c1cfc551"/>
+	</game>
+	<game name="River Rescue (1982)(Thorn EMI)(NTSC-PAL)[a2][A000]">
+		<description>River Rescue (1982)(Thorn EMI)(NTSC-PAL)[a2][A000]</description>
+		<rom name="River Rescue (1982)(Thorn EMI)(NTSC-PAL)[a2][A000].crt" size="8192" crc="9176e97f" md5="713c2a5656ffcf176cf46343a8892a37" sha1="b136ed904c95d8496e0935493f05eb264566aa31"/>
+	</game>
+	<game name="River Rescue (1982)(Thorn EMI)(NTSC-PAL)[a3][A000]">
+		<description>River Rescue (1982)(Thorn EMI)(NTSC-PAL)[a3][A000]</description>
+		<rom name="River Rescue (1982)(Thorn EMI)(NTSC-PAL)[a3][A000].crt" size="8192" crc="26d543e7" md5="61c4b14398c1b14938235aa1711418b6" sha1="eb66d97360be840a300d1f432bb6fb0d13a766a8"/>
+	</game>
+	<game name="River Rescue (1982)(Thorn EMI)(NTSC-PAL)[a][A000]">
+		<description>River Rescue (1982)(Thorn EMI)(NTSC-PAL)[a][A000]</description>
+		<rom name="River Rescue (1982)(Thorn EMI)(NTSC-PAL)[a][A000].crt" size="8194" crc="19c590bb" md5="0ba4dfd8808d665a2c8760ccf32c65da" sha1="f41cc46e7c3152c0fe2bd134c435320986f0b8b4"/>
+	</game>
+	<game name="River Rescue (1982)(Thorn EMI)(NTSC-PAL)[h][A000]">
+		<description>River Rescue (1982)(Thorn EMI)(NTSC-PAL)[h][A000]</description>
+		<rom name="River Rescue (1982)(Thorn EMI)(NTSC-PAL)[h][A000].crt" size="8194" crc="03a4a4ba" md5="e66658be2696ef337710da9b58df3358" sha1="34582ff22a560786cda708ef0f106c5d05ca7f00"/>
+	</game>
+	<game name="River Rescue (1982)(Thorn EMI)(NTSC-PAL)[h][a][A000]">
+		<description>River Rescue (1982)(Thorn EMI)(NTSC-PAL)[h][a][A000]</description>
+		<rom name="River Rescue (1982)(Thorn EMI)(NTSC-PAL)[h][a][A000].crt" size="8192" crc="3cb477e6" md5="63baf5f9002f42e62893948a8f683940" sha1="3d7f3cd45bace6c922186b6ac9cf553917b9778b"/>
+	</game>
+	<game name="River Rescue (1982)(Thorn EMI)(NTSC-PAL)[h][o][A000]">
+		<description>River Rescue (1982)(Thorn EMI)(NTSC-PAL)[h][o][A000]</description>
+		<rom name="River Rescue (1982)(Thorn EMI)(NTSC-PAL)[h][o][A000].crt" size="8235" crc="545e7d9d" md5="3af89b6dd7d86bd6422b6190e502fbd2" sha1="0cdee9563c6ecb577f0e8f21f44a2630731b673c"/>
+	</game>
+	<game name="Robin Hood (1983)(Xonox)(NTSC)[A000]">
+		<description>Robin Hood (1983)(Xonox)(NTSC)[A000]</description>
+		<rom name="Robin Hood (1983)(Xonox)(NTSC)[A000].crt" size="8194" crc="91ed60f3" md5="2a9c8a9d5f54e97527d0276c5557e816" sha1="288c0f45bc627e019851cf1562b2da4f1d1c6aa4"/>
+	</game>
+	<game name="Robin Hood (1983)(Xonox)(NTSC)[a][A000]">
+		<description>Robin Hood (1983)(Xonox)(NTSC)[a][A000]</description>
+		<rom name="Robin Hood (1983)(Xonox)(NTSC)[a][A000].crt" size="8192" crc="aefdb3af" md5="071e993bc62d13b6d4ca82666610fadf" sha1="0f7874e020cb4e7a15e062d3536f98633b89d58a"/>
+	</game>
+	<game name="Robot Panic (1982)(HES)(NTSC-PAL)[A000]">
+		<description>Robot Panic (1982)(HES)(NTSC-PAL)[A000]</description>
+		<rom name="Robot Panic (1982)(HES)(NTSC-PAL)[A000].crt" size="8194" crc="ad92086f" md5="96d44616056617649a6b7e0374e841c3" sha1="2d0030e255df426ea3f5180112b5b916ecd57d5a"/>
+	</game>
+	<game name="Robot Panic (1982)(HES)(NTSC-PAL)[a2][A000]">
+		<description>Robot Panic (1982)(HES)(NTSC-PAL)[a2][A000]</description>
+		<rom name="Robot Panic (1982)(HES)(NTSC-PAL)[a2][A000].crt" size="8192" crc="9282db33" md5="7320a95ad784e3a65968be7fa4f4607c" sha1="4d65707384b7be4ee4f59ad79186cb296c7dbc74"/>
+	</game>
+	<game name="Robot Panic (1982)(HES)(NTSC-PAL)[a][A000]">
+		<description>Robot Panic (1982)(HES)(NTSC-PAL)[a][A000]</description>
+		<rom name="Robot Panic (1982)(HES)(NTSC-PAL)[a][A000].crt" size="8192" crc="a73773c9" md5="b8cd78b20eb3470934ea8824cfac8343" sha1="18a10987138847f7039812d7af2c7e01b19e0464"/>
+	</game>
+	<game name="Robot Panic (1982)(HES)(NTSC-PAL)[o][A000]">
+		<description>Robot Panic (1982)(HES)(NTSC-PAL)[o][A000]</description>
+		<rom name="Robot Panic (1982)(HES)(NTSC-PAL)[o][A000].crt" size="8382" crc="1c3f5da0" md5="4b2ee7938ab169debf96cf29f63f0164" sha1="d4df0037fb170c00a8a8cffe09bf38862820d5fc"/>
+	</game>
+	<game name="Robotron 2084 (1983)(Atarisoft)[6000][for sd-cart]">
+		<description>Robotron 2084 (1983)(Atarisoft)[6000][for sd-cart]</description>
+		<rom name="Robotron 2084 (1983)(Atarisoft)[6000][for sd-cart].crt" size="4096" crc="2bad062a" md5="befd63517a224a85f8fe9f41a5c68f45" sha1="53c2b01970908a4e6045550aaf8ec9a25012b613"/>
+	</game>
+	<game name="Robotron 2084 (1983)(Atarisoft)[b][A000]">
+		<description>Robotron 2084 (1983)(Atarisoft)[b][A000]</description>
+		<rom name="Robotron 2084 (1983)(Atarisoft)[b][A000].crt" size="16384" crc="0590269d" md5="fd98c38f1e9817eeaacf3019b453aa99" sha1="687bdeb9598ba578c081287c7094d36aaa015bf9"/>
+	</game>
+	<game name="Sargon II Chess (1981)(Commodore)(NTSC)[A000]">
+		<description>Sargon II Chess (1981)(Commodore)(NTSC)[A000]</description>
+		<rom name="Sargon II Chess (1981)(Commodore)(NTSC)[A000].crt" size="8194" crc="c8b92a7e" md5="6931fe46c47b7d44315809166fd2662f" sha1="ccbeefd0bd9709fdaca7af5cc12047c8ae38a51c"/>
+	</game>
+	<game name="Sargon II Chess (1981)(Commodore)(NTSC)[a][A000]">
+		<description>Sargon II Chess (1981)(Commodore)(NTSC)[a][A000]</description>
+		<rom name="Sargon II Chess (1981)(Commodore)(NTSC)[a][A000].crt" size="8192" crc="f7a9f922" md5="909ecd851573486e9eef7bfccfd5cc48" sha1="9fd24fb75f85746190d740fd895bff9b5ca704d7"/>
+	</game>
+	<game name="Sargon II Chess (1981)(Commodore)(NTSC)[b][A000]">
+		<description>Sargon II Chess (1981)(Commodore)(NTSC)[b][A000]</description>
+		<rom name="Sargon II Chess (1981)(Commodore)(NTSC)[b][A000].crt" size="8194" crc="f20c7bb0" md5="9d8b1d1fac466d977febe930989ee65f" sha1="1ad45272aa75c12f14b70fa76aab9408edce2dcd"/>
+	</game>
+	<game name="Sargon II Chess (1981)(Commodore)(NTSC)[b][a][A000]">
+		<description>Sargon II Chess (1981)(Commodore)(NTSC)[b][a][A000]</description>
+		<rom name="Sargon II Chess (1981)(Commodore)(NTSC)[b][a][A000].crt" size="8192" crc="cd1ca8ec" md5="f873e0924309eb7831e7246437067ab9" sha1="3c1b6c2068d036aee40dbc31f075d0b789a503aa"/>
+	</game>
+	<game name="Sargon II Chess (1981)(Commodore)(NTSC)[o][b][A000]">
+		<description>Sargon II Chess (1981)(Commodore)(NTSC)[o][b][A000]</description>
+		<rom name="Sargon II Chess (1981)(Commodore)(NTSC)[o][b][A000].crt" size="8382" crc="6e41185c" md5="4b50f4901fd525ccbce3bd2932f4fe73" sha1="c8e0eb5c10eb8d853a81805555d78c901846fd7e"/>
+	</game>
+	<game name="Satellite Patrol (1982)(HES)(NTSC)[A000]">
+		<description>Satellite Patrol (1982)(HES)(NTSC)[A000]</description>
+		<rom name="Satellite Patrol (1982)(HES)(NTSC)[A000].crt" size="4098" crc="41f7c57a" md5="e3b16b3f483e38ac5ebe2195739ed547" sha1="8e3ff1066b56a3a18b3a2590d787b4d822ff76f2"/>
+	</game>
+	<game name="Satellite Patrol (1982)(HES)(NTSC)[a][A000]">
+		<description>Satellite Patrol (1982)(HES)(NTSC)[a][A000]</description>
+		<rom name="Satellite Patrol (1982)(HES)(NTSC)[a][A000].crt" size="4096" crc="5f64f10b" md5="b8372442a98ff3a1f14fb3e44db9578d" sha1="b6bf1b3dca7d9ea356d54e80fd7306658070bee6"/>
+	</game>
+	<game name="Satellite Patrol (1982)(HES)(NTSC)[o][A000]">
+		<description>Satellite Patrol (1982)(HES)(NTSC)[o][A000]</description>
+		<rom name="Satellite Patrol (1982)(HES)(NTSC)[o][A000].crt" size="8192" crc="1b1865f5" md5="f5300a78e6b25b05be15418e1e216ab8" sha1="6cef96fc886f7c3f14fe433ec2777fefcaae454d"/>
+	</game>
+	<game name="Satellite Patrol (1982)(HES)(NTSC)[o][a][A000]">
+		<description>Satellite Patrol (1982)(HES)(NTSC)[o][a][A000]</description>
+		<rom name="Satellite Patrol (1982)(HES)(NTSC)[o][a][A000].crt" size="8382" crc="502e4394" md5="0c9daaf9edb0191b7253e873e896c6e0" sha1="152d571b99b2afce5aeb2fb2cdcaff622586cc29"/>
+	</game>
+	<game name="Satellites and Meteorites (1982)(UMI)(PAL)[A000]">
+		<description>Satellites and Meteorites (1982)(UMI)(PAL)[A000]</description>
+		<rom name="Satellites and Meteorites (1982)(UMI)(PAL)[A000].crt" size="8194" crc="cccbf367" md5="a3a2e069dc342b2c04b41617d89b8571" sha1="555d9b0d53eccde0482c87ba400593d05f92a2bc"/>
+	</game>
+	<game name="Satellites and Meteorites (1982)(UMI)(PAL)[a][A000]">
+		<description>Satellites and Meteorites (1982)(UMI)(PAL)[a][A000]</description>
+		<rom name="Satellites and Meteorites (1982)(UMI)(PAL)[a][A000].crt" size="8192" crc="f3db203b" md5="47c738166c52c79f48ec8aacf806c57b" sha1="fe823deb548c3dac51b24aaf28758c248487f170"/>
+	</game>
+	<game name="Scorpion (1983)(Tronix)(PAL)[A000]">
+		<description>Scorpion (1983)(Tronix)(PAL)[A000]</description>
+		<rom name="Scorpion (1983)(Tronix)(PAL)[A000].crt" size="8194" crc="f4d2edfd" md5="bae3f2887f08d113c48d52df548d64ce" sha1="a291a21b560381acaa37db6bcb1bb80e372e61a6"/>
+	</game>
+	<game name="Scorpion (1983)(Tronix)(PAL)[a2][A000]">
+		<description>Scorpion (1983)(Tronix)(PAL)[a2][A000]</description>
+		<rom name="Scorpion (1983)(Tronix)(PAL)[a2][A000].crt" size="8192" crc="cbc23ea1" md5="d38d4a0463b675b9d3273d05ff3491b4" sha1="bcbbefd734ac6bee83e02a1d232f548dd806cbc7"/>
+	</game>
+	<game name="Scorpion (1983)(Tronix)(PAL)[a][A000]">
+		<description>Scorpion (1983)(Tronix)(PAL)[a][A000]</description>
+		<rom name="Scorpion (1983)(Tronix)(PAL)[a][A000].crt" size="8192" crc="3f168bf0" md5="89c0425f65ea2a502dc7fe1561b8820c" sha1="d2359a4e7dd50e4cd076a55d2c39c6eb2e855d1c"/>
+	</game>
+	<game name="Scorpion (1983)(Tronix)(PAL)[o][A000]">
+		<description>Scorpion (1983)(Tronix)(PAL)[o][A000]</description>
+		<rom name="Scorpion (1983)(Tronix)(PAL)[o][A000].crt" size="8382" crc="8a83de41" md5="bc12be8eb533b66c711e0eb19d0e7dd5" sha1="549af590998e2550d054b2fc2aeb3d26613bb21f"/>
+	</game>
+	<game name="Scram 20 (1983)(Artic)(NTSC-PAL)[A000]">
+		<description>Scram 20 (1983)(Artic)(NTSC-PAL)[A000]</description>
+		<rom name="Scram 20 (1983)(Artic)(NTSC-PAL)[A000].crt" size="4096" crc="24d08856" md5="f9d3f8f0157a671209cc087525e35938" sha1="54bfccc2df8ee0e27b7c11986897f8f4b4210736"/>
+	</game>
+	<game name="Scram 20 (1983)(Artic)(NTSC-PAL)[A000][for sd-cart]">
+		<description>Scram 20 (1983)(Artic)(NTSC-PAL)[A000][for sd-cart]</description>
+		<rom name="Scram 20 (1983)(Artic)(NTSC-PAL)[A000][for sd-cart].crt" size="3842" crc="43e45c34" md5="ba89997e7f7c84978921ebced5452b3d" sha1="faa40ece6044663c9c19556ef4921160e3269839"/>
+	</game>
+	<game name="Scram 20 (1983)(Artic)(NTSC-PAL)[f][A000]">
+		<description>Scram 20 (1983)(Artic)(NTSC-PAL)[f][A000]</description>
+		<rom name="Scram 20 (1983)(Artic)(NTSC-PAL)[f][A000].crt" size="4099" crc="7732195a" md5="81361d2e38312aff535faf7fdee5f1e3" sha1="852361fb4541ce5ee4e042a3f232002b79b2c5b5"/>
+	</game>
+	<game name="Scram 20 (1983)(Artic)(NTSC-PAL)[o][A000]">
+		<description>Scram 20 (1983)(Artic)(NTSC-PAL)[o][A000]</description>
+		<rom name="Scram 20 (1983)(Artic)(NTSC-PAL)[o][A000].crt" size="8192" crc="88532738" md5="1775fabbbe7e50c1b44cbeedbbe5ff91" sha1="86e0ba3aae16cf425d9e1184930ede206414b088"/>
+	</game>
+	<game name="Seafox (1983)(Broderbund)(NTSC)[6000]">
+		<description>Seafox (1983)(Broderbund)(NTSC)[6000]</description>
+		<rom name="Seafox (1983)(Broderbund)(NTSC)[6000].crt" size="16384" crc="374240d7" md5="5e8c0c20383a493151e62a3f60b6182c" sha1="d3a1ccac8636c0e22b9bf069c92a7a69daf249af"/>
+	</game>
+	<game name="Seawolf (1982)(Commodore)[A000]">
+		<description>Seawolf (1982)(Commodore)[A000]</description>
+		<rom name="Seawolf (1982)(Commodore)[A000].crt" size="8194" crc="58603ae7" md5="524d4ee80ce15edb9496256ea9ed8bf1" sha1="f7966eb7aeb87ba6e9b3a9b3d34ceab2e023db50"/>
+	</game>
+	<game name="Seawolf (1982)(Commodore)[a][A000]">
+		<description>Seawolf (1982)(Commodore)[a][A000]</description>
+		<rom name="Seawolf (1982)(Commodore)[a][A000].crt" size="8192" crc="6770e9bb" md5="0dddfcd167dd76f9940178de15be4aba" sha1="79a69acc8847e0b8d90498fc97a9b87c7e75b7c1"/>
+	</game>
+	<game name="Serpentine (1982)(Creative)(NTSC)[A000]">
+		<description>Serpentine (1982)(Creative)(NTSC)[A000]</description>
+		<rom name="Serpentine (1982)(Creative)(NTSC)[A000].crt" size="8194" crc="305d2a91" md5="591cb6329f20b78263b335097a19441a" sha1="0608bf586456071a87e13197f3848d2d4b72d442"/>
+	</game>
+	<game name="Serpentine (1982)(Creative)(NTSC)[a][A000]">
+		<description>Serpentine (1982)(Creative)(NTSC)[a][A000]</description>
+		<rom name="Serpentine (1982)(Creative)(NTSC)[a][A000].crt" size="8192" crc="0f4df9cd" md5="8c8a65973e6d4cec763e1fa6fb1d3af9" sha1="59ce31902ffd7547973fe1e7690d9c6182b944b7"/>
+	</game>
+	<game name="Serpentine (1982)(Creative)(PAL)[A000]">
+		<description>Serpentine (1982)(Creative)(PAL)[A000]</description>
+		<rom name="Serpentine (1982)(Creative)(PAL)[A000].crt" size="8194" crc="af49f519" md5="ca3aa21aedd9271803c2762e88a3b0a9" sha1="e35f3dbbd001948cc726f21c190b2f89753a1dc8"/>
+	</game>
+	<game name="Serpentine (1982)(Creative)(PAL)[A000][for sd-cart]">
+		<description>Serpentine (1982)(Creative)(PAL)[A000][for sd-cart]</description>
+		<rom name="Serpentine (1982)(Creative)(PAL)[A000][for sd-cart].crt" size="3137" crc="0f0eac45" md5="c5905b1438125c05b63093e8aa209a25" sha1="7c4e596a09396ea8c049e4ac35856d327e4ec457"/>
+	</game>
+	<game name="Serpentine (1982)(Creative)(PAL)[a][A000]">
+		<description>Serpentine (1982)(Creative)(PAL)[a][A000]</description>
+		<rom name="Serpentine (1982)(Creative)(PAL)[a][A000].crt" size="8192" crc="90592645" md5="d67f0093ecce78279fea106ffbca7027" sha1="6ea2c90874289399e3f0b71a7d95a8635a2e1ecb"/>
+	</game>
+	<game name="Shamus (1982)(HES)(NTSC)[a][A000]">
+		<description>Shamus (1982)(HES)(NTSC)[a][A000]</description>
+		<rom name="Shamus (1982)(HES)(NTSC)[a][A000].crt" size="8192" crc="21e7bda6" md5="bb60cc27b5cabb90b41cf3827b295291" sha1="e8ac7374bd5292edec15848660c64dcc3c748642"/>
+	</game>
+	<game name="Shamus (1983)(HES)(NTSC)[A000]">
+		<description>Shamus (1983)(HES)(NTSC)[A000]</description>
+		<rom name="Shamus (1983)(HES)(NTSC)[A000].crt" size="8194" crc="1ef76efa" md5="7885f33115d818bbb37a662ab5df8f23" sha1="bc0d37fa8ed4ba336d215e4b6b1f95e50821ae9f"/>
+	</game>
+	<game name="Shamus (1983)(HES)(NTSC)[h][A000]">
+		<description>Shamus (1983)(HES)(NTSC)[h][A000]</description>
+		<rom name="Shamus (1983)(HES)(NTSC)[h][A000].crt" size="8194" crc="ebc47838" md5="027855dd0d7326a086c3ddc11cfd94fa" sha1="20103e4777c500a285dd3a4a21d7664573a10ec2"/>
+	</game>
+	<game name="Shamus (1983)(HES)(NTSC)[h][a][A000]">
+		<description>Shamus (1983)(HES)(NTSC)[h][a][A000]</description>
+		<rom name="Shamus (1983)(HES)(NTSC)[h][a][A000].crt" size="8192" crc="d4d4ab64" md5="5e04d2bb0965b4e01df2e008922da16e" sha1="3835a0080860c86d08c4991c6f489ae289b183b0"/>
+	</game>
+	<game name="Sir Lancelot (1983)(Xonox)(NTSC-PAL)[A000]">
+		<description>Sir Lancelot (1983)(Xonox)(NTSC-PAL)[A000]</description>
+		<rom name="Sir Lancelot (1983)(Xonox)(NTSC-PAL)[A000].crt" size="8194" crc="351d78b0" md5="f27781f33b6c8991f29126d63d170bb8" sha1="de28c398b188c04a1d01ee6eee521be2d33ea2b1"/>
+	</game>
+	<game name="Sir Lancelot (1983)(Xonox)(NTSC-PAL)[a][A000]">
+		<description>Sir Lancelot (1983)(Xonox)(NTSC-PAL)[a][A000]</description>
+		<rom name="Sir Lancelot (1983)(Xonox)(NTSC-PAL)[a][A000].crt" size="8192" crc="0a0dabec" md5="2fc3b1886066bac297f68d32a641ed92" sha1="5f74be5c64cd764fa6e13268266cfe790ac0da1c"/>
+	</game>
+	<game name="Skibbereen (1982)(UMI)(NTSC)[A000]">
+		<description>Skibbereen (1982)(UMI)(NTSC)[A000]</description>
+		<rom name="Skibbereen (1982)(UMI)(NTSC)[A000].crt" size="4098" crc="f46561f7" md5="3e9a792a32f190e83e678ec7971f9065" sha1="c403309d64ecd6f85db103c3a459d737050ed69a"/>
+	</game>
+	<game name="Skibbereen (1982)(UMI)(NTSC)[a][A000]">
+		<description>Skibbereen (1982)(UMI)(NTSC)[a][A000]</description>
+		<rom name="Skibbereen (1982)(UMI)(NTSC)[a][A000].crt" size="4096" crc="eaf65586" md5="e404deeee224a0a2562e2055715a160e" sha1="54ecf775299e37d3e9f8287da691efdeaf3a98a2"/>
+	</game>
+	<game name="Skibbereen (1982)(UMI)(PAL)[A000]">
+		<description>Skibbereen (1982)(UMI)(PAL)[A000]</description>
+		<rom name="Skibbereen (1982)(UMI)(PAL)[A000].crt" size="4098" crc="29f8ae4f" md5="f309d84d417c48b7fe016dd02e378e04" sha1="afa518ecd6c743594299ca7592919d0cbdb895dd"/>
+	</game>
+	<game name="Skibbereen (1982)(UMI)(PAL)[a][A000]">
+		<description>Skibbereen (1982)(UMI)(PAL)[a][A000]</description>
+		<rom name="Skibbereen (1982)(UMI)(PAL)[a][A000].crt" size="4096" crc="376b9a3e" md5="d5e76225a7f25d5bbc57e3bd87ee9129" sha1="c848869daefd55f7c2cd8029320d05780a288767"/>
+	</game>
+	<game name="Skibbereen (1982)(UMI)(PAL)[o][A000]">
+		<description>Skibbereen (1982)(UMI)(PAL)[o][A000]</description>
+		<rom name="Skibbereen (1982)(UMI)(PAL)[o][A000].crt" size="8192" crc="27283941" md5="e0dc284ba6ec4e65d3bc21622a74f9eb" sha1="a01cce154fe7739c6e7c9674763bd20a25e0923e"/>
+	</game>
+	<game name="Sky Blazer (1983)(Broderbund)(NTSC)[6000]">
+		<description>Sky Blazer (1983)(Broderbund)(NTSC)[6000]</description>
+		<rom name="Sky Blazer (1983)(Broderbund)(NTSC)[6000].crt" size="16384" crc="147795bd" md5="9160979264befc7df1ea1076a5d632f3" sha1="ed9a089b7026e132504dc42d64bf8f19f7ce847c"/>
+	</game>
+	<game name="Sky is Falling, The (1981)(Commodore)[a2][Paddles][A000]">
+		<description>Sky is Falling, The (1981)(Commodore)[a2][Paddles][A000]</description>
+		<rom name="Sky is Falling, The (1981)(Commodore)[a2][Paddles][A000].crt" size="8192" crc="1f89c40d" md5="6eb8847d6ad0edcf8b396a08e19ccf38" sha1="dbed847a8d6d318ae267cdf1e2ffcdc55170fe23"/>
+	</game>
+	<game name="Sky is Falling, The (1981)(Commodore)[a][Paddles][A000]">
+		<description>Sky is Falling, The (1981)(Commodore)[a][Paddles][A000]</description>
+		<rom name="Sky is Falling, The (1981)(Commodore)[a][Paddles][A000].crt" size="8194" crc="fd8ae97b" md5="34782f50fa37dce2e1cdf59c632cdb7a" sha1="c12cf6d1526ce732d95f388b3cdfb3ec9c2c5ea7"/>
+	</game>
+	<game name="Sky is Falling, The (1981)(Commodore)[Paddles][A000]">
+		<description>Sky is Falling, The (1981)(Commodore)[Paddles][A000]</description>
+		<rom name="Sky is Falling, The (1981)(Commodore)[Paddles][A000].crt" size="8194" crc="20991751" md5="c08c370796d6cedc8771168dc18b2d71" sha1="ba6e12b7fc0815d89e992aba908767d45e2e25c5"/>
+	</game>
+	<game name="Snake Byte (1982)(Sirius)[A000]">
+		<description>Snake Byte (1982)(Sirius)[A000]</description>
+		<rom name="Snake Byte (1982)(Sirius)[A000].crt" size="4098" crc="06d3756a" md5="7feb002750534704d81170913cf5e145" sha1="cd280b2c5457667897bb04dd9646658ff2f6b465"/>
+	</game>
+	<game name="Snake Byte (1982)(Sirius)[a][A000]">
+		<description>Snake Byte (1982)(Sirius)[a][A000]</description>
+		<rom name="Snake Byte (1982)(Sirius)[a][A000].crt" size="4096" crc="1840411b" md5="543b491c685f633e76ff05b2dd8e109e" sha1="8e6d796acfe40d7b5357f78ac5a088562b602c6b"/>
+	</game>
+	<game name="Space Ric-O-Shay (1983)(OEM)(NTSC)[A000]">
+		<description>Space Ric-O-Shay (1983)(OEM)(NTSC)[A000]</description>
+		<rom name="Space Ric-O-Shay (1983)(OEM)(NTSC)[A000].crt" size="4096" crc="af2fd976" md5="a6ffea04beb07d09284bf50db264573f" sha1="e44317b0943e1d77bf5826c13f51c4085a1a7669"/>
+	</game>
+	<game name="Space Ric-O-Shay (1983)(OEM)[b][A000]">
+		<description>Space Ric-O-Shay (1983)(OEM)[b][A000]</description>
+		<rom name="Space Ric-O-Shay (1983)(OEM)[b][A000].crt" size="4098" crc="b1bced07" md5="6db08aa6642da9fcf550c1099e60a4ee" sha1="8d71b7797526bb0adbe60cf9a5b091af5edbb71b"/>
+	</game>
+	<game name="Space Snake (1982)(Handic)(nl)[A000]">
+		<description>Space Snake (1982)(Handic)(nl)[A000]</description>
+		<rom name="Space Snake (1982)(Handic)(nl)[A000].crt" size="8194" crc="9a3e2624" md5="902a671343534012170572b683f0cbf1" sha1="2e02c0c037413bbbedb8f1a5e1f5887a26b60fa3"/>
+	</game>
+	<game name="Space Snake (1982)(Handic)(nl)[a][A000]">
+		<description>Space Snake (1982)(Handic)(nl)[a][A000]</description>
+		<rom name="Space Snake (1982)(Handic)(nl)[a][A000].crt" size="8192" crc="a52ef578" md5="68677cde2b415252b1ada483756676db" sha1="b268b7a0cada2314872ae3986191fb2eead3b903"/>
+	</game>
+	<game name="Speed Math &amp; Bingo Math (1982)(Commodore)(NTSC-PAL)[A000]">
+		<description>Speed Math &amp; Bingo Math (1982)(Commodore)(NTSC-PAL)[A000]</description>
+		<rom name="Speed Math &amp; Bingo Math (1982)(Commodore)(NTSC-PAL)[A000].crt" size="8194" crc="9f122010" md5="d09c38dd85e53f3aee83bbe164d3807a" sha1="9957b3b38e7110468f93e0c49ecd68914eab7e1f"/>
+	</game>
+	<game name="Speed Math &amp; Bingo Math (1982)(Commodore)(NTSC-PAL)[a2][A000]">
+		<description>Speed Math &amp; Bingo Math (1982)(Commodore)(NTSC-PAL)[a2][A000]</description>
+		<rom name="Speed Math &amp; Bingo Math (1982)(Commodore)(NTSC-PAL)[a2][A000].crt" size="8192" crc="a002f34c" md5="c0d8182686418c802a2333073ae2024a" sha1="62cdff8107257381280f1ca076f52116c08c8cd7"/>
+	</game>
+	<game name="Speed Math &amp; Bingo Math (1982)(Commodore)(NTSC-PAL)[a][A000]">
+		<description>Speed Math &amp; Bingo Math (1982)(Commodore)(NTSC-PAL)[a][A000]</description>
+		<rom name="Speed Math &amp; Bingo Math (1982)(Commodore)(NTSC-PAL)[a][A000].crt" size="8192" crc="0265823e" md5="8fa7dc1cb0b9afffd64680156365a511" sha1="17f776733e814c4b8fd66fd87ae5bde3ffa7d3d9"/>
+	</game>
+	<game name="Spider City (1983)(Sirius)(NTSC)[A000]">
+		<description>Spider City (1983)(Sirius)(NTSC)[A000]</description>
+		<rom name="Spider City (1983)(Sirius)(NTSC)[A000].crt" size="4098" crc="a726fb8f" md5="9210f28360d305e14f40ad45d26482a3" sha1="47b132763bf2d9bd23f1177719f71142a17cdc84"/>
+	</game>
+	<game name="Spider City (1983)(Sirius)(NTSC)[a2][A000]">
+		<description>Spider City (1983)(Sirius)(NTSC)[a2][A000]</description>
+		<rom name="Spider City (1983)(Sirius)(NTSC)[a2][A000].crt" size="4096" crc="12d40755" md5="84868e8f8dd729f8c94a1c7a288dbf7e" sha1="8e657056525d3fbce967aec908ce975c6117e121"/>
+	</game>
+	<game name="Spider City (1983)(Sirius)(NTSC)[a][A000]">
+		<description>Spider City (1983)(Sirius)(NTSC)[a][A000]</description>
+		<rom name="Spider City (1983)(Sirius)(NTSC)[a][A000].crt" size="4096" crc="b9b5cffe" md5="270e5991481002dba78395a4135759bc" sha1="38c2e4ac0bc3eca5d0fb12f25843d0ba1d8bca88"/>
+	</game>
+	<game name="Spider City (1983)(Sirius)(NTSC)[o][A000]">
+		<description>Spider City (1983)(Sirius)(NTSC)[o][A000]</description>
+		<rom name="Spider City (1983)(Sirius)(NTSC)[o][A000].crt" size="8194" crc="e30077e8" md5="a3eb27b01f63f7e3bb0c0d4ca0dbb45f" sha1="2a7f9cbce55921a81c230c86030d0f17b04159da"/>
+	</game>
+	<game name="Spiders of Mars (1982)(UMI)(NTSC)[A000]">
+		<description>Spiders of Mars (1982)(UMI)(NTSC)[A000]</description>
+		<rom name="Spiders of Mars (1982)(UMI)(NTSC)[A000].crt" size="8194" crc="af451485" md5="7b664e4a17c1fd60fa5e02454ff91c77" sha1="42d3d96ac6b8465c952c9f22d0ec44b59d584438"/>
+	</game>
+	<game name="Spiders of Mars (1982)(UMI)(NTSC)[b][A000]">
+		<description>Spiders of Mars (1982)(UMI)(NTSC)[b][A000]</description>
+		<rom name="Spiders of Mars (1982)(UMI)(NTSC)[b][A000].crt" size="8194" crc="5567ce20" md5="92c6f30b414747decdf3ce0f0d5cd3f4" sha1="6d94ac44ca8e7fcde42697cce9485112820a873a"/>
+	</game>
+	<game name="Spiders of Mars (1982)(UMI)(PAL)[A000]">
+		<description>Spiders of Mars (1982)(UMI)(PAL)[A000]</description>
+		<rom name="Spiders of Mars (1982)(UMI)(PAL)[A000].crt" size="8194" crc="8174a8e9" md5="038a7e53e0180678567ef168c5e83b9e" sha1="cac761075d85941a1f949dc7eed10f5635c92b21"/>
+	</game>
+	<game name="Spiders of Mars (1982)(UMI)(PAL)[a][A000]">
+		<description>Spiders of Mars (1982)(UMI)(PAL)[a][A000]</description>
+		<rom name="Spiders of Mars (1982)(UMI)(PAL)[a][A000].crt" size="8192" crc="be647bb5" md5="536a89f7ee23978a9f552e8c8d0b08c4" sha1="bd49fdbf39f5592a8746875b9fa9855b51e42b0b"/>
+	</game>
+	<game name="Spiders of Mars (1982)(UMI)[o][b][A000]">
+		<description>Spiders of Mars (1982)(UMI)[o][b][A000]</description>
+		<rom name="Spiders of Mars (1982)(UMI)[o][b][A000].crt" size="16384" crc="86dc2a7c" md5="f5dfb10201aa781964c7338c5f845bff" sha1="4ec2447800f0a3a360d6637b466860ac2f3cdf22"/>
+	</game>
+	<game name="Spike's Peak (1983)(Xonox)(NTSC)[A000]">
+		<description>Spike's Peak (1983)(Xonox)(NTSC)[A000]</description>
+		<rom name="Spike's Peak (1983)(Xonox)(NTSC)[A000].crt" size="8194" crc="f0eb9d52" md5="7d2ea459ef14ebf61626d85a395819c4" sha1="e57357bc4fe4ed11390c4d5bf7af96bcac3429cb"/>
+	</game>
+	<game name="Spike's Peak (1983)(Xonox)(NTSC)[a][A000]">
+		<description>Spike's Peak (1983)(Xonox)(NTSC)[a][A000]</description>
+		<rom name="Spike's Peak (1983)(Xonox)(NTSC)[a][A000].crt" size="8192" crc="cffb4e0e" md5="b8a4fdad7207bc82bc655c18ba946c3a" sha1="099264d056610864901b2708bab385c93d54d5da"/>
+	</game>
+	<game name="Spills and Fills (1983)(Creative)(NTSC)[A000]">
+		<description>Spills and Fills (1983)(Creative)(NTSC)[A000]</description>
+		<rom name="Spills and Fills (1983)(Creative)(NTSC)[A000].crt" size="8194" crc="c2c71111" md5="45c05ccdcc5110de427eeb62bcb99d6c" sha1="8360be3d0c151412626350c4c303c4956fc7da5b"/>
+	</game>
+	<game name="Spills and Fills (1983)(Creative)(NTSC)[a][A000]">
+		<description>Spills and Fills (1983)(Creative)(NTSC)[a][A000]</description>
+		<rom name="Spills and Fills (1983)(Creative)(NTSC)[a][A000].crt" size="8192" crc="fdd7c24d" md5="a2acad5d86ec6cc40bcff5623f8da33f" sha1="7275ea56cfc5836733cbefd037252cf06518f0c9"/>
+	</game>
+	<game name="Springer (1983)(Tigervision)(NTSC)[6000]">
+		<description>Springer (1983)(Tigervision)(NTSC)[6000]</description>
+		<rom name="Springer (1983)(Tigervision)(NTSC)[6000].crt" size="16384" crc="a944b201" md5="3824dc787b3ac87b7908905a7c56f20f" sha1="829ac19c0cd9b64584cfed01efe29a63ebdc5a4f"/>
+	</game>
+	<game name="Squish'em (1983)(Sirius)(NTSC)[6000]">
+		<description>Squish'em (1983)(Sirius)(NTSC)[6000]</description>
+		<rom name="Squish'em (1983)(Sirius)(NTSC)[6000].crt" size="16384" crc="fd04e0a3" md5="f1d900b410c7249ceae68c2ff5a724f1" sha1="4dceb494d92859c7fc978dbe38f897bd6b274538"/>
+	</game>
+	<game name="Star Battle (1981)(Commodore)(NTSC-PAL)[A000]">
+		<description>Star Battle (1981)(Commodore)(NTSC-PAL)[A000]</description>
+		<rom name="Star Battle (1981)(Commodore)(NTSC-PAL)[A000].crt" size="8194" crc="dd32d560" md5="f831a7e540ffcfaa447cfd7e1d566228" sha1="19411fae60419a9035623f3d3c9126dddfebd05f"/>
+	</game>
+	<game name="Star Battle (1981)(Commodore)(NTSC-PAL)[a][A000]">
+		<description>Star Battle (1981)(Commodore)(NTSC-PAL)[a][A000]</description>
+		<rom name="Star Battle (1981)(Commodore)(NTSC-PAL)[a][A000].crt" size="8192" crc="e222063c" md5="6aab4df352ae50c5c52127bd75e031c1" sha1="19ae9d851e50b90f17b1b2c2446abccda7c2396f"/>
+	</game>
+	<game name="Star Post (1982)(Commodore)[A000]">
+		<description>Star Post (1982)(Commodore)[A000]</description>
+		<rom name="Star Post (1982)(Commodore)[A000].crt" size="8194" crc="0bf847a5" md5="6c1fa9d04afebcf937d276db21eedee9" sha1="2a8a753fd719f2c4190a86c85e6046427ca7265c"/>
+	</game>
+	<game name="Star Post (1982)(Commodore)[a][A000]">
+		<description>Star Post (1982)(Commodore)[a][A000]</description>
+		<rom name="Star Post (1982)(Commodore)[a][A000].crt" size="8192" crc="34e894f9" md5="b15b0ebb0d7cb68ecc928a0318921905" sha1="7ae08def878f0397cd23fb9d1bd345740787acab"/>
+	</game>
+	<game name="Star Post (1982)(Commodore)[o][A000]">
+		<description>Star Post (1982)(Commodore)[o][A000]</description>
+		<rom name="Star Post (1982)(Commodore)[o][A000].crt" size="8382" crc="374117e8" md5="e64a4bf520cb222f35db0bcad7a42edd" sha1="392f7aab958806869b9058874d04ee0b988b758d"/>
+	</game>
+	<game name="Star Trek - S.O.S. (1983)(Sega)(NTSC)[A000]">
+		<description>Star Trek - S.O.S. (1983)(Sega)(NTSC)[A000]</description>
+		<rom name="Star Trek - S.O.S. (1983)(Sega)(NTSC)[A000].crt" size="8194" crc="e3855353" md5="7a21c4f5f1315c92d53270296a678d6b" sha1="cd812a4d18dbf3adadd6d06030c057e31b5e69a1"/>
+	</game>
+	<game name="Star Trek - S.O.S. (1983)(Sega)(NTSC)[a2][A000]">
+		<description>Star Trek - S.O.S. (1983)(Sega)(NTSC)[a2][A000]</description>
+		<rom name="Star Trek - S.O.S. (1983)(Sega)(NTSC)[a2][A000].crt" size="8192" crc="dc95800f" md5="cce3c5a06d9546645740b3fc7870f273" sha1="4d2c6b511f9e7666bfdf66dafb3c1f043956f291"/>
+	</game>
+	<game name="Star Trek - S.O.S. (1983)(Sega)(NTSC)[a3][A000]">
+		<description>Star Trek - S.O.S. (1983)(Sega)(NTSC)[a3][A000]</description>
+		<rom name="Star Trek - S.O.S. (1983)(Sega)(NTSC)[a3][A000].crt" size="8192" crc="e529a1bd" md5="368bd7acb403da150b933b73945205a0" sha1="45dc0432f807b969c8764e23d82f8e8cebbde0a2"/>
+	</game>
+	<game name="Star Trek - S.O.S. (1983)(Sega)(NTSC)[a][A000]">
+		<description>Star Trek - S.O.S. (1983)(Sega)(NTSC)[a][A000]</description>
+		<rom name="Star Trek - S.O.S. (1983)(Sega)(NTSC)[a][A000].crt" size="8194" crc="da3972e1" md5="2e31b8ef9796c0ad066e4d98f77b17ab" sha1="a3a68647ce6d8a7be0aed2efb284fabb1bf21a9c"/>
+	</game>
+	<game name="Sub Chase (1982)(Umi)(PAL)[A000]">
+		<description>Sub Chase (1982)(Umi)(PAL)[A000]</description>
+		<rom name="Sub Chase (1982)(Umi)(PAL)[A000].crt" size="4098" crc="46c9a46e" md5="210b85da1b94604035db827a13cc12cb" sha1="2ebe525c6a496eea184bb9c11751511d7815d418"/>
+	</game>
+	<game name="Sub Chase (1982)(Umi)(PAL)[a][A000]">
+		<description>Sub Chase (1982)(Umi)(PAL)[a][A000]</description>
+		<rom name="Sub Chase (1982)(Umi)(PAL)[a][A000].crt" size="4096" crc="585a901f" md5="95ec6d564aad1dee5559a834b26500ee" sha1="077ceaeb63fb95a8255321aded3f246c1142bd18"/>
+	</game>
+	<game name="Sub Chase (1982)(Umi)(PAL)[o][A000]">
+		<description>Sub Chase (1982)(Umi)(PAL)[o][A000]</description>
+		<rom name="Sub Chase (1982)(Umi)(PAL)[o][A000].crt" size="8192" crc="1d7042d0" md5="08dc5816bd3ba0c34b0175332a50f579" sha1="3b176824112a4477fc6d01ea4d46c271588a61cc"/>
+	</game>
+	<game name="Sub Chase (1982)(Umi)(PAL)[o][a][A000]">
+		<description>Sub Chase (1982)(Umi)(PAL)[o][a][A000]</description>
+		<rom name="Sub Chase (1982)(Umi)(PAL)[o][a][A000].crt" size="8227" crc="1407c85c" md5="101ad17a5f63af8e60d905d842cb8444" sha1="10ce9541f3a1d88ac19bec05ac92e2389bf96b4d"/>
+	</game>
+	<game name="Submarine Commander (1983)(Thorn EMI)[6000]">
+		<description>Submarine Commander (1983)(Thorn EMI)[6000]</description>
+		<rom name="Submarine Commander (1983)(Thorn EMI)[6000].crt" size="4098" crc="ad5efdae" md5="e27b4df77b39d769e8bc538f09acbd4d" sha1="217836c9add44cc2508784d527682f2fda1466e9"/>
+	</game>
+	<game name="Submarine Commander (1983)(Thorn EMI)[A000]">
+		<description>Submarine Commander (1983)(Thorn EMI)[A000]</description>
+		<rom name="Submarine Commander (1983)(Thorn EMI)[A000].crt" size="8194" crc="db122841" md5="9c375611f4a349f13be958e7ba7bd6ba" sha1="67f813a2e8fa31f19a98f1acf6fad3d3d81dbfeb"/>
+	</game>
+	<game name="Submarine Commander (1983)(Thorn EMI)[a][6000]">
+		<description>Submarine Commander (1983)(Thorn EMI)[a][6000]</description>
+		<rom name="Submarine Commander (1983)(Thorn EMI)[a][6000].crt" size="4096" crc="8817b702" md5="3212256573230c6199e89345aa251b65" sha1="3311c1c9b864447349da3987056de2e7628496ce"/>
+	</game>
+	<game name="Submarine Commander (1983)(Thorn EMI)[a][A000]">
+		<description>Submarine Commander (1983)(Thorn EMI)[a][A000]</description>
+		<rom name="Submarine Commander (1983)(Thorn EMI)[a][A000].crt" size="8192" crc="e402fb1d" md5="63cff23dc7df736570347fbb9b26e949" sha1="0aa97e2931446b1286a01f563198e7c40f5b4678"/>
+	</game>
+	<game name="Submarine Commander (1983)(Thorn EMI)[o][b][A000]">
+		<description>Submarine Commander (1983)(Thorn EMI)[o][b][A000]</description>
+		<rom name="Submarine Commander (1983)(Thorn EMI)[o][b][A000].crt" size="16384" crc="a1a15626" md5="4fc91e0572ff2ff8843a206e33685a28" sha1="d38540f84277684759b1a943438cdb3d08d3c0f2"/>
+	</game>
+	<game name="Super Alien (1981)(Commodore)(NTSC-PAL)[A000]">
+		<description>Super Alien (1981)(Commodore)(NTSC-PAL)[A000]</description>
+		<rom name="Super Alien (1981)(Commodore)(NTSC-PAL)[A000].crt" size="8194" crc="6e0878de" md5="e8b91cbce5f76d9f92dcd52eacfbbcf0" sha1="386ae6a5d4a5ac0d0bcc1258e612d73f055053f4"/>
+	</game>
+	<game name="Super Alien (1981)(Commodore)(NTSC-PAL)[a2][A000]">
+		<description>Super Alien (1981)(Commodore)(NTSC-PAL)[a2][A000]</description>
+		<rom name="Super Alien (1981)(Commodore)(NTSC-PAL)[a2][A000].crt" size="8192" crc="5118ab82" md5="4cc04877708d0403108aaceb47d54cb5" sha1="d303f866e1a8fea6deabe78553670ca8cc411df3"/>
+	</game>
+	<game name="Super Alien (1981)(Commodore)(NTSC-PAL)[a][A000]">
+		<description>Super Alien (1981)(Commodore)(NTSC-PAL)[a][A000]</description>
+		<rom name="Super Alien (1981)(Commodore)(NTSC-PAL)[a][A000].crt" size="8192" crc="a1f3efa9" md5="cf4edefd7d18a0e5ee3320ea53fbe40e" sha1="35212b66bc76854603f1a1b51a1e25f40f89952f"/>
+	</game>
+	<game name="Super Amok! (1983)(UMI)(NTSC-PAL)[A000]">
+		<description>Super Amok! (1983)(UMI)(NTSC-PAL)[A000]</description>
+		<rom name="Super Amok! (1983)(UMI)(NTSC-PAL)[A000].crt" size="8194" crc="e2d177c4" md5="bb0976202b6c6d3c0d2a97c06c730a50" sha1="6444a9c861e403afc6482ee6e09bed07273d77b2"/>
+	</game>
+	<game name="Super Amok! (1983)(UMI)(NTSC-PAL)[a2][A000]">
+		<description>Super Amok! (1983)(UMI)(NTSC-PAL)[a2][A000]</description>
+		<rom name="Super Amok! (1983)(UMI)(NTSC-PAL)[a2][A000].crt" size="8192" crc="ddc1a498" md5="8ea1b3d8a353a9c5f955ee84a3c11ab0" sha1="455e1273f7b9e1527e2ac3c4ba45432e0cc18d6a"/>
+	</game>
+	<game name="Super Amok! (1983)(UMI)(NTSC-PAL)[a][A000]">
+		<description>Super Amok! (1983)(UMI)(NTSC-PAL)[a][A000]</description>
+		<rom name="Super Amok! (1983)(UMI)(NTSC-PAL)[a][A000].crt" size="8192" crc="28ce60cf" md5="283f91ed13ff820c758f2beeac7d4ebf" sha1="c4b01750f10123c5c0b5a8a030dc7751c0d93a4b"/>
+	</game>
+	<game name="Super Amok! (1983)(UMI)(NTSC-PAL)[o][A000]">
+		<description>Super Amok! (1983)(UMI)(NTSC-PAL)[o][A000]</description>
+		<rom name="Super Amok! (1983)(UMI)(NTSC-PAL)[o][A000].crt" size="8382" crc="54ec9145" md5="568796dbf5b750045cbcf94242681c44" sha1="d01e11505c846c7809446431aa2b97c8f8cb5a79"/>
+	</game>
+	<game name="Super Slot (1981)(Commodore)(NTSC-PAL)[A000]">
+		<description>Super Slot (1981)(Commodore)(NTSC-PAL)[A000]</description>
+		<rom name="Super Slot (1981)(Commodore)(NTSC-PAL)[A000].crt" size="8194" crc="5bc47b2d" md5="5ba2a3aae7609fd21bfd574f1dfa2692" sha1="0e4a5229d104927c03bc3c3eaf4f47d4e4372d9a"/>
+	</game>
+	<game name="Super Slot (1981)(Commodore)(NTSC-PAL)[a2][A000]">
+		<description>Super Slot (1981)(Commodore)(NTSC-PAL)[a2][A000]</description>
+		<rom name="Super Slot (1981)(Commodore)(NTSC-PAL)[a2][A000].crt" size="8192" crc="183c0866" md5="fae6002fc2095dc2c4ca179add9f111c" sha1="a0b3cf83e4f780007c17986586c204863c0c3027"/>
+	</game>
+	<game name="Super Slot (1981)(Commodore)(NTSC-PAL)[a3][A000]">
+		<description>Super Slot (1981)(Commodore)(NTSC-PAL)[a3][A000]</description>
+		<rom name="Super Slot (1981)(Commodore)(NTSC-PAL)[a3][A000].crt" size="8192" crc="64d4a871" md5="84fc7ca7bec637720d0c0c23a6a72786" sha1="4e1582c516007613e2ca02cfa8f482603cbbd38f"/>
+	</game>
+	<game name="Super Slot (1981)(Commodore)(NTSC-PAL)[a][A000]">
+		<description>Super Slot (1981)(Commodore)(NTSC-PAL)[a][A000]</description>
+		<rom name="Super Slot (1981)(Commodore)(NTSC-PAL)[a][A000].crt" size="8194" crc="272cdb3a" md5="5127ace23a582e3425dbd45d1054794b" sha1="d9e18aa74eecee4ac0f865ccc49fd5e16f9b69bc"/>
+	</game>
+	<game name="Super Smash (1982)(Commodore)(NTSC)[a2][Paddles][A000]">
+		<description>Super Smash (1982)(Commodore)(NTSC)[a2][Paddles][A000]</description>
+		<rom name="Super Smash (1982)(Commodore)(NTSC)[a2][Paddles][A000].crt" size="8192" crc="67d30746" md5="8b93b1123032218735dd82ba3121a82f" sha1="3a8487f4cccded83a98ec0a2e023107e663527c2"/>
+	</game>
+	<game name="Super Smash (1982)(Commodore)(NTSC)[a3][Paddles][A000]">
+		<description>Super Smash (1982)(Commodore)(NTSC)[a3][Paddles][A000]</description>
+		<rom name="Super Smash (1982)(Commodore)(NTSC)[a3][Paddles][A000].crt" size="8192" crc="51d04db0" md5="dd6ca9ab5d79ab471ef8654dbb2e16d1" sha1="cd5e5917b81fd5c3226f668e42b4381df6307d70"/>
+	</game>
+	<game name="Super Smash (1982)(Commodore)(NTSC)[a][Paddles][A000]">
+		<description>Super Smash (1982)(Commodore)(NTSC)[a][Paddles][A000]</description>
+		<rom name="Super Smash (1982)(Commodore)(NTSC)[a][Paddles][A000].crt" size="8194" crc="58c3d41a" md5="e3b11650e92e15a265ca75496f434911" sha1="a7192e46d08e3529eb0bd884e8b2e6acf0c12d9f"/>
+	</game>
+	<game name="Super Smash (1982)(Commodore)(NTSC)[Paddles][A000]">
+		<description>Super Smash (1982)(Commodore)(NTSC)[Paddles][A000]</description>
+		<rom name="Super Smash (1982)(Commodore)(NTSC)[Paddles][A000].crt" size="8194" crc="6ec09eec" md5="afb2f3609ef250e66c1da804352de870" sha1="a146b8bf60c4639dfe3249d159d37f66394f57b2"/>
+	</game>
+	<game name="Super Smash (1982)(Commodore)(PAL)[a][Paddles][A000]">
+		<description>Super Smash (1982)(Commodore)(PAL)[a][Paddles][A000]</description>
+		<rom name="Super Smash (1982)(Commodore)(PAL)[a][Paddles][A000].crt" size="8192" crc="f5671f11" md5="b95a3f6eac19af002a0f3b69325e5035" sha1="a7b8d5f249d80db1d559ab009adf8a71cae917a9"/>
+	</game>
+	<game name="Super Smash (1982)(Commodore)(PAL)[Paddles][A000]">
+		<description>Super Smash (1982)(Commodore)(PAL)[Paddles][A000]</description>
+		<rom name="Super Smash (1982)(Commodore)(PAL)[Paddles][A000].crt" size="8194" crc="ca77cc4d" md5="7c73b246f0c3a60dc409ebf4002bdc36" sha1="a5a4eb6fd784872591c99196d82395d58f49e6a5"/>
+	</game>
+	<game name="Super Smash (1982)(Commodore)[Paddles][A000][for sd-cart]">
+		<description>Super Smash (1982)(Commodore)[Paddles][A000][for sd-cart]</description>
+		<rom name="Super Smash (1982)(Commodore)[Paddles][A000][for sd-cart].crt" size="8193" crc="a4f27bb1" md5="1208b59cfed11707bb4bfb842a97d655" sha1="c635f96443d4b39cc511add0cd8577e482e012c3"/>
+	</game>
+	<game name="Tank Atak (1982)(Supersoft)(PAL)[A000]">
+		<description>Tank Atak (1982)(Supersoft)(PAL)[A000]</description>
+		<rom name="Tank Atak (1982)(Supersoft)(PAL)[A000].crt" size="8194" crc="40e05240" md5="5d298793dc40568151321dc2925a8d82" sha1="1b7502c1a477212f6d941a4502c3cfcc01f50490"/>
+	</game>
+	<game name="Tank Atak (1982)(Supersoft)(PAL)[a2][A000]">
+		<description>Tank Atak (1982)(Supersoft)(PAL)[a2][A000]</description>
+		<rom name="Tank Atak (1982)(Supersoft)(PAL)[a2][A000].crt" size="8192" crc="4b6d5477" md5="c6411da6f3136a0938d3b4906013d3ff" sha1="ec1892427afc29fd76bcf6120e985d4ef99c0f41"/>
+	</game>
+	<game name="Tank Atak (1982)(Supersoft)(PAL)[a][A000]">
+		<description>Tank Atak (1982)(Supersoft)(PAL)[a][A000]</description>
+		<rom name="Tank Atak (1982)(Supersoft)(PAL)[a][A000].crt" size="8194" crc="747d872b" md5="fb26d9a262d68c10de7fed8774347264" sha1="e6b8fe4830b04775359443fdb66a55b95ee5b035"/>
+	</game>
+	<game name="Tank Atak (1982)(Supersoft)(PAL)[o][A000]">
+		<description>Tank Atak (1982)(Supersoft)(PAL)[o][A000]</description>
+		<rom name="Tank Atak (1982)(Supersoft)(PAL)[o][A000].crt" size="8192" crc="396a33f2" md5="1fd5922d5db620f1d31dc2816e07e9bf" sha1="c35c5b6d309f7d07fc8609be8542d8d2222892a9"/>
+	</game>
+	<game name="Tank Atak (1982)(Supersoft)(PAL)[o][b][A000]">
+		<description>Tank Atak (1982)(Supersoft)(PAL)[o][b][A000]</description>
+		<rom name="Tank Atak (1982)(Supersoft)(PAL)[o][b][A000].crt" size="16384" crc="1fa94e59" md5="81259b7c106db077749f7527a50a052e" sha1="4479f0843762ccc5d21c55848075482e6a810951"/>
+	</game>
+	<game name="Tank Wars (1983)(OEM)(NTSC-PAL)[A000]">
+		<description>Tank Wars (1983)(OEM)(NTSC-PAL)[A000]</description>
+		<rom name="Tank Wars (1983)(OEM)(NTSC-PAL)[A000].crt" size="4098" crc="bef4bc70" md5="9ddcc03705258935d05f26aba3859d4c" sha1="4de9ca94f37e263ec4f2949c8911a5947f5d2324"/>
+	</game>
+	<game name="Tank Wars (1983)(OEM)(NTSC-PAL)[a][A000]">
+		<description>Tank Wars (1983)(OEM)(NTSC-PAL)[a][A000]</description>
+		<rom name="Tank Wars (1983)(OEM)(NTSC-PAL)[a][A000].crt" size="4096" crc="a0678801" md5="fc8e166cda1d4d89f03ad76981629deb" sha1="1fb132603c241c45c2fcef4d2f75a5acb79b6bde"/>
+	</game>
+	<game name="Terraguard (1982)(Creative)(NTSC)[A000]">
+		<description>Terraguard (1982)(Creative)(NTSC)[A000]</description>
+		<rom name="Terraguard (1982)(Creative)(NTSC)[A000].crt" size="4098" crc="2eea976a" md5="6c9fdcb2d0a2ac6954e53c651acdfa81" sha1="66dc1506b7bdce890331582f2b11e422ef265f8d"/>
+	</game>
+	<game name="Terraguard (1982)(Creative)(NTSC)[a][A000]">
+		<description>Terraguard (1982)(Creative)(NTSC)[a][A000]</description>
+		<rom name="Terraguard (1982)(Creative)(NTSC)[a][A000].crt" size="4096" crc="3079a31b" md5="fa5710dafb66352c61576c4fcb519557" sha1="34548ad6f1e61c99cf7d5575101b0f8186390201"/>
+	</game>
+	<game name="Terraguard (1982)(Creative)(PAL)[A000]">
+		<description>Terraguard (1982)(Creative)(PAL)[A000]</description>
+		<rom name="Terraguard (1982)(Creative)(PAL)[A000].crt" size="4098" crc="16462e72" md5="0046c02713b675c50b4c502f3a284605" sha1="f159a4eb7f6e8f78876597a2ada91f4cc4b96784"/>
+	</game>
+	<game name="Terraguard (1982)(Creative)(PAL)[a][A000]">
+		<description>Terraguard (1982)(Creative)(PAL)[a][A000]</description>
+		<rom name="Terraguard (1982)(Creative)(PAL)[a][A000].crt" size="4096" crc="08d51a03" md5="1934ade84aaa13475fc042e13610d83a" sha1="8fa90ca6cbc32db4efc01a1bb8329b0900d57558"/>
+	</game>
+	<game name="Terraguard (1982)(Creative)(PAL)[o][A000]">
+		<description>Terraguard (1982)(Creative)(PAL)[o][A000]</description>
+		<rom name="Terraguard (1982)(Creative)(PAL)[o][A000].crt" size="8382" crc="a208a6e2" md5="58f32b11f2755167414cef031cd8b09a" sha1="2a8710d0ff33d51820b71a238594f3ff98926689"/>
+	</game>
+	<game name="Terraguard (1982)(Creative)(PAL)[o][a][A000]">
+		<description>Terraguard (1982)(Creative)(PAL)[o][a][A000]</description>
+		<rom name="Terraguard (1982)(Creative)(PAL)[o][a][A000].crt" size="8192" crc="26599a82" md5="dc705259d1cd49b33be416c177ce3190" sha1="b1d5719a3f6e22bce0e546596d042469df2c3f1b"/>
+	</game>
+	<game name="Terraguard (1982)(Creative)[A000][for sd-cart]">
+		<description>Terraguard (1982)(Creative)[A000][for sd-cart]</description>
+		<rom name="Terraguard (1982)(Creative)[A000][for sd-cart].crt" size="8191" crc="8fc05e16" md5="469e0526197ca1bd671177bc4960d99c" sha1="ab96f19abadf5afe30a37a1619f36ebcff9a6cbe"/>
+	</game>
+	<game name="Threshold (1981)(Sierra)(NTSC)[A000]">
+		<description>Threshold (1981)(Sierra)(NTSC)[A000]</description>
+		<rom name="Threshold (1981)(Sierra)(NTSC)[A000].crt" size="8194" crc="c33d17ec" md5="e1d5a52bf6e5cce910c5ea99959fb90b" sha1="4c26702b4c8f1b6e2a563be392b870bf5b28e0ea"/>
+	</game>
+	<game name="Threshold (1981)(Sierra)(NTSC)[a][A000]">
+		<description>Threshold (1981)(Sierra)(NTSC)[a][A000]</description>
+		<rom name="Threshold (1981)(Sierra)(NTSC)[a][A000].crt" size="8192" crc="fc2dc4b0" md5="6429bd4f6342e0adcbc2701f34ad83e6" sha1="2fdfc64bb0e8ff182ef70756ae02d6e557aedc0f"/>
+	</game>
+	<game name="Titan (1981)(Commodore)(NTSC-PAL)[A000]">
+		<description>Titan (1981)(Commodore)(NTSC-PAL)[A000]</description>
+		<rom name="Titan (1981)(Commodore)(NTSC-PAL)[A000].crt" size="8194" crc="8d728d99" md5="c41960d0c2462173713fb642d5a91a4f" sha1="d92db40fe6d92315730121caa4a1f306c1cf086b"/>
+	</game>
+	<game name="Titan (1981)(Commodore)(NTSC-PAL)[a][A000]">
+		<description>Titan (1981)(Commodore)(NTSC-PAL)[a][A000]</description>
+		<rom name="Titan (1981)(Commodore)(NTSC-PAL)[a][A000].crt" size="8192" crc="b2625ec5" md5="7c16199590d7a93aeedfe58abfc1b386" sha1="616e9f26135653061b36cddb77e2e2da12660f22"/>
+	</game>
+	<game name="Tomarc the Barbarian (1984)(Xonox)(NTSC-PAL)[A000]">
+		<description>Tomarc the Barbarian (1984)(Xonox)(NTSC-PAL)[A000]</description>
+		<rom name="Tomarc the Barbarian (1984)(Xonox)(NTSC-PAL)[A000].crt" size="8194" crc="596809a8" md5="f5a6c14e241bb761f829558f221c3691" sha1="7a5c671233d3cd76cf883015ce5728dd5745cbfa"/>
+	</game>
+	<game name="Tomarc the Barbarian (1984)(Xonox)(NTSC-PAL)[a][A000]">
+		<description>Tomarc the Barbarian (1984)(Xonox)(NTSC-PAL)[a][A000]</description>
+		<rom name="Tomarc the Barbarian (1984)(Xonox)(NTSC-PAL)[a][A000].crt" size="8192" crc="6678daf4" md5="f3df15246eb4b8f6a95aafe37ccf3745" sha1="2100d4d96a68b5c523c740f6e3c935e4811c6843"/>
+	</game>
+	<game name="Tooth Invaders (1983)(Commodore)(NTSC)[A000]">
+		<description>Tooth Invaders (1983)(Commodore)(NTSC)[A000]</description>
+		<rom name="Tooth Invaders (1983)(Commodore)(NTSC)[A000].crt" size="8194" crc="bc7408e1" md5="3ae320a93ad1f18c65e156d4eab22853" sha1="c4d31e1bdd13127184fba978dc295b4611adad41"/>
+	</game>
+	<game name="Tooth Invaders (1983)(Commodore)(NTSC)[a][A000]">
+		<description>Tooth Invaders (1983)(Commodore)(NTSC)[a][A000]</description>
+		<rom name="Tooth Invaders (1983)(Commodore)(NTSC)[a][A000].crt" size="8192" crc="8364dbbd" md5="94469c23c5dad0ca08483d231b649241" sha1="36b8bf6bfc402d62a7a52432356f804db2911d37"/>
+	</game>
+	<game name="Topper (1983)(Romox)(NTSC)[A000]">
+		<description>Topper (1983)(Romox)(NTSC)[A000]</description>
+		<rom name="Topper (1983)(Romox)(NTSC)[A000].crt" size="8194" crc="b5758fdb" md5="c23ff4ccd0d2cd1bb2a004559c2499b4" sha1="23de288652d55ab84ee18032e7ce0b4f3ba03ee8"/>
+	</game>
+	<game name="Topper (1983)(Romox)(NTSC)[a][A000]">
+		<description>Topper (1983)(Romox)(NTSC)[a][A000]</description>
+		<rom name="Topper (1983)(Romox)(NTSC)[a][A000].crt" size="8192" crc="8a655c87" md5="d844010cf5e99fa26829f3a8f797a4c1" sha1="6b7c4d29645adda84ab04cce28972a8b1a1cb403"/>
+	</game>
+	<game name="Trashman (1982)(Creative)[A000]">
+		<description>Trashman (1982)(Creative)[A000]</description>
+		<rom name="Trashman (1982)(Creative)[A000].crt" size="8194" crc="99fe46ea" md5="79fd3bfc488097d1258b9e1ab7b36c7d" sha1="fba9b90cab260ef9a4cb036335f4b0d2406b70b2"/>
+	</game>
+	<game name="Trashman (1982)(Creative)[a][A000]">
+		<description>Trashman (1982)(Creative)[a][A000]</description>
+		<rom name="Trashman (1982)(Creative)[a][A000].crt" size="8192" crc="a6ee95b6" md5="e0056c81d21fae3d0832f3fe5ef9dfcb" sha1="f89307f900586ae870909a96ed7335b5ed197ffc"/>
+	</game>
+	<game name="Trashman (1982)(Creative)[o][A000]">
+		<description>Trashman (1982)(Creative)[o][A000]</description>
+		<rom name="Trashman (1982)(Creative)[o][A000].crt" size="8382" crc="1807b7da" md5="69b781b19fb25111cb22ba98c9dda8d9" sha1="f7a0dc04332e75e382912bbbf7c58d50d36fff2e"/>
+	</game>
+	<game name="Turmoil (1982)(Sirius)[A000]">
+		<description>Turmoil (1982)(Sirius)[A000]</description>
+		<rom name="Turmoil (1982)(Sirius)[A000].crt" size="8194" crc="2ab29f62" md5="c35d8ed2a90b68889b1b5e69b9d098bc" sha1="5faf82912b0e4cf9c33c995518e9af1d57107e7a"/>
+	</game>
+	<game name="Turmoil (1982)(Sirius)[a][A000]">
+		<description>Turmoil (1982)(Sirius)[a][A000]</description>
+		<rom name="Turmoil (1982)(Sirius)[a][A000].crt" size="8192" crc="15a24c3e" md5="92a0f574306b40123a6ba5bac2df1215" sha1="4838ad99e260fbf1fbc851c0f4d0f87719f3e8e9"/>
+	</game>
+	<game name="Turmoil (1982)(Sirius)[o][A000]">
+		<description>Turmoil (1982)(Sirius)[o][A000]</description>
+		<rom name="Turmoil (1982)(Sirius)[o][A000].crt" size="8382" crc="02806a9f" md5="373d592600c09378cdc82aa0dacac617" sha1="85a7e6cb2b1daa02eb52f818ec882d5c0ac1889a"/>
+	</game>
+	<game name="Tutankham (1983)(Parker)[A000]">
+		<description>Tutankham (1983)(Parker)[A000]</description>
+		<rom name="Tutankham (1983)(Parker)[A000].crt" size="8194" crc="805d555b" md5="ca3ac32b07b1f8d81d39f6b58079ead7" sha1="f768fa8d6077f2d889933058a5fa4d758fd2b639"/>
+	</game>
+	<game name="Tutankham (1983)(Parker)[b][A000]">
+		<description>Tutankham (1983)(Parker)[b][A000]</description>
+		<rom name="Tutankham (1983)(Parker)[b][A000].crt" size="8192" crc="bf4d8607" md5="fe33d677ad2f372e7674119d3eac6703" sha1="8373441050ef0cdb5af93fc11009d43e5f608ddb"/>
+	</game>
+	<game name="Tutankham (1983)(Parker)[o][b][A000]">
+		<description>Tutankham (1983)(Parker)[o][b][A000]</description>
+		<rom name="Tutankham (1983)(Parker)[o][b][A000].crt" size="16384" crc="26f5a78d" md5="09441d856c265f67827502d9b192cfd7" sha1="61ef179d4d13da91d59a84bbff9dbfedf1e342cd"/>
+	</game>
+	<game name="Type Attack (1982)(Sirius)(NTSC-PAL)[A000]">
+		<description>Type Attack (1982)(Sirius)(NTSC-PAL)[A000]</description>
+		<rom name="Type Attack (1982)(Sirius)(NTSC-PAL)[A000].crt" size="8194" crc="562c6b8e" md5="6450a0f5a97ee592926817507e9d28be" sha1="82a1bcf58503a6ae85aa0f506c27d610d6ab4d19"/>
+	</game>
+	<game name="Type Attack (1982)(Sirius)(NTSC-PAL)[a][A000]">
+		<description>Type Attack (1982)(Sirius)(NTSC-PAL)[a][A000]</description>
+		<rom name="Type Attack (1982)(Sirius)(NTSC-PAL)[a][A000].crt" size="8192" crc="693cb8d2" md5="fe7175ffa82ee2cef9213d82de4096c6" sha1="e89a82c1d2db70eb71196e767afea5ccc3fbfc1e"/>
+	</game>
+	<game name="Typo (1983)(Romox)(NTSC)[A000]">
+		<description>Typo (1983)(Romox)(NTSC)[A000]</description>
+		<rom name="Typo (1983)(Romox)(NTSC)[A000].crt" size="8194" crc="6aeb8a4e" md5="65c9c26816d5f0f86d40eb4626144795" sha1="eb97f20a0c3c391dd93d9424c646ec1ddf563746"/>
+	</game>
+	<game name="Typo (1983)(Romox)(NTSC)[a][A000]">
+		<description>Typo (1983)(Romox)(NTSC)[a][A000]</description>
+		<rom name="Typo (1983)(Romox)(NTSC)[a][A000].crt" size="8192" crc="55fb5912" md5="5c3175dd29a37b67d27766e2db80d186" sha1="0a775cd657685a965c254490e8bbffa3123ecc63"/>
+	</game>
+	<game name="Video Vermin (1982)(UMI)(NTSC-PAL)[A000]">
+		<description>Video Vermin (1982)(UMI)(NTSC-PAL)[A000]</description>
+		<rom name="Video Vermin (1982)(UMI)(NTSC-PAL)[A000].crt" size="8194" crc="9beef03e" md5="b8f4d9bf7ca40eb32a652f45c8e2307c" sha1="8ef5aee32fd5920a112452c78eb030526c5103a5"/>
+	</game>
+	<game name="Video Vermin (1982)(UMI)(NTSC-PAL)[a][A000]">
+		<description>Video Vermin (1982)(UMI)(NTSC-PAL)[a][A000]</description>
+		<rom name="Video Vermin (1982)(UMI)(NTSC-PAL)[a][A000].crt" size="8192" crc="a4fe2362" md5="cedb1620779bdf03644cad039a0cecc0" sha1="6df279e642dfe5cc2915ac99382ad43c6c60ad9f"/>
+	</game>
+	<game name="Video Vermin (1982)(UMI)(NTSC-PAL)[b][A000]">
+		<description>Video Vermin (1982)(UMI)(NTSC-PAL)[b][A000]</description>
+		<rom name="Video Vermin (1982)(UMI)(NTSC-PAL)[b][A000].crt" size="8192" crc="cccc7957" md5="f704148f138c6de3faf4a065fbef43bf" sha1="000cedb2cc78b38e30e6f447d8e5d25cfc69ffdc"/>
+	</game>
+	<game name="Videomania (1982)(Creative)(NTSC)[A000]">
+		<description>Videomania (1982)(Creative)(NTSC)[A000]</description>
+		<rom name="Videomania (1982)(Creative)(NTSC)[A000].crt" size="4098" crc="40f1474c" md5="6893881b28e5bb3b57ce636af144687d" sha1="4869e792e75f0496027096a2e09d6d598b584607"/>
+	</game>
+	<game name="Videomania (1982)(Creative)(NTSC)[a][A000]">
+		<description>Videomania (1982)(Creative)(NTSC)[a][A000]</description>
+		<rom name="Videomania (1982)(Creative)(NTSC)[a][A000].crt" size="4096" crc="5e62733d" md5="7f22adaf77876ea9e197be811a873aec" sha1="cf5afd0db85f4959d8601ea10240345b527a825b"/>
+	</game>
+	<game name="Videomania (1982)(Creative)(PAL)[A000]">
+		<description>Videomania (1982)(Creative)(PAL)[A000]</description>
+		<rom name="Videomania (1982)(Creative)(PAL)[A000].crt" size="4098" crc="fdb657d8" md5="6e8d18679354ab0f34a5baf3c1e36284" sha1="b357e79b007ec28bbb760030fe54938e18eae340"/>
+	</game>
+	<game name="Videomania (1982)(Creative)(PAL)[a][A000]">
+		<description>Videomania (1982)(Creative)(PAL)[a][A000]</description>
+		<rom name="Videomania (1982)(Creative)(PAL)[a][A000].crt" size="4096" crc="e32563a9" md5="cec6cd0b16d1ddc94dcc0b7206e441a4" sha1="e8b7be53ef5b8d2660483721c984a5a584aae0a0"/>
+	</game>
+	<game name="Videomania (1982)(Creative)(PAL)[o][A000]">
+		<description>Videomania (1982)(Creative)(PAL)[o][A000]</description>
+		<rom name="Videomania (1982)(Creative)(PAL)[o][A000].crt" size="8382" crc="1ea48f7f" md5="aebc30842c6a01ccd155c964d369c330" sha1="b2a1c4fab066cee1a345cb8819f3cec5798c1e4a"/>
+	</game>
+	<game name="Videomania (1982)(Creative)(PAL)[o][a2][A000]">
+		<description>Videomania (1982)(Creative)(PAL)[o][a2][A000]</description>
+		<rom name="Videomania (1982)(Creative)(PAL)[o][a2][A000].crt" size="8191" crc="ce27b842" md5="cbdfa823ed0e91523238a13c1b327059" sha1="1b61fd0eab2203a0fd642b4cb6dd211ae8d7a645"/>
+	</game>
+	<game name="Videomania (1982)(Creative)(PAL)[o][a][A000]">
+		<description>Videomania (1982)(Creative)(PAL)[o][a][A000]</description>
+		<rom name="Videomania (1982)(Creative)(PAL)[o][a][A000].crt" size="8192" crc="4a1ee889" md5="44285f3ed28b45d40f0d2619f91b2a58" sha1="b08053131361128646782f1394989effab11b014"/>
+	</game>
+	<game name="Videomania (1982)(Creative)[h][o][b][A000]">
+		<description>Videomania (1982)(Creative)[h][o][b][A000]</description>
+		<rom name="Videomania (1982)(Creative)[h][o][b][A000].crt" size="5334" crc="7fec46d3" md5="f574e9a27187a3be9525412c447ca6ea" sha1="24b47cc40356b046ccad9de1a477797a61fe28e4"/>
+	</game>
+	<game name="Visible Solar System (1982)(Commodore)(NTSC-PAL)[A000]">
+		<description>Visible Solar System (1982)(Commodore)(NTSC-PAL)[A000]</description>
+		<rom name="Visible Solar System (1982)(Commodore)(NTSC-PAL)[A000].crt" size="8194" crc="fb86ac7f" md5="25986644420d286a074651ca455b595a" sha1="4a4620724a3edbe1ef71d1f51c80492ca6018e04"/>
+	</game>
+	<game name="Visible Solar System (1982)(Commodore)(NTSC-PAL)[a2][A000]">
+		<description>Visible Solar System (1982)(Commodore)(NTSC-PAL)[a2][A000]</description>
+		<rom name="Visible Solar System (1982)(Commodore)(NTSC-PAL)[a2][A000].crt" size="8194" crc="358bd70a" md5="7ffd4a5fa2aa6db156978168b0c9f48b" sha1="8d767db9b1dc62f1571aa4a93f0a13a35a4a48bb"/>
+	</game>
+	<game name="Visible Solar System (1982)(Commodore)(NTSC-PAL)[a3][A000]">
+		<description>Visible Solar System (1982)(Commodore)(NTSC-PAL)[a3][A000]</description>
+		<rom name="Visible Solar System (1982)(Commodore)(NTSC-PAL)[a3][A000].crt" size="8192" crc="0a9b0456" md5="4972d577eefe5e38ff227f0327ba0bf6" sha1="a7b767173316eecb1407083ab4715963bef9d751"/>
+	</game>
+	<game name="Visible Solar System (1982)(Commodore)(NTSC-PAL)[a4][A000]">
+		<description>Visible Solar System (1982)(Commodore)(NTSC-PAL)[a4][A000]</description>
+		<rom name="Visible Solar System (1982)(Commodore)(NTSC-PAL)[a4][A000].crt" size="8192" crc="ee5d7a91" md5="f53a942fba13c3df1ccb82d31b728188" sha1="94f2ac4d58e9ffe4861c00de5551bdcb60b9dbf7"/>
+	</game>
+	<game name="Visible Solar System (1982)(Commodore)(NTSC-PAL)[a5][A000]">
+		<description>Visible Solar System (1982)(Commodore)(NTSC-PAL)[a5][A000]</description>
+		<rom name="Visible Solar System (1982)(Commodore)(NTSC-PAL)[a5][A000].crt" size="8192" crc="c4967f23" md5="bd0e7f5858f7cb4e0c3464767ccc57e8" sha1="459a22a9affdc73b5fa6868fef398b0707a70a17"/>
+	</game>
+	<game name="Visible Solar System (1982)(Commodore)(NTSC-PAL)[a][A000]">
+		<description>Visible Solar System (1982)(Commodore)(NTSC-PAL)[a][A000]</description>
+		<rom name="Visible Solar System (1982)(Commodore)(NTSC-PAL)[a][A000].crt" size="8194" crc="d14da9cd" md5="d8ebeb4749101922e7e1a45716bcee35" sha1="b8639bb1950ace844bde69a41f5bf85b25b4dede"/>
+	</game>
+	<game name="Voodoo Castle (1981)(Commodore)[b][a][SYS 32592][4000]">
+		<description>Voodoo Castle (1981)(Commodore)[b][a][SYS 32592][4000]</description>
+		<rom name="Voodoo Castle (1981)(Commodore)[b][a][SYS 32592][4000].crt" size="16384" crc="56ac6dbf" md5="e9bace2a9c7294d668e4b017f7d10fe4" sha1="110395991e42ad80b6894645884e8a0380c9f424"/>
+	</game>
+	<game name="Voodoo Castle (1981)(Commodore)[b][SYS 32592][4000]">
+		<description>Voodoo Castle (1981)(Commodore)[b][SYS 32592][4000]</description>
+		<rom name="Voodoo Castle (1981)(Commodore)[b][SYS 32592][4000].crt" size="16386" crc="05250278" md5="a5768cb9523386884cdda7c4c5f40baf" sha1="b17d03b1c1305063586257650ae9c9b7b227040a"/>
+	</game>
+	<game name="Wacky Waiters (1982)(Imagine)[o][SYS 48896][A000]">
+		<description>Wacky Waiters (1982)(Imagine)[o][SYS 48896][A000]</description>
+		<rom name="Wacky Waiters (1982)(Imagine)[o][SYS 48896][A000].crt" size="8382" crc="bfb00133" md5="a6bab662f811c70b1b2eafcfe46ad64f" sha1="d7c4f69d819aff86def54b7e66b5280ec9171886"/>
+	</game>
+	<game name="Wacky Waiters (1982)(Imagine)[SYS 48896][A000]">
+		<description>Wacky Waiters (1982)(Imagine)[SYS 48896][A000]</description>
+		<rom name="Wacky Waiters (1982)(Imagine)[SYS 48896][A000].crt" size="8192" crc="4c4a2e94" md5="0e46194d848c2d0837b1065fe33480f0" sha1="6583b47f07750a36a269e2457a7302abb2ff49bf"/>
+	</game>
+	<game name="Witch Way (1983)(CDS)(NTSC-PAL)[A000]">
+		<description>Witch Way (1983)(CDS)(NTSC-PAL)[A000]</description>
+		<rom name="Witch Way (1983)(CDS)(NTSC-PAL)[A000].crt" size="8194" crc="49915d39" md5="b5c82c9763ce263f2822f1f8d6ffecef" sha1="edd97a743007deae179db28d6fc993b69846aede"/>
+	</game>
+	<game name="World at War, A (1983)(Handic)(PAL)[A000]">
+		<description>World at War, A (1983)(Handic)(PAL)[A000]</description>
+		<rom name="World at War, A (1983)(Handic)(PAL)[A000].crt" size="8194" crc="b6b867f3" md5="0acfff87d6db29980907f033777df111" sha1="ac95a9520d23944388a7aa535f8efe737cfa20c6"/>
+	</game>
+	<game name="World at War, A (1983)(Handic)(PAL)[a][A000]">
+		<description>World at War, A (1983)(Handic)(PAL)[a][A000]</description>
+		<rom name="World at War, A (1983)(Handic)(PAL)[a][A000].crt" size="8192" crc="89a8b4af" md5="973d2a16bf26aad966a9f8771dc3b168" sha1="63a0ca93c2270d578f6bcde17bc6f5970ec30974"/>
+	</game>
+</datafile>

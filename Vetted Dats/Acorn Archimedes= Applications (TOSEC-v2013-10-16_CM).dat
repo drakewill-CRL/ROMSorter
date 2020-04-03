@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Acorn Archimedes - Applications</name>
+		<description>Acorn Archimedes - Applications (TOSEC-v2013-10-16)</description>
+		<category>TOSEC</category>
+		<version>2013-10-16</version>
+		<author>C0llector - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Acorn Archimedes RISC OS Application Suite v1.00 (19xx)(Acorn)(Disk 1 of 2)[a][Req RISC OS]">
+		<description>Acorn Archimedes RISC OS Application Suite v1.00 (19xx)(Acorn)(Disk 1 of 2)[a][Req RISC OS]</description>
+		<rom name="Acorn Archimedes RISC OS Application Suite v1.00 (19xx)(Acorn)(Disk 1 of 2)[a][Req RISC OS].adf" size="819200" crc="e43166b9" md5="43ee6acc0c173048f47826307c0a262e" sha1="e03f1c8d48c3d0dc907e624b9546922b67584e6c"/>
+	</game>
+	<game name="Acorn Archimedes RISC OS Application Suite v1.00 (19xx)(Acorn)(Disk 1 of 2)[Req RISC OS]">
+		<description>Acorn Archimedes RISC OS Application Suite v1.00 (19xx)(Acorn)(Disk 1 of 2)[Req RISC OS]</description>
+		<rom name="Acorn Archimedes RISC OS Application Suite v1.00 (19xx)(Acorn)(Disk 1 of 2)[Req RISC OS].adf" size="819200" crc="28144dfa" md5="629971775d902d1cc2658fc76f57e072" sha1="af61deeb2a8e33085ab3087e3464843396fffc92"/>
+	</game>
+	<game name="Acorn Archimedes RISC OS Application Suite v1.00 (19xx)(Acorn)(Disk 2 of 2)[a][Req RISC OS]">
+		<description>Acorn Archimedes RISC OS Application Suite v1.00 (19xx)(Acorn)(Disk 2 of 2)[a][Req RISC OS]</description>
+		<rom name="Acorn Archimedes RISC OS Application Suite v1.00 (19xx)(Acorn)(Disk 2 of 2)[a][Req RISC OS].adf" size="820224" crc="45ff05fd" md5="023ff0934994c393f058ee94de7da810" sha1="0a926620d68688766e81593b8150dbcebdb51b11"/>
+	</game>
+	<game name="Acorn Archimedes RISC OS Application Suite v1.00 (19xx)(Acorn)(Disk 2 of 2)[Req RISC OS]">
+		<description>Acorn Archimedes RISC OS Application Suite v1.00 (19xx)(Acorn)(Disk 2 of 2)[Req RISC OS]</description>
+		<rom name="Acorn Archimedes RISC OS Application Suite v1.00 (19xx)(Acorn)(Disk 2 of 2)[Req RISC OS].adf" size="820224" crc="d5fdf2ca" md5="bc66e63b616e79cba4969075017d4b36" sha1="bfc96eff8cab5b61f6db82dd135dd95b32f40d4f"/>
+	</game>
+	<game name="E-Type - Track Designer (1989)(Fourth Dimension)">
+		<description>E-Type - Track Designer (1989)(Fourth Dimension)</description>
+		<rom name="E-Type - Track Designer (1989)(Fourth Dimension).adf" size="819200" crc="33c32147" md5="af61d43b7482feb2ac942eb05169d31c" sha1="3a670ea136f354913325fe364d05f907dd558d5b"/>
+	</game>
+	<game name="Hard Disc Formatter v2.19 (1992)(-)[Req RISC OS 3.10 or later]">
+		<description>Hard Disc Formatter v2.19 (1992)(-)[Req RISC OS 3.10 or later]</description>
+		<rom name="Hard Disc Formatter v2.19 (1992)(-)[Req RISC OS 3.10 or later].adf" size="819200" crc="e8f51d06" md5="470add7cb4cc52d0ddd82bc5890f808a" sha1="f14d72eec33d15deffd99373bdcd054f1a90d903"/>
+	</game>
+	<game name="PCFS v1.0 (1999)(Chris-O)">
+		<description>PCFS v1.0 (1999)(Chris-O)</description>
+		<rom name="PCFS v1.0 (1999)(Chris-O).adf" size="819200" crc="0eb8fd41" md5="ab31a6bf268d4a4f04022e8844ca11ed" sha1="2d116f196700a9d8579a8134af3242924727d035"/>
+	</game>
+	<game name="Spectrum Emulator (19xx)(-)(Disk 1 of 2)">
+		<description>Spectrum Emulator (19xx)(-)(Disk 1 of 2)</description>
+		<rom name="Spectrum Emulator (19xx)(-)(Disk 1 of 2).adf" size="819200" crc="7b7a494c" md5="9b0242e0490a3bfa751bf3d0cbf25d2a" sha1="3492b359d6331c94e8fc821ffc760b4662ca2989"/>
+	</game>
+	<game name="Spectrum Emulator (19xx)(-)(Disk 2 of 2)">
+		<description>Spectrum Emulator (19xx)(-)(Disk 2 of 2)</description>
+		<rom name="Spectrum Emulator (19xx)(-)(Disk 2 of 2).adf" size="819200" crc="859b9d4d" md5="cd0bb914f07eaddedc33e52a943e758c" sha1="8d73d75979fd9229d9555e3391f80bcac74be8f5"/>
+	</game>
+	<game name="Speech! v1.3 (1991)(Superior Microcomputing)">
+		<description>Speech! v1.3 (1991)(Superior Microcomputing)</description>
+		<rom name="Speech! v1.3 (1991)(Superior Microcomputing).adf" size="337920" crc="afa0caf6" md5="4e98ebd0823aa440b7e5ca75b5066587" sha1="6bf70e521a803c00665d9402e484ada5decc80dd"/>
+	</game>
+	<game name="VZap (2000)(Vigay, Paul)">
+		<description>VZap (2000)(Vigay, Paul)</description>
+		<rom name="VZap (2000)(Vigay, Paul).adf" size="819200" crc="bde476ec" md5="699c9ae59a62f1903060a41f16a0ee24" sha1="7f9824d11b22c7c57dba6a8c85a9962e8e284e22"/>
+	</game>
+	<game name="VZap (2000)(Vigay, Paul)[b]">
+		<description>VZap (2000)(Vigay, Paul)[b]</description>
+		<rom name="VZap (2000)(Vigay, Paul)[b].adf" size="819200" crc="e127dc09" md5="259e7c78a50c643f26283ccd82cb9bba" sha1="54da1d0545b62591070b4f586efd5f3bf2859f62"/>
+	</game>
+</datafile>

@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>University of Cambridge EDSAC - Demos</name>
+		<description>University of Cambridge EDSAC - Demos (TOSEC-v2014-06-27)</description>
+		<category>TOSEC</category>
+		<version>2014-06-27</version>
+		<author>TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="99 Bottles of Beer Program (2004-01)(Lingard, James)">
+		<description>99 Bottles of Beer Program (2004-01)(Lingard, James)</description>
+		<rom name="99 Bottles of Beer Program (2004-01)(Lingard, James).txt" size="9511" crc="9894ce5f" md5="5a7e3db5354de37fe81e56f983cd383d" sha1="f9dd98b37ef029f6403896e2a78915e6060bbd9e"/>
+	</game>
+	<game name="Arithmetic (1990)(Campbell-Kelly, Martin)">
+		<description>Arithmetic (1990)(Campbell-Kelly, Martin)</description>
+		<rom name="Arithmetic (1990)(Campbell-Kelly, Martin).txt" size="171" crc="b8ff59f0" md5="2cace8b3231fa8ff4c6b420b8e3c50ad" sha1="936a67b69a494a504b61d7e3415c17c559f47b33"/>
+	</game>
+	<game name="Conways Life (1998)(Gillman, Ian)">
+		<description>Conways Life (1998)(Gillman, Ian)</description>
+		<rom name="Conways Life (1998)(Gillman, Ian).txt" size="8227" crc="fcea5976" md5="4eb0297c4b93b71a8ad14a61f568b939" sha1="e4346ebfbac327a1fc9ea735f22b3cfd8dc08222"/>
+	</game>
+	<game name="Cubes (1990)(Campbell-Kelly, Martin)">
+		<description>Cubes (1990)(Campbell-Kelly, Martin)</description>
+		<rom name="Cubes (1990)(Campbell-Kelly, Martin).txt" size="335" crc="2abccc5b" md5="557a8bb5ba6494887015ce0919ececaa" sha1="c36c1c16448177012389c23f91c297f1e59025db"/>
+	</game>
+	<game name="EDSAC Invaders (1999)(Noel-Storr, Luke)">
+		<description>EDSAC Invaders (1999)(Noel-Storr, Luke)</description>
+		<rom name="EDSAC Invaders (1999)(Noel-Storr, Luke).txt" size="1740" crc="0e4a0625" md5="ee189638237452aa4c8893ccf932dc3c" sha1="b381e60f2678faea730831a0462ee4140bfbb87f"/>
+	</game>
+	<game name="EDSAC Mandelbrot Plotter (1998-01)(Hunt, Jonathan)">
+		<description>EDSAC Mandelbrot Plotter (1998-01)(Hunt, Jonathan)</description>
+		<rom name="EDSAC Mandelbrot Plotter (1998-01)(Hunt, Jonathan).txt" size="12300" crc="bbb691e9" md5="44e5c10e874bcb26e7c68f543a977bd3" sha1="46f46a0aa2bb7aa0ace66d0efee5d18e47825616"/>
+	</game>
+	<game name="Etch-O-Sketch (19xx)(Jenkins, Chris)">
+		<description>Etch-O-Sketch (19xx)(Jenkins, Chris)</description>
+		<rom name="Etch-O-Sketch (19xx)(Jenkins, Chris).txt" size="7803" crc="ccc47a2e" md5="febb705ee3ba32fd4be1f9f6c9a1364f" sha1="428cbd25624dbf0c1dadab41d6d54408c95ee520"/>
+	</game>
+	<game name="Happy 50th (1999)(-)">
+		<description>Happy 50th (1999)(-)</description>
+		<rom name="Happy 50th (1999)(-).txt" size="441" crc="2d0a1f41" md5="a05b5f5850ee8bbd64371393564beeaa" sha1="e665d188f51c27fe6138409cc151f598d1f3c318"/>
+	</game>
+	<game name="Hello World (1990)(Campbell-Kelly, Martin)">
+		<description>Hello World (1990)(Campbell-Kelly, Martin)</description>
+		<rom name="Hello World (1990)(Campbell-Kelly, Martin).txt" size="70" crc="7ee8c394" md5="3b3363c53afcdc509567dacafbe35aa6" sha1="be84777f5f67b1ffde9fb32ac8445cefbb7934a1"/>
+	</game>
+	<game name="Hello World (1999-01-31)(Town, Chris)">
+		<description>Hello World (1999-01-31)(Town, Chris)</description>
+		<rom name="Hello World (1999-01-31)(Town, Chris).txt" size="511" crc="7461f50b" md5="76f6b503b7874f5e0b7ff42eb1782a61" sha1="3d96b0b9e47afa6cfca88bd3bd2f059e7974a6eb"/>
+	</game>
+	<game name="Life (19xx)(Clover, Andrew)">
+		<description>Life (19xx)(Clover, Andrew)</description>
+		<rom name="Life (19xx)(Clover, Andrew).txt" size="29523" crc="5cd744e5" md5="721edfd9b1102e101b31720fdf89747e" sha1="9367c6915133729cb87dc8db2dd8dd165a02e528"/>
+	</game>
+	<game name="My Hello (2001)(Campbell-Kelly, Martin)">
+		<description>My Hello (2001)(Campbell-Kelly, Martin)</description>
+		<rom name="My Hello (2001)(Campbell-Kelly, Martin).txt" size="51" crc="b8df8814" md5="4b761ffa75718d1b8da87df7f25cf872" sha1="feea782fbf225d596190c94d3bb0d4f962c3b8f5"/>
+	</game>
+	<game name="Pong (2001-01)(Garnham, Sam)">
+		<description>Pong (2001-01)(Garnham, Sam)</description>
+		<rom name="Pong (2001-01)(Garnham, Sam).txt" size="681" crc="0f7fea84" md5="3f56a67b0ae9382f65f2c8026d90760c" sha1="4f5f49f527abbfadbbba17b2f42c7418b01330db"/>
+	</game>
+	<game name="Primes (1949-05)(Wheeler, David J.)">
+		<description>Primes (1949-05)(Wheeler, David J.)</description>
+		<rom name="Primes (1949-05)(Wheeler, David J.).txt" size="296" crc="6dd9b982" md5="8b257ae25553ce81a772d688959f7ddd" sha1="108df66e7b8bd6c3d656186db03e17c82125b2ec"/>
+	</game>
+	<game name="Reciprocals (1990)(Campbell-Kelly, Martin)">
+		<description>Reciprocals (1990)(Campbell-Kelly, Martin)</description>
+		<rom name="Reciprocals (1990)(Campbell-Kelly, Martin).txt" size="426" crc="048cb8ef" md5="44d1807bbd5ff30704a95a22f89a7bb1" sha1="803239d38680bac4a1a867ad001fe6ce982b4250"/>
+	</game>
+	<game name="Reciprocals + C10 (1990)(Campbell-Kelly, Martin)">
+		<description>Reciprocals + C10 (1990)(Campbell-Kelly, Martin)</description>
+		<rom name="Reciprocals + C10 (1990)(Campbell-Kelly, Martin).txt" size="814" crc="af8050f9" md5="857d863991234dcd2e19a16089fd9c79" sha1="ad5a18816d00b902b4c8f98ca848316b9c355ce0"/>
+	</game>
+	<game name="Reciprocals + C7 (1990)(Campbell-Kelly, Martin)">
+		<description>Reciprocals + C7 (1990)(Campbell-Kelly, Martin)</description>
+		<rom name="Reciprocals + C7 (1990)(Campbell-Kelly, Martin).txt" size="693" crc="c220e078" md5="02497b90ef9d11840a2a4fee658d55d4" sha1="5da4d701570b2c84b230068b4785248d4f0d28e5"/>
+	</game>
+	<game name="Scrolling EDSAC Logo Program (2000-02)(Lingard, James)">
+		<description>Scrolling EDSAC Logo Program (2000-02)(Lingard, James)</description>
+		<rom name="Scrolling EDSAC Logo Program (2000-02)(Lingard, James).txt" size="13388" crc="541ec26b" md5="343b7f31b5bd1faaa03b6b04be62cef4" sha1="2c5f5685c6a0fc9987fee0840e8e2855522eb408"/>
+	</game>
+	<game name="Sieve of Eratosthenes (19xx)(Waldron, Paul)">
+		<description>Sieve of Eratosthenes (19xx)(Waldron, Paul)</description>
+		<rom name="Sieve of Eratosthenes (19xx)(Waldron, Paul).txt" size="1279" crc="844ddba8" md5="da21c85ca19c43e23713db2b18ec8842" sha1="7a27162636a475411ada1749669e24d929f42987"/>
+	</game>
+	<game name="Sieve of Eratosthenes (2001-04-01)(Wada, Eiiti)">
+		<description>Sieve of Eratosthenes (2001-04-01)(Wada, Eiiti)</description>
+		<rom name="Sieve of Eratosthenes (2001-04-01)(Wada, Eiiti).txt" size="989" crc="0e53d328" md5="e8c51c4b7924432c253958c39a6486ec" sha1="d6fbbf01583dd2d8aa3efae295d1db5416190523"/>
+	</game>
+	<game name="Squares (1949-05)(Wilkes, Maurice V.)">
+		<description>Squares (1949-05)(Wilkes, Maurice V.)</description>
+		<rom name="Squares (1949-05)(Wilkes, Maurice V.).txt" size="383" crc="8baf94e2" md5="aa3472cb9ac78e1d713343e102dc769d" sha1="b3acaeefb45ecd6dcdb1e6776332b4b9cd381ebd"/>
+	</game>
+	<game name="TPK (1980)(Campbell-Kelly, Martin)">
+		<description>TPK (1980)(Campbell-Kelly, Martin)</description>
+		<rom name="TPK (1980)(Campbell-Kelly, Martin).txt" size="991" crc="bd1d3382" md5="6c90bf8a7cc59a26fb2ceb5985170a76" sha1="a9329e47facf4b2d065aa1c10ce8f6d959d5fa12"/>
+	</game>
+</datafile>

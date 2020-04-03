@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nascom I &amp; II - Games - [TAP]</name>
+		<description>Nascom I &amp; II - Games - [TAP] (TOSEC-v2014-04-11)</description>
+		<category>TOSEC</category>
+		<version>2014-04-11</version>
+		<author>Grendel - Cid - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Hangman (198x)(Birkett, Howard)">
+		<description>Hangman (198x)(Birkett, Howard)</description>
+		<rom name="Hangman (198x)(Birkett, Howard).tap" size="2723" crc="8b1a62b1" md5="0c022efabc73e881eaf64a4635d7b514" sha1="fdaacbb02b70e890e539eb79f917eda5a49d83e7"/>
+	</game>
+</datafile>

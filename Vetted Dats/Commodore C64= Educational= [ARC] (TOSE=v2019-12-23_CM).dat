@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Educational - [ARC]</name>
+		<description>Commodore C64 - Educational - [ARC] (TOSEC-v2019-12-23)</description>
+		<category>TOSEC</category>
+		<version>2019-12-23</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Definition (19xx)(Schreiner, Kurt - Leduc, Alberta)(PD)">
+		<description>Definition (19xx)(Schreiner, Kurt - Leduc, Alberta)(PD)</description>
+		<rom name="Definition (19xx)(Schreiner, Kurt - Leduc, Alberta)(PD).arc" size="15104" crc="f80d76fa" md5="4a140b78d62d62e86040ce0f33470fa9" sha1="9c5857991fb153a83afb826ffcc0b4f51849fdea"/>
+	</game>
+</datafile>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Fujitsu FM77-AV - Games - [TD0]</name>
+		<description>Fujitsu FM77-AV - Games - [TD0] (TOSEC-v2018-03-08)</description>
+		<category>TOSEC</category>
+		<version>2018-03-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="J.B. Harold no Jikenbo #1 - Murder Club (1986)(Riverhillsoft)(Disk 1 of 2)(JP)">
+		<description>J.B. Harold no Jikenbo #1 - Murder Club (1986)(Riverhillsoft)(Disk 1 of 2)(JP)</description>
+		<rom name="J.B. Harold no Jikenbo #1 - Murder Club (1986)(Riverhillsoft)(Disk 1 of 2)(JP).td0" size="402194" crc="ba5f3d31" md5="136f8ebbc18cb3e550bb7034a02b7ab5" sha1="62c3a42990b49b36419f567fb51a08211cd52d52"/>
+	</game>
+	<game name="J.B. Harold no Jikenbo #1 - Murder Club (1986)(Riverhillsoft)(Disk 2 of 2)(JP)">
+		<description>J.B. Harold no Jikenbo #1 - Murder Club (1986)(Riverhillsoft)(Disk 2 of 2)(JP)</description>
+		<rom name="J.B. Harold no Jikenbo #1 - Murder Club (1986)(Riverhillsoft)(Disk 2 of 2)(JP).td0" size="413028" crc="285ffbdc" md5="56a7e9bd8d5d151cc8a330cd341b8fbf" sha1="20837242cc861d929aa3bfdd67d50a1b0b512e2b"/>
+	</game>
+</datafile>

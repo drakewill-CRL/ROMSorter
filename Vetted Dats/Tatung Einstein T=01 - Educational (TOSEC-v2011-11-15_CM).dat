@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tatung Einstein TC-01 - Educational</name>
+		<description>Tatung Einstein TC-01 - Educational (TOSEC-v2011-11-15)</description>
+		<category>TOSEC</category>
+		<version>2011-11-15</version>
+		<author>TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Assembly Code Tutor (1985)(Glentop)">
+		<description>Assembly Code Tutor (1985)(Glentop)</description>
+		<rom name="Assembly Code Tutor (1985)(Glentop).dsk" size="215296" crc="ca014880" md5="4e5502a915d611c5020da7739b664a0a" sha1="0c512676eb9bd2769459d5f3cf98fa173fe7ae40"/>
+	</game>
+	<game name="Basic Tutorial (1984)(Solo Software)">
+		<description>Basic Tutorial (1984)(Solo Software)</description>
+		<rom name="Basic Tutorial (1984)(Solo Software).dsk" size="215296" crc="f3433463" md5="f45b6211fcff4eda7c2be977c3d0f8af" sha1="da34ca555b1173b7683c5288209696f1780386c2"/>
+	</game>
+	<game name="Get Lost &amp; Mr Fixit (1984)(Solo Software)">
+		<description>Get Lost &amp; Mr Fixit (1984)(Solo Software)</description>
+		<rom name="Get Lost &amp; Mr Fixit (1984)(Solo Software).dsk" size="215296" crc="07b9417b" md5="8f3bfa533ae39c13b4e6e1e4131c5df2" sha1="078e78f81c251fe3bef2caefe766f21454c06985"/>
+	</game>
+	<game name="Heli-Maths (1985)(Screensoft)">
+		<description>Heli-Maths (1985)(Screensoft)</description>
+		<rom name="Heli-Maths (1985)(Screensoft).dsk" size="215296" crc="05554ee4" md5="aa89ea7da59980530fa4ce651f9d36c8" sha1="ad180db0a1de09fa9bc33b78a616602515567032"/>
+	</game>
+	<game name="Spell n Build (19xx)(Solo Software)">
+		<description>Spell n Build (19xx)(Solo Software)</description>
+		<rom name="Spell n Build (19xx)(Solo Software).dsk" size="215296" crc="f59fbfd8" md5="21246d8141dd9ff718e875252c0e758d" sha1="2fabe45acc4e830ea66778099adadca1a333239e"/>
+	</game>
+</datafile>

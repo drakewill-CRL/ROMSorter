@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Galaksija Galaksija - Games - [GAL]</name>
+		<description>Galaksija Galaksija - Games - [GAL] (TOSEC-v2014-01-24)</description>
+		<category>TOSEC</category>
+		<version>2014-01-24</version>
+		<author>TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Dijamantski Rudnik (1985)(Balint, Nenad)(YU)">
+		<description>Dijamantski Rudnik (1985)(Balint, Nenad)(YU)</description>
+		<rom name="Dijamantski Rudnik (1985)(Balint, Nenad)(YU).gal" size="8244" crc="c73c2187" md5="5dec5d7b9fb4aba2e9b81d9e75e52428" sha1="9e2fe7856657df1db846f54f008e7e8a823aa8ac"/>
+	</game>
+	<game name="Squash (1986)(-)(YU)">
+		<description>Squash (1986)(-)(YU)</description>
+		<rom name="Squash (1986)(-)(YU).gal" size="8244" crc="a54b6d45" md5="503d5716f24b4ce4c8756d6eb0877046" sha1="140530381ea8964bd32cecd13659f7131fcdb709"/>
+	</game>
+	<game name="Super Cruiser (1985-12-29)(Halilovic, Jasmin)(YU)">
+		<description>Super Cruiser (1985-12-29)(Halilovic, Jasmin)(YU)</description>
+		<rom name="Super Cruiser (1985-12-29)(Halilovic, Jasmin)(YU).gal" size="8244" crc="8ae78ffb" md5="28432fe4afbe20098a0b96f3b44440f3" sha1="7e4217afd4d725dd14af55bf7d0796dd51cc868d"/>
+	</game>
+	<game name="Tetris (1988-07-21)(Obradovic, Dragoljub)(YU)(en)">
+		<description>Tetris (1988-07-21)(Obradovic, Dragoljub)(YU)(en)</description>
+		<rom name="Tetris (1988-07-21)(Obradovic, Dragoljub)(YU)(en).gal" size="8244" crc="12bc9373" md5="ebdafc2c058e6bae27134cc4f9019284" sha1="008d85b379861416c38e3300477a3772959344a1"/>
+	</game>
+</datafile>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Acorn Electron - Games - [BIN]</name>
+		<description>Acorn Electron - Games - [BIN] (TOSEC-v2018-07-01)</description>
+		<category>TOSEC</category>
+		<version>2018-07-01</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Countdown to Doom (1984)(Acornsoft)[lorom][SCG19]">
+		<description>Countdown to Doom (1984)(Acornsoft)[lorom][SCG19]</description>
+		<rom name="Countdown to Doom (1984)(Acornsoft)[lorom][SCG19].rom" size="16384" crc="bfad0059" md5="8334224175a23f42ca9a0676d4f9b4df" sha1="421a4c6f1ecef42ebf7ddba9765e24eaeb8c20e2"/>
+	</game>
+	<game name="Countdown to Doom (1984)(Acornsoft)[uprom][SCG19]">
+		<description>Countdown to Doom (1984)(Acornsoft)[uprom][SCG19]</description>
+		<rom name="Countdown to Doom (1984)(Acornsoft)[uprom][SCG19].rom" size="16384" crc="f8720e7e" md5="d0ef3b431adf7de2302707d6240988c0" sha1="eb414b81760d38c0a0d58a34dc70c2462c12e23c"/>
+	</game>
+	<game name="Hopper (1984)(Acornsoft)[SCG23]">
+		<description>Hopper (1984)(Acornsoft)[SCG23]</description>
+		<rom name="Hopper (1984)(Acornsoft)[SCG23].rom" size="16384" crc="18db837e" md5="d3351da3aed3fa411e268224302a4ab8" sha1="fa3c6b17fd1ce2efd0115e370f6f6e0b528a05e2"/>
+	</game>
+	<game name="Snapper (1983)(Acornsoft)[SCG04]">
+		<description>Snapper (1983)(Acornsoft)[SCG04]</description>
+		<rom name="Snapper (1983)(Acornsoft)[SCG04].rom" size="16384" crc="08befbda" md5="764f4e71ee3b586affd523c3d0c067cb" sha1="7db762c705f64e91ab7fe8797e14d1213bc90de1"/>
+	</game>
+	<game name="Starship Command (1983)(Acornsoft)[lorom][SCG22]">
+		<description>Starship Command (1983)(Acornsoft)[lorom][SCG22]</description>
+		<rom name="Starship Command (1983)(Acornsoft)[lorom][SCG22].rom" size="16384" crc="cc91f570" md5="166782b9fe2719451ffce311bd6c7a1e" sha1="b51a49717d43676c6cfc14be80f54202b4875607"/>
+	</game>
+	<game name="Starship Command (1983)(Acornsoft)[uprom][SCG22]">
+		<description>Starship Command (1983)(Acornsoft)[uprom][SCG22]</description>
+		<rom name="Starship Command (1983)(Acornsoft)[uprom][SCG22].rom" size="16384" crc="e39ada2d" md5="968337d8fbdaf94428f264d7db07dbf9" sha1="9dfa6d622e37d5115cbeaae9c9a4e978f85f2683"/>
+	</game>
+</datafile>

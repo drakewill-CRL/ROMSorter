@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Demos - [N64]</name>
+		<description>Commodore C64 - Demos - [N64] (TOSEC-v2019-04-20)</description>
+		<category>TOSEC</category>
+		<version>2019-04-20</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Double-Plasma (1998-04-13)(Centric)">
+		<description>Double-Plasma (1998-04-13)(Centric)</description>
+		<rom name="Double-Plasma (1998-04-13)(Centric).n64" size="4050" crc="c9622c5e" md5="05ef91fdb1621500529a7c096065749c" sha1="345a8e6652817418ce6f70ea9062eb694e9e03b6"/>
+	</game>
+	<game name="Unique 50% (1998)(Centric)">
+		<description>Unique 50% (1998)(Centric)</description>
+		<rom name="Unique 50% (1998)(Centric).n64" size="11134" crc="0f3524d2" md5="3069e17842ebf5024bdbac0cb8365195" sha1="1e75ab0e9467774b1b4ec59ca6d763115c8cbab1"/>
+	</game>
+</datafile>

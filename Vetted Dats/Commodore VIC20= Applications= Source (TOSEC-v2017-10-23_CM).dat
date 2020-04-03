@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore VIC20 - Applications - Source</name>
+		<description>Commodore VIC20 - Applications - Source (TOSEC-v2017-10-23)</description>
+		<category>TOSEC</category>
+		<version>2017-10-23</version>
+		<author>Tomse</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+		<clrmamepro/>
+	</header>
+	<game name="C'mon v1.0 (2001)(Eeben, Aleksi)">
+		<description>C'mon v1.0 (2001)(Eeben, Aleksi)</description>
+		<rom name="cmon.asm" size="35239" crc="d91c8544" md5="205e9b42879233710116afbff0389f3b" sha1="b6f842b2b7d982106729f7e273aed2d2899ad1d3"/>
+		<rom name="instr.asm" size="16408" crc="ae09d621" md5="fc1bb6c0091e08e979c13641a119db68" sha1="e4350a07493d8bf855309ee54961b0df6c727a91"/>
+		<rom name="n_adrmod.bin" size="151" crc="f387f2f7" md5="da7011230ca058a81df936ed71a1978e" sha1="8daeffb33c72a230d8a30e8c6f2a09e696e3cc4c"/>
+		<rom name="n_assemb.bin" size="171" crc="10ccaafd" md5="2912bc0767a47c6e32bf834528d16ae3" sha1="c94fe0d8e771306f6b81ad49bad5add36e0eb3e0"/>
+		<rom name="n_mneptr.bin" size="151" crc="cfee4c7a" md5="f6fe5362f7d4872077bdbf765dd51f75" sha1="9b1ddb4672ba923a4041612ce5ba361007f87e88"/>
+		<rom name="n_opcode.bin" size="151" crc="679e20c8" md5="236c56ae0947fa65d65d93187b5ac643" sha1="0356f13dade6d2ee9ac49decbbf128202414e29d"/>
+		<rom name="vic.inc" size="140" crc="c3ca8892" md5="54d255c783cda1cc9121e583a6c7aae5" sha1="1d94bba3d65906166b86e8b7cf17f275f2f9fbc4"/>
+		<rom name="x_adrmod.bin" size="219" crc="435c7bc3" md5="87ce292ef1ef55c61e5e81b88c9423d0" sha1="b186068b873352407f67efe4529e8df422737b1b"/>
+		<rom name="x_assemb.bin" size="225" crc="239fe7f5" md5="bc6f5a9065b0bfaa802d971de670683d" sha1="0ffb57afc6bc0af280e878c8a8dd44073cd539e0"/>
+		<rom name="x_mneptr.bin" size="219" crc="59a5406b" md5="9559fc8d616dc3247598fc59c6c91a4c" sha1="27b4c6813b64d60c962f5a5075fc8e9f4713643e"/>
+		<rom name="x_opcode.bin" size="219" crc="84613b9f" md5="7c39b1f86769a3a4f074db795d41fdbe" sha1="2570b3e4006b8c857cd5746681a0b3bd3e5ec6e8"/>
+	</game>
+</datafile>

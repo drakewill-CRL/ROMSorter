@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>DEC PDP-8 - Games - [TU6]</name>
+		<description>DEC PDP-8 - Games - [TU6] (TOSEC-v2014-01-23)</description>
+		<category>TOSEC</category>
+		<version>2014-01-23</version>
+		<author>TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Chekmo (19xx)(-)">
+		<description>Chekmo (19xx)(-)</description>
+		<rom name="Chekmo (19xx)(-).tu6" size="591872" crc="ddb237d9" md5="c8bb39dea198c60eaf8488291268fa6e" sha1="89c2828b99942bb0dec861a18647822df7f02700"/>
+	</game>
+	<game name="Chekmo II (19xx)(Comeau, John E.)">
+		<description>Chekmo II (19xx)(Comeau, John E.)</description>
+		<rom name="Chekmo II (19xx)(Comeau, John E.).tu6" size="380292" crc="30bddd12" md5="cf927b8283a2ee6e048ac4ca79ecde33" sha1="1243186363dece7ab71ad1eb06e3350b8f222ba8"/>
+	</game>
+</datafile>

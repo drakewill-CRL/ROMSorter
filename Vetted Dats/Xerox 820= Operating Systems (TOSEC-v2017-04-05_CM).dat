@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Xerox 820 - Operating Systems</name>
+		<description>Xerox 820 - Operating Systems (TOSEC-v2017-04-05)</description>
+		<category>TOSEC</category>
+		<version>2017-04-05</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<url>http://www.tosecdev.org</url>
+		<clrmamepro/>
+	</header>
+	<game name="CP-M Rev 3.000 (19xx)(-)[Part Number 130S22100DS, Code 1281]">
+		<description>CP-M Rev 3.000 (19xx)(-)[Part Number 130S22100DS, Code 1281]</description>
+		<rom name="CP-M Rev 3.000 (19xx)(-)[Part Number 130S22100DS, Code 1281].imd" size="88296" crc="43df2729" md5="bc2a26de7f9a36ae7764eb621d08bf66" sha1="07c1c64984aedb9a8011c80625d9ef4aeedaa753"/>
+	</game>
+</datafile>

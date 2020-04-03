@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple Macintosh - CD - Educational</name>
+		<description>Apple Macintosh - CD - Educational (TOSEC-v2012-07-06)</description>
+		<category>TOSEC-ISO</category>
+		<version>2012-07-06</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="A Long Hard Day on the Ranch (1990)(Discis)(US)(en-es)">
+		<description>A Long Hard Day on the Ranch (1990)(Discis)(US)(en-es)</description>
+		<rom name="A Long Hard Day on the Ranch (1990)(Discis)(US)(en-es).cue" size="143" crc="0c732c33" md5="4cba8bf92798b8abe140b988e8081aaa" sha1="2ab093c74e3d0f29738cab5b9fb88716df2b4a1d"/>
+		<rom name="A Long Hard Day on the Ranch (1990)(Discis)(US)(en-es).iso" size="663040000" crc="6dfe70e9" md5="84ad7888d9566268055cb9a4adac4b96" sha1="30f9d9eb8089171a37ccdaec3f87f1ab4899499b"/>
+	</game>
+	<game name="Casualty Kid... On the Road to First Aid v1.1 (1996)(White Knights)">
+		<description>Casualty Kid... On the Road to First Aid v1.1 (1996)(White Knights)</description>
+		<rom name="Casualty Kid... On the Road to First Aid v1.1 (1996)(White Knights).cue" size="156" crc="217900a7" md5="de9692f8e1a338360eff449760fb44da" sha1="ded5676afd37c918ad42b7ea9dd4b21b3a69070d"/>
+		<rom name="Casualty Kid... On the Road to First Aid v1.1 (1996)(White Knights).iso" size="336644096" crc="29abb5ab" md5="b5d2a87a200f7a8efb67dc58f5d9bd33" sha1="d3295dbf087a981e73349149afb187f826cb99d6"/>
+	</game>
+	<game name="Language Learning with Asterix - Asterix and Son (1995)(EuroTalk)">
+		<description>Language Learning with Asterix - Asterix and Son (1995)(EuroTalk)</description>
+		<rom name="Language Learning with Asterix - Asterix and Son (1995)(EuroTalk).cue" size="154" crc="cecaa0c6" md5="a6a0087905beb4f7914d53aba247d075" sha1="e4f293658f88a06131d9ffe3b4ac4335400021e1"/>
+		<rom name="Language Learning with Asterix - Asterix and Son (1995)(EuroTalk).iso" size="606173184" crc="a7f1c7c9" md5="7cc72eb347a85910e33463939b9cfd03" sha1="f56d3f34b343a20bdd374b51f7e26bca8c721425"/>
+	</game>
+	<game name="Plates are People too! (1995)(Brilliant Interactive Ideas)">
+		<description>Plates are People too! (1995)(Brilliant Interactive Ideas)</description>
+		<rom name="Plates are People too! (1995)(Brilliant Interactive Ideas).cue" size="147" crc="e7d30bd5" md5="51feac21511c457fbcb4c7c78853edd7" sha1="fce3d4ee3fb96a54ee68750266200c5188498e69"/>
+		<rom name="Plates are People too! (1995)(Brilliant Interactive Ideas).iso" size="163020800" crc="d57fc139" md5="69579711534f3a4323e73aef424955b0" sha1="624c49416535b0b4e6d162f318bbc0cc674b92f2"/>
+	</game>
+</datafile>

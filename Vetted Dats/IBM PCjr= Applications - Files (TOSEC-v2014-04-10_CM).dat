@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>IBM PCjr - Applications - Files</name>
+		<description>IBM PCjr - Applications - Files (TOSEC-v2014-04-10)</description>
+		<category>TOSEC</category>
+		<version>2014-04-10</version>
+		<author>idoru - Aral</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="BlankJr (1985)(-)[BLANKJR, display utility]">
+		<description>BlankJr (1985)(-)[BLANKJR, display utility]</description>
+		<rom name="BlankJr (1985)(-)[BLANKJR, display utility].com" size="384" crc="53ae1a90" md5="4b8896fca0a355e6aaea89dffef5d186" sha1="a3e4151c9f4d340cb9f9e4cf05c5a8c12c0332a4"/>
+	</game>
+	<game name="BlinkJr (1986)(-)">
+		<description>BlinkJr (1986)(-)</description>
+		<rom name="BLINKJR.doc" size="1090" crc="ea530dc6" md5="b9a1506bdcbcbdc3b7f79eb58089ecd5" sha1="39e6a002c11ae7b5f8118803f53a2bd2e574df04"/>
+		<rom name="BLINKOFF.exe" size="4370" crc="8734bafe" md5="078125d12745a0b8a10d2e4476dfccee" sha1="c6fcd7b6ef80ff00ce12f65fe617e70a26cdbfa4"/>
+		<rom name="BLINKON.exe" size="4370" crc="43035e5b" md5="60f2ffd0c6397426d79c797551effb95" sha1="bc27205e107a15448782bde3afed410a4da8f12c"/>
+	</game>
+	<game name="Comrest &amp; Comswap (1986)(-)[COM port utilities]">
+		<description>Comrest &amp; Comswap (1986)(-)[COM port utilities]</description>
+		<rom name="COMREST.exe" size="1792" crc="b567947a" md5="b69f6a8a31ef9a8e409e29cb58380e30" sha1="004fa19d032933695eca0828daf10ca66a372d7d"/>
+		<rom name="COMSWAP.exe" size="1792" crc="c1e7ecfe" md5="ef80aaa75161267f1c1c1ca3a14fc58b" sha1="e25bf5f2f00a93e4f804f38e1b90619422119376"/>
+	</game>
+	<game name="DAE v6.0 (1985)(Dewar, Rob)[daed, text editor]">
+		<description>DAE v6.0 (1985)(Dewar, Rob)[daed, text editor]</description>
+		<rom name="DAE v6.0 (1985)(Dewar, Rob)[daed, text editor].com" size="53097" crc="9dbb418f" md5="826420d52d6770aaea0b1a7ec1ee17cd" sha1="06bad359a6068c58b2d2564d3b200efac44167c5"/>
+	</game>
+	<game name="Dallas Semiconductor 1216E Drivers Package (2003-02)(Brutman, Michael)">
+		<description>Dallas Semiconductor 1216E Drivers Package (2003-02)(Brutman, Michael)</description>
+		<rom name="CLOCK.c" size="13814" crc="0545d4f5" md5="ac3843feb996c2ffb78b5a2010bcc07b" sha1="d2772f74b32dfd38879d334d087316a2f569b255"/>
+		<rom name="CLOCK.exe" size="7035" crc="2006da4a" md5="ce76515f90a6a93e42d1f27a4a3eccef" sha1="e9e9b84f92014fc4e144cd42bc969ea59e52573b"/>
+		<rom name="CLOCKIO.asm" size="10766" crc="903e58d7" md5="448121ab1128879c9106afb00c706c41" sha1="d33b317d8c14ad14f6f316ca08d089e9c079563d"/>
+		<rom name="DS1216E.txt" size="5881" crc="d354b673" md5="5d5d0c5b45afae4812b88bf6acf93926" sha1="02ed6c746aa759fb1d9f1f13427f7a8fede7eb7d"/>
+		<rom name="RDCLOCK.com" size="240" crc="c000c0b9" md5="bd4978932e26af98832e77410b106100" sha1="04d2d4bd40cdcc20839a92a671f069e1f6d1771c"/>
+		<rom name="TESTCLK.exe" size="2560" crc="1744dec6" md5="f0c02ef90550ebc7582e0fd58b2ef02d" sha1="5f268efd09c65d9f77c1b95935c9bbb791d38747"/>
+	</game>
+	<game name="Dev (1987)(-)">
+		<description>Dev (1987)(-)</description>
+		<rom name="dev.doc" size="128" crc="75e783e1" md5="1aaf3666ff0fd170626f6c1ca983fc63" sha1="b4ba5ebc7adb78a902be90823933eb985739510d"/>
+		<rom name="dev.exe" size="1024" crc="c22ae705" md5="368c4ff25230456d192c1ad42eca9dd2" sha1="75e3554899d27021aabee774d238d34265007bce"/>
+	</game>
+	<game name="Disk-Image Transfer Utility v1.0 (1994)(Mirza, Fauzan)(FW)">
+		<description>Disk-Image Transfer Utility v1.0 (1994)(Mirza, Fauzan)(FW)</description>
+		<rom name="ditu.c" size="6065" crc="77b10bc3" md5="18a7eb7dbb5f9dbf21dbdb437771a670" sha1="f07f6bbb00f3c67ba6444edcf2f979ecb0a0e710"/>
+		<rom name="ditu.exe" size="11300" crc="a096e139" md5="32d14259f516538cb4436ae497e0c868" sha1="1924685c824d9bdd56a912353ccf7ce79a9b6a87"/>
+		<rom name="ditu.txt" size="3026" crc="a5e92790" md5="65639af785bacc002092b1f27f671f3d" sha1="65f74312187dce83b84450e7414b18fe7d69b414"/>
+	</game>
+	<game name="DOS Knows (1986)(-)[dosknows]">
+		<description>DOS Knows (1986)(-)[dosknows]</description>
+		<rom name="DOS Knows (1986)(-)[dosknows].exe" size="5376" crc="698f4a4f" md5="5e4e5973330831214f02449c5fce82c0" sha1="984d550788912f37d9e5fc7ce46490411577f6cc"/>
+	</game>
+	<game name="JRCONFIG v2.14 (1988)(Newcomb, Larry)(SW)">
+		<description>JRCONFIG v2.14 (1988)(Newcomb, Larry)(SW)</description>
+		<rom name="COLOR.com" size="2776" crc="1cffbd50" md5="1d2712dddae270589ec5dd6031135efc" sha1="049e432d15d3828a5d1f15a82e1042b64648ac73"/>
+		<rom name="COMSPEC.com" size="256" crc="ccf2861a" md5="cf2df80023392dfce7f47e996498ff14" sha1="59cef7dacefc78d98eee70994ac11dbf08b20b3f"/>
+		<rom name="INSTALL.exe" size="9328" crc="9d1cc4df" md5="31c6201219432b612e4a2e36869d3838" sha1="ec29b7c5aaaf2cf67363dac779149433989649d8"/>
+		<rom name="JRCONFIG.dsk" size="3150" crc="d7e9ada1" md5="b6d3f21703d868d3d84bcc35fc8d0585" sha1="3a1e2c7934a8b785a3aaef9f39fc071ec3b6cf94"/>
+		<rom name="JRCONFIG.nrd" size="3157" crc="d0e0468f" md5="217f53b49c52f42be411f74fd7ec97c1" sha1="b7e38532e8c99ebc4fabc9a8d6435b5310ddb067"/>
+		<rom name="JRCONFIG.txt" size="32149" crc="a85cd8e9" md5="2eb0ed023f7cd46cb6f74bff40fc15a0" sha1="7d5268eae5e3be9bbe96f5d05e12fb072ea9bc79"/>
+		<rom name="LOWRD.sys" size="208" crc="9c8752e7" md5="b887355f313851d05d2be209eea7bde8" sha1="377a4947299e898ffd6f13bd3141b39dd6e49795"/>
+		<rom name="RAM.sys" size="499" crc="8aa79fe5" md5="8d769de45cf74a8d89484aa0b85986cd" sha1="70102f649cfac9b960a08b5e402337c94539f99a"/>
+		<rom name="README" size="930" crc="3484ee2d" md5="72b29c669afe27db0df9ef8397deb9d4" sha1="2afe56db50e31f2471d879425a98bc421f741424"/>
+		<rom name="SETRAM.exe" size="2048" crc="699d2e3e" md5="28c1288756e046baba193f190f1d86bd" sha1="c84c8de51a7b8999422db5a247026e2d37dd0a2c"/>
+		<rom name="STATLIN.com" size="1247" crc="98d26097" md5="d94aba124651aff89d94d15b2c304d9d" sha1="3b7ce7297c1e981ba7cffbb443ad91905ceef654"/>
+	</game>
+	<game name="LPTx v4.00 (1986)(DiVecchio, Mark)">
+		<description>LPTx v4.00 (1986)(DiVecchio, Mark)</description>
+		<rom name="lptx.com" size="5042" crc="c608a0ef" md5="94e0d8bd190360a34694f86e70d1c3ae" sha1="a29045ac329f5def780a4a54530dd8d5f83f7fbc"/>
+		<rom name="lptx.doc" size="6171" crc="3c405bd8" md5="5f473187a22d9aac568c71ede5398fc6" sha1="24c2a0a854098fb4d4e08c4721977a3cc83a3419"/>
+	</game>
+	<game name="MemMap v2 (1989-05)(Glynn, Earl F.)">
+		<description>MemMap v2 (1989-05)(Glynn, Earl F.)</description>
+		<rom name="memmap.doc" size="2159" crc="a70f7545" md5="726f8f7b23617f9e6ae38027c79fb3ee" sha1="7c54f34e2e598c528a08ac783608de43304073ee"/>
+		<rom name="memmap.exe" size="6128" crc="a4e76442" md5="082b5de7792e2691a17b258de3d5fbfe" sha1="3e9408653eccf0461e50e4c8722cd5e107c820e4"/>
+		<rom name="memmap.pas" size="9137" crc="81770fdf" md5="847446eb85e23e0b5f3d610db2e24684" sha1="48d56e45a47057ef0eef4d6afa15cd49f39ae893"/>
+	</game>
+	<game name="PCjr Cartridge Dumper v1.0 (2003-02-23)(Brutman, Michael)">
+		<description>PCjr Cartridge Dumper v1.0 (2003-02-23)(Brutman, Michael)</description>
+		<rom name="PCJRCART.cpp" size="5955" crc="c4fd93ab" md5="62ca597ccd7d106218400715664941cb" sha1="ea3862c05b162d75ff192d68bf06ee713706f77e"/>
+		<rom name="PCJRCART.exe" size="16330" crc="4a909e4b" md5="1d7a9ab8e10975ae7c0d16d5e710154e" sha1="95990e243d9c152a164388cf9241b9f93de2f840"/>
+	</game>
+	<game name="Refresh (1985-09-29)(Meister, Wolfgang K.)(PD)">
+		<description>Refresh (1985-09-29)(Meister, Wolfgang K.)(PD)</description>
+		<rom name="refresh.com" size="1152" crc="7d3032a4" md5="92a41f380892f725484ef43b06f7b673" sha1="1fe115ce3a7cd7d5651a81cc05c3903978ac77f1"/>
+		<rom name="refresh.doc" size="640" crc="0ac79ce5" md5="d204a69a38a63afcc76ad5187fb0d37b" sha1="bd39a7aa5629f4c58a38cc9b6db6cf2374b52bbb"/>
+	</game>
+</datafile>

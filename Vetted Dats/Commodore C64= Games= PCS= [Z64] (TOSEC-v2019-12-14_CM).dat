@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Games - PCS - [Z64]</name>
+		<description>Commodore C64 - Games - PCS - [Z64] (TOSEC-v2019-12-14)</description>
+		<category>TOSEC</category>
+		<version>2019-12-14</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="7 X Pinball (19xx)(-)[cr TBT]">
+		<description>7 X Pinball (19xx)(-)[cr TBT]</description>
+		<rom name="1!7 X Pinball (19xx)(-)[cr TBT].z64" size="35347" crc="de1cca6f" md5="d2f15bff099fb01b62a2004d72bbf226" sha1="85de9635c3913b6751e36f8dffc2af6c87f92763"/>
+		<rom name="2!7 X Pinball (19xx)(-)[cr TBT].z64" size="43281" crc="dc02387f" md5="b9860654699f5f1abb16a87a3e17110b" sha1="ea441f0d4e0eb49bcb1f921bbde9c75994efeb78"/>
+		<rom name="3!7 X Pinball (19xx)(-)[cr TBT].z64" size="39923" crc="fbb36ce4" md5="bf61a6749b1daf7f131c186a6e93c18d" sha1="3add1537513edecf7c007e53dc8fb392659f5362"/>
+		<rom name="4!7 X Pinball (19xx)(-)[cr TBT].z64" size="28250" crc="4a6704af" md5="4e3bd392bc499a945dee99a5b0686a09" sha1="b7d4472ab03984f688210f4ddde6fd30842c4861"/>
+	</game>
+	<game name="7 X Pinball (19xx)(-)[cr TBT][a]">
+		<description>7 X Pinball (19xx)(-)[cr TBT][a]</description>
+		<rom name="1!7 X Pinball (19xx)(-)[cr TBT][a].z64" size="35347" crc="de1cca6f" md5="d2f15bff099fb01b62a2004d72bbf226" sha1="85de9635c3913b6751e36f8dffc2af6c87f92763"/>
+		<rom name="2!7 X Pinball (19xx)(-)[cr TBT][a].z64" size="43281" crc="dc02387f" md5="b9860654699f5f1abb16a87a3e17110b" sha1="ea441f0d4e0eb49bcb1f921bbde9c75994efeb78"/>
+		<rom name="3!7 X Pinball (19xx)(-)[cr TBT][a].z64" size="39923" crc="6c6217ca" md5="6941cf70e88f14b2e88d5595c95d18d2" sha1="7d8bb40d49016e5c3e2fafb39f022aebd2184afe"/>
+		<rom name="4!7 X Pinball (19xx)(-)[cr TBT][a].z64" size="28250" crc="c30dbc9d" md5="d9f87dde365376772afae21b6a3d7f52" sha1="0079311a8332f01d32f0663e83f954ac19dc2a72"/>
+	</game>
+</datafile>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Konami System 573 - Games</name>
+		<description>Konami System 573 - Games (TOSEC-v2012-07-22)</description>
+		<category>TOSEC-ISO</category>
+		<version>2012-07-22</version>
+		<author>TOSEC-ISO: Trurip</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Fisherman's Bait - A Bass Challenge (1998)(Konami)(US)[765 UA B02]">
+		<description>Fisherman's Bait - A Bass Challenge (1998)(Konami)(US)[765 UA B02]</description>
+		<rom name="Fisherman's Bait - A Bass Challenge (1998)(Konami)(US)[765 UA B02].ccd" size="908" crc="544f614f" md5="78a4a7c983f3134286c0eec9c5190fe4" sha1="08c075d14b4f88e0edb15abe5529d338f5232df3"/>
+		<rom name="Fisherman's Bait - A Bass Challenge (1998)(Konami)(US)[765 UA B02].img" size="57729840" crc="0839a91d" md5="bfcf761cb95bdc1517d312f1839b9f02" sha1="fac1d2396db7d891380795bab06cce4f0188b116"/>
+		<rom name="Fisherman's Bait - A Bass Challenge (1998)(Konami)(US)[765 UA B02].sub" size="2356320" crc="54faaa48" md5="dc0e29f729f28161121dd4120da7fced" sha1="da2b170d1db8161637c806fec71f7b5dfe1a9f4b"/>
+	</game>
+</datafile>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>MGT Sam Coupe - Demos - [TD0]</name>
+		<description>MGT Sam Coupe - Demos - [TD0] (TOSEC-v2014-04-11)</description>
+		<category>TOSEC</category>
+		<version>2014-04-11</version>
+		<author>dirkpitt - Grendel - Cowering - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="ZZZ-UNK-net_01_td0">
+		<description>ZZZ-UNK-net_01_td0</description>
+		<rom name="ZZZ-UNK-net_01_td0.td0" size="552666" crc="4a0d10c9" md5="37a6d440908e6cf35976ff5226391c8d" sha1="e556db03da4cea01d9cca4f2665968dc948e9a86"/>
+	</game>
+	<game name="ZZZ-UNK-net_04_td0">
+		<description>ZZZ-UNK-net_04_td0</description>
+		<rom name="ZZZ-UNK-net_04_td0.td0" size="535172" crc="708dd98e" md5="98d0ac8e8a6d960b73f26c0c0199227f" sha1="078811c94aa918805ec762784c575cd7622bf29f"/>
+	</game>
+	<game name="ZZZ-UNK-net_23-broken file_td0">
+		<description>ZZZ-UNK-net_23-broken file_td0</description>
+		<rom name="ZZZ-UNK-net_23-broken file_td0.td0" size="605028" crc="9c6785ec" md5="06b202cfa305d0d084c7fd3fcf321ed2" sha1="d5354a6ecb75cc2530904bbc8973bd87f2065694"/>
+	</game>
+	<game name="ZZZ-UNK-scads-samcoupearcadedevelopmentsystem_td0">
+		<description>ZZZ-UNK-scads-samcoupearcadedevelopmentsystem_td0</description>
+		<rom name="ZZZ-UNK-scads-samcoupearcadedevelopmentsystem_td0.td0" size="363053" crc="f8f59129" md5="f98fc24f471f9e3a0b44c586de593dfe" sha1="cce77f7b94f836cf556004b6eb69700d1360fc90"/>
+	</game>
+	<game name="ZZZ-UNK-simcoupe_0.2.linux_boot_boot_td0">
+		<description>ZZZ-UNK-simcoupe_0.2.linux_boot_boot_td0</description>
+		<rom name="ZZZ-UNK-simcoupe_0.2.linux_boot_boot_td0.td0" size="1380452" crc="ab102b32" md5="83225d6ee29996a3fc11377beb3b33ba" sha1="14fb23c448034c53b923c39a6d57f8be0bdc45f0"/>
+	</game>
+	<game name="ZZZ-UNK-simcoupe_0.2.linux_boot_root_td0">
+		<description>ZZZ-UNK-simcoupe_0.2.linux_boot_root_td0</description>
+		<rom name="ZZZ-UNK-simcoupe_0.2.linux_boot_root_td0.td0" size="793923" crc="b1871153" md5="6e20ca0259a7319cfb05394c7534fad4" sha1="2eb1e708136f41f6927abb012d2d34a4927499aa"/>
+	</game>
+</datafile>

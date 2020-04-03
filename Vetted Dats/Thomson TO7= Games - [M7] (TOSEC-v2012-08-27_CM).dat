@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Thomson TO7 - Games - [M7]</name>
+		<description>Thomson TO7 - Games - [M7] (TOSEC-v2012-08-27)</description>
+		<category>TOSEC</category>
+		<version>2012-08-27</version>
+		<author>Leto_II - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Airbus (1984)(Vifi-Nathan)(FR)">
+		<description>Airbus (1984)(Vifi-Nathan)(FR)</description>
+		<rom name="Airbus (1984)(Vifi-Nathan)(FR).m7" size="16384" crc="54752fa7" md5="7523c70f7b39b81c48512168809ab6df" sha1="82016f9184d9be49d876bd1c5c9f51af6377598f"/>
+	</game>
+	<game name="Atomium (1982)(Vifi-Nathan)(FR)">
+		<description>Atomium (1982)(Vifi-Nathan)(FR)</description>
+		<rom name="Atomium (1982)(Vifi-Nathan)(FR).m7" size="4096" crc="acf42bf6" md5="bad3c96d2034224de51ec6ac614d3ce1" sha1="a71b15041afb098a9fba69efa8c0bea8894ccbdf"/>
+	</game>
+	<game name="Blitz (1984)(Intelligent Software)(FR)">
+		<description>Blitz (1984)(Intelligent Software)(FR)</description>
+		<rom name="Blitz (1984)(Intelligent Software)(FR).m7" size="16384" crc="768eac04" md5="df652c8225bb3ce11ae52b487782b52d" sha1="ea6f03ee868f6b273e928ba85c9328a603a5a622"/>
+	</game>
+	<game name="Choplifter (1982)(To Tek)(FR)">
+		<description>Choplifter (1982)(To Tek)(FR)</description>
+		<rom name="Choplifter (1982)(To Tek)(FR).m7" size="16384" crc="9fe4cc4c" md5="8fc1c177607ab770dc341b7537c87ee9" sha1="d70caf48017639a0d562ca7753dab8d9e83c1cdf"/>
+	</game>
+	<game name="Crypto (1982)(Vifi-Nathan)(FR)">
+		<description>Crypto (1982)(Vifi-Nathan)(FR)</description>
+		<rom name="Crypto (1982)(Vifi-Nathan)(FR).m7" size="4096" crc="20e454bc" md5="54ae633ddf8081e1071fd8096a877bb9" sha1="7e7367fbc83b52fea4f831d7c84f0acbc9d170d4"/>
+	</game>
+	<game name="Gemini (1982)(Vifi-Nathan)(FR)">
+		<description>Gemini (1982)(Vifi-Nathan)(FR)</description>
+		<rom name="Gemini (1982)(Vifi-Nathan)(FR).m7" size="4096" crc="c20c1d82" md5="d7f4f2714aaddedd9002d489c6b5dadd" sha1="92ee16ef7d14b241e8df390b0e6192810a8eda40"/>
+	</game>
+	<game name="Threshold (1984)(To Tek)(FR)(en)">
+		<description>Threshold (1984)(To Tek)(FR)(en)</description>
+		<rom name="Threshold (1984)(To Tek)(FR)(en).m7" size="16384" crc="21c6fed5" md5="af8731d06fff11d116b6e486cddcb4bd" sha1="1724ff4737802acaef479642c7a8d0e8d4c15adc"/>
+	</game>
+	<game name="Trap (1982)(Vifi-Nathan)(FR)">
+		<description>Trap (1982)(Vifi-Nathan)(FR)</description>
+		<rom name="Trap (1982)(Vifi-Nathan)(FR).m7" size="4096" crc="4a4d5b6b" md5="5e2fc2497f6e363265f24dafcf18a13f" sha1="e904c1c73efff216d3a38d0699affbb9266609d8"/>
+	</game>
+	<game name="Tridi444 (1982)(Vifi-Nathan)(FR)">
+		<description>Tridi444 (1982)(Vifi-Nathan)(FR)</description>
+		<rom name="Tridi444 (1982)(Vifi-Nathan)(FR).m7" size="4096" crc="7746de9b" md5="9ea00659814aec9dc69b91e4edf4d934" sha1="c549b35b1d04fe3d51cbd8579671721c5a014001"/>
+	</game>
+</datafile>

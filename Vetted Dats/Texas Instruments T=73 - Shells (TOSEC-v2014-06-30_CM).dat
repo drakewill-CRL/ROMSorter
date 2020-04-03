@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Texas Instruments TI-73 - Shells</name>
+		<description>Texas Instruments TI-73 - Shells (TOSEC-v2014-06-30)</description>
+		<category>TOSEC</category>
+		<version>2014-06-30</version>
+		<author>Diaboł</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Mallard v0.1 (2005-03-15)(Vincent, Michael)[req OS 1.60][with source code]">
+		<description>Mallard v0.1 (2005-03-15)(Vincent, Michael)[req OS 1.60][with source code]</description>
+		<rom name="dev\asm73.exe" size="25984" crc="f28e5402" md5="3258da41e8b1ae988384d662aed7ccdf" sha1="eb1f888dbe73b7e14e10fc891062a07135324e0b"/>
+		<rom name="dev\Devpac83.com" size="1024" crc="15887241" md5="155c8b6de10d3b8aac27508b323eaaaf" sha1="e7d491f2859069f7b9b5d2b7dbd56c41d4e1ffd6"/>
+		<rom name="dev\duck.bat" size="110" crc="d365922a" md5="2f34e440ec8681e86bb7a543801f6291" sha1="be4fbb008fc4515d914e680d550a7c364140d304"/>
+		<rom name="dev\mallard.inc" size="99831" crc="60e4077b" md5="38d2755095193b08978a55411434b1c7" sha1="2493ab837dda30a0b65911e1efa3cf67b2718c72"/>
+		<rom name="dev\mallard.txt" size="1073" crc="2257ad13" md5="cc312876a6691d64f45a15bf3b4d0d2f" sha1="36d7de6638079b8d2eaffe02869e4909befdbcf0"/>
+		<rom name="mallard.73b" size="7091" crc="c7f6bd71" md5="e4b8582ebc62556c27d77e031132274c" sha1="8445735ac3c0f5dc4bd0894128f213088092dbd9"/>
+		<rom name="readme.txt" size="1326" crc="d97453b7" md5="5894fb9c1c8af9f304c930fc3e118a51" sha1="1c7c6c1a7baa3965f691ae9b6bdccaa02e889311"/>
+	</game>
+	<game name="Mallard v0.2 (2005-03-20)(Vincent, Michael)[req OS 1.60][with source code]">
+		<description>Mallard v0.2 (2005-03-20)(Vincent, Michael)[req OS 1.60][with source code]</description>
+		<rom name="dev\asm73.exe" size="25984" crc="f28e5402" md5="3258da41e8b1ae988384d662aed7ccdf" sha1="eb1f888dbe73b7e14e10fc891062a07135324e0b"/>
+		<rom name="dev\Devpac83.com" size="1024" crc="15887241" md5="155c8b6de10d3b8aac27508b323eaaaf" sha1="e7d491f2859069f7b9b5d2b7dbd56c41d4e1ffd6"/>
+		<rom name="dev\duck.bat" size="172" crc="561aa375" md5="004b3393506389e11ebe3b3c591ee778" sha1="8fee9315506e5a72d374ac569068a690ec18af9a"/>
+		<rom name="dev\mallard.inc" size="99831" crc="60e4077b" md5="38d2755095193b08978a55411434b1c7" sha1="2493ab837dda30a0b65911e1efa3cf67b2718c72"/>
+		<rom name="dev\mallard.txt" size="1733" crc="ce44abc0" md5="01d4737c2e464d324feee9af72ef70e3" sha1="84a6197f96cd27cf519d0565e4e672c3dcb9f2d0"/>
+		<rom name="mallard.73b" size="7090" crc="8d45de92" md5="36e1647868f69cc417a747215fe8fa41" sha1="882b6d9c5b79b0aa0670cdd6ee051bcbe0164aed"/>
+		<rom name="readme.txt" size="1462" crc="6b623f81" md5="6566dc2ea1a3aeee027cfe5bcfd1b212" sha1="41cfafa83d7f4fea4a6fb97d68a6f13cc2f2e758"/>
+	</game>
+	<game name="Mallard v0.3 (2006-02-27)(Vincent, Michael)[req OS 1.60][with source code]">
+		<description>Mallard v0.3 (2006-02-27)(Vincent, Michael)[req OS 1.60][with source code]</description>
+		<rom name="dev\asm73.exe" size="25984" crc="f28e5402" md5="3258da41e8b1ae988384d662aed7ccdf" sha1="eb1f888dbe73b7e14e10fc891062a07135324e0b"/>
+		<rom name="dev\Devpac83.com" size="1024" crc="15887241" md5="155c8b6de10d3b8aac27508b323eaaaf" sha1="e7d491f2859069f7b9b5d2b7dbd56c41d4e1ffd6"/>
+		<rom name="dev\duck.bat" size="172" crc="561aa375" md5="004b3393506389e11ebe3b3c591ee778" sha1="8fee9315506e5a72d374ac569068a690ec18af9a"/>
+		<rom name="dev\mallard.inc" size="99831" crc="60e4077b" md5="38d2755095193b08978a55411434b1c7" sha1="2493ab837dda30a0b65911e1efa3cf67b2718c72"/>
+		<rom name="dev\mallard.txt" size="1733" crc="ce44abc0" md5="01d4737c2e464d324feee9af72ef70e3" sha1="84a6197f96cd27cf519d0565e4e672c3dcb9f2d0"/>
+		<rom name="mallard.73b" size="7110" crc="ddcc9ad8" md5="7ddbca0c9ba2e936c6978a24ff38b233" sha1="eac438fac6371a7d332cc61d6daec4b780eb44f7"/>
+		<rom name="readme.txt" size="1861" crc="6b33b2ba" md5="06243c838e05f214792bfdd1394f7b70" sha1="1f6d7943e0a15f6852c7d00914d2c6db6363052b"/>
+	</game>
+</datafile>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sanyo MBC-550 &amp; 555 - Coverdisks</name>
+		<description>Sanyo MBC-550 &amp; 555 - Coverdisks (TOSEC-v2018-11-15)</description>
+		<category>TOSEC</category>
+		<version>2018-11-15</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Soft Sector #05 (1984)(Soft Sector)">
+		<description>Soft Sector #05 (1984)(Soft Sector)</description>
+		<rom name="Soft Sector #05 (1984)(Soft Sector).img" size="368640" crc="a5252da6" md5="9107034a2eaa4394e3ff35bd3825c080" sha1="a840d6e2ef9aa840898cd02ec0eca217b1abef3d"/>
+	</game>
+</datafile>

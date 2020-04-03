@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo Super Famicom &amp; Super Entertainment System - Educational</name>
+		<description>Nintendo Super Famicom &amp; Super Entertainment System - Educational (TOSEC-v2011-08-13)</description>
+		<category>TOSEC</category>
+		<version>2011-08-13</version>
+		<author>Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Where in the World Is Carmen Sandiego (1993)(Broderbund - Electronic Arts)(US)(M5)">
+		<description>Where in the World Is Carmen Sandiego (1993)(Broderbund - Electronic Arts)(US)(M5)</description>
+		<rom name="Where in the World Is Carmen Sandiego (1993)(Broderbund - Electronic Arts)(US)(M5).bin" size="1048576" crc="9ef83223" md5="dfccfa0a4411bb0bfb29f777cac53858" sha1="98d8add2ec009468caf30be1ff4753dedb14f4f7"/>
+	</game>
+	<game name="Where in the World Is Carmen Sandiego (1993)(Broderbund - Electronic Arts)(US)(M5)[b2]">
+		<description>Where in the World Is Carmen Sandiego (1993)(Broderbund - Electronic Arts)(US)(M5)[b2]</description>
+		<rom name="Where in the World Is Carmen Sandiego (1993)(Broderbund - Electronic Arts)(US)(M5)[b2].bin" size="879274" crc="145f6264" md5="e477166f438ee296eb5a37ca17eb5dd9" sha1="c75a9603ff88e5fd4e48a43a894cf5ebf6e4fae9"/>
+	</game>
+	<game name="Where in the World Is Carmen Sandiego (1993)(Broderbund - Electronic Arts)(US)(M5)[b]">
+		<description>Where in the World Is Carmen Sandiego (1993)(Broderbund - Electronic Arts)(US)(M5)[b]</description>
+		<rom name="Where in the World Is Carmen Sandiego (1993)(Broderbund - Electronic Arts)(US)(M5)[b].bin" size="1048576" crc="f357c277" md5="7c8e380fa1c7c91088fd298d5c7a624f" sha1="db09209c8d38945f0afada4b224b574f9d1e51a0"/>
+	</game>
+	<game name="Where in Time Is Carmen Sandiego (1992)(Broderbund - Electronic Arts)(US)(M5)">
+		<description>Where in Time Is Carmen Sandiego (1992)(Broderbund - Electronic Arts)(US)(M5)</description>
+		<rom name="Where in Time Is Carmen Sandiego (1992)(Broderbund - Electronic Arts)(US)(M5).bin" size="1048576" crc="1712018b" md5="23c8b0aea8bc0dd0c03b252eaa98f8c6" sha1="5240d97b235f5377e842518b70699f6e30436fc4"/>
+	</game>
+	<game name="Where in Time Is Carmen Sandiego (1992)(Broderbund - Electronic Arts)(US)(M5)[h]">
+		<description>Where in Time Is Carmen Sandiego (1992)(Broderbund - Electronic Arts)(US)(M5)[h]</description>
+		<rom name="Where in Time Is Carmen Sandiego (1992)(Broderbund - Electronic Arts)(US)(M5)[h].bin" size="1048576" crc="f0cdc6d6" md5="c6b17074d189b00101dc6b8ae7e03abb" sha1="0a3d50f27afafb3f3bc0a348a09dcd704b9c041b"/>
+	</game>
+</datafile>

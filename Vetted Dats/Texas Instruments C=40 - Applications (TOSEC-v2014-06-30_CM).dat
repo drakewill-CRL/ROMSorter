@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Texas Instruments CC-40 - Applications</name>
+		<description>Texas Instruments CC-40 - Applications (TOSEC-v2014-06-30)</description>
+		<category>TOSEC</category>
+		<version>2014-06-30</version>
+		<author>Diaboł</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Base Conversion Program (2004)(Maalouli, Walid)">
+		<description>Base Conversion Program (2004)(Maalouli, Walid)</description>
+		<rom name="CONVERT.PGM" size="5233" crc="9d73512b" md5="7d941e22585ca255a998cfd9644a6962" sha1="deb18e623b5214b4aa534e9f45a6eec1e0de1086"/>
+	</game>
+</datafile>

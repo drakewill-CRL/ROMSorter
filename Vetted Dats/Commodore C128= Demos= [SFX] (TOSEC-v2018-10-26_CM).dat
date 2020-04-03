@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C128 - Demos - [SFX]</name>
+		<description>Commodore C128 - Demos - [SFX] (TOSEC-v2018-10-26)</description>
+		<category>TOSEC</category>
+		<version>2018-10-26</version>
+		<author>Duncan Twain - DesertWolf</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="VDC Demo 1 (1995-03-03)(-)">
+		<description>VDC Demo 1 (1995-03-03)(-)</description>
+		<rom name="VDC Demo 1 (1995-03-03)(-).sfx" size="36558" crc="0326565a" md5="44be0149e40874aeed083cd82dfb6ba2" sha1="34cfd8d1d3315663fa50efa1ef556ad913e02473"/>
+	</game>
+	<game name="VDC Demo 1 (1995-03-03)(-)[a]">
+		<description>VDC Demo 1 (1995-03-03)(-)[a]</description>
+		<rom name="VDC Demo 1 (1995-03-03)(-)[a].sfx" size="36608" crc="4f9354db" md5="5e5a74332ab0827eb42e5b4a982e9184" sha1="9ff2a59277a97387bebd81f0f5327c5a6b020c4a"/>
+	</game>
+	<game name="VDC Demo 1 (1995-03-03)(-)[a2]">
+		<description>VDC Demo 1 (1995-03-03)(-)[a2]</description>
+		<rom name="VDC Demo 1 (1995-03-03)(-)[a2].sfx" size="32768" crc="3b1d0577" md5="cdc423f1a5306cf58c9c27e1d69ad9c6" sha1="0ae3063058338a8e0ac6d168842c4ac0cb104ad9"/>
+	</game>
+	<game name="VDC Demo 2 (1995-03-03)(-)">
+		<description>VDC Demo 2 (1995-03-03)(-)</description>
+		<rom name="VDC Demo 2 (1995-03-03)(-).sfx" size="42910" crc="d5995dfb" md5="61252548511cf53e8cc5c7bc20c0869f" sha1="052b87c02943e2fbdcd2255d74bf59bce0318679"/>
+	</game>
+	<game name="VDC Demo 3 (1995-03-03)(-)">
+		<description>VDC Demo 3 (1995-03-03)(-)</description>
+		<rom name="VDC Demo 3 (1995-03-03)(-).sfx" size="43435" crc="b02513c9" md5="da74385db4642fcbf7572d7a0a227690" sha1="acb9277fa5b14e70df970ae3c7130097effa199e"/>
+	</game>
+	<game name="VDC Demo 4 (1995-03-03)(-)">
+		<description>VDC Demo 4 (1995-03-03)(-)</description>
+		<rom name="VDC Demo 4 (1995-03-03)(-).sfx" size="33207" crc="f46c8035" md5="ce695574e3ced5e129a680a446fb0ff1" sha1="e74ee5d416b5ced0fb666f75123c33ea21320ecc"/>
+	</game>
+	<game name="VDC Demo 5 (1995-03-03)(-)">
+		<description>VDC Demo 5 (1995-03-03)(-)</description>
+		<rom name="VDC Demo 5 (1995-03-03)(-).sfx" size="29053" crc="922499ac" md5="c6d9c565c90941533fbeb105897f8a67" sha1="38546cb1767fce0b4f1bca3030df1f5a52c5ec7c"/>
+	</game>
+</datafile>

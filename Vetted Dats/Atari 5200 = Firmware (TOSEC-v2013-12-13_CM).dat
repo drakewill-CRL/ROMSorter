@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Atari 5200 - Firmware</name>
+		<description>Atari 5200 - Firmware (TOSEC-v2013-12-13)</description>
+		<category>TOSEC</category>
+		<version>2013-12-13</version>
+		<author>Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Atari 5200 BIOS (1982)(Atari)">
+		<description>Atari 5200 BIOS (1982)(Atari)</description>
+		<rom name="Atari 5200 BIOS (1982)(Atari).bin" size="2048" crc="4248d3e3" md5="281f20ea4320404ec820fb7ec0693b38" sha1="6ad7a1e8c9fad486fbec9498cb48bf5bc3adc530"/>
+	</game>
+</datafile>

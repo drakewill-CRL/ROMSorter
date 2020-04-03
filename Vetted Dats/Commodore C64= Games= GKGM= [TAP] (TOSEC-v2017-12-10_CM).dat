@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Games - GKGM - [TAP]</name>
+		<description>Commodore C64 - Games - GKGM - [TAP] (TOSEC-v2017-12-10)</description>
+		<category>TOSEC</category>
+		<version>2017-12-10</version>
+		<author>Duncan Twain - DesertWolf</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Stars and Rings (1993)(Eagleware International)">
+		<description>Stars and Rings (1993)(Eagleware International)</description>
+		<rom name="Stars and Rings (1993)(Eagleware International).tap" size="219285" crc="01748815" md5="7255a5a2febda370207cb282b316e751" sha1="272914e319a8c0f6ca1b6243ed0a38f17c0b771f"/>
+	</game>
+	<game name="Stars and Rings (1993)(Eagleware International)[a]">
+		<description>Stars and Rings (1993)(Eagleware International)[a]</description>
+		<rom name="Stars and Rings (1993)(Eagleware International)[a].tap" size="219290" crc="741b9630" md5="7afc64f615a37f7cb3706dd146f7fd74" sha1="d0fc04f88d34a323b44d6bb7adcdfe2eecc70857"/>
+	</game>
+	<game name="Stars and Rings (1993)(Eagleware International)[a2]">
+		<description>Stars and Rings (1993)(Eagleware International)[a2]</description>
+		<rom name="Stars and Rings (1993)(Eagleware International)[a2].tap" size="219293" crc="a068e174" md5="364a49cf6c82d0c7070c954145a1f450" sha1="514c4830d325b513216af9dc65e5ed3748b74cf0"/>
+	</game>
+	<game name="Stars and Rings (1993)(Eagleware International)[a3]">
+		<description>Stars and Rings (1993)(Eagleware International)[a3]</description>
+		<rom name="Stars and Rings (1993)(Eagleware International)[a3].tap" size="32768" crc="a1154f6b" md5="d6972876ec6eaecdfa091e7b8f8fda1d" sha1="0e573e9d764a427b7ceefb823a35af34eeb8be47"/>
+	</game>
+	<game name="Stars and Rings (1993)(Eagleware International)[a4]">
+		<description>Stars and Rings (1993)(Eagleware International)[a4]</description>
+		<rom name="Stars and Rings (1993)(Eagleware International)[a4].tap" size="32768" crc="c882bc90" md5="e54335d000a2d7b5156c9a2e34cc5e8f" sha1="edb8610569203c41347dbd3236888c3fed4daba9"/>
+	</game>
+</datafile>

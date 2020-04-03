@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Games - [SFX]</name>
+		<description>Commodore C64 - Games - [SFX] (TOSEC-v2019-12-15)</description>
+		<category>TOSEC</category>
+		<version>2019-12-15</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Agricola (1987)(M.U.S. Software)(de)">
+		<description>Agricola (1987)(M.U.S. Software)(de)</description>
+		<rom name="Agricola (1987)(M.U.S. Software)(de).sfx" size="30476" crc="99cca52a" md5="92abc67a6146de5376424d5b397ab598" sha1="dd2399c82d0e3c951b9d152662a14d0987072b43"/>
+	</game>
+	<game name="Annihilator (1983)(Victory Software)">
+		<description>Annihilator (1983)(Victory Software)</description>
+		<rom name="Annihilator (1983)(Victory Software).sfx" size="8252" crc="9b352d84" md5="24e3ae1287ffcc078b0fe92738b486b4" sha1="9eb28c7f3b34e4b042e79f46b37c038ae751effc"/>
+	</game>
+	<game name="Blizzard Part 1 - Commando Libya (1986)(Robert Pfitzner)">
+		<description>Blizzard Part 1 - Commando Libya (1986)(Robert Pfitzner)</description>
+		<rom name="Blizzard Part 1 - Commando Libya (1986)(Robert Pfitzner).sfx" size="18944" crc="b9b1726a" md5="c8fb5cd534fca6d27f39c537d8408239" sha1="66af51880b8de8833f27685d4aea2d703c9360d7"/>
+	</game>
+	<game name="Creeps (19xx)(Keypunch Software)">
+		<description>Creeps (19xx)(Keypunch Software)</description>
+		<rom name="Creeps (19xx)(Keypunch Software).sfx" size="12800" crc="ed80e354" md5="333e70866d41d9fcfa91b13fa3139837" sha1="13db94dfc569ad1b5a6666cd1b46c49cddedb9ec"/>
+	</game>
+	<game name="Dog Star Adventure (1980)(The Guild Adventure Software)">
+		<description>Dog Star Adventure (1980)(The Guild Adventure Software)</description>
+		<rom name="Dog Star Adventure (1980)(The Guild Adventure Software).sfx" size="13828" crc="0c117087" md5="bfc5e9189969334b1ae6a370aa453536" sha1="243a2de0fd9aca7ba435be719eb2af49247fe7a1"/>
+	</game>
+	<game name="Draughts (1991)(Weighill, Peter)">
+		<description>Draughts (1991)(Weighill, Peter)</description>
+		<rom name="Draughts (1991)(Weighill, Peter).sfx" size="18176" crc="ec0d8112" md5="c9974a49e67fcb596c3d0dbb28773986" sha1="827fb1f9c6d53901997c5f7635a05e803b9390b0"/>
+	</game>
+	<game name="Draughts (1991)(Weighill, Peter)[a]">
+		<description>Draughts (1991)(Weighill, Peter)[a]</description>
+		<rom name="Draughts (1991)(Weighill, Peter)[a].sfx" size="18433" crc="71e651dc" md5="22514130c5b9c89170504868641a9a33" sha1="9965ce9c2ef3d876b1233eeba22b8590241ed919"/>
+	</game>
+	<game name="Draughts (1991)(Weighill, Peter)[a2]">
+		<description>Draughts (1991)(Weighill, Peter)[a2]</description>
+		<rom name="Draughts (1991)(Weighill, Peter)[a2].sfx" size="18136" crc="549345b9" md5="bb0d1b084fdf2f0ca6dd8b9671970f70" sha1="cc27cc9f0ba27d2df937f44a90df3681ff52a4e7"/>
+	</game>
+	<game name="Draughts (1991)(Weighill, Peter)[a3]">
+		<description>Draughts (1991)(Weighill, Peter)[a3]</description>
+		<rom name="Draughts (1991)(Weighill, Peter)[a3].sfx" size="18432" crc="58be2562" md5="b2fc050b238a179c46e1aa24e3a67eda" sha1="aad0102aa39233c8676cb89d283cd26213194f83"/>
+	</game>
+	<game name="Spacechess (19xx)(Doug1000)">
+		<description>Spacechess (19xx)(Doug1000)</description>
+		<rom name="Spacechess (19xx)(Doug1000).sfx" size="20614" crc="3a347fb4" md5="81f94827a310dea4c4a1c2dd436fd034" sha1="ede1e8f0a629b10fc516e37004d2a9db1865d4b7"/>
+	</game>
+	<game name="White Wash (1990)(Weighill, Peter)">
+		<description>White Wash (1990)(Weighill, Peter)</description>
+		<rom name="White Wash (1990)(Weighill, Peter).sfx" size="17536" crc="e4eff4b0" md5="a534d92dff23a282bf14b1bdffe28052" sha1="2fdfa25b90958cb2789704290b4fec72f470a953"/>
+	</game>
+	<game name="White Wash (1990)(Weighill, Peter)[a]">
+		<description>White Wash (1990)(Weighill, Peter)[a]</description>
+		<rom name="White Wash (1990)(Weighill, Peter)[a].sfx" size="17423" crc="e7fbedaa" md5="119a0589650a2a787decea6e6b392b02" sha1="81fcdd723085044577ba52fce014d2372fab94b3"/>
+	</game>
+</datafile>

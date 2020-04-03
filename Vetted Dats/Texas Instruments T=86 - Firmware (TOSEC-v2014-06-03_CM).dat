@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Texas Instruments TI-86 - Firmware</name>
+		<description>Texas Instruments TI-86 - Firmware (TOSEC-v2014-06-03)</description>
+		<category>TOSEC</category>
+		<version>2014-06-03</version>
+		<author>q^-o|o-^p - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Texas Instruments TI-86 BIOS v1.2 (19xx)(Texas Instruments)">
+		<description>Texas Instruments TI-86 BIOS v1.2 (19xx)(Texas Instruments)</description>
+		<rom name="Texas Instruments TI-86 BIOS v1.2 (19xx)(Texas Instruments).bin" size="262144" crc="bdf16105" md5="fd4de0424377f19b7a2d95aac0031743" sha1="e40b22421c31bf0af104518b748ae79cd21d9c57"/>
+	</game>
+	<game name="Texas Instruments TI-86 BIOS v1.3 (19xx)(Texas Instruments)">
+		<description>Texas Instruments TI-86 BIOS v1.3 (19xx)(Texas Instruments)</description>
+		<rom name="Texas Instruments TI-86 BIOS v1.3 (19xx)(Texas Instruments).bin" size="262144" crc="073ef70f" md5="d4a8641029772b339189a45742596292" sha1="5702d4bb835bdcbfa8075ffd620fca0eaf3a1592"/>
+	</game>
+	<game name="Texas Instruments TI-86 BIOS v1.4 (19xx)(Texas Instruments)">
+		<description>Texas Instruments TI-86 BIOS v1.4 (19xx)(Texas Instruments)</description>
+		<rom name="Texas Instruments TI-86 BIOS v1.4 (19xx)(Texas Instruments).bin" size="262144" crc="fe6e2986" md5="007f6d548b9ceb3bbb538b8c97cfe1a7" sha1="23e0fb9a1763d5b9a7b0e593f09c2ff30c760866"/>
+	</game>
+	<game name="Texas Instruments TI-86 BIOS v1.5 (19xx)(Texas Instruments)">
+		<description>Texas Instruments TI-86 BIOS v1.5 (19xx)(Texas Instruments)</description>
+		<rom name="Texas Instruments TI-86 BIOS v1.5 (19xx)(Texas Instruments).bin" size="262144" crc="e6e10546" md5="9f91f8eece002fb5563edb84ae163ce0" sha1="5ca63fdfc965ae3fb8e0695263cf9da41f6ecb90"/>
+	</game>
+	<game name="Texas Instruments TI-86 BIOS v1.6 (19xx)(Texas Instruments)">
+		<description>Texas Instruments TI-86 BIOS v1.6 (19xx)(Texas Instruments)</description>
+		<rom name="Texas Instruments TI-86 BIOS v1.6 (19xx)(Texas Instruments).bin" size="262144" crc="37e02acc" md5="9a98df9247d3009c03f146e973f3d051" sha1="b5ad204885e5dde23a22f18f8d5eaffca69d638d"/>
+	</game>
+</datafile>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Amstrad PCW - Applications</name>
+		<description>Amstrad PCW - Applications (TOSEC-v2015-05-07)</description>
+		<category>TOSEC</category>
+		<version>2015-05-07</version>
+		<author>Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="APED (1987)(Arnor)(Disk 1 of 2)">
+		<description>APED (1987)(Arnor)(Disk 1 of 2)</description>
+		<rom name="APED (1987)(Arnor)(Disk 1 of 2).dsk" size="194816" crc="eb11563a" md5="ebf63695eaf6d3a5f11597b806ec8196" sha1="1bd074cfe635efec9517a5a75155e9a27273fb36"/>
+	</game>
+	<game name="APED (1987)(Arnor)(Disk 2 of 2)">
+		<description>APED (1987)(Arnor)(Disk 2 of 2)</description>
+		<rom name="APED (1987)(Arnor)(Disk 2 of 2).dsk" size="194816" crc="b21c5244" md5="938c3da1d943f8b3a63a6729a8cacd17" sha1="2379c8f1372cf17b8c24357aa87d7aeddb20ac65"/>
+	</game>
+	<game name="PAW (19xx)(Gilberts, Tim - Yeandle, Graeme)">
+		<description>PAW (19xx)(Gilberts, Tim - Yeandle, Graeme)</description>
+		<rom name="PAW (19xx)(Gilberts, Tim - Yeandle, Graeme).dsk" size="194816" crc="bdce8155" md5="be132b1911ceae237ae26c8bee80f0ac" sha1="97fb86d4bb14d3a758c07014978d58b039d8f2b7"/>
+	</game>
+	<game name="Routeplanner v2.1 (19xx)(Systeme D)">
+		<description>Routeplanner v2.1 (19xx)(Systeme D)</description>
+		<rom name="Routeplanner v2.1 (19xx)(Systeme D).dsk" size="194816" crc="6eefc553" md5="8029f85f299d3e975ad1dc945a56b348" sha1="263e284287df3af32b1216531f05736d997a9adb"/>
+	</game>
+</datafile>

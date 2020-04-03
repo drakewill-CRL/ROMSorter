@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore Amiga - CD - Games - [MDF]</name>
+		<description>Commodore Amiga - CD - Games - [MDF] (TOSEC-v2018-07-03)</description>
+		<category>TOSEC-ISO</category>
+		<version>2018-07-03</version>
+		<author>Tomse</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+		<clrmamepro/>
+	</header>
+	<game name="Exodus - The Last War (2000)(Sland Media)(M3)[PPC][AGA-RTG]">
+		<description>Exodus - The Last War (2000)(Sland Media)(M3)[PPC][AGA-RTG]</description>
+		<rom name="EXODUS_THELASTWAR.mdf" size="780995712" crc="06753f90" md5="2ed3c55cb1aacdd92eaf06885586062f" sha1="506a00a7e3e51f02cd943d097897783d89bcb5d6"/>
+		<rom name="EXODUS_THELASTWAR.mds" size="1278" crc="a01720c2" md5="e5fa835d7daefa5c76bff078084e5e73" sha1="f981af529068d794004629ca6c1a7901eb00122a"/>
+	</game>
+	<game name="Shadow of the 3rd Moon, The (1997)(Titan Computer)(M3)[AGA-RTG]">
+		<description>Shadow of the 3rd Moon, The (1997)(Titan Computer)(M3)[AGA-RTG]</description>
+		<rom name="Shadow of the 3rd Moon, The (1997)(Titan Computer)(M3)[AGA-RTG].mdf" size="638702064" crc="90df4eb0" md5="8e6d8ca3c519f114c67a901d60c12023" sha1="ddd455aa880897c1c9fb70807c7138b383fe508a"/>
+		<rom name="Shadow of the 3rd Moon, The (1997)(Titan Computer)(M3)[AGA-RTG].mds" size="1454" crc="56068ddc" md5="5484793be62f4a826f9f4c6a0bbfdf0a" sha1="b925e370cdc775304b0e95d8aa8bf34a1ca8b6ba"/>
+	</game>
+	<game name="Virtual Ball Fighters (2000)(Epic)[AGA-RTG]">
+		<description>Virtual Ball Fighters (2000)(Epic)[AGA-RTG]</description>
+		<rom name="Virtual Ball Fighters (2000)(Epic)[AGA-RTG].mdf" size="712282032" crc="7b973666" md5="67feb643ad9768591a632c3411dca112" sha1="1697efae1e8c2d7e27e516ea632efe02ab95242d"/>
+		<rom name="Virtual Ball Fighters (2000)(Epic)[AGA-RTG].mds" size="1454" crc="7f5f1a88" md5="c19b8997c6ff54713645f6d8e7f92bb0" sha1="00bd76a22bcdb398048d62b2046e00e3d9b5bacd"/>
+	</game>
+</datafile>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Visual Technology Visual 1050 - Operating Systems</name>
+		<description>Visual Technology Visual 1050 - Operating Systems (TOSEC-v2014-07-30)</description>
+		<category>TOSEC</category>
+		<version>2014-07-30</version>
+		<author>Diaboł - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="CPM Plus v3.0 (1982)(Digital Research)(Disk 1 of 2)[Serial CP2768-1]">
+		<description>CPM Plus v3.0 (1982)(Digital Research)(Disk 1 of 2)[Serial CP2768-1]</description>
+		<rom name="CPM Plus v3.0 (1982)(Digital Research)(Disk 1 of 2)[Serial CP2768-1].imd" size="333493" crc="63d4df2c" md5="12eff604ad4f8dd7eb97f99837d1e864" sha1="4b54c6dbca25ce7dcf5f129c89363ad5120633de"/>
+	</game>
+	<game name="CPM Plus v3.0 (1982)(Digital Research)(Disk 2 of 2)[Serial CP2768-1]">
+		<description>CPM Plus v3.0 (1982)(Digital Research)(Disk 2 of 2)[Serial CP2768-1]</description>
+		<rom name="CPM Plus v3.0 (1982)(Digital Research)(Disk 2 of 2)[Serial CP2768-1].imd" size="331979" crc="39b9bd5a" md5="449ddb02be517e2bd58465f8b9d91c00" sha1="c4c6ea52c983eda9282954e5fc9c7935bedfac14"/>
+	</game>
+</datafile>

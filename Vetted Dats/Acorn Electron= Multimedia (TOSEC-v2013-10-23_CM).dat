@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Acorn Electron - Multimedia</name>
+		<description>Acorn Electron - Multimedia (TOSEC-v2013-10-23)</description>
+		<category>TOSEC</category>
+		<version>2013-10-23</version>
+		<author>Grendel - Tankgirl - CRSV - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Acorn User Graphics (1985)(Acorn User)">
+		<description>Acorn User Graphics (1985)(Acorn User)</description>
+		<rom name="Acorn User Graphics (1985)(Acorn User).uef" size="22647" crc="ef182dc2" md5="fc24dc4028ac23db5ce8d59776306250" sha1="58b67cf7c70e4eb5a12d4317ece1d916b3045d55"/>
+	</game>
+	<game name="Creative Graphics (198x)(-)(Side A)">
+		<description>Creative Graphics (198x)(-)(Side A)</description>
+		<rom name="Creative Graphics (198x)(-)(Side A).uef" size="3687" crc="d684b248" md5="7e1307a124937ab2430a0f8b000d0f01" sha1="84fcf16855813eec08c7c5b7290d2bbb247c93f8"/>
+	</game>
+	<game name="Creative Graphics (198x)(-)(Side B)">
+		<description>Creative Graphics (198x)(-)(Side B)</description>
+		<rom name="Creative Graphics (198x)(-)(Side B).uef" size="7486" crc="203b2441" md5="b7203d7ead6b82f913c69e38cab87a53" sha1="cca3c0cccdf7940025301cb48e5bbd85027136f7"/>
+	</game>
+</datafile>

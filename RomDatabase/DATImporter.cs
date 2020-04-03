@@ -12,31 +12,16 @@ namespace RomDatabase
     public static class DATImporter
     {
         //Note: in most clrmamepro format dat files, name and description are identical.
-        //In my database, description is the filename, and name is the game name itself (for multi-file games)
+        //In my database, description is the filename, and name is the game name itself
 
         static ReaderWriterLock filelock = new ReaderWriterLock();
         static int totalCount = 0;
         //Read .dat file(s), parse and port into the database I'm using
-        public static void LoadAllDatFiles(string directory)
-        {
-            var subfolders = System.IO.Directory.EnumerateDirectories(directory);
-            foreach (var sf in subfolders)
-                LoadAllDatFiles(sf);
-
-            //Read all dat files in the given folder, parse them, insert records.
-            var files = System.IO.Directory.EnumerateFiles(directory, "*.dat");
-            System.Threading.Tasks.Parallel.ForEach(files, (file) =>
-            //foreach (var file in files)
-            {
-                ParseDatFileFast(file);
-            });
-        }
-
         public static void LoadAllDiscDatFilesIntegrity(string directory, IProgress<string> progress = null)
         {
             var subfolders = System.IO.Directory.EnumerateDirectories(directory);
             foreach (var sf in subfolders)
-                LoadAllDiscDatFilesIntegrity(sf);
+                LoadAllDiscDatFilesIntegrity(sf, progress);
 
             //Read all dat files in the given folder, parse them, insert records.
             var files = System.IO.Directory.EnumerateFiles(directory, "*.dat");
@@ -45,6 +30,20 @@ namespace RomDatabase
             {
                 ParseDiscDatFileHighIntegrity(file, progress);
             });
+        }
+
+        public static void LoadAllDats(string directory, IProgress<string> progress = null, bool highIntegrity = false)
+        {
+            var subfolders = System.IO.Directory.EnumerateDirectories(directory);
+            foreach (var sf in subfolders)
+                LoadAllDats(sf, progress, highIntegrity);
+
+            var files = System.IO.Directory.EnumerateFiles(directory, "*.dat");
+            //System.Threading.Tasks.Parallel.ForEach(files, (file) =>
+            foreach (var file in files)
+            {
+                ParseFileAutoDetect(file, progress, highIntegrity);
+            } //);
         }
 
         public static void LoadAllDatFilesIntegrity(string directory, IProgress<string> progress = null)
@@ -90,6 +89,78 @@ namespace RomDatabase
                 batchInserts.Add(tempGame);
             }
             Database.InsertGamesBatch(batchInserts);
+        }
+
+        public static void ParseFileAutoDetect(string file, IProgress<string> progress = null, bool highIntegrity = false)
+        {
+            //For each entry, decide whether or not its a Game (one file entry) or Disk (multiple files in 1 games)
+            
+            string consoleName = System.IO.Path.GetFileNameWithoutExtension(file).Split('=')[0].Trim(); //filenames are "Console = Subset[optionalsubtype](TOSEC date).dat
+            string datFile = System.IO.Path.GetFileName(file);
+            //these are XML.
+            //for each node, insert a game entry.
+            var dat = new System.Xml.XmlDocument();
+            dat.Load(file);
+            //find nodes per the spec.
+            List<Game> gamebatchInserts = new List<Game>();
+            List<Game> diskbatchInserts = new List<Game>();
+            var entries = dat.GetElementsByTagName("game"); //has unique games to find. ROM has each file.
+            //has actual hash values, game is probably the parent that matters for MAME only.
+            foreach (XmlElement entry in entries)
+            {
+                //if (progress != null)
+                //    progress.Report(entry.GetAttribute("name"));
+                var allFiles = entry.SelectNodes("rom");
+                var isGame = (allFiles.Count == 1);
+                foreach (XmlElement romFile in allFiles)
+                {
+                    var tempGame = new Game();
+                    string name = entry.GetAttribute("name");
+                    int tempInt = 0; //NOTE: some DSi games have just digits for a filename. This makes those human-readable.
+                    if (Int32.TryParse(name, out tempInt))
+                        try {
+                            tempGame.name = romFile.GetElementsByTagName("name")[0].InnerText + ".nds"; //TODO: ensure this only applies to NDS games, doesn't trigger for games like 1943.nes
+                        }
+                        catch(Exception ex)
+                        {
+                            tempGame.name = name;
+                        }
+                    else
+                        tempGame.name = name;
+                    string desc = romFile.GetAttribute("name");
+                    tempGame.description = desc;
+                    tempGame.console = consoleName;
+                    tempGame.crc = romFile.GetAttribute("crc").ToLower();
+                    tempGame.sha1 = romFile.GetAttribute("sha1").ToLower();
+                    tempGame.md5 = romFile.GetAttribute("md5").ToLower();
+                    tempGame.size = Int64.Parse(romFile.GetAttribute("size"));
+                    tempGame.datFile = datFile;
+                    if (isGame)
+                    {
+                        if (highIntegrity)
+                        {
+                            var isDupe = Database.FindGame(tempGame.size, new string[3] { tempGame.md5, tempGame.sha1, tempGame.crc });
+                            if (isDupe != null && isDupe.id != null)
+                            {
+                                //write log on duplicate entry.
+                                filelock.AcquireWriterLock(Int32.MaxValue);
+                                System.IO.File.AppendAllLines("insertLog.txt", new List<string>() { "Game '" + tempGame.name + "' in " + datFile + " already matches existing entry '" + isDupe.name + "' from " + isDupe.datFile });
+                                filelock.ReleaseWriterLock();
+                            }
+                            else
+                                Database.InsertGame(tempGame); //High integrity means we dont batch these, in case an entry is in 2 files simultaneously.
+                        }
+                        else
+                            gamebatchInserts.Add(tempGame);
+                    }
+                    else
+                        diskbatchInserts.Add(tempGame);
+                }
+                totalCount++;
+                progress.Report(totalCount + " entries scanned.");
+            }
+            Database.InsertGamesBatch(gamebatchInserts);
+            Database.InsertDiscsBatch(diskbatchInserts);
         }
 
         public static void ParseDatFileHighIntegrity(string file, IProgress<string> progress = null)

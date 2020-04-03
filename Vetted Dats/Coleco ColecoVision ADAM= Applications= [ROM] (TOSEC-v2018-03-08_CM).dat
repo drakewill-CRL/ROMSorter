@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Coleco ColecoVision ADAM - Applications - [ROM]</name>
+		<description>Coleco ColecoVision ADAM - Applications - [ROM] (TOSEC-v2018-03-08)</description>
+		<category>TOSEC</category>
+		<version>2018-03-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="ADAM Checkout Cartridge (1982)(Coleco)">
+		<description>ADAM Checkout Cartridge (1982)(Coleco)</description>
+		<rom name="ADAM Checkout Cartridge (1982)(Coleco).rom" size="32768" crc="8a6ed2f0" md5="adaf8fefa825434232bc5c44d1bb8709" sha1="4c00c5254317301e10593ad444578fe66d24dd0d"/>
+	</game>
+	<game name="ADAM Checkout Software (1981)(Coleco)">
+		<description>ADAM Checkout Software (1981)(Coleco)</description>
+		<rom name="ADAM Checkout Software (1981)(Coleco).rom" size="32768" crc="a44efda7" md5="eadae2cd116249279ef53c2cf7001b6e" sha1="8336365697710834d8e678077e2e2d65ccd937d6"/>
+	</game>
+	<game name="ADAM Demonstration Cartridge (198x)(Coleco)">
+		<description>ADAM Demonstration Cartridge (198x)(Coleco)</description>
+		<rom name="ADAM Demonstration Cartridge (198x)(Coleco).rom" size="24576" crc="20528799" md5="e942f7192715ddb80b1a5b5fd005d7a9" sha1="4143ddbdb533fef88f5fcf6bc5206727740876c8"/>
+	</game>
+	<game name="ADAM Final Test (198x)(Coleco)">
+		<description>ADAM Final Test (198x)(Coleco)</description>
+		<rom name="ADAM Final Test (198x)(Coleco).rom" size="16384" crc="5e5c5c2f" md5="198114e7fc6e68b97f6d8f683db127f6" sha1="428bbc848ae14f5557c3577a8e9ee55b718e15cd"/>
+	</game>
+	<game name="ADAM Final Test (198x)(Coleco)[a]">
+		<description>ADAM Final Test (198x)(Coleco)[a]</description>
+		<rom name="ADAM Final Test (198x)(Coleco)[a].rom" size="24576" crc="4e466142" md5="1785dc2e24ce39bc21f2d02c6856487e" sha1="bd30088fc848817fdb4df2b092eca8de158232db"/>
+	</game>
+	<game name="ADAM Printer 1 Hour Cycle Burn-In Test (19xx)(-)">
+		<description>ADAM Printer 1 Hour Cycle Burn-In Test (19xx)(-)</description>
+		<rom name="ADAM Printer 1 Hour Cycle Burn-In Test (19xx)(-).rom" size="8192" crc="1394a166" md5="537dd61426fb3fe76bdfad65acd36444" sha1="8729374eb0cba74dc98f556e2d68298d2fae598f"/>
+	</game>
+	<game name="Blank Tape Restorer v1.4 (198x)(Coleco)">
+		<description>Blank Tape Restorer v1.4 (198x)(Coleco)</description>
+		<rom name="Blank Tape Restorer v1.4 (198x)(Coleco).rom" size="8192" crc="c63b6cb1" md5="c86a96ba403bcfcbcd6c24268466401b" sha1="0aebe6ded955092cfbb13820ee1d07580dd1999f"/>
+	</game>
+	<game name="Buck Rogers Restorer v1.4 (198x)(Coleco)">
+		<description>Buck Rogers Restorer v1.4 (198x)(Coleco)</description>
+		<rom name="Buck Rogers Restorer v1.4 (198x)(Coleco).rom" size="8192" crc="60e433e7" md5="b174bb3532e77e12c6490bee2d7917a1" sha1="ae6ebb1b2d05e49e301a26098c9b5995f2291d43"/>
+	</game>
+	<game name="Data Drive Burn-In Tape Test (198x)(Coleco)">
+		<description>Data Drive Burn-In Tape Test (198x)(Coleco)</description>
+		<rom name="Data Drive Burn-In Tape Test (198x)(Coleco).rom" size="8192" crc="e1d79586" md5="1e00217ab176e9868bbceb7c959a7b2a" sha1="17cf4168f1f82204bd23e160c7451ff5dc69aa06"/>
+	</game>
+	<game name="Smart BASIC Restorer v1.4 (198x)(Coleco)">
+		<description>Smart BASIC Restorer v1.4 (198x)(Coleco)</description>
+		<rom name="Smart BASIC Restorer v1.4 (198x)(Coleco).rom" size="8192" crc="e9ebff89" md5="9e4c248660afa23e6dbe206dd891a4b0" sha1="0e186358583b23eb6ca88f51bc67b3a568350748"/>
+	</game>
+	<game name="Tapeutl v22 (1984)(Coleco)">
+		<description>Tapeutl v22 (1984)(Coleco)</description>
+		<rom name="Tapeutl v22 (1984)(Coleco).rom" size="8192" crc="f235aba4" md5="3b208fff0d0d9013ce10796464dd37ec" sha1="4db424c25c6ee010850e6783c844ad75bebf0359"/>
+	</game>
+</datafile>

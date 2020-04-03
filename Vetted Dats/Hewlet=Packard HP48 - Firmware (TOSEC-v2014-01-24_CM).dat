@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Hewlett-Packard HP48 - Firmware</name>
+		<description>Hewlett-Packard HP48 - Firmware (TOSEC-v2014-01-24)</description>
+		<category>TOSEC</category>
+		<version>2014-01-24</version>
+		<author>Leto_II - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Hewlett-Packard HP48G Ver M (1993)(HP)">
+		<description>Hewlett-Packard HP48G Ver M (1993)(HP)</description>
+		<rom name="Hewlett-Packard HP48G Ver M (1993)(HP).bin" size="1048576" crc="5f5a1140" md5="f31dd2d55b69a0a932202c02ef7159b5" sha1="5b5ddf1d607785bbb3f85cabbad401a0cae9751f"/>
+	</game>
+	<game name="Hewlett-Packard HP48G Ver R (1993)(HP)">
+		<description>Hewlett-Packard HP48G Ver R (1993)(HP)</description>
+		<rom name="Hewlett-Packard HP48G Ver R (1993)(HP).bin" size="1048576" crc="0ffc8d29" md5="13ac8ed0342efe0433aa02bbf1e7cb74" sha1="583b7e6ef207211865f43043b7e74a92f0c7bbc4"/>
+	</game>
+	<game name="Hewlett-Packard HP48G Ver R (1993)(HP)[a]">
+		<description>Hewlett-Packard HP48G Ver R (1993)(HP)[a]</description>
+		<rom name="Hewlett-Packard HP48G Ver R (1993)(HP)[a].bin" size="1048576" crc="1c6a74bb" md5="abf04e74133242a96f57122c014cebd9" sha1="26b84162f83d6a565a0c89c2b5fa6632cabd2cac"/>
+	</game>
+	<game name="Hewlett-Packard HP48S Ver E (1989)(HP)">
+		<description>Hewlett-Packard HP48S Ver E (1989)(HP)</description>
+		<rom name="Hewlett-Packard HP48S Ver E (1989)(HP).bin" size="524288" crc="841fdaec" md5="39ffdde2b8bfbded6379acbcf9866642" sha1="512f8f265696c3f8d1c0a8240bedb9f4e083cd65"/>
+	</game>
+</datafile>

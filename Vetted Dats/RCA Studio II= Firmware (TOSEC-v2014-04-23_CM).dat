@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>RCA Studio II - Firmware</name>
+		<description>RCA Studio II - Firmware (TOSEC-v2014-04-23)</description>
+		<category>TOSEC</category>
+		<version>2014-04-23</version>
+		<author>Cid</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="RCA Studio II BIOS (1976)(RCA)">
+		<description>RCA Studio II BIOS (1976)(RCA)</description>
+		<rom name="RCA Studio II BIOS (1976)(RCA).bin" size="2048" crc="a494b339" md5="b37205bf19b197682f00619d05da194b" sha1="f2650dacc9daab06b9fdf0e7748e977b2907010c"/>
+	</game>
+</datafile>

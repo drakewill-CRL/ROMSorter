@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>AEG Olympia Olytext 20 - Firmware</name>
+		<description>AEG Olympia Olytext 20 - Firmware (TOSEC-v2018-03-08)</description>
+		<category>TOSEC</category>
+		<version>2018-03-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Olytext 20 Char (19xx)(-)">
+		<description>Olytext 20 Char (19xx)(-)</description>
+		<rom name="Olytext 20 Char (19xx)(-).bin" size="4096" crc="a6d39c2a" md5="7b5022a6e4349f3f71d9a2d3587cc6b2" sha1="b7a4c65edc7d46d1ab8b0b3aa52141c61c66bf32"/>
+	</game>
+	<game name="Olytext 20 Monitor v1.2 (1985)(SES)">
+		<description>Olytext 20 Monitor v1.2 (1985)(SES)</description>
+		<rom name="Olytext 20 Monitor v1.2 (1985)(SES).bin" size="4096" crc="1df4b31f" md5="48819f100b79ec19f0704b3375409e8d" sha1="af3a275d9853d8d23ef091549d7c659cbdb257f3"/>
+	</game>
+</datafile>

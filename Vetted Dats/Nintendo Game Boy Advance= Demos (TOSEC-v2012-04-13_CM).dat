@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo Game Boy Advance - Demos</name>
+		<description>Nintendo Game Boy Advance - Demos (TOSEC-v2012-04-13)</description>
+		<category>TOSEC</category>
+		<version>2012-04-13</version>
+		<author>Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Hardware Sprite Blitter Demo (2005)(Kuroiryu)(PD)">
+		<description>Hardware Sprite Blitter Demo (2005)(Kuroiryu)(PD)</description>
+		<rom name="Hardware Sprite Blitter Demo (2005)(Kuroiryu)(PD).bin" size="101384" crc="06bbd014" md5="52d23aaaa0a2de75db53b1a56be24320" sha1="92de78f4696209cd680093f49615a8a079ad9b61"/>
+	</game>
+	<game name="Mind Departure (2012)(La Paz - Up Rough)(PD)">
+		<description>Mind Departure (2012)(La Paz - Up Rough)(PD)</description>
+		<rom name="Mind Departure (2012)(La Paz - Up Rough)(PD).bin" size="5152968" crc="c6d0ffc2" md5="b80eea9b11f31c788f6d9727c4cbc3ae" sha1="0091fbfa03c436fbaf8021bd33cf58b7925db59a"/>
+	</game>
+	<game name="Shake Your Lawnmower (2011)(Darklite)(PD)">
+		<description>Shake Your Lawnmower (2011)(Darklite)(PD)</description>
+		<rom name="Shake Your Lawnmower (2011)(Darklite)(PD).bin" size="6900428" crc="93f7e5f7" md5="00965e94fce1915e042672d50a1b5654" sha1="b29a186f6b674e85950a95032ce4ae62e11a1280"/>
+	</game>
+</datafile>

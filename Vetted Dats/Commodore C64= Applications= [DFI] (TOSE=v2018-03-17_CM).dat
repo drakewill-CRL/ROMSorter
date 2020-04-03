@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Applications - [DFI]</name>
+		<description>Commodore C64 - Applications - [DFI] (TOSEC-v2018-03-17)</description>
+		<category>TOSEC</category>
+		<version>2018-03-17</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Games Creator (1984)(Mastertronic)">
+		<description>Games Creator (1984)(Mastertronic)</description>
+		<rom name="Games Creator (1984)(Mastertronic).dfi" size="196608" crc="e8943c32" md5="2b757f9e920fde5c790b9cc2801b6f90" sha1="409a10be9c0bfbf92e1abb7b46471e60913656e1"/>
+	</game>
+</datafile>

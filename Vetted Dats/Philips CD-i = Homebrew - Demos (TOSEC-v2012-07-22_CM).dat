@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Philips CD-i - Homebrew - Demos</name>
+		<description>Philips CD-i - Homebrew - Demos (TOSEC-v2012-07-22)</description>
+		<category>TOSEC-ISO</category>
+		<version>2012-07-22</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Mode 7 Demo (2008-01-06)(RasterSoft)">
+		<description>Mode 7 Demo (2008-01-06)(RasterSoft)</description>
+		<rom name="Mode 7 Demo (2008-01-06)(RasterSoft).bin" size="5468400" crc="aa04e674" md5="4827789c3e7e31be94adf5b6e8dfd431" sha1="cae71cb491965679971d1c40e9e5849e9da0c0e3"/>
+		<rom name="Mode 7 Demo (2008-01-06)(RasterSoft).cue" size="98" crc="298a80bf" md5="483f820257d31b181e29ef5cd2fae72b" sha1="cde03d07174b6066febab485559800a6100a9eaa"/>
+	</game>
+</datafile>

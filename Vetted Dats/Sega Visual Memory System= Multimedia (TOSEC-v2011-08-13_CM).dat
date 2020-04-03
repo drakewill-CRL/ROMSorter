@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega Visual Memory System - Multimedia</name>
+		<description>Sega Visual Memory System - Multimedia (TOSEC-v2011-08-13)</description>
+		<category>TOSEC</category>
+		<version>2011-08-13</version>
+		<author>Cassiel - C0llector</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Frog in a Blender (200x)(Dreamcast Domain)(PD)">
+		<description>Frog in a Blender (200x)(Dreamcast Domain)(PD)</description>
+		<rom name="Frog in a Blender (200x)(Dreamcast Domain)(PD).vms" size="15872" crc="49b78d5b" md5="964223f00a3db27ddb5f4cd31b5f6d95" sha1="e6adf38d8ec7fdb29145280a15e73ac77f702a73"/>
+	</game>
+	<game name="Kill 'em All (200x)(-)(PD)">
+		<description>Kill 'em All (200x)(-)(PD)</description>
+		<rom name="Kill 'em All (200x)(-)(PD).vms" size="7680" crc="658b821b" md5="b8a72a6e065b8fc0d5b1a6c06180eb49" sha1="8cf80899f3eb073bdf6f05d595f647645710b37b"/>
+	</game>
+</datafile>

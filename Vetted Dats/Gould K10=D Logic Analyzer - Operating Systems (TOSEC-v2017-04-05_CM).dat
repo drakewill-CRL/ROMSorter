@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Gould K105-D Logic Analyzer - Operating Systems</name>
+		<description>Gould K105-D Logic Analyzer - Operating Systems (TOSEC-v2017-04-05)</description>
+		<category>TOSEC</category>
+		<version>2017-04-05</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<url>http://www.tosecdev.org</url>
+		<clrmamepro/>
+	</header>
+	<game name="K105 SOS Software v2.2 (1984)(Gould)[SN 00375 - PN 0117-0267-10 Rev B]">
+		<description>K105 SOS Software v2.2 (1984)(Gould)[SN 00375 - PN 0117-0267-10 Rev B]</description>
+		<rom name="K105 SOS Software v2.2 (1984)(Gould)[SN 00375 - PN 0117-0267-10 Rev B].imd" size="106085" crc="5ac740af" md5="44b511f2b89e9050f950f0f2f02d6c21" sha1="302828eb9a5c8ab26d6669085c4776ee980f3a53"/>
+	</game>
+	<game name="K105 SOS Software v2.2 (1984)(Gould)[SN 00375 - PN 0117-0267-20 Rev B]">
+		<description>K105 SOS Software v2.2 (1984)(Gould)[SN 00375 - PN 0117-0267-20 Rev B]</description>
+		<rom name="K105 SOS Software v2.2 (1984)(Gould)[SN 00375 - PN 0117-0267-20 Rev B].imd" size="106085" crc="1667cfad" md5="39df35b293c52b89ea5d4ccc8411b043" sha1="f8d46b17aaee882fab8c399188c30eb061b24341"/>
+	</game>
+</datafile>

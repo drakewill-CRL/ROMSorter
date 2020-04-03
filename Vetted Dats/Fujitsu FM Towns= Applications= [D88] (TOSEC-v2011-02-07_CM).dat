@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Fujitsu FM Towns - Applications - [D88]</name>
+		<description>Fujitsu FM Towns - Applications - [D88] (TOSEC-v2011-02-07)</description>
+		<category>TOSEC</category>
+		<version>2011-02-07</version>
+		<author>Aral</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Towns System Software v1.1L30 (1992)(Fujitsu)(JP)">
+		<description>Towns System Software v1.1L30 (1992)(Fujitsu)(JP)</description>
+		<rom name="Towns System Software v1.1L30 (1992)(Fujitsu)(JP).d88" size="1281968" crc="f4f0b2a3" md5="0f1a36d544cac2efbf098e63943ce4f8" sha1="901e3b0d935622b68780dc4ed54ba5da536ca58e"/>
+	</game>
+	<game name="Towns System Software v2.1L51 (1995)(Fujitsu)(JP)">
+		<description>Towns System Software v2.1L51 (1995)(Fujitsu)(JP)</description>
+		<rom name="Towns System Software v2.1L51 (1995)(Fujitsu)(JP).d88" size="1281968" crc="d89c8db8" md5="7748e0ca1a4cb836def15b97f8895a4a" sha1="110e4cacc1010a2d30b88fc6b46c400c13747c22"/>
+	</game>
+</datafile>

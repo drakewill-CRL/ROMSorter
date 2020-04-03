@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore VIC20 - Demos - [TAP]</name>
+		<description>Commodore VIC20 - Demos - [TAP] (TOSEC-v2017-10-23)</description>
+		<category>TOSEC</category>
+		<version>2017-10-23</version>
+		<author>Tomse</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+		<clrmamepro/>
+	</header>
+	<game name="Eight Dollar Math (2006)(Ate Bit)[3k]">
+		<description>Eight Dollar Math (2006)(Ate Bit)[3k]</description>
+		<rom name="Eight Dollar Math (2006)(Ate Bit)[3k].tap" size="348380" crc="1d2c7f0f" md5="fcb0fa658e4647f0f4fd6b93cc5ad669" sha1="e2214772fa04d9891d6dd72e82f8f82dd7b3fdf1"/>
+	</game>
+</datafile>

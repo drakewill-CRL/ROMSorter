@@ -1,0 +1,643 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Bandai WonderSwan - Games</name>
+		<description>Bandai WonderSwan - Games (TOSEC-v2013-12-13)</description>
+		<category>TOSEC</category>
+		<version>2013-12-13</version>
+		<author>Cassiel - etabeta</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Anchor Field 2 (1999-06-24)(Sammy)[f EEPROM][SWJ-SUM004]">
+		<description>Anchor Field 2 (1999-06-24)(Sammy)[f EEPROM][SWJ-SUM004]</description>
+		<rom name="Anchor Field 2 (1999-06-24)(Sammy)[f EEPROM][SWJ-SUM004].bin" size="1048576" crc="d022f6fd" md5="7433162db8fae15d3d03af228fc65244" sha1="3141d4869d594c2fffd79db3177a0f2e2eb6a794"/>
+	</game>
+	<game name="Anchor Field 2 (1999-06-24)(Sammy)[SWJ-SUM004]">
+		<description>Anchor Field 2 (1999-06-24)(Sammy)[SWJ-SUM004]</description>
+		<rom name="Anchor Field 2 (1999-06-24)(Sammy)[SWJ-SUM004].bin" size="1048576" crc="425eb893" md5="7528a5de5924896d152920b1eaf8fd5d" sha1="06447c248afce04c4f4a1c3b5f7a4ab6f383c94b"/>
+	</game>
+	<game name="Armored Unit (1999-11-18)(Sammy)[f EEPROM][o][SWJ-SUM003]">
+		<description>Armored Unit (1999-11-18)(Sammy)[f EEPROM][o][SWJ-SUM003]</description>
+		<rom name="Armored Unit (1999-11-18)(Sammy)[f EEPROM][o][SWJ-SUM003].bin" size="1048576" crc="1b73df20" md5="7c1a575f1c3608103b1755f5aa6fb0a2" sha1="5db29519054c3e60516e4a496d3bfad8272cc330"/>
+	</game>
+	<game name="Armored Unit (1999-11-18)(Sammy)[o][SWJ-SUM003]">
+		<description>Armored Unit (1999-11-18)(Sammy)[o][SWJ-SUM003]</description>
+		<rom name="Armored Unit (1999-11-18)(Sammy)[o][SWJ-SUM003].bin" size="1048576" crc="04366d92" md5="9587c46e7a2d4d8c2e5ddc971b7325fd" sha1="1578669c1fcf59ab5f5e603c6a65121d7ae209b1"/>
+	</game>
+	<game name="Armored Unit (1999-11-18)(Sammy)[SWJ-SUM003]">
+		<description>Armored Unit (1999-11-18)(Sammy)[SWJ-SUM003]</description>
+		<rom name="Armored Unit (1999-11-18)(Sammy)[SWJ-SUM003].bin" size="524288" crc="c11639af" md5="453d26d42516c15cc474e811eca6d5cd" sha1="ae5e4f06f07fe13a48f414a1cd437a816e9ad2e7"/>
+	</game>
+	<game name="Bakusou Dekotora Densetsu (1999-12-22)(Human)[SWJ-KGT003]">
+		<description>Bakusou Dekotora Densetsu (1999-12-22)(Human)[SWJ-KGT003]</description>
+		<rom name="Bakusou Dekotora Densetsu (1999-12-22)(Human)[SWJ-KGT003].bin" size="2097152" crc="392dd813" md5="c53a5d8c189a23b16c444c4e8ef581af" sha1="821bb81917445b63ac663c706ab4ce27de28543f"/>
+	</game>
+	<game name="Beatmania (1999-04-28)(Konami)[SWJ-KNM001]">
+		<description>Beatmania (1999-04-28)(Konami)[SWJ-KNM001]</description>
+		<rom name="Beatmania (1999-04-28)(Konami)[SWJ-KNM001].bin" size="16777216" crc="324622c9" md5="b814e71eb1d079466a9535566d605280" sha1="544e76133fa53fc0ae5e00e3465b9cf634f14fd0"/>
+	</game>
+	<game name="Buffers Evolution (1999-12-09)(Bandai)[f EEPROM][SWJ-BAN01B]">
+		<description>Buffers Evolution (1999-12-09)(Bandai)[f EEPROM][SWJ-BAN01B]</description>
+		<rom name="Buffers Evolution (1999-12-09)(Bandai)[f EEPROM][SWJ-BAN01B].bin" size="4194304" crc="122591f1" md5="7f6628bd3843895210fd6a2330222395" sha1="97735b54bf38364565c13121e65e62bb68a19da3"/>
+	</game>
+	<game name="Buffers Evolution (1999-12-09)(Bandai)[SWJ-BAN01B]">
+		<description>Buffers Evolution (1999-12-09)(Bandai)[SWJ-BAN01B]</description>
+		<rom name="Buffers Evolution (1999-12-09)(Bandai)[SWJ-BAN01B].bin" size="4194304" crc="b25a0635" md5="9b15b2236cae605f7bc3bea3859fdd36" sha1="35eea568f756bacf533bb9aaad7e3239ba00e411"/>
+	</game>
+	<game name="Cardcaptor Sakura - Sakura to Fushigi na Clow Card (1999-12-02)(Bandai)[SWJ-BAN01A]">
+		<description>Cardcaptor Sakura - Sakura to Fushigi na Clow Card (1999-12-02)(Bandai)[SWJ-BAN01A]</description>
+		<rom name="Cardcaptor Sakura - Sakura to Fushigi na Clow Card (1999-12-02)(Bandai)[SWJ-BAN01A].bin" size="2097152" crc="7f3a14c0" md5="bb9f130931b2b7d1f646f44d1667ad63" sha1="39e9a897b681b2c326b052827d7c534f22290286"/>
+	</game>
+	<game name="Chaos Gear - Michibikareshi Mono (1999-05-27)(Bandai)[SWJ-BAN00B]">
+		<description>Chaos Gear - Michibikareshi Mono (1999-05-27)(Bandai)[SWJ-BAN00B]</description>
+		<rom name="Chaos Gear - Michibikareshi Mono (1999-05-27)(Bandai)[SWJ-BAN00B].bin" size="2097152" crc="27b3cc18" md5="f647a51827915109d1bc6a05c076eda4" sha1="e212bba4fac51bbfcf440966da0e67b1686dcfc5"/>
+	</game>
+	<game name="Chocobo no Fushigi na Dungeon for WonderSwan (1999-03-04)(Bandai)[SWJ-BAN002]">
+		<description>Chocobo no Fushigi na Dungeon for WonderSwan (1999-03-04)(Bandai)[SWJ-BAN002]</description>
+		<rom name="Chocobo no Fushigi na Dungeon for WonderSwan (1999-03-04)(Bandai)[SWJ-BAN002].bin" size="2097152" crc="ccaa4853" md5="edbc77ab0d585447d927318a6eb66c9b" sha1="3b62fd2841602f1077270848ab7a3aad58712ee9"/>
+	</game>
+	<game name="Chou Aniki - Otoko no Tamafuda (2000-02-10)(NCS)[SWJ-BAN023]">
+		<description>Chou Aniki - Otoko no Tamafuda (2000-02-10)(NCS)[SWJ-BAN023]</description>
+		<rom name="Chou Aniki - Otoko no Tamafuda (2000-02-10)(NCS)[SWJ-BAN023].bin" size="1048576" crc="7fff2520" md5="24fd819c4f4866d7c5c340d0273acbf9" sha1="eb538b82c5516fae8ce38778e41fb118aa5c830f"/>
+	</game>
+	<game name="Chou Denki Card Game - Youfu Makai - Kikuchi Shuukou (1999-12-16)(Kobunsha)[SWJ-KBS002]">
+		<description>Chou Denki Card Game - Youfu Makai - Kikuchi Shuukou (1999-12-16)(Kobunsha)[SWJ-KBS002]</description>
+		<rom name="Chou Denki Card Game - Youfu Makai - Kikuchi Shuukou (1999-12-16)(Kobunsha)[SWJ-KBS002].bin" size="2097152" crc="56e2c069" md5="5432d188664bc4e5dae0fc859580cda1" sha1="c4436a59fd830ba6af2d63462f71e1ab1cfa3212"/>
+	</game>
+	<game name="Clock Tower (1999-12-09)(Human)[o][SWJ-KGT002]">
+		<description>Clock Tower (1999-12-09)(Human)[o][SWJ-KGT002]</description>
+		<rom name="Clock Tower (1999-12-09)(Human)[o][SWJ-KGT002].bin" size="4194304" crc="4e8909d1" md5="8f0ba3401662a40e8da5ebcfe7b85e81" sha1="db9b3308336b59aeff7bd173d687953a37739381"/>
+	</game>
+	<game name="Clock Tower (1999-12-09)(Human)[SWJ-KGT002]">
+		<description>Clock Tower (1999-12-09)(Human)[SWJ-KGT002]</description>
+		<rom name="Clock Tower (1999-12-09)(Human)[SWJ-KGT002].bin" size="2097152" crc="a9936941" md5="32cebf035e847ee0ca5debb79e8cc12f" sha1="4ba44f23d3b43ee730ce34d56f4cadaf429b6d1b"/>
+	</game>
+	<game name="Crazy Climber (1999-07-29)(Nihon Bussan)[o][SWJ-NHB001]">
+		<description>Crazy Climber (1999-07-29)(Nihon Bussan)[o][SWJ-NHB001]</description>
+		<rom name="Crazy Climber (1999-07-29)(Nihon Bussan)[o][SWJ-NHB001].bin" size="1048576" crc="0cb57376" md5="0ed3a08a3a9858f65d1487889645dc55" sha1="a88882426bf435416616191902a26b2b066f2491"/>
+	</game>
+	<game name="Crazy Climber (1999-07-29)(Nihon Bussan)[SWJ-NHB001]">
+		<description>Crazy Climber (1999-07-29)(Nihon Bussan)[SWJ-NHB001]</description>
+		<rom name="Crazy Climber (1999-07-29)(Nihon Bussan)[SWJ-NHB001].bin" size="524288" crc="c995274b" md5="42652b577c43a4b4f23b970855eb46bf" sha1="67a80b7fb00c3afe0ce9b0f8975c6d250a2cd49d"/>
+	</game>
+	<game name="D's Garage 21 Koubo Game - Tane wo Maku Tori (1999-05-02)(Bandai)[f EEPROM][SWJ-BAN01E]">
+		<description>D's Garage 21 Koubo Game - Tane wo Maku Tori (1999-05-02)(Bandai)[f EEPROM][SWJ-BAN01E]</description>
+		<rom name="D's Garage 21 Koubo Game - Tane wo Maku Tori (1999-05-02)(Bandai)[f EEPROM][SWJ-BAN01E].bin" size="1048576" crc="eba41a7f" md5="bda4f48b727c92bacaca096dab30577e" sha1="9c524b5f346121c415bd32e12feb8ebd01bd97a8"/>
+	</game>
+	<game name="D's Garage 21 Koubo Game - Tane wo Maku Tori (1999-05-02)(Bandai)[SWJ-BAN01E]">
+		<description>D's Garage 21 Koubo Game - Tane wo Maku Tori (1999-05-02)(Bandai)[SWJ-BAN01E]</description>
+		<rom name="D's Garage 21 Koubo Game - Tane wo Maku Tori (1999-05-02)(Bandai)[SWJ-BAN01E].bin" size="1048576" crc="b1caec06" md5="e39e90944a683b9d4a996a53804826f0" sha1="83e190af2e25fbb3e93b1d5835c52fe6f1d279ce"/>
+	</game>
+	<game name="Densha de Go! (1999-03-04)(Taito)[SWJ-TAT001]">
+		<description>Densha de Go! (1999-03-04)(Taito)[SWJ-TAT001]</description>
+		<rom name="Densha de Go! (1999-03-04)(Taito)[SWJ-TAT001].bin" size="4194304" crc="b62e5dd0" md5="7b2180e38b4720ce711768a73c33c9df" sha1="d3da0ae529c6f78162682141154a95879f288ca7"/>
+	</game>
+	<game name="Densha de Go! 2 (1999-10-07)(Taito)[SWJ-CFT001]">
+		<description>Densha de Go! 2 (1999-10-07)(Taito)[SWJ-CFT001]</description>
+		<rom name="Densha de Go! 2 (1999-10-07)(Taito)[SWJ-CFT001].bin" size="4194304" crc="af9d8f42" md5="eec79ad5bb634a90b9d020415046e921" sha1="c07f776ac4374b648d1a49efd9d6fcd0db2ac1fa"/>
+	</game>
+	<game name="Digimon - Ver. WonderSwan (2000)(Bandai)(AS)">
+		<description>Digimon - Ver. WonderSwan (2000)(Bandai)(AS)</description>
+		<rom name="Digimon - Ver. WonderSwan (2000)(Bandai)(AS).bin" size="2097152" crc="94ea6ffc" md5="d5f7fbf06c57aa50f08c14e64d2e02a2" sha1="5cc59ec1687fe83ec5fb048d3dfc37849747df34"/>
+	</game>
+	<game name="Digimon Adventure - Anode Tamer (1999-12-16)(Bandai)[SWJ-BAN01C]">
+		<description>Digimon Adventure - Anode Tamer (1999-12-16)(Bandai)[SWJ-BAN01C]</description>
+		<rom name="Digimon Adventure - Anode Tamer (1999-12-16)(Bandai)[SWJ-BAN01C].bin" size="2097152" crc="6e9dd148" md5="ba249ee5c5ccb1512e0fb6af200a361a" sha1="9db54826c2887dea07aac774bd15e092596e37af"/>
+	</game>
+	<game name="Digimon Adventure - Cathode Tamer (2000-01-20)(Bandai)[SWJ-BAN01D]">
+		<description>Digimon Adventure - Cathode Tamer (2000-01-20)(Bandai)[SWJ-BAN01D]</description>
+		<rom name="Digimon Adventure - Cathode Tamer (2000-01-20)(Bandai)[SWJ-BAN01D].bin" size="2097152" crc="42ad238b" md5="10f50d5b44a7b8b1f308c1bea8263823" sha1="0b54cc1d350ab92c42ce8214784389b994562bf6"/>
+	</game>
+	<game name="Digimon Adventure 02 - Tag Tamers (2000-08-03)(Bandai)[SWJ-BAN032]">
+		<description>Digimon Adventure 02 - Tag Tamers (2000-08-03)(Bandai)[SWJ-BAN032]</description>
+		<rom name="Digimon Adventure 02 - Tag Tamers (2000-08-03)(Bandai)[SWJ-BAN032].bin" size="2097152" crc="6ededaf8" md5="2cb264ba76b88452d7576992f2b90dbf" sha1="44a5502b70ea75926b87377e3f634c8093bc574a"/>
+	</game>
+	<game name="Digimon Adventure 02 - Tag Tamers (2000-08-03)(Bandai)[tr de DigitalZero Domain][v0.02-20030415]">
+		<description>Digimon Adventure 02 - Tag Tamers (2000-08-03)(Bandai)[tr de DigitalZero Domain][v0.02-20030415]</description>
+		<rom name="Digimon Adventure 02 - Tag Tamers (2000-08-03)(Bandai)[tr de DigitalZero Domain][v0.02-20030415].bin" size="2097152" crc="f100dfbf" md5="4b2e1b58d0af64b8ad21298428dd012a" sha1="bd816b8c55a9c024194ed5316f6938b5bacb737e"/>
+	</game>
+	<game name="Digimon Adventure 02 - Tag Tamers (2000-08-03)(Bandai)[tr en PmHacks][v0.25.2-20030924]">
+		<description>Digimon Adventure 02 - Tag Tamers (2000-08-03)(Bandai)[tr en PmHacks][v0.25.2-20030924]</description>
+		<rom name="Digimon Adventure 02 - Tag Tamers (2000-08-03)(Bandai)[tr en PmHacks][v0.25.2-20030924].bin" size="2097152" crc="dc42ad9d" md5="a5f290ad9222725195875b49e74cf437" sha1="3e25659863c173ad350f031db2e502d414f34f4a"/>
+	</game>
+	<game name="Digimon Adventure 02 - Tag Tamers (2000-08-03)(Bandai)[tr en PmHacks][v0.35-20031122]">
+		<description>Digimon Adventure 02 - Tag Tamers (2000-08-03)(Bandai)[tr en PmHacks][v0.35-20031122]</description>
+		<rom name="Digimon Adventure 02 - Tag Tamers (2000-08-03)(Bandai)[tr en PmHacks][v0.35-20031122].bin" size="2097152" crc="66dcef91" md5="9c1687afebab606e81ffc59c3deb54d6" sha1="ee9c7226a03d4eed0a27266719652e4c71ad0a35"/>
+	</game>
+	<game name="Digital Monster - Ver. WonderSwan (1999-03-25)(Bandai)[SWJ-BAN005]">
+		<description>Digital Monster - Ver. WonderSwan (1999-03-25)(Bandai)[SWJ-BAN005]</description>
+		<rom name="Digital Monster - Ver. WonderSwan (1999-03-25)(Bandai)[SWJ-BAN005].bin" size="2097152" crc="ab59de2e" md5="deb2c37baea996386b2af10bdd0ca3b1" sha1="ecea24db6e65254ab4d6e312de0eb951c7df716f"/>
+	</game>
+	<game name="Digital Partner (2000-05-05)(Bandai)[SWJ-BAN02C]">
+		<description>Digital Partner (2000-05-05)(Bandai)[SWJ-BAN02C]</description>
+		<rom name="Digital Partner (2000-05-05)(Bandai)[SWJ-BAN02C].bin" size="2097152" crc="b5e675ae" md5="768b8f5722f0b07be4e8ac356e90acf2" sha1="c622f6742ca3f0129fc12dce0a1c17d292388ffb"/>
+	</game>
+	<game name="Dokodemo Hamster (2000-01-06)(Interbec)[SWJ-BEC003]">
+		<description>Dokodemo Hamster (2000-01-06)(Interbec)[SWJ-BEC003]</description>
+		<rom name="Dokodemo Hamster (2000-01-06)(Interbec)[SWJ-BEC003].bin" size="1048576" crc="89e7d950" md5="da17db6b7f491510e4b284996ff0eebf" sha1="3d5a1ed77e721908eb1145aaedef17c0ee6355ae"/>
+	</game>
+	<game name="Engacho! (1999-10-28)(Nihon System)[f EEPROM][SWJ-NAP001]">
+		<description>Engacho! (1999-10-28)(Nihon System)[f EEPROM][SWJ-NAP001]</description>
+		<rom name="Engacho! (1999-10-28)(Nihon System)[f EEPROM][SWJ-NAP001].bin" size="1048576" crc="3dcb48bd" md5="90fb7d463820ef00db0d3557fdcff6ee" sha1="b9d460be83497a8aa9fca02bea7e44426ee3ffac"/>
+	</game>
+	<game name="Engacho! (1999-10-28)(Nihon System)[SWJ-NAP001]">
+		<description>Engacho! (1999-10-28)(Nihon System)[SWJ-NAP001]</description>
+		<rom name="Engacho! (1999-10-28)(Nihon System)[SWJ-NAP001].bin" size="1048576" crc="4e467626" md5="3584e4a63a6ae9fa546722a349f88573" sha1="f79451034b6d844f0e10c825306bbc26f26a5466"/>
+	</game>
+	<game name="Fever - Sankyo Koushiki Pachinko Simulation (1999-12-09)(Interbec)[f EEPROM][SWJ-BEC002]">
+		<description>Fever - Sankyo Koushiki Pachinko Simulation (1999-12-09)(Interbec)[f EEPROM][SWJ-BEC002]</description>
+		<rom name="Fever - Sankyo Koushiki Pachinko Simulation (1999-12-09)(Interbec)[f EEPROM][SWJ-BEC002].bin" size="2097152" crc="a83eabfd" md5="d1c55bf8cfa0f597ae92151f1fa35217" sha1="ba2de0223bad56a0a8f6e5259650ba49ee2b0efd"/>
+	</game>
+	<game name="Fever - Sankyo Koushiki Pachinko Simulation (1999-12-09)(Interbec)[SWJ-BEC002]">
+		<description>Fever - Sankyo Koushiki Pachinko Simulation (1999-12-09)(Interbec)[SWJ-BEC002]</description>
+		<rom name="Fever - Sankyo Koushiki Pachinko Simulation (1999-12-09)(Interbec)[SWJ-BEC002].bin" size="2097152" crc="8922dd0b" md5="ae2e0e9da1f25119cb4ad24a821446ba" sha1="f26b0215c49e04cb8ef6f031b627dff6a49d2015"/>
+	</game>
+	<game name="Final Lap 2000 (2000-03-23)(Bandai)[f EEPROM][SWJ-BAN026]">
+		<description>Final Lap 2000 (2000-03-23)(Bandai)[f EEPROM][SWJ-BAN026]</description>
+		<rom name="Final Lap 2000 (2000-03-23)(Bandai)[f EEPROM][SWJ-BAN026].bin" size="1048576" crc="459afb1d" md5="9564e87947254a770a0a97ce790bbdf6" sha1="dec32eba70625bd2663fa728bc7a4bac4fbc3d58"/>
+	</game>
+	<game name="Final Lap 2000 (2000-03-23)(Bandai)[SWJ-BAN026]">
+		<description>Final Lap 2000 (2000-03-23)(Bandai)[SWJ-BAN026]</description>
+		<rom name="Final Lap 2000 (2000-03-23)(Bandai)[SWJ-BAN026].bin" size="1048576" crc="ce2f1a1d" md5="a466797b353d610f43a0f030cec721c1" sha1="cfcb14be6d2f1dbffdfcefb8c8d83b4f39bc102b"/>
+	</game>
+	<game name="Fire Pro Wrestling (2000-08-21)(Naxat)[SWJ-KGT007]">
+		<description>Fire Pro Wrestling (2000-08-21)(Naxat)[SWJ-KGT007]</description>
+		<rom name="Fire Pro Wrestling (2000-08-21)(Naxat)[SWJ-KGT007].bin" size="4194304" crc="f246a68e" md5="dd9be38cd66ffd3b526d3388c6b99b8e" sha1="fbb745b016cc710ff6f82ec3091a181415d8de61"/>
+	</game>
+	<game name="Fishing Freaks - Bass Rise (2000-02-24)(Interbec)[SWJ-BEC004]">
+		<description>Fishing Freaks - Bass Rise (2000-02-24)(Interbec)[SWJ-BEC004]</description>
+		<rom name="Fishing Freaks - Bass Rise (2000-02-24)(Interbec)[SWJ-BEC004].bin" size="1048576" crc="a1fb16fc" md5="eb3f161ea3db4ebd759c9b1346032d4f" sha1="f8f077da30f227f3793e97c7f1d656559f08b9d4"/>
+	</game>
+	<game name="From TV Animation One Piece - Mezase Kaizoku Ou! (2000-07-19)(Bandai)[f EEPROM][SWJ-BAN02B]">
+		<description>From TV Animation One Piece - Mezase Kaizoku Ou! (2000-07-19)(Bandai)[f EEPROM][SWJ-BAN02B]</description>
+		<rom name="From TV Animation One Piece - Mezase Kaizoku Ou! (2000-07-19)(Bandai)[f EEPROM][SWJ-BAN02B].bin" size="1048576" crc="be3dde09" md5="c6b6a88082ab806dcf062d25f8f684eb" sha1="82bf780e994fb264642f670363d71e3d9eb471f7"/>
+	</game>
+	<game name="From TV Animation One Piece - Mezase Kaizoku Ou! (2000-07-19)(Bandai)[SWJ-BAN02B]">
+		<description>From TV Animation One Piece - Mezase Kaizoku Ou! (2000-07-19)(Bandai)[SWJ-BAN02B]</description>
+		<rom name="From TV Animation One Piece - Mezase Kaizoku Ou! (2000-07-19)(Bandai)[SWJ-BAN02B].bin" size="1048576" crc="f2e362b8" md5="fe30867e698c071f6be94cce24b095ee" sha1="99c831c27c478064e3d3fa8f9f089cc28f0e946f"/>
+	</game>
+	<game name="Ganso Jajamaru-kun (1999-04-15)(Jaleco)[SWJ-JLC001]">
+		<description>Ganso Jajamaru-kun (1999-04-15)(Jaleco)[SWJ-JLC001]</description>
+		<rom name="Ganso Jajamaru-kun (1999-04-15)(Jaleco)[SWJ-JLC001].bin" size="524288" crc="a193458c" md5="6f09fc64352ba0051e724c4ae58402f4" sha1="cbf6455e89b20a000b6121e5c485be1a20d1f726"/>
+	</game>
+	<game name="Glocal Hexcite (2000-06-29)(Gajin)[o][SWJ-KGT008]">
+		<description>Glocal Hexcite (2000-06-29)(Gajin)[o][SWJ-KGT008]</description>
+		<rom name="Glocal Hexcite (2000-06-29)(Gajin)[o][SWJ-KGT008].bin" size="1048576" crc="4aed3911" md5="21744e51668ab1fca63e5b2a204c194d" sha1="837528b9d95e309f7b1e8c4ffd46ca3e2b68a5a3"/>
+	</game>
+	<game name="Glocal Hexcite (2000-06-29)(Gajin)[SWJ-KGT008]">
+		<description>Glocal Hexcite (2000-06-29)(Gajin)[SWJ-KGT008]</description>
+		<rom name="Glocal Hexcite (2000-06-29)(Gajin)[SWJ-KGT008].bin" size="524288" crc="8fcd6d2c" md5="29cd3876434b493b5d65b7a5f2b661d7" sha1="e100d54e5c63512dbd655f0439870e08ced439dd"/>
+	</game>
+	<game name="Gomoku Narabe &amp; Reversi - Touryuumon (2000-01-13)(Sammy)[SWJ-SUM006]">
+		<description>Gomoku Narabe &amp; Reversi - Touryuumon (2000-01-13)(Sammy)[SWJ-SUM006]</description>
+		<rom name="Gomoku Narabe &amp; Reversi - Touryuumon (2000-01-13)(Sammy)[SWJ-SUM006].bin" size="524288" crc="6cd1411e" md5="0aa352aedf9a9feb3f83981301340a8a" sha1="867f23963e33b26a781aa96851748e483e41fcad"/>
+	</game>
+	<game name="Goraku Ou Tango! (1999-04-01)(Mebius)[f SRAM Sekret][SWJ-PAW001]">
+		<description>Goraku Ou Tango! (1999-04-01)(Mebius)[f SRAM Sekret][SWJ-PAW001]</description>
+		<rom name="Goraku Ou Tango! (1999-04-01)(Mebius)[f SRAM Sekret][SWJ-PAW001].bin" size="1048576" crc="1485ab1d" md5="4caf2cae9180d3a0025ddab9ff3a2e42" sha1="e036720482ce1ff491b45f2d2295bf984682e211"/>
+	</game>
+	<game name="Goraku Ou Tango! (1999-04-01)(Mebius)[SWJ-PAW001]">
+		<description>Goraku Ou Tango! (1999-04-01)(Mebius)[SWJ-PAW001]</description>
+		<rom name="Goraku Ou Tango! (1999-04-01)(Mebius)[SWJ-PAW001].bin" size="1048576" crc="00137e86" md5="1adacf9cb5aa3eb5839a9e2c94933348" sha1="af3fe9da3f5ee0f5a7b06b0440223db88fcb3bf2"/>
+	</game>
+	<game name="GunPey (1999-03-04)(Bandai)[f EEPROM][SWJ-BAN001]">
+		<description>GunPey (1999-03-04)(Bandai)[f EEPROM][SWJ-BAN001]</description>
+		<rom name="GunPey (1999-03-04)(Bandai)[f EEPROM][SWJ-BAN001].bin" size="1048576" crc="55df2cbb" md5="58e8dce0af0ebf359088931a3f8826c0" sha1="0b5c143b7f467b616f10ffcc41447c221a005db6"/>
+	</game>
+	<game name="GunPey (1999-03-04)(Bandai)[SWJ-BAN001]">
+		<description>GunPey (1999-03-04)(Bandai)[SWJ-BAN001]</description>
+		<rom name="GunPey (1999-03-04)(Bandai)[SWJ-BAN001].bin" size="1048576" crc="a1656bbb" md5="816c81b156146be62a45edd7d7d49fc6" sha1="ee4b777f029bac9561e60c19407d08360e733822"/>
+	</game>
+	<game name="Hanafuda Shiyouyo (2000-02-17)(Success)[o][SWJ-KGT005]">
+		<description>Hanafuda Shiyouyo (2000-02-17)(Success)[o][SWJ-KGT005]</description>
+		<rom name="Hanafuda Shiyouyo (2000-02-17)(Success)[o][SWJ-KGT005].bin" size="1048576" crc="4b22270d" md5="2e26e037cb01f70a6454a61c2955e8b1" sha1="1eda3327eb9b5a5844a95ac789f71b669f4cb6a7"/>
+	</game>
+	<game name="Hanafuda Shiyouyo (2000-02-17)(Success)[SWJ-KGT005]">
+		<description>Hanafuda Shiyouyo (2000-02-17)(Success)[SWJ-KGT005]</description>
+		<rom name="Hanafuda Shiyouyo (2000-02-17)(Success)[SWJ-KGT005].bin" size="524288" crc="8e027330" md5="ca296877943e0cecd20b5d482246baac" sha1="4504b62212e1637dfd92e4f985a8497fa38941cd"/>
+	</game>
+	<game name="Harobots (1999-10-07)(Sunrise)[SWJ-SRV001]">
+		<description>Harobots (1999-10-07)(Sunrise)[SWJ-SRV001]</description>
+		<rom name="Harobots (1999-10-07)(Sunrise)[SWJ-SRV001].bin" size="2097152" crc="aa525c04" md5="0eb951b486fe25f37371835be81eed75" sha1="1f42c5694a798de8ff3c68f63dfc7395be1669a5"/>
+	</game>
+	<game name="Hunter X Hunter - Ishi wo Tsugu Mono (2000-06-01)(Bandai)[f SRAM Sekret][SWJ-BAN02A]">
+		<description>Hunter X Hunter - Ishi wo Tsugu Mono (2000-06-01)(Bandai)[f SRAM Sekret][SWJ-BAN02A]</description>
+		<rom name="Hunter X Hunter - Ishi wo Tsugu Mono (2000-06-01)(Bandai)[f SRAM Sekret][SWJ-BAN02A].bin" size="4194304" crc="088db40c" md5="0901bdc89651ce204bbf928ec51c6b00" sha1="ccd7df1bdc042060fe30935b628e7504535eac32"/>
+	</game>
+	<game name="Hunter X Hunter - Ishi wo Tsugu Mono (2000-06-01)(Bandai)[SWJ-BAN02A]">
+		<description>Hunter X Hunter - Ishi wo Tsugu Mono (2000-06-01)(Bandai)[SWJ-BAN02A]</description>
+		<rom name="Hunter X Hunter - Ishi wo Tsugu Mono (2000-06-01)(Bandai)[SWJ-BAN02A].bin" size="4194304" crc="70aa800e" md5="fd2165de8c6bb617166f6bb34447e70d" sha1="57b4278fc5812f52413ca65f45225922d4f2ec3d"/>
+	</game>
+	<game name="Itou Junji Uzumaki - Noroi Simulation (2000-03-04)(Omega Micott)[f SRAM Sekret][SWJ-OMM002]">
+		<description>Itou Junji Uzumaki - Noroi Simulation (2000-03-04)(Omega Micott)[f SRAM Sekret][SWJ-OMM002]</description>
+		<rom name="Itou Junji Uzumaki - Noroi Simulation (2000-03-04)(Omega Micott)[f SRAM Sekret][SWJ-OMM002].bin" size="2097152" crc="700f4c84" md5="6df354a32b0bdd319ef24d56580080b7" sha1="f3f73644ee41fddc65f84f8882a474cd8741c912"/>
+	</game>
+	<game name="Itou Junji Uzumaki - Noroi Simulation (2000-03-04)(Omega Micott)[SWJ-OMM002]">
+		<description>Itou Junji Uzumaki - Noroi Simulation (2000-03-04)(Omega Micott)[SWJ-OMM002]</description>
+		<rom name="Itou Junji Uzumaki - Noroi Simulation (2000-03-04)(Omega Micott)[SWJ-OMM002].bin" size="2097152" crc="ca3f0b00" md5="c329cc51abf1f9f85c33ca28d5a26f0c" sha1="38f708a4c0c4fcec0cf4d6ce051d1ff76466d617"/>
+	</game>
+	<game name="Kakutou Ryouri Densetsu Bistro Recipe - Wonder Battle Hen (1999-09-30)(Banpresto)[SWJ-BPR002]">
+		<description>Kakutou Ryouri Densetsu Bistro Recipe - Wonder Battle Hen (1999-09-30)(Banpresto)[SWJ-BPR002]</description>
+		<rom name="Kakutou Ryouri Densetsu Bistro Recipe - Wonder Battle Hen (1999-09-30)(Banpresto)[SWJ-BPR002].bin" size="1048576" crc="4d103236" md5="8be5abfaef7ad77d14f92f10b2460098" sha1="b40fbc7b72921c9ac31330831c0f77e4133ec7d6"/>
+	</game>
+	<game name="Kaze no Klonoa - Moonlight Museum (1999-05-20)(Bandai)[SWJ-BAN008]">
+		<description>Kaze no Klonoa - Moonlight Museum (1999-05-20)(Bandai)[SWJ-BAN008]</description>
+		<rom name="Kaze no Klonoa - Moonlight Museum (1999-05-20)(Bandai)[SWJ-BAN008].bin" size="1048576" crc="80c6ef12" md5="5e907dd88b3cfb2855a18fb1bf689860" sha1="207a3ceb9a09eabca6e455deeb7035e7e04c9795"/>
+	</game>
+	<game name="Kaze no Klonoa - Moonlight Museum (1999-05-20)(Bandai)[t +6 Sekret][SWJ-BAN008]">
+		<description>Kaze no Klonoa - Moonlight Museum (1999-05-20)(Bandai)[t +6 Sekret][SWJ-BAN008]</description>
+		<rom name="Kaze no Klonoa - Moonlight Museum (1999-05-20)(Bandai)[t +6 Sekret][SWJ-BAN008].bin" size="1048576" crc="411da7a4" md5="d624be02ddb26fa457155a9ca4acea9a" sha1="7d6ed2b5d9e484a633dc78870c40092666b62b97"/>
+	</game>
+	<game name="Keiba Yosou Shien Soft - Yosou Shinkaron (1999-09-14)(Media Entertainment)[o][SWJ-MDE001]">
+		<description>Keiba Yosou Shien Soft - Yosou Shinkaron (1999-09-14)(Media Entertainment)[o][SWJ-MDE001]</description>
+		<rom name="Keiba Yosou Shien Soft - Yosou Shinkaron (1999-09-14)(Media Entertainment)[o][SWJ-MDE001].bin" size="1048576" crc="517f962e" md5="840be356bd48676bd4e39f1e3d54c3b3" sha1="12d26522665cb8ecb3178bc242d984deae438e5c"/>
+	</game>
+	<game name="Keiba Yosou Shien Soft - Yosou Shinkaron (1999-09-14)(Media Entertainment)[SWJ-MDE001]">
+		<description>Keiba Yosou Shien Soft - Yosou Shinkaron (1999-09-14)(Media Entertainment)[SWJ-MDE001]</description>
+		<rom name="Keiba Yosou Shien Soft - Yosou Shinkaron (1999-09-14)(Media Entertainment)[SWJ-MDE001].bin" size="524288" crc="945fc213" md5="1812b60c166fb94ec5578957179577de" sha1="461f87e6e301b0dbb6324d908d4ca7efd7518e20"/>
+	</game>
+	<game name="Kiss Yori... - Seaside Serenade (1999-12-02)(Kid)[SWJ-KDX001]">
+		<description>Kiss Yori... - Seaside Serenade (1999-12-02)(Kid)[SWJ-KDX001]</description>
+		<rom name="Kiss Yori... - Seaside Serenade (1999-12-02)(Kid)[SWJ-KDX001].bin" size="2097152" crc="3b4c60c6" md5="611d42816a979ece34dd8221d3023c9c" sha1="9ef89b6fe68c5a06d34344e8c783ec24114ad959"/>
+	</game>
+	<game name="Kosodate Quiz Dokodemo - My Angel (1999-04-15)(Namco)[SWJ-BAN007]">
+		<description>Kosodate Quiz Dokodemo - My Angel (1999-04-15)(Namco)[SWJ-BAN007]</description>
+		<rom name="Kosodate Quiz Dokodemo - My Angel (1999-04-15)(Namco)[SWJ-BAN007].bin" size="2097152" crc="4c48624c" md5="a5e1cf7e43e991592890d916369bcf88" sha1="52b154a3e36d01357649a9f7f614139ce6cc46b8"/>
+	</game>
+	<game name="Kyousouba Ikusei Simulation - Keiba (1999-11-18)(Interbec)[SWJ-BEC001]">
+		<description>Kyousouba Ikusei Simulation - Keiba (1999-11-18)(Interbec)[SWJ-BEC001]</description>
+		<rom name="Kyousouba Ikusei Simulation - Keiba (1999-11-18)(Interbec)[SWJ-BEC001].bin" size="1048576" crc="ecfbcb1d" md5="442e0025aeda0ad8df502696aa97c499" sha1="a309a430fbbed6c42f41d8ccaf4aba82e96d6a7b"/>
+	</game>
+	<game name="Langrisser Millennium WS - The Last Century (2000-03-09)(NCS)[SWJ-BAN024]">
+		<description>Langrisser Millennium WS - The Last Century (2000-03-09)(NCS)[SWJ-BAN024]</description>
+		<rom name="Langrisser Millennium WS - The Last Century (2000-03-09)(NCS)[SWJ-BAN024].bin" size="1048576" crc="9e0854e2" md5="0e4369d3f611377433272b3563325ca2" sha1="9fdf3f5821f2a4488139525fe49e87b23de4571f"/>
+	</game>
+	<game name="Last Stand (1999-05-27)(Bandai)[SWJ-BAN009]">
+		<description>Last Stand (1999-05-27)(Bandai)[SWJ-BAN009]</description>
+		<rom name="Last Stand (1999-05-27)(Bandai)[SWJ-BAN009].bin" size="2097152" crc="cccaf8a1" md5="cf7ee109aa551fdebaadd5bfbe344fd7" sha1="d524da01f2bfad92c2fa080950229955a3030ef2"/>
+	</game>
+	<game name="Lode Runner for WonderSwan (2000-04-20)(Banpresto)[o][SWJ-BPR004]">
+		<description>Lode Runner for WonderSwan (2000-04-20)(Banpresto)[o][SWJ-BPR004]</description>
+		<rom name="Lode Runner for WonderSwan (2000-04-20)(Banpresto)[o][SWJ-BPR004].bin" size="1048576" crc="21279e82" md5="c7445937d6fbc462256bd2ebcdbf3c25" sha1="847f51592f181aa68061900700149b86cdba651b"/>
+	</game>
+	<game name="Lode Runner for WonderSwan (2000-04-20)(Banpresto)[SWJ-BPR004]">
+		<description>Lode Runner for WonderSwan (2000-04-20)(Banpresto)[SWJ-BPR004]</description>
+		<rom name="Lode Runner for WonderSwan (2000-04-20)(Banpresto)[SWJ-BPR004].bin" size="524288" crc="e407cabf" md5="21160db08132219da376024b9e698187" sha1="91595cd5d5192db50eda883157852ff81994990c"/>
+	</game>
+	<game name="Macross - True Love Song (2000-03-23)(Layup - Upstar)[SWJ-LAY001]">
+		<description>Macross - True Love Song (2000-03-23)(Layup - Upstar)[SWJ-LAY001]</description>
+		<rom name="Macross - True Love Song (2000-03-23)(Layup - Upstar)[SWJ-LAY001].bin" size="4194304" crc="62d419cd" md5="694042e6f8eaa2423693c0a9bba8aef0" sha1="211e051db3fd4d7ae1ea143e043f87cfbcec5f1c"/>
+	</game>
+	<game name="Magical Drop for WonderSwan (1999-10-14)(Data East)[SWJ-DTE002]">
+		<description>Magical Drop for WonderSwan (1999-10-14)(Data East)[SWJ-DTE002]</description>
+		<rom name="Magical Drop for WonderSwan (1999-10-14)(Data East)[SWJ-DTE002].bin" size="1048576" crc="637ada93" md5="f98cbebf4a06794aa74636e7a6285ace" sha1="a25944969068ee495254f94c2c48dfffcb66ce8d"/>
+	</game>
+	<game name="Magical Drop for WonderSwan (1999-10-14)(Data East)[u][SWJ-DTE002]">
+		<description>Magical Drop for WonderSwan (1999-10-14)(Data East)[u][SWJ-DTE002]</description>
+		<rom name="Magical Drop for WonderSwan (1999-10-14)(Data East)[u][SWJ-DTE002].bin" size="524288" crc="b096ae0a" md5="b36dbdbad13a2484642a60e5d02c2b6c" sha1="d729d9cfffa77666c9d76bb00f8605c91856f179"/>
+	</game>
+	<game name="Mahjong Touryuumon (1999-03-11)(Sammy)[SWJ-SUM001]">
+		<description>Mahjong Touryuumon (1999-03-11)(Sammy)[SWJ-SUM001]</description>
+		<rom name="Mahjong Touryuumon (1999-03-11)(Sammy)[SWJ-SUM001].bin" size="1048576" crc="e7e7fd4c" md5="7edd59281ec08fdb2daaf45e58085e7e" sha1="281079b22cb213ee4dda5c304b5b5be028130929"/>
+	</game>
+	<game name="Makaimura for WonderSwan (1999-07-22)(Bandai)[SWJ-BAN011]">
+		<description>Makaimura for WonderSwan (1999-07-22)(Bandai)[SWJ-BAN011]</description>
+		<rom name="Makaimura for WonderSwan (1999-07-22)(Bandai)[SWJ-BAN011].bin" size="2097152" crc="00b31fbb" md5="f06beaff2703728baa8dddc0ddeb7094" sha1="5eaeab859e5f647fac354dad285a311387ea126b"/>
+	</game>
+	<game name="Makaimura for WonderSwan (1999-07-22)(Bandai)[t +6 Sekret][SWJ-BAN011]">
+		<description>Makaimura for WonderSwan (1999-07-22)(Bandai)[t +6 Sekret][SWJ-BAN011]</description>
+		<rom name="Makaimura for WonderSwan (1999-07-22)(Bandai)[t +6 Sekret][SWJ-BAN011].bin" size="2097152" crc="b6ee35c8" md5="77b2293ec6bd3dcadf1bc563f04f59ca" sha1="0b867d04e24eb6948707d474f5d2fbc38d3f0da9"/>
+	</game>
+	<game name="Medarot Perfect Edition - Kabuto Version (1999-05-04)(Imagineer)[SWJ-MGA001]">
+		<description>Medarot Perfect Edition - Kabuto Version (1999-05-04)(Imagineer)[SWJ-MGA001]</description>
+		<rom name="Medarot Perfect Edition - Kabuto Version (1999-05-04)(Imagineer)[SWJ-MGA001].bin" size="1048576" crc="12fb8b28" md5="893ac7863337a65c919780b41bc52406" sha1="509e5748e5efdfb56093c78ae886153dd1838215"/>
+	</game>
+	<game name="Medarot Perfect Edition - Kuwagata Version (1999-05-04)(Imagineer)[SWJ-MGA002]">
+		<description>Medarot Perfect Edition - Kuwagata Version (1999-05-04)(Imagineer)[SWJ-MGA002]</description>
+		<rom name="Medarot Perfect Edition - Kuwagata Version (1999-05-04)(Imagineer)[SWJ-MGA002].bin" size="1048576" crc="2b40745d" md5="d8a29d331e9ba86609c75a4aedf9c269" sha1="315061e4739e947175d6ad7f006498cd61a33f8c"/>
+	</game>
+	<game name="Meitantei Conan - Majutsushi no Chousenjou! (1999-08-05)(Bandai)[SWJ-BAN012]">
+		<description>Meitantei Conan - Majutsushi no Chousenjou! (1999-08-05)(Bandai)[SWJ-BAN012]</description>
+		<rom name="Meitantei Conan - Majutsushi no Chousenjou! (1999-08-05)(Bandai)[SWJ-BAN012].bin" size="1048576" crc="92fbf7fb" md5="98e88544d8b7df359e37bf2c17dd0641" sha1="8f3f97be31f3bd0e6922ab7795aa6f04bc5cfe2a"/>
+	</game>
+	<game name="Meitantei Conan - Nishi no Meitantei Saidai no Kiki! (2000-07-27)(Bandai)[SWJ-BAN027]">
+		<description>Meitantei Conan - Nishi no Meitantei Saidai no Kiki! (2000-07-27)(Bandai)[SWJ-BAN027]</description>
+		<rom name="Meitantei Conan - Nishi no Meitantei Saidai no Kiki! (2000-07-27)(Bandai)[SWJ-BAN027].bin" size="2097152" crc="e226863b" md5="1990a2c04395b08df6181f6c8be2a953" sha1="e5684789e81f9d739010db575022a12a448b5509"/>
+	</game>
+	<game name="Metakomi Theraphy - Nee Kiite! (2000-03-23)(Media Enterprise)[SWJ-KGT006]">
+		<description>Metakomi Theraphy - Nee Kiite! (2000-03-23)(Media Enterprise)[SWJ-KGT006]</description>
+		<rom name="Metakomi Theraphy - Nee Kiite! (2000-03-23)(Media Enterprise)[SWJ-KGT006].bin" size="2097152" crc="a3ead689" md5="a9c86af9db3743595186274b65c93f90" sha1="dc94e17a942acfdc1eb0c38d91bf72460a4bb8f9"/>
+	</game>
+	<game name="Mingle Magnet (1999-11-02)(HAL)[SWJ-HAL002]">
+		<description>Mingle Magnet (1999-11-02)(HAL)[SWJ-HAL002]</description>
+		<rom name="Mingle Magnet (1999-11-02)(HAL)[SWJ-HAL002].bin" size="524288" crc="9baac7bb" md5="555bee0c37a0726d8e8646a290de137f" sha1="c7230ef709f6ceaef9a220541c8cdc05c0cd549f"/>
+	</game>
+	<game name="Mobile Suit Gundam MSVS (1999-09-26)(Bandai)[SWJ-BAN015]">
+		<description>Mobile Suit Gundam MSVS (1999-09-26)(Bandai)[SWJ-BAN015]</description>
+		<rom name="Mobile Suit Gundam MSVS (1999-09-26)(Bandai)[SWJ-BAN015].bin" size="2097152" crc="53b9fef8" md5="3ad90f3b8fdb3f2f5a7769e42ebc0792" sha1="2688ca67ac31ce3d5c3523b0e11cad55e70fa257"/>
+	</game>
+	<game name="Moero!! Pro Yakyuu Rookies (2000-03-30)(Jaleco)[SWJ-JLC002]">
+		<description>Moero!! Pro Yakyuu Rookies (2000-03-30)(Jaleco)[SWJ-JLC002]</description>
+		<rom name="Moero!! Pro Yakyuu Rookies (2000-03-30)(Jaleco)[SWJ-JLC002].bin" size="1048576" crc="eb995e86" md5="ff73a924c6e7d5190be8a9c749b4c9fd" sha1="e88e659cc04fc08a04b8c881f62fe086c5cdab06"/>
+	</game>
+	<game name="Morita Shougi (1999-12-22)(Yuki Enterprise)[o][SWJ-YKE001]">
+		<description>Morita Shougi (1999-12-22)(Yuki Enterprise)[o][SWJ-YKE001]</description>
+		<rom name="Morita Shougi (1999-12-22)(Yuki Enterprise)[o][SWJ-YKE001].bin" size="1048576" crc="d675c265" md5="9472518275eaf9f3dedca8b59e2fa97f" sha1="3ce41c90cfc1d53a89ade2c88e0b16cdc92c0268"/>
+	</game>
+	<game name="Morita Shougi (1999-12-22)(Yuki Enterprise)[SWJ-YKE001]">
+		<description>Morita Shougi (1999-12-22)(Yuki Enterprise)[SWJ-YKE001]</description>
+		<rom name="Morita Shougi (1999-12-22)(Yuki Enterprise)[SWJ-YKE001].bin" size="524288" crc="b159c30d" md5="6921f261211c9c01a9f6fb9ba646d3f8" sha1="d70fbc6be9a9a0f12cea8a9f7c98aa415e41aafd"/>
+	</game>
+	<game name="Nazo Ou Pocket (1999-11-18)(Bandai Visual)[f EEPROM][SWJ-BVL001]">
+		<description>Nazo Ou Pocket (1999-11-18)(Bandai Visual)[f EEPROM][SWJ-BVL001]</description>
+		<rom name="Nazo Ou Pocket (1999-11-18)(Bandai Visual)[f EEPROM][SWJ-BVL001].bin" size="1048576" crc="8d176482" md5="ec96b886eb2bceaa242df8ea1b280146" sha1="9c841bb131c106e3ee2311dea90f60b302941047"/>
+	</game>
+	<game name="Nazo Ou Pocket (1999-11-18)(Bandai Visual)[SWJ-BVL001]">
+		<description>Nazo Ou Pocket (1999-11-18)(Bandai Visual)[SWJ-BVL001]</description>
+		<rom name="Nazo Ou Pocket (1999-11-18)(Bandai Visual)[SWJ-BVL001].bin" size="1048576" crc="4ed8820c" md5="5e06ad2f0c65d68a124542ddfffdff37" sha1="b358c65bae818c4b3de6bf668d16c311534036c2"/>
+	</game>
+	<game name="Neon Genesis Evangelion - Shito Ikusei (1999-07-22)(Bandai)[SWJ-BAN00E]">
+		<description>Neon Genesis Evangelion - Shito Ikusei (1999-07-22)(Bandai)[SWJ-BAN00E]</description>
+		<rom name="Neon Genesis Evangelion - Shito Ikusei (1999-07-22)(Bandai)[SWJ-BAN00E].bin" size="2097152" crc="bf8d9212" md5="0215c4b8a395f6fcf8f5b07605eae08b" sha1="ae31488cee1c91f383efbe3083b4abec092dda36"/>
+	</game>
+	<game name="Nice On (1999-04-08)(Sammy)[f EEPROM][SWJ-SUM002]">
+		<description>Nice On (1999-04-08)(Sammy)[f EEPROM][SWJ-SUM002]</description>
+		<rom name="Nice On (1999-04-08)(Sammy)[f EEPROM][SWJ-SUM002].bin" size="1048576" crc="7638a3db" md5="109be0743c628a0c85145acbfdb3dea6" sha1="72a412c70f4a11a1df24ed47aacfd79ab1277b43"/>
+	</game>
+	<game name="Nice On (1999-04-08)(Sammy)[SWJ-SUM002]">
+		<description>Nice On (1999-04-08)(Sammy)[SWJ-SUM002]</description>
+		<rom name="Nice On (1999-04-08)(Sammy)[SWJ-SUM002].bin" size="1048576" crc="b5dbcf12" md5="4b33b1f24f05300c1504f1d9b92d4361" sha1="6a479ee45e69cd3d6cc6cdda5a60eff3077953b0"/>
+	</game>
+	<game name="Nippon Pro Mahjong Renmei Kounin Tetsuman (1999-07-15)(Naxat)[SWJ-KGT001]">
+		<description>Nippon Pro Mahjong Renmei Kounin Tetsuman (1999-07-15)(Naxat)[SWJ-KGT001]</description>
+		<rom name="Nippon Pro Mahjong Renmei Kounin Tetsuman (1999-07-15)(Naxat)[SWJ-KGT001].bin" size="1048576" crc="44b3e67c" md5="4aa43895710a9fa5a96b9cd1da46348f" sha1="4eefc5a51008c2ab33e8d04064ec9bdcbc03d036"/>
+	</game>
+	<game name="Nobunaga no Yabou (1999-03-11)(Koei)[o][SWJ-KEX001]">
+		<description>Nobunaga no Yabou (1999-03-11)(Koei)[o][SWJ-KEX001]</description>
+		<rom name="Nobunaga no Yabou (1999-03-11)(Koei)[o][SWJ-KEX001].bin" size="1048576" crc="04531734" md5="d8bb5304f1a68a07e0aca535555171d5" sha1="785ebb7528f5268e1a1fc10dffbe95ccf6d39560"/>
+	</game>
+	<game name="Nobunaga no Yabou (1999-03-11)(Koei)[SWJ-KEX001]">
+		<description>Nobunaga no Yabou (1999-03-11)(Koei)[SWJ-KEX001]</description>
+		<rom name="Nobunaga no Yabou (1999-03-11)(Koei)[SWJ-KEX001].bin" size="524288" crc="c1734309" md5="65f4237f0ca1522e4371771ce03695ca" sha1="b143cece1e7db9d9f660f4e9ca3a95b02a71dcd3"/>
+	</game>
+	<game name="Ou-chan no Oekaki Logic (2000-01-06)(Sun Soft)[f EEPROM][SWJ-SUN004]">
+		<description>Ou-chan no Oekaki Logic (2000-01-06)(Sun Soft)[f EEPROM][SWJ-SUN004]</description>
+		<rom name="Ou-chan no Oekaki Logic (2000-01-06)(Sun Soft)[f EEPROM][SWJ-SUN004].bin" size="524288" crc="a16d1d16" md5="ffabd1033dedf3a81f9464271e5b0097" sha1="b52424843f13bbf5708b20f450b22ac526ab27ec"/>
+	</game>
+	<game name="Ou-chan no Oekaki Logic (2000-01-06)(Sun Soft)[SWJ-SUN004]">
+		<description>Ou-chan no Oekaki Logic (2000-01-06)(Sun Soft)[SWJ-SUN004]</description>
+		<rom name="Ou-chan no Oekaki Logic (2000-01-06)(Sun Soft)[SWJ-SUN004].bin" size="524288" crc="631bd97a" md5="5e92e316ce0998edbec00b31a6f2e112" sha1="0f73d3112b1184f74e728cf1252ffbee6a146fa6"/>
+	</game>
+	<game name="Pocket Fighter (2000-04-06)(Bandai)[SWJ-BAN00A]">
+		<description>Pocket Fighter (2000-04-06)(Bandai)[SWJ-BAN00A]</description>
+		<rom name="Pocket Fighter (2000-04-06)(Bandai)[SWJ-BAN00A].bin" size="2097152" crc="35361250" md5="e79dddc7db77ad96c52b0b7690f8c1b1" sha1="fb8d0f4e58a4192989ec71eb6e392d182aaa3eec"/>
+	</game>
+	<game name="Pro Mahjong Kiwame (1999-10-07)(Athena)[SWJ-ATN001]">
+		<description>Pro Mahjong Kiwame (1999-10-07)(Athena)[SWJ-ATN001]</description>
+		<rom name="Pro Mahjong Kiwame (1999-10-07)(Athena)[SWJ-ATN001].bin" size="1048576" crc="90f7e6d6" md5="a2e4f77f749fb0a95db697903d42e718" sha1="32013a7a745a3aa2fd63cc9427c5e1f2635655ed"/>
+	</game>
+	<game name="Puyo Puyo Tsuu (1999-04-11)(Bandai)[SWJ-BAN004]">
+		<description>Puyo Puyo Tsuu (1999-04-11)(Bandai)[SWJ-BAN004]</description>
+		<rom name="Puyo Puyo Tsuu (1999-04-11)(Bandai)[SWJ-BAN004].bin" size="1048576" crc="5a41a7ba" md5="e5394d336231c99e9c93f1f41e80a401" sha1="d72c1221c2ce3e281a0ee288a3d079aa8e1b714b"/>
+	</game>
+	<game name="Puzzle Bobble (1999-07-01)(Sun Soft)[f EEPROM][SWJ-SUN003]">
+		<description>Puzzle Bobble (1999-07-01)(Sun Soft)[f EEPROM][SWJ-SUN003]</description>
+		<rom name="Puzzle Bobble (1999-07-01)(Sun Soft)[f EEPROM][SWJ-SUN003].bin" size="524288" crc="6a05c838" md5="40ce913e39052906021c1df52e845ca8" sha1="6a571d151f8df410953a50638cb8dc97d8a7bc39"/>
+	</game>
+	<game name="Puzzle Bobble (1999-07-01)(Sun Soft)[SWJ-SUN003]">
+		<description>Puzzle Bobble (1999-07-01)(Sun Soft)[SWJ-SUN003]</description>
+		<rom name="Puzzle Bobble (1999-07-01)(Sun Soft)[SWJ-SUN003].bin" size="524288" crc="302499b9" md5="24a648ae0d831af510b7911769361c42" sha1="5e7dabb66b0ca580481aa79ee8b8a5b0c6ce6592"/>
+	</game>
+	<game name="Rainbow Islands - Putty's Party (2000-06-29)(Mega House)[SWJ-MGH003]">
+		<description>Rainbow Islands - Putty's Party (2000-06-29)(Mega House)[SWJ-MGH003]</description>
+		<rom name="Rainbow Islands - Putty's Party (2000-06-29)(Mega House)[SWJ-MGH003].bin" size="2097152" crc="8f8608ad" md5="854bd4105d726bf7e76fef8393d6ead0" sha1="759deb79a3fc3befed705d7264e4b88adbadacc7"/>
+	</game>
+	<game name="Ring Infinity (2000-08-10)(Bandai)[f EEPROM][SWJ-KDK001 or SWJ-KDK002]">
+		<description>Ring Infinity (2000-08-10)(Bandai)[f EEPROM][SWJ-KDK001 or SWJ-KDK002]</description>
+		<rom name="Ring Infinity (2000-08-10)(Bandai)[f EEPROM][SWJ-KDK001 or SWJ-KDK002].bin" size="4194304" crc="ac8db6a3" md5="817c1b326ddf5661d31626902d579753" sha1="d39928cecb73e073f11e296727adf5bba9443186"/>
+	</game>
+	<game name="Ring Infinity (2000-08-10)(Bandai)[SWJ-KDK001 or SWJ-KDK002]">
+		<description>Ring Infinity (2000-08-10)(Bandai)[SWJ-KDK001 or SWJ-KDK002]</description>
+		<rom name="Ring Infinity (2000-08-10)(Bandai)[SWJ-KDK001 or SWJ-KDK002].bin" size="4194304" crc="14adbd4b" md5="ffee38c08b4e76cf68420f2e22973284" sha1="9896d93c97381dc06b6f044de6c9bd112ca0c94b"/>
+	</game>
+	<game name="Robot Works (2000-12-07)(Bandai)[WonderBorg][SWJ-BAN033]">
+		<description>Robot Works (2000-12-07)(Bandai)[WonderBorg][SWJ-BAN033]</description>
+		<rom name="Robot Works (2000-12-07)(Bandai)[WonderBorg][SWJ-BAN033].bin" size="1048576" crc="6adf0e32" md5="6ca5dff7d8a86279591fbb14324e7c3d" sha1="4d4d4a3fde6b1dbbc8f008fbd035fb59624dfba7"/>
+	</game>
+	<game name="Robot Works (2001)(Bandai)(AS)">
+		<description>Robot Works (2001)(Bandai)(AS)</description>
+		<rom name="Robot Works (2001)(Bandai)(AS).bin" size="1048576" crc="be6be690" md5="dbaff79d3a241fba6af06cf5b7c935b8" sha1="2117ed92e8cb4ae61868535f1d4d16851b480890"/>
+	</game>
+	<game name="Rockman &amp; Forte - Mirai Kara no Chousensha (1999-10-28)(Bandai)[f SRAM Sekret][t +5 Sekret][SWJ-BAN013]">
+		<description>Rockman &amp; Forte - Mirai Kara no Chousensha (1999-10-28)(Bandai)[f SRAM Sekret][t +5 Sekret][SWJ-BAN013]</description>
+		<rom name="Rockman &amp; Forte - Mirai Kara no Chousensha (1999-10-28)(Bandai)[f SRAM Sekret][t +5 Sekret][SWJ-BAN013].bin" size="2097152" crc="4288fca5" md5="4d6e99dc610d6db2abbea92abe011269" sha1="7fff4d4143da31c73a4b2ffde0dfcd5286fa1c24"/>
+	</game>
+	<game name="Rockman &amp; Forte - Mirai Kara no Chousensha (1999-10-28)(Bandai)[SWJ-BAN013]">
+		<description>Rockman &amp; Forte - Mirai Kara no Chousensha (1999-10-28)(Bandai)[SWJ-BAN013]</description>
+		<rom name="Rockman &amp; Forte - Mirai Kara no Chousensha (1999-10-28)(Bandai)[SWJ-BAN013].bin" size="2097152" crc="cd206a9e" md5="523004d48e9d606e1557c2c57af6790b" sha1="9f8829aa8ea523e8370cbb2acd2acce056bb7958"/>
+	</game>
+	<game name="San Goku Shi for WonderSwan (1999-04-01)(Koei)[SWJ-KEX002]">
+		<description>San Goku Shi for WonderSwan (1999-04-01)(Koei)[SWJ-KEX002]</description>
+		<rom name="San Goku Shi for WonderSwan (1999-04-01)(Koei)[SWJ-KEX002].bin" size="524288" crc="e385ee88" md5="9434714e17547ebf3a67baf63c8a6d04" sha1="d064b94f31b15564c9a3dbd3a68690244ea043ac"/>
+	</game>
+	<game name="San Goku Shi II for WonderSwan (2000-04-06)(Koei)[SWJ-KEX004]">
+		<description>San Goku Shi II for WonderSwan (2000-04-06)(Koei)[SWJ-KEX004]</description>
+		<rom name="San Goku Shi II for WonderSwan (2000-04-06)(Koei)[SWJ-KEX004].bin" size="524288" crc="812b720d" md5="112fa6d88ac250257930568c2ce3d82d" sha1="59d904149c3f405357b2715468d509095388a194"/>
+	</game>
+	<game name="SD Gundam - Emotional Jam (1999-05-27)(Bandai)[SWJ-BAN006]">
+		<description>SD Gundam - Emotional Jam (1999-05-27)(Bandai)[SWJ-BAN006]</description>
+		<rom name="SD Gundam - Emotional Jam (1999-05-27)(Bandai)[SWJ-BAN006].bin" size="2097152" crc="ae83f873" md5="6620592b79b06d1857b449508fe1d557" sha1="ae54a1f8916a2d37a1e0c82c5a9b5d8fe0eeae51"/>
+	</game>
+	<game name="SD Gundam G-Generation - Gather Beat (2000-07-13)(Bandai)[SWJ-BAN030]">
+		<description>SD Gundam G-Generation - Gather Beat (2000-07-13)(Bandai)[SWJ-BAN030]</description>
+		<rom name="SD Gundam G-Generation - Gather Beat (2000-07-13)(Bandai)[SWJ-BAN030].bin" size="4194304" crc="e4eb3ab1" md5="39a4626ba187933297b3155180147778" sha1="5e5db8b066e1b41c5c12a2d4ffa97b73ed6c3f03"/>
+	</game>
+	<game name="SD Gundam Gashapon Senki - Episode 1 (1999-12-29)(Bandai)[SWJ-BAN020]">
+		<description>SD Gundam Gashapon Senki - Episode 1 (1999-12-29)(Bandai)[SWJ-BAN020]</description>
+		<rom name="SD Gundam Gashapon Senki - Episode 1 (1999-12-29)(Bandai)[SWJ-BAN020].bin" size="1048576" crc="21eb4c59" md5="aff7a473a087e38a1a1a7d5f71ffc426" sha1="e6899de5b53f73c8978e3330dca0f2daaf95f140"/>
+	</game>
+	<game name="Senkaiden - TV Animation Senkaiden Houshin Engi Yori (2000-02-24)(Bandai)[SWJ-BAN023]">
+		<description>Senkaiden - TV Animation Senkaiden Houshin Engi Yori (2000-02-24)(Bandai)[SWJ-BAN023]</description>
+		<rom name="Senkaiden - TV Animation Senkaiden Houshin Engi Yori (2000-02-24)(Bandai)[SWJ-BAN023].bin" size="2097152" crc="07a3dd46" md5="0230c5ed802e72a9c6bb690e262a302b" sha1="fc8b0b9b7efeac54812e7ae54153b7ae0cb9c12f"/>
+	</game>
+	<game name="Sennou Millennium (2000-03-16)(Bandai)[f EEPROM][SWJ-BAN025]">
+		<description>Sennou Millennium (2000-03-16)(Bandai)[f EEPROM][SWJ-BAN025]</description>
+		<rom name="Sennou Millennium (2000-03-16)(Bandai)[f EEPROM][SWJ-BAN025].bin" size="1048576" crc="3ef0b0c4" md5="d134385d79e6f07f9ed58e5d0b9b782a" sha1="7e1c50312fa78e8bce8a9a3c23f2ddd4f71e4fd6"/>
+	</game>
+	<game name="Sennou Millennium (2000-03-16)(Bandai)[SWJ-BAN025]">
+		<description>Sennou Millennium (2000-03-16)(Bandai)[SWJ-BAN025]</description>
+		<rom name="Sennou Millennium (2000-03-16)(Bandai)[SWJ-BAN025].bin" size="1048576" crc="301436ac" md5="e12db3065b59e51bae7bf86053dd5782" sha1="708288e70b3186f6c0ef07acaef1b50fe6b7ab22"/>
+	</game>
+	<game name="Shanghai Pocket (1999-04-01)(Sun Soft)[SWJ-SUN001]">
+		<description>Shanghai Pocket (1999-04-01)(Sun Soft)[SWJ-SUN001]</description>
+		<rom name="Shanghai Pocket (1999-04-01)(Sun Soft)[SWJ-SUN001].bin" size="524288" crc="1c489351" md5="37772a59d2fc13b07ba6260b3c4299da" sha1="d64b9b2d567d1cea5960f64e5bdf83d4514446da"/>
+	</game>
+	<game name="Shin Nippon Pro Wrestling Toukon Retsuden (1999-03-04)(Tomy)[f SRAM Sekret][SWJ-TMY001]">
+		<description>Shin Nippon Pro Wrestling Toukon Retsuden (1999-03-04)(Tomy)[f SRAM Sekret][SWJ-TMY001]</description>
+		<rom name="Shin Nippon Pro Wrestling Toukon Retsuden (1999-03-04)(Tomy)[f SRAM Sekret][SWJ-TMY001].bin" size="1048576" crc="6021d9cc" md5="48bbff0e4c9b91bc0dda43f7f049e1de" sha1="28d876a7d1c4d78d4dcd2c644ca37125e625b4a5"/>
+	</game>
+	<game name="Shin Nippon Pro Wrestling Toukon Retsuden (1999-03-04)(Tomy)[SWJ-TMY001]">
+		<description>Shin Nippon Pro Wrestling Toukon Retsuden (1999-03-04)(Tomy)[SWJ-TMY001]</description>
+		<rom name="Shin Nippon Pro Wrestling Toukon Retsuden (1999-03-04)(Tomy)[SWJ-TMY001].bin" size="1048576" crc="5b76f901" md5="91896b3ee0975f58a8cf322a59da85f2" sha1="7324c5939b8b64858c96bd9726f5b5c483a11e22"/>
+	</game>
+	<game name="Shougi Touryuumon (1999-10-28)(Sammy)[o][SWJ-SUM005]">
+		<description>Shougi Touryuumon (1999-10-28)(Sammy)[o][SWJ-SUM005]</description>
+		<rom name="Shougi Touryuumon (1999-10-28)(Sammy)[o][SWJ-SUM005].bin" size="1048576" crc="3ad194eb" md5="f95259c0c48527db0f8a63cb3e9b0527" sha1="0bc88b0affa97225e22c531306e9930ddb8f8905"/>
+	</game>
+	<game name="Shougi Touryuumon (1999-10-28)(Sammy)[SWJ-SUM005]">
+		<description>Shougi Touryuumon (1999-10-28)(Sammy)[SWJ-SUM005]</description>
+		<rom name="Shougi Touryuumon (1999-10-28)(Sammy)[SWJ-SUM005].bin" size="524288" crc="fff1c0d6" md5="60ec0cd7d70b7b518c6e3ee5c251c9f4" sha1="c42339590a6d7864cb4f5728b84c4cce09779f0a"/>
+	</game>
+	<game name="Side Pocket (1999-11-25)(Data East)[SWJ-DTE001]">
+		<description>Side Pocket (1999-11-25)(Data East)[SWJ-DTE001]</description>
+		<rom name="Side Pocket (1999-11-25)(Data East)[SWJ-DTE001].bin" size="1048576" crc="8655269e" md5="496100bcd73fbfa39e473c6ddee190b2" sha1="4a756dab81e0101475dc2e5494270f3df7dac1e6"/>
+	</game>
+	<game name="Slither Link (2000-04-20)(Bandai)[f EEPROM][o][SWJ-BAN029]">
+		<description>Slither Link (2000-04-20)(Bandai)[f EEPROM][o][SWJ-BAN029]</description>
+		<rom name="Slither Link (2000-04-20)(Bandai)[f EEPROM][o][SWJ-BAN029].bin" size="1048576" crc="eaf7f3d9" md5="2f219202cd90ddd8d3ca637e28fb1ad9" sha1="f654144972a1bae0a5334df8d2300020b01ea9b3"/>
+	</game>
+	<game name="Slither Link (2000-04-20)(Bandai)[f EEPROM][SWJ-BAN029]">
+		<description>Slither Link (2000-04-20)(Bandai)[f EEPROM][SWJ-BAN029]</description>
+		<rom name="Slither Link (2000-04-20)(Bandai)[f EEPROM][SWJ-BAN029].bin" size="524288" crc="f6e6fcee" md5="543cc547ebcb875af749ad9f95791815" sha1="7a891083e5f5300bb28ea16a283de3a068611aa0"/>
+	</game>
+	<game name="Slither Link (2000-04-20)(Bandai)[o][SWJ-BAN029]">
+		<description>Slither Link (2000-04-20)(Bandai)[o][SWJ-BAN029]</description>
+		<rom name="Slither Link (2000-04-20)(Bandai)[o][SWJ-BAN029].bin" size="1048576" crc="352a570d" md5="d422d16a28390d395f4c0878c555e52c" sha1="9a087b0e6031e7e5e6d133ac82fecb8faa30816a"/>
+	</game>
+	<game name="Slither Link (2000-04-20)(Bandai)[SWJ-BAN029]">
+		<description>Slither Link (2000-04-20)(Bandai)[SWJ-BAN029]</description>
+		<rom name="Slither Link (2000-04-20)(Bandai)[SWJ-BAN029].bin" size="524288" crc="f00a0330" md5="a8981089beb8c2468576dd7d0843763f" sha1="3e31beaca985ac5041c6e95e0d07f163168e190d"/>
+	</game>
+	<game name="Soccer Yarou! - Challenge the World (1999-08-12)(Coconuts Japan)[o][SWJ-CCJ002]">
+		<description>Soccer Yarou! - Challenge the World (1999-08-12)(Coconuts Japan)[o][SWJ-CCJ002]</description>
+		<rom name="Soccer Yarou! - Challenge the World (1999-08-12)(Coconuts Japan)[o][SWJ-CCJ002].bin" size="1048576" crc="1263da65" md5="5d0ef57b85182dcbe630edda46064cfb" sha1="435f207cce79ad6ac5b564e8a37e0d4395bd3739"/>
+	</game>
+	<game name="Soccer Yarou! - Challenge the World (1999-08-12)(Coconuts Japan)[SWJ-CCJ002]">
+		<description>Soccer Yarou! - Challenge the World (1999-08-12)(Coconuts Japan)[SWJ-CCJ002]</description>
+		<rom name="Soccer Yarou! - Challenge the World (1999-08-12)(Coconuts Japan)[SWJ-CCJ002].bin" size="524288" crc="d7438e58" md5="97679c233601339ef01c40085345bbe9" sha1="6eec04244f4d85807988a2331e7031d0c3549646"/>
+	</game>
+	<game name="Sotsugyou for WonderSwan (1999-12-16)(Bandai Visual)[SWJ-BVL002]">
+		<description>Sotsugyou for WonderSwan (1999-12-16)(Bandai Visual)[SWJ-BVL002]</description>
+		<rom name="Sotsugyou for WonderSwan (1999-12-16)(Bandai Visual)[SWJ-BVL002].bin" size="2097152" crc="f016dfe1" md5="2030ae7ddc9f47307165859d75026f13" sha1="e461762566d529d1b103f119da50353902d180d7"/>
+	</game>
+	<game name="Space Invaders (1999-05-13)(Sun Soft)[SWJ-SUN002]">
+		<description>Space Invaders (1999-05-13)(Sun Soft)[SWJ-SUN002]</description>
+		<rom name="Space Invaders (1999-05-13)(Sun Soft)[SWJ-SUN002].bin" size="1048576" crc="8d83014f" md5="5558b39b21cc90b0b2f0a4358c043eec" sha1="54dd6e3fe81a8a384a0ffdd7a39211a5de9174c7"/>
+	</game>
+	<game name="Super Robot Taisen Compact (1999-04-28)(Banpresto)[SWJ-BPR001]">
+		<description>Super Robot Taisen Compact (1999-04-28)(Banpresto)[SWJ-BPR001]</description>
+		<rom name="Super Robot Taisen Compact (1999-04-28)(Banpresto)[SWJ-BPR001].bin" size="2097152" crc="7021d54f" md5="bd6d4cb18dbd098a797d6c09fad23ccd" sha1="e93d58ab5819992e54223f5d1c4d5aeb6983d6a3"/>
+	</game>
+	<game name="Super Robot Taisen Compact 2 - Dai-1-Bu - Chijou Gekidou Hen (2000-03-23)(Banpresto)[SWJ-BPR003]">
+		<description>Super Robot Taisen Compact 2 - Dai-1-Bu - Chijou Gekidou Hen (2000-03-23)(Banpresto)[SWJ-BPR003]</description>
+		<rom name="Super Robot Taisen Compact 2 - Dai-1-Bu - Chijou Gekidou Hen (2000-03-23)(Banpresto)[SWJ-BPR003].bin" size="4194304" crc="782877bc" md5="af355adec937a9db1d447980bf85aa2e" sha1="e6911e5bb0a742ba299e05b20ee81f2faa4854a5"/>
+	</game>
+	<game name="Super Robot Taisen Compact 2 - Dai-2-Bu - Uchuu Gekishin Hen (2000-09-14)(Banpresto)[SWJ-BPR006]">
+		<description>Super Robot Taisen Compact 2 - Dai-2-Bu - Uchuu Gekishin Hen (2000-09-14)(Banpresto)[SWJ-BPR006]</description>
+		<rom name="Super Robot Taisen Compact 2 - Dai-2-Bu - Uchuu Gekishin Hen (2000-09-14)(Banpresto)[SWJ-BPR006].bin" size="4194304" crc="ecbb46de" md5="bb1cf0d7237d7ae2c8aac562fc62906d" sha1="6014ac0b8978e710f26c9cc41180cdf788584743"/>
+	</game>
+	<game name="Super Robot Taisen Compact 2 - Dai-3-Bu - Ginga Kessen Hen (2001-01-28)(Banpresto)[SWJ-BPR007]">
+		<description>Super Robot Taisen Compact 2 - Dai-3-Bu - Ginga Kessen Hen (2001-01-28)(Banpresto)[SWJ-BPR007]</description>
+		<rom name="Super Robot Taisen Compact 2 - Dai-3-Bu - Ginga Kessen Hen (2001-01-28)(Banpresto)[SWJ-BPR007].bin" size="4194304" crc="0b0f8981" md5="44f63dcb11c916df900a128a6f2e3839" sha1="d24d8cea57c5c487e877eaa523eefb0dd184556d"/>
+	</game>
+	<game name="Tanjou Debut for WonderSwan (2000-02-24)(Bandai Visual)[SWJ-BVL003]">
+		<description>Tanjou Debut for WonderSwan (2000-02-24)(Bandai Visual)[SWJ-BVL003]</description>
+		<rom name="Tanjou Debut for WonderSwan (2000-02-24)(Bandai Visual)[SWJ-BVL003].bin" size="2097152" crc="8b74f59a" md5="c80ab865bc9a93e946354f41815e93c4" sha1="2f35d250b8ddeb98ca3a2704a4ad85713f4c71b0"/>
+	</game>
+	<game name="Tare Panda no GunPey (1999-12-09)(Bandai)[f EEPROM][SWJ-BAN01F]">
+		<description>Tare Panda no GunPey (1999-12-09)(Bandai)[f EEPROM][SWJ-BAN01F]</description>
+		<rom name="Tare Panda no GunPey (1999-12-09)(Bandai)[f EEPROM][SWJ-BAN01F].bin" size="1048576" crc="d387c363" md5="fc28f7d719928da258e01fbe513aeab6" sha1="9ca2bbfc60d6f359b049af16859073f6227a7f89"/>
+	</game>
+	<game name="Tare Panda no GunPey (1999-12-09)(Bandai)[f SRAM Sekret][SWJ-BAN01F]">
+		<description>Tare Panda no GunPey (1999-12-09)(Bandai)[f SRAM Sekret][SWJ-BAN01F]</description>
+		<rom name="Tare Panda no GunPey (1999-12-09)(Bandai)[f SRAM Sekret][SWJ-BAN01F].bin" size="1048576" crc="2fcf1443" md5="7c0813a417452338e95b16287029ec21" sha1="a9ca9ffd0ddf9641040c73d2a17d30cae36ad332"/>
+	</game>
+	<game name="Tare Panda no GunPey (1999-12-09)(Bandai)[SWJ-BAN01F]">
+		<description>Tare Panda no GunPey (1999-12-09)(Bandai)[SWJ-BAN01F]</description>
+		<rom name="Tare Panda no GunPey (1999-12-09)(Bandai)[SWJ-BAN01F].bin" size="1048576" crc="a5643aa3" md5="c21571f057d05bb01db2ece8517b121d" sha1="9622c65c939f05a9dfae288919ec5bd15c348f14"/>
+	</game>
+	<game name="Tekken Card Challenge (1999-06-17)(Namco)[SWJ-BAN00D]">
+		<description>Tekken Card Challenge (1999-06-17)(Namco)[SWJ-BAN00D]</description>
+		<rom name="Tekken Card Challenge (1999-06-17)(Namco)[SWJ-BAN00D].bin" size="1048576" crc="e7c608e5" md5="1e8bca5c31f62a9dd1121884351a2885" sha1="96a9ce5e56dc0c9648027ad4454e6f35e88d9a07"/>
+	</game>
+	<game name="Terrors (1999-08-05)(Bandai)[SWJ-BAN014 or SWJ-BAN018]">
+		<description>Terrors (1999-08-05)(Bandai)[SWJ-BAN014 or SWJ-BAN018]</description>
+		<rom name="Terrors (1999-08-05)(Bandai)[SWJ-BAN014 or SWJ-BAN018].bin" size="4194304" crc="ef5b6b82" md5="b03441b7b71af24450da7f06b4aac718" sha1="7148d750f12b5da9a0efd99f5a5a7ccadecbdf60"/>
+	</game>
+	<game name="Tetsujin 28 Gou (1999-12-22)(Mega House)[f EEPROM][SWJ-MGH001]">
+		<description>Tetsujin 28 Gou (1999-12-22)(Mega House)[f EEPROM][SWJ-MGH001]</description>
+		<rom name="Tetsujin 28 Gou (1999-12-22)(Mega House)[f EEPROM][SWJ-MGH001].bin" size="4194304" crc="82a07866" md5="fb563a9596a843372da0bf2dd61a4ac4" sha1="bba38b3ff29a8dde0180c384c43cb69a48d22f6a"/>
+	</game>
+	<game name="Tetsujin 28 Gou (1999-12-22)(Mega House)[SWJ-MGH001]">
+		<description>Tetsujin 28 Gou (1999-12-22)(Mega House)[SWJ-MGH001]</description>
+		<rom name="Tetsujin 28 Gou (1999-12-22)(Mega House)[SWJ-MGH001].bin" size="4194304" crc="6f304dca" md5="8b8ea655dbea4a3152b300126556404c" sha1="65c4c6aaa36328bba5d56419af59af5d3420ed78"/>
+	</game>
+	<game name="Time Bokan Series - Bokan Densetsu - Butamo Odaterya Doronbou (2000-04-27)(Banpresto)[SWJ-BPR005]">
+		<description>Time Bokan Series - Bokan Densetsu - Butamo Odaterya Doronbou (2000-04-27)(Banpresto)[SWJ-BPR005]</description>
+		<rom name="Time Bokan Series - Bokan Densetsu - Butamo Odaterya Doronbou (2000-04-27)(Banpresto)[SWJ-BPR005].bin" size="1048576" crc="7da6acb9" md5="9a41ed23b82a090ec4508d3725e19f9b" sha1="ad77d2e8429d5ed926d514d926050086f4edbeee"/>
+	</game>
+	<game name="Tokyo Majin Gakuen - Fuju Houroku (2000-10-12)(Asmik Ace)[SWJ-AAE001]">
+		<description>Tokyo Majin Gakuen - Fuju Houroku (2000-10-12)(Asmik Ace)[SWJ-AAE001]</description>
+		<rom name="Tokyo Majin Gakuen - Fuju Houroku (2000-10-12)(Asmik Ace)[SWJ-AAE001].bin" size="8388608" crc="91117d1b" md5="a002e1af08611506555e9a2fe559eddc" sha1="866c67737a4fbb5f09a0b13bbdb89397bcab1f55"/>
+	</game>
+	<game name="Trump Collection - Bottom-Up Teki Trump Seikatsu (1999-07-01)(Bottom Up)[o][SWJ-BTM001]">
+		<description>Trump Collection - Bottom-Up Teki Trump Seikatsu (1999-07-01)(Bottom Up)[o][SWJ-BTM001]</description>
+		<rom name="Trump Collection - Bottom-Up Teki Trump Seikatsu (1999-07-01)(Bottom Up)[o][SWJ-BTM001].bin" size="1048576" crc="c283ec5f" md5="c1c2fc60d813556480226d45d62121a1" sha1="9313e6d7090e91cca0304dc450b2f2f87329ae7a"/>
+	</game>
+	<game name="Trump Collection - Bottom-Up Teki Trump Seikatsu (1999-07-01)(Bottom Up)[SWJ-BTM001]">
+		<description>Trump Collection - Bottom-Up Teki Trump Seikatsu (1999-07-01)(Bottom Up)[SWJ-BTM001]</description>
+		<rom name="Trump Collection - Bottom-Up Teki Trump Seikatsu (1999-07-01)(Bottom Up)[SWJ-BTM001].bin" size="524288" crc="07a3b862" md5="1601867a338b41a2ea973597b87b634d" sha1="ab3c925bf1bfd36403335af0c0365be8a2950ca8"/>
+	</game>
+	<game name="Trump Collection 2 - Bottom-Up Teki Sekaiisshuu no Tabi (2000-09-28)(Bottom Up)[SWJ-BTM002]">
+		<description>Trump Collection 2 - Bottom-Up Teki Sekaiisshuu no Tabi (2000-09-28)(Bottom Up)[SWJ-BTM002]</description>
+		<rom name="Trump Collection 2 - Bottom-Up Teki Sekaiisshuu no Tabi (2000-09-28)(Bottom Up)[SWJ-BTM002].bin" size="1048576" crc="64aaf392" md5="523da6fd9e07e6e1d1bee62be04d7b1e" sha1="b25ff8fc79168e439ba913a2cea6195094be9ac2"/>
+	</game>
+	<game name="Turntablist - DJ Battle (1999-11-25)(Bandai)[f EEPROM][SWJ-BAN017]">
+		<description>Turntablist - DJ Battle (1999-11-25)(Bandai)[f EEPROM][SWJ-BAN017]</description>
+		<rom name="Turntablist - DJ Battle (1999-11-25)(Bandai)[f EEPROM][SWJ-BAN017].bin" size="4194304" crc="a07482ac" md5="7f3ef913c0d3e8089ee8e96fb36f659a" sha1="e1bcf9b91d1ea914e227a616481455fc9661cd8e"/>
+	</game>
+	<game name="Turntablist - DJ Battle (1999-11-25)(Bandai)[SWJ-BAN017]">
+		<description>Turntablist - DJ Battle (1999-11-25)(Bandai)[SWJ-BAN017]</description>
+		<rom name="Turntablist - DJ Battle (1999-11-25)(Bandai)[SWJ-BAN017].bin" size="4194304" crc="0d5171f0" md5="144b29a9997c016fb4b2bb05e3965cfe" sha1="858f1f57b5522a1701cc8a0abae43cec948e26a6"/>
+	</game>
+	<game name="Uchuu Senkan Yamato (2001-02-08)(Bandai)[b][SWJ-BANC09]">
+		<description>Uchuu Senkan Yamato (2001-02-08)(Bandai)[b][SWJ-BANC09]</description>
+		<rom name="Uchuu Senkan Yamato (2001-02-08)(Bandai)[b][SWJ-BANC09].bin" size="4194304" crc="d56b4fd8" md5="ea4d48967eb611e9aba3c7d08c236003" sha1="b9b9919d6b6f7a4a67accb649ced2f9a869310fb"/>
+	</game>
+	<game name="Umizuri ni Ikou! (1999-04-01)(Coconuts Japan)[SWJ-CCJ001]">
+		<description>Umizuri ni Ikou! (1999-04-01)(Coconuts Japan)[SWJ-CCJ001]</description>
+		<rom name="Umizuri ni Ikou! (1999-04-01)(Coconuts Japan)[SWJ-CCJ001].bin" size="524288" crc="86b56511" md5="bce82b55b44a7d9b8eeb06cdcc884968" sha1="4f739292d11a45490851eaf40c0a7081824ad75a"/>
+	</game>
+	<game name="Uzumaki - Denshi Kaiki Hen (2000-02-03)(Omega Micott)[f SRAM Sekret][SWJ-OMM001]">
+		<description>Uzumaki - Denshi Kaiki Hen (2000-02-03)(Omega Micott)[f SRAM Sekret][SWJ-OMM001]</description>
+		<rom name="Uzumaki - Denshi Kaiki Hen (2000-02-03)(Omega Micott)[f SRAM Sekret][SWJ-OMM001].bin" size="2097152" crc="89cbaa7c" md5="a728cfcbfbecf933c652f613d222ad99" sha1="0398c08599a2fd2e3b71a2f25ea494907cb0e214"/>
+	</game>
+	<game name="Uzumaki - Denshi Kaiki Hen (2000-02-03)(Omega Micott)[SWJ-OMM001]">
+		<description>Uzumaki - Denshi Kaiki Hen (2000-02-03)(Omega Micott)[SWJ-OMM001]</description>
+		<rom name="Uzumaki - Denshi Kaiki Hen (2000-02-03)(Omega Micott)[SWJ-OMM001].bin" size="2097152" crc="812020ef" md5="eacb689de3482cf6e6da8befc7da65b2" sha1="4c8166e0632bdb8c098d586a7b1522ed7b63b5f7"/>
+	</game>
+	<game name="Vaitz Blade (1999-06-24)(Bandai)[SWJ-BAN00C]">
+		<description>Vaitz Blade (1999-06-24)(Bandai)[SWJ-BAN00C]</description>
+		<rom name="Vaitz Blade (1999-06-24)(Bandai)[SWJ-BAN00C].bin" size="4194304" crc="8fc9e145" md5="49a2932821583fa7d3ed07312b47ab32" sha1="cfb877f0988920c8fe4da5cdd7583197799df621"/>
+	</game>
+	<game name="Wasabi Produce - Street Dancer (2000-04-27)(Bandai)[SWJ-BAN028]">
+		<description>Wasabi Produce - Street Dancer (2000-04-27)(Bandai)[SWJ-BAN028]</description>
+		<rom name="Wasabi Produce - Street Dancer (2000-04-27)(Bandai)[SWJ-BAN028].bin" size="4194304" crc="1860b655" md5="da0eb7a02b6a5250047eef22deba5c39" sha1="672cfc0e4547b2721d11b67476391b6e6cca81ae"/>
+	</game>
+	<game name="Wonder Stadium '99 (1999-09-30)(Bandai)[SWJ-BAN019]">
+		<description>Wonder Stadium '99 (1999-09-30)(Bandai)[SWJ-BAN019]</description>
+		<rom name="Wonder Stadium '99 (1999-09-30)(Bandai)[SWJ-BAN019].bin" size="1048576" crc="e252919d" md5="cbd1f30650653d8ac845915bc2aea608" sha1="bb138765346d9f4d77615444d090b1328a59818a"/>
+	</game>
+	<game name="Wonder Stadium (1999-03-11)(Namco)[SWJ-BAN003]">
+		<description>Wonder Stadium (1999-03-11)(Namco)[SWJ-BAN003]</description>
+		<rom name="Wonder Stadium (1999-03-11)(Namco)[SWJ-BAN003].bin" size="1048576" crc="23bc0309" md5="56c33436c90f652e02092d064287b5ce" sha1="cb9454a8277bb2a7d5a6e3b4ddc84194fcbb1231"/>
+	</game>
+	<game name="WonderSwan Handy Sonar (1999-05-13)(Bandai)[SWJ-BAN00F]">
+		<description>WonderSwan Handy Sonar (1999-05-13)(Bandai)[SWJ-BAN00F]</description>
+		<rom name="WonderSwan Handy Sonar (1999-05-13)(Bandai)[SWJ-BAN00F].bin" size="1048576" crc="2ab9852d" md5="5db558122eabe25b930d57c8e5fb05d8" sha1="70d65a936ee1dfc2b89c543312c205285d955efb"/>
+	</game>
+</datafile>

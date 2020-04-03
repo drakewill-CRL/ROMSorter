@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Epson PX-8, HC-88 &amp; Geneva - Applications - [HEX]</name>
+		<description>Epson PX-8, HC-88 &amp; Geneva - Applications - [HEX] (TOSEC-v2011-11-27)</description>
+		<category>TOSEC</category>
+		<version>2011-11-27</version>
+		<author>TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Cardbox (198x)(Business Simulations)">
+		<description>Cardbox (198x)(Business Simulations)</description>
+		<rom name="Cardbox (198x)(Business Simulations).hex" size="90112" crc="2d860067" md5="2b1bfc5b593a5bb286fabb077b23964c" sha1="1e3619aa5cb0582a542f5cae8e05c495b97e1668"/>
+	</game>
+	<game name="Dakcom v1.1 (1986)(Harris, C.)">
+		<description>Dakcom v1.1 (1986)(Harris, C.)</description>
+		<rom name="Dakcom v1.1 (1986)(Harris, C.).hex" size="22540" crc="026e6660" md5="024e0a73ba9a77bba9a41f3ba7b9eb5e" sha1="837b82635d9c52b8f1087b31e2075f6ef7f6cc4c"/>
+	</game>
+	<game name="dBaseII v2.43 (1984-12-14)(Ashton-Tate)(File 1 of 2)">
+		<description>dBaseII v2.43 (1984-12-14)(Ashton-Tate)(File 1 of 2)</description>
+		<rom name="dBaseII v2.43 (1984-12-14)(Ashton-Tate)(File 1 of 2).hex" size="78878" crc="9f51783f" md5="14960e11d3499f3ab9c6831c7dad3d3e" sha1="d2a9869053de6c1f1ff3e6b8826a50e1ab9808c9"/>
+	</game>
+	<game name="dBaseII v2.43 (1984-12-14)(Ashton-Tate)(File 2 of 2)">
+		<description>dBaseII v2.43 (1984-12-14)(Ashton-Tate)(File 2 of 2)</description>
+		<rom name="dBaseII v2.43 (1984-12-14)(Ashton-Tate)(File 2 of 2).hex" size="78878" crc="b4ed2e9a" md5="8187de0f1a22cca5f3c2ddb3d194e2ed" sha1="7f101e4a57639a1ed13265faf9b1e33557764ac4"/>
+	</game>
+	<game name="Geneva Connection v1.0 (1984)(Epson)">
+		<description>Geneva Connection v1.0 (1984)(Epson)</description>
+		<rom name="Geneva Connection v1.0 (1984)(Epson).hex" size="22540" crc="c27d97d1" md5="2dfc02619501b4df0cfe980000af4e01" sha1="c5229a1d1d202e1ad800226d5941d69d1824ea4a"/>
+	</game>
+	<game name="Integrated Resource Manager v2.7 (19xx)(-)">
+		<description>Integrated Resource Manager v2.7 (19xx)(-)</description>
+		<rom name="Integrated Resource Manager v2.7 (19xx)(-).hex" size="46093" crc="4314292e" md5="d53418fcf92f9c3d6c9f83943600877b" sha1="c20dbd157f7c981a2c65c3171c9eec7fe21acc5d"/>
+	</game>
+	<game name="Intext v1.0 (19xx)(-)">
+		<description>Intext v1.0 (19xx)(-)</description>
+		<rom name="Intext v1.0 (19xx)(-).hex" size="46093" crc="db744de9" md5="9e6deae3071da575547eda26f0c96e8c" sha1="507c159896ac7dd35e0155d88dd98de5b5377076"/>
+	</game>
+	<game name="Intext v1.1 (19xx)(-)">
+		<description>Intext v1.1 (19xx)(-)</description>
+		<rom name="Intext v1.1 (19xx)(-).hex" size="92167" crc="9b4a4d5b" md5="dd988b03c76b5c3c53b4c182b719bced" sha1="6c3a415666e5dec605f9e492f56b4da36f94e4d7"/>
+	</game>
+	<game name="Portable Wordstar (1984)(MicroPro)">
+		<description>Portable Wordstar (1984)(MicroPro)</description>
+		<rom name="Portable Wordstar (1984)(MicroPro).hex" size="92173" crc="1cb90260" md5="1b8edf8a9cf6e86f3d18cf795cd600d2" sha1="0e9d7d4a99193ed180b9162223e78f95ff1d0c54"/>
+	</game>
+	<game name="RAM Test (19xx)(-)">
+		<description>RAM Test (19xx)(-)</description>
+		<rom name="RAM Test (19xx)(-).hex" size="92173" crc="6bfe7fe7" md5="e8dc177407576f21ba206c99ddce4241" sha1="aa4d4631e28b8a011248cb40980768b4f6c6e185"/>
+	</game>
+	<game name="SuperCalc v1.08 (1984)(Sorcim)(File 1 of 2)">
+		<description>SuperCalc v1.08 (1984)(Sorcim)(File 1 of 2)</description>
+		<rom name="SuperCalc v1.08 (1984)(Sorcim)(File 1 of 2).hex" size="90124" crc="693cf89e" md5="1e042b4feda300e9c523b08dd66cca8a" sha1="3cd181ef576db6760e955ebbf7f9dacf1a21b46c"/>
+	</game>
+	<game name="SuperCalc v1.08 (1984)(Sorcim)(File 2 of 2)">
+		<description>SuperCalc v1.08 (1984)(Sorcim)(File 2 of 2)</description>
+		<rom name="SuperCalc v1.08 (1984)(Sorcim)(File 2 of 2).hex" size="90124" crc="6cc381f6" md5="8e0c3555c068d895cc81c465aa1a19fb" sha1="267d53cd65e25b4329e0d7dbc001fb083807a4a6"/>
+	</game>
+	<game name="Traveling Expense Manager (1984)(Traveling Software)">
+		<description>Traveling Expense Manager (1984)(Traveling Software)</description>
+		<rom name="Traveling Expense Manager (1984)(Traveling Software).hex" size="90124" crc="e440a6e3" md5="363bd872468177117f59a47bb057f788" sha1="fe2b66d4b2f29e1ebc25a03d9d89fd4fef1cfef4"/>
+	</game>
+	<game name="Traveling Time Manager (1984)(Traveling Software)">
+		<description>Traveling Time Manager (1984)(Traveling Software)</description>
+		<rom name="Traveling Time Manager (1984)(Traveling Software).hex" size="90124" crc="43ca628a" md5="067d3bf46a3f423301be8397eb28e9ef" sha1="97ca9ed5ef040bae8482ef5f2966842617798a27"/>
+	</game>
+</datafile>

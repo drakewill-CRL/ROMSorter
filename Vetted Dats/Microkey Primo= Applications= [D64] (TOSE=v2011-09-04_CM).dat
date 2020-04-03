@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Microkey Primo - Applications - [D64]</name>
+		<description>Microkey Primo - Applications - [D64] (TOSEC-v2011-09-04)</description>
+		<category>TOSEC</category>
+		<version>2011-09-04</version>
+		<author>Gruby</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="CDOS Bootdisk (1985)(BME-KSZK)(Primo A64)">
+		<description>CDOS Bootdisk (1985)(BME-KSZK)(Primo A64)</description>
+		<rom name="CDOS Bootdisk (1985)(BME-KSZK)(Primo A64).d64" size="174848" crc="6b773251" md5="cc04476fa30813de37c1362a5c5d6420" sha1="ff52850825eb0bb401254fe4478bc51d3748322d"/>
+	</game>
+	<game name="CDOS Bootdisk (1985)(BME-KSZK)(Primo B64)">
+		<description>CDOS Bootdisk (1985)(BME-KSZK)(Primo B64)</description>
+		<rom name="CDOS Bootdisk (1985)(BME-KSZK)(Primo B64).d64" size="174848" crc="9733897f" md5="65e38e7a6515eae3696d2937a8a28f8b" sha1="b7423e7c3884cef1808fb7539da3b8f1f08ce5ef"/>
+	</game>
+</datafile>

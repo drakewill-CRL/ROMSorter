@@ -24,8 +24,12 @@ namespace RomSorter
             //Database.RebuildInitialDatabase();
 
             //This is the proper way to update the UI from threads in modern .NET Framework
-            var progress = new Progress<string>(s => lblStatus.Text = s);
-            Task.Factory.StartNew(() => Database.CountGames(progress));
+            int games = Database.CountGames(null);
+            int systems = Database.CountGamesByConsole().Count();
+
+            lblStatus.Text = games + " games across " + systems + " platforms.";
+            
+
         }
 
         private void Form1_KeyDown(object sender, KeyEventArgs e)
@@ -56,9 +60,9 @@ namespace RomSorter
             Progress<string> progress = new Progress<string>(s => lblStatus.Text = s);
 
             if (chkMultithread.Checked)
-                await Task.Factory.StartNew(() =>Sorter.SortAllGamesMultithread(System.IO.Path.GetDirectoryName(openFileDialog1.FileName), System.IO.Path.GetDirectoryName(openFileDialog1.FileName), progress));
+                await Task.Factory.StartNew(() =>Sorter.SortAllGamesMultithread(System.IO.Path.GetDirectoryName(openFileDialog1.FileName), System.IO.Path.GetDirectoryName(openFileDialog1.FileName), progress, chkZipIdentified.Checked));
             else
-                await Task.Factory.StartNew(() => Sorter.SortAllGamesSinglethread(System.IO.Path.GetDirectoryName(openFileDialog1.FileName), System.IO.Path.GetDirectoryName(openFileDialog1.FileName), progress));
+                await Task.Factory.StartNew(() => Sorter.SortAllGamesSinglethread(System.IO.Path.GetDirectoryName(openFileDialog1.FileName), System.IO.Path.GetDirectoryName(openFileDialog1.FileName), progress, chkZipIdentified.Checked));
 
             sw.Stop();
             lblStatus.Text = "Games sorted in " + sw.Elapsed.ToString();

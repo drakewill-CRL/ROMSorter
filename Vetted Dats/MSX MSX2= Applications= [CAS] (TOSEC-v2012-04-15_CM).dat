@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>MSX MSX2 - Applications - [CAS]</name>
+		<description>MSX MSX2 - Applications - [CAS] (TOSEC-v2012-04-15)</description>
+		<category>TOSEC</category>
+		<version>2012-04-15</version>
+		<author>XakMSX - VG8020 - jugaor - Apache - Grendel - cbeard - tcm1998</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Leonardo (1987)(Omega System)(JP)[CLOAD + RUN]">
+		<description>Leonardo (1987)(Omega System)(JP)[CLOAD + RUN]</description>
+		<rom name="Leonardo (1987)(Omega System)(JP)[CLOAD + RUN].cas" size="21494" crc="5383ba81" md5="76184cb39317fbd31ea0b3d0989217c3" sha1="658031b8578ecd3f95e648fc2d527be05de3ed40"/>
+	</game>
+</datafile>

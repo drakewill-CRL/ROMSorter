@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Acorn BBC - Games - [BIN]</name>
+		<description>Acorn BBC - Games - [BIN] (TOSEC-v2013-10-22)</description>
+		<category>TOSEC</category>
+		<version>2013-10-22</version>
+		<author>CRSV - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Dr. Who and the Mines of Terror! (19xx)(Micro Power)">
+		<description>Dr. Who and the Mines of Terror! (19xx)(Micro Power)</description>
+		<rom name="Dr. Who and the Mines of Terror! (19xx)(Micro Power).bin" size="16384" crc="9ce48a7e" md5="1caceefd39065443099760aeddaba670" sha1="9287aa2c0ef535d008f7d0e7e34a96400098816a"/>
+	</game>
+</datafile>

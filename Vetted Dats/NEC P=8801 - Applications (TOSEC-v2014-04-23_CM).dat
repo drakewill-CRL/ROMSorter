@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>NEC PC-8801 - Applications</name>
+		<description>NEC PC-8801 - Applications (TOSEC-v2014-04-23)</description>
+		<category>TOSEC</category>
+		<version>2014-04-23</version>
+		<author>Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="NEC PC-8801FE N88 BASIC v2.3 (1988)(Microsoft)">
+		<description>NEC PC-8801FE N88 BASIC v2.3 (1988)(Microsoft)</description>
+		<rom name="NEC PC-8801FE N88 BASIC v2.3 (1988)(Microsoft).d88" size="348848" crc="a51baff8" md5="15eb29322faa198caf60ff4336c34a8e" sha1="1f77c6eb4b9db1d73d026e91306367f372efd232"/>
+	</game>
+	<game name="NEC PC-8801FE N88 Nihongo BASIC v2.1 (19xx)(-)">
+		<description>NEC PC-8801FE N88 Nihongo BASIC v2.1 (19xx)(-)</description>
+		<rom name="NEC PC-8801FE N88 Nihongo BASIC v2.1 (19xx)(-).d88" size="348848" crc="fb63c791" md5="37ab2a989396b42251d068ca70e5bc29" sha1="98938ae1d00fb446ef1457e3aa2ee2a6145976f3"/>
+	</game>
+	<game name="NEC PC-8801FH N88 BASIC v2.3 (1986)(Microsoft)">
+		<description>NEC PC-8801FH N88 BASIC v2.3 (1986)(Microsoft)</description>
+		<rom name="NEC PC-8801FH N88 BASIC v2.3 (1986)(Microsoft).d88" size="348848" crc="c220eba4" md5="a776c6347ccc54f9b726de472e6625c6" sha1="815b38900ddc0bd4fc1957eacc8be5e6f2533ba9"/>
+	</game>
+	<game name="NEC PC-8801FH N88 Nihongo BASIC v2.0 (19xx)(-)">
+		<description>NEC PC-8801FH N88 Nihongo BASIC v2.0 (19xx)(-)</description>
+		<rom name="NEC PC-8801FH N88 Nihongo BASIC v2.0 (19xx)(-).d88" size="348848" crc="6fab419a" md5="108474c5161a8c825ad7f15b86ee9800" sha1="32746194f9c933d6605b82cab7ba3d23af6a3d1e"/>
+	</game>
+	<game name="NEC PC-8801FR N88 BASIC v2.3 (19xx)(Microsoft)">
+		<description>NEC PC-8801FR N88 BASIC v2.3 (19xx)(Microsoft)</description>
+		<rom name="NEC PC-8801FR N88 BASIC v2.3 (19xx)(Microsoft).d88" size="353200" crc="1fd2f95f" md5="e76bdedaf3871779ed0f68c8518de379" sha1="4ee41e8e2ad54f35d3f5c68daec7211600eed34a"/>
+	</game>
+	<game name="NEC PC-8801FR N88 Nihongo BASIC v1.0 (19xx)(-)">
+		<description>NEC PC-8801FR N88 Nihongo BASIC v1.0 (19xx)(-)</description>
+		<rom name="NEC PC-8801FR N88 Nihongo BASIC v1.0 (19xx)(-).d88" size="353200" crc="2b543bcc" md5="92e8552184d2f5e8183b32172aeb0b64" sha1="5e9c487a2e7cc872692efa52151b5e8bb3313fdc"/>
+	</game>
+	<game name="NEC PC-8801MR N88 BASIC v2.3 (19xx)(Microsoft)">
+		<description>NEC PC-8801MR N88 BASIC v2.3 (19xx)(Microsoft)</description>
+		<rom name="NEC PC-8801MR N88 BASIC v2.3 (19xx)(Microsoft).d88" size="1122080" crc="562c43e9" md5="1c054299c65d8a20b76631f3200c67f5" sha1="00f91f2d6934a23c5c33b274a041fc1dd4e7ad97"/>
+	</game>
+	<game name="NEC PC-8801TR N88 BASIC v2.3 (19xx)(Microsoft)">
+		<description>NEC PC-8801TR N88 BASIC v2.3 (19xx)(Microsoft)</description>
+		<rom name="NEC PC-8801TR N88 BASIC v2.3 (19xx)(Microsoft).d88" size="348848" crc="c8fb7a25" md5="5883eff3c8235ef1aba0964dfeb6c402" sha1="9e72ebd774537e4d9075f1022c2853dd16432929"/>
+	</game>
+</datafile>

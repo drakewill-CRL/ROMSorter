@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>NEC Advanced Personal Computer - Docs</name>
+		<description>NEC Advanced Personal Computer - Docs (TOSEC-v2018-03-08)</description>
+		<category>TOSEC</category>
+		<version>2018-03-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Unknown Documentation Disk (198x)(-)">
+		<description>Unknown Documentation Disk (198x)(-)</description>
+		<rom name="Unknown Documentation Disk (198x)(-).imd" size="215269" crc="1f85b4a1" md5="5406ed75468438554dd67d215a18babf" sha1="bef73b0123e41f549996abcc8b7e70cdd370d12b"/>
+	</game>
+</datafile>

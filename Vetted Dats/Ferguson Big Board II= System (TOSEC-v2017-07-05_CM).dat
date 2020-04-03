@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Ferguson Big Board II - System</name>
+		<description>Ferguson Big Board II - System (TOSEC-v2017-07-05)</description>
+		<category>TOSEC</category>
+		<version>2017-07-05</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<url>http://www.tosecdev.org</url>
+		<clrmamepro/>
+	</header>
+	<game name="BBII 5'' &amp; 8'' Drive Interface (19xx)(Micro Cornucopia)">
+		<description>BBII 5'' &amp; 8'' Drive Interface (19xx)(Micro Cornucopia)</description>
+		<rom name="BBII 5'' &amp; 8'' Drive Interface (19xx)(Micro Cornucopia).s1" size="248181" crc="95c44c17" md5="442690f2cc2a27f9b8ff59b74e026fc1" sha1="1db06b734a88d83ffc92feda03bea509550c349f"/>
+	</game>
+	<game name="Big Board II CBIOS Diskette #0093 (1982)(Cal-Tex Computers)(Side 1 of 2)">
+		<description>Big Board II CBIOS Diskette #0093 (1982)(Cal-Tex Computers)(Side 1 of 2)</description>
+		<rom name="Big Board II CBIOS Diskette #0093 (1982)(Cal-Tex Computers)(Side 1 of 2).s1" size="211116" crc="3fd03e98" md5="0a324807d5ee0f5b46052bdf3cb0a728" sha1="448fad468142b7172d18b942294a626274aa4819"/>
+	</game>
+	<game name="Big Board II CBIOS Diskette #0093 (1982)(Cal-Tex Computers)(Side 2 of 2)">
+		<description>Big Board II CBIOS Diskette #0093 (1982)(Cal-Tex Computers)(Side 2 of 2)</description>
+		<rom name="Big Board II CBIOS Diskette #0093 (1982)(Cal-Tex Computers)(Side 2 of 2).s2" size="206681" crc="4eca0919" md5="e8a910b188ba447fca8ef8a7c6cea89a" sha1="d3713fec0c5a8ff11812dc645db101776b2b2abe"/>
+	</game>
+	<game name="Big Board II CP-M v2.2 (19xx)(-)(Side 1 of 2)[#cp2-677-0093 - double density - bootable]">
+		<description>Big Board II CP-M v2.2 (19xx)(-)(Side 1 of 2)[#cp2-677-0093 - double density - bootable]</description>
+		<rom name="Big Board II CP-M v2.2 (19xx)(-)(Side 1 of 2)[#cp2-677-0093 - double density - bootable].s1" size="183711" crc="1676a3c0" md5="67a6accb4431b748725e241b20515e9e" sha1="55d707762a32802bf5e2507847c508d0cb2fa829"/>
+	</game>
+	<game name="Big Board II CP-M v2.2 (19xx)(-)(Side 2 of 2)[#cp2-677-0093 - double density - bootable]">
+		<description>Big Board II CP-M v2.2 (19xx)(-)(Side 2 of 2)[#cp2-677-0093 - double density - bootable]</description>
+		<rom name="Big Board II CP-M v2.2 (19xx)(-)(Side 2 of 2)[#cp2-677-0093 - double density - bootable].s2" size="108018" crc="3107eeba" md5="9091679f570fe9dc17013cd839cb6238" sha1="f3751abc72847056a9023cab6ec0eb28665c16e1"/>
+	</game>
+	<game name="Big Board II ROM Monitor Source (19xx)(Cal-Tex Computers)(Side 1 of 2)">
+		<description>Big Board II ROM Monitor Source (19xx)(Cal-Tex Computers)(Side 1 of 2)</description>
+		<rom name="Big Board II ROM Monitor Source (19xx)(Cal-Tex Computers)(Side 1 of 2).s1" size="104401" crc="bf53697e" md5="5318d9dffc58c8ab1c959945677e0e12" sha1="4eb8984f9c4376ea1952f851ffc9f0bba2aa805a"/>
+	</game>
+	<game name="Big Board II ROM Monitor Source (19xx)(Cal-Tex Computers)(Side 2 of 2)">
+		<description>Big Board II ROM Monitor Source (19xx)(Cal-Tex Computers)(Side 2 of 2)</description>
+		<rom name="Big Board II ROM Monitor Source (19xx)(Cal-Tex Computers)(Side 2 of 2).s2" size="191660" crc="839bea83" md5="8a6ed6f94a3c26e2d3bfaba9eb6d1efd" sha1="030ec6f0eba3400c8655e3641c8f80301f87c385"/>
+	</game>
+	<game name="CP-M v2.2 Distribution Diskette (19xx)(-)(Side 1 of 2)[#cp2-677-0093 - single density - non-bootable]">
+		<description>CP-M v2.2 Distribution Diskette (19xx)(-)(Side 1 of 2)[#cp2-677-0093 - single density - non-bootable]</description>
+		<rom name="CP-M v2.2 Distribution Diskette (19xx)(-)(Side 1 of 2)[#cp2-677-0093 - single density - non-bootable].s1" size="106093" crc="8901c0eb" md5="e562fe7733041565eb962e2bdec9abe5" sha1="d03559f6c6ce67141e4c271fb395abecd27a4f69"/>
+	</game>
+	<game name="CP-M v2.2 Distribution Diskette (19xx)(-)(Side 2 of 2)[#cp2-677-0093 - single density - non-bootable]">
+		<description>CP-M v2.2 Distribution Diskette (19xx)(-)(Side 2 of 2)[#cp2-677-0093 - single density - non-bootable]</description>
+		<rom name="CP-M v2.2 Distribution Diskette (19xx)(-)(Side 2 of 2)[#cp2-677-0093 - single density - non-bootable].s2" size="6535" crc="79cabf49" md5="f0b957dd0d341087a52afafb2e4476a9" sha1="78513d7a6b6cf4ac77c5101a744636d5a9e591f8"/>
+	</game>
+</datafile>

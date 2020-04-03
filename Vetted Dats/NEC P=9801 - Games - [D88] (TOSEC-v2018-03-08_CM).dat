@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>NEC PC-9801 - Games - [D88]</name>
+		<description>NEC PC-9801 - Games - [D88] (TOSEC-v2018-03-08)</description>
+		<category>TOSEC</category>
+		<version>2018-03-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Brandish Renewal (1995-03-10)(Japan Falcom)(JP)(Game Disk 1)">
+		<description>Brandish Renewal (1995-03-10)(Japan Falcom)(JP)(Game Disk 1)</description>
+		<rom name="Brandish Renewal (1995-03-10)(Japan Falcom)(JP)(Game Disk 1).d88" size="1281968" crc="4ef6b9aa" md5="93f788c24b702764014d92565e38dab0" sha1="a64b8d20727ea472f11b53525c56296df5ce5dc8"/>
+	</game>
+	<game name="Brandish Renewal (1995-03-10)(Japan Falcom)(JP)(Game Disk 2)">
+		<description>Brandish Renewal (1995-03-10)(Japan Falcom)(JP)(Game Disk 2)</description>
+		<rom name="Brandish Renewal (1995-03-10)(Japan Falcom)(JP)(Game Disk 2).d88" size="1291360" crc="07c0346d" md5="09f8e3d700c00c8b8a2009249c4fb536" sha1="655c9929df83c1723342bb84bc26447d351fe251"/>
+	</game>
+	<game name="Brandish Renewal (1995-03-10)(Japan Falcom)(JP)(Game Disk 3)">
+		<description>Brandish Renewal (1995-03-10)(Japan Falcom)(JP)(Game Disk 3)</description>
+		<rom name="Brandish Renewal (1995-03-10)(Japan Falcom)(JP)(Game Disk 3).d88" size="1281968" crc="5b429479" md5="d4047ffbc7a3945ec105bd0a1dcaca35" sha1="93ce2db2fa7fe766b405071923b2c1c2aa967b55"/>
+	</game>
+</datafile>

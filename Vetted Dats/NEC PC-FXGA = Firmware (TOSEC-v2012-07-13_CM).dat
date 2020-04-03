@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>NEC PC-FXGA - Firmware</name>
+		<description>NEC PC-FXGA - Firmware (TOSEC-v2012-07-13)</description>
+		<category>TOSEC-ISO</category>
+		<version>2012-07-13</version>
+		<author>Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="NEC PC-FXGA BIOS (1994)(NEC)(JP)">
+		<description>NEC PC-FXGA BIOS (1994)(NEC)(JP)</description>
+		<rom name="NEC PC-FXGA BIOS (1994)(NEC)(JP).bin" size="1048576" crc="41c3776b" md5="5885bc9a64bf80d4530b9b9b978ff587" sha1="a9372202a5db302064c994fcda9b24d29bb1b41c"/>
+	</game>
+	<game name="NEC PC-FXGA BIOS (1994)(NEC)(JP)[b]">
+		<description>NEC PC-FXGA BIOS (1994)(NEC)(JP)[b]</description>
+		<rom name="NEC PC-FXGA BIOS (1994)(NEC)(JP)[b].bin" size="1048576" crc="ac3ed590" md5="1c8996258dfe6c1a07df305f0a3e5758" sha1="0534726e90a52a4651c4c9041c619554010b83f1"/>
+	</game>
+</datafile>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>GCE Vectrex - Firmware</name>
+		<description>GCE Vectrex - Firmware (TOSEC-v2012-02-27)</description>
+		<category>TOSEC</category>
+		<version>2012-02-27</version>
+		<author>TKaos - BuckyB - borta - Grendel - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Vectrex BIOS (1982)(GCE)">
+		<description>Vectrex BIOS (1982)(GCE)</description>
+		<rom name="Vectrex BIOS (1982)(GCE).bin" size="4096" crc="f27d4371" md5="ba9260bb961d60e718378cc16a8051d7" sha1="b9bbf5bb0eac52d039a4a993a2d8064b862c9e28"/>
+	</game>
+</datafile>

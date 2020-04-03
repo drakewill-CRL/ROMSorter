@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sord M5 - Firmware</name>
+		<description>Sord M5 - Firmware (TOSEC-v2014-10-28)</description>
+		<category>TOSEC</category>
+		<version>2014-10-28</version>
+		<author>Cid - Cassiel - mek1</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Sord M5 BIOS (19xx)(Sord)">
+		<description>Sord M5 BIOS (19xx)(Sord)</description>
+		<rom name="Sord M5 BIOS (19xx)(Sord).bin" size="8192" crc="78848d39" md5="466c33583113d61fce0f04bfb1707eca" sha1="ac042c4ae8272ad6abe09ae83492ef9a0026d0b2"/>
+	</game>
+</datafile>

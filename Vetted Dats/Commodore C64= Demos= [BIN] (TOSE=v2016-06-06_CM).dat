@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C64 - Demos - [BIN]</name>
+		<description>Commodore C64 - Demos - [BIN] (TOSEC-v2016-06-06)</description>
+		<category>TOSEC</category>
+		<version>2016-06-06</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Sales (19xx)(Commodore)">
+		<description>Sales (19xx)(Commodore)</description>
+		<rom name="Sales (19xx)(Commodore).bin" size="16384" crc="ebbbbf03" md5="db0b204c37951888dbfc1fd91deb0c5c" sha1="8c1b70b3b275d61e61193b6802aa88d2df2cf64e"/>
+	</game>
+</datafile>

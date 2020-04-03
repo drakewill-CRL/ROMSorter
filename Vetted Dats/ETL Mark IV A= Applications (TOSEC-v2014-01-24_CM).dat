@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>ETL Mark IV A - Applications</name>
+		<description>ETL Mark IV A - Applications (TOSEC-v2014-01-24)</description>
+		<category>TOSEC</category>
+		<version>2014-01-24</version>
+		<author>Grendel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="E Calculation (1996)(Seiichi Okoma)">
+		<description>E Calculation (1996)(Seiichi Okoma)</description>
+		<rom name="E.m4a" size="2189" crc="048c67e4" md5="3351ec855b6e9281ef3df15156d1dc7a" sha1="d25a30e603ba91da7f3683406fde6b4d7da9b8cd"/>
+		<rom name="E.out" size="189" crc="65d66dd5" md5="24f3e037acba111f9a5c69865555b1d8" sha1="43b7a665b8d0bcc3683fc9da101da758ef4bea2e"/>
+	</game>
+	<game name="Square Root By Newton's Method (1996)(Seiichi Okoma)">
+		<description>Square Root By Newton's Method (1996)(Seiichi Okoma)</description>
+		<rom name="Newton.m4a" size="1341" crc="8c146768" md5="c28dd7d79164667685f5864f65126c2d" sha1="46431558ea1f8fd24b0e5cb04ab855fcf6ab34ab"/>
+		<rom name="Newton.out" size="126" crc="3a775b5e" md5="0b55b6818ded6299aa3b7a88250dea93" sha1="1e9c64b9f42fb5fb97e6135162a78235dfdafb2f"/>
+	</game>
+</datafile>

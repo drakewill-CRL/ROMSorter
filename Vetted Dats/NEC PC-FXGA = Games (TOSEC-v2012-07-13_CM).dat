@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>NEC PC-FXGA - Games</name>
+		<description>NEC PC-FXGA - Games (TOSEC-v2012-07-13)</description>
+		<category>TOSEC-ISO</category>
+		<version>2012-07-13</version>
+		<author>TOSEC-ISO: Trurip</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Amachua Teikyou (1995)(Project Team DOGA)(JP)[79753600][PC-9800 bundled version]">
+		<description>Amachua Teikyou (1995)(Project Team DOGA)(JP)[79753600][PC-9800 bundled version]</description>
+		<rom name="Amachua Teikyou (1995)(Project Team DOGA)(JP)[79753600][PC-9800 bundled version].ccd" size="777" crc="d1c56e57" md5="5a3d9c1c90e5c5721ac864b353338471" sha1="6832a4af9c5f11c556b0a2c2494f6f6a39580f90"/>
+		<rom name="Amachua Teikyou (1995)(Project Team DOGA)(JP)[79753600][PC-9800 bundled version].img" size="563764992" crc="bf8e82f3" md5="da53e5a17fc963bf40beec2e5112d208" sha1="4857e4ec665f4af2fe56da9e2441223b1804208f"/>
+		<rom name="Amachua Teikyou (1995)(Project Team DOGA)(JP)[79753600][PC-9800 bundled version].sub" size="23010816" crc="bb6353f3" md5="de7f47b04b5264917cff0093175e6520" sha1="0e6bbd08f30e1f3550834dbed4f6d305b47f3da3"/>
+	</game>
+	<game name="Angelique Bijutsukan (1995)(KOEI)(JP)[KN10-93101][PC-9800 bundled version]">
+		<description>Angelique Bijutsukan (1995)(KOEI)(JP)[KN10-93101][PC-9800 bundled version]</description>
+		<rom name="Angelique Bijutsukan (1995)(KOEI)(JP)[KN10-93101][PC-9800 bundled version].ccd" size="752" crc="ca90b038" md5="b37a8c4367aa0104da9d5b9d13a9bff1" sha1="3d1e3c41cade14b1d0e8ec8638a558e002ae481a"/>
+		<rom name="Angelique Bijutsukan (1995)(KOEI)(JP)[KN10-93101][PC-9800 bundled version].img" size="230044416" crc="2c51bdb7" md5="5dd72aed688198c23facd673b61d0042" sha1="8186a7a921bc158171a0c0bd82d5455a51b22a9f"/>
+		<rom name="Angelique Bijutsukan (1995)(KOEI)(JP)[KN10-93101][PC-9800 bundled version].sub" size="9389568" crc="1f30e376" md5="c30c699cdbef1c75e69484cf5f90b185" sha1="3a972330c5c3be36cec96ae04075ad3c035a84ad"/>
+	</game>
+	<game name="Same Game FX (1995)(Hudson Soft)(JP)(pre-release)[79753599][PC-9800 bundled version]">
+		<description>Same Game FX (1995)(Hudson Soft)(JP)(pre-release)[79753599][PC-9800 bundled version]</description>
+		<rom name="Same Game FX (1995)(Hudson Soft)(JP)(pre-release)[79753599][PC-9800 bundled version].ccd" size="929" crc="b8d03fa5" md5="523a2e0e8bed721c4d9226ec5198c403" sha1="be2ffd23dcb7e53c68704c71603613b0aa550fc4"/>
+		<rom name="Same Game FX (1995)(Hudson Soft)(JP)(pre-release)[79753599][PC-9800 bundled version].img" size="9076368" crc="03a2a4ea" md5="6d2749dd94cda972dffe6087e16bc050" sha1="cc4551e53cf5de522fc5278f087f232051e07139"/>
+		<rom name="Same Game FX (1995)(Hudson Soft)(JP)(pre-release)[79753599][PC-9800 bundled version].sub" size="370464" crc="afec420b" md5="5fed402dc5f60e963fe3fb556259988d" sha1="d8debd9b2a33499e3c9eb7ad15e64053494cf069"/>
+	</game>
+</datafile>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C128 - Applications - [LBR]</name>
+		<description>Commodore C128 - Applications - [LBR] (TOSEC-v2018-10-26)</description>
+		<category>TOSEC</category>
+		<version>2018-10-26</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="1581 Manipulator v2 (1990-03-20)(Geoff Sullivan)[40-80 column]">
+		<description>1581 Manipulator v2 (1990-03-20)(Geoff Sullivan)[40-80 column]</description>
+		<rom name="1581 Manipulator v2 (1990-03-20)(Geoff Sullivan)[40-80 column].lbr" size="29839" crc="8edc1021" md5="1220f6f63a0a4958dd7d07c1a373d75d" sha1="09b9575a8f927f73c48309a2417153e408bff085"/>
+	</game>
+	<game name="Volksterm II 128 (19xx)(-)[80 column]">
+		<description>Volksterm II 128 (19xx)(-)[80 column]</description>
+		<rom name="Volksterm II 128 (19xx)(-)[80 column].lbr" size="17792" crc="864c713c" md5="6cfcbf66509c0fea2e7d141c0e4170aa" sha1="ded2067d07961b3e69bf3e9cd59640022f0f4a61"/>
+	</game>
+</datafile>

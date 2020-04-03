@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>DEC PDP-15 - Collections - MainDEC</name>
+		<description>DEC PDP-15 - Collections - MainDEC (TOSEC-v2012-09-11)</description>
+		<category>TOSEC</category>
+		<version>2012-09-11</version>
+		<author>TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="MainDEC-15-D0AC-PB (1970-10-01)(Diagnostic Group)(US)[a][Hardware Index Register Test]">
+		<description>MainDEC-15-D0AC-PB (1970-10-01)(Diagnostic Group)(US)[a][Hardware Index Register Test]</description>
+		<rom name="MainDEC-15-D0AC-PB (1970-10-01)(Diagnostic Group)(US)[a][Hardware Index Register Test].bin" size="10409" crc="5d15c115" md5="31fb128ddc327d8a4f16918e7f9494cb" sha1="e11bef0612f10e66bd20db2848d2ee7e5f2cad43"/>
+	</game>
+	<game name="MainDEC-15-D0AC-PB (1970-10-01)(Diagnostic Group)(US)[Hardware Index Register Test]">
+		<description>MainDEC-15-D0AC-PB (1970-10-01)(Diagnostic Group)(US)[Hardware Index Register Test]</description>
+		<rom name="MainDEC-15-D0AC-PB (1970-10-01)(Diagnostic Group)(US)[Hardware Index Register Test].bin" size="10334" crc="1db56629" md5="b3a5373e9c9819efa12f03d80cd70890" sha1="a7e0decf32e3d9c8c8d5cf95e191b09e28fcd723"/>
+	</game>
+	<game name="MainDEC-15-D0B2-PH (1976-06-22)(Diagnostic Group)(US)[a][Instruction Test Part 1A][HRI200][SA200]">
+		<description>MainDEC-15-D0B2-PH (1976-06-22)(Diagnostic Group)(US)[a][Instruction Test Part 1A][HRI200][SA200]</description>
+		<rom name="MainDEC-15-D0B2-PH (1976-06-22)(Diagnostic Group)(US)[a][Instruction Test Part 1A][HRI200][SA200].bin" size="7391" crc="1289126b" md5="0b5bfc0d49c48f220b05f90033045ea6" sha1="97d8ee57f4afd4f0009fa56d79104a471232b2e7"/>
+	</game>
+	<game name="MainDEC-15-D0B2-PH (1976-06-22)(Diagnostic Group)(US)[Instruction Test Part 1A][HRI200][SA200]">
+		<description>MainDEC-15-D0B2-PH (1976-06-22)(Diagnostic Group)(US)[Instruction Test Part 1A][HRI200][SA200]</description>
+		<rom name="MainDEC-15-D0B2-PH (1976-06-22)(Diagnostic Group)(US)[Instruction Test Part 1A][HRI200][SA200].bin" size="7347" crc="bb801a92" md5="a7c137c7ca64388f4c1d0942198073c3" sha1="ce92b0ce2b9b72c20717ab1cc156ca462fa0b14a"/>
+	</game>
+	<game name="MainDEC-15-D0BD-PB (1976-03-31)(Diagnostic Group)(US)[Instruction Test Part 2][HRI200][SA200][ACS000001]">
+		<description>MainDEC-15-D0BD-PB (1976-03-31)(Diagnostic Group)(US)[Instruction Test Part 2][HRI200][SA200][ACS000001]</description>
+		<rom name="MainDEC-15-D0BD-PB (1976-03-31)(Diagnostic Group)(US)[Instruction Test Part 2][HRI200][SA200][ACS000001].bin" size="11802" crc="3d1c0882" md5="02c182bc0db83492e882b8fb16ba2e8f" sha1="bff6c1a2c52420ed70e38982e697e78586ad4da7"/>
+	</game>
+	<game name="MainDEC-15-D0CA-PH (1976-06-22)(Diagnostic Group)(US)[Memory Address Test][HR7200][SA7200][ACS0]">
+		<description>MainDEC-15-D0CA-PH (1976-06-22)(Diagnostic Group)(US)[Memory Address Test][HR7200][SA7200][ACS0]</description>
+		<rom name="MainDEC-15-D0CA-PH (1976-06-22)(Diagnostic Group)(US)[Memory Address Test][HR7200][SA7200][ACS0].bin" size="1262" crc="6221c554" md5="e000a0f2d0c5117a17f7131bf06b0eb5" sha1="4b70250c3be7f28e85ed29ad2272162d48d3801f"/>
+	</game>
+	<game name="MainDEC-15-D0DA-PH (1976-07-27)(Diagnostic Group)(US)[JMP-Self Test][HRI7500][SA7500]">
+		<description>MainDEC-15-D0DA-PH (1976-07-27)(Diagnostic Group)(US)[JMP-Self Test][HRI7500][SA7500]</description>
+		<rom name="MainDEC-15-D0DA-PH (1976-07-27)(Diagnostic Group)(US)[JMP-Self Test][HRI7500][SA7500].bin" size="700" crc="c8632fea" md5="a0c580541f6a33deb70acf8c47b7e456" sha1="4592323a5d7192602fd9c7ad21c62a09d5191455"/>
+	</game>
+	<game name="MainDEC-15-D0EA-PH (1976-06-22)(Diagnostic Group)(US)[JMP-Y Interrupt Test][HRI7400][SA7400]">
+		<description>MainDEC-15-D0EA-PH (1976-06-22)(Diagnostic Group)(US)[JMP-Y Interrupt Test][HRI7400][SA7400]</description>
+		<rom name="MainDEC-15-D0EA-PH (1976-06-22)(Diagnostic Group)(US)[JMP-Y Interrupt Test][HRI7400][SA7400].bin" size="921" crc="bd1898d6" md5="b6640cb5dc3865d13075b9687b19b390" sha1="5846bae892aebeb6a02b0448c8bea0494f5a6408"/>
+	</game>
+	<game name="MainDEC-15-D0GB-PB (1976-11-24)(Diagnostic Group)(US)[Extended Arithmetic Element Part 1]">
+		<description>MainDEC-15-D0GB-PB (1976-11-24)(Diagnostic Group)(US)[Extended Arithmetic Element Part 1]</description>
+		<rom name="MainDEC-15-D0GB-PB (1976-11-24)(Diagnostic Group)(US)[Extended Arithmetic Element Part 1].bin" size="11172" crc="52103af4" md5="654349e60bee7c072b5a76563a057ecb" sha1="9fb7a760aa8319ce5154e4aae74bc4662878aefb"/>
+	</game>
+	<game name="MainDEC-15-D0HA-PB (1976-11-11)(Diagnostic Group)(US)[Extended Arithmetic Element Part 2]">
+		<description>MainDEC-15-D0HA-PB (1976-11-11)(Diagnostic Group)(US)[Extended Arithmetic Element Part 2]</description>
+		<rom name="MainDEC-15-D0HA-PB (1976-11-11)(Diagnostic Group)(US)[Extended Arithmetic Element Part 2].bin" size="13137" crc="a435bdb0" md5="8372a27e9cc088179ba9aec2cecd2264" sha1="d19ee165ac64b212f5951f4bd8a5d58aa22f0586"/>
+	</game>
+	<game name="MainDEC-15-D0JB-PB (1971-02-01)(Diagnostic Group)(US)[KF15 Power Fail Test][HRI17700][SA200]">
+		<description>MainDEC-15-D0JB-PB (1971-02-01)(Diagnostic Group)(US)[KF15 Power Fail Test][HRI17700][SA200]</description>
+		<rom name="MainDEC-15-D0JB-PB (1971-02-01)(Diagnostic Group)(US)[KF15 Power Fail Test][HRI17700][SA200].bin" size="1272" crc="12aef218" md5="690d1c17534ad6eadea5e03d5c341b67" sha1="f9ca79627979a8e8aa28471418b9031a437ad769"/>
+	</game>
+	<game name="MainDEC-15-D0JB-PB (1976-02-05)(Diagnostic Group)(US)[a][KF15 Power Fail Test][HRI17700][SA200]">
+		<description>MainDEC-15-D0JB-PB (1976-02-05)(Diagnostic Group)(US)[a][KF15 Power Fail Test][HRI17700][SA200]</description>
+		<rom name="MainDEC-15-D0JB-PB (1976-02-05)(Diagnostic Group)(US)[a][KF15 Power Fail Test][HRI17700][SA200].bin" size="1215" crc="3b75b0a6" md5="c282543b4e0270002b10b7ec84d0b248" sha1="8d64af4d7b8a57721a4fc9635f3407c775e5ff11"/>
+	</game>
+	<game name="MainDEC-15-D0JB-PB (1976-02-05)(Diagnostic Group)(US)[KF15 Power Fail Test][HRI17700][SA200]">
+		<description>MainDEC-15-D0JB-PB (1976-02-05)(Diagnostic Group)(US)[KF15 Power Fail Test][HRI17700][SA200]</description>
+		<rom name="MainDEC-15-D0JB-PB (1976-02-05)(Diagnostic Group)(US)[KF15 Power Fail Test][HRI17700][SA200].bin" size="1198" crc="68efbb39" md5="9ca61b0a544b5236549a32d92f2eadb0" sha1="26b290f71cd3b21c851493facf948bb4556677fc"/>
+	</game>
+	<game name="MainDEC-15-D0KA-PH (1976-03-31)(Diagnostic Group)(US)[ISZ Test]">
+		<description>MainDEC-15-D0KA-PH (1976-03-31)(Diagnostic Group)(US)[ISZ Test]</description>
+		<rom name="MainDEC-15-D0KA-PH (1976-03-31)(Diagnostic Group)(US)[ISZ Test].bin" size="2457" crc="389900de" md5="90b2d533e71590d5f78af93c2f87e505" sha1="aad313b1f2568025fe68cb478fffdd31a7d4630f"/>
+	</game>
+	<game name="MainDEC-15-D0SC-PB (1977-01-11)(Diagnostic Group)(US)[a][FPSTEP]">
+		<description>MainDEC-15-D0SC-PB (1977-01-11)(Diagnostic Group)(US)[a][FPSTEP]</description>
+		<rom name="MainDEC-15-D0SC-PB (1977-01-11)(Diagnostic Group)(US)[a][FPSTEP].bin" size="3565" crc="7cac2058" md5="e0f368cc151d91b6dbe92c531ac419bf" sha1="aadc35e0250aa0d76a18561bb5129f7914b24505"/>
+	</game>
+	<game name="MainDEC-15-D0SC-PB (1977-01-11)(Diagnostic Group)(US)[FPSTEP]">
+		<description>MainDEC-15-D0SC-PB (1977-01-11)(Diagnostic Group)(US)[FPSTEP]</description>
+		<rom name="MainDEC-15-D0SC-PB (1977-01-11)(Diagnostic Group)(US)[FPSTEP].bin" size="3137" crc="bed008c0" md5="7afa2c458e250eeb70414b4e44252a21" sha1="1161acbf6581794a8d7f66273b69d815d2d228c7"/>
+	</game>
+	<game name="MainDEC-15-D0TA-PB (1976-08-31)(Diagnostic Group)(US)[a][FP15 Instruction Test Part 1][FPIT01]">
+		<description>MainDEC-15-D0TA-PB (1976-08-31)(Diagnostic Group)(US)[a][FP15 Instruction Test Part 1][FPIT01]</description>
+		<rom name="MainDEC-15-D0TA-PB (1976-08-31)(Diagnostic Group)(US)[a][FP15 Instruction Test Part 1][FPIT01].bin" size="21890" crc="d677d89e" md5="2dea678f5ddd3ba4e027a664585ac5e7" sha1="7705654d8af6c267470022d3a99ab42dc82db07c"/>
+	</game>
+	<game name="MainDEC-15-D0TA-PB (1976-08-31)(Diagnostic Group)(US)[FP15 Instruction Test Part 1][FPIT01]">
+		<description>MainDEC-15-D0TA-PB (1976-08-31)(Diagnostic Group)(US)[FP15 Instruction Test Part 1][FPIT01]</description>
+		<rom name="MainDEC-15-D0TA-PB (1976-08-31)(Diagnostic Group)(US)[FP15 Instruction Test Part 1][FPIT01].bin" size="21558" crc="9de467bd" md5="7872320a461d1be54f46c88b2e175772" sha1="881f40a41d4eb1d8ba807b8d91d5f552c07bf4bf"/>
+	</game>
+	<game name="MainDEC-15-D0UA-PB (1976-07-27)(Diagnostic Group)(US)[a][FP15 Instruction Test Part 2][FPIT02]">
+		<description>MainDEC-15-D0UA-PB (1976-07-27)(Diagnostic Group)(US)[a][FP15 Instruction Test Part 2][FPIT02]</description>
+		<rom name="MainDEC-15-D0UA-PB (1976-07-27)(Diagnostic Group)(US)[a][FP15 Instruction Test Part 2][FPIT02].bin" size="16695" crc="f7f98b0d" md5="ef2e515891dea243ccd3e5a9d10f73dc" sha1="7a34c6505556bc4032e5afc32ea0e5f94db328bc"/>
+	</game>
+	<game name="MainDEC-15-D0UA-PB (1976-07-27)(Diagnostic Group)(US)[FP15 Instruction Test Part 2][FPIT02]">
+		<description>MainDEC-15-D0UA-PB (1976-07-27)(Diagnostic Group)(US)[FP15 Instruction Test Part 2][FPIT02]</description>
+		<rom name="MainDEC-15-D0UA-PB (1976-07-27)(Diagnostic Group)(US)[FP15 Instruction Test Part 2][FPIT02].bin" size="16392" crc="801faebe" md5="df6a698c5fa5ceb368675c39d5fe3175" sha1="15c29dbfba0f6d8c556c952dc388879ecb14dcc6"/>
+	</game>
+	<game name="MainDEC-15-D0VA-PB (1976-07-27)(Diagnostic Group)(US)[a][FP15 Instruction Test Part 3][FPIT03]">
+		<description>MainDEC-15-D0VA-PB (1976-07-27)(Diagnostic Group)(US)[a][FP15 Instruction Test Part 3][FPIT03]</description>
+		<rom name="MainDEC-15-D0VA-PB (1976-07-27)(Diagnostic Group)(US)[a][FP15 Instruction Test Part 3][FPIT03].bin" size="11618" crc="5151a2d0" md5="0ef73f26f38542bb27a4cecb3e285ab9" sha1="d1d09aeabe4e7f270bb4f84d2bcb8b7231554509"/>
+	</game>
+	<game name="MainDEC-15-D0VA-PB (1976-07-27)(Diagnostic Group)(US)[FP15 Instruction Test Part 3][FPIT03]">
+		<description>MainDEC-15-D0VA-PB (1976-07-27)(Diagnostic Group)(US)[FP15 Instruction Test Part 3][FPIT03]</description>
+		<rom name="MainDEC-15-D0VA-PB (1976-07-27)(Diagnostic Group)(US)[FP15 Instruction Test Part 3][FPIT03].bin" size="11387" crc="fe54cfce" md5="9344908118d0ad3e22d9b52d28c4c0e0" sha1="71fb4ac00305ca5238d1d739cbf816f4faaf01ae"/>
+	</game>
+	<game name="MainDEC-15-D0WA-PB (1977-01-11)(Diagnostic Group)(US)[a][Floating Point Unit Random Exerciser]">
+		<description>MainDEC-15-D0WA-PB (1977-01-11)(Diagnostic Group)(US)[a][Floating Point Unit Random Exerciser]</description>
+		<rom name="MainDEC-15-D0WA-PB (1977-01-11)(Diagnostic Group)(US)[a][Floating Point Unit Random Exerciser].bin" size="14588" crc="a234e01e" md5="a76bd48998bac62e7c54bd464712762a" sha1="76cb039f526e96506fdaefb096c17e8bb8d6823a"/>
+	</game>
+	<game name="MainDEC-15-D0WA-PB (1977-01-11)(Diagnostic Group)(US)[Floating Point Unit Random Exerciser]">
+		<description>MainDEC-15-D0WA-PB (1977-01-11)(Diagnostic Group)(US)[Floating Point Unit Random Exerciser]</description>
+		<rom name="MainDEC-15-D0WA-PB (1977-01-11)(Diagnostic Group)(US)[Floating Point Unit Random Exerciser].bin" size="14570" crc="77240349" md5="471f392edd885ffc18cd5d3e7edf8ac4" sha1="305acc1dff43829b23a0860c5e1fb40f79213870"/>
+	</game>
+	<game name="MainDEC-15-D1A1-PB (1976-03-31)(Diagnostic Group)(US)[BASIC Memory Checkerboard][Low Version]">
+		<description>MainDEC-15-D1A1-PB (1976-03-31)(Diagnostic Group)(US)[BASIC Memory Checkerboard][Low Version]</description>
+		<rom name="MainDEC-15-D1A1-PB (1976-03-31)(Diagnostic Group)(US)[BASIC Memory Checkerboard][Low Version].bin" size="1066" crc="30209c1d" md5="e09724d77be8f93ec630c3c92e35d815" sha1="c1a35649069d869759c1a7e735527d9667189e3b"/>
+	</game>
+	<game name="MainDEC-15-D1A2-PB (1976-03-31)(Diagnostic Group)(US)[BASIC Memory Checkerboard][High Version][HRI17700][SA7400]">
+		<description>MainDEC-15-D1A2-PB (1976-03-31)(Diagnostic Group)(US)[BASIC Memory Checkerboard][High Version][HRI17700][SA7400]</description>
+		<rom name="MainDEC-15-D1A2-PB (1976-03-31)(Diagnostic Group)(US)[BASIC Memory Checkerboard][High Version][HRI17700][SA7400].bin" size="1152" crc="57189c74" md5="c5c75446a6d702c0c72203edc346afd0" sha1="4dce266ea260e867cf354827b57cab93bad0c5ca"/>
+	</game>
+	<game name="MainDEC-15-D1BA-PB (1969-09-22)(Diagnostic Group)(US)[Extended Memory Checkerboard][XCH15]">
+		<description>MainDEC-15-D1BA-PB (1969-09-22)(Diagnostic Group)(US)[Extended Memory Checkerboard][XCH15]</description>
+		<rom name="MainDEC-15-D1BA-PB (1969-09-22)(Diagnostic Group)(US)[Extended Memory Checkerboard][XCH15].bin" size="5563" crc="1033108b" md5="ef2d7e69bd95e3052d0ebc163a65c084" sha1="6636860d16b01c0ce4d4d0e74e4448631c9c2e8e"/>
+	</game>
+	<game name="MainDEC-15-D1BC-PB (1970)(Diagnostic Group)(US)[Extended Memory Checkerboard MXCH15]">
+		<description>MainDEC-15-D1BC-PB (1970)(Diagnostic Group)(US)[Extended Memory Checkerboard MXCH15]</description>
+		<rom name="MainDEC-15-D1BC-PB (1970)(Diagnostic Group)(US)[Extended Memory Checkerboard MXCH15].bin" size="5876" crc="300034f2" md5="af1fdec83ca9248bfd20f856712c67d9" sha1="e4628f1970ff750c4b47da953f3305b4a9873326"/>
+	</game>
+	<game name="MainDEC-15-D1CD-PB (1970-06-01)(Diagnostic Group)(US)[Extended Memory Test]">
+		<description>MainDEC-15-D1CD-PB (1970-06-01)(Diagnostic Group)(US)[Extended Memory Test]</description>
+		<rom name="MainDEC-15-D1CD-PB (1970-06-01)(Diagnostic Group)(US)[Extended Memory Test].bin" size="9629" crc="04e7ea0b" md5="bfa922723bfa201e07e9d92bcac3e2b5" sha1="cfaf33032dc2f97b36ca1bae1f52e6ef15ce8046"/>
+	</game>
+	<game name="MainDEC-15-D1CD-PB (1976-06-22)(Diagnostic Group)(US)[Extended Memory Test]">
+		<description>MainDEC-15-D1CD-PB (1976-06-22)(Diagnostic Group)(US)[Extended Memory Test]</description>
+		<rom name="MainDEC-15-D1CD-PB (1976-06-22)(Diagnostic Group)(US)[Extended Memory Test].bin" size="9581" crc="bd672386" md5="d963fc4cd347700c76df24920eb04f25" sha1="e94d85780b87823cc059f66c8dfce2f72bae8ac5"/>
+	</game>
+	<game name="MainDEC-15-D1EB-PB (1970-09-17)(Diagnostic Group)(US)[KM15 Memory Protect Test][HRI17700][SA200]">
+		<description>MainDEC-15-D1EB-PB (1970-09-17)(Diagnostic Group)(US)[KM15 Memory Protect Test][HRI17700][SA200]</description>
+		<rom name="MainDEC-15-D1EB-PB (1970-09-17)(Diagnostic Group)(US)[KM15 Memory Protect Test][HRI17700][SA200].bin" size="8196" crc="9039afac" md5="761afd7c2320ee33da259c66f865fb1d" sha1="3d9c78126ef4a2cdd8ff68668f0f16b24e4d5a02"/>
+	</game>
+	<game name="MainDEC-15-D1EC-PB (1976-09-24)(Diagnostic Group)(US)[KM15 Memory Protect Test][HRI17700][SA200]">
+		<description>MainDEC-15-D1EC-PB (1976-09-24)(Diagnostic Group)(US)[KM15 Memory Protect Test][HRI17700][SA200]</description>
+		<rom name="MainDEC-15-D1EC-PB (1976-09-24)(Diagnostic Group)(US)[KM15 Memory Protect Test][HRI17700][SA200].bin" size="8416" crc="01021946" md5="162d6247ad173712ba72d3f80353ba6a" sha1="04c04f4f3febc3e9cca69b1112090352008cbda7"/>
+	</game>
+	<game name="MainDEC-15-D1FA-PB (1969-09-22)(Diagnostic Group)(US)[Extended Memory Address Test][XAD15][HRI17700][SA200]">
+		<description>MainDEC-15-D1FA-PB (1969-09-22)(Diagnostic Group)(US)[Extended Memory Address Test][XAD15][HRI17700][SA200]</description>
+		<rom name="MainDEC-15-D1FA-PB (1969-09-22)(Diagnostic Group)(US)[Extended Memory Address Test][XAD15][HRI17700][SA200].bin" size="8007" crc="f6f73d87" md5="8b7f773a1107ddb66a025b3d15eaa4b7" sha1="dfa01e6f5039a54e1a69a14e2af23ce3c2d918f6"/>
+	</game>
+	<game name="MainDEC-15-D1FA-PB (1976-06-22)(Diagnostic Group)(US)[Extended Memory Address Test][XAD15][HRI17700][SA200]">
+		<description>MainDEC-15-D1FA-PB (1976-06-22)(Diagnostic Group)(US)[Extended Memory Address Test][XAD15][HRI17700][SA200]</description>
+		<rom name="MainDEC-15-D1FA-PB (1976-06-22)(Diagnostic Group)(US)[Extended Memory Address Test][XAD15][HRI17700][SA200].bin" size="8045" crc="2a61a77f" md5="f1a1c5a2518d59a25b2f86b7992ef1bf" sha1="b6a8a442b686d5cfa07926f74d64417f9087d5d0"/>
+	</game>
+	<game name="MainDEC-15-D1GA-PB (1976-07-27)(Diagnostic Group)(US)[Memory Address Timing Test]">
+		<description>MainDEC-15-D1GA-PB (1976-07-27)(Diagnostic Group)(US)[Memory Address Timing Test]</description>
+		<rom name="MainDEC-15-D1GA-PB (1976-07-27)(Diagnostic Group)(US)[Memory Address Timing Test].bin" size="1429" crc="c87e4eb8" md5="ef799883a4233f077d9eb50d51d54cd7" sha1="3de613f3a357590dbbe6b91fccba6728fee6a046"/>
+	</game>
+	<game name="MainDEC-15-D1HA-PB (1970)(Diagnostic Group)(US)[Hot Memory Test Mark II]">
+		<description>MainDEC-15-D1HA-PB (1970)(Diagnostic Group)(US)[Hot Memory Test Mark II]</description>
+		<rom name="MainDEC-15-D1HA-PB (1970)(Diagnostic Group)(US)[Hot Memory Test Mark II].bin" size="2216" crc="06b83252" md5="88286138eb1d2c335672037ef49097b6" sha1="15af30348cb2033e3a035b97e12adeef375d7119"/>
+	</game>
+	<game name="MainDEC-15-D1K2-PB (1970-03-31)(Diagnostic Group)(US)[BASIC Memory Parity Test][High Version]">
+		<description>MainDEC-15-D1K2-PB (1970-03-31)(Diagnostic Group)(US)[BASIC Memory Parity Test][High Version]</description>
+		<rom name="MainDEC-15-D1K2-PB (1970-03-31)(Diagnostic Group)(US)[BASIC Memory Parity Test][High Version].bin" size="956" crc="724cbbc9" md5="7b3ee75d49498893380a7b66e0483a27" sha1="e4544d597657cab99ed06a5751f01814b6de14a9"/>
+	</game>
+	<game name="MainDEC-15-D1LA-PB (1970-04-15)(Diagnostic Group)(US)[Extended Memory Parity Checkerboard]">
+		<description>MainDEC-15-D1LA-PB (1970-04-15)(Diagnostic Group)(US)[Extended Memory Parity Checkerboard]</description>
+		<rom name="MainDEC-15-D1LA-PB (1970-04-15)(Diagnostic Group)(US)[Extended Memory Parity Checkerboard].bin" size="5600" crc="e9a699c2" md5="9b443ce45a44cb28c51421a4a3649268" sha1="beafbb6fbfaa5057a87b73a926f589383f12f4f3"/>
+	</game>
+	<game name="MainDEC-15-D2EC-PB (1976-03-04)(Diagnostic Group)(US)[LP15F Line Printer Test][HRI17700][SA200]">
+		<description>MainDEC-15-D2EC-PB (1976-03-04)(Diagnostic Group)(US)[LP15F Line Printer Test][HRI17700][SA200]</description>
+		<rom name="MainDEC-15-D2EC-PB (1976-03-04)(Diagnostic Group)(US)[LP15F Line Printer Test][HRI17700][SA200].bin" size="13039" crc="726cf0e2" md5="825e47b84b4210c107b69568fba340f3" sha1="bd5ab0f33133d6788bc61df19477dbab2dde977c"/>
+	</game>
+	<game name="MainDEC-15-D2FA-PB (1978-01-16)(Diagnostic Group)(US)[LP15C Line Printer Test]">
+		<description>MainDEC-15-D2FA-PB (1978-01-16)(Diagnostic Group)(US)[LP15C Line Printer Test]</description>
+		<rom name="MainDEC-15-D2FA-PB (1978-01-16)(Diagnostic Group)(US)[LP15C Line Printer Test].bin" size="13209" crc="e35129a6" md5="f3bae002fa70ad4cd0cb82953fcffdd0" sha1="e051b167c021a3bd341249681a74f61533e1d561"/>
+	</game>
+	<game name="MainDEC-15-D4AC-PB (1978-10-23)(Diagnostic Group)(US)[TC59 Magnetic Tape Control Instruction Test]">
+		<description>MainDEC-15-D4AC-PB (1978-10-23)(Diagnostic Group)(US)[TC59 Magnetic Tape Control Instruction Test]</description>
+		<rom name="MainDEC-15-D4AC-PB (1978-10-23)(Diagnostic Group)(US)[TC59 Magnetic Tape Control Instruction Test].bin" size="13895" crc="b215db34" md5="4051b9d3eedb9e017ffa2bab61ea63ba" sha1="7a254ccb35e26c2ab1e992a803a339dc7dac1454"/>
+	</game>
+	<game name="MainDEC-15-D4CC-PB (1978-10-20)(Diagnostic Group)(US)[TC59 Magnetic Tape Control Drive Function Timer]">
+		<description>MainDEC-15-D4CC-PB (1978-10-20)(Diagnostic Group)(US)[TC59 Magnetic Tape Control Drive Function Timer]</description>
+		<rom name="MainDEC-15-D4CC-PB (1978-10-20)(Diagnostic Group)(US)[TC59 Magnetic Tape Control Drive Function Timer].bin" size="6390" crc="d733802a" md5="dfe73e49a3ee8504822cb1e7a20cc08d" sha1="2443793d19234503b1c4f0f6d70bc18a1610fd0a"/>
+	</game>
+	<game name="MainDEC-15-D4DB-PB (1978-10-23)(Diagnostic Group)(US)[TC59 Magnetic Tape Control 7-Track Data Reliability Test]">
+		<description>MainDEC-15-D4DB-PB (1978-10-23)(Diagnostic Group)(US)[TC59 Magnetic Tape Control 7-Track Data Reliability Test]</description>
+		<rom name="MainDEC-15-D4DB-PB (1978-10-23)(Diagnostic Group)(US)[TC59 Magnetic Tape Control 7-Track Data Reliability Test].bin" size="8666" crc="dcb42180" md5="8d20e7655e9ccde6323545e16cd61697" sha1="d840e1b73cf9afbe6bce2bc583b8ae14976c39c6"/>
+	</game>
+	<game name="MainDEC-15-D4EB-PB (1978-10-23)(Diagnostic Group)(US)[TC59 Magnetic Tape Control 9-Track Data Reliability Test]">
+		<description>MainDEC-15-D4EB-PB (1978-10-23)(Diagnostic Group)(US)[TC59 Magnetic Tape Control 9-Track Data Reliability Test]</description>
+		<rom name="MainDEC-15-D4EB-PB (1978-10-23)(Diagnostic Group)(US)[TC59 Magnetic Tape Control 9-Track Data Reliability Test].bin" size="8652" crc="c61ffdbc" md5="ff0bbbdf65bdd7b9ee4ae90bb4ad5832" sha1="e3f2c65644b952d641e369748fd801b2a44e77af"/>
+	</game>
+	<game name="MainDEC-15-D4GC-PB (1978-10-23)(Diagnostic Group)(US)[TC59 Magnetic Tape Control Random Exerciser]">
+		<description>MainDEC-15-D4GC-PB (1978-10-23)(Diagnostic Group)(US)[TC59 Magnetic Tape Control Random Exerciser]</description>
+		<rom name="MainDEC-15-D4GC-PB (1978-10-23)(Diagnostic Group)(US)[TC59 Magnetic Tape Control Random Exerciser].bin" size="6910" crc="a57b53e3" md5="f80a61bd5ba21c3bce92ae8a5f8e78d8" sha1="fa0854f385aedf40d3b84e54ab969e8a151ddb73"/>
+	</game>
+	<game name="MainDEC-15-D6BB-PB (1971-02-01)(Diagnostic Group)(US)[VP15-VP15M Display Diagnostic]">
+		<description>MainDEC-15-D6BB-PB (1971-02-01)(Diagnostic Group)(US)[VP15-VP15M Display Diagnostic]</description>
+		<rom name="MainDEC-15-D6BB-PB (1971-02-01)(Diagnostic Group)(US)[VP15-VP15M Display Diagnostic].bin" size="5673" crc="a9efd1c3" md5="07c1ea91927a9499130b884813f48d3e" sha1="cd844a377b9d1976d07e48e806f7e71092b1a82f"/>
+	</game>
+	<game name="MainDEC-15-D6EC-PB (1971-09-08)(Diagnostic Group)(US)[VT15 Lillte Pictures]">
+		<description>MainDEC-15-D6EC-PB (1971-09-08)(Diagnostic Group)(US)[VT15 Lillte Pictures]</description>
+		<rom name="MainDEC-15-D6EC-PB (1971-09-08)(Diagnostic Group)(US)[VT15 Lillte Pictures].bin" size="8436" crc="5563395a" md5="488b186c26b74fb3323d455f51c135bc" sha1="fb2abdb1b35aed6bc1da83681682ef43d193ead6"/>
+	</game>
+	<game name="MainDEC-15-D7BC-PB (1970-06-18)(Diagnostic Group)(US)[8K BASIC Exerciser]">
+		<description>MainDEC-15-D7BC-PB (1970-06-18)(Diagnostic Group)(US)[8K BASIC Exerciser]</description>
+		<rom name="MainDEC-15-D7BC-PB (1970-06-18)(Diagnostic Group)(US)[8K BASIC Exerciser].bin" size="14025" crc="e3f50cad" md5="642cf6c15dfe65b411f1e93971e2c997" sha1="7da272191adebf758fd909782d3a826d44a8e5b6"/>
+	</game>
+	<game name="MainDEC-15-D8CB-PH (1976-11-15)(Diagnostic Group)(US)[LT09 Diagnostic]">
+		<description>MainDEC-15-D8CB-PH (1976-11-15)(Diagnostic Group)(US)[LT09 Diagnostic]</description>
+		<rom name="MainDEC-15-D8CB-PH (1976-11-15)(Diagnostic Group)(US)[LT09 Diagnostic].bin" size="8345" crc="d063bb78" md5="91969dd229bc3ba19fc83967be3a066c" sha1="51a7de3a2d1157334e6a6bdf598cd57ec153507f"/>
+	</game>
+	<game name="MainDEC-15-DAAPA-A-PB (197x)(Diagnostic Group)(US)[I-O Test]">
+		<description>MainDEC-15-DAAPA-A-PB (197x)(Diagnostic Group)(US)[I-O Test]</description>
+		<rom name="MainDEC-15-DAAPA-A-PB (197x)(Diagnostic Group)(US)[I-O Test].bin" size="6763" crc="4a5c820e" md5="0917c92f2a4a7e9fbb29f79f0be25dec" sha1="ad3eb13a305620af5a3f73ae7dc3142112a1e57e"/>
+	</game>
+	<game name="MainDEC-15-DAKTA-A-PB (1978-09-12)(Diagnostic Group)(US)[KT15 Memory Relocate Diagnostic]">
+		<description>MainDEC-15-DAKTA-A-PB (1978-09-12)(Diagnostic Group)(US)[KT15 Memory Relocate Diagnostic]</description>
+		<rom name="MainDEC-15-DAKTA-A-PB (1978-09-12)(Diagnostic Group)(US)[KT15 Memory Relocate Diagnostic].bin" size="9042" crc="80ed875e" md5="b7f42b16abc48a1955b57e3b6a42a6e8" sha1="e0325af751d17438cdf4e14e11c3032d4020d432"/>
+	</game>
+	<game name="MainDEC-15-DAMXA-A-PB (1972)(Diagnostic Group)(US)[Extended Memory Checkerboard MXC15B]">
+		<description>MainDEC-15-DAMXA-A-PB (1972)(Diagnostic Group)(US)[Extended Memory Checkerboard MXC15B]</description>
+		<rom name="MainDEC-15-DAMXA-A-PB (1972)(Diagnostic Group)(US)[Extended Memory Checkerboard MXC15B].bin" size="6224" crc="1dacb1b6" md5="752c0fb4b5dd9417ce2af1b710aea149" sha1="52a64e0f801def5cafcde26a467a251e2b1b92ef"/>
+	</game>
+	<game name="MainDEC-15-DAMXA-A-PB (1976-09-10)(Diagnostic Group)(US)[Extended Memory Checkerboard MXC15B]">
+		<description>MainDEC-15-DAMXA-A-PB (1976-09-10)(Diagnostic Group)(US)[Extended Memory Checkerboard MXC15B]</description>
+		<rom name="MainDEC-15-DAMXA-A-PB (1976-09-10)(Diagnostic Group)(US)[Extended Memory Checkerboard MXC15B].bin" size="5971" crc="aac19fb5" md5="199890c5512cbeea25200d4d9c888727" sha1="da04d3afdc50b685e62282def49e78a66096f5a6"/>
+	</game>
+	<game name="MainDEC-15-DAQAD-A-PB (1978-01-16)(Diagnostic Group)(US)[System Exerciser Restore]">
+		<description>MainDEC-15-DAQAD-A-PB (1978-01-16)(Diagnostic Group)(US)[System Exerciser Restore]</description>
+		<rom name="MainDEC-15-DAQAD-A-PB (1978-01-16)(Diagnostic Group)(US)[System Exerciser Restore].bin" size="4649" crc="2de932f6" md5="084d92b4da3930a2b317070da8324061" sha1="9dd803e2e193679672870d25514b08deb4355baf"/>
+	</game>
+	<game name="MainDEC-15-DAVTB-A-PB (197x)(Diagnostic Group)(US)[VT15 Instruction Test Part 1]">
+		<description>MainDEC-15-DAVTB-A-PB (197x)(Diagnostic Group)(US)[VT15 Instruction Test Part 1]</description>
+		<rom name="MainDEC-15-DAVTB-A-PB (197x)(Diagnostic Group)(US)[VT15 Instruction Test Part 1].bin" size="8606" crc="6c9d7907" md5="deae1570f13dac53265be6002db79335" sha1="83a2e8f88fca651c556a8775ba2e6520b9cfd0c1"/>
+	</game>
+</datafile>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tiki Data Kontiki-100 &amp; Tiki-100 - Firmware</name>
+		<description>Tiki Data Kontiki-100 &amp; Tiki-100 - Firmware (TOSEC-v2011-05-13)</description>
+		<category>TOSEC</category>
+		<version>2011-05-13</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Kontiki-100 Monitor v1.30 (198x)(Tiki Data)">
+		<description>Kontiki-100 Monitor v1.30 (198x)(Tiki Data)</description>
+		<rom name="Kontiki-100 Monitor v1.30 (198x)(Tiki Data).bin" size="8192" crc="c482dcaf" md5="de943011fc302c1c879b87653c4adc4b" sha1="d140706bb7fc8b1fbb37180d98921f5bdda73cf9"/>
+	</game>
+	<game name="Tiki-100 Monitor v1.35 (198x)(Tiki Data)">
+		<description>Tiki-100 Monitor v1.35 (198x)(Tiki Data)</description>
+		<rom name="Tiki-100 Monitor v1.35 (198x)(Tiki Data).bin" size="8192" crc="7dac5ee7" md5="ab0004b01630ac291f7dcedb7804ce8f" sha1="14d622fd843833faec346bf5357d7576061f5a3d"/>
+	</game>
+	<game name="Tiki-100 Monitor v2.03W (198x)(Tiki Data)">
+		<description>Tiki-100 Monitor v2.03W (198x)(Tiki Data)</description>
+		<rom name="Tiki-100 Monitor v2.03W (198x)(Tiki Data).bin" size="8192" crc="79662476" md5="1549272878e212cf7a24fe50f904be08" sha1="96336633ecaf1b2190c36c43295ac9f785d1f83a"/>
+	</game>
+</datafile>

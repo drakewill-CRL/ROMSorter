@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>HomeLab BraiLab - Applications</name>
+		<description>HomeLab BraiLab - Applications (TOSEC-v2011-09-04)</description>
+		<category>TOSEC</category>
+		<version>2011-09-04</version>
+		<author>Gruby</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Automata beszelo telefonkonyv (198x)(Dr. Szel Lajos)(hu)">
+		<description>Automata beszelo telefonkonyv (198x)(Dr. Szel Lajos)(hu)</description>
+		<rom name="Automata beszelo telefonkonyv (198x)(Dr. Szel Lajos)(hu).htp" size="3612" crc="9bf49f4c" md5="e12601fc97f418a5c8d84902ee3b288c" sha1="7ef317450ad1da193030cfee231b8f07be1cc233"/>
+	</game>
+	<game name="Automata Morze leado (1986-06-10)(Dr. Szel Lajos)(hu)">
+		<description>Automata Morze leado (1986-06-10)(Dr. Szel Lajos)(hu)</description>
+		<rom name="Automata Morze leado (1986-06-10)(Dr. Szel Lajos)(hu).htp" size="3044" crc="bd2e0a75" md5="2c39cc97efc1237f62b6742fc78d063c" sha1="9700e62d519ff7c9ae10ee84650eefb8ff1e4f9a"/>
+	</game>
+	<game name="BraiLab Overlay (1990)(Varga Erno)">
+		<description>BraiLab Overlay (1990)(Varga Erno)</description>
+		<rom name="BraiLab Overlay (1990)(Varga Erno).htp" size="2931" crc="dd1aae91" md5="173c1744b2c604acefb34b3f3ad8d18c" sha1="7600aa8bc7b8ac1d940e0fc849747a5c0f42e9ca"/>
+	</game>
+	<game name="Fajlnevbemondo (198x)(-)">
+		<description>Fajlnevbemondo (198x)(-)</description>
+		<rom name="Fajlnevbemondo (198x)(-).htp" size="576" crc="3a5b572e" md5="c341774471a3f367df5f14b1e276737c" sha1="55df4ca41d9c0b9dc4c53a18a678cecf88de16e9"/>
+	</game>
+	<game name="Szovegolvaso! (1990-08-26)(Varga Erno)(hu)">
+		<description>Szovegolvaso! (1990-08-26)(Varga Erno)(hu)</description>
+		<rom name="Szovegolvaso! (1990-08-26)(Varga Erno)(hu).htp" size="3660" crc="6a9c131c" md5="c83c0c76dc16050f92d5130bd386ba04" sha1="b9c4e2d46d594a16162ce395ffa7cd516e9d912c"/>
+	</game>
+	<game name="Szovegszerkeszto keresovel, taroloval (1986-12-16)(Dr. Szel Lajos)(hu)">
+		<description>Szovegszerkeszto keresovel, taroloval (1986-12-16)(Dr. Szel Lajos)(hu)</description>
+		<rom name="Szovegszerkeszto keresovel, taroloval (1986-12-16)(Dr. Szel Lajos)(hu).htp" size="12370" crc="9bc21a73" md5="8be7902befaa0ce0379a42756b7cd315" sha1="a72b2ea2639e055bac9fa9cdae66be650a028fdb"/>
+	</game>
+</datafile>

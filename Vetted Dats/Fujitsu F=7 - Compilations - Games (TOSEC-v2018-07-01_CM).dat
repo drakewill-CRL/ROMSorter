@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Fujitsu FM-7 - Compilations - Games</name>
+		<description>Fujitsu FM-7 - Compilations - Games (TOSEC-v2018-07-01)</description>
+		<category>TOSEC</category>
+		<version>2018-07-01</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Black Jack &amp; Bonus (1981)(ASCII)">
+		<description>Black Jack &amp; Bonus (1981)(ASCII)</description>
+		<rom name="Black Jack &amp; Bonus (1981)(ASCII).t77" size="448498" crc="90bd16b0" md5="dbf1b5215a59f7c760fe3e5e10f0b794" sha1="95b5a8c8a9259063017d409e1d3c5bb2826ac898"/>
+	</game>
+</datafile>

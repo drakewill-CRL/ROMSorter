@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>PTC Sol Terminal Computer SOL-20 - Various - [ORIG]</name>
+		<description>PTC Sol Terminal Computer SOL-20 - Various - [ORIG] (TOSEC-v2011-08-31)</description>
+		<category>TOSEC</category>
+		<version>2011-08-31</version>
+		<author>Cid - Gnomula - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="ALS-8 Program Development System (1977)(Processor Technology)">
+		<description>ALS-8 Program Development System (1977)(Processor Technology)</description>
+		<rom name="ALS-8 Program Development System (1977)(Processor Technology).orig" size="71003" crc="d8caacf9" md5="e11936d656e334c7e51d4016774d3cb5" sha1="abf96de460fd390dd6024eaa8c0203db23392209"/>
+	</game>
+	<game name="Program Development System (1977)(Software Technology)">
+		<description>Program Development System (1977)(Software Technology)</description>
+		<rom name="Program Development System (1977)(Software Technology).orig" size="125667" crc="1f2fb46e" md5="4b51847893eb7529dbca9916bcedb3dc" sha1="9e958937846c32351a40ef6f0d19a3339e7dd9cc"/>
+	</game>
+</datafile>

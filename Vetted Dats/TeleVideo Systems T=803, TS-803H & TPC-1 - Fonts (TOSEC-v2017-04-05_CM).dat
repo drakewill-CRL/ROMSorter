@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>TeleVideo Systems TS-803, TS-803H &amp; TPC-1 - Fonts</name>
+		<description>TeleVideo Systems TS-803, TS-803H &amp; TPC-1 - Fonts (TOSEC-v2017-04-05)</description>
+		<category>TOSEC</category>
+		<version>2017-04-05</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<url>http://www.tosecdev.org</url>
+		<clrmamepro/>
+	</header>
+	<game name="Fancy Fonts 1 (19xx)(-)">
+		<description>Fancy Fonts 1 (19xx)(-)</description>
+		<rom name="Fancy Fonts 1 (19xx)(-).imd" size="308727" crc="d6b8c920" md5="672a368998829a1982538686f124d313" sha1="89ac0dcbe942c80452cd43c84e53096173f266d7"/>
+	</game>
+	<game name="Fancy Fonts 2 (19xx)(-)">
+		<description>Fancy Fonts 2 (19xx)(-)</description>
+		<rom name="Fancy Fonts 2 (19xx)(-).imd" size="183267" crc="ae0c2f32" md5="992e56bfd08a454359bde2089eb8de3b" sha1="c48cc7cf99126982035a6b26a776e00c0ca1e457"/>
+	</game>
+</datafile>

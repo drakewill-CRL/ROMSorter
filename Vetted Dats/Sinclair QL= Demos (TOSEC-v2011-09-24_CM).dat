@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sinclair QL - Demos</name>
+		<description>Sinclair QL - Demos (TOSEC-v2011-09-24)</description>
+		<category>TOSEC</category>
+		<version>2011-09-24</version>
+		<author>Xtale - Grendel - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Border Demo (1992)(Salmi, Timo)">
+		<description>Border Demo (1992)(Salmi, Timo)</description>
+		<rom name="Border Demo (1992)(Salmi, Timo).bas" size="1627" crc="45f08dc2" md5="78a619461db40ccda7409a4272cacf7c" sha1="aecaef3556ec6882a812356b29ff49493191da54"/>
+	</game>
+	<game name="Circle Demo (1992)(Salmi, Timo)">
+		<description>Circle Demo (1992)(Salmi, Timo)</description>
+		<rom name="Circle Demo (1992)(Salmi, Timo).bas" size="2968" crc="6ed49777" md5="83770f84904bd9d2f9eb87c60d15ff13" sha1="e3606baf3b0752d51980ee036a9dc7194c70544e"/>
+	</game>
+	<game name="Graph Demo (19xx)(-)">
+		<description>Graph Demo (19xx)(-)</description>
+		<rom name="Graph Demo (19xx)(-).bas" size="3314" crc="c998062f" md5="c6c45411c367e066889080a5db91fca1" sha1="32be397c850a394619a22c39dd327989db7a9d7a"/>
+	</game>
+	<game name="Hat Art (19xx)(-)">
+		<description>Hat Art (19xx)(-)</description>
+		<rom name="Hat Art (19xx)(-).bas" size="889" crc="f913082f" md5="783bb6b329364a8fc213025bbf90d59a" sha1="3276ce8483cbbdb26961c613a6b143b30f5a07d3"/>
+	</game>
+	<game name="Joe Cool (19xx)(-)">
+		<description>Joe Cool (19xx)(-)</description>
+		<rom name="Joe Cool (19xx)(-).bas" size="129" crc="971ad389" md5="75406c3e9b34adf5bea2aa1e85a240b3" sha1="9f69e7acee53638e1a7dbad0d48e1e7c8a754817"/>
+	</game>
+	<game name="Phone Demo (19xx)(-)">
+		<description>Phone Demo (19xx)(-)</description>
+		<rom name="Phone Demo (19xx)(-).bas" size="209" crc="dab4f80c" md5="44733115ae4f8be0f4c62f6b3ee42b26" sha1="7269e54443e83f7cc89ef6c48bab5cc97c64317a"/>
+	</game>
+	<game name="Saturnus (19xx)(-)">
+		<description>Saturnus (19xx)(-)</description>
+		<rom name="Saturnus (19xx)(-).bas" size="1334" crc="4f2e8336" md5="3e739ad5791f7ba86ea6f9c430a331d4" sha1="2fc47e04fadd17d354357772be6d0c6426071b1a"/>
+	</game>
+	<game name="Scan Demo v2.3 (1992)(Salmi, Timo)">
+		<description>Scan Demo v2.3 (1992)(Salmi, Timo)</description>
+		<rom name="Scan Demo v2.3 (1992)(Salmi, Timo).bas" size="5757" crc="fb544532" md5="b0adf0d3e69f2d7fbf44ad72b785594c" sha1="6c19b07b6ba5594cc8874b82f14905f23111a3b7"/>
+	</game>
+	<game name="Shadow (19xx)(-)">
+		<description>Shadow (19xx)(-)</description>
+		<rom name="Shadow (19xx)(-).bas" size="598" crc="d2bd3559" md5="d32a13186e77d7c73c24e1fbcb877dbd" sha1="5710faa9c07df66d06ded3545d49c8cd87dc909e"/>
+	</game>
+	<game name="Toram v1.2 (1992)(Salmi, Timo)">
+		<description>Toram v1.2 (1992)(Salmi, Timo)</description>
+		<rom name="Toram v1.2 (1992)(Salmi, Timo).bas" size="1823" crc="067fb3a7" md5="539caf289cb36c5c972d695b6ac4ac54" sha1="758630b6181f94ec235fc3cbde904ea8f813ec7f"/>
+	</game>
+	<game name="Treitz 11 (19xx)(Salmi, Timo)">
+		<description>Treitz 11 (19xx)(Salmi, Timo)</description>
+		<rom name="Treitz 11 (19xx)(Salmi, Timo).bas" size="2295" crc="0df1d125" md5="c4425ec8f1e7ef3f5a9f9cbb87cc18e8" sha1="ed0c4ffe51ac03444db66815b10d1b53f871e34c"/>
+	</game>
+	<game name="Treitz 12 (19xx)(Salmi, Timo)">
+		<description>Treitz 12 (19xx)(Salmi, Timo)</description>
+		<rom name="Treitz 12 (19xx)(Salmi, Timo).bas" size="2354" crc="5e868050" md5="03b061ead0c50cc061d05e7cf0ad30b2" sha1="a0a2509293665f6b12c4b66e47b37bda71055ee2"/>
+	</game>
+	<game name="Treitz 22 v1.5 (1992)(Salmi, Timo)">
+		<description>Treitz 22 v1.5 (1992)(Salmi, Timo)</description>
+		<rom name="Treitz 22 v1.5 (1992)(Salmi, Timo).bas" size="3597" crc="90a3c19c" md5="f61609b766beafdafc0219cbce54e2b3" sha1="7d268d9bfd8e59847ade3c9abec3569c13fe50ff"/>
+	</game>
+	<game name="Treitz 6 (19xx)(Salmi, Timo)">
+		<description>Treitz 6 (19xx)(Salmi, Timo)</description>
+		<rom name="Treitz 6 (19xx)(Salmi, Timo).bas" size="2619" crc="3357e42e" md5="215db2ae4384e5d2e9ae747951252b91" sha1="c004dd46a4514499e333162a58c8635c6f1a1165"/>
+	</game>
+	<game name="Treitz 9 (19xx)(Salmi, Timo)">
+		<description>Treitz 9 (19xx)(Salmi, Timo)</description>
+		<rom name="Treitz 9 (19xx)(Salmi, Timo).bas" size="2468" crc="9f4b416d" md5="f51b40d9558648da1b478d2903b7b574" sha1="5537d21bb3f9c4662d7e75742f36331281b716d9"/>
+	</game>
+	<game name="Turtle Demo (19xx)(-)">
+		<description>Turtle Demo (19xx)(-)</description>
+		<rom name="Turtle Demo (19xx)(-).bas" size="694" crc="6d433662" md5="a2cdc9b715735795075ca4e21991f710" sha1="074b9d681eb071722875c7fccbea12d1917a2249"/>
+	</game>
+	<game name="Worm (19xx)(-)">
+		<description>Worm (19xx)(-)</description>
+		<rom name="Worm (19xx)(-).bas" size="1260" crc="54d4e47a" md5="69edc13e0ae514c859b867aa928bd701" sha1="b3ab29f42fe50b6123f0a40867dbb2c1b199eeef"/>
+	</game>
+</datafile>

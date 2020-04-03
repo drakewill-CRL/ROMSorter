@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+<header>
+		<name>Atari Jaguar - Demos - [ROM]</name>
+		<description>Atari Jaguar - Demos - [ROM] (TOSEC-v2018-07-01)</description>
+		<category>TOSEC</category>
+		<version>2018-07-01</version>
+		<author>Cid - Cassiel - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="BadCode4 Modified (2000)(Badcoder)(PD)[ROM]">
+		<description>BadCode4 Modified (2000)(Badcoder)(PD)[ROM]</description>
+		<rom name="BadCode4 Modified (2000)(Badcoder)(PD)[ROM].rom" size="410976" crc="5e6d06b9" md5="68208df94d3d38e837be519eba71c92a" sha1="2ad20f425c2ed70653349ef9862f4d0bb59cf1aa"/>
+	</game>
+	<game name="CES Demo (199x)(-)(PD)[$802000]">
+		<description>CES Demo (199x)(-)(PD)[$802000]</description>
+		<rom name="CES Demo (199x)(-)(PD)[$802000].rom" size="1538056" crc="b8d820b6" md5="5c10f9e15749ec4ec1688ddb6b0bf656" sha1="b75332ba734ca041c3be86f2f8cfefe1cf74096d"/>
+	</game>
+	<game name="Ladybug Demo (199x)(-)(PD)[ROM]">
+		<description>Ladybug Demo (199x)(-)(PD)[ROM]</description>
+		<rom name="Ladybug Demo (199x)(-)(PD)[ROM].rom" size="288720" crc="549844d6" md5="d2944eac1f00edd505e019c3ef469b26" sha1="816b5935efcd5cd797cab96866b81b47057bb4ee"/>
+	</game>
+</datafile>

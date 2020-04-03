@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C65 - Applications</name>
+		<description>Commodore C65 - Applications (TOSEC-v2011-10-06)</description>
+		<category>TOSEC</category>
+		<version>2011-10-06</version>
+		<author>DesertWolf - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Autoboot (19xx)(-)">
+		<description>Autoboot (19xx)(-)</description>
+		<rom name="autoboot.c65" size="1664" crc="8a01eb65" md5="6132d0228421539cca4f08d3bde49284" sha1="47f21d616d89c4585531e3f712981cda2353827b"/>
+		<rom name="bas.ml" size="256" crc="f6b21c70" md5="2bd891fd5405045a52637a53377c867b" sha1="9e7f045584b2dee5d08a556d29e9776cf0afeaf0"/>
+	</game>
+	<game name="C65 DOS Test Progs (19xx)(Commodore)">
+		<description>C65 DOS Test Progs (19xx)(Commodore)</description>
+		<rom name="5.25 512.bin" size="802" crc="f5d4ec54" md5="2aab7a4cc7b87b374ccf742eb87819ad" sha1="08d07641218f820852cd9ed08c0e77a89f704f17"/>
+		<rom name="crc.1c00" size="45" crc="2a2aa3d6" md5="b1f6f978e5c64a8c2bd250c10c6b9dba" sha1="32e1c8542fb1f5801aad023b7a8c2b2c9c629af7"/>
+		<rom name="crc.bas" size="294" crc="ed4b1729" md5="68ef8fb168d4d52d6a275f6b05b658cd" sha1="7aff2de76c795b083c355222d14d1d4bf6a32c42"/>
+		<rom name="d3.5" size="1245" crc="101a8fd6" md5="c2aa6d79133af64b15fa0f400da72d34" sha1="44ef6771b9b822bd03b4cf42ccd686114a0beb95"/>
+		<rom name="d5.25" size="1150" crc="24ef2d30" md5="5722fc9595459c4aee6e167a3c0315a8" sha1="ae83f797579956826a3b2992f97e02db6bde460f"/>
+		<rom name="d5.25 512.bas" size="1245" crc="66c1963c" md5="f70ca01b8c15d1bf913d25e526ef893e" sha1="3d277dcdbdd1c6579946f0b9cc3497680ef46e2c"/>
+		<rom name="dos.bas" size="1207" crc="8c2b3b80" md5="39231b6f5035f7f3fab1f4b902e2eb7a" sha1="816d00f78a99888e8609fca50732643943cd67cd"/>
+		<rom name="dos.bin" size="523" crc="623ee0d0" md5="e41a8b81be6ed9da6474bf3f1d970872" sha1="7fc630eabde0f4bdb75ae719582bc5f3d5826cc9"/>
+		<rom name="fmt.1c00" size="770" crc="ff0365b1" md5="6b1ac60fbd5dca960a04d0a80ce8466f" sha1="c4101c52ceee165ffd5c55514e74c46783edf812"/>
+		<rom name="foo.bas" size="1212" crc="671c37e9" md5="55b1f9cd4b37503648d3fd6ea5ef91db" sha1="021124e1a9948d578ba80aff28e2098b7a93ff49"/>
+		<rom name="foo.bin" size="546" crc="fa0ed57a" md5="1c86a19b3859d955d2937c0844931da4" sha1="151e9c11b8f378dbbf10dcb1b120d57e2333ea9b"/>
+		<rom name="format.o" size="258" crc="364dfd33" md5="771573c7482dd5e8ab0ed665b9d7efea" sha1="ef019eb51d8a175c2c48317c8ae4368b7c2761e6"/>
+		<rom name="format.o.00" size="256" crc="caee03af" md5="3be6cc2732ccadf7176bdaa954d4a764" sha1="4c3f55bcdecbc162e1cf046b41ef33c1197e7fde"/>
+		<rom name="fred.o" size="14843" crc="31759316" md5="e249beb5f30b72782f6b8442242c297f" sha1="69e99fd638d9416195a977a562b295cb5ae28b11"/>
+		<rom name="hello" size="4" crc="3101f3c0" md5="289dd9a6d5157acb24878b6986bc7984" sha1="2ce4628aaec95c5fa194eb8e1f03dc21cfdc72bf"/>
+		<rom name="jdos120889.bin" size="14196" crc="3d962d73" md5="96bec301cf326f9b485f3405a98dd223" sha1="76566c8d6c65ba125a419c78d944b887af5b0cfa"/>
+		<rom name="newdos.bas" size="1212" crc="01885ec6" md5="f1372146d6f463f596b651c46684c491" sha1="32d4c1ee94a64f9c973262f70c95d08f4a2ab9cf"/>
+		<rom name="newdos.bin" size="770" crc="3910e1ff" md5="58946c5d9bc36890adc3448112aa2eef" sha1="b8aeb4347c739ea6b6c9f4616eb92cec74235450"/>
+		<rom name="newdos.obj" size="2167" crc="7814c044" md5="e6a51c237d12fa5333dae88a9dfa7853" sha1="6e258ac7aa8c82948b3b4cb79b546ca8864ec2d1"/>
+		<rom name="newdos.obj1" size="2161" crc="1399916a" md5="def455f3d691ebec506d3d77ec79f0dd" sha1="3aada2f06c3d04fb54f9a10689d583b41d4bed9b"/>
+		<rom name="newdos1.bas" size="1219" crc="cd334bc1" md5="7c67e363c10734fb4351417371181ef2" sha1="67acfe2a3b91fc56ddb9b53288737f9e9dcce949"/>
+		<rom name="newdos1.bin" size="802" crc="4ebc5ca5" md5="3cc4e20ce42aaded098e2e4102503d7d" sha1="8aa17882f8ec8b7baf02f3a916622c086e9f1d26"/>
+		<rom name="newdos1.obj" size="2239" crc="e2b1624f" md5="f2adc72915c460cab67e099f8e3e347c" sha1="827852f162dc7a2dd2a9351c38a374232eb875cb"/>
+		<rom name="newdos2.bas" size="1230" crc="2665a10e" md5="57d05af172d7816ccbbbcd44d25e5f87" sha1="a77af2d29c764a7c90d537fb81697fe989133d63"/>
+		<rom name="newdos2.bin" size="802" crc="3b176946" md5="0de580dfcf2ed17809e0022001f685ee" sha1="748b7f6a43b00989b79b2dc26595c87081b60d18"/>
+		<rom name="newdos2.obj" size="2239" crc="9a9c2d7d" md5="5dfe87b952ca1a23a9b946892c5bdcd1" sha1="1430d8ca4aa39025e209adbce9b2d67f6be5d847"/>
+		<rom name="newfmt.bin" size="519" crc="04c296e7" md5="ba60621784cbae75e475547bccd0c644" sha1="5faac04295736a0436facbbf12e306128da1f358"/>
+		<rom name="newfmt.obj" size="1476" crc="8f223100" md5="cf8e290473371365b1a2103622ea1caf" sha1="e97d9eb9a3c73552d76c0705cf63b2b94462b851"/>
+		<rom name="newfmt1.bin" size="546" crc="e25b7088" md5="fde42ade0ac32adc604e8dec86ae737b" sha1="ad66cdd795928b838bb96aef0020134077fc50a3"/>
+		<rom name="newfmt1.obj" size="1543" crc="fd10c281" md5="919f842af599f9db7cfe0b00857d0e28" sha1="85a42acba5c4567ba45ae56dc0fccf983ba8c8b5"/>
+		<rom name="newfmt2.bin" size="546" crc="b0a435df" md5="84a49082b5eff5d30345b9eef0da6523" sha1="1d620a09d3f12784ad0d6fb1e04e0e22c14170f6"/>
+		<rom name="newfmt2.obj" size="1539" crc="1d28f73c" md5="1e9fdcc207709a8317274e1e84ea2610" sha1="4caf9b21b7254afd1cc622707d7a49d2a6a83ea7"/>
+		<rom name="newfmtx.bin" size="788" crc="b643e641" md5="da962111d4ed16478bd75f342e7da9b4" sha1="563d48ef8f180fb3da82c3abbd6bdd23b5dce8c2"/>
+		<rom name="newformat" size="574" crc="9e305770" md5="2415bc8e80b0f3d78ee89f8d0e89a168" sha1="80b33a18814c2c33ed0538815b7d63f535508ace"/>
+		<rom name="rdxwt.bas" size="550" crc="9618852d" md5="e90b9f875a0e25b966416dced2de1fc2" sha1="859e40f7576ffc0b02dff6a2a8983d4e5f358a4b"/>
+		<rom name="read" size="580" crc="bc1b90b3" md5="67bf67d0672f418b6f33b85e8223a5fa" sha1="33b5dc5bcbe6063b20d8434b6534e026e581f09c"/>
+		<rom name="read-write.o" size="229" crc="9cf60abc" md5="c1857e5640e4f0bc45aa2b6a9b4df3fc" sha1="fe9c2f060fa697e0975d51790c1702c032a5288e"/>
+		<rom name="readfmt" size="66" crc="5cdb7549" md5="9b3b62769e1955c5c4f7c0bbf05342c1" sha1="af7fa8ef64dc9308226c13d9885b86ba78268e0e"/>
+		<rom name="status" size="46" crc="e7f721d3" md5="18198cc4da396aa9a8fc4618bf1148fb" sha1="0362a2dfd1a7dfdb27ede50007dbfebc4cec0607"/>
+		<rom name="status1" size="91" crc="cd3125f8" md5="d04fdab6edd7924661637f0e69af61d8" sha1="fbc63979a8b95dd812433dcb016109ada971d9b5"/>
+		<rom name="step80" size="214" crc="569aa88a" md5="254d049f6f854f2db008ae6e3bd347eb" sha1="401be8a9323b64a6bd2cbde84d62bafac7fed30f"/>
+		<rom name="trk" size="877" crc="2907a44e" md5="949e82866b84caf8722bb43cf98435f5" sha1="73217b794530807cec0a149b4a81877fb4ee0d8a"/>
+	</game>
+	<game name="ROM ZP-Save v2.01 (1997)(Hechelhammer, Thomas)">
+		<description>ROM ZP-Save v2.01 (1997)(Hechelhammer, Thomas)</description>
+		<rom name="romsave-2.01" size="2049" crc="15ea25a0" md5="d9ef5f8bec9458fd8ce1fcebd4de1f32" sha1="c2057c5fa722fc8acfd0dc98ed0016d80d822171"/>
+	</game>
+	<game name="Turbo Disk 65 v2 (19xx)(Biasin, Oliver)(de)">
+		<description>Turbo Disk 65 v2 (19xx)(Biasin, Oliver)(de)</description>
+		<rom name="turbo disk 65 v2" size="2664" crc="f607c7e9" md5="b78cbea0812ee1ff8163f026cc88d89d" sha1="98be3f265e6b8226026ed8b784477548ef7d0292"/>
+	</game>
+	<game name="Turbo Disk 65 v3 (1997)(Biasin, Oliver)(de)">
+		<description>Turbo Disk 65 v3 (1997)(Biasin, Oliver)(de)</description>
+		<rom name="turbo disk 65 v3" size="2317" crc="ec8caec8" md5="3368e10223c9635bfda23967dab80e41" sha1="5fab4202443cba40aa269a4add81516afff3f2a7"/>
+	</game>
+</datafile>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Memorex Video Information System - Games</name>
+		<description>Memorex Video Information System - Games (TOSEC-v2012-07-13)</description>
+		<category>TOSEC-ISO</category>
+		<version>2012-07-13</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Awesome Adventures of Victor Vector &amp; Yondo, The - Adventure No. 1 - The Vampire's Coffin (1992)(Sanctuary Woods)(US)[!]">
+		<description>Awesome Adventures of Victor Vector &amp; Yondo, The - Adventure No. 1 - The Vampire's Coffin (1992)(Sanctuary Woods)(US)[!]</description>
+		<rom name="Awesome Adventures of Victor Vector &amp; Yondo, The - Adventure No. 1 - The Vampire's Coffin (1992)(Sanctuary Woods)(US)[!].cue" size="209" crc="a26f414a" md5="3a6648bd703e4230d4a7a08902a85689" sha1="cc9579257af1df16237c2348edc57dd11b59fd73"/>
+		<rom name="Awesome Adventures of Victor Vector &amp; Yondo, The - Adventure No. 1 - The Vampire's Coffin (1992)(Sanctuary Woods)(US)[!].iso" size="98912256" crc="36a95843" md5="af1b0ac892468c330c0433e874e0ff05" sha1="712be9e46005f09d739c6dc23e1d90169d77e2db"/>
+	</game>
+	<game name="Links - The Challenge of Golf (1992)(Access Software)(US)">
+		<description>Links - The Challenge of Golf (1992)(Access Software)(US)</description>
+		<rom name="Links - The Challenge of Golf (1992)(Access Software)(US).cue" size="146" crc="777e552c" md5="b3bcb06ad0fcb84db96812191b4939ef" sha1="fbbe6689148b895ebddca761a976b5ec40c311df"/>
+		<rom name="Links - The Challenge of Golf (1992)(Access Software)(US).iso" size="3430400" crc="ff1f9946" md5="4b19312f68b2ff0fa06aa0594bbec60b" sha1="3635ce247c1e9d4c69f72ecb1059853614ecdb2b"/>
+	</game>
+	<game name="Sherlock Holmes - Consulting Detective - Volume I (1992)(ICOM)(US)">
+		<description>Sherlock Holmes - Consulting Detective - Volume I (1992)(ICOM)(US)</description>
+		<rom name="Sherlock Holmes - Consulting Detective - Volume I (1992)(ICOM)(US).cue" size="155" crc="fab5d5e9" md5="980fc7da7dbefb06bf26b2f8bbf53222" sha1="ff6a71531bcb7c006a96c1360ac331ac731ed776"/>
+		<rom name="Sherlock Holmes - Consulting Detective - Volume I (1992)(ICOM)(US).iso" size="446472192" crc="0fc193dd" md5="008c3da64dd08cbf23846d37a7530593" sha1="8e0b23c099d794d847016699cdb810deeba64d19"/>
+	</game>
+	<game name="Sherlock Holmes - Consulting Detective - Volume II (1992)(ICOM)(US)">
+		<description>Sherlock Holmes - Consulting Detective - Volume II (1992)(ICOM)(US)</description>
+		<rom name="Sherlock Holmes - Consulting Detective - Volume II (1992)(ICOM)(US).cue" size="156" crc="fe188b05" md5="04f5e99f72194e1a7fa00b7352a00b7b" sha1="1008fff6276989df0df074fcf850aad5d7f79b32"/>
+		<rom name="Sherlock Holmes - Consulting Detective - Volume II (1992)(ICOM)(US).iso" size="402999296" crc="5024d1e5" md5="dc23ffe2d5a81bf4b2a68f6baeca4db4" sha1="4f083d30c35cfa6cb13b4f16cbd727468448bdd6"/>
+	</game>
+</datafile>

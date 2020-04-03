@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>IBM PCjr - Applications - [BAS]</name>
+		<description>IBM PCjr - Applications - [BAS] (TOSEC-v2011-01-02)</description>
+		<category>TOSEC</category>
+		<version>2011-01-02</version>
+		<author>Aral</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Dots (1985-09-02)(Fastie, Will - Brutman, Michael)[dots-2, speech adapter sidecar demo]">
+		<description>Dots (1985-09-02)(Fastie, Will - Brutman, Michael)[dots-2, speech adapter sidecar demo]</description>
+		<rom name="Dots (1985-09-02)(Fastie, Will - Brutman, Michael)[dots-2, speech adapter sidecar demo].bas" size="2193" crc="4eb9c57b" md5="17eb3c01a972c279fb47da4e356aa967" sha1="cff8e41241b2db9712766cb44425c521de3a9016"/>
+	</game>
+	<game name="JrDraw (19xx)(Bedick, Robert)[JR-DRAW, paint program]">
+		<description>JrDraw (19xx)(Bedick, Robert)[JR-DRAW, paint program]</description>
+		<rom name="JrDraw (19xx)(Bedick, Robert)[JR-DRAW, paint program].bas" size="5504" crc="f48f60db" md5="7f4cfbd97c98868661eca156003b2dd2" sha1="ea5bc33683e1572aa6bda5f7d7a3057fc89a3a14"/>
+	</game>
+	<game name="Parallel (2003)(Brutman, Michael)[parallel, parallel port utility]">
+		<description>Parallel (2003)(Brutman, Michael)[parallel, parallel port utility]</description>
+		<rom name="Parallel (2003)(Brutman, Michael)[parallel, parallel port utility].bas" size="772" crc="38312d2b" md5="1c9d21f9de44f3b7f18b652d0ffbd32e" sha1="ea5be979ccc7063e83ea9a65a9d32156187b6eca"/>
+	</game>
+	<game name="PC-TALK III (1983)(Fluegelman, Andrew - Headlands Press)(FW)[pc-talk, terminal program]">
+		<description>PC-TALK III (1983)(Fluegelman, Andrew - Headlands Press)(FW)[pc-talk, terminal program]</description>
+		<rom name="PC-TALK III (1983)(Fluegelman, Andrew - Headlands Press)(FW)[pc-talk, terminal program].bas" size="34847" crc="740f4ba1" md5="bde8367f20cd4f932ca5fe3202bf4bf1" sha1="f9e0eee17d77c2a227faaea467608019c307a5a6"/>
+	</game>
+	<game name="Strings (19xx)(Brutman, Michael)[strings, extended video demo]">
+		<description>Strings (19xx)(Brutman, Michael)[strings, extended video demo]</description>
+		<rom name="Strings (19xx)(Brutman, Michael)[strings, extended video demo].bas" size="708" crc="223a2e43" md5="0f010dba60d11e4df8e94480e482e9a0" sha1="86544119fc65c53a172e7b64def3b07d2f966386"/>
+	</game>
+</datafile>

@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>APF Imagination Machine - Applications</name>
+		<description>APF Imagination Machine - Applications (TOSEC-v2018-03-08)</description>
+		<category>TOSEC</category>
+		<version>2018-03-08</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="16K Letter Writer (1982)(Perry, Milt)[16K required]">
+		<description>16K Letter Writer (1982)(Perry, Milt)[16K required]</description>
+		<rom name="16K Letter Writer (1982)(Perry, Milt)[16K required].wav" size="1743020" crc="d1ca5e2d" md5="72cd62fb8d2dcc1a4bc11c2a177a972b" sha1="4c844e54836d4f1de0bf4d653860c5c20444d304"/>
+	</game>
+	<game name="40 Track Initialization Program (1983)(Hex-Mart Software)">
+		<description>40 Track Initialization Program (1983)(Hex-Mart Software)</description>
+		<rom name="40 Track Initialization Program (1983)(Hex-Mart Software).wav" size="1056684" crc="5b729323" md5="670ea07f9a30245d5731fa858c21a87b" sha1="fe7510d16f21d76d28a31b83099248b440c759bc"/>
+	</game>
+	<game name="BASIC Line Renumbering Program v2.3 (19xx)(Hex-Mart Software)">
+		<description>BASIC Line Renumbering Program v2.3 (19xx)(Hex-Mart Software)</description>
+		<rom name="BASIC Line Renumbering Program v2.3 (19xx)(Hex-Mart Software).wav" size="1183404" crc="d46bfbd5" md5="a74a143f58505d98fe202f973b758efe" sha1="7aba4ab227b838492b3c61f36fd149d6dd64ef10"/>
+	</game>
+	<game name="Basic Trace (1982)(Echols, Carl A.)">
+		<description>Basic Trace (1982)(Echols, Carl A.)</description>
+		<rom name="Basic Trace (1982)(Echols, Carl A.).wav" size="983724" crc="f5ab7059" md5="1cae290462e2d90a0ba3816781982634" sha1="43c90cfe44ec866e14ca9d520f6122419ddc1446"/>
+	</game>
+	<game name="Disk Modification Program (1983)(Hex-Mart Software)">
+		<description>Disk Modification Program (1983)(Hex-Mart Software)</description>
+		<rom name="Disk Modification Program (1983)(Hex-Mart Software).wav" size="1083308" crc="8fd9a616" md5="7f69d4b25d9c77d7a09bfff0c7e1a808" sha1="96eee304a5a64a1d42c12dfcfee600578d81e1b5"/>
+	</game>
+	<game name="Disk Test (19xx)(IM-1 in a Million Club Newsletter)">
+		<description>Disk Test (19xx)(IM-1 in a Million Club Newsletter)</description>
+		<rom name="Disk Test (19xx)(IM-1 in a Million Club Newsletter).wav" size="1268736" crc="79ef0a19" md5="5bd24e7db3d27daec180644494a0b075" sha1="9052bcd301c26c1aad8039c5066cfe3e1b32829c"/>
+	</game>
+	<game name="Electronic Billboard (1979)(APF Electronics)">
+		<description>Electronic Billboard (1979)(APF Electronics)</description>
+		<rom name="Electronic Billboard (1979)(APF Electronics).wav" size="1323044" crc="79d80e2d" md5="742c49ae26aa2b1af9848beba35e18cf" sha1="08bc1e907ce7082041c475ed7bf91d792282d9ab"/>
+	</game>
+	<game name="Graphics Helper (1982)(Echols, Carl A.)">
+		<description>Graphics Helper (1982)(Echols, Carl A.)</description>
+		<rom name="Graphics Helper (1982)(Echols, Carl A.).wav" size="1162156" crc="d8160190" md5="6d2d431171caf0039456ce1513cf6872" sha1="9e2f4a91aabf442191495085fd4dc05daafc1454"/>
+	</game>
+	<game name="Graphics Tablet (19xx)(IM-1 in a Million Club Newsletter)">
+		<description>Graphics Tablet (19xx)(IM-1 in a Million Club Newsletter)</description>
+		<rom name="Graphics Tablet (19xx)(IM-1 in a Million Club Newsletter).wav" size="1210540" crc="7550af5a" md5="da614036f423f4571fb0921ad79f52cd" sha1="4a0a6e8f0c818c29f12f8867af1c7ee9af8f09ba"/>
+	</game>
+	<game name="Hi-res Plot (19xx)(IM-1 in a Million Club Newsletter)">
+		<description>Hi-res Plot (19xx)(IM-1 in a Million Club Newsletter)</description>
+		<rom name="Hi-res Plot (19xx)(IM-1 in a Million Club Newsletter).wav" size="997036" crc="cfb5a4ed" md5="720f0e333fa2225ed469255ed02be64c" sha1="466deacb1d28ab9bd62ac8401b10c2899d6633ad"/>
+	</game>
+	<game name="Lo-res Plot (19xx)(IM-1 in a Million Club Newsletter)">
+		<description>Lo-res Plot (19xx)(IM-1 in a Million Club Newsletter)</description>
+		<rom name="Lo-res Plot (19xx)(IM-1 in a Million Club Newsletter).wav" size="983980" crc="1e0a5894" md5="942c595246790acb9f54642f6f53f065" sha1="54464ff325787478eca7bed1118350c37c8144a2"/>
+	</game>
+	<game name="MAE (1981)(Donnelly, David)">
+		<description>MAE (1981)(Donnelly, David)</description>
+		<rom name="MAE (1981)(Donnelly, David).wav" size="5422378" crc="29c99097" md5="b1b4319db0895d38c8d8b93fa6500178" sha1="b749f5d7a394f030001ec6e35882a6bb93a6dca0"/>
+	</game>
+	<game name="Music Composer Player Piano (1979)(APF Electronics)">
+		<description>Music Composer Player Piano (1979)(APF Electronics)</description>
+		<rom name="Music Composer Player Piano (1979)(APF Electronics).wav" size="3403952" crc="c7507a6c" md5="e7e06a4ac9d8d2e18d149c22ea424542" sha1="e5681cd13d79730c7f3118d451c0efa697899fde"/>
+	</game>
+	<game name="Renumber (1982)(Echols, Carl A.)">
+		<description>Renumber (1982)(Echols, Carl A.)</description>
+		<rom name="Renumber (1982)(Echols, Carl A.).wav" size="1035948" crc="83a60951" md5="07a12a954eee643fd2c66809ad7433b1" sha1="e62769ffb7f85bd7948508f35f0a5d04c612c00d"/>
+	</game>
+	<game name="SY-40 Disassembler (1979)(APF Electronics)(US)">
+		<description>SY-40 Disassembler (1979)(APF Electronics)(US)</description>
+		<rom name="SY-40 Disassembler (1979)(APF Electronics)(US).wav" size="1729574" crc="601088a8" md5="580abada5bc1035d24af6d8fdd17bc29" sha1="ce364a5e7544239b5167c70e5575568e225ab0bc"/>
+	</game>
+	<game name="SY-50 Diagnostics (1979)(APF Electronics)(US)">
+		<description>SY-50 Diagnostics (1979)(APF Electronics)(US)</description>
+		<rom name="SY-50 Diagnostics (1979)(APF Electronics)(US).wav" size="3598780" crc="0b3f3d4e" md5="c0d40812a705927a025a9ff0b17c0646" sha1="9185dc1801d50538b636e9fe5a071fc40425a9ec"/>
+	</game>
+</datafile>

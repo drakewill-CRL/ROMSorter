@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Epson PX-8, HC-88 &amp; Geneva - Firmware - [HEX]</name>
+		<description>Epson PX-8, HC-88 &amp; Geneva - Firmware - [HEX] (TOSEC-v2011-11-27)</description>
+		<category>TOSEC</category>
+		<version>2011-11-27</version>
+		<author>TKaos</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="RAM Disk Unit 120 (19xx)(-)">
+		<description>RAM Disk Unit 120 (19xx)(-)</description>
+		<rom name="RAM Disk Unit 120 (19xx)(-).hex" size="23053" crc="284400c5" md5="a1269c72e7c04b796fad3dca67dff124" sha1="8ae1e76fd26d292e13db470d21a1450d8fa3c343"/>
+	</game>
+</datafile>

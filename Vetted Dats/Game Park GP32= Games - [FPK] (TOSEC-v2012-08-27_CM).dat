@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Game Park GP32 - Games - [FPK]</name>
+		<description>Game Park GP32 - Games - [FPK] (TOSEC-v2012-08-27)</description>
+		<category>TOSEC</category>
+		<version>2012-08-27</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="DynaMate v1.0 (200x)(Flavor)(FW)">
+		<description>DynaMate v1.0 (200x)(Flavor)(FW)</description>
+		<rom name="DynaMate v1.0 (200x)(Flavor)(FW).fpk" size="840108" crc="ad13ed98" md5="0ae0f204fe6498379201787d6d46d840" sha1="daead1c5c246c1b8061a5a69d6464505eec2d2d0"/>
+	</game>
+	<game name="Dynamate v2.0 (2003-03-25)(Flavor)(FW)">
+		<description>Dynamate v2.0 (2003-03-25)(Flavor)(FW)</description>
+		<rom name="Dynamate v2.0 (2003-03-25)(Flavor)(FW).fpk" size="889043" crc="6f0f86e9" md5="f4faa5f71efae9d4767e252ed0833604" sha1="ecfe55aa8c2f3fc8382c5c3171a3590c41f05668"/>
+	</game>
+	<game name="Super Plusha Demo (2005-04-07)(FaMe Soft)(RU)">
+		<description>Super Plusha Demo (2005-04-07)(FaMe Soft)(RU)</description>
+		<rom name="Super Plusha Demo (2005-04-07)(FaMe Soft)(RU).fpk" size="1690972" crc="ac5373ff" md5="da99bcc8e469147dcd8d430069dad917" sha1="d0f211c31db10b520f803b2bed35b14bd47db20d"/>
+	</game>
+	<game name="WinterSports Eins (2005-05-31)(The Rockin'-B)(DE)(FW)[colorkey version]">
+		<description>WinterSports Eins (2005-05-31)(The Rockin'-B)(DE)(FW)[colorkey version]</description>
+		<rom name="WinterSports Eins (2005-05-31)(The Rockin'-B)(DE)(FW)[colorkey version].fpk" size="1512063" crc="36d5dfa2" md5="2e9bf0bda68be3bb6cfed3f9c31cab54" sha1="baa8d9a38327b4fcff2d71e2fe8fb5eacdc64658"/>
+	</game>
+	<game name="WinterSports Eins (2005-06-08)(The Rockin'-B)(DE)(FW)[alpha version]">
+		<description>WinterSports Eins (2005-06-08)(The Rockin'-B)(DE)(FW)[alpha version]</description>
+		<rom name="WinterSports Eins (2005-06-08)(The Rockin'-B)(DE)(FW)[alpha version].fpk" size="1144581" crc="824a9ca4" md5="ace9f20dbc68d15ba1aed030dc652fa8" sha1="2e6f917854c0dc583fd6b03466264cb7971e3fa3"/>
+	</game>
+</datafile>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Mattel Intellivision - Compilations - [BIN]</name>
+		<description>Mattel Intellivision - Compilations - [BIN] (TOSEC-v2018-07-01)</description>
+		<category>TOSEC</category>
+		<version>2018-07-01</version>
+		<author>Grendel - Sea7 - Cassiel - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Intellivision Test Cartridge and Baseball (1978)(Mattel)">
+		<description>Intellivision Test Cartridge and Baseball (1978)(Mattel)</description>
+		<rom name="Intellivision Test Cartridge and Baseball (1978)(Mattel).bin" size="16386" crc="c83eea4c" md5="8e39e8b421879e01e0d3dede29279a4e" sha1="baf51811e8238ad56f74879e839a8af6b5612962"/>
+	</game>
+</datafile>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Tiger Electronics Game.com - Firmware</name>
+		<description>Tiger Electronics Game.com - Firmware (TOSEC-v2014-06-06)</description>
+		<category>TOSEC</category>
+		<version>2014-06-06</version>
+		<author>Cid - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Tiger Game.com BIOS (1997)(Tiger Electronics)">
+		<description>Tiger Game.com BIOS (1997)(Tiger Electronics)</description>
+		<rom name="Tiger Game.com BIOS (1997)(Tiger Electronics).bin" size="4096" crc="a0cec361" md5="f7bcefb6daf923c8e5ea2eb69f619efe" sha1="03368237e8fed4a8724f3b4a1596cf4b17c96d33"/>
+	</game>
+	<game name="Tiger Game.com System ROM (1997)(Tiger Electronics)">
+		<description>Tiger Game.com System ROM (1997)(Tiger Electronics)</description>
+		<rom name="Tiger Game.com System ROM (1997)(Tiger Electronics).bin" size="262144" crc="e235a589" md5="813364d4863b1d7b7b8fd6a97a416bcf" sha1="97f782e72d738f4d7b861363266bf46b438d9b50"/>
+	</game>
+	<game name="Tiger Game.com System ROM (1997)(Tiger Electronics)[a]">
+		<description>Tiger Game.com System ROM (1997)(Tiger Electronics)[a]</description>
+		<rom name="Tiger Game.com System ROM (1997)(Tiger Electronics)[a].bin" size="262144" crc="c1031233" md5="fa6dde26fdbb3e9b0678721031385d47" sha1="7a0165c4fb2ab0b8ba0e5c810f8f6f672a45bcf3"/>
+	</game>
+</datafile>
