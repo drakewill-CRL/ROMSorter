@@ -157,7 +157,7 @@ namespace RomSorter
                 var dir = new System.IO.DirectoryInfo(System.IO.Path.GetDirectoryName(ofdDats.FileName));
                 foreach (var file in dir.EnumerateFiles())
                 {
-                    DATImporter.Read1G1RFile(file.FullName);
+                    //DATImporter.Read1G1RFile(file.FullName);
                 }
             }
         }
@@ -275,8 +275,7 @@ namespace RomSorter
         private void button18_Click(object sender, EventArgs e)
         {
             //Multi-file dat from folder.
-            //This needs to read through zip files (or folders, but not both), and make each one an entry. 
-            //I think Name is the actual game, and Description is the indiviudal filename.
+            //Just use zip files for this, and the normal 'make dat from files' button.
         }
 
         private void button19_Click(object sender, EventArgs e)

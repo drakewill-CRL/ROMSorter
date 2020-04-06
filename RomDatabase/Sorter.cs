@@ -11,7 +11,7 @@ namespace RomDatabase
 {
     public static class Sorter
     {
-        public static void SortAllGamesMultithread(string topFolder, string folderToScan, IProgress<string> progress = null, bool ZipInsteadOfMove = false)
+        public static void SortAllGamesMultithread(string topFolder, string folderToScan, IProgress<string> progress = null, bool ZipInsteadOfMove = false, bool moveUnidentified = false)
         {
             foreach (var dir in Directory.EnumerateDirectories(folderToScan))
             {
@@ -20,11 +20,11 @@ namespace RomDatabase
 
             Parallel.ForEach(Directory.EnumerateFiles(folderToScan), (folder) =>
             {
-                InnerLoop(folder, topFolder, progress, ZipInsteadOfMove);
+                InnerLoop(folder, topFolder, progress, ZipInsteadOfMove, moveUnidentified);
             });
         }
 
-        public static void SortAllGamesSinglethread(string topFolder, string folderToScan, IProgress<string> progress = null, bool ZipInsteadOfMove = false)
+        public static void SortAllGamesSinglethread(string topFolder, string folderToScan, IProgress<string> progress = null, bool ZipInsteadOfMove = false, bool moveUnidentified = false)
         {
             foreach (var dir in Directory.EnumerateDirectories(folderToScan))
             {
@@ -33,7 +33,7 @@ namespace RomDatabase
 
             foreach (var file in Directory.EnumerateFiles(folderToScan))
             {
-                InnerLoop(file, topFolder, progress, ZipInsteadOfMove);
+                InnerLoop(file, topFolder, progress, ZipInsteadOfMove, moveUnidentified);
             }
         }
 
@@ -56,7 +56,7 @@ namespace RomDatabase
         }
 
         //TODO: rework logic again. Use return when it's done with a path to minimize nested conditionals.
-        static void InnerLoop(string file, string topFolder, IProgress<string> progress, bool zipInsteadOfMove)
+        static void InnerLoop(string file, string topFolder, IProgress<string> progress, bool zipInsteadOfMove, bool moveUnidentified)
         {
             var fi = new FileInfo(file);
             if (progress != null)
@@ -72,7 +72,7 @@ namespace RomDatabase
                     CreateSingleZip(file, topFolder + "\\" + game.console + "\\" + game.name + ".zip");
                 }
                 else
-                    MoveFile(topFolder + "\\" + game.console, file, game.name);
+                    MoveFile(topFolder + "\\" + game.console, file, game.description);
 
                 return;
             }
@@ -136,6 +136,11 @@ namespace RomDatabase
 
             //Check 4: is this a zip with multiple disc entries? Or is this part of check 2/3?
             //if so, check all the entries, and if its good handle moving it in bulk?
+
+            //Check last - we didn't identify it, move if if the option was set.
+            if (moveUnidentified)
+                MoveFile(topFolder + "\\Unidentified Originals", file, System.IO.Path.GetFileName(file));
+
         }
 
         static void UnRar(string file)
@@ -147,21 +152,28 @@ namespace RomDatabase
 
         static void CreateSingleZip(string file, string zipPath)
         {
-            FileStream fs;
-            if (!File.Exists(zipPath))
+            try
             {
-                fs = new FileStream(zipPath, FileMode.CreateNew);
+                FileStream fs;
+                if (!File.Exists(zipPath))
+                {
+                    fs = new FileStream(zipPath, FileMode.CreateNew);
+                }
+                else
+                    return; //We arent going to handle dupes.
+
+                ZipArchive zf = new ZipArchive(fs, ZipArchiveMode.Create);
+
+                zf.CreateEntryFromFile(file, Path.GetFileName(file));
+
+                zf.Dispose();
+                fs.Close();
+                fs.Dispose();
             }
-            else
-                return; //We arent going to handle dupes.
-
-            ZipArchive zf = new ZipArchive(fs, ZipArchiveMode.Create);
-
-            zf.CreateEntryFromFile(file, Path.GetFileName(file));
-
-            zf.Dispose();
-            fs.Close();
-            fs.Dispose();
+            catch (Exception ex)
+            {
+                //MOst likely, we were multithreading, and hit 2 files that got identified as the same one. Bail out.
+            }
         }
 
 

@@ -20,16 +20,18 @@ namespace RomSorter
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            //Only if file doesnt exist
-            //Database.RebuildInitialDatabase();
+            if (!System.IO.File.Exists("RomDB.sqlite"))
+            {
+                Database.RebuildInitialDatabase();
+                lblStatus.Text = "Database is empty";
+            }
+            else
+            {
+                int games = Database.CountGames(null);
+                int systems = Database.CountGamesByConsole().Count();
 
-            //This is the proper way to update the UI from threads in modern .NET Framework
-            int games = Database.CountGames(null);
-            int systems = Database.CountGamesByConsole().Count();
-
-            lblStatus.Text = games + " games across " + systems + " platforms.";
-            
-
+                lblStatus.Text = games + " games across " + systems + " platforms.";
+            }
         }
 
         private void Form1_KeyDown(object sender, KeyEventArgs e)
@@ -60,9 +62,9 @@ namespace RomSorter
             Progress<string> progress = new Progress<string>(s => lblStatus.Text = s);
 
             if (chkMultithread.Checked)
-                await Task.Factory.StartNew(() =>Sorter.SortAllGamesMultithread(System.IO.Path.GetDirectoryName(openFileDialog1.FileName), System.IO.Path.GetDirectoryName(openFileDialog1.FileName), progress, chkZipIdentified.Checked));
+                await Task.Factory.StartNew(() =>Sorter.SortAllGamesMultithread(System.IO.Path.GetDirectoryName(openFileDialog1.FileName), System.IO.Path.GetDirectoryName(openFileDialog1.FileName), progress, chkZipIdentified.Checked, chkMoveUnidentified.Checked));
             else
-                await Task.Factory.StartNew(() => Sorter.SortAllGamesSinglethread(System.IO.Path.GetDirectoryName(openFileDialog1.FileName), System.IO.Path.GetDirectoryName(openFileDialog1.FileName), progress, chkZipIdentified.Checked));
+                await Task.Factory.StartNew(() => Sorter.SortAllGamesSinglethread(System.IO.Path.GetDirectoryName(openFileDialog1.FileName), System.IO.Path.GetDirectoryName(openFileDialog1.FileName), progress, chkZipIdentified.Checked, chkMoveUnidentified.Checked));
 
             sw.Stop();
             lblStatus.Text = "Games sorted in " + sw.Elapsed.ToString();

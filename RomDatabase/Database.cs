@@ -11,11 +11,9 @@ namespace RomDatabase
     public class Database
     {
         //TODO: set up app to create DB and loads dat from an internet location if DB is missing. (Maybe 1 URL for current file and date, 1 URL for actual file. This would let me update apps remotely)
+        //TODO: allow users to load files themselves in case they want to use their own set. Then I have to handle parsing filenames though.
         //TODO: remember window position on close, restore on start.
-        //TODO: reorganize code to make 'games' single-file entries, 'discs' multi-file entries inside folders (done). Can then update DATImporter to automatically save game info to the right spot.(todo)
         //TODO: Apply some math and logic to attempt to find 'headerless' NES ROMs? (If the file isn't divisble by 8192, skip the first 16 bytes, re-hash, re-search to see if there's a headerless entry in the DB) - NES ONLY.        
-        //TODO: make a crawler to try and fill in data on games where i can search (Ifarchive points a lot of stuff at ifdb.tads.org buts its slow, might not have an api)
-        //TODO: Write an autoguess routine to attempt to fill in some extra data columns. Might need a separate database for manually edited entries and apply those changes after guessing. Ex: set genre to 'edutainment' if name has 'learning' in it, racing for racing, sports for ball, etc.
         //TODO: Keep the UI simple. List big counts and big buttons for easy stuff. Maybe a couple drop downs for how to sort games. Checkboxes for toggles.
         //TODO: Reference tables. Set up reference tables for genre, console, other columns with repeated data.
         //TODO Set up entities to see if that can save me some time in the future instead of writing boilerplate database code. Or remove the EF as a dependency
@@ -24,101 +22,37 @@ namespace RomDatabase
         //TODO: figure out how to handle files over 2GB in size? This would be for ISOs for modern systems.
         //TODO enable scanning a folder for duplicate files. (For making dats, mostly, so i dont have to manually find dupes)
         //TODO: make a way for a user to make a dat file for games they had unidentified for potential inclusion?
-        //TODO: find dat files for modern systems. TOSEC has approx. nothing on PSX (got Switch, need to parse and re-format)
         //TODO: Reporter will also need to look into zip files if the checkbox is selected.
         //TODO: reporter needs to support discs as well as games. Only scanning by folder name for consoles available in the discs table might help?
         //NOT TODO: if I use description as filename all the time, I could consolidate this down to one table, but I'd have to add some processing logic to everything to figure out if i need a single file or multiples that way. Lets not do this
         //TODO: add .rar support (for reading)
         //TODO: add .7z support (for reading)?
-        //TODOL: add high-integrity disc dat reading. If an entry is already found in 1 game, check to see if all of its entries match on size/hashes.
-        //TODO: load high-integrity files in alphabetical order. Order files so shorter-name entries (NO-INTRO) get loaded first before overloaded names (TOSEC)
+        //TODO: add high-integrity disc dat reading. If an entry is already found in 1 game, check to see if all of its entries match on size/hashes.
         //TODO: make dat cleaner, to remove entries that are already tracked in an earlier file
         //TODO: submit NES Homebrew data to BizHawk file in Assets/gamedb. Current file is empty. Possibly also TOSEC for their Demo file.
+        //TODO: https://api.thegamesdb.net/#/Games/GamesByGameID has all the stuff I initially wanted to include. So I guess I can skip all that stuff for a while.
+        //TODO: code cleanup. Pare down files to used functions and remove commented code
+        //TODO: Set up app to read from zipped DB file (zipped is ~200MB currently, instead of ~500MB)
+        //TODO: redo reporting. Make it use an HTML, and substitute in StringBuilder results instead of this small text file dump.
 
         //TOSEC files were 12-24-2019 release.
         //NO-INTRO files were  gathered on the date listed, should still be in the filename
         //Redump.org files for cd-based systems (end of march 2020ish)
 
-        //Current systems documented:
-        //Nintendo:
-        //NES/Famicom (TOSEC and NOINTRO)
-        //FAmicom Disk System (TOSEC and NOINTRO)
-        //SNES (TOSEC and NOINTRO)
-        //Sufami Turbo (NOINTRO) - whatever this is.
-        //Satellaview (NOINTRO)
-        //N64 and DD (TOSEC and NOINTRO)
-        //GameCube (TOSEC and Redump)
-        //GB (TOSEC and NOINTRO)
-        //GBC (TOSEC and NOINTRO)
-        //GBA (TOSEC and NOINTRO)
-        //VB (TOSEC and NOINTRO)
-        //Wii (NO-Intro 3/21, WAD format)
-        //DS (NOINTRO)
-        //DSi (NOINTRO, datfile structure is different from others. Description is subnode, name is mostly numbers)
-        //3DS (NOINTRO, Digital-CDN is Discs)
-        //NEW 3DS (NOINTRO)
-        //E-Reader (NOINTRO?)
-
-        //Sega:
-        //SG1000 (NOINTRO)
-        //Master System. (TOSEC and NoIntro)
-        //GameGear (TOSEC and NOINTRO)
-        //Genesis-megadrive (TOSEC, minus multipart, and NoIntro)
-        //32X (TOSEC and NOINTRO)
-        //Sega CD (TOSEC and Redump)
-        //Sega 32XCD (TOSEC)
-        //Saturn (TOSEC)
-        //Dreamcast (TOSEC and Redump)
-
-            //Atari:
-            //2600 (TOSEC)
-            //5200 (TOSEC)
-            //7800 (TOSEC)
-            //Lynx (TOSEC)
-            //Jaguar (TOSEC)
-
-            //NEC:
-            //TurboGrafix-16/PCEngine (TOSEC)
-            //Supergrafix
-
-        //Microsoft:
-        //XBOX (redump)
-        //XBOX 360 (digital) Nointro Unofficial
-
-            //Sony
-            //PS1 (Redump and tosec)
-            //PS2 (redump and tosec)
-            //PS3 (unofficial nointro)
-
-        //SNK:
-        //NGP (TOSEC and NOIntro)
-        //NGPC (TOSEC and NOINTRO)
-
-        //3DO (TOSEC)
-        //Acorn Achimedes (TOSEC)
-        //American Laser Games (TOSEC)
-        //Infocom commercial releases (TOSEC)
-        //Nokia N-GAGE (NOINTRO)
-        //Tiger game.com (TOSEC and NOINTRO)
-        //Infocom ZMachine (TOSEC) - Looks like commercial releases only
-        //Capcom CPS3 cds (TOSEC)
-        //Tandy TRS80 (TOSEC)
-        //Bandai Wonderswan and Color (TOSEC)
-        //Colecovision (TOSEC)
+        //See the Vetted Dats folder for what's tracked. Too much stuff to list in this file.
 
         //stuff to track down
         //non-NES homebrew on NESWorld.com
 
         //TO-add:
-        //Pen and Teller Smoke and Mirrors for SEga CD as prototype, or find dat file with it?
         //NOne of my Sega CD games are good?
-        //Check my messy-AF NES homebrew folder to see if any of those files aren't already included.
 
         //Additional, self-made Dats currently in DB
         //Tecmo Bowl hacks (several not previously documented, see if there's newer stuff somewhere)
         //NES Homebrews (several not previously documented) Check itch.io for more.
         //NES Prototypes (newer discoveries, see HiddenPalace.org for newer dumps than these maintainers have done. Check multiple pages (As table seems to have no NES entries after P, but By Console has lots more)
         //SMS Prototypes (brand new one!)
+        //SEga CD Prototypes (no one had Penn and Teller yet)
         //Hidden Palace Prototypes - I have a bunch already from 2008, mostly Sega, should check if they're documented already. Those are.
         //--Also need to dig through their 'Unused Files' page to see what files might be uploaded and not linked to correctly.
         //SCUMMVM 2.1 
@@ -142,15 +76,15 @@ namespace RomDatabase
             + "crc TEXT, "
             + "md5 TEXT, "
             + "sha1 TEXT, "
-            + "console TEXT, "
-            + "datFile TEXT"
-            //+ "genre TEXT, "
-            //+ "year INT, "
-            //+ "releaseDate TEXT, "
-            //+ "developer TEXT, "
-            //+ "publisher TEXT, "
-            //+ "Is1G1R INT,"
-            //+ "region TEXT"
+            + "console INT, " //was text
+            + "datFile INT " //was text
+                             //+ "genre TEXT, "
+                             //+ "year INT, "
+                             //+ "releaseDate TEXT, "
+                             //+ "developer TEXT, "
+                             //+ "publisher TEXT, "
+                             //+ "Is1G1R INT,"
+                             //+ "region TEXT"
             + ")";
 
         //Currently identical in structure, name and description are used differently.
@@ -161,19 +95,29 @@ namespace RomDatabase
             + "crc TEXT, "
             + "md5 TEXT, "
             + "sha1 TEXT, "
-            + "console TEXT, "
-            + "datFile TEXT"
-            //+ "genre TEXT, "
-            //+ "year INT, "
-            //+ "releaseDate TEXT, "
-            //+ "developer TEXT, "
-            //+ "publisher TEXT, "
-            //+ "Is1G1R INT,"
-            //+ "region TEXT"
+            + "console INT, " //was text
+            + "datFile INT " //was text
+                             //+ "genre TEXT, "
+                             //+ "year INT, "
+                             //+ "releaseDate TEXT, "
+                             //+ "developer TEXT, "
+                             //+ "publisher TEXT, "
+                             //+ "Is1G1R INT,"
+                             //+ "region TEXT"
+            + ")";
+
+        static string CreateConsoleTable = "CREATE TABLE consoles(id INTEGER PRIMARY KEY,"
+            + "name TEXT"
+            + ")";
+
+        static string CreateDatFilesTable = "CREATE TABLE datfiles(id INTEGER PRIMARY KEY,"
+            + "name TEXT"
             + ")";
 
         static string DropGameTable = "DROP TABLE IF EXISTS games";
         static string DropDiscTable = "DROP TABLE IF EXISTS discs";
+        static string DropConsoleTable = "DROP TABLE IF EXISTS consoles";
+        static string DropDatFilesTable = "DROP TABLE IF EXISTS datfiles";
 
         static string CreateIndexName = "CREATE INDEX idx_gamename ON games(name)";
         static string CreateIndexConsole = "CREATE INDEX idx_gameconsole ON games(console)";
@@ -198,29 +142,32 @@ namespace RomDatabase
         static string InsertDiscCmd = "INSERT INTO discs(name, description, size, crc, md5, sha1, console, datFile)" // genre, year, releaseDate, developer, publisher, Is1G1R, region)"
                         + "VALUES(@name, @description, @size, @crc, @md5, @sha1, @console, @datFile)"; // @genre, @year, @releaseDate, @developer, @publisher, @Is1G1R, @region)";
 
+        static string InsertConsoleCmd = "INSERT INTO consoles(name) VALUES (@name)";
+        static string InsertDatFileCmd = "INSERT INTO datfiles(name) VALUES (@name)";
+
         static string CountGamesCmd = "SELECT COUNT(*) FROM games";
-        static string CountGamesByConsoleCmd = "SELECT console, COUNT(console) FROM games GROUP BY console";
+        static string CountGamesByConsoleCmd = "SELECT c.name, COUNT(g.console) FROM games g INNER JOIN consoles c on c.id = g.console GROUP BY g.console";
 
         static string CountDiscsCmd = "SELECT COUNT(DISTINCT name) FROM discs";
-        static string CountDiscsByConsoleCmd = "SELECT console, COUNT(DISTINCT name) FROM discs GROUP BY console";
+        static string CountDiscsByConsoleCmd = "SELECT c.name, COUNT(d.console) FROM discs d INNER JOIN consoles c on c.id = d.console GROUP BY d.console";
         //Total game count is CountGamesCmd + CountDiscsCmd, but SQLite doesn't do outer joins.
 
-        static string FindGameQuery = "SELECT * FROM games WHERE size = @size AND crc = @crc AND md5= @md5 AND sha1 = @sha1";
-        static string GetAllGamesQuery = "SELECT * FROM GAMES ORDER BY console, name";
+        static string FindGameQuery = "SELECT g.id, g.name, g.description, g.size, g.crc, g.sha1, g.md5, c.name, d.name FROM games g INNER JOIN consoles c on c.id = g.console INNER JOIN datfiles d on d.id = g.datfile WHERE g.size = @size AND g.crc = @crc AND g.md5= @md5 AND g.sha1 = @sha1";
+        static string GetAllGamesQuery = "SELECT g.id, g.name, g.description, g.size, g.crc, g.sha1, g.md5, c.name, d.name FROM games g INNER JOIN consoles c on c.id = g.console INNER JOIN datfiles d on d.id = g.datfile ORDER BY console, name";
 
         static string FindDiskFileQuery = "SELECT * FROM discs WHERE size = @size AND crc = @crc AND md5= @md5 AND sha1 = @sha1";
         static string GetAllDiskFilesQuery = "SELECT * FROM discs ORDER BY console, name, description";
 
         static string GamesByConsoleQuery = "SELECT * FROM games WHERE console = @console";
 
-        static string GetConsolesQuery = "SELECT DISTINCT console FROM games";
-        static string GetDiscConsolesQuery = "SELECT DISTINCT console FROM discs";
-
+        static string GetConsolesQuery = "SELECT * FROM consoles";
+        //static string GetDiscConsolesQuery = "SELECT DISTINCT console FROM discs";
+        static string GetDatfileQuery = "SELECT * FROM datfiles";
 
         static string FindCollisionsCountCRC = "SELECT crc, COUNT(crc) FROM games GROUP BY crc ORDER BY 2 DESC";
         static string FindCollisionsDetails = "SELECT * FROM games GROUP BY crc ORDER BY 2";
 
-        static string Set1G1RByID = "UPDATE games SET Is1G1R = 1 WHERE id = @id";
+        //static string Set1G1RByID = "UPDATE games SET Is1G1R = 1 WHERE id = @id";
 
         //Note 1: INTEGER PRIMARY KEY is long instead of int. other INTEGERS might be too
         public static string conString = "Data Source=RomDB.sqlite;Synchronous=Off;Journal_Mode=MEMORY;"; //Pragma statements go in the connection string.
@@ -309,9 +256,13 @@ namespace RomDatabase
             ExecuteSQLiteNonQuery(DropDiscTable);
             ExecuteSQLiteNonQuery(CreateDiscsTable);
 
-            //MakeIndexes(); //Doing this now, since after this i will be searching.
+            ExecuteSQLiteNonQuery(DropConsoleTable);
+            ExecuteSQLiteNonQuery(CreateConsoleTable);
 
-            //add lookup tables for genre and/or other columns?
+            ExecuteSQLiteNonQuery(DropDatFilesTable);
+            ExecuteSQLiteNonQuery(CreateDatFilesTable);
+
+            MakeIndexes(); 
         }
 
         public static void InsertGame(Game g)
@@ -323,8 +274,8 @@ namespace RomDatabase
             p.Add(new SQLiteParameter("@crc", g.crc));
             p.Add(new SQLiteParameter("@md5", g.md5));
             p.Add(new SQLiteParameter("@sha1", g.sha1));
-            p.Add(new SQLiteParameter("@console", g.console));
-            p.Add(new SQLiteParameter("@datFile", g.datFile));
+            p.Add(new SQLiteParameter("@console", g.consoleID));
+            p.Add(new SQLiteParameter("@datFile", g.datFileID));
             //p.Add(new SQLiteParameter("@genre", g.genre));
             //p.Add(new SQLiteParameter("@year", g.year));
             //p.Add(new SQLiteParameter("@releaseDate", g.releaseDate));
@@ -353,8 +304,8 @@ namespace RomDatabase
                         cmd.Parameters.Add(new SQLiteParameter("@crc", g.crc));
                         cmd.Parameters.Add(new SQLiteParameter("@md5", g.md5));
                         cmd.Parameters.Add(new SQLiteParameter("@sha1", g.sha1));
-                        cmd.Parameters.Add(new SQLiteParameter("@console", g.console));
-                        cmd.Parameters.Add(new SQLiteParameter("@datFile", g.datFile));
+                        cmd.Parameters.Add(new SQLiteParameter("@console", g.consoleID));
+                        cmd.Parameters.Add(new SQLiteParameter("@datFile", g.datFileID));
                         //cmd.Parameters.Add(new SQLiteParameter("@genre", g.genre));
                         //cmd.Parameters.Add(new SQLiteParameter("@year", g.year));
                         //cmd.Parameters.Add(new SQLiteParameter("@releaseDate", g.releaseDate));
@@ -387,8 +338,8 @@ namespace RomDatabase
                         cmd.Parameters.Add(new SQLiteParameter("@crc", g.crc));
                         cmd.Parameters.Add(new SQLiteParameter("@md5", g.md5));
                         cmd.Parameters.Add(new SQLiteParameter("@sha1", g.sha1));
-                        cmd.Parameters.Add(new SQLiteParameter("@console", g.console));
-                        cmd.Parameters.Add(new SQLiteParameter("@datFile", g.datFile));
+                        cmd.Parameters.Add(new SQLiteParameter("@console", g.consoleID));
+                        cmd.Parameters.Add(new SQLiteParameter("@datFile", g.datFileID));
                         //cmd.Parameters.Add(new SQLiteParameter("@genre", g.genre));
                         //cmd.Parameters.Add(new SQLiteParameter("@year", g.year));
                         //cmd.Parameters.Add(new SQLiteParameter("@releaseDate", g.releaseDate));
@@ -589,12 +540,12 @@ namespace RomDatabase
             return results;
         }
 
-        public static void SetGameAs1G1R(int id)
-        {
-            List<SQLiteParameter> p = new List<SQLiteParameter>();
-            p.Add(new SQLiteParameter("@id", id));
-            ExecuteSQLiteNonQueryWithParameters(Set1G1RByID, p);
-        }
+        //public static void SetGameAs1G1R(int id)
+        //{
+        //    List<SQLiteParameter> p = new List<SQLiteParameter>();
+        //    p.Add(new SQLiteParameter("@id", id));
+        //    ExecuteSQLiteNonQueryWithParameters(Set1G1RByID, p);
+        //}
 
         public static List<Game> GetAllGames()
         {
@@ -643,7 +594,59 @@ namespace RomDatabase
                 var values = cmd.ExecuteReader();
                 List<string> results = new List<string>();
                 while (values.Read())
-                    results.Add(values[0].ToString());
+                    results.Add(values[1].ToString());
+                return results;
+            }
+        }
+
+        public static int GetConsoleID(string consoleName)
+        {
+            using (var connection = new SQLiteConnection(conString))
+            {
+                int results = 0;
+                connection.Open();
+                var cmd = new SQLiteCommand(GetConsolesQuery, connection);
+                var values = cmd.ExecuteReader();
+                while (values.Read())
+                {
+                    if (values[1].ToString() == consoleName)
+                        results = Int32.Parse(values[0].ToString());
+                }
+                if (results == 0)
+                {
+                    cmd = new SQLiteCommand(InsertConsoleCmd);
+                    cmd.Connection = connection;
+                    cmd.Parameters.Add(new SQLiteParameter("@name", consoleName));
+                    cmd.ExecuteNonQuery();
+                    results = GetConsoleID(consoleName);
+                }
+
+                return results;
+            }
+        }
+
+        public static int GetDatFileID(string datfileName)
+        {
+            using (var connection = new SQLiteConnection(conString))
+            {
+                int results = 0;
+                connection.Open();
+                var cmd = new SQLiteCommand(GetDatfileQuery, connection);
+                var values = cmd.ExecuteReader();
+                while (values.Read())
+                {
+                    if (values[1].ToString() == datfileName)
+                        results = Int32.Parse(values[0].ToString());
+                }
+                if (results == 0)
+                {
+                    cmd = new SQLiteCommand(InsertDatFileCmd);
+                    cmd.Parameters.Add(new SQLiteParameter("@name", datfileName));
+                    cmd.Connection = connection;
+                    var r = cmd.ExecuteNonQuery();
+                    results = GetDatFileID(datfileName);
+                }
+
                 return results;
             }
         }

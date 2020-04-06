@@ -35,6 +35,7 @@
             this.chkMultithread = new System.Windows.Forms.CheckBox();
             this.chkZipIdentified = new System.Windows.Forms.CheckBox();
             this.btnReport = new System.Windows.Forms.Button();
+            this.chkMoveUnidentified = new System.Windows.Forms.CheckBox();
             this.SuspendLayout();
             // 
             // btnPickFolder
@@ -107,11 +108,22 @@
             this.btnReport.UseVisualStyleBackColor = true;
             this.btnReport.Click += new System.EventHandler(this.button3_Click);
             // 
+            // chkMoveUnidentified
+            // 
+            this.chkMoveUnidentified.AutoSize = true;
+            this.chkMoveUnidentified.Location = new System.Drawing.Point(12, 211);
+            this.chkMoveUnidentified.Name = "chkMoveUnidentified";
+            this.chkMoveUnidentified.Size = new System.Drawing.Size(195, 17);
+            this.chkMoveUnidentified.TabIndex = 8;
+            this.chkMoveUnidentified.Text = "Move Unidentified Files (dangerous)";
+            this.chkMoveUnidentified.UseVisualStyleBackColor = true;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(195, 356);
+            this.ClientSize = new System.Drawing.Size(207, 356);
+            this.Controls.Add(this.chkMoveUnidentified);
             this.Controls.Add(this.btnReport);
             this.Controls.Add(this.chkZipIdentified);
             this.Controls.Add(this.chkMultithread);
@@ -136,6 +148,7 @@
         private System.Windows.Forms.CheckBox chkMultithread;
         private System.Windows.Forms.CheckBox chkZipIdentified;
         private System.Windows.Forms.Button btnReport;
+        private System.Windows.Forms.CheckBox chkMoveUnidentified;
     }
 }
 

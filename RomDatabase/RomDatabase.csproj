@@ -74,6 +74,7 @@
   <ItemGroup>
     <Compile Include="Database.cs" />
     <Compile Include="Data\Game.cs" />
+    <Compile Include="Data\LookupEntry.cs" />
     <Compile Include="DatCreator.cs" />
     <Compile Include="DATImporter.cs" />
     <Compile Include="DTDReference.cs" />

@@ -1,0 +1,671 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Atari 7800 - Games</name>
+		<description>Atari 7800 - Games (TOSEC-v2013-12-13)</description>
+		<category>TOSEC</category>
+		<version>2013-12-13</version>
+		<author>Belgarath - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="3D Asteroids (1984)(Atari)(NTSC)(proto)">
+		<description>3D Asteroids (1984)(Atari)(NTSC)(proto)</description>
+		<rom name="3D Asteroids (1984)(Atari)(NTSC)(proto).a78" size="16512" crc="2c985a3d" md5="e67a169b3a6432342ac9cbf9e6f95873" sha1="7874a9c33bcfdea480932c34307a7623891c27de"/>
+	</game>
+	<game name="3D Asteroids (1984)(Atari)(NTSC)(proto)[b]">
+		<description>3D Asteroids (1984)(Atari)(NTSC)(proto)[b]</description>
+		<rom name="3D Asteroids (1984)(Atari)(NTSC)(proto)[b].a78" size="16512" crc="c05513e1" md5="864efb6b43e36bef50d01d381ca7bd83" sha1="02107190aaeeb578f5c11180e20b5061d51306cf"/>
+	</game>
+	<game name="Ace of Aces (1988)(Atari)(NTSC)">
+		<description>Ace of Aces (1988)(Atari)(NTSC)</description>
+		<rom name="Ace of Aces (1988)(Atari)(NTSC).a78" size="131200" crc="fa616e77" md5="40f69da10fbb6c77b35b89c32d9c2491" sha1="86b33e9169d7e365187c13424fedc2e61beacbc9"/>
+	</game>
+	<game name="Ace Of Aces (1988)(Atari)(NTSC)[a]">
+		<description>Ace Of Aces (1988)(Atari)(NTSC)[a]</description>
+		<rom name="Ace Of Aces (1988)(Atari)(NTSC)[a].a78" size="131200" crc="e682c28f" md5="4dd96d99c1228bb1fcae8c1b5c239197" sha1="384311f2b20c256d755fe470fb82ce8ad094bca0"/>
+	</game>
+	<game name="Ace of Aces (1988)(Atari)(PAL)">
+		<description>Ace of Aces (1988)(Atari)(PAL)</description>
+		<rom name="Ace of Aces (1988)(Atari)(PAL).a78" size="131200" crc="aa4752dc" md5="c31759d77154966654d414eaf1f5283c" sha1="ec308d7eaa759bf1cc3f12b07537699c8eafd59d"/>
+	</game>
+	<game name="Alien Brigade (1990)(Atari)(NTSC)">
+		<description>Alien Brigade (1990)(Atari)(NTSC)</description>
+		<rom name="Alien Brigade (1990)(Atari)(NTSC).a78" size="147584" crc="3cef22ca" md5="8bf5f92ed9a276c82139c47c9875fd17" sha1="eec0c56ff4cd107101e0d44bc55913e6d886da94"/>
+	</game>
+	<game name="Alien Brigade (1990)(Atari)(PAL)">
+		<description>Alien Brigade (1990)(Atari)(PAL)</description>
+		<rom name="Alien Brigade (1990)(Atari)(PAL).a78" size="147584" crc="0f24ddf1" md5="4e5826f8bcdecaae3258cce2da57c569" sha1="176a0f60cdd6d07d52bd222cde90c5f96226e3df"/>
+	</game>
+	<game name="Asteroids (1987)(Atari)(NTSC)">
+		<description>Asteroids (1987)(Atari)(NTSC)</description>
+		<rom name="Asteroids (1987)(Atari)(NTSC).a78" size="16512" crc="c9f1e305" md5="273e580f8e4232ee12024656846c69c1" sha1="ca1e5aa9359bacaff10bcbb8ff42cf52ce6d9d02"/>
+	</game>
+	<game name="Asteroids (1987)(Atari)(NTSC)[a]">
+		<description>Asteroids (1987)(Atari)(NTSC)[a]</description>
+		<rom name="Asteroids (1987)(Atari)(NTSC)[a].a78" size="16512" crc="eac69cf0" md5="85b5587c5a9406ddd079aa6879093cf7" sha1="244136dce7f71c146c4eb8c19b1c56ac3f71f646"/>
+	</game>
+	<game name="Ballblazer (1987)(Atari)(NTSC)">
+		<description>Ballblazer (1987)(Atari)(NTSC)</description>
+		<rom name="Ballblazer (1987)(Atari)(NTSC).a78" size="32896" crc="5b635cb6" md5="8fd2ff3e289f33f53f2792d1a0bc3513" sha1="329782dd80a7ef88b81ab348aba4a0d478f0432f"/>
+	</game>
+	<game name="Ballblazer (1987)(Atari)(NTSC)[a]">
+		<description>Ballblazer (1987)(Atari)(NTSC)[a]</description>
+		<rom name="Ballblazer (1987)(Atari)(NTSC)[a].a78" size="32896" crc="44615260" md5="a6659fcf536d601948f57767aef65741" sha1="28adab7de3af3ce8658a62a6e95b44f10324ee26"/>
+	</game>
+	<game name="Ballblazer (1987)(Atari)(PAL)">
+		<description>Ballblazer (1987)(Atari)(PAL)</description>
+		<rom name="Ballblazer (1987)(Atari)(PAL).a78" size="32896" crc="48f75a89" md5="554004ca435ca02eb519086f45e44033" sha1="ca675c16174f491a99427c25f6aae1f7cbe8e8c5"/>
+	</game>
+	<game name="Barnyard Blaster (1988)(Atari)(NTSC)">
+		<description>Barnyard Blaster (1988)(Atari)(NTSC)</description>
+		<rom name="Barnyard Blaster (1988)(Atari)(NTSC).a78" size="131200" crc="36a9f2a5" md5="3c66e6e3de8d7b15cd54faa7c03d1c9d" sha1="ebc08fbff47e727d3f87b8e838e4e81257a79804"/>
+	</game>
+	<game name="Barnyard Blaster (1988)(Atari)(NTSC)[b]">
+		<description>Barnyard Blaster (1988)(Atari)(NTSC)[b]</description>
+		<rom name="Barnyard Blaster (1988)(Atari)(NTSC)[b].a78" size="131200" crc="c086ed30" md5="98477839e00a9f617a97a0e91a6ff0b1" sha1="ff9679a3f2f98d4c5e4a9f5c232f88d2db2bfa92"/>
+	</game>
+	<game name="Barnyard Blaster (1988)(Atari)(PAL)">
+		<description>Barnyard Blaster (1988)(Atari)(PAL)</description>
+		<rom name="Barnyard Blaster (1988)(Atari)(PAL).a78" size="131200" crc="ac94be39" md5="138559499462d88d390d7cf93b344f5f" sha1="8f8e37d9b6859953fdcd03beadac1166ecf026e0"/>
+	</game>
+	<game name="Baseball (1989)(Absolute Entertainment)(PAL)">
+		<description>Baseball (1989)(Absolute Entertainment)(PAL)</description>
+		<rom name="Baseball (1989)(Absolute Entertainment)(PAL).a78" size="32896" crc="a8189e81" md5="3ddfb8fe20b38500acdbcf158cdba11a" sha1="776513b6408bb81ec3436cc8006db826a5bc83fd"/>
+	</game>
+	<game name="Basketbrawl (1990)(Atari)(NTSC)">
+		<description>Basketbrawl (1990)(Atari)(NTSC)</description>
+		<rom name="Basketbrawl (1990)(Atari)(NTSC).a78" size="131200" crc="fd3aec38" md5="43b0a082f353919f83e4b37203af280f" sha1="6cceb878627fbcae67ae1c7e0fbdbbd7a9dd0693"/>
+	</game>
+	<game name="Basketbrawl (1990)(Atari)(PAL)">
+		<description>Basketbrawl (1990)(Atari)(PAL)</description>
+		<rom name="Basketbrawl (1990)(Atari)(PAL).a78" size="131200" crc="e4e438a1" md5="7da7af81921b61d2757d796a9ff3814c" sha1="87b0740a5f042a61a0c38b25c0425638eebeb11f"/>
+	</game>
+	<game name="Centipede (1987)(Atari)(NTSC)">
+		<description>Centipede (1987)(Atari)(NTSC)</description>
+		<rom name="Centipede (1987)(Atari)(NTSC).a78" size="16512" crc="7ca3ec6b" md5="061cf56c884c6b4cb1fab16898e1c150" sha1="2717f81ca998714edfcc8e8a7cbab452b865c170"/>
+	</game>
+	<game name="Centipede (1987)(Atari)(NTSC)[a]">
+		<description>Centipede (1987)(Atari)(NTSC)[a]</description>
+		<rom name="Centipede (1987)(Atari)(NTSC)[a].a78" size="16512" crc="5f94939e" md5="7612b1bb30320d37d79b7f48b16430b2" sha1="8f395f48971ed55e97f41f2286e10dcc5a14c066"/>
+	</game>
+	<game name="Centipede (1987)(Atari)(PAL)">
+		<description>Centipede (1987)(Atari)(PAL)</description>
+		<rom name="Centipede (1987)(Atari)(PAL).a78" size="16512" crc="cc7061e4" md5="57ef570b8595bcdf0e26bc9b5b109b41" sha1="a4d28b28960a9473d97d266a69f413834fb4f588"/>
+	</game>
+	<game name="Choplifter! (1987)(Atari)(NTSC)">
+		<description>Choplifter! (1987)(Atari)(NTSC)</description>
+		<rom name="Choplifter! (1987)(Atari)(NTSC).a78" size="32896" crc="0b0d05d4" md5="e9b1db4fea757c6f225e4811353333d4" sha1="34f4e33c4d395f3d06197f96fb3e190c72e96f1f"/>
+	</game>
+	<game name="Choplifter! (1987)(Atari)(NTSC)[a]">
+		<description>Choplifter! (1987)(Atari)(NTSC)[a]</description>
+		<rom name="Choplifter! (1987)(Atari)(NTSC)[a].a78" size="32896" crc="d3ba607f" md5="0826515be7d9bc1fea26a7d6063667c1" sha1="6457dd40aeadb9733602c4ad3498780ebd7bf0d1"/>
+	</game>
+	<game name="Choplifter! (1987)(Atari)(PAL)">
+		<description>Choplifter! (1987)(Atari)(PAL)</description>
+		<rom name="Choplifter! (1987)(Atari)(PAL).a78" size="49280" crc="9f3a7a83" md5="028c6757a2528219ea39b26c35b953dc" sha1="a7fdc4abfd6c47d867e3c9b165ad902829d723a9"/>
+	</game>
+	<game name="Commando (1989)(Atari)(NTSC)">
+		<description>Commando (1989)(Atari)(NTSC)</description>
+		<rom name="Commando (1989)(Atari)(NTSC).a78" size="131200" crc="e9bd1c75" md5="38b4e11ebf4bbfdc66c7d2ef96115bd2" sha1="0d623df344364a5a7db7f4d2409afe4523d7ea08"/>
+	</game>
+	<game name="Commando (1989)(Atari)(NTSC)[a]">
+		<description>Commando (1989)(Atari)(NTSC)[a]</description>
+		<rom name="Commando (1989)(Atari)(NTSC)[a].a78" size="131200" crc="81c6c079" md5="95d5eac7b804f3cb1950e0d19a03afe7" sha1="3314ce17df8b1b6fc52e13ccf8d6ea1aadbc66c4"/>
+	</game>
+	<game name="Commando (1989)(Atari)(PAL)">
+		<description>Commando (1989)(Atari)(PAL)</description>
+		<rom name="Commando (1989)(Atari)(PAL).a78" size="131200" crc="2dc7ccc5" md5="d59edcc53c3b1e4e565ff7234a5d37a6" sha1="7d56547db021ed5ab5511ba1015f395ba1d6c70f"/>
+	</game>
+	<game name="Crack'ed (1988)(Atari)(NTSC)">
+		<description>Crack'ed (1988)(Atari)(NTSC)</description>
+		<rom name="Crack'ed (1988)(Atari)(NTSC).a78" size="131200" crc="61dcc763" md5="5a8344478c246200d0ef987557aae3cd" sha1="255e287a2f475731bafe5b7f1cf5075c8723d647"/>
+	</game>
+	<game name="Crack'ed (1988)(Atari)(PAL)">
+		<description>Crack'ed (1988)(Atari)(PAL)</description>
+		<rom name="Crack'ed (1988)(Atari)(PAL).a78" size="131200" crc="a2257dd0" md5="911049690a04e272d28ee80d12329bc9" sha1="39836c29772e91acb3db84e526dc62e2bd726fbf"/>
+	</game>
+	<game name="Crossbow (1987)(Atari)(NTSC)">
+		<description>Crossbow (1987)(Atari)(NTSC)</description>
+		<rom name="Crossbow (1987)(Atari)(NTSC).a78" size="147584" crc="a2678e2d" md5="68ae796ad700df322628ce9dfc82e802" sha1="520b6d9ef2ef4edae9a8cdf8da57c85810908a9a"/>
+	</game>
+	<game name="Crossbow (1987)(Atari)(PAL)">
+		<description>Crossbow (1987)(Atari)(PAL)</description>
+		<rom name="Crossbow (1987)(Atari)(PAL).a78" size="147584" crc="08e6c2cc" md5="ff49656b248dd277f9d75dcca0a30116" sha1="4f2cd2fdd900c26b4d56bc55349b8c34497e761d"/>
+	</game>
+	<game name="Dark Chambers (1988)(Atari)(NTSC)">
+		<description>Dark Chambers (1988)(Atari)(NTSC)</description>
+		<rom name="Dark Chambers (1988)(Atari)(NTSC).a78" size="131200" crc="b5a87d19" md5="b94b39a2ece024bc79ad350914219a72" sha1="8e1866b33515d742bc0e1db0df0165f1c55694b9"/>
+	</game>
+	<game name="Dark Chambers (1988)(Atari)(PAL)">
+		<description>Dark Chambers (1988)(Atari)(PAL)</description>
+		<rom name="Dark Chambers (1988)(Atari)(PAL).a78" size="131200" crc="3fb402b1" md5="26036ccf66b2747fd00d3884a528614c" sha1="72c77e330825c0b82af7f6df310304152a54631c"/>
+	</game>
+	<game name="Desert Falcon (1987)(Atari)(NTSC)">
+		<description>Desert Falcon (1987)(Atari)(NTSC)</description>
+		<rom name="Desert Falcon (1987)(Atari)(NTSC).a78" size="49280" crc="5ff04461" md5="cbac0bf951e3cd52e5537c926d66440b" sha1="30d214753b89b13455830b5d99aacd926127d63a"/>
+	</game>
+	<game name="Desert Falcon (1987)(Atari)(NTSC)[a]">
+		<description>Desert Falcon (1987)(Atari)(NTSC)[a]</description>
+		<rom name="Desert Falcon (1987)(Atari)(NTSC)[a].a78" size="49280" crc="a6a62e78" md5="ec1f38ae5b5e638e1ac84016ee1c0019" sha1="0bf324702daf1a033fd8ffe57ecb9e066826780c"/>
+	</game>
+	<game name="Desert Falcon (1987)(Atari)(PAL)">
+		<description>Desert Falcon (1987)(Atari)(PAL)</description>
+		<rom name="Desert Falcon (1987)(Atari)(PAL).a78" size="49280" crc="5a117708" md5="a1e78ca5dd1b84ce5a96ab1590abfef1" sha1="97fea37888741279cf21e09ec46f6325e87ac2ae"/>
+	</game>
+	<game name="Dig Dug (1987)(Atari)(NTSC)">
+		<description>Dig Dug (1987)(Atari)(NTSC)</description>
+		<rom name="Dig Dug (1987)(Atari)(NTSC).a78" size="16512" crc="a6da053d" md5="e61d1792314e6632baa4e6b92e59195d" sha1="a60b690351ccc1b03de6f4b8945eb54f2dee762e"/>
+	</game>
+	<game name="Dig Dug (1987)(Atari)(NTSC)[a]">
+		<description>Dig Dug (1987)(Atari)(NTSC)[a]</description>
+		<rom name="Dig Dug (1987)(Atari)(NTSC)[a].a78" size="16512" crc="8ead573d" md5="3976abf29e9d6aa000bff8268c0d534e" sha1="dd8d50b1b72953d7535aec08880270f3b5245e12"/>
+	</game>
+	<game name="Dig Dug (1987)(Atari)(PAL)">
+		<description>Dig Dug (1987)(Atari)(PAL)</description>
+		<rom name="Dig Dug (1987)(Atari)(PAL).a78" size="32896" crc="d0df6f91" md5="fa3279ef84d3f6a9df151ff578fcffe5" sha1="3a0614b5ed04e878d63143fec23a75b778b9fd9b"/>
+	</game>
+	<game name="Donkey Kong (1988)(Atari)(NTSC)">
+		<description>Donkey Kong (1988)(Atari)(NTSC)</description>
+		<rom name="Donkey Kong (1988)(Atari)(NTSC).a78" size="49280" crc="24afb84f" md5="d5124b0da4338a299498f29a344e413f" sha1="cc6feb8236776c49cb57875130c1c3b5e984253e"/>
+	</game>
+	<game name="Donkey Kong (1988)(Atari)(NTSC)[a]">
+		<description>Donkey Kong (1988)(Atari)(NTSC)[a]</description>
+		<rom name="Donkey Kong (1988)(Atari)(NTSC)[a].a78" size="49280" crc="d7a55f95" md5="35eabe5b952a4f733b904f73511f884d" sha1="46aa055a2cc950f075cf6833e1338c73027459d4"/>
+	</game>
+	<game name="Donkey Kong (1988)(Atari)(PAL)">
+		<description>Donkey Kong (1988)(Atari)(PAL)</description>
+		<rom name="Donkey Kong (1988)(Atari)(PAL).a78" size="49280" crc="bf164aad" md5="124a82890e7723ca9af7c8c063c503ab" sha1="5a5a0adb9a081972040eb608051d7e5edd28ee30"/>
+	</game>
+	<game name="Donkey Kong Junior (1988)(Atari)(NTSC)">
+		<description>Donkey Kong Junior (1988)(Atari)(NTSC)</description>
+		<rom name="Donkey Kong Junior (1988)(Atari)(NTSC).a78" size="49280" crc="812457fb" md5="cfff068fe77f35374f90985e096faa3e" sha1="f1e66a300bbb2e52c52f180ae15e5e6024323d6d"/>
+	</game>
+	<game name="Donkey Kong Junior (1988)(Atari)(NTSC)[a]">
+		<description>Donkey Kong Junior (1988)(Atari)(NTSC)[a]</description>
+		<rom name="Donkey Kong Junior (1988)(Atari)(NTSC)[a].a78" size="49280" crc="6e989686" md5="c4940b2652d6a654cbbecfb59495ba24" sha1="2d02b7ec0ef958df5fbe11c1764c8932452e7451"/>
+	</game>
+	<game name="Donkey Kong Junior (1988)(Atari)(PAL)">
+		<description>Donkey Kong Junior (1988)(Atari)(PAL)</description>
+		<rom name="Donkey Kong Junior (1988)(Atari)(PAL).a78" size="49280" crc="cd5eb9cd" md5="c921a3c7028f03ec2469b92fa4b08d42" sha1="90d491e1dcb5aae2bc82e851ace60a5eed7c3b4f"/>
+	</game>
+	<game name="Double Dragon (1989)(Activision)(NTSC)">
+		<description>Double Dragon (1989)(Activision)(NTSC)</description>
+		<rom name="Double Dragon (1989)(Activision)(NTSC).a78" size="131200" crc="16e2fc12" md5="39c607e68a8e2bc870b2355a0273c973" sha1="6ac3621d153e20ad44fabbdaf65b74c20fbb9fdb"/>
+	</game>
+	<game name="Double Dragon (1989)(Activision)(PAL)">
+		<description>Double Dragon (1989)(Activision)(PAL)</description>
+		<rom name="Double Dragon (1989)(Activision)(PAL).a78" size="131200" crc="3b1f47a2" md5="994efa37ac630a7120b9a86629c8a613" sha1="8c782aa3faaef83f76f53e446a676881a4f44eb0"/>
+	</game>
+	<game name="F-18 Hornet (1988)(Absolute Entertainment)(NTSC)">
+		<description>F-18 Hornet (1988)(Absolute Entertainment)(NTSC)</description>
+		<rom name="F-18 Hornet (1988)(Absolute Entertainment)(NTSC).a78" size="65664" crc="fa3e8cbb" md5="934a3ee1ae7f9d740c868064862da318" sha1="cadbb92d59d373c6f04420319eaf3cb448103b0e"/>
+	</game>
+	<game name="F-18 Hornet (1988)(Absolute Entertainment)(NTSC)[b2]">
+		<description>F-18 Hornet (1988)(Absolute Entertainment)(NTSC)[b2]</description>
+		<rom name="F-18 Hornet (1988)(Absolute Entertainment)(NTSC)[b2].a78" size="49280" crc="78a02f88" md5="f80f02445676f6d26cb77583d189aa0a" sha1="b9b673c6cc4abc1f1bfb0d27d07be72b9976a1dd"/>
+	</game>
+	<game name="F-18 Hornet (1988)(Absolute Entertainment)(NTSC)[b]">
+		<description>F-18 Hornet (1988)(Absolute Entertainment)(NTSC)[b]</description>
+		<rom name="F-18 Hornet (1988)(Absolute Entertainment)(NTSC)[b].a78" size="49280" crc="6b58fbd6" md5="2ba340df68292ff2cb20773ace47b749" sha1="d60230712f924f386ee72f5512dbf41588b7fda2"/>
+	</game>
+	<game name="F-18 Hornet (1988)(Absolute Entertainment)(PAL)">
+		<description>F-18 Hornet (1988)(Absolute Entertainment)(PAL)</description>
+		<rom name="F-18 Hornet (1988)(Absolute Entertainment)(PAL).a78" size="65664" crc="799f3f3d" md5="4f6d09b0221636b56014e4756f4a9b17" sha1="8f76d508c35f94dddaea0b70b7b0cb81e33a6291"/>
+	</game>
+	<game name="Fatal Run (1990)(Atari)(NTSC)">
+		<description>Fatal Run (1990)(Atari)(NTSC)</description>
+		<rom name="Fatal Run (1990)(Atari)(NTSC).a78" size="131200" crc="718232bb" md5="fb28cd747d102114858010f6eb16ab35" sha1="aac1881255b4429a2fa13fcb003c2290bce5687c"/>
+	</game>
+	<game name="Fatal Run (1990)(Atari)(PAL)">
+		<description>Fatal Run (1990)(Atari)(PAL)</description>
+		<rom name="Fatal Run (1990)(Atari)(PAL).a78" size="131200" crc="8a840c36" md5="c9551260a5a8e79e38acd8294c791f5a" sha1="010773e4d837c4fe4e27b8996c3005435566e656"/>
+	</game>
+	<game name="Fight Night (1988)(Atari)(NTSC)">
+		<description>Fight Night (1988)(Atari)(NTSC)</description>
+		<rom name="Fight Night (1988)(Atari)(NTSC).a78" size="131200" crc="28e38bd7" md5="c64fb1c181e2d8b807181bb3c0fffbe9" sha1="48d87db3dfc85b20c04410104023694d60baf8a1"/>
+	</game>
+	<game name="Fight Night (1988)(Atari)(PAL)">
+		<description>Fight Night (1988)(Atari)(PAL)</description>
+		<rom name="Fight Night (1988)(Atari)(PAL).a78" size="131200" crc="4b75ad7a" md5="57109e6e4e2852c23440300ad27ce3cb" sha1="25b8664f51e0e816c9a1c94397bde03ac256686d"/>
+	</game>
+	<game name="Food Fight (1987)(Atari)(NTSC)">
+		<description>Food Fight (1987)(Atari)(NTSC)</description>
+		<rom name="Food Fight (1987)(Atari)(NTSC).a78" size="32896" crc="db5b7d3f" md5="32cbe0cfaa773749df4fcaf7dbca74db" sha1="289726184c13ef554d3e806cf907165206e86945"/>
+	</game>
+	<game name="Food Fight (1987)(Atari)(NTSC)[a]">
+		<description>Food Fight (1987)(Atari)(NTSC)[a]</description>
+		<rom name="Food Fight (1987)(Atari)(NTSC)[a].a78" size="32896" crc="03ec1894" md5="9a3819eef58dddb550fe997e7e6abee2" sha1="1d08c9791803e7bacdc0f36414ccabd1fa6b07a0"/>
+	</game>
+	<game name="Food Fight (1987)(Atari)(PAL)">
+		<description>Food Fight (1987)(Atari)(PAL)</description>
+		<rom name="Food Fight (1987)(Atari)(PAL).a78" size="49280" crc="05b23d02" md5="68a62e30225431f4a789dbc957bc28ff" sha1="41c8df367c77f15457383140d590c5e6a0ee5f76"/>
+	</game>
+	<game name="Galaga (1987)(Atari)(NTSC)">
+		<description>Galaga (1987)(Atari)(NTSC)</description>
+		<rom name="Galaga (1987)(Atari)(NTSC).a78" size="32896" crc="0a174f9b" md5="3303ac4fa80351e2240b097e2781afe1" sha1="96515fd5d0c7b3ec507469d5f47d377bdb1ab6fe"/>
+	</game>
+	<game name="Galaga (1987)(Atari)(NTSC)[a]">
+		<description>Galaga (1987)(Atari)(NTSC)[a]</description>
+		<rom name="Galaga (1987)(Atari)(NTSC)[a].a78" size="32896" crc="cffaa1b7" md5="1dd27b0caf03d6e3948d3be16ac30792" sha1="93a3b9c5348bbfd3bad6ec2bd922857a66dbb73a"/>
+	</game>
+	<game name="Galaga (1987)(Atari)(PAL)">
+		<description>Galaga (1987)(Atari)(PAL)</description>
+		<rom name="Galaga (1987)(Atari)(PAL).a78" size="49280" crc="50c37611" md5="712225bf32f418848375012c91bb8554" sha1="759d582fdbfa92f451b6c4a8bc739fc3e9f7128e"/>
+	</game>
+	<game name="GATO (1987)(Atari)(NTSC)(proto)">
+		<description>GATO (1987)(Atari)(NTSC)(proto)</description>
+		<rom name="GATO (1987)(Atari)(NTSC)(proto).a78" size="49280" crc="b45a9f49" md5="aef7d1fb101c340bd83dffc90080d7da" sha1="252b8d453f297be69a0b0de3a1bfd925a69c76e9"/>
+	</game>
+	<game name="GATO (1987)(Atari)(NTSC)(proto)[a]">
+		<description>GATO (1987)(Atari)(NTSC)(proto)[a]</description>
+		<rom name="GATO (1987)(Atari)(NTSC)(proto)[a].a78" size="49280" crc="9fff1924" md5="f95af33c24798aeea0a2e4497bf97197" sha1="bc8ee7adeb01c875eeeda51d707c533cc4329668"/>
+	</game>
+	<game name="Hat Trick (1987)(Atari)(NTSC)">
+		<description>Hat Trick (1987)(Atari)(NTSC)</description>
+		<rom name="Hat Trick (1987)(Atari)(NTSC).a78" size="49280" crc="e293793e" md5="92f5dedbcd4456436917ce49fc2af923" sha1="d419772b1aa40cb4c62faea904000fbb243c0b46"/>
+	</game>
+	<game name="Hat Trick (1987)(Atari)(NTSC)[a]">
+		<description>Hat Trick (1987)(Atari)(NTSC)[a]</description>
+		<rom name="Hat Trick (1987)(Atari)(NTSC)[a].a78" size="49280" crc="6247efa8" md5="e3009bea70564f42dea651aa6fb89bd2" sha1="9a154c4faeb10167eeac65206892ad9a1b9f8364"/>
+	</game>
+	<game name="Hat Trick (1987)(Atari)(PAL)">
+		<description>Hat Trick (1987)(Atari)(PAL)</description>
+		<rom name="Hat Trick (1987)(Atari)(PAL).a78" size="49280" crc="bf258a76" md5="f7bf702bd6995df5ec7e377fd17b2689" sha1="f1a01335e1311a96561ff799edb05f2c1ad1ef0b"/>
+	</game>
+	<game name="Ikari Warriors (1989)(Atari)(NTSC)">
+		<description>Ikari Warriors (1989)(Atari)(NTSC)</description>
+		<rom name="Ikari Warriors (1989)(Atari)(NTSC).a78" size="131200" crc="aa0cfb30" md5="09ab678572f2c2953a7dda3cc3cda0df" sha1="d276034ad0cb78233f41d62f26ae8c13941b347f"/>
+	</game>
+	<game name="Ikari Warriors (1989)(Atari)(PAL)">
+		<description>Ikari Warriors (1989)(Atari)(PAL)</description>
+		<rom name="Ikari Warriors (1989)(Atari)(PAL).a78" size="131200" crc="9e43a69e" md5="605b8fe25fcd5a8166f858f48bd3e454" sha1="5a9cb92d46a8f66d848df0915c0533f32db12b62"/>
+	</game>
+	<game name="Impossible Mission (1987)(Atari)(NTSC)">
+		<description>Impossible Mission (1987)(Atari)(NTSC)</description>
+		<rom name="Impossible Mission (1987)(Atari)(NTSC).a78" size="131200" crc="fa0a683e" md5="151ae3590901543a022b7a58c4d20ce6" sha1="bdbc60df4fe04072f41b408d5ed97487db9abe34"/>
+	</game>
+	<game name="Impossible Mission (1987)(Atari)(NTSC)[a]">
+		<description>Impossible Mission (1987)(Atari)(NTSC)[a]</description>
+		<rom name="Impossible Mission (1987)(Atari)(NTSC)[a].a78" size="131200" crc="0b0bbe47" md5="9873fd58983fe5a026ecb457dc538c70" sha1="57ddbc1da7d8c91a6a2d3d80af7db98f0daa05e6"/>
+	</game>
+	<game name="Impossible Mission (1987)(Atari)(PAL)">
+		<description>Impossible Mission (1987)(Atari)(PAL)</description>
+		<rom name="Impossible Mission (1987)(Atari)(PAL).a78" size="131200" crc="dc1f3987" md5="f9b53a96ad0a408d37fa1f1e745ac2df" sha1="aa46b44bb579a82a85a03307bc474a6f19f209ab"/>
+	</game>
+	<game name="Jinks (1989)(Atari)(NTSC)">
+		<description>Jinks (1989)(Atari)(NTSC)</description>
+		<rom name="Jinks (1989)(Atari)(NTSC).a78" size="131200" crc="9571c998" md5="f4eaa88fa34b608c5b521ddf821173c4" sha1="e8e731a2f19f8cb83617a91c4aaaff28bb89ef7d"/>
+	</game>
+	<game name="Jinks (1989)(Atari)(PAL)">
+		<description>Jinks (1989)(Atari)(PAL)</description>
+		<rom name="Jinks (1989)(Atari)(PAL).a78" size="131200" crc="7a2fa209" md5="93630d3b32690f4127edde9993163cba" sha1="6b1a67a8639c89bb9ae8e1200c1fa910e9d55476"/>
+	</game>
+	<game name="Joust (1987)(Atari)(NTSC)">
+		<description>Joust (1987)(Atari)(NTSC)</description>
+		<rom name="Joust (1987)(Atari)(NTSC).a78" size="32896" crc="1646ec7c" md5="980bf180e70aee85c5080f1b57e37558" sha1="625829093ce079c88a9c9129c0dab709311ff7a0"/>
+	</game>
+	<game name="Joust (1987)(Atari)(NTSC)[a]">
+		<description>Joust (1987)(Atari)(NTSC)[a]</description>
+		<rom name="Joust (1987)(Atari)(NTSC)[a].a78" size="32896" crc="fda13f77" md5="6acb6db87bd24ab7eecdbef2f206b384" sha1="04e1355f0109864d470a0ff6f8345436a7665b93"/>
+	</game>
+	<game name="Joust (1987)(Atari)(PAL)">
+		<description>Joust (1987)(Atari)(PAL)</description>
+		<rom name="Joust (1987)(Atari)(PAL).a78" size="49280" crc="9958ff37" md5="1cc643e4ef4015ca8b4cac53ac9f8d72" sha1="63470ed89bf256fbe33e081bf2793e9c947619fe"/>
+	</game>
+	<game name="Karateka (1988)(Atari)(NTSC)">
+		<description>Karateka (1988)(Atari)(NTSC)</description>
+		<rom name="Karateka (1988)(Atari)(NTSC).a78" size="49280" crc="be689aea" md5="66d00c7dec50696650092f65525671f4" sha1="32b5ddc7bef1b140e94b17ce002809cf4566929f"/>
+	</game>
+	<game name="Karateka (1988)(Atari)(NTSC)[a]">
+		<description>Karateka (1988)(Atari)(NTSC)[a]</description>
+		<rom name="Karateka (1988)(Atari)(NTSC)[a].a78" size="49280" crc="7089a354" md5="a58e0790cf2940e33343daacee0bc864" sha1="ef839309a2770efd09955ed3467f0970a64d8243"/>
+	</game>
+	<game name="Karateka (1988)(Atari)(PAL)">
+		<description>Karateka (1988)(Atari)(PAL)</description>
+		<rom name="Karateka (1988)(Atari)(PAL).a78" size="65664" crc="1ffa97df" md5="36dfd705194d331ff828866b7e8ca0ef" sha1="e6b6972937d3a77a9badd0ddd32021a2d8efff04"/>
+	</game>
+	<game name="Klax (1992)(Atari)(NTSC)(proto)">
+		<description>Klax (1992)(Atari)(NTSC)(proto)</description>
+		<rom name="Klax (1992)(Atari)(NTSC)(proto).a78" size="131200" crc="729f4b1c" md5="6bfab37581cf320bead173ad8667abd5" sha1="cf1edf5e8728c0a9bb688ed9fe28994881e081bd"/>
+	</game>
+	<game name="Klax (1992)(Atari)(NTSC)(proto)[a]">
+		<description>Klax (1992)(Atari)(NTSC)(proto)[a]</description>
+		<rom name="Klax (1992)(Atari)(NTSC)(proto)[a].a78" size="131200" crc="0ae5c4d3" md5="3fa3bf48510bd3c3464e6cc18864b8d8" sha1="3ca412fdb435b49f3558c2e0649ac67f513484c7"/>
+	</game>
+	<game name="Klax (1992)(Atari)(NTSC)(proto)[b]">
+		<description>Klax (1992)(Atari)(NTSC)(proto)[b]</description>
+		<rom name="Klax (1992)(Atari)(NTSC)(proto)[b].a78" size="131200" crc="0346af6b" md5="62ac9b6a93308bb65ca8158b2100ff34" sha1="ef5de81827dbf03fec742206e99904e8c47724de"/>
+	</game>
+	<game name="Kung-Fu Master (1989)(Absolute Entertainment)(NTSC)">
+		<description>Kung-Fu Master (1989)(Absolute Entertainment)(NTSC)</description>
+		<rom name="Kung-Fu Master (1989)(Absolute Entertainment)(NTSC).a78" size="32896" crc="37816887" md5="1d9513a8d2a837caca7bb4e9884a87cb" sha1="624a8f70b433f04942d5544289ac156d50b93610"/>
+	</game>
+	<game name="Kung-Fu Master (1989)(Absolute Entertainment)(PAL)">
+		<description>Kung-Fu Master (1989)(Absolute Entertainment)(PAL)</description>
+		<rom name="Kung-Fu Master (1989)(Absolute Entertainment)(PAL).a78" size="32896" crc="00b75654" md5="8c92c54ca423f866886a7955bc5d6996" sha1="0ab29674e371db040e41060ae5b3512a3c7f5120"/>
+	</game>
+	<game name="Mario Bros. (1988)(Atari)(NTSC)">
+		<description>Mario Bros. (1988)(Atari)(NTSC)</description>
+		<rom name="Mario Bros. (1988)(Atari)(NTSC).a78" size="49280" crc="fcffc04a" md5="ae174ab64a4858cd05a3fc12cc9e140b" sha1="18b1645a76cf72ccc9ecfc582f02425daf410004"/>
+	</game>
+	<game name="Mario Bros. (1988)(Atari)(NTSC)[a]">
+		<description>Mario Bros. (1988)(Atari)(NTSC)[a]</description>
+		<rom name="Mario Bros. (1988)(Atari)(NTSC)[a].a78" size="49280" crc="4d072a3e" md5="4e1151e58e14ffca2a445d46981dab65" sha1="b0216f9979d0cf75d2f00c2715170b7acf3d92f9"/>
+	</game>
+	<game name="Mario Bros. (1988)(Atari)(PAL)">
+		<description>Mario Bros. (1988)(Atari)(PAL)</description>
+		<rom name="Mario Bros. (1988)(Atari)(PAL).a78" size="49280" crc="04d779f4" md5="fc806b64f8a6693d5b845eef69603188" sha1="3f2905ae606d5e7c2e05d1bf6bb6525f88af31ba"/>
+	</game>
+	<game name="Mat Mania Challenge (1990)(Atari)(NTSC)">
+		<description>Mat Mania Challenge (1990)(Atari)(NTSC)</description>
+		<rom name="Mat Mania Challenge (1990)(Atari)(NTSC).a78" size="131200" crc="a902f3e6" md5="bbbca8b82ffb92801f97a9f9bb22f41f" sha1="ab08f92c6a9a3346cce40958ad6492e6af00acf1"/>
+	</game>
+	<game name="Mat Mania Challenge (1990)(Atari)(NTSC)[a]">
+		<description>Mat Mania Challenge (1990)(Atari)(NTSC)[a]</description>
+		<rom name="Mat Mania Challenge (1990)(Atari)(NTSC)[a].a78" size="131200" crc="33bb15ac" md5="b34fec30a281a066c4098c44709f30ae" sha1="d84a0f727e2176a58ec222c3b4a3364ddd6c4e30"/>
+	</game>
+	<game name="Mat Mania Challenge (1990)(Atari)(PAL)">
+		<description>Mat Mania Challenge (1990)(Atari)(PAL)</description>
+		<rom name="Mat Mania Challenge (1990)(Atari)(PAL).a78" size="131200" crc="71b58ddb" md5="d5cbbe02760e0f13aacf2fb0808d968a" sha1="e83dfc8c1546527aa79176444937af1897aff80e"/>
+	</game>
+	<game name="Mean 18 Ultimate Golf (1989)(Atari)(NTSC)">
+		<description>Mean 18 Ultimate Golf (1989)(Atari)(NTSC)</description>
+		<rom name="Mean 18 Ultimate Golf (1989)(Atari)(NTSC).a78" size="131200" crc="517d1986" md5="870ad5326b05ead675d35a1c679c4b1f" sha1="5a3de17714b24eb526d0ec62b327f4bc66a7fe9f"/>
+	</game>
+	<game name="Mean 18 Ultimate Golf (1989)(Atari)(NTSC)[a]">
+		<description>Mean 18 Ultimate Golf (1989)(Atari)(NTSC)[a]</description>
+		<rom name="Mean 18 Ultimate Golf (1989)(Atari)(NTSC)[a].a78" size="131200" crc="d22f4b02" md5="a2467a3c756505010a37e9a687de57d5" sha1="c1f1d13b0a3cff210a6b8fe73efb5588cb4de3c6"/>
+	</game>
+	<game name="Mean 18 Ultimate Golf (1989)(Atari)(PAL)">
+		<description>Mean 18 Ultimate Golf (1989)(Atari)(PAL)</description>
+		<rom name="Mean 18 Ultimate Golf (1989)(Atari)(PAL).a78" size="131200" crc="d7f1d5a5" md5="a5a0f6297c29146162bcd6db7d30790e" sha1="34e8ae5ecbed5a27635ce0b7aa5e1c154f7c8a6c"/>
+	</game>
+	<game name="Meltdown (1990)(Atari)(NTSC)">
+		<description>Meltdown (1990)(Atari)(NTSC)</description>
+		<rom name="Meltdown (1990)(Atari)(NTSC).a78" size="131200" crc="14502302" md5="548c743c32058950d507861d7993d425" sha1="816073f9dd490c34e64db4b246bca0ec0e0834fb"/>
+	</game>
+	<game name="Meltdown (1990)(Atari)(NTSC)[b]">
+		<description>Meltdown (1990)(Atari)(NTSC)[b]</description>
+		<rom name="Meltdown (1990)(Atari)(NTSC)[b].a78" size="131200" crc="e27f3c97" md5="98523d961dfd51d4fdf7b507ccdfe5e4" sha1="af4598cea849790262c1ba308410dbf8195b72ec"/>
+	</game>
+	<game name="Meltdown (1990)(Atari)(PAL)">
+		<description>Meltdown (1990)(Atari)(PAL)</description>
+		<rom name="Meltdown (1990)(Atari)(PAL).a78" size="131200" crc="3ce19444" md5="56ba37a817e0f434bbec9e9274b84d36" sha1="8f626b39072acde7d01470d72dbed547824ed0a0"/>
+	</game>
+	<game name="Midnight Mutants (1990)(Atari)(NTSC)">
+		<description>Midnight Mutants (1990)(Atari)(NTSC)</description>
+		<rom name="Midnight Mutants (1990)(Atari)(NTSC).a78" size="131200" crc="e7157222" md5="e0cc5168d910557c01d3c95173ec7d0a" sha1="c56e2180b8ad1d37767d01c22bfb098d995f192e"/>
+	</game>
+	<game name="Midnight Mutants (1990)(Atari)(PAL)">
+		<description>Midnight Mutants (1990)(Atari)(PAL)</description>
+		<rom name="Midnight Mutants (1990)(Atari)(PAL).a78" size="131200" crc="f68c312a" md5="6367b42ce5db0d97f8ff994225254e35" sha1="d0a24c0238520f666d9b558c79a8ee5131983fee"/>
+	</game>
+	<game name="Motor Psycho (1990)(Atari)(NTSC)">
+		<description>Motor Psycho (1990)(Atari)(NTSC)</description>
+		<rom name="Motor Psycho (1990)(Atari)(NTSC).a78" size="131200" crc="fc414689" md5="06b27077568fe7529d2d0bdfdd974854" sha1="f59f5081979b69b30a6f3cf9f2be5345747ee14e"/>
+	</game>
+	<game name="Motor Psycho (1990)(Atari)(PAL)">
+		<description>Motor Psycho (1990)(Atari)(PAL)</description>
+		<rom name="Motor Psycho (1990)(Atari)(PAL).a78" size="131200" crc="af9ac9d6" md5="42faf283fee9fd61acf0691f349e929e" sha1="363006e26a7c30d7140b8172faeaad4dc5f265d5"/>
+	</game>
+	<game name="Ms. Pac-Man (1987)(Atari)(NTSC)">
+		<description>Ms. Pac-Man (1987)(Atari)(NTSC)</description>
+		<rom name="Ms. Pac-Man (1987)(Atari)(NTSC).a78" size="16512" crc="2b11d9f2" md5="8b79479dbc5c75b3513319c52ae6fc29" sha1="38f044a7267e6beac17f0824325bda3cd2ec3b9b"/>
+	</game>
+	<game name="Ms. Pac-Man (1987)(Atari)(NTSC)[a]">
+		<description>Ms. Pac-Man (1987)(Atari)(NTSC)[a]</description>
+		<rom name="Ms. Pac-Man (1987)(Atari)(NTSC)[a].a78" size="16512" crc="5ec9c910" md5="12a6483c57d2060d1d07eed2f4cb63dd" sha1="aad5c4b0b2e372f13ffa0a291023c9feee86785d"/>
+	</game>
+	<game name="Ms. Pac-Man (1987)(Atari)(PAL)">
+		<description>Ms. Pac-Man (1987)(Atari)(PAL)</description>
+		<rom name="Ms. Pac-Man (1987)(Atari)(PAL).a78" size="32896" crc="9e186149" md5="91b24c1e13b39b649d80efe1d9b742ae" sha1="e878bde9200cd8bcfe82e3ef51e20d16983328db"/>
+	</game>
+	<game name="Ninja Golf (1989)(Atari)(NTSC)">
+		<description>Ninja Golf (1989)(Atari)(NTSC)</description>
+		<rom name="Ninja Golf (1989)(Atari)(NTSC).a78" size="131200" crc="9e5d3625" md5="bb551483d114dcc5bae7aaa892ee856a" sha1="bf0801510a0835e327b1b2edd2d56399551bc047"/>
+	</game>
+	<game name="Ninja Golf (1989)(Atari)(PAL)">
+		<description>Ninja Golf (1989)(Atari)(PAL)</description>
+		<rom name="Ninja Golf (1989)(Atari)(PAL).a78" size="131200" crc="0b070229" md5="2376f769c6183f80bf4b791a57dc1554" sha1="c8513193616984b872a4e4892abe5ce85611aab9"/>
+	</game>
+	<game name="One-on-One Basketball (1987)(Atari)(NTSC)">
+		<description>One-on-One Basketball (1987)(Atari)(NTSC)</description>
+		<rom name="One-on-One Basketball (1987)(Atari)(NTSC).a78" size="49280" crc="859c8456" md5="247163ef4b5a5966bfeecfca376a0533" sha1="950ec20374630cbbb53d03543b7c56e6f923b96d"/>
+	</game>
+	<game name="One-on-One Basketball (1987)(Atari)(NTSC)[a]">
+		<description>One-on-One Basketball (1987)(Atari)(NTSC)[a]</description>
+		<rom name="One-on-One Basketball (1987)(Atari)(NTSC)[a].a78" size="49280" crc="34646e22" md5="485478092c2f192eaf29ca199b753d16" sha1="b89b8e550ae9c58880ef05e2e7d6ec6de40e96ce"/>
+	</game>
+	<game name="One-on-One Basketball (1987)(Atari)(PAL)">
+		<description>One-on-One Basketball (1987)(Atari)(PAL)</description>
+		<rom name="One-on-One Basketball (1987)(Atari)(PAL).a78" size="49280" crc="15c95320" md5="c6c901171fda11e1deba32ccff1a218d" sha1="e360ea84ad560e649852a7cb0220f552c5d8c442"/>
+	</game>
+	<game name="Pete Rose Baseball (1989)(Absolute Entertainment)(NTSC)">
+		<description>Pete Rose Baseball (1989)(Absolute Entertainment)(NTSC)</description>
+		<rom name="Pete Rose Baseball (1989)(Absolute Entertainment)(NTSC).a78" size="32896" crc="ecece40b" md5="e749db4d81db283c1b6628181504b1b8" sha1="80ed091b4081c134ea57b8e96fc3825b1d98e7b2"/>
+	</game>
+	<game name="Pete Rose Baseball (1989)(Absolute Entertainment)(NTSC)[b]">
+		<description>Pete Rose Baseball (1989)(Absolute Entertainment)(NTSC)[b]</description>
+		<rom name="Pete Rose Baseball (1989)(Absolute Entertainment)(NTSC)[b].a78" size="32878" crc="522d86d2" md5="3c882503c71027f64e7ee7630e765aa9" sha1="7144cb51e759168fc0e02d02776cde9c4da76ea1"/>
+	</game>
+	<game name="Pit Fighter (1992)(Atari)(NTSC)(proto)">
+		<description>Pit Fighter (1992)(Atari)(NTSC)(proto)</description>
+		<rom name="Pit Fighter (1992)(Atari)(NTSC)(proto).a78" size="65664" crc="f29e8142" md5="7152e5c43f700b253480d324affb6792" sha1="56134e14414effe6e37d75935dbd9dda00888ff8"/>
+	</game>
+	<game name="Pit Fighter (1992)(Atari)(NTSC)(proto)[b]">
+		<description>Pit Fighter (1992)(Atari)(NTSC)(proto)[b]</description>
+		<rom name="Pit Fighter (1992)(Atari)(NTSC)(proto)[b].a78" size="131200" crc="7eb8b329" md5="0d06d0f107b41bf83733031059835c2c" sha1="70eb9cbc1166c6ee46e100c8c73f979a66ba6cb3"/>
+	</game>
+	<game name="Pit Fighter (1992)(Atari)(NTSC)(proto)[o]">
+		<description>Pit Fighter (1992)(Atari)(NTSC)(proto)[o]</description>
+		<rom name="Pit Fighter (1992)(Atari)(NTSC)(proto)[o].a78" size="131200" crc="5c9ac595" md5="b22ee90919dbbceb1cefaf0f83179a4d" sha1="d1ad56c792597a83fa51d29e8236ad5b818ada87"/>
+	</game>
+	<game name="Planet Smashers (1989)(Atari)(NTSC)">
+		<description>Planet Smashers (1989)(Atari)(NTSC)</description>
+		<rom name="Planet Smashers (1989)(Atari)(NTSC).a78" size="131200" crc="46342cd3" md5="923ee9602e0af45fe5d2131dfd78214c" sha1="58a82ff0bbbe418d1c2d950c9ecff7f5c549618f"/>
+	</game>
+	<game name="Planet Smashers (1989)(Atari)(PAL)">
+		<description>Planet Smashers (1989)(Atari)(PAL)</description>
+		<rom name="Planet Smashers (1989)(Atari)(PAL).a78" size="131200" crc="e8929246" md5="dd2428f9f032fc8eed7e2047820b41a3" sha1="1e040ac9f9da1f0806dbe0f687ff045c8acd3060"/>
+	</game>
+	<game name="Pole Position II (1987)(Atari)(NTSC)">
+		<description>Pole Position II (1987)(Atari)(NTSC)</description>
+		<rom name="Pole Position II (1987)(Atari)(NTSC).a78" size="32896" crc="3d57623a" md5="1eb8d721eecc75d57c44eaa3a2635e14" sha1="c6c8accd3ff293c249f544688dc49807ca2556cf"/>
+	</game>
+	<game name="Pole Position II (1987)(Atari)(NTSC)[a]">
+		<description>Pole Position II (1987)(Atari)(NTSC)[a]</description>
+		<rom name="Pole Position II (1987)(Atari)(NTSC)[a].a78" size="32896" crc="4bf501cb" md5="8a4f2f898ee79593e2fc30061526ca08" sha1="319702e597f1fc419c1a530ed8cff2ea6c76e8fb"/>
+	</game>
+	<game name="Pole Position II (1987)(Atari)(PAL)">
+		<description>Pole Position II (1987)(Atari)(PAL)</description>
+		<rom name="Pole Position II (1987)(Atari)(PAL).a78" size="32896" crc="9d44a452" md5="a0f09999a960c4df88ebbe652b286c2e" sha1="f77e284dbfc472b74177ff0e4a012b44ef2efa6e"/>
+	</game>
+	<game name="Rampage (1989)(Activision)(NTSC)">
+		<description>Rampage (1989)(Activision)(NTSC)</description>
+		<rom name="Rampage (1989)(Activision)(NTSC).a78" size="131200" crc="859d9352" md5="312f9df6d593e69567b1de26d283a2be" sha1="78b58a68239e2016b15699f0c113984487156c22"/>
+	</game>
+	<game name="RealSports Baseball (1988)(Atari)(NTSC)">
+		<description>RealSports Baseball (1988)(Atari)(NTSC)</description>
+		<rom name="RealSports Baseball (1988)(Atari)(NTSC).a78" size="65664" crc="f33bd4fd" md5="83a91c157d4feb13c3513b158d6c825f" sha1="d2b8b6dbb600b2e8b70abbabc10984c5a6e391ba"/>
+	</game>
+	<game name="RealSports Baseball (1988)(Atari)(NTSC)[o]">
+		<description>RealSports Baseball (1988)(Atari)(NTSC)[o]</description>
+		<rom name="RealSports Baseball (1988)(Atari)(NTSC)[o].a78" size="131200" crc="f5fde147" md5="f39b3664545d1a13af40a9656c463bfe" sha1="ab96b82d698bd59d07d8004f0445699e26137817"/>
+	</game>
+	<game name="Robotron - 2084 (1987)(Atari)(NTSC)">
+		<description>Robotron - 2084 (1987)(Atari)(NTSC)</description>
+		<rom name="Robotron - 2084 (1987)(Atari)(NTSC).a78" size="32896" crc="aa06b121" md5="eb2110c0fc2655775166219e4877f80c" sha1="28fddab1e203610a153ce47f067f8af494a3442e"/>
+	</game>
+	<game name="Robotron - 2084 (1987)(Atari)(NTSC)[a]">
+		<description>Robotron - 2084 (1987)(Atari)(NTSC)[a]</description>
+		<rom name="Robotron - 2084 (1987)(Atari)(NTSC)[a].a78" size="32896" crc="ab7bc9ce" md5="5ac3aa823da1a7a9738c208161fbca57" sha1="77c3445993f2d0a2acf0a453ef80bc31e047b932"/>
+	</game>
+	<game name="Scrapyard Dog (1990)(Atari)(NTSC)">
+		<description>Scrapyard Dog (1990)(Atari)(NTSC)</description>
+		<rom name="Scrapyard Dog (1990)(Atari)(NTSC).a78" size="131200" crc="db61ae81" md5="eb1a0b793c58b2e2cacc01b843aebfed" sha1="5fec935aa0e284e6373f456e5fb9158892d0f4e8"/>
+	</game>
+	<game name="Scrapyard Dog (1990)(Atari)(PAL)">
+		<description>Scrapyard Dog (1990)(Atari)(PAL)</description>
+		<rom name="Scrapyard Dog (1990)(Atari)(PAL).a78" size="131200" crc="b435a5cb" md5="c3b2f0f462dbbf66d0c8c5c6e457d603" sha1="39d2388d4b68c04b905eaa2e5456769da60c11bd"/>
+	</game>
+	<game name="Senso 7800 DX2 (2002)(Taquart)(PD)">
+		<description>Senso 7800 DX2 (2002)(Taquart)(PD)</description>
+		<rom name="Senso 7800 DX2 (2002)(Taquart)(PD).a78" size="49280" crc="936da76c" md5="95aab3a67eec47e3346a3d34d72e2312" sha1="01a7072157b714dab4379f205faf1cede172fabc"/>
+	</game>
+	<game name="Senso 7800 DX3 (2003)(Taquart)(PD)">
+		<description>Senso 7800 DX3 (2003)(Taquart)(PD)</description>
+		<rom name="Senso 7800 DX3 (2003)(Taquart)(PD).a78" size="49280" crc="664aa5d1" md5="0d6f4776131a4afdebdeb072570cea62" sha1="064fdb39af45d7a12731ae8904e129fa3f449cf5"/>
+	</game>
+	<game name="Senso 7800 DX4 (2003)(Taquart)(PD)">
+		<description>Senso 7800 DX4 (2003)(Taquart)(PD)</description>
+		<rom name="Senso 7800 DX4 (2003)(Taquart)(PD).a78" size="49280" crc="1e7c3d8b" md5="89ae1db3edc1b9c8d7aff8af593528ad" sha1="678d7ca5aa01ea2f8a1c3d05239a66485dcb688d"/>
+	</game>
+	<game name="Senso 7800 Test 5 (2001)(Taquart)(PD)">
+		<description>Senso 7800 Test 5 (2001)(Taquart)(PD)</description>
+		<rom name="Senso 7800 Test 5 (2001)(Taquart)(PD).a78" size="45440" crc="6cefe5fd" md5="6d2463f2e101960c29aef1ef9d2de0be" sha1="7fc7dfa46d6189422e008d978c09ea1e96734ed9"/>
+	</game>
+	<game name="Sentinel (1990)(Atari)(NTSC)(proto)">
+		<description>Sentinel (1990)(Atari)(NTSC)(proto)</description>
+		<rom name="Sentinel (1990)(Atari)(NTSC)(proto).a78" size="131200" crc="51df6e83" md5="a3d62d98dbd93d43d3ac04fbb35ef1f9" sha1="bfbf9be9ad0788f5c54428cc70ca8b75816eb4a9"/>
+	</game>
+	<game name="Sentinel (1990)(Atari)(NTSC)(proto)[b]">
+		<description>Sentinel (1990)(Atari)(NTSC)(proto)[b]</description>
+		<rom name="Sentinel (1990)(Atari)(NTSC)(proto)[b].a78" size="131200" crc="a7f07116" md5="e31bc3ed3a32e17ad5a4a356e66799f1" sha1="ab01ab13ce1bf9dd49fd162161c80c9c42999902"/>
+	</game>
+	<game name="Sentinel (1991)(Atari)(PAL)">
+		<description>Sentinel (1991)(Atari)(PAL)</description>
+		<rom name="Sentinel (1991)(Atari)(PAL).a78" size="131200" crc="4c779065" md5="37aa591e7000539aa64726de5a8bad92" sha1="fb504fec071574d0a33d495c34a467fbb10b2bed"/>
+	</game>
+	<game name="Sentinel (1991)(Atari)(PAL)[b]">
+		<description>Sentinel (1991)(Atari)(PAL)[b]</description>
+		<rom name="Sentinel (1991)(Atari)(PAL)[b].a78" size="131200" crc="ba588ff0" md5="967d09d8c03983cf92df73cabbeeea0e" sha1="bf414ce1962f57016b26f545321d49fe13cf1e1e"/>
+	</game>
+	<game name="Space War! Rev 20030930 (2003)(Eric Ball)(PD)">
+		<description>Space War! Rev 20030930 (2003)(Eric Ball)(PD)</description>
+		<rom name="Space War! Rev 20030930 (2003)(Eric Ball)(PD).a78" size="4224" crc="ddcbaf8f" md5="2c1a97e352465c7444643e099fa4892e" sha1="00637d5949985ca0750f9481d6370629cfcbda68"/>
+	</game>
+	<game name="Space War! Rev 20040318 (2004)(Eric Ball)(PD)">
+		<description>Space War! Rev 20040318 (2004)(Eric Ball)(PD)</description>
+		<rom name="Space War! Rev 20040318 (2004)(Eric Ball)(PD).a78" size="4224" crc="56dd68c8" md5="45af8572859c3f883bc41a9a004ad8c8" sha1="85d6471cf423e4f16ed415bfe529605a39aee0f2"/>
+	</game>
+	<game name="Summer Games (1987)(Atari)(NTSC)">
+		<description>Summer Games (1987)(Atari)(NTSC)</description>
+		<rom name="Summer Games (1987)(Atari)(NTSC).a78" size="131200" crc="8e4cf69c" md5="b52e03faf69edc223425e7caf0ed900a" sha1="246974b8066019e7b9607cf20359596a9398af85"/>
+	</game>
+	<game name="Summer Games (1987)(Atari)(NTSC)[b]">
+		<description>Summer Games (1987)(Atari)(NTSC)[b]</description>
+		<rom name="Summer Games (1987)(Atari)(NTSC)[b].a78" size="131200" crc="05d35694" md5="559e0a7566616b83644718f6f501e7a8" sha1="86383e6553453a353fb641b60f7021662bfc6553"/>
+	</game>
+	<game name="Super Huey UH-1X (1988)(Atari)(NTSC)">
+		<description>Super Huey UH-1X (1988)(Atari)(NTSC)</description>
+		<rom name="Super Huey UH-1X (1988)(Atari)(NTSC).a78" size="49280" crc="033a6058" md5="0d5208d60c0a2fd23a09939c6c0fe3a3" sha1="9bdbc4d628f06e425d50a4e2a67cc7806360d94d"/>
+	</game>
+	<game name="Super Huey UH-1X (1988)(Atari)(NTSC)[a2]">
+		<description>Super Huey UH-1X (1988)(Atari)(NTSC)[a2]</description>
+		<rom name="Super Huey UH-1X (1988)(Atari)(NTSC)[a2].a78" size="49280" crc="629d1032" md5="324a08b67016600e5bd21218aa3e84f8" sha1="58e1a65114689e526ad89a4a47e237161d15ab2b"/>
+	</game>
+	<game name="Super Huey UH-1X (1988)(Atari)(NTSC)[a]">
+		<description>Super Huey UH-1X (1988)(Atari)(NTSC)[a]</description>
+		<rom name="Super Huey UH-1X (1988)(Atari)(NTSC)[a].a78" size="49280" crc="f1991b27" md5="81b81dd6239255be35c1d9bd2ce701c6" sha1="8fe3620de6d630e8a1aeb30291940f7589532956"/>
+	</game>
+	<game name="Super Huey UH-1X (1988)(Atari)(PAL)">
+		<description>Super Huey UH-1X (1988)(Atari)(PAL)</description>
+		<rom name="Super Huey UH-1X (1988)(Atari)(PAL).a78" size="49280" crc="5e625072" md5="38ca78bccd3f181b3a833e2bcecd921f" sha1="35a03c8a15e63e53f5cc4334450bc7d695b7bea8"/>
+	</game>
+	<game name="Super Skateboardin' (1988)(Absolute Entertainment)(NTSC)">
+		<description>Super Skateboardin' (1988)(Absolute Entertainment)(NTSC)</description>
+		<rom name="Super Skateboardin' (1988)(Absolute Entertainment)(NTSC).a78" size="32896" crc="faa12091" md5="1203a779363886f017e1424a1d90481a" sha1="fbf1848df9def28df693a3b85589ffb72273519a"/>
+	</game>
+	<game name="Super Skateboardin' (1988)(Absolute Entertainment)(PAL)">
+		<description>Super Skateboardin' (1988)(Absolute Entertainment)(PAL)</description>
+		<rom name="Super Skateboardin' (1988)(Absolute Entertainment)(PAL).a78" size="32896" crc="b91c65c4" md5="bbc4b9d8e81d46a56ffb9b94fa4e4848" sha1="8283a91b59b4a3b25ef479ba855b4af1b3b72a2d"/>
+	</game>
+	<game name="Tank Command (1988)(Froggo)(NTSC)">
+		<description>Tank Command (1988)(Froggo)(NTSC)</description>
+		<rom name="Tank Command (1988)(Froggo)(NTSC).a78" size="65664" crc="9ffc9515" md5="66f904276dabed87fe79f18f794c6dd0" sha1="807505a3af7458622c5dffc62da1d608826f917a"/>
+	</game>
+	<game name="Tank Command (1988)(Froggo)(NTSC)[b]">
+		<description>Tank Command (1988)(Froggo)(NTSC)[b]</description>
+		<rom name="Tank Command (1988)(Froggo)(NTSC)[b].a78" size="32896" crc="45d68b1e" md5="b8c777d263625dd1135c215f27b92fcc" sha1="7bc65ab655ff9360ecb4c12adea430b0ffda7404"/>
+	</game>
+	<game name="Tank Command (1988)(Froggo)(NTSC)[o]">
+		<description>Tank Command (1988)(Froggo)(NTSC)[o]</description>
+		<rom name="Tank Command (1988)(Froggo)(NTSC)[o].a78" size="131200" crc="c9a2139c" md5="43accd17517c001b8183c8ec12882ec6" sha1="b071ddbae6f71b93cf250af6940458e86b024e06"/>
+	</game>
+	<game name="Title Match Pro Wrestling (1989)(Absolute Entertainment)(NTSC)">
+		<description>Title Match Pro Wrestling (1989)(Absolute Entertainment)(NTSC)</description>
+		<rom name="Title Match Pro Wrestling (1989)(Absolute Entertainment)(NTSC).a78" size="32896" crc="a5742a96" md5="574b71c7cc5b0bc7746719cc8ffcf8ef" sha1="6ff9937e199ba98934a27170413cb962f5fc1218"/>
+	</game>
+	<game name="Title Match Pro Wrestling (1989)(Absolute Entertainment)(PAL)">
+		<description>Title Match Pro Wrestling (1989)(Absolute Entertainment)(PAL)</description>
+		<rom name="Title Match Pro Wrestling (1989)(Absolute Entertainment)(PAL).a78" size="32896" crc="d0ff1a1a" md5="777646d3852f4232b43fe22f77063e1b" sha1="80cc587f905781d50dc32b64ac2c3daf7d159a74"/>
+	</game>
+	<game name="Tomcat - The F-14 Fighter Simulator (1989)(Absolute Entertainment)(NTSC)">
+		<description>Tomcat - The F-14 Fighter Simulator (1989)(Absolute Entertainment)(NTSC)</description>
+		<rom name="Tomcat - The F-14 Fighter Simulator (1989)(Absolute Entertainment)(NTSC).a78" size="32896" crc="ab48f361" md5="176e6378f1d0e769dc6145fdde0a5081" sha1="cf5774e0ec2f127b40759e184572eab22b0ac635"/>
+	</game>
+	<game name="Tomcat - The F-14 Fighter Simulator (1989)(Absolute Entertainment)(PAL)">
+		<description>Tomcat - The F-14 Fighter Simulator (1989)(Absolute Entertainment)(PAL)</description>
+		<rom name="Tomcat - The F-14 Fighter Simulator (1989)(Absolute Entertainment)(PAL).a78" size="32896" crc="957bf79c" md5="6bf9d6748a220cb6ff150f575b24aa14" sha1="3e95e46a1e5b54908a8cf814478037f745e605d9"/>
+	</game>
+	<game name="Touchdown Football (1988)(Atari)(NTSC)">
+		<description>Touchdown Football (1988)(Atari)(NTSC)</description>
+		<rom name="Touchdown Football (1988)(Atari)(NTSC).a78" size="131200" crc="4162e98f" md5="d257805d290cc03ab750fae960ca74d7" sha1="4a7afa496ad97bc2b840ac60eb2827a743b01074"/>
+	</game>
+	<game name="Tower Toppler (1988)(Atari)(NTSC)">
+		<description>Tower Toppler (1988)(Atari)(NTSC)</description>
+		<rom name="Tower Toppler (1988)(Atari)(NTSC).a78" size="65664" crc="f701bd43" md5="252515a9fea1976a99167a40df1e77a3" sha1="e4b5a0dd8bfc9319289076ef0aa4543d94019e5c"/>
+	</game>
+	<game name="Tower Toppler (1988)(Atari)(NTSC)[o]">
+		<description>Tower Toppler (1988)(Atari)(NTSC)[o]</description>
+		<rom name="Tower Toppler (1988)(Atari)(NTSC)[o].a78" size="131200" crc="c915f181" md5="55c33c7aac3b31936312a1697b0263b3" sha1="7c5e2a16e8c8d88b044e5ff26355c56510830188"/>
+	</game>
+	<game name="Tower Toppler (1988)(Atari)(PAL)">
+		<description>Tower Toppler (1988)(Atari)(PAL)</description>
+		<rom name="Tower Toppler (1988)(Atari)(PAL).a78" size="65664" crc="b9269acb" md5="36575046957046486396e943d10fef9f" sha1="601818803ca6cfa55b7c0154fc9841001d7b379f"/>
+	</game>
+	<game name="Water Ski (1988)(Froggo)(NTSC)">
+		<description>Water Ski (1988)(Froggo)(NTSC)</description>
+		<rom name="Water Ski (1988)(Froggo)(NTSC).a78" size="65664" crc="09a27634" md5="a413c03945cb0627b7f5515dd6e9ea41" sha1="169ee9e4f0181108bcdcdf7a92983627d07ba63e"/>
+	</game>
+	<game name="Water Ski (1988)(Froggo)(NTSC)[b]">
+		<description>Water Ski (1988)(Froggo)(NTSC)[b]</description>
+		<rom name="Water Ski (1988)(Froggo)(NTSC)[b].a78" size="32896" crc="5db957a6" md5="70df05fa0f92c39259c0667cbd27baf4" sha1="6bb0205b88886f3079f50a25d7e6708bab32a49a"/>
+	</game>
+	<game name="Water Ski (1988)(Froggo)(NTSC)[o]">
+		<description>Water Ski (1988)(Froggo)(NTSC)[o]</description>
+		<rom name="Water Ski (1988)(Froggo)(NTSC)[o].a78" size="131200" crc="e4497285" md5="b80c718aca6b9d087bbd5d42d6925967" sha1="ad52027a4ef5822ff126f3d74350b8215e863f89"/>
+	</game>
+	<game name="Winter Games (1987)(Atari)(NTSC)">
+		<description>Winter Games (1987)(Atari)(NTSC)</description>
+		<rom name="Winter Games (1987)(Atari)(NTSC).a78" size="131200" crc="12454060" md5="53309f5298af58f658cff43c122b8856" sha1="baa7f957db2f4f9165a75b0f77866b5f99312769"/>
+	</game>
+	<game name="Winter Games (1987)(Atari)(NTSC)[b]">
+		<description>Winter Games (1987)(Atari)(NTSC)[b]</description>
+		<rom name="Winter Games (1987)(Atari)(NTSC)[b].a78" size="131200" crc="68db3611" md5="2c672efdb4f5eafd1b2ef10ea1ec4185" sha1="42283b1297237e04c6ef69234770d093ffef8949"/>
+	</game>
+	<game name="Xenophobe (1989)(Atari)(NTSC)">
+		<description>Xenophobe (1989)(Atari)(NTSC)</description>
+		<rom name="Xenophobe (1989)(Atari)(NTSC).a78" size="131200" crc="96ee8584" md5="46a7909d1fb1dd8ad4a6ae1c251cef33" sha1="d70bf96175e9a496b3041c149b727b23fe44e91e"/>
+	</game>
+	<game name="Xenophobe (1989)(Atari)(PAL)">
+		<description>Xenophobe (1989)(Atari)(PAL)</description>
+		<rom name="Xenophobe (1989)(Atari)(PAL).a78" size="131200" crc="73783e53" md5="c6c6051f7005c05820065426907f5390" sha1="b0499b57a42741ddd672ff7ff1b9ac3bc068ac58"/>
+	</game>
+	<game name="Xevious (1988)(Atari)(NTSC)">
+		<description>Xevious (1988)(Atari)(NTSC)</description>
+		<rom name="Xevious (1988)(Atari)(NTSC).a78" size="32896" crc="3f8507f3" md5="8201465d32c4057bb479959b59374b65" sha1="85475e9cb0e6a065960c6c0a337b4a2a65299511"/>
+	</game>
+	<game name="Xevious (1988)(Atari)(NTSC)[a]">
+		<description>Xevious (1988)(Atari)(NTSC)[a]</description>
+		<rom name="Xevious (1988)(Atari)(NTSC)[a].a78" size="32896" crc="44584fa2" md5="6fa5ece1f97f65c207b8c252ee49f97c" sha1="652e633776f608a3c2a1030a6796ba0c8669d8f0"/>
+	</game>
+	<game name="Xevious (1988)(Atari)(PAL)">
+		<description>Xevious (1988)(Atari)(PAL)</description>
+		<rom name="Xevious (1988)(Atari)(PAL).a78" size="49280" crc="42aaf1ff" md5="a9b3fbc9abadad89fa62a28702adcba0" sha1="f2a76e8f8d1b79a4859bc9d7a90b4c1f7e013f8a"/>
+	</game>
+</datafile>
