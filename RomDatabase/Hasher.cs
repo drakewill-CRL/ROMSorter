@@ -7,6 +7,7 @@ using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 using Force.Crc32;
+using SharpCompress;
 
 namespace RomDatabase
 {
@@ -66,5 +67,19 @@ namespace RomDatabase
             br.Dispose();
             return hashes;
         }
+
+        public static string[] HashRarEntry(SharpCompress.Archives.Rar.RarArchiveEntry entry)
+        {
+            var br = new BinaryReader(entry.OpenEntryStream());
+            byte[] data = new byte[(int)entry.Size];
+            br.Read(data, 0, (int)entry.Size);
+            var hashes = Hasher.HashFile(data);
+            data = null;
+            br.Close();
+            br.Dispose();
+            return hashes;
+        }
     }
 }
+
+

@@ -77,40 +77,7 @@ namespace RomDatabase
                 return;
             }
 
-            //Check 2: is this a zip file containing a single-file game entry (or multiple single-file entries?)
-            if (file.EndsWith(".zip"))
-            {
-                bool identified = false; //Was a game identified?
-                ZipArchive zf = new ZipArchive(new FileStream(file, FileMode.Open));
-                foreach (var entry in zf.Entries)
-                {
-                    if (entry.Length > 0)
-                    {
-                        var ziphashes = Hasher.HashZipEntry(entry);
-                        game = Database.FindGame((int)entry.Length, ziphashes);
-                        if (game != null && game.id != null)
-                        {
-                            identified = true;
-                            Directory.CreateDirectory(topFolder + "\\" + game.console);
-                            if (!File.Exists(topFolder + "\\" + game.console + "\\" + game.name)) //extract fails if file exists.
-                                entry.ExtractToFile(topFolder + "\\" + game.console + "\\" + game.name, true);
-
-                        }
-                        else
-                        {
-                            Directory.CreateDirectory(topFolder + "\\Unidentified");
-                            entry.ExtractToFile(topFolder + "\\Unidentified\\" + entry.Name, true);
-                        }
-                    }
-                }
-                zf.Dispose();
-                if (identified)
-                    MoveFile(topFolder + "\\Identified Originals", file, System.IO.Path.GetFileName(file));
-
-                return;
-            }
-
-            //check 3: Is this a single entry for a disc (multi-file game)? //or should be check 2?
+            //check 2: Is this a single entry for a disc (multi-file game)?
             var diskEntry = Database.FindDisc((int)fi.Length, hashes);
             if (diskEntry != null)
             {
@@ -134,8 +101,19 @@ namespace RomDatabase
                 //return?
             }
 
-            //Check 4: is this a zip with multiple disc entries? Or is this part of check 2/3?
-            //if so, check all the entries, and if its good handle moving it in bulk?
+            //Check 3: is this a zip file containing a single-file game entry (or multiple single-file entries?)
+            if (file.EndsWith(".zip"))
+            {
+                handleZipFile(file, topFolder);
+                return;
+            }
+
+            //check 4: rar file, as above.
+            if (file.EndsWith(".rar"))
+            {
+                HandleRarFile(file, topFolder);
+                return;
+            }
 
             //Check last - we didn't identify it, move if if the option was set.
             if (moveUnidentified)
@@ -143,11 +121,71 @@ namespace RomDatabase
 
         }
 
-        static void UnRar(string file)
+        static void HandleRarFile(string file, string topFolder)
         {
+            bool identified = false; //Was a game identified?
             var archive = SharpCompress.Archives.Rar.RarArchive.Open(file);
-            //archive.
+            foreach (var entry in archive.Entries)
+            {
+                if (entry.Size > 0)
+                {
+                    var ziphashes = Hasher.HashRarEntry(entry);
+                    var game = Database.FindGame((int)entry.Size, ziphashes);
+                    if (game != null && game.id != null)
+                    {
+                        identified = true;
+                        Directory.CreateDirectory(topFolder + "\\" + game.console);
+                        if (!File.Exists(topFolder + "\\" + game.console + "\\" + game.name)) //extract fails if file exists.
+                        {
+                            byte[] filedata = new byte[entry.Size];
+                            entry.OpenEntryStream().Read(filedata, 0, (int)entry.Size);
+                            System.IO.File.WriteAllBytes(topFolder + "\\" + game.console + "\\" + game.name, filedata);
+                        }
+                    }
+                    else
+                    {
+                        Directory.CreateDirectory(topFolder + "\\Unidentified");
+                        byte[] filedata = new byte[entry.Size];
+                        entry.OpenEntryStream().Read(filedata, 0, (int)entry.Size);
+                        System.IO.File.WriteAllBytes(topFolder + "\\Unidentified\\" + entry.Key, filedata);
+                    }
+                }
+            }
+            archive.Dispose();
+            if (identified)
+                MoveFile(topFolder + "\\Identified Originals", file, System.IO.Path.GetFileName(file));
 
+            return;
+        }
+
+        static void handleZipFile(string file, string topFolder)
+        {
+            bool identified = false; //Was a game identified?
+            ZipArchive zf = new ZipArchive(new FileStream(file, FileMode.Open));
+            foreach (var entry in zf.Entries)
+            {
+                if (entry.Length > 0)
+                {
+                    var ziphashes = Hasher.HashZipEntry(entry);
+                    var game = Database.FindGame((int)entry.Length, ziphashes);
+                    if (game != null && game.id != null)
+                    {
+                        identified = true;
+                        Directory.CreateDirectory(topFolder + "\\" + game.console);
+                        if (!File.Exists(topFolder + "\\" + game.console + "\\" + game.name)) //extract fails if file exists.
+                            entry.ExtractToFile(topFolder + "\\" + game.console + "\\" + game.name, true);
+
+                    }
+                    else
+                    {
+                        Directory.CreateDirectory(topFolder + "\\Unidentified");
+                        entry.ExtractToFile(topFolder + "\\Unidentified\\" + entry.Name, true);
+                    }
+                }
+            }
+            zf.Dispose();
+            if (identified)
+                MoveFile(topFolder + "\\Identified Originals", file, System.IO.Path.GetFileName(file));
         }
 
         static void CreateSingleZip(string file, string zipPath)

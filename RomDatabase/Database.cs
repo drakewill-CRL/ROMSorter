@@ -25,7 +25,6 @@ namespace RomDatabase
         //TODO: Reporter will also need to look into zip files if the checkbox is selected.
         //TODO: reporter needs to support discs as well as games. Only scanning by folder name for consoles available in the discs table might help?
         //NOT TODO: if I use description as filename all the time, I could consolidate this down to one table, but I'd have to add some processing logic to everything to figure out if i need a single file or multiples that way. Lets not do this
-        //TODO: add .rar support (for reading)
         //TODO: add .7z support (for reading)?
         //TODO: add high-integrity disc dat reading. If an entry is already found in 1 game, check to see if all of its entries match on size/hashes.
         //TODO: make dat cleaner, to remove entries that are already tracked in an earlier file
