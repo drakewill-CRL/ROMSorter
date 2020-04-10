@@ -71,9 +71,9 @@
             this.lblStatus.AutoSize = true;
             this.lblStatus.Location = new System.Drawing.Point(16, 271);
             this.lblStatus.Name = "lblStatus";
-            this.lblStatus.Size = new System.Drawing.Size(60, 13);
+            this.lblStatus.Size = new System.Drawing.Size(58, 13);
             this.lblStatus.TabIndex = 2;
-            this.lblStatus.Text = "Status: Idle";
+            this.lblStatus.Text = "Counting...";
             // 
             // chkMultithread
             // 

@@ -13,14 +13,17 @@ namespace RomDatabase
     {
         public static void SortAllGamesMultithread(string topFolder, string folderToScan, IProgress<string> progress = null, bool ZipInsteadOfMove = false, bool moveUnidentified = false)
         {
-            foreach (var dir in Directory.EnumerateDirectories(folderToScan))
+            var folders = Directory.EnumerateDirectories(folderToScan);
+            foreach (var dir in folders)
             {
-                SortAllGamesMultithread(topFolder, dir, progress, ZipInsteadOfMove);
+                SortAllGamesMultithread(topFolder, dir, progress, ZipInsteadOfMove, moveUnidentified);
+                if (Directory.EnumerateFiles(dir).Count() == 0 && Directory.EnumerateDirectories(dir).Count() == 0)
+                    Directory.Delete(dir);
             }
 
-            Parallel.ForEach(Directory.EnumerateFiles(folderToScan), (folder) =>
+            Parallel.ForEach(Directory.EnumerateFiles(folderToScan), (file) =>
             {
-                InnerLoop(folder, topFolder, progress, ZipInsteadOfMove, moveUnidentified);
+                InnerLoop(file, topFolder, progress, ZipInsteadOfMove, moveUnidentified);
             });
         }
 
@@ -28,7 +31,9 @@ namespace RomDatabase
         {
             foreach (var dir in Directory.EnumerateDirectories(folderToScan))
             {
-                SortAllGamesSinglethread(topFolder, dir, progress, ZipInsteadOfMove);
+                SortAllGamesSinglethread(topFolder, dir, progress, ZipInsteadOfMove, moveUnidentified);
+                if (Directory.EnumerateFiles(dir).Count() == 0 && Directory.EnumerateDirectories(dir).Count() == 0)
+                    Directory.Delete(dir);
             }
 
             foreach (var file in Directory.EnumerateFiles(folderToScan))
@@ -42,7 +47,7 @@ namespace RomDatabase
             Directory.CreateDirectory(folderpath); //does nothing if folder already exists
             if (!File.Exists(folderpath + "\\" + newFileName))
                 File.Move(localFilepath, folderpath + "\\" + newFileName);
-            else
+            else if (localFilepath != folderpath + "\\" + newFileName) //If we scan a directory that's also a destination, don't remove the file that we were going to move onto itself.
                 File.Delete(localFilepath);
         }
 
@@ -51,36 +56,36 @@ namespace RomDatabase
             Directory.CreateDirectory(folderpath); //does nothing if folder already exists
             if (!File.Exists(folderpath + "\\" + newFileName))
                 File.Copy(localFilepath, folderpath + "\\" + newFileName);
-            else
-                File.Delete(localFilepath);
         }
 
-        //TODO: rework logic again. Use return when it's done with a path to minimize nested conditionals.
         static void InnerLoop(string file, string topFolder, IProgress<string> progress, bool zipInsteadOfMove, bool moveUnidentified)
         {
             var fi = new FileInfo(file);
             if (progress != null)
                 progress.Report(fi.Name);
             var hashes = Hasher.HashFile(File.ReadAllBytes(file));
+            var identified = false;
 
             //Check 1: is this file a single-file game entry?
             var game = Database.FindGame((int)fi.Length, hashes); //find a single-file entry.
             if (game != null)
             {
+                identified = true;
                 if (zipInsteadOfMove)
                 {
                     CreateSingleZip(file, topFolder + "\\" + game.console + "\\" + game.name + ".zip");
+                    System.IO.File.Delete(file);
                 }
                 else
                     MoveFile(topFolder + "\\" + game.console, file, game.description);
-
-                return;
+                if (identified) return;
             }
 
             //check 2: Is this a single entry for a disc (multi-file game)?
             var diskEntry = Database.FindDisc((int)fi.Length, hashes);
-            if (diskEntry != null)
+            if (diskEntry.Count >= 1)
             {
+                identified = true;
                 foreach (var de in diskEntry) //Disc games often share some files. This keeps up from breaking a game by mis-IDing a file for a different version of a game.
                 {
                     //Check for sub-folders in the description.
@@ -93,35 +98,44 @@ namespace RomDatabase
                         totalFolderPath = totalFolderPath + "\\" + string.Join("\\", fileSubFolder).Replace(fileName, "");
                     }
 
-                    //Create the folder or zip, add entry. TODO check for checkbox status.
-                    CopyFile(totalFolderPath, file, fileName);
+                    //Create the folder or zip, add entry.
+                    if (zipInsteadOfMove)
+                    {
+                        HandleMutiFileZip(file, topFolder + "\\" + de.console + "\\" + de.name + ".zip");
+                    }
+                    else
+                        CopyFile(totalFolderPath, file, fileName);
                 }
                 //now can remove the original
-                File.Delete(file); //TODO: if the folder is empty, delete it?
-                //return?
+                if (identified)
+                {
+                    File.Delete(file);
+                    return;
+                }
             }
 
             //Check 3: is this a zip file containing a single-file game entry (or multiple single-file entries?)
             if (file.EndsWith(".zip"))
             {
-                handleZipFile(file, topFolder);
-                return;
+                identified = handleZipFile(file, topFolder);
+                if (identified)
+                    return;
             }
 
             //check 4: rar file, as above.
             if (file.EndsWith(".rar"))
             {
-                HandleRarFile(file, topFolder);
-                return;
+                identified = HandleRarFile(file, topFolder);
+                if (identified)
+                    return;
             }
 
             //Check last - we didn't identify it, move if if the option was set.
-            if (moveUnidentified)
+            if (!identified && moveUnidentified)
                 MoveFile(topFolder + "\\Unidentified Originals", file, System.IO.Path.GetFileName(file));
-
         }
 
-        static void HandleRarFile(string file, string topFolder)
+        static bool HandleRarFile(string file, string topFolder)
         {
             bool identified = false; //Was a game identified?
             var archive = SharpCompress.Archives.Rar.RarArchive.Open(file);
@@ -155,10 +169,10 @@ namespace RomDatabase
             if (identified)
                 MoveFile(topFolder + "\\Identified Originals", file, System.IO.Path.GetFileName(file));
 
-            return;
+            return identified;
         }
 
-        static void handleZipFile(string file, string topFolder)
+        static bool handleZipFile(string file, string topFolder)
         {
             bool identified = false; //Was a game identified?
             ZipArchive zf = new ZipArchive(new FileStream(file, FileMode.Open));
@@ -186,12 +200,15 @@ namespace RomDatabase
             zf.Dispose();
             if (identified)
                 MoveFile(topFolder + "\\Identified Originals", file, System.IO.Path.GetFileName(file));
+
+            return identified;
         }
 
         static void CreateSingleZip(string file, string zipPath)
         {
             try
             {
+                Directory.CreateDirectory(Path.GetDirectoryName(zipPath)); //does nothing if folder already exists
                 FileStream fs;
                 if (!File.Exists(zipPath))
                 {
@@ -217,6 +234,7 @@ namespace RomDatabase
 
         static void HandleMutiFileZip(string file, string zipPath)
         {
+            Directory.CreateDirectory(Path.GetDirectoryName(zipPath)); //does nothing if folder already exists. Line below fails if this isn't handled.
             FileStream fs = new FileStream(zipPath, FileMode.OpenOrCreate);
             ZipArchive zf = new ZipArchive(fs, ZipArchiveMode.Update);
 

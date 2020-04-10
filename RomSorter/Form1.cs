@@ -27,11 +27,17 @@ namespace RomSorter
             }
             else
             {
-                int games = Database.CountGames(null);
-                int systems = Database.CountGamesByConsole().Count();
-
-                lblStatus.Text = games + " games across " + systems + " platforms.";
+                Progress<string> p = new Progress<string>(s => lblStatus.Text = s);
+                Task.Factory.StartNew(() => CountGamesAndConsoles(p));
             }
+        }
+
+        private void CountGamesAndConsoles(IProgress<string> progress)
+        {
+            int games = Database.CountGames(null);
+            int systems = Database.CountGamesByConsole().Count();
+            progress.Report(games + " games across " + systems + " platforms.");
+
         }
 
         private void Form1_KeyDown(object sender, KeyEventArgs e)

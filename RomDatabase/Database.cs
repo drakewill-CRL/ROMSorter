@@ -144,18 +144,18 @@ namespace RomDatabase
         static string InsertConsoleCmd = "INSERT INTO consoles(name) VALUES (@name)";
         static string InsertDatFileCmd = "INSERT INTO datfiles(name) VALUES (@name)";
 
-        static string CountGamesCmd = "SELECT COUNT(*) FROM games";
+        static string CountGamesCmd = "SELECT COUNT(DISTINCT name) FROM games";
         static string CountGamesByConsoleCmd = "SELECT c.name, COUNT(g.console) FROM games g INNER JOIN consoles c on c.id = g.console GROUP BY g.console";
 
         static string CountDiscsCmd = "SELECT COUNT(DISTINCT name) FROM discs";
-        static string CountDiscsByConsoleCmd = "SELECT c.name, COUNT(d.console) FROM discs d INNER JOIN consoles c on c.id = d.console GROUP BY d.console";
+        static string CountDiscsByConsoleCmd = "SELECT c.name, COUNT(DISTINCT d.name) FROM discs d INNER JOIN consoles c on c.id = d.console GROUP BY d.console";
         //Total game count is CountGamesCmd + CountDiscsCmd, but SQLite doesn't do outer joins.
 
         static string FindGameQuery = "SELECT g.id, g.name, g.description, g.size, g.crc, g.sha1, g.md5, c.name, d.name FROM games g INNER JOIN consoles c on c.id = g.console INNER JOIN datfiles d on d.id = g.datfile WHERE g.size = @size AND g.crc = @crc AND g.md5= @md5 AND g.sha1 = @sha1";
         static string GetAllGamesQuery = "SELECT g.id, g.name, g.description, g.size, g.crc, g.sha1, g.md5, c.name, d.name FROM games g INNER JOIN consoles c on c.id = g.console INNER JOIN datfiles d on d.id = g.datfile ORDER BY console, name";
 
-        static string FindDiskFileQuery = "SELECT * FROM discs WHERE size = @size AND crc = @crc AND md5= @md5 AND sha1 = @sha1";
-        static string GetAllDiskFilesQuery = "SELECT * FROM discs ORDER BY console, name, description";
+        static string FindDiskFileQuery = "SELECT g.id, g.name, g.description, g.size, g.crc, g.sha1, g.md5, c.name, d.name FROM discs g INNER JOIN consoles c on c.id = g.console INNER JOIN datfiles d on d.id = g.datfile WHERE g.size = @size AND g.crc = @crc AND g.md5= @md5 AND g.sha1 = @sha1";
+        static string GetAllDiskFilesQuery = "SELECT g.id, g.name, g.description, g.size, g.crc, g.sha1, g.md5, c.name, d.name FROM discs g INNER JOIN consoles c on c.id = g.console INNER JOIN datfiles d on d.id = g.datfile ORDER BY console, name";
 
         static string GamesByConsoleQuery = "SELECT * FROM games WHERE console = @console";
 
@@ -437,7 +437,7 @@ namespace RomDatabase
             int results = Int32.Parse(ExecuteSQLiteScalarQuery(CountGamesCmd).ToString());
             results += Int32.Parse(ExecuteSQLiteScalarQuery(CountDiscsCmd).ToString());
             if (progress != null)
-                progress.Report(results + " games detectable");
+                progress.Report(results.ToString());
             return results;
         }
 
