@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -16,11 +17,12 @@ namespace RomDatabase
         public static bool ZipInsteadOfMove = false;
         public static bool UseMultithreading = true;
         public static bool PreserveOriginals = true;
-        static ReaderWriterLockSlim fileLock = new ReaderWriterLockSlim();
+        static ReaderWriterLockSlim lockLock = new ReaderWriterLockSlim();
+        static ConcurrentDictionary<string, ReaderWriterLockSlim> locks = new ConcurrentDictionary<string, ReaderWriterLockSlim>();
 
         public static void SortAllGamesMultithread(string topFolder, string folderToScan, IProgress<string> progress = null)
         {
-            var folders = Directory.EnumerateDirectories(folderToScan);
+            var folders = Directory.EnumerateDirectories(folderToScan).ToList();
             foreach (var dir in folders)
             {
                 SortAllGamesMultithread(topFolder, dir, progress);
@@ -28,7 +30,8 @@ namespace RomDatabase
                     Directory.Delete(dir);
             }
 
-            Parallel.ForEach(Directory.EnumerateFiles(folderToScan), (file) =>
+            var files = Directory.EnumerateFiles(folderToScan).ToList(); //not using ToList means it re-scans the Identified/Unidentified folders
+            Parallel.ForEach(files, (file) =>
             {
                 InnerLoop(file, topFolder, progress);
             });
@@ -36,14 +39,14 @@ namespace RomDatabase
 
         public static void SortAllGamesSinglethread(string topFolder, string folderToScan, IProgress<string> progress = null)
         {
-            foreach (var dir in Directory.EnumerateDirectories(folderToScan))
+            foreach (var dir in Directory.EnumerateDirectories(folderToScan).ToList())
             {
                 SortAllGamesSinglethread(topFolder, dir, progress);
                 if (Directory.EnumerateFiles(dir).Count() == 0 && Directory.EnumerateDirectories(dir).Count() == 0)
                     Directory.Delete(dir);
             }
 
-            foreach (var file in Directory.EnumerateFiles(folderToScan))
+            foreach (var file in Directory.EnumerateFiles(folderToScan).ToList())
             {
                 InnerLoop(file, topFolder, progress);
             }
@@ -60,9 +63,14 @@ namespace RomDatabase
 
         static void CopyFile(string folderpath, string localFilepath, string newFileName)
         {
+            var fileLock = GetLock(newFileName);
+            fileLock.EnterWriteLock();
             Directory.CreateDirectory(folderpath); //does nothing if folder already exists
+            if (newFileName.Contains("\\"))
+                Directory.CreateDirectory(folderpath + "\\" +  Path.GetDirectoryName(newFileName)); //does nothing if folder already exists
             if (!File.Exists(folderpath + "\\" + newFileName))
                 File.Copy(localFilepath, folderpath + "\\" + newFileName);
+            fileLock.ExitWriteLock();
         }
 
         static void InnerLoop(string file, string topFolder, IProgress<string> progress)
@@ -70,6 +78,7 @@ namespace RomDatabase
             var fi = new FileInfo(file);
             if (progress != null)
                 progress.Report(fi.Name);
+            var fileLock = GetLock(file);
             fileLock.EnterReadLock();
             var hashes = Hasher.HashFile(File.ReadAllBytes(file));
             fileLock.ExitReadLock();
@@ -113,7 +122,7 @@ namespace RomDatabase
                         HandleMutiFileZip(file, topFolder + "\\" + de.console + "\\" + de.name + ".zip");
                     }
                     else
-                        CopyFile(totalFolderPath, file, fileName);
+                        CopyFile(totalFolderPath, file, fileName);//this is where I'm getting my current lock issue. also always in the Unidentified folder.
                 }
                 //now can remove the original
                 if (identified && !PreserveOriginals)
@@ -123,7 +132,7 @@ namespace RomDatabase
                 }
                 if (PreserveOriginals)
                 {
-                    MoveFile(topFolder + "Identified Originals", file, Path.GetFileName(file));
+                    CopyFile(topFolder + "\\Identified Originals", file, Path.GetFileName(file));
                 }
             }
 
@@ -145,7 +154,11 @@ namespace RomDatabase
 
             //Check last - we didn't identify it, move if if the option was set.
             if (!identified && moveUnidentified)
+            {
+                fileLock.EnterWriteLock();
                 MoveFile(topFolder + "\\Unidentified", file, System.IO.Path.GetFileName(file));
+                fileLock.ExitWriteLock();
+            }
         }
 
         static bool HandleRarFile(string file, string topFolder)
@@ -164,11 +177,13 @@ namespace RomDatabase
                         Directory.CreateDirectory(topFolder + "\\" + game.console);
                         if (ZipInsteadOfMove)
                         {
+                            var fileLock = GetLock("tempZip");
                             fileLock.EnterWriteLock();
                             byte[] fileData = new byte[entry.Size];
                             new BinaryReader(entry.OpenEntryStream()).Read(fileData, 0, (int)entry.Size);
-                            File.WriteAllBytes("tempZip", fileData);
-                            CreateSingleZip("tempZip", topFolder + "\\" + game.console + "\\" + game.name + ".zip");
+                            File.WriteAllBytes(game.description, fileData);
+                            CreateSingleZip(game.description, topFolder + "\\" + game.console + "\\" + game.name + ".zip");
+                            File.Delete(game.description);
                             fileLock.ExitWriteLock();
                         }
                         else
@@ -181,7 +196,7 @@ namespace RomDatabase
                             }
                         }
                     }
-                    else
+                    else if (moveUnidentified)
                     {
                         Directory.CreateDirectory(topFolder + "\\Unidentified");
                         byte[] filedata = new byte[entry.Size];
@@ -201,6 +216,8 @@ namespace RomDatabase
         static bool handleZipFile(string file, string topFolder)
         {
             bool identified = false; //Was a game identified?
+            var fileLock = GetLock(file);
+            fileLock.EnterReadLock();
             ZipArchive zf = new ZipArchive(new FileStream(file, FileMode.Open));
             foreach (var entry in zf.Entries)
             {
@@ -214,30 +231,41 @@ namespace RomDatabase
                         Directory.CreateDirectory(topFolder + "\\" + game.console);
                         if (ZipInsteadOfMove)
                         {
-                            fileLock.EnterWriteLock();
+                            var fileLock2 = GetLock("tempZip");
+                            fileLock2.EnterWriteLock();
                             byte[] fileData = new byte[entry.Length];
                             new BinaryReader(entry.Open()).Read(fileData, 0, (int)entry.Length);
-                            File.WriteAllBytes("tempZip", fileData);
-                            CreateSingleZip("tempZip", topFolder + "\\" + game.console + "\\" + game.name + ".zip");
-                            fileLock.ExitWriteLock();
+                            File.WriteAllBytes(entry.Name, fileData);
+                            CreateSingleZip(entry.Name, topFolder + "\\" + game.console + "\\" + game.name + ".zip");
+                            fileLock2.ExitWriteLock();
                         }
                         else
                         {
                             if (!File.Exists(topFolder + "\\" + game.console + "\\" + game.description)) //extract fails if file exists.
+                            {
+                                var unzipLock = GetLock(topFolder + "\\" + game.console + "\\" + game.description);
+                                unzipLock.EnterWriteLock();
                                 entry.ExtractToFile(topFolder + "\\" + game.console + "\\" + game.description, true);
+                                unzipLock.ExitWriteLock();
+                            }
                         }
                     }
-                    else
+                    else if (moveUnidentified)
                     {
                         Directory.CreateDirectory(topFolder + "\\Unidentified");
+                        var unzipLock = GetLock(topFolder + "\\Unidentified\\" + entry.Name);
+                        unzipLock.EnterWriteLock();
                         entry.ExtractToFile(topFolder + "\\Unidentified\\" + entry.Name, true);
+                        unzipLock.ExitWriteLock();
                     }
                 }
             }
             zf.Dispose();
 
             if (identified && PreserveOriginals)
-                MoveFile(topFolder + "\\Identified Originals", file, System.IO.Path.GetFileName(file));
+                CopyFile(topFolder + "\\Identified Originals", file, System.IO.Path.GetFileName(file));
+
+            fileLock.ExitReadLock();
             return identified;
         }
 
@@ -272,6 +300,7 @@ namespace RomDatabase
         static void HandleMutiFileZip(string file, string zipPath)
         {
             Directory.CreateDirectory(Path.GetDirectoryName(zipPath)); //does nothing if folder already exists. Line below fails if this isn't handled.
+            var fileLock = GetLock(zipPath);
             fileLock.EnterWriteLock();
             FileStream fs = new FileStream(zipPath, FileMode.OpenOrCreate);
             ZipArchive zf = new ZipArchive(fs, ZipArchiveMode.Update);
@@ -282,6 +311,23 @@ namespace RomDatabase
             fs.Close();
             fs.Dispose();
             fileLock.ExitWriteLock();
+        }
+
+        static ReaderWriterLockSlim GetLock(string file)
+        {
+            lockLock.EnterUpgradeableReadLock();
+            if (locks.Keys.Any(k => k == file))
+            {
+                lockLock.ExitUpgradeableReadLock();
+                return locks[file];
+            }
+
+            lockLock.EnterWriteLock();
+            ReaderWriterLockSlim newLock = new ReaderWriterLockSlim();
+            locks[file] = newLock;
+            lockLock.ExitWriteLock();
+            lockLock.ExitUpgradeableReadLock();
+            return newLock;
         }
     }
 }

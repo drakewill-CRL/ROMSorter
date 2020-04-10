@@ -28,12 +28,13 @@ namespace RomDatabase
         //TODO: add .7z support (for reading)?
         //TODO: add high-integrity disc dat reading. If an entry is already found in 1 game, check to see if all of its entries match on size/hashes.
         //TODO: make dat cleaner, to remove entries that are already tracked in an earlier file
-        //TODO: submit NES Homebrew data to BizHawk file in Assets/gamedb. Current file is empty. Possibly also TOSEC for their Demo file.
+        //TODO: submit NES Homebrew data to TOSEC for their Demo /games file?
         //TODO: https://api.thegamesdb.net/#/Games/GamesByGameID has all the stuff I initially wanted to include. So I guess I can skip all that stuff for a while.
         //TODO: code cleanup. Pare down files to used functions and remove commented code
         //TODO: Set up app to read from zipped DB file (zipped is ~200MB currently, instead of ~500MB)
         //TODO: redo reporting. Make it use an HTML, and substitute in StringBuilder results instead of this small text file dump.
         //TODO: make a lookup of ReaderWriterLockSlims so that we can write multiple files at once.
+        //--TODO: track down deadlock where a lock didn't get released involving the Unidentified folder, but only when it gets scanned. NOt being released after copying there?
 
         //TOSEC files were 12-24-2019 release.
         //NO-INTRO files were  gathered on the date listed, should still be in the filename
