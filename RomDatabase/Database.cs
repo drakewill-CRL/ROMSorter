@@ -33,6 +33,7 @@ namespace RomDatabase
         //TODO: code cleanup. Pare down files to used functions and remove commented code
         //TODO: Set up app to read from zipped DB file (zipped is ~200MB currently, instead of ~500MB)
         //TODO: redo reporting. Make it use an HTML, and substitute in StringBuilder results instead of this small text file dump.
+        //TODO: make a lookup of ReaderWriterLockSlims so that we can write multiple files at once.
 
         //TOSEC files were 12-24-2019 release.
         //NO-INTRO files were  gathered on the date listed, should still be in the filename

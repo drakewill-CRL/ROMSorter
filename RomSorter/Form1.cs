@@ -68,9 +68,9 @@ namespace RomSorter
             Progress<string> progress = new Progress<string>(s => lblStatus.Text = s);
 
             if (chkMultithread.Checked)
-                await Task.Factory.StartNew(() =>Sorter.SortAllGamesMultithread(System.IO.Path.GetDirectoryName(openFileDialog1.FileName), System.IO.Path.GetDirectoryName(openFileDialog1.FileName), progress, chkZipIdentified.Checked, chkMoveUnidentified.Checked));
+                await Task.Factory.StartNew(() => Sorter.SortAllGamesMultithread(System.IO.Path.GetDirectoryName(openFileDialog1.FileName), System.IO.Path.GetDirectoryName(openFileDialog1.FileName), progress));
             else
-                await Task.Factory.StartNew(() => Sorter.SortAllGamesSinglethread(System.IO.Path.GetDirectoryName(openFileDialog1.FileName), System.IO.Path.GetDirectoryName(openFileDialog1.FileName), progress, chkZipIdentified.Checked, chkMoveUnidentified.Checked));
+                await Task.Factory.StartNew(() => Sorter.SortAllGamesSinglethread(System.IO.Path.GetDirectoryName(openFileDialog1.FileName), System.IO.Path.GetDirectoryName(openFileDialog1.FileName), progress));
 
             sw.Stop();
             lblStatus.Text = "Games sorted in " + sw.Elapsed.ToString();
@@ -90,6 +90,26 @@ namespace RomSorter
             lblStatus.Text = "Report completed in " + sw.Elapsed.ToString();
 
             System.Diagnostics.Process.Start("notepad.exe", System.IO.Path.GetDirectoryName(openFileDialog1.FileName) + "\\RomSorterReport.txt");
+        }
+
+        private void chkMultithread_CheckedChanged(object sender, EventArgs e)
+        {
+            Sorter.UseMultithreading = chkMoveUnidentified.Checked;
+        }
+
+        private void chkZipIdentified_CheckedChanged(object sender, EventArgs e)
+        {
+            Sorter.ZipInsteadOfMove = chkZipIdentified.Checked;
+        }
+
+        private void chkMoveUnidentified_CheckedChanged(object sender, EventArgs e)
+        {
+            Sorter.moveUnidentified = chkZipIdentified.Checked;
+        }
+
+        private void chkPreserveOriginals_CheckedChanged(object sender, EventArgs e)
+        {
+            Sorter.PreserveOriginals = chkPreserveOriginals.Checked;
         }
     }
 }

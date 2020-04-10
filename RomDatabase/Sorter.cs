@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Threading;
 using System.IO;
 using System.IO.Compression;
 using SharpCompress;
@@ -11,34 +12,40 @@ namespace RomDatabase
 {
     public static class Sorter
     {
-        public static void SortAllGamesMultithread(string topFolder, string folderToScan, IProgress<string> progress = null, bool ZipInsteadOfMove = false, bool moveUnidentified = false)
+        public static bool moveUnidentified = false;
+        public static bool ZipInsteadOfMove = false;
+        public static bool UseMultithreading = true;
+        public static bool PreserveOriginals = true;
+        static ReaderWriterLockSlim fileLock = new ReaderWriterLockSlim();
+
+        public static void SortAllGamesMultithread(string topFolder, string folderToScan, IProgress<string> progress = null)
         {
             var folders = Directory.EnumerateDirectories(folderToScan);
             foreach (var dir in folders)
             {
-                SortAllGamesMultithread(topFolder, dir, progress, ZipInsteadOfMove, moveUnidentified);
+                SortAllGamesMultithread(topFolder, dir, progress);
                 if (Directory.EnumerateFiles(dir).Count() == 0 && Directory.EnumerateDirectories(dir).Count() == 0)
                     Directory.Delete(dir);
             }
 
             Parallel.ForEach(Directory.EnumerateFiles(folderToScan), (file) =>
             {
-                InnerLoop(file, topFolder, progress, ZipInsteadOfMove, moveUnidentified);
+                InnerLoop(file, topFolder, progress);
             });
         }
 
-        public static void SortAllGamesSinglethread(string topFolder, string folderToScan, IProgress<string> progress = null, bool ZipInsteadOfMove = false, bool moveUnidentified = false)
+        public static void SortAllGamesSinglethread(string topFolder, string folderToScan, IProgress<string> progress = null)
         {
             foreach (var dir in Directory.EnumerateDirectories(folderToScan))
             {
-                SortAllGamesSinglethread(topFolder, dir, progress, ZipInsteadOfMove, moveUnidentified);
+                SortAllGamesSinglethread(topFolder, dir, progress);
                 if (Directory.EnumerateFiles(dir).Count() == 0 && Directory.EnumerateDirectories(dir).Count() == 0)
                     Directory.Delete(dir);
             }
 
             foreach (var file in Directory.EnumerateFiles(folderToScan))
             {
-                InnerLoop(file, topFolder, progress, ZipInsteadOfMove, moveUnidentified);
+                InnerLoop(file, topFolder, progress);
             }
         }
 
@@ -58,12 +65,14 @@ namespace RomDatabase
                 File.Copy(localFilepath, folderpath + "\\" + newFileName);
         }
 
-        static void InnerLoop(string file, string topFolder, IProgress<string> progress, bool zipInsteadOfMove, bool moveUnidentified)
+        static void InnerLoop(string file, string topFolder, IProgress<string> progress)
         {
             var fi = new FileInfo(file);
             if (progress != null)
                 progress.Report(fi.Name);
+            fileLock.EnterReadLock();
             var hashes = Hasher.HashFile(File.ReadAllBytes(file));
+            fileLock.ExitReadLock();
             var identified = false;
 
             //Check 1: is this file a single-file game entry?
@@ -71,7 +80,7 @@ namespace RomDatabase
             if (game != null)
             {
                 identified = true;
-                if (zipInsteadOfMove)
+                if (ZipInsteadOfMove)
                 {
                     CreateSingleZip(file, topFolder + "\\" + game.console + "\\" + game.name + ".zip");
                     System.IO.File.Delete(file);
@@ -99,7 +108,7 @@ namespace RomDatabase
                     }
 
                     //Create the folder or zip, add entry.
-                    if (zipInsteadOfMove)
+                    if (ZipInsteadOfMove)
                     {
                         HandleMutiFileZip(file, topFolder + "\\" + de.console + "\\" + de.name + ".zip");
                     }
@@ -107,10 +116,14 @@ namespace RomDatabase
                         CopyFile(totalFolderPath, file, fileName);
                 }
                 //now can remove the original
-                if (identified)
+                if (identified && !PreserveOriginals)
                 {
                     File.Delete(file);
                     return;
+                }
+                if (PreserveOriginals)
+                {
+                    MoveFile(topFolder + "Identified Originals", file, Path.GetFileName(file));
                 }
             }
 
@@ -132,7 +145,7 @@ namespace RomDatabase
 
             //Check last - we didn't identify it, move if if the option was set.
             if (!identified && moveUnidentified)
-                MoveFile(topFolder + "\\Unidentified Originals", file, System.IO.Path.GetFileName(file));
+                MoveFile(topFolder + "\\Unidentified", file, System.IO.Path.GetFileName(file));
         }
 
         static bool HandleRarFile(string file, string topFolder)
@@ -149,11 +162,23 @@ namespace RomDatabase
                     {
                         identified = true;
                         Directory.CreateDirectory(topFolder + "\\" + game.console);
-                        if (!File.Exists(topFolder + "\\" + game.console + "\\" + game.name)) //extract fails if file exists.
+                        if (ZipInsteadOfMove)
                         {
-                            byte[] filedata = new byte[entry.Size];
-                            entry.OpenEntryStream().Read(filedata, 0, (int)entry.Size);
-                            System.IO.File.WriteAllBytes(topFolder + "\\" + game.console + "\\" + game.name, filedata);
+                            fileLock.EnterWriteLock();
+                            byte[] fileData = new byte[entry.Size];
+                            new BinaryReader(entry.OpenEntryStream()).Read(fileData, 0, (int)entry.Size);
+                            File.WriteAllBytes("tempZip", fileData);
+                            CreateSingleZip("tempZip", topFolder + "\\" + game.console + "\\" + game.name + ".zip");
+                            fileLock.ExitWriteLock();
+                        }
+                        else
+                        {
+                            if (!File.Exists(topFolder + "\\" + game.console + "\\" + game.description)) //extract fails if file exists.
+                            {
+                                byte[] filedata = new byte[entry.Size];
+                                entry.OpenEntryStream().Read(filedata, 0, (int)entry.Size);
+                                System.IO.File.WriteAllBytes(topFolder + "\\" + game.console + "\\" + game.description, filedata);
+                            }
                         }
                     }
                     else
@@ -166,7 +191,8 @@ namespace RomDatabase
                 }
             }
             archive.Dispose();
-            if (identified)
+
+            if (identified && PreserveOriginals)
                 MoveFile(topFolder + "\\Identified Originals", file, System.IO.Path.GetFileName(file));
 
             return identified;
@@ -186,9 +212,20 @@ namespace RomDatabase
                     {
                         identified = true;
                         Directory.CreateDirectory(topFolder + "\\" + game.console);
-                        if (!File.Exists(topFolder + "\\" + game.console + "\\" + game.name)) //extract fails if file exists.
-                            entry.ExtractToFile(topFolder + "\\" + game.console + "\\" + game.name, true);
-
+                        if (ZipInsteadOfMove)
+                        {
+                            fileLock.EnterWriteLock();
+                            byte[] fileData = new byte[entry.Length];
+                            new BinaryReader(entry.Open()).Read(fileData, 0, (int)entry.Length);
+                            File.WriteAllBytes("tempZip", fileData);
+                            CreateSingleZip("tempZip", topFolder + "\\" + game.console + "\\" + game.name + ".zip");
+                            fileLock.ExitWriteLock();
+                        }
+                        else
+                        {
+                            if (!File.Exists(topFolder + "\\" + game.console + "\\" + game.description)) //extract fails if file exists.
+                                entry.ExtractToFile(topFolder + "\\" + game.console + "\\" + game.description, true);
+                        }
                     }
                     else
                     {
@@ -198,16 +235,16 @@ namespace RomDatabase
                 }
             }
             zf.Dispose();
-            if (identified)
-                MoveFile(topFolder + "\\Identified Originals", file, System.IO.Path.GetFileName(file));
 
+            if (identified && PreserveOriginals)
+                MoveFile(topFolder + "\\Identified Originals", file, System.IO.Path.GetFileName(file));
             return identified;
         }
 
         static void CreateSingleZip(string file, string zipPath)
         {
-            try
-            {
+            //try
+            //{
                 Directory.CreateDirectory(Path.GetDirectoryName(zipPath)); //does nothing if folder already exists
                 FileStream fs;
                 if (!File.Exists(zipPath))
@@ -219,30 +256,32 @@ namespace RomDatabase
 
                 ZipArchive zf = new ZipArchive(fs, ZipArchiveMode.Create);
 
-                zf.CreateEntryFromFile(file, Path.GetFileName(file));
+                zf.CreateEntryFromFile(file, Path.GetFileName(file), CompressionLevel.Optimal);
 
                 zf.Dispose();
                 fs.Close();
                 fs.Dispose();
-            }
-            catch (Exception ex)
-            {
-                //MOst likely, we were multithreading, and hit 2 files that got identified as the same one. Bail out.
-            }
+            //}
+            //catch (Exception ex)
+            //{
+            //    //MOst likely, we were multithreading, and hit 2 files that got identified as the same one. Bail out.
+            //}
         }
 
 
         static void HandleMutiFileZip(string file, string zipPath)
         {
             Directory.CreateDirectory(Path.GetDirectoryName(zipPath)); //does nothing if folder already exists. Line below fails if this isn't handled.
+            fileLock.EnterWriteLock();
             FileStream fs = new FileStream(zipPath, FileMode.OpenOrCreate);
             ZipArchive zf = new ZipArchive(fs, ZipArchiveMode.Update);
 
-            zf.CreateEntryFromFile(file, Path.GetFileName(file));
+            zf.CreateEntryFromFile(file, Path.GetFileName(file), CompressionLevel.Optimal);
 
             zf.Dispose();
             fs.Close();
             fs.Dispose();
+            fileLock.ExitWriteLock();
         }
     }
 }

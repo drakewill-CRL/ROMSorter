@@ -36,6 +36,7 @@
             this.chkZipIdentified = new System.Windows.Forms.CheckBox();
             this.btnReport = new System.Windows.Forms.Button();
             this.chkMoveUnidentified = new System.Windows.Forms.CheckBox();
+            this.chkPreserveOriginals = new System.Windows.Forms.CheckBox();
             this.SuspendLayout();
             // 
             // btnPickFolder
@@ -86,6 +87,7 @@
             this.chkMultithread.TabIndex = 5;
             this.chkMultithread.Text = "Use Multithreading";
             this.chkMultithread.UseVisualStyleBackColor = true;
+            this.chkMultithread.CheckedChanged += new System.EventHandler(this.chkMultithread_CheckedChanged);
             // 
             // chkZipIdentified
             // 
@@ -96,6 +98,7 @@
             this.chkZipIdentified.TabIndex = 6;
             this.chkZipIdentified.Text = "Zip games instead of moving";
             this.chkZipIdentified.UseVisualStyleBackColor = true;
+            this.chkZipIdentified.CheckedChanged += new System.EventHandler(this.chkZipIdentified_CheckedChanged);
             // 
             // btnReport
             // 
@@ -117,12 +120,27 @@
             this.chkMoveUnidentified.TabIndex = 8;
             this.chkMoveUnidentified.Text = "Move Unidentified Files (dangerous)";
             this.chkMoveUnidentified.UseVisualStyleBackColor = true;
+            this.chkMoveUnidentified.CheckedChanged += new System.EventHandler(this.chkMoveUnidentified_CheckedChanged);
+            // 
+            // chkPreserveOriginals
+            // 
+            this.chkPreserveOriginals.AutoSize = true;
+            this.chkPreserveOriginals.Checked = true;
+            this.chkPreserveOriginals.CheckState = System.Windows.Forms.CheckState.Checked;
+            this.chkPreserveOriginals.Location = new System.Drawing.Point(12, 234);
+            this.chkPreserveOriginals.Name = "chkPreserveOriginals";
+            this.chkPreserveOriginals.Size = new System.Drawing.Size(113, 17);
+            this.chkPreserveOriginals.TabIndex = 9;
+            this.chkPreserveOriginals.Text = "Keep Original Files";
+            this.chkPreserveOriginals.UseVisualStyleBackColor = true;
+            this.chkPreserveOriginals.CheckedChanged += new System.EventHandler(this.chkPreserveOriginals_CheckedChanged);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(207, 356);
+            this.Controls.Add(this.chkPreserveOriginals);
             this.Controls.Add(this.chkMoveUnidentified);
             this.Controls.Add(this.btnReport);
             this.Controls.Add(this.chkZipIdentified);
@@ -149,6 +167,7 @@
         private System.Windows.Forms.CheckBox chkZipIdentified;
         private System.Windows.Forms.Button btnReport;
         private System.Windows.Forms.CheckBox chkMoveUnidentified;
+        private System.Windows.Forms.CheckBox chkPreserveOriginals;
     }
 }
 

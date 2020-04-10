@@ -14,7 +14,7 @@ namespace RomDatabase
         //Note: in most clrmamepro format dat files, name and description are identical.
         //In my database, description is the filename, and name is the game name itself
 
-        static ReaderWriterLock filelock = new ReaderWriterLock();
+        static ReaderWriterLockSlim filelock = new ReaderWriterLockSlim();
         static int totalCount = 0;
         //Read .dat file(s), parse and port into the database I'm using
         public static void LoadAllDiscDatFilesIntegrity(string directory, IProgress<string> progress = null)
@@ -149,9 +149,9 @@ namespace RomDatabase
                             if (isDupe != null && isDupe.id != null)
                             {
                                 //write log on duplicate entry.
-                                filelock.AcquireWriterLock(Int32.MaxValue);
+                                filelock.EnterWriteLock();
                                 System.IO.File.AppendAllLines("insertLog.txt", new List<string>() { "Game '" + tempGame.name + "' in " + datFile + " already matches existing entry '" + isDupe.name + "' from " + isDupe.datFile });
-                                filelock.ReleaseWriterLock();
+                                filelock.ExitWriteLock();
                             }
                             else
                                 Database.InsertGame(tempGame); //High integrity means we dont batch these, in case an entry is in 2 files simultaneously.
@@ -206,9 +206,9 @@ namespace RomDatabase
                 if (isDupe != null && isDupe.id != null)
                 {
                     //write log on duplicate entry.
-                    filelock.AcquireWriterLock(Int32.MaxValue);
+                    filelock.EnterWriteLock();
                     System.IO.File.AppendAllLines("insertLog.txt", new List<string>() { "Game '" + tempGame.name + "' in " + datFile  + " already matches existing entry '" + isDupe.name + "' from " + isDupe.datFile });
-                    filelock.ReleaseWriterLock();
+                    filelock.ExitWriteLock();
                 }
                 else
                     Database.InsertGame(tempGame);
