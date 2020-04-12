@@ -30,11 +30,18 @@ namespace RomDatabase
         //TODO: make dat cleaner, to remove entries that are already tracked in an earlier file
         //TODO: submit NES Homebrew data to TOSEC for their Demo /games file?
         //TODO: https://api.thegamesdb.net/#/Games/GamesByGameID has all the stuff I initially wanted to include. So I guess I can skip all that stuff for a while.
+        //--where is the NES DB that bizhawk looks up games in? that seems to have an ID for all of the ROMS i want, since there's no header space for that int he title bar that fills in automatically in BizHawk
         //TODO: code cleanup. Pare down files to used functions and remove commented code
         //TODO: Set up app to read from zipped DB file (zipped is ~200MB currently, instead of ~500MB)
         //TODO: redo reporting. Make it use an HTML, and substitute in StringBuilder results instead of this small text file dump.
         //TODO: make a lookup of ReaderWriterLockSlims so that we can write multiple files at once.
         //--TODO: track down deadlock where a lock didn't get released involving the Unidentified folder, but only when it gets scanned. NOt being released after copying there?
+        //TODO: ensure this isn't corrupting files when it moves/zips/unzips them. 2a03 Puritans was a bad file i had to replace from the original website.
+        //TODO: find the GoodNES database and make it a .dat file, since apparently it's much more complete than TOSEC somehow. Might start with the EmuHawk DB, though its only SHA1 hashes?
+        //2 points of contention:
+        //1: the goodtools guy is pretty racist and unwelcome. much less have his tools be necessary for a decade, they havent been updated for 4.
+        //2: the 'missing' rom list was shit, because most of his collection was hoarded and not shared, so no one got a full Good set most of the time. No one like that. 
+        //TODO: reconsider making a 'missing' list feature, since people dont like being told of a game there's only 1 copy of.
 
         //TOSEC files were 12-24-2019 release.
         //NO-INTRO files were  gathered on the date listed, should still be in the filename
