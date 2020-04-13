@@ -41,19 +41,16 @@ namespace RomDatabase
         //2 points of contention:
         //1: the goodtools guy is pretty racist and unwelcome. much less have his tools be necessary for a decade, they havent been updated for 4.
         //2: the 'missing' rom list was shit, because most of his collection was hoarded and not shared, so no one got a full Good set most of the time. No one like that. 
-        //TODO: reconsider making a 'missing' list feature, since people dont like being told of a game there's only 1 copy of.
+        //TODO: reconsider making a 'missing' list feature, since people dont like being told of a game there's only 1 copy of that they will never find.
+        //TODO: make an 'Archivist' mode, that makes a .dat file for everything in it's folder and will scan that .dat to confirm files are still good.
+        //--Ideal use case here is for like, burning onto a disc that sits on a shelf for a couple decades. Let it prove itself out.
 
         //TOSEC files were 12-24-2019 release.
         //NO-INTRO files were  gathered on the date listed, should still be in the filename
         //Redump.org files for cd-based systems (end of march 2020ish)
 
-        //See the Vetted Dats folder for what's tracked. Too much stuff to list in this file.
-
         //stuff to track down
         //non-NES homebrew on NESWorld.com
-
-        //TO-add:
-        //NOne of my Sega CD games are good?
 
         //Additional, self-made Dats currently in DB
         //Tecmo Bowl hacks (several not previously documented, see if there's newer stuff somewhere)
@@ -66,9 +63,8 @@ namespace RomDatabase
         //SCUMMVM 2.1 
         //Future Pinball (in process) from Pleasuredome torrent. Needs to be sorted into single-file and multi-file tables. Not just distribution packs
         //Visual Pinball (in process) from pleasuredome torrent.
-        //IFArchives ZCode game collection 
+        //IFArchives ZCode and Glulx game collections 
         //IFArchives other parser games (todo)
-
 
         //Starting to feel like my goal is going to be to document all the games, even the forgotten ones and fan-made stuff that might be neglected to archive or collect.
         //Which is important if you arent just being a major pirate.

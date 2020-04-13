@@ -116,9 +116,9 @@
             this.chkMoveUnidentified.AutoSize = true;
             this.chkMoveUnidentified.Location = new System.Drawing.Point(12, 211);
             this.chkMoveUnidentified.Name = "chkMoveUnidentified";
-            this.chkMoveUnidentified.Size = new System.Drawing.Size(195, 17);
+            this.chkMoveUnidentified.Size = new System.Drawing.Size(136, 17);
             this.chkMoveUnidentified.TabIndex = 8;
-            this.chkMoveUnidentified.Text = "Move Unidentified Files (dangerous)";
+            this.chkMoveUnidentified.Text = "Move Unidentified Files";
             this.chkMoveUnidentified.UseVisualStyleBackColor = true;
             this.chkMoveUnidentified.CheckedChanged += new System.EventHandler(this.chkMoveUnidentified_CheckedChanged);
             // 
@@ -129,9 +129,9 @@
             this.chkPreserveOriginals.CheckState = System.Windows.Forms.CheckState.Checked;
             this.chkPreserveOriginals.Location = new System.Drawing.Point(12, 234);
             this.chkPreserveOriginals.Name = "chkPreserveOriginals";
-            this.chkPreserveOriginals.Size = new System.Drawing.Size(113, 17);
+            this.chkPreserveOriginals.Size = new System.Drawing.Size(140, 17);
             this.chkPreserveOriginals.TabIndex = 9;
-            this.chkPreserveOriginals.Text = "Keep Original Files";
+            this.chkPreserveOriginals.Text = "Keep Identified Originals";
             this.chkPreserveOriginals.UseVisualStyleBackColor = true;
             this.chkPreserveOriginals.CheckedChanged += new System.EventHandler(this.chkPreserveOriginals_CheckedChanged);
             // 
