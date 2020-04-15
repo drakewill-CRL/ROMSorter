@@ -65,12 +65,15 @@ namespace RomSorter
             System.Diagnostics.Stopwatch sw = new System.Diagnostics.Stopwatch();
             sw.Start();
 
-            Progress<string> progress = new Progress<string>(s => lblStatus.Text = s);
+            Progress<string> progress = new Progress<string>(s => { lblStatus.Text = s; txtMessageLog.Text += s + Environment.NewLine; });
 
-            if (chkMultithread.Checked)
-                await Task.Factory.StartNew(() => Sorter.SortAllGamesMultithread(System.IO.Path.GetDirectoryName(openFileDialog1.FileName), System.IO.Path.GetDirectoryName(openFileDialog1.FileName), progress));
-            else
-                await Task.Factory.StartNew(() => Sorter.SortAllGamesSinglethread(System.IO.Path.GetDirectoryName(openFileDialog1.FileName), System.IO.Path.GetDirectoryName(openFileDialog1.FileName), progress));
+            //Temporary test path.
+            await Task.Factory.StartNew(() => Sorter.TestAlternatePath(System.IO.Path.GetDirectoryName(openFileDialog1.FileName), progress));
+
+            //if (chkMultithread.Checked)
+            //    await Task.Factory.StartNew(() => Sorter.SortAllGamesMultithread(System.IO.Path.GetDirectoryName(openFileDialog1.FileName), System.IO.Path.GetDirectoryName(openFileDialog1.FileName), progress));
+            //else
+            //    await Task.Factory.StartNew(() => Sorter.SortAllGamesSinglethread(System.IO.Path.GetDirectoryName(openFileDialog1.FileName), System.IO.Path.GetDirectoryName(openFileDialog1.FileName), progress));
 
             sw.Stop();
             lblStatus.Text = "Games sorted in " + sw.Elapsed.ToString();
@@ -81,7 +84,7 @@ namespace RomSorter
             //Report
             System.Diagnostics.Stopwatch sw = new System.Diagnostics.Stopwatch();
             sw.Start();
-            Progress<string> progress = new Progress<string>(s => lblStatus.Text = s);
+            Progress<string> progress = new Progress<string>(s => { lblStatus.Text = s; txtMessageLog.Text += s; });
 
             //TODO: multithreading option split
             await Task.Factory.StartNew(() => Reporter.Report(System.IO.Path.GetDirectoryName(openFileDialog1.FileName), progress, chkMultithread.Checked));

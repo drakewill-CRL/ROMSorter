@@ -8,6 +8,8 @@ using System.Threading;
 using System.IO;
 using System.IO.Compression;
 using SharpCompress;
+using RomSorter.Data;
+using RomDatabase.Data;
 
 namespace RomDatabase
 {
@@ -20,6 +22,231 @@ namespace RomDatabase
         static ReaderWriterLockSlim lockLock = new ReaderWriterLockSlim();
         static ConcurrentDictionary<string, ReaderWriterLockSlim> locks = new ConcurrentDictionary<string, ReaderWriterLockSlim>();
         static string tempFolderPath = Path.GetTempPath();
+
+        static ConcurrentBag<string> files = new ConcurrentBag<string>();
+
+        public static void EnumerateAllFiles(string topFolder)
+        {
+            foreach (var file in Directory.EnumerateFiles(topFolder).ToList())
+                files.Add(file);
+            foreach (var folder in Directory.EnumerateDirectories(topFolder).ToList())
+                EnumerateAllFiles(folder);
+        }
+
+        public static LookupEntry GetFileHashes(string file)
+        {
+            var hashes = Hasher.HashFile(File.ReadAllBytes(file));
+            FileInfo fi = new FileInfo(file);
+            LookupEntry le = new LookupEntry();
+            le.originalFileName = file;
+            le.fileType = LookupEntryType.File;
+            le.md5 = hashes[0];
+            le.sha1 = hashes[1];
+            le.crc = hashes[2];
+            le.size = fi.Length;
+
+            return le;
+        }
+
+        public static List<LookupEntry> AltZipProcess(string file)
+        {
+            List<LookupEntry> zippedFiles = new List<LookupEntry>();
+            ZipArchive zf = new ZipArchive(new FileStream(file, FileMode.Open));
+            foreach (var entry in zf.Entries)
+            {
+                if (entry.Length > 0)
+                {
+                    var ziphashes = Hasher.HashZipEntry(entry);
+                    LookupEntry le = new LookupEntry();
+                    le.fileType = LookupEntryType.ZipEntry;
+                    le.originalFileName = file;
+                    le.entryPath = entry.FullName;
+                    le.crc = ziphashes[2];
+                    le.sha1 = ziphashes[1];
+                    le.md5 = ziphashes[0];
+                    le.size = entry.Length;
+                    zippedFiles.Add(le);
+                }
+            }
+            zf.Dispose();
+            return zippedFiles.Count > 0 ? zippedFiles : null;
+        }
+
+        public static List<LookupEntry> AltRarProcess(string file)
+        {
+            List<LookupEntry> zippedFiles = new List<LookupEntry>();
+            var archive = SharpCompress.Archives.Rar.RarArchive.Open(file);
+            foreach (var entry in archive.Entries)
+            {
+                if (entry.Size > 0)
+                {
+                    var ziphashes = Hasher.HashRarEntry(entry);
+                    LookupEntry le = new LookupEntry();
+                    le.fileType = LookupEntryType.RarEntry;
+                    le.originalFileName = file;
+                    le.entryPath = entry.Key;
+                    le.crc = ziphashes[2];
+                    le.sha1 = ziphashes[1];
+                    le.md5 = ziphashes[0];
+                    le.size = entry.Size;
+                    zippedFiles.Add(le);
+                }
+            }
+            archive.Dispose();
+            return zippedFiles.Count > 0 ? zippedFiles : null;
+        }
+
+        public static void TestAlternatePath(string topFolder, IProgress<string> progress = null)
+        {
+            System.Diagnostics.Stopwatch sw = new System.Diagnostics.Stopwatch();
+            sw.Start();
+
+            //Step 1: enumerate all files first.
+            files = new ConcurrentBag<string>();
+            progress.Report("Scanning for files");
+            EnumerateAllFiles(topFolder);
+            progress.Report(files.Count() + " files found in " + sw.Elapsed.ToString());
+            sw.Restart();
+
+            //Step 2: hash files, looking into zip files
+            progress.Report("Hashing files");
+            ConcurrentBag<LookupEntry> filesToFind = new ConcurrentBag<LookupEntry>();
+            Parallel.ForEach(files, (file) =>
+            {
+                switch (Path.GetExtension(file))
+                {
+                    case ".zip":
+                        var zipResults = AltZipProcess(file);
+                        if (zipResults != null)
+                            foreach (var zr in zipResults)
+                                filesToFind.Add(zr);
+                        break;
+                    case ".rar":
+                        var rarResults = AltRarProcess(file);
+                        foreach (var rr in rarResults)
+                            filesToFind.Add(rr);
+                        break;
+                    default:
+                        filesToFind.Add(GetFileHashes(file));
+                        break;
+                }
+            });
+            progress.Report(filesToFind.Count() + " files hashed in " + sw.Elapsed.ToString());
+
+            //Step 3
+            //identify files we found, including zip entries.
+            progress.Report("Identifying files");
+            sw.Restart();
+            int foundCount = 0;
+            Parallel.ForEach(filesToFind, (possibleGame) =>
+            {
+                if (possibleGame == null)
+                {
+                    var a = 1;
+                }
+
+                var gameEntry = Database.FindGame(possibleGame.size, possibleGame.crc, possibleGame.md5, possibleGame.sha1);
+                if (gameEntry != null)
+                {
+                    foundCount++;
+                    possibleGame.destinationFileName = topFolder + "\\" + gameEntry.console + "\\" + gameEntry.description;
+                    possibleGame.console = gameEntry.console;
+                    possibleGame.isIdentified = true;
+                }
+                else
+                {
+                    //search discs
+                    var discEntries = Database.FindDisc(possibleGame.size, possibleGame.crc, possibleGame.md5, possibleGame.sha1);
+                    if (discEntries.Count > 0)
+                    {
+                        foreach (var de in discEntries)
+                        {
+                            foundCount++;
+                            possibleGame.destinationFileName = topFolder + "\\" + de.console + "\\" + de.name + "\\" + de.description;
+                            possibleGame.console = de.console + "\\" + de.name; //Discs treat games as folders
+                            possibleGame.isIdentified = true;
+                        }
+                    }
+                }
+            });
+            progress.Report(foundCount + " files identified in " + sw.Elapsed.ToString());
+            sw.Restart();
+
+            //step 4
+            //start moving files. Requires a little bit of organizing in case a zip has multiple files.
+            var unidentified = filesToFind.Where(f => !f.isIdentified).ToList();
+            var foundFiles = filesToFind.Where(f => f.isIdentified).ToList();
+            var plainFiles = foundFiles.Where(f => f.fileType == LookupEntryType.File).ToList();
+            var zippedFiles = foundFiles.Where(f => f.fileType == LookupEntryType.ZipEntry).GroupBy(f => f.originalFileName).ToList();
+            var raredFiles = foundFiles.Where(f => f.fileType == LookupEntryType.RarEntry).GroupBy(f => f.originalFileName).ToList();
+            progress.Report("Files sorted in " + sw.Elapsed.ToString());
+
+            progress.Report("Beginning final file operations");
+            sw.Restart();
+            //Create all needed directories now, instead of attempting for each file.
+            var dirsToMake = foundFiles.Select(f => f.console).Distinct().ToList();
+            foreach (var dir in dirsToMake)
+                Directory.CreateDirectory(topFolder + "\\" + dir);
+
+            int filesMovedOrExtracted = 0;
+            var plainFilesTask = Task.Factory.StartNew(() =>
+            {
+                Parallel.ForEach(plainFiles, (pf) =>
+                {
+                    if (pf.originalFileName != pf.destinationFileName)
+                    {
+                        if (!File.Exists(pf.destinationFileName))
+                            File.Move(pf.originalFileName, pf.destinationFileName);
+                        else
+                            File.Delete(pf.originalFileName);
+                        filesMovedOrExtracted++;
+                    }
+                });
+            });
+
+            var zipFilesTask = Task.Factory.StartNew(() =>
+            {
+                Parallel.ForEach(zippedFiles, (zf) =>
+                {
+                    var zipFile = ZipFile.OpenRead(zf.Key); //might have multiple files to extract from a zip, thats why these are grouped.
+                    foreach (var entryToFind in zf)
+                    {
+                        if (!File.Exists(entryToFind.destinationFileName))
+                        {
+                            var entry = zipFile.Entries.Where(e => e.FullName == entryToFind.entryPath).FirstOrDefault();
+                            entry.ExtractToFile(entryToFind.destinationFileName);
+                        }
+                        filesMovedOrExtracted++;
+                    }
+                    zipFile.Dispose();
+                });
+            });
+
+            var rarFilesTask = Task.Factory.StartNew(() =>
+            {
+                Parallel.ForEach(raredFiles, (rf) =>
+                {
+                    var rarFile = SharpCompress.Archives.Rar.RarArchive.Open(rf.Key);//might have multiple files to extract from a zip, thats why these are grouped.
+                    foreach (var entryToFind in rf)
+                    {
+                        if (!File.Exists(entryToFind.destinationFileName))
+                        {
+                            var entry = rarFile.Entries.Where(e => e.Key == entryToFind.entryPath).FirstOrDefault();
+                            byte[] fileData = new byte[entry.Size];
+                            new BinaryReader(entry.OpenEntryStream()).Read(fileData, 0, (int)entry.Size);
+                            File.WriteAllBytes(entryToFind.destinationFileName, fileData);
+                        }
+                        filesMovedOrExtracted++;
+                    }
+                    rarFile.Dispose();
+                });
+            });
+
+            Task.WaitAll(plainFilesTask, zipFilesTask, rarFilesTask);
+            sw.Stop();
+            progress.Report(filesMovedOrExtracted + " files moved or extracted in " + sw.Elapsed.ToString());
+
+        }
 
         public static void SortAllGamesMultithread(string topFolder, string folderToScan, IProgress<string> progress = null)
         {

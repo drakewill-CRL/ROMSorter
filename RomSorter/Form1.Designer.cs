@@ -37,6 +37,7 @@
             this.btnReport = new System.Windows.Forms.Button();
             this.chkMoveUnidentified = new System.Windows.Forms.CheckBox();
             this.chkPreserveOriginals = new System.Windows.Forms.CheckBox();
+            this.txtMessageLog = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // btnPickFolder
@@ -81,6 +82,7 @@
             this.chkMultithread.AutoSize = true;
             this.chkMultithread.Checked = true;
             this.chkMultithread.CheckState = System.Windows.Forms.CheckState.Checked;
+            this.chkMultithread.Enabled = false;
             this.chkMultithread.Location = new System.Drawing.Point(12, 165);
             this.chkMultithread.Name = "chkMultithread";
             this.chkMultithread.Size = new System.Drawing.Size(114, 17);
@@ -92,6 +94,7 @@
             // chkZipIdentified
             // 
             this.chkZipIdentified.AutoSize = true;
+            this.chkZipIdentified.Enabled = false;
             this.chkZipIdentified.Location = new System.Drawing.Point(12, 188);
             this.chkZipIdentified.Name = "chkZipIdentified";
             this.chkZipIdentified.Size = new System.Drawing.Size(161, 17);
@@ -114,6 +117,7 @@
             // chkMoveUnidentified
             // 
             this.chkMoveUnidentified.AutoSize = true;
+            this.chkMoveUnidentified.Enabled = false;
             this.chkMoveUnidentified.Location = new System.Drawing.Point(12, 211);
             this.chkMoveUnidentified.Name = "chkMoveUnidentified";
             this.chkMoveUnidentified.Size = new System.Drawing.Size(136, 17);
@@ -125,8 +129,7 @@
             // chkPreserveOriginals
             // 
             this.chkPreserveOriginals.AutoSize = true;
-            this.chkPreserveOriginals.Checked = true;
-            this.chkPreserveOriginals.CheckState = System.Windows.Forms.CheckState.Checked;
+            this.chkPreserveOriginals.Enabled = false;
             this.chkPreserveOriginals.Location = new System.Drawing.Point(12, 234);
             this.chkPreserveOriginals.Name = "chkPreserveOriginals";
             this.chkPreserveOriginals.Size = new System.Drawing.Size(140, 17);
@@ -135,11 +138,21 @@
             this.chkPreserveOriginals.UseVisualStyleBackColor = true;
             this.chkPreserveOriginals.CheckedChanged += new System.EventHandler(this.chkPreserveOriginals_CheckedChanged);
             // 
+            // txtMessageLog
+            // 
+            this.txtMessageLog.Location = new System.Drawing.Point(12, 298);
+            this.txtMessageLog.Multiline = true;
+            this.txtMessageLog.Name = "txtMessageLog";
+            this.txtMessageLog.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
+            this.txtMessageLog.Size = new System.Drawing.Size(183, 152);
+            this.txtMessageLog.TabIndex = 10;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(207, 356);
+            this.ClientSize = new System.Drawing.Size(207, 462);
+            this.Controls.Add(this.txtMessageLog);
             this.Controls.Add(this.chkPreserveOriginals);
             this.Controls.Add(this.chkMoveUnidentified);
             this.Controls.Add(this.btnReport);
@@ -168,6 +181,7 @@
         private System.Windows.Forms.Button btnReport;
         private System.Windows.Forms.CheckBox chkMoveUnidentified;
         private System.Windows.Forms.CheckBox chkPreserveOriginals;
+        private System.Windows.Forms.TextBox txtMessageLog;
     }
 }
 
