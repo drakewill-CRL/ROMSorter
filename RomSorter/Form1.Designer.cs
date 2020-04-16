@@ -38,6 +38,7 @@
             this.chkMoveUnidentified = new System.Windows.Forms.CheckBox();
             this.chkPreserveOriginals = new System.Windows.Forms.CheckBox();
             this.txtMessageLog = new System.Windows.Forms.TextBox();
+            this.btnPickDestination = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnPickFolder
@@ -46,7 +47,7 @@
             this.btnPickFolder.Name = "btnPickFolder";
             this.btnPickFolder.Size = new System.Drawing.Size(171, 22);
             this.btnPickFolder.TabIndex = 0;
-            this.btnPickFolder.Text = "Pick Folder";
+            this.btnPickFolder.Text = "Pick Source Folder";
             this.btnPickFolder.UseVisualStyleBackColor = true;
             this.btnPickFolder.Click += new System.EventHandler(this.button1_Click);
             this.btnPickFolder.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
@@ -140,6 +141,8 @@
             // 
             // txtMessageLog
             // 
+            this.txtMessageLog.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.txtMessageLog.Location = new System.Drawing.Point(12, 298);
             this.txtMessageLog.Multiline = true;
             this.txtMessageLog.Name = "txtMessageLog";
@@ -147,11 +150,22 @@
             this.txtMessageLog.Size = new System.Drawing.Size(183, 152);
             this.txtMessageLog.TabIndex = 10;
             // 
+            // btnPickDestination
+            // 
+            this.btnPickDestination.Location = new System.Drawing.Point(12, 40);
+            this.btnPickDestination.Name = "btnPickDestination";
+            this.btnPickDestination.Size = new System.Drawing.Size(171, 22);
+            this.btnPickDestination.TabIndex = 11;
+            this.btnPickDestination.Text = "Pick Destination Folder";
+            this.btnPickDestination.UseVisualStyleBackColor = true;
+            this.btnPickDestination.Click += new System.EventHandler(this.btnPickDestination_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(207, 462);
+            this.Controls.Add(this.btnPickDestination);
             this.Controls.Add(this.txtMessageLog);
             this.Controls.Add(this.chkPreserveOriginals);
             this.Controls.Add(this.chkMoveUnidentified);
@@ -182,6 +196,7 @@
         private System.Windows.Forms.CheckBox chkMoveUnidentified;
         private System.Windows.Forms.CheckBox chkPreserveOriginals;
         private System.Windows.Forms.TextBox txtMessageLog;
+        private System.Windows.Forms.Button btnPickDestination;
     }
 }
 

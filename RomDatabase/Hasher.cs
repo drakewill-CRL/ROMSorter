@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Force.Crc32;
 using SharpCompress;
+using SharpCompress.Archives.Tar;
 
 namespace RomDatabase
 {
@@ -58,9 +59,28 @@ namespace RomDatabase
 
         public static string[] HashZipEntry(ZipArchiveEntry entry)
         {
-            var br = new BinaryReader(entry.Open());
-            byte[] data = new byte[(int)entry.Length];
-            br.Read(data, 0, (int)entry.Length);
+            try
+            {
+                var br = new BinaryReader(entry.Open());
+                byte[] data = new byte[(int)entry.Length];
+                br.Read(data, 0, (int)entry.Length);
+                var hashes = Hasher.HashFile(data);
+                data = null;
+                br.Close();
+                br.Dispose();
+                return hashes;
+            }
+            catch (Exception ex)
+            {
+                return null; //most likely the zip wasn't readable.
+            }
+        }
+
+        public static string[] HashRarEntry(SharpCompress.Archives.Rar.RarArchiveEntry entry)
+        {
+            var br = new BinaryReader(entry.OpenEntryStream());
+            byte[] data = new byte[(int)entry.Size];
+            br.Read(data, 0, (int)entry.Size);
             var hashes = Hasher.HashFile(data);
             data = null;
             br.Close();
@@ -68,7 +88,7 @@ namespace RomDatabase
             return hashes;
         }
 
-        public static string[] HashRarEntry(SharpCompress.Archives.Rar.RarArchiveEntry entry)
+        public static string[] HashArchiveEntry(SharpCompress.Archives.IArchiveEntry entry)
         {
             var br = new BinaryReader(entry.OpenEntryStream());
             byte[] data = new byte[(int)entry.Size];

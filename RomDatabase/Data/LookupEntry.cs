@@ -26,8 +26,11 @@ namespace RomDatabase.Data
     public enum LookupEntryType
     {
         File = 1,
-        ZipEntry = 2,
-        RarEntry = 3
+        ZipEntry,
+        RarEntry,
+        GZipEntry, 
+        TarEntry,
+        SevenZEntry
     }
 
 }

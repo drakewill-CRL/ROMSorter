@@ -13,6 +13,9 @@ namespace RomSorter
 {
     public partial class Form1 : Form
     {
+        string sourceFolder = "";
+        string destinationFolder = "";
+
         public Form1()
         {
             InitializeComponent();
@@ -54,6 +57,7 @@ namespace RomSorter
             //pick folder.
             if (openFileDialog1.ShowDialog() == DialogResult.OK)
             {
+                sourceFolder = System.IO.Path.GetDirectoryName(openFileDialog1.FileName);
                 btnSort.Enabled = true;
                 btnReport.Enabled = true;
             }
@@ -65,10 +69,14 @@ namespace RomSorter
             System.Diagnostics.Stopwatch sw = new System.Diagnostics.Stopwatch();
             sw.Start();
 
-            Progress<string> progress = new Progress<string>(s => { lblStatus.Text = s; txtMessageLog.Text += s + Environment.NewLine; });
+            Progress<string> progress = new Progress<string>(s => { lblStatus.Text = s; txtMessageLog.AppendText(s + Environment.NewLine); txtMessageLog.SelectionStart = txtMessageLog.TextLength; txtMessageLog.ScrollToCaret();
+            });
+
+            if (destinationFolder == "")
+                destinationFolder = sourceFolder;
 
             //Temporary test path.
-            await Task.Factory.StartNew(() => Sorter.TestAlternatePath(System.IO.Path.GetDirectoryName(openFileDialog1.FileName), progress));
+            await Task.Factory.StartNew(() => Sorter.TestAlternatePath(sourceFolder, destinationFolder, progress));
 
             //if (chkMultithread.Checked)
             //    await Task.Factory.StartNew(() => Sorter.SortAllGamesMultithread(System.IO.Path.GetDirectoryName(openFileDialog1.FileName), System.IO.Path.GetDirectoryName(openFileDialog1.FileName), progress));
@@ -84,7 +92,8 @@ namespace RomSorter
             //Report
             System.Diagnostics.Stopwatch sw = new System.Diagnostics.Stopwatch();
             sw.Start();
-            Progress<string> progress = new Progress<string>(s => { lblStatus.Text = s; txtMessageLog.Text += s; });
+            Progress<string> progress = new Progress<string>(s => { lblStatus.Text = s; txtMessageLog.AppendText(s);
+            });
 
             //TODO: multithreading option split
             await Task.Factory.StartNew(() => Reporter.Report(System.IO.Path.GetDirectoryName(openFileDialog1.FileName), progress, chkMultithread.Checked));
@@ -113,6 +122,15 @@ namespace RomSorter
         private void chkPreserveOriginals_CheckedChanged(object sender, EventArgs e)
         {
             Sorter.PreserveOriginals = chkPreserveOriginals.Checked;
+        }
+
+        private void btnPickDestination_Click(object sender, EventArgs e)
+        {
+            //pick folder.
+            if (openFileDialog1.ShowDialog() == DialogResult.OK)
+            {
+                destinationFolder = System.IO.Path.GetDirectoryName(openFileDialog1.FileName);
+            }
         }
     }
 }

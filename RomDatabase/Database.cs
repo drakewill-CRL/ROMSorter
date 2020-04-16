@@ -13,12 +13,10 @@ namespace RomDatabase
         //TODO: set up app to create DB and loads dat from an internet location if DB is missing. (Maybe 1 URL for current file and date, 1 URL for actual file. This would let me update apps remotely)
         //TODO: allow users to load files themselves in case they want to use their own set. Then I have to handle parsing filenames though.
         //TODO: remember window position on close, restore on start.
-        //TODO: Apply some math and logic to attempt to find 'headerless' NES ROMs? (If the file isn't divisble by 8192, skip the first 16 bytes, re-hash, re-search to see if there's a headerless entry in the DB) - NES ONLY.        
         //TODO: Keep the UI simple. List big counts and big buttons for easy stuff. Maybe a couple drop downs for how to sort games. Checkboxes for toggles.
-        //TODO: Reference tables. Set up reference tables for genre, console, other columns with repeated data.
         //TODO Set up entities to see if that can save me some time in the future instead of writing boilerplate database code. Or remove the EF as a dependency
         //TODO: use prepared statements and recycle SQLiteCOmmand objects, changing parameters where possible.
-        //TODO: make the UI use native windows components to look a little more modern. Not totally sure how .NET does that.
+        //TODO: make the UI use native windows components to look a little more modern. Not totally sure how .NET does that. Might need to just make a modern UI app.
         //TODO: figure out how to handle files over 2GB in size? This would be for ISOs for modern systems.
         //TODO enable scanning a folder for duplicate files. (For making dats, mostly, so i dont have to manually find dupes)
         //TODO: make a way for a user to make a dat file for games they had unidentified for potential inclusion?
@@ -34,8 +32,6 @@ namespace RomDatabase
         //TODO: code cleanup. Pare down files to used functions and remove commented code
         //TODO: Set up app to read from zipped DB file (zipped is ~200MB currently, instead of ~500MB)
         //TODO: redo reporting. Make it use an HTML, and substitute in StringBuilder results instead of this small text file dump.
-        //TODO: make a lookup of ReaderWriterLockSlims so that we can write multiple files at once.
-        //--TODO: track down deadlock where a lock didn't get released involving the Unidentified folder, but only when it gets scanned. NOt being released after copying there?
         //TODO: ensure this isn't corrupting files when it moves/zips/unzips them. 2a03 Puritans was a bad file i had to replace from the original website.
         //TODO: find the GoodNES database and make it a .dat file, since apparently it's much more complete than TOSEC somehow. Might start with the EmuHawk DB, though its only SHA1 hashes?
         //2 points of contention:
@@ -44,6 +40,8 @@ namespace RomDatabase
         //TODO: reconsider making a 'missing' list feature, since people dont like being told of a game there's only 1 copy of that they will never find.
         //TODO: make an 'Archivist' mode, that makes a .dat file for everything in it's folder and will scan that .dat to confirm files are still good.
         //--Ideal use case here is for like, burning onto a disc that sits on a shelf for a couple decades. Let it prove itself out.
+        //TODO: make Sorter a proper class and not a static one.
+        //TODO: will loading the SQLIte DB into memory first make it run faster than running from disk?
 
         //TOSEC files were 12-24-2019 release.
         //NO-INTRO files were  gathered on the date listed, should still be in the filename
@@ -68,7 +66,6 @@ namespace RomDatabase
 
         //Starting to feel like my goal is going to be to document all the games, even the forgotten ones and fan-made stuff that might be neglected to archive or collect.
         //Which is important if you arent just being a major pirate.
-
 
         #region SQL Commands
         //All my command text is stored up here for referencing elsewhere.
