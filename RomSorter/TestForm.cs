@@ -14,56 +14,10 @@ namespace RomSorter
 {
     public partial class TestForm : Form
     {
-
-        private BackgroundWorker _worker;
         StatusWindow sw = new StatusWindow();
         public TestForm()
         {
             InitializeComponent();
-            //sw.Show();
-            InitWorker();
-        }
-
-        //This is an old way to handle this sort of thing. The new way is on Form1, using Progress<> and Task()
-        private void InitWorker()
-        {
-            if (_worker != null)
-            {
-                _worker.Dispose();
-            }
-
-            _worker = new BackgroundWorker
-            {
-                WorkerReportsProgress = true,
-                WorkerSupportsCancellation = true
-            };
-            //_worker.DoWork += DoWork; //I think I should set this to my long-running ops.
-            //_worker.RunWorkerCompleted += RunWorkerCompleted;
-            _worker.ProgressChanged += ProgressChanged;
-            _worker.RunWorkerAsync();
-        }
-
-        void ProgressChanged(object sender, ProgressChangedEventArgs e)
-        {
-            //I need a reference to status window
-            ((Label)sw.Controls["lblStatus"]).Text = string.Format("Progress Made");
-        }
-
-        void RunWorkerCompleted(object sender, RunWorkerCompletedEventArgs e)
-        {
-            if (e.Cancelled)
-            {
-                // Display some message to the user that task has been
-                // cancelled
-            }
-            else if (e.Error != null)
-            {
-                // Do something with the error
-            }
-            else
-            {
-                ((Label)sw.Controls["lblStatus"]).Text = string.Format("Idle");
-            }
         }
 
         private void button1_Click(object sender, EventArgs e)

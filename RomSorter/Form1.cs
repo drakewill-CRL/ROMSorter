@@ -37,7 +37,7 @@ namespace RomSorter
 
         private void CountGamesAndConsoles(IProgress<string> progress)
         {
-            int games = Database.CountGames(null);
+            int games = Database.CountGames();
             int systems = Database.CountGamesByConsole().Count();
             progress.Report(games + " games across " + systems + " platforms.");
 
@@ -116,7 +116,7 @@ namespace RomSorter
 
         private void chkMoveUnidentified_CheckedChanged(object sender, EventArgs e)
         {
-            Sorter.moveUnidentified = chkZipIdentified.Checked;
+            Sorter.moveUnidentified = chkMoveUnidentified.Checked;
         }
 
         private void chkPreserveOriginals_CheckedChanged(object sender, EventArgs e)

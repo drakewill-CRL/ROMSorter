@@ -23,16 +23,13 @@ namespace RomDatabase
         //TODO: Reporter will also need to look into zip files if the checkbox is selected.
         //TODO: reporter needs to support discs as well as games. Only scanning by folder name for consoles available in the discs table might help?
         //NOT TODO: if I use description as filename all the time, I could consolidate this down to one table, but I'd have to add some processing logic to everything to figure out if i need a single file or multiples that way. Lets not do this
-        //TODO: add .7z support (for reading)?
         //TODO: add high-integrity disc dat reading. If an entry is already found in 1 game, check to see if all of its entries match on size/hashes.
         //TODO: make dat cleaner, to remove entries that are already tracked in an earlier file
         //TODO: submit NES Homebrew data to TOSEC for their Demo /games file?
         //TODO: https://api.thegamesdb.net/#/Games/GamesByGameID has all the stuff I initially wanted to include. So I guess I can skip all that stuff for a while.
-        //--where is the NES DB that bizhawk looks up games in? that seems to have an ID for all of the ROMS i want, since there's no header space for that int he title bar that fills in automatically in BizHawk
         //TODO: code cleanup. Pare down files to used functions and remove commented code
         //TODO: Set up app to read from zipped DB file (zipped is ~200MB currently, instead of ~500MB)
         //TODO: redo reporting. Make it use an HTML, and substitute in StringBuilder results instead of this small text file dump.
-        //TODO: ensure this isn't corrupting files when it moves/zips/unzips them. 2a03 Puritans was a bad file i had to replace from the original website.
         //TODO: find the GoodNES database and make it a .dat file, since apparently it's much more complete than TOSEC somehow. Might start with the EmuHawk DB, though its only SHA1 hashes?
         //2 points of contention:
         //1: the goodtools guy is pretty racist and unwelcome. much less have his tools be necessary for a decade, they havent been updated for 4.
@@ -41,7 +38,13 @@ namespace RomDatabase
         //TODO: make an 'Archivist' mode, that makes a .dat file for everything in it's folder and will scan that .dat to confirm files are still good.
         //--Ideal use case here is for like, burning onto a disc that sits on a shelf for a couple decades. Let it prove itself out.
         //TODO: make Sorter a proper class and not a static one.
-        //TODO: will loading the SQLIte DB into memory first make it run faster than running from disk?
+        //TODO: will loading the SQLIte DB into memory first make it run faster than running from disk? Probably premature to do, since identifying is so much faster than hashing anyways, but lets go all out for performance on my hobby app.
+        //--make sure to do comparison test.  hash a ton of files, then identify them against HD DB versus memorystream DB.
+        //TODO: clean up the Sorter class for real. Rewrote it, it needs organized.
+        //TODO: figure out right logic for Sorter when a zip file has some identified and some unidentified files
+        //--EX: 1 rom found, 1 support doc not. It may or may not get preserved by PreserverOriginals, and may or may not get moved by MoveUnidentified, in either order.
+        //--maybe should handle zips in HandleZips, and then figure out after handling each entry instead of handling found entries in one spot or unfound in another?
+        //TODO: MAME entries can be identical to games for other systems (particularly BIOS files). Should ponder how to handle those too.
 
         //TOSEC files were 12-24-2019 release.
         //NO-INTRO files were  gathered on the date listed, should still be in the filename
@@ -434,19 +437,16 @@ namespace RomDatabase
             return results;
         }
 
-        public static int CountGames(IProgress<string> progress)
+        public static int CountGames()
         {
-            int results = Int32.Parse(ExecuteSQLiteScalarQuery(CountGamesCmd).ToString());
-            results += Int32.Parse(ExecuteSQLiteScalarQuery(CountDiscsCmd).ToString());
-            if (progress != null)
-                progress.Report(results.ToString());
-            return results;
+            int singleFilesGames = Int32.Parse(ExecuteSQLiteScalarQuery(CountGamesCmd).ToString());
+            int multiFileGames = Int32.Parse(ExecuteSQLiteScalarQuery(CountDiscsCmd).ToString());
+            return singleFilesGames + multiFileGames;
         }
 
         public static List<Tuple<string, int>> CountGamesByConsole()
         {
             List<Tuple<string, int>> results1 = new List<Tuple<string, int>>();
-            //var results = ExecuteSQLiteQuery(CountGamesByConsoleCmd);
             using (var connection = new SQLiteConnection(conString))
             {
                 connection.Open();
@@ -457,7 +457,6 @@ namespace RomDatabase
                     results1.Add(new Tuple<string, int>(results[0].ToString(), Int32.Parse(results[1].ToString())));
 
                 //adding discs table.
-
                 cmd = new SQLiteCommand(CountDiscsByConsoleCmd, connection);
                 results = cmd.ExecuteReader();
                 while (results.Read())
@@ -508,7 +507,6 @@ namespace RomDatabase
         {
             return FindDisc(size, hashes[2], hashes[0], hashes[1]);
         }
-
 
         public static List<Game> FindDisc(long size, string crc, string md5, string sha1)
         {

@@ -15,10 +15,13 @@ namespace RomDatabase
 {
     public static class Sorter
     {
+        //options
         public static bool moveUnidentified = false;
         public static bool ZipInsteadOfMove = false;
         public static bool UseMultithreading = true;
         public static bool PreserveOriginals = true;
+
+        //internal stuff.
         static ReaderWriterLockSlim lockLock = new ReaderWriterLockSlim();
         static ConcurrentDictionary<string, ReaderWriterLockSlim> locks = new ConcurrentDictionary<string, ReaderWriterLockSlim>();
         static string tempFolderPath = Path.GetTempPath();
@@ -26,7 +29,7 @@ namespace RomDatabase
         static ConcurrentBag<string> files = new ConcurrentBag<string>();
 
         static int filesMovedOrExtracted = 0;
-        static int filesToReportBetween = 1000;
+        static int filesToReportBetween = 1000; //set to 1% of the workload or 1000 files during sorting to keep the user aware that its doing work.
 
         public static void EnumerateAllFiles(string topFolder)
         {
@@ -190,6 +193,8 @@ namespace RomDatabase
             filesToReportBetween = files.Count() / 100;
             if (filesToReportBetween > 1000)
                 filesToReportBetween = 1000;
+            if (filesToReportBetween < 1)
+                filesToReportBetween = 1;
 
             //Step 2: hash files, looking into zip files
             progress.Report("Hashing files");
@@ -288,6 +293,8 @@ namespace RomDatabase
             sw.Restart();
             //Create all needed directories now, instead of attempting for each file.
             var dirsToMake = foundFiles.Select(f => f.console).Distinct().ToList();
+            if (moveUnidentified)
+                dirsToMake.Add("Unidentified");
             foreach (var dir in dirsToMake)
                 Directory.CreateDirectory(destinationFolder + "\\" + dir);
 
@@ -298,15 +305,16 @@ namespace RomDatabase
             var tarFilesTask = Task.Factory.StartNew(() => HandleTarEntries(taredFiles));
             var sevenZipFilesTask = Task.Factory.StartNew(() => Handle7zEntries(sevenZippedFiles));
             var gZipFilesTask = Task.Factory.StartNew(() => HandleGZipEntries(gZippedFiles));
+            var unidentifiedTask = Task.Factory.StartNew(() => HandleUnidentifiedFiles(unidentified, destinationFolder + "\\Unidentified\\"));
 
-            Task.WaitAll(plainFilesTask, zipFilesTask, rarFilesTask, tarFilesTask, sevenZipFilesTask, gZipFilesTask);
+            Task.WaitAll(plainFilesTask, zipFilesTask, rarFilesTask, tarFilesTask, sevenZipFilesTask, gZipFilesTask, unidentifiedTask);
             progress.Report(filesMovedOrExtracted + " files moved or extracted in " + sw.Elapsed.ToString());
             sw.Restart();
 
             //step 5
             //clean up. Remove empty folders?
             CleanupLoop(topFolder);
-            progress.Report("Empty folders removed from source directlry in " + sw.Elapsed.ToString());
+            progress.Report("Empty folders removed from source directory in " + sw.Elapsed.ToString());
             sw.Stop();
         }
 
@@ -315,22 +323,43 @@ namespace RomDatabase
             foreach (var subfolder in Directory.EnumerateDirectories(folder))
                 CleanupLoop(subfolder);
 
-                if (Directory.EnumerateFiles(folder).Count() == 0 && Directory.EnumerateDirectories(folder).Count() == 0)
-                    Directory.Delete(folder);
+            if (Directory.EnumerateFiles(folder).Count() == 0 && Directory.EnumerateDirectories(folder).Count() == 0)
+                Directory.Delete(folder);
+        }
+
+        public static void HandleUnidentifiedFiles(List<LookupEntry> unidentifiedFiles, string unidentifiedFolder)
+        {
+            if (!moveUnidentified)
+                return;
+
+            Parallel.ForEach(unidentifiedFiles.GroupBy(u => u.originalFileName), (uf) => //If we refer to the original file more than once, EX because it's a zip file, we only want to move it once.
+            {    
+                File.Move(uf.Key, unidentifiedFolder + Path.GetFileName(uf.Key));
+                filesMovedOrExtracted++;
+            });
         }
 
         public static void HandlePlainFiles(List<LookupEntry> plainFiles)
         {
             Parallel.ForEach(plainFiles, (pf) =>
             {
-                if (pf.originalFileName != pf.destinationFileName)
+                if (pf.originalFileName == pf.destinationFileName) //dont bother moving a file onto itself.
+                    return;
+
+                if (ZipInsteadOfMove)
+                {
+                    CreateSingleZip(pf.originalFileName, pf.destinationFileName + ".zip");
+                }
+                else
                 {
                     if (!File.Exists(pf.destinationFileName))
                         File.Move(pf.originalFileName, pf.destinationFileName);
-                    else
-                        File.Delete(pf.originalFileName);
-                    filesMovedOrExtracted++;
                 }
+
+                if (!PreserveOriginals)
+                    File.Delete(pf.originalFileName);
+
+                filesMovedOrExtracted++;
             });
         }
 
@@ -349,6 +378,9 @@ namespace RomDatabase
                     filesMovedOrExtracted++;
                 }
                 zipFile.Dispose();
+
+                if(!PreserveOriginals)
+                    File.Delete(zf.Key);
             });
         }
 
@@ -369,6 +401,9 @@ namespace RomDatabase
                     filesMovedOrExtracted++;
                 }
                 rarFile.Dispose();
+
+                if (!PreserveOriginals)
+                    File.Delete(rf.Key);
             });
         }
 
@@ -389,6 +424,9 @@ namespace RomDatabase
                     filesMovedOrExtracted++;
                 }
                 sevenZFile.Dispose();
+
+                if (!PreserveOriginals)
+                    File.Delete(sz.Key);
             });
         }
 
@@ -409,6 +447,9 @@ namespace RomDatabase
                     filesMovedOrExtracted++;
                 }
                 gzFile.Dispose();
+
+                if (!PreserveOriginals)
+                    File.Delete(gz.Key);
             });
         }
 
@@ -429,6 +470,9 @@ namespace RomDatabase
                     filesMovedOrExtracted++;
                 }
                 tarFile.Dispose();
+
+                if (!PreserveOriginals)
+                    File.Delete(tf.Key);
             });
         }
 

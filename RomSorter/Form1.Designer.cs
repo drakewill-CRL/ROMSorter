@@ -95,7 +95,6 @@
             // chkZipIdentified
             // 
             this.chkZipIdentified.AutoSize = true;
-            this.chkZipIdentified.Enabled = false;
             this.chkZipIdentified.Location = new System.Drawing.Point(12, 188);
             this.chkZipIdentified.Name = "chkZipIdentified";
             this.chkZipIdentified.Size = new System.Drawing.Size(161, 17);
@@ -118,7 +117,6 @@
             // chkMoveUnidentified
             // 
             this.chkMoveUnidentified.AutoSize = true;
-            this.chkMoveUnidentified.Enabled = false;
             this.chkMoveUnidentified.Location = new System.Drawing.Point(12, 211);
             this.chkMoveUnidentified.Name = "chkMoveUnidentified";
             this.chkMoveUnidentified.Size = new System.Drawing.Size(136, 17);
@@ -130,7 +128,8 @@
             // chkPreserveOriginals
             // 
             this.chkPreserveOriginals.AutoSize = true;
-            this.chkPreserveOriginals.Enabled = false;
+            this.chkPreserveOriginals.Checked = true;
+            this.chkPreserveOriginals.CheckState = System.Windows.Forms.CheckState.Checked;
             this.chkPreserveOriginals.Location = new System.Drawing.Point(12, 234);
             this.chkPreserveOriginals.Name = "chkPreserveOriginals";
             this.chkPreserveOriginals.Size = new System.Drawing.Size(140, 17);
