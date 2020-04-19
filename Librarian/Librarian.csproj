@@ -78,5 +78,13 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\RomDatabase\RomDatabase.csproj">
+      <Project>{b223fa25-92ba-408e-b367-9e0b8e16743b}</Project>
+      <Name>RomDatabase</Name>
+      <Private>False</Private>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

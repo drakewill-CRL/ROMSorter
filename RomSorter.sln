@@ -1,13 +1,19 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.960
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30014.187
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomSorter", "RomSorter\RomSorter.csproj", "{455CAEC2-2ABB-4480-8E45-AADBA0AB11A2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomDatabase", "RomDatabase\RomDatabase.csproj", "{B223FA25-92BA-408E-B367-9E0B8E16743B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Librarian", "Librarian\Librarian.csproj", "{CBD85D02-E0F1-499D-A53B-B964E2E914EF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RomDatabase5", "RomDatabase5\RomDatabase5.csproj", "{CD1C4047-20C7-456C-A2B1-64066D113459}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RomSorter5", "RomSorter5\RomSorter5.csproj", "{495A21D7-E2AC-47B3-BD7B-290EA24F56FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Librarian5", "Librarian5\Librarian5.csproj", "{A9799E21-2DFC-469F-9A8A-98481B786D5B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +33,18 @@ Global
 		{CBD85D02-E0F1-499D-A53B-B964E2E914EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CBD85D02-E0F1-499D-A53B-B964E2E914EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CBD85D02-E0F1-499D-A53B-B964E2E914EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD1C4047-20C7-456C-A2B1-64066D113459}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD1C4047-20C7-456C-A2B1-64066D113459}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD1C4047-20C7-456C-A2B1-64066D113459}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD1C4047-20C7-456C-A2B1-64066D113459}.Release|Any CPU.Build.0 = Release|Any CPU
+		{495A21D7-E2AC-47B3-BD7B-290EA24F56FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{495A21D7-E2AC-47B3-BD7B-290EA24F56FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{495A21D7-E2AC-47B3-BD7B-290EA24F56FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{495A21D7-E2AC-47B3-BD7B-290EA24F56FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9799E21-2DFC-469F-9A8A-98481B786D5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9799E21-2DFC-469F-9A8A-98481B786D5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9799E21-2DFC-469F-9A8A-98481B786D5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9799E21-2DFC-469F-9A8A-98481B786D5B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

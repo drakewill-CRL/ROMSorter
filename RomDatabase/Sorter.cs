@@ -216,6 +216,7 @@ namespace RomDatabase
                             filesToFind.Add(rr);
                         break;
                     case ".gz":
+                    case ".gzip":
                         var gzResults = AltGZipProcess(file);
                         foreach (var gz in gzResults)
                             filesToFind.Add(gz);
@@ -278,7 +279,7 @@ namespace RomDatabase
             sw.Restart();
 
             //step 4
-            //start moving files. Requires a little bit of organizing in case a zip has multiple files.
+            //start moving files. Requires a little bit of organizing in case a zip has multiple files and they are split between ID'd and un-ID'd. Might need an extra function
             var unidentified = filesToFind.Where(f => !f.isIdentified).ToList();
             var foundFiles = filesToFind.Where(f => f.isIdentified).ToList();
             var plainFiles = foundFiles.Where(f => f.fileType == LookupEntryType.File).ToList();
@@ -384,22 +385,27 @@ namespace RomDatabase
             });
         }
 
+        static void InnerArchiveLoop(SharpCompress.Archives.IArchive file, IGrouping<string, LookupEntry> entries)
+        {
+            foreach (var entryToFind in entries)
+            {
+                if (!File.Exists(entryToFind.destinationFileName))
+                {
+                    var entry = file.Entries.Where(e => e.Key == entryToFind.entryPath).FirstOrDefault();
+                    byte[] fileData = new byte[entry.Size];
+                    new BinaryReader(entry.OpenEntryStream()).Read(fileData, 0, (int)entry.Size);
+                    File.WriteAllBytes(entryToFind.destinationFileName, fileData);
+                }
+                filesMovedOrExtracted++;
+            }
+        }
+
         public static void HandleRarEntries(List<IGrouping<string, LookupEntry>> raredFiles)
         {
             Parallel.ForEach(raredFiles, (rf) =>
             {
                 var rarFile = SharpCompress.Archives.Rar.RarArchive.Open(rf.Key);//might have multiple files to extract from a zip, thats why these are grouped.
-                foreach (var entryToFind in rf)
-                {
-                    if (!File.Exists(entryToFind.destinationFileName))
-                    {
-                        var entry = rarFile.Entries.Where(e => e.Key == entryToFind.entryPath).FirstOrDefault();
-                        byte[] fileData = new byte[entry.Size];
-                        new BinaryReader(entry.OpenEntryStream()).Read(fileData, 0, (int)entry.Size);
-                        File.WriteAllBytes(entryToFind.destinationFileName, fileData);
-                    }
-                    filesMovedOrExtracted++;
-                }
+                InnerArchiveLoop(rarFile, rf);
                 rarFile.Dispose();
 
                 if (!PreserveOriginals)
@@ -412,17 +418,7 @@ namespace RomDatabase
             Parallel.ForEach(sevenZdFiles, (sz) =>
             {
                 var sevenZFile = SharpCompress.Archives.SevenZip.SevenZipArchive.Open(sz.Key);//might have multiple files to extract from a zip, thats why these are grouped.
-                foreach (var entryToFind in sz)
-                {
-                    if (!File.Exists(entryToFind.destinationFileName))
-                    {
-                        var entry = sevenZFile.Entries.Where(e => e.Key == entryToFind.entryPath).FirstOrDefault();
-                        byte[] fileData = new byte[entry.Size];
-                        new BinaryReader(entry.OpenEntryStream()).Read(fileData, 0, (int)entry.Size);
-                        File.WriteAllBytes(entryToFind.destinationFileName, fileData);
-                    }
-                    filesMovedOrExtracted++;
-                }
+                InnerArchiveLoop(sevenZFile, sz);
                 sevenZFile.Dispose();
 
                 if (!PreserveOriginals)
@@ -435,17 +431,7 @@ namespace RomDatabase
             Parallel.ForEach(gZippedFiles, (gz) =>
             {
                 var gzFile = SharpCompress.Archives.GZip.GZipArchive.Open(gz.Key);//might have multiple files to extract from a zip, thats why these are grouped.
-                foreach (var entryToFind in gz)
-                {
-                    if (!File.Exists(entryToFind.destinationFileName))
-                    {
-                        var entry = gzFile.Entries.Where(e => e.Key == entryToFind.entryPath).FirstOrDefault();
-                        byte[] fileData = new byte[entry.Size];
-                        new BinaryReader(entry.OpenEntryStream()).Read(fileData, 0, (int)entry.Size);
-                        File.WriteAllBytes(entryToFind.destinationFileName, fileData);
-                    }
-                    filesMovedOrExtracted++;
-                }
+                InnerArchiveLoop(gzFile, gz);
                 gzFile.Dispose();
 
                 if (!PreserveOriginals)
@@ -458,17 +444,7 @@ namespace RomDatabase
             Parallel.ForEach(taredFiles, (tf) =>
             {
                 var tarFile = SharpCompress.Archives.Tar.TarArchive.Open(tf.Key);//might have multiple files to extract from a zip, thats why these are grouped.
-                foreach (var entryToFind in tf)
-                {
-                    if (!File.Exists(entryToFind.destinationFileName))
-                    {
-                        var entry = tarFile.Entries.Where(e => e.Key == entryToFind.entryPath).FirstOrDefault();
-                        byte[] fileData = new byte[entry.Size];
-                        new BinaryReader(entry.OpenEntryStream()).Read(fileData, 0, (int)entry.Size);
-                        File.WriteAllBytes(entryToFind.destinationFileName, fileData);
-                    }
-                    filesMovedOrExtracted++;
-                }
+                InnerArchiveLoop(tarFile, tf);
                 tarFile.Dispose();
 
                 if (!PreserveOriginals)

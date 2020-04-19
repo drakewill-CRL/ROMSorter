@@ -10,6 +10,7 @@ namespace RomDatabase
 {
     public class Database
     {
+        //TODO: port this up to .NET 5 for future developmnent work.
         //TODO: set up app to create DB and loads dat from an internet location if DB is missing. (Maybe 1 URL for current file and date, 1 URL for actual file. This would let me update apps remotely)
         //TODO: allow users to load files themselves in case they want to use their own set. Then I have to handle parsing filenames though.
         //TODO: remember window position on close, restore on start.
@@ -24,16 +25,11 @@ namespace RomDatabase
         //TODO: reporter needs to support discs as well as games. Only scanning by folder name for consoles available in the discs table might help?
         //NOT TODO: if I use description as filename all the time, I could consolidate this down to one table, but I'd have to add some processing logic to everything to figure out if i need a single file or multiples that way. Lets not do this
         //TODO: add high-integrity disc dat reading. If an entry is already found in 1 game, check to see if all of its entries match on size/hashes.
-        //TODO: make dat cleaner, to remove entries that are already tracked in an earlier file
         //TODO: submit NES Homebrew data to TOSEC for their Demo /games file?
         //TODO: https://api.thegamesdb.net/#/Games/GamesByGameID has all the stuff I initially wanted to include. So I guess I can skip all that stuff for a while.
         //TODO: code cleanup. Pare down files to used functions and remove commented code
         //TODO: Set up app to read from zipped DB file (zipped is ~200MB currently, instead of ~500MB)
         //TODO: redo reporting. Make it use an HTML, and substitute in StringBuilder results instead of this small text file dump.
-        //TODO: find the GoodNES database and make it a .dat file, since apparently it's much more complete than TOSEC somehow. Might start with the EmuHawk DB, though its only SHA1 hashes?
-        //2 points of contention:
-        //1: the goodtools guy is pretty racist and unwelcome. much less have his tools be necessary for a decade, they havent been updated for 4.
-        //2: the 'missing' rom list was shit, because most of his collection was hoarded and not shared, so no one got a full Good set most of the time. No one like that. 
         //TODO: reconsider making a 'missing' list feature, since people dont like being told of a game there's only 1 copy of that they will never find.
         //TODO: make an 'Archivist' mode, that makes a .dat file for everything in it's folder and will scan that .dat to confirm files are still good.
         //--Ideal use case here is for like, burning onto a disc that sits on a shelf for a couple decades. Let it prove itself out.
@@ -64,7 +60,7 @@ namespace RomDatabase
         //SCUMMVM 2.1 
         //Future Pinball (in process) from Pleasuredome torrent. Needs to be sorted into single-file and multi-file tables. Not just distribution packs
         //Visual Pinball (in process) from pleasuredome torrent.
-        //IFArchives ZCode and Glulx game collections 
+        //IFArchives ZCode and Glulx game collections (need to manually scan 2018 and 2019 competitions for missing glulx files)
         //IFArchives other parser games (todo)
 
         //Starting to feel like my goal is going to be to document all the games, even the forgotten ones and fan-made stuff that might be neglected to archive or collect.
