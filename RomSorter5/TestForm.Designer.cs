@@ -28,12 +28,54 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.btnReloadAllHighIntegrity = new System.Windows.Forms.Button();
+            this.btnCreateDats = new System.Windows.Forms.Button();
+            this.ofdDats = new System.Windows.Forms.OpenFileDialog();
+            this.SuspendLayout();
+            // 
+            // btnReloadAllHighIntegrity
+            // 
+            this.btnReloadAllHighIntegrity.Location = new System.Drawing.Point(12, 12);
+            this.btnReloadAllHighIntegrity.Name = "btnReloadAllHighIntegrity";
+            this.btnReloadAllHighIntegrity.Size = new System.Drawing.Size(111, 58);
+            this.btnReloadAllHighIntegrity.TabIndex = 0;
+            this.btnReloadAllHighIntegrity.Text = "Reload All Dats (high integrity)";
+            this.btnReloadAllHighIntegrity.UseVisualStyleBackColor = true;
+            this.btnReloadAllHighIntegrity.Click += new System.EventHandler(this.btnReloadAllHighIntegrity_Click);
+            // 
+            // btnCreateDats
+            // 
+            this.btnCreateDats.Location = new System.Drawing.Point(677, 12);
+            this.btnCreateDats.Name = "btnCreateDats";
+            this.btnCreateDats.Size = new System.Drawing.Size(111, 58);
+            this.btnCreateDats.TabIndex = 0;
+            this.btnCreateDats.Text = "Create Dat From Folder";
+            this.btnCreateDats.UseVisualStyleBackColor = true;
+            this.btnCreateDats.Click += new System.EventHandler(this.btnCreateDats_Click);
+            // 
+            // ofdDats
+            // 
+            this.ofdDats.CheckFileExists = false;
+            this.ofdDats.FileName = "Folder Selection";
+            this.ofdDats.ValidateNames = false;
+            // 
+            // TestForm
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnCreateDats);
+            this.Controls.Add(this.btnReloadAllHighIntegrity);
+            this.Name = "TestForm";
             this.Text = "TestForm";
+            this.ResumeLayout(false);
+
         }
 
         #endregion
+
+        private System.Windows.Forms.Button btnReloadAllHighIntegrity;
+        private System.Windows.Forms.Button btnCreateDats;
+        private System.Windows.Forms.OpenFileDialog ofdDats;
     }
 }
