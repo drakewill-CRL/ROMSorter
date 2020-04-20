@@ -11,24 +11,8 @@ using System.IO;
 
 namespace RomDatabase5
 {
-    class Hasher //fully ported.
+    class Hasher
     {
-        public static bool MatchFile(byte[] fileData, string md5Hash, string sha1Hash, string crcHash)
-        {
-            //must be instantiated here, since these arent thread-safe.
-            //hashes files all 3 ways.
-            MD5 md5 = MD5.Create();
-            SHA1 sha1 = SHA1.Create();
-            Crc32Algorithm crc = new Crc32Algorithm();
-
-            if (HashToString(md5.ComputeHash(fileData)) == md5Hash
-                && HashToString(sha1.ComputeHash(fileData)) == sha1Hash
-                && HashToString(crc.ComputeHash(fileData)) == crcHash)
-                return true;
-
-            return false;
-        }
-
         static string HashToString(byte[] hash)
         {
             StringBuilder sb = new StringBuilder();

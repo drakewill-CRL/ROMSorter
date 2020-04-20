@@ -75,7 +75,7 @@
             // 
             this.lblStatus.AutoSize = true;
             this.lblStatus.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.lblStatus.Location = new System.Drawing.Point(19, 313);
+            this.lblStatus.Location = new System.Drawing.Point(19, 326);
             this.lblStatus.Name = "lblStatus";
             this.lblStatus.Size = new System.Drawing.Size(66, 15);
             this.lblStatus.TabIndex = 2;
@@ -88,7 +88,7 @@
             this.chkMultithread.CheckState = System.Windows.Forms.CheckState.Checked;
             this.chkMultithread.Enabled = false;
             this.chkMultithread.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.chkMultithread.Location = new System.Drawing.Point(14, 190);
+            this.chkMultithread.Location = new System.Drawing.Point(19, 170);
             this.chkMultithread.Name = "chkMultithread";
             this.chkMultithread.Size = new System.Drawing.Size(133, 20);
             this.chkMultithread.TabIndex = 5;
@@ -99,7 +99,7 @@
             // 
             this.chkZipIdentified.AutoSize = true;
             this.chkZipIdentified.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.chkZipIdentified.Location = new System.Drawing.Point(14, 217);
+            this.chkZipIdentified.Location = new System.Drawing.Point(19, 197);
             this.chkZipIdentified.Name = "chkZipIdentified";
             this.chkZipIdentified.Size = new System.Drawing.Size(186, 20);
             this.chkZipIdentified.TabIndex = 6;
@@ -122,7 +122,7 @@
             // 
             this.chkMoveUnidentified.AutoSize = true;
             this.chkMoveUnidentified.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.chkMoveUnidentified.Location = new System.Drawing.Point(14, 243);
+            this.chkMoveUnidentified.Location = new System.Drawing.Point(19, 223);
             this.chkMoveUnidentified.Name = "chkMoveUnidentified";
             this.chkMoveUnidentified.Size = new System.Drawing.Size(156, 20);
             this.chkMoveUnidentified.TabIndex = 8;
@@ -135,7 +135,7 @@
             this.chkPreserveOriginals.Checked = true;
             this.chkPreserveOriginals.CheckState = System.Windows.Forms.CheckState.Checked;
             this.chkPreserveOriginals.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.chkPreserveOriginals.Location = new System.Drawing.Point(14, 270);
+            this.chkPreserveOriginals.Location = new System.Drawing.Point(19, 250);
             this.chkPreserveOriginals.Name = "chkPreserveOriginals";
             this.chkPreserveOriginals.Size = new System.Drawing.Size(161, 20);
             this.chkPreserveOriginals.TabIndex = 9;
@@ -150,7 +150,7 @@
             this.txtMessageLog.Multiline = true;
             this.txtMessageLog.Name = "txtMessageLog";
             this.txtMessageLog.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
-            this.txtMessageLog.Size = new System.Drawing.Size(213, 175);
+            this.txtMessageLog.Size = new System.Drawing.Size(198, 175);
             this.txtMessageLog.TabIndex = 10;
             // 
             // btnPickDestination
@@ -168,7 +168,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(241, 533);
+            this.ClientSize = new System.Drawing.Size(226, 533);
             this.Controls.Add(this.btnPickDestination);
             this.Controls.Add(this.txtMessageLog);
             this.Controls.Add(this.chkPreserveOriginals);

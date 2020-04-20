@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Diagnostics;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -66,10 +67,14 @@ namespace RomSorter5
                 lblStatus.Text = s; txtMessageLog.AppendText(s + Environment.NewLine); txtMessageLog.SelectionStart = txtMessageLog.TextLength; txtMessageLog.ScrollToCaret();
             });
 
+            Progress<string> progress2 = new Progress<string>(s => {
+                lblStatus.Text = s; txtMessageLog.AppendText(s + Environment.NewLine); txtMessageLog.SelectionStart = txtMessageLog.TextLength; txtMessageLog.ScrollToCaret();
+            });
+
             if (destinationFolder == "")
                 destinationFolder = sourceFolder;
 
-            await Task.Factory.StartNew(() => Sorter.TestAlternatePath(sourceFolder, destinationFolder, progress));
+            await Task.Factory.StartNew(() => Sorter.Sort(sourceFolder, destinationFolder, progress));
 
             sw.Stop();
             lblStatus.Text = "Games sorted in " + sw.Elapsed.ToString();

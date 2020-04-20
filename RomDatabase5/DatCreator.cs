@@ -14,13 +14,6 @@ namespace RomDatabase5
         //XML file with .dat extension
         //Will want for homebrew games, entries on un-maintained lists, etc.
 
-        //Dat files to make:
-        //NES Homebrew
-        //Other consoles homebrew
-        //Hidden Palace prototypes
-        //New demos?
-        //Itch.io console roms
-
         public static void MakeDat(string folder)
         {
             //Header is partly for XmlDocument, partly in case I ever want to share or reuse it.
@@ -53,7 +46,6 @@ namespace RomDatabase5
         {
             StringBuilder sb = new StringBuilder();
             System.Threading.Tasks.Parallel.ForEach(System.IO.Directory.EnumerateFiles(folder), (file) =>
-            //foreach(var file in System.IO.Directory.EnumerateFiles(folder))
             {
                 if (Path.GetFileName(file).EndsWith(".zip"))
                 {

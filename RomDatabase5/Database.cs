@@ -10,6 +10,7 @@ namespace RomDatabase5
 
         //Notes
         //This app is 20% faster in .NET 5 (2:02 to sort versus 2:32  in 4.5), when only copying over code and libraries directly. Impressive
+        //TODO: copy over appropriate TODOs
 
         #region SQL Commands
         //All my command text is stored up here for referencing elsewhere.
@@ -21,15 +22,8 @@ namespace RomDatabase5
             + "crc TEXT, "
             + "md5 TEXT, "
             + "sha1 TEXT, "
-            + "console INT, " //was text
-            + "datFile INT " //was text
-                             //+ "genre TEXT, "
-                             //+ "year INT, "
-                             //+ "releaseDate TEXT, "
-                             //+ "developer TEXT, "
-                             //+ "publisher TEXT, "
-                             //+ "Is1G1R INT,"
-                             //+ "region TEXT"
+            + "console INT, " 
+            + "datFile INT " 
             + ")";
 
         //Currently identical in structure, name and description are used differently.
@@ -40,15 +34,8 @@ namespace RomDatabase5
             + "crc TEXT, "
             + "md5 TEXT, "
             + "sha1 TEXT, "
-            + "console INT, " //was text
-            + "datFile INT " //was text
-                             //+ "genre TEXT, "
-                             //+ "year INT, "
-                             //+ "releaseDate TEXT, "
-                             //+ "developer TEXT, "
-                             //+ "publisher TEXT, "
-                             //+ "Is1G1R INT,"
-                             //+ "region TEXT"
+            + "console INT, "
+            + "datFile INT " 
             + ")";
 
         static string CreateConsoleTable = "CREATE TABLE consoles(id INTEGER PRIMARY KEY,"
@@ -66,26 +53,18 @@ namespace RomDatabase5
 
         static string CreateIndexName = "CREATE INDEX idx_gamename ON games(name)";
         static string CreateIndexConsole = "CREATE INDEX idx_gameconsole ON games(console)";
-        static string CreateIndexGenre = "CREATE INDEX idx_gamegenre ON games(genre)";
-        static string CreateIndexYear = "CREATE INDEX idx_gameyear ON games(year)";
-        static string CreateIndexReleaseDate = "CREATE INDEX idx_gamedate ON games(releaseDate)";
-        static string CreateIndex1G1R = "CREATE INDEX idx_game1G1R ON games(Is1G1R)";
         static string CreateIndexIdentity = "CREATE INDEX idx_gameidentity ON games(size, crc, sha1, md5)";
 
         static string CreateIndexNameD = "CREATE INDEX idx_discname ON discs(name)";
         static string CreateIndexConsoleD = "CREATE INDEX idx_discconsole ON discs(console)";
-        static string CreateIndexGenreD = "CREATE INDEX idx_discgenre ON discs(genre)";
-        static string CreateIndexYearD = "CREATE INDEX idx_discyear ON discs(year)";
-        static string CreateIndexReleaseDateD = "CREATE INDEX idx_discdate ON discs(releaseDate)";
-        static string CreateIndex1G1RD = "CREATE INDEX idx_disc1G1R ON discs(Is1G1R)";
         static string CreateIndexIdentityD = "CREATE INDEX idx_discidentity ON discs(size, crc, sha1, md5)";
 
 
-        static string InsertGameCmd = "INSERT INTO games(name, description, size, crc, md5, sha1, console, datFile)" // genre, year, releaseDate, developer, publisher, Is1G1R, region)"
-                        + "VALUES(@name, @description, @size, @crc, @md5, @sha1, @console, @datFile)"; // @genre, @year, @releaseDate, @developer, @publisher, @Is1G1R, @region)";
+        static string InsertGameCmd = "INSERT INTO games(name, description, size, crc, md5, sha1, console, datFile)" 
+                        + "VALUES(@name, @description, @size, @crc, @md5, @sha1, @console, @datFile)";
 
-        static string InsertDiscCmd = "INSERT INTO discs(name, description, size, crc, md5, sha1, console, datFile)" // genre, year, releaseDate, developer, publisher, Is1G1R, region)"
-                        + "VALUES(@name, @description, @size, @crc, @md5, @sha1, @console, @datFile)"; // @genre, @year, @releaseDate, @developer, @publisher, @Is1G1R, @region)";
+        static string InsertDiscCmd = "INSERT INTO discs(name, description, size, crc, md5, sha1, console, datFile)" 
+                        + "VALUES(@name, @description, @size, @crc, @md5, @sha1, @console, @datFile)"; 
 
         static string InsertConsoleCmd = "INSERT INTO consoles(name) VALUES (@name)";
         static string InsertDatFileCmd = "INSERT INTO datfiles(name) VALUES (@name)";
@@ -110,9 +89,7 @@ namespace RomDatabase5
         static string GetDatfileQuery = "SELECT * FROM datfiles";
 
         static string FindCollisionsCountCRC = "SELECT crc, COUNT(crc) FROM games GROUP BY crc ORDER BY 2 DESC";
-        static string FindCollisionsDetails = "SELECT * FROM games GROUP BY crc ORDER BY 2";
-
-        //static string Set1G1RByID = "UPDATE games SET Is1G1R = 1 WHERE id = @id";
+        //static string FindCollisionsDetails = "SELECT * FROM games GROUP BY crc ORDER BY 2";
 
         //Note 1: INTEGER PRIMARY KEY is long instead of int. other INTEGERS might be too
         public static string conString = "Data Source=RomDB.sqlite;Synchronous=Off;Journal_Mode=MEMORY;"; //Pragma statements go in the connection string.
@@ -221,19 +198,11 @@ namespace RomDatabase5
             p.Add(new SQLiteParameter("@sha1", g.sha1));
             p.Add(new SQLiteParameter("@console", g.consoleID));
             p.Add(new SQLiteParameter("@datFile", g.datFileID));
-            //p.Add(new SQLiteParameter("@genre", g.genre));
-            //p.Add(new SQLiteParameter("@year", g.year));
-            //p.Add(new SQLiteParameter("@releaseDate", g.releaseDate));
-            //p.Add(new SQLiteParameter("@developer", g.developer));
-            //p.Add(new SQLiteParameter("@publisher", g.publisher));
-            //p.Add(new SQLiteParameter("@Is1G1R", g.Is1G1R));
-            //p.Add(new SQLiteParameter("@region", g.region));
             ExecuteSQLiteNonQueryWithParameters(InsertGameCmd, p);
         }
 
         public static void InsertGamesBatch(List<Game> games)
         {
-            //breaking the reusable pattern for performance here.
             using (var connection = new SQLiteConnection(conString))
             {
                 connection.Open();
@@ -251,13 +220,6 @@ namespace RomDatabase5
                         cmd.Parameters.Add(new SQLiteParameter("@sha1", g.sha1));
                         cmd.Parameters.Add(new SQLiteParameter("@console", g.consoleID));
                         cmd.Parameters.Add(new SQLiteParameter("@datFile", g.datFileID));
-                        //cmd.Parameters.Add(new SQLiteParameter("@genre", g.genre));
-                        //cmd.Parameters.Add(new SQLiteParameter("@year", g.year));
-                        //cmd.Parameters.Add(new SQLiteParameter("@releaseDate", g.releaseDate));
-                        //cmd.Parameters.Add(new SQLiteParameter("@developer", g.developer));
-                        //cmd.Parameters.Add(new SQLiteParameter("@publisher", g.publisher));
-                        //cmd.Parameters.Add(new SQLiteParameter("@Is1G1R", g.Is1G1R));
-                        //cmd.Parameters.Add(new SQLiteParameter("@region", g.region));
                         var results = cmd.ExecuteNonQuery();
                     }
                     transaction.Commit();
@@ -267,7 +229,6 @@ namespace RomDatabase5
 
         public static void InsertDiscsBatch(List<Game> games)
         {
-            //breaking the reusable pattern for performance here.
             using (var connection = new SQLiteConnection(conString))
             {
                 connection.Open();
@@ -285,13 +246,6 @@ namespace RomDatabase5
                         cmd.Parameters.Add(new SQLiteParameter("@sha1", g.sha1));
                         cmd.Parameters.Add(new SQLiteParameter("@console", g.consoleID));
                         cmd.Parameters.Add(new SQLiteParameter("@datFile", g.datFileID));
-                        //cmd.Parameters.Add(new SQLiteParameter("@genre", g.genre));
-                        //cmd.Parameters.Add(new SQLiteParameter("@year", g.year));
-                        //cmd.Parameters.Add(new SQLiteParameter("@releaseDate", g.releaseDate));
-                        //cmd.Parameters.Add(new SQLiteParameter("@developer", g.developer));
-                        //cmd.Parameters.Add(new SQLiteParameter("@publisher", g.publisher));
-                        //cmd.Parameters.Add(new SQLiteParameter("@Is1G1R", g.Is1G1R));
-                        //cmd.Parameters.Add(new SQLiteParameter("@region", g.region));
                         var results = cmd.ExecuteNonQuery();
                     }
                     transaction.Commit();
@@ -311,14 +265,6 @@ namespace RomDatabase5
                 cmd.ExecuteNonQuery();
                 cmd.CommandText = CreateIndexConsole;
                 cmd.ExecuteNonQuery();
-                //cmd.CommandText = CreateIndex1G1R;
-                //cmd.ExecuteNonQuery();
-                //cmd.CommandText = CreateIndexGenre;
-                //cmd.ExecuteNonQuery();
-                //cmd.CommandText = CreateIndexReleaseDate;
-                //cmd.ExecuteNonQuery();
-                //cmd.CommandText = CreateIndexYear;
-                //cmd.ExecuteNonQuery();
                 cmd.CommandText = CreateIndexIdentity;
                 cmd.ExecuteNonQuery();
 
@@ -327,14 +273,6 @@ namespace RomDatabase5
                 cmd.ExecuteNonQuery();
                 cmd.CommandText = CreateIndexConsoleD;
                 cmd.ExecuteNonQuery();
-                //cmd.CommandText = CreateIndex1G1RD;
-                //cmd.ExecuteNonQuery();
-                //cmd.CommandText = CreateIndexGenreD;
-                //cmd.ExecuteNonQuery();
-                //cmd.CommandText = CreateIndexReleaseDateD;
-                //cmd.ExecuteNonQuery();
-                //cmd.CommandText = CreateIndexYearD;
-                //cmd.ExecuteNonQuery();
                 cmd.CommandText = CreateIndexIdentityD;
                 cmd.ExecuteNonQuery();
 
@@ -365,13 +303,6 @@ namespace RomDatabase5
                 g.sha1 = reader[6].ToString();
                 g.console = reader[7].ToString();
                 g.datFile = reader[8].ToString();
-                //g.genre = reader[8].ToString();
-                //g.year = Int32.Parse(reader[9].ToString());
-                //g.releaseDate = reader[10].ToString();
-                //g.developer = reader[11].ToString();
-                //g.publisher = reader[12].ToString();
-                //g.Is1G1R = Int32.Parse(reader[13].ToString());
-                //g.region = reader[14].ToString();
                 results.Add(g);
             }
 
@@ -424,7 +355,6 @@ namespace RomDatabase5
             return FindGame(size, hashes[2], hashes[0], hashes[1]);
         }
 
-
         public static Game FindGame(long size, string crc, string md5, string sha1)
         {
             Game g = new Game();
@@ -476,16 +406,8 @@ namespace RomDatabase5
 
             var b = results.Where(r => (int)r.Item2 > 1).ToList();
 
-            //var results = ExecuteSQLiteQueryAsGameList(FindCollisionsDetails);
             return results;
         }
-
-        //public static void SetGameAs1G1R(int id)
-        //{
-        //    List<SQLiteParameter> p = new List<SQLiteParameter>();
-        //    p.Add(new SQLiteParameter("@id", id));
-        //    ExecuteSQLiteNonQueryWithParameters(Set1G1RByID, p);
-        //}
 
         public static List<Game> GetAllGames()
         {
@@ -523,7 +445,6 @@ namespace RomDatabase5
                 return results;
             }
         }
-
 
         public static List<string> GetAllConsoles()
         {

@@ -344,31 +344,6 @@ namespace RomDatabase5
             }
         }
 
-        //public static void Read1G1RFile(string file)
-        //{
-        //    int missingEntries = 0;
-        //    var dat = new System.Xml.XmlDocument();
-        //    dat.Load(file);
-        //    var entries = dat.GetElementsByTagName("rom"); //has actual hash values, game is probably the parent that matters for MAME only.
-        //    foreach (XmlElement entry in entries)
-        //    {
-        //        var tempGame = new Game();
-        //        tempGame.crc = entry.GetAttribute("crc").ToLower();
-        //        tempGame.sha1 = entry.GetAttribute("sha1").ToLower();
-        //        tempGame.md5 = entry.GetAttribute("md5").ToLower();
-        //        tempGame.size = Int64.Parse(entry.GetAttribute("size"));
-
-        //        var gameExists = Database.FindGame(tempGame.size, tempGame.crc, tempGame.md5, tempGame.sha1);
-        //        if (gameExists != null && gameExists.id != null)
-        //            Database.SetGameAs1G1R(gameExists.id);
-        //        else
-        //        {
-        //            //TODO I guess I should insert this entry? For now increment a counter.
-        //            missingEntries++;
-        //        }
-        //    }
-        //}
-
         public static void ReadPinballDatFile(string file)
         {
             string datFile = System.IO.Path.GetFileName(file);
