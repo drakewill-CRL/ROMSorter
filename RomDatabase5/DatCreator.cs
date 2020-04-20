@@ -1,26 +1,25 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.IO.MemoryMappedFiles;
+using System.IO;
+using System.IO.Compression;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.IO.Compression;
-using System.IO;
 
-namespace RomDatabase
+namespace RomDatabase5
 {
-    public static class DatCreator //ported to 5, no further development
+    public static class DatCreator
     {
         //For making my own dat files.
         //XML file with .dat extension
         //Will want for homebrew games, entries on un-maintained lists, etc.
 
-            //Dat files to make:
-            //NES Homebrew
-            //Other consoles homebrew
-            //Hidden Palace prototypes
-            //New demos?
-            //Itch.io console roms
+        //Dat files to make:
+        //NES Homebrew
+        //Other consoles homebrew
+        //Hidden Palace prototypes
+        //New demos?
+        //Itch.io console roms
 
         public static void MakeDat(string folder)
         {
@@ -43,7 +42,7 @@ namespace RomDatabase
             System.IO.DirectoryInfo dir = new System.IO.DirectoryInfo(folder);
 
             sb.AppendLine(GetEntries(folder));
-            
+
             sb.Append("</datafile>");
             var folders = folder.Split('\\');
             var folderName = folders[folders.Length - 1];
@@ -117,7 +116,7 @@ namespace RomDatabase
                 sb.AppendLine("<game name=\"" + entry.name.Replace("&", "&amp;") + "\">");
                 sb.AppendLine("<description>" + entry.description.Replace("&", "&amp;") + "</description>");
                 sb.AppendLine("<console>" + entry.console.Replace("&", "&amp;") + "</console>");
-                sb.AppendLine("<rom name=\"" + entry.name.Replace("&", "&amp;") + "\" size=\"" + entry.size + "\" crc=\"" + entry.crc + "\" md5=\"" + entry.md5 + "\" sha1=\"" +entry.sha1 + "\"/>");
+                sb.AppendLine("<rom name=\"" + entry.name.Replace("&", "&amp;") + "\" size=\"" + entry.size + "\" crc=\"" + entry.crc + "\" md5=\"" + entry.md5 + "\" sha1=\"" + entry.sha1 + "\"/>");
                 sb.AppendLine("</game>");
             }
 
@@ -131,7 +130,7 @@ namespace RomDatabase
                 foreach (var file in files)
                 {
                     sb.AppendLine("<rom name=\"" + file.description.Replace("&", "&amp;") + "\" size=\"" + file.size + "\" crc=\"" + file.crc + "\" md5=\"" + file.md5 + "\" sha1=\"" + file.sha1 + "\"/>");
-                }               
+                }
                 sb.AppendLine("</game>");
             }
 
@@ -159,7 +158,7 @@ namespace RomDatabase
                 }
             }
             zip.Dispose();
-            
+
             results.AppendLine("</game>" + Environment.NewLine);
             return results.ToString();
         }

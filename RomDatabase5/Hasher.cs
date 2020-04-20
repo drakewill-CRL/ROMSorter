@@ -1,18 +1,17 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.IO;
-using System.IO.Compression;
 using System.Linq;
-using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
-using Force.Crc32;
 using SharpCompress;
-using SharpCompress.Archives.Tar;
+using System.Security.Cryptography;
+using Force.Crc32;
+using System.IO.Compression;
+using System.IO;
 
-namespace RomDatabase
+namespace RomDatabase5
 {
-    public static class Hasher //ported to NET 5, no further updates here.
+    class Hasher //fully ported.
     {
         public static bool MatchFile(byte[] fileData, string md5Hash, string sha1Hash, string crcHash)
         {
@@ -29,7 +28,7 @@ namespace RomDatabase
 
             return false;
         }
-        
+
         static string HashToString(byte[] hash)
         {
             StringBuilder sb = new StringBuilder();
@@ -101,5 +100,3 @@ namespace RomDatabase
         }
     }
 }
-
-

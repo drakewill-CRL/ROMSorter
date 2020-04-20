@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RomDatabase.Data
+namespace RomDatabase5
 {
-    public class LookupEntry //ported to 5, no further updates here.
+    public class LookupEntry //placeholder to track which files or zip entries need moved where
     {
         public string originalFileName; //location on disk before processing
         public string destinationFileName; //final location to be moved to
@@ -28,9 +28,8 @@ namespace RomDatabase.Data
         File = 1,
         ZipEntry,
         RarEntry,
-        GZipEntry, 
+        GZipEntry,
         TarEntry,
         SevenZEntry
     }
-
 }

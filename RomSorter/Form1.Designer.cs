@@ -43,6 +43,7 @@
             // 
             // btnPickFolder
             // 
+            this.btnPickFolder.FlatStyle = System.Windows.Forms.FlatStyle.System;
             this.btnPickFolder.Location = new System.Drawing.Point(12, 12);
             this.btnPickFolder.Name = "btnPickFolder";
             this.btnPickFolder.Size = new System.Drawing.Size(171, 22);

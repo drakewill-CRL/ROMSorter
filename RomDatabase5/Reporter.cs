@@ -5,9 +5,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RomDatabase
+namespace RomDatabase5
 {
-    public class Reporter //ported to 5, no further development here
+    public class Reporter //a straight port from the original version. Should re-work this entirely.
     {
         public static void Report(string folder, IProgress<string> p, bool multithread)
         {
@@ -76,7 +76,7 @@ namespace RomDatabase
             missingGames.Append("Missing Games for " + shortFolder + ":" + Environment.NewLine);
             var lookupIDs = gameIDs.ToLookup(g => g, g => g);
             var consoleGames = Database.GetGamesByConsole(shortFolder);
-            foreach(var game in consoleGames)
+            foreach (var game in consoleGames)
             {
                 if (lookupIDs[game.id].Count() == 0)
                 {
@@ -93,7 +93,7 @@ namespace RomDatabase
             results.AppendLine("Missing: " + (consoleGames.Count() - gameIDs.Count()));
 
             p.Report("Finished " + shortFolder);
-            return results.ToString() + Environment.NewLine + foundFiles.ToString() + Environment.NewLine + unknownFiles.ToString() + Environment.NewLine + missingGames.ToString(); 
+            return results.ToString() + Environment.NewLine + foundFiles.ToString() + Environment.NewLine + unknownFiles.ToString() + Environment.NewLine + missingGames.ToString();
         }
     }
 }

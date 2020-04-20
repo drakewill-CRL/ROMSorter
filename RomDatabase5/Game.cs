@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RomSorter.Data
+namespace RomDatabase5
 {
-    public class Game //ported, no further updates here.
+    public class Game
     {
         public int id; //unique, not part of a .dat file.
         public string name;
@@ -26,15 +26,10 @@ namespace RomSorter.Data
         //public int year; //generic year for sorting purposes
         //public string releaseDate; // YYYY-MM-DD where available.
         //public string region; //J, U, E, combos, others
-        
+
         //public string developer;
         //public string publisher; //in case i care about this separately from developer
         //public int Is1G1R; //this entry shows up in a "1 Game 1 Rom" list, for getting rid of bad dumps, dupes, variants, regionals, etc. 0=false, 1=true
         //NOTE: the above probably means I should have a way to link a game to others as a relative/variant/parent-child/etc?
-
-
-
-
-
     }
 }

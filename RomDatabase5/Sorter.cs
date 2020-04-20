@@ -1,19 +1,16 @@
 ﻿using System;
 using System.Collections.Concurrent;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Threading;
 using System.IO;
 using System.IO.Compression;
-using SharpCompress;
-using RomSorter.Data;
-using RomDatabase.Data;
+using System.Linq;
+using System.Text;
+using System.Threading;
+using System.Threading.Tasks;
 
-namespace RomDatabase
+namespace RomDatabase5
 {
-    public static class Sorter //ported to 5, no further development here.
+    public static class Sorter
     {
         //options
         public static bool moveUnidentified = false;
@@ -334,7 +331,7 @@ namespace RomDatabase
                 return;
 
             Parallel.ForEach(unidentifiedFiles.GroupBy(u => u.originalFileName), (uf) => //If we refer to the original file more than once, EX because it's a zip file, we only want to move it once.
-            {    
+            {
                 File.Move(uf.Key, unidentifiedFolder + Path.GetFileName(uf.Key));
                 filesMovedOrExtracted++;
             });
@@ -380,7 +377,7 @@ namespace RomDatabase
                 }
                 zipFile.Dispose();
 
-                if(!PreserveOriginals)
+                if (!PreserveOriginals)
                     File.Delete(zf.Key);
             });
         }

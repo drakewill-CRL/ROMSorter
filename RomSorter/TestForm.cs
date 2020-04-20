@@ -34,7 +34,7 @@ namespace RomSorter
 
         private void button2_Click(object sender, EventArgs e)
         {
-            MessageBox.Show(Database.CountGames(null) + " entries total");
+            MessageBox.Show(Database.CountGames() + " entries total");
         }
 
         private void button3_Click(object sender, EventArgs e)

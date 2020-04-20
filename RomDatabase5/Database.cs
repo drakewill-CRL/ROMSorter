@@ -1,70 +1,12 @@
-﻿//using Microsoft.Data.Sqlite; //uses the lowercase Sql classes
-using System.Data.SQLite; //uses uppercase SQL classes
-using System;
+﻿using System;
 using System.Collections.Generic;
-using System.Xml;
-using RomSorter.Data;
+using System.Data.SQLite;
 using System.Linq;
 
-namespace RomDatabase
+namespace RomDatabase5
 {
-    public class Database //This has been copied to 5, no further development here.
+    public class Database
     {
-        //TODO: port this up to .NET 5 for future developmnent work.
-        //TODO: set up app to create DB and loads dat from an internet location if DB is missing. (Maybe 1 URL for current file and date, 1 URL for actual file. This would let me update apps remotely)
-        //TODO: allow users to load files themselves in case they want to use their own set. Then I have to handle parsing filenames though.
-        //TODO: remember window position on close, restore on start.
-        //TODO: Keep the UI simple. List big counts and big buttons for easy stuff. Maybe a couple drop downs for how to sort games. Checkboxes for toggles.
-        //TODO Set up entities to see if that can save me some time in the future instead of writing boilerplate database code. Or remove the EF as a dependency
-        //TODO: use prepared statements and recycle SQLiteCOmmand objects, changing parameters where possible.
-        //TODO: make the UI use native windows components to look a little more modern. Not totally sure how .NET does that. Might need to just make a modern UI app.
-        //TODO: figure out how to handle files over 2GB in size? This would be for ISOs for modern systems.
-        //TODO enable scanning a folder for duplicate files. (For making dats, mostly, so i dont have to manually find dupes)
-        //TODO: make a way for a user to make a dat file for games they had unidentified for potential inclusion?
-        //TODO: Reporter will also need to look into zip files if the checkbox is selected.
-        //TODO: reporter needs to support discs as well as games. Only scanning by folder name for consoles available in the discs table might help?
-        //NOT TODO: if I use description as filename all the time, I could consolidate this down to one table, but I'd have to add some processing logic to everything to figure out if i need a single file or multiples that way. Lets not do this
-        //TODO: add high-integrity disc dat reading. If an entry is already found in 1 game, check to see if all of its entries match on size/hashes.
-        //TODO: submit NES Homebrew data to TOSEC for their Demo /games file?
-        //TODO: https://api.thegamesdb.net/#/Games/GamesByGameID has all the stuff I initially wanted to include. So I guess I can skip all that stuff for a while.
-        //TODO: code cleanup. Pare down files to used functions and remove commented code
-        //TODO: Set up app to read from zipped DB file (zipped is ~200MB currently, instead of ~500MB)
-        //TODO: redo reporting. Make it use an HTML, and substitute in StringBuilder results instead of this small text file dump.
-        //TODO: reconsider making a 'missing' list feature, since people dont like being told of a game there's only 1 copy of that they will never find.
-        //TODO: make an 'Archivist' mode, that makes a .dat file for everything in it's folder and will scan that .dat to confirm files are still good.
-        //--Ideal use case here is for like, burning onto a disc that sits on a shelf for a couple decades. Let it prove itself out.
-        //TODO: make Sorter a proper class and not a static one.
-        //TODO: will loading the SQLIte DB into memory first make it run faster than running from disk? Probably premature to do, since identifying is so much faster than hashing anyways, but lets go all out for performance on my hobby app.
-        //--make sure to do comparison test.  hash a ton of files, then identify them against HD DB versus memorystream DB.
-        //TODO: clean up the Sorter class for real. Rewrote it, it needs organized.
-        //TODO: figure out right logic for Sorter when a zip file has some identified and some unidentified files
-        //--EX: 1 rom found, 1 support doc not. It may or may not get preserved by PreserverOriginals, and may or may not get moved by MoveUnidentified, in either order.
-        //--maybe should handle zips in HandleZips, and then figure out after handling each entry instead of handling found entries in one spot or unfound in another?
-        //TODO: MAME entries can be identical to games for other systems (particularly BIOS files). Should ponder how to handle those too.
-
-        //TOSEC files were 12-24-2019 release.
-        //NO-INTRO files were  gathered on the date listed, should still be in the filename
-        //Redump.org files for cd-based systems (end of march 2020ish)
-
-        //stuff to track down
-        //non-NES homebrew on NESWorld.com
-
-        //Additional, self-made Dats currently in DB
-        //Tecmo Bowl hacks (several not previously documented, see if there's newer stuff somewhere)
-        //NES Homebrews (several not previously documented) Check itch.io for more.
-        //NES Prototypes (newer discoveries, see HiddenPalace.org for newer dumps than these maintainers have done. Check multiple pages (As table seems to have no NES entries after P, but By Console has lots more)
-        //SMS Prototypes (brand new one!)
-        //SEga CD Prototypes (no one had Penn and Teller yet)
-        //Hidden Palace Prototypes - I have a bunch already from 2008, mostly Sega, should check if they're documented already. Those are.
-        //--Also need to dig through their 'Unused Files' page to see what files might be uploaded and not linked to correctly.
-        //SCUMMVM 2.1 
-        //Future Pinball (in process) from Pleasuredome torrent. Needs to be sorted into single-file and multi-file tables. Not just distribution packs
-        //Visual Pinball (in process) from pleasuredome torrent.
-        //IFArchives ZCode and Glulx game collections (glulx dat file needs re-created with newly found files)
-        //IFArchives other parser games (todo)
-
-        //Starting to feel like my goal is going to be to document all the games, even the forgotten ones and fan-made stuff that might be neglected to archive or collect.
-        //Which is important if you arent just being a major pirate.
 
         #region SQL Commands
         //All my command text is stored up here for referencing elsewhere.
@@ -262,7 +204,7 @@ namespace RomDatabase
             ExecuteSQLiteNonQuery(DropDatFilesTable);
             ExecuteSQLiteNonQuery(CreateDatFilesTable);
 
-            MakeIndexes(); 
+            MakeIndexes();
         }
 
         public static void InsertGame(Game g)

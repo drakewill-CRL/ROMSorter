@@ -1,5 +1,4 @@
-﻿using RomSorter.Data;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -7,9 +6,9 @@ using System.Threading;
 using System.Threading.Tasks;
 using System.Xml;
 
-namespace RomDatabase
+namespace RomDatabase5
 {
-    public static class DATImporter //ported to 5, no futher development here.
+    public static class DATImporter
     {
         //Note: in most clrmamepro format dat files, name and description are identical.
         //In my database, description is the filename, and name is the game name itself
@@ -71,7 +70,7 @@ namespace RomDatabase
 
             var dat = new System.Xml.XmlDocument();
             dat.Load(file);
-            
+
             //find nodes per the spec.
             List<Game> batchInserts = new List<Game>();
             var entries = dat.GetElementsByTagName("rom"); //has actual hash values, game is probably the parent that matters for MAME only.
@@ -97,7 +96,7 @@ namespace RomDatabase
         public static void ParseFileAutoDetect(string file, IProgress<string> progress = null, bool highIntegrity = false)
         {
             //For each entry, decide whether or not its a Game (one file entry) or Disk (multiple files in 1 games)
-            
+
             string consoleName = System.IO.Path.GetFileNameWithoutExtension(file).Split('=')[0].Trim(); //filenames are "Console = Subset[optionalsubtype](TOSEC date).dat
             string datFile = System.IO.Path.GetFileName(file);
 
@@ -124,10 +123,11 @@ namespace RomDatabase
                     string name = entry.GetAttribute("name");
                     int tempInt = 0; //NOTE: some DSi games have just digits for a filename. This makes those human-readable.
                     if (Int32.TryParse(name, out tempInt))
-                        try {
+                        try
+                        {
                             tempGame.name = romFile.GetElementsByTagName("name")[0].InnerText + ".nds"; //TODO: ensure this only applies to NDS games, doesn't trigger for games like 1943.nes
                         }
-                        catch(Exception ex)
+                        catch (Exception ex)
                         {
                             tempGame.name = name;
                         }
@@ -207,7 +207,7 @@ namespace RomDatabase
                 {
                     //write log on duplicate entry.
                     filelock.EnterWriteLock();
-                    System.IO.File.AppendAllLines("insertLog.txt", new List<string>() { "Game '" + tempGame.name + "' in " + datFile  + " already matches existing entry '" + isDupe.name + "' from " + isDupe.datFile });
+                    System.IO.File.AppendAllLines("insertLog.txt", new List<string>() { "Game '" + tempGame.name + "' in " + datFile + " already matches existing entry '" + isDupe.name + "' from " + isDupe.datFile });
                     filelock.ExitWriteLock();
                 }
                 else
@@ -339,7 +339,7 @@ namespace RomDatabase
                 //    filelock.ReleaseWriterLock();
                 //}
                 //else
-                    Database.InsertDiscsBatch(batchInserts);
+                Database.InsertDiscsBatch(batchInserts);
                 batchInserts.Clear();
             }
         }
