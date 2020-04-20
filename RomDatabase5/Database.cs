@@ -8,6 +8,9 @@ namespace RomDatabase5
     public class Database
     {
 
+        //Notes
+        //This app is 20% faster in .NET 5 (2:02 to sort versus 2:32  in 4.5), when only copying over code and libraries directly. Impressive
+
         #region SQL Commands
         //All my command text is stored up here for referencing elsewhere.
 

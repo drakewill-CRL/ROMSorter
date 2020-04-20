@@ -56,9 +56,23 @@ namespace RomSorter5
             }
         }
 
-        private void btnSort_Click(object sender, EventArgs e)
+        private async void btnSort_Click(object sender, EventArgs e)
         {
+            //Sort!
+            System.Diagnostics.Stopwatch sw = new System.Diagnostics.Stopwatch();
+            sw.Start();
 
+            Progress<string> progress = new Progress<string>(s => {
+                lblStatus.Text = s; txtMessageLog.AppendText(s + Environment.NewLine); txtMessageLog.SelectionStart = txtMessageLog.TextLength; txtMessageLog.ScrollToCaret();
+            });
+
+            if (destinationFolder == "")
+                destinationFolder = sourceFolder;
+
+            await Task.Factory.StartNew(() => Sorter.TestAlternatePath(sourceFolder, destinationFolder, progress));
+
+            sw.Stop();
+            lblStatus.Text = "Games sorted in " + sw.Elapsed.ToString();
         }
 
         private void btnReport_Click(object sender, EventArgs e)
