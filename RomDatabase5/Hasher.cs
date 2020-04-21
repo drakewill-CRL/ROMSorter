@@ -4,6 +4,7 @@ using System.Security.Cryptography;
 using Force.Crc32;
 using System.IO.Compression;
 using System.IO;
+using System.Collections.Generic;
 
 namespace RomDatabase5
 {
@@ -65,6 +66,129 @@ namespace RomDatabase5
             br.Close();
             br.Dispose();
             return hashes;
+        }
+
+        public static List<LookupEntry> HashFromZip(string file)
+        {
+            List<LookupEntry> zippedFiles = new List<LookupEntry>();
+            ZipArchive zf = new ZipArchive(new FileStream(file, FileMode.Open));
+            foreach (var entry in zf.Entries)
+            {
+                if (entry.Length > 0)
+                {
+                    var ziphashes = Hasher.HashZipEntry(entry);
+                    if (ziphashes != null) //is null if the zip file entry couldn't be read.
+                    {
+                        LookupEntry le = new LookupEntry();
+                        le.fileType = LookupEntryType.ZipEntry;
+                        le.originalFileName = file;
+                        le.entryPath = entry.FullName;
+                        le.crc = ziphashes[2];
+                        le.sha1 = ziphashes[1];
+                        le.md5 = ziphashes[0];
+                        le.size = entry.Length;
+                        zippedFiles.Add(le);
+                    }
+                }
+            }
+            zf.Dispose();
+            return zippedFiles.Count > 0 ? zippedFiles : null;
+        }
+
+        public static List<LookupEntry> HashFromRar(string file)
+        {
+            List<LookupEntry> zippedFiles = new List<LookupEntry>();
+            var archive = SharpCompress.Archives.Rar.RarArchive.Open(file);
+            foreach (var entry in archive.Entries)
+            {
+                if (entry.Size > 0)
+                {
+                    var ziphashes = Hasher.HashArchiveEntry(entry);
+                    LookupEntry le = new LookupEntry();
+                    le.fileType = LookupEntryType.RarEntry;
+                    le.originalFileName = file;
+                    le.entryPath = entry.Key;
+                    le.crc = ziphashes[2];
+                    le.sha1 = ziphashes[1];
+                    le.md5 = ziphashes[0];
+                    le.size = entry.Size;
+                    zippedFiles.Add(le);
+                }
+            }
+            archive.Dispose();
+            return zippedFiles.Count > 0 ? zippedFiles : null;
+        }
+
+        public static List<LookupEntry> HashFromTar(string file)
+        {
+            List<LookupEntry> zippedFiles = new List<LookupEntry>();
+            var archive = SharpCompress.Archives.Tar.TarArchive.Open(file);
+            foreach (var entry in archive.Entries)
+            {
+                if (entry.Size > 0)
+                {
+                    var ziphashes = Hasher.HashArchiveEntry(entry);
+                    LookupEntry le = new LookupEntry();
+                    le.fileType = LookupEntryType.TarEntry;
+                    le.originalFileName = file;
+                    le.entryPath = entry.Key;
+                    le.crc = ziphashes[2];
+                    le.sha1 = ziphashes[1];
+                    le.md5 = ziphashes[0];
+                    le.size = entry.Size;
+                    zippedFiles.Add(le);
+                }
+            }
+            archive.Dispose();
+            return zippedFiles.Count > 0 ? zippedFiles : null;
+        }
+
+        public static List<LookupEntry> HashFrom7z(string file)
+        {
+            List<LookupEntry> zippedFiles = new List<LookupEntry>();
+            var archive = SharpCompress.Archives.SevenZip.SevenZipArchive.Open(file);
+            foreach (var entry in archive.Entries)
+            {
+                if (entry.Size > 0)
+                {
+                    var ziphashes = Hasher.HashArchiveEntry(entry);
+                    LookupEntry le = new LookupEntry();
+                    le.fileType = LookupEntryType.SevenZEntry;
+                    le.originalFileName = file;
+                    le.entryPath = entry.Key;
+                    le.crc = ziphashes[2];
+                    le.sha1 = ziphashes[1];
+                    le.md5 = ziphashes[0];
+                    le.size = entry.Size;
+                    zippedFiles.Add(le);
+                }
+            }
+            archive.Dispose();
+            return zippedFiles.Count > 0 ? zippedFiles : null;
+        }
+
+        public static List<LookupEntry> HashFromGzip(string file)
+        {
+            List<LookupEntry> zippedFiles = new List<LookupEntry>();
+            var archive = SharpCompress.Archives.GZip.GZipArchive.Open(file);
+            foreach (var entry in archive.Entries)
+            {
+                if (entry.Size > 0)
+                {
+                    var ziphashes = Hasher.HashArchiveEntry(entry);
+                    LookupEntry le = new LookupEntry();
+                    le.fileType = LookupEntryType.GZipEntry;
+                    le.originalFileName = file;
+                    le.entryPath = entry.Key;
+                    le.crc = ziphashes[2];
+                    le.sha1 = ziphashes[1];
+                    le.md5 = ziphashes[0];
+                    le.size = entry.Size;
+                    zippedFiles.Add(le);
+                }
+            }
+            archive.Dispose();
+            return zippedFiles.Count > 0 ? zippedFiles : null;
         }
     }
 }

@@ -67,10 +67,6 @@ namespace RomSorter5
                 lblStatus.Text = s; txtMessageLog.AppendText(s + Environment.NewLine); txtMessageLog.SelectionStart = txtMessageLog.TextLength; txtMessageLog.ScrollToCaret();
             });
 
-            Progress<string> progress2 = new Progress<string>(s => {
-                lblStatus.Text = s; txtMessageLog.AppendText(s + Environment.NewLine); txtMessageLog.SelectionStart = txtMessageLog.TextLength; txtMessageLog.ScrollToCaret();
-            });
-
             if (destinationFolder == "")
                 destinationFolder = sourceFolder;
 
@@ -89,7 +85,12 @@ namespace RomSorter5
 
         private void btnReport_Click(object sender, EventArgs e)
         {
+            //Only scans files and reports data back.
+            Progress<string> progress = new Progress<string>(s => {
+                lblStatus.Text = s; txtMessageLog.AppendText(s + Environment.NewLine); txtMessageLog.SelectionStart = txtMessageLog.TextLength; txtMessageLog.ScrollToCaret();
+            });
 
+            Reporter.ScanFilesOnly(sourceFolder, progress);
         }
 
         private void Form1_Load(object sender, EventArgs e)

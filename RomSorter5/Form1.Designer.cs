@@ -68,7 +68,7 @@
             this.btnSort.Name = "btnSort";
             this.btnSort.Size = new System.Drawing.Size(89, 88);
             this.btnSort.TabIndex = 1;
-            this.btnSort.Text = "Sort!";
+            this.btnSort.Text = "Identify, Sort, and Rename";
             this.btnSort.UseVisualStyleBackColor = true;
             this.btnSort.Click += new System.EventHandler(this.btnSort_Click);
             // 
@@ -115,7 +115,7 @@
             this.btnReport.Name = "btnReport";
             this.btnReport.Size = new System.Drawing.Size(89, 88);
             this.btnReport.TabIndex = 7;
-            this.btnReport.Text = "Report!";
+            this.btnReport.Text = "Identify Only";
             this.btnReport.UseVisualStyleBackColor = true;
             this.btnReport.Click += new System.EventHandler(this.btnReport_Click);
             // 

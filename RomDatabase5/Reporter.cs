@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -22,6 +23,128 @@ namespace RomDatabase5
             sb.Append("Report completed at " + DateTime.Now.ToString() + Environment.NewLine);
 
             File.WriteAllText(folder + "\\RomSorterReport.txt", sb.ToString());
+        }
+
+        static ConcurrentBag<string> files = new ConcurrentBag<string>();
+
+        static void EnumerateAllFiles(string topFolder)
+        {
+            foreach (var file in Directory.EnumerateFiles(topFolder).ToList())
+                files.Add(file);
+            foreach (var folder in Directory.EnumerateDirectories(topFolder).ToList())
+                EnumerateAllFiles(folder);
+        }
+
+        public static void ScanFilesOnly(string topFolder, IProgress<string> progress = null)
+        {
+            //stealing the logic from Sorter, but not doing renames. Only hashing and reporting out found files.
+            System.Diagnostics.Stopwatch sw = new System.Diagnostics.Stopwatch();
+            sw.Start();
+
+            //Step 1: enumerate all files first.
+            files = new ConcurrentBag<string>();
+            progress.Report("Scanning for files");
+            EnumerateAllFiles(topFolder);
+            progress.Report(files.Count() + " files found in " + sw.Elapsed.ToString());
+            sw.Restart();
+
+            //Step 2: hash files, looking into zip files
+            progress.Report("Hashing files");
+            ConcurrentBag<LookupEntry> filesToFind = new ConcurrentBag<LookupEntry>();
+            int hashedFileCount = 0;
+            Parallel.ForEach(files, (file) =>
+            {
+                switch (Path.GetExtension(file))
+                {
+                    case ".zip":
+                        var zipResults = Hasher.HashFromZip(file);
+                        if (zipResults != null)
+                            foreach (var zr in zipResults)
+                                filesToFind.Add(zr);
+                        break;
+                    case ".rar":
+                        var rarResults = Hasher.HashFromRar(file);
+                        foreach (var rr in rarResults)
+                            filesToFind.Add(rr);
+                        break;
+                    case ".gz":
+                    case ".gzip":
+                        var gzResults = Hasher.HashFromGzip(file);
+                        foreach (var gz in gzResults)
+                            filesToFind.Add(gz);
+                        break;
+                    case ".tar":
+                        var tarResults = Hasher.HashFromTar(file);
+                        foreach (var tr in tarResults)
+                            filesToFind.Add(tr);
+                        break;
+                    case ".7z":
+                        var sevenZResults = Hasher.HashFrom7z(file);
+                        foreach (var sz in sevenZResults)
+                            filesToFind.Add(sz);
+                        break;
+                    default:
+                        filesToFind.Add(GetFileHashes(file));
+                        break;
+                }
+
+                hashedFileCount++;
+                progress.Report("Hashed " + file + " (" + hashedFileCount + " done so far)");
+            });
+            progress.Report(filesToFind.Count() + " files hashed in " + sw.Elapsed.ToString());
+
+            //Step 3
+            //identify files we found, including zip entries.
+            progress.Report("Identifying files");
+            sw.Restart();
+            int foundCount = 0;
+            Parallel.ForEach(filesToFind, (possibleGame) =>
+            {
+                var gameEntry = Database.FindGame(possibleGame.size, possibleGame.crc, possibleGame.md5, possibleGame.sha1);
+                if (gameEntry != null)
+                {
+                    foundCount++;
+                    possibleGame.destinationFileName = gameEntry.console + "\\" + gameEntry.description;
+                    possibleGame.console = gameEntry.console;
+                    possibleGame.isIdentified = true;
+                }
+                else
+                {
+                    var discEntries = Database.FindDisc(possibleGame.size, possibleGame.crc, possibleGame.md5, possibleGame.sha1);
+                    if (discEntries.Count > 0)
+                    {
+                        foreach (var de in discEntries)
+                        {
+                            foundCount++;
+                            possibleGame.destinationFileName = de.console + "\\" + de.name + "\\" + de.description;
+                            possibleGame.console = de.console + "\\" + de.name; //Discs treat games as folders
+                            possibleGame.isIdentified = true;
+                        }
+                    }
+                }
+                if (!String.IsNullOrEmpty(possibleGame.destinationFileName))
+                    progress.Report("Identified " + Path.GetFileName(possibleGame.originalFileName) + " as " + Path.GetFileName(possibleGame.destinationFileName));
+                else
+                    progress.Report("Couldn't identify " + Path.GetFileName(possibleGame.originalFileName));
+
+            });
+            progress.Report(foundCount + " files identified out of " + filesToFind.Count() + " in " + sw.Elapsed.ToString());
+            sw.Stop();
+        }
+
+        static LookupEntry GetFileHashes(string file)
+        {
+            var hashes = Hasher.HashFile(File.ReadAllBytes(file));
+            FileInfo fi = new FileInfo(file);
+            LookupEntry le = new LookupEntry();
+            le.originalFileName = file;
+            le.fileType = LookupEntryType.File;
+            le.md5 = hashes[0];
+            le.sha1 = hashes[1];
+            le.crc = hashes[2];
+            le.size = fi.Length;
+
+            return le;
         }
 
         public static string ScanFolder(string folder, IProgress<string> p, bool multithread)

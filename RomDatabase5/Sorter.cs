@@ -55,129 +55,6 @@ namespace RomDatabase5
             return le;
         }
 
-        static List<LookupEntry> HashFromZip(string file)
-        {
-            List<LookupEntry> zippedFiles = new List<LookupEntry>();
-            ZipArchive zf = new ZipArchive(new FileStream(file, FileMode.Open));
-            foreach (var entry in zf.Entries)
-            {
-                if (entry.Length > 0)
-                {
-                    var ziphashes = Hasher.HashZipEntry(entry);
-                    if (ziphashes != null) //is null if the zip file entry couldn't be read.
-                    {
-                        LookupEntry le = new LookupEntry();
-                        le.fileType = LookupEntryType.ZipEntry;
-                        le.originalFileName = file;
-                        le.entryPath = entry.FullName;
-                        le.crc = ziphashes[2];
-                        le.sha1 = ziphashes[1];
-                        le.md5 = ziphashes[0];
-                        le.size = entry.Length;
-                        zippedFiles.Add(le);
-                    }
-                }
-            }
-            zf.Dispose();
-            return zippedFiles.Count > 0 ? zippedFiles : null;
-        }
-
-        static List<LookupEntry> HashFromRar(string file)
-        {
-            List<LookupEntry> zippedFiles = new List<LookupEntry>();
-            var archive = SharpCompress.Archives.Rar.RarArchive.Open(file);
-            foreach (var entry in archive.Entries)
-            {
-                if (entry.Size > 0)
-                {
-                    var ziphashes = Hasher.HashArchiveEntry(entry);
-                    LookupEntry le = new LookupEntry();
-                    le.fileType = LookupEntryType.RarEntry;
-                    le.originalFileName = file;
-                    le.entryPath = entry.Key;
-                    le.crc = ziphashes[2];
-                    le.sha1 = ziphashes[1];
-                    le.md5 = ziphashes[0];
-                    le.size = entry.Size;
-                    zippedFiles.Add(le);
-                }
-            }
-            archive.Dispose();
-            return zippedFiles.Count > 0 ? zippedFiles : null;
-        }
-
-        static List<LookupEntry> HashFromTar(string file)
-        {
-            List<LookupEntry> zippedFiles = new List<LookupEntry>();
-            var archive = SharpCompress.Archives.Tar.TarArchive.Open(file);
-            foreach (var entry in archive.Entries)
-            {
-                if (entry.Size > 0)
-                {
-                    var ziphashes = Hasher.HashArchiveEntry(entry);
-                    LookupEntry le = new LookupEntry();
-                    le.fileType = LookupEntryType.TarEntry;
-                    le.originalFileName = file;
-                    le.entryPath = entry.Key;
-                    le.crc = ziphashes[2];
-                    le.sha1 = ziphashes[1];
-                    le.md5 = ziphashes[0];
-                    le.size = entry.Size;
-                    zippedFiles.Add(le);
-                }
-            }
-            archive.Dispose();
-            return zippedFiles.Count > 0 ? zippedFiles : null;
-        }
-
-        static List<LookupEntry> HashFrom7z(string file)
-        {
-            List<LookupEntry> zippedFiles = new List<LookupEntry>();
-            var archive = SharpCompress.Archives.SevenZip.SevenZipArchive.Open(file);
-            foreach (var entry in archive.Entries)
-            {
-                if (entry.Size > 0)
-                {
-                    var ziphashes = Hasher.HashArchiveEntry(entry);
-                    LookupEntry le = new LookupEntry();
-                    le.fileType = LookupEntryType.SevenZEntry;
-                    le.originalFileName = file;
-                    le.entryPath = entry.Key;
-                    le.crc = ziphashes[2];
-                    le.sha1 = ziphashes[1];
-                    le.md5 = ziphashes[0];
-                    le.size = entry.Size;
-                    zippedFiles.Add(le);
-                }
-            }
-            archive.Dispose();
-            return zippedFiles.Count > 0 ? zippedFiles : null;
-        }
-
-        static List<LookupEntry> HashFromGzip(string file)
-        {
-            List<LookupEntry> zippedFiles = new List<LookupEntry>();
-            var archive = SharpCompress.Archives.GZip.GZipArchive.Open(file);
-            foreach (var entry in archive.Entries)
-            {
-                if (entry.Size > 0)
-                {
-                    var ziphashes = Hasher.HashArchiveEntry(entry);
-                    LookupEntry le = new LookupEntry();
-                    le.fileType = LookupEntryType.GZipEntry;
-                    le.originalFileName = file;
-                    le.entryPath = entry.Key;
-                    le.crc = ziphashes[2];
-                    le.sha1 = ziphashes[1];
-                    le.md5 = ziphashes[0];
-                    le.size = entry.Size;
-                    zippedFiles.Add(le);
-                }
-            }
-            archive.Dispose();
-            return zippedFiles.Count > 0 ? zippedFiles : null;
-        }
-
         public void Sort(string topFolder, string destinationFolder, IProgress<string> progress = null)
         {
             filesMovedOrExtracted = 0;
@@ -206,29 +83,29 @@ namespace RomDatabase5
                 switch (Path.GetExtension(file))
                 {
                     case ".zip":
-                        var zipResults = HashFromZip(file);
+                        var zipResults = Hasher.HashFromZip(file);
                         if (zipResults != null)
                             foreach (var zr in zipResults)
                                 filesToFind.Add(zr);
                         break;
                     case ".rar":
-                        var rarResults = HashFromRar(file);
+                        var rarResults = Hasher.HashFromRar(file);
                         foreach (var rr in rarResults)
                             filesToFind.Add(rr);
                         break;
                     case ".gz":
                     case ".gzip":
-                        var gzResults = HashFromGzip(file);
+                        var gzResults = Hasher.HashFromGzip(file);
                         foreach (var gz in gzResults)
                             filesToFind.Add(gz);
                         break;
                     case ".tar":
-                        var tarResults = HashFromTar(file);
+                        var tarResults = Hasher.HashFromTar(file);
                         foreach (var tr in tarResults)
                             filesToFind.Add(tr);
                         break;
                     case ".7z":
-                        var sevenZResults = HashFrom7z(file);
+                        var sevenZResults = Hasher.HashFrom7z(file);
                         foreach (var sz in sevenZResults)
                             filesToFind.Add(sz);
                         break;
@@ -386,7 +263,7 @@ namespace RomDatabase5
             });
         }
 
-        static void InnerArchiveLoop(SharpCompress.Archives.IArchive file, IGrouping<string, LookupEntry> entries)
+        void InnerArchiveLoop(SharpCompress.Archives.IArchive file, IGrouping<string, LookupEntry> entries)
         {
             foreach (var entryToFind in entries)
             {
@@ -395,7 +272,11 @@ namespace RomDatabase5
                     var entry = file.Entries.Where(e => e.Key == entryToFind.entryPath).FirstOrDefault();
                     byte[] fileData = new byte[entry.Size];
                     new BinaryReader(entry.OpenEntryStream()).Read(fileData, 0, (int)entry.Size);
-                    File.WriteAllBytes(entryToFind.destinationFileName, fileData);
+
+                    if (ZipInsteadOfMove)
+                    { }
+                    else
+                        File.WriteAllBytes(entryToFind.destinationFileName, fileData);
                 }
                 filesMovedOrExtracted++;
             }
@@ -453,22 +334,22 @@ namespace RomDatabase5
             });
         }
 
-        static void MoveFile(string folderpath, string localFilepath, string newFileName)
-        {
-            //Sanity check - if we would move this file to it's current location, don't. (EX: scanning a folder named Unidentified and finding an unidentified file)
-            if (localFilepath == folderpath + "\\" + newFileName)
-                return;
+        //static void MoveFile(string folderpath, string localFilepath, string newFileName)
+        //{
+        //    //Sanity check - if we would move this file to it's current location, don't. (EX: scanning a folder named Unidentified and finding an unidentified file)
+        //    if (localFilepath == folderpath + "\\" + newFileName)
+        //        return;
 
-            Directory.CreateDirectory(folderpath); //does nothing if folder already exists
-            if (!File.Exists(folderpath + "\\" + newFileName))
-                File.Move(localFilepath, folderpath + "\\" + newFileName);
-            else if (localFilepath != folderpath + "\\" + newFileName) //If we scan a directory that's also a destination, don't remove the file that we were going to move onto itself.
-                File.Delete(localFilepath);
-        }
+        //    Directory.CreateDirectory(folderpath); //does nothing if folder already exists
+        //    if (!File.Exists(folderpath + "\\" + newFileName))
+        //        File.Move(localFilepath, folderpath + "\\" + newFileName);
+        //    else if (localFilepath != folderpath + "\\" + newFileName) //If we scan a directory that's also a destination, don't remove the file that we were going to move onto itself.
+        //        File.Delete(localFilepath);
+        //}
 
         static void CreateSingleZip(string file, string zipPath)
         {
-            Directory.CreateDirectory(Path.GetDirectoryName(zipPath)); //does nothing if folder already exists
+            //Directory.CreateDirectory(Path.GetDirectoryName(zipPath)); //does nothing if folder already exists
             FileStream fs;
             if (!File.Exists(zipPath))
             {
