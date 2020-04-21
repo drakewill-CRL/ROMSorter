@@ -353,7 +353,6 @@ namespace RomDatabase5
             int consoleID = Database.GetConsoleID(console);
             int datFileID = Database.GetDatFileID(datFile);
 
-            int missingEntries = 0;
             var dat = new System.Xml.XmlDocument();
             dat.Load(file);
             List<Game> batchInserts = new List<Game>();

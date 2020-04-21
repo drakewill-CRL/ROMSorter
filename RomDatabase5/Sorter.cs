@@ -10,24 +10,29 @@ using System.Threading.Tasks;
 
 namespace RomDatabase5
 {
-    public static class Sorter
+    public class Sorter
     {
         //options
-        public static bool moveUnidentified = false;
-        public static bool ZipInsteadOfMove = false;
-        public static bool UseMultithreading = true;
-        public static bool PreserveOriginals = true;
-        public static bool DisplayAllInfo = false; //Not Yet Implemented - sets FilesToReportBetween to 1.
+        public bool moveUnidentified = false;
+        public bool ZipInsteadOfMove = false;
+        public bool UseMultithreading = true;
+        public bool PreserveOriginals = true;
+        public bool DisplayAllInfo = false; //Not Yet Implemented - sets FilesToReportBetween to 1.
 
         //internal stuff.
         static string tempFolderPath = Path.GetTempPath();
+        static string topFolder = "";
 
         static ConcurrentBag<string> files = new ConcurrentBag<string>();
 
         static int filesMovedOrExtracted = 0;
         static int filesToReportBetween = 1000; //set to 1% of the workload or 1000 files during sorting to keep the user aware that its doing work.
 
-        public static void EnumerateAllFiles(string topFolder)
+        public Sorter()
+        {
+        }
+
+        static void EnumerateAllFiles(string topFolder)
         {
             foreach (var file in Directory.EnumerateFiles(topFolder).ToList())
                 files.Add(file);
@@ -35,7 +40,7 @@ namespace RomDatabase5
                 EnumerateAllFiles(folder);
         }
 
-        public static LookupEntry GetFileHashes(string file)
+        static LookupEntry GetFileHashes(string file)
         {
             var hashes = Hasher.HashFile(File.ReadAllBytes(file));
             FileInfo fi = new FileInfo(file);
@@ -50,7 +55,7 @@ namespace RomDatabase5
             return le;
         }
 
-        public static List<LookupEntry> HashFromZip(string file)
+        static List<LookupEntry> HashFromZip(string file)
         {
             List<LookupEntry> zippedFiles = new List<LookupEntry>();
             ZipArchive zf = new ZipArchive(new FileStream(file, FileMode.Open));
@@ -77,7 +82,7 @@ namespace RomDatabase5
             return zippedFiles.Count > 0 ? zippedFiles : null;
         }
 
-        public static List<LookupEntry> HashFromRar(string file)
+        static List<LookupEntry> HashFromRar(string file)
         {
             List<LookupEntry> zippedFiles = new List<LookupEntry>();
             var archive = SharpCompress.Archives.Rar.RarArchive.Open(file);
@@ -85,7 +90,7 @@ namespace RomDatabase5
             {
                 if (entry.Size > 0)
                 {
-                    var ziphashes = Hasher.HashRarEntry(entry);
+                    var ziphashes = Hasher.HashArchiveEntry(entry);
                     LookupEntry le = new LookupEntry();
                     le.fileType = LookupEntryType.RarEntry;
                     le.originalFileName = file;
@@ -101,7 +106,7 @@ namespace RomDatabase5
             return zippedFiles.Count > 0 ? zippedFiles : null;
         }
 
-        public static List<LookupEntry> HashFromTar(string file)
+        static List<LookupEntry> HashFromTar(string file)
         {
             List<LookupEntry> zippedFiles = new List<LookupEntry>();
             var archive = SharpCompress.Archives.Tar.TarArchive.Open(file);
@@ -125,7 +130,7 @@ namespace RomDatabase5
             return zippedFiles.Count > 0 ? zippedFiles : null;
         }
 
-        public static List<LookupEntry> HashFrom7z(string file)
+        static List<LookupEntry> HashFrom7z(string file)
         {
             List<LookupEntry> zippedFiles = new List<LookupEntry>();
             var archive = SharpCompress.Archives.SevenZip.SevenZipArchive.Open(file);
@@ -149,7 +154,7 @@ namespace RomDatabase5
             return zippedFiles.Count > 0 ? zippedFiles : null;
         }
 
-        public static List<LookupEntry> HashFromGzip(string file)
+        static List<LookupEntry> HashFromGzip(string file)
         {
             List<LookupEntry> zippedFiles = new List<LookupEntry>();
             var archive = SharpCompress.Archives.GZip.GZipArchive.Open(file);
@@ -173,7 +178,7 @@ namespace RomDatabase5
             return zippedFiles.Count > 0 ? zippedFiles : null;
         }
 
-        public static void Sort(string topFolder, string destinationFolder, IProgress<string> progress = null)
+        public void Sort(string topFolder, string destinationFolder, IProgress<string> progress = null)
         {
             filesMovedOrExtracted = 0;
             System.Diagnostics.Stopwatch sw = new System.Diagnostics.Stopwatch();
@@ -189,7 +194,7 @@ namespace RomDatabase5
             filesToReportBetween = files.Count() / 100;
             if (filesToReportBetween > 1000)
                 filesToReportBetween = 1000;
-            if (filesToReportBetween < 1)
+            if (filesToReportBetween < 1 || DisplayAllInfo)
                 filesToReportBetween = 1;
 
             //Step 2: hash files, looking into zip files
@@ -315,7 +320,7 @@ namespace RomDatabase5
             sw.Stop();
         }
 
-        public static void CleanupLoop(string folder)
+        void CleanupLoop(string folder)
         {
             foreach (var subfolder in Directory.EnumerateDirectories(folder))
                 CleanupLoop(subfolder);
@@ -324,7 +329,7 @@ namespace RomDatabase5
                 Directory.Delete(folder);
         }
 
-        public static void HandleUnidentifiedFiles(List<LookupEntry> unidentifiedFiles, string unidentifiedFolder)
+        void HandleUnidentifiedFiles(List<LookupEntry> unidentifiedFiles, string unidentifiedFolder)
         {
             if (!moveUnidentified)
                 return;
@@ -336,7 +341,7 @@ namespace RomDatabase5
             });
         }
 
-        public static void HandlePlainFiles(List<LookupEntry> plainFiles)
+        void HandlePlainFiles(List<LookupEntry> plainFiles)
         {
             Parallel.ForEach(plainFiles, (pf) =>
             {
@@ -360,7 +365,7 @@ namespace RomDatabase5
             });
         }
 
-        public static void HandleZipEntries(List<IGrouping<string, LookupEntry>> zippedFiles)
+        void HandleZipEntries(List<IGrouping<string, LookupEntry>> zippedFiles)
         {
             Parallel.ForEach(zippedFiles, (zf) =>
             {
@@ -396,7 +401,7 @@ namespace RomDatabase5
             }
         }
 
-        public static void HandleRarEntries(List<IGrouping<string, LookupEntry>> raredFiles)
+        void HandleRarEntries(List<IGrouping<string, LookupEntry>> raredFiles)
         {
             Parallel.ForEach(raredFiles, (rf) =>
             {
@@ -409,7 +414,7 @@ namespace RomDatabase5
             });
         }
 
-        public static void Handle7zEntries(List<IGrouping<string, LookupEntry>> sevenZdFiles)
+        void Handle7zEntries(List<IGrouping<string, LookupEntry>> sevenZdFiles)
         {
             Parallel.ForEach(sevenZdFiles, (sz) =>
             {
@@ -422,7 +427,7 @@ namespace RomDatabase5
             });
         }
 
-        public static void HandleGZipEntries(List<IGrouping<string, LookupEntry>> gZippedFiles)
+        void HandleGZipEntries(List<IGrouping<string, LookupEntry>> gZippedFiles)
         {
             Parallel.ForEach(gZippedFiles, (gz) =>
             {
@@ -435,7 +440,7 @@ namespace RomDatabase5
             });
         }
 
-        public static void HandleTarEntries(List<IGrouping<string, LookupEntry>> taredFiles)
+        void HandleTarEntries(List<IGrouping<string, LookupEntry>> taredFiles)
         {
             Parallel.ForEach(taredFiles, (tf) =>
             {

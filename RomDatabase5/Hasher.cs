@@ -1,9 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
-using SharpCompress;
 using System.Security.Cryptography;
 using Force.Crc32;
 using System.IO.Compression;
@@ -57,18 +53,6 @@ namespace RomDatabase5
             {
                 return null; //most likely the zip wasn't readable.
             }
-        }
-
-        public static string[] HashRarEntry(SharpCompress.Archives.Rar.RarArchiveEntry entry)
-        {
-            var br = new BinaryReader(entry.OpenEntryStream());
-            byte[] data = new byte[(int)entry.Size];
-            br.Read(data, 0, (int)entry.Size);
-            var hashes = Hasher.HashFile(data);
-            data = null;
-            br.Close();
-            br.Dispose();
-            return hashes;
         }
 
         public static string[] HashArchiveEntry(SharpCompress.Archives.IArchiveEntry entry)

@@ -99,7 +99,6 @@ namespace RomSorter
         {
             //find collisions
              var results = Database.FindCollisions(); //There's over 8000 collisions on CRCs. I will always check all 3 hashes.
-            var a = 1; 
         }
 
         private void button9_Click(object sender, EventArgs e)

@@ -36,5 +36,20 @@ namespace RomSorter5
         {
             DatCreator.DumpDBToDat();
         }
+
+        private void btnCountbyConsole_Click(object sender, EventArgs e)
+        {
+            var results = Database.CountGamesByConsole();
+
+            StringBuilder sb = new StringBuilder();
+            sb.Append("<html><head></head><body><ul>");
+
+            sb.Append(string.Join(Environment.NewLine, results.Select(r => "<li>" + r.Item1.ToString() + " : " + r.Item2.ToString() + "</li>")));
+
+            sb.Append("<ul></body></html>");
+
+            System.IO.File.WriteAllText("CountByConsole.html", sb.ToString());
+            System.Diagnostics.Process.Start("file://" + Environment.CurrentDirectory + "\\CountByConsole.html");
+        }
     }
 }

@@ -39,6 +39,7 @@
             this.chkPreserveOriginals = new System.Windows.Forms.CheckBox();
             this.txtMessageLog = new System.Windows.Forms.TextBox();
             this.btnPickDestination = new System.Windows.Forms.Button();
+            this.chkDisplayAllActions = new System.Windows.Forms.CheckBox();
             this.SuspendLayout();
             // 
             // btnPickFolder
@@ -164,11 +165,24 @@
             this.btnPickDestination.UseVisualStyleBackColor = true;
             this.btnPickDestination.Click += new System.EventHandler(this.btnPickDestination_Click);
             // 
+            // chkDisplayAllActions
+            // 
+            this.chkDisplayAllActions.AutoSize = true;
+            this.chkDisplayAllActions.FlatStyle = System.Windows.Forms.FlatStyle.System;
+            this.chkDisplayAllActions.Location = new System.Drawing.Point(19, 276);
+            this.chkDisplayAllActions.Name = "chkDisplayAllActions";
+            this.chkDisplayAllActions.Size = new System.Drawing.Size(130, 20);
+            this.chkDisplayAllActions.TabIndex = 9;
+            this.chkDisplayAllActions.Text = "Display All Actions";
+            this.chkDisplayAllActions.UseVisualStyleBackColor = true;
+            this.chkDisplayAllActions.CheckedChanged += new System.EventHandler(this.chkDisplayAllActions_CheckedChanged);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(226, 533);
+            this.Controls.Add(this.chkDisplayAllActions);
             this.Controls.Add(this.btnPickDestination);
             this.Controls.Add(this.txtMessageLog);
             this.Controls.Add(this.chkPreserveOriginals);
@@ -201,6 +215,7 @@
         private System.Windows.Forms.CheckBox chkPreserveOriginals;
         private System.Windows.Forms.TextBox txtMessageLog;
         private System.Windows.Forms.Button btnPickDestination;
+        private System.Windows.Forms.CheckBox chkDisplayAllActions;
     }
 }
 

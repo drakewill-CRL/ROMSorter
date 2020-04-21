@@ -74,7 +74,14 @@ namespace RomSorter5
             if (destinationFolder == "")
                 destinationFolder = sourceFolder;
 
-            await Task.Factory.StartNew(() => Sorter.Sort(sourceFolder, destinationFolder, progress));
+            Sorter sorter = new Sorter();
+            sorter.DisplayAllInfo = chkDisplayAllActions.Checked;
+            sorter.moveUnidentified = chkMoveUnidentified.Checked;
+            sorter.PreserveOriginals = chkPreserveOriginals.Checked;
+            sorter.UseMultithreading = chkMultithread.Checked;
+            sorter.ZipInsteadOfMove = chkZipIdentified.Checked;
+
+            await Task.Factory.StartNew(() => sorter.Sort(sourceFolder, destinationFolder, progress));
 
             sw.Stop();
             lblStatus.Text = "Games sorted in " + sw.Elapsed.ToString();
@@ -104,6 +111,11 @@ namespace RomSorter5
             int games = Database.CountGames();
             int systems = Database.CountGamesByConsole().Count();
             progress.Report(games + " games across " + systems + " platforms.");
+
+        }
+
+        private void chkDisplayAllActions_CheckedChanged(object sender, EventArgs e)
+        {
 
         }
     }

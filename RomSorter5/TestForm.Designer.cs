@@ -32,6 +32,7 @@
             this.btnCreateDats = new System.Windows.Forms.Button();
             this.ofdDats = new System.Windows.Forms.OpenFileDialog();
             this.btnDBtoDAT = new System.Windows.Forms.Button();
+            this.btnCountbyConsole = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnReloadAllHighIntegrity
@@ -70,11 +71,22 @@
             this.btnDBtoDAT.UseVisualStyleBackColor = true;
             this.btnDBtoDAT.Click += new System.EventHandler(this.btnDBtoDAT_Click);
             // 
+            // btnCountbyConsole
+            // 
+            this.btnCountbyConsole.Location = new System.Drawing.Point(423, 19);
+            this.btnCountbyConsole.Name = "btnCountbyConsole";
+            this.btnCountbyConsole.Size = new System.Drawing.Size(108, 41);
+            this.btnCountbyConsole.TabIndex = 2;
+            this.btnCountbyConsole.Text = "Count Entries By Console";
+            this.btnCountbyConsole.UseVisualStyleBackColor = true;
+            this.btnCountbyConsole.Click += new System.EventHandler(this.btnCountbyConsole_Click);
+            // 
             // TestForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnCountbyConsole);
             this.Controls.Add(this.btnDBtoDAT);
             this.Controls.Add(this.btnCreateDats);
             this.Controls.Add(this.btnReloadAllHighIntegrity);
@@ -90,5 +102,6 @@
         private System.Windows.Forms.Button btnCreateDats;
         private System.Windows.Forms.OpenFileDialog ofdDats;
         private System.Windows.Forms.Button btnDBtoDAT;
+        private System.Windows.Forms.Button btnCountbyConsole;
     }
 }

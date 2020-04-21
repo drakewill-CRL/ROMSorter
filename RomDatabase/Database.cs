@@ -527,7 +527,6 @@ namespace RomDatabase
         {
             //TODO: check other fields for collisions too
             var results = ExecuteSQLiteQueryAsTuple(FindCollisionsCountCRC);
-            var a = 1;
 
             var b = results.Where(r => (int)r.Item2 > 1).ToList();
 
