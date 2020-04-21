@@ -31,6 +31,7 @@
             this.btnReloadAllHighIntegrity = new System.Windows.Forms.Button();
             this.btnCreateDats = new System.Windows.Forms.Button();
             this.ofdDats = new System.Windows.Forms.OpenFileDialog();
+            this.btnDBtoDAT = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnReloadAllHighIntegrity
@@ -59,11 +60,22 @@
             this.ofdDats.FileName = "Folder Selection";
             this.ofdDats.ValidateNames = false;
             // 
+            // btnDBtoDAT
+            // 
+            this.btnDBtoDAT.Location = new System.Drawing.Point(637, 105);
+            this.btnDBtoDAT.Name = "btnDBtoDAT";
+            this.btnDBtoDAT.Size = new System.Drawing.Size(103, 38);
+            this.btnDBtoDAT.TabIndex = 1;
+            this.btnDBtoDAT.Text = "Make Dat From DB";
+            this.btnDBtoDAT.UseVisualStyleBackColor = true;
+            this.btnDBtoDAT.Click += new System.EventHandler(this.btnDBtoDAT_Click);
+            // 
             // TestForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnDBtoDAT);
             this.Controls.Add(this.btnCreateDats);
             this.Controls.Add(this.btnReloadAllHighIntegrity);
             this.Name = "TestForm";
@@ -77,5 +89,6 @@
         private System.Windows.Forms.Button btnReloadAllHighIntegrity;
         private System.Windows.Forms.Button btnCreateDats;
         private System.Windows.Forms.OpenFileDialog ofdDats;
+        private System.Windows.Forms.Button btnDBtoDAT;
     }
 }

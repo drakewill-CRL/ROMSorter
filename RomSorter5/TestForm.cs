@@ -31,5 +31,10 @@ namespace RomSorter5
                 MessageBox.Show("Dat file made");
             }
         }
+
+        private void btnDBtoDAT_Click(object sender, EventArgs e)
+        {
+            DatCreator.DumpDBToDat();
+        }
     }
 }
