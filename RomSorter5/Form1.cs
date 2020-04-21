@@ -83,14 +83,30 @@ namespace RomSorter5
             lblStatus.Text = "Games sorted in " + sw.Elapsed.ToString();
         }
 
-        private void btnReport_Click(object sender, EventArgs e)
+        private async void btnReport_Click(object sender, EventArgs e)
         {
             //Only scans files and reports data back.
+            //Sort!
+            System.Diagnostics.Stopwatch sw = new System.Diagnostics.Stopwatch();
+            sw.Start();
+
             Progress<string> progress = new Progress<string>(s => {
                 lblStatus.Text = s; txtMessageLog.AppendText(s + Environment.NewLine); txtMessageLog.SelectionStart = txtMessageLog.TextLength; txtMessageLog.ScrollToCaret();
             });
 
-            Reporter.ScanFilesOnly(sourceFolder, progress);
+            if (destinationFolder == "")
+                destinationFolder = sourceFolder;
+
+            Sorter sorter = new Sorter();
+            sorter.DisplayAllInfo = true; //always on for info-only.
+            sorter.PreserveOriginals = chkPreserveOriginals.Checked;
+            sorter.UseMultithreading = chkMultithread.Checked;
+            sorter.IdentifyOnly = true; //doesnt rename or move anything.
+
+            await Task.Factory.StartNew(() => sorter.Sort(sourceFolder, destinationFolder, progress));
+
+            sw.Stop();
+            lblStatus.Text = "Games identified in " + sw.Elapsed.ToString();
         }
 
         private void Form1_Load(object sender, EventArgs e)

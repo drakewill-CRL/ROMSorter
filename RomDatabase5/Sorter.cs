@@ -17,7 +17,8 @@ namespace RomDatabase5
         public bool ZipInsteadOfMove = false;
         public bool UseMultithreading = true;
         public bool PreserveOriginals = true;
-        public bool DisplayAllInfo = false; //Not Yet Implemented - sets FilesToReportBetween to 1.
+        public bool DisplayAllInfo = false; 
+        public bool IdentifyOnly = false;
 
         //internal stuff.
         static string tempFolderPath = Path.GetTempPath();
@@ -150,11 +151,22 @@ namespace RomDatabase5
                     }
                 }
                 if (foundCount % filesToReportBetween == 0)
-                    progress.Report("Identified " + Path.GetFileName(possibleGame.originalFileName) + " as" + Path.GetFileName(possibleGame.destinationFileName) + "(" + foundCount + " done so far)");
+                {
+                    if (!String.IsNullOrEmpty(possibleGame.destinationFileName))
+                        progress.Report("Identified " + Path.GetFileName(possibleGame.originalFileName) + " as " + Path.GetFileName(possibleGame.destinationFileName));
+                    else
+                        progress.Report("Couldn't identify " + Path.GetFileName(possibleGame.originalFileName));
+                }
 
             });
             progress.Report(foundCount + " files identified in " + sw.Elapsed.ToString());
             sw.Restart();
+
+            if (IdentifyOnly)
+            {
+                sw.Stop();
+                return;
+            }    
 
             //step 4
             //start moving files. Requires a little bit of organizing in case a zip has multiple files and they are split between ID'd and un-ID'd. Might need an extra function
