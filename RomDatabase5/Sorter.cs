@@ -21,21 +21,17 @@ namespace RomDatabase5
         public bool IdentifyOnly = false;
 
         //internal stuff.
-        static string tempFolderPath = Path.GetTempPath();
-        static string topFolder = "";
-        Hasher hasher;
+        string tempFolderPath = Path.GetTempPath();
+        ConcurrentBag<string> files = new ConcurrentBag<string>();
 
-        static ConcurrentBag<string> files = new ConcurrentBag<string>();
-
-        static int filesMovedOrExtracted = 0;
-        static int filesToReportBetween = 1000; //set to 1% of the workload or 1000 files during sorting to keep the user aware that its doing work.
+        int filesMovedOrExtracted = 0;
+        int filesToReportBetween = 1000; //set to 1% of the workload or 1000 files during sorting to keep the user aware that its doing work.
 
         public Sorter()
         {
-            hasher = new Hasher();
         }
 
-        static void EnumerateAllFiles(string topFolder)
+        void EnumerateAllFiles(string topFolder)
         {
             foreach (var file in Directory.EnumerateFiles(topFolder).ToList())
                 files.Add(file);
@@ -43,8 +39,9 @@ namespace RomDatabase5
                 EnumerateAllFiles(folder);
         }
 
-        LookupEntry GetFileHashes(string file)
+        LookupEntry GetFileHashes(string file, Hasher hasher)
         {
+
             var hashes = hasher.HashFile(File.ReadAllBytes(file));
             FileInfo fi = new FileInfo(file);
             LookupEntry le = new LookupEntry();
@@ -83,6 +80,8 @@ namespace RomDatabase5
             int hashedFileCount = 0;
             Parallel.ForEach(files, (file) =>
             {
+                //Making a new Hasher() per thread is faster than sharing 1 across all thread.
+                Hasher hasher = new Hasher();
                 switch (Path.GetExtension(file))
                 {
                     case ".zip":
@@ -113,7 +112,7 @@ namespace RomDatabase5
                             filesToFind.Add(sz);
                         break;
                     default:
-                        filesToFind.Add(GetFileHashes(file));
+                        filesToFind.Add(GetFileHashes(file, hasher));
                         break;
                 }
 
@@ -152,10 +151,10 @@ namespace RomDatabase5
                         }
                     }
                 }
-                if (foundCount % filesToReportBetween == 0)
-                {
-                    if (!String.IsNullOrEmpty(possibleGame.destinationFileName))
-                        progress.Report("Identified " + Path.GetFileName(possibleGame.originalFileName) + " as " + Path.GetFileName(possibleGame.destinationFileName));
+            if (foundCount % filesToReportBetween == 0)
+            {
+                if (!String.IsNullOrEmpty(possibleGame.destinationFileName))
+                    progress.Report("Identified " + Path.GetFileName(possibleGame.originalFileName) + (possibleGame.entryPath == null ? "" : "[" + possibleGame.entryPath + "]") + " as " + Path.GetFileName(possibleGame.destinationFileName));
                     else
                         progress.Report("Couldn't identify " + Path.GetFileName(possibleGame.originalFileName));
                 }
@@ -174,6 +173,8 @@ namespace RomDatabase5
             //start moving files. Requires a little bit of organizing in case a zip has multiple files and they are split between ID'd and un-ID'd. Might need an extra function
             var unidentified = filesToFind.Where(f => !f.isIdentified).ToList();
             var foundFiles = filesToFind.Where(f => f.isIdentified).ToList();
+            var problemZips = unidentified.Where(w => foundFiles.Select(f => f.originalFileName).Distinct().ToList().Contains(w.originalFileName)); //probably not optimally performing. Will need to work on this later.
+
             var plainFiles = foundFiles.Where(f => f.fileType == LookupEntryType.File).ToList();
             var zippedFiles = foundFiles.Where(f => f.fileType == LookupEntryType.ZipEntry).GroupBy(f => f.originalFileName).ToList();
             var raredFiles = foundFiles.Where(f => f.fileType == LookupEntryType.RarEntry).GroupBy(f => f.originalFileName).ToList();
