@@ -10,6 +10,7 @@ namespace RomDatabase5
 {
     public class Reporter //a straight port from the original version. Should re-work this entirely.
     {
+        static Hasher hasher = new Hasher();
         public static void Report(string folder, IProgress<string> p, bool multithread)
         {
             //We're digging through a folder, marking which files are found.
@@ -27,7 +28,7 @@ namespace RomDatabase5
 
         static LookupEntry GetFileHashes(string file)
         {
-            var hashes = Hasher.HashFile(File.ReadAllBytes(file));
+            var hashes = hasher.HashFile(File.ReadAllBytes(file));
             FileInfo fi = new FileInfo(file);
             LookupEntry le = new LookupEntry();
             le.originalFileName = file;
@@ -76,7 +77,7 @@ namespace RomDatabase5
             foreach (var file in filesToScan)
             {
                 var fi = new FileInfo(file);
-                var game = Database.FindGame((int)fi.Length, Hasher.HashFile(File.ReadAllBytes(file)));
+                var game = Database.FindGame((int)fi.Length, hasher.HashFile(File.ReadAllBytes(file)));
                 if (game != null && game.id != null)
                 {
                     foundFiles.AppendLine("Identified " + fi.Name + " as " + game.name);

@@ -8,9 +8,25 @@ using System.Collections.Generic;
 
 namespace RomDatabase5
 {
-    class Hasher
+    public class Hasher
     {
-        static string HashToString(byte[] hash)
+        MD5 md5;
+        SHA1 sha1;
+        Crc32Algorithm crc;
+
+        //TODO: are there any other ways I can speed this up? 
+        //EX: should pass fileData byref when big files are involved instead of making multiple copies of an ISO in memory?
+        //should HashToString(ComputeHash()) be a task for big files?
+        //And do those hurt performance on small files more than they help on big ones?
+
+        public Hasher()
+        {
+            md5 = MD5.Create();
+            sha1 = SHA1.Create();
+            crc = new Crc32Algorithm();
+        }
+
+        string HashToString(byte[] hash)
         {
             StringBuilder sb = new StringBuilder();
             for (int i = 0; i < hash.Length; i++)
@@ -22,12 +38,9 @@ namespace RomDatabase5
             return sb.ToString().ToLower();
         }
 
-        public static string[] HashFile(byte[] fileData)
+        public string[] HashFile(byte[] fileData)
         {
             //hashes files all 3 ways. 
-            MD5 md5 = MD5.Create();
-            SHA1 sha1 = SHA1.Create();
-            Crc32Algorithm crc = new Crc32Algorithm();
 
             string[] results = new string[3];
             results[0] = HashToString(md5.ComputeHash(fileData));
@@ -37,14 +50,14 @@ namespace RomDatabase5
             return results;
         }
 
-        public static string[] HashZipEntry(ZipArchiveEntry entry)
+        public string[] HashZipEntry(ZipArchiveEntry entry)
         {
             try
             {
                 var br = new BinaryReader(entry.Open());
                 byte[] data = new byte[(int)entry.Length];
                 br.Read(data, 0, (int)entry.Length);
-                var hashes = Hasher.HashFile(data);
+                var hashes = HashFile(data);
                 data = null;
                 br.Close();
                 br.Dispose();
@@ -56,19 +69,19 @@ namespace RomDatabase5
             }
         }
 
-        public static string[] HashArchiveEntry(SharpCompress.Archives.IArchiveEntry entry)
+        public string[] HashArchiveEntry(SharpCompress.Archives.IArchiveEntry entry)
         {
             var br = new BinaryReader(entry.OpenEntryStream());
             byte[] data = new byte[(int)entry.Size];
             br.Read(data, 0, (int)entry.Size);
-            var hashes = Hasher.HashFile(data);
+            var hashes = HashFile(data);
             data = null;
             br.Close();
             br.Dispose();
             return hashes;
         }
 
-        public static List<LookupEntry> HashFromZip(string file)
+        public List<LookupEntry> HashFromZip(string file)
         {
             List<LookupEntry> zippedFiles = new List<LookupEntry>();
             ZipArchive zf = new ZipArchive(new FileStream(file, FileMode.Open));
@@ -76,7 +89,7 @@ namespace RomDatabase5
             {
                 if (entry.Length > 0)
                 {
-                    var ziphashes = Hasher.HashZipEntry(entry);
+                    var ziphashes = HashZipEntry(entry);
                     if (ziphashes != null) //is null if the zip file entry couldn't be read.
                     {
                         LookupEntry le = new LookupEntry();
@@ -95,7 +108,7 @@ namespace RomDatabase5
             return zippedFiles.Count > 0 ? zippedFiles : null;
         }
 
-        public static List<LookupEntry> HashFromRar(string file)
+        public List<LookupEntry> HashFromRar(string file)
         {
             List<LookupEntry> zippedFiles = new List<LookupEntry>();
             var archive = SharpCompress.Archives.Rar.RarArchive.Open(file);
@@ -103,7 +116,7 @@ namespace RomDatabase5
             {
                 if (entry.Size > 0)
                 {
-                    var ziphashes = Hasher.HashArchiveEntry(entry);
+                    var ziphashes = HashArchiveEntry(entry);
                     LookupEntry le = new LookupEntry();
                     le.fileType = LookupEntryType.RarEntry;
                     le.originalFileName = file;
@@ -119,7 +132,7 @@ namespace RomDatabase5
             return zippedFiles.Count > 0 ? zippedFiles : null;
         }
 
-        public static List<LookupEntry> HashFromTar(string file)
+        public List<LookupEntry> HashFromTar(string file)
         {
             List<LookupEntry> zippedFiles = new List<LookupEntry>();
             var archive = SharpCompress.Archives.Tar.TarArchive.Open(file);
@@ -127,7 +140,7 @@ namespace RomDatabase5
             {
                 if (entry.Size > 0)
                 {
-                    var ziphashes = Hasher.HashArchiveEntry(entry);
+                    var ziphashes = HashArchiveEntry(entry);
                     LookupEntry le = new LookupEntry();
                     le.fileType = LookupEntryType.TarEntry;
                     le.originalFileName = file;
@@ -143,7 +156,7 @@ namespace RomDatabase5
             return zippedFiles.Count > 0 ? zippedFiles : null;
         }
 
-        public static List<LookupEntry> HashFrom7z(string file)
+        public List<LookupEntry> HashFrom7z(string file)
         {
             List<LookupEntry> zippedFiles = new List<LookupEntry>();
             var archive = SharpCompress.Archives.SevenZip.SevenZipArchive.Open(file);
@@ -151,7 +164,7 @@ namespace RomDatabase5
             {
                 if (entry.Size > 0)
                 {
-                    var ziphashes = Hasher.HashArchiveEntry(entry);
+                    var ziphashes = HashArchiveEntry(entry);
                     LookupEntry le = new LookupEntry();
                     le.fileType = LookupEntryType.SevenZEntry;
                     le.originalFileName = file;
@@ -167,7 +180,7 @@ namespace RomDatabase5
             return zippedFiles.Count > 0 ? zippedFiles : null;
         }
 
-        public static List<LookupEntry> HashFromGzip(string file)
+        public List<LookupEntry> HashFromGzip(string file)
         {
             List<LookupEntry> zippedFiles = new List<LookupEntry>();
             var archive = SharpCompress.Archives.GZip.GZipArchive.Open(file);
@@ -175,7 +188,7 @@ namespace RomDatabase5
             {
                 if (entry.Size > 0)
                 {
-                    var ziphashes = Hasher.HashArchiveEntry(entry);
+                    var ziphashes = HashArchiveEntry(entry);
                     LookupEntry le = new LookupEntry();
                     le.fileType = LookupEntryType.GZipEntry;
                     le.originalFileName = file;

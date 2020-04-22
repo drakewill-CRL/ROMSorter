@@ -23,6 +23,7 @@ namespace RomDatabase5
         //internal stuff.
         static string tempFolderPath = Path.GetTempPath();
         static string topFolder = "";
+        Hasher hasher;
 
         static ConcurrentBag<string> files = new ConcurrentBag<string>();
 
@@ -31,6 +32,7 @@ namespace RomDatabase5
 
         public Sorter()
         {
+            hasher = new Hasher();
         }
 
         static void EnumerateAllFiles(string topFolder)
@@ -41,9 +43,9 @@ namespace RomDatabase5
                 EnumerateAllFiles(folder);
         }
 
-        static LookupEntry GetFileHashes(string file)
+        LookupEntry GetFileHashes(string file)
         {
-            var hashes = Hasher.HashFile(File.ReadAllBytes(file));
+            var hashes = hasher.HashFile(File.ReadAllBytes(file));
             FileInfo fi = new FileInfo(file);
             LookupEntry le = new LookupEntry();
             le.originalFileName = file;
@@ -84,29 +86,29 @@ namespace RomDatabase5
                 switch (Path.GetExtension(file))
                 {
                     case ".zip":
-                        var zipResults = Hasher.HashFromZip(file);
+                        var zipResults = hasher.HashFromZip(file);
                         if (zipResults != null)
                             foreach (var zr in zipResults)
                                 filesToFind.Add(zr);
                         break;
                     case ".rar":
-                        var rarResults = Hasher.HashFromRar(file);
+                        var rarResults = hasher.HashFromRar(file);
                         foreach (var rr in rarResults)
                             filesToFind.Add(rr);
                         break;
                     case ".gz":
                     case ".gzip":
-                        var gzResults = Hasher.HashFromGzip(file);
+                        var gzResults = hasher.HashFromGzip(file);
                         foreach (var gz in gzResults)
                             filesToFind.Add(gz);
                         break;
                     case ".tar":
-                        var tarResults = Hasher.HashFromTar(file);
+                        var tarResults = hasher.HashFromTar(file);
                         foreach (var tr in tarResults)
                             filesToFind.Add(tr);
                         break;
                     case ".7z":
-                        var sevenZResults = Hasher.HashFrom7z(file);
+                        var sevenZResults = hasher.HashFrom7z(file);
                         foreach (var sz in sevenZResults)
                             filesToFind.Add(sz);
                         break;
