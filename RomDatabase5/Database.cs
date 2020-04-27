@@ -19,6 +19,9 @@ namespace RomDatabase5
         //Z-Machine (added art show files)
         //glulx (actually, all the IF Archive stuff)
 
+        //DAT file todos:
+        //make sure all the files at http://superfamicom.org/blog/quick-rom-download-page/ are in TOSEC dat files.
+
         #region SQL Commands
         //All my command text is stored up here for referencing elsewhere.
 
@@ -84,7 +87,7 @@ namespace RomDatabase5
         //Total game count is CountGamesCmd + CountDiscsCmd, but SQLite doesn't do outer joins.
 
         static string FindGameQuery = "SELECT g.id, g.name, g.description, g.size, g.crc, g.sha1, g.md5, c.name, d.name FROM games g INNER JOIN consoles c on c.id = g.console INNER JOIN datfiles d on d.id = g.datfile WHERE g.size = @size AND g.crc = @crc AND g.md5= @md5 AND g.sha1 = @sha1";
-        static string GetAllGamesQuery = "SELECT g.id, g.name, g.description, g.size, g.crc, g.sha1, g.md5, c.name, d.name FROM games g INNER JOIN consoles c on c.id = g.console INNER JOIN datfiles d on d.id = g.datfile ORDER BY console, name";
+        static string GetAllGamesQuery = "SELECT g.id, g.name, g.description, g.size, g.crc, g.sha1, g.md5, c.name, d.name FROM games g INNER JOIN consoles c on c.id = g.console INNER JOIN datfiles d on d.id = g.datfile ORDER BY console, g.name";
 
         static string FindDiskFileQuery = "SELECT g.id, g.name, g.description, g.size, g.crc, g.sha1, g.md5, c.name, d.name FROM discs g INNER JOIN consoles c on c.id = g.console INNER JOIN datfiles d on d.id = g.datfile WHERE g.size = @size AND g.crc = @crc AND g.md5= @md5 AND g.sha1 = @sha1";
         static string GetAllDiskFilesQuery = "SELECT g.id, g.name, g.description, g.size, g.crc, g.sha1, g.md5, c.name, d.name FROM discs g INNER JOIN consoles c on c.id = g.console INNER JOIN datfiles d on d.id = g.datfile ORDER BY console, name";
