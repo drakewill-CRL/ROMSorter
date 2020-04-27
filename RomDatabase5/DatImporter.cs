@@ -38,11 +38,11 @@ namespace RomDatabase5
                 LoadAllDats(sf, progress, highIntegrity);
 
             var files = System.IO.Directory.EnumerateFiles(directory, "*.dat");
-            //System.Threading.Tasks.Parallel.ForEach(files, (file) =>
-            foreach (var file in files)
+            System.Threading.Tasks.Parallel.ForEach(files, (file) =>
+            //foreach (var file in files)
             {
                 ParseFileAutoDetect(file, progress, highIntegrity);
-            }//);
+            });
         }
 
         public static void LoadAllDatFilesIntegrity(string directory, IProgress<string> progress = null)

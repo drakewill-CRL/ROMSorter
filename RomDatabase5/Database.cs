@@ -10,8 +10,14 @@ namespace RomDatabase5
 
         //Notes
         //TODO: copy over appropriate TODOs
+        //TODO: make this a proper class for speed identifying files? Currently identifies about 1k games/second with static methods but looks like CPU caps at 50%, so can probably optimize that
+        //TODO: set up way to parse switch dat files.
+        //TODO: populate list of files to scan when the source folder is picked and display it in the log and app window
+        //TODO: make and test EFCore version of this file. See if the entities slow this down or not.
+        //TODO: set up performance test classes to run EFCore Sqlite vs raw ADO Sqlite. Consider also comparing MS Sqlite vs Official SQLITE data provider for EF. MS might not support synchronous/memory keywords used on official provide constring here.
         //TODO: personal Dats pending an update:
-        //ok right now
+        //Z-Machine (added art show files)
+        //glulx (actually, all the IF Archive stuff)
 
         #region SQL Commands
         //All my command text is stored up here for referencing elsewhere.
@@ -70,7 +76,7 @@ namespace RomDatabase5
         static string InsertConsoleCmd = "INSERT INTO consoles(name) VALUES (@name)";
         static string InsertDatFileCmd = "INSERT INTO datfiles(name) VALUES (@name)";
 
-        static string CountGamesCmd = "SELECT COUNT(DISTINCT name) FROM games";
+        static string CountGamesCmd = "SELECT COUNT(*) FROM games";
         static string CountGamesByConsoleCmd = "SELECT c.name, COUNT(g.console) FROM games g INNER JOIN consoles c on c.id = g.console GROUP BY g.console";
 
         static string CountDiscsCmd = "SELECT COUNT(DISTINCT name) FROM discs";
@@ -97,6 +103,8 @@ namespace RomDatabase5
                                                                                                           //string conString = "Data Source=:memory:"; //Also works, doesn't write to disk.
 
         #endregion
+
+        #region boilerplate functions
 
         public static void ExecuteSQLiteNonQuery(string command)
         {
@@ -169,6 +177,8 @@ namespace RomDatabase5
                 return results2;
             }
         }
+
+        #endregion
 
         public static void RebuildInitialDatabase()
         {

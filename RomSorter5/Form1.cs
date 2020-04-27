@@ -26,6 +26,17 @@ namespace RomSorter5
         public Form1()
         {
             InitializeComponent();
+
+            if (!System.IO.File.Exists("RomDB.sqlite"))
+            {
+                Database.RebuildInitialDatabase();
+                lblStatus.Text = "Database is empty";
+            }
+            else
+            {
+                Progress<string> p = new Progress<string>(s => lblStatus.Text = s);
+                Task.Factory.StartNew(() => CountGamesAndConsoles(p));
+            }
         }
 
         private void Form1_KeyDown(object sender, KeyEventArgs e)

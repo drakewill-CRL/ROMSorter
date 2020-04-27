@@ -33,6 +33,8 @@
             this.ofdDats = new System.Windows.Forms.OpenFileDialog();
             this.btnDBtoDAT = new System.Windows.Forms.Button();
             this.btnCountbyConsole = new System.Windows.Forms.Button();
+            this.lblTestStatus = new System.Windows.Forms.Label();
+            this.btnTestEntities = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnReloadAllHighIntegrity
@@ -81,11 +83,32 @@
             this.btnCountbyConsole.UseVisualStyleBackColor = true;
             this.btnCountbyConsole.Click += new System.EventHandler(this.btnCountbyConsole_Click);
             // 
+            // lblTestStatus
+            // 
+            this.lblTestStatus.AutoSize = true;
+            this.lblTestStatus.Location = new System.Drawing.Point(170, 77);
+            this.lblTestStatus.Name = "lblTestStatus";
+            this.lblTestStatus.Size = new System.Drawing.Size(39, 15);
+            this.lblTestStatus.TabIndex = 3;
+            this.lblTestStatus.Text = "Status";
+            // 
+            // btnTestEntities
+            // 
+            this.btnTestEntities.Location = new System.Drawing.Point(578, 208);
+            this.btnTestEntities.Name = "btnTestEntities";
+            this.btnTestEntities.Size = new System.Drawing.Size(121, 33);
+            this.btnTestEntities.TabIndex = 4;
+            this.btnTestEntities.Text = "Test Entities Code";
+            this.btnTestEntities.UseVisualStyleBackColor = true;
+            this.btnTestEntities.Click += new System.EventHandler(this.btnTestEntities_Click);
+            // 
             // TestForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnTestEntities);
+            this.Controls.Add(this.lblTestStatus);
             this.Controls.Add(this.btnCountbyConsole);
             this.Controls.Add(this.btnDBtoDAT);
             this.Controls.Add(this.btnCreateDats);
@@ -93,6 +116,7 @@
             this.Name = "TestForm";
             this.Text = "TestForm";
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -103,5 +127,7 @@
         private System.Windows.Forms.OpenFileDialog ofdDats;
         private System.Windows.Forms.Button btnDBtoDAT;
         private System.Windows.Forms.Button btnCountbyConsole;
+        private System.Windows.Forms.Label lblTestStatus;
+        private System.Windows.Forms.Button btnTestEntities;
     }
 }

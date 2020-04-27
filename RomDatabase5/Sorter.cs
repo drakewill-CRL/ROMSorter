@@ -192,7 +192,6 @@ namespace RomDatabase5
             foreach (var dir in dirsToMake)
                 Directory.CreateDirectory(destinationFolder + "\\" + dir);
 
-            //TODO: might be able to use interfaces to cut these down all the SharpCompress paths to 1 function instead of 6.
             var plainFilesTask = Task.Factory.StartNew(() => HandlePlainFiles(plainFiles));
             var zipFilesTask = Task.Factory.StartNew(() => HandleZipEntries(zippedFiles));
             var rarFilesTask = Task.Factory.StartNew(() => HandleRarEntries(raredFiles));
