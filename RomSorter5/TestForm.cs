@@ -63,9 +63,9 @@ namespace RomSorter5
         {
             //Run through new stuff for code correctness.
             Stopwatch sw = new Stopwatch();
-
+            var db = new DatabaseEntities();
             sw.Start();
-            var results1 = DatabaseEntities.CountGames(); //~125ms normal, ~1000ms cold, all games + distinct disc name 
+            var results1 = db.CountGames(); //~125ms normal, ~1000ms cold, all games + distinct disc name 
             sw.Stop();
             var timing1 = sw.ElapsedMilliseconds;
             sw.Restart();
@@ -76,7 +76,7 @@ namespace RomSorter5
             double entityDifference1 = timing2 / (float)timing1;
 
             sw.Restart();
-            var results3 = DatabaseEntities.CountGamesByConsole(); //~240ms cold, ~125ms hot
+            var results3 = db.CountGamesByConsole(); //~240ms cold, ~125ms hot
             sw.Stop();
             var timing3 = sw.ElapsedMilliseconds;
             sw.Restart();
@@ -87,7 +87,7 @@ namespace RomSorter5
             double entityDifference2 = timing4 / (float)timing3;
 
             sw.Restart();
-            var results5 = DatabaseEntities.FindGame(39318, "4f010d38", "567bf221ec4b13a1aa06540de6d49bf5", "b0c1382535d7ceebe4a69df81974eebf4363793d"); //~30ms cold, 1ms hot
+            var results5 = db.FindGame(39318, "4f010d38", "567bf221ec4b13a1aa06540de6d49bf5", "b0c1382535d7ceebe4a69df81974eebf4363793d"); //~30ms cold, 1ms hot
             sw.Stop();
             var timing5 = sw.ElapsedMilliseconds;
             sw.Restart();
@@ -98,7 +98,7 @@ namespace RomSorter5
             double entityDifference3 = timing6 / (float)timing5;
 
             sw.Restart();
-            var results7 = DatabaseEntities.FindDisc(3075, "85f95735", "58cf7a07a84e3dc31be7c8816f67bb28", "d2c61d52fe40dced4ab6c611a328fed7afb9ddd4"); //6ms cold, 0ms hot
+            var results7 = db.FindDisc(3075, "85f95735", "58cf7a07a84e3dc31be7c8816f67bb28", "d2c61d52fe40dced4ab6c611a328fed7afb9ddd4"); //6ms cold, 0ms hot
             sw.Stop();
             var timing7 = sw.ElapsedMilliseconds;
             sw.Restart();
@@ -109,7 +109,7 @@ namespace RomSorter5
             double entityDifference4 = timing8 / (float)timing7;
 
             sw.Restart();
-            var results9 = DatabaseEntities.GetAllGames(); //~9000ms cold, ~1000ms hot
+            var results9 = db.GetAllGames(); //~9000ms cold, ~1000ms hot
             sw.Stop();
             var timing9 = sw.ElapsedMilliseconds;
             sw.Restart();
@@ -120,7 +120,7 @@ namespace RomSorter5
             double entityDifference5 = timing10 / (float)timing9;
 
             sw.Restart();
-            var results11 = DatabaseEntities.GetGamesByConsole("Nintendo DS"); //32ms cold, 16ms hot
+            var results11 = db.GetGamesByConsole("Nintendo DS"); //32ms cold, 16ms hot
             sw.Stop();
             var timing11 = sw.ElapsedMilliseconds;
             sw.Restart();

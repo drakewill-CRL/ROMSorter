@@ -55,19 +55,25 @@ namespace RomDatabase5
             return le;
         }
 
-        public void Sort(string topFolder, string destinationFolder, IProgress<string> progress = null)
+        public void getFilesToScan(string sourceFolder, IProgress<string> progress = null)
         {
-            filesMovedOrExtracted = 0;
             System.Diagnostics.Stopwatch sw = new System.Diagnostics.Stopwatch();
             sw.Start();
 
             //Step 1: enumerate all files first.
             files = new ConcurrentBag<string>();
             progress.Report("Scanning for files");
-            EnumerateAllFiles(topFolder);
+            EnumerateAllFiles(sourceFolder);
             progress.Report(files.Count() + " files found in " + sw.Elapsed.ToString());
-            sw.Restart();
+            sw.Stop();
+        }
 
+        public void Sort(string topFolder, string destinationFolder, IProgress<string> progress = null)
+        {
+            System.Diagnostics.Stopwatch sw = new System.Diagnostics.Stopwatch();
+            sw.Start();
+            filesMovedOrExtracted = 0;
+            
             filesToReportBetween = files.Count() / 100;
             if (filesToReportBetween > 1000)
                 filesToReportBetween = 1000;
@@ -124,37 +130,39 @@ namespace RomDatabase5
 
             //Step 3
             //identify files we found, including zip entries.
+
             progress.Report("Identifying files");
             sw.Restart();
             int foundCount = 0;
             Parallel.ForEach(filesToFind, (possibleGame) =>
             {
-                var gameEntry = Database.FindGame(possibleGame.size, possibleGame.crc, possibleGame.md5, possibleGame.sha1);
+                var db = new DatabaseEntities(); //Using the EF here is twice as fast in my testing versus the original code, before adding console names Adding console names makes it ~ 50% slower (15s vs 10s).
+                var gameEntry = db.FindGame(possibleGame.size, possibleGame.crc, possibleGame.md5, possibleGame.sha1);
                 if (gameEntry != null)
                 {
                     foundCount++;
-                    possibleGame.destinationFileName = destinationFolder + "\\" + gameEntry.console + "\\" + gameEntry.description;
-                    possibleGame.console = gameEntry.console;
+                    possibleGame.destinationFileName = destinationFolder + "\\" + gameEntry.Console + "\\" + gameEntry.Description;
+                    possibleGame.console =  db.consoleIDs[gameEntry.Console.Value].First();
                     possibleGame.isIdentified = true;
                 }
                 else
                 {
-                    var discEntries = Database.FindDisc(possibleGame.size, possibleGame.crc, possibleGame.md5, possibleGame.sha1);
+                    var discEntries = db.FindDisc(possibleGame.size, possibleGame.crc, possibleGame.md5, possibleGame.sha1);
                     if (discEntries.Count > 0)
                     {
                         foreach (var de in discEntries)
                         {
                             foundCount++;
-                            possibleGame.destinationFileName = destinationFolder + "\\" + de.console + "\\" + de.name + "\\" + de.description;
-                            possibleGame.console = de.console + "\\" + de.name; //Discs treat games as folders
+                            possibleGame.destinationFileName = destinationFolder + "\\" + de.Console + "\\" + de.Name + "\\" + de.Description;
+                            possibleGame.console = db.consoleIDs[de.Console.Value].First() + "\\" + de.Name; //Discs treat games as folders
                             possibleGame.isIdentified = true;
                         }
                     }
                 }
-            if (foundCount % filesToReportBetween == 0)
-            {
-                if (!String.IsNullOrEmpty(possibleGame.destinationFileName))
-                    progress.Report("Identified " + Path.GetFileName(possibleGame.originalFileName) + (possibleGame.entryPath == null ? "" : "[" + possibleGame.entryPath + "]") + " as " + Path.GetFileName(possibleGame.destinationFileName));
+                if (foundCount % filesToReportBetween == 0)
+                {
+                    if (!String.IsNullOrEmpty(possibleGame.destinationFileName))
+                        progress.Report("Identified " + Path.GetFileName(possibleGame.originalFileName) + (possibleGame.entryPath == null ? "" : "[" + possibleGame.entryPath + "]") + " as " + Path.GetFileName(possibleGame.destinationFileName));
                     else
                         progress.Report("Couldn't identify " + Path.GetFileName(possibleGame.originalFileName));
                 }
@@ -167,7 +175,7 @@ namespace RomDatabase5
             {
                 sw.Stop();
                 return;
-            }    
+            }
 
             //step 4
             //start moving files. Requires a little bit of organizing in case a zip has multiple files and they are split between ID'd and un-ID'd. Might need an extra function

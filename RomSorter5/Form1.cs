@@ -22,6 +22,7 @@ namespace RomSorter5
 
         string sourceFolder = "";
         string destinationFolder = "";
+        Sorter sorter = null;
 
         public Form1()
         {
@@ -56,6 +57,12 @@ namespace RomSorter5
                 sourceFolder = System.IO.Path.GetDirectoryName(openFileDialog1.FileName);
                 btnSort.Enabled = true;
                 btnReport.Enabled = true;
+
+                Progress<string> progress = new Progress<string>(s => {
+                    lblStatus.Text = s; txtMessageLog.AppendText(s + Environment.NewLine); txtMessageLog.SelectionStart = txtMessageLog.TextLength; txtMessageLog.ScrollToCaret();
+                });
+                sorter = new Sorter();
+                sorter.getFilesToScan(sourceFolder, progress);
             }
         }
 
@@ -81,7 +88,6 @@ namespace RomSorter5
             if (destinationFolder == "")
                 destinationFolder = sourceFolder;
 
-            Sorter sorter = new Sorter();
             sorter.DisplayAllInfo = chkDisplayAllActions.Checked;
             sorter.moveUnidentified = chkMoveUnidentified.Checked;
             sorter.PreserveOriginals = chkPreserveOriginals.Checked;
@@ -108,7 +114,6 @@ namespace RomSorter5
             if (destinationFolder == "")
                 destinationFolder = sourceFolder;
 
-            Sorter sorter = new Sorter();
             sorter.DisplayAllInfo = true; //always on for info-only.
             sorter.PreserveOriginals = chkPreserveOriginals.Checked;
             sorter.UseMultithreading = chkMultithread.Checked;
