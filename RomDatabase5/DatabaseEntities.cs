@@ -11,6 +11,8 @@ namespace RomDatabase5
         //To match up to Database.cs in functionality, but using EF Core
         //Entity types are plural, my handmane ones are singular.
 
+       
+
         RomDBContext db = new RomDBContext();
         public ILookup<long, string> consoleIDs;
 
@@ -54,7 +56,7 @@ namespace RomDatabase5
         {
             var consoles = db.Consoles.ToLookup(k => k.Id, v => v.Name);
             var results = db.Games.GroupBy(g => g.Console).Select(g => new { Key = consoles[g.Key.Value].First(), Count = g.Count() }).ToList();
-            var results2 = db.Discs.GroupBy(g => g.Console).Select(g => new { Key = consoles[g.Key.Value].First(), Count = g.Count() }).ToList(); //.Select(gg => gg.Name) doesnt seem to work to pull out distinct game names
+            var results2 = db.Discs.GroupBy(g => g.Console).Select(g => new { Key = consoles[g.Key.Value].First(), Count = g.Count() }).ToList();
 
             List<Tuple<string, int>> finalResults = new List<Tuple<string, int>>();
 
@@ -87,6 +89,8 @@ namespace RomDatabase5
 
         public Games FindGame(long size, string crc, string md5, string sha1)
         {
+            //Potentially necessary future planning TODO:
+            //get all games by CRC, then search by SHA1, then MD5 (Pinball dat files don't have MD5s, so this won't find them   
             Games g = db.Games.Where(g => g.Size == size && g.Crc == crc && g.Md5 == md5 && g.Sha1 == sha1).FirstOrDefault();
             return g;
         }

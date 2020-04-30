@@ -141,7 +141,7 @@ namespace RomDatabase5
                 if (gameEntry != null)
                 {
                     foundCount++;
-                    possibleGame.destinationFileName = destinationFolder + "\\" + gameEntry.Console + "\\" + gameEntry.Description;
+                    possibleGame.destinationFileName = destinationFolder + "\\" + db.consoleIDs[gameEntry.Console.Value].First() + "\\" + gameEntry.Description;
                     possibleGame.console =  db.consoleIDs[gameEntry.Console.Value].First();
                     possibleGame.isIdentified = true;
                 }
@@ -153,7 +153,7 @@ namespace RomDatabase5
                         foreach (var de in discEntries)
                         {
                             foundCount++;
-                            possibleGame.destinationFileName = destinationFolder + "\\" + de.Console + "\\" + de.Name + "\\" + de.Description;
+                            possibleGame.destinationFileName = destinationFolder + "\\" + db.consoleIDs[de.Console.Value].First() + "\\" + de.Name + "\\" + de.Description;
                             possibleGame.console = db.consoleIDs[de.Console.Value].First() + "\\" + de.Name; //Discs treat games as folders
                             possibleGame.isIdentified = true;
                         }
