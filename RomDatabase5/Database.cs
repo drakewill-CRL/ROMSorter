@@ -16,7 +16,9 @@ namespace RomDatabase5
         //TODO: make and test EFCore version of this file. See if the entities slow this down or not.
         //TODO: set up performance test classes to run EFCore Sqlite vs raw ADO Sqlite. Consider also comparing MS Sqlite vs Official SQLITE data provider for EF. MS might not support synchronous/memory keywords used on official provide constring here.
         //TODO: add Cancel button after starting an operation
+        //TODO fix the file access thing, tired of errors.
         //TOOD: re-add full-sequence mode, to operate after all files are scanned and picked invidividually?
+        //TODO: make zip file paths respect zipInsteadOfMove checkbox
         //TODO: personal Dats pending an update:
         //Z-Machine (added art show files)
         //glulx (actually, all the IF Archive stuff)

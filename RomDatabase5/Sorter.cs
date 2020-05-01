@@ -1,4 +1,5 @@
-﻿using System;
+﻿using SharpCompress.Writers.Zip;
+using System;
 using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.IO;
@@ -17,7 +18,7 @@ namespace RomDatabase5
         public bool ZipInsteadOfMove = false;
         public bool UseMultithreading = true;
         public bool PreserveOriginals = true;
-        public bool DisplayAllInfo = false; 
+        public bool DisplayAllInfo = false;
         public bool IdentifyOnly = false;
 
         //internal stuff.
@@ -73,7 +74,7 @@ namespace RomDatabase5
             System.Diagnostics.Stopwatch sw = new System.Diagnostics.Stopwatch();
             sw.Start();
             filesMovedOrExtracted = 0;
-            
+
             filesToReportBetween = files.Count() / 100;
             if (filesToReportBetween > 1000)
                 filesToReportBetween = 1000;
@@ -142,7 +143,7 @@ namespace RomDatabase5
                 {
                     foundCount++;
                     possibleGame.destinationFileName = destinationFolder + "\\" + db.consoleIDs[gameEntry.Console.Value].First() + "\\" + gameEntry.Description;
-                    possibleGame.console =  db.consoleIDs[gameEntry.Console.Value].First();
+                    possibleGame.console = db.consoleIDs[gameEntry.Console.Value].First();
                     possibleGame.isIdentified = true;
                 }
                 else
@@ -208,14 +209,20 @@ namespace RomDatabase5
             var gZipFilesTask = Task.Factory.StartNew(() => HandleGZipEntries(gZippedFiles));
             var unidentifiedTask = Task.Factory.StartNew(() => HandleUnidentifiedFiles(unidentified, destinationFolder + "\\Unidentified\\"));
 
+
             Task.WaitAll(plainFilesTask, zipFilesTask, rarFilesTask, tarFilesTask, sevenZipFilesTask, gZipFilesTask, unidentifiedTask);
             progress.Report(filesMovedOrExtracted + " files moved or extracted in " + sw.Elapsed.ToString());
             sw.Restart();
 
             //step 5
             //clean up. Remove empty folders?
+            if (!PreserveOriginals)
+            {
+                foreach (var file in foundFiles)
+                    File.Delete(file.originalFileName);
+            }
             CleanupLoop(topFolder);
-            progress.Report("Empty folders removed from source directory in " + sw.Elapsed.ToString());
+            progress.Report("Source Directory cleanup completed in " + sw.Elapsed.ToString());
             sw.Stop();
         }
 
@@ -235,7 +242,8 @@ namespace RomDatabase5
 
             Parallel.ForEach(unidentifiedFiles.GroupBy(u => u.originalFileName), (uf) => //If we refer to the original file more than once, EX because it's a zip file, we only want to move it once.
             {
-                File.Move(uf.Key, unidentifiedFolder + Path.GetFileName(uf.Key));
+                if (!File.Exists(unidentifiedFolder + Path.GetFileName(uf.Key)))
+                    File.Move(uf.Key, unidentifiedFolder + Path.GetFileName(uf.Key));
                 filesMovedOrExtracted++;
             });
         }
@@ -257,9 +265,6 @@ namespace RomDatabase5
                         File.Move(pf.originalFileName, pf.destinationFileName);
                 }
 
-                if (!PreserveOriginals)
-                    File.Delete(pf.originalFileName);
-
                 filesMovedOrExtracted++;
             });
         }
@@ -271,17 +276,33 @@ namespace RomDatabase5
                 var zipFile = ZipFile.OpenRead(zf.Key); //might have multiple files to extract from a zip, thats why these are grouped.
                 foreach (var entryToFind in zf)
                 {
-                    if (!File.Exists(entryToFind.destinationFileName))
+                    var entry = zipFile.Entries.Where(e => e.FullName == entryToFind.entryPath).FirstOrDefault();
+                    if (!File.Exists(entryToFind.destinationFileName) && !ZipInsteadOfMove)
                     {
-                        var entry = zipFile.Entries.Where(e => e.FullName == entryToFind.entryPath).FirstOrDefault();
-                        entry.ExtractToFile(entryToFind.destinationFileName);
+                        entry.ExtractToFile(entryToFind.destinationFileName); //Don't overwrite existing files in this path.
                     }
-                    filesMovedOrExtracted++;
-                }
-                zipFile.Dispose();
+                    else if (ZipInsteadOfMove) //dont zip if the file doesnt exist
+                    {
+                        byte[] fileData = new byte[entry.Length];
+                        new BinaryReader(entry.Open()).Read(fileData, 0, (int)entry.Length);
+                        MemoryStream ms = new MemoryStream();
+                        using (ZipArchive za = new ZipArchive(ms, ZipArchiveMode.Create, true))
+                        {
+                            var zippedFile = za.CreateEntry(entryToFind.entryPath);
+                            using (var zfDest = zippedFile.Open())
+                                zfDest.Write(fileData);
+                        }
 
-                if (!PreserveOriginals)
-                    File.Delete(zf.Key);
+                        using (FileStream fs = new FileStream(entryToFind.destinationFileName + ".zip", FileMode.OpenOrCreate))
+                        {
+                            ms.CopyTo(fs);
+                            ms.Close();
+                            ms.Dispose();
+                        }
+                    }
+                }
+                filesMovedOrExtracted++;
+                zipFile.Dispose();
             });
         }
 
@@ -296,7 +317,22 @@ namespace RomDatabase5
                     new BinaryReader(entry.OpenEntryStream()).Read(fileData, 0, (int)entry.Size);
 
                     if (ZipInsteadOfMove)
-                    { }
+                    {
+                        MemoryStream ms = new MemoryStream();
+                        using (ZipArchive za = new ZipArchive(ms, ZipArchiveMode.Create, true))
+                        {
+                            var zippedFile = za.CreateEntry(entryToFind.entryPath);
+                            using (var zf = zippedFile.Open())
+                                zf.Write(fileData);
+                        }
+                        using (FileStream fs = new FileStream(entryToFind.destinationFileName + ".zip", FileMode.OpenOrCreate))
+                        {
+                            ms.CopyTo(fs);
+                            ms.Close();
+                            ms.Dispose();
+                        }
+
+                    }
                     else
                         File.WriteAllBytes(entryToFind.destinationFileName, fileData);
                 }
@@ -311,9 +347,6 @@ namespace RomDatabase5
                 var rarFile = SharpCompress.Archives.Rar.RarArchive.Open(rf.Key);//might have multiple files to extract from a zip, thats why these are grouped.
                 InnerArchiveLoop(rarFile, rf);
                 rarFile.Dispose();
-
-                if (!PreserveOriginals)
-                    File.Delete(rf.Key);
             });
         }
 
@@ -324,9 +357,6 @@ namespace RomDatabase5
                 var sevenZFile = SharpCompress.Archives.SevenZip.SevenZipArchive.Open(sz.Key);//might have multiple files to extract from a zip, thats why these are grouped.
                 InnerArchiveLoop(sevenZFile, sz);
                 sevenZFile.Dispose();
-
-                if (!PreserveOriginals)
-                    File.Delete(sz.Key);
             });
         }
 
@@ -337,9 +367,6 @@ namespace RomDatabase5
                 var gzFile = SharpCompress.Archives.GZip.GZipArchive.Open(gz.Key);//might have multiple files to extract from a zip, thats why these are grouped.
                 InnerArchiveLoop(gzFile, gz);
                 gzFile.Dispose();
-
-                if (!PreserveOriginals)
-                    File.Delete(gz.Key);
             });
         }
 
@@ -350,9 +377,6 @@ namespace RomDatabase5
                 var tarFile = SharpCompress.Archives.Tar.TarArchive.Open(tf.Key);//might have multiple files to extract from a zip, thats why these are grouped.
                 InnerArchiveLoop(tarFile, tf);
                 tarFile.Dispose();
-
-                if (!PreserveOriginals)
-                    File.Delete(tf.Key);
             });
         }
 
@@ -383,6 +407,7 @@ namespace RomDatabase5
             ZipArchive zf = new ZipArchive(fs, ZipArchiveMode.Create);
 
             zf.CreateEntryFromFile(file, Path.GetFileName(file), CompressionLevel.Optimal);
+
 
             zf.Dispose();
             fs.Close();

@@ -83,29 +83,38 @@ namespace RomDatabase5
 
         public List<LookupEntry> HashFromZip(string file)
         {
-            List<LookupEntry> zippedFiles = new List<LookupEntry>();
-            ZipArchive zf = new ZipArchive(new FileStream(file, FileMode.Open));
-            foreach (var entry in zf.Entries)
+            try
             {
-                if (entry.Length > 0)
+                List<LookupEntry> zippedFiles = new List<LookupEntry>();
+                ZipArchive zf = new ZipArchive(new FileStream(file, FileMode.Open));
+                foreach (var entry in zf.Entries)
                 {
-                    var ziphashes = HashZipEntry(entry);
-                    if (ziphashes != null) //is null if the zip file entry couldn't be read.
+                    if (entry.Length > 0)
                     {
-                        LookupEntry le = new LookupEntry();
-                        le.fileType = LookupEntryType.ZipEntry;
-                        le.originalFileName = file;
-                        le.entryPath = entry.FullName;
-                        le.crc = ziphashes[2];
-                        le.sha1 = ziphashes[1];
-                        le.md5 = ziphashes[0];
-                        le.size = entry.Length;
-                        zippedFiles.Add(le);
+                        var ziphashes = HashZipEntry(entry);
+                        if (ziphashes != null) //is null if the zip file entry couldn't be read.
+                        {
+                            LookupEntry le = new LookupEntry();
+                            le.fileType = LookupEntryType.ZipEntry;
+                            le.originalFileName = file;
+                            le.entryPath = entry.FullName;
+                            le.crc = ziphashes[2];
+                            le.sha1 = ziphashes[1];
+                            le.md5 = ziphashes[0];
+                            le.size = entry.Length;
+                            zippedFiles.Add(le);
+                        }
                     }
                 }
+                zf.Dispose();
+                return zippedFiles.Count > 0 ? zippedFiles : null;
             }
-            zf.Dispose();
-            return zippedFiles.Count > 0 ? zippedFiles : null;
+            catch(Exception ex)
+            {
+                //Usually means zip file is invalid.
+                //TODO: track and report specific errors.
+                return null;
+            }
         }
 
         public List<LookupEntry> HashFromRar(string file)
