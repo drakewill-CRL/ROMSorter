@@ -15,6 +15,9 @@ namespace RomDatabase5
 
         public bool isIdentified = false; //have we identified this game?
         public string console; //the console for the game in question.
+        public bool isDiscEntry = false; // should be treated differently when zipping files
+        public string discEntryName; //the name of the entry in a zip archive to save this file too when zipping.
+        public string discGameName; //the zip file name to use for a disc when zipping files
 
         //For use during processing to track info on the file without multiple reads.
         public string crc;

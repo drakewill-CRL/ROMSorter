@@ -6,12 +6,9 @@ using System.Threading.Tasks;
 
 namespace RomDatabase5
 {
-    public class DatabaseEntities
+    public class DatabaseEntities //EF access to database. Much less code, sometimes faster.
     {
-        //To match up to Database.cs in functionality, but using EF Core
-        //Entity types are plural, my handmane ones are singular.
-
-       
+        //Entity types are plural, my handmane ones are singular.       
 
         RomDBContext db = new RomDBContext();
         public ILookup<long, string> consoleIDs;

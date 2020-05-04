@@ -5,27 +5,22 @@ using System.Linq;
 
 namespace RomDatabase5
 {
-    public class Database
+    public class Database //direct data access calls, instead of Entity Framework. More consistent but not necessarily faster
     {
 
         //Notes
         //TODO: copy over appropriate TODOs
-        //TODO: make this a proper class for speed identifying files? Currently identifies about 1k games/second with static methods but looks like CPU caps at 50%, so can probably optimize that
         //TODO: set up way to parse switch dat files.
-        //TODO: populate list of files to scan when the source folder is picked and display it in the log and app window
-        //TODO: make and test EFCore version of this file. See if the entities slow this down or not.
-        //TODO: set up performance test classes to run EFCore Sqlite vs raw ADO Sqlite. Consider also comparing MS Sqlite vs Official SQLITE data provider for EF. MS might not support synchronous/memory keywords used on official provide constring here.
         //TODO: add Cancel button after starting an operation
-        //TODO fix the file access thing, tired of errors.
         //TOOD: re-add full-sequence mode, to operate after all files are scanned and picked invidividually?
-        //TODO: make zip file paths respect zipInsteadOfMove checkbox
+        //TODO: zip all files for a disk into one zip file instead of zipping each separately in a folder. (done for plain files, todo for zipped ones)
         //TODO: personal Dats pending an update:
         //Z-Machine (added art show files)
         //glulx (actually, all the IF Archive stuff)
 
         //DAT file todos:
         //make sure all the files at http://superfamicom.org/blog/quick-rom-download-page/ are in TOSEC dat files.
-        //Remeber that TOSEC naming convention minimum is Title Date Publisher EX: Legend of TOSEC, The (1986)(Ultrafast Software)
+        //Remeber that TOSEC naming convention minimum is Title (Date)(Publisher) EX: Legend of TOSEC, The (1986)(Ultrafast Software)
         //(demo) would go between the name and date, with a space separating it unlike the other bits
         
 
