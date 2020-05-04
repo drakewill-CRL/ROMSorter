@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.IO.Compression;
 using System.Linq;
+using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
@@ -186,12 +187,12 @@ namespace RomDatabase5
 
             //step 4
             //start moving files. Requires a little bit of organizing in case a zip has multiple files and they are split between ID'd and un-ID'd. Might need an extra function
-            //TODO NOTE: I should probably split this by ID's/UnID'd AND disc/singlefilegame. Discs are much more likely to hit access issues, and those should be grouped by originalFileName AND destinationFileName
             var unidentified = filesToFind.Where(f => !f.isIdentified).ToList();
-            var foundFiles = filesToFind.Where(f => f.isIdentified).ToList();
-            var problemZips = unidentified.Where(w => foundFiles.Select(f => f.originalFileName).Distinct().ToList().Contains(w.originalFileName)).ToList(); //probably not optimally performing. Will need to work on this later.
-            //foundFiles = foundFiles.Where(ff => problemZips.Any(pz => pz.originalFileName == ff.originalFileName)).ToList();
-            //var problem2 = unidentified.Intersect(foundFiles);
+            var foundFiles = filesToFind.Where(f => f.isIdentified && !f.isDiscEntry).ToList();
+            //var discsToHandle = filesToFind.Where(f => f.isIdentified && f.isDiscEntry).ToList();
+            //var problemZips = unidentified.Where(w => foundFiles.Select(f => f.originalFileName).Distinct().ToList().Contains(w.originalFileName)).ToList(); //probably not optimally performing. Will need to work on this later.
+            List<IGrouping<string, LookupEntry>> problemDiscs = foundFiles.GroupBy(f => f.destinationFileName).Where(ff => ff.Count() > 1).ToList(); //discs (and games) that want to hit the same destination file from different original files.
+            foundFiles = foundFiles.Where(ff => !problemDiscs.Any(pd => pd.Key == ff.destinationFileName)).ToList();
 
             var plainFiles = foundFiles.Where(f => f.fileType == LookupEntryType.File).ToList();
             var zippedFiles = foundFiles.Where(f => f.fileType == LookupEntryType.ZipEntry).GroupBy(f => f.originalFileName).ToList();
@@ -218,6 +219,9 @@ namespace RomDatabase5
             var gZipFilesTask = Task.Factory.StartNew(() => HandleGZipEntries(gZippedFiles));
 
             Task.WaitAll(plainFilesTask, zipFilesTask, rarFilesTask, tarFilesTask, sevenZipFilesTask, gZipFilesTask); //, unidentifiedTask);
+            var conflicts = Task.Factory.StartNew(() => HandlePotentialConflicts(problemDiscs));
+            Task.WaitAll(conflicts);
+
             progress.Report(filesMovedOrExtracted + " files moved or extracted in " + sw.Elapsed.ToString());
 
             if (moveUnidentified)
@@ -265,6 +269,40 @@ namespace RomDatabase5
             });
         }
 
+        void HandlePotentialConflicts(List<IGrouping<string, LookupEntry>> conflicts)
+        {
+            //These are identified as files that will conflict in a multithreaded scenario, so we will single-thread access to these.
+            foreach (var entry in conflicts) //conflicts is the destination file. We want to swap these to the origin file.
+            {
+                foreach (var key in entry)
+                {
+                    var listEntry = new List<LookupEntry>() { key };
+                    var groupedEntry = listEntry.GroupBy(g => g.originalFileName).ToList();
+                    switch (key.fileType)
+                    {
+                        case LookupEntryType.File:
+                            HandlePlainFiles(listEntry);
+                            break;
+                        case LookupEntryType.GZipEntry:
+                            HandleGZipEntries(groupedEntry);
+                            break;
+                        case LookupEntryType.RarEntry:
+                            HandleRarEntries(groupedEntry);
+                            break;
+                        case LookupEntryType.SevenZEntry:
+                            Handle7zEntries(groupedEntry);
+                            break;
+                        case LookupEntryType.TarEntry:
+                            HandleTarEntries(groupedEntry);
+                            break;
+                        case LookupEntryType.ZipEntry:
+                            HandleZipEntries(groupedEntry);
+                            break;
+                    }
+                }
+            }
+        }
+
         void HandlePlainFiles(List<LookupEntry> plainFiles)
         {
             Parallel.ForEach(plainFiles, (pf) =>
@@ -275,10 +313,10 @@ namespace RomDatabase5
                 if (ZipInsteadOfMove)
                 {
                     if (!pf.isDiscEntry)
-                        CreateZip(pf.originalFileName, pf.destinationFileName + ".zip", Path.GetFileName(pf.originalFileName));
+                        CreateZip(pf.originalFileName, pf.destinationFileName + ".zip", Path.GetFileName(pf.destinationFileName));
                     else
                     {
-                        //Add this to a zip of all disc entries.
+                        //Add this to a zip of all disc entries. Note the lack of .zip extention on a disc entry.
                         CreateZip(pf.originalFileName, pf.destinationFileName, pf.discEntryName);
                     }
                 }
