@@ -93,6 +93,7 @@ namespace RomSorter5
             sorter.PreserveOriginals = chkPreserveOriginals.Checked;
             sorter.UseMultithreading = chkMultithread.Checked;
             sorter.ZipInsteadOfMove = chkZipIdentified.Checked;
+            sorter.IdentifyOnly = false;
 
             await Task.Factory.StartNew(() => sorter.Sort(sourceFolder, destinationFolder, progress));
 

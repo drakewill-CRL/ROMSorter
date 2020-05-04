@@ -182,7 +182,9 @@ namespace RomDatabase5
             //start moving files. Requires a little bit of organizing in case a zip has multiple files and they are split between ID'd and un-ID'd. Might need an extra function
             var unidentified = filesToFind.Where(f => !f.isIdentified).ToList();
             var foundFiles = filesToFind.Where(f => f.isIdentified).ToList();
-            var problemZips = unidentified.Where(w => foundFiles.Select(f => f.originalFileName).Distinct().ToList().Contains(w.originalFileName)); //probably not optimally performing. Will need to work on this later.
+            var problemZips = unidentified.Where(w => foundFiles.Select(f => f.originalFileName).Distinct().ToList().Contains(w.originalFileName)).ToList(); //probably not optimally performing. Will need to work on this later.
+            //foundFiles = foundFiles.Where(ff => problemZips.Any(pz => pz.originalFileName == ff.originalFileName)).ToList();
+            //var problem2 = unidentified.Intersect(foundFiles);
 
             var plainFiles = foundFiles.Where(f => f.fileType == LookupEntryType.File).ToList();
             var zippedFiles = foundFiles.Where(f => f.fileType == LookupEntryType.ZipEntry).GroupBy(f => f.originalFileName).ToList();
@@ -207,11 +209,19 @@ namespace RomDatabase5
             var tarFilesTask = Task.Factory.StartNew(() => HandleTarEntries(taredFiles));
             var sevenZipFilesTask = Task.Factory.StartNew(() => Handle7zEntries(sevenZippedFiles));
             var gZipFilesTask = Task.Factory.StartNew(() => HandleGZipEntries(gZippedFiles));
-            var unidentifiedTask = Task.Factory.StartNew(() => HandleUnidentifiedFiles(unidentified, destinationFolder + "\\Unidentified\\"));
 
-
-            Task.WaitAll(plainFilesTask, zipFilesTask, rarFilesTask, tarFilesTask, sevenZipFilesTask, gZipFilesTask, unidentifiedTask);
+            Task.WaitAll(plainFilesTask, zipFilesTask, rarFilesTask, tarFilesTask, sevenZipFilesTask, gZipFilesTask); //, unidentifiedTask);
             progress.Report(filesMovedOrExtracted + " files moved or extracted in " + sw.Elapsed.ToString());
+
+            if (moveUnidentified)
+            {
+                sw.Restart();
+                progress.Report("Moving unidentified files");
+                var unidentifiedTask = Task.Factory.StartNew(() => HandleUnidentifiedFiles(unidentified, destinationFolder + "\\Unidentified\\"));
+                Task.WaitAll(unidentifiedTask);
+                progress.Report("Unidentified files moved in " + sw.Elapsed.ToString());
+            }
+            
             sw.Restart();
 
             //step 5
