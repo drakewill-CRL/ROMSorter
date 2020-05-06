@@ -132,7 +132,7 @@ namespace RomDatabase5
 
             //Step 3
             //identify files we found, including zip entries.
-
+            //TO REMEMBER: disc entries will call out the zip file to write to as DestinationFilename, and use discEntryName for the entry's path inside the zip.
             progress.Report("Identifying files");
             sw.Restart();
             int foundCount = 0;
@@ -159,12 +159,18 @@ namespace RomDatabase5
                                 possibleGame.destinationFileName = destinationFolder + "\\" + db.consoleIDs[de.Console.Value].First() + "\\" + de.Name + ".zip";
                             else
                                 possibleGame.destinationFileName = destinationFolder + "\\" + db.consoleIDs[de.Console.Value].First() + "\\" + de.Name + "\\" + de.Description;
-                            possibleGame.console = db.consoleIDs[de.Console.Value].First() +  (ZipInsteadOfMove ? "" : "\\" + de.Name); //Discs treat games as folders (or zip files)
+                            possibleGame.console = db.consoleIDs[de.Console.Value].First() + (ZipInsteadOfMove ? "" : "\\" + de.Name); //Discs treat games as folders (or zip files)
                             possibleGame.isIdentified = true;
                             possibleGame.isDiscEntry = true;
                             possibleGame.discEntryName = de.Description;
                             //possibleGame.discGameName = de.Name;
                         }
+                    }
+                    else
+                    {
+                        //This is an unidentified file. Should flag it as such and fill in some details.
+                        possibleGame.isIdentified = false;
+                        possibleGame.destinationFileName = destinationFolder + "\\Unidentified\\" + possibleGame.originalFileName + (String.IsNullOrWhiteSpace(possibleGame.entryPath) ? "" : Path.GetFileName(possibleGame.entryPath));
                     }
                 }
                 if (foundCount % filesToReportBetween == 0)
@@ -195,9 +201,13 @@ namespace RomDatabase5
             List<IGrouping<string, LookupEntry>> problemDiscs = foundFiles.GroupBy(f => f.destinationFileName).Where(ff => ff.Count() > 1).ToList(); //discs (and games) that want to hit the same destination file from different original files.
             foundFiles = foundFiles.Where(ff => !problemDiscs.Any(pd => pd.Key == ff.destinationFileName)).ToList();
 
-            //var hasReadConflicts = unidentified.Where(w => foundFiles.Select(f => f.originalFileName).Distinct().ToList().Contains(w.originalFileName)).ToList();
-            //var hasWriteConflicts = unidentified.Where(w => foundFiles.Select(f => f.destinationFileName).Distinct().ToList().Contains(w.destinationFileName)).ToList();
+            var hasReadConflicts = unidentified.Where(w => foundFiles.Select(f => f.originalFileName).Distinct().ToList().Contains(w.originalFileName)).ToList();
+            var hasWriteConflicts = unidentified.Where(w => foundFiles.Select(f => f.destinationFileName).Distinct().ToList().Contains(w.destinationFileName)).ToList();
 
+            List<IGrouping<string, LookupEntry>> writeConflicts = foundFiles.GroupBy(f => f.destinationFileName).Where(ff => ff.Count() > 1).ToList(); //discs (and games) that want to hit the same destination file from different original files.
+            foundFiles = foundFiles.Where(ff => !writeConflicts.Any(pd => pd.Key == ff.destinationFileName)).ToList();
+            List<IGrouping<string, LookupEntry>> readConflicts = foundFiles.GroupBy(f => f.originalFileName).Where(ff => ff.Count() > 1).ToList(); //discs (and games) that want to hit the same original (zipped) file for different destination files.
+            foundFiles = foundFiles.Where(ff => !readConflicts.Any(pd => pd.Key == ff.originalFileName)).ToList();
 
             var plainFiles = foundFiles.Where(f => f.fileType == LookupEntryType.File).ToList();
             var zippedFiles = foundFiles.Where(f => f.fileType == LookupEntryType.ZipEntry).GroupBy(f => f.originalFileName).ToList();
@@ -222,13 +232,14 @@ namespace RomDatabase5
             var tarFilesTask = Task.Factory.StartNew(() => HandleTarEntries(taredFiles));
             var sevenZipFilesTask = Task.Factory.StartNew(() => Handle7zEntries(sevenZippedFiles));
             var gZipFilesTask = Task.Factory.StartNew(() => HandleGZipEntries(gZippedFiles));
-            var conflicts = Task.Factory.StartNew(() => HandlePotentialConflicts(problemDiscs));
+            var writeConflictsTask = Task.Factory.StartNew(() => HandlePotentialConflicts(writeConflicts));
+            var readConflictsTask = Task.Factory.StartNew(() => HandlePotentialConflicts(readConflicts));
 
-            Task.WaitAll(plainFilesTask, zipFilesTask, rarFilesTask, tarFilesTask, sevenZipFilesTask, gZipFilesTask, conflicts); //, unidentifiedTask);
+            Task.WaitAll(plainFilesTask, zipFilesTask, rarFilesTask, tarFilesTask, sevenZipFilesTask, gZipFilesTask, writeConflictsTask, readConflictsTask ); //, unidentifiedTask);
 
             progress.Report(filesMovedOrExtracted + " files moved or extracted in " + sw.Elapsed.ToString());
 
-            if (moveUnidentified)
+            if (moveUnidentified) //TODO: set up unidentified files to handle conflicts the same way found files do.
             {
                 sw.Restart();
                 progress.Report("Moving unidentified files");
@@ -278,12 +289,12 @@ namespace RomDatabase5
             //These are identified as files that will conflict in a multithreaded scenario, so we will single-thread access to these.
             //TODO: see if I can do all of these write operations at once, since in this loop i KNOW all the entries have the same destination file.
             //This outer loop can be parallel, since each entry will only write to its own file.
-            Parallel.ForEach(conflicts, (entry) =>  //foreach (var entry in conflicts)  //conflicts is the destination file. We want to swap these to the origin file.
+            Parallel.ForEach(conflicts, (entry) =>  //foreach (var entry in conflicts)  //conflicts is the destination file for write conflicts. We want to swap these to the origin file in that case.
             {
                 foreach (var key in entry)
                 {
                     var listEntry = new List<LookupEntry>() { key };
-                    var groupedEntry = listEntry.GroupBy(g => g.originalFileName).ToList();
+                    var groupedEntry = listEntry.GroupBy(g => g.originalFileName).ToList(); //does nothing for read conflicts, since its already this way.
                     switch (key.fileType)
                     {
                         case LookupEntryType.File:
@@ -319,11 +330,11 @@ namespace RomDatabase5
                 if (ZipInsteadOfMove)
                 {
                     if (!pf.isDiscEntry)
-                        CreateZip(pf.originalFileName, pf.destinationFileName + ".zip", Path.GetFileName(pf.destinationFileName));
+                        AddZipEntryFromFile(pf.originalFileName, pf.destinationFileName + ".zip", Path.GetFileName(pf.destinationFileName));
                     else
                     {
                         //Add this to a zip of all disc entries. Note the lack of .zip extention on a disc entry.
-                        CreateZip(pf.originalFileName, pf.destinationFileName, pf.discEntryName);
+                        AddZipEntryFromFile(pf.originalFileName, pf.destinationFileName, pf.discEntryName);
                     }
                 }
                 else
@@ -350,44 +361,52 @@ namespace RomDatabase5
                     }
                     else if (ZipInsteadOfMove) //dont zip if the file doesnt exist
                     {
-                        if (!entryToFind.isDiscEntry)
-                        {
-                            byte[] fileData = new byte[entry.Length];
-                            new BinaryReader(entry.Open()).Read(fileData, 0, (int)entry.Length);
-                            MemoryStream ms = new MemoryStream();
-                            using (ZipArchive za = new ZipArchive(ms, ZipArchiveMode.Update, true))
-                            {
-                                var zippedFile = za.CreateEntry(entryToFind.entryPath);
-                                using (var zfDest = zippedFile.Open())
-                                    zfDest.Write(fileData);
-                            }
-
-                            using (FileStream fs = new FileStream(entryToFind.destinationFileName + ".zip", FileMode.OpenOrCreate))
-                            {
-                                ms.Position = 0;
-                                ms.CopyTo(fs);
-                                ms.Close();
-                                ms.Dispose();
-                            }
-                        }
+                        byte[] fileData = new byte[entry.Length];
+                        new BinaryReader(entry.Open()).Read(fileData, 0, (int)entry.Length);
+                        if (entryToFind.isDiscEntry)
+                            AddZipEntryFromBytes(fileData, entryToFind.destinationFileName + ".zip", entryToFind.isDiscEntry ? entryToFind.discEntryName : entryToFind.destinationFileName);
                         else
-                        {
-                            //more complicated because the file may already exist on disc. This causes access errors again, since different threads might want to write to the same zip file.
-                            byte[] fileData = new byte[entry.Length];
-                            new BinaryReader(entry.Open()).Read(fileData, 0, (int)entry.Length);
-                            using (FileStream fs = new FileStream(entryToFind.destinationFileName, FileMode.OpenOrCreate))
-                            {
-                                using (ZipArchive za = new ZipArchive(fs, ZipArchiveMode.Update, true))
-                                {
-                                    if (!za.Entries.Any(e => e.FullName == entryToFind.discEntryName))
-                                    {
-                                        var zippedFile = za.CreateEntry(entryToFind.discEntryName);
-                                        using (var zfDest = zippedFile.Open())
-                                            zfDest.Write(fileData);
-                                    }
-                                }
-                            }
-                        }
+                            AddZipEntryFromBytes(fileData, entryToFind.destinationFileName + ".zip", Path.GetFileName(entryToFind.destinationFileName));
+
+
+                        //if (!entryToFind.isDiscEntry)
+                        //{
+                        //byte[] fileData = new byte[entry.Length];
+                        //new BinaryReader(entry.Open()).Read(fileData, 0, (int)entry.Length);
+                        //    MemoryStream ms = new MemoryStream();
+                        //    using (ZipArchive za = new ZipArchive(ms, ZipArchiveMode.Update, true))
+                        //    {
+                        //        var zippedFile = za.CreateEntry(entryToFind.entryPath);
+                        //        using (var zfDest = zippedFile.Open())
+                        //            zfDest.Write(fileData);
+                        //    }
+
+                        //    using (FileStream fs = new FileStream(entryToFind.destinationFileName + ".zip", FileMode.OpenOrCreate))
+                        //    {
+                        //        ms.Position = 0;
+                        //        ms.CopyTo(fs);
+                        //        ms.Close();
+                        //        ms.Dispose();
+                        //    }
+                        //}
+                        //else
+                        //{
+                        //    //more complicated because the file may already exist on disc. This causes access errors again, since different threads might want to write to the same zip file.
+                        //    byte[] fileData = new byte[entry.Length];
+                        //    new BinaryReader(entry.Open()).Read(fileData, 0, (int)entry.Length);
+                        //    using (FileStream fs = new FileStream(entryToFind.destinationFileName, FileMode.OpenOrCreate))
+                        //    {
+                        //        using (ZipArchive za = new ZipArchive(fs, ZipArchiveMode.Update, true))
+                        //        {
+                        //            if (!za.Entries.Any(e => e.FullName == entryToFind.discEntryName))
+                        //            {
+                        //                var zippedFile = za.CreateEntry(entryToFind.discEntryName);
+                        //                using (var zfDest = zippedFile.Open())
+                        //                    zfDest.Write(fileData);
+                        //            }
+                        //        }
+                        //    }
+                        //}
                     }
                 }
                 filesMovedOrExtracted++;
@@ -407,42 +426,42 @@ namespace RomDatabase5
 
                     if (ZipInsteadOfMove)
                     {
-                        if (!entryToFind.isDiscEntry)
-                        {
-                            MemoryStream ms = new MemoryStream();
-                            using (ZipArchive za = new ZipArchive(ms, ZipArchiveMode.Update, true))
-                            {
-                                var zippedFile = za.CreateEntry(entryToFind.entryPath);
-                                using (var zf = zippedFile.Open())
-                                    zf.Write(fileData);
-                            }
-                            using (FileStream fs = new FileStream(entryToFind.destinationFileName + ".zip", FileMode.OpenOrCreate))
-                            {
-                                ms.Position = 0;
-                                ms.CopyTo(fs);
-                                ms.Close();
-                                ms.Dispose();
-                            }
-                        }
-                        else
-                        {
-                            //disc entries
-                            MemoryStream ms = new MemoryStream();
-                            using (ZipArchive za = new ZipArchive(ms, ZipArchiveMode.Update, true))
-                            {
-                                var zippedFile = za.CreateEntry(entryToFind.entryPath);
-                                using (var zf = zippedFile.Open())
-                                    zf.Write(fileData);
-                            }
-                            using (FileStream fs = new FileStream(entryToFind.destinationFileName, FileMode.OpenOrCreate))
-                            {
-                                ms.Position = 0;
-                                ms.CopyTo(fs);
-                                ms.Close();
-                                ms.Dispose();
-                            }
-                        }
-
+                        AddZipEntryFromBytes(fileData, entryToFind.destinationFileName + ".zip", entryToFind.isDiscEntry ?  entryToFind.discEntryName : entryToFind.destinationFileName);
+                        //if (!entryToFind.isDiscEntry)
+                        //{
+                        //    MemoryStream ms = new MemoryStream();
+                        //    using (ZipArchive za = new ZipArchive(ms, ZipArchiveMode.Update, true))
+                        //    {
+                        //        var zippedFile = za.CreateEntry(entryToFind.entryPath);
+                        //        using (var zf = zippedFile.Open())
+                        //            zf.Write(fileData);
+                        //    }
+                        //    using (FileStream fs = new FileStream(entryToFind.destinationFileName + ".zip", FileMode.OpenOrCreate))
+                        //    {
+                        //        ms.Position = 0;
+                        //        ms.CopyTo(fs);
+                        //        ms.Close();
+                        //        ms.Dispose();
+                        //    }
+                        //}
+                        //else
+                        //{
+                        //    //disc entries
+                        //    MemoryStream ms = new MemoryStream();
+                        //    using (ZipArchive za = new ZipArchive(ms, ZipArchiveMode.Update, true))
+                        //    {
+                        //        var zippedFile = za.CreateEntry(entryToFind.entryPath);
+                        //        using (var zf = zippedFile.Open())
+                        //            zf.Write(fileData);
+                        //    }
+                        //    using (FileStream fs = new FileStream(entryToFind.destinationFileName, FileMode.OpenOrCreate))
+                        //    {
+                        //        ms.Position = 0;
+                        //        ms.CopyTo(fs);
+                        //        ms.Close();
+                        //        ms.Dispose();
+                        //    }
+                        //}
                     }
                     else
                         File.WriteAllBytes(entryToFind.destinationFileName, fileData);
@@ -491,58 +510,20 @@ namespace RomDatabase5
             });
         }
 
-        //static void MoveFile(string folderpath, string localFilepath, string newFileName)
-        //{
-        //    //Sanity check - if we would move this file to it's current location, don't. (EX: scanning a folder named Unidentified and finding an unidentified file)
-        //    if (localFilepath == folderpath + "\\" + newFileName)
-        //        return;
-
-        //    Directory.CreateDirectory(folderpath); //does nothing if folder already exists
-        //    if (!File.Exists(folderpath + "\\" + newFileName))
-        //        File.Move(localFilepath, folderpath + "\\" + newFileName);
-        //    else if (localFilepath != folderpath + "\\" + newFileName) //If we scan a directory that's also a destination, don't remove the file that we were going to move onto itself.
-        //        File.Delete(localFilepath);
-        //}
-
-        //static void CreateSingleZip(string file, string zipPath)
-        //{
-        //    //Directory.CreateDirectory(Path.GetDirectoryName(zipPath)); //does nothing if folder already exists
-        //    FileStream fs;
-        //    if (!File.Exists(zipPath))
-        //    {
-        //        fs = new FileStream(zipPath, FileMode.CreateNew);
-        //    }
-        //    else
-        //        return; //We arent going to handle dupes.
-
-        //    ZipArchive zf = new ZipArchive(fs, ZipArchiveMode.Create);
-
-        //    zf.CreateEntryFromFile(file, Path.GetFileName(file), CompressionLevel.Optimal);
-
-
-        //    zf.Dispose();
-        //    fs.Close();
-        //    fs.Dispose();
-        //}
-
-        static void CreateZip(string file, string zipPath, string entryName)
+        static void AddZipEntryFromFile(string file, string zipPath, string entryName)
         {
-            FileStream fs = new FileStream(zipPath, FileMode.OpenOrCreate);
-            ZipArchive zf = new ZipArchive(fs, ZipArchiveMode.Update);
-
-            if (!zf.Entries.Any(e => e.FullName == entryName)) //sanity check to avoid adding duplicate files to a zip
-                zf.CreateEntryFromFile(entryName, Path.GetFileName(file), CompressionLevel.Optimal);
-
-            zf.Dispose();
-            fs.Close();
-            fs.Dispose();
+            using (ZipArchive zf = new ZipArchive(System.IO.File.Open(zipPath, FileMode.OpenOrCreate, FileAccess.ReadWrite), ZipArchiveMode.Update))
+            {
+                if (!zf.Entries.Any(e => e.FullName == entryName)) //sanity check to avoid adding duplicate files to a zip
+                    zf.CreateEntryFromFile(file, entryName, CompressionLevel.Optimal);
+            }
         }
 
         static void AddZipEntryFromBytes(byte[] data, string zipPath, string entryName)
         {
             using (FileStream fs = new FileStream(zipPath, FileMode.OpenOrCreate))
+            using (ZipArchive zf = new ZipArchive(fs, ZipArchiveMode.Update))
             {
-                ZipArchive zf = new ZipArchive(fs, ZipArchiveMode.Update);
                 if (!zf.Entries.Any(e => e.FullName == entryName)) //sanity check to avoid adding duplicate files to a zip
                 {
                     var entry = zf.CreateEntry(entryName);
@@ -551,7 +532,6 @@ namespace RomDatabase5
                         bw.Write(data);
                     }
                 }
-                zf.Dispose();
             }
         }
     }
