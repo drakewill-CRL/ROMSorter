@@ -13,7 +13,6 @@ namespace RomDatabase5
         //TODO: set up way to parse switch dat files.
         //TODO: add Cancel button after starting an operation
         //TOOD: re-add full-sequence mode, to operate after all files are scanned and picked invidividually?
-        //TODO: zip all files for a disk into one zip file instead of zipping each separately in a folder. (done for plain files, todo for zipped ones)
         //TODO: streamline Sorter to have less repeated code.
         //TODO: Add a progress bar to the UI to show how far along it is in processing.
         //TODO: fix zip file names not always matching entry filename (entry filename is correct, zip name is not. I think its getting the original zip files name?)
