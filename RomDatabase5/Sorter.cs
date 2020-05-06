@@ -168,9 +168,9 @@ namespace RomDatabase5
                     }
                     else
                     {
-                        //This is an unidentified file. Should flag it as such and fill in some details.
-                        possibleGame.isIdentified = false;
-                        possibleGame.destinationFileName = destinationFolder + "\\Unidentified\\" + possibleGame.originalFileName + (String.IsNullOrWhiteSpace(possibleGame.entryPath) ? "" : Path.GetFileName(possibleGame.entryPath));
+                        //This is an unidentified file. Should flag it as such and fill in some details. Below fields are unused as of now.
+                        //possibleGame.isIdentified = false;
+                        //possibleGame.destinationFileName = destinationFolder + "\\Unidentified\\" + possibleGame.originalFileName + (String.IsNullOrWhiteSpace(possibleGame.entryPath) ? "" : Path.GetFileName(possibleGame.entryPath));
                     }
                 }
                 if (foundCount % filesToReportBetween == 0)
