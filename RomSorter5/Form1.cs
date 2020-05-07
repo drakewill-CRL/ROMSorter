@@ -91,7 +91,7 @@ namespace RomSorter5
             sorter.DisplayAllInfo = chkDisplayAllActions.Checked;
             sorter.moveUnidentified = chkMoveUnidentified.Checked;
             sorter.PreserveOriginals = chkPreserveOriginals.Checked;
-            sorter.UseMultithreading = chkMultithread.Checked;
+            sorter.UseMultithreading = true;
             sorter.ZipInsteadOfMove = chkZipIdentified.Checked;
             sorter.IdentifyOnly = false;
 
@@ -120,7 +120,7 @@ namespace RomSorter5
 
             sorter.DisplayAllInfo = true; //always on for info-only.
             sorter.PreserveOriginals = chkPreserveOriginals.Checked;
-            sorter.UseMultithreading = chkMultithread.Checked;
+            sorter.UseMultithreading = true;
             sorter.IdentifyOnly = true; //doesnt rename or move anything.
 
             await Task.Factory.StartNew(() => sorter.Sort(sourceFolder, destinationFolder, progress));

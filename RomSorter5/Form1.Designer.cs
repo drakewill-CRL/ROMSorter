@@ -32,7 +32,6 @@
             this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
             this.btnSort = new System.Windows.Forms.Button();
             this.lblStatus = new System.Windows.Forms.Label();
-            this.chkMultithread = new System.Windows.Forms.CheckBox();
             this.chkZipIdentified = new System.Windows.Forms.CheckBox();
             this.btnReport = new System.Windows.Forms.Button();
             this.chkMoveUnidentified = new System.Windows.Forms.CheckBox();
@@ -83,25 +82,11 @@
             this.lblStatus.TabIndex = 2;
             this.lblStatus.Text = "Counting...";
             // 
-            // chkMultithread
-            // 
-            this.chkMultithread.AutoSize = true;
-            this.chkMultithread.Checked = true;
-            this.chkMultithread.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.chkMultithread.Enabled = false;
-            this.chkMultithread.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.chkMultithread.Location = new System.Drawing.Point(19, 170);
-            this.chkMultithread.Name = "chkMultithread";
-            this.chkMultithread.Size = new System.Drawing.Size(133, 20);
-            this.chkMultithread.TabIndex = 5;
-            this.chkMultithread.Text = "Use Multithreading";
-            this.chkMultithread.UseVisualStyleBackColor = true;
-            // 
             // chkZipIdentified
             // 
             this.chkZipIdentified.AutoSize = true;
             this.chkZipIdentified.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.chkZipIdentified.Location = new System.Drawing.Point(19, 197);
+            this.chkZipIdentified.Location = new System.Drawing.Point(14, 170);
             this.chkZipIdentified.Name = "chkZipIdentified";
             this.chkZipIdentified.Size = new System.Drawing.Size(186, 20);
             this.chkZipIdentified.TabIndex = 6;
@@ -124,7 +109,7 @@
             // 
             this.chkMoveUnidentified.AutoSize = true;
             this.chkMoveUnidentified.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.chkMoveUnidentified.Location = new System.Drawing.Point(19, 223);
+            this.chkMoveUnidentified.Location = new System.Drawing.Point(14, 196);
             this.chkMoveUnidentified.Name = "chkMoveUnidentified";
             this.chkMoveUnidentified.Size = new System.Drawing.Size(156, 20);
             this.chkMoveUnidentified.TabIndex = 8;
@@ -137,7 +122,7 @@
             this.chkPreserveOriginals.Checked = true;
             this.chkPreserveOriginals.CheckState = System.Windows.Forms.CheckState.Checked;
             this.chkPreserveOriginals.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.chkPreserveOriginals.Location = new System.Drawing.Point(19, 250);
+            this.chkPreserveOriginals.Location = new System.Drawing.Point(14, 223);
             this.chkPreserveOriginals.Name = "chkPreserveOriginals";
             this.chkPreserveOriginals.Size = new System.Drawing.Size(161, 20);
             this.chkPreserveOriginals.TabIndex = 9;
@@ -170,7 +155,7 @@
             // 
             this.chkDisplayAllActions.AutoSize = true;
             this.chkDisplayAllActions.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.chkDisplayAllActions.Location = new System.Drawing.Point(19, 276);
+            this.chkDisplayAllActions.Location = new System.Drawing.Point(14, 249);
             this.chkDisplayAllActions.Name = "chkDisplayAllActions";
             this.chkDisplayAllActions.Size = new System.Drawing.Size(130, 20);
             this.chkDisplayAllActions.TabIndex = 9;
@@ -182,7 +167,7 @@
             // 
             this.chkSingleThread.AutoSize = true;
             this.chkSingleThread.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.chkSingleThread.Location = new System.Drawing.Point(19, 302);
+            this.chkSingleThread.Location = new System.Drawing.Point(14, 275);
             this.chkSingleThread.Name = "chkSingleThread";
             this.chkSingleThread.Size = new System.Drawing.Size(163, 20);
             this.chkSingleThread.TabIndex = 9;
@@ -203,7 +188,6 @@
             this.Controls.Add(this.chkMoveUnidentified);
             this.Controls.Add(this.btnReport);
             this.Controls.Add(this.chkZipIdentified);
-            this.Controls.Add(this.chkMultithread);
             this.Controls.Add(this.lblStatus);
             this.Controls.Add(this.btnSort);
             this.Controls.Add(this.btnPickFolder);
@@ -222,7 +206,6 @@
         private System.Windows.Forms.OpenFileDialog openFileDialog1;
         private System.Windows.Forms.Button btnSort;
         private System.Windows.Forms.Label lblStatus;
-        private System.Windows.Forms.CheckBox chkMultithread;
         private System.Windows.Forms.CheckBox chkZipIdentified;
         private System.Windows.Forms.Button btnReport;
         private System.Windows.Forms.CheckBox chkMoveUnidentified;

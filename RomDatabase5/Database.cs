@@ -22,6 +22,7 @@ namespace RomDatabase5
         //--likely low hanging fruit: pass byte[]s byref to hasher functions, so they dont copy that in memory
         //TODO: see if moving to NET 5 fixed the File.ReadAllBytes() limit beyond 2GB.
         //TODO: add in WinUI3 support to front-ends when its available for .NET 5
+        //TODO: handle tracking errors and report all at the end of the process
         //TODO: personal Dats pending an update:
         //Z-Machine (added art show files)
         //glulx (actually, all the IF Archive stuff)
