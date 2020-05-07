@@ -40,6 +40,7 @@
             this.txtMessageLog = new System.Windows.Forms.TextBox();
             this.btnPickDestination = new System.Windows.Forms.Button();
             this.chkDisplayAllActions = new System.Windows.Forms.CheckBox();
+            this.chkSingleThread = new System.Windows.Forms.CheckBox();
             this.SuspendLayout();
             // 
             // btnPickFolder
@@ -177,11 +178,24 @@
             this.chkDisplayAllActions.UseVisualStyleBackColor = true;
             this.chkDisplayAllActions.CheckedChanged += new System.EventHandler(this.chkDisplayAllActions_CheckedChanged);
             // 
+            // chkSingleThread
+            // 
+            this.chkSingleThread.AutoSize = true;
+            this.chkSingleThread.FlatStyle = System.Windows.Forms.FlatStyle.System;
+            this.chkSingleThread.Location = new System.Drawing.Point(19, 302);
+            this.chkSingleThread.Name = "chkSingleThread";
+            this.chkSingleThread.Size = new System.Drawing.Size(163, 20);
+            this.chkSingleThread.TabIndex = 9;
+            this.chkSingleThread.Text = "Use Low-Resource Mode";
+            this.chkSingleThread.UseVisualStyleBackColor = true;
+            this.chkSingleThread.CheckedChanged += new System.EventHandler(this.chkDisplayAllActions_CheckedChanged);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(226, 533);
+            this.Controls.Add(this.chkSingleThread);
             this.Controls.Add(this.chkDisplayAllActions);
             this.Controls.Add(this.btnPickDestination);
             this.Controls.Add(this.txtMessageLog);
@@ -216,6 +230,7 @@
         private System.Windows.Forms.TextBox txtMessageLog;
         private System.Windows.Forms.Button btnPickDestination;
         private System.Windows.Forms.CheckBox chkDisplayAllActions;
+        private System.Windows.Forms.CheckBox chkSingleThread;
     }
 }
 

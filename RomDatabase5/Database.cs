@@ -12,10 +12,16 @@ namespace RomDatabase5
         //TODO: copy over appropriate TODOs
         //TODO: set up way to parse switch dat files.
         //TODO: add Cancel button after starting an operation
-        //TOOD: re-add full-sequence mode, to operate after all files are scanned and picked invidividually?
+        //TOOD: re-add full-sequence mode, to do all operations to a single file in order. This will take longer in most cases, but will work much better on low-resource machines (especially on bigger files, like DS games or ISO files.)
+        //--call it something better than single-thread mode?
         //TODO: streamline Sorter to have less repeated code.
         //TODO: Add a progress bar to the UI to show how far along it is in processing.
         //TODO: fix zip file names not always matching entry filename (entry filename is correct, zip name is not. I think its getting the original zip files name?)
+        //TODO: Ponder performance implications of virtual memory, and see if there's a way to roughly guess how many threads should be active at once based on attempting to avoid disk thrashing
+        //TODO: I focused on CPU use optimization/user-facing speed as much as possible before. Should probably also look into optimizing memory use, since VM swapping is likely to be an issue on slower discs and bigger files.
+        //--likely low hanging fruit: pass byte[]s byref to hasher functions, so they dont copy that in memory
+        //TODO: see if moving to NET 5 fixed the File.ReadAllBytes() limit beyond 2GB.
+        //TODO: add in WinUI3 support to front-ends when its available for .NET 5
         //TODO: personal Dats pending an update:
         //Z-Machine (added art show files)
         //glulx (actually, all the IF Archive stuff)

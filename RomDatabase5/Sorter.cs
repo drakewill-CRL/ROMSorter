@@ -43,8 +43,8 @@ namespace RomDatabase5
 
         LookupEntry GetFileHashes(string file, Hasher hasher)
         {
-
-            var hashes = hasher.HashFile(File.ReadAllBytes(file));
+            byte[] fileData = File.ReadAllBytes(file);
+            var hashes = hasher.HashFile(ref fileData);
             FileInfo fi = new FileInfo(file);
             LookupEntry le = new LookupEntry();
             le.originalFileName = file;
@@ -54,6 +54,7 @@ namespace RomDatabase5
             le.crc = hashes[2];
             le.size = fi.Length;
 
+            fileData = null;
             return le;
         }
 
@@ -68,6 +69,8 @@ namespace RomDatabase5
             EnumerateAllFiles(sourceFolder);
             progress.Report(files.Count() + " files found in " + sw.Elapsed.ToString());
             sw.Stop();
+
+            //TODO: sum filesizes to approximate total RAM usage, possibly consider for optimization or thread-count purposes?
         }
 
         public void Sort(string topFolder, string destinationFolder, IProgress<string> progress = null)
@@ -244,11 +247,11 @@ namespace RomDatabase5
 
             //step 5
             //clean up. Remove empty folders?
-            if (!PreserveOriginals)
-            {
-                foreach (var file in foundFiles)
-                    File.Delete(file.originalFileName);
-            }
+            //if (!PreserveOriginals)
+            //{
+            //    foreach (var file in foundFiles)
+            //        File.Delete(file.originalFileName);
+            //}
             CleanupLoop(topFolder);
             progress.Report("Source Directory cleanup completed in " + sw.Elapsed.ToString());
             sw.Stop();
@@ -332,8 +335,10 @@ namespace RomDatabase5
                 else
                 {
                     if (!File.Exists(pf.destinationFileName))
-                        File.Move(pf.originalFileName, pf.destinationFileName);
+                        File.Copy(pf.originalFileName, pf.destinationFileName);
                 }
+                if (!PreserveOriginals)
+                    File.Delete(pf.originalFileName);
 
                 filesMovedOrExtracted++;
             });
@@ -354,13 +359,16 @@ namespace RomDatabase5
                         byte[] fileData = new byte[entry.Length];
                         new BinaryReader(entry.Open()).Read(fileData, 0, (int)entry.Length);
                         if (entryToFind.isDiscEntry)
-                            AddZipEntryFromBytes(fileData, entryToFind.destinationFileName + ".zip", entryToFind.isDiscEntry ? entryToFind.discEntryName : entryToFind.destinationFileName);
+                            AddZipEntryFromBytes(ref fileData, entryToFind.destinationFileName + ".zip", entryToFind.isDiscEntry ? entryToFind.discEntryName : entryToFind.destinationFileName);
                         else
-                            AddZipEntryFromBytes(fileData, entryToFind.destinationFileName + ".zip", Path.GetFileName(entryToFind.destinationFileName));
+                            AddZipEntryFromBytes(ref fileData, entryToFind.destinationFileName + ".zip", Path.GetFileName(entryToFind.destinationFileName));
+                        fileData = null;
                     }
                 }
                 filesMovedOrExtracted++;
                 zipFile.Dispose();
+                if (!PreserveOriginals)
+                    File.Delete(zf.Key);
             });
         }
 
@@ -375,9 +383,10 @@ namespace RomDatabase5
                     new BinaryReader(entry.OpenEntryStream()).Read(fileData, 0, (int)entry.Size);
 
                     if (ZipInsteadOfMove)
-                        AddZipEntryFromBytes(fileData, entryToFind.destinationFileName + ".zip", entryToFind.isDiscEntry ?  entryToFind.discEntryName : entryToFind.destinationFileName);
+                        AddZipEntryFromBytes(ref fileData, entryToFind.destinationFileName + ".zip", entryToFind.isDiscEntry ?  entryToFind.discEntryName : entryToFind.destinationFileName);
                     else
                         File.WriteAllBytes(entryToFind.destinationFileName, fileData);
+                    fileData = null;
                 }
                 filesMovedOrExtracted++;
             }
@@ -390,6 +399,8 @@ namespace RomDatabase5
                 var rarFile = SharpCompress.Archives.Rar.RarArchive.Open(rf.Key);//might have multiple files to extract from a zip, thats why these are grouped.
                 InnerArchiveLoop(rarFile, rf);
                 rarFile.Dispose();
+                if (!PreserveOriginals)
+                    File.Delete(rf.Key);
             });
         }
 
@@ -400,6 +411,8 @@ namespace RomDatabase5
                 var sevenZFile = SharpCompress.Archives.SevenZip.SevenZipArchive.Open(sz.Key);//might have multiple files to extract from a zip, thats why these are grouped.
                 InnerArchiveLoop(sevenZFile, sz);
                 sevenZFile.Dispose();
+                if (!PreserveOriginals)
+                    File.Delete(sz.Key);
             });
         }
 
@@ -410,6 +423,8 @@ namespace RomDatabase5
                 var gzFile = SharpCompress.Archives.GZip.GZipArchive.Open(gz.Key);//might have multiple files to extract from a zip, thats why these are grouped.
                 InnerArchiveLoop(gzFile, gz);
                 gzFile.Dispose();
+                if (!PreserveOriginals)
+                    File.Delete(gz.Key);
             });
         }
 
@@ -420,6 +435,8 @@ namespace RomDatabase5
                 var tarFile = SharpCompress.Archives.Tar.TarArchive.Open(tf.Key);//might have multiple files to extract from a zip, thats why these are grouped.
                 InnerArchiveLoop(tarFile, tf);
                 tarFile.Dispose();
+                if (!PreserveOriginals)
+                    File.Delete(tf.Key);
             });
         }
 
@@ -432,7 +449,7 @@ namespace RomDatabase5
             }
         }
 
-        static void AddZipEntryFromBytes(byte[] data, string zipPath, string entryName)
+        static void AddZipEntryFromBytes(ref byte[] data, string zipPath, string entryName)
         {
             using (FileStream fs = new FileStream(zipPath, FileMode.OpenOrCreate))
             using (ZipArchive zf = new ZipArchive(fs, ZipArchiveMode.Update))
@@ -447,5 +464,120 @@ namespace RomDatabase5
                 }
             }
         }
+
+        public void SortSingleThreaded(string topFolder, string destinationFolder, IProgress<string> progress = null)
+        {
+            System.Diagnostics.Stopwatch sw = new System.Diagnostics.Stopwatch();
+            sw.Start();
+            filesMovedOrExtracted = 0;
+            filesToReportBetween = 1; //Single-threading, may as well report at each step of progress.
+            Hasher hasher = new Hasher();
+
+            //Step 2: hash files, looking into zip files
+            progress.Report("Hashing files");
+            List<LookupEntry> filesToFind = new List<LookupEntry>();
+            foreach (var file in files)
+            {
+                List<LookupEntry> le = new List<LookupEntry>(); //single-threading across files and entries, but we may still hit a zip with multiple games in it.
+
+                //hash file
+                switch (Path.GetExtension(file))
+                {
+                    case ".zip":
+                        le = hasher.HashFromZip(file);
+                        break;
+                    case ".rar":
+                        le = hasher.HashFromRar(file);
+                        break;
+                    case ".gz":
+                    case ".gzip":
+                        le = hasher.HashFromGzip(file);
+                        break;
+                    case ".tar":
+                        le = hasher.HashFromTar(file);
+                        break;
+                    case ".7z":
+                        le = hasher.HashFrom7z(file);
+                        break;
+                    default:
+                        byte[] fileData = File.ReadAllBytes(file);
+                        var hashes = hasher.HashFile(ref fileData);
+                        le = new List<LookupEntry>() { new LookupEntry() { originalFileName = file, size = fileData.Length, fileType = LookupEntryType.File, crc = hashes[2], sha1 = hashes[1], md5 = hashes[0] } };
+                        fileData = null;
+                        break;
+                }
+
+                //identify file
+                foreach (var possibleGame in le)
+                {
+                    var db = new DatabaseEntities(); //Using the EF here is twice as fast in my testing versus the original code, before adding console names Adding console names makes it ~ 50% slower (15s vs 10s).
+                    var gameEntry = db.FindGame(possibleGame.size, possibleGame.crc, possibleGame.md5, possibleGame.sha1);
+                    if (gameEntry != null)
+                    {
+                        possibleGame.destinationFileName = destinationFolder + "\\" + db.consoleIDs[gameEntry.Console.Value].First() + "\\" + gameEntry.Description;
+                        possibleGame.console = db.consoleIDs[gameEntry.Console.Value].First();
+                        possibleGame.isIdentified = true;
+                    }
+                    else
+                    {
+                        var discEntries = db.FindDisc(possibleGame.size, possibleGame.crc, possibleGame.md5, possibleGame.sha1);
+                        if (discEntries.Count > 0)
+                        {
+                            foreach (var de in discEntries)
+                            {
+                                if (ZipInsteadOfMove)
+                                    possibleGame.destinationFileName = destinationFolder + "\\" + db.consoleIDs[de.Console.Value].First() + "\\" + de.Name + ".zip";
+                                else
+                                    possibleGame.destinationFileName = destinationFolder + "\\" + db.consoleIDs[de.Console.Value].First() + "\\" + de.Name + "\\" + de.Description;
+                                possibleGame.console = db.consoleIDs[de.Console.Value].First() + (ZipInsteadOfMove ? "" : "\\" + de.Name); //Discs treat games as folders (or zip files)
+                                possibleGame.isIdentified = true;
+                                possibleGame.isDiscEntry = true;
+                                possibleGame.discEntryName = de.Description;
+                                //possibleGame.discGameName = de.Name;
+                            }
+                        }
+                        else
+                        {
+                            //This is an unidentified file. Should flag it as such and fill in some details. Below fields are unused as of now.
+                            //possibleGame.isIdentified = false;
+                            //possibleGame.destinationFileName = destinationFolder + "\\Unidentified\\" + possibleGame.originalFileName + (String.IsNullOrWhiteSpace(possibleGame.entryPath) ? "" : Path.GetFileName(possibleGame.entryPath));
+                        }
+                    }
+
+                    if (!String.IsNullOrEmpty(possibleGame.destinationFileName))
+                        progress.Report("Identified " + Path.GetFileName(possibleGame.originalFileName) + (possibleGame.entryPath == null ? "" : "[" + possibleGame.entryPath + "]") + " as " + Path.GetFileName(possibleGame.destinationFileName));
+                    else
+                        progress.Report("Couldn't identify " + Path.GetFileName(possibleGame.originalFileName));
+                }
+
+                //Move file. These are still parallel, but its by originalFileName, so they shouldn't fork into mulitple threads.
+                switch (le.First().fileType)
+                {
+                    case LookupEntryType.File:
+                        HandlePlainFiles(le);
+                        break;
+                    case LookupEntryType.GZipEntry:
+                        HandleGZipEntries(le.GroupBy(l => l.originalFileName).ToList());
+                        break;
+                    case LookupEntryType.RarEntry:
+                        HandleRarEntries(le.GroupBy(l => l.originalFileName).ToList());
+                        break;
+                    case LookupEntryType.SevenZEntry:
+                        Handle7zEntries(le.GroupBy(l => l.originalFileName).ToList());
+                        break;
+                    case LookupEntryType.TarEntry:
+                        HandleTarEntries(le.GroupBy(l => l.originalFileName).ToList());
+                        break;
+                    case LookupEntryType.ZipEntry:
+                        HandleZipEntries(le.GroupBy(l => l.originalFileName).ToList());
+                        break;
+
+                }
+            }
+
+            CleanupLoop(topFolder);
+            progress.Report("Source Directory cleanup completed");
+            sw.Stop();
+        }            
     }
 }

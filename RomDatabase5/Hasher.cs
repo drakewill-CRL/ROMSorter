@@ -5,6 +5,7 @@ using Force.Crc32;
 using System.IO.Compression;
 using System.IO;
 using System.Collections.Generic;
+using System.Threading.Tasks;
 
 namespace RomDatabase5
 {
@@ -26,7 +27,7 @@ namespace RomDatabase5
             crc = new Crc32Algorithm();
         }
 
-        string HashToString(byte[] hash)
+        string HashToString(ref byte[] hash)
         {
             StringBuilder sb = new StringBuilder();
             for (int i = 0; i < hash.Length; i++)
@@ -38,15 +39,17 @@ namespace RomDatabase5
             return sb.ToString().ToLower();
         }
 
-        public string[] HashFile(byte[] fileData)
+        public string[] HashFile(ref byte[] fileData)
         {
             //hashes files all 3 ways. 
-
             string[] results = new string[3];
-            results[0] = HashToString(md5.ComputeHash(fileData));
-            results[1] = HashToString(sha1.ComputeHash(fileData));
-            results[2] = HashToString(crc.ComputeHash(fileData));
-
+            var md5hash = md5.ComputeHash(fileData); //can't use ref parameters in lambdas. Huh.
+            var sha1hash = sha1.ComputeHash(fileData);
+            var crchash = crc.ComputeHash(fileData);
+            results[0] = HashToString(ref md5hash);
+            results[1] = HashToString(ref sha1hash);
+            results[2] = HashToString(ref crchash);
+            
             return results;
         }
 
@@ -57,7 +60,7 @@ namespace RomDatabase5
                 var br = new BinaryReader(entry.Open());
                 byte[] data = new byte[(int)entry.Length];
                 br.Read(data, 0, (int)entry.Length);
-                var hashes = HashFile(data);
+                var hashes = HashFile(ref data);
                 data = null;
                 br.Close();
                 br.Dispose();
@@ -74,7 +77,7 @@ namespace RomDatabase5
             var br = new BinaryReader(entry.OpenEntryStream());
             byte[] data = new byte[(int)entry.Size];
             br.Read(data, 0, (int)entry.Size);
-            var hashes = HashFile(data);
+            var hashes = HashFile(ref data);
             data = null;
             br.Close();
             br.Dispose();

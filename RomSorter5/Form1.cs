@@ -95,7 +95,10 @@ namespace RomSorter5
             sorter.ZipInsteadOfMove = chkZipIdentified.Checked;
             sorter.IdentifyOnly = false;
 
-            await Task.Factory.StartNew(() => sorter.Sort(sourceFolder, destinationFolder, progress));
+            if (chkSingleThread.Checked)
+                await Task.Factory.StartNew(() => sorter.SortSingleThreaded(sourceFolder, destinationFolder, progress));
+            else
+                await Task.Factory.StartNew(() => sorter.Sort(sourceFolder, destinationFolder, progress));
 
             sw.Stop();
             lblStatus.Text = "Games sorted in " + sw.Elapsed.ToString();

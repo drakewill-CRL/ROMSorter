@@ -86,7 +86,7 @@ namespace RomDatabase5
 
         static string GetGameAndRomEntrySingleFile(string filename, byte[] file)
         {
-            var hashes = hasher.HashFile(file);
+            var hashes = hasher.HashFile(ref file);
             StringBuilder results = new StringBuilder();
             results.AppendLine("<game name=\"" + System.IO.Path.GetFileNameWithoutExtension(filename).Replace("&", "&amp;") + "\">");
             results.AppendLine("<description>" + System.IO.Path.GetFileNameWithoutExtension(filename).Replace("&", "&amp;") + "</description>");
@@ -144,7 +144,7 @@ namespace RomDatabase5
                     var br = new BinaryReader(entry.Open());
                     byte[] data = new byte[(int)entry.Length];
                     br.Read(data, 0, (int)entry.Length); //Exception occurs if length is 0 or negative?
-                    var hashes = hasher.HashFile(data);
+                    var hashes = hasher.HashFile(ref data);
                     results.AppendLine("<rom name=\"" + entry.FullName.Replace("&", "&amp;") + "\" size=\"" + entry.Length + "\" crc=\"" + hashes[2] + "\" md5=\"" + hashes[0] + "\" sha1=\"" + hashes[1] + "\"/>");
                     br.Close();
                     br.Dispose();
@@ -166,7 +166,8 @@ namespace RomDatabase5
             foreach (var file in files)
             {
                 FileInfo fi = new FileInfo(file);
-                var hashes = hasher.HashFile(File.ReadAllBytes(file));
+                byte[] fileData = File.ReadAllBytes(file);
+                var hashes = hasher.HashFile(ref fileData);
                 results.AppendLine("<rom name=\"" + fi.Name.Replace("&", "&amp;") + "\" size=\"" + fi.Length + "\" crc=\"" + hashes[2] + "\" md5=\"" + hashes[0] + "\" sha1=\"" + hashes[1] + "\"/>");
             }
 
