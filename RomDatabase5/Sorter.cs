@@ -591,13 +591,15 @@ namespace RomDatabase5
                                     break;
                             }
                         }
-                        else if (moveUnidentified)
-                        {
-                            Directory.CreateDirectory(destinationFolder + "\\Unidentified");
-                            HandleUnidentifiedFiles(new List<LookupEntry>() { finalFile }, destinationFolder + "\\Unidentified\\");
-                        }
                         progress.Report("File moved;");
                     }
+
+                    foreach (var unID in le.Where(l => !l.isIdentified))
+                        if (moveUnidentified)
+                        {
+                            Directory.CreateDirectory(destinationFolder + "\\Unidentified");
+                            HandleUnidentifiedFiles(new List<LookupEntry>() { unID }, destinationFolder + "\\Unidentified\\");
+                        }
                 }
             }
 
