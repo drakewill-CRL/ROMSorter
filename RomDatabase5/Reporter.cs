@@ -81,15 +81,16 @@ namespace RomDatabase5
                 var fi = new FileInfo(file);
                 byte[] fileData = File.ReadAllBytes(file);
                 var game = Database.FindGame((int)fi.Length, hasher.HashFileRef(ref fileData));
-                if (game != null && game.id != null)
-                {
-                    foundFiles.AppendLine("Identified " + fi.Name + " as " + game.name);
-                    gameIDs.Add(game.id);
-                }
-                else
-                {
-                    unknownFiles.AppendLine("Couldn't identify " + file);
-                }
+                //TODO restore this when I make reporter a thing again.
+                //if (game != null && game.id != null)
+                //{
+                //    foundFiles.AppendLine("Identified " + fi.Name + " as " + game.name);
+                //    gameIDs.Add(game.id);
+                //}
+                //else
+                //{
+                //    unknownFiles.AppendLine("Couldn't identify " + file);
+                //}
             }
 
             //list all games by console. Mark which ones are missing.

@@ -9,7 +9,9 @@ namespace RomDatabase5
     {
 
         //Notes
-        //TODO: copy over appropriate TODOs
+        //TODO: HUGE ISSUE: when looping over possible game entries and there's more than 1, make sure to make a new entry in a new list of duplicates to copy.
+        //--we can't edit the list while we're in the loop, and right nwo it just copies the file to the last entry it found since it iterates over the same possibleGame entry.
+        //--will also need to wait until all entries for a file are created before moving/deleting the original.
         //TODO: set up way to parse switch dat files.
         //TODO: consider forcing a destination folder? most issues are related to writing to the same folder thats being read, but I think i have mostly resolved those.
         //TODO: add Cancel button after starting an operation
@@ -21,7 +23,7 @@ namespace RomDatabase5
         //TODO: fix zip file names not always matching entry filename (entry filename is correct, zip name is not. I think its getting the original zip files name?)
         //TODO: Ponder performance implications of virtual memory, and see if there's a way to roughly guess how many threads should be active at once based on attempting to avoid disk thrashing
         //TODO: I focused on CPU use optimization/user-facing speed as much as possible before. Should probably also look into optimizing memory use, since VM swapping is likely to be an issue on slower discs and bigger files.
-        //--likely low hanging fruit: pass byte[]s byref to hasher functions, so they dont copy that in memory
+        //TODO: if a zip file only contains 1 file, and its an identified game, rename the entry, then rename and move the .zip file instead of extracting and re-zipping it. Performance boost
         //TODO: see if moving to NET 5 fixed the File.ReadAllBytes() limit beyond 2GB.
         //TODO: add in WinUI3 support to front-ends when its available for .NET 5
         //TODO: handle tracking errors and report all at the end of the process (disk space, conflicts, password protected files, etc)
@@ -377,14 +379,14 @@ namespace RomDatabase5
 
         }
 
-        public static Game FindGame(long size, string[] hashes)
+        public static List<Game> FindGame(long size, string[] hashes)
         {
             return FindGame(size, hashes[2], hashes[0], hashes[1]);
         }
 
-        public static Game FindGame(long size, string crc, string md5, string sha1)
+        public static List<Game> FindGame(long size, string crc, string md5, string sha1)
         {
-            Game g = new Game();
+            List<Game> g = new List<Game>();
 
             var connection = new SQLiteConnection(conString);
             connection.Open();
@@ -397,7 +399,7 @@ namespace RomDatabase5
 
             var results = cmd.ExecuteReader();
             if (results != null)
-                g = MapReaderToGame(results).FirstOrDefault();
+                g = MapReaderToGame(results).ToList();
             return g;
         }
 

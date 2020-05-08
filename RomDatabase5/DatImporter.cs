@@ -146,12 +146,25 @@ namespace RomDatabase5
                         if (highIntegrity)
                         {
                             var isDupe = Database.FindGame(tempGame.size, new string[3] { tempGame.md5, tempGame.sha1, tempGame.crc });
-                            if (isDupe != null && isDupe.id != null)
+                            if (isDupe != null && isDupe.Count() > 0)
                             {
-                                //write log on duplicate entry.
-                                filelock.EnterWriteLock();
-                                System.IO.File.AppendAllLines("insertLog.txt", new List<string>() { "Game '" + tempGame.name + "' in " + datFile + " already matches existing entry '" + isDupe.name + "' from " + isDupe.datFile });
-                                filelock.ExitWriteLock();
+                                foreach (var dupe in isDupe)
+                                {
+                                    if (dupe.consoleID == tempGame.consoleID) //duplicates from different consoles means that the game is in a collection on another system (EX: i have an entry for both an Amiga game and its ScummVM file)
+                                    {
+                                        //write log on duplicate entry.
+                                        filelock.EnterWriteLock();
+                                        System.IO.File.AppendAllLines("insertLog.txt", new List<string>() { "Game '" + tempGame.name + "' in " + datFile + " already matches existing entry '" + dupe.name + "' from " + dupe.datFile });
+                                        filelock.ExitWriteLock();
+                                    }
+                                    else
+                                    {
+                                        filelock.EnterWriteLock();
+                                        System.IO.File.AppendAllLines("insertLog.txt", new List<string>() { "Game '" + tempGame.name + "' in " + datFile + " matches other console entry  '" + dupe.name + "' from " + dupe.datFile });
+                                        filelock.ExitWriteLock();
+                                        Database.InsertGame(tempGame);
+                                    }
+                                }
                             }
                             else
                                 Database.InsertGame(tempGame); //High integrity means we dont batch these, in case an entry is in 2 files simultaneously.
@@ -203,12 +216,25 @@ namespace RomDatabase5
                 tempGame.size = Int64.Parse(entry.GetAttribute("size")); //3DS games and DVDs can go over 4GB
                 tempGame.datFileID = datFileID;
                 var isDupe = Database.FindGame(tempGame.size, new string[3] { tempGame.md5, tempGame.sha1, tempGame.crc });
-                if (isDupe != null && isDupe.id != null)
+                if (isDupe != null && isDupe.Count() > 0)
                 {
-                    //write log on duplicate entry.
-                    filelock.EnterWriteLock();
-                    System.IO.File.AppendAllLines("insertLog.txt", new List<string>() { "Game '" + tempGame.name + "' in " + datFile + " already matches existing entry '" + isDupe.name + "' from " + isDupe.datFile });
-                    filelock.ExitWriteLock();
+                    foreach (var dupe in isDupe)
+                    {
+                        if (dupe.consoleID == tempGame.consoleID) //duplicates from different consoles means that the game is in a collection on another system (EX: i have an entry for both an Amiga game and its ScummVM file)
+                        {
+                            //write log on duplicate entry.
+                            filelock.EnterWriteLock();
+                            System.IO.File.AppendAllLines("insertLog.txt", new List<string>() { "Game '" + tempGame.name + "' in " + datFile + " already matches existing entry '" + dupe.name + "' from " + dupe.datFile });
+                            filelock.ExitWriteLock();
+                        }
+                        else
+                        {
+                            filelock.EnterWriteLock();
+                            System.IO.File.AppendAllLines("insertLog.txt", new List<string>() { "Game '" + tempGame.name + "' in " + datFile + " matches other console entry  '" + dupe.name + "' from " + dupe.datFile });
+                            filelock.ExitWriteLock();
+                            Database.InsertGame(tempGame);
+                        }
+                    }
                 }
                 else
                     Database.InsertGame(tempGame);

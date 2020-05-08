@@ -79,16 +79,16 @@ namespace RomDatabase5
             return finalResults.OrderBy(fr => fr.Item1).ToList();
         }
 
-        public Games FindGame(long size, string[] hashes)
+        public List<Games> FindGame(long size, string[] hashes)
         {
             return FindGame(size, hashes[2], hashes[0], hashes[1]);
         }
 
-        public Games FindGame(long size, string crc, string md5, string sha1)
+        public List<Games> FindGame(long size, string crc, string md5, string sha1)
         {
             //Potentially necessary future planning TODO:
             //get all games by CRC, then search by SHA1, then MD5 (Pinball dat files don't have MD5s, so this won't find them   
-            Games g = db.Games.Where(g => g.Size == size && g.Crc == crc && g.Md5 == md5 && g.Sha1 == sha1).FirstOrDefault();
+            List<Games> g = db.Games.Where(g => g.Size == size && g.Crc == crc && g.Md5 == md5 && g.Sha1 == sha1).ToList();
             return g;
         }
 

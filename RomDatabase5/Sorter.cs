@@ -144,12 +144,15 @@ namespace RomDatabase5
             {
                 var db = new DatabaseEntities(); //Using the EF here is twice as fast in my testing versus the original code, before adding console names Adding console names makes it ~ 50% slower (15s vs 10s).
                 var gameEntry = db.FindGame(possibleGame.size, possibleGame.crc, possibleGame.md5, possibleGame.sha1);
-                if (gameEntry != null)
+                if (gameEntry != null && gameEntry.Count > 0)
                 {
-                    foundCount++;
-                    possibleGame.destinationFileName = destinationFolder + "\\" + db.consoleIDs[gameEntry.Console.Value].First() + "\\" + gameEntry.Description;
-                    possibleGame.console = db.consoleIDs[gameEntry.Console.Value].First();
-                    possibleGame.isIdentified = true;
+                    foreach (var ge in gameEntry)
+                    {
+                        foundCount++;
+                        possibleGame.destinationFileName = destinationFolder + "\\" + db.consoleIDs[ge.Console.Value].First() + "\\" + ge.Description;
+                        possibleGame.console = db.consoleIDs[ge.Console.Value].First();
+                        possibleGame.isIdentified = true;
+                    }
                 }
                 else
                 {
@@ -527,11 +530,14 @@ namespace RomDatabase5
                     {
 
                         var gameEntry = db.FindGame(possibleGame.size, possibleGame.crc, possibleGame.md5, possibleGame.sha1);
-                        if (gameEntry != null)
+                        if (gameEntry != null && gameEntry.Count > 0)
                         {
-                            possibleGame.destinationFileName = destinationFolder + "\\" + db.consoleIDs[gameEntry.Console.Value].First() + "\\" + gameEntry.Description;
-                            possibleGame.console = db.consoleIDs[gameEntry.Console.Value].First();
-                            possibleGame.isIdentified = true;
+                            foreach (var ge in gameEntry)
+                            {
+                                possibleGame.destinationFileName = destinationFolder + "\\" + db.consoleIDs[ge.Console.Value].First() + "\\" + ge.Description;
+                                possibleGame.console = db.consoleIDs[ge.Console.Value].First();
+                                possibleGame.isIdentified = true;
+                            }
                         }
                         else
                         {
