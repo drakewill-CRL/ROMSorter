@@ -11,10 +11,12 @@ namespace RomDatabase5
         //Notes
         //TODO: copy over appropriate TODOs
         //TODO: set up way to parse switch dat files.
+        //TODO: consider forcing a destination folder? most issues are related to writing to the same folder thats being read, but I think i have mostly resolved those.
         //TODO: add Cancel button after starting an operation
         //TODO: identify common files across discs, then decide if there's a way to only copy it to the ones that are actually present (EX: readme-SDL.text, 0-byte config files)
         //TODO: fix single-thread logic. Its deleting files if any of its contents were found, moves whole zip if all files inside are unidentified.
         //TODO: streamline Sorter to have less repeated code.
+        //TODO: treat dat entries for games as duplicates only if they have the same size, hashes, AND console. Identical games across multiple consoles means that a rom is shared by different systems (sometimes a BIOS for MAME, or a game appearing in SCUMMVM and its native platform)
         //TODO: Add a progress bar to the UI to show how far along it is in processing.
         //TODO: fix zip file names not always matching entry filename (entry filename is correct, zip name is not. I think its getting the original zip files name?)
         //TODO: Ponder performance implications of virtual memory, and see if there's a way to roughly guess how many threads should be active at once based on attempting to avoid disk thrashing
