@@ -142,5 +142,63 @@ namespace RomSorter5
             MessageBox.Show(resultsSummary);
             int a = 1;
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Hasher h = new Hasher();
+            Stopwatch sw = new Stopwatch();
+            byte[] b1 = new byte[4096];
+
+            sw.Start();
+            h.HashFile(b1);
+            sw.Stop();
+            var h1Time = sw.Elapsed; //.029
+
+            sw.Restart();
+            h.HashFileRef(ref b1);
+            sw.Stop();
+            var r1Time = sw.Elapsed; //4k time .0001
+
+            b1 = new byte[4096000];
+
+            sw.Restart();
+            h.HashFile(b1);
+            sw.Stop();
+            var h2Time = sw.Elapsed; //.007
+
+            sw.Restart();
+            h.HashFileRef(ref b1);
+            sw.Stop();
+            var r2Time = sw.Elapsed; //4M time .018
+
+            b1 = new byte[40960000];
+
+            sw.Restart();
+            h.HashFile(b1);
+            sw.Stop();
+            var h3Time = sw.Elapsed; //.07
+
+            sw.Restart();
+            h.HashFileRef(ref b1);
+            sw.Stop();
+            var r3Time = sw.Elapsed; //40M time .17s
+
+            b1 = new byte[409600000];
+
+            sw.Restart();
+            h.HashFile(b1);
+            sw.Stop();
+            var h4Time = sw.Elapsed; //.8ms
+
+            sw.Restart();
+            h.HashFileRef(ref b1);
+            sw.Stop();
+            var r4Time = sw.Elapsed; //400M time 1.82s
+
+
+            //byRef serial hashing is faster on 4k files, slower on all other, but also uses 1/4th the ram(?)
+            var a = 1;
+
+        }
     }
 }

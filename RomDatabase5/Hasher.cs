@@ -66,8 +66,7 @@ namespace RomDatabase5
 
         public string[] HashFileRef(ref byte[] fileData)
         {
-            //hashes files all 3 ways.  This one is probably faster on smaller files by not dealing with threading overhead, but I dont know where the limit is.  
-            //TODO: ponder benchmarking this on machines somehow (make byte arrays of X sizes, stopwatch them.)
+            //hashes files all 3 ways.  This one is probably faster on smaller files by not dealing with threading overhead, but I dont know where the limit is.    
             string[] results = new string[3];
             var m = HashToString(md5.ComputeHash(fileData)); 
             var s = HashToString(sha1.ComputeHash(fileData)); 

@@ -35,6 +35,7 @@
             this.btnCountbyConsole = new System.Windows.Forms.Button();
             this.lblTestStatus = new System.Windows.Forms.Label();
             this.btnTestEntities = new System.Windows.Forms.Button();
+            this.button1 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnReloadAllHighIntegrity
@@ -102,11 +103,22 @@
             this.btnTestEntities.UseVisualStyleBackColor = true;
             this.btnTestEntities.Click += new System.EventHandler(this.btnTestEntities_Click);
             // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(546, 304);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(172, 47);
+            this.button1.TabIndex = 5;
+            this.button1.Text = "Benchmark Hasher";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
             // TestForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.btnTestEntities);
             this.Controls.Add(this.lblTestStatus);
             this.Controls.Add(this.btnCountbyConsole);
@@ -129,5 +141,6 @@
         private System.Windows.Forms.Button btnCountbyConsole;
         private System.Windows.Forms.Label lblTestStatus;
         private System.Windows.Forms.Button btnTestEntities;
+        private System.Windows.Forms.Button button1;
     }
 }
