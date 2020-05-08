@@ -16,8 +16,7 @@ namespace RomDatabase5
         Crc32Algorithm crc;
 
         //TODO: are there any other ways I can speed this up? 
-        //EX: should pass fileData byref when big files are involved instead of making multiple copies of an ISO in memory?
-        //should HashToString(ComputeHash()) be a task for big files?
+        //should HashToString(ComputeHash()) be a task for big files? it takes 4.5 seconds to hash a decent sized DS file, threading that would be good.
         //And do those hurt performance on small files more than they help on big ones?
 
         public Hasher()
@@ -39,17 +38,43 @@ namespace RomDatabase5
             return sb.ToString().ToLower();
         }
 
-        public string[] HashFile(ref byte[] fileData)
+        string HashToString(byte[] hash)
         {
-            //hashes files all 3 ways. 
+            StringBuilder sb = new StringBuilder();
+            for (int i = 0; i < hash.Length; i++)
+            {
+                sb.Append(hash[i].ToString("x2"));
+            }
+
+            // Return the hexadecimal string.
+            return sb.ToString().ToLower();
+        }
+
+        public string[] HashFile(byte[] fileData)
+        {
+            //hashes files all 3 ways.  Faster on bigger files with threading, might be slower on small files.
             string[] results = new string[3];
-            var md5hash = md5.ComputeHash(fileData); //can't use ref parameters in lambdas. Huh.
-            var sha1hash = sha1.ComputeHash(fileData);
-            var crchash = crc.ComputeHash(fileData);
-            results[0] = HashToString(ref md5hash);
-            results[1] = HashToString(ref sha1hash);
-            results[2] = HashToString(ref crchash);
-            
+            var m = Task<string>.Factory.StartNew(() => { return HashToString(md5.ComputeHash(fileData)); });
+            var s = Task<string>.Factory.StartNew(() => { return HashToString(sha1.ComputeHash(fileData)); });
+            var c = Task<string>.Factory.StartNew(() => { return HashToString(crc.ComputeHash(fileData)); });
+            Task.WaitAll(m, s, c);
+            results[0] = m.Result;
+            results[1] = s.Result;
+            results[2] = c.Result;
+            return results;
+        }
+
+        public string[] HashFileRef(ref byte[] fileData)
+        {
+            //hashes files all 3 ways.  This one is probably faster on smaller files by not dealing with threading overhead, but I dont know where the limit is.  
+            //TODO: ponder benchmarking this on machines somehow (make byte arrays of X sizes, stopwatch them.)
+            string[] results = new string[3];
+            var m = HashToString(md5.ComputeHash(fileData)); 
+            var s = HashToString(sha1.ComputeHash(fileData)); 
+            var c = HashToString(crc.ComputeHash(fileData)); 
+            results[0] = m;
+            results[1] = s;
+            results[2] = c;
             return results;
         }
 
@@ -60,7 +85,7 @@ namespace RomDatabase5
                 var br = new BinaryReader(entry.Open());
                 byte[] data = new byte[(int)entry.Length];
                 br.Read(data, 0, (int)entry.Length);
-                var hashes = HashFile(ref data);
+                var hashes = HashFileRef(ref data);
                 data = null;
                 br.Close();
                 br.Dispose();
@@ -77,7 +102,8 @@ namespace RomDatabase5
             var br = new BinaryReader(entry.OpenEntryStream());
             byte[] data = new byte[(int)entry.Size];
             br.Read(data, 0, (int)entry.Size);
-            var hashes = HashFile(ref data);
+            //var hashes = HashFileRef(ref data);
+            var hashes = HashFile(data);
             data = null;
             br.Close();
             br.Dispose();

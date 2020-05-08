@@ -81,8 +81,14 @@ namespace RomSorter5
             System.Diagnostics.Stopwatch sw = new System.Diagnostics.Stopwatch();
             sw.Start();
 
+            StringBuilder sb = new StringBuilder();
+
             Progress<string> progress = new Progress<string>(s => {
-                lblStatus.Text = s; txtMessageLog.AppendText(s + Environment.NewLine); txtMessageLog.SelectionStart = txtMessageLog.TextLength; txtMessageLog.ScrollToCaret();
+                lblStatus.Text = s;
+                sb.Append(s + Environment.NewLine);
+                txtMessageLog.Text = sb.ToString();
+                txtMessageLog.SelectionStart = txtMessageLog.TextLength; 
+                txtMessageLog.ScrollToCaret();
             });
 
             if (destinationFolder == "")

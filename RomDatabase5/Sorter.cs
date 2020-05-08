@@ -45,7 +45,7 @@ namespace RomDatabase5
         LookupEntry GetFileHashes(string file, Hasher hasher)
         {
             byte[] fileData = File.ReadAllBytes(file);
-            var hashes = hasher.HashFile(ref fileData);
+            var hashes = hasher.HashFileRef(ref fileData);
             FileInfo fi = new FileInfo(file);
             LookupEntry le = new LookupEntry();
             le.originalFileName = file;
@@ -489,6 +489,8 @@ namespace RomDatabase5
             List<LookupEntry> filesToFind = new List<LookupEntry>();
             foreach (var file in files)
             {
+                sw.Restart();
+                progress.Report("Reading " + file);
                 List<LookupEntry> le = new List<LookupEntry>(); //single-threading across files and entries, but we may still hit a zip with multiple games in it.
 
                 //hash file
@@ -512,12 +514,12 @@ namespace RomDatabase5
                         break;
                     default:
                         byte[] fileData = File.ReadAllBytes(file);
-                        var hashes = hasher.HashFile(ref fileData);
+                        var hashes = hasher.HashFileRef(ref fileData);
                         le = new List<LookupEntry>() { new LookupEntry() { originalFileName = file, size = fileData.Length, fileType = LookupEntryType.File, crc = hashes[2], sha1 = hashes[1], md5 = hashes[0] } };
                         fileData = null;
                         break;
                 }
-                progress.Report("File hashed.");
+                progress.Report("File hashed in " + sw.Elapsed.ToString());
                 //identify file
                 if (le != null)
                 {
@@ -591,7 +593,6 @@ namespace RomDatabase5
                                     break;
                             }
                         }
-                        progress.Report("File moved;");
                     }
 
                     foreach (var unID in le.Where(l => !l.isIdentified))
@@ -600,6 +601,7 @@ namespace RomDatabase5
                             Directory.CreateDirectory(destinationFolder + "\\Unidentified");
                             HandleUnidentifiedFiles(new List<LookupEntry>() { unID }, destinationFolder + "\\Unidentified\\");
                         }
+                    progress.Report(file + " processed.");
                 }
             }
 

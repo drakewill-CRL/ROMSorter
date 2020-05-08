@@ -29,7 +29,7 @@ namespace RomDatabase5
         static LookupEntry GetFileHashes(string file)
         {
             byte[] fileData = File.ReadAllBytes(file);
-            var hashes = hasher.HashFile(ref fileData);
+            var hashes = hasher.HashFileRef(ref fileData);
             FileInfo fi = new FileInfo(file);
             LookupEntry le = new LookupEntry();
             le.originalFileName = file;
@@ -80,7 +80,7 @@ namespace RomDatabase5
             {
                 var fi = new FileInfo(file);
                 byte[] fileData = File.ReadAllBytes(file);
-                var game = Database.FindGame((int)fi.Length, hasher.HashFile(ref fileData));
+                var game = Database.FindGame((int)fi.Length, hasher.HashFileRef(ref fileData));
                 if (game != null && game.id != null)
                 {
                     foundFiles.AppendLine("Identified " + fi.Name + " as " + game.name);
