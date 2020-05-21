@@ -56,7 +56,7 @@ namespace RomSorter5
             sb.Append("<ul></body></html>");
 
             System.IO.File.WriteAllText("CountByConsole.html", sb.ToString());
-            System.Diagnostics.Process.Start("file://" + Environment.CurrentDirectory + "\\CountByConsole.html");
+            System.Diagnostics.Process.Start("file://" + Environment.CurrentDirectory + "\\CountByConsole.html"); //Doublecheck slashes?
         }
 
         private void btnTestEntities_Click(object sender, EventArgs e)

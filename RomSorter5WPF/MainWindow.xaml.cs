@@ -24,5 +24,6 @@ namespace RomSorter5WPF
         {
             InitializeComponent();
         }
+
     }
 }

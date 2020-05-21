@@ -38,11 +38,11 @@ namespace RomDatabase5
                 LoadAllDats(sf, progress, highIntegrity);
 
             var files = System.IO.Directory.EnumerateFiles(directory, "*.dat");
-            System.Threading.Tasks.Parallel.ForEach(files, (file) =>
-            //foreach (var file in files)
+            //System.Threading.Tasks.Parallel.ForEach(files, (file) => //Entity issues.
+            foreach (var file in files)
             {
                 ParseFileAutoDetect(file, progress, highIntegrity);
-            });
+            }//); 
         }
 
         public static void LoadAllDatFilesIntegrity(string directory, IProgress<string> progress = null)
@@ -97,11 +97,12 @@ namespace RomDatabase5
         {
             //For each entry, decide whether or not its a Game (one file entry) or Disk (multiple files in 1 games)
 
+            var entities = new DatabaseEntities();
             string consoleName = System.IO.Path.GetFileNameWithoutExtension(file).Split('=')[0].Trim(); //filenames are "Console = Subset[optionalsubtype](TOSEC date).dat
             string datFile = System.IO.Path.GetFileName(file);
 
-            int consoleID = Database.GetConsoleID(consoleName);
-            int datFileID = Database.GetDatFileID(datFile);
+            int consoleID = (int)entities.GetConsoleID(consoleName);
+            int datFileID = (int)entities.GetDatFileID(datFile);
             //these are XML.
             //for each node, insert a game entry.
             var dat = new System.Xml.XmlDocument();
@@ -122,7 +123,7 @@ namespace RomDatabase5
                     var tempGame = new Game();
                     string name = entry.GetAttribute("name");
                     int tempInt = 0; //NOTE: some DSi games have just digits for a filename. This makes those human-readable.
-                    if (Int32.TryParse(name, out tempInt))
+                    if (Int32.TryParse(name, out tempInt) && name.EndsWith(".ds")) //TODO: confirm correct extension.
                         try
                         {
                             tempGame.name = romFile.GetElementsByTagName("name")[0].InnerText + ".nds"; //TODO: ensure this only applies to NDS games, doesn't trigger for games like 1943.nes
@@ -145,22 +146,29 @@ namespace RomDatabase5
                     {
                         if (highIntegrity)
                         {
-                            var isDupe = Database.FindGame(tempGame.size, new string[3] { tempGame.md5, tempGame.sha1, tempGame.crc });
+                            var isDupe = entities.FindGame(tempGame.size, new string[3] { tempGame.md5, tempGame.sha1, tempGame.crc });
                             if (isDupe != null && isDupe.Count() > 0)
                             {
                                 foreach (var dupe in isDupe)
                                 {
-                                    if (dupe.consoleID == tempGame.consoleID) //duplicates from different consoles means that the game is in a collection on another system (EX: i have an entry for both an Amiga game and its ScummVM file)
+                                    if (dupe.DatFile == tempGame.datFileID)
+                                    {
+                                        //this file has a duplicate entry in it.
+                                        filelock.EnterWriteLock();
+                                        System.IO.File.AppendAllLines("insertLog.txt", new List<string>() { "Game '" + tempGame.name + "' in " + datFile + " already found in file as " + dupe.Name});
+                                        filelock.ExitWriteLock();
+                                    }
+                                    else if (dupe.Console == tempGame.consoleID) //duplicates from different consoles means that the game is in a collection on another system (EX: i have an entry for both an Amiga game and its ScummVM file)
                                     {
                                         //write log on duplicate entry.
                                         filelock.EnterWriteLock();
-                                        System.IO.File.AppendAllLines("insertLog.txt", new List<string>() { "Game '" + tempGame.name + "' in " + datFile + " already matches existing entry '" + dupe.name + "' from " + dupe.datFile });
+                                        System.IO.File.AppendAllLines("insertLog.txt", new List<string>() { "Game '" + tempGame.name + "' in " + datFile + " already matches existing entry '" + dupe.Name + "' from " + entities.datfileIDs[dupe.DatFile.Value].First() });
                                         filelock.ExitWriteLock();
                                     }
                                     else
                                     {
                                         filelock.EnterWriteLock();
-                                        System.IO.File.AppendAllLines("insertLog.txt", new List<string>() { "Game '" + tempGame.name + "' in " + datFile + " matches other console entry  '" + dupe.name + "' from " + dupe.datFile });
+                                        System.IO.File.AppendAllLines("insertLog.txt", new List<string>() { "Game '" + tempGame.name + "' in " + datFile + " matches other console entry  '" + dupe.Name + "' from " + entities.datfileIDs[dupe.DatFile.Value].First() });
                                         filelock.ExitWriteLock();
                                         Database.InsertGame(tempGame);
                                     }
@@ -232,7 +240,7 @@ namespace RomDatabase5
                             filelock.EnterWriteLock();
                             System.IO.File.AppendAllLines("insertLog.txt", new List<string>() { "Game '" + tempGame.name + "' in " + datFile + " matches other console entry  '" + dupe.name + "' from " + dupe.datFile });
                             filelock.ExitWriteLock();
-                            Database.InsertGame(tempGame);
+                            Database.InsertGame(tempGame); //Yes, we allow duplicates across different sets/consoles.
                         }
                     }
                 }

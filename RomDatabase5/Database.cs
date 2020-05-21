@@ -9,13 +9,14 @@ namespace RomDatabase5
     {
 
         //Notes
+        // Should probably move these to DatabaseEntities and use it as the master file now.
         //TODO: HUGE ISSUE: when looping over possible game entries and there's more than 1, make sure to make a new entry in a new list of duplicates to copy.
         //--we can't edit the list while we're in the loop, and right nwo it just copies the file to the last entry it found since it iterates over the same possibleGame entry.
         //--will also need to wait until all entries for a file are created before moving/deleting the original.
         //TODO: set up way to parse switch dat files.
         //TODO: consider forcing a destination folder? most issues are related to writing to the same folder thats being read, but I think i have mostly resolved those.
         //TODO: add Cancel button after starting an operation
-        //TODO: identify common files across discs, then decide if there's a way to only copy it to the ones that are actually present (EX: readme-SDL.text, 0-byte config files)
+        //TODO: identify common files across discs, then decide if there's a way to only copy it to the ones that are actually present (EX: readme-SDL.txt, 0-byte config files)
         //TODO: fix single-thread logic. Its deleting files if any of its contents were found, moves whole zip if all files inside are unidentified.
         //TODO: streamline Sorter to have less repeated code.
         //TODO: treat dat entries for games as duplicates only if they have the same size, hashes, AND console. Identical games across multiple consoles means that a rom is shared by different systems (sometimes a BIOS for MAME, or a game appearing in SCUMMVM and its native platform)
@@ -200,6 +201,7 @@ namespace RomDatabase5
 
         public static void RebuildInitialDatabase()
         {
+            //TODO: move this to DatabaseEntities.
             //Create up the baseline tables.
             ExecuteSQLiteNonQuery(DropGameTable);
             ExecuteSQLiteNonQuery(CreateGamesTable);

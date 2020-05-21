@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace RomDatabase5
@@ -12,10 +13,15 @@ namespace RomDatabase5
 
         RomDBContext db = new RomDBContext();
         public ILookup<long, string> consoleIDs;
+        public ILookup<long, string> datfileIDs;
+
+        static ReaderWriterLockSlim consoleLock = new ReaderWriterLockSlim();
+        static ReaderWriterLockSlim datfileLock = new ReaderWriterLockSlim();
 
         public DatabaseEntities()
         {
             consoleIDs = db.Consoles.ToLookup(k => k.Id, v => v.Name);
+            datfileIDs = db.Datfiles.ToLookup(k => k.Id, v => v.Name);
         }
 
         public void InsertGame(RomDatabase5.Games g)
@@ -86,10 +92,22 @@ namespace RomDatabase5
 
         public List<Games> FindGame(long size, string crc, string md5, string sha1)
         {
-            //Potentially necessary future planning TODO:
-            //get all games by CRC, then search by SHA1, then MD5 (Pinball dat files don't have MD5s, so this won't find them   
-            List<Games> g = db.Games.Where(g => g.Size == size && g.Crc == crc && g.Md5 == md5 && g.Sha1 == sha1).ToList();
-            return g;
+            //Cascading where clauses to ensure we correctly match as much stuff as possible without failling on entries that are missing a value (or 3)
+            //Pinball files use CRC + SHA1, ignore MD5.
+            //MAME uses ONLY SHA1 for CHD files. Doesn't include a size either, so can't expect to use size first either.
+
+            var matchingGames = db.Games.AsQueryable();
+
+            if (!String.IsNullOrWhiteSpace(md5))
+                matchingGames = matchingGames.Where(g => g.Md5 == md5);
+
+            if (!String.IsNullOrWhiteSpace(sha1))
+                matchingGames = matchingGames.Where(g => g.Sha1 == sha1);
+
+            if (!String.IsNullOrWhiteSpace(crc))
+                matchingGames = matchingGames.Where(g => g.Crc == crc);
+
+            return matchingGames.ToList();
         }
 
         public List<Discs> FindDisc(long size, string[] hashes)
@@ -112,6 +130,38 @@ namespace RomDatabase5
         {
             var consoleID = db.Consoles.Where(c => c.Name == console).FirstOrDefault().Id;
             return db.Games.Where(g => g.Console == consoleID).ToList();
+        }
+
+        public long GetConsoleID(string consoleName)
+        {
+            if (db.Consoles.Any(c => c.Name == consoleName))
+                return db.Consoles.Where(c => c.Name == consoleName).FirstOrDefault().Id;
+            else
+            {
+                consoleLock.EnterWriteLock();
+                var nextID = (db.Consoles.Count() > 0 ? db.Consoles.Max(c => c.Id) + 1 : 1);
+                var newConsole = new Consoles() { Name = consoleName, Id = nextID };
+                db.Consoles.Add(newConsole);
+                db.SaveChanges();
+                consoleLock.ExitWriteLock();
+                return nextID;
+             }
+        }
+
+        public long GetDatFileID(string datfileName)
+        {
+            if (db.Datfiles.Any(c => c.Name == datfileName))
+                return db.Datfiles.Where(c => c.Name == datfileName).FirstOrDefault().Id;
+            else
+            {
+                datfileLock.EnterWriteLock();
+                var nextID = (db.Datfiles.Count() > 0 ? db.Datfiles.Max(c => c.Id) + 1 : 1);
+                var newFile = new Datfiles() { Name = datfileName, Id = nextID };
+                db.Datfiles.Add(newFile);
+                db.SaveChanges();
+                datfileLock.ExitWriteLock();
+                return nextID;
+            }
         }
 
     }

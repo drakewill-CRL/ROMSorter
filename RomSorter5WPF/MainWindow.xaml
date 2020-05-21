@@ -5,8 +5,25 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:RomSorter5WPF"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
+        Title="ROMSorter" Height="464" Width="223">
+    <Grid Margin="0,0,0,0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <CheckBox Content="Zip Games Instead of Moving" HorizontalAlignment="Left" Height="19" Margin="10,170,0,0" VerticalAlignment="Top" Width="183" Grid.ColumnSpan="2"/>
+        <CheckBox Content="Move Unidentified Files" HorizontalAlignment="Left" Height="19" Margin="10,194,0,0" VerticalAlignment="Top" Width="183" Grid.ColumnSpan="2"/>
+        <CheckBox Content="Keep Unidentified Files" HorizontalAlignment="Left" Height="19" Margin="10,218,0,0" VerticalAlignment="Top" Width="183" Grid.ColumnSpan="2"/>
+        <CheckBox Content="Display All Actions" HorizontalAlignment="Left" Height="19" Margin="10,242,0,0" VerticalAlignment="Top" Width="183" Grid.ColumnSpan="2"/>
+        <CheckBox Content="Use Low-Resource Mode" HorizontalAlignment="Left" Height="19" Margin="10,266,0,0" VerticalAlignment="Top" Width="183" Grid.ColumnSpan="2"/>
+        <Button Content="Pick Source Folder" HorizontalAlignment="Center" Height="22" Margin="0,10,0,0" VerticalAlignment="Top" Width="203" Grid.Column="1"/>
+        <Button Content="Pick Destination Folder" HorizontalAlignment="Center" Height="22" Margin="0,37,0,0" VerticalAlignment="Top" Width="203" Grid.Column="1"/>
+        <Button Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="90" Margin="10,64,0,0" VerticalAlignment="Top" Width="97">
+            <TextBlock TextWrapping="Wrap">Identify, Sort, and Rename</TextBlock>
+        </Button>
+        <Button Content="Identify Only" Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="90" Margin="116,64,0,0" VerticalAlignment="Top" Width="97"/>
+        <Label Content="Counting..." Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="27" Margin="10,290,0,0" VerticalAlignment="Top" Width="160"/>
+        <TextBox x:Name="txtProgress" Margin="10,322,10,10" Text="TextBox" TextWrapping="Wrap" Grid.Column="1" VerticalScrollBarVisibility="Visible"/>
 
     </Grid>
 </Window>
