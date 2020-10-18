@@ -46,6 +46,7 @@ namespace RomSorter5WinForms
             Progress<string> progress = new Progress<string>(s => lblStatus.Text = s);
             await Task.Factory.StartNew(() => sorter.Sort(txtRomPath.Text, txtOutputPath.Text, progress));
 
+            sw.Stop();
             lblStatus.Text = "Operations Complete in " + sw.Elapsed.ToString();
         }
 
@@ -57,6 +58,7 @@ namespace RomSorter5WinForms
             Progress<string> progress = new Progress<string>(s => lblStatus.Text = s);
             if (ofd1.ShowDialog() == DialogResult.OK)
             {
+                Database.RebuildInitialDatabase(); //clears out the exisiting data in sqlite
                 txtDatPath.Text = System.IO.Path.GetDirectoryName(ofd1.FileName);
                 await Task.Factory.StartNew(() => DATImporter.LoadAllDats(System.IO.Path.GetDirectoryName(ofd1.FileName), progress, false));
                 lblStatus.Text = "All datfiles loaded";
