@@ -40,8 +40,13 @@ namespace RomSorter5WinForms
             sorter.ZipInsteadOfMove = (comboBox1.SelectedIndex == 0);
             sorter.IdentifyOnly = false;
 
+            System.Diagnostics.Stopwatch sw = new System.Diagnostics.Stopwatch();
+            sw.Start();
+
             Progress<string> progress = new Progress<string>(s => lblStatus.Text = s);
             await Task.Factory.StartNew(() => sorter.Sort(txtRomPath.Text, txtOutputPath.Text, progress));
+
+            lblStatus.Text = "Operations Complete in " + sw.Elapsed.ToString();
         }
 
         private async void btnDatFolderSelect_Click(object sender, EventArgs e)
