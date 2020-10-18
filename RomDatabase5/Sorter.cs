@@ -242,7 +242,7 @@ namespace RomDatabase5
 
             progress.Report(filesMovedOrExtracted + " files moved or extracted in " + sw.Elapsed.ToString());
 
-            if (moveUnidentified)
+            if (moveUnidentified && unidentified.Count() > 0)
             {
                 sw.Restart();
                 progress.Report("Moving unidentified files");
@@ -260,7 +260,7 @@ namespace RomDatabase5
             //        File.Delete(file.originalFileName);
             //}
             CleanupLoop(topFolder);
-            progress.Report("Source Directory cleanup completed in " + sw.Elapsed.ToString());
+            //progress.Report("Source Directory cleanup completed in " + sw.Elapsed.ToString());
             sw.Stop();
         }
 

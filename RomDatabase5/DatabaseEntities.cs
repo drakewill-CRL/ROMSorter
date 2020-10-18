@@ -9,7 +9,7 @@ namespace RomDatabase5
 {
     public class DatabaseEntities //EF access to database. Much less code, sometimes faster.
     {
-        //Entity types are plural, my handmane ones are singular.       
+        //Entity types are plural, my handmade ones are singular.       
 
         RomDBContext db = new RomDBContext();
         public ILookup<long, string> consoleIDs;

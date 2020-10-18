@@ -12,7 +12,6 @@ namespace RomDatabase5
     {
         //For making my own dat files.
         //XML file with .dat extension
-        //Will want for homebrew games, entries on un-maintained lists, etc.
         static Hasher hasher = new Hasher();
 
         public static void MakeDat(string folder)

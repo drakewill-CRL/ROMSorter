@@ -50,6 +50,8 @@ namespace RomDatabase5
             return sb.ToString().ToLower();
         }
 
+        //Testing looks like multithread hashing is faster on files over 4kb in size.
+        //I had expected that threshold to be higher, but that's what my testing showed.
         public string[] HashFile(byte[] fileData)
         {
             //hashes files all 3 ways.  Faster on bigger files with threading, might be slower on small files.
