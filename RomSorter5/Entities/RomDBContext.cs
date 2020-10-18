@@ -24,8 +24,7 @@ namespace RomSorter5.EntitiesForce
         {
             if (!optionsBuilder.IsConfigured)
             {
-#warning To protect potentially sensitive information in your connection string, you should move it out of source code. See http://go.microsoft.com/fwlink/?LinkId=723263 for guidance on storing connection strings.
-                optionsBuilder.UseSqlite("Data Source=C:\\Users\\Drake\\Documents\\Visual Studio 2017\\Projects\\RomSorter\\RomSorter\\bin\\Debug\\RomDB.sqlite");
+                optionsBuilder.UseSqlite("Data Source=.\\RomDB.sqlite");
             }
         }
 

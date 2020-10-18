@@ -36,7 +36,15 @@ namespace RomSorter5WinForms
             this.label5 = new System.Windows.Forms.Label();
             this.comboBox1 = new System.Windows.Forms.ComboBox();
             this.comboBox2 = new System.Windows.Forms.ComboBox();
-            this.button1 = new System.Windows.Forms.Button();
+            this.btnSort = new System.Windows.Forms.Button();
+            this.ofd1 = new System.Windows.Forms.OpenFileDialog();
+            this.btnDatFolderSelect = new System.Windows.Forms.Button();
+            this.btnRomFolderSelect = new System.Windows.Forms.Button();
+            this.btnOutputFolderSelect = new System.Windows.Forms.Button();
+            this.lblStatus = new System.Windows.Forms.Label();
+            this.txtDatPath = new System.Windows.Forms.TextBox();
+            this.txtRomPath = new System.Windows.Forms.TextBox();
+            this.txtOutputPath = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // label1
@@ -108,23 +116,96 @@ namespace RomSorter5WinForms
             this.comboBox2.Size = new System.Drawing.Size(226, 40);
             this.comboBox2.TabIndex = 6;
             // 
-            // button1
+            // btnSort
             // 
-            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.button1.Location = new System.Drawing.Point(72, 515);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(143, 63);
-            this.button1.TabIndex = 7;
-            this.button1.Text = "Sort!";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.btnSort.FlatStyle = System.Windows.Forms.FlatStyle.System;
+            this.btnSort.Location = new System.Drawing.Point(72, 515);
+            this.btnSort.Name = "btnSort";
+            this.btnSort.Size = new System.Drawing.Size(143, 63);
+            this.btnSort.TabIndex = 7;
+            this.btnSort.Text = "Sort!";
+            this.btnSort.UseVisualStyleBackColor = true;
+            this.btnSort.Click += new System.EventHandler(this.btnSort_Click);
+            // 
+            // ofd1
+            // 
+            this.ofd1.CheckFileExists = false;
+            this.ofd1.FileName = "Folder Selection";
+            this.ofd1.ValidateNames = false;
+            // 
+            // btnDatFolderSelect
+            // 
+            this.btnDatFolderSelect.Location = new System.Drawing.Point(216, 19);
+            this.btnDatFolderSelect.Name = "btnDatFolderSelect";
+            this.btnDatFolderSelect.Size = new System.Drawing.Size(102, 51);
+            this.btnDatFolderSelect.TabIndex = 8;
+            this.btnDatFolderSelect.Text = "Select";
+            this.btnDatFolderSelect.UseVisualStyleBackColor = true;
+            this.btnDatFolderSelect.Click += new System.EventHandler(this.btnDatFolderSelect_Click);
+            // 
+            // btnRomFolderSelect
+            // 
+            this.btnRomFolderSelect.Location = new System.Drawing.Point(216, 97);
+            this.btnRomFolderSelect.Name = "btnRomFolderSelect";
+            this.btnRomFolderSelect.Size = new System.Drawing.Size(102, 51);
+            this.btnRomFolderSelect.TabIndex = 9;
+            this.btnRomFolderSelect.Text = "Select";
+            this.btnRomFolderSelect.UseVisualStyleBackColor = true;
+            this.btnRomFolderSelect.Click += new System.EventHandler(this.btnRomFolderSelect_Click);
+            // 
+            // btnOutputFolderSelect
+            // 
+            this.btnOutputFolderSelect.Location = new System.Drawing.Point(216, 176);
+            this.btnOutputFolderSelect.Name = "btnOutputFolderSelect";
+            this.btnOutputFolderSelect.Size = new System.Drawing.Size(102, 51);
+            this.btnOutputFolderSelect.TabIndex = 10;
+            this.btnOutputFolderSelect.Text = "Select";
+            this.btnOutputFolderSelect.UseVisualStyleBackColor = true;
+            this.btnOutputFolderSelect.Click += new System.EventHandler(this.btnOutputFolderSelect_Click);
+            // 
+            // lblStatus
+            // 
+            this.lblStatus.AutoSize = true;
+            this.lblStatus.Location = new System.Drawing.Point(18, 702);
+            this.lblStatus.Name = "lblStatus";
+            this.lblStatus.Size = new System.Drawing.Size(53, 32);
+            this.lblStatus.TabIndex = 11;
+            this.lblStatus.Text = "Idle";
+            // 
+            // txtDatPath
+            // 
+            this.txtDatPath.Location = new System.Drawing.Point(370, 25);
+            this.txtDatPath.Name = "txtDatPath";
+            this.txtDatPath.Size = new System.Drawing.Size(418, 39);
+            this.txtDatPath.TabIndex = 12;
+            // 
+            // txtRomPath
+            // 
+            this.txtRomPath.Location = new System.Drawing.Point(370, 103);
+            this.txtRomPath.Name = "txtRomPath";
+            this.txtRomPath.Size = new System.Drawing.Size(418, 39);
+            this.txtRomPath.TabIndex = 13;
+            // 
+            // txtOutputPath
+            // 
+            this.txtOutputPath.Location = new System.Drawing.Point(370, 182);
+            this.txtOutputPath.Name = "txtOutputPath";
+            this.txtOutputPath.Size = new System.Drawing.Size(418, 39);
+            this.txtOutputPath.TabIndex = 14;
             // 
             // SimpleInterface
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(13F, 32F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 737);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.txtOutputPath);
+            this.Controls.Add(this.txtRomPath);
+            this.Controls.Add(this.txtDatPath);
+            this.Controls.Add(this.lblStatus);
+            this.Controls.Add(this.btnOutputFolderSelect);
+            this.Controls.Add(this.btnRomFolderSelect);
+            this.Controls.Add(this.btnDatFolderSelect);
+            this.Controls.Add(this.btnSort);
             this.Controls.Add(this.comboBox2);
             this.Controls.Add(this.comboBox1);
             this.Controls.Add(this.label5);
@@ -148,6 +229,14 @@ namespace RomSorter5WinForms
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.ComboBox comboBox1;
         private System.Windows.Forms.ComboBox comboBox2;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button btnSort;
+        private System.Windows.Forms.OpenFileDialog ofd1;
+        private System.Windows.Forms.Button btnDatFolderSelect;
+        private System.Windows.Forms.Button btnRomFolderSelect;
+        private System.Windows.Forms.Button btnOutputFolderSelect;
+        private System.Windows.Forms.Label lblStatus;
+        private System.Windows.Forms.TextBox txtDatPath;
+        private System.Windows.Forms.TextBox txtRomPath;
+        private System.Windows.Forms.TextBox txtOutputPath;
     }
 }

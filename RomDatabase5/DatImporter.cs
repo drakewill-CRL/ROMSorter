@@ -41,6 +41,7 @@ namespace RomDatabase5
             //System.Threading.Tasks.Parallel.ForEach(files, (file) => //Entity issues.
             foreach (var file in files)
             {
+                progress.Report("Reading " + System.IO.Path.GetFileName(file));
                 ParseFileAutoDetect(file, progress, highIntegrity);
             }//); 
         }
@@ -98,7 +99,8 @@ namespace RomDatabase5
             //For each entry, decide whether or not its a Game (one file entry) or Disk (multiple files in 1 games)
 
             var entities = new DatabaseEntities();
-            string consoleName = System.IO.Path.GetFileNameWithoutExtension(file).Split('=')[0].Trim(); //filenames are "Console = Subset[optionalsubtype](TOSEC date).dat
+            //string consoleName = System.IO.Path.GetFileNameWithoutExtension(file).Split('=')[0].Trim(); //filenames are "Console = Subset[optionalsubtype](TOSEC date).dat
+            string consoleName = System.IO.Path.GetFileNameWithoutExtension(file).Trim(); //filenames are "Console = Subset[optionalsubtype](TOSEC date).dat
             string datFile = System.IO.Path.GetFileName(file);
 
             int consoleID = (int)entities.GetConsoleID(consoleName);

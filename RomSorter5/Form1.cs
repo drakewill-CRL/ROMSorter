@@ -9,6 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using RomDatabase5;
+using RomSorter5WinForms;
 
 namespace RomSorter5
 {
@@ -46,6 +47,12 @@ namespace RomSorter5
             {
                 TestForm tf = new TestForm();
                 tf.Show();
+            }
+
+            if (e.KeyCode == Keys.F11)
+            {
+                SimpleInterface si = new SimpleInterface();
+                si.Show();
             }
         }
 
