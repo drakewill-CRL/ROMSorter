@@ -88,7 +88,8 @@ namespace RomDatabase5
 
             //Step 2: hash files, looking into zip files
             progress.Report("Hashing files");
-            ConcurrentBag<LookupEntry> filesToFind = new ConcurrentBag<LookupEntry>();
+            ConcurrentBag<LookupEntry> filesToFind = new ConcurrentBag<LookupEntry>(); //Pre-finding
+            ConcurrentBag<LookupEntry> filesToMove = new ConcurrentBag<LookupEntry>(); //post-finding, for if I have a file that needs copied into multiple places.
             int hashedFileCount = 0;
             Parallel.ForEach(files, (file) =>
             {
@@ -152,6 +153,7 @@ namespace RomDatabase5
                         possibleGame.destinationFileName = destinationFolder + "\\" + db.consoleIDs[ge.Console.Value].First() + "\\" + ge.Description;
                         possibleGame.console = db.consoleIDs[ge.Console.Value].First();
                         possibleGame.isIdentified = true;
+                        filesToMove.Add(possibleGame);
                     }
                 }
                 else
@@ -171,6 +173,7 @@ namespace RomDatabase5
                             possibleGame.isDiscEntry = true;
                             possibleGame.discEntryName = de.Description;
                             //possibleGame.discGameName = de.Name;
+                            filesToMove.Add(possibleGame);
                         }
                     }
                     else
@@ -200,8 +203,8 @@ namespace RomDatabase5
 
             //step 4
             //start moving files. Requires a little bit of organizing in case a zip has multiple files and they are split between ID'd and un-ID'd. Might need an extra function
-            var unidentified = filesToFind.Where(f => !f.isIdentified).ToList();
-            var foundFiles = filesToFind.Where(f => f.isIdentified).ToList(); // && !f.isDiscEntry
+            var unidentified = filesToMove.Where(f => !f.isIdentified).ToList();
+            var foundFiles = filesToMove.Where(f => f.isIdentified).ToList(); // && !f.isDiscEntry
             var dirsToMake = foundFiles.Select(f => f.console).Distinct().ToList(); //TODO: do I also need to make dirs for discs? I might if i'm not using zip files
 
             List<IGrouping<string, LookupEntry>> writeConflicts = foundFiles.GroupBy(f => f.destinationFileName).Where(ff => ff.Count() > 1).ToList(); //discs (and games) that want to hit the same destination file from different original files.
@@ -350,7 +353,7 @@ namespace RomDatabase5
 
         void HandleZipEntries(List<IGrouping<string, LookupEntry>> zippedFiles)
         {
-            Parallel.ForEach(zippedFiles, (zf) =>
+            Parallel.ForEach(zippedFiles, (zf) => //key is OriginalFileName
             {
                 if (zf.Key == zf.First().destinationFileName) //dont bother moving a file onto itself.
                     return;
@@ -358,7 +361,7 @@ namespace RomDatabase5
                 var zipFile = ZipFile.OpenRead(zf.Key); //might have multiple files to extract from a zip, thats why these are grouped.
                 foreach (var entryToFind in zf)
                 {
-                    if (entryToFind.destinationFileName + ".zip" == zf.Key || String.IsNullOrWhiteSpace(entryToFind.destinationFileName))
+                    if (entryToFind.destinationFileName + ".zip" == zf.Key || String.IsNullOrWhiteSpace(entryToFind.destinationFileName) || zf.Key == entryToFind.destinationFileName)
                         continue; //try the next entry, this one isn't valid.
 
                     var entry = zipFile.Entries.Where(e => e.FullName == entryToFind.entryPath).FirstOrDefault();
@@ -378,8 +381,9 @@ namespace RomDatabase5
                 filesMovedOrExtracted++;
                 zipFile.Dispose();
                 if (!PreserveOriginals)
-                    File.Delete(zf.Key);
+                    File.Delete(zf.First().originalFileName);
             });
+            
         }
 
         void InnerArchiveLoop(SharpCompress.Archives.IArchive file, IGrouping<string, LookupEntry> entries)

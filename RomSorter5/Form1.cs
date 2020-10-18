@@ -85,6 +85,9 @@ namespace RomSorter5
 
             Progress<string> progress = new Progress<string>(s => {
                 lblStatus.Text = s;
+
+                if (sb.Length > 1000000)
+                    sb.Clear();
                 sb.Append(s + Environment.NewLine);
                 txtMessageLog.Text = sb.ToString();
                 txtMessageLog.SelectionStart = txtMessageLog.TextLength; 
