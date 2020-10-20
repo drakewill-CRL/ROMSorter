@@ -43,8 +43,9 @@ namespace RomSorter5WinForms
             System.Diagnostics.Stopwatch sw = new System.Diagnostics.Stopwatch();
             sw.Start();
 
-            Progress<string> progress = new Progress<string>(s => lblStatus.Text = s);
-            await Task.Factory.StartNew(() => sorter.Sort(txtRomPath.Text, txtOutputPath.Text, progress));
+            Progress<string> progress = new Progress<string>(s => { lblStatus.Text = s; });
+            Progress<int> progress2 = new Progress<int>(i => progressBar1.Value = i);
+            await Task.Factory.StartNew(() => sorter.Sort(txtRomPath.Text, txtOutputPath.Text, progress, progress2));
 
             sw.Stop();
             lblStatus.Text = "Operations Complete in " + sw.Elapsed.ToString();
@@ -72,6 +73,7 @@ namespace RomSorter5WinForms
                 Progress<string> progress = new Progress<string>(s => lblStatus.Text = s);
                 txtRomPath.Text = System.IO.Path.GetDirectoryName(ofd1.FileName);
                 sorter.getFilesToScan(txtRomPath.Text, progress);
+                progressBar1.Maximum = sorter.FilesToScanCount;
             }
         }
 

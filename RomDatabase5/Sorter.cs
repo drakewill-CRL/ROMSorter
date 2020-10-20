@@ -23,6 +23,8 @@ namespace RomDatabase5
         public bool DisplayAllInfo = false;
         public bool IdentifyOnly = false;
 
+        public int FilesToScanCount = 0;
+
         //internal stuff.
         string tempFolderPath = Path.GetTempPath();
         ConcurrentBag<string> files = new ConcurrentBag<string>();
@@ -70,11 +72,12 @@ namespace RomDatabase5
             EnumerateAllFiles(sourceFolder);
             progress.Report(files.Count() + " files found in " + sw.Elapsed.ToString());
             sw.Stop();
+            FilesToScanCount = files.Count();
 
             //TODO: sum filesizes to approximate total RAM usage, possibly consider for optimization or thread-count purposes?
         }
 
-        public void Sort(string topFolder, string destinationFolder, IProgress<string> progress = null)
+        public void Sort(string topFolder, string destinationFolder, IProgress<string> progress = null, IProgress<int> progress2 = null)
         {
             System.Diagnostics.Stopwatch sw = new System.Diagnostics.Stopwatch();
             sw.Start();
@@ -131,9 +134,13 @@ namespace RomDatabase5
 
                 hashedFileCount++;
                 if (hashedFileCount % filesToReportBetween == 0)
+                {
                     progress.Report("Hashed " + file + " (" + hashedFileCount + " done so far)");
+                    progress2.Report(hashedFileCount);
+                }
             });
             progress.Report(filesToFind.Count() + " files hashed in " + sw.Elapsed.ToString());
+            progress2.Report(0);
 
             //Step 3
             //identify files we found, including zip entries.
@@ -189,10 +196,13 @@ namespace RomDatabase5
                         progress.Report("Identified " + Path.GetFileName(possibleGame.originalFileName) + (possibleGame.entryPath == null ? "" : "[" + possibleGame.entryPath + "]") + " as " + Path.GetFileName(possibleGame.destinationFileName));
                     else
                         progress.Report("Couldn't identify " + Path.GetFileName(possibleGame.originalFileName) + (String.IsNullOrWhiteSpace(possibleGame.entryPath) ? "" : "[" + possibleGame.entryPath + "]"));
+
+                    progress2.Report(foundCount);
                 }
 
             });
             progress.Report(foundCount + " files identified in " + sw.Elapsed.ToString());
+            progress2.Report(0);
             sw.Restart();
 
             if (IdentifyOnly)
@@ -221,6 +231,7 @@ namespace RomDatabase5
             progress.Report(unidentified.Count() + " files not identified in source folder.");
 
             progress.Report("Beginning file move/zip operations");
+            
             sw.Restart();
             //Create all needed directories now, instead of attempting for each file.
             //var dirsToMake = foundFiles.Select(f => f.console).Distinct().ToList();

@@ -45,6 +45,7 @@ namespace RomSorter5WinForms
             this.txtDatPath = new System.Windows.Forms.TextBox();
             this.txtRomPath = new System.Windows.Forms.TextBox();
             this.txtOutputPath = new System.Windows.Forms.TextBox();
+            this.progressBar1 = new System.Windows.Forms.ProgressBar();
             this.SuspendLayout();
             // 
             // label1
@@ -79,9 +80,9 @@ namespace RomSorter5WinForms
             this.label4.AutoSize = true;
             this.label4.Location = new System.Drawing.Point(28, 273);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(211, 32);
+            this.label4.Size = new System.Drawing.Size(141, 32);
             this.label4.TabIndex = 3;
-            this.label4.Text = "Single-File Games:";
+            this.label4.Text = "Ouput Files:";
             // 
             // label5
             // 
@@ -91,6 +92,7 @@ namespace RomSorter5WinForms
             this.label5.Size = new System.Drawing.Size(201, 32);
             this.label5.TabIndex = 4;
             this.label5.Text = "Multi-File Games:";
+            this.label5.Visible = false;
             // 
             // comboBox1
             // 
@@ -98,7 +100,8 @@ namespace RomSorter5WinForms
             this.comboBox1.FormattingEnabled = true;
             this.comboBox1.Items.AddRange(new object[] {
             "Zipped",
-            "Unzipped"});
+            "Unzipped",
+            "Rename In Place"});
             this.comboBox1.Location = new System.Drawing.Point(369, 270);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(226, 40);
@@ -115,6 +118,7 @@ namespace RomSorter5WinForms
             this.comboBox2.Name = "comboBox2";
             this.comboBox2.Size = new System.Drawing.Size(226, 40);
             this.comboBox2.TabIndex = 6;
+            this.comboBox2.Visible = false;
             // 
             // btnSort
             // 
@@ -193,11 +197,21 @@ namespace RomSorter5WinForms
             this.txtOutputPath.Size = new System.Drawing.Size(418, 39);
             this.txtOutputPath.TabIndex = 14;
             // 
+            // progressBar1
+            // 
+            this.progressBar1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.progressBar1.Location = new System.Drawing.Point(12, 604);
+            this.progressBar1.Name = "progressBar1";
+            this.progressBar1.Size = new System.Drawing.Size(776, 66);
+            this.progressBar1.TabIndex = 15;
+            // 
             // SimpleInterface
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(13F, 32F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 737);
+            this.Controls.Add(this.progressBar1);
             this.Controls.Add(this.txtOutputPath);
             this.Controls.Add(this.txtRomPath);
             this.Controls.Add(this.txtDatPath);
@@ -238,5 +252,6 @@ namespace RomSorter5WinForms
         private System.Windows.Forms.TextBox txtDatPath;
         private System.Windows.Forms.TextBox txtRomPath;
         private System.Windows.Forms.TextBox txtOutputPath;
+        private System.Windows.Forms.ProgressBar progressBar1;
     }
 }
