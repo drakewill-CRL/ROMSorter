@@ -9,9 +9,14 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RomSorter5WinForms", "RomSo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Librarian5", "Librarian5\Librarian5.csproj", "{A9799E21-2DFC-469F-9A8A-98481B786D5B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomSorter5WPF", "RomSorter5WPF\RomSorter5WPF.csproj", "{82CEFB52-2372-48AB-9003-C30869A0EC30}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RomSorter5WPF", "RomSorter5WPF\RomSorter5WPF.csproj", "{82CEFB52-2372-48AB-9003-C30869A0EC30}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomSorter5UWP", "RomSorter5UWP\RomSorter5UWP.csproj", "{366EDF56-6F79-45EA-A2C0-377E8F8F49A7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{743C1C02-C1A4-4E78-9DB3-002DE22A7051}"
+	ProjectSection(SolutionItems) = preProject
+		Documentation.txt = Documentation.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

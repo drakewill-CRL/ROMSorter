@@ -84,5 +84,36 @@ namespace RomSorter5WinForms
                 txtOutputPath.Text = System.IO.Path.GetDirectoryName(ofd1.FileName);
             }
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            //Everdrive sort.
+            //assume that the picked folder is the destination and already sorted/IDed.
+            //Also, all items are in one folder.
+
+            var fileList = System.IO.Directory.EnumerateFiles(txtRomPath.Text);
+            fileList = fileList.Select(f => System.IO.Path.GetFileName(f)).ToList();
+
+            //Create folders for each region, and then by letter, making additional ones if there's over 250 files in one folder.
+            //var regions = fileList.Select(f => f.Split('(')[0].Split(')')[0]).Distinct().ToList(); //pick first thing inside () as region.fileList.Select(f => f.Split('(')[0].Split(')')[0]).Distinct().ToList(); //pick first thing inside () as region.
+            //foreach (var r in regions)
+            //{
+            //System.IO.Directory.CreateDirectory(txtRomPath.Text + "\\" + r);
+            //var regionalFiles = fileList.Where(f => f.Contains("(" + r + ")")).ToList();
+
+            //var letters = regionalFiles.Select(f => f[0]).Distinct().ToList(); //pick first letter.
+            var letters = fileList.Select(f => System.IO.Path.GetFileName(f).ToUpper().Substring(0, 1)).Distinct().ToList(); //pick first letter.
+            foreach (var l in letters)
+                {
+                    System.IO.Directory.CreateDirectory(txtRomPath.Text + "\\" + l);
+
+                var filesToMove = fileList.Where(f => f.StartsWith(l) || f.StartsWith(l.ToLower())).ToList();
+                    foreach (var rf in filesToMove)
+                        System.IO.File.Move(txtRomPath.Text + "\\" + rf, txtRomPath.Text + "\\" + l + "\\" + rf);
+                }
+
+                //fileList = fileList.Where(f => !regionalFiles.Contains(f)).ToList();
+            //}
+        }
     }
 }

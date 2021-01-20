@@ -46,50 +46,56 @@ namespace RomSorter5WinForms
             this.txtRomPath = new System.Windows.Forms.TextBox();
             this.txtOutputPath = new System.Windows.Forms.TextBox();
             this.progressBar1 = new System.Windows.Forms.ProgressBar();
+            this.button1 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(28, 28);
+            this.label1.Location = new System.Drawing.Point(15, 13);
+            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(110, 32);
+            this.label1.Size = new System.Drawing.Size(54, 15);
             this.label1.TabIndex = 0;
             this.label1.Text = "Dat Files:";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(28, 106);
+            this.label2.Location = new System.Drawing.Point(15, 50);
+            this.label2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(121, 32);
+            this.label2.Size = new System.Drawing.Size(61, 15);
             this.label2.TabIndex = 1;
             this.label2.Text = "Rom Files:";
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(28, 185);
+            this.label3.Location = new System.Drawing.Point(15, 87);
+            this.label3.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(169, 32);
+            this.label3.Size = new System.Drawing.Size(84, 15);
             this.label3.TabIndex = 2;
             this.label3.Text = "Output Folder:";
             // 
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(28, 273);
+            this.label4.Location = new System.Drawing.Point(15, 128);
+            this.label4.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(141, 32);
+            this.label4.Size = new System.Drawing.Size(70, 15);
             this.label4.TabIndex = 3;
             this.label4.Text = "Ouput Files:";
             // 
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(38, 375);
+            this.label5.Location = new System.Drawing.Point(20, 176);
+            this.label5.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(201, 32);
+            this.label5.Size = new System.Drawing.Size(100, 15);
             this.label5.TabIndex = 4;
             this.label5.Text = "Multi-File Games:";
             this.label5.Visible = false;
@@ -102,9 +108,10 @@ namespace RomSorter5WinForms
             "Zipped",
             "Unzipped",
             "Rename In Place"});
-            this.comboBox1.Location = new System.Drawing.Point(369, 270);
+            this.comboBox1.Location = new System.Drawing.Point(199, 127);
+            this.comboBox1.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(226, 40);
+            this.comboBox1.Size = new System.Drawing.Size(124, 23);
             this.comboBox1.TabIndex = 5;
             // 
             // comboBox2
@@ -114,18 +121,20 @@ namespace RomSorter5WinForms
             this.comboBox2.Items.AddRange(new object[] {
             "Zipped",
             "Folder"});
-            this.comboBox2.Location = new System.Drawing.Point(369, 372);
+            this.comboBox2.Location = new System.Drawing.Point(199, 174);
+            this.comboBox2.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.comboBox2.Name = "comboBox2";
-            this.comboBox2.Size = new System.Drawing.Size(226, 40);
+            this.comboBox2.Size = new System.Drawing.Size(124, 23);
             this.comboBox2.TabIndex = 6;
             this.comboBox2.Visible = false;
             // 
             // btnSort
             // 
             this.btnSort.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.btnSort.Location = new System.Drawing.Point(72, 515);
+            this.btnSort.Location = new System.Drawing.Point(39, 241);
+            this.btnSort.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.btnSort.Name = "btnSort";
-            this.btnSort.Size = new System.Drawing.Size(143, 63);
+            this.btnSort.Size = new System.Drawing.Size(77, 30);
             this.btnSort.TabIndex = 7;
             this.btnSort.Text = "Sort!";
             this.btnSort.UseVisualStyleBackColor = true;
@@ -139,9 +148,10 @@ namespace RomSorter5WinForms
             // 
             // btnDatFolderSelect
             // 
-            this.btnDatFolderSelect.Location = new System.Drawing.Point(216, 19);
+            this.btnDatFolderSelect.Location = new System.Drawing.Point(116, 9);
+            this.btnDatFolderSelect.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.btnDatFolderSelect.Name = "btnDatFolderSelect";
-            this.btnDatFolderSelect.Size = new System.Drawing.Size(102, 51);
+            this.btnDatFolderSelect.Size = new System.Drawing.Size(55, 24);
             this.btnDatFolderSelect.TabIndex = 8;
             this.btnDatFolderSelect.Text = "Select";
             this.btnDatFolderSelect.UseVisualStyleBackColor = true;
@@ -149,9 +159,10 @@ namespace RomSorter5WinForms
             // 
             // btnRomFolderSelect
             // 
-            this.btnRomFolderSelect.Location = new System.Drawing.Point(216, 97);
+            this.btnRomFolderSelect.Location = new System.Drawing.Point(116, 45);
+            this.btnRomFolderSelect.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.btnRomFolderSelect.Name = "btnRomFolderSelect";
-            this.btnRomFolderSelect.Size = new System.Drawing.Size(102, 51);
+            this.btnRomFolderSelect.Size = new System.Drawing.Size(55, 24);
             this.btnRomFolderSelect.TabIndex = 9;
             this.btnRomFolderSelect.Text = "Select";
             this.btnRomFolderSelect.UseVisualStyleBackColor = true;
@@ -159,9 +170,10 @@ namespace RomSorter5WinForms
             // 
             // btnOutputFolderSelect
             // 
-            this.btnOutputFolderSelect.Location = new System.Drawing.Point(216, 176);
+            this.btnOutputFolderSelect.Location = new System.Drawing.Point(116, 82);
+            this.btnOutputFolderSelect.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.btnOutputFolderSelect.Name = "btnOutputFolderSelect";
-            this.btnOutputFolderSelect.Size = new System.Drawing.Size(102, 51);
+            this.btnOutputFolderSelect.Size = new System.Drawing.Size(55, 24);
             this.btnOutputFolderSelect.TabIndex = 10;
             this.btnOutputFolderSelect.Text = "Select";
             this.btnOutputFolderSelect.UseVisualStyleBackColor = true;
@@ -170,47 +182,65 @@ namespace RomSorter5WinForms
             // lblStatus
             // 
             this.lblStatus.AutoSize = true;
-            this.lblStatus.Location = new System.Drawing.Point(18, 702);
+            this.lblStatus.Location = new System.Drawing.Point(10, 329);
+            this.lblStatus.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblStatus.Name = "lblStatus";
-            this.lblStatus.Size = new System.Drawing.Size(53, 32);
+            this.lblStatus.Size = new System.Drawing.Size(26, 15);
             this.lblStatus.TabIndex = 11;
             this.lblStatus.Text = "Idle";
             // 
             // txtDatPath
             // 
-            this.txtDatPath.Location = new System.Drawing.Point(370, 25);
+            this.txtDatPath.Location = new System.Drawing.Point(199, 12);
+            this.txtDatPath.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.txtDatPath.Name = "txtDatPath";
-            this.txtDatPath.Size = new System.Drawing.Size(418, 39);
+            this.txtDatPath.Size = new System.Drawing.Size(227, 23);
             this.txtDatPath.TabIndex = 12;
             // 
             // txtRomPath
             // 
-            this.txtRomPath.Location = new System.Drawing.Point(370, 103);
+            this.txtRomPath.Location = new System.Drawing.Point(199, 48);
+            this.txtRomPath.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.txtRomPath.Name = "txtRomPath";
-            this.txtRomPath.Size = new System.Drawing.Size(418, 39);
+            this.txtRomPath.Size = new System.Drawing.Size(227, 23);
             this.txtRomPath.TabIndex = 13;
             // 
             // txtOutputPath
             // 
-            this.txtOutputPath.Location = new System.Drawing.Point(370, 182);
+            this.txtOutputPath.Location = new System.Drawing.Point(199, 85);
+            this.txtOutputPath.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.txtOutputPath.Name = "txtOutputPath";
-            this.txtOutputPath.Size = new System.Drawing.Size(418, 39);
+            this.txtOutputPath.Size = new System.Drawing.Size(227, 23);
             this.txtOutputPath.TabIndex = 14;
             // 
             // progressBar1
             // 
             this.progressBar1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.progressBar1.Location = new System.Drawing.Point(12, 604);
+            this.progressBar1.Location = new System.Drawing.Point(6, 283);
+            this.progressBar1.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.progressBar1.Name = "progressBar1";
-            this.progressBar1.Size = new System.Drawing.Size(776, 66);
+            this.progressBar1.Size = new System.Drawing.Size(418, 31);
             this.progressBar1.TabIndex = 15;
+            // 
+            // button1
+            // 
+            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.System;
+            this.button1.Location = new System.Drawing.Point(319, 241);
+            this.button1.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(101, 30);
+            this.button1.TabIndex = 16;
+            this.button1.Text = "Everdrive Sort";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // SimpleInterface
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(13F, 32F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 737);
+            this.ClientSize = new System.Drawing.Size(431, 345);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.progressBar1);
             this.Controls.Add(this.txtOutputPath);
             this.Controls.Add(this.txtRomPath);
@@ -227,6 +257,7 @@ namespace RomSorter5WinForms
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
+            this.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.Name = "SimpleInterface";
             this.Text = "SimpleInterface";
             this.ResumeLayout(false);
@@ -253,5 +284,6 @@ namespace RomSorter5WinForms
         private System.Windows.Forms.TextBox txtRomPath;
         private System.Windows.Forms.TextBox txtOutputPath;
         private System.Windows.Forms.ProgressBar progressBar1;
+        private System.Windows.Forms.Button button1;
     }
 }
