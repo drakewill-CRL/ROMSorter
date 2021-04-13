@@ -25,8 +25,17 @@ namespace Librarian5Console
             if (args.Any(a => a == "-quiet"))
                 verbose = false;
 
-            //TODO: make a -add command that inserts new file info and leaves existing file data alone.
+            if (args.Any(a => a == "-add")) //Add files that weren't present previously. Intended for hard drive storage that updates occasionally, versus DVD-R or BD-R that writes once.
+            {
+                System.Diagnostics.Stopwatch sw = new System.Diagnostics.Stopwatch();
+                sw.Start();
+                UpdateFiles(workingPath);
+                sw.Stop();
+                Console.WriteLine("New files addded to database in " + sw.Elapsed);
+                return;
+            }
 
+            //No args were parsed, run the default assumed functionality.
             var dbFile = new FileInfo(workingPath + "\\Librarian.sqlite");
             if (dbFile.Exists)
             {
@@ -64,6 +73,42 @@ namespace Librarian5Console
                 var fi = new FileInfo(file);
                 if (fi.Name == "Librarian.exe" || fi.Name == "Librarian.sqlite")
                     continue; //We dont need to scan ourselves.
+
+                //Hash file. Save results vto DB.
+                var hashes = hasher.HashFile(File.ReadAllBytes(file));
+                InsertEntry(file, fi.Length, hashes[0], hashes[1], hashes[2]);
+
+                if (verbose)
+                {
+                    Console.WriteLine("File:" + file.Replace(workingPath, ""));
+                    Console.WriteLine("Size: " + fi.Length);
+                    Console.WriteLine("MD5: " + hashes[0]);
+                    Console.WriteLine("SHA1: " + hashes[1]);
+                    Console.WriteLine("CRC: " + hashes[2]);
+                }
+            }
+        }
+
+        static void UpdateFiles(string path)
+        {
+            var subfolders = Directory.EnumerateDirectories(path);
+            if (subfolders.Count() > 0)
+                foreach (var sf in subfolders)
+                    UpdateFiles(sf);
+
+
+            RomDatabase5.Hasher hasher = new RomDatabase5.Hasher();
+            var filesToParse = Directory.EnumerateFiles(path);
+            foreach (var file in filesToParse)
+            {
+                var fi = new FileInfo(file);
+                if (fi.Name == "Librarian.exe" || fi.Name == "Librarian.sqlite")
+                    continue; //We dont need to scan ourselves.
+
+                string relativePath = file.Replace(workingPath, "");
+                var entry = GetEntry(relativePath.Replace("'", ""));
+                if (entry != null)
+                    continue; //We aren't updating existing files on this call.
 
                 //Hash file. Save results vto DB.
                 var hashes = hasher.HashFile(File.ReadAllBytes(file));
@@ -119,6 +164,8 @@ namespace Librarian5Console
                         Console.WriteLine("MD5: " + hashes[0] + " VS " + entry.md5);
                         Console.WriteLine("SHA1: " + hashes[1] + " VS " + entry.sha1);
                         Console.WriteLine("CRC: " + hashes[2] + " VS " + entry.crc);
+                        Console.WriteLine("Push any key to resume scanning.");
+                        Console.ReadKey();
                     }
                 }
             }
