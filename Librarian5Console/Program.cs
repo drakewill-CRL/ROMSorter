@@ -25,6 +25,8 @@ namespace Librarian5Console
             if (args.Any(a => a == "-quiet"))
                 verbose = false;
 
+            //TODO: make a -add command that inserts new file info and leaves existing file data alone.
+
             var dbFile = new FileInfo(workingPath + "\\Librarian.sqlite");
             if (dbFile.Exists)
             {
@@ -127,6 +129,8 @@ namespace Librarian5Console
             //Database can be one table.
             string mainTable = "CREATE TABLE files(id INTEGER PRIMARY KEY, relativePath TEXT, size INT, crc TEXT, md5 TEXT, sha1 TEXT);";
             ExecuteSQLiteNonQuery(mainTable);
+            string index = "CREATE INDEX idxPath ON files(relativePath);";
+            ExecuteSQLiteNonQuery(index);
         }
 
         static void InsertEntry(string path, long size, string md5, string sha1, string crc)
