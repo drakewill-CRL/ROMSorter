@@ -9,7 +9,7 @@ namespace Librarian5Console
     class Program
     {
         public static string workingPath = Directory.GetCurrentDirectory();
-        public static string conString = "Data Source=" + workingPath  + "Librarian.sqlite;Synchronous=Off;Journal_Mode=MEMORY;"; //Pragma statements go in the connection string.
+        public static string conString = "Data Source=" + workingPath  + "\\Librarian.sqlite;Synchronous=Off;Journal_Mode=MEMORY;"; //Pragma statements go in the connection string.
         
         public static bool verbose = true;
 
@@ -25,7 +25,7 @@ namespace Librarian5Console
             if (args.Any(a => a == "-quiet"))
                 verbose = false;
 
-            var dbFile = new FileInfo(workingPath + "Librarian.sqlite");
+            var dbFile = new FileInfo(workingPath + "\\Librarian.sqlite");
             if (dbFile.Exists)
             {
                 //Check files against DB
@@ -60,7 +60,7 @@ namespace Librarian5Console
             foreach (var file in filesToParse)
             {
                 var fi = new FileInfo(file);
-                if (fi.Name == "Librarian5Console.exe" || fi.Name == "Librarian.sqlite")
+                if (fi.Name == "Librarian.exe" || fi.Name == "Librarian.sqlite")
                     continue; //We dont need to scan ourselves.
 
                 //Hash file. Save results vto DB.
@@ -89,26 +89,30 @@ namespace Librarian5Console
             var filesToParse = Directory.EnumerateFiles(path);
             foreach (var file in filesToParse)
             {
-                var entry = GetEntry(file);
+                var fi = new FileInfo(file);
+                if (fi.Name == "Librarian.exe" || fi.Name == "Librarian.sqlite")
+                    continue; //We dont need to scan ourselves.
+
+                string relativePath = file.Replace(workingPath, "");
+                var entry = GetEntry(relativePath.Replace("'", ""));
                 if (entry == null)
                 {
-                    Console.WriteLine("File " + file + " Not Found in database.");
+                    Console.WriteLine("File " + relativePath + " Not Found in database.");
                     continue;
                 }
-                var fi = new FileInfo(file);
+                
                 var hashes = hasher.HashFile(File.ReadAllBytes(file));
                 if (fi.Length == entry.size && hashes[0] == entry.md5 && hashes[1] == entry.sha1 && hashes[2] == entry.crc)
                 {
                     //good
                     if (verbose)
-                        Console.WriteLine("File " + file + " OK");
+                        Console.WriteLine("File " + relativePath + " OK");
                 }
                 else
                 {
-                    Console.WriteLine("File " + file + " changed!");
+                    Console.WriteLine("File " + relativePath + " changed!");
                     if (verbose)
                     {
-                        Console.WriteLine("File:" + file.Replace(workingPath, ""));
                         Console.WriteLine("Size: " + fi.Length + " VS " + entry.size);
                         Console.WriteLine("MD5: " + hashes[0] + " VS " + entry.md5);
                         Console.WriteLine("SHA1: " + hashes[1] + " VS " + entry.sha1);
@@ -130,7 +134,7 @@ namespace Librarian5Console
             string insert = "INSERT INTO files(relativePath,  size, crc, md5, sha1)"
                          + "VALUES(@path,  @size, @crc, @md5, @sha1)";
             List<SQLiteParameter> p = new List<SQLiteParameter>();
-            p.Add(new SQLiteParameter("@path", path.Replace(workingPath, ""))); //Save relative path.
+            p.Add(new SQLiteParameter("@path", path.Replace(workingPath, "").Replace("'", ""))); //Save relative path.
             p.Add(new SQLiteParameter("@size", size));
             p.Add(new SQLiteParameter("@crc", crc));
             p.Add(new SQLiteParameter("@md5", md5));
