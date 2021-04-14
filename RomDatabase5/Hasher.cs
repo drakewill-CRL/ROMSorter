@@ -52,15 +52,13 @@ namespace RomDatabase5
 
         public string[] HashFile(Stream fileData)
         {
-            //hashes files all 3 ways.  Faster on bigger files with threading, might be slower on small files.
+            //hashes files all 3 ways.  can't thread nicely with a Stream like this.
             string[] results = new string[3];
-            var m = Task<string>.Factory.StartNew(() => { return HashToString(md5.ComputeHash(fileData)); });
-            var s = Task<string>.Factory.StartNew(() => { return HashToString(sha1.ComputeHash(fileData)); });
-            var c = Task<string>.Factory.StartNew(() => { return HashToString(crc.ComputeHash(fileData)); });
-            Task.WaitAll(m, s, c);
-            results[0] = m.Result;
-            results[1] = s.Result;
-            results[2] = c.Result;
+            results[0] = HashToString(md5.ComputeHash(fileData));
+            fileData.Seek(0, SeekOrigin.Begin);
+            results[1] = HashToString(sha1.ComputeHash(fileData));
+            fileData.Seek(0, SeekOrigin.Begin);
+            results[2] = HashToString(crc.ComputeHash(fileData));            
             return results;
         }
 
