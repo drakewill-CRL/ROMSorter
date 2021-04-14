@@ -9,12 +9,19 @@ namespace Librarian5Console
     class Program
     {
         public static string workingPath = Directory.GetCurrentDirectory();
-        public static string conString = "Data Source=" + workingPath  + "\\Librarian.sqlite;Synchronous=Off;Journal_Mode=MEMORY;"; //Pragma statements go in the connection string.
+        public static string conString = ""; 
         
         public static bool verbose = true;
 
         static void Main(string[] args)
         {
+            if (args.Any(a => a.StartsWith("-wp:")))
+            {
+                var param = args.Where(a => a.StartsWith("-wp:")).First();
+                workingPath = param.Substring(param.IndexOf(":") + 1, param.Length - param.IndexOf(":") - 1);
+            }
+            conString = "Data Source=" + workingPath + "\\Librarian.sqlite;Synchronous=Off;"; //Pragma statements go in the connection string. //Journal_Mode=MEMORY;
+
             Console.WriteLine("Working Path:" + workingPath);
             //Rules:
             //If no args passed, auto-detect mode
@@ -22,8 +29,15 @@ namespace Librarian5Console
             //if database file present, validate all files in folder and sub-folder against saved hash, report if any changed.
             //Try to minimize external dependencies. The app shouldn't be super big.
 
+            //NOTE: i don't need a loggable text file for output. That's the .sqlite file. There's plenty of free Sqlite readers. DB Browser for Sqlite is my preferred one.
+
             if (args.Any(a => a == "-quiet"))
                 verbose = false;
+
+
+            var dbFile = new FileInfo(workingPath + "\\Librarian.sqlite");
+            if (!dbFile.Exists)
+                CreateDatabase(); //Create this regardless of other args.
 
             if (args.Any(a => a == "-add")) //Add files that weren't present previously. Intended for hard drive storage that updates occasionally, versus DVD-R or BD-R that writes once.
             {
@@ -36,7 +50,6 @@ namespace Librarian5Console
             }
 
             //No args were parsed, run the default assumed functionality.
-            var dbFile = new FileInfo(workingPath + "\\Librarian.sqlite");
             if (dbFile.Exists)
             {
                 //Check files against DB
@@ -48,10 +61,9 @@ namespace Librarian5Console
             }
             else
             {
-                //Create DB, populate with files as they are.
+                //populate with files as they are.
                 System.Diagnostics.Stopwatch sw = new System.Diagnostics.Stopwatch();
                 sw.Start();
-                CreateDatabase();
                 ScanAllFiles(workingPath);
                 sw.Stop();
                 Console.WriteLine("All files hashes and database saved in " + sw.Elapsed);
@@ -75,7 +87,9 @@ namespace Librarian5Console
                     continue; //We dont need to scan ourselves.
 
                 //Hash file. Save results vto DB.
-                var hashes = hasher.HashFile(File.ReadAllBytes(file));
+                System.IO.FileStream fs = new FileStream(file, FileMode.Open);
+                var hashes = hasher.HashFile(fs); //required for files over 2GB.
+                //var hashes = hasher.HashFile(File.ReadAllBytes(file));
                 InsertEntry(file, fi.Length, hashes[0], hashes[1], hashes[2]);
 
                 if (verbose)
@@ -111,7 +125,9 @@ namespace Librarian5Console
                     continue; //We aren't updating existing files on this call.
 
                 //Hash file. Save results vto DB.
-                var hashes = hasher.HashFile(File.ReadAllBytes(file));
+                System.IO.FileStream fs = new FileStream(file, FileMode.Open);
+                var hashes = hasher.HashFile(fs); //required for files over 2GB.
+                //var hashes = hasher.HashFile(File.ReadAllBytes(file));
                 InsertEntry(file, fi.Length, hashes[0], hashes[1], hashes[2]);
 
                 if (verbose)
@@ -147,8 +163,10 @@ namespace Librarian5Console
                     Console.WriteLine("File " + relativePath + " Not Found in database.");
                     continue;
                 }
-                
-                var hashes = hasher.HashFile(File.ReadAllBytes(file));
+
+                System.IO.FileStream fs = new FileStream(file, FileMode.Open);
+                var hashes = hasher.HashFile(fs); //required for files over 2GB.
+                //var hashes = hasher.HashFile(File.ReadAllBytes(file));
                 if (fi.Length == entry.size && hashes[0] == entry.md5 && hashes[1] == entry.sha1 && hashes[2] == entry.crc)
                 {
                     //good
@@ -218,11 +236,14 @@ namespace Librarian5Console
                 cmd.Parameters.AddRange(parameters.ToArray());
 
                 var results = cmd.ExecuteNonQuery();
+                connection.Close();
+                connection.Dispose();
             }
         }
 
         public static Entry FindEntry(string query)
         {
+            Entry e = null;
             using (var connection = new SQLiteConnection(conString))
             {
                 connection.Open();
@@ -230,10 +251,9 @@ namespace Librarian5Console
                 var results = cmd.ExecuteReader();
 
                 if (results != null)
-                    return MapEntry(results);
-
-                return null;
+                    e = MapEntry(results);
             }
+            return e;
         }
 
         public class Entry

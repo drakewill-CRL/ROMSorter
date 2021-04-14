@@ -50,6 +50,20 @@ namespace RomDatabase5
             return sb.ToString().ToLower();
         }
 
+        public string[] HashFile(Stream fileData)
+        {
+            //hashes files all 3 ways.  Faster on bigger files with threading, might be slower on small files.
+            string[] results = new string[3];
+            var m = Task<string>.Factory.StartNew(() => { return HashToString(md5.ComputeHash(fileData)); });
+            var s = Task<string>.Factory.StartNew(() => { return HashToString(sha1.ComputeHash(fileData)); });
+            var c = Task<string>.Factory.StartNew(() => { return HashToString(crc.ComputeHash(fileData)); });
+            Task.WaitAll(m, s, c);
+            results[0] = m.Result;
+            results[1] = s.Result;
+            results[2] = c.Result;
+            return results;
+        }
+
         //Testing looks like multithread hashing is faster on files over 4kb in size.
         //I had expected that threshold to be higher, but that's what my testing showed.
         public string[] HashFile(byte[] fileData)
