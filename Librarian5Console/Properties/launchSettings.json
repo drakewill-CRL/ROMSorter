@@ -1,7 +1,8 @@
 {
   "profiles": {
     "Librarian5Console": {
-      "commandName": "Project"
+      "commandName": "Project",
+      "commandLineArgs": "-add"
     }
   }
 }

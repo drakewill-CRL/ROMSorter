@@ -12,16 +12,22 @@ namespace Librarian5Console
         public static string conString = ""; 
         
         public static bool verbose = true;
+        public static bool dbPerFolder = false;
 
         static void Main(string[] args)
         {
+            bool defaultVerify = false;
             if (args.Any(a => a.StartsWith("-wp:")))
             {
                 var param = args.Where(a => a.StartsWith("-wp:")).First();
                 workingPath = param.Substring(param.IndexOf(":") + 1, param.Length - param.IndexOf(":") - 1);
             }
-            conString = "Data Source=" + workingPath + "\\Librarian.sqlite;Synchronous=Off;"; //Pragma statements go in the connection string. //Journal_Mode=MEMORY;
-
+            var dbFile = new FileInfo(workingPath + "\\Librarian.sqlite");
+            if (dbFile.Exists)
+                defaultVerify = true;
+            
+            UpdateConnectionString(workingPath);
+            
             Console.WriteLine("Working Path:" + workingPath);
             //Rules:
             //If no args passed, auto-detect mode
@@ -34,10 +40,8 @@ namespace Librarian5Console
             if (args.Any(a => a == "-quiet"))
                 verbose = false;
 
-
-            var dbFile = new FileInfo(workingPath + "\\Librarian.sqlite");
-            if (!dbFile.Exists)
-                CreateDatabase(); //Create this regardless of other args.
+            if (args.Any(a => a == "-dbPerFolder"))
+                dbPerFolder = true;
 
             if (args.Any(a => a == "-add")) //Add files that weren't present previously. Intended for hard drive storage that updates occasionally, versus DVD-R or BD-R that writes once.
             {
@@ -50,7 +54,7 @@ namespace Librarian5Console
             }
 
             //No args were parsed, run the default assumed functionality.
-            if (dbFile.Exists)
+            if (defaultVerify)
             {
                 //Check files against DB
                 System.Diagnostics.Stopwatch sw = new System.Diagnostics.Stopwatch();
@@ -70,6 +74,14 @@ namespace Librarian5Console
             }
         }
 
+        static void UpdateConnectionString(string path)
+        {
+            conString = "Data Source=" + path + "\\Librarian.sqlite;Synchronous=Off;"; //Pragma statements go in the connection string. //Journal_Mode=MEMORY;
+            var dbFile = new FileInfo(path + "\\Librarian.sqlite");
+            if (!dbFile.Exists)
+                CreateDatabase(); 
+        }
+
         static void ScanAllFiles(string path)
         {
             var subfolders = Directory.EnumerateDirectories(path);
@@ -77,6 +89,10 @@ namespace Librarian5Console
                 foreach (var sf in subfolders)
                     ScanAllFiles(sf);
 
+            if (dbPerFolder)
+            {
+                UpdateConnectionString(path);
+            }
 
             RomDatabase5.Hasher hasher = new RomDatabase5.Hasher();
             var filesToParse = Directory.EnumerateFiles(path);
@@ -109,7 +125,6 @@ namespace Librarian5Console
             if (subfolders.Count() > 0)
                 foreach (var sf in subfolders)
                     UpdateFiles(sf);
-
 
             RomDatabase5.Hasher hasher = new RomDatabase5.Hasher();
             var filesToParse = Directory.EnumerateFiles(path);
@@ -224,6 +239,7 @@ namespace Librarian5Console
                 connection.Open();
                 var cmd = new SQLiteCommand(command, connection);
                 var results = cmd.ExecuteNonQuery();
+                cmd.Dispose();
             }
         }
 
@@ -236,6 +252,7 @@ namespace Librarian5Console
                 cmd.Parameters.AddRange(parameters.ToArray());
 
                 var results = cmd.ExecuteNonQuery();
+                cmd.Dispose();
                 connection.Close();
                 connection.Dispose();
             }
@@ -252,6 +269,11 @@ namespace Librarian5Console
 
                 if (results != null)
                     e = MapEntry(results);
+
+                results.Close(); //This specifically unlocks the DB after a query for writing.
+                cmd.Dispose();
+                connection.Close();
+                connection.Dispose();
             }
             return e;
         }

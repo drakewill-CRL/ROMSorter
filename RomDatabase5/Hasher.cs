@@ -52,13 +52,13 @@ namespace RomDatabase5
 
         public string[] HashFile(Stream fileData)
         {
-            //hashes files all 3 ways.  can't thread nicely with a Stream like this.
+            //hashes files all 3 ways. 
             string[] results = new string[3];
             results[0] = HashToString(md5.ComputeHash(fileData));
             fileData.Seek(0, SeekOrigin.Begin);
             results[1] = HashToString(sha1.ComputeHash(fileData));
             fileData.Seek(0, SeekOrigin.Begin);
-            results[2] = HashToString(crc.ComputeHash(fileData));            
+            results[2] = HashToString(crc.ComputeHash(fileData));
             return results;
         }
 
