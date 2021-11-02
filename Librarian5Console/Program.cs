@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Data.SQLite;
 using System.IO;
 using System.Linq;
+using System.Text;
 
 namespace Librarian5Console
 {
@@ -13,6 +14,8 @@ namespace Librarian5Console
         
         public static bool verbose = true;
         public static bool dbPerFolder = false;
+
+        public static StringBuilder allErrors = new StringBuilder();
 
         static void Main(string[] args)
         {
@@ -62,6 +65,11 @@ namespace Librarian5Console
                 ValidateAllFiles(workingPath);
                 sw.Stop();
                 Console.WriteLine("All files scanned in " + sw.Elapsed);
+                if (allErrors.Length > 0)
+                {
+                    Console.WriteLine("Errored files:");
+                    Console.Write(allErrors.ToString());
+                }
             }
             else
             {
@@ -190,6 +198,7 @@ namespace Librarian5Console
                 }
                 else
                 {
+                    allErrors.AppendLine(relativePath);
                     Console.WriteLine("File " + relativePath + " changed!");
                     if (verbose)
                     {
