@@ -70,10 +70,10 @@ namespace RomSorter5WinForms
         {
             if (ofd1.ShowDialog() == DialogResult.OK)
             {
-                Progress<string> progress = new Progress<string>(s => lblStatus.Text = s);
                 txtRomPath.Text = System.IO.Path.GetDirectoryName(ofd1.FileName);
-                sorter.getFilesToScan(txtRomPath.Text, progress);
+                sorter.getFilesToScan(txtRomPath.Text);
                 progressBar1.Maximum = sorter.FilesToScanCount;
+                lblStatus.Text = "Folder selected";
             }
         }
 

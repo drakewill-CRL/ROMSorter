@@ -85,9 +85,9 @@ namespace RomSorter5WinForms
             this.label4.Location = new System.Drawing.Point(15, 128);
             this.label4.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(70, 15);
+            this.label4.Size = new System.Drawing.Size(74, 15);
             this.label4.TabIndex = 3;
-            this.label4.Text = "Ouput Files:";
+            this.label4.Text = "Output Files:";
             // 
             // label5
             // 

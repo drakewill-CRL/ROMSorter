@@ -4,6 +4,8 @@ using System.ComponentModel;
 using System.Data;
 using System.Diagnostics;
 using System.Drawing;
+using System.IO;
+using System.IO.Compression;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -199,6 +201,65 @@ namespace RomSorter5
             //byRef serial hashing is faster on 4k files, slower on all other, but also uses 1/4th the ram(?)
             var a = 1;
 
+        }
+
+        private void btnRezipAll_Click(object sender, EventArgs e)
+        {
+            if (ofdDats.ShowDialog() == DialogResult.OK)
+            {
+                foreach(var file in System.IO.Directory.EnumerateFiles(System.IO.Path.GetDirectoryName(ofdDats.FileName)))
+                {
+                    string tempfilename = "temp.temp";
+                    SharpCompress.Archives.IArchive existingZip = null;
+                    using (ZipArchive zf = new ZipArchive(System.IO.File.Create(tempfilename), ZipArchiveMode.Update))
+                    {
+                        switch (System.IO.Path.GetExtension(file))
+                        {
+                            case ".zip":
+                                existingZip = SharpCompress.Archives.Zip.ZipArchive.Open(file);
+                                RezipFromArchive(existingZip, zf);
+                                break;
+                            case ".rar":
+                                existingZip = SharpCompress.Archives.Rar.RarArchive.Open(file);
+                                RezipFromArchive(existingZip, zf);
+                                break;
+                            case ".gz":
+                            case ".gzip":
+                                existingZip = SharpCompress.Archives.GZip.GZipArchive.Open(file);
+                                RezipFromArchive(existingZip, zf);
+                                break;
+                            case ".7z":
+                                existingZip = SharpCompress.Archives.SevenZip.SevenZipArchive.Open(file);
+                                RezipFromArchive(existingZip, zf);
+                                break;
+                            case ".tar":
+                                existingZip = SharpCompress.Archives.Tar.TarArchive.Open(file);
+                                RezipFromArchive(existingZip, zf);
+                                break;
+                            default:
+                                zf.CreateEntryFromFile(file, Path.GetFileName(file), CompressionLevel.Optimal);
+                                break;
+                        }
+                    }
+                    if (existingZip != null) existingZip.Dispose();
+                    File.Delete(file);
+                    File.Move(tempfilename,  Path.GetDirectoryName(file) + "\\" + Path.GetFileNameWithoutExtension(file) + ".zip");
+                }
+            }
+        }
+
+        private void RezipFromArchive(SharpCompress.Archives.IArchive existingZip, ZipArchive zf)
+        {
+            foreach (var ez in existingZip.Entries)
+            {
+                byte[] fileData = new byte[ez.Size];
+                new BinaryReader(ez.OpenEntryStream()).Read(fileData, 0, (int)ez.Size);
+                var entry = zf.CreateEntry(ez.Key);
+                using (BinaryWriter bw = new BinaryWriter(entry.Open()))
+                {
+                    bw.Write(fileData);
+                }
+            }
         }
     }
 }

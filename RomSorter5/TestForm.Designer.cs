@@ -36,6 +36,7 @@
             this.lblTestStatus = new System.Windows.Forms.Label();
             this.btnTestEntities = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
+            this.btnRezipAll = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnReloadAllHighIntegrity
@@ -113,11 +114,22 @@
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
+            // btnRezipAll
+            // 
+            this.btnRezipAll.Location = new System.Drawing.Point(12, 119);
+            this.btnRezipAll.Name = "btnRezipAll";
+            this.btnRezipAll.Size = new System.Drawing.Size(111, 58);
+            this.btnRezipAll.TabIndex = 6;
+            this.btnRezipAll.Text = "Rezip All Files";
+            this.btnRezipAll.UseVisualStyleBackColor = true;
+            this.btnRezipAll.Click += new System.EventHandler(this.btnRezipAll_Click);
+            // 
             // TestForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnRezipAll);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.btnTestEntities);
             this.Controls.Add(this.lblTestStatus);
@@ -142,5 +154,6 @@
         private System.Windows.Forms.Label lblTestStatus;
         private System.Windows.Forms.Button btnTestEntities;
         private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button btnRezipAll;
     }
 }

@@ -68,9 +68,11 @@ namespace RomDatabase5
 
             //Step 1: enumerate all files first.
             files = new ConcurrentBag<string>();
-            progress.Report("Scanning for files");
+            if(progress != null)
+                progress.Report("Scanning for files");
             EnumerateAllFiles(sourceFolder);
-            progress.Report(files.Count() + " files found in " + sw.Elapsed.ToString());
+            if (progress != null)
+                progress.Report(files.Count() + " files found in " + sw.Elapsed.ToString());
             sw.Stop();
             FilesToScanCount = files.Count();
 

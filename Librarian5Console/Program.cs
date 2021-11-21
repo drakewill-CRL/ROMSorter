@@ -56,7 +56,7 @@ namespace Librarian5Console
                 return;
             }
 
-            //No args were parsed, run the default assumed functionality.
+            //No args were parsed, run the default assumed functionality. This may need to check for a DB file in each folder as well.
             if (defaultVerify)
             {
                 //Check files against DB
