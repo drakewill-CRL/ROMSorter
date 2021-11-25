@@ -12,6 +12,8 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using Microsoft.Extensions.DependencyModel;
 using RomDatabase5;
+using SharpCompress.Archives;
+using SharpCompress.Writers;
 
 namespace RomSorter5
 {
@@ -133,11 +135,11 @@ namespace RomSorter5
             double entityDifference6 = timing12 / (float)timing11;
 
 
-            string resultsSummary = "Entity Performance Differences:" + Environment.NewLine + 
-                "Counting Games: " + entityDifference1 + Environment.NewLine + 
+            string resultsSummary = "Entity Performance Differences:" + Environment.NewLine +
+                "Counting Games: " + entityDifference1 + Environment.NewLine +
                 "Counting By Console: " + entityDifference2 + Environment.NewLine +
-                "Searching Games: " + entityDifference3 +Environment.NewLine +
-                "Searching Discs: " + entityDifference4 +Environment.NewLine +
+                "Searching Games: " + entityDifference3 + Environment.NewLine +
+                "Searching Discs: " + entityDifference4 + Environment.NewLine +
                 "Load All Games: " + entityDifference5 + Environment.NewLine +
                 "Load 1 Consoles Games: " + entityDifference6 + Environment.NewLine;
 
@@ -207,59 +209,57 @@ namespace RomSorter5
         {
             if (ofdDats.ShowDialog() == DialogResult.OK)
             {
-                foreach(var file in System.IO.Directory.EnumerateFiles(System.IO.Path.GetDirectoryName(ofdDats.FileName)))
+                var fileList = Directory.EnumerateFiles(System.IO.Path.GetDirectoryName(ofdDats.FileName));
+                foreach (var file in fileList)
                 {
-                    string tempfilename = "temp.temp";
+                    lblTestStatus.Text = Path.GetFileName(file);
+                    string tempfilename = Path.GetTempFileName();
                     SharpCompress.Archives.IArchive existingZip = null;
-                    using (ZipArchive zf = new ZipArchive(System.IO.File.Create(tempfilename), ZipArchiveMode.Update))
+                    //using (ZipArchive zf = new ZipArchive(System.IO.File.Create(tempfilename), ZipArchiveMode.Update))
+                    var fs = File.OpenRead(file);
+                    var zf = SharpCompress.Writers.WriterFactory.Open(System.IO.File.Create(tempfilename), SharpCompress.Common.ArchiveType.Zip, new SharpCompress.Writers.WriterOptions(SharpCompress.Common.CompressionType.LZMA) { LeaveStreamOpen = false });
+                    switch (System.IO.Path.GetExtension(file))
                     {
-                        switch (System.IO.Path.GetExtension(file))
-                        {
-                            case ".zip":
-                                existingZip = SharpCompress.Archives.Zip.ZipArchive.Open(file);
-                                RezipFromArchive(existingZip, zf);
-                                break;
-                            case ".rar":
-                                existingZip = SharpCompress.Archives.Rar.RarArchive.Open(file);
-                                RezipFromArchive(existingZip, zf);
-                                break;
-                            case ".gz":
-                            case ".gzip":
-                                existingZip = SharpCompress.Archives.GZip.GZipArchive.Open(file);
-                                RezipFromArchive(existingZip, zf);
-                                break;
-                            case ".7z":
-                                existingZip = SharpCompress.Archives.SevenZip.SevenZipArchive.Open(file);
-                                RezipFromArchive(existingZip, zf);
-                                break;
-                            case ".tar":
-                                existingZip = SharpCompress.Archives.Tar.TarArchive.Open(file);
-                                RezipFromArchive(existingZip, zf);
-                                break;
-                            default:
-                                zf.CreateEntryFromFile(file, Path.GetFileName(file), CompressionLevel.Optimal);
-                                break;
-                        }
+                        case ".zip":
+                        case ".rar":
+                        case ".gz":
+                        case ".gzip":
+                        case ".tar":
+                        case ".7z": //7z is super slow, might need its own setup on a stream instead of an archive.
+                            existingZip = SharpCompress.Archives.ArchiveFactory.Open(fs);
+                            RezipFromArchive(existingZip, zf);
+                            break;
+                        default:
+                            zf.Write(Path.GetFileName(file), new FileInfo(file));
+                            break;
                     }
                     if (existingZip != null) existingZip.Dispose();
+                    fs.Close(); fs.Dispose();
+                    zf.Dispose();
                     File.Delete(file);
-                    File.Move(tempfilename,  Path.GetDirectoryName(file) + "\\" + Path.GetFileNameWithoutExtension(file) + ".zip");
+                    File.Move(tempfilename, Path.GetDirectoryName(file) + "\\" + Path.GetFileNameWithoutExtension(file) + ".zip");
                 }
             }
         }
 
-        private void RezipFromArchive(SharpCompress.Archives.IArchive existingZip, ZipArchive zf)
+        private void RezipFromArchive(SharpCompress.Archives.IArchive existingZip, SharpCompress.Writers.IWriter zf)
         {
+            //string tempPath = Path.GetDirectoryName(Path.GetTempPath()) + "\\romsortrezip\\";
+            //Directory.CreateDirectory(tempPath);
             foreach (var ez in existingZip.Entries)
             {
-                byte[] fileData = new byte[ez.Size];
-                new BinaryReader(ez.OpenEntryStream()).Read(fileData, 0, (int)ez.Size);
-                var entry = zf.CreateEntry(ez.Key);
-                using (BinaryWriter bw = new BinaryWriter(entry.Open()))
-                {
-                    bw.Write(fileData);
-                }
+                if (!ez.IsDirectory)
+                    zf.Write(ez.Key, ez.OpenEntryStream());
+                    //ez.WriteToDirectory(tempPath, new SharpCompress.Common.ExtractionOptions() { ExtractFullPath = true, Overwrite = true });
             }
+            //zf.WriteAll(tempPath, "*", SearchOption.AllDirectories);
+            //Directory.Delete(tempPath, true);
+        }
+
+        //This is the 7z way, since it doesn't do random access nicely.
+        private void RezipFromStream()
+        {
+            
         }
     }
 }
