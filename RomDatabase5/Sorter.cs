@@ -68,7 +68,7 @@ namespace RomDatabase5
 
             //Step 1: enumerate all files first.
             files = new ConcurrentBag<string>();
-            if(progress != null)
+            if (progress != null)
                 progress.Report("Scanning for files");
             EnumerateAllFiles(sourceFolder);
             if (progress != null)
@@ -233,7 +233,7 @@ namespace RomDatabase5
             progress.Report(unidentified.Count() + " files not identified in source folder.");
 
             progress.Report("Beginning file move/zip operations");
-            
+
             sw.Restart();
             //Create all needed directories now, instead of attempting for each file.
             //var dirsToMake = foundFiles.Select(f => f.console).Distinct().ToList();
@@ -396,7 +396,7 @@ namespace RomDatabase5
                 if (!PreserveOriginals)
                     File.Delete(zf.First().originalFileName);
             });
-            
+
         }
 
         void InnerArchiveLoop(SharpCompress.Archives.IArchive file, IGrouping<string, LookupEntry> entries)
@@ -631,6 +631,73 @@ namespace RomDatabase5
             CleanupLoop(topFolder);
             progress.Report("Source Directory cleanup completed");
             sw.Stop();
+        }
+
+        public string IdentifyOneFile(string file)
+        {
+            //Get 1 file in, scan against current DB file, return filename to use for destination.
+            string baseFilename = Path.GetFileNameWithoutExtension(file);
+            Hasher hasher = new Hasher();
+            var db = new DatabaseEntities(); //Using the EF here is twice as fast in my testing versus the original code, before adding console names Adding console names makes it ~ 50% slower (15s vs 10s).
+            List<LookupEntry> le = new List<LookupEntry>(); //single-threading across files and entries, but we may still hit a zip with multiple games in it.
+
+            //hash file
+            switch (Path.GetExtension(file))
+            {
+                case ".zip":
+                    le = hasher.HashFromZip(file);
+                    break;
+                case ".rar":
+                    le = hasher.HashFromRar(file);
+                    break;
+                case ".gz":
+                case ".gzip":
+                    le = hasher.HashFromGzip(file);
+                    break;
+                case ".tar":
+                    le = hasher.HashFromTar(file);
+                    break;
+                case ".7z":
+                    le = hasher.HashFrom7z(file);
+                    break;
+                default:
+                    byte[] fileData = File.ReadAllBytes(file);
+                    var hashes = hasher.HashFileRef(ref fileData);
+                    le = new List<LookupEntry>() { new LookupEntry() { originalFileName = file, size = fileData.Length, fileType = LookupEntryType.File, crc = hashes[2], sha1 = hashes[1], md5 = hashes[0] } };
+                    fileData = null;
+                    break;
+            }
+
+            //game hashed, now check for matches.
+            if (le != null)
+            {
+                foreach (var possibleGame in le)
+                {
+                    var gameEntry = db.FindGame(possibleGame.size, possibleGame.crc, possibleGame.md5, possibleGame.sha1);
+                    if (gameEntry == null || gameEntry.Count == 0) //no match
+                        return "Unknown\\" + baseFilename;
+                    else if (gameEntry != null && gameEntry.Count == 1) //exactly 1 file matched.
+                    {
+                        return gameEntry[0].Description;
+                    }
+                    else //this is probably a disc-game that has a bunch of sub entries and our original file is an archive of them.
+                    {
+                        var discEntries = db.FindDisc(possibleGame.size, possibleGame.crc, possibleGame.md5, possibleGame.sha1);
+                        if (discEntries == null || discEntries.Count > 0)
+                            return "Unknown\\" + baseFilename;
+
+                        else if (discEntries.Count == 1)
+                        {
+                            return discEntries[0].Name;
+                        }
+                        else //this could be multiple discs based on data apparently.
+                            return "Unknown\\" + baseFilename;
+
+                    }
+                }
+            }
+
+            return "Unknown\\" + baseFilename; ;
         }
     }
 }

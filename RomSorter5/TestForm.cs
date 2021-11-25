@@ -217,7 +217,9 @@ namespace RomSorter5
                     SharpCompress.Archives.IArchive existingZip = null;
                     //using (ZipArchive zf = new ZipArchive(System.IO.File.Create(tempfilename), ZipArchiveMode.Update))
                     var fs = File.OpenRead(file);
-                    var zf = SharpCompress.Writers.WriterFactory.Open(System.IO.File.Create(tempfilename), SharpCompress.Common.ArchiveType.Zip, new SharpCompress.Writers.WriterOptions(SharpCompress.Common.CompressionType.LZMA) { LeaveStreamOpen = false });
+                    //TODO: check options to toggle between DEFLATE and LZMA since Windows won't open LZMA zip files.
+                    var options = new SharpCompress.Writers.WriterOptions(SharpCompress.Common.CompressionType.LZMA) { LeaveStreamOpen = false }; 
+                    var zf = SharpCompress.Writers.WriterFactory.Open(System.IO.File.Create(tempfilename), SharpCompress.Common.ArchiveType.Zip, options);
                     switch (System.IO.Path.GetExtension(file))
                     {
                         case ".zip":
@@ -244,22 +246,11 @@ namespace RomSorter5
 
         private void RezipFromArchive(SharpCompress.Archives.IArchive existingZip, SharpCompress.Writers.IWriter zf)
         {
-            //string tempPath = Path.GetDirectoryName(Path.GetTempPath()) + "\\romsortrezip\\";
-            //Directory.CreateDirectory(tempPath);
             foreach (var ez in existingZip.Entries)
             {
                 if (!ez.IsDirectory)
                     zf.Write(ez.Key, ez.OpenEntryStream());
-                    //ez.WriteToDirectory(tempPath, new SharpCompress.Common.ExtractionOptions() { ExtractFullPath = true, Overwrite = true });
             }
-            //zf.WriteAll(tempPath, "*", SearchOption.AllDirectories);
-            //Directory.Delete(tempPath, true);
-        }
-
-        //This is the 7z way, since it doesn't do random access nicely.
-        private void RezipFromStream()
-        {
-            
         }
     }
 }

@@ -11,13 +11,13 @@
         /// Clean up any resources being used.
         /// </summary>
         /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
-        protected override void Dispose(bool disposing)
+        protected void Dispose(bool disposing)
         {
             if (disposing && (components != null))
             {
                 components.Dispose();
             }
-            base.Dispose(disposing);
+            //base.Dispose(disposing);
         }
 
         #region Windows Form Designer generated code
@@ -40,6 +40,8 @@
             this.lblStatus = new System.Windows.Forms.Label();
             this.btnUnzipAll = new System.Windows.Forms.Button();
             this.btnZipAllFiles = new System.Windows.Forms.Button();
+            this.btnIdentifyAndZip = new System.Windows.Forms.Button();
+            this.chkLzma = new System.Windows.Forms.CheckBox();
             this.SuspendLayout();
             // 
             // btnDetectDupes
@@ -142,7 +144,7 @@
             this.btnUnzipAll.Name = "btnUnzipAll";
             this.btnUnzipAll.Size = new System.Drawing.Size(111, 66);
             this.btnUnzipAll.TabIndex = 21;
-            this.btnUnzipAll.Text = "Unzip All Files";
+            this.btnUnzipAll.Text = "Unzip All Files (not yet tested)";
             this.btnUnzipAll.UseVisualStyleBackColor = true;
             this.btnUnzipAll.Click += new System.EventHandler(this.btnUnzipAll_Click);
             // 
@@ -152,15 +154,37 @@
             this.btnZipAllFiles.Name = "btnZipAllFiles";
             this.btnZipAllFiles.Size = new System.Drawing.Size(111, 66);
             this.btnZipAllFiles.TabIndex = 22;
-            this.btnZipAllFiles.Text = "Zip All Files";
+            this.btnZipAllFiles.Text = "Zip (or convert) All Files";
             this.btnZipAllFiles.UseVisualStyleBackColor = true;
             this.btnZipAllFiles.Click += new System.EventHandler(this.btnZipAllFiles_Click);
+            // 
+            // btnIdentifyAndZip
+            // 
+            this.btnIdentifyAndZip.Location = new System.Drawing.Point(12, 164);
+            this.btnIdentifyAndZip.Name = "btnIdentifyAndZip";
+            this.btnIdentifyAndZip.Size = new System.Drawing.Size(111, 72);
+            this.btnIdentifyAndZip.TabIndex = 23;
+            this.btnIdentifyAndZip.Text = "Identify and Zip All Entries (Potentially broken)";
+            this.btnIdentifyAndZip.UseVisualStyleBackColor = true;
+            this.btnIdentifyAndZip.Click += new System.EventHandler(this.btnIdentifyAndZip_Click);
+            // 
+            // chkLzma
+            // 
+            this.chkLzma.AutoSize = true;
+            this.chkLzma.Location = new System.Drawing.Point(7, 67);
+            this.chkLzma.Name = "chkLzma";
+            this.chkLzma.Size = new System.Drawing.Size(183, 19);
+            this.chkLzma.TabIndex = 24;
+            this.chkLzma.Text = "Use LZMA instead of DEFLATE";
+            this.chkLzma.UseVisualStyleBackColor = true;
             // 
             // Form2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(432, 474);
+            this.Controls.Add(this.chkLzma);
+            this.Controls.Add(this.btnIdentifyAndZip);
             this.Controls.Add(this.btnZipAllFiles);
             this.Controls.Add(this.btnUnzipAll);
             this.Controls.Add(this.progressBar1);
@@ -193,5 +217,7 @@
         private System.Windows.Forms.Label lblStatus;
         private System.Windows.Forms.Button btnUnzipAll;
         private System.Windows.Forms.Button btnZipAllFiles;
+        private System.Windows.Forms.Button btnIdentifyAndZip;
+        private System.Windows.Forms.CheckBox chkLzma;
     }
 }
