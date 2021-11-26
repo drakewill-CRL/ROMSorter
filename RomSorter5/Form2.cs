@@ -122,7 +122,7 @@ namespace RomSorter5WinForms
         private void btnIdentifyAndZip_Click(object sender, EventArgs e)
         {
             var files = System.IO.Directory.EnumerateFiles(txtRomPath.Text);
-            progressBar1.Maximum = files.Count();
+            progressBar1.Maximum = files.Count() + 1;
             progressBar1.Value = 0;
 
             Progress<string> p = new Progress<string>(s => { lblStatus.Text = s; if (progressBar1.Value < progressBar1.Maximum) progressBar1.Value++; });
@@ -136,6 +136,7 @@ namespace RomSorter5WinForms
             Directory.CreateDirectory(txtRomPath.Text + "\\Unknown");
             foreach (var file in files)
             {
+                progress.Report(Path.GetFileName(file));
                 //Identify it first.
                 var destFileName = txtRomPath.Text + "\\" + sorter.IdentifyOneFile(file) + ".zip";
 
@@ -169,7 +170,6 @@ namespace RomSorter5WinForms
                 zf.Dispose();
                 File.Delete(file);
                 File.Move(tempfilename, destFileName);
-                progress.Report(Path.GetFileName(file));
             }
             progress.Report("Complete");
         }
@@ -179,8 +179,10 @@ namespace RomSorter5WinForms
             //NOTE: this doesn't seem to identify games correctly. 2 of my test set get correctly picked up in a NoIntro file.
             var files = System.IO.Directory.EnumerateFiles(txtRomPath.Text);
             bool useLzma = chkLzma.Checked;
+            int count = 1;
             foreach (var file in files)
             {
+                progress.Report(count + "/" + files.Count() + ":" + Path.GetFileName(file));
                 string tempfilename = Path.GetTempFileName();
                 SharpCompress.Archives.IArchive existingZip = null;
                 var fs = File.OpenRead(file);
@@ -210,7 +212,7 @@ namespace RomSorter5WinForms
                 zf.Dispose();
                 File.Delete(file);
                 File.Move(tempfilename, Path.GetDirectoryName(file) + "\\" + Path.GetFileNameWithoutExtension(file) + ".zip");
-                progress.Report(Path.GetFileName(file));
+                count++;
             }
             progress.Report("Complete");
         }

@@ -91,13 +91,23 @@ namespace RomDatabase5
             return results;
         }
 
-        public string[] HashZipEntry(ZipArchiveEntry entry)
+        public string[] HashZipEntry(SharpCompress.Archives.IArchiveEntry entry)
         {
             try
             {
-                var br = new BinaryReader(entry.Open());
-                byte[] data = new byte[(int)entry.Length];
-                br.Read(data, 0, (int)entry.Length);
+                //NOTE: NES roms need to skip the header to identify correctly. thats 16 bytes.
+                var br = new BinaryReader(entry.OpenEntryStream());
+                byte[] data;
+                if (entry.Key.EndsWith(".nes") && (entry.Size / 8 % 8 != 0)) //divide size by 8, then check if the value is evenly dividable by 8. If not, there's probably a header.
+                {
+                    data = new byte[(int)entry.Size - 16];
+                    br.Read(data, 16, (int)entry.Size);
+                }
+                else
+                {
+                    data = new byte[(int)entry.Size];
+                    br.Read(data, 0, (int)entry.Size);
+                }
                 var hashes = HashFileRef(ref data);
                 data = null;
                 br.Close();
@@ -128,10 +138,11 @@ namespace RomDatabase5
             try
             {
                 List<LookupEntry> zippedFiles = new List<LookupEntry>();
-                ZipArchive zf = new ZipArchive(new FileStream(file, FileMode.Open));
+                var fs = new FileStream(file, FileMode.Open);
+                var zf = SharpCompress.Archives.ArchiveFactory.Open(fs);
                 foreach (var entry in zf.Entries)
                 {
-                    if (entry.Length > 0)
+                    if (entry.Size > 0)
                     {
                         var ziphashes = HashZipEntry(entry);
                         if (ziphashes != null) //is null if the zip file entry couldn't be read.
@@ -139,15 +150,16 @@ namespace RomDatabase5
                             LookupEntry le = new LookupEntry();
                             le.fileType = LookupEntryType.ZipEntry;
                             le.originalFileName = file;
-                            le.entryPath = entry.FullName;
+                            le.entryPath = entry.Key;
                             le.crc = ziphashes[2];
                             le.sha1 = ziphashes[1];
                             le.md5 = ziphashes[0];
-                            le.size = entry.Length;
+                            le.size = entry.Size;
                             zippedFiles.Add(le);
                         }
                     }
                 }
+                fs.Close(); fs.Dispose();
                 zf.Dispose();
                 return zippedFiles.Count > 0 ? zippedFiles : null;
             }
