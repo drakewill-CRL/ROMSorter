@@ -103,7 +103,7 @@ namespace RomDatabase5
                 switch (Path.GetExtension(file))
                 {
                     case ".zip":
-                        var zipResults = hasher.HashFromZip(file);
+                        var zipResults = hasher.HashFromZip(file, false);
                         if (zipResults != null)
                             foreach (var zr in zipResults)
                                 filesToFind.Add(zr);
@@ -517,7 +517,7 @@ namespace RomDatabase5
                 switch (Path.GetExtension(file))
                 {
                     case ".zip":
-                        le = hasher.HashFromZip(file);
+                        le = hasher.HashFromZip(file, false);
                         break;
                     case ".rar":
                         le = hasher.HashFromRar(file);
@@ -633,6 +633,7 @@ namespace RomDatabase5
             sw.Stop();
         }
 
+        //Returns an empty string if file isn't identified correctly.
         public string IdentifyOneFile(string file)
         {
             //Get 1 file in, scan against current DB file, return filename to use for destination.
@@ -644,8 +645,10 @@ namespace RomDatabase5
             //hash file
             switch (Path.GetExtension(file))
             {
+                //TODO: has from Archive so all of these work from 1 function.
+                //TODO: make sure these correctly accomodate various header sizes.
                 case ".zip":
-                    le = hasher.HashFromZip(file);
+                    le = hasher.HashFromZip(file, false);
                     break;
                 case ".rar":
                     le = hasher.HashFromRar(file);
@@ -675,7 +678,7 @@ namespace RomDatabase5
                 {
                     var gameEntry = db.FindGame(possibleGame.size, possibleGame.crc, possibleGame.md5, possibleGame.sha1);
                     if (gameEntry == null || gameEntry.Count == 0) //no match
-                        return "Unknown\\" + baseFilename;
+                        return "";
                     else if (gameEntry != null && gameEntry.Count == 1) //exactly 1 file matched.
                     {
                         return gameEntry[0].Description;
@@ -684,20 +687,19 @@ namespace RomDatabase5
                     {
                         var discEntries = db.FindDisc(possibleGame.size, possibleGame.crc, possibleGame.md5, possibleGame.sha1);
                         if (discEntries == null || discEntries.Count > 0)
-                            return "Unknown\\" + baseFilename;
+                            return "";
 
                         else if (discEntries.Count == 1)
                         {
                             return discEntries[0].Name;
                         }
                         else //this could be multiple discs based on data apparently.
-                            return "Unknown\\" + baseFilename;
-
+                            return "";
                     }
                 }
             }
 
-            return "Unknown\\" + baseFilename; ;
+            return "";
         }
     }
 }

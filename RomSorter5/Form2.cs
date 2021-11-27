@@ -58,19 +58,42 @@ namespace RomSorter5WinForms
 
         private void button1_Click(object sender, EventArgs e)
         {
+            var files = System.IO.Directory.EnumerateFiles(txtRomPath.Text);
+            progressBar1.Maximum = files.Count();
+            progressBar1.Value = 0;
+            
+            Progress<string> p = new Progress<string>(s => { lblStatus.Text = s; if (progressBar1.Value < progressBar1.Maximum) progressBar1.Value++; });
+            Task.Factory.StartNew(() => DetectDupes(p));
+        }
+
+        private void DetectDupes(IProgress<string> p)
+        {
             //Detect duplicates.
             Dictionary<string, string> crcHashes = new Dictionary<string, string>();
             Dictionary<string, string> md5Hashes = new Dictionary<string, string>();
             Dictionary<string, string> sha1Hashes = new Dictionary<string, string>();
 
             Hasher h = new Hasher();
+            Directory.CreateDirectory(txtRomPath.Text + "\\Duplicates");
             foreach (var file in System.IO.Directory.EnumerateFiles(txtRomPath.Text))
             {
-                var results = h.HashFile(System.IO.File.Open(file, System.IO.FileMode.Open));
-                if (!crcHashes.TryAdd(results[0], file) && !md5Hashes.TryAdd(results[1], file) && !sha1Hashes.TryAdd(results[2], file))
+                var filename = Path.GetFileNameWithoutExtension(file);
+                //TODO: check zipped data separately? Or assume stuff was run to make files consistent.
+                p.Report(Path.GetFileName(file));
+                var fs = System.IO.File.Open(file, System.IO.FileMode.Open);
+                var results = h.HashFile(fs);
+                fs.Close(); fs.Dispose();
+                if (crcHashes.ContainsKey(results[0]) && md5Hashes.ContainsKey(results[1]) && sha1Hashes.ContainsKey(results[2]))
                 {
-                    // this is a dupe, we hit on all 3 hashes. Do some processing here.
+                    // this is a dupe, we hit on all 3 hashes.
+                    var origName = crcHashes[results[0]];
+                    var dirName = txtRomPath.Text + "\\Duplicates\\" + origName.Replace("(", "").Replace(")", "").Trim();
+                    Directory.CreateDirectory(dirName);
+                    File.Move(file, dirName + "\\" + Path.GetFileName(file));
                 }
+                crcHashes.TryAdd(results[0], filename);
+                md5Hashes.TryAdd(results[1], filename);
+                sha1Hashes.TryAdd(results[2], filename);                
             }
         }
 
@@ -130,48 +153,63 @@ namespace RomSorter5WinForms
         }
         private void IdentifyZipLogic(IProgress<string> progress)
         {
-            //NOTE: this doesn't seem to identify games correctly. 2 of my test set get correctly picked up in a NoIntro file.
             var files = System.IO.Directory.EnumerateFiles(txtRomPath.Text);
             bool useLzma = chkLzma.Checked;
-            Directory.CreateDirectory(txtRomPath.Text + "\\Unknown");
+            bool moveUnidentified = chkMoveUnidentified.Checked;
+            if (moveUnidentified)
+                Directory.CreateDirectory(txtRomPath.Text + "\\Unknown");
+
+            string errors = "";
             foreach (var file in files)
             {
-                progress.Report(Path.GetFileName(file));
-                //Identify it first.
-                var destFileName = txtRomPath.Text + "\\" + sorter.IdentifyOneFile(file) + ".zip";
-
-                string tempfilename = Path.GetTempFileName();
-                SharpCompress.Archives.IArchive existingZip = null;
-                //using (ZipArchive zf = new ZipArchive(System.IO.File.Create(tempfilename), ZipArchiveMode.Update))
-                var fs = File.OpenRead(file);
-
-                var options = new SharpCompress.Writers.WriterOptions(SharpCompress.Common.CompressionType.Deflate) { LeaveStreamOpen = false };
-                if (useLzma)
-                    options.CompressionType = SharpCompress.Common.CompressionType.LZMA;
-
-                var zf = SharpCompress.Writers.WriterFactory.Open(System.IO.File.Create(tempfilename), SharpCompress.Common.ArchiveType.Zip, options);
-                switch (System.IO.Path.GetExtension(file))
+                try
                 {
-                    case ".zip":
-                    case ".rar":
-                    case ".gz":
-                    case ".gzip":
-                    case ".tar":
-                    case ".7z": //7z is super slow, but it also doesn't actually support the stream method that would let it go faster.
-                        existingZip = SharpCompress.Archives.ArchiveFactory.Open(fs);
-                        RezipFromArchive(existingZip, zf);
-                        break;
-                    default:
-                        zf.Write(Path.GetFileName(file), new FileInfo(file));
-                        break;
+                    progress.Report(Path.GetFileName(file));
+                    //Identify it first.
+                    var identifiedFile = sorter.IdentifyOneFile(file);
+                    var destFileName = txtRomPath.Text + "\\" + (identifiedFile != "" ? identifiedFile : (moveUnidentified ? "\\Unknown\\" : "") + Path.GetFileNameWithoutExtension(file)) + ".zip";
+
+                    string tempfilename = Path.GetTempFileName();
+                    SharpCompress.Archives.IArchive existingZip = null;
+                    //using (ZipArchive zf = new ZipArchive(System.IO.File.Create(tempfilename), ZipArchiveMode.Update))
+                    var fs = File.OpenRead(file);
+
+                    var options = new SharpCompress.Writers.WriterOptions(SharpCompress.Common.CompressionType.Deflate) { LeaveStreamOpen = false };
+                    if (useLzma)
+                        options.CompressionType = SharpCompress.Common.CompressionType.LZMA;
+
+                    var zf = SharpCompress.Writers.WriterFactory.Open(System.IO.File.Create(tempfilename), SharpCompress.Common.ArchiveType.Zip, options);
+                    switch (System.IO.Path.GetExtension(file))
+                    {
+                        case ".zip":
+                        case ".rar":
+                        case ".gz":
+                        case ".gzip":
+                        case ".tar":
+                        case ".7z": //7z is super slow, but it also doesn't actually support the stream method that would let it go faster.
+                            existingZip = SharpCompress.Archives.ArchiveFactory.Open(fs);
+                            RezipFromArchive(existingZip, zf);
+                            break;
+                        default:
+                            zf.Write(Path.GetFileName(file), new FileInfo(file));
+                            break;
+                    }
+                    if (existingZip != null) existingZip.Dispose();
+                    fs.Close(); fs.Dispose();
+                    zf.Dispose();
+                    File.Move(tempfilename, destFileName);
+                    File.Delete(file);                    
                 }
-                if (existingZip != null) existingZip.Dispose();
-                fs.Close(); fs.Dispose();
-                zf.Dispose();
-                File.Delete(file);
-                File.Move(tempfilename, destFileName);
+                catch (Exception ex)
+                {
+                    //add 
+                    errors += file + ": " + ex.Message + Environment.NewLine;
+                }
             }
+
             progress.Report("Complete");
+            if (errors != "")
+                MessageBox.Show(errors);
         }
 
         private void ZipLogic(IProgress<string> progress)
@@ -226,7 +264,7 @@ namespace RomSorter5WinForms
                 var fs = File.OpenRead(file);
                 var existingZip = SharpCompress.Archives.ArchiveFactory.Open(fs);
                 if (existingZip != null)
-                    foreach(var e in existingZip.Entries)
+                    foreach (var e in existingZip.Entries)
                         e.WriteToDirectory(txtRomPath.Text);
             }
         }

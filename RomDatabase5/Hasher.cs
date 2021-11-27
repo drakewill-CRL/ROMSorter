@@ -6,6 +6,7 @@ using System.IO.Compression;
 using System.IO;
 using System.Collections.Generic;
 using System.Threading.Tasks;
+using System.Linq;
 
 namespace RomDatabase5
 {
@@ -91,23 +92,26 @@ namespace RomDatabase5
             return results;
         }
 
-        public string[] HashZipEntry(SharpCompress.Archives.IArchiveEntry entry)
+        public string[] HashZipEntry(SharpCompress.Archives.IArchiveEntry entry, bool detectOffsets)
         {
+            //NOTE: different dat files do or don't use the headers. TOSEC includes headers in its hashes, NO-INTRO doesn't.
             try
             {
                 //NOTE: NES roms need to skip the header to identify correctly. thats 16 bytes.
                 var br = new BinaryReader(entry.OpenEntryStream());
-                byte[] data;
-                if (entry.Key.EndsWith(".nes") && (entry.Size / 8 % 8 != 0)) //divide size by 8, then check if the value is evenly dividable by 8. If not, there's probably a header.
+                byte[] alldata;
+                int offset = 0;
+                if (detectOffsets)
                 {
-                    data = new byte[(int)entry.Size - 16];
-                    br.Read(data, 16, (int)entry.Size);
+                    if (entry.Key.EndsWith(".nes") && (entry.Size % 8192 != 0)) //NES data pages are 8kb or 16kb, header adds 16 bytes
+                        offset = 16;
                 }
-                else
-                {
-                    data = new byte[(int)entry.Size];
-                    br.Read(data, 0, (int)entry.Size);
-                }
+
+                alldata = new byte[(int)entry.Size];
+                br.Read(alldata, 0, (int)entry.Size);
+
+                var data = alldata.Skip(offset).ToArray();
+                
                 var hashes = HashFileRef(ref data);
                 data = null;
                 br.Close();
@@ -133,7 +137,21 @@ namespace RomDatabase5
             return hashes;
         }
 
-        public List<LookupEntry> HashFromZip(string file)
+        public List<LookupEntry> HashFromArchive(string file)
+        {
+            try
+            {
+                var fs = File.OpenRead(file);
+                SharpCompress.Archives.IArchive existingZip = SharpCompress.Archives.ArchiveFactory.Open(fs);
+                return null;
+            }
+            catch(Exception ex)
+            {
+                return null;
+            }
+        }
+
+        public List<LookupEntry> HashFromZip(string file, bool useOffsets)
         {
             try
             {
@@ -144,7 +162,7 @@ namespace RomDatabase5
                 {
                     if (entry.Size > 0)
                     {
-                        var ziphashes = HashZipEntry(entry);
+                        var ziphashes = HashZipEntry(entry, useOffsets);
                         if (ziphashes != null) //is null if the zip file entry couldn't be read.
                         {
                             LookupEntry le = new LookupEntry();

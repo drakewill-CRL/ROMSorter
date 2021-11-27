@@ -42,15 +42,16 @@
             this.btnZipAllFiles = new System.Windows.Forms.Button();
             this.btnIdentifyAndZip = new System.Windows.Forms.Button();
             this.chkLzma = new System.Windows.Forms.CheckBox();
+            this.chkMoveUnidentified = new System.Windows.Forms.CheckBox();
             this.SuspendLayout();
             // 
             // btnDetectDupes
             // 
-            this.btnDetectDupes.Location = new System.Drawing.Point(12, 92);
+            this.btnDetectDupes.Location = new System.Drawing.Point(12, 164);
             this.btnDetectDupes.Name = "btnDetectDupes";
             this.btnDetectDupes.Size = new System.Drawing.Size(111, 66);
             this.btnDetectDupes.TabIndex = 0;
-            this.btnDetectDupes.Text = "Detect Duplicate Files (incomplete)";
+            this.btnDetectDupes.Text = "Detect Duplicate Files";
             this.btnDetectDupes.UseVisualStyleBackColor = true;
             this.btnDetectDupes.Click += new System.EventHandler(this.button1_Click);
             // 
@@ -150,7 +151,7 @@
             // 
             // btnZipAllFiles
             // 
-            this.btnZipAllFiles.Location = new System.Drawing.Point(246, 92);
+            this.btnZipAllFiles.Location = new System.Drawing.Point(12, 92);
             this.btnZipAllFiles.Name = "btnZipAllFiles";
             this.btnZipAllFiles.Size = new System.Drawing.Size(111, 66);
             this.btnZipAllFiles.TabIndex = 22;
@@ -160,11 +161,11 @@
             // 
             // btnIdentifyAndZip
             // 
-            this.btnIdentifyAndZip.Location = new System.Drawing.Point(12, 164);
+            this.btnIdentifyAndZip.Location = new System.Drawing.Point(246, 92);
             this.btnIdentifyAndZip.Name = "btnIdentifyAndZip";
-            this.btnIdentifyAndZip.Size = new System.Drawing.Size(111, 72);
+            this.btnIdentifyAndZip.Size = new System.Drawing.Size(111, 66);
             this.btnIdentifyAndZip.TabIndex = 23;
-            this.btnIdentifyAndZip.Text = "Identify and Zip All Entries (Potentially broken)";
+            this.btnIdentifyAndZip.Text = "Rename and Zip All Entries";
             this.btnIdentifyAndZip.UseVisualStyleBackColor = true;
             this.btnIdentifyAndZip.Click += new System.EventHandler(this.btnIdentifyAndZip_Click);
             // 
@@ -178,11 +179,22 @@
             this.chkLzma.Text = "Use LZMA instead of DEFLATE";
             this.chkLzma.UseVisualStyleBackColor = true;
             // 
+            // chkMoveUnidentified
+            // 
+            this.chkMoveUnidentified.AutoSize = true;
+            this.chkMoveUnidentified.Location = new System.Drawing.Point(203, 67);
+            this.chkMoveUnidentified.Name = "chkMoveUnidentified";
+            this.chkMoveUnidentified.Size = new System.Drawing.Size(219, 19);
+            this.chkMoveUnidentified.TabIndex = 25;
+            this.chkMoveUnidentified.Text = "Move unidentified files to sub-folder";
+            this.chkMoveUnidentified.UseVisualStyleBackColor = true;
+            // 
             // Form2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(432, 474);
+            this.Controls.Add(this.chkMoveUnidentified);
             this.Controls.Add(this.chkLzma);
             this.Controls.Add(this.btnIdentifyAndZip);
             this.Controls.Add(this.btnZipAllFiles);
@@ -219,5 +231,6 @@
         private System.Windows.Forms.Button btnZipAllFiles;
         private System.Windows.Forms.Button btnIdentifyAndZip;
         private System.Windows.Forms.CheckBox chkLzma;
+        private System.Windows.Forms.CheckBox chkMoveUnidentified;
     }
 }
