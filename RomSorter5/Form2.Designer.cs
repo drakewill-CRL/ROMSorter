@@ -43,6 +43,7 @@
             this.btnIdentifyAndZip = new System.Windows.Forms.Button();
             this.chkLzma = new System.Windows.Forms.CheckBox();
             this.chkMoveUnidentified = new System.Windows.Forms.CheckBox();
+            this.checkBox1 = new System.Windows.Forms.CheckBox();
             this.SuspendLayout();
             // 
             // btnDetectDupes
@@ -189,11 +190,22 @@
             this.chkMoveUnidentified.Text = "Move unidentified files to sub-folder";
             this.chkMoveUnidentified.UseVisualStyleBackColor = true;
             // 
+            // checkBox1
+            // 
+            this.checkBox1.AutoSize = true;
+            this.checkBox1.Location = new System.Drawing.Point(167, 189);
+            this.checkBox1.Name = "checkBox1";
+            this.checkBox1.Size = new System.Drawing.Size(206, 19);
+            this.checkBox1.TabIndex = 26;
+            this.checkBox1.Text = "TODO skip headers where possible";
+            this.checkBox1.UseVisualStyleBackColor = true;
+            // 
             // Form2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(432, 474);
+            this.Controls.Add(this.checkBox1);
             this.Controls.Add(this.chkMoveUnidentified);
             this.Controls.Add(this.chkLzma);
             this.Controls.Add(this.btnIdentifyAndZip);
@@ -232,5 +244,6 @@
         private System.Windows.Forms.Button btnIdentifyAndZip;
         private System.Windows.Forms.CheckBox chkLzma;
         private System.Windows.Forms.CheckBox chkMoveUnidentified;
+        private System.Windows.Forms.CheckBox checkBox1;
     }
 }
