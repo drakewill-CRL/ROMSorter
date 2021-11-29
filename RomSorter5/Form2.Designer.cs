@@ -173,7 +173,7 @@
             // chkLzma
             // 
             this.chkLzma.AutoSize = true;
-            this.chkLzma.Location = new System.Drawing.Point(7, 67);
+            this.chkLzma.Location = new System.Drawing.Point(216, 347);
             this.chkLzma.Name = "chkLzma";
             this.chkLzma.Size = new System.Drawing.Size(183, 19);
             this.chkLzma.TabIndex = 24;
@@ -183,7 +183,7 @@
             // chkMoveUnidentified
             // 
             this.chkMoveUnidentified.AutoSize = true;
-            this.chkMoveUnidentified.Location = new System.Drawing.Point(203, 67);
+            this.chkMoveUnidentified.Location = new System.Drawing.Point(12, 67);
             this.chkMoveUnidentified.Name = "chkMoveUnidentified";
             this.chkMoveUnidentified.Size = new System.Drawing.Size(219, 19);
             this.chkMoveUnidentified.TabIndex = 25;
@@ -193,7 +193,7 @@
             // checkBox1
             // 
             this.checkBox1.AutoSize = true;
-            this.checkBox1.Location = new System.Drawing.Point(167, 189);
+            this.checkBox1.Location = new System.Drawing.Point(216, 372);
             this.checkBox1.Name = "checkBox1";
             this.checkBox1.Size = new System.Drawing.Size(206, 19);
             this.checkBox1.TabIndex = 26;

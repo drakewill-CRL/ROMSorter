@@ -153,7 +153,7 @@ namespace RomSorter5WinForms
         }
         private void IdentifyZipLogic(IProgress<string> progress)
         {
-            var files = System.IO.Directory.EnumerateFiles(txtRomPath.Text);
+            var files = System.IO.Directory.EnumerateFiles(txtRomPath.Text).ToList();
             bool useLzma = chkLzma.Checked;
             bool moveUnidentified = chkMoveUnidentified.Checked;
             if (moveUnidentified)
@@ -215,7 +215,7 @@ namespace RomSorter5WinForms
         private void ZipLogic(IProgress<string> progress)
         {
             //NOTE: this doesn't seem to identify games correctly. 2 of my test set get correctly picked up in a NoIntro file.
-            var files = System.IO.Directory.EnumerateFiles(txtRomPath.Text);
+            var files = System.IO.Directory.EnumerateFiles(txtRomPath.Text).ToList();
             bool useLzma = chkLzma.Checked;
             int count = 1;
             foreach (var file in files)
@@ -248,8 +248,9 @@ namespace RomSorter5WinForms
                 if (existingZip != null) existingZip.Dispose();
                 fs.Close(); fs.Dispose();
                 zf.Dispose();
-                File.Delete(file);
-                File.Move(tempfilename, Path.GetDirectoryName(file) + "\\" + Path.GetFileNameWithoutExtension(file) + ".zip");
+                File.Move(tempfilename, Path.GetDirectoryName(file) + "\\" + Path.GetFileNameWithoutExtension(file) + ".zip", true);
+                if (!file.EndsWith(".zip")) //we just overwrote this file, don't remove it.
+                    File.Delete(file);
                 count++;
             }
             progress.Report("Complete");
