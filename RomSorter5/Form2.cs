@@ -278,5 +278,15 @@ namespace RomSorter5WinForms
                     zf.Write(ez.Key, ez.OpenEntryStream());
             }
         }
+
+        private void btnCatalog_Click(object sender, EventArgs e)
+        {
+            //Hash all files in directory, write results to a CSV file 
+        }
+
+        private void btnVerify_Click(object sender, EventArgs e)
+        {
+            //Hash all files in directory, confirm if they do or don't match values in catalog CSV file.
+        }
     }
 }

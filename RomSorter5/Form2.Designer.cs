@@ -44,6 +44,8 @@
             this.chkLzma = new System.Windows.Forms.CheckBox();
             this.chkMoveUnidentified = new System.Windows.Forms.CheckBox();
             this.checkBox1 = new System.Windows.Forms.CheckBox();
+            this.btnCatalog = new System.Windows.Forms.Button();
+            this.btnVerify = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnDetectDupes
@@ -200,11 +202,33 @@
             this.checkBox1.Text = "TODO skip headers where possible";
             this.checkBox1.UseVisualStyleBackColor = true;
             // 
+            // btnCatalog
+            // 
+            this.btnCatalog.Location = new System.Drawing.Point(129, 164);
+            this.btnCatalog.Name = "btnCatalog";
+            this.btnCatalog.Size = new System.Drawing.Size(111, 66);
+            this.btnCatalog.TabIndex = 27;
+            this.btnCatalog.Text = "Catalog Files";
+            this.btnCatalog.UseVisualStyleBackColor = true;
+            this.btnCatalog.Click += new System.EventHandler(this.btnCatalog_Click);
+            // 
+            // btnVerify
+            // 
+            this.btnVerify.Location = new System.Drawing.Point(246, 164);
+            this.btnVerify.Name = "btnVerify";
+            this.btnVerify.Size = new System.Drawing.Size(111, 66);
+            this.btnVerify.TabIndex = 28;
+            this.btnVerify.Text = "Verify Catalog";
+            this.btnVerify.UseVisualStyleBackColor = true;
+            this.btnVerify.Click += new System.EventHandler(this.btnVerify_Click);
+            // 
             // Form2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(432, 474);
+            this.Controls.Add(this.btnVerify);
+            this.Controls.Add(this.btnCatalog);
             this.Controls.Add(this.checkBox1);
             this.Controls.Add(this.chkMoveUnidentified);
             this.Controls.Add(this.chkLzma);
@@ -245,5 +269,7 @@
         private System.Windows.Forms.CheckBox chkLzma;
         private System.Windows.Forms.CheckBox chkMoveUnidentified;
         private System.Windows.Forms.CheckBox checkBox1;
+        private System.Windows.Forms.Button btnCatalog;
+        private System.Windows.Forms.Button btnVerify;
     }
 }
