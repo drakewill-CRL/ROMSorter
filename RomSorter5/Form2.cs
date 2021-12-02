@@ -100,7 +100,7 @@ namespace RomSorter5WinForms
         private void btnUnzipAll_Click(object sender, EventArgs e)
         {
             //TODO: set this up to use proper Progress reporting and more condensed logic.
-            var files = System.IO.Directory.EnumerateFiles(txtRomPath.Text);
+            var files = System.IO.Directory.EnumerateFiles(txtRomPath.Text).ToList();
             progressBar1.Maximum = files.Count();
 
             foreach (var file in files)
@@ -109,25 +109,29 @@ namespace RomSorter5WinForms
                 string extention = System.IO.Path.GetExtension(file);
                 switch (extention)
                 {
-                    case "zip":
+                    case ".zip":
                         zippedFile = SharpCompress.Archives.Zip.ZipArchive.Open(file);
                         break;
-                    case "rar":
+                    case ".rar":
                         zippedFile = SharpCompress.Archives.Rar.RarArchive.Open(file);
                         break;
-                    case "7z":
+                    case ".7z":
                         zippedFile = SharpCompress.Archives.SevenZip.SevenZipArchive.Open(file);
                         break;
-                    case "gz":
-                    case "tar":
+                    case ".gz":
+                    case ".tar":
                         zippedFile = SharpCompress.Archives.Tar.TarArchive.Open(file);
                         break;
                 }
 
-                foreach (var entry in zippedFile.Entries)
-                    entry.WriteToFile(txtRomPath.Text + entry.Key);
+                if (zippedFile != null)
+                {
+                    foreach (var entry in zippedFile.Entries)
+                        entry.WriteToFile(txtRomPath.Text + "\\" + entry.Key);
+                    zippedFile.Dispose();
 
-                System.IO.File.Delete(file);
+                    System.IO.File.Delete(file);
+                }
                 progressBar1.Value++;
             }
         }
