@@ -99,41 +99,12 @@ namespace RomSorter5WinForms
 
         private void btnUnzipAll_Click(object sender, EventArgs e)
         {
-            //TODO: set this up to use proper Progress reporting and more condensed logic.
-            var files = System.IO.Directory.EnumerateFiles(txtRomPath.Text).ToList();
+            var files = System.IO.Directory.EnumerateFiles(txtRomPath.Text);
             progressBar1.Maximum = files.Count();
+            progressBar1.Value = 0;
 
-            foreach (var file in files)
-            {
-                IArchive zippedFile = null;
-                string extention = System.IO.Path.GetExtension(file);
-                switch (extention)
-                {
-                    case ".zip":
-                        zippedFile = SharpCompress.Archives.Zip.ZipArchive.Open(file);
-                        break;
-                    case ".rar":
-                        zippedFile = SharpCompress.Archives.Rar.RarArchive.Open(file);
-                        break;
-                    case ".7z":
-                        zippedFile = SharpCompress.Archives.SevenZip.SevenZipArchive.Open(file);
-                        break;
-                    case ".gz":
-                    case ".tar":
-                        zippedFile = SharpCompress.Archives.Tar.TarArchive.Open(file);
-                        break;
-                }
-
-                if (zippedFile != null)
-                {
-                    foreach (var entry in zippedFile.Entries)
-                        entry.WriteToFile(txtRomPath.Text + "\\" + entry.Key);
-                    zippedFile.Dispose();
-
-                    System.IO.File.Delete(file);
-                }
-                progressBar1.Value++;
-            }
+            Progress<string> p = new Progress<string>(s => { lblStatus.Text = s; if (progressBar1.Value < progressBar1.Maximum) progressBar1.Value++; });
+            Task.Factory.StartNew(() => UnzipLogic(p));
         }
 
         private void btnZipAllFiles_Click(object sender, EventArgs e)
@@ -262,16 +233,34 @@ namespace RomSorter5WinForms
 
         private void UnzipLogic(IProgress<string> progress)
         {
-            var files = System.IO.Directory.EnumerateFiles(txtRomPath.Text);
-            bool useLzma = chkLzma.Checked;
+            var files = System.IO.Directory.EnumerateFiles(txtRomPath.Text).ToList();
             foreach (var file in files)
             {
-                var fs = File.OpenRead(file);
-                var existingZip = SharpCompress.Archives.ArchiveFactory.Open(fs);
-                if (existingZip != null)
-                    foreach (var e in existingZip.Entries)
-                        e.WriteToDirectory(txtRomPath.Text);
+                switch (Path.GetExtension(file))
+                {
+                    case ".zip":
+                    case ".rar":
+                    case ".gz":
+                    case ".gzip":
+                    case ".tar":
+                    case ".7z":
+                        var fs = File.OpenRead(file);
+                        var existingZip = SharpCompress.Archives.ArchiveFactory.Open(fs);
+                        if (existingZip != null)
+                        {
+                            foreach (var e in existingZip.Entries)
+                                e.WriteToDirectory(txtRomPath.Text);
+
+                            existingZip.Dispose();
+                            fs.Close(); fs.Dispose();
+                            System.IO.File.Delete(file);
+                        }
+                        break;
+                }
+
+                progress.Report(file);
             }
+            progress.Report("Complete");
         }
 
         private void RezipFromArchive(SharpCompress.Archives.IArchive existingZip, SharpCompress.Writers.IWriter zf)
@@ -285,12 +274,77 @@ namespace RomSorter5WinForms
 
         private void btnCatalog_Click(object sender, EventArgs e)
         {
+            var files = System.IO.Directory.EnumerateFiles(txtRomPath.Text);
+            progressBar1.Maximum = files.Count();
+            progressBar1.Value = 0;
+
+            Progress<string> p = new Progress<string>(s => { lblStatus.Text = s; if (progressBar1.Value < progressBar1.Maximum) progressBar1.Value++; });
+            Task.Factory.StartNew(() => Catalog(p));
+        }
+
+        private void Catalog(IProgress<string> progress)
+        {
             //Hash all files in directory, write results to a CSV file 
+            FileStream fs = File.OpenWrite(txtRomPath.Text + "\\catalog.tsv");
+            StreamWriter sw = new StreamWriter(fs);
+            Hasher hasher = new Hasher();
+            var files = System.IO.Directory.EnumerateFiles(txtRomPath.Text).Where(f => Path.GetFileName(f) != "catalog.tsv").ToList();
+            foreach (var file in files)
+            {
+                progress.Report(file);
+                byte[] fileData = File.ReadAllBytes(file);
+                var hashes = hasher.HashFileRef(ref fileData);
+
+                sw.WriteLine(Path.GetFileName(file)+ "\t" + hashes[0] + "\t" + hashes[1] + "\t" + hashes[2]);
+            }
+            sw.Close(); sw.Dispose(); fs.Close(); fs.Dispose();
+            progress.Report("Complete");
         }
 
         private void btnVerify_Click(object sender, EventArgs e)
         {
             //Hash all files in directory, confirm if they do or don't match values in catalog CSV file.
+            var files = System.IO.Directory.EnumerateFiles(txtRomPath.Text);
+            progressBar1.Maximum = files.Count();
+            progressBar1.Value = 0;
+
+            Progress<string> p = new Progress<string>(s => { lblStatus.Text = s; if (progressBar1.Value < progressBar1.Maximum) progressBar1.Value++; });
+            Task.Factory.StartNew(() => Verify(p));
+        }
+
+        private void Verify(IProgress<string> progress)
+        {
+            //Hash all files in directory, write results to a CSV file 
+            bool alert = false;
+            var files = File.ReadAllLines(txtRomPath.Text + "\\catalog.tsv");
+            Hasher hasher = new Hasher();
+            foreach (var file in files)
+            {
+                string[] vals = file.Split("\t");
+                progress.Report(vals[0]);
+                try
+                {
+                    byte[] fileData = File.ReadAllBytes(txtRomPath.Text + "\\" + vals[0]);
+                    var hashes = hasher.HashFileRef(ref fileData);
+                    if (vals[1] == hashes[0] && vals[2] == hashes[1] && vals[3] == hashes[2])
+                        continue;
+                    else
+                    {
+                        alert = true;
+                        File.AppendAllText(txtRomPath.Text + "\\report.txt", vals[0] + " did not match:" + vals[1] + "|" + hashes[0] + " " + vals[2] + "|" + hashes[1] + " " + vals[3] + "|" + hashes[2]);
+                    }
+                }
+                catch(Exception ex)
+                {
+                    alert = true;
+                    File.AppendAllText(txtRomPath.Text + "\\report.txt", "Error checking on " + vals[0] + ":" + ex.Message);
+                }
+
+            }
+            if (!alert)
+                progress.Report("Complete, all files verified");
+            else
+                progress.Report("Complete, error found, read report.txt for info");
         }
     }
 }

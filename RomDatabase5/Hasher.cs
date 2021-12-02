@@ -65,6 +65,7 @@ namespace RomDatabase5
 
         //Testing looks like multithread hashing is faster on files over 4kb in size.
         //I had expected that threshold to be higher, but that's what my testing showed.
+        //RECHECK if this gives consistent values or if this causes conflicts while reading the byte array on mulitple threads?
         public string[] HashFile(byte[] fileData)
         {
             //hashes files all 3 ways.  Faster on bigger files with threading, might be slower on small files.
@@ -81,7 +82,6 @@ namespace RomDatabase5
 
         public string[] HashFileRef(ref byte[] fileData)
         {
-            //hashes files all 3 ways.  This one is probably faster on smaller files by not dealing with threading overhead, but I dont know where the limit is.    
             string[] results = new string[3];
             var m = HashToString(md5.ComputeHash(fileData)); 
             var s = HashToString(sha1.ComputeHash(fileData)); 

@@ -148,7 +148,7 @@
             this.btnUnzipAll.Name = "btnUnzipAll";
             this.btnUnzipAll.Size = new System.Drawing.Size(111, 66);
             this.btnUnzipAll.TabIndex = 21;
-            this.btnUnzipAll.Text = "Unzip All Files (TODO cleanup)";
+            this.btnUnzipAll.Text = "Unzip All Files";
             this.btnUnzipAll.UseVisualStyleBackColor = true;
             this.btnUnzipAll.Click += new System.EventHandler(this.btnUnzipAll_Click);
             // 
