@@ -42,7 +42,7 @@
             this.btnZipAllFiles = new System.Windows.Forms.Button();
             this.btnIdentifyAndZip = new System.Windows.Forms.Button();
             this.chkMoveUnidentified = new System.Windows.Forms.CheckBox();
-            this.checkBox1 = new System.Windows.Forms.CheckBox();
+            this.chkUseIDOffsets = new System.Windows.Forms.CheckBox();
             this.btnCatalog = new System.Windows.Forms.Button();
             this.btnVerify = new System.Windows.Forms.Button();
             this.SuspendLayout();
@@ -181,15 +181,15 @@
             this.chkMoveUnidentified.Text = "Move unidentified files to sub-folder";
             this.chkMoveUnidentified.UseVisualStyleBackColor = true;
             // 
-            // checkBox1
+            // chkUseIDOffsets
             // 
-            this.checkBox1.AutoSize = true;
-            this.checkBox1.Location = new System.Drawing.Point(216, 372);
-            this.checkBox1.Name = "checkBox1";
-            this.checkBox1.Size = new System.Drawing.Size(156, 19);
-            this.checkBox1.TabIndex = 26;
-            this.checkBox1.Text = "TODO Use No-Intro DATs";
-            this.checkBox1.UseVisualStyleBackColor = true;
+            this.chkUseIDOffsets.AutoSize = true;
+            this.chkUseIDOffsets.Location = new System.Drawing.Point(216, 372);
+            this.chkUseIDOffsets.Name = "chkUseIDOffsets";
+            this.chkUseIDOffsets.Size = new System.Drawing.Size(156, 19);
+            this.chkUseIDOffsets.TabIndex = 26;
+            this.chkUseIDOffsets.Text = "TODO Use No-Intro DATs";
+            this.chkUseIDOffsets.UseVisualStyleBackColor = true;
             // 
             // btnCatalog
             // 
@@ -218,7 +218,7 @@
             this.ClientSize = new System.Drawing.Size(432, 474);
             this.Controls.Add(this.btnVerify);
             this.Controls.Add(this.btnCatalog);
-            this.Controls.Add(this.checkBox1);
+            this.Controls.Add(this.chkUseIDOffsets);
             this.Controls.Add(this.chkMoveUnidentified);
             this.Controls.Add(this.btnIdentifyAndZip);
             this.Controls.Add(this.btnZipAllFiles);
@@ -255,7 +255,7 @@
         private System.Windows.Forms.Button btnZipAllFiles;
         private System.Windows.Forms.Button btnIdentifyAndZip;
         private System.Windows.Forms.CheckBox chkMoveUnidentified;
-        private System.Windows.Forms.CheckBox checkBox1;
+        private System.Windows.Forms.CheckBox chkUseIDOffsets;
         private System.Windows.Forms.Button btnCatalog;
         private System.Windows.Forms.Button btnVerify;
     }

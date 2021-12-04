@@ -101,7 +101,7 @@ namespace RomDatabase5
                 var br = new BinaryReader(entry.OpenEntryStream());
                 byte[] alldata;
                 int offset = 0;
-                if (detectOffsets)
+                if (detectOffsets) //Might only be an NES NoIntro issue?
                 {
                     if (entry.Key.EndsWith(".nes") && (entry.Size % 8192 != 0)) //NES data pages are 8kb or 16kb, header adds 16 bytes
                         offset = 16;

@@ -134,6 +134,7 @@ namespace RomSorter5WinForms
             if (moveUnidentified)
                 Directory.CreateDirectory(txtRomPath.Text + "\\Unknown");
 
+            bool useOffsets = chkUseIDOffsets.Checked;
             string errors = "";
             foreach (var file in files)
             {
@@ -141,7 +142,7 @@ namespace RomSorter5WinForms
                 {
                     progress.Report(Path.GetFileName(file));
                     //Identify it first.
-                    var identifiedFile = sorter.IdentifyOneFile(file);
+                    var identifiedFile = sorter.IdentifyOneFile(file, useOffsets);
                     var destFileName = txtRomPath.Text + "\\" + (identifiedFile != "" ? identifiedFile : (moveUnidentified ? "\\Unknown\\" : "") + Path.GetFileNameWithoutExtension(file)) + ".zip";
 
                     string tempfilename = Path.GetTempFileName();

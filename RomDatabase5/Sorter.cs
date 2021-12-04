@@ -634,7 +634,7 @@ namespace RomDatabase5
         }
 
         //Returns an empty string if file isn't identified correctly.
-        public string IdentifyOneFile(string file)
+        public string IdentifyOneFile(string file, bool useIDOffsets = false)
         {
             //Get 1 file in, scan against current DB file, return filename to use for destination.
             string baseFilename = Path.GetFileNameWithoutExtension(file);
