@@ -204,7 +204,10 @@ namespace RomSorter5WinForms
                 if (useLzma)
                     options.CompressionType = SharpCompress.Common.CompressionType.LZMA;
 
-                var zf = SharpCompress.Writers.WriterFactory.Open(System.IO.File.Create(tempfilename), SharpCompress.Common.ArchiveType.Zip, options);
+                //Borks up on big files
+                //var zf = SharpCompress.Writers.WriterFactory.Open(System.IO.File.Create(tempfilename), SharpCompress.Common.ArchiveType.Zip, options);
+                var zfs = System.IO.File.Create(tempfilename);
+                var zf = new System.IO.Compression.ZipArchive(zfs, ZipArchiveMode.Create);
                 switch (System.IO.Path.GetExtension(file))
                 {
                     case ".zip":
@@ -212,17 +215,19 @@ namespace RomSorter5WinForms
                     case ".gz":
                     case ".gzip":
                     case ".tar":
-                    case ".7z": //7z is super slow, but it also doesn't actually support the stream method that would let it go faster.
+                    case ".7z": 
                         existingZip = SharpCompress.Archives.ArchiveFactory.Open(fs);
                         RezipFromArchive(existingZip, zf);
                         break;
                     default:
-                        zf.Write(Path.GetFileName(file), new FileInfo(file));
+                        zf.CreateEntryFromFile(file, Path.GetFileName(file)); //Should handle files over 4GB using System.IO.Compression
+                            //zf.Write(Path.GetFileName(file), new FileInfo(file));
                         break;
                 }
                 if (existingZip != null) existingZip.Dispose();
                 fs.Close(); fs.Dispose();
                 zf.Dispose();
+                zfs.Close(); zfs.Dispose();
                 File.Move(tempfilename, Path.GetDirectoryName(file) + "\\" + Path.GetFileNameWithoutExtension(file) + ".zip", true);
                 if (!file.EndsWith(".zip")) //we just overwrote this file, don't remove it.
                     File.Delete(file);
@@ -263,12 +268,28 @@ namespace RomSorter5WinForms
             progress.Report("Complete");
         }
 
+        //Used only SharpCompress types
         private void RezipFromArchive(SharpCompress.Archives.IArchive existingZip, SharpCompress.Writers.IWriter zf)
         {
             foreach (var ez in existingZip.Entries)
             {
                 if (!ez.IsDirectory)
                     zf.Write(ez.Key, ez.OpenEntryStream());
+            }
+        }
+
+        //Should handles files >4GB
+        private void RezipFromArchive(SharpCompress.Archives.IArchive existingZip, System.IO.Compression.ZipArchive zf)
+        {
+            foreach (var ez in existingZip.Entries)
+            {
+                if (!ez.IsDirectory)
+                {
+                    var tempFile = Path.GetTempFileName();
+                    ez.WriteToFile(tempFile);
+                    zf.CreateEntryFromFile(tempFile, ez.Key);
+                    File.Delete(tempFile);
+                }
             }
         }
 
