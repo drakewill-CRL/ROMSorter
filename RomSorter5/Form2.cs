@@ -128,8 +128,8 @@ namespace RomSorter5WinForms
         }
         private void IdentifyZipLogic(IProgress<string> progress)
         {
+            //TODO: update this to match ZipLogic
             var files = System.IO.Directory.EnumerateFiles(txtRomPath.Text).ToList();
-            bool useLzma = chkLzma.Checked;
             bool moveUnidentified = chkMoveUnidentified.Checked;
             if (moveUnidentified)
                 Directory.CreateDirectory(txtRomPath.Text + "\\Unknown");
@@ -146,14 +146,9 @@ namespace RomSorter5WinForms
 
                     string tempfilename = Path.GetTempFileName();
                     SharpCompress.Archives.IArchive existingZip = null;
-                    //using (ZipArchive zf = new ZipArchive(System.IO.File.Create(tempfilename), ZipArchiveMode.Update))
                     var fs = File.OpenRead(file);
-
-                    var options = new SharpCompress.Writers.WriterOptions(SharpCompress.Common.CompressionType.Deflate) { LeaveStreamOpen = false };
-                    if (useLzma)
-                        options.CompressionType = SharpCompress.Common.CompressionType.LZMA;
-
-                    var zf = SharpCompress.Writers.WriterFactory.Open(System.IO.File.Create(tempfilename), SharpCompress.Common.ArchiveType.Zip, options);
+                    var zfs = System.IO.File.Create(tempfilename);
+                    var zf = new System.IO.Compression.ZipArchive(zfs, ZipArchiveMode.Create);
                     switch (System.IO.Path.GetExtension(file))
                     {
                         case ".zip":
@@ -166,7 +161,7 @@ namespace RomSorter5WinForms
                             RezipFromArchive(existingZip, zf);
                             break;
                         default:
-                            zf.Write(Path.GetFileName(file), new FileInfo(file));
+                            zf.CreateEntryFromFile(file, Path.GetFileName(file));
                             break;
                     }
                     if (existingZip != null) existingZip.Dispose();
@@ -189,9 +184,8 @@ namespace RomSorter5WinForms
 
         private void ZipLogic(IProgress<string> progress)
         {
-            //NOTE: this doesn't seem to identify games correctly. 2 of my test set get correctly picked up in a NoIntro file.
+            //NOTE: this doesn't seem to identify games correctly. 2 of my test set get correctly picked up in a NoIntro file. - NoIntro skips headers, TOSEC includes them.
             var files = System.IO.Directory.EnumerateFiles(txtRomPath.Text).ToList();
-            bool useLzma = chkLzma.Checked;
             int count = 1;
             foreach (var file in files)
             {
@@ -199,10 +193,6 @@ namespace RomSorter5WinForms
                 string tempfilename = Path.GetTempFileName();
                 SharpCompress.Archives.IArchive existingZip = null;
                 var fs = File.OpenRead(file);
-
-                var options = new SharpCompress.Writers.WriterOptions(SharpCompress.Common.CompressionType.Deflate) { LeaveStreamOpen = false };
-                if (useLzma)
-                    options.CompressionType = SharpCompress.Common.CompressionType.LZMA;
 
                 //Borks up on big files
                 //var zf = SharpCompress.Writers.WriterFactory.Open(System.IO.File.Create(tempfilename), SharpCompress.Common.ArchiveType.Zip, options);
@@ -220,8 +210,7 @@ namespace RomSorter5WinForms
                         RezipFromArchive(existingZip, zf);
                         break;
                     default:
-                        zf.CreateEntryFromFile(file, Path.GetFileName(file)); //Should handle files over 4GB using System.IO.Compression
-                            //zf.Write(Path.GetFileName(file), new FileInfo(file));
+                        zf.CreateEntryFromFile(file, Path.GetFileName(file));
                         break;
                 }
                 if (existingZip != null) existingZip.Dispose();
@@ -269,16 +258,15 @@ namespace RomSorter5WinForms
         }
 
         //Used only SharpCompress types
-        private void RezipFromArchive(SharpCompress.Archives.IArchive existingZip, SharpCompress.Writers.IWriter zf)
-        {
-            foreach (var ez in existingZip.Entries)
-            {
-                if (!ez.IsDirectory)
-                    zf.Write(ez.Key, ez.OpenEntryStream());
-            }
-        }
+        //private void RezipFromArchive(SharpCompress.Archives.IArchive existingZip, SharpCompress.Writers.IWriter zf)
+        //{
+        //    foreach (var ez in existingZip.Entries)
+        //    {
+        //        if (!ez.IsDirectory)
+        //            zf.Write(ez.Key, ez.OpenEntryStream());
+        //    }
+        //}
 
-        //Should handles files >4GB
         private void RezipFromArchive(SharpCompress.Archives.IArchive existingZip, System.IO.Compression.ZipArchive zf)
         {
             foreach (var ez in existingZip.Entries)
@@ -305,7 +293,7 @@ namespace RomSorter5WinForms
 
         private void Catalog(IProgress<string> progress)
         {
-            //Hash all files in directory, write results to a CSV file 
+            //Hash all files in directory, write results to a tab-separated values file 
             FileStream fs = File.OpenWrite(txtRomPath.Text + "\\catalog.tsv");
             StreamWriter sw = new StreamWriter(fs);
             Hasher hasher = new Hasher();
@@ -324,7 +312,7 @@ namespace RomSorter5WinForms
 
         private void btnVerify_Click(object sender, EventArgs e)
         {
-            //Hash all files in directory, confirm if they do or don't match values in catalog CSV file.
+            //Hash all files in directory, confirm if they do or don't match values in catalog TSV file.
             var files = System.IO.Directory.EnumerateFiles(txtRomPath.Text);
             progressBar1.Maximum = files.Count();
             progressBar1.Value = 0;
@@ -338,6 +326,7 @@ namespace RomSorter5WinForms
             //Hash all files in directory, write results to a CSV file 
             bool alert = false;
             var files = File.ReadAllLines(txtRomPath.Text + "\\catalog.tsv");
+            var filesInFolder = Directory.EnumerateFiles(txtRomPath.Text).Select(s => Path.GetFileName(s)).ToList();
             Hasher hasher = new Hasher();
             foreach (var file in files)
             {
@@ -354,18 +343,25 @@ namespace RomSorter5WinForms
                         alert = true;
                         File.AppendAllText(txtRomPath.Text + "\\report.txt", vals[0] + " did not match:" + vals[1] + "|" + hashes[0] + " " + vals[2] + "|" + hashes[1] + " " + vals[3] + "|" + hashes[2]);
                     }
+                    filesInFolder.Remove(file);
                 }
                 catch(Exception ex)
                 {
                     alert = true;
                     File.AppendAllText(txtRomPath.Text + "\\report.txt", "Error checking on " + vals[0] + ":" + ex.Message);
                 }
-
             }
-            if (!alert)
+
+            foreach(var fif in filesInFolder)
+            {
+                File.AppendAllText(txtRomPath.Text + "\\report.txt", "File " + fif + " not found in catalog");
+            }
+            if (!alert && filesInFolder.Count() == 0)
                 progress.Report("Complete, all files verified");
-            else
+            else if (alert)
                 progress.Report("Complete, error found, read report.txt for info");
+            else
+                progress.Report("Complete, uncataloged files found, read report.txt for info");
         }
     }
 }

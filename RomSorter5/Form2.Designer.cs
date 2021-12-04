@@ -41,7 +41,6 @@
             this.btnUnzipAll = new System.Windows.Forms.Button();
             this.btnZipAllFiles = new System.Windows.Forms.Button();
             this.btnIdentifyAndZip = new System.Windows.Forms.Button();
-            this.chkLzma = new System.Windows.Forms.CheckBox();
             this.chkMoveUnidentified = new System.Windows.Forms.CheckBox();
             this.checkBox1 = new System.Windows.Forms.CheckBox();
             this.btnCatalog = new System.Windows.Forms.Button();
@@ -172,16 +171,6 @@
             this.btnIdentifyAndZip.UseVisualStyleBackColor = true;
             this.btnIdentifyAndZip.Click += new System.EventHandler(this.btnIdentifyAndZip_Click);
             // 
-            // chkLzma
-            // 
-            this.chkLzma.AutoSize = true;
-            this.chkLzma.Location = new System.Drawing.Point(216, 347);
-            this.chkLzma.Name = "chkLzma";
-            this.chkLzma.Size = new System.Drawing.Size(183, 19);
-            this.chkLzma.TabIndex = 24;
-            this.chkLzma.Text = "Use LZMA instead of DEFLATE";
-            this.chkLzma.UseVisualStyleBackColor = true;
-            // 
             // chkMoveUnidentified
             // 
             this.chkMoveUnidentified.AutoSize = true;
@@ -197,9 +186,9 @@
             this.checkBox1.AutoSize = true;
             this.checkBox1.Location = new System.Drawing.Point(216, 372);
             this.checkBox1.Name = "checkBox1";
-            this.checkBox1.Size = new System.Drawing.Size(206, 19);
+            this.checkBox1.Size = new System.Drawing.Size(156, 19);
             this.checkBox1.TabIndex = 26;
-            this.checkBox1.Text = "TODO skip headers where possible";
+            this.checkBox1.Text = "TODO Use No-Intro DATs";
             this.checkBox1.UseVisualStyleBackColor = true;
             // 
             // btnCatalog
@@ -231,7 +220,6 @@
             this.Controls.Add(this.btnCatalog);
             this.Controls.Add(this.checkBox1);
             this.Controls.Add(this.chkMoveUnidentified);
-            this.Controls.Add(this.chkLzma);
             this.Controls.Add(this.btnIdentifyAndZip);
             this.Controls.Add(this.btnZipAllFiles);
             this.Controls.Add(this.btnUnzipAll);
@@ -266,7 +254,6 @@
         private System.Windows.Forms.Button btnUnzipAll;
         private System.Windows.Forms.Button btnZipAllFiles;
         private System.Windows.Forms.Button btnIdentifyAndZip;
-        private System.Windows.Forms.CheckBox chkLzma;
         private System.Windows.Forms.CheckBox chkMoveUnidentified;
         private System.Windows.Forms.CheckBox checkBox1;
         private System.Windows.Forms.Button btnCatalog;
