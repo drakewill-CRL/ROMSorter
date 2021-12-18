@@ -59,6 +59,8 @@
             // 
             // txtDatPath
             // 
+            this.txtDatPath.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.txtDatPath.Location = new System.Drawing.Point(195, 8);
             this.txtDatPath.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.txtDatPath.Name = "txtDatPath";
@@ -88,6 +90,8 @@
             // 
             // txtRomPath
             // 
+            this.txtRomPath.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.txtRomPath.Location = new System.Drawing.Point(195, 34);
             this.txtRomPath.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.txtRomPath.Name = "txtRomPath";
@@ -123,7 +127,7 @@
             // 
             // progressBar1
             // 
-            this.progressBar1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            this.progressBar1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.progressBar1.Location = new System.Drawing.Point(7, 404);
             this.progressBar1.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
@@ -133,6 +137,7 @@
             // 
             // lblStatus
             // 
+            this.lblStatus.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.lblStatus.AutoSize = true;
             this.lblStatus.Location = new System.Drawing.Point(11, 450);
             this.lblStatus.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
