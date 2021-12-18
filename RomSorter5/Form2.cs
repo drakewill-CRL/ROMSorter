@@ -61,7 +61,7 @@ namespace RomSorter5WinForms
             var files = System.IO.Directory.EnumerateFiles(txtRomPath.Text);
             progressBar1.Maximum = files.Count();
             progressBar1.Value = 0;
-            
+
             Progress<string> p = new Progress<string>(s => { lblStatus.Text = s; if (progressBar1.Value < progressBar1.Maximum) progressBar1.Value++; });
             Task.Factory.StartNew(() => DetectDupes(p));
         }
@@ -93,7 +93,7 @@ namespace RomSorter5WinForms
                 }
                 crcHashes.TryAdd(results[0], filename);
                 md5Hashes.TryAdd(results[1], filename);
-                sha1Hashes.TryAdd(results[2], filename);                
+                sha1Hashes.TryAdd(results[2], filename);
             }
         }
 
@@ -119,13 +119,53 @@ namespace RomSorter5WinForms
 
         private void btnIdentifyAndZip_Click(object sender, EventArgs e)
         {
+            if (txtDatPath.Text == "")
+            {
+                MessageBox.Show("You need to supply a dat file to identify games.");
+                return;
+            }
+
             var files = System.IO.Directory.EnumerateFiles(txtRomPath.Text);
             progressBar1.Maximum = files.Count() + 1;
             progressBar1.Value = 0;
 
             Progress<string> p = new Progress<string>(s => { lblStatus.Text = s; if (progressBar1.Value < progressBar1.Maximum) progressBar1.Value++; });
-            Task.Factory.StartNew(() => IdentifyZipLogic(p));
+            Task.Factory.StartNew(() => IdentifyLogic(p));
         }
+
+        private void IdentifyLogic(IProgress<string> progress)
+        {
+            var files = System.IO.Directory.EnumerateFiles(txtRomPath.Text).ToList();
+            bool moveUnidentified = chkMoveUnidentified.Checked;
+            if (moveUnidentified)
+                Directory.CreateDirectory(txtRomPath.Text + "\\Unknown");
+
+            bool useOffsets = chkUseIDOffsets.Checked;
+            string errors = "";
+            foreach (var file in files)
+            {
+                try
+                {
+                    progress.Report(Path.GetFileName(file));
+                    //Identify it first.
+                    var identifiedFile = sorter.IdentifyOneFile(file, useOffsets);
+                    var destFileName = txtRomPath.Text + "\\" + (identifiedFile != "" ? identifiedFile : (moveUnidentified ? "\\Unknown\\" : "") + Path.GetFileName(file));
+
+                    if (identifiedFile != destFileName)
+                        File.Move(file, destFileName);
+
+                }
+                catch (Exception ex)
+                {
+                    errors += file + ": " + ex.Message + Environment.NewLine;
+                }
+            }
+
+            progress.Report("Complete");
+            if (errors != "")
+                MessageBox.Show(errors);
+        }
+
         private void IdentifyZipLogic(IProgress<string> progress)
         {
             //TODO: update this to match ZipLogic
@@ -169,7 +209,7 @@ namespace RomSorter5WinForms
                     fs.Close(); fs.Dispose();
                     zf.Dispose();
                     File.Move(tempfilename, destFileName);
-                    File.Delete(file);                    
+                    File.Delete(file);
                 }
                 catch (Exception ex)
                 {
@@ -206,7 +246,7 @@ namespace RomSorter5WinForms
                     case ".gz":
                     case ".gzip":
                     case ".tar":
-                    case ".7z": 
+                    case ".7z":
                         existingZip = SharpCompress.Archives.ArchiveFactory.Open(fs);
                         RezipFromArchive(existingZip, zf);
                         break;
@@ -284,6 +324,7 @@ namespace RomSorter5WinForms
 
         private void btnCatalog_Click(object sender, EventArgs e)
         {
+            //TODO: should this just make a .dat file?
             var files = System.IO.Directory.EnumerateFiles(txtRomPath.Text);
             progressBar1.Maximum = files.Count();
             progressBar1.Value = 0;
@@ -305,7 +346,7 @@ namespace RomSorter5WinForms
                 byte[] fileData = File.ReadAllBytes(file);
                 var hashes = hasher.HashFileRef(ref fileData);
 
-                sw.WriteLine(Path.GetFileName(file)+ "\t" + hashes[0] + "\t" + hashes[1] + "\t" + hashes[2]);
+                sw.WriteLine(Path.GetFileName(file) + "\t" + hashes[0] + "\t" + hashes[1] + "\t" + hashes[2]);
             }
             sw.Close(); sw.Dispose(); fs.Close(); fs.Dispose();
             progress.Report("Complete");
@@ -324,36 +365,39 @@ namespace RomSorter5WinForms
 
         private void Verify(IProgress<string> progress)
         {
-            //Hash all files in directory, write results to a CSV file 
             bool alert = false;
             var files = File.ReadAllLines(txtRomPath.Text + "\\catalog.tsv");
-            var filesInFolder = Directory.EnumerateFiles(txtRomPath.Text).Select(s => Path.GetFileName(s)).ToList();
+            var foundfiles = new List<string>();
+            var filesInFolder = Directory.EnumerateFiles(txtRomPath.Text).Where(s => Path.GetFileName(s) != "catalog.tsv").Select(s => Path.GetFileName(s)).ToList();
             Hasher hasher = new Hasher();
             foreach (var file in files)
             {
                 string[] vals = file.Split("\t");
+                foundfiles.Add(vals[0]);
                 progress.Report(vals[0]);
                 try
                 {
                     byte[] fileData = File.ReadAllBytes(txtRomPath.Text + "\\" + vals[0]);
                     var hashes = hasher.HashFileRef(ref fileData);
                     if (vals[1] == hashes[0] && vals[2] == hashes[1] && vals[3] == hashes[2])
+                    {
                         continue;
+                    }
                     else
                     {
                         alert = true;
                         File.AppendAllText(txtRomPath.Text + "\\report.txt", vals[0] + " did not match:" + vals[1] + "|" + hashes[0] + " " + vals[2] + "|" + hashes[1] + " " + vals[3] + "|" + hashes[2]);
                     }
-                    filesInFolder.Remove(file);
                 }
-                catch(Exception ex)
+                catch (Exception ex)
                 {
                     alert = true;
                     File.AppendAllText(txtRomPath.Text + "\\report.txt", "Error checking on " + vals[0] + ":" + ex.Message);
                 }
             }
 
-            foreach(var fif in filesInFolder)
+            var missingfiles = filesInFolder.Except(foundfiles);
+            foreach (var fif in missingfiles)
             {
                 File.AppendAllText(txtRomPath.Text + "\\report.txt", "File " + fif + " not found in catalog");
             }

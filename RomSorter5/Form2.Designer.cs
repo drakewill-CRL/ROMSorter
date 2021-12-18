@@ -67,7 +67,7 @@
             // 
             // btnDatFolderSelect
             // 
-            this.btnDatFolderSelect.Location = new System.Drawing.Point(112, 5);
+            this.btnDatFolderSelect.Location = new System.Drawing.Point(136, 4);
             this.btnDatFolderSelect.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.btnDatFolderSelect.Name = "btnDatFolderSelect";
             this.btnDatFolderSelect.Size = new System.Drawing.Size(55, 24);
@@ -82,9 +82,9 @@
             this.label1.Location = new System.Drawing.Point(11, 9);
             this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(49, 15);
+            this.label1.Size = new System.Drawing.Size(106, 15);
             this.label1.TabIndex = 13;
-            this.label1.Text = "Dat File:";
+            this.label1.Text = "Dat File: (Optional)";
             // 
             // txtRomPath
             // 
@@ -96,7 +96,7 @@
             // 
             // btnRomFolderSelect
             // 
-            this.btnRomFolderSelect.Location = new System.Drawing.Point(112, 31);
+            this.btnRomFolderSelect.Location = new System.Drawing.Point(136, 30);
             this.btnRomFolderSelect.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.btnRomFolderSelect.Name = "btnRomFolderSelect";
             this.btnRomFolderSelect.Size = new System.Drawing.Size(55, 24);
@@ -167,7 +167,7 @@
             this.btnIdentifyAndZip.Name = "btnIdentifyAndZip";
             this.btnIdentifyAndZip.Size = new System.Drawing.Size(111, 66);
             this.btnIdentifyAndZip.TabIndex = 23;
-            this.btnIdentifyAndZip.Text = "Rename and Zip All Entries";
+            this.btnIdentifyAndZip.Text = "Rename Single-File Games";
             this.btnIdentifyAndZip.UseVisualStyleBackColor = true;
             this.btnIdentifyAndZip.Click += new System.EventHandler(this.btnIdentifyAndZip_Click);
             // 
@@ -190,6 +190,7 @@
             this.chkUseIDOffsets.TabIndex = 26;
             this.chkUseIDOffsets.Text = "TODO Use No-Intro DATs";
             this.chkUseIDOffsets.UseVisualStyleBackColor = true;
+            this.chkUseIDOffsets.Visible = false;
             // 
             // btnCatalog
             // 
@@ -233,7 +234,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btnDetectDupes);
             this.Name = "Form2";
-            this.Text = "Form2";
+            this.Text = "ROMSorter";
             this.ResumeLayout(false);
             this.PerformLayout();
 
