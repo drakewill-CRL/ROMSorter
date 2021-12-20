@@ -14,39 +14,32 @@ namespace RomDatabase5
         //XML file with .dat extension
         static Hasher hasher = new Hasher();
 
-        public static void MakeDat(string folder)
+        public static void MakeDat(string folder, IProgress<string> progress = null)
         {
-            //Header is partly for XmlDocument, partly in case I ever want to share or reuse it.
-            string header = @"<?xml version=""1.0"" encoding=""UTF-8""?>" + Environment.NewLine + "<datafile>";  //the only important part for personal use.
-            //"<!DOCTYPE datafile PUBLIC ""-//Logiqx//DTD ROM Management Datafile//EN"" ""http://www.logiqx.com/Dats/datafile.dtd"">";  +
-            // "<datafile>" +
-            // "<header>" + 
-            //< name > Acorn Archimedes - Games - [ADF] </ name >
-            //   < description > Acorn Archimedes - Games - [ADF](TOSEC - v2011 - 02 - 22) </ description >
-            //      < category > TOSEC </ category >
-            //      < version > 2011 - 02 - 22 </ version >
-            //      < author > C0llector - Cassiel </ author >
-            //      < email > contact@tosecdev.org </ email >
-            //         < homepage > TOSEC </ homepage >
-            //         < url > http://www.tosecdev.org/</url>
-            // </ header >
+            string header = @"<?xml version=""1.0"" encoding=""UTF-8""?>" + Environment.NewLine +
+            @"<!DOCTYPE datafile PUBLIC ""-/Logiqx/DTD ROM Management Datafile/EN"" ""http://www.logiqx.com/Dats/datafile.dtd"">" + Environment.NewLine
+            + "<datafile>" + Environment.NewLine
+            + "<header>" + Environment.NewLine
+            + "<name>" + Path.GetFileName(folder) + "</name>" + Environment.NewLine
+            + "<author>Created with ROMSorter</author>" + Environment.NewLine
+            + "<version>" + DateTime.Now.ToString("yyyy-MM-dd") + "</version>" + Environment.NewLine 
+            + "</header>" + Environment.NewLine;
             StringBuilder sb = new StringBuilder();
-            sb.AppendLine(header);
+            sb.Append(header);
+
             System.IO.DirectoryInfo dir = new System.IO.DirectoryInfo(folder);
-
-            sb.AppendLine(GetEntries(folder));
-
+            sb.Append(GetEntries(folder, progress));
             sb.Append("</datafile>");
-            var folders = folder.Split('\\');
-            var folderName = folders[folders.Length - 1];
-            System.IO.File.WriteAllText(folder + @"\" + folderName + ".dat", sb.ToString());
+            System.IO.File.WriteAllText(folder + @"\" + Path.GetFileName(folder) + ".dat", sb.ToString());
         }
 
-        static string GetEntries(string folder)
+        static string GetEntries(string folder, IProgress<string> progress = null)
         {
             StringBuilder sb = new StringBuilder();
-            System.Threading.Tasks.Parallel.ForEach(System.IO.Directory.EnumerateFiles(folder), (file) =>
+            //System.Threading.Tasks.Parallel.ForEach(System.IO.Directory.EnumerateFiles(folder), (file) => //parallel works fine but makes reporting harder.
+            foreach (var file in System.IO.Directory.EnumerateFiles(folder))
             {
+                progress.Report(Path.GetFileName(file));
                 if (Path.GetFileName(file).EndsWith(".zip"))
                 {
                     sb.Append(GetGameAndRomEntryMultifileFromZip(file));
@@ -55,45 +48,44 @@ namespace RomDatabase5
                 {
                     //do the actual work.
                     var fileinfo = new System.IO.FileInfo(file);
-                    if (fileinfo.Length < (Math.Pow(2, 31)))
-                        sb.AppendLine(GetGameAndRomEntrySingleFile(System.IO.Path.GetFileName(file).Replace("&", "&amp;"), System.IO.File.ReadAllBytes(file)));
-                    else
-                    {
-                        //Skipping until I can work this out.
-
-                        //We will only hash the first 2GB of a file bigger than that for now?
-                        //TODO: System.IO.File.ReadAllBytes() throws an error on files over 2GB. Read those manually
-                        //var fs = new System.IO.FileStream(file, System.IO.FileMode.Open);
-                        //byte[] contents = new byte[(int)Math.Pow(2, 30)]; //Still throws 'OutOfMemoryException' at 2^31
-                        //var offset = 0;
-                        //var filesize = Math.Pow(2, 31); // fileinfo.Length;
-                        //while (offset < filesize)
-                        //{
-                        //    offset += fs.Read(contents, offset, (int)filesize - offset);
-                        //}
-                        //sb.Append(GetGameAndRomEntrySingleFile(file.Replace("&", "&amp;"), contents)); //Tag as partial?
-                    }
+                    var mmf = System.IO.MemoryMappedFiles.MemoryMappedFile.CreateFromFile(file);
+                    sb.Append(GetGameAndRomEntrySingleFile(System.IO.Path.GetFileName(file).Replace("&", "&amp;"), mmf));
+                    mmf.Dispose();
                 }
-            });
+            } //);
 
             foreach (var dir in System.IO.Directory.EnumerateDirectories(folder))
             {
-                sb.AppendLine(GetEntries(dir));
+                sb.Append(GetEntries(dir));
             }
             return sb.ToString(); //make sure there's something here to return. If everything is empty this is blank and throws an error.
         }
 
-        static string GetGameAndRomEntrySingleFile(string filename, byte[] file)
+        static string GetGameAndRomEntrySingleFile(string filename, System.IO.MemoryMappedFiles.MemoryMappedFile file)
         {
-            var hashes = hasher.HashFileRef(ref file);
             StringBuilder results = new StringBuilder();
-            results.AppendLine("<game name=\"" + System.IO.Path.GetFileNameWithoutExtension(filename).Replace("&", "&amp;") + "\">");
-            results.AppendLine("<description>" + System.IO.Path.GetFileNameWithoutExtension(filename).Replace("&", "&amp;") + "</description>");
-            results.AppendLine("<rom name=\"" + filename.Replace("&", "&amp;") + "\" size=\"" + file.Count() + "\" crc=\"" + hashes[2] + "\" md5=\"" + hashes[0] + "\" sha1=\"" + hashes[1] + "\"/>");
-            results.AppendLine("</game>");
-
+            using (var viewStream = file.CreateViewStream())
+            {
+                var hashes = hasher.HashFile(viewStream);
+                results.AppendLine("<game name=\"" + System.IO.Path.GetFileNameWithoutExtension(filename).Replace("&", "&amp;") + "\">");
+                results.AppendLine("<description>" + System.IO.Path.GetFileNameWithoutExtension(filename).Replace("&", "&amp;") + "</description>");
+                results.AppendLine("<rom name=\"" + filename.Replace("&", "&amp;") + "\" size=\"" + viewStream.Length + "\" crc=\"" + hashes[2] + "\" md5=\"" + hashes[0] + "\" sha1=\"" + hashes[1] + "\"/>");
+                results.Append("</game>");
+            }
             return results.ToString();
         }
+
+        //static string GetGameAndRomEntrySingleFile(string filename, byte[] file)
+        //{
+        //    var hashes = hasher.HashFile(file);
+        //    StringBuilder results = new StringBuilder();
+        //    results.AppendLine("<game name=\"" + System.IO.Path.GetFileNameWithoutExtension(filename).Replace("&", "&amp;") + "\">");
+        //    results.AppendLine("<description>" + System.IO.Path.GetFileNameWithoutExtension(filename).Replace("&", "&amp;") + "</description>");
+        //    results.AppendLine("<rom name=\"" + filename.Replace("&", "&amp;") + "\" size=\"" + file.Count() + "\" crc=\"" + hashes[2] + "\" md5=\"" + hashes[0] + "\" sha1=\"" + hashes[1] + "\"/>");
+        //    results.Append("</game>");
+
+        //    return results.ToString();
+        //}
 
         public static void DumpDBToDat()
         {
@@ -109,7 +101,7 @@ namespace RomDatabase5
                 sb.AppendLine("<description>" + entry.description.Replace("&", "&amp;") + "</description>");
                 sb.AppendLine("<console>" + entry.console.Replace("&", "&amp;") + "</console>");
                 sb.AppendLine("<rom name=\"" + entry.name.Replace("&", "&amp;") + "\" size=\"" + entry.size + "\" crc=\"" + entry.crc + "\" md5=\"" + entry.md5 + "\" sha1=\"" + entry.sha1 + "\"/>");
-                sb.AppendLine("</game>");
+                sb.Append("</game>");
             }
 
             var discs = Database.GetAllDiscs();
@@ -123,7 +115,7 @@ namespace RomDatabase5
                 {
                     sb.AppendLine("<rom name=\"" + file.description.Replace("&", "&amp;") + "\" size=\"" + file.size + "\" crc=\"" + file.crc + "\" md5=\"" + file.md5 + "\" sha1=\"" + file.sha1 + "\"/>");
                 }
-                sb.AppendLine("</game>");
+                sb.Append("</game>");
             }
 
             System.IO.File.WriteAllText("RomSorterDB.dat", sb.ToString());
@@ -143,7 +135,7 @@ namespace RomDatabase5
                     var br = new BinaryReader(entry.Open());
                     byte[] data = new byte[(int)entry.Length];
                     br.Read(data, 0, (int)entry.Length); //Exception occurs if length is 0 or negative?
-                    var hashes = hasher.HashFileRef(ref data);
+                    var hashes = hasher.HashFile(data);
                     results.AppendLine("<rom name=\"" + entry.FullName.Replace("&", "&amp;") + "\" size=\"" + entry.Length + "\" crc=\"" + hashes[2] + "\" md5=\"" + hashes[0] + "\" sha1=\"" + hashes[1] + "\"/>");
                     br.Close();
                     br.Dispose();
@@ -151,27 +143,27 @@ namespace RomDatabase5
             }
             zip.Dispose();
 
-            results.AppendLine("</game>" + Environment.NewLine);
+            results.Append("</game>" + Environment.NewLine);
             return results.ToString();
         }
 
-        public static string GetGameAndRomEntryMultifileFromFolder(string folderName)
-        {
-            //For zip files
-            StringBuilder results = new StringBuilder();
-            results.AppendLine("<game name=\"" + System.IO.Path.GetDirectoryName(folderName).Replace("&", "&amp;") + "\">");
-            results.AppendLine("<description>" + System.IO.Path.GetDirectoryName(folderName).Replace("&", "&amp;") + "</description>");
-            var files = Directory.EnumerateFiles(folderName);
-            foreach (var file in files)
-            {
-                FileInfo fi = new FileInfo(file);
-                byte[] fileData = File.ReadAllBytes(file);
-                var hashes = hasher.HashFileRef(ref fileData);
-                results.AppendLine("<rom name=\"" + fi.Name.Replace("&", "&amp;") + "\" size=\"" + fi.Length + "\" crc=\"" + hashes[2] + "\" md5=\"" + hashes[0] + "\" sha1=\"" + hashes[1] + "\"/>");
-            }
+        //public static string GetGameAndRomEntryMultifileFromFolder(string folderName)
+        //{
+        //    //For zip files
+        //    StringBuilder results = new StringBuilder();
+        //    results.AppendLine("<game name=\"" + System.IO.Path.GetDirectoryName(folderName).Replace("&", "&amp;") + "\">");
+        //    results.AppendLine("<description>" + System.IO.Path.GetDirectoryName(folderName).Replace("&", "&amp;") + "</description>");
+        //    var files = Directory.EnumerateFiles(folderName);
+        //    foreach (var file in files)
+        //    {
+        //        FileInfo fi = new FileInfo(file);
+        //        byte[] fileData = File.ReadAllBytes(file);//will error on files over 2GB
+        //        var hashes = hasher.HashFile(fileData);
+        //        results.AppendLine("<rom name=\"" + fi.Name.Replace("&", "&amp;") + "\" size=\"" + fi.Length + "\" crc=\"" + hashes[2] + "\" md5=\"" + hashes[0] + "\" sha1=\"" + hashes[1] + "\"/>");
+        //    }
 
-            results.AppendLine("</game>" + Environment.NewLine);
-            return results.ToString();
-        }
+        //    results.Append("</game>" + Environment.NewLine);
+        //    return results.ToString();
+        //}
     }
 }

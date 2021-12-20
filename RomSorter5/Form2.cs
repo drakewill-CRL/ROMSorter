@@ -38,10 +38,9 @@ namespace RomSorter5WinForms
                 System.Configuration.SettingsProperty prop = new System.Configuration.SettingsProperty("datFile");
                 Properties.Settings.Default.datFile = txtDatPath.Text;
                 Properties.Settings.Default.Save();
-                Progress<string> p = new Progress<string>(s => lblStatus.Text = s);
+                //Progress<string> p = new Progress<string>(s => lblStatus.Text = s);
                 Task.Factory.StartNew(() => DATImporter.ParseDatFileFast(ofd1.FileName));
             }
-
         }
 
         private void btnRomFolderSelect_Click(object sender, EventArgs e)
@@ -49,7 +48,6 @@ namespace RomSorter5WinForms
             if (ofd1.ShowDialog() == DialogResult.OK)
             {
                 txtRomPath.Text = System.IO.Path.GetDirectoryName(ofd1.FileName);
-                //sorter.getFilesToScan(txtRomPath.Text);
                 Properties.Settings.Default.romPath = txtRomPath.Text;
                 Properties.Settings.Default.Save();
                 progressBar1.Maximum = sorter.FilesToScanCount;
@@ -72,7 +70,7 @@ namespace RomSorter5WinForms
             Dictionary<string, string> crcHashes = new Dictionary<string, string>();
             Dictionary<string, string> md5Hashes = new Dictionary<string, string>();
             Dictionary<string, string> sha1Hashes = new Dictionary<string, string>();
-
+            bool foundDupe = false;
             Hasher h = new Hasher();
             Directory.CreateDirectory(txtRomPath.Text + "\\Duplicates");
             foreach (var file in System.IO.Directory.EnumerateFiles(txtRomPath.Text))
@@ -80,12 +78,18 @@ namespace RomSorter5WinForms
                 var filename = Path.GetFileNameWithoutExtension(file);
                 //TODO: check zipped data separately? Or assume stuff was run to make files consistent.
                 p.Report(Path.GetFileName(file));
-                var fs = System.IO.File.Open(file, System.IO.FileMode.Open);
-                var results = h.HashFile(fs);
-                fs.Close(); fs.Dispose();
+                //var fs = System.IO.File.Open(file, System.IO.FileMode.Open);
+                string[] results;
+                using (var mmf = System.IO.MemoryMappedFiles.MemoryMappedFile.CreateFromFile(file))
+                using (var viewStream = mmf.CreateViewStream())
+                {
+                    results = h.HashFile(viewStream);
+                }
+
                 if (crcHashes.ContainsKey(results[0]) && md5Hashes.ContainsKey(results[1]) && sha1Hashes.ContainsKey(results[2]))
                 {
                     // this is a dupe, we hit on all 3 hashes.
+                    foundDupe = true;
                     var origName = crcHashes[results[0]];
                     var dirName = txtRomPath.Text + "\\Duplicates\\" + origName.Replace("(", "").Replace(")", "").Trim();
                     Directory.CreateDirectory(dirName);
@@ -95,6 +99,11 @@ namespace RomSorter5WinForms
                 md5Hashes.TryAdd(results[1], filename);
                 sha1Hashes.TryAdd(results[2], filename);
             }
+
+            if (foundDupe)
+                p.Report("Completed, duplicates found and moved.");
+            else
+                p.Report("Completed, no duplicates.");
         }
 
         private void btnUnzipAll_Click(object sender, EventArgs e)
@@ -338,15 +347,18 @@ namespace RomSorter5WinForms
             //Hash all files in directory, write results to a tab-separated values file 
             FileStream fs = File.OpenWrite(txtRomPath.Text + "\\catalog.tsv");
             StreamWriter sw = new StreamWriter(fs);
+            sw.WriteLine("name\tmd5\tsha1\tcrc\tsize");
             Hasher hasher = new Hasher();
             var files = System.IO.Directory.EnumerateFiles(txtRomPath.Text).Where(f => Path.GetFileName(f) != "catalog.tsv").ToList();
             foreach (var file in files)
             {
                 progress.Report(file);
-                byte[] fileData = File.ReadAllBytes(file);
-                var hashes = hasher.HashFileRef(ref fileData);
-
-                sw.WriteLine(Path.GetFileName(file) + "\t" + hashes[0] + "\t" + hashes[1] + "\t" + hashes[2]);
+                var mmf = System.IO.MemoryMappedFiles.MemoryMappedFile.CreateFromFile(file);
+                var viewStream = mmf.CreateViewStream();
+                var hashes = hasher.HashFile(viewStream);
+                sw.WriteLine(Path.GetFileName(file) + "\t" + hashes[0] + "\t" + hashes[1] + "\t" + hashes[2] + "\t" + viewStream.Length);
+                viewStream.Close(); viewStream.Dispose();
+                mmf.Dispose();
             }
             sw.Close(); sw.Dispose(); fs.Close(); fs.Dispose();
             progress.Report("Complete");
@@ -370,23 +382,26 @@ namespace RomSorter5WinForms
             var foundfiles = new List<string>();
             var filesInFolder = Directory.EnumerateFiles(txtRomPath.Text).Where(s => Path.GetFileName(s) != "catalog.tsv").Select(s => Path.GetFileName(s)).ToList();
             Hasher hasher = new Hasher();
-            foreach (var file in files)
+            foreach (var file in files.Skip(1))  //ignore header row.
             {
                 string[] vals = file.Split("\t");
                 foundfiles.Add(vals[0]);
                 progress.Report(vals[0]);
                 try
                 {
-                    byte[] fileData = File.ReadAllBytes(txtRomPath.Text + "\\" + vals[0]);
-                    var hashes = hasher.HashFileRef(ref fileData);
-                    if (vals[1] == hashes[0] && vals[2] == hashes[1] && vals[3] == hashes[2])
+                    using (var mmf = System.IO.MemoryMappedFiles.MemoryMappedFile.CreateFromFile(txtRomPath.Text + "\\" + vals[0]))
+                    using (var viewStream = mmf.CreateViewStream())
                     {
-                        continue;
-                    }
-                    else
-                    {
-                        alert = true;
-                        File.AppendAllText(txtRomPath.Text + "\\report.txt", vals[0] + " did not match:" + vals[1] + "|" + hashes[0] + " " + vals[2] + "|" + hashes[1] + " " + vals[3] + "|" + hashes[2]);
+                        var hashes = hasher.HashFile(viewStream);
+                        if (vals[1] == hashes[0] && vals[2] == hashes[1] && vals[3] == hashes[2] && viewStream.Length.ToString() == vals[4])
+                        {
+                            continue;
+                        }
+                        else
+                        {
+                            alert = true;
+                            File.AppendAllText(txtRomPath.Text + "\\report.txt", vals[0] + " did not match:" + vals[1] + "|" + hashes[0] + " " + vals[2] + "|" + hashes[1] + " " + vals[3] + "|" + hashes[2] + " " + vals[4] + "|" + viewStream.Length);
+                        }
                     }
                 }
                 catch (Exception ex)
@@ -401,12 +416,61 @@ namespace RomSorter5WinForms
             {
                 File.AppendAllText(txtRomPath.Text + "\\report.txt", "File " + fif + " not found in catalog");
             }
-            if (!alert && filesInFolder.Count() == 0)
+            if (!alert && missingfiles.Count() == 0)
                 progress.Report("Complete, all files verified");
             else if (alert)
                 progress.Report("Complete, error found, read report.txt for info");
             else
                 progress.Report("Complete, uncataloged files found, read report.txt for info");
+        }
+
+        private void btnRenameMultiFile_Click(object sender, EventArgs e)
+        {
+            if (txtDatPath.Text == "")
+            {
+                MessageBox.Show("You need to supply a dat file to identify games.");
+                return;
+            }
+
+            var files = System.IO.Directory.EnumerateFiles(txtRomPath.Text);
+            progressBar1.Maximum = files.Count() + 1;
+            progressBar1.Value = 0;
+
+            Progress<string> p = new Progress<string>(s => { lblStatus.Text = s; if (progressBar1.Value < progressBar1.Maximum) progressBar1.Value++; });
+            Task.Factory.StartNew(() => IdentifyMultiFileGames(p));
+        }
+
+        private void IdentifyMultiFileGames(IProgress<string> progress)
+        {
+
+        }
+
+        private void btnCreateChds_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnExtractChds_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnMakeDat_Click(object sender, EventArgs e)
+        {
+            var files = System.IO.Directory.EnumerateFiles(txtRomPath.Text);
+            progressBar1.Maximum = files.Count() + 1;
+            progressBar1.Value = 0;
+
+            Progress<string> p = new Progress<string>(s => { lblStatus.Text = s; if (progressBar1.Value < progressBar1.Maximum) progressBar1.Value++; });
+            Task.Factory.StartNew(() => DatLogic(p));
+
+            lblStatus.Text = "DAT file created.";
+        }
+
+        private void DatLogic(IProgress<string> progress)
+        {
+            DatCreator.MakeDat(txtRomPath.Text, progress);
+            progress.Report("Completed making DAT file");
         }
     }
 }

@@ -45,11 +45,15 @@
             this.chkUseIDOffsets = new System.Windows.Forms.CheckBox();
             this.btnCatalog = new System.Windows.Forms.Button();
             this.btnVerify = new System.Windows.Forms.Button();
+            this.btnRenameMultiFile = new System.Windows.Forms.Button();
+            this.btnCreateChds = new System.Windows.Forms.Button();
+            this.btnExtractChds = new System.Windows.Forms.Button();
+            this.btnMakeDat = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnDetectDupes
             // 
-            this.btnDetectDupes.Location = new System.Drawing.Point(12, 164);
+            this.btnDetectDupes.Location = new System.Drawing.Point(129, 92);
             this.btnDetectDupes.Name = "btnDetectDupes";
             this.btnDetectDupes.Size = new System.Drawing.Size(111, 66);
             this.btnDetectDupes.TabIndex = 0;
@@ -64,7 +68,7 @@
             this.txtDatPath.Location = new System.Drawing.Point(195, 8);
             this.txtDatPath.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.txtDatPath.Name = "txtDatPath";
-            this.txtDatPath.Size = new System.Drawing.Size(227, 23);
+            this.txtDatPath.Size = new System.Drawing.Size(341, 23);
             this.txtDatPath.TabIndex = 15;
             // 
             // btnDatFolderSelect
@@ -95,7 +99,7 @@
             this.txtRomPath.Location = new System.Drawing.Point(195, 34);
             this.txtRomPath.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.txtRomPath.Name = "txtRomPath";
-            this.txtRomPath.Size = new System.Drawing.Size(227, 23);
+            this.txtRomPath.Size = new System.Drawing.Size(341, 23);
             this.txtRomPath.TabIndex = 18;
             // 
             // btnRomFolderSelect
@@ -129,17 +133,17 @@
             // 
             this.progressBar1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.progressBar1.Location = new System.Drawing.Point(7, 404);
+            this.progressBar1.Location = new System.Drawing.Point(7, 465);
             this.progressBar1.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.progressBar1.Name = "progressBar1";
-            this.progressBar1.Size = new System.Drawing.Size(415, 31);
+            this.progressBar1.Size = new System.Drawing.Size(529, 31);
             this.progressBar1.TabIndex = 20;
             // 
             // lblStatus
             // 
             this.lblStatus.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.lblStatus.AutoSize = true;
-            this.lblStatus.Location = new System.Drawing.Point(11, 450);
+            this.lblStatus.Location = new System.Drawing.Point(11, 511);
             this.lblStatus.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblStatus.Name = "lblStatus";
             this.lblStatus.Size = new System.Drawing.Size(26, 15);
@@ -148,7 +152,7 @@
             // 
             // btnUnzipAll
             // 
-            this.btnUnzipAll.Location = new System.Drawing.Point(129, 92);
+            this.btnUnzipAll.Location = new System.Drawing.Point(246, 92);
             this.btnUnzipAll.Name = "btnUnzipAll";
             this.btnUnzipAll.Size = new System.Drawing.Size(111, 66);
             this.btnUnzipAll.TabIndex = 21;
@@ -162,13 +166,13 @@
             this.btnZipAllFiles.Name = "btnZipAllFiles";
             this.btnZipAllFiles.Size = new System.Drawing.Size(111, 66);
             this.btnZipAllFiles.TabIndex = 22;
-            this.btnZipAllFiles.Text = "Zip (or convert) All Files";
+            this.btnZipAllFiles.Text = "Zip (or Convert) All Files";
             this.btnZipAllFiles.UseVisualStyleBackColor = true;
             this.btnZipAllFiles.Click += new System.EventHandler(this.btnZipAllFiles_Click);
             // 
             // btnIdentifyAndZip
             // 
-            this.btnIdentifyAndZip.Location = new System.Drawing.Point(246, 92);
+            this.btnIdentifyAndZip.Location = new System.Drawing.Point(12, 236);
             this.btnIdentifyAndZip.Name = "btnIdentifyAndZip";
             this.btnIdentifyAndZip.Size = new System.Drawing.Size(111, 66);
             this.btnIdentifyAndZip.TabIndex = 23;
@@ -179,7 +183,7 @@
             // chkMoveUnidentified
             // 
             this.chkMoveUnidentified.AutoSize = true;
-            this.chkMoveUnidentified.Location = new System.Drawing.Point(12, 67);
+            this.chkMoveUnidentified.Location = new System.Drawing.Point(12, 61);
             this.chkMoveUnidentified.Name = "chkMoveUnidentified";
             this.chkMoveUnidentified.Size = new System.Drawing.Size(219, 19);
             this.chkMoveUnidentified.TabIndex = 25;
@@ -189,7 +193,7 @@
             // chkUseIDOffsets
             // 
             this.chkUseIDOffsets.AutoSize = true;
-            this.chkUseIDOffsets.Location = new System.Drawing.Point(216, 372);
+            this.chkUseIDOffsets.Location = new System.Drawing.Point(290, 261);
             this.chkUseIDOffsets.Name = "chkUseIDOffsets";
             this.chkUseIDOffsets.Size = new System.Drawing.Size(156, 19);
             this.chkUseIDOffsets.TabIndex = 26;
@@ -199,7 +203,7 @@
             // 
             // btnCatalog
             // 
-            this.btnCatalog.Location = new System.Drawing.Point(129, 164);
+            this.btnCatalog.Location = new System.Drawing.Point(12, 164);
             this.btnCatalog.Name = "btnCatalog";
             this.btnCatalog.Size = new System.Drawing.Size(111, 66);
             this.btnCatalog.TabIndex = 27;
@@ -209,7 +213,7 @@
             // 
             // btnVerify
             // 
-            this.btnVerify.Location = new System.Drawing.Point(246, 164);
+            this.btnVerify.Location = new System.Drawing.Point(129, 164);
             this.btnVerify.Name = "btnVerify";
             this.btnVerify.Size = new System.Drawing.Size(111, 66);
             this.btnVerify.TabIndex = 28;
@@ -217,11 +221,55 @@
             this.btnVerify.UseVisualStyleBackColor = true;
             this.btnVerify.Click += new System.EventHandler(this.btnVerify_Click);
             // 
+            // btnRenameMultiFile
+            // 
+            this.btnRenameMultiFile.Location = new System.Drawing.Point(129, 236);
+            this.btnRenameMultiFile.Name = "btnRenameMultiFile";
+            this.btnRenameMultiFile.Size = new System.Drawing.Size(111, 66);
+            this.btnRenameMultiFile.TabIndex = 29;
+            this.btnRenameMultiFile.Text = "Rename Multi-File Games (Incomplete)";
+            this.btnRenameMultiFile.UseVisualStyleBackColor = true;
+            this.btnRenameMultiFile.Click += new System.EventHandler(this.btnRenameMultiFile_Click);
+            // 
+            // btnCreateChds
+            // 
+            this.btnCreateChds.Location = new System.Drawing.Point(12, 308);
+            this.btnCreateChds.Name = "btnCreateChds";
+            this.btnCreateChds.Size = new System.Drawing.Size(111, 66);
+            this.btnCreateChds.TabIndex = 30;
+            this.btnCreateChds.Text = "Create CHD Files (Incomplete)";
+            this.btnCreateChds.UseVisualStyleBackColor = true;
+            this.btnCreateChds.Click += new System.EventHandler(this.btnCreateChds_Click);
+            // 
+            // btnExtractChds
+            // 
+            this.btnExtractChds.Location = new System.Drawing.Point(129, 308);
+            this.btnExtractChds.Name = "btnExtractChds";
+            this.btnExtractChds.Size = new System.Drawing.Size(111, 66);
+            this.btnExtractChds.TabIndex = 31;
+            this.btnExtractChds.Text = "Extract CHD Files (Incomplete)";
+            this.btnExtractChds.UseVisualStyleBackColor = true;
+            this.btnExtractChds.Click += new System.EventHandler(this.btnExtractChds_Click);
+            // 
+            // btnMakeDat
+            // 
+            this.btnMakeDat.Location = new System.Drawing.Point(246, 164);
+            this.btnMakeDat.Name = "btnMakeDat";
+            this.btnMakeDat.Size = new System.Drawing.Size(111, 66);
+            this.btnMakeDat.TabIndex = 32;
+            this.btnMakeDat.Text = "Make DAT File for Folder";
+            this.btnMakeDat.UseVisualStyleBackColor = true;
+            this.btnMakeDat.Click += new System.EventHandler(this.btnMakeDat_Click);
+            // 
             // Form2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(432, 474);
+            this.ClientSize = new System.Drawing.Size(546, 535);
+            this.Controls.Add(this.btnMakeDat);
+            this.Controls.Add(this.btnExtractChds);
+            this.Controls.Add(this.btnCreateChds);
+            this.Controls.Add(this.btnRenameMultiFile);
             this.Controls.Add(this.btnVerify);
             this.Controls.Add(this.btnCatalog);
             this.Controls.Add(this.chkUseIDOffsets);
@@ -264,5 +312,9 @@
         private System.Windows.Forms.CheckBox chkUseIDOffsets;
         private System.Windows.Forms.Button btnCatalog;
         private System.Windows.Forms.Button btnVerify;
+        private System.Windows.Forms.Button btnRenameMultiFile;
+        private System.Windows.Forms.Button btnCreateChds;
+        private System.Windows.Forms.Button btnExtractChds;
+        private System.Windows.Forms.Button btnMakeDat;
     }
 }

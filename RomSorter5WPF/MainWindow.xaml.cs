@@ -25,5 +25,9 @@ namespace RomSorter5WPF
             InitializeComponent();
         }
 
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

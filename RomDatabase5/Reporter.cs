@@ -28,8 +28,11 @@ namespace RomDatabase5
 
         static LookupEntry GetFileHashes(string file)
         {
-            byte[] fileData = File.ReadAllBytes(file);
-            var hashes = hasher.HashFileRef(ref fileData);
+            //byte[] fileData = File.ReadAllBytes(file);
+            //var hashes = hasher.HashFileRef(ref fileData);
+            var mmf = System.IO.MemoryMappedFiles.MemoryMappedFile.CreateFromFile(file);
+            var viewStream = mmf.CreateViewStream();
+            var hashes = hasher.HashFile(viewStream);
             FileInfo fi = new FileInfo(file);
             LookupEntry le = new LookupEntry();
             le.originalFileName = file;
@@ -38,7 +41,9 @@ namespace RomDatabase5
             le.sha1 = hashes[1];
             le.crc = hashes[2];
             le.size = fi.Length;
-            fileData = null;
+            //fileData = null;
+            viewStream.Close(); viewStream.Dispose();
+            mmf.Dispose();
 
             return le;
         }

@@ -82,6 +82,7 @@ namespace RomDatabase5
 
         public string[] HashFileRef(ref byte[] fileData)
         {
+            //This works great in Debug mode, in Release mode it seems to throw errors?
             string[] results = new string[3];
             var m = HashToString(md5.ComputeHash(fileData)); 
             var s = HashToString(sha1.ComputeHash(fileData)); 

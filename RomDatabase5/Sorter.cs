@@ -664,10 +664,12 @@ namespace RomDatabase5
                     le = hasher.HashFrom7z(file);
                     break;
                 default:
-                    byte[] fileData = File.ReadAllBytes(file);
-                    var hashes = hasher.HashFileRef(ref fileData);
-                    le = new List<LookupEntry>() { new LookupEntry() { originalFileName = file, size = fileData.Length, fileType = LookupEntryType.File, crc = hashes[2], sha1 = hashes[1], md5 = hashes[0] } };
-                    fileData = null;
+                    using (var mmf = System.IO.MemoryMappedFiles.MemoryMappedFile.CreateFromFile(file))
+                    using (var viewStream = mmf.CreateViewStream())
+                    {
+                        var hashes = hasher.HashFile(viewStream);
+                        le = new List<LookupEntry>() { new LookupEntry() { originalFileName = file, size = viewStream.Length, fileType = LookupEntryType.File, crc = hashes[2], sha1 = hashes[1], md5 = hashes[0] } };
+                    }
                     break;
             }
 
@@ -681,7 +683,7 @@ namespace RomDatabase5
                         return "";
                     else if (gameEntry != null && gameEntry.Count == 1) //exactly 1 file matched.
                     {
-                        return gameEntry[0].Description;
+                        return gameEntry[0].Name; //Name includes the file extention
                     }
                     else //this is probably a disc-game that has a bunch of sub entries and our original file is an archive of them.
                     {
@@ -698,6 +700,16 @@ namespace RomDatabase5
                     }
                 }
             }
+
+            return "";
+        }
+
+        public string IdentifyOneDisc(string file)
+        {
+            //Similar to above function, but for identifying games with multiple files.
+            //I need to either be working with a folder or an archive, since i'm looking at all the files contained within.
+            //Hash a file, find all discs that contain that file, then keep going until there are 1 or 0 discs after all files are checked?
+            //(I also need to check for how many files in the current disc have been identified, since I want to make sure I'm not MISSING any files in it)
 
             return "";
         }
