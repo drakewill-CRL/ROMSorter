@@ -4,6 +4,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
 
 namespace RomDatabase5
 {
@@ -13,24 +14,44 @@ namespace RomDatabase5
         string lastOutputMessage;
 
         //Is expecting a .cue file.
-        public string CreateChd(string name)
+        public bool CreateChd(string name)
         {
-            RunChdmanCommand("createcd -i \"" + name + "\" -o \"" + System.IO.Path.GetFileNameWithoutExtension(name) + ".chd\"");
-            return lastOutputMessage;
+            //Its possible that i would need to read through the .cue file to find which other files to remove when done.
+            string destFileName = Path.GetDirectoryName(name) + "\\" + Path.GetFileNameWithoutExtension(name) + ".chd";
+            var command = "createcd -i \"" + name + "\" -o \"" + destFileName + "\"";
+            bool success = RunChdmanCommand("createcd -i \"" + name + "\" -o \"" + Path.GetFileNameWithoutExtension(name) + ".chd\"");
+
+            //chdman might not care about paths provided for an output file.
+            if (success && File.Exists(Path.GetFileNameWithoutExtension(name) + ".chd"))
+            {
+                File.Move(Path.GetFileNameWithoutExtension(name) + ".chd", destFileName);
+            }
+
+            return success;
         }
 
-        public string ExtractCHD(string name)
+        public bool ExtractCHD(string name)
         {
-            RunChdmanCommand("extractcd -i \"" + name + "\" -o \"" + System.IO.Path.GetFileNameWithoutExtension(name) + ".cue\"");
-            return lastOutputMessage;
+            bool success = RunChdmanCommand("extractcd -i \"" + name + "\" -o \"" + Path.GetFileNameWithoutExtension(name) + ".cue\"");
+            //chdman might not care about paths provided for an output file.
+            if (success)
+            {
+                string baseName = Path.GetFileNameWithoutExtension(name);
+                string destFolder = Path.GetDirectoryName(name);
+                //these files will be in the starting directory for no good reason.
+                File.Move(baseName + ".bin", destFolder + "\\" + baseName + ".bin");
+                File.Move(baseName + ".cue", destFolder + "\\" + baseName + ".cue");
+            }
+
+            return success;
         }
 
-        public void RunChdmanCommand(string command)
+        public bool RunChdmanCommand(string command)
         {
             Process chdman = new Process();
             chdman.StartInfo.FileName = "chdman.exe"; //TODO: remove extention on linux/mac
             chdman.StartInfo.Arguments = command; 
-            //chdman.StartInfo.UseShellExecute = false;
+            chdman.StartInfo.UseShellExecute = false;
             chdman.StartInfo.CreateNoWindow = true;
             chdman.StartInfo.RedirectStandardOutput = true;
             chdman.StartInfo.RedirectStandardError = true;
@@ -41,6 +62,8 @@ namespace RomDatabase5
             chdman.BeginErrorReadLine();
             chdman.BeginOutputReadLine();
             chdman.WaitForExit();
+
+            return chdman.ExitCode == 0;
         }
 
         private void CHDOutputHandler(object sendingProcess, DataReceivedEventArgs outLine)

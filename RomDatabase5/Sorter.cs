@@ -533,10 +533,13 @@ namespace RomDatabase5
                         le = hasher.HashFrom7z(file);
                         break;
                     default:
-                        byte[] fileData = File.ReadAllBytes(file);
-                        var hashes = hasher.HashFileRef(ref fileData);
-                        le = new List<LookupEntry>() { new LookupEntry() { originalFileName = file, size = fileData.Length, fileType = LookupEntryType.File, crc = hashes[2], sha1 = hashes[1], md5 = hashes[0] } };
-                        fileData = null;
+                        //byte[] fileData = File.ReadAllBytes(file);
+                        using (var mmf = System.IO.MemoryMappedFiles.MemoryMappedFile.CreateFromFile(file))
+                        using (var viewStream = mmf.CreateViewStream())
+                        {
+                            var hashes = hasher.HashFile(viewStream);
+                            le = new List<LookupEntry>() { new LookupEntry() { originalFileName = file, size = viewStream.Length, fileType = LookupEntryType.File, crc = hashes[2], sha1 = hashes[1], md5 = hashes[0] } };
+                        }
                         break;
                 }
                 progress.Report("File hashed in " + sw.Elapsed.ToString());

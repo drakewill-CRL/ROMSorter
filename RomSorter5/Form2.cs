@@ -447,12 +447,43 @@ namespace RomSorter5WinForms
 
         private void btnCreateChds_Click(object sender, EventArgs e)
         {
+            CreateChdLogic();
+        }
 
+        private void CreateChdLogic() //TODO progress indicator.
+        {
+            //TODO: either parse the cue to find all files to remove, or make a sub-folder for everything.
+            foreach (var cue in Directory.EnumerateFiles(txtRomPath.Text).Where(f => f.EndsWith(".cue")))
+            {
+                var results = new CHD().CreateChd(cue);
+                if (results)
+                {
+                    //attempt to find bins
+                    var bins = Directory.EnumerateFiles(Path.GetDirectoryName(cue), Path.GetFileNameWithoutExtension(cue) + "*.bin").ToList(); //TODO: this might nuke sequels(EX: SSX would hit SSX 2)
+                    foreach (var b in bins)
+                        File.Delete(b);
+                    File.Delete(cue);
+                }
+            }
+        }
+
+        private void FindBinsInCue(string cueFile)
+        {
+            //load file as lines
+            //find lines like: FILE "1Xtreme (USA).bin" BINARY
+            //remove ends, find all files in middle.
         }
 
         private void btnExtractChds_Click(object sender, EventArgs e)
         {
-
+            foreach (var chd in Directory.EnumerateFiles(txtRomPath.Text).Where(f => f.EndsWith(".chd")).ToList())
+            {
+                var results = new CHD().ExtractCHD(chd);
+                if (results)
+                {
+                    File.Delete(chd);
+                }
+            }
         }
 
         private void btnMakeDat_Click(object sender, EventArgs e)

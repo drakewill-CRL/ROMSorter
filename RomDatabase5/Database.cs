@@ -17,12 +17,8 @@ namespace RomDatabase5
         //TODO: fix single-thread logic. Its deleting files if any of its contents were found, moves whole zip if all files inside are unidentified.
         //TODO: streamline Sorter to have less repeated code.
         //TODO: treat dat entries for games as duplicates only if they have the same size, hashes, AND console. Identical games across multiple consoles means that a rom is shared by different systems (sometimes a BIOS for MAME, or a game appearing in SCUMMVM and its native platform)
-        //TODO: Add a progress bar to the UI to show how far along it is in processing.
         //TODO: fix zip file names not always matching entry filename (entry filename is correct, zip name is not. I think its getting the original zip files name?)
-        //TODO: if a zip file only contains 1 file, and its an identified game, rename the entry, then rename and move the .zip file instead of extracting and re-zipping it. Performance boost
-        //TODO: see if moving to NET 5 fixed the File.ReadAllBytes() limit beyond 2GB.
-        //TODO: add in WinUI3 support to front-ends when its available for .NET 5
-        //TODO: handle tracking errors and report all at the end of the process (disk space, conflicts, password protected files, etc)
+        //TODO: add in WinUI3 support to front-ends when its available for .NET 6
 
         //DAT file todos:
         //make sure all the files at http://superfamicom.org/blog/quick-rom-download-page/ are in TOSEC dat files.

@@ -9,8 +9,8 @@ namespace RomDatabase5
     public class Game
     {
         public int id; //unique, not part of a .dat file.
-        public string name;
-        public string description; //identical to name in TOSEC?
+        public string name; //If single-file, should include the file extension
+        public string description; //Usually the naem without a file extension. identical to name in TOSEC?
         public long size;
         public string crc; //hash 1
         public string md5; //hash 2

@@ -113,7 +113,6 @@ namespace Librarian5Console
                 //Hash file. Save results vto DB.
                 System.IO.FileStream fs = new FileStream(file, FileMode.Open);
                 var hashes = hasher.HashFile(fs); //required for files over 2GB.
-                //var hashes = hasher.HashFile(File.ReadAllBytes(file));
                 InsertEntry(file, fi.Length, hashes[0], hashes[1], hashes[2]);
 
                 if (verbose)
@@ -150,7 +149,6 @@ namespace Librarian5Console
                 //Hash file. Save results vto DB.
                 System.IO.FileStream fs = new FileStream(file, FileMode.Open);
                 var hashes = hasher.HashFile(fs); //required for files over 2GB.
-                //var hashes = hasher.HashFile(File.ReadAllBytes(file));
                 InsertEntry(file, fi.Length, hashes[0], hashes[1], hashes[2]);
 
                 if (verbose)
@@ -189,7 +187,6 @@ namespace Librarian5Console
 
                 System.IO.FileStream fs = new FileStream(file, FileMode.Open);
                 var hashes = hasher.HashFile(fs); //required for files over 2GB.
-                //var hashes = hasher.HashFile(File.ReadAllBytes(file));
                 if (fi.Length == entry.size && hashes[0] == entry.md5 && hashes[1] == entry.sha1 && hashes[2] == entry.crc)
                 {
                     //good
