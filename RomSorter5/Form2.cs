@@ -436,7 +436,7 @@ namespace RomSorter5WinForms
                     using (var viewStream = mmf.CreateViewStream())
                     {
                         var hashes = hasher.HashFile(viewStream);
-                        if (vals[1] == hashes[0] && vals[2] == hashes[1] && vals[3] == hashes[2] && viewStream.Length.ToString() == vals[4])
+                        if (vals[1] == hashes[0] && vals[2] == hashes[1] && vals[3] == hashes[2]) //intentionally leaving size out, despite recording it.
                         {
                             continue;
                         }
@@ -476,7 +476,9 @@ namespace RomSorter5WinForms
             }
 
             LockButtons();
-            var files = System.IO.Directory.EnumerateFiles(txtRomPath.Text);
+            var files = System.IO.Directory.EnumerateDirectories(txtRomPath.Text);
+            if (chkZipInsteadOfFolders.Checked)
+                files = System.IO.Directory.EnumerateFiles(txtRomPath.Text);
             progressBar1.Maximum = files.Count() + 1;
             progressBar1.Value = 0;
 
@@ -487,6 +489,22 @@ namespace RomSorter5WinForms
 
         private void IdentifyMultiFileGames(IProgress<string> progress)
         {
+            //TODO: might need a toggle between 'check zip files' and 'check subfolders'
+            //writing code for 'check subfolders now', will adapt to zip files later.
+            var topFolders = Directory.EnumerateDirectories(txtRomPath.Text).ToList();
+
+            //TODO: need to handle perfect matches, missing files, and extra files separately?
+            //keep in mind this will be run on MAME, SCUMMVM, and some CD format games.
+            //MAME wants exact matches. The others can live with bonus content. 
+            foreach(var folder in topFolders)
+            {
+                progress.Report(folder);
+
+
+
+            }
+            progress.Report("Completed");
+
         }
 
         private async void btnCreateChds_Click(object sender, EventArgs e)
@@ -510,21 +528,37 @@ namespace RomSorter5WinForms
                 var results = new CHD().CreateChd(cue);
                 if (results)
                 {
-                    //attempt to find bins
-                    var bins = Directory.EnumerateFiles(Path.GetDirectoryName(cue), Path.GetFileNameWithoutExtension(cue) + "*.bin").ToList(); //TODO: this might nuke sequels(EX: SSX would hit SSX 2)
-                    foreach (var b in bins)
-                        File.Delete(b);
+                    if (cue.EndsWith("cue"))
+                    {
+                        //find referenced files that were pulled in by the cue
+                        var bins = FindBinsInCue(cue);
+                        foreach (var b in bins)
+                            File.Delete(b);
+                    }
                     File.Delete(cue);
                 }
             }
             progress.Report("Complete");
         }
 
-        private void FindBinsInCue(string cueFile)
+        private List<string> FindBinsInCue(string cueFile)
         {
             //load file as lines
             //find lines like: FILE "1Xtreme (USA).bin" BINARY
             //remove ends, find all files in middle.
+            string[] lines = File.ReadAllLines(cueFile);
+            List<string> files = new List<string>();
+            foreach (var line in lines)
+            {
+                var parts = line.Split('"');
+                if (parts.Length != 3)
+                    continue;
+
+                var filename = parts[1];
+                files.Add(filename);
+            }
+
+            return files;
         }
 
         private async void btnExtractChds_Click(object sender, EventArgs e)
