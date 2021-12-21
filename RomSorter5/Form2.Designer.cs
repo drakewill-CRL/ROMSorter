@@ -237,7 +237,7 @@
             this.btnCreateChds.Name = "btnCreateChds";
             this.btnCreateChds.Size = new System.Drawing.Size(111, 66);
             this.btnCreateChds.TabIndex = 30;
-            this.btnCreateChds.Text = "Create CHD Files (Incomplete)";
+            this.btnCreateChds.Text = "Create CHD Files";
             this.btnCreateChds.UseVisualStyleBackColor = true;
             this.btnCreateChds.Click += new System.EventHandler(this.btnCreateChds_Click);
             // 
@@ -247,7 +247,7 @@
             this.btnExtractChds.Name = "btnExtractChds";
             this.btnExtractChds.Size = new System.Drawing.Size(111, 66);
             this.btnExtractChds.TabIndex = 31;
-            this.btnExtractChds.Text = "Extract CHD Files (Incomplete)";
+            this.btnExtractChds.Text = "Extract CHD Files";
             this.btnExtractChds.UseVisualStyleBackColor = true;
             this.btnExtractChds.Click += new System.EventHandler(this.btnExtractChds_Click);
             // 

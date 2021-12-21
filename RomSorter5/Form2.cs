@@ -26,6 +26,38 @@ namespace RomSorter5WinForms
             txtRomPath.Text = Properties.Settings.Default.romPath;
         }
 
+        private void LockButtons()
+        {
+            btnCatalog.Enabled = false;
+            btnCreateChds.Enabled= false;
+            btnDatFolderSelect.Enabled=false;
+            btnDetectDupes.Enabled=false;
+            btnExtractChds.Enabled = false; 
+            btnIdentifyAndZip.Enabled=false;    
+            btnMakeDat.Enabled = false;
+            btnRenameMultiFile.Enabled=false;
+            btnRomFolderSelect.Enabled=false;
+            btnUnzipAll.Enabled=false;
+            btnVerify.Enabled=false;
+            btnZipAllFiles.Enabled=false;
+        }
+
+        private void UnlockButtons()
+        {
+            btnCatalog.Enabled = true;
+            btnCreateChds.Enabled = true;
+            btnDatFolderSelect.Enabled = true;
+            btnDetectDupes.Enabled = true;
+            btnExtractChds.Enabled = true;
+            btnIdentifyAndZip.Enabled = true;
+            btnMakeDat.Enabled = true;
+            btnRenameMultiFile.Enabled = true;
+            btnRomFolderSelect.Enabled = true;
+            btnUnzipAll.Enabled = true;
+            btnVerify.Enabled = true;
+            btnZipAllFiles.Enabled = true;
+        }
+
         private void btnDatFolderSelect_Click(object sender, EventArgs e)
         {
             //Set the folder path box
@@ -54,14 +86,16 @@ namespace RomSorter5WinForms
             }
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private async void button1_Click(object sender, EventArgs e)
         {
+            LockButtons();
             var files = System.IO.Directory.EnumerateFiles(txtRomPath.Text);
             progressBar1.Maximum = files.Count();
             progressBar1.Value = 0;
 
             Progress<string> p = new Progress<string>(s => { lblStatus.Text = s; if (progressBar1.Value < progressBar1.Maximum) progressBar1.Value++; });
-            Task.Factory.StartNew(() => DetectDupes(p));
+            await Task.Factory.StartNew(() => DetectDupes(p));
+            UnlockButtons();
         }
 
         private void DetectDupes(IProgress<string> p)
@@ -106,27 +140,31 @@ namespace RomSorter5WinForms
                 p.Report("Completed, no duplicates.");
         }
 
-        private void btnUnzipAll_Click(object sender, EventArgs e)
+        private async void btnUnzipAll_Click(object sender, EventArgs e)
         {
+            LockButtons();
             var files = System.IO.Directory.EnumerateFiles(txtRomPath.Text);
             progressBar1.Maximum = files.Count();
             progressBar1.Value = 0;
 
             Progress<string> p = new Progress<string>(s => { lblStatus.Text = s; if (progressBar1.Value < progressBar1.Maximum) progressBar1.Value++; });
-            Task.Factory.StartNew(() => UnzipLogic(p));
+            await Task.Factory.StartNew(() => UnzipLogic(p));
+            UnlockButtons();
         }
 
-        private void btnZipAllFiles_Click(object sender, EventArgs e)
+        private async void btnZipAllFiles_Click(object sender, EventArgs e)
         {
+            LockButtons();
             var files = System.IO.Directory.EnumerateFiles(txtRomPath.Text);
             progressBar1.Maximum = files.Count();
             progressBar1.Value = 0;
 
             Progress<string> p = new Progress<string>(s => { lblStatus.Text = s; if (progressBar1.Value < progressBar1.Maximum) progressBar1.Value++; });
-            Task.Factory.StartNew(() => ZipLogic(p));
+            await Task.Factory.StartNew(() => ZipLogic(p));
+            UnlockButtons();
         }
 
-        private void btnIdentifyAndZip_Click(object sender, EventArgs e)
+        private async void btnIdentifyAndZip_Click(object sender, EventArgs e)
         {
             if (txtDatPath.Text == "")
             {
@@ -134,12 +172,14 @@ namespace RomSorter5WinForms
                 return;
             }
 
+            LockButtons();
             var files = System.IO.Directory.EnumerateFiles(txtRomPath.Text);
             progressBar1.Maximum = files.Count() + 1;
             progressBar1.Value = 0;
 
             Progress<string> p = new Progress<string>(s => { lblStatus.Text = s; if (progressBar1.Value < progressBar1.Maximum) progressBar1.Value++; });
-            Task.Factory.StartNew(() => IdentifyLogic(p));
+            await Task.Factory.StartNew(() => IdentifyLogic(p));
+            UnlockButtons();
         }
 
         private void IdentifyLogic(IProgress<string> progress)
@@ -234,7 +274,7 @@ namespace RomSorter5WinForms
 
         private void ZipLogic(IProgress<string> progress)
         {
-            //NOTE: this doesn't seem to identify games correctly. 2 of my test set get correctly picked up in a NoIntro file. - NoIntro skips headers, TOSEC includes them.
+            //NOTE: 2 of my test set get correctly picked up in a NoIntro file. - NoIntro skips headers, TOSEC includes them.
             var files = System.IO.Directory.EnumerateFiles(txtRomPath.Text).ToList();
             int count = 1;
             foreach (var file in files)
@@ -331,15 +371,16 @@ namespace RomSorter5WinForms
             }
         }
 
-        private void btnCatalog_Click(object sender, EventArgs e)
+        private async void btnCatalog_Click(object sender, EventArgs e)
         {
-            //TODO: should this just make a .dat file?
+            LockButtons();
             var files = System.IO.Directory.EnumerateFiles(txtRomPath.Text);
             progressBar1.Maximum = files.Count();
             progressBar1.Value = 0;
 
             Progress<string> p = new Progress<string>(s => { lblStatus.Text = s; if (progressBar1.Value < progressBar1.Maximum) progressBar1.Value++; });
-            Task.Factory.StartNew(() => Catalog(p));
+            await Task.Factory.StartNew(() => Catalog(p));
+            UnlockButtons();
         }
 
         private void Catalog(IProgress<string> progress)
@@ -364,15 +405,17 @@ namespace RomSorter5WinForms
             progress.Report("Complete");
         }
 
-        private void btnVerify_Click(object sender, EventArgs e)
+        private async void btnVerify_Click(object sender, EventArgs e)
         {
+            LockButtons();
             //Hash all files in directory, confirm if they do or don't match values in catalog TSV file.
             var files = System.IO.Directory.EnumerateFiles(txtRomPath.Text);
             progressBar1.Maximum = files.Count();
             progressBar1.Value = 0;
 
             Progress<string> p = new Progress<string>(s => { lblStatus.Text = s; if (progressBar1.Value < progressBar1.Maximum) progressBar1.Value++; });
-            Task.Factory.StartNew(() => Verify(p));
+            await Task.Factory.StartNew(() => Verify(p));
+            UnlockButtons();
         }
 
         private void Verify(IProgress<string> progress)
@@ -424,7 +467,7 @@ namespace RomSorter5WinForms
                 progress.Report("Complete, uncataloged files found, read report.txt for info");
         }
 
-        private void btnRenameMultiFile_Click(object sender, EventArgs e)
+        private async void btnRenameMultiFile_Click(object sender, EventArgs e)
         {
             if (txtDatPath.Text == "")
             {
@@ -432,29 +475,38 @@ namespace RomSorter5WinForms
                 return;
             }
 
+            LockButtons();
             var files = System.IO.Directory.EnumerateFiles(txtRomPath.Text);
             progressBar1.Maximum = files.Count() + 1;
             progressBar1.Value = 0;
 
             Progress<string> p = new Progress<string>(s => { lblStatus.Text = s; if (progressBar1.Value < progressBar1.Maximum) progressBar1.Value++; });
-            Task.Factory.StartNew(() => IdentifyMultiFileGames(p));
+            await Task.Factory.StartNew(() => IdentifyMultiFileGames(p));
+            UnlockButtons();
         }
 
         private void IdentifyMultiFileGames(IProgress<string> progress)
         {
-
         }
 
-        private void btnCreateChds_Click(object sender, EventArgs e)
+        private async void btnCreateChds_Click(object sender, EventArgs e)
         {
-            CreateChdLogic();
+            LockButtons();
+            var files = System.IO.Directory.EnumerateFiles(txtRomPath.Text).Where(f => f.EndsWith(".cue") || f.EndsWith(".iso"));
+            progressBar1.Maximum = files.Count() + 1;
+            progressBar1.Value = 0;
+
+            Progress<string> p = new Progress<string>(s => { lblStatus.Text = s; if (progressBar1.Value < progressBar1.Maximum) progressBar1.Value++; });
+            await Task.Factory.StartNew(() => CreateChdLogic(p));
+            UnlockButtons();
         }
 
-        private void CreateChdLogic() //TODO progress indicator.
+        private void CreateChdLogic(IProgress<string> progress)
         {
             //TODO: either parse the cue to find all files to remove, or make a sub-folder for everything.
-            foreach (var cue in Directory.EnumerateFiles(txtRomPath.Text).Where(f => f.EndsWith(".cue")))
+            foreach (var cue in Directory.EnumerateFiles(txtRomPath.Text).Where(f => f.EndsWith(".cue") || f.EndsWith(".iso")))
             {
+                progress.Report(cue);
                 var results = new CHD().CreateChd(cue);
                 if (results)
                 {
@@ -465,6 +517,7 @@ namespace RomSorter5WinForms
                     File.Delete(cue);
                 }
             }
+            progress.Report("Complete");
         }
 
         private void FindBinsInCue(string cueFile)
@@ -474,28 +527,42 @@ namespace RomSorter5WinForms
             //remove ends, find all files in middle.
         }
 
-        private void btnExtractChds_Click(object sender, EventArgs e)
+        private async void btnExtractChds_Click(object sender, EventArgs e)
+        {
+            LockButtons();
+            var files = System.IO.Directory.EnumerateFiles(txtRomPath.Text).Where(f => f.EndsWith(".chd"));
+            progressBar1.Maximum = files.Count() + 1;
+            progressBar1.Value = 0;
+
+            Progress<string> p = new Progress<string>(s => { lblStatus.Text = s; if (progressBar1.Value < progressBar1.Maximum) progressBar1.Value++; });
+            await Task.Factory.StartNew(() => ExtractChdLogic(p));
+            UnlockButtons();
+        }
+        
+        private void ExtractChdLogic(IProgress<string> progress)
         {
             foreach (var chd in Directory.EnumerateFiles(txtRomPath.Text).Where(f => f.EndsWith(".chd")).ToList())
             {
+                progress.Report(chd);
                 var results = new CHD().ExtractCHD(chd);
                 if (results)
                 {
                     File.Delete(chd);
                 }
             }
+            progress.Report("Complete");
         }
 
-        private void btnMakeDat_Click(object sender, EventArgs e)
+        private async void btnMakeDat_Click(object sender, EventArgs e)
         {
+            LockButtons();
             var files = System.IO.Directory.EnumerateFiles(txtRomPath.Text);
             progressBar1.Maximum = files.Count() + 1;
             progressBar1.Value = 0;
 
             Progress<string> p = new Progress<string>(s => { lblStatus.Text = s; if (progressBar1.Value < progressBar1.Maximum) progressBar1.Value++; });
-            Task.Factory.StartNew(() => DatLogic(p));
-
-            lblStatus.Text = "DAT file created.";
+            await Task.Factory.StartNew(() => DatLogic(p));
+            UnlockButtons();
         }
 
         private void DatLogic(IProgress<string> progress)

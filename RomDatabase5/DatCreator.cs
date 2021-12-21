@@ -39,7 +39,7 @@ namespace RomDatabase5
             //System.Threading.Tasks.Parallel.ForEach(System.IO.Directory.EnumerateFiles(folder), (file) => //parallel works fine but makes reporting harder.
             foreach (var file in System.IO.Directory.EnumerateFiles(folder))
             {
-                progress.Report(Path.GetFileName(file));
+                progress?.Report(Path.GetFileName(file));
                 if (Path.GetFileName(file).EndsWith(".zip"))
                 {
                     sb.Append(GetGameAndRomEntryMultifileFromZip(file));
@@ -56,7 +56,7 @@ namespace RomDatabase5
 
             foreach (var dir in System.IO.Directory.EnumerateDirectories(folder))
             {
-                sb.Append(GetEntries(dir));
+                sb.Append(GetEntries(dir, progress));
             }
             return sb.ToString(); //make sure there's something here to return. If everything is empty this is blank and throws an error.
         }
