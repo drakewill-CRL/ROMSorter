@@ -18,12 +18,16 @@ namespace RomSorter5WinForms
     public partial class Form2 : Form
     {
         Sorter sorter = null;
+        MemDb db = new MemDb();
         public Form2()
         {
             sorter = new Sorter();
             InitializeComponent();
             txtDatPath.Text = Properties.Settings.Default.datFile;
             txtRomPath.Text = Properties.Settings.Default.romPath;
+
+            if (txtDatPath.Text != "")
+                LoadDatToMemDb();
         }
 
         private void LockButtons()
@@ -58,6 +62,16 @@ namespace RomSorter5WinForms
             btnZipAllFiles.Enabled = true;
         }
 
+        private async void LoadDatToMemDb()
+        {
+            LockButtons();
+            Progress<string> p = new Progress<string>(s => lblStatus.Text = s);
+            db = new MemDb();
+            await Task.Factory.StartNew(() => db.loadDatFile(txtDatPath.Text, p));
+            UnlockButtons();
+        }
+
+
         private void btnDatFolderSelect_Click(object sender, EventArgs e)
         {
             //Set the folder path box
@@ -65,13 +79,21 @@ namespace RomSorter5WinForms
             //also read zip files for dats if present
             if (ofd1.ShowDialog() == DialogResult.OK)
             {
-                Database.RebuildInitialDatabase(); //clears out the exisiting data in sqlite
-                txtDatPath.Text = ofd1.FileName;
+                //Old plan
+                //Database.RebuildInitialDatabase(); //clears out the exisiting data in sqlite
+                //txtDatPath.Text = ofd1.FileName;
+                //System.Configuration.SettingsProperty prop = new System.Configuration.SettingsProperty("datFile");
+                //Properties.Settings.Default.datFile = txtDatPath.Text;
+                //Properties.Settings.Default.Save();
+                ////Progress<string> p = new Progress<string>(s => lblStatus.Text = s);
+                //Task.Factory.StartNew(() => DATImporter.ParseDatFileFast(ofd1.FileName));
+
+                //New plan
                 System.Configuration.SettingsProperty prop = new System.Configuration.SettingsProperty("datFile");
+                txtDatPath.Text = ofd1.FileName;
                 Properties.Settings.Default.datFile = txtDatPath.Text;
                 Properties.Settings.Default.Save();
-                //Progress<string> p = new Progress<string>(s => lblStatus.Text = s);
-                Task.Factory.StartNew(() => DATImporter.ParseDatFileFast(ofd1.FileName));
+                LoadDatToMemDb();
             }
         }
 
@@ -82,7 +104,7 @@ namespace RomSorter5WinForms
                 txtRomPath.Text = System.IO.Path.GetDirectoryName(ofd1.FileName);
                 Properties.Settings.Default.romPath = txtRomPath.Text;
                 Properties.Settings.Default.Save();
-                progressBar1.Maximum = sorter.FilesToScanCount;
+                //progressBar1.Maximum = sorter.FilesToScanCount;
             }
         }
 
@@ -141,7 +163,7 @@ namespace RomSorter5WinForms
             progressBar1.Value = 0;
 
             Progress<string> p = new Progress<string>(s => { lblStatus.Text = s; if (progressBar1.Value < progressBar1.Maximum) progressBar1.Value++; });
-            await Task.Factory.StartNew(() => CoreFunctions.IdentifyLogic(p, txtRomPath.Text, chkMoveUnidentified.Checked));
+            await Task.Factory.StartNew(() => CoreFunctions.IdentifyLogic(p, txtRomPath.Text, chkMoveUnidentified.Checked, db));
             UnlockButtons();
         }
 
@@ -178,9 +200,12 @@ namespace RomSorter5WinForms
 
         private void IdentifyMultiFileGames(IProgress<string> progress)
         {
+            //TODO: finish fixing this.
             //TODO: might need a toggle between 'check zip files' and 'check subfolders'
             //writing code for 'check subfolders now', will adapt to zip files later.
             var topFolders = Directory.EnumerateDirectories(txtRomPath.Text).ToList();
+            Hasher h = new Hasher();
+            
 
             //TODO: need to handle perfect matches, missing files, and extra files separately?
             //keep in mind this will be run on MAME, SCUMMVM, and some CD format games.
@@ -188,6 +213,16 @@ namespace RomSorter5WinForms
             foreach(var folder in topFolders)
             {
                 progress.Report(folder);
+                var files = Directory.EnumerateFiles(folder);
+                List<HashResults> currentHashes = new List<HashResults>();
+                foreach(var file in files)
+                {
+                    var hashes = h.HashFileAtPath(file);
+                    currentHashes.Add(hashes);
+                }
+                var disc = db.findDisc(currentHashes);
+                progress.Report("found " + disc.name);
+                 
             }
             progress.Report("Completed");
 

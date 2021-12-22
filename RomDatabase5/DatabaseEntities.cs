@@ -85,6 +85,11 @@ namespace RomDatabase5
             return finalResults.OrderBy(fr => fr.Item1).ToList();
         }
 
+        public List<Games> FindGame(HashResults results)
+        {
+            return FindGame(results.size, results.crc, results.md5, results.sha1);
+        }
+
         public List<Games> FindGame(long size, string[] hashes)
         {
             return FindGame(size, hashes[2], hashes[0], hashes[1]);
@@ -110,6 +115,11 @@ namespace RomDatabase5
             return matchingGames.ToList();
         }
 
+        public List<Discs> FindDisc(HashResults results)
+        {
+            return FindDisc(results.size, results.crc, results.md5, results.sha1);
+        }
+
         public List<Discs> FindDisc(long size, string[] hashes)
         {
             return FindDisc(size, hashes[2], hashes[0], hashes[1]);
@@ -117,8 +127,23 @@ namespace RomDatabase5
 
         public List<Discs> FindDisc(long size, string crc, string md5, string sha1)
         {
-            List<Discs> d = db.Discs.Where(g => g.Size == size && g.Crc == crc && g.Md5 == md5 && g.Sha1 == sha1).ToList();
-            return d;
+            var matchingDiscs = db.Discs.AsQueryable();
+
+            if (!String.IsNullOrWhiteSpace(md5))
+                matchingDiscs = matchingDiscs.Where(g => g.Md5 == md5);
+
+            if (!String.IsNullOrWhiteSpace(sha1))
+                matchingDiscs = matchingDiscs.Where(g => g.Sha1 == sha1);
+
+            if (!String.IsNullOrWhiteSpace(crc))
+                matchingDiscs = matchingDiscs.Where(g => g.Crc == crc);
+
+            //Discs are multi-file games, so let's send back all the entries.
+            var foundEntries = matchingDiscs.ToList();
+            var foundNames = matchingDiscs.Select(m => m.Name).Distinct().ToList();
+            var allPossibleEntries = db.Discs.Where(d => foundNames.Contains(d.Name)).ToList();
+
+            return allPossibleEntries;
         }
 
         public List<Games> GetAllGames()

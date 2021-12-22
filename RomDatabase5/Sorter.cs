@@ -640,7 +640,6 @@ namespace RomDatabase5
         public string IdentifyOneFile(string file, bool useIDOffsets = false)
         {
             //Get 1 file in, scan against current DB file, return filename to use for destination.
-            string baseFilename = Path.GetFileNameWithoutExtension(file);
             Hasher hasher = new Hasher();
             var db = new DatabaseEntities(); //Using the EF here is twice as fast in my testing versus the original code, before adding console names Adding console names makes it ~ 50% slower (15s vs 10s).
             List<LookupEntry> le = new List<LookupEntry>(); //single-threading across files and entries, but we may still hit a zip with multiple games in it.
@@ -707,12 +706,32 @@ namespace RomDatabase5
             return "";
         }
 
-        public string IdentifyOneDisc(string file)
+        public string IdentifyOneDisc(HashResults hashes)
         {
+
+            //TODO finish fixing this to be more disc-specific.
+
             //Similar to above function, but for identifying games with multiple files.
             //I need to either be working with a folder or an archive, since i'm looking at all the files contained within.
             //Hash a file, find all discs that contain that file, then keep going until there are 1 or 0 discs after all files are checked?
             //(I also need to check for how many files in the current disc have been identified, since I want to make sure I'm not MISSING any files in it)
+
+            var db = new DatabaseEntities(); //Using the EF here is twice as fast in my testing versus the original code, before adding console names Adding console names makes it ~ 50% slower (15s vs 10s).            
+                                             //foreach (var h in hashes)
+                                             //{
+            var le = db.FindDisc(hashes);
+
+
+            var discEntries = db.FindDisc(hashes);
+            if (discEntries == null || discEntries.Count > 0)
+                return "";
+
+            else if (discEntries.Count == 1)
+            {
+                return discEntries[0].Name;
+            }
+            else //this could be multiple discs based on data apparently.
+                return "";
 
             return "";
         }

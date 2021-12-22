@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace RomDatabase5
 {
-    internal class ZipHelper
+    internal class Helpers
     {
         public static void RezipFromArchive(SharpCompress.Archives.IArchive existingZip, System.IO.Compression.ZipArchive zf)
         {

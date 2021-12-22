@@ -28,20 +28,20 @@ namespace RomDatabase5
                 var filename = Path.GetFileNameWithoutExtension(file);
                 //TODO: check zipped data separately? Or assume stuff was run to make files consistent.
                 p.Report(Path.GetFileName(file));
-                string[] results = h.HashFileAtPath(file);
+                HashResults results = h.HashFileAtPath(file);
 
-                if (crcHashes.ContainsKey(results[0]) && md5Hashes.ContainsKey(results[1]) && sha1Hashes.ContainsKey(results[2]))
+                if (crcHashes.ContainsKey(results.crc) && md5Hashes.ContainsKey(results.md5) && sha1Hashes.ContainsKey(results.sha1))
                 {
                     // this is a dupe, we hit on all 3 hashes.
                     foundDupe = true;
-                    var origName = crcHashes[results[0]];
+                    var origName = crcHashes[results.crc];
                     var dirName = path + "\\Duplicates\\" + origName.Replace("(", "").Replace(")", "").Trim();
                     Directory.CreateDirectory(dirName);
                     File.Move(file, dirName + "\\" + Path.GetFileName(file));
                 }
-                crcHashes.TryAdd(results[0], filename);
-                md5Hashes.TryAdd(results[1], filename);
-                sha1Hashes.TryAdd(results[2], filename);
+                crcHashes.TryAdd(results.crc, filename);
+                md5Hashes.TryAdd(results.md5, filename);
+                sha1Hashes.TryAdd(results.sha1, filename);
             }
 
             if (foundDupe)
@@ -108,7 +108,7 @@ namespace RomDatabase5
                         using (var fileData = mmf.CreateViewStream())
                         {
                             using (var existingZip = SharpCompress.Archives.ArchiveFactory.Open(fileData))
-                                ZipHelper.RezipFromArchive(existingZip, zf);
+                                Helpers.RezipFromArchive(existingZip, zf);
                         }
                         break;
                     default:
@@ -134,13 +134,12 @@ namespace RomDatabase5
             StreamWriter sw = new StreamWriter(fs);
             sw.WriteLine("name\tmd5\tsha1\tcrc\tsize");
             Hasher hasher = new Hasher();
-            var files = System.IO.Directory.EnumerateFiles(path).Where(f => Path.GetFileName(f) != "catalog.tsv").ToList();
+            var files = Directory.EnumerateFiles(path).Where(f => Path.GetFileName(f) != "catalog.tsv").ToList();
             foreach (var file in files)
             {
                 progress.Report(file);
                 var hashes = hasher.HashFileAtPath(file);
-                FileInfo fi = new FileInfo(file);
-                sw.WriteLine(Path.GetFileName(file) + "\t" + hashes[0] + "\t" + hashes[1] + "\t" + hashes[2] + "\t" + fi.Length);
+                sw.WriteLine(Path.GetFileName(file) + "\t" + hashes.md5 + "\t" + hashes.sha1 + "\t" + hashes.crc + "\t" + hashes.size);
             }
             sw.Close(); sw.Dispose(); fs.Close(); fs.Dispose();
             progress.Report("Complete");
@@ -160,16 +159,15 @@ namespace RomDatabase5
                 progress.Report(vals[0]);
                 try
                 {
-                    FileInfo fi = new FileInfo(file);
                     var hashes = hasher.HashFileAtPath(file);
-                    if (vals[1] == hashes[0] && vals[2] == hashes[1] && vals[3] == hashes[2]) //intentionally leaving size out, despite recording it.
+                    if (vals[1] == hashes.md5 && vals[2] == hashes.sha1 && vals[3] == hashes.crc) //intentionally leaving size out, despite recording it.
                     {
                         continue;
                     }
                     else
                     {
                         alert = true;
-                        File.AppendAllText(path + "\\report.txt", vals[0] + " did not match:" + vals[1] + "|" + hashes[0] + " " + vals[2] + "|" + hashes[1] + " " + vals[3] + "|" + hashes[2] + " " + vals[4] + "|" + fi.Length);
+                        File.AppendAllText(path + "\\report.txt", vals[0] + " did not match:" + vals[1] + "|" + hashes.md5 + " " + vals[2] + "|" + hashes.sha1 + " " + vals[3] + "|" + hashes.crc + " " + vals[4] + "|" + hashes.size);
                     }
                 }
                 catch (Exception ex)
@@ -203,7 +201,7 @@ namespace RomDatabase5
                     if (cue.EndsWith("cue"))
                     {
                         //find referenced files that were pulled in by the cue
-                        var bins = ZipHelper.FindBinsInCue(cue);
+                        var bins = Helpers.FindBinsInCue(cue);
                         foreach (var b in bins)
                             File.Delete(b);
                     }
@@ -233,7 +231,7 @@ namespace RomDatabase5
             progress.Report("Completed making DAT file");
         }
 
-        public static void IdentifyLogic(IProgress<string> progress, string path, bool moveUnidentified)
+        public static void IdentifyLogic(IProgress<string> progress, string path, bool moveUnidentified, MemDb db)
         {
             var files = System.IO.Directory.EnumerateFiles(path).ToList();
             if (moveUnidentified)
@@ -241,18 +239,20 @@ namespace RomDatabase5
 
             //bool useOffsets = chkUseIDOffsets.Checked;
             string errors = "";
-            Sorter sorter = new Sorter();
+            Hasher h = new Hasher();
+            //Sorter sorter = new Sorter();
             foreach (var file in files)
             {
                 try
                 {
                     progress.Report(Path.GetFileName(file));
                     //Identify it first.
-                    var identifiedFile = sorter.IdentifyOneFile(file, false);
-                    var destFileName = path + "\\" + (identifiedFile != "" ? identifiedFile : (moveUnidentified ? "\\Unknown\\" : "") + Path.GetFileName(file));
+                    var hashes = h.HashFileAtPath(file);
+                    var identifiedFile = db.findFile(hashes).name;
+                    var destFileName = (identifiedFile != "" ? identifiedFile : (moveUnidentified ? "\\Unknown\\" : "") + Path.GetFileName(file));
 
                     if (identifiedFile != destFileName)
-                        File.Move(file, destFileName);
+                        File.Move(file, path + "\\" + destFileName);
 
                 }
                 catch (Exception ex)
@@ -264,7 +264,7 @@ namespace RomDatabase5
             
             if (errors != "")
             {
-                progress.Report("Comlete, Errors occurred: " + errors);
+                progress.Report("Complete, Errors occurred: " + errors);
             }
             else
                 progress.Report("Complete");

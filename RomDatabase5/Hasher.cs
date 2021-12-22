@@ -10,6 +10,16 @@ using System.Linq;
 
 namespace RomDatabase5
 {
+
+    public class HashResults
+    {
+        public string filepath { get; set; }
+        public long size { get; set; }
+        public string crc { get; set; }
+        public string md5 { get; set; }
+        public string sha1 { get; set; }
+    }
+
     public class Hasher
     {
         MD5 md5;
@@ -51,7 +61,24 @@ namespace RomDatabase5
             return sb.ToString().ToLower();
         }
 
-        public string[] HashFileAtPath(string file)
+        public HashResults HashFileAtPath(string file)
+        {
+            HashResults results = new HashResults();
+            using (var mmf = System.IO.MemoryMappedFiles.MemoryMappedFile.CreateFromFile(file))
+            using (var fileData = mmf.CreateViewStream())
+            {
+                results.filepath = file;
+                results.size = fileData.Length;
+                results.md5 = HashToString(md5.ComputeHash(fileData));
+                fileData.Seek(0, SeekOrigin.Begin);
+                results.sha1 = HashToString(sha1.ComputeHash(fileData));
+                fileData.Seek(0, SeekOrigin.Begin);
+                results.crc = HashToString(crc.ComputeHash(fileData));
+            }
+            return results;
+        }
+
+        public string[] HashFileAtPathOld(string file)
         {
             string[] results = new string[3];
             using (var mmf = System.IO.MemoryMappedFiles.MemoryMappedFile.CreateFromFile(file))
