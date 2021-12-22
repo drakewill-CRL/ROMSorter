@@ -51,6 +51,21 @@ namespace RomDatabase5
             return sb.ToString().ToLower();
         }
 
+        public string[] HashFileAtPath(string file)
+        {
+            string[] results = new string[3];
+            using (var mmf = System.IO.MemoryMappedFiles.MemoryMappedFile.CreateFromFile(file))
+            using (var fileData = mmf.CreateViewStream())
+            {
+                results[0] = HashToString(md5.ComputeHash(fileData));
+                fileData.Seek(0, SeekOrigin.Begin);
+                results[1] = HashToString(sha1.ComputeHash(fileData));
+                fileData.Seek(0, SeekOrigin.Begin);
+                results[2] = HashToString(crc.ComputeHash(fileData));
+            }
+            return results;
+        }
+
         public string[] HashFile(Stream fileData)
         {
             //hashes files all 3 ways. 
