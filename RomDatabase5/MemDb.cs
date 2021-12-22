@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO.MemoryMappedFiles;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -63,7 +64,11 @@ namespace RomDatabase5
             System.Diagnostics.Stopwatch sw = new System.Diagnostics.Stopwatch();
             sw.Start();
             var dat = new System.Xml.XmlDocument();
-            dat.Load(datfile);
+            using (MemoryMappedFile mmf = MemoryMappedFile.CreateFromFile(datfile))
+            using (var viewStream = mmf.CreateViewStream())
+            {
+                dat.Load(viewStream);
+            }
             var entries = dat.GetElementsByTagName("game"); //has unique games to find. ROM has each file
             if (entries.Count == 0)
                 entries = dat.GetElementsByTagName("machine"); //MAME support requires machine, but data is still in rom entries under it.
@@ -158,6 +163,8 @@ namespace RomDatabase5
 
             //In addition to MAME, we might have a case like SCUMMVM, where there are several languages for a game
             //where MOST of the files across them are identical, but some aren't.  So we need to not bail immediately if we have mulitple matches.
+
+            //Also cases for bin/cue files, where i will expect multiple files for a result and will want to rename them.
             List<DiscEntry> possibleMatches = new List<DiscEntry>();
             foreach (var hash in hashes)
             {

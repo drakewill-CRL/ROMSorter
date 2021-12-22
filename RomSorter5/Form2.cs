@@ -71,24 +71,12 @@ namespace RomSorter5WinForms
             UnlockButtons();
         }
 
-
         private void btnDatFolderSelect_Click(object sender, EventArgs e)
         {
             //Set the folder path box
             //Attempt to auto-import any dat files found
-            //also read zip files for dats if present
             if (ofd1.ShowDialog() == DialogResult.OK)
             {
-                //Old plan
-                //Database.RebuildInitialDatabase(); //clears out the exisiting data in sqlite
-                //txtDatPath.Text = ofd1.FileName;
-                //System.Configuration.SettingsProperty prop = new System.Configuration.SettingsProperty("datFile");
-                //Properties.Settings.Default.datFile = txtDatPath.Text;
-                //Properties.Settings.Default.Save();
-                ////Progress<string> p = new Progress<string>(s => lblStatus.Text = s);
-                //Task.Factory.StartNew(() => DATImporter.ParseDatFileFast(ofd1.FileName));
-
-                //New plan
                 System.Configuration.SettingsProperty prop = new System.Configuration.SettingsProperty("datFile");
                 txtDatPath.Text = ofd1.FileName;
                 Properties.Settings.Default.datFile = txtDatPath.Text;
@@ -104,22 +92,10 @@ namespace RomSorter5WinForms
                 txtRomPath.Text = System.IO.Path.GetDirectoryName(ofd1.FileName);
                 Properties.Settings.Default.romPath = txtRomPath.Text;
                 Properties.Settings.Default.Save();
-                //progressBar1.Maximum = sorter.FilesToScanCount;
             }
         }
 
-        //For functions still in this form.
-        private async void BaseBehavior(Action<IProgress<string>> functionToRun)
-        {
-            LockButtons();
-            var files = System.IO.Directory.EnumerateFiles(txtRomPath.Text);
-            progressBar1.Maximum = files.Count();
-            progressBar1.Value = 0;
-
-            Progress<string> p = new Progress<string>(s => { lblStatus.Text = s; if (progressBar1.Value < progressBar1.Maximum) progressBar1.Value++; });
-            await Task.Factory.StartNew(() => functionToRun(p));
-            UnlockButtons();
-        }
+        
 
         //For functions moved to the shared library.
         private async void BaseBehavior(Action<IProgress<string>, string> functionToRun, string path)
