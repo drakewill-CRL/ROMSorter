@@ -142,11 +142,6 @@ namespace RomDatabase5
             var md5Matches = fileMD5s[hash.md5];
             var sha1Matches = fileSHA1s[hash.sha1];
 
-            //if all are empty, this file isnt a match
-            if (crcMatches.Count() == 0 && md5Matches.Count() == 0 && sha1Matches.Count() == 0)
-                return emptyresults;
-
-            //if all 3 match, we are good
             var allMatches = crcMatches.Intersect(md5Matches).Intersect(sha1Matches);
             if (allMatches != null && allMatches.Count() == 1) 
                 return allMatches.First();
@@ -156,10 +151,24 @@ namespace RomDatabase5
             return emptyresults;
         }
 
-        public DiscEntry findDisc(List<HashResults> hashes)
+        public List<DiscEntry> findDiscs(HashResults hashes)
+        {
+            //finds all discs with a specified file
+            List<DiscEntry> possibleMatches = new List<DiscEntry>();
+
+            var crcMatches = fileCRCs[hashes.crc];
+            //var md5Matches = fileMD5s[hashes.md5]; //MAME doesn't use these.
+            var sha1Matches = fileSHA1s[hashes.sha1];
+
+            var matchedFile = crcMatches.Intersect(sha1Matches);
+            return matchedFile.Select(m => m.parentDisc).Distinct().ToList();
+
+        }
+
+        public List<DiscEntry> findDisc(List<HashResults> hashes)
         {
             //NOTE: MAME does not use MD5s, so I MUST be able to find a game where a hash is empty. TOSEC and NOINTRO use all 3 hashes.
-            DiscEntry emptyresults = new DiscEntry();
+            List<DiscEntry> emptyresults = new List<DiscEntry>();
 
             //In addition to MAME, we might have a case like SCUMMVM, where there are several languages for a game
             //where MOST of the files across them are identical, but some aren't.  So we need to not bail immediately if we have mulitple matches.
@@ -182,7 +191,7 @@ namespace RomDatabase5
                     //We have it narrowed down to 1, lets check if all of the entries on its discentry match our hashes for an identical set.
                     var likelyDisc = matchedFile.First().parentDisc;
                     if (likelyDisc.files.All(f => hashes.Contains(f.hashes)))
-                        return likelyDisc;
+                        return matchedFile.ToList();
                 }
                 else
                 {
