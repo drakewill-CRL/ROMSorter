@@ -155,6 +155,9 @@ namespace RomSorter5WinForms
 
         private async void btnRenameMultiFile_Click(object sender, EventArgs e)
         {
+            //Initial plan for this: use same logic as single-file games, but recurse through folders
+            //Future plan: identify all files, and rename all and the parent folder as necessary. TODO all of that.
+            //Maybe this should be: rename all single files, then check to see if all files are a disc?
             if (txtDatPath.Text == "")
             {
                 MessageBox.Show("You need to supply a dat file to identify games.");
@@ -164,28 +167,108 @@ namespace RomSorter5WinForms
             //Slightly different than BaseBehavior.
             LockButtons();
             var files = System.IO.Directory.EnumerateDirectories(txtRomPath.Text);
-            if (chkZipInsteadOfFolders.Checked)
-                files = System.IO.Directory.EnumerateFiles(txtRomPath.Text);
+            //if (chkZipInsteadOfFolders.Checked) //TODO future state
+                //files = System.IO.Directory.EnumerateFiles(txtRomPath.Text);
             progressBar1.Maximum = files.Count() + 1;
             progressBar1.Value = 0;
 
             Progress<string> p = new Progress<string>(s => { lblStatus.Text = s; if (progressBar1.Value < progressBar1.Maximum) progressBar1.Value++; });
-            await Task.Factory.StartNew(() => IdentifyMultiFileGames(p));
+            //await Task.Factory.StartNew(() => IdentifyMultiFileGames(p));
+            foreach (var dir in Directory.EnumerateDirectories(txtRomPath.Text))
+            {
+                progressBar1.Value = 0;
+                await Task.Factory.StartNew(() => CoreFunctions.IdentifyLogic(p, dir, false, db)); //force to not move unidentified files for now.
+            }
+            progressBar1.Value = progressBar1.Maximum;
+            lblStatus.Text = "Complete";
             UnlockButtons();
+        }
+
+        private string recurseIdentifyFiles(string path, IProgress<string> progress)
+        {
+            List<FileEntry> foundfiles = new List<FileEntry>();
+            string errors = "";
+            var subfolders = Directory.EnumerateDirectories(path).ToList();
+            foreach (var s in subfolders)
+                recurseIdentifyFiles(s, progress);
+
+            var files = Directory.EnumerateFiles(path);
+            Hasher h = new Hasher();
+            foreach (var file in files)
+            {
+                try
+                {
+                    progress.Report(Path.GetFileName(file));
+                    //Identify it first.
+                    var hashes = h.HashFileAtPath(file);
+                    var identifiedFiles = db.findFile(hashes);
+                    if (identifiedFiles.Count == 0)
+                    {
+                        //skip this file, we are allowing extra files to exist (EX: walkthroughs or bonus content)
+                        continue;
+                    }
+                    else if (identifiedFiles.Count > 1)
+                    {
+                        //duplicate entries in DAT file, attempt to guess on filename
+                        identifiedFiles = identifiedFiles.Where(i => i.name == GuessFileName(identifiedFiles, file)).ToList();
+                    }
+
+                    var identifiedFile = identifiedFiles.FirstOrDefault().name;
+                    if (!Path.GetFullPath(file).EndsWith(identifiedFile))
+                        File.Move(file, path + "\\" + Path.GetFileName(identifiedFile));
+
+
+
+                }
+                catch (Exception ex)
+                {
+                    errors += file + ": " + ex.Message + Environment.NewLine;
+                }
+            }
+
+            return errors;
+        }
+
+        //TODO test
+        public string GuessFileName(List<FileEntry> results, string currentFilename)
+        {
+
+            //if all the name options are the same, use that.
+            if (results.Select(r => r.name).Distinct().Count() == 1)
+                return results[0].name;
+
+            //if current filename is an option, use that from the DAT to fix capitalization
+            var compareName = Path.GetFileName(currentFilename).ToLower();
+            if (results.Any(r => r.name.ToLower().EndsWith(compareName)))
+                return results.First(r => r.name.ToLower().EndsWith(compareName)).name;
+
+            //If no other hints are available, take the first name from the dat
+            return results.First().name;
+        }
+
+        //TODO test
+        public string GuessGameName(List<List<FileEntry>> results, string currentFolderName)
+        {
+            //takes in a list of all possible fileentry values for all files in the disc
+            var flatList = results.SelectMany(r => r.Select(rr => rr.parentDisc)).ToList();
+            var groupedDict = flatList.GroupBy(r => r).OrderByDescending(r => r.Count()).ToDictionary(k => k.Key, v => v.Count());
+
+            //THe first entry in the groupedDict will either be the name shared by all entries, or the most commonly found name
+            //if there's not a perfectly common one.
+            return groupedDict.First().Key.name;
         }
 
         private void IdentifyMultiFileGames(IProgress<string> progress)
         {
-            //TODO: finish fixing this.
-            //TODO: might need a toggle between 'check zip files' and 'check subfolders'
-            //writing code for 'check subfolders now', will adapt to zip files later.
+           //Simple version: 
+           //check each file for a match in the dat. If found, rename it.
+           //use the recurseIdentify function above for this.
+
+            //more complicated versions will have to come later. test this one first.
+
             var topFolders = Directory.EnumerateDirectories(txtRomPath.Text).ToList();
             Hasher h = new Hasher();
-            
 
-            //TODO: need to handle perfect matches, missing files, and extra files separately?
-            //keep in mind this will be run on MAME, SCUMMVM, and some CD format games.
-            //MAME wants exact matches. The others can live with bonus content. 
             foreach(var folder in topFolders)
             {
                 progress.Report(folder);
@@ -196,8 +279,21 @@ namespace RomSorter5WinForms
                     var hashes = h.HashFileAtPath(file);
                     currentHashes.Add(hashes);
                 }
-                var disc = db.findDisc(currentHashes);
-                progress.Report("found " + disc.name);
+                var discs = db.findDisc(currentHashes);
+                
+                //TODO: identify if there's 1 valid option this folder could be.
+                //IF SO confirm that all files on the disc are present, and then
+                //confirm all filenames are correct and change any that are not.
+
+                //If multiple discs, or no discs:
+                //add data to report file and continue on. 
+                //Possibly list the closest match and the files that are missing
+                //or the extra files that arent part of the disc.
+
+                //and move any extra files to a new Unidentified sub-folder if the checkbox is set.
+                //Probably: call a disc good and ignore extra files if 'ignore unknown' is set and all
+                //required files are present.
+
                  
             }
             progress.Report("Completed");

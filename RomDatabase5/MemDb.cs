@@ -133,22 +133,22 @@ namespace RomDatabase5
             progress.Report("Loaded " + datfile + " in " + sw.Elapsed);
         }
 
-        public FileEntry findFile(HashResults hash)
+        public List<FileEntry> findFile(HashResults hash)
         {
             //This should probably return an empty entry rather than null.
-            FileEntry emptyresults = new FileEntry();
+            //List<FileEntry> emptyresults = new List<FileEntry>();
             //NOTE: TOSEC and No-Intro use all 3 hashes. MAME skips MD5
             var crcMatches = fileCRCs[hash.crc];
             var md5Matches = fileMD5s[hash.md5];
             var sha1Matches = fileSHA1s[hash.sha1];
 
-            var allMatches = crcMatches.Intersect(md5Matches).Intersect(sha1Matches);
-            if (allMatches != null && allMatches.Count() == 1) 
-                return allMatches.First();
+            var allMatches = crcMatches.Intersect(md5Matches).Intersect(sha1Matches).ToList();
+            //if (allMatches != null && allMatches.Count() == 1) 
+                return allMatches;
 
             //ok, NOW we have some problems. Either a collision, or a missing hash entry in a dat file.
             //TODO: work out how to determine a resolution
-            return emptyresults;
+            //return emptyresults;
         }
 
         public List<DiscEntry> findDiscs(HashResults hashes)
@@ -167,6 +167,7 @@ namespace RomDatabase5
 
         public List<DiscEntry> findDisc(List<HashResults> hashes)
         {
+            //Starting simple on this: find all references to the
             //NOTE: MAME does not use MD5s, so I MUST be able to find a game where a hash is empty. TOSEC and NOINTRO use all 3 hashes.
             List<DiscEntry> emptyresults = new List<DiscEntry>();
 
@@ -191,7 +192,7 @@ namespace RomDatabase5
                     //We have it narrowed down to 1, lets check if all of the entries on its discentry match our hashes for an identical set.
                     var likelyDisc = matchedFile.First().parentDisc;
                     if (likelyDisc.files.All(f => hashes.Contains(f.hashes)))
-                        return matchedFile.ToList();
+                        return matchedFile.Select(f => f.parentDisc).Distinct().ToList();
                 }
                 else
                 {

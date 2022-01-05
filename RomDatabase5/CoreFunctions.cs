@@ -240,7 +240,6 @@ namespace RomDatabase5
             //bool useOffsets = chkUseIDOffsets.Checked;
             string errors = "";
             Hasher h = new Hasher();
-            //Sorter sorter = new Sorter();
             foreach (var file in files)
             {
                 try
@@ -248,7 +247,14 @@ namespace RomDatabase5
                     progress.Report(Path.GetFileName(file));
                     //Identify it first.
                     var hashes = h.HashFileAtPath(file);
-                    var identifiedFile = db.findFile(hashes).name;
+                    var identifiedFiles = db.findFile(hashes);
+                    if (identifiedFiles.Count > 0)
+                    {
+                        //TODO: duplicate entries in DAT file unhandled
+                        throw new Exception("multiple entries in provided DAT file for " + file);
+                    }
+
+                    var identifiedFile = identifiedFiles.FirstOrDefault().name;
                     var destFileName = (identifiedFile != "" ? identifiedFile : (moveUnidentified ? "\\Unknown\\" : "") + Path.GetFileName(file));
 
                     if (identifiedFile != destFileName)
@@ -262,6 +268,53 @@ namespace RomDatabase5
             }
 
             
+            if (errors != "")
+            {
+                progress.Report("Complete, Errors occurred: " + errors);
+            }
+            else
+                progress.Report("Complete");
+        }
+
+        public static void IdentifyLogicMultiFile(IProgress<string> progress, string path, bool moveUnidentified, MemDb db)
+        {
+            //
+            var files = System.IO.Directory.EnumerateFiles(path).ToList();
+            if (moveUnidentified)
+                Directory.CreateDirectory(path + "\\Unknown");
+
+            //bool useOffsets = chkUseIDOffsets.Checked;
+            string errors = "";
+            Hasher h = new Hasher();
+            //Sorter sorter = new Sorter();
+            foreach (var file in files)
+            {
+                try
+                {
+                    progress.Report(Path.GetFileName(file));
+                    //Identify it first.
+                    var hashes = h.HashFileAtPath(file);
+                    var identifiedFiles = db.findFile(hashes);
+                    if (identifiedFiles.Count > 0)
+                    {
+                        //TODO: duplicate entries in DAT file unhandled
+                        throw new Exception("multiple entries in provided DAT file for " + file);
+                    }
+
+                    var identifiedFile = identifiedFiles.FirstOrDefault().name; //TODO test this works as expected
+                    var destFileName = (identifiedFile != "" ? identifiedFile : (moveUnidentified ? "\\Unknown\\" : "") + Path.GetFileName(file));
+
+                    if (identifiedFile != destFileName)
+                        File.Move(file, path + "\\" + destFileName);
+
+                }
+                catch (Exception ex)
+                {
+                    errors += file + ": " + ex.Message + Environment.NewLine;
+                }
+            }
+
+
             if (errors != "")
             {
                 progress.Report("Complete, Errors occurred: " + errors);
