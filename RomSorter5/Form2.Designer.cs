@@ -195,7 +195,7 @@
             // chkUseIDOffsets
             // 
             this.chkUseIDOffsets.AutoSize = true;
-            this.chkUseIDOffsets.Location = new System.Drawing.Point(267, 244);
+            this.chkUseIDOffsets.Location = new System.Drawing.Point(317, 247);
             this.chkUseIDOffsets.Name = "chkUseIDOffsets";
             this.chkUseIDOffsets.Size = new System.Drawing.Size(156, 19);
             this.chkUseIDOffsets.TabIndex = 26;
@@ -276,7 +276,7 @@
             // chkZipInsteadOfFolders
             // 
             this.chkZipInsteadOfFolders.AutoSize = true;
-            this.chkZipInsteadOfFolders.Location = new System.Drawing.Point(258, 276);
+            this.chkZipInsteadOfFolders.Location = new System.Drawing.Point(279, 283);
             this.chkZipInsteadOfFolders.Name = "chkZipInsteadOfFolders";
             this.chkZipInsteadOfFolders.Size = new System.Drawing.Size(200, 19);
             this.chkZipInsteadOfFolders.TabIndex = 34;

@@ -184,13 +184,13 @@ namespace RomSorter5WinForms
             UnlockButtons();
         }
 
-        private string recurseIdentifyFiles(string path, IProgress<string> progress)
+        private List<FileEntry> recurseIdentifyFiles(string path, IProgress<string> progress)
         {
             List<FileEntry> foundfiles = new List<FileEntry>();
             string errors = "";
             var subfolders = Directory.EnumerateDirectories(path).ToList();
             foreach (var s in subfolders)
-                recurseIdentifyFiles(s, progress);
+                foundfiles.AddRange(recurseIdentifyFiles(s, progress));
 
             var files = Directory.EnumerateFiles(path);
             Hasher h = new Hasher();
@@ -213,12 +213,10 @@ namespace RomSorter5WinForms
                         identifiedFiles = identifiedFiles.Where(i => i.name == GuessFileName(identifiedFiles, file)).ToList();
                     }
 
-                    var identifiedFile = identifiedFiles.FirstOrDefault().name;
-                    if (!Path.GetFullPath(file).EndsWith(identifiedFile))
-                        File.Move(file, path + "\\" + Path.GetFileName(identifiedFile));
-
-
-
+                    var identifiedFile = identifiedFiles.FirstOrDefault();
+                    foundfiles.Add(identifiedFile);
+                    if (!Path.GetFullPath(file).EndsWith(identifiedFile.name))
+                        File.Move(file, path + "\\" + Path.GetFileName(identifiedFile.name));
                 }
                 catch (Exception ex)
                 {
@@ -226,8 +224,9 @@ namespace RomSorter5WinForms
                 }
             }
 
-            return errors;
+            return foundfiles;
         }
+
 
         //TODO test
         public string GuessFileName(List<FileEntry> results, string currentFilename)

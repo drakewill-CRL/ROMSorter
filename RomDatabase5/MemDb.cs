@@ -133,16 +133,17 @@ namespace RomDatabase5
             progress.Report("Loaded " + datfile + " in " + sw.Elapsed);
         }
 
-        public List<FileEntry> findFile(HashResults hash)
+        public List<FileEntry> findFile(HashResults hash, bool skipMD5 = false)
         {
             //This should probably return an empty entry rather than null.
             //List<FileEntry> emptyresults = new List<FileEntry>();
             //NOTE: TOSEC and No-Intro use all 3 hashes. MAME skips MD5
             var crcMatches = fileCRCs[hash.crc];
-            var md5Matches = fileMD5s[hash.md5];
+            var md5Matches = skipMD5 ?  null : fileMD5s[hash.md5];
             var sha1Matches = fileSHA1s[hash.sha1];
 
-            var allMatches = crcMatches.Intersect(md5Matches).Intersect(sha1Matches).ToList();
+            var allMatches = crcMatches.Intersect(sha1Matches).ToList();
+            if (!skipMD5) allMatches = allMatches.Intersect(md5Matches).ToList();
             //if (allMatches != null && allMatches.Count() == 1) 
                 return allMatches;
 
