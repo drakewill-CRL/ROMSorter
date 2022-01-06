@@ -59,7 +59,7 @@
             this.btnDetectDupes.Name = "btnDetectDupes";
             this.btnDetectDupes.Size = new System.Drawing.Size(111, 66);
             this.btnDetectDupes.TabIndex = 0;
-            this.btnDetectDupes.Text = "Detect Duplicate Files";
+            this.btnDetectDupes.Text = "Detect Duplicate (Unzipped) Files";
             this.btnDetectDupes.UseVisualStyleBackColor = true;
             this.btnDetectDupes.Click += new System.EventHandler(this.button1_Click);
             // 
@@ -231,6 +231,7 @@
             this.btnRenameMultiFile.TabIndex = 29;
             this.btnRenameMultiFile.Text = "Rename Multi-File Games (Incomplete)";
             this.btnRenameMultiFile.UseVisualStyleBackColor = true;
+            this.btnRenameMultiFile.Visible = false;
             this.btnRenameMultiFile.Click += new System.EventHandler(this.btnRenameMultiFile_Click);
             // 
             // btnCreateChds
