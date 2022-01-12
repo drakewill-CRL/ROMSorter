@@ -19,7 +19,7 @@ namespace Librarian5Console
 
         static void Main(string[] args)
         {
-            Progress<string> progress = new Progress<string>();
+            Progress<string> progress = new Progress<string>(s => Console.WriteLine(s));
             bool moveUnidentified = false;
 
             if (args.Count() == 0 || args.Any(a => a == "-help" || a == @"/h" || a == "-h"))
