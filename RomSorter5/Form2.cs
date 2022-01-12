@@ -1,15 +1,9 @@
 ﻿using RomDatabase5;
-using SharpCompress.Archives;
-using SharpCompress.Writers;
 using System;
 using System.Collections.Generic;
-using System.ComponentModel;
 using System.Data;
-using System.Drawing;
 using System.IO;
-using System.IO.Compression;
 using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
@@ -95,8 +89,6 @@ namespace RomSorter5WinForms
             }
         }
 
-        
-
         //For functions moved to the shared library.
         private async void BaseBehavior(Action<IProgress<string>, string> functionToRun, string path)
         {
@@ -155,6 +147,12 @@ namespace RomSorter5WinForms
 
         private async void btnRenameMultiFile_Click(object sender, EventArgs e)
         {
+            //Keep in mind that rename here isn't validate. Validate would be the harder function to do.
+            //this rename would have to recurse through folders and check that the path ENDS with the filename,
+            //possibly moving the file in the process, and that last bit of path manipulation is tricky.
+
+            //This may need broken up into MAME-style split/exact values and 
+            //SCUMMVM style folder hierarchy options so I quit being stuck on how to do this. 
             //Initial plan for this: use same logic as single-file games, but recurse through folders
             //Future plan: identify all files, and rename all and the parent folder as necessary. TODO all of that.
             //Maybe this should be: rename all single files, then check to see if all files are a disc?
@@ -292,11 +290,8 @@ namespace RomSorter5WinForms
                 //and move any extra files to a new Unidentified sub-folder if the checkbox is set.
                 //Probably: call a disc good and ignore extra files if 'ignore unknown' is set and all
                 //required files are present.
-
-                 
             }
             progress.Report("Completed");
-
         }
 
         private async void btnCreateChds_Click(object sender, EventArgs e)

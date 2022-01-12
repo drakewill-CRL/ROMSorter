@@ -276,7 +276,7 @@ namespace RomDatabase5
                 progress.Report("Complete");
         }
 
-        public static void IdentifyLogicMultiFile(IProgress<string> progress, string path, bool moveUnidentified, MemDb db)
+        public static void  IdentifyLogicMultiFile(IProgress<string> progress, string path, bool moveUnidentified, MemDb db)
         {
             //
             var files = System.IO.Directory.EnumerateFiles(path).ToList();
