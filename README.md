@@ -3,8 +3,8 @@ Detect and rename ROMs and other games.
 Requires .NET 6, current release (1) is Win-x64 only. Source code and console apps should run on nearly anything.
 
 Main app:
+![image](https://user-images.githubusercontent.com/46307022/149203791-32f861e7-23bd-47a6-b96b-86e587d2c4b6.png)
 
-![screenshot1](https://user-images.githubusercontent.com/46307022/146663715-1d764956-331e-4852-8f50-c82cd984bde9.png)
 
 * Zip (or convert) all files: Zip each file in the folder to a new zip file. Zip files will be re-zipped for consistency. Non-zip archive files (rar, gz/gzip, tar, 7z) will be extracted and then zipped. Should handle files of any size, in case you're working on ISO images or something.
 
