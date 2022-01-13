@@ -59,57 +59,38 @@ namespace RomDatabase5
 
         }
 
-        public async void loadDatFile(string datfile, IProgress<string> progress)
+        public async Task<bool> loadDatFile(string datfile, IProgress<string> progress)
         {
-            System.Diagnostics.Stopwatch sw = new System.Diagnostics.Stopwatch();
-            sw.Start();
-            var dat = new System.Xml.XmlDocument();
-            using (MemoryMappedFile mmf = MemoryMappedFile.CreateFromFile(datfile))
-            using (var viewStream = mmf.CreateViewStream())
+            //TODO: Only load valid DAT files
+            try
             {
-                dat.Load(viewStream);
-            }
-            var entries = dat.GetElementsByTagName("game"); //has unique games to find. ROM has each file
-            if (entries.Count == 0)
-                entries = dat.GetElementsByTagName("machine"); //MAME support requires machine, but data is still in rom entries under it.
-            if (entries.Count == 0)
-            {
-                progress.Report("No usable entries found in dat file " + datfile);
-                return;
-            }
-
-            foreach (XmlElement entry in entries)
-            {
-                var roms = entry.SelectNodes("rom");
-                if (roms.Count == 1)
+                System.Diagnostics.Stopwatch sw = new System.Diagnostics.Stopwatch();
+                sw.Start();
+                var dat = new System.Xml.XmlDocument();
+                using (MemoryMappedFile mmf = MemoryMappedFile.CreateFromFile(datfile))
+                using (var viewStream = mmf.CreateViewStream())
                 {
-                    //file
-                    XmlElement rom = (XmlElement)roms[0];
-                    FileEntry fe = new FileEntry();
-                    fe.name = rom.GetAttribute("name");
-                    //fe.description = entry.GetAttribute("name"); //Leaving out for clarity, since single-file games won't need this.
-                    fe.datfile = datfile;
-                    HashResults hashes = new HashResults();
-                    hashes.size = Int64.Parse(rom.GetAttribute("size"));
-                    hashes.crc = rom.GetAttribute("crc").ToLower();
-                    hashes.sha1 = rom.GetAttribute("sha1").ToLower();
-                    hashes.md5 = rom.GetAttribute("md5").ToLower();
-                    fe.hashes = hashes;
-
-                    files.Add(fe);
+                    dat.Load(viewStream);
                 }
-                else
+                var entries = dat.GetElementsByTagName("game"); //has unique games to find. ROM has each file
+                if (entries.Count == 0)
+                    entries = dat.GetElementsByTagName("machine"); //MAME support requires machine, but data is still in rom entries under it.
+                if (entries.Count == 0)
                 {
-                    //disc
-                    DiscEntry de = new DiscEntry();
-                    de.name = entry.GetAttribute("name"); //Will be the folder/zip name of all the files contained.
-                    //de.description = entry.GetAttribute("description");
-                    de.datfile = datfile;
-                    foreach (XmlElement rom in roms)
+                    progress.Report("No usable entries found in dat file " + datfile);
+                    return false;
+                }
+
+                foreach (XmlElement entry in entries)
+                {
+                    var roms = entry.SelectNodes("rom");
+                    if (roms.Count == 1)
                     {
+                        //file
+                        XmlElement rom = (XmlElement)roms[0];
                         FileEntry fe = new FileEntry();
-                        fe.name = entry.GetAttribute("name");
-                        //fe.description = rom.GetAttribute("name");
+                        fe.name = rom.GetAttribute("name");
+                        //fe.description = entry.GetAttribute("name"); //Leaving out for clarity, since single-file games won't need this.
                         fe.datfile = datfile;
                         HashResults hashes = new HashResults();
                         hashes.size = Int64.Parse(rom.GetAttribute("size"));
@@ -117,20 +98,49 @@ namespace RomDatabase5
                         hashes.sha1 = rom.GetAttribute("sha1").ToLower();
                         hashes.md5 = rom.GetAttribute("md5").ToLower();
                         fe.hashes = hashes;
-                        fe.parentDisc = de;
-                        de.files.Add(fe);
+
                         files.Add(fe);
                     }
+                    else
+                    {
+                        //disc
+                        DiscEntry de = new DiscEntry();
+                        de.name = entry.GetAttribute("name"); //Will be the folder/zip name of all the files contained.
+                                                              //de.description = entry.GetAttribute("description");
+                        de.datfile = datfile;
+                        foreach (XmlElement rom in roms)
+                        {
+                            FileEntry fe = new FileEntry();
+                            fe.name = entry.GetAttribute("name");
+                            //fe.description = rom.GetAttribute("name");
+                            fe.datfile = datfile;
+                            HashResults hashes = new HashResults();
+                            hashes.size = Int64.Parse(rom.GetAttribute("size"));
+                            hashes.crc = rom.GetAttribute("crc").ToLower();
+                            hashes.sha1 = rom.GetAttribute("sha1").ToLower();
+                            hashes.md5 = rom.GetAttribute("md5").ToLower();
+                            fe.hashes = hashes;
+                            fe.parentDisc = de;
+                            de.files.Add(fe);
+                            files.Add(fe);
+                        }
+                    }
                 }
+
+                //optimize lookups.
+                fileCRCs = files.ToLookup(k => k.hashes.crc, v => v);
+                fileMD5s = files.ToLookup(k => k.hashes.md5, v => v);
+                fileSHA1s = files.ToLookup(k => k.hashes.sha1, v => v);
+
+                sw.Stop();
+                progress.Report("Loaded " + datfile + " in " + sw.Elapsed);
+                return true;
             }
-
-            //optimize lookups.
-            fileCRCs = files.ToLookup(k => k.hashes.crc, v => v);
-            fileMD5s = files.ToLookup(k => k.hashes.md5, v => v);
-            fileSHA1s = files.ToLookup(k => k.hashes.sha1, v => v);
-
-            sw.Stop();
-            progress.Report("Loaded " + datfile + " in " + sw.Elapsed);
+            catch(Exception ex)
+            {
+                progress.Report("Error: " + ex.Message);
+                return false;
+            }
         }
 
         public List<FileEntry> findFile(HashResults hash, bool skipMD5 = false)

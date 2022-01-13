@@ -21,7 +21,14 @@ namespace RomSorter5WinForms
             txtRomPath.Text = Properties.Settings.Default.romPath;
 
             if (txtDatPath.Text != "")
-                LoadDatToMemDb();
+            {
+                var loaded = LoadDatToMemDb();
+                if (!loaded.Result)
+                {
+                    Properties.Settings.Default.datFile = "";
+                    Properties.Settings.Default.Save();
+                }
+            }
         }
 
         private void LockButtons()
@@ -56,13 +63,14 @@ namespace RomSorter5WinForms
             btnZipAllFiles.Enabled = true;
         }
 
-        private async void LoadDatToMemDb()
+        private async Task<bool> LoadDatToMemDb()
         {
             LockButtons();
             Progress<string> p = new Progress<string>(s => lblStatus.Text = s);
             db = new MemDb();
-            await Task.Factory.StartNew(() => db.loadDatFile(txtDatPath.Text, p));
+            var loadTask = await Task.Factory.StartNew(() => db.loadDatFile(txtDatPath.Text, p));
             UnlockButtons();
+            return loadTask.Result;
         }
 
         private void btnDatFolderSelect_Click(object sender, EventArgs e)
@@ -73,9 +81,12 @@ namespace RomSorter5WinForms
             {
                 System.Configuration.SettingsProperty prop = new System.Configuration.SettingsProperty("datFile");
                 txtDatPath.Text = ofd1.FileName;
-                Properties.Settings.Default.datFile = txtDatPath.Text;
-                Properties.Settings.Default.Save();
-                LoadDatToMemDb();
+                var loaded = LoadDatToMemDb();
+                if (loaded.Result)
+                {
+                    Properties.Settings.Default.datFile = txtDatPath.Text;
+                    Properties.Settings.Default.Save();
+                }
             }
         }
 
