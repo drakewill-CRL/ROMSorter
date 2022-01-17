@@ -18,17 +18,7 @@ namespace RomSorter5WinForms
             sorter = new Sorter();
             InitializeComponent();
             txtDatPath.Text = Properties.Settings.Default.datFile;
-            txtRomPath.Text = Properties.Settings.Default.romPath;
-
-            if (txtDatPath.Text != "")
-            {
-                var loaded = LoadDatToMemDb();
-                if (!loaded.Result)
-                {
-                    Properties.Settings.Default.datFile = "";
-                    Properties.Settings.Default.Save();
-                }
-            }
+            txtRomPath.Text = Properties.Settings.Default.romPath;   
         }
 
         private void LockButtons()
@@ -73,16 +63,15 @@ namespace RomSorter5WinForms
             return loadTask.Result;
         }
 
-        private void btnDatFolderSelect_Click(object sender, EventArgs e)
+        private async void btnDatFolderSelect_Click(object sender, EventArgs e)
         {
-            //Set the folder path box
-            //Attempt to auto-import any dat files found
+            //Set the file path for the single dat.
             if (ofd1.ShowDialog() == DialogResult.OK)
             {
                 System.Configuration.SettingsProperty prop = new System.Configuration.SettingsProperty("datFile");
                 txtDatPath.Text = ofd1.FileName;
-                var loaded = LoadDatToMemDb();
-                if (loaded.Result)
+                var loaded = await LoadDatToMemDb();
+                if (loaded)
                 {
                     Properties.Settings.Default.datFile = txtDatPath.Text;
                     Properties.Settings.Default.Save();
@@ -332,6 +321,19 @@ namespace RomSorter5WinForms
         private async void btnMakeDat_Click(object sender, EventArgs e)
         {
             BaseBehavior(CoreFunctions.DatLogic, txtRomPath.Text);
+        }
+
+        private async void Form2_Shown(object sender, EventArgs e)
+        {
+            if (txtDatPath.Text != "")
+            {
+                var loaded = await LoadDatToMemDb();
+                if (!loaded)
+                {
+                    Properties.Settings.Default.datFile = "";
+                    Properties.Settings.Default.Save();
+                }
+            }
         }
     }
 }

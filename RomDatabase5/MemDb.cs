@@ -66,11 +66,19 @@ namespace RomDatabase5
             {
                 System.Diagnostics.Stopwatch sw = new System.Diagnostics.Stopwatch();
                 sw.Start();
+                progress.Report("Loading DAT file...");
                 var dat = new System.Xml.XmlDocument();
                 using (MemoryMappedFile mmf = MemoryMappedFile.CreateFromFile(datfile))
                 using (var viewStream = mmf.CreateViewStream())
                 {
-                    dat.Load(viewStream);
+                    //if the file ends with a blank line, as NoIntro files are likely to, that must be removed before loading it.
+                    using (var sr = new System.IO.StreamReader(viewStream))
+                    {
+                        string data = sr.ReadToEnd();
+                        var length = data.LastIndexOf('>') + 1;
+                        data = data.Substring(0, length);
+                        dat.LoadXml(data);
+                    }
                 }
                 var entries = dat.GetElementsByTagName("game"); //has unique games to find. ROM has each file
                 if (entries.Count == 0)
@@ -133,7 +141,7 @@ namespace RomDatabase5
                 fileSHA1s = files.ToLookup(k => k.hashes.sha1, v => v);
 
                 sw.Stop();
-                progress.Report("Loaded " + datfile + " in " + sw.Elapsed);
+                progress.Report("Loaded " + fileCRCs.Count + " file entries in " + sw.Elapsed);
                 return true;
             }
             catch(Exception ex)
