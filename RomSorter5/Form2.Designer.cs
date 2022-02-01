@@ -51,6 +51,7 @@
             this.btnMakeDat = new System.Windows.Forms.Button();
             this.label3 = new System.Windows.Forms.Label();
             this.chkZipInsteadOfFolders = new System.Windows.Forms.CheckBox();
+            this.btn1G1R = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnDetectDupes
@@ -195,7 +196,7 @@
             // chkUseIDOffsets
             // 
             this.chkUseIDOffsets.AutoSize = true;
-            this.chkUseIDOffsets.Location = new System.Drawing.Point(317, 247);
+            this.chkUseIDOffsets.Location = new System.Drawing.Point(377, 245);
             this.chkUseIDOffsets.Name = "chkUseIDOffsets";
             this.chkUseIDOffsets.Size = new System.Drawing.Size(156, 19);
             this.chkUseIDOffsets.TabIndex = 26;
@@ -277,7 +278,7 @@
             // chkZipInsteadOfFolders
             // 
             this.chkZipInsteadOfFolders.AutoSize = true;
-            this.chkZipInsteadOfFolders.Location = new System.Drawing.Point(279, 283);
+            this.chkZipInsteadOfFolders.Location = new System.Drawing.Point(377, 270);
             this.chkZipInsteadOfFolders.Name = "chkZipInsteadOfFolders";
             this.chkZipInsteadOfFolders.Size = new System.Drawing.Size(200, 19);
             this.chkZipInsteadOfFolders.TabIndex = 34;
@@ -285,11 +286,22 @@
             this.chkZipInsteadOfFolders.UseVisualStyleBackColor = true;
             this.chkZipInsteadOfFolders.Visible = false;
             // 
+            // btn1G1R
+            // 
+            this.btn1G1R.Location = new System.Drawing.Point(246, 236);
+            this.btn1G1R.Name = "btn1G1R";
+            this.btn1G1R.Size = new System.Drawing.Size(111, 66);
+            this.btn1G1R.TabIndex = 35;
+            this.btn1G1R.Text = "Make 1G1R Set (In Progress)";
+            this.btn1G1R.UseVisualStyleBackColor = true;
+            this.btn1G1R.Click += new System.EventHandler(this.btn1G1R_Click);
+            // 
             // Form2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(485, 454);
+            this.Controls.Add(this.btn1G1R);
             this.Controls.Add(this.chkZipInsteadOfFolders);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.btnMakeDat);
@@ -313,7 +325,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btnDetectDupes);
             this.Name = "Form2";
-            this.Text = "ROMSorter (Release 3)";
+            this.Text = "ROMSorter (Release 4)";
             this.Shown += new System.EventHandler(this.Form2_Shown);
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -345,5 +357,6 @@
         private System.Windows.Forms.Button btnMakeDat;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.CheckBox chkZipInsteadOfFolders;
+        private System.Windows.Forms.Button btn1G1R;
     }
 }

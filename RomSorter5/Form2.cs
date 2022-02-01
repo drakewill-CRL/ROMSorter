@@ -214,7 +214,7 @@ namespace RomSorter5WinForms
                     var identifiedFile = identifiedFiles.FirstOrDefault();
                     foundfiles.Add(identifiedFile);
                     if (!Path.GetFullPath(file).EndsWith(identifiedFile.name))
-                        File.Move(file, path + "\\" + Path.GetFileName(identifiedFile.name));
+                        File.Move(file, path + "/" + Path.GetFileName(identifiedFile.name));
                 }
                 catch (Exception ex)
                 {
@@ -334,6 +334,38 @@ namespace RomSorter5WinForms
                     Properties.Settings.Default.Save();
                 }
             }
+        }
+
+        private async void btn1G1R_Click(object sender, EventArgs e)
+        {
+            //Notes:
+            //Dat-o-Matic P/C DATs can be used for this.
+            //each game entry without a 'cloneof' attribute is a parent.
+            //all others will be a clone of the parent listed.
+            //Will also see a <release> tag with a region available on it, to allow for additional sorting.
+
+            //ASSUMPTIONS:
+            //User already ran 'rename', so we can skip re-scanning everything and run only on file names.
+            //We will move games by preference to a 1G1R subfolder. (The alternative to preferences is whatever the dat calls a parent)
+            //We will pop-up a window to let the user pick their preferred order of 1G1R sets (so users could prioritize JPN over USA or SPN over EUR)
+            //Pass the parentClone object from MemDb into the function, which will iterate over each entry in it
+            //and pull out whichever entry the user prefers from the available filenames.
+
+            if (txtDatPath.Text == "")
+            {
+                MessageBox.Show("You need to supply a dat file to identify games.");
+                return;
+            }
+
+            LockButtons();
+            var files = System.IO.Directory.EnumerateFiles(txtRomPath.Text);
+            progressBar1.Maximum = files.Count();
+            progressBar1.Value = 0;
+
+            Progress<string> p = new Progress<string>(s => { lblStatus.Text = s; if (progressBar1.Value < progressBar1.Maximum) progressBar1.Value++; });
+            //TODO: get region prefs from pop-up window
+            await Task.Factory.StartNew(() => CoreFunctions.OneGameOneRomSort(p, txtRomPath.Text, db, new List<string>() {"USA", "JPN", "EUR" }));
+            UnlockButtons();
         }
     }
 }

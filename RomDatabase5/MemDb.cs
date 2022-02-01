@@ -31,6 +31,24 @@ namespace RomDatabase5
         }
     }
 
+    public class ParentCloneInfo
+    {
+        public string name { get; set; } //the name of the Game entry in the DAT
+        public string fileName { get; set; } // name of the ROM entry in the DAT.
+        public string region { get; set; }
+        public List<ParentCloneInfo> Clones { get; set; } = new List<ParentCloneInfo>();
+
+        public ParentCloneInfo Copy()
+        {
+            return (ParentCloneInfo) this.MemberwiseClone();
+        }
+
+        public override string ToString()
+        {
+            return name + " | " + Clones.Count(); ;
+        }
+    }
+
     public class MemDb
     {
         //Next refactor of the DB logic.
@@ -53,6 +71,11 @@ namespace RomDatabase5
         //ILookup<string, DiscEntry> discCRCs;
         //ILookup<string, DiscEntry> discMD5s;
         //ILookup<string, DiscEntry> discSHA1s;
+
+        //Dictionary<string, List<string>> parentClones = new Dictionary<string, List<string>>();
+        //List<string> regions = new List<string>();
+
+        public List<ParentCloneInfo> parentClones = new List<ParentCloneInfo>();
 
         public MemDb()
         {
@@ -92,6 +115,29 @@ namespace RomDatabase5
                 foreach (XmlElement entry in entries)
                 {
                     var roms = entry.SelectNodes("rom");
+
+                    ParentCloneInfo pci = new ParentCloneInfo();
+                    pci.name = entry.GetAttribute("name");
+                    pci.fileName = ((XmlElement)roms[0]).GetAttribute("name");
+                    var release = (XmlElement)entry.SelectNodes("release")[0];
+                    if (release != null)
+                    {
+                        pci.region = release.GetAttribute("region");
+                    }
+
+                    var isClone = entry.GetAttribute("cloneof");
+                    if (isClone != "") // is a clone
+                    {
+                        parentClones.FirstOrDefault(p => p.name == isClone).Clones.Add(pci);
+                    }
+                    else //is the parent.
+                    {
+                        var selfEntry = pci.Copy();
+                        pci.Clones.Add(selfEntry);
+                        parentClones.Add(pci);
+                    }
+
+                    
                     if (roms.Count == 1)
                     {
                         //file

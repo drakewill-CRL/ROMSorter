@@ -28,7 +28,7 @@ namespace Librarian5Console
                 Console.WriteLine("Option Flags:");
                 Console.WriteLine("-targetFolder:\"path\" (Required) || the folder full of files you want to operate on");
                 Console.WriteLine("-datfile:\"path\" || The DAT file to use for identifying/renaming commands.");
-                Console.WriteLine("-moveUnidentified || Takes files that aren't found in a DAT and moves them to a \\Unidentified sub-folder.");
+                Console.WriteLine("-moveUnidentified || Takes files that aren't found in a DAT and moves them to a /Unidentified sub-folder.");
                 Console.WriteLine("Commands:");
                 Console.WriteLine(@"-help or /h or no args || Display this list of valid commands.");
                 Console.WriteLine("-detectDupes || Confirm all files are unique, moves duplicates to a subfolder");

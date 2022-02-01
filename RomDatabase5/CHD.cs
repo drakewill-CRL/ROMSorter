@@ -17,7 +17,7 @@ namespace RomDatabase5
         public bool CreateChd(string name)
         {
             //Its possible that i would need to read through the .cue file to find which other files to remove when done.
-            string destFileName = Path.GetDirectoryName(name) + "\\" + Path.GetFileNameWithoutExtension(name) + ".chd";
+            string destFileName = Path.GetDirectoryName(name) + "/" + Path.GetFileNameWithoutExtension(name) + ".chd";
             var command = "createcd -i \"" + name + "\" -o \"" + destFileName + "\"";
             bool success = RunChdmanCommand("createcd -i \"" + name + "\" -o \"" + Path.GetFileNameWithoutExtension(name) + ".chd\"");
 
@@ -39,8 +39,8 @@ namespace RomDatabase5
                 string baseName = Path.GetFileNameWithoutExtension(name);
                 string destFolder = Path.GetDirectoryName(name);
                 //these files will be in the starting directory for no good reason.
-                File.Move(baseName + ".bin", destFolder + "\\" + baseName + ".bin");
-                File.Move(baseName + ".cue", destFolder + "\\" + baseName + ".cue");
+                File.Move(baseName + ".bin", destFolder + "/" + baseName + ".bin");
+                File.Move(baseName + ".cue", destFolder + "/" + baseName + ".cue");
             }
 
             return success;
@@ -49,7 +49,9 @@ namespace RomDatabase5
         public bool RunChdmanCommand(string command)
         {
             Process chdman = new Process();
-            chdman.StartInfo.FileName = "chdman.exe"; //TODO: remove extention on linux/mac
+            chdman.StartInfo.FileName = "chdman.exe";
+            if (Environment.OSVersion.Platform == PlatformID.Unix)
+                chdman.StartInfo.FileName = "chdman";
             chdman.StartInfo.Arguments = command; 
             chdman.StartInfo.UseShellExecute = false;
             chdman.StartInfo.CreateNoWindow = true;

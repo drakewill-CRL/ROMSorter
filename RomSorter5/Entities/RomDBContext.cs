@@ -24,7 +24,7 @@ namespace RomSorter5.EntitiesForce
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlite("Data Source=.\\RomDB.sqlite");
+                optionsBuilder.UseSqlite("Data Source=./RomDB.sqlite");
             }
         }
 

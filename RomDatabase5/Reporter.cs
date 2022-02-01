@@ -23,7 +23,7 @@ namespace RomDatabase5
             sb.Append(ScanFolder(folder, p, multithread) + Environment.NewLine);
             sb.Append("Report completed at " + DateTime.Now.ToString() + Environment.NewLine);
 
-            File.WriteAllText(folder + "\\RomSorterReport.txt", sb.ToString());
+            File.WriteAllText(folder + "/RomSorterReport.txt", sb.ToString());
         }
 
         static LookupEntry GetFileHashes(string file)

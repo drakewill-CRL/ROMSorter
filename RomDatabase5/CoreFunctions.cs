@@ -22,7 +22,7 @@ namespace RomDatabase5
             Dictionary<string, string> sha1Hashes = new Dictionary<string, string>();
             bool foundDupe = false;
             Hasher h = new Hasher();
-            Directory.CreateDirectory(path + "\\Duplicates");
+            Directory.CreateDirectory(path + "/Duplicates");
             foreach (var file in Directory.EnumerateFiles(path))
             {
                 var filename = Path.GetFileNameWithoutExtension(file);
@@ -35,9 +35,9 @@ namespace RomDatabase5
                     // this is a dupe, we hit on all 3 hashes.
                     foundDupe = true;
                     var origName = crcHashes[results.crc];
-                    var dirName = path + "\\Duplicates\\" + origName.Replace("(", "").Replace(")", "").Trim();
+                    var dirName = path + "/Duplicates/" + origName.Replace("(", "").Replace(")", "").Trim();
                     Directory.CreateDirectory(dirName);
-                    File.Move(file, dirName + "\\" + Path.GetFileName(file));
+                    File.Move(file, dirName + "/" + Path.GetFileName(file));
                 }
                 crcHashes.TryAdd(results.crc, filename);
                 md5Hashes.TryAdd(results.md5, filename);
@@ -119,7 +119,7 @@ namespace RomDatabase5
                 //fs.Close(); fs.Dispose();
                 zf.Dispose();
                 zfs.Close(); zfs.Dispose();
-                File.Move(tempfilename, Path.GetDirectoryName(file) + "\\" + Path.GetFileNameWithoutExtension(file) + ".zip", true);
+                File.Move(tempfilename, Path.GetDirectoryName(file) + "/" + Path.GetFileNameWithoutExtension(file) + ".zip", true);
                 if (!file.EndsWith(".zip")) //we just overwrote this file, don't remove it.
                     File.Delete(file);
                 count++;
@@ -130,7 +130,7 @@ namespace RomDatabase5
         public static void Catalog(IProgress<string> progress, string path)
         {
             //Hash all files in directory, write results to a tab-separated values file 
-            FileStream fs = File.OpenWrite(path + "\\catalog.tsv");
+            FileStream fs = File.OpenWrite(path + "/catalog.tsv");
             StreamWriter sw = new StreamWriter(fs);
             sw.WriteLine("name\tmd5\tsha1\tcrc\tsize");
             Hasher hasher = new Hasher();
@@ -148,7 +148,7 @@ namespace RomDatabase5
         public static void Verify(IProgress<string> progress, string path)
         {
             bool alert = false;
-            var files = File.ReadAllLines(path + "\\catalog.tsv");
+            var files = File.ReadAllLines(path + "/catalog.tsv");
             var foundfiles = new List<string>();
             var filesInFolder = Directory.EnumerateFiles(path).Where(s => Path.GetFileName(s) != "catalog.tsv").Select(s => Path.GetFileName(s)).ToList();
             Hasher hasher = new Hasher();
@@ -167,20 +167,20 @@ namespace RomDatabase5
                     else
                     {
                         alert = true;
-                        File.AppendAllText(path + "\\report.txt", vals[0] + " did not match:" + vals[1] + "|" + hashes.md5 + " " + vals[2] + "|" + hashes.sha1 + " " + vals[3] + "|" + hashes.crc + " " + vals[4] + "|" + hashes.size);
+                        File.AppendAllText(path + "/report.txt", vals[0] + " did not match:" + vals[1] + "|" + hashes.md5 + " " + vals[2] + "|" + hashes.sha1 + " " + vals[3] + "|" + hashes.crc + " " + vals[4] + "|" + hashes.size);
                     }
                 }
                 catch (Exception ex)
                 {
                     alert = true;
-                    File.AppendAllText(path + "\\report.txt", "Error checking on " + vals[0] + ":" + ex.Message);
+                    File.AppendAllText(path + "/report.txt", "Error checking on " + vals[0] + ":" + ex.Message);
                 }
             }
 
             var missingfiles = filesInFolder.Except(foundfiles);
             foreach (var fif in missingfiles)
             {
-                File.AppendAllText(path + "\\report.txt", "File " + fif + " not found in catalog");
+                File.AppendAllText(path + "/report.txt", "File " + fif + " not found in catalog");
             }
             if (!alert && missingfiles.Count() == 0)
                 progress.Report("Complete, all files verified");
@@ -235,7 +235,7 @@ namespace RomDatabase5
         {
             var files = System.IO.Directory.EnumerateFiles(path).ToList();
             if (moveUnidentified)
-                Directory.CreateDirectory(path + "\\Unknown");
+                Directory.CreateDirectory(path + "/Unknown");
 
             //bool useOffsets = chkUseIDOffsets.Checked;
             string errors = "";
@@ -255,10 +255,10 @@ namespace RomDatabase5
                     }
 
                     var identifiedFile = identifiedFiles.FirstOrDefault().name;
-                    var destFileName = (identifiedFile != "" ? identifiedFile : (moveUnidentified ? "\\Unknown\\" : "") + Path.GetFileName(file));
+                    var destFileName = (identifiedFile != "" ? identifiedFile : (moveUnidentified ? "/Unknown/" : "") + Path.GetFileName(file));
 
                     if (identifiedFile != destFileName)
-                        File.Move(file, path + "\\" + destFileName);
+                        File.Move(file, path + "/" + destFileName);
 
                 }
                 catch (Exception ex)
@@ -267,7 +267,7 @@ namespace RomDatabase5
                 }
             }
 
-            
+
             if (errors != "")
             {
                 progress.Report("Complete, Errors occurred: " + errors);
@@ -276,17 +276,16 @@ namespace RomDatabase5
                 progress.Report("Complete");
         }
 
-        public static void  IdentifyLogicMultiFile(IProgress<string> progress, string path, bool moveUnidentified, MemDb db)
+        public static void IdentifyLogicMultiFile(IProgress<string> progress, string path, bool moveUnidentified, MemDb db)
         {
             //
             var files = System.IO.Directory.EnumerateFiles(path).ToList();
             if (moveUnidentified)
-                Directory.CreateDirectory(path + "\\Unknown");
+                Directory.CreateDirectory(path + "/Unknown");
 
             //bool useOffsets = chkUseIDOffsets.Checked;
             string errors = "";
             Hasher h = new Hasher();
-            //Sorter sorter = new Sorter();
             foreach (var file in files)
             {
                 try
@@ -302,10 +301,10 @@ namespace RomDatabase5
                     }
 
                     var identifiedFile = identifiedFiles.FirstOrDefault().name; //TODO test this works as expected
-                    var destFileName = (identifiedFile != "" ? identifiedFile : (moveUnidentified ? "\\Unknown\\" : "") + Path.GetFileName(file));
+                    var destFileName = (identifiedFile != "" ? identifiedFile : (moveUnidentified ? "/Unknown/" : "") + Path.GetFileName(file));
 
                     if (identifiedFile != destFileName)
-                        File.Move(file, path + "\\" + destFileName);
+                        File.Move(file, path + "/" + destFileName);
 
                 }
                 catch (Exception ex)
@@ -321,6 +320,36 @@ namespace RomDatabase5
             }
             else
                 progress.Report("Complete");
+        }
+
+        public static void OneGameOneRomSort(IProgress<string> progress, string path, MemDb db, List<string> regionPrefs)
+        {
+            var files = Directory.EnumerateFiles(path);
+            Directory.CreateDirectory(path + "/1G1R/");
+
+            foreach (var pciSet in db.parentClones)
+            {
+                if (pciSet.Clones.Count == 1)
+                {
+                    if (File.Exists(path + "/" + pciSet.fileName))
+                    {
+                        File.Move(path + "/" + pciSet.fileName, path + "/1G1R/" + pciSet.fileName);
+                    }
+                }
+                else
+                    foreach (string pref in regionPrefs)
+                    {
+                        var clone = pciSet.Clones.FirstOrDefault(c => c.region == pref);
+                        if (clone != null)
+                        {
+                            if (File.Exists(path + "/" + clone.fileName))
+                            {
+                                File.Move(path + "/" + clone.fileName, path + "/1G1R/" + clone.fileName);
+                                break;
+                            }
+                        }
+                    }
+            }
         }
     }
 }
