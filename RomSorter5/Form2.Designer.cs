@@ -188,9 +188,9 @@
             this.chkMoveUnidentified.AutoSize = true;
             this.chkMoveUnidentified.Location = new System.Drawing.Point(12, 61);
             this.chkMoveUnidentified.Name = "chkMoveUnidentified";
-            this.chkMoveUnidentified.Size = new System.Drawing.Size(219, 19);
+            this.chkMoveUnidentified.Size = new System.Drawing.Size(303, 19);
             this.chkMoveUnidentified.TabIndex = 25;
-            this.chkMoveUnidentified.Text = "Move unidentified files to sub-folder";
+            this.chkMoveUnidentified.Text = "Move unidentified files to sub-folder during Rename";
             this.chkMoveUnidentified.UseVisualStyleBackColor = true;
             // 
             // chkUseIDOffsets

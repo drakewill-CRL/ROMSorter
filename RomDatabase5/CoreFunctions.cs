@@ -329,6 +329,7 @@ namespace RomDatabase5
 
             foreach (var pciSet in db.parentClones)
             {
+                progress.Report(pciSet.name);
                 if (pciSet.Clones.Count == 1)
                 {
                     if (File.Exists(path + "/" + pciSet.fileName))
@@ -350,6 +351,8 @@ namespace RomDatabase5
                         }
                     }
             }
+
+            progress.Report("Done! Check the /1G1R folder for your set.");
         }
     }
 }

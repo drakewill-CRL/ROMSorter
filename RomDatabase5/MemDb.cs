@@ -35,7 +35,7 @@ namespace RomDatabase5
     {
         public string name { get; set; } //the name of the Game entry in the DAT
         public string fileName { get; set; } // name of the ROM entry in the DAT.
-        public string region { get; set; }
+        public string region { get; set; } = "";
         public List<ParentCloneInfo> Clones { get; set; } = new List<ParentCloneInfo>();
 
         public ParentCloneInfo Copy()
@@ -61,7 +61,7 @@ namespace RomDatabase5
         //-will report progress via a Progress<string> object. 
         //-will probably replace DatImporter AND Sorter entirely. -OK?
 
-        List<FileEntry> files = new List<FileEntry>();
+        public List<FileEntry> files = new List<FileEntry>();
         List<DiscEntry> discs = new List<DiscEntry>();
 
         ILookup<string, FileEntry> fileCRCs;
