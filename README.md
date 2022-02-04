@@ -4,7 +4,7 @@ Requires .NET 6. current release for ROMSorter (2) is Win-x64 only. Librarian is
 
 Main app:
 
-![image](https://user-images.githubusercontent.com/46307022/152561363-aa8cfee9-29b5-4c56-ad1d-8e45b3d23e63.png)
+![image](https://user-images.githubusercontent.com/46307022/152562490-ed44a368-0ea3-43b5-84dd-0c22e2330951.png)
 
 
 * Zip (or convert) all files: Zip each file in the folder to a new zip file. Zip files will be re-zipped for consistency. Non-zip archive files (rar, gz/gzip, tar, 7z) will be extracted and then zipped. Should handle files of any size, in case you're working on ISO images or something.
