@@ -3,7 +3,7 @@ Detect and rename ROMs and other games.
 Requires .NET 6. current release for ROMSorter (2) is Win-x64 only. Librarian is available for all platforms.
 
 Main app:
-![image](https://user-images.githubusercontent.com/46307022/149203791-32f861e7-23bd-47a6-b96b-86e587d2c4b6.png)
+![image](https://user-images.githubusercontent.com/46307022/152561363-aa8cfee9-29b5-4c56-ad1d-8e45b3d23e63.png)
 
 
 * Zip (or convert) all files: Zip each file in the folder to a new zip file. Zip files will be re-zipped for consistency. Non-zip archive files (rar, gz/gzip, tar, 7z) will be extracted and then zipped. Should handle files of any size, in case you're working on ISO images or something.
@@ -24,3 +24,6 @@ Main app:
 
 * Extract CHD Files: Converts CHD files back to BIN/CUE format. Requires chdman to be in the same folder as the main application, included with the Windows apps. Linux users will need to supply their own chdman executable
 
+* 1G1R Sort: Make a 1 Game, 1 ROM (1G1R) set based on a Parent/Clone DAT. Lets you pick priority on which regions should be taken when multiple ones are present. Pops up a list of regions available and asks you to set the order for them. Will inform you if your DAT is not the correct format for this to succeed. 
+
+* Everdrive Sort: For hardware devices like the Everdrive with a low cap on maximum files per folder. Makes a sub-folder for each letter, and moves files into the appropriate folder. Unzip and rename files first for best results.
