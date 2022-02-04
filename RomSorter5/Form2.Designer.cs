@@ -307,7 +307,7 @@
             this.btn1G1R.Name = "btn1G1R";
             this.btn1G1R.Size = new System.Drawing.Size(206, 141);
             this.btn1G1R.TabIndex = 35;
-            this.btn1G1R.Text = "Make 1G1R Set (In Progress)";
+            this.btn1G1R.Text = "Make 1G1R Set";
             this.btn1G1R.UseVisualStyleBackColor = true;
             this.btn1G1R.Click += new System.EventHandler(this.btn1G1R_Click);
             // 
