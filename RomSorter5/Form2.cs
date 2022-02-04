@@ -36,6 +36,7 @@ namespace RomSorter5WinForms
             btnVerify.Enabled=false;
             btnZipAllFiles.Enabled=false;
             btn1G1R.Enabled = false;
+            btnEverdrive.Enabled = false;
         }
 
         private void UnlockButtons()
@@ -53,6 +54,7 @@ namespace RomSorter5WinForms
             btnVerify.Enabled = true;
             btnZipAllFiles.Enabled = true;
             btn1G1R.Enabled = true;
+            btnEverdrive.Enabled = true;
         }
 
         private async Task<bool> LoadDatToMemDb()
@@ -365,6 +367,19 @@ namespace RomSorter5WinForms
 
             Progress<string> p = new Progress<string>(s => { lblStatus.Text = s; if (progressBar1.Value < progressBar1.Maximum) progressBar1.Value++; });
             await Task.Factory.StartNew(() => CoreFunctions.OneGameOneRomSort(p, txtRomPath.Text, db, formRP.entries));
+            UnlockButtons();
+        }
+
+        private async void btnEverdrive_Click(object sender, EventArgs e)
+        {
+            //Progress bar is different here, goes by letter rather than individual file.
+            var files = Directory.EnumerateFiles(txtRomPath.Text).ToList();
+            var letters = files.Select(f => System.IO.Path.GetFileName(f).ToUpper().Substring(0, 1)).Distinct().ToList(); //pick first letter.
+            progressBar1.Maximum = letters.Count();
+
+            LockButtons();
+            Progress<string> p = new Progress<string>(s => { lblStatus.Text = s; if (progressBar1.Value < progressBar1.Maximum) progressBar1.Value++; });
+            await Task.Factory.StartNew(() => CoreFunctions.EverdriveSort(p, txtRomPath.Text));
             UnlockButtons();
         }
     }

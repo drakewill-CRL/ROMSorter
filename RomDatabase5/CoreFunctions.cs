@@ -354,5 +354,29 @@ namespace RomDatabase5
 
             progress.Report("Done! Check the /1G1R folder for your set.");
         }
+
+        public static void EverdriveSort(IProgress<string> progress, string path)
+        {
+            //Everdrive sort.
+            //assume that the picked folder is the destination and already sorted/IDed.
+            //Also, all items are in one folder.
+
+            var fileList = System.IO.Directory.EnumerateFiles(path);
+            fileList = fileList.Select(f => System.IO.Path.GetFileName(f)).ToList();
+
+            //Create folders for each letter
+            var letters = fileList.Select(f => System.IO.Path.GetFileName(f).ToUpper().Substring(0, 1)).Distinct().ToList(); //pick first letter.
+            foreach (var l in letters)
+            {
+                progress.Report(l);
+                System.IO.Directory.CreateDirectory(path+ "/" + l);
+
+                var filesToMove = fileList.Where(f => f.StartsWith(l) || f.StartsWith(l.ToLower())).ToList();
+                foreach (var rf in filesToMove)
+                    System.IO.File.Move(path + "/" + rf, path + "/" + l + "/" + rf);
+            }
+
+            progress.Report("Everdrive Sort completed.");
+        }
     }
 }

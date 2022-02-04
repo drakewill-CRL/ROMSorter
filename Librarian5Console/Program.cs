@@ -45,6 +45,7 @@ namespace Librarian5Console
                 Console.WriteLine("-makeDat || Create a DAT file from the given folder usable in other ROM managers");
                 Console.WriteLine("-renameSingleFiles or -identify || Renames files in the folder to match their entry in the loaded DAT file");
                 Console.WriteLine("-1G1R || Pulls out a single release of each unique game based on your regionOrder preferences");
+                Console.WriteLine("-everdrive || Moves files into subfolders by initial letter of the filename.");
                 return;
             }
 
@@ -127,6 +128,11 @@ namespace Librarian5Console
             if (args.Any(a => a == "-1G1R"))
             {
                 CoreFunctions.OneGameOneRomSort(progress, workingPath, memdb, regionOrder);
+            }
+
+            if (args.Any(a => a == "-everdrive"))
+            {
+                CoreFunctions.EverdriveSort(progress, workingPath);
             }
         }
 
