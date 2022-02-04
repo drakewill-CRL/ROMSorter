@@ -1,6 +1,6 @@
 # ROMSorter
 Detect and rename ROMs and other games.
-Requires .NET 6. current release for ROMSorter (2) is Win-x64 only. Librarian is available for all platforms.
+Requires .NET 6. current release for ROMSorteris Win-x64 only. Librarian is available for all platforms.
 
 Main app:
 
