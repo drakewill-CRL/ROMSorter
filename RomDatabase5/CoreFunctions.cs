@@ -192,6 +192,11 @@ namespace RomDatabase5
 
         public static void CreateChdLogic(IProgress<string> progress, string path)
         {
+            foreach (var folder in Directory.EnumerateDirectories(path))
+            {
+                CreateChdLogic(progress, folder);
+            }
+
             foreach (var cue in Directory.EnumerateFiles(path).Where(f => f.EndsWith(".cue") || f.EndsWith(".iso")))
             {
                 progress.Report(cue);
@@ -213,6 +218,11 @@ namespace RomDatabase5
 
         public static void ExtractChdLogic(IProgress<string> progress, string path)
         {
+            foreach (var folder in Directory.EnumerateDirectories(path))
+            {
+                ExtractChdLogic(progress, folder);
+            }
+
             foreach (var chd in Directory.EnumerateFiles(path).Where(f => f.EndsWith(".chd")).ToList())
             {
                 progress.Report(chd);
@@ -369,7 +379,7 @@ namespace RomDatabase5
             foreach (var l in letters)
             {
                 progress.Report(l);
-                System.IO.Directory.CreateDirectory(path+ "/" + l);
+                System.IO.Directory.CreateDirectory(path + "/" + l);
 
                 var filesToMove = fileList.Where(f => f.StartsWith(l) || f.StartsWith(l.ToLower())).ToList();
                 foreach (var rf in filesToMove)
