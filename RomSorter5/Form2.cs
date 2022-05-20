@@ -298,27 +298,56 @@ namespace RomSorter5WinForms
             progress.Report("Completed");
         }
 
+        private int CountConvertingFilesRecursive(string path)
+        {
+            int fileCount = 0;
+            foreach (var folder in (Directory.EnumerateDirectories(path)))
+            {
+                fileCount += CountConvertingFilesRecursive(folder);
+            }
+
+            return fileCount + Directory.EnumerateFiles(path).Where(f => f.EndsWith(".cue") || f.EndsWith(".iso")).Count();
+        }
+
+        private int CountCHDFilesRecursive(string path)
+        {
+            int fileCount = 0;
+            foreach (var folder in (Directory.EnumerateDirectories(path)))
+            {
+                fileCount += CountCHDFilesRecursive(folder);
+            }
+
+            return fileCount + Directory.EnumerateFiles(path).Where(f => f.EndsWith(".chd")).Count();
+        }
+
         private async void btnCreateChds_Click(object sender, EventArgs e)
         {
             LockButtons();
-            var files = System.IO.Directory.EnumerateFiles(txtRomPath.Text).Where(f => f.EndsWith(".cue") || f.EndsWith(".iso")); //Differs from BaseBehavior.
-            progressBar1.Maximum = files.Count() + 1;
+            int fileCount = CountConvertingFilesRecursive(txtRomPath.Text);
+            
+
+            progressBar1.Maximum = fileCount + 1; //files.Count() + 1;
             progressBar1.Value = 0;
 
             Progress<string> p = new Progress<string>(s => { lblStatus.Text = s; if (progressBar1.Value < progressBar1.Maximum) progressBar1.Value++; });
             await Task.Factory.StartNew(() => CoreFunctions.CreateChdLogic(p, txtRomPath.Text));
+            progressBar1.Value = progressBar1.Maximum;
+            lblStatus.Text = "Complete";
             UnlockButtons();
         }
 
         private async void btnExtractChds_Click(object sender, EventArgs e)
         {
             LockButtons();
-            var files = System.IO.Directory.EnumerateFiles(txtRomPath.Text).Where(f => f.EndsWith(".chd")); //Differs from BaseBehavior.
-            progressBar1.Maximum = files.Count() + 1;
+            //var files = System.IO.Directory.EnumerateFiles(txtRomPath.Text).Where(f => f.EndsWith(".chd")); //Differs from BaseBehavior.
+            int fileCount = CountCHDFilesRecursive(txtRomPath.Text);
+            progressBar1.Maximum = fileCount + 1;
             progressBar1.Value = 0;
 
             Progress<string> p = new Progress<string>(s => { lblStatus.Text = s; if (progressBar1.Value < progressBar1.Maximum) progressBar1.Value++; });
             await Task.Factory.StartNew(() => CoreFunctions.ExtractChdLogic(p, txtRomPath.Text));
+            progressBar1.Value = progressBar1.Maximum;
+            lblStatus.Text = "Complete";
             UnlockButtons();
         }
 

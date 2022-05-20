@@ -208,12 +208,12 @@ namespace RomDatabase5
                         //find referenced files that were pulled in by the cue
                         var bins = Helpers.FindBinsInCue(cue);
                         foreach (var b in bins)
-                            File.Delete(b);
+                            File.Delete(path + "/" + b);
                     }
                     File.Delete(cue);
                 }
             }
-            progress.Report("Complete");
+            //progress.Report("Complete");
         }
 
         public static void ExtractChdLogic(IProgress<string> progress, string path)
@@ -232,7 +232,7 @@ namespace RomDatabase5
                     File.Delete(chd);
                 }
             }
-            progress.Report("Complete");
+            //progress.Report("Complete");
         }
 
         public static void DatLogic(IProgress<string> progress, string path)
