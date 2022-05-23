@@ -411,5 +411,19 @@ namespace RomSorter5WinForms
             await Task.Factory.StartNew(() => CoreFunctions.EverdriveSort(p, txtRomPath.Text));
             UnlockButtons();
         }
+
+        private async void btnCreateM3uPlaylists_Click(object sender, EventArgs e)
+        {
+            var files = Directory.EnumerateFiles(txtRomPath.Text)
+                .Where(x => x.Contains("disc 1", StringComparison.CurrentCultureIgnoreCase)
+                && (x.Contains(".chd") || x.Contains(".iso") || x.Contains(".cue")))
+                .ToList();
+            progressBar1.Maximum = files.Count;
+
+            LockButtons();
+            Progress<string> p = new Progress<string>(s => { lblStatus.Text = s; if (progressBar1.Value < progressBar1.Maximum) progressBar1.Value++; });
+            await Task.Factory.StartNew(() => CoreFunctions.CreateM3uPlaylists(p, txtRomPath.Text));
+            UnlockButtons();
+        }
     }
 }

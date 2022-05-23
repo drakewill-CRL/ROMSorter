@@ -388,5 +388,41 @@ namespace RomDatabase5
 
             progress.Report("Everdrive Sort completed.");
         }
+
+        /// <summary>
+        /// Finds any disk images with "disk 1" in the name, then finds any other images 
+        /// with the same name and writes them to a .m3u file
+        /// </summary>
+        /// <param name="progress"></param>
+        /// <param name="path"></param>
+        public static void CreateM3uPlaylists(IProgress<string> progress, string path)
+        {
+            var fileList = System.IO.Directory.EnumerateFiles(path)            
+                .Where(x => x.Contains("disc 1", StringComparison.CurrentCultureIgnoreCase) 
+                && (x.Contains(".chd") || x.Contains(".iso") || x.Contains(".cue")))
+                .ToList();
+
+            foreach(var file in fileList)
+            {
+                progress.Report(file);
+                var fullTitle = System.IO.Path.GetFileName(file);
+                var titlePosition = fullTitle.IndexOf("disc", StringComparison.InvariantCultureIgnoreCase);
+                var partialTitle = fullTitle.Substring(0, titlePosition);
+
+                var diskFiles = System.IO.Directory.EnumerateFiles(path)
+                .Where(x => x.Contains(partialTitle, StringComparison.CurrentCultureIgnoreCase) 
+                && (x.Contains(".chd") || x.Contains(".iso") || x.Contains(".cue")))
+                .OrderBy(x => x)
+                .Select(x => Path.GetFileName(x))
+                .ToList();
+
+                var filename = $"{partialTitle.Trim('(', '[', ' ')}.m3u";
+                var outputFilePath = $"{Path.GetDirectoryName(file)}{Path.DirectorySeparatorChar}{filename}";
+
+                File.WriteAllLines(outputFilePath, diskFiles);
+            }
+
+            progress.Report($"M3U playlists created for {fileList.Count} game(s)");
+        }
     }
 }
