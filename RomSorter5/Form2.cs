@@ -18,7 +18,10 @@ namespace RomSorter5WinForms
             sorter = new Sorter();
             InitializeComponent();
             txtDatPath.Text = Properties.Settings.Default.datFile;
-            txtRomPath.Text = Properties.Settings.Default.romPath;   
+            if (Directory.Exists(Properties.Settings.Default.romPath))
+                txtRomPath.Text = Properties.Settings.Default.romPath;
+            else
+                txtRomPath.Text = Directory.GetCurrentDirectory();
         }
 
         private void LockButtons()
@@ -37,6 +40,7 @@ namespace RomSorter5WinForms
             btnZipAllFiles.Enabled=false;
             btn1G1R.Enabled = false;
             btnEverdrive.Enabled = false;
+            btnCreateM3uPlaylists.Enabled=false;
         }
 
         private void UnlockButtons()
@@ -55,6 +59,7 @@ namespace RomSorter5WinForms
             btnZipAllFiles.Enabled = true;
             btn1G1R.Enabled = true;
             btnEverdrive.Enabled = true;
+            btnCreateM3uPlaylists.Enabled = true;
         }
 
         private async Task<bool> LoadDatToMemDb()
