@@ -76,6 +76,7 @@
             this.txtDatPath.Name = "txtDatPath";
             this.txtDatPath.Size = new System.Drawing.Size(280, 23);
             this.txtDatPath.TabIndex = 15;
+            this.txtDatPath.Leave += new System.EventHandler(this.txtDatPath_Leave);
             // 
             // btnDatFolderSelect
             // 
@@ -366,7 +367,7 @@
             this.Controls.Add(this.btnDetectDupes);
             this.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.Name = "Form2";
-            this.Text = "ROMSorter (Release 4)";
+            this.Text = "ROMSorter (Release 6)";
             this.Shown += new System.EventHandler(this.Form2_Shown);
             this.ResumeLayout(false);
             this.PerformLayout();

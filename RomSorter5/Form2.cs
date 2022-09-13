@@ -18,10 +18,13 @@ namespace RomSorter5WinForms
             sorter = new Sorter();
             InitializeComponent();
             txtDatPath.Text = Properties.Settings.Default.datFile;
+
             if (Directory.Exists(Properties.Settings.Default.romPath))
                 txtRomPath.Text = Properties.Settings.Default.romPath;
             else
                 txtRomPath.Text = Directory.GetCurrentDirectory();
+
+             lblStatus.Text = db.files.Count + " loaded from defaults.";
         }
 
         private void LockButtons()
@@ -372,6 +375,21 @@ namespace RomSorter5WinForms
                     Properties.Settings.Default.Save();
                 }
             }
+            else
+            {
+                Task.Factory.StartNew(LoadDefaults);
+                lblStatus.Text = "Using default set for file detection.";
+            }
+        }
+
+        private async void LoadDefaults()
+        {
+            string defaults = Directory.GetCurrentDirectory() + "\\DefaultFiles";
+            Progress<string> p = new Progress<string>();
+            foreach (var file in Directory.GetFiles(defaults))
+            {
+                db.loadDatFile(file, p);
+            }
         }
 
         private async void btn1G1R_Click(object sender, EventArgs e)
@@ -429,6 +447,17 @@ namespace RomSorter5WinForms
             Progress<string> p = new Progress<string>(s => { lblStatus.Text = s; if (progressBar1.Value < progressBar1.Maximum) progressBar1.Value++; });
             await Task.Factory.StartNew(() => CoreFunctions.CreateM3uPlaylists(p, txtRomPath.Text));
             UnlockButtons();
+        }
+
+        private void txtDatPath_Leave(object sender, EventArgs e)
+        {
+            if (txtDatPath.Text == "")
+            {
+                LockButtons();
+                LoadDefaults();
+                lblStatus.Text = "Loaded defaults because no file was selected.";
+                UnlockButtons();
+            }
         }
     }
 }

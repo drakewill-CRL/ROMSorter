@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>SNK - Neo Geo Pocket (Parent-Clone)</name>
+		<description>SNK - Neo Geo Pocket (Parent-Clone)</description>
+		<version>20220704-094813</version>
+		<date>20220704-094813</date>
+		<author>BigFred, BitLooter, Hiccup, omonim2007, sCZther, SonGoku, xuom2, xxxddd</author>
+		<url>www.no-intro.org</url>
+	</header>
+	<game name="[BIOS] SNK Neo Geo Pocket (Japan, Europe) (En)">
+		<description>[BIOS] SNK Neo Geo Pocket (Japan, Europe) (En)</description>
+		<release name="[BIOS] SNK Neo Geo Pocket (Japan, Europe) (En)" region="EUR"/>
+		<release name="[BIOS] SNK Neo Geo Pocket (Japan, Europe) (En)" region="JPN"/>
+		<rom name="[BIOS] SNK Neo Geo Pocket (Japan, Europe) (En).bin" size="65536" crc="6232df8d" md5="d87d876c4391935c9d48ef352a3ff02d" sha1="2f6429b68446536d8b03f35d02f1e98beb6460a0"/>
+	</game>
+	<game name="[BIOS] SNK Neo Geo Pocket (Japan) (En) (Beta)" cloneof="[BIOS] SNK Neo Geo Pocket (Japan, Europe) (En)">
+		<description>[BIOS] SNK Neo Geo Pocket (Japan) (En) (Beta)</description>
+		<rom name="[BIOS] SNK Neo Geo Pocket (Japan) (En) (Beta).bin" size="65536" crc="836e47c6" md5="18a3a190b6b6f47f801fc044b26e1794" sha1="50db9b1c267baf88a0d969dea4f72d92e46cdfaf"/>
+	</game>
+	<game name="Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja)">
+		<description>Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja)</description>
+		<release name="Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja)" region="EUR"/>
+		<release name="Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja)" region="JPN"/>
+		<rom name="Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja).ngp" size="1048576" crc="caa3a827" md5="68ee2d5be4c81348bc499fc29819fd2d" sha1="d5a53c1b18626909b58fc73740d8c566357a7812"/>
+	</game>
+	<game name="King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja)">
+		<description>King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja)</description>
+		<release name="King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja)" region="EUR"/>
+		<release name="King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja)" region="JPN"/>
+		<rom name="King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja).ngp" size="2097152" crc="dceb7e11" md5="347d0ef33c889cc826d214caf8475ae0" sha1="4a7adbcccb05b6047a38bb861523cbae7d956bfa"/>
+	</game>
+	<game name="King of Fighters R-1 - Pocket Kakutou Series &amp; Melon-chan no Seichou Nikki (Japan) (Demo)">
+		<description>King of Fighters R-1 - Pocket Kakutou Series &amp; Melon-chan no Seichou Nikki (Japan) (Demo)</description>
+		<release name="King of Fighters R-1 - Pocket Kakutou Series &amp; Melon-chan no Seichou Nikki (Japan) (Demo)" region="JPN"/>
+		<rom name="King of Fighters R-1 - Pocket Kakutou Series &amp; Melon-chan no Seichou Nikki (Japan) (Demo).ngp" size="2097152" crc="2660bfc4" md5="8b5500bdf12d0d26f84d6e2d6d8e5008" sha1="a02d1b1113dbeac895832f1501029e40d9aab493"/>
+	</game>
+	<game name="Melon-chan no Seichou Nikki (Japan)">
+		<description>Melon-chan no Seichou Nikki (Japan)</description>
+		<release name="Melon-chan no Seichou Nikki (Japan)" region="JPN"/>
+		<rom name="Melon-chan no Seichou Nikki (Japan).ngp" size="1048576" crc="c4e58fd2" md5="aaea1921109cd82c1faf5008fb72e5fc" sha1="f0353334c42730fb30c41229fb881183e11ad304"/>
+	</game>
+	<game name="Neo Cherry Master - Real Casino Series (Japan) (En,Ja)">
+		<description>Neo Cherry Master - Real Casino Series (Japan) (En,Ja)</description>
+		<release name="Neo Cherry Master - Real Casino Series (Japan) (En,Ja)" region="JPN"/>
+		<rom name="Neo Cherry Master - Real Casino Series (Japan) (En,Ja).ngp" size="1048576" crc="d5b4696c" md5="69bc4ed3a12050795ec76f7e4fddbd99" sha1="30e8a0264922a050d3d674df4043c7d67ebde62b"/>
+	</game>
+	<game name="Neo Geo Cup '98 (Japan, Europe) (En,Ja)">
+		<description>Neo Geo Cup '98 (Japan, Europe) (En,Ja)</description>
+		<release name="Neo Geo Cup '98 (Japan, Europe) (En,Ja)" region="EUR"/>
+		<release name="Neo Geo Cup '98 (Japan, Europe) (En,Ja)" region="JPN"/>
+		<rom name="Neo Geo Cup '98 (Japan, Europe) (En,Ja).ngp" size="1048576" crc="33add5bd" md5="30efe4f72d4678ffb97b885b1b7c3da1" sha1="445743119c65a6765a0bdc849a12e9038192840c"/>
+	</game>
+	<game name="Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja)">
+		<description>Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja)</description>
+		<release name="Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja)" region="EUR"/>
+		<release name="Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja)" region="JPN"/>
+		<rom name="Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja).ngp" size="524288" crc="4b1eed05" md5="58308b9bdf0b90b632ac4d3655a81f6d" sha1="67826f4c8e488938f7e1b26e331f79ebf0aa2565"/>
+	</game>
+	<game name="Renketsu Puzzle Tsunagete Pon! (Japan)">
+		<description>Renketsu Puzzle Tsunagete Pon! (Japan)</description>
+		<release name="Renketsu Puzzle Tsunagete Pon! (Japan)" region="JPN"/>
+		<rom name="Renketsu Puzzle Tsunagete Pon! (Japan).ngp" size="524288" crc="ce09f534" md5="9330c9a7bbd6a7dc5b5963a5b7623443" sha1="cbe53b08d03ef684c08fc6ee28fca168a3d091a7" status="verified"/>
+	</game>
+	<game name="Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja)">
+		<description>Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja)</description>
+		<release name="Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja)" region="EUR"/>
+		<release name="Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja)" region="JPN"/>
+		<rom name="Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja).ngp" size="2097152" crc="32e4696a" md5="d13f954b2f1c703bdf857837c24e332e" sha1="2c6adfa69e7aeada7d4198b373436eee35b70d01"/>
+	</game>
+	<game name="Shougi no Tatsujin (Japan)">
+		<description>Shougi no Tatsujin (Japan)</description>
+		<release name="Shougi no Tatsujin (Japan)" region="JPN"/>
+		<rom name="Shougi no Tatsujin (Japan).ngp" size="524288" crc="f34d0c9b" md5="9250b3328d64d3a1e7f9d50a04ceb64f" sha1="ab0c33236f72d2b317d91d034756b56cfca1b0b4"/>
+	</game>
+</datafile>

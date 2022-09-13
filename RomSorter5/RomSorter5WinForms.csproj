@@ -16,14 +16,14 @@
 
   <ItemGroup>
     <PackageReference Include="Crc32.NET" Version="1.2.0" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.0" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="6.0.0" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.0">
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.8" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="6.0.8" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.8">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
-    <PackageReference Include="System.Data.SQLite" Version="1.0.115.5" />
-    <PackageReference Include="System.Data.SQLite.Core" Version="1.0.115.5" />
+    <PackageReference Include="System.Data.SQLite" Version="1.0.116" />
+    <PackageReference Include="System.Data.SQLite.Core" Version="1.0.116" />
   </ItemGroup>
 
   <ItemGroup>
@@ -42,10 +42,65 @@
     <None Update="chdman.exe">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+    <None Update="DefaultFiles\NEC - PC Engine - TurboGrafx 16 %28Parent-Clone%29 %2820220826-220704%29.dat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="DefaultFiles\Nintendo - Family Computer Disk System %28FDS%29 %28Parent-Clone%29 %2820220830-130630%29.dat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="DefaultFiles\Nintendo - Game Boy %28Parent-Clone%29 %2820220911-060929%29.dat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="DefaultFiles\Nintendo - Game Boy Advance %28Parent-Clone%29 %2820220912-002745%29.dat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="DefaultFiles\Nintendo - Game Boy Color %28Parent-Clone%29 %2820220912-140446%29.dat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="DefaultFiles\Nintendo - Nintendo 64 %28BigEndian%29 %28Parent-Clone%29 %2820220911-034608%29.dat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="DefaultFiles\Nintendo - Nintendo 64 %28ByteSwapped%29 %28Parent-Clone%29 %2820220911-034608%29.dat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="DefaultFiles\Nintendo - Nintendo Entertainment System %28Headered%29 %28Parent-Clone%29 %2820220912-134544%29.dat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="DefaultFiles\Nintendo - Nintendo Entertainment System %28Headerless%29 %28Parent-Clone%29 %2820220912-134544%29.dat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="DefaultFiles\Nintendo - Super Nintendo Entertainment System %28Parent-Clone%29 %2820220910-175346%29.dat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="DefaultFiles\Nintendo - Virtual Boy %28Parent-Clone%29 %2820220419-193117%29.dat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="DefaultFiles\Sega - 32X %28Parent-Clone%29 %2820220522-112342%29.dat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="DefaultFiles\Sega - Game Gear %28Parent-Clone%29 %2820220531-111523%29.dat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="DefaultFiles\Sega - Master System - Mark III %28Parent-Clone%29 %2820220910-101117%29.dat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="DefaultFiles\Sega - Mega Drive - Genesis %28Parent-Clone%29 %2820220910-073557%29.dat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="DefaultFiles\SNK - Neo Geo Pocket %28Parent-Clone%29 %2820220704-094813%29.dat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="DefaultFiles\SNK - Neo Geo Pocket Color %28Parent-Clone%29 %2820220910-103620%29.dat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
     <None Update="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="DefaultFiles\" />
   </ItemGroup>
 
 </Project>
