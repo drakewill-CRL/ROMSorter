@@ -371,24 +371,19 @@ namespace RomSorter5WinForms
                 var loaded = await LoadDatToMemDb();
                 if (!loaded)
                 {
-                    Properties.Settings.Default.datFile = "";
+                    Properties.Settings.Default.datFile = Directory.GetCurrentDirectory() + "\\ROMSorterDefault.dat";
                     Properties.Settings.Default.Save();
+                    txtDatPath.Text = Properties.Settings.Default.datFile;
+                    await LoadDatToMemDb();
                 }
             }
             else
             {
-                Task.Factory.StartNew(LoadDefaults);
+                Properties.Settings.Default.datFile = Directory.GetCurrentDirectory() + "\\ROMSorterDefault.dat";
+                Properties.Settings.Default.Save();
+                txtDatPath.Text = Properties.Settings.Default.datFile;
+                await LoadDatToMemDb();
                 lblStatus.Text = "Using default set for file detection.";
-            }
-        }
-
-        private async void LoadDefaults()
-        {
-            string defaults = Directory.GetCurrentDirectory() + "\\DefaultFiles";
-            Progress<string> p = new Progress<string>();
-            foreach (var file in Directory.GetFiles(defaults))
-            {
-                db.loadDatFile(file, p);
             }
         }
 
@@ -454,7 +449,7 @@ namespace RomSorter5WinForms
             if (txtDatPath.Text == "")
             {
                 LockButtons();
-                LoadDefaults();
+                txtDatPath.Text = Directory.GetCurrentDirectory() + "\\ROMSorterDefault.dat";
                 lblStatus.Text = "Loaded defaults because no file was selected.";
                 UnlockButtons();
             }

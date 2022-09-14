@@ -64,20 +64,27 @@ namespace RomDatabase5
                     case ".gzip":
                     case ".tar":
                     case ".7z":
-                        using (var mmf = System.IO.MemoryMappedFiles.MemoryMappedFile.CreateFromFile(file))
-                        using (var fileData = mmf.CreateViewStream())
+                        try
                         {
-                            using (var existingZip = SharpCompress.Archives.ArchiveFactory.Open(fileData))
+                            using (var mmf = System.IO.MemoryMappedFiles.MemoryMappedFile.CreateFromFile(file))
+                            using (var fileData = mmf.CreateViewStream())
                             {
-                                if (existingZip != null)
+                                using (var existingZip = SharpCompress.Archives.ArchiveFactory.Open(fileData))
                                 {
-                                    foreach (var e in existingZip.Entries)
-                                        e.WriteToDirectory(path);
+                                    if (existingZip != null)
+                                    {
+                                        foreach (var e in existingZip.Entries)
+                                            e.WriteToDirectory(path);
+                                    }
                                 }
                             }
+                            File.Delete(file);
                         }
-                        File.Delete(file);
+                        catch (Exception ex)
+                        {
+                        }
                         break;
+
                 }
             }
             progress.Report("Complete");
@@ -264,8 +271,8 @@ namespace RomDatabase5
                         throw new Exception("multiple entries in provided DAT file for " + file);
                     }
 
-                    var identifiedFile = identifiedFiles.FirstOrDefault().name;
-                    var destFileName = (identifiedFile != "" ? identifiedFile : (moveUnidentified ? "/Unknown/" : "") + Path.GetFileName(file));
+                    var identifiedFile = identifiedFiles.FirstOrDefault()?.name;
+                    var destFileName = (!string.IsNullOrWhiteSpace(identifiedFile) ? identifiedFile : (moveUnidentified ? "/Unknown/" : "") + Path.GetFileName(file));
 
                     if (identifiedFile != destFileName)
                         File.Move(file, path + "/" + destFileName);
