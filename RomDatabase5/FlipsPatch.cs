@@ -21,12 +21,13 @@ namespace RomDatabase5
             string romExt = System.IO.Path.GetExtension(rom);
 
             string command = "--apply \"" + patch + "\" \"" + rom + "\"" + System.IO.Path.GetFileNameWithoutExtension(patch) + "." + romExt + "\"";
+            string command2 = "--apply \"" + patch + "\" \"" + rom + "\" \"" + patch.Replace(Path.GetExtension(patch), romExt) + "\"";
 
             Process flips = new Process();
             flips.StartInfo.FileName = "flips.exe";
             if (Environment.OSVersion.Platform == PlatformID.Unix)
                 flips.StartInfo.FileName = "flips-linux";
-            flips.StartInfo.Arguments = command;
+            flips.StartInfo.Arguments = command2;
             flips.StartInfo.UseShellExecute = false;
             flips.StartInfo.CreateNoWindow = true;
             flips.StartInfo.RedirectStandardOutput = true;

@@ -434,8 +434,8 @@ namespace RomDatabase5
 
         public static void ApplyAllPatches(IProgress<string> progress, string path)
         {
-            var patchList = System.IO.Directory.EnumerateFiles(path).Where(x => x.EndsWith(".ips") || x.EndsWith(".bps")).ToList();
-            var possibleROM = System.IO.Directory.EnumerateFiles(path).Where(x => !x.EndsWith(".ips") && !x.EndsWith(".bps")).ToList();
+            var patchList = System.IO.Directory.EnumerateFiles(path).Where(x => x.ToLower().EndsWith(".ips") || x.ToLower().EndsWith(".bps")).ToList();
+            var possibleROM = System.IO.Directory.EnumerateFiles(path).Where(x => !x.ToLower().EndsWith(".ips") && !x.ToLower().EndsWith(".bps")).ToList();
 
             if (possibleROM.Count > 1)
             {
@@ -447,8 +447,11 @@ namespace RomDatabase5
 
             foreach (var patch in patchList)
             {
+                progress.Report(patch);
                 FlipsPatch.PatchWithFlips(patch, romName);
             }
+
+            progress.Report("Patching Complete.");
         }
     }
 }

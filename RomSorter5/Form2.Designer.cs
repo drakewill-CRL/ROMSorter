@@ -356,7 +356,6 @@
             this.btnMultiPatch.TabIndex = 39;
             this.btnMultiPatch.Text = "Batch-Apply Patches to ROM";
             this.btnMultiPatch.UseVisualStyleBackColor = true;
-            this.btnMultiPatch.Visible = false;
             this.btnMultiPatch.Click += new System.EventHandler(this.btnMultiPatch_Click);
             // 
             // Form2

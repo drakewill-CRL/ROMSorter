@@ -477,7 +477,7 @@ namespace RomSorter5WinForms
 
         private void btnMultiPatch_Click(object sender, EventArgs e)
         {
-
+            BaseBehavior(CoreFunctions.ApplyAllPatches, txtRomPath.Text);
         }
     }
 }
