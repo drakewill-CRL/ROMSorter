@@ -105,12 +105,23 @@ namespace RomSorter5WinForms
         private async void BaseBehavior(Action<IProgress<string>, string> functionToRun, string path)
         {
             LockButtons();
-            var files = System.IO.Directory.EnumerateFiles(txtRomPath.Text);
-            progressBar1.Maximum = files.Count();
-            progressBar1.Value = 0;
+            List<string> paths = new List<string>();
+            if (chkRecurse.Checked)
+            {
+                paths = Directory.EnumerateDirectories(path, "*", SearchOption.AllDirectories).ToList();
+            }
+            else
+                paths.Add(path);
 
-            Progress<string> p = new Progress<string>(s => { lblStatus.Text = s; if (progressBar1.Value < progressBar1.Maximum) progressBar1.Value++; });
-            await Task.Factory.StartNew(() => functionToRun(p, path));
+            foreach (var runpath in paths)
+            {
+                var files = System.IO.Directory.EnumerateFiles(runpath);
+                progressBar1.Maximum = files.Count();
+                progressBar1.Value = 0;
+
+                Progress<string> p = new Progress<string>(s => { lblStatus.Text = s; if (progressBar1.Value < progressBar1.Maximum) progressBar1.Value++; });
+                await Task.Factory.StartNew(() => functionToRun(p, runpath));
+            }
             UnlockButtons();
         }
 
@@ -138,6 +149,13 @@ namespace RomSorter5WinForms
             }
 
             LockButtons();
+            //if (recurse)
+            //{ 
+            //var folders = System.IO.Directory.EnumerateFiles(txtRomPath.Text, "*", SearchOption.AllDirectories);
+            //foreach(var f in folders)
+            //
+            //}
+            //else
             var files = System.IO.Directory.EnumerateFiles(txtRomPath.Text);
             progressBar1.Maximum = files.Count();
             progressBar1.Value = 0;

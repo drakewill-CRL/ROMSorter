@@ -54,6 +54,7 @@
             this.btn1G1R = new System.Windows.Forms.Button();
             this.btnEverdrive = new System.Windows.Forms.Button();
             this.btnCreateM3uPlaylists = new System.Windows.Forms.Button();
+            this.chkRecurse = new System.Windows.Forms.CheckBox();
             this.SuspendLayout();
             // 
             // btnDetectDupes
@@ -335,11 +336,22 @@
             this.btnCreateM3uPlaylists.UseVisualStyleBackColor = true;
             this.btnCreateM3uPlaylists.Click += new System.EventHandler(this.btnCreateM3uPlaylists_Click);
             // 
+            // chkRecurse
+            // 
+            this.chkRecurse.AutoSize = true;
+            this.chkRecurse.Location = new System.Drawing.Point(315, 61);
+            this.chkRecurse.Name = "chkRecurse";
+            this.chkRecurse.Size = new System.Drawing.Size(158, 19);
+            this.chkRecurse.TabIndex = 38;
+            this.chkRecurse.Text = "Operate on all subfolders";
+            this.chkRecurse.UseVisualStyleBackColor = true;
+            // 
             // Form2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(485, 454);
+            this.Controls.Add(this.chkRecurse);
             this.Controls.Add(this.btnCreateM3uPlaylists);
             this.Controls.Add(this.btnEverdrive);
             this.Controls.Add(this.btn1G1R);
@@ -402,5 +414,6 @@
         private System.Windows.Forms.Button btn1G1R;
         private System.Windows.Forms.Button btnEverdrive;
         private System.Windows.Forms.Button btnCreateM3uPlaylists;
+        private System.Windows.Forms.CheckBox chkRecurse;
     }
 }
