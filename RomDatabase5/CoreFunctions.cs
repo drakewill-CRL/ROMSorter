@@ -431,5 +431,24 @@ namespace RomDatabase5
 
             progress.Report($"M3U playlists created for {fileList.Count} game(s)");
         }
+
+        public static void ApplyAllPatches(IProgress<string> progress, string path)
+        {
+            var patchList = System.IO.Directory.EnumerateFiles(path).Where(x => x.EndsWith(".ips") || x.EndsWith(".bps")).ToList();
+            var possibleROM = System.IO.Directory.EnumerateFiles(path).Where(x => !x.EndsWith(".ips") && !x.EndsWith(".bps")).ToList();
+
+            if (possibleROM.Count > 1)
+            {
+                //TODO error out.
+            }
+
+            string romName = possibleROM.FirstOrDefault();
+            
+
+            foreach (var patch in patchList)
+            {
+                FlipsPatch.PatchWithFlips(patch, romName);
+            }
+        }
     }
 }

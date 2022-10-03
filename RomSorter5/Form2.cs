@@ -44,6 +44,7 @@ namespace RomSorter5WinForms
             btn1G1R.Enabled = false;
             btnEverdrive.Enabled = false;
             btnCreateM3uPlaylists.Enabled=false;
+            btnMultiPatch.Enabled = false;
         }
 
         private void UnlockButtons()
@@ -63,6 +64,7 @@ namespace RomSorter5WinForms
             btn1G1R.Enabled = true;
             btnEverdrive.Enabled = true;
             btnCreateM3uPlaylists.Enabled = true;
+            btnMultiPatch.Enabled =true;
         }
 
         private async Task<bool> LoadDatToMemDb()
@@ -471,6 +473,11 @@ namespace RomSorter5WinForms
                 lblStatus.Text = "Loaded defaults because no file was selected.";
                 UnlockButtons();
             }
+        }
+
+        private void btnMultiPatch_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

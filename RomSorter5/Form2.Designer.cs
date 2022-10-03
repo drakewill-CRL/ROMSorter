@@ -55,6 +55,7 @@
             this.btnEverdrive = new System.Windows.Forms.Button();
             this.btnCreateM3uPlaylists = new System.Windows.Forms.Button();
             this.chkRecurse = new System.Windows.Forms.CheckBox();
+            this.btnMultiPatch = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnDetectDupes
@@ -75,7 +76,7 @@
             this.txtDatPath.Location = new System.Drawing.Point(195, 8);
             this.txtDatPath.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.txtDatPath.Name = "txtDatPath";
-            this.txtDatPath.Size = new System.Drawing.Size(280, 23);
+            this.txtDatPath.Size = new System.Drawing.Size(398, 23);
             this.txtDatPath.TabIndex = 15;
             this.txtDatPath.Leave += new System.EventHandler(this.txtDatPath_Leave);
             // 
@@ -107,7 +108,7 @@
             this.txtRomPath.Location = new System.Drawing.Point(195, 34);
             this.txtRomPath.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.txtRomPath.Name = "txtRomPath";
-            this.txtRomPath.Size = new System.Drawing.Size(280, 23);
+            this.txtRomPath.Size = new System.Drawing.Size(398, 23);
             this.txtRomPath.TabIndex = 18;
             // 
             // btnRomFolderSelect
@@ -144,7 +145,7 @@
             this.progressBar1.Location = new System.Drawing.Point(10, 389);
             this.progressBar1.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.progressBar1.Name = "progressBar1";
-            this.progressBar1.Size = new System.Drawing.Size(468, 31);
+            this.progressBar1.Size = new System.Drawing.Size(586, 31);
             this.progressBar1.TabIndex = 20;
             // 
             // lblStatus
@@ -346,11 +347,24 @@
             this.chkRecurse.Text = "Operate on all subfolders";
             this.chkRecurse.UseVisualStyleBackColor = true;
             // 
+            // btnMultiPatch
+            // 
+            this.btnMultiPatch.Location = new System.Drawing.Point(485, 92);
+            this.btnMultiPatch.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            this.btnMultiPatch.Name = "btnMultiPatch";
+            this.btnMultiPatch.Size = new System.Drawing.Size(111, 66);
+            this.btnMultiPatch.TabIndex = 39;
+            this.btnMultiPatch.Text = "Batch-Apply Patches to ROM";
+            this.btnMultiPatch.UseVisualStyleBackColor = true;
+            this.btnMultiPatch.Visible = false;
+            this.btnMultiPatch.Click += new System.EventHandler(this.btnMultiPatch_Click);
+            // 
             // Form2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(485, 454);
+            this.ClientSize = new System.Drawing.Size(603, 454);
+            this.Controls.Add(this.btnMultiPatch);
             this.Controls.Add(this.chkRecurse);
             this.Controls.Add(this.btnCreateM3uPlaylists);
             this.Controls.Add(this.btnEverdrive);
@@ -415,5 +429,6 @@
         private System.Windows.Forms.Button btnEverdrive;
         private System.Windows.Forms.Button btnCreateM3uPlaylists;
         private System.Windows.Forms.CheckBox chkRecurse;
+        private System.Windows.Forms.Button btnMultiPatch;
     }
 }
