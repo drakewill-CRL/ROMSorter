@@ -64,6 +64,17 @@ namespace RomDatabase5
         public HashResults HashFileAtPath(string file)
         {
             HashResults results = new HashResults();
+            var fi = new FileInfo(file);
+            if (fi.Length == 0)
+            {
+                results.filepath = file;
+                results.size = 0;
+                results.sha1 = "0";
+                results.crc = "0";
+                results.md5 = "0";
+                return results;
+            }
+
             using (var mmf = System.IO.MemoryMappedFiles.MemoryMappedFile.CreateFromFile(file))
             using (var fileData = mmf.CreateViewStream())
             {

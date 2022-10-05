@@ -124,6 +124,7 @@ namespace RomSorter5WinForms
                 Progress<string> p = new Progress<string>(s => { lblStatus.Text = s; if (progressBar1.Value < progressBar1.Maximum) progressBar1.Value++; });
                 await Task.Factory.StartNew(() => functionToRun(p, runpath));
             }
+            progressBar1.Value = progressBar1.Maximum;
             UnlockButtons();
         }
 
@@ -478,6 +479,11 @@ namespace RomSorter5WinForms
         private void btnMultiPatch_Click(object sender, EventArgs e)
         {
             BaseBehavior(CoreFunctions.ApplyAllPatches, txtRomPath.Text);
+        }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            BaseBehavior(CoreFunctions.DeletePatches, txtRomPath.Text);
         }
     }
 }
