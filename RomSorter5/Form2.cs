@@ -108,12 +108,9 @@ namespace RomSorter5WinForms
         {
             LockButtons();
             List<string> paths = new List<string>();
+            paths.Add(path);
             if (chkRecurse.Checked)
-            {
-                paths = Directory.EnumerateDirectories(path, "*", SearchOption.AllDirectories).ToList();
-            }
-            else
-                paths.Add(path);
+                paths.AddRange(Directory.EnumerateDirectories(path, "*", SearchOption.AllDirectories).ToList());
 
             foreach (var runpath in paths)
             {
