@@ -434,8 +434,8 @@ namespace RomDatabase5
 
         public static void ApplyAllPatches(IProgress<string> progress, string path)
         {
-            var patchList = System.IO.Directory.EnumerateFiles(path).Where(x => x.ToLower().EndsWith(".ips") || x.ToLower().EndsWith(".bps")).ToList();
-            var possibleROM = System.IO.Directory.EnumerateFiles(path).Where(x => !x.ToLower().EndsWith(".ips") && !x.ToLower().EndsWith(".bps")).ToList();
+            var patchList = System.IO.Directory.EnumerateFiles(path).Where(x => x.ToLower().EndsWith(".ips") || x.ToLower().EndsWith(".bps") || x.ToLower().EndsWith(".xdelta")).ToList();
+            var possibleROM = System.IO.Directory.EnumerateFiles(path).Where(x => !x.ToLower().EndsWith(".ips") && !x.ToLower().EndsWith(".bps") && !x.ToLower().EndsWith(".xdelta")).ToList();
             possibleROM = possibleROM.Where(r => !r.ToLower().Contains("desktop.ini")).ToList();
 
             if (possibleROM.Count > 1)
@@ -449,7 +449,10 @@ namespace RomDatabase5
             foreach (var patch in patchList)
             {
                 progress.Report(patch);
-                FlipsPatch.PatchWithFlips(patch, romName);
+                if (patch.EndsWith("ips") || patch.EndsWith("bps"))
+                    Patcher.PatchWithFlips(patch, romName);
+                else
+                    Patcher.PatchWithXDelta(patch, romName);
             }
 
             progress.Report("Patching Complete.");

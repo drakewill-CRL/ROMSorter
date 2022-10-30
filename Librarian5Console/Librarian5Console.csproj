@@ -22,4 +22,10 @@
     <ProjectReference Include="..\RomDatabase5\RomDatabase5.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="ROMSorterDefault.dat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>

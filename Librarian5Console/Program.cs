@@ -31,6 +31,7 @@ namespace Librarian5Console
                 Console.WriteLine("Option Flags:");
                 Console.WriteLine("-targetFolder:\"path\" (Required) || the folder full of files you want to operate on");
                 Console.WriteLine("-datfile:\"path\" || The DAT file to use for identifying/renaming/1G1R commands.");
+                Console.WriteLine("-defaultDat || Use the built-in DAT file, sufficient for most cartridge-based system.");
                 Console.WriteLine("-moveUnidentified || Takes files that aren't found in a DAT and moves them to a /Unidentified sub-folder during rename.");
                 Console.WriteLine("-regionOrder: || A comma separated list of regions in order of priority. Used by -1G1R (Default is -regionOrder:USA,EUR,JPN,).");
                 Console.WriteLine("Commands:");
@@ -42,10 +43,12 @@ namespace Librarian5Console
                 Console.WriteLine("-verifyCatalog || Compares files to a previously generated catalog file to check for changes");
                 Console.WriteLine("-makeChds || Convert bin/cue or iso files to chd. Requires chdman in the same folder as Librarian.");
                 Console.WriteLine("-extractChds || Convert chd files back to their original format. Requires chdman in the same folder as Librarian.");
+                Console.WriteLine("-chdPlaylist || Makes M3U playlists from disc formatted files.");
                 Console.WriteLine("-makeDat || Create a DAT file from the given folder usable in other ROM managers");
                 Console.WriteLine("-renameSingleFiles or -identify || Renames files in the folder to match their entry in the loaded DAT file");
                 Console.WriteLine("-1G1R || Pulls out a single release of each unique game based on your regionOrder preferences");
                 Console.WriteLine("-everdrive || Moves files into subfolders by initial letter of the filename.");
+                Console.WriteLine("-patchAll || Applies all IPS/BPS patches to the only non-patch file in the folder.");
                 return;
             }
 
@@ -58,7 +61,12 @@ namespace Librarian5Console
             var memdb = new MemDb();
             if (args.Any(a => a.StartsWith("-datfile:")))
             {
-                datFilePath = args.Where(a => a.StartsWith("-datfile:")).First();
+                datFilePath = "ROMSorterDefault.dat";
+                memdb.loadDatFile(datFilePath, progress).Wait();
+            }
+            else if (args.Any(a => a == "-defaultDat"))
+            {
+                datFilePath = "ROMSorterDefault.dat";
                 memdb.loadDatFile(datFilePath, progress).Wait();
             }
 
@@ -133,6 +141,16 @@ namespace Librarian5Console
             if (args.Any(a => a == "-everdrive"))
             {
                 CoreFunctions.EverdriveSort(progress, workingPath);
+            }
+
+            if (args.Any(a => a == "-chdPlaylist"))
+            {
+                CoreFunctions.CreateM3uPlaylists(progress, workingPath);
+            }
+
+            if (args.Any(a => a == "-patchAll"))
+            {
+                CoreFunctions.ApplyAllPatches(progress, workingPath);
             }
         }
 
