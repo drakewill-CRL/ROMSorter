@@ -458,7 +458,7 @@ namespace RomDatabase5
             var possibleROM = System.IO.Directory.EnumerateFiles(path).Where(x => !x.ToLower().EndsWith(".ips") && !x.ToLower().EndsWith(".bps") && !x.ToLower().EndsWith(".xdelta")).ToList();
             possibleROM = possibleROM.Where(r => !r.ToLower().Contains("desktop.ini")).ToList();
 
-            if (possibleROM.Count > 1)
+            if (possibleROM.Count > 1 || possibleROM.Count == 0)
             {
                 //TODO error out.
                 return;
