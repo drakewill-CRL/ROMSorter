@@ -63,7 +63,6 @@ namespace RomDatabase5
                     case ".gz":
                     case ".gzip":
                     case ".tar":
-                    case ".7z":
                         try
                         {
                             using (var mmf = System.IO.MemoryMappedFiles.MemoryMappedFile.CreateFromFile(file))
@@ -84,7 +83,25 @@ namespace RomDatabase5
                         {
                         }
                         break;
-
+                    case ".7z":
+                        try
+                        {
+                            using (var mmf = System.IO.MemoryMappedFiles.MemoryMappedFile.CreateFromFile(file))
+                            using (var fileData = mmf.CreateViewStream())
+                            {
+                                using (var existingZip = SharpCompress.Archives.ArchiveFactory.Open(fileData))
+                                {
+                                    if (existingZip != null)
+                                    {
+                                        existingZip.ExtractAllEntries();
+                                    }
+                                }
+                            }
+                        }
+                        catch (Exception ex)
+                        {
+                        }
+                        break;
                 }
             }
             progress.Report("Complete");
@@ -460,12 +477,23 @@ namespace RomDatabase5
 
         public static void DeletePatches(IProgress<string> progress, string path)
         {
-            var patchList = System.IO.Directory.EnumerateFiles(path).Where(x => x.ToLower().EndsWith(".ips") || x.ToLower().EndsWith(".bps")).ToList();
+            var patchList = System.IO.Directory.EnumerateFiles(path).Where(x => x.ToLower().EndsWith(".ips") || x.ToLower().EndsWith(".bps") || x.ToLower().EndsWith(".xdelta")).ToList();
             foreach (var p in patchList)
                 File.Delete(p);
 
             progress.Report("Deleting Complete.");
+        }
 
+        public static void DeleteIfNoXDelta(IProgress<string> progress, string path)
+        {
+            var xdeltas =  System.IO.Directory.EnumerateFiles(path, "*.xdelta", SearchOption.AllDirectories);
+
+            try
+            {
+                if (xdeltas.Count() == 0)
+                    Directory.Delete(path, true);
+            }
+            catch { }
         }
     }
 }
