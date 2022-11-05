@@ -1,4 +1,5 @@
 ﻿using SharpCompress.Archives;
+using SharpCompress.Readers;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -93,10 +94,12 @@ namespace RomDatabase5
                                 {
                                     if (existingZip != null)
                                     {
-                                        existingZip.ExtractAllEntries();
+                                        var reader = existingZip.ExtractAllEntries();
+                                        reader.WriteAllToDirectory(path);
                                     }
                                 }
                             }
+                            File.Delete(file);
                         }
                         catch (Exception ex)
                         {
@@ -458,6 +461,7 @@ namespace RomDatabase5
             if (possibleROM.Count > 1)
             {
                 //TODO error out.
+                return;
             }
 
             string romName = possibleROM.FirstOrDefault();
@@ -470,7 +474,9 @@ namespace RomDatabase5
                     Patcher.PatchWithFlips(patch, romName);
                 else
                     Patcher.PatchWithXDelta(patch, romName);
+                File.Delete(patch);
             }
+            File.Delete(romName);
 
             progress.Report("Patching Complete.");
         }
