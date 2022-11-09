@@ -454,8 +454,8 @@ namespace RomDatabase5
 
         public static void ApplyAllPatches(IProgress<string> progress, string path)
         {
-            var patchList = System.IO.Directory.EnumerateFiles(path).Where(x => x.ToLower().EndsWith(".ips") || x.ToLower().EndsWith(".bps") || x.ToLower().EndsWith(".xdelta")).ToList();
-            var possibleROM = System.IO.Directory.EnumerateFiles(path).Where(x => !x.ToLower().EndsWith(".ips") && !x.ToLower().EndsWith(".bps") && !x.ToLower().EndsWith(".xdelta")).ToList();
+            var patchList = System.IO.Directory.EnumerateFiles(path).Where(x => x.ToLower().EndsWith(".ips") || x.ToLower().EndsWith(".bps") || x.ToLower().EndsWith(".ups") || x.ToLower().EndsWith(".xdelta")).ToList();
+            var possibleROM = System.IO.Directory.EnumerateFiles(path).Where(x => !x.ToLower().EndsWith(".ips") && !x.ToLower().EndsWith(".bps") && !x.ToLower().EndsWith(".ups") && !x.ToLower().EndsWith(".xdelta")).ToList();
             possibleROM = possibleROM.Where(r => !r.ToLower().Contains("desktop.ini")).ToList();
 
             if (possibleROM.Count > 1 || possibleROM.Count == 0)
@@ -472,8 +472,11 @@ namespace RomDatabase5
                 progress.Report(patch);
                 if (patch.EndsWith("ips") || patch.EndsWith("bps"))
                     Patcher.PatchWithFlips(patch, romName);
-                else
+                else if (patch.EndsWith("xdelta"))
                     Patcher.PatchWithXDelta(patch, romName);
+                else if (patch.EndsWith("ups"))
+                    Patcher.PatchWithUPS(patch, romName);
+                
                 File.Delete(patch);
             }
             File.Delete(romName);
@@ -483,7 +486,7 @@ namespace RomDatabase5
 
         public static void DeletePatches(IProgress<string> progress, string path)
         {
-            var patchList = System.IO.Directory.EnumerateFiles(path).Where(x => x.ToLower().EndsWith(".ips") || x.ToLower().EndsWith(".bps") || x.ToLower().EndsWith(".xdelta")).ToList();
+            var patchList = System.IO.Directory.EnumerateFiles(path).Where(x => x.ToLower().EndsWith(".ips") || x.ToLower().EndsWith(".bps") || x.ToLower().EndsWith(".ups") || x.ToLower().EndsWith(".xdelta")).ToList();
             foreach (var p in patchList)
                 File.Delete(p);
 

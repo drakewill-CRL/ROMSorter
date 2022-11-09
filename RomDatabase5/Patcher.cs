@@ -66,5 +66,22 @@ namespace RomDatabase5
 
             return xdelta.ExitCode == 0;
         }
+
+        public static bool PatchWithUPS(string patch, string rom) {
+            //These are handled built-in with the code instead of calling an external executable.
+
+            Nintenlord.UPSpatcher.UPSfile patcher = new Nintenlord.UPSpatcher.UPSfile(patch);
+
+            if (!patcher.ValidPatch)
+                return false;
+
+            string romExt = System.IO.Path.GetExtension(rom);
+
+            var results = patcher.Apply(rom);
+            BinaryWriter bw = new BinaryWriter(File.Open(patch.Replace(Path.GetExtension(patch), romExt), FileMode.OpenOrCreate));
+            bw.Write(results);
+            bw.Close();
+            return true;
+        }
     }
 }
