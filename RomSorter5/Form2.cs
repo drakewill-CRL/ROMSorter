@@ -114,12 +114,16 @@ namespace RomSorter5WinForms
 
             foreach (var runpath in paths)
             {
-                var files = System.IO.Directory.EnumerateFiles(runpath);
-                progressBar1.Maximum = files.Count();
-                progressBar1.Value = 0;
+                try
+                {
+                    var files = System.IO.Directory.EnumerateFiles(runpath);
+                    progressBar1.Maximum = files.Count();
+                    progressBar1.Value = 0;
 
-                Progress<string> p = new Progress<string>(s => { lblStatus.Text = s; if (progressBar1.Value < progressBar1.Maximum) progressBar1.Value++; });
-                await Task.Factory.StartNew(() => functionToRun(p, runpath));
+                    Progress<string> p = new Progress<string>(s => { lblStatus.Text = s; if (progressBar1.Value < progressBar1.Maximum) progressBar1.Value++; });
+                    await Task.Factory.StartNew(() => functionToRun(p, runpath));
+                }
+                catch { }
             }
             progressBar1.Value = progressBar1.Maximum;
             UnlockButtons();
@@ -481,6 +485,11 @@ namespace RomSorter5WinForms
         private void button1_Click_1(object sender, EventArgs e)
         {
             BaseBehavior(CoreFunctions.DeletePatches, txtRomPath.Text);
+        }
+
+        private void button1_Click_2(object sender, EventArgs e)
+        {
+            BaseBehavior(CoreFunctions.DeleteIfNoUPS, txtRomPath.Text);
         }
     }
 }

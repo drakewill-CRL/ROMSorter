@@ -57,7 +57,7 @@ namespace RomDatabase5
             foreach (var file in files)
             {
                 progress.Report(file);
-                switch (Path.GetExtension(file))
+                switch (Path.GetExtension(file.ToLower()))
                 {
                     case ".zip":
                     case ".rar":
@@ -123,7 +123,7 @@ namespace RomDatabase5
 
                 var zfs = File.Create(tempfilename);
                 var zf = new ZipArchive(zfs, ZipArchiveMode.Create);
-                switch (Path.GetExtension(file))
+                switch (Path.GetExtension(file.ToLower()))
                 {
                     case ".zip":
                     case ".rar":
@@ -469,6 +469,7 @@ namespace RomDatabase5
 
             foreach (var patch in patchList)
             {
+                bool result = true;
                 progress.Report(patch);
                 if (patch.EndsWith("ips") || patch.EndsWith("bps"))
                     Patcher.PatchWithFlips(patch, romName);
@@ -496,6 +497,18 @@ namespace RomDatabase5
         public static void DeleteIfNoXDelta(IProgress<string> progress, string path)
         {
             var xdeltas =  System.IO.Directory.EnumerateFiles(path, "*.xdelta", SearchOption.AllDirectories);
+
+            try
+            {
+                if (xdeltas.Count() == 0)
+                    Directory.Delete(path, true);
+            }
+            catch { }
+        }
+
+        public static void DeleteIfNoUPS(IProgress<string> progress, string path)
+        {
+            var xdeltas = System.IO.Directory.EnumerateFiles(path, "*.ups", SearchOption.AllDirectories);
 
             try
             {
