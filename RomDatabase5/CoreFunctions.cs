@@ -15,6 +15,7 @@ namespace RomDatabase5
 {
     public static class CoreFunctions
     {
+        public static bool MoveMissedPatches = false;
         public static void DetectDupes(IProgress<string> p, string path)
         {
             //Detect duplicates.
@@ -471,14 +472,28 @@ namespace RomDatabase5
             {
                 bool result = true;
                 progress.Report(patch);
-                if (patch.EndsWith("ips") || patch.EndsWith("bps"))
-                    Patcher.PatchWithFlips(patch, romName);
-                else if (patch.EndsWith("xdelta"))
-                    Patcher.PatchWithXDelta(patch, romName);
-                else if (patch.EndsWith("ups"))
-                    Patcher.PatchWithUPS(patch, romName);
-                
-                File.Delete(patch);
+                var extension = Path.GetExtension(patch.ToLower());
+                switch (extension)
+                {
+                    case ".ips":
+                    case ".bps":
+                        result = Patcher.PatchWithFlips(patch, romName);
+                        break;
+                    case ".xdelta":
+                        result = Patcher.PatchWithXDelta(patch, romName);
+                        break;
+                    case ".ups":
+                        result = Patcher.PatchWithUPS(patch, romName);
+                        break;
+                }
+
+                if (!result && MoveMissedPatches)
+                {
+                    Directory.CreateDirectory(path + @"\Unapplied");
+                    File.Move(patch, path + @"\Unapplied\" + Path.GetFileName(patch));
+                }
+                else
+                    File.Delete(patch);
             }
             File.Delete(romName);
 
@@ -517,5 +532,25 @@ namespace RomDatabase5
             }
             catch { }
         }
+
+        public static void DeleteLowercase(IProgress<string> progress, string path)
+        {
+            var allFiles  = System.IO.Directory.EnumerateFiles(path, "*.*", SearchOption.AllDirectories);
+            var maybeMissed = allFiles.Where(f => f.EndsWith("IPS") || f.EndsWith("BPS") || f.EndsWith("UPS") || f.EndsWith("XDELTA"));
+
+            foreach(var f in allFiles)
+            {
+                if (!maybeMissed.Contains(f))
+                    File.Delete(f);
+            }
+
+            try
+            {
+                if (maybeMissed.Count() == 0)
+                    Directory.Delete(path, true);
+            }
+            catch { }
+        }
+
     }
 }
