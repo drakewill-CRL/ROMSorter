@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.IO.MemoryMappedFiles;
 using System.Linq;
 using System.Text;
@@ -147,7 +148,10 @@ namespace RomDatabase5
                         //fe.description = entry.GetAttribute("name"); //Leaving out for clarity, since single-file games won't need this.
                         fe.datfile = datfile;
                         HashResults hashes = new HashResults();
-                        hashes.size = Int64.Parse(rom.GetAttribute("size"));
+                        var size = rom.GetAttribute("size");
+                        if (string.IsNullOrEmpty(size))
+                            Debugger.Break();
+                        hashes.size = Int64.Parse(size);
                         hashes.crc = rom.GetAttribute("crc").ToLower();
                         hashes.sha1 = rom.GetAttribute("sha1").ToLower();
                         hashes.md5 = rom.GetAttribute("md5").ToLower();
@@ -201,13 +205,17 @@ namespace RomDatabase5
         {
             //This should probably return an empty entry rather than null.
             //List<FileEntry> emptyresults = new List<FileEntry>();
-            //NOTE: TOSEC and No-Intro use all 3 hashes. MAME skips MD5
+            //NOTE: TOSEC and No-Intro use all 3 hashes. MAME and others skips MD5
             var crcMatches = fileCRCs[hash.crc];
-            var md5Matches = skipMD5 ?  null : fileMD5s[hash.md5];
+            var md5Matches = fileMD5s[hash.md5];
             var sha1Matches = fileSHA1s[hash.sha1];
 
             var allMatches = crcMatches.Intersect(sha1Matches).ToList();
-            if (!skipMD5) allMatches = allMatches.Intersect(md5Matches).ToList();
+            if (allMatches.Any(a => !string.IsNullOrEmpty(a.hashes.md5))) 
+            { 
+                allMatches = allMatches.Intersect(md5Matches).ToList(); 
+            }
+            //if (!skipMD5) ;
             //if (allMatches != null && allMatches.Count() == 1) 
                 return allMatches;
 

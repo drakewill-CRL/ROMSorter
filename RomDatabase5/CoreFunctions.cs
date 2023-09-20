@@ -1,5 +1,7 @@
 ﻿using SharpCompress.Archives;
+using SharpCompress.Common;
 using SharpCompress.Readers;
+using SharpCompress.Writers;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -41,6 +43,7 @@ namespace RomDatabase5
                     Directory.CreateDirectory(dirName);
                     File.Move(file, dirName + "/" + Path.GetFileName(file));
                 }
+
                 crcHashes.TryAdd(results.crc, filename);
                 md5Hashes.TryAdd(results.md5, filename);
                 sha1Hashes.TryAdd(results.sha1, filename);
@@ -65,6 +68,8 @@ namespace RomDatabase5
                     case ".gz":
                     case ".gzip":
                     case ".tar":
+                    case ".7z":
+                        //case ".lz":
                         try
                         {
                             using (var mmf = System.IO.MemoryMappedFiles.MemoryMappedFile.CreateFromFile(file))
@@ -85,7 +90,36 @@ namespace RomDatabase5
                         {
                         }
                         break;
-                    case ".7z":
+                    case ".lz": //SharpCompress does not have a setup to nicely handle .tar.lz files internally.
+                        using (var mmf = System.IO.MemoryMappedFiles.MemoryMappedFile.CreateFromFile(file))
+                        using (var fileData = mmf.CreateViewStream())
+                        {
+                            var zf = ReaderFactory.Open(fileData);
+
+                            //This block works, but needs more disk space since it unzips the .tar and then unzips the tar's contents.
+                            //Might need to manually set this up to read an lzma stream. This doesn't nicely chain together, so I need the temp file.
+                            var outerStream = new SharpCompress.Compressors.LZMA.LZipStream(fileData, SharpCompress.Compressors.CompressionMode.Decompress);
+                            var testFileOut = File.Create(path + "/temp.tar");
+                            outerStream.CopyTo(testFileOut);
+                            testFileOut.Close();
+                            outerStream.Dispose();
+
+                            var innerStream = SharpCompress.Archives.Tar.TarArchive.Open(testFileOut);
+                            var reader = innerStream.ExtractAllEntries();
+                            reader.WriteAllToDirectory(path);
+                            //using (var existingZip = SharpCompress.Archives.Tar.TarArchive.Open(fileData))
+                            //foreach(var  e in innerStream.)
+                            //{ 
+                                
+                                //e.WriteToDirectory(path); 
+                            //}
+                            innerStream.Dispose();
+
+                            File.Delete(path + "/temp.tar");
+
+                        }
+                        break;
+                    case ".7zother":
                         try
                         {
                             using (var mmf = System.IO.MemoryMappedFiles.MemoryMappedFile.CreateFromFile(file))
@@ -118,9 +152,7 @@ namespace RomDatabase5
             foreach (var file in files)
             {
                 progress.Report(count + "/" + files.Count() + ":" + Path.GetFileName(file));
-                string tempfilename = Path.GetTempFileName();
-                //SharpCompress.Archives.IArchive existingZip = null;
-                //var fs = File.OpenRead(file);
+                string tempfilename = Path.GetDirectoryName(file) + "/" + Path.GetFileNameWithoutExtension(file) + ".zip-temp";
 
                 var zfs = File.Create(tempfilename);
                 var zf = new ZipArchive(zfs, ZipArchiveMode.Create);
@@ -139,17 +171,90 @@ namespace RomDatabase5
                                 Helpers.RezipFromArchive(existingZip, zf);
                         }
                         break;
+                    case ".lz":
+                        using (var mmf = System.IO.MemoryMappedFiles.MemoryMappedFile.CreateFromFile(file))
+                        using (var fileData = mmf.CreateViewStream())
+                        {
+                            var outerStream = new SharpCompress.Compressors.LZMA.LZipStream(fileData, SharpCompress.Compressors.CompressionMode.Decompress);
+                            string tempfile = path + "/temp.tar";
+                            var testFileOut = File.Create(tempfile);
+                            outerStream.CopyTo(testFileOut);
+                            testFileOut.Close();
+                            outerStream.Dispose();
+
+                            var stream2 = File.OpenRead(tempfile);
+                            var innerStream = SharpCompress.Archives.Tar.TarArchive.Open(stream2);
+                            var reader = innerStream.ExtractAllEntries();
+                            reader.WriteAllToDirectory(path);
+                            reader.Dispose();
+
+                            //Might need to manually set this up to read an lzma stream.
+                            //var outerStream = new SharpCompress.Compressors.LZMA.LZipStream(fileData, SharpCompress.Compressors.CompressionMode.Decompress);
+                            //var innerStream = SharpCompress.Archives.Tar.TarArchive.Open(outerStream);
+                            //using (var existingZip = SharpCompress.Archives.Tar.TarArchive.Open(fileData))
+                            //Helpers.RezipFromArchive(innerStream, zf);
+                            innerStream.Dispose();
+                            stream2.Close(); stream2.Dispose();
+                            File.Delete(tempfile);
+                        }
+                        break;
                     default:
                         zf.CreateEntryFromFile(file, Path.GetFileName(file));
                         break;
                 }
-                //if (existingZip != null) existingZip.Dispose();
-                //fs.Close(); fs.Dispose();
                 zf.Dispose();
                 zfs.Close(); zfs.Dispose();
-                File.Move(tempfilename, Path.GetDirectoryName(file) + "/" + Path.GetFileNameWithoutExtension(file) + ".zip", true);
+                File.Move(tempfilename, tempfilename.Replace("-temp", ""), true);
                 if (!file.EndsWith(".zip")) //we just overwrote this file, don't remove it.
+                {
                     File.Delete(file);
+                }
+                count++;
+            }
+            progress.Report("Complete");
+        }
+
+        public static void LZipLogic(IProgress<string> progress, string path)
+        {
+            var files = Directory.EnumerateFiles(path).ToList();
+            int count = 1;
+            foreach (var file in files)
+            {
+                progress.Report(count + "/" + files.Count() + ":" + Path.GetFileName(file));
+
+                string tempfilename = Path.GetDirectoryName(file) + "/" + Path.GetFileNameWithoutExtension(file) + ".lzmazip-temp";
+
+                var zfs = File.Create(tempfilename);
+                var zf = WriterFactory.Open(zfs, SharpCompress.Common.ArchiveType.Zip, new WriterOptions(SharpCompress.Common.CompressionType.LZMA)); //LZMA does 
+                switch (Path.GetExtension(file.ToLower()))
+                {
+                    case ".zip":
+                    case ".rar":
+                    case ".gz":
+                    case ".gzip":
+                    case ".tar":
+                    case ".7z":
+                        using (var mmf = System.IO.MemoryMappedFiles.MemoryMappedFile.CreateFromFile(file))
+                        using (var fileData = mmf.CreateViewStream())
+                        {
+                            using (var existingZip = SharpCompress.Archives.ArchiveFactory.Open(fileData))
+                                Helpers.RezipFromArchive(existingZip, zf);
+                        }
+                        break;
+                    case ".lz":
+                        //Already done under this method, skip it.
+                        break;
+                    default:
+                        zf.Write(file.Replace(path, ""), new FileInfo(file));
+                        break;
+                }
+                zf.Dispose();
+                zfs.Close(); zfs.Dispose();
+                if (!file.EndsWith(".lzmazip")) //if this was an lzmazip file, we skipped it.
+                {
+                    File.Move(tempfilename, tempfilename.Replace("-temp", ""), true);
+                    File.Delete(file);
+                }
                 count++;
             }
             progress.Report("Complete");
@@ -286,7 +391,7 @@ namespace RomDatabase5
                     //Identify it first.
                     var hashes = h.HashFileAtPath(file);
                     var identifiedFiles = db.findFile(hashes);
-                    if (identifiedFiles.Count > 0)
+                    if (identifiedFiles.Count > 1)
                     {
                         //TODO: duplicate entries in DAT file unhandled
                         throw new Exception("multiple entries in provided DAT file for " + file);
@@ -535,22 +640,25 @@ namespace RomDatabase5
 
         public static void DeleteLowercase(IProgress<string> progress, string path)
         {
-            var allFiles  = System.IO.Directory.EnumerateFiles(path, "*.*", SearchOption.AllDirectories);
-            var maybeMissed = allFiles.Where(f => f.EndsWith("IPS") || f.EndsWith("BPS") || f.EndsWith("UPS") || f.EndsWith("XDELTA"));
-
-            foreach(var f in allFiles)
+            var dirs = Directory.EnumerateDirectories(path);
+            foreach (var dir in dirs)
             {
-                if (!maybeMissed.Contains(f))
-                    File.Delete(f);
-            }
+                var files = Directory.EnumerateFiles(dir);
+                var maybeMissed = files.Where(f => f.EndsWith("IPS") || f.EndsWith("BPS") || f.EndsWith("UPS") || f.EndsWith("XDELTA")).ToList();
 
-            try
-            {
-                if (maybeMissed.Count() == 0)
-                    Directory.Delete(path, true);
+                try
+                {
+                    if (maybeMissed.Count() == 0)
+                        Directory.Delete(dir, true);
+                    else
+                    {
+                        foreach (var f in files)
+                            if (!maybeMissed.Contains(f))
+                                File.Delete(f);
+                    }
+                }
+                catch { }
             }
-            catch { }
         }
-
     }
 }

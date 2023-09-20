@@ -1,4 +1,5 @@
 ﻿using SharpCompress.Archives;
+using SharpCompress.Writers;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -20,6 +21,20 @@ namespace RomDatabase5
                     var tempFile = Path.GetTempFileName();
                     ez.WriteToFile(tempFile);
                     zf.CreateEntryFromFile(tempFile, ez.Key);
+                    File.Delete(tempFile);
+                }
+            }
+        }
+
+        public static void RezipFromArchive(SharpCompress.Archives.IArchive existingZip, IWriter zf)
+        {
+            foreach (var ez in existingZip.Entries)
+            {
+                if (!ez.IsDirectory)
+                {
+                    var tempFile = Path.GetTempFileName();
+                    ez.WriteToFile(tempFile);
+                    zf.Write(ez.Key, new FileInfo(tempFile));
                     File.Delete(tempFile);
                 }
             }
