@@ -37,6 +37,18 @@ namespace RomDatabase5
             crc = new Crc32Algorithm();
         }
 
+        public string GetCRC32String(ref byte[] data)
+        {
+            var hash = crc.ComputeHash(data);
+            return HashToString(hash);
+        }
+
+        public string GetSHA1String(ref byte[] data)
+        {
+            var hash = sha1.ComputeHash(data);
+            return HashToString(hash);
+        }
+
         string HashToString(ref byte[] hash)
         {
             StringBuilder sb = new StringBuilder();
