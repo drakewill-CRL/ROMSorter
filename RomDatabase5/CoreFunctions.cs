@@ -706,10 +706,19 @@ namespace RomDatabase5
                     { 3, "cnrom" },
                     { 4, "txrom" },
                     { 5, "exrom" },
+                    { 7, "axrom" },
+                    { 9, "pxrom" },
+                    { 10, "fxrom" },
                     { 28, "action53" },
+                    { 29, "cufrom" },
                     { 30, "unrom512" },
+                    { 31, "2a03pur" },
+                    { 34, "bnrom" },
+                    { 66, "gxrom" },
+                    { 69, "sunsoft5a" }, //5b is also the same number, but has expansion audio.
                     { 105, "nes_event" },
-                    //{ 111, "doesntwork" }, //doesnt work. WILL be gtrom
+                    //{ 111, "doesntwork" }, //doesnt work. WILL be gtrom/cheapacabra.
+                    { 555, "nes_event2" },
 
                 };
 
@@ -736,7 +745,7 @@ namespace RomDatabase5
                         //NES 2.0 uses bytes 6, 7, and 8 for mapper number
                         int mapperLow2 = header[6] >> 4;
                         int mapperHigh2 = header[7] & 240;
-                        int mapperHighest = header[8] % 15;
+                        int mapperHighest = header[8] & 15;
                         int subMapper = header[8] >> 4;
 
                         mapperNumber = mapperLow2 + mapperHigh2 + (mapperHighest * 255);
@@ -869,9 +878,9 @@ namespace RomDatabase5
                 xml.AppendLine("\t\t<part name=\"cart\" interface=\"nes_cart\">"); //UXROM is marker for most homebrew games
                 xml.AppendLine("\t\t\t<feature name=\"slot\" value=\"" + mapper + "\"/>"); //This is what MAME uses to set mapper usage.
                 xml.Append(mirroring);
-                xml.Append(battery);
-                xml.Append(chrram);
                 xml.AppendLine(romSection);
+                xml.Append(chrram);
+                xml.Append(battery);
                 xml.AppendLine("\t\t</part>");
                 xml.AppendLine("\t</software>");
 
