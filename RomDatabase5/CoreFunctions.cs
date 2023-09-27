@@ -1,16 +1,19 @@
 ﻿using SharpCompress.Archives;
 using SharpCompress.Common;
+using SharpCompress.Compressors.Xz;
 using SharpCompress.Readers;
 using SharpCompress.Writers;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
+using System.Configuration;
 using System.Data;
 using System.Drawing;
 using System.IO;
 using System.IO.Compression;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
 namespace RomDatabase5
@@ -110,8 +113,8 @@ namespace RomDatabase5
                             //using (var existingZip = SharpCompress.Archives.Tar.TarArchive.Open(fileData))
                             //foreach(var  e in innerStream.)
                             //{ 
-                                
-                                //e.WriteToDirectory(path); 
+
+                            //e.WriteToDirectory(path); 
                             //}
                             innerStream.Dispose();
 
@@ -530,12 +533,12 @@ namespace RomDatabase5
         /// <param name="path"></param>
         public static void CreateM3uPlaylists(IProgress<string> progress, string path)
         {
-            var fileList = System.IO.Directory.EnumerateFiles(path)            
-                .Where(x => x.Contains("disc 1", StringComparison.CurrentCultureIgnoreCase) 
+            var fileList = System.IO.Directory.EnumerateFiles(path)
+                .Where(x => x.Contains("disc 1", StringComparison.CurrentCultureIgnoreCase)
                 && (x.Contains(".chd") || x.Contains(".iso") || x.Contains(".cue")))
                 .ToList();
 
-            foreach(var file in fileList)
+            foreach (var file in fileList)
             {
                 progress.Report(file);
                 var fullTitle = System.IO.Path.GetFileName(file);
@@ -543,7 +546,7 @@ namespace RomDatabase5
                 var partialTitle = fullTitle.Substring(0, titlePosition);
 
                 var diskFiles = System.IO.Directory.EnumerateFiles(path)
-                .Where(x => x.Contains(partialTitle, StringComparison.CurrentCultureIgnoreCase) 
+                .Where(x => x.Contains(partialTitle, StringComparison.CurrentCultureIgnoreCase)
                 && (x.Contains(".chd") || x.Contains(".iso") || x.Contains(".cue")))
                 .OrderBy(x => x)
                 .Select(x => Path.GetFileName(x))
@@ -571,7 +574,7 @@ namespace RomDatabase5
             }
 
             string romName = possibleROM.FirstOrDefault();
-            
+
 
             foreach (var patch in patchList)
             {
@@ -616,7 +619,7 @@ namespace RomDatabase5
 
         public static void DeleteIfNoXDelta(IProgress<string> progress, string path)
         {
-            var xdeltas =  System.IO.Directory.EnumerateFiles(path, "*.xdelta", SearchOption.AllDirectories);
+            var xdeltas = System.IO.Directory.EnumerateFiles(path, "*.xdelta", SearchOption.AllDirectories);
 
             try
             {
@@ -663,15 +666,53 @@ namespace RomDatabase5
 
         public static void PrepareNesForMAME(IProgress<string> progress, string path)
         {
-            var files = Directory.EnumerateFiles(path);
+            //TODO: wram is some kind of writable ram. Air Fortress?
+            //TODO mapper_ram is MMC5/ExRAM sutff.
+            //TODO mapper_bram is mapper-specific battery ram
+
+            HashSet<string> usedShortNames = new HashSet<string>();
+            Hasher h = new Hasher();
+            var files = Directory.EnumerateFiles(path, "*.nes");
             foreach (var file in files)
             {
                 //Path needs to be unzipped game.
                 byte[] game = File.ReadAllBytes(file);
                 byte[] output = null;
 
-                string shortName = Path.GetFileNameWithoutExtension(file).ToLower().Substring(0, 8); //TODO: take decent guess on this programmatically.
+                //TODO: take decent guess on this programmatically.
+                string shortName = Path.GetFileNameWithoutExtension(file).ToLower().Substring(0, 8).Replace(" ", ""); 
+
+                int counter = 1;
+                while (usedShortNames.Contains(shortName))
+                {
+                    shortName = shortName.Substring(0, shortName.Length - 1) + counter;
+                    counter++;
+                }
+                usedShortNames.Add(shortName);
+
+
                 string endFilename = Path.GetFileNameWithoutExtension(file).ToLower() + ".prg";
+                string mapper = "nrom";
+                int mapperNumber;
+                string mirroring = "";
+                string chrram = "";
+                string battery = "";
+                string romSection = "";
+
+                Dictionary<int, string> mapperNames = new Dictionary<int, string>() {
+                    { 0, "nrom" },
+                    { 1, "sxrom" },
+                    { 2, "uxrom" },
+                    { 3, "cnrom" },
+                    { 4, "txrom" },
+                    { 5, "exrom" },
+                    { 28, "action53" },
+                    { 30, "unrom512" },
+                    { 105, "nes_event" },
+                    //{ 111, "doesntwork" }, //doesnt work. WILL be gtrom
+
+                };
+
 
                 //TODO: better detection of INES 2.0 header and processing it later.
                 /*
@@ -683,56 +724,158 @@ namespace RomDatabase5
                 if (game.Length % 8192 == 16)
                 {
                     //headered game, strip from final.
-                    output = new byte[game.Length - 16];
-                    game.CopyTo(output, 16);
-                    File.WriteAllBytes(Path.GetDirectoryName(file) + "\\" + endFilename, output);
+                    var header = new byte[16];
+                    Buffer.BlockCopy(game, 0, header, 0, 16);
 
-                    //Header processing:
-                    /*
-                     * Bytes 	Description
-                        0-3 	Constant $4E $45 $53 $1A (ASCII "NES" followed by MS-DOS end-of-file)
-                        4 	Size of PRG ROM in 16 KB units
-                        5 	Size of CHR ROM in 8 KB units (value 0 means the board uses CHR RAM)
-                        6 	Flags 6 – Mapper, mirroring, battery, trainer
-                        7 	Flags 7 – Mapper, VS/Playchoice, NES 2.0
-                        8 	Flags 8 – PRG-RAM size (rarely used extension)
-                        9 	Flags 9 – TV system (rarely used extension)
-                        10 	Flags 10 – TV system, PRG-RAM presence (unofficial, rarely used extension) 
-                     */
+                    if (header[0] != 'N' && header[1] != 'E' && header[2] != 'S') //Sanity check.
+                        continue;
+
+                    //is NES 2.0?
+                    if ((header[7] & 12) == 8) //and size
+                    {
+                        //NES 2.0 uses bytes 6, 7, and 8 for mapper number
+                        int mapperLow2 = header[6] >> 4;
+                        int mapperHigh2 = header[7] & 240;
+                        int mapperHighest = header[8] % 15;
+                        int subMapper = header[8] >> 4;
+
+                        mapperNumber = mapperLow2 + mapperHigh2 + (mapperHighest * 255);
+
+                        //INES 2.0 means CHRRAM is deteremined from the header
+                        if (header[11] > 0)
+                        {
+                            int ramSize = header[11] & 15;
+                            chrram = "\t\t\t<dataarea name=\"vram\" size=\"" + (64 << ramSize) + "\"/>\r\n\t\t\t</dataarea>\r\n";
+                        }
+                    }
+                    else
+                    {
+                        //older INES header.
+                        int mapperLow = header[6] >> 4;
+                        int mapperHigh = header[7] & 240;
+                        mapperNumber = mapperLow + mapperHigh;
+
+                        //old INES means CHRRAM is automatically 8kb if header[5] == 0
+                        if (header[5] == 0)
+                            chrram = "<dataarea name=\"vram\" size=\"8192\"/>\r\n</dataarea>\r\n";
+                    }
+
+                    if (!mapperNames.TryGetValue(mapperNumber, out mapper))
+                        continue; //Probably not going to work here. come back after adding mapper.
+
+                    FileStream outputFile = File.Create(Path.GetDirectoryName(file) + "\\" + shortName + ".zip");
+                    ZipArchive outputZip = new ZipArchive(outputFile, ZipArchiveMode.Create);
+
+                    if(header[5] > 0)
+                    {
+                        //may need to split files for MAME to load it correctly if there's CHRROM.
+                        var p1 = outputZip.CreateEntry("0.prg");
+                        var p1Stream = p1.Open();
+                        int prgSize = header[4] * 16384;
+                        byte[] prg = new byte[prgSize];
+                        Buffer.BlockCopy(game, 16, prg, 0, prgSize);
+                        //File.WriteAllBytes(Path.GetDirectoryName(file) + "\\0.prg", prg);
+                        BinaryWriter sw = new BinaryWriter(p1Stream);
+                        sw.Write(prg);
+                        sw.Close();
+                        p1Stream.Close(); p1Stream.Dispose();
+                        string crcHashprg = h.GetCRC32String(ref prg);
+                        string sha1Hashprg = h.GetSHA1String(ref prg);
 
 
-                    //Mapper note:
-                    //nes_pcb.hxx is what defines and connects the slot value to the actual code, if I need to work out which one to use for a given game.
+                        var c1 = outputZip.CreateEntry("0.chr");
+                        var c1Stream = c1.Open();
+                        int chrSize = header[5] * 8192;
+                        byte[] chr = new byte[chrSize];
+                        Buffer.BlockCopy(game, prgSize + 16, chr, 0, chrSize);
+                        sw = new BinaryWriter(c1Stream);
+                        sw.Write(chr);
+                        sw.Close();
+                        c1Stream.Close(); c1Stream.Dispose();
+                        string crcHashchr = h.GetCRC32String(ref chr);
+                        string sha1Hashchr = h.GetSHA1String(ref chr);
+
+                        romSection = "\t\t\t<dataarea name=\"prg\" size=\"" + prg.Length + "\">\r\n" +
+                        "\t\t\t\t<rom name=\"0.prg\" size=\"" + prg.Length + "\" crc=\"" + crcHashprg + "\" sha1=\"" + sha1Hashprg + "\"/>\r\n" +
+                        "\t\t\t</dataarea>\r\n" +
+                        "\t\t\t<dataarea name=\"chr\" size=\"" + chr.Length + "\">\r\n" +
+                        "\t\t\t\t<rom name=\"0.chr\" size=\"" + chr.Length + "\" crc=\"" + crcHashchr + "\" sha1=\"" + sha1Hashchr + "\"/>\r\n" +
+                        "\t\t\t</dataarea>";
+                    }
+                    else
+                    {
+                        //No CHRRAM, use the existing file and name.
+                        var entry = outputZip.CreateEntry(endFilename);
+                        var entryStream = entry.Open();
+                        output = new byte[game.Length - 16];
+                        Buffer.BlockCopy(game, 16, output, 0, output.Length);
+                        //File.WriteAllBytes(Path.GetDirectoryName(file) + "\\" + endFilename, output);
+                        //StreamWriter sw1 = new StreamWriter(entryStream);
+                        BinaryWriter sw1 = new BinaryWriter(entryStream);
+                        sw1.Write(output);
+                        sw1.Close();
+                        entryStream.Close(); entryStream.Dispose();
+
+                        string crcHash = h.GetCRC32String(ref output);
+                        string sha1Hash = h.GetSHA1String(ref output);
+
+                        romSection = "\t\t\t<dataarea name=\"prg\" size=\"" + output.Length + "\">\r\n" +
+                        "\t\t\t\t<rom name=\"" + endFilename + "\" size=\"" + output.Length + "\" crc=\"" + crcHash + "\" sha1=\"" + sha1Hash + "\"/>\r\n" +
+                        "\t\t\t</dataarea>";
+                    }
+
+                    outputZip.Dispose();
+                    outputFile.Close(); outputFile.Dispose();
+
+                    if ((header[6] & 1) == 1)
+                        mirroring = "\t\t\t<feature name=\"mirroring\" value=\"vertical\"/>\r\n";
+
+                    if ((header[6] & 2) == 2)
+                        battery = "\t\t\t<dataarea name=\"bwram\" size=\"8192\">\r\n\t\t\t\t<rom value=\"0x00\" size=\"8192\" offset=\"0\"" +
+                            "loadflag=\"fill\" />\r\n\t\t\t</dataarea>\r\n";
+
+
+                        //Header processing per INES 1.0:
+                        /*
+                         * Bytes 	Description 
+                            0-3 	Constant $4E $45 $53 $1A (ASCII "NES" followed by MS-DOS end-of-file)
+                            4 	Size of PRG ROM in 16 KB units
+                            5 	Size of CHR ROM in 8 KB units (value 0 means the board uses CHR RAM)
+                            6 	Flags 6 – Mapper, mirroring, battery, trainer
+                            7 	Flags 7 – Mapper, VS/Playchoice, NES 2.0
+                            8 	Flags 8 – PRG-RAM size (rarely used extension)
+                            9 	Flags 9 – TV system (rarely used extension)
+                            10 	Flags 10 – TV system, PRG-RAM presence (unofficial, rarely used extension) 
+                         */
+
+                        //Mapper note:
+                        //nes_pcb.hxx is what defines and connects the slot value to the actual code, if I need to work out which one to use for a given game.
                 }
                 else
                 {
+                    //Unheadered game logic.
+                    //TODO: converting unheadered game should just save that to a .prg file and make the default XML entry for it.
                     output = game;
                     File.Copy(file, Path.GetDirectoryName(file) + "\\" + endFilename);
                 }
 
-                //TODO Final game should be zipped up to shortname.zip.
-
-                //Should also make a quick attempt to make the XML entry for the game.
-                Hasher h = new Hasher();
-                string crcHash = h.GetCRC32String(ref output);
-                string sha1Hash = h.GetSHA1String(ref output);
-
+                
                 StringBuilder xml = new StringBuilder();
-                xml.AppendLine("<software name=\"shrtname\" cloneof=\"none\" supported=\"partial\">");
-                xml.AppendLine("\t<description>" + Path.GetFileNameWithoutExtension(file) + "</description>");
-                xml.AppendLine("\t<year>????</year>");
-                xml.AppendLine("\t<publisher>&lt;unknown&gt;</publisher>");
-                xml.AppendLine("\t<info name=\"release\" value=\"xxxxxxxx\"/>");
-                xml.AppendLine("\t<part name=\"cart\" interface=\"nes_cart\">"); //UXROM is marker for most homebrew games
-                xml.AppendLine("\t\t<feature name=\"slot\" value=\"uxrom\"/>"); //TODO: determine from header value if possible. This IS what MAME uses to determine mapper.
-                                                                                //TODO: mirroring value determined from header if possible
-                xml.AppendLine("\t\t<dataarea name=\"prg\" size=\"" + game.Length + "\">");
-                xml.AppendLine("\t\t\t<rom name=\"" + endFilename + "\" size=\"" + output.Length + "\" crc=\"" + crcHash + "\" sha1=\"" + sha1Hash + "\" offset=\"00000\"/>");
-                xml.AppendLine("\t\t</dataarea>");
-                xml.AppendLine("\t</part>");
-                xml.AppendLine("</software>");
+                xml.AppendLine("\t<software name=\"" + shortName + "\" cloneof=\"none\" supported=\"partial\">");
+                xml.AppendLine("\t\t<description>" + Path.GetFileNameWithoutExtension(file) + "</description>");
+                xml.AppendLine("\t\t<year>????</year>");
+                xml.AppendLine("\t\t<publisher>&lt;unknown&gt;</publisher>");
+                xml.AppendLine("\t\t<info name=\"release\" value=\"xxxxxxxx\"/>");
+                xml.AppendLine("\t\t<part name=\"cart\" interface=\"nes_cart\">"); //UXROM is marker for most homebrew games
+                xml.AppendLine("\t\t\t<feature name=\"slot\" value=\"" + mapper + "\"/>"); //This is what MAME uses to set mapper usage.
+                xml.Append(mirroring);
+                xml.Append(battery);
+                xml.Append(chrram);
+                xml.AppendLine(romSection);
+                xml.AppendLine("\t\t</part>");
+                xml.AppendLine("\t</software>");
 
-                File.WriteAllText(Path.GetDirectoryName(file) + "shortname.xml", xml.ToString());
+                File.WriteAllText(Path.GetDirectoryName(file) + "\\" + shortName + ".xml", xml.ToString());
             }
         }
     }

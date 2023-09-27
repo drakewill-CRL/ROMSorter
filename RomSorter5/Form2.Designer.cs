@@ -53,6 +53,7 @@
             button1 = new System.Windows.Forms.Button();
             chkMoveMissedPatches = new System.Windows.Forms.CheckBox();
             btnLzip = new System.Windows.Forms.Button();
+            btnPrepNES = new System.Windows.Forms.Button();
             SuspendLayout();
             // 
             // btnDetectDupes
@@ -319,7 +320,7 @@
             // 
             // btnMultiPatch
             // 
-            btnMultiPatch.Location = new System.Drawing.Point(381, 186);
+            btnMultiPatch.Location = new System.Drawing.Point(381, 104);
             btnMultiPatch.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             btnMultiPatch.Name = "btnMultiPatch";
             btnMultiPatch.Size = new System.Drawing.Size(111, 75);
@@ -351,7 +352,7 @@
             // 
             // btnLzip
             // 
-            btnLzip.Location = new System.Drawing.Point(381, 104);
+            btnLzip.Location = new System.Drawing.Point(676, 349);
             btnLzip.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             btnLzip.Name = "btnLzip";
             btnLzip.Size = new System.Drawing.Size(111, 75);
@@ -361,11 +362,23 @@
             btnLzip.Visible = false;
             btnLzip.Click += btnLzip_Click;
             // 
+            // btnPrepNES
+            // 
+            btnPrepNES.Location = new System.Drawing.Point(496, 104);
+            btnPrepNES.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            btnPrepNES.Name = "btnPrepNES";
+            btnPrepNES.Size = new System.Drawing.Size(111, 75);
+            btnPrepNES.TabIndex = 43;
+            btnPrepNES.Text = "Prep NES Files For MAME";
+            btnPrepNES.UseVisualStyleBackColor = true;
+            btnPrepNES.Click += btnPrepNES_Click;
+            // 
             // Form2
             // 
             AutoScaleDimensions = new System.Drawing.SizeF(7F, 17F);
             AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             ClientSize = new System.Drawing.Size(794, 515);
+            Controls.Add(btnPrepNES);
             Controls.Add(btnLzip);
             Controls.Add(chkMoveMissedPatches);
             Controls.Add(button1);
@@ -433,5 +446,6 @@
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.CheckBox chkMoveMissedPatches;
         private System.Windows.Forms.Button btnLzip;
+        private System.Windows.Forms.Button btnPrepNES;
     }
 }
