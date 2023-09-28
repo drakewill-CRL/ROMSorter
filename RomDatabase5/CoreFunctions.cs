@@ -680,7 +680,7 @@ namespace RomDatabase5
                 byte[] output = null;
 
                 //TODO: take decent guess on this programmatically.
-                string shortName = Path.GetFileNameWithoutExtension(file).ToLower().Substring(0, 8).Replace(" ", ""); 
+                string shortName = Path.GetFileNameWithoutExtension(file).ToLower().Substring(0, 9).Replace(" ", ""); 
 
                 int counter = 1;
                 while (usedShortNames.Contains(shortName))
@@ -719,7 +719,6 @@ namespace RomDatabase5
                     { 105, "nes_event" },
                     //{ 111, "doesntwork" }, //doesnt work. WILL be gtrom/cheapacabra.
                     { 555, "nes_event2" },
-
                 };
 
 
@@ -754,7 +753,7 @@ namespace RomDatabase5
                         if (header[11] > 0)
                         {
                             int ramSize = header[11] & 15;
-                            chrram = "\t\t\t<dataarea name=\"vram\" size=\"" + (64 << ramSize) + "\"/>\r\n\t\t\t</dataarea>\r\n";
+                            chrram = "\t\t\t<dataarea name=\"vram\" size=\"" + (64 << ramSize) + "\"/>\r\n";
                         }
                     }
                     else
@@ -840,7 +839,7 @@ namespace RomDatabase5
                         mirroring = "\t\t\t<feature name=\"mirroring\" value=\"vertical\"/>\r\n";
 
                     if ((header[6] & 2) == 2)
-                        battery = "\t\t\t<dataarea name=\"bwram\" size=\"8192\">\r\n\t\t\t\t<rom value=\"0x00\" size=\"8192\" offset=\"0\"" +
+                        battery = "\t\t\t<dataarea name=\"bwram\" size=\"8192\">\r\n\t\t\t\t<rom value=\"0x00\" size=\"8192\" offset=\"0\" " +
                             "loadflag=\"fill\" />\r\n\t\t\t</dataarea>\r\n";
 
 
