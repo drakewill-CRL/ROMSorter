@@ -886,5 +886,61 @@ namespace RomDatabase5
                 File.WriteAllText(Path.GetDirectoryName(file) + "\\" + shortName + ".xml", xml.ToString());
             }
         }
+
+        public static string QuickMergeFolders(IProgress<string> progress, string path1, string path2)
+        {
+            //This looks at the files by name in both folders, and copies any files not present in 1 to the other, in both directions
+
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine("Folder Merge Report");
+
+            if (!path1.EndsWith("\\"))
+                path1 += "\\";
+            
+            if (!path2.EndsWith("\\"))
+                path2 += "\\";
+
+            //recursive eventually
+            //var subfolders1 = System.IO.Directory.EnumerateDirectories(path1);
+            //var subfolders2 = System.IO.Directory.EnumerateDirectories(path2);
+
+            //var missing2 = subfolders1.Where(s => !subfolders2.Contains(s));
+            //var missing1 = subfolders2.Where(s => !subfolders1.Contains(s));
+
+            //foreach(var sf in subfolders1)
+            //{
+            //    if (missing2.Contains(sf))
+            //    {
+            //        //copy folder
+            //    }
+            //    else
+            //    {
+            //        //recursive call.
+            //    }
+            //}
+
+            var files1 = System.IO.Directory.EnumerateFiles(path1);
+            var files2 = System.IO.Directory.EnumerateFiles(path2);
+
+            var moveTo2 = files1.Where(f => !files2.Contains(f));
+            var moveTo1 = files2.Where(f => !files1.Contains(f));
+
+            foreach (var file in moveTo1)
+                File.Copy(file, path2 + Path.GetFileName(file));
+
+            foreach (var file in moveTo2)
+                File.Copy(file, path1 + Path.GetFileName(file));
+
+            sb.AppendLine("Files moved to " + path1 + ":");
+            foreach (var f in moveTo1)
+                sb.AppendLine(f);
+
+            sb.AppendLine("Files moved to " + path2 + ":");
+            foreach (var f in moveTo2)
+                sb.AppendLine(f);
+
+            return sb.ToString();
+
+        }
     }
 }

@@ -522,5 +522,10 @@ namespace RomSorter5WinForms {
         {
             BaseBehavior(CoreFunctions.PrepareNesForMAME, txtRomPath.Text);
         }
+
+        private void btnQuickMerge_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

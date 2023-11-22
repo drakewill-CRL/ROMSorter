@@ -54,14 +54,15 @@
             chkMoveMissedPatches = new System.Windows.Forms.CheckBox();
             btnLzip = new System.Windows.Forms.Button();
             btnPrepNES = new System.Windows.Forms.Button();
+            btnQuickMerge = new System.Windows.Forms.Button();
             SuspendLayout();
             // 
             // btnDetectDupes
             // 
-            btnDetectDupes.Location = new System.Drawing.Point(130, 104);
+            btnDetectDupes.Location = new System.Drawing.Point(130, 92);
             btnDetectDupes.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             btnDetectDupes.Name = "btnDetectDupes";
-            btnDetectDupes.Size = new System.Drawing.Size(111, 75);
+            btnDetectDupes.Size = new System.Drawing.Size(111, 66);
             btnDetectDupes.TabIndex = 0;
             btnDetectDupes.Text = "Detect Duplicate (Unzipped) Files";
             btnDetectDupes.UseVisualStyleBackColor = true;
@@ -70,19 +71,19 @@
             // txtDatPath
             // 
             txtDatPath.Anchor = System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right;
-            txtDatPath.Location = new System.Drawing.Point(195, 9);
+            txtDatPath.Location = new System.Drawing.Point(195, 8);
             txtDatPath.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             txtDatPath.Name = "txtDatPath";
-            txtDatPath.Size = new System.Drawing.Size(589, 25);
+            txtDatPath.Size = new System.Drawing.Size(589, 23);
             txtDatPath.TabIndex = 15;
             txtDatPath.Leave += txtDatPath_Leave;
             // 
             // btnDatFolderSelect
             // 
-            btnDatFolderSelect.Location = new System.Drawing.Point(136, 5);
+            btnDatFolderSelect.Location = new System.Drawing.Point(136, 4);
             btnDatFolderSelect.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             btnDatFolderSelect.Name = "btnDatFolderSelect";
-            btnDatFolderSelect.Size = new System.Drawing.Size(55, 27);
+            btnDatFolderSelect.Size = new System.Drawing.Size(55, 24);
             btnDatFolderSelect.TabIndex = 14;
             btnDatFolderSelect.Text = "Select";
             btnDatFolderSelect.UseVisualStyleBackColor = true;
@@ -91,28 +92,28 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new System.Drawing.Point(10, 10);
+            label1.Location = new System.Drawing.Point(10, 9);
             label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             label1.Name = "label1";
-            label1.Size = new System.Drawing.Size(116, 17);
+            label1.Size = new System.Drawing.Size(106, 15);
             label1.TabIndex = 13;
             label1.Text = "Dat File: (Optional)";
             // 
             // txtRomPath
             // 
             txtRomPath.Anchor = System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right;
-            txtRomPath.Location = new System.Drawing.Point(195, 39);
+            txtRomPath.Location = new System.Drawing.Point(195, 34);
             txtRomPath.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             txtRomPath.Name = "txtRomPath";
-            txtRomPath.Size = new System.Drawing.Size(589, 25);
+            txtRomPath.Size = new System.Drawing.Size(589, 23);
             txtRomPath.TabIndex = 18;
             // 
             // btnRomFolderSelect
             // 
-            btnRomFolderSelect.Location = new System.Drawing.Point(136, 34);
+            btnRomFolderSelect.Location = new System.Drawing.Point(136, 30);
             btnRomFolderSelect.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             btnRomFolderSelect.Name = "btnRomFolderSelect";
-            btnRomFolderSelect.Size = new System.Drawing.Size(55, 27);
+            btnRomFolderSelect.Size = new System.Drawing.Size(55, 24);
             btnRomFolderSelect.TabIndex = 17;
             btnRomFolderSelect.Text = "Select";
             btnRomFolderSelect.UseVisualStyleBackColor = true;
@@ -121,10 +122,10 @@
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new System.Drawing.Point(10, 41);
+            label2.Location = new System.Drawing.Point(10, 36);
             label2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             label2.Name = "label2";
-            label2.Size = new System.Drawing.Size(95, 17);
+            label2.Size = new System.Drawing.Size(86, 15);
             label2.TabIndex = 16;
             label2.Text = "Current Folder:";
             // 
@@ -137,29 +138,29 @@
             // progressBar1
             // 
             progressBar1.Anchor = System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right;
-            progressBar1.Location = new System.Drawing.Point(10, 441);
+            progressBar1.Location = new System.Drawing.Point(10, 389);
             progressBar1.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             progressBar1.Name = "progressBar1";
-            progressBar1.Size = new System.Drawing.Size(777, 35);
+            progressBar1.Size = new System.Drawing.Size(777, 31);
             progressBar1.TabIndex = 20;
             // 
             // lblStatus
             // 
             lblStatus.Anchor = System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left;
             lblStatus.AutoSize = true;
-            lblStatus.Location = new System.Drawing.Point(12, 487);
+            lblStatus.Location = new System.Drawing.Point(12, 430);
             lblStatus.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             lblStatus.Name = "lblStatus";
-            lblStatus.Size = new System.Drawing.Size(29, 17);
+            lblStatus.Size = new System.Drawing.Size(26, 15);
             lblStatus.TabIndex = 19;
             lblStatus.Text = "Idle";
             // 
             // btnUnzipAll
             // 
-            btnUnzipAll.Location = new System.Drawing.Point(246, 104);
+            btnUnzipAll.Location = new System.Drawing.Point(246, 92);
             btnUnzipAll.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             btnUnzipAll.Name = "btnUnzipAll";
-            btnUnzipAll.Size = new System.Drawing.Size(111, 75);
+            btnUnzipAll.Size = new System.Drawing.Size(111, 66);
             btnUnzipAll.TabIndex = 21;
             btnUnzipAll.Text = "Unzip All Files";
             btnUnzipAll.UseVisualStyleBackColor = true;
@@ -167,10 +168,10 @@
             // 
             // btnZipAllFiles
             // 
-            btnZipAllFiles.Location = new System.Drawing.Point(12, 104);
+            btnZipAllFiles.Location = new System.Drawing.Point(12, 92);
             btnZipAllFiles.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             btnZipAllFiles.Name = "btnZipAllFiles";
-            btnZipAllFiles.Size = new System.Drawing.Size(111, 75);
+            btnZipAllFiles.Size = new System.Drawing.Size(111, 66);
             btnZipAllFiles.TabIndex = 22;
             btnZipAllFiles.Text = "Zip (or Convert) All Files";
             btnZipAllFiles.UseVisualStyleBackColor = true;
@@ -178,10 +179,10 @@
             // 
             // btnIdentifyAndZip
             // 
-            btnIdentifyAndZip.Location = new System.Drawing.Point(12, 267);
+            btnIdentifyAndZip.Location = new System.Drawing.Point(12, 236);
             btnIdentifyAndZip.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             btnIdentifyAndZip.Name = "btnIdentifyAndZip";
-            btnIdentifyAndZip.Size = new System.Drawing.Size(111, 75);
+            btnIdentifyAndZip.Size = new System.Drawing.Size(111, 66);
             btnIdentifyAndZip.TabIndex = 23;
             btnIdentifyAndZip.Text = "Rename Single-File Games";
             btnIdentifyAndZip.UseVisualStyleBackColor = true;
@@ -190,20 +191,20 @@
             // chkMoveUnidentified
             // 
             chkMoveUnidentified.AutoSize = true;
-            chkMoveUnidentified.Location = new System.Drawing.Point(12, 69);
+            chkMoveUnidentified.Location = new System.Drawing.Point(12, 61);
             chkMoveUnidentified.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             chkMoveUnidentified.Name = "chkMoveUnidentified";
-            chkMoveUnidentified.Size = new System.Drawing.Size(333, 21);
+            chkMoveUnidentified.Size = new System.Drawing.Size(303, 19);
             chkMoveUnidentified.TabIndex = 25;
             chkMoveUnidentified.Text = "Move unidentified files to sub-folder during Rename";
             chkMoveUnidentified.UseVisualStyleBackColor = true;
             // 
             // btnCatalog
             // 
-            btnCatalog.Location = new System.Drawing.Point(12, 186);
+            btnCatalog.Location = new System.Drawing.Point(12, 164);
             btnCatalog.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             btnCatalog.Name = "btnCatalog";
-            btnCatalog.Size = new System.Drawing.Size(111, 75);
+            btnCatalog.Size = new System.Drawing.Size(111, 66);
             btnCatalog.TabIndex = 27;
             btnCatalog.Text = "Catalog Files";
             btnCatalog.UseVisualStyleBackColor = true;
@@ -211,10 +212,10 @@
             // 
             // btnVerify
             // 
-            btnVerify.Location = new System.Drawing.Point(130, 186);
+            btnVerify.Location = new System.Drawing.Point(130, 164);
             btnVerify.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             btnVerify.Name = "btnVerify";
-            btnVerify.Size = new System.Drawing.Size(111, 75);
+            btnVerify.Size = new System.Drawing.Size(111, 66);
             btnVerify.TabIndex = 28;
             btnVerify.Text = "Verify Catalog";
             btnVerify.UseVisualStyleBackColor = true;
@@ -222,10 +223,10 @@
             // 
             // btnRenameMultiFile
             // 
-            btnRenameMultiFile.Location = new System.Drawing.Point(386, 343);
+            btnRenameMultiFile.Location = new System.Drawing.Point(386, 303);
             btnRenameMultiFile.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             btnRenameMultiFile.Name = "btnRenameMultiFile";
-            btnRenameMultiFile.Size = new System.Drawing.Size(111, 75);
+            btnRenameMultiFile.Size = new System.Drawing.Size(111, 66);
             btnRenameMultiFile.TabIndex = 29;
             btnRenameMultiFile.Text = "Rename Multi-File Games (Incomplete)";
             btnRenameMultiFile.UseVisualStyleBackColor = true;
@@ -234,10 +235,10 @@
             // 
             // btnCreateChds
             // 
-            btnCreateChds.Location = new System.Drawing.Point(12, 349);
+            btnCreateChds.Location = new System.Drawing.Point(12, 308);
             btnCreateChds.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             btnCreateChds.Name = "btnCreateChds";
-            btnCreateChds.Size = new System.Drawing.Size(111, 75);
+            btnCreateChds.Size = new System.Drawing.Size(111, 66);
             btnCreateChds.TabIndex = 30;
             btnCreateChds.Text = "Create CHD Files";
             btnCreateChds.UseVisualStyleBackColor = true;
@@ -245,10 +246,10 @@
             // 
             // btnExtractChds
             // 
-            btnExtractChds.Location = new System.Drawing.Point(130, 349);
+            btnExtractChds.Location = new System.Drawing.Point(130, 308);
             btnExtractChds.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             btnExtractChds.Name = "btnExtractChds";
-            btnExtractChds.Size = new System.Drawing.Size(111, 75);
+            btnExtractChds.Size = new System.Drawing.Size(111, 66);
             btnExtractChds.TabIndex = 31;
             btnExtractChds.Text = "Extract CHD Files";
             btnExtractChds.UseVisualStyleBackColor = true;
@@ -256,10 +257,10 @@
             // 
             // btnMakeDat
             // 
-            btnMakeDat.Location = new System.Drawing.Point(246, 186);
+            btnMakeDat.Location = new System.Drawing.Point(246, 164);
             btnMakeDat.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             btnMakeDat.Name = "btnMakeDat";
-            btnMakeDat.Size = new System.Drawing.Size(111, 75);
+            btnMakeDat.Size = new System.Drawing.Size(111, 66);
             btnMakeDat.TabIndex = 32;
             btnMakeDat.Text = "Make DAT File for Folder";
             btnMakeDat.UseVisualStyleBackColor = true;
@@ -268,19 +269,19 @@
             // label3
             // 
             label3.AutoSize = true;
-            label3.Location = new System.Drawing.Point(1198, 130);
+            label3.Location = new System.Drawing.Point(1198, 115);
             label3.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             label3.Name = "label3";
-            label3.Size = new System.Drawing.Size(155, 17);
+            label3.Size = new System.Drawing.Size(138, 15);
             label3.TabIndex = 33;
             label3.Text = "Nothing over here, sorry.";
             // 
             // btn1G1R
             // 
-            btn1G1R.Location = new System.Drawing.Point(130, 267);
+            btn1G1R.Location = new System.Drawing.Point(130, 236);
             btn1G1R.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             btn1G1R.Name = "btn1G1R";
-            btn1G1R.Size = new System.Drawing.Size(111, 75);
+            btn1G1R.Size = new System.Drawing.Size(111, 66);
             btn1G1R.TabIndex = 35;
             btn1G1R.Text = "Make 1G1R Set";
             btn1G1R.UseVisualStyleBackColor = true;
@@ -288,10 +289,10 @@
             // 
             // btnEverdrive
             // 
-            btnEverdrive.Location = new System.Drawing.Point(246, 267);
+            btnEverdrive.Location = new System.Drawing.Point(246, 236);
             btnEverdrive.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             btnEverdrive.Name = "btnEverdrive";
-            btnEverdrive.Size = new System.Drawing.Size(111, 75);
+            btnEverdrive.Size = new System.Drawing.Size(111, 66);
             btnEverdrive.TabIndex = 36;
             btnEverdrive.Text = "Everdrive Sort";
             btnEverdrive.UseVisualStyleBackColor = true;
@@ -299,10 +300,10 @@
             // 
             // btnCreateM3uPlaylists
             // 
-            btnCreateM3uPlaylists.Location = new System.Drawing.Point(246, 349);
+            btnCreateM3uPlaylists.Location = new System.Drawing.Point(246, 308);
             btnCreateM3uPlaylists.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             btnCreateM3uPlaylists.Name = "btnCreateM3uPlaylists";
-            btnCreateM3uPlaylists.Size = new System.Drawing.Size(111, 75);
+            btnCreateM3uPlaylists.Size = new System.Drawing.Size(111, 66);
             btnCreateM3uPlaylists.TabIndex = 37;
             btnCreateM3uPlaylists.Text = "Create .m3u Playlists";
             btnCreateM3uPlaylists.UseVisualStyleBackColor = true;
@@ -311,19 +312,19 @@
             // chkRecurse
             // 
             chkRecurse.AutoSize = true;
-            chkRecurse.Location = new System.Drawing.Point(381, 69);
+            chkRecurse.Location = new System.Drawing.Point(381, 61);
             chkRecurse.Name = "chkRecurse";
-            chkRecurse.Size = new System.Drawing.Size(177, 21);
+            chkRecurse.Size = new System.Drawing.Size(158, 19);
             chkRecurse.TabIndex = 38;
             chkRecurse.Text = "Operate on all subfolders";
             chkRecurse.UseVisualStyleBackColor = true;
             // 
             // btnMultiPatch
             // 
-            btnMultiPatch.Location = new System.Drawing.Point(381, 104);
+            btnMultiPatch.Location = new System.Drawing.Point(381, 92);
             btnMultiPatch.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             btnMultiPatch.Name = "btnMultiPatch";
-            btnMultiPatch.Size = new System.Drawing.Size(111, 75);
+            btnMultiPatch.Size = new System.Drawing.Size(111, 66);
             btnMultiPatch.TabIndex = 39;
             btnMultiPatch.Text = "Batch-Apply Patches to ROM";
             btnMultiPatch.UseVisualStyleBackColor = true;
@@ -331,10 +332,10 @@
             // 
             // button1
             // 
-            button1.Location = new System.Drawing.Point(539, 267);
+            button1.Location = new System.Drawing.Point(539, 236);
             button1.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             button1.Name = "button1";
-            button1.Size = new System.Drawing.Size(111, 75);
+            button1.Size = new System.Drawing.Size(111, 66);
             button1.TabIndex = 40;
             button1.Text = "test lzip logic";
             button1.UseVisualStyleBackColor = true;
@@ -343,19 +344,19 @@
             // chkMoveMissedPatches
             // 
             chkMoveMissedPatches.AutoSize = true;
-            chkMoveMissedPatches.Location = new System.Drawing.Point(496, 214);
+            chkMoveMissedPatches.Location = new System.Drawing.Point(496, 189);
             chkMoveMissedPatches.Name = "chkMoveMissedPatches";
-            chkMoveMissedPatches.Size = new System.Drawing.Size(291, 21);
+            chkMoveMissedPatches.Size = new System.Drawing.Size(263, 19);
             chkMoveMissedPatches.TabIndex = 41;
             chkMoveMissedPatches.Text = "Move unapplied patches instead of deleteing";
             chkMoveMissedPatches.UseVisualStyleBackColor = true;
             // 
             // btnLzip
             // 
-            btnLzip.Location = new System.Drawing.Point(676, 349);
+            btnLzip.Location = new System.Drawing.Point(676, 308);
             btnLzip.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             btnLzip.Name = "btnLzip";
-            btnLzip.Size = new System.Drawing.Size(111, 75);
+            btnLzip.Size = new System.Drawing.Size(111, 66);
             btnLzip.TabIndex = 42;
             btnLzip.Text = "LZMA-Zip All Files (Max Compression)";
             btnLzip.UseVisualStyleBackColor = true;
@@ -364,20 +365,32 @@
             // 
             // btnPrepNES
             // 
-            btnPrepNES.Location = new System.Drawing.Point(496, 104);
+            btnPrepNES.Location = new System.Drawing.Point(496, 92);
             btnPrepNES.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             btnPrepNES.Name = "btnPrepNES";
-            btnPrepNES.Size = new System.Drawing.Size(111, 75);
+            btnPrepNES.Size = new System.Drawing.Size(111, 66);
             btnPrepNES.TabIndex = 43;
             btnPrepNES.Text = "Prep NES Files For MAME";
             btnPrepNES.UseVisualStyleBackColor = true;
             btnPrepNES.Click += btnPrepNES_Click;
             // 
+            // btnQuickMerge
+            // 
+            btnQuickMerge.Location = new System.Drawing.Point(381, 164);
+            btnQuickMerge.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            btnQuickMerge.Name = "btnQuickMerge";
+            btnQuickMerge.Size = new System.Drawing.Size(111, 66);
+            btnQuickMerge.TabIndex = 44;
+            btnQuickMerge.Text = "Quick-Merge 2 Folders";
+            btnQuickMerge.UseVisualStyleBackColor = true;
+            btnQuickMerge.Click += btnQuickMerge_Click;
+            // 
             // Form2
             // 
-            AutoScaleDimensions = new System.Drawing.SizeF(7F, 17F);
+            AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            ClientSize = new System.Drawing.Size(794, 515);
+            ClientSize = new System.Drawing.Size(794, 454);
+            Controls.Add(btnQuickMerge);
             Controls.Add(btnPrepNES);
             Controls.Add(btnLzip);
             Controls.Add(chkMoveMissedPatches);
@@ -447,5 +460,6 @@
         private System.Windows.Forms.CheckBox chkMoveMissedPatches;
         private System.Windows.Forms.Button btnLzip;
         private System.Windows.Forms.Button btnPrepNES;
+        private System.Windows.Forms.Button btnQuickMerge;
     }
 }
