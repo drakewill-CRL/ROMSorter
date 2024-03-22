@@ -55,6 +55,7 @@
             btnLzip = new System.Windows.Forms.Button();
             btnPrepNES = new System.Windows.Forms.Button();
             btnQuickMerge = new System.Windows.Forms.Button();
+            button2 = new System.Windows.Forms.Button();
             SuspendLayout();
             // 
             // btnDetectDupes
@@ -385,11 +386,23 @@
             btnQuickMerge.UseVisualStyleBackColor = true;
             btnQuickMerge.Click += btnQuickMerge_Click;
             // 
+            // button2
+            // 
+            button2.Location = new System.Drawing.Point(670, 92);
+            button2.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            button2.Name = "button2";
+            button2.Size = new System.Drawing.Size(111, 66);
+            button2.TabIndex = 45;
+            button2.Text = "LiveFixer";
+            button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
+            // 
             // Form2
             // 
             AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             ClientSize = new System.Drawing.Size(794, 454);
+            Controls.Add(button2);
             Controls.Add(btnQuickMerge);
             Controls.Add(btnPrepNES);
             Controls.Add(btnLzip);
@@ -461,5 +474,6 @@
         private System.Windows.Forms.Button btnLzip;
         private System.Windows.Forms.Button btnPrepNES;
         private System.Windows.Forms.Button btnQuickMerge;
+        private System.Windows.Forms.Button button2;
     }
 }

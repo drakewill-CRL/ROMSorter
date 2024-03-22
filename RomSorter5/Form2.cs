@@ -527,5 +527,11 @@ namespace RomSorter5WinForms {
         {
 
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            var lf = new LiveFixer();
+            lf.Show();
+        }
     }
 }
